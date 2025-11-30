@@ -1,0 +1,665 @@
+# 🤖 GitHub Copilot Instructions - World Exams Organization
+
+> Instrucciones globales para todos los repositorios de la organización World Exams.
+> 
+> **IMPORTANTE:** Antes de comenzar cualquier tarea, lee `PLANNING.md` y `TASK.md` para entender la arquitectura y el estado actual del proyecto.
+
+---
+
+## 🔄 Project Awareness & Context
+
+### **SIEMPRE al iniciar una conversación:**
+1. **Lee `PLANNING.md`** para entender arquitectura, stack tecnológico, y restricciones
+2. **Lee `TASK.md`** para ver tareas pendientes, en progreso, y completadas
+3. **Verifica el país del repo actual** (código de país en `config/country.ts`)
+4. **Usa consistencia con la arquitectura global** descrita en estos documentos
+
+### **Antes de implementar una tarea:**
+- Verifica que la tarea esté en `TASK.md`. Si no está, agrégala con descripción y fecha
+- Marca la tarea como "⚙️ En Progreso" antes de comenzar
+- Al terminar, marca como "✅ Completado" inmediatamente
+
+---
+
+## 📋 Resumen del Proyecto
+
+**World Exams** es una organización de código abierto que desarrolla plataformas de práctica para exámenes nacionales estandarizados. Cada país tiene su propio repositorio con identidad visual única.
+
+### Stack Tecnológico
+
+| Tecnología | Versión | Uso |
+|------------|---------|-----|
+| **Astro** | 5.x | Framework principal (Static Site Generator) |
+| **Svelte** | 5.x | Componentes interactivos (Islands) |
+| **TailwindCSS** | 3.x | Estilos utility-first, mobile-first, dark mode |
+| **Supabase** | Latest | BaaS (PostgreSQL, Auth, Realtime, Edge Functions) |
+| **TypeScript** | 5.x | Tipado estricto en todo el proyecto |
+| **GitHub Pages** | - | Hosting gratuito por repo |
+| **GitHub Actions** | - | CI/CD, sincronización, validación |
+
+### Repositorios Principales (Top 20 Países)
+
+| Repo | País | Código | Estado |
+|------|------|--------|--------|
+| `saber-co` | 🇨🇴 Colombia | CO | ✅ Template Base |
+| `exani-mx` | 🇲🇽 México | MX | ✅ Completo |
+| `enem-br` | 🇧🇷 Brasil | BR | ✅ Completo |
+| `sat-us` | 🇺🇸 USA | US | ✅ Completo |
+| `gaokao-zh` | 🇨🇳 China | CN | ✅ Completo |
+| `jee-in` | 🇮🇳 India | IN | ✅ Completo |
+| `ingreso-ar` | 🇦🇷 Argentina | AR | 🔄 Base |
+| `paes-cl` | 🇨🇱 Chile | CL | 🔄 Base |
+| `admision-pe` | 🇵🇪 Peru | PE | 🔄 Base |
+| `question-sync` | Sincronización | - | ⬜ Pendiente |
+| `.github` | Templates org | - | ✅ Completo |
+
+---
+
+## 📁 Estructura Estándar de Repositorio
+
+Todos los repos de país siguen esta estructura:
+
+```text
+saber-[país]/
+├── .github/
+│   ├── copilot-instructions.md    # Instrucciones locales
+│   ├── workflows/
+│   │   ├── deploy.yml             # Deploy a GitHub Pages
+│   │   ├── sync-pull.yml          # Pull traducciones
+│   │   └── validate.yml           # Validar preguntas
+│   └── prompts/
+│       └── generar-pregunta.prompt.md
+├── AGENTS.md                      # Roles AI locales
+├── README.md                      # En idioma local
+├── config/
+│   └── country.ts                 # Configuración del país
+├── src/
+│   ├── content/
+│   │   └── questions/
+│   │       └── [asignatura]/
+│   │           └── grado-[N]/
+│   │               └── [tema]/
+│   ├── components/                # Componentes locales
+│   ├── layouts/
+│   ├── pages/
+│   └── styles/
+│       └── theme.css              # Tema del país
+├── public/
+├── supabase/                      # Solo .env.local
+└── package.json
+```
+
+---
+
+## 🧱 Code Structure & Modularity
+
+### Reglas de Arquitectura
+
+- **Nunca crear un archivo mayor a 800 líneas de código.** Si un archivo se acerca a este límite, refactorizar dividiéndolo en módulos o archivos auxiliares.
+- **Organizar código en módulos claramente separados**, agrupados por feature o responsabilidad.
+- **Usar imports claros y consistentes** (preferir imports relativos dentro de packages).
+- **Mantener componentes pequeños y reutilizables** (máximo 300 líneas por componente Svelte).
+
+### Estructura de Componentes Svelte
+
+```typescript
+<script lang="ts">
+  // 1. Imports
+  import type { ComponentType } from './types';
+  
+  // 2. Props con tipos
+  interface Props {
+    title: string;
+    data: DataType[];
+  }
+  
+  let { title, data }: Props = $props();
+  
+  // 3. State (Svelte 5 runes)
+  let count = $state(0);
+  let computed = $derived(count * 2);
+  
+  // 4. Funciones
+  function handleClick() {
+    count++;
+  }
+</script>
+
+<!-- 5. Template -->
+<div class="container">
+  <h1>{title}</h1>
+  <!-- Usar TailwindCSS utility classes -->
+</div>
+
+<style>
+  /* Solo si es necesario CSS custom */
+</style>
+```
+
+---
+
+## 🚫 Reglas Críticas
+
+### 1. NO crear archivos en la raíz
+
+**PROHIBIDO** crear nuevos archivos en la raíz del repositorio.
+
+**Excepciones permitidas:**
+- `README.md`, `AGENTS.md`, `PLANNING.md`, `TASK.md`, `LICENSE`
+- `package.json`, `tsconfig.json`, `astro.config.mjs`, `tailwind.config.mjs`
+- `.gitignore`, `.env.example`
+
+**Ubicaciones correctas:**
+- Documentación pública → `docs/`
+- Documentación privada → `spec/`
+- Prompts → `.github/prompts/`
+- Workflows → `.github/workflows/`
+
+### 2. Formato de Preguntas
+
+Las preguntas SIEMPRE usan este formato exacto:
+
+```markdown
+---
+id: "[COUNTRY]-[SUBJ]-[GRADE]-[TOPIC]-[###]"
+country: "[CO|MX|AR|CL|PE|BR|US]"
+grado: [número según país]
+asignatura: "[Asignatura en idioma local]"
+tema: "[Tema específico]"
+dificultad: [1-5]
+estado: "draft"
+creador: "[Nombre o AI-WorldExams]"
+source_lang: "[es-CO|es-MX|pt-BR|en-US]"
+---
+
+# Pregunta
+
+[Enunciado claro, máximo 150 palabras, con contexto cultural apropiado]
+
+# Opciones
+
+- [ ] A) [Distractor 1 - error común]
+- [ ] B) [Distractor 2 - error común]
+- [x] C) [RESPUESTA CORRECTA]
+- [ ] D) [Distractor 3 - error común]
+
+# Explicación
+
+[Justificación pedagógica: por qué es correcta y por qué las otras no]
+```
+
+### 3. Sistema de IDs por País
+
+El ID de cada pregunta debe incluir el código de país:
+
+| País | Código | Ejemplo ID |
+|------|--------|------------|
+| 🇨🇴 Colombia | `CO` | `CO-MAT-05-fracciones-001` |
+| 🇲🇽 México | `MX` | `MX-ESP-06-comprension-001` |
+| 🇦🇷 Argentina | `AR` | `AR-LEN-09-literatura-001` |
+| 🇨🇱 Chile | `CL` | `CL-MAT-08-algebra-001` |
+| 🇵🇪 Perú | `PE` | `PE-COM-11-redaccion-001` |
+| 🇧🇷 Brasil | `BR` | `BR-POR-09-gramatica-001` |
+| 🇺🇸 USA | `US` | `US-ENG-10-reading-001` |
+| 🇨🇳 China | `CN` | `CN-MAT-09-algebra-001` |
+| 🇮🇳 India | `IN` | `IN-ENG-10-reading-001` |
+
+### 4. Organización de Archivos
+
+Estructura jerárquica obligatoria:
+
+```text
+src/content/questions/[asignatura]/grado-[N]/[tema]/[archivo].md
+```
+
+**Convenciones de nombres:**
+
+| Elemento | Regla | Ejemplo |
+|----------|-------|---------|
+| Asignatura | kebab-case, sin tildes | `matematicas`, `lectura-critica` |
+| Grado | `grado-N` | `grado-3`, `grado-11` |
+| Tema | kebab-case | `fracciones`, `revolucion-industrial` |
+| Archivo | `[COUNTRY]-[SUBJ]-[GRADE]-[TOPIC]-[###].md` | `CO-MAT-05-fracciones-001.md` |
+
+### 5. Niveles de Dificultad
+
+| Nivel | Descripción | Ejemplo |
+|-------|-------------|---------|
+| 1 | Reconocimiento básico | Identificar una figura geométrica |
+| 2 | Comprensión simple | Calcular perímetro de rectángulo |
+| 3 | Aplicación | Resolver ecuación lineal simple |
+| 4 | Análisis | Comparar fracciones con diferente denominador |
+| 5 | Síntesis/Evaluación | Problemas multi-paso con razonamiento |
+
+### 6. Distractores de Calidad
+
+Las opciones incorrectas deben ser **plausibles**:
+
+✅ **Correcto:**
+- Representan errores comunes de estudiantes
+- Error de signo, confusión de operación
+- Lectura parcial del problema
+
+❌ **Incorrecto:**
+- Opciones obviamente incorrectas
+- Opciones absurdas o ridículas
+- Números aleatorios sin lógica
+
+---
+
+## 🧪 Testing & Reliability
+
+### Tests Obligatorios
+
+- **Siempre crear tests de validación** para nuevas funciones (parsers, utils, components)
+- **Validar formato de preguntas** con script `npm run validate`
+- **Tests de integración Supabase** para RLS policies y queries
+- **Tests de UI** con Playwright/Cypress para flujos críticos
+
+### Estructura de Tests
+
+```typescript
+// tests/questionParser.test.ts
+import { describe, it, expect } from 'vitest';
+import { parseQuestion } from '../src/utils/questionParser';
+
+describe('Question Parser', () => {
+  it('should parse valid question frontmatter', () => {
+    // Test esperado
+  });
+
+  it('should throw error for invalid ID format', () => {
+    // Test edge case
+  });
+
+  it('should handle missing explanation gracefully', () => {
+    // Test failure case
+  });
+});
+```
+
+---
+
+## ✅ Task Completion
+
+### Gestión de Tareas
+
+- **Marca completed tasks en `TASK.md`** inmediatamente después de terminarlas
+- **Agrega nuevas tareas descubiertas** durante el desarrollo a `TASK.md` bajo "Tareas Descubiertas"
+- **Actualiza `README.md`** cuando cambies dependencias, features, o setup
+- **Actualiza `PLANNING.md`** cuando tomes decisiones de arquitectura
+
+---
+
+## 📎 Style & Conventions
+
+### TypeScript
+
+```typescript
+// Siempre tipar explícitamente
+interface Question {
+  id: string;
+  country: CountryCode;
+  grado: number;
+  asignatura: string;
+  tema: string;
+  dificultad: 1 | 2 | 3 | 4 | 5;
+}
+
+// Usar enums o union types para valores fijos
+type CountryCode = 'CO' | 'MX' | 'AR' | 'CL' | 'PE' | 'BR' | 'US' | 'CN' | 'IN';
+type QuestionState = 'draft' | 'review' | 'approved';
+```
+
+### Astro Components
+
+- Usar TypeScript siempre que sea posible
+- Componentes pequeños y reutilizables
+- Islands solo cuando hay interactividad
+- Props tipadas con interfaces
+
+```astro
+---
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description } = Astro.props;
+---
+
+<div class="container">
+  <h1>{title}</h1>
+  {description && <p>{description}</p>}
+</div>
+```
+
+### Svelte Components
+
+- Svelte 5 con runes (`$state`, `$derived`, `$effect`)
+- Props tipadas con `interface Props`
+- Estilos con Tailwind, no CSS custom
+
+### TailwindCSS
+
+- Mobile-first siempre (`sm:`, `md:`, `lg:`)
+- Usar clases utilitarias, evitar CSS custom
+- Accesibilidad obligatoria (contraste, aria-labels, roles)
+- Usar variables CSS del tema (`var(--color-primary)`)
+
+```html
+<!-- ✅ Correcto -->
+<button 
+  class="px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg 
+         transition-colors duration-200 focus:outline-none focus:ring-2 
+         focus:ring-blue-500 focus:ring-offset-2"
+  aria-label="Submit exam"
+>
+  Submit
+</button>
+
+<!-- ❌ Incorrecto -->
+<button class="my-custom-button">Submit</button>
+```
+
+---
+
+## 🎨 Sistema de Temas por País
+
+Cada repositorio tiene una paleta de colores única basada en su cultura:
+
+### Variables CSS Estándar
+
+```css
+:root {
+  /* Colores primarios del país */
+  --color-primary: [definido en country.ts];
+  --color-secondary: [definido en country.ts];
+  --color-accent: [definido en country.ts];
+
+  /* Fondos */
+  --bg-dark: #1a1a2e;
+  --bg-card: #16213e;
+
+  /* Texto */
+  --text-primary: #ffffff;
+  --text-secondary: #a0a0a0;
+}
+```
+
+### Paletas por País
+
+| País | Primary | Secondary | Accent |
+|------|---------|-----------|--------|
+| 🇨🇴 Colombia | `#FCD116` | `#003893` | `#CE1126` |
+| 🇲🇽 México | `#006847` | `#CE1126` | `#FFD700` |
+| 🇦🇷 Argentina | `#74ACDF` | `#FFFFFF` | `#F6B40E` |
+| 🇨🇱 Chile | `#D52B1E` | `#FFFFFF` | `#0039A6` |
+| 🇵🇪 Perú | `#D91023` | `#FFFFFF` | `#FFD700` |
+| 🇧🇷 Brasil | `#009739` | `#FEDD00` | `#002776` |
+| 🇺🇸 USA | `#3C3B6E` | `#B22234` | `#FFFFFF` |
+
+---
+
+## 🎭 Roles del Agente
+
+Consulta `AGENTS.md` para la definición completa de roles. Resumen:
+
+| Rol | Trigger | Comportamiento |
+|-----|---------|----------------|
+| 🏗️ **Architect** | Estructura, Supabase, Schema | Decisiones de alto nivel, DB global |
+| 🤖 **Generator** | Generar, Contenido, Preguntas | Crear preguntas con contexto local |
+| 🎨 **Frontend Artist** | UI, Diseño, CSS, Theme | Aplicar colores del país |
+| 🛡️ **Guardian** | Auth, Seguridad, RLS | Proteger datos y claves |
+| 📚 **Librarian** | Organizar, Carpetas | Mantener estructura limpia |
+| 🌐 **Translator** | Traducir, Localizar | Adaptar contenido entre países |
+| 🔄 **Synchronizer** | Webhook, Sync, Deploy | Gestionar pipelines |
+
+---
+
+## 🔧 Comandos Comunes
+
+```bash
+# Desarrollo local
+npm run dev
+
+# Build para producción
+npm run build
+
+# Preview del build
+npm run preview
+
+# Validar preguntas
+npm run validate
+
+# Sincronizar traducciones (solo repos país)
+npm run sync:pull
+```
+
+---
+
+## 🗄️ Supabase - Reglas Críticas
+
+### Base de Datos Compartida
+
+Todos los países usan la **misma instancia de Supabase**. Esto significa:
+
+1. **NO** modificar el schema sin coordinación global
+2. **SIEMPRE** usar `country_code` para filtrar datos
+3. **NUNCA** exponer `SUPABASE_SERVICE_ROLE_KEY`
+
+### Variables de Entorno
+
+En cada repo país, solo se necesita:
+
+```env
+PUBLIC_SUPABASE_URL=https://xxx.supabase.co
+PUBLIC_SUPABASE_ANON_KEY=eyJhbG...
+COUNTRY_CODE=CO
+```
+
+El `SERVICE_ROLE_KEY` solo existe en `question-sync` como secret de organización.
+
+### RLS Policies
+
+Todas las tablas tienen RLS habilitado:
+
+- `questions_global`: Lectura pública, escritura via Edge Function
+- `exam_results`: Lectura/escritura pública (filtrado por `country_code`)
+- `country_config`: Solo lectura pública
+
+---
+
+## 🔄 Sistema de Sincronización
+
+### Flujo de Nueva Pregunta
+
+1. **Crear** pregunta en repo origen (ej: `saber-co`)
+2. **Push** a main → Trigger webhook
+3. **question-sync** recibe evento
+4. **Validar** formato y contenido
+5. **Insertar** en `questions_global` (Supabase)
+6. **Traducir** a otros idiomas via Gemini/GPT
+7. **Insertar** traducciones en `question_translations`
+8. **Event Bus** notifica a repos destino
+9. **GitHub Actions** en repos destino hacen `pull`
+10. **Commit** automático con nuevas preguntas
+
+### Eventos del Event Bus
+
+| Evento | Descripción |
+|--------|-------------|
+| `question.created` | Nueva pregunta en repo origen |
+| `question.translated` | Traducción disponible |
+| `question.approved` | Revisión humana completada |
+| `sync.completed` | Sincronización exitosa |
+
+---
+
+## 📝 Convenciones de Código
+
+### TypeScript
+
+```typescript
+// Siempre tipar explícitamente
+interface Question {
+  id: string;
+  country: CountryCode;
+  grado: number;
+  asignatura: string;
+  // ...
+}
+
+// Usar enums para valores fijos
+type CountryCode = 'CO' | 'MX' | 'AR' | 'CL' | 'PE' | 'BR' | 'US';
+```
+
+### Astro Components
+
+- Usar TypeScript siempre que sea posible
+- Componentes pequeños y reutilizables
+- Islands solo cuando hay interactividad
+- Props tipadas con interfaces
+
+### Svelte Components
+
+- Svelte 5 con runes (`$state`, `$derived`)
+- Props tipadas
+- Estilos con Tailwind, no CSS custom
+
+### Tailwind CSS
+
+- Mobile-first siempre (`sm:`, `md:`, `lg:`)
+- Usar clases utilitarias, evitar CSS custom
+- Accesibilidad obligatoria (contraste, aria-labels)
+- Usar variables CSS del tema (`var(--color-primary)`)
+
+---
+
+## 🎯 Filosofía del Proyecto
+
+1. **Open Source First:** Todo el código es público y contribuible
+2. **Automatización Total:** El contenido se genera por IA
+3. **Calidad Pedagógica:** Las preguntas deben ser educativamente válidas
+4. **Identidad Cultural:** Cada país tiene su propia estética
+5. **Sincronización Global:** Las preguntas se traducen y comparten
+6. **Accesibilidad:** Funciona para todos, sin barreras
+7. **Gratuito:** Sin costos para estudiantes
+
+---
+
+---
+
+## 🧠 AI Behavior Rules
+
+### **Nunca asumir contexto faltante. Preguntar si hay incertidumbre.**
+- Si falta información crítica (país, asignatura, grado), preguntar antes de implementar
+- No inventar librerías o funciones que no existen
+- Confirmar que archivos y rutas existen antes de referenciarlos
+
+### **Modular Prompting - Una tarea a la vez**
+- Enfocarse en una tarea específica por mensaje
+- Para cambios complejos, dividir en sub-tareas y ejecutar secuencialmente
+- Evitar intentar resolver múltiples problemas no relacionados simultáneamente
+
+### **Testing after every feature**
+- Crear tests de validación para nuevas funciones
+- Verificar que el código no rompe tests existentes
+- Usar `npm run validate` después de cambios en preguntas
+
+### **Documentation as you go**
+- Actualizar `README.md` cuando cambien dependencias o features
+- Actualizar `TASK.md` al completar tareas
+- Actualizar `PLANNING.md` al tomar decisiones de arquitectura
+- Comentar código no-obvio con explicaciones del "por qué"
+
+### **Never delete or overwrite existing code**
+- A menos que esté explícitamente indicado en `TASK.md`
+- Siempre confirmar antes de borrar archivos o funciones
+
+### **Respect the multi-repo architecture**
+- Cada país es un repo independiente con contenido localizado
+- La base de datos Supabase es compartida (nunca modificar schema sin coordinación)
+- Los componentes en `shared-components` son inmutables
+- Cambios a la arquitectura global requieren discusión en `.github` repo
+
+---
+
+## 🌐 Contexto Cultural
+
+Al generar contenido, considera el contexto del país:
+
+### 🇨🇴 Colombia
+- Moneda: Pesos colombianos (COP)
+- Ciudades: Bogotá, Medellín, Cali, Barranquilla
+- Cultura: Café, vallenato, cumbia, biodiversidad
+
+### 🇲🇽 México
+- Moneda: Pesos mexicanos (MXN)
+- Ciudades: CDMX, Guadalajara, Monterrey
+- Cultura: Tacos, mariachi, Día de Muertos, aztecas
+
+### 🇦🇷 Argentina
+- Moneda: Pesos argentinos (ARS)
+- Ciudades: Buenos Aires, Córdoba, Rosario
+- Cultura: Tango, asado, mate, **voseo** (usá vos en lugar de tú)
+
+### 🇨🇱 Chile
+- Moneda: Pesos chilenos (CLP)
+- Ciudades: Santiago, Valparaíso, Concepción
+- Cultura: Cueca, empanadas, Andes, mapuche
+
+### 🇵🇪 Perú
+- Moneda: Soles (PEN)
+- Ciudades: Lima, Arequipa, Cusco
+- Cultura: Ceviche, Machu Picchu, incas, quechua
+
+### 🇧🇷 Brasil
+- Moneda: Reales (BRL)
+- Ciudades: São Paulo, Rio de Janeiro, Brasília
+- Cultura: Samba, carnaval, fútbol, Amazonas
+- **Idioma:** Portugués brasileño
+
+### 🇺🇸 USA
+- Moneda: Dólares (USD)
+- Ciudades: New York, Los Angeles, Chicago
+- Cultura: Diversa, multicultural
+- **Idioma:** Inglés americano
+
+### 🇨🇳 China
+- Moneda: Yuan (CNY)
+- Ciudades: Beijing, Shanghai, Guangzhou
+- Cultura: Gran Muralla, medicina tradicional, 5000 años de historia
+- **Idioma:** Mandarín simplificado
+
+### 🇮🇳 India
+- Moneda: Rupias (INR)
+- Ciudades: Delhi, Mumbai, Bangalore
+- Cultura: Diversa, Taj Mahal, Bollywood, yoga
+- **Idiomas:** Hindi, Inglés (oficial)
+
+---
+
+## 🎯 Filosofía del Proyecto
+
+1. **Open Source First:** Todo el código es público y contribuible
+2. **Automatización Total:** El contenido se genera por IA
+3. **Calidad Pedagógica:** Las preguntas deben ser educativamente válidas
+4. **Identidad Cultural:** Cada país tiene su propia estética
+5. **Sincronización Global:** Las preguntas se traducen y comparten
+6. **Accesibilidad:** Funciona para todos, sin barreras
+7. **Gratuito:** Sin costos para estudiantes
+
+---
+
+## 📞 Recursos
+
+- **Organización:** [github.com/worldexams](https://github.com/worldexams)
+- **PLANNING.md:** Consultar en cada repo para arquitectura detallada
+- **TASK.md:** Consultar en cada repo para tareas actuales
+- **AGENTS.md:** Consultar para roles de IA detallados
+- **Contribuir:** Abrir issue en el repo correspondiente al país
+
+---
+
+*Versión: 2.0 | Actualizado: 2025-11-30*

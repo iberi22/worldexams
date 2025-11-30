@@ -1,0 +1,142 @@
+# =============================================================================
+# World Exams - Workflow de Sincronización de Preguntas
+# =============================================================================
+# Este workflow se ejecuta en el repo `question-sync` y procesa eventos
+# de sincronización entre repositorios de países.
+# =============================================================================
+
+name: 🔄 Question Sync
+
+on:
+  # Webhook desde repos de países
+  repository_dispatch:
+    types: [question_created, question_updated]
+
+  # Trigger manual para sync completo
+  workflow_dispatch:
+    inputs:
+      source_repo:
+        description: 'Repo origen (ej: saber-co)'
+        required: false
+      target_repos:
+        description: 'Repos destino (separados por coma)'
+        required: false
+      sync_all:
+        description: 'Sincronizar todas las preguntas pendientes'
+        type: boolean
+        default: false
+
+env:
+  SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+  SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+  GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+jobs:
+  # =========================================================================
+  # JOB: process_event
+  # Procesa eventos de webhook (nueva pregunta creada)
+  # =========================================================================
+  process_event:
+    if: github.event_name == 'repository_dispatch'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout question-sync
+        uses: actions/checkout@v4
+
+      - name: 🟢 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: 📦 Install dependencies
+        run: npm ci
+
+      - name: 📝 Log event info
+        run: |
+          echo "Event Type: ${{ github.event.action }}"
+          echo "Source Repo: ${{ github.event.client_payload.source_repo }}"
+          echo "Question ID: ${{ github.event.client_payload.question_id }}"
+
+      - name: 🔄 Process question
+        run: npm run process-question
+        env:
+          EVENT_TYPE: ${{ github.event.action }}
+          PAYLOAD: ${{ toJson(github.event.client_payload) }}
+
+      - name: 🌐 Translate question
+        if: success()
+        run: npm run translate-question
+        env:
+          QUESTION_ID: ${{ github.event.client_payload.question_id }}
+          TARGET_LANGS: 'es-MX,es-AR,pt-BR,en-US'
+
+      - name: 📡 Notify target repos
+        if: success()
+        run: npm run notify-repos
+        env:
+          QUESTION_ID: ${{ github.event.client_payload.question_id }}
+
+  # =========================================================================
+  # JOB: sync_pending
+  # Sincroniza todas las preguntas pendientes (trigger manual)
+  # =========================================================================
+  sync_pending:
+    if: github.event_name == 'workflow_dispatch' && github.event.inputs.sync_all == 'true'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+
+      - name: 🟢 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: 📦 Install dependencies
+        run: npm ci
+
+      - name: 🔍 Get pending questions
+        id: pending
+        run: |
+          result=$(npm run get-pending --silent)
+          echo "pending_count=$result" >> $GITHUB_OUTPUT
+
+      - name: 🔄 Sync all pending
+        if: steps.pending.outputs.pending_count > 0
+        run: npm run sync-all
+
+      - name: 📊 Report results
+        run: npm run report-sync
+
+  # =========================================================================
+  # JOB: scheduled_sync
+  # Sincronización programada (diaria)
+  # =========================================================================
+  scheduled_sync:
+    runs-on: ubuntu-latest
+    # Ejecutar diariamente a las 6 AM UTC
+    # schedule:
+    #   - cron: '0 6 * * *'
+    if: false  # Deshabilitado por ahora, habilitar cuando esté listo
+
+    steps:
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+
+      - name: 🟢 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 📦 Install dependencies
+        run: npm ci
+
+      - name: 🔄 Daily sync
+        run: npm run daily-sync
+
+      - name: 🧹 Cleanup old events
+        run: npm run cleanup-events

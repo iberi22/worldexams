@@ -1,0 +1,87 @@
+# =============================================================================
+# World Exams - Workflow para Pull de Traducciones
+# =============================================================================
+# Este workflow se ejecuta en repos de países para obtener traducciones
+# desde el sistema central de sincronización.
+# =============================================================================
+
+name: 📥 Pull Translations
+
+on:
+  # Webhook desde question-sync cuando hay traducciones disponibles
+  repository_dispatch:
+    types: [translations_ready]
+
+  # Trigger manual
+  workflow_dispatch:
+    inputs:
+      force_pull:
+        description: 'Forzar pull de todas las traducciones'
+        type: boolean
+        default: false
+
+env:
+  SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+  SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+  COUNTRY_CODE: ${{ vars.COUNTRY_CODE }}
+
+jobs:
+  pull_translations:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🟢 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: 📦 Install dependencies
+        run: npm ci
+
+      - name: 🔍 Get available translations
+        id: translations
+        run: |
+          # Query Supabase para traducciones pendientes para este país
+          count=$(npm run get-translations-count --silent)
+          echo "count=$count" >> $GITHUB_OUTPUT
+
+      - name: 📥 Download translations
+        if: steps.translations.outputs.count > 0
+        run: |
+          npm run download-translations
+
+      - name: 📝 Create question files
+        if: steps.translations.outputs.count > 0
+        run: |
+          npm run create-question-files
+
+      - name: ✅ Validate new questions
+        if: steps.translations.outputs.count > 0
+        run: |
+          npm run validate
+
+      - name: 📤 Commit and push
+        if: steps.translations.outputs.count > 0
+        run: |
+          git config user.name "World Exams Bot"
+          git config user.email "bot@worldexams.org"
+
+          git add src/content/questions/
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "📥 Pull translations from question-sync"
+            git push
+          fi
+
+      - name: 📊 Report
+        run: |
+          echo "✅ Pull completed"
+          echo "📝 Translations pulled: ${{ steps.translations.outputs.count }}"

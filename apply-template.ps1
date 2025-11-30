@@ -1,0 +1,26 @@
+# World Exams - Apply UI Template Script
+# Run from E:\scripts-python\worldexams
+
+$countries = @(
+    @{repo="gaokao-zh"; code="CN"; name="中国"; lang="zh-CN"; exam="高考 (Gaokao)"; c1="#DE2910"; c2="#FFDE00"; c3="#DE2910"; subjects=@("数学","语文","英语","物理","化学"); currency="CNY"; symbol="¥"; cities=@("北京","上海","广州","深圳","杭州")},
+    @{repo="jee-in"; code="IN"; name="India"; lang="en-IN"; exam="JEE / NEET"; c1="#FF9933"; c2="#FFFFFF"; c3="#138808"; subjects=@("mathematics","physics","chemistry","biology","english"); currency="INR"; symbol="₹"; cities=@("New Delhi","Mumbai","Bangalore","Chennai","Kolkata")},
+    @{repo="snbt-id"; code="ID"; name="Indonesia"; lang="id-ID"; exam="SNBT / UTBK"; c1="#FF0000"; c2="#FFFFFF"; c3="#FF0000"; subjects=@("matematika","bahasa","ipa","ips","english"); currency="IDR"; symbol="Rp"; cities=@("Jakarta","Surabaya","Bandung","Medan","Semarang")},
+    @{repo="suneung-kr"; code="KR"; name="대한민국"; lang="ko-KR"; exam="수능 (Suneung)"; c1="#CD2E3A"; c2="#0047A0"; c3="#FFFFFF"; subjects=@("국어","수학","영어","사회탐구","과학탐구"); currency="KRW"; symbol="₩"; cities=@("서울","부산","인천","대구","대전")},
+    @{repo="thanaweya-eg"; code="EG"; name="مصر"; lang="ar-EG"; exam="الثانوية العامة"; c1="#CE1126"; c2="#FFFFFF"; c3="#000000"; subjects=@("الرياضيات","اللغة العربية","اللغة الإنجليزية","الفيزياء","الكيمياء"); currency="EGP"; symbol="ج.م"; cities=@("القاهرة","الإسكندرية","الجيزة","شبرا الخيمة","بورسعيد")},
+    @{repo="utme-ng"; code="NG"; name="Nigeria"; lang="en-NG"; exam="UTME / JAMB"; c1="#008751"; c2="#FFFFFF"; c3="#008751"; subjects=@("mathematics","english","physics","chemistry","biology"); currency="NGN"; symbol="₦"; cities=@("Lagos","Abuja","Kano","Ibadan","Port Harcourt")},
+    @{repo="ege-ru"; code="RU"; name="Россия"; lang="ru-RU"; exam="ЕГЭ (EGE)"; c1="#FFFFFF"; c2="#0039A6"; c3="#D52B1E"; subjects=@("математика","русский язык","английский","физика","химия"); currency="RUB"; symbol="₽"; cities=@("Москва","Санкт-Петербург","Новосибирск","Екатеринбург","Казань")},
+    @{repo="bac-fr"; code="FR"; name="France"; lang="fr-FR"; exam="Baccalauréat"; c1="#002395"; c2="#FFFFFF"; c3="#ED2939"; subjects=@("mathematiques","francais","anglais","physique","histoire"); currency="EUR"; symbol="€"; cities=@("Paris","Marseille","Lyon","Toulouse","Nice")},
+    @{repo="center-jp"; code="JP"; name="日本"; lang="ja-JP"; exam="共通テスト"; c1="#FFFFFF"; c2="#BC002D"; c3="#FFFFFF"; subjects=@("数学","国語","英語","物理","化学"); currency="JPY"; symbol="¥"; cities=@("東京","大阪","名古屋","札幌","福岡")},
+    @{repo="saber-ar"; code="AR"; name="Argentina"; lang="es-AR"; exam="Evaluación Nacional"; c1="#74ACDF"; c2="#FFFFFF"; c3="#74ACDF"; subjects=@("matematica","lengua","ingles","ciencias","historia"); currency="ARS"; symbol="$"; cities=@("Buenos Aires","Córdoba","Rosario","Mendoza","La Plata")},
+    @{repo="abitur-de"; code="DE"; name="Deutschland"; lang="de-DE"; exam="Abitur"; c1="#000000"; c2="#DD0000"; c3="#FFCC00"; subjects=@("mathematik","deutsch","englisch","physik","chemie"); currency="EUR"; symbol="€"; cities=@("Berlin","Hamburg","München","Köln","Frankfurt")},
+    @{repo="vestibular-pt"; code="PT"; name="Portugal"; lang="pt-PT"; exam="Exames Nacionais"; c1="#006600"; c2="#FF0000"; c3="#006600"; subjects=@("matematica","portugues","ingles","fisica","quimica"); currency="EUR"; symbol="€"; cities=@("Lisboa","Porto","Amadora","Braga","Coimbra")},
+    @{repo="saber-pe"; code="PE"; name="Perú"; lang="es-PE"; exam="ECE / Evaluación"; c1="#D91023"; c2="#FFFFFF"; c3="#D91023"; subjects=@("matematicas","comunicacion","ingles","ciencias","historia"); currency="PEN"; symbol="S/"; cities=@("Lima","Arequipa","Trujillo","Chiclayo","Cusco")},
+    @{repo="saber-cl"; code="CL"; name="Chile"; lang="es-CL"; exam="SIMCE / PAES"; c1="#D52B1E"; c2="#FFFFFF"; c3="#0039A6"; subjects=@("matematicas","lenguaje","ingles","ciencias","historia"); currency="CLP"; symbol="$"; cities=@("Santiago","Valparaíso","Concepción","La Serena","Antofagasta")},
+    @{repo="nta-pk"; code="PK"; name="پاکستان"; lang="ur-PK"; exam="NTA / ECAT"; c1="#01411C"; c2="#FFFFFF"; c3="#01411C"; subjects=@("mathematics","urdu","english","physics","chemistry"); currency="PKR"; symbol="₨"; cities=@("Karachi","Lahore","Faisalabad","Rawalpindi","Multan")},
+    @{repo="eapcet-bd"; code="BD"; name="বাংলাদেশ"; lang="bn-BD"; exam="বিশ্ববিদ্যালয় ভর্তি"; c1="#006A4E"; c2="#F42A41"; c3="#006A4E"; subjects=@("গণিত","বাংলা","ইংরেজি","পদার্থবিজ্ঞান","রসায়ন"); currency="BDT"; symbol="৳"; cities=@("ঢাকা","চট্টগ্রাম","খুলনা","রাজশাহী","সিলেট")},
+    @{repo="vnuhcm-vn"; code="VN"; name="Việt Nam"; lang="vi-VN"; exam="Kỳ thi THPT"; c1="#DA251D"; c2="#FFCD00"; c3="#DA251D"; subjects=@("toan","ngu van","tieng anh","vat ly","hoa hoc"); currency="VND"; symbol="₫"; cities=@("Hà Nội","Hồ Chí Minh","Đà Nẵng","Hải Phòng","Cần Thơ")},
+    @{repo="simce-ec"; code="EC"; name="Ecuador"; lang="es-EC"; exam="Ser Bachiller"; c1="#FFD100"; c2="#034EA2"; c3="#E10019"; subjects=@("matematicas","lengua","ingles","ciencias","estudios sociales"); currency="USD"; symbol="$"; cities=@("Quito","Guayaquil","Cuenca","Santo Domingo","Machala")}
+)
+
+Write-Host "Countries to process: $($countries.Count)"
+$countries | ForEach-Object { Write-Host "- $($_.repo)" }
