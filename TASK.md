@@ -106,9 +106,11 @@ _Última actualización: 2025-11-30_
 | I-02  | Mover scripts a `admin/scripts/`                | ALTA      | ⬜ Pendiente | Cascade     |
 | I-03  | Crear `admin/config/countries.json` centralizado| ALTA      | ⬜ Pendiente | Cascade     |
 | I-04  | Crear `.gitignore` para `temp/` en admin        | MEDIA     | ⬜ Pendiente | Cascade     |
-| I-05  | Commit actual de worldexams workspace           | ALTA      | ⚙️ En Progreso | Usuario     |
-| I-06  | Crear repo `question-sync` (sincronización)     | MEDIA     | ❌ Bloqueado | Flag GitHub |
-| I-07  | Implementar Event Bus con Supabase Realtime     | MEDIA     | ⬜ Pendiente | Cascade     |
+| I-05  | Commit actual de worldexams workspace           | ALTA      | ✅ Completado | Cascade     |
+| I-06  | Crear `AGENT_CONTEXT.md` para continuación      | ALTA      | ✅ Completado | Cascade     |
+| I-07  | Actualizar `.github/copilot-instructions.md`    | ALTA      | ✅ Completado | Cascade     |
+| I-08  | Crear repo `question-sync` (sincronización)     | MEDIA     | ❌ Bloqueado | Flag GitHub |
+| I-09  | Implementar Event Bus con Supabase Realtime     | MEDIA     | ⬜ Pendiente | Cascade     |
 
 ---
 
@@ -119,6 +121,7 @@ _Última actualización: 2025-11-30_
 - ✅ **Hito 3:** 5 repos completamente personalizados con identidad cultural
 - ✅ **Hito 4:** Scripts de automatización (apply-template.ps1, countries-config.ps1)
 - ✅ **Hito 5:** Configuración Supabase global (schema, RLS policies)
+- ✅ **Hito 6:** Documentación completa (PLANNING.md, TASK.md, AGENT_CONTEXT.md, Copilot instructions)
 
 ---
 
