@@ -1,20 +1,10 @@
-# =============================================================================
-# World Exams - Research & Generate Questions
-# =============================================================================
-# Workflow automatizado para:
-# 1. Investigar preguntas de fuentes públicas (APIs, repos, datasets)
-# 2. Crear issues con preguntas encontradas
-# 3. Generar 6 variaciones de cada pregunta con Copilot
-# Updated: 2024-12-04 - trigger refresh
-# =============================================================================
-
-name: 🔬 Research & Generate Questions
+name: Research Questions
 
 on:
   workflow_dispatch:
     inputs:
       country:
-        description: 'País destino (código)'
+        description: 'Target country code'
         required: true
         type: choice
         options:
@@ -22,12 +12,8 @@ on:
           - MX
           - BR
           - US
-          - AR
-          - CL
-          - PE
-          - ALL
       category:
-        description: 'Categoría de preguntas'
+        description: 'Question category'
         required: true
         type: choice
         options:
@@ -37,13 +23,13 @@ on:
           - geography
           - general_knowledge
           - computers
-      num_source_questions:
-        description: 'Preguntas a investigar (se generan 6 variaciones c/u)'
+      num_questions:
+        description: 'Number of source questions'
         required: false
         type: number
-        default: 5
+        default: 3
       language:
-        description: 'Idioma de salida'
+        description: 'Output language'
         required: true
         type: choice
         options:
@@ -51,48 +37,32 @@ on:
           - pt
           - en
 
-  schedule:
-    - cron: '0 6 * * 1'  # Lunes 6am UTC
-
-# Permissions needed for creating issues and uploading artifacts
 permissions:
   contents: read
   issues: write
-  actions: read
-
-env:
-  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:
-  # =========================================================================
-  # JOB 1: Investigar preguntas de fuentes públicas
-  # =========================================================================
   research:
     runs-on: ubuntu-latest
-    name: 📚 Research from Public Sources
+    name: Research Questions
     outputs:
-      questions_file: ${{ steps.fetch.outputs.questions_file }}
       num_questions: ${{ steps.fetch.outputs.num_questions }}
 
     steps:
-      - name: 📥 Checkout repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: 🟢 Setup Node.js
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
-      - name: 📦 Install dependencies
-        run: npm install node-fetch@3
-
-      - name: 🔍 Fetch questions from Open Trivia DB
+      - name: Fetch questions from OpenTDB
         id: fetch
         run: |
-          CATEGORY="${{ inputs.category || 'science' }}"
-          NUM="${{ inputs.num_source_questions || 5 }}"
+          CATEGORY="${{ inputs.category }}"
+          NUM="${{ inputs.num_questions }}"
 
-          # Map category to OpenTDB ID
           case "$CATEGORY" in
             "science") CAT_ID=17 ;;
             "mathematics") CAT_ID=19 ;;
@@ -103,13 +73,11 @@ jobs:
             *) CAT_ID=9 ;;
           esac
 
-          echo "📡 Fetching from OpenTDB (Category: $CATEGORY, ID: $CAT_ID)..."
+          echo "Fetching from OpenTDB (Category: $CATEGORY, ID: $CAT_ID)..."
 
-          # Fetch from Open Trivia Database API
           curl -s "https://opentdb.com/api.php?amount=${NUM}&category=${CAT_ID}&type=multiple&encode=url3986" \
             -o /tmp/opentdb_raw.json
 
-          # Process and save
           node << 'SCRIPT'
           const fs = require('fs');
           const data = JSON.parse(fs.readFileSync('/tmp/opentdb_raw.json', 'utf8'));
@@ -133,208 +101,103 @@ jobs:
           }));
 
           fs.writeFileSync('/tmp/researched_questions.json', JSON.stringify(questions, null, 2));
-          console.log(`✅ Fetched ${questions.length} questions`);
+          console.log('Fetched ' + questions.length + ' questions');
           SCRIPT
 
-          echo "questions_file=/tmp/researched_questions.json" >> $GITHUB_OUTPUT
           echo "num_questions=$(cat /tmp/researched_questions.json | node -e "console.log(JSON.parse(require('fs').readFileSync('/dev/stdin','utf8')).length)")" >> $GITHUB_OUTPUT
 
-      - name: 🔍 Fetch from GitHub repos (ICFES style)
-        continue-on-error: true
-        run: |
-          echo "📡 Checking GitHub repos for curated questions..."
-
-          # Intentar obtener preguntas del repo de matemáticas ICFES
-          curl -s "https://api.github.com/repos/alvaretto/r-exams_matematicas/contents/Por%20Temas" \
-            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-            -o /tmp/github_repo.json || echo "Repo not accessible"
-
-          echo "✅ GitHub research complete"
-
-      - name: 📤 Upload researched questions
+      - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: researched-questions
           path: /tmp/researched_questions.json
           retention-days: 1
 
-      - name: 📊 Research Summary
-        run: |
-          echo "## 📚 Research Results" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "| Source | Questions Found |" >> $GITHUB_STEP_SUMMARY
-          echo "|--------|-----------------|" >> $GITHUB_STEP_SUMMARY
-          echo "| OpenTDB API | ${{ steps.fetch.outputs.num_questions }} |" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "### Sample Questions:" >> $GITHUB_STEP_SUMMARY
-          cat /tmp/researched_questions.json | head -100 >> $GITHUB_STEP_SUMMARY
-
-  # =========================================================================
-  # JOB 2: Crear Issue para que Copilot genere variaciones
-  # =========================================================================
-  create-generation-issue:
+  create-issue:
     runs-on: ubuntu-latest
-    name: 📝 Create Generation Issue
+    name: Create Issue
     needs: research
-    outputs:
-      issue_number: ${{ steps.create_issue.outputs.issue_number }}
 
     steps:
-      - name: 📥 Checkout repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: 📥 Download researched questions
+      - name: Download artifact
         uses: actions/download-artifact@v4
         with:
           name: researched-questions
           path: /tmp
 
-      - name: 📝 Create Issue for Copilot
+      - name: Create Issue for Copilot
         id: create_issue
+        env:
+          COUNTRY: ${{ inputs.country }}
+          LANGUAGE: ${{ inputs.language }}
+          CATEGORY: ${{ inputs.category }}
         uses: actions/github-script@v7
         with:
           script: |
             const fs = require('fs');
             const questions = JSON.parse(fs.readFileSync('/tmp/researched_questions.json', 'utf8'));
-
-            const country = '${{ inputs.country || "CO" }}';
-            const language = '${{ inputs.language || "es" }}';
-            const category = '${{ inputs.category || "science" }}';
-
-            // Map country to folder and language
+            const country = process.env.COUNTRY;
+            const language = process.env.LANGUAGE;
+            const category = process.env.CATEGORY;
             const countryMap = {
               'CO': { folder: 'colombia', lang: 'es', exam: 'Saber 11' },
               'MX': { folder: 'mexico', lang: 'es', exam: 'EXANI-II' },
               'BR': { folder: 'brasil', lang: 'pt', exam: 'ENEM' },
-              'US': { folder: 'usa', lang: 'en', exam: 'SAT' },
-              'AR': { folder: 'argentina', lang: 'es', exam: 'UBA' },
-              'CL': { folder: 'chile', lang: 'es', exam: 'PAES' },
-              'PE': { folder: 'peru', lang: 'es', exam: 'Admisión' }
+              'US': { folder: 'usa', lang: 'en', exam: 'SAT' }
             };
-
             const config = countryMap[country] || countryMap['CO'];
-
-            // Build issue body with instructions for Copilot
-            let issueBody = `## 🎯 Task: Generate Question Variations
-
-            **País destino:** ${country} (${config.exam})
-            **Idioma:** ${config.lang}
-            **Categoría:** ${category}
-            **Carpeta destino:** \`src/content/questions/${config.folder}/\`
-
-            ---
-
-            ## 📋 Instructions for Copilot
-
-            For EACH source question below, generate **6 variations** following this format:
-
-            \`\`\`markdown
-            ---
-            id: "${country}-[SUBJECT]-11-[TOPIC]-[XXX]"
-            grado: 11
-            asignatura: "[Subject in ${config.lang}]"
-            tema: "[Topic]"
-            dificultad: [1-5]
-            estado: published
-            creador: Copilot
-            source: "[Original source name]"
-            source_url: "[Original source URL]"
-            source_license: "[License]"
-            inspired_by: "[Original question summary]"
-            variation: [1-6]
-            ---
-
-            # Pregunta
-            [Question text in ${config.lang}]
-
-            # Opciones
-            - [ ] A) [Option A]
-            - [ ] B) [Option B]
-            - [x] C) [Correct answer]
-            - [ ] D) [Option D]
-
-            # Explicación
-            [Detailed explanation in ${config.lang}]
-            \`\`\`
-
-            ---
-
-            ## 📚 Source Questions to Expand
-
-            `;
-
-            // Add each question
+            let body = '## Task: Generate Question Variations\n\n';
+            body += 'Country: ' + country + ' (' + config.exam + ')\n';
+            body += 'Language: ' + config.lang + '\n';
+            body += 'Category: ' + category + '\n';
+            body += 'Target folder: src/content/questions/' + config.folder + '/\n\n';
+            body += '---\n\n';
+            body += '## Instructions for Copilot\n\n';
+            body += 'For EACH source question below, generate 6 variations.\n\n';
+            body += '## Source Questions\n\n';
             questions.forEach((q, i) => {
-              issueBody += `
-            ### Source ${i + 1}: ${q.category}
-
-            - **Original:** ${q.question}
-            - **Correct:** ${q.correct_answer}
-            - **Wrong:** ${q.incorrect_answers.join(', ')}
-            - **Source:** ${q.source} (${q.source_url})
-            - **License:** ${q.license}
-            - **Difficulty:** ${q.difficulty}
-
-            **Generate 6 variations** of this question, adapting to ${config.exam} style and ${config.lang} language.
-
-            ---
-            `;
+              body += '### Source ' + (i + 1) + ': ' + q.category + '\n\n';
+              body += '- Original: ' + q.question + '\n';
+              body += '- Correct: ' + q.correct_answer + '\n';
+              body += '- Wrong: ' + q.incorrect_answers.join(', ') + '\n';
+              body += '- Source: ' + q.source + ' (' + q.source_url + ')\n';
+              body += '- License: ' + q.license + '\n\n';
             });
-
-            issueBody += `
-            ## ✅ Acceptance Criteria
-
-            1. Each variation must be unique and test the same concept differently
-            2. All text must be in **${config.lang}** language
-            3. Include \`source\`, \`source_url\`, \`source_license\`, and \`inspired_by\` in frontmatter
-            4. Create files in: \`src/content/questions/${config.folder}/[subject]/grado-11/\`
-            5. Follow the ID format: \`${country}-[MAT|FIS|BIO|QUI|etc]-11-[topic]-[001-999]\`
-            `;
-
-            // Create the issue
             const issue = await github.rest.issues.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              title: `🤖 Generate ${questions.length * 6} questions for ${country} - ${category}`,
-              body: issueBody,
+              title: 'Generate ' + (questions.length * 6) + ' questions for ' + country + ' - ' + category,
+              body: body,
               labels: ['copilot', 'questions', 'automated']
             });
-
-            console.log(`Created issue #${issue.data.number}`);
+            console.log('Created issue #' + issue.data.number);
             core.setOutput('issue_number', issue.data.number);
 
-      - name: 🤖 Assign Copilot to Issue
+      - name: Trigger Copilot
+        env:
+          ISSUE_NUMBER: ${{ steps.create_issue.outputs.issue_number }}
         uses: actions/github-script@v7
         with:
           script: |
-            const issueNumber = ${{ steps.create_issue.outputs.issue_number }};
-
+            const issueNumber = parseInt(process.env.ISSUE_NUMBER);
             try {
-              // Try to assign Copilot to the issue
               await github.rest.issues.addAssignees({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
                 issue_number: issueNumber,
                 assignees: ['copilot']
               });
-              console.log('✅ Assigned Copilot to issue');
+              console.log('Assigned Copilot to issue');
             } catch (error) {
-              console.log('⚠️ Could not assign Copilot directly:', error.message);
-
-              // Add a comment to trigger Copilot
+              console.log('Could not assign Copilot: ' + error.message);
               await github.rest.issues.createComment({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
                 issue_number: issueNumber,
                 body: '@github-copilot Please help generate the question variations described above.'
               });
-              console.log('✅ Added comment to trigger Copilot');
+              console.log('Added comment to trigger Copilot');
             }
-
-      - name: 📊 Summary
-        run: |
-          echo "## ✅ Issue Created" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "Issue #${{ steps.create_issue.outputs.issue_number }} created and assigned to Copilot" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "🔗 [View Issue](https://github.com/${{ github.repository }}/issues/${{ steps.create_issue.outputs.issue_number }})" >> $GITHUB_STEP_SUMMARY

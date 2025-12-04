@@ -1,0 +1,55 @@
+---
+import type { Country } from '../data/countries';
+
+interface Props {
+  country: Country;
+}
+
+const { country } = Astro.props;
+
+const statusBadge = {
+  live: { class: 'badge-live', text: 'Live' },
+  setup: { class: 'badge-setup', text: 'Setup' },
+  soon: { class: 'badge-soon', text: 'Soon' },
+};
+
+const badge = statusBadge[country.status];
+const href = country.status === 'live' ? `/exams/${country.code.toLowerCase()}` : '#';
+const isClickable = country.status === 'live';
+---
+
+<a
+  href={href}
+  class:list={[
+    "country-card group",
+    { "cursor-pointer": isClickable, "cursor-default": !isClickable },
+    { "ring-2 ring-accent-cyan/50": country.status === 'live' }
+  ]}
+  style={`--flag-stripe: ${country.flagStripe};`}
+>
+  <div class="flex items-center justify-between mb-3">
+    <div class="flex items-center gap-4">
+      <div class="flex flex-col items-center min-w-[60px]">
+        <span class="text-4xl font-bold text-text-secondary/50">{country.code}</span>
+        <span class="text-xl">{country.flag}</span>
+      </div>
+      <div>
+        <h3 class="text-lg font-semibold text-text-primary">{country.name}</h3>
+        <p class="text-sm text-text-secondary">{country.exam}</p>
+      </div>
+    </div>
+    <span class={badge.class}>{badge.text}</span>
+  </div>
+
+  {country.questionCount && (
+    <div class="mt-2 text-xs text-text-secondary">
+      📝 {country.questionCount} preguntas
+    </div>
+  )}
+</a>
+
+<style>
+  .country-card {
+    --flag-stripe: linear-gradient(to right, #ccc, #999);
+  }
+</style>

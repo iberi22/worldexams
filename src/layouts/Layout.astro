@@ -1,0 +1,39 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = "Practice exams for every nation" } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content={description} />
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌍</text></svg>" />
+  <title>{title} | World Exams</title>
+</head>
+<body class="bg-bg-dark min-h-screen">
+  <!-- Flag Stripe -->
+  <div class="flag-stripe"></div>
+
+  <slot />
+
+  <!-- Footer -->
+  <footer class="py-16 px-8 text-center border-t border-white/5 bg-bg-dark">
+    <div class="text-2xl font-bold mb-4">🌍 World Exams</div>
+    <div class="flex gap-8 justify-center mb-8 flex-wrap">
+      <a href="/about" class="text-text-secondary hover:text-accent-cyan transition-colors">About</a>
+      <a href="/contribute" class="text-text-secondary hover:text-accent-cyan transition-colors">Contribute</a>
+      <a href="https://github.com/worldexams" target="_blank" class="text-text-secondary hover:text-accent-cyan transition-colors">GitHub</a>
+      <a href="/privacy" class="text-text-secondary hover:text-accent-cyan transition-colors">Privacy</a>
+    </div>
+    <p class="text-text-secondary text-sm">© 2025 World Exams Organization. Made with ❤️ for students worldwide.</p>
+  </footer>
+</body>
+</html>
