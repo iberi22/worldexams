@@ -1,0 +1,25 @@
+# Node
+node_modules/
+
+# Build
+dist/
+.astro/
+
+# Large files
+*.zip
+*.png
+*.jpg
+
+# Env
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Submodules (will manage separately)
+saberparatodos/
+worldexams.github.io/
+question-bank/
+question-sync/

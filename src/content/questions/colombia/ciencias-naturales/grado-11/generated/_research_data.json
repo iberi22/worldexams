@@ -1,0 +1,55 @@
+{
+  "timestamp": "2025-12-04T21:54:38.242Z",
+  "country": "CO",
+  "category": "science",
+  "questions": [
+    {
+      "id": 1,
+      "source": "OpenTDB",
+      "source_url": "https://opentdb.com",
+      "license": "CC BY-SA 4.0",
+      "category": "Science & Nature",
+      "difficulty": "easy",
+      "question": "Who is the chemical element Curium named after?",
+      "correct_answer": "Marie & Pierre Curie",
+      "incorrect_answers": [
+        "The Curiosity Rover",
+        "Curious George",
+        "Stephen Curry"
+      ],
+      "original_language": "en"
+    },
+    {
+      "id": 2,
+      "source": "OpenTDB",
+      "source_url": "https://opentdb.com",
+      "license": "CC BY-SA 4.0",
+      "category": "Science & Nature",
+      "difficulty": "easy",
+      "question": "How many moons does the Earth have?",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "0",
+        "2",
+        "3"
+      ],
+      "original_language": "en"
+    },
+    {
+      "id": 3,
+      "source": "OpenTDB",
+      "source_url": "https://opentdb.com",
+      "license": "CC BY-SA 4.0",
+      "category": "Science & Nature",
+      "difficulty": "medium",
+      "question": "A positron is an antiparticle of a what?",
+      "correct_answer": "Electron",
+      "incorrect_answers": [
+        "Neutron",
+        "Proton",
+        "Photon"
+      ],
+      "original_language": "en"
+    }
+  ]
+}
