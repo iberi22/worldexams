@@ -1,22 +1,13 @@
-# =============================================================================
-# World Exams - Workflow para Pull de Traducciones
-# =============================================================================
-# Este workflow se ejecuta en repos de países para obtener traducciones
-# desde el sistema central de sincronización.
-# =============================================================================
-
-name: 📥 Pull Translations
+name: Pull Translations
 
 on:
-  # Webhook desde question-sync cuando hay traducciones disponibles
   repository_dispatch:
     types: [translations_ready]
 
-  # Trigger manual
   workflow_dispatch:
     inputs:
       force_pull:
-        description: 'Forzar pull de todas las traducciones'
+        description: 'Force pull all translations'
         type: boolean
         default: false
 
@@ -30,58 +21,33 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 📥 Checkout repo
+      - name: Checkout repo
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: 🟢 Setup Node.js
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'
 
-      - name: 📦 Install dependencies
-        run: npm ci
-
-      - name: 🔍 Get available translations
+      - name: Get available translations
         id: translations
         run: |
-          # Query Supabase para traducciones pendientes para este país
-          count=$(npm run get-translations-count --silent)
-          echo "count=$count" >> $GITHUB_OUTPUT
+          echo "Checking for translations for country: $COUNTRY_CODE"
+          echo "This is a placeholder - implement Supabase query here"
 
-      - name: 📥 Download translations
-        if: steps.translations.outputs.count > 0
+      - name: Pull and save translations
+        if: steps.translations.outputs.has_new == 'true'
         run: |
-          npm run download-translations
+          echo "Pulling translations..."
+          echo "This is a placeholder - implement file creation here"
 
-      - name: 📝 Create question files
-        if: steps.translations.outputs.count > 0
+      - name: Commit changes
+        if: steps.translations.outputs.has_new == 'true'
         run: |
-          npm run create-question-files
-
-      - name: ✅ Validate new questions
-        if: steps.translations.outputs.count > 0
-        run: |
-          npm run validate
-
-      - name: 📤 Commit and push
-        if: steps.translations.outputs.count > 0
-        run: |
-          git config user.name "World Exams Bot"
-          git config user.email "bot@worldexams.org"
-
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add src/content/questions/
-
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "📥 Pull translations from question-sync"
-            git push
-          fi
-
-      - name: 📊 Report
-        run: |
-          echo "✅ Pull completed"
-          echo "📝 Translations pulled: ${{ steps.translations.outputs.count }}"
+          git diff --staged --quiet || git commit -m "feat: pull new translations"
+          git push
