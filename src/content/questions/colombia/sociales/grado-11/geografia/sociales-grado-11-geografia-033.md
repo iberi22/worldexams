@@ -16,15 +16,15 @@ group_id: CO-GEO-COMPARATIVE
 ¿Cuál es el país más poblado del mundo?
 
 # Opciones
-- [x] A) China
-- [ ] B) India
+- [ ] A) China
+- [x] B) India
 - [ ] C) Estados Unidos
 - [ ] D) Indonesia
 
 # Explicación
-China tiene aproximadamente 1,400 millones de habitantes, siendo el país más poblado del mundo (aunque India lo está alcanzando y podría superarlo pronto). China representa aproximadamente el 18% de la población mundial.
-- B: India es el segundo con aproximadamente 1,380 millones.
-- C: Estados Unidos tiene aproximadamente 330 millones.
-- D: Indonesia tiene aproximadamente 270 millones.
+India superó a China en 2023 como el país más poblado del mundo, con aproximadamente 1,430 millones de habitantes. India representa aproximadamente el 18% de la población mundial y su población sigue creciendo.
+- A: China tiene aproximadamente 1,410 millones de habitantes (segundo lugar).
+- C: Estados Unidos tiene aproximadamente 340 millones.
+- D: Indonesia tiene aproximadamente 275 millones.
 
 **Competencia:** Conocimiento de demografía mundial y distribución de población.
