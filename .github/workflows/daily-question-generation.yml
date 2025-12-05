@@ -1,0 +1,317 @@
+name: Daily Question Generation
+
+on:
+  schedule:
+    # Ejecutar diariamente a las 6:00 AM UTC (1:00 AM Colombia)
+    - cron: '0 6 * * *'
+  
+  workflow_dispatch:
+    inputs:
+      countries:
+        description: 'Countries to generate (comma-separated)'
+        required: false
+        default: 'CO,MX,BR,US'
+        type: string
+      categories:
+        description: 'Categories to generate (comma-separated)'
+        required: false
+        default: 'mathematics,science,history,geography'
+        type: string
+      questions_per_batch:
+        description: 'Source questions per batch'
+        required: false
+        default: '5'
+        type: string
+
+permissions:
+  contents: read
+  issues: write
+
+env:
+  DEFAULT_COUNTRIES: 'CO,MX,BR,US'
+  DEFAULT_CATEGORIES: 'mathematics,science,history,geography'
+
+jobs:
+  generate-daily-plan:
+    runs-on: ubuntu-latest
+    name: Generate Daily Plan
+    outputs:
+      matrix: ${{ steps.plan.outputs.matrix }}
+      date: ${{ steps.plan.outputs.date }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate execution plan
+        id: plan
+        run: |
+          DATE=$(date +%Y-%m-%d)
+          DAY_OF_WEEK=$(date +%u)  # 1=Monday, 7=Sunday
+          
+          echo "date=$DATE" >> $GITHUB_OUTPUT
+          
+          # Rotación diaria de países y categorías
+          case $DAY_OF_WEEK in
+            1) COUNTRY="CO"; CATEGORY="mathematics" ;;
+            2) COUNTRY="MX"; CATEGORY="science" ;;
+            3) COUNTRY="BR"; CATEGORY="history" ;;
+            4) COUNTRY="US"; CATEGORY="geography" ;;
+            5) COUNTRY="CO"; CATEGORY="computers" ;;
+            6) COUNTRY="MX"; CATEGORY="general_knowledge" ;;
+            7) COUNTRY="BR"; CATEGORY="mathematics" ;;
+          esac
+          
+          # Si es manual, usar inputs
+          if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+            COUNTRIES="${{ inputs.countries }}"
+            CATEGORIES="${{ inputs.categories }}"
+          else
+            COUNTRIES="$COUNTRY"
+            CATEGORIES="$CATEGORY"
+          fi
+          
+          echo "Selected: Countries=$COUNTRIES, Categories=$CATEGORIES"
+          
+          # Crear matriz para parallel jobs
+          MATRIX=$(echo "{\"include\":[]}" | jq -c '.include = [
+            {"country": "'$COUNTRY'", "category": "'$CATEGORY'", "lang": "es"}
+          ]')
+          
+          echo "matrix=$MATRIX" >> $GITHUB_OUTPUT
+
+  fetch-and-create-issue:
+    runs-on: ubuntu-latest
+    name: Fetch & Create Issue
+    needs: generate-daily-plan
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch questions from OpenTDB
+        id: fetch
+        run: |
+          # Obtener día de la semana para rotación
+          DAY_OF_WEEK=$(date +%u)
+          
+          case $DAY_OF_WEEK in
+            1) CATEGORY="mathematics"; CAT_ID=19; COUNTRY="CO"; LANG="es" ;;
+            2) CATEGORY="science"; CAT_ID=17; COUNTRY="MX"; LANG="es" ;;
+            3) CATEGORY="history"; CAT_ID=23; COUNTRY="BR"; LANG="pt" ;;
+            4) CATEGORY="geography"; CAT_ID=22; COUNTRY="US"; LANG="en" ;;
+            5) CATEGORY="computers"; CAT_ID=18; COUNTRY="CO"; LANG="es" ;;
+            6) CATEGORY="general_knowledge"; CAT_ID=9; COUNTRY="MX"; LANG="es" ;;
+            7) CATEGORY="mathematics"; CAT_ID=19; COUNTRY="BR"; LANG="pt" ;;
+          esac
+          
+          NUM_QUESTIONS=5
+          
+          echo "Fetching $NUM_QUESTIONS questions for $COUNTRY - $CATEGORY (ID: $CAT_ID)"
+          
+          curl -s "https://opentdb.com/api.php?amount=${NUM_QUESTIONS}&category=${CAT_ID}&type=multiple&encode=url3986" \
+            -o /tmp/opentdb_raw.json
+          
+          # Procesar respuesta
+          node << 'SCRIPT'
+          const fs = require('fs');
+          const data = JSON.parse(fs.readFileSync('/tmp/opentdb_raw.json', 'utf8'));
+
+          if (data.response_code !== 0) {
+            console.error('API Error:', data);
+            process.exit(1);
+          }
+
+          const questions = data.results.map((q, i) => ({
+            id: i + 1,
+            source: 'OpenTDB',
+            source_url: 'https://opentdb.com',
+            license: 'CC BY-SA 4.0',
+            category: decodeURIComponent(q.category),
+            difficulty: q.difficulty,
+            question: decodeURIComponent(q.question),
+            correct_answer: decodeURIComponent(q.correct_answer),
+            incorrect_answers: q.incorrect_answers.map(a => decodeURIComponent(a)),
+            original_language: 'en'
+          }));
+
+          fs.writeFileSync('/tmp/researched_questions.json', JSON.stringify(questions, null, 2));
+          console.log('Fetched ' + questions.length + ' questions');
+          SCRIPT
+          
+          echo "country=$COUNTRY" >> $GITHUB_OUTPUT
+          echo "category=$CATEGORY" >> $GITHUB_OUTPUT
+          echo "language=$LANG" >> $GITHUB_OUTPUT
+
+      - name: Create Issue for Copilot Agent
+        id: create_issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const questions = JSON.parse(fs.readFileSync('/tmp/researched_questions.json', 'utf8'));
+            const country = '${{ steps.fetch.outputs.country }}';
+            const language = '${{ steps.fetch.outputs.language }}';
+            const category = '${{ steps.fetch.outputs.category }}';
+            const date = new Date().toISOString().split('T')[0];
+            
+            const countryMap = {
+              'CO': { folder: 'saberparatodos', lang: 'es', exam: 'Saber 11', name: 'Colombia' },
+              'MX': { folder: 'exani-mx', lang: 'es', exam: 'EXANI-II', name: 'México' },
+              'BR': { folder: 'enem-br', lang: 'pt', exam: 'ENEM', name: 'Brasil' },
+              'US': { folder: 'sat-us', lang: 'en', exam: 'SAT', name: 'USA' }
+            };
+            
+            const config = countryMap[country] || countryMap['CO'];
+            const totalVariations = questions.length * 6;
+            
+            // Crear cuerpo del issue con instrucciones detalladas para Copilot
+            let body = `## 🤖 Task: Generate ${totalVariations} Question Variations
+
+### 📋 Assignment Details
+- **Country:** ${country} (${config.name}) - ${config.exam}
+- **Language:** ${config.lang}
+- **Category:** ${category}
+- **Date:** ${date}
+- **Target folder:** \`${config.folder}/src/content/questions/\`
+
+---
+
+## 📚 Source Attribution (REQUIRED)
+All generated questions MUST include:
+\`\`\`yaml
+source: "OpenTDB"
+source_url: "https://opentdb.com"
+source_license: "CC BY-SA 4.0"
+inspired_by: "[original question]"
+\`\`\`
+
+---
+
+## 📝 Instructions for Copilot
+
+For EACH source question below, generate **6 unique variations**:
+1. **Keep the same concept** but change values/names
+2. **Adapt to local context** (use ${config.name} examples)
+3. **Vary difficulty** (2 easy, 2 medium, 2 hard)
+4. **Translate to ${config.lang}** if needed
+5. **Create plausible distractors** (common student errors)
+
+### Output Format
+Create markdown files in: \`${config.folder}/src/content/questions/${category}/\`
+
+File naming: \`${country}-${category.substring(0,3).toUpperCase()}-[TOPIC]-[NNN].md\`
+
+---
+
+## 🎯 Source Questions
+
+`;
+
+            questions.forEach((q, i) => {
+              body += `### Source ${i + 1}: ${q.category} (${q.difficulty})
+
+**Original Question:** ${q.question}
+
+**Correct Answer:** ${q.correct_answer}
+
+**Incorrect Answers:** ${q.incorrect_answers.join(', ')}
+
+**Attribution:**
+- Source: ${q.source}
+- URL: ${q.source_url}
+- License: ${q.license}
+
+---
+
+`;
+            });
+
+            body += `
+## ✅ Acceptance Criteria
+- [ ] ${totalVariations} question files created
+- [ ] All files have correct frontmatter
+- [ ] All files include source attribution
+- [ ] Questions are in ${config.lang} language
+- [ ] Distractors are plausible
+- [ ] Difficulty levels are varied
+
+## 🏷️ Labels
+copilot, questions, automated, ${country.toLowerCase()}, ${category}
+`;
+
+            // Crear el issue
+            const issue = await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `[Auto] Generate ${totalVariations} ${category} questions for ${country} (${date})`,
+              body: body,
+              labels: ['copilot', 'questions', 'automated', country.toLowerCase()]
+            });
+
+            console.log(`Created issue #${issue.data.number}`);
+            core.setOutput('issue_number', issue.data.number);
+            return issue.data.number;
+
+      - name: Assign Copilot to Issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issueNumber = parseInt('${{ steps.create_issue.outputs.issue_number }}');
+            
+            console.log(`Attempting to assign Copilot to issue #${issueNumber}`);
+            
+            // Método 1: Intentar usar la API de asignación de Copilot
+            try {
+              // Nota: Esto requiere que Copilot Workspace esté habilitado en el repo
+              await github.rest.issues.addAssignees({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issueNumber,
+                assignees: ['copilot']
+              });
+              console.log('✅ Successfully assigned Copilot via assignees API');
+            } catch (error) {
+              console.log(`⚠️ Could not assign via assignees: ${error.message}`);
+              
+              // Método 2: Crear un comentario para disparar Copilot
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issueNumber,
+                body: `@copilot Please help generate the question variations described in this issue.
+                
+This is an automated request. Please:
+1. Read the source questions above
+2. Generate 6 variations for each source question
+3. Create the markdown files with proper attribution
+4. Submit a PR with the changes
+
+Thank you!`
+              });
+              console.log('✅ Added comment to trigger Copilot');
+            }
+
+  notify-completion:
+    runs-on: ubuntu-latest
+    name: Notify Completion
+    needs: [generate-daily-plan, fetch-and-create-issue]
+    if: always()
+
+    steps:
+      - name: Summary
+        run: |
+          echo "## 📊 Daily Question Generation Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Date:** ${{ needs.generate-daily-plan.outputs.date }}" >> $GITHUB_STEP_SUMMARY
+          echo "**Status:** ${{ job.status }}" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Next Steps" >> $GITHUB_STEP_SUMMARY
+          echo "1. Check the created issue" >> $GITHUB_STEP_SUMMARY
+          echo "2. Copilot will generate variations" >> $GITHUB_STEP_SUMMARY
+          echo "3. Review and merge the PR" >> $GITHUB_STEP_SUMMARY

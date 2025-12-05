@@ -1,147 +1,166 @@
 # 📚 Plan de Generación de Preguntas - World Exams
 
 ## 🎯 Objetivo
-Generar un banco de preguntas diverso y de calidad para todos los países activos, utilizando fuentes públicas con atribución completa.
+Generar un banco de preguntas diverso y de calidad para todos los países activos, utilizando fuentes públicas con atribución completa y automatización diaria.
+
+---
+
+## 🚀 Sistema de Automatización
+
+### Ejecución Diaria
+- **Workflow:** `.github/workflows/daily-question-generation.yml`
+- **Horario:** 6:00 AM UTC (1:00 AM Colombia)
+- **Rotación:** Un país y categoría diferente cada día de la semana
+
+| Día | País | Categoría |
+|-----|------|-----------|
+| Lunes | 🇨🇴 CO | Matemáticas |
+| Martes | 🇲🇽 MX | Ciencias |
+| Miércoles | 🇧🇷 BR | Historia |
+| Jueves | 🇺🇸 US | Geografía |
+| Viernes | 🇨🇴 CO | Computación |
+| Sábado | 🇲🇽 MX | Conocimiento General |
+| Domingo | 🇧🇷 BR | Matemáticas |
+
+### Flujo Automático
+```mermaid
+graph LR
+    A[Cron 6AM UTC] --> B[Fetch OpenTDB]
+    B --> C[Crear Issue]
+    C --> D[Asignar Copilot]
+    D --> E[Generar Variaciones]
+    E --> F[PR Automático]
+    F --> G[Review & Merge]
+```
 
 ---
 
 ## 📊 Estado Actual de Preguntas
 
-| País | Código | Preguntas Actuales | Meta Mínima | Prioridad |
-|------|--------|-------------------|-------------|-----------|
-| 🇨🇴 Colombia | CO | 97 | 500 | 🔴 Alta |
-| 🇲🇽 México | MX | 10 | 500 | 🔴 Alta |
-| 🇧🇷 Brasil | BR | 10 | 500 | 🔴 Alta |
-| 🇺🇸 USA | US | 10 | 500 | 🔴 Alta |
-| 🇦🇷 Argentina | AR | 3 | 200 | 🟡 Media |
-| 🇨🇱 Chile | CL | 3 | 200 | 🟡 Media |
-| 🇵🇪 Perú | PE | 3 | 200 | 🟡 Media |
+| País | Código | Preguntas Actuales | Meta Mínima | Prioridad | Issues Pendientes |
+|------|--------|-------------------|-------------|-----------|-------------------|
+| 🇨🇴 Colombia | CO | 97 | 500 | 🔴 Alta | 8 |
+| 🇲🇽 México | MX | 10 | 500 | 🔴 Alta | 4 |
+| 🇧🇷 Brasil | BR | 10 | 500 | 🔴 Alta | 3 |
+| 🇺🇸 USA | US | 10 | 500 | 🔴 Alta | 3 |
+| 🇦🇷 Argentina | AR | 3 | 200 | 🟡 Media | 0 |
+| 🇨🇱 Chile | CL | 3 | 200 | 🟡 Media | 0 |
+| 🇵🇪 Perú | PE | 3 | 200 | 🟡 Media | 0 |
 
 ---
 
 ## 🔍 Fuentes de Preguntas (Con Atribución)
 
-### 1. Open Trivia Database (OpenTDB)
+> 📄 **Ver documentación completa:** [QUESTION_SOURCES.md](./QUESTION_SOURCES.md)
+
+### Fuentes Principales
+
+| Fuente | Licencia | Preguntas | Estado |
+|--------|----------|-----------|--------|
+| **OpenTDB** | CC BY-SA 4.0 | ~4,000 | ✅ Activa |
+| **OpenTriviaQA** | CC BY-SA 4.0 | ~10,000 | 🔄 Pendiente |
+| **Wikidata** | CC0 / CC BY-SA 3.0 | Ilimitadas | 🔄 Pendiente |
+
+### 1. Open Trivia Database (OpenTDB) - ACTIVA
 - **URL:** https://opentdb.com
-- **Licencia:** CC BY-SA 4.0
-- **Categorías disponibles:**
-  - Science & Nature (ID: 17)
-  - Mathematics (ID: 19)
-  - History (ID: 23)
-  - Geography (ID: 22)
-  - General Knowledge (ID: 9)
-  - Computers (ID: 18)
-  - Art (ID: 25)
-  - Politics (ID: 24)
-- **Idioma:** Inglés (requiere traducción)
-- **Límite:** 50 preguntas por request
+- **Licencia:** CC BY-SA 4.0 ✅
+- **API:** https://opentdb.com/api.php
+- **Límite:** 50 preguntas por request, sin autenticación
 
-### 2. Wikidata/Wikipedia
+### 2. OpenTriviaQA (GitHub) - PENDIENTE
+- **URL:** https://github.com/uberspot/OpenTriviaQA
+- **Licencia:** CC BY-SA 4.0 ✅
+- **Formato:** Archivos de texto plano
+- **Estado:** Pendiente de integrar
+
+### 3. Wikidata - PENDIENTE
 - **URL:** https://www.wikidata.org
-- **Licencia:** CC0 / CC BY-SA 3.0
-- **Uso:** Datos factuales para generar preguntas
-- **Categorías:** Geografía, Historia, Ciencias, Cultura
-
-### 3. Khan Academy (Inspiración)
-- **URL:** https://www.khanacademy.org
-- **Licencia:** CC BY-NC-SA 3.0
-- **Uso:** Estructura de preguntas matemáticas y científicas
-- **Nota:** Solo como inspiración, no copiar directamente
-
-### 4. OpenStax
-- **URL:** https://openstax.org
-- **Licencia:** CC BY 4.0
-- **Uso:** Contenido educativo de matemáticas, física, biología
-- **Idiomas:** Inglés, Español
-
-### 5. Repositorios GitHub Educativos
-- **r-exams_matematicas:** Preguntas estilo ICFES
-- **awesome-education:** Recursos educativos
-- **Licencias:** Varían por repo
+- **Licencia:** CC0 / CC BY-SA 3.0 ✅
+- **Uso:** Datos factuales para generación procedural
+- **Estado:** Pendiente de implementar queries SPARQL
 
 ---
 
-## 📅 Plan de Ejecución por Fases
+## 📅 Plan de Ejecución Automatizado
 
-### Fase 1: Países Prioritarios (Semana 1-2)
-**Meta:** 200 preguntas por país
+### Ejecución Diaria Automática
+El workflow `daily-question-generation.yml` se ejecuta automáticamente:
 
-#### Colombia (CO) - Saber 11
-```
-Día 1: Matemáticas (50 preguntas)
-  - OpenTDB: mathematics → 10 fuentes × 5 variaciones
-  
-Día 2: Ciencias Naturales (50 preguntas)
-  - OpenTDB: science → 10 fuentes × 5 variaciones
-  
-Día 3: Lectura Crítica (50 preguntas)
-  - Generar desde textos de Wikipedia/Wikisource
-  
-Día 4: Sociales/Historia (50 preguntas)
-  - OpenTDB: history, geography → 10 fuentes × 5 variaciones
+```bash
+# Ejecutar manualmente con configuración personalizada
+gh workflow run daily-question-generation.yml \
+  --repo iberi22/worldexams \
+  -f countries=CO,MX,BR,US \
+  -f categories=mathematics,science \
+  -f questions_per_batch=5
 ```
 
-#### México (MX) - EXANI-II
-```
-Día 5: Matemáticas (50 preguntas)
-Día 6: Español (50 preguntas)
-Día 7: Ciencias (50 preguntas)
-Día 8: Historia/Civismo (50 preguntas)
+### Issues Generados Automáticamente
+Cada día se crea un issue con:
+1. ✅ Preguntas fuente de OpenTDB
+2. ✅ Instrucciones detalladas para Copilot
+3. ✅ Atribución completa de la fuente
+4. ✅ Asignación automática a Copilot Agent
+
+### Copilot Coding Agent
+Para asignar Copilot manualmente a un issue existente:
+```bash
+# Usando GitHub CLI (requiere permisos)
+gh api repos/iberi22/worldexams/issues/[ISSUE_NUMBER]/assignees \
+  -f assignees[]="copilot"
 ```
 
-#### Brasil (BR) - ENEM
-```
-Día 9: Matemática (50 preguntas)
-Día 10: Português (50 preguntas)
-Día 11: Ciências (50 preguntas)
-Día 12: História (50 preguntas)
-```
+---
 
-#### USA (US) - SAT
-```
-Día 13: Math (50 preguntas)
-Día 14: Reading (50 preguntas)
-Día 15: Writing (50 preguntas)
-Día 16: Science (50 preguntas)
-```
+## 📊 Issues Actuales (19 pendientes)
 
-### Fase 2: Países Secundarios (Semana 3)
-**Meta:** 100 preguntas por país
+| # | País | Categoría | Preguntas | Estado |
+|---|------|-----------|-----------|--------|
+| 19 | 🇺🇸 US | History | 30 | ⏳ Pendiente |
+| 18 | 🇺🇸 US | Computers | 30 | ⏳ Pendiente |
+| 17 | 🇺🇸 US | Mathematics | 30 | ⏳ Pendiente |
+| 16 | 🇧🇷 BR | Geography | 30 | ⏳ Pendiente |
+| 15 | 🇧🇷 BR | History | 30 | ⏳ Pendiente |
+| 14 | 🇧🇷 BR | Science | 30 | ⏳ Pendiente |
+| 13 | 🇲🇽 MX | General Knowledge | 30 | ⏳ Pendiente |
+| 12 | 🇨🇴 CO | Computers | 30 | ⏳ Pendiente |
+| 11 | 🇲🇽 MX | History | 30 | ⏳ Pendiente |
+| 10 | 🇲🇽 MX | Mathematics | 30 | ⏳ Pendiente |
+| 9 | 🇨🇴 CO | History | 30 | ⏳ Pendiente |
+| 8 | 🇨🇴 CO | Geography | 30 | ⏳ Pendiente |
+| 7 | 🇨🇴 CO | Computers | 30 | ⏳ Pendiente |
+| 6 | 🇨🇴 CO | Mathematics | 30 | ⏳ Pendiente |
+| 5 | 🇨🇴 CO | Geography | 30 | ⏳ Pendiente |
+| 4 | 🇨🇴 CO | History | 30 | ⏳ Pendiente |
+| 3 | 🇨🇴 CO | Mathematics | 30 | ⏳ Pendiente |
+| 2 | 🇲🇽 MX | Mathematics | 12 | ⏳ Pendiente |
+| 1 | 🇨🇴 CO | Science | 12 | ⏳ Pendiente |
 
-- Argentina (AR): 25 por categoría × 4 categorías
-- Chile (CL): 25 por categoría × 4 categorías
-- Perú (PE): 25 por categoría × 4 categorías
+**Total potencial:** ~534 preguntas (89 fuentes × 6 variaciones)
 
 ---
 
 ## 🔄 Comandos de Ejecución
 
-### Ejecutar Research Workflow
+### Ejecutar Generación Diaria (Manual)
+
+```bash
+# Ejecutar con valores por defecto (rotación diaria)
+gh workflow run daily-question-generation.yml --repo iberi22/worldexams
+
+# Ejecutar con configuración personalizada
+gh workflow run daily-question-generation.yml --repo iberi22/worldexams \
+  -f countries=CO,MX \
+  -f categories=mathematics,science \
+  -f questions_per_batch=10
+```
+
+### Ejecutar Research Workflow (Legacy)
 
 ```bash
 # Colombia - Matemáticas
 gh workflow run research-questions.yml --repo iberi22/worldexams \
   -f country=CO -f category=mathematics -f num_questions=10 -f language=es
-
-# Colombia - Ciencias
-gh workflow run research-questions.yml --repo iberi22/worldexams \
-  -f country=CO -f category=science -f num_questions=10 -f language=es
-
-# Colombia - Historia
-gh workflow run research-questions.yml --repo iberi22/worldexams \
-  -f country=CO -f category=history -f num_questions=10 -f language=es
-
-# México - Matemáticas
-gh workflow run research-questions.yml --repo iberi22/worldexams \
-  -f country=MX -f category=mathematics -f num_questions=10 -f language=es
-
-# Brasil - Ciencias
-gh workflow run research-questions.yml --repo iberi22/worldexams \
-  -f country=BR -f category=science -f num_questions=10 -f language=pt
-
-# USA - Math
-gh workflow run research-questions.yml --repo iberi22/worldexams \
-  -f country=US -f category=mathematics -f num_questions=10 -f language=en
 ```
 
 ---
