@@ -14,7 +14,7 @@ What was the central dispute in the Lobster War between France and Brazil?
 
 # Options
 - [ ] A) Territorial claims over islands
-- [x] B) Whether lobsters walk on the continental shelf or swim in international waters
+- [x] B) Whether lobsters walk on the seabed or swim in open waters
 - [ ] C) Ownership of fishing vessels
 - [ ] D) Trade tariffs on seafood
 

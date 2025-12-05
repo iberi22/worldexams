@@ -10,7 +10,7 @@ creador: AI-WorldExams
 source: OpenTDB (CC BY-SA 4.0)
 ---
 # Question
-What was the capital of South Vietnam before the Vietnam War?
+What was the capital of South Vietnam during the Vietnam War?
 
 # Options
 - [ ] A) Ho Chi Minh City
@@ -19,7 +19,7 @@ What was the capital of South Vietnam before the Vietnam War?
 - [x] D) Saigon
 
 # Explanation
-Saigon was the capital of South Vietnam throughout the Vietnam War era (1955-1975). After the fall of Saigon in 1975 and the reunification of Vietnam under communist control, the city was renamed Ho Chi Minh City. The fall of Saigon marked the end of U.S. military involvement in Vietnam and became an enduring symbol of American military defeat.
+Saigon was the capital of South Vietnam throughout the Vietnam War era (1955-1975). After the fall of Saigon in April 1975 and the reunification of Vietnam under communist control, the city was renamed Ho Chi Minh City. The fall of Saigon marked the end of U.S. military involvement in Vietnam and became an enduring symbol of American military defeat.
 - A) Ho Chi Minh City: The name given to Saigon after 1975
 - B) Hanoi: Capital of North Vietnam and unified Vietnam
 - C) Hue: Historic city but not South Vietnam's capital
