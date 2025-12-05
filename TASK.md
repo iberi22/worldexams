@@ -1,9 +1,49 @@
 # Gestión de Tareas: World Exams Organization
-_Última actualización: 2025-11-30_
+_Última actualización: 2025-12-04_
 
 ## 🎯 Resumen Ejecutivo y Estado Actual
 
-**Estado General:** 65% - Enfocado en personalizar repos con template UI ciber-minimalista y resolver flag de GitHub
+**Estado General:** 70% - Protocolo v2.0 de generación de preguntas implementado
+
+---
+
+## 🆕 NUEVO: Protocolo de Generación v2.0
+
+**Fecha de implementación:** 2025-12-04
+
+### Cambios Principales
+
+| Aspecto | v1.0 (anterior) | v2.0 (actual) |
+|---------|-----------------|---------------|
+| Preguntas por archivo | 1 | **7** |
+| Variantes | 6 aleatorias | 1 original + 2 fácil + 2 media + 2 difícil |
+| Contexto cultural | Opcional | **Obligatorio** |
+| Explicaciones | Básicas | **Pedagógicas detalladas** |
+| IDs | `[ID]` | `[ID]-v[1-7]` |
+
+### Archivos Creados
+
+| Archivo | Propósito |
+|---------|-----------|
+| `docs/QUESTION_GENERATION_PROTOCOL_V2.md` | Documentación completa del protocolo |
+| `docs/examples/MX-MAT-11-angulos-001-bundle.md` | Ejemplo de referencia |
+| `.github/workflows/generate-questions-v2.yml` | Workflow automatizado |
+| `.github/ISSUE_TEMPLATE/generate-questions-v2.md` | Template para issues |
+
+### PRs Pendientes (Protocolo v1.0)
+
+| PR | País | Estado | Decisión |
+|----|------|--------|----------|
+| #30 | 🇲🇽 México Math | Draft | ❌ RECHAZADO - contexto pobre |
+| #31 | 🇨🇴 Colombia Informática | Draft | ✅ Aprobar |
+| #33 | 🇺🇸 USA History | Draft | ✅ Aprobar |
+| #35 | 🇧🇷 Brasil Math | Draft | ✅ Aprobar |
+| #36 | 🇧🇷 Brasil History | Draft | ✅ Aprobar |
+| #41 | 🇨🇴 Colombia Math | Draft | ⭐ YA USA v2.0! |
+
+**Nota:** PR #41 ya implementa el formato v2.0 con atribución de fuente y variaciones por dificultad.
+
+---
 
 **Contexto Crítico:** La organización `worldexams` fue flagueada por GitHub debido a la creación masiva de repositorios (20+ en corto tiempo). Se envió ticket de soporte explicando el propósito educativo legítimo del proyecto. **NO CREAR MÁS REPOS HASTA QUE SE RESUELVA EL FLAG.**
 
