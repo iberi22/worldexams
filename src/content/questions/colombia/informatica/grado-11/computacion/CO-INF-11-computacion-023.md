@@ -28,6 +28,6 @@ Coffee Lake utilizó el proceso de fabricación de 14nm++ (una versión optimiza
 - A es incorrecto: El proceso de 10nm llegó con Ice Lake en 2019.
 - B es incorrecto: El proceso de 22nm fue usado en Ivy Bridge y Haswell (2012-2014).
 - C es correcto: Coffee Lake usó el proceso 14nm++ (tercera optimización).
-- D es incorrecto: Intel aún no ha lanzado procesadores comerciales a 7nm.
+- D es incorrecto: En 2017, Intel no había lanzado procesadores a 7nm (equivalente a Intel 4).
 
 **Competencia:** Comprensión de procesos de fabricación de semiconductores.
