@@ -12,7 +12,7 @@ source: OpenTDB-adapted
 ¿Cuál es el resultado de multiplicar (3 × 10^5) por (2 × 10^3)?
 
 # Opciones
-- [ ] A) 6 × 10^8
+- [ ] A) 6 × 10^7
 - [x] B) 6 × 10^8
 - [ ] C) 5 × 10^8
 - [ ] D) 6 × 10^15
@@ -24,5 +24,6 @@ Para multiplicar números en notación científica:
 3. Resultado: 6 × 10^8
 
 Los distractores representan errores comunes:
+- Error en la suma de exponentes (solo sumar 2) (opción A)
 - Sumar coeficientes (opción C)
 - Multiplicar exponentes en lugar de sumarlos (opción D)

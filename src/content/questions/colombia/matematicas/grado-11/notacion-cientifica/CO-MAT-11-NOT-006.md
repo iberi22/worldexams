@@ -12,7 +12,7 @@ source: OpenTDB-adapted
 ¿Cuál es el resultado de dividir (8 × 10^9) entre (4 × 10^5)?
 
 # Opciones
-- [ ] A) 2 × 10^4
+- [ ] A) 2 × 10^3
 - [x] B) 2 × 10^4
 - [ ] C) 2 × 10^14
 - [ ] D) 32 × 10^4
@@ -24,5 +24,6 @@ Para dividir números en notación científica:
 3. Resultado: 2 × 10^4
 
 Los distractores representan errores comunes:
+- Restar incorrectamente (1 lugar) en lugar de 4 (opción A)
 - Sumar exponentes en lugar de restarlos (opción C)
 - Multiplicar coeficientes en lugar de dividirlos (opción D)
