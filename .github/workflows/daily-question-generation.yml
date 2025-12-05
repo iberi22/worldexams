@@ -4,7 +4,7 @@ on:
   schedule:
     # Ejecutar diariamente a las 6:00 AM UTC (1:00 AM Colombia)
     - cron: '0 6 * * *'
-  
+
   workflow_dispatch:
     inputs:
       countries:
@@ -48,9 +48,9 @@ jobs:
         run: |
           DATE=$(date +%Y-%m-%d)
           DAY_OF_WEEK=$(date +%u)  # 1=Monday, 7=Sunday
-          
+
           echo "date=$DATE" >> $GITHUB_OUTPUT
-          
+
           # Rotación diaria de países y categorías
           case $DAY_OF_WEEK in
             1) COUNTRY="CO"; CATEGORY="mathematics" ;;
@@ -61,7 +61,7 @@ jobs:
             6) COUNTRY="MX"; CATEGORY="general_knowledge" ;;
             7) COUNTRY="BR"; CATEGORY="mathematics" ;;
           esac
-          
+
           # Si es manual, usar inputs
           if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
             COUNTRIES="${{ inputs.countries }}"
@@ -70,14 +70,14 @@ jobs:
             COUNTRIES="$COUNTRY"
             CATEGORIES="$CATEGORY"
           fi
-          
+
           echo "Selected: Countries=$COUNTRIES, Categories=$CATEGORIES"
-          
+
           # Crear matriz para parallel jobs
           MATRIX=$(echo "{\"include\":[]}" | jq -c '.include = [
             {"country": "'$COUNTRY'", "category": "'$CATEGORY'", "lang": "es"}
           ]')
-          
+
           echo "matrix=$MATRIX" >> $GITHUB_OUTPUT
 
   fetch-and-create-issue:
@@ -99,7 +99,7 @@ jobs:
         run: |
           # Obtener día de la semana para rotación
           DAY_OF_WEEK=$(date +%u)
-          
+
           case $DAY_OF_WEEK in
             1) CATEGORY="mathematics"; CAT_ID=19; COUNTRY="CO"; LANG="es" ;;
             2) CATEGORY="science"; CAT_ID=17; COUNTRY="MX"; LANG="es" ;;
@@ -109,14 +109,14 @@ jobs:
             6) CATEGORY="general_knowledge"; CAT_ID=9; COUNTRY="MX"; LANG="es" ;;
             7) CATEGORY="mathematics"; CAT_ID=19; COUNTRY="BR"; LANG="pt" ;;
           esac
-          
+
           NUM_QUESTIONS=5
-          
+
           echo "Fetching $NUM_QUESTIONS questions for $COUNTRY - $CATEGORY (ID: $CAT_ID)"
-          
+
           curl -s "https://opentdb.com/api.php?amount=${NUM_QUESTIONS}&category=${CAT_ID}&type=multiple&encode=url3986" \
             -o /tmp/opentdb_raw.json
-          
+
           # Procesar respuesta
           node << 'SCRIPT'
           const fs = require('fs');
@@ -143,7 +143,7 @@ jobs:
           fs.writeFileSync('/tmp/researched_questions.json', JSON.stringify(questions, null, 2));
           console.log('Fetched ' + questions.length + ' questions');
           SCRIPT
-          
+
           echo "country=$COUNTRY" >> $GITHUB_OUTPUT
           echo "category=$CATEGORY" >> $GITHUB_OUTPUT
           echo "language=$LANG" >> $GITHUB_OUTPUT
@@ -159,17 +159,17 @@ jobs:
             const language = '${{ steps.fetch.outputs.language }}';
             const category = '${{ steps.fetch.outputs.category }}';
             const date = new Date().toISOString().split('T')[0];
-            
+
             const countryMap = {
               'CO': { folder: 'saberparatodos', lang: 'es', exam: 'Saber 11', name: 'Colombia' },
               'MX': { folder: 'exani-mx', lang: 'es', exam: 'EXANI-II', name: 'México' },
               'BR': { folder: 'enem-br', lang: 'pt', exam: 'ENEM', name: 'Brasil' },
               'US': { folder: 'sat-us', lang: 'en', exam: 'SAT', name: 'USA' }
             };
-            
+
             const config = countryMap[country] || countryMap['CO'];
             const totalVariations = questions.length * 6;
-            
+
             // Crear cuerpo del issue con instrucciones detalladas para Copilot
             let body = `## 🤖 Task: Generate ${totalVariations} Question Variations
 
@@ -263,9 +263,9 @@ copilot, questions, automated, ${country.toLowerCase()}, ${category}
         with:
           script: |
             const issueNumber = parseInt('${{ steps.create_issue.outputs.issue_number }}');
-            
+
             console.log(`Attempting to assign Copilot to issue #${issueNumber}`);
-            
+
             // Método 1: Intentar usar la API de asignación de Copilot
             try {
               // Nota: Esto requiere que Copilot Workspace esté habilitado en el repo
@@ -278,14 +278,14 @@ copilot, questions, automated, ${country.toLowerCase()}, ${category}
               console.log('✅ Successfully assigned Copilot via assignees API');
             } catch (error) {
               console.log(`⚠️ Could not assign via assignees: ${error.message}`);
-              
+
               // Método 2: Crear un comentario para disparar Copilot
               await github.rest.issues.createComment({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
                 issue_number: issueNumber,
                 body: `@copilot Please help generate the question variations described in this issue.
-                
+
 This is an automated request. Please:
 1. Read the source questions above
 2. Generate 6 variations for each source question

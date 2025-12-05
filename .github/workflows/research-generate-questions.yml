@@ -1,0 +1,440 @@
+name: Research & Generate Questions
+
+on:
+  schedule:
+    # Ejecutar diariamente a las 6:00 AM UTC (1:00 AM Colombia)
+    - cron: '0 6 * * *'
+
+  workflow_dispatch:
+    inputs:
+      country:
+        description: 'Target country code'
+        required: true
+        type: choice
+        options:
+          - CO
+          - MX
+          - BR
+          - US
+        default: 'CO'
+      category:
+        description: 'Question category'
+        required: true
+        type: choice
+        options:
+          - mathematics
+          - science
+          - history
+          - geography
+          - computers
+          - general_knowledge
+        default: 'mathematics'
+      num_questions:
+        description: 'Number of source questions to fetch'
+        required: false
+        type: number
+        default: 5
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+env:
+  NODE_VERSION: '20'
+
+jobs:
+  research-validate-generate:
+    runs-on: ubuntu-latest
+    name: Research, Validate & Generate
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+
+      - name: Determine parameters
+        id: params
+        run: |
+          DATE=$(date +%Y-%m-%d)
+          DAY_OF_WEEK=$(date +%u)
+          
+          if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+            COUNTRY="${{ inputs.country }}"
+            CATEGORY="${{ inputs.category }}"
+            NUM_QUESTIONS="${{ inputs.num_questions }}"
+          else
+            # Rotación automática diaria
+            case $DAY_OF_WEEK in
+              1) COUNTRY="CO"; CATEGORY="mathematics" ;;
+              2) COUNTRY="MX"; CATEGORY="science" ;;
+              3) COUNTRY="BR"; CATEGORY="history" ;;
+              4) COUNTRY="US"; CATEGORY="geography" ;;
+              5) COUNTRY="CO"; CATEGORY="computers" ;;
+              6) COUNTRY="MX"; CATEGORY="general_knowledge" ;;
+              7) COUNTRY="BR"; CATEGORY="mathematics" ;;
+            esac
+            NUM_QUESTIONS=5
+          fi
+          
+          echo "date=$DATE" >> $GITHUB_OUTPUT
+          echo "country=$COUNTRY" >> $GITHUB_OUTPUT
+          echo "category=$CATEGORY" >> $GITHUB_OUTPUT
+          echo "num_questions=$NUM_QUESTIONS" >> $GITHUB_OUTPUT
+          
+          echo "📅 Date: $DATE"
+          echo "🌍 Country: $COUNTRY"
+          echo "📚 Category: $CATEGORY"
+          echo "🔢 Questions: $NUM_QUESTIONS"
+
+      - name: Research & Validate Questions from OpenTDB
+        id: research
+        run: |
+          CATEGORY="${{ steps.params.outputs.category }}"
+          NUM="${{ steps.params.outputs.num_questions }}"
+          COUNTRY="${{ steps.params.outputs.country }}"
+          
+          # Mapear categoría a ID de OpenTDB
+          case "$CATEGORY" in
+            "science") CAT_ID=17 ;;
+            "mathematics") CAT_ID=19 ;;
+            "history") CAT_ID=23 ;;
+            "geography") CAT_ID=22 ;;
+            "general_knowledge") CAT_ID=9 ;;
+            "computers") CAT_ID=18 ;;
+            *) CAT_ID=9 ;;
+          esac
+          
+          echo "🔍 Fetching from OpenTDB (Category ID: $CAT_ID)..."
+          
+          # Fetch con retry
+          for i in 1 2 3; do
+            curl -s "https://opentdb.com/api.php?amount=${NUM}&category=${CAT_ID}&type=multiple&encode=url3986" \
+              -o /tmp/opentdb_raw.json && break
+            echo "Retry $i..."
+            sleep 2
+          done
+          
+          # Validar y procesar respuesta
+          node << 'VALIDATION_SCRIPT'
+          const fs = require('fs');
+          
+          const data = JSON.parse(fs.readFileSync('/tmp/opentdb_raw.json', 'utf8'));
+          
+          if (data.response_code !== 0) {
+            console.error('❌ API Error:', data.response_code);
+            process.exit(1);
+          }
+          
+          console.log(`✅ Fetched ${data.results.length} questions from OpenTDB`);
+          
+          // Validar cada pregunta
+          const validatedQuestions = [];
+          const rejectedQuestions = [];
+          
+          data.results.forEach((q, i) => {
+            const question = {
+              id: i + 1,
+              source: 'OpenTDB',
+              source_url: 'https://opentdb.com',
+              license: 'CC BY-SA 4.0',
+              category: decodeURIComponent(q.category),
+              difficulty: q.difficulty,
+              original_question: decodeURIComponent(q.question),
+              correct_answer: decodeURIComponent(q.correct_answer),
+              incorrect_answers: q.incorrect_answers.map(a => decodeURIComponent(a)),
+              original_language: 'en'
+            };
+            
+            // VALIDACIONES
+            const validations = {
+              hasQuestion: question.original_question.length > 10,
+              hasCorrectAnswer: question.correct_answer.length > 0,
+              hasDistractors: question.incorrect_answers.length >= 3,
+              noHtml: !/<[^>]*>/.test(question.original_question),
+              notTooLong: question.original_question.length < 500,
+              answersAreDifferent: new Set([question.correct_answer, ...question.incorrect_answers]).size === 4
+            };
+            
+            const isValid = Object.values(validations).every(v => v);
+            
+            if (isValid) {
+              question.validation_status = 'PASSED';
+              question.validation_checks = validations;
+              validatedQuestions.push(question);
+              console.log(`  ✅ Q${i+1}: Valid - "${question.original_question.substring(0, 50)}..."`);
+            } else {
+              question.validation_status = 'FAILED';
+              question.validation_checks = validations;
+              rejectedQuestions.push(question);
+              console.log(`  ❌ Q${i+1}: Invalid - Failed checks: ${Object.entries(validations).filter(([k,v]) => !v).map(([k]) => k).join(', ')}`);
+            }
+          });
+          
+          console.log(`\n📊 Validation Summary:`);
+          console.log(`   Valid: ${validatedQuestions.length}`);
+          console.log(`   Rejected: ${rejectedQuestions.length}`);
+          
+          if (validatedQuestions.length === 0) {
+            console.error('❌ No valid questions found!');
+            process.exit(1);
+          }
+          
+          // Guardar resultados
+          fs.writeFileSync('/tmp/validated_questions.json', JSON.stringify({
+            metadata: {
+              source: 'OpenTDB',
+              source_url: 'https://opentdb.com',
+              license: 'CC BY-SA 4.0',
+              fetch_date: new Date().toISOString(),
+              total_fetched: data.results.length,
+              total_valid: validatedQuestions.length,
+              total_rejected: rejectedQuestions.length
+            },
+            questions: validatedQuestions,
+            rejected: rejectedQuestions
+          }, null, 2));
+          
+          console.log('\n✅ Validation complete!');
+          VALIDATION_SCRIPT
+          
+          echo "validated=true" >> $GITHUB_OUTPUT
+
+      - name: Create Issue with Validated Questions
+        id: create_issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const data = JSON.parse(fs.readFileSync('/tmp/validated_questions.json', 'utf8'));
+            const country = '${{ steps.params.outputs.country }}';
+            const category = '${{ steps.params.outputs.category }}';
+            const date = '${{ steps.params.outputs.date }}';
+            
+            const countryMap = {
+              'CO': { folder: 'saberparatodos/src/content/questions', lang: 'es', exam: 'Saber 11', name: 'Colombia', currency: 'COP', cities: ['Bogotá', 'Medellín', 'Cali'] },
+              'MX': { folder: 'exani-mx/src/content/questions', lang: 'es', exam: 'EXANI-II', name: 'México', currency: 'MXN', cities: ['CDMX', 'Guadalajara', 'Monterrey'] },
+              'BR': { folder: 'enem-br/src/content/questions', lang: 'pt', exam: 'ENEM', name: 'Brasil', currency: 'BRL', cities: ['São Paulo', 'Rio', 'Brasília'] },
+              'US': { folder: 'sat-us/src/content/questions', lang: 'en', exam: 'SAT', name: 'USA', currency: 'USD', cities: ['New York', 'Los Angeles', 'Chicago'] }
+            };
+            
+            const config = countryMap[country] || countryMap['CO'];
+            const totalVariations = data.questions.length * 6;
+            
+            // Crear cuerpo del issue con estructura mejorada
+            let body = `## 🤖 Task: Generate ${totalVariations} Validated Question Variations
+
+### 📋 Research Summary
+| Metric | Value |
+|--------|-------|
+| **Source** | ${data.metadata.source} |
+| **License** | ${data.metadata.license} ✅ |
+| **Fetched** | ${data.metadata.total_fetched} questions |
+| **Validated** | ${data.metadata.total_valid} questions ✅ |
+| **Rejected** | ${data.metadata.total_rejected} questions ❌ |
+| **Fetch Date** | ${data.metadata.fetch_date} |
+
+### 🌍 Target Configuration
+| Parameter | Value |
+|-----------|-------|
+| **Country** | ${country} (${config.name}) |
+| **Exam** | ${config.exam} |
+| **Language** | ${config.lang} |
+| **Category** | ${category} |
+| **Target Folder** | \`${config.folder}/${category}/\` |
+
+---
+
+## 📝 MANDATORY: File Structure for Each Question
+
+Each generated \`.md\` file MUST follow this EXACT structure:
+
+\`\`\`yaml
+---
+id: "${country}-[SUBJ]-[GRADE]-[TOPIC]-[NNN]"
+country: "${country.toLowerCase()}"
+grado: 11
+asignatura: "[Subject in ${config.lang}]"
+tema: "[Topic]"
+dificultad: [1-5]
+estado: published
+creador: "Copilot"
+
+# SOURCE ATTRIBUTION (REQUIRED - DO NOT REMOVE)
+source: "${data.metadata.source}"
+source_url: "${data.metadata.source_url}"
+source_license: "${data.metadata.license}"
+original_question: "[The exact original question from source]"
+original_answer: "[The correct answer from source]"
+variation_number: [1-6]
+generation_date: "${date}"
+---
+# Pregunta
+
+[Question text in ${config.lang}, adapted to ${config.name} context]
+
+# Opciones
+
+- [x] A) [Correct answer]
+- [ ] B) [Distractor 1 - common error]
+- [ ] C) [Distractor 2 - common error]
+- [ ] D) [Distractor 3 - common error]
+
+# Explicación
+
+**Respuesta correcta:** A
+
+[Detailed explanation in ${config.lang} of WHY this is correct]
+
+**Por qué las otras opciones son incorrectas:**
+- B) [Why this is wrong]
+- C) [Why this is wrong]
+- D) [Why this is wrong]
+
+# Metadata
+
+| Campo | Valor |
+|-------|-------|
+| Fuente Original | ${data.metadata.source} |
+| Licencia | ${data.metadata.license} |
+| Pregunta Original | "[original]" |
+| Tipo de Variación | [conceptual/numérica/contextual] |
+\`\`\`
+
+---
+
+## 🎯 VALIDATED Source Questions (Human-Created, Verified)
+
+`;
+
+            data.questions.forEach((q, i) => {
+              body += `### ✅ Source ${i + 1}: ${q.category} (${q.difficulty})
+
+| Field | Value |
+|-------|-------|
+| **Original Question** | ${q.original_question} |
+| **Correct Answer** | ${q.correct_answer} |
+| **Incorrect Answers** | ${q.incorrect_answers.join(' \\| ')} |
+| **Validation** | ${q.validation_status} |
+| **Source** | ${q.source} (${q.source_url}) |
+| **License** | ${q.license} |
+
+**Generate 6 variations of this question:**
+1. **Easy (2)**: Simpler version, ${config.lang}
+2. **Easy (2)**: Different values, ${config.name} context
+3. **Medium (3)**: Same difficulty, ${config.lang}
+4. **Medium (3)**: Different context (use ${config.cities.join(', ')})
+5. **Hard (4)**: More complex version
+6. **Hard (4)**: Multi-step problem
+
+---
+
+`;
+            });
+
+            body += `
+## ✅ Acceptance Criteria
+
+### File Requirements
+- [ ] Create exactly ${totalVariations} markdown files
+- [ ] Each file follows the EXACT structure above
+- [ ] All files are in \`${config.folder}/${category}/grado-11/\`
+- [ ] File naming: \`${country}-[CAT]-11-[topic]-[NNN].md\`
+
+### Content Requirements
+- [ ] All questions are in **${config.lang}** language
+- [ ] All questions include **source attribution** (original question, source, license)
+- [ ] Each question has **4 options** (1 correct, 3 distractors)
+- [ ] Distractors represent **common student errors**
+- [ ] **Explanation** section explains why correct AND why others are wrong
+- [ ] Questions use **${config.name} context** (${config.currency}, ${config.cities.join(', ')})
+
+### Validation Requirements
+- [ ] Each variation maintains the **same concept** as the original
+- [ ] Difficulty levels are properly distributed (2 easy, 2 medium, 2 hard)
+- [ ] No duplicate questions
+- [ ] All answers are factually correct
+
+---
+
+## 🏷️ Labels
+\`copilot\`, \`questions\`, \`automated\`, \`${country.toLowerCase()}\`, \`${category}\`, \`validated\`
+`;
+
+            // Crear el issue
+            const issue = await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `[Research] Generate ${totalVariations} validated ${category} questions for ${country} (${date})`,
+              body: body,
+              labels: ['copilot', 'questions', 'automated', country.toLowerCase(), 'validated']
+            });
+
+            console.log(`✅ Created issue #${issue.data.number}`);
+            core.setOutput('issue_number', issue.data.number);
+            return issue.data.number;
+
+      - name: Assign Copilot Coding Agent
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const issueNumber = parseInt('${{ steps.create_issue.outputs.issue_number }}');
+            
+            console.log(`🤖 Assigning Copilot to issue #${issueNumber}...`);
+            
+            try {
+              // Usar la API de asignación de Copilot
+              const response = await github.request('POST /repos/{owner}/{repo}/issues/{issue_number}/assignees', {
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issueNumber,
+                assignees: ['copilot']
+              });
+              console.log('✅ Copilot assigned successfully!');
+            } catch (error) {
+              console.log(`⚠️ Direct assignment failed: ${error.message}`);
+              
+              // Fallback: comentario para activar Copilot
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issueNumber,
+                body: `@copilot Please process this research task:
+
+1. **Read** all validated source questions above
+2. **Verify** each original question has a correct answer
+3. **Generate** 6 variations per source question following the EXACT template
+4. **Create** markdown files with proper structure and attribution
+5. **Submit** a Pull Request with all generated files
+
+⚠️ IMPORTANT: Every file MUST include:
+- Original question in \`original_question\` field
+- Source attribution (OpenTDB, CC BY-SA 4.0)
+- Complete explanation section
+
+Thank you! 🚀`
+              });
+              console.log('✅ Fallback comment added');
+            }
+
+      - name: Generate Summary
+        run: |
+          echo "## 📊 Research & Generation Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "| Metric | Value |" >> $GITHUB_STEP_SUMMARY
+          echo "|--------|-------|" >> $GITHUB_STEP_SUMMARY
+          echo "| **Date** | ${{ steps.params.outputs.date }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| **Country** | ${{ steps.params.outputs.country }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| **Category** | ${{ steps.params.outputs.category }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| **Issue Created** | #${{ steps.create_issue.outputs.issue_number }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| **Copilot Assigned** | ✅ |" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Next Steps" >> $GITHUB_STEP_SUMMARY
+          echo "1. Copilot will generate question variations" >> $GITHUB_STEP_SUMMARY
+          echo "2. A PR will be created automatically" >> $GITHUB_STEP_SUMMARY
+          echo "3. Review and merge the PR" >> $GITHUB_STEP_SUMMARY
