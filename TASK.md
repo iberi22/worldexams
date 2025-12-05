@@ -1,13 +1,131 @@
 # Gestión de Tareas: World Exams Organization
-_Última actualización: 2025-12-04_
+_Última actualización: 2025-12-05_
 
 ## 🎯 Resumen Ejecutivo y Estado Actual
 
-**Estado General:** 70% - Protocolo v2.0 de generación de preguntas implementado
+**Estado General:** 82% - Sitio Colombia (saberparatodos) completamente funcional
+
+**Enfoque Actual:** 🇨🇴 **COLOMBIA FIRST** - Completar todas las features del sitio de Colombia antes de expandir
+
+**Último PR:** [#3 - Guía de Examen ICFES con Infografías](https://github.com/iberi22/saberparatodos/pull/3)
 
 ---
 
-## 🆕 NUEVO: Protocolo de Generación v2.0
+## 🇨🇴 FASE ACTUAL: Colombia First (saberparatodos)
+
+**Objetivo:** Completar el sitio de Colombia con TODAS las features antes de replicar en otros países.
+
+### Componentes UI Completados ✅
+
+| Componente | Archivo | Estado |
+|------------|---------|--------|
+| Layout Principal | `src/layouts/Layout.astro` | ✅ Completado |
+| App Principal (Svelte) | `src/components/App.svelte` | ✅ Completado |
+| Vista de Examen | `src/components/ExamView.svelte` | ✅ Completado |
+| Selector de Grado | `src/components/GradeSelector.svelte` | ✅ Completado |
+| Selector de Asignatura | `src/components/SubjectSelector.svelte` | ✅ Completado |
+| Tarjeta Flashlight | `src/components/FlashlightCard.svelte` | ✅ Completado |
+| Resultados | `src/components/ResultsView.svelte` | ✅ Completado |
+| Login | `src/components/Login.svelte` | ✅ Completado |
+| Leaderboard | `src/components/Leaderboard.svelte` | ✅ Completado |
+| Búsqueda | `src/components/Search.svelte` | ✅ Completado |
+| Ad Banner | `src/components/AdBanner.svelte` | ✅ Completado |
+
+### Feature: Guía de Examen ✅
+
+| Componente | Archivo | Estado |
+|------------|---------|--------|
+| Página principal | `src/pages/guia-examen.astro` | ✅ Completado |
+| Infografía ICFES | `src/components/guia/ExamInfographic.astro` | ✅ Completado |
+| Tarjeta de Grado | `src/components/guia/GradeCard.astro` | ✅ Completado |
+| Lista Competencias | `src/components/guia/CompetencyList.astro` | ✅ Completado |
+| Sección Tips | `src/components/guia/TipsSection.astro` | ✅ Completado |
+
+### 🔄 Tareas Pendientes Colombia
+
+| ID | Tarea | Prioridad | Estado |
+|----|-------|-----------|--------|
+| CO-01 | Crear Navbar/Header global con navegación | 🔴 ALTA | ⬜ Pendiente |
+| CO-02 | Crear Footer global reutilizable | 🔴 ALTA | ⬜ Pendiente |
+| CO-03 | Agregar iconografía SVG para competencias | MEDIA | ⬜ Pendiente |
+| CO-04 | Mejorar Hero section en index.astro | MEDIA | ⬜ Pendiente |
+| CO-05 | Agregar schema.org JSON-LD en guía | MEDIA | ⬜ Pendiente |
+| CO-06 | Crear página /sobre-nosotros | MEDIA | ⬜ Pendiente |
+| CO-07 | Implementar animaciones de scroll | BAJA | ⬜ Pendiente |
+| CO-08 | Agregar estadísticas reales ICFES 2024 | BAJA | ⬜ Pendiente |
+| CO-09 | Crear página /contacto | BAJA | ⬜ Pendiente |
+| CO-10 | Optimizar LCP y Web Vitals | BAJA | ⬜ Pendiente |
+
+### Bundles de Preguntas (Protocol v2.0) ✅
+
+| Bundle ID | Grado | Asignatura | Preguntas | Estado |
+|-----------|-------|------------|-----------|--------|
+| CO-MAT-03-suma-001 | 3° | Matemáticas | 7 | ✅ Validado |
+| CO-LEN-03-comprension-001 | 3° | Lenguaje | 7 | ✅ Validado |
+| CO-MAT-05-fracciones-001 | 5° | Matemáticas | 7 | ✅ Validado |
+| CO-MAT-09-algebra-001 | 9° | Matemáticas | 7 | ✅ Validado |
+| CO-LEN-09-comprension-001 | 9° | Lenguaje | 7 | ✅ Validado |
+| CO-LEC-11-argumentativo-001 | 11° | Lectura Crítica | 7 | ✅ Validado |
+| CO-MAT-11-funciones-001 | 11° | Matemáticas | 7 | ✅ Validado |
+| CO-CIE-11-biologia-001 | 11° | Ciencias Naturales | 7 | ✅ Validado |
+| CO-SOC-11-ciudadanas-001 | 11° | Sociales | 7 | ✅ Validado |
+| CO-ING-11-reading-001 | 11° | Inglés | 7 | ✅ Validado |
+
+**Total:** 10 bundles, **70+ preguntas** validadas para Colombia
+
+---
+
+## 🆕 Sesión 2025-12-04/05: Generación Local y Features para Colombia
+
+### 🎨 Nuevo Feature: Guía de Examen ICFES
+
+**PR:** [#3 - feat(guia): Guía de Examen ICFES con Infografías](https://github.com/iberi22/saberparatodos/pull/3)
+
+| Archivo | Descripción | Estado |
+|---------|-------------|--------|
+| `src/pages/guia-examen.astro` | Página principal de la guía | ✅ Creado |
+| `src/components/guia/ExamInfographic.astro` | Infografía SVG timeline Saber 3°→11° | ✅ Creado |
+| `src/components/guia/GradeCard.astro` | Tarjetas de información por grado | ✅ Creado |
+| `src/components/guia/CompetencyList.astro` | Competencias y niveles de desempeño | ✅ Creado |
+| `src/components/guia/TipsSection.astro` | Consejos y checklist día del examen | ✅ Creado |
+
+**Características:**
+- ✅ Infografías en blanco y negro (SVG escalables)
+- ✅ Contenido en español colombiano
+- ✅ Mobile-responsive
+- ✅ Accesible (aria-labels en SVGs)
+- ✅ Replicable para otros países
+
+### Bundles Generados (Formato v2.0)
+
+| Bundle ID | Grado | Asignatura | Preguntas | Estado |
+|-----------|-------|------------|-----------|--------|
+| CO-MAT-03-suma-001 | 3° | Matemáticas | 7 | ✅ Creado |
+| CO-LEN-03-comprension-001 | 3° | Lenguaje | 7 | ✅ Creado |
+| CO-MAT-05-fracciones-001 | 5° | Matemáticas | 7 | ✅ Creado |
+| CO-LEC-11-argumentativo-001 | 11° | Lectura Crítica | 7 | ✅ Creado |
+| CO-MAT-11-funciones-001 | 11° | Matemáticas | 7 | ✅ Creado |
+| CO-CIE-11-biologia-001 | 11° | Ciencias Naturales | 7 | ✅ Creado |
+
+**Total:** 6 bundles, **42 preguntas nuevas** para Colombia
+
+### Documentación Creada
+
+| Archivo | Propósito |
+|---------|-----------|
+| `docs/SOURCES_REGISTRY.md` | Registro de fuentes para evitar duplicados |
+| `docs/ICFES_CURRICULUM.md` | Malla curricular colombiana completa |
+
+### Mejoras al Protocolo v2.0
+
+- ✅ Sistema de tracking de fuentes por Source ID
+- ✅ Verificación de no-duplicación por país
+- ✅ Atribución de competencias ICFES
+- ✅ Contexto cultural colombiano en todas las preguntas
+
+---
+
+## 🆕 Protocolo de Generación v2.0 (Original)
 
 **Fecha de implementación:** 2025-12-04
 
@@ -162,6 +280,7 @@ _Última actualización: 2025-12-04_
 - ✅ **Hito 4:** Scripts de automatización (apply-template.ps1, countries-config.ps1)
 - ✅ **Hito 5:** Configuración Supabase global (schema, RLS policies)
 - ✅ **Hito 6:** Documentación completa (PLANNING.md, TASK.md, AGENT_CONTEXT.md, Copilot instructions)
+- ✅ **Hito 7:** Feature Guía de Examen con infografías B&W (PR #3 - Colombia)
 
 ---
 
@@ -222,4 +341,4 @@ _Última actualización: 2025-12-04_
 
 ---
 
-_Última sincronización: 2025-11-30 - Workspace local en E:\scripts-python\worldexams_
+_Última sincronización: 2025-12-05 - Workspace local en E:\scripts-python\worldexams_
