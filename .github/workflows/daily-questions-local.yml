@@ -1,0 +1,235 @@
+name: Daily Question Generation
+
+on:
+  schedule:
+    # Ejecutar diariamente a las 6:00 AM UTC (1:00 AM Colombia)
+    - cron: '0 6 * * *'
+
+  workflow_dispatch:
+    inputs:
+      countries:
+        description: 'Countries to generate (comma-separated)'
+        required: false
+        default: 'CO,MX,BR,US'
+        type: string
+      categories:
+        description: 'Categories to generate (comma-separated)'
+        required: false
+        default: 'mathematics,science,history,geography'
+        type: string
+      questions_per_batch:
+        description: 'Source questions per batch'
+        required: false
+        default: '5'
+        type: string
+
+permissions:
+  contents: read
+  issues: write
+  pull-requests: write
+
+env:
+  DEFAULT_COUNTRIES: 'CO,MX,BR,US'
+  DEFAULT_CATEGORIES: 'mathematics,science,history,geography'
+
+jobs:
+  generate-daily-plan:
+    runs-on: ubuntu-latest
+    name: Generate Daily Plan
+    outputs:
+      matrix: ${{ steps.plan.outputs.matrix }}
+      date: ${{ steps.plan.outputs.date }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate execution plan
+        id: plan
+        run: |
+          DATE=$(date +%Y-%m-%d)
+          DAY_OF_WEEK=$(date +%u)  # 1=Monday, 7=Sunday
+
+          echo "date=$DATE" >> $GITHUB_OUTPUT
+
+          # Rotación diaria de países y categorías
+          case $DAY_OF_WEEK in
+            1) COUNTRY="CO"; CATEGORY="mathematics" ;;
+            2) COUNTRY="MX"; CATEGORY="science" ;;
+            3) COUNTRY="BR"; CATEGORY="history" ;;
+            4) COUNTRY="US"; CATEGORY="geography" ;;
+            5) COUNTRY="CO"; CATEGORY="computers" ;;
+            6) COUNTRY="MX"; CATEGORY="general_knowledge" ;;
+            7) COUNTRY="BR"; CATEGORY="mathematics" ;;
+          esac
+
+          # Si es manual, usar inputs
+          if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+            COUNTRIES="${{ inputs.countries }}"
+            CATEGORIES="${{ inputs.categories }}"
+          else
+            COUNTRIES="$COUNTRY"
+            CATEGORIES="$CATEGORY"
+          fi
+
+          echo "Selected: Countries=$COUNTRIES, Categories=$CATEGORIES"
+
+          # Crear matriz para parallel jobs
+          MATRIX=$(echo "{\"include\":[]}" | jq -c '.include = [
+            {"country": "'$COUNTRY'", "category": "'$CATEGORY'", "lang": "es"}
+          ]')
+
+          echo "matrix=$MATRIX" >> $GITHUB_OUTPUT
+
+  fetch-and-create-issue:
+    runs-on: ubuntu-latest
+    name: Fetch & Create Issue
+    needs: generate-daily-plan
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch human-curated content
+        id: fetch
+        run: |
+          # Obtener día de la semana para rotación
+          DAY_OF_WEEK=$(date +%u)
+
+          case $DAY_OF_WEEK in
+            1) CATEGORY="mathematics"; COUNTRY="CO"; LANG="es" ;;
+            2) CATEGORY="science"; COUNTRY="MX"; LANG="es" ;;
+            3) CATEGORY="history"; COUNTRY="BR"; LANG="pt" ;;
+            4) CATEGORY="geography"; COUNTRY="US"; LANG="en" ;;
+            5) CATEGORY="computers"; COUNTRY="CO"; LANG="es" ;;
+            6) CATEGORY="general_knowledge"; COUNTRY="MX"; LANG="es" ;;
+            7) CATEGORY="mathematics"; COUNTRY="BR"; LANG="pt" ;;
+          esac
+
+          echo "country=$COUNTRY" >> $GITHUB_OUTPUT
+          echo "category=$CATEGORY" >> $GITHUB_OUTPUT
+          echo "language=$LANG" >> $GITHUB_OUTPUT
+
+      - name: Create Issue for Copilot Agent
+        id: create_issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const country = '${{ steps.fetch.outputs.country }}';
+            const language = '${{ steps.fetch.outputs.language }}';
+            const category = '${{ steps.fetch.outputs.category }}';
+            const date = new Date().toISOString().split('T')[0];
+
+            const countryMap = {
+              'CO': { folder: 'saberparatodos/src/content/questions', lang: 'es', exam: 'Saber 11', name: 'Colombia', currency: 'COP', cities: ['Bogotá', 'Medellín', 'Cali'] },
+              'MX': { folder: 'exani-mx/src/content/questions', lang: 'es', exam: 'EXANI-II', name: 'México', currency: 'MXN', cities: ['CDMX', 'Guadalajara', 'Monterrey'] },
+              'BR': { folder: 'enem-br/src/content/questions', lang: 'pt', exam: 'ENEM', name: 'Brasil', currency: 'BRL', cities: ['São Paulo', 'Rio', 'Brasília'] },
+              'US': { folder: 'sat-us/src/content/questions', lang: 'en', exam: 'SAT', name: 'USA', currency: 'USD', cities: ['New York', 'Los Angeles', 'Chicago'] }
+            };
+
+            const config = countryMap[country] || countryMap['CO'];
+
+            // Protocol V2.0 Instructions
+            let body = `## 🤖 Task: Generate Questions (Protocol V2.0)
+
+> **Protocol Version:** 2.0 (7 questions per bundle)
+
+### 📋 Assignment Details
+- **Country:** ${country} (${config.name}) - ${config.exam}
+- **Language:** ${config.lang}
+- **Category:** ${category}
+- **Date:** ${date}
+- **Target folder:** \`${config.folder}/${category}/grado-11/\`
+- **File format:** \`${country}-[CAT]-11-[topic]-[NNN]-bundle.md\`
+
+---
+
+## 📚 Protocol V2.0 Requirements
+
+For EACH source topic found in your knowledge base relating to **${category}**, create a **bundle file** with **7 questions**:
+1. **Original** (Difficulty 3) - Base concept adapted to local context
+2. **Easy A** (Difficulty 1-2) - Simplified version
+3. **Easy B** (Difficulty 1-2) - Different context
+4. **Medium A** (Difficulty 3) - Practical application
+5. **Medium B** (Difficulty 3) - Analysis/comparison
+6. **Hard A** (Difficulty 4-5) - Multi-step problem
+7. **Hard B** (Difficulty 4-5) - Complex reasoning
+
+### Required in each question:
+- **Competency evaluated** (e.g., Interpretation, Argumentation)
+- **Component** (e.g., Geometry, Syntax)
+- **Rich explanation** with distractor analysis
+- **Protocol Version:** "2.0" in frontmatter
+
+## ✅ Acceptance Criteria
+- [ ] Create at least 1 bundle file (7 questions total)
+- [ ] Use ${config.name} context (${config.currency}, ${config.cities.join(', ')})
+- [ ] Code check: verify proper frontmatter fields
+`;
+
+            // Crear el issue
+            const issue = await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `[V2.0] Generate ${category} bundle for ${country}`,
+              body: body
+            });
+
+            // Intentar agregar labels
+            try {
+              await github.rest.issues.addLabels({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.data.number,
+                labels: ['copilot', 'questions', 'automated', country.toLowerCase()]
+              });
+            } catch (labelError) {
+              console.log(`⚠️ Could not add labels: ${labelError.message}`);
+            }
+
+            console.log(`Created issue #${issue.data.number}`);
+            core.setOutput('issue_number', issue.data.number);
+            return issue.data.number;
+
+      - name: Assign Copilot to Issue
+        uses: actions/github-script@v7
+        continue-on-error: true
+        with:
+          script: |
+            const issueNumber = parseInt('${{ steps.create_issue.outputs.issue_number }}');
+            console.log(`🤖 Attempting to assign Copilot to issue #${issueNumber}`);
+            try {
+              const response = await github.request('POST /repos/{owner}/{repo}/issues/{issue_number}/assignees', {
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issueNumber,
+                assignees: ['Copilot']
+              });
+              console.log('✅ Copilot assigned successfully!');
+            } catch (error) {
+              console.log(`⚠️ Could not assign Copilot: ${error.message}`);
+            }
+
+  notify-completion:
+    runs-on: ubuntu-latest
+    name: Notify Completion
+    needs: [generate-daily-plan, fetch-and-create-issue]
+    if: always()
+
+    steps:
+      - name: Summary
+        run: |
+          echo "## 📊 Daily Question Generation Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Date:** ${{ needs.generate-daily-plan.outputs.date }}" >> $GITHUB_STEP_SUMMARY
+          echo "**Status:** ${{ job.status }}" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Next Steps" >> $GITHUB_STEP_SUMMARY
+          echo "1. Check the created issue" >> $GITHUB_STEP_SUMMARY
+          echo "2. Copilot will generate variations" >> $GITHUB_STEP_SUMMARY
+          echo "3. Review and merge the PR" >> $GITHUB_STEP_SUMMARY
