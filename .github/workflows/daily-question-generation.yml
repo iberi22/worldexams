@@ -162,51 +162,47 @@ jobs:
             const date = new Date().toISOString().split('T')[0];
 
             const countryMap = {
-              'CO': { folder: 'saberparatodos', lang: 'es', exam: 'Saber 11', name: 'Colombia' },
-              'MX': { folder: 'exani-mx', lang: 'es', exam: 'EXANI-II', name: 'México' },
-              'BR': { folder: 'enem-br', lang: 'pt', exam: 'ENEM', name: 'Brasil' },
-              'US': { folder: 'sat-us', lang: 'en', exam: 'SAT', name: 'USA' }
+              'CO': { folder: 'saberparatodos/src/content/questions', lang: 'es', exam: 'Saber 11', name: 'Colombia', currency: 'COP', cities: ['Bogotá', 'Medellín', 'Cali'] },
+              'MX': { folder: 'exani-mx/src/content/questions', lang: 'es', exam: 'EXANI-II', name: 'México', currency: 'MXN', cities: ['CDMX', 'Guadalajara', 'Monterrey'] },
+              'BR': { folder: 'enem-br/src/content/questions', lang: 'pt', exam: 'ENEM', name: 'Brasil', currency: 'BRL', cities: ['São Paulo', 'Rio', 'Brasília'] },
+              'US': { folder: 'sat-us/src/content/questions', lang: 'en', exam: 'SAT', name: 'USA', currency: 'USD', cities: ['New York', 'Los Angeles', 'Chicago'] }
             };
 
             const config = countryMap[country] || countryMap['CO'];
-            const totalVariations = questions.length * 6;
+            // Protocol V2.0: 7 questions per bundle
+            const questionsPerBundle = 7;
+            const totalQuestions = questions.length * questionsPerBundle;
 
-            // Crear cuerpo del issue con instrucciones detalladas para Copilot
-            let body = `## 🤖 Task: Generate ${totalVariations} Question Variations
+            // Crear cuerpo del issue con instrucciones Protocol V2.0
+            let body = `## 🤖 Task: Generate ${totalQuestions} Questions (Protocol V2.0)
+
+> **Protocol Version:** 2.0 (7 questions per bundle)
 
 ### 📋 Assignment Details
 - **Country:** ${country} (${config.name}) - ${config.exam}
 - **Language:** ${config.lang}
 - **Category:** ${category}
 - **Date:** ${date}
-- **Target folder:** \`${config.folder}/src/content/questions/\`
+- **Target folder:** \`${config.folder}/${category}/grado-11/\`
+- **File format:** \`${country}-[CAT]-11-[topic]-[NNN]-bundle.md\`
 
 ---
 
-## 📚 Source Attribution (REQUIRED)
-All generated questions MUST include:
-\`\`\`yaml
-source: "OpenTDB"
-source_url: "https://opentdb.com"
-source_license: "CC BY-SA 4.0"
-inspired_by: "[original question]"
-\`\`\`
+## 📚 Protocol V2.0 Requirements
 
----
+For EACH source question, create a **bundle file** with **7 questions**:
+1. **Original** (Difficulty 3) - Base question adapted to local context
+2. **Easy A** (Difficulty 1-2) - Simplified version
+3. **Easy B** (Difficulty 1-2) - Different context
+4. **Medium A** (Difficulty 3) - Practical application
+5. **Medium B** (Difficulty 3) - Analysis/comparison
+6. **Hard A** (Difficulty 4-5) - Multi-step problem
+7. **Hard B** (Difficulty 4-5) - Complex reasoning
 
-## 📝 Instructions for Copilot
-
-For EACH source question below, generate **6 unique variations**:
-1. **Keep the same concept** but change values/names
-2. **Adapt to local context** (use ${config.name} examples)
-3. **Vary difficulty** (2 easy, 2 medium, 2 hard)
-4. **Translate to ${config.lang}** if needed
-5. **Create plausible distractors** (common student errors)
-
-### Output Format
-Create markdown files in: \`${config.folder}/src/content/questions/${category}/\`
-
-File naming: \`${country}-${category.substring(0,3).toUpperCase()}-[TOPIC]-[NNN].md\`
+### Required in each question:
+- **Competency evaluated** (e.g., Interpretation, Argumentation)
+- **Component** (e.g., Geometry, Syntax)
+- **Rich explanation** with distractor analysis
 
 ---
 
@@ -215,42 +211,29 @@ File naming: \`${country}-${category.substring(0,3).toUpperCase()}-[TOPIC]-[NNN]
 `;
 
             questions.forEach((q, i) => {
-              body += `### Source ${i + 1}: ${q.category} (${q.difficulty})
-
-**Original Question:** ${q.question}
-
-**Correct Answer:** ${q.correct_answer}
-
-**Incorrect Answers:** ${q.incorrect_answers.join(', ')}
-
-**Attribution:**
-- Source: ${q.source}
-- URL: ${q.source_url}
-- License: ${q.license}
-
----
-
-`;
+              body += `### Source ${i + 1}: ${q.category} (${q.difficulty})\n\n`;
+              body += `- **Original Question:** ${q.question}\n`;
+              body += `- **Correct Answer:** ${q.correct_answer}\n`;
+              body += `- **Incorrect Answers:** ${q.incorrect_answers.join(', ')}\n`;
+              body += `- **Source:** ${q.source} (${q.source_url})\n`;
+              body += `- **License:** ${q.license}\n\n`;
+              body += `**Create 1 bundle file with 7 questions for this source.**\n\n---\n\n`;
             });
 
-            body += `
-## ✅ Acceptance Criteria
-- [ ] ${totalVariations} question files created
-- [ ] All files have correct frontmatter
-- [ ] All files include source attribution
-- [ ] Questions are in ${config.lang} language
-- [ ] Distractors are plausible
-- [ ] Difficulty levels are varied
+            body += `## ✅ Acceptance Criteria (Protocol V2.0)\n\n`;
+            body += `- [ ] ${questions.length} bundle files created (7 questions each = ${totalQuestions} total)\n`;
+            body += `- [ ] File naming: \`${country}-[CAT]-11-[topic]-[NNN]-bundle.md\`\n`;
+            body += `- [ ] All files in \`${config.folder}/${category}/grado-11/\`\n`;
+            body += `- [ ] Questions in **${config.lang}** language\n`;
+            body += `- [ ] Include \`protocol_version: "2.0"\` in frontmatter\n`;
+            body += `- [ ] Rich explanations with competency and component\n`;
+            body += `- [ ] Use ${config.name} context (${config.currency}, ${config.cities.join(', ')})\n`;
 
-## 🏷️ Labels
-copilot, questions, automated, ${country.toLowerCase()}, ${category}
-`;
-
-            // Crear el issue (sin labels para evitar errores si no existen)
+            // Crear el issue
             const issue = await github.rest.issues.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              title: `[Auto] Generate ${totalVariations} ${category} questions for ${country} (${date})`,
+              title: `[V2.0] Generate ${questions.length} ${category} bundles for ${country} (${totalQuestions} questions)`,
               body: body
             });
 
