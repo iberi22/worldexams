@@ -223,10 +223,13 @@ jobs:
             };
 
             const config = countryMap[country] || countryMap['CO'];
-            const totalVariations = data.questions.length * 6;
+            // Protocol V2.0: 7 questions per bundle (1 original + 2 easy + 2 medium + 2 hard)
+            const questionsPerBundle = 7;
+            const totalQuestions = data.questions.length * questionsPerBundle;
 
             // Crear cuerpo del issue simplificado (sin tablas markdown que causan errores YAML)
-            let body = `## 🤖 Task: Generate ${totalVariations} Validated Question Variations\n\n`;
+            let body = `## 🤖 Task: Generate ${totalQuestions} Questions (Protocol V2.0)\n\n`;
+            body += `> **Protocol Version:** 2.0 (7 questions per bundle)\n\n`;
             body += `### 📋 Research Summary\n`;
             body += `- **Source:** ${data.metadata.source}\n`;
             body += `- **License:** ${data.metadata.license} ✅\n`;
@@ -251,21 +254,30 @@ jobs:
               body += `- **Incorrect Answers:** ${q.incorrect_answers.join(', ')}\n`;
               body += `- **Source:** ${q.source} (${q.source_url})\n`;
               body += `- **License:** ${q.license}\n\n`;
-              body += `**Generate 6 variations:** 2 easy, 2 medium, 2 hard\n\n---\n\n`;
+              body += `**Generate 7 questions (Protocol V2.0):**\n`;
+              body += `1. Original (Difficulty 3) - Base question adapted\n`;
+              body += `2. Easy A (Difficulty 1-2) - Simplified version\n`;
+              body += `3. Easy B (Difficulty 1-2) - Different context\n`;
+              body += `4. Medium A (Difficulty 3) - Practical application\n`;
+              body += `5. Medium B (Difficulty 3) - Analysis/comparison\n`;
+              body += `6. Hard A (Difficulty 4-5) - Multi-step problem\n`;
+              body += `7. Hard B (Difficulty 4-5) - Complex reasoning\n\n---\n\n`;
             });
 
-            body += `## ✅ Acceptance Criteria\n\n`;
-            body += `- [ ] Create ${totalVariations} markdown files\n`;
+            body += `## ✅ Acceptance Criteria (Protocol V2.0)\n\n`;
+            body += `- [ ] Create ${data.questions.length} bundle files (7 questions each = ${totalQuestions} total)\n`;
+            body += `- [ ] File naming: \`${country}-[CAT]-11-[topic]-[NNN]-bundle.md\`\n`;
             body += `- [ ] All files in \`${config.folder}/${category}/grado-11/\`\n`;
             body += `- [ ] Questions in **${config.lang}** language\n`;
-            body += `- [ ] Include source attribution\n`;
+            body += `- [ ] Include source attribution and \`protocol_version: "2.0"\`\n`;
             body += `- [ ] Use ${config.name} context (${config.currency}, ${config.cities.join(', ')})\n`;
+            body += `- [ ] Include rich pedagogical explanations (competency, component, distractor analysis)\n`;
 
             // Crear el issue
             const issue = await github.rest.issues.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              title: `[Research] Generate ${totalVariations} validated ${category} questions for ${country} (${date})`,
+              title: `[V2.0] Generate ${data.questions.length} ${category} bundles for ${country} (${totalQuestions} questions)`,
               body: body
             });
 
