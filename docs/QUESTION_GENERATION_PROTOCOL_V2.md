@@ -1,8 +1,8 @@
 # 📋 Protocolo de Generación de Preguntas v2.0
 
-> **Versión:** 2.0  
-> **Fecha:** 2025-12-04  
-> **Estado:** Activo  
+> **Versión:** 2.0
+> **Fecha:** 2025-12-04
+> **Estado:** Activo
 > **Anterior:** v1.0 (6 variaciones por fuente, archivo separado por pregunta)
 
 ---
@@ -65,8 +65,8 @@ original_answer: "[Respuesta original]"
 
 # Pregunta Base: [Título descriptivo]
 
-> **Fuente:** OpenTDB (CC BY-SA 4.0)  
-> **Original:** "[Pregunta original]"  
+> **Fuente:** OpenTDB (CC BY-SA 4.0)
+> **Original:** "[Pregunta original]"
 > **Respuesta Original:** "[Respuesta]"
 
 ---
@@ -264,7 +264,7 @@ original_answer: "[Respuesta original]"
 
 **Pregunta contextualizada (v2.0 - BIEN):**
 ```
-En una tienda Éxito de Medellín, un producto cuesta $200,000 COP. 
+En una tienda Éxito de Medellín, un producto cuesta $200,000 COP.
 Si aplican un descuento del 15%, ¿cuánto dinero ahorras?
 ```
 

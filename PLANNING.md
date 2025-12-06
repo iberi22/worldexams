@@ -1,6 +1,6 @@
 # 📋 PLANNING.md - World Exams Organization
 
-_Última actualización: 2025-11-30_
+_Última actualización: 2025-12-05_
 
 ---
 
@@ -93,12 +93,12 @@ _Última actualización: 2025-11-30_
 Cada repo de país sigue esta estructura **obligatoria**:
 
 ```text
-[repo-name]/                           # Ej: exani-mx, enem-br, sat-us
+[repo-name]/                           # Ej: saberparatodos, saber-mx
 ├── .github/
 │   ├── copilot-instructions.md        # Instrucciones locales del país
 │   ├── workflows/
 │   │   ├── deploy.yml                 # Deploy a GitHub Pages
-│   │   ├── sync-pull.yml              # Pull traducciones desde question-sync
+│   │   ├── leaderboard-sync.yml       # Procesar scores de IssueOps
 │   │   └── validate.yml               # Validar preguntas locales
 │   └── prompts/
 │       └── generar-pregunta.prompt.md # Prompt para generar preguntas locales
@@ -123,7 +123,12 @@ Cada repo de país sigue esta estructura **obligatoria**:
 │   │   ├── Login.svelte
 │   │   ├── ResultsView.svelte
 │   │   ├── Search.svelte
-│   │   └── SubjectSelector.svelte
+│   │   ├── SubjectSelector.svelte
+│   │   └── guia/                      # Componentes de guía de examen
+│   │       ├── ExamInfographic.astro  # Infografía SVG del sistema de examen
+│   │       ├── GradeCard.astro        # Tarjetas por grado
+│   │       ├── CompetencyList.astro   # Lista de competencias
+│   │       └── TipsSection.astro      # Consejos y checklist
 │   ├── layouts/
 │   │   └── Layout.astro              # Layout principal con flag stripe
 │   ├── lib/
@@ -131,6 +136,7 @@ Cada repo de país sigue esta estructura **obligatoria**:
 │   │   └── supabase.ts               # Cliente Supabase
 │   ├── pages/
 │   │   ├── index.astro               # Homepage
+│   │   ├── guia-examen.astro         # Guía del examen con infografías
 │   │   └── questions/
 │   │       └── [...slug].astro       # Páginas dinámicas de preguntas
 │   ├── styles/
@@ -157,6 +163,7 @@ Cada repo de país sigue esta estructura **obligatoria**:
 | `src/layouts/Layout.astro` | Layout con flag stripe | Colores del flag stripe (línea 3px) |
 | `src/styles/global.css` | Accent colors | `--color-accent` del país |
 | `src/pages/index.astro` | Homepage | SEO texts en idioma local |
+| `src/pages/guia-examen.astro` | Guía del examen | Infografías B&W, contenido en idioma local |
 | `README.md` | Documentación | Idioma local, contexto cultural |
 
 ---
@@ -252,52 +259,49 @@ COUNTRY_CODE=CO
 ```
 
 **NUNCA exponer `SUPABASE_SERVICE_ROLE_KEY` en repos de país.** Solo existe en:
-- Repo `question-sync` (como secret de organización)
 - Edge Functions en Supabase
+- GitHub Actions secrets
 
 ---
 
-## 🔄 Sistema de Sincronización (question-sync)
+## 🔄 Compartir Preguntas Entre Países (Manual)
 
-**Repo:** `worldexams/question-sync` (privado)
+> **Nota:** El sistema automatizado `question-sync` fue **ELIMINADO** debido a la complejidad innecesaria para el modelo actual de monorepo local.
 
-**Propósito:** Sincronizar preguntas entre repos de países, traducir con IA, y distribuir.
+### Estrategia Actual: Copia Manual
 
-### Flujo de Nueva Pregunta
+Las preguntas "universales" (matemáticas, física, química) pueden compartirse entre países del mismo idioma:
 
-```
-1. Developer crea pregunta en repo origen (ej: saber-co)
-   └─> src/content/questions/matematicas/grado-5/fracciones/CO-MAT-05-fracciones-001.md
+```bash
+# 1. Copiar pregunta de Colombia a México
+cp saberparatodos/src/content/questions/matematicas/grado-11/algebra/CO-MAT-11-*.md \
+   saber-mx/src/content/questions/matematicas/grado-11/algebra/
 
-2. Push a main → GitHub Action trigger webhook
-
-3. question-sync recibe evento
-   ├─> Valida formato (frontmatter, ID, estructura)
-   ├─> Inserta en questions_global (Supabase)
-   └─> Trigger traducción
-
-4. Gemini/GPT traduce a otros idiomas
-   ├─> Adapta contexto cultural (moneda, ciudades, nombres)
-   ├─> Mantiene integridad pedagógica
-   └─> Inserta en question_translations
-
-5. Event Bus (Supabase Realtime) notifica repos destino
-
-6. GitHub Actions en repos destino:
-   ├─> Pull nueva traducción
-   ├─> Valida formato local
-   ├─> Commit automático (bot)
-   └─> Deploy a GitHub Pages
+# 2. Editar archivo destino:
+#    - Cambiar ID: CO-MAT-... → MX-MAT-...
+#    - Adaptar contexto: ciudades, moneda, nombres locales
 ```
 
-### Eventos del Event Bus
+### Preguntas Compartibles vs No Compartibles
 
-| Evento | Payload | Trigger |
-|--------|---------|---------|
-| `question.created` | `{id, country_code, source_lang}` | Nueva pregunta en repo origen |
-| `question.translated` | `{question_id, target_lang}` | Traducción disponible |
-| `question.approved` | `{id, reviewer}` | Revisión humana OK |
-| `sync.completed` | `{repo, questions_synced}` | Sincronización exitosa |
+| Tipo | Compartible | Acción |
+|------|-------------|--------|
+| Matemáticas puras | ✅ Sí | Copiar + cambiar ID |
+| Física/Química | ✅ Sí | Copiar + cambiar ID |
+| Inglés (reading) | ✅ Sí | Copiar + cambiar ID |
+| Historia nacional | ❌ No | Generar específica |
+| Literatura local | ❌ No | Generar específica |
+| Competencias ciudadanas | ❌ No | Generar específica |
+
+### Adaptaciones Culturales
+
+| País | Moneda | Ciudades | Nombres |
+|------|--------|----------|---------|
+| 🇨🇴 Colombia | Pesos COP | Bogotá, Medellín | Carlos, María |
+| 🇲🇽 México | Pesos MXN | CDMX, Guadalajara | Juan, Ana |
+| 🇦🇷 Argentina | Pesos ARS | Buenos Aires, Córdoba | Martín, Lucía |
+| 🇨🇱 Chile | Pesos CLP | Santiago, Valparaíso | Diego, Camila |
+| 🇵🇪 Perú | Soles PEN | Lima, Arequipa | Pedro, Rosa |
 
 ---
 
@@ -307,13 +311,56 @@ Consultar `AGENTS.md` para definición completa. Resumen:
 
 | Rol | Trigger Keywords | Responsabilidades |
 |-----|------------------|-------------------|
-| 🏗️ **The Architect** | "Estructura", "Supabase", "Schema", "Arquitectura" | Decisiones de alto nivel, DB global, RLS policies |
-| 🤖 **The Generator** | "Generar preguntas", "Contenido", "Automatizar" | Crear preguntas con IA, validar formato |
-| 🎨 **The Frontend Artist** | "UI", "Diseño", "CSS", "Theme", "Componente" | Aplicar colores del país, Tailwind, Svelte |
-| 🛡️ **The Guardian** | "Auth", "Seguridad", "Tests", "Validación" | Proteger secrets, RLS, validación |
-| 📚 **The Librarian** | "Organizar", "Carpetas", "Estructura" | Mantener estructura limpia, naming conventions |
-| 🌐 **The Translator** | "Traducir", "Localizar", "Adaptar" | Traducir preguntas, adaptar contexto cultural |
-| 🔄 **The Synchronizer** | "Webhook", "Action", "Pipeline", "Deploy" | Gestionar GitHub Actions, Event Bus, CI/CD |
+| 🏗️ **The Architect** | "Estructura", "Supabase", "Schema" | DB global, RLS policies |
+| 🤖 **The Generator** | "Generar preguntas", "Contenido" | Crear preguntas con IA |
+| 🎨 **The Frontend Artist** | "UI", "Diseño", "CSS", "Theme" | Colores del país, Tailwind |
+| 🛡️ **The Guardian** | "Auth", "Seguridad", "Tests" | Proteger secrets, validación |
+| 📚 **The Librarian** | "Organizar", "Carpetas" | Estructura limpia, naming |
+
+---
+
+## 📖 Feature: Guía de Examen con Infografías
+
+**Estado:** ✅ Implementado (Colombia - PR #3)
+
+Cada país incluye una página `/guia-examen` que explica la estructura del examen nacional con infografías en blanco y negro.
+
+### Estructura de la Guía
+
+| Sección | Contenido |
+|---------|-----------|
+| **Timeline Visual** | Infografía SVG mostrando progresión de exámenes por grado |
+| **Tarjetas por Grado** | Detalles de cada nivel: asignaturas, duración, # preguntas |
+| **Competencias** | Lista de competencias evaluadas con descripciones |
+| **Niveles de Desempeño** | Escala visual de resultados (Insuficiente → Avanzado) |
+| **Consejos** | Tips de estudio y estrategias de tiempo |
+| **Checklist** | Lista interactiva para el día del examen |
+
+### Componentes Reutilizables
+
+```text
+src/components/guia/
+├── ExamInfographic.astro   # Infografía principal SVG del sistema
+├── GradeCard.astro         # Tarjeta con info de cada grado
+├── CompetencyList.astro    # Lista de competencias + niveles
+└── TipsSection.astro       # Consejos + checklist interactivo
+```
+
+### Adaptación por País
+
+Para replicar en otros países:
+1. Copiar `src/pages/guia-examen.astro` y `src/components/guia/`
+2. Adaptar contenido al examen nacional (SAT, ENEM, Gaokao, etc.)
+3. Traducir textos al idioma local
+4. Actualizar estructura de grados/niveles según el país
+5. Mantener estilo B&W y SVGs escalables
+
+### Diseño
+
+- **Estilo:** Infografías en blanco y negro sobre fondo oscuro
+- **Tipografía:** Fira Code (monospace)
+- **SVGs:** Escalables, accesibles (aria-labels)
+- **Responsive:** Mobile-first design
 
 ---
 

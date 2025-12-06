@@ -62,7 +62,7 @@ jobs:
         run: |
           DATE=$(date +%Y-%m-%d)
           DAY_OF_WEEK=$(date +%u)
-          
+
           if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
             COUNTRY="${{ inputs.country }}"
             CATEGORY="${{ inputs.category }}"
@@ -80,12 +80,12 @@ jobs:
             esac
             NUM_QUESTIONS=5
           fi
-          
+
           echo "date=$DATE" >> $GITHUB_OUTPUT
           echo "country=$COUNTRY" >> $GITHUB_OUTPUT
           echo "category=$CATEGORY" >> $GITHUB_OUTPUT
           echo "num_questions=$NUM_QUESTIONS" >> $GITHUB_OUTPUT
-          
+
           echo "📅 Date: $DATE"
           echo "🌍 Country: $COUNTRY"
           echo "📚 Category: $CATEGORY"
@@ -97,7 +97,7 @@ jobs:
           CATEGORY="${{ steps.params.outputs.category }}"
           NUM="${{ steps.params.outputs.num_questions }}"
           COUNTRY="${{ steps.params.outputs.country }}"
-          
+
           # Mapear categoría a ID de OpenTDB
           case "$CATEGORY" in
             "science") CAT_ID=17 ;;
@@ -108,9 +108,9 @@ jobs:
             "computers") CAT_ID=18 ;;
             *) CAT_ID=9 ;;
           esac
-          
+
           echo "🔍 Fetching from OpenTDB (Category ID: $CAT_ID)..."
-          
+
           # Fetch con retry
           for i in 1 2 3; do
             curl -s "https://opentdb.com/api.php?amount=${NUM}&category=${CAT_ID}&type=multiple&encode=url3986" \
@@ -118,24 +118,24 @@ jobs:
             echo "Retry $i..."
             sleep 2
           done
-          
+
           # Validar y procesar respuesta
           node << 'VALIDATION_SCRIPT'
           const fs = require('fs');
-          
+
           const data = JSON.parse(fs.readFileSync('/tmp/opentdb_raw.json', 'utf8'));
-          
+
           if (data.response_code !== 0) {
             console.error('❌ API Error:', data.response_code);
             process.exit(1);
           }
-          
+
           console.log(`✅ Fetched ${data.results.length} questions from OpenTDB`);
-          
+
           // Validar cada pregunta
           const validatedQuestions = [];
           const rejectedQuestions = [];
-          
+
           data.results.forEach((q, i) => {
             const question = {
               id: i + 1,
@@ -149,7 +149,7 @@ jobs:
               incorrect_answers: q.incorrect_answers.map(a => decodeURIComponent(a)),
               original_language: 'en'
             };
-            
+
             // VALIDACIONES
             const validations = {
               hasQuestion: question.original_question.length > 10,
@@ -159,9 +159,9 @@ jobs:
               notTooLong: question.original_question.length < 500,
               answersAreDifferent: new Set([question.correct_answer, ...question.incorrect_answers]).size === 4
             };
-            
+
             const isValid = Object.values(validations).every(v => v);
-            
+
             if (isValid) {
               question.validation_status = 'PASSED';
               question.validation_checks = validations;
@@ -174,16 +174,16 @@ jobs:
               console.log(`  ❌ Q${i+1}: Invalid - Failed checks: ${Object.entries(validations).filter(([k,v]) => !v).map(([k]) => k).join(', ')}`);
             }
           });
-          
+
           console.log(`\n📊 Validation Summary:`);
           console.log(`   Valid: ${validatedQuestions.length}`);
           console.log(`   Rejected: ${rejectedQuestions.length}`);
-          
+
           if (validatedQuestions.length === 0) {
             console.error('❌ No valid questions found!');
             process.exit(1);
           }
-          
+
           // Guardar resultados
           fs.writeFileSync('/tmp/validated_questions.json', JSON.stringify({
             metadata: {
@@ -198,10 +198,10 @@ jobs:
             questions: validatedQuestions,
             rejected: rejectedQuestions
           }, null, 2));
-          
+
           console.log('\n✅ Validation complete!');
           VALIDATION_SCRIPT
-          
+
           echo "validated=true" >> $GITHUB_OUTPUT
 
       - name: Create Issue with Validated Questions
@@ -214,17 +214,17 @@ jobs:
             const country = '${{ steps.params.outputs.country }}';
             const category = '${{ steps.params.outputs.category }}';
             const date = '${{ steps.params.outputs.date }}';
-            
+
             const countryMap = {
               'CO': { folder: 'saberparatodos/src/content/questions', lang: 'es', exam: 'Saber 11', name: 'Colombia', currency: 'COP', cities: ['Bogotá', 'Medellín', 'Cali'] },
               'MX': { folder: 'exani-mx/src/content/questions', lang: 'es', exam: 'EXANI-II', name: 'México', currency: 'MXN', cities: ['CDMX', 'Guadalajara', 'Monterrey'] },
               'BR': { folder: 'enem-br/src/content/questions', lang: 'pt', exam: 'ENEM', name: 'Brasil', currency: 'BRL', cities: ['São Paulo', 'Rio', 'Brasília'] },
               'US': { folder: 'sat-us/src/content/questions', lang: 'en', exam: 'SAT', name: 'USA', currency: 'USD', cities: ['New York', 'Los Angeles', 'Chicago'] }
             };
-            
+
             const config = countryMap[country] || countryMap['CO'];
             const totalVariations = data.questions.length * 6;
-            
+
             // Crear cuerpo del issue con estructura mejorada
             let body = `## 🤖 Task: Generate ${totalVariations} Validated Question Variations
 
@@ -384,9 +384,9 @@ generation_date: "${date}"
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             const issueNumber = parseInt('${{ steps.create_issue.outputs.issue_number }}');
-            
+
             console.log(`🤖 Assigning Copilot to issue #${issueNumber}...`);
-            
+
             try {
               // Usar la API de asignación de Copilot
               const response = await github.request('POST /repos/{owner}/{repo}/issues/{issue_number}/assignees', {
@@ -398,7 +398,7 @@ generation_date: "${date}"
               console.log('✅ Copilot assigned successfully!');
             } catch (error) {
               console.log(`⚠️ Direct assignment failed: ${error.message}`);
-              
+
               // Fallback: comentario para activar Copilot
               await github.rest.issues.createComment({
                 owner: context.repo.owner,

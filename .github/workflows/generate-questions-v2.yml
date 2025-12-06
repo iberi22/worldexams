@@ -31,7 +31,7 @@ jobs:
       country: ${{ steps.parse.outputs.country }}
       category: ${{ steps.parse.outputs.category }}
       num_bundles: ${{ steps.parse.outputs.num_bundles }}
-      
+
     steps:
       - name: Parse issue body
         id: parse
@@ -49,7 +49,7 @@ jobs:
       contents: write
       pull-requests: write
       issues: write
-      
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -64,17 +64,17 @@ jobs:
         run: |
           cat << 'EOF' > /tmp/generation_prompt.md
           # 🎯 Task: Generate Question Bundles (Protocol v2.0)
-          
+
           ## Configuration
           - **Country:** ${{ needs.validate_request.outputs.country }}
           - **Category:** ${{ needs.validate_request.outputs.category }}
           - **Bundles to generate:** ${{ needs.validate_request.outputs.num_bundles }}
           - **Protocol Version:** 2.0
-          
+
           ## CRITICAL: Protocol v2.0 Requirements
-          
+
           Each bundle file MUST contain exactly **7 questions**:
-          
+
           | # | Type | Difficulty | Requirements |
           |---|------|------------|--------------|
           | 1 | Original | 3 | Base question adapted with cultural context |
@@ -84,25 +84,25 @@ jobs:
           | 5 | Medium B | 3 | Analysis or comparison |
           | 6 | Hard A | 4-5 | Multi-step problem |
           | 7 | Hard B | 4-5 | Complex reasoning/synthesis |
-          
+
           ## Cultural Context Requirements
-          
+
           ### For ${{ needs.validate_request.outputs.country }}:
           - Use local currency in numerical examples
           - Reference local cities, landmarks, institutions
           - Use culturally appropriate names and scenarios
           - Match educational terminology to national curriculum
-          
+
           ## File Naming Convention
-          
+
           ```
           [COUNTRY]-[SUBJ]-[GRADE]-[TOPIC]-[NNN]-bundle.md
           ```
-          
+
           Example: `MX-MAT-11-angulos-001-bundle.md`
-          
+
           ## Required Frontmatter
-          
+
           ```yaml
           ---
           id: "[COUNTRY]-[SUBJ]-[GRADE]-[TOPIC]-[NNN]"
@@ -122,16 +122,16 @@ jobs:
           original_answer: "[Original answer]"
           ---
           ```
-          
+
           ## Pedagogical Explanation Requirements
-          
+
           Each question MUST include:
           1. **Why the correct answer is correct** (detailed explanation)
           2. **Why each distractor is wrong** (common error analysis)
           3. **Competency evaluated** (linked to national curriculum)
-          
+
           ## Quality Checklist
-          
+
           Before completing, verify:
           - [ ] Exactly 7 questions per file
           - [ ] IDs use format: `[BASE-ID]-v[1-7]`
@@ -139,13 +139,13 @@ jobs:
           - [ ] Cultural context in at least 4 of 7 questions
           - [ ] Distractors represent real student errors
           - [ ] Explanations are pedagogically detailed (50+ words)
-          
+
           ## Reference
-          
+
           See `docs/QUESTION_GENERATION_PROTOCOL_V2.md` for full specification.
           See `docs/examples/MX-MAT-11-angulos-001-bundle.md` for complete example.
           EOF
-          
+
           echo "Prompt created successfully"
 
       - name: Comment on issue with instructions
@@ -155,7 +155,7 @@ jobs:
           script: |
             const fs = require('fs');
             const prompt = fs.readFileSync('/tmp/generation_prompt.md', 'utf8');
-            
+
             await github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,

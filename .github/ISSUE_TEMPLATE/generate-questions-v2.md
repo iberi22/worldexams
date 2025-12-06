@@ -22,10 +22,10 @@ assignees: ["copilot"]
 
 <!-- Provide specific cultural references for this country -->
 
-**Currency:** 
-**Major Cities:** 
-**Local References:** 
-**Language Notes:** 
+**Currency:**
+**Major Cities:**
+**Local References:**
+**Language Notes:**
 
 ---
 
@@ -77,20 +77,20 @@ Before submitting PR, verify:
 
 ## 🔍 Source Questions (for Copilot to expand)
 
-<!-- 
-Copilot: Research OpenTDB or similar CC BY-SA 4.0 sources for 
+<!--
+Copilot: Research OpenTDB or similar CC BY-SA 4.0 sources for
 questions in the specified category. Each source question should
 generate one bundle (7 variations).
 -->
 
 ### Source 1
-- **Original:** 
-- **Answer:** 
+- **Original:**
+- **Answer:**
 - **Source:** OpenTDB (CC BY-SA 4.0)
 
 ### Source 2
-- **Original:** 
-- **Answer:** 
+- **Original:**
+- **Answer:**
 - **Source:** OpenTDB (CC BY-SA 4.0)
 
 <!-- Add more sources as needed -->

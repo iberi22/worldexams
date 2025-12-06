@@ -21,8 +21,8 @@ original_answer: "Obtuse"
 
 # Pregunta Base: Clasificación de Ángulos según su Medida
 
-> **Fuente:** OpenTDB (CC BY-SA 4.0)  
-> **Original:** "What type of angle is greater than 90°?"  
+> **Fuente:** OpenTDB (CC BY-SA 4.0)
+> **Original:** "What type of angle is greater than 90°?"
 > **Respuesta Original:** "Obtuse"
 
 ---
@@ -75,7 +75,7 @@ Un ángulo obtuso es aquel cuya medida está entre 90° y 180° (sin incluir est
 
 ### Explicación Pedagógica
 
-El ángulo de 120° es obtuso porque está entre 90° y 180°. 
+El ángulo de 120° es obtuso porque está entre 90° y 180°.
 - 45° es agudo (menor que 90°)
 - 90° es recto (exactamente 90°)
 - 180° es llano (una línea recta)
