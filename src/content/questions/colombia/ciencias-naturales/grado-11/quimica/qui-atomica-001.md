@@ -1,21 +1,33 @@
 ---
-id: CO-QUI-11-ATO-001
+id: "CO-QUI-11-atomica-001"
+country: "co"
 grado: 11
-asignatura: Ciencias Naturales
-tema: Química - Estructura Atómica
+asignatura: "Ciencias Naturales"
+tema: "Química - Estructura Atómica"
 dificultad: 2
-estado: published
-creador: Copilot
-source: Saber11-style
+estado: "draft"
+creador: "Copilot"
+protocol_version: "2.0"
+source: "Saber11-style"
 ---
 # Pregunta
-¿Cuántos protones tiene un átomo de oxígeno (número atómico 8)?
+¿Qué partícula subatómica tiene carga positiva?
 
 # Opciones
-- [ ] A) 16
-- [x] B) 8
-- [ ] C) 6
-- [ ] D) 18
+- [ ] A) Electrón
+- [ ] B) Neutrón
+- [x] C) Protón
+- [ ] D) Fotón
 
-# Explicación
-El número atómico indica la cantidad de protones. El oxígeno tiene Z=8, por lo tanto tiene 8 protones.
+# Explicación Pedagógica
+
+**¿Por qué C es correcta?**
+El protón es una partícula subatómica ubicada en el núcleo del átomo que tiene carga eléctrica positiva (+1). El número de protones determina el número atómico y, por tanto, la identidad del elemento químico.
+
+**¿Por qué las otras opciones son incorrectas?**
+- **A) Electrón:** Tiene carga negativa (-1) y se encuentra en los orbitales alrededor del núcleo.
+- **B) Neutrón:** No tiene carga eléctrica (es neutro), está en el núcleo junto con los protones.
+- **D) Fotón:** No es una partícula subatómica del átomo, sino un cuanto de energía electromagnética sin carga ni masa.
+
+**Competencia evaluada:** Uso comprensivo del conocimiento científico
+**Componente:** Química - Estructura Atómica
