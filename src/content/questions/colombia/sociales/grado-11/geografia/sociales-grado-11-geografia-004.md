@@ -1,4 +1,5 @@
 ---
+protocol_version: "2.0"
 id: SOC21732-01
 grado: 11
 asignatura: Sociales

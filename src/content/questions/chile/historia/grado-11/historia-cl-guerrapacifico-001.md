@@ -1,6 +1,7 @@
 ---
 id: CL-HIS-11-003
 country: chile
+protocol_version: "2.0"
 grado: 11
 asignatura: Historia de Chile
 tema: Guerra del Pacífico

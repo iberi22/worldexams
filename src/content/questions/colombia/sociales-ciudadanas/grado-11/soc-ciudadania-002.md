@@ -1,4 +1,5 @@
 ---
+protocol_version: "2.0"
 id: CO-SOC-11-CIU-002
 grado: 11
 asignatura: Sociales y Ciudadanas

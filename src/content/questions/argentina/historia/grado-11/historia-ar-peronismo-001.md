@@ -1,6 +1,7 @@
 ---
 id: AR-HIS-11-002
 country: argentina
+protocol_version: "2.0"
 grado: 11
 asignatura: Historia Argentina
 tema: Peronismo

@@ -1,6 +1,7 @@
 ---
 id: MX-CIV-11-001
 country: mexico
+protocol_version: "2.0"
 grado: 11
 asignatura: Civismo
 tema: Constitución

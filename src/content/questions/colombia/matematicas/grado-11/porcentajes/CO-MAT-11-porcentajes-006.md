@@ -1,6 +1,7 @@
 ---
 id: "CO-MAT-11-porcentajes-006"
 country: "co"
+protocol_version: "2.0"
 grado: 11
 asignatura: "Matemáticas"
 tema: "Porcentajes"

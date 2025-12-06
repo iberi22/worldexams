@@ -1,6 +1,7 @@
 ---
 id: US-CIV-11-003
 country: usa
+protocol_version: "2.0"
 grado: 11
 asignatura: Civics
 tema: Voting Rights

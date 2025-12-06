@@ -1,6 +1,7 @@
 ---
 id: US-HIS-11-123
 country: usa
+protocol_version: "2.0"
 grado: 11
 asignatura: US History
 tema: Vietnam War
