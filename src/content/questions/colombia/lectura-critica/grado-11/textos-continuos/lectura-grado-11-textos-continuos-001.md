@@ -1,16 +1,14 @@
 ---
-id: LEC19047-01
+id: "CO-LEC-11-textos-continuos-001"
+country: "co"
 grado: 11
-asignatura: Lectura Crítica
-tema: Textos Continuos
+asignatura: "Lectura Crítica"
+tema: "Textos Continuos - Argumentación"
 dificultad: 3
-estado: draft
-creador: AI-Saber
-llm_model: unknown
-agent: legacy
-ide: unknown
-source: human-curated
-group_id: LEC19047
+estado: "draft"
+creador: "AI-Saber"
+protocol_version: "2.0"
+source: "human-curated"
 ---
 # Pregunta
 **Texto:**
@@ -24,10 +22,15 @@ group_id: LEC19047
 - [ ] C) Los criminales no temen a la muerte.
 - [ ] D) La tasa de homicidios depende de la legislación de cada estado.
 
-# Explicación
-La tesis es la idea central que el autor defiende. El autor argumenta en contra de la pena de muerte basándose en dos razones: su ineficacia (no disuade) y el riesgo de error judicial.
-- A: Es un argumento de apoyo, no la tesis central.
-- C: Es una inferencia posible, pero no la tesis.
-- D: Es un dato mencionado, no la postura del autor.
+# Explicación Pedagógica
 
-**Competencia:** Identificar y entender los contenidos locales que conforman un texto.
+**¿Por qué B es correcta?**
+La tesis es la idea central que el autor defiende. El autor argumenta en contra de la pena de muerte usando dos razones principales: (1) su ineficacia como disuasivo y (2) el riesgo de ejecutar inocentes. La opción B sintetiza correctamente esta postura.
+
+**¿Por qué las otras opciones son incorrectas?**
+- **A) El sistema judicial comete errores:** Es un argumento de apoyo (evidencia), no la tesis central.
+- **C) Los criminales no temen a la muerte:** Es una inferencia posible, pero no la tesis explícita del autor.
+- **D) La tasa de homicidios depende de la legislación:** Es un dato mencionado para apoyar la tesis, no la postura del autor.
+
+**Competencia evaluada:** Lectura Crítica
+**Componente:** Identificar y entender los contenidos locales que conforman un texto

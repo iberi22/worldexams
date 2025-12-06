@@ -1,16 +1,14 @@
 ---
-id: ING62761-01
+id: "CO-ING-11-part3-004"
+country: "co"
 grado: 11
-asignatura: Inglés
-tema: Part 3
+asignatura: "Inglés"
+tema: "Part 3 - Conversations"
 dificultad: 2
-estado: draft
-creador: AI-Saber
-llm_model: unknown
-agent: legacy
-ide: unknown
-source: human-curated
-group_id: ING62761
+estado: "draft"
+creador: "AI-Saber"
+protocol_version: "2.0"
+source: "human-curated"
 ---
 # Pregunta
 Complete the conversation.
@@ -23,10 +21,15 @@ Person B: "__________"
 - [ ] C) Good morning.
 - [ ] D) My name is John.
 
-# Explicación
-La respuesta estándar a "Nice to meet you" es "Nice to meet you too".
-- A: Respuesta a "How are you?".
-- C: Saludo inicial.
-- D: Presentación.
+# Explicación Pedagógica
 
-**Competencia:** Conocimiento comunicativo.
+**¿Por qué B es correcta?**
+"Nice to meet you too" (Mucho gusto también / Igualmente) es la respuesta estándar y cortés cuando alguien te dice "Nice to meet you". Es una expresión recíproca que completa el saludo formal de presentación.
+
+**¿Por qué las otras opciones son incorrectas?**
+- **A) I am fine, thanks:** Esta es la respuesta a "How are you?", no a "Nice to meet you".
+- **C) Good morning:** Es un saludo inicial de la mañana, no una respuesta a una presentación.
+- **D) My name is John:** Esta sería una presentación propia, que usualmente viene antes de "Nice to meet you".
+
+**Competencia evaluada:** Comunicación en lengua extranjera
+**Componente:** Conocimiento comunicativo - Saludos y presentaciones

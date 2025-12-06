@@ -1,16 +1,14 @@
 ---
-id: LEC47414-01
+id: "CO-LEC-11-textos-continuos-003"
+country: "co"
 grado: 11
-asignatura: Lectura Crítica
-tema: Textos Continuos
+asignatura: "Lectura Crítica"
+tema: "Textos Continuos - Estructura textual"
 dificultad: 3
-estado: draft
-creador: AI-Saber
-llm_model: unknown
-agent: legacy
-ide: unknown
-source: human-curated
-group_id: LEC47414
+estado: "draft"
+creador: "AI-Saber"
+protocol_version: "2.0"
+source: "human-curated"
 ---
 # Pregunta
 **Texto:**
@@ -24,10 +22,15 @@ group_id: LEC47414
 - [x] C) Proponer una medida basada en una causa.
 - [ ] D) Contradecir la afirmación inicial.
 
-# Explicación
-La segunda oración ("Por lo tanto...") establece una conclusión o propuesta de acción derivada de la premisa anterior (el azúcar causa obesidad).
-- A: La evidencia sería un estudio o dato, no una prohibición.
-- B: No es un fenómeno natural.
-- D: No contradice, sino que complementa lógicamente.
+# Explicación Pedagógica
 
-**Competencia:** Reflexionar a partir de un texto y evaluar su contenido.
+**¿Por qué C es correcta?**
+La segunda oración comienza con "Por lo tanto", un conector de consecuencia/conclusión. Esto indica que propone una acción (prohibir bebidas azucaradas) como resultado lógico de la premisa anterior (el azúcar causa obesidad). Es una propuesta de medida derivada de una relación causa-efecto.
+
+**¿Por qué las otras opciones son incorrectas?**
+- **A) Presentar una evidencia científica:** Una evidencia sería un estudio o dato, no una propuesta de acción.
+- **B) Describir un fenómeno natural:** No describe un fenómeno, sino que propone una acción.
+- **D) Contradecir la afirmación inicial:** No contradice, sino que complementa lógicamente la primera oración.
+
+**Competencia evaluada:** Lectura Crítica
+**Componente:** Reflexionar a partir de un texto y evaluar su contenido
