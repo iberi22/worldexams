@@ -1,16 +1,14 @@
 ---
-id: LEC32266-01
+id: "CO-LEC-11-textos-continuos-002"
+country: "co"
 grado: 11
-asignatura: Lectura Crítica
-tema: Textos Continuos
+asignatura: "Lectura Crítica"
+tema: "Textos Continuos - Vocabulario en contexto"
 dificultad: 4
-estado: draft
-creador: AI-Saber
-llm_model: unknown
-agent: legacy
-ide: unknown
-source: human-curated
-group_id: LEC32266
+estado: "draft"
+creador: "AI-Saber"
+protocol_version: "2.0"
+source: "human-curated"
 ---
 # Pregunta
 **Texto:**
@@ -24,10 +22,15 @@ En el texto, la palabra **"paradójicamente"** se usa para resaltar:
 - [ ] C) La velocidad con la que avanza la tecnología moderna.
 - [ ] D) La solución al problema de la soledad.
 
-# Explicación
-"Paradójicamente" introduce una idea que parece contraria a la lógica común: que más herramientas de comunicación (tecnología) resulten en más soledad (falta de comunicación real).
-- A: No implica mentira, sino contradicción aparente.
-- C: No se refiere a la velocidad.
-- D: No plantea una solución.
+# Explicación Pedagógica
 
-**Competencia:** Comprender cómo se articulan las partes de un texto para darle un sentido global.
+**¿Por qué B es correcta?**
+"Paradójicamente" introduce una paradoja: una situación que parece contradictoria a la lógica común. En este caso, es paradójico que más herramientas de comunicación (tecnología) resulten en más soledad (menos comunicación real). La palabra resalta esta contradicción aparente.
+
+**¿Por qué las otras opciones son incorrectas?**
+- **A) Una mentira:** "Paradójicamente" no implica falsedad, sino contradicción aparente.
+- **C) La velocidad:** La palabra no se refiere a velocidad de avance tecnológico.
+- **D) La solución:** El texto plantea un problema, no ofrece una solución.
+
+**Competencia evaluada:** Lectura Crítica
+**Componente:** Comprender cómo se articulan las partes de un texto para darle un sentido global

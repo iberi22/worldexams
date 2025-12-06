@@ -1,16 +1,14 @@
 ---
-id: ING43241-01
+id: "CO-ING-11-part3-005"
+country: "co"
 grado: 11
-asignatura: Inglés
-tema: Part 3
+asignatura: "Inglés"
+tema: "Part 3 - Conversations"
 dificultad: 2
-estado: draft
-creador: AI-Saber
-llm_model: unknown
-agent: legacy
-ide: unknown
-source: human-curated
-group_id: ING43241
+estado: "draft"
+creador: "AI-Saber"
+protocol_version: "2.0"
+source: "human-curated"
 ---
 # Pregunta
 Complete the conversation.
@@ -23,10 +21,15 @@ Person B: "__________"
 - [ ] C) No, I am not.
 - [ ] D) I like tea.
 
-# Explicación
-Ante un ofrecimiento ("Would you like...?"), se acepta con "Yes, please" o se rechaza con "No, thank you".
-- B: Respuesta a "Do you like...?".
-- C: Respuesta a "Are you...?".
-- D: Declaración de gusto, pero no responde directamente al ofrecimiento de manera cortés.
+# Explicación Pedagógica
 
-**Competencia:** Conocimiento comunicativo.
+**¿Por qué A es correcta?**
+Ante un ofrecimiento con "Would you like...?" (¿Te/Le gustaría...?), la forma correcta de aceptar es "Yes, please" (Sí, por favor). Para rechazar, se diría "No, thank you" (No, gracias). Estas son las fórmulas de cortesía estándar en inglés.
+
+**¿Por qué las otras opciones son incorrectas?**
+- **B) Yes, I do:** Esta es la respuesta a "Do you like...?" (pregunta sobre gustos generales), no a un ofrecimiento.
+- **C) No, I am not:** Esta responde a "Are you...?", una pregunta completamente diferente.
+- **D) I like tea:** Aunque expresa una preferencia, no responde directamente al ofrecimiento de café de manera cortés.
+
+**Competencia evaluada:** Comunicación en lengua extranjera
+**Componente:** Conocimiento comunicativo - Aceptar/rechazar ofrecimientos
