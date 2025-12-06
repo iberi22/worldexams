@@ -61,8 +61,10 @@ Generate 7 questions based on a single key concept (Seed):
 
 METADATA REQUIRED:
 protocol_version: "2.0"
-competencia: [Skill]
-componente: [Area]
+competencia: [OFFICIAL skill from Exam Matrix, e.g. 'Interpretación y Representación']
+componente: [OFFICIAL area from Exam Matrix, e.g. 'Numérico Variacional']
+source_url: [REQUIRED URL of the human-verified source]
+consulted_at: [YYYY-MM-DD]
 explanation: [Rich text with distractor analysis]
 "@
 
