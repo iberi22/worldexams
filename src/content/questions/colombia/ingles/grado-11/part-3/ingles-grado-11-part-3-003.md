@@ -1,16 +1,14 @@
 ---
-id: ING77793-01
+id: "CO-ING-11-part3-003"
+country: "co"
 grado: 11
-asignatura: Inglés
-tema: Part 3
+asignatura: "Inglés"
+tema: "Part 3 - Conversations"
 dificultad: 2
-estado: draft
-creador: AI-Saber
-llm_model: unknown
-agent: legacy
-ide: unknown
-source: human-curated
-group_id: ING77793
+estado: "draft"
+creador: "AI-Saber"
+protocol_version: "2.0"
+source: "human-curated"
 ---
 # Pregunta
 Complete the conversation.
@@ -23,10 +21,15 @@ Person B: "__________"
 - [ ] C) It costs $10.
 - [ ] D) I like action movies.
 
-# Explicación
-La pregunta es sobre la hora ("What time"), por lo que la respuesta debe ser una hora.
-- A: Lugar.
-- C: Precio.
-- D: Preferencia.
+# Explicación Pedagógica
 
-**Competencia:** Conocimiento comunicativo.
+**¿Por qué B es correcta?**
+La pregunta "What time...?" (¿A qué hora...?) requiere una respuesta que indique tiempo. "At 7:30 PM" (A las 7:30 PM) responde directamente a la pregunta sobre el horario de la película.
+
+**¿Por qué las otras opciones son incorrectas?**
+- **A) It is near the bank:** Responde a una pregunta de ubicación ("Where?"), no de tiempo.
+- **C) It costs $10:** Responde a una pregunta de precio ("How much?"), no de tiempo.
+- **D) I like action movies:** Expresa una preferencia personal, no responde sobre la hora.
+
+**Competencia evaluada:** Comunicación en lengua extranjera
+**Componente:** Conocimiento comunicativo - Preguntas de tiempo

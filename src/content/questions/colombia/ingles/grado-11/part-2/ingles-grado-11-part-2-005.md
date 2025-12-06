@@ -1,16 +1,14 @@
 ---
-id: ING61615-01
+id: "CO-ING-11-part2-005"
+country: "co"
 grado: 11
-asignatura: Inglés
-tema: Part 2
+asignatura: "Inglés"
+tema: "Part 2 - Vocabulary"
 dificultad: 2
-estado: draft
-creador: AI-Saber
-llm_model: unknown
-agent: legacy
-ide: unknown
-source: human-curated
-group_id: ING61615
+estado: "draft"
+creador: "AI-Saber"
+protocol_version: "2.0"
+source: "human-curated"
 ---
 # Pregunta
 Match the definition with the correct word.
@@ -22,10 +20,15 @@ Match the definition with the correct word.
 - [ ] C) Doctor
 - [ ] D) Teacher
 
-# Explicación
-- **Pilot (Piloto):** Persona que vuela un avión.
-- Chef: Cocinero.
-- Doctor: Médico.
-- Teacher: Profesor.
+# Explicación Pedagógica
 
-**Competencia:** Conocimiento léxico.
+**¿Por qué B es correcta?**
+"Pilot" (piloto) es la persona profesionalmente capacitada para operar y controlar aeronaves como aviones y helicópteros.
+
+**¿Por qué las otras opciones son incorrectas?**
+- **A) Chef (Cocinero/Chef):** Es quien prepara alimentos profesionalmente en restaurantes.
+- **C) Doctor (Médico):** Es quien diagnostica y trata enfermedades.
+- **D) Teacher (Profesor):** Es quien enseña en instituciones educativas.
+
+**Competencia evaluada:** Comunicación en lengua extranjera
+**Componente:** Conocimiento léxico - Profesiones
