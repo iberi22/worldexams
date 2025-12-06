@@ -365,14 +365,25 @@ generation_date: "${date}"
 \`copilot\`, \`questions\`, \`automated\`, \`${country.toLowerCase()}\`, \`${category}\`, \`validated\`
 `;
 
-            // Crear el issue
+            // Crear el issue (sin labels para evitar errores si no existen)
             const issue = await github.rest.issues.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
               title: `[Research] Generate ${totalVariations} validated ${category} questions for ${country} (${date})`,
-              body: body,
-              labels: ['copilot', 'questions', 'automated', country.toLowerCase(), 'validated']
+              body: body
             });
+
+            // Intentar agregar labels (no falla si no existen)
+            try {
+              await github.rest.issues.addLabels({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.data.number,
+                labels: ['copilot', 'questions', 'automated', country.toLowerCase(), 'validated']
+              });
+            } catch (labelError) {
+              console.log(`⚠️ Could not add labels: ${labelError.message}`);
+            }
 
             console.log(`✅ Created issue #${issue.data.number}`);
             core.setOutput('issue_number', issue.data.number);
@@ -380,6 +391,7 @@ generation_date: "${date}"
 
       - name: Assign Copilot Coding Agent
         uses: actions/github-script@v7
+        continue-on-error: true
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
@@ -387,39 +399,20 @@ generation_date: "${date}"
 
             console.log(`🤖 Assigning Copilot to issue #${issueNumber}...`);
 
+            // Usar la API correcta para Copilot Coding Agent
+            // Nota: Requiere que Copilot Coding Agent esté habilitado en el repo
             try {
-              // Usar la API de asignación de Copilot
               const response = await github.request('POST /repos/{owner}/{repo}/issues/{issue_number}/assignees', {
                 owner: context.repo.owner,
                 repo: context.repo.repo,
                 issue_number: issueNumber,
-                assignees: ['copilot']
+                assignees: ['Copilot']
               });
               console.log('✅ Copilot assigned successfully!');
             } catch (error) {
-              console.log(`⚠️ Direct assignment failed: ${error.message}`);
-
-              // Fallback: comentario para activar Copilot
-              await github.rest.issues.createComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: issueNumber,
-                body: `@copilot Please process this research task:
-
-1. **Read** all validated source questions above
-2. **Verify** each original question has a correct answer
-3. **Generate** 6 variations per source question following the EXACT template
-4. **Create** markdown files with proper structure and attribution
-5. **Submit** a Pull Request with all generated files
-
-⚠️ IMPORTANT: Every file MUST include:
-- Original question in \`original_question\` field
-- Source attribution (OpenTDB, CC BY-SA 4.0)
-- Complete explanation section
-
-Thank you! 🚀`
-              });
-              console.log('✅ Fallback comment added');
+              console.log(`⚠️ Could not assign Copilot: ${error.message}`);
+              console.log('ℹ️ Note: Copilot Coding Agent must be enabled for this repository.');
+              console.log('ℹ️ The issue was created successfully - manual assignment may be required.');
             }
 
       - name: Generate Summary
