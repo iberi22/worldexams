@@ -1,16 +1,14 @@
 ---
-id: ING99312-01
+id: "CO-ING-11-part3-001"
+country: "co"
 grado: 11
-asignatura: Inglés
-tema: Part 3
+asignatura: "Inglés"
+tema: "Part 3 - Conversations"
 dificultad: 2
-estado: draft
-creador: AI-Saber
-llm_model: unknown
-agent: legacy
-ide: unknown
-source: human-curated
-group_id: ING99312
+estado: "draft"
+creador: "AI-Saber"
+protocol_version: "2.0"
+source: "human-curated"
 ---
 # Pregunta
 Complete the conversation.
@@ -23,10 +21,15 @@ Person B: "__________"
 - [ ] C) I like pizza.
 - [ ] D) See you tomorrow.
 
-# Explicación
-Ante un dolor de cabeza, la respuesta lógica y empática es sugerir medicina o descanso.
-- A: Ir a una fiesta empeoraría el dolor.
-- C: Irrelevante.
-- D: Despedida sin abordar el problema.
+# Explicación Pedagógica
 
-**Competencia:** Conocimiento comunicativo.
+**¿Por qué B es correcta?**
+Cuando alguien expresa un malestar físico como un dolor de cabeza, la respuesta apropiada y empática es ofrecer una sugerencia para aliviarlo. "You should take an aspirin and rest" (Deberías tomar una aspirina y descansar) es un consejo lógico y considerado.
+
+**¿Por qué las otras opciones son incorrectas?**
+- **A) You should go to the party:** Ir a una fiesta empeoraría el dolor de cabeza por el ruido.
+- **C) I like pizza:** Completamente irrelevante al contexto de la conversación.
+- **D) See you tomorrow:** Es una despedida que ignora el problema de la persona.
+
+**Competencia evaluada:** Comunicación en lengua extranjera
+**Componente:** Conocimiento comunicativo - Dar consejos

@@ -1,16 +1,14 @@
 ---
-id: ING00914-01
+id: "CO-ING-11-part2-001"
+country: "co"
 grado: 11
-asignatura: Inglés
-tema: Part 2
+asignatura: "Inglés"
+tema: "Part 2 - Vocabulary"
 dificultad: 2
-estado: draft
-creador: AI-Saber
-llm_model: unknown
-agent: legacy
-ide: unknown
-source: human-curated
-group_id: ING00914
+estado: "draft"
+creador: "AI-Saber"
+protocol_version: "2.0"
+source: "human-curated"
 ---
 # Pregunta
 Match the definition with the correct word.
@@ -22,10 +20,15 @@ Match the definition with the correct word.
 - [ ] C) Ruler
 - [ ] D) Eraser
 
-# Explicación
-- **Scissors (Tijeras):** Herramienta para cortar.
-- Glue (Pegante): Para pegar.
-- Ruler (Regla): Para medir.
-- Eraser (Borrador): Para borrar.
+# Explicación Pedagógica
 
-**Competencia:** Conocimiento léxico.
+**¿Por qué B es correcta?**
+"Scissors" (tijeras) es la herramienta diseñada específicamente para cortar materiales como papel, tela, cartón, etc. Consiste en dos cuchillas unidas por un pivote.
+
+**¿Por qué las otras opciones son incorrectas?**
+- **A) Glue (Pegante):** Se usa para unir o pegar cosas, no para cortar.
+- **C) Ruler (Regla):** Se usa para medir longitudes o trazar líneas rectas.
+- **D) Eraser (Borrador):** Se usa para eliminar marcas de lápiz.
+
+**Competencia evaluada:** Comunicación en lengua extranjera
+**Componente:** Conocimiento léxico - Definiciones
