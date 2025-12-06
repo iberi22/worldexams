@@ -1,12 +1,14 @@
 ---
-id: CO-SOC-11-CIU-001
+id: "CO-SOC-11-ciudadania-001"
+country: "co"
 grado: 11
-asignatura: Sociales y Ciudadanas
-tema: Ciudadanía
+asignatura: "Ciencias Sociales"
+tema: "Ciudadanía"
 dificultad: 2
-estado: published
-creador: Copilot
-source: Saber11-style
+estado: "draft"
+creador: "Jules"
+protocol_version: "2.0"
+source: "Saber11-style"
 ---
 # Pregunta
 Según la Constitución Política de Colombia de 1991, ¿cuál es el nombre oficial del país?
@@ -17,5 +19,15 @@ Según la Constitución Política de Colombia de 1991, ¿cuál es el nombre ofic
 - [ ] C) Estados Unidos de Colombia
 - [ ] D) Nueva Granada
 
-# Explicación
-La Constitución de 1991 establece que el nombre oficial es "República de Colombia".
+# Explicación Pedagógica
+
+**¿Por qué B es correcta?**
+El Artículo 1 de la Constitución Política de 1991 establece: "Colombia es un Estado social de derecho, organizado en forma de República unitaria, descentralizada, con autonomía de sus entidades territoriales, democrática, participativa y pluralista...". El nombre oficial del país es, simplemente, República de Colombia.
+
+**¿Por qué las otras opciones son incorrectas?**
+- **A) República Federal de Colombia:** Colombia es una república unitaria, no federal. Un sistema federal implica una unión de estados con mayor autonomía, como en Estados Unidos o México.
+- **C) Estados Unidos de Colombia:** Este fue el nombre oficial del país bajo la Constitución de Rionegro (1863-1886), que sí establecía un sistema federal.
+- **D) Nueva Granada:** Este fue el nombre del virreinato durante la época colonial española y de la república en sus primeras décadas (República de la Nueva Granada, 1832-1858).
+
+**Competencia evaluada:** Pensamiento Sistémico y Reflexión Crítica
+**Componente:** El poder, la autoridad y las estructuras políticas
