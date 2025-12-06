@@ -1,6 +1,7 @@
 ---
 id: MX-HIS-11-001
 country: mexico
+protocol_version: "2.0"
 grado: 11
 asignatura: Historia de México
 tema: Independencia

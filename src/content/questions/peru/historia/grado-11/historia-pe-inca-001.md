@@ -1,6 +1,7 @@
 ---
 id: PE-HIS-11-001
 country: peru
+protocol_version: "2.0"
 grado: 11
 asignatura: Historia del Perú
 tema: Imperio Inca

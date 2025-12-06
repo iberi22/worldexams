@@ -1,6 +1,7 @@
 ---
 id: CO-INF-11-computacion-006
-country: CO
+country: "co"
+protocol_version: "2.0"
 grado: 11
 asignatura: Informática
 tema: Computación

@@ -1,6 +1,7 @@
 ---
 id: PE-HIS-11-003
 country: peru
+protocol_version: "2.0"
 grado: 11
 asignatura: Historia del Perú
 tema: Guerra del Pacífico

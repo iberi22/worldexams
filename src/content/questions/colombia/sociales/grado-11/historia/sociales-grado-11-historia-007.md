@@ -1,4 +1,5 @@
 ---
+protocol_version: "2.0"
 id: SOC56937-01
 grado: 11
 asignatura: Sociales

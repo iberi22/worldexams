@@ -13,9 +13,12 @@
  *   --path       Ruta específica a migrar (default: src/content/questions)
  */
 
-const fs = require('fs');
-const path = require('path');
-const readline = require('readline');
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 // Configuración
 const DEFAULT_PATH = 'src/content/questions';
@@ -62,7 +65,9 @@ function findMarkdownFiles(dir, files = []) {
  * Parsea el frontmatter de un archivo markdown
  */
 function parseFrontmatter(content) {
-  const match = content.match(/^---\n([\s\S]*?)\n---/);
+  // Normalize line endings to \n
+  const normalizedContent = content.replace(/\r\n/g, '\n').replace(/\r/g, '\n');
+  const match = normalizedContent.match(/^---\n([\s\S]*?)\n---/);
   if (!match) return null;
   
   const frontmatter = {};
@@ -82,7 +87,7 @@ function parseFrontmatter(content) {
     }
   }
   
-  return { raw: match[0], parsed: frontmatter, fullMatch: match[1] };
+  return { raw: match[0], parsed: frontmatter, fullMatch: match[1], normalizedContent };
 }
 
 /**
@@ -101,7 +106,8 @@ function updateFrontmatter(content, filePath) {
     return null;
   }
   
-  let newContent = content;
+  // Use normalized content for modifications
+  let newContent = fm.normalizedContent;
   let changes = [];
   
   // 1. Agregar protocol_version después de country

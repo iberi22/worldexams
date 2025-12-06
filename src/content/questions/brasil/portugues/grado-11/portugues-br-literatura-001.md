@@ -1,6 +1,7 @@
 ---
 id: BR-POR-11-001
 country: brasil
+protocol_version: "2.0"
 grado: 11
 asignatura: Língua Portuguesa
 tema: Literatura

@@ -1,6 +1,7 @@
 ---
 id: BR-HIS-11-004
 country: brasil
+protocol_version: "2.0"
 grado: 11
 asignatura: História do Brasil
 tema: Escravidão

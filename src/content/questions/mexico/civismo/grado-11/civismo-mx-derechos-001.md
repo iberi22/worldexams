@@ -1,6 +1,7 @@
 ---
 id: MX-CIV-11-002
 country: mexico
+protocol_version: "2.0"
 grado: 11
 asignatura: Civismo
 tema: Derechos Humanos
