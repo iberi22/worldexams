@@ -1,21 +1,33 @@
 ---
-id: CO-BIO-11-CEL-002
+id: "CO-BIO-11-celular-002"
+country: "co"
 grado: 11
-asignatura: Ciencias Naturales
-tema: Biología Celular
-dificultad: 2
-estado: published
-creador: Copilot
-source: Saber11-style
+asignatura: "Ciencias Naturales"
+tema: "Biología - Biología Celular"
+dificultad: 3
+estado: "draft"
+creador: "Copilot"
+protocol_version: "2.0"
+source: "Saber11-style"
 ---
 # Pregunta
-La fotosíntesis ocurre en:
+¿Qué organelo está presente en células vegetales pero NO en células animales?
 
 # Opciones
-- [ ] A) Mitocondrias
-- [x] B) Cloroplastos
-- [ ] C) Ribosomas
-- [ ] D) Vacuolas
+- [ ] A) Mitocondria
+- [ ] B) Núcleo
+- [x] C) Cloroplasto
+- [ ] D) Ribosoma
 
-# Explicación
-Los cloroplastos contienen clorofila y son los orgánulos donde las plantas realizan la fotosíntesis.
+# Explicación Pedagógica
+
+**¿Por qué C es correcta?**
+Los cloroplastos son organelos exclusivos de las células vegetales (y algunas algas y bacterias fotosintetizadoras). Contienen clorofila y son responsables de la fotosíntesis, proceso por el cual las plantas convierten la energía lumínica en energía química (glucosa).
+
+**¿Por qué las otras opciones son incorrectas?**
+- **A) Mitocondria:** Está presente tanto en células animales como vegetales, ya que ambas necesitan producir ATP.
+- **B) Núcleo:** Está presente en todas las células eucariotas, tanto animales como vegetales.
+- **D) Ribosoma:** Está presente en todas las células (eucariotas y procariotas) porque todas necesitan sintetizar proteínas.
+
+**Competencia evaluada:** Uso comprensivo del conocimiento científico
+**Componente:** Biología - Biología Celular Comparada
