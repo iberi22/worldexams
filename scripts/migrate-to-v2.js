@@ -1,13 +1,13 @@
 #!/usr/bin/env node
 /**
  * Script de Migración a Protocol V2.0
- * 
+ *
  * Este script automatiza la adición de `protocol_version: "2.0"` a los archivos
  * de preguntas que no lo tienen, y normaliza `country` a minúsculas.
- * 
+ *
  * Uso:
  *   node scripts/migrate-to-v2.js [--dry-run] [--path <ruta>]
- * 
+ *
  * Opciones:
  *   --dry-run    Solo muestra qué archivos se modificarían, sin hacer cambios
  *   --path       Ruta específica a migrar (default: src/content/questions)
@@ -23,8 +23,8 @@ const __dirname = path.dirname(__filename);
 // Configuración
 const DEFAULT_PATH = 'src/content/questions';
 const DRY_RUN = process.argv.includes('--dry-run');
-const CUSTOM_PATH = process.argv.includes('--path') 
-  ? process.argv[process.argv.indexOf('--path') + 1] 
+const CUSTOM_PATH = process.argv.includes('--path')
+  ? process.argv[process.argv.indexOf('--path') + 1]
   : null;
 
 const TARGET_PATH = CUSTOM_PATH || DEFAULT_PATH;
@@ -46,9 +46,9 @@ function findMarkdownFiles(dir, files = []) {
     console.error(`❌ Directorio no encontrado: ${dir}`);
     process.exit(1);
   }
-  
+
   const entries = fs.readdirSync(dir, { withFileTypes: true });
-  
+
   for (const entry of entries) {
     const fullPath = path.join(dir, entry.name);
     if (entry.isDirectory()) {
@@ -57,7 +57,7 @@ function findMarkdownFiles(dir, files = []) {
       files.push(fullPath);
     }
   }
-  
+
   return files;
 }
 
@@ -69,24 +69,24 @@ function parseFrontmatter(content) {
   const normalizedContent = content.replace(/\r\n/g, '\n').replace(/\r/g, '\n');
   const match = normalizedContent.match(/^---\n([\s\S]*?)\n---/);
   if (!match) return null;
-  
+
   const frontmatter = {};
   const lines = match[1].split('\n');
-  
+
   for (const line of lines) {
     const colonIndex = line.indexOf(':');
     if (colonIndex > 0) {
       const key = line.substring(0, colonIndex).trim();
       let value = line.substring(colonIndex + 1).trim();
       // Remove quotes if present
-      if ((value.startsWith('"') && value.endsWith('"')) || 
+      if ((value.startsWith('"') && value.endsWith('"')) ||
           (value.startsWith("'") && value.endsWith("'"))) {
         value = value.slice(1, -1);
       }
       frontmatter[key] = value;
     }
   }
-  
+
   return { raw: match[0], parsed: frontmatter, fullMatch: match[1], normalizedContent };
 }
 
@@ -99,17 +99,17 @@ function updateFrontmatter(content, filePath) {
     console.log(`  ⚠️  Sin frontmatter válido: ${filePath}`);
     return null;
   }
-  
+
   // Ya tiene protocol_version?
   if (fm.parsed.protocol_version === '2.0') {
     stats.alreadyV2++;
     return null;
   }
-  
+
   // Use normalized content for modifications
   let newContent = fm.normalizedContent;
   let changes = [];
-  
+
   // 1. Agregar protocol_version después de country
   if (!fm.parsed.protocol_version) {
     // Buscar la línea de country para insertar después
@@ -125,7 +125,7 @@ function updateFrontmatter(content, filePath) {
       changes.push('+ protocol_version: "2.0"');
     }
   }
-  
+
   // 2. Normalizar country a minúsculas
   const countryMatch = newContent.match(/country:\s*([A-Z]{2})/);
   if (countryMatch) {
@@ -137,11 +137,11 @@ function updateFrontmatter(content, filePath) {
     );
     changes.push(`~ country: ${oldValue} → "${newValue}"`);
   }
-  
+
   if (changes.length === 0) {
     return null;
   }
-  
+
   return { newContent, changes };
 }
 
@@ -150,18 +150,18 @@ function updateFrontmatter(content, filePath) {
  */
 function processFile(filePath) {
   stats.total++;
-  
+
   try {
     const content = fs.readFileSync(filePath, 'utf8');
     const result = updateFrontmatter(content, filePath);
-    
+
     if (!result) {
       stats.skipped++;
       return;
     }
-    
+
     const relativePath = path.relative(process.cwd(), filePath);
-    
+
     if (DRY_RUN) {
       console.log(`📝 ${relativePath}`);
       result.changes.forEach(c => console.log(`   ${c}`));
@@ -170,9 +170,9 @@ function processFile(filePath) {
       console.log(`✅ ${relativePath}`);
       result.changes.forEach(c => console.log(`   ${c}`));
     }
-    
+
     stats.migrated++;
-    
+
   } catch (error) {
     console.error(`❌ Error en ${filePath}: ${error.message}`);
     stats.errors++;
@@ -189,15 +189,15 @@ function main() {
   console.log(`📁 Ruta: ${TARGET_PATH}`);
   console.log(`🔍 Modo: ${DRY_RUN ? 'DRY RUN (sin cambios)' : 'REAL'}`);
   console.log('');
-  
+
   const files = findMarkdownFiles(TARGET_PATH);
   console.log(`📊 Archivos encontrados: ${files.length}`);
   console.log('');
-  
+
   for (const file of files) {
     processFile(file);
   }
-  
+
   console.log('');
   console.log('📊 Resumen');
   console.log('==========');
@@ -207,7 +207,7 @@ function main() {
   console.log(`Sin cambios:        ${stats.skipped}`);
   console.log(`Errores:            ${stats.errors}`);
   console.log('');
-  
+
   if (DRY_RUN && stats.migrated > 0) {
     console.log('💡 Ejecuta sin --dry-run para aplicar los cambios');
   }

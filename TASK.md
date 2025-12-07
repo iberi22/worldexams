@@ -15,23 +15,24 @@ _Última actualización: 2025-12-05_
 
 | Asignatura | Preguntas | Grados Cubiertos |
 |------------|-----------|------------------|
-| Matemáticas | 18 | 3°, 5°, 9°, 11° |
-| Sociales | 16 | 11° |
-| Inglés | 14 | 11° |
-| Ciencias | 11 | 11° |
-| Lectura Crítica | 7 | 11° |
-| Lenguaje | 5 | 3°, 5° |
-| **TOTAL** | **71** | ✅ |
+| Matemáticas | 84 | 3°, 5°, 9°, 11° |
+| Sociales | 42 | 11° |
+| Inglés | 28 | 11° |
+| Ciencias | 25 | 11° |
+| Lectura Crítica | 14 | 11° |
+| Lenguaje | 28 | 3°, 5°, 9° |
+| Informática | 7 | 11° |
+| **TOTAL** | **228** | ✅ |
 
 ### Distribución por Grado
 
 | Grado | Preguntas | Estado |
 |-------|-----------|--------|
-| 3° | 4 | ⚠️ Necesita más |
-| 5° | 5 | ⚠️ Necesita más |
-| 7° | 1 | 🔴 Crítico |
-| 9° | 3 | ⚠️ Necesita más |
-| 11° | 58 | ✅ Completo |
+| 3° | 35 | ✅ Sólido |
+| 5° | 35 | ✅ Sólido |
+| 7° | 7 | ⚠️ Necesita más |
+| 9° | 21 | ✅ Aceptable |
+| 11° | 130 | ✅ Completo |
 
 ---
 
@@ -105,10 +106,34 @@ _Última actualización: 2025-12-05_
 | CO-LEC-11-argumentativo-001 | 11° | Lectura Crítica | 7 | ✅ Validado |
 | CO-MAT-11-funciones-001 | 11° | Matemáticas | 7 | ✅ Validado |
 | CO-CIE-11-biologia-001 | 11° | Ciencias Naturales | 7 | ✅ Validado |
+| CO-CIE-11-biologia-002 | 11° | Ciencias Naturales | 7 | ✅ Validado |
+| CO-CIE-11-fisica-001 | 11° | Ciencias Naturales | 7 | ✅ Validado |
+| CO-CIE-11-fisica-002 | 11° | Ciencias Naturales | 7 | ✅ Validado |
+| CO-CIE-11-quimica-001 | 11° | Ciencias Naturales | 7 | ✅ Validado |
 | CO-SOC-11-ciudadanas-001 | 11° | Sociales | 7 | ✅ Validado |
 | CO-ING-11-reading-001 | 11° | Inglés | 7 | ✅ Validado |
+| CO-MAT-11-algebra-002 | 11° | Matemáticas | 7 | ✅ Validado |
+| CO-MAT-11-estadistica-001 | 11° | Matemáticas | 7 | ✅ Validado |
+| CO-ING-11-part1-001 | 11° | Inglés | 7 | ✅ Migrado (Universal) |
+| CO-ING-11-part2-001 | 11° | Inglés | 7 | ✅ Migrado (Universal) |
+| CO-ING-11-part3-001 | 11° | Inglés | 7 | ✅ Migrado (Universal) |
+| CO-SOC-11-historia-colombia-001 | 11° | Sociales | 7 | ✅ Migrado |
+| CO-SOC-11-historia-universal-001 | 11° | Sociales | 7 | ✅ Migrado (Universal) |
+| CO-SOC-11-geografia-colombia-001 | 11° | Sociales | 7 | ✅ Migrado |
+| CO-SOC-11-geografia-general-001 | 11° | Sociales | 7 | ✅ Migrado (Universal) |
+| CO-SOC-11-constitucion-001 | 11° | Sociales | 7 | ✅ Migrado |
+| CO-INF-11-algoritmos-001 | 11° | Informática | 7 | ✅ Migrado (Universal) |
+| CO-LEC-11-inferencia-001 | 11° | Lectura Crítica | 7 | ✅ Migrado (Universal) |
+| CO-MAT-03-geometria-001 | 3° | Matemáticas | 7 | ✅ Migrado (Universal) |
+| CO-MAT-03-medicion-001 | 3° | Matemáticas | 7 | ✅ Migrado (Universal) |
+| CO-MAT-05-geometria-001 | 5° | Matemáticas | 7 | ✅ Migrado (Universal) |
+| CO-MAT-05-multiplicacion-001 | 5° | Matemáticas | 7 | ✅ Migrado (Universal) |
+| CO-MAT-05-numeros-001 | 5° | Matemáticas | 7 | ✅ Migrado (Universal) |
+| CO-MAT-09-estadistica-001 | 9° | Matemáticas | 7 | ✅ Migrado (Universal) |
+| CO-LEN-03-gramatica-001 | 3° | Lenguaje | 7 | ✅ Migrado |
+| CO-LEN-05-gramatica-001 | 5° | Lenguaje | 7 | ✅ Migrado |
 
-**Total:** 10 bundles, **70+ preguntas** validadas para Colombia
+**Total:** 26 bundles, **228 preguntas** validadas para Colombia
 
 ---
 
@@ -143,8 +168,14 @@ _Última actualización: 2025-12-05_
 | CO-LEC-11-argumentativo-001 | 11° | Lectura Crítica | 7 | ✅ Creado |
 | CO-MAT-11-funciones-001 | 11° | Matemáticas | 7 | ✅ Creado |
 | CO-CIE-11-biologia-001 | 11° | Ciencias Naturales | 7 | ✅ Creado |
+| CO-CIE-11-biologia-002 | 11° | Ciencias Naturales | 7 | ✅ Creado |
+| CO-CIE-11-fisica-001 | 11° | Ciencias Naturales | 7 | ✅ Creado |
+| CO-CIE-11-fisica-002 | 11° | Ciencias Naturales | 7 | ✅ Creado |
+| CO-CIE-11-quimica-001 | 11° | Ciencias Naturales | 7 | ✅ Creado |
+| CO-MAT-11-algebra-002 | 11° | Matemáticas | 7 | ✅ Creado |
+| CO-MAT-11-estadistica-001 | 11° | Matemáticas | 7 | ✅ Creado |
 
-**Total:** 6 bundles, **42 preguntas nuevas** para Colombia
+**Total:** 12 bundles, **84 preguntas nuevas** para Colombia
 
 ### Documentación Creada
 

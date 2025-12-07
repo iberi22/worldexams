@@ -46,18 +46,26 @@ TASK:
 Create a question bundle file about '$Category' suitable for Grade 11.
 Context: Use local currency, names, and cities for $Country.
 
-OUTPUT FORMAT (Markdown):
+OUTPUT FORMAT (Markdown Bundle):
 File Name: ${Country}-${Category}-11-topic-001-bundle.md
 
+STRUCTURE:
+Use a YAML frontmatter for the global metadata (URL, Date, ID).
+Use Markdown Level 2 headers (##) for each question.
+Inside each question section, specify:
+**Competency:** ...
+**Component:** ...
+**Difficulty:** ...
+
 CONTENT:
-Generate 7 questions based on a single key concept (Seed):
-1. [ORIG] Original (Diff 3): The core concept.
-2. [EASY-A] (Diff 1): Simplified recall.
-3. [EASY-B] (Diff 1): Simple application.
-4. [MED-A] (Diff 3): Standard problem solving.
-5. [MED-B] (Diff 3): Analysis/Comparison.
-6. [HARD-A] (Diff 5): Complex scenario.
-7. [HARD-B] (Diff 5): Multistep reasoning.
+Generate ONE single file containing 7 questions:
+## Question 1 [ORIGINAL] (Diff 3)
+## Question 2 [EASY-A] (Diff 1)
+## Question 3 [EASY-B] (Diff 1)
+## Question 4 [MED-A] (Diff 3)
+## Question 5 [MED-B] (Diff 3)
+## Question 6 [HARD-A] (Diff 5)
+## Question 7 [HARD-B] (Diff 5)
 
 METADATA REQUIRED:
 protocol_version: "2.0"

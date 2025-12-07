@@ -22,6 +22,7 @@ _Última actualización: 2025-12-05_
 - ✅ **Accesible:** Funciona para todos, sin barreras (a11y)
 - ✅ **Educativo:** Calidad pedagógica validada
 - ✅ **Automatizado:** Generación de contenido por IA
+- ✅ **Universal:** Preguntas compartibles neutrales (Ciencias y Matemáticas)
 - ✅ **Cultural:** Respeto a la identidad de cada país
 - ✅ **Transparente:** Código abierto, comunidad activa
 
@@ -406,6 +407,33 @@ source_lang: "[es-CO|es-MX|pt-BR|en-US|zh-CN|hi-IN|...]"
 | 3 | Aplicación | Resolver ecuación lineal simple |
 | 4 | Análisis | Comparar fracciones con diferente denominador |
 | 5 | Síntesis/Evaluación | Problemas multi-paso con razonamiento complejo |
+
+### Protocolo Bundle Universal V2.1 (NEW)
+
+Para preguntas de **Matemáticas, Ciencias e Inglés** que se comparten globalmente:
+
+1.  **Metadata Obligatoria Extra:**
+    ```yaml
+    universal_question: true
+    source_url: "https://www.icfes.gov.co" (URL oficial del currículo origen)
+    applicable_exams: ["CO-Saber11", "MX-ENLACE", "SAT-Math", "SAT-Reading"]
+    bundle_version: "2.1"
+    ```
+
+2.  **Neutralización de Contexto:**
+    - ❌ NO: "Juan compra 3 manzanas en Bogotá por 2000 pesos."
+    - ✅ SI: "Una persona compra 3 manzanas en un mercado por 2000 unidades monetarias." (o usar divisas genéricas)
+
+3.  **Metadata de Validación (Footer):**
+    Cada bundle debe terminar con una tabla resumen para auditoría rápida:
+    ```markdown
+    ## 📊 Metadata de Validación
+
+    | Pregunta | ID | Dificultad | Competencia ICFES | Componente | Validado |
+    |----------|-----|------------|-------------------|------------|----------|
+    | 1 | CO-MAT-11-algebra-002-v1 | 3 | Resolución | Numérico | ⬜ |
+    ...
+    ```
 
 ---
 
