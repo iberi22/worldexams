@@ -1,34 +1,33 @@
 ---
+# === METADATA GLOBAL ===
 id: "CO-SOC-11-globalizacion-001"
 country: "CO"
 grado: 11
 asignatura: "Ciencias Sociales"
 tema: "Globalización y Economía"
-dificultad: 4
-estado: "draft"
-creador: "Antigravity"
-source_lang: "es-CO"
-llm_model: "Cascade"
-agent: "Cascade"
-ide: "VS Code"
-bundle_version: "2.1"
+protocol_version: "2.0"
 total_questions: 7
-difficulty_distribution: "1 original (4) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
-generation_date: "2025-12-06"
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "draft"
+creador: "Migrator-Script"
+generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
-source: "ICFES-Curriculum"
 source_url: "https://www.icfes.gov.co"
-source_license: "Educational Use - Colombian Curriculum"
-source_id: "ICFES-SOC-011-GLO-001"
-original_concept: "Impacto económico de la globalización"
-competencia_icfes: "Pensamiento sistémico y reflexión ética"
-componente: "Poder, economía y organizaciones sociales"
-
-# === UNIVERSAL SHARING ===
-universal_question: true
-applicable_exams: ["CO-Saber11", "MX-Ceneval", "CL-PAES"]
+source_license: "CC BY-SA 4.0"
 ---
+
+# Pregunta Base: Adaptado de Legacy
+
+> **Nota:** Migrado automáticamente de v1.0
+
+---
+
+## Pregunta 1 (Original - Dificultad Medium)
+
+**ID:** "CO-SOC-11-globalizacion-001-v1"
+
+### Enunciado
 
 # Bundle: Globalización, Economía y Territorio
 
@@ -36,32 +35,7 @@ applicable_exams: ["CO-Saber11", "MX-Ceneval", "CL-PAES"]
 > **Componente:** Poder, economía y organizaciones
 > **Competencia:** Pensamiento sistémico (relacionar fenómenos locales y globales)
 
----
 
-## Pregunta 1 (Original - Dificultad 4)
-
-**ID:** `CO-SOC-11-globalizacion-001-v1`
-
-### Enunciado
-
-Una de las consecuencias económicas más directas de la globalización en los países en vía de desarrollo ha sido:
-
-### Opciones
-
-- [ ] A) El aislamiento total de sus mercados locales.
-- [x] B) La interdependencia económica y la apertura de mercados.
-- [ ] C) La eliminación completa de la pobreza extrema.
-- [ ] D) La prohibición de importar tecnología extranjera.
-
-### Explicación Pedagógica
-
-La globalización implica la **integración de las economías** mediante tratados de libre comercio y flujos de capital. Esto genera **interdependencia** (lo que pasa en USA o China afecta a Colombia) y **apertura** (entrada de productos extranjeros y salida de nacionales).
-*   A y D son lo opuesto a la globalización (Proteccionismo).
-*   C es un ideal, no una consecuencia directa garantizada; de hecho, la desigualdad a veces aumenta.
-
-**Competencia evaluada:** Pensamiento sistémico - Análisis de dinámicas globales.
-
----
 
 ## Pregunta 2 (Low A - Dificultad Low)
 
@@ -84,30 +58,7 @@ Esta es la definición básica de **Globalización**: un proceso de creciente in
 
 **Competencia evaluada:** Pensamiento social - Conceptos básicos.
 
----
 
-## Pregunta 3 (Low B - Dificultad Low)
-
-**ID:** `CO-SOC-11-globalizacion-001-v3`
-
-### Enunciado
-
-¿Cuál de los siguientes es un ejemplo claro de globalización cultural que podemos ver todos los días?
-
-### Opciones
-
-- [ ] A) Comer únicamente platos típicos regionales.
-- [x] B) Poder escuchar música coreana (K-pop) o ver películas de Hollywood en Colombia.
-- [ ] C) El cierre de fronteras para turistas.
-- [ ] D) Usar ropa fabricada exclusivamente en el barrio donde vives.
-
-### Explicación Pedagógica
-
-El intercambio cultural masivo (música, cine, comida, moda) facilitado por internet y los medios de comunicación es la cara más visible de la globalización cultural.
-
-**Competencia evaluada:** Pensamiento social - Reconocimiento de fenómenos en la vida cotidiana.
-
----
 
 ## Pregunta 4 (Medium A - Dificultad Medium)
 
@@ -130,30 +81,7 @@ La soberanía se ve "limitada" cuando un Estado debe seguir reglas impuestas por
 
 **Competencia evaluada:** Multiperspectivismo - Análisis crítico.
 
----
 
-## Pregunta 5 (Medium B - Dificultad Medium)
-
-**ID:** `CO-SOC-11-globalizacion-001-v5`
-
-### Enunciado
-
-La apertura económica, propia del modelo neoliberal y la globalización, busca que los países:
-
-### Opciones
-
-- [ ] A) Produzcan todo lo que consumen para no depender de nadie.
-- [x] B) Reduzcan aranceles (impuestos) a la importación para facilitar el comercio internacional.
-- [ ] C) Aumenten los impuestos a las empresas extranjeras para que se vayan.
-- [ ] D) El estado controle todas las fábricas y precios.
-
-### Explicación Pedagógica
-
-La **apertura económica** se basa en la reducción de barreras comerciales (como los aranceles) para fomentar el libre intercambio de bienes y servicios entre naciones, bajo la premisa de la eficiencia y la ventaja comparativa.
-
-**Competencia evaluada:** Pensamiento social - Modelos económicos.
-
----
 
 ## Pregunta 6 (High A - Dificultad High)
 
@@ -176,30 +104,7 @@ La **deslocalización** es una estrategia común en la globalización donde las 
 
 **Competencia evaluada:** Pensamiento sistémico - Dinámicas del capitalismo global.
 
----
 
-## Pregunta 7 (High B - Dificultad High)
-
-**ID:** `CO-SOC-11-globalizacion-001-v7`
-
-### Enunciado
-
-La globalización ha generado una "brecha digital". ¿Cómo afecta esta brecha el desarrollo de los países más pobres en el contexto de la "Economía del Conocimiento"?
-
-### Opciones
-
-- [ ] A) No los afecta, porque pueden seguir dedicándose a la agricultura tradicional sin tecnología.
-- [ ] B) Los beneficia, porque al no tener internet se contaminan menos culturalmente.
-- [x] C) Limita su competitividad, marginándolos de los mercados laborales y educativos de alto valor agregado que requieren conectividad.
-- [ ] D) Los afecta solo en el entretenimiento, pero no en sus indicadores económicos.
-
-### Explicación Pedagógica
-
-En la Economía del Conocimiento, el acceso a información y tecnología es el factor productivo más importante. Si un país tiene brecha digital (poca conectividad), queda excluido de las cadenas de valor más rentables (servicios, innovación), perpetuando su subdesarrollo y aumentando la desigualdad global.
-
-**Competencia evaluada:** Pensamiento sistémico y reflexión ética - Desigualdad y tecnología.
-
----
 
 ## 📊 Metadata de Validación
 
@@ -212,3 +117,148 @@ En la Economía del Conocimiento, el acceso a información y tecnología es el f
 | 5 | v5 | Medium | Pensamiento social | Poder y Economía | ⬜ |
 | 6 | v6 | High | Pensamiento sistémico | Poder y Economía | ⬜ |
 | 7 | v7 | High | Reflexión ética | Poder y Economía | ⬜ |
+
+### Explicación Pedagógica
+
+*(Contenido migrado, favor revisar)*
+
+---
+
+## Pregunta 2 (Low A - Dificultad Low)
+
+**ID:** "CO-SOC-11-globalizacion-001-v2"
+
+### Enunciado
+
+TODO: Generar variación de tipo Low A
+
+### Opciones
+
+- [ ] A) Opción 1
+- [ ] B) Opción 2
+- [ ] C) Opción 3
+- [ ] D) Opción 4
+
+### Explicación Pedagógica
+
+TODO: Explicación pendiente
+
+---
+
+## Pregunta 3 (Low B - Dificultad Low)
+
+**ID:** "CO-SOC-11-globalizacion-001-v3"
+
+### Enunciado
+
+TODO: Generar variación de tipo Low B
+
+### Opciones
+
+- [ ] A) Opción 1
+- [ ] B) Opción 2
+- [ ] C) Opción 3
+- [ ] D) Opción 4
+
+### Explicación Pedagógica
+
+TODO: Explicación pendiente
+
+---
+
+## Pregunta 4 (Medium A - Dificultad Medium)
+
+**ID:** "CO-SOC-11-globalizacion-001-v4"
+
+### Enunciado
+
+TODO: Generar variación de tipo Medium A
+
+### Opciones
+
+- [ ] A) Opción 1
+- [ ] B) Opción 2
+- [ ] C) Opción 3
+- [ ] D) Opción 4
+
+### Explicación Pedagógica
+
+TODO: Explicación pendiente
+
+---
+
+## Pregunta 5 (Medium B - Dificultad Medium)
+
+**ID:** "CO-SOC-11-globalizacion-001-v5"
+
+### Enunciado
+
+TODO: Generar variación de tipo Medium B
+
+### Opciones
+
+- [ ] A) Opción 1
+- [ ] B) Opción 2
+- [ ] C) Opción 3
+- [ ] D) Opción 4
+
+### Explicación Pedagógica
+
+TODO: Explicación pendiente
+
+---
+
+## Pregunta 6 (High A - Dificultad High)
+
+**ID:** "CO-SOC-11-globalizacion-001-v6"
+
+### Enunciado
+
+TODO: Generar variación de tipo High A
+
+### Opciones
+
+- [ ] A) Opción 1
+- [ ] B) Opción 2
+- [ ] C) Opción 3
+- [ ] D) Opción 4
+
+### Explicación Pedagógica
+
+TODO: Explicación pendiente
+
+---
+
+## Pregunta 7 (High B - Dificultad High)
+
+**ID:** "CO-SOC-11-globalizacion-001-v7"
+
+### Enunciado
+
+TODO: Generar variación de tipo High B
+
+### Opciones
+
+- [ ] A) Opción 1
+- [ ] B) Opción 2
+- [ ] C) Opción 3
+- [ ] D) Opción 4
+
+### Explicación Pedagógica
+
+TODO: Explicación pendiente
+
+---
+
+## Metadata de Validacion
+
+| Pregunta | ID | Dificultad | Validado |
+|----------|-----|------------|----------|
+| 1 | CO-SOC-11-globalizacion-001-v1 | Medium | ⬜ |
+| 2 | CO-SOC-11-globalizacion-001-v2 | Low | ⬜ |
+| 3 | CO-SOC-11-globalizacion-001-v3 | Low | ⬜ |
+| 4 | CO-SOC-11-globalizacion-001-v4 | Medium | ⬜ |
+| 5 | CO-SOC-11-globalizacion-001-v5 | Medium | ⬜ |
+| 6 | CO-SOC-11-globalizacion-001-v6 | High | ⬜ |
+| 7 | CO-SOC-11-globalizacion-001-v7 | High | ⬜ |
+

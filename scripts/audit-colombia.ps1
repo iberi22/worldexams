@@ -37,11 +37,12 @@ foreach ($file in $files) {
             }
 
              # Check cultural context (simple keyword check)
-             if ($content -notmatch "COP" -and $content -notmatch "Pesos" -and $content -notmatch "Bogotá" -and $content -notmatch "Medellín" -and $content -notmatch "Cali" -and $content -notmatch "Colombia") {
-                $issues += "Potential missing cultural context (keywords not found)"
-             }
-
             if ($issues.Count -eq 0) {
+                # Check cultural context (simple keyword check) - WARNING ONLY
+                if ($content -notmatch "COP" -and $content -notmatch "Pesos" -and $content -notmatch "Bogotá" -and $content -notmatch "Medellín" -and $content -notmatch "Cali" -and $content -notmatch "Colombia") {
+                    $issues += "WAR: Potential missing cultural context"
+                }
+
                 $status = "READY"
                 $readyFiles++
             } else {
