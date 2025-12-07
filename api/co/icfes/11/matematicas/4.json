@@ -1,0 +1,1347 @@
+﻿{
+    "metadata":  {
+                     "total_pages":  4,
+                     "total_questions":  343,
+                     "exam":  "icfes",
+                     "subject":  "Matemáticas",
+                     "generated_at":  "2025-12-07T15:14:00Z",
+                     "country":  "co",
+                     "grade":  "11",
+                     "page":  4
+                 },
+    "questions":  [
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Un árbol crece un 10% cada año. Si hoy mide 1.00 metro, ¿cuánto medirá en 2 años?",
+                          "number":  7,
+                          "id":  "CO-MAT-11-porcentajes-006-v7",
+                          "correct_answer":  "B",
+                          "difficulty":  "High",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "1.20 m"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "1.21 m"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "1.10 m"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "1.25 m"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-porcentajes-006"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "¿Cuál es la raíz cuadrada de 16?",
+                          "number":  1,
+                          "id":  "CO-MAT-11-raices-001-v1",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "2"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "8"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "4"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "6"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "$\\sqrt{25}$ es igual a:",
+                          "number":  2,
+                          "id":  "CO-MAT-11-raices-001-v2",
+                          "correct_answer":  "B",
+                          "difficulty":  "Low",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "2.5"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "5"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "10"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "25"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "¿Qué número multiplicado por sí mismo da 36?",
+                          "number":  3,
+                          "id":  "CO-MAT-11-raices-001-v3",
+                          "correct_answer":  "A",
+                          "difficulty":  "Low",
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "6"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "9"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "18"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "12"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "El valor de $\\sqrt{64} + \\sqrt{4}$ es:",
+                          "number":  4,
+                          "id":  "CO-MAT-11-raices-001-v4",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "8"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "12"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "10"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "6"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "¿Cuál de los siguientes es un cuadrado perfecto?",
+                          "number":  5,
+                          "id":  "CO-MAT-11-raices-001-v5",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "20"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "30"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "49"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "50"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Si $\\sqrt{x} = 9$, entonces $x$ es:",
+                          "number":  6,
+                          "id":  "CO-MAT-11-raices-001-v6",
+                          "correct_answer":  "C",
+                          "difficulty":  "High",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "3"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "18"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "81"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "90"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "$\\sqrt{9} \\times \\sqrt{16}$ es igual a:",
+                          "number":  7,
+                          "id":  "CO-MAT-11-raices-001-v7",
+                          "correct_answer":  "B",
+                          "difficulty":  "High",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "$\\sqrt{25}$"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "12"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "7"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "144"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Un parque cuadrado en Bogotá tiene un área de 64 metros cuadrados. ¿Cuál es la longitud de cada lado del parque?",
+                          "number":  1,
+                          "id":  "CO-MAT-11-raices-002-v1",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "6 metros"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "16 metros"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "8 metros"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "32 metros"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-002"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "El área de un tapete cuadrado es 9 $m^2$. ¿Cuánto mide su lado?",
+                          "number":  2,
+                          "id":  "CO-MAT-11-raices-002-v2",
+                          "correct_answer":  "A",
+                          "difficulty":  "Low",
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "3 m"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "4.5 m"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "81 m"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "1 m"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-002"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Si un terreno cuadrado tiene $100 m^2$ de área, cada lado mide:",
+                          "number":  3,
+                          "id":  "CO-MAT-11-raices-002-v3",
+                          "correct_answer":  "B",
+                          "difficulty":  "Low",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "50 m"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "10 m"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "25 m"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "20 m"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-002"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Un cuadrado tiene un área de $144 cm^2$. Si se duplica la longitud de su lado, la nueva área será:",
+                          "number":  4,
+                          "id":  "CO-MAT-11-raices-002-v4",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "$288 cm^2$"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "$144 cm^2$"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "$576 cm^2$"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "$400 cm^2$"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-002"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Si el área de un círculo es $A = \\pi r^2$, para despejar el radio $r$ usamos:",
+                          "number":  5,
+                          "id":  "CO-MAT-11-raices-002-v5",
+                          "correct_answer":  "B",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "$r = A / \\pi$"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "$r = \\sqrt{A / \\pi}$"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "$r = (A / \\pi)^2$"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "$r = A - \\pi$"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-002"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Un campo cuadrado tiene un área de $200 m^2$. La longitud de su lado está aproximadamente entre:",
+                          "number":  6,
+                          "id":  "CO-MAT-11-raices-002-v6",
+                          "correct_answer":  "B",
+                          "difficulty":  "High",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "10 y 11 metros"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "14 y 15 metros"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "19 y 20 metros"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "13 y 14 metros"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-002"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Si el volumen de un cubo es $27 m^3$, ¿cuánto mide su arista?",
+                          "number":  7,
+                          "id":  "CO-MAT-11-raices-002-v7",
+                          "correct_answer":  "A",
+                          "difficulty":  "High",
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "3 m"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "9 m"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "6 m"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "3.33 m"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-002"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "¿Cuál es la raíz cuadrada de 196?",
+                          "number":  1,
+                          "id":  "CO-MAT-11-raices-003-v1",
+                          "correct_answer":  "B",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "12"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "14"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "16"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "13"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-003"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "$\\sqrt{100}$ es igual a:",
+                          "number":  2,
+                          "id":  "CO-MAT-11-raices-003-v2",
+                          "correct_answer":  "A",
+                          "difficulty":  "Low",
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "10"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "50"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "20"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "5"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-003"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "¿Cuál es la raíz cuadrada de 144?",
+                          "number":  3,
+                          "id":  "CO-MAT-11-raices-003-v3",
+                          "correct_answer":  "B",
+                          "difficulty":  "Low",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "11"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "12"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "14"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "10"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-003"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "El número 169 es el cuadrado de:",
+                          "number":  4,
+                          "id":  "CO-MAT-11-raices-003-v4",
+                          "correct_answer":  "B",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "12"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "13"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "14"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "11"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-003"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "$\\sqrt{225}$ es igual a:",
+                          "number":  5,
+                          "id":  "CO-MAT-11-raices-003-v5",
+                          "correct_answer":  "A",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "15"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "25"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "20"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "18"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-003"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "¿Cuánto es $\\sqrt{400}$?",
+                          "number":  6,
+                          "id":  "CO-MAT-11-raices-003-v6",
+                          "correct_answer":  "C",
+                          "difficulty":  "High",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "40"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "100"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "20"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "10"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-003"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Si un número al cuadrado es 900, la raíz cuadrada del número es:",
+                          "number":  7,
+                          "id":  "CO-MAT-11-raices-003-v7",
+                          "correct_answer":  "B",
+                          "difficulty":  "High",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "90"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "30"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "45"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "300"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-003"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Una plaza cuadrada en Medellín tiene un área de $225$ metros cuadrados. ¿Cuántos metros de cerca se necesitan para rodear completamente la plaza (perímetro)?",
+                          "number":  1,
+                          "id":  "CO-MAT-11-raices-004-v1",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "45 metros"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "50 metros"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "60 metros"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "75 metros"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-004"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Un cuadrado de área $16 cm^2$. Su perímetro es:",
+                          "number":  2,
+                          "id":  "CO-MAT-11-raices-004-v2",
+                          "correct_answer":  "A",
+                          "difficulty":  "Low",
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "16 cm"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "4 cm"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "8 cm"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "32 cm"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-004"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "El área de un jardín cuadrado es $100 m^2$. ¿Cuánto mide la cerca de un **solo** lado?",
+                          "number":  3,
+                          "id":  "CO-MAT-11-raices-004-v3",
+                          "correct_answer":  "B",
+                          "difficulty":  "Low",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "50 m"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "10 m"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "25 m"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "100 m"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-004"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Un terreno cuadrado tiene un área de $400 m^2$. Se quiere cercar solo 3 de sus lados. ¿Cuántos metros de cerca se necesitan?",
+                          "number":  4,
+                          "id":  "CO-MAT-11-raices-004-v4",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "80 m"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "40 m"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "60 m"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "50 m"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-004"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "La hipotenusa de un triángulo rectángulo con catetos de 3 cm y 4 cm es:",
+                          "number":  5,
+                          "id":  "CO-MAT-11-raices-004-v5",
+                          "correct_answer":  "A",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "5 cm"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "7 cm"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "6 cm"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "25 cm"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-004"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Un cuadrado tiene un perímetro de 40 m. ¿Cuál es su área?",
+                          "number":  6,
+                          "id":  "CO-MAT-11-raices-004-v6",
+                          "correct_answer":  "C",
+                          "difficulty":  "High",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "$40 m^2$"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "$1600 m^2$"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "$100 m^2$"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "$200 m^2$"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-004"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Se tiene un cuadrado de área $A$. Si cuadruplicamos el área ($4A$), ¿qué pasa con el lado del cuadrado?",
+                          "number":  7,
+                          "id":  "CO-MAT-11-raices-004-v7",
+                          "correct_answer":  "B",
+                          "difficulty":  "High",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Se cuadruplica"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Se duplica"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Se mantiene igual"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Se triplica"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-004"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "¿Cuál es el valor de $\\sqrt{9x^2}$ cuando $x = 4$?",
+                          "number":  1,
+                          "id":  "CO-MAT-11-raices-005-v1",
+                          "correct_answer":  "B",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "9"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "12"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "18"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "36"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-005"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Simplifica la expresión $\\sqrt{x^2}$ (asumiendo x positivo).",
+                          "number":  2,
+                          "id":  "CO-MAT-11-raices-005-v2",
+                          "correct_answer":  "A",
+                          "difficulty":  "Low",
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "x"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "$x^2$"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "1"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "2x"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-005"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Calcula $\\sqrt{25a^2}$.",
+                          "number":  3,
+                          "id":  "CO-MAT-11-raices-005-v3",
+                          "correct_answer":  "C",
+                          "difficulty":  "Low",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "25a"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "$5a^2$"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "5a"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "25"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-005"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Si $a = 16$ y $b = 9$, entonces $\\sqrt{a+b}$ es:",
+                          "number":  4,
+                          "id":  "CO-MAT-11-raices-005-v4",
+                          "correct_answer":  "B",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "7"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "5"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "25"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "12"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-005"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "El valor de $\\sqrt{16x^4}$ es:",
+                          "number":  5,
+                          "id":  "CO-MAT-11-raices-005-v5",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "$8x^2$"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "$4x$"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "$4x^2$"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "$16x^2$"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-005"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Simplifica $\\sqrt{50x^2}$.",
+                          "number":  6,
+                          "id":  "CO-MAT-11-raices-005-v6",
+                          "correct_answer":  "C",
+                          "difficulty":  "High",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "$25x$"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "$10x$"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "$5x\\sqrt{2}$"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "$50x$"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-005"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Si $\\sqrt{2x} = 6$, ¿cuánto vale x?",
+                          "number":  7,
+                          "id":  "CO-MAT-11-raices-005-v7",
+                          "correct_answer":  "C",
+                          "difficulty":  "High",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "3"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "12"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "18"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "36"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-005"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "¿Cuál de las siguientes raíces cuadradas es mayor?",
+                          "number":  1,
+                          "id":  "CO-MAT-11-raices-006-v1",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "$\\sqrt{100}$"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "$\\sqrt{121}$"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "$\\sqrt{144}$"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "$\\sqrt{81}$"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-006"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Ordena de menor a mayor: $\\sqrt{4}$, $\\sqrt{9}$, $\\sqrt{1}$.",
+                          "number":  2,
+                          "id":  "CO-MAT-11-raices-006-v2",
+                          "correct_answer":  "B",
+                          "difficulty":  "Low",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "$\\sqrt{9}, \\sqrt{4}, \\sqrt{1}$"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "$\\sqrt{1}, \\sqrt{4}, \\sqrt{9}$"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "$\\sqrt{4}, \\sqrt{1}, \\sqrt{9}$"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "$\\sqrt{1}, \\sqrt{9}, \\sqrt{4}$"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-006"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "¿Qué número es mayor?",
+                          "number":  3,
+                          "id":  "CO-MAT-11-raices-006-v3",
+                          "correct_answer":  "B",
+                          "difficulty":  "Low",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "$\\sqrt{25}$"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "6"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "$\\sqrt{16}$"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "4.5"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-006"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "$\\sqrt{50}$ es un número situado entre:",
+                          "number":  4,
+                          "id":  "CO-MAT-11-raices-006-v4",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "5 y 6"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "6 y 7"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "7 y 8"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "8 y 9"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-006"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "¿Cuál afirmación es correcta?",
+                          "number":  5,
+                          "id":  "CO-MAT-11-raices-006-v5",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "$\\sqrt{10} + \\sqrt{10} = \\sqrt{20}$"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "$\\sqrt{8} = 4$"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "$\\sqrt{9} \u003c \\sqrt{10} \u003c \\sqrt{16}$"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "$\\sqrt{5} \\times \\sqrt{5} = 25$"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-006"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Aproxima $\\sqrt{80}$ al entero más cercano.",
+                          "number":  6,
+                          "id":  "CO-MAT-11-raices-006-v6",
+                          "correct_answer":  "B",
+                          "difficulty":  "High",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "8"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "9"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "8.5"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "10"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-006"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "¿Qué valor es más cercano a $\\sqrt{2}$?",
+                          "number":  7,
+                          "id":  "CO-MAT-11-raices-006-v7",
+                          "correct_answer":  "B",
+                          "difficulty":  "High",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "1.2"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "1.41"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "1.5"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "2"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-11-raices-006"
+                      }
+                  ]
+}

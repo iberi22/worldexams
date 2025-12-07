@@ -1,0 +1,231 @@
+﻿{
+    "metadata":  {
+                     "total_pages":  1,
+                     "total_questions":  7,
+                     "exam":  "icfes",
+                     "subject":  "Informática",
+                     "generated_at":  "2025-12-07T15:14:01Z",
+                     "country":  "CO",
+                     "grade":  "11",
+                     "page":  1
+                 },
+    "questions":  [
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Un estudiante necesita organizar una lista de 50 nombres alfabéticamente (tarjetas físicas). ¿Cuál de los siguientes enfoques describe el algoritmo más eficiente y estructurado (equivalente a **Merge Sort**)?",
+                          "number":  0,
+                          "id":  "CO-INF-11-algoritmos-001-bundle-v0",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Mirar todas las tarjetas al mismo tiempo y adivinar el orden."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Tomar una tarjeta, ponerla en una mesa, y repetir una por una buscando su lugar (Insertion Sort simple)."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Dividir el mazo en dos mitades, ordenar cada mitad recursivamente y luego mezclar las mitades ordenadas."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Lanzar las tarjetas al aire y ver si caen ordenadas."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-INF-11-algoritmos-001-bundle"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "En programación, una estructura **condicional** (`if-else`) se utiliza para:",
+                          "number":  0,
+                          "id":  "CO-INF-11-algoritmos-001-bundle-v0",
+                          "correct_answer":  "B",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Repetir una acción muchas veces."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Tomar decisiones basadas en si una afirmación es verdadera o falsa."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Almacenar un número decimal."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Conectar el computador a internet."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-INF-11-algoritmos-001-bundle"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "¿Qué estructura de control usarías para imprimir los números del 1 al 100 sin escribir 100 líneas de código?",
+                          "number":  0,
+                          "id":  "CO-INF-11-algoritmos-001-bundle-v0",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Una variable."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Un condicional."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Un bucle o ciclo (como `for` o `while`)."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Una base de datos."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-INF-11-algoritmos-001-bundle"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Analiza el siguiente pseudocódigo:\n```\nx = 5\ny = 10\nx = x + y\ny = x - y\nx = x - y\n```\nAl final, ¿cuánto valen `x` e `y`?",
+                          "number":  0,
+                          "id":  "CO-INF-11-algoritmos-001-bundle-v0",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "x=15, y=5"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "x=5, y=10 (no cambian)"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "x=10, y=5 (se intercambian)"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "x=0, y=0"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-INF-11-algoritmos-001-bundle"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "¿Cuál de los siguientes es un ejemplo de **Software**?",
+                          "number":  0,
+                          "id":  "CO-INF-11-algoritmos-001-bundle-v0",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "El teclado."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "El disco duro."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "El sistema operativo Windows."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "La memoria RAM."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-INF-11-algoritmos-001-bundle"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Tienes un algoritmo para hacer café que falla.\n1. Calentar agua.\n2. Servir agua en la taza.\n3. Poner café en el filtro.\n4. Poner filtro sobre la taza.\n**Error:** El agua se sirve antes de pasar por el café. ¿Cómo lo corriges?",
+                          "number":  0,
+                          "id":  "CO-INF-11-algoritmos-001-bundle-v0",
+                          "correct_answer":  "B",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Eliminar el paso 1."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Mover el paso 2 al final (después de poner filtro y café)."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Invertir paso 3 y 4."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "No tiene solución."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-INF-11-algoritmos-001-bundle"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "En un diagrama de flujo, ¿qué forma geométrica representa generalmente una **decisión** (Sí/No)?",
+                          "number":  0,
+                          "id":  "CO-INF-11-algoritmos-001-bundle-v0",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Rectángulo."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Círculo."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Rombo."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Flecha."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-INF-11-algoritmos-001-bundle"
+                      }
+                  ]
+}

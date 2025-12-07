@@ -1,0 +1,1254 @@
+﻿{
+    "metadata":  {
+                     "total_pages":  2,
+                     "total_questions":  140,
+                     "exam":  "icfes",
+                     "subject":  "Ciencias Naturales",
+                     "generated_at":  "2025-12-07T15:14:00Z",
+                     "country":  "co",
+                     "grade":  "11",
+                     "page":  2
+                 },
+    "questions":  [
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "¿Cuál es la partícula subatómica que tiene carga eléctrica negativa y orbita alrededor del núcleo?",
+                          "number":  3,
+                          "id":  "CO-CIE-11-quimica-001-v3",
+                          "correct_answer":  "C",
+                          "difficulty":  "Low",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Protón"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Neutrón"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Electrón"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Fotón"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-CIE-11-quimica-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Se tiene la siguiente ecuación química no balanceada:\n$$H_2 + O_2 \\rightarrow H_2O$$\nPara cumplir con la Ley de Conservación de la Masa, los coeficientes estequiométricos correctos para balancearla son:",
+                          "number":  4,
+                          "id":  "CO-CIE-11-quimica-001-v4",
+                          "correct_answer":  "B",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "$1, 1 \\rightarrow 1$"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "$2H_2 + 1O_2 \\rightarrow 2H_2O$"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "$1H_2 + 2O_2 \\rightarrow 2H_2O$"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "$2H_2 + 2O_2 \\rightarrow 1H_2O$"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-CIE-11-quimica-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Si se aumenta la temperatura de un gas confinado en un recipiente rígido (volumen constante), ¿qué sucede con la presión del gas?",
+                          "number":  5,
+                          "id":  "CO-CIE-11-quimica-001-v5",
+                          "correct_answer":  "A",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "Aumenta."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Disminuye."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Permanece igual."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Se hace cero."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-CIE-11-quimica-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Una solución tiene una concentración de iones hidrógeno $[H^+] = 1 \\times 10^{-5}$ M. ¿Cuál es su pH y qué tipo de solución es?",
+                          "number":  6,
+                          "id":  "CO-CIE-11-quimica-001-v6",
+                          "correct_answer":  "C",
+                          "difficulty":  "High",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "pH = 9, Básica"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "pH = 5, Básica"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "pH = 5, Ácida"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "pH = -5, Ácida"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-CIE-11-quimica-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Se hacen reaccionar 4 moles de hidrógeno ($H_2$) con 1 mol de oxígeno ($O_2$) para producir agua ($H_2O$) según la reacción: $2H_2 + O_2 \\rightarrow 2H_2O$.\n¿Cuál es el reactivo límite y cuántos moles de agua se producen teóricamente?",
+                          "number":  7,
+                          "id":  "CO-CIE-11-quimica-001-v7",
+                          "correct_answer":  "C",
+                          "difficulty":  "High",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Reactivo límite: $H_2$. Se producen 4 moles de agua."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Reactivo límite: $O_2$. Se produce 1 mol de agua."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Reactivo límite: $O_2$. Se producen 2 moles de agua."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "No hay reactivo límite. Se producen 5 moles de agua."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-CIE-11-quimica-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Una solución con pH = 3 es:",
+                          "number":  1,
+                          "id":  "CO-QUI-11-acidobase-001-v1",
+                          "correct_answer":  "A",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "Ácida"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Neutra"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Básica"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "No se puede determinar"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-QUI-11-acidobase-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Según el texto, una sustancia con pH igual a 7 se clasifica como:",
+                          "number":  2,
+                          "id":  "CO-QUI-11-acidobase-001-v2",
+                          "correct_answer":  "C",
+                          "difficulty":  "Low",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Ácida fuerte."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Básica fuerte."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Neutra."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Tóxica."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-QUI-11-acidobase-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "¿Cuál de los siguientes es un ejemplo de sustancia básica (alcalina) mencionado en el texto?",
+                          "number":  3,
+                          "id":  "CO-QUI-11-acidobase-001-v3",
+                          "correct_answer":  "C",
+                          "difficulty":  "Low",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Jugo de limón."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Vinagre."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Jabón."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Agua pura."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-QUI-11-acidobase-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Si se utiliza papel tornasol como indicador, típicamente se torna **rojo** en presencia de ácidos y **azul** en presencia de bases. Si sumerges el papel en jugo de limón (pH 2), ¿qué color esperas?",
+                          "number":  4,
+                          "id":  "CO-QUI-11-acidobase-001-v4",
+                          "correct_answer":  "A",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "Rojo."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Azul."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Verde."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Amarillo brillante."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-QUI-11-acidobase-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Se tienen dos soluciones ácidas: la Solución A con pH 2 y la Solución B con pH 5. ¿Cuál es más ácida?",
+                          "number":  5,
+                          "id":  "CO-QUI-11-acidobase-001-v5",
+                          "correct_answer":  "A",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "La Solución A."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "La Solución B."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Ambas son igual de ácidas."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Ninguna es ácida."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-QUI-11-acidobase-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Debido a que la escala de pH es logarítmica, ¿cuántas veces es más ácida una solución de pH 4 comparada con una de pH 6?",
+                          "number":  6,
+                          "id":  "CO-QUI-11-acidobase-001-v6",
+                          "correct_answer":  "C",
+                          "difficulty":  "High",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "2 veces."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "20 veces."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "100 veces."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "1000 veces."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-QUI-11-acidobase-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "En una reacción de neutralización, un ácido reacciona con una base para formar dos productos principales. Estos son generalmente:",
+                          "number":  7,
+                          "id":  "CO-QUI-11-acidobase-001-v7",
+                          "correct_answer":  "C",
+                          "difficulty":  "High",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Dos gases."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Un metal y un no metal."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Una sal y agua."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Óxidos ácidos."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-QUI-11-acidobase-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "¿Qué partícula subatómica tiene carga positiva?",
+                          "number":  1,
+                          "id":  "CO-QUI-11-atomica-001-v1",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Electrón"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Neutrón"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Protón"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Fotón"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-QUI-11-atomica-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Según el texto, ¿dónde se encuentran ubicados los neutrones en un átomo?",
+                          "number":  2,
+                          "id":  "CO-QUI-11-atomica-001-v2",
+                          "correct_answer":  "B",
+                          "difficulty":  "Low",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Orbitando alrededor del núcleo."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "En el núcleo."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Fuera del átomo."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "No tienen ubicación definida."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-QUI-11-atomica-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "¿Qué partícula subatómica tiene carga eléctrica negativa?",
+                          "number":  3,
+                          "id":  "CO-QUI-11-atomica-001-v3",
+                          "correct_answer":  "A",
+                          "difficulty":  "Low",
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "Electrón."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Protón."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Neutrón."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Núcleo."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-QUI-11-atomica-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "El Número Atómico ($Z$) de un elemento es crucial porque define su identidad química. Este número corresponde a la cantidad de:",
+                          "number":  4,
+                          "id":  "CO-QUI-11-atomica-001-v4",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Electrones en la capa de valencia."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Neutrones en el núcleo."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Protones en el núcleo."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "La suma de protones y neutrones."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-QUI-11-atomica-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Los isótopos son átomos del mismo elemento que tienen el mismo número de protones pero diferente número másico. Esto significa que difieren en la cantidad de:",
+                          "number":  5,
+                          "id":  "CO-QUI-11-atomica-001-v5",
+                          "correct_answer":  "B",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Electrones."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Neutrones."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Protones."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Niveles de energía."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-QUI-11-atomica-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Si un átomo tiene un Número Másico ($A$) de 23 y un Número Atómico ($Z$) de 11, ¿cuántos neutrones tiene en su núcleo?",
+                          "number":  6,
+                          "id":  "CO-QUI-11-atomica-001-v6",
+                          "correct_answer":  "C",
+                          "difficulty":  "High",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "23"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "11"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "12"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "34"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-QUI-11-atomica-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Un ion de Sodio ($Na^+$) tiene 11 protones. Si su carga neta es +1, ¿cuántos electrones tiene orbitando?",
+                          "number":  7,
+                          "id":  "CO-QUI-11-atomica-001-v7",
+                          "correct_answer":  "C",
+                          "difficulty":  "High",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "11"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "12"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "10"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "1"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-QUI-11-atomica-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Un átomo neutro tiene 12 protones. ¿Cuántos electrones tiene?",
+                          "number":  1,
+                          "id":  "CO-QUI-11-atomica-002-v1",
+                          "correct_answer":  "B",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "6"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "12"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "24"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Depende del isótopo"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-QUI-11-atomica-002"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Según el texto, ¿cómo se denominan las columnas verticales de la Tabla Periódica?",
+                          "number":  2,
+                          "id":  "CO-QUI-11-atomica-002-v2",
+                          "correct_answer":  "C",
+                          "difficulty":  "Low",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Periodos."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Niveles."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Grupos."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Isótopos."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-QUI-11-atomica-002"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "La electronegatividad se define en el texto como:",
+                          "number":  3,
+                          "id":  "CO-QUI-11-atomica-002-v3",
+                          "correct_answer":  "B",
+                          "difficulty":  "Low",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "El tamaño del núcleo atómico."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "La capacidad para atraer electrones."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "La cantidad de neutrones."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "La velocidad de los electrones."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-QUI-11-atomica-002"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Si el Magnesio se encuentra en el Grupo IIA (2) de la tabla periódica, ¿cuántos electrones de valencia tiene?",
+                          "number":  4,
+                          "id":  "CO-QUI-11-atomica-002-v4",
+                          "correct_answer":  "B",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "1"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "2"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "8"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "12"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-QUI-11-atomica-002"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Basado en la tendencia descrita, ¿cuál elemento sería más electronegativo (atrapa electrones con más fuerza)?",
+                          "number":  5,
+                          "id":  "CO-QUI-11-atomica-002-v5",
+                          "correct_answer":  "B",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Uno ubicado abajo a la izquierda (como el Francio)."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Uno ubicado arriba a la derecha (como el Flúor)."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Uno ubicado en el centro (Metales de transición)."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Todos tienen la misma electronegatividad."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-QUI-11-atomica-002"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Comparando el Sodio (Na, Grupo I) y el Cloro (Cl, Grupo VII), es de esperarse que el Cloro tenga:",
+                          "number":  6,
+                          "id":  "CO-QUI-11-atomica-002-v6",
+                          "correct_answer":  "C",
+                          "difficulty":  "High",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Mayor radio atómico y menor electronegatividad."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Menor electronegatividad y menor energía de ionización."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Mayor electronegatividad y menor radio atómico."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Igual tamaño y reactividad que el Sodio."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-QUI-11-atomica-002"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Los elementos del Grupo VIII (o 18) como el Neón y el Argón son conocidos como Gases Nobles. ¿Por qué son químicamente inertes (no reaccionan fácilmente)?",
+                          "number":  7,
+                          "id":  "CO-QUI-11-atomica-002-v7",
+                          "correct_answer":  "B",
+                          "difficulty":  "High",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Porque tienen núcleos muy inestables."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Porque tienen su capa de valencia completa con 8 electrones."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Porque no tienen electrones."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Porque son sólidos a temperatura ambiente."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-QUI-11-atomica-002"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "El enlace iónico se forma principalmente entre:",
+                          "number":  1,
+                          "id":  "CO-QUI-11-enlaces-001-v1",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Dos metales"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Dos no metales"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Un metal y un no metal"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Gases nobles"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-QUI-11-enlaces-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Según el texto, ¿qué caracteriza fundamentalmente al enlace covalente?",
+                          "number":  2,
+                          "id":  "CO-QUI-11-enlaces-001-v2",
+                          "correct_answer":  "B",
+                          "difficulty":  "Low",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "La transferencia total de electrones."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "El compartimiento de electrones."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "La destrucción del núcleo atómico."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "La formación de nubes metálicas."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-QUI-11-enlaces-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "¿Cuál de los siguientes es un ejemplo clásico de compuesto iónico mencionado o deducible por su composición (Metal + No Metal)?",
+                          "number":  3,
+                          "id":  "CO-QUI-11-enlaces-001-v3",
+                          "correct_answer":  "C",
+                          "difficulty":  "Low",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Agua ($H_2O$)"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Oxígeno gaseoso ($O_2$)"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Sal de mesa ($NaCl$)"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Diamante ($C$)"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-QUI-11-enlaces-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Si dos átomos de Oxígeno se unen entre sí ($O_2$), dado que ambos son no metales y tienen la misma electronegatividad, ¿qué tipo de enlace forman?",
+                          "number":  4,
+                          "id":  "CO-QUI-11-enlaces-001-v4",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Iónico."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Metálico."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Covalente."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Puente de Hidrógeno."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-QUI-11-enlaces-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Los metales son buenos conductores de la electricidad porque:",
+                          "number":  5,
+                          "id":  "CO-QUI-11-enlaces-001-v5",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Tienen enlaces covalentes muy fuertes."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Sus átomos están muy separados."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Sus electrones fluyen libremente en una \"nube electrónica\"."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Tienen una alta electronegatividad."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-QUI-11-enlaces-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Generalmente, se considera que un enlace es **Iónico** si la diferencia de electronegatividad ($\\Delta EN$) entre los átomos es mayor a 1.7. Si el Flúor tiene EN=4.0 y el Potasio tiene EN=0.8, su enlace será:",
+                          "number":  6,
+                          "id":  "CO-QUI-11-enlaces-001-v6",
+                          "correct_answer":  "B",
+                          "difficulty":  "High",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Covalente Polar ($\\Delta EN = 3.2$)"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Iónico ($\\Delta EN = 3.2$)"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Covalente Apolar ($\\Delta EN = 0.8$)"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Metálico ($\\Delta EN = 4.8$)"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-QUI-11-enlaces-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Las sustancias iónicas (como la sal) suelen ser sólidos cristalinos con altos puntos de fusión, mientras que muchas sustancias covalentes (como el agua o el azúcar) tienen puntos de fusión más bajos. Esto se debe a que:",
+                          "number":  7,
+                          "id":  "CO-QUI-11-enlaces-001-v7",
+                          "correct_answer":  "A",
+                          "difficulty":  "High",
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "La atracción electrostática entre iones en la red cristalina es muy fuerte."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Los enlaces covalentes son más fuertes que los iónicos en todos los casos."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Las sustancias covalentes no forman moléculas."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Los iones pesan más que las moléculas."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-QUI-11-enlaces-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "En la reacción: $2H_2 + O_2 \\rightarrow 2H_2O$, si se tienen 4 moles de $H_2$, ¿cuántos moles de $H_2O$ se producen?",
+                          "number":  1,
+                          "id":  "CO-QUI-11-estequiometria-001-v1",
+                          "correct_answer":  "B",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "2 moles"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "4 moles"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "6 moles"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "8 moles"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-QUI-11-estequiometria-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Según el texto, la estequiometría se fundamenta en la Ley de:",
+                          "number":  2,
+                          "id":  "CO-QUI-11-estequiometria-001-v2",
+                          "correct_answer":  "B",
+                          "difficulty":  "Low",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "La Gravedad Universal."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Conservación de la Masa."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Los Gases Ideales."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "La Inercia."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-QUI-11-estequiometria-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "En la ecuación $N_2 + 3H_2 \\rightarrow 2NH_3$, ¿qué indican los números grandes (coeficientes) antes de las fórmulas?",
+                          "number":  3,
+                          "id":  "CO-QUI-11-estequiometria-001-v3",
+                          "correct_answer":  "A",
+                          "difficulty":  "Low",
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "La proporción de moles de cada sustancia."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "El número de protones en el núcleo."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "La temperatura de la reacción."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "La velocidad de la reacción."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-QUI-11-estequiometria-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Considerando la reacción del texto ($N_2 + 3H_2 \\rightarrow 2NH_3$): Si solo dispongo de 1 mol de $N_2$ pero tengo exceso de $H_2$, ¿cuántos moles máximos de $NH_3$ puedo obtener?",
+                          "number":  4,
+                          "id":  "CO-QUI-11-estequiometria-001-v4",
+                          "correct_answer":  "B",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "1 mol."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "2 moles."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "3 moles."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "6 moles."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-QUI-11-estequiometria-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Si la masa molar del $H_2O$ es $18 \\text{ g/mol}$, ¿cuántos gramos pesan 2 moles de agua?",
+                          "number":  5,
+                          "id":  "CO-QUI-11-estequiometria-001-v5",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "18 g."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "9 g."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "36 g."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "20 g."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-QUI-11-estequiometria-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Se calculó teóricamente que una reacción debía producir 100 gramos de producto. Sin embargo, al realizarla en el laboratorio, solo se obtuvieron 80 gramos. ¿Cuál fue el porcentaje de rendimiento de la reacción?",
+                          "number":  6,
+                          "id":  "CO-QUI-11-estequiometria-001-v6",
+                          "correct_answer":  "C",
+                          "difficulty":  "High",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "125%"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "20%"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "80%"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "100%"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-QUI-11-estequiometria-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "En la reacción $2Mg + O_2 \\rightarrow 2MgO$, si deseamos producir exactamente 2 moles de Óxido de Magnesio ($MgO$), ¿cuántos moles de Oxígeno ($O_2$) necesitamos reaccionar como mínimo?",
+                          "number":  7,
+                          "id":  "CO-QUI-11-estequiometria-001-v7",
+                          "correct_answer":  "A",
+                          "difficulty":  "High",
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "1 mol"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "2 moles"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "0.5 moles"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "4 moles"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-QUI-11-estequiometria-001"
+                      }
+                  ]
+}

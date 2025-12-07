@@ -1,0 +1,231 @@
+﻿{
+    "metadata":  {
+                     "total_pages":  1,
+                     "total_questions":  7,
+                     "exam":  "icfes",
+                     "subject":  "Ciencias Naturales",
+                     "generated_at":  "2025-12-07T15:14:00Z",
+                     "country":  "CO",
+                     "grade":  "9",
+                     "page":  1
+                 },
+    "questions":  [
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "En una cadena alimenticia, ¿qué sucedería a corto plazo con la población de consumidores primarios si se eliminan los productores?",
+                          "number":  1,
+                          "id":  "CO-CIE-09-ecosistemas-001-v1",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Aumentaría debido a la falta de competencia."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Se mantendría igual, ya que pueden comer otras cosas."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Disminuiría drásticamente por falta de alimento."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Evolucionarían para convertirse en productores."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-CIE-09-ecosistemas-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "En un ecosistema, los organismos que fabrican su propio alimento utilizando la luz solar se llaman:",
+                          "number":  2,
+                          "id":  "CO-CIE-09-ecosistemas-001-v2",
+                          "correct_answer":  "B",
+                          "difficulty":  "Low",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Consumidores"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Productores"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Descomponedores"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Depredadores"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-CIE-09-ecosistemas-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "¿Cuál de los siguientes organismos es un consumidor primario (herbívoro)?",
+                          "number":  3,
+                          "id":  "CO-CIE-09-ecosistemas-001-v3",
+                          "correct_answer":  "B",
+                          "difficulty":  "Low",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "León"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Vaca"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Planta de maíz"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Hongo"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-CIE-09-ecosistemas-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Si en un bosque desaparecen los lobos (consumidores secundarios y depredadores de venados), ¿qué efecto inmediato se espera en la población de venados (consumidores primarios)?",
+                          "number":  4,
+                          "id":  "CO-CIE-09-ecosistemas-001-v4",
+                          "correct_answer":  "B",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Disminuirá drásticamente."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Aumentará rápidamente al no tener depredadores."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Los venados se volverán carnívoros."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "No habrá ningún cambio."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-CIE-09-ecosistemas-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "La energía en un ecosistema fluye en una sola dirección. ¿Cuál es la secuencia correcta del flujo de energía?",
+                          "number":  5,
+                          "id":  "CO-CIE-09-ecosistemas-001-v5",
+                          "correct_answer":  "A",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "Sol $\\rightarrow$ Productor $\\rightarrow$ Herbívoro $\\rightarrow$ Carnívoro"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Productor $\\rightarrow$ Sol $\\rightarrow$ Descomponedor"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Carnívoro $\\rightarrow$ Herbívoro $\\rightarrow$ Productor"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Sol $\\rightarrow$ Descomponedor $\\rightarrow$ Productor"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-CIE-09-ecosistemas-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Se observa que en una laguna contaminada con mercurio, los peces grandes tienen concentraciones mucho mayores del tóxico que las algas. Este fenómeno se conoce como:",
+                          "number":  6,
+                          "id":  "CO-CIE-09-ecosistemas-001-v6",
+                          "correct_answer":  "C",
+                          "difficulty":  "High",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Eutrofización"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Fotosíntesis"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Bioacumulación (o Biomagnificación)"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Descomposición"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-CIE-09-ecosistemas-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Introducir una especie exótica invasora (como el hipopótamo en Colombia) en un ecosistema nuevo suele ser perjudicial porque:",
+                          "number":  7,
+                          "id":  "CO-CIE-09-ecosistemas-001-v7",
+                          "correct_answer":  "C",
+                          "difficulty":  "High",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Aumenta la biodiversidad general del planeta."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Las especies nativas se comen a la invasora rápidamente."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Compite por recursos sin tener depredadores naturales, desplazando a las nativas."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Mejora la calidad del suelo para las plantas locales."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-CIE-09-ecosistemas-001"
+                      }
+                  ]
+}

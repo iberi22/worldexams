@@ -1,0 +1,448 @@
+﻿{
+    "metadata":  {
+                     "total_pages":  1,
+                     "total_questions":  14,
+                     "exam":  "icfes",
+                     "subject":  "Lenguaje",
+                     "generated_at":  "2025-12-07T15:14:00Z",
+                     "country":  "CO",
+                     "grade":  "9",
+                     "page":  1
+                 },
+    "questions":  [
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "En el fragmento, la frase \"simétricas e interminables\" referida a las plantaciones de banano tiene como propósito:",
+                          "number":  1,
+                          "id":  "CO-LEN-09-comprension-001-v1",
+                          "correct_answer":  "B",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Describir la belleza natural del paisaje costeño."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Transmitir una sensación de monotonía y opresión."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Informar sobre la extensión del cultivo de banano."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Exaltar el progreso agrícola de la región."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-LEN-09-comprension-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Según el texto, ¿qué medio de transporte se menciona?",
+                          "number":  2,
+                          "id":  "CO-LEN-09-comprension-001-v2",
+                          "correct_answer":  "A",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "El tren"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Un bus"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Un avión"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Un barco"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-LEN-09-comprension-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "¿Qué hora era cuando ocurren los hechos del fragmento?",
+                          "number":  3,
+                          "id":  "CO-LEN-09-comprension-001-v3",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Las nueve de la mañana"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Las diez de la mañana"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Las once de la mañana"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "El mediodía"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-LEN-09-comprension-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "La expresión \"aún no había empezado el calor\" al final del fragmento sugiere que:",
+                          "number":  4,
+                          "id":  "CO-LEN-09-comprension-001-v4",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "El clima era fresco y agradable durante todo el día."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "El narrador se queja del mal tiempo."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Las condiciones atmosféricas empeorarán a medida que avance el día."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "El tren viajaba con aire acondicionado."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-LEN-09-comprension-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "¿Cuál es la tesis principal del texto?",
+                          "number":  5,
+                          "id":  "CO-LEN-09-comprension-001-v5",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "La industrialización es necesaria para el desarrollo económico de Colombia."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "El río Bogotá era importante para los muiscas."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Recuperar el río Bogotá es un asunto de justicia social, no solo ambiental."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Las comunidades ribereñas deben mudarse a zonas más seguras."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-LEN-09-comprension-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "En el segundo párrafo, la expresión \"una transferencia de costos de los poderosos hacia los desposeídos\" es:",
+                          "number":  6,
+                          "id":  "CO-LEN-09-comprension-001-v6",
+                          "correct_answer":  "B",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Una metáfora sobre la economía colombiana."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Una crítica al modelo de desarrollo que beneficia a unos y perjudica a otros."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Una definición técnica de contaminación ambiental."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Una propuesta de solución al problema del río."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-LEN-09-comprension-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "¿Cuál de las siguientes afirmaciones debilitaría MÁS el argumento del autor?",
+                          "number":  7,
+                          "id":  "CO-LEN-09-comprension-001-v7",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "El río Bogotá ha estado contaminado desde la época colonial."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Existen plantas de tratamiento de aguas residuales en la ciudad."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Las industrias más contaminantes emplean principalmente a personas de las comunidades ribereñas."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Otros ríos de Colombia también están contaminados."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-LEN-09-comprension-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Complete la oración con el conector lógico adecuado:\n\"El estudiante estudió toda la noche; __________, no logró aprobar el examen.\"",
+                          "number":  1,
+                          "id":  "CO-LEN-09-produccion-001-v1",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "por lo tanto"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "además"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "sin embargo"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "debido a que"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-LEN-09-produccion-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "¿Cuál de las siguientes palabras es un sinónimo de \"Hogar\"?",
+                          "number":  2,
+                          "id":  "CO-LEN-09-produccion-001-v2",
+                          "correct_answer":  "B",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Edificio"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Casa"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Oficina"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Calle"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-LEN-09-produccion-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Identifique el sujeto en la oración: \"Los pájaros cantan en la mañana.\"",
+                          "number":  3,
+                          "id":  "CO-LEN-09-produccion-001-v3",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Cantan"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "En la mañana"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Los pájaros"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "La mañana"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-LEN-09-produccion-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "¿Cuál es la forma correcta de escribir la palabra que falta?\n\"Voy a _______ el agua para el café.\"",
+                          "number":  4,
+                          "id":  "CO-LEN-09-produccion-001-v4",
+                          "correct_answer":  "B",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "herver"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "hervir"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "erbir"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "herbir"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-LEN-09-produccion-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Elija la oración que tiene la puntuación correcta:",
+                          "number":  5,
+                          "id":  "CO-LEN-09-produccion-001-v5",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Ayer, fuimos al parque y, comimos helado."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Ayer fuimos, al parque y comimos helado."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Ayer fuimos al parque y comimos helado."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Ayer fuimos al parque, y, comimos helado."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-LEN-09-produccion-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "\"Es necesario que la sociedad **tome** conciencia.\" El verbo resaltado está conjugado en modo:",
+                          "number":  6,
+                          "id":  "CO-LEN-09-produccion-001-v6",
+                          "correct_answer":  "B",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Indicativo"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Subjuntivo"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Imperativo"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Infinitivo"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-LEN-09-produccion-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Identifique el tipo de oración subordinada en: \"El libro **que me prestaste** es excelente.\"",
+                          "number":  7,
+                          "id":  "CO-LEN-09-produccion-001-v7",
+                          "correct_answer":  "B",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Sustantiva"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Adjetiva (o de relativo)"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Adverbial"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Coordinada"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-LEN-09-produccion-001"
+                      }
+                  ]
+}

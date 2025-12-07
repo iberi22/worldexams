@@ -1,0 +1,231 @@
+﻿{
+    "metadata":  {
+                     "total_pages":  1,
+                     "total_questions":  7,
+                     "exam":  "icfes",
+                     "subject":  "Ciencias Naturales",
+                     "generated_at":  "2025-12-07T15:14:01Z",
+                     "country":  "CO",
+                     "grade":  "5",
+                     "page":  1
+                 },
+    "questions":  [
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "La unidad más pequeña que forma a todos los seres vivos y realiza funciones vitales se llama:",
+                          "number":  1,
+                          "id":  "CO-CIE-05-vivo-001-v1",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Tejido"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Órgano"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Célula"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Hueso"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-CIE-05-vivo-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "¿Qué necesitan las plantas para fabricar su propio alimento?",
+                          "number":  2,
+                          "id":  "CO-CIE-05-vivo-001-v2",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Solo agua"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Oscuridad"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Luz del sol, agua y aire"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Comida para perros"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-CIE-05-vivo-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Los animales que nacen de huevos (como las gallinas o tortugas) se llaman:",
+                          "number":  3,
+                          "id":  "CO-CIE-05-vivo-001-v3",
+                          "correct_answer":  "B",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Vivíparos"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Ovíparos"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Mamíferos"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Acuáticos"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-CIE-05-vivo-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "¿Cuál es la función principal del sistema digestivo en el cuerpo humano?",
+                          "number":  4,
+                          "id":  "CO-CIE-05-vivo-001-v4",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Bombear sangre."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Permitirnos respirar."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Transformar los alimentos en nutrientes."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Sostener el cuerpo."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-CIE-05-vivo-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "En la cadena alimenticia, ¿quién se come a quién?\nPasto $\\rightarrow$ Grillo $\\rightarrow$ Sapo $\\rightarrow$ Serpiente.\nEl productor en esta cadena es:",
+                          "number":  5,
+                          "id":  "CO-CIE-05-vivo-001-v5",
+                          "correct_answer":  "A",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "El pasto"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "El grillo"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "El sapo"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "La serpiente"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-CIE-05-vivo-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Si colocamos una planta en una caja totalmente oscura durante una semana, ¿qué le pasará a sus hojas?",
+                          "number":  6,
+                          "id":  "CO-CIE-05-vivo-001-v6",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Se pondrán más verdes."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Crecerán flores."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Se pondrán amarillas y la planta se debilitará."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "No les pasará nada."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-CIE-05-vivo-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "¿Cuál es la diferencia principal entre una célula animal y una vegetal?",
+                          "number":  7,
+                          "id":  "CO-CIE-05-vivo-001-v7",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "La animal es verde y la vegetal roja."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "La animal tiene núcleo y la vegetal no."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "La vegetal tiene pared celular y cloroplastos, la animal no."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "La animal tiene pared celular y la vegetal no."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-CIE-05-vivo-001"
+                      }
+                  ]
+}

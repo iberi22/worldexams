@@ -1,0 +1,231 @@
+﻿{
+    "metadata":  {
+                     "total_pages":  1,
+                     "total_questions":  7,
+                     "exam":  "icfes",
+                     "subject":  "Matemáticas",
+                     "generated_at":  "2025-12-07T15:14:00Z",
+                     "country":  "CO",
+                     "grade":  "7",
+                     "page":  1
+                 },
+    "questions":  [
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Para preparar un postre para 4 personas se necesitan 200 gramos de harina. Si se quiere preparar el mismo postre para 10 personas, ¿cuántos gramos de harina se necesitan?",
+                          "number":  1,
+                          "id":  "CO-MAT-07-racionales-001-v1",
+                          "correct_answer":  "B",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "400 g"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "500 g"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "600 g"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "300 g"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-07-racionales-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "¿Cuál de los siguientes números es un número entero negativo?",
+                          "number":  2,
+                          "id":  "CO-MAT-07-racionales-001-v2",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "5"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "0"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "-3"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "1.5"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-07-racionales-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Al sumar $-5 + 8$, el resultado es:",
+                          "number":  3,
+                          "id":  "CO-MAT-07-racionales-001-v3",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "-13"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "-3"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "3"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "13"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-07-racionales-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Un buzo se encuentra a -10 metros de profundidad y desciende 5 metros más. ¿A qué profundidad está ahora?",
+                          "number":  4,
+                          "id":  "CO-MAT-07-racionales-001-v4",
+                          "correct_answer":  "B",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "-5 metros"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "-15 metros"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "5 metros"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "15 metros"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-07-racionales-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Si un automóvil recorre 60 km en 1 hora. ¿Cuántos km recorrerá en 2.5 horas manteniendo la misma velocidad?",
+                          "number":  5,
+                          "id":  "CO-MAT-07-racionales-001-v5",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "120 km"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "180 km"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "150 km"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "90 km"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-07-racionales-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "En una tienda, una camisa cuesta $\\$50.000$ pero tiene un descuento del 20%. ¿Cuál es el precio final a pagar?",
+                          "number":  6,
+                          "id":  "CO-MAT-07-racionales-001-v6",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "$\\$10.000$"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "$\\$30.000$"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "$\\$40.000$"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "$\\$45.000$"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-07-racionales-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Ordene de menor a mayor los siguientes números racionales: $-0.5$, $\\frac{1}{2}$, $-1$, $0$.",
+                          "number":  7,
+                          "id":  "CO-MAT-07-racionales-001-v7",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "$-1, -0.5, 0, \\frac{1}{2}$"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "$0, \\frac{1}{2}, -0.5, -1$"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "$-1, -0.5, 0, \\frac{1}{2}$"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "$\\frac{1}{2}, 0, -0.5, -1$"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-MAT-07-racionales-001"
+                      }
+                  ]
+}

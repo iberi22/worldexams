@@ -1,0 +1,231 @@
+﻿{
+    "metadata":  {
+                     "total_pages":  1,
+                     "total_questions":  7,
+                     "exam":  "standard",
+                     "subject":  "Ciencias Sociales",
+                     "generated_at":  "2025-12-07T15:14:01Z",
+                     "country":  "unknown",
+                     "grade":  "11",
+                     "page":  1
+                 },
+    "questions":  [
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "# Pregunta\nUna de las consecuencias económicas más directas de la globalización en los países en vía de desarrollo ha sido:",
+                          "number":  1,
+                          "id":  "NAT80835-01-v1",
+                          "correct_answer":  "B",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "El aislamiento total de sus mercados locales."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "La interdependencia económica y la apertura de mercados."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "La eliminación completa de la pobreza extrema."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "La prohibición de importar tecnología extranjera."
+                                          }
+                                      ],
+                          "bundle_id":  "NAT80835-01"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "TODO: Generar variación de tipo Low A",
+                          "number":  2,
+                          "id":  "NAT80835-01-v2",
+                          "correct_answer":  "",
+                          "difficulty":  "Low",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Opción 1"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Opción 2"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Opción 3"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Opción 4"
+                                          }
+                                      ],
+                          "bundle_id":  "NAT80835-01"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "TODO: Generar variación de tipo Low B",
+                          "number":  3,
+                          "id":  "NAT80835-01-v3",
+                          "correct_answer":  "",
+                          "difficulty":  "Low",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Opción 1"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Opción 2"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Opción 3"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Opción 4"
+                                          }
+                                      ],
+                          "bundle_id":  "NAT80835-01"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "TODO: Generar variación de tipo Medium A",
+                          "number":  4,
+                          "id":  "NAT80835-01-v4",
+                          "correct_answer":  "",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Opción 1"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Opción 2"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Opción 3"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Opción 4"
+                                          }
+                                      ],
+                          "bundle_id":  "NAT80835-01"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "TODO: Generar variación de tipo Medium B",
+                          "number":  5,
+                          "id":  "NAT80835-01-v5",
+                          "correct_answer":  "",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Opción 1"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Opción 2"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Opción 3"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Opción 4"
+                                          }
+                                      ],
+                          "bundle_id":  "NAT80835-01"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "TODO: Generar variación de tipo High A",
+                          "number":  6,
+                          "id":  "NAT80835-01-v6",
+                          "correct_answer":  "",
+                          "difficulty":  "High",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Opción 1"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Opción 2"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Opción 3"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Opción 4"
+                                          }
+                                      ],
+                          "bundle_id":  "NAT80835-01"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "TODO: Generar variación de tipo High B",
+                          "number":  7,
+                          "id":  "NAT80835-01-v7",
+                          "correct_answer":  "",
+                          "difficulty":  "High",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Opción 1"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Opción 2"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Opción 3"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Opción 4"
+                                          }
+                                      ],
+                          "bundle_id":  "NAT80835-01"
+                      }
+                  ]
+}

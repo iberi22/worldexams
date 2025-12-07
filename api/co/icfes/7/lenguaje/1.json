@@ -1,0 +1,231 @@
+﻿{
+    "metadata":  {
+                     "total_pages":  1,
+                     "total_questions":  7,
+                     "exam":  "icfes",
+                     "subject":  "Lenguaje",
+                     "generated_at":  "2025-12-07T15:14:01Z",
+                     "country":  "CO",
+                     "grade":  "7",
+                     "page":  1
+                 },
+    "questions":  [
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Según el texto, la principal causa de que el oso de anteojos esté en estado vulnerable es:",
+                          "number":  1,
+                          "id":  "CO-LEN-07-textual-001-v1",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "La falta de alimento en los páramos."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "La caza indiscriminada."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "La destrucción de su hábitat."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "El cambio climático."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-LEN-07-textual-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "¿En qué continente vive el oso de anteojos?",
+                          "number":  2,
+                          "id":  "CO-LEN-07-textual-001-v2",
+                          "correct_answer":  "B",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Norteamérica"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Sudamérica"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Europa"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Asia"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-LEN-07-textual-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "El término \"omnivoro\" significa que el oso:",
+                          "number":  3,
+                          "id":  "CO-LEN-07-textual-001-v3",
+                          "correct_answer":  "D",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Solo come carne."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Solo come plantas."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "No come nada."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "D",
+                                              "text":  "Come de todo (plantas y animales)."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-LEN-07-textual-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "La intención principal del autor de este texto es:",
+                          "number":  4,
+                          "id":  "CO-LEN-07-textual-001-v4",
+                          "correct_answer":  "B",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Narrar un cuento sobre un oso."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Informar sobre las características del oso de anteojos."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Convencer a la gente de comprar osos."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Expresar sus sentimientos hacia el oso."
+                                          }
+                                      ],
+                          "bundle_id":  "CO-LEN-07-textual-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "En la oración \"Los árboles **frondosos** daban mucha sombra\", la palabra destacada es un:",
+                          "number":  5,
+                          "id":  "CO-LEN-07-textual-001-v5",
+                          "correct_answer":  "B",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Sustantivo"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Adjetivo"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Verbo"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Adverbio"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-LEN-07-textual-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "Lee: \"Estudié mucho, **así que** me fue bien\". El conector resaltado indica:",
+                          "number":  6,
+                          "id":  "CO-LEN-07-textual-001-v6",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Oposición (contraste)"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Causa"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Consecuencia (efecto)"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Adición"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-LEN-07-textual-001"
+                      },
+                      {
+                          "source_url":  "https://www.icfes.gov.co",
+                          "statement":  "En una narración, el momento de mayor tensión o emoción antes del desenlace se llama:",
+                          "number":  7,
+                          "id":  "CO-LEN-07-textual-001-v7",
+                          "correct_answer":  "C",
+                          "difficulty":  "Medium",
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Inicio"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Nudo"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Clímax"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Moraleja"
+                                          }
+                                      ],
+                          "bundle_id":  "CO-LEN-07-textual-001"
+                      }
+                  ]
+}
