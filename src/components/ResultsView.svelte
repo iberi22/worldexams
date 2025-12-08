@@ -72,6 +72,31 @@
       onRestart();
     }
   }
+
+  // Share Results
+  async function shareResults() {
+    const shareText = `📚 ${countryName}\n\n🏆 Mi puntaje: ${score.score}/${score.total} (${percentage}%)\n${performanceMessage}\n\nPrueba tus conocimientos en:\nhttps://worldexams.github.io`;
+
+    if (navigator.share) {
+      try {
+        await navigator.share({
+          title: `Resultados - ${countryName}`,
+          text: shareText,
+          url: 'https://worldexams.github.io',
+        });
+      } catch (e) {
+        console.log('Error sharing:', e);
+      }
+    } else {
+      // Fallback copy to clipboard
+      try {
+        await navigator.clipboard.writeText(shareText);
+        alert('¡Resultado copiado al portapapeles!');
+      } catch (err) {
+        console.error('Failed to copy text: ', err);
+      }
+    }
+  }
 </script>
 
 <div class="min-h-screen w-full flex flex-col animate-fade-in">
@@ -241,6 +266,12 @@
           🔄 Intentar de Nuevo
         </button>
       {/if}
+      <button
+        onclick={shareResults}
+        class="px-6 py-3 bg-accent-gold/20 border border-accent-gold/50 text-accent-gold hover:bg-accent-gold hover:text-bg-primary transition-colors uppercase text-xs tracking-widest font-bold rounded-lg"
+      >
+        📤 Compartir Resultado
+      </button>
       <button
         onclick={handleHome}
         class="px-6 py-3 border border-white/20 hover:bg-white/10 transition-colors uppercase text-xs tracking-widest font-bold rounded-lg"

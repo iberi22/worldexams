@@ -13,6 +13,11 @@ export async function getStaticPaths() {
     }));
 }
 
+import { parseQuestionsFromBundle } from '../../../lib/bundleParser';
+// ... (imports)
+
+// ... (getStaticPaths)
+
 const { country } = Astro.params;
 const { countryData } = Astro.props;
 
@@ -28,53 +33,19 @@ const countryQuestions = allQuestions.filter(q => {
   return questionPath === '_shared' || questionPath === countryFolder;
 });
 
-// Parse markdown content to extract question data
-async function parseQuestion(entry: typeof countryQuestions[0]) {
-  const { Content } = await entry.render();
-  const rawContent = entry.body;
+// Shuffle and take bundles (not questions directly, but bundles)
+// Note: Each bundle has 7 questions. If we want 10 questions total,
+// we should take 2 bundles (14 qs) and slice, or take more.
+const shuffledBundles = countryQuestions.sort(() => Math.random() - 0.5);
+const selectedBundles = shuffledBundles.slice(0, 5); // Take top 5 bundles -> ~35 questions
 
-  // Parse the markdown structure
-  const sections = rawContent.split(/^#\s+/m).filter(Boolean);
+// Parse and flatten
+const parsedBundles = selectedBundles.map(parseQuestionsFromBundle);
+const allParsedQuestions = parsedBundles.flat();
 
-  let questionText = '';
-  let options: { letter: string; text: string; isCorrect: boolean }[] = [];
-  let explanation = '';
+// Now slice to 10 for the quiz
+const questions = allParsedQuestions.slice(0, 10);
 
-  for (const section of sections) {
-    const lines = section.trim().split('\n');
-    const title = lines[0]?.toLowerCase() || '';
-    const content = lines.slice(1).join('\n').trim();
-
-    if (title.includes('pregunta') || title.includes('question') || title.includes('pergunta')) {
-      questionText = content;
-    } else if (title.includes('opciones') || title.includes('options') || title.includes('opções')) {
-      const optionMatches = content.matchAll(/- \[([ x])\] ([A-D])\) (.+)/g);
-      for (const match of optionMatches) {
-        options.push({
-          letter: match[2],
-          text: match[3],
-          isCorrect: match[1] === 'x',
-        });
-      }
-    } else if (title.includes('explicación') || title.includes('explanation') || title.includes('explicação')) {
-      explanation = content;
-    }
-  }
-
-  return {
-    id: entry.id,
-    content: questionText,
-    options,
-    explanation,
-    subject: entry.data.asignatura,
-    topic: entry.data.tema,
-  };
-}
-
-// Shuffle and take 10 questions
-const shuffled = countryQuestions.sort(() => Math.random() - 0.5);
-const selected = shuffled.slice(0, 10);
-const questions = await Promise.all(selected.map(parseQuestion));
 ---
 
 <Layout title={`Práctica - ${countryData.name}`}>

@@ -1,0 +1,20 @@
+
+> worldexams@1.0.0 build
+> astro build
+
+[2m21:26:49[22m [34m[content][39m Syncing content
+[2m21:26:49[22m [34m[content][39m Content config changed
+[2m21:26:49[22m [34m[content][39m Clearing content store
+[InvalidContentEntryDataError] questions ÔåÆ colombia/lectura-critica/grado-11/textos-continuos/co-lec-11-textos-continuos-002-bundle data does not match collection schema.
+
+  estado**: **estado: Invalid enum value. Expected 'draft' | 'published' | 'archived' | 'public', received 'review'
+
+  Hint:
+    See https://docs.astro.build/en/guides/content-collections/ for more information on content schemas.
+  Error reference:
+    https://docs.astro.build/en/reference/errors/invalid-content-entry-data-error/
+  Location:
+    E:\scripts-python\worldexams\src\content\questions\colombia\lectura-critica\grado-11\textos-continuos\CO-LEC-11-textos-continuos-002-bundle.md:0:0
+  Stack trace:
+    at getEntryDataAndImages (file:///E:/scripts-python/worldexams/node_modules/astro/dist/content/utils.js:161:26)
+    at async syncData (file:///E:/scripts-python/worldexams/node_modules/astro/dist/content/loaders/glob.js:94:28)

@@ -17,7 +17,14 @@ interface Props {
   lang: string;
 }
 
-const { countryCode, countryName, flag, examName, colors, lang } = Astro.props;
+const {
+  countryCode = 'un',
+  countryName = 'World',
+  flag = '🌍',
+  examName = 'Global Exams',
+  colors = { primary: '#FFFFFF', secondary: '#888888', tertiary: '#000000' },
+  lang = 'en'
+} = Astro.props;
 
 // Translations
 const translations: Record<string, Record<string, string>> = {

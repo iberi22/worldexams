@@ -1,44 +1,49 @@
 import { defineCollection, z } from 'astro:content';
 
 /**
- * Question Collection Schema
- *
- * Preguntas se organizan en:
- * - _shared/: Preguntas universales (mat, ciencias, lenguaje)
- * - [país]/: Preguntas específicas por país (colombia/, mexico/, etc.)
+ * Question Bundle Collection Schema
+ * Each file contains a bundle of 7 questions (1 original + 2 Low + 2 Medium + 2 High)
  */
 const questions = defineCollection({
   type: 'content',
   schema: z.object({
-    // Identificador único de la pregunta
+    // Bundle ID (e.g., CO-BIO-11-celular-001)
     id: z.string(),
 
-    // País específico (undefined = _shared/universal)
+    // Country code
     country: z.string().optional(),
 
-    // Grado escolar (3-11)
+    // Grade level (3-11)
     grado: z.number().int().min(3).max(11),
 
-    // Asignatura principal
+    // Subject
     asignatura: z.string(),
 
-    // Tema específico dentro de la asignatura
+    // Specific topic
     tema: z.string(),
 
-    // Nivel de dificultad (1-5)
-    dificultad: z.number().int().min(1).max(5),
+    // Protocol info
+    protocol_version: z.string().optional(),
+    total_questions: z.number().optional(),
+    difficulty_distribution: z.string().optional(),
 
-    // Estado de publicación
-    estado: z.enum(['draft', 'published', 'archived']),
+    // Publication state
+    // 'public' is used in current markdown files
+    estado: z.enum(['draft', 'published', 'archived', 'public', 'review']).optional(),
 
-    // Creador de la pregunta
-    creador: z.string(),
+    // Metadata
+    creador: z.string().optional(),
+    generation_date: z.string().optional(),
 
-    // Metadatos adicionales opcionales
+    // Source Attribution
+    source_url: z.string().optional(),
+    source_license: z.string().optional(),
+    source_id: z.string().optional(),
+
+    // Optional fields for legacy or future compatibility
     llm_model: z.string().optional(),
     agent: z.string().optional(),
     ide: z.string().optional(),
-    source: z.string().optional(),
     group_id: z.string().optional(),
   }),
 });

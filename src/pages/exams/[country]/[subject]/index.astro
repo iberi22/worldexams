@@ -9,6 +9,7 @@ import Layout from '../../../../layouts/Layout.astro';
 import ExamView from '../../../../components/ExamView.svelte';
 import { countries } from '../../../../data/countries';
 import { getCollection } from 'astro:content';
+import { parseQuestionsFromBundle } from '../../../../lib/bundleParser';
 
 export async function getStaticPaths() {
   const allQuestions = await getCollection('questions');
@@ -36,7 +37,7 @@ export async function getStaticPaths() {
       paths.push({
         params: {
           country: countryCode,
-          subject: subject.toLowerCase().replace(/\s+/g, '-'),
+          subject: subject.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\s+/g, '-'),
         },
         props: {
           countryData: country,
@@ -50,6 +51,8 @@ export async function getStaticPaths() {
   return paths;
 }
 
+// ... (imports moved to top)
+
 const { country, subject } = Astro.params;
 const { countryData, subjectName, countryFolder } = Astro.props;
 
@@ -59,58 +62,21 @@ const allQuestions = await getCollection('questions');
 const subjectQuestions = allQuestions.filter(q => {
   const questionPath = q.id.split('/')[0];
   const isCountryMatch = questionPath === '_shared' || questionPath === countryFolder;
-  const subjectSlug = q.data.asignatura.toLowerCase().replace(/\s+/g, '-');
+  // Handle cases where asignatura might be undefined if schema validation failed (shouldn't happen with strict schema)
+  if (!q.data.asignatura) return false;
+  const subjectSlug = q.data.asignatura.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\s+/g, '-');
   return isCountryMatch && subjectSlug === subject;
 });
 
-// Parse markdown content to extract question data
-async function parseQuestion(entry: typeof subjectQuestions[0]) {
-  const rawContent = entry.body;
-
-  // Parse the markdown structure
-  const sections = rawContent.split(/^#\s+/m).filter(Boolean);
-
-  let questionText = '';
-  let options: { letter: string; text: string; isCorrect: boolean }[] = [];
-  let explanation = '';
-
-  for (const section of sections) {
-    const lines = section.trim().split('\n');
-    const title = lines[0]?.toLowerCase() || '';
-    const content = lines.slice(1).join('\n').trim();
-
-    if (title.includes('pregunta') || title.includes('question') || title.includes('pergunta')) {
-      questionText = content;
-    } else if (title.includes('opciones') || title.includes('options') || title.includes('opções')) {
-      const optionMatches = content.matchAll(/- \[([ x])\] ([A-D])\) (.+)/g);
-      for (const match of optionMatches) {
-        options.push({
-          letter: match[2],
-          text: match[3],
-          isCorrect: match[1] === 'x',
-        });
-      }
-    } else if (title.includes('explicación') || title.includes('explanation') || title.includes('explicação')) {
-      explanation = content;
-    }
-  }
-
-  return {
-    id: entry.id,
-    content: questionText,
-    options,
-    explanation,
-    subject: entry.data.asignatura,
-    topic: entry.data.tema,
-  };
-}
-
-// Get available grades for filtering
+// Get available grades for filtering (from bundles)
 const availableGrades = [...new Set(subjectQuestions.map(q => q.data.grado))].sort((a, b) => a - b);
 
-// Parse all questions (shuffled)
-const shuffled = subjectQuestions.sort(() => Math.random() - 0.5);
-const questions = await Promise.all(shuffled.map(parseQuestion));
+// Parse all bundles and flatten into questions
+// Randomize bundles first
+const shuffledBundles = subjectQuestions.sort(() => Math.random() - 0.5);
+const parsedBundles = shuffledBundles.map(parseQuestionsFromBundle);
+const questions = parsedBundles.flat();
+
 ---
 
 <Layout title={`${subjectName} - ${countryData.name}`}>
