@@ -1,0 +1,252 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "explanation": "La **célula** es la unidad estructural y funcional básica de la vida. Los tejidos y órganos están formados por células.\n**Competencia evaluada:** Concepto básico.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-CIE-05-vivo-001",
+      "statement": "La unidad más pequeña que forma a todos los seres vivos y realiza funciones vitales se llama:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tejido",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Órgano",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Célula",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Hueso",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-CIE-05-vivo-001-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "Fotosíntesis: Requiere luz solar, agua ($H_2O$) y dióxido de carbono ($CO_2$) del aire.\n**Competencia evaluada:** Uso comprensivo - Fotosíntesis.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-CIE-05-vivo-001",
+      "statement": "¿Qué necesitan las plantas para fabricar su propio alimento?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo agua",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Oscuridad",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Luz del sol, agua y aire",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Comida para perros",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-CIE-05-vivo-001-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "Clasificación reproductiva:\n*   Ovíparos: Nacen de huevos.\n*   Vivíparos: Nacen vivos del vientre materno.\n**Competencia evaluada:** Uso comprensivo - Clasificación.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-CIE-05-vivo-001",
+      "statement": "Los animales que nacen de huevos (como las gallinas o tortugas) se llaman:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vivíparos",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Ovíparos",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Mamíferos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Acuáticos",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-CIE-05-vivo-001-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "La digestión es el proceso de descomponer alimentos para absorber sus nutrientes.\n*   A: Circulatorio.\n*   B: Respiratorio.\n*   D: Óseo.\n**Competencia evaluada:** Uso comprensivo - Sistemas del cuerpo.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-CIE-05-vivo-001",
+      "statement": "¿Cuál es la función principal del sistema digestivo en el cuerpo humano?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bombear sangre.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Permitirnos respirar.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Transformar los alimentos en nutrientes.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Sostener el cuerpo.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-CIE-05-vivo-001-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "Los productores son siempre las plantas (el pasto), que inician la cadena con energía solar.\n**Competencia evaluada:** Explicación - Cadenas tróficas.\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-CIE-05-vivo-001",
+      "statement": "En la cadena alimenticia, ¿quién se come a quién?\nPasto $\\rightarrow$ Grillo $\\rightarrow$ Sapo $\\rightarrow$ Serpiente.\nEl productor en esta cadena es:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El pasto",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El grillo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El sapo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La serpiente",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-CIE-05-vivo-001-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "Sin luz, la planta no puede hacer fotosíntesis ni producir clorofila (pigmento verde), por lo que se pone amarilla (clorosis) y eventualmente muere de hambre.\n**Competencia evaluada:** Indagación - Experimento simple.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-CIE-05-vivo-001",
+      "statement": "Si colocamos una planta en una caja totalmente oscura durante una semana, ¿qué le pasará a sus hojas?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se pondrán más verdes.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Crecerán flores.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Se pondrán amarillas y la planta se debilitará.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "No les pasará nada.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-CIE-05-vivo-001-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "Distinción clave: Las células vegetales tienen **pared celular** (rigidez) y **cloroplastos** (para fotosíntesis), estructuras ausentes en la célula animal.\n**Competencia evaluada:** Uso comprensivo - Diferenciación celular.\n---\n## 📊 Metadata de Validación\n| Pregunta | ID | Dificultad | Competencia ICFES | Componente | Validado |\n|----------|-----|------------|-------------------|------------|----------|\n| 1 | v1 | Medium | Concepto | Entorno Vivo | ⬜ |\n| 2 | v2 | Low | Uso comprensivo | Entorno Vivo | ⬜ |\n| 3 | v3 | Low | Uso comprensivo | Entorno Vivo | ⬜ |\n| 4 | v4 | Medium | Uso comprensivo | Entorno Vivo | ⬜ |\n| 5 | v5 | Medium | Explicación | Entorno Vivo | ⬜ |\n| 6 | v6 | High | Indagación | Entorno Vivo | ⬜ |\n| 7 | v7 | High | Uso comprensivo | Entorno Vivo | ⬜ |",
+      "correct_answer": "C",
+      "bundle_id": "CO-CIE-05-vivo-001",
+      "statement": "¿Cuál es la diferencia principal entre una célula animal y una vegetal?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La animal es verde y la vegetal roja.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La animal tiene núcleo y la vegetal no.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La vegetal tiene pared celular y cloroplastos, la animal no.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "La animal tiene pared celular y la vegetal no.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-CIE-05-vivo-001-v7"
+    }
+  ],
+  "metadata": {
+    "total_questions": 7,
+    "exam": "icfes",
+    "total_pages": 1.0,
+    "page": 1,
+    "grade": "5",
+    "generated_at": "2025-12-08T00:20:16Z",
+    "subject": "Ciencias Naturales",
+    "country": "CO"
+  }
+}

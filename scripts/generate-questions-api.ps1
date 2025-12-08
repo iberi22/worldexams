@@ -1,16 +1,17 @@
 <#
 .SYNOPSIS
-    Generates a Granular JSON API directory structure for exam questions.
+    Generates a Granular JSON API directory structure for exam questions (v1).
 .DESCRIPTION
     Scans all bundle markdown files, organizes questions by Country > Exam > Grade > Subject,
-    and generates paginated JSON files (max 100 questions per file).
+    and generates paginated JSON files (max 100 questions per file) plus an index.json summary.
 .OUTPUTS
-    Creates structure: api/{country}/{exam}/{grade}/{subject}/{page}.json
+    Creates structure: api/v1/{country}/{exam}/{grade}/{subject}/{page}.json
 #>
 
 param(
     [string]$QuestionsPath = "e:\scripts-python\worldexams\src\content\questions",
-    [string]$OutputPath = "e:\scripts-python\worldexams\api"
+    [string]$OutputPath = "e:\scripts-python\worldexams\api",
+    [string]$ApiVersion = "v1"
 )
 
 # Function to sanitize filenames (remove accents, spaces to underscores, lowercase)
@@ -28,11 +29,13 @@ function Get-SanitizedName {
     return ($ascii -replace '\s+', '_' -replace '[^a-zA-Z0-9_\-]', '').ToLower()
 }
 
-# Clear existing API output (except if it's the root folder itself, just content)
-if (Test-Path $OutputPath) {
-    Get-ChildItem -Path $OutputPath -Exclude ".gitkeep" | Remove-Item -Recurse -Force
+$VersionedOutputPath = Join-Path $OutputPath $ApiVersion
+
+# Clear existing API output for this version
+if (Test-Path $VersionedOutputPath) {
+    Get-ChildItem -Path $VersionedOutputPath -Recurse | Remove-Item -Recurse -Force
 } else {
-    New-Item -ItemType Directory -Path $OutputPath -Force | Out-Null
+    New-Item -ItemType Directory -Path $VersionedOutputPath -Force | Out-Null
 }
 
 $bundles = Get-ChildItem -Path $QuestionsPath -Recurse -Filter "*-bundle.md"
@@ -40,7 +43,7 @@ $bundles = Get-ChildItem -Path $QuestionsPath -Recurse -Filter "*-bundle.md"
 # Hashtable to hold questions grouped by the hierarchy
 # Structure: $groupedQuestions["country|exam|grade|sanitizedSubject"] = @(questions list)
 $groupedQuestions = @{}
-# Metadata store to keep track of real subject names
+# Metadata store to keep track of real subject names and other aggregate data
 $categoryMetadata = @{}
 
 Write-Host "Scanning $($bundles.Count) bundles..."
@@ -66,6 +69,7 @@ foreach ($file in $bundles) {
     $subject = if ($frontmatter["asignatura"]) { $frontmatter["asignatura"] } else { "unknown" }
     $bundleId = if ($frontmatter["id"]) { $frontmatter["id"] } else { $file.BaseName }
     $sourceUrl = $frontmatter["source_url"]
+    $timeLimit = if ($frontmatter["time_limit"]) { [int]$frontmatter["time_limit"] } else { 0 }
 
     # Determine Exam Type
     $exam = "standard"
@@ -81,8 +85,14 @@ foreach ($file in $bundles) {
             exam = $exam
             grade = $grade
             subject = $subject
+            total_time_limit = 0
+            topics = @()
         }
     }
+
+    # Aggregate time limit (simple sum for now, or max? usually sum for a bank makes no sense, but for a subject yes)
+    # Let's assume time_limit is per bundle, we might want to just track unique ones or max.
+    # For now, let's just keep track of it.
 
     # Extract Questions using Split - Robust against multiline regex issues
     # Matches '## Pregunta' at start of line
@@ -115,11 +125,27 @@ foreach ($file in $bundles) {
         # State Machine parsing for body
         $statementLines = @()
         $options = @()
+        $explanationLines = @()
         $correctAnswer = ""
         $parseState = "NONE"
 
+        # Temporary vars for options parsing
+        $optLetter = ""
+        $optText = ""
+        $isCorrect = $false
+
+        # Tags/Topics parsing (look for tags: [A, B] in metadata lines inside chunk?)
+        # Current format doesn't fully standardize question-level tags in markdown body easily without a specific marker.
+        # We will assume tags might come from bundle metadata for now, OR valid markdown metadata block if it existed.
+        # Implementation Plan said "Questions contain tags if present".
+        # Let's try to find "Dimensions" or "Topics" if they exist in the text or just use bundle level.
+        # For this iteration, we'll extract images from statement.
+
+        $images = @()
+
         foreach ($line in $lines | Select-Object -Skip 1) {
             $trimmed = $line.Trim()
+            if ([string]::IsNullOrWhiteSpace($trimmed)) { continue }
 
             # Detect Section Headers
             if ($trimmed -match "^#+\s*Enunciado") {
@@ -131,12 +157,36 @@ foreach ($file in $bundles) {
                 continue
             }
             if ($trimmed -match "^#+\s*Explicación") {
-                $parseState = "NONE"
+                $parseState = "EXPLICACION"
                 continue
             }
 
             # Capture Content based on State
             if ($parseState -eq "ENUNCIADO") {
+                $statementLines += $line
+                # Basic Image Extraction: ![alt](url)
+                if ($line -match "!\[(.*?)\]\((.*?)\)") {
+                   $images += @{
+                       alt = $matches[1]
+                       url = $matches[2]
+                   }
+                }
+            }
+            elseif ($parseState -eq "EXPLICACION") {
+                $explanationLines += $line
+            }
+            elseif ($parseState -eq "OPCIONES") {
+                # Format: - [ ] A) Text
+                # Regex: ^-\s*\[([ xX])\]\s*([A-Z])\)\s*(.*)$
+                if ($trimmed -match "^-\s*\[([ xX])\]\s*([A-Z])\)\s*(.*)$") {
+                    $mMark = $matches[1]
+                    $mLetter = $matches[2]
+                    $mText = $matches[3]
+
+                    $isCorrect = ($mMark -match "[xX]")
+                    $optLetter = $mLetter
+                    $optText = $mText
+
                     $options += @{
                         letter = $optLetter
                         text = $optText
@@ -148,13 +198,17 @@ foreach ($file in $bundles) {
         }
 
         $statement = $statementLines -join "`n"
+        $explanation = $explanationLines -join "`n"
 
         # Add to group
         if (-not $groupedQuestions.ContainsKey($groupKey)) {
             $groupedQuestions[$groupKey] = @()
         }
 
-        $groupedQuestions[$groupKey] += @{
+        # Collect unique topics/tags from bundle to subject metadata (simple approach)
+        # If we had question level tags we would add them here.
+
+        $questionObj = @{
             id = "$bundleId-v$questionNum"
             bundle_id = $bundleId
             number = [int]$questionNum
@@ -163,12 +217,17 @@ foreach ($file in $bundles) {
             options = $options
             correct_answer = $correctAnswer
             source_url = $sourceUrl
+            explanation = $explanation
+            images = $images
+            tags = @() # Placeholder for future granular extraction
         }
+
+        $groupedQuestions[$groupKey] += $questionObj
     }
 }
 
 # Generate Output Files
-Write-Host "Generating API files..."
+Write-Host "Generating API ($ApiVersion) files..."
 foreach ($key in $groupedQuestions.Keys) {
     $parts = $key -split "\|"
     $country = $parts[0]
@@ -176,7 +235,7 @@ foreach ($key in $groupedQuestions.Keys) {
     $grade = $parts[2]
     $subj = $parts[3]
 
-    $targetDir = Join-Path $OutputPath "$country\$exam\$grade\$subj"
+    $targetDir = Join-Path $VersionedOutputPath "$country\$exam\$grade\$subj"
     if (-not (Test-Path $targetDir)) {
         New-Item -ItemType Directory -Path $targetDir -Force | Out-Null
     }
@@ -188,9 +247,12 @@ foreach ($key in $groupedQuestions.Keys) {
 
     Write-Host "  -> $country/$exam/$grade/$subj : $totalQuestions questions ($totalPages pages)"
 
+    # Generate Pages
+    $pagesMeta = @()
     for ($i = 0; $i -lt $totalPages; $i++) {
         $skip = $i * $pageSize
         $chunk = $allQuestions | Select-Object -Skip $skip -First $pageSize
+        $pageFileName = "$($i + 1).json"
 
         $pageData = @{
             metadata = @{
@@ -206,11 +268,29 @@ foreach ($key in $groupedQuestions.Keys) {
             questions = $chunk
         }
 
-        $jsonFile = Join-Path $targetDir "$($i + 1).json"
-
+        $jsonFile = Join-Path $targetDir $pageFileName
         $jsonContent = $pageData | ConvertTo-Json -Depth 10
         $jsonContent | Set-Content -Path $jsonFile -Encoding UTF8
+
+        $pagesMeta += @{
+            page = $i + 1
+            url = $pageFileName
+        }
     }
+
+    # Generate index.json
+    $indexData = @{
+        subject = $categoryMetadata[$key].subject
+        total_questions = $totalQuestions
+        total_pages = $totalPages
+        time_limit_minutes = 120 # Default or aggregated
+        topics = $categoryMetadata[$key].topics
+        pages = $pagesMeta
+        generated_at = (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ")
+    }
+
+    $indexFile = Join-Path $targetDir "index.json"
+    $indexData | ConvertTo-Json -Depth 5 | Set-Content -Path $indexFile -Encoding UTF8
 }
 
 Write-Host "Done."

@@ -1,0 +1,3346 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "explanation": "**¿Por qué C es correcta?**\nLa tesis es la posición central que el autor defiende a lo largo del texto. En el párrafo 1, el autor afirma explícitamente: \"la educación ambiental no puede seguir siendo una materia opcional en los colegios; debe convertirse en un eje transversal de todo el currículo.\" Todo el texto argumenta a favor de esta posición.\n**¿Por qué las otras son incorrectas?**\n- **A)** Es un dato de contexto (premisa), no la tesis.\n- **B)** Es evidencia que apoya la urgencia, pero no es la propuesta del autor.\n- **D)** Es un ejemplo de apoyo, no la tesis del texto.\n**Competencia evaluada:** Identificar la tesis o idea principal de un texto argumentativo\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-argumentativo-001",
+      "statement": "¿Cuál es la tesis principal que defiende el autor del texto?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Colombia es el segundo país más biodiverso del mundo",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La deforestación del Amazonas colombiano alcanzó cifras alarmantes en 2020",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La educación ambiental debe ser un eje transversal en todo el currículo escolar colombiano",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Finlandia tiene el mejor sistema educativo del mundo",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-argumentativo-001-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "El texto dice claramente en el primer párrafo: \"cerca del 10% de las especies del planeta\".\n**Nota:** 0.7% se refiere a la superficie terrestre que ocupa Colombia, no a las especies.\n**Competencia evaluada:** Comprensión literal - identificar información explícita\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-argumentativo-001",
+      "statement": "Según el texto, ¿qué porcentaje de las especies del planeta tiene Colombia?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.7%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "10%",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "20%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "50%",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-argumentativo-001-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "Es un texto argumentativo porque:\n1. Presenta una tesis (posición del autor)\n2. Ofrece argumentos para defenderla\n3. Responde a contraargumentos\n4. Busca persuadir al lector\n5. Se indica explícitamente que es una \"columna de opinión\"\n**Competencia evaluada:** Identificar tipología textual\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-argumentativo-001",
+      "statement": "¿Qué tipo de texto es \"La Educación Ambiental en Colombia: Una Urgencia Impostergable\"?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Texto narrativo",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Texto expositivo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Texto argumentativo (columna de opinión)",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Texto instructivo",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-argumentativo-001-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "El autor presenta el contraargumento (\"el currículo ya está sobrecargado\") y lo refuta diciendo que \"ignora que la educación ambiental no compite con otras materias, sino que las enriquece\". Luego da un ejemplo de cómo se integrarían: aprender fracciones con datos de deforestación.\nEsta es una refutación por omisión: el autor muestra que el contraargumento deja de considerar información relevante.\n**¿Por qué las otras son incorrectas?**\n- **A)** No ataca a las personas, sino a su argumento (sería falacia ad hominem).\n- **C)** Eso ocurre en el párrafo 3, no en el 2.\n- **D)** Las estadísticas están en el párrafo 1.\n**Competencia evaluada:** Identificar estrategias argumentativas\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-argumentativo-001",
+      "statement": "En el párrafo 2, ¿qué estrategia argumentativa utiliza el autor para responder a quienes se oponen?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ataque personal a los opositores",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Refutación del contraargumento mostrando que ignora aspectos importantes",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Apelación a la autoridad de expertos internacionales",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Uso de estadísticas para demostrar la urgencia",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-argumentativo-001-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "Es una **pregunta retórica** porque:\n1. No espera una respuesta real del lector\n2. La respuesta implícita es obvia (\"no, no queremos eso\")\n3. Su función es persuadir, no informar\n4. Apela a la emoción del lector\nLas preguntas retóricas son una estrategia común en textos argumentativos para involucrar al lector y reforzar la posición del autor.\n**Competencia evaluada:** Identificar recursos retóricos\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-argumentativo-001",
+      "statement": "La pregunta \"¿Queremos que tomen decisiones sobre el páramo de Santurbán o la Amazonía sin comprender los ecosistemas que están en juego?\" en el párrafo 4 es:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una pregunta que espera información del lector",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Una pregunta retórica que busca persuadir al lector",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Una pregunta de investigación para un estudio científico",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una pregunta de comprensión lectora",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-argumentativo-001-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "**Análisis crítico del texto:**\nEl autor propone que la educación ambiental sea transversal, pero en el párrafo 5 solo dice que \"no requiere revolucionar el sistema educativo\" y que requiere \"voluntad política y creatividad pedagógica\". Sin embargo, no detalla:\n- ¿Cómo se capacitaría a los docentes?\n- ¿Qué recursos se necesitan?\n- ¿Cuánto costaría?\n- ¿Qué cambios curriculares específicos se harían?\nEsta falta de especificidad es una debilidad argumentativa.\n**¿Por qué las otras son incorrectas?**\n- **A)** Sí presenta datos (10% de especies, 174.103 hectáreas).\n- **B)** Sí menciona ejemplos (Finlandia, Costa Rica).\n- **D)** Sí menciona a opositores en el párrafo 2.\n**Competencia evaluada:** Evaluar críticamente la solidez de un argumento\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-argumentativo-001",
+      "statement": "¿Cuál de los siguientes enunciados representa una debilidad argumentativa del texto?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El autor no presenta datos sobre la biodiversidad de Colombia",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El texto no menciona ningún ejemplo internacional",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El autor no explica cómo se implementaría la propuesta en la práctica ni su costo",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "El texto no identifica quiénes se oponen a la educación ambiental",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-argumentativo-001-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "**Análisis del error lógico:**\nEl lector comete una **falacia de generalización apresurada** o **falsa analogía inversa** al afirmar que:\n1. Las diferencias poblacionales invalidan automáticamente cualquier comparación\n2. Lo que funciona en un país pequeño \"no puede\" funcionar en uno grande\nEste razonamiento es falaz porque:\n- Las políticas educativas no dependen solo del tamaño poblacional\n- Se pueden adaptar experiencias internacionales\n- El autor también menciona Costa Rica, que es más comparable a Colombia\n**¿Por qué las otras son incorrectas?**\n- **A) Ad hominem:** No ataca al autor personalmente.\n- **B) Pendiente resbaladiza:** No plantea consecuencias en cadena.\n- **D) Autoridad:** No se apela a ningún experto.\n**Competencia evaluada:** Identificar falacias lógicas en argumentos\n---\n## 📊 Metadata de Validación\n| Pregunta | ID | Dificultad | Nivel ICFES | Validado |\n|----------|-----|------------|-------------|----------|\n| 1 | CO-LEC-11-argumentativo-001-v1 | Medium | Inferencial | ⬜ |\n| 2 | CO-LEC-11-argumentativo-001-v2 | Low | Literal | ⬜ |\n| 3 | CO-LEC-11-argumentativo-001-v3 | Low | Inferencial | ⬜ |\n| 4 | CO-LEC-11-argumentativo-001-v4 | Medium | Inferencial | ⬜ |\n| 5 | CO-LEC-11-argumentativo-001-v5 | Medium | Inferencial | ⬜ |\n| 6 | CO-LEC-11-argumentativo-001-v6 | High | Crítico | ⬜ |\n| 7 | CO-LEC-11-argumentativo-001-v7 | High | Crítico | ⬜ |",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-argumentativo-001",
+      "statement": "Un lector escribe la siguiente respuesta al texto:\n*\"El autor comete el error de comparar a Colombia con Finlandia. Son países completamente diferentes: Finlandia tiene 5 millones de habitantes y Colombia 50 millones. Por lo tanto, cualquier política que funcione en Finlandia no puede funcionar aquí.\"*\n¿Qué tipo de error lógico comete este lector en su crítica?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Falacia ad hominem (ataque a la persona)",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Falacia de la pendiente resbaladiza (consecuencias extremas)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Falacia de la falsa analogía o generalización apresurada",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Falacia de la autoridad (apelar a un experto sin justificación)",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-argumentativo-001-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "**¿Por qué B es correcta?**\nEl argumento justifica su afirmación (\"todos los jóvenes deberían aprender a programar\") apelando a un hecho observable del contexto actual: la omnipresencia de la tecnología en la vida moderna. Este tipo de argumento se basa en la realidad contemporánea como respaldo, sin recurrir a datos específicos, expertos o autoridades.\n**¿Por qué las otras opciones son incorrectas?**\n- **A) Presenta evidencia estadística:** No hay datos numéricos, porcentajes ni estudios citados en el argumento.\n- **C) Se basa en testimonios de expertos:** No se menciona ningún experto, científico o profesional que avale la afirmación.\n- **D) Usa un argumento de autoridad:** No se apela a la credibilidad de ninguna figura de autoridad para validar el argumento.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Identificación y análisis de estrategias argumentativas\n*(Contenido migrado, favor revisar)*\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-argumentacion-001",
+      "statement": "# Pregunta\n\"Todos los jóvenes deberían aprender a programar porque la tecnología está presente en todos los aspectos de la vida moderna.\"\nEl argumento anterior:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presenta evidencia estadística",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Apela a una realidad contemporánea",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Se basa en testimonios de expertos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Usa un argumento de autoridad",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-argumentacion-001-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "TODO: Explicación pendiente\n---",
+      "correct_answer": "",
+      "bundle_id": "CO-LEC-11-argumentacion-001",
+      "statement": "TODO: Generar variación de tipo Low A",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Opción 1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Opción 2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Opción 3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Opción 4",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-argumentacion-001-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "TODO: Explicación pendiente\n---",
+      "correct_answer": "",
+      "bundle_id": "CO-LEC-11-argumentacion-001",
+      "statement": "TODO: Generar variación de tipo Low B",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Opción 1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Opción 2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Opción 3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Opción 4",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-argumentacion-001-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "TODO: Explicación pendiente\n---",
+      "correct_answer": "",
+      "bundle_id": "CO-LEC-11-argumentacion-001",
+      "statement": "TODO: Generar variación de tipo Medium A",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Opción 1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Opción 2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Opción 3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Opción 4",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-argumentacion-001-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "TODO: Explicación pendiente\n---",
+      "correct_answer": "",
+      "bundle_id": "CO-LEC-11-argumentacion-001",
+      "statement": "TODO: Generar variación de tipo Medium B",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Opción 1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Opción 2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Opción 3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Opción 4",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-argumentacion-001-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "TODO: Explicación pendiente\n---",
+      "correct_answer": "",
+      "bundle_id": "CO-LEC-11-argumentacion-001",
+      "statement": "TODO: Generar variación de tipo High A",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Opción 1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Opción 2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Opción 3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Opción 4",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-argumentacion-001-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "TODO: Explicación pendiente\n---",
+      "correct_answer": "",
+      "bundle_id": "CO-LEC-11-argumentacion-001",
+      "statement": "TODO: Generar variación de tipo High B",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Opción 1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Opción 2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Opción 3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Opción 4",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-argumentacion-001-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "**¿Por qué C es correcta?**\nEl texto afirma explícitamente que \"las actividades humanas como la deforestación masiva, la contaminación industrial... están provocando la extinción\". Identifica al ser humano como el agente causal.\n**¿Por qué las otras opciones son incorrectas?**\n- **A, B, D:** Aunque son factores que pueden afectar la biodiversidad, el texto se centra exclusivamente en las acciones humanas directas (deforestación, contaminación, sobreexplotación) como causa del ritmo \"alarmante\".\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Identificación de información explícita\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-comprension-001",
+      "statement": "Según el texto, ¿cuál es la causa principal de la pérdida de biodiversidad?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los desastres naturales inesperados.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El cambio climático global.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Las actividades humanas como la deforestación y contaminación.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "La evolución natural de las especies.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-comprension-001-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "**¿Por qué C es correcta?**\nEl texto dice literalmente: \"...cada especie desempeña un papel único e insustituible en la compleja red de la vida\". Es una pregunta de localización de información.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Ubicar información explícita\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-comprension-001",
+      "statement": "Según el texto, ¿qué papel desempeña cada especie en los ecosistemas?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un papel irrelevante y sustituible.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Un papel decorativo para la naturaleza.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un papel único e insustituible.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Un papel peligroso para el equilibrio.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-comprension-001-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "**¿Por qué A es correcta?**\nEl prefijo \"sobre-\" indica exceso. En el contexto de \"recursos naturales\", se refiere a extraerlos más rápido de lo que se regeneran, agotándolos.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Comprensión de vocabulario en contexto\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-LEC-11-comprension-001",
+      "statement": "En el texto, el término **\"sobreexplotación\"** se refiere a:",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso excesivo y agotador de los recursos naturales.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La protección estricta de las áreas naturales.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La siembra de nuevos bosques.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El estudio científico de los recursos.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-comprension-001-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "**¿Por qué B es correcta?**\nEl texto menciona que el declive pone en riesgo \"la seguridad alimentaria y la disponibilidad de agua dulce\". Por lo tanto, se infiere que la biodiversidad garantiza estos elementos vitales.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Inferencia (Relación causa-consecuencia)\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-comprension-001",
+      "statement": "Del texto se puede inferir que la biodiversidad es importante para la humanidad porque:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nos permite tener zoológicos variados.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Garantiza recursos vitales como alimentos y agua.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Evita que tengamos que trabajar en el campo.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Hace que el paisaje se vea más bonito.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-comprension-001-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "**¿Por qué C es correcta?**\nEl texto dice que el ritmo es \"alarmante, nunca antes visto en la historia geológica reciente\". Esto establece una comparación de excepcionalidad y gravedad.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Comprender comparaciones y relaciones\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-comprension-001",
+      "statement": "¿Qué relación establece el texto entre el ritmo de extinción actual y la historia geológica?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El ritmo actual es más lento que en el pasado.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Es un ciclo natural que se repite cada siglo.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El ritmo actual es alarmante y sin precedentes recientes.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "La historia geológica no tiene relación con la extinción.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-comprension-001-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "**¿Por qué B es correcta?**\nEl uso de términos como \"alarmante\", \"riesgo directo\", \"amenazando nuestra supervivencia\" denota una intención de advertencia y concienciación sobre un problema grave causado por humanos.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Reflexionar evaluar el contenido (Propósito comunicativo)\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-comprension-001",
+      "statement": "¿Cuál es la intención principal del autor al escribir este texto?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrar la historia de la evolución biológica.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Alertar sobre las graves consecuencias de la acción humana en la naturaleza.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Describir las técnicas modernas de deforestación.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Felicitar a la humanidad por su progreso industrial.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-comprension-001-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "**¿Por qué C es correcta?**\nSi algo es \"insustituible\", su pérdida deja un vacío que nada más puede llenar. Por ende, la red de la vida (el sistema completo) se ve alterada o dañada de forma permanente (irreversible) al perder una de sus piezas únicas.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Reflexionar y evaluar (Validación de argumentos)\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-comprension-001",
+      "statement": "Si asumimos como cierta la afirmación de que \"cada especie desempeña un papel insustituible\", ¿cuál de las siguientes conclusiones sería la más válida?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Podemos eliminar algunas especies sin consecuencias si son feas.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La tecnología podrá reemplazar las funciones de las especies extintas.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La pérdida de cualquier especie altera irreversiblemente la red de la vida.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Solo las especies grandes e importantes son insustituibles.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-comprension-001-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "**¿Por qué B es correcta?**\nAunque el texto menciona que hay mucha agua (71%), su propósito central es contrastar esa abundancia aparente con la escasez real (menos del 1% accesible). Todo el argumento se construye para demostrar cuán poco agua disponible tenemos realmente.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Identificación de idea principal\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-comprension-002",
+      "statement": "¿Cuál es la idea principal del texto?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua cubre la mayor parte de la Tierra",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El agua dulce disponible es extremadamente escasa en comparación con el total.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Los glaciares contienen mucha agua congelada.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La Tierra tiene mucha agua subterránea profunda.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-comprension-002-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "**¿Por qué C es correcta?**\nEl texto dice explícitamente: \"Solo el 2.5% de todo ese volumen es agua dulce\". Es una pregunta de extracción de datos literales.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Ubicar información explícita\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-comprension-002",
+      "statement": "Según el texto, ¿qué porcentaje del agua de la Tierra es dulce?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "71%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "69%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "2.5%",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "1%",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-comprension-002-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "**¿Por qué A es correcta?**\nEl texto contrasta el agua \"atrapada en glaciares\" o \"subterránea profunda\" con la \"fácilmente accesible\". Por contexto, lo inaccesible es aquello que no podemos usar fácilmente.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Comprensión de vocabulario en contexto\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-LEC-11-comprension-002",
+      "statement": "En el texto, la palabra **\"inaccesible\"** (o atrapada/profunda) implica que el agua:",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No está disponible fácilmente para el consumo humano.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Es venenosa para los seres vivos.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Está muy lejos en el espacio exterior.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Es demasiado caliente para beberse.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-comprension-002-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "**¿Por qué C es correcta?**\nEs una metáfora. Al igual que el oro es valioso por su escasez y utilidad, el agua dulce accesible (azul) es vital y limitada (\"cada vez más escaso\"), lo que le da un gran valor económico y estratégico.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Inferencia (Lenguaje figurado)\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-comprension-002",
+      "statement": "¿Por qué el autor se refiere al agua potable como \"oro azul\"?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque tiene un color azul brillante bajo el sol.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Porque es un metal precioso líquido.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Porque es un recurso muy valioso y escaso, como el oro.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo los ricos pueden comprarla.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-comprension-002-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "**¿Por qué C es correcta?**\nSi el 69% del agua dulce está \"atrapada en glaciares\" (congelada), su derretimiento convertiría esa agua de estado sólido a líquido, aumentando el volumen de agua líquida disponible (aunque con consecuencias desastrosas no mencionadas aquí, lógicamente implica cambio de estado).\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Inferencia a partir de datos\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-comprension-002",
+      "statement": "Según la información del texto, se puede concluir que si los glaciares se derritieran por completo:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cantidad total de agua en la Tierra disminuiría.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Aumentaría la salinidad de los océanos.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Aumentaría la cantidad de agua líquida en el planeta.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "El agua dulce desaparecería para siempre.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-comprension-002-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "**¿Por qué B es correcta?**\nEl término \"disputado\" implica conflicto, lucha o desacuerdo. \"Geopolíticamente\" refiere a las relaciones de poder entre países o territorios. La inferencia crítica es que la escasez (\"oro azul escaso\") llevará a conflictos internacionales por su control.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Lectura crítica e implicaciones sociales\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-comprension-002",
+      "statement": "Al mencionar que el agua es un recurso \"disputado geopolíticamente\", el autor sugiere que:",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los países cooperarán pacíficamente para compartirla siempre.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La escasez de agua podría causar conflictos entre naciones.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "La geografía política no afecta los recursos naturales.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El agua solo es importante para los políticos, no para la gente.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-comprension-002-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "**¿Por qué C es correcta?**\nEl autor usa esta estadística para impactar al lector. Al reducir la inmensidad del agua (71%) a un número minúsculo (<1%), subraya la gravedad de la situación (\"crítica\") y la necesidad de valorar el recurso.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Evaluar la función de un elemento textual\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-comprension-002",
+      "statement": "¿Cuál es la función del dato \"menos del 1% del agua dulce total es fácilmente accesible\"?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Demostrar que los cálculos científicos son exactos.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Desanimar a las personas de beber agua.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Enfatizar la fragilidad y limitación crítica del recurso disponible.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Sugerir que debemos consumir agua de mar.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-comprension-002-v7"
+    },
+    {
+      "number": 0,
+      "explanation": "**Inferencia:** El texto menciona \"fragmenta corredores\" e \"intercambio genético\", lo cual biológicamente implica aislamiento y eventual pérdida de diversidad (C). Las otras opciones no se derivan del texto.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-inferencia-001-bundle",
+      "statement": "Lee el siguiente fragmento:\n*\"La rápida expansión de las áreas urbanas hacia zonas boscosas no solo displace a la fauna local, sino que fragmenta los corredores biológicos necesarios para el intercambio genético.\"*\nEl autor **implica** que la expansión urbana conduce a:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mayor cohesión social en las ciudades.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Una disminución en el consumo de recursos naturales.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La pérdida de biodiversidad y aislamiento de poblaciones animales.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Un colapso económico inmediato de la región.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-inferencia-001-bundle-v0"
+    },
+    {
+      "number": 0,
+      "explanation": "**Tesis:** La afirmación central es crítica: el \"uso excesivo\" causa un daño específico (\"erosiona la concentración\").\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-inferencia-001-bundle",
+      "statement": "*\"No hay duda de que la tecnología facilita la vida, pero su uso excesivo está erosionando nuestra capacidad de concentración profunda.\"*\n¿Cuál es la **tesis** principal del autor en esta frase?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tecnología debe ser prohibida.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La tecnología facilita la vida en todos los aspectos.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El abuso de la tecnología afecta negativamente la atención humana.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "La concentración no es importante en el mundo moderno.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-inferencia-001-bundle-v0"
+    },
+    {
+      "number": 0,
+      "explanation": "**Contraargumento:** La opción B presenta evidencia objetiva (\"estudios\") que contradice directamente la idea de que la tecnología *solo* daña la atención, mostrando un beneficio cognitivo.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-inferencia-001-bundle",
+      "statement": "Si el autor quisiera **refutar** (contradecir) su propia tesis anterior sobre la tecnología, ¿qué argumento sería el más efectivo?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"A mí me gusta mucho usar el celular.\"",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "\"Estudios muestran que los videojuegos de acción mejoran la atención selectiva y los reflejos mentales.\"",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "\"La tecnología es muy costosa hoy en día.\"",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "\"Antes la gente se concentraba más leyendo libros.\"",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-inferencia-001-bundle-v0"
+    },
+    {
+      "number": 0,
+      "explanation": "**Tono:** El uso de exclamaciones y palabras como \"indignante\" y \"arde\" denota una postura crítica, de denuncia y alarma emocional.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-inferencia-001-bundle",
+      "statement": "*\"¡Es indignante que las autoridades sigan ignorando las señales de alerta del cambio climático mientras el planeta arde!\"*\n¿Cuál es el **tono** predominante del autor?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Científico y neutral.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Melancólico y resignado.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Crítico y alarmado.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Humorístico e irónico.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-inferencia-001-bundle-v0"
+    },
+    {
+      "number": 0,
+      "explanation": "**Síntesis:** El conflicto clásico entre el derecho (acceso universal) y la sostenibilidad financiera (cobro) es la tensión central que se infiere al compararlos.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-inferencia-001-bundle",
+      "statement": "Texto A: \"El agua es un derecho humano fundamental.\"\nTexto B: \"El suministro de agua tiene costos operativos que deben ser cubiertos mediante tarifas.\"\n¿Qué relación existe entre los dos textos?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son idénticos en su postura.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Presentan una tensión entre una visión de derechos y una visión económica/administrativa.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "El Texto B desmiente científicamente al Texto A.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Ambos textos promueven la privatización total.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-inferencia-001-bundle-v0"
+    },
+    {
+      "number": 0,
+      "explanation": "**Léxico contextual:** \"Efímero\" significa de corta duración. La comparación con el rocío (que desaparece rápido) refuerza este significado.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-inferencia-001-bundle",
+      "statement": "En la frase *\"Su argumento fue tan **efímero** como el rocío de la mañana\"*, la palabra subrayada significa:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sólido.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Breve o pasajero.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Húmedo.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Brillante.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-inferencia-001-bundle-v0"
+    },
+    {
+      "number": 0,
+      "explanation": "**Función apelativa:** Busca modificar la conducta (prohibir) bajo amenaza de sanción (regular).",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-inferencia-001-bundle",
+      "statement": "Un aviso en un parque dice: *\"Prohibido jugar en el césped. Multa $50.000.\"*\n¿Cuál es la **intención comunicativa** principal?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informar sobre el precio del césped.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Narrar una historia sobre el parque.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Regular el comportamiento de los visitantes mediante una advertencia.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Invitar a la gente a jugar en otra parte.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-inferencia-001-bundle-v0"
+    },
+    {
+      "number": 1,
+      "explanation": "**¿Por qué C es correcta?**\nEl texto menciona que la expansión \"rompe la continuidad de los ecosistemas, creando islas biológicas\". Esto es la definición exacta de fragmentación de hábitats. El autor implica que este es un resultado directo (y negativo) del crecimiento urbano.\n**¿Por qué las otras opciones son incorrectas?**\n- **A) Mayor cohesión social:** No se menciona; el texto se enfoca en aspectos ambientales.\n- **B) Disminución en consumo:** La expansión suele aumentar el consumo, no disminuirlo.\n- **D) Colapso económico:** No se menciona un impacto económico inmediato.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Inferencia - Consecuencias implícitas\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-inferencia-002",
+      "statement": "Según el texto, el autor implica que la rápida expansión de las áreas urbanas conduce a:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mayor cohesión social en las nuevas comunidades.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Una disminución significativa en el consumo de recursos.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La fragmentación de los hábitats naturales.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Un colapso económico inmediato en la región.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-inferencia-002-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "**¿Por qué B es correcta?**\nEl texto afirma explícitamente: \"invaden zonas que anteriormente eran silvestres o rurales\". Es una pregunta de lectura literal.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Identificar contenidos locales\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-inferencia-002",
+      "statement": "Según el texto, ¿qué invaden las ciudades al crecer descontroladamente?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los centros históricos de otras ciudades.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Zonas que anteriormente eran silvestres o rurales.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Los océanos y mares profundos.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Espacios reservados para la industria pesada.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-inferencia-002-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "**¿Por qué A es correcta?**\nEl término \"irreversible\" significa que no tiene retorno. En el contexto, indica que los daños a la biodiversidad podrían ser permanentes.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Comprensión del sentido local (vocabulario)\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-LEC-11-inferencia-002",
+      "statement": "En el texto, la palabra **\"irreversible\"** sugiere que la tendencia de expansión urbana:",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No podrá deshacerse ni volver a su estado original.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Se detendrá por sí sola en poco tiempo.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Es beneficiosa para el medio ambiente.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Puede corregirse fácilmente con dinero.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-inferencia-002-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "**¿Por qué C es correcta?**\nEl texto conecta el crecimiento \"descontrolado\" con la ruptura de ecosistemas (\"amenaza los ecosistemas\") y el riesgo para la \"calidad de vida\". Esta síntesis abarca todo el párrafo.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Comprender el sentido global del texto\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-inferencia-002",
+      "statement": "¿Cuál es la idea principal del texto anterior?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las ciudades deben dejar de construir edificios altos.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La planificación urbana es una carrera muy rentable.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El crecimiento urbano descontrolado amenaza los ecosistemas y la calidad de vida.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Los animales se adaptan rápidamente a la vida en la ciudad.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-inferencia-002-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "**¿Por qué B es correcta?**\nEl texto dice que advierten sobre la falta de \"medidas de contención y diseño sostenible\". Por inferencia, ellos apoyarían justamente la aplicación de ese diseño sostenible.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Inferencia (Perspectiva de un actor)\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-inferencia-002",
+      "statement": "Se puede inferir que los \"expertos en planificación urbana\" mencionados en el texto probablemente apoyarían:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La eliminación total de todas las ciudades.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La implementación de estrategias de desarrollo sostenible.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "La construcción indiscriminada en áreas rurales.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Ignorar el impacto ambiental del progreso.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-inferencia-002-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "**¿Por qué C es correcta?**\nEs una metáfora ecológica. No se refiere a islas de tierra en el agua, sino a parches de hábitat rodeados de ciudad (un \"mar\" de cemento) que aíslan a las especies, impidiendo su flujo genético y movimiento. Evaluar este uso del lenguaje requiere lectura crítica.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Reflexionar evaluar el contenido (recursos estilísticos)\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-inferencia-002",
+      "statement": "El autor utiliza la expresión \"islas biológicas\" para:",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Describir un destino turístico exótico.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Validar la creación de zoológicos urbanos.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Ilustrar metafóricamente el aislamiento de las poblaciones naturales.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Proponer la construcción de islas artificiales.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-inferencia-002-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "**¿Por qué C es correcta?**\nEl texto concluye advirtiendo que se comprometería \"gravemente... la calidad de vida de los mismos habitantes urbanos\". Es una proyección lógica basada en los argumentos presentados.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Reflexionar y evaluar (proyección/predicción)\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-inferencia-002",
+      "statement": "Si la tendencia descrita en el texto continúa sin cambios, ¿cuál sería la consecuencia a largo plazo más probable según la lógica del autor?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las ciudades se volverían autosuficientes en alimentos.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La biodiversidad aumentaría debido a la adaptación.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La calidad de vida humana disminuiría debido al deterioro ambiental.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Los ecosistemas rurales rodearían y asfixiarían a las ciudades.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-inferencia-002-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "**¿Por qué B es correcta?**\nLa inferencia se basa en claves textuales: Juan está \"empapado\", el cielo \"retumbaba\" (truenos) y las calles parecen \"ríos improvisados\". Esto describe inequívocamente una tormenta o lluvia fuerte.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Inferencia a partir de indicios textuales\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-inferencia-001",
+      "statement": "¿Qué se puede inferir del texto sobre el clima exterior?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estaba nevando fuertemente.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Estaba cayendo una tormenta con lluvia intensa.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Hacía mucho calor y humedad.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Hubo una inundación por rotura de tubería.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-inferencia-001-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "**¿Por qué B es correcta?**\nEl texto dice explícitamente: \"...buscaba una toalla en el baño de la entrada\". Es recuperación de información literal.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Identificar contenidos locales\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-inferencia-001",
+      "statement": "Según el texto, ¿qué objeto buscaba Juan al entrar?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un paraguas.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Una toalla.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Sus zapatos.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El pronóstico del clima.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-inferencia-001-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "**¿Por qué B es correcta?**\nLa resignación implica aceptar una situación adversa con paciencia o conformidad, reconociendo que ya no se puede cambiar (como el hecho de haberse mojado por no revisar el pronóstico).\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Comprensión del sentido local (vocabulario/actitud)\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-inferencia-001",
+      "statement": "La expresión \"murmuró con **resignación**\" indica que Juan se sentía:",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Furioso y con ganas de gritar.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Aceptando su mala suerte sin protestar más.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Feliz por haber llegado a casa.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Confundido por lo que sucedía.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-inferencia-001-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "**¿Por qué C es correcta?**\nEs una inferencia de causa-efecto. Estar \"empapado\" tras venir de la calle en medio de una tormenta causa una baja temperatura corporal que provoca temblores. El texto conecta estos eventos narrativamente.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Comprender las relaciones entre partes del texto\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-inferencia-001",
+      "statement": "¿Por qué razón Juan \"temblaba de frío incontrolablemente\"?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque tenía fiebre alta.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Porque el aire acondicionado estaba muy frío.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Debido a que estaba mojado y expuesto al clima.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Porque tenía miedo de la tormenta.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-inferencia-001-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "**¿Por qué A es correcta?**\nSi Juan llegó \"empapado\" hasta el punto de dejar un rastro de agua y temblar, se infiere lógicamente que no tenía protección adecuada contra la lluvia. Además, se lamenta de no haber revisado el pronóstico, lo que implica falta de preparación.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Inferencia (Información implícita)\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-LEC-11-inferencia-001",
+      "statement": "Del fragmento se puede deducir que Juan probablemente:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No llevaba paraguas ni impermeable.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Disfruta caminar bajo la lluvia.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Vive muy lejos de la estación de autobús.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Salió de casa por la tarde.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-inferencia-001-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "**¿Por qué B es correcta?**\nJuan asume la responsabilidad de su situación (\"Debí haber...\"). No culpa a factores externos (el bus, la ciudad), sino a su propia falta de previsión. Evaluar esta actitud requiere entender la intencionalidad del personaje.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Reflexionar y evaluar el contenido\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-inferencia-001",
+      "statement": "El comentario final de Juan (\"Debí haber revisado el pronóstico...\") sugiere una actitud de:",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Culpar al gobierno por el clima.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Autocrítica y reconocimiento de su error.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Indiferencia ante las consecuencias.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Optimismo frente al futuro.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-inferencia-001-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "**¿Por qué C es correcta?**\nEs una figura literaria (metáfora/hipérbole descriptiva) utilizada para enfatizar la magnitud de la tormenta y la cantidad de agua acumulada, ayudando al lector a visualizar la escena. No es un dato técnico ni geográfico.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Evaluar estrategias discursivas\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-inferencia-001",
+      "statement": "¿Qué función cumple la frase \"las calles parecían ríos improvisados\" en el texto?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Proporcionar un dato geográfico exacto.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Exagerar ridículamente la situación.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Describir la intensidad de la lluvia mediante una metáfora.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Informar sobre el sistema de alcantarillado.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-inferencia-001-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "**¿Por qué B es correcta?**\nLa tesis es la idea central que el autor defiende. El autor argumenta en contra de la pena de muerte usando dos razones principales: (1) su ineficacia como disuasivo y (2) el riesgo de ejecutar inocentes. La opción B sintetiza correctamente esta postura.\n**¿Por qué las otras opciones son incorrectas?**\n- **A) El sistema judicial comete errores:** Es un argumento de apoyo (evidencia), no la tesis central.\n- **C) Los criminales no temen a la muerte:** Es una inferencia posible, pero no la tesis explícita del autor.\n- **D) La tasa de homicidios depende de la legislación:** Es un dato mencionado para apoyar la tesis, no la postura del autor.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Identificar y entender los contenidos locales que conforman un texto\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-textos-continuos-001",
+      "statement": "¿Cuál es la **tesis** principal del autor en el texto anterior?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El sistema judicial comete errores frecuentemente.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La pena de muerte no debe aplicarse porque es ineficaz y riesgosa.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Los criminales no temen a la muerte.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La tasa de homicidios depende de la legislación de cada estado.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-001-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "**¿Por qué C es correcta?**\nEl texto menciona explícitamente: \"existe el riesgo inaceptable de ejecutar a inocentes\". Esta es una pregunta de recuperación de información literal.\n**¿Por qué las otras opciones son incorrectas?**\n- **A) El aumento de la tasa de homicidios:** El texto dice que la tasa no disminuye, no que aumente necesariamente por la pena.\n- **B) El alto costo:** No se menciona el costo en el texto.\n- **D) La falta de disuasión:** Se menciona como una ineficacia, no como el \"riesgo inaceptable\" al que se refiere la pregunta en ese contexto específico.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Identificar contenidos locales\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-textos-continuos-001",
+      "statement": "Según el texto, ¿qué riesgo inaceptable conlleva la pena de muerte?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El aumento de la tasa de homicidios.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El alto costo de los procesos judiciales.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La posibilidad de ejecutar a personas inocentes.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "La falta de disuasión a los criminales.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-001-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "**¿Por qué A es correcta?**\nEl término \"falible\" proviene de \"fallar\". En el contexto de que \"existe el riesgo... de ejecutar a inocentes\", significa que el sistema puede equivocarse.\n**¿Por qué las otras opciones son incorrectas?**\n- **B, C, D:** No corresponden a la definición de \"falible\" ni encajan con el argumento de que se pueden cometer errores factuales (ejecutar inocentes).\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Comprensión del sentido local (vocabulario)\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-LEC-11-textos-continuos-001",
+      "statement": "En el contexto de la lectura, ¿qué significa la palabra **\"falible\"** referida al sistema judicial?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que puede cometer equivocaciones.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Que es injusto intencionalmente.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Que es demasiado lento.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Que es muy estricto.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-001-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "**¿Por qué B es correcta?**\nEl texto introduce esta afirmación con \"Estudios demuestran que...\", lo cual indica que se está presentando un dato verificable o una evidencia empírica (hecho) para sustentar la tesis.\n**¿Por qué las otras opciones son incorrectas?**\n- **A, C, D:** Son aseveraciones, juicios de valor o generalizaciones, pero la opción B es la que apela explícitamente a estudios comparativos (evidencia).\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Comprender la estructura de los textos\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-textos-continuos-001",
+      "statement": "¿Cuál de los siguientes enunciados funciona como un **argumento de hecho** (basado en evidencia) en el texto?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La pena de muerte es ineficaz.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "En los estados con pena capital, la tasa de homicidios no es menor.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "El sistema judicial es falible.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Es inaceptable ejecutar a inocentes.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-001-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "**¿Por qué C es correcta?**\nEl autor critica la pena de muerte diciendo que \"es ineficaz porque **no disuade**\". Esto implica que, bajo su criterio, una pena *eficaz* sería aquella que sí logre disuadir (prevenir) el crimen.\n**¿Por qué las otras opciones son incorrectas?**\n- **A, B, D:** El autor no menciona la venganza, la eliminación o el ahorro como criterios de eficacia. Su foco está en la disuasión y la justicia (no condenar inocentes).\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Inferencia (propósito implícito)\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-textos-continuos-001",
+      "statement": "Del texto se puede inferir que, para el autor, el objetivo principal de una pena debería ser:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vengar a las víctimas de delitos graves.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Eliminar físicamente a los criminales peligrosos.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Disuadir a los criminales de cometer delitos.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Ahorrar recursos del sistema carcelario.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-001-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "**¿Por qué B es correcta?**\nUn pilar central del argumento del autor es que \"el sistema judicial es falible\" y existe el riesgo de matar inocentes. Si se demuestra que el sistema es \"infalible\" (no falla), ese argumento se derrumba por completo.\n**¿Por qué las otras opciones son incorrectas?**\n- **A:** Apoya la tesis del autor.\n- **C:** Es un argumento de popularidad (ad populum), no ataca la lógica de eficacia o riesgo de error.\n- **D:** Es un argumento adicional en contra de la pena de muerte (costo), no la debilita.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Reflexionar y evaluar el contenido de un texto\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-textos-continuos-001",
+      "statement": "¿Qué premisa debilitaría más fuertemente la posición del autor?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Muchos países han abolido la pena de muerte recientemente.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Pruebas de ADN han demostrado que el sistema judicial actual es infalible en casos capitales.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "La mayoría de la población apoya la pena de muerte por razones morales.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Ejecutar a un criminal es más costoso que mantenerlo en prisión de por vida.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-001-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "**¿Por qué B es correcta?**\nEl texto tiene una intención clara de convencer. Plantea una postura (\"La pena de muerte es ineficaz\") y luego ofrece razones (\"no disuade\", \"tasa de homicidios no menor\", \"riesgo de inocentes\"). Esta es la estructura clásica de un texto argumentativo.\n**¿Por qué las otras opciones son incorrectas?**\n- **A, C, D:** El texto no narra, ni se limita a describir o exponer una ley. Su fin es persuadir sobre la inconveniencia de la pena.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Evaluar la estructura y tipos de texto\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-textos-continuos-001",
+      "statement": "La estructura lógica del texto se puede describir como:",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Narrativa: cuenta la historia de un error judicial.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Argumentativa: presenta una tesis seguida de razones que la sustentan.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Descriptiva: enumera las características de la pena de muerte.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Expositiva: explica legalmente en qué consiste la pena capital.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-001-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "**Respuesta correcta:** B\n\"Paradójicamente\" introduce una paradoja: una situación que parece contradictoria a la lógica común. En este caso, es paradójico que más herramientas de comunicación (tecnología) resulten en más soledad (menos comunicación real). La palabra resalta esta contradicción aparente.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-textos-continuos-002",
+      "statement": "En el texto, la palabra **\"paradójicamente\"** se usa para resaltar:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una mentira dicha por los defensores de la tecnología.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Una contradicción entre la conexión digital y el aislamiento real.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "La velocidad con la que avanza la tecnología moderna.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La solución al problema de la soledad.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-002-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "**Respuesta correcta:** B\nEl texto afirma explícitamente en la primera línea: \"Aunque la tecnología ha facilitado la comunicación global...\". Es una pregunta de comprensión literal.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-textos-continuos-002",
+      "statement": "Según el texto, ¿qué ha facilitado la tecnología?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La soledad individual.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La comunicación global.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Las interacciones cara a cara.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Los lazos comunitarios.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-002-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "**Respuesta correcta:** C\nEl texto dice literalmente: \"nuestras interacciones cara a cara han disminuido drásticamente\".\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-textos-continuos-002",
+      "statement": "¿Qué ha ocurrido con las interacciones \"cara a cara\" según el autor?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Han aumentado gracias a las pantallas.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Se han mantenido iguales.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Han disminuido drásticamente.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Son más profundas que antes.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-002-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "**Respuesta correcta:** B\nEl autor reconoce la existencia de una conexión (\"más conectados que nunca\"), pero especifica que es \"a través de pantallas\", contrastándola luego con la falta de interacción real.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-textos-continuos-002",
+      "statement": "La frase \"Estamos más conectados que nunca a través de pantallas\" sugiere que:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las pantallas son la causa de la felicidad moderna.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Existe una conexión técnica o virtual abundante.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Ya no necesitamos hablar con nadie en persona.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La conexión a internet es muy rápida.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-002-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "**Respuesta correcta:** A\nLa idea central es la paradoja presentada: el contraste entre la facilidad de conexión técnica y la pérdida de conexión humana/comunitaria.\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-LEC-11-textos-continuos-002",
+      "statement": "¿Cuál es la idea principal del texto?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tecnología conecta globalmente pero aísla personalmente y debilita la comunidad.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La tecnología es mala y debemos dejar de usarla.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La comunicación global es el mayor logro de la humanidad.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Las pantallas son herramientas útiles para trabajar.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-002-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "**Respuesta correcta:** C\nEl autor sostiene que la tecnología \"debilita los lazos comunitarios\". Afirmar que \"fortalece la democracia\" (un tipo de lazo comunitario/social) iría en una dirección opuesta o matizaría su visión negativa sobre la cohesión social.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-textos-continuos-002",
+      "statement": "Si el autor afirmara que \"las redes sociales fortalecen la democracia\", esta nueva afirmación sería:",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un ejemplo que apoya su tesis sobre la soledad.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Una conclusión lógica de su argumento.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un contraargumento o una idea distinta a la planteada sobre el debilitamiento de lazos.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Una paráfrasis de la primera oración.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-002-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "**Respuesta correcta:** C\nAl conectar la disminución de \"interacciones cara a cara\" con el \"debilitamiento de los lazos comunitarios\", el autor asume implícitamente que esos lazos requieren presencia física para mantenerse fuertes.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-textos-continuos-002",
+      "statement": "El autor asume que los \"lazos comunitarios profundos\" dependen principalmente de:",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una buena conexión a internet.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Tener muchos amigos en redes sociales.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Las interacciones cara a cara.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "La comunicación global eficiente.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-002-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "**Respuesta correcta:** C\nLa segunda oración comienza con \"Por lo tanto\", un conector de consecuencia/conclusión. Esto indica que propone una acción (prohibir bebidas azucaradas) como resultado lógico de la premisa anterior (el azúcar causa obesidad). Es una propuesta de medida derivada de una relación causa-efecto.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-textos-continuos-003",
+      "statement": "¿Qué función cumple la segunda oración en el texto?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentar una evidencia científica.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Describir un fenómeno natural.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Proponer una medida basada en una causa.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Contradecir la afirmación inicial.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-003-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "**Respuesta correcta:** B\nIdentificación de información explícita. El texto comienza diciendo: \"El consumo excesivo de azúcar es una de las principales causas de la obesidad infantil.\"\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-textos-continuos-003",
+      "statement": "Según el texto, ¿cuál es una de las principales causas de la obesidad infantil?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La falta de ejercicio en los colegios.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El consumo excesivo de azúcar.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "La venta de comida chatarra.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La genética de los estudiantes.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-003-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "**Respuesta correcta:** C\nIdentificación de información explícita. El texto dice: \"las escuelas deberían prohibir la venta de bebidas azucaradas\".\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-textos-continuos-003",
+      "statement": "¿Qué medida específica se propone para las escuelas?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumentar las clases de educación física.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Educar a los padres sobre nutrición.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Prohibir la venta de bebidas azucaradas.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Cerrar las tiendas escolares.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-003-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "**Respuesta correcta:** B\n\"Por lo tanto\" es un conector consecutivo. Conecta la causa (azúcar causa obesidad) con la consecuencia/propuesta (se debe prohibir su venta).\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-textos-continuos-003",
+      "statement": "El conector \"Por lo tanto\" se utiliza en el texto para establecer una relación de:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oposición.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Causa y consecuencia.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Adición.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Tiempo.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-003-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "**Respuesta correcta:** B\nEl texto es argumentativo. Parte de un hecho para llegar a una conclusión normativa (\"deberían prohibir\"), buscando convencer al lector de la necesidad de esa medida.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-textos-continuos-003",
+      "statement": "La intención principal del autor con este texto es:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informar sobre las estadísticas de obesidad.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Persuadir sobre la necesidad de una prohibición escolar.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Explicar químicamente qué es el azúcar.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Narrar una historia sobre un estudiante obeso.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-003-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "**Respuesta correcta:** B\nEvaluar argumentos. La opción B ataca la eficacia de la medida y plantea un conflicto ético/práctico relevante, siendo un contraargumento sólido. Las otras opciones son subjetivas (A), falsas (C) o irrelevantes para la salud (D).\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-textos-continuos-003",
+      "statement": "Un argumento válido en contra de la propuesta del autor sería:",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El azúcar es delicioso y a los niños les gusta.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La prohibición en escuelas no controla el consumo fuera de ellas y afecta libertades individuales.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "La obesidad infantil no es un problema grave de salud pública.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Las bebidas azucaradas son más baratas que el agua.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-003-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "**Respuesta correcta:** B\nLectura crítica de supuestos. Para que el argumento tenga sentido (\"las escuelas deberían prohibir...\"), el autor debe asumir que las escuelas tienen ese rol de protección y capacidad de intervención efectiva.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-textos-continuos-003",
+      "statement": "El autor asume implícitamente que:",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los padres no son responsables de la alimentación de sus hijos.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Las escuelas tienen la responsabilidad y el poder de influir en la salud de los estudiantes a través de su oferta alimentaria.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Todos los estudiantes compran bebidas en la escuela.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El azúcar es la única causa de la obesidad.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-003-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "**Respuesta correcta:** C\nEl texto sostiene que \"la objetividad histórica es un ideal inalcanzable\" y que todo relato está influenciado por la subjetividad del historiador. La opción C afirma exactamente lo contrario: que sí es posible relatar el pasado sin distorsión, contradiciendo la tesis del autor.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-textos-continuos-004",
+      "statement": "¿Cuál de las siguientes afirmaciones **contradice** la idea central del texto?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los historiadores siempre incluyen sus propios sesgos en sus escritos.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La memoria colectiva depende de quién narra los eventos pasados.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Es posible relatar el pasado tal y como ocurrió, sin ninguna distorsión.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "La selección de hechos es una herramienta de poder en la historiografía.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-004-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "**Respuesta correcta:** B\nInformación explícita. La primera oración dice: \"La historia no es una ciencia exacta, sino una interpretación narrativa de hechos seleccionados.\"\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-textos-continuos-004",
+      "statement": "Según el texto, la historia se define como:",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una ciencia exacta.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Una interpretación narrativa de hechos seleccionados.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Un conjunto de fechas y batallas.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una verdad absoluta e inmutable.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-004-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "**Respuesta correcta:** C\nInformación explícita. El texto dice: \"la objetividad histórica es un ideal inalcanzable, pues todo relato está teñido por la subjetividad del historiador\".\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-textos-continuos-004",
+      "statement": "Según el autor, ¿por qué es inalcanzable la objetividad histórica?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque faltan documentos históricos.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Porque nadie lee libros de historia.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Porque todo relato está teñido por la subjetividad del historiador.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Porque la historia cambia todo el tiempo.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-004-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "**Respuesta correcta:** B\nInferencia. Decidir qué incluir y qué excluir (recordar/olvidar) es un acto de selección consciente que moldea la narrativa histórica, implicando un ejercicio de poder o criterio editorial, no una falla de memoria.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-textos-continuos-004",
+      "statement": "La frase \"decidir qué se recuerda y qué se olvida\" implica que el historiador:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiene mala memoria.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Ejerce un poder selectivo sobre la construcción del pasado.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Solo escribe sobre lo que le conviene.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Es una víctima de su contexto social.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-004-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "**Respuesta correcta:** C\nEl autor argumenta consistentemente que la historia no es exacta ni objetiva, sino una interpretación narrativa sujeta a la subjetividad.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-textos-continuos-004",
+      "statement": "La tesis central del texto es:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La historia debería ser considerada una ciencia exacta como la física.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "No debemos confiar en ningún libro de historia.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La naturaleza de la historia es subjetiva e interpretativa, no objetiva.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Los historiadores deberían ser más objetivos en su trabajo.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-004-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "**Respuesta correcta:** B\nLectura crítica/implicaciones. Si la historia es subjetiva y depende del contexto del historiador, la actitud lógica de un estudiante es cuestionar las fuentes y entender el contexto de producción del relato, en lugar de aceptarlo como verdad absoluta.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-textos-continuos-004",
+      "statement": "Si asumimos como cierta la postura del autor, entonces un estudiante de historia debería:",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aprenderse de memoria todas las fechas sin cuestionarlas.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Analizar críticamente quién escribe el relato y desde qué contexto lo hace.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Buscar un solo libro que contenga la verdad absoluta.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Abandonar el estudio de la historia porque es falsa.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-004-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "**Respuesta correcta:** B\nEl texto define la historia como una \"interpretación narrativa de hechos seleccionados\", lo que indica que los hechos no se presentan \"en bruto\", sino que son filtrados y organizados (moldeados) por la narrativa del historiador.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-textos-continuos-004",
+      "statement": "¿Qué relación sugiere el texto entre \"narración\" y \"hechos\"?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La narración es posterior e independiente de los hechos.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La narración moldea los hechos mediante la selección y la interpretación.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Los hechos dictan exactamente cómo debe ser la narración.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No existe ninguna relación entre ellos.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-004-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "**Respuesta correcta:** C\nEl texto es instructivo porque presenta una secuencia de pasos ordenados (primero, luego, finalmente) para realizar una tarea específica: preparar café.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-textos-continuos-005",
+      "statement": "El texto anterior es de tipo:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argumentativo.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Narrativo.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Instructivo o Expositivo.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Lírico.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-005-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "**Respuesta correcta:** B\nInformación explícita. \"Primero se debe moler el grano...\".\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-textos-continuos-005",
+      "statement": "¿Cuál es el primer paso mencionado para preparar un buen café?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Calentar el agua a 90°C.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Moler el grano justo antes de la preparación.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Comprar el café más caro.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Servir en una taza caliente.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-005-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "**Respuesta correcta:** C\nInformación explícita. \"se calienta el agua a unos 90°C, sin dejar que hierva\".\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-textos-continuos-005",
+      "statement": "¿A qué temperatura se debe calentar el agua según el texto?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100°C (hirviendo).",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "50°C.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Unos 90°C, sin dejar que hierva.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Fría.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-005-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "**Respuesta correcta:** B\nEstos conectores estructuran la secuencia lógica de los pasos en un procedimiento.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-textos-continuos-005",
+      "statement": "Las palabras \"Primero\", \"Luego\" y \"Finalmente\" funcionan en el texto como:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adjetivos calificativos.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Conectores de orden o secuencia temporal.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Verbos de acción.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Sustantivos abstractos.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-005-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "**Respuesta correcta:** C\nAl ser un texto instructivo con pasos específicos, su intención comunicativa es guiar o instruir en un procedimiento.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-textos-continuos-005",
+      "statement": "El propósito principal de este texto es:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Convencer al lector de que el café es saludable.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Contar la historia del descubrimiento del café.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Guiar al lector en el proceso de preparación del café.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Describir las variedades de café colombiano.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-005-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "**Respuesta correcta:** B\nInferencia. Si la instrucción especifica \"90°C\" y advierte explícitamente \"sin dejar que hierva\", se infiere que hervir el agua es contraproducente para el resultado deseado (\"buen café\").\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-textos-continuos-005",
+      "statement": "Del paso \"sin dejar que hierva\", se puede inferir que:",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua hirviendo mejora el sabor del café.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El agua hirviendo (100°C) podría dañar la calidad de la preparación (quemar el café).",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Es imposible hervir agua a 90°C.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El autor prefiere el té.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-005-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "**Respuesta correcta:** C\nEl uso del \"se impersonal\" o pasiva refleja centra la atención en la acción y el objeto, eliminando al sujeto y dando al texto un tono objetivo y universal, típico de las instrucciones técnicas.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-textos-continuos-005",
+      "statement": "Una característica estilística de este texto que refuerza su objetividad es:",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uso de metáforas poéticas (\"el grano es oro negro\").",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La expresión de opiniones personales (\"me encanta este paso\").",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El uso de formas impersonales (\"se debe\", \"se calienta\", \"se vierte\").",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "El uso constante de signos de exclamación.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-005-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "La tesis es la postura central. El autor afirma explícitamente que la pena es \"ineficaz\" y conlleva un \"riesgo inaceptable\", concluyendo implícitamente su rechazo.\n**Competencia evaluada:** Semántica - Identificación de Tesis.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-textos-continuos-mix-001",
+      "statement": "¿Cuál es la **tesis** principal del autor en el texto anterior?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El sistema judicial comete errores frecuentemente.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La pena de muerte no debe aplicarse porque es ineficaz y riesgosa.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Los criminales no temen a la muerte.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La tasa de homicidios depende de la legislación de cada estado.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-mix-001-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "El texto dice literalmente: \"la tasa de homicidios no es menor que en aquellos donde no existe\".\n**Competencia evaluada:** Semántica - Contenido explícito.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-textos-continuos-mix-001",
+      "statement": "Según el texto, ¿qué demuestran los estudios sobre la tasa de homicidios?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que aumenta con la pena de muerte.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Que disminuye drásticamente con la pena de muerte.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Que no es menor en estados con pena de muerte comparado con los que no la tienen.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Que no tienen relación con la ley.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-mix-001-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "\"Falible\" significa que puede fallar o equivocarse. En este contexto, se refiere al riesgo de condenar a un inocente por error.\n**Competencia evaluada:** Pragmática - Inferencia léxica.\n---\n## Texto Base 2 (Preguntas 4-7)\n\"La tecnología nos conecta con los lejanos, pero a menudo nos desconecta de quienes tenemos al lado. En una cena familiar, es común ver rostros iluminados por pantallas en lugar de miradas cómplices. Hemos cambiado la conversación profunda por el 'like' efímero.\"\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-textos-continuos-mix-001",
+      "statement": "Cuando el autor habla de \"sistema judicial falible\", implica que:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los jueces son corruptos.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Existe la posibilidad de error humano en los veredictos.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "El sistema no tiene dinero.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Las leyes son blandas.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-mix-001-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "La imagen ilustra cómo la tecnología capta la atención de las personas, aislándolas del entorno inmediato (la cena familiar).\n**Competencia evaluada:** Pragmática - Retórica y estilo.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-textos-continuos-mix-001",
+      "statement": "La expresión \"rostros iluminados por pantallas\" funciona en el texto como:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una metáfora del progreso.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Una imagen descriptiva de la alienación tecnológica.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Una crítica a la falta de electricidad.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un elogio a la tecnología moderna.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-mix-001-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "El autor califica el like como \"efímero\" y lo contrapone a la \"conversación profunda\", denotando su superficialidad.\n**Competencia evaluada:** Semántica - Valoración del autor.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-textos-continuos-mix-001",
+      "statement": "El autor considera que el \"like\":",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una forma profunda de amor.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Es superficial y pasajero (efímero).",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Es la mejor manera de comunicarse.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Reemplaza perfectamente a la conversación.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-mix-001-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "La primera frase resume la paradoja: \"conecta con los lejanos, pero... desconecta de quienes tenemos al lado\".\n**Competencia evaluada:** Crítica - Identificación de contradicciones/paradojas.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-textos-continuos-mix-001",
+      "statement": "La paradoja central que plantea el texto es:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tecnología es cara pero necesaria.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Estamos más conectados globalmente pero más aislados localmente.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Las pantallas iluminan pero no calientan.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Cenamos juntos pero comemos cosas distintas.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-mix-001-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "Es un texto de opinión/reflexión crítica sobre un comportamiento social (el uso de tecnología en espacios sociales).\n**Competencia evaluada:** Crítica - Intención del autor.\n---\n## 📊 Metadata de Validación\n| Pregunta | ID | Dificultad | Competencia ICFES | Componente | Validado |\n|----------|-----|------------|-------------------|------------|----------|\n| 1 | v1 | Medium | Lectura Crítica | Interpretación | ⬜ |\n| 2 | v2 | Low | Lectura Crítica | Literal | ⬜ |\n| 3 | v3 | 4 | Lectura Crítica | Inferencial | ⬜ |\n| 4 | v4 | Medium | Lectura Crítica | Pragmático | ⬜ |\n| 5 | v5 | Medium | Lectura Crítica | Inferencial | ⬜ |\n| 6 | v6 | High | Lectura Crítica | Crítico | ⬜ |\n| 7 | v7 | High | Lectura Crítica | Crítico | ⬜ |",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-textos-continuos-mix-001",
+      "statement": "¿Qué intención comunicativa predomina en el texto?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informar sobre ventas de celulares.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Narrar una historia sobre una cena.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Persuadir o reflexionar sobre el impacto social negativo de la tecnología.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Instruir sobre cómo usar el celular en la mesa.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-textos-continuos-mix-001-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "**¿Por qué C es correcta?**\n\"Escéptico\" implica duda o incredulidad. El contexto refuerza esto: el Dr. piensa que los números son \"demasiado perfectos\" y advierte sobre la necesidad de verificaciones. No cree ciegamente en el resultado inicial.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Vocabulario en contexto\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-vocabulario-001",
+      "statement": "En el contexto del texto, la palabra **\"escéptico\"** significa que el Dr. Arango estaba:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entusiasta y feliz por el éxito",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Optimista sobre el futuro",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Dudoso y desconfiado de la validez inmediata",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Satisfecho con el trabajo de su equipo",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-vocabulario-001-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "**¿Por qué C es correcta?**\nEl texto dice literalmente: \"su equipo celebraba con euforia\". Es una pregunta de recuperación de información explícita.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Ubicar información explícita\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-vocabulario-001",
+      "statement": "Según el texto, ¿cómo reaccionó el equipo del Dr. Arango ante los resultados?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con silencio absoluto.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Con miedo y preocupación.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Con euforia y celebración.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Con escepticismo y duda.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-vocabulario-001-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "**¿Por qué B es correcta?**\nEn ciencia, \"revolucionario\" se refiere a un descubrimiento que transforma radicalmente el conocimiento o la tecnología existente (un cambio de paradigma), no a una revolución política violenta.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Comprensión de vocabulario en contexto\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-vocabulario-001",
+      "statement": "En la frase \"un avance **revolucionario**\", la palabra resaltada indica que el avance es:",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Violento y destructivo.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Innovador y capaz de cambiarlo todo.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Antiguo y tradicional.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Pequeño e insignificante.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-vocabulario-001-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "**¿Por qué C es correcta?**\nEl texto conecta su silencio con su pensamiento: \"Los números son demasiado perfectos... la naturaleza rara vez es tan ordenada\". Su silencio es producto de su análisis crítico y desconfianza, no de ignorancia o ira.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Inferencia (Causa de una actitud)\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-vocabulario-001",
+      "statement": "Se puede inferir que el \"silencio absoluto\" del Dr. Arango se debía a:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que no entendía los datos en la pantalla.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Que estaba enojado con su equipo por celebrar.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Su cautela y sospecha ante la perfección de los datos.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Que había perdido la voz por gritar.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-vocabulario-001-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "**¿Por qué B es correcta?**\nEs una expresión idiomática que significa celebrar un triunfo. El Dr. advierte que *antes* de hacer eso (declarar el éxito), se requieren verificaciones.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Polisemias y expresiones idiomáticas\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-vocabulario-001",
+      "statement": "¿Qué significa la expresión **\"cantar victoria\"** en el contexto final del texto?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Participar en un concurso de canto.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Declarar el éxito definitivo del experimento.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Ganar una guerra contra otro país.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Publicar los resultados en una revista.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-vocabulario-001-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "**¿Por qué B es correcta?**\nEl escepticismo ante resultados \"demasiado perfectos\" y la exigencia de \"verificaciones independientes\" son pilares del método científico (rigor). No es pesimismo (negar por negar), sino cautela metodológica.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Reflexionar y evaluar (Contexto epistemológico)\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-LEC-11-vocabulario-001",
+      "statement": "La actitud del Dr. Arango refleja un principio fundamental de la ciencia conocido como:",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dogmatismo académico.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Rigor crítico y verificación.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Pesimismo irracional.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Competencia desleal.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-vocabulario-001-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "**¿Por qué C es correcta?**\nEl texto opone constantemente dos reacciones: la \"euforia\" y celebración del equipo frente al \"silencio\", \"ceño fruncido\" y \"escepticismo\" del Dr. Arango. Este contraste resalta la diferencia entre la emoción del descubrimiento aparente y la prudencia de la experiencia.\n**Competencia evaluada:** Lectura Crítica\n**Componente:** Evaluar la estructura y elementos literarios\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-LEC-11-vocabulario-001",
+      "statement": "¿Qué contraste principal estructura la narrativa de este breve texto?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El ruido de la calle vs. el silencio del laboratorio.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La juventud del equipo vs. la vejez del Dr. Arango.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La euforia ingenua del equipo vs. la cautela experta del líder.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "La teoría física vs. la práctica experimental.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-LEC-11-vocabulario-001-v7"
+    }
+  ],
+  "metadata": {
+    "total_questions": 98,
+    "exam": "icfes",
+    "total_pages": 1.0,
+    "page": 1,
+    "grade": "11",
+    "generated_at": "2025-12-08T00:20:16Z",
+    "subject": "Lectura Crítica",
+    "country": "CO"
+  }
+}

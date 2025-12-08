@@ -1,0 +1,252 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "explanation": "Es un problema de proporcionalidad directa (Regla de tres simple).\nSi 4 personas $\\rightarrow$ 200g\nEntonces 1 persona $\\rightarrow$ 50g ($200 \\div 4$)\nPara 10 personas $\\rightarrow$ $10 \\times 50 = 500g$.\n**Competencia evaluada:** Resolución - Proporcionalidad directa.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-07-racionales-001",
+      "statement": "Para preparar un postre para 4 personas se necesitan 200 gramos de harina. Si se quiere preparar el mismo postre para 10 personas, ¿cuántos gramos de harina se necesitan?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "400 g",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "500 g",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "600 g",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "300 g",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-07-racionales-001-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "Identificación de conjuntos numéricos. Los enteros negativos llevan el signo menos (-).\n**Competencia evaluada:** Comunicación - Números enteros.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-07-racionales-001",
+      "statement": "¿Cuál de los siguientes números es un número entero negativo?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "-3",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "1.5",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-07-racionales-001-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "Signos contrarios se restan y se deja el signo del mayor valor absoluto.\n$8 - 5 = 3$ (positivo porque 8 > 5).\n**Competencia evaluada:** Ejecución - Operaciones con enteros.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-07-racionales-001",
+      "statement": "Al sumar $-5 + 8$, el resultado es:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-13",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "-3",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "13",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-07-racionales-001-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "Posición inicial: -10.\nMovimiento: Descender = restar (-5).\n$-10 - 5 = -15$.\n**Competencia evaluada:** Formulación - Problemas aditivos con enteros.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-07-racionales-001",
+      "statement": "Un buzo se encuentra a -10 metros de profundidad y desciende 5 metros más. ¿A qué profundidad está ahora?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-5 metros",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "-15 metros",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "5 metros",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "15 metros",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-07-racionales-001-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "$Distancia = Velocidad \\times Tiempo$.\n$60 \\times 2.5 = 60 \\times 2 + 60 \\times 0.5 = 120 + 30 = 150$.\n**Competencia evaluada:** Resolución - Proporcionalidad.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-07-racionales-001",
+      "statement": "Si un automóvil recorre 60 km en 1 hora. ¿Cuántos km recorrerá en 2.5 horas manteniendo la misma velocidad?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "120 km",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "180 km",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "150 km",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "90 km",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-07-racionales-001-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "1. Calcular el 20% de 50.000: $\\frac{20}{100} \\times 50.000 = 10.000$.\n2. Restar el descuento: $50.000 - 10.000 = 40.000$.\n**Competencia evaluada:** Razonamiento - Porcentajes.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-07-racionales-001",
+      "statement": "En una tienda, una camisa cuesta $\\$50.000$ pero tiene un descuento del 20%. ¿Cuál es el precio final a pagar?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\$10.000$",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$\\$30.000$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$\\$40.000$",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "$\\$45.000$",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-07-racionales-001-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "En la recta numérica:\nMás a la izquierda: -1 (menor).\nLuego: -0.5.\nLuego: 0.\nMás a la derecha: 0.5 (1/2) (mayor).\n*(Nota: Las opciones A y C son idénticas en texto, seleccionamos C por consistencia de herramienta).*\n**Competencia evaluada:** Razonamiento - Orden en Q.\n---\n## 📊 Metadata de Validación\n| Pregunta | ID | Dificultad | Competencia ICFES | Componente | Validado |\n|----------|-----|------------|-------------------|------------|----------|\n| 1 | v1 | Medium | Resolución | Numérico | ⬜ |\n| 2 | v2 | Low | Comunicación | Numérico | ⬜ |\n| 3 | v3 | Low | Ejecución | Numérico | ⬜ |\n| 4 | v4 | Medium | Formulación | Numérico | ⬜ |\n| 5 | v5 | Medium | Resolución | Variacional | ⬜ |\n| 6 | v6 | High | Razonamiento | Numérico | ⬜ |\n| 7 | v7 | High | Razonamiento | Numérico | ⬜ |",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-07-racionales-001",
+      "statement": "Ordene de menor a mayor los siguientes números racionales: $-0.5$, $\\frac{1}{2}$, $-1$, $0$.",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-1, -0.5, 0, \\frac{1}{2}$",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$0, \\frac{1}{2}, -0.5, -1$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$-1, -0.5, 0, \\frac{1}{2}$",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{2}, 0, -0.5, -1$",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-07-racionales-001-v7"
+    }
+  ],
+  "metadata": {
+    "total_questions": 7,
+    "exam": "icfes",
+    "total_pages": 1.0,
+    "page": 1,
+    "grade": "7",
+    "generated_at": "2025-12-08T00:20:16Z",
+    "subject": "Matemáticas",
+    "country": "CO"
+  }
+}

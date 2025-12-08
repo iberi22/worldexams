@@ -1,0 +1,333 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "explanation": "",
+      "correct_answer": "",
+      "bundle_id": "CO-SOC-11-globalizacion-001",
+      "statement": "# Bundle: Globalización, Economía y Territorio\n> **Fuente:** Estándares Básicos de Competencias en Ciencias Sociales\n> **Componente:** Poder, economía y organizaciones\n> **Competencia:** Pensamiento sistémico (relacionar fenómenos locales y globales)",
+      "difficulty": "Medium",
+      "options": [],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-SOC-11-globalizacion-001-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "Esta es la definición básica de **Globalización**: un proceso de creciente interconectividad e interdependencia a nivel mundial en ámbitos económicos, culturales y tecnológicos.\n**Competencia evaluada:** Pensamiento social - Conceptos básicos.",
+      "correct_answer": "B",
+      "bundle_id": "CO-SOC-11-globalizacion-001",
+      "statement": "¿Qué proceso se caracteriza por el aumento de la conexión e intercambio entre personas, empresas y gobiernos de todo el mundo?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nacionalismo",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Globalización",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Feudalismo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Aislamiento",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-SOC-11-globalizacion-001-v2"
+    },
+    {
+      "number": 4,
+      "explanation": "La soberanía se ve \"limitada\" cuando un Estado debe seguir reglas impuestas por entes externos (FMI, Banco Mundial) para recibir préstamos o comerciar, perdiendo autonomía en sus decisiones de política económica interna.\n**Competencia evaluada:** Multiperspectivismo - Análisis crítico.",
+      "correct_answer": "C",
+      "bundle_id": "CO-SOC-11-globalizacion-001",
+      "statement": "Algunos críticos de la globalización argumentan que este proceso puede amenazar la **soberanía** de los países. ¿Cuál argumento respalda mejor esta afirmación?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La globalización obliga a todos los países a tener el mismo presidente.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Los países ya no pueden tener ejércitos propios.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Las decisiones de organismos internacionales (FMI, OMC) o empresas multinacionales pueden condicionar las políticas internas de un país.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "La globalización elimina las fronteras físicas en los mapas.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-SOC-11-globalizacion-001-v4"
+    },
+    {
+      "number": 6,
+      "explanation": "La **deslocalización** es una estrategia común en la globalización donde las empresas trasladan procesos productivos a lugares con menores costos operativos. Esto genera empleo (a veces precario) en el destino, pero desempleo en el origen, y plantea dilemas éticos y ambientales.\n**Competencia evaluada:** Pensamiento sistémico - Dinámicas del capitalismo global.\n## 📊 Metadata de Validación\n| Pregunta | ID | Dificultad | Competencia ICFES | Componente | Validado |\n|----------|-----|------------|-------------------|------------|----------|\n| 1 | v1 | 4 | Pensamiento sistémico | Poder y Economía | ⬜ |\n| 2 | v2 | Low | Pensamiento social | Poder y Economía | ⬜ |\n| 3 | v3 | Low | Pensamiento social | Poder y Economía | ⬜ |\n| 4 | v4 | Medium | Multiperspectivismo | Poder y Economía | ⬜ |\n| 5 | v5 | Medium | Pensamiento social | Poder y Economía | ⬜ |\n| 6 | v6 | High | Pensamiento sistémico | Poder y Economía | ⬜ |\n| 7 | v7 | High | Reflexión ética | Poder y Economía | ⬜ |\n*(Contenido migrado, favor revisar)*\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-SOC-11-globalizacion-001",
+      "statement": "Analice la siguiente situación: \"Una empresa multinacional cierra su fábrica en un país desarrollado y la traslada a un país en vía de desarrollo donde los salarios son más bajos y las leyes ambientales más laxas.\" Este fenómeno se conoce como:",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desarrollo Sostenible",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Deslocalización Industrial (Offshoring)",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Nacionalización",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Economía Circular",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-SOC-11-globalizacion-001-v6"
+    },
+    {
+      "number": 2,
+      "explanation": "TODO: Explicación pendiente\n---",
+      "correct_answer": "",
+      "bundle_id": "CO-SOC-11-globalizacion-001",
+      "statement": "TODO: Generar variación de tipo Low A",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Opción 1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Opción 2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Opción 3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Opción 4",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-SOC-11-globalizacion-001-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "TODO: Explicación pendiente\n---",
+      "correct_answer": "",
+      "bundle_id": "CO-SOC-11-globalizacion-001",
+      "statement": "TODO: Generar variación de tipo Low B",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Opción 1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Opción 2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Opción 3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Opción 4",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-SOC-11-globalizacion-001-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "TODO: Explicación pendiente\n---",
+      "correct_answer": "",
+      "bundle_id": "CO-SOC-11-globalizacion-001",
+      "statement": "TODO: Generar variación de tipo Medium A",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Opción 1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Opción 2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Opción 3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Opción 4",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-SOC-11-globalizacion-001-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "TODO: Explicación pendiente\n---",
+      "correct_answer": "",
+      "bundle_id": "CO-SOC-11-globalizacion-001",
+      "statement": "TODO: Generar variación de tipo Medium B",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Opción 1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Opción 2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Opción 3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Opción 4",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-SOC-11-globalizacion-001-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "TODO: Explicación pendiente\n---",
+      "correct_answer": "",
+      "bundle_id": "CO-SOC-11-globalizacion-001",
+      "statement": "TODO: Generar variación de tipo High A",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Opción 1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Opción 2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Opción 3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Opción 4",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-SOC-11-globalizacion-001-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "TODO: Explicación pendiente\n---",
+      "correct_answer": "",
+      "bundle_id": "CO-SOC-11-globalizacion-001",
+      "statement": "TODO: Generar variación de tipo High B",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Opción 1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Opción 2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Opción 3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Opción 4",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-SOC-11-globalizacion-001-v7"
+    }
+  ],
+  "metadata": {
+    "total_questions": 10,
+    "exam": "icfes",
+    "total_pages": 1.0,
+    "page": 1,
+    "grade": "11",
+    "generated_at": "2025-12-08T00:20:16Z",
+    "subject": "Ciencias Sociales",
+    "country": "CO"
+  }
+}

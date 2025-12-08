@@ -1,0 +1,1374 @@
+{
+  "questions": [
+    {
+      "number": 3,
+      "explanation": "Estructura del átomo:\n*   **Protón:** Carga positiva (+), en el núcleo.\n*   **Neutrón:** Carga neutra (0), en el núcleo.\n*   **Electrón:** Carga negativa (-), en la corteza/orbitales.\n**Competencia evaluada:** Uso comprensivo del conocimiento - estructura atómica\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-CIE-11-quimica-001",
+      "statement": "¿Cuál es la partícula subatómica que tiene carga eléctrica negativa y orbita alrededor del núcleo?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Protón",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Neutrón",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Electrón",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Fotón",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-CIE-11-quimica-001-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "Balanceo por tanteo:\n1.  **Oxígeno:** Entran 2 ($O_2$). Para que salgan 2, necesitamos $2H_2O$.\n2.  **Hidrógeno:** Al poner $2H_2O$, ahora tenemos $2 \\times 2 = 4$ átomos de H a la salida.\n3.  Para tener 4 H a la entrada, necesitamos $2H_2$.\nEcuación final: $2H_2 + O_2 \\rightarrow 2H_2O$.\n**Competencia evaluada:** Explicación de fenómenos - balanceo de ecuaciones\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-CIE-11-quimica-001",
+      "statement": "Se tiene la siguiente ecuación química no balanceada:\n$$H_2 + O_2 \\rightarrow H_2O$$\nPara cumplir con la Ley de Conservación de la Masa, los coeficientes estequiométricos correctos para balancearla son:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1, 1 \\rightarrow 1$",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$2H_2 + 1O_2 \\rightarrow 2H_2O$",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$1H_2 + 2O_2 \\rightarrow 2H_2O$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$2H_2 + 2O_2 \\rightarrow 1H_2O$",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-CIE-11-quimica-001-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "Según la **Ley de Gay-Lussac**: Para un gas a volumen constante, la presión es directamente proporcional a la temperatura absoluta ($P \\propto T$).\n*   Al calentar, las moléculas se mueven más rápido (mayor energía cinética) y chocan con más fuerza contra las paredes, **aumentando la presión**.\n**Competencia evaluada:** Explicación de fenómenos - leyes de los gases\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-CIE-11-quimica-001",
+      "statement": "Si se aumenta la temperatura de un gas confinado en un recipiente rígido (volumen constante), ¿qué sucede con la presión del gas?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Disminuye.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Permanece igual.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Se hace cero.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-CIE-11-quimica-001-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "Fórmula de pH: $pH = -\\log[H^+]$.\nCálculo:\n$$pH = -\\log(1 \\times 10^{-5})$$\n$$pH = -(-5) = 5$$\nComo $pH = 5 < 7$, la solución es **Ácida**.\n**Competencia evaluada:** Resolución - cálculo de pH y logaritmos\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-CIE-11-quimica-001",
+      "statement": "Una solución tiene una concentración de iones hidrógeno $[H^+] = 1 \\times 10^{-5}$ M. ¿Cuál es su pH y qué tipo de solución es?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "pH = 9, Básica",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "pH = 5, Básica",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "pH = 5, Ácida",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "pH = -5, Ácida",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-CIE-11-quimica-001-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "Relación estequiométrica: **2 moles $H_2$ por cada 1 mol $O_2$**.\nTenemos:\n*   4 moles $H_2$\n*   1 mol $O_2$\nAnálisis:\n*   Con 1 mol de $O_2$ solo necesitamos 2 moles de $H_2$.\n*   Tenemos 4 moles de $H_2$ (hay exceso de $H_2$).\n*   El $O_2$ se acaba primero $\\rightarrow$ **Reactivo Límite es $O_2$**.\nProducción:\n*   La reacción produce 2 moles de $H_2O$ por cada 1 mol de $O_2$.\n*   Como tenemos 1 mol de $O_2$, se producen **2 moles de agua**.\n**Competencia evaluada:** Indagación y Resolución - reactivo límite",
+      "correct_answer": "C",
+      "bundle_id": "CO-CIE-11-quimica-001",
+      "statement": "Se hacen reaccionar 4 moles de hidrógeno ($H_2$) con 1 mol de oxígeno ($O_2$) para producir agua ($H_2O$) según la reacción: $2H_2 + O_2 \\rightarrow 2H_2O$.\n¿Cuál es el reactivo límite y cuántos moles de agua se producen teóricamente?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reactivo límite: $H_2$. Se producen 4 moles de agua.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Reactivo límite: $O_2$. Se produce 1 mol de agua.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Reactivo límite: $O_2$. Se producen 2 moles de agua.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "No hay reactivo límite. Se producen 5 moles de agua.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-CIE-11-quimica-001-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "**¿Por qué A es correcta?**\nSegún la escala de pH, cualquier valor menor a 7 se considera ácido. Un pH de 3 indica una acidez significativa.\n**Competencia evaluada:** Uso comprensivo del conocimiento científico\n**Componente:** Química - Escala de pH\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-QUI-11-acidobase-001",
+      "statement": "Una solución con pH = 3 es:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ácida",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Neutra",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Básica",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No se puede determinar",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-QUI-11-acidobase-001-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "**¿Por qué C es correcta?**\nEl texto establece claramente: \"pH Neutro (7): Como el agua pura\".\n**Competencia evaluada:** Uso comprensivo del conocimiento científico\n**Componente:** Química - Conceptos Básicos\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-QUI-11-acidobase-001",
+      "statement": "Según el texto, una sustancia con pH igual a 7 se clasifica como:",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ácida fuerte.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Básica fuerte.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Neutra.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Tóxica.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-QUI-11-acidobase-001-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "**¿Por qué C es correcta?**\nEl texto lista bajo pH Básico o Alcalino: \"Ejemplos: jabón, amoníaco\".\n**Competencia evaluada:** Uso comprensivo del conocimiento científico\n**Componente:** Química - Ejemplos Cotidianos\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-QUI-11-acidobase-001",
+      "statement": "¿Cuál de los siguientes es un ejemplo de sustancia básica (alcalina) mencionado en el texto?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Jugo de limón.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Vinagre.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Jabón.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Agua pura.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-QUI-11-acidobase-001-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "**¿Por qué A es correcta?**\nEl jugo de limón es ácido (pH < 7). Los ácidos vuelven el papel tornasol rojo.\n**Competencia evaluada:** Explicación de fenómenos\n**Componente:** Química - Indicadores de pH\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-QUI-11-acidobase-001",
+      "statement": "Si se utiliza papel tornasol como indicador, típicamente se torna **rojo** en presencia de ácidos y **azul** en presencia de bases. Si sumerges el papel en jugo de limón (pH 2), ¿qué color esperas?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rojo.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Azul.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Verde.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Amarillo brillante.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-QUI-11-acidobase-001-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "**¿Por qué A es correcta?**\nEn la escala de pH, cuanto **menor** es el número, **mayor** es la concentración de iones $H^+$ y por tanto mayor la acidez. pH 2 es mucho más ácido que pH 5.\n**Competencia evaluada:** Uso comprensivo del conocimiento científico\n**Componente:** Química - Interpretación de Escala\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-QUI-11-acidobase-001",
+      "statement": "Se tienen dos soluciones ácidas: la Solución A con pH 2 y la Solución B con pH 5. ¿Cuál es más ácida?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Solución A.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La Solución B.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Ambas son igual de ácidas.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna es ácida.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-QUI-11-acidobase-001-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "**¿Por qué C es correcta?**\nLa diferencia de unidades de pH es $6 - 4 = 2$ unidades.\nComo la escala es logarítmica (base 10), la diferencia en concentración es $10^{\\text{diferencia}} = 10^2 = 100$ veces.\n**Competencia evaluada:** Indagación y Análisis\n**Componente:** Química - Matemáticas del pH\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-QUI-11-acidobase-001",
+      "statement": "Debido a que la escala de pH es logarítmica, ¿cuántas veces es más ácida una solución de pH 4 comparada con una de pH 6?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 veces.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "20 veces.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "100 veces.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "1000 veces.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-QUI-11-acidobase-001-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "**¿Por qué C es correcta?**\nLa reacción general de neutralización es: $\\text{Ácido} + \\text{Base} \\rightarrow \\text{Sal} + \\text{Agua}$.\nPor ejemplo: $HCl + NaOH \\rightarrow NaCl + H_2O$.\n**Competencia evaluada:** Explicación de fenómenos\n**Componente:** Química - Reacciones Químicas\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-QUI-11-acidobase-001",
+      "statement": "En una reacción de neutralización, un ácido reacciona con una base para formar dos productos principales. Estos son generalmente:",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dos gases.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Un metal y un no metal.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una sal y agua.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Óxidos ácidos.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-QUI-11-acidobase-001-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "**¿Por qué C es correcta?**\nEl protón es una partícula subatómica ubicada en el núcleo del átomo que tiene carga eléctrica positiva (+1). El número de protones determina el número atómico y de su cantidad depende la identidad del elemento.\n**Competencia evaluada:** Uso comprensivo del conocimiento científico\n**Componente:** Química - Estructura Atómica\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-QUI-11-atomica-001",
+      "statement": "¿Qué partícula subatómica tiene carga positiva?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Electrón",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Neutrón",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Protón",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Fotón",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-QUI-11-atomica-001-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "**¿Por qué B es correcta?**\nEl texto señala que el neutrón está \"también en el núcleo\", compartiendo espacio con los protones.\n**Competencia evaluada:** Uso comprensivo del conocimiento científico\n**Componente:** Química - Partículas Subatómicas\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-QUI-11-atomica-001",
+      "statement": "Según el texto, ¿dónde se encuentran ubicados los neutrones en un átomo?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Orbitando alrededor del núcleo.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "En el núcleo.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Fuera del átomo.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No tienen ubicación definida.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-QUI-11-atomica-001-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "**¿Por qué A es correcta?**\nEl texto define al electrón con \"carga negativa -1, orbitando alrededor del núcleo\".\n**Competencia evaluada:** Uso comprensivo del conocimiento científico\n**Componente:** Química - Cargas Eléctricas\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-QUI-11-atomica-001",
+      "statement": "¿Qué partícula subatómica tiene carga eléctrica negativa?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Electrón.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Protón.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Neutrón.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Núcleo.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-QUI-11-atomica-001-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "**¿Por qué C es correcta?**\nEl texto establece explícitamente: \"La identidad de un elemento químico está definida por su Número Atómico ($Z$), que corresponde a la cantidad de protones\".\n**Competencia evaluada:** Uso comprensivo del conocimiento científico\n**Componente:** Química - Propiedades Periódicas\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-QUI-11-atomica-001",
+      "statement": "El Número Atómico ($Z$) de un elemento es crucial porque define su identidad química. Este número corresponde a la cantidad de:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Electrones en la capa de valencia.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Neutrones en el núcleo.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Protones en el núcleo.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "La suma de protones y neutrones.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-QUI-11-atomica-001-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "**¿Por qué B es correcta?**\nDado que $A = Z + N$, si $Z$ (protones) es constante porque es el mismo elemento, la única forma de que $A$ (masa) cambie es que cambie $N$ (neutrones).\n**Competencia evaluada:** Explicación de fenómenos\n**Componente:** Química - Isótopos\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-QUI-11-atomica-001",
+      "statement": "Los isótopos son átomos del mismo elemento que tienen el mismo número de protones pero diferente número másico. Esto significa que difieren en la cantidad de:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Electrones.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Neutrones.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Protones.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Niveles de energía.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-QUI-11-atomica-001-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "**¿Por qué C es correcta?**\nSabemos que $A = Z + N$. Despejando los neutrones:\n$N = A - Z$\n$N = 23 - 11 = 12$.\n**Competencia evaluada:** Uso comprensivo del conocimiento científico\n**Componente:** Química - Cálculos Atómicos\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-QUI-11-atomica-001",
+      "statement": "Si un átomo tiene un Número Másico ($A$) de 23 y un Número Atómico ($Z$) de 11, ¿cuántos neutrones tiene en su núcleo?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "23",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "11",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "12",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "34",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-QUI-11-atomica-001-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "**¿Por qué C es correcta?**\nUn átomo neutro tendría 11 electrones (igual que protones). Una carga +1 indica que ha *perdido* un electrón (carga negativa).\nElectrones = Protones - Carga = $11 - (+1) = 10$.\n**Competencia evaluada:** Indagación y uso de conocimiento\n**Componente:** Química - Iones y Carga\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-QUI-11-atomica-001",
+      "statement": "Un ion de Sodio ($Na^+$) tiene 11 protones. Si su carga neta es +1, ¿cuántos electrones tiene orbitando?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "11",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-QUI-11-atomica-001-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "**¿Por qué B es correcta?**\nEn un átomo neutro, el número de protones (carga positiva) es igual al número de electrones (carga negativa), equilibrando las cargas a cero. Si tiene 12 protones, debe tener 12 electrones.\n**Competencia evaluada:** Uso comprensivo del conocimiento científico\n**Componente:** Química - Neutralidad Eléctrica\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-QUI-11-atomica-002",
+      "statement": "Un átomo neutro tiene 12 protones. ¿Cuántos electrones tiene?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "24",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Depende del isótopo",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-QUI-11-atomica-002-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "**¿Por qué C es correcta?**\nEl texto indica directo: \"las columnas verticales se denominan Grupos\".\n**Competencia evaluada:** Uso comprensivo del conocimiento científico\n**Componente:** Química - Organización Periódica\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-QUI-11-atomica-002",
+      "statement": "Según el texto, ¿cómo se denominan las columnas verticales de la Tabla Periódica?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Periodos.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Niveles.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Grupos.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Isótopos.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-QUI-11-atomica-002-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "**¿Por qué B es correcta?**\nEl texto define: \"Electronegatividad (capacidad para atraer electrones)\".\n**Competencia evaluada:** Uso comprensivo del conocimiento científico\n**Componente:** Química - Propiedades Periódicas\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-QUI-11-atomica-002",
+      "statement": "La electronegatividad se define en el texto como:",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El tamaño del núcleo atómico.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La capacidad para atraer electrones.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "La cantidad de neutrones.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La velocidad de los electrones.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-QUI-11-atomica-002-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "**¿Por qué B es correcta?**\nPara los elementos representativos (grupos A), el número del grupo en romano indica directamente la cantidad de electrones de valencia. Grupo IIA = 2 electrones de valencia.\n**Competencia evaluada:** Uso comprensivo del conocimiento científico\n**Componente:** Química - Electrones de Valencia\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-QUI-11-atomica-002",
+      "statement": "Si el Magnesio se encuentra en el Grupo IIA (2) de la tabla periódica, ¿cuántos electrones de valencia tiene?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "12",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-QUI-11-atomica-002-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "**¿Por qué B es correcta?**\nEl texto dice que \"la electronegatividad aumenta de izquierda a derecha y de abajo hacia arriba\". Por lo tanto, el elemento más arriba y a la derecha (sin contar gases nobles inertes) será el más electronegativo.\n**Competencia evaluada:** Explicación de fenómenos\n**Componente:** Química - Tendencias Periódicas\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-QUI-11-atomica-002",
+      "statement": "Basado en la tendencia descrita, ¿cuál elemento sería más electronegativo (atrapa electrones con más fuerza)?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uno ubicado abajo a la izquierda (como el Francio).",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Uno ubicado arriba a la derecha (como el Flúor).",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Uno ubicado en el centro (Metales de transición).",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Todos tienen la misma electronegatividad.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-QUI-11-atomica-002-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "**¿Por qué C es correcta?**\nAl moverse de izquierda a derecha en un periodo (de Na a Cl), la carga nuclear aumenta, atrayendo más a los electrones. Esto causa que:\n1.  El radio atómico disminuya (se \"contrae\").\n2.  La electronegatividad aumente (atrae más fuerte).\n**Competencia evaluada:** Indagación y uso de conocimiento\n**Componente:** Química - Relación de Propiedades\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-QUI-11-atomica-002",
+      "statement": "Comparando el Sodio (Na, Grupo I) y el Cloro (Cl, Grupo VII), es de esperarse que el Cloro tenga:",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mayor radio atómico y menor electronegatividad.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Menor electronegatividad y menor energía de ionización.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Mayor electronegatividad y menor radio atómico.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Igual tamaño y reactividad que el Sodio.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-QUI-11-atomica-002-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "**¿Por qué B es correcta?**\nLa estabilidad química está asociada a completar el octeto (8 electrones de valencia). Los gases nobles ya poseen esta configuración de forma natural, por lo que no \"necesitan\" ganar, perder ni compartir electrones.\n**Competencia evaluada:** Explicación de fenómenos\n**Componente:** Química - Configuración Electrónica y Estabilidad\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-QUI-11-atomica-002",
+      "statement": "Los elementos del Grupo VIII (o 18) como el Neón y el Argón son conocidos como Gases Nobles. ¿Por qué son químicamente inertes (no reaccionan fácilmente)?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque tienen núcleos muy inestables.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Porque tienen su capa de valencia completa con 8 electrones.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Porque no tienen electrones.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Porque son sólidos a temperatura ambiente.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-QUI-11-atomica-002-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "**¿Por qué C es correcta?**\nEl enlace iónico se forma cuando hay una transferencia de electrones de un átomo a otro. Los metales tienden a perder electrones (formando cationes) y los no metales tienden a ganarlos (formando aniones). La gran diferencia de electronegatividad entre ellos favorece esta transferencia.\n**Competencia evaluada:** Uso comprensivo del conocimiento científico\n**Componente:** Química - Enlaces Químicos\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-QUI-11-enlaces-001",
+      "statement": "El enlace iónico se forma principalmente entre:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dos metales",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Dos no metales",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un metal y un no metal",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Gases nobles",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-QUI-11-enlaces-001-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "**¿Por qué B es correcta?**\nEl texto define explícitamente: \"Covalente: Ocurre por el compartimiento de pares de electrones\".\n**Competencia evaluada:** Uso comprensivo del conocimiento científico\n**Componente:** Química - Definición de Enlaces\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-QUI-11-enlaces-001",
+      "statement": "Según el texto, ¿qué caracteriza fundamentalmente al enlace covalente?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La transferencia total de electrones.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El compartimiento de electrones.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "La destrucción del núcleo atómico.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La formación de nubes metálicas.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-QUI-11-enlaces-001-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "**¿Por qué C es correcta?**\nEl Sodio ($Na$) es un metal alcalino y el Cloro ($Cl$) es un no metal halógeno. Su unión ($NaCl$) implica transferencia de electrones, formando un enlace iónico. Las otras opciones son uniones entre no metales (covalentes).\n**Competencia evaluada:** Uso comprensivo del conocimiento científico\n**Componente:** Química - Identificación de Compuestos\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-QUI-11-enlaces-001",
+      "statement": "¿Cuál de los siguientes es un ejemplo clásico de compuesto iónico mencionado o deducible por su composición (Metal + No Metal)?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Agua ($H_2O$)",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Oxígeno gaseoso ($O_2$)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Sal de mesa ($NaCl$)",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Diamante ($C$)",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-QUI-11-enlaces-001-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "**¿Por qué C es correcta?**\nLa unión entre dos no metales forma un enlace covalente. Al ser átomos del mismo elemento, comparten los electrones equitativamente (covalente apolar).\n**Competencia evaluada:** Explicación de fenómenos\n**Componente:** Química - Clasificación de Enlaces\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-QUI-11-enlaces-001",
+      "statement": "Si dos átomos de Oxígeno se unen entre sí ($O_2$), dado que ambos son no metales y tienen la misma electronegatividad, ¿qué tipo de enlace forman?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Iónico.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Metálico.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Covalente.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Puente de Hidrógeno.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-QUI-11-enlaces-001-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "**¿Por qué C es correcta?**\nEl texto describe el enlace metálico como aquel \"donde los electrones fluyen libremente\". Esta movilidad electrónica es lo que permite la conducción de la corriente eléctrica.\n**Competencia evaluada:** Explicación de fenómenos\n**Componente:** Química - Propiedades de los Metales\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-QUI-11-enlaces-001",
+      "statement": "Los metales son buenos conductores de la electricidad porque:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tienen enlaces covalentes muy fuertes.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Sus átomos están muy separados.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Sus electrones fluyen libremente en una \"nube electrónica\".",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Tienen una alta electronegatividad.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-QUI-11-enlaces-001-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "**¿Por qué B es correcta?**\nCalculamos la diferencia: $\\Delta EN = 4.0 - 0.8 = 3.2$.\nComo $3.2 > 1.7$, el enlace se clasifica como Iónico. Además, es una unión Metal-No Metal.\n**Competencia evaluada:** Indagación y uso de conocimiento\n**Componente:** Química - Electronegatividad y Enlaces\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-QUI-11-enlaces-001",
+      "statement": "Generalmente, se considera que un enlace es **Iónico** si la diferencia de electronegatividad ($\\Delta EN$) entre los átomos es mayor a 1.7. Si el Flúor tiene EN=4.0 y el Potasio tiene EN=0.8, su enlace será:",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Covalente Polar ($\\Delta EN = 3.2$)",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Iónico ($\\Delta EN = 3.2$)",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Covalente Apolar ($\\Delta EN = 0.8$)",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Metálico ($\\Delta EN = 4.8$)",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-QUI-11-enlaces-001-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "**¿Por qué A es correcta?**\nEn los compuestos iónicos, cada ion está rodeado por varios de carga opuesta en una red tridimensional, mantenidos por fuertes fuerzas electrostáticas. Romper esta red (fundir el sólido) requiere mucha energía. En compuestos covalentes moleculares, las fuerzas *entre* moléculas (intermoleculares) son generalmente más débiles.\n**Competencia evaluada:** Explicación de fenómenos\n**Componente:** Química - Propiedades de las Sustancias\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-QUI-11-enlaces-001",
+      "statement": "Las sustancias iónicas (como la sal) suelen ser sólidos cristalinos con altos puntos de fusión, mientras que muchas sustancias covalentes (como el agua o el azúcar) tienen puntos de fusión más bajos. Esto se debe a que:",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La atracción electrostática entre iones en la red cristalina es muy fuerte.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Los enlaces covalentes son más fuertes que los iónicos en todos los casos.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Las sustancias covalentes no forman moléculas.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Los iones pesan más que las moléculas.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-QUI-11-enlaces-001-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "**¿Por qué B es correcta?**\nLa ecuación balanceada indica que 2 moles de $H_2$ producen 2 moles de $H_2O$ (relación 1:1). Si tenemos 4 moles de $H_2$, produciremos la misma cantidad de moles de agua: 4 moles.\n**Competencia evaluada:** Uso comprensivo del conocimiento científico\n**Componente:** Química - Estequiometría\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-QUI-11-estequiometria-001",
+      "statement": "En la reacción: $2H_2 + O_2 \\rightarrow 2H_2O$, si se tienen 4 moles de $H_2$, ¿cuántos moles de $H_2O$ se producen?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 moles",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "4 moles",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "6 moles",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "8 moles",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-QUI-11-estequiometria-001-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "**¿Por qué B es correcta?**\nEl texto lo indica explícitamente: \"Se basa en la Ley de Conservación de la Masa (la materia no se crea ni se destruye)\".\n**Competencia evaluada:** Uso comprensivo del conocimiento científico\n**Componente:** Química - Leyes Fundamentales\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-QUI-11-estequiometria-001",
+      "statement": "Según el texto, la estequiometría se fundamenta en la Ley de:",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Gravedad Universal.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Conservación de la Masa.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Los Gases Ideales.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La Inercia.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-QUI-11-estequiometria-001-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "**¿Por qué A es correcta?**\nEl texto explica que \"los coeficientes indican la proporción constante de moles\". Por ejemplo, el '3' indica 3 moles de Hidrógeno.\n**Competencia evaluada:** Uso comprensivo del conocimiento científico\n**Componente:** Química - Interpretación de Ecuaciones\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-QUI-11-estequiometria-001",
+      "statement": "En la ecuación $N_2 + 3H_2 \\rightarrow 2NH_3$, ¿qué indican los números grandes (coeficientes) antes de las fórmulas?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La proporción de moles de cada sustancia.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El número de protones en el núcleo.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La temperatura de la reacción.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La velocidad de la reacción.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-QUI-11-estequiometria-001-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "**¿Por qué B es correcta?**\nLa relación estequiométrica muestra que por cada **1 mol** de $N_2$ consumido, se generan **2 moles** de $NH_3$. Como el $H_2$ está en exceso, el $N_2$ limita la reacción y determina el producto.\n**Competencia evaluada:** Explicación de fenómenos\n**Componente:** Química - Reactivo Límite (Básico)\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-QUI-11-estequiometria-001",
+      "statement": "Considerando la reacción del texto ($N_2 + 3H_2 \\rightarrow 2NH_3$): Si solo dispongo de 1 mol de $N_2$ pero tengo exceso de $H_2$, ¿cuántos moles máximos de $NH_3$ puedo obtener?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 mol.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "2 moles.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "3 moles.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "6 moles.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-QUI-11-estequiometria-001-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "**¿Por qué C es correcta?**\nMasa = Moles $\\times$ Masa Molar.\nMasa = $2 \\text{ moles} \\times 18 \\text{ g/mol} = 36 \\text{ gramos}$.\n**Competencia evaluada:** Uso comprensivo del conocimiento científico\n**Componente:** Química - Conversión Moles-Masa\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-QUI-11-estequiometria-001",
+      "statement": "Si la masa molar del $H_2O$ es $18 \\text{ g/mol}$, ¿cuántos gramos pesan 2 moles de agua?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18 g.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "9 g.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "36 g.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "20 g.",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-QUI-11-estequiometria-001-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "**¿Por qué C es correcta?**\n$$\\text{Rendimiento (\\%)} = \\left( \\frac{\\text{Rendimiento Real}}{\\text{Rendimiento Teórico}} \\right) \\times 100$$\n$$\\text{Rendimiento (\\%)} = \\left( \\frac{80}{100} \\right) \\times 100 = 80\\%$$\n**Competencia evaluada:** Indagación y Análisis\n**Componente:** Química - Rendimiento de Reacción\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-QUI-11-estequiometria-001",
+      "statement": "Se calculó teóricamente que una reacción debía producir 100 gramos de producto. Sin embargo, al realizarla en el laboratorio, solo se obtuvieron 80 gramos. ¿Cuál fue el porcentaje de rendimiento de la reacción?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "125%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "20%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "80%",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "100%",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-QUI-11-estequiometria-001-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "**¿Por qué A es correcta?**\nAnalizamos la relación estequiométrica del $O_2$ y el producto $MgO$:\nLa ecuación dice: **1 mol** de $O_2 \\rightarrow$ **2 moles** de $MgO$.\nSi mi meta es obtener 2 moles de producto, necesito exactamente 1 mol de $O_2$.\n**Competencia evaluada:** Resolución de problemas\n**Componente:** Química - Cálculo Estequiométrico Inverso\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-QUI-11-estequiometria-001",
+      "statement": "En la reacción $2Mg + O_2 \\rightarrow 2MgO$, si deseamos producir exactamente 2 moles de Óxido de Magnesio ($MgO$), ¿cuántos moles de Oxígeno ($O_2$) necesitamos reaccionar como mínimo?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 mol",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "2 moles",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "0.5 moles",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "4 moles",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-QUI-11-estequiometria-001-v7"
+    }
+  ],
+  "metadata": {
+    "total_questions": 140,
+    "exam": "icfes",
+    "total_pages": 2.0,
+    "page": 2,
+    "grade": "11",
+    "generated_at": "2025-12-08T00:20:16Z",
+    "subject": "Ciencias Naturales",
+    "country": "co"
+  }
+}

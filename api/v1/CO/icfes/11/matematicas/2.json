@@ -1,0 +1,3434 @@
+{
+  "questions": [
+    {
+      "number": 3,
+      "explanation": "**Respuesta Correcta: A**\nEl 30 divide el conjunto en dos partes iguales (dos números antes, dos números después).\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-MAT-11-EST-002",
+      "statement": "Si tienes los datos ordenados: 10, 20, 30, 40, 50. La mediana es:",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "20",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "40",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "25",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-EST-002-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "**Respuesta Correcta: C**\nComo hay un número par de datos (4), tomamos los dos centrales (4 y 6) y calculamos su promedio.\n$$ (4 + 6) / 2 = 10 / 2 = 5 $$\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-EST-002",
+      "statement": "Calcula la mediana del conjunto par de datos: {2, 4, 6, 8}.",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-EST-002-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "**Respuesta Correcta: B**\nPrimero se deben **ordenar** los datos de menor a mayor: {2, 5, 8}.\nAhora buscamos el valor central: 5.\n(Si no se ordenan, se comete el error de elegir 2).\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-EST-002",
+      "statement": "Encuentra la mediana de los siguientes datos desordenados: {5, 2, 8}.",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "7.5",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-EST-002-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "**Respuesta Correcta: B**\nLa mediana es una medida \"robusta\". Por ejemplo, en salarios, si una persona gana millones y el resto poco, el promedio sube mucho, pero la mediana se mantiene representativa de la mayoría.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-EST-002",
+      "statement": "¿Qué propiedad hace a la mediana más útil que la media (promedio) en ciertos casos?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es más difícil de calcular",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "No se ve afectada drásticamente por valores extremos (atípicos)",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Siempre es mayor que la media",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Usa todos los valores numéricos exactos en su cálculo",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-EST-002-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "**Respuesta Correcta: B**\nCon $N=100$ (par), la mediana está entre $N/2$ y $(N/2)+1$.\nPosiciones 50 y 51.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-EST-002",
+      "statement": "En un conjunto de 100 datos ordenados, ¿la mediana es el promedio de los valores en cuáles posiciones?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Posición 50 solamente",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Posiciones 50 y 51",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Posiciones 49 y 50",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Posición 51 solamente",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-EST-002-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "**Respuesta Correcta: C**\n- Espacio muestral: {1, 2, 3, 4, 5, 6} (6 posibles).\n- Casos favorables (pares): {2, 4, 6} (3 casos).\n- Probabilidad: $3/6 = 1/2$ (o 50%).\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-EST-003",
+      "statement": "Se lanza un dado justo (de 6 caras). ¿Cuál es la probabilidad de obtener un número par?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/6",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "1/3",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "1/2",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "2/3",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-EST-003-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "**Respuesta Correcta: A**\nSolo hay 2 resultados posibles: cara o sello. 1 de 2 es favorable.\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-MAT-11-EST-003",
+      "statement": "Al lanzar una moneda justa, ¿cuál es la probabilidad de que caiga \"cara\"?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/2",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "1/4",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "1/3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-EST-003-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "**Respuesta Correcta: B**\n- Resultados mayores que 4: {5, 6}.\n- 2 casos favorables de 6 posibles.\n- $2/6$ simplificado es $1/3$.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-EST-003",
+      "statement": "Al lanzar un dado, ¿cuál es la probabilidad de obtener un número mayor que 4?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/2",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "1/3",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "1/6",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "2/3",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-EST-003-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "**Respuesta Correcta: B**\n- Hay 4 ases en la baraja (Picas, Corazones, Diamantes, Tréboles).\n- $P = 4/52$. Simplificando (dividiendo entre 4): $1/13$.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-EST-003",
+      "statement": "De una baraja estándar de 52 cartas, se extrae una carta al azar. ¿Cuál es la probabilidad de que sea un as?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/4",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "1/13",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "1/52",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "4/13",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-EST-003-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "**Respuesta Correcta: B**\n- Total de bolas: $3 + 2 = 5$.\n- Azules: 2.\n- Probabilidad: $2/5$.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-EST-003",
+      "statement": "En una bolsa hay 3 bolas rojas y 2 azules. Si sacas una bola sin mirar, ¿cuál es la probabilidad de que sea azul?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/2",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "2/5",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "3/5",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "1/5",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-EST-003-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "**Respuesta Correcta: C**\n- Total combinaciones: $6 \\times 6 = 36$.\n- Combinaciones que suman 7: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1). Son 6 casos.\n- $P = 6/36 = 1/6$.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-EST-003",
+      "statement": "Calcula la probabilidad de que, al lanzar dos dados, la suma de los puntos sea 7.",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/12",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "1/36",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "1/6",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "7/36",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-EST-003-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "**Respuesta Correcta: B**\nUsando el complemento:\n$P(\\text{no } 5) = 1 - P(5)$\n$P(\\text{no } 5) = 1 - 1/6 = 5/6$.\nO contando directente: {1, 2, 3, 4, 6} son 5 casos favorables.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-EST-003",
+      "statement": "Al lanzar un dado, ¿cuál es la probabilidad de **NO** obtener un 5?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/6",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "5/6",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "4/6",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "1/5",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-EST-003-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "**Respuesta Correcta: B**\n1. Suma original: $5 \\times 12 = 60$.\n2. Nueva suma: $60 + 18 = 78$.\n3. Cantidad de datos: $5 + 1 = 6$.\n4. Nuevo promedio: $78 / 6 = 13$.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-EST-004",
+      "statement": "El promedio de 5 números es 12. Si se añade el número 18, ¿cuál es el nuevo promedio?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "13",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "14",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-EST-004-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "**Respuesta Correcta: A**\n$$ \\frac{2 + 4}{2} = \\frac{6}{2} = 3 $$\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-MAT-11-EST-004",
+      "statement": "Calcula la media (promedio) de los números 2 y 4.",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-EST-004-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "**Respuesta Correcta: B**\n$$ \\frac{10 + 10 + 10}{3} = \\frac{30}{3} = 10 $$\nSi todos los datos son iguales, el promedio es ese mismo valor.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-EST-004",
+      "statement": "Si obtienes 10 en tres exámenes consecutivos, ¿cuál es tu promedio?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "20",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-EST-004-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "**Respuesta Correcta: B**\n1. Suma actual: $3 \\times 4.0 = 12.0$.\n2. Meta: Promedio 4.2 con 4 notas. Suma necesaria: $4 \\times 4.2 = 16.8$.\n3. Diferencia: $16.8 - 12.0 = 4.8$.\nDebes sacar 4.8.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-EST-004",
+      "statement": "El promedio de 3 notas es 4.0. ¿Qué nota necesitas sacar en la cuarta evaluación para que tu promedio suba a 4.2?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4.5",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "4.8",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "5.0",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "4.2",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-EST-004-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "**Respuesta Correcta: B**\n$$ (3.0 \\times 0.60) + (5.0 \\times 0.40) $$\n$$ = 1.8 + 2.0 = 3.8 $$\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-EST-004",
+      "statement": "En una clase, el examen vale el 60% y el trabajo final el 40%. Si sacas 3.0 en el examen y 5.0 en el trabajo, ¿cuál es tu nota final (promedio ponderado)?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4.0",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "3.8",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "3.5",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "4.2",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-EST-004-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "**Respuesta Correcta: C**\nPropiedad de la media: Si $y_i = x_i + k$, entonces $\\bar{y} = \\bar{x} + k$.\nEl promedio se desplaza la misma cantidad que los datos.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-EST-004",
+      "statement": "Si a cada uno de los datos de un conjunto se le suma 5, ¿qué le sucede a la media aritmética?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se multiplica por 5",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "No cambia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Aumenta en 5",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Aumenta en 5 dividio por el número de datos",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-EST-004-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "**Respuesta Correcta: C**\nLa marca de clase (promedio de los límites superior e inferior) se asume como el valor representativo de todos los datos en ese intervalo para calcular la media aproximada.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-EST-004",
+      "statement": "Para calcular la media de datos agrupados en intervalos, ¿qué valor se usa como representante de cada intervalo?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El límite inferior",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El límite superior",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La marca de clase (punto medio)",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "La frecuencia",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-EST-004-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "**Respuesta Correcta: B**\nEventos dependientes (sin reposición):\n1. P(1ra Roja) = $4/10$ (simplifica a $2/5$).\n2. P(2da Roja | 1ra Roja) = $3/9$ (quedan 3 rojas y 9 en total) = $1/3$.\n3. P(Ambas) = $2/5 \\times 1/3 = 2/15$.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-EST-005",
+      "statement": "En una urna hay 4 bolas rojas y 6 bolas azules. Si se extraen 2 bolas sin reposición, ¿cuál es la probabilidad de que ambas sean rojas?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4/25",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "2/15",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "1/5",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "3/10",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-EST-005-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "**Respuesta Correcta: A**\nEventos independientes:\n$P(C) \\times P(C) = 1/2 \\times 1/2 = 1/4$.\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-MAT-11-EST-005",
+      "statement": "Se lanzan dos monedas al aire. ¿Cuál es la probabilidad de que ambas caigan en \"cara\"?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/4",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "1/2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "1/3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-EST-005-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "**Respuesta Correcta: B**\n$1/6 \\times 1/6 = 1/36$.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-EST-005",
+      "statement": "Lanzas dos dados. ¿Cuál es la probabilidad de sacar un \"6\" en ambos?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/6",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "1/36",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "1/12",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "2/6",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-EST-005-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "**Respuesta Correcta: C**\n1. P(1ra Azul) = $2/5$.\n2. P(2da Azul) = $1/4$ (queda 1 azul y 4 total).\n3. Total: $2/5 \\times 1/4 = 2/20 = 1/10$.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-EST-005",
+      "statement": "En una bolsa hay 3 bolas rojas y 2 bolas azules. Se sacan dos bolas **sin devolverlas**. ¿Cuál es la probabilidad de que **ambas** sean azules?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2/5",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "1/5",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "1/10",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "4/25",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-EST-005-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "**Respuesta Correcta: C**\n$P(A \\text{ y } B) = P(A) \\times P(B)$\n$0.5 \\times 0.8 = 0.40$ (40%).\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-EST-005",
+      "statement": "La probabilidad de que llueva hoy es 0.5 y la probabilidad de que haya tráfico es 0.8. Si son eventos independientes, ¿cuál es la probabilidad de que llueva **Y** haya tráfico?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.3",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "0.5",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "0.4",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "0.13",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-EST-005-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "**Respuesta Correcta: B**\nUsamos el complemento: \"Ninguna cara\" (es decir, todas \"sello\").\nP(SSS) = $1/2 \\times 1/2 \\times 1/2 = 1/8$.\nP(Al menos una C) = $1 - 1/8 = 7/8$.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-EST-005",
+      "statement": "Se lanzan 3 monedas. ¿Cuál es la probabilidad de obtener **al menos** una \"cara\"?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/8",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "7/8",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "3/8",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "1/2",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-EST-005-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "**Respuesta Correcta: B**\nEs la fórmula de probabilidad condicional: la probabilidad de que ocurra A dado que B ya ocurrió.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-EST-005",
+      "statement": "La probabilidad condicional $P(A|B)$ se define como:",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$P(A \\text{ y } B)$",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$P(A \\text{ y } B) / P(B)$",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$P(A) \\times P(B)$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$P(A) + P(B)$",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-EST-005-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "1.  **Suma inicial:** Si promedio = 20 y n = 5, la suma total de edades es $20 \\times 5 = 100$.\n2.  **Nueva suma:** Llega alguien de 26. Nueva suma = $100 + 26 = 126$.\n3.  **Nuevo total:** Ahora son $5 + 1 = 6$ personas.\n4.  **Nueva media:** $126 / 6 = 21$.\n**Competencia evaluada:** Resolución - cálculo de promedios ponderados\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-estadistica-001",
+      "statement": "La media de las edades de un grupo de 5 personas es 20 años. Si se une una persona de 26 años al grupo, ¿cuál es la nueva media del grupo completo?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 años",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "21 años",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "23 años",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "26 años",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-estadistica-001-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "1.  **Total de bolas:** $3 + 2 + 5 = 10$.\n2.  **Favorables (azules):** 2.\n3.  **Probabilidad:** $\\frac{2}{10} = 0.2 = 20\\%$.\n**Competencia evaluada:** Interpretación - probabilidad simple\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-estadistica-001",
+      "statement": "En una bolsa hay 3 bolas rojas, 2 azules y 5 verdes. Si se saca una bola al azar, ¿cuál es la probabilidad de que sea azul?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "20%",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "30%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "50%",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-estadistica-001-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "Eventos mutuamente excluyentes (no se puede preferir ambos \"principalmente\" según el contexto implícito, o se suman grupos disjuntos).\n*   Baloncesto: 30\n*   Natación: 10\n*   Total favorables: $30 + 10 = 40$.\n*   Total estudiantes: 100.\n*   Probabilidad: $40/100 = 40\\%$.\n**Competencia evaluada:** Resolución - regla de la suma en probabilidad\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-estadistica-001",
+      "statement": "En una encuesta a 100 estudiantes: 40 prefieren fútbol, 30 baloncesto, 20 voleibol y 10 natación. ¿Cuál es la probabilidad de que un estudiante elegido al azar prefiera baloncesto o natación?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30%",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "10%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "40%",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "70%",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-estadistica-001-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "1.  **Espacio muestral:** $6 \\times 6 = 36$ combinaciones posibles.\n2.  **Casos favorables (Suma 7):**\n    *   (1,6), (2,5), (3,4), (4,3), (5,2), (6,1)\n    *   Total 6 casos.\n3.  **Probabilidad:** $\\frac{6}{36} = \\frac{1}{6}$.\n    *   *Nota: La opción C ($\\frac{6}{36}$) es equivalente a la A ($\\frac{1}{6}$), ambas son correctas, pero en exámenes suele aparecer simplificada o sin simplificar. Aquí seleccionamos C por ser la forma directa.*\n**Competencia evaluada:** Razonamiento - probabilidad compuesta\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-estadistica-001",
+      "statement": "Se lanzan dos dados honestos de 6 caras. ¿Cuál es la probabilidad de que la suma de sus caras sea 7?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{6}$",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{12}$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{6}{36}$",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{36}$",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-estadistica-001-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "Para hallar la mediana, primero debemos **ordenar** los datos de menor a mayor:\n1.  Original: $\\{2, 5, 8, 1, 9\\}$\n2.  Ordenado: $\\{1, 2, 5, 8, 9\\}$\n3.  El dato central (posición 3 de 5) es **5**.\n**Competencia evaluada:** Ejecución - cálculo de mediana\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-estadistica-001",
+      "statement": "La mediana de los datos $\\{2, 5, 8, 1, 9\\}$ es:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "25",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-estadistica-001-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "Como el orden importa (los cargos son distintos), es una **Permutación**:\n$$P(n, k) = \\frac{n!}{(n-k)!}$$\n$$P(10, 3) = \\frac{10!}{(10-3)!} = \\frac{10!}{7!} = 10 \\times 9 \\times 8 = 720$$\n*   Presidente: 10 opciones\n*   Secretario: 9 opciones\n*   Tesorero: 8 opciones\n*   $10 \\times 9 \\times 8 = 720$.\n**Competencia evaluada:** Razonamiento - conteo y permutaciones\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-estadistica-001",
+      "statement": "En un grupo de 10 personas, se quiere elegir un comité de 3 personas (presidente, secretario, tesorero). ¿De cuántas formas diferentes se puede formar el comité si el orden de los cargos importa?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "120",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "720",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "30",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "1000",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-estadistica-001-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "Regla empírica de la distribución normal:\n*   68% entre $\\pm 1\\sigma$\n*   95% entre $\\pm 2\\sigma$\n*   99.7% entre $\\pm 3\\sigma$\nPor lo tanto, el 95% está entre 2 desviaciones estándar de la media.\n**Competencia evaluada:** Razonamiento - propiedades de la distribución normal",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-estadistica-001",
+      "statement": "En una distribución normal estandarizada, aproximadamente el 95% de los datos se encuentran entre:",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$-1$ y $+1$ desviaciones estándar",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$-2$ y $+2$ desviaciones estándar",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$-3$ y $+3$ desviaciones estándar",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$0$ y $+1$ desviaciones estándar",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-estadistica-001-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "**Modelamiento del problema:**\n- Sea $x$ = lado de la base cuadrada\n- Altura $h = 2x$ (el doble del lado)\n- Volumen del prisma: $V = \\text{base} \\times \\text{altura} = x^2 \\times 2x = 2x^3$\n**Resolución:**\n$$2x^3 = 2000$$\n$$x^3 = 1000$$\n$$x = \\sqrt[3]{1000} = 10 \\text{ cm}$$\n**Dimensiones:**\n- Base: $10 \\times 10$ cm\n- Altura: $2 \\times 10 = 20$ cm\n**Verificación:** $10 \\times 10 \\times 20 = 2000$ cm³ ✓\n**¿Por qué las otras son incorrectas?**\n- **B) 5×5×40:** $V = 25 \\times 40 = 1000$ cm³ ≠ 2000 cm³ (además, 40 ≠ 2×5)\n- **C) 8×8×16:** $V = 64 \\times 16 = 1024$ cm³ ≠ 2000 cm³\n- **D) 12×12×7:** $V = 144 \\times 7 = 1008$ cm³ ≠ 2000 cm³ (también 7 ≠ 2×12)\n**Competencia evaluada:** Formulación y Ejecución - modelamiento algebraico\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-MAT-11-GEO-001",
+      "statement": "Una compañía de mensajería de Bogotá necesita diseñar cajas rectangulares para enviar un nuevo producto. La caja debe tener un volumen de 2000 cm³. Si la base es cuadrada y la altura es el doble del lado de la base, ¿cuáles deben ser, aproximadamente, las dimensiones de la caja?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Base de 10 cm × 10 cm y altura de 20 cm",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Base de 5 cm × 5 cm y altura de 40 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Base de 8 cm × 8 cm y altura de 16 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Base de 12 cm × 12 cm y altura de 7 cm",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co/documents/39286/21576717/Cuadernillo+de+preguntas+Saber+11-+Matem%C3%A1ticas.pdf",
+      "tags": [],
+      "id": "CO-MAT-11-GEO-001-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "**Fórmula:** Volumen = Área de la base × Altura\n**Cálculo:**\n- Área base = $4 \\times 4 = 16$ cm²\n- Volumen = $16 \\times 10 = 160$ cm³\n**¿Por qué las otras son incorrectas?**\n- **B) 40:** Solo multiplicó un lado por la altura (4×10)\n- **C) 80:** Multiplicó base×2 por altura incorrectamente\n- **D) 400:** Multiplicó todo sin calcular bien el área base\n**Competencia evaluada:** Interpretación - cálculo básico de volumen\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-MAT-11-GEO-001",
+      "statement": "Si una caja tiene una base cuadrada de 4 cm de lado y una altura de 10 cm, ¿cuál es su volumen?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "160 cm³",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "40 cm³",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "80 cm³",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "400 cm³",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co/documents/39286/21576717/Cuadernillo+de+preguntas+Saber+11-+Matem%C3%A1ticas.pdf",
+      "tags": [],
+      "id": "CO-MAT-11-GEO-001-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "**Fórmula del cubo:** $V = L^3$ donde $L$ es la arista\n**Cálculo:**\n$$V = 3^3 = 3 \\times 3 \\times 3 = 27 \\text{ cm}^3$$\n**¿Por qué las otras son incorrectas?**\n- **B) 9:** Calculó $3^2$ (área de una cara, no volumen)\n- **C) 18:** Calculó $3 \\times 6$ (error conceptual)\n- **D) 81:** Calculó $3^4$ en lugar de $3^3$\n**Competencia evaluada:** Interpretación - volumen del cubo\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-MAT-11-GEO-001",
+      "statement": "Un cubo tiene una arista de 3 cm. ¿Cuál es su volumen?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "27 cm³",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "9 cm³",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "18 cm³",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "81 cm³",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co/documents/39286/21576717/Cuadernillo+de+preguntas+Saber+11-+Matem%C3%A1ticas.pdf",
+      "tags": [],
+      "id": "CO-MAT-11-GEO-001-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "**Fórmula del cilindro:** $V = \\pi r^2 h$\n**Cálculo:**\n$$V = 3.14 \\times 5^2 \\times 12$$\n$$V = 3.14 \\times 25 \\times 12$$\n$$V = 3.14 \\times 300 = 942 \\text{ cm}^3$$\n**¿Por qué las otras son incorrectas?**\n- **A) 188.4:** Usó $\\pi \\times r \\times h$ en lugar de $\\pi r^2 h$ (olvidó elevar al cuadrado)\n- **B) 376.8:** Calculó $2 \\times \\pi \\times r \\times h$ (perímetro × altura, no volumen)\n- **D) 1884:** Multiplicó por el diámetro en vez del radio\n**Competencia evaluada:** Formulación - volumen del cilindro\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-GEO-001",
+      "statement": "En una fábrica de cerámica de Ráquira (Boyacá), se elaboran vasijas cilíndricas. Si el radio de la base de una vasija es de 5 cm y su altura es de 12 cm, ¿cuál es el volumen aproximado de la vasija? (Use $\\pi = 3.14$)",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "188.4 cm³",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "376.8 cm³",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "942 cm³",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "1884 cm³",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co/documents/39286/21576717/Cuadernillo+de+preguntas+Saber+11-+Matem%C3%A1ticas.pdf",
+      "tags": [],
+      "id": "CO-MAT-11-GEO-001-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "**Análisis dimensional:**\n- Volumen original: $V_1 = L^3$\n- Nueva arista: $2L$\n- Nuevo volumen: $V_2 = (2L)^3 = 8L^3$\n**Razón de aumento:**\n$$\\frac{V_2}{V_1} = \\frac{8L^3}{L^3} = 8$$\nEl volumen aumenta **8 veces**.\n**Regla general:** Si las dimensiones lineales se multiplican por $k$, el volumen se multiplica por $k^3$.\n**¿Por qué las otras son incorrectas?**\n- **A) 2:** Piensa que duplicar arista = duplicar volumen (lineal, no cúbico)\n- **B) 4:** Piensa en $2^2$ (cuadrado, no cubo)\n- **C) 6:** Piensa en 6 caras, pero esto es superficie, no volumen\n**Competencia evaluada:** Argumentación - relaciones dimensionales\n---",
+      "correct_answer": "D",
+      "bundle_id": "CO-MAT-11-GEO-001",
+      "statement": "Una empresa de empaques en Medellín diseña cajas cúbicas. Si aumentan cada arista del cubo original al doble, ¿en cuántas veces aumenta el volumen?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 veces",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "4 veces",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "6 veces",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "8 veces",
+          "is_correct": true
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co/documents/39286/21576717/Cuadernillo+de+preguntas+Saber+11-+Matem%C3%A1ticas.pdf",
+      "tags": [],
+      "id": "CO-MAT-11-GEO-001-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "**Paso 1:** Calcular el volumen total\n$$V_{total} = 2 \\times 1.5 \\times 1.2 = 3.6 \\text{ m}^3$$\n**Paso 2:** Calcular $\\frac{3}{4}$ del volumen\n$$V_{parcial} = 3.6 \\times \\frac{3}{4} = 3.6 \\times 0.75 = 2.7 \\text{ m}^3$$\n**Paso 3:** Convertir a litros\n$$2.7 \\text{ m}^3 \\times 1000 = 2700 \\text{ litros}$$\n**¿Por qué las otras son incorrectas?**\n- **B) 3600:** Es el volumen total sin aplicar la fracción\n- **C) 1800:** Calculó $\\frac{1}{2}$ en lugar de $\\frac{3}{4}$\n- **D) 4500:** Error en los cálculos\n**Competencia evaluada:** Formulación y Ejecución - problema multi-paso con conversión\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-MAT-11-GEO-001",
+      "statement": "Un tanque de agua con forma de prisma rectangular en una finca del Valle del Cauca tiene las siguientes dimensiones internas: largo 2 m, ancho 1.5 m y alto 1.2 m. Si se quiere llenar hasta $\\frac{3}{4}$ de su capacidad, ¿cuántos litros de agua se necesitan? (1 m³ = 1000 litros)",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2700 litros",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "3600 litros",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "1800 litros",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "4500 litros",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co/documents/39286/21576717/Cuadernillo+de+preguntas+Saber+11-+Matem%C3%A1ticas.pdf",
+      "tags": [],
+      "id": "CO-MAT-11-GEO-001-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "**Estrategia:** Volumen de concreto = Volumen exterior - Volumen interior (hueco)\n**Paso 1:** Volumen del prisma exterior\n$$V_{ext} = 4 \\times 3 \\times 2.5 = 30 \\text{ m}^3$$\n**Paso 2:** Volumen del prisma interior (hueco)\n$$V_{int} = 3.6 \\times 2.6 \\times 2.5 = 23.4 \\text{ m}^3$$\n**Paso 3:** Volumen de concreto necesario\n$$V_{concreto} = V_{ext} - V_{int} = 30 - 23.4 = 6.6 \\text{ m}^3$$\n**¿Por qué las otras son incorrectas?**\n- **A) 5.4:** Error de cálculo en alguno de los volúmenes\n- **C) 23.4:** Es solo el volumen interior (hueco), no el concreto\n- **D) 30:** Es solo el volumen exterior, sin restar el hueco\n**Competencia evaluada:** Formulación y Ejecución - problema de sustracción geométrica\n---\n## 📊 Metadata de Validación\n| Pregunta | ID | Dificultad | Competencia ICFES | Componente | Validado |\n|----------|-----|------------|-------------------|------------|----------|\n| 1 | CO-MAT-11-GEO-001-v1 | Medium | Formulación | Espacial-métrico | ⬜ |\n| 2 | CO-MAT-11-GEO-001-v2 | Low | Interpretación | Espacial-métrico | ⬜ |\n| 3 | CO-MAT-11-GEO-001-v3 | Low | Interpretación | Espacial-métrico | ⬜ |\n| 4 | CO-MAT-11-GEO-001-v4 | Medium | Formulación | Espacial-métrico | ⬜ |\n| 5 | CO-MAT-11-GEO-001-v5 | Medium | Argumentación | Espacial-métrico | ⬜ |\n| 6 | CO-MAT-11-GEO-001-v6 | High | Formulación | Espacial-métrico | ⬜ |\n| 7 | CO-MAT-11-GEO-001-v7 | High | Formulación | Espacial-métrico | ⬜ |\n---\n**Source ID:** `ICFES-MAT-011-GEO-001`\n**Fecha de creación:** 2025-12-06\n**Contexto cultural:** Bogotá (mensajería), Ráquira (cerámica), Medellín (empaques), Valle del Cauca (agricultura), Cartagena (construcción)",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-GEO-001",
+      "statement": "Una empresa constructora en Cartagena necesita calcular cuántos metros cúbicos de concreto requiere para construir un bloque hueco con las siguientes características:\n**Bloque exterior:** Prisma rectangular de 4 m × 3 m × 2.5 m\n**Espacio hueco interior:** Prisma rectangular de 3.6 m × 2.6 m × 2.5 m (mismo alto)\n¿Cuántos metros cúbicos de concreto se necesitan?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6.6 m³",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "6.6 m³",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "23.4 m³",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "30 m³",
+          "is_correct": false
+        },
+        {
+          "letter": "A",
+          "text": "5.4 m³",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "6.6 m³",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "23.4 m³",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "30 m³",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co/documents/39286/21576717/Cuadernillo+de+preguntas+Saber+11-+Matem%C3%A1ticas.pdf",
+      "tags": [],
+      "id": "CO-MAT-11-GEO-001-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "**Respuesta Correcta: C**\nÁrea = $\\pi r^2$\n$$ A = 3.14 \\times 7^2 $$\n$$ A = 3.14 \\times 49 $$\n$$ A \\approx 153.86 \\text{ cm}^2 $$\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-GEO-002",
+      "statement": "Un círculo tiene un radio de 7 cm. ¿Cuál es su área aproximada? (Use $\\pi \\approx 3.14$)",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "21.98 cm²",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "43.96 cm²",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "153.86 cm²",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "307.72 cm²",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-GEO-002-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "**Respuesta Correcta: B**\n$$ A = \\pi \\times 2^2 = 3.14 \\times 4 = 12.56 $$\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-GEO-002",
+      "statement": "Calcula el área de un círculo pequeño con radio de 2 cm. (Use $\\pi \\approx 3.14$)",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6.28 cm²",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "12.56 cm²",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "4 cm²",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "8 cm²",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-GEO-002-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "**Respuesta Correcta: A**\nRadio $r = 10 / 2 = 5$.\nÁrea $= \\pi (5)^2 = 25\\pi$.\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-MAT-11-GEO-002",
+      "statement": "Si el **diámetro** de un círculo es 10 cm, ¿cuál es su área? (Recuerde que el radio es la mitad del diámetro).",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$25\\pi \\text{ cm}^2$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$100\\pi \\text{ cm}^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$50\\pi \\text{ cm}^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$10\\pi \\text{ cm}^2$",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-GEO-002-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "**Respuesta Correcta: C**\n1. Hallar radio: $r = 40/2 = 20$ cm.\n2. Calcular área:\n   $$ A = 3.14 \\times 20^2 $$\n   $$ A = 3.14 \\times 400 $$\n   $$ A = 1256 \\text{ cm}^2 $$\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-GEO-002",
+      "statement": "Una pizza familiar tiene un diámetro de 40 cm. ¿Cuál es su área aproximada en $cm^2$? (Use $\\pi \\approx 3.14$)",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5024 cm²",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "2512 cm²",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "1256 cm²",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "628 cm²",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-GEO-002-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "**Respuesta Correcta: C**\n$$ A = \\pi \\times 3^2 = 9\\pi \\text{ m}^2 $$\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-GEO-002",
+      "statement": "Una fuente circular en un parque tiene un radio de 3 metros. ¿Cuánto mide la superficie (área) que ocupa el agua? (Deje la respuesta en función de $\\pi$).",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3\\pi \\text{ m}^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$6\\pi \\text{ m}^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$9\\pi \\text{ m}^2$",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "$12\\pi \\text{ m}^2$",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-GEO-002-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "**Respuesta Correcta: C**\n$$ A = \\pi(5^2 - 3^2) $$\n$$ A = \\pi(25 - 9) $$\n$$ A = \\pi(16) = 16\\pi $$\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-GEO-002",
+      "statement": "Calcula el área de una corona circular (anillo) que tiene un radio exterior $R = 5$ cm y un radio interior $r = 3$ cm.\nFórmula: $A = \\pi(R^2 - r^2)$.",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2\\pi \\text{ cm}^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$4\\pi \\text{ cm}^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$16\\pi \\text{ cm}^2$",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "$34\\pi \\text{ cm}^2$",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-GEO-002-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "**Respuesta Correcta: B**\n1. Hallar radio desde el área:\n   $$ \\pi r^2 = 100\\pi $$\n   $$ r^2 = 100 \\rightarrow r = 10 $$\n2. Calcular circunferencia:\n   $$ C = 2\\pi(10) = 20\\pi \\text{ cm} $$\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-GEO-002",
+      "statement": "Si el área de un círculo es $100\\pi \\text{ cm}^2$, ¿cuál es su perímetro (circunferencia)?\n(Fórmula circunferencia: $C = 2\\pi r$).",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$10\\pi \\text{ cm}$",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$20\\pi \\text{ cm}$",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$50\\pi \\text{ cm}$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$100\\pi \\text{ cm}$",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-GEO-002-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "**Respuesta Correcta: B**\nPor el teorema de Pitágoras ($h^2 = a^2 + b^2$):\n$$ h = \\sqrt{3^2 + 4^2} $$\n$$ h = \\sqrt{9 + 16} = \\sqrt{25} = 5 $$\nEste es el triángulo \"3-4-5\", una terna pitagórica clásica.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-GEO-003",
+      "statement": "En un triángulo rectángulo, si un cateto mide 3 cm y el otro 4 cm, ¿cuánto mide la hipotenusa?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "5 cm",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "12 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "6 cm",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-GEO-003-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "**Respuesta Correcta: B**\n$$ h = \\sqrt{6^2 + 8^2} $$\n$$ h = \\sqrt{36 + 64} = \\sqrt{100} = 10 \\text{ cm} $$\n(Es similar al 3-4-5, pero multiplicado por 2).\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-GEO-003",
+      "statement": "Calcula la hipotenusa de un triángulo rectángulo cuyos catetos miden 6 cm y 8 cm.",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "14 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "10 cm",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "100 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "48 cm",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-GEO-003-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "**Respuesta Correcta: A**\n$$ h = \\sqrt{5^2 + 12^2} $$\n$$ h = \\sqrt{25 + 144} = \\sqrt{169} = 13 $$\nOtra terna pitagórica importante (5-12-13).\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-MAT-11-GEO-003",
+      "statement": "En un triángulo rectángulo, los catetos son 5 cm y 12 cm. ¿Cuál es el valor de la hipotenusa?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "13 cm",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "17 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "25 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "60 cm",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-GEO-003-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "**Respuesta Correcta: C**\nConocemos la hipotenusa (10) y un cateto (6). Buscamos el otro cateto (altura $a$).\n$$ 10^2 = 6^2 + a^2 $$\n$$ 100 = 36 + a^2 $$\n$$ a^2 = 100 - 36 = 64 $$\n$$ a = \\sqrt{64} = 8 \\text{ m} $$\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-GEO-003",
+      "statement": "Una escalera de 10 metros de longitud está apoyada contra una pared vertical. Si el pie de la escalera está a 6 metros de la base de la pared, ¿a qué altura llega la escalera?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 m",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "16 m",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "8 m",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "12 m",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-GEO-003-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "**Respuesta Correcta: B**\n$$ d = \\sqrt{80^2 + 60^2} $$\n$$ d = \\sqrt{6400 + 3600} $$\n$$ d = \\sqrt{10000} = 100 \\text{ cm} $$\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-GEO-003",
+      "statement": "Las pantallas de televisión se miden por su diagonal. Si una pantalla mide 80 cm de ancho y 60 cm de alto, ¿cuál es la medida de su diagonal?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "140 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "100 cm",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "120 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "70 cm",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-GEO-003-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "**Respuesta Correcta: B**\nLa distancia es la hipotenusa de un triángulo rectángulo formado por las diferencias de las coordenadas:\n- Cateto horizontal: $4 - 1 = 3$\n- Cateto vertical: $5 - 1 = 4$\n$$ d = \\sqrt{3^2 + 4^2} = 5 $$\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-GEO-003",
+      "statement": "En un plano cartesiano, ¿cuál es la distancia entre los puntos $A(1, 1)$ y $B(4, 5)$?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-GEO-003-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "**Respuesta Correcta: B**\nLa altura divide la base de 6 cm en dos segmentos de 3 cm.\nSe forma un triángulo rectángulo con:\n- Hipotenusa = 5 (lado igual)\n- Cateto base = 3 (mitad de la base)\n- Cateto altura = $h$\n$$ h = \\sqrt{5^2 - 3^2} = \\sqrt{25 - 9} = \\sqrt{16} = 4 \\text{ cm} $$\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-GEO-003",
+      "statement": "Calcula la altura de un triángulo **isósceles** cuyos lados iguales miden 5 cm y cuya base mide 6 cm.\n(Sugerencia: La altura divide la base en dos partes iguales).",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "4 cm",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "5 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "2 cm",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-GEO-003-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "**Respuesta Correcta: D**\nEl volumen de un cubo es $V = L^3$, donde $L$ es la medida de la arista.\n$$ V = 5^3 = 5 \\times 5 \\times 5 = 125 \\text{ cm}^3 $$\n---",
+      "correct_answer": "D",
+      "bundle_id": "CO-MAT-11-GEO-004",
+      "statement": "¿Cuál es el volumen de un cubo cuya arista mide 5 cm?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15 cm³",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "25 cm³",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "75 cm³",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "125 cm³",
+          "is_correct": true
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-GEO-004-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "**Respuesta Correcta: A**\n$$ V = 2^3 = 2 \\times 2 \\times 2 = 8 $$\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-MAT-11-GEO-004",
+      "statement": "Calcula el volumen de un dado pequeño con una arista de 2 cm.",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 cm³",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "6 cm³",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "4 cm³",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "12 cm³",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-GEO-004-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "**Respuesta Correcta: A**\n$$ V = 3^3 = 27 $$\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-MAT-11-GEO-004",
+      "statement": "Si un cubo tiene arista de 3 metros, ¿cuál es su volumen?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "27 m³",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "9 m³",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "18 m³",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "30 m³",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-GEO-004-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "**Respuesta Correcta: C**\nVolumen de un cubo unitario = $1^3 = 1 \\text{ cm}^3$.\nSi hay 1.000 cubos, el volumen total es $1 \\times 1000 = 1000 \\text{ cm}^3$.\n(Esto equivale a un cubo más grande de 10 cm de lado).\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-GEO-004",
+      "statement": "Un cubo de azúcar tiene una arista de 1 cm. ¿Cuál es el volumen total de una caja que contiene 1.000 de estos cubos perfectamente empacados?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 cm³",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "10 cm³",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "1000 cm³",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "3000 cm³",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-GEO-004-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "**Respuesta Correcta: A**\n1. Volumen en $m^3$: $V = 2^3 = 8 \\text{ m}^3$.\n2. Conversión a litros: $8 \\times 1000 = 8000$ litros.\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-MAT-11-GEO-004",
+      "statement": "Un tanque de agua en forma cúbica tiene una arista de 2 metros. Sabiendo que $1 \\text{ m}^3 = 1000 \\text{ litros}$, ¿cuántos litros de agua caben en el tanque?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8.000 litros",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "2.000 litros",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "4.000 litros",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "1.000 litros",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-GEO-004-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "**Respuesta Correcta: B**\nDebemos hallar la raíz cúbica del volumen:\n$$ L = \\sqrt[3]{64} $$\nBuscamos un número que multiplicado tres veces por sí mismo de 64.\n$4 \\times 4 \\times 4 = 16 \\times 4 = 64$.\nLa arista mide 4 cm.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-GEO-004",
+      "statement": "Si el volumen de un cubo es de $64 \\text{ cm}^3$, ¿cuánto mide su arista?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "4 cm",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "16 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "32 cm",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-GEO-004-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "**Respuesta Correcta: D**\nSea $L_A$ la arista de A y $L_B = 2L_A$.\n$$ V_A = L_A^3 $$\n$$ V_B = (2L_A)^3 = 2^3 L_A^3 = 8 L_A^3 $$\nEl volumen es 8 veces mayor.\n(Por ejemplo, si arista A=1, Vol=1. Arista B=2, Vol=8).\n---",
+      "correct_answer": "D",
+      "bundle_id": "CO-MAT-11-GEO-004",
+      "statement": "Se tienen dos cubos, A y B. La arista del cubo B es el **doble** de la arista del cubo A. ¿Cuántas veces es mayor el volumen del cubo B respecto al cubo A?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 veces",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "4 veces",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "6 veces",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "8 veces",
+          "is_correct": true
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-GEO-004-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "**Respuesta Correcta: C**\n1. Planteamos ecuaciones:\n   - $P = 2L + 2W = 36$\n   - $L = 2W$\n2. Sustituimos $L$:\n   $$ 2(2W) + 2W = 36 $$\n   $$ 4W + 2W = 36 $$\n   $$ 6W = 36 \\rightarrow W = 6 $$\n3. Hallamos $L$: $L = 2(6) = 12$.\n4. Área: $A = L \\times W = 12 \\times 6 = 72 \\text{ cm}^2$.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-GEO-005",
+      "statement": "El perímetro de un rectángulo es 36 cm. Si su largo es el doble de su ancho, ¿cuál es el área del rectángulo?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "36 cm²",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "54 cm²",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "72 cm²",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "81 cm²",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-GEO-005-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "**Respuesta Correcta: B**\n1. Hallar lado: $L = P/4 = 20/4 = 5$.\n2. Hallar área: $A = L^2 = 5^2 = 25$.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-GEO-005",
+      "statement": "Un cuadrado tiene un perímetro de 20 cm. ¿Cuál es su área?\n(Recuerde que en un cuadrado, los 4 lados son iguales).",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 cm²",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "25 cm²",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "16 cm²",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "100 cm²",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-GEO-005-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "**Respuesta Correcta: B**\n$$ P = 2(4) + 2(5) = 8 + 10 = 18 \\text{ cm} $$\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-GEO-005",
+      "statement": "Un rectángulo mide 4 cm de ancho y 5 cm de largo. ¿Cuál es su perímetro?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "18 cm",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "20 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "10 cm",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-GEO-005-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "**Respuesta Correcta: B**\n1. Calcular perímetro: $P = 2(20) + 2(15) = 40 + 30 = 70$ metros.\n2. Calcular costo: $70 \\times 1.000 = 70.000$ pesos.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-GEO-005",
+      "statement": "Se quiere cercar un lote rectangular de 20m de largo por 15m de ancho. Si el metro de cerca cuesta $1.000 COP, ¿cuánto cuesta cercar todo el lote?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$35.000",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$70.000",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$300.000",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$700.000",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-GEO-005-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "**Respuesta Correcta: B**\n$$ 300 = 2(100) + 2W $$\n$$ 300 = 200 + 2W $$\n$$ 100 = 2W $$\n$$ W = 50 $$\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-GEO-005",
+      "statement": "Una cancha de fútbol tiene un perímetro de 300 metros. Si el largo es de 100 metros, ¿cuánto mide el ancho?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 metros",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "50 metros",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "200 metros",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "25 metros",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-GEO-005-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "**Respuesta Correcta: C**\nSi es un cuadrado, $4L = 40 \\rightarrow L = 10$.\nÁrea $= 10 \\times 10 = 100 \\text{ m}^2$.\n(Cualquier otro rectángulo tendría menor área, ej: 15x5 = 75).\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-GEO-005",
+      "statement": "Si tienes un perímetro fijo de 40 metros para construir un corral rectangular, ¿cuál es el **área máxima** que puedes encerrar?\n(Pista: El área máxima de un rectángulo con perímetro fijo se logra cuando es un cuadrado).",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "40 m²",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "20 m²",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "100 m²",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "80 m²",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-GEO-005-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "**Respuesta Correcta: B**\nBuscamos dos números que multiplicados den 24 y sumados den 10 (la mitad del perímetro).\n- A) $12 \\times 2 = 24$, pero $12 + 2 = 14 \\neq 10$.\n- B) $6 \\times 4 = 24$ y $6 + 4 = 10$. (Correcto).\n- C) $8 \\times 3 = 24$, pero $8 + 3 = 11 \\neq 10$.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-GEO-005",
+      "statement": "El área de un rectángulo es $24 \\text{ cm}^2$ y su perímetro es $20 \\text{ cm}$. ¿Cuáles son las dimensiones (largo y ancho) del rectángulo?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 cm y 2 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "6 cm y 4 cm",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "8 cm y 3 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "5 cm y 4.8 cm",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-GEO-005-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "Teorema de Pitágoras: $c = \\sqrt{a^2 + b^2}$.\n$c = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$.\nEs el clásico triángulo pitagórico 3-4-5.\n**Competencia evaluada:** Formulación y ejecución - Teorema de Pitágoras.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-geometria-mix-001",
+      "statement": "Un triángulo rectángulo tiene catetos de longitud 3 cm y 4 cm. ¿Cuál es la longitud de la hipotenusa?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "5 cm",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "12 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "25 cm",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-geometria-mix-001-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "Volumen de un cilindro: $V = \\pi r^2 h$.\n$V = 3.14 \\times (2^2) \\times 5 = 3.14 \\times 4 \\times 5 = 62.8 m^3$.\n**Competencia evaluada:** Formulación y ejecución - Volumen de sólidos.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-geometria-mix-001",
+      "statement": "Un tanque de agua tiene forma de cilindro recto con radio de 2 metros y altura de 5 metros. ¿Cuál es el volumen del tanque? (Use $\\pi \\approx 3.14$)",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "31.4 m³",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "62.8 m³",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "100 m³",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "20 m³",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-geometria-mix-001-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "Área del cuadrado = $Lado \\times Lado = 5 \\times 5 = 25 cm^2$.\n**Competencia evaluada:** Formulación y ejecución - Cálculo de áreas básicas.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-geometria-mix-001",
+      "statement": "Si el lado de un cuadrado mide 5 cm, ¿cuál es su área?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 cm²",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "25 cm²",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "10 cm²",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "15 cm²",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-geometria-mix-001-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "Volumen del cubo = $L^3 = 3 \\times 3 \\times 3 = 27 m^3$.\n**Competencia evaluada:** Formulación y ejecución - Volumen.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-geometria-mix-001",
+      "statement": "¿Cuál es el volumen de un cubo cuya arista mide 3 metros?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9 m³",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "18 m³",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "27 m³",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "54 m³",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-geometria-mix-001-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "El radio es la mitad del diámetro. $r = D/2 = 10/2 = 5 cm$.\n**Competencia evaluada:** Interpretación y representación - Elementos del círculo.\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-MAT-11-geometria-mix-001",
+      "statement": "Se tiene un círculo con diámetro de 10 cm. Su radio es:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 cm",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "10 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "20 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "3.14 cm",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-geometria-mix-001-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "La altura divide la base en dos partes iguales (3 cm). Se forma un triángulo rectángulo con hipotenusa 5 y cateto base 3.\nPor Pitágoras ($3-4-5$):\n$h^2 + 3^2 = 5^2 \\rightarrow h^2 = 25 - 9 = 16 \\rightarrow h=4$.\n**Competencia evaluada:** Razonamiento - Geometría analítica/Pitágoras compuesto.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-geometria-mix-001",
+      "statement": "Un triángulo isósceles tiene dos lados iguales de 5 cm y una base de 6 cm. ¿Cuál es su altura (trazada sobre la base)?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "4 cm",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "5 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{61}$ cm",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-geometria-mix-001-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "Fórmula: $V = \\pi r^2 h$.\nSi $r_{nuevo} = 2r$:\n$V_{nuevo} = \\pi (2r)^2 h = \\pi (4r^2) h = 4 (\\pi r^2 h) = 4V$.\nAl estar el radio elevado al cuadrado, duplicarlo cuadruplica el volumen.\n**Competencia evaluada:** Argumentación - Variación de parámetros.\n---\n## 📊 Metadata de Validación\n| Pregunta | ID | Dificultad | Competencia ICFES | Componente | Validado |\n|----------|-----|------------|-------------------|------------|----------|\n| 1 | v1 | 2 | Formulación | Espacial-métrico | ⬜ |\n| 2 | v2 | 3 | Formulación | Espacial-métrico | ⬜ |\n| 3 | v3 | Low | Formulación | Espacial-métrico | ⬜ |\n| 4 | v4 | Medium | Formulación | Espacial-métrico | ⬜ |\n| 5 | v5 | Medium | Interpretación | Espacial-métrico | ⬜ |\n| 6 | v6 | High | Razonamiento | Espacial-métrico | ⬜ |\n| 7 | v7 | High | Argumentación | Espacial-métrico | ⬜ |",
+      "correct_answer": "D",
+      "bundle_id": "CO-MAT-11-geometria-mix-001",
+      "statement": "Si duplicamos el radio de un cilindro manteniendo su altura constante, ¿cómo cambia su volumen?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se duplica.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Se mantiene igual.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Se triplica.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Se cuadruplica.",
+          "is_correct": true
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-geometria-mix-001-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "",
+      "correct_answer": "A",
+      "bundle_id": "CO-MAT-11-operaciones-basicas-001",
+      "statement": "# Pregunta\nÂ¿CuÃ¡l es el resultado de la suma 7 + 5?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "11",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "13",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-operaciones-basicas-001-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "",
+      "correct_answer": "",
+      "bundle_id": "CO-MAT-11-operaciones-basicas-001",
+      "statement": "TODO: Generar variaciÃ³n de tipo FÃ¡cil A",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "OpciÃ³n 1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "OpciÃ³n 2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "OpciÃ³n 3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "OpciÃ³n 4",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-operaciones-basicas-001-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "",
+      "correct_answer": "",
+      "bundle_id": "CO-MAT-11-operaciones-basicas-001",
+      "statement": "TODO: Generar variaciÃ³n de tipo FÃ¡cil B",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "OpciÃ³n 1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "OpciÃ³n 2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "OpciÃ³n 3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "OpciÃ³n 4",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-operaciones-basicas-001-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "",
+      "correct_answer": "",
+      "bundle_id": "CO-MAT-11-operaciones-basicas-001",
+      "statement": "TODO: Generar variaciÃ³n de tipo Media A",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "OpciÃ³n 1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "OpciÃ³n 2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "OpciÃ³n 3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "OpciÃ³n 4",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-operaciones-basicas-001-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "",
+      "correct_answer": "",
+      "bundle_id": "CO-MAT-11-operaciones-basicas-001",
+      "statement": "TODO: Generar variaciÃ³n de tipo Media B",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "OpciÃ³n 1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "OpciÃ³n 2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "OpciÃ³n 3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "OpciÃ³n 4",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-operaciones-basicas-001-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "",
+      "correct_answer": "",
+      "bundle_id": "CO-MAT-11-operaciones-basicas-001",
+      "statement": "TODO: Generar variaciÃ³n de tipo DifÃ­cil A",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "OpciÃ³n 1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "OpciÃ³n 2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "OpciÃ³n 3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "OpciÃ³n 4",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-operaciones-basicas-001-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "",
+      "correct_answer": "",
+      "bundle_id": "CO-MAT-11-operaciones-basicas-001",
+      "statement": "TODO: Generar variaciÃ³n de tipo DifÃ­cil B",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "OpciÃ³n 1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "OpciÃ³n 2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "OpciÃ³n 3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "OpciÃ³n 4",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-operaciones-basicas-001-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-operaciones-basicas-002",
+      "statement": "# Pregunta\nMarÃ­a va al supermercado Ã‰xito en BogotÃ¡ y compra 2 libros que cuestan $15,000 COP cada uno. Â¿CuÃ¡nto dinero gastÃ³ en total?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$25,000 COP",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$30,000 COP",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$35,000 COP",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$20,000 COP",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-operaciones-basicas-002-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "",
+      "correct_answer": "",
+      "bundle_id": "CO-MAT-11-operaciones-basicas-002",
+      "statement": "TODO: Generar variaciÃ³n de tipo FÃ¡cil A",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "OpciÃ³n 1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "OpciÃ³n 2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "OpciÃ³n 3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "OpciÃ³n 4",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-operaciones-basicas-002-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "",
+      "correct_answer": "",
+      "bundle_id": "CO-MAT-11-operaciones-basicas-002",
+      "statement": "TODO: Generar variaciÃ³n de tipo FÃ¡cil B",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "OpciÃ³n 1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "OpciÃ³n 2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "OpciÃ³n 3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "OpciÃ³n 4",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-operaciones-basicas-002-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "",
+      "correct_answer": "",
+      "bundle_id": "CO-MAT-11-operaciones-basicas-002",
+      "statement": "TODO: Generar variaciÃ³n de tipo Media A",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "OpciÃ³n 1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "OpciÃ³n 2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "OpciÃ³n 3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "OpciÃ³n 4",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-operaciones-basicas-002-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "",
+      "correct_answer": "",
+      "bundle_id": "CO-MAT-11-operaciones-basicas-002",
+      "statement": "TODO: Generar variaciÃ³n de tipo Media B",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "OpciÃ³n 1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "OpciÃ³n 2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "OpciÃ³n 3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "OpciÃ³n 4",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-operaciones-basicas-002-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "",
+      "correct_answer": "",
+      "bundle_id": "CO-MAT-11-operaciones-basicas-002",
+      "statement": "TODO: Generar variaciÃ³n de tipo DifÃ­cil A",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "OpciÃ³n 1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "OpciÃ³n 2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "OpciÃ³n 3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "OpciÃ³n 4",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-operaciones-basicas-002-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "",
+      "correct_answer": "",
+      "bundle_id": "CO-MAT-11-operaciones-basicas-002",
+      "statement": "TODO: Generar variaciÃ³n de tipo DifÃ­cil B",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "OpciÃ³n 1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "OpciÃ³n 2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "OpciÃ³n 3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "OpciÃ³n 4",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-operaciones-basicas-002-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-operaciones-basicas-003",
+      "statement": "# Pregunta\nÂ¿CuÃ¡l es el resultado de la suma de fracciones: 1/2 + 1/4?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/6",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "2/6",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "3/4",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "1/3",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-operaciones-basicas-003-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "",
+      "correct_answer": "",
+      "bundle_id": "CO-MAT-11-operaciones-basicas-003",
+      "statement": "TODO: Generar variaciÃ³n de tipo FÃ¡cil A",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "OpciÃ³n 1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "OpciÃ³n 2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "OpciÃ³n 3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "OpciÃ³n 4",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-operaciones-basicas-003-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "",
+      "correct_answer": "",
+      "bundle_id": "CO-MAT-11-operaciones-basicas-003",
+      "statement": "TODO: Generar variaciÃ³n de tipo FÃ¡cil B",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "OpciÃ³n 1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "OpciÃ³n 2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "OpciÃ³n 3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "OpciÃ³n 4",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-operaciones-basicas-003-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "",
+      "correct_answer": "",
+      "bundle_id": "CO-MAT-11-operaciones-basicas-003",
+      "statement": "TODO: Generar variaciÃ³n de tipo Media A",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "OpciÃ³n 1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "OpciÃ³n 2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "OpciÃ³n 3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "OpciÃ³n 4",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-operaciones-basicas-003-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "",
+      "correct_answer": "",
+      "bundle_id": "CO-MAT-11-operaciones-basicas-003",
+      "statement": "TODO: Generar variaciÃ³n de tipo Media B",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "OpciÃ³n 1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "OpciÃ³n 2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "OpciÃ³n 3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "OpciÃ³n 4",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-operaciones-basicas-003-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "",
+      "correct_answer": "",
+      "bundle_id": "CO-MAT-11-operaciones-basicas-003",
+      "statement": "TODO: Generar variaciÃ³n de tipo DifÃ­cil A",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "OpciÃ³n 1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "OpciÃ³n 2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "OpciÃ³n 3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "OpciÃ³n 4",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-operaciones-basicas-003-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "",
+      "correct_answer": "",
+      "bundle_id": "CO-MAT-11-operaciones-basicas-003",
+      "statement": "TODO: Generar variaciÃ³n de tipo DifÃ­cil B",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "OpciÃ³n 1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "OpciÃ³n 2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "OpciÃ³n 3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "OpciÃ³n 4",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-operaciones-basicas-003-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-operaciones-basicas-004",
+      "statement": "# Pregunta\nUn autobÃºs viaja de BogotÃ¡ a MedellÃ­n. En la primera parada suben 15 pasajeros, y en la segunda parada suben 8 pasajeros mÃ¡s. Si inicialmente habÃ­a 12 pasajeros, Â¿cuÃ¡ntos pasajeros hay en total ahora?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "27",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "30",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "35",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "40",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-operaciones-basicas-004-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "",
+      "correct_answer": "",
+      "bundle_id": "CO-MAT-11-operaciones-basicas-004",
+      "statement": "TODO: Generar variaciÃ³n de tipo FÃ¡cil A",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "OpciÃ³n 1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "OpciÃ³n 2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "OpciÃ³n 3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "OpciÃ³n 4",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-operaciones-basicas-004-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "",
+      "correct_answer": "",
+      "bundle_id": "CO-MAT-11-operaciones-basicas-004",
+      "statement": "TODO: Generar variaciÃ³n de tipo FÃ¡cil B",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "OpciÃ³n 1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "OpciÃ³n 2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "OpciÃ³n 3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "OpciÃ³n 4",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-operaciones-basicas-004-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "",
+      "correct_answer": "",
+      "bundle_id": "CO-MAT-11-operaciones-basicas-004",
+      "statement": "TODO: Generar variaciÃ³n de tipo Media A",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "OpciÃ³n 1",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "OpciÃ³n 2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "OpciÃ³n 3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "OpciÃ³n 4",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-operaciones-basicas-004-v4"
+    }
+  ],
+  "metadata": {
+    "total_questions": 343,
+    "exam": "icfes",
+    "total_pages": 4.0,
+    "page": 2,
+    "grade": "11",
+    "generated_at": "2025-12-08T00:20:16Z",
+    "subject": "Matemáticas",
+    "country": "co"
+  }
+}

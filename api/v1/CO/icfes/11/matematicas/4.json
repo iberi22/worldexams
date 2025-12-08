@@ -1,0 +1,1476 @@
+{
+  "questions": [
+    {
+      "number": 7,
+      "explanation": "**Respuesta correcta:** B\nInterés compuesto:\nAño 1: $1.00 \\times 1.10 = 1.10$.\nAño 2: $1.10 \\times 1.10 = 1.21$.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-porcentajes-006",
+      "statement": "Un árbol crece un 10% cada año. Si hoy mide 1.00 metro, ¿cuánto medirá en 2 años?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.20 m",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "1.21 m",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "1.10 m",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "1.25 m",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-porcentajes-006-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "**Respuesta correcta:** C\n$4^2 = 16$.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-raices-001",
+      "statement": "¿Cuál es la raíz cuadrada de 16?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-001-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "**Respuesta correcta:** B\n$5 \\times 5 = 25$.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-raices-001",
+      "statement": "$\\sqrt{25}$ es igual a:",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.5",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "25",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-001-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "**Respuesta correcta:** A\nLa raíz cuadrada de 36 es 6.\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-MAT-11-raices-001",
+      "statement": "¿Qué número multiplicado por sí mismo da 36?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "9",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "18",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "12",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-001-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "**Respuesta correcta:** C\n$\\sqrt{64} = 8$ y $\\sqrt{4} = 2$.\n$8 + 2 = 10$.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-raices-001",
+      "statement": "El valor de $\\sqrt{64} + \\sqrt{4}$ es:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-001-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "**Respuesta correcta:** C\n$7 \\times 7 = 49$. Los otros no tienen raíz entera exacta.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-raices-001",
+      "statement": "¿Cuál de los siguientes es un cuadrado perfecto?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "30",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "49",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "50",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-001-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "**Respuesta correcta:** C\nElevamos ambos lados al cuadrado: $(\\sqrt{x})^2 = 9^2 \\rightarrow x = 81$.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-raices-001",
+      "statement": "Si $\\sqrt{x} = 9$, entonces $x$ es:",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "18",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "81",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "90",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-001-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "**Respuesta correcta:** B\n$3 \\times 4 = 12$.\nTambién: $\\sqrt{9 \\times 16} = \\sqrt{144} = 12$.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-raices-001",
+      "statement": "$\\sqrt{9} \\times \\sqrt{16}$ es igual a:",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{25}$",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "144",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-001-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "**Respuesta correcta:** C\n$L^2 = 64 \\rightarrow L = \\sqrt{64} = 8$.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-raices-002",
+      "statement": "Un parque cuadrado en Bogotá tiene un área de 64 metros cuadrados. ¿Cuál es la longitud de cada lado del parque?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 metros",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "16 metros",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "8 metros",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "32 metros",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-002-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "**Respuesta correcta:** A\n$\\sqrt{9} = 3$.\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-MAT-11-raices-002",
+      "statement": "El área de un tapete cuadrado es 9 $m^2$. ¿Cuánto mide su lado?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 m",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "4.5 m",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "81 m",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "1 m",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-002-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "**Respuesta correcta:** B\n$\\sqrt{100} = 10$.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-raices-002",
+      "statement": "Si un terreno cuadrado tiene $100 m^2$ de área, cada lado mide:",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50 m",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "10 m",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "25 m",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "20 m",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-002-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "**Respuesta correcta:** C\nLado original = $\\sqrt{144} = 12$.\nNuevo lado = $24$.\nNueva área = $24^2 = 576$.\n(Al duplicar el lado, el área se cuadruplica: $144 \\times 4 = 576$).\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-raices-002",
+      "statement": "Un cuadrado tiene un área de $144 cm^2$. Si se duplica la longitud de su lado, la nueva área será:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$288 cm^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$144 cm^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$576 cm^2$",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "$400 cm^2$",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-002-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "**Respuesta correcta:** B\n1. $r^2 = A / \\pi$.\n2. $r = \\sqrt{A / \\pi}$.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-raices-002",
+      "statement": "Si el área de un círculo es $A = \\pi r^2$, para despejar el radio $r$ usamos:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$r = A / \\pi$",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$r = \\sqrt{A / \\pi}$",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$r = (A / \\pi)^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$r = A - \\pi$",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-002-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "**Respuesta correcta:** B\n$14^2 = 196$.\n$15^2 = 225$.\n$200$ está entre $196$ y $225$, así que la raíz está entre $14$ y $15$.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-raices-002",
+      "statement": "Un campo cuadrado tiene un área de $200 m^2$. La longitud de su lado está aproximadamente entre:",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 y 11 metros",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "14 y 15 metros",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "19 y 20 metros",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "13 y 14 metros",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-002-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "**Respuesta correcta:** A\nSe usa la raíz **cúbica**.\n$\\sqrt[3]{27} = 3$ porque $3 \\times 3 \\times 3 = 27$.\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-MAT-11-raices-002",
+      "statement": "Si el volumen de un cubo es $27 m^3$, ¿cuánto mide su arista?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 m",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "9 m",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "6 m",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "3.33 m",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-002-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "**Respuesta correcta:** B\n$14 \\times 14 = 196$.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-raices-003",
+      "statement": "¿Cuál es la raíz cuadrada de 196?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "14",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "16",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "13",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-003-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "**Respuesta correcta:** A\n$10 \\times 10 = 100$.\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-MAT-11-raices-003",
+      "statement": "$\\sqrt{100}$ es igual a:",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "50",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "20",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-003-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "**Respuesta correcta:** B\n$12 \\times 12 = 144$.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-raices-003",
+      "statement": "¿Cuál es la raíz cuadrada de 144?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "11",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "14",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-003-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "**Respuesta correcta:** B\n$13 \\times 13 = 169$.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-raices-003",
+      "statement": "El número 169 es el cuadrado de:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "13",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "14",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "11",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-003-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "**Respuesta correcta:** A\n$15^2 = 225$.\n(Termina en 5, lo cual es una pista útil).\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-MAT-11-raices-003",
+      "statement": "$\\sqrt{225}$ es igual a:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "25",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "20",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "18",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-003-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "**Respuesta correcta:** C\n$20 \\times 20 = 400$.\n(La raíz de 4 es 2, y la raíz de 100 es 10; $2 \\times 10 = 20$).\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-raices-003",
+      "statement": "¿Cuánto es $\\sqrt{400}$?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "40",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "100",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "20",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-003-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "**Respuesta correcta:** B\n$\\sqrt{900} = 30$. $30 \\times 30 = 900$.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-raices-003",
+      "statement": "Si un número al cuadrado es 900, la raíz cuadrada del número es:",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "90",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "30",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "45",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "300",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-003-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "**Respuesta correcta:** C\n1. **Lado:** $\\sqrt{225} = 15$.\n2. **Perímetro:** $4 \\times 15 = 60$.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-raices-004",
+      "statement": "Una plaza cuadrada en Medellín tiene un área de $225$ metros cuadrados. ¿Cuántos metros de cerca se necesitan para rodear completamente la plaza (perímetro)?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "45 metros",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "50 metros",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "60 metros",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "75 metros",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-004-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "**Respuesta correcta:** A\n1. Lado = $\\sqrt{16} = 4$.\n2. Perímetro = $4 \\times 4 = 16$.\n(Curioso caso donde valor numérico de área y perímetro coinciden).\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-MAT-11-raices-004",
+      "statement": "Un cuadrado de área $16 cm^2$. Su perímetro es:",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "16 cm",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "4 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "8 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "32 cm",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-004-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "**Respuesta correcta:** B\nSolo pide el lado: $\\sqrt{100} = 10$.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-raices-004",
+      "statement": "El área de un jardín cuadrado es $100 m^2$. ¿Cuánto mide la cerca de un **solo** lado?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50 m",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "10 m",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "25 m",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "100 m",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-004-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "**Respuesta correcta:** C\n1. Lado = $\\sqrt{400} = 20$.\n2. Cerca para 3 lados = $3 \\times 20 = 60$.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-raices-004",
+      "statement": "Un terreno cuadrado tiene un área de $400 m^2$. Se quiere cercar solo 3 de sus lados. ¿Cuántos metros de cerca se necesitan?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "80 m",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "40 m",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "60 m",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "50 m",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-004-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "**Respuesta correcta:** A\nTeorema de Pitágoras: $h = \\sqrt{3^2 + 4^2} = \\sqrt{9+16} = \\sqrt{25} = 5$.\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-MAT-11-raices-004",
+      "statement": "La hipotenusa de un triángulo rectángulo con catetos de 3 cm y 4 cm es:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 cm",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "7 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "6 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "25 cm",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-004-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "**Respuesta correcta:** C\nProceso inverso:\n1. Lado = $40 / 4 = 10$.\n2. Área = $10^2 = 100$.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-raices-004",
+      "statement": "Un cuadrado tiene un perímetro de 40 m. ¿Cuál es su área?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$40 m^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$1600 m^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$100 m^2$",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "$200 m^2$",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-004-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "**Respuesta correcta:** B\nSi Área nueva = $4L^2$, entonces Lado nuevo = $\\sqrt{4L^2} = 2L$.\nEl lado se duplica.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-raices-004",
+      "statement": "Se tiene un cuadrado de área $A$. Si cuadruplicamos el área ($4A$), ¿qué pasa con el lado del cuadrado?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se cuadruplica",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Se duplica",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Se mantiene igual",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Se triplica",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-004-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "**Respuesta correcta:** B\n$\\sqrt{9x^2} = 3x$.\n$3(4) = 12$.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-raices-005",
+      "statement": "¿Cuál es el valor de $\\sqrt{9x^2}$ cuando $x = 4$?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "18",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "36",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-005-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "**Respuesta correcta:** A\nLa raíz cuadrada y el cuadrado son operaciones inversas.\n---",
+      "correct_answer": "A",
+      "bundle_id": "CO-MAT-11-raices-005",
+      "statement": "Simplifica la expresión $\\sqrt{x^2}$ (asumiendo x positivo).",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "x",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$x^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "2x",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-005-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "**Respuesta correcta:** C\n$\\sqrt{25} = 5$ y $\\sqrt{a^2} = a$. Resultado: $5a$.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-raices-005",
+      "statement": "Calcula $\\sqrt{25a^2}$.",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25a",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$5a^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "5a",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "25",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-005-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "**Respuesta correcta:** B\n$a+b = 16+9 = 25$.\n$\\sqrt{25} = 5$.\n(¡Ojo! $\\sqrt{a+b} \\neq \\sqrt{a} + \\sqrt{b}$).\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-raices-005",
+      "statement": "Si $a = 16$ y $b = 9$, entonces $\\sqrt{a+b}$ es:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "25",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "12",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-005-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "**Respuesta correcta:** C\n$\\sqrt{16} = 4$.\n$\\sqrt{x^4} = x^{4/2} = x^2$.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-raices-005",
+      "statement": "El valor de $\\sqrt{16x^4}$ es:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$8x^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$4x$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$4x^2$",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "$16x^2$",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-005-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "**Respuesta correcta:** C\n$\\sqrt{50} = \\sqrt{25 \\times 2} = 5\\sqrt{2}$.\n$\\sqrt{x^2} = x$.\nTotal: $5x\\sqrt{2}$.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-raices-005",
+      "statement": "Simplifica $\\sqrt{50x^2}$.",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$25x$",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$10x$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$5x\\sqrt{2}$",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "$50x$",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-005-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "**Respuesta correcta:** C\n1. Elevar al cuadrado: $2x = 36$.\n2. Despejar x: $x = 18$.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-raices-005",
+      "statement": "Si $\\sqrt{2x} = 6$, ¿cuánto vale x?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "18",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "36",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-005-v7"
+    },
+    {
+      "number": 1,
+      "explanation": "**Respuesta correcta:** C\n144 es el número mayor dentro de la raíz, y la función raíz cuadrada es creciente.\nA=10, B=11, C=12, D=9.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-raices-006",
+      "statement": "¿Cuál de las siguientes raíces cuadradas es mayor?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{100}$",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt{121}$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{144}$",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{81}$",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-006-v1"
+    },
+    {
+      "number": 2,
+      "explanation": "**Respuesta correcta:** B\n$1 < 2 < 3$.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-raices-006",
+      "statement": "Ordena de menor a mayor: $\\sqrt{4}$, $\\sqrt{9}$, $\\sqrt{1}$.",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{9}, \\sqrt{4}, \\sqrt{1}$",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt{1}, \\sqrt{4}, \\sqrt{9}$",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{4}, \\sqrt{1}, \\sqrt{9}$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{1}, \\sqrt{9}, \\sqrt{4}$",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-006-v2"
+    },
+    {
+      "number": 3,
+      "explanation": "**Respuesta correcta:** B\n$\\sqrt{25} = 5$.\n$6 > 5$.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-raices-006",
+      "statement": "¿Qué número es mayor?",
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{25}$",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{16}$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "4.5",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-006-v3"
+    },
+    {
+      "number": 4,
+      "explanation": "**Respuesta correcta:** C\n$7^2 = 49$.\n$8^2 = 64$.\n50 está muy cerca de 49, así que es un poco más de 7 (aprox 7.07).\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-raices-006",
+      "statement": "$\\sqrt{50}$ es un número situado entre:",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 y 6",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "6 y 7",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "7 y 8",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "8 y 9",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-006-v4"
+    },
+    {
+      "number": 5,
+      "explanation": "**Respuesta correcta:** C\nLa raíz de 10 debe estar entre 3 y 4.\nEl error en A es común: $\\sqrt{20} \\neq 2\\sqrt{10}$.\nEl error en D: da 5, no 25.\n---",
+      "correct_answer": "C",
+      "bundle_id": "CO-MAT-11-raices-006",
+      "statement": "¿Cuál afirmación es correcta?",
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{10} + \\sqrt{10} = \\sqrt{20}$",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt{8} = 4$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$\\sqrt{9} < \\sqrt{10} < \\sqrt{16}$",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{5} \\times \\sqrt{5} = 25$",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-006-v5"
+    },
+    {
+      "number": 6,
+      "explanation": "**Respuesta correcta:** B\n$9^2 = 81$.\n$8^2 = 64$.\n80 está mucho más cerca de 81 que de 64.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-raices-006",
+      "statement": "Aproxima $\\sqrt{80}$ al entero más cercano.",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "9",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "8.5",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-006-v6"
+    },
+    {
+      "number": 7,
+      "explanation": "**Respuesta correcta:** B\nEs una constante irracional famosa. $\\sqrt{2} \\approx 1.4142$.\n---",
+      "correct_answer": "B",
+      "bundle_id": "CO-MAT-11-raices-006",
+      "statement": "¿Qué valor es más cercano a $\\sqrt{2}$?",
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.2",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "1.41",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "1.5",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "is_correct": false
+        }
+      ],
+      "images": [],
+      "source_url": "https://www.icfes.gov.co",
+      "tags": [],
+      "id": "CO-MAT-11-raices-006-v7"
+    }
+  ],
+  "metadata": {
+    "total_questions": 343,
+    "exam": "icfes",
+    "total_pages": 4.0,
+    "page": 4,
+    "grade": "11",
+    "generated_at": "2025-12-08T00:20:16Z",
+    "subject": "Matemáticas",
+    "country": "co"
+  }
+}
