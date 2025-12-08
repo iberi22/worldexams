@@ -1,61 +1,95 @@
-# PROMPT: Generate Exam Content (Mexico/USA)
+# PROMPT: Generate Exam Content (Mexico/USA) - PROTOCOL V2.1 STRICT
 
 **Role:** You are an expert exam content generator for `World Exams`.
-**Objective:** Generate high-quality, academic exam questions for Mexico (EXANI-II) and USA (SAT).
+**Objective:** Generate high-quality, academic exam questions for Mexico (EXANI-II) and USA (SAT) that **EXACTLY MATCH** the Colombia Schema (v2.1).
 
-## 🚨 CRITICAL RULES (DO NOT IGNORE)
+## 🚨 CRITICAL PROTOCOL (STRICT ADHERENCE REQUIRED)
 
-1.  **NO TRIVIA:** Do not use sources like "OpenTDB" or generic trivia. Questions must be **academic** (Math problems, Reading passages).
-2.  **BUNDLE FORMAT:** Generate **7 questions per file** (1 Original + 2 Low + 2 Medium + 2 High variants).
-    - File naming: `[COUNTRY]-[SUBJ]-[GRADE]-[TOPIC]-[###]-bundle.md`
-3.  **CURRICULUM ONLY:**
-    - **Mexico:** Pensamiento Matemático (Álgebra, Estadística), Comprensión Lectora.
-    - **USA:** SAT Math (Algebra, Advanced Math), Reading & Writing.
+1.  **Format:** SINGLE FILE per bundle (`*-bundle.md`).
+2.  **Structure:**
+    - **Header:** YAML Frontmatter with ALL fields (see template).
+    - **Body:** 7 Questions labeled exactly as `## Pregunta 1 (Original - Dificultad Medium)`, `## Pregunta 2 (Low A - Dificultad Low)`, etc.
+    - **Sub-sections:** `### Enunciado`, `### Opciones`, `### Explicación Pedagógica`.
+    - **Footer:** `## 📊 Metadata de Validación` table.
+3.  **Content:**
+    - **Mexico:** Subjects: Pensamiento Matemático, Comprensión Lectora.
+    - **USA:** Subjects: Math (Algebra/Advanced), Reading.
 
-## 📄 File Template (Copy Exactly)
+## 📄 File Template (COPY STRUCTURE EXACTLY)
 
 ```markdown
 ---
-id: [COUNTRY]-[SUBJ]-[GRADE]-[TOPIC]-[###]
-country: [mx/us]
+# === METADATA GLOBAL ===
+id: "[COUNTRY]-[SUBJ]-[GRADE]-[TOPIC]-[###]"
+country: "[MX/US]"
 grado: 11
-asignatura: [Matematica/Math]
-tema: [Topic]
-protocol_version: "2.0"
+asignatura: "[Subject]"
+tema: "[Topic]"
+dificultad: "Medium"
+estado: "published"
+creador: "Jules-AI"
+source_lang: "[es-MX or en-US]"
+bundle_version: "2.1"
 total_questions: 7
-difficulty_distribution: "1:2:2:2"
-estado: published
-creador: Jules-AI
-source_id: [UNIQUE_ID]
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-08"
+
+# === SOURCE ATTRIBUTION ===
+source: "[EXANI-II or SAT]"
+original_concept: "[Concept description]"
+# ... (Fill other fields generically if needed)
+
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-EXANI", "US-SAT"]
 ---
 
-# Original Question
+# Bundle: [Topic Name]
+
+> **Fuente:** [Exam Name]
+> **Contexto:** [Country]
+
+---
+
+## Pregunta 1 (Original - Dificultad Medium)
+
+**ID:** `[BUNDLE-ID]-v1`
+
+### Enunciado
+
 [Question Text]
 
-## Options
+### Opciones
+
 - [ ] A) ...
 - [ ] B) ...
 - [x] C) ...
 - [ ] D) ...
 
-## Explanation
-[Detailed explanation]
+### Explicación Pedagógica
 
-# Low Difficulty Variants
-## Variant 1
+[Explanation]
+
+**Competencia evaluada:** [Competence]
+
+---
+
+## Pregunta 2 (Low A - Dificultad Low)
+...
+(Repeat for all 7 variants: Low A, Low B, Medium A, Medium B, High A, High B)
+
+---
+
+## 📊 Metadata de Validación
+
+| Pregunta | ID | Dificultad | Competencia | Validado |
+|----------|-----|------------|-------------|----------|
+| 1 | ...-v1 | Medium | ... | ⬜ |
 ...
 ```
 
-## 🎯 Implementation Tasks
+## 🎯 Task: Regenerate Now
+1.  **Mexico:** `MX-MAT-11-cuadraticas-001` (Quadratic Equations).
+2.  **USA:** `US-MAT-11-linear-001` (Linear Equations).
 
-### 1. Mexico (EXANI-II) - Math
-- **Topic:** Ecuaciones Cuadráticas
-- **Quantity:** 1 Bundle
-- **ID:** `MX-MAT-11-cuadraticas-001`
-
-### 2. USA (SAT) - Math
-- **Topic:** Linear Equations
-- **Quantity:** 1 Bundle
-- **ID:** `US-MAT-11-linear-001`
-
-**Action:** Generate these 2 bundles now.
+**DO NOT DEVIATE from this template. The validation script will fail if you miss sections.**
