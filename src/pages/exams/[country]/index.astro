@@ -62,7 +62,7 @@ const subjects = Object.keys(bySubject);
 
           return (
             <a
-              href={`/exams/${country}/${subject.toLowerCase().replace(/\s+/g, '-')}`}
+              href={`/exams/${country}/${subject.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\s+/g, '-')}`}
               class="country-card group"
               style={`--flag-stripe: ${countryData.flagStripe};`}
             >
