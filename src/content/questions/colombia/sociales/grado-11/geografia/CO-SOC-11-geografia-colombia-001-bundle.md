@@ -188,3 +188,4 @@ El **Eje Cafetero** (Caldas, Quindío, Risaralda) se destaca cultural y económi
 
 ### Explicación
 **Paisaje Cultural Cafetero:** Es patrimonio de la humanidad y zona clave de la agricultura de montaña tradicional colombiana.
+

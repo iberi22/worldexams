@@ -214,3 +214,4 @@ Las especies invasoras suelen tener éxito porque en el nuevo entorno carecen de
 | 5 | v5 | Medium | Uso comprensivo | Entorno Vivo | ⬜ |
 | 6 | v6 | High | Indagación | Entorno Vivo | ⬜ |
 | 7 | v7 | High | Indagación | Entorno Vivo | ⬜ |
+

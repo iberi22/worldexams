@@ -244,3 +244,4 @@ El texto tiene una intención clara de convencer. Plantea una postura ("La pena 
 | 7 | CO-LEC-11-textos-continuos-001-v7 | High | 1.0 (Auto) |
 
 
+

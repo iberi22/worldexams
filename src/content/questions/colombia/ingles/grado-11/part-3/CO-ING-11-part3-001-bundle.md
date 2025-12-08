@@ -195,3 +195,4 @@ Person B: **"__________"**
 
 ### Explicación
 **Opción A:** Es una respuesta coherente en el contexto de una tienda ("Estoy buscando una camisa...").
+

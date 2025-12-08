@@ -220,3 +220,4 @@ Electrones = Protones - Carga = $11 - (+1) = 10$.
 | 7 | CO-QUI-11-atomica-001-v7 | High | 1.0 (Auto) |
 
 
+

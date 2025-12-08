@@ -217,3 +217,4 @@ El cruce de prueba se hace siempre con el homocigoto recesivo (tt). Si la planta
 | 7 | CO-BIO-11-genetica-001-v7 | High | 1.0 (Auto) |
 
 
+

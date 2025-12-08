@@ -283,3 +283,4 @@ $\frac{4}{4}$ (el total) = $15.000 × 4 = $60.000 pesos
 | 5 | CO-MAT-05-fracciones-001-v5 | Medium | Razonamiento | ⬜ |
 | 6 | CO-MAT-05-fracciones-001-v6 | High | Resolución | ⬜ |
 | 7 | CO-MAT-05-fracciones-001-v7 | High | Razonamiento | ⬜ |
+

@@ -202,3 +202,4 @@ El texto define la historia como una "interpretación narrativa de hechos selecc
 | 5 | CO-LEC-11-textos-continuos-004-v5 | Medium | ✅ |
 | 6 | CO-LEC-11-textos-continuos-004-v6 | High | ✅ |
 | 7 | CO-LEC-11-textos-continuos-004-v7 | High | ✅ |
+

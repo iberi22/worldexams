@@ -188,3 +188,4 @@ Si unimos dos triángulos iguales por uno de sus lados, podemos formar un:
 
 ### Explicación
 **Curva:** El círculo está formado por una línea curva cerrada, no tiene segmentos rectos.
+

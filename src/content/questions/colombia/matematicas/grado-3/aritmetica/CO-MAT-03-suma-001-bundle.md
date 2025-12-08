@@ -277,3 +277,4 @@ Para la Feria de las Flores de Medellín, una floristería tiene 450 rosas rojas
 | 5 | CO-MAT-03-suma-001-v5 | Medium | Comunicación    |    ⬜    |
 | 6 | CO-MAT-03-suma-001-v6 | High | Resolución      |    ⬜    |
 | 7 | CO-MAT-03-suma-001-v7 | High | Razonamiento    |    ⬜    |
+

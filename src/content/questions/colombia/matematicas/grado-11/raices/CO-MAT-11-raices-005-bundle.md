@@ -207,3 +207,4 @@ Si $\sqrt{2x} = 6$, ¿cuánto vale x?
 
 
 
+

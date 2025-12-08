@@ -213,3 +213,4 @@ El opuesto de alegría es tristeza.
 | 5 | v5 | 4 | Gramática | Sintáctico | ⬜ |
 | 6 | v6 | High | Gramática | Sintáctico | ⬜ |
 | 7 | v7 | 1 | Semántica | Semántico | ⬜ |
+

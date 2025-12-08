@@ -209,3 +209,4 @@ La posición de un objeto es $s(t) = t^2 - 4t$. ¿En qué instante de tiempo ($t
 
 
 
+

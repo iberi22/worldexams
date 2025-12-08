@@ -221,3 +221,4 @@ En los compuestos iónicos, cada ion está rodeado por varios de carga opuesta e
 | 7 | CO-QUI-11-enlaces-001-v7 | High | 1.0 (Auto) |
 
 
+

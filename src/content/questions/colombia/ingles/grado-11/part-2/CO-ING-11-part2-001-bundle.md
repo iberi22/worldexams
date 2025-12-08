@@ -188,3 +188,4 @@ applicable_exams: ["CO-Saber11", "MX-EXANI", "SAT-Reading"]
 
 ### Explicación
 **Banana:** Fruta amarilla alargada asociada típicamente con los monos.
+

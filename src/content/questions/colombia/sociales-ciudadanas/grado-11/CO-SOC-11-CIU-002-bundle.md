@@ -1,7 +1,7 @@
 ---
 # === METADATA GLOBAL ===
 id: "CO-SOC-11-CIU-002"
-country: ""
+country: "co"
 grado: 11
 asignatura: "Sociales y Ciudadanas"
 tema: "Ciudadanía"
@@ -184,4 +184,5 @@ TODO: Explicación pendiente
 | 5 | CO-SOC-11-CIU-002-v5 | Medium | ⬜ |
 | 6 | CO-SOC-11-CIU-002-v6 | High | ⬜ |
 | 7 | CO-SOC-11-CIU-002-v7 | High | ⬜ |
+
 

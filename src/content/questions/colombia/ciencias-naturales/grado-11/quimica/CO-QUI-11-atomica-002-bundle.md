@@ -219,3 +219,4 @@ La estabilidad química está asociada a completar el octeto (8 electrones de va
 | 7 | CO-QUI-11-atomica-002-v7 | High | 1.0 (Auto) |
 
 
+

@@ -217,3 +217,4 @@ Implica relacionar estructura y función a nivel tisular. Los músculos requiere
 | 7 | CO-BIO-11-celular-001-v7 | High | 1.0 (Auto) |
 
 
+

@@ -216,3 +216,4 @@ $3^2 = 9$. El área es 9 veces mayor.
 | 5 | v5 | Medium | Argumentación | Espacial-métrico | ⬜ |
 | 6 | v6 | High | Resolución | Espacial-métrico | ⬜ |
 | 7 | v7 | High | Argumentación | Espacial-métrico | ⬜ |
+

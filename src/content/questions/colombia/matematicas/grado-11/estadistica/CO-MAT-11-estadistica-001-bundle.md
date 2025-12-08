@@ -242,3 +242,4 @@ Por lo tanto, el 95% está entre 2 desviaciones estándar de la media.
 
 **Competencia evaluada:** Razonamiento - propiedades de la distribución normal
 
+

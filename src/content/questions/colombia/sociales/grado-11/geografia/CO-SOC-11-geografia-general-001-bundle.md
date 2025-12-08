@@ -188,3 +188,4 @@ Una **cuenca hidrográfica** se define como:
 
 ### Explicación
 **Cuenca:** Unidad territorial natural delimitada por la divisoria de aguas, donde todo el flujo hídrico confluye a una salida común.
+

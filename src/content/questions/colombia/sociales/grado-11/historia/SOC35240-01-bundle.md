@@ -1,7 +1,7 @@
 ---
 # === METADATA GLOBAL ===
 id: "SOC35240-01"
-country: ""
+country: "co"
 grado: 11
 asignatura: "Sociales"
 tema: "Historia"
@@ -188,4 +188,5 @@ TODO: Explicación pendiente
 | 5 | SOC35240-01-v5 | Medium | ⬜ |
 | 6 | SOC35240-01-v6 | High | ⬜ |
 | 7 | SOC35240-01-v7 | High | ⬜ |
+
 

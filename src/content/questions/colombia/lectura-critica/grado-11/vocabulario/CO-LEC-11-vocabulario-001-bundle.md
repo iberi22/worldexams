@@ -217,3 +217,4 @@ El texto opone constantemente dos reacciones: la "euforia" y celebración del eq
 | 7 | CO-LEC-11-vocabulario-001-v7 | High | 1.0 (Auto) |
 
 
+

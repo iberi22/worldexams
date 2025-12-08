@@ -262,3 +262,4 @@ TODO: Explicación pendiente
 | 6 | CO-SOC-11-globalizacion-001-v6 | High | ⬜ |
 | 7 | CO-SOC-11-globalizacion-001-v7 | High | ⬜ |
 
+

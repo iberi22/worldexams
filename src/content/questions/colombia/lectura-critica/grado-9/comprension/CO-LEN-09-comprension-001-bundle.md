@@ -296,3 +296,4 @@ Si las industrias contaminantes **emplean a las comunidades ribereñas**, entonc
 **Source ID:** `ICFES-LEN-009-001`
 **Fecha de creación:** 2025-12-05
 **Contexto cultural:** Gabriel García Márquez (Nobel colombiano), zona bananera (Costa Caribe), río Bogotá (problemática ambiental actual), muiscas (pueblos originarios de la sabana)
+

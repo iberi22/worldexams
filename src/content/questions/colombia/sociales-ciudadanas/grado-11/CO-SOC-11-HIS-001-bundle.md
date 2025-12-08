@@ -1,7 +1,7 @@
 ---
 # === METADATA GLOBAL ===
 id: "CO-SOC-11-HIS-001"
-country: ""
+country: "co"
 grado: 11
 asignatura: "Sociales y Ciudadanas"
 tema: "Historia"
@@ -184,4 +184,5 @@ TODO: Explicación pendiente
 | 5 | CO-SOC-11-HIS-001-v5 | Medium | ⬜ |
 | 6 | CO-SOC-11-HIS-001-v6 | High | ⬜ |
 | 7 | CO-SOC-11-HIS-001-v7 | High | ⬜ |
+
 

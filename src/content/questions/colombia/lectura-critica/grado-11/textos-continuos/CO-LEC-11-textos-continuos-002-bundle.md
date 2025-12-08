@@ -202,3 +202,4 @@ Al conectar la disminución de "interacciones cara a cara" con el "debilitamient
 | 5 | CO-LEC-11-textos-continuos-002-v5 | Medium | ✅ |
 | 6 | CO-LEC-11-textos-continuos-002-v6 | High | ✅ |
 | 7 | CO-LEC-11-textos-continuos-002-v7 | High | ✅ |
+

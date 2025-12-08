@@ -209,3 +209,4 @@ La derivada mide la tasa de cambio instantánea. En una línea recta, la tasa de
 
 
 
+

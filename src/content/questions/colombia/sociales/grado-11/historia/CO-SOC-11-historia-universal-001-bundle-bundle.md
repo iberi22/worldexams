@@ -267,3 +267,4 @@ TODO: Explicación pendiente
 | 6 | CO-SOC-11-historia-universal-001-bundle-v6 | High | ⬜ |
 | 7 | CO-SOC-11-historia-universal-001-bundle-v7 | High | ⬜ |
 
+

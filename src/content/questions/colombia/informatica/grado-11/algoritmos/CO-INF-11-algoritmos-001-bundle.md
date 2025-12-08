@@ -205,3 +205,4 @@ En un diagrama de flujo, ¿qué forma geométrica representa generalmente una **
 
 ### Explicación
 **Rombo:** Es el estándar para bifurcaciones condicionales. Rectángulo es proceso, Círculo/Ovalo es inicio/fin.
+

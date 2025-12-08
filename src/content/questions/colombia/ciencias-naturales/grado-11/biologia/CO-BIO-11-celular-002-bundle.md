@@ -217,3 +217,4 @@ Por descarte y características: Tiene mitocondrias/núcleo (es eucariota, desca
 | 7 | CO-BIO-11-celular-002-v7 | High | 1.0 (Auto) |
 
 
+

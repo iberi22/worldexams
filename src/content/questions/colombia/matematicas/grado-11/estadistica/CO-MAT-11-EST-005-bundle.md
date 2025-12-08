@@ -207,3 +207,4 @@ Es la fórmula de probabilidad condicional: la probabilidad de que ocurra A dado
 
 
 
+

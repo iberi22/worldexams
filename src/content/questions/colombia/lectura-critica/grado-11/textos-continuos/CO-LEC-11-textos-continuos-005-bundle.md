@@ -202,3 +202,4 @@ El uso del "se impersonal" o pasiva refleja centra la atención en la acción y 
 | 5 | CO-LEC-11-textos-continuos-005-v5 | Medium | ✅ |
 | 6 | CO-LEC-11-textos-continuos-005-v6 | High | ✅ |
 | 7 | CO-LEC-11-textos-continuos-005-v7 | High | ✅ |
+

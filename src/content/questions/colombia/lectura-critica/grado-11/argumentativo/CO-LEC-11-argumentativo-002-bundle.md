@@ -197,3 +197,4 @@ TODO: Explicación pendiente
 | 6 | CO-LEC-11-argumentacion-001-v6 | High | ⬜ |
 | 7 | CO-LEC-11-argumentacion-001-v7 | High | ⬜ |
 
+

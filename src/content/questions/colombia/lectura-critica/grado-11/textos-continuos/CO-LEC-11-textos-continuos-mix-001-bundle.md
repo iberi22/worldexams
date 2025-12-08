@@ -222,3 +222,4 @@ Es un texto de opinión/reflexión crítica sobre un comportamiento social (el u
 | 5 | v5 | Medium | Lectura Crítica | Inferencial | ⬜ |
 | 6 | v6 | High | Lectura Crítica | Crítico | ⬜ |
 | 7 | v7 | High | Lectura Crítica | Crítico | ⬜ |
+

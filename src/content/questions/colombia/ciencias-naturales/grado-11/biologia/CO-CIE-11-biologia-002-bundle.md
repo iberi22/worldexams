@@ -229,3 +229,4 @@ Este es el ejemplo clásico de evolución en tiempo real.
 
 **Competencia evaluada:** Indagación y Explicación - resistencia bacteriana y evolución
 
+

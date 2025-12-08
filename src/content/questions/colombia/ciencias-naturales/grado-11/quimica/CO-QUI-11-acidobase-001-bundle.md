@@ -223,3 +223,4 @@ Por ejemplo: $HCl + NaOH \rightarrow NaCl + H_2O$.
 | 7 | CO-QUI-11-acidobase-001-v7 | High | 1.0 (Auto) |
 
 
+

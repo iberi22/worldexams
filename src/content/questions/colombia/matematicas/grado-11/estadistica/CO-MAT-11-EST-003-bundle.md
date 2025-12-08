@@ -210,3 +210,4 @@ O contando directente: {1, 2, 3, 4, 6} son 5 casos favorables.
 
 
 
+

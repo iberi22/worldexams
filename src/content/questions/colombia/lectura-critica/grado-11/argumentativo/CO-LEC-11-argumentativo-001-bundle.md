@@ -283,3 +283,4 @@ Este razonamiento es falaz porque:
 | 5 | CO-LEC-11-argumentativo-001-v5 | Medium | Inferencial | ⬜ |
 | 6 | CO-LEC-11-argumentativo-001-v6 | High | Crítico | ⬜ |
 | 7 | CO-LEC-11-argumentativo-001-v7 | High | Crítico | ⬜ |
+

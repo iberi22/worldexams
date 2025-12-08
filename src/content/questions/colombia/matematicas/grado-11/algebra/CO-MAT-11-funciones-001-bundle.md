@@ -310,3 +310,4 @@ $G(60) = 1000$ millones de pesos
 | 5 | CO-MAT-11-funciones-001-v5 | Medium | Resolución | Numérico-var. | ⬜ |
 | 6 | CO-MAT-11-funciones-001-v6 | High | Validación | Numérico-var. | ⬜ |
 | 7 | CO-MAT-11-funciones-001-v7 | High | Formulación + Validación | Numérico-var. | ⬜ |
+

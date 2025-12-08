@@ -345,3 +345,4 @@ $$x = 125 \text{ arrobas}$$
 **Source ID:** `ICFES-MAT-009-001`
 **Fecha de creación:** 2025-12-05
 **Contexto cultural:** Ráquira (artesanías), Cartagena (restaurante), Bogotá-Medellín (transporte), Cali (servicios públicos), Villavicencio (mercado), Eje Cafetero (cooperativa)
+

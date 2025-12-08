@@ -223,3 +223,4 @@ Más a la derecha: 0.5 (1/2) (mayor).
 | 5 | v5 | Medium | Resolución | Variacional | ⬜ |
 | 6 | v6 | High | Razonamiento | Numérico | ⬜ |
 | 7 | v7 | High | Razonamiento | Numérico | ⬜ |
+

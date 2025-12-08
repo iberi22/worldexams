@@ -1,7 +1,7 @@
 ---
 # === METADATA GLOBAL ===
 id: "SOC45952-01"
-country: ""
+country: "co"
 grado: 11
 asignatura: "Sociales"
 tema: "Historia"
@@ -188,4 +188,5 @@ TODO: Explicación pendiente
 | 5 | SOC45952-01-v5 | Medium | ⬜ |
 | 6 | SOC45952-01-v6 | High | ⬜ |
 | 7 | SOC45952-01-v7 | High | ⬜ |
+
 

@@ -188,3 +188,4 @@ Un pentágono **regular** tiene 5 lados iguales. Si un lado mide 2 cm, ¿cuál e
 
 ### Explicación
 **Multiplicación:** 5 lados $\times$ 2 cm cada uno = 10 cm.
+

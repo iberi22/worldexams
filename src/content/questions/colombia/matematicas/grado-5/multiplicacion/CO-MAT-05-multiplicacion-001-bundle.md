@@ -188,3 +188,4 @@ El **triple** de 15 es:
 
 ### Explicación
 **Concepto Triple:** Significa multiplicar por 3. $15 \times 3 = 45$.
+

@@ -214,3 +214,4 @@ La proposición "que me prestaste" funciona como un adjetivo modificando al sust
 | 5 | v5 | Medium | Escritora | Sintáctico | ⬜ |
 | 6 | v6 | High | Escritora | Gramatical | ⬜ |
 | 7 | v7 | High | Escritora | Gramatical | ⬜ |
+

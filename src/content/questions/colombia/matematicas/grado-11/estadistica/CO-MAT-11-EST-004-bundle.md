@@ -207,3 +207,4 @@ La marca de clase (promedio de los límites superior e inferior) se asume como e
 
 
 
+

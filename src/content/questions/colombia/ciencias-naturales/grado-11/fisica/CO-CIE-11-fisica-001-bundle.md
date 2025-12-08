@@ -240,3 +240,4 @@ Lo que es diferente es el **efecto** (aceleración/daño): como el auto tiene me
 | 5 | CO-CIE-11-fisica-001-v5 | Medium | Uso comprensivo | Cinemática | ⬜ |
 | 6 | CO-CIE-11-fisica-001-v6 | High | Resolución | Energía | ⬜ |
 | 7 | CO-CIE-11-fisica-001-v7 | High | Explicación | Dinámica | ⬜ |
+

@@ -260,3 +260,4 @@ Se desea cercar un terreno rectangular adyacente a un río usando 100 metros de 
 
 **Competencia evaluada:** Resolución - optimización cuadrática
 
+

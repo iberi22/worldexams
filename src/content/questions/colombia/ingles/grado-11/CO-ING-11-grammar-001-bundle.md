@@ -237,3 +237,4 @@ Verbos de estado mental (understand, know, believe, like) son **Stative Verbs** 
 | 7 | CO-ING-11-grammar-001-v7 | High | 1.0 (Auto) |
 
 
+

@@ -1,7 +1,7 @@
 ---
 # === METADATA GLOBAL ===
 id: "SOC08516-01"
-country: ""
+country: "co"
 grado: 11
 asignatura: "Sociales"
 tema: "Constitución"
@@ -189,4 +189,5 @@ TODO: Explicación pendiente
 | 5 | SOC08516-01-v5 | Medium | ⬜ |
 | 6 | SOC08516-01-v6 | High | ⬜ |
 | 7 | SOC08516-01-v7 | High | ⬜ |
+
 

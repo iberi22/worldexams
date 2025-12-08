@@ -202,3 +202,4 @@ Lectura crítica de supuestos. Para que el argumento tenga sentido ("las escuela
 | 5 | CO-LEC-11-textos-continuos-003-v5 | Medium | ✅ |
 | 6 | CO-LEC-11-textos-continuos-003-v6 | High | ✅ |
 | 7 | CO-LEC-11-textos-continuos-003-v7 | High | ✅ |
+

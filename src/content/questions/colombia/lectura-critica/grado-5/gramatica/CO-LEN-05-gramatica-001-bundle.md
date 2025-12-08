@@ -188,3 +188,4 @@ Selecciona la palabra correctamente escrita:
 
 ### Explicación
 **Tiempos Verbales:** Comí indica una acción ya terminada (pretérito).
+

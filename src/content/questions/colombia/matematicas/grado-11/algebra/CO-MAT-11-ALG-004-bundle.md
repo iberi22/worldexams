@@ -236,3 +236,4 @@ Para sumar fracciones con distinto denominador, hallamos el denominador común $
 
 
 
+

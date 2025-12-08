@@ -200,3 +200,4 @@ Un aviso en un parque dice: *"Prohibido jugar en el césped. Multa $50.000."*
 
 ### Explicación
 **Función apelativa:** Busca modificar la conducta (prohibir) bajo amenaza de sanción (regular).
+

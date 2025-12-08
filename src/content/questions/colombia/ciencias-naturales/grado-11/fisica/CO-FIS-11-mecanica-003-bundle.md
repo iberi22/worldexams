@@ -221,3 +221,4 @@ En caída libre, la velocidad aumenta linealmente con el tiempo ($v = g \cdot t$
 | 7 | CO-FIS-11-mecanica-003-v7 | High | 1.0 (Auto) |
 
 
+

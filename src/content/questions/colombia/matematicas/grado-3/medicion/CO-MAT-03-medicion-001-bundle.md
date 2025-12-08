@@ -188,3 +188,4 @@ Juanita salió a jugar a las 4:00 PM y jugó durante **2 horas**. ¿A qué hora 
 
 ### Explicación
 **Estimación:** Una escoba mide más de 1 metro, mientras los útiles escolares miden centímetros.
+

@@ -195,3 +195,4 @@ Where can you see this notice?
 
 ### Explicación
 **Cinema (Cine):** Se pide apagar celulares para no molestar durante la película.
+

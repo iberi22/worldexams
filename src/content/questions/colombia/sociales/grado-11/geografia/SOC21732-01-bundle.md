@@ -1,7 +1,7 @@
 ---
 # === METADATA GLOBAL ===
 id: "SOC21732-01"
-country: ""
+country: "co"
 grado: 11
 asignatura: "Sociales"
 tema: "Geografía"
@@ -189,4 +189,5 @@ TODO: Explicación pendiente
 | 5 | SOC21732-01-v5 | Medium | ⬜ |
 | 6 | SOC21732-01-v6 | High | ⬜ |
 | 7 | SOC21732-01-v7 | High | ⬜ |
+
 

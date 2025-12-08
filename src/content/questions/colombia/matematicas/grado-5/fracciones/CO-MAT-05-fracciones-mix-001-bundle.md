@@ -212,3 +212,4 @@ Cuando numerador y denominador son iguales, la fracción vale 1.
 | 5 | v5 | 4 | Razonamiento | Numérico | ⬜ |
 | 6 | v6 | High | Resolución | Numérico | ⬜ |
 | 7 | v7 | 1 | Concepto | Numérico | ⬜ |
+

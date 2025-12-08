@@ -215,3 +215,4 @@ Estructura narrativa. El clímax es el punto cúspide del conflicto, justo antes
 | 5 | v5 | Medium | Gramática | Sintáctico | ⬜ |
 | 6 | v6 | High | Cohesión | Sintáctico | ⬜ |
 | 7 | v7 | High | Literaria | Pragmático | ⬜ |
+

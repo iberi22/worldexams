@@ -217,3 +217,4 @@ Como el código es el mismo, una bacteria puede "leer" un gen humano y fabricar 
 | 7 | CO-BIO-11-genetica-002-v7 | High | 1.0 (Auto) |
 
 
+

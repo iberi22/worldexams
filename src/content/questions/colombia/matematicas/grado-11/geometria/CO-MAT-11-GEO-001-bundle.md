@@ -320,3 +320,4 @@ $$V_{concreto} = V_{ext} - V_{int} = 30 - 23.4 = 6.6 \text{ m}^3$$
 **Source ID:** `ICFES-MAT-011-GEO-001`
 **Fecha de creación:** 2025-12-06
 **Contexto cultural:** Bogotá (mensajería), Ráquira (cerámica), Medellín (empaques), Valle del Cauca (agricultura), Cartagena (construcción)
+

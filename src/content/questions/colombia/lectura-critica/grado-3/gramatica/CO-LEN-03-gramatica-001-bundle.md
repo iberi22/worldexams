@@ -189,3 +189,4 @@ Busca el sinónimo de **'Rápido'**:
 
 ### Explicación
 **Sinónimo:** Veloz significa moverse con rapidez. Lento es el antónimo.
+

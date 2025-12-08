@@ -188,3 +188,4 @@ En una urna hay 5 bolas: 1 verde, 1 amarilla y 3 rojas. ¿Qué color es **más p
 
 ### Explicación
 **Media:** Suma de datos / Cantidad. $(3 + 4 + 5) / 3 = 12 / 3 = 4$.
+

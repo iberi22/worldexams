@@ -220,3 +220,4 @@ Aplica la Primera Ley de Newton (Inercia). Si la fuerza neta es cero, un objeto 
 | 7 | CO-FIS-11-mecanica-001-v7 | High | 1.0 (Auto) |
 
 
+

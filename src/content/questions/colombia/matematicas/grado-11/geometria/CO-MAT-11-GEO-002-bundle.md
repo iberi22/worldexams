@@ -214,3 +214,4 @@ Si el área de un círculo es $100\pi \text{ cm}^2$, ¿cuál es su perímetro (c
 
 
 
+

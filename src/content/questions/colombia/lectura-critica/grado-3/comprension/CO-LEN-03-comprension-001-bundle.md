@@ -250,3 +250,4 @@ Este tipo de pregunta requiere:
 | 5 | CO-LEN-03-comprension-001-v5 | Medium | Literal | ⬜ |
 | 6 | CO-LEN-03-comprension-001-v6 | High | Inferencia | ⬜ |
 | 7 | CO-LEN-03-comprension-001-v7 | High | Inferencia | ⬜ |
+

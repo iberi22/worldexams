@@ -188,3 +188,4 @@ La política de **"Apertura Económica"** implementada a principios de los años
 
 ### Explicación
 **Globalización:** Buscaba modernizar la economía permitiendo la libre importación y competencia internacional, abandonando el modelo de sustitución de importaciones.
+

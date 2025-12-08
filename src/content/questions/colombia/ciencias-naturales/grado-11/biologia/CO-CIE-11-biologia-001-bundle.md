@@ -338,3 +338,4 @@ X^d    │ X^d X^d│ X^d Y  │
 | 5 | CO-CIE-11-biologia-001-v5 | Medium | Indagación | Análisis datos | ⬜ |
 | 6 | CO-CIE-11-biologia-001-v6 | High | Explicación | Codominancia | ⬜ |
 | 7 | CO-CIE-11-biologia-001-v7 | High | Explicación | Herencia X | ⬜ |
+

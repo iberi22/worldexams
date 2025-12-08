@@ -188,3 +188,4 @@ La Constitución reconoce a Colombia como un país **pluriétnico y multicultura
 
 ### Explicación
 **Diversidad:** Se rompe con la idea de una nación homogénea y se otorgan derechos especiales (jurisdicción indígena, consulta previa) a los grupos étnicos.
+

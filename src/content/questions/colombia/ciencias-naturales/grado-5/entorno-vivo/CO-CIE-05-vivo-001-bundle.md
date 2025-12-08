@@ -216,3 +216,4 @@ Distinción clave: Las células vegetales tienen **pared celular** (rigidez) y *
 | 5 | v5 | Medium | Explicación | Entorno Vivo | ⬜ |
 | 6 | v6 | High | Indagación | Entorno Vivo | ⬜ |
 | 7 | v7 | High | Uso comprensivo | Entorno Vivo | ⬜ |
+

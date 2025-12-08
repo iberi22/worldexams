@@ -219,3 +219,4 @@ El Efecto Doppler es el cambio aparente en la frecuencia de una onda percibida p
 | 7 | CO-FIS-11-ondas-001-v7 | High | 1.0 (Auto) |
 
 
+

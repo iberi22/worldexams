@@ -188,3 +188,4 @@ La **caída del Muro de Berlín** en 1989 simbolizó:
 
 ### Explicación
 **ONU:** Sucesora de la fallida Sociedad de Naciones, fundada tras la WWII para prevenir nuevos conflictos globales y promover la cooperación.
+

@@ -24,3 +24,4 @@ Choose the correct sentence:
 
 # Explicación
 En el Presente Simple, para la tercera persona del singular (She, He, It) en oraciones negativas, se usa el auxiliar "does not" (o la contracción "doesn't") seguido del verbo en su forma base (sin 's'). Por lo tanto, "She doesn't like pizza" es la forma gramaticalmente correcta.
+

@@ -236,3 +236,4 @@ Subject is "your parents" (They - Plural).
 | 5 | v5 | Medium | Lingüística | Gramática | ⬜ |
 | 6 | v6 | High | Lingüística | Gramática | ⬜ |
 | 7 | v7 | High | Lingüística | Gramática | ⬜ |
+

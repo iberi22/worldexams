@@ -240,3 +240,4 @@ El fusible debe soportar al menos 20 A. En la práctica se usaría uno ligeramen
 
 **Competencia evaluada:** Resolución - potencia eléctrica y seguridad
 
+

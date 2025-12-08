@@ -214,3 +214,4 @@ Comparación y orden:
 | 5 | v5 | 2 | Resolución | Numérico | ⬜ |
 | 6 | v6 | 3 | Resolución | Numérico | ⬜ |
 | 7 | v7 | 3 | Razonamiento | Numérico | ⬜ |
+

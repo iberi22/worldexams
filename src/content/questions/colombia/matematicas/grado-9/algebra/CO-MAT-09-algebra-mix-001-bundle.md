@@ -225,3 +225,4 @@ La jerarquía es clave:
 | 5 | v5 | 4 | Resolución | Variacional | ⬜ |
 | 6 | v6 | High | Argumentación | Variacional | ⬜ |
 | 7 | v7 | High | Interpretación | Variacional | ⬜ |
+

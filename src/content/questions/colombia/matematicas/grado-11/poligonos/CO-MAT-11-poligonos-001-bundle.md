@@ -200,3 +200,4 @@ Esta es la definición general de un paralelogramo que no es ni rombo (diagonale
 
 
 
+

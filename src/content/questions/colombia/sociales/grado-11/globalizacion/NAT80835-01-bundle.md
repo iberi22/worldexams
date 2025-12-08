@@ -1,7 +1,7 @@
 ---
 # === METADATA GLOBAL ===
 id: "NAT80835-01"
-country: ""
+country: "co"
 grado: 11
 asignatura: "Ciencias Sociales"
 tema: "Globalización"
@@ -184,4 +184,5 @@ TODO: Explicación pendiente
 | 5 | NAT80835-01-v5 | Medium | ⬜ |
 | 6 | NAT80835-01-v6 | High | ⬜ |
 | 7 | NAT80835-01-v7 | High | ⬜ |
+
 

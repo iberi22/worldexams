@@ -214,3 +214,4 @@ Encuentra el valor de $x$ donde la pendiente de la tangente a la curva $y = x^2 
 
 
 
+

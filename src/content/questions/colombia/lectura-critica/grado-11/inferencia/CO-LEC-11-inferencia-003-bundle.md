@@ -217,3 +217,4 @@ Es una figura literaria (metáfora/hipérbole descriptiva) utilizada para enfati
 | 7 | CO-LEC-11-inferencia-001-v7 | High | 1.0 (Auto) |
 
 
+

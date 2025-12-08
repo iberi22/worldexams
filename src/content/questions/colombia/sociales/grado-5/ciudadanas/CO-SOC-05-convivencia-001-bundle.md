@@ -209,3 +209,4 @@ La competencia ciudadana no es académica ni económica, es **social**: saber co
 | 5 | v5 | Medium | Pluralidad | Ciudadanía | ⬜ |
 | 6 | v6 | High | Pluralidad | Ciudadanía | ⬜ |
 | 7 | v7 | High | Concepto | Ciudadanía | ⬜ |
+

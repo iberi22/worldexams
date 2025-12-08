@@ -220,3 +220,4 @@ La fórmula es $E_c = \frac{1}{2}mv^2$. Si duplicamos $v$ ($2v$), al elevarlo al
 | 7 | CO-FIS-11-energia-001-v7 | High | 1.0 (Auto) |
 
 
+

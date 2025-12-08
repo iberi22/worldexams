@@ -302,3 +302,4 @@ The combination of **inform + argue** best describes the text's purpose.
 **Source ID:** `ICFES-ING-011-001`
 **Creation Date:** 2025-12-05
 **Cultural Context:** Colombian biodiversity, environmental issues, national parks, ecotourism, deforestation - topics relevant to Colombian students while practicing English
+

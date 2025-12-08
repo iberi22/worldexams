@@ -207,3 +207,4 @@ Como es regular, dividimos entre 6: $720 / 6 = 120°$.
 
 
 
+

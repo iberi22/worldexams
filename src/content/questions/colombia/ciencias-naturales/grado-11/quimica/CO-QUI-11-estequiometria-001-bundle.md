@@ -223,3 +223,4 @@ Si mi meta es obtener 2 moles de producto, necesito exactamente 1 mol de $O_2$.
 | 7 | CO-QUI-11-estequiometria-001-v7 | High | 1.0 (Auto) |
 
 
+

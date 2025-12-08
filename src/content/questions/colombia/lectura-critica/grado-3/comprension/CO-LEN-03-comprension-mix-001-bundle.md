@@ -214,3 +214,4 @@ Ortografía básica. Vaca se escribe con V.
 | 5 | v5 | 4 | Inferencia | Semántico | ⬜ |
 | 6 | v6 | High | Organización | Sintáctico | ⬜ |
 | 7 | v7 | 1 | Ortografía | Ortográfico | ⬜ |
+

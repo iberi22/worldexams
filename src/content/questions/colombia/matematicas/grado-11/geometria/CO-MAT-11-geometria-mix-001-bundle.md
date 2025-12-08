@@ -218,3 +218,4 @@ Al estar el radio elevado al cuadrado, duplicarlo cuadruplica el volumen.
 | 5 | v5 | Medium | Interpretación | Espacial-métrico | ⬜ |
 | 6 | v6 | High | Razonamiento | Espacial-métrico | ⬜ |
 | 7 | v7 | High | Argumentación | Espacial-métrico | ⬜ |
+
