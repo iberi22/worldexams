@@ -257,7 +257,7 @@ Cuando el usuario solicite una tarea:
 
 ## 🔗 Referencias
 
-- [MASTER_PLAN.md](../MASTER_PLAN.md) - Plan general de la organización
+- [MASTER_PLAN.md](docs/specs/MASTER_PLAN.md) - Plan general de la organización
 - [Schema SQL](./supabase/schema-global.sql) - Base de datos unificada
 - [question-sync](https://github.com/worldexams/question-sync) - Repo de sincronización
 

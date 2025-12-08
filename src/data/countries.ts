@@ -43,7 +43,6 @@ export const countries: Country[] = [
     flagStripe: 'linear-gradient(to right, #3C3B6E 33%, #B22234 33%, #B22234 66%, #FFFFFF 66%)',
     status: 'live',
     region: 'top10',
-    questionCount: 10,
     folder: 'usa',
   },
   {
@@ -63,7 +62,6 @@ export const countries: Country[] = [
     flagStripe: 'linear-gradient(to right, #009739 33%, #FEDD00 33%, #FEDD00 66%, #002776 66%)',
     status: 'live',
     region: 'top10',
-    questionCount: 10,
     folder: 'brasil',
   },
   {
@@ -101,7 +99,6 @@ export const countries: Country[] = [
     flagStripe: 'linear-gradient(to right, #006847 33%, #FFFFFF 33%, #FFFFFF 66%, #CE1126 66%)',
     status: 'live',
     region: 'top10',
-    questionCount: 10,
     folder: 'mexico',
   },
   {
@@ -123,7 +120,6 @@ export const countries: Country[] = [
     flagStripe: 'linear-gradient(to right, #FCD116 50%, #003893 50%, #003893 75%, #CE1126 75%)',
     status: 'live',
     region: 'latam',
-    questionCount: 34,
     folder: 'colombia',
   },
   {
@@ -134,7 +130,6 @@ export const countries: Country[] = [
     flagStripe: 'linear-gradient(to right, #74ACDF 33%, #FFFFFF 33%, #FFFFFF 66%, #74ACDF 66%)',
     status: 'setup',
     region: 'latam',
-    questionCount: 3,
   },
   {
     code: 'CL',
@@ -144,7 +139,6 @@ export const countries: Country[] = [
     flagStripe: 'linear-gradient(to right, #0039A6 33%, #FFFFFF 33%, #FFFFFF 66%, #D52B1E 66%)',
     status: 'setup',
     region: 'latam',
-    questionCount: 3,
   },
   {
     code: 'PE',
@@ -154,7 +148,6 @@ export const countries: Country[] = [
     flagStripe: 'linear-gradient(to right, #D91023 33%, #FFFFFF 33%, #FFFFFF 66%, #D91023 66%)',
     status: 'setup',
     region: 'latam',
-    questionCount: 3,
   },
   {
     code: 'EC',

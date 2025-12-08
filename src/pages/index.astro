@@ -4,14 +4,40 @@ import Globe from '../components/Globe.svelte';
 import CountryCard from '../components/CountryCard.astro';
 import { countries, getCountriesByRegion } from '../data/countries';
 
+import { getCollection } from 'astro:content';
+
 const top10 = getCountriesByRegion('top10');
 const latam = getCountriesByRegion('latam');
 const europe = getCountriesByRegion('europe');
 const asia = getCountriesByRegion('asia');
 
+// Dynamic Question Counting
+const allQuestions = await getCollection('questions');
+
+// Count questions per country
+const countryCounts: Record<string, number> = {};
+allQuestions.forEach(q => {
+  if (q.data.country) {
+    const code = q.data.country.toUpperCase();
+    countryCounts[code] = (countryCounts[code] || 0) + 1;
+  } else if (q.id) {
+    // Fallback: try to extract from ID (e.g., CO-MAT-...)
+    const parts = q.id.split('-');
+    if (parts.length > 0 && parts[0].length === 2) {
+       const code = parts[0].toUpperCase();
+       countryCounts[code] = (countryCounts[code] || 0) + 1;
+    }
+  }
+});
+
+// Update countries with dynamic counts
+countries.forEach(c => {
+  c.questionCount = countryCounts[c.code] || 0;
+});
+
 // Stats
 const totalCountries = countries.length;
-const totalQuestions = countries.reduce((acc, c) => acc + (c.questionCount || 0), 0) + 27; // +27 shared
+const totalQuestions = allQuestions.length; // Real total
 const liveCountries = countries.filter(c => c.status === 'live').length;
 ---
 
