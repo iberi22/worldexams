@@ -13,13 +13,19 @@ dist/
 # Env
 .env
 .env.*
+!.env.example
+
+# Saberparatodos Secrets
+saberparatodos/.env
+saberparatodos/.env.*
+saberparatodos/supabase/functions/.env
+saberparatodos/template-openicfes/.env.local
 
 # OS
 .DS_Store
 Thumbs.db
 
 # Submodules (will manage separately)
-saberparatodos/
 worldexams.github.io/
 question-bank/
 question-sync/
