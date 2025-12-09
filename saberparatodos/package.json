@@ -1,0 +1,44 @@
+{
+  "name": "saberparatodos",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "postbuild": "pagefind --site dist",
+    "preview": "astro preview",
+    "astro": "astro",
+    "validate": "node scripts/validate_content.js",
+    "validate:full": "node scripts/validate_content.js && astro check && astro build",
+    "lint": "astro check",
+    "prepare": "husky"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.6.0",
+    "@astrojs/svelte": "^7.2.2",
+    "@astrojs/tailwind": "^5.0.0",
+    "@supabase/supabase-js": "^2.86.0",
+    "astro": "^5.16.0",
+    "katex": "^0.16.27",
+    "svelte": "^5.44.1",
+    "tailwindcss": "^3.0.0"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.5",
+    "@types/node": "^20.0.0",
+    "gray-matter": "^4.0.3",
+    "husky": "^9.1.7",
+    "lint-staged": "^15.2.10",
+    "pagefind": "^1.4.0",
+    "typescript": "^5.9.3"
+  },
+  "lint-staged": {
+    "src/content/questions/**/*.md": [
+      "node scripts/validate_content.js"
+    ],
+    "*.{js,ts,astro,svelte}": [
+      "astro check"
+    ]
+  }
+}

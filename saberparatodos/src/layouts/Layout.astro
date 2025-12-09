@@ -1,0 +1,196 @@
+---
+import '../styles/global.css';
+import Navbar from '../components/Navbar.astro';
+import Footer from '../components/Footer.astro';
+
+// Import critical CSS for inlining
+import criticalCSS from '../styles/critical.css?raw';
+
+interface Props {
+	title?: string;
+	description?: string;
+	image?: string;
+	type?: 'website' | 'article';
+  noindex?: boolean;
+  showNavbar?: boolean;
+  showFooter?: boolean;
+}
+
+const {
+  title = "OpenIcfes | Banco de Preguntas Saber 11",
+  description = "Practica con el mejor banco de preguntas open source para las pruebas ICFES Saber 11. Matemáticas, Ciencias, Inglés y más.",
+  image = "/og-image.png",
+  type = "website",
+  noindex = false,
+  showNavbar = true,
+  showFooter = true
+} = Astro.props;
+
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+---
+
+<!doctype html>
+<html lang="es" class="fonts-loading">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="icon" type="image/png" href="/favicon.png" />
+		<link rel="apple-touch-icon" href="/logo.png" />
+		<meta name="generator" content={Astro.generator} />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+
+    <!-- Critical CSS (inline para evitar render-blocking) -->
+    <style set:html={criticalCSS}></style>
+
+    <!-- SEO -->
+		<title>{title}</title>
+		<meta name="description" content={description} />
+    <link rel="canonical" href={canonicalURL} />
+    {noindex && <meta name="robots" content="noindex, nofollow" />}
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content={type} />
+    <meta property="og:url" content={Astro.url} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={new URL(image, Astro.url)} />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content={Astro.url} />
+    <meta property="twitter:title" content={title} />
+    <meta property="twitter:description" content={description} />
+    <meta property="twitter:image" content={new URL(image, Astro.url)} />
+
+    <!-- DNS Prefetch para recursos externos -->
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
+    <link rel="dns-prefetch" href="https://fonts.gstatic.com" />
+    <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
+
+    <!-- Preconnect para fuentes (crítico para LCP) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <!-- Preload fuente crítica Inter (reduce FOIT/FOUT) -->
+    <link
+      rel="preload"
+      href="https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hjp-Ek-_0ew.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+
+    <!-- Cargar fuentes con display=swap para evitar FOIT -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+      media="print"
+      onload="this.media='all'"
+    />
+    <noscript>
+      <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    </noscript>
+
+    <!-- Google AdSense (defer para no bloquear rendering) -->
+    <meta name="google-adsense-account" content="ca-pub-7015371704987876" />
+    <script is:inline>
+      // Detectar cuando las fuentes están listas (reduce CLS)
+      if ('fonts' in document) {
+        document.fonts.ready.then(function() {
+          document.documentElement.classList.remove('fonts-loading');
+          document.documentElement.classList.add('fonts-loaded');
+        });
+      } else {
+        // Fallback para navegadores sin Font Loading API
+        document.documentElement.classList.remove('fonts-loading');
+      }
+
+      // Cargar AdSense después de que la página sea interactiva
+      if ('requestIdleCallback' in window) {
+        requestIdleCallback(() => {
+          const script = document.createElement('script');
+          script.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876';
+          script.async = true;
+          script.crossOrigin = 'anonymous';
+          document.head.appendChild(script);
+        });
+      } else {
+        window.addEventListener('load', () => {
+          setTimeout(() => {
+            const script = document.createElement('script');
+            script.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876';
+            script.async = true;
+            script.crossOrigin = 'anonymous';
+            document.head.appendChild(script);
+          }, 2000);
+        });
+      }
+    </script>
+	</head>
+	<body class="min-h-screen flex flex-col">
+    <!-- Noise Filter SVG Definition -->
+    <svg style="position: absolute; width: 0; height: 0; overflow: hidden;" aria-hidden="true">
+      <filter id="noiseFilter">
+        <feTurbulence type="fractalNoise" baseFrequency="0.80" numOctaves="3" stitchTiles="stitch" />
+        <feColorMatrix type="saturate" values="0" />
+      </filter>
+    </svg>
+
+    {showNavbar && <Navbar />}
+
+    <main class="flex-1">
+		  <slot />
+    </main>
+
+    {showFooter && <Footer />}
+
+    <!-- Scroll Reveal Script -->
+    <script>
+      function initScrollReveal() {
+        const elements = document.querySelectorAll('[data-sr]');
+
+        if (!elements.length) return;
+
+        // Check reduced motion preference
+        const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+        if (prefersReducedMotion) {
+          elements.forEach(el => el.classList.add('sr-visible'));
+          return;
+        }
+
+        const observer = new IntersectionObserver(
+          (entries) => {
+            entries.forEach(entry => {
+              if (entry.isIntersecting) {
+                entry.target.classList.add('sr-visible');
+                observer.unobserve(entry.target);
+              }
+            });
+          },
+          { threshold: 0.1, rootMargin: '0px 0px -50px 0px' }
+        );
+
+        elements.forEach(el => {
+          const animation = el.getAttribute('data-sr') || 'fade-up';
+          const delay = el.getAttribute('data-sr-delay') || '0';
+
+          el.classList.add('sr-init', `sr-${animation}`);
+          (el as HTMLElement).style.transitionDelay = `${delay}ms`;
+
+          observer.observe(el);
+        });
+      }
+
+      // Initialize on DOM ready
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', initScrollReveal);
+      } else {
+        initScrollReveal();
+      }
+
+      // Re-initialize on Astro page transitions
+      document.addEventListener('astro:page-load', initScrollReveal);
+    </script>
+	</body>
+</html>

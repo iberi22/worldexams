@@ -1,0 +1,340 @@
+---
+/**
+ * Global Navbar Component
+ * Estilo ciber-minimalista con navegación responsive
+ */
+
+interface Props {
+  currentPath?: string;
+}
+
+const { currentPath = Astro.url.pathname } = Astro.props;
+
+const navLinks = [
+  { href: '/', label: 'Practicar', icon: 'practice' },
+  { href: '/guia-examen', label: 'Guía ICFES', icon: 'guide' },
+  { href: '/sobre-nosotros', label: 'Nosotros', icon: 'about' },
+  { href: '/contacto', label: 'Contacto', icon: 'contact' },
+];
+
+const isActive = (href: string) => {
+  if (href === '/') return currentPath === '/';
+  return currentPath.startsWith(href);
+};
+---
+
+<nav class="navbar">
+  <!-- Flag Stripe Colombia -->
+  <div class="flag-stripe" aria-hidden="true">
+    <div class="stripe stripe-yellow"></div>
+    <div class="stripe stripe-blue"></div>
+    <div class="stripe stripe-red"></div>
+  </div>
+
+  <div class="navbar-container">
+    <!-- Logo -->
+    <a href="/" class="logo" aria-label="OpenIcfes - Inicio">
+      <img src="/logo.png" alt="OpenIcfes Logo" width="32" height="32" class="w-8 h-8 rounded" />
+      <span class="logo-text">OpenIcfes</span>
+    </a>
+
+    <!-- Desktop Navigation -->
+    <div class="nav-links desktop-only">
+      {navLinks.map(link => (
+        <a
+          href={link.href}
+          class:list={['nav-link', { active: isActive(link.href) }]}
+        >
+          {link.label}
+        </a>
+      ))}
+    </div>
+
+    <!-- CTA Button -->
+    <div class="nav-cta desktop-only">
+      <a href="/" class="cta-button">
+        Comenzar →
+      </a>
+    </div>
+
+    <!-- Mobile Menu Button -->
+    <button
+      class="mobile-menu-btn mobile-only"
+      aria-label="Abrir menú"
+      aria-expanded="false"
+      aria-controls="mobile-menu"
+    >
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <line x1="3" y1="6" x2="21" y2="6" class="menu-line top"/>
+        <line x1="3" y1="12" x2="21" y2="12" class="menu-line middle"/>
+        <line x1="3" y1="18" x2="21" y2="18" class="menu-line bottom"/>
+      </svg>
+    </button>
+  </div>
+
+  <!-- Mobile Menu -->
+  <div id="mobile-menu" class="mobile-menu mobile-only" aria-hidden="true">
+    <div class="mobile-menu-content">
+      {navLinks.map(link => (
+        <a
+          href={link.href}
+          class:list={['mobile-nav-link', { active: isActive(link.href) }]}
+        >
+          {link.label}
+        </a>
+      ))}
+      <a href="/" class="mobile-cta-button">
+        Comenzar Práctica →
+      </a>
+    </div>
+  </div>
+</nav>
+
+<script>
+  // Mobile menu toggle
+  const menuBtn = document.querySelector('.mobile-menu-btn');
+  const mobileMenu = document.getElementById('mobile-menu');
+
+  if (menuBtn && mobileMenu) {
+    menuBtn.addEventListener('click', () => {
+      const isOpen = menuBtn.getAttribute('aria-expanded') === 'true';
+      menuBtn.setAttribute('aria-expanded', (!isOpen).toString());
+      mobileMenu.setAttribute('aria-hidden', isOpen.toString());
+      mobileMenu.classList.toggle('open', !isOpen);
+      document.body.classList.toggle('menu-open', !isOpen);
+    });
+
+    // Close menu when clicking a link
+    mobileMenu.querySelectorAll('a').forEach(link => {
+      link.addEventListener('click', () => {
+        menuBtn.setAttribute('aria-expanded', 'false');
+        mobileMenu.setAttribute('aria-hidden', 'true');
+        mobileMenu.classList.remove('open');
+        document.body.classList.remove('menu-open');
+      });
+    });
+  }
+</script>
+
+<style>
+  .navbar {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background-color: #121212;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  }
+
+  /* Flag Stripe */
+  .flag-stripe {
+    display: flex;
+    height: 4px;
+    width: 100%;
+  }
+
+  .stripe {
+    flex: 1;
+  }
+
+  .stripe-yellow {
+    background-color: #FCD116;
+    flex: 2;
+  }
+
+  .stripe-blue {
+    background-color: #003893;
+    flex: 1;
+  }
+
+  .stripe-red {
+    background-color: #CE1126;
+    flex: 1;
+  }
+
+  .navbar-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0.75rem 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  /* Logo */
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    text-decoration: none;
+    color: #F5F5DC;
+    transition: opacity 0.2s;
+  }
+
+  .logo:hover {
+    opacity: 0.8;
+  }
+
+  .logo-text {
+    font-family: 'Fira Code', monospace;
+    font-weight: 600;
+    font-size: 1.125rem;
+  }
+
+  /* Desktop Navigation */
+  .nav-links {
+    display: flex;
+    gap: 2rem;
+  }
+
+  .nav-link {
+    font-family: 'Inter', sans-serif;
+    font-size: 0.875rem;
+    color: rgba(245, 245, 220, 0.7);
+    text-decoration: none;
+    padding: 0.5rem 0;
+    position: relative;
+    transition: color 0.2s;
+  }
+
+  .nav-link:hover,
+  .nav-link.active {
+    color: #F5F5DC;
+  }
+
+  .nav-link.active::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background-color: #FCD116;
+  }
+
+  /* CTA Button */
+  .cta-button {
+    font-family: 'Fira Code', monospace;
+    font-size: 0.875rem;
+    font-weight: 500;
+    padding: 0.5rem 1rem;
+    background-color: #F5F5DC;
+    color: #121212;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.2s, transform 0.1s;
+  }
+
+  .cta-button:hover {
+    background-color: #fff;
+    transform: translateY(-1px);
+  }
+
+  /* Mobile Menu Button */
+  .mobile-menu-btn {
+    background: none;
+    border: none;
+    color: #F5F5DC;
+    cursor: pointer;
+    padding: 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .mobile-menu-btn .menu-line {
+    transition: transform 0.2s, opacity 0.2s;
+    transform-origin: center;
+  }
+
+  .mobile-menu-btn[aria-expanded="true"] .top {
+    transform: rotate(45deg) translate(5px, 5px);
+  }
+
+  .mobile-menu-btn[aria-expanded="true"] .middle {
+    opacity: 0;
+  }
+
+  .mobile-menu-btn[aria-expanded="true"] .bottom {
+    transform: rotate(-45deg) translate(5px, -5px);
+  }
+
+  /* Mobile Menu */
+  .mobile-menu {
+    position: fixed;
+    top: 60px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #121212;
+    transform: translateX(100%);
+    transition: transform 0.3s ease-in-out;
+    z-index: 99;
+  }
+
+  .mobile-menu.open {
+    transform: translateX(0);
+  }
+
+  .mobile-menu-content {
+    padding: 2rem 1.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .mobile-nav-link {
+    font-family: 'Inter', sans-serif;
+    font-size: 1.25rem;
+    color: rgba(245, 245, 220, 0.7);
+    text-decoration: none;
+    padding: 1rem 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    transition: color 0.2s;
+  }
+
+  .mobile-nav-link:hover,
+  .mobile-nav-link.active {
+    color: #F5F5DC;
+  }
+
+  .mobile-nav-link.active {
+    border-bottom-color: #FCD116;
+  }
+
+  .mobile-cta-button {
+    font-family: 'Fira Code', monospace;
+    font-size: 1rem;
+    font-weight: 500;
+    padding: 1rem;
+    background-color: #F5F5DC;
+    color: #121212;
+    text-decoration: none;
+    border-radius: 4px;
+    text-align: center;
+    margin-top: 1rem;
+  }
+
+  /* Responsive */
+  .desktop-only {
+    display: none;
+  }
+
+  .mobile-only {
+    display: flex;
+  }
+
+  @media (min-width: 768px) {
+    .desktop-only {
+      display: flex;
+    }
+
+    .mobile-only {
+      display: none;
+    }
+  }
+
+  /* Body scroll lock when menu is open */
+  :global(body.menu-open) {
+    overflow: hidden;
+  }
+</style>

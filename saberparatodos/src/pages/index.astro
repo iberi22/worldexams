@@ -1,0 +1,95 @@
+---
+import Layout from '../layouts/Layout.astro';
+import App from '../components/App.svelte';
+import { getCollection } from 'astro:content';
+import { parseQuestion, isBundle, getAllQuestionsFromBundle } from '../utils/questionParser';
+import {
+  buildUniversalQuestionPool,
+} from '../utils/universalQuestions';
+import type { Question } from '../types';
+
+// Configuration
+const API_BASE_URL = import.meta.env.PUBLIC_API_BASE_URL || 'https://worldexams.pages.dev/api/v1';
+
+// Get all question entries from local content
+const questionsEntries = await getCollection('questions');
+
+// Parse all questions (both bundle and legacy format)
+const allQuestions: Question[] = [];
+for (const entry of questionsEntries) {
+  if (isBundle(entry)) {
+    // Extract all questions from bundle
+    const bundleQuestions = getAllQuestionsFromBundle(entry);
+    allQuestions.push(...bundleQuestions);
+  } else {
+    // Legacy single question format
+    allQuestions.push(parseQuestion(entry));
+  }
+}
+
+// Build the universal question pool for Spanish exams
+const universalPool = buildUniversalQuestionPool(questionsEntries, {
+  languageFamily: 'es',
+});
+
+// Prepare universal pool for client-side (convert Map to Object)
+const universalPoolForClient = {
+  totalQuestions: universalPool.totalQuestions,
+  all: universalPool.all,
+  bySubject: Object.fromEntries(universalPool.bySubject),
+  byGrade: Object.fromEntries(universalPool.byGrade),
+  byDifficulty: Object.fromEntries(universalPool.byDifficulty),
+};
+
+// Debug stats (visible in page source during development)
+const stats = {
+  totalQuestions: allQuestions.length,
+  totalBundles: questionsEntries.filter(isBundle).length,
+  universalPoolSize: universalPool.totalQuestions,
+  apiBaseUrl: API_BASE_URL,
+};
+---
+
+<Layout
+  title="Banco de Preguntas ICFES Saber 11 | SaberParaTodos"
+  description="El mejor banco de preguntas open source para las pruebas Saber 11. Practica Matemáticas, Ciencias, Inglés y más con simulacros gratuitos."
+  showNavbar={false}
+  showFooter={false}
+>
+  <!-- Debug info (hidden, for development) -->
+  <script type="application/json" id="question-stats" set:html={JSON.stringify(stats)} />
+
+  <!-- API Config for client-side fetching when local content is depleted -->
+  <script type="application/json" id="api-config" set:html={JSON.stringify({ apiBaseUrl: API_BASE_URL })} />
+
+  <App
+    client:load
+    questions={allQuestions}
+    universalPool={universalPoolForClient}
+  />
+</Layout>
+
+<style is:global>
+  /* Ensure KaTeX renders properly in dark theme */
+  .katex-display {
+    margin: 1em 0;
+    padding: 0.75em;
+    background: rgba(16, 185, 129, 0.05);
+    border-radius: 0.5rem;
+    overflow-x: auto;
+  }
+
+  .katex {
+    font-size: 1.1em;
+  }
+
+  /* Markdown-style content in explanations */
+  .math-content strong {
+    color: #10b981;
+    font-weight: 600;
+  }
+
+  .math-content em {
+    font-style: italic;
+  }
+</style>

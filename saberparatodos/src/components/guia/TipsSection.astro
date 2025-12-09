@@ -1,0 +1,283 @@
+---
+/**
+ * Tips section with practical advice for ICFES exam success
+ * Uses B&W infographic style with custom SVG icons
+ */
+
+// Custom SVG icons in cyber-minimalist style
+const tipIcons = {
+  planifica: `<svg viewBox="0 0 32 32" fill="none" class="w-8 h-8">
+    <rect x="4" y="4" width="24" height="24" rx="2" stroke="currentColor" stroke-width="1.5" fill="none"/>
+    <line x1="4" y1="10" x2="28" y2="10" stroke="currentColor" stroke-width="1.5"/>
+    <circle cx="10" cy="7" r="1" fill="#FCD116"/>
+    <circle cx="16" cy="7" r="1" fill="#003893"/>
+    <circle cx="22" cy="7" r="1" fill="#CE1126"/>
+    <line x1="8" y1="15" x2="14" y2="15" stroke="currentColor" stroke-width="1" opacity="0.6"/>
+    <line x1="8" y1="19" x2="18" y2="19" stroke="currentColor" stroke-width="1" opacity="0.6"/>
+    <line x1="8" y1="23" x2="12" y2="23" stroke="currentColor" stroke-width="1" opacity="0.6"/>
+    <path d="M20 16l3 3 5-5" stroke="#FCD116" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>`,
+  simulacros: `<svg viewBox="0 0 32 32" fill="none" class="w-8 h-8">
+    <rect x="6" y="2" width="20" height="28" rx="2" stroke="currentColor" stroke-width="1.5" fill="none"/>
+    <circle cx="16" cy="8" r="3" stroke="#003893" stroke-width="1.5" fill="none"/>
+    <line x1="10" y1="14" x2="22" y2="14" stroke="currentColor" stroke-width="1" opacity="0.4"/>
+    <rect x="10" y="17" width="3" height="3" fill="currentColor" opacity="0.3"/>
+    <rect x="14" y="17" width="3" height="3" fill="#FCD116"/>
+    <rect x="18" y="17" width="3" height="3" fill="currentColor" opacity="0.3"/>
+    <rect x="10" y="22" width="3" height="3" fill="currentColor" opacity="0.3"/>
+    <rect x="14" y="22" width="3" height="3" fill="currentColor" opacity="0.3"/>
+    <rect x="18" y="22" width="3" height="3" fill="#CE1126"/>
+  </svg>`,
+  lectura: `<svg viewBox="0 0 32 32" fill="none" class="w-8 h-8">
+    <path d="M4 6c4-2 8-2 12 0c4-2 8-2 12 0v20c-4-2-8-2-12 0c-4-2-8-2-12 0V6z" stroke="currentColor" stroke-width="1.5" fill="none"/>
+    <line x1="16" y1="6" x2="16" y2="26" stroke="currentColor" stroke-width="1"/>
+    <line x1="8" y1="10" x2="13" y2="10" stroke="currentColor" stroke-width="1" opacity="0.5"/>
+    <line x1="8" y1="14" x2="12" y2="14" stroke="currentColor" stroke-width="1" opacity="0.5"/>
+    <line x1="19" y1="10" x2="24" y2="10" stroke="#FCD116" stroke-width="1.5"/>
+    <line x1="19" y1="14" x2="23" y2="14" stroke="#003893" stroke-width="1.5"/>
+    <line x1="19" y1="18" x2="22" y2="18" stroke="#CE1126" stroke-width="1.5"/>
+  </svg>`,
+  matematicas: `<svg viewBox="0 0 32 32" fill="none" class="w-8 h-8">
+    <rect x="4" y="4" width="24" height="24" rx="2" stroke="currentColor" stroke-width="1.5" fill="none"/>
+    <text x="8" y="14" fill="#FCD116" font-size="8" font-family="monospace" font-weight="bold">π</text>
+    <text x="18" y="14" fill="#003893" font-size="8" font-family="monospace" font-weight="bold">∑</text>
+    <line x1="8" y1="18" x2="24" y2="18" stroke="currentColor" stroke-width="0.5" opacity="0.3"/>
+    <text x="8" y="26" fill="#CE1126" font-size="8" font-family="monospace" font-weight="bold">√</text>
+    <text x="18" y="26" fill="currentColor" font-size="8" font-family="monospace">∞</text>
+  </svg>`,
+  bienestar: `<svg viewBox="0 0 32 32" fill="none" class="w-8 h-8">
+    <circle cx="16" cy="10" r="6" stroke="currentColor" stroke-width="1.5" fill="none"/>
+    <path d="M8 28c0-6 4-10 8-10s8 4 8 10" stroke="currentColor" stroke-width="1.5" fill="none"/>
+    <circle cx="13" cy="9" r="1" fill="#003893"/>
+    <circle cx="19" cy="9" r="1" fill="#003893"/>
+    <path d="M13 12c1 2 5 2 6 0" stroke="#FCD116" stroke-width="1" stroke-linecap="round"/>
+    <path d="M26 6l-2 4h4l-2 4" stroke="#CE1126" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>`,
+  examen: `<svg viewBox="0 0 32 32" fill="none" class="w-8 h-8">
+    <rect x="8" y="4" width="16" height="24" rx="1" stroke="currentColor" stroke-width="1.5" fill="none"/>
+    <line x1="8" y1="10" x2="24" y2="10" stroke="currentColor" stroke-width="1"/>
+    <circle cx="16" cy="7" r="2" fill="#FCD116"/>
+    <line x1="11" y1="15" x2="21" y2="15" stroke="currentColor" stroke-width="1" opacity="0.4"/>
+    <line x1="11" y1="19" x2="19" y2="19" stroke="currentColor" stroke-width="1" opacity="0.4"/>
+    <line x1="11" y1="23" x2="17" y2="23" stroke="currentColor" stroke-width="1" opacity="0.4"/>
+    <path d="M18 21l2 2 4-4" stroke="#FCD116" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>`
+};
+
+const tips = [
+  {
+    iconKey: "planifica",
+    title: "Planifica tu estudio",
+    description: "Crea un cronograma de estudio al menos 3 meses antes del examen. Dedica tiempo diario a cada área.",
+    details: [
+      "Estudia 2-3 horas diarias",
+      "Alterna entre materias",
+      "Descansa cada 45 minutos"
+    ]
+  },
+  {
+    iconKey: "simulacros",
+    title: "Practica con simulacros",
+    description: "Realiza exámenes de práctica bajo condiciones reales. Cronometra tu tiempo y evita distracciones.",
+    details: [
+      "Un simulacro semanal mínimo",
+      "Analiza tus errores",
+      "Mejora tu velocidad de lectura"
+    ]
+  },
+  {
+    iconKey: "lectura",
+    title: "Lectura crítica diaria",
+    description: "Lee artículos, ensayos y noticias todos los días. Practica identificar argumentos y falacias.",
+    details: [
+      "30 minutos de lectura diaria",
+      "Varía los tipos de texto",
+      "Resume lo que lees"
+    ]
+  },
+  {
+    iconKey: "matematicas",
+    title: "Matemáticas con práctica",
+    description: "Resuelve problemas variados, no solo ejercicios repetitivos. Enfócate en entender los conceptos.",
+    details: [
+      "Problemas de razonamiento",
+      "Estadística y probabilidad",
+      "Geometría y álgebra"
+    ]
+  },
+  {
+    iconKey: "bienestar",
+    title: "Cuida tu bienestar",
+    description: "Duerme bien, come sano y haz ejercicio. Un cuerpo sano mejora tu capacidad de concentración.",
+    details: [
+      "8 horas de sueño",
+      "Alimentación balanceada",
+      "Ejercicio regular"
+    ]
+  },
+  {
+    iconKey: "examen",
+    title: "El día del examen",
+    description: "Llega temprano, lleva todo lo necesario y mantén la calma. Lee bien cada pregunta antes de responder.",
+    details: [
+      "Documentos y útiles listos",
+      "Desayuno ligero pero nutritivo",
+      "Técnicas de respiración"
+    ]
+  }
+];
+
+const examDayChecklist = [
+  "Cédula o tarjeta de identidad vigente",
+  "Citación impresa o digital",
+  "Lápiz No. 2 y borrador",
+  "Reloj (sin internet)",
+  "Botella de agua",
+  "Snack saludable (fruta, barra de cereal)"
+];
+---
+
+<div class="tips-section">
+  <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
+    {tips.map((tip) => (
+      <div class="tip-card bg-[#1a1a1a] border border-white/10 rounded-lg p-5 hover:border-white/20 transition-all duration-300 group">
+        <div class="flex items-start gap-3 mb-3">
+          <div class="tip-icon text-[#F5F5DC] group-hover:scale-110 transition-transform duration-300 flex-shrink-0" set:html={tipIcons[tip.iconKey]} />
+          <h3 class="font-bold">{tip.title}</h3>
+        </div>
+        <p class="text-sm text-white/60 mb-4">{tip.description}</p>
+        <ul class="space-y-1.5">
+          {tip.details.map((detail) => (
+            <li class="flex items-center gap-2 text-xs text-white/50">
+              <span class="w-1.5 h-1.5 bg-[#FCD116] rounded-full"></span>
+              {detail}
+            </li>
+          ))}
+        </ul>
+      </div>
+    ))}
+  </div>
+
+  <!-- Exam Day Checklist -->
+  <div class="bg-[#1a1a1a] border-2 border-[#F5F5DC]/30 rounded-lg p-6 max-w-2xl mx-auto">
+    <h3 class="text-lg font-bold mb-4 flex items-center gap-2">
+      <span class="text-xl">✓</span>
+      Checklist para el día del examen
+    </h3>
+
+    <div class="grid md:grid-cols-2 gap-3">
+      {examDayChecklist.map((item) => (
+        <label class="flex items-center gap-3 text-sm text-white/70 cursor-pointer group">
+          <input
+            type="checkbox"
+            class="w-4 h-4 rounded border-white/30 bg-transparent checked:bg-[#F5F5DC] checked:border-[#F5F5DC]"
+          />
+          <span class="group-hover:text-white transition-colors">{item}</span>
+        </label>
+      ))}
+    </div>
+
+    <p class="text-xs text-white/40 mt-4 text-center">
+      * Verifica los requisitos específicos en tu citación oficial del ICFES
+    </p>
+  </div>
+
+  <!-- Time Management Infographic -->
+  <div class="mt-12 bg-[#1a1a1a] border border-white/10 rounded-lg p-6">
+    <h3 class="text-lg font-bold mb-6 text-center">Estrategia de Tiempo por Sesión</h3>
+
+    <svg viewBox="0 0 700 200" class="w-full max-w-3xl mx-auto" aria-labelledby="time-strategy-title">
+      <title id="time-strategy-title">Estrategia de administración del tiempo</title>
+
+      <!-- Clock icon -->
+      <circle cx="80" cy="100" r="40" fill="none" stroke="#F5F5DC" stroke-width="2"/>
+      <line x1="80" y1="100" x2="80" y2="70" stroke="#F5F5DC" stroke-width="2"/>
+      <line x1="80" y1="100" x2="100" y2="100" stroke="#F5F5DC" stroke-width="2"/>
+      <circle cx="80" cy="100" r="3" fill="#F5F5DC"/>
+
+      <!-- Timeline -->
+      <line x1="150" y1="100" x2="650" y2="100" stroke="#555" stroke-width="2"/>
+
+      <!-- Phase 1: Quick scan -->
+      <rect x="150" y="80" width="100" height="40" fill="#F5F5DC" fill-opacity="0.2" stroke="#F5F5DC" stroke-width="1" rx="4"/>
+      <text x="200" y="105" fill="#F5F5DC" font-size="10" text-anchor="middle" font-family="monospace">REVISAR</text>
+      <text x="200" y="140" fill="#888" font-size="9" text-anchor="middle">10 min</text>
+      <text x="200" y="155" fill="#666" font-size="8" text-anchor="middle">Lee todo rápido</text>
+
+      <!-- Phase 2: Easy first -->
+      <rect x="270" y="80" width="150" height="40" fill="#F5F5DC" fill-opacity="0.4" stroke="#F5F5DC" stroke-width="1" rx="4"/>
+      <text x="345" y="105" fill="#F5F5DC" font-size="10" text-anchor="middle" font-family="monospace">FÁCILES</text>
+      <text x="345" y="140" fill="#888" font-size="9" text-anchor="middle">40% tiempo</text>
+      <text x="345" y="155" fill="#666" font-size="8" text-anchor="middle">Responde lo seguro</text>
+
+      <!-- Phase 3: Medium -->
+      <rect x="440" y="80" width="100" height="40" fill="#F5F5DC" fill-opacity="0.6" stroke="#F5F5DC" stroke-width="1" rx="4"/>
+      <text x="490" y="105" fill="#121212" font-size="10" text-anchor="middle" font-family="monospace">MEDIAS</text>
+      <text x="490" y="140" fill="#888" font-size="9" text-anchor="middle">35% tiempo</text>
+      <text x="490" y="155" fill="#666" font-size="8" text-anchor="middle">Analiza con calma</text>
+
+      <!-- Phase 4: Difficult -->
+      <rect x="560" y="80" width="90" height="40" fill="#F5F5DC" stroke="#F5F5DC" stroke-width="1" rx="4"/>
+      <text x="605" y="105" fill="#121212" font-size="10" text-anchor="middle" font-family="monospace" font-weight="bold">DIFÍCILES</text>
+      <text x="605" y="140" fill="#888" font-size="9" text-anchor="middle">15% tiempo</text>
+      <text x="605" y="155" fill="#666" font-size="8" text-anchor="middle">Última prioridad</text>
+
+      <!-- Arrows -->
+      <path d="M 250 100 L 270 100" stroke="#F5F5DC" stroke-width="2" marker-end="url(#arrow)"/>
+      <path d="M 420 100 L 440 100" stroke="#F5F5DC" stroke-width="2"/>
+      <path d="M 540 100 L 560 100" stroke="#F5F5DC" stroke-width="2"/>
+
+      <defs>
+        <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
+          <path d="M 0 0 L 10 5 L 0 10 z" fill="#F5F5DC"/>
+        </marker>
+      </defs>
+    </svg>
+
+    <p class="text-center text-white/50 text-sm mt-4">
+      💡 <strong>Tip:</strong> Nunca dejes preguntas sin responder. No hay penalización por respuestas incorrectas.
+    </p>
+  </div>
+</div>
+
+<style>
+  .tips-section {
+    font-family: 'Fira Code', monospace;
+  }
+
+  .tip-card {
+    position: relative;
+  }
+
+  .tip-card::before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: linear-gradient(90deg, #FCD116, #003893, #CE1126);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+
+  .tip-card:hover {
+    transform: translateY(-2px);
+  }
+
+  .tip-card:hover::before {
+    opacity: 1;
+  }
+
+  .tip-icon :global(svg) {
+    filter: drop-shadow(0 0 4px rgba(245, 245, 222, 0.15));
+  }
+
+  .tip-card:hover .tip-icon :global(svg) {
+    filter: drop-shadow(0 0 8px rgba(245, 245, 222, 0.3));
+  }
+
+  input[type="checkbox"] {
+    accent-color: #F5F5DC;
+  }
+</style>

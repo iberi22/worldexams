@@ -1,0 +1,206 @@
+---
+/**
+ * Component showing the competencies evaluated by ICFES
+ * Displays the three main competency types with descriptions
+ * Updated with custom SVG icons in cyber-minimalist style
+ */
+
+// SVG icons for each competency (inline for performance)
+const icons = {
+  comunicativa: `<svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" class="w-12 h-12">
+    <rect x="8" y="6" width="32" height="36" rx="2" stroke="currentColor" stroke-width="2" fill="none"/>
+    <path d="M14 14h20M14 20h20M14 26h14M14 32h10" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="36" cy="36" r="8" fill="#FCD116" stroke="currentColor" stroke-width="2"/>
+    <path d="M33 36h6M36 33v6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+  </svg>`,
+  razonamiento: `<svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" class="w-12 h-12">
+    <circle cx="24" cy="24" r="18" stroke="currentColor" stroke-width="2" fill="none"/>
+    <path d="M24 12v6M24 30v6M12 24h6M30 24h6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="24" cy="24" r="6" fill="#003893" stroke="currentColor" stroke-width="2"/>
+    <path d="M16 16l4 4M28 28l4 4M32 16l-4 4M16 32l4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" opacity="0.6"/>
+  </svg>`,
+  indagacion: `<svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" class="w-12 h-12">
+    <circle cx="20" cy="20" r="12" stroke="currentColor" stroke-width="2" fill="none"/>
+    <path d="M29 29l10 10" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="20" cy="20" r="4" fill="#CE1126" stroke="currentColor" stroke-width="1.5"/>
+    <path d="M20 12v3M20 25v3M12 20h3M25 20h3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" opacity="0.5"/>
+    <path d="M14 14l2 2M24 24l2 2M26 14l-2 2M14 26l2-2" stroke="currentColor" stroke-width="1" stroke-linecap="round" opacity="0.3"/>
+  </svg>`
+};
+
+const competencies = [
+  {
+    iconKey: "comunicativa",
+    title: "Comunicativa",
+    description: "Capacidad para comprender, interpretar y producir textos. Incluye lectura crítica, argumentación y síntesis de información.",
+    examples: [
+      "Identificar la idea principal de un texto",
+      "Inferir intenciones del autor",
+      "Evaluar argumentos y evidencias"
+    ],
+    color: "#FCD116" // Colombia yellow
+  },
+  {
+    iconKey: "razonamiento",
+    title: "Razonamiento",
+    description: "Habilidad para analizar, deducir y resolver problemas usando lógica y pensamiento matemático.",
+    examples: [
+      "Resolver problemas matemáticos",
+      "Aplicar conceptos científicos",
+      "Establecer relaciones causa-efecto"
+    ],
+    color: "#003893" // Colombia blue
+  },
+  {
+    iconKey: "indagacion",
+    title: "Indagación",
+    description: "Capacidad de formular preguntas, plantear hipótesis y analizar datos para llegar a conclusiones.",
+    examples: [
+      "Interpretar gráficas y tablas",
+      "Analizar experimentos",
+      "Evaluar metodologías científicas"
+    ],
+    color: "#CE1126" // Colombia red
+  }
+];
+
+const skillLevels = [
+  { level: 1, name: "Insuficiente", range: "0-35%", description: "No alcanza los mínimos esperados" },
+  { level: 2, name: "Mínimo", range: "36-50%", description: "Supera las preguntas de menor complejidad" },
+  { level: 3, name: "Satisfactorio", range: "51-70%", description: "Muestra desempeño adecuado en las competencias" },
+  { level: 4, name: "Avanzado", range: "71-100%", description: "Logra un desempeño sobresaliente" }
+];
+---
+
+<div class="competency-section">
+  <!-- Main competencies -->
+  <div class="grid md:grid-cols-3 gap-6 mb-12">
+    {competencies.map((comp) => (
+      <div class="competency-card bg-[#1a1a1a] border border-white/10 rounded-lg p-6 hover:border-white/20 transition-all duration-300 group">
+        <div class="icon-wrapper mb-4 text-[#F5F5DC] group-hover:scale-110 transition-transform duration-300" set:html={icons[comp.iconKey]} />
+        <h3 class="text-lg font-bold mb-2" style={`border-left: 3px solid ${comp.color}; padding-left: 0.75rem;`}>{comp.title}</h3>
+        <p class="text-sm text-white/60 mb-4">{comp.description}</p>
+        <ul class="space-y-2">
+          {comp.examples.map((example) => (
+            <li class="flex items-start gap-2 text-xs text-white/50">
+              <span class="w-1.5 h-1.5 rounded-full mt-1.5 flex-shrink-0" style={`background-color: ${comp.color};`}></span>
+              {example}
+            </li>
+          ))}
+        </ul>
+      </div>
+    ))}
+  </div>
+
+  <!-- Skill levels infographic -->
+  <div class="bg-[#1a1a1a] border border-white/10 rounded-lg p-6">
+    <h3 class="text-lg font-bold mb-6 text-center">Niveles de Desempeño</h3>
+
+    <div class="levels-graphic">
+      <svg viewBox="0 0 700 180" class="w-full max-w-3xl mx-auto" aria-labelledby="levels-title">
+        <title id="levels-title">Niveles de desempeño ICFES</title>
+
+        <!-- Base bar -->
+        <rect x="50" y="60" width="600" height="40" fill="#333" rx="4"/>
+
+        <!-- Level segments -->
+        <rect x="50" y="60" width="150" height="40" fill="#444" rx="4"/>
+        <rect x="200" y="60" width="100" height="40" fill="#555"/>
+        <rect x="300" y="60" width="140" height="40" fill="#777"/>
+        <rect x="440" y="60" width="210" height="40" fill="#F5F5DC" rx="4"/>
+
+        <!-- Level markers -->
+        <line x1="200" y1="55" x2="200" y2="105" stroke="#888" stroke-width="1"/>
+        <line x1="300" y1="55" x2="300" y2="105" stroke="#888" stroke-width="1"/>
+        <line x1="440" y1="55" x2="440" y2="105" stroke="#888" stroke-width="1"/>
+
+        <!-- Percentages -->
+        <text x="50" y="50" fill="#888" font-size="10" font-family="monospace">0%</text>
+        <text x="185" y="50" fill="#888" font-size="10" font-family="monospace">35%</text>
+        <text x="285" y="50" fill="#888" font-size="10" font-family="monospace">50%</text>
+        <text x="425" y="50" fill="#888" font-size="10" font-family="monospace">70%</text>
+        <text x="630" y="50" fill="#888" font-size="10" font-family="monospace">100%</text>
+
+        <!-- Level labels -->
+        <text x="125" y="85" fill="#888" font-size="10" text-anchor="middle" font-family="monospace">INSUFICIENTE</text>
+        <text x="250" y="85" fill="#aaa" font-size="10" text-anchor="middle" font-family="monospace">MÍNIMO</text>
+        <text x="370" y="85" fill="#ddd" font-size="10" text-anchor="middle" font-family="monospace">SATISFACTORIO</text>
+        <text x="545" y="85" fill="#121212" font-size="11" text-anchor="middle" font-weight="bold" font-family="monospace">AVANZADO</text>
+
+        <!-- Arrows -->
+        <path d="M 50 130 L 100 130 L 95 125 M 100 130 L 95 135" stroke="#555" fill="none" stroke-width="1"/>
+        <text x="50" y="150" fill="#666" font-size="9" font-family="monospace">Menor</text>
+        <text x="50" y="162" fill="#666" font-size="9" font-family="monospace">dificultad</text>
+
+        <path d="M 600 130 L 650 130 L 645 125 M 650 130 L 645 135" stroke="#F5F5DC" fill="none" stroke-width="1"/>
+        <text x="600" y="150" fill="#F5F5DC" font-size="9" font-family="monospace">Mayor</text>
+        <text x="600" y="162" fill="#F5F5DC" font-size="9" font-family="monospace">dificultad</text>
+      </svg>
+    </div>
+
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mt-8">
+      {skillLevels.map((level) => (
+        <div class:list={[
+          "text-center p-3 rounded border",
+          level.level === 4
+            ? "border-[#F5F5DC]/30 bg-[#F5F5DC]/5"
+            : "border-white/5"
+        ]}>
+          <div class:list={[
+            "text-2xl font-bold mb-1",
+            level.level === 4 ? "text-[#F5F5DC]" : "text-white/60"
+          ]}>
+            {level.level}
+          </div>
+          <div class="text-xs font-semibold mb-1">{level.name}</div>
+          <div class="text-xs text-white/40">{level.range}</div>
+        </div>
+      ))}
+    </div>
+  </div>
+</div>
+
+<style>
+  .competency-section {
+    font-family: 'Fira Code', monospace;
+  }
+
+  .competency-card {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .competency-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: linear-gradient(90deg, #FCD116, #003893, #CE1126);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+
+  .competency-card:hover::before {
+    opacity: 1;
+  }
+
+  .icon-wrapper :global(svg) {
+    filter: drop-shadow(0 0 8px rgba(245, 245, 222, 0.2));
+  }
+
+  .competency-card:hover .icon-wrapper :global(svg) {
+    filter: drop-shadow(0 0 12px rgba(245, 245, 222, 0.4));
+  }
+
+  .levels-graphic {
+    overflow-x: auto;
+  }
+
+  @media (max-width: 640px) {
+    .levels-graphic svg {
+      min-width: 500px;
+    }
+  }
+</style>

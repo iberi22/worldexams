@@ -1,0 +1,273 @@
+---
+import Layout from '../layouts/Layout.astro';
+import ExamInfographic from '../components/guia/ExamInfographic.astro';
+import GradeCard from '../components/guia/GradeCard.astro';
+import CompetencyList from '../components/guia/CompetencyList.astro';
+import TipsSection from '../components/guia/TipsSection.astro';
+import StatsIcfes from '../components/guia/StatsIcfes.astro';
+
+// Schema.org structured data for SEO
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Guía Completa ICFES Saber",
+  "description": "Todo lo que necesitas saber sobre las pruebas ICFES Saber 3°, 5°, 9° y 11°. Estructura, competencias, consejos y estrategias.",
+  "provider": {
+    "@type": "Organization",
+    "name": "OpenIcfes",
+    "url": "https://openicfes.org"
+  },
+  "about": {
+    "@type": "EducationalOccupationalCredential",
+    "name": "Pruebas Saber ICFES",
+    "credentialCategory": "Examen de Estado Colombia"
+  }
+};
+---
+
+<Layout
+  title="Guía Completa ICFES Saber | OpenIcfes"
+  description="Todo lo que necesitas saber sobre las pruebas ICFES Saber 3°, 5°, 9° y 11°. Estructura, competencias, consejos y estrategias para triunfar."
+>
+  <div class="min-h-screen bg-[#121212] text-[#F5F5DC]">
+    <!-- Hero Section -->
+    <section class="py-16 px-4 border-b border-white/10">
+      <div class="max-w-4xl mx-auto text-center">
+        <span class="inline-block px-3 py-1 text-xs font-mono bg-white/5 border border-white/10 rounded-full mb-4 animate-fade-in-up">
+          📚 Guía Oficial
+        </span>
+        <h1 class="text-4xl md:text-5xl font-bold mb-6 animate-fade-in-up animate-fade-in-up-delay-1">
+          Guía Completa <span class="text-white/60">ICFES Saber</span>
+        </h1>
+        <p class="text-lg text-white/70 max-w-2xl mx-auto animate-fade-in-up animate-fade-in-up-delay-2">
+          Conoce la estructura de las pruebas de estado colombianas,
+          las competencias evaluadas y las mejores estrategias para obtener resultados sobresalientes.
+        </p>
+      </div>
+    </section>
+
+    <!-- Main Infographic -->
+    <section class="py-12 px-4" data-sr="fade-up">
+      <div class="max-w-6xl mx-auto">
+        <h2 class="text-2xl font-bold mb-8 text-center">Estructura del Sistema ICFES</h2>
+        <ExamInfographic />
+      </div>
+    </section>
+
+    <!-- Grade Cards -->
+    <section class="py-12 px-4 border-t border-white/10">
+      <div class="max-w-6xl mx-auto">
+        <h2 class="text-2xl font-bold mb-8 text-center" data-sr="fade-up">Pruebas por Grado</h2>
+
+        <div class="grid md:grid-cols-2 gap-6">
+          <div data-sr="fade-up" data-sr-delay="0">
+            <GradeCard
+              grade="3°"
+              title="Saber 3°"
+              description="Evaluación diagnóstica para estudiantes de tercer grado de primaria."
+              subjects={["Matemáticas", "Lenguaje"]}
+              duration="2-3 horas"
+              questions="~54 preguntas"
+            />
+          </div>
+
+          <div data-sr="fade-up" data-sr-delay="100">
+            <GradeCard
+              grade="5°"
+              title="Saber 5°"
+              description="Evaluación al finalizar la básica primaria. Incluye competencias ciudadanas."
+              subjects={["Matemáticas", "Lenguaje", "Ciencias Naturales", "Competencias Ciudadanas"]}
+              duration="4-5 horas"
+              questions="~100 preguntas"
+            />
+          </div>
+
+          <div data-sr="fade-up" data-sr-delay="200">
+            <GradeCard
+              grade="9°"
+              title="Saber 9°"
+              description="Evaluación al finalizar la educación básica secundaria."
+              subjects={["Matemáticas", "Lenguaje", "Ciencias Naturales", "Competencias Ciudadanas"]}
+              duration="4-5 horas"
+              questions="~100 preguntas"
+            />
+          </div>
+
+          <div data-sr="fade-up" data-sr-delay="300">
+            <GradeCard
+              grade="11°"
+              title="Saber 11°"
+              description="Examen de Estado obligatorio para acceder a la educación superior."
+              subjects={["Lectura Crítica", "Matemáticas", "Sociales y Ciudadanas", "Ciencias Naturales", "Inglés"]}
+              duration="9 horas (2 sesiones)"
+              questions="~230 preguntas"
+              highlight={true}
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Statistics Section - NEW -->
+    <section class="py-12 px-4 border-t border-white/10 bg-gradient-to-b from-transparent to-white/[0.02]">
+      <div class="max-w-6xl mx-auto">
+        <h2 class="text-2xl font-bold mb-2 text-center" data-sr="fade-up">
+          📊 Estadísticas ICFES 2024
+        </h2>
+        <p class="text-white/60 text-center mb-8 text-sm" data-sr="fade-up" data-sr-delay="100">
+          Datos reales de los resultados nacionales
+        </p>
+        <StatsIcfes />
+      </div>
+    </section>
+
+    <!-- Competencies Section -->
+    <section class="py-12 px-4 border-t border-white/10">
+      <div class="max-w-6xl mx-auto">
+        <h2 class="text-2xl font-bold mb-8 text-center" data-sr="fade-up">Competencias Evaluadas</h2>
+        <div data-sr="fade-up" data-sr-delay="100">
+          <CompetencyList />
+        </div>
+      </div>
+    </section>
+
+    <!-- Saber 11 Detail -->
+    <section class="py-12 px-4 border-t border-white/10 bg-white/5">
+      <div class="max-w-4xl mx-auto">
+        <h2 class="text-2xl font-bold mb-8 text-center" data-sr="fade-up">Saber 11° en Detalle</h2>
+
+        <!-- Infographic: Score Distribution -->
+        <div class="mb-12" data-sr="zoom-in" data-sr-delay="100">
+          <h3 class="text-lg font-semibold mb-4 text-center text-white/70">Distribución del Puntaje</h3>
+          <div class="bg-[#1a1a1a] border border-white/10 rounded-lg p-6">
+            <svg viewBox="0 0 600 300" class="w-full max-w-2xl mx-auto" aria-labelledby="score-chart-title">
+              <title id="score-chart-title">Distribución de puntaje por área en Saber 11</title>
+
+              <!-- Grid lines -->
+              <line x1="100" y1="250" x2="550" y2="250" stroke="#333" stroke-width="1"/>
+              <line x1="100" y1="200" x2="550" y2="200" stroke="#333" stroke-width="0.5" stroke-dasharray="4"/>
+              <line x1="100" y1="150" x2="550" y2="150" stroke="#333" stroke-width="0.5" stroke-dasharray="4"/>
+              <line x1="100" y1="100" x2="550" y2="100" stroke="#333" stroke-width="0.5" stroke-dasharray="4"/>
+              <line x1="100" y1="50" x2="550" y2="50" stroke="#333" stroke-width="0.5" stroke-dasharray="4"/>
+
+              <!-- Y axis labels -->
+              <text x="90" y="255" fill="#888" font-size="10" text-anchor="end">0</text>
+              <text x="90" y="205" fill="#888" font-size="10" text-anchor="end">25</text>
+              <text x="90" y="155" fill="#888" font-size="10" text-anchor="end">50</text>
+              <text x="90" y="105" fill="#888" font-size="10" text-anchor="end">75</text>
+              <text x="90" y="55" fill="#888" font-size="10" text-anchor="end">100</text>
+
+              <!-- Bars -->
+              <rect x="120" y="50" width="60" height="200" fill="#F5F5DC" opacity="0.9"/>
+              <rect x="210" y="50" width="60" height="200" fill="#F5F5DC" opacity="0.7"/>
+              <rect x="300" y="50" width="60" height="200" fill="#F5F5DC" opacity="0.5"/>
+              <rect x="390" y="50" width="60" height="200" fill="#F5F5DC" opacity="0.4"/>
+              <rect x="480" y="50" width="60" height="200" fill="#F5F5DC" opacity="0.3"/>
+
+              <!-- Labels -->
+              <text x="150" y="275" fill="#F5F5DC" font-size="9" text-anchor="middle">Lectura</text>
+              <text x="150" y="285" fill="#F5F5DC" font-size="9" text-anchor="middle">Crítica</text>
+              <text x="240" y="275" fill="#F5F5DC" font-size="9" text-anchor="middle">Matemáticas</text>
+              <text x="330" y="275" fill="#F5F5DC" font-size="9" text-anchor="middle">Sociales</text>
+              <text x="420" y="275" fill="#F5F5DC" font-size="9" text-anchor="middle">Ciencias</text>
+              <text x="510" y="275" fill="#F5F5DC" font-size="9" text-anchor="middle">Inglés</text>
+
+              <!-- Point values -->
+              <text x="150" y="40" fill="#F5F5DC" font-size="11" text-anchor="middle" font-weight="bold">100</text>
+              <text x="240" y="40" fill="#F5F5DC" font-size="11" text-anchor="middle" font-weight="bold">100</text>
+              <text x="330" y="40" fill="#F5F5DC" font-size="11" text-anchor="middle" font-weight="bold">100</text>
+              <text x="420" y="40" fill="#F5F5DC" font-size="11" text-anchor="middle" font-weight="bold">100</text>
+              <text x="510" y="40" fill="#F5F5DC" font-size="11" text-anchor="middle" font-weight="bold">100</text>
+            </svg>
+
+            <p class="text-center text-white/60 text-sm mt-4">
+              Cada área vale máximo 100 puntos. El puntaje global se calcula con un promedio ponderado.
+            </p>
+          </div>
+        </div>
+
+        <!-- Session Structure -->
+        <div class="grid md:grid-cols-2 gap-6 mb-12">
+          <div class="bg-[#1a1a1a] border border-white/10 rounded-lg p-6" data-sr="fade-left" data-sr-delay="200">
+            <div class="flex items-center gap-3 mb-4">
+              <div class="w-12 h-12 border-2 border-white/40 rounded-full flex items-center justify-center">
+                <span class="font-bold">1</span>
+              </div>
+              <h3 class="font-semibold">Primera Sesión</h3>
+            </div>
+            <ul class="space-y-2 text-sm text-white/70">
+              <li class="flex items-center gap-2">
+                <span class="w-2 h-2 bg-white/60 rounded-full"></span>
+                Lectura Crítica (35 preguntas)
+              </li>
+              <li class="flex items-center gap-2">
+                <span class="w-2 h-2 bg-white/60 rounded-full"></span>
+                Matemáticas (35 preguntas)
+              </li>
+              <li class="flex items-center gap-2">
+                <span class="w-2 h-2 bg-white/60 rounded-full"></span>
+                Sociales y Ciudadanas (50 preguntas)
+              </li>
+              <li class="flex items-center gap-2">
+                <span class="w-2 h-2 bg-white/60 rounded-full"></span>
+                Duración: ~4.5 horas
+              </li>
+            </ul>
+          </div>
+
+          <div class="bg-[#1a1a1a] border border-white/10 rounded-lg p-6" data-sr="fade-right" data-sr-delay="300">
+            <div class="flex items-center gap-3 mb-4">
+              <div class="w-12 h-12 border-2 border-white/40 rounded-full flex items-center justify-center">
+                <span class="font-bold">2</span>
+              </div>
+              <h3 class="font-semibold">Segunda Sesión</h3>
+            </div>
+            <ul class="space-y-2 text-sm text-white/70">
+              <li class="flex items-center gap-2">
+                <span class="w-2 h-2 bg-white/60 rounded-full"></span>
+                Ciencias Naturales (58 preguntas)
+              </li>
+              <li class="flex items-center gap-2">
+                <span class="w-2 h-2 bg-white/60 rounded-full"></span>
+                Inglés (55 preguntas)
+              </li>
+              <li class="flex items-center gap-2">
+                <span class="w-2 h-2 bg-white/60 rounded-full"></span>
+                Duración: ~4.5 horas
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Tips Section -->
+    <section class="py-12 px-4 border-t border-white/10">
+      <div class="max-w-6xl mx-auto">
+        <h2 class="text-2xl font-bold mb-8 text-center" data-sr="fade-up">Consejos para el Éxito</h2>
+        <div data-sr="fade-up" data-sr-delay="100">
+          <TipsSection />
+        </div>
+      </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="py-16 px-4 border-t border-white/10">
+      <div class="max-w-2xl mx-auto text-center" data-sr="zoom-in">
+        <h2 class="text-2xl font-bold mb-4">¿Listo para practicar?</h2>
+        <p class="text-white/70 mb-8">
+          Accede a nuestro banco de preguntas gratuito y comienza a prepararte hoy.
+        </p>
+        <a
+          href="/"
+          class="inline-block px-8 py-3 bg-[#F5F5DC] text-[#121212] font-semibold rounded-lg hover:bg-white transition-colors"
+        >
+          Comenzar Práctica →
+        </a>
+      </div>
+    </section>
+  </div>
+
+  <!-- Schema.org JSON-LD -->
+  <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+</Layout>

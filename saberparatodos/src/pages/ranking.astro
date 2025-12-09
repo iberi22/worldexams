@@ -1,0 +1,159 @@
+---
+/**
+ * Página de Leaderboard - Rankings de Estudiantes
+ * Colombia - saberparatodos
+ *
+ * Sistema IssueOps 100% GitHub
+ */
+import Layout from '../layouts/Layout.astro';
+import LeaderboardView from '../components/LeaderboardView.svelte';
+import IdentityRegistration from '../components/IdentityRegistration.svelte';
+
+// Cargar estadísticas del leaderboard estático
+let stats = {
+  totalParticipants: 0,
+  averageScore: 0,
+  lastUpdated: ''
+};
+
+try {
+  const response = await fetch(new URL('/leaderboards/leaderboard-alltime.json', Astro.url));
+  if (response.ok) {
+    const data = await response.json();
+    stats.totalParticipants = data.totalParticipants || 0;
+    stats.averageScore = data.metadata?.averageScore || 0;
+    stats.lastUpdated = data.lastUpdated ? new Date(data.lastUpdated).toLocaleDateString('es-CO', {
+      day: 'numeric',
+      month: 'short',
+      hour: '2-digit',
+      minute: '2-digit'
+    }) : '';
+  }
+} catch (e) {
+  // Ignorar errores, usar valores por defecto
+}
+---
+
+<Layout
+  title="Ranking de Estudiantes | OpenIcfes"
+  description="Mira los mejores puntajes de estudiantes colombianos practicando para las pruebas Saber. Rankings semanal, mensual y anual."
+>
+  <div class="min-h-screen bg-[#121212]">
+    <!-- Header -->
+    <div class="py-6 px-4 border-b border-white/10">
+      <div class="max-w-4xl mx-auto">
+        <a
+          href="/"
+          class="inline-flex items-center gap-2 text-white/40 hover:text-white/80 transition-colors text-sm mb-4"
+        >
+          ← Volver al inicio
+        </a>
+        <h1 class="text-3xl sm:text-4xl font-bold text-[#F5F5DC] tracking-tight">
+          🏆 Ranking Colombia
+        </h1>
+        <p class="text-white/60 mt-2 text-sm">
+          Los mejores estudiantes practicando para Saber 3°, 5°, 9° y 11°
+        </p>
+
+        <!-- Stats Banner -->
+        <div class="mt-4 flex flex-wrap gap-4 text-xs">
+          <span class="px-3 py-1 bg-emerald-500/10 border border-emerald-500/30 rounded-full text-emerald-400">
+            👥 {stats.totalParticipants} participantes
+          </span>
+          <span class="px-3 py-1 bg-blue-500/10 border border-blue-500/30 rounded-full text-blue-400">
+            📊 Promedio: {stats.averageScore.toLocaleString('es-CO')} pts
+          </span>
+          {stats.lastUpdated && (
+            <span class="px-3 py-1 bg-white/5 border border-white/10 rounded-full text-white/50">
+              🔄 {stats.lastUpdated}
+            </span>
+          )}
+        </div>
+      </div>
+    </div>
+
+    <!-- Main Content -->
+    <div class="py-8">
+      <LeaderboardView
+        client:load
+        onBack={() => window.location.href = '/'}
+        onRegister={() => {
+          const modal = document.getElementById('register-modal');
+          if (modal) modal.classList.remove('hidden');
+        }}
+      />
+    </div>
+
+    <!-- Footer Info -->
+    <div class="max-w-4xl mx-auto px-4 pb-8">
+      <div class="p-4 bg-white/5 border border-white/10 rounded-xl text-center">
+        <p class="text-xs text-white/50 mb-2">
+          Sistema IssueOps - 100% GitHub
+        </p>
+        <div class="flex flex-wrap justify-center gap-3 text-xs">
+          <a
+            href="https://github.com/worldexams/saberparatodos/blob/main/LEADERBOARD.md"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="text-emerald-400 hover:text-emerald-300 underline underline-offset-2"
+          >
+            📄 Ver Hall of Fame en GitHub
+          </a>
+          <span class="text-white/20">|</span>
+          <a
+            href="https://github.com/worldexams/saberparatodos/issues?q=label%3Ascore-submission"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="text-blue-400 hover:text-blue-300 underline underline-offset-2"
+          >
+            📋 Ver submissions recientes
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Registration Modal -->
+  <div
+    id="register-modal"
+    class="fixed inset-0 bg-black/80 backdrop-blur-sm z-50 hidden flex items-center justify-center p-4"
+  >
+    <div class="bg-[#1a1a2e] border border-white/10 rounded-2xl max-w-lg w-full max-h-[90vh] overflow-y-auto">
+      <div class="p-4 border-b border-white/10 flex items-center justify-between">
+        <h3 class="font-bold text-[#F5F5DC]">Crear Identidad</h3>
+        <button
+          onclick="document.getElementById('register-modal').classList.add('hidden')"
+          class="w-8 h-8 flex items-center justify-center text-white/40 hover:text-white/80 transition-colors"
+        >
+          ✕
+        </button>
+      </div>
+      <IdentityRegistration
+        client:load
+        onComplete={() => {
+          document.getElementById('register-modal')?.classList.add('hidden');
+          window.location.reload();
+        }}
+        onSkip={() => {
+          document.getElementById('register-modal')?.classList.add('hidden');
+        }}
+      />
+    </div>
+  </div>
+</Layout>
+
+<script>
+  // Cerrar modal al hacer clic fuera
+  document.getElementById('register-modal')?.addEventListener('click', (e) => {
+    if (e.target === e.currentTarget) {
+      e.currentTarget.classList.add('hidden');
+    }
+  });
+
+  // Cerrar modal con Escape
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+      document.getElementById('register-modal')?.classList.add('hidden');
+    }
+  });
+</script>

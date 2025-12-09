@@ -1,0 +1,220 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #121212;
+  color: #F5F5DC;
+  font-family: 'Fira Code', monospace;
+  overflow-x: hidden;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #121212;
+}
+::-webkit-scrollbar-thumb {
+  background: #333;
+  border: 1px solid #F5F5DC;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.bg-noise {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  pointer-events: none;
+  opacity: 0.05;
+  filter: url('#noiseFilter');
+}
+
+.glass {
+  background-color: rgba(18, 18, 18, 0.8);
+  backdrop-filter: blur(16px); /* backdrop-blur-lg */
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+/* Hero Gradient Background - Colombia Flag Colors */
+.hero-gradient {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 120%;
+  height: 400px;
+  background:
+    radial-gradient(ellipse at 30% 20%, rgba(252, 209, 22, 0.15) 0%, transparent 50%),
+    radial-gradient(ellipse at 70% 40%, rgba(0, 56, 147, 0.1) 0%, transparent 50%),
+    radial-gradient(ellipse at 50% 80%, rgba(206, 17, 38, 0.08) 0%, transparent 50%);
+  filter: blur(60px);
+  pointer-events: none;
+  animation: heroGradientPulse 8s ease-in-out infinite;
+}
+
+@keyframes heroGradientPulse {
+  0%, 100% {
+    opacity: 0.6;
+    transform: translateX(-50%) scale(1);
+  }
+  50% {
+    opacity: 0.8;
+    transform: translateX(-50%) scale(1.05);
+  }
+}
+
+/* Floating Particles */
+.particles {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.particle {
+  position: absolute;
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  opacity: 0.4;
+  animation: floatParticle 15s ease-in-out infinite;
+}
+
+.particle-1 {
+  background: #FCD116;
+  top: 20%;
+  left: 15%;
+  animation-delay: 0s;
+}
+
+.particle-2 {
+  background: #003893;
+  top: 60%;
+  left: 75%;
+  animation-delay: -5s;
+}
+
+.particle-3 {
+  background: #CE1126;
+  top: 40%;
+  left: 45%;
+  animation-delay: -10s;
+}
+
+@keyframes floatParticle {
+  0%, 100% {
+    transform: translateY(0) translateX(0);
+    opacity: 0.4;
+  }
+  25% {
+    transform: translateY(-30px) translateX(20px);
+    opacity: 0.6;
+  }
+  50% {
+    transform: translateY(-10px) translateX(-10px);
+    opacity: 0.3;
+  }
+  75% {
+    transform: translateY(-40px) translateX(10px);
+    opacity: 0.5;
+  }
+}
+
+/* Slow Pulse Animation */
+.animate-pulse-slow {
+  animation: pulse-slow 3s ease-in-out infinite;
+}
+
+@keyframes pulse-slow {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+/* Colombia Flag Stripe */
+.colombia-stripe {
+  background: linear-gradient(90deg, #FCD116 50%, #003893 50% 75%, #CE1126 75%);
+  height: 4px;
+}
+
+/* ============================================
+   Scroll Reveal Animations
+   Usage: Add data-sr="animation" to elements
+   ============================================ */
+
+/* Initial hidden state */
+.sr-init {
+  opacity: 0;
+  transition: opacity 0.6s cubic-bezier(0.16, 1, 0.3, 1),
+              transform 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* Animation types */
+.sr-fade-up { transform: translateY(2rem); }
+.sr-fade-down { transform: translateY(-2rem); }
+.sr-fade-left { transform: translateX(2rem); }
+.sr-fade-right { transform: translateX(-2rem); }
+.sr-zoom-in { transform: scale(0.9); }
+.sr-zoom-out { transform: scale(1.1); }
+.sr-flip { transform: perspective(1000px) rotateX(20deg); }
+
+/* Visible state - when element enters viewport */
+.sr-visible {
+  opacity: 1 !important;
+  transform: none !important;
+}
+
+/* Stagger animations for children */
+.sr-stagger > * {
+  opacity: 0;
+  transform: translateY(1rem);
+  transition: opacity 0.5s ease, transform 0.5s ease;
+}
+
+.sr-stagger.sr-visible > *:nth-child(1) { transition-delay: 0ms; opacity: 1; transform: none; }
+.sr-stagger.sr-visible > *:nth-child(2) { transition-delay: 100ms; opacity: 1; transform: none; }
+.sr-stagger.sr-visible > *:nth-child(3) { transition-delay: 200ms; opacity: 1; transform: none; }
+.sr-stagger.sr-visible > *:nth-child(4) { transition-delay: 300ms; opacity: 1; transform: none; }
+.sr-stagger.sr-visible > *:nth-child(5) { transition-delay: 400ms; opacity: 1; transform: none; }
+.sr-stagger.sr-visible > *:nth-child(6) { transition-delay: 500ms; opacity: 1; transform: none; }
+
+/* Reduced motion preference */
+@media (prefers-reduced-motion: reduce) {
+  .sr-init,
+  .sr-stagger > * {
+    opacity: 1 !important;
+    transform: none !important;
+    transition: none !important;
+  }
+}
+
+/* Fade-in animation utility classes */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(1.5rem);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-fade-in-up-delay-1 { animation-delay: 100ms; opacity: 0; }
+.animate-fade-in-up-delay-2 { animation-delay: 200ms; opacity: 0; }
+.animate-fade-in-up-delay-3 { animation-delay: 300ms; opacity: 0; }
+.animate-fade-in-up-delay-4 { animation-delay: 400ms; opacity: 0; }

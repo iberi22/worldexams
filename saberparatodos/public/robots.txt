@@ -1,0 +1,31 @@
+# Block AI Training Bots (Force Payment/Licensing)
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+# Allow standard search engines and users
+User-agent: *
+Allow: /
+
+# Real Simple Licensing (RSL)
+# This repository and its content are available for non-commercial use.
+# For commercial scraping, AI training, or high-volume API access,
+# you must obtain a license.
+#
+# License-Page: https://worldexams.github.io/saber-co/developers/license
+# Payment-Info: https://worldexams.github.io/saber-co/developers/pricing
+# Sitemap: https://worldexams.github.io/saber-co/sitemap-index.xml

@@ -1,0 +1,34 @@
+{
+  "name": "Saber Colombia - World Exams",
+  "description": "Open source question bank for ICFES Saber 11 exams.",
+  "version": "1.0.0",
+  "api_base_url": "https://worldexams.github.io/saber-co/api/v1",
+  "capabilities": [
+    {
+      "name": "search_questions",
+      "description": "Search for questions by topic, grade, or keyword.",
+      "parameters": {
+        "query": "string",
+        "limit": "integer"
+      }
+    },
+    {
+      "name": "get_question",
+      "description": "Get full details of a specific question.",
+      "parameters": {
+        "id": "string"
+      }
+    }
+  ],
+  "pricing": {
+    "model": "freemium",
+    "free_tier": {
+      "requests_per_day": 100,
+      "commercial_use": false
+    },
+    "paid_tier": {
+      "description": "Commercial license and high-volume access.",
+      "url": "https://worldexams.github.io/saber-co/developers/pricing"
+    }
+  }
+}

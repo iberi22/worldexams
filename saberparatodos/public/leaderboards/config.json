@@ -1,0 +1,41 @@
+{
+  "version": "1.0",
+  "scoring": {
+    "basePoints": 100,
+    "difficultyMultipliers": [0.8, 1.0, 1.2, 1.4, 1.6],
+    "timeBonus": {
+      "maxMultiplier": 1.5,
+      "decaySeconds": 120
+    },
+    "streakBonus": {
+      "incrementPerStreak": 0.1,
+      "maxMultiplier": 2.0
+    },
+    "incorrectPenalty": -20,
+    "completionBonus": 50,
+    "accuracyBonusThreshold": 0.8,
+    "accuracyBonusMultiplier": 200,
+    "perfectBonus": 100
+  },
+  "periods": {
+    "weekly": { "enabled": true, "topN": 100 },
+    "monthly": { "enabled": true, "topN": 100 },
+    "semester-a": { "enabled": true, "topN": 200 },
+    "semester-b": { "enabled": true, "topN": 200 },
+    "annual": { "enabled": true, "topN": 500 },
+    "alltime": { "enabled": true, "topN": 1000 }
+  },
+  "regions": [
+    "BOG", "MED", "CAL", "BAR", "CAR", "BUC", "PER", "MAN",
+    "SMA", "IBA", "CUC", "SOL", "VIL", "NEI", "MON", "PAS",
+    "ARM", "VAL", "POP", "SIN", "TUN", "FLO", "RIO", "QUI",
+    "YOP", "MOC", "LET", "SAI", "OTR"
+  ],
+  "grades": ["3", "5", "7", "9", "10", "11"],
+  "anticheat": {
+    "minTimePerQuestion": 3,
+    "maxSubmissionsPerHour": 10,
+    "maxAccuracyForFastAnswers": 0.95
+  },
+  "lastUpdated": "2025-12-05T00:00:00Z"
+}

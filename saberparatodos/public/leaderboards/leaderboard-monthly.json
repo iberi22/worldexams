@@ -1,0 +1,272 @@
+{
+  "version": "1.0",
+  "period": "monthly",
+  "periodStart": "2025-12-01T00:00:00Z",
+  "periodEnd": "2025-12-31T23:59:59Z",
+  "lastUpdated": "2025-12-05T14:30:00Z",
+  "totalParticipants": 25,
+  "entries": [
+    {
+      "rank": 1,
+      "anonymousId": "VelozAguila_BOG_11_K7F2",
+      "displayName": "VelozÁguila",
+      "score": 12450,
+      "grade": "11",
+      "region": "BOG",
+      "stats": {
+        "questionsAnswered": 105,
+        "accuracy": 0.93,
+        "averageDifficulty": 3.4,
+        "longestStreak": 18,
+        "examsCompleted": 15,
+        "perfectScores": 3
+      },
+      "lastExamAt": "2025-12-05T13:45:00Z"
+    },
+    {
+      "rank": 2,
+      "anonymousId": "BrillanteTigre_MED_11_P3X9",
+      "displayName": "BrillanteTigre",
+      "score": 11820,
+      "grade": "11",
+      "region": "MED",
+      "stats": {
+        "questionsAnswered": 126,
+        "accuracy": 0.87,
+        "averageDifficulty": 3.6,
+        "longestStreak": 14,
+        "examsCompleted": 18,
+        "perfectScores": 2
+      },
+      "lastExamAt": "2025-12-05T11:20:00Z"
+    },
+    {
+      "rank": 3,
+      "anonymousId": "SabioCondor_CAL_11_N8M4",
+      "displayName": "SabioCóndor",
+      "score": 10950,
+      "grade": "11",
+      "region": "CAL",
+      "stats": {
+        "questionsAnswered": 98,
+        "accuracy": 0.91,
+        "averageDifficulty": 3.3,
+        "longestStreak": 16,
+        "examsCompleted": 14,
+        "perfectScores": 2
+      },
+      "lastExamAt": "2025-12-05T10:30:00Z"
+    },
+    {
+      "rank": 4,
+      "anonymousId": "AgilPantera_CAL_10_M2N7",
+      "displayName": "ÁgilPantera",
+      "score": 10280,
+      "grade": "10",
+      "region": "CAL",
+      "stats": {
+        "questionsAnswered": 84,
+        "accuracy": 0.90,
+        "averageDifficulty": 3.1,
+        "longestStreak": 15,
+        "examsCompleted": 12,
+        "perfectScores": 2
+      },
+      "lastExamAt": "2025-12-05T09:15:00Z"
+    },
+    {
+      "rank": 5,
+      "anonymousId": "SabioLobo_BOG_11_H5K1",
+      "displayName": "SabioLobo",
+      "score": 9750,
+      "grade": "11",
+      "region": "BOG",
+      "stats": {
+        "questionsAnswered": 91,
+        "accuracy": 0.85,
+        "averageDifficulty": 3.4,
+        "longestStreak": 11,
+        "examsCompleted": 13,
+        "perfectScores": 1
+      },
+      "lastExamAt": "2025-12-05T08:30:00Z"
+    },
+    {
+      "rank": 6,
+      "anonymousId": "RapidoHalcon_BAR_9_L9P4",
+      "displayName": "RápidoHalcón",
+      "score": 9120,
+      "grade": "9",
+      "region": "BAR",
+      "stats": {
+        "questionsAnswered": 77,
+        "accuracy": 0.88,
+        "averageDifficulty": 2.9,
+        "longestStreak": 13,
+        "examsCompleted": 11,
+        "perfectScores": 1
+      },
+      "lastExamAt": "2025-12-04T22:10:00Z"
+    },
+    {
+      "rank": 7,
+      "anonymousId": "AstutuZorro_MED_11_Q8W2",
+      "displayName": "AstutoZorro",
+      "score": 8680,
+      "grade": "11",
+      "region": "MED",
+      "stats": {
+        "questionsAnswered": 70,
+        "accuracy": 0.84,
+        "averageDifficulty": 3.3,
+        "longestStreak": 10,
+        "examsCompleted": 10,
+        "perfectScores": 0
+      },
+      "lastExamAt": "2025-12-04T20:45:00Z"
+    },
+    {
+      "rank": 8,
+      "anonymousId": "FuerteLeon_CAR_10_T6Y3",
+      "displayName": "FuerteLeón",
+      "score": 8250,
+      "grade": "10",
+      "region": "CAR",
+      "stats": {
+        "questionsAnswered": 63,
+        "accuracy": 0.89,
+        "averageDifficulty": 3.0,
+        "longestStreak": 12,
+        "examsCompleted": 9,
+        "perfectScores": 1
+      },
+      "lastExamAt": "2025-12-04T19:30:00Z"
+    },
+    {
+      "rank": 9,
+      "anonymousId": "CuriosoBuho_BUC_11_R4E8",
+      "displayName": "CuriosoBúho",
+      "score": 7820,
+      "grade": "11",
+      "region": "BUC",
+      "stats": {
+        "questionsAnswered": 63,
+        "accuracy": 0.81,
+        "averageDifficulty": 3.4,
+        "longestStreak": 9,
+        "examsCompleted": 9,
+        "perfectScores": 0
+      },
+      "lastExamAt": "2025-12-04T18:15:00Z"
+    },
+    {
+      "rank": 10,
+      "anonymousId": "VelozDelfin_BOG_9_U7I5",
+      "displayName": "VelozDelfín",
+      "score": 7450,
+      "grade": "9",
+      "region": "BOG",
+      "stats": {
+        "questionsAnswered": 56,
+        "accuracy": 0.85,
+        "averageDifficulty": 2.8,
+        "longestStreak": 11,
+        "examsCompleted": 8,
+        "perfectScores": 0
+      },
+      "lastExamAt": "2025-12-04T16:40:00Z"
+    },
+    {
+      "rank": 11,
+      "anonymousId": "InteligenteOso_PER_11_O1A6",
+      "displayName": "InteligenteOso",
+      "score": 7080,
+      "grade": "11",
+      "region": "PER",
+      "stats": {
+        "questionsAnswered": 56,
+        "accuracy": 0.80,
+        "averageDifficulty": 3.2,
+        "longestStreak": 8,
+        "examsCompleted": 8,
+        "perfectScores": 0
+      },
+      "lastExamAt": "2025-12-04T15:20:00Z"
+    },
+    {
+      "rank": 12,
+      "anonymousId": "NobleJaguar_MAN_10_Z3V9",
+      "displayName": "NobleJaguar",
+      "score": 6720,
+      "grade": "10",
+      "region": "MAN",
+      "stats": {
+        "questionsAnswered": 49,
+        "accuracy": 0.86,
+        "averageDifficulty": 3.0,
+        "longestStreak": 10,
+        "examsCompleted": 7,
+        "perfectScores": 0
+      },
+      "lastExamAt": "2025-12-04T14:00:00Z"
+    },
+    {
+      "rank": 13,
+      "anonymousId": "AudazPuma_IBA_11_S5D2",
+      "displayName": "AudazPuma",
+      "score": 6350,
+      "grade": "11",
+      "region": "IBA",
+      "stats": {
+        "questionsAnswered": 49,
+        "accuracy": 0.82,
+        "averageDifficulty": 3.3,
+        "longestStreak": 7,
+        "examsCompleted": 7,
+        "perfectScores": 0
+      },
+      "lastExamAt": "2025-12-04T12:30:00Z"
+    },
+    {
+      "rank": 14,
+      "anonymousId": "ValienteTortuga_BOG_5_F8G4",
+      "displayName": "ValienteTortuga",
+      "score": 5980,
+      "grade": "5",
+      "region": "BOG",
+      "stats": {
+        "questionsAnswered": 42,
+        "accuracy": 0.88,
+        "averageDifficulty": 2.2,
+        "longestStreak": 12,
+        "examsCompleted": 6,
+        "perfectScores": 1
+      },
+      "lastExamAt": "2025-12-04T11:00:00Z"
+    },
+    {
+      "rank": 15,
+      "anonymousId": "HabilMapache_MED_3_W6H1",
+      "displayName": "HábilMapache",
+      "score": 5520,
+      "grade": "3",
+      "region": "MED",
+      "stats": {
+        "questionsAnswered": 35,
+        "accuracy": 0.91,
+        "averageDifficulty": 1.8,
+        "longestStreak": 14,
+        "examsCompleted": 5,
+        "perfectScores": 1
+      },
+      "lastExamAt": "2025-12-04T09:45:00Z"
+    }
+  ],
+  "metadata": {
+    "topGrade": "11",
+    "topRegion": "BOG",
+    "averageScore": 8148,
+    "averageAccuracy": 0.87,
+    "totalExamsCompleted": 152
+  }
+}
