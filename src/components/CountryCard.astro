@@ -14,12 +14,20 @@ const statusBadge = {
 };
 
 const badge = statusBadge[country.status];
-const href = country.status === 'live' ? `/exams/${country.code.toLowerCase()}` : '#';
+// Use externalUrl if available, otherwise use internal route
+const href = country.externalUrl
+  ? country.externalUrl
+  : country.status === 'live'
+    ? `/exams/${country.code.toLowerCase()}`
+    : '#';
 const isClickable = country.status === 'live';
+const isExternal = !!country.externalUrl;
 ---
 
 <a
   href={href}
+  target={isExternal ? "_blank" : undefined}
+  rel={isExternal ? "noopener noreferrer" : undefined}
   class:list={[
     "country-card group",
     { "cursor-pointer": isClickable, "cursor-default": !isClickable },

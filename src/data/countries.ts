@@ -13,6 +13,7 @@ export interface Country {
   region: 'top10' | 'latam' | 'europe' | 'asia';
   questionCount?: number;
   folder?: string;  // Folder name in src/content/questions/ (defaults to code.toLowerCase())
+  externalUrl?: string;  // External URL for dedicated exam platforms (e.g., saberparatodos)
 }
 
 export const countries: Country[] = [
@@ -121,6 +122,7 @@ export const countries: Country[] = [
     status: 'live',
     region: 'latam',
     folder: 'colombia',
+    externalUrl: 'https://saberparatodos.pages.dev/',
   },
   {
     code: 'AR',
