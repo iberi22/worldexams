@@ -2,6 +2,33 @@ import type { Question, Option } from '../types';
 import type { CollectionEntry } from 'astro:content';
 
 /**
+ * Clean metadata from explanation text
+ * Removes validation metadata tables and other internal annotations
+ */
+function cleanExplanation(explanation: string | undefined): string | undefined {
+  if (!explanation) return undefined;
+
+  // Remove ## 📊 Metadata de Validación section and everything after
+  let cleaned = explanation.replace(/##\s*📊\s*Metadata\s*de\s*Validación[\s\S]*/gi, '');
+
+  // Remove markdown table lines starting with |
+  cleaned = cleaned.replace(/^\|.*\|$/gm, '');
+
+  // Remove lines that look like table separators |---|---|
+  cleaned = cleaned.replace(/^\|[-:\s|]+\|$/gm, '');
+
+  // Remove Source ID, Fecha de creación, Contexto cultural metadata lines
+  cleaned = cleaned.replace(/^Source ID:.*$/gm, '');
+  cleaned = cleaned.replace(/^Fecha de creación:.*$/gm, '');
+  cleaned = cleaned.replace(/^Contexto cultural:.*$/gm, '');
+
+  // Clean up excessive whitespace
+  cleaned = cleaned.replace(/\n{3,}/g, '\n\n').trim();
+
+  return cleaned || undefined;
+}
+
+/**
  * Interface for a parsed question from a bundle
  */
 export interface ParsedBundleQuestion {
@@ -72,7 +99,7 @@ export function parseQuestion(entry: CollectionEntry<'questions'>): Question {
   });
 
   const explanationMatch = body.match(/# Explicación\s+([\s\S]*?)$/);
-  const explanation = explanationMatch ? explanationMatch[1].trim() : undefined;
+  const explanation = cleanExplanation(explanationMatch ? explanationMatch[1].trim() : undefined);
 
   return {
     id: entry.id,
@@ -159,7 +186,7 @@ function parseQuestionSection(
 
   // Extract explanation
   const explanationMatch = content.match(/### (?:Explicación Pedagógica|Explanation)\s+([\s\S]*?)(?=---\s*$|## (?:Pregunta|Question)|$)/i);
-  const explanation = explanationMatch ? explanationMatch[1].trim() : '';
+  const explanation = cleanExplanation(explanationMatch ? explanationMatch[1].trim() : undefined) || '';
 
   // Extract competency
   const competencyMatch = content.match(/\*\*Competencia evaluada:\*\*\s*(.+)/i)

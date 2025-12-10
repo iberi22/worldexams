@@ -63,6 +63,33 @@ function mapDifficulty(difficulty: string): number {
 }
 
 /**
+ * Clean metadata from explanation text
+ * Removes validation metadata tables and other internal annotations
+ */
+function cleanExplanation(explanation: string | undefined): string | undefined {
+  if (!explanation) return undefined;
+
+  // Remove ## 📊 Metadata de Validación section and everything after
+  let cleaned = explanation.replace(/##\s*📊\s*Metadata\s*de\s*Validación[\s\S]*/gi, '');
+
+  // Remove markdown table lines starting with |
+  cleaned = cleaned.replace(/^\|.*\|$/gm, '');
+
+  // Remove lines that look like table separators |---|---|
+  cleaned = cleaned.replace(/^\|[-:\s|]+\|$/gm, '');
+
+  // Remove Source ID, Fecha de creación, Contexto cultural metadata lines
+  cleaned = cleaned.replace(/^Source ID:.*$/gm, '');
+  cleaned = cleaned.replace(/^Fecha de creación:.*$/gm, '');
+  cleaned = cleaned.replace(/^Contexto cultural:.*$/gm, '');
+
+  // Clean up excessive whitespace
+  cleaned = cleaned.replace(/\n{3,}/g, '\n\n').trim();
+
+  return cleaned || undefined;
+}
+
+/**
  * Transform API question format to App question format
  */
 function transformQuestion(apiQuestion: APIQuestion, grade: number, subject: string): AppQuestion {
@@ -75,7 +102,7 @@ function transformQuestion(apiQuestion: APIQuestion, grade: number, subject: str
     })),
     correctOptionId: apiQuestion.correct_answer,
     category: `${subject.toUpperCase()} :: ${apiQuestion.bundle_id}`,
-    explanation: apiQuestion.explanation,
+    explanation: cleanExplanation(apiQuestion.explanation),
     grade: grade,
     difficulty: mapDifficulty(apiQuestion.difficulty)
   };
@@ -149,9 +176,16 @@ export async function fetchQuestions(
     }
 
     const data = await response.json();
-    const questions: AppQuestion[] = data.questions.map((q: APIQuestion) =>
-      transformQuestion(q, grade, subject)
-    );
+
+    // Null-safe check for questions array
+    if (!data || !data.questions || !Array.isArray(data.questions)) {
+      console.warn(`⚠️ Invalid response structure for ${subject} grade ${grade}:`, data);
+      return [];
+    }
+
+    const questions: AppQuestion[] = data.questions
+      .filter((q: APIQuestion) => q && q.statement && q.options) // Filter invalid questions
+      .map((q: APIQuestion) => transformQuestion(q, grade, subject));
 
     questionCache.set(cacheKey, questions);
     console.log(`✅ Loaded ${questions.length} questions for ${subject} grade ${grade}`);
