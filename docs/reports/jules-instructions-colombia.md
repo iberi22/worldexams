@@ -2,37 +2,152 @@
 
 > **Asignación:** Generar packs de preguntas para Colombia (ICFES)
 > **Protocolo:** v2.0 (7 preguntas por pack)
-> **Fase inicial:** Grado 9° (Saber 9)
+> **Prioridad:** Grado 11° - Plan 105 Preguntas
 > **Tag:** `@jules` para activar
 
 ---
 
-## 📋 Contexto
+## 🚨 NUEVO: Sistema Anti-Duplicación Obligatorio
 
-Hemos analizado los packs existentes de Colombia y encontramos que **el Grado 9° necesita urgentemente más contenido**. Actualmente tiene solo 3 packs (1 por asignatura) y le faltan packs de Competencias Ciudadanas.
+**IMPORTANTE:** Antes de generar cualquier pack, DEBES consultar el registro de fuentes para evitar duplicados.
 
-**Documento de análisis completo:** [colombia-packs-status.md](./colombia-packs-status.md)
+### Workflow Obligatorio
+
+1. **ANTES de generar:**
+   ```powershell
+   # Consultar registry
+   $registry = Get-Content "docs/sources/questions-registry.json" | ConvertFrom-Json
+   $registry.questions | Format-Table pack_id, source, source_id
+   ```
+
+2. **Verificar que la fuente NO existe:**
+   - Si usas OpenTDB: Verificar que el URL/categoría no esté en registry
+   - Si usas Khan Academy: Verificar que el unit/lesson no esté usado
+   - Si usas Wikipedia: Verificar que el artículo no esté registrado
+
+3. **DESPUÉS de generar:**
+   - Actualizar `docs/sources/questions-registry.json` con entrada nueva
+   - Incluir: source_url, source_id, original_question_hash (SHA-256)
+
+**Documentación completa:** [docs/sources/README.md](../sources/README.md)
 
 ---
 
-## 🎯 Tarea Asignada - Fase 1
+## 📋 Contexto General
 
-### Objetivo
+World Exams tiene múltiples repositorios (uno por país). Este repo es para **Colombia (Saber 11)**.
 
-Crear **8 nuevos packs** para Grado 9° siguiendo el Protocolo v2.0:
+**Plan actual:** Generar 100+ preguntas para Grado 11° en 5 PRs durante 5 semanas.
 
-| Asignatura | Pack # | Tema Sugerido | Archivo Output |
-|------------|--------|---------------|----------------|
-| **Matemáticas** | 2 | Ecuaciones lineales | `CO-MAT-09-ecuaciones-002.json` |
-| **Matemáticas** | 3 | Geometría (áreas y perímetros) | `CO-MAT-09-geometria-003.json` |
-| **Lenguaje** | 2 | Comprensión inferencial | `CO-LEN-09-inferencial-002.json` |
-| **Lenguaje** | 3 | Tipología textual | `CO-LEN-09-tipologia-003.json` |
-| **Ciencias Naturales** | 2 | Ecosistemas colombianos | `CO-CNA-09-ecosistemas-002.json` |
-| **Ciencias Naturales** | 3 | Reacciones químicas | `CO-CNA-09-quimica-003.json` |
-| **Competencias Ciudadanas** | 1 | Derechos fundamentales | `CO-CIU-09-derechos-001.json` |
-| **Competencias Ciudadanas** | 2 | Convivencia y paz | `CO-CIU-09-convivencia-002.json` |
+**Documentos clave:**
+- [Plan 100+ Preguntas](./plan-100-preguntas-grado11.md)
+- [Sistema de Tracking](../sources/README.md)
+- [Protocolo v2.0](../QUESTION_GENERATION_PROTOCOL_V2.md)
 
-**Total:** 8 packs × 7 preguntas = **56 preguntas**
+---
+
+## 🎯 Tarea Asignada - Prioridad: PR #1 Matemáticas
+
+### Objetivo Inmediato
+
+Crear **3 packs de Matemáticas avanzadas** para Grado 11° siguiendo el Protocolo v2.0:
+
+### Objetivo Inmediato
+
+Crear **3 packs de Matemáticas avanzadas** para Grado 11° siguiendo el Protocolo v2.0:
+
+| Pack # | Tema | Competencia | Archivo Output | Template |
+|--------|------|-------------|----------------|----------|
+| **5** | Trigonometría | Razonamiento cuantitativo | `matematicas/5.json` | [PR1 Template](./PR-templates/PR1-matematicas-avanzadas.md) |
+| **6** | Probabilidad avanzada | Resolución de problemas | `matematicas/6.json` | [PR1 Template](./PR-templates/PR1-matematicas-avanzadas.md) |
+| **7** | Cálculo diferencial (límites) | Pensamiento matemático | `matematicas/7.json` | [PR1 Template](./PR-templates/PR1-matematicas-avanzadas.md) |
+
+**Total:** 3 packs × 7 preguntas = **21 preguntas**
+
+**Template detallado:** [docs/reports/PR-templates/PR1-matematicas-avanzadas.md](./PR-templates/PR1-matematicas-avanzadas.md)
+
+### Próximos PRs (Semanas 2-5)
+
+| PR | Semana | Asignatura | Packs | Preguntas | Template |
+|----|--------|------------|-------|-----------|----------|
+| #2 | 17 Dic | Lectura Crítica | 2 | 14 | [PR2](./PR-templates/PR2-lectura-critica-avanzada.md) |
+| #3 | 24 Dic | Ciencias Naturales | 2 | 14 | [PR3](./PR-templates/PR3-ciencias-naturales-avanzadas.md) |
+| #4 | 31 Dic | Sociales/Inglés/Info | 5 | 35 | [PR4](./PR-templates/PR4-mixto-sociales-ingles-informatica.md) |
+| #5 | 7 Ene | Ciencias Sociales | 3 | 21 | [PR5](./PR-templates/PR5-ciencias-sociales-avanzadas.md) |
+
+**Plan completo:** [plan-100-preguntas-grado11.md](./plan-100-preguntas-grado11.md)
+
+---
+
+## 🔍 CRÍTICO: Tracking de Fuentes
+
+### Antes de Generar (OBLIGATORIO)
+
+Ejecuta este script PowerShell para verificar si la fuente ya fue usada:
+
+```powershell
+function Test-QuestionSourceUsed {
+    param(
+        [string]$SourceUrl,
+        [string]$SourceId
+    )
+    
+    $registryPath = "docs/sources/questions-registry.json"
+    $registry = Get-Content $registryPath | ConvertFrom-Json
+    
+    $exists = $registry.questions | Where-Object {
+        $_.source_url -eq $SourceUrl -or $_.source_id -eq $SourceId
+    }
+    
+    if ($exists) {
+        Write-Host "❌ DUPLICADO: Esta fuente ya fue usada" -ForegroundColor Red
+        Write-Host "Pack existente: $($exists.pack_id)" -ForegroundColor Yellow
+        Write-Host "Fecha: $($exists.used_date)" -ForegroundColor Yellow
+        return $true
+    } else {
+        Write-Host "✅ NUEVO: Puedes usar esta fuente" -ForegroundColor Green
+        return $false
+    }
+}
+
+# Ejemplo de uso
+Test-QuestionSourceUsed -SourceUrl "https://www.khanacademy.org/math/trigonometry/unit-circle"
+```
+
+### Después de Generar (OBLIGATORIO)
+
+Agregar entrada al registry `docs/sources/questions-registry.json`:
+
+```json
+{
+  "pack_id": "CO-MAT-11-trigonometria-005",
+  "source": "Khan Academy",
+  "source_url": "https://www.khanacademy.org/math/trigonometry/unit-circle-trig-func",
+  "source_id": "khan:trig-unit-circle-005",
+  "original_question_hash": "sha256:...",
+  "used_date": "2025-12-10",
+  "country": "CO",
+  "grado": 11,
+  "asignatura": "Matemáticas",
+  "tema": "Trigonometría",
+  "pack_file": "api/v1/CO/icfes/11/matematicas/5.json",
+  "question_ids": [
+    "CO-MAT-11-trigonometria-005-v1",
+    "CO-MAT-11-trigonometria-005-v2",
+    "CO-MAT-11-trigonometria-005-v3",
+    "CO-MAT-11-trigonometria-005-v4",
+    "CO-MAT-11-trigonometria-005-v5",
+    "CO-MAT-11-trigonometria-005-v6",
+    "CO-MAT-11-trigonometria-005-v7"
+  ],
+  "notes": "Adaptado con contexto colombiano - Torre Colpatria, río Magdalena"
+}
+```
+
+**IMPORTANTE:** 
+- Actualizar `total_packs` y `total_questions` en el registry
+- Incrementar contador en `sources_summary` para la fuente usada
+- Generar SHA-256 hash si es contenido custom
 
 ---
 
@@ -127,59 +242,70 @@ Cada pack debe incluir referencias culturales colombianas:
 
 ### Metadata Global (top del archivo)
 
+**ACTUALIZADO para Grado 11:**
+
 ```json
 {
-  "id": "CO-[ASIGNATURA]-09-[TEMA]-[###]",
+  "id": "CO-MAT-11-trigonometria-005",
   "country": "CO",
-  "grado": 9,
-  "asignatura": "[Asignatura completa en español]",
-  "tema": "[Tema específico]",
+  "grado": 11,
+  "asignatura": "Matemáticas",
+  "tema": "Trigonometría",
   "protocol_version": "2.0",
   "total_questions": 7,
   "estado": "draft",
   "creador": "jules",
-  "generation_date": "2025-12-09",
-  "source": "OpenTDB",
-  "source_url": "https://opentdb.com",
-  "source_license": "CC BY-SA 4.0",
+  "generation_date": "2025-12-10",
+  "source": "Khan Academy",
+  "source_url": "https://www.khanacademy.org/math/trigonometry/unit-circle-trig-func",
+  "source_license": "CC BY-NC-SA 3.0",
   "questions": [...]
 }
 ```
+
+**Fuentes permitidas:**
+- **OpenTDB:** CC BY-SA 4.0 (https://opentdb.com)
+- **Khan Academy:** CC BY-NC-SA 3.0 (https://www.khanacademy.org)
+- **Wikipedia:** CC BY-SA 3.0 (https://wikipedia.org)
+- **Custom (AI):** Proprietary (generación propia)
+- **ICFES Públicas:** Public Domain (ejemplos liberados)
 
 ### Estructura de Cada Pregunta
 
 ```json
 {
-  "id": "CO-[ASIGNATURA]-09-[TEMA]-[###]-v[1-7]",
-  "difficulty": 1-5,
+  "id": "CO-MAT-11-trigonometria-005-v1",
+  "difficulty": 3,
   "type": "multiple_choice",
-  "statement": "[Enunciado con contexto colombiano]",
+  "statement": "En Bogotá, desde la cima de la Torre Colpatria (196 metros de altura), un observador mide un ángulo de depresión de 30° hacia un punto en la calle. ¿A qué distancia horizontal (en metros) está ese punto desde la base de la torre?",
   "options": [
     {
       "id": "a",
-      "text": "[Opción A]",
-      "isCorrect": true
-    },
-    {
-      "id": "b",
-      "text": "[Opción B]",
+      "text": "113 metros",
       "isCorrect": false
     },
     {
+      "id": "b",
+      "text": "339 metros",
+      "isCorrect": true
+    },
+    {
       "id": "c",
-      "text": "[Opción C]",
+      "text": "226 metros",
       "isCorrect": false
     },
     {
       "id": "d",
-      "text": "[Opción D]",
+      "text": "196 metros",
       "isCorrect": false
     }
   ],
-  "explanation": "[Explicación detallada de por qué A es correcta y por qué B, C, D están incorrectas]",
-  "competencia": "[Competencia específica del currículo ICFES]"
+  "explanation": "Este es un problema de trigonometría aplicada. El ángulo de depresión desde la torre es igual al ángulo de elevación desde el punto en la calle (ángulos alternos internos).\n\nUsamos la tangente:\ntan(30°) = altura / distancia horizontal\ntan(30°) = 196 / d\nd = 196 / tan(30°)\nd = 196 / 0.577\nd ≈ 339 metros\n\n**¿Por qué las otras opciones están mal?**\n- **A (113m):** Error al usar seno en lugar de tangente.\n- **C (226m):** Error de cálculo al usar tan(45°) en lugar de tan(30°).\n- **D (196m):** Confunde la altura con la distancia horizontal.\n\n**Contexto colombiano:** Torre Colpatria es el edificio más icónico de Bogotá.\n\n**Competencia evaluada:** Razonamiento cuantitativo - Aplicación de trigonometría en contextos reales.",
+  "competencia": "Razonamiento cuantitativo"
 }
 ```
+
+**Longitud mínima de explicación:** 50+ palabras (para Grado 11, idealmente 80+ palabras en asignaturas como Lectura Crítica)
 
 ---
 
@@ -193,27 +319,40 @@ Antes de crear el PR, verifica que cada pack cumpla con:
 - [ ] IDs únicos con sufijo `-v1` a `-v7`
 - [ ] Campo `protocol_version: "2.0"` presente
 - [ ] Campo `creador: "jules"` presente
-- [ ] Fecha de generación correcta
+- [ ] Fecha de generación correcta (YYYY-MM-DD)
+- [ ] **NUEVO:** Campos `source`, `source_url`, `source_license` presentes
+- [ ] **NUEVO:** Grado correcto (11 para plan actual)
 
 ### Contenido Pedagógico
-- [ ] Distribución de dificultades: 2 fáciles, 3 medias, 2 difíciles
-- [ ] Explicaciones de 50+ palabras por pregunta
+- [ ] Distribución de dificultades: 1 original (3), 2 fáciles (1-2), 2 medias (3), 2 difíciles (4-5)
+- [ ] Explicaciones de 50+ palabras por pregunta (80+ para Lectura Crítica)
 - [ ] Se explica por qué cada opción incorrecta está mal
 - [ ] Competencia ICFES identificada en cada pregunta
 - [ ] Distractores representan errores comunes (no opciones absurdas)
 
-### Localización Colombia
-- [ ] Al menos 1 referencia cultural por pack (ciudad, comida, personaje)
+### Localización Colombia (Grado 11)
+- [ ] Al menos 1 referencia cultural por pack (Torre Colpatria, TransMilenio, DANE, etc.)
 - [ ] Moneda en COP ($) si hay ejemplos numéricos
 - [ ] Lenguaje colombiano (no "vosotros", usar "ustedes")
-- [ ] Nombres comunes en Colombia (María, Juan, Camilo, Sofía)
-- [ ] Contexto geográfico correcto (ciudades reales, clima apropiado)
+- [ ] Nombres comunes en Colombia (Andrés, Camila, Santiago, Valentina)
+- [ ] Contexto geográfico correcto (Bogotá 2600m altitud, clima Medellín vs Cartagena)
+- [ ] Referencias culturales avanzadas (Acuerdos de Paz 2016, Constitución 1991, TLC, etc.)
 
-### Progresión de Dificultad
-- [ ] v1 (Original): Pregunta estándar del tema
-- [ ] v2-v3 (Fáciles): Reconocimiento básico, sin pasos complejos
-- [ ] v4-v5 (Medias): Aplicación práctica, análisis simple
-- [ ] v6-v7 (Difíciles): Multi-paso, síntesis, razonamiento complejo
+### Tracking de Fuentes (OBLIGATORIO)
+- [ ] **ANTES:** Consultaste `questions-registry.json` para verificar NO duplicado
+- [ ] **DESPUÉS:** Agregaste entrada al registry con todos los campos
+- [ ] Fuente tiene licencia compatible (CC BY-SA, CC BY-NC-SA, Public Domain)
+- [ ] `source_id` es único globalmente
+- [ ] Si es custom, generaste SHA-256 hash del texto original
+
+### Progresión de Dificultad (Protocol v2.0)
+- [ ] v1 (Original - dif. 3): Pregunta estándar del tema
+- [ ] v2 (Fácil A - dif. 1): Reconocimiento básico
+- [ ] v3 (Fácil B - dif. 2): Comprensión simple
+- [ ] v4 (Media A - dif. 3): Aplicación práctica
+- [ ] v5 (Media B - dif. 3): Análisis o comparación
+- [ ] v6 (Difícil A - dif. 4): Multi-paso o síntesis
+- [ ] v7 (Difícil B - dif. 5): Razonamiento complejo
 
 ---
 
@@ -222,23 +361,128 @@ Antes de crear el PR, verifica que cada pack cumpla con:
 Los archivos generados deben ir en:
 
 ```
-api/v1/CO/icfes/9/[asignatura]/[numero].json
+api/v1/CO/icfes/11/[asignatura]/[numero].json
 ```
 
-**Mapeo de asignaturas:**
+**Para PR #1 (Matemáticas Grado 11):**
+
+```
+api/v1/CO/icfes/11/matematicas/
+├── 5.json     # Trigonometría
+├── 6.json     # Probabilidad avanzada
+└── 7.json     # Cálculo diferencial
+```
+
+**Mapeo de asignaturas (Grado 11):**
 
 | Asignatura | Directorio | Ejemplo |
 |------------|-----------|---------|
-| Matemáticas | `matematicas/` | `matematicas/2.json` |
-| Lenguaje | `lenguaje/` | `lenguaje/2.json` |
-| Ciencias Naturales | `ciencias_naturales/` | `ciencias_naturales/2.json` |
-| Competencias Ciudadanas | `competencias_ciudadanas/` | `competencias_ciudadanas/1.json` |
+| Matemáticas | `matematicas/` | `matematicas/5.json` |
+| Lectura Crítica | `lectura-critica/` | `lectura-critica/2.json` |
+| Ciencias Naturales | `ciencias-naturales/` | `ciencias-naturales/3.json` |
+| Sociales y Ciudadanas | `sociales-ciudadanas/` | `sociales-ciudadanas/3.json` |
+| Inglés | `ingles/` | `ingles/2.json` |
+| Informática | `informatica/` | `informatica/2.json` |
+| Ciencias Sociales | `ciencias-sociales/` | `ciencias-sociales/3.json` |
 
-**Nota:** Si el directorio no existe (ej: `competencias_ciudadanas`), créalo.
+**Nota:** Los directorios ya existen. Agrega los archivos numerados según el template del PR.
 
 ---
 
-## 🎓 Temas Específicos por Asignatura
+## 🎓 Especificaciones PR #1 - Matemáticas Avanzadas
+
+### Pack 5 - Trigonometría
+
+**Competencia:** Razonamiento cuantitativo
+
+**Conceptos a evaluar:**
+- Funciones trigonométricas (seno, coseno, tangente)
+- Círculo unitario y ángulos notables (30°, 45°, 60°)
+- Identidades trigonométricas básicas (sen² + cos² = 1)
+- Ecuaciones trigonométricas simples
+- Aplicaciones: altura de edificios, navegación
+
+**Contexto colombiano obligatorio:**
+- Torre Colpatria (Bogotá - 196m)
+- Río Magdalena (navegación)
+- Puente Pumarejo (Barranquilla)
+
+**Progresión de dificultad:**
+1. **v1 (dif. 3):** Evaluar sen, cos, tan en ángulos notables (30°, 45°, 60°)
+2. **v2 (dif. 1):** Reconocer valores de seno en círculo unitario
+3. **v3 (dif. 2):** Calcular coseno de ángulo usando calculadora
+4. **v4 (dif. 3):** Aplicar identidad pitagórica (sen² + cos² = 1)
+5. **v5 (dif. 3):** Resolver ecuación trigonométrica simple
+6. **v6 (dif. 4):** Problema de altura (edificio Torre Colpatria Bogotá)
+7. **v7 (dif. 5):** Navegación en río Magdalena (ángulos de elevación/depresión)
+
+**Fuente sugerida:** Khan Academy - Trigonometry unit circle
+
+---
+
+### Pack 6 - Probabilidad Avanzada
+
+**Competencia:** Resolución de problemas
+
+**Conceptos a evaluar:**
+- Probabilidad básica (eventos, espacio muestral)
+- Probabilidad condicional
+- Eventos independientes vs dependientes
+- Distribuciones básicas
+- Aplicaciones con datos reales
+
+**Contexto colombiano obligatorio:**
+- Datos meteorológicos de Medellín (lluvia frecuente)
+- Estadísticas COVID Colombia (DANE)
+- Elecciones presidenciales Colombia
+
+**Progresión de dificultad:**
+1. **v1 (dif. 3):** Probabilidad de sacar bola roja de urna
+2. **v2 (dif. 1):** Identificar evento seguro vs imposible
+3. **v3 (dif. 2):** Calcular probabilidad con monedas
+4. **v4 (dif. 3):** Probabilidad de llover en Medellín (datos meteorológicos)
+5. **v5 (dif. 3):** Eventos independientes (lanzar 2 dados)
+6. **v6 (dif. 4):** Probabilidad condicional (COVID en Colombia 2020)
+7. **v7 (dif. 5):** Distribución binomial (votos elecciones colombianas)
+
+**Fuente sugerida:** OpenTDB Statistics category o Khan Academy Probability
+
+---
+
+### Pack 7 - Cálculo Diferencial (Límites)
+
+**Competencia:** Pensamiento matemático
+
+**Conceptos a evaluar:**
+- Concepto intuitivo de límite
+- Límites por sustitución directa
+- Límites laterales
+- Límites al infinito
+- Indeterminaciones básicas (0/0)
+- Aplicación: Regla de L'Hôpital
+
+**Contexto colombiano obligatorio:**
+- Crecimiento poblacional Bogotá (DANE)
+- Velocidad de expansión urbana Medellín
+- Límites de capacidad TransMilenio
+
+**Progresión de dificultad:**
+1. **v1 (dif. 3):** Calcular límite algebraico simple
+2. **v2 (dif. 1):** Reconocer gráfica de función continua
+3. **v3 (dif. 2):** Evaluar límite por sustitución directa
+4. **v4 (dif. 3):** Límite lateral (función partida)
+5. **v5 (dif. 3):** Límite al infinito (función racional)
+6. **v6 (dif. 4):** Resolver indeterminación 0/0
+7. **v7 (dif. 5):** Aplicar L'Hôpital (velocidad de crecimiento población Bogotá)
+
+**Fuente sugerida:** Khan Academy - Differential Calculus (Limits)
+
+---
+
+## 🎓 Temas Específicos Grado 9 (ARCHIVADO - No prioritario)
+
+<details>
+<summary>Ver temas Grado 9 (click para expandir)</summary>
 
 ### Matemáticas Pack 2 - Ecuaciones Lineales
 
