@@ -6,6 +6,9 @@
   let showComments = false;
   let isLoading = false;
   let discussionContainer: HTMLElement;
+  
+  // Unique ID for this component instance to avoid conflicts with multiple instances
+  const uniqueId = `giscus-${questionId}-${Math.random().toString(36).substr(2, 9)}`;
 
   function loadComments() {
     showComments = true;
@@ -17,9 +20,6 @@
 
       const script = document.createElement('script');
       script.src = 'https://giscus.app/client.js';
-      script.setAttribute('data-repo', 'iberi22/worldexams');
-      script.setAttribute('data-repo-id', 'R_kgDOM1qDrg'); // Updated Repo ID for worldexams if needed, checking existing...
-      // WAIT using the existing IDs from previous file to be safe: iberi22/saberparatodos
       script.setAttribute('data-repo', 'iberi22/saberparatodos');
       script.setAttribute('data-repo-id', 'R_kgDOQdUufA');
       script.setAttribute('data-category', 'Q&A');
@@ -44,6 +44,15 @@
       discussionContainer.appendChild(script);
     }, 50);
   }
+
+  // Cleanup on destroy to prevent memory leaks
+  onMount(() => {
+    return () => {
+      if (discussionContainer) {
+        discussionContainer.innerHTML = '';
+      }
+    };
+  });
 </script>
 
 <div class="w-full border-t border-white/10 pt-4 mt-4">
@@ -70,6 +79,7 @@
       </div>
 
       <div
+        id={uniqueId}
         class="giscus min-h-[100px] bg-black/20 rounded-lg p-2"
         bind:this={discussionContainer}
       ></div>
