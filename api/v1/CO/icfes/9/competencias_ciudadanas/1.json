@@ -1,0 +1,234 @@
+{
+  "id": "CO-CIU-09-derechos-001",
+  "country": "CO",
+  "grado": 9,
+  "asignatura": "Competencias Ciudadanas",
+  "tema": "Derechos fundamentales y Constitución",
+  "protocol_version": "2.0",
+  "total_questions": 7,
+  "estado": "draft",
+  "creador": "Copilot",
+  "generation_date": "2025-12-09",
+  "source": "ICFES - Currículo Nacional",
+  "source_url": "https://www.icfes.gov.co",
+  "source_license": "Educativo",
+  "questions": [
+    {
+      "id": "CO-CIU-09-derechos-001-v1",
+      "number": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "statement": "En el colegio de Andrés en Bogotá, un profesor prohibió a una estudiante usar su hiyab (velo islámico) argumentando que \"todos deben vestir igual\". La estudiante y sus padres consideran que esto viola sus derechos. Según la Constitución Política de Colombia de 1991, ¿qué derecho fundamental está siendo vulnerado?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Derecho a la libertad de culto y manifestación religiosa",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Derecho a la educación",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Derecho a la igualdad",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "Derecho a la libertad de expresión",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "**¿Por qué A es correcta?**\nEl artículo 19 de la Constitución de 1991 garantiza la **libertad de cultos**: \"Se garantiza la libertad de cultos. Toda persona tiene derecho a profesar libremente su religión y a difundirla...\". El uso del hiyab es una manifestación externa de la fe islámica, protegida constitucionalmente. Prohibir su uso en el colegio vulnera este derecho fundamental.\n\n**¿Por qué las otras están mal?**\n- **B) Derecho a la educación:** Aunque está relacionado (el acceso a educación no puede condicionarse a renunciar a creencias), el núcleo del problema es la libertad religiosa, no el acceso educativo per se.\n- **C) Derecho a la igualdad:** Si bien Colombia es un Estado pluriétnico y multicultural (Art. 7), el caso específico trata sobre libertad religiosa. La igualdad se vulneraría si se discrimina, pero la raíz es la libertad de culto.\n- **D) Derecho a la libertad de expresión:** La expresión es más amplia (ideas, opiniones). El hiyab no es principalmente una \"expresión\", sino una práctica religiosa.\n\n**Contexto colombiano:** Colombia es un país laico (no hay religión oficial) desde 1991, y la Corte Constitucional ha protegido símbolos religiosos en colegios públicos (caso del velo, kipá judío, etc.).\n\n**Competencia evaluada:** Conocimiento de la Constitución - derechos fundamentales (libertad de cultos).",
+      "competencia": "Conocimiento - Constitución y derechos fundamentales"
+    },
+    {
+      "id": "CO-CIU-09-derechos-001-v2",
+      "number": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "statement": "¿En qué año se promulgó la actual Constitución Política de Colombia?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1991",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "1886",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "1810",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "2000",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "**¿Por qué A es correcta?**\nLa Constitución Política de Colombia vigente fue promulgada el **4 de julio de 1991** por la Asamblea Nacional Constituyente. Esta Constitución reemplazó a la de 1886 y es conocida como la \"Constitución de los derechos\" por su amplio catálogo de derechos fundamentales.\n\n**¿Por qué las otras están mal?**\n- **B) 1886:** Esta fue la Constitución anterior, que duró 105 años hasta ser reemplazada.\n- **C) 1810:** Año del Grito de Independencia (20 de julio), no hubo Constitución nacional en ese año.\n- **D) 2000:** No se promulgó ninguna Constitución. Hubo reformas constitucionales, pero la base sigue siendo la de 1991.\n\n**Dato cultural:** La Constitución de 1991 introdujo la tutela (acción para proteger derechos fundamentales), reconoció a Colombia como Estado pluriétnico y multicultural, y fortaleció los mecanismos de participación ciudadana.\n\n**Competencia evaluada:** Conocimiento básico - historia constitucional de Colombia.",
+      "competencia": "Conocimiento - historia constitucional"
+    },
+    {
+      "id": "CO-CIU-09-derechos-001-v3",
+      "number": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "statement": "Carolina vive en Medellín y desea conocer cuáles son sus derechos fundamentales como ciudadana colombiana. ¿En cuál de los siguientes documentos puede encontrar esta información de manera oficial?",
+      "options": [
+        {
+          "id": "a",
+          "text": "La Constitución Política de Colombia",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "El Código Civil",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "El manual de convivencia de su colegio",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "La Declaración Universal de los Derechos Humanos (ONU)",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "**¿Por qué A es correcta?**\nLa **Constitución Política de Colombia** (1991) es la norma suprema del país. El Título II (artículos 11 a 41) enumera los **derechos fundamentales** de todos los colombianos: vida, igualdad, libertad, debido proceso, intimidad, libre desarrollo de la personalidad, etc. Es el documento oficial y vinculante para el Estado colombiano.\n\n**¿Por qué las otras están mal?**\n- **B) Código Civil:** Regula relaciones privadas (contratos, familia, propiedad), no derechos fundamentales.\n- **C) Manual de convivencia:** Define normas escolares específicas, no derechos constitucionales nacionales. Debe respetar la Constitución, pero no la reemplaza.\n- **D) Declaración Universal (ONU):** Es un documento internacional importante y Colombia la reconoce, pero los derechos **fundamentales específicos para ciudadanos colombianos** están en la Constitución nacional. La Declaración sirve como referencia, no como ley vinculante directa.\n\n**Competencia evaluada:** Conocimiento - fuentes del derecho y jerarquía normativa.",
+      "competencia": "Conocimiento - fuentes normativas"
+    },
+    {
+      "id": "CO-CIU-09-derechos-001-v4",
+      "number": 4,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "statement": "En Cartagena, don Pedro lleva 6 meses esperando respuesta de la alcaldía sobre una solicitud para reparar su vivienda afectada por las lluvias. La alcaldía no ha respondido ni positiva ni negativamente. ¿Qué mecanismo constitucional puede usar don Pedro para exigir una respuesta?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Derecho de petición",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Acción de tutela",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Acción popular",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "Habeas corpus",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "**¿Por qué A es correcta?**\nEl **derecho de petición** (artículo 23 de la Constitución) garantiza que toda persona puede presentar solicitudes respetuosas a las autoridades y **debe recibir respuesta en máximo 15 días hábiles** (o el plazo que establezca la ley). Si la alcaldía no responde en 6 meses, está violando este derecho. Don Pedro puede:\n1. Enviar otra petición recordando la primera.\n2. Presentar una **tutela** por violación del derecho de petición (sí, se puede tutelar el derecho de petición cuando no hay respuesta).\n\n**¿Por qué las otras están mal?**\n- **B) Acción de tutela:** Es un mecanismo para proteger derechos fundamentales cuando están siendo vulnerados. Aunque se **puede** usar tutela para proteger el derecho de petición, el mecanismo primario y directo para solicitar y obtener respuesta es el **derecho de petición** mismo.\n- **C) Acción popular:** Se usa para proteger derechos colectivos (medio ambiente, espacio público, patrimonio cultural), no derechos individuales como este caso.\n- **D) Habeas corpus:** Se usa cuando una persona es privada ilegalmente de su libertad (detención arbitraria). No aplica aquí.\n\n**Competencia evaluada:** Aplicación - mecanismos de protección de derechos.",
+      "competencia": "Aplicación - mecanismos constitucionales"
+    },
+    {
+      "id": "CO-CIU-09-derechos-001-v5",
+      "number": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "statement": "Lea la siguiente situación:\n\n\"En Cali, una empresa constructora está demoliendo un parque público histórico sin permisos para construir un centro comercial. Los vecinos se organizan y quieren detener la obra porque consideran que se están afectando derechos de toda la comunidad.\"\n\n¿Cuál es el mecanismo constitucional más apropiado para que los vecinos defiendan el parque?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Acción popular",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Acción de tutela",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Derecho de petición",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "Acción de cumplimiento",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "**¿Por qué A es correcta?**\nLa **acción popular** (artículo 88 de la Constitución) es el mecanismo para proteger **derechos e intereses colectivos**, como:\n- Espacio público (el parque)\n- Patrimonio cultural (si el parque es histórico)\n- Medio ambiente sano\n- Moralidad administrativa (si la construcción es ilegal)\n\nCualquier persona puede interponer una acción popular, no necesita ser directamente afectada. Es el mecanismo ideal para este caso porque protege intereses de toda la comunidad.\n\n**¿Por qué las otras están mal?**\n- **B) Acción de tutela:** Protege derechos fundamentales **individuales** (vida, libertad, debido proceso). No es para derechos colectivos como el espacio público.\n- **C) Derecho de petición:** Sirve para solicitar información o respuestas a las autoridades, no para **detener** una obra ilegal. Sería ineficaz en este caso urgente.\n- **D) Acción de cumplimiento:** Se usa cuando una autoridad no cumple una ley o acto administrativo. Aquí el problema no es incumplimiento de una norma por omisión, sino una acción activa (demolición) que viola derechos colectivos.\n\n**Contexto cultural:** En Colombia, las acciones populares han sido exitosas para proteger humedales en Bogotá, playas en Cartagena, y parques históricos en diversas ciudades.\n\n**Competencia evaluada:** Aplicación - mecanismos de protección de derechos colectivos.",
+      "competencia": "Aplicación - derechos colectivos"
+    },
+    {
+      "id": "CO-CIU-09-derechos-001-v6",
+      "number": 6,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "statement": "Analice la siguiente situación compleja:\n\n\"Juliana, de 17 años, vive en Bucaramanga. Está embarazada y quiere seguir asistiendo a su colegio público, pero la rectora le informa que 'por seguridad y para no dar mal ejemplo', debe retirarse hasta después del parto. Los padres de Juliana consideran esto injusto.\"\n\n¿Qué análisis es correcto desde la perspectiva de derechos fundamentales?",
+      "options": [
+        {
+          "id": "a",
+          "text": "El colegio está violando los derechos a la educación, igualdad y libre desarrollo de la personalidad de Juliana. Ella puede presentar tutela.",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "El colegio tiene razón por seguridad. El embarazo es una condición especial que justifica la separación temporal.",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Juliana debe esperar porque dio 'mal ejemplo', y el manual de convivencia está por encima de los derechos.",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "Es una decisión de los padres y el colegio, el Estado no debe intervenir en asuntos privados.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "**¿Por qué A es correcta?**\nLa Corte Constitucional de Colombia ha sido **enfática** en múltiples sentencias (T-1531/96, T-656/98, entre otras) que:\n\n1. **Derecho a la educación:** Ninguna estudiante puede ser expulsada o separada por embarazo. La educación es un derecho fundamental de los niños (Art. 44) y progresivo de los adolescentes.\n\n2. **Derecho a la igualdad:** Discriminar por embarazo es una forma de **discriminación por sexo** prohibida constitucionalmente (Art. 13). Solo las mujeres quedan embarazadas, entonces esta medida es sexista.\n\n3. **Libre desarrollo de la personalidad:** Juliana tiene derecho a tomar decisiones sobre su proyecto de vida sin que el Estado (colegio público) la sancione moralmente.\n\n4. **Protección especial:** Las mujeres embarazadas tienen protección constitucional reforzada (Art. 43).\n\nJuliana puede presentar **acción de tutela** contra el colegio (entidad pública) y muy probablemente ganará. La jurisprudencia colombiana es clara: el embarazo adolescente no justifica exclusión educativa.\n\n**¿Por qué las otras están mal?**\n- **B) Seguridad:** No existe evidencia de que asistir a clases durante el embarazo (sin complicaciones médicas) sea inseguro. Si hubiera riesgo, el colegio debe adaptar condiciones, no expulsar.\n- **C) Manual de convivencia:** Ningún manual puede violar derechos fundamentales. La Constitución está por encima de cualquier reglamento interno. \"Dar mal ejemplo\" es un juicio moral que no justifica restricción de derechos.\n- **D) Asunto privado:** La educación es un derecho fundamental que el Estado **debe** garantizar. No es un \"asunto privado\", y el Estado (vía Corte Constitucional) sí debe intervenir cuando se violan derechos.\n\n**Contexto cultural:** Colombia tiene altas tasas de embarazo adolescente, especialmente en zonas rurales. La Corte ha protegido a estudiantes embarazadas para evitar que abandonen el sistema educativo, perpetuando ciclos de pobreza.\n\n**Competencia evaluada:** Pensamiento crítico - análisis de conflictos de derechos y jurisprudencia constitucional.",
+      "competencia": "Pensamiento crítico - conflictos de derechos"
+    },
+    {
+      "id": "CO-CIU-09-derechos-001-v7",
+      "number": 7,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "statement": "Lea el siguiente caso complejo:\n\n\"En un colegio privado de Bogotá, un estudiante de 16 años publicó en redes sociales críticas muy duras contra el rector, acusándolo de 'corrupto' y 'ladrón' por el manejo de las cuotas escolares. El rector expulsó al estudiante argumentando 'difamación e injuria'. Los padres presentan tutela argumentando libertad de expresión. El rector responde que el colegio es privado y tiene autonomía para decidir.\"\n\n¿Qué análisis jurídico es más completo y correcto?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hay conflicto entre libertad de expresión del estudiante y buen nombre del rector. La tutela procede porque colegios privados también deben respetar derechos fundamentales. La expulsión es desproporcionada.",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "El colegio privado tiene razón. La autonomía privada prevalece sobre la libertad de expresión del estudiante.",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "El estudiante tiene libertad de expresión absoluta. Puede decir lo que quiera sin consecuencias porque es menor de edad.",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "La tutela no procede porque el colegio es privado. Solo el Estado debe respetar derechos fundamentales.",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "**¿Por qué A es correcta?**\nEste es un caso de **conflicto de derechos fundamentales** que la Corte Constitucional ha abordado en varias sentencias:\n\n**1. Tutela contra particulares:**\nAunque el colegio es privado, la tutela **sí procede** contra particulares (Art. 86 Constitución) cuando:\n- El particular presta un servicio público (educación lo es - Art. 67).\n- La persona está en estado de subordinación o indefensión (estudiante vs rector).\n\n**2. Conflicto de derechos:**\n- **Derecho del estudiante:** Libertad de expresión (Art. 20) y educación (Art. 67).\n- **Derecho del rector:** Buen nombre y honra (Art. 15).\n\n**3. Test de proporcionalidad:**\nLa Corte debe ponderar:\n- ¿Hay pruebas de las acusaciones del estudiante? Si hay indicios de corrupción real, la expresión está **protegida** (interés público).\n- ¿La forma fue adecuada? Decir \"corrupto\" y \"ladrón\" sin pruebas puede ser difamatorio.\n- ¿La sanción (expulsión) es proporcional? Probablemente NO. Hay medidas menos graves: amonestación, suspensión, disculpa pública.\n\n**4. Protección reforzada:**\nLos niños y adolescentes tienen **prevalencia de derechos** (Art. 44). Expulsarlo afecta su derecho a la educación, que es fundamental.\n\n**Jurisprudencia colombiana:**\n- Sentencia T-967/07: La Corte protegió a un estudiante que criticó a su colegio en un periódico estudiantil.\n- Sentencia T-905/11: La libertad de expresión de estudiantes tiene límites, pero la sanción debe ser proporcional.\n\n**Resultado probable:**\n- Si hay evidencia de corrupción → Estudiante gana, se reintegra.\n- Si NO hay evidencia y difamó → Rector tiene razón en sancionar, pero expulsión es desproporcionada. Se ordena sanción menor (suspensión).\n\n**¿Por qué las otras están mal?**\n- **B) Autonomía privada prevalece:** Falso. Los colegios privados deben respetar derechos fundamentales cuando prestan servicio público de educación. No hay \"inmunidad\" de particulares.\n- **C) Libertad absoluta:** Ningún derecho es absoluto. La libertad de expresión tiene límites: no puedes difamar sin pruebas. Ser menor no te exime de responsabilidad, solo te da protección reforzada.\n- **D) Tutela no procede:** Falso. La tutela SÍ procede contra particulares en casos específicos (ver punto 1).\n\n**Competencia evaluada:** Pensamiento crítico avanzado - ponderación de derechos, test de proporcionalidad, aplicación de jurisprudencia.",
+      "competencia": "Pensamiento crítico - ponderación constitucional"
+    }
+  ]
+}

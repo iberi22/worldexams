@@ -1,0 +1,234 @@
+{
+  "id": "CO-MAT-09-ecuaciones-002",
+  "country": "CO",
+  "grado": 9,
+  "asignatura": "Matemáticas",
+  "tema": "Ecuaciones lineales",
+  "protocol_version": "2.0",
+  "total_questions": 7,
+  "estado": "draft",
+  "creador": "Copilot",
+  "generation_date": "2025-12-09",
+  "source": "OpenTDB",
+  "source_url": "https://opentdb.com",
+  "source_license": "CC BY-SA 4.0",
+  "questions": [
+    {
+      "id": "CO-MAT-09-ecuaciones-002-v1",
+      "number": 1,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "statement": "En una tienda Éxito de Medellín, María compra frutas para su familia. Compra manzanas a $3,500 COP cada una y paga un total de $17,500 COP. Si llamamos $x$ al número de manzanas que compró, ¿qué ecuación representa esta situación?",
+      "options": [
+        {
+          "id": "a",
+          "text": "3,500x = 17,500",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "x + 3,500 = 17,500",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "3,500 + x = 17,500",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "17,500x = 3,500",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "**¿Por qué A es correcta?**\nCada manzana cuesta $3,500 COP, entonces $x$ manzanas cuestan $3,500x$ COP. El total pagado es $17,500 COP, por lo tanto: $3,500x = 17,500$.\n\n**¿Por qué las otras están mal?**\n- **B) x + 3,500 = 17,500:** Esto sugiere que se están sumando cantidades, no multiplicando. Confunde suma con multiplicación.\n- **C) 3,500 + x = 17,500:** Similar al error B, representa una suma en lugar del costo total de múltiples manzanas.\n- **D) 17,500x = 3,500:** Invierte la relación. Esto sugeriría que 17,500 es el costo unitario, lo cual no tiene sentido en el contexto.\n\n**Competencia evaluada:** Razonamiento cuantitativo - traducción de situaciones verbales a ecuaciones algebraicas.",
+      "competencia": "Razonamiento cuantitativo - modelación algebraica"
+    },
+    {
+      "id": "CO-MAT-09-ecuaciones-002-v2",
+      "number": 2,
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "statement": "Si $x = 5$, ¿cuál de las siguientes ecuaciones es verdadera?",
+      "options": [
+        {
+          "id": "a",
+          "text": "2x = 10",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "x + 2 = 6",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "3x = 12",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "x - 1 = 3",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "**¿Por qué A es correcta?**\nSi sustituimos $x = 5$ en la ecuación $2x = 10$, obtenemos: $2(5) = 10$ → $10 = 10$ ✓\n\n**¿Por qué las otras están mal?**\n- **B) x + 2 = 6:** Sustituyendo: $5 + 2 = 7 \\neq 6$. Falso.\n- **C) 3x = 12:** Sustituyendo: $3(5) = 15 \\neq 12$. Falso.\n- **D) x - 1 = 3:** Sustituyendo: $5 - 1 = 4 \\neq 3$. Falso.\n\n**Competencia evaluada:** Verificación de soluciones - sustitución directa.",
+      "competencia": "Comunicación - verificación de soluciones"
+    },
+    {
+      "id": "CO-MAT-09-ecuaciones-002-v3",
+      "number": 3,
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "statement": "En el Parque Explora de Medellín, Camilo tiene $12,000 COP y gasta $x$ pesos en la entrada. Después de pagar, le quedan $4,000 COP. ¿Qué ecuación representa esta situación?",
+      "options": [
+        {
+          "id": "a",
+          "text": "12,000 - x = 4,000",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "x - 12,000 = 4,000",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "12,000 + x = 4,000",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "x + 4,000 = 12,000",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "**¿Por qué A es correcta?**\nCamilo empieza con $12,000 COP. Si gasta $x$ pesos, le quedan: $12,000 - x$. Sabemos que le quedan $4,000 COP, entonces: $12,000 - x = 4,000$.\n\n**¿Por qué las otras están mal?**\n- **B) x - 12,000 = 4,000:** Invierte el orden de la resta. Sugeriría que Camilo empezó con $x$ y restó $12,000$.\n- **C) 12,000 + x = 4,000:** Suma en lugar de restar, lo cual no representa un gasto.\n- **D) x + 4,000 = 12,000:** Esta ecuación es equivalente a la correcta (despejando se obtiene $x = 8,000$), pero no representa directamente \"después de gastar le quedan $4,000\".\n\n**Competencia evaluada:** Razonamiento cuantitativo - modelación de situaciones de pérdida o gasto.",
+      "competencia": "Razonamiento cuantitativo - problemas verbales"
+    },
+    {
+      "id": "CO-MAT-09-ecuaciones-002-v4",
+      "number": 4,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "statement": "En una heladería en Cartagena, un helado de vainilla cuesta $5,000 COP y cada topping adicional cuesta $1,500 COP. Si Sofía paga $11,000 COP en total, ¿cuántos toppings adicionales compró?",
+      "options": [
+        {
+          "id": "a",
+          "text": "4 toppings",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "2 toppings",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "3 toppings",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "6 toppings",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "**¿Por qué A es correcta?**\nLa ecuación que representa la situación es: $5,000 + 1,500x = 11,000$, donde $x$ es el número de toppings.\n\nDespejamos:\n$1,500x = 11,000 - 5,000$\n$1,500x = 6,000$\n$x = \\frac{6,000}{1,500} = 4$\n\n**Verificación:** $5,000 + 1,500(4) = 5,000 + 6,000 = 11,000$ ✓\n\n**¿Por qué las otras están mal?**\n- **B) 2 toppings:** $5,000 + 1,500(2) = 5,000 + 3,000 = 8,000 \\neq 11,000$. Error al dividir.\n- **C) 3 toppings:** $5,000 + 1,500(3) = 5,000 + 4,500 = 9,500 \\neq 11,000$. Cálculo incorrecto.\n- **D) 6 toppings:** $5,000 + 1,500(6) = 5,000 + 9,000 = 14,000 \\neq 11,000$. Dividió incorrectamente $11,000$ entre $1,500$.\n\n**Competencia evaluada:** Resolución de problemas - ecuaciones con término constante.",
+      "competencia": "Resolución - problemas de costo y precio"
+    },
+    {
+      "id": "CO-MAT-09-ecuaciones-002-v5",
+      "number": 5,
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "statement": "En una fábrica de arepas en Bogotá, la producción diaria $P$ (en unidades) depende del número de empleados $e$ según la ecuación: $P = 50e + 100$. Si un día se produjeron 350 arepas, ¿cuántos empleados trabajaron?",
+      "options": [
+        {
+          "id": "a",
+          "text": "5 empleados",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "4 empleados",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "6 empleados",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "7 empleados",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "**¿Por qué A es correcta?**\nSabemos que $P = 350$. Sustituimos en la ecuación:\n$350 = 50e + 100$\n\nDespejamos $e$:\n$350 - 100 = 50e$\n$250 = 50e$\n$e = \\frac{250}{50} = 5$\n\n**Verificación:** $P = 50(5) + 100 = 250 + 100 = 350$ ✓\n\n**¿Por qué las otras están mal?**\n- **B) 4 empleados:** $P = 50(4) + 100 = 200 + 100 = 300 \\neq 350$. Error en la división.\n- **C) 6 empleados:** $P = 50(6) + 100 = 300 + 100 = 400 \\neq 350$. Sobreestimó.\n- **D) 7 empleados:** $P = 50(7) + 100 = 350 + 100 = 450 \\neq 350$. No restó el término constante antes de dividir.\n\n**Competencia evaluada:** Razonamiento cuantitativo - funciones lineales aplicadas.",
+      "competencia": "Razonamiento cuantitativo - funciones en contexto"
+    },
+    {
+      "id": "CO-MAT-09-ecuaciones-002-v6",
+      "number": 6,
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "statement": "En un café de la zona T de Bogotá, el costo de un café es $4,000 COP y el de un jugo es $6,000 COP. Si Juan compró 3 cafés y algunos jugos, y pagó en total $30,000 COP, ¿cuántos jugos compró?",
+      "options": [
+        {
+          "id": "a",
+          "text": "3 jugos",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "2 jugos",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "4 jugos",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "5 jugos",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "**¿Por qué A es correcta?**\nPrimero calculamos cuánto pagó Juan por los 3 cafés:\n$3 \\times 4,000 = 12,000$ COP\n\nLe quedan: $30,000 - 12,000 = 18,000$ COP para jugos.\n\nSi cada jugo cuesta $6,000$ COP:\n$6,000x = 18,000$\n$x = \\frac{18,000}{6,000} = 3$ jugos\n\n**Verificación:** $3(4,000) + 3(6,000) = 12,000 + 18,000 = 30,000$ ✓\n\n**¿Por qué las otras están mal?**\n- **B) 2 jugos:** $12,000 + 2(6,000) = 12,000 + 12,000 = 24,000 \\neq 30,000$. No gastó todo el dinero.\n- **C) 4 jugos:** $12,000 + 4(6,000) = 12,000 + 24,000 = 36,000 \\neq 30,000$. Se pasa del presupuesto.\n- **D) 5 jugos:** $12,000 + 5(6,000) = 12,000 + 30,000 = 42,000 \\neq 30,000$. Error grave, casi duplica el costo.\n\n**Competencia evaluada:** Resolución - problemas multi-paso con dos productos.",
+      "competencia": "Resolución - problemas multi-paso"
+    },
+    {
+      "id": "CO-MAT-09-ecuaciones-002-v7",
+      "number": 7,
+      "difficulty": 5,
+      "type": "multiple_choice",
+      "statement": "En una empresa de transporte en Cali, el costo de un viaje en taxi incluye una tarifa base de $5,000 COP más $2,000 COP por cada kilómetro recorrido. Si al final del viaje el taxímetro marca $29,000 COP, pero el taxista aplica un descuento del 10% por ser cliente frecuente, ¿cuántos kilómetros recorrió el cliente si pagó $26,100 COP después del descuento?",
+      "options": [
+        {
+          "id": "a",
+          "text": "12 km",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "10 km",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "11 km",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "13 km",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "**¿Por qué A es correcta?**\nEste problema requiere trabajo inverso. Primero encontramos el costo antes del descuento.\n\nSi pagó $26,100$ COP después de un descuento del 10%, entonces pagó el 90% del costo original:\n$0.90 \\times \\text{Costo original} = 26,100$\n$\\text{Costo original} = \\frac{26,100}{0.90} = 29,000$ COP ✓\n\nAhora, sabemos que el costo se calcula como:\n$\\text{Costo} = 5,000 + 2,000k$ (donde $k$ = kilómetros)\n\n$29,000 = 5,000 + 2,000k$\n$29,000 - 5,000 = 2,000k$\n$24,000 = 2,000k$\n$k = \\frac{24,000}{2,000} = 12$ km\n\n**Verificación completa:**\n- Costo antes de descuento: $5,000 + 2,000(12) = 5,000 + 24,000 = 29,000$ COP ✓\n- Descuento 10%: $29,000 \\times 0.10 = 2,900$ COP\n- Costo final: $29,000 - 2,900 = 26,100$ COP ✓\n\n**¿Por qué las otras están mal?**\n- **B) 10 km:** Costo = $5,000 + 2,000(10) = 25,000$ COP. Con descuento: $25,000 \\times 0.90 = 22,500$ COP ≠ $26,100$. Se quedó corto.\n- **C) 11 km:** Costo = $5,000 + 2,000(11) = 27,000$ COP. Con descuento: $27,000 \\times 0.90 = 24,300$ COP ≠ $26,100$. Aún insuficiente.\n- **D) 13 km:** Costo = $5,000 + 2,000(13) = 31,000$ COP. Con descuento: $31,000 \\times 0.90 = 27,900$ COP ≠ $26,100$. Se pasó.\n\n**Competencia evaluada:** Resolución avanzada - problemas multi-paso con porcentajes y trabajo inverso.",
+      "competencia": "Resolución - problemas complejos con descuentos"
+    }
+  ]
+}
