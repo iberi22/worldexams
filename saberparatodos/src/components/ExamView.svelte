@@ -314,10 +314,6 @@
         {/if}
       </div>
 
-      <!-- Ad Placeholder - Hidden on small screens to save space -->
-      <div class="hidden lg:block max-w-4xl mx-auto w-full opacity-50 hover:opacity-100 transition-opacity">
-        <AdPlaceholder className="mt-2 scale-90 origin-center" />
-      </div>
     </div>
   </div>
 
