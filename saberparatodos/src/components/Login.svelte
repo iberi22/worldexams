@@ -1,5 +1,4 @@
 <script>
-  import { useState } from 'svelte/store';
   import { supabase } from '../lib/supabase';
   import FlashlightCard from './FlashlightCard.svelte';
 

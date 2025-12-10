@@ -24,9 +24,15 @@
 
   import BlogView from './BlogView.svelte';
   import ArticleView from './ArticleView.svelte';
+  import { fetchAllQuestionsForGrade, getAvailableSubjects } from '../lib/api-service';
 
   export let questions = [];
   export let universalPool = null; // New prop for universal questions pool
+
+  // Internal state that can be updated
+  let loadedQuestions = questions;
+  let isLoadingQuestions = false;
+  let loadError = null;
 
   console.log('App received questions:', questions.length);
   console.log('App received universalPool:', universalPool?.totalQuestions || 0);
@@ -47,6 +53,32 @@
   const MIN_LOCAL_QUESTIONS = 5;
   const MAX_EXAM_QUESTIONS = 10; // Max questions per exam
 
+  // Load questions from API when grade is selected
+  async function loadQuestionsFromAPI(grade) {
+    if (isLoadingQuestions) return;
+
+    isLoadingQuestions = true;
+    loadError = null;
+
+    try {
+      console.log(`🌐 Loading questions for grade ${grade} from API...`);
+      const apiQuestions = await fetchAllQuestionsForGrade(grade);
+
+      if (apiQuestions.length > 0) {
+        loadedQuestions = apiQuestions;
+        console.log(`✅ Loaded ${apiQuestions.length} questions from API`);
+      } else {
+        console.warn(`⚠️ No questions found for grade ${grade}`);
+        loadError = `No se encontraron preguntas para grado ${grade}`;
+      }
+    } catch (err) {
+      console.error('Error loading questions from API:', err);
+      loadError = 'Error al cargar las preguntas. Por favor intenta de nuevo.';
+    } finally {
+      isLoadingQuestions = false;
+    }
+  }
+
   onMount(async () => {
     // Check for active session
     const { data: { session } } = await supabase.auth.getSession();
@@ -63,16 +95,25 @@
       selectedGrade = parseInt(savedGrade);
     }
 
+    // If no questions provided as props, load from API for default/saved grade
+    if (questions.length === 0 && selectedGrade) {
+      await loadQuestionsFromAPI(selectedGrade);
+    } else if (questions.length === 0) {
+      // Load grade 11 by default if no grade saved
+      await loadQuestionsFromAPI(11);
+    }
+
     // Load memory stats
-    memoryStats = getMemoryStats(questions.length);
+    memoryStats = getMemoryStats(loadedQuestions.length);
 
     return () => subscription.unsubscribe();
   });
 
-  // Filter local questions by grade and subject
-  $: filteredLocalQuestions = questions.filter(q => {
+  // Filter loaded questions by grade and subject
+  $: filteredLocalQuestions = loadedQuestions.filter(q => {
+    if (!q) return false;
     const gradeMatch = selectedGrade ? q.grade === selectedGrade : true;
-    const subjectMatch = selectedSubject ? q.category.startsWith(selectedSubject) : true;
+    const subjectMatch = selectedSubject ? (q.category && q.category.startsWith(selectedSubject)) : true;
     return gradeMatch && subjectMatch;
   });
 
@@ -213,9 +254,13 @@
     view = newView;
   }
 
-  function handleGradeSelect(grade) {
+  async function handleGradeSelect(grade) {
     selectedGrade = grade;
     localStorage.setItem('openicfes_grade', grade.toString());
+
+    // Load questions for the new grade from API
+    await loadQuestionsFromAPI(grade);
+
     setView(AppView.SUBJECT_SELECTION);
   }
 
@@ -231,9 +276,10 @@
     selectedSubject = subject;
 
     // Calculate available questions for this selection
-    const availableQuestions = questions.filter(q => {
+    const availableQuestions = loadedQuestions.filter(q => {
+      if (!q) return false;
       const gradeMatch = selectedGrade ? q.grade === selectedGrade : true;
-      const subjectMatch = subject ? q.category?.startsWith(subject) : true;
+      const subjectMatch = subject ? (q.category && q.category.startsWith(subject)) : true;
       return gradeMatch && subjectMatch;
     });
 
@@ -282,7 +328,7 @@
       </button>
       <div class="flex items-center gap-4">
         <!-- Memory Status (compact mode) -->
-        <MemoryStatus totalQuestions={questions.length} compact={true} />
+        <MemoryStatus totalQuestions={loadedQuestions.length} compact={true} />
 
         {#if user}
           <div class="text-xs text-emerald-500 opacity-80 hidden sm:block">
@@ -302,7 +348,7 @@
             Ingresar
           </button>
         {/if}
-        <AdvancedSearch {questions} />
+        <AdvancedSearch questions={loadedQuestions} />
       </div>
     </div>
   </header>
@@ -533,7 +579,7 @@
     {:else if view === AppView.BLOG}
       <div in:fly={{ x: 50, duration: 500 }} out:fade={{ duration: 200 }}>
         <BlogView
-          {questions}
+          questions={loadedQuestions}
           onSelect={handleArticleSelect}
           onBack={() => setView(AppView.LANDING)}
         />

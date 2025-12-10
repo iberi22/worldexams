@@ -29,7 +29,9 @@
     },
   ];
 
-  $: activeQuestions = questions.length > 0 ? questions : MOCK_QUESTIONS;
+  // Safely handle undefined/null questions prop
+  $: safeQuestions = Array.isArray(questions) ? questions : [];
+  $: activeQuestions = safeQuestions.length > 0 ? safeQuestions : MOCK_QUESTIONS;
 
   // Basic state
   let currentIdx = 0;
@@ -39,7 +41,7 @@
 
   // Time tracking
   const EXAM_TIME_SECONDS = 300; // 5 minutes total
-  const TIME_PER_QUESTION_MS = (EXAM_TIME_SECONDS * 1000) / Math.max(activeQuestions.length, 1);
+  $: TIME_PER_QUESTION_MS = (EXAM_TIME_SECONDS * 1000) / Math.max(activeQuestions.length, 1);
   let timeLeft = EXAM_TIME_SECONDS;
   let examStartTime = 0;
   let questionStartTime = 0;
@@ -51,6 +53,10 @@
   const STORAGE_KEY = 'openicfes_exam_progress';
 
   $: question = activeQuestions[currentIdx] || MOCK_QUESTIONS[0];
+
+  // Ensure question has valid options array
+  $: safeOptions = question?.options || [];
+  $: hasValidQuestion = question && Array.isArray(question.options) && question.options.length > 0;
 
   // Persistencia
   $: if (activeQuestions.length > 0) {
@@ -275,30 +281,37 @@
 
       <!-- Options Grid - More Compact & Aligned -->
       <div class="grid grid-cols-1 gap-2 sm:gap-3 w-full">
-        {#each question.options as option (option.id)}
-          <FlashlightCard
-            isActive={selectedOption === option.id}
-            onclick={() => handleSelect(option.id)}
-            className="cursor-pointer hover:border-emerald-500/40 transition-all duration-200 rounded-xl overflow-hidden group"
-          >
-            <div class="py-3 px-4 sm:py-3.5 sm:px-5 flex items-center gap-3 sm:gap-4">
-              <div class={`
-                w-7 h-7 sm:w-8 sm:h-8 flex items-center justify-center rounded-lg text-xs sm:text-sm font-bold transition-all duration-300 shrink-0 border
-                ${selectedOption === option.id
-                  ? 'border-emerald-500 bg-emerald-500 text-[#121212] shadow-[0_0_15px_rgba(16,185,129,0.4)]'
-                  : 'border-white/10 bg-white/5 text-gray-400 group-hover:border-emerald-500/30 group-hover:text-emerald-400'}
-              `}>
-                {option.id}
+        {#if hasValidQuestion}
+          {#each safeOptions as option (option.id)}
+            <FlashlightCard
+              isActive={selectedOption === option.id}
+              onclick={() => handleSelect(option.id)}
+              className="cursor-pointer hover:border-emerald-500/40 transition-all duration-200 rounded-xl overflow-hidden group"
+            >
+              <div class="py-3 px-4 sm:py-3.5 sm:px-5 flex items-center gap-3 sm:gap-4">
+                <div class={`
+                  w-7 h-7 sm:w-8 sm:h-8 flex items-center justify-center rounded-lg text-xs sm:text-sm font-bold transition-all duration-300 shrink-0 border
+                  ${selectedOption === option.id
+                    ? 'border-emerald-500 bg-emerald-500 text-[#121212] shadow-[0_0_15px_rgba(16,185,129,0.4)]'
+                    : 'border-white/10 bg-white/5 text-gray-400 group-hover:border-emerald-500/30 group-hover:text-emerald-400'}
+                `}>
+                  {option.id}
+                </div>
+                <span class={`
+                  text-sm sm:text-base font-sans leading-snug flex-1 transition-colors duration-200
+                  ${selectedOption === option.id ? 'text-white font-medium' : 'text-gray-300 font-normal group-hover:text-white'}
+                `}>
+                  <MathRenderer content={option.text} />
+                </span>
               </div>
-              <span class={`
-                text-sm sm:text-base font-sans leading-snug flex-1 transition-colors duration-200
-                ${selectedOption === option.id ? 'text-white font-medium' : 'text-gray-300 font-normal group-hover:text-white'}
-              `}>
-                <MathRenderer content={option.text} />
-              </span>
-            </div>
-          </FlashlightCard>
-        {/each}
+            </FlashlightCard>
+          {/each}
+        {:else}
+          <div class="col-span-full text-center p-8 border border-dashed border-red-500/30 bg-red-500/5 rounded-xl">
+            <div class="text-red-400 text-lg mb-2">⚠️ Error cargando pregunta</div>
+            <p class="text-sm text-white/60">Esta pregunta no tiene opciones válidas. Por favor continúa al siguiente.</p>
+          </div>
+        {/if}
       </div>
 
       <!-- Ad Placeholder - Hidden on small screens to save space -->
