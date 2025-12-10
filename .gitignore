@@ -1,3 +1,15 @@
+# ============================================
+# World Exams - Multi-Repo Architecture
+# ============================================
+# Estructura:
+#   - Raíz: Organización con múltiples plataformas de examen
+#   - saberparatodos/: Plataforma principal (Colombia Saber 11)
+#   - [otros-exams]/: Cada país/examen tiene su carpeta
+#   - src/content/questions/: Preguntas centralizadas (compartidas)
+# Deployment: Cloudflare Pages (cada plataforma por separado)
+# Protocol: v2.0 (bundles de 7 preguntas)
+# ============================================
+
 # Node
 node_modules/
 

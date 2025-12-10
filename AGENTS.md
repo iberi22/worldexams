@@ -56,13 +56,21 @@ World Exams es una organización con múltiples repositorios (uno por país). Lo
 - Contextualizar ejemplos a la cultura local
 - Usar moneda, ciudades, y referencias locales
 - Mantener el formato de pregunta estándar global
+- **OBLIGATORIO:** Seguir Protocol v2.0 (bundles de 7 preguntas)
 
-**Formato de ID:** `[COUNTRY]-[SUBJECT]-[GRADE]-[TOPIC]-[###]`
+**Formato de ID (Protocol v2.0):** `[COUNTRY]-[SUBJECT]-[GRADE]-[TOPIC]-[###]-v[1-7]`
 
 Ejemplos:
-- `CO-MAT-05-fracciones-001` (Colombia)
-- `MX-ESP-06-comprension-001` (México)
-- `AR-MAT-09-algebra-001` (Argentina)
+- `CO-MAT-11-algebra-001-v1` (Colombia, Original)
+- `CO-MAT-11-algebra-001-v2` (Colombia, Fácil A)
+- `MX-ESP-06-comprension-001-v7` (México, Difícil B)
+- `AR-MAT-09-algebra-001-v4` (Argentina, Media A)
+
+**Estructura de Bundle:**
+- Archivo: `[COUNTRY]-[SUBJ]-[GRADE]-[TOPIC]-[###]-bundle.md`
+- Contiene: 7 preguntas con progresión de dificultad (1 original + 2 fácil + 2 media + 2 difícil)
+- Ubicación: `src/content/questions/[country]/[asignatura]/grado-[N]/[tema]/`
+- Referencia: `docs/QUESTION_GENERATION_PROTOCOL_V2.md`
 
 ---
 
@@ -127,20 +135,28 @@ Ejemplos:
 - Normaliza nombres: minúsculas, sin tildes, guiones en lugar de espacios
 - Mantiene estructura jerárquica consistente
 
-**Estructura de preguntas:**
+**Estructura de preguntas (Centralizada):**
 
 ```text
-src/content/questions/[asignatura]/grado-[N]/[tema]/[archivo].md
+src/content/questions/[country]/[asignatura]/grado-[N]/[tema]/[archivo]-bundle.md
+```
+
+**Ejemplo real:**
+```text
+src/content/questions/colombia/matematicas/grado-11/algebra/CO-MAT-11-algebra-001-bundle.md
 ```
 
 **Reglas de nombres:**
 
 | Elemento | Formato | Ejemplo |
-|----------|---------|---------|
+|----------|---------|------|
+| País | lowercase, carpeta | `colombia/`, `mexico/`, `brasil/` |
 | Asignatura | `kebab-case`, sin tildes | `matematicas`, `lectura-critica` |
 | Grado | `grado-N` | `grado-3`, `grado-11` |
-| Tema | `kebab-case` | `fracciones`, `segunda-guerra-mundial` |
-| Archivo | `[COUNTRY]-[SUBJ]-[GRADE]-[TOPIC]-[###].md` | `CO-MAT-05-fracciones-001.md` |
+| Tema | `kebab-case` | `algebra`, `revolucion-industrial` |
+| Archivo | `[COUNTRY]-[SUBJ]-[GRADE]-[TOPIC]-[###]-bundle.md` | `CO-MAT-11-algebra-001-bundle.md` |
+
+**Protocol v2.0:** Cada archivo bundle contiene 7 preguntas (v1-v7) con IDs únicos.
 
 ---
 
@@ -197,7 +213,9 @@ src/content/questions/[asignatura]/grado-[N]/[tema]/[archivo].md
 
 1. **Push de pregunta** → Webhook → Traducción → Distribución
 2. **Pull de traducciones** → Validación → Commit local
-3. **Deploy** → GitHub Pages por país
+3. **Deploy** → Cloudflare Pages (saberparatodos/ y otros exams)
+4. **Build** → `npm run build` en cada plataforma
+5. **Publish** → Cloudflare Workers (via wrangler.toml)
 
 **Reglas:**
 
@@ -233,11 +251,14 @@ Cuando el usuario solicite una tarea:
 
 ### Al generar preguntas:
 
-- [ ] Usar formato estándar de frontmatter
-- [ ] ID con prefijo de país (`CO-`, `MX-`, etc.)
-- [ ] Contexto cultural apropiado
-- [ ] Dificultad 1-5 correcta
-- [ ] Distractores plausibles
+- [ ] Usar formato estándar de frontmatter (Protocol v2.0)
+- [ ] Archivo bundle con 7 preguntas (`-bundle.md`)
+- [ ] IDs con prefijo de país y sufijo de versión (`CO-MAT-11-algebra-001-v1`)
+- [ ] Progresión de dificultad: 1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)
+- [ ] Contexto cultural apropiado para cada país
+- [ ] Distractores plausibles (errores comunes)
+- [ ] Ubicación correcta: `src/content/questions/[country]/[asignatura]/grado-[N]/[tema]/`
+- [ ] Referencia a `docs/QUESTION_GENERATION_PROTOCOL_V2.md`
 
 ### Al modificar UI:
 

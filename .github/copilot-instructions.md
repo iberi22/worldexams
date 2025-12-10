@@ -23,7 +23,15 @@
 
 ## 📋 Resumen del Proyecto
 
-**World Exams** es una organización de código abierto que desarrolla plataformas de práctica para exámenes nacionales estandarizados. Cada país tiene su propio repositorio con identidad visual única.
+**World Exams** es una organización de código abierto que desarrolla plataformas de práctica para exámenes nacionales estandarizados. Arquitectura multi-repo con plataformas independientes por país.
+
+### Arquitectura Multi-Repo
+
+- **Raíz:** Organización global con múltiples plataformas
+- **saberparatodos/:** Plataforma principal (Colombia Saber 11)
+- **[otros-exams]/:** Cada examen en su propia carpeta
+- **src/content/questions/:** Preguntas centralizadas compartidas entre plataformas
+- **Deployment:** Cloudflare Pages + Workers (cada plataforma independiente)
 
 ### Stack Tecnológico
 
@@ -34,7 +42,7 @@
 | **TailwindCSS** | 3.x | Estilos utility-first, mobile-first, dark mode |
 | **Supabase** | Latest | BaaS (PostgreSQL, Auth, Realtime, Edge Functions) |
 | **TypeScript** | 5.x | Tipado estricto en todo el proyecto |
-| **GitHub Pages** | - | Hosting gratuito por repo |
+| **Cloudflare Pages** | - | Hosting principal (Workers, Edge Runtime) |
 | **GitHub Actions** | - | CI/CD, sincronización, validación |
 
 ### Repositorios Principales (Top 20 Países)
@@ -55,39 +63,48 @@
 
 ---
 
-## 📁 Estructura Estándar de Repositorio
+## 📁 Estructura Multi-Repo
 
-Todos los repos de país siguen esta estructura:
+La organización tiene una estructura multi-repo donde cada examen es una carpeta independiente:
 
 ```text
-saber-[país]/
+worldexams/
 ├── .github/
-│   ├── copilot-instructions.md    # Instrucciones locales
-│   ├── workflows/
-│   │   ├── deploy.yml             # Deploy a GitHub Pages
-│   │   ├── sync-pull.yml          # Pull traducciones
-│   │   └── validate.yml           # Validar preguntas
-│   └── prompts/
-│       └── generar-pregunta.prompt.md
-├── AGENTS.md                      # Roles AI locales
-├── README.md                      # En idioma local
-├── config/
-│   └── country.ts                 # Configuración del país
+│   ├── copilot-instructions.md    # Instrucciones globales (este archivo)
+│   ├── workflows/                 # CI/CD global
+│   └── prompts/                   # Prompts compartidos
+├── AGENTS.md                      # Roles AI globales
+├── docs/
+│   └── QUESTION_GENERATION_PROTOCOL_V2.md  # Protocol v2.0
 ├── src/
-│   ├── content/
-│   │   └── questions/
-│   │       └── [asignatura]/
-│   │           └── grado-[N]/
-│   │               └── [tema]/
-│   ├── components/                # Componentes locales
-│   ├── layouts/
-│   ├── pages/
-│   └── styles/
-│       └── theme.css              # Tema del país
-├── public/
-├── supabase/                      # Solo .env.local
-└── package.json
+│   └── content/
+│       └── questions/             # ⭐ PREGUNTAS CENTRALIZADAS
+│           ├── _shared/           # Cross-country
+│           ├── colombia/          # Por país
+│           │   ├── matematicas/grado-11/algebra/
+│           │   ├── ciencias-naturales/grado-11/
+│           │   └── sociales/grado-11/
+│           ├── mexico/
+│           ├── brasil/
+│           └── usa/
+├── saberparatodos/                # ⭐ PLATAFORMA PRINCIPAL (Colombia)
+│   ├── astro.config.mjs
+│   ├── wrangler.toml              # Cloudflare Workers config
+│   ├── src/
+│   │   ├── components/
+│   │   ├── layouts/
+│   │   ├── pages/
+│   │   └── styles/
+│   ├── public/
+│   ├── config/
+│   │   └── country.ts             # CO config
+│   └── package.json
+├── [otros-exams]/                 # Otras plataformas
+│   └── [misma estructura que saberparatodos/]
+└── scripts/                       # Scripts globales
 ```
+
+**Nota:** Las preguntas están centralizadas en `src/content/questions/` y son compartidas entre todas las plataformas.
 
 ---
 
@@ -155,9 +172,11 @@ saber-[país]/
 - Prompts → `.github/prompts/`
 - Workflows → `.github/workflows/`
 
-### 2. Formato de Preguntas
+### 2. Formato de Preguntas (Protocol v2.0)
 
-Las preguntas SIEMPRE usan este formato exacto:
+**IMPORTANTE:** Desde diciembre 2025, todas las preguntas DEBEN seguir Protocol v2.0 (bundle format).
+
+**Archivo bundle** (`[COUNTRY]-[SUBJ]-[GRADE]-[TOPIC]-[###]-bundle.md`):
 
 ```markdown
 ---
@@ -166,27 +185,53 @@ country: "[CO|MX|AR|CL|PE|BR|US]"
 grado: [número según país]
 asignatura: "[Asignatura en idioma local]"
 tema: "[Tema específico]"
-dificultad: [1-5]
+protocol_version: "2.0"
+total_questions: 7
 estado: "draft"
 creador: "[Nombre o AI-WorldExams]"
-source_lang: "[es-CO|es-MX|pt-BR|en-US]"
+generation_date: "YYYY-MM-DD"
+source: "OpenTDB"
+source_license: "CC BY-SA 4.0"
 ---
 
-# Pregunta
+# Pregunta Base: [Título]
 
-[Enunciado claro, máximo 150 palabras, con contexto cultural apropiado]
+> **Fuente:** OpenTDB (CC BY-SA 4.0)
 
-# Opciones
+---
 
-- [ ] A) [Distractor 1 - error común]
-- [ ] B) [Distractor 2 - error común]
-- [x] C) [RESPUESTA CORRECTA]
+## Pregunta 1 (Original - Dificultad 3)
+
+**ID:** `[COUNTRY]-[SUBJ]-[GRADE]-[TOPIC]-[###]-v1`
+
+### Enunciado
+[Pregunta adaptada con contexto cultural]
+
+### Opciones
+- [x] A) [Respuesta correcta]
+- [ ] B) [Distractor 1 - error común]
+- [ ] C) [Distractor 2 - error común]
 - [ ] D) [Distractor 3 - error común]
 
-# Explicación
+### Explicación Pedagógica
+[Justificación detallada]
 
-[Justificación pedagógica: por qué es correcta y por qué las otras no]
+---
+
+## Pregunta 2 (Fácil A - Dificultad 1)
+
+**ID:** `[COUNTRY]-[SUBJ]-[GRADE]-[TOPIC]-[###]-v2`
+
+[...continúa hasta v7]
 ```
+
+**Estructura obligatoria:**
+- v1: Original (dificultad 3)
+- v2-v3: Fácil (dificultad 1-2)
+- v4-v5: Media (dificultad 3)
+- v6-v7: Difícil (dificultad 4-5)
+
+**Referencia completa:** `docs/QUESTION_GENERATION_PROTOCOL_V2.md`
 
 ### 3. Sistema de IDs por País
 
@@ -206,20 +251,31 @@ El ID de cada pregunta debe incluir el código de país:
 
 ### 4. Organización de Archivos
 
-Estructura jerárquica obligatoria:
+**Estructura jerárquica centralizada (Protocol v2.0):**
 
 ```text
-src/content/questions/[asignatura]/grado-[N]/[tema]/[archivo].md
+src/content/questions/[country]/[asignatura]/grado-[N]/[tema]/[archivo]-bundle.md
+```
+
+**Ejemplo real:**
+```text
+src/content/questions/colombia/matematicas/grado-11/algebra/CO-MAT-11-algebra-001-bundle.md
 ```
 
 **Convenciones de nombres:**
 
 | Elemento | Regla | Ejemplo |
-|----------|-------|---------|
+|----------|-------|------|
+| País | lowercase, carpeta | `colombia/`, `mexico/`, `brasil/` |
 | Asignatura | kebab-case, sin tildes | `matematicas`, `lectura-critica` |
 | Grado | `grado-N` | `grado-3`, `grado-11` |
-| Tema | kebab-case | `fracciones`, `revolucion-industrial` |
-| Archivo | `[COUNTRY]-[SUBJ]-[GRADE]-[TOPIC]-[###].md` | `CO-MAT-05-fracciones-001.md` |
+| Tema | kebab-case | `algebra`, `revolucion-industrial` |
+| Archivo | `[COUNTRY]-[SUBJ]-[GRADE]-[TOPIC]-[###]-bundle.md` | `CO-MAT-11-algebra-001-bundle.md` |
+
+**Nota crítica:**
+- Cada archivo bundle contiene **7 preguntas** (v1 a v7)
+- IDs únicos por pregunta: `CO-MAT-11-algebra-001-v1`, `CO-MAT-11-algebra-001-v2`, etc.
+- Ubicación centralizada compartida entre todas las plataformas
 
 ### 5. Niveles de Dificultad
 
@@ -420,21 +476,27 @@ Consulta `AGENTS.md` para la definición completa de roles. Resumen:
 ## 🔧 Comandos Comunes
 
 ```bash
-# Desarrollo local
-npm run dev
+# === Desarrollo Local ===
+npm run dev                 # Astro dev server (localhost:4321)
 
-# Build para producción
-npm run build
+# === Build para Producción ===
+npm run build               # Build estático (dist/)
 
-# Preview del build
-npm run preview
+# === Preview ===
+npm run preview             # Preview local del build
 
-# Validar preguntas
-npm run validate
+# === Validación ===
+npm run validate            # Validar formato de preguntas (Protocol v2.0)
 
-# Sincronizar traducciones (solo repos país)
-npm run sync:pull
+# === Deployment (Cloudflare) ===
+npx wrangler pages deploy dist  # Deploy manual a Cloudflare Pages
+npm run deploy              # Deploy automático (si está configurado)
+
+# === Sincronización ===
+npm run sync:pull           # Pull traducciones desde Supabase
 ```
+
+**Nota:** Los deployments a Cloudflare Pages están configurados en `wrangler.toml` de cada plataforma.
 
 ---
 
