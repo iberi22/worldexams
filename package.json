@@ -7,6 +7,8 @@
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
+    "postbuild": "powershell -Command \"if (Test-Path api) { Copy-Item -Path api/* -Destination dist/api -Recurse -Force }\"",
+    "generate-api": "powershell -File scripts/generate-questions-api.ps1",
     "preview": "astro preview",
     "astro": "astro"
   },

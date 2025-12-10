@@ -23,6 +23,83 @@ El Protocolo v2.0 establece un nuevo estándar donde **cada archivo de pregunta 
 
 ---
 
+## 🔄 Migración Gradual (v1.0 → v2.0)
+
+La transición de v1.0 a v2.0 se realiza en **dos fases** para minimizar disrupciones:
+
+### Fase 1: Actualización de Metadata ✅
+
+**Objetivo:** Actualizar archivos existentes con la nueva metadata sin cambiar estructura.
+
+**Acciones:**
+- ✅ Agregar campo `protocol_version: "2.0"`
+- ✅ Agregar campo `country: "[código]"`
+- ✅ Normalizar IDs al formato `[COUNTRY]-[SUBJ]-[GRADE]-[topic]-[NNN]` (lowercase topic)
+- ✅ Mejorar explicaciones pedagógicas
+- ✅ Agregar competencias evaluadas
+- ✅ Mantener 1 pregunta por archivo (temporalmente)
+
+**Estado:** Formato válido pero no ideal. Se acepta durante periodo de transición.
+
+**Ejemplo:**
+```markdown
+---
+id: "CO-MAT-11-algebra-001"  # ✅ Sin sufijo -v1
+protocol_version: "2.0"       # ✅ Indica intención de v2.0
+country: "co"                 # ✅ Código de país
+---
+# 1 pregunta en el archivo (formato v1.0)
+```
+
+### Fase 2: Consolidación en Archivos de 7 Variantes 🚧
+
+**Objetivo:** Agrupar preguntas en archivos multi-pregunta con progresión de dificultad.
+
+**Acciones:**
+- 🔄 Consolidar 7 preguntas relacionadas en un solo archivo
+- 🔄 Agregar sufijos `-v1` a `-v7` en IDs
+- 🔄 Implementar progresión de dificultad: 1-2-3-3-3-4-5
+- 🔄 Ajustar metadata `total_questions: 7`
+
+**Ejemplo:**
+```markdown
+---
+id: "CO-MAT-11-algebra-001"
+protocol_version: "2.0"
+total_questions: 7
+---
+
+## Pregunta 1 (v1 - Original)
+ID: CO-MAT-11-algebra-001-v1
+Dificultad: 3
+
+## Pregunta 2 (v2 - Fácil A)
+ID: CO-MAT-11-algebra-001-v2
+Dificultad: 1
+...
+```
+
+### 🗓️ Roadmap de Migración
+
+| Fase | Estado | Fecha | Descripción |
+|------|--------|-------|-------------|
+| **Fase 1** | ✅ Completado | Dic 2025 | PR #43 - Actualización metadata |
+| **Fase 2** | 🚧 Pendiente | Q1 2026 | Issue #45 - Consolidación en 7 variantes |
+
+### ⚠️ Nota Importante
+
+**Durante el periodo de transición (Dic 2025 - Mar 2026):**
+- ✅ Ambos formatos son válidos (1 pregunta y 7 preguntas)
+- ✅ Nuevas preguntas DEBEN usar formato de 7 variantes
+- ✅ Preguntas existentes pueden migrar gradualmente
+- ✅ Archivos Fase 1 deben indicar `protocol_version: "2.0"` con disclaimer
+
+**Después de Q1 2026:**
+- ❌ Solo se aceptará formato de 7 variantes
+- ✅ Todos los archivos v1.0 deben estar consolidados
+
+---
+
 ## 🎯 Estructura de 7 Preguntas por Archivo
 
 Cada archivo `.md` debe contener exactamente 7 preguntas:
