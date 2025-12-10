@@ -52,10 +52,6 @@ World Exams tiene múltiples repositorios (uno por país). Este repo es para **C
 
 Crear **3 packs de Matemáticas avanzadas** para Grado 11° siguiendo el Protocolo v2.0:
 
-### Objetivo Inmediato
-
-Crear **3 packs de Matemáticas avanzadas** para Grado 11° siguiendo el Protocolo v2.0:
-
 | Pack # | Tema | Competencia | Archivo Output | Template |
 |--------|------|-------------|----------------|----------|
 | **5** | Trigonometría | Razonamiento cuantitativo | `matematicas/5.json` | [PR1 Template](./PR-templates/PR1-matematicas-avanzadas.md) |
