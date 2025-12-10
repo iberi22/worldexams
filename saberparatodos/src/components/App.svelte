@@ -209,16 +209,19 @@
     userAnswers = answers;
     view = AppView.RESULTS;
 
+    // Null-safe access to questions array
+    const safeQuestions = examData?.questions || [];
+
     // Save answered questions to memory (for avoiding repetition)
-    const questionsForMemory = examData.questions.map(q => ({
-      id: q.questionId,
-      isCorrect: q.isCorrect,
-      subject: examData.subject || 'GENERAL',
-      grade: examData.grade,
-      difficulty: q.difficulty
+    const questionsForMemory = safeQuestions.map(q => ({
+      id: q?.questionId,
+      isCorrect: q?.isCorrect || false,
+      subject: examData?.subject || 'GENERAL',
+      grade: examData?.grade,
+      difficulty: q?.difficulty || 3
     }));
 
-    const memoryResult = markQuestionsAnswered(questionsForMemory, questions.length);
+    const memoryResult = markQuestionsAnswered(questionsForMemory, loadedQuestions.length);
 
     if (memoryResult.cacheCleared) {
       cacheWasCleared = true;
@@ -226,19 +229,19 @@
     }
 
     // Update memory stats
-    memoryStats = getMemoryStats(questions.length);
+    memoryStats = getMemoryStats(loadedQuestions.length);
 
     // Save to Supabase ONLY if logged in
     if (user) {
       try {
-        const correctCount = examData.questions.filter(q => q.isCorrect).length;
+        const correctCount = safeQuestions.filter(q => q?.isCorrect).length;
         const { error } = await supabase.from('exam_results').insert({
           user_id: user.id,
           user_name: user.email?.split('@')[0] || 'Anonymous',
           score: correctCount * 100, // Simple score for DB
-          total_questions: examData.questions.length,
-          subject: examData.subject || 'GENERAL',
-          grade: examData.grade
+          total_questions: safeQuestions.length,
+          subject: examData?.subject || 'GENERAL',
+          grade: examData?.grade
         });
 
         if (error) console.error('Error saving result:', error);

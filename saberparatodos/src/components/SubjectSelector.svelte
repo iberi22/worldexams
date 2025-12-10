@@ -8,7 +8,11 @@
   // Extract unique subjects from questions
   // Questions have category like "MATEMÁTICAS :: ÁLGEBRA"
   // We want the main subject "MATEMÁTICAS"
-  $: subjects = [...new Set(questions.map(q => q.category.split(' :: ')[0]))].sort();
+  $: subjects = [...new Set(
+    questions
+      .filter(q => q && q.category) // Filter out questions without category
+      .map(q => q.category.split(' :: ')[0])
+  )].sort();
 </script>
 
 <div class="flex flex-col items-center justify-center min-h-[80vh] space-y-12 animate-fade-in-up">

@@ -45,30 +45,36 @@
 
   // Convert ExamCompletionData to ExamResult for scoring
   function toExamResult(data: ExamCompletionData): ExamResult {
-    const questionResults: QuestionResult[] = data.questions.map(q => ({
-      questionId: String(q.questionId),
-      difficulty: Math.max(1, Math.min(5, q.difficulty)) as 1 | 2 | 3 | 4 | 5,
-      isCorrect: q.isCorrect,
-      timeSeconds: Math.round(q.timeSpentMs / 1000),
-      currentStreak: q.streakCount
+    // Null-safe: ensure questions array exists
+    const safeQ = data?.questions || [];
+    const questionResults: QuestionResult[] = safeQ.map(q => ({
+      questionId: String(q?.questionId || 'unknown'),
+      difficulty: Math.max(1, Math.min(5, q?.difficulty || 3)) as 1 | 2 | 3 | 4 | 5,
+      isCorrect: q?.isCorrect || false,
+      timeSeconds: Math.round((q?.timeSpentMs || 0) / 1000),
+      currentStreak: q?.streakCount || 0
     }));
 
     return {
       questions: questionResults,
-      totalTimeSeconds: Math.round(data.totalTimeMs / 1000),
-      startedAt: new Date(Date.now() - data.totalTimeMs).toISOString(),
+      totalTimeSeconds: Math.round((data?.totalTimeMs || 0) / 1000),
+      startedAt: new Date(Date.now() - (data?.totalTimeMs || 0)).toISOString(),
       completedAt: new Date().toISOString()
     };
   }
 
+  // Null-safe questions array
+  $: safeExamQuestions = examData?.questions || [];
+  $: safeQuestions = Array.isArray(questions) ? questions : [];
+
   // Calculate score on mount
-  $: if (examData && !examScore) {
+  $: if (examData && safeExamQuestions.length > 0 && !examScore) {
     const examResult = toExamResult(examData);
     examScore = calculateExamScore(examResult);
   }
 
-  $: correctCount = examData.questions.filter(q => q.isCorrect).length;
-  $: percentage = questions.length > 0 ? Math.round((correctCount / questions.length) * 100) : 0;
+  $: correctCount = safeExamQuestions.filter(q => q?.isCorrect).length;
+  $: percentage = safeQuestions.length > 0 ? Math.round((correctCount / safeQuestions.length) * 100) : 0;
 
   function getOptionText(q: any, optionId: string) {
     const opt = q.options.find((o: any) => o.id === optionId);
@@ -160,7 +166,7 @@
       totalPoints: examScore.totalScore,
       questionsAnswered: questions.length,
       correctAnswers: correctCount,
-      averageDifficulty: examData.questions.reduce((sum, q) => sum + q.difficulty, 0) / examData.questions.length,
+      averageDifficulty: safeExamQuestions.length > 0 ? safeExamQuestions.reduce((sum, q) => sum + (q?.difficulty || 0), 0) / safeExamQuestions.length : 0,
       examDurationMs: examData.totalTimeMs,
       timestamp: Date.now(),
       checksum
