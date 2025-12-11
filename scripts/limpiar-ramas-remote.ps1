@@ -27,7 +27,7 @@ $branchesToDelete = @(
     "copilot/generate-question-variations-colombia",
     "copilot/generate-history-questions-mx",
     "copilot/generate-30-math-questions-mx",
-    
+
     # Ramas copilot con PR DRAFT (formato v1.0)
     "copilot/generate-math-questions-co",
     "copilot/generate-math-questions-mx",
@@ -37,10 +37,10 @@ $branchesToDelete = @(
     "copilot/generate-history-questions-br",
     "copilot/generate-science-questions-br",
     "copilot/generate-geography-questions-br",
-    
+
     # Rama con PR MERGED (ya integrada)
     "copilot/generate-mathematics-questions-again",
-    
+
     # Rama feat con PR CLOSED (ya analizada)
     "feat/migrate-questions-v2"
 )
@@ -83,7 +83,7 @@ foreach ($branch in $branchesToDelete) {
         try {
             Write-Host "🗑️  Eliminando: origin/$branch..." -NoNewline -ForegroundColor Yellow
             git push origin --delete $branch 2>&1 | Out-Null
-            
+
             if ($LASTEXITCODE -eq 0) {
                 Write-Host " ✅" -ForegroundColor Green
                 $successCount++

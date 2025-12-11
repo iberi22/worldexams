@@ -1,966 +1,966 @@
 {
   "questions": [
     {
+      "images": [],
       "number": 1,
-      "explanation": "Suma simple: $15 + 8 = 23$.\n**Competencia evaluada:** Resolución de problemas - Suma.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-03-aritmetica-mix-001",
       "statement": "María tiene 15 manzanas y Pedro le regala 8 más. ¿Cuántas manzanas tiene María ahora?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "20",
-          "is_correct": false
+          "is_correct": false,
+          "text": "20"
         },
         {
           "letter": "B",
-          "text": "23",
-          "is_correct": true
+          "is_correct": true,
+          "text": "23"
         },
         {
           "letter": "C",
-          "text": "22",
-          "is_correct": false
+          "is_correct": false,
+          "text": "22"
         },
         {
           "letter": "D",
-          "text": "7",
-          "is_correct": false
+          "is_correct": false,
+          "text": "7"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "Suma simple: $15 + 8 = 23$.\n**Competencia evaluada:** Resolución de problemas - Suma.\n---",
       "id": "CO-MAT-03-aritmetica-mix-001-v1"
     },
     {
+      "images": [],
       "number": 2,
-      "explanation": "Suma básica de un dígito. $5 + 4 = 9$.\n**Competencia evaluada:** Resolución - Cálculo mental.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "A",
       "bundle_id": "CO-MAT-03-aritmetica-mix-001",
       "statement": "¿Cuánto es 5 + 4?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "9",
-          "is_correct": true
+          "is_correct": true,
+          "text": "9"
         },
         {
           "letter": "B",
-          "text": "8",
-          "is_correct": false
+          "is_correct": false,
+          "text": "8"
         },
         {
           "letter": "C",
-          "text": "10",
-          "is_correct": false
+          "is_correct": false,
+          "text": "10"
         },
         {
           "letter": "D",
-          "text": "1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "1"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "Suma básica de un dígito. $5 + 4 = 9$.\n**Competencia evaluada:** Resolución - Cálculo mental.\n---",
       "id": "CO-MAT-03-aritmetica-mix-001-v2"
     },
     {
+      "images": [],
       "number": 3,
-      "explanation": "Conteo de 2 en 2. $8 + 2 = 10$.\n**Competencia evaluada:** Razonamiento - Secuencias.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-03-aritmetica-mix-001",
       "statement": "¿Qué número sigue en la secuencia: 2, 4, 6, 8, ...?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "9",
-          "is_correct": false
+          "is_correct": false,
+          "text": "9"
         },
         {
           "letter": "B",
-          "text": "10",
-          "is_correct": true
+          "is_correct": true,
+          "text": "10"
         },
         {
           "letter": "C",
-          "text": "11",
-          "is_correct": false
+          "is_correct": false,
+          "text": "11"
         },
         {
           "letter": "D",
-          "text": "12",
-          "is_correct": false
+          "is_correct": false,
+          "text": "12"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "Conteo de 2 en 2. $8 + 2 = 10$.\n**Competencia evaluada:** Razonamiento - Secuencias.\n---",
       "id": "CO-MAT-03-aritmetica-mix-001-v3"
     },
     {
+      "images": [],
       "number": 4,
-      "explanation": "Resta simple: $20 - 5 = 15$.\n**Competencia evaluada:** Resolución - Resta.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-03-aritmetica-mix-001",
       "statement": "Juan tiene 20 dulces y se come 5. ¿Cuántos le quedan?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "25",
-          "is_correct": false
+          "is_correct": false,
+          "text": "25"
         },
         {
           "letter": "B",
-          "text": "15",
-          "is_correct": true
+          "is_correct": true,
+          "text": "15"
         },
         {
           "letter": "C",
-          "text": "10",
-          "is_correct": false
+          "is_correct": false,
+          "text": "10"
         },
         {
           "letter": "D",
-          "text": "5",
-          "is_correct": false
+          "is_correct": false,
+          "text": "5"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "Resta simple: $20 - 5 = 15$.\n**Competencia evaluada:** Resolución - Resta.\n---",
       "id": "CO-MAT-03-aritmetica-mix-001-v4"
     },
     {
+      "images": [],
       "number": 5,
-      "explanation": "Suma con contexto: $12 + 12 = 24$.\n**Competencia evaluada:** Resolución - Suma.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-03-aritmetica-mix-001",
       "statement": "En una canasta hay 12 huevos rojos y 12 huevos blancos. ¿Cuántos huevos hay en total?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "12",
-          "is_correct": false
+          "is_correct": false,
+          "text": "12"
         },
         {
           "letter": "B",
-          "text": "0",
-          "is_correct": false
+          "is_correct": false,
+          "text": "0"
         },
         {
           "letter": "C",
-          "text": "24",
-          "is_correct": true
+          "is_correct": true,
+          "text": "24"
         },
         {
           "letter": "D",
-          "text": "144",
-          "is_correct": false
+          "is_correct": false,
+          "text": "144"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "Suma con contexto: $12 + 12 = 24$.\n**Competencia evaluada:** Resolución - Suma.\n---",
       "id": "CO-MAT-03-aritmetica-mix-001-v5"
     },
     {
+      "images": [],
       "number": 6,
-      "explanation": "Operación combinada:\n1.  Gasto total: $500 + 300 = 800$.\n2.  Cambio: $1.000 - 800 = 200$.\n**Competencia evaluada:** Resolución - Operaciones con dinero.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-03-aritmetica-mix-001",
       "statement": "Sofía compra un lápiz de $500 y un borrador de $300. Si paga con un billete de $1.000, ¿cuánto le sobra?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "$800",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$800"
         },
         {
           "letter": "B",
-          "text": "$200",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$200"
         },
         {
           "letter": "C",
-          "text": "$500",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$500"
         },
         {
           "letter": "D",
-          "text": "$100",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$100"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "Operación combinada:\n1.  Gasto total: $500 + 300 = 800$.\n2.  Cambio: $1.000 - 800 = 200$.\n**Competencia evaluada:** Resolución - Operaciones con dinero.\n---",
       "id": "CO-MAT-03-aritmetica-mix-001-v6"
     },
     {
+      "images": [],
       "number": 7,
-      "explanation": "Comparación y orden:\n*   348 está entre 345 y 350.\n*   340 es menor.\n*   355 es mayor.\n**Competencia evaluada:** Razonamiento - Orden numérico.\n---\n## 📊 Metadata de Validación\n| Pregunta | ID | Dificultad | Competencia ICFES | Componente | Validado |\n|----------|-----|------------|-------------------|------------|----------|\n| 1 | v1 | 2 | Resolución | Numérico | ⬜ |\n| 2 | v2 | Low | Resolución | Numérico | ⬜ |\n| 3 | v3 | Low | Razonamiento | Numérico | ⬜ |\n| 4 | v4 | 2 | Resolución | Numérico | ⬜ |\n| 5 | v5 | 2 | Resolución | Numérico | ⬜ |\n| 6 | v6 | 3 | Resolución | Numérico | ⬜ |\n| 7 | v7 | 3 | Razonamiento | Numérico | ⬜ |",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-03-aritmetica-mix-001",
       "statement": "¿Cuál número es mayor que 345 pero menor que 350?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "340",
-          "is_correct": false
+          "is_correct": false,
+          "text": "340"
         },
         {
           "letter": "B",
-          "text": "355",
-          "is_correct": false
+          "is_correct": false,
+          "text": "355"
         },
         {
           "letter": "C",
-          "text": "348",
-          "is_correct": true
+          "is_correct": true,
+          "text": "348"
         },
         {
           "letter": "D",
-          "text": "300",
-          "is_correct": false
+          "is_correct": false,
+          "text": "300"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "Comparación y orden:\n*   348 está entre 345 y 350.\n*   340 es menor.\n*   355 es mayor.\n**Competencia evaluada:** Razonamiento - Orden numérico.\n---\n## 📊 Metadata de Validación\n| Pregunta | ID | Dificultad | Competencia ICFES | Componente | Validado |\n|----------|-----|------------|-------------------|------------|----------|\n| 1 | v1 | 2 | Resolución | Numérico | ⬜ |\n| 2 | v2 | Low | Resolución | Numérico | ⬜ |\n| 3 | v3 | Low | Razonamiento | Numérico | ⬜ |\n| 4 | v4 | 2 | Resolución | Numérico | ⬜ |\n| 5 | v5 | 2 | Resolución | Numérico | ⬜ |\n| 6 | v6 | 3 | Resolución | Numérico | ⬜ |\n| 7 | v7 | 3 | Razonamiento | Numérico | ⬜ |",
       "id": "CO-MAT-03-aritmetica-mix-001-v7"
     },
     {
+      "images": [],
       "number": 1,
-      "explanation": "**¿Por qué B es correcta?**\nPrimero sumamos lo que gastó María: $800 + $350 = $1.150 pesos.\nLuego restamos del billete que pagó: $2.000 - $1.150 = $850 pesos.\nLa respuesta es $850 pesos.\n**¿Por qué las otras son incorrectas?**\n- **A) $750:** Error al sumar ($800 + $350 = $1.050) y luego restar mal.\n- **C) $1.150:** Este es el total de la compra, no lo que le devuelven. Error de comprensión del problema.\n- **D) $1.200:** Error al calcular solo $2.000 - $800 = $1.200, olvidando las galletas.\n**Competencia evaluada:** Resolución de problemas aritméticos de dos pasos (suma + resta)\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-03-suma-001",
       "statement": "En la tienda escolar del colegio en Bogotá, María compra un jugo que cuesta $800 pesos y unas galletas que cuestan $350 pesos. Si paga con un billete de $2.000 pesos, ¿cuánto dinero le devuelven?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "$750 pesos",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$750 pesos"
         },
         {
           "letter": "B",
-          "text": "$850 pesos",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$850 pesos"
         },
         {
           "letter": "C",
-          "text": "$1.150 pesos",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$1.150 pesos"
         },
         {
           "letter": "D",
-          "text": "$1.200 pesos",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$1.200 pesos"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**¿Por qué B es correcta?**\nPrimero sumamos lo que gastó María: $800 + $350 = $1.150 pesos.\nLuego restamos del billete que pagó: $2.000 - $1.150 = $850 pesos.\nLa respuesta es $850 pesos.\n**¿Por qué las otras son incorrectas?**\n- **A) $750:** Error al sumar ($800 + $350 = $1.050) y luego restar mal.\n- **C) $1.150:** Este es el total de la compra, no lo que le devuelven. Error de comprensión del problema.\n- **D) $1.200:** Error al calcular solo $2.000 - $800 = $1.200, olvidando las galletas.\n**Competencia evaluada:** Resolución de problemas aritméticos de dos pasos (suma + resta)\n---",
       "id": "CO-MAT-03-suma-001-v1"
     },
     {
+      "images": [],
       "number": 2,
-      "explanation": "Sumamos directamente: 200 + 150 = 350.\n- La opción A (250) es un error de suma.\n- La opción C (300) suma solo las centenas.\n- La opción D (450) agrega de más.\n**Competencia evaluada:** Comunicación - operación básica de suma\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-03-suma-001",
       "statement": "¿Cuánto es 200 + 150?",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "250",
-          "is_correct": false
+          "is_correct": false,
+          "text": "250"
         },
         {
           "letter": "B",
-          "text": "350",
-          "is_correct": true
+          "is_correct": true,
+          "text": "350"
         },
         {
           "letter": "C",
-          "text": "300",
-          "is_correct": false
+          "is_correct": false,
+          "text": "300"
         },
         {
           "letter": "D",
-          "text": "450",
-          "is_correct": false
+          "is_correct": false,
+          "text": "450"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "Sumamos directamente: 200 + 150 = 350.\n- La opción A (250) es un error de suma.\n- La opción C (300) suma solo las centenas.\n- La opción D (450) agrega de más.\n**Competencia evaluada:** Comunicación - operación básica de suma\n---",
       "id": "CO-MAT-03-suma-001-v2"
     },
     {
+      "images": [],
       "number": 3,
-      "explanation": "Como Pedro regala canicas, debemos restar: 425 - 100 = 325 canicas.\n- La opción A (525) suma en lugar de restar.\n- La opción B (225) resta 200 en vez de 100.\n- La opción D (415) resta solo 10.\n**Competencia evaluada:** Resolución - identificar operación correcta (resta) en contexto\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-03-suma-001",
       "statement": "Pedro tiene 425 canicas. Le regala 100 a su amigo Juan. ¿Cuántas canicas le quedan a Pedro?",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "525 canicas",
-          "is_correct": false
+          "is_correct": false,
+          "text": "525 canicas"
         },
         {
           "letter": "B",
-          "text": "225 canicas",
-          "is_correct": false
+          "is_correct": false,
+          "text": "225 canicas"
         },
         {
           "letter": "C",
-          "text": "325 canicas",
-          "is_correct": true
+          "is_correct": true,
+          "text": "325 canicas"
         },
         {
           "letter": "D",
-          "text": "415 canicas",
-          "is_correct": false
+          "is_correct": false,
+          "text": "415 canicas"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "Como Pedro regala canicas, debemos restar: 425 - 100 = 325 canicas.\n- La opción A (525) suma en lugar de restar.\n- La opción B (225) resta 200 en vez de 100.\n- La opción D (415) resta solo 10.\n**Competencia evaluada:** Resolución - identificar operación correcta (resta) en contexto\n---",
       "id": "CO-MAT-03-suma-001-v3"
     },
     {
+      "images": [],
       "number": 4,
-      "explanation": "**Paso a paso:**\n1. Sumamos las unidades: 5 + 8 = 13 → escribimos 3 y llevamos 1\n2. Sumamos las decenas: 4 + 7 + 1 = 12 → escribimos 2 y llevamos 1\n3. Sumamos las centenas: 2 + 3 + 1 = 6\n4. Resultado: 623 naranjas\n**¿Por qué las otras son incorrectas?**\n- **B) 523:** Olvidó \"llevar\" en las decenas\n- **C) 613:** Error en las decenas (4+7=11, no 10)\n- **D) 133:** Restó en lugar de sumar\n**Competencia evaluada:** Razonamiento - suma con reagrupación (llevando)\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "A",
       "bundle_id": "CO-MAT-03-suma-001",
       "statement": "En el mercado de la plaza de Medellín, doña Carmen vende frutas. El lunes vendió 245 naranjas y el martes vendió 378 naranjas. ¿Cuántas naranjas vendió en total durante los dos días?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "623 naranjas",
-          "is_correct": true
+          "is_correct": true,
+          "text": "623 naranjas"
         },
         {
           "letter": "B",
-          "text": "523 naranjas",
-          "is_correct": false
+          "is_correct": false,
+          "text": "523 naranjas"
         },
         {
           "letter": "C",
-          "text": "613 naranjas",
-          "is_correct": false
+          "is_correct": false,
+          "text": "613 naranjas"
         },
         {
           "letter": "D",
-          "text": "133 naranjas",
-          "is_correct": false
+          "is_correct": false,
+          "text": "133 naranjas"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Paso a paso:**\n1. Sumamos las unidades: 5 + 8 = 13 → escribimos 3 y llevamos 1\n2. Sumamos las decenas: 4 + 7 + 1 = 12 → escribimos 2 y llevamos 1\n3. Sumamos las centenas: 2 + 3 + 1 = 6\n4. Resultado: 623 naranjas\n**¿Por qué las otras son incorrectas?**\n- **B) 523:** Olvidó \"llevar\" en las decenas\n- **C) 613:** Error en las decenas (4+7=11, no 10)\n- **D) 133:** Restó en lugar de sumar\n**Competencia evaluada:** Razonamiento - suma con reagrupación (llevando)\n---",
       "id": "CO-MAT-03-suma-001-v4"
     },
     {
+      "images": [],
       "number": 5,
-      "explanation": "Debemos sumar todos los valores de la tabla:\n15 + 18 + 17 + 14 = 64 estudiantes\n**¿Por qué las otras son incorrectas?**\n- **A) 33:** Solo sumó 3°A (15 + 18 = 33)\n- **B) 31:** Solo sumó 3°B (17 + 14 = 31)\n- **C) 50:** Solo sumó los niños y las niñas de un salón cada uno\n**Competencia evaluada:** Comunicación - lectura e interpretación de tablas\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "D",
       "bundle_id": "CO-MAT-03-suma-001",
       "statement": "La siguiente tabla muestra los estudiantes de tercer grado en un colegio de Cali:\n| Salón | Niños | Niñas |\n|-------|-------|-------|\n| 3°A | 15 | 18 |\n| 3°B | 17 | 14 |\n¿Cuántos estudiantes hay en total en los dos salones?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "33 estudiantes",
-          "is_correct": false
+          "is_correct": false,
+          "text": "33 estudiantes"
         },
         {
           "letter": "B",
-          "text": "31 estudiantes",
-          "is_correct": false
+          "is_correct": false,
+          "text": "31 estudiantes"
         },
         {
           "letter": "C",
-          "text": "50 estudiantes",
-          "is_correct": false
+          "is_correct": false,
+          "text": "50 estudiantes"
         },
         {
           "letter": "D",
-          "text": "64 estudiantes",
-          "is_correct": true
+          "is_correct": true,
+          "text": "64 estudiantes"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "Debemos sumar todos los valores de la tabla:\n15 + 18 + 17 + 14 = 64 estudiantes\n**¿Por qué las otras son incorrectas?**\n- **A) 33:** Solo sumó 3°A (15 + 18 = 33)\n- **B) 31:** Solo sumó 3°B (17 + 14 = 31)\n- **C) 50:** Solo sumó los niños y las niñas de un salón cada uno\n**Competencia evaluada:** Comunicación - lectura e interpretación de tablas\n---",
       "id": "CO-MAT-03-suma-001-v5"
     },
     {
+      "images": [],
       "number": 6,
-      "explanation": "**Paso 1:** Calculamos libros de cuentos que quedan: 586 - 125 = 461\n**Paso 2:** Calculamos libros de ciencias que quedan: 347 - 89 = 258\n**Paso 3:** Sumamos los que quedan: 461 + 258 = 719 libros\n**¿Por qué las otras son incorrectas?**\n- **A) 1.147:** Sumó todo sin restar los prestados (586 + 347 + 125 + 89)\n- **C) 933:** Solo sumó los libros iniciales sin restar (586 + 347)\n- **D) 808:** Error de cálculo en alguna operación intermedia\n**Competencia evaluada:** Resolución de problemas de múltiples pasos\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-03-suma-001",
       "statement": "En la biblioteca del colegio de Barranquilla hay 586 libros de cuentos y 347 libros de ciencias. Si prestan 125 libros de cuentos y 89 libros de ciencias, ¿cuántos libros quedan en total en la biblioteca?",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "1.147 libros",
-          "is_correct": false
+          "is_correct": false,
+          "text": "1.147 libros"
         },
         {
           "letter": "B",
-          "text": "719 libros",
-          "is_correct": true
+          "is_correct": true,
+          "text": "719 libros"
         },
         {
           "letter": "C",
-          "text": "933 libros",
-          "is_correct": false
+          "is_correct": false,
+          "text": "933 libros"
         },
         {
           "letter": "D",
-          "text": "808 libros",
-          "is_correct": false
+          "is_correct": false,
+          "text": "808 libros"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Paso 1:** Calculamos libros de cuentos que quedan: 586 - 125 = 461\n**Paso 2:** Calculamos libros de ciencias que quedan: 347 - 89 = 258\n**Paso 3:** Sumamos los que quedan: 461 + 258 = 719 libros\n**¿Por qué las otras son incorrectas?**\n- **A) 1.147:** Sumó todo sin restar los prestados (586 + 347 + 125 + 89)\n- **C) 933:** Solo sumó los libros iniciales sin restar (586 + 347)\n- **D) 808:** Error de cálculo en alguna operación intermedia\n**Competencia evaluada:** Resolución de problemas de múltiples pasos\n---",
       "id": "CO-MAT-03-suma-001-v6"
     },
     {
+      "images": [],
       "number": 7,
-      "explanation": "**Análisis por tipo de rosa:**\n**Rosas rojas:**\n- Inicial: 450\n- Venden: -320\n- Reciben: +200\n- Final: 450 - 320 + 200 = 330\n**Rosas amarillas:**\n- Inicial: 280\n- Venden: -150\n- Final: 280 - 150 = 130\n**Rosas blancas:**\n- Inicial: 175\n- Venden: -175 (todas)\n- Final: 0\n**Total final:** 330 + 130 + 0 = **460 rosas**\n**¿Por qué las otras son incorrectas?**\n- **A) 905:** Sumó todo sin restar las vendidas\n- **B) 435:** Olvidó sumar las 200 rosas nuevas\n- **D) 635:** Error al calcular las rosas blancas (no restó todas)\n**Competencia evaluada:** Razonamiento - problema multi-paso con múltiples operaciones\n---\n## 📊 Metadata de Validación\n| Pregunta | ID | Dificultad | Competencia ICFES  | Validado |\n|----------|-----|------------|-------------------|----------|\n| 1 | CO-MAT-03-suma-001-v1 | Medium | Resolución      |    ⬜    |\n| 2 | CO-MAT-03-suma-001-v2 | Low | Comunicación    |    ⬜    |\n| 3 | CO-MAT-03-suma-001-v3 | Low | Resolución      |    ⬜    |\n| 4 | CO-MAT-03-suma-001-v4 | Medium | Razonamiento    |    ⬜    |\n| 5 | CO-MAT-03-suma-001-v5 | Medium | Comunicación    |    ⬜    |\n| 6 | CO-MAT-03-suma-001-v6 | High | Resolución      |    ⬜    |\n| 7 | CO-MAT-03-suma-001-v7 | High | Razonamiento    |    ⬜    |",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-03-suma-001",
       "statement": "Para la Feria de las Flores de Medellín, una floristería tiene 450 rosas rojas, 280 rosas amarillas y 175 rosas blancas. Venden 320 rosas rojas, 150 rosas amarillas y todas las blancas. Luego reciben un pedido de 200 rosas rojas más. ¿Cuántas rosas tienen ahora en total?",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "905 rosas",
-          "is_correct": false
+          "is_correct": false,
+          "text": "905 rosas"
         },
         {
           "letter": "B",
-          "text": "435 rosas",
-          "is_correct": false
+          "is_correct": false,
+          "text": "435 rosas"
         },
         {
           "letter": "C",
-          "text": "460 rosas",
-          "is_correct": true
+          "is_correct": true,
+          "text": "460 rosas"
         },
         {
           "letter": "D",
-          "text": "635 rosas",
-          "is_correct": false
+          "is_correct": false,
+          "text": "635 rosas"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Análisis por tipo de rosa:**\n**Rosas rojas:**\n- Inicial: 450\n- Venden: -320\n- Reciben: +200\n- Final: 450 - 320 + 200 = 330\n**Rosas amarillas:**\n- Inicial: 280\n- Venden: -150\n- Final: 280 - 150 = 130\n**Rosas blancas:**\n- Inicial: 175\n- Venden: -175 (todas)\n- Final: 0\n**Total final:** 330 + 130 + 0 = **460 rosas**\n**¿Por qué las otras son incorrectas?**\n- **A) 905:** Sumó todo sin restar las vendidas\n- **B) 435:** Olvidó sumar las 200 rosas nuevas\n- **D) 635:** Error al calcular las rosas blancas (no restó todas)\n**Competencia evaluada:** Razonamiento - problema multi-paso con múltiples operaciones\n---\n## 📊 Metadata de Validación\n| Pregunta | ID | Dificultad | Competencia ICFES  | Validado |\n|----------|-----|------------|-------------------|----------|\n| 1 | CO-MAT-03-suma-001-v1 | Medium | Resolución      |    ⬜    |\n| 2 | CO-MAT-03-suma-001-v2 | Low | Comunicación    |    ⬜    |\n| 3 | CO-MAT-03-suma-001-v3 | Low | Resolución      |    ⬜    |\n| 4 | CO-MAT-03-suma-001-v4 | Medium | Razonamiento    |    ⬜    |\n| 5 | CO-MAT-03-suma-001-v5 | Medium | Comunicación    |    ⬜    |\n| 6 | CO-MAT-03-suma-001-v6 | High | Resolución      |    ⬜    |\n| 7 | CO-MAT-03-suma-001-v7 | High | Razonamiento    |    ⬜    |",
       "id": "CO-MAT-03-suma-001-v7"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Triángulo:** Su nombre lo indica (tri-ángulo), y se define por tener tres lados rectos conectados.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-03-geometria-001-bundle",
       "statement": "¿Cuál de las siguientes figuras tiene exactamente **3 lados**?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Cuadrado",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Cuadrado"
         },
         {
           "letter": "B",
-          "text": "Círculo",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Círculo"
         },
         {
           "letter": "C",
-          "text": "Triángulo",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Triángulo"
         },
         {
           "letter": "D",
-          "text": "Rectángulo",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Rectángulo"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Triángulo:** Su nombre lo indica (tri-ángulo), y se define por tener tres lados rectos conectados.\n---",
       "id": "CO-MAT-03-geometria-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Lados iguales:** La propiedad principal del cuadrado es que sus cuatro lados miden lo mismo, a diferencia del rectángulo.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-03-geometria-001-bundle",
       "statement": "Un **cuadrado** se caracteriza porque sus 4 lados son:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "De diferentes tamaños.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "De diferentes tamaños."
         },
         {
           "letter": "B",
-          "text": "Curvos.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Curvos."
         },
         {
           "letter": "C",
-          "text": "Todos iguales en longitud.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Todos iguales en longitud."
         },
         {
           "letter": "D",
-          "text": "Solo dos son iguales.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Solo dos son iguales."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Lados iguales:** La propiedad principal del cuadrado es que sus cuatro lados miden lo mismo, a diferencia del rectángulo.\n---",
       "id": "CO-MAT-03-geometria-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Plano vs Cuerpo:** El círculo es una figura dibujada en papel (bidimensional), la pelota ocupa espacio (esfera, tridimensional).\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "A",
       "bundle_id": "CO-MAT-03-geometria-001-bundle",
       "statement": "¿Qué diferencia hay entre un **círculo** y una **pelota**?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "El círculo es plano (2D) y la pelota es un cuerpo (3D).",
-          "is_correct": true
+          "is_correct": true,
+          "text": "El círculo es plano (2D) y la pelota es un cuerpo (3D)."
         },
         {
           "letter": "B",
-          "text": "El círculo tiene esquinas.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "El círculo tiene esquinas."
         },
         {
           "letter": "C",
-          "text": "La pelota es cuadrada.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La pelota es cuadrada."
         },
         {
           "letter": "D",
-          "text": "Son lo mismo.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Son lo mismo."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Plano vs Cuerpo:** El círculo es una figura dibujada en papel (bidimensional), la pelota ocupa espacio (esfera, tridimensional).\n---",
       "id": "CO-MAT-03-geometria-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Vértices:** Un rectángulo tiene 4 esquinas donde se unen sus lados.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-03-geometria-001-bundle",
       "statement": "¿Cuántas esquinas (vértices) tiene un **rectángulo**?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "3"
         },
         {
           "letter": "B",
-          "text": "4",
-          "is_correct": true
+          "is_correct": true,
+          "text": "4"
         },
         {
           "letter": "C",
-          "text": "5",
-          "is_correct": false
+          "is_correct": false,
+          "text": "5"
         },
         {
           "letter": "D",
-          "text": "0",
-          "is_correct": false
+          "is_correct": false,
+          "text": "0"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Vértices:** Un rectángulo tiene 4 esquinas donde se unen sus lados.\n---",
       "id": "CO-MAT-03-geometria-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Rombo:** Es un cuadrilátero con lados iguales pero ángulos no necesariamente rectos, comúnmente asociado a la forma de diamante.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-03-geometria-001-bundle",
       "statement": "La figura parecida a un cuadrado pero que está \"inclinada\" o \"estirada\" como una cometa, se llama:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Círculo.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Círculo."
         },
         {
           "letter": "B",
-          "text": "Rombo.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Rombo."
         },
         {
           "letter": "C",
-          "text": "Triángulo.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Triángulo."
         },
         {
           "letter": "D",
-          "text": "Pentágono.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Pentágono."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Rombo:** Es un cuadrilátero con lados iguales pero ángulos no necesariamente rectos, comúnmente asociado a la forma de diamante.\n---",
       "id": "CO-MAT-03-geometria-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Composición:** Dos triángulos rectángulos unidos forman un cuadrado/rectángulo. Es un ejercicio básico de composición de figuras.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-03-geometria-001-bundle",
       "statement": "Si unimos dos triángulos iguales por uno de sus lados, podemos formar un:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Círculo.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Círculo."
         },
         {
           "letter": "B",
-          "text": "Cuadrado o Rectángulo.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Cuadrado o Rectángulo."
         },
         {
           "letter": "C",
-          "text": "Pentágono irregular.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Pentágono irregular."
         },
         {
           "letter": "D",
-          "text": "Una línea recta.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Una línea recta."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Composición:** Dos triángulos rectángulos unidos forman un cuadrado/rectángulo. Es un ejercicio básico de composición de figuras.\n---",
       "id": "CO-MAT-03-geometria-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Curva:** El círculo está formado por una línea curva cerrada, no tiene segmentos rectos.",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-03-geometria-001-bundle",
       "statement": "¿Cuál de estas figuras NO tiene líneas rectas?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Cuadrado.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Cuadrado."
         },
         {
           "letter": "B",
-          "text": "Triángulo.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Triángulo."
         },
         {
           "letter": "C",
-          "text": "Círculo.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Círculo."
         },
         {
           "letter": "D",
-          "text": "Estrella.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Estrella."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Curva:** El círculo está formado por una línea curva cerrada, no tiene segmentos rectos.",
       "id": "CO-MAT-03-geometria-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Cálculo:** De 8:00 a 9:00 hay 1 hora completa. De 9:00 a 9:30 hay 30 minutos adicionales. Total: 1h 30m.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-03-medicion-001-bundle",
       "statement": "Si una clase empieza a las **8:00 AM** y termina a las **9:30 AM**, ¿cuánto tiempo duró la clase?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "1 hora.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "1 hora."
         },
         {
           "letter": "B",
-          "text": "30 minutos.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "30 minutos."
         },
         {
           "letter": "C",
-          "text": "1 hora y 30 minutos.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "1 hora y 30 minutos."
         },
         {
           "letter": "D",
-          "text": "2 horas.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "2 horas."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Cálculo:** De 8:00 a 9:00 hay 1 hora completa. De 9:00 a 9:30 hay 30 minutos adicionales. Total: 1h 30m.\n---",
       "id": "CO-MAT-03-medicion-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Secuencia:** El orden de los días es Lunes -> Martes -> Miércoles...\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-03-medicion-001-bundle",
       "statement": "Si hoy es **Lunes**, ¿qué día será mañana?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Domingo.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Domingo."
         },
         {
           "letter": "B",
-          "text": "Martes.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Martes."
         },
         {
           "letter": "C",
-          "text": "Miércoles.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Miércoles."
         },
         {
           "letter": "D",
-          "text": "Viernes.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Viernes."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Secuencia:** El orden de los días es Lunes -> Martes -> Miércoles...\n---",
       "id": "CO-MAT-03-medicion-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Reloj analógico:** Pequeña indica hora (3), Grande en 12 indica la hora en punto (\"00\" minutos).\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-03-medicion-001-bundle",
       "statement": "Cuando la manecilla pequeña del reloj señala el 3 y la manecilla grande señala el 12, son las:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "12:03",
-          "is_correct": false
+          "is_correct": false,
+          "text": "12:03"
         },
         {
           "letter": "B",
-          "text": "12:15",
-          "is_correct": false
+          "is_correct": false,
+          "text": "12:15"
         },
         {
           "letter": "C",
-          "text": "3:00 en punto.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "3:00 en punto."
         },
         {
           "letter": "D",
-          "text": "3:12",
-          "is_correct": false
+          "is_correct": false,
+          "text": "3:12"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Reloj analógico:** Pequeña indica hora (3), Grande en 12 indica la hora en punto (\"00\" minutos).\n---",
       "id": "CO-MAT-03-medicion-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Calendario:** Enero a Diciembre son 12 meses.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-03-medicion-001-bundle",
       "statement": "¿Cuántos meses tiene un año?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "10",
-          "is_correct": false
+          "is_correct": false,
+          "text": "10"
         },
         {
           "letter": "B",
-          "text": "6",
-          "is_correct": false
+          "is_correct": false,
+          "text": "6"
         },
         {
           "letter": "C",
-          "text": "12",
-          "is_correct": true
+          "is_correct": true,
+          "text": "12"
         },
         {
           "letter": "D",
-          "text": "24",
-          "is_correct": false
+          "is_correct": false,
+          "text": "24"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Calendario:** Enero a Diciembre son 12 meses.\n---",
       "id": "CO-MAT-03-medicion-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Instrumentos:** La regla mide longitud (cm). Reloj mide tiempo, balanza peso, termómetro temperatura.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-03-medicion-001-bundle",
       "statement": "¿Qué instrumento usarías para medir el largo de tu cuaderno?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Un reloj.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Un reloj."
         },
         {
           "letter": "B",
-          "text": "Una balanza.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Una balanza."
         },
         {
           "letter": "C",
-          "text": "Una regla.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Una regla."
         },
         {
           "letter": "D",
-          "text": "Un termómetro.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Un termómetro."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Instrumentos:** La regla mide longitud (cm). Reloj mide tiempo, balanza peso, termómetro temperatura.\n---",
       "id": "CO-MAT-03-medicion-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Suma horas:** 4 + 2 = 6. Regresó a las 6:00 PM.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-03-medicion-001-bundle",
       "statement": "Juanita salió a jugar a las 4:00 PM y jugó durante **2 horas**. ¿A qué hora regresó a casa?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "5:00 PM.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "5:00 PM."
         },
         {
           "letter": "B",
-          "text": "6:00 PM.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "6:00 PM."
         },
         {
           "letter": "C",
-          "text": "7:00 PM.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "7:00 PM."
         },
         {
           "letter": "D",
-          "text": "4:30 PM.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "4:30 PM."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Suma horas:** 4 + 2 = 6. Regresó a las 6:00 PM.\n---",
       "id": "CO-MAT-03-medicion-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Estimación:** Una escoba mide más de 1 metro, mientras los útiles escolares miden centímetros.",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-03-medicion-001-bundle",
       "statement": "¿Cuál de estos objetos es probablemente el más largo?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Un lápiz.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Un lápiz."
         },
         {
           "letter": "B",
-          "text": "Un borrador.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Un borrador."
         },
         {
           "letter": "C",
-          "text": "Una escoba.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Una escoba."
         },
         {
           "letter": "D",
-          "text": "Un sacapuntas.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Un sacapuntas."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Estimación:** Una escoba mide más de 1 metro, mientras los útiles escolares miden centímetros.",
       "id": "CO-MAT-03-medicion-001-bundle-v0"
     }
   ],
   "metadata": {
-    "total_questions": 28,
-    "exam": "icfes",
+    "subject": "Matemáticas",
     "total_pages": 1.0,
     "page": 1,
-    "grade": "3",
-    "generated_at": "2025-12-08T00:40:55Z",
-    "subject": "Matemáticas",
-    "country": "CO"
+    "generated_at": "2025-12-10T17:08:07Z",
+    "total_questions": 28,
+    "exam": "icfes",
+    "country": "CO",
+    "grade": "3"
   }
 }

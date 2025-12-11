@@ -87,14 +87,14 @@ function Test-QuestionSourceUsed {
         [string]$SourceUrl,
         [string]$SourceId
     )
-    
+
     $registryPath = "docs/sources/questions-registry.json"
     $registry = Get-Content $registryPath | ConvertFrom-Json
-    
+
     $exists = $registry.questions | Where-Object {
         $_.source_url -eq $SourceUrl -or $_.source_id -eq $SourceId
     }
-    
+
     if ($exists) {
         Write-Host "❌ DUPLICADO: Esta fuente ya fue usada" -ForegroundColor Red
         Write-Host "Pack existente: $($exists.pack_id)" -ForegroundColor Yellow
@@ -140,7 +140,7 @@ Agregar entrada al registry `docs/sources/questions-registry.json`:
 }
 ```
 
-**IMPORTANTE:** 
+**IMPORTANTE:**
 - Actualizar `total_packs` y `total_questions` en el registry
 - Incrementar contador en `sources_summary` para la fuente usada
 - Generar SHA-256 hash si es contenido custom

@@ -1,728 +1,728 @@
 {
   "questions": [
     {
+      "images": [],
       "number": 1,
-      "explanation": "**¿Por qué B es correcta?**\nLa abuela dijo esto justo después de que Tomás le diera de comer al perrito hambriento. El texto dice claramente que Tomás vio al perrito \"que parecía tener hambre\" y pidió ayuda para darle comida. Esta acción muestra bondad, que es tener \"un corazón bueno\".\n**¿Por qué las otras son incorrectas?**\n- **A)** El texto no menciona que Tomás ayudaba a cargar bolsas.\n- **C)** No se habla de que Tomás comprara nada.\n- **D)** Caminar despacio no tiene relación con tener buen corazón.\n**Competencia evaluada:** Inferencia - comprender la razón de una acción\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-LEN-03-comprension-001",
       "statement": "¿Por qué la abuela le dijo a Tomás que tenía \"un corazón muy bueno\"?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Porque Tomás siempre la ayudaba a cargar las bolsas",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Porque Tomás siempre la ayudaba a cargar las bolsas"
         },
         {
           "letter": "B",
-          "text": "Porque Tomás se preocupó por un perrito que tenía hambre",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Porque Tomás se preocupó por un perrito que tenía hambre"
         },
         {
           "letter": "C",
-          "text": "Porque Tomás compró las frutas más baratas",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Porque Tomás compró las frutas más baratas"
         },
         {
           "letter": "D",
-          "text": "Porque Tomás caminaba despacio en el mercado",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Porque Tomás caminaba despacio en el mercado"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**¿Por qué B es correcta?**\nLa abuela dijo esto justo después de que Tomás le diera de comer al perrito hambriento. El texto dice claramente que Tomás vio al perrito \"que parecía tener hambre\" y pidió ayuda para darle comida. Esta acción muestra bondad, que es tener \"un corazón bueno\".\n**¿Por qué las otras son incorrectas?**\n- **A)** El texto no menciona que Tomás ayudaba a cargar bolsas.\n- **C)** No se habla de que Tomás comprara nada.\n- **D)** Caminar despacio no tiene relación con tener buen corazón.\n**Competencia evaluada:** Inferencia - comprender la razón de una acción\n---",
       "id": "CO-LEN-03-comprension-001-v1"
     },
     {
+      "images": [],
       "number": 2,
-      "explanation": "El texto dice claramente: \"La abuela sonrió y le dio un pan que llevaba en su bolsa.\"\nEsta es información literal (exacta) que aparece en el texto.\n**Competencia evaluada:** Comprensión literal - identificar información explícita\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-LEN-03-comprension-001",
       "statement": "¿Qué le dio la abuela a Tomás para el perrito?",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "Un tomate",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Un tomate"
         },
         {
           "letter": "B",
-          "text": "Un pan",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Un pan"
         },
         {
           "letter": "C",
-          "text": "Una manzana",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Una manzana"
         },
         {
           "letter": "D",
-          "text": "Un hueso",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Un hueso"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "El texto dice claramente: \"La abuela sonrió y le dio un pan que llevaba en su bolsa.\"\nEsta es información literal (exacta) que aparece en el texto.\n**Competencia evaluada:** Comprensión literal - identificar información explícita\n---",
       "id": "CO-LEN-03-comprension-001-v2"
     },
     {
+      "images": [],
       "number": 3,
-      "explanation": "El texto dice: \"Cada sábado, iban juntos al mercado a comprar frutas y verduras.\"\nLa respuesta está escrita directamente en el primer párrafo.\n**Competencia evaluada:** Comprensión literal - identificar información de tiempo\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "A",
       "bundle_id": "CO-LEN-03-comprension-001",
       "statement": "¿Cuándo iban Tomás y su abuela al mercado?",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "Cada sábado",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Cada sábado"
         },
         {
           "letter": "B",
-          "text": "Todos los días",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Todos los días"
         },
         {
           "letter": "C",
-          "text": "Los domingos",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Los domingos"
         },
         {
           "letter": "D",
-          "text": "Una vez al mes",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Una vez al mes"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "El texto dice: \"Cada sábado, iban juntos al mercado a comprar frutas y verduras.\"\nLa respuesta está escrita directamente en el primer párrafo.\n**Competencia evaluada:** Comprensión literal - identificar información de tiempo\n---",
       "id": "CO-LEN-03-comprension-001-v3"
     },
     {
+      "images": [],
       "number": 4,
-      "explanation": "El texto dice: \"...a quien llamó 'Manchas' por las manchas negras en su pelaje blanco.\"\nLa explicación del nombre está directamente en el texto, conectando la descripción física del perrito con su nombre.\n**Competencia evaluada:** Comprensión literal - identificar causa y efecto\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-LEN-03-comprension-001",
       "statement": "¿Por qué Tomás llamó \"Manchas\" al perrito?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Porque el perrito estaba sucio de barro",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Porque el perrito estaba sucio de barro"
         },
         {
           "letter": "B",
-          "text": "Porque era el nombre de su perro anterior",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Porque era el nombre de su perro anterior"
         },
         {
           "letter": "C",
-          "text": "Porque el perrito tenía manchas negras en su pelaje blanco",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Porque el perrito tenía manchas negras en su pelaje blanco"
         },
         {
           "letter": "D",
-          "text": "Porque la abuela le sugirió ese nombre",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Porque la abuela le sugirió ese nombre"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "El texto dice: \"...a quien llamó 'Manchas' por las manchas negras en su pelaje blanco.\"\nLa explicación del nombre está directamente en el texto, conectando la descripción física del perrito con su nombre.\n**Competencia evaluada:** Comprensión literal - identificar causa y efecto\n---",
       "id": "CO-LEN-03-comprension-001-v4"
     },
     {
+      "images": [],
       "number": 5,
-      "explanation": "El texto dice: \"El animal movió la cola con alegría y comió rápidamente.\"\nMover la cola es una forma en que los perros muestran que están contentos.\n**Competencia evaluada:** Comprensión literal - identificar emociones de los personajes\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-LEN-03-comprension-001",
       "statement": "¿Cómo sabemos que el perrito estaba feliz cuando Tomás le dio el pan?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Porque ladró muy fuerte",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Porque ladró muy fuerte"
         },
         {
           "letter": "B",
-          "text": "Porque movió la cola con alegría",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Porque movió la cola con alegría"
         },
         {
           "letter": "C",
-          "text": "Porque saltó sobre Tomás",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Porque saltó sobre Tomás"
         },
         {
           "letter": "D",
-          "text": "Porque lamió la mano de la abuela",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Porque lamió la mano de la abuela"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "El texto dice: \"El animal movió la cola con alegría y comió rápidamente.\"\nMover la cola es una forma en que los perros muestran que están contentos.\n**Competencia evaluada:** Comprensión literal - identificar emociones de los personajes\n---",
       "id": "CO-LEN-03-comprension-001-v5"
     },
     {
+      "images": [],
       "number": 6,
-      "explanation": "**Análisis del personaje:**\n- Tomás vio al perrito con hambre y se preocupó por él\n- Pidió a su abuela ayuda para alimentarlo\n- Se acercó \"despacio\" (con cuidado) al perrito\n- La abuela dijo que tenía \"un corazón muy bueno\"\n- Siguió llevando comida al perrito cada sábado\nTodas estas acciones muestran que Tomás es bondadoso y se preocupa por los demás, incluso por un perrito callejero.\n**Competencia evaluada:** Inferencia - caracterización de personajes\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-LEN-03-comprension-001",
       "statement": "¿Qué tipo de persona es Tomás según el texto?",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "Una persona miedosa que no le gustan los animales",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Una persona miedosa que no le gustan los animales"
         },
         {
           "letter": "B",
-          "text": "Una persona egoísta que solo piensa en sí mismo",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Una persona egoísta que solo piensa en sí mismo"
         },
         {
           "letter": "C",
-          "text": "Una persona bondadosa que se preocupa por los demás",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Una persona bondadosa que se preocupa por los demás"
         },
         {
           "letter": "D",
-          "text": "Una persona distraída que siempre se pierde",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Una persona distraída que siempre se pierde"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Análisis del personaje:**\n- Tomás vio al perrito con hambre y se preocupó por él\n- Pidió a su abuela ayuda para alimentarlo\n- Se acercó \"despacio\" (con cuidado) al perrito\n- La abuela dijo que tenía \"un corazón muy bueno\"\n- Siguió llevando comida al perrito cada sábado\nTodas estas acciones muestran que Tomás es bondadoso y se preocupa por los demás, incluso por un perrito callejero.\n**Competencia evaluada:** Inferencia - caracterización de personajes\n---",
       "id": "CO-LEN-03-comprension-001-v6"
     },
     {
+      "images": [],
       "number": 7,
-      "explanation": "**Análisis de la emoción:**\nLa palabra \"tristeza\" nos dice que Tomás se sintió triste al ver al perrito con hambre. No estaba enojado, ni cansado, ni tenía miedo. Ver a un animal sufriendo le causó tristeza, lo que muestra su sensibilidad y empatía.\nEste tipo de pregunta requiere:\n1. Identificar la emoción mencionada (tristeza)\n2. Conectarla con la situación (ver al perrito hambriento)\n3. Descartar emociones que no corresponden al contexto\n**Competencia evaluada:** Inferencia - comprensión de emociones y vocabulario emocional\n---\n## 📊 Metadata de Validación\n| Pregunta | ID | Dificultad | Tipo | Validado |\n|----------|-----|------------|------|----------|\n| 1 | CO-LEN-03-comprension-001-v1 | Medium | Inferencia | ⬜ |\n| 2 | CO-LEN-03-comprension-001-v2 | Low | Literal | ⬜ |\n| 3 | CO-LEN-03-comprension-001-v3 | Low | Literal | ⬜ |\n| 4 | CO-LEN-03-comprension-001-v4 | Medium | Literal | ⬜ |\n| 5 | CO-LEN-03-comprension-001-v5 | Medium | Literal | ⬜ |\n| 6 | CO-LEN-03-comprension-001-v6 | High | Inferencia | ⬜ |\n| 7 | CO-LEN-03-comprension-001-v7 | High | Inferencia | ⬜ |",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-LEN-03-comprension-001",
       "statement": "Lee el siguiente fragmento:\n*\"—Abuela, ¿podemos darle algo de comer? —preguntó Tomás con tristeza.\"*\n¿Qué nos dice la palabra \"tristeza\" sobre cómo se sentía Tomás?",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "Tomás estaba enojado porque no quería ir al mercado",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Tomás estaba enojado porque no quería ir al mercado"
         },
         {
           "letter": "B",
-          "text": "Tomás estaba cansado de caminar tanto",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Tomás estaba cansado de caminar tanto"
         },
         {
           "letter": "C",
-          "text": "Tomás se sentía mal al ver al perrito con hambre",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Tomás se sentía mal al ver al perrito con hambre"
         },
         {
           "letter": "D",
-          "text": "Tomás tenía miedo del perrito",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Tomás tenía miedo del perrito"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Análisis de la emoción:**\nLa palabra \"tristeza\" nos dice que Tomás se sintió triste al ver al perrito con hambre. No estaba enojado, ni cansado, ni tenía miedo. Ver a un animal sufriendo le causó tristeza, lo que muestra su sensibilidad y empatía.\nEste tipo de pregunta requiere:\n1. Identificar la emoción mencionada (tristeza)\n2. Conectarla con la situación (ver al perrito hambriento)\n3. Descartar emociones que no corresponden al contexto\n**Competencia evaluada:** Inferencia - comprensión de emociones y vocabulario emocional\n---\n## 📊 Metadata de Validación\n| Pregunta | ID | Dificultad | Tipo | Validado |\n|----------|-----|------------|------|----------|\n| 1 | CO-LEN-03-comprension-001-v1 | Medium | Inferencia | ⬜ |\n| 2 | CO-LEN-03-comprension-001-v2 | Low | Literal | ⬜ |\n| 3 | CO-LEN-03-comprension-001-v3 | Low | Literal | ⬜ |\n| 4 | CO-LEN-03-comprension-001-v4 | Medium | Literal | ⬜ |\n| 5 | CO-LEN-03-comprension-001-v5 | Medium | Literal | ⬜ |\n| 6 | CO-LEN-03-comprension-001-v6 | High | Inferencia | ⬜ |\n| 7 | CO-LEN-03-comprension-001-v7 | High | Inferencia | ⬜ |",
       "id": "CO-LEN-03-comprension-001-v7"
     },
     {
+      "images": [],
       "number": 1,
-      "explanation": "Pregunta literal. El texto dice explícitamente \"fue al mercado\".\n**Competencia evaluada:** Comprensión Literal.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-LEN-03-comprension-mix-001",
       "statement": "Lee: 'Ana fue al mercado y compró manzanas.' ¿A dónde fue Ana?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Al parque",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Al parque"
         },
         {
           "letter": "B",
-          "text": "A la escuela",
-          "is_correct": false
+          "is_correct": false,
+          "text": "A la escuela"
         },
         {
           "letter": "C",
-          "text": "Al mercado",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Al mercado"
         },
         {
           "letter": "D",
-          "text": "Al cine",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Al cine"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "Pregunta literal. El texto dice explícitamente \"fue al mercado\".\n**Competencia evaluada:** Comprensión Literal.\n---",
       "id": "CO-LEN-03-comprension-mix-001-v1"
     },
     {
+      "images": [],
       "number": 2,
-      "explanation": "Literal. El sujeto de la oración es Ana.\n**Competencia evaluada:** Comprensión Literal - Identificar personajes.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "A",
       "bundle_id": "CO-LEN-03-comprension-mix-001",
       "statement": "En el texto anterior, ¿quién fue al mercado?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Ana",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Ana"
         },
         {
           "letter": "B",
-          "text": "Pedro",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Pedro"
         },
         {
           "letter": "C",
-          "text": "La mamá",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La mamá"
         },
         {
           "letter": "D",
-          "text": "La vendedora",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La vendedora"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "Literal. El sujeto de la oración es Ana.\n**Competencia evaluada:** Comprensión Literal - Identificar personajes.\n---",
       "id": "CO-LEN-03-comprension-mix-001-v2"
     },
     {
+      "images": [],
       "number": 3,
-      "explanation": "Literal. \"compró manzanas\".\n**Competencia evaluada:** Comprensión Literal - Detalles.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-LEN-03-comprension-mix-001",
       "statement": "¿Qué compró Ana?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Peras",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Peras"
         },
         {
           "letter": "B",
-          "text": "Manzanas",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Manzanas"
         },
         {
           "letter": "C",
-          "text": "Juguetes",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Juguetes"
         },
         {
           "letter": "D",
-          "text": "Pan",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Pan"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "Literal. \"compró manzanas\".\n**Competencia evaluada:** Comprensión Literal - Detalles.\n---",
       "id": "CO-LEN-03-comprension-mix-001-v3"
     },
     {
+      "images": [],
       "number": 4,
-      "explanation": "Inferencia causal. Sol fuerte $\\rightarrow$ Necesidad de protección.\n**Competencia evaluada:** Comprensión Inferencial - Causa/Efecto.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-LEN-03-comprension-mix-001",
       "statement": "Lee: \"El sol estaba muy fuerte y Pedro se puso su gorra.\"\n¿Por qué se puso Pedro la gorra?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Porque tenía frío.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Porque tenía frío."
         },
         {
           "letter": "B",
-          "text": "Porque era de noche.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Porque era de noche."
         },
         {
           "letter": "C",
-          "text": "Para protegerse del sol.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Para protegerse del sol."
         },
         {
           "letter": "D",
-          "text": "Para dormir.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Para dormir."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "Inferencia causal. Sol fuerte $\\rightarrow$ Necesidad de protección.\n**Competencia evaluada:** Comprensión Inferencial - Causa/Efecto.\n---",
       "id": "CO-LEN-03-comprension-mix-001-v4"
     },
     {
+      "images": [],
       "number": 5,
-      "explanation": "Interpretar el lenguaje corporal (mover la cola) como signo de emoción (felicidad).\n**Competencia evaluada:** Interpretación textual.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-LEN-03-comprension-mix-001",
       "statement": "Lee: \"El perro movía la cola cuando vio a su dueño.\"\nPodemos decir que el perro estaba:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Bravo",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Bravo"
         },
         {
           "letter": "B",
-          "text": "Triste",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Triste"
         },
         {
           "letter": "C",
-          "text": "Feliz",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Feliz"
         },
         {
           "letter": "D",
-          "text": "Dormido",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Dormido"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "Interpretar el lenguaje corporal (mover la cola) como signo de emoción (felicidad).\n**Competencia evaluada:** Interpretación textual.\n---",
       "id": "CO-LEN-03-comprension-mix-001-v5"
     },
     {
+      "images": [],
       "number": 6,
-      "explanation": "Secuencia lógica temporal (hábito saludable antes de comer). Lavarse $\\rightarrow$ Servir $\\rightarrow$ Comer.\n**Competencia evaluada:** Organización textual.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-LEN-03-comprension-mix-001",
       "statement": "Ordena la historia:\n1. Se comió la sopa.\n2. La mamá sirvió la comida.\n3. El niño se lavó las manos.",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "1, 2, 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "1, 2, 3"
         },
         {
           "letter": "B",
-          "text": "3, 1, 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "3, 1, 2"
         },
         {
           "letter": "C",
-          "text": "3, 2, 1",
-          "is_correct": true
+          "is_correct": true,
+          "text": "3, 2, 1"
         },
         {
           "letter": "D",
-          "text": "2, 1, 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "2, 1, 3"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "Secuencia lógica temporal (hábito saludable antes de comer). Lavarse $\\rightarrow$ Servir $\\rightarrow$ Comer.\n**Competencia evaluada:** Organización textual.\n---",
       "id": "CO-LEN-03-comprension-mix-001-v6"
     },
     {
+      "images": [],
       "number": 7,
-      "explanation": "Ortografía básica. Vaca se escribe con V.\n**Competencia evaluada:** Ortografía.\n---\n## 📊 Metadata de Validación\n| Pregunta | ID | Dificultad | Competencia ICFES | Componente | Validado |\n|----------|-----|------------|-------------------|------------|----------|\n| 1 | v1 | 2 | Comprensión | Semántico | ⬜ |\n| 2 | v2 | Low | Comprensión | Semántico | ⬜ |\n| 3 | v3 | Low | Comprensión | Semántico | ⬜ |\n| 4 | v4 | Medium | Inferencia | Semántico | ⬜ |\n| 5 | v5 | 4 | Inferencia | Semántico | ⬜ |\n| 6 | v6 | High | Organización | Sintáctico | ⬜ |\n| 7 | v7 | 1 | Ortografía | Ortográfico | ⬜ |",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-LEN-03-comprension-mix-001",
       "statement": "¿Cuál palabra está mal escrita?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Casa",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Casa"
         },
         {
           "letter": "B",
-          "text": "Perro",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Perro"
         },
         {
           "letter": "C",
-          "text": "Vaca (escrita como 'Baca')",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Vaca (escrita como 'Baca')"
         },
         {
           "letter": "D",
-          "text": "Gato",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Gato"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "Ortografía básica. Vaca se escribe con V.\n**Competencia evaluada:** Ortografía.\n---\n## 📊 Metadata de Validación\n| Pregunta | ID | Dificultad | Competencia ICFES | Componente | Validado |\n|----------|-----|------------|-------------------|------------|----------|\n| 1 | v1 | 2 | Comprensión | Semántico | ⬜ |\n| 2 | v2 | Low | Comprensión | Semántico | ⬜ |\n| 3 | v3 | Low | Comprensión | Semántico | ⬜ |\n| 4 | v4 | Medium | Inferencia | Semántico | ⬜ |\n| 5 | v5 | 4 | Inferencia | Semántico | ⬜ |\n| 6 | v6 | High | Organización | Sintáctico | ⬜ |\n| 7 | v7 | 1 | Ortografía | Ortográfico | ⬜ |",
       "id": "CO-LEN-03-comprension-mix-001-v7"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Verbo:** Es la palabra que indica acción o movimiento. Aquí, la acción que realiza el perro es \"correr\".\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-LEN-03-gramatica-001-bundle",
       "statement": "Identifica el **VERBO** (la acción) en la oración:\n*'El perro corre rápido por el parque.'*",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "perro",
-          "is_correct": false
+          "is_correct": false,
+          "text": "perro"
         },
         {
           "letter": "B",
-          "text": "corre",
-          "is_correct": true
+          "is_correct": true,
+          "text": "corre"
         },
         {
           "letter": "C",
-          "text": "rápido",
-          "is_correct": false
+          "is_correct": false,
+          "text": "rápido"
         },
         {
           "letter": "D",
-          "text": "parque",
-          "is_correct": false
+          "is_correct": false,
+          "text": "parque"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Verbo:** Es la palabra que indica acción o movimiento. Aquí, la acción que realiza el perro es \"correr\".\n---",
       "id": "CO-LEN-03-gramatica-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Sinónimo:** \"Contento\" y \"Feliz\" comparten el mismo significado de alegría. Triste es lo opuesto (antónimo).\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-LEN-03-gramatica-001-bundle",
       "statement": "¿Cuál palabra significa lo mismo que **'feliz'**? (Sinónimo)",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Triste",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Triste"
         },
         {
           "letter": "B",
-          "text": "Contento",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Contento"
         },
         {
           "letter": "C",
-          "text": "Enojado",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Enojado"
         },
         {
           "letter": "D",
-          "text": "Aburrido",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Aburrido"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Sinónimo:** \"Contento\" y \"Feliz\" comparten el mismo significado de alegría. Triste es lo opuesto (antónimo).\n---",
       "id": "CO-LEN-03-gramatica-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Sustantivo:** Mesa es un objeto. Saltar y Cantar son verbos. Amarillo es adjetivo.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-LEN-03-gramatica-001-bundle",
       "statement": "¿Cuál de las siguientes palabras es un **sustantivo** (nombre de cosa, animal o persona)?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Saltar",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Saltar"
         },
         {
           "letter": "B",
-          "text": "Mesa",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Mesa"
         },
         {
           "letter": "C",
-          "text": "Amarillo",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Amarillo"
         },
         {
           "letter": "D",
-          "text": "Cantar",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Cantar"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Sustantivo:** Mesa es un objeto. Saltar y Cantar son verbos. Amarillo es adjetivo.\n---",
       "id": "CO-LEN-03-gramatica-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Antónimo:** Pequeño es el opuesto de grande.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-LEN-03-gramatica-001-bundle",
       "statement": "¿Cuál es lo contrario (antónimo) de **'Grande'**?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Enorme",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Enorme"
         },
         {
           "letter": "B",
-          "text": "Alto",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Alto"
         },
         {
           "letter": "C",
-          "text": "Pequeño",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Pequeño"
         },
         {
           "letter": "D",
-          "text": "Gordo",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Gordo"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Antónimo:** Pequeño es el opuesto de grande.\n---",
       "id": "CO-LEN-03-gramatica-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Cualidad:** Inteligente describe cómo es la niña.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-LEN-03-gramatica-001-bundle",
       "statement": "En la frase *\"La niña inteligente lee un libro\"*, ¿cuál es el **adjetivo**?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "niña",
-          "is_correct": false
+          "is_correct": false,
+          "text": "niña"
         },
         {
           "letter": "B",
-          "text": "inteligente",
-          "is_correct": true
+          "is_correct": true,
+          "text": "inteligente"
         },
         {
           "letter": "C",
-          "text": "lee",
-          "is_correct": false
+          "is_correct": false,
+          "text": "lee"
         },
         {
           "letter": "D",
-          "text": "libro",
-          "is_correct": false
+          "is_correct": false,
+          "text": "libro"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Cualidad:** Inteligente describe cómo es la niña.\n---",
       "id": "CO-LEN-03-gramatica-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Género:** Decimos \"El\" gato (masculino), no \"La\" gato.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "A",
       "bundle_id": "CO-LEN-03-gramatica-001-bundle",
       "statement": "Si decimos \"El gato\", ¿qué género tiene la palabra gato?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Masculino",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Masculino"
         },
         {
           "letter": "B",
-          "text": "Femenino",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Femenino"
         },
         {
           "letter": "C",
-          "text": "Plural",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Plural"
         },
         {
           "letter": "D",
-          "text": "Verbo",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Verbo"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Género:** Decimos \"El\" gato (masculino), no \"La\" gato.\n---",
       "id": "CO-LEN-03-gramatica-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Sinónimo:** Veloz significa moverse con rapidez. Lento es el antónimo.",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-LEN-03-gramatica-001-bundle",
       "statement": "Busca el sinónimo de **'Rápido'**:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Lento",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Lento"
         },
         {
           "letter": "B",
-          "text": "Veloz",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Veloz"
         },
         {
           "letter": "C",
-          "text": "Pesado",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Pesado"
         },
         {
           "letter": "D",
-          "text": "Quieto",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Quieto"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Sinónimo:** Veloz significa moverse con rapidez. Lento es el antónimo.",
       "id": "CO-LEN-03-gramatica-001-bundle-v0"
     }
   ],
   "metadata": {
-    "total_questions": 21,
-    "exam": "icfes",
+    "subject": "Lenguaje",
     "total_pages": 1.0,
     "page": 1,
-    "grade": "3",
-    "generated_at": "2025-12-08T00:40:55Z",
-    "subject": "Lenguaje",
-    "country": "CO"
+    "generated_at": "2025-12-10T17:08:07Z",
+    "total_questions": 21,
+    "exam": "icfes",
+    "country": "CO",
+    "grade": "3"
   }
 }

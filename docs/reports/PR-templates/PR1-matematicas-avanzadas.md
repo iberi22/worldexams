@@ -1,8 +1,8 @@
 # 🎯 PR #1: Matemáticas Avanzadas - 3 Packs (21 Preguntas)
 
-> **Asignado a:** @jules  
-> **Grado:** 11° (Saber 11)  
-> **Asignatura:** Matemáticas  
+> **Asignado a:** @jules
+> **Grado:** 11° (Saber 11)
+> **Asignatura:** Matemáticas
 > **Total preguntas:** 21 (3 packs × 7 preguntas)
 
 ---
@@ -319,6 +319,6 @@ cc: @jules
 
 ---
 
-**Creado:** 10 de diciembre de 2025  
-**Autor:** GitHub Copilot  
+**Creado:** 10 de diciembre de 2025
+**Autor:** GitHub Copilot
 **Versión:** 1.0

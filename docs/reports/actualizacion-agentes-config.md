@@ -1,8 +1,8 @@
 # 📋 Actualización de Configuración de Agentes
 
-> **Fecha:** 2025-12-04  
-> **Solicitado por:** Usuario  
-> **Ejecutado por:** GitHub Copilot  
+> **Fecha:** 2025-12-04
+> **Solicitado por:** Usuario
+> **Ejecutado por:** GitHub Copilot
 > **Estado:** ✅ Completado
 
 ---
@@ -62,7 +62,7 @@ Actualizar los archivos de configuración de agentes para reflejar correctamente
 
 **Ubicación:** `e:\scripts-python\worldexams\AGENTS.md`
 
-**Líneas modificadas:** 
+**Líneas modificadas:**
 - Generator: 37-58
 - Librarian: 112-136
 - Synchronizer: 180-184

@@ -1,3351 +1,3351 @@
 {
   "questions": [
     {
+      "images": [],
       "number": 1,
-      "explanation": "",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "CO-SOC-11-constitucion-001-bundle",
       "statement": "# Bundle: Constitución Política de 1991\n> **Contexto:** Mecanismos de protección, participación y estructura del Estado.\n> **Competencia:** Ejercicio de la ciudadanía activa.\n-------|-----|------------|-------------------|--------|\n| 1 | CO-SOC-11-constitucion-001-v1 | Medium | Tutela | ⬜ |\n| 2 | CO-SOC-11-constitucion-001-v2 | 3 | Plebiscito | ⬜ |\n| 3 | CO-SOC-11-constitucion-001-v3 | Low | Derechos Fundamentales | ⬜ |\n| 4 | CO-SOC-11-constitucion-001-v4 | 4 | Ramas del Poder | ⬜ |\n| 5 | CO-SOC-11-constitucion-001-v5 | Medium | Voto Programático | ⬜ |\n| 6 | CO-SOC-11-constitucion-001-v6 | High | Estado Social de Derecho | ⬜ |\n| 7 | CO-SOC-11-constitucion-001-v7 | 2 | Diversidad Étnica | ⬜ |",
+      "tags": [],
       "difficulty": "Medium",
       "options": [],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "",
       "id": "CO-SOC-11-constitucion-001-bundle-v1"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Plebiscito:** Es la convocatoria que hace el Presidente al pueblo para que este apoye o rechace una decisión del Ejecutivo. El Referendo es para reformar normas.",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-SOC-11-constitucion-001-bundle",
       "statement": "Según la Constitución, ¿cuál es el mecanismo de participación ciudadana que permite a los ciudadanos **aprobar o rechazar** una decisión del ejecutivo (como un acuerdo de paz)?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "El Cabildo Abierto.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "El Cabildo Abierto."
         },
         {
           "letter": "B",
-          "text": "El Plebiscito.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "El Plebiscito."
         },
         {
           "letter": "C",
-          "text": "La Tutela.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La Tutela."
         },
         {
           "letter": "D",
-          "text": "La Iniciativa Popular.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La Iniciativa Popular."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Plebiscito:** Es la convocatoria que hace el Presidente al pueblo para que este apoye o rechace una decisión del Ejecutivo. El Referendo es para reformar normas.",
       "id": "CO-SOC-11-constitucion-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Separación de Poderes:** Legislativa (hace leyes), Ejecutiva (administra), Judicial (juzga). Además existen los órganos de control (Procuraduría, Contraloría, Defensoría).",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-SOC-11-constitucion-001-bundle",
       "statement": "El Estado colombiano se divide en tres ramas del poder público para garantizar el equilibrio. ¿Cuáles son?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Militar, Eclesiástica y Civil.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Militar, Eclesiástica y Civil."
         },
         {
           "letter": "B",
-          "text": "Legislativa, Ejecutiva y Judicial.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Legislativa, Ejecutiva y Judicial."
         },
         {
           "letter": "C",
-          "text": "Nacional, Departamental y Municipal.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Nacional, Departamental y Municipal."
         },
         {
           "letter": "D",
-          "text": "Pública, Privada y Mixta.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Pública, Privada y Mixta."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Separación de Poderes:** Legislativa (hace leyes), Ejecutiva (administra), Judicial (juzga). Además existen los órganos de control (Procuraduría, Contraloría, Defensoría).",
       "id": "CO-SOC-11-constitucion-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Social de Derecho:** No solo se respetan las leyes (Estado de Derecho), sino que el Estado tiene un rol activo en buscar la justicia social y la dignidad humana.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-SOC-11-constitucion-001-bundle",
       "statement": "Colombia se define como un **Estado Social de Derecho**. Esto implica principalmente que:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "La ley es solo una sugerencia.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La ley es solo una sugerencia."
         },
         {
           "letter": "B",
-          "text": "El Estado solo se preocupa por la seguridad policial.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "El Estado solo se preocupa por la seguridad policial."
         },
         {
           "letter": "C",
-          "text": "El Estado debe garantizar los derechos sociales, económicos y culturales (salud, educación, vivienda) para lograr equidad.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "El Estado debe garantizar los derechos sociales, económicos y culturales (salud, educación, vivienda) para lograr equidad."
         },
         {
           "letter": "D",
-          "text": "Todas las propiedades son del Estado.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Todas las propiedades son del Estado."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Social de Derecho:** No solo se respetan las leyes (Estado de Derecho), sino que el Estado tiene un rol activo en buscar la justicia social y la dignidad humana.\n---",
       "id": "CO-SOC-11-constitucion-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Diversidad:** Se rompe con la idea de una nación homogénea y se otorgan derechos especiales (jurisdicción indígena, consulta previa) a los grupos étnicos.\n*(Contenido migrado, favor revisar)*\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-SOC-11-constitucion-001-bundle",
       "statement": "La Constitución reconoce a Colombia como un país **pluriétnico y multicultural**. Esto significa que:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Todos deben hablar solo español y ser católicos.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Todos deben hablar solo español y ser católicos."
         },
         {
           "letter": "B",
-          "text": "El Estado protege la diversidad étnica y cultural, y reconoce lenguas y tradiciones de comunidades indígenas, afrodescendientes y raizales.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "El Estado protege la diversidad étnica y cultural, y reconoce lenguas y tradiciones de comunidades indígenas, afrodescendientes y raizales."
         },
         {
           "letter": "C",
-          "text": "Las minorías no tienen derechos especiales.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Las minorías no tienen derechos especiales."
         },
         {
           "letter": "D",
-          "text": "La cultura extranjera es superior a la nacional.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La cultura extranjera es superior a la nacional."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Diversidad:** Se rompe con la idea de una nación homogénea y se otorgan derechos especiales (jurisdicción indígena, consulta previa) a los grupos étnicos.\n*(Contenido migrado, favor revisar)*\n---",
       "id": "CO-SOC-11-constitucion-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 2,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "CO-SOC-11-constitucion-001-bundle",
       "statement": "TODO: Generar variación de tipo Low A",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "CO-SOC-11-constitucion-001-bundle-v2"
     },
     {
+      "images": [],
       "number": 3,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "CO-SOC-11-constitucion-001-bundle",
       "statement": "TODO: Generar variación de tipo Low B",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "CO-SOC-11-constitucion-001-bundle-v3"
     },
     {
+      "images": [],
       "number": 4,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "CO-SOC-11-constitucion-001-bundle",
       "statement": "TODO: Generar variación de tipo Medium A",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "CO-SOC-11-constitucion-001-bundle-v4"
     },
     {
+      "images": [],
       "number": 5,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "CO-SOC-11-constitucion-001-bundle",
       "statement": "TODO: Generar variación de tipo Medium B",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "CO-SOC-11-constitucion-001-bundle-v5"
     },
     {
+      "images": [],
       "number": 6,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "CO-SOC-11-constitucion-001-bundle",
       "statement": "TODO: Generar variación de tipo High A",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "CO-SOC-11-constitucion-001-bundle-v6"
     },
     {
+      "images": [],
       "number": 7,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "CO-SOC-11-constitucion-001-bundle",
       "statement": "TODO: Generar variación de tipo High B",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "CO-SOC-11-constitucion-001-bundle-v7"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Tutela:** Es el mecanismo preferente y sumario para proteger derechos fundamentales (vida, salud, debido proceso) cuando no existe otro medio de defensa judicial o para evitar un perjuicio irremediable.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-SOC-11-constitucion-001-bundle",
       "statement": "Un ciudadano considera que se le ha vulnerado su **derecho fundamental a la salud** porque su EPS se niega a realizarle una cirugía urgente. ¿Qué acción constitucional debe interponer?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Acción de Grupo.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Acción de Grupo."
         },
         {
           "letter": "B",
-          "text": "Acción Popular.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Acción Popular."
         },
         {
           "letter": "C",
-          "text": "Acción de Tutela.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Acción de Tutela."
         },
         {
           "letter": "D",
-          "text": "Acción de Cumplimiento.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Acción de Cumplimiento."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Tutela:** Es el mecanismo preferente y sumario para proteger derechos fundamentales (vida, salud, debido proceso) cuando no existe otro medio de defensa judicial o para evitar un perjuicio irremediable.\n---",
       "id": "CO-SOC-11-constitucion-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Plebiscito:** Es la convocatoria que hace el Presidente al pueblo para que este apoye o rechace una decisión del Ejecutivo. El Referendo es para reformar normas.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-SOC-11-constitucion-001-bundle",
       "statement": "Según la Constitución, ¿cuál es el mecanismo de participación ciudadana que permite a los ciudadanos **aprobar o rechazar** una decisión del ejecutivo (como un acuerdo de paz)?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "El Cabildo Abierto.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "El Cabildo Abierto."
         },
         {
           "letter": "B",
-          "text": "El Plebiscito.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "El Plebiscito."
         },
         {
           "letter": "C",
-          "text": "La Tutela.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La Tutela."
         },
         {
           "letter": "D",
-          "text": "La Iniciativa Popular.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La Iniciativa Popular."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Plebiscito:** Es la convocatoria que hace el Presidente al pueblo para que este apoye o rechace una decisión del Ejecutivo. El Referendo es para reformar normas.\n---",
       "id": "CO-SOC-11-constitucion-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Art. 11:** \"El derecho a la vida es inviolable. No habrá pena de muerte.\"\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "A",
       "bundle_id": "CO-SOC-11-constitucion-001-bundle",
       "statement": "La Constitución de 1991 consagra el derecho a la **vida** como inviolable. Por lo tanto, en Colombia:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "No habrá pena de muerte.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "No habrá pena de muerte."
         },
         {
           "letter": "B",
-          "text": "La pena de muerte aplica solo para delitos graves.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La pena de muerte aplica solo para delitos graves."
         },
         {
           "letter": "C",
-          "text": "La pena de muerte depende del departamento.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La pena de muerte depende del departamento."
         },
         {
           "letter": "D",
-          "text": "La policía puede aplicar pena de muerte a discreción.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La policía puede aplicar pena de muerte a discreción."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Art. 11:** \"El derecho a la vida es inviolable. No habrá pena de muerte.\"\n---",
       "id": "CO-SOC-11-constitucion-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Separación de Poderes:** Legislativa (hace leyes), Ejecutiva (administra), Judicial (juzga). Además existen los órganos de control (Procuraduría, Contraloría, Defensoría).\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-SOC-11-constitucion-001-bundle",
       "statement": "El Estado colombiano se divide en tres ramas del poder público para garantizar el equilibrio. ¿Cuáles son?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Militar, Eclesiástica y Civil.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Militar, Eclesiástica y Civil."
         },
         {
           "letter": "B",
-          "text": "Legislativa, Ejecutiva y Judicial.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Legislativa, Ejecutiva y Judicial."
         },
         {
           "letter": "C",
-          "text": "Nacional, Departamental y Municipal.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Nacional, Departamental y Municipal."
         },
         {
           "letter": "D",
-          "text": "Pública, Privada y Mixta.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Pública, Privada y Mixta."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Separación de Poderes:** Legislativa (hace leyes), Ejecutiva (administra), Judicial (juzga). Además existen los órganos de control (Procuraduría, Contraloría, Defensoría).\n---",
       "id": "CO-SOC-11-constitucion-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Revocatoria:** Si el mandatario incumple su programa de gobierno, los ciudadanos pueden revocar su mandato mediante votación.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-SOC-11-constitucion-001-bundle",
       "statement": "El **Voto Programático** obliga a alcaldes y gobernadores a:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Votar siempre por su partido.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Votar siempre por su partido."
         },
         {
           "letter": "B",
-          "text": "Cumplir el plan de gobierno que inscribieron al ser candidatos, so pena de revocatoria del mandato.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Cumplir el plan de gobierno que inscribieron al ser candidatos, so pena de revocatoria del mandato."
         },
         {
           "letter": "C",
-          "text": "Repartir puestos entre todos los votantes.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Repartir puestos entre todos los votantes."
         },
         {
           "letter": "D",
-          "text": "Seguir las órdenes del Presidente ciegamente.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Seguir las órdenes del Presidente ciegamente."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Revocatoria:** Si el mandatario incumple su programa de gobierno, los ciudadanos pueden revocar su mandato mediante votación.\n---",
       "id": "CO-SOC-11-constitucion-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Social de Derecho:** No solo se respetan las leyes (Estado de Derecho), sino que el Estado tiene un rol activo en buscar la justicia social y la dignidad humana.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-SOC-11-constitucion-001-bundle",
       "statement": "Colombia se define como un **Estado Social de Derecho**. Esto implica principalmente que:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "La ley es solo una sugerencia.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La ley es solo una sugerencia."
         },
         {
           "letter": "B",
-          "text": "El Estado solo se preocupa por la seguridad policial.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "El Estado solo se preocupa por la seguridad policial."
         },
         {
           "letter": "C",
-          "text": "El Estado debe garantizar los derechos sociales, económicos y culturales (salud, educación, vivienda) para lograr equidad.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "El Estado debe garantizar los derechos sociales, económicos y culturales (salud, educación, vivienda) para lograr equidad."
         },
         {
           "letter": "D",
-          "text": "Todas las propiedades son del Estado.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Todas las propiedades son del Estado."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Social de Derecho:** No solo se respetan las leyes (Estado de Derecho), sino que el Estado tiene un rol activo en buscar la justicia social y la dignidad humana.\n---",
       "id": "CO-SOC-11-constitucion-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Diversidad:** Se rompe con la idea de una nación homogénea y se otorgan derechos especiales (jurisdicción indígena, consulta previa) a los grupos étnicos.",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-SOC-11-constitucion-001-bundle",
       "statement": "La Constitución reconoce a Colombia como un país **pluriétnico y multicultural**. Esto significa que:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Todos deben hablar solo español y ser católicos.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Todos deben hablar solo español y ser católicos."
         },
         {
           "letter": "B",
-          "text": "El Estado protege la diversidad étnica y cultural, y reconoce lenguas y tradiciones de comunidades indígenas, afrodescendientes y raizales.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "El Estado protege la diversidad étnica y cultural, y reconoce lenguas y tradiciones de comunidades indígenas, afrodescendientes y raizales."
         },
         {
           "letter": "C",
-          "text": "Las minorías no tienen derechos especiales.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Las minorías no tienen derechos especiales."
         },
         {
           "letter": "D",
-          "text": "La cultura extranjera es superior a la nacional.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La cultura extranjera es superior a la nacional."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Diversidad:** Se rompe con la idea de una nación homogénea y se otorgan derechos especiales (jurisdicción indígena, consulta previa) a los grupos étnicos.",
       "id": "CO-SOC-11-constitucion-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 1,
-      "explanation": "La **Acción de Tutela** (Art. 86) es el mecanismo específico para la protección inmediata de derechos fundamentales constitucionales cuando estos resulten vulnerados o amenazados.\n- A: Para daños a un número plural de personas.\n- B: Para derechos colectivos (espacio público, ambiente).\n- D: Para hacer cumplir una ley o acto administrativo.\n**Competencia:** Pensamiento social y sistémico (Mecanismos de protección).\n*(Contenido migrado, favor revisar)*\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "SOC08516-01",
       "statement": "# Pregunta\nUn ciudadano considera que se le ha vulnerado su derecho fundamental a la salud porque su EPS se niega a realizarle una cirugía urgente. ¿Qué acción constitucional debe interponer?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Acción de Grupo.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Acción de Grupo."
         },
         {
           "letter": "B",
-          "text": "Acción Popular.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Acción Popular."
         },
         {
           "letter": "C",
-          "text": "Acción de Tutela.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Acción de Tutela."
         },
         {
           "letter": "D",
-          "text": "Acción de Cumplimiento.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Acción de Cumplimiento."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "La **Acción de Tutela** (Art. 86) es el mecanismo específico para la protección inmediata de derechos fundamentales constitucionales cuando estos resulten vulnerados o amenazados.\n- A: Para daños a un número plural de personas.\n- B: Para derechos colectivos (espacio público, ambiente).\n- D: Para hacer cumplir una ley o acto administrativo.\n**Competencia:** Pensamiento social y sistémico (Mecanismos de protección).\n*(Contenido migrado, favor revisar)*\n---",
       "id": "SOC08516-01-v1"
     },
     {
+      "images": [],
       "number": 2,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC08516-01",
       "statement": "TODO: Generar variación de tipo Low A",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC08516-01-v2"
     },
     {
+      "images": [],
       "number": 3,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC08516-01",
       "statement": "TODO: Generar variación de tipo Low B",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC08516-01-v3"
     },
     {
+      "images": [],
       "number": 4,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC08516-01",
       "statement": "TODO: Generar variación de tipo Medium A",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC08516-01-v4"
     },
     {
+      "images": [],
       "number": 5,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC08516-01",
       "statement": "TODO: Generar variación de tipo Medium B",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC08516-01-v5"
     },
     {
+      "images": [],
       "number": 6,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC08516-01",
       "statement": "TODO: Generar variación de tipo High A",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC08516-01-v6"
     },
     {
+      "images": [],
       "number": 7,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC08516-01",
       "statement": "TODO: Generar variación de tipo High B",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC08516-01-v7"
     },
     {
+      "images": [],
       "number": 1,
-      "explanation": "El **Plebiscito** es el pronunciamiento del pueblo convocado por el Presidente de la República para apoyar o rechazar una determinada decisión del Ejecutivo.\n**Errores comunes:**\n- A: Cabildo Abierto es para discutir asuntos de interés comunitario en concejos/juntas.\n- C: Tutela es para protección de derechos fundamentales.\n- D: Iniciativa Popular es para presentar proyectos de ley.\n*(Contenido migrado, favor revisar)*\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "SOC30639-01",
       "statement": "# Pregunta\nSegún la Constitución Política de Colombia de 1991, ¿cuál es el mecanismo de participación ciudadana que permite a los ciudadanos aprobar o rechazar una decisión del ejecutivo?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "El Cabildo Abierto.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "El Cabildo Abierto."
         },
         {
           "letter": "B",
-          "text": "El Plebiscito.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "El Plebiscito."
         },
         {
           "letter": "C",
-          "text": "La Tutela.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La Tutela."
         },
         {
           "letter": "D",
-          "text": "La Iniciativa Popular.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La Iniciativa Popular."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "El **Plebiscito** es el pronunciamiento del pueblo convocado por el Presidente de la República para apoyar o rechazar una determinada decisión del Ejecutivo.\n**Errores comunes:**\n- A: Cabildo Abierto es para discutir asuntos de interés comunitario en concejos/juntas.\n- C: Tutela es para protección de derechos fundamentales.\n- D: Iniciativa Popular es para presentar proyectos de ley.\n*(Contenido migrado, favor revisar)*\n---",
       "id": "SOC30639-01-v1"
     },
     {
+      "images": [],
       "number": 2,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC30639-01",
       "statement": "TODO: Generar variación de tipo Low A",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC30639-01-v2"
     },
     {
+      "images": [],
       "number": 3,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC30639-01",
       "statement": "TODO: Generar variación de tipo Low B",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC30639-01-v3"
     },
     {
+      "images": [],
       "number": 4,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC30639-01",
       "statement": "TODO: Generar variación de tipo Medium A",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC30639-01-v4"
     },
     {
+      "images": [],
       "number": 5,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC30639-01",
       "statement": "TODO: Generar variación de tipo Medium B",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC30639-01-v5"
     },
     {
+      "images": [],
       "number": 6,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC30639-01",
       "statement": "TODO: Generar variación de tipo High A",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC30639-01-v6"
     },
     {
+      "images": [],
       "number": 7,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC30639-01",
       "statement": "TODO: Generar variación de tipo High B",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC30639-01-v7"
     },
     {
+      "images": [],
       "number": 1,
-      "explanation": "",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "CO-SOC-11-geografia-colombia-001-bundle",
       "statement": "# Bundle: Geografía de Colombia\n> **Contexto:** Dinámicas físicas y humanas del territorio colombiano.\n> **Competencia:** Análisis de problemáticas territoriales y ambientales locales.\n-------|-----|------------|-------------------|--------|\n| 1 | CO-SOC-11-geografia-colombia-001-v1 | Medium | Fenómeno El Niño | ⬜ |\n| 2 | CO-SOC-11-geografia-colombia-001-v2 | 3 | Migración | ⬜ |\n| 3 | CO-SOC-11-geografia-colombia-001-v3 | Low | Regiones Naturales | ⬜ |\n| 4 | CO-SOC-11-geografia-colombia-001-v4 | 4 | Biodiversidad - Páramos | ⬜ |\n| 5 | CO-SOC-11-geografia-colombia-001-v5 | Medium | Fronteras | ⬜ |\n| 6 | CO-SOC-11-geografia-colombia-001-v6 | 2 | Pisos Térmicos | ⬜ |\n| 7 | CO-SOC-11-geografia-colombia-001-v7 | 3 | Economía Cafetera | ⬜ |",
+      "tags": [],
       "difficulty": "Medium",
       "options": [],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "",
       "id": "CO-SOC-11-geografia-colombia-001-bundle-v1"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Desplazamiento:** El conflicto armado y la industrialización urbana impulsaron a millones de campesinos a moverse a las grandes capitales (Bogotá, Medellín, Cali, Barranquilla).",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-SOC-11-geografia-colombia-001-bundle",
       "statement": "La migración del campo a la ciudad (**éxodo rural**) en Colombia durante la segunda mitad del siglo XX tuvo como una de sus causas principales:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "La falta de electricidad en las ciudades.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La falta de electricidad en las ciudades."
         },
         {
           "letter": "B",
-          "text": "La violencia política y la búsqueda de oportunidades económicas.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "La violencia política y la búsqueda de oportunidades económicas."
         },
         {
           "letter": "C",
-          "text": "El exceso de tierras fértiles disponibles para todos los campesinos.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "El exceso de tierras fértiles disponibles para todos los campesinos."
         },
         {
           "letter": "D",
-          "text": "La prohibición legal de vivir en zonas rurales.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La prohibición legal de vivir en zonas rurales."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Desplazamiento:** El conflicto armado y la industrialización urbana impulsaron a millones de campesinos a moverse a las grandes capitales (Bogotá, Medellín, Cali, Barranquilla).",
       "id": "CO-SOC-11-geografia-colombia-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Fábricas de Agua:** Los páramos captan y regulan el agua que abastece a la mayoría de la población colombiana. Su protección es vital.",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-SOC-11-geografia-colombia-001-bundle",
       "statement": "Los **páramos** son ecosistemas estratégicos para Colombia principalmente porque:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Son ideales para la agricultura intensiva de papa.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Son ideales para la agricultura intensiva de papa."
         },
         {
           "letter": "B",
-          "text": "Tienen grandes yacimientos de carbón a cielo abierto.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Tienen grandes yacimientos de carbón a cielo abierto."
         },
         {
           "letter": "C",
-          "text": "Son reguladores del ciclo hídrico y fuentes de agua potable.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Son reguladores del ciclo hídrico y fuentes de agua potable."
         },
         {
           "letter": "D",
-          "text": "Tienen clima cálido todo el año.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Tienen clima cálido todo el año."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Fábricas de Agua:** Los páramos captan y regulan el agua que abastece a la mayoría de la población colombiana. Su protección es vital.",
       "id": "CO-SOC-11-geografia-colombia-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Gradiente Térmico:** La temperatura baja aproximadamente 0.6°C por cada 100 metros de ascenso.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-SOC-11-geografia-colombia-001-bundle",
       "statement": "Debido a su ubicación en el trópico y su relieve montañoso, en Colombia no hay estaciones sino **pisos térmicos**. A mayor altura sobre el nivel del mar:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "La temperatura aumenta.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La temperatura aumenta."
         },
         {
           "letter": "B",
-          "text": "La temperatura disminuye.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "La temperatura disminuye."
         },
         {
           "letter": "C",
-          "text": "La temperatura se mantiene igual.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La temperatura se mantiene igual."
         },
         {
           "letter": "D",
-          "text": "La presión atmosférica aumenta.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La presión atmosférica aumenta."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Gradiente Térmico:** La temperatura baja aproximadamente 0.6°C por cada 100 metros de ascenso.\n---",
       "id": "CO-SOC-11-geografia-colombia-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Paisaje Cultural Cafetero:** Es patrimonio de la humanidad y zona clave de la agricultura de montaña tradicional colombiana.\n*(Contenido migrado, favor revisar)*\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-SOC-11-geografia-colombia-001-bundle",
       "statement": "El **Eje Cafetero** (Caldas, Quindío, Risaralda) se destaca cultural y económicamente por:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "La explotación de petróleo y gas.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La explotación de petróleo y gas."
         },
         {
           "letter": "B",
-          "text": "La ganadería extensiva en llanuras.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La ganadería extensiva en llanuras."
         },
         {
           "letter": "C",
-          "text": "El cultivo y producción de café en zonas de ladera.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "El cultivo y producción de café en zonas de ladera."
         },
         {
           "letter": "D",
-          "text": "La industria pesquera marítima.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La industria pesquera marítima."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Paisaje Cultural Cafetero:** Es patrimonio de la humanidad y zona clave de la agricultura de montaña tradicional colombiana.\n*(Contenido migrado, favor revisar)*\n---",
       "id": "CO-SOC-11-geografia-colombia-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 2,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "CO-SOC-11-geografia-colombia-001-bundle",
       "statement": "TODO: Generar variación de tipo Low A",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "CO-SOC-11-geografia-colombia-001-bundle-v2"
     },
     {
+      "images": [],
       "number": 3,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "CO-SOC-11-geografia-colombia-001-bundle",
       "statement": "TODO: Generar variación de tipo Low B",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "CO-SOC-11-geografia-colombia-001-bundle-v3"
     },
     {
+      "images": [],
       "number": 4,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "CO-SOC-11-geografia-colombia-001-bundle",
       "statement": "TODO: Generar variación de tipo Medium A",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "CO-SOC-11-geografia-colombia-001-bundle-v4"
     },
     {
+      "images": [],
       "number": 5,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "CO-SOC-11-geografia-colombia-001-bundle",
       "statement": "TODO: Generar variación de tipo Medium B",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "CO-SOC-11-geografia-colombia-001-bundle-v5"
     },
     {
+      "images": [],
       "number": 6,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "CO-SOC-11-geografia-colombia-001-bundle",
       "statement": "TODO: Generar variación de tipo High A",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "CO-SOC-11-geografia-colombia-001-bundle-v6"
     },
     {
+      "images": [],
       "number": 7,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "CO-SOC-11-geografia-colombia-001-bundle",
       "statement": "TODO: Generar variación de tipo High B",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "CO-SOC-11-geografia-colombia-001-bundle-v7"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Sequía:** Aunque en otros países (como Perú) El Niño trae lluvias, en Colombia causa sequías severas, incendios forestales y desabastecimiento de agua/energía.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-SOC-11-geografia-colombia-001-bundle",
       "statement": "El fenómeno del **\"Niño\"** en Colombia se caracteriza principalmente por:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Un aumento excesivo de las lluvias y riesgo de inundaciones.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Un aumento excesivo de las lluvias y riesgo de inundaciones."
         },
         {
           "letter": "B",
-          "text": "Una disminución de las lluvias y aumento de la temperatura (sequía).",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Una disminución de las lluvias y aumento de la temperatura (sequía)."
         },
         {
           "letter": "C",
-          "text": "La caída de nieve en las zonas costeras.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La caída de nieve en las zonas costeras."
         },
         {
           "letter": "D",
-          "text": "Vientos huracanados constantes en la región Andina.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Vientos huracanados constantes en la región Andina."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Sequía:** Aunque en otros países (como Perú) El Niño trae lluvias, en Colombia causa sequías severas, incendios forestales y desabastecimiento de agua/energía.\n---",
       "id": "CO-SOC-11-geografia-colombia-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Desplazamiento:** El conflicto armado y la industrialización urbana impulsaron a millones de campesinos a moverse a las grandes capitales (Bogotá, Medellín, Cali, Barranquilla).\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-SOC-11-geografia-colombia-001-bundle",
       "statement": "La migración del campo a la ciudad (**éxodo rural**) en Colombia durante la segunda mitad del siglo XX tuvo como una de sus causas principales:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "La falta de electricidad en las ciudades.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La falta de electricidad en las ciudades."
         },
         {
           "letter": "B",
-          "text": "La violencia política y la búsqueda de oportunidades económicas.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "La violencia política y la búsqueda de oportunidades económicas."
         },
         {
           "letter": "C",
-          "text": "El exceso de tierras fértiles disponibles para todos los campesinos.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "El exceso de tierras fértiles disponibles para todos los campesinos."
         },
         {
           "letter": "D",
-          "text": "La prohibición legal de vivir en zonas rurales.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La prohibición legal de vivir en zonas rurales."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Desplazamiento:** El conflicto armado y la industrialización urbana impulsaron a millones de campesinos a moverse a las grandes capitales (Bogotá, Medellín, Cali, Barranquilla).\n---",
       "id": "CO-SOC-11-geografia-colombia-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Andina:** Alberga las tres cordilleras donde se ubican las principales ciudades (Bogotá, Medellín, Cali) y concentra la mayor parte de la población y el PIB.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-SOC-11-geografia-colombia-001-bundle",
       "statement": "Colombia se divide en **seis regiones naturales**. ¿Cuál de las siguientes es la región más poblada y centro de la actividad económica del país?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Región Amazónica.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Región Amazónica."
         },
         {
           "letter": "B",
-          "text": "Región Andina.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Región Andina."
         },
         {
           "letter": "C",
-          "text": "Región de la Orinoquía.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Región de la Orinoquía."
         },
         {
           "letter": "D",
-          "text": "Región Insular.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Región Insular."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Andina:** Alberga las tres cordilleras donde se ubican las principales ciudades (Bogotá, Medellín, Cali) y concentra la mayor parte de la población y el PIB.\n---",
       "id": "CO-SOC-11-geografia-colombia-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Fábricas de Agua:** Los páramos captan y regulan el agua que abastece a la mayoría de la población colombiana. Su protección es vital.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-SOC-11-geografia-colombia-001-bundle",
       "statement": "Los **páramos** son ecosistemas estratégicos para Colombia principalmente porque:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Son ideales para la agricultura intensiva de papa.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Son ideales para la agricultura intensiva de papa."
         },
         {
           "letter": "B",
-          "text": "Tienen grandes yacimientos de carbón a cielo abierto.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Tienen grandes yacimientos de carbón a cielo abierto."
         },
         {
           "letter": "C",
-          "text": "Son reguladores del ciclo hídrico y fuentes de agua potable.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Son reguladores del ciclo hídrico y fuentes de agua potable."
         },
         {
           "letter": "D",
-          "text": "Tienen clima cálido todo el año.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Tienen clima cálido todo el año."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Fábricas de Agua:** Los páramos captan y regulan el agua que abastece a la mayoría de la población colombiana. Su protección es vital.\n---",
       "id": "CO-SOC-11-geografia-colombia-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Limítrofes:** Panamá (NO), Venezuela (E), Brasil (SE), Perú (S), Ecuador (SO). Costa Rica es frontera marítima, no terrestre.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "A",
       "bundle_id": "CO-SOC-11-geografia-colombia-001-bundle",
       "statement": "Colombia tiene fronteras terrestres con cinco países. Estos son:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Venezuela, Brasil, Perú, Ecuador y Panamá.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Venezuela, Brasil, Perú, Ecuador y Panamá."
         },
         {
           "letter": "B",
-          "text": "Venezuela, Brasil, Bolivia, Chile y Argentina.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Venezuela, Brasil, Bolivia, Chile y Argentina."
         },
         {
           "letter": "C",
-          "text": "Panamá, Estados Unidos, México, Perú y Ecuador.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Panamá, Estados Unidos, México, Perú y Ecuador."
         },
         {
           "letter": "D",
-          "text": "Venezuela, Brasil, Perú, Ecuador y Costa Rica.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Venezuela, Brasil, Perú, Ecuador y Costa Rica."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Limítrofes:** Panamá (NO), Venezuela (E), Brasil (SE), Perú (S), Ecuador (SO). Costa Rica es frontera marítima, no terrestre.\n---",
       "id": "CO-SOC-11-geografia-colombia-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Gradiente Térmico:** La temperatura baja aproximadamente 0.6°C por cada 100 metros de ascenso.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-SOC-11-geografia-colombia-001-bundle",
       "statement": "Debido a su ubicación en el trópico y su relieve montañoso, en Colombia no hay estaciones sino **pisos térmicos**. A mayor altura sobre el nivel del mar:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "La temperatura aumenta.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La temperatura aumenta."
         },
         {
           "letter": "B",
-          "text": "La temperatura disminuye.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "La temperatura disminuye."
         },
         {
           "letter": "C",
-          "text": "La temperatura se mantiene igual.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La temperatura se mantiene igual."
         },
         {
           "letter": "D",
-          "text": "La presión atmosférica aumenta.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La presión atmosférica aumenta."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Gradiente Térmico:** La temperatura baja aproximadamente 0.6°C por cada 100 metros de ascenso.\n---",
       "id": "CO-SOC-11-geografia-colombia-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Paisaje Cultural Cafetero:** Es patrimonio de la humanidad y zona clave de la agricultura de montaña tradicional colombiana.",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-SOC-11-geografia-colombia-001-bundle",
       "statement": "El **Eje Cafetero** (Caldas, Quindío, Risaralda) se destaca cultural y económicamente por:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "La explotación de petróleo y gas.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La explotación de petróleo y gas."
         },
         {
           "letter": "B",
-          "text": "La ganadería extensiva en llanuras.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La ganadería extensiva en llanuras."
         },
         {
           "letter": "C",
-          "text": "El cultivo y producción de café en zonas de ladera.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "El cultivo y producción de café en zonas de ladera."
         },
         {
           "letter": "D",
-          "text": "La industria pesquera marítima.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La industria pesquera marítima."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Paisaje Cultural Cafetero:** Es patrimonio de la humanidad y zona clave de la agricultura de montaña tradicional colombiana.",
       "id": "CO-SOC-11-geografia-colombia-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 1,
-      "explanation": "",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "CO-SOC-11-geografia-general-001-bundle",
       "statement": "# Bundle: Geografía General y Económica\n> **Contexto:** Conceptos universales de geografía física y humana.\n> **Competencia:** Relación sociedad-ambiente y sistemas económicos.\n-------|-----|------------|-------------------|--------|\n| 1 | CO-SOC-11-geografia-general-001-v1 | 2 | Sectores económicos | ⬜ |\n| 2 | CO-SOC-11-geografia-general-001-v2 | 3 | Demografía | ⬜ |\n| 3 | CO-SOC-11-geografia-general-001-v3 | Low | Cambio climático | ⬜ |\n| 4 | CO-SOC-11-geografia-general-001-v4 | 4 | Globalización | ⬜ |\n| 5 | CO-SOC-11-geografia-general-001-v5 | 2 | Cartografía | ⬜ |\n| 6 | CO-SOC-11-geografia-general-001-v6 | 3 | Urbanización | ⬜ |\n| 7 | CO-SOC-11-geografia-general-001-v7 | 2 | Hidrografía | ⬜ |",
+      "tags": [],
       "difficulty": "Medium",
       "options": [],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "",
       "id": "CO-SOC-11-geografia-general-001-bundle-v1"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Fecundidad:** Mide la reproducción promedio. Es clave para entender si una población crece o envejece.",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-SOC-11-geografia-general-001-bundle",
       "statement": "¿Qué indicador demográfico mide el **número promedio de hijos** que tendría una mujer a lo largo de su vida fértil?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Tasa de Mortalidad.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Tasa de Mortalidad."
         },
         {
           "letter": "B",
-          "text": "Esperanza de vida.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Esperanza de vida."
         },
         {
           "letter": "C",
-          "text": "Tasa de Fecundidad.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Tasa de Fecundidad."
         },
         {
           "letter": "D",
-          "text": "Densidad poblacional.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Densidad poblacional."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Fecundidad:** Mide la reproducción promedio. Es clave para entender si una población crece o envejece.",
       "id": "CO-SOC-11-geografia-general-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Globalización:** Permite la interconexión de mercados y cadenas de producción a escala mundial para maximizar eficiencia y beneficios.",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-SOC-11-geografia-general-001-bundle",
       "statement": "Las empresas **transnacionales** fragmentan su producción (diseñan en un país, fabrican en otros y ensamblan en otro) para reducir costos. Este fenómeno es característico de:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "La autarquía.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La autarquía."
         },
         {
           "letter": "B",
-          "text": "El modelo feudal.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "El modelo feudal."
         },
         {
           "letter": "C",
-          "text": "La globalización económica.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "La globalización económica."
         },
         {
           "letter": "D",
-          "text": "La economía de subsistencia.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La economía de subsistencia."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Globalización:** Permite la interconexión de mercados y cadenas de producción a escala mundial para maximizar eficiencia y beneficios.",
       "id": "CO-SOC-11-geografia-general-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Conurbación:** Fusión física de áreas urbanas vecinas (ej: Bogotá y Soacha) formando una gran área metropolitana continua.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-SOC-11-geografia-general-001-bundle",
       "statement": "El proceso de **conurbación** ocurre cuando:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Una ciudad decrece en población.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Una ciudad decrece en población."
         },
         {
           "letter": "B",
-          "text": "Dos o más ciudades crecen hasta que sus áreas urbanas se unen físicamente.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Dos o más ciudades crecen hasta que sus áreas urbanas se unen físicamente."
         },
         {
           "letter": "C",
-          "text": "Se funda una nueva capital.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Se funda una nueva capital."
         },
         {
           "letter": "D",
-          "text": "Se prohíbe la construcción de edificios altos.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Se prohíbe la construcción de edificios altos."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Conurbación:** Fusión física de áreas urbanas vecinas (ej: Bogotá y Soacha) formando una gran área metropolitana continua.\n---",
       "id": "CO-SOC-11-geografia-general-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Cuenca:** Unidad territorial natural delimitada por la divisoria de aguas, donde todo el flujo hídrico confluye a una salida común.\n*(Contenido migrado, favor revisar)*\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-SOC-11-geografia-general-001-bundle",
       "statement": "Una **cuenca hidrográfica** se define como:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Un depósito subterráneo de petróleo.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Un depósito subterráneo de petróleo."
         },
         {
           "letter": "B",
-          "text": "Una represa artificial para generar energía.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Una represa artificial para generar energía."
         },
         {
           "letter": "C",
-          "text": "El territorio cuyas aguas drenan hacia un mismo río principal, lago o mar.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "El territorio cuyas aguas drenan hacia un mismo río principal, lago o mar."
         },
         {
           "letter": "D",
-          "text": "La desembocadura de un río en el océano forma delta.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La desembocadura de un río en el océano forma delta."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Cuenca:** Unidad territorial natural delimitada por la divisoria de aguas, donde todo el flujo hídrico confluye a una salida común.\n*(Contenido migrado, favor revisar)*\n---",
       "id": "CO-SOC-11-geografia-general-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 2,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "CO-SOC-11-geografia-general-001-bundle",
       "statement": "TODO: Generar variación de tipo Low A",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "CO-SOC-11-geografia-general-001-bundle-v2"
     },
     {
+      "images": [],
       "number": 3,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "CO-SOC-11-geografia-general-001-bundle",
       "statement": "TODO: Generar variación de tipo Low B",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "CO-SOC-11-geografia-general-001-bundle-v3"
     },
     {
+      "images": [],
       "number": 4,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "CO-SOC-11-geografia-general-001-bundle",
       "statement": "TODO: Generar variación de tipo Medium A",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "CO-SOC-11-geografia-general-001-bundle-v4"
     },
     {
+      "images": [],
       "number": 5,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "CO-SOC-11-geografia-general-001-bundle",
       "statement": "TODO: Generar variación de tipo Medium B",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "CO-SOC-11-geografia-general-001-bundle-v5"
     },
     {
+      "images": [],
       "number": 6,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "CO-SOC-11-geografia-general-001-bundle",
       "statement": "TODO: Generar variación de tipo High A",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "CO-SOC-11-geografia-general-001-bundle-v6"
     },
     {
+      "images": [],
       "number": 7,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "CO-SOC-11-geografia-general-001-bundle",
       "statement": "TODO: Generar variación de tipo High B",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "CO-SOC-11-geografia-general-001-bundle-v7"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Sector Primario:** Se encarga de obtener materias primas directamente de la naturaleza. Secundario es industria (transformación), Terciario son servicios, Cuaternario es tecnología I+D.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "A",
       "bundle_id": "CO-SOC-11-geografia-general-001-bundle",
       "statement": "¿Cuál es el sector económico que agrupa las actividades relacionadas con la **extracción** de recursos naturales, como la agricultura, la ganadería y la minería?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Sector Primario.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Sector Primario."
         },
         {
           "letter": "B",
-          "text": "Sector Secundario.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Sector Secundario."
         },
         {
           "letter": "C",
-          "text": "Sector Terciario.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Sector Terciario."
         },
         {
           "letter": "D",
-          "text": "Sector Cuaternario.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Sector Cuaternario."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Sector Primario:** Se encarga de obtener materias primas directamente de la naturaleza. Secundario es industria (transformación), Terciario son servicios, Cuaternario es tecnología I+D.\n---",
       "id": "CO-SOC-11-geografia-general-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Fecundidad:** Mide la reproducción promedio. Es clave para entender si una población crece o envejece.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-SOC-11-geografia-general-001-bundle",
       "statement": "¿Qué indicador demográfico mide el **número promedio de hijos** que tendría una mujer a lo largo de su vida fértil?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Tasa de Mortalidad.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Tasa de Mortalidad."
         },
         {
           "letter": "B",
-          "text": "Esperanza de vida.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Esperanza de vida."
         },
         {
           "letter": "C",
-          "text": "Tasa de Fecundidad.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Tasa de Fecundidad."
         },
         {
           "letter": "D",
-          "text": "Densidad poblacional.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Densidad poblacional."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Fecundidad:** Mide la reproducción promedio. Es clave para entender si una población crece o envejece.\n---",
       "id": "CO-SOC-11-geografia-general-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Calentamiento Global:** El exceso de gases como CO2 retiene demasiado calor, elevando la temperatura media del planeta.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-SOC-11-geografia-general-001-bundle",
       "statement": "El **Efecto Invernadero** es un fenómeno natural que permite la vida en la Tierra al retener calor. Sin embargo, su intensificación actual debido a actividades humanas está causando:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "La edad de hielo.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La edad de hielo."
         },
         {
           "letter": "B",
-          "text": "El calentamiento global.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "El calentamiento global."
         },
         {
           "letter": "C",
-          "text": "La deriva continental.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La deriva continental."
         },
         {
           "letter": "D",
-          "text": "La disminución de la capa de ozono.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La disminución de la capa de ozono."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Calentamiento Global:** El exceso de gases como CO2 retiene demasiado calor, elevando la temperatura media del planeta.\n---",
       "id": "CO-SOC-11-geografia-general-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Globalización:** Permite la interconexión de mercados y cadenas de producción a escala mundial para maximizar eficiencia y beneficios.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-SOC-11-geografia-general-001-bundle",
       "statement": "Las empresas **transnacionales** fragmentan su producción (diseñan en un país, fabrican en otros y ensamblan en otro) para reducir costos. Este fenómeno es característico de:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "La autarquía.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La autarquía."
         },
         {
           "letter": "B",
-          "text": "El modelo feudal.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "El modelo feudal."
         },
         {
           "letter": "C",
-          "text": "La globalización económica.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "La globalización económica."
         },
         {
           "letter": "D",
-          "text": "La economía de subsistencia.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La economía de subsistencia."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Globalización:** Permite la interconexión de mercados y cadenas de producción a escala mundial para maximizar eficiencia y beneficios.\n---",
       "id": "CO-SOC-11-geografia-general-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Proporción:** Ejemplo 1:100.000 significa que 1 cm en el mapa equivale a 100.000 cm (1 km) en la realidad.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-SOC-11-geografia-general-001-bundle",
       "statement": "En un mapa, la **escala** indica:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "La altura de las montañas.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La altura de las montañas."
         },
         {
           "letter": "B",
-          "text": "Los tipos de cultivos.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Los tipos de cultivos."
         },
         {
           "letter": "C",
-          "text": "La relación de proporción entre las distancias en el mapa y la realidad.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "La relación de proporción entre las distancias en el mapa y la realidad."
         },
         {
           "letter": "D",
-          "text": "La orientación norte-sur.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La orientación norte-sur."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Proporción:** Ejemplo 1:100.000 significa que 1 cm en el mapa equivale a 100.000 cm (1 km) en la realidad.\n---",
       "id": "CO-SOC-11-geografia-general-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Conurbación:** Fusión física de áreas urbanas vecinas (ej: Bogotá y Soacha) formando una gran área metropolitana continua.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-SOC-11-geografia-general-001-bundle",
       "statement": "El proceso de **conurbación** ocurre cuando:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Una ciudad decrece en población.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Una ciudad decrece en población."
         },
         {
           "letter": "B",
-          "text": "Dos o más ciudades crecen hasta que sus áreas urbanas se unen físicamente.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Dos o más ciudades crecen hasta que sus áreas urbanas se unen físicamente."
         },
         {
           "letter": "C",
-          "text": "Se funda una nueva capital.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Se funda una nueva capital."
         },
         {
           "letter": "D",
-          "text": "Se prohíbe la construcción de edificios altos.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Se prohíbe la construcción de edificios altos."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Conurbación:** Fusión física de áreas urbanas vecinas (ej: Bogotá y Soacha) formando una gran área metropolitana continua.\n---",
       "id": "CO-SOC-11-geografia-general-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 0,
-      "explanation": "**Cuenca:** Unidad territorial natural delimitada por la divisoria de aguas, donde todo el flujo hídrico confluye a una salida común.",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-SOC-11-geografia-general-001-bundle",
       "statement": "Una **cuenca hidrográfica** se define como:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Un depósito subterráneo de petróleo.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Un depósito subterráneo de petróleo."
         },
         {
           "letter": "B",
-          "text": "Una represa artificial para generar energía.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Una represa artificial para generar energía."
         },
         {
           "letter": "C",
-          "text": "El territorio cuyas aguas drenan hacia un mismo río principal, lago o mar.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "El territorio cuyas aguas drenan hacia un mismo río principal, lago o mar."
         },
         {
           "letter": "D",
-          "text": "La desembocadura de un río en el océano forma delta.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La desembocadura de un río en el océano forma delta."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Cuenca:** Unidad territorial natural delimitada por la divisoria de aguas, donde todo el flujo hídrico confluye a una salida común.",
       "id": "CO-SOC-11-geografia-general-001-bundle-v0"
     },
     {
+      "images": [],
       "number": 1,
-      "explanation": "- **Primario:** Extracción de materias primas (agricultura, pesca, minería).\n- Secundario: Transformación industrial.\n- Terciario: Servicios.\n- Cuaternario: Información y conocimiento.\n**Competencia:** Interpretación y análisis de perspectivas (Económica).\n*(Contenido migrado, favor revisar)*\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "A",
       "bundle_id": "SOC07755-01",
       "statement": "# Pregunta\n¿Cuál es el sector económico que agrupa las actividades relacionadas con la extracción de recursos naturales, como la agricultura, la ganadería y la minería?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Sector Primario.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Sector Primario."
         },
         {
           "letter": "B",
-          "text": "Sector Secundario.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Sector Secundario."
         },
         {
           "letter": "C",
-          "text": "Sector Terciario.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Sector Terciario."
         },
         {
           "letter": "D",
-          "text": "Sector Cuaternario.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Sector Cuaternario."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "- **Primario:** Extracción de materias primas (agricultura, pesca, minería).\n- Secundario: Transformación industrial.\n- Terciario: Servicios.\n- Cuaternario: Información y conocimiento.\n**Competencia:** Interpretación y análisis de perspectivas (Económica).\n*(Contenido migrado, favor revisar)*\n---",
       "id": "SOC07755-01-v1"
     },
     {
+      "images": [],
       "number": 2,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC07755-01",
       "statement": "TODO: Generar variación de tipo Low A",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC07755-01-v2"
     },
     {
+      "images": [],
       "number": 3,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC07755-01",
       "statement": "TODO: Generar variación de tipo Low B",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC07755-01-v3"
     },
     {
+      "images": [],
       "number": 4,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC07755-01",
       "statement": "TODO: Generar variación de tipo Medium A",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC07755-01-v4"
     },
     {
+      "images": [],
       "number": 5,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC07755-01",
       "statement": "TODO: Generar variación de tipo Medium B",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC07755-01-v5"
     },
     {
+      "images": [],
       "number": 6,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC07755-01",
       "statement": "TODO: Generar variación de tipo High A",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC07755-01-v6"
     },
     {
+      "images": [],
       "number": 7,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC07755-01",
       "statement": "TODO: Generar variación de tipo High B",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC07755-01-v7"
     },
     {
+      "images": [],
       "number": 1,
-      "explanation": "La Orinoquía o Llanos Orientales es una vasta planicie de sabanas, ideal para la ganadería extensiva y con clima cálido.\n- A: Montañosa.\n- B: Selva húmeda tropical.\n- D: Selva muy húmeda y pluvial.\n**Competencia:** Pensamiento espacial y ambiental.\n*(Contenido migrado, favor revisar)*\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "SOC21732-01",
       "statement": "# Pregunta\n¿Qué región natural de Colombia se caracteriza por ser una llanura extensa, con clima tropical de sabana y actividades ganaderas predominantes?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Región Andina.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Región Andina."
         },
         {
           "letter": "B",
-          "text": "Región Amazónica.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Región Amazónica."
         },
         {
           "letter": "C",
-          "text": "Región Orinoquía (Llanos Orientales).",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Región Orinoquía (Llanos Orientales)."
         },
         {
           "letter": "D",
-          "text": "Región Pacífica.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Región Pacífica."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "La Orinoquía o Llanos Orientales es una vasta planicie de sabanas, ideal para la ganadería extensiva y con clima cálido.\n- A: Montañosa.\n- B: Selva húmeda tropical.\n- D: Selva muy húmeda y pluvial.\n**Competencia:** Pensamiento espacial y ambiental.\n*(Contenido migrado, favor revisar)*\n---",
       "id": "SOC21732-01-v1"
     },
     {
+      "images": [],
       "number": 2,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC21732-01",
       "statement": "TODO: Generar variación de tipo Low A",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC21732-01-v2"
     },
     {
+      "images": [],
       "number": 3,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC21732-01",
       "statement": "TODO: Generar variación de tipo Low B",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC21732-01-v3"
     },
     {
+      "images": [],
       "number": 4,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC21732-01",
       "statement": "TODO: Generar variación de tipo Medium A",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC21732-01-v4"
     },
     {
+      "images": [],
       "number": 5,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC21732-01",
       "statement": "TODO: Generar variación de tipo Medium B",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC21732-01-v5"
     },
     {
+      "images": [],
       "number": 6,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC21732-01",
       "statement": "TODO: Generar variación de tipo High A",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC21732-01-v6"
     },
     {
+      "images": [],
       "number": 7,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC21732-01",
       "statement": "TODO: Generar variación de tipo High B",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC21732-01-v7"
     },
     {
+      "images": [],
       "number": 1,
-      "explanation": "El desplazamiento forzado por el conflicto armado interno y la concentración de la industria y servicios en las urbes motivaron la migración masiva hacia las ciudades.\n- C: La concentración de la tierra (latifundio) es un problema, no un exceso de disponibilidad.\n**Competencia:** Pensamiento social (Dinámicas demográficas).\n*(Contenido migrado, favor revisar)*\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "SOC80986-01",
       "statement": "# Pregunta\nLa migración del campo a la ciudad (éxodo rural) en Colombia durante la segunda mitad del siglo XX tuvo como una de sus causas principales:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "La falta de electricidad en las ciudades.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La falta de electricidad en las ciudades."
         },
         {
           "letter": "B",
-          "text": "La violencia política y la búsqueda de oportunidades económicas.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "La violencia política y la búsqueda de oportunidades económicas."
         },
         {
           "letter": "C",
-          "text": "El exceso de tierras fértiles disponibles para todos los campesinos.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "El exceso de tierras fértiles disponibles para todos los campesinos."
         },
         {
           "letter": "D",
-          "text": "La prohibición legal de vivir en zonas rurales.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La prohibición legal de vivir en zonas rurales."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "El desplazamiento forzado por el conflicto armado interno y la concentración de la industria y servicios en las urbes motivaron la migración masiva hacia las ciudades.\n- C: La concentración de la tierra (latifundio) es un problema, no un exceso de disponibilidad.\n**Competencia:** Pensamiento social (Dinámicas demográficas).\n*(Contenido migrado, favor revisar)*\n---",
       "id": "SOC80986-01-v1"
     },
     {
+      "images": [],
       "number": 2,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC80986-01",
       "statement": "TODO: Generar variación de tipo Low A",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC80986-01-v2"
     },
     {
+      "images": [],
       "number": 3,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC80986-01",
       "statement": "TODO: Generar variación de tipo Low B",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC80986-01-v3"
     },
     {
+      "images": [],
       "number": 4,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC80986-01",
       "statement": "TODO: Generar variación de tipo Medium A",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC80986-01-v4"
     },
     {
+      "images": [],
       "number": 5,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC80986-01",
       "statement": "TODO: Generar variación de tipo Medium B",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC80986-01-v5"
     },
     {
+      "images": [],
       "number": 6,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC80986-01",
       "statement": "TODO: Generar variación de tipo High A",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC80986-01-v6"
     },
     {
+      "images": [],
       "number": 7,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC80986-01",
       "statement": "TODO: Generar variación de tipo High B",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC80986-01-v7"
     },
     {
+      "images": [],
       "number": 1,
-      "explanation": "El fenómeno de El Niño implica un calentamiento de las aguas del Pacífico que, para la región andina y caribe de Colombia, se traduce en una reducción significativa de las precipitaciones (sequía) y aumento de temperatura.\n- A: Corresponde al fenómeno de La Niña.\n**Competencia:** Pensamiento espacial y ambiental.\n*(Contenido migrado, favor revisar)*\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "SOC82159-01",
       "statement": "# Pregunta\nEl fenómeno del \"Niño\" en Colombia se caracteriza principalmente por:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Un aumento excesivo de las lluvias y riesgo de inundaciones.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Un aumento excesivo de las lluvias y riesgo de inundaciones."
         },
         {
           "letter": "B",
-          "text": "Una disminución de las lluvias y aumento de la temperatura (sequía).",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Una disminución de las lluvias y aumento de la temperatura (sequía)."
         },
         {
           "letter": "C",
-          "text": "La caída de nieve en las zonas costeras.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La caída de nieve en las zonas costeras."
         },
         {
           "letter": "D",
-          "text": "Vientos huracanados constantes en la región Andina.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Vientos huracanados constantes en la región Andina."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "El fenómeno de El Niño implica un calentamiento de las aguas del Pacífico que, para la región andina y caribe de Colombia, se traduce en una reducción significativa de las precipitaciones (sequía) y aumento de temperatura.\n- A: Corresponde al fenómeno de La Niña.\n**Competencia:** Pensamiento espacial y ambiental.\n*(Contenido migrado, favor revisar)*\n---",
       "id": "SOC82159-01-v1"
     },
     {
+      "images": [],
       "number": 2,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC82159-01",
       "statement": "TODO: Generar variación de tipo Low A",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC82159-01-v2"
     },
     {
+      "images": [],
       "number": 3,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC82159-01",
       "statement": "TODO: Generar variación de tipo Low B",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC82159-01-v3"
     },
     {
+      "images": [],
       "number": 4,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC82159-01",
       "statement": "TODO: Generar variación de tipo Medium A",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC82159-01-v4"
     },
     {
+      "images": [],
       "number": 5,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC82159-01",
       "statement": "TODO: Generar variación de tipo Medium B",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC82159-01-v5"
     },
     {
+      "images": [],
       "number": 6,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC82159-01",
       "statement": "TODO: Generar variación de tipo High A",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC82159-01-v6"
     },
     {
+      "images": [],
       "number": 7,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC82159-01",
       "statement": "TODO: Generar variación de tipo High B",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC82159-01-v7"
     },
     {
+      "images": [],
       "number": 1,
-      "explanation": "Los críticos señalan que la globalización a menudo favorece a las economías fuertes que exportan tecnología y servicios de alto valor, mientras que los países en desarrollo pueden quedar relegados a proveedores de materias primas baratas, aumentando la brecha de desigualdad.\n- B: Falso, la desigualdad persiste.\n**Competencia:** Interpretación y análisis de perspectivas.\n*(Contenido migrado, favor revisar)*\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "SOC96000-01",
       "statement": "# Pregunta\nLa globalización económica ha generado una interdependencia entre los países. Una crítica común a este proceso desde la geografía económica es que:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Ha eliminado por completo las fronteras políticas.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Ha eliminado por completo las fronteras políticas."
         },
         {
           "letter": "B",
-          "text": "Ha igualado la riqueza de todos los países del mundo.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Ha igualado la riqueza de todos los países del mundo."
         },
         {
           "letter": "C",
-          "text": "Puede profundizar las desigualdades entre países desarrollados y en desarrollo.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Puede profundizar las desigualdades entre países desarrollados y en desarrollo."
         },
         {
           "letter": "D",
-          "text": "Ha detenido el comercio internacional.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Ha detenido el comercio internacional."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "Los críticos señalan que la globalización a menudo favorece a las economías fuertes que exportan tecnología y servicios de alto valor, mientras que los países en desarrollo pueden quedar relegados a proveedores de materias primas baratas, aumentando la brecha de desigualdad.\n- B: Falso, la desigualdad persiste.\n**Competencia:** Interpretación y análisis de perspectivas.\n*(Contenido migrado, favor revisar)*\n---",
       "id": "SOC96000-01-v1"
     },
     {
+      "images": [],
       "number": 2,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC96000-01",
       "statement": "TODO: Generar variación de tipo Low A",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC96000-01-v2"
     },
     {
+      "images": [],
       "number": 3,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC96000-01",
       "statement": "TODO: Generar variación de tipo Low B",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC96000-01-v3"
     },
     {
+      "images": [],
       "number": 4,
-      "explanation": "TODO: Explicación pendiente\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "",
       "bundle_id": "SOC96000-01",
       "statement": "TODO: Generar variación de tipo Medium A",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Opción 1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 1"
         },
         {
           "letter": "B",
-          "text": "Opción 2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 2"
         },
         {
           "letter": "C",
-          "text": "Opción 3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 3"
         },
         {
           "letter": "D",
-          "text": "Opción 4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Opción 4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "TODO: Explicación pendiente\n---",
       "id": "SOC96000-01-v4"
     }
   ],
   "metadata": {
-    "total_questions": 188,
-    "exam": "icfes",
+    "subject": "Sociales",
     "total_pages": 2.0,
     "page": 1,
-    "grade": "11",
-    "generated_at": "2025-12-08T00:40:55Z",
-    "subject": "Sociales",
-    "country": "CO"
+    "generated_at": "2025-12-10T17:08:07Z",
+    "total_questions": 188,
+    "exam": "icfes",
+    "country": "CO",
+    "grade": "11"
   }
 }

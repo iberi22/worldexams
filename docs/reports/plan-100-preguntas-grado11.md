@@ -1,8 +1,8 @@
 # 🎯 Plan de Generación: 100+ Preguntas para Colombia Grado 11
 
-> **Objetivo:** Generar 15 packs × 7 preguntas = **105 preguntas Protocol v2.0**  
-> **Grado:** 11° (Saber 11)  
-> **País:** 🇨🇴 Colombia  
+> **Objetivo:** Generar 15 packs × 7 preguntas = **105 preguntas Protocol v2.0**
+> **Grado:** 11° (Saber 11)
+> **País:** 🇨🇴 Colombia
 > **Fecha:** 10 de diciembre de 2025
 
 ---
@@ -215,6 +215,6 @@ Al completar este plan:
 
 ---
 
-**Creado:** 10 de diciembre de 2025  
-**Autor:** GitHub Copilot  
+**Creado:** 10 de diciembre de 2025
+**Autor:** GitHub Copilot
 **Status:** 🟢 Activo

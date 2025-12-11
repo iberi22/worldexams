@@ -76,13 +76,13 @@ function Test-QuestionSourceUsed {
         [string]$SourceUrl,
         [string]$SourceId
     )
-    
+
     $registry = Get-Content "docs/sources/questions-registry.json" | ConvertFrom-Json
-    
+
     $exists = $registry.questions | Where-Object {
         $_.source_url -eq $SourceUrl -or $_.source_id -eq $SourceId
     }
-    
+
     if ($exists) {
         Write-Host "❌ DUPLICADO: Esta fuente ya fue usada" -ForegroundColor Red
         Write-Host "   Pack: $($exists.pack_id)" -ForegroundColor Yellow
@@ -217,6 +217,6 @@ $registry.questions | Sort-Object used_date -Descending | Select-Object -First 1
 
 ---
 
-**Versión:** 1.0  
-**Fecha:** 10 de diciembre de 2025  
+**Versión:** 1.0
+**Fecha:** 10 de diciembre de 2025
 **Autor:** GitHub Copilot

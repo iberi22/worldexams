@@ -1,7 +1,7 @@
 # 🤖 GitHub Copilot Instructions - World Exams Organization
 
 > Instrucciones globales para todos los repositorios de la organización World Exams.
-> 
+>
 > **IMPORTANTE:** Antes de comenzar cualquier tarea, lee `PLANNING.md` y `TASK.md` para entender la arquitectura y el estado actual del proyecto.
 
 ---
@@ -123,19 +123,19 @@ worldexams/
 <script lang="ts">
   // 1. Imports
   import type { ComponentType } from './types';
-  
+
   // 2. Props con tipos
   interface Props {
     title: string;
     data: DataType[];
   }
-  
+
   let { title, data }: Props = $props();
-  
+
   // 3. State (Svelte 5 runes)
   let count = $state(0);
   let computed = $derived(count * 2);
-  
+
   // 4. Funciones
   function handleClick() {
     count++;
@@ -405,9 +405,9 @@ const { title, description } = Astro.props;
 
 ```html
 <!-- ✅ Correcto -->
-<button 
-  class="px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg 
-         transition-colors duration-200 focus:outline-none focus:ring-2 
+<button
+  class="px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg
+         transition-colors duration-200 focus:outline-none focus:ring-2
          focus:ring-blue-500 focus:ring-offset-2"
   aria-label="Submit exam"
 >

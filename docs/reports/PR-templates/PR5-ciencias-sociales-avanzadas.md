@@ -1,8 +1,8 @@
 # 🎯 PR #5: Ciencias Sociales Avanzadas - 3 Packs (21 Preguntas)
 
-> **Asignado a:** @jules  
-> **Grado:** 11° (Saber 11)  
-> **Asignatura:** Ciencias Sociales  
+> **Asignado a:** @jules
+> **Grado:** 11° (Saber 11)
+> **Asignatura:** Ciencias Sociales
 > **Total preguntas:** 21 (3 packs × 7 preguntas)
 
 ---
@@ -360,6 +360,6 @@ Al completar este PR:
 
 ---
 
-**Creado:** 10 de diciembre de 2025  
-**Autor:** GitHub Copilot  
+**Creado:** 10 de diciembre de 2025
+**Autor:** GitHub Copilot
 **Versión:** 1.0

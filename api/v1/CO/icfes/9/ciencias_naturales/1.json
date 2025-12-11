@@ -1,252 +1,252 @@
 {
   "questions": [
     {
+      "images": [],
       "number": 1,
-      "explanation": "Los consumidores primarios (herbívoros) dependen directamente de los productores (plantas/algas) para obtener energía. Si la base de la cadena desaparece, no hay flujo de energía, causando muerte por inanición. La evolución no ocurre a \"corto plazo\".\n**Competencia evaluada:** Explicación de fenómenos - Predicción de cambios en sistemas.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-CIE-09-ecosistemas-001",
       "statement": "En una cadena alimenticia, ¿qué sucedería a corto plazo con la población de consumidores primarios si se eliminan los productores?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Aumentaría debido a la falta de competencia.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Aumentaría debido a la falta de competencia."
         },
         {
           "letter": "B",
-          "text": "Se mantendría igual, ya que pueden comer otras cosas.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Se mantendría igual, ya que pueden comer otras cosas."
         },
         {
           "letter": "C",
-          "text": "Disminuiría drásticamente por falta de alimento.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Disminuiría drásticamente por falta de alimento."
         },
         {
           "letter": "D",
-          "text": "Evolucionarían para convertirse en productores.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Evolucionarían para convertirse en productores."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "Los consumidores primarios (herbívoros) dependen directamente de los productores (plantas/algas) para obtener energía. Si la base de la cadena desaparece, no hay flujo de energía, causando muerte por inanición. La evolución no ocurre a \"corto plazo\".\n**Competencia evaluada:** Explicación de fenómenos - Predicción de cambios en sistemas.\n---",
       "id": "CO-CIE-09-ecosistemas-001-v1"
     },
     {
+      "images": [],
       "number": 2,
-      "explanation": "Por definición, los organismos fotosintéticos (plantas, algas) que transforman energía solar en química son los **Productores**. Son la base de la red trófica.\n**Competencia evaluada:** Uso comprensivo del conocimiento - Clasificación de organismos.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-CIE-09-ecosistemas-001",
       "statement": "En un ecosistema, los organismos que fabrican su propio alimento utilizando la luz solar se llaman:",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "Consumidores",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Consumidores"
         },
         {
           "letter": "B",
-          "text": "Productores",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Productores"
         },
         {
           "letter": "C",
-          "text": "Descomponedores",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Descomponedores"
         },
         {
           "letter": "D",
-          "text": "Depredadores",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Depredadores"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "Por definición, los organismos fotosintéticos (plantas, algas) que transforman energía solar en química son los **Productores**. Son la base de la red trófica.\n**Competencia evaluada:** Uso comprensivo del conocimiento - Clasificación de organismos.\n---",
       "id": "CO-CIE-09-ecosistemas-001-v2"
     },
     {
+      "images": [],
       "number": 3,
-      "explanation": "Un consumidor primario es aquel que se alimenta directamente de los productores (plantas). La vaca come pasto (planta), por lo tanto es un consumidor primario.\n*   León: Carnívoro (Consumidor secundario/terciario).\n*   Planta: Productor.\n*   Hongo: Descomponedor.\n**Competencia evaluada:** Uso comprensivo del conocimiento - Roles tróficos.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-CIE-09-ecosistemas-001",
       "statement": "¿Cuál de los siguientes organismos es un consumidor primario (herbívoro)?",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "León",
-          "is_correct": false
+          "is_correct": false,
+          "text": "León"
         },
         {
           "letter": "B",
-          "text": "Vaca",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Vaca"
         },
         {
           "letter": "C",
-          "text": "Planta de maíz",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Planta de maíz"
         },
         {
           "letter": "D",
-          "text": "Hongo",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Hongo"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "Un consumidor primario es aquel que se alimenta directamente de los productores (plantas). La vaca come pasto (planta), por lo tanto es un consumidor primario.\n*   León: Carnívoro (Consumidor secundario/terciario).\n*   Planta: Productor.\n*   Hongo: Descomponedor.\n**Competencia evaluada:** Uso comprensivo del conocimiento - Roles tróficos.\n---",
       "id": "CO-CIE-09-ecosistemas-001-v3"
     },
     {
+      "images": [],
       "number": 4,
-      "explanation": "Al eliminar el control biológico (depredador), la presa (venado) se reproduce sin restricción inmediata, generando una sobrepoblación a corto plazo.\n**Competencia evaluada:** Explicación de fenómenos - Relación depredador-presa.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-CIE-09-ecosistemas-001",
       "statement": "Si en un bosque desaparecen los lobos (consumidores secundarios y depredadores de venados), ¿qué efecto inmediato se espera en la población de venados (consumidores primarios)?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Disminuirá drásticamente.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Disminuirá drásticamente."
         },
         {
           "letter": "B",
-          "text": "Aumentará rápidamente al no tener depredadores.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Aumentará rápidamente al no tener depredadores."
         },
         {
           "letter": "C",
-          "text": "Los venados se volverán carnívoros.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Los venados se volverán carnívoros."
         },
         {
           "letter": "D",
-          "text": "No habrá ningún cambio.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "No habrá ningún cambio."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "Al eliminar el control biológico (depredador), la presa (venado) se reproduce sin restricción inmediata, generando una sobrepoblación a corto plazo.\n**Competencia evaluada:** Explicación de fenómenos - Relación depredador-presa.\n---",
       "id": "CO-CIE-09-ecosistemas-001-v4"
     },
     {
+      "images": [],
       "number": 5,
-      "explanation": "La energía ingresa como luz solar, es captada por productores, transferida a herbívoros y luego a carnívoros. Se pierde calor en cada paso (Ley del diezmo ecológico).\n**Competencia evaluada:** Uso comprensivo del conocimiento - Flujo de energía.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "A",
       "bundle_id": "CO-CIE-09-ecosistemas-001",
       "statement": "La energía en un ecosistema fluye en una sola dirección. ¿Cuál es la secuencia correcta del flujo de energía?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Sol $\\rightarrow$ Productor $\\rightarrow$ Herbívoro $\\rightarrow$ Carnívoro",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Sol $\\rightarrow$ Productor $\\rightarrow$ Herbívoro $\\rightarrow$ Carnívoro"
         },
         {
           "letter": "B",
-          "text": "Productor $\\rightarrow$ Sol $\\rightarrow$ Descomponedor",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Productor $\\rightarrow$ Sol $\\rightarrow$ Descomponedor"
         },
         {
           "letter": "C",
-          "text": "Carnívoro $\\rightarrow$ Herbívoro $\\rightarrow$ Productor",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Carnívoro $\\rightarrow$ Herbívoro $\\rightarrow$ Productor"
         },
         {
           "letter": "D",
-          "text": "Sol $\\rightarrow$ Descomponedor $\\rightarrow$ Productor",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Sol $\\rightarrow$ Descomponedor $\\rightarrow$ Productor"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "La energía ingresa como luz solar, es captada por productores, transferida a herbívoros y luego a carnívoros. Se pierde calor en cada paso (Ley del diezmo ecológico).\n**Competencia evaluada:** Uso comprensivo del conocimiento - Flujo de energía.\n---",
       "id": "CO-CIE-09-ecosistemas-001-v5"
     },
     {
+      "images": [],
       "number": 6,
-      "explanation": "La biomaignificación es el proceso donde sustancias tóxicas se acumulan en mayor concentración a medida que se sube en la cadena trófica. Los peces grandes comen muchos pequeños, acumulando todo su mercurio. Requiere conectar conceptos de química y ecología.\n**Competencia evaluada:** Indagación - Análisis de impactos ambientales.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-CIE-09-ecosistemas-001",
       "statement": "Se observa que en una laguna contaminada con mercurio, los peces grandes tienen concentraciones mucho mayores del tóxico que las algas. Este fenómeno se conoce como:",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "Eutrofización",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Eutrofización"
         },
         {
           "letter": "B",
-          "text": "Fotosíntesis",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Fotosíntesis"
         },
         {
           "letter": "C",
-          "text": "Bioacumulación (o Biomagnificación)",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Bioacumulación (o Biomagnificación)"
         },
         {
           "letter": "D",
-          "text": "Descomposición",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Descomposición"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "La biomaignificación es el proceso donde sustancias tóxicas se acumulan en mayor concentración a medida que se sube en la cadena trófica. Los peces grandes comen muchos pequeños, acumulando todo su mercurio. Requiere conectar conceptos de química y ecología.\n**Competencia evaluada:** Indagación - Análisis de impactos ambientales.\n---",
       "id": "CO-CIE-09-ecosistemas-001-v6"
     },
     {
+      "images": [],
       "number": 7,
-      "explanation": "Las especies invasoras suelen tener éxito porque en el nuevo entorno carecen de los depredadores o enfermedades que controlaban su población en su hábitat original. Esto les permite reproducirse descontroladamente y competir ventajosamente contra las especies nativas, a menudo llevándolas a la extinción local.\n**Competencia evaluada:** Indagación y Pensamiento sistémico - Equilibrio ecológico.\n---\n## 📊 Metadata de Validación\n| Pregunta | ID | Dificultad | Competencia ICFES | Componente | Validado |\n|----------|-----|------------|-------------------|------------|----------|\n| 1 | v1 | Medium | Explicación | Entorno Vivo | ⬜ |\n| 2 | v2 | Low | Uso comprensivo | Entorno Vivo | ⬜ |\n| 3 | v3 | Low | Uso comprensivo | Entorno Vivo | ⬜ |\n| 4 | v4 | Medium | Explicación | Entorno Vivo | ⬜ |\n| 5 | v5 | Medium | Uso comprensivo | Entorno Vivo | ⬜ |\n| 6 | v6 | High | Indagación | Entorno Vivo | ⬜ |\n| 7 | v7 | High | Indagación | Entorno Vivo | ⬜ |",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-CIE-09-ecosistemas-001",
       "statement": "Introducir una especie exótica invasora (como el hipopótamo en Colombia) en un ecosistema nuevo suele ser perjudicial porque:",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "Aumenta la biodiversidad general del planeta.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Aumenta la biodiversidad general del planeta."
         },
         {
           "letter": "B",
-          "text": "Las especies nativas se comen a la invasora rápidamente.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Las especies nativas se comen a la invasora rápidamente."
         },
         {
           "letter": "C",
-          "text": "Compite por recursos sin tener depredadores naturales, desplazando a las nativas.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Compite por recursos sin tener depredadores naturales, desplazando a las nativas."
         },
         {
           "letter": "D",
-          "text": "Mejora la calidad del suelo para las plantas locales.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Mejora la calidad del suelo para las plantas locales."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "Las especies invasoras suelen tener éxito porque en el nuevo entorno carecen de los depredadores o enfermedades que controlaban su población en su hábitat original. Esto les permite reproducirse descontroladamente y competir ventajosamente contra las especies nativas, a menudo llevándolas a la extinción local.\n**Competencia evaluada:** Indagación y Pensamiento sistémico - Equilibrio ecológico.\n---\n## 📊 Metadata de Validación\n| Pregunta | ID | Dificultad | Competencia ICFES | Componente | Validado |\n|----------|-----|------------|-------------------|------------|----------|\n| 1 | v1 | Medium | Explicación | Entorno Vivo | ⬜ |\n| 2 | v2 | Low | Uso comprensivo | Entorno Vivo | ⬜ |\n| 3 | v3 | Low | Uso comprensivo | Entorno Vivo | ⬜ |\n| 4 | v4 | Medium | Explicación | Entorno Vivo | ⬜ |\n| 5 | v5 | Medium | Uso comprensivo | Entorno Vivo | ⬜ |\n| 6 | v6 | High | Indagación | Entorno Vivo | ⬜ |\n| 7 | v7 | High | Indagación | Entorno Vivo | ⬜ |",
       "id": "CO-CIE-09-ecosistemas-001-v7"
     }
   ],
   "metadata": {
-    "total_questions": 7,
-    "exam": "icfes",
+    "subject": "Ciencias Naturales",
     "total_pages": 1.0,
     "page": 1,
-    "grade": "9",
-    "generated_at": "2025-12-08T00:40:55Z",
-    "subject": "Ciencias Naturales",
-    "country": "CO"
+    "generated_at": "2025-12-10T17:08:07Z",
+    "total_questions": 7,
+    "exam": "icfes",
+    "country": "CO",
+    "grade": "9"
   }
 }

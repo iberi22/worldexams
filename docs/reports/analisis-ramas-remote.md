@@ -1,8 +1,8 @@
 # 📊 Análisis de Ramas Remotas - World Exams
 
-**Fecha:** 2025-12-10  
-**Autor:** GitHub Copilot  
-**Repositorio:** iberi22/worldexams  
+**Fecha:** 2025-12-10
+**Autor:** GitHub Copilot
+**Repositorio:** iberi22/worldexams
 
 ---
 
@@ -284,6 +284,6 @@ git push origin --delete feat/migrate-questions-v2
 
 ---
 
-**Firmado:** GitHub Copilot  
-**Fecha:** 2025-12-10 19:30 UTC  
+**Firmado:** GitHub Copilot
+**Fecha:** 2025-12-10 19:30 UTC
 **Versión:** 1.0

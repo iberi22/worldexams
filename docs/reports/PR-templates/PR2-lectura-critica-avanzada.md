@@ -1,8 +1,8 @@
 # 🎯 PR #2: Lectura Crítica Avanzada - 2 Packs (14 Preguntas)
 
-> **Asignado a:** @jules  
-> **Grado:** 11° (Saber 11)  
-> **Asignatura:** Lectura Crítica  
+> **Asignado a:** @jules
+> **Grado:** 11° (Saber 11)
+> **Asignatura:** Lectura Crítica
 > **Total preguntas:** 14 (2 packs × 7 preguntas)
 
 ---
@@ -291,6 +291,6 @@ cc: @jules
 
 ---
 
-**Creado:** 10 de diciembre de 2025  
-**Autor:** GitHub Copilot  
+**Creado:** 10 de diciembre de 2025
+**Autor:** GitHub Copilot
 **Versión:** 1.0

@@ -1,3414 +1,3414 @@
 {
   "questions": [
     {
+      "images": [],
       "number": 1,
-      "explanation": "**Respuesta Correcta: B**\nPara despejar la incógnita $x$ debemos seguir el orden inverso de las operaciones:\n1. Restamos 5 a ambos lados de la ecuación:\n   $$2x = 17 - 5$$\n   $$2x = 12$$\n2. Dividimos por 2 a ambos lados:\n   $$x = \\frac{12}{2}$$\n   $$x = 6$$\n**Análisis de errores:**\n- A) 4: Posible error de cálculo ($17-5=12$, luego restan 2 en lugar de dividir).\n- C) 8: Posible error al sumar en vez de restar ($17+5=22$ incorrectamente, o similar).\n- D) 11: Error al sumar 5 en vez de restar ($22/2$) o error aritmético.\n**Competencia:** Resolución de problemas algebraicos básicos.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-ALG-001",
       "statement": "Si $2x + 5 = 17$, ¿cuál es el valor de $x$?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "4"
         },
         {
           "letter": "B",
-          "text": "6",
-          "is_correct": true
+          "is_correct": true,
+          "text": "6"
         },
         {
           "letter": "C",
-          "text": "8",
-          "is_correct": false
+          "is_correct": false,
+          "text": "8"
         },
         {
           "letter": "D",
-          "text": "11",
-          "is_correct": false
+          "is_correct": false,
+          "text": "11"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nPara despejar la incógnita $x$ debemos seguir el orden inverso de las operaciones:\n1. Restamos 5 a ambos lados de la ecuación:\n   $$2x = 17 - 5$$\n   $$2x = 12$$\n2. Dividimos por 2 a ambos lados:\n   $$x = \\frac{12}{2}$$\n   $$x = 6$$\n**Análisis de errores:**\n- A) 4: Posible error de cálculo ($17-5=12$, luego restan 2 en lugar de dividir).\n- C) 8: Posible error al sumar en vez de restar ($17+5=22$ incorrectamente, o similar).\n- D) 11: Error al sumar 5 en vez de restar ($22/2$) o error aritmético.\n**Competencia:** Resolución de problemas algebraicos básicos.\n---",
       "id": "CO-MAT-11-ALG-001-v1"
     },
     {
+      "images": [],
       "number": 2,
-      "explanation": "**Respuesta Correcta: C**\nPara dejar la $m$ sola, debemos \"cancelar\" el $-8$. La operación inversa a restar es sumar.\n$$ m = 15 + 8 $$\n$$ m = 23 $$\n**Análisis de errores:**\n- A) 7: Error común de restar en lugar de sumar ($15 - 8$).\n- B) 15: Ignorar el término $-8$.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-11-ALG-001",
       "statement": "Resuelve la siguiente ecuación simple para hallar el valor de $m$:\n$$ m - 8 = 15 $$",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "7",
-          "is_correct": false
+          "is_correct": false,
+          "text": "7"
         },
         {
           "letter": "B",
-          "text": "15",
-          "is_correct": false
+          "is_correct": false,
+          "text": "15"
         },
         {
           "letter": "C",
-          "text": "23",
-          "is_correct": true
+          "is_correct": true,
+          "text": "23"
         },
         {
           "letter": "D",
-          "text": "20",
-          "is_correct": false
+          "is_correct": false,
+          "text": "20"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: C**\nPara dejar la $m$ sola, debemos \"cancelar\" el $-8$. La operación inversa a restar es sumar.\n$$ m = 15 + 8 $$\n$$ m = 23 $$\n**Análisis de errores:**\n- A) 7: Error común de restar en lugar de sumar ($15 - 8$).\n- B) 15: Ignorar el término $-8$.\n---",
       "id": "CO-MAT-11-ALG-001-v2"
     },
     {
+      "images": [],
       "number": 3,
-      "explanation": "**Respuesta Correcta: A**\nLa ecuación $3y = 27$ indica una multiplicación. Para resolverla, dividimos ambos lados por 3:\n$$ y = \\frac{27}{3} = 9 $$\n**Análisis de errores:**\n- B) 3: Confundir con $3^3$.\n- C) 24: Restar 3 en lugar de dividir.\n- D) 81: Multiplicar $27 \\times 3$.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "A",
       "bundle_id": "CO-MAT-11-ALG-001",
       "statement": "Si tienes 3 veces una cantidad desconocida ($y$) y el resultado es 27, ¿cuál es el número?\n$$ 3y = 27 $$",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "9",
-          "is_correct": true
+          "is_correct": true,
+          "text": "9"
         },
         {
           "letter": "B",
-          "text": "3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "3"
         },
         {
           "letter": "C",
-          "text": "24",
-          "is_correct": false
+          "is_correct": false,
+          "text": "24"
         },
         {
           "letter": "D",
-          "text": "81",
-          "is_correct": false
+          "is_correct": false,
+          "text": "81"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: A**\nLa ecuación $3y = 27$ indica una multiplicación. Para resolverla, dividimos ambos lados por 3:\n$$ y = \\frac{27}{3} = 9 $$\n**Análisis de errores:**\n- B) 3: Confundir con $3^3$.\n- C) 24: Restar 3 en lugar de dividir.\n- D) 81: Multiplicar $27 \\times 3$.\n---",
       "id": "CO-MAT-11-ALG-001-v3"
     },
     {
+      "images": [],
       "number": 4,
-      "explanation": "**Respuesta Correcta: B**\nPlanteamos la ecuación donde $e$ es el precio de una empanada:\n$$ 3e + 2.500 = 11.500 $$\n1. Restamos el valor de la gaseosa:\n   $$ 3e = 11.500 - 2.500 $$\n   $$ 3e = 9.000 $$\n2. Dividimos por 3:\n   $$ e = \\frac{9.000}{3} = 3.000 $$\nCada empanada costó $3.000 pesos.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-ALG-001",
       "statement": "En una tienda de barrio en Bogotá, compras 3 empanadas y una gaseosa que cuesta $2.500 COP. Si el total de la cuenta fue de $11.500 COP, ¿cuánto costó cada empanada?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "$2.500 COP",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$2.500 COP"
         },
         {
           "letter": "B",
-          "text": "$3.000 COP",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$3.000 COP"
         },
         {
           "letter": "C",
-          "text": "$4.500 COP",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$4.500 COP"
         },
         {
           "letter": "D",
-          "text": "$3.500 COP",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$3.500 COP"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nPlanteamos la ecuación donde $e$ es el precio de una empanada:\n$$ 3e + 2.500 = 11.500 $$\n1. Restamos el valor de la gaseosa:\n   $$ 3e = 11.500 - 2.500 $$\n   $$ 3e = 9.000 $$\n2. Dividimos por 3:\n   $$ e = \\frac{9.000}{3} = 3.000 $$\nCada empanada costó $3.000 pesos.\n---",
       "id": "CO-MAT-11-ALG-001-v4"
     },
     {
+      "images": [],
       "number": 5,
-      "explanation": "**Respuesta Correcta: C**\nModelo algebraico:\n$$ 5.000 + 200u = 13.000 $$\n1. Restamos el banderazo:\n   $$ 200u = 13.000 - 5.000 $$\n   $$ 200u = 8.000 $$\n2. Despejamos $u$:\n   $$ u = \\frac{8.000}{200} $$\n   $$ u = 40 $$\nRecorrió 40 unidades.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-11-ALG-001",
       "statement": "Un viaje en taxi tiene un costo base (banderazo) de $5.000 COP más $200 COP por cada unidad de distancia recorrida ($u$). Si Julián pagó $13.000 COP en total, ¿cuántas unidades recorrió?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "20 unidades",
-          "is_correct": false
+          "is_correct": false,
+          "text": "20 unidades"
         },
         {
           "letter": "B",
-          "text": "35 unidades",
-          "is_correct": false
+          "is_correct": false,
+          "text": "35 unidades"
         },
         {
           "letter": "C",
-          "text": "40 unidades",
-          "is_correct": true
+          "is_correct": true,
+          "text": "40 unidades"
         },
         {
           "letter": "D",
-          "text": "65 unidades",
-          "is_correct": false
+          "is_correct": false,
+          "text": "65 unidades"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: C**\nModelo algebraico:\n$$ 5.000 + 200u = 13.000 $$\n1. Restamos el banderazo:\n   $$ 200u = 13.000 - 5.000 $$\n   $$ 200u = 8.000 $$\n2. Despejamos $u$:\n   $$ u = \\frac{8.000}{200} $$\n   $$ u = 40 $$\nRecorrió 40 unidades.\n---",
       "id": "CO-MAT-11-ALG-001-v5"
     },
     {
+      "images": [],
       "number": 6,
-      "explanation": "**Respuesta Correcta: C**\n1. Distribuir el 4:\n   $$ 4x - 8 + 5 = 2x + 9 $$\n2. Simplificar términos semejantes en la izquierda:\n   $$ 4x - 3 = 2x + 9 $$\n3. Mover las variables a un lado ($2x$ pasa restando) y constantes al otro ($-3$ pasa sumando):\n   $$ 4x - 2x = 9 + 3 $$\n   $$ 2x = 12 $$\n4. Dividir:\n   $$ x = 6 $$\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-11-ALG-001",
       "statement": "Resuelve para $x$ en la siguiente ecuación con paréntesis:\n$$ 4(x - 2) + 5 = 2x + 9 $$",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "4"
         },
         {
           "letter": "B",
-          "text": "5",
-          "is_correct": false
+          "is_correct": false,
+          "text": "5"
         },
         {
           "letter": "C",
-          "text": "6",
-          "is_correct": true
+          "is_correct": true,
+          "text": "6"
         },
         {
           "letter": "D",
-          "text": "-1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "-1"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: C**\n1. Distribuir el 4:\n   $$ 4x - 8 + 5 = 2x + 9 $$\n2. Simplificar términos semejantes en la izquierda:\n   $$ 4x - 3 = 2x + 9 $$\n3. Mover las variables a un lado ($2x$ pasa restando) y constantes al otro ($-3$ pasa sumando):\n   $$ 4x - 2x = 9 + 3 $$\n   $$ 2x = 12 $$\n4. Dividir:\n   $$ x = 6 $$\n---",
       "id": "CO-MAT-11-ALG-001-v6"
     },
     {
+      "images": [],
       "number": 7,
-      "explanation": "**Respuesta Correcta: B**\nSea $a$ la edad de Andrés.\nLa edad de Catalina es $2a + 4$.\nLa suma es 40:\n$$ a + (2a + 4) = 40 $$\n1. Agrupar términos:\n   $$ 3a + 4 = 40 $$\n2. Restar 4:\n   $$ 3a = 36 $$\n3. Dividir por 3:\n   $$ a = 12 $$\n Andrés tiene 12 años (y Catalina tiene $2(12)+4 = 28$). $12 + 28 = 40$.\n**Análisis de errores:**\n- A) 10: Adivinar un número redondo.\n- D) 28: Es la edad de Catalina, no de Andrés.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-ALG-001",
       "statement": "La edad de Catalina es el doble de la edad de su hermano Andrés más 4 años. Si la suma de sus edades es 40 años, ¿cuántos años tiene Andrés?",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "10 años",
-          "is_correct": false
+          "is_correct": false,
+          "text": "10 años"
         },
         {
           "letter": "B",
-          "text": "12 años",
-          "is_correct": true
+          "is_correct": true,
+          "text": "12 años"
         },
         {
           "letter": "C",
-          "text": "14 años",
-          "is_correct": false
+          "is_correct": false,
+          "text": "14 años"
         },
         {
           "letter": "D",
-          "text": "28 años",
-          "is_correct": false
+          "is_correct": false,
+          "text": "28 años"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nSea $a$ la edad de Andrés.\nLa edad de Catalina es $2a + 4$.\nLa suma es 40:\n$$ a + (2a + 4) = 40 $$\n1. Agrupar términos:\n   $$ 3a + 4 = 40 $$\n2. Restar 4:\n   $$ 3a = 36 $$\n3. Dividir por 3:\n   $$ a = 12 $$\n Andrés tiene 12 años (y Catalina tiene $2(12)+4 = 28$). $12 + 28 = 40$.\n**Análisis de errores:**\n- A) 10: Adivinar un número redondo.\n- D) 28: Es la edad de Catalina, no de Andrés.\n---",
       "id": "CO-MAT-11-ALG-001-v7"
     },
     {
+      "images": [],
       "number": 1,
-      "explanation": "**Respuesta Correcta: C**\n1. Distribuimos los coeficientes:\n   $3(x) + 3(2) = 3x + 6$\n   $-2(x) - 2(-1) = -2x + 2$ (Cuidado con el signo negativo: $-2 \\times -1 = +2$)\n2. Sumamos términos semejantes:\n   $(3x - 2x) + (6 + 2) = x + 8$\n**Análisis de errores:**\n- A) Error de signos: calcular $-2(-1) = -2$ dando $6-2=4$.\n- D) Sumar en vez de restar: $3x + 2x = 5x$.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-11-ALG-002",
       "statement": "Simplifica la expresión: $3(x + 2) - 2(x - 1)$",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "$x + 4$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x + 4$"
         },
         {
           "letter": "B",
-          "text": "$x + 5$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x + 5$"
         },
         {
           "letter": "C",
-          "text": "$x + 8$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$x + 8$"
         },
         {
           "letter": "D",
-          "text": "$5x + 4$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$5x + 4$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: C**\n1. Distribuimos los coeficientes:\n   $3(x) + 3(2) = 3x + 6$\n   $-2(x) - 2(-1) = -2x + 2$ (Cuidado con el signo negativo: $-2 \\times -1 = +2$)\n2. Sumamos términos semejantes:\n   $(3x - 2x) + (6 + 2) = x + 8$\n**Análisis de errores:**\n- A) Error de signos: calcular $-2(-1) = -2$ dando $6-2=4$.\n- D) Sumar en vez de restar: $3x + 2x = 5x$.\n---",
       "id": "CO-MAT-11-ALG-002-v1"
     },
     {
+      "images": [],
       "number": 2,
-      "explanation": "**Respuesta Correcta: B**\nMultiplicamos el 2 por cada término dentro del paréntesis:\n$$ 2 \\cdot x + 2 \\cdot 3 = 2x + 6 $$\n**Errores comunes:**\n- A) Olvidar multiplicar el segundo término ($2x+3$).\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-ALG-002",
       "statement": "Simplifica la siguiente expresión distribuyendo el número:\n$$ 2(x + 3) $$",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "$2x + 3$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$2x + 3$"
         },
         {
           "letter": "B",
-          "text": "$2x + 6$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$2x + 6$"
         },
         {
           "letter": "C",
-          "text": "$x + 5$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x + 5$"
         },
         {
           "letter": "D",
-          "text": "$2x + 5$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$2x + 5$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nMultiplicamos el 2 por cada término dentro del paréntesis:\n$$ 2 \\cdot x + 2 \\cdot 3 = 2x + 6 $$\n**Errores comunes:**\n- A) Olvidar multiplicar el segundo término ($2x+3$).\n---",
       "id": "CO-MAT-11-ALG-002-v2"
     },
     {
+      "images": [],
       "number": 3,
-      "explanation": "**Respuesta Correcta: A**\nEl signo negativo afecta a todo el segundo paréntesis:\n$$ 5x + 4 - x - 2 $$\nAgrupando términos semejantes:\n$$ (5x - x) + (4 - 2) = 4x + 2 $$\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "A",
       "bundle_id": "CO-MAT-11-ALG-002",
       "statement": "Reduce la siguiente expresión algebraica restando los polinomios:\n$$ (5x + 4) - (x + 2) $$",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "$4x + 2$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$4x + 2$"
         },
         {
           "letter": "B",
-          "text": "$4x + 6$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$4x + 6$"
         },
         {
           "letter": "C",
-          "text": "$6x + 6$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$6x + 6$"
         },
         {
           "letter": "D",
-          "text": "$5x + 2$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$5x + 2$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: A**\nEl signo negativo afecta a todo el segundo paréntesis:\n$$ 5x + 4 - x - 2 $$\nAgrupando términos semejantes:\n$$ (5x - x) + (4 - 2) = 4x + 2 $$\n---",
       "id": "CO-MAT-11-ALG-002-v3"
     },
     {
+      "images": [],
       "number": 4,
-      "explanation": "**Respuesta Correcta: B**\nEl perímetro es la suma de todos los lados ($2 \\cdot largo + 2 \\cdot ancho$):\n$$ P = 2(x + 5) + 2(x - 2) $$\n$$ P = (2x + 10) + (2x - 4) $$\n$$ P = 4x + 6 $$\n**Errores:**\n- C) Calcular el área ($base \\times altura$) en lugar del perímetro.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-ALG-002",
       "statement": "Se tiene un terreno rectangular en una finca del Eje Cafetero. El largo mide $(x + 5)$ metros y el ancho $(x - 2)$ metros. ¿Cuál es la expresión algebraica que representa el **perímetro** del terreno?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "$2x + 3$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$2x + 3$"
         },
         {
           "letter": "B",
-          "text": "$4x + 6$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$4x + 6$"
         },
         {
           "letter": "C",
-          "text": "$x^2 + 3x - 10$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x^2 + 3x - 10$"
         },
         {
           "letter": "D",
-          "text": "$4x + 3$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$4x + 3$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nEl perímetro es la suma de todos los lados ($2 \\cdot largo + 2 \\cdot ancho$):\n$$ P = 2(x + 5) + 2(x - 2) $$\n$$ P = (2x + 10) + (2x - 4) $$\n$$ P = 4x + 6 $$\n**Errores:**\n- C) Calcular el área ($base \\times altura$) en lugar del perímetro.\n---",
       "id": "CO-MAT-11-ALG-002-v4"
     },
     {
+      "images": [],
       "number": 5,
-      "explanation": "**Respuesta Correcta: C**\n$$ G = I - C $$\n$$ G = 50x - (20x + 100.000) $$\nEs crucial usar paréntesis para el costo total.\n$$ G = 50x - 20x - 100.000 $$\n$$ G = 30x - 100.000 $$\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-11-ALG-002",
       "statement": "Una empresa de envíos en Colombia calcula sus ganancias ($G$) restando los costos ($C$) de sus ingresos ($I$).\nSi los ingresos son $I = 50x$ y los costos son $C = 20x + 100.000$, ¿cuál es la expresión para la ganancia?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "$70x + 100.000$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$70x + 100.000$"
         },
         {
           "letter": "B",
-          "text": "$30x + 100.000$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$30x + 100.000$"
         },
         {
           "letter": "C",
-          "text": "$30x - 100.000$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$30x - 100.000$"
         },
         {
           "letter": "D",
-          "text": "$30x$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$30x$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: C**\n$$ G = I - C $$\n$$ G = 50x - (20x + 100.000) $$\nEs crucial usar paréntesis para el costo total.\n$$ G = 50x - 20x - 100.000 $$\n$$ G = 30x - 100.000 $$\n---",
       "id": "CO-MAT-11-ALG-002-v5"
     },
     {
+      "images": [],
       "number": 6,
-      "explanation": "**Respuesta Correcta: B**\n1. Resolver paréntesis interno:\n   $$ 3(x - 1) = 3x - 3 $$\n   Expresión: $2 [ 3x - 3 + 4 ] - 5x$\n2. Simplificar corchete:\n   $$ 3x + 1 $$\n   Expresión: $2 [ 3x + 1 ] - 5x$\n3. Distribuir el 2:\n   $$ 6x + 2 - 5x $$\n4. Simplificar:\n   $$ x + 2 $$\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-ALG-002",
       "statement": "Simplifica completamente la expresión con signos de agrupación anidados:\n$$ 2 [ 3(x - 1) + 4 ] - 5x $$",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "$x + 6$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x + 6$"
         },
         {
           "letter": "B",
-          "text": "$x + 2$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$x + 2$"
         },
         {
           "letter": "C",
-          "text": "$6x + 2$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$6x + 2$"
         },
         {
           "letter": "D",
-          "text": "$x - 2$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x - 2$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\n1. Resolver paréntesis interno:\n   $$ 3(x - 1) = 3x - 3 $$\n   Expresión: $2 [ 3x - 3 + 4 ] - 5x$\n2. Simplificar corchete:\n   $$ 3x + 1 $$\n   Expresión: $2 [ 3x + 1 ] - 5x$\n3. Distribuir el 2:\n   $$ 6x + 2 - 5x $$\n4. Simplificar:\n   $$ x + 2 $$\n---",
       "id": "CO-MAT-11-ALG-002-v6"
     },
     {
+      "images": [],
       "number": 7,
-      "explanation": "**Respuesta Correcta: B**\nSustituimos:\n$$ 3(x^2 - 3x + 1) - 2(2x^2 + x - 5) $$\nPropiedad distributiva:\n$$ (3x^2 - 9x + 3) - (4x^2 + 2x - 10) $$\nEliminar paréntesis (ojo con los signos del segundo grupo):\n$$ 3x^2 - 9x + 3 - 4x^2 - 2x + 10 $$\nAgrupar términos:\n- $x^2$: $3 - 4 = -1$\n- $x$: $-9 - 2 = -11$\n- Constante: $3 + 10 = 13$\nResultado: $-x^2 - 11x + 13$\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-ALG-002",
       "statement": "Si $A = x^2 - 3x + 1$ y $B = 2x^2 + x - 5$, encuentra el valor simplificado de $3A - 2B$.",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "$-x^2 - 7x + 13$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$-x^2 - 7x + 13$"
         },
         {
           "letter": "B",
-          "text": "$-x^2 - 11x + 13$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$-x^2 - 11x + 13$"
         },
         {
           "letter": "C",
-          "text": "$-x^2 - 11x - 7$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$-x^2 - 11x - 7$"
         },
         {
           "letter": "D",
-          "text": "$x^2 - 11x + 8$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x^2 - 11x + 8$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nSustituimos:\n$$ 3(x^2 - 3x + 1) - 2(2x^2 + x - 5) $$\nPropiedad distributiva:\n$$ (3x^2 - 9x + 3) - (4x^2 + 2x - 10) $$\nEliminar paréntesis (ojo con los signos del segundo grupo):\n$$ 3x^2 - 9x + 3 - 4x^2 - 2x + 10 $$\nAgrupar términos:\n- $x^2$: $3 - 4 = -1$\n- $x$: $-9 - 2 = -11$\n- Constante: $3 + 10 = 13$\nResultado: $-x^2 - 11x + 13$\n---",
       "id": "CO-MAT-11-ALG-002-v7"
     },
     {
+      "images": [],
       "number": 1,
-      "explanation": "**Respuesta Correcta: A**\nBuscamos dos números que multiplicados den $+6$ y sumados den $-5$.\nEsos números son $-2$ y $-3$.\nFactorizamos:\n$$ (x - 2)(x - 3) = 0 $$\nIgualando cada factor a cero:\n- $x - 2 = 0 \\rightarrow x = 2$\n- $x - 3 = 0 \\rightarrow x = 3$\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "A",
       "bundle_id": "CO-MAT-11-ALG-003",
       "statement": "Si $x^2 - 5x + 6 = 0$, ¿cuáles son los valores de $x$?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "$x = 2$ y $x = 3$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$x = 2$ y $x = 3$"
         },
         {
           "letter": "B",
-          "text": "$x = 1$ y $x = 6$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x = 1$ y $x = 6$"
         },
         {
           "letter": "C",
-          "text": "$x = -2$ y $x = -3$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x = -2$ y $x = -3$"
         },
         {
           "letter": "D",
-          "text": "$x = 2$ y $x = -3$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x = 2$ y $x = -3$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: A**\nBuscamos dos números que multiplicados den $+6$ y sumados den $-5$.\nEsos números son $-2$ y $-3$.\nFactorizamos:\n$$ (x - 2)(x - 3) = 0 $$\nIgualando cada factor a cero:\n- $x - 2 = 0 \\rightarrow x = 2$\n- $x - 3 = 0 \\rightarrow x = 3$\n---",
       "id": "CO-MAT-11-ALG-003-v1"
     },
     {
+      "images": [],
       "number": 2,
-      "explanation": "**Respuesta Correcta: B**\nDespejamos $x^2$:\n$$ x^2 = 16 $$\nSacamos raíz cuadrada a ambos lados, recordando considerar tanto la solución positiva como la negativa:\n$$ x = \\pm\\sqrt{16} $$\n$$ x = \\pm 4 $$\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-ALG-003",
       "statement": "Resuelve la siguiente ecuación cuadrática pura (diferencia de cuadrados):\n$$ x^2 - 16 = 0 $$",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "$x = 4$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x = 4$"
         },
         {
           "letter": "B",
-          "text": "$x = 4$ y $x = -4$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$x = 4$ y $x = -4$"
         },
         {
           "letter": "C",
-          "text": "$x = 8$ y $x = -8$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x = 8$ y $x = -8$"
         },
         {
           "letter": "D",
-          "text": "$x = 16$ y $x = -16$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x = 16$ y $x = -16$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nDespejamos $x^2$:\n$$ x^2 = 16 $$\nSacamos raíz cuadrada a ambos lados, recordando considerar tanto la solución positiva como la negativa:\n$$ x = \\pm\\sqrt{16} $$\n$$ x = \\pm 4 $$\n---",
       "id": "CO-MAT-11-ALG-003-v2"
     },
     {
+      "images": [],
       "number": 3,
-      "explanation": "**Respuesta Correcta: B**\nPor la propiedad del producto cero, si $A \\cdot B = 0$, entonces $A=0$ o $B=0$.\n- $x - 5 = 0 \\rightarrow x = 5$\n- $x + 2 = 0 \\rightarrow x = -2$\nLos signos de las soluciones son opuestos a los de los factores.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-ALG-003",
       "statement": "Si ya tienes la ecuación factorizada como $(x - 5)(x + 2) = 0$, ¿cuáles son las soluciones?",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "$x = -5$ y $x = 2$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x = -5$ y $x = 2$"
         },
         {
           "letter": "B",
-          "text": "$x = 5$ y $x = -2$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$x = 5$ y $x = -2$"
         },
         {
           "letter": "C",
-          "text": "$x = 5$ y $x = 2$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x = 5$ y $x = 2$"
         },
         {
           "letter": "D",
-          "text": "$x = -5$ y $x = -2$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x = -5$ y $x = -2$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nPor la propiedad del producto cero, si $A \\cdot B = 0$, entonces $A=0$ o $B=0$.\n- $x - 5 = 0 \\rightarrow x = 5$\n- $x + 2 = 0 \\rightarrow x = -2$\nLos signos de las soluciones son opuestos a los de los factores.\n---",
       "id": "CO-MAT-11-ALG-003-v3"
     },
     {
+      "images": [],
       "number": 4,
-      "explanation": "**Respuesta Correcta: B**\nEl área de un rectángulo es $ancho \\times largo$.\n- Ancho = $x$\n- Largo = $x + 2$\n- Ecuación: $x(x + 2) = 24$\n(Al expandir sería $x^2 + 2x - 24 = 0$, cuya solución positiva es $x=4$).\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-ALG-003",
       "statement": "El área de una sala rectangular es de $24 m^2$. Si el largo mide 2 metros más que el ancho ($x$), ¿cuál es la ecuación que permite hallar el ancho?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "$2x + 2 = 24$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$2x + 2 = 24$"
         },
         {
           "letter": "B",
-          "text": "$x(x + 2) = 24$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$x(x + 2) = 24$"
         },
         {
           "letter": "C",
-          "text": "$x^2 + 2 = 24$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x^2 + 2 = 24$"
         },
         {
           "letter": "D",
-          "text": "$4x + 4 = 24$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$4x + 4 = 24$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nEl área de un rectángulo es $ancho \\times largo$.\n- Ancho = $x$\n- Largo = $x + 2$\n- Ecuación: $x(x + 2) = 24$\n(Al expandir sería $x^2 + 2x - 24 = 0$, cuya solución positiva es $x=4$).\n---",
       "id": "CO-MAT-11-ALG-003-v4"
     },
     {
+      "images": [],
       "number": 5,
-      "explanation": "**Respuesta Correcta: B**\nIgualamos la altura a cero:\n$$ -5t^2 + 20t = 0 $$\nFactor común $5t$:\n$$ 5t(-t + 4) = 0 $$\nSoluciones:\n- $5t = 0 \\rightarrow t = 0$ (Momento del lanzamiento)\n- $-t + 4 = 0 \\rightarrow t = 4$ (Momento de caída)\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-ALG-003",
       "statement": "En un festival de cometas, la altura $h$ (en metros) de un proyectil lanzado hacia arriba está dada por $h(t) = -5t^2 + 20t$, donde $t$ es el tiempo en segundos. ¿En qué momento el proyectil vuelve a caer al suelo ($h=0$)?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "2 segundos",
-          "is_correct": false
+          "is_correct": false,
+          "text": "2 segundos"
         },
         {
           "letter": "B",
-          "text": "4 segundos",
-          "is_correct": true
+          "is_correct": true,
+          "text": "4 segundos"
         },
         {
           "letter": "C",
-          "text": "5 segundos",
-          "is_correct": false
+          "is_correct": false,
+          "text": "5 segundos"
         },
         {
           "letter": "D",
-          "text": "10 segundos",
-          "is_correct": false
+          "is_correct": false,
+          "text": "10 segundos"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nIgualamos la altura a cero:\n$$ -5t^2 + 20t = 0 $$\nFactor común $5t$:\n$$ 5t(-t + 4) = 0 $$\nSoluciones:\n- $5t = 0 \\rightarrow t = 0$ (Momento del lanzamiento)\n- $-t + 4 = 0 \\rightarrow t = 4$ (Momento de caída)\n---",
       "id": "CO-MAT-11-ALG-003-v5"
     },
     {
+      "images": [],
       "number": 6,
-      "explanation": "**Respuesta Correcta: B**\nPodemos usar la fórmula general cuadrática o factorizar.\nBusquemos dos números que multiplicados den $2 \\times 3 = 6$ y sumados den 7. (Son 6 y 1).\nReescribimos el término central:\n$$ 2x^2 + 6x + x + 3 = 0 $$\nFactorización por agrupación:\n$$ 2x(x + 3) + 1(x + 3) = 0 $$\n$$ (2x + 1)(x + 3) = 0 $$\nSoluciones:\n- $2x + 1 = 0 \\rightarrow x = -1/2$\n- $x + 3 = 0 \\rightarrow x = -3$\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-ALG-003",
       "statement": "Resuelve la ecuación cuadrática $2x^2 + 7x + 3 = 0$.",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "$x = -1$ y $x = -3$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x = -1$ y $x = -3$"
         },
         {
           "letter": "B",
-          "text": "$x = -1/2$ y $x = -3$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$x = -1/2$ y $x = -3$"
         },
         {
           "letter": "C",
-          "text": "$x = 1/2$ y $x = 3$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x = 1/2$ y $x = 3$"
         },
         {
           "letter": "D",
-          "text": "$x = -2$ y $x = -3$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x = -2$ y $x = -3$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nPodemos usar la fórmula general cuadrática o factorizar.\nBusquemos dos números que multiplicados den $2 \\times 3 = 6$ y sumados den 7. (Son 6 y 1).\nReescribimos el término central:\n$$ 2x^2 + 6x + x + 3 = 0 $$\nFactorización por agrupación:\n$$ 2x(x + 3) + 1(x + 3) = 0 $$\n$$ (2x + 1)(x + 3) = 0 $$\nSoluciones:\n- $2x + 1 = 0 \\rightarrow x = -1/2$\n- $x + 3 = 0 \\rightarrow x = -3$\n---",
       "id": "CO-MAT-11-ALG-003-v6"
     },
     {
+      "images": [],
       "number": 7,
-      "explanation": "**Respuesta Correcta: A**\nDimensiones totales con el camino:\n- Largo total: $10 + 2x$\n- Ancho total: $6 + 2x$\nÁrea total: $(10 + 2x)(6 + 2x) = 96$\n$$ 60 + 20x + 12x + 4x^2 = 96 $$\n$$ 4x^2 + 32x + 60 - 96 = 0 $$\n$$ 4x^2 + 32x - 36 = 0 $$\nDividir por 4:\n$$ x^2 + 8x - 9 = 0 $$\n$$ (x + 9)(x - 1) = 0 $$\nSoluciones: $x = -9$ (imposible geométricamente) y $x = 1$.\nEl ancho el 1 metro.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "A",
       "bundle_id": "CO-MAT-11-ALG-003",
       "statement": "Una piscina mide 10 m de largo y 6 m de ancho. Se construye un camino de cemento de ancho uniforme $x$ alrededor de toda la piscina. Si el área total (piscina + camino) es de $96 m^2$, ¿cuál es el ancho del camino?",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "1 metro",
-          "is_correct": true
+          "is_correct": true,
+          "text": "1 metro"
         },
         {
           "letter": "B",
-          "text": "2 metros",
-          "is_correct": false
+          "is_correct": false,
+          "text": "2 metros"
         },
         {
           "letter": "C",
-          "text": "3 metros",
-          "is_correct": false
+          "is_correct": false,
+          "text": "3 metros"
         },
         {
           "letter": "D",
-          "text": "0.5 metros",
-          "is_correct": false
+          "is_correct": false,
+          "text": "0.5 metros"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: A**\nDimensiones totales con el camino:\n- Largo total: $10 + 2x$\n- Ancho total: $6 + 2x$\nÁrea total: $(10 + 2x)(6 + 2x) = 96$\n$$ 60 + 20x + 12x + 4x^2 = 96 $$\n$$ 4x^2 + 32x + 60 - 96 = 0 $$\n$$ 4x^2 + 32x - 36 = 0 $$\nDividir por 4:\n$$ x^2 + 8x - 9 = 0 $$\n$$ (x + 9)(x - 1) = 0 $$\nSoluciones: $x = -9$ (imposible geométricamente) y $x = 1$.\nEl ancho el 1 metro.\n---",
       "id": "CO-MAT-11-ALG-003-v7"
     },
     {
+      "images": [],
       "number": 1,
-      "explanation": "**Respuesta Correcta: B**\nEl numerador es una diferencia de cuadrados:\n$$ x^2 - 9 = (x + 3)(x - 3) $$\nSustituyendo en la fracción:\n$$ \\frac{(x + 3)(x - 3)}{x - 3} $$\nCancelamos el factor $(x - 3)$ del numerador y denominador:\n$$ x + 3 $$\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-ALG-004",
       "statement": "¿Cuál es el valor de la expresión $\\frac{x^2 - 9}{x - 3}$ cuando $x \\neq 3$?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "$x - 3$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x - 3$"
         },
         {
           "letter": "B",
-          "text": "$x + 3$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$x + 3$"
         },
         {
           "letter": "C",
-          "text": "$x^2 - 3$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x^2 - 3$"
         },
         {
           "letter": "D",
-          "text": "$3 - x$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$3 - x$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nEl numerador es una diferencia de cuadrados:\n$$ x^2 - 9 = (x + 3)(x - 3) $$\nSustituyendo en la fracción:\n$$ \\frac{(x + 3)(x - 3)}{x - 3} $$\nCancelamos el factor $(x - 3)$ del numerador y denominador:\n$$ x + 3 $$\n---",
       "id": "CO-MAT-11-ALG-004-v1"
     },
     {
+      "images": [],
       "number": 2,
-      "explanation": "**Respuesta Correcta: B**\nAplicamos la ley de exponentes para la división: $x^2 / x^1 = x^{2-1} = x$.\n$$ \\frac{3 \\cdot x \\cdot x}{x} = 3x $$\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-ALG-004",
       "statement": "Simplifica la siguiente expresión racional (asumiendo $x \\neq 0$):\n$$ \\frac{3x^2}{x} $$",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "$3$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$3$"
         },
         {
           "letter": "B",
-          "text": "$3x$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$3x$"
         },
         {
           "letter": "C",
-          "text": "$3x^3$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$3x^3$"
         },
         {
           "letter": "D",
-          "text": "$x$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nAplicamos la ley de exponentes para la división: $x^2 / x^1 = x^{2-1} = x$.\n$$ \\frac{3 \\cdot x \\cdot x}{x} = 3x $$\n---",
       "id": "CO-MAT-11-ALG-004-v2"
     },
     {
+      "images": [],
       "number": 3,
-      "explanation": "**Respuesta Correcta: B**\nPodemos factorizar una $x$ en el numerador:\n$$ \\frac{x(x + 5)}{x} $$\nCancelamos la $x$:\n$$ x + 5 $$\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-ALG-004",
       "statement": "Al simplificar $\\frac{x^2 + 5x}{x}$ dividiendo cada término por $x$, obtenemos:",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "$x + 5x$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x + 5x$"
         },
         {
           "letter": "B",
-          "text": "$x + 5$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$x + 5$"
         },
         {
           "letter": "C",
-          "text": "$x^2 + 5$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x^2 + 5$"
         },
         {
           "letter": "D",
-          "text": "$5$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$5$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nPodemos factorizar una $x$ en el numerador:\n$$ \\frac{x(x + 5)}{x} $$\nCancelamos la $x$:\n$$ x + 5 $$\n---",
       "id": "CO-MAT-11-ALG-004-v3"
     },
     {
+      "images": [],
       "number": 4,
-      "explanation": "**Respuesta Correcta: B**\nDividimos la expresión de distancia por $t$:\n$$ v = \\frac{2t^2 + 4t}{t} $$\nFactor común $t$ en el numerador:\n$$ v = \\frac{t(2t + 4)}{t} $$\n$$ v = 2t + 4 $$\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-ALG-004",
       "statement": "La distancia que recorre un objeto está dada por la expresión $d = 2t^2 + 4t$. Si la velocidad promedio se calcula como distancia dividida por tiempo ($v = d/t$), ¿cuál es la expresión para la velocidad?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "$2t^2 + 4$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$2t^2 + 4$"
         },
         {
           "letter": "B",
-          "text": "$2t + 4$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$2t + 4$"
         },
         {
           "letter": "C",
-          "text": "$2t + 2$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$2t + 2$"
         },
         {
           "letter": "D",
-          "text": "$t + 2$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$t + 2$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nDividimos la expresión de distancia por $t$:\n$$ v = \\frac{2t^2 + 4t}{t} $$\nFactor común $t$ en el numerador:\n$$ v = \\frac{t(2t + 4)}{t} $$\n$$ v = 2t + 4 $$\n---",
       "id": "CO-MAT-11-ALG-004-v4"
     },
     {
+      "images": [],
       "number": 5,
-      "explanation": "**Respuesta Correcta: B**\n$$ \\frac{n^2 - 100}{n - 10} $$\nEl numerador es una diferencia de cuadrados ($n^2 - 10^2$):\n$$ \\frac{(n - 10)(n + 10)}{n - 10} $$\nSimplificando:\n$$ n + 10 $$\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-ALG-004",
       "statement": "El costo total de un evento corporativo es $C = n^2 - 100$ pesos, donde $n$ es una variable relacionada con el aforo. Si el número de asistentes reales es $n - 10$, ¿cuál es la expresión que representa el **costo por persona**?\nCost per person = $\\frac{\\text{Costo Total}}{\\text{Asistentes}}$",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "$n - 10$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$n - 10$"
         },
         {
           "letter": "B",
-          "text": "$n + 10$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$n + 10$"
         },
         {
           "letter": "C",
-          "text": "$n^2 - 10$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$n^2 - 10$"
         },
         {
           "letter": "D",
-          "text": "$n$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$n$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\n$$ \\frac{n^2 - 100}{n - 10} $$\nEl numerador es una diferencia de cuadrados ($n^2 - 10^2$):\n$$ \\frac{(n - 10)(n + 10)}{n - 10} $$\nSimplificando:\n$$ n + 10 $$\n---",
       "id": "CO-MAT-11-ALG-004-v5"
     },
     {
+      "images": [],
       "number": 6,
-      "explanation": "**Respuesta Correcta: B**\n1. Factorizar numerador (trinomio):\n   $x^2 - 5x + 6 = (x-2)(x-3)$\n2. Factorizar denominador (diferencia de cuadrados):\n   $x^2 - 4 = (x-2)(x+2)$\n3. Expresión completa:\n   $$ \\frac{(x-2)(x-3)}{(x-2)(x+2)} $$\n4. Cancelar $(x-2)$:\n   $$ \\frac{x-3}{x+2} $$\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-ALG-004",
       "statement": "Simplifica totalmente la expresión algebraica:\n$$ \\frac{x^2 - 5x + 6}{x^2 - 4} $$",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "$\\frac{x-3}{x-2}$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$\\frac{x-3}{x-2}$"
         },
         {
           "letter": "B",
-          "text": "$\\frac{x-3}{x+2}$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$\\frac{x-3}{x+2}$"
         },
         {
           "letter": "C",
-          "text": "$\\frac{x-6}{x-4}$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$\\frac{x-6}{x-4}$"
         },
         {
           "letter": "D",
-          "text": "$\\frac{x+3}{x+2}$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$\\frac{x+3}{x+2}$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\n1. Factorizar numerador (trinomio):\n   $x^2 - 5x + 6 = (x-2)(x-3)$\n2. Factorizar denominador (diferencia de cuadrados):\n   $x^2 - 4 = (x-2)(x+2)$\n3. Expresión completa:\n   $$ \\frac{(x-2)(x-3)}{(x-2)(x+2)} $$\n4. Cancelar $(x-2)$:\n   $$ \\frac{x-3}{x+2} $$\n---",
       "id": "CO-MAT-11-ALG-004-v6"
     },
     {
+      "images": [],
       "number": 7,
-      "explanation": "**Respuesta Correcta: B**\nPara sumar fracciones con distinto denominador, hallamos el denominador común $x(x+1)$.\n1. Amplificar la primera fracción por $(x+1)$:\n   $$ \\frac{1(x+1)}{x(x+1)} = \\frac{x+1}{x(x+1)} $$\n2. Amplificar la segunda fracción por $x$:\n   $$ \\frac{1(x)}{x(x+1)} = \\frac{x}{x(x+1)} $$\n3. Sumar numeradores:\n   $$ \\frac{x+1 + x}{x(x+1)} = \\frac{2x+1}{x(x+1)} $$\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-ALG-004",
       "statement": "Realiza la suma de las siguientes fracciones algebraicas:\n$$ \\frac{1}{x} + \\frac{1}{x+1} $$",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "$\\frac{2}{2x+1}$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$\\frac{2}{2x+1}$"
         },
         {
           "letter": "B",
-          "text": "$\\frac{2x+1}{x(x+1)}$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$\\frac{2x+1}{x(x+1)}$"
         },
         {
           "letter": "C",
-          "text": "$\\frac{2}{x(x+1)}$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$\\frac{2}{x(x+1)}$"
         },
         {
           "letter": "D",
-          "text": "$\\frac{x+1}{x+2}$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$\\frac{x+1}{x+2}$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nPara sumar fracciones con distinto denominador, hallamos el denominador común $x(x+1)$.\n1. Amplificar la primera fracción por $(x+1)$:\n   $$ \\frac{1(x+1)}{x(x+1)} = \\frac{x+1}{x(x+1)} $$\n2. Amplificar la segunda fracción por $x$:\n   $$ \\frac{1(x)}{x(x+1)} = \\frac{x}{x(x+1)} $$\n3. Sumar numeradores:\n   $$ \\frac{x+1 + x}{x(x+1)} = \\frac{2x+1}{x(x+1)} $$\n---",
       "id": "CO-MAT-11-ALG-004-v7"
     },
     {
+      "images": [],
       "number": 1,
-      "explanation": "**Respuesta Correcta: B**\nSustituimos $x$ por 2 en la función:\n$$ f(2) = 2(2)^2 - 3(2) + 1 $$\n$$ f(2) = 2(4) - 6 + 1 $$\n$$ f(2) = 8 - 6 + 1 $$\n$$ f(2) = 3 $$\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-ALG-005",
       "statement": "Si $f(x) = 2x^2 - 3x + 1$, ¿cuál es el valor de $f(2)$?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "1"
         },
         {
           "letter": "B",
-          "text": "3",
-          "is_correct": true
+          "is_correct": true,
+          "text": "3"
         },
         {
           "letter": "C",
-          "text": "5",
-          "is_correct": false
+          "is_correct": false,
+          "text": "5"
         },
         {
           "letter": "D",
-          "text": "7",
-          "is_correct": false
+          "is_correct": false,
+          "text": "7"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nSustituimos $x$ por 2 en la función:\n$$ f(2) = 2(2)^2 - 3(2) + 1 $$\n$$ f(2) = 2(4) - 6 + 1 $$\n$$ f(2) = 8 - 6 + 1 $$\n$$ f(2) = 3 $$\n---",
       "id": "CO-MAT-11-ALG-005-v1"
     },
     {
+      "images": [],
       "number": 2,
-      "explanation": "**Respuesta Correcta: C**\nReemplazamos $x$ con 3:\n$$ g(3) = 3 + 5 = 8 $$\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-11-ALG-005",
       "statement": "Dada la función lineal $g(x) = x + 5$, ¿cuál es el valor de $g(3)$?",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "3"
         },
         {
           "letter": "B",
-          "text": "5",
-          "is_correct": false
+          "is_correct": false,
+          "text": "5"
         },
         {
           "letter": "C",
-          "text": "8",
-          "is_correct": true
+          "is_correct": true,
+          "text": "8"
         },
         {
           "letter": "D",
-          "text": "15",
-          "is_correct": false
+          "is_correct": false,
+          "text": "15"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: C**\nReemplazamos $x$ con 3:\n$$ g(3) = 3 + 5 = 8 $$\n---",
       "id": "CO-MAT-11-ALG-005-v2"
     },
     {
+      "images": [],
       "number": 3,
-      "explanation": "**Respuesta Correcta: B**\nElevamos 3 al cubo:\n$$ h(3) = 3^3 = 3 \\times 3 \\times 3 = 27 $$\n**Errores comunes:**\n- A) Calcular $3 \\times 3$ (cuadrado).\n- D) Multiplicar $3 \\times 2$.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-ALG-005",
       "statement": "Si $h(t) = t^3$ (función cúbica), calcula $h(3)$.",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "9",
-          "is_correct": false
+          "is_correct": false,
+          "text": "9"
         },
         {
           "letter": "B",
-          "text": "27",
-          "is_correct": true
+          "is_correct": true,
+          "text": "27"
         },
         {
           "letter": "C",
-          "text": "33",
-          "is_correct": false
+          "is_correct": false,
+          "text": "33"
         },
         {
           "letter": "D",
-          "text": "6",
-          "is_correct": false
+          "is_correct": false,
+          "text": "6"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nElevamos 3 al cubo:\n$$ h(3) = 3^3 = 3 \\times 3 \\times 3 = 27 $$\n**Errores comunes:**\n- A) Calcular $3 \\times 3$ (cuadrado).\n- D) Multiplicar $3 \\times 2$.\n---",
       "id": "CO-MAT-11-ALG-005-v3"
     },
     {
+      "images": [],
       "number": 4,
-      "explanation": "**Respuesta Correcta: A**\nSustituimos $n = 10$:\n$$ B(10) = 50.000 - 2.950(10) $$\n$$ B(10) = 50.000 - 29.500 $$\n$$ B(10) = 20.500 $$\nEl saldo restante es $20.500 pesos.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "A",
       "bundle_id": "CO-MAT-11-ALG-005",
       "statement": "El saldo de una tarjeta TuLlave (TransMilenio) se modela con la función $B(n) = 50.000 - 2.950n$, donde $n$ es el número de viajes. ¿Cuál es el saldo después de hacer 10 viajes?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "$20.500",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$20.500"
         },
         {
           "letter": "B",
-          "text": "$29.500",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$29.500"
         },
         {
           "letter": "C",
-          "text": "$20.050",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$20.050"
         },
         {
           "letter": "D",
-          "text": "$5.000",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$5.000"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: A**\nSustituimos $n = 10$:\n$$ B(10) = 50.000 - 2.950(10) $$\n$$ B(10) = 50.000 - 29.500 $$\n$$ B(10) = 20.500 $$\nEl saldo restante es $20.500 pesos.\n---",
       "id": "CO-MAT-11-ALG-005-v4"
     },
     {
+      "images": [],
       "number": 5,
-      "explanation": "**Respuesta Correcta: B**\n$$ F(10) = 1.8(10) + 32 $$\n$$ F(10) = 18 + 32 $$\n$$ F(10) = 50 $$\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-ALG-005",
       "statement": "La fórmula para convertir grados Celsius ($C$) a Fahrenheit ($F$) es $F(C) = 1.8C + 32$.\nSi la temperatura promedio en Tunja es de $10^\\circ C$, ¿cuál es esa temperatura en grados Fahrenheit?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "$42^\\circ F$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$42^\\circ F$"
         },
         {
           "letter": "B",
-          "text": "$50^\\circ F$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$50^\\circ F$"
         },
         {
           "letter": "C",
-          "text": "$18^\\circ F$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$18^\\circ F$"
         },
         {
           "letter": "D",
-          "text": "$33.8^\\circ F$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$33.8^\\circ F$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\n$$ F(10) = 1.8(10) + 32 $$\n$$ F(10) = 18 + 32 $$\n$$ F(10) = 50 $$\n---",
       "id": "CO-MAT-11-ALG-005-v5"
     },
     {
+      "images": [],
       "number": 6,
-      "explanation": "**Respuesta Correcta: B**\nPlanteamos la ecuación:\n$$ 150 = 50 + 10t $$\nRestamos 50:\n$$ 100 = 10t $$\nDividimos por 10:\n$$ t = 10 $$\nDeben pasar 10 meses.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-ALG-005",
       "statement": "La altura de una planta de café en cm después de $t$ meses está dada por $H(t) = 50 + 10t$. ¿Cuántos meses deben pasar para que la planta alcance una altura de 150 cm?\n*Sugerencia: Debes despejar $t$ cuando $H(t) = 150$.*",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "5 meses",
-          "is_correct": false
+          "is_correct": false,
+          "text": "5 meses"
         },
         {
           "letter": "B",
-          "text": "10 meses",
-          "is_correct": true
+          "is_correct": true,
+          "text": "10 meses"
         },
         {
           "letter": "C",
-          "text": "15 meses",
-          "is_correct": false
+          "is_correct": false,
+          "text": "15 meses"
         },
         {
           "letter": "D",
-          "text": "20 meses",
-          "is_correct": false
+          "is_correct": false,
+          "text": "20 meses"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nPlanteamos la ecuación:\n$$ 150 = 50 + 10t $$\nRestamos 50:\n$$ 100 = 10t $$\nDividimos por 10:\n$$ t = 10 $$\nDeben pasar 10 meses.\n---",
       "id": "CO-MAT-11-ALG-005-v6"
     },
     {
+      "images": [],
       "number": 7,
-      "explanation": "**Respuesta Correcta: B**\nEvaluamos de adentro hacia afuera:\n1. Primero hallamos $f(3)$:\n   $$ f(3) = 3 + 1 = 4 $$\n2. Luego evaluamos $g$ con el resultado anterior ($4$):\n   $$ g(4) = 4^2 = 16 $$\n(Nota: $f(g(3))$ sería diferente: $g(3)=9 \\rightarrow f(9)=10$).\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-ALG-005",
       "statement": "Si $f(x) = x + 1$ y $g(x) = x^2$, ¿cuál es el valor de la función compuesta $g(f(3))$?",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "10",
-          "is_correct": false
+          "is_correct": false,
+          "text": "10"
         },
         {
           "letter": "B",
-          "text": "16",
-          "is_correct": true
+          "is_correct": true,
+          "text": "16"
         },
         {
           "letter": "C",
-          "text": "7",
-          "is_correct": false
+          "is_correct": false,
+          "text": "7"
         },
         {
           "letter": "D",
-          "text": "12",
-          "is_correct": false
+          "is_correct": false,
+          "text": "12"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nEvaluamos de adentro hacia afuera:\n1. Primero hallamos $f(3)$:\n   $$ f(3) = 3 + 1 = 4 $$\n2. Luego evaluamos $g$ con el resultado anterior ($4$):\n   $$ g(4) = 4^2 = 16 $$\n(Nota: $f(g(3))$ sería diferente: $g(3)=9 \\rightarrow f(9)=10$).\n---",
       "id": "CO-MAT-11-ALG-005-v7"
     },
     {
+      "images": [],
       "number": 1,
-      "explanation": "Para hallar el vértice $V(h, k)$ de una parábola dada por $f(x) = ax^2 + bx + c$:\n1.  **Coordenada x (h):** Usamos la fórmula $h = \\frac{-b}{2a}$.\n    *   Aquí $a = 2, b = -4$.\n    *   $h = \\frac{-(-4)}{2(2)} = \\frac{4}{4} = 1$.\n2.  **Coordenada y (k):** Evaluamos la función en $h = 1$.\n    *   $k = f(1) = 2(1)^2 - 4(1) + 1$\n    *   $k = 2 - 4 + 1 = -1$.\nEl vértice es **$(1, -1)$**.\n**Competencia evaluada:** Ejecución - cálculo de elementos de la parábola\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-11-algebra-002",
       "statement": "Dada la función cuadrática $f(x) = 2x^2 - 4x + 1$, ¿cuáles son las coordenadas del vértice de la parábola que representa esta función?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "$(-1, -1)$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$(-1, -1)$"
         },
         {
           "letter": "B",
-          "text": "$(1, 1)$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$(1, 1)$"
         },
         {
           "letter": "C",
-          "text": "$(1, -1)$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$(1, -1)$"
         },
         {
           "letter": "D",
-          "text": "$(2, 1)$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$(2, 1)$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "Para hallar el vértice $V(h, k)$ de una parábola dada por $f(x) = ax^2 + bx + c$:\n1.  **Coordenada x (h):** Usamos la fórmula $h = \\frac{-b}{2a}$.\n    *   Aquí $a = 2, b = -4$.\n    *   $h = \\frac{-(-4)}{2(2)} = \\frac{4}{4} = 1$.\n2.  **Coordenada y (k):** Evaluamos la función en $h = 1$.\n    *   $k = f(1) = 2(1)^2 - 4(1) + 1$\n    *   $k = 2 - 4 + 1 = -1$.\nEl vértice es **$(1, -1)$**.\n**Competencia evaluada:** Ejecución - cálculo de elementos de la parábola\n---",
       "id": "CO-MAT-11-algebra-002-v1"
     },
     {
+      "images": [],
       "number": 2,
-      "explanation": "Usando la fórmula del vértice:\n1.  $h = \\frac{-b}{2a} = \\frac{-(-4)}{2(1)} = \\frac{4}{2} = 2$.\n2.  Evaluamos $f(2) = (2)^2 - 4(2) + 3 = 4 - 8 + 3 = -1$.\n3.  Vértice: $(2, -1)$.\n**Competencia evaluada:** Ejecución - cálculo básico de vértice\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-11-algebra-002",
       "statement": "Considere la función $f(x) = x^2 - 4x + 3$. Identifique las coordenadas del vértice de su gráfica.",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "$(2, -2)$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$(2, -2)$"
         },
         {
           "letter": "B",
-          "text": "$(-2, 15)$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$(-2, 15)$"
         },
         {
           "letter": "C",
-          "text": "$(2, -1)$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$(2, -1)$"
         },
         {
           "letter": "D",
-          "text": "$(-2, -1)$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$(-2, -1)$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "Usando la fórmula del vértice:\n1.  $h = \\frac{-b}{2a} = \\frac{-(-4)}{2(1)} = \\frac{4}{2} = 2$.\n2.  Evaluamos $f(2) = (2)^2 - 4(2) + 3 = 4 - 8 + 3 = -1$.\n3.  Vértice: $(2, -1)$.\n**Competencia evaluada:** Ejecución - cálculo básico de vértice\n---",
       "id": "CO-MAT-11-algebra-002-v2"
     },
     {
+      "images": [],
       "number": 3,
-      "explanation": "Resolución paso a paso:\n1.  $2x - 5 < 3x + 2$\n2.  Restamos $2x$ a ambos lados: $-5 < x + 2$\n3.  Restamos 2 a ambos lados: $-7 < x$\n4.  Leemos la desigualdad desde la x: **$x > -7$**.\n**Competencia evaluada:** Resolución - desigualdades lineales simples\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-11-algebra-002",
       "statement": "Resuelva la siguiente inecuación lineal:\n$$2x - 5 < 3x + 2$$",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "$x < -7$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x < -7$"
         },
         {
           "letter": "B",
-          "text": "$x < 7$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x < 7$"
         },
         {
           "letter": "C",
-          "text": "$x > -7$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$x > -7$"
         },
         {
           "letter": "D",
-          "text": "$x > 7$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x > 7$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "Resolución paso a paso:\n1.  $2x - 5 < 3x + 2$\n2.  Restamos $2x$ a ambos lados: $-5 < x + 2$\n3.  Restamos 2 a ambos lados: $-7 < x$\n4.  Leemos la desigualdad desde la x: **$x > -7$**.\n**Competencia evaluada:** Resolución - desigualdades lineales simples\n---",
       "id": "CO-MAT-11-algebra-002-v3"
     },
     {
+      "images": [],
       "number": 4,
-      "explanation": "Podemos factorizar el trinomio buscando dos números que multiplicados den $+6$ y sumados den $-5$.\n*   Los números son $-2$ y $-3$.\n*   $(x - 2)(x - 3) = 0$\n*   Por la propiedad del producto cero: $x - 2 = 0 \\implies x = 2$ o $x - 3 = 0 \\implies x = 3$.\n**Competencia evaluada:** Resolución - factorización de ecuaciones cuadráticas\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "A",
       "bundle_id": "CO-MAT-11-algebra-002",
       "statement": "¿Cuáles son las raíces (soluciones) de la ecuación cuadrática $x^2 - 5x + 6 = 0$?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "$x = 2$ y $x = 3$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$x = 2$ y $x = 3$"
         },
         {
           "letter": "B",
-          "text": "$x = -2$ y $x = -3$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x = -2$ y $x = -3$"
         },
         {
           "letter": "C",
-          "text": "$x = 1$ y $x = 6$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x = 1$ y $x = 6$"
         },
         {
           "letter": "D",
-          "text": "$x = -1$ y $x = -6$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x = -1$ y $x = -6$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "Podemos factorizar el trinomio buscando dos números que multiplicados den $+6$ y sumados den $-5$.\n*   Los números son $-2$ y $-3$.\n*   $(x - 2)(x - 3) = 0$\n*   Por la propiedad del producto cero: $x - 2 = 0 \\implies x = 2$ o $x - 3 = 0 \\implies x = 3$.\n**Competencia evaluada:** Resolución - factorización de ecuaciones cuadráticas\n---",
       "id": "CO-MAT-11-algebra-002-v4"
     },
     {
+      "images": [],
       "number": 5,
-      "explanation": "Planteamos el sistema de ecuaciones:\n*   $x$: nota primer examen\n*   $y$: nota segundo examen\n*   Ecuación 1: $y = 2x + 1$\n*   Ecuación 2: $x + y = 22$\nSustituimos (1) en (2):\n$x + (2x + 1) = 22$\n$3x + 1 = 22$\n$3x = 21$\n$x = 7$\n**Competencia evaluada:** Formulación - modelamiento con ecuaciones lineales\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-11-algebra-002",
       "statement": "Un estudiante tiene dos exámenes. La nota del segundo examen es el doble de la del primero más 1 punto. Si la suma de las dos notas es 22, ¿cuál fue la nota del primer examen?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "5",
-          "is_correct": false
+          "is_correct": false,
+          "text": "5"
         },
         {
           "letter": "B",
-          "text": "6",
-          "is_correct": false
+          "is_correct": false,
+          "text": "6"
         },
         {
           "letter": "C",
-          "text": "7",
-          "is_correct": true
+          "is_correct": true,
+          "text": "7"
         },
         {
           "letter": "D",
-          "text": "8",
-          "is_correct": false
+          "is_correct": false,
+          "text": "8"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "Planteamos el sistema de ecuaciones:\n*   $x$: nota primer examen\n*   $y$: nota segundo examen\n*   Ecuación 1: $y = 2x + 1$\n*   Ecuación 2: $x + y = 22$\nSustituimos (1) en (2):\n$x + (2x + 1) = 22$\n$3x + 1 = 22$\n$3x = 21$\n$x = 7$\n**Competencia evaluada:** Formulación - modelamiento con ecuaciones lineales\n---",
       "id": "CO-MAT-11-algebra-002-v5"
     },
     {
+      "images": [],
       "number": 6,
-      "explanation": "1.  Factorizamos: $(x - 3)(x + 3) > 0$.\n2.  Puntos críticos: $x = 3, x = -3$.\n3.  Evaluamos intervalos en la recta real:\n    *   $x < -3$ (ej: -4): $(-)(-) = (+)$ **Cumple**\n    *   $-3 < x < 3$ (ej: 0): $(-)(+) = (-)$ No cumple\n    *   $x > 3$ (ej: 4): (+)(+) = (+) **Cumple**\nSolución: Unión de intervalos positivos.\n$(-\\infty, -3) \\cup (3, \\infty)$.\n**Competencia evaluada:** Razonamiento - desigualdades cuadráticas\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-algebra-002",
       "statement": "Determine el conjunto solución de la inecuación cuadrática:\n$$x^2 - 9 > 0$$",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "$(-3, 3)$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$(-3, 3)$"
         },
         {
           "letter": "B",
-          "text": "$(-\\infty, -3) \\cup (3, \\infty)$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$(-\\infty, -3) \\cup (3, \\infty)$"
         },
         {
           "letter": "C",
-          "text": "$(3, \\infty)$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$(3, \\infty)$"
         },
         {
           "letter": "D",
-          "text": "$[-3, 3]$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$[-3, 3]$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "1.  Factorizamos: $(x - 3)(x + 3) > 0$.\n2.  Puntos críticos: $x = 3, x = -3$.\n3.  Evaluamos intervalos en la recta real:\n    *   $x < -3$ (ej: -4): $(-)(-) = (+)$ **Cumple**\n    *   $-3 < x < 3$ (ej: 0): $(-)(+) = (-)$ No cumple\n    *   $x > 3$ (ej: 4): (+)(+) = (+) **Cumple**\nSolución: Unión de intervalos positivos.\n$(-\\infty, -3) \\cup (3, \\infty)$.\n**Competencia evaluada:** Razonamiento - desigualdades cuadráticas\n---",
       "id": "CO-MAT-11-algebra-002-v6"
     },
     {
+      "images": [],
       "number": 7,
-      "explanation": "1.  Perímetro cercado: $2x + y = 100$ (donde $x$ es el lado perpendicular al río).\n    *   $y = 100 - 2x$\n2.  Área: $A = x \\cdot y = x(100 - 2x) = 100x - 2x^2$.\n3.  Para maximizar, hallamos el vértice de la parábola $A(x) = -2x^2 + 100x$.\n    *   $x = \\frac{-b}{2a} = \\frac{-100}{2(-2)} = \\frac{-100}{-4} = 25$.\n4.  Si $x = 25$, entonces $y = 100 - 2(25) = 50$.\n5.  Área máxima: $25 \\times 50 = 1250$ m².\n*Nota: La opción C describe correctamente las dimensiones óptimas.*\n**Competencia evaluada:** Resolución - optimización cuadrática",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-11-algebra-002",
       "statement": "Se desea cercar un terreno rectangular adyacente a un río usando 100 metros de alambre. No se necesita cerca del lado del río. ¿Qué dimensiones maximizan el área del terreno?",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "$x = 25$ m, $y = 50$ m (Área = 1250 m²)",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x = 25$ m, $y = 50$ m (Área = 1250 m²)"
         },
         {
           "letter": "B",
-          "text": "$x = 50$ m, $y = 50$ m (Área = 2500 m²)",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x = 50$ m, $y = 50$ m (Área = 2500 m²)"
         },
         {
           "letter": "C",
-          "text": "$x = 25$ m, $y = 50$ m (Área = 1250 m²) - *Nota: x es ancho (2 lados), y largo (1 lado)*",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$x = 25$ m, $y = 50$ m (Área = 1250 m²) - *Nota: x es ancho (2 lados), y largo (1 lado)*"
         },
         {
           "letter": "D",
-          "text": "$x = 20$ m, $y = 60$ m (Área = 1200 m²)",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x = 20$ m, $y = 60$ m (Área = 1200 m²)"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "1.  Perímetro cercado: $2x + y = 100$ (donde $x$ es el lado perpendicular al río).\n    *   $y = 100 - 2x$\n2.  Área: $A = x \\cdot y = x(100 - 2x) = 100x - 2x^2$.\n3.  Para maximizar, hallamos el vértice de la parábola $A(x) = -2x^2 + 100x$.\n    *   $x = \\frac{-b}{2a} = \\frac{-100}{2(-2)} = \\frac{-100}{-4} = 25$.\n4.  Si $x = 25$, entonces $y = 100 - 2(25) = 50$.\n5.  Área máxima: $25 \\times 50 = 1250$ m².\n*Nota: La opción C describe correctamente las dimensiones óptimas.*\n**Competencia evaluada:** Resolución - optimización cuadrática",
       "id": "CO-MAT-11-algebra-002-v7"
     },
     {
+      "images": [],
       "number": 1,
-      "explanation": "**¿Por qué A es correcta?**\nEn la función $T(d) = 3500 + 450d$:\n- El término **3500** es el intercepto con el eje y (cuando $d=0$)\n- Representa el costo fijo o \"banderazo\" que se cobra solo por abordar el vehículo\n- Incluso si la distancia es 0 km, el costo es $3500\n**¿Por qué las otras son incorrectas?**\n- **B)** El costo por km es 450 (la pendiente), no 3500.\n- **C)** El modelo no establece una distancia mínima.\n- **D)** La tarifa no tiene máximo en este modelo lineal.\n**Competencia evaluada:** Interpretación - significado de parámetros en funciones lineales\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "A",
       "bundle_id": "CO-MAT-11-funciones-001",
       "statement": "Una empresa de transporte en una ciudad cobra una tarifa que depende de la distancia recorrida. La tarifa se puede modelar con la función:\n$$T(d) = 3500 + 450d$$\ndonde $T$ es la tarifa en pesos y $d$ es la distancia en kilómetros.\n¿Cuál es la interpretación correcta del valor 3500 en esta función?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Es el costo fijo que se cobra independientemente de la distancia",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Es el costo fijo que se cobra independientemente de la distancia"
         },
         {
           "letter": "B",
-          "text": "Es el costo por cada kilómetro recorrido",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Es el costo por cada kilómetro recorrido"
         },
         {
           "letter": "C",
-          "text": "Es la distancia mínima que debe recorrer un pasajero",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Es la distancia mínima que debe recorrer un pasajero"
         },
         {
           "letter": "D",
-          "text": "Es la tarifa máxima que puede cobrar la empresa",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Es la tarifa máxima que puede cobrar la empresa"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**¿Por qué A es correcta?**\nEn la función $T(d) = 3500 + 450d$:\n- El término **3500** es el intercepto con el eje y (cuando $d=0$)\n- Representa el costo fijo o \"banderazo\" que se cobra solo por abordar el vehículo\n- Incluso si la distancia es 0 km, el costo es $3500\n**¿Por qué las otras son incorrectas?**\n- **B)** El costo por km es 450 (la pendiente), no 3500.\n- **C)** El modelo no establece una distancia mínima.\n- **D)** La tarifa no tiene máximo en este modelo lineal.\n**Competencia evaluada:** Interpretación - significado de parámetros en funciones lineales\n---",
       "id": "CO-MAT-11-funciones-001-v1"
     },
     {
+      "images": [],
       "number": 2,
-      "explanation": "Sustituimos $x = 5$ en la función:\n$P(5) = 2(5) + 10 = 10 + 10 = 20$\n**Competencia evaluada:** Ejecución - evaluación de funciones\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-funciones-001",
       "statement": "Si la función que describe el precio de un producto es $P(x) = 2x + 10$, ¿cuál es el precio cuando se compran 5 unidades?",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "$15",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$15"
         },
         {
           "letter": "B",
-          "text": "$20",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$20"
         },
         {
           "letter": "C",
-          "text": "$25",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$25"
         },
         {
           "letter": "D",
-          "text": "$10",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$10"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "Sustituimos $x = 5$ en la función:\n$P(5) = 2(5) + 10 = 10 + 10 = 20$\n**Competencia evaluada:** Ejecución - evaluación de funciones\n---",
       "id": "CO-MAT-11-funciones-001-v2"
     },
     {
+      "images": [],
       "number": 3,
-      "explanation": "En la gráfica, el punto correspondiente al mes 3 tiene un valor de 2 en el eje vertical (ganancia).\n**Competencia evaluada:** Comunicación - lectura de gráficas\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-funciones-001",
       "statement": "La siguiente gráfica muestra la ganancia mensual (en millones de pesos) de una tienda de café durante sus primeros 6 meses:\n```\nGanancia (millones)\n│\n4├─────────────●\n│             ╱\n3├──────────●╱\n│          ╱\n2├────────●\n│       ╱\n1├─────●\n│    ╱\n0├───●─────────────────\n 0  1  2  3  4  5  Mes\n```\nSegún la gráfica, ¿cuál fue la ganancia en el mes 3?",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "1 millón de pesos",
-          "is_correct": false
+          "is_correct": false,
+          "text": "1 millón de pesos"
         },
         {
           "letter": "B",
-          "text": "2 millones de pesos",
-          "is_correct": true
+          "is_correct": true,
+          "text": "2 millones de pesos"
         },
         {
           "letter": "C",
-          "text": "3 millones de pesos",
-          "is_correct": false
+          "is_correct": false,
+          "text": "3 millones de pesos"
         },
         {
           "letter": "D",
-          "text": "4 millones de pesos",
-          "is_correct": false
+          "is_correct": false,
+          "text": "4 millones de pesos"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "En la gráfica, el punto correspondiente al mes 3 tiene un valor de 2 en el eje vertical (ganancia).\n**Competencia evaluada:** Comunicación - lectura de gráficas\n---",
       "id": "CO-MAT-11-funciones-001-v3"
     },
     {
+      "images": [],
       "number": 4,
-      "explanation": "**Punto de equilibrio:** Ingresos = Costos\n**Ingresos:** $I(x) = 25000x$\n**Costos:** $C(x) = 15000x + 500000$\nIgualamos:\n$25000x = 15000x + 500000$\n$25000x - 15000x = 500000$\n$10000x = 500000$\n$x = 50$ camisetas\n**Verificación:**\n- Ingresos: $25000 × 50 = 1,250,000\n- Costos: $15000 × 50 + 500000 = 750,000 + 500,000 = 1,250,000 ✓\n**Competencia evaluada:** Formulación - modelamiento con ecuaciones lineales\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-11-funciones-001",
       "statement": "Un emprendedor produce y vende camisetas. Sus costos totales están dados por $C(x) = 15000x + 500000$ pesos, donde $x$ es el número de camisetas producidas. Si vende cada camiseta a $25000$ pesos, ¿cuántas camisetas debe vender para no tener pérdidas ni ganancias (punto de equilibrio)?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "20 camisetas",
-          "is_correct": false
+          "is_correct": false,
+          "text": "20 camisetas"
         },
         {
           "letter": "B",
-          "text": "33 camisetas",
-          "is_correct": false
+          "is_correct": false,
+          "text": "33 camisetas"
         },
         {
           "letter": "C",
-          "text": "50 camisetas",
-          "is_correct": true
+          "is_correct": true,
+          "text": "50 camisetas"
         },
         {
           "letter": "D",
-          "text": "100 camisetas",
-          "is_correct": false
+          "is_correct": false,
+          "text": "100 camisetas"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Punto de equilibrio:** Ingresos = Costos\n**Ingresos:** $I(x) = 25000x$\n**Costos:** $C(x) = 15000x + 500000$\nIgualamos:\n$25000x = 15000x + 500000$\n$25000x - 15000x = 500000$\n$10000x = 500000$\n$x = 50$ camisetas\n**Verificación:**\n- Ingresos: $25000 × 50 = 1,250,000\n- Costos: $15000 × 50 + 500000 = 750,000 + 500,000 = 1,250,000 ✓\n**Competencia evaluada:** Formulación - modelamiento con ecuaciones lineales\n---",
       "id": "CO-MAT-11-funciones-001-v4"
     },
     {
+      "images": [],
       "number": 5,
-      "explanation": "El balón está a nivel del suelo cuando $h(t) = 0$:\n$-5t^2 + 20t = 0$\n$-5t(t - 4) = 0$\n$t = 0$ o $t = 4$\n**Interpretación:**\n- $t = 0$: momento del lanzamiento (inicia en el suelo)\n- $t = 4$: momento en que el balón regresa al suelo\n**Competencia evaluada:** Resolución - encontrar ceros de funciones cuadráticas\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-11-funciones-001",
       "statement": "La altura $h$ (en metros) de un balón de fútbol lanzado desde el suelo en un estadio está dada por la función:\n$$h(t) = -5t^2 + 20t$$\ndonde $t$ es el tiempo en segundos. ¿En qué momento(s) el balón está a nivel del suelo?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Solo en $t = 0$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Solo en $t = 0$"
         },
         {
           "letter": "B",
-          "text": "Solo en $t = 4$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Solo en $t = 4$"
         },
         {
           "letter": "C",
-          "text": "En $t = 0$ y $t = 4$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "En $t = 0$ y $t = 4$"
         },
         {
           "letter": "D",
-          "text": "En $t = 2$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "En $t = 2$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "El balón está a nivel del suelo cuando $h(t) = 0$:\n$-5t^2 + 20t = 0$\n$-5t(t - 4) = 0$\n$t = 0$ o $t = 4$\n**Interpretación:**\n- $t = 0$: momento del lanzamiento (inicia en el suelo)\n- $t = 4$: momento en que el balón regresa al suelo\n**Competencia evaluada:** Resolución - encontrar ceros de funciones cuadráticas\n---",
       "id": "CO-MAT-11-funciones-001-v5"
     },
     {
+      "images": [],
       "number": 6,
-      "explanation": "**Método 1: Fórmula del vértice**\nPara $f(x) = ax^2 + bx + c$, el vértice está en $x = -\\frac{b}{2a}$\nAquí: $a = -2$, $b = 200$\n$p = -\\frac{200}{2(-2)} = -\\frac{200}{-4} = 50$\n**Método 2: Derivada (cálculo)**\n$G'(p) = -4p + 200 = 0$\n$p = 50$\nEl precio óptimo es **50 miles de pesos = $50.000 por kilo**.\n**Verificación:** Como $a = -2 < 0$, la parábola abre hacia abajo, entonces $p = 50$ es un máximo.\n**Competencia evaluada:** Validación - optimización de funciones cuadráticas\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-funciones-001",
       "statement": "Un agricultor tiene la siguiente función de ganancias por hectárea de café:\n$$G(p) = -2p^2 + 200p - 3000$$\ndonde $p$ es el precio de venta por kilo (en miles de pesos) y $G$ es la ganancia (en miles de pesos).\n¿A qué precio debe vender el kilo de café para maximizar su ganancia?",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "$30.000 pesos por kilo",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$30.000 pesos por kilo"
         },
         {
           "letter": "B",
-          "text": "$50.000 pesos por kilo",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$50.000 pesos por kilo"
         },
         {
           "letter": "C",
-          "text": "$70.000 pesos por kilo",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$70.000 pesos por kilo"
         },
         {
           "letter": "D",
-          "text": "$100.000 pesos por kilo",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$100.000 pesos por kilo"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Método 1: Fórmula del vértice**\nPara $f(x) = ax^2 + bx + c$, el vértice está en $x = -\\frac{b}{2a}$\nAquí: $a = -2$, $b = 200$\n$p = -\\frac{200}{2(-2)} = -\\frac{200}{-4} = 50$\n**Método 2: Derivada (cálculo)**\n$G'(p) = -4p + 200 = 0$\n$p = 50$\nEl precio óptimo es **50 miles de pesos = $50.000 por kilo**.\n**Verificación:** Como $a = -2 < 0$, la parábola abre hacia abajo, entonces $p = 50$ es un máximo.\n**Competencia evaluada:** Validación - optimización de funciones cuadráticas\n---",
       "id": "CO-MAT-11-funciones-001-v6"
     },
     {
+      "images": [],
       "number": 7,
-      "explanation": "**Paso 1:** Definir la función de ganancia\n$G(x) = I(x) - C(x)$\n$G(x) = (-0.5x^2 + 80x) - (20x + 800)$\n$G(x) = -0.5x^2 + 80x - 20x - 800$\n$G(x) = -0.5x^2 + 60x - 800$\n**Paso 2:** Encontrar el máximo (vértice)\n$x = -\\frac{b}{2a} = -\\frac{60}{2(-0.5)} = -\\frac{60}{-1} = 60$\n**Paso 3:** Calcular la ganancia máxima\n$G(60) = -0.5(60)^2 + 60(60) - 800$\n$G(60) = -0.5(3600) + 3600 - 800$\n$G(60) = -1800 + 3600 - 800$\n$G(60) = 1000$ millones de pesos\n**Respuesta final:** La máxima ganancia es **1000 millones de pesos**.\n**Competencia evaluada:** Formulación y Validación - análisis completo de modelo económico\n---\n## 📊 Metadata de Validación\n| Pregunta | ID | Dificultad | Competencia ICFES | Componente | Validado |\n|----------|-----|------------|-------------------|------------|----------|\n| 1 | CO-MAT-11-funciones-001-v1 | Medium | Interpretación | Numérico-var. | ⬜ |\n| 2 | CO-MAT-11-funciones-001-v2 | Low | Ejecución | Numérico-var. | ⬜ |\n| 3 | CO-MAT-11-funciones-001-v3 | Low | Comunicación | Numérico-var. | ⬜ |\n| 4 | CO-MAT-11-funciones-001-v4 | Medium | Formulación | Numérico-var. | ⬜ |\n| 5 | CO-MAT-11-funciones-001-v5 | Medium | Resolución | Numérico-var. | ⬜ |\n| 6 | CO-MAT-11-funciones-001-v6 | High | Validación | Numérico-var. | ⬜ |\n| 7 | CO-MAT-11-funciones-001-v7 | High | Formulación + Validación | Numérico-var. | ⬜ |",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "D",
       "bundle_id": "CO-MAT-11-funciones-001",
       "statement": "Una empresa de tecnología modela sus ingresos $I(x)$ y costos $C(x)$ con las siguientes funciones (en millones de pesos):\n$$I(x) = -0.5x^2 + 80x$$\n$$C(x) = 20x + 800$$\ndonde $x$ es el número de unidades vendidas (en miles).\n¿Cuál es la máxima ganancia que puede obtener la empresa?",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "400 millones de pesos",
-          "is_correct": false
+          "is_correct": false,
+          "text": "400 millones de pesos"
         },
         {
           "letter": "B",
-          "text": "600 millones de pesos",
-          "is_correct": false
+          "is_correct": false,
+          "text": "600 millones de pesos"
         },
         {
           "letter": "C",
-          "text": "800 millones de pesos",
-          "is_correct": false
+          "is_correct": false,
+          "text": "800 millones de pesos"
         },
         {
           "letter": "D",
-          "text": "1000 millones de pesos",
-          "is_correct": true
+          "is_correct": true,
+          "text": "1000 millones de pesos"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Paso 1:** Definir la función de ganancia\n$G(x) = I(x) - C(x)$\n$G(x) = (-0.5x^2 + 80x) - (20x + 800)$\n$G(x) = -0.5x^2 + 80x - 20x - 800$\n$G(x) = -0.5x^2 + 60x - 800$\n**Paso 2:** Encontrar el máximo (vértice)\n$x = -\\frac{b}{2a} = -\\frac{60}{2(-0.5)} = -\\frac{60}{-1} = 60$\n**Paso 3:** Calcular la ganancia máxima\n$G(60) = -0.5(60)^2 + 60(60) - 800$\n$G(60) = -0.5(3600) + 3600 - 800$\n$G(60) = -1800 + 3600 - 800$\n$G(60) = 1000$ millones de pesos\n**Respuesta final:** La máxima ganancia es **1000 millones de pesos**.\n**Competencia evaluada:** Formulación y Validación - análisis completo de modelo económico\n---\n## 📊 Metadata de Validación\n| Pregunta | ID | Dificultad | Competencia ICFES | Componente | Validado |\n|----------|-----|------------|-------------------|------------|----------|\n| 1 | CO-MAT-11-funciones-001-v1 | Medium | Interpretación | Numérico-var. | ⬜ |\n| 2 | CO-MAT-11-funciones-001-v2 | Low | Ejecución | Numérico-var. | ⬜ |\n| 3 | CO-MAT-11-funciones-001-v3 | Low | Comunicación | Numérico-var. | ⬜ |\n| 4 | CO-MAT-11-funciones-001-v4 | Medium | Formulación | Numérico-var. | ⬜ |\n| 5 | CO-MAT-11-funciones-001-v5 | Medium | Resolución | Numérico-var. | ⬜ |\n| 6 | CO-MAT-11-funciones-001-v6 | High | Validación | Numérico-var. | ⬜ |\n| 7 | CO-MAT-11-funciones-001-v7 | High | Formulación + Validación | Numérico-var. | ⬜ |",
       "id": "CO-MAT-11-funciones-001-v7"
     },
     {
+      "images": [],
       "number": 1,
-      "explanation": "**Respuesta Correcta: A**\nLa derivada de cualquier constante es 0.\nMatemáticamente: $\\frac{d}{dx}(c) = 0$.\nGráficamente, $y=5$ es una línea horizontal, su pendiente es 0 en todo punto.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "A",
       "bundle_id": "CO-MAT-11-derivadas-001",
       "statement": "¿Cuál es la derivada de una función constante $f(x) = 5$?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "0",
-          "is_correct": true
+          "is_correct": true,
+          "text": "0"
         },
         {
           "letter": "B",
-          "text": "5",
-          "is_correct": false
+          "is_correct": false,
+          "text": "5"
         },
         {
           "letter": "C",
-          "text": "5x",
-          "is_correct": false
+          "is_correct": false,
+          "text": "5x"
         },
         {
           "letter": "D",
-          "text": "1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "1"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: A**\nLa derivada de cualquier constante es 0.\nMatemáticamente: $\\frac{d}{dx}(c) = 0$.\nGráficamente, $y=5$ es una línea horizontal, su pendiente es 0 en todo punto.\n---",
       "id": "CO-MAT-11-derivadas-001-v1"
     },
     {
+      "images": [],
       "number": 2,
-      "explanation": "**Respuesta Correcta: B**\n10 es una constante (no depende de x). Su derivada es cero.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-derivadas-001",
       "statement": "Calcula la derivada de $f(x) = 10$.",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "10",
-          "is_correct": false
+          "is_correct": false,
+          "text": "10"
         },
         {
           "letter": "B",
-          "text": "0",
-          "is_correct": true
+          "is_correct": true,
+          "text": "0"
         },
         {
           "letter": "C",
-          "text": "1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "1"
         },
         {
           "letter": "D",
-          "text": "$x$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\n10 es una constante (no depende de x). Su derivada es cero.\n---",
       "id": "CO-MAT-11-derivadas-001-v2"
     },
     {
+      "images": [],
       "number": 3,
-      "explanation": "**Respuesta Correcta: A**\n$\\pi$ es un número (constante), aunque se represente con una letra griega. Su derivada es 0.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "A",
       "bundle_id": "CO-MAT-11-derivadas-001",
       "statement": "Si $y = \\pi$ (pi), entonces $y'$ es:",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "0",
-          "is_correct": true
+          "is_correct": true,
+          "text": "0"
         },
         {
           "letter": "B",
-          "text": "3.14",
-          "is_correct": false
+          "is_correct": false,
+          "text": "3.14"
         },
         {
           "letter": "C",
-          "text": "1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "1"
         },
         {
           "letter": "D",
-          "text": "$\\pi x$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$\\pi x$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: A**\n$\\pi$ es un número (constante), aunque se represente con una letra griega. Su derivada es 0.\n---",
       "id": "CO-MAT-11-derivadas-001-v3"
     },
     {
+      "images": [],
       "number": 4,
-      "explanation": "**Respuesta Correcta: C**\nSin importar qué represente la constante, si no varía con respecto a $x$, su derivada es 0.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-11-derivadas-001",
       "statement": "Si $f(x) = k$, donde $k$ representa la velocidad de la luz (una constante universal), ¿cuál es el valor de $f'(x)$?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "$k$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$k$"
         },
         {
           "letter": "B",
-          "text": "$k^2$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$k^2$"
         },
         {
           "letter": "C",
-          "text": "0",
-          "is_correct": true
+          "is_correct": true,
+          "text": "0"
         },
         {
           "letter": "D",
-          "text": "$x$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: C**\nSin importar qué represente la constante, si no varía con respecto a $x$, su derivada es 0.\n---",
       "id": "CO-MAT-11-derivadas-001-v4"
     },
     {
+      "images": [],
       "number": 5,
-      "explanation": "**Respuesta Correcta: B**\nLa derivada representa la pendiente de la recta tangente. Para una línea horizontal ($y=4$), la pendiente es 0.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-derivadas-001",
       "statement": "¿Cuál es la pendiente de la recta tangente a la función $y = 4$ en cualquier punto?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "4"
         },
         {
           "letter": "B",
-          "text": "0",
-          "is_correct": true
+          "is_correct": true,
+          "text": "0"
         },
         {
           "letter": "C",
-          "text": "undefined",
-          "is_correct": false
+          "is_correct": false,
+          "text": "undefined"
         },
         {
           "letter": "D",
-          "text": "1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "1"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nLa derivada representa la pendiente de la recta tangente. Para una línea horizontal ($y=4$), la pendiente es 0.\n---",
       "id": "CO-MAT-11-derivadas-001-v5"
     },
     {
+      "images": [],
       "number": 6,
-      "explanation": "**Respuesta Correcta: B**\nCuidado: $\\sin(\\frac{\\pi}{2})$ es igual a 1. Es un valor numérico fijo, no contiene la variable $x$.\nPor lo tanto, es una constante y su derivada es 0.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-derivadas-001",
       "statement": "Calcula la derivada con respecto a $x$ de la función $f(x) = \\sin(\\frac{\\pi}{2})$.",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "$\\cos(\\frac{\\pi}{2})$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$\\cos(\\frac{\\pi}{2})$"
         },
         {
           "letter": "B",
-          "text": "0",
-          "is_correct": true
+          "is_correct": true,
+          "text": "0"
         },
         {
           "letter": "C",
-          "text": "1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "1"
         },
         {
           "letter": "D",
-          "text": "-1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "-1"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nCuidado: $\\sin(\\frac{\\pi}{2})$ es igual a 1. Es un valor numérico fijo, no contiene la variable $x$.\nPor lo tanto, es una constante y su derivada es 0.\n---",
       "id": "CO-MAT-11-derivadas-001-v6"
     },
     {
+      "images": [],
       "number": 7,
-      "explanation": "**Respuesta Correcta: B**\nSi el salario NO depende de las horas (es constante), la tasa de cambio (derivada) es 0. No aumenta ni disminuye por trabajar más horas.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-derivadas-001",
       "statement": "El salario fijo de un empleado es de $2.000.000$ mensuales, independientemente de las horas trabajadas ($x$). ¿Cuál es la tasa de cambio instantánea del salario con respecto a las horas trabajadas?",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "2.000.000",
-          "is_correct": false
+          "is_correct": false,
+          "text": "2.000.000"
         },
         {
           "letter": "B",
-          "text": "0",
-          "is_correct": true
+          "is_correct": true,
+          "text": "0"
         },
         {
           "letter": "C",
-          "text": "Variabile",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Variabile"
         },
         {
           "letter": "D",
-          "text": "1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "1"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nSi el salario NO depende de las horas (es constante), la tasa de cambio (derivada) es 0. No aumenta ni disminuye por trabajar más horas.\n---",
       "id": "CO-MAT-11-derivadas-001-v7"
     },
     {
+      "images": [],
       "number": 1,
-      "explanation": "**Respuesta Correcta: B**\nAplicamos la regla de potencias:\n- $\\frac{d}{dx}(3x) = 3$\n- $\\frac{d}{dx}(2) = 0$\n$$ f'(x) = 3 + 0 = 3 $$\nLa derivada de una recta es su pendiente constante.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-derivadas-002",
       "statement": "¿Cuál es la derivada de la función lineal $f(x) = 3x + 2$?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "$3x$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$3x$"
         },
         {
           "letter": "B",
-          "text": "3",
-          "is_correct": true
+          "is_correct": true,
+          "text": "3"
         },
         {
           "letter": "C",
-          "text": "2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "2"
         },
         {
           "letter": "D",
-          "text": "$3x + 2$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$3x + 2$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nAplicamos la regla de potencias:\n- $\\frac{d}{dx}(3x) = 3$\n- $\\frac{d}{dx}(2) = 0$\n$$ f'(x) = 3 + 0 = 3 $$\nLa derivada de una recta es su pendiente constante.\n---",
       "id": "CO-MAT-11-derivadas-002-v1"
     },
     {
+      "images": [],
       "number": 2,
-      "explanation": "**Respuesta Correcta: C**\nLa derivada de $cx$ es $c$. Aquí $c=5$.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-11-derivadas-002",
       "statement": "Deriva la función $y = 5x$.",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "$x$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x$"
         },
         {
           "letter": "B",
-          "text": "$5x$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$5x$"
         },
         {
           "letter": "C",
-          "text": "5",
-          "is_correct": true
+          "is_correct": true,
+          "text": "5"
         },
         {
           "letter": "D",
-          "text": "0",
-          "is_correct": false
+          "is_correct": false,
+          "text": "0"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: C**\nLa derivada de $cx$ es $c$. Aquí $c=5$.\n---",
       "id": "CO-MAT-11-derivadas-002-v2"
     },
     {
+      "images": [],
       "number": 3,
-      "explanation": "**Respuesta Correcta: A**\nLa derivada de $x$ (o $1x$) es 1. La derivada de -4 es 0.\n$1 - 0 = 1$.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "A",
       "bundle_id": "CO-MAT-11-derivadas-002",
       "statement": "Si $g(x) = x - 4$, ¿cuál es $g'(x)$?",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "1",
-          "is_correct": true
+          "is_correct": true,
+          "text": "1"
         },
         {
           "letter": "B",
-          "text": "-4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "-4"
         },
         {
           "letter": "C",
-          "text": "$x$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x$"
         },
         {
           "letter": "D",
-          "text": "0",
-          "is_correct": false
+          "is_correct": false,
+          "text": "0"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: A**\nLa derivada de $x$ (o $1x$) es 1. La derivada de -4 es 0.\n$1 - 0 = 1$.\n---",
       "id": "CO-MAT-11-derivadas-002-v3"
     },
     {
+      "images": [],
       "number": 4,
-      "explanation": "**Respuesta Correcta: B**\nEl costo marginal es la tasa de cambio del costo:\n$$ C'(x) = 2.000 $$\nSignifica que cada unidad adicional cuesta $2.000.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-derivadas-002",
       "statement": "El costo de producción de una fábrica está dado por $C(x) = 2.000x + 5.000$, donde $x$ es el número de unidades. ¿Cuál es el **costo marginal** (la derivada del costo)?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "$2.000x$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$2.000x$"
         },
         {
           "letter": "B",
-          "text": "2.000",
-          "is_correct": true
+          "is_correct": true,
+          "text": "2.000"
         },
         {
           "letter": "C",
-          "text": "5.000",
-          "is_correct": false
+          "is_correct": false,
+          "text": "5.000"
         },
         {
           "letter": "D",
-          "text": "7.000",
-          "is_correct": false
+          "is_correct": false,
+          "text": "7.000"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nEl costo marginal es la tasa de cambio del costo:\n$$ C'(x) = 2.000 $$\nSignifica que cada unidad adicional cuesta $2.000.\n---",
       "id": "CO-MAT-11-derivadas-002-v4"
     },
     {
+      "images": [],
       "number": 5,
-      "explanation": "**Respuesta Correcta: B**\nLa derivada de $50t$ con respecto a $t$ es 50.\nVelocidad constante de 50 unidades/tiempo.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-derivadas-002",
       "statement": "Un vehículo se mueve a velocidad constante. Su posición está dada por $x(t) = 50t$. ¿Cuál es su velocidad instantánea (derivada de la posición)?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "$50t$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$50t$"
         },
         {
           "letter": "B",
-          "text": "50",
-          "is_correct": true
+          "is_correct": true,
+          "text": "50"
         },
         {
           "letter": "C",
-          "text": "$t$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$t$"
         },
         {
           "letter": "D",
-          "text": "0",
-          "is_correct": false
+          "is_correct": false,
+          "text": "0"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nLa derivada de $50t$ con respecto a $t$ es 50.\nVelocidad constante de 50 unidades/tiempo.\n---",
       "id": "CO-MAT-11-derivadas-002-v5"
     },
     {
+      "images": [],
       "number": 6,
-      "explanation": "**Respuesta Correcta: C**\nReescribimos la función como $y = \\frac{1}{2}x + 1$.\nLa derivada de $\\frac{1}{2}x$ es $\\frac{1}{2}$.\nLa derivada de 1 es 0.\nResultado: $1/2$.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-11-derivadas-002",
       "statement": "Calcula la derivada de $y = \\frac{x}{2} + 1$.",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "1"
         },
         {
           "letter": "B",
-          "text": "2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "2"
         },
         {
           "letter": "C",
-          "text": "1/2",
-          "is_correct": true
+          "is_correct": true,
+          "text": "1/2"
         },
         {
           "letter": "D",
-          "text": "$x/2$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x/2$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: C**\nReescribimos la función como $y = \\frac{1}{2}x + 1$.\nLa derivada de $\\frac{1}{2}x$ es $\\frac{1}{2}$.\nLa derivada de 1 es 0.\nResultado: $1/2$.\n---",
       "id": "CO-MAT-11-derivadas-002-v6"
     },
     {
+      "images": [],
       "number": 7,
-      "explanation": "**Respuesta Correcta: C**\nLa derivada mide la tasa de cambio instantánea. En una línea recta, la tasa de cambio es constante e igual a su pendiente $m$.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-11-derivadas-002",
       "statement": "Para cualquier función lineal de la forma $y = mx + b$, ¿cuál es siempre su derivada?",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "$x$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x$"
         },
         {
           "letter": "B",
-          "text": "$b$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$b$"
         },
         {
           "letter": "C",
-          "text": "$m$ (la pendiente)",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$m$ (la pendiente)"
         },
         {
           "letter": "D",
-          "text": "0",
-          "is_correct": false
+          "is_correct": false,
+          "text": "0"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: C**\nLa derivada mide la tasa de cambio instantánea. En una línea recta, la tasa de cambio es constante e igual a su pendiente $m$.\n---",
       "id": "CO-MAT-11-derivadas-002-v7"
     },
     {
+      "images": [],
       "number": 1,
-      "explanation": "**Respuesta Correcta: B**\nUsando la regla de potencias: $\\frac{d}{dx}(x^n) = n x^{n-1}$.\nPara $n=3$:\n$$ f'(x) = 3 x^{3-1} = 3x^2 $$\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-derivadas-003",
       "statement": "¿Cuál es la derivada de $f(x) = x^3$?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "$x^2$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x^2$"
         },
         {
           "letter": "B",
-          "text": "$3x^2$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$3x^2$"
         },
         {
           "letter": "C",
-          "text": "$x^4$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x^4$"
         },
         {
           "letter": "D",
-          "text": "$3x$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$3x$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nUsando la regla de potencias: $\\frac{d}{dx}(x^n) = n x^{n-1}$.\nPara $n=3$:\n$$ f'(x) = 3 x^{3-1} = 3x^2 $$\n---",
       "id": "CO-MAT-11-derivadas-003-v1"
     },
     {
+      "images": [],
       "number": 2,
-      "explanation": "**Respuesta Correcta: A**\nBajamos el exponente 2 y restamos 1:\n$$ y' = 2x^{2-1} = 2x^1 = 2x $$\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "A",
       "bundle_id": "CO-MAT-11-derivadas-003",
       "statement": "Calcula la derivada de $y = x^2$.",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "$2x$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$2x$"
         },
         {
           "letter": "B",
-          "text": "$x$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x$"
         },
         {
           "letter": "C",
-          "text": "$2$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$2$"
         },
         {
           "letter": "D",
-          "text": "$x^2$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x^2$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: A**\nBajamos el exponente 2 y restamos 1:\n$$ y' = 2x^{2-1} = 2x^1 = 2x $$\n---",
       "id": "CO-MAT-11-derivadas-003-v2"
     },
     {
+      "images": [],
       "number": 3,
-      "explanation": "**Respuesta Correcta: B**\n$$ f'(x) = 4x^{4-1} = 4x^3 $$\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-derivadas-003",
       "statement": "Si $f(x) = x^4$, entonces $f'(x)$ es:",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "$4x$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$4x$"
         },
         {
           "letter": "B",
-          "text": "$4x^3$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$4x^3$"
         },
         {
           "letter": "C",
-          "text": "$3x^4$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$3x^4$"
         },
         {
           "letter": "D",
-          "text": "$x^3$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x^3$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\n$$ f'(x) = 4x^{4-1} = 4x^3 $$\n---",
       "id": "CO-MAT-11-derivadas-003-v3"
     },
     {
+      "images": [],
       "number": 4,
-      "explanation": "**Respuesta Correcta: B**\nDerivamos con respecto a $r$:\n$$ \\frac{dA}{dr} = \\pi \\cdot \\frac{d}{dr}(r^2) $$\n$$ = \\pi \\cdot (2r) = 2\\pi r $$\n(Nota: Coincide con la fórmula del perímetro).\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-derivadas-003",
       "statement": "El área de un círculo está dada por $A(r) = \\pi r^2$. ¿Cuál es la **razón de cambio** del área con respecto al radio ($A'(r)$)?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "$\\pi r$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$\\pi r$"
         },
         {
           "letter": "B",
-          "text": "$2\\pi r$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$2\\pi r$"
         },
         {
           "letter": "C",
-          "text": "$2r$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$2r$"
         },
         {
           "letter": "D",
-          "text": "$\\pi$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$\\pi$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nDerivamos con respecto a $r$:\n$$ \\frac{dA}{dr} = \\pi \\cdot \\frac{d}{dr}(r^2) $$\n$$ = \\pi \\cdot (2r) = 2\\pi r $$\n(Nota: Coincide con la fórmula del perímetro).\n---",
       "id": "CO-MAT-11-derivadas-003-v4"
     },
     {
+      "images": [],
       "number": 5,
-      "explanation": "**Respuesta Correcta: B**\n$$ V'(x) = 3x^2 $$\nEsto representa cómo cambia el volumen al aumentar el lado.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-derivadas-003",
       "statement": "El volumen de un cubo es $V(x) = x^3$, donde $x$ es la arista. Calcula la tasa de cambio del volumen cuando la arista mide $x$ unidades.",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "$x^2$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x^2$"
         },
         {
           "letter": "B",
-          "text": "$3x^2$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$3x^2$"
         },
         {
           "letter": "C",
-          "text": "$3x$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$3x$"
         },
         {
           "letter": "D",
-          "text": "$3$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$3$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\n$$ V'(x) = 3x^2 $$\nEsto representa cómo cambia el volumen al aumentar el lado.\n---",
       "id": "CO-MAT-11-derivadas-003-v5"
     },
     {
+      "images": [],
       "number": 6,
-      "explanation": "**Respuesta Correcta: B**\nAplicamos la regla de potencias con $n = -1$:\n$$ f'(x) = -1 \\cdot x^{-1-1} $$\n$$ f'(x) = -1 \\cdot x^{-2} $$\n$$ f'(x) = -\\frac{1}{x^2} $$\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-derivadas-003",
       "statement": "Calcula la derivada de la función recíproca $f(x) = \\frac{1}{x} = x^{-1}$.",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "$1$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$1$"
         },
         {
           "letter": "B",
-          "text": "$-1/x^2$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$-1/x^2$"
         },
         {
           "letter": "C",
-          "text": "$x^{-2}$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x^{-2}$"
         },
         {
           "letter": "D",
-          "text": "$\\ln(x)$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$\\ln(x)$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nAplicamos la regla de potencias con $n = -1$:\n$$ f'(x) = -1 \\cdot x^{-1-1} $$\n$$ f'(x) = -1 \\cdot x^{-2} $$\n$$ f'(x) = -\\frac{1}{x^2} $$\n---",
       "id": "CO-MAT-11-derivadas-003-v6"
     },
     {
+      "images": [],
       "number": 7,
-      "explanation": "**Respuesta Correcta: A**\n$$ f(x) = x^{1/2} $$\n$$ f'(x) = \\frac{1}{2} x^{1/2 - 1} $$\n$$ f'(x) = \\frac{1}{2} x^{-1/2} = \\frac{1}{2x^{1/2}} = \\frac{1}{2\\sqrt{x}} $$\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "A",
       "bundle_id": "CO-MAT-11-derivadas-003",
       "statement": "¿Cuál es la derivada de la función raíz cuadrada $f(x) = \\sqrt{x}$?\n(Sugerencia: exprese como potencia fraccionaria $x^{1/2}$).",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "$\\frac{1}{2\\sqrt{x}}$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$\\frac{1}{2\\sqrt{x}}$"
         },
         {
           "letter": "B",
-          "text": "$\\frac{1}{2}x$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$\\frac{1}{2}x$"
         },
         {
           "letter": "C",
-          "text": "$\\sqrt{x}$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$\\sqrt{x}$"
         },
         {
           "letter": "D",
-          "text": "$x^{-1/2}$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x^{-1/2}$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: A**\n$$ f(x) = x^{1/2} $$\n$$ f'(x) = \\frac{1}{2} x^{1/2 - 1} $$\n$$ f'(x) = \\frac{1}{2} x^{-1/2} = \\frac{1}{2x^{1/2}} = \\frac{1}{2\\sqrt{x}} $$\n---",
       "id": "CO-MAT-11-derivadas-003-v7"
     },
     {
+      "images": [],
       "number": 1,
-      "explanation": "**Respuesta Correcta: B**\nDerivamos término a término:\n1. $\\frac{d}{dx}(4x^2) = 4(2x) = 8x$\n2. $\\frac{d}{dx}(3x) = 3$\n3. $\\frac{d}{dx}(-5) = 0$\nResultado: $8x + 3$\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-derivadas-004",
       "statement": "¿Cuál es la derivada de $f(x) = 4x^2 + 3x - 5$?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "$4x + 3$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$4x + 3$"
         },
         {
           "letter": "B",
-          "text": "$8x + 3$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$8x + 3$"
         },
         {
           "letter": "C",
-          "text": "$4x^2$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$4x^2$"
         },
         {
           "letter": "D",
-          "text": "$8x$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$8x$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nDerivamos término a término:\n1. $\\frac{d}{dx}(4x^2) = 4(2x) = 8x$\n2. $\\frac{d}{dx}(3x) = 3$\n3. $\\frac{d}{dx}(-5) = 0$\nResultado: $8x + 3$\n---",
       "id": "CO-MAT-11-derivadas-004-v1"
     },
     {
+      "images": [],
       "number": 2,
-      "explanation": "**Respuesta Correcta: B**\n- Derivada de $x^2$ es $2x$.\n- Derivada de $x$ es 1.\nTotal: $2x + 1$.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-derivadas-004",
       "statement": "Calcula la derivada del polinomio $y = x^2 + x$.",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "$2x$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$2x$"
         },
         {
           "letter": "B",
-          "text": "$2x + 1$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$2x + 1$"
         },
         {
           "letter": "C",
-          "text": "$x + 1$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x + 1$"
         },
         {
           "letter": "D",
-          "text": "$2x^2 + 1$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$2x^2 + 1$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\n- Derivada de $x^2$ es $2x$.\n- Derivada de $x$ es 1.\nTotal: $2x + 1$.\n---",
       "id": "CO-MAT-11-derivadas-004-v2"
     },
     {
+      "images": [],
       "number": 3,
-      "explanation": "**Respuesta Correcta: B**\n- $3(2x) = 6x$.\n- La derivada de -2 es 0.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-derivadas-004",
       "statement": "Halla la derivada de $f(x) = 3x^2 - 2$.",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "$3x$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$3x$"
         },
         {
           "letter": "B",
-          "text": "$6x$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$6x$"
         },
         {
           "letter": "C",
-          "text": "$6x - 2$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$6x - 2$"
         },
         {
           "letter": "D",
-          "text": "$3x^2$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$3x^2$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\n- $3(2x) = 6x$.\n- La derivada de -2 es 0.\n---",
       "id": "CO-MAT-11-derivadas-004-v3"
     },
     {
+      "images": [],
       "number": 4,
-      "explanation": "**Respuesta Correcta: B**\nLa velocidad es la derivada de la altura:\n$$ v(t) = h'(t) $$\n$$ v(t) = -5(2t) + 10 $$\n$$ v(t) = -10t + 10 $$\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-derivadas-004",
       "statement": "La altura de una pelota lanzada hacia arriba es $h(t) = -5t^2 + 10t$ (metros). ¿Cuál es la expresión para la velocidad instantánea $v(t)$?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "$-5t + 10$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$-5t + 10$"
         },
         {
           "letter": "B",
-          "text": "$-10t + 10$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$-10t + 10$"
         },
         {
           "letter": "C",
-          "text": "$-10t$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$-10t$"
         },
         {
           "letter": "D",
-          "text": "$-5t^2 + 10$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$-5t^2 + 10$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nLa velocidad es la derivada de la altura:\n$$ v(t) = h'(t) $$\n$$ v(t) = -5(2t) + 10 $$\n$$ v(t) = -10t + 10 $$\n---",
       "id": "CO-MAT-11-derivadas-004-v4"
     },
     {
+      "images": [],
       "number": 5,
-      "explanation": "**Respuesta Correcta: C**\nDerivamos el polinomio:\n$$ P'(x) = -2x^{2-1} + 50(1) $$\n$$ P'(x) = -2x + 50 $$\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-11-derivadas-004",
       "statement": "La función de ganancia mensual de una empresa es $P(x) = -x^2 + 50x$, donde $x$ es la cantidad producida. Calcula la **ganancia marginal** $P'(x)$.",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "$-2x$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$-2x$"
         },
         {
           "letter": "B",
-          "text": "$-x + 50$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$-x + 50$"
         },
         {
           "letter": "C",
-          "text": "$-2x + 50$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$-2x + 50$"
         },
         {
           "letter": "D",
-          "text": "$50x$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$50x$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: C**\nDerivamos el polinomio:\n$$ P'(x) = -2x^{2-1} + 50(1) $$\n$$ P'(x) = -2x + 50 $$\n---",
       "id": "CO-MAT-11-derivadas-004-v5"
     },
     {
+      "images": [],
       "number": 6,
-      "explanation": "**Respuesta Correcta: B**\n$$ f'(x) = \\frac{1}{3}(3x^2) - \\frac{1}{2}(2x) $$\nCancelamos coeficientes:\n$$ f'(x) = x^2 - x $$\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-derivadas-004",
       "statement": "Calcula la derivada de $f(x) = \\frac{x^3}{3} - \\frac{x^2}{2}$.",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "$\\frac{x^2}{3} - \\frac{x}{2}$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$\\frac{x^2}{3} - \\frac{x}{2}$"
         },
         {
           "letter": "B",
-          "text": "$x^2 - x$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$x^2 - x$"
         },
         {
           "letter": "C",
-          "text": "$3x^2 - 2x$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$3x^2 - 2x$"
         },
         {
           "letter": "D",
-          "text": "$x^3 - x^2$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x^3 - x^2$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\n$$ f'(x) = \\frac{1}{3}(3x^2) - \\frac{1}{2}(2x) $$\nCancelamos coeficientes:\n$$ f'(x) = x^2 - x $$\n---",
       "id": "CO-MAT-11-derivadas-004-v6"
     },
     {
+      "images": [],
       "number": 7,
-      "explanation": "**Respuesta Correcta: C**\n1. Hallamos la derivada: $y' = 2x - 4$.\n2. Igualamos a cero: $2x - 4 = 0$.\n3. Despejamos: $2x = 4 \\rightarrow x = 2$.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-11-derivadas-004",
       "statement": "Encuentra el valor de $x$ donde la pendiente de la tangente a la curva $y = x^2 - 4x$ es igual a cero (punto crítico).",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "$x = 0$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x = 0$"
         },
         {
           "letter": "B",
-          "text": "$x = 4$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x = 4$"
         },
         {
           "letter": "C",
-          "text": "$x = 2$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$x = 2$"
         },
         {
           "letter": "D",
-          "text": "$x = -2$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x = -2$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: C**\n1. Hallamos la derivada: $y' = 2x - 4$.\n2. Igualamos a cero: $2x - 4 = 0$.\n3. Despejamos: $2x = 4 \\rightarrow x = 2$.\n---",
       "id": "CO-MAT-11-derivadas-004-v7"
     },
     {
+      "images": [],
       "number": 1,
-      "explanation": "**Respuesta Correcta: C**\nMétodo 1 (Expandir):\n$$ f(x) = 4x^2 + 4x + 1 $$\n$$ f'(x) = 8x + 4 $$\nMétodo 2 (Regla de la Cadena):\n$$ f'(x) = 2(2x+1) \\cdot \\frac{d}{dx}(2x+1) $$\n$$ f'(x) = 2(2x+1) \\cdot 2 = 4(2x+1) = 8x+4 $$\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-11-derivadas-005",
       "statement": "Si $f(x) = (2x + 1)^2$, ¿cuál es $f'(x)$?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "$2x + 1$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$2x + 1$"
         },
         {
           "letter": "B",
-          "text": "$4x$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$4x$"
         },
         {
           "letter": "C",
-          "text": "$8x + 4$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$8x + 4$"
         },
         {
           "letter": "D",
-          "text": "$4x + 2$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$4x + 2$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: C**\nMétodo 1 (Expandir):\n$$ f(x) = 4x^2 + 4x + 1 $$\n$$ f'(x) = 8x + 4 $$\nMétodo 2 (Regla de la Cadena):\n$$ f'(x) = 2(2x+1) \\cdot \\frac{d}{dx}(2x+1) $$\n$$ f'(x) = 2(2x+1) \\cdot 2 = 4(2x+1) = 8x+4 $$\n---",
       "id": "CO-MAT-11-derivadas-005-v1"
     },
     {
+      "images": [],
       "number": 2,
-      "explanation": "**Respuesta Correcta: A**\nExpandiendo: $x^2 + 2x + 1 \\rightarrow 2x + 2$.\nRegla de cadena: $2(x+1)(1) = 2x+2$.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "A",
       "bundle_id": "CO-MAT-11-derivadas-005",
       "statement": "Deriva la función $y = (x + 1)^2$.",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "$2x + 2$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$2x + 2$"
         },
         {
           "letter": "B",
-          "text": "$2x$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$2x$"
         },
         {
           "letter": "C",
-          "text": "$x + 1$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x + 1$"
         },
         {
           "letter": "D",
-          "text": "$2$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$2$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: A**\nExpandiendo: $x^2 + 2x + 1 \\rightarrow 2x + 2$.\nRegla de cadena: $2(x+1)(1) = 2x+2$.\n---",
       "id": "CO-MAT-11-derivadas-005-v2"
     },
     {
+      "images": [],
       "number": 3,
-      "explanation": "**Respuesta Correcta: B**\nPrimero simplifica: $(3x)^2 = 9x^2$.\nDerivada: $2 \\cdot 9x = 18x$.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-derivadas-005",
       "statement": "Calcula la derivada de $f(x) = (3x)^2$.",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "$6x$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$6x$"
         },
         {
           "letter": "B",
-          "text": "$18x$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$18x$"
         },
         {
           "letter": "C",
-          "text": "$9x$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$9x$"
         },
         {
           "letter": "D",
-          "text": "$3x$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$3x$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nPrimero simplifica: $(3x)^2 = 9x^2$.\nDerivada: $2 \\cdot 9x = 18x$.\n---",
       "id": "CO-MAT-11-derivadas-005-v3"
     },
     {
+      "images": [],
       "number": 4,
-      "explanation": "**Respuesta Correcta: B**\nExpandimos primero:\n$$ y = x^2 + 3x + 2x + 6 = x^2 + 5x + 6 $$\nAhora derivamos:\n$$ y' = 2x + 5 $$\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-derivadas-005",
       "statement": "Deriva el producto $y = (x + 2)(x + 3)$.",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "$2x$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$2x$"
         },
         {
           "letter": "B",
-          "text": "$2x + 5$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$2x + 5$"
         },
         {
           "letter": "C",
-          "text": "$x^2 + 5x + 6$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x^2 + 5x + 6$"
         },
         {
           "letter": "D",
-          "text": "$5$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$5$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nExpandimos primero:\n$$ y = x^2 + 3x + 2x + 6 = x^2 + 5x + 6 $$\nAhora derivamos:\n$$ y' = 2x + 5 $$\n---",
       "id": "CO-MAT-11-derivadas-005-v4"
     },
     {
+      "images": [],
       "number": 5,
-      "explanation": "**Respuesta Correcta: C**\n$$ R(x) = 10x - x^2 $$\n$$ R'(x) = 10 - 2x $$\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-11-derivadas-005",
       "statement": "El ingreso $R$ de vender $x$ unidades a un precio de $(10 - x)$ es $R(x) = x(10 - x)$. ¿Cuál es el ingreso marginal $R'(x)$?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "$10 - x$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$10 - x$"
         },
         {
           "letter": "B",
-          "text": "$-2x$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$-2x$"
         },
         {
           "letter": "C",
-          "text": "$10 - 2x$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$10 - 2x$"
         },
         {
           "letter": "D",
-          "text": "$10$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$10$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: C**\n$$ R(x) = 10x - x^2 $$\n$$ R'(x) = 10 - 2x $$\n---",
       "id": "CO-MAT-11-derivadas-005-v5"
     },
     {
+      "images": [],
       "number": 6,
-      "explanation": "**Respuesta Correcta: B**\n$$ u = 2x \\rightarrow u' = 2 $$\n$$ f'(x) = \\cos(2x) \\cdot 2 = 2\\cos(2x) $$\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-derivadas-005",
       "statement": "Usa la regla de la cadena para derivar $f(x) = \\sin(2x)$.\n(Recuerde: $\\frac{d}{dx}(\\sin(u)) = \\cos(u) \\cdot u'$).",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "$\\cos(2x)$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$\\cos(2x)$"
         },
         {
           "letter": "B",
-          "text": "$2\\cos(2x)$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$2\\cos(2x)$"
         },
         {
           "letter": "C",
-          "text": "$-\\cos(2x)$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$-\\cos(2x)$"
         },
         {
           "letter": "D",
-          "text": "$\\sin(2x)$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$\\sin(2x)$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\n$$ u = 2x \\rightarrow u' = 2 $$\n$$ f'(x) = \\cos(2x) \\cdot 2 = 2\\cos(2x) $$\n---",
       "id": "CO-MAT-11-derivadas-005-v6"
     },
     {
+      "images": [],
       "number": 7,
-      "explanation": "**Respuesta Correcta: C**\nRegla de la cadena:\n$$ f'(x) = 3(x+1)^{3-1} \\cdot \\frac{d}{dx}(x+1) $$\n$$ f'(x) = 3(x+1)^2 \\cdot 1 $$\n$$ f'(x) = 3(x+1)^2 $$\n(Expandido sería $3x^2 + 6x + 3$).\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-11-derivadas-005",
       "statement": "¿Cuál es la derivada de $f(x) = (x + 1)^3$?",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "$3(x + 1)$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$3(x + 1)$"
         },
         {
           "letter": "B",
-          "text": "$3x^2 + 3$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$3x^2 + 3$"
         },
         {
           "letter": "C",
-          "text": "$3(x + 1)^2$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$3(x + 1)^2$"
         },
         {
           "letter": "D",
-          "text": "$x^2 + 2x + 1$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$x^2 + 2x + 1$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: C**\nRegla de la cadena:\n$$ f'(x) = 3(x+1)^{3-1} \\cdot \\frac{d}{dx}(x+1) $$\n$$ f'(x) = 3(x+1)^2 \\cdot 1 $$\n$$ f'(x) = 3(x+1)^2 $$\n(Expandido sería $3x^2 + 6x + 3$).\n---",
       "id": "CO-MAT-11-derivadas-005-v7"
     },
     {
+      "images": [],
       "number": 1,
-      "explanation": "**Respuesta Correcta: C**\nLa velocidad es la derivada de la posición con respecto al tiempo:\n$$ v(t) = s'(t) = \\frac{d}{dt}(3t^2) = 6t $$\nEn $t = 4$:\n$$ v(4) = 6(4) = 24 \\text{ m/s} $$\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-11-derivadas-006",
       "statement": "Un objeto se mueve según la función de posición $s(t) = 3t^2$, donde $s$ está en metros y $t$ en segundos. ¿Cuál es la velocidad del objeto en $t = 4$ segundos?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "12 m/s",
-          "is_correct": false
+          "is_correct": false,
+          "text": "12 m/s"
         },
         {
           "letter": "B",
-          "text": "18 m/s",
-          "is_correct": false
+          "is_correct": false,
+          "text": "18 m/s"
         },
         {
           "letter": "C",
-          "text": "24 m/s",
-          "is_correct": true
+          "is_correct": true,
+          "text": "24 m/s"
         },
         {
           "letter": "D",
-          "text": "48 m/s",
-          "is_correct": false
+          "is_correct": false,
+          "text": "48 m/s"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: C**\nLa velocidad es la derivada de la posición con respecto al tiempo:\n$$ v(t) = s'(t) = \\frac{d}{dt}(3t^2) = 6t $$\nEn $t = 4$:\n$$ v(4) = 6(4) = 24 \\text{ m/s} $$\n---",
       "id": "CO-MAT-11-derivadas-006-v1"
     },
     {
+      "images": [],
       "number": 2,
-      "explanation": "**Respuesta Correcta: B**\n$$ v(t) = 2t $$\n$$ v(3) = 2(3) = 6 $$\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-derivadas-006",
       "statement": "Si la posición es $s(t) = t^2$, ¿cuál es la velocidad en $t = 3$?",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "9 m/s",
-          "is_correct": false
+          "is_correct": false,
+          "text": "9 m/s"
         },
         {
           "letter": "B",
-          "text": "6 m/s",
-          "is_correct": true
+          "is_correct": true,
+          "text": "6 m/s"
         },
         {
           "letter": "C",
-          "text": "3 m/s",
-          "is_correct": false
+          "is_correct": false,
+          "text": "3 m/s"
         },
         {
           "letter": "D",
-          "text": "2 m/s",
-          "is_correct": false
+          "is_correct": false,
+          "text": "2 m/s"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\n$$ v(t) = 2t $$\n$$ v(3) = 2(3) = 6 $$\n---",
       "id": "CO-MAT-11-derivadas-006-v2"
     },
     {
+      "images": [],
       "number": 3,
-      "explanation": "**Respuesta Correcta: A**\nLa derivada de $5t$ es 5. La velocidad es constante (5 m/s) en todo momento.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "A",
       "bundle_id": "CO-MAT-11-derivadas-006",
       "statement": "Un vehículo se mueve con movimiento uniforme $s(t) = 5t$. ¿Cuál es su velocidad en $t = 10$?",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "5 m/s",
-          "is_correct": true
+          "is_correct": true,
+          "text": "5 m/s"
         },
         {
           "letter": "B",
-          "text": "10 m/s",
-          "is_correct": false
+          "is_correct": false,
+          "text": "10 m/s"
         },
         {
           "letter": "C",
-          "text": "50 m/s",
-          "is_correct": false
+          "is_correct": false,
+          "text": "50 m/s"
         },
         {
           "letter": "D",
-          "text": "0 m/s",
-          "is_correct": false
+          "is_correct": false,
+          "text": "0 m/s"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: A**\nLa derivada de $5t$ es 5. La velocidad es constante (5 m/s) en todo momento.\n---",
       "id": "CO-MAT-11-derivadas-006-v3"
     },
     {
+      "images": [],
       "number": 4,
-      "explanation": "**Respuesta Correcta: B**\n$$ v(t) = h'(t) = -5(2t) = -10t $$\n$$ v(2) = -10(2) = -20 \\text{ m/s} $$\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-derivadas-006",
       "statement": "Un balón cae desde un edificio. Su altura está dada por $h(t) = 80 - 5t^2$ metros. ¿Cuál es su velocidad en $t = 2$ segundos? (El signo negativo indica que va hacia abajo).",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "-10 m/s",
-          "is_correct": false
+          "is_correct": false,
+          "text": "-10 m/s"
         },
         {
           "letter": "B",
-          "text": "-20 m/s",
-          "is_correct": true
+          "is_correct": true,
+          "text": "-20 m/s"
         },
         {
           "letter": "C",
-          "text": "-5 m/s",
-          "is_correct": false
+          "is_correct": false,
+          "text": "-5 m/s"
         },
         {
           "letter": "D",
-          "text": "60 m/s",
-          "is_correct": false
+          "is_correct": false,
+          "text": "60 m/s"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\n$$ v(t) = h'(t) = -5(2t) = -10t $$\n$$ v(2) = -10(2) = -20 \\text{ m/s} $$\n---",
       "id": "CO-MAT-11-derivadas-006-v4"
     },
     {
+      "images": [],
       "number": 5,
-      "explanation": "**Respuesta Correcta: C**\n$$ v(t) = 20 - 2t $$\n$$ v(5) = 20 - 2(5) = 20 - 10 = 10 \\text{ m/s} $$\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-11-derivadas-006",
       "statement": "Un auto frena y su distancia recorrida desde el frenado está dada por $d(t) = 20t - t^2$. ¿Cuál es su velocidad en $t = 5$ segundos?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "20 m/s",
-          "is_correct": false
+          "is_correct": false,
+          "text": "20 m/s"
         },
         {
           "letter": "B",
-          "text": "15 m/s",
-          "is_correct": false
+          "is_correct": false,
+          "text": "15 m/s"
         },
         {
           "letter": "C",
-          "text": "10 m/s",
-          "is_correct": true
+          "is_correct": true,
+          "text": "10 m/s"
         },
         {
           "letter": "D",
-          "text": "0 m/s",
-          "is_correct": false
+          "is_correct": false,
+          "text": "0 m/s"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: C**\n$$ v(t) = 20 - 2t $$\n$$ v(5) = 20 - 2(5) = 20 - 10 = 10 \\text{ m/s} $$\n---",
       "id": "CO-MAT-11-derivadas-006-v5"
     },
     {
+      "images": [],
       "number": 6,
-      "explanation": "**Respuesta Correcta: C**\n1. Velocidad: $v(t) = s'(t) = 3t^2$.\n2. Aceleración: $a(t) = v'(t) = 6t$.\n3. Evaluar en $t=2$: $a(2) = 6(2) = 12$.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-11-derivadas-006",
       "statement": "La posición de una partícula es $s(t) = t^3$. ¿Cuál es su **aceleración** en $t = 2$?\n(Recuerde: La aceleración es la derivada de la velocidad).",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "3"
         },
         {
           "letter": "B",
-          "text": "6",
-          "is_correct": false
+          "is_correct": false,
+          "text": "6"
         },
         {
           "letter": "C",
-          "text": "12",
-          "is_correct": true
+          "is_correct": true,
+          "text": "12"
         },
         {
           "letter": "D",
-          "text": "8",
-          "is_correct": false
+          "is_correct": false,
+          "text": "8"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: C**\n1. Velocidad: $v(t) = s'(t) = 3t^2$.\n2. Aceleración: $a(t) = v'(t) = 6t$.\n3. Evaluar en $t=2$: $a(2) = 6(2) = 12$.\n---",
       "id": "CO-MAT-11-derivadas-006-v6"
     },
     {
+      "images": [],
       "number": 7,
-      "explanation": "**Respuesta Correcta: B**\n1. Hallar velocidad: $v(t) = 2t - 4$.\n2. Igualar a cero: $2t - 4 = 0$.\n3. Despejar $t$: $2t = 4 \\rightarrow t = 2$.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-derivadas-006",
       "statement": "La posición de un objeto es $s(t) = t^2 - 4t$. ¿En qué instante de tiempo ($t$) su velocidad es cero?",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "$t = 4$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$t = 4$"
         },
         {
           "letter": "B",
-          "text": "$t = 2$",
-          "is_correct": true
+          "is_correct": true,
+          "text": "$t = 2$"
         },
         {
           "letter": "C",
-          "text": "$t = 0$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$t = 0$"
         },
         {
           "letter": "D",
-          "text": "$t = 1$",
-          "is_correct": false
+          "is_correct": false,
+          "text": "$t = 1$"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\n1. Hallar velocidad: $v(t) = 2t - 4$.\n2. Igualar a cero: $2t - 4 = 0$.\n3. Despejar $t$: $2t = 4 \\rightarrow t = 2$.\n---",
       "id": "CO-MAT-11-derivadas-006-v7"
     },
     {
+      "images": [],
       "number": 1,
-      "explanation": "**Respuesta Correcta: B**\nLa moda es el dato que más se repite.\n- El 7 aparece tres veces.\n- Los demás aparecen una sola vez (o pocas).\nPor tanto, la moda es 7.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-EST-001",
       "statement": "El conjunto de datos: 3, 5, 7, 8, 7, 9, 7, 10 tiene como moda:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "5",
-          "is_correct": false
+          "is_correct": false,
+          "text": "5"
         },
         {
           "letter": "B",
-          "text": "7",
-          "is_correct": true
+          "is_correct": true,
+          "text": "7"
         },
         {
           "letter": "C",
-          "text": "8",
-          "is_correct": false
+          "is_correct": false,
+          "text": "8"
         },
         {
           "letter": "D",
-          "text": "9",
-          "is_correct": false
+          "is_correct": false,
+          "text": "9"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nLa moda es el dato que más se repite.\n- El 7 aparece tres veces.\n- Los demás aparecen una sola vez (o pocas).\nPor tanto, la moda es 7.\n---",
       "id": "CO-MAT-11-EST-001-v1"
     },
     {
+      "images": [],
       "number": 2,
-      "explanation": "**Respuesta Correcta: A**\nEl número 1 es el único que se repite.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "A",
       "bundle_id": "CO-MAT-11-EST-001",
       "statement": "En el conjunto {1, 1, 2, 3}, ¿cuál es la moda?",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "1",
-          "is_correct": true
+          "is_correct": true,
+          "text": "1"
         },
         {
           "letter": "B",
-          "text": "2",
-          "is_correct": false
+          "is_correct": false,
+          "text": "2"
         },
         {
           "letter": "C",
-          "text": "3",
-          "is_correct": false
+          "is_correct": false,
+          "text": "3"
         },
         {
           "letter": "D",
-          "text": "No tiene moda",
-          "is_correct": false
+          "is_correct": false,
+          "text": "No tiene moda"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: A**\nEl número 1 es el único que se repite.\n---",
       "id": "CO-MAT-11-EST-001-v2"
     },
     {
+      "images": [],
       "number": 3,
-      "explanation": "**Respuesta Correcta: A**\nEl valor 5 es el que tiene mayor frecuencia (aparece todas las veces).\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "A",
       "bundle_id": "CO-MAT-11-EST-001",
       "statement": "Si todos los datos son iguales (ej: {5, 5, 5, 5}), ¿cuál es la moda?",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "5",
-          "is_correct": true
+          "is_correct": true,
+          "text": "5"
         },
         {
           "letter": "B",
-          "text": "0",
-          "is_correct": false
+          "is_correct": false,
+          "text": "0"
         },
         {
           "letter": "C",
-          "text": "20",
-          "is_correct": false
+          "is_correct": false,
+          "text": "20"
         },
         {
           "letter": "D",
-          "text": "No tiene",
-          "is_correct": false
+          "is_correct": false,
+          "text": "No tiene"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: A**\nEl valor 5 es el que tiene mayor frecuencia (aparece todas las veces).\n---",
       "id": "CO-MAT-11-EST-001-v3"
     },
     {
+      "images": [],
       "number": 4,
-      "explanation": "**Respuesta Correcta: C**\nEs un conjunto **bimodal**. Tanto el 2 como el 4 se repiten la misma cantidad de veces (2 veces) y son los más frecuentes.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-11-EST-001",
       "statement": "Observa los datos: {2, 2, 4, 4, 6}. ¿Cuál es la moda?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "2 solamente",
-          "is_correct": false
+          "is_correct": false,
+          "text": "2 solamente"
         },
         {
           "letter": "B",
-          "text": "4 solamente",
-          "is_correct": false
+          "is_correct": false,
+          "text": "4 solamente"
         },
         {
           "letter": "C",
-          "text": "2 y 4",
-          "is_correct": true
+          "is_correct": true,
+          "text": "2 y 4"
         },
         {
           "letter": "D",
-          "text": "6",
-          "is_correct": false
+          "is_correct": false,
+          "text": "6"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: C**\nEs un conjunto **bimodal**. Tanto el 2 como el 4 se repiten la misma cantidad de veces (2 veces) y son los más frecuentes.\n---",
       "id": "CO-MAT-11-EST-001-v4"
     },
     {
+      "images": [],
       "number": 5,
-      "explanation": "**Respuesta Correcta: B**\nLa moda es la categoría con mayor frecuencia. \"Azul\" tiene 15 votos, que es el máximo. (La respuesta es la categoría \"Azul\", no el número 15, aunque a veces se confunden).\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-EST-001",
       "statement": "En una encuesta sobre color favorito:\n- Rojo: 10 personas\n- Azul: 15 personas\n- Verde: 5 personas\n¿Cuál es la moda?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Rojo",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Rojo"
         },
         {
           "letter": "B",
-          "text": "Azul",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Azul"
         },
         {
           "letter": "C",
-          "text": "Verde",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Verde"
         },
         {
           "letter": "D",
-          "text": "15",
-          "is_correct": false
+          "is_correct": false,
+          "text": "15"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nLa moda es la categoría con mayor frecuencia. \"Azul\" tiene 15 votos, que es el máximo. (La respuesta es la categoría \"Azul\", no el número 15, aunque a veces se confunden).\n---",
       "id": "CO-MAT-11-EST-001-v5"
     },
     {
+      "images": [],
       "number": 6,
-      "explanation": "**Respuesta Correcta: B**\nLa barra más alta indica la mayor frecuencia absoluta, por lo tanto representa el valor modal.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-EST-001",
       "statement": "Si se tiene un diagrama de barras de frecuencias, la moda corresponde a:",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "La barra más baja",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La barra más baja"
         },
         {
           "letter": "B",
-          "text": "La barra más alta",
-          "is_correct": true
+          "is_correct": true,
+          "text": "La barra más alta"
         },
         {
           "letter": "C",
-          "text": "El punto medio del eje horizontal",
-          "is_correct": false
+          "is_correct": false,
+          "text": "El punto medio del eje horizontal"
         },
         {
           "letter": "D",
-          "text": "La suma de todas las barras",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La suma de todas las barras"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nLa barra más alta indica la mayor frecuencia absoluta, por lo tanto representa el valor modal.\n---",
       "id": "CO-MAT-11-EST-001-v6"
     },
     {
+      "images": [],
       "number": 7,
-      "explanation": "**Respuesta Correcta: C**\nPara inventario de ventas, interesa saber qué talla es la \"más popular\" o la que más gente pide. Esa es la definición de moda. (El promedio de talla, ej. 37.4, no serviría para pedir zapatos).\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-11-EST-001",
       "statement": "En una tienda de zapatos, el dueño decide qué tallas pedir basándose en la medida de tendencia central más útil para inventario (la que más se vende). ¿Cuál medida usó?",
+      "tags": [],
       "difficulty": "High",
       "options": [
         {
           "letter": "A",
-          "text": "Media (Promedio)",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Media (Promedio)"
         },
         {
           "letter": "B",
-          "text": "Mediana",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Mediana"
         },
         {
           "letter": "C",
-          "text": "Moda",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Moda"
         },
         {
           "letter": "D",
-          "text": "Rango",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Rango"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: C**\nPara inventario de ventas, interesa saber qué talla es la \"más popular\" o la que más gente pide. Esa es la definición de moda. (El promedio de talla, ej. 37.4, no serviría para pedir zapatos).\n---",
       "id": "CO-MAT-11-EST-001-v7"
     },
     {
+      "images": [],
       "number": 1,
-      "explanation": "**Respuesta Correcta: B**\nLa mediana es el valor central de un conjunto de datos ordenados.\nTenemos 5 datos (impar). El de la posición central (3ª posición) es el 8.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-MAT-11-EST-002",
       "statement": "¿Cuál es la mediana del conjunto de datos: 2, 5, 8, 11, 14?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "5",
-          "is_correct": false
+          "is_correct": false,
+          "text": "5"
         },
         {
           "letter": "B",
-          "text": "8",
-          "is_correct": true
+          "is_correct": true,
+          "text": "8"
         },
         {
           "letter": "C",
-          "text": "11",
-          "is_correct": false
+          "is_correct": false,
+          "text": "11"
         },
         {
           "letter": "D",
-          "text": "7",
-          "is_correct": false
+          "is_correct": false,
+          "text": "7"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: B**\nLa mediana es el valor central de un conjunto de datos ordenados.\nTenemos 5 datos (impar). El de la posición central (3ª posición) es el 8.\n---",
       "id": "CO-MAT-11-EST-002-v1"
     },
     {
+      "images": [],
       "number": 2,
-      "explanation": "**Respuesta Correcta: C**\nEl dato del medio es 3.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-MAT-11-EST-002",
       "statement": "Encuentra la mediana de: {1, 3, 5}.",
+      "tags": [],
       "difficulty": "Low",
       "options": [
         {
           "letter": "A",
-          "text": "1",
-          "is_correct": false
+          "is_correct": false,
+          "text": "1"
         },
         {
           "letter": "B",
-          "text": "5",
-          "is_correct": false
+          "is_correct": false,
+          "text": "5"
         },
         {
           "letter": "C",
-          "text": "3",
-          "is_correct": true
+          "is_correct": true,
+          "text": "3"
         },
         {
           "letter": "D",
-          "text": "4",
-          "is_correct": false
+          "is_correct": false,
+          "text": "4"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "**Respuesta Correcta: C**\nEl dato del medio es 3.\n---",
       "id": "CO-MAT-11-EST-002-v2"
     }
   ],
   "metadata": {
-    "total_questions": 343,
-    "exam": "icfes",
+    "subject": "Matemáticas",
     "total_pages": 4.0,
     "page": 1,
-    "grade": "11",
-    "generated_at": "2025-12-08T00:40:55Z",
-    "subject": "Matemáticas",
-    "country": "co"
+    "generated_at": "2025-12-10T17:08:07Z",
+    "total_questions": 343,
+    "exam": "icfes",
+    "country": "co",
+    "grade": "11"
   }
 }

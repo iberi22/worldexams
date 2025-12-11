@@ -1,252 +1,252 @@
 {
   "questions": [
     {
+      "images": [],
       "number": 1,
-      "explanation": "Pregunta literal-inferencial. El texto dice explícitamente: \"...debido a la destrucción de su hábitat\".\n**Competencia evaluada:** Comprensión Literal/Local.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-LEN-07-textual-001",
       "statement": "Según el texto, la principal causa de que el oso de anteojos esté en estado vulnerable es:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "La falta de alimento en los páramos.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La falta de alimento en los páramos."
         },
         {
           "letter": "B",
-          "text": "La caza indiscriminada.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La caza indiscriminada."
         },
         {
           "letter": "C",
-          "text": "La destrucción de su hábitat.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "La destrucción de su hábitat."
         },
         {
           "letter": "D",
-          "text": "El cambio climático.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "El cambio climático."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "Pregunta literal-inferencial. El texto dice explícitamente: \"...debido a la destrucción de su hábitat\".\n**Competencia evaluada:** Comprensión Literal/Local.\n---",
       "id": "CO-LEN-07-textual-001-v1"
     },
     {
+      "images": [],
       "number": 2,
-      "explanation": "Literal. La primera frase dice: \"es el único oso de Sudamérica\".\n**Competencia evaluada:** Comprensión Literal.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-LEN-07-textual-001",
       "statement": "¿En qué continente vive el oso de anteojos?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Norteamérica",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Norteamérica"
         },
         {
           "letter": "B",
-          "text": "Sudamérica",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Sudamérica"
         },
         {
           "letter": "C",
-          "text": "Europa",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Europa"
         },
         {
           "letter": "D",
-          "text": "Asia",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Asia"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "Literal. La primera frase dice: \"es el único oso de Sudamérica\".\n**Competencia evaluada:** Comprensión Literal.\n---",
       "id": "CO-LEN-07-textual-001-v2"
     },
     {
+      "images": [],
       "number": 3,
-      "explanation": "Léxico. Omnívoro (omni=todo, voro=comer) significa que come de todo. El texto aclara que su dieta es vegetariana pero es omnívoro.\n**Competencia evaluada:** Semántica - Vocabulario.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "D",
       "bundle_id": "CO-LEN-07-textual-001",
       "statement": "El término \"omnivoro\" significa que el oso:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Solo come carne.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Solo come carne."
         },
         {
           "letter": "B",
-          "text": "Solo come plantas.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Solo come plantas."
         },
         {
           "letter": "C",
-          "text": "No come nada.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "No come nada."
         },
         {
           "letter": "D",
-          "text": "Come de todo (plantas y animales).",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Come de todo (plantas y animales)."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "Léxico. Omnívoro (omni=todo, voro=comer) significa que come de todo. El texto aclara que su dieta es vegetariana pero es omnívoro.\n**Competencia evaluada:** Semántica - Vocabulario.\n---",
       "id": "CO-LEN-07-textual-001-v3"
     },
     {
+      "images": [],
       "number": 4,
-      "explanation": "Es un texto **expositivo/informativo**. No hay trama (cuento) ni opinión personal fuerte (argumentativo/lírico). Su fin es dar datos.\n**Competencia evaluada:** Pragmática - Intención comunicativa.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-LEN-07-textual-001",
       "statement": "La intención principal del autor de este texto es:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Narrar un cuento sobre un oso.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Narrar un cuento sobre un oso."
         },
         {
           "letter": "B",
-          "text": "Informar sobre las características del oso de anteojos.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Informar sobre las características del oso de anteojos."
         },
         {
           "letter": "C",
-          "text": "Convencer a la gente de comprar osos.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Convencer a la gente de comprar osos."
         },
         {
           "letter": "D",
-          "text": "Expresar sus sentimientos hacia el oso.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Expresar sus sentimientos hacia el oso."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "Es un texto **expositivo/informativo**. No hay trama (cuento) ni opinión personal fuerte (argumentativo/lírico). Su fin es dar datos.\n**Competencia evaluada:** Pragmática - Intención comunicativa.\n---",
       "id": "CO-LEN-07-textual-001-v4"
     },
     {
+      "images": [],
       "number": 5,
-      "explanation": "\"Frondosos\" califica o describe cómo son los árboles. Es un adjetivo.\n**Competencia evaluada:** Sintáctica - Categorías gramaticales.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "B",
       "bundle_id": "CO-LEN-07-textual-001",
       "statement": "En la oración \"Los árboles **frondosos** daban mucha sombra\", la palabra destacada es un:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Sustantivo",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Sustantivo"
         },
         {
           "letter": "B",
-          "text": "Adjetivo",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Adjetivo"
         },
         {
           "letter": "C",
-          "text": "Verbo",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Verbo"
         },
         {
           "letter": "D",
-          "text": "Adverbio",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Adverbio"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "\"Frondosos\" califica o describe cómo son los árboles. Es un adjetivo.\n**Competencia evaluada:** Sintáctica - Categorías gramaticales.\n---",
       "id": "CO-LEN-07-textual-001-v5"
     },
     {
+      "images": [],
       "number": 6,
-      "explanation": "\"Así que\" introduce la consecuencia de la acción anterior (estudiar mucho $\\rightarrow$ ir bien).\n**Competencia evaluada:** Sintáctica (Cohesión) - Conectores.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-LEN-07-textual-001",
       "statement": "Lee: \"Estudié mucho, **así que** me fue bien\". El conector resaltado indica:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Oposición (contraste)",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Oposición (contraste)"
         },
         {
           "letter": "B",
-          "text": "Causa",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Causa"
         },
         {
           "letter": "C",
-          "text": "Consecuencia (efecto)",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Consecuencia (efecto)"
         },
         {
           "letter": "D",
-          "text": "Adición",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Adición"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "\"Así que\" introduce la consecuencia de la acción anterior (estudiar mucho $\\rightarrow$ ir bien).\n**Competencia evaluada:** Sintáctica (Cohesión) - Conectores.\n---",
       "id": "CO-LEN-07-textual-001-v6"
     },
     {
+      "images": [],
       "number": 7,
-      "explanation": "Estructura narrativa. El clímax es el punto cúspide del conflicto, justo antes de resolverse.\n**Competencia evaluada:** Literaria - Estructura de textos narrativos.\n---\n## 📊 Metadata de Validación\n| Pregunta | ID | Dificultad | Competencia ICFES | Componente | Validado |\n|----------|-----|------------|-------------------|------------|----------|\n| 1 | v1 | Medium | Lectura Literal | Semántico | ⬜ |\n| 2 | v2 | Low | Lectura Literal | Semántico | ⬜ |\n| 3 | v3 | Low | Semántica | Semántico | ⬜ |\n| 4 | v4 | Medium | Intención | Pragmático | ⬜ |\n| 5 | v5 | Medium | Gramática | Sintáctico | ⬜ |\n| 6 | v6 | High | Cohesión | Sintáctico | ⬜ |\n| 7 | v7 | High | Literaria | Pragmático | ⬜ |",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-LEN-07-textual-001",
       "statement": "En una narración, el momento de mayor tensión o emoción antes del desenlace se llama:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Inicio",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Inicio"
         },
         {
           "letter": "B",
-          "text": "Nudo",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Nudo"
         },
         {
           "letter": "C",
-          "text": "Clímax",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Clímax"
         },
         {
           "letter": "D",
-          "text": "Moraleja",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Moraleja"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "Estructura narrativa. El clímax es el punto cúspide del conflicto, justo antes de resolverse.\n**Competencia evaluada:** Literaria - Estructura de textos narrativos.\n---\n## 📊 Metadata de Validación\n| Pregunta | ID | Dificultad | Competencia ICFES | Componente | Validado |\n|----------|-----|------------|-------------------|------------|----------|\n| 1 | v1 | Medium | Lectura Literal | Semántico | ⬜ |\n| 2 | v2 | Low | Lectura Literal | Semántico | ⬜ |\n| 3 | v3 | Low | Semántica | Semántico | ⬜ |\n| 4 | v4 | Medium | Intención | Pragmático | ⬜ |\n| 5 | v5 | Medium | Gramática | Sintáctico | ⬜ |\n| 6 | v6 | High | Cohesión | Sintáctico | ⬜ |\n| 7 | v7 | High | Literaria | Pragmático | ⬜ |",
       "id": "CO-LEN-07-textual-001-v7"
     }
   ],
   "metadata": {
-    "total_questions": 7,
-    "exam": "icfes",
+    "subject": "Lenguaje",
     "total_pages": 1.0,
     "page": 1,
-    "grade": "7",
-    "generated_at": "2025-12-08T00:40:55Z",
-    "subject": "Lenguaje",
-    "country": "CO"
+    "generated_at": "2025-12-10T17:08:07Z",
+    "total_questions": 7,
+    "exam": "icfes",
+    "country": "CO",
+    "grade": "7"
   }
 }

@@ -1,252 +1,252 @@
 {
   "questions": [
     {
+      "images": [],
       "number": 1,
-      "explanation": "El **diálogo** y la **mediación** son las herramientas ciudadanas correctas para resolver conflictos. La violencia (A, D) o la evasión egoísta (B) no solucionan el problema de fondo.\n**Competencia evaluada:** Convivencia y Paz - Resolución pacífica de conflictos.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-SOC-05-convivencia-001",
       "statement": "Durante el recreo, dos estudiantes empiezan a discutir y empujarse por un balón. ¿Cuál es la mejor forma de solucionar el conflicto?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Que los demás compañeros los animen a pelear.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Que los demás compañeros los animen a pelear."
         },
         {
           "letter": "B",
-          "text": "Que el dueño del balón se lo lleve y no deje jugar a nadie.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Que el dueño del balón se lo lleve y no deje jugar a nadie."
         },
         {
           "letter": "C",
-          "text": "Que dialoguen con ayuda de un mediador para establecer turnos.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Que dialoguen con ayuda de un mediador para establecer turnos."
         },
         {
           "letter": "D",
-          "text": "Que se golpeen hasta que uno gane.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Que se golpeen hasta que uno gane."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "El **diálogo** y la **mediación** son las herramientas ciudadanas correctas para resolver conflictos. La violencia (A, D) o la evasión egoísta (B) no solucionan el problema de fondo.\n**Competencia evaluada:** Convivencia y Paz - Resolución pacífica de conflictos.\n---",
       "id": "CO-SOC-05-convivencia-001-v1"
     },
     {
+      "images": [],
       "number": 2,
-      "explanation": "El **Manual de Convivencia** es la norma básica dentro de la institución educativa.\n**Competencia evaluada:** Participación - Normas escolares.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-SOC-05-convivencia-001",
       "statement": "¿Cómo le llamamos al documento que contiene los derechos y deberes de los estudiantes en el colegio?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "El horario de clase",
-          "is_correct": false
+          "is_correct": false,
+          "text": "El horario de clase"
         },
         {
           "letter": "B",
-          "text": "El boletín de notas",
-          "is_correct": false
+          "is_correct": false,
+          "text": "El boletín de notas"
         },
         {
           "letter": "C",
-          "text": "El Manual de Convivencia",
-          "is_correct": true
+          "is_correct": true,
+          "text": "El Manual de Convivencia"
         },
         {
           "letter": "D",
-          "text": "La Constitución Política",
-          "is_correct": false
+          "is_correct": false,
+          "text": "La Constitución Política"
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "El **Manual de Convivencia** es la norma básica dentro de la institución educativa.\n**Competencia evaluada:** Participación - Normas escolares.\n---",
       "id": "CO-SOC-05-convivencia-001-v2"
     },
     {
+      "images": [],
       "number": 3,
-      "explanation": "El respeto es la base de la convivencia y es un deber correlativo al derecho de ser respetado.\n**Competencia evaluada:** Convivencia - Deberes.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-SOC-05-convivencia-001",
       "statement": "Un deber fundamental de todo niño en la escuela es:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Comprar dulces a todos.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Comprar dulces a todos."
         },
         {
           "letter": "B",
-          "text": "Jugar todo el día.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Jugar todo el día."
         },
         {
           "letter": "C",
-          "text": "Respetar a sus compañeros y profesores.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Respetar a sus compañeros y profesores."
         },
         {
           "letter": "D",
-          "text": "No hacer la tarea.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "No hacer la tarea."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "El respeto es la base de la convivencia y es un deber correlativo al derecho de ser respetado.\n**Competencia evaluada:** Convivencia - Deberes.\n---",
       "id": "CO-SOC-05-convivencia-001-v3"
     },
     {
+      "images": [],
       "number": 4,
-      "explanation": "El **voto** es el mecanismo de participación democrática por excelencia para elegir representantes.\n**Competencia evaluada:** Participación democrática.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-SOC-05-convivencia-001",
       "statement": "En el salón de clase, se va a elegir al representante de curso. La forma más democrática de hacerlo es:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Que el profesor escoja al que le cae mejor.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Que el profesor escoja al que le cae mejor."
         },
         {
           "letter": "B",
-          "text": "Que lo sea el estudiante más fuerte.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Que lo sea el estudiante más fuerte."
         },
         {
           "letter": "C",
-          "text": "Haciendo una votación donde todos participen.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Haciendo una votación donde todos participen."
         },
         {
           "letter": "D",
-          "text": "Que se turnen cada día.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Que se turnen cada día."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "El **voto** es el mecanismo de participación democrática por excelencia para elegir representantes.\n**Competencia evaluada:** Participación democrática.\n---",
       "id": "CO-SOC-05-convivencia-001-v4"
     },
     {
+      "images": [],
       "number": 5,
-      "explanation": "La empatía y el rechazo al acoso (bullying) son claves. No ser cómplice y buscar ayuda de autoridad es la acción ciudadana correcta.\n**Competencia evaluada:** Pluralidad e identidad - Rechazo a la discriminación.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-SOC-05-convivencia-001",
       "statement": "Si ves que un grupo de compañeros está burlándose de otro niño por su forma de hablar, tú debes:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Unirte a las burlas para ser popular.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Unirte a las burlas para ser popular."
         },
         {
           "letter": "B",
-          "text": "Ignorarlo para no meterte en problemas.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Ignorarlo para no meterte en problemas."
         },
         {
           "letter": "C",
-          "text": "No participar y avisar a un profesor o adulto.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "No participar y avisar a un profesor o adulto."
         },
         {
           "letter": "D",
-          "text": "Golpear a los que se burlan.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Golpear a los que se burlan."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "La empatía y el rechazo al acoso (bullying) son claves. No ser cómplice y buscar ayuda de autoridad es la acción ciudadana correcta.\n**Competencia evaluada:** Pluralidad e identidad - Rechazo a la discriminación.\n---",
       "id": "CO-SOC-05-convivencia-001-v5"
     },
     {
+      "images": [],
       "number": 6,
-      "explanation": "Colombia es un país pluriétnico y multicultural. El respeto a la diferencia es un mandato constitucional.\n**Competencia evaluada:** Pluralidad e identidad - Constitución.\n---",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-SOC-05-convivencia-001",
       "statement": "La Constitución Política de Colombia dice que el Estado debe proteger la diversidad étnica y cultural. Esto significa que:",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Todos debemos vestirnos igual.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Todos debemos vestirnos igual."
         },
         {
           "letter": "B",
-          "text": "Solo importa la cultura de la capital.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Solo importa la cultura de la capital."
         },
         {
           "letter": "C",
-          "text": "Se deben respetar y valorar las costumbres de indígenas, afrocolombianos y todas las comunidades.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Se deben respetar y valorar las costumbres de indígenas, afrocolombianos y todas las comunidades."
         },
         {
           "letter": "D",
-          "text": "Está prohibido hablar lenguas diferentes al español.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Está prohibido hablar lenguas diferentes al español."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "Colombia es un país pluriétnico y multicultural. El respeto a la diferencia es un mandato constitucional.\n**Competencia evaluada:** Pluralidad e identidad - Constitución.\n---",
       "id": "CO-SOC-05-convivencia-001-v6"
     },
     {
+      "images": [],
       "number": 7,
-      "explanation": "La competencia ciudadana no es académica ni económica, es **social**: saber convivir, participar y respetar lo público.\n**Competencia evaluada:** Concepto de Ciudadanía.\n---\n## 📊 Metadata de Validación\n| Pregunta | ID | Dificultad | Competencia ICFES | Componente | Validado |\n|----------|-----|------------|-------------------|------------|----------|\n| 1 | v1 | Medium | Convivencia | Ciudadanía | ⬜ |\n| 2 | v2 | Low | Participación | Ciudadanía | ⬜ |\n| 3 | v3 | Low | Convivencia | Ciudadanía | ⬜ |\n| 4 | v4 | Medium | Participación | Ciudadanía | ⬜ |\n| 5 | v5 | Medium | Pluralidad | Ciudadanía | ⬜ |\n| 6 | v6 | High | Pluralidad | Ciudadanía | ⬜ |\n| 7 | v7 | High | Concepto | Ciudadanía | ⬜ |",
+      "source_url": "https://www.icfes.gov.co",
       "correct_answer": "C",
       "bundle_id": "CO-SOC-05-convivencia-001",
       "statement": "¿Qué significa ser un \"ciudadano competente\"?",
+      "tags": [],
       "difficulty": "Medium",
       "options": [
         {
           "letter": "A",
-          "text": "Tener mucho dinero y poder.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Tener mucho dinero y poder."
         },
         {
           "letter": "B",
-          "text": "Ser el mejor estudiante en matemáticas.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "Ser el mejor estudiante en matemáticas."
         },
         {
           "letter": "C",
-          "text": "Saber vivir con otros armónicamente, participar y respetar las normas.",
-          "is_correct": true
+          "is_correct": true,
+          "text": "Saber vivir con otros armónicamente, participar y respetar las normas."
         },
         {
           "letter": "D",
-          "text": "No hablar con nadie.",
-          "is_correct": false
+          "is_correct": false,
+          "text": "No hablar con nadie."
         }
       ],
-      "images": [],
-      "source_url": "https://www.icfes.gov.co",
-      "tags": [],
+      "explanation": "La competencia ciudadana no es académica ni económica, es **social**: saber convivir, participar y respetar lo público.\n**Competencia evaluada:** Concepto de Ciudadanía.\n---\n## 📊 Metadata de Validación\n| Pregunta | ID | Dificultad | Competencia ICFES | Componente | Validado |\n|----------|-----|------------|-------------------|------------|----------|\n| 1 | v1 | Medium | Convivencia | Ciudadanía | ⬜ |\n| 2 | v2 | Low | Participación | Ciudadanía | ⬜ |\n| 3 | v3 | Low | Convivencia | Ciudadanía | ⬜ |\n| 4 | v4 | Medium | Participación | Ciudadanía | ⬜ |\n| 5 | v5 | Medium | Pluralidad | Ciudadanía | ⬜ |\n| 6 | v6 | High | Pluralidad | Ciudadanía | ⬜ |\n| 7 | v7 | High | Concepto | Ciudadanía | ⬜ |",
       "id": "CO-SOC-05-convivencia-001-v7"
     }
   ],
   "metadata": {
-    "total_questions": 7,
-    "exam": "icfes",
+    "subject": "Sociales",
     "total_pages": 1.0,
     "page": 1,
-    "grade": "5",
-    "generated_at": "2025-12-08T00:40:55Z",
-    "subject": "Sociales",
-    "country": "CO"
+    "generated_at": "2025-12-10T17:08:07Z",
+    "total_questions": 7,
+    "exam": "icfes",
+    "country": "CO",
+    "grade": "5"
   }
 }

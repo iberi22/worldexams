@@ -1,8 +1,8 @@
 # 🎯 PR #4: Sociales, Inglés e Informática - 5 Packs (35 Preguntas)
 
-> **Asignado a:** @jules  
-> **Grado:** 11° (Saber 11)  
-> **Asignaturas:** Sociales y Ciudadanas, Inglés, Informática  
+> **Asignado a:** @jules
+> **Grado:** 11° (Saber 11)
+> **Asignaturas:** Sociales y Ciudadanas, Inglés, Informática
 > **Total preguntas:** 35 (5 packs × 7 preguntas)
 
 ---
@@ -259,7 +259,7 @@ Get-ChildItem "api/v1/CO/icfes/11/*/*.json" -Exclude "index.json" | ForEach-Obje
 }
 
 # Contar preguntas de este PR
-$packs = @("sociales-ciudadanas/3.json", "sociales-ciudadanas/4.json", 
+$packs = @("sociales-ciudadanas/3.json", "sociales-ciudadanas/4.json",
            "ingles/2.json", "ingles/3.json", "informatica/2.json")
 $total = 0
 foreach ($pack in $packs) {
@@ -391,6 +391,6 @@ cc: @jules
 
 ---
 
-**Creado:** 10 de diciembre de 2025  
-**Autor:** GitHub Copilot  
+**Creado:** 10 de diciembre de 2025
+**Autor:** GitHub Copilot
 **Versión:** 1.0
