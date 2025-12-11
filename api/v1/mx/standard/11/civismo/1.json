@@ -1,0 +1,490 @@
+{
+  "questions": [
+    {
+      "images": [],
+      "number": 1,
+      "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+      "correct_answer": "B",
+      "bundle_id": "MX-CIV-11-CON-001",
+      "statement": "# Pregunta\n¿En qué año se promulgó la Constitución Política de los Estados Unidos Mexicanos actualmente vigente?",
+      "tags": [],
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "is_correct": false,
+          "text": "1857"
+        },
+        {
+          "letter": "B",
+          "is_correct": true,
+          "text": "1917"
+        },
+        {
+          "letter": "C",
+          "is_correct": false,
+          "text": "1824"
+        },
+        {
+          "letter": "D",
+          "is_correct": false,
+          "text": "1936"
+        }
+      ],
+      "explanation": "La Constitución de 1917 fue promulgada el 5 de febrero en Querétaro. Es considerada la primera constitución social del mundo al incluir derechos laborales (Art. 123) y agrarios (Art. 27).\nLa fecha clave de la fundación del marco legal moderno de México es 1917, surgiendo de la Revolución Mexicana. 1857 fue la constitución liberal previa (Leyes de Reforma).\n---",
+      "id": "MX-CIV-11-CON-001-v1"
+    },
+    {
+      "images": [],
+      "number": 2,
+      "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+      "correct_answer": "A",
+      "bundle_id": "MX-CIV-11-CON-001",
+      "statement": "# Pregunta\n¿Quién era el presidente de México cuando se promulgó la Constitución de 1917?",
+      "tags": [],
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "is_correct": true,
+          "text": "Venustiano Carranza"
+        },
+        {
+          "letter": "B",
+          "is_correct": false,
+          "text": "Francisco I. Madero"
+        },
+        {
+          "letter": "C",
+          "is_correct": false,
+          "text": "Porfirio Díaz"
+        },
+        {
+          "letter": "D",
+          "is_correct": false,
+          "text": "Lázaro Cárdenas"
+        }
+      ],
+      "explanation": "Venustiano Carranza, como Primer Jefe del Ejército Constitucionalista, convocó al Congreso Constituyente y promulgó la Constitución el 5 de febrero de 1917.\nIdentificar al líder político del movimiento constitucionalista es fundamental. Carranza fue quien lideró esta etapa institucional de la Revolución.\n---",
+      "id": "MX-CIV-11-CON-001-v2"
+    },
+    {
+      "images": [],
+      "number": 3,
+      "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+      "correct_answer": "B",
+      "bundle_id": "MX-CIV-11-CON-001",
+      "statement": "# Pregunta\n¿En qué ciudad se firmó la Constitución Política de 1917?",
+      "tags": [],
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "is_correct": false,
+          "text": "Ciudad de México"
+        },
+        {
+          "letter": "B",
+          "is_correct": true,
+          "text": "Querétaro"
+        },
+        {
+          "letter": "C",
+          "is_correct": false,
+          "text": "Guadalajara"
+        },
+        {
+          "letter": "D",
+          "is_correct": false,
+          "text": "Veracruz"
+        }
+      ],
+      "explanation": "El Congreso Constituyente se reunió en la ciudad de Santiago de Querétaro, en el Teatro Iturbide (hoy Teatro de la República), donde se firmó la Constitución.\nLa ciudad de Querétaro es históricamente reconocida como la cuna de la Constitución de 1917.\n---",
+      "id": "MX-CIV-11-CON-001-v3"
+    },
+    {
+      "images": [],
+      "number": 4,
+      "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+      "correct_answer": "C",
+      "bundle_id": "MX-CIV-11-CON-001",
+      "statement": "# Pregunta\n¿Cuál de los siguientes artículos de la Constitución de 1917 se refiere específicamente al derecho a la educación laica y gratuita?",
+      "tags": [],
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "is_correct": false,
+          "text": "Artículo 27"
+        },
+        {
+          "letter": "B",
+          "is_correct": false,
+          "text": "Artículo 123"
+        },
+        {
+          "letter": "C",
+          "is_correct": true,
+          "text": "Artículo 3"
+        },
+        {
+          "letter": "D",
+          "is_correct": false,
+          "text": "Artículo 130"
+        }
+      ],
+      "explanation": "El Artículo 3º establece que la educación impartida por el Estado será laica, gratuita y obligatoria.\nLos artículos 3, 27 y 123 son los pilares sociales de la Constitución. El 3 es Educación, el 27 es Tierras/Recursos y el 123 es Trabajo.\n---",
+      "id": "MX-CIV-11-CON-001-v4"
+    },
+    {
+      "images": [],
+      "number": 5,
+      "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+      "correct_answer": "B",
+      "bundle_id": "MX-CIV-11-CON-001",
+      "statement": "# Pregunta\n¿Qué aspecto fundamental diferenció a la Constitución de 1917 de la de 1857?",
+      "tags": [],
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "is_correct": false,
+          "text": "El establecimiento de una república federal."
+        },
+        {
+          "letter": "B",
+          "is_correct": true,
+          "text": "La inclusión de derechos sociales (agrarios y laborales)."
+        },
+        {
+          "letter": "C",
+          "is_correct": false,
+          "text": "La separación Iglesia-Estado."
+        },
+        {
+          "letter": "D",
+          "is_correct": false,
+          "text": "La creación de la Cámara de Senadores."
+        }
+      ],
+      "explanation": "Aunque ratificó muchos principios liberales de 1857 (como la separación Iglesia-Estado), la gran aportación de 1917 fue el constitucionalismo social, protegiendo derechos colectivos de campesinos y obreros.\nLa Constitución de 1917 es pionera mundialmente por su enfoque social, superando el liberalismo clásico individualista de 1857.\n---",
+      "id": "MX-CIV-11-CON-001-v5"
+    },
+    {
+      "images": [],
+      "number": 6,
+      "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+      "correct_answer": "B",
+      "bundle_id": "MX-CIV-11-CON-001",
+      "statement": "# Pregunta\nAnalice el siguiente contexto: Durante el Porfiriato, la propiedad de la tierra se concentró en latifundios. ¿Cómo respondió el Artículo 27 de la Constitución de 1917 a esta problemática?",
+      "tags": [],
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "is_correct": false,
+          "text": "Privatizando todas las tierras comunales para fomentar la inversión extranjera."
+        },
+        {
+          "letter": "B",
+          "is_correct": true,
+          "text": "Declarando la propiedad originaria de la nación sobre tierras y aguas, permitiendo la expropiación y el reparto agrario."
+        },
+        {
+          "letter": "C",
+          "is_correct": false,
+          "text": "Prohibiendo la propiedad privada en zonas rurales y estableciendo el comunismo agrario."
+        },
+        {
+          "letter": "D",
+          "is_correct": false,
+          "text": "Manteniendo las estructuras de tenencia de la tierra de 1857 sin cambios significativos."
+        }
+      ],
+      "explanation": "El Artículo 27 estableció que la propiedad de las tierras y aguas corresponde originalmente a la Nación, la cual tiene el derecho de transmitir el dominio de ellas a los particulares (propiedad privada) y de imponer modalidades dictadas por el interés público (reforma agraria/ejidos).\nRequiere entender la causa (latifundios porfiristas) y la solución jurídica estructural (propiedad originaria de la Nación) que fundamentó el reparto agrario y la soberanía sobre recursos naturales.\n---",
+      "id": "MX-CIV-11-CON-001-v6"
+    },
+    {
+      "images": [],
+      "number": 7,
+      "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+      "correct_answer": "C",
+      "bundle_id": "MX-CIV-11-CON-001",
+      "statement": "# Pregunta\n¿Cuál fue la implicación política inmediata de la cláusula de \"No Reelección\" ratificada en la Constitución de 1917?",
+      "tags": [],
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "is_correct": false,
+          "text": "Permitir la reelección únicamente para legisladores, pero no para el presidente."
+        },
+        {
+          "letter": "B",
+          "is_correct": false,
+          "text": "Garantizar la permanencia indefinida del partido en el poder."
+        },
+        {
+          "letter": "C",
+          "is_correct": true,
+          "text": "Impedir la perpetuación de caudillos en el Ejecutivo, respondiendo a la demanda central del maderismo."
+        },
+        {
+          "letter": "D",
+          "is_correct": false,
+          "text": "Disolver el Poder Ejecutivo para establecer un gobierno parlamentario."
+        }
+      ],
+      "explanation": "El lema \"Sufragio Efectivo, No Reelección\" fue la bandera de Madero contra Porfirio Díaz. La Constitución de 1917 consagró este principio para el Presidente, evitando dictaduras personalistas, aunque fortaleció la figura presidencial durante el sexenio.\nRelaciona el principio constitucional con su origen histórico-político (maderismo) y su consecuencia estructural (evitar el caudillismo perpetuo).\n---\n## 📊 Metadata de Validación\n| Pregunta | ID | Dificultad | Validado |\n|----------|-----|------------|----------|\n| 1 | MX-CIV-11-CON-001-v1 | Medium | ⬜ |\n| 2 | MX-CIV-11-CON-001-v2 | Low | ⬜ |\n| 3 | MX-CIV-11-CON-001-v3 | Low | ⬜ |\n| 4 | MX-CIV-11-CON-001-v4 | Medium | ⬜ |\n| 5 | MX-CIV-11-CON-001-v5 | Medium | ⬜ |\n| 6 | MX-CIV-11-CON-001-v6 | High | ⬜ |\n| 7 | MX-CIV-11-CON-001-v7 | High | ⬜ |",
+      "id": "MX-CIV-11-CON-001-v7"
+    },
+    {
+      "images": [],
+      "number": 1,
+      "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+      "correct_answer": "A",
+      "bundle_id": "MX-CIV-11-POD-001",
+      "statement": "# Pregunta\n¿Cuáles son los tres poderes de la Unión en México según la Constitución?",
+      "tags": [],
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "is_correct": true,
+          "text": "Ejecutivo, Legislativo y Judicial"
+        },
+        {
+          "letter": "B",
+          "is_correct": false,
+          "text": "Federal, Estatal y Municipal"
+        },
+        {
+          "letter": "C",
+          "is_correct": false,
+          "text": "Presidente, Congreso y Senado"
+        },
+        {
+          "letter": "D",
+          "is_correct": false,
+          "text": "Civil, Militar y Religioso"
+        }
+      ],
+      "explanation": "El Artículo 49 de la Constitución establece que el Supremo Poder de la Federación se divide en Ejecutivo (Presidente), Legislativo (Congreso: Cámara de Diputados y Senado) y Judicial (SCJN y tribunales).\nEs la división clásica de poderes de una república. No confundir con los niveles de gobierno (Federal, Estatal, Municipal).\n---",
+      "id": "MX-CIV-11-POD-001-v1"
+    },
+    {
+      "images": [],
+      "number": 2,
+      "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+      "correct_answer": "B",
+      "bundle_id": "MX-CIV-11-POD-001",
+      "statement": "# Pregunta\n¿Quién representa el Poder Ejecutivo a nivel federal en México?",
+      "tags": [],
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "is_correct": false,
+          "text": "La Suprema Corte de Justicia"
+        },
+        {
+          "letter": "B",
+          "is_correct": true,
+          "text": "El Presidente de la República"
+        },
+        {
+          "letter": "C",
+          "is_correct": false,
+          "text": "El Congreso de la Unión"
+        },
+        {
+          "letter": "D",
+          "is_correct": false,
+          "text": "Los Gobernadores"
+        }
+      ],
+      "explanation": "El Poder Ejecutivo Federal se deposita en un solo individuo denominado \"Presidente de los Estados Unidos Mexicanos\".\nIdentificación directa del titular del poder ejecutivo.\n---",
+      "id": "MX-CIV-11-POD-001-v2"
+    },
+    {
+      "images": [],
+      "number": 3,
+      "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+      "correct_answer": "A",
+      "bundle_id": "MX-CIV-11-POD-001",
+      "statement": "# Pregunta\n¿Qué institución representa al Poder Legislativo Federal en México?",
+      "tags": [],
+      "difficulty": "Low",
+      "options": [
+        {
+          "letter": "A",
+          "is_correct": true,
+          "text": "El Congreso de la Unión"
+        },
+        {
+          "letter": "B",
+          "is_correct": false,
+          "text": "El Palacio Nacional"
+        },
+        {
+          "letter": "C",
+          "is_correct": false,
+          "text": "La Suprema Corte"
+        },
+        {
+          "letter": "D",
+          "is_correct": false,
+          "text": "El Instituto Nacional Electoral (INE)"
+        }
+      ],
+      "explanation": "El Poder Legislativo se deposita en un Congreso General, conocido como Congreso de la Unión, dividido en dos cámaras: Diputados y Senadores.\nReconocer al organismo encargado de hacer las leyes.\n---",
+      "id": "MX-CIV-11-POD-001-v3"
+    },
+    {
+      "images": [],
+      "number": 4,
+      "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+      "correct_answer": "C",
+      "bundle_id": "MX-CIV-11-POD-001",
+      "statement": "# Pregunta\n¿Cuál es la función principal del Poder Judicial de la Federación?",
+      "tags": [],
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "is_correct": false,
+          "text": "Administrar los recursos públicos y hacer obras."
+        },
+        {
+          "letter": "B",
+          "is_correct": false,
+          "text": "Crear y modificar las leyes del país."
+        },
+        {
+          "letter": "C",
+          "is_correct": true,
+          "text": "Interpretar las leyes y resolver conflictos entre particulares o entre poderes."
+        },
+        {
+          "letter": "D",
+          "is_correct": false,
+          "text": "Organizar las elecciones federales."
+        }
+      ],
+      "explanation": "La función del Poder Judicial (encabezado por la SCJN) es impartir justicia, interpretar la Constitución y las leyes, y proteger los derechos humanos (Amparo).\nDistinguir la función jurisdiccional (juzgar) de la administrativa (ejecutar) o legislativa (legislar).\n---",
+      "id": "MX-CIV-11-POD-001-v4"
+    },
+    {
+      "images": [],
+      "number": 5,
+      "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+      "correct_answer": "B",
+      "bundle_id": "MX-CIV-11-POD-001",
+      "statement": "# Pregunta\n¿Cómo se conforma el Congreso de la Unión en México?",
+      "tags": [],
+      "difficulty": "Medium",
+      "options": [
+        {
+          "letter": "A",
+          "is_correct": false,
+          "text": "Por una sola Asamblea Nacional de Representantes."
+        },
+        {
+          "letter": "B",
+          "is_correct": true,
+          "text": "Por dos cámaras: Cámara de Diputados y Cámara de Senadores."
+        },
+        {
+          "letter": "C",
+          "is_correct": false,
+          "text": "Por el Gabinete Presidencial y los Gobernadores."
+        },
+        {
+          "letter": "D",
+          "is_correct": false,
+          "text": "Por el Tribunal Electoral y la Suprema Corte."
+        }
+      ],
+      "explanation": "México tiene un sistema bicameral: Diputados (500) que representan a la población, y Senadores (128) que representan el pacto federal (estados).\nEntender la estructura bicameral del legislativo mexicano.\n---",
+      "id": "MX-CIV-11-POD-001-v5"
+    },
+    {
+      "images": [],
+      "number": 6,
+      "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+      "correct_answer": "A",
+      "bundle_id": "MX-CIV-11-POD-001",
+      "statement": "# Pregunta\nEn el sistema de \"pesos y contrapesos\" mexicano, ¿qué facultad exclusiva tiene la Cámara de Diputados sobre el Poder Ejecutivo?",
+      "tags": [],
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "is_correct": true,
+          "text": "Aprobar el Presupuesto de Egresos de la Federación enviado por el Presidente."
+        },
+        {
+          "letter": "B",
+          "is_correct": false,
+          "text": "Ratificar los tratados internacionales firmados por el Presidente."
+        },
+        {
+          "letter": "C",
+          "is_correct": false,
+          "text": "Designar a los ministros de la Suprema Corte de Justicia."
+        },
+        {
+          "letter": "D",
+          "is_correct": false,
+          "text": "Comandar a las Fuerzas Armadas en ausencia del Presidente."
+        }
+      ],
+      "explanation": "La aprobación del Presupuesto de Egresos es facultad exclusiva de la Cámara de Diputados (Art. 74). La ratificación de tratados corresponde al Senado.\nRequiere conocimiento específico de las facultades exclusivas de cada cámara y cómo estas controlan al Ejecutivo (control presupuestal).\n---",
+      "id": "MX-CIV-11-POD-001-v6"
+    },
+    {
+      "images": [],
+      "number": 7,
+      "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+      "correct_answer": "C",
+      "bundle_id": "MX-CIV-11-POD-001",
+      "statement": "# Pregunta\n¿Qué mecanismo constitucional permite al Poder Judicial invalidar una ley aprobada por el Poder Legislativo y promulgada por el Ejecutivo si esta contradice la Carta Magna?",
+      "tags": [],
+      "difficulty": "High",
+      "options": [
+        {
+          "letter": "A",
+          "is_correct": false,
+          "text": "El Veto Presidencial."
+        },
+        {
+          "letter": "B",
+          "is_correct": false,
+          "text": "La Consulta Popular."
+        },
+        {
+          "letter": "C",
+          "is_correct": true,
+          "text": "La Acción de Inconstitucionalidad."
+        },
+        {
+          "letter": "D",
+          "is_correct": false,
+          "text": "El Juicio Político."
+        }
+      ],
+      "explanation": "La Acción de Inconstitucionalidad es un medio de control constitucional que se tramita ante la SCJN para declarar la invalidez de normas generales contrarias a la Constitución.\nImplica comprender la supremacía constitucional y los mecanismos de control que ejerce el Judicial sobre los otros poderes.\n---\n## 📊 Metadata de Validación\n| Pregunta | ID | Dificultad | Validado |\n|----------|-----|------------|----------|\n| 1 | MX-CIV-11-POD-001-v1 | Medium | ⬜ |\n| 2 | MX-CIV-11-POD-001-v2 | Low | ⬜ |\n| 3 | MX-CIV-11-POD-001-v3 | Low | ⬜ |\n| 4 | MX-CIV-11-POD-001-v4 | Medium | ⬜ |\n| 5 | MX-CIV-11-POD-001-v5 | Medium | ⬜ |\n| 6 | MX-CIV-11-POD-001-v6 | High | ⬜ |\n| 7 | MX-CIV-11-POD-001-v7 | High | ⬜ |",
+      "id": "MX-CIV-11-POD-001-v7"
+    }
+  ],
+  "metadata": {
+    "subject": "Civismo",
+    "total_pages": 1.0,
+    "page": 1,
+    "generated_at": "2025-12-10T17:08:07Z",
+    "total_questions": 14,
+    "exam": "standard",
+    "country": "mx",
+    "grade": "11"
+  }
+}
