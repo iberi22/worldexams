@@ -306,10 +306,27 @@ export async function syncPendingScores(): Promise<number> {
   const syncedChecksums: string[] = [];
 
   for (const entry of pending) {
-    const success = await submitScore(entry.submission);
-    if (success) {
-      synced++;
-      syncedChecksums.push(entry.submission.checksum);
+    // Try to submit via the submission URL endpoint
+    try {
+      const url = `${GITHUB_DISPATCH_URL}?${new URLSearchParams({
+        anonymous_id: entry.submission.anonymousId,
+        display_name: entry.submission.displayName,
+        score: entry.submission.score.toString(),
+        grade: entry.submission.grade,
+        region: entry.submission.region || '',
+        questions_answered: entry.submission.stats.questionsAnswered.toString(),
+        correct_answers: Math.round(entry.submission.stats.accuracy * entry.submission.stats.questionsAnswered).toString(),
+        average_difficulty: entry.submission.stats.averageDifficulty.toString(),
+        timestamp: entry.submission.timestamp
+      })}`;
+
+      const response = await fetch(url);
+      if (response.ok) {
+        synced++;
+        syncedChecksums.push(entry.submission.checksum);
+      }
+    } catch (error) {
+      console.error('Error syncing score:', error);
     }
   }
 

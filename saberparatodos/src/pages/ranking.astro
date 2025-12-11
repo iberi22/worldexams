@@ -145,7 +145,7 @@ try {
 <script>
   // Cerrar modal al hacer clic fuera
   document.getElementById('register-modal')?.addEventListener('click', (e) => {
-    if (e.target === e.currentTarget) {
+    if (e.target === e.currentTarget && e.currentTarget instanceof HTMLElement) {
       e.currentTarget.classList.add('hidden');
     }
   });

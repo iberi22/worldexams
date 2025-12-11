@@ -23,9 +23,9 @@
  * - Currency or measurement systems specific to a country
  */
 
-import type { CollectionEntry } from 'astro:content';
-import { parseBundleQuestions, isBundle, getAllQuestionsFromBundle } from './questionParser';
+import { isBundle, getAllQuestionsFromBundle } from './questionParser';
 import type { Question } from '../types';
+import type { QuestionEntry } from './questionParser';
 
 // ============================================
 // TYPES
@@ -181,19 +181,6 @@ const UNIVERSAL_FRIENDLY_SUBJECTS = [
 ];
 
 /**
- * Subjects that typically require local context
- */
-const LOCAL_CONTEXT_SUBJECTS = [
-  'sociales',
-  'ciudadanas',
-  'historia',
-  'geografía',
-  'cívica',
-  'social studies',
-  'civics',
-];
-
-/**
  * Check if a subject is typically universal
  */
 export function isUniversalFriendlySubject(subject: string): boolean {
@@ -213,7 +200,7 @@ export function isUniversalFriendlySubject(subject: string): boolean {
  * @returns Universal question pool
  */
 export function buildUniversalQuestionPool(
-  entries: CollectionEntry<'questions'>[],
+  entries: QuestionEntry[],
   criteria: QuestionSharingCriteria
 ): UniversalQuestionPool {
   const { languageFamily, targetExam, gradeRange, subject, difficulty } = criteria;
@@ -469,7 +456,7 @@ export function mixQuestionsForExam(
  * Analyze a collection and report universal question statistics
  */
 export function analyzeUniversalQuestions(
-  entries: CollectionEntry<'questions'>[]
+  entries: QuestionEntry[]
 ): {
   totalBundles: number;
   universalBundles: number;
@@ -512,9 +499,9 @@ export function analyzeUniversalQuestions(
  * Suggest which bundles could be marked as universal
  */
 export function suggestUniversalCandidates(
-  entries: CollectionEntry<'questions'>[]
-): CollectionEntry<'questions'>[] {
-  const candidates: CollectionEntry<'questions'>[] = [];
+  entries: QuestionEntry[]
+): QuestionEntry[] {
+  const candidates: QuestionEntry[] = [];
 
   for (const entry of entries) {
     if (!isBundle(entry)) continue;

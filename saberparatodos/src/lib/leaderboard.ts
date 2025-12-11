@@ -2,8 +2,6 @@
  * Tipos para el Sistema de Leaderboards de World Exams
  */
 
-import type { ExamStats } from './scoring';
-
 // ============================================================================
 // TIPOS DE PERÍODOS
 // ============================================================================

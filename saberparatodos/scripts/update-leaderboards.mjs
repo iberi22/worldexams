@@ -14,7 +14,7 @@
  * - DRY_RUN: 'true' | 'false'
  */
 
-import { readFileSync, writeFileSync, mkdirSync, existsSync, copyFileSync } from 'fs';
+import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 

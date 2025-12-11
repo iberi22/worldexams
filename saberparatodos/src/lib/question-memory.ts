@@ -186,7 +186,7 @@ export function clearQuestionMemory(): void {
  * Update question stats
  */
 function updateStats(
-  questionId: string,
+  _questionId: string,
   isCorrect: boolean,
   metadata?: { subject?: string; grade?: number; difficulty?: number }
 ): void {

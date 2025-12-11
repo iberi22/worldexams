@@ -53,13 +53,6 @@ const features = [
     description: 'Contenido contextualizado con la cultura y realidad colombiana.'
   }
 ];
-
-const team = [
-  {
-    role: 'Comunidad',
-    description: 'OpenIcfes es mantenido por una comunidad de desarrolladores, educadores y estudiantes apasionados por democratizar la educación en Colombia.'
-  }
-];
 ---
 
 <Layout
@@ -255,5 +248,5 @@ const team = [
   </div>
 
   <!-- Schema.org JSON-LD -->
-  <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+  <script is:inline type="application/ld+json" set:html={JSON.stringify(schema)} />
 </Layout>

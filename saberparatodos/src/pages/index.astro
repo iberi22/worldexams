@@ -23,10 +23,10 @@ const stats = {
   showFooter={false}
 >
   <!-- Debug info (hidden, for development) -->
-  <script type="application/json" id="question-stats" set:html={JSON.stringify(stats)} />
+  <script is:inline type="application/json" id="question-stats" set:html={JSON.stringify(stats)} />
 
   <!-- API Config for client-side fetching -->
-  <script type="application/json" id="api-config" set:html={JSON.stringify({ apiBaseUrl: API_BASE_URL })} />
+  <script is:inline type="application/json" id="api-config" set:html={JSON.stringify({ apiBaseUrl: API_BASE_URL })} />
 
   <App
     client:load

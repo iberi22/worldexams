@@ -1,5 +1,23 @@
 import type { Question, Option } from '../types';
-import type { CollectionEntry } from 'astro:content';
+
+/**
+ * Legacy type for compatibility with old question parser code
+ * TODO: Refactor to remove dependency on Astro content collections
+ */
+export type QuestionEntry = {
+  id: string;
+  body: string;
+  data: {
+    id: string;
+    total_questions?: number;
+    grado: number;
+    asignatura: string;
+    tema: string;
+    source_url?: string;
+    universal_question?: boolean;
+    applicable_exams?: string[];
+  };
+};
 
 /**
  * Clean metadata from explanation text
@@ -60,7 +78,7 @@ export interface BundleMetadata {
 /**
  * Parse a legacy single-question format (# Pregunta, # Opciones, # Explicación)
  */
-export function parseQuestion(entry: CollectionEntry<'questions'>): Question {
+export function parseQuestion(entry: QuestionEntry): Question {
   const body = entry.body;
   const frontmatter = entry.data;
 
@@ -116,7 +134,7 @@ export function parseQuestion(entry: CollectionEntry<'questions'>): Question {
 /**
  * Parse all questions from a V2.1 bundle format
  */
-export function parseBundleQuestions(entry: CollectionEntry<'questions'>): ParsedBundleQuestion[] {
+export function parseBundleQuestions(entry: QuestionEntry): ParsedBundleQuestion[] {
   const body = entry.body;
   const questions: ParsedBundleQuestion[] = [];
 
@@ -250,7 +268,7 @@ function parseVariantType(sectionType: string): { type: ParsedBundleQuestion['va
  */
 function convertBundleQuestionToQuestion(
   bundleQuestion: ParsedBundleQuestion,
-  frontmatter: CollectionEntry<'questions'>['data']
+  frontmatter: QuestionEntry['data']
 ): Question {
   return {
     id: bundleQuestion.id,
@@ -267,7 +285,7 @@ function convertBundleQuestionToQuestion(
 /**
  * Get a random question from a bundle
  */
-export function getRandomQuestionFromBundle(entry: CollectionEntry<'questions'>): Question | null {
+export function getRandomQuestionFromBundle(entry: QuestionEntry): Question | null {
   const questions = parseBundleQuestions(entry);
 
   if (questions.length === 0) {
@@ -283,7 +301,7 @@ export function getRandomQuestionFromBundle(entry: CollectionEntry<'questions'>)
  * @param targetDifficulty 1-5
  */
 export function getQuestionByDifficulty(
-  entry: CollectionEntry<'questions'>,
+  entry: QuestionEntry,
   targetDifficulty: number
 ): Question | null {
   const questions = parseBundleQuestions(entry);
@@ -307,7 +325,7 @@ export function getQuestionByDifficulty(
 /**
  * Get all questions from a bundle as Question[] for ExamView
  */
-export function getAllQuestionsFromBundle(entry: CollectionEntry<'questions'>): Question[] {
+export function getAllQuestionsFromBundle(entry: QuestionEntry): Question[] {
   const bundleQuestions = parseBundleQuestions(entry);
   return bundleQuestions.map(bq => convertBundleQuestionToQuestion(bq, entry.data));
 }
@@ -315,7 +333,7 @@ export function getAllQuestionsFromBundle(entry: CollectionEntry<'questions'>): 
 /**
  * Check if an entry is a bundle (V2.1 format)
  */
-export function isBundle(entry: CollectionEntry<'questions'>): boolean {
+export function isBundle(entry: QuestionEntry): boolean {
   return (
     (entry.data.total_questions !== undefined && entry.data.total_questions > 1) ||
     entry.body.includes('## Pregunta') ||
@@ -326,7 +344,7 @@ export function isBundle(entry: CollectionEntry<'questions'>): boolean {
 /**
  * Get bundle metadata
  */
-export function getBundleMetadata(entry: CollectionEntry<'questions'>): BundleMetadata {
+export function getBundleMetadata(entry: QuestionEntry): BundleMetadata {
   return {
     bundleId: entry.data.id,
     totalQuestions: entry.data.total_questions || 1,
@@ -343,10 +361,10 @@ export function getBundleMetadata(entry: CollectionEntry<'questions'>): BundleMe
  * Find all universal questions that match a language and exam type
  */
 export function filterUniversalQuestions(
-  entries: CollectionEntry<'questions'>[],
+  entries: QuestionEntry[],
   sourceLang: string,
   examType?: string
-): CollectionEntry<'questions'>[] {
+): QuestionEntry[] {
   return entries.filter(entry => {
     const data = entry.data;
 
