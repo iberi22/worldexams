@@ -6,6 +6,10 @@ authors = ["World Exams Team"]
 license = "AGPL-3.0"
 description = "Local party mode server for synchronized exams"
 
+[lib]
+name = "party_server"
+path = "src/lib.rs"
+
 [dependencies]
 # Web Framework
 actix-web = "4.4"
