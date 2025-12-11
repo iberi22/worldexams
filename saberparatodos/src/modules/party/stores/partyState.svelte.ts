@@ -321,16 +321,36 @@ class PartyState {
   /**
    * Solicita análisis de IA
    */
-  requestAIAnalysis(): void {
+  async requestAIAnalysis(): Promise<void> {
     const limits = PLAN_LIMITS[this.currentPlan];
     if (!limits.allowAiAnalysis) {
       alert('Esta función requiere el Plan Pro o Institucional.');
       return;
     }
 
-    connectionService.broadcast({
-      type: 'request_ai_analysis',
-    });
+    if (!this.config?.id) return;
+
+    try {
+      this.aiAnalysis = "Generando análisis con IA...";
+      
+      const { data, error } = await supabase.functions.invoke('analyze-party-results', {
+        body: { partyId: this.config.id }
+      });
+
+      if (error) throw error;
+
+      this.aiAnalysis = data.analysis;
+
+      // Broadcast to players (optional, maybe just host)
+      connectionService.broadcast({
+        type: 'ai_analysis_ready',
+        analysis: data.analysis
+      });
+
+    } catch (err) {
+      console.error('[Party] Error requesting AI analysis:', err);
+      this.aiAnalysis = "Error al generar análisis. Intenta nuevamente.";
+    }
   }
 
   /**
