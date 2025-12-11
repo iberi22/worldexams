@@ -1,0 +1,15 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Party Mode - Saber Para Todos">
+  <div id="party-app"></div>
+</Layout>
+
+<script>
+  import PartyApp from '../modules/party/components/PartyApp.svelte';
+
+  const app = new PartyApp({
+    target: document.getElementById('party-app')!,
+  });
+</script>

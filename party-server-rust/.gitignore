@@ -1,0 +1,13 @@
+# Rust
+/target/
+**/*.rs.bk
+
+# SQLite
+*.db
+*.db-shm
+*.db-wal
+
+# Environment variables
+.env
+.env.*
+!.env.example

@@ -6,7 +6,7 @@
   let showComments = false;
   let isLoading = false;
   let discussionContainer: HTMLElement;
-  
+
   // Unique ID for this component instance to avoid conflicts with multiple instances
   const uniqueId = `giscus-${questionId}-${Math.random().toString(36).substr(2, 9)}`;
 

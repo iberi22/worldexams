@@ -74,10 +74,10 @@ Para validar que el fix funciona correctamente:
 
 ### Comportamiento Esperado
 
-✅ Cada pregunta debe mostrar su propia discusión de giscus  
-✅ Las discusiones deben cargarse independientemente  
-✅ No debe haber conflictos entre múltiples instancias abiertas  
-✅ Los comentarios deben aparecer bajo la pregunta correcta  
+✅ Cada pregunta debe mostrar su propia discusión de giscus
+✅ Las discusiones deben cargarse independientemente
+✅ No debe haber conflictos entre múltiples instancias abiertas
+✅ Los comentarios deben aparecer bajo la pregunta correcta
 
 ---
 

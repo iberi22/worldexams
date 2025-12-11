@@ -37,7 +37,16 @@ saberparatodos/template-openicfes/.env.local
 .DS_Store
 Thumbs.db
 
+# Planning documents (hide from public)
+/*.md
+!README.md
+!CONTRIBUTING.md
+!CHANGELOG.md
+!LICENSE.md
+
 # Submodules (will manage separately)
 worldexams.github.io/
 question-bank/
 question-sync/
+#🔒 PRIVADO repo aparte privado
+party-server-cloud/
