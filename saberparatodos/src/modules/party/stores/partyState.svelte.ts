@@ -5,6 +5,7 @@
 
 import { connectionService } from '../services/connection';
 import { antiCheatService } from '../services/antiCheat';
+import { supabase } from '../../../lib/supabase';
 import type {
   PartyConfig,
   PartyRole,
@@ -74,10 +75,14 @@ class PartyState {
 
     const partyId = this.generatePartyId();
 
+    // Try to get authenticated user
+    const { data: { user } } = await supabase.auth.getUser();
+    const hostId = user ? user.id : crypto.randomUUID();
+
     this.config = {
       id: partyId,
       name: partyName,
-      hostId: crypto.randomUUID(),
+      hostId: hostId,
       hostName,
       maxPlayers: limits.maxPlayers, // Enforce limit
       timePerQuestion: config.timePerQuestion || 60,
@@ -259,12 +264,58 @@ class PartyState {
   /**
    * Finaliza el juego (solo Host)
    */
-  finishGame(): void {
+  async finishGame(): Promise<void> {
     if (!this.isHost) return;
 
     connectionService.broadcast({
       type: 'finish_game',
     });
+
+    // Persist to Supabase (if authenticated)
+    if (this.config) {
+      const { data: { user } } = await supabase.auth.getUser();
+      
+      if (user && user.id === this.config.hostId) {
+        try {
+          // 1. Save Party
+          const { error: partyError } = await supabase
+            .from('parties')
+            .insert({
+              id: this.config.id,
+              pin: this.config.id, // Using ID as PIN for now
+              host_id: user.id,
+              status: 'finished',
+              config: this.config,
+              total_questions: this.config.totalQuestions,
+              ended_at: new Date().toISOString(),
+            });
+
+          if (partyError) {
+            console.error('[Party] Error saving party:', partyError);
+          } else {
+            // 2. Save Players
+            const playersData = this.players.map(p => ({
+              party_id: this.config!.id,
+              player_id: p.id,
+              nickname: p.name,
+              score: p.score || 0,
+              rank: p.rank,
+              correct_answers: p.correctAnswers || 0,
+              joined_at: p.joinedAt.toISOString()
+            }));
+
+            const { error: playersError } = await supabase
+              .from('party_players')
+              .insert(playersData);
+
+            if (playersError) console.error('[Party] Error saving players:', playersError);
+            else console.log('[Party] Results saved to Supabase');
+          }
+        } catch (err) {
+          console.error('[Party] Failed to persist data:', err);
+        }
+      }
+    }
   }
 
   /**
