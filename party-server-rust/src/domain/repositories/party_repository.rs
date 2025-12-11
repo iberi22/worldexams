@@ -1,7 +1,7 @@
 // src/domain/repositories/party_repository.rs
 // Trait defining persistence operations for Party entity (hexagonal architecture)
 
-use crate::domain::entities::party::{Party, PartyStatus};
+use crate::domain::entities::party::Party;
 use async_trait::async_trait;
 use uuid::Uuid;
 
@@ -31,7 +31,7 @@ pub trait PartyRepository: Send + Sync {
     /// List parties by status
     async fn list_by_status(
         &self,
-        status: PartyStatus,
+        status: &str,
         limit: i32,
         offset: i32,
     ) -> Result<Vec<Party>, RepositoryError>;
@@ -40,7 +40,7 @@ pub trait PartyRepository: Send + Sync {
     async fn count(&self) -> Result<i64, RepositoryError>;
 
     /// Count parties by status
-    async fn count_by_status(&self, status: PartyStatus) -> Result<i64, RepositoryError>;
+    async fn count_by_status(&self, status: &str) -> Result<i64, RepositoryError>;
 }
 
 /// Repository errors

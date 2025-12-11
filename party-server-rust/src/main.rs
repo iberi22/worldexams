@@ -1,6 +1,5 @@
 use actix_web::{web, App, HttpServer, middleware};
 use tracing_subscriber;
-use std::sync::Arc;
 
 mod domain;
 mod infrastructure;
@@ -9,6 +8,9 @@ mod config;
 
 #[actix_web::main]
 async fn main() -> std::io::Result<()> {
+    // Load .env file
+    dotenv::dotenv().ok();
+    
     // Initialize logging
     tracing_subscriber::fmt()
         .with_target(false)
@@ -17,14 +19,17 @@ async fn main() -> std::io::Result<()> {
 
     tracing::info!("🚀 Party Server starting...");
 
-    // Load configuration
-    let settings = config::Settings::new().expect("Failed to load configuration");
+    // Load configuration (override database URL for development)
+    let mut settings = config::Settings::new().expect("Failed to load configuration");
+    settings.database.url = "sqlite://E:\\scripts-python\\worldexams\\party-server-rust\\data\\parties.db".to_string();
     
     tracing::info!(
         "📡 Server will run on {}:{}",
         settings.server.host,
         settings.server.port
     );
+    
+    tracing::info!("📊 Database URL: {}", settings.database.url);
 
     // Initialize database
     let db_pool = infrastructure::database::init_pool(&settings.database.url)
@@ -42,13 +47,11 @@ async fn main() -> std::io::Result<()> {
     tracing::info!("✅ Migrations complete");
 
     // Create repositories
-    let party_repo = Arc::new(infrastructure::database::SqlitePartyRepository::new(db_pool.clone())) 
-        as Arc<dyn domain::repositories::PartyRepository>;
-    let player_repo = Arc::new(infrastructure::database::SqlitePlayerRepository::new(db_pool.clone()))
-        as Arc<dyn domain::repositories::PlayerRepository>;
+    let party_repo = infrastructure::database::SqlitePartyRepository::new(db_pool.clone());
+    let player_repo = infrastructure::database::SqlitePlayerRepository::new(db_pool.clone());
 
     // Create room manager for WebSocket
-    let room_manager = Arc::new(infrastructure::websocket::RoomManager::new());
+    let room_manager = infrastructure::websocket::RoomManager::new();
 
     // Create app state
     let app_state = web::Data::new(infrastructure::http::routes::AppState {

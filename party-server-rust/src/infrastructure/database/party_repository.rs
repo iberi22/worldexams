@@ -1,9 +1,9 @@
 use async_trait::async_trait;
-use anyhow::Result;
 use sqlx::SqlitePool;
 use uuid::Uuid;
-use crate::domain::entities::Party;
-use crate::domain::repositories::PartyRepository;
+use chrono::{DateTime, Utc};
+use crate::domain::entities::party::{Party, PartyStatus};
+use crate::domain::repositories::party_repository::{PartyRepository, RepositoryError};
 
 pub struct SqlitePartyRepository {
     pool: SqlitePool,
@@ -17,211 +17,264 @@ impl SqlitePartyRepository {
 
 #[async_trait]
 impl PartyRepository for SqlitePartyRepository {
-    async fn create(&self, party: &Party) -> Result<()> {
-        sqlx::query!(
+    async fn create(&self, party: &Party) -> Result<(), RepositoryError> {
+        sqlx::query(
             r#"
             INSERT INTO parties (
                 id, code, name, host_id, host_name, max_players,
                 time_per_question, total_questions, grade, subject,
-                status, created_at, started_at, finished_at
-            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                status, created_at
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
             "#,
-            party.id.to_string(),
-            party.code,
-            party.name,
-            party.host_id.to_string(),
-            party.host_name,
-            party.max_players,
-            party.time_per_question,
-            party.total_questions,
-            party.grade,
-            party.subject,
-            format!("{:?}", party.status).to_lowercase(),
-            party.created_at.to_rfc3339(),
-            party.started_at.map(|t| t.to_rfc3339()),
-            party.finished_at.map(|t| t.to_rfc3339()),
         )
+        .bind(party.id.to_string())
+        .bind(&party.code)
+        .bind(&party.name)
+        .bind(party.host_id.to_string())
+        .bind(&party.host_name)
+        .bind(party.max_players)
+        .bind(party.time_per_question)
+        .bind(party.total_questions)
+        .bind(party.grade)
+        .bind(&party.subject)
+        .bind(format!("{:?}", party.status).to_lowercase())
+        .bind(&party.created_at.to_rfc3339())
         .execute(&self.pool)
-        .await?;
+        .await
+        .map_err(|e| RepositoryError::DatabaseError(e.to_string()))?;
 
         Ok(())
     }
 
-    async fn find_by_id(&self, id: &Uuid) -> Result<Option<Party>> {
-        let record = sqlx::query!(
+    async fn find_by_id(&self, id: &Uuid) -> Result<Option<Party>, RepositoryError> {
+        let id_str = id.to_string();
+        let row = sqlx::query_as::<_, (String, String, String, String, String, i32, i32, i32, i32, String, String, String, Option<String>, Option<String>)>(
             r#"
             SELECT id, code, name, host_id, host_name, max_players,
                    time_per_question, total_questions, grade, subject,
                    status, created_at, started_at, finished_at
-            FROM parties WHERE id = ?
-            "#,
-            id.to_string()
-        )
-        .fetch_optional(&self.pool)
-        .await?;
-
-        match record {
-            Some(r) => {
-                use crate::domain::entities::PartyStatus;
-                use chrono::DateTime;
-
-                let status = match r.status.as_str() {
-                    "waiting" => PartyStatus::Waiting,
-                    "active" => PartyStatus::Active,
-                    "paused" => PartyStatus::Paused,
-                    "finished" => PartyStatus::Finished,
-                    _ => PartyStatus::Waiting,
-                };
-
-                Ok(Some(Party {
-                    id: Uuid::parse_str(&r.id)?,
-                    code: r.code,
-                    name: r.name,
-                    host_id: Uuid::parse_str(&r.host_id)?,
-                    host_name: r.host_name,
-                    max_players: r.max_players,
-                    time_per_question: r.time_per_question,
-                    total_questions: r.total_questions,
-                    grade: r.grade,
-                    subject: r.subject,
-                    status,
-                    created_at: DateTime::parse_from_rfc3339(&r.created_at)?.with_timezone(&chrono::Utc),
-                    started_at: r.started_at.map(|s| DateTime::parse_from_rfc3339(&s).ok().map(|dt| dt.with_timezone(&chrono::Utc))).flatten(),
-                    finished_at: r.finished_at.map(|s| DateTime::parse_from_rfc3339(&s).ok().map(|dt| dt.with_timezone(&chrono::Utc))).flatten(),
-                }))
-            }
-            None => Ok(None),
-        }
-    }
-
-    async fn find_by_code(&self, code: &str) -> Result<Option<Party>> {
-        let record = sqlx::query!(
-            r#"
-            SELECT id, code, name, host_id, host_name, max_players,
-                   time_per_question, total_questions, grade, subject,
-                   status, created_at, started_at, finished_at
-            FROM parties WHERE code = ?
-            "#,
-            code
-        )
-        .fetch_optional(&self.pool)
-        .await?;
-
-        match record {
-            Some(r) => {
-                use crate::domain::entities::PartyStatus;
-                use chrono::DateTime;
-
-                let status = match r.status.as_str() {
-                    "waiting" => PartyStatus::Waiting,
-                    "active" => PartyStatus::Active,
-                    "paused" => PartyStatus::Paused,
-                    "finished" => PartyStatus::Finished,
-                    _ => PartyStatus::Waiting,
-                };
-
-                Ok(Some(Party {
-                    id: Uuid::parse_str(&r.id)?,
-                    code: r.code,
-                    name: r.name,
-                    host_id: Uuid::parse_str(&r.host_id)?,
-                    host_name: r.host_name,
-                    max_players: r.max_players,
-                    time_per_question: r.time_per_question,
-                    total_questions: r.total_questions,
-                    grade: r.grade,
-                    subject: r.subject,
-                    status,
-                    created_at: DateTime::parse_from_rfc3339(&r.created_at)?.with_timezone(&chrono::Utc),
-                    started_at: r.started_at.map(|s| DateTime::parse_from_rfc3339(&s).ok().map(|dt| dt.with_timezone(&chrono::Utc))).flatten(),
-                    finished_at: r.finished_at.map(|s| DateTime::parse_from_rfc3339(&s).ok().map(|dt| dt.with_timezone(&chrono::Utc))).flatten(),
-                }))
-            }
-            None => Ok(None),
-        }
-    }
-
-    async fn update(&self, party: &Party) -> Result<()> {
-        sqlx::query!(
-            r#"
-            UPDATE parties SET
-                name = ?, max_players = ?, time_per_question = ?,
-                total_questions = ?, grade = ?, subject = ?,
-                status = ?, started_at = ?, finished_at = ?
+            FROM parties
             WHERE id = ?
             "#,
-            party.name,
-            party.max_players,
-            party.time_per_question,
-            party.total_questions,
-            party.grade,
-            party.subject,
-            format!("{:?}", party.status).to_lowercase(),
-            party.started_at.map(|t| t.to_rfc3339()),
-            party.finished_at.map(|t| t.to_rfc3339()),
-            party.id.to_string()
         )
-        .execute(&self.pool)
-        .await?;
+        .bind(&id_str)
+        .fetch_optional(&self.pool)
+        .await
+        .map_err(|e| RepositoryError::DatabaseError(e.to_string()))?;
 
-        Ok(())
+        Ok(row.map(|(id_str, code, name, host_id_str, host_name, max_players, time_per_question, total_questions, grade, subject, status, created_at_str, started_at_str, finished_at_str)| {
+            Party {
+                id: Uuid::parse_str(&id_str).unwrap_or_default(),
+                code,
+                name,
+                host_id: Uuid::parse_str(&host_id_str).unwrap_or_default(),
+                host_name,
+                max_players,
+                time_per_question,
+                total_questions,
+                grade,
+                subject,
+                status: match status.to_lowercase().as_str() {
+                    "active" => PartyStatus::Active,
+                    "paused" => PartyStatus::Paused,
+                    "finished" => PartyStatus::Finished,
+                    _ => PartyStatus::Waiting,
+                },
+                created_at: DateTime::parse_from_rfc3339(&created_at_str).map(|dt| dt.with_timezone(&Utc)).unwrap_or_else(|_| Utc::now()),
+                started_at: started_at_str.as_ref().and_then(|s| DateTime::parse_from_rfc3339(s).ok().map(|dt| dt.with_timezone(&Utc))),
+                finished_at: finished_at_str.as_ref().and_then(|s| DateTime::parse_from_rfc3339(s).ok().map(|dt| dt.with_timezone(&Utc))),
+            }
+        }))
     }
 
-    async fn delete(&self, id: &Uuid) -> Result<()> {
-        sqlx::query!("DELETE FROM parties WHERE id = ?", id.to_string())
-            .execute(&self.pool)
-            .await?;
-
-        Ok(())
-    }
-
-    async fn list_active(&self) -> Result<Vec<Party>> {
-        let records = sqlx::query!(
+    async fn find_by_code(&self, code: &str) -> Result<Option<Party>, RepositoryError> {
+        let row = sqlx::query_as::<_, (String, String, String, String, String, i32, i32, i32, i32, String, String, String, Option<String>, Option<String>)>(
             r#"
             SELECT id, code, name, host_id, host_name, max_players,
                    time_per_question, total_questions, grade, subject,
                    status, created_at, started_at, finished_at
-            FROM parties 
-            WHERE status IN ('waiting', 'active', 'paused')
-            ORDER BY created_at DESC
-            "#
+            FROM parties
+            WHERE code = ?
+            "#,
         )
-        .fetch_all(&self.pool)
-        .await?;
+        .bind(code)
+        .fetch_optional(&self.pool)
+        .await
+        .map_err(|e| RepositoryError::DatabaseError(e.to_string()))?;
 
-        use crate::domain::entities::PartyStatus;
-        use chrono::DateTime;
-
-        let parties = records
-            .into_iter()
-            .filter_map(|r| {
-                let status = match r.status.as_str() {
-                    "waiting" => PartyStatus::Waiting,
+        Ok(row.map(|(id_str, code, name, host_id_str, host_name, max_players, time_per_question, total_questions, grade, subject, status, created_at_str, started_at_str, finished_at_str)| {
+            Party {
+                id: Uuid::parse_str(&id_str).unwrap_or_default(),
+                code,
+                name,
+                host_id: Uuid::parse_str(&host_id_str).unwrap_or_default(),
+                host_name,
+                max_players,
+                time_per_question,
+                total_questions,
+                grade,
+                subject,
+                status: match status.to_lowercase().as_str() {
                     "active" => PartyStatus::Active,
                     "paused" => PartyStatus::Paused,
                     "finished" => PartyStatus::Finished,
-                    _ => return None,
-                };
+                    _ => PartyStatus::Waiting,
+                },
+                created_at: DateTime::parse_from_rfc3339(&created_at_str).map(|dt| dt.with_timezone(&Utc)).unwrap_or_else(|_| Utc::now()),
+                started_at: started_at_str.as_ref().and_then(|s| DateTime::parse_from_rfc3339(s).ok().map(|dt| dt.with_timezone(&Utc))),
+                finished_at: finished_at_str.as_ref().and_then(|s| DateTime::parse_from_rfc3339(s).ok().map(|dt| dt.with_timezone(&Utc))),
+            }
+        }))
+    }
 
-                Some(Party {
-                    id: Uuid::parse_str(&r.id).ok()?,
-                    code: r.code,
-                    name: r.name,
-                    host_id: Uuid::parse_str(&r.host_id).ok()?,
-                    host_name: r.host_name,
-                    max_players: r.max_players,
-                    time_per_question: r.time_per_question,
-                    total_questions: r.total_questions,
-                    grade: r.grade,
-                    subject: r.subject,
-                    status,
-                    created_at: DateTime::parse_from_rfc3339(&r.created_at).ok()?.with_timezone(&chrono::Utc),
-                    started_at: r.started_at.and_then(|s| DateTime::parse_from_rfc3339(&s).ok().map(|dt| dt.with_timezone(&chrono::Utc))),
-                    finished_at: r.finished_at.and_then(|s| DateTime::parse_from_rfc3339(&s).ok().map(|dt| dt.with_timezone(&chrono::Utc))),
-                })
+    async fn update(&self, party: &Party) -> Result<(), RepositoryError> {
+        sqlx::query(
+            r#"
+            UPDATE parties
+            SET code = ?, name = ?, max_players = ?,
+                time_per_question = ?, total_questions = ?,
+                grade = ?, subject = ?, status = ?,
+                started_at = ?, finished_at = ?
+            WHERE id = ?
+            "#,
+        )
+        .bind(&party.code)
+        .bind(&party.name)
+        .bind(party.max_players)
+        .bind(party.time_per_question)
+        .bind(party.total_questions)
+        .bind(party.grade)
+        .bind(&party.subject)
+        .bind(format!("{:?}", party.status).to_lowercase())
+        .bind(party.started_at.as_ref().map(|dt| dt.to_rfc3339()))
+        .bind(party.finished_at.as_ref().map(|dt| dt.to_rfc3339()))
+        .bind(party.id.to_string())
+        .execute(&self.pool)
+        .await
+        .map_err(|e| RepositoryError::DatabaseError(e.to_string()))?;
+
+        Ok(())
+    }
+
+    async fn delete(&self, id: &Uuid) -> Result<(), RepositoryError> {
+        sqlx::query("DELETE FROM parties WHERE id = ?")
+            .bind(id.to_string())
+            .execute(&self.pool)
+            .await
+            .map_err(|e| RepositoryError::DatabaseError(e.to_string()))?;
+
+        Ok(())
+    }
+
+    async fn list_active(&self, limit: i32, offset: i32) -> Result<Vec<Party>, RepositoryError> {
+        let rows = sqlx::query_as::<_, (String, String, String, String, String, i32, i32, i32, i32, String, String, String, Option<String>, Option<String>)>(
+            r#"
+            SELECT id, code, name, host_id, host_name, max_players,
+                   time_per_question, total_questions, grade, subject,
+                   status, created_at, started_at, finished_at
+            FROM parties
+            WHERE status IN ('waiting', 'active', 'paused')
+            ORDER BY created_at DESC
+            LIMIT ? OFFSET ?
+            "#,
+        )
+        .bind(limit)
+        .bind(offset)
+        .fetch_all(&self.pool)
+        .await
+        .map_err(|e| RepositoryError::DatabaseError(e.to_string()))?;
+
+        Ok(rows
+            .into_iter()
+            .map(|(id_str, code, name, host_id_str, host_name, max_players, time_per_question, total_questions, grade, subject, status, created_at_str, started_at_str, finished_at_str)| {
+                Party {
+                    id: Uuid::parse_str(&id_str).unwrap_or_default(),
+                    code,
+                    name,
+                    host_id: Uuid::parse_str(&host_id_str).unwrap_or_default(),
+                    host_name,
+                    max_players,
+                    time_per_question,
+                    total_questions,
+                    grade,
+                    subject,
+                    status: match status.to_lowercase().as_str() {
+                        "active" => PartyStatus::Active,
+                        "paused" => PartyStatus::Paused,
+                        "finished" => PartyStatus::Finished,
+                        _ => PartyStatus::Waiting,
+                    },
+                    created_at: DateTime::parse_from_rfc3339(&created_at_str).map(|dt| dt.with_timezone(&Utc)).unwrap_or_else(|_| Utc::now()),
+                    started_at: started_at_str.as_ref().and_then(|s| DateTime::parse_from_rfc3339(s).ok().map(|dt| dt.with_timezone(&Utc))),
+                    finished_at: finished_at_str.as_ref().and_then(|s| DateTime::parse_from_rfc3339(s).ok().map(|dt| dt.with_timezone(&Utc))),
+                }
             })
-            .collect();
+            .collect())
+    }
 
-        Ok(parties)
+    async fn list_by_status(&self, status: &str, limit: i32, offset: i32) -> Result<Vec<Party>, RepositoryError> {
+        let rows = sqlx::query_as::<_, (String, String, String, String, String, i32, i32, i32, i32, String, String, String, Option<String>, Option<String>)>(
+            r#"
+            SELECT id, code, name, host_id, host_name, max_players,
+                   time_per_question, total_questions, grade, subject,
+                   status, created_at, started_at, finished_at
+            FROM parties
+            WHERE status = ?
+            ORDER BY created_at DESC
+            LIMIT ? OFFSET ?
+            "#,
+        )
+        .bind(status)
+        .bind(limit)
+        .bind(offset)
+        .fetch_all(&self.pool)
+        .await
+        .map_err(|e| RepositoryError::DatabaseError(e.to_string()))?;
+
+        Ok(rows
+            .into_iter()
+            .map(|(id_str, code, name, host_id_str, host_name, max_players, time_per_question, total_questions, grade, subject, status, created_at_str, started_at_str, finished_at_str)| {
+                Party {
+                    id: Uuid::parse_str(&id_str).unwrap_or_default(),
+                    code,
+                    name,
+                    host_id: Uuid::parse_str(&host_id_str).unwrap_or_default(),
+                    host_name,
+                    max_players,
+                    time_per_question,
+                    total_questions,
+                    grade,
+                    subject,
+                    status: match status.to_lowercase().as_str() {
+                        "active" => PartyStatus::Active,
+                        "paused" => PartyStatus::Paused,
+                        "finished" => PartyStatus::Finished,
+                        _ => PartyStatus::Waiting,
+                    },
+                    created_at: DateTime::parse_from_rfc3339(&created_at_str).map(|dt| dt.with_timezone(&Utc)).unwrap_or_else(|_| Utc::now()),
+                    started_at: started_at_str.as_ref().and_then(|s| DateTime::parse_from_rfc3339(s).ok().map(|dt| dt.with_timezone(&Utc))),
+                    finished_at: finished_at_str.as_ref().and_then(|s| DateTime::parse_from_rfc3339(s).ok().map(|dt| dt.with_timezone(&Utc))),
+                }
+            })
+            .collect())
+    }
+
+    async fn count(&self) -> Result<i64, RepositoryError> {
+        let (count,): (i64,) = sqlx::query_as("SELECT COUNT(*) FROM parties")
+            .fetch_one(&self.pool)
+            .await
+            .map_err(|e| RepositoryError::DatabaseError(e.to_string()))?;
+
+        Ok(count)
+    }
+
+    async fn count_by_status(&self, status: &str) -> Result<i64, RepositoryError> {
+        let (count,): (i64,) = sqlx::query_as("SELECT COUNT(*) FROM parties WHERE status = ?")
+            .bind(status)
+            .fetch_one(&self.pool)
+            .await
+            .map_err(|e| RepositoryError::DatabaseError(e.to_string()))?;
+
+        Ok(count)
     }
 }

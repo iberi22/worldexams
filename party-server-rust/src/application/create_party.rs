@@ -1,5 +1,5 @@
 use anyhow::Result;
-use uuid::Uuid;
+
 use crate::domain::entities::Party;
 use crate::domain::repositories::PartyRepository;
 

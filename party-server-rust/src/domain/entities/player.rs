@@ -12,6 +12,12 @@ pub struct Player {
     pub joined_at: DateTime<Utc>,
     pub left_screen_count: i32,
     pub last_activity_at: DateTime<Utc>,
+    pub score: i32,
+    pub correct_answers: i32,
+    pub total_answers: i32,
+    pub streak: i32,
+    pub best_streak: i32,
+    pub avg_response_time: f64,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
@@ -43,6 +49,12 @@ impl Player {
             joined_at: Utc::now(),
             left_screen_count: 0,
             last_activity_at: Utc::now(),
+            score: 0,
+            correct_answers: 0,
+            total_answers: 0,
+            streak: 0,
+            best_streak: 0,
+            avg_response_time: 0.0,
         }
     }
 

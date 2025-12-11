@@ -33,6 +33,9 @@ pub trait PlayerRepository: Send + Sync {
         limit: i32,
     ) -> Result<Vec<Player>, RepositoryError>;
 
+    /// Count players in a party
+    async fn count_by_party(&self, party_id: &Uuid) -> Result<i64, RepositoryError>;
+
     /// Record suspicious event for anti-cheat
     async fn record_suspicious_event(
         &self,
