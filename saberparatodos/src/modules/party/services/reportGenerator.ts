@@ -1,7 +1,7 @@
 /**
  * Report Generator Service
  * Genera reportes PDF/HTML con infografías usando Chart.js y jsPDF
- * 
+ *
  * TODO: Instalar dependencias:
  * npm install chart.js jspdf html2canvas
  */
@@ -138,7 +138,7 @@ class ReportGeneratorService {
           <div>
             <strong>${index === 0 ? '🥇' : index === 1 ? '🥈' : index === 2 ? '🥉' : `#${index + 1}`} ${player.playerName}</strong>
             <p style="font-size: 0.9rem; color: #64748b; margin-top: 0.25rem;">
-              ${player.correctAnswers}/${player.totalQuestions} correctas • 
+              ${player.correctAnswers}/${player.totalQuestions} correctas •
               Promedio: ${Math.round(player.averageTimePerQuestion / 1000)}s
               ${player.suspiciousEvents > 0 ? `<span style="color: #ef4444;">⚠️ ${player.suspiciousEvents} eventos sospechosos</span>` : ''}
             </p>

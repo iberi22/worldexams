@@ -2,8 +2,8 @@
 
 > Backend de alto rendimiento para el modo Party de Saber Para Todos.
 
-**Licencia:** AGPL-3.0  
-**Versión:** 1.0.0  
+**Licencia:** AGPL-3.0
+**Versión:** 1.0.0
 **Lenguaje:** Rust 1.75+
 
 ---
@@ -178,15 +178,15 @@ cargo watch -x run
 
 ### Protecciones Implementadas
 
-✅ **Prevención de SQL Injection**: SQLx con prepared statements  
-✅ **Password Hashing**: Argon2 (OWASP recomendado)  
-✅ **CORS**: Configurable por dominio  
-✅ **Rate Limiting**: Límite de requests por IP  
+✅ **Prevención de SQL Injection**: SQLx con prepared statements
+✅ **Password Hashing**: Argon2 (OWASP recomendado)
+✅ **CORS**: Configurable por dominio
+✅ **Rate Limiting**: Límite de requests por IP
 ✅ **Input Validation**: Serde deserialización segura
 
 ### Reportar Vulnerabilidades
 
-Si encuentras un problema de seguridad, **NO** abras un issue público.  
+Si encuentras un problema de seguridad, **NO** abras un issue público.
 Envía un email a: security@saberparatodos.com
 
 ---

@@ -2,8 +2,8 @@
 
 > Sistema de exámenes sincronizados en tiempo real para hasta 1000+ estudiantes simultáneos.
 
-**Versión:** 1.0.0  
-**Estado:** ✅ Implementación Fase 1 Completa  
+**Versión:** 1.0.0
+**Estado:** ✅ Implementación Fase 1 Completa
 **Fecha:** Diciembre 2025
 
 ---
@@ -28,11 +28,11 @@
 
 ### Características Principales
 
-✅ **Sincronización en Tiempo Real**: Todos los estudiantes ven la misma pregunta al mismo tiempo  
-✅ **Anti-Cheat Avanzado**: Detecta cuando un estudiante sale de la pantalla  
-✅ **Informes Detallados**: Reportes con infografías para cada estudiante  
-✅ **Modo Local**: Sin internet, usando WiFi/LAN local  
-✅ **Modo Cloud**: Servicio online con suscripción  
+✅ **Sincronización en Tiempo Real**: Todos los estudiantes ven la misma pregunta al mismo tiempo
+✅ **Anti-Cheat Avanzado**: Detecta cuando un estudiante sale de la pantalla
+✅ **Informes Detallados**: Reportes con infografías para cada estudiante
+✅ **Modo Local**: Sin internet, usando WiFi/LAN local
+✅ **Modo Cloud**: Servicio online con suscripción
 ✅ **Escalable**: 10-100 usuarios (navegador) o 1000+ (servidor dedicado)
 
 ---
@@ -141,15 +141,15 @@ curl -O https://releases.saberparatodos.com/party-server-v1.0.exe
 ```
 
 **Ventajas:**
-✅ Sin costo (100% gratuito)  
-✅ Sin internet requerido  
-✅ Baja latencia (<10ms)  
-✅ Privacidad total  
+✅ Sin costo (100% gratuito)
+✅ Sin internet requerido
+✅ Baja latencia (<10ms)
+✅ Privacidad total
 ✅ Ilimitados usuarios (según hardware)
 
 **Desventajas:**
-❌ Requiere setup técnico  
-❌ Solo funciona en red local  
+❌ Requiere setup técnico
+❌ Solo funciona en red local
 ❌ Si el Host cierra el programa, todo se detiene
 
 ---
@@ -177,14 +177,14 @@ curl -O https://releases.saberparatodos.com/party-server-v1.0.exe
 ```
 
 **Ventajas:**
-✅ Cero setup  
-✅ Funciona desde cualquier lugar  
-✅ Servidor dedicado (no depende del Host)  
+✅ Cero setup
+✅ Funciona desde cualquier lugar
+✅ Servidor dedicado (no depende del Host)
 ✅ Features premium (IA, analytics)
 
 **Desventajas:**
-❌ Requiere internet  
-❌ Mayor latencia (50-150ms)  
+❌ Requiere internet
+❌ Mayor latencia (50-150ms)
 ❌ Costo mensual
 
 ---
@@ -483,5 +483,5 @@ https://github.com/worldexams/saberparatodos/issues
 
 ---
 
-**Licencia:** AGPL-3.0 (Código Local) + MIT (Frontend)  
+**Licencia:** AGPL-3.0 (Código Local) + MIT (Frontend)
 **Copyright © 2025 Saber Para Todos**

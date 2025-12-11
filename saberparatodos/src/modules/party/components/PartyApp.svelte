@@ -1,6 +1,6 @@
 <script lang="ts">
   import { partyState } from '../stores/partyState.svelte';
-  import { rustBackend, detectBackendMode } from '$lib/rust-backend';
+  import { rustBackend, detectBackendMode } from '../../../lib/rust-backend';
   import PartyLobby from './PartyLobby.svelte';
   import HostControls from './HostControls.svelte';
   import PlayerView from './PlayerView.svelte';
@@ -80,6 +80,17 @@
   function handleGameFinish() {
     view = 'results';
   }
+
+  // Detectar cambios de estado del juego
+  $effect(() => {
+    console.log('[PartyApp] Game status:', partyState.gameState.status, 'View:', view);
+    if (partyState.gameState.status === 'active' && view !== 'game') {
+      view = 'game';
+    }
+    if (partyState.gameState.status === 'finished' && view !== 'results') {
+      view = 'results';
+    }
+  });
 </script>
 
 <div class="min-h-screen bg-gray-900 text-white">
@@ -134,7 +145,7 @@
           {#if backendMode === 'rust'}
             <p>✅ Servidor Rust detectado en <code>localhost:8080</code></p>
             <p>💡 Puedes tener hasta 1000+ participantes simultáneos</p>
-            <p>🚀 Latencia ultra-baja (<5ms en LAN)</p>
+            <p>🚀 Latencia ultra-baja (&lt;5ms en LAN)</p>
           {:else}
             <p>☁️ Usando Supabase Realtime</p>
             <p>📊 Límite: 200 conexiones concurrentes (Free Tier)</p>
@@ -269,7 +280,7 @@
     <PartyLobby onStartGame={handleGameStart} />
 
   {:else if view === 'game'}
-    {#if partyState.isHost()}
+    {#if partyState.isHost}
       <div class="container mx-auto px-4 py-6">
         <HostControls
           onNextQuestion={() => {}}
@@ -282,7 +293,7 @@
     {/if}
 
   {:else if view === 'results'}
-    <PartyResults />
+    <PartyResults results={partyState.results} />
   {/if}
 </div>
 

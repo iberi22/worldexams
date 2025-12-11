@@ -61,7 +61,7 @@ impl Party {
         use rand::Rng;
         const CHARSET: &[u8] = b"ABCDEFGHJKLMNPQRSTUVWXYZ23456789"; // Exclude ambiguous chars
         let mut rng = rand::thread_rng();
-        
+
         (0..6)
             .map(|_| {
                 let idx = rng.gen_range(0..CHARSET.len());
@@ -108,7 +108,7 @@ mod tests {
             11,
             "Matemáticas".to_string(),
         );
-        
+
         assert_eq!(party.code.len(), 6);
         assert!(party.code.chars().all(|c| c.is_ascii_alphanumeric()));
     }

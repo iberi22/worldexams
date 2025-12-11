@@ -1,12 +1,12 @@
 /**
  * Connection Service - Dual Mode
- * 
+ *
  * MODO SUPABASE (Default):
  *   - Usa Supabase Realtime Channels (WebSockets)
  *   - Soporta hasta 100 jugadores (Free Tier: 200 conexiones concurrentes)
  *   - Requiere internet
  *   - Latencia: ~50-150ms
- * 
+ *
  * MODO LOCAL (Experimental):
  *   - Requiere que el Host ejecute un servidor Node.js externo
  *   - Comando: `npx party-host-server --port 8080`
@@ -15,8 +15,8 @@
  *   - Soporta hasta 50-100 jugadores (depende del hardware del Host)
  */
 
-import { supabase } from '$lib/supabase';
-import { rustBackend, detectBackendMode } from '$lib/rust-backend';
+import { supabase } from '../../../lib/supabase';
+import { rustBackend, detectBackendMode } from '../../../lib/rust-backend';
 import type { RealtimeChannel } from '@supabase/supabase-js';
 import type { ConnectionMode, WSMessage, PartyConfig } from '../types';
 
@@ -140,7 +140,7 @@ class ConnectionService {
    */
   private async connectRustBackend(partyCode: string): Promise<void> {
     await rustBackend.connectToParty(partyCode);
-    
+
     rustBackend.onMessage((message) => {
       this.handleMessage(message);
     });

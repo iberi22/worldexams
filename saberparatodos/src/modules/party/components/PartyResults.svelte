@@ -9,8 +9,8 @@
   let { results }: Props = $props();
 
   let currentPlayer = $derived(partyState.currentPlayer);
-  let isHost = $derived(partyState.isHost());
-  
+  let isHost = $derived(partyState.isHost);
+
   let myStats = $derived(
     results?.playerStats.find((s) => s.playerId === currentPlayer?.id)
   );
@@ -195,6 +195,33 @@
             <p class="text-sm text-gray-400">Tiempo Prom.</p>
             <p class="text-3xl font-bold text-purple-400">{Math.round(results.averageTime / 1000)}s</p>
           </div>
+        </div>
+
+        <!-- AI Analysis -->
+        <div class="bg-gray-700/50 rounded-lg p-6 mb-6 border border-purple-500/30">
+          <h4 class="text-xl font-bold mb-4 flex items-center gap-2">
+            🤖 Análisis de IA
+            <span class="text-xs bg-purple-600 px-2 py-1 rounded text-white">PREMIUM</span>
+          </h4>
+          
+          {#if partyState.aiAnalysis}
+            <div class="prose prose-invert max-w-none">
+              <p class="whitespace-pre-wrap text-gray-300">{partyState.aiAnalysis}</p>
+            </div>
+          {:else}
+            <div class="text-center py-4">
+              <p class="text-gray-400 mb-4">
+                Obtén un análisis pedagógico detallado del desempeño del grupo, 
+                identificando fortalezas y áreas de mejora.
+              </p>
+              <button
+                onclick={() => partyState.requestAIAnalysis()}
+                class="px-6 py-3 bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 rounded-lg font-bold transition-all shadow-lg hover:shadow-purple-500/25"
+              >
+                ✨ Generar Análisis con IA (1 Crédito)
+              </button>
+            </div>
+          {/if}
         </div>
 
         <!-- Download Full Report Button -->

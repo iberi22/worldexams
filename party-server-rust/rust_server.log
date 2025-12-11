@@ -1,0 +1,42 @@
+[2m2025-12-11T18:59:15.724241Z[0m [32m INFO[0m 🚀 Party Server starting...
+[2m2025-12-11T18:59:15.727632Z[0m [32m INFO[0m 📡 Server will run on 0.0.0.0:8080
+[2m2025-12-11T18:59:15.729810Z[0m [32m INFO[0m 📊 Database URL: sqlite://E:\scripts-python\worldexams\party-server-rust\data\parties.db
+[2m2025-12-11T18:59:15.755741Z[0m [32m INFO[0m ✅ Database initialized
+[2m2025-12-11T18:59:15.765467Z[0m [32m INFO[0m ✅ Migrations complete
+[2m2025-12-11T18:59:15.769771Z[0m [32m INFO[0m ✅ Application state initialized
+[2m2025-12-11T18:59:15.772881Z[0m [32m INFO[0m 🎮 Party Server ready at http://0.0.0.0:8080
+[2m2025-12-11T18:59:15.776556Z[0m [32m INFO[0m 📖 API Documentation:
+[2m2025-12-11T18:59:15.779113Z[0m [32m INFO[0m    GET  /health
+[2m2025-12-11T18:59:15.779520Z[0m [32m INFO[0m    POST /api/parties
+[2m2025-12-11T18:59:15.779744Z[0m [32m INFO[0m    GET  /api/parties/:code
+[2m2025-12-11T18:59:15.779925Z[0m [32m INFO[0m    POST /api/parties/:code/join
+[2m2025-12-11T18:59:15.780090Z[0m [32m INFO[0m    GET  /api/parties/:code/players
+[2m2025-12-11T18:59:15.780278Z[0m [32m INFO[0m    WS   /ws/:party_code
+[2m2025-12-11T18:59:15.793013Z[0m [32m INFO[0m starting 12 workers
+[2m2025-12-11T18:59:15.793373Z[0m [32m INFO[0m Actix runtime found; starting in Actix runtime
+[2m2025-12-11T18:59:15.793573Z[0m [32m INFO[0m starting service: "actix-web-service-0.0.0.0:8080", workers: 12, listening on: 0.0.0.0:8080
+[2m2025-12-11T18:59:49.110129Z[0m [32m INFO[0m 127.0.0.1 "GET /health HTTP/1.1" 200 88 "http://localhost:4321/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.4 Safari/537.36" 0.000571
+[2m2025-12-11T18:59:51.697798Z[0m [32m INFO[0m 🔌 WebSocket connection opened for party 4PL7G4
+[2m2025-12-11T18:59:51.698146Z[0m [32m INFO[0m 🎮 Party room created: 4PL7G4
+[2m2025-12-11T18:59:51.699544Z[0m [31mERROR[0m Failed to parse WebSocket message: missing field `player_id`
+[2m2025-12-11T18:59:52.257017Z[0m [32m INFO[0m 127.0.0.1 "GET /health HTTP/1.1" 200 88 "http://localhost:4321/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.4 Safari/537.36" 0.000216
+[2m2025-12-11T18:59:54.631286Z[0m [32m INFO[0m 🔌 WebSocket connection opened for party 4PL7G4
+[2m2025-12-11T18:59:54.633369Z[0m [31mERROR[0m Failed to parse WebSocket message: missing field `player_id`
+[2m2025-12-11T18:59:55.214633Z[0m [32m INFO[0m 127.0.0.1 "GET /health HTTP/1.1" 200 88 "http://localhost:4321/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.4 Safari/537.36" 0.000194
+[2m2025-12-11T18:59:57.456806Z[0m [32m INFO[0m 🔌 WebSocket connection opened for party 4PL7G4
+[2m2025-12-11T18:59:57.458894Z[0m [31mERROR[0m Failed to parse WebSocket message: missing field `player_id`
+[2m2025-12-11T18:59:58.006758Z[0m [32m INFO[0m 127.0.0.1 "GET /health HTTP/1.1" 200 88 "http://localhost:4321/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.4 Safari/537.36" 0.000315
+[2m2025-12-11T19:00:00.506496Z[0m [32m INFO[0m 🔌 WebSocket connection opened for party 4PL7G4
+[2m2025-12-11T19:00:00.509112Z[0m [31mERROR[0m Failed to parse WebSocket message: missing field `player_id`
+[2m2025-12-11T19:00:05.706771Z[0m [32m INFO[0m Client closed connection: Some(CloseReason { code: Away, description: None })
+[2m2025-12-11T19:00:05.707779Z[0m [32m INFO[0m 🔌 WebSocket connection closed for party 4PL7G4
+[2m2025-12-11T19:00:05.708144Z[0m [32m INFO[0m 127.0.0.1 "GET /ws/4PL7G4 HTTP/1.1" 101 17 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.4 Safari/537.36" 14.010507
+[2m2025-12-11T19:00:05.718986Z[0m [32m INFO[0m Client closed connection: Some(CloseReason { code: Away, description: None })
+[2m2025-12-11T19:00:05.719446Z[0m [32m INFO[0m 🔌 WebSocket connection closed for party 4PL7G4
+[2m2025-12-11T19:00:05.719755Z[0m [32m INFO[0m 127.0.0.1 "GET /ws/4PL7G4 HTTP/1.1" 101 17 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.4 Safari/537.36" 11.088531
+[2m2025-12-11T19:00:05.733622Z[0m [32m INFO[0m Client closed connection: Some(CloseReason { code: Away, description: None })
+[2m2025-12-11T19:00:05.733898Z[0m [32m INFO[0m 🔌 WebSocket connection closed for party 4PL7G4
+[2m2025-12-11T19:00:05.734083Z[0m [32m INFO[0m 127.0.0.1 "GET /ws/4PL7G4 HTTP/1.1" 101 17 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.4 Safari/537.36" 8.277391
+[2m2025-12-11T19:00:05.750046Z[0m [32m INFO[0m Client closed connection: Some(CloseReason { code: Away, description: None })
+[2m2025-12-11T19:00:05.750363Z[0m [32m INFO[0m 🔌 WebSocket connection closed for party 4PL7G4
+[2m2025-12-11T19:00:05.750551Z[0m [32m INFO[0m 127.0.0.1 "GET /ws/4PL7G4 HTTP/1.1" 101 17 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.4 Safari/537.36" 5.244157

@@ -8,24 +8,59 @@ use uuid::Uuid;
 use tracing::{info, warn, error};
 use crate::domain::repositories::PartyRepository;
 
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct QuestionInfo {
+    pub id: String,
+    pub enunciado: String,
+    pub opciones: Vec<OptionInfo>,
+    pub explicacion: String,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct OptionInfo {
+    pub id: String,
+    pub texto: String,
+    pub es_correcta: bool,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct QuestionContent {
+    pub id: String,
+    pub enunciado: String,
+    pub opciones: Vec<OptionContent>,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct OptionContent {
+    pub id: String,
+    pub texto: String,
+}
+
 /// WebSocket message types
 #[derive(Debug, Clone, Serialize, Deserialize)]
-#[serde(tag = "type")]
+#[serde(tag = "type", rename_all = "snake_case")]
 pub enum WSMessage {
     // Client -> Server
     PlayerJoined { player_id: String, player_name: String },
     QuestionAnswered { player_id: String, question_id: String, answer: String, time_ms: u64 },
     PlayerReady { player_id: String },
     SuspiciousActivity { player_id: String, event_type: String, timestamp: i64 },
+    StartGame { questions: Vec<QuestionInfo> },
+    FinishGame,
+    #[serde(rename = "request_ai_analysis")]
+    RequestAIAnalysis,
 
     // Server -> Client
-    GameStarted { question_ids: Vec<String>, time_per_question: u32 },
+    GameStarted { questions: Vec<QuestionContent>, time_per_question: u32 },
     QuestionChanged { question_index: u32, question_id: String },
     GamePaused,
     GameResumed,
     GameFinished { results: Vec<PlayerResult> },
     PlayerListUpdate { players: Vec<PlayerInfo> },
     SuspiciousActivityNotification { player_id: String, event_type: String },
+    #[serde(rename = "ai_analysis_result")]
+    AIAnalysisResult { analysis: String },
+    PlayerAnswered { player_id: String, question_id: String },
 
     // Bidirectional
     Ping,
@@ -50,6 +85,14 @@ pub struct PlayerInfo {
     pub is_host: bool,
 }
 
+#[derive(Debug, Clone)]
+pub struct AnswerRecord {
+    pub question_id: String,
+    pub answer: String,
+    pub time_ms: u64,
+    pub is_correct: bool,
+}
+
 /// WebSocket actor for a single player connection
 pub struct PartyConnection {
     pub party_code: String,
@@ -62,14 +105,14 @@ impl Actor for PartyConnection {
 
     fn started(&mut self, ctx: &mut Self::Context) {
         info!("🔌 WebSocket connection opened for party {}", self.party_code);
-        
+
         // Send welcome message
         ctx.text(serde_json::to_string(&WSMessage::Pong).unwrap());
     }
 
     fn stopped(&mut self, _ctx: &mut Self::Context) {
         info!("🔌 WebSocket connection closed for party {}", self.party_code);
-        
+
         // Notify room about disconnection
         if let Some(player_id) = self.player_id {
             self.room.do_send(Disconnect { player_id });
@@ -82,6 +125,7 @@ impl StreamHandler<Result<ws::Message, ws::ProtocolError>> for PartyConnection {
     fn handle(&mut self, msg: Result<ws::Message, ws::ProtocolError>, ctx: &mut Self::Context) {
         match msg {
             Ok(ws::Message::Text(text)) => {
+                info!("Received message: {}", text);
                 // Parse incoming message
                 match serde_json::from_str::<WSMessage>(&text) {
                     Ok(ws_msg) => {
@@ -125,6 +169,21 @@ impl StreamHandler<Result<ws::Message, ws::ProtocolError>> for PartyConnection {
                                     });
                                 }
                             }
+                            WSMessage::StartGame { questions } => {
+                                self.room.do_send(StartGameMessage {
+                                    questions,
+                                });
+                            }
+                            WSMessage::FinishGame => {
+                                self.room.do_send(FinishGameMessage);
+                            }
+                            WSMessage::RequestAIAnalysis => {
+                                if let Some(player_id) = self.player_id {
+                                    self.room.do_send(RequestAIAnalysisMessage {
+                                        player_id,
+                                    });
+                                }
+                            }
                             _ => {
                                 warn!("Unexpected client message: {:?}", ws_msg);
                             }
@@ -163,7 +222,10 @@ impl StreamHandler<Result<ws::Message, ws::ProtocolError>> for PartyConnection {
 pub struct PartyRoom {
     pub party_code: String,
     pub connections: HashMap<Uuid, Addr<PartyConnection>>,
+    pub players: HashMap<Uuid, String>,
     pub party_repo: Arc<dyn PartyRepository>,
+    pub questions: Vec<QuestionInfo>,
+    pub answers: HashMap<Uuid, Vec<AnswerRecord>>,
 }
 
 impl PartyRoom {
@@ -171,7 +233,10 @@ impl PartyRoom {
         Self {
             party_code,
             connections: HashMap::new(),
+            players: HashMap::new(),
             party_repo,
+            questions: Vec::new(),
+            answers: HashMap::new(),
         }
     }
 
@@ -247,6 +312,22 @@ pub struct SuspiciousActivityMessage {
 
 #[derive(ActixMessage)]
 #[rtype(result = "()")]
+pub struct StartGameMessage {
+    pub questions: Vec<QuestionInfo>,
+}
+
+#[derive(ActixMessage)]
+#[rtype(result = "()")]
+pub struct RequestAIAnalysisMessage {
+    pub player_id: Uuid,
+}
+
+#[derive(ActixMessage)]
+#[rtype(result = "()")]
+pub struct FinishGameMessage;
+
+#[derive(ActixMessage)]
+#[rtype(result = "()")]
 pub struct SendMessage(pub String);
 
 // ===== Message Handlers =====
@@ -256,16 +337,17 @@ impl Handler<PlayerJoinedMessage> for PartyRoom {
 
     fn handle(&mut self, msg: PlayerJoinedMessage, _ctx: &mut Self::Context) {
         info!("Player {} joined party {}", msg.player_name, self.party_code);
-        
+
         // Add connection to room
         self.connections.insert(msg.player_id, msg.addr);
+        self.players.insert(msg.player_id, msg.player_name.clone());
 
         // Broadcast player list update
         let players: Vec<PlayerInfo> = self.connections
             .keys()
             .map(|id| PlayerInfo {
                 id: id.to_string(),
-                name: msg.player_name.clone(), // TODO: Get from DB
+                name: self.players.get(id).cloned().unwrap_or_else(|| "Unknown".to_string()),
                 is_ready: false,
                 is_host: false,
             })
@@ -280,22 +362,47 @@ impl Handler<Disconnect> for PartyRoom {
 
     fn handle(&mut self, msg: Disconnect, _ctx: &mut Self::Context) {
         info!("Player {} disconnected from party {}", msg.player_id, self.party_code);
-        
+
         // Remove connection
         self.connections.remove(&msg.player_id);
+        self.players.remove(&msg.player_id);
 
         // Broadcast updated player list
         let players: Vec<PlayerInfo> = self.connections
             .keys()
             .map(|id| PlayerInfo {
                 id: id.to_string(),
-                name: "Player".to_string(), // TODO: Get from DB
+                name: self.players.get(id).cloned().unwrap_or_else(|| "Unknown".to_string()),
                 is_ready: false,
                 is_host: false,
             })
             .collect();
 
         self.broadcast(&WSMessage::PlayerListUpdate { players }, None);
+    }
+}
+
+impl Handler<StartGameMessage> for PartyRoom {
+    type Result = ();
+
+    fn handle(&mut self, msg: StartGameMessage, _ctx: &mut Self::Context) {
+        info!("Starting game for party {} with {} questions", self.party_code, msg.questions.len());
+
+        self.questions = msg.questions.clone();
+        
+        let questions_content: Vec<QuestionContent> = self.questions.iter().map(|q| QuestionContent {
+            id: q.id.clone(),
+            enunciado: q.enunciado.clone(),
+            opciones: q.opciones.iter().map(|o| OptionContent {
+                id: o.id.clone(),
+                texto: o.texto.clone(),
+            }).collect(),
+        }).collect();
+
+        self.broadcast(&WSMessage::GameStarted { 
+            questions: questions_content, 
+            time_per_question: 60 // Default or from party config?
+        }, None);
     }
 }
 
@@ -307,10 +414,68 @@ impl Handler<AnswerSubmitted> for PartyRoom {
             "Player {} answered question {} in party {}",
             msg.player_id, msg.question_id, self.party_code
         );
-        
-        // TODO: Save answer to database
-        // TODO: Calculate score
-        // TODO: Broadcast progress to host
+
+        // Find correct answer
+        let is_correct = self.questions.iter()
+            .find(|q| q.id == msg.question_id)
+            .map(|q| {
+                q.opciones.iter()
+                    .find(|o| o.id == msg.answer)
+                    .map(|o| o.es_correcta)
+                    .unwrap_or(false)
+            })
+            .unwrap_or(false);
+
+        let record = AnswerRecord {
+            question_id: msg.question_id.clone(),
+            answer: msg.answer,
+            time_ms: msg.time_ms,
+            is_correct,
+        };
+
+        self.answers.entry(msg.player_id)
+            .or_insert_with(Vec::new)
+            .push(record);
+
+        // Notify everyone (or just host?) that player answered
+        self.broadcast(&WSMessage::PlayerAnswered {
+            player_id: msg.player_id.to_string(),
+            question_id: msg.question_id,
+        }, None);
+    }
+}
+
+impl Handler<FinishGameMessage> for PartyRoom {
+    type Result = ();
+
+    fn handle(&mut self, _msg: FinishGameMessage, _ctx: &mut Self::Context) {
+        info!("Finishing game for party {}", self.party_code);
+
+        let mut results = Vec::new();
+
+        for (player_id, player_name) in &self.players {
+            let player_answers = self.answers.get(player_id).cloned().unwrap_or_default();
+            let total_questions = self.questions.len() as u32;
+            let correct_answers = player_answers.iter().filter(|a| a.is_correct).count() as u32;
+            let score = correct_answers * 100; // Simple scoring
+            let total_time: u64 = player_answers.iter().map(|a| a.time_ms).sum();
+            let average_time_ms = if !player_answers.is_empty() {
+                total_time / player_answers.len() as u64
+            } else {
+                0
+            };
+
+            results.push(PlayerResult {
+                player_id: player_id.to_string(),
+                player_name: player_name.clone(),
+                score,
+                correct_answers,
+                total_questions,
+                average_time_ms,
+            });
+        }
+
+        self.broadcast(&WSMessage::GameFinished { results }, None);
     }
 }
 
@@ -319,9 +484,22 @@ impl Handler<PlayerReadyMessage> for PartyRoom {
 
     fn handle(&mut self, msg: PlayerReadyMessage, _ctx: &mut Self::Context) {
         info!("Player {} is ready in party {}", msg.player_id, self.party_code);
-        
+
         // TODO: Check if all players are ready
         // TODO: If yes, broadcast GameStarted
+    }
+}
+
+impl Handler<RequestAIAnalysisMessage> for PartyRoom {
+    type Result = ();
+
+    fn handle(&mut self, _msg: RequestAIAnalysisMessage, _ctx: &mut Self::Context) {
+        info!("Generating AI analysis for party {}", self.party_code);
+
+        // Mock AI Analysis for now
+        let analysis = "Análisis de IA Generado:\n\n1. Rendimiento General: El grupo mostró un buen desempeño en álgebra básica.\n2. Áreas de Mejora: Se observaron dificultades en preguntas de geometría.\n3. Recomendación: Reforzar conceptos de cálculo de áreas y volúmenes.".to_string();
+
+        self.broadcast(&WSMessage::AIAnalysisResult { analysis }, None);
     }
 }
 
@@ -333,7 +511,7 @@ impl Handler<SuspiciousActivityMessage> for PartyRoom {
             "⚠️ Suspicious activity detected: Player {} - {} in party {}",
             msg.player_id, msg.event_type, self.party_code
         );
-        
+
         // Notify host about suspicious activity
         self.broadcast(
             &WSMessage::SuspiciousActivityNotification {
@@ -374,7 +552,7 @@ impl RoomManager {
         party_repo: Arc<dyn PartyRepository>,
     ) -> Addr<PartyRoom> {
         let mut rooms = self.rooms.write().await;
-        
+
         if let Some(room) = rooms.get(&party_code) {
             room.clone()
         } else {

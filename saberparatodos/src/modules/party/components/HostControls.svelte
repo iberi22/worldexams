@@ -18,7 +18,7 @@
   // Estadísticas en tiempo real
   let currentQuestionAnswers = $derived(
     answers.filter(
-      (a) => a.questionId === `question-${gameState.currentQuestionIndex}`
+      (a) => a.questionId === partyState.currentQuestion?.id
     )
   );
   let answersReceived = $derived(currentQuestionAnswers.length);

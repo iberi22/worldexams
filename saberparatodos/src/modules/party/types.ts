@@ -5,6 +5,29 @@
 
 export type ConnectionMode = 'supabase' | 'local';
 
+export type SubscriptionPlan = 'free' | 'pro' | 'institutional';
+
+export const PLAN_LIMITS = {
+  free: {
+    maxPlayers: 10,
+    examsPerWeek: 1,
+    allowAiAnalysis: false,
+    allowExportPdf: false,
+  },
+  pro: {
+    maxPlayers: 100,
+    examsPerWeek: 50,
+    allowAiAnalysis: true,
+    allowExportPdf: true,
+  },
+  institutional: {
+    maxPlayers: 1000,
+    examsPerWeek: Infinity,
+    allowAiAnalysis: true,
+    allowExportPdf: true,
+  },
+};
+
 export type PartyRole = 'host' | 'player';
 
 export type PartyStatus = 'waiting' | 'active' | 'paused' | 'finished';
@@ -94,8 +117,9 @@ export interface QuestionStats {
 
 // WebSocket Messages
 export type WSMessage =
-  | { type: 'player_joined'; player: Player }
+  | { type: 'player_joined'; player_id: string; player_name: string; player?: Player }
   | { type: 'player_left'; playerId: string }
+  | { type: 'player_list_update'; players: Partial<Player>[] }
   | { type: 'game_started'; startedAt: Date }
   | { type: 'next_question'; questionIndex: number }
   | { type: 'game_paused'; pausedAt: Date }

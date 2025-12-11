@@ -5,6 +5,7 @@ use chrono::{DateTime, Utc};
 use crate::domain::entities::party::{Party, PartyStatus};
 use crate::domain::repositories::party_repository::{PartyRepository, RepositoryError};
 
+#[derive(Clone)]
 pub struct SqlitePartyRepository {
     pool: SqlitePool,
 }

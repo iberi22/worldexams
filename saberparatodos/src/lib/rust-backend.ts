@@ -81,7 +81,7 @@ class RustBackendClient {
   async connectToParty(code: string): Promise<void> {
     return new Promise((resolve, reject) => {
       const wsUrl = `${this.getWsUrl()}/ws/${code}`;
-      
+
       this.ws = new WebSocket(wsUrl);
 
       this.ws.onopen = () => {
@@ -165,7 +165,7 @@ class RustBackendClient {
     totalPlayers: number;
   }> {
     const response = await fetch(`${this.getHttpUrl()}/api/stats`);
-    
+
     if (!response.ok) {
       throw new Error('Failed to fetch server stats');
     }
@@ -230,7 +230,7 @@ export const rustBackend = new RustBackendClient();
 // Auto-detect if Rust server is available
 export async function detectBackendMode(): Promise<'rust' | 'supabase'> {
   const isRustAvailable = await rustBackend.healthCheck();
-  
+
   if (isRustAvailable) {
     console.log('[Backend] Rust server detected, using local mode');
     return 'rust';

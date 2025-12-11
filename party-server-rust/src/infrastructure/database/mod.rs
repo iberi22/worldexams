@@ -15,17 +15,17 @@ pub async fn init_pool(database_url: &str) -> Result<SqlitePool> {
     } else {
         database_url
     };
-    
+
     // Create parent directory if it doesn't exist
     if let Some(parent) = Path::new(db_path).parent() {
         std::fs::create_dir_all(parent)?;
     }
-    
+
     // Ensure database file exists
     if !Path::new(db_path).exists() {
         std::fs::File::create(db_path)?;
     }
-    
+
     let pool = SqlitePoolOptions::new()
         .max_connections(5)
         .connect(database_url)

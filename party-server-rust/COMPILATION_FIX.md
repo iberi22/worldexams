@@ -239,6 +239,6 @@ Una vez compilado, el servidor debería funcionar perfectamente en producción.
 
 ---
 
-**Última actualización:** 2025-12-01  
-**Autor:** AI-WorldExams  
+**Última actualización:** 2025-12-01
+**Autor:** AI-WorldExams
 **Estado:** Compilación bloqueada por Windows file locks (solución documentada)

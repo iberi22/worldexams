@@ -1,0 +1,40 @@
+name: Build Party Server
+
+on:
+  push:
+    branches: [ "main" ]
+    paths:
+      - 'party-server-rust/**'
+  pull_request:
+    branches: [ "main" ]
+    paths:
+      - 'party-server-rust/**'
+  workflow_dispatch:
+
+env:
+  CARGO_TERM_COLOR: always
+
+jobs:
+  build:
+    name: Build Windows Executable
+    runs-on: windows-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Rust
+      uses: actions-rs/toolchain@v1
+      with:
+        toolchain: stable
+        override: true
+
+    - name: Build Release
+      working-directory: ./party-server-rust
+      run: cargo build --release
+
+    - name: Upload Artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: party-server-windows
+        path: party-server-rust/target/release/party-server.exe
+        if-no-files-found: error

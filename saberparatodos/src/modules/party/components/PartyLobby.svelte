@@ -11,7 +11,7 @@
   // Reactivity usando Svelte 5 Runes
   let players = $derived(partyState.players);
   let config = $derived(partyState.config);
-  let isHost = $derived(partyState.isHost());
+  let isHost = $derived(partyState.isHost);
   let playersOnline = $derived(partyState.playersOnline);
 
   function handleStartGame() {
@@ -41,7 +41,7 @@
         <h1 class="text-3xl font-bold mb-2">{config?.name || 'Party'}</h1>
         <p class="text-gray-400">Código: <span class="text-yellow-400 font-mono text-xl">{config?.id}</span></p>
       </div>
-      
+
       {#if isHost}
         <div class="flex gap-3">
           <button
@@ -87,6 +87,12 @@
           Participantes ({playersOnline}/{config?.maxPlayers})
         </h2>
         <div class="flex items-center gap-2">
+          {#if partyState.currentPlan === 'free' && playersOnline >= 10}
+            <span class="text-red-400 text-sm font-bold">Límite alcanzado (Plan Gratuito)</span>
+            <button class="text-xs bg-yellow-500 text-black px-2 py-1 rounded hover:bg-yellow-400">
+              Mejorar a Pro
+            </button>
+          {/if}
           <span class="w-3 h-3 bg-green-500 rounded-full animate-pulse"></span>
           <span class="text-green-400 text-sm">{playersOnline} en línea</span>
         </div>

@@ -14,12 +14,15 @@ import type {
   WSMessage,
   SuspiciousEvent,
   PartyResults,
+  SubscriptionPlan,
 } from '../types';
+import { PLAN_LIMITS } from '../types';
 
 class PartyState {
   // State primitivo
   config = $state<PartyConfig | null>(null);
   role = $state<PartyRole>('player');
+  currentPlan = $state<SubscriptionPlan>('free'); // Default to free
   currentPlayer = $state<Player | null>(null);
   players = $state<Player[]>([]);
   gameState = $state<GameState>({
@@ -29,18 +32,21 @@ class PartyState {
   });
   answers = $state<PlayerAnswer[]>([]);
   connectionStatus = $state<'connected' | 'connecting' | 'disconnected'>('disconnected');
+  aiAnalysis = $state<string | null>(null);
+  results = $state<PartyResults | null>(null);
+  questions = $state<any[]>([]);
 
   // Derived state
-  isHost = $derived(() => this.role === 'host');
-  isGameActive = $derived(() => this.gameState.status === 'active');
-  currentQuestion = $derived(() => {
-    // TODO: Obtener pregunta actual del banco según gameState.currentQuestionIndex
-    return null;
-  });
-  playersOnline = $derived(() => this.players.filter((p) => p.isOnline).length);
-  playersWithSuspiciousActivity = $derived(() =>
-    this.players.filter((p) => p.suspiciousActivity.length > 0)
-  );
+  get isHost() { return this.role === 'host'; }
+  get isGameActive() { return this.gameState.status === 'active'; }
+  get currentQuestion() {
+    if (this.questions.length === 0) return null;
+    return this.questions[this.gameState.currentQuestionIndex];
+  }
+  get playersOnline() { return this.players.filter((p) => p.isOnline).length; }
+  get playersWithSuspiciousActivity() {
+    return this.players.filter((p) => p.suspiciousActivity.length > 0);
+  }
 
   /**
    * Crea una nueva party (solo Host)
@@ -52,6 +58,20 @@ class PartyState {
     asignatura: string,
     config: Partial<PartyConfig> = {}
   ): Promise<string> {
+    // 1. Check Plan Limits
+    const limits = PLAN_LIMITS[this.currentPlan];
+    
+    // Check exams per week (Simple LocalStorage check for MVP)
+    if (this.currentPlan === 'free') {
+      const lastExam = localStorage.getItem('last_exam_date');
+      if (lastExam) {
+        const daysSince = (new Date().getTime() - new Date(lastExam).getTime()) / (1000 * 3600 * 24);
+        if (daysSince < 7) {
+          throw new Error('PLAN_LIMIT_REACHED: Solo puedes crear 1 examen por semana en el plan gratuito.');
+        }
+      }
+    }
+
     const partyId = this.generatePartyId();
 
     this.config = {
@@ -59,7 +79,7 @@ class PartyState {
       name: partyName,
       hostId: crypto.randomUUID(),
       hostName,
-      maxPlayers: config.maxPlayers || 100,
+      maxPlayers: limits.maxPlayers, // Enforce limit
       timePerQuestion: config.timePerQuestion || 60,
       totalQuestions: config.totalQuestions || 20,
       grado,
@@ -67,6 +87,11 @@ class PartyState {
       connectionMode: config.connectionMode || 'supabase',
       createdAt: new Date(),
     };
+
+    // Record exam creation
+    if (this.currentPlan === 'free') {
+      localStorage.setItem('last_exam_date', new Date().toISOString());
+    }
 
     this.role = 'host';
     this.currentPlayer = {
@@ -82,12 +107,33 @@ class PartyState {
 
     this.players = [this.currentPlayer];
 
+    // Generate mock questions for now
+    this.questions = Array.from({ length: this.config.totalQuestions }, (_, i) => ({
+      id: `q-${i + 1}`,
+      enunciado: `Pregunta ${i + 1} de ${asignatura}`,
+      opciones: [
+        { id: 'A', texto: 'Opción A', es_correcta: true },
+        { id: 'B', texto: 'Opción B', es_correcta: false },
+        { id: 'C', texto: 'Opción C', es_correcta: false },
+        { id: 'D', texto: 'Opción D', es_correcta: false },
+      ],
+      explicacion: 'Explicación de la respuesta correcta',
+    }));
+
     // Conectar al servicio
     await connectionService.connect(this.config);
     this.connectionStatus = 'connected';
 
     // Escuchar mensajes
     connectionService.onMessage(this.handleMessage.bind(this));
+
+    // Registrar al Host en el servidor
+    connectionService.broadcast({
+      type: 'player_joined',
+      player_id: this.currentPlayer!.id,
+      player_name: this.currentPlayer!.name,
+      player: this.currentPlayer!,
+    });
 
     console.log('[Party] Party creada:', partyId);
     return partyId;
@@ -121,7 +167,9 @@ class PartyState {
     // Notificar al Host que me uní
     connectionService.broadcast({
       type: 'player_joined',
-      player: this.currentPlayer,
+      player_id: this.currentPlayer!.id,
+      player_name: this.currentPlayer!.name,
+      player: this.currentPlayer!,
     });
 
     // Iniciar anti-cheat
@@ -157,29 +205,25 @@ class PartyState {
   /**
    * Inicia el juego (solo Host)
    */
-  startGame(): void {
-    if (!this.isHost()) return;
-
-    this.gameState = {
-      status: 'active',
-      currentQuestionIndex: 0,
-      startedAt: new Date(),
-      timeRemaining: this.config!.timePerQuestion,
-    };
-
+  async startGame() {
+    if (!this.isHost) return;
+    
+    console.log('[Party] Iniciando juego...');
+    
+    // Send start command to server with questions
     connectionService.broadcast({
-      type: 'game_started',
-      startedAt: this.gameState.startedAt!,
+      type: 'start_game',
+      party_code: this.partyCode,
+      player_id: this.playerId,
+      questions: this.questions
     });
-
-    this.startQuestionTimer();
   }
 
   /**
    * Avanza a la siguiente pregunta (solo Host)
    */
   nextQuestion(): void {
-    if (!this.isHost()) return;
+    if (!this.isHost) return;
 
     const nextIndex = this.gameState.currentQuestionIndex + 1;
 
@@ -195,15 +239,13 @@ class PartyState {
       type: 'next_question',
       questionIndex: nextIndex,
     });
-
-    this.startQuestionTimer();
   }
 
   /**
    * Pausa el juego (solo Host)
    */
   pauseGame(): void {
-    if (!this.isHost()) return;
+    if (!this.isHost) return;
 
     this.gameState.status = 'paused';
     this.gameState.pausedAt = new Date();
@@ -218,42 +260,41 @@ class PartyState {
    * Finaliza el juego (solo Host)
    */
   finishGame(): void {
-    if (!this.isHost()) return;
-
-    this.gameState.status = 'finished';
-    this.gameState.finishedAt = new Date();
-
-    const results = this.generateResults();
+    if (!this.isHost) return;
 
     connectionService.broadcast({
-      type: 'game_finished',
-      results,
+      type: 'finish_game',
+    });
+  }
+
+  /**
+   * Solicita análisis de IA
+   */
+  requestAIAnalysis(): void {
+    const limits = PLAN_LIMITS[this.currentPlan];
+    if (!limits.allowAiAnalysis) {
+      alert('Esta función requiere el Plan Pro o Institucional.');
+      return;
+    }
+
+    connectionService.broadcast({
+      type: 'request_ai_analysis',
     });
   }
 
   /**
    * Envía una respuesta (Player)
    */
-  submitAnswer(questionId: string, answer: string, isCorrect: boolean, timeSpent: number): void {
+  submitAnswer(questionId: string, answer: string, timeSpent: number): void {
     if (!this.currentPlayer) return;
 
-    const playerAnswer: PlayerAnswer = {
-      playerId: this.currentPlayer.id,
-      questionId,
-      answer,
-      isCorrect,
-      timeSpent,
-      timestamp: new Date(),
-    };
-
-    this.answers.push(playerAnswer);
-
     connectionService.broadcast({
-      type: 'player_answer',
-      answer: playerAnswer,
+      type: 'question_answered',
+      player_id: this.currentPlayer.id,
+      question_id: questionId,
+      answer,
+      time_ms: timeSpent * 1000,
     });
-
-    antiCheatService.recordActivity();
   }
 
   /**
@@ -261,19 +302,51 @@ class PartyState {
    */
   private handleMessage(message: WSMessage): void {
     switch (message.type) {
-      case 'player_joined':
-        if (!this.players.find((p) => p.id === message.player.id)) {
-          this.players.push(message.player);
+      case 'player_list_update':
+        this.players = message.players.map((p: any) => {
+          const existing = this.players.find((ep) => ep.id === p.id);
+          if (existing) {
+            return { ...existing, ...p, isOnline: true };
+          }
+          return {
+            id: p.id,
+            name: p.name,
+            isOnline: true,
+            isHost: p.isHost || false,
+            joinedAt: new Date(),
+            leftScreenCount: 0,
+            lastActivityAt: new Date(),
+            suspiciousActivity: [],
+          };
+        });
+        break;
+
+      case 'player_joined': {
+        const player = message.player || {
+          id: message.player_id,
+          name: message.player_name,
+          isOnline: true,
+          isHost: false,
+          joinedAt: new Date(),
+          leftScreenCount: 0,
+          lastActivityAt: new Date(),
+          suspiciousActivity: [],
+        };
+        if (!this.players.find((p) => p.id === player.id)) {
+          this.players.push(player);
         }
         break;
+      }
 
       case 'player_left':
         this.players = this.players.filter((p) => p.id !== message.playerId);
         break;
 
       case 'game_started':
+        console.log('[Party] Game started! Questions:', message.questions?.length);
         this.gameState.status = 'active';
-        this.gameState.startedAt = new Date(message.startedAt);
+        this.gameState.startedAt = new Date();
+        this.questions = message.questions || [];
         this.startQuestionTimer();
         break;
 
@@ -291,21 +364,56 @@ class PartyState {
       case 'game_finished':
         this.gameState.status = 'finished';
         this.gameState.finishedAt = new Date();
+        
+        // Adapt Rust results (array) to PartyResults (object)
+        const playerResults = message.results || [];
+        this.results = {
+          partyId: this.config?.id || '',
+          partyName: this.config?.name || '',
+          totalPlayers: playerResults.length,
+          completedPlayers: playerResults.length, // Assuming all finished
+          averageScore: playerResults.reduce((acc: number, p: any) => acc + p.score, 0) / (playerResults.length || 1),
+          averageTime: playerResults.reduce((acc: number, p: any) => acc + p.average_time_ms, 0) / (playerResults.length || 1),
+          playerStats: playerResults.map((p: any) => ({
+            playerId: p.player_id,
+            playerName: p.player_name,
+            score: p.score,
+            correctAnswers: p.correct_answers,
+            totalQuestions: p.total_questions,
+            averageTimePerQuestion: p.average_time_ms,
+            fastestAnswer: 0, // Not provided by Rust yet
+            slowestAnswer: 0, // Not provided by Rust yet
+            suspiciousEvents: 0, // Not provided by Rust yet
+            recommendation: 'Buen trabajo' // Placeholder
+          })),
+          questionStats: [], // Not provided by Rust yet
+          generatedAt: new Date()
+        };
         break;
 
-      case 'player_answer':
-        if (!this.answers.find((a) => a.playerId === message.answer.playerId && a.questionId === message.answer.questionId)) {
-          this.answers.push(message.answer);
-        }
+      case 'ai_analysis_result':
+        this.aiAnalysis = message.analysis;
         break;
 
-      case 'suspicious_activity':
+      case 'player_answered':
+        this.answers.push({
+          playerId: message.player_id,
+          questionId: message.question_id,
+          answer: '', // Unknown to host until end
+          isCorrect: false,
+          timeSpent: 0,
+          timestamp: new Date()
+        });
+        break;
+
+      case 'suspicious_activity': {
         const player = this.players.find((p) => p.id === message.playerId);
         if (player) {
           player.suspiciousActivity.push(message.event);
           player.leftScreenCount++;
         }
         break;
+      }
 
       case 'sync_state':
         this.gameState = message.state;
@@ -344,7 +452,7 @@ class PartyState {
 
       if (this.gameState.timeRemaining <= 0) {
         clearInterval(interval);
-        if (this.isHost()) {
+        if (this.isHost) {
           this.nextQuestion();
         }
       }

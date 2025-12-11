@@ -1,4 +1,5 @@
 use actix_web::{web, App, HttpServer, middleware};
+use actix_cors::Cors;
 use tracing_subscriber;
 
 mod domain;
@@ -10,7 +11,7 @@ mod config;
 async fn main() -> std::io::Result<()> {
     // Load .env file
     dotenv::dotenv().ok();
-    
+
     // Initialize logging
     tracing_subscriber::fmt()
         .with_target(false)
@@ -22,13 +23,13 @@ async fn main() -> std::io::Result<()> {
     // Load configuration (override database URL for development)
     let mut settings = config::Settings::new().expect("Failed to load configuration");
     settings.database.url = "sqlite://E:\\scripts-python\\worldexams\\party-server-rust\\data\\parties.db".to_string();
-    
+
     tracing::info!(
         "📡 Server will run on {}:{}",
         settings.server.host,
         settings.server.port
     );
-    
+
     tracing::info!("📊 Database URL: {}", settings.database.url);
 
     // Initialize database
@@ -64,7 +65,7 @@ async fn main() -> std::io::Result<()> {
 
     // Create HTTP server
     let server_addr = format!("{}:{}", settings.server.host, settings.server.port);
-    
+
     tracing::info!("🎮 Party Server ready at http://{}", server_addr);
     tracing::info!("📖 API Documentation:");
     tracing::info!("   GET  /health");
@@ -73,10 +74,17 @@ async fn main() -> std::io::Result<()> {
     tracing::info!("   POST /api/parties/:code/join");
     tracing::info!("   GET  /api/parties/:code/players");
     tracing::info!("   WS   /ws/:party_code");
-    
+
     HttpServer::new(move || {
+        let cors = Cors::default()
+            .allow_any_origin()
+            .allow_any_method()
+            .allow_any_header()
+            .max_age(3600);
+
         App::new()
             .app_data(app_state.clone())
+            .wrap(cors)
             .wrap(middleware::Logger::default())
             .wrap(middleware::Compress::default())
             .configure(infrastructure::http::routes::configure)
