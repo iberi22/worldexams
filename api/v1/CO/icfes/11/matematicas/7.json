@@ -1,0 +1,252 @@
+{
+  "questions": [
+    {
+      "id": "CO-MAT-11-calculo-007-v1",
+      "bundle_id": "CO-MAT-11-calculo-007",
+      "number": 1,
+      "statement": "Calcula el límite: $\\lim_{x \\to 2} (3x + 5)$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "11",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Respuesta Correcta: A**\nSustitución directa: $3(2) + 5 = 6 + 5 = 11$.\n---",
+      "difficulty": "Medium",
+      "source_url": "https://www.khanacademy.org/math/differential-calculus",
+      "tags": ["calculo", "limites"],
+      "images": []
+    },
+    {
+      "id": "CO-MAT-11-calculo-007-v2",
+      "bundle_id": "CO-MAT-11-calculo-007",
+      "number": 2,
+      "statement": "¿Cuál de las siguientes gráficas representa una función continua en todo su dominio?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una línea recta sin interrupciones",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una curva con un hueco",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una función con un salto vertical",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una asíntota vertical",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Respuesta Correcta: A**\nUna función continua no tiene saltos, huecos ni asíntotas en su dominio. Una línea recta es continua.\n---",
+      "difficulty": "Low",
+      "source_url": "https://www.khanacademy.org/math/differential-calculus",
+      "tags": ["calculo", "continuidad"],
+      "images": []
+    },
+    {
+      "id": "CO-MAT-11-calculo-007-v3",
+      "bundle_id": "CO-MAT-11-calculo-007",
+      "number": 3,
+      "statement": "Evalúa $\\lim_{x \\to 0} \\frac{x^2 + x}{x}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Indeterminado",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Infinito",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Respuesta Correcta: A**\nFactorizamos $x$ en el numerador: $\\frac{x(x+1)}{x} = x+1$ (para $x \\neq 0$).\nAhora evaluamos el límite: $0 + 1 = 1$.\n---",
+      "difficulty": "Medium",
+      "source_url": "https://www.khanacademy.org/math/differential-calculus",
+      "tags": ["calculo", "limites", "indeterminacion"],
+      "images": []
+    },
+    {
+      "id": "CO-MAT-11-calculo-007-v4",
+      "bundle_id": "CO-MAT-11-calculo-007",
+      "number": 4,
+      "statement": "Dada la función $f(x) = \\begin{cases} x+1 & x < 2 \\\\ 5 & x \\ge 2 \\end{cases}$. ¿Cuál es el límite lateral izquierdo $\\lim_{x \\to 2^-} f(x)$?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No existe",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Respuesta Correcta: A**\nPara $x < 2$, usamos $x+1$. $\\lim_{x \\to 2} (2+1) = 3$.\n---",
+      "difficulty": "Medium",
+      "source_url": "https://www.khanacademy.org/math/differential-calculus",
+      "tags": ["calculo", "limites-laterales"],
+      "images": []
+    },
+    {
+      "id": "CO-MAT-11-calculo-007-v5",
+      "bundle_id": "CO-MAT-11-calculo-007",
+      "number": 5,
+      "statement": "Calcula el límite al infinito: $\\lim_{x \\to \\infty} \\frac{2x^2 + 3}{x^2 - 1}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Infinito",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Respuesta Correcta: A**\nDividimos todo por la mayor potencia ($x^2$).\n$\\frac{2 + 3/x^2}{1 - 1/x^2}$. Cuando $x \\to \\infty$, los términos con $x$ abajo van a 0.\nQueda $2/1 = 2$.\n---",
+      "difficulty": "Medium",
+      "source_url": "https://www.khanacademy.org/math/differential-calculus",
+      "tags": ["calculo", "limites-infinito"],
+      "images": []
+    },
+    {
+      "id": "CO-MAT-11-calculo-007-v6",
+      "bundle_id": "CO-MAT-11-calculo-007",
+      "number": 6,
+      "statement": "Resuelve el límite: $\\lim_{x \\to 3} \\frac{x^2 - 9}{x - 3}$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Indeterminado",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Respuesta Correcta: A**\nEs una indeterminación $0/0$. Factorizamos diferencia de cuadrados: $(x-3)(x+3)$.\n$\\frac{(x-3)(x+3)}{x-3} = x+3$.\nEvaluamos: $3+3 = 6$.\n---",
+      "difficulty": "High",
+      "source_url": "https://www.khanacademy.org/math/differential-calculus",
+      "tags": ["calculo", "indeterminacion"],
+      "images": []
+    },
+    {
+      "id": "CO-MAT-11-calculo-007-v7",
+      "bundle_id": "CO-MAT-11-calculo-007",
+      "number": 7,
+      "statement": "La población de Bogotá crece según $P(t) = 8e^{0.02t}$ (en millones). ¿Cuál es la velocidad de crecimiento instantáneo en $t=0$?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.16 millones/año",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "8 millones/año",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "0.02 millones/año",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "16 millones/año",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Respuesta Correcta: A**\nLa velocidad es la derivada $P'(t)$.\n$P'(t) = 8 \\cdot 0.02 \\cdot e^{0.02t} = 0.16e^{0.02t}$.\nEn $t=0$, $e^0 = 1$, entonces $P'(0) = 0.16$.\n---",
+      "difficulty": "High",
+      "source_url": "https://www.khanacademy.org/math/differential-calculus",
+      "tags": ["calculo", "derivadas", "aplicacion"],
+      "images": []
+    }
+  ],
+  "metadata": {
+    "subject": "Matemáticas",
+    "total_pages": 1,
+    "page": 1,
+    "generated_at": "2025-12-10T18:10:00Z",
+    "total_questions": 7,
+    "exam": "icfes",
+    "country": "co",
+    "grade": "11"
+  }
+}

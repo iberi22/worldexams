@@ -1,0 +1,252 @@
+{
+  "questions": [
+    {
+      "id": "CO-MAT-11-trigonometria-005-v1",
+      "bundle_id": "CO-MAT-11-trigonometria-005",
+      "number": 1,
+      "statement": "Un arquitecto está diseñando una rampa de acceso para el edificio Colpatria en Bogotá. Si la rampa debe tener un ángulo de inclinación de 30° y alcanzar una altura de 2 metros, ¿cuál es la longitud de la rampa?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 metros",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "2 metros",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "3.5 metros",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "1 metro",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Respuesta Correcta: A**\nUsamos la función seno: $\\sin(30°) = \\frac{\\text{opuesto}}{\\text{hipotenusa}}$.\nSabemos que $\\sin(30°) = 0.5$ y el opuesto (altura) es 2m.\n$0.5 = \\frac{2}{h} \\Rightarrow h = \\frac{2}{0.5} = 4$ metros.\n---",
+      "difficulty": "Medium",
+      "source_url": "https://www.khanacademy.org/math/trigonometry",
+      "tags": ["trigonometria", "razonamiento-cuantitativo"],
+      "images": []
+    },
+    {
+      "id": "CO-MAT-11-trigonometria-005-v2",
+      "bundle_id": "CO-MAT-11-trigonometria-005",
+      "number": 2,
+      "statement": "¿Cuál es el valor de $\\sin(90°)$ en el círculo unitario?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "-1",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "0.5",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**Respuesta Correcta: B**\nEn el círculo unitario, el seno corresponde a la coordenada $y$. A 90° (o $\\pi/2$ radianes), el punto es $(0, 1)$, por lo que $\\sin(90°) = 1$.\n---",
+      "difficulty": "Low",
+      "source_url": "https://www.khanacademy.org/math/trigonometry",
+      "tags": ["trigonometria", "circulo-unitario"],
+      "images": []
+    },
+    {
+      "id": "CO-MAT-11-trigonometria-005-v3",
+      "bundle_id": "CO-MAT-11-trigonometria-005",
+      "number": 3,
+      "statement": "Si se usa una calculadora para hallar $\\cos(60°)$, el resultado es:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.5",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "0.866",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Respuesta Correcta: A**\nEl coseno de 60° es un valor notable igual a $1/2$ o $0.5$.\n---",
+      "difficulty": "Low",
+      "source_url": "https://www.khanacademy.org/math/trigonometry",
+      "tags": ["trigonometria", "calculo"],
+      "images": []
+    },
+    {
+      "id": "CO-MAT-11-trigonometria-005-v4",
+      "bundle_id": "CO-MAT-11-trigonometria-005",
+      "number": 4,
+      "statement": "Dada la identidad pitagórica $\\sin^2(x) + \\cos^2(x) = 1$, si $\\sin(x) = 0.6$, ¿cuál es el valor de $|\\cos(x)|$?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.4",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "0.8",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "0.64",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "0.36",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "**Respuesta Correcta: B**\n$(0.6)^2 + \\cos^2(x) = 1$\n$0.36 + \\cos^2(x) = 1$\n$\\cos^2(x) = 1 - 0.36 = 0.64$\n$\\cos(x) = \\sqrt{0.64} = 0.8$.\n---",
+      "difficulty": "Medium",
+      "source_url": "https://www.khanacademy.org/math/trigonometry",
+      "tags": ["trigonometria", "identidades"],
+      "images": []
+    },
+    {
+      "id": "CO-MAT-11-trigonometria-005-v5",
+      "bundle_id": "CO-MAT-11-trigonometria-005",
+      "number": 5,
+      "statement": "Resuelve para $x$ en el intervalo $[0, 90°]$: $2\\sin(x) - 1 = 0$.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30°",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "45°",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "60°",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "90°",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Respuesta Correcta: A**\n$2\\sin(x) = 1 \\Rightarrow \\sin(x) = 0.5$.\nEl ángulo cuyo seno es 0.5 en el primer cuadrante es 30°.\n---",
+      "difficulty": "Medium",
+      "source_url": "https://www.khanacademy.org/math/trigonometry",
+      "tags": ["trigonometria", "ecuaciones"],
+      "images": []
+    },
+    {
+      "id": "CO-MAT-11-trigonometria-005-v6",
+      "bundle_id": "CO-MAT-11-trigonometria-005",
+      "number": 6,
+      "statement": "Desde un punto en el suelo a 100 metros de la base de la Torre Colpatria, se observa la cima con un ángulo de elevación de 60°. ¿Cuál es la altura aproximada de la torre? (Use $\\sqrt{3} \\approx 1.73$)",
+      "options": [
+        {
+          "letter": "A",
+          "text": "173 metros",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "100 metros",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "200 metros",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "150 metros",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Respuesta Correcta: A**\nUsamos tangente: $\\tan(60°) = \\frac{h}{100}$.\n$h = 100 \\cdot \\tan(60°) = 100 \\cdot \\sqrt{3} \\approx 100 \\cdot 1.73 = 173$ metros.\n---",
+      "difficulty": "High",
+      "source_url": "https://www.khanacademy.org/math/trigonometry",
+      "tags": ["trigonometria", "problemas-aplicacion"],
+      "images": []
+    },
+    {
+      "id": "CO-MAT-11-trigonometria-005-v7",
+      "bundle_id": "CO-MAT-11-trigonometria-005",
+      "number": 7,
+      "statement": "Un barco navega por el río Magdalena. Desde un faro de 50m de altura, se observa el barco con un ángulo de depresión de 45°. ¿A qué distancia de la base del faro se encuentra el barco?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50 metros",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "25 metros",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "70 metros",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "100 metros",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "**Respuesta Correcta: A**\nEl ángulo de depresión es igual al ángulo de elevación desde el barco. $\\tan(45°) = \\frac{50}{d}$.\nComo $\\tan(45°) = 1$, entonces $1 = \\frac{50}{d} \\Rightarrow d = 50$ metros.\n---",
+      "difficulty": "High",
+      "source_url": "https://www.khanacademy.org/math/trigonometry",
+      "tags": ["trigonometria", "navegacion"],
+      "images": []
+    }
+  ],
+  "metadata": {
+    "subject": "Matemáticas",
+    "total_pages": 1,
+    "page": 1,
+    "generated_at": "2025-12-10T18:00:00Z",
+    "total_questions": 7,
+    "exam": "icfes",
+    "country": "co",
+    "grade": "11"
+  }
+}

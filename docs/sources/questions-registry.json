@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "last_updated": "2025-12-10",
-  "total_packs": 5,
-  "total_questions": 35,
+  "last_updated": "2025-12-11",
+  "total_packs": 8,
+  "total_questions": 56,
   "sources_summary": {
     "OpenTDB": 2,
     "Custom (AI)": 2,
@@ -123,6 +123,75 @@
         "CO-CNA-09-ecosistemas-001-v7"
       ],
       "notes": "Pack existente del inventario original"
+    },
+    {
+      "grado": 11,
+      "original_question_hash": "sha256:generated-by-jules-pr1",
+      "tema": "Trigonometría",
+      "pack_id": "CO-MAT-11-trigonometria-005",
+      "asignatura": "Matemáticas",
+      "source_url": "https://www.khanacademy.org/math/trigonometry",
+      "source": "Khan Academy",
+      "pack_file": "api/v1/CO/icfes/11/matematicas/5.json",
+      "used_date": "2025-12-11",
+      "question_ids": [
+        "CO-MAT-11-trigonometria-005-v1",
+        "CO-MAT-11-trigonometria-005-v2",
+        "CO-MAT-11-trigonometria-005-v3",
+        "CO-MAT-11-trigonometria-005-v4",
+        "CO-MAT-11-trigonometria-005-v5",
+        "CO-MAT-11-trigonometria-005-v6",
+        "CO-MAT-11-trigonometria-005-v7"
+      ],
+      "source_id": "khan:trig-005",
+      "country": "CO",
+      "notes": "PR #1 - Jules"
+    },
+    {
+      "grado": 11,
+      "original_question_hash": "sha256:generated-by-jules-pr1",
+      "tema": "Probabilidad",
+      "pack_id": "CO-MAT-11-probabilidad-006",
+      "asignatura": "Matemáticas",
+      "source_url": "https://opentdb.com",
+      "source": "OpenTDB",
+      "pack_file": "api/v1/CO/icfes/11/matematicas/6.json",
+      "used_date": "2025-12-11",
+      "question_ids": [
+        "CO-MAT-11-probabilidad-006-v1",
+        "CO-MAT-11-probabilidad-006-v2",
+        "CO-MAT-11-probabilidad-006-v3",
+        "CO-MAT-11-probabilidad-006-v4",
+        "CO-MAT-11-probabilidad-006-v5",
+        "CO-MAT-11-probabilidad-006-v6",
+        "CO-MAT-11-probabilidad-006-v7"
+      ],
+      "source_id": "opentdb:prob-006",
+      "country": "CO",
+      "notes": "PR #1 - Jules"
+    },
+    {
+      "grado": 11,
+      "original_question_hash": "sha256:generated-by-jules-pr1",
+      "tema": "Cálculo",
+      "pack_id": "CO-MAT-11-calculo-007",
+      "asignatura": "Matemáticas",
+      "source_url": "https://www.khanacademy.org/math/differential-calculus",
+      "source": "Khan Academy",
+      "pack_file": "api/v1/CO/icfes/11/matematicas/7.json",
+      "used_date": "2025-12-11",
+      "question_ids": [
+        "CO-MAT-11-calculo-007-v1",
+        "CO-MAT-11-calculo-007-v2",
+        "CO-MAT-11-calculo-007-v3",
+        "CO-MAT-11-calculo-007-v4",
+        "CO-MAT-11-calculo-007-v5",
+        "CO-MAT-11-calculo-007-v6",
+        "CO-MAT-11-calculo-007-v7"
+      ],
+      "source_id": "khan:calc-007",
+      "country": "CO",
+      "notes": "PR #1 - Jules"
     }
   ]
 }
