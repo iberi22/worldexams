@@ -40,7 +40,7 @@ catch {
 finally {
     # 4. Cleanup
     Write-Host "🧹 Cleaning up processes..." -ForegroundColor Yellow
-    
+
     if ($rustProcess -and -not $rustProcess.HasExited) {
         Stop-Process -Id $rustProcess.Id -Force
         Write-Host "   Stopped Rust Server"
@@ -51,10 +51,10 @@ finally {
         # But for now, let's try stopping the process handle
         Stop-Process -Id $astroProcess.Id -Force
         Write-Host "   Stopped Astro Server"
-        
+
         # Aggressive cleanup for node/astro on port 4321 if needed
         # Get-Process node -ErrorAction SilentlyContinue | Stop-Process -Force
     }
-    
+
     Write-Host "✅ Done." -ForegroundColor Green
 }

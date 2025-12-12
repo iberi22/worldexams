@@ -16,7 +16,7 @@ async fn main() -> std::io::Result<()> {
 
     // Load configuration (override database URL for development)
     let mut settings = config::Settings::new().expect("Failed to load configuration");
-    
+
     // For local development/binary usage, we might want to override the DB path
     // to be absolute or relative to the executable, similar to the original main.rs
     settings.database.url = "sqlite://E:\\scripts-python\\worldexams\\party-server-rust\\data\\parties.db".to_string();

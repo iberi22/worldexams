@@ -1,0 +1,50 @@
+{
+  "name": "Saber Para Todos - Party Mode",
+  "short_name": "Party Mode",
+  "description": "Exámenes sincronizados en tiempo real para Colombia Saber 11",
+  "start_url": "/party",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "orientation": "any",
+  "scope": "/",
+  "lang": "es-CO",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshots/host.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "label": "Host controls"
+    },
+    {
+      "src": "/screenshots/student.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "label": "Student view"
+    }
+  ],
+  "categories": ["education", "productivity"],
+  "shortcuts": [
+    {
+      "name": "Crear Party",
+      "short_name": "Crear",
+      "description": "Crear una nueva party como host",
+      "url": "/party",
+      "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}

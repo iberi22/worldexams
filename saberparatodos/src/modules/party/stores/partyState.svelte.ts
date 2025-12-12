@@ -61,7 +61,7 @@ class PartyState {
   ): Promise<string> {
     // 1. Check Plan Limits
     const limits = PLAN_LIMITS[this.currentPlan];
-    
+
     // Check exams per week (Simple LocalStorage check for MVP)
     if (this.currentPlan === 'free') {
       const lastExam = localStorage.getItem('last_exam_date');
@@ -212,9 +212,9 @@ class PartyState {
    */
   async startGame() {
     if (!this.isHost) return;
-    
+
     console.log('[Party] Iniciando juego...');
-    
+
     // Send start command to server with questions
     connectionService.broadcast({
       type: 'start_game',
@@ -274,7 +274,7 @@ class PartyState {
     // Persist to Supabase (if authenticated)
     if (this.config) {
       const { data: { user } } = await supabase.auth.getUser();
-      
+
       if (user && user.id === this.config.hostId) {
         try {
           // 1. Save Party
@@ -332,7 +332,7 @@ class PartyState {
 
     try {
       this.aiAnalysis = "Generando análisis con IA...";
-      
+
       const { data, error } = await supabase.functions.invoke('analyze-party-results', {
         body: { partyId: this.config.id }
       });
@@ -435,7 +435,7 @@ class PartyState {
       case 'game_finished':
         this.gameState.status = 'finished';
         this.gameState.finishedAt = new Date();
-        
+
         // Adapt Rust results (array) to PartyResults (object)
         const playerResults = message.results || [];
         this.results = {

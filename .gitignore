@@ -44,9 +44,22 @@ Thumbs.db
 !CHANGELOG.md
 !LICENSE.md
 
+# ============================================
+# DEPRECATED: Host App (Android Tauri) + Party Server Rust
+# Razón: Reemplazado por arquitectura 100% web (PWA)
+# Fecha: 2025-12-11
+# Ver: docs/PARTY_MODE_WEB_ARCHITECTURE.md
+# FASE FINAL: Desarrollo nativo Android/iOS (futuro)
+# ============================================
+host-app/
+party-server-rust/
+party-server-cloud/
+
+# GitHub Actions para builds Rust (deprecated)
+.github/workflows/build-party-server.yml
+
 # Submodules (will manage separately)
 worldexams.github.io/
 question-bank/
 question-sync/
 #🔒 PRIVADO repo aparte privado
-party-server-cloud/

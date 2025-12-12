@@ -39,6 +39,14 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 		<meta name="generator" content={Astro.generator} />
     <link rel="sitemap" href="/sitemap-index.xml" />
 
+    <!-- PWA Manifest -->
+    <link rel="manifest" href="/manifest.json" />
+    <meta name="theme-color" content="#2563eb" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Party Mode" />
+
     <!-- Critical CSS (inline para evitar render-blocking) -->
     <style set:html={criticalCSS}></style>
 
@@ -191,6 +199,21 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
       // Re-initialize on Astro page transitions
       document.addEventListener('astro:page-load', initScrollReveal);
+    </script>
+
+    <!-- Register Service Worker for PWA -->
+    <script is:inline>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('/sw.js')
+            .then((registration) => {
+              console.log('[PWA] Service Worker registered:', registration.scope);
+            })
+            .catch((error) => {
+              console.error('[PWA] Service Worker registration failed:', error);
+            });
+        });
+      }
     </script>
 	</body>
 </html>

@@ -1,16 +1,34 @@
 ---
 import Layout from '../layouts/Layout.astro';
+
+// Check for join code in query params
+const joinCode = Astro.url.searchParams.get('join');
 ---
 
-<Layout title="Party Mode - Saber Para Todos">
-  <div id="party-app"></div>
+<Layout title={joinCode ? `Party Mode - ${joinCode}` : 'Party Mode - Saber Para Todos'}>
+  <div id="party-app" data-join-code={joinCode || ''}></div>
 </Layout>
 
 <script>
   import { mount } from 'svelte';
-  import PartyApp from '../modules/party/components/PartyApp.svelte';
+  import PartyHost from '../components/PartyHost.svelte';
+  import PartyJoin from '../components/PartyJoin.svelte';
 
-  const app = mount(PartyApp, {
-    target: document.getElementById('party-app')!,
-  });
+  const root = document.getElementById('party-app');
+  const joinCode = root?.dataset.joinCode;
+
+  if (root) {
+    if (joinCode) {
+      // Student joining via QR code/link
+      mount(PartyJoin, {
+        target: root,
+        props: { code: joinCode }
+      });
+    } else {
+      // Host creating party
+      mount(PartyHost, {
+        target: root
+      });
+    }
+  }
 </script>

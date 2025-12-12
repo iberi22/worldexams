@@ -41,7 +41,7 @@ pub struct OptionContent {
 #[serde(tag = "type", rename_all = "snake_case")]
 pub enum WSMessage {
     // Client -> Server
-    PlayerJoined { player_id: String, player_name: String },
+    PlayerJoined { player_id: String, player_name: String, is_anonymous: bool },
     QuestionAnswered { player_id: String, question_id: String, answer: String, time_ms: u64 },
     PlayerReady { player_id: String },
     SuspiciousActivity { player_id: String, event_type: String, timestamp: i64 },
@@ -49,6 +49,10 @@ pub enum WSMessage {
     FinishGame,
     #[serde(rename = "request_ai_analysis")]
     RequestAIAnalysis,
+    // Admin Commands
+    AdminKickPlayer { player_id: String },
+    AdminUpdateConfig { allow_anonymous: bool, required_fields: Vec<String> },
+    AdminForceRegister,
 
     // Server -> Client
     GameStarted { questions: Vec<QuestionContent>, time_per_question: u32 },
@@ -61,6 +65,9 @@ pub enum WSMessage {
     #[serde(rename = "ai_analysis_result")]
     AIAnalysisResult { analysis: String },
     PlayerAnswered { player_id: String, question_id: String },
+    // Admin Events
+    PlayerKicked { reason: String },
+    RegistrationRequired { fields: Vec<String> },
 
     // Bidirectional
     Ping,
@@ -83,6 +90,7 @@ pub struct PlayerInfo {
     pub name: String,
     pub is_ready: bool,
     pub is_host: bool,
+    pub is_anonymous: bool,
 }
 
 #[derive(Debug, Clone)]
@@ -91,6 +99,28 @@ pub struct AnswerRecord {
     pub answer: String,
     pub time_ms: u64,
     pub is_correct: bool,
+}
+
+#[derive(Debug, Clone)]
+pub struct PlayerData {
+    pub name: String,
+    pub is_anonymous: bool,
+    pub is_ready: bool,
+}
+
+#[derive(Debug, Clone)]
+pub struct PartyConfig {
+    pub allow_anonymous: bool,
+    pub required_fields: Vec<String>,
+}
+
+impl Default for PartyConfig {
+    fn default() -> Self {
+        Self {
+            allow_anonymous: true,
+            required_fields: Vec::new(),
+        }
+    }
 }
 
 /// WebSocket actor for a single player connection
@@ -133,12 +163,13 @@ impl StreamHandler<Result<ws::Message, ws::ProtocolError>> for PartyConnection {
                             WSMessage::Ping => {
                                 ctx.text(serde_json::to_string(&WSMessage::Pong).unwrap());
                             }
-                            WSMessage::PlayerJoined { player_id, player_name } => {
+                            WSMessage::PlayerJoined { player_id, player_name, is_anonymous } => {
                                 if let Ok(uuid) = Uuid::parse_str(&player_id) {
                                     self.player_id = Some(uuid);
                                     self.room.do_send(PlayerJoinedMessage {
                                         player_id: uuid,
                                         player_name,
+                                        is_anonymous,
                                         addr: ctx.address(),
                                     });
                                 }
@@ -184,6 +215,22 @@ impl StreamHandler<Result<ws::Message, ws::ProtocolError>> for PartyConnection {
                                     });
                                 }
                             }
+                            WSMessage::AdminKickPlayer { player_id } => {
+                                if let Ok(uuid) = Uuid::parse_str(&player_id) {
+                                    self.room.do_send(AdminKickPlayerMessage {
+                                        player_id: uuid,
+                                    });
+                                }
+                            }
+                            WSMessage::AdminUpdateConfig { allow_anonymous, required_fields } => {
+                                self.room.do_send(AdminUpdateConfigMessage {
+                                    allow_anonymous,
+                                    required_fields,
+                                });
+                            }
+                            WSMessage::AdminForceRegister => {
+                                self.room.do_send(AdminForceRegisterMessage);
+                            }
                             _ => {
                                 warn!("Unexpected client message: {:?}", ws_msg);
                             }
@@ -222,10 +269,11 @@ impl StreamHandler<Result<ws::Message, ws::ProtocolError>> for PartyConnection {
 pub struct PartyRoom {
     pub party_code: String,
     pub connections: HashMap<Uuid, Addr<PartyConnection>>,
-    pub players: HashMap<Uuid, String>,
+    pub players: HashMap<Uuid, PlayerData>,
     pub party_repo: Arc<dyn PartyRepository>,
     pub questions: Vec<QuestionInfo>,
     pub answers: HashMap<Uuid, Vec<AnswerRecord>>,
+    pub config: PartyConfig,
 }
 
 impl PartyRoom {
@@ -237,6 +285,7 @@ impl PartyRoom {
             party_repo,
             questions: Vec::new(),
             answers: HashMap::new(),
+            config: PartyConfig::default(),
         }
     }
 
@@ -278,6 +327,7 @@ impl Actor for PartyRoom {
 pub struct PlayerJoinedMessage {
     pub player_id: Uuid,
     pub player_name: String,
+    pub is_anonymous: bool,
     pub addr: Addr<PartyConnection>,
 }
 
@@ -330,6 +380,23 @@ pub struct FinishGameMessage;
 #[rtype(result = "()")]
 pub struct SendMessage(pub String);
 
+#[derive(ActixMessage)]
+#[rtype(result = "()")]
+pub struct AdminKickPlayerMessage {
+    pub player_id: Uuid,
+}
+
+#[derive(ActixMessage)]
+#[rtype(result = "()")]
+pub struct AdminUpdateConfigMessage {
+    pub allow_anonymous: bool,
+    pub required_fields: Vec<String>,
+}
+
+#[derive(ActixMessage)]
+#[rtype(result = "()")]
+pub struct AdminForceRegisterMessage;
+
 // ===== Message Handlers =====
 
 impl Handler<PlayerJoinedMessage> for PartyRoom {
@@ -338,18 +405,37 @@ impl Handler<PlayerJoinedMessage> for PartyRoom {
     fn handle(&mut self, msg: PlayerJoinedMessage, _ctx: &mut Self::Context) {
         info!("Player {} joined party {}", msg.player_name, self.party_code);
 
+        // Check if anonymous players are allowed
+        if !self.config.allow_anonymous && msg.is_anonymous {
+             // Reject connection (send error and close)
+             // For now, we just accept but mark them.
+             // Ideally we should send a "RegistrationRequired" message.
+             msg.addr.do_send(SendMessage(serde_json::to_string(&WSMessage::RegistrationRequired {
+                 fields: self.config.required_fields.clone()
+             }).unwrap()));
+             // We still add them to the list so they can see the lobby, but maybe we mark them as "pending"
+        }
+
         // Add connection to room
         self.connections.insert(msg.player_id, msg.addr);
-        self.players.insert(msg.player_id, msg.player_name.clone());
+        self.players.insert(msg.player_id, PlayerData {
+            name: msg.player_name.clone(),
+            is_anonymous: msg.is_anonymous,
+            is_ready: false,
+        });
 
         // Broadcast player list update
         let players: Vec<PlayerInfo> = self.connections
             .keys()
-            .map(|id| PlayerInfo {
-                id: id.to_string(),
-                name: self.players.get(id).cloned().unwrap_or_else(|| "Unknown".to_string()),
-                is_ready: false,
-                is_host: false,
+            .map(|id| {
+                let data = self.players.get(id).unwrap();
+                PlayerInfo {
+                    id: id.to_string(),
+                    name: data.name.clone(),
+                    is_ready: data.is_ready,
+                    is_host: false,
+                    is_anonymous: data.is_anonymous,
+                }
             })
             .collect();
 
@@ -370,11 +456,15 @@ impl Handler<Disconnect> for PartyRoom {
         // Broadcast updated player list
         let players: Vec<PlayerInfo> = self.connections
             .keys()
-            .map(|id| PlayerInfo {
-                id: id.to_string(),
-                name: self.players.get(id).cloned().unwrap_or_else(|| "Unknown".to_string()),
-                is_ready: false,
-                is_host: false,
+            .map(|id| {
+                let data = self.players.get(id).unwrap();
+                PlayerInfo {
+                    id: id.to_string(),
+                    name: data.name.clone(),
+                    is_ready: data.is_ready,
+                    is_host: false,
+                    is_anonymous: data.is_anonymous,
+                }
             })
             .collect();
 
@@ -389,7 +479,7 @@ impl Handler<StartGameMessage> for PartyRoom {
         info!("Starting game for party {} with {} questions", self.party_code, msg.questions.len());
 
         self.questions = msg.questions.clone();
-        
+
         let questions_content: Vec<QuestionContent> = self.questions.iter().map(|q| QuestionContent {
             id: q.id.clone(),
             enunciado: q.enunciado.clone(),
@@ -399,8 +489,8 @@ impl Handler<StartGameMessage> for PartyRoom {
             }).collect(),
         }).collect();
 
-        self.broadcast(&WSMessage::GameStarted { 
-            questions: questions_content, 
+        self.broadcast(&WSMessage::GameStarted {
+            questions: questions_content,
             time_per_question: 60 // Default or from party config?
         }, None);
     }
@@ -453,7 +543,7 @@ impl Handler<FinishGameMessage> for PartyRoom {
 
         let mut results = Vec::new();
 
-        for (player_id, player_name) in &self.players {
+        for (player_id, player_data) in &self.players {
             let player_answers = self.answers.get(player_id).cloned().unwrap_or_default();
             let total_questions = self.questions.len() as u32;
             let correct_answers = player_answers.iter().filter(|a| a.is_correct).count() as u32;
@@ -467,7 +557,7 @@ impl Handler<FinishGameMessage> for PartyRoom {
 
             results.push(PlayerResult {
                 player_id: player_id.to_string(),
-                player_name: player_name.clone(),
+                player_name: player_data.name.clone(),
                 score,
                 correct_answers,
                 total_questions,
@@ -520,6 +610,70 @@ impl Handler<SuspiciousActivityMessage> for PartyRoom {
             },
             Some(msg.player_id), // Don't send to the suspicious player
         );
+    }
+}
+
+impl Handler<AdminKickPlayerMessage> for PartyRoom {
+    type Result = ();
+
+    fn handle(&mut self, msg: AdminKickPlayerMessage, _ctx: &mut Self::Context) {
+        info!("Admin kicking player {} from party {}", msg.player_id, self.party_code);
+
+        // Notify player
+        self.send_to(msg.player_id, &WSMessage::PlayerKicked {
+            reason: "Removed by administrator".to_string()
+        });
+
+        // Remove from room state
+        self.connections.remove(&msg.player_id);
+        self.players.remove(&msg.player_id);
+
+        // Broadcast update
+        let players: Vec<PlayerInfo> = self.connections
+            .keys()
+            .map(|id| {
+                let data = self.players.get(id).unwrap();
+                PlayerInfo {
+                    id: id.to_string(),
+                    name: data.name.clone(),
+                    is_ready: data.is_ready,
+                    is_host: false,
+                    is_anonymous: data.is_anonymous,
+                }
+            })
+            .collect();
+
+        self.broadcast(&WSMessage::PlayerListUpdate { players }, None);
+    }
+}
+
+impl Handler<AdminUpdateConfigMessage> for PartyRoom {
+    type Result = ();
+
+    fn handle(&mut self, msg: AdminUpdateConfigMessage, _ctx: &mut Self::Context) {
+        info!("Updating party config for {}", self.party_code);
+        self.config.allow_anonymous = msg.allow_anonymous;
+        self.config.required_fields = msg.required_fields;
+    }
+}
+
+impl Handler<AdminForceRegisterMessage> for PartyRoom {
+    type Result = ();
+
+    fn handle(&mut self, _msg: AdminForceRegisterMessage, _ctx: &mut Self::Context) {
+        info!("Forcing registration for anonymous users in party {}", self.party_code);
+
+        // Find anonymous users
+        let anonymous_ids: Vec<Uuid> = self.players.iter()
+            .filter(|(_, data)| data.is_anonymous)
+            .map(|(id, _)| *id)
+            .collect();
+
+        for id in anonymous_ids {
+            self.send_to(id, &WSMessage::RegistrationRequired {
+                fields: self.config.required_fields.clone()
+            });
+        }
     }
 }
 

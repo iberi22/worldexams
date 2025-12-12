@@ -203,7 +203,7 @@
             🤖 Análisis de IA
             <span class="text-xs bg-purple-600 px-2 py-1 rounded text-white">PREMIUM</span>
           </h4>
-          
+
           {#if partyState.aiAnalysis}
             <div class="prose prose-invert max-w-none">
               <p class="whitespace-pre-wrap text-gray-300">{partyState.aiAnalysis}</p>
@@ -211,7 +211,7 @@
           {:else}
             <div class="text-center py-4">
               <p class="text-gray-400 mb-4">
-                Obtén un análisis pedagógico detallado del desempeño del grupo, 
+                Obtén un análisis pedagógico detallado del desempeño del grupo,
                 identificando fortalezas y áreas de mejora.
               </p>
               <button

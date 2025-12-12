@@ -56,7 +56,7 @@ async fn create_party(
         req.grade,
         req.subject.clone(),
     );
-    
+
     match data.party_repo.create(&party).await {
         Ok(_) => HttpResponse::Ok().json(party),
         Err(e) => HttpResponse::InternalServerError().json(json!({"error": e.to_string()})),
@@ -94,20 +94,20 @@ async fn websocket_handler(
     data: web::Data<AppState>,
 ) -> Result<HttpResponse, actix_web::Error> {
     let party_code = path.into_inner();
-    
+
     // Get or create room
     let room = data.room_manager.get_or_create_room(
         party_code.clone(),
         Arc::new(data.party_repo.clone())
     ).await;
-    
+
     // Create connection actor
     let conn = crate::infrastructure::websocket::party_actor::PartyConnection {
         party_code,
         player_id: None,
         room,
     };
-    
+
     // Start WebSocket
     actix_web_actors::ws::start(conn, &req, stream)
 }

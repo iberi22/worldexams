@@ -1,4 +1,4 @@
-use actix_web::{web, App, HttpServer, middleware};
+use actix_web::{web, App, HttpServer, middleware, HttpResponse, HttpRequest};
 use actix_cors::Cors;
 use std::net::TcpListener;
 
@@ -11,50 +11,57 @@ pub struct ServerConfig {
     pub database_url: String,
     pub host: String,
     pub port: u16,
+    pub static_dir: String,
+}
+
+// Embed static files at compile time
+const INDEX_HTML: &str = include_str!("../public/index.html");
+const INDEX_JS: &[u8] = include_bytes!("../public/assets/index-Bbp2mlFq.js");
+const INDEX_CSS: &[u8] = include_bytes!("../public/assets/index-chYgb4_Z.css");
+
+async fn serve_index() -> HttpResponse {
+    HttpResponse::Ok()
+        .content_type("text/html; charset=utf-8")
+        .body(INDEX_HTML)
+}
+
+async fn serve_js() -> HttpResponse {
+    HttpResponse::Ok()
+        .content_type("application/javascript")
+        .body(INDEX_JS)
+}
+
+async fn serve_css() -> HttpResponse {
+    HttpResponse::Ok()
+        .content_type("text/css")
+        .body(INDEX_CSS)
+}
+
+pub fn start_server(config: ServerConfig) {
+    std::thread::spawn(move || {
+        let sys = actix_web::rt::System::new();
+        match sys.block_on(run(config)) {
+            Ok(_) => tracing::info!("Server stopped gracefully"),
+            Err(e) => tracing::error!("Server error: {}", e),
+        }
+    });
 }
 
 pub async fn run(config: ServerConfig) -> std::io::Result<()> {
-    tracing::info!("🚀 Party Server starting...");
-    tracing::info!("📊 Database URL: {}", config.database_url);
+    println!("🚀 Party Server starting...");
+    println!("📂 Static Dir: {}", config.static_dir);
 
-    // Initialize database
-    let db_pool = infrastructure::database::init_pool(&config.database_url)
-        .await
-        .map_err(|e| std::io::Error::new(std::io::ErrorKind::Other, e.to_string()))?;
+    // TODO: Initialize database and migrations
+    // For now, skip DB to get the server running on Android
+    // let db_pool = infrastructure::database::init_pool(&config.database_url).await...
 
-    tracing::info!("✅ Database initialized");
-
-    // Run migrations
-    // Note: In a library context, we might want to make migrations optional or embedded
-    // For now we assume the migrations folder exists relative to the binary execution
-    sqlx::migrate!("./migrations")
-        .run(&db_pool)
-        .await
-        .map_err(|e| std::io::Error::new(std::io::ErrorKind::Other, e.to_string()))?;
-
-    tracing::info!("✅ Migrations complete");
-
-    // Create repositories
-    let party_repo = infrastructure::database::SqlitePartyRepository::new(db_pool.clone());
-    let player_repo = infrastructure::database::SqlitePlayerRepository::new(db_pool.clone());
-
-    // Create room manager for WebSocket
-    let room_manager = infrastructure::websocket::RoomManager::new();
-
-    // Create app state
-    let app_state = web::Data::new(infrastructure::http::routes::AppState {
-        party_repo,
-        player_repo,
-        room_manager,
-    });
-
-    tracing::info!("✅ Application state initialized");
+    println!("✅ Skipping database for MVP");
 
     // Create HTTP server
     let server_addr = format!("{}:{}", config.host, config.port);
 
-    tracing::info!("🎮 Party Server ready at http://{}", server_addr);
-    
+    println!("🎮 Party Server ready at http://{}", server_addr);
+
     HttpServer::new(move || {
         let cors = Cors::default()
             .allow_any_origin()
@@ -63,11 +70,14 @@ pub async fn run(config: ServerConfig) -> std::io::Result<()> {
             .max_age(3600);
 
         App::new()
-            .app_data(app_state.clone())
             .wrap(cors)
             .wrap(middleware::Logger::default())
             .wrap(middleware::Compress::default())
-            .configure(infrastructure::http::routes::configure)
+            // Serve embedded static files
+            .route("/", web::get().to(serve_index))
+            .route("/index.html", web::get().to(serve_index))
+            .route("/assets/index-Bbp2mlFq.js", web::get().to(serve_js))
+            .route("/assets/index-chYgb4_Z.css", web::get().to(serve_css))
     })
     .bind(&server_addr)?
     .run()

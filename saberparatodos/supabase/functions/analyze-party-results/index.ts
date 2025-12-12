@@ -32,7 +32,7 @@ serve(async (req) => {
     // 2. Calculate Stats
     const players = party.party_players || [];
     const totalPlayers = players.length;
-    
+
     let avgScore = 0;
     let topScore = 0;
 
@@ -58,7 +58,7 @@ serve(async (req) => {
       - Total Estudiantes: ${totalPlayers}
       - Promedio de Puntaje: ${avgScore.toFixed(1)}
       - Puntaje Máximo: ${topScore}
-      
+
       Provee un análisis pedagógico breve (max 150 palabras) para el profesor.
       Destaca fortalezas del grupo y áreas generales de mejora.
       Usa un tono profesional y motivador.

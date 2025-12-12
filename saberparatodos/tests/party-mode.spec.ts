@@ -35,7 +35,7 @@ test.describe('Party Mode E2E', () => {
     // 1. Host creates party
     console.log('Host creating party...');
     await hostPage.goto('/party');
-    
+
     // Debug: Check what's on the page
     await hostPage.waitForTimeout(2000);
     const content = await hostPage.content();
@@ -44,7 +44,7 @@ test.describe('Party Mode E2E', () => {
     } else {
         console.log('Server detection finished.');
     }
-    
+
     // Check if "Crear Party" is visible
     const createButton = hostPage.getByRole('button', { name: 'Crear Party' });
     if (await createButton.isVisible()) {
@@ -79,7 +79,7 @@ test.describe('Party Mode E2E', () => {
 
       const joinButton = playerPage.getByRole('button', { name: 'Unirse a Party' });
       await joinButton.click();
-      
+
       await playerPage.fill('input[placeholder="Ej: Juan Pérez"]', playerName);
       await playerPage.fill('input[placeholder="Ej: ABC123"]', partyCode!);
       await playerPage.click('text=🎓 Unirse a Party');
@@ -110,15 +110,15 @@ test.describe('Party Mode E2E', () => {
       const page = playerPages[i];
       // Use exact text to avoid ambiguity with "Pregunta 1/20"
       await expect(page.getByText('Pregunta 1 de Matemáticas')).toBeVisible();
-      
+
       // Player 1 answers correctly (A), others randomly
-      const option = i === 0 ? 'A' : 'B'; 
+      const option = i === 0 ? 'A' : 'B';
       // Click the option button (it contains the letter)
       await page.locator(`button:has-text("${option}")`).first().click();
-      
+
       // Click submit
       await page.click('button:has-text("Enviar Respuesta")');
-      
+
       // Verify answer submitted
       await expect(page.locator('text=✅ Respuesta Enviada')).toBeVisible();
     }
@@ -137,10 +137,10 @@ test.describe('Party Mode E2E', () => {
     // 8. Verify Results
     console.log('Verifying results...');
     await expect(hostPage.locator('text=Resultados')).toBeVisible();
-    
+
     // Check if Host specific stats are visible
     await expect(hostPage.locator('text=Estadísticas Generales')).toBeVisible();
-    
+
     // Check AI Analysis section
     await expect(hostPage.locator('text=Análisis de IA')).toBeVisible();
 
@@ -148,7 +148,7 @@ test.describe('Party Mode E2E', () => {
     console.log('Requesting AI Analysis...');
     await hostPage.click('button:has-text("✨ Generar Análisis con IA")');
     await expect(hostPage.locator('text=Análisis de IA Generado')).toBeVisible();
-    
+
     console.log('Full flow test completed successfully!');
   });
 });
