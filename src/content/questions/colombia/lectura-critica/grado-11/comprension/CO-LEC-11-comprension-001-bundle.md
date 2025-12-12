@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: Pérdida de Biodiversidad
@@ -22,11 +25,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Texto expositivo ampliado para evaluación.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-LEC-11-comprension-001"
+country: "co"
+grado: 11
+asignatura: "Lectura Crítica"
+tema: "Comprensión Lectora - Biodiversidad"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-# Texto Base
-
-"La biodiversidad es fundamental para el equilibrio de los ecosistemas, ya que cada especie desempeña un papel único e insustituible en la compleja red de la vida. Sin embargo, las actividades humanas como la deforestación masiva, la contaminación industrial y la sobreexplotación de recursos naturales están provocando la extinción de especies a un ritmo alarmante, nunca antes visto en la historia geológica reciente. Este declive biológico no solo afecta la belleza de la naturaleza silvestre, sino que pone en riesgo directo la seguridad alimentaria y la disponibilidad de agua dulce para la propia humanidad, amenazando nuestra supervivencia a largo plazo."
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1 (Original - Dificultad Medium)
@@ -56,30 +73,25 @@ El texto afirma explícitamente que "las actividades humanas como la deforestaci
 **Componente:** Identificación de información explícita
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-LEC-11-comprension-001"
+country: "co"
+grado: 11
+asignatura: "Lectura Crítica"
+tema: "Comprensión Lectora - Biodiversidad"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 2 (Low A - Dificultad Low)
-
-**ID:** "CO-LEC-11-comprension-001-v2"
-
-### Enunciado
-
-Según el texto, ¿qué papel desempeña cada especie en los ecosistemas?
-
-### Opciones
-
-- [ ] A) Un papel irrelevante y sustituible.
-- [ ] B) Un papel decorativo para la naturaleza.
-- [x] C) Un papel único e insustituible.
-- [ ] D) Un papel peligroso para el equilibrio.
-
-### Explicación Pedagógica
-
-**¿Por qué C es correcta?**
-El texto dice literalmente: "...cada especie desempeña un papel único e insustituible en la compleja red de la vida". Es una pregunta de localización de información.
-
-**Competencia evaluada:** Lectura Crítica
-**Componente:** Ubicar información explícita
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3 (Low B - Dificultad Low)
@@ -106,30 +118,25 @@ El prefijo "sobre-" indica exceso. En el contexto de "recursos naturales", se re
 **Componente:** Comprensión de vocabulario en contexto
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-LEC-11-comprension-001"
+country: "co"
+grado: 11
+asignatura: "Lectura Crítica"
+tema: "Comprensión Lectora - Biodiversidad"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 4 (Medium A - Dificultad Medium)
-
-**ID:** "CO-LEC-11-comprension-001-v4"
-
-### Enunciado
-
-Del texto se puede inferir que la biodiversidad es importante para la humanidad porque:
-
-### Opciones
-
-- [ ] A) Nos permite tener zoológicos variados.
-- [x] B) Garantiza recursos vitales como alimentos y agua.
-- [ ] C) Evita que tengamos que trabajar en el campo.
-- [ ] D) Hace que el paisaje se vea más bonito.
-
-### Explicación Pedagógica
-
-**¿Por qué B es correcta?**
-El texto menciona que el declive pone en riesgo "la seguridad alimentaria y la disponibilidad de agua dulce". Por lo tanto, se infiere que la biodiversidad garantiza estos elementos vitales.
-
-**Competencia evaluada:** Lectura Crítica
-**Componente:** Inferencia (Relación causa-consecuencia)
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5 (Medium B - Dificultad Medium)
@@ -156,30 +163,25 @@ El texto dice que el ritmo es "alarmante, nunca antes visto en la historia geol�
 **Componente:** Comprender comparaciones y relaciones
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-LEC-11-comprension-001"
+country: "co"
+grado: 11
+asignatura: "Lectura Crítica"
+tema: "Comprensión Lectora - Biodiversidad"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 6 (High A - Dificultad High)
-
-**ID:** "CO-LEC-11-comprension-001-v6"
-
-### Enunciado
-
-¿Cuál es la intención principal del autor al escribir este texto?
-
-### Opciones
-
-- [ ] A) Narrar la historia de la evolución biológica.
-- [x] B) Alertar sobre las graves consecuencias de la acción humana en la naturaleza.
-- [ ] C) Describir las técnicas modernas de deforestación.
-- [ ] D) Felicitar a la humanidad por su progreso industrial.
-
-### Explicación Pedagógica
-
-**¿Por qué B es correcta?**
-El uso de términos como "alarmante", "riesgo directo", "amenazando nuestra supervivencia" denota una intención de advertencia y concienciación sobre un problema grave causado por humanos.
-
-**Competencia evaluada:** Lectura Crítica
-**Componente:** Reflexionar evaluar el contenido (Propósito comunicativo)
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7 (High B - Dificultad High)

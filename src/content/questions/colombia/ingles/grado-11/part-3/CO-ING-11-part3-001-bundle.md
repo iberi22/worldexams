@@ -27,7 +27,10 @@ componente: "Comprensión de lectura"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber11", "MX-EXANI", "SAT-Reading"]
+applicable_exams: ["CO-Saber11", "MX-EXANI", "SAT-Reading"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Bundle: Part 3 - Conversaciones
@@ -36,19 +39,38 @@ applicable_exams: ["CO-Saber11", "MX-EXANI", "SAT-Reading"]
 > **Competencia:** Comunicativa - uso adecuado del lenguaje en contexto.
 
 ---
+id: "CO-ING-11-part3-001-bundle"
+country: "CO"
+grado: 11
+asignatura: "Inglés"
+tema: "Part 3 - Conversaciones"
+dificultad: 2
+estado: "draft"
+creador: "Copilot"
+source_lang: "en-US"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-3)"
+generation_date: "2025-12-06"
 
-## 📊 Metadata de Validación
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-ING-11-PART3"
+original_concept: "Communicative competence (conversations)"
+competencia_icfes: "Conocimiento comunicativo"
+componente: "Comprensión de lectura"
 
-| Pregunta | ID | Dificultad | Competencia ICFES | Estado |
-|----------|-----|------------|-------------------|--------|
-| 1 | CO-ING-11-part3-001-v1 | 2 | Comunicativa | ⬜ |
-| 2 | CO-ING-11-part3-001-v2 | Low | Comunicativa | ⬜ |
-| 3 | CO-ING-11-part3-001-v3 | Low | Comunicativa | ⬜ |
-| 4 | CO-ING-11-part3-001-v4 | 2 | Comunicativa | ⬜ |
-| 5 | CO-ING-11-part3-001-v5 | 2 | Comunicativa | ⬜ |
-| 6 | CO-ING-11-part3-001-v6 | 2 | Comunicativa | ⬜ |
-| 7 | CO-ING-11-part3-001-v7 | 2 | Comunicativa | ⬜ |
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-EXANI", "SAT-Reading"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1
@@ -71,26 +93,38 @@ Person B: **"__________"**
 **Opción B:** Es la única respuesta lógica y empática ante un dolor de cabeza (sugerir medicina/descanso).
 
 ---
+id: "CO-ING-11-part3-001-bundle"
+country: "CO"
+grado: 11
+asignatura: "Inglés"
+tema: "Part 3 - Conversaciones"
+dificultad: 2
+estado: "draft"
+creador: "Copilot"
+source_lang: "en-US"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-3)"
+generation_date: "2025-12-06"
 
-## Pregunta 2
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-ING-11-PART3"
+original_concept: "Communicative competence (conversations)"
+competencia_icfes: "Conocimiento comunicativo"
+componente: "Comprensión de lectura"
 
-**ID:** `CO-ING-11-part3-001-v2`
-
-### Enunciado
-
-Person A: **"Can you pass me the salt, please?"**
-Person B: **"__________"**
-
-### Opciones
-
-- [ ] A) Yes, I am.
-- [ ] B) No, thank you.
-- [x] C) Here you are.
-- [ ] D) It is delicious.
-
-### Explicación
-**Opción C:** "Here you are" (Aquí tienes) es la respuesta estándar al pasar un objeto solicitado.
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-EXANI", "SAT-Reading"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3
@@ -113,26 +147,38 @@ Person B: **"__________"**
 **Opción B:** Responde directamente a la pregunta "What time" (A qué hora).
 
 ---
+id: "CO-ING-11-part3-001-bundle"
+country: "CO"
+grado: 11
+asignatura: "Inglés"
+tema: "Part 3 - Conversaciones"
+dificultad: 2
+estado: "draft"
+creador: "Copilot"
+source_lang: "en-US"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-3)"
+generation_date: "2025-12-06"
 
-## Pregunta 4
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-ING-11-PART3"
+original_concept: "Communicative competence (conversations)"
+competencia_icfes: "Conocimiento comunicativo"
+componente: "Comprensión de lectura"
 
-**ID:** `CO-ING-11-part3-001-v4`
-
-### Enunciado
-
-Person A: **"Nice to meet you."**
-Person B: **"__________"**
-
-### Opciones
-
-- [ ] A) I am fine, thanks.
-- [x] B) Nice to meet you too.
-- [ ] C) Good morning.
-- [ ] D) My name is John.
-
-### Explicación
-**Opción B:** Es la respuesta de cortesía recíproca al ser presentado a alguien.
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-EXANI", "SAT-Reading"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5
@@ -155,26 +201,38 @@ Person B: **"__________"**
 **Opción A:** Acepta el ofrecimiento cortésmente. "Yes, I do" sería para "Do you like...?".
 
 ---
+id: "CO-ING-11-part3-001-bundle"
+country: "CO"
+grado: 11
+asignatura: "Inglés"
+tema: "Part 3 - Conversaciones"
+dificultad: 2
+estado: "draft"
+creador: "Copilot"
+source_lang: "en-US"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-3)"
+generation_date: "2025-12-06"
 
-## Pregunta 6
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-ING-11-PART3"
+original_concept: "Communicative competence (conversations)"
+competencia_icfes: "Conocimiento comunicativo"
+componente: "Comprensión de lectura"
 
-**ID:** `CO-ING-11-part3-001-v6`
-
-### Enunciado
-
-Person A: **"How are you today?"**
-Person B: **"__________"**
-
-### Opciones
-
-- [ ] A) I am 17 years old.
-- [x] B) I am fine, thanks. And you?
-- [ ] C) My name is Peter.
-- [ ] D) Yes, I am.
-
-### Explicación
-**Opción B:** Es la respuesta estándar para saludar y preguntar por el estado de ánimo.
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-EXANI", "SAT-Reading"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7

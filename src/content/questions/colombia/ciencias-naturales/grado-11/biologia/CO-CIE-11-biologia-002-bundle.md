@@ -27,7 +27,10 @@ componente: "Biológico"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad-Biologia", "SAT-Biology"]
+applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad-Biologia", "SAT-Biology"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Bundle: Célula y Evolución
@@ -38,19 +41,38 @@ applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad-Biologia", "SAT-B
 > **Contexto:** Procesos fundamentales de la vida
 
 ---
+id: "CO-CIE-11-biologia-002"
+country: "CO"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Biología - Célula y Evolución"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## 📊 Metadata de Validación
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-CIE-011-005"
+original_concept: "Biología celular y teoría evolutiva"
+competencia_icfes: "Explicación de fenómenos - Uso comprensivo del conocimiento"
+componente: "Biológico"
 
-| Pregunta | ID | Dificultad | Competencia ICFES | Componente | Validado |
-|----------|-----|------------|-------------------|------------|----------|
-| 1 | CO-CIE-11-biologia-002-v1 | Medium | Explicación | Biológico | ⬜ |
-| 2 | CO-CIE-11-biologia-002-v2 | Low | Uso comprensivo | Celular | ⬜ |
-| 3 | CO-CIE-11-biologia-002-v3 | Low | Explicación | Celular | ⬜ |
-| 4 | CO-CIE-11-biologia-002-v4 | Medium | Explicación | Evolutivo | ⬜ |
-| 5 | CO-CIE-11-biologia-002-v5 | Medium | Uso comprensivo | Ecosistémico | ⬜ |
-| 6 | CO-CIE-11-biologia-002-v6 | High | Indagación | Celular | ⬜ |
-| 7 | CO-CIE-11-biologia-002-v7 | High | Indagación | Evolutivo | ⬜ |
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad-Biologia", "SAT-Biology"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1 (Original - Dificultad Medium)
@@ -81,30 +103,38 @@ La selección natural establece que:
 **Competencia evaluada:** Explicación de fenómenos - teoría evolutiva
 
 ---
+id: "CO-CIE-11-biologia-002"
+country: "CO"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Biología - Célula y Evolución"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 2 (Low A - Dificultad Low)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-CIE-011-005"
+original_concept: "Biología celular y teoría evolutiva"
+competencia_icfes: "Explicación de fenómenos - Uso comprensivo del conocimiento"
+componente: "Biológico"
 
-**ID:** `CO-CIE-11-biologia-002-v2`
-
-### Enunciado
-
-¿Cuál es el organelo celular responsable de la producción de energía (ATP) mediante la respiración celular en las células eucariotas?
-
-### Opciones
-
-- [ ] A) Ribosoma
-- [x] B) Mitocondria
-- [ ] C) Núcleo
-- [ ] D) Aparato de Golgi
-
-### Explicación Pedagógica
-
-**Mitocondria:** Conocida como la "central eléctrica" de la célula. Realiza el ciclo de Krebs y la fosforilación oxidativa para generar ATP.
-*   Ribosoma: Síntesis de proteínas.
-*   Núcleo: Almacena ADN.
-
-**Competencia evaluada:** Uso comprensivo del conocimiento - función de organelos
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad-Biologia", "SAT-Biology"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3 (Low B - Dificultad Low)
@@ -130,28 +160,38 @@ La diferencia fundamental entre una célula **procariota** (como una bacteria) y
 **Competencia evaluada:** Explicación de fenómenos - clasificación celular
 
 ---
+id: "CO-CIE-11-biologia-002"
+country: "CO"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Biología - Célula y Evolución"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 4 (Medium A - Dificultad Medium)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-CIE-011-005"
+original_concept: "Biología celular y teoría evolutiva"
+competencia_icfes: "Explicación de fenómenos - Uso comprensivo del conocimiento"
+componente: "Biológico"
 
-**ID:** `CO-CIE-11-biologia-002-v4`
-
-### Enunciado
-
-En una cadena alimenticia, ¿qué sucede con la energía a medida que pasa de un nivel trófico a otro (ej. de productor a consumidor primario)?
-
-### Opciones
-
-- [ ] A) Se conserva al 100%.
-- [ ] B) Aumenta en cada nivel.
-- [x] C) Disminuye significativamente (solo se transfiere aprox. el 10%).
-- [ ] D) Se recicla infinitamente sin pérdidas.
-
-### Explicación Pedagógica
-
-**Regla del 10%:** En cada transferencia energética (cuando un animal come a otro o a una planta), la mayoría de la energía (aprox. 90%) se pierde como calor (metabolismo, movimiento). Solo cerca del 10% se asimila como biomasa para el siguiente nivel.
-
-**Competencia evaluada:** Explicación de fenómenos - flujo de energía
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad-Biologia", "SAT-Biology"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5 (Medium B - Dificultad Medium)
@@ -176,30 +216,38 @@ La ósmosis es el transporte pasivo (sin gasto de energía) de **agua** a travé
 **Competencia evaluada:** Uso comprensivo del conocimiento - transporte celular
 
 ---
+id: "CO-CIE-11-biologia-002"
+country: "CO"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Biología - Célula y Evolución"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 6 (High A - Dificultad High)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-CIE-011-005"
+original_concept: "Biología celular y teoría evolutiva"
+competencia_icfes: "Explicación de fenómenos - Uso comprensivo del conocimiento"
+componente: "Biológico"
 
-**ID:** `CO-CIE-11-biologia-002-v6`
-
-### Enunciado
-
-Si se bloquea químicamente la función de los **ribosomas** en una célula, ¿qué proceso vital se detendría inmediatamente?
-
-### Opciones
-
-- [ ] A) La replicación del ADN.
-- [x] B) La síntesis de proteínas.
-- [ ] C) La producción de lípidos.
-- [ ] D) La transporte de oxígeno.
-
-### Explicación Pedagógica
-
-Los **ribosomas** son los encargados de la **traducción** del ARN mensajero para ensamblar aminoácidos y formar **proteínas**. Sin ribosomas funcionales, la célula no puede producir enzimas ni estructuras proteicas, y muere rápidamente.
-*   Lípidos: Retículo endoplasmático liso.
-*   ADN: Polimerasas en el núcleo.
-
-**Competencia evaluada:** Indagación - relación estructura-función
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad-Biologia", "SAT-Biology"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7 (High B - Dificultad High)

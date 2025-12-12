@@ -28,7 +28,10 @@ componente: "Espacial-métrico"
 
 # === UNIVERSAL SHARING ===
 universal_question: false
-applicable_exams: ["CO-Saber11"]
+applicable_exams: ["CO-Saber11"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Bundle: Volumen y Geometría de Sólidos
@@ -39,47 +42,39 @@ applicable_exams: ["CO-Saber11"]
 > **Contexto:** Colombia - Situaciones de diseño, empaque y manufactura
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-GEO-001"
+country: "CO"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Geometría - Volumen y Área"
+dificultad: "Medium"
+estado: "draft"
+creador: "AI-WorldExams"
+source_lang: "es-CO"
+llm_model: "claude-sonnet-4-20250514"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 1 (Original - Dificultad Medium)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co/documents/39286/21576717/Cuadernillo+de+preguntas+Saber+11-+Matem%C3%A1ticas.pdf"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-MAT-011-GEO-001"
+original_concept: "Cálculo de volumen de sólidos - Prismas y relaciones dimensionales"
+competencia_icfes: "Formulación y Ejecución - Interpretación"
+componente: "Espacial-métrico"
 
-**ID:** `CO-MAT-11-GEO-001-v1`
-
-### Enunciado
-
-Una compañía de mensajería de Bogotá necesita diseñar cajas rectangulares para enviar un nuevo producto. La caja debe tener un volumen de 2000 cm³. Si la base es cuadrada y la altura es el doble del lado de la base, ¿cuáles deben ser, aproximadamente, las dimensiones de la caja?
-
-### Opciones
-
-- [x] A) Base de 10 cm × 10 cm y altura de 20 cm
-- [ ] B) Base de 5 cm × 5 cm y altura de 40 cm
-- [ ] C) Base de 8 cm × 8 cm y altura de 16 cm
-- [ ] D) Base de 12 cm × 12 cm y altura de 7 cm
-
-### Explicación Pedagógica
-
-**Modelamiento del problema:**
-- Sea $x$ = lado de la base cuadrada
-- Altura $h = 2x$ (el doble del lado)
-- Volumen del prisma: $V = \text{base} \times \text{altura} = x^2 \times 2x = 2x^3$
-
-**Resolución:**
-$$2x^3 = 2000$$
-$$x^3 = 1000$$
-$$x = \sqrt[3]{1000} = 10 \text{ cm}$$
-
-**Dimensiones:**
-- Base: $10 \times 10$ cm
-- Altura: $2 \times 10 = 20$ cm
-
-**Verificación:** $10 \times 10 \times 20 = 2000$ cm³ ✓
-
-**¿Por qué las otras son incorrectas?**
-- **B) 5×5×40:** $V = 25 \times 40 = 1000$ cm³ ≠ 2000 cm³ (además, 40 ≠ 2×5)
-- **C) 8×8×16:** $V = 64 \times 16 = 1024$ cm³ ≠ 2000 cm³
-- **D) 12×12×7:** $V = 144 \times 7 = 1008$ cm³ ≠ 2000 cm³ (también 7 ≠ 2×12)
-
-**Competencia evaluada:** Formulación y Ejecución - modelamiento algebraico
-
+# === UNIVERSAL SHARING ===
+universal_question: false
+applicable_exams: ["CO-Saber11"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 2 (Low A - Dificultad Low)
@@ -113,36 +108,39 @@ Si una caja tiene una base cuadrada de 4 cm de lado y una altura de 10 cm, ¿cu�
 **Competencia evaluada:** Interpretación - cálculo básico de volumen
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-GEO-001"
+country: "CO"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Geometría - Volumen y Área"
+dificultad: "Medium"
+estado: "draft"
+creador: "AI-WorldExams"
+source_lang: "es-CO"
+llm_model: "claude-sonnet-4-20250514"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 3 (Low B - Dificultad Low)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co/documents/39286/21576717/Cuadernillo+de+preguntas+Saber+11-+Matem%C3%A1ticas.pdf"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-MAT-011-GEO-001"
+original_concept: "Cálculo de volumen de sólidos - Prismas y relaciones dimensionales"
+competencia_icfes: "Formulación y Ejecución - Interpretación"
+componente: "Espacial-métrico"
 
-**ID:** `CO-MAT-11-GEO-001-v3`
-
-### Enunciado
-
-Un cubo tiene una arista de 3 cm. ¿Cuál es su volumen?
-
-### Opciones
-
-- [x] A) 27 cm³
-- [ ] B) 9 cm³
-- [ ] C) 18 cm³
-- [ ] D) 81 cm³
-
-### Explicación Pedagógica
-
-**Fórmula del cubo:** $V = L^3$ donde $L$ es la arista
-
-**Cálculo:**
-$$V = 3^3 = 3 \times 3 \times 3 = 27 \text{ cm}^3$$
-
-**¿Por qué las otras son incorrectas?**
-- **B) 9:** Calculó $3^2$ (área de una cara, no volumen)
-- **C) 18:** Calculó $3 \times 6$ (error conceptual)
-- **D) 81:** Calculó $3^4$ en lugar de $3^3$
-
-**Competencia evaluada:** Interpretación - volumen del cubo
-
+# === UNIVERSAL SHARING ===
+universal_question: false
+applicable_exams: ["CO-Saber11"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 4 (Medium A - Dificultad Medium)
@@ -177,44 +175,39 @@ $$V = 3.14 \times 300 = 942 \text{ cm}^3$$
 **Competencia evaluada:** Formulación - volumen del cilindro
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-GEO-001"
+country: "CO"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Geometría - Volumen y Área"
+dificultad: "Medium"
+estado: "draft"
+creador: "AI-WorldExams"
+source_lang: "es-CO"
+llm_model: "claude-sonnet-4-20250514"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 5 (Medium B - Dificultad Medium)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co/documents/39286/21576717/Cuadernillo+de+preguntas+Saber+11-+Matem%C3%A1ticas.pdf"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-MAT-011-GEO-001"
+original_concept: "Cálculo de volumen de sólidos - Prismas y relaciones dimensionales"
+competencia_icfes: "Formulación y Ejecución - Interpretación"
+componente: "Espacial-métrico"
 
-**ID:** `CO-MAT-11-GEO-001-v5`
-
-### Enunciado
-
-Una empresa de empaques en Medellín diseña cajas cúbicas. Si aumentan cada arista del cubo original al doble, ¿en cuántas veces aumenta el volumen?
-
-### Opciones
-
-- [ ] A) 2 veces
-- [ ] B) 4 veces
-- [ ] C) 6 veces
-- [x] D) 8 veces
-
-### Explicación Pedagógica
-
-**Análisis dimensional:**
-
-- Volumen original: $V_1 = L^3$
-- Nueva arista: $2L$
-- Nuevo volumen: $V_2 = (2L)^3 = 8L^3$
-
-**Razón de aumento:**
-$$\frac{V_2}{V_1} = \frac{8L^3}{L^3} = 8$$
-
-El volumen aumenta **8 veces**.
-
-**Regla general:** Si las dimensiones lineales se multiplican por $k$, el volumen se multiplica por $k^3$.
-
-**¿Por qué las otras son incorrectas?**
-- **A) 2:** Piensa que duplicar arista = duplicar volumen (lineal, no cúbico)
-- **B) 4:** Piensa en $2^2$ (cuadrado, no cubo)
-- **C) 6:** Piensa en 6 caras, pero esto es superficie, no volumen
-
-**Competencia evaluada:** Argumentación - relaciones dimensionales
-
+# === UNIVERSAL SHARING ===
+universal_question: false
+applicable_exams: ["CO-Saber11"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 6 (High A - Dificultad High)
@@ -251,56 +244,39 @@ $$2.7 \text{ m}^3 \times 1000 = 2700 \text{ litros}$$
 **Competencia evaluada:** Formulación y Ejecución - problema multi-paso con conversión
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-GEO-001"
+country: "CO"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Geometría - Volumen y Área"
+dificultad: "Medium"
+estado: "draft"
+creador: "AI-WorldExams"
+source_lang: "es-CO"
+llm_model: "claude-sonnet-4-20250514"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 7 (High B - Dificultad High)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co/documents/39286/21576717/Cuadernillo+de+preguntas+Saber+11-+Matem%C3%A1ticas.pdf"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-MAT-011-GEO-001"
+original_concept: "Cálculo de volumen de sólidos - Prismas y relaciones dimensionales"
+competencia_icfes: "Formulación y Ejecución - Interpretación"
+componente: "Espacial-métrico"
 
-**ID:** `CO-MAT-11-GEO-001-v7`
-
-### Enunciado
-
-Una empresa constructora en Cartagena necesita calcular cuántos metros cúbicos de concreto requiere para construir un bloque hueco con las siguientes características:
-
-**Bloque exterior:** Prisma rectangular de 4 m × 3 m × 2.5 m
-**Espacio hueco interior:** Prisma rectangular de 3.6 m × 2.6 m × 2.5 m (mismo alto)
-
-¿Cuántos metros cúbicos de concreto se necesitan?
-
-### Opciones
-
-- [ ] A) 6.6 m³
-- [x] B) 6.6 m³
-- [ ] C) 23.4 m³
-- [ ] D) 30 m³
-
-*(Nota: A y B son iguales, la respuesta correcta es 6.6 m³)*
-
-### Opciones (corregidas)
-
-- [ ] A) 5.4 m³
-- [x] B) 6.6 m³
-- [ ] C) 23.4 m³
-- [ ] D) 30 m³
-
-### Explicación Pedagógica
-
-**Estrategia:** Volumen de concreto = Volumen exterior - Volumen interior (hueco)
-
-**Paso 1:** Volumen del prisma exterior
-$$V_{ext} = 4 \times 3 \times 2.5 = 30 \text{ m}^3$$
-
-**Paso 2:** Volumen del prisma interior (hueco)
-$$V_{int} = 3.6 \times 2.6 \times 2.5 = 23.4 \text{ m}^3$$
-
-**Paso 3:** Volumen de concreto necesario
-$$V_{concreto} = V_{ext} - V_{int} = 30 - 23.4 = 6.6 \text{ m}^3$$
-
-**¿Por qué las otras son incorrectas?**
-- **A) 5.4:** Error de cálculo en alguno de los volúmenes
-- **C) 23.4:** Es solo el volumen interior (hueco), no el concreto
-- **D) 30:** Es solo el volumen exterior, sin restar el hueco
-
-**Competencia evaluada:** Formulación y Ejecución - problema de sustracción geométrica
-
+# === UNIVERSAL SHARING ===
+universal_question: false
+applicable_exams: ["CO-Saber11"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## 📊 Metadata de Validación

@@ -8,7 +8,10 @@ tema: Modernismo
 dificultad: 3
 estado: published
 creador: AI-WorldExams
-source: ENEM
+source: ENEM
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 # Pergunta
 A Semana de Arte Moderna de 1922, marco do Modernismo brasileiro, ocorreu em qual cidade?

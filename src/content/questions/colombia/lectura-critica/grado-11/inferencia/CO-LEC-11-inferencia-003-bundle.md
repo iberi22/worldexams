@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: Un Día Lluvioso
@@ -22,11 +25,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Texto narrativo breve para ejercicio de inferencia.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-LEC-11-inferencia-001"
+country: "co"
+grado: 11
+asignatura: "Lectura Crítica"
+tema: "Inferencia - Narrativa Cotidiana"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-# Texto Base
-
-"Juan llegó a casa empapado, sacudiéndose el agua del cabello mientras buscaba una toalla en el baño de la entrada. Afuera, el cielo retumbaba con fuerza y las calles parecían ríos improvisados de lodo y basura. A pesar de haber corrido desde la estación de autobús, sus zapatos estaban completamente enlodados y temblaba de frío incontrolablemente. 'Debí haber revisado el pronóstico antes de salir esta mañana', murmuró con resignación mientras dejaba un rastro de agua por el pasillo."
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1 (Original - Dificultad Medium)
@@ -53,30 +70,25 @@ La inferencia se basa en claves textuales: Juan está "empapado", el cielo "retu
 **Componente:** Inferencia a partir de indicios textuales
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-LEC-11-inferencia-001"
+country: "co"
+grado: 11
+asignatura: "Lectura Crítica"
+tema: "Inferencia - Narrativa Cotidiana"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 2 (Low A - Dificultad Low)
-
-**ID:** "CO-LEC-11-inferencia-001-v2"
-
-### Enunciado
-
-Según el texto, ¿qué objeto buscaba Juan al entrar?
-
-### Opciones
-
-- [ ] A) Un paraguas.
-- [x] B) Una toalla.
-- [ ] C) Sus zapatos.
-- [ ] D) El pronóstico del clima.
-
-### Explicación Pedagógica
-
-**¿Por qué B es correcta?**
-El texto dice explícitamente: "...buscaba una toalla en el baño de la entrada". Es recuperación de información literal.
-
-**Competencia evaluada:** Lectura Crítica
-**Componente:** Identificar contenidos locales
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3 (Low B - Dificultad Low)
@@ -103,30 +115,25 @@ La resignación implica aceptar una situación adversa con paciencia o conformid
 **Componente:** Comprensión del sentido local (vocabulario/actitud)
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-LEC-11-inferencia-001"
+country: "co"
+grado: 11
+asignatura: "Lectura Crítica"
+tema: "Inferencia - Narrativa Cotidiana"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 4 (Medium A - Dificultad Medium)
-
-**ID:** "CO-LEC-11-inferencia-001-v4"
-
-### Enunciado
-
-¿Por qué razón Juan "temblaba de frío incontrolablemente"?
-
-### Opciones
-
-- [ ] A) Porque tenía fiebre alta.
-- [ ] B) Porque el aire acondicionado estaba muy frío.
-- [x] C) Debido a que estaba mojado y expuesto al clima.
-- [ ] D) Porque tenía miedo de la tormenta.
-
-### Explicación Pedagógica
-
-**¿Por qué C es correcta?**
-Es una inferencia de causa-efecto. Estar "empapado" tras venir de la calle en medio de una tormenta causa una baja temperatura corporal que provoca temblores. El texto conecta estos eventos narrativamente.
-
-**Competencia evaluada:** Lectura Crítica
-**Componente:** Comprender las relaciones entre partes del texto
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5 (Medium B - Dificultad Medium)
@@ -153,30 +160,25 @@ Si Juan llegó "empapado" hasta el punto de dejar un rastro de agua y temblar, s
 **Componente:** Inferencia (Información implícita)
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-LEC-11-inferencia-001"
+country: "co"
+grado: 11
+asignatura: "Lectura Crítica"
+tema: "Inferencia - Narrativa Cotidiana"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 6 (High A - Dificultad High)
-
-**ID:** "CO-LEC-11-inferencia-001-v6"
-
-### Enunciado
-
-El comentario final de Juan ("Debí haber revisado el pronóstico...") sugiere una actitud de:
-
-### Opciones
-
-- [ ] A) Culpar al gobierno por el clima.
-- [x] B) Autocrítica y reconocimiento de su error.
-- [ ] C) Indiferencia ante las consecuencias.
-- [ ] D) Optimismo frente al futuro.
-
-### Explicación Pedagógica
-
-**¿Por qué B es correcta?**
-Juan asume la responsabilidad de su situación ("Debí haber..."). No culpa a factores externos (el bus, la ciudad), sino a su propia falta de previsión. Evaluar esta actitud requiere entender la intencionalidad del personaje.
-
-**Competencia evaluada:** Lectura Crítica
-**Componente:** Reflexionar y evaluar el contenido
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7 (High B - Dificultad High)

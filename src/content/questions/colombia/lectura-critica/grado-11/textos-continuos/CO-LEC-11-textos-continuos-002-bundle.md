@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: Adaptado de Legacy
@@ -23,11 +26,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Migrado automáticamente de v1.0 y expandido con variaciones.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-LEC-11-textos-continuos-002"
+country: "co"
+grado: 11
+asignatura: "Lectura Crítica"
+tema: "Textos Continuos - Vocabulario en contexto"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-Script"
+generation_date: "2025-12-07"
 
-## Texto Base (Para preguntas 1-7)
-
-"Aunque la tecnología ha facilitado la comunicación global, paradójicamente ha incrementado la sensación de soledad en los individuos. Estamos más conectados que nunca a través de pantallas, pero nuestras interacciones cara a cara han disminuido drásticamente, debilitando los lazos comunitarios profundos."
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1 (Original - Dificultad Medium)
@@ -52,28 +69,25 @@ En el texto, la palabra **"paradójicamente"** se usa para resaltar:
 "Paradójicamente" introduce una paradoja: una situación que parece contradictoria a la lógica común. En este caso, es paradójico que más herramientas de comunicación (tecnología) resulten en más soledad (menos comunicación real). La palabra resalta esta contradicción aparente.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-LEC-11-textos-continuos-002"
+country: "co"
+grado: 11
+asignatura: "Lectura Crítica"
+tema: "Textos Continuos - Vocabulario en contexto"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-Script"
+generation_date: "2025-12-07"
 
-## Pregunta 2 (Low A - Dificultad Low)
-
-**ID:** "CO-LEC-11-textos-continuos-002-v2"
-
-### Enunciado
-
-Según el texto, ¿qué ha facilitado la tecnología?
-
-### Opciones
-
-- [ ] A) La soledad individual.
-- [x] B) La comunicación global.
-- [ ] C) Las interacciones cara a cara.
-- [ ] D) Los lazos comunitarios.
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** B
-
-El texto afirma explícitamente en la primera línea: "Aunque la tecnología ha facilitado la comunicación global...". Es una pregunta de comprensión literal.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3 (Low B - Dificultad Low)
@@ -98,28 +112,25 @@ El texto afirma explícitamente en la primera línea: "Aunque la tecnología ha 
 El texto dice literalmente: "nuestras interacciones cara a cara han disminuido drásticamente".
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-LEC-11-textos-continuos-002"
+country: "co"
+grado: 11
+asignatura: "Lectura Crítica"
+tema: "Textos Continuos - Vocabulario en contexto"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-Script"
+generation_date: "2025-12-07"
 
-## Pregunta 4 (Medium A - Dificultad Medium)
-
-**ID:** "CO-LEC-11-textos-continuos-002-v4"
-
-### Enunciado
-
-La frase "Estamos más conectados que nunca a través de pantallas" sugiere que:
-
-### Opciones
-
-- [ ] A) Las pantallas son la causa de la felicidad moderna.
-- [x] B) Existe una conexión técnica o virtual abundante.
-- [ ] C) Ya no necesitamos hablar con nadie en persona.
-- [ ] D) La conexión a internet es muy rápida.
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** B
-
-El autor reconoce la existencia de una conexión ("más conectados que nunca"), pero especifica que es "a través de pantallas", contrastándola luego con la falta de interacción real.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5 (Medium B - Dificultad Medium)
@@ -144,28 +155,25 @@ El autor reconoce la existencia de una conexión ("más conectados que nunca"), 
 La idea central es la paradoja presentada: el contraste entre la facilidad de conexión técnica y la pérdida de conexión humana/comunitaria.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-LEC-11-textos-continuos-002"
+country: "co"
+grado: 11
+asignatura: "Lectura Crítica"
+tema: "Textos Continuos - Vocabulario en contexto"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-Script"
+generation_date: "2025-12-07"
 
-## Pregunta 6 (High A - Dificultad High)
-
-**ID:** "CO-LEC-11-textos-continuos-002-v6"
-
-### Enunciado
-
-Si el autor afirmara que "las redes sociales fortalecen la democracia", esta nueva afirmación sería:
-
-### Opciones
-
-- [ ] A) Un ejemplo que apoya su tesis sobre la soledad.
-- [ ] B) Una conclusión lógica de su argumento.
-- [x] C) Un contraargumento o una idea distinta a la planteada sobre el debilitamiento de lazos.
-- [ ] D) Una paráfrasis de la primera oración.
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** C
-
-El autor sostiene que la tecnología "debilita los lazos comunitarios". Afirmar que "fortalece la democracia" (un tipo de lazo comunitario/social) iría en una dirección opuesta o matizaría su visión negativa sobre la cohesión social.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7 (High B - Dificultad High)

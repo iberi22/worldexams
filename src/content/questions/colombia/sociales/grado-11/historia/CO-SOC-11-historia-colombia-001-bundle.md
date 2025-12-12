@@ -27,7 +27,10 @@ componente: "Historia y Cultura"
 
 # === UNIVERSAL SHARING ===
 universal_question: false
-applicable_exams: ["CO-Saber11"]
+applicable_exams: ["CO-Saber11"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Bundle: Historia de Colombia
@@ -36,19 +39,38 @@ applicable_exams: ["CO-Saber11"]
 > **Competencia:** Comprender causas y consecuencias de conflictos y procesos políticos.
 
 ---
+id: "CO-SOC-11-historia-colombia-001-bundle"
+country: "CO"
+grado: 11
+asignatura: "Sociales"
+tema: "Historia de Colombia"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-5)"
+generation_date: "2025-12-06"
 
-## 📊 Metadata de Validación
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-SOC-11-HIST-CO"
+original_concept: "Hitos históricos colombianos s.XIX-XX"
+competencia_icfes: "Pensamiento social"
+componente: "Historia y Cultura"
 
-| Pregunta | ID | Dificultad | Competencia ICFES | Estado |
-|----------|-----|------------|-------------------|--------|
-| 1 | CO-SOC-11-historia-colombia-001-v1 | Medium | Causas conflicto | ⬜ |
-| 2 | CO-SOC-11-historia-colombia-001-v2 | 4 | Hitos nacionales | ⬜ |
-| 3 | CO-SOC-11-historia-colombia-001-v3 | Low | Independencia | ⬜ |
-| 4 | CO-SOC-11-historia-colombia-001-v4 | Medium | Frente Nacional | ⬜ |
-| 5 | CO-SOC-11-historia-colombia-001-v5 | 5 | Constitución 91 | ⬜ |
-| 6 | CO-SOC-11-historia-colombia-001-v6 | High | Narcotráfico | ⬜ |
-| 7 | CO-SOC-11-historia-colombia-001-v7 | 3 | Apertura económica | ⬜ |
-
+# === UNIVERSAL SHARING ===
+universal_question: false
+applicable_exams: ["CO-Saber11"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1
@@ -70,25 +92,38 @@ Durante el siglo XIX, Colombia experimentó múltiples guerras civiles. ¿Cuál 
 **Hegemonía y Café:** La guerra estalló por la exclusión política de los liberales durante la "Hegemonía Conservadora" y se agravó por la crisis económica derivada del desplome de precios internacionales del café.
 
 ---
+id: "CO-SOC-11-historia-colombia-001-bundle"
+country: "CO"
+grado: 11
+asignatura: "Sociales"
+tema: "Historia de Colombia"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 2
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-SOC-11-HIST-CO"
+original_concept: "Hitos históricos colombianos s.XIX-XX"
+competencia_icfes: "Pensamiento social"
+componente: "Historia y Cultura"
 
-**ID:** `CO-SOC-11-historia-colombia-001-v2`
-
-### Enunciado
-
-El "**Bogotazo**" ocurrido el 9 de abril de 1948 fue un estallido social desencadenado por:
-
-### Opciones
-
-- [ ] A) El fraude electoral en las elecciones presidenciales.
-- [x] B) El asesinato del líder liberal Jorge Eliécer Gaitán.
-- [ ] C) La firma del Frente Nacional.
-- [ ] D) La toma del Palacio de Justicia.
-
-### Explicación
-**Muerte de Gaitán:** El magnicidio del caudillo liberal desató una ola de violencia urbana y rural conocida como "El Bogotazo", marcando el inicio de "La Violencia" bipartidista.
-
+# === UNIVERSAL SHARING ===
+universal_question: false
+applicable_exams: ["CO-Saber11"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3
@@ -110,25 +145,38 @@ El "**Bogotazo**" ocurrido el 9 de abril de 1948 fue un estallido social desenca
 **El Florero de Llorente:** Fue el detonante simbólico que permitió a los criollos organizar el cabildo abierto y declarar la independencia (inicialmente parcial).
 
 ---
+id: "CO-SOC-11-historia-colombia-001-bundle"
+country: "CO"
+grado: 11
+asignatura: "Sociales"
+tema: "Historia de Colombia"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 4
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-SOC-11-HIST-CO"
+original_concept: "Hitos históricos colombianos s.XIX-XX"
+competencia_icfes: "Pensamiento social"
+componente: "Historia y Cultura"
 
-**ID:** `CO-SOC-11-historia-colombia-001-v4`
-
-### Enunciado
-
-El **Frente Nacional** (1958-1974) fue un acuerdo político entre liberales y conservadores con el objetivo principal de:
-
-### Opciones
-
-- [ ] A) Unir fuerzas para invadir países vecinos.
-- [x] B) Acabar con la violencia bipartidista mediante la alternancia en el poder.
-- [ ] C) Crear un partido único socialista.
-- [ ] D) Excluir a la iglesia católica de la política.
-
-### Explicación
-**Alternancia:** Acordaron turnarse la presidencia y repartir la burocracia por mitades durante 16 años para detener la guerra civil entre partidos.
-
+# === UNIVERSAL SHARING ===
+universal_question: false
+applicable_exams: ["CO-Saber11"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5
@@ -150,25 +198,38 @@ La **Séptima Papeleta** fue un movimiento estudiantil y social que impulsó:
 **Constituyente:** Los estudiantes promovieron una papeleta adicional en las elecciones de 1990 para exigir una reforma constitucional, resultando en la Constitución de 1991.
 
 ---
+id: "CO-SOC-11-historia-colombia-001-bundle"
+country: "CO"
+grado: 11
+asignatura: "Sociales"
+tema: "Historia de Colombia"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 6
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-SOC-11-HIST-CO"
+original_concept: "Hitos históricos colombianos s.XIX-XX"
+competencia_icfes: "Pensamiento social"
+componente: "Historia y Cultura"
 
-**ID:** `CO-SOC-11-historia-colombia-001-v6`
-
-### Enunciado
-
-En la década de 1980, el Estado colombiano enfrentó una grave amenaza institucional declarada por los carteles de droga, conocida como:
-
-### Opciones
-
-- [x] A) Narcoterrorismo.
-- [ ] B) Guerra de guerrillas.
-- [ ] C) Paro cívico nacional.
-- [ ] D) Revolución industrial.
-
-### Explicación
-**Narcoterrorismo:** Los carteles (especialmente Medellín) usaron bombas y magnicidios para presionar al Estado contra la extradición.
-
+# === UNIVERSAL SHARING ===
+universal_question: false
+applicable_exams: ["CO-Saber11"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7

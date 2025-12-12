@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: El Motor del Universo
@@ -22,11 +25,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Texto expositivo sobre energía cinética y potencial.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-FIS-11-energia-001"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Física - Energía Mecánica"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-# Texto Base
-
-"La energía se define como la capacidad para realizar un trabajo. En mecánica, existen dos formas principales: la **energía cinética** ($E_c$), asociada al movimiento de los cuerpos, que depende de la masa y la velocidad ($E_c = \frac{1}{2}mv^2$); y la **energía potencial gravitacional** ($E_p$), asociada a la posición o altura de un objeto ($E_p = mgh$). La **Ley de Conservación de la Energía** establece que la energía no se crea ni se destruye, solo se transforma; por ejemplo, cuando un objeto cae, su energía potencial se convierte progresivamente en cinética."
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1 (Original - Dificultad Medium)
@@ -53,30 +70,25 @@ La energía cinética se calcula con la fórmula $E_c = \frac{1}{2}mv^2$. Sustit
 **Componente:** Energía - Energía Cinética
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-FIS-11-energia-001"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Física - Energía Mecánica"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 2 (Low A - Dificultad Low)
-
-**ID:** "CO-FIS-11-energia-001-v2"
-
-### Enunciado
-
-Según el texto, la energía asociada al **movimiento** de los cuerpos se denomina:
-
-### Opciones
-
-- [ ] A) Energía potencial.
-- [ ] B) Trabajo mecánico.
-- [x] C) Energía cinética.
-- [ ] D) Potencia.
-
-### Explicación Pedagógica
-
-**¿Por qué C es correcta?**
-El texto define explícitamente: "la energía cinética ($E_c$), asociada al movimiento de los cuerpos".
-
-**Competencia evaluada:** Uso comprensivo del conocimiento científico
-**Componente:** Energía - Conceptos Básicos
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3 (Low B - Dificultad Low)
@@ -103,31 +115,25 @@ El texto indica que la energía potencial gravitacional está "asociada a la pos
 **Componente:** Energía - Conceptos Básicos
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-FIS-11-energia-001"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Física - Energía Mecánica"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 4 (Medium A - Dificultad Medium)
-
-**ID:** "CO-FIS-11-energia-001-v4"
-
-### Enunciado
-
-Calcule la energía potencial de una maceta de 2 kg situada en un balcón a 5 metros de altura (use $g = 10 \text{ m/s}^2$).
-
-### Opciones
-
-- [ ] A) 10 J
-- [ ] B) 50 J
-- [x] C) 100 J
-- [ ] D) 25 J
-
-### Explicación Pedagógica
-
-**¿Por qué C es correcta?**
-Usando la fórmula $E_p = mgh$:
-$E_p = 2 \text{ kg} \times 10 \text{ m/s}^2 \times 5 \text{ m} = 100 \text{ Joules}$.
-
-**Competencia evaluada:** Uso comprensivo del conocimiento científico
-**Componente:** Energía - Cálculo de Energía Potencial
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5 (Medium B - Dificultad Medium)
@@ -154,32 +160,25 @@ Al caer, la altura ($h$) disminuye, reduciendo la energía potencial. Simultáne
 **Componente:** Energía - Transformación de Energía
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-FIS-11-energia-001"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Física - Energía Mecánica"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 6 (High A - Dificultad High)
-
-**ID:** "CO-FIS-11-energia-001-v6"
-
-### Enunciado
-
-Un patinador de 50 kg se deja caer desde el borde de una rampa sin fricción de 5 metros de altura. Considerando $g = 10 \text{ m/s}^2$, ¿cuál será su energía cinética justo al llegar al punto más bajo de la rampa?
-
-### Opciones
-
-- [ ] A) 500 J
-- [x] B) 2500 J
-- [ ] C) 5000 J
-- [ ] D) 1250 J
-
-### Explicación Pedagógica
-
-**¿Por qué B es correcta?**
-Por conservación de la energía, toda la energía potencial inicial se convierte en cinética al final (si partió del reposo).
-$E_{inicial} = E_p = mgh = 50 \times 10 \times 5 = 2500 \text{ J}$.
-Al final, $E_c = E_p(\text{inicial}) = 2500 \text{ J}$.
-
-**Competencia evaluada:** Indagación y uso de conocimiento
-**Componente:** Energía - Conservación de Energía
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7 (High B - Dificultad High)

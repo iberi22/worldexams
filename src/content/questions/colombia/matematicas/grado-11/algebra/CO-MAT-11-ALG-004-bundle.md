@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: Adaptado de Legacy
@@ -22,33 +25,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Migrado automáticamente de v1.0 y expandido con variaciones.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-ALG-004"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Álgebra"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 1 (Original - Dificultad Medium)
-
-**ID:** "CO-MAT-11-ALG-004-v1"
-
-### Enunciado
-
-¿Cuál es el valor de la expresión $\frac{x^2 - 9}{x - 3}$ cuando $x \neq 3$?
-
-### Opciones
-
-- [ ] A) $x - 3$
-- [x] B) $x + 3$
-- [ ] C) $x^2 - 3$
-- [ ] D) $3 - x$
-
-### Explicación Pedagógica
-
-**Respuesta Correcta: B**
-
-El numerador es una diferencia de cuadrados:
-$$ x^2 - 9 = (x + 3)(x - 3) $$
-Sustituyendo en la fracción:
-$$ \frac{(x + 3)(x - 3)}{x - 3} $$
-Cancelamos el factor $(x - 3)$ del numerador y denominador:
-$$ x + 3 $$
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 2 (Low A - Dificultad Low)
@@ -76,31 +71,25 @@ Aplicamos la ley de exponentes para la división: $x^2 / x^1 = x^{2-1} = x$.
 $$ \frac{3 \cdot x \cdot x}{x} = 3x $$
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-ALG-004"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Álgebra"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 3 (Low B - Dificultad Low)
-
-**ID:** "CO-MAT-11-ALG-004-v3"
-
-### Enunciado
-
-Al simplificar $\frac{x^2 + 5x}{x}$ dividiendo cada término por $x$, obtenemos:
-
-### Opciones
-
-- [ ] A) $x + 5x$
-- [x] B) $x + 5$
-- [ ] C) $x^2 + 5$
-- [ ] D) $5$
-
-### Explicación Pedagógica
-
-**Respuesta Correcta: B**
-
-Podemos factorizar una $x$ en el numerador:
-$$ \frac{x(x + 5)}{x} $$
-Cancelamos la $x$:
-$$ x + 5 $$
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 4 (Medium A - Dificultad Medium)
@@ -129,34 +118,25 @@ $$ v = \frac{t(2t + 4)}{t} $$
 $$ v = 2t + 4 $$
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-ALG-004"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Álgebra"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 5 (Medium B - Dificultad Medium)
-
-**ID:** "CO-MAT-11-ALG-004-v5"
-
-### Enunciado
-
-El costo total de un evento corporativo es $C = n^2 - 100$ pesos, donde $n$ es una variable relacionada con el aforo. Si el número de asistentes reales es $n - 10$, ¿cuál es la expresión que representa el **costo por persona**?
-
-Cost per person = $\frac{\text{Costo Total}}{\text{Asistentes}}$
-
-### Opciones
-
-- [ ] A) $n - 10$
-- [x] B) $n + 10$
-- [ ] C) $n^2 - 10$
-- [ ] D) $n$
-
-### Explicación Pedagógica
-
-**Respuesta Correcta: B**
-
-$$ \frac{n^2 - 100}{n - 10} $$
-El numerador es una diferencia de cuadrados ($n^2 - 10^2$):
-$$ \frac{(n - 10)(n + 10)}{n - 10} $$
-Simplificando:
-$$ n + 10 $$
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 6 (High A - Dificultad High)
@@ -190,36 +170,25 @@ $$ \frac{x^2 - 5x + 6}{x^2 - 4} $$
    $$ \frac{x-3}{x+2} $$
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-ALG-004"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Álgebra"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 7 (High B - Dificultad High)
-
-**ID:** "CO-MAT-11-ALG-004-v7"
-
-### Enunciado
-
-Realiza la suma de las siguientes fracciones algebraicas:
-
-$$ \frac{1}{x} + \frac{1}{x+1} $$
-
-### Opciones
-
-- [ ] A) $\frac{2}{2x+1}$
-- [x] B) $\frac{2x+1}{x(x+1)}$
-- [ ] C) $\frac{2}{x(x+1)}$
-- [ ] D) $\frac{x+1}{x+2}$
-
-### Explicación Pedagógica
-
-**Respuesta Correcta: B**
-
-Para sumar fracciones con distinto denominador, hallamos el denominador común $x(x+1)$.
-1. Amplificar la primera fracción por $(x+1)$:
-   $$ \frac{1(x+1)}{x(x+1)} = \frac{x+1}{x(x+1)} $$
-2. Amplificar la segunda fracción por $x$:
-   $$ \frac{1(x)}{x(x+1)} = \frac{x}{x(x+1)} $$
-3. Sumar numeradores:
-   $$ \frac{x+1 + x}{x(x+1)} = \frac{2x+1}{x(x+1)} $$
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Metadata de Validacion

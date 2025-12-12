@@ -27,7 +27,10 @@ componente: "Físico"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad", "SAT-Physics"]
+applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad", "SAT-Physics"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Bundle: Mecánica Clásica (Física)
@@ -38,41 +41,38 @@ applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad", "SAT-Physics"]
 > **Contexto:** Principios universales de física (mecánica)
 
 ---
+id: "CO-CIE-11-fisica-001"
+country: "CO"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Física - Mecánica Clásica"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 1 (Original - Dificultad Medium)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-CIE-011-002"
+original_concept: "Leyes de Newton y conservación de la energía"
+competencia_icfes: "Explicación de fenómenos - Uso comprensivo del conocimiento"
+componente: "Físico"
 
-**ID:** `CO-CIE-11-fisica-001-v1`
-
-### Enunciado
-
-Un bloque de masa $m$ se desliza sobre una superficie horizontal sin fricción con una velocidad constante $v$. De repente, entra en una zona rugosa donde existe una fuerza de fricción constante $f$ opuesta al movimiento.
-
-¿Cuál de las siguientes gráficas describe mejor la velocidad del bloque en función del tiempo desde que entra a la zona rugosa hasta que se detiene?
-
-### Opciones
-
-- [x] A) Una línea recta decreciente hasta llegar a cero.
-- [ ] B) Una curva parabólica decreciente.
-- [ ] C) Una caída abrupta a cero en el instante de entrada.
-- [ ] D) Una línea recta decreciente que nunca llega a cero.
-
-### Explicación Pedagógica
-
-**¿Por qué A es correcta?**
-Según la **Segunda Ley de Newton**, la fuerza neta es igual a la masa por aceleración ($F_{neta} = ma$).
-- La única fuerza horizontal es la fricción $f$ (negativa porque se opone).
-- $-f = ma \implies a = -f/m$
-- Como $f$ y $m$ son constantes, la aceleración $a$ es **constante y negativa**.
-- En cinemática, velocidad con aceleración constante es una función lineal: $v(t) = v_0 + at$.
-- Por tanto, la gráfica $v$ vs $t$ es una **línea recta con pendiente negativa**.
-
-**¿Por qué las otras son incorrectas?**
-- **B)** Implicaría aceleración variable.
-- **C)** Implicaría una fuerza infinita para detenerlo instantáneamente.
-- **D)** El bloque eventualmente se detendrá y la velocidad será cero.
-
-**Competencia evaluada:** Explicación de fenómenos - relación fuerza-movimiento
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad", "SAT-Physics"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 2 (Low A - Dificultad Low)
@@ -97,28 +97,38 @@ La **Ley de Inercia** establece que un cuerpo mantiene su estado de movimiento a
 **Competencia evaluada:** Uso comprensivo del conocimiento - leyes de Newton
 
 ---
+id: "CO-CIE-11-fisica-001"
+country: "CO"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Física - Mecánica Clásica"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 3 (Low B - Dificultad Low)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-CIE-011-002"
+original_concept: "Leyes de Newton y conservación de la energía"
+competencia_icfes: "Explicación de fenómenos - Uso comprensivo del conocimiento"
+componente: "Físico"
 
-**ID:** `CO-CIE-11-fisica-001-v3`
-
-### Enunciado
-
-Un astronauta golpea una pelota de golf en el espacio exterior, lejos de cualquier planeta o estrella (gravedad despreciable). Después del golpe, ¿qué fuerza es necesaria para mantener la pelota moviéndose a velocidad constante?
-
-### Opciones
-
-- [ ] A) Una fuerza igual al peso de la pelota.
-- [ ] B) Una fuerza igual a la fuerza del golpe original.
-- [x] C) Ninguna fuerza.
-- [ ] D) Una fuerza decreciente.
-
-### Explicación Pedagógica
-
-En el espacio (vacío y sin gravedad), no hay fricción ni resistencia del aire. Una vez que la pelota está en movimiento, **no se requiere ninguna fuerza** para mantenerla en movimiento (Primera Ley de Newton). Continuará moviéndose indefinidamente a velocidad constante hasta que algo la detenga.
-
-**Competencia evaluada:** Explicación de fenómenos - conceptos básicos de dinámica
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad", "SAT-Physics"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 4 (Medium A - Dificultad Medium)
@@ -146,31 +156,38 @@ En ausencia de resistencia del aire, la única fuerza que actúa es la gravedad.
 **Competencia evaluada:** Explicación de fenómenos - caída libre
 
 ---
+id: "CO-CIE-11-fisica-001"
+country: "CO"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Física - Mecánica Clásica"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 5 (Medium B - Dificultad Medium)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-CIE-011-002"
+original_concept: "Leyes de Newton y conservación de la energía"
+competencia_icfes: "Explicación de fenómenos - Uso comprensivo del conocimiento"
+componente: "Físico"
 
-**ID:** `CO-CIE-11-fisica-001-v5`
-
-### Enunciado
-
-Un coche viaja hacia el norte a 60 km/h y otro coche idéntico viaja hacia el sur a 60 km/h. ¿Tienen la misma velocidad?
-
-### Opciones
-
-- [ ] A) Sí, porque ambos van a 60 km/h.
-- [x] B) No, porque tienen direcciones opuestas.
-- [ ] C) Sí, porque la rapidez es igual.
-- [ ] D) No, porque uno va "subiendo" y otro "bajando".
-
-### Explicación Pedagógica
-
-La **velocidad** es una magnitud vectorial; tiene **magnitud** (rapidez) y **dirección**.
-- Rapidez de ambos: 60 km/h (son iguales).
-- Dirección: Norte vs Sur (son diferentes).
-- Por lo tanto, sus **velocidades son diferentes** (velocidad $\vec{v}$ exige igual magnitud y dirección).
-
-**Competencia evaluada:** Uso comprensivo del conocimiento - diferencia entre rapidez y velocidad
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad", "SAT-Physics"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 6 (High A - Dificultad High)
@@ -202,31 +219,38 @@ $E_c = 0.5 \times 200 = 100 \text{ Joules}$
 **Competencia evaluada:** Resolución de problemas - conservación de energía
 
 ---
+id: "CO-CIE-11-fisica-001"
+country: "CO"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Física - Mecánica Clásica"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 7 (High B - Dificultad High)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-CIE-011-002"
+original_concept: "Leyes de Newton y conservación de la energía"
+competencia_icfes: "Explicación de fenómenos - Uso comprensivo del conocimiento"
+componente: "Físico"
 
-**ID:** `CO-CIE-11-fisica-001-v7`
-
-### Enunciado
-
-Un camión de 5000 kg choca de frente contra un automóvil compacto de 1000 kg. Durante el impacto:
-
-### Opciones
-
-- [ ] A) El camión ejerce una fuerza mayor sobre el auto que el auto sobre el camión.
-- [ ] B) El auto ejerce una fuerza mayor sobre el camión porque "rebota" más.
-- [x] C) El camión ejerce la misma magnitud de fuerza sobre el auto que el auto sobre el camión.
-- [ ] D) La fuerza depende de cuál vehículo iba más rápido.
-
-### Explicación Pedagógica
-
-Según la **Tercera Ley de Newton (Acción y Reacción)**: si un cuerpo A ejerce una fuerza sobre un cuerpo B, el cuerpo B ejerce una fuerza de **igual magnitud y dirección opuesta** sobre A.
-
-Esto es contraintuitivo pero cierto: las fuerzas son idénticas.
-Lo que es diferente es el **efecto** (aceleración/daño): como el auto tiene menos masa ($m_{auto} < m_{camion}$), sufrirá una aceleración mucho mayor ($a = F/m$), lo que causa más daño.
-
-**Competencia evaluada:** Explicación de fenómenos - tercera ley de Newton
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad", "SAT-Physics"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## 📊 Metadata de Validación

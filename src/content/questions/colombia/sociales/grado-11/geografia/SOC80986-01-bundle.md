@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: Adaptado de Legacy
@@ -22,32 +25,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Migrado automáticamente de v1.0
 
 ---
+# === METADATA GLOBAL ===
+id: "SOC80986-01"
+country: "co"
+grado: 11
+asignatura: "Sociales"
+tema: "Geografía"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "draft"
+creador: "Migrator-Script"
+generation_date: "2025-12-07"
 
-## Pregunta 1 (Original - Dificultad Medium)
-
-**ID:** "SOC80986-01-v1"
-
-### Enunciado
-
-# Pregunta
-La migración del campo a la ciudad (éxodo rural) en Colombia durante la segunda mitad del siglo XX tuvo como una de sus causas principales:
-
-# Opciones
-- [ ] A) La falta de electricidad en las ciudades.
-- [x] B) La violencia política y la búsqueda de oportunidades económicas.
-- [ ] C) El exceso de tierras fértiles disponibles para todos los campesinos.
-- [ ] D) La prohibición legal de vivir en zonas rurales.
-
-# Explicación
-El desplazamiento forzado por el conflicto armado interno y la concentración de la industria y servicios en las urbes motivaron la migración masiva hacia las ciudades.
-- C: La concentración de la tierra (latifundio) es un problema, no un exceso de disponibilidad.
-
-**Competencia:** Pensamiento social (Dinámicas demográficas).
-
-### Explicación Pedagógica
-
-*(Contenido migrado, favor revisar)*
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 2 (Low A - Dificultad Low)
@@ -70,26 +66,25 @@ TODO: Generar variación de tipo Low A
 TODO: Explicación pendiente
 
 ---
+# === METADATA GLOBAL ===
+id: "SOC80986-01"
+country: "co"
+grado: 11
+asignatura: "Sociales"
+tema: "Geografía"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "draft"
+creador: "Migrator-Script"
+generation_date: "2025-12-07"
 
-## Pregunta 3 (Low B - Dificultad Low)
-
-**ID:** "SOC80986-01-v3"
-
-### Enunciado
-
-TODO: Generar variación de tipo Low B
-
-### Opciones
-
-- [ ] A) Opción 1
-- [ ] B) Opción 2
-- [ ] C) Opción 3
-- [ ] D) Opción 4
-
-### Explicación Pedagógica
-
-TODO: Explicación pendiente
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 4 (Medium A - Dificultad Medium)
@@ -112,26 +107,25 @@ TODO: Generar variación de tipo Medium A
 TODO: Explicación pendiente
 
 ---
+# === METADATA GLOBAL ===
+id: "SOC80986-01"
+country: "co"
+grado: 11
+asignatura: "Sociales"
+tema: "Geografía"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "draft"
+creador: "Migrator-Script"
+generation_date: "2025-12-07"
 
-## Pregunta 5 (Medium B - Dificultad Medium)
-
-**ID:** "SOC80986-01-v5"
-
-### Enunciado
-
-TODO: Generar variación de tipo Medium B
-
-### Opciones
-
-- [ ] A) Opción 1
-- [ ] B) Opción 2
-- [ ] C) Opción 3
-- [ ] D) Opción 4
-
-### Explicación Pedagógica
-
-TODO: Explicación pendiente
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 6 (High A - Dificultad High)
@@ -154,26 +148,25 @@ TODO: Generar variación de tipo High A
 TODO: Explicación pendiente
 
 ---
+# === METADATA GLOBAL ===
+id: "SOC80986-01"
+country: "co"
+grado: 11
+asignatura: "Sociales"
+tema: "Geografía"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "draft"
+creador: "Migrator-Script"
+generation_date: "2025-12-07"
 
-## Pregunta 7 (High B - Dificultad High)
-
-**ID:** "SOC80986-01-v7"
-
-### Enunciado
-
-TODO: Generar variación de tipo High B
-
-### Opciones
-
-- [ ] A) Opción 1
-- [ ] B) Opción 2
-- [ ] C) Opción 3
-- [ ] D) Opción 4
-
-### Explicación Pedagógica
-
-TODO: Explicación pendiente
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Metadata de Validacion

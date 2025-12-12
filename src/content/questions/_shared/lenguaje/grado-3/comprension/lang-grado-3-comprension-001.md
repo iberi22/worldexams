@@ -11,7 +11,10 @@ group_id: GEN87101
 llm_model: claude-3.5-sonnet
 agent: github-copilot
 ide: vscode
-source: ai-generated
+source: ai-generated
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 # Pregunta
 Lee la siguiente oración: "El perro juega feliz en el parque con su pelota roja."

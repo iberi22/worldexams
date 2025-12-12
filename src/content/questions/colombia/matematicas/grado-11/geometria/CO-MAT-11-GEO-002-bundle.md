@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: Adaptado de Legacy
@@ -22,31 +25,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Migrado automáticamente de v1.0 y expandido con variaciones.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-GEO-002"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Geometría"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 1 (Original - Dificultad Medium)
-
-**ID:** "CO-MAT-11-GEO-002-v1"
-
-### Enunciado
-
-Un círculo tiene un radio de 7 cm. ¿Cuál es su área aproximada? (Use $\pi \approx 3.14$)
-
-### Opciones
-
-- [ ] A) 21.98 cm²
-- [ ] B) 43.96 cm²
-- [x] C) 153.86 cm²
-- [ ] D) 307.72 cm²
-
-### Explicación Pedagógica
-
-**Respuesta Correcta: C**
-
-Área = $\pi r^2$
-$$ A = 3.14 \times 7^2 $$
-$$ A = 3.14 \times 49 $$
-$$ A \approx 153.86 \text{ cm}^2 $$
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 2 (Low A - Dificultad Low)
@@ -71,29 +68,25 @@ Calcula el área de un círculo pequeño con radio de 2 cm. (Use $\pi \approx 3.
 $$ A = \pi \times 2^2 = 3.14 \times 4 = 12.56 $$
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-GEO-002"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Geometría"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 3 (Low B - Dificultad Low)
-
-**ID:** "CO-MAT-11-GEO-002-v3"
-
-### Enunciado
-
-Si el **diámetro** de un círculo es 10 cm, ¿cuál es su área? (Recuerde que el radio es la mitad del diámetro).
-
-### Opciones
-
-- [x] A) $25\pi \text{ cm}^2$
-- [ ] B) $100\pi \text{ cm}^2$
-- [ ] C) $50\pi \text{ cm}^2$
-- [ ] D) $10\pi \text{ cm}^2$
-
-### Explicación Pedagógica
-
-**Respuesta Correcta: A**
-
-Radio $r = 10 / 2 = 5$.
-Área $= \pi (5)^2 = 25\pi$.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 4 (Medium A - Dificultad Medium)
@@ -122,28 +115,25 @@ Una pizza familiar tiene un diámetro de 40 cm. ¿Cuál es su área aproximada e
    $$ A = 1256 \text{ cm}^2 $$
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-GEO-002"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Geometría"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 5 (Medium B - Dificultad Medium)
-
-**ID:** "CO-MAT-11-GEO-002-v5"
-
-### Enunciado
-
-Una fuente circular en un parque tiene un radio de 3 metros. ¿Cuánto mide la superficie (área) que ocupa el agua? (Deje la respuesta en función de $\pi$).
-
-### Opciones
-
-- [ ] A) $3\pi \text{ m}^2$
-- [ ] B) $6\pi \text{ m}^2$
-- [x] C) $9\pi \text{ m}^2$
-- [ ] D) $12\pi \text{ m}^2$
-
-### Explicación Pedagógica
-
-**Respuesta Correcta: C**
-
-$$ A = \pi \times 3^2 = 9\pi \text{ m}^2 $$
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 6 (High A - Dificultad High)
@@ -171,33 +161,25 @@ $$ A = \pi(25 - 9) $$
 $$ A = \pi(16) = 16\pi $$
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-GEO-002"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Geometría"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 7 (High B - Dificultad High)
-
-**ID:** "CO-MAT-11-GEO-002-v7"
-
-### Enunciado
-
-Si el área de un círculo es $100\pi \text{ cm}^2$, ¿cuál es su perímetro (circunferencia)?
-(Fórmula circunferencia: $C = 2\pi r$).
-
-### Opciones
-
-- [ ] A) $10\pi \text{ cm}$
-- [x] B) $20\pi \text{ cm}$
-- [ ] C) $50\pi \text{ cm}$
-- [ ] D) $100\pi \text{ cm}$
-
-### Explicación Pedagógica
-
-**Respuesta Correcta: B**
-
-1. Hallar radio desde el área:
-   $$ \pi r^2 = 100\pi $$
-   $$ r^2 = 100 \rightarrow r = 10 $$
-2. Calcular circunferencia:
-   $$ C = 2\pi(10) = 20\pi \text{ cm} $$
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Metadata de Validacion

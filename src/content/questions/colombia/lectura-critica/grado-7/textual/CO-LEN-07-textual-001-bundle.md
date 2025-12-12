@@ -27,7 +27,10 @@ componente: "Semántico - Pragmático"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-EvaluarAvanzar", "MX-Secundaria"]
+applicable_exams: ["CO-EvaluarAvanzar", "MX-Secundaria"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Bundle: Lenguaje 7° - Texto Expositivo
@@ -36,11 +39,38 @@ applicable_exams: ["CO-EvaluarAvanzar", "MX-Secundaria"]
 > **Competencia:** Lectura inferencial de textos expositivos.
 
 ---
+id: "CO-LEN-07-textual-001"
+country: "CO"
+grado: 7
+asignatura: "Lenguaje"
+tema: "Tipología Textual"
+dificultad: "Medium"
+estado: "draft"
+creador: "Antigravity"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Texto Base (Preguntas 1-4)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-LEN-007-TXT-001"
+original_concept: "Lectura Informativa y Narrativa"
+competencia_icfes: "Comprensión e interpretación textual"
+componente: "Semántico - Pragmático"
 
-"El oso de anteojos es el único oso de Sudamérica. Habita en los bosques andinos húmedos y páramos. Su característica principal son las manchas blancas alrededor de los ojos, que parecen unas gafas o anteojos. Es omnívoro, aunque su dieta es principalmente vegetariana (frutas, bromelias). Actualmente, se encuentra en estado vulnerable debido a la destrucción de su hábitat."
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-EvaluarAvanzar", "MX-Secundaria"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1 (Original - Dificultad Medium)
@@ -65,28 +95,38 @@ Pregunta literal-inferencial. El texto dice explícitamente: "...debido a la des
 **Competencia evaluada:** Comprensión Literal/Local.
 
 ---
+id: "CO-LEN-07-textual-001"
+country: "CO"
+grado: 7
+asignatura: "Lenguaje"
+tema: "Tipología Textual"
+dificultad: "Medium"
+estado: "draft"
+creador: "Antigravity"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 2 (Fácil - Dificultad 1)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-LEN-007-TXT-001"
+original_concept: "Lectura Informativa y Narrativa"
+competencia_icfes: "Comprensión e interpretación textual"
+componente: "Semántico - Pragmático"
 
-**ID:** `CO-LEN-07-textual-001-v2`
-
-### Enunciado
-
-¿En qué continente vive el oso de anteojos?
-
-### Opciones
-
-- [ ] A) Norteamérica
-- [x] B) Sudamérica
-- [ ] C) Europa
-- [ ] D) Asia
-
-### Explicación Pedagógica
-
-Literal. La primera frase dice: "es el único oso de Sudamérica".
-
-**Competencia evaluada:** Comprensión Literal.
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-EvaluarAvanzar", "MX-Secundaria"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 2)
@@ -111,28 +151,38 @@ Léxico. Omnívoro (omni=todo, voro=comer) significa que come de todo. El texto 
 **Competencia evaluada:** Semántica - Vocabulario.
 
 ---
+id: "CO-LEN-07-textual-001"
+country: "CO"
+grado: 7
+asignatura: "Lenguaje"
+tema: "Tipología Textual"
+dificultad: "Medium"
+estado: "draft"
+creador: "Antigravity"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 4 (Media - Dificultad 3)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-LEN-007-TXT-001"
+original_concept: "Lectura Informativa y Narrativa"
+competencia_icfes: "Comprensión e interpretación textual"
+componente: "Semántico - Pragmático"
 
-**ID:** `CO-LEN-07-textual-001-v4`
-
-### Enunciado
-
-La intención principal del autor de este texto es:
-
-### Opciones
-
-- [ ] A) Narrar un cuento sobre un oso.
-- [x] B) Informar sobre las características del oso de anteojos.
-- [ ] C) Convencer a la gente de comprar osos.
-- [ ] D) Expresar sus sentimientos hacia el oso.
-
-### Explicación Pedagógica
-
-Es un texto **expositivo/informativo**. No hay trama (cuento) ni opinión personal fuerte (argumentativo/lírico). Su fin es dar datos.
-
-**Competencia evaluada:** Pragmática - Intención comunicativa.
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-EvaluarAvanzar", "MX-Secundaria"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -157,28 +207,38 @@ En la oración "Los árboles **frondosos** daban mucha sombra", la palabra desta
 **Competencia evaluada:** Sintáctica - Categorías gramaticales.
 
 ---
+id: "CO-LEN-07-textual-001"
+country: "CO"
+grado: 7
+asignatura: "Lenguaje"
+tema: "Tipología Textual"
+dificultad: "Medium"
+estado: "draft"
+creador: "Antigravity"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 6 (Difícil - Dificultad 4)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-LEN-007-TXT-001"
+original_concept: "Lectura Informativa y Narrativa"
+competencia_icfes: "Comprensión e interpretación textual"
+componente: "Semántico - Pragmático"
 
-**ID:** `CO-LEN-07-textual-001-v6`
-
-### Enunciado
-
-Lee: "Estudié mucho, **así que** me fue bien". El conector resaltado indica:
-
-### Opciones
-
-- [ ] A) Oposición (contraste)
-- [ ] B) Causa
-- [x] C) Consecuencia (efecto)
-- [ ] D) Adición
-
-### Explicación Pedagógica
-
-"Así que" introduce la consecuencia de la acción anterior (estudiar mucho $\rightarrow$ ir bien).
-
-**Competencia evaluada:** Sintáctica (Cohesión) - Conectores.
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-EvaluarAvanzar", "MX-Secundaria"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)

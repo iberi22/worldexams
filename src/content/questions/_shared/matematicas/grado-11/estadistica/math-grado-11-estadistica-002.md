@@ -11,7 +11,10 @@ llm_model: unknown
 agent: legacy
 ide: unknown
 source: human-curated
-group_id: MAT16568
+group_id: MAT16568
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 # Pregunta
 La media de las edades de un grupo de 5 personas es 20 años. Si se une una persona de 26 años al grupo, ¿cuál es la nueva media?

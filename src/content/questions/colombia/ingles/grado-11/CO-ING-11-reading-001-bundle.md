@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: Climate Change Warning
@@ -22,11 +25,25 @@ source_license: "CC BY-SA 4.0"
 > **Note:** Reading text about Global Warming.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-ING-11-reading-001"
+country: "co"
+grado: 11
+asignatura: "Inglés"
+tema: "Reading Comprehension - Environment"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-# Text Base
-
-"**Global warming** is causing polar ice to melt at unprecedented rates. Scientists predict that if this continues, sea levels could rise significantly by 2100. This phenomenon is largely driven by the emission of **greenhouse gases**, such as carbon dioxide, from burning fossil fuels. As a result, coastal cities face the risk of flooding, and weather patterns are becoming more extreme. Experts suggest that switching to **renewable energy** sources like solar and wind power is crucial to mitigate these effects."
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1 (Original - Dificultad Medium)
@@ -53,30 +70,25 @@ El texto enfoca sus consecuencias principales en el derretimiento del hielo pola
 **Componente:** Reading Comprehension
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-ING-11-reading-001"
+country: "co"
+grado: 11
+asignatura: "Inglés"
+tema: "Reading Comprehension - Environment"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 2 (Low A - Dificultad Low)
-
-**ID:** "CO-ING-11-reading-001-v2"
-
-### Enunciado
-
-According to the text, what is melting at unprecedented rates?
-
-### Opciones
-
-- [ ] A) Coastal cities
-- [x] B) Polar ice
-- [ ] C) Greenhouses
-- [ ] D) Fossil fuels
-
-### Explicación Pedagógica
-
-**¿Por qué B es correcta?**
-El texto dice explícitamente: "Global warming is causing **polar ice** to melt...".
-
-**Competencia evaluada:** Lectura Literal
-**Componente:** Reading Comprehension
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3 (Low B - Dificultad Low)
@@ -103,30 +115,25 @@ El texto sugiere cambiar a energías renovables: "renewable energy sources like 
 **Componente:** Reading Comprehension
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-ING-11-reading-001"
+country: "co"
+grado: 11
+asignatura: "Inglés"
+tema: "Reading Comprehension - Environment"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 4 (Medium A - Dificultad Medium)
-
-**ID:** "CO-ING-11-reading-001-v4"
-
-### Enunciado
-
-Based on the text, what is the primary cause of the phenomenon described?
-
-### Opciones
-
-- [ ] A) The rise of sea levels.
-- [ ] B) Unprecedented rates of ice melting.
-- [x] C) Emission of greenhouse gases.
-- [ ] D) Extreme weather patterns.
-
-### Explicación Pedagógica
-
-**¿Por qué C es correcta?**
-El texto establece la relación causal: "driven by the **emission of greenhouse gases**". Las otras opciones son consecuencias o síntomas, no la causa principal.
-
-**Competencia evaluada:** Lectura Inferencial - Causa y Efecto
-**Componente:** Reading Comprehension
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5 (Medium B - Dificultad Medium)
@@ -153,30 +160,25 @@ En contexto, "unprecedented rates" indica que la velocidad de derretimiento es a
 **Componente:** Vocabulary
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-ING-11-reading-001"
+country: "co"
+grado: 11
+asignatura: "Inglés"
+tema: "Reading Comprehension - Environment"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 6 (High A - Dificultad High)
-
-**ID:** "CO-ING-11-reading-001-v6"
-
-### Enunciado
-
-It can be inferred from the text that if we do not switch to renewable energy:
-
-### Opciones
-
-- [ ] A) Weather patterns will stabilize.
-- [ ] B) Polar ice will stop melting.
-- [x] C) Coastal cities might eventually disappear or be damaged.
-- [ ] D) Measuring sea levels will become impossible.
-
-### Explicación Pedagógica
-
-**¿Por qué C es correcta?**
-El texto advierte que si esto continúa ("if this continues"), el nivel del mar subirá y las ciudades costeras enfrentarán inundaciones. Inferimos que no actuar (no cambiar de energía) llevará a daños severos o pérdida de estas ciudades.
-
-**Competencia evaluada:** Lectura Inferencial - Predicción
-**Componente:** Reading Comprehension
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7 (High B - Dificultad High)

@@ -27,7 +27,10 @@ componente: "Semántico"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber3"]
+applicable_exams: ["CO-Saber3"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Bundle: Comprensión de Textos Cortos 3°
@@ -36,28 +39,38 @@ applicable_exams: ["CO-Saber3"]
 > **Componente:** Semántico
 
 ---
+id: "CO-LEN-03-comprension-mix-001"
+country: "CO"
+grado: 3
+asignatura: "Lenguaje"
+tema: "Comprensión Lectora Básica"
+dificultad: 2
+estado: "draft"
+creador: "Antigravity"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (2) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 1 (Original - Dificultad 2)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-LEN-003-CMP-MIX"
+original_concept: "Lectura Literal e Inferencial Simple"
+competencia_icfes: "Comprensión e interpretación textual"
+componente: "Semántico"
 
-**ID:** `CO-LEN-03-comprension-mix-001-v1`
-
-### Enunciado
-
-Lee: 'Ana fue al mercado y compró manzanas.' ¿A dónde fue Ana?
-
-### Opciones
-
-- [ ] A) Al parque
-- [ ] B) A la escuela
-- [x] C) Al mercado
-- [ ] D) Al cine
-
-### Explicación Pedagógica
-
-Pregunta literal. El texto dice explícitamente "fue al mercado".
-
-**Competencia evaluada:** Comprensión Literal.
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber3"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -82,28 +95,38 @@ Literal. El sujeto de la oración es Ana.
 **Competencia evaluada:** Comprensión Literal - Identificar personajes.
 
 ---
+id: "CO-LEN-03-comprension-mix-001"
+country: "CO"
+grado: 3
+asignatura: "Lenguaje"
+tema: "Comprensión Lectora Básica"
+dificultad: 2
+estado: "draft"
+creador: "Antigravity"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (2) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 3 (Media - Dificultad 2)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-LEN-003-CMP-MIX"
+original_concept: "Lectura Literal e Inferencial Simple"
+competencia_icfes: "Comprensión e interpretación textual"
+componente: "Semántico"
 
-**ID:** `CO-LEN-03-comprension-mix-001-v3`
-
-### Enunciado
-
-¿Qué compró Ana?
-
-### Opciones
-
-- [ ] A) Peras
-- [x] B) Manzanas
-- [ ] C) Juguetes
-- [ ] D) Pan
-
-### Explicación Pedagógica
-
-Literal. "compró manzanas".
-
-**Competencia evaluada:** Comprensión Literal - Detalles.
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber3"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -129,29 +152,38 @@ Inferencia causal. Sol fuerte $\rightarrow$ Necesidad de protección.
 **Competencia evaluada:** Comprensión Inferencial - Causa/Efecto.
 
 ---
+id: "CO-LEN-03-comprension-mix-001"
+country: "CO"
+grado: 3
+asignatura: "Lenguaje"
+tema: "Comprensión Lectora Básica"
+dificultad: 2
+estado: "draft"
+creador: "Antigravity"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (2) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 5 (Difícil - Dificultad 4)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-LEN-003-CMP-MIX"
+original_concept: "Lectura Literal e Inferencial Simple"
+competencia_icfes: "Comprensión e interpretación textual"
+componente: "Semántico"
 
-**ID:** `CO-LEN-03-comprension-mix-001-v5`
-
-### Enunciado
-
-Lee: "El perro movía la cola cuando vio a su dueño."
-Podemos decir que el perro estaba:
-
-### Opciones
-
-- [ ] A) Bravo
-- [ ] B) Triste
-- [x] C) Feliz
-- [ ] D) Dormido
-
-### Explicación Pedagógica
-
-Interpretar el lenguaje corporal (mover la cola) como signo de emoción (felicidad).
-
-**Competencia evaluada:** Interpretación textual.
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber3"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -179,28 +211,38 @@ Secuencia lógica temporal (hábito saludable antes de comer). Lavarse $\rightar
 **Competencia evaluada:** Organización textual.
 
 ---
+id: "CO-LEN-03-comprension-mix-001"
+country: "CO"
+grado: 3
+asignatura: "Lenguaje"
+tema: "Comprensión Lectora Básica"
+dificultad: 2
+estado: "draft"
+creador: "Antigravity"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (2) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 7 (Fácil - Dificultad 1)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-LEN-003-CMP-MIX"
+original_concept: "Lectura Literal e Inferencial Simple"
+competencia_icfes: "Comprensión e interpretación textual"
+componente: "Semántico"
 
-**ID:** `CO-LEN-03-comprension-mix-001-v7`
-
-### Enunciado
-
-¿Cuál palabra está mal escrita?
-
-### Opciones
-
-- [ ] A) Casa
-- [ ] B) Perro
-- [x] C) Vaca (escrita como 'Baca')
-- [ ] D) Gato
-
-### Explicación Pedagógica
-
-Ortografía básica. Vaca se escribe con V.
-
-**Competencia evaluada:** Ortografía.
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber3"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## 📊 Metadata de Validación

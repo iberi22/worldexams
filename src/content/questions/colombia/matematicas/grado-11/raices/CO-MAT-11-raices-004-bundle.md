@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: Adaptado de Legacy
@@ -24,29 +27,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Migrado automáticamente de v1.0 y expandido con variaciones.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-raices-004"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Raíces"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 1 (Original - Dificultad Medium)
-
-**ID:** "CO-MAT-11-raices-004-v1"
-
-### Enunciado
-
-Una plaza cuadrada en Medellín tiene un área de $225$ metros cuadrados. ¿Cuántos metros de cerca se necesitan para rodear completamente la plaza (perímetro)?
-
-### Opciones
-
-- [ ] A) 45 metros
-- [ ] B) 50 metros
-- [x] C) 60 metros
-- [ ] D) 75 metros
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** C
-
-1. **Lado:** $\sqrt{225} = 15$.
-2. **Perímetro:** $4 \times 15 = 60$.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 2 (Low A - Dificultad Low)
@@ -73,28 +72,25 @@ Un cuadrado de área $16 cm^2$. Su perímetro es:
 (Curioso caso donde valor numérico de área y perímetro coinciden).
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-raices-004"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Raíces"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 3 (Low B - Dificultad Low)
-
-**ID:** "CO-MAT-11-raices-004-v3"
-
-### Enunciado
-
-El área de un jardín cuadrado es $100 m^2$. ¿Cuánto mide la cerca de un **solo** lado?
-
-### Opciones
-
-- [ ] A) 50 m
-- [x] B) 10 m
-- [ ] C) 25 m
-- [ ] D) 100 m
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** B
-
-Solo pide el lado: $\sqrt{100} = 10$.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 4 (Medium A - Dificultad Medium)
@@ -120,28 +116,25 @@ Un terreno cuadrado tiene un área de $400 m^2$. Se quiere cercar solo 3 de sus 
 2. Cerca para 3 lados = $3 \times 20 = 60$.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-raices-004"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Raíces"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 5 (Medium B - Dificultad Medium)
-
-**ID:** "CO-MAT-11-raices-004-v5"
-
-### Enunciado
-
-La hipotenusa de un triángulo rectángulo con catetos de 3 cm y 4 cm es:
-
-### Opciones
-
-- [x] A) 5 cm
-- [ ] B) 7 cm
-- [ ] C) 6 cm
-- [ ] D) 25 cm
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** A
-
-Teorema de Pitágoras: $h = \sqrt{3^2 + 4^2} = \sqrt{9+16} = \sqrt{25} = 5$.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 6 (High A - Dificultad High)
@@ -168,29 +161,25 @@ Proceso inverso:
 2. Área = $10^2 = 100$.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-raices-004"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Raíces"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 7 (High B - Dificultad High)
-
-**ID:** "CO-MAT-11-raices-004-v7"
-
-### Enunciado
-
-Se tiene un cuadrado de área $A$. Si cuadruplicamos el área ($4A$), ¿qué pasa con el lado del cuadrado?
-
-### Opciones
-
-- [ ] A) Se cuadruplica
-- [x] B) Se duplica
-- [ ] C) Se mantiene igual
-- [ ] D) Se triplica
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** B
-
-Si Área nueva = $4L^2$, entonces Lado nuevo = $\sqrt{4L^2} = 2L$.
-El lado se duplica.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Metadata de Validacion

@@ -53,8 +53,20 @@ Democratizar el acceso a la preparación de exámenes de estado en todo el mundo
 
 ## 📜 Licencia
 
-- **Código:** MIT License
-- **Contenido (preguntas):** CC BY-SA 4.0
+### Código Fuente
+Todos los repositorios usan **MIT License** para el código (TypeScript, Svelte, Astro).
+
+### Contenido Educativo
+Las preguntas tienen **licencias duales** para proteger el trabajo educativo:
+
+| Variante | Licencia | Descripción |
+|----------|----------|-------------|
+| **v1** (original) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | Pregunta base (uso comercial permitido) |
+| **v2-v7** (derivadas) | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | Variantes pedagógicas (solo uso no-comercial) |
+
+**Nota:** Las fuentes originales (OpenTDB, OpenTrivia) usan CC BY-SA 4.0. Las variantes pedagógicas tienen licencia más restrictiva para proteger el esfuerzo educativo.
+
+**Para más detalles:** Ver [LICENSE.md](./LICENSE.md) en la raíz de este repositorio.
 
 ---
 

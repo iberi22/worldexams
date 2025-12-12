@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: La Escala de la Acidez
@@ -22,15 +25,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Texto expositivo sobre la escala de pH.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-QUI-11-acidobase-001"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Química - Ácidos y Bases"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-# Texto Base
-
-"La acidez o basicidad de una solución se mide mediante la **escala de pH**, que varía típicamente de 0 a 14.
-*   **pH Neutro (7):** Como el agua pura.
-*   **pH Ácido (< 7):** Alta concentración de iones $H^+$. Ejemplos: jugo de limón, vinagre.
-*   **pH Básico o Alcalino (> 7):** Alta concentración de iones $OH^-$. Ejemplos: jabón, amoníaco.
-La escala es **logarítmica**: un cambio de 1 unidad de pH representa un cambio de 10 veces en la concentración de iones."
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1 (Original - Dificultad Medium)
@@ -57,30 +70,25 @@ Según la escala de pH, cualquier valor menor a 7 se considera ácido. Un pH de 
 **Componente:** Química - Escala de pH
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-QUI-11-acidobase-001"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Química - Ácidos y Bases"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 2 (Low A - Dificultad Low)
-
-**ID:** "CO-QUI-11-acidobase-001-v2"
-
-### Enunciado
-
-Según el texto, una sustancia con pH igual a 7 se clasifica como:
-
-### Opciones
-
-- [ ] A) Ácida fuerte.
-- [ ] B) Básica fuerte.
-- [x] C) Neutra.
-- [ ] D) Tóxica.
-
-### Explicación Pedagógica
-
-**¿Por qué C es correcta?**
-El texto establece claramente: "pH Neutro (7): Como el agua pura".
-
-**Competencia evaluada:** Uso comprensivo del conocimiento científico
-**Componente:** Química - Conceptos Básicos
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3 (Low B - Dificultad Low)
@@ -107,30 +115,25 @@ El texto lista bajo pH Básico o Alcalino: "Ejemplos: jabón, amoníaco".
 **Componente:** Química - Ejemplos Cotidianos
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-QUI-11-acidobase-001"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Química - Ácidos y Bases"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 4 (Medium A - Dificultad Medium)
-
-**ID:** "CO-QUI-11-acidobase-001-v4"
-
-### Enunciado
-
-Si se utiliza papel tornasol como indicador, típicamente se torna **rojo** en presencia de ácidos y **azul** en presencia de bases. Si sumerges el papel en jugo de limón (pH 2), ¿qué color esperas?
-
-### Opciones
-
-- [x] A) Rojo.
-- [ ] B) Azul.
-- [ ] C) Verde.
-- [ ] D) Amarillo brillante.
-
-### Explicación Pedagógica
-
-**¿Por qué A es correcta?**
-El jugo de limón es ácido (pH < 7). Los ácidos vuelven el papel tornasol rojo.
-
-**Competencia evaluada:** Explicación de fenómenos
-**Componente:** Química - Indicadores de pH
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5 (Medium B - Dificultad Medium)
@@ -157,31 +160,25 @@ En la escala de pH, cuanto **menor** es el número, **mayor** es la concentraci�
 **Componente:** Química - Interpretación de Escala
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-QUI-11-acidobase-001"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Química - Ácidos y Bases"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 6 (High A - Dificultad High)
-
-**ID:** "CO-QUI-11-acidobase-001-v6"
-
-### Enunciado
-
-Debido a que la escala de pH es logarítmica, ¿cuántas veces es más ácida una solución de pH 4 comparada con una de pH 6?
-
-### Opciones
-
-- [ ] A) 2 veces.
-- [ ] B) 20 veces.
-- [x] C) 100 veces.
-- [ ] D) 1000 veces.
-
-### Explicación Pedagógica
-
-**¿Por qué C es correcta?**
-La diferencia de unidades de pH es $6 - 4 = 2$ unidades.
-Como la escala es logarítmica (base 10), la diferencia en concentración es $10^{\text{diferencia}} = 10^2 = 100$ veces.
-
-**Competencia evaluada:** Indagación y Análisis
-**Componente:** Química - Matemáticas del pH
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7 (High B - Dificultad High)

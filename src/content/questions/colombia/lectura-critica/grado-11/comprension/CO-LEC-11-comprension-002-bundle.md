@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: El Oro Azul
@@ -22,11 +25,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Texto expositivo ampliado para evaluación.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-LEC-11-comprension-002"
+country: "co"
+grado: 11
+asignatura: "Lectura Crítica"
+tema: "Comprensión Lectora - Recursos Naturales"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-# Texto Base
-
-"Aunque el agua cubre aproximadamente el 71% de la superficie terrestre, creando la ilusión de un recurso infinito, la realidad es preocupante. Solo el 2.5% de todo ese volumen es agua dulce, esencial para la vida terrestre. De esta pequeña fracción, casi el 69% está atrapada en glaciares y casquetes polares, mientras que otro 30% se encuentra como agua subterránea profunda. Esto deja menos del 1% del agua dulce total fácilmente accesible en lagos y ríos para el consumo humano y los ecosistemas, lo que convierte al agua potable en un 'oro azul' cada vez más escaso y disputado geopolíticamente."
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1 (Original - Dificultad Medium)
@@ -53,30 +70,25 @@ Aunque el texto menciona que hay mucha agua (71%), su propósito central es cont
 **Componente:** Identificación de idea principal
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-LEC-11-comprension-002"
+country: "co"
+grado: 11
+asignatura: "Lectura Crítica"
+tema: "Comprensión Lectora - Recursos Naturales"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 2 (Low A - Dificultad Low)
-
-**ID:** "CO-LEC-11-comprension-002-v2"
-
-### Enunciado
-
-Según el texto, ¿qué porcentaje del agua de la Tierra es dulce?
-
-### Opciones
-
-- [ ] A) 71%
-- [ ] B) 69%
-- [x] C) 2.5%
-- [ ] D) 1%
-
-### Explicación Pedagógica
-
-**¿Por qué C es correcta?**
-El texto dice explícitamente: "Solo el 2.5% de todo ese volumen es agua dulce". Es una pregunta de extracción de datos literales.
-
-**Competencia evaluada:** Lectura Crítica
-**Componente:** Ubicar información explícita
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3 (Low B - Dificultad Low)
@@ -103,30 +115,25 @@ El texto contrasta el agua "atrapada en glaciares" o "subterránea profunda" con
 **Componente:** Comprensión de vocabulario en contexto
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-LEC-11-comprension-002"
+country: "co"
+grado: 11
+asignatura: "Lectura Crítica"
+tema: "Comprensión Lectora - Recursos Naturales"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 4 (Medium A - Dificultad Medium)
-
-**ID:** "CO-LEC-11-comprension-002-v4"
-
-### Enunciado
-
-¿Por qué el autor se refiere al agua potable como "oro azul"?
-
-### Opciones
-
-- [ ] A) Porque tiene un color azul brillante bajo el sol.
-- [ ] B) Porque es un metal precioso líquido.
-- [x] C) Porque es un recurso muy valioso y escaso, como el oro.
-- [ ] D) Porque solo los ricos pueden comprarla.
-
-### Explicación Pedagógica
-
-**¿Por qué C es correcta?**
-Es una metáfora. Al igual que el oro es valioso por su escasez y utilidad, el agua dulce accesible (azul) es vital y limitada ("cada vez más escaso"), lo que le da un gran valor económico y estratégico.
-
-**Competencia evaluada:** Lectura Crítica
-**Componente:** Inferencia (Lenguaje figurado)
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5 (Medium B - Dificultad Medium)
@@ -153,30 +160,25 @@ Si el 69% del agua dulce está "atrapada en glaciares" (congelada), su derretimi
 **Componente:** Inferencia a partir de datos
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-LEC-11-comprension-002"
+country: "co"
+grado: 11
+asignatura: "Lectura Crítica"
+tema: "Comprensión Lectora - Recursos Naturales"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 6 (High A - Dificultad High)
-
-**ID:** "CO-LEC-11-comprension-002-v6"
-
-### Enunciado
-
-Al mencionar que el agua es un recurso "disputado geopolíticamente", el autor sugiere que:
-
-### Opciones
-
-- [ ] A) Los países cooperarán pacíficamente para compartirla siempre.
-- [x] B) La escasez de agua podría causar conflictos entre naciones.
-- [ ] C) La geografía política no afecta los recursos naturales.
-- [ ] D) El agua solo es importante para los políticos, no para la gente.
-
-### Explicación Pedagógica
-
-**¿Por qué B es correcta?**
-El término "disputado" implica conflicto, lucha o desacuerdo. "Geopolíticamente" refiere a las relaciones de poder entre países o territorios. La inferencia crítica es que la escasez ("oro azul escaso") llevará a conflictos internacionales por su control.
-
-**Competencia evaluada:** Lectura Crítica
-**Componente:** Lectura crítica e implicaciones sociales
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7 (High B - Dificultad High)

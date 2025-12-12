@@ -8,7 +8,10 @@ dificultad: 3
 estado: "draft"
 creador: "Copilot"
 protocol_version: "2.0"
-source: "Saber11-style"
+source: "Saber11-style"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 # Pregunta
 Select the correct form: "If I ___ rich, I would travel the world."

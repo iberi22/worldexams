@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: Maria's Routine
@@ -22,11 +25,25 @@ source_license: "CC BY-SA 4.0"
 > **Note:** Reading text about Daily Activities.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-ING-11-reading-002"
+country: "co"
+grado: 11
+asignatura: "Inglés"
+tema: "Reading Comprehension - Daily Routine"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-# Text Base
-
-"**Maria** wakes up at 6:00 a.m. every day. She has a big breakfast with her family, then she **walks** to school because it is near her house. Classes start at 7:00 a.m. and finish at 2:00 p.m. **After school**, she goes home, does her homework, and plays soccer with her friends in the park. In the evening, she reads a book before going to sleep at 9:00 p.m."
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1 (Original - Dificultad Medium)
@@ -53,30 +70,25 @@ El texto indica la secuencia temporal: "**After school**, she goes home, does he
 **Componente:** Reading Comprehension
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-ING-11-reading-002"
+country: "co"
+grado: 11
+asignatura: "Inglés"
+tema: "Reading Comprehension - Daily Routine"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 2 (Low A - Dificultad Low)
-
-**ID:** "CO-ING-11-reading-002-v2"
-
-### Enunciado
-
-At what time does Maria wake up?
-
-### Opciones
-
-- [ ] A) At 7:00 a.m.
-- [ ] B) At 2:00 p.m.
-- [ ] C) At 9:00 p.m.
-- [x] D) At 6:00 a.m.
-
-### Explicación Pedagógica
-
-**¿Por qué D es correcta?**
-El texto comienza diciendo explícitamente: "Maria wakes up at **6:00 a.m.**".
-
-**Competencia evaluada:** Lectura Literal - Detalles Específicos
-**Componente:** Reading Comprehension
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3 (Low B - Dificultad Low)
@@ -103,30 +115,25 @@ El texto dice: "then she **walks** to school".
 **Componente:** Reading Comprehension
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-ING-11-reading-002"
+country: "co"
+grado: 11
+asignatura: "Inglés"
+tema: "Reading Comprehension - Daily Routine"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 4 (Medium A - Dificultad Medium)
-
-**ID:** "CO-ING-11-reading-002-v4"
-
-### Enunciado
-
-What does Maria do immediately *before* walking to school?
-
-### Opciones
-
-- [ ] A) She wakes up.
-- [x] B) She has breakfast.
-- [ ] C) She plays soccer.
-- [ ] D) She reads a book.
-
-### Explicación Pedagógica
-
-**¿Por qué B es correcta?**
-La secuencia es: "She has a big breakfast..., **then** she walks to school". Por lo tanto, desayunar es la acción inmediatamente anterior a caminar.
-
-**Competencia evaluada:** Lectura Literal - Secuencia
-**Componente:** Reading Comprehension
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5 (Medium B - Dificultad Medium)
@@ -153,30 +160,25 @@ El texto da la razón (causa): "she walks to school **because it is near her hou
 **Componente:** Reading Comprehension
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-ING-11-reading-002"
+country: "co"
+grado: 11
+asignatura: "Inglés"
+tema: "Reading Comprehension - Daily Routine"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 6 (High A - Dificultad High)
-
-**ID:** "CO-ING-11-reading-002-v6"
-
-### Enunciado
-
-It can be inferred from the text that Maria is:
-
-### Opciones
-
-- [ ] A) A teacher.
-- [ ] B) A doctor.
-- [x] C) A student.
-- [ ] D) A soccer player only.
-
-### Explicación Pedagógica
-
-**¿Por qué C es correcta?**
-Aunque no dice "Maria is a student", el texto menciona que va a la escuela ("school"), tiene clases ("Classes start"), y hace tareas ("homework"). Esto permite inferir que es una estudiante.
-
-**Competencia evaluada:** Lectura Inferencial
-**Componente:** Reading Comprehension
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7 (High B - Dificultad High)

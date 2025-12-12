@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: Adaptado de Legacy
@@ -24,30 +27,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Migrado automáticamente de v1.0 y expandido con variaciones.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-poligonos-006"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Polígonos"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 1 (Original - Dificultad Medium)
-
-**ID:** "CO-MAT-11-poligonos-006-v1"
-
-### Enunciado
-
-Un hexágono regular tiene un perímetro de 36 cm. Si el área del hexágono se puede aproximar usando la fórmula $A \approx 2.6 \times L^2$, donde $L$ es la longitud de un lado, ¿cuál es el área aproximada?
-
-### Opciones
-
-- [ ] A) 78 cm²
-- [x] B) 93.6 cm²
-- [ ] C) 108 cm²
-- [ ] D) 124.8 cm²
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** B
-
-1. Perímetro = $6L = 36 \rightarrow L = 6$.
-2. Área $\approx 2.6 \times 6^2 = 2.6 \times 36$.
-3. $2.6 \times 36 = 93.6$.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 2 (Low A - Dificultad Low)
@@ -72,28 +70,25 @@ El perímetro de un cuadrado es 20 cm. ¿Cuánto mide cada lado?
 $P = 4L \rightarrow 20 = 4L \rightarrow L = 5$.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-poligonos-006"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Polígonos"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 3 (Low B - Dificultad Low)
-
-**ID:** "CO-MAT-11-poligonos-006-v3"
-
-### Enunciado
-
-Un triángulo equilátero tiene lados de 7 cm. ¿Cuál es su perímetro?
-
-### Opciones
-
-- [ ] A) 14 cm
-- [x] B) 21 cm
-- [ ] C) 28 cm
-- [ ] D) 49 cm
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** B
-
-$P = 3 \times 7 = 21$.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 4 (Medium A - Dificultad Medium)
@@ -118,28 +113,25 @@ Si un pentágono regular tiene lados de 8 cm, calcula su perímetro.
 $P = 5 \times 8 = 40$.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-poligonos-006"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Polígonos"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 5 (Medium B - Dificultad Medium)
-
-**ID:** "CO-MAT-11-poligonos-006-v5"
-
-### Enunciado
-
-Un octágono regular tiene un perímetro de 64 cm. ¿Cuánto mide cada lado?
-
-### Opciones
-
-- [ ] A) 6 cm
-- [x] B) 8 cm
-- [ ] C) 10 cm
-- [ ] D) 12 cm
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** B
-
-$64 / 8 = 8$.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 6 (High A - Dificultad High)
@@ -165,29 +157,25 @@ Para calcular el área exacta de un polígono regular, se usa el apotema ($a$). 
 Esto equivale a sumar el área de $n$ triángulos con base $L$ y altura $a$.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-poligonos-006"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Polígonos"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 7 (High B - Dificultad High)
-
-**ID:** "CO-MAT-11-poligonos-006-v7"
-
-### Enunciado
-
-Si el área de un cuadrado es 100 $m^2$, ¿cuál es su perímetro?
-
-### Opciones
-
-- [ ] A) 20 m
-- [x] B) 40 m
-- [ ] C) 100 m
-- [ ] D) 50 m
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** B
-
-1. $L^2 = 100 \rightarrow L = 10$.
-2. $P = 4 \times 10 = 40$.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Metadata de Validacion

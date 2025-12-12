@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: Adaptado de Legacy
@@ -24,28 +27,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Migrado automáticamente de v1.0 y expandido con variaciones.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-poligonos-003"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Polígonos"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 1 (Original - Dificultad Medium)
-
-**ID:** "CO-MAT-11-poligonos-003-v1"
-
-### Enunciado
-
-¿Cuántos lados tiene un pentágono?
-
-### Opciones
-
-- [ ] A) 4
-- [x] B) 5
-- [ ] C) 6
-- [ ] D) 7
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** B
-
-Penta = 5.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 2 (Low A - Dificultad Low)
@@ -70,28 +70,25 @@ Penta = 5.
 Tri=3, Hexa=6, Octa=8, Penta=5.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-poligonos-003"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Polígonos"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 3 (Low B - Dificultad Low)
-
-**ID:** "CO-MAT-11-poligonos-003-v3"
-
-### Enunciado
-
-¿Cuántos vértices tiene un triángulo?
-
-### Opciones
-
-- [x] A) 3
-- [ ] B) 4
-- [ ] C) 2
-- [ ] D) 5
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** A
-
-En un polígono simple, el número de vértices es igual al número de lados.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 4 (Medium A - Dificultad Medium)
@@ -116,28 +113,25 @@ En un polígono simple, el número de vértices es igual al número de lados.
 Hepta = 7.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-poligonos-003"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Polígonos"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 5 (Medium B - Dificultad Medium)
-
-**ID:** "CO-MAT-11-poligonos-003-v5"
-
-### Enunciado
-
-Si un polígono tiene 9 lados, se llama:
-
-### Opciones
-
-- [ ] A) Decágono
-- [x] B) Eneágono (o Nonágono)
-- [ ] C) Octágono
-- [ ] D) Endecágono
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** B
-
-Eneágono es el término común. Nonágono también se usa.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 6 (High A - Dificultad High)
@@ -162,28 +156,25 @@ Eneágono es el término común. Nonágono también se usa.
 Esta propiedad es fundamental para calcular la suma de los ángulos internos. Un cuadrado ($n=4$) se divide en 2 triángulos ($4-2$). Un pentágono ($n=5$) en 3 ($5-2$).
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-poligonos-003"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Polígonos"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 7 (High B - Dificultad High)
-
-**ID:** "CO-MAT-11-poligonos-003-v7"
-
-### Enunciado
-
-Un **Endecágono** tiene:
-
-### Opciones
-
-- [ ] A) 10 lados
-- [x] B) 11 lados
-- [ ] C) 12 lados
-- [ ] D) 9 lados
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** B
-
-Endeca = 11. (Deca = 10, Hen/Un = 1).
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Metadata de Validacion

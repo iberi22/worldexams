@@ -25,6 +25,7 @@
   import BlogView from './BlogView.svelte';
   import ArticleView from './ArticleView.svelte';
   import { fetchAllQuestionsForGrade, getAvailableSubjects } from '../lib/api-service';
+  import { filterByPlan } from '../utils/questionParser';
 
   export let questions = [];
   export let universalPool = null; // New prop for universal questions pool
@@ -47,6 +48,10 @@
   let showRegistrationModal = false;
   let cacheWasCleared = false; // Track if cache was just cleared
   let memoryStats = { answeredCount: 0, totalAvailable: 0, percentAnswered: 0 };
+
+  // User plan (free or institutional)
+  // TODO: Integrar con Supabase user_metadata cuando se implemente backend auth
+  let userPlan = 'free'; // Por defecto, usuarios son free (solo v1)
 
   // Configurable percentage of universal questions (0-100)
   const UNIVERSAL_QUESTION_PERCENTAGE = 30;
@@ -117,8 +122,12 @@
     return gradeMatch && subjectMatch;
   });
 
+  // Filter by user plan (free = solo v1, institutional = v1-v7)
+  $: planFilteredQuestions = filterByPlan(filteredLocalQuestions, userPlan);
+
   // Mix local and universal questions, then filter out already answered ones
-  $: examQuestions = prepareExamQuestions(filteredLocalQuestions, universalPool, selectedGrade, selectedSubject);
+  // Usar planFilteredQuestions en lugar de filteredLocalQuestions para respetar licencias
+  $: examQuestions = prepareExamQuestions(planFilteredQuestions, universalPool, selectedGrade, selectedSubject);
 
   /**
    * Prepare exam questions: mix local with universal, then filter already answered

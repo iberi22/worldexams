@@ -27,7 +27,10 @@ componente: "Entorno Vivo"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber9", "MX-ENLACE", "ES-ESO"]
+applicable_exams: ["CO-Saber9", "MX-ENLACE", "ES-ESO"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Bundle: Redes Tróficas y Flujo de Energía
@@ -38,28 +41,38 @@ applicable_exams: ["CO-Saber9", "MX-ENLACE", "ES-ESO"]
 > **Contexto:** Relaciones interespecíficas y flujo de energía en ecosistemas.
 
 ---
+id: "CO-CIE-09-ecosistemas-001"
+country: "CO"
+grado: 9
+asignatura: "Ciencias Naturales"
+tema: "Ecosistemas - Redes Tróficas"
+dificultad: "Medium"
+estado: "draft"
+creador: "Antigravity"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 1 (Original - Dificultad Medium)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-CIE-009-001"
+original_concept: "Dinámica de poblaciones en red trófica"
+competencia_icfes: "Uso comprensivo del conocimiento científico"
+componente: "Entorno Vivo"
 
-**ID:** `CO-CIE-09-ecosistemas-001-v1`
-
-### Enunciado
-
-En una cadena alimenticia, ¿qué sucedería a corto plazo con la población de consumidores primarios si se eliminan los productores?
-
-### Opciones
-
-- [ ] A) Aumentaría debido a la falta de competencia.
-- [ ] B) Se mantendría igual, ya que pueden comer otras cosas.
-- [x] C) Disminuiría drásticamente por falta de alimento.
-- [ ] D) Evolucionarían para convertirse en productores.
-
-### Explicación Pedagógica
-
-Los consumidores primarios (herbívoros) dependen directamente de los productores (plantas/algas) para obtener energía. Si la base de la cadena desaparece, no hay flujo de energía, causando muerte por inanición. La evolución no ocurre a "corto plazo".
-
-**Competencia evaluada:** Explicación de fenómenos - Predicción de cambios en sistemas.
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber9", "MX-ENLACE", "ES-ESO"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 2 (Low A - Dificultad Low)
@@ -84,31 +97,38 @@ Por definición, los organismos fotosintéticos (plantas, algas) que transforman
 **Competencia evaluada:** Uso comprensivo del conocimiento - Clasificación de organismos.
 
 ---
+id: "CO-CIE-09-ecosistemas-001"
+country: "CO"
+grado: 9
+asignatura: "Ciencias Naturales"
+tema: "Ecosistemas - Redes Tróficas"
+dificultad: "Medium"
+estado: "draft"
+creador: "Antigravity"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 3 (Low B - Dificultad Low)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-CIE-009-001"
+original_concept: "Dinámica de poblaciones en red trófica"
+competencia_icfes: "Uso comprensivo del conocimiento científico"
+componente: "Entorno Vivo"
 
-**ID:** `CO-CIE-09-ecosistemas-001-v3`
-
-### Enunciado
-
-¿Cuál de los siguientes organismos es un consumidor primario (herbívoro)?
-
-### Opciones
-
-- [ ] A) León
-- [x] B) Vaca
-- [ ] C) Planta de maíz
-- [ ] D) Hongo
-
-### Explicación Pedagógica
-
-Un consumidor primario es aquel que se alimenta directamente de los productores (plantas). La vaca come pasto (planta), por lo tanto es un consumidor primario.
-*   León: Carnívoro (Consumidor secundario/terciario).
-*   Planta: Productor.
-*   Hongo: Descomponedor.
-
-**Competencia evaluada:** Uso comprensivo del conocimiento - Roles tróficos.
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber9", "MX-ENLACE", "ES-ESO"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 4 (Medium A - Dificultad Medium)
@@ -133,28 +153,38 @@ Al eliminar el control biológico (depredador), la presa (venado) se reproduce s
 **Competencia evaluada:** Explicación de fenómenos - Relación depredador-presa.
 
 ---
+id: "CO-CIE-09-ecosistemas-001"
+country: "CO"
+grado: 9
+asignatura: "Ciencias Naturales"
+tema: "Ecosistemas - Redes Tróficas"
+dificultad: "Medium"
+estado: "draft"
+creador: "Antigravity"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 5 (Medium B - Dificultad Medium)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-CIE-009-001"
+original_concept: "Dinámica de poblaciones en red trófica"
+competencia_icfes: "Uso comprensivo del conocimiento científico"
+componente: "Entorno Vivo"
 
-**ID:** `CO-CIE-09-ecosistemas-001-v5`
-
-### Enunciado
-
-La energía en un ecosistema fluye en una sola dirección. ¿Cuál es la secuencia correcta del flujo de energía?
-
-### Opciones
-
-- [x] A) Sol $\rightarrow$ Productor $\rightarrow$ Herbívoro $\rightarrow$ Carnívoro
-- [ ] B) Productor $\rightarrow$ Sol $\rightarrow$ Descomponedor
-- [ ] C) Carnívoro $\rightarrow$ Herbívoro $\rightarrow$ Productor
-- [ ] D) Sol $\rightarrow$ Descomponedor $\rightarrow$ Productor
-
-### Explicación Pedagógica
-
-La energía ingresa como luz solar, es captada por productores, transferida a herbívoros y luego a carnívoros. Se pierde calor en cada paso (Ley del diezmo ecológico).
-
-**Competencia evaluada:** Uso comprensivo del conocimiento - Flujo de energía.
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber9", "MX-ENLACE", "ES-ESO"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 6 (High A - Dificultad High)
@@ -179,28 +209,38 @@ La biomaignificación es el proceso donde sustancias tóxicas se acumulan en may
 **Competencia evaluada:** Indagación - Análisis de impactos ambientales.
 
 ---
+id: "CO-CIE-09-ecosistemas-001"
+country: "CO"
+grado: 9
+asignatura: "Ciencias Naturales"
+tema: "Ecosistemas - Redes Tróficas"
+dificultad: "Medium"
+estado: "draft"
+creador: "Antigravity"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 7 (High B - Dificultad High)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-CIE-009-001"
+original_concept: "Dinámica de poblaciones en red trófica"
+competencia_icfes: "Uso comprensivo del conocimiento científico"
+componente: "Entorno Vivo"
 
-**ID:** `CO-CIE-09-ecosistemas-001-v7`
-
-### Enunciado
-
-Introducir una especie exótica invasora (como el hipopótamo en Colombia) en un ecosistema nuevo suele ser perjudicial porque:
-
-### Opciones
-
-- [ ] A) Aumenta la biodiversidad general del planeta.
-- [ ] B) Las especies nativas se comen a la invasora rápidamente.
-- [x] C) Compite por recursos sin tener depredadores naturales, desplazando a las nativas.
-- [ ] D) Mejora la calidad del suelo para las plantas locales.
-
-### Explicación Pedagógica
-
-Las especies invasoras suelen tener éxito porque en el nuevo entorno carecen de los depredadores o enfermedades que controlaban su población en su hábitat original. Esto les permite reproducirse descontroladamente y competir ventajosamente contra las especies nativas, a menudo llevándolas a la extinción local.
-
-**Competencia evaluada:** Indagación y Pensamiento sistémico - Equilibrio ecológico.
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber9", "MX-ENLACE", "ES-ESO"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## 📊 Metadata de Validación

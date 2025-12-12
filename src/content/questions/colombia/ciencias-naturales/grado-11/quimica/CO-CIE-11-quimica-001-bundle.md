@@ -27,7 +27,10 @@ componente: "Químico"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad-Quimica", "SAT-Chemistry"]
+applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad-Quimica", "SAT-Chemistry"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Bundle: Química General y Reacciones
@@ -38,19 +41,38 @@ applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad-Quimica", "SAT-Ch
 > **Contexto:** Conceptos fundamentales de química inorgánica
 
 ---
+id: "CO-CIE-11-quimica-001"
+country: "CO"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Química - Materia y Reacciones"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## 📊 Metadata de Validación
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-CIE-011-004"
+original_concept: "Propiedades de la materia, tabla periódica y pH"
+competencia_icfes: "Uso comprensivo del conocimiento - Explicación de fenómenos"
+componente: "Químico"
 
-| Pregunta | ID | Dificultad | Competencia ICFES | Componente | Validado |
-|----------|-----|------------|-------------------|------------|----------|
-| 1 | CO-CIE-11-quimica-001-v1 | Medium | Uso comprensivo | Químico | ⬜ |
-| 2 | CO-CIE-11-quimica-001-v2 | Low | Uso comprensivo | Químico | ⬜ |
-| 3 | CO-CIE-11-quimica-001-v3 | Low | Uso comprensivo | Químico | ⬜ |
-| 4 | CO-CIE-11-quimica-001-v4 | Medium | Explicación | Químico | ⬜ |
-| 5 | CO-CIE-11-quimica-001-v5 | Medium | Resolución | Químico | ⬜ |
-| 6 | CO-CIE-11-quimica-001-v6 | High | Indagación | Químico | ⬜ |
-| 7 | CO-CIE-11-quimica-001-v7 | High | Resolución | Químico | ⬜ |
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad-Quimica", "SAT-Chemistry"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1 (Original - Dificultad Medium)
@@ -80,28 +102,38 @@ Un pH de 3 está por debajo de 7, indicando una acidez considerable (similar al 
 **Competencia evaluada:** Uso comprensivo del conocimiento - escala de pH
 
 ---
+id: "CO-CIE-11-quimica-001"
+country: "CO"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Química - Materia y Reacciones"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 2 (Low A - Dificultad Low)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-CIE-011-004"
+original_concept: "Propiedades de la materia, tabla periódica y pH"
+competencia_icfes: "Uso comprensivo del conocimiento - Explicación de fenómenos"
+componente: "Químico"
 
-**ID:** `CO-CIE-11-quimica-001-v2`
-
-### Enunciado
-
-En la tabla periódica, los **Gases Nobles** (como el Helio, Neón, Argón) se caracterizan principalmente por:
-
-### Opciones
-
-- [ ] A) Ser metales muy reactivos.
-- [ ] B) Formar fácilmente enlaces con otros elementos.
-- [x] C) Tener muy baja reactividad química (son inertes).
-- [ ] D) Ser sólidos a temperatura ambiente.
-
-### Explicación Pedagógica
-
-Los gases nobles (Grupo 18) tienen su última capa de electrones completa (regla del octeto/dueto), lo que los hace extremadamente estables y **poco reactivos** químicamente. No tienden a formar enlaces.
-
-**Competencia evaluada:** Uso comprensivo del conocimiento - propiedades periódicas
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad-Quimica", "SAT-Chemistry"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3 (Low B - Dificultad Low)
@@ -129,36 +161,38 @@ Estructura del átomo:
 **Competencia evaluada:** Uso comprensivo del conocimiento - estructura atómica
 
 ---
+id: "CO-CIE-11-quimica-001"
+country: "CO"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Química - Materia y Reacciones"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 4 (Medium A - Dificultad Medium)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-CIE-011-004"
+original_concept: "Propiedades de la materia, tabla periódica y pH"
+competencia_icfes: "Uso comprensivo del conocimiento - Explicación de fenómenos"
+componente: "Químico"
 
-**ID:** `CO-CIE-11-quimica-001-v4`
-
-### Enunciado
-
-Se tiene la siguiente ecuación química no balanceada:
-$$H_2 + O_2 \rightarrow H_2O$$
-
-Para cumplir con la Ley de Conservación de la Masa, los coeficientes estequiométricos correctos para balancearla son:
-
-### Opciones
-
-- [ ] A) $1, 1 \rightarrow 1$
-- [x] B) $2H_2 + 1O_2 \rightarrow 2H_2O$
-- [ ] C) $1H_2 + 2O_2 \rightarrow 2H_2O$
-- [ ] D) $2H_2 + 2O_2 \rightarrow 1H_2O$
-
-### Explicación Pedagógica
-
-Balanceo por tanteo:
-1.  **Oxígeno:** Entran 2 ($O_2$). Para que salgan 2, necesitamos $2H_2O$.
-2.  **Hidrógeno:** Al poner $2H_2O$, ahora tenemos $2 \times 2 = 4$ átomos de H a la salida.
-3.  Para tener 4 H a la entrada, necesitamos $2H_2$.
-
-Ecuación final: $2H_2 + O_2 \rightarrow 2H_2O$.
-
-**Competencia evaluada:** Explicación de fenómenos - balanceo de ecuaciones
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad-Quimica", "SAT-Chemistry"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5 (Medium B - Dificultad Medium)
@@ -184,33 +218,38 @@ Según la **Ley de Gay-Lussac**: Para un gas a volumen constante, la presión es
 **Competencia evaluada:** Explicación de fenómenos - leyes de los gases
 
 ---
+id: "CO-CIE-11-quimica-001"
+country: "CO"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Química - Materia y Reacciones"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 6 (High A - Dificultad High)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-CIE-011-004"
+original_concept: "Propiedades de la materia, tabla periódica y pH"
+competencia_icfes: "Uso comprensivo del conocimiento - Explicación de fenómenos"
+componente: "Químico"
 
-**ID:** `CO-CIE-11-quimica-001-v6`
-
-### Enunciado
-
-Una solución tiene una concentración de iones hidrógeno $[H^+] = 1 \times 10^{-5}$ M. ¿Cuál es su pH y qué tipo de solución es?
-
-### Opciones
-
-- [ ] A) pH = 9, Básica
-- [ ] B) pH = 5, Básica
-- [x] C) pH = 5, Ácida
-- [ ] D) pH = -5, Ácida
-
-### Explicación Pedagógica
-
-Fórmula de pH: $pH = -\log[H^+]$.
-Cálculo:
-$$pH = -\log(1 \times 10^{-5})$$
-$$pH = -(-5) = 5$$
-
-Como $pH = 5 < 7$, la solución es **Ácida**.
-
-**Competencia evaluada:** Resolución - cálculo de pH y logaritmos
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad-Quimica", "SAT-Chemistry"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7 (High B - Dificultad High)

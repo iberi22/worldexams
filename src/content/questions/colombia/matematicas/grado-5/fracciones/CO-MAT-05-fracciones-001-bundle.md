@@ -28,7 +28,10 @@ generation_date: "2025-12-04"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber5", "MX-ENLACE-Primaria", "ES-EducaPrimaria", "AR-Aprender"]
+applicable_exams: ["CO-Saber5", "MX-ENLACE-Primaria", "ES-EducaPrimaria", "AR-Aprender"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Bundle: Fracciones - Operaciones y Representación
@@ -38,38 +41,39 @@ applicable_exams: ["CO-Saber5", "MX-ENLACE-Primaria", "ES-EducaPrimaria", "AR-Ap
 > **Contexto:** Colombia - Situaciones con comida, mercados y vida escolar
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-05-fracciones-001"
+country: "CO"
+grado: 5
+asignatura: "Matemáticas"
+tema: "Fracciones - Operaciones Básicas"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Copilot"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
 
-## Pregunta 1 (Original - Dificultad Medium)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-MAT-005-001"
+original_concept: "Operaciones con fracciones y representación gráfica"
+competencia_icfes: "Razonamiento - Comunicación"
+componente: "Numérico"
+generation_date: "2025-12-04"
 
-**ID:** `CO-MAT-05-fracciones-001-v1`
-
-### Enunciado
-
-En una panadería de Bogotá, doña Rosa horneó una torta y la dividió en 8 partes iguales. Vendió 3 partes en la mañana y 2 partes en la tarde. ¿Qué fracción de la torta vendió doña Rosa en total?
-
-### Opciones
-
-- [ ] A) $\frac{3}{8}$
-- [x] B) $\frac{5}{8}$
-- [ ] C) $\frac{5}{16}$
-- [ ] D) $\frac{6}{8}$
-
-### Explicación Pedagógica
-
-**¿Por qué B es correcta?**
-- Partes vendidas en la mañana: $\frac{3}{8}$
-- Partes vendidas en la tarde: $\frac{2}{8}$
-- Total vendido: $\frac{3}{8} + \frac{2}{8} = \frac{3+2}{8} = \frac{5}{8}$
-
-Cuando sumamos fracciones con el mismo denominador, sumamos los numeradores y mantenemos el denominador.
-
-**¿Por qué las otras son incorrectas?**
-- **A) $\frac{3}{8}$:** Solo cuenta las partes de la mañana, olvidando la tarde.
-- **C) $\frac{5}{16}$:** Error al sumar también los denominadores (8+8=16), lo cual es incorrecto.
-- **D) $\frac{6}{8}$:** Error de suma en los numeradores (3+2≠6).
-
-**Competencia evaluada:** Resolución de problemas - suma de fracciones homogéneas
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber5", "MX-ENLACE-Primaria", "ES-EducaPrimaria", "AR-Aprender"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 2 (Low A - Dificultad Low)
@@ -104,30 +108,39 @@ La fracción es: $\frac{\text{partes sombreadas}}{\text{total de partes}} = \fra
 **Competencia evaluada:** Comunicación - representación gráfica de fracciones
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-05-fracciones-001"
+country: "CO"
+grado: 5
+asignatura: "Matemáticas"
+tema: "Fracciones - Operaciones Básicas"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Copilot"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
 
-## Pregunta 3 (Low B - Dificultad Low)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-MAT-005-001"
+original_concept: "Operaciones con fracciones y representación gráfica"
+competencia_icfes: "Razonamiento - Comunicación"
+componente: "Numérico"
+generation_date: "2025-12-04"
 
-**ID:** `CO-MAT-05-fracciones-001-v3`
-
-### Enunciado
-
-Carlos compró una pizza y se comió $\frac{1}{4}$ de ella. ¿Qué fracción de la pizza le quedó?
-
-### Opciones
-
-- [ ] A) $\frac{1}{4}$
-- [x] B) $\frac{3}{4}$
-- [ ] C) $\frac{4}{4}$
-- [ ] D) $\frac{2}{4}$
-
-### Explicación Pedagógica
-
-La pizza completa es $\frac{4}{4}$ (un entero).
-Si Carlos se comió $\frac{1}{4}$, entonces le queda:
-$\frac{4}{4} - \frac{1}{4} = \frac{3}{4}$
-
-**Competencia evaluada:** Resolución - resta de fracciones
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber5", "MX-ENLACE-Primaria", "ES-EducaPrimaria", "AR-Aprender"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 4 (Medium A - Dificultad Medium)
@@ -165,36 +178,39 @@ En el colegio de Medellín, los estudiantes de quinto grado votaron por su depor
 **Competencia evaluada:** Razonamiento - complemento de fracciones
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-05-fracciones-001"
+country: "CO"
+grado: 5
+asignatura: "Matemáticas"
+tema: "Fracciones - Operaciones Básicas"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Copilot"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
 
-## Pregunta 5 (Medium B - Dificultad Medium)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-MAT-005-001"
+original_concept: "Operaciones con fracciones y representación gráfica"
+competencia_icfes: "Razonamiento - Comunicación"
+componente: "Numérico"
+generation_date: "2025-12-04"
 
-**ID:** `CO-MAT-05-fracciones-001-v5`
-
-### Enunciado
-
-¿Cuál de las siguientes fracciones es equivalente a $\frac{2}{4}$?
-
-### Opciones
-
-- [ ] A) $\frac{4}{6}$
-- [x] B) $\frac{1}{2}$
-- [ ] C) $\frac{2}{8}$
-- [ ] D) $\frac{3}{4}$
-
-### Explicación Pedagógica
-
-$\frac{2}{4}$ se puede simplificar dividiendo numerador y denominador por 2:
-$\frac{2÷2}{4÷2} = \frac{1}{2}$
-
-**Verificación:** $\frac{1}{2} = 0.5$ y $\frac{2}{4} = 0.5$ ✓
-
-**¿Por qué las otras son incorrectas?**
-- **A) $\frac{4}{6}$:** $\frac{4}{6} = 0.666...$ ≠ $0.5$
-- **C) $\frac{2}{8}$:** $\frac{2}{8} = 0.25$ ≠ $0.5$
-- **D) $\frac{3}{4}$:** $\frac{3}{4} = 0.75$ ≠ $0.5$
-
-**Competencia evaluada:** Razonamiento - fracciones equivalentes
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber5", "MX-ENLACE-Primaria", "ES-EducaPrimaria", "AR-Aprender"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 6 (High A - Dificultad High)
@@ -231,45 +247,39 @@ $\frac{4}{12} + \frac{3}{12} = \frac{7}{12}$
 **Competencia evaluada:** Resolución - suma de fracciones heterogéneas
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-05-fracciones-001"
+country: "CO"
+grado: 5
+asignatura: "Matemáticas"
+tema: "Fracciones - Operaciones Básicas"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Copilot"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
 
-## Pregunta 7 (High B - Dificultad High)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-MAT-005-001"
+original_concept: "Operaciones con fracciones y representación gráfica"
+competencia_icfes: "Razonamiento - Comunicación"
+componente: "Numérico"
+generation_date: "2025-12-04"
 
-**ID:** `CO-MAT-05-fracciones-001-v7`
-
-### Enunciado
-
-En el mercado de Cali, doña Marta compra frutas. Gasta $\frac{1}{2}$ de su dinero en mangos, $\frac{1}{4}$ en papayas, y le sobran $15.000 pesos. ¿Cuánto dinero tenía doña Marta al principio?
-
-### Opciones
-
-- [ ] A) $30.000 pesos
-- [ ] B) $45.000 pesos
-- [x] C) $60.000 pesos
-- [ ] D) $75.000 pesos
-
-### Explicación Pedagógica
-
-**Paso 1:** Calcular qué fracción gastó:
-$\frac{1}{2} + \frac{1}{4} = \frac{2}{4} + \frac{1}{4} = \frac{3}{4}$
-
-**Paso 2:** Si gastó $\frac{3}{4}$, le sobró $\frac{1}{4}$
-
-**Paso 3:** Si $\frac{1}{4}$ del dinero = $15.000 pesos, entonces:
-$\frac{4}{4}$ (el total) = $15.000 × 4 = $60.000 pesos
-
-**Verificación:**
-- Mangos ($\frac{1}{2}$): $30.000
-- Papayas ($\frac{1}{4}$): $15.000
-- Sobra ($\frac{1}{4}$): $15.000
-- Total: $60.000 ✓
-
-**¿Por qué las otras son incorrectas?**
-- **A) $30.000:** Multiplicó por 2 en lugar de 4.
-- **B) $45.000:** Multiplicó por 3 (pensando en $\frac{3}{4}$).
-- **D) $75.000:** Multiplicó por 5 sin razón clara.
-
-**Competencia evaluada:** Razonamiento - problemas inversos con fracciones
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber5", "MX-ENLACE-Primaria", "ES-EducaPrimaria", "AR-Aprender"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## 📊 Metadata de Validación

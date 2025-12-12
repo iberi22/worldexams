@@ -1,0 +1,46 @@
+---
+// Importar Sentry en el layout principal
+import { Sentry } from '../lib/sentry';
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const {
+  title = 'SaberParaTodos - Practica ICFES Gratis',
+  description = 'Plataforma gratuita para practicar exámenes ICFES de Colombia'
+} = Astro.props;
+---
+
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content={description} />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+
+    <!-- Sentry Error Tracking -->
+    {import.meta.env.PROD && (
+      <script is:inline>
+        window.addEventListener('error', function(event) {
+          if (window.Sentry) {
+            window.Sentry.captureException(event.error);
+          }
+        });
+
+        window.addEventListener('unhandledrejection', function(event) {
+          if (window.Sentry) {
+            window.Sentry.captureException(event.reason);
+          }
+        });
+      </script>
+    )}
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>

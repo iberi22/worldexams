@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: Adaptado de Legacy
@@ -22,30 +25,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Migrado automáticamente de v1.0 y expandido con variaciones.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-derivadas-003"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Derivadas"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 1 (Original - Dificultad Medium)
-
-**ID:** "CO-MAT-11-derivadas-003-v1"
-
-### Enunciado
-
-¿Cuál es la derivada de $f(x) = x^3$?
-
-### Opciones
-
-- [ ] A) $x^2$
-- [x] B) $3x^2$
-- [ ] C) $x^4$
-- [ ] D) $3x$
-
-### Explicación Pedagógica
-
-**Respuesta Correcta: B**
-
-Usando la regla de potencias: $\frac{d}{dx}(x^n) = n x^{n-1}$.
-Para $n=3$:
-$$ f'(x) = 3 x^{3-1} = 3x^2 $$
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 2 (Low A - Dificultad Low)
@@ -71,28 +69,25 @@ Bajamos el exponente 2 y restamos 1:
 $$ y' = 2x^{2-1} = 2x^1 = 2x $$
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-derivadas-003"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Derivadas"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 3 (Low B - Dificultad Low)
-
-**ID:** "CO-MAT-11-derivadas-003-v3"
-
-### Enunciado
-
-Si $f(x) = x^4$, entonces $f'(x)$ es:
-
-### Opciones
-
-- [ ] A) $4x$
-- [x] B) $4x^3$
-- [ ] C) $3x^4$
-- [ ] D) $x^3$
-
-### Explicación Pedagógica
-
-**Respuesta Correcta: B**
-
-$$ f'(x) = 4x^{4-1} = 4x^3 $$
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 4 (Medium A - Dificultad Medium)
@@ -120,29 +115,25 @@ $$ = \pi \cdot (2r) = 2\pi r $$
 (Nota: Coincide con la fórmula del perímetro).
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-derivadas-003"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Derivadas"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 5 (Medium B - Dificultad Medium)
-
-**ID:** "CO-MAT-11-derivadas-003-v5"
-
-### Enunciado
-
-El volumen de un cubo es $V(x) = x^3$, donde $x$ es la arista. Calcula la tasa de cambio del volumen cuando la arista mide $x$ unidades.
-
-### Opciones
-
-- [ ] A) $x^2$
-- [x] B) $3x^2$
-- [ ] C) $3x$
-- [ ] D) $3$
-
-### Explicación Pedagógica
-
-**Respuesta Correcta: B**
-
-$$ V'(x) = 3x^2 $$
-Esto representa cómo cambia el volumen al aumentar el lado.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 6 (High A - Dificultad High)
@@ -170,31 +161,25 @@ $$ f'(x) = -1 \cdot x^{-2} $$
 $$ f'(x) = -\frac{1}{x^2} $$
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-derivadas-003"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Derivadas"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 7 (High B - Dificultad High)
-
-**ID:** "CO-MAT-11-derivadas-003-v7"
-
-### Enunciado
-
-¿Cuál es la derivada de la función raíz cuadrada $f(x) = \sqrt{x}$?
-(Sugerencia: exprese como potencia fraccionaria $x^{1/2}$).
-
-### Opciones
-
-- [x] A) $\frac{1}{2\sqrt{x}}$
-- [ ] B) $\frac{1}{2}x$
-- [ ] C) $\sqrt{x}$
-- [ ] D) $x^{-1/2}$
-
-### Explicación Pedagógica
-
-**Respuesta Correcta: A**
-
-$$ f(x) = x^{1/2} $$
-$$ f'(x) = \frac{1}{2} x^{1/2 - 1} $$
-$$ f'(x) = \frac{1}{2} x^{-1/2} = \frac{1}{2x^{1/2}} = \frac{1}{2\sqrt{x}} $$
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Metadata de Validacion

@@ -27,7 +27,10 @@ componente: "Espacio, territorio, ambiente y población"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber11", "MX-EXANI", "SAT-Geography"]
+applicable_exams: ["CO-Saber11", "MX-EXANI", "SAT-Geography"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Bundle: Geografía General y Económica
@@ -36,19 +39,38 @@ applicable_exams: ["CO-Saber11", "MX-EXANI", "SAT-Geography"]
 > **Competencia:** Relación sociedad-ambiente y sistemas económicos.
 
 ---
+id: "CO-SOC-11-geografia-general-001-bundle"
+country: "CO"
+grado: 11
+asignatura: "Sociales"
+tema: "Geografía General"
+dificultad: 2
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-4)"
+generation_date: "2025-12-06"
 
-## 📊 Metadata de Validación
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-SOC-11-GEO-GEN"
+original_concept: "Economic geography and physical systems"
+competencia_icfes: "Pensamiento espacial y ambiental"
+componente: "Espacio, territorio, ambiente y población"
 
-| Pregunta | ID | Dificultad | Competencia ICFES | Estado |
-|----------|-----|------------|-------------------|--------|
-| 1 | CO-SOC-11-geografia-general-001-v1 | 2 | Sectores económicos | ⬜ |
-| 2 | CO-SOC-11-geografia-general-001-v2 | 3 | Demografía | ⬜ |
-| 3 | CO-SOC-11-geografia-general-001-v3 | Low | Cambio climático | ⬜ |
-| 4 | CO-SOC-11-geografia-general-001-v4 | 4 | Globalización | ⬜ |
-| 5 | CO-SOC-11-geografia-general-001-v5 | 2 | Cartografía | ⬜ |
-| 6 | CO-SOC-11-geografia-general-001-v6 | 3 | Urbanización | ⬜ |
-| 7 | CO-SOC-11-geografia-general-001-v7 | 2 | Hidrografía | ⬜ |
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-EXANI", "SAT-Geography"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1
@@ -70,25 +92,38 @@ applicable_exams: ["CO-Saber11", "MX-EXANI", "SAT-Geography"]
 **Sector Primario:** Se encarga de obtener materias primas directamente de la naturaleza. Secundario es industria (transformación), Terciario son servicios, Cuaternario es tecnología I+D.
 
 ---
+id: "CO-SOC-11-geografia-general-001-bundle"
+country: "CO"
+grado: 11
+asignatura: "Sociales"
+tema: "Geografía General"
+dificultad: 2
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-4)"
+generation_date: "2025-12-06"
 
-## Pregunta 2
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-SOC-11-GEO-GEN"
+original_concept: "Economic geography and physical systems"
+competencia_icfes: "Pensamiento espacial y ambiental"
+componente: "Espacio, territorio, ambiente y población"
 
-**ID:** `CO-SOC-11-geografia-general-001-v2`
-
-### Enunciado
-
-¿Qué indicador demográfico mide el **número promedio de hijos** que tendría una mujer a lo largo de su vida fértil?
-
-### Opciones
-
-- [ ] A) Tasa de Mortalidad.
-- [ ] B) Esperanza de vida.
-- [x] C) Tasa de Fecundidad.
-- [ ] D) Densidad poblacional.
-
-### Explicación
-**Fecundidad:** Mide la reproducción promedio. Es clave para entender si una población crece o envejece.
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-EXANI", "SAT-Geography"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3
@@ -110,25 +145,38 @@ El **Efecto Invernadero** es un fenómeno natural que permite la vida en la Tier
 **Calentamiento Global:** El exceso de gases como CO2 retiene demasiado calor, elevando la temperatura media del planeta.
 
 ---
+id: "CO-SOC-11-geografia-general-001-bundle"
+country: "CO"
+grado: 11
+asignatura: "Sociales"
+tema: "Geografía General"
+dificultad: 2
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-4)"
+generation_date: "2025-12-06"
 
-## Pregunta 4
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-SOC-11-GEO-GEN"
+original_concept: "Economic geography and physical systems"
+competencia_icfes: "Pensamiento espacial y ambiental"
+componente: "Espacio, territorio, ambiente y población"
 
-**ID:** `CO-SOC-11-geografia-general-001-v4`
-
-### Enunciado
-
-Las empresas **transnacionales** fragmentan su producción (diseñan en un país, fabrican en otros y ensamblan en otro) para reducir costos. Este fenómeno es característico de:
-
-### Opciones
-
-- [ ] A) La autarquía.
-- [ ] B) El modelo feudal.
-- [x] C) La globalización económica.
-- [ ] D) La economía de subsistencia.
-
-### Explicación
-**Globalización:** Permite la interconexión de mercados y cadenas de producción a escala mundial para maximizar eficiencia y beneficios.
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-EXANI", "SAT-Geography"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5
@@ -150,25 +198,38 @@ En un mapa, la **escala** indica:
 **Proporción:** Ejemplo 1:100.000 significa que 1 cm en el mapa equivale a 100.000 cm (1 km) en la realidad.
 
 ---
+id: "CO-SOC-11-geografia-general-001-bundle"
+country: "CO"
+grado: 11
+asignatura: "Sociales"
+tema: "Geografía General"
+dificultad: 2
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-4)"
+generation_date: "2025-12-06"
 
-## Pregunta 6
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-SOC-11-GEO-GEN"
+original_concept: "Economic geography and physical systems"
+competencia_icfes: "Pensamiento espacial y ambiental"
+componente: "Espacio, territorio, ambiente y población"
 
-**ID:** `CO-SOC-11-geografia-general-001-v6`
-
-### Enunciado
-
-El proceso de **conurbación** ocurre cuando:
-
-### Opciones
-
-- [ ] A) Una ciudad decrece en población.
-- [x] B) Dos o más ciudades crecen hasta que sus áreas urbanas se unen físicamente.
-- [ ] C) Se funda una nueva capital.
-- [ ] D) Se prohíbe la construcción de edificios altos.
-
-### Explicación
-**Conurbación:** Fusión física de áreas urbanas vecinas (ej: Bogotá y Soacha) formando una gran área metropolitana continua.
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-EXANI", "SAT-Geography"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7

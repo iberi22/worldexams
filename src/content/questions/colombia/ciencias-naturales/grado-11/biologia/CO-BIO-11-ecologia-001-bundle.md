@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: El Ciclo de la Vida
@@ -22,11 +25,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Texto expositivo sobre dinámica de ecosistemas.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-BIO-11-ecologia-001"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Biología - Ecología y Cadenas Tróficas"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-# Texto Base
-
-"En cualquier ecosistema, la energía fluye y la materia se recicla. Todo comienza con el Sol, cuya energía es capturada por los **productores** (plantas, algas) mediante la fotosíntesis para crear materia orgánica. Esta energía pasa luego a los **consumidores primarios** (herbívoros) que comen plantas, y sucesivamente a los **consumidores secundarios** (carnívoros). Sin embargo, el ciclo no estaría completo sin los **descomponedores** (bacterias y hongos). Estos organismos degradan los restos de plantas y animales muertos, transformando la materia orgánica compleja nuevamente en nutrientes inorgánicos simples (nitratos, fosfatos) que vuelven al suelo, quedando disponibles para que las plantas los usen de nuevo."
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1 (Original - Dificultad Medium)
@@ -53,30 +70,25 @@ El texto explica claramente que los descomponedores (bacterias y hongos) "degrad
 **Componente:** Biología - Ecología y cadenas tróficas
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-BIO-11-ecologia-001"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Biología - Ecología y Cadenas Tróficas"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 2 (Low A - Dificultad Low)
-
-**ID:** "CO-BIO-11-ecologia-001-v2"
-
-### Enunciado
-
-Según el texto, ¿qué organismos son capaces de capturar la energía del Sol para producir materia orgánica?
-
-### Opciones
-
-- [x] A) Los productores.
-- [ ] B) Los consumidores primarios.
-- [ ] C) Los descomponedores.
-- [ ] D) Los carnívoros.
-
-### Explicación Pedagógica
-
-**¿Por qué A es correcta?**
-El texto dice explícitamente: "energía es capturada por los **productores** (plantas, algas) mediante la fotosíntesis".
-
-**Competencia evaluada:** Uso comprensivo del conocimiento científico
-**Componente:** Biología - Flujo de Energía
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3 (Low B - Dificultad Low)
@@ -103,30 +115,25 @@ El texto define a los "consumidores primarios" como aquellos que son herbívoros
 **Componente:** Biología - Niveles Tróficos
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-BIO-11-ecologia-001"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Biología - Ecología y Cadenas Tróficas"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 4 (Medium A - Dificultad Medium)
-
-**ID:** "CO-BIO-11-ecologia-001-v4"
-
-### Enunciado
-
-Si en un ecosistema desaparecieran repentinamente todos los descomponedores, una consecuencia inmediata sería:
-
-### Opciones
-
-- [ ] A) Un aumento desmedido de plantas.
-- [x] B) La acumulación de cadáveres y desechos orgánicos.
-- [ ] C) El Sol dejaría de emitir energía.
-- [ ] D) Los carnívoros se volverían herbívoros.
-
-### Explicación Pedagógica
-
-**¿Por qué B es correcta?**
-Dado que la función de los descomponedores es degradar la materia muerta, su ausencia causaría que esta materia no se procese, acumulándose en el ambiente. A largo plazo, también se agotarían los nutrientes del suelo.
-
-**Competencia evaluada:** Explicación de fenómenos
-**Componente:** Biología - Dinámica de Ecosistemas
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5 (Medium B - Dificultad Medium)
@@ -153,30 +160,25 @@ El texto empieza diciendo: "la energía fluye y la materia se recicla". La energ
 **Componente:** Biología - Ciclos Biogeoquímicos
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-BIO-11-ecologia-001"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Biología - Ecología y Cadenas Tróficas"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 6 (High A - Dificultad High)
-
-**ID:** "CO-BIO-11-ecologia-001-v6"
-
-### Enunciado
-
-Existe un fenómeno llamado bioacumulación, donde ciertas toxinas (como el mercurio) no se excretan y se acumulan en los tejidos. Según la estructura de la cadena alimenticia, ¿qué organismo tendría la mayor concentración de toxinas?
-
-### Opciones
-
-- [ ] A) Las plantas (productores).
-- [ ] B) Los herbívoros (consumidores primarios).
-- [ ] C) Los descomponedores.
-- [x] D) El depredador tope (consumidor secundario/terciario).
-
-### Explicación Pedagógica
-
-**¿Por qué D es correcta?**
-Requiere aplicación de lógica trófica. Como cada consumidor debe comer muchas presas para sobrevivir, ingiere y acumula todas las toxinas que tenían sus presas. Así, la concentración aumenta ("magnificación") en cada nivel superior de la cadena.
-
-**Competencia evaluada:** Indagación y uso de conocimiento
-**Componente:** Biología - Problemas Ambientales
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7 (High B - Dificultad High)

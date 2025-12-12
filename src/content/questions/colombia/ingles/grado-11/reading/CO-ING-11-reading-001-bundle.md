@@ -26,7 +26,10 @@ componente: "Comprensión de lectura"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber11", "MX-ENLACE-Media", "ES-Selectividad", "AR-Aprender", "CL-PSU"]
+applicable_exams: ["CO-Saber11", "MX-ENLACE-Media", "ES-Selectividad", "AR-Aprender", "CL-PSU"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Bundle: Reading Comprehension and Grammar - Saber 11°
@@ -34,21 +37,37 @@ applicable_exams: ["CO-Saber11", "MX-ENLACE-Media", "ES-Selectividad", "AR-Apren
 > **Contexto curricular:** Saber 11° evalúa competencias en inglés según el Marco Común Europeo de Referencia (MCER), desde nivel A- hasta B+. Incluye comprensión lectora, gramática en contexto y uso del lenguaje.
 
 ---
+id: "CO-ING-11-reading-001"
+country: "CO"
+grado: 11
+asignatura: "Inglés"
+tema: "Reading Comprehension and Grammar"
+dificultad: "Medium"
+estado: "draft"
+creador: "AI-WorldExams"
+source_lang: "en-US"
+llm_model: "claude-sonnet-4-20250514"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
 
-## Reading Passage (Questions 1-4)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-ING-011-001"
+original_concept: "Reading Comprehension and Grammar"
+competencia_icfes: "Conocimiento comunicativo"
+componente: "Comprensión de lectura"
 
-Read the following text:
-
-> **The Importance of Biodiversity in Colombia**
->
-> *Colombia is one of the most biodiverse countries in the world. It is home to approximately 10% of all species on Earth, despite covering only 0.7% of the planet's surface. This extraordinary richness includes over 1,900 species of birds—more than any other country—and thousands of plant, mammal, and amphibian species.*
->
-> *However, this natural wealth faces serious threats. Deforestation, illegal mining, and climate change are destroying habitats at an alarming rate. According to environmental organizations, Colombia loses approximately 170,000 hectares of forest every year.*
->
-> *Protecting biodiversity is not just an environmental issue; it is also an economic one. Many Colombian communities depend on natural resources for their livelihoods, including fishing, agriculture, and ecotourism. If these ecosystems disappear, so do the jobs and income they provide.*
->
-> *The Colombian government has established protected areas and national parks, but experts say more action is needed. International cooperation, stricter laws, and community involvement are essential to preserve this unique natural heritage for future generations.*
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-ENLACE-Media", "ES-Selectividad", "AR-Aprender", "CL-PSU"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Question 1 (Original)
@@ -84,30 +103,37 @@ This directly links environmental protection to economic well-being.
 **Competency evaluated:** Reading comprehension - identifying supporting details
 
 ---
+id: "CO-ING-11-reading-001"
+country: "CO"
+grado: 11
+asignatura: "Inglés"
+tema: "Reading Comprehension and Grammar"
+dificultad: "Medium"
+estado: "draft"
+creador: "AI-WorldExams"
+source_lang: "en-US"
+llm_model: "claude-sonnet-4-20250514"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
 
-## Question 2 (Easy Variant)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-ING-011-001"
+original_concept: "Reading Comprehension and Grammar"
+competencia_icfes: "Conocimiento comunicativo"
+componente: "Comprensión de lectura"
 
-**ID:** `CO-ING-11-reading-001-v2`
-**Difficulty:** ⭐ (1/5 - Very Easy)
-**CEFR Level:** A1
-
-### Question
-
-According to the text, Colombia has the most species of _______ in the world.
-
-### Options
-
-- [x] A) Birds
-- [ ] B) Fish
-- [ ] C) Insects
-- [ ] D) Reptiles
-
-### Explanation
-
-The text states: "over 1,900 species of birds—more than any other country."
-
-**Competency evaluated:** Reading comprehension - identifying explicit information
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-ENLACE-Media", "ES-Selectividad", "AR-Aprender", "CL-PSU"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Question 3 (Easy Variant)
@@ -136,37 +162,37 @@ Note: 0.7% refers to Colombia's land area, not its biodiversity percentage.
 **Competency evaluated:** Reading comprehension - identifying specific data
 
 ---
+id: "CO-ING-11-reading-001"
+country: "CO"
+grado: 11
+asignatura: "Inglés"
+tema: "Reading Comprehension and Grammar"
+dificultad: "Medium"
+estado: "draft"
+creador: "AI-WorldExams"
+source_lang: "en-US"
+llm_model: "claude-sonnet-4-20250514"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
 
-## Question 4 (Medium Variant)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-ING-011-001"
+original_concept: "Reading Comprehension and Grammar"
+competencia_icfes: "Conocimiento comunicativo"
+componente: "Comprensión de lectura"
 
-**ID:** `CO-ING-11-reading-001-v4`
-**Difficulty:** ⭐⭐⭐ (3/5 - Medium)
-**CEFR Level:** B1
-
-### Question
-
-The word "alarming" in "destroying habitats at an alarming rate" could best be replaced by:
-
-### Options
-
-- [ ] A) Slow
-- [ ] B) Normal
-- [x] C) Worrying
-- [ ] D) Exciting
-
-### Explanation
-
-**Why C is correct:**
-
-"Alarming" means causing worry or concern. In this context, the rate of habitat destruction is so fast that it should make people worried or concerned about the consequences.
-
-**Why the others are wrong:**
-- **A) Slow:** The opposite of what "alarming" implies.
-- **B) Normal:** Alarming suggests something abnormal or dangerous.
-- **D) Exciting:** Has a positive connotation; alarming is negative.
-
-**Competency evaluated:** Vocabulary in context - synonyms
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-ENLACE-Media", "ES-Selectividad", "AR-Aprender", "CL-PSU"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Question 5 (Medium Variant - Grammar)
@@ -202,46 +228,37 @@ This is a **First Conditional** sentence (real possibility in the future):
 **Competency evaluated:** Grammar - conditional sentences
 
 ---
+id: "CO-ING-11-reading-001"
+country: "CO"
+grado: 11
+asignatura: "Inglés"
+tema: "Reading Comprehension and Grammar"
+dificultad: "Medium"
+estado: "draft"
+creador: "AI-WorldExams"
+source_lang: "en-US"
+llm_model: "claude-sonnet-4-20250514"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
 
-## Question 6 (Difficult Variant)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-ING-011-001"
+original_concept: "Reading Comprehension and Grammar"
+competencia_icfes: "Conocimiento comunicativo"
+componente: "Comprensión de lectura"
 
-**ID:** `CO-ING-11-reading-001-v6`
-**Difficulty:** ⭐⭐⭐⭐ (4/5 - Difficult)
-**CEFR Level:** B1+
-
-### Question
-
-Read the following statement:
-
-*"International cooperation, stricter laws, and community involvement are essential to preserve this unique natural heritage."*
-
-Which of the following conclusions can be inferred from this statement?
-
-### Options
-
-- [ ] A) The author believes that current efforts are sufficient to protect biodiversity.
-- [x] B) The author suggests that a combination of different strategies is necessary for success.
-- [ ] C) The author thinks that only international organizations can solve the problem.
-- [ ] D) The author opposes community participation in environmental protection.
-
-### Explanation
-
-**Why B is correct:**
-
-The statement lists **three different elements** needed for preservation:
-1. International cooperation
-2. Stricter laws
-3. Community involvement
-
-By listing all three, the author implies that **no single approach is enough**—a combination of strategies is necessary.
-
-**Why the others are wrong:**
-- **A)** The word "essential" implies current efforts are NOT sufficient.
-- **C)** Community involvement and laws are also mentioned, not just international help.
-- **D)** The opposite is true; community involvement is listed as essential.
-
-**Competency evaluated:** Reading comprehension - making inferences
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-ENLACE-Media", "ES-Selectividad", "AR-Aprender", "CL-PSU"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Question 7 (Difficult Variant)
@@ -284,19 +301,37 @@ The combination of **inform + argue** best describes the text's purpose.
 **Competency evaluated:** Critical reading - identifying author's purpose
 
 ---
+id: "CO-ING-11-reading-001"
+country: "CO"
+grado: 11
+asignatura: "Inglés"
+tema: "Reading Comprehension and Grammar"
+dificultad: "Medium"
+estado: "draft"
+creador: "AI-WorldExams"
+source_lang: "en-US"
+llm_model: "claude-sonnet-4-20250514"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
 
-## 📊 Metadata de Validación
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-ING-011-001"
+original_concept: "Reading Comprehension and Grammar"
+competencia_icfes: "Conocimiento comunicativo"
+componente: "Comprensión de lectura"
 
-| Question | ID | Difficulty | CEFR Level | Skill | Validated |
-|----------|-----|------------|------------|-------|-----------|
-| 1 | CO-ING-11-reading-001-v1 | Medium | B1 | Reading | ⬜ |
-| 2 | CO-ING-11-reading-001-v2 | Low | A1 | Reading | ⬜ |
-| 3 | CO-ING-11-reading-001-v3 | Low | A2 | Reading | ⬜ |
-| 4 | CO-ING-11-reading-001-v4 | Medium | B1 | Vocabulary | ⬜ |
-| 5 | CO-ING-11-reading-001-v5 | Medium | B1 | Grammar | ⬜ |
-| 6 | CO-ING-11-reading-001-v6 | High | B1+ | Inference | ⬜ |
-| 7 | CO-ING-11-reading-001-v7 | High | B+ | Critical Reading | ⬜ |
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-ENLACE-Media", "ES-Selectividad", "AR-Aprender", "CL-PSU"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 **Source ID:** `ICFES-ING-011-001`

@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: Adaptado de Legacy
@@ -23,11 +26,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Migrado automáticamente de v1.0 y expandido con variaciones.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-LEC-11-textos-continuos-005"
+country: "co"
+grado: 11
+asignatura: "Lectura Crítica"
+tema: "Textos Continuos - Tipología textual"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-Script"
+generation_date: "2025-12-07"
 
-## Texto Base (Para preguntas 1-7)
-
-"Para preparar un buen café, primero se debe moler el grano justo antes de la preparación. Luego, se calienta el agua a unos 90°C, sin dejar que hierva. Finalmente, se vierte el agua sobre el café molido en movimientos circulares."
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1 (Original - Dificultad Medium)
@@ -52,28 +69,25 @@ El texto anterior es de tipo:
 El texto es instructivo porque presenta una secuencia de pasos ordenados (primero, luego, finalmente) para realizar una tarea específica: preparar café.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-LEC-11-textos-continuos-005"
+country: "co"
+grado: 11
+asignatura: "Lectura Crítica"
+tema: "Textos Continuos - Tipología textual"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-Script"
+generation_date: "2025-12-07"
 
-## Pregunta 2 (Low A - Dificultad Low)
-
-**ID:** "CO-LEC-11-textos-continuos-005-v2"
-
-### Enunciado
-
-¿Cuál es el primer paso mencionado para preparar un buen café?
-
-### Opciones
-
-- [ ] A) Calentar el agua a 90°C.
-- [x] B) Moler el grano justo antes de la preparación.
-- [ ] C) Comprar el café más caro.
-- [ ] D) Servir en una taza caliente.
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** B
-
-Información explícita. "Primero se debe moler el grano...".
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3 (Low B - Dificultad Low)
@@ -98,28 +112,25 @@ Información explícita. "Primero se debe moler el grano...".
 Información explícita. "se calienta el agua a unos 90°C, sin dejar que hierva".
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-LEC-11-textos-continuos-005"
+country: "co"
+grado: 11
+asignatura: "Lectura Crítica"
+tema: "Textos Continuos - Tipología textual"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-Script"
+generation_date: "2025-12-07"
 
-## Pregunta 4 (Medium A - Dificultad Medium)
-
-**ID:** "CO-LEC-11-textos-continuos-005-v4"
-
-### Enunciado
-
-Las palabras "Primero", "Luego" y "Finalmente" funcionan en el texto como:
-
-### Opciones
-
-- [ ] A) Adjetivos calificativos.
-- [x] B) Conectores de orden o secuencia temporal.
-- [ ] C) Verbos de acción.
-- [ ] D) Sustantivos abstractos.
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** B
-
-Estos conectores estructuran la secuencia lógica de los pasos en un procedimiento.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5 (Medium B - Dificultad Medium)
@@ -144,28 +155,25 @@ El propósito principal de este texto es:
 Al ser un texto instructivo con pasos específicos, su intención comunicativa es guiar o instruir en un procedimiento.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-LEC-11-textos-continuos-005"
+country: "co"
+grado: 11
+asignatura: "Lectura Crítica"
+tema: "Textos Continuos - Tipología textual"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-Script"
+generation_date: "2025-12-07"
 
-## Pregunta 6 (High A - Dificultad High)
-
-**ID:** "CO-LEC-11-textos-continuos-005-v6"
-
-### Enunciado
-
-Del paso "sin dejar que hierva", se puede inferir que:
-
-### Opciones
-
-- [ ] A) El agua hirviendo mejora el sabor del café.
-- [x] B) El agua hirviendo (100°C) podría dañar la calidad de la preparación (quemar el café).
-- [ ] C) Es imposible hervir agua a 90°C.
-- [ ] D) El autor prefiere el té.
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** B
-
-Inferencia. Si la instrucción especifica "90°C" y advierte explícitamente "sin dejar que hierva", se infiere que hervir el agua es contraproducente para el resultado deseado ("buen café").
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7 (High B - Dificultad High)

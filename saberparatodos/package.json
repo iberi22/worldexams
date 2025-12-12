@@ -12,12 +12,20 @@
     "validate": "node scripts/validate_content.js",
     "validate:full": "node scripts/validate_content.js && astro check && astro build",
     "lint": "astro check",
-    "prepare": "husky"
+    "prepare": "husky",
+    "test": "playwright test",
+    "test:ui": "playwright test --ui",
+    "test:debug": "playwright test --debug",
+    "test:headed": "playwright test --headed",
+    "test:party": "playwright test party-mode.spec.ts",
+    "test:party:headed": "playwright test party-mode.spec.ts --headed"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.6.0",
     "@astrojs/svelte": "^7.2.2",
     "@astrojs/tailwind": "^5.0.0",
+    "@sentry/astro": "^8.40.0",
+    "@sentry/svelte": "^8.40.0",
     "@supabase/supabase-js": "^2.86.0",
     "astro": "^5.16.0",
     "katex": "^0.16.27",

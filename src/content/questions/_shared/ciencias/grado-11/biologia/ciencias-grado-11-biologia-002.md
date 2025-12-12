@@ -11,7 +11,10 @@ llm_model: unknown
 agent: legacy
 ide: unknown
 source: human-curated
-group_id: NAT25041
+group_id: NAT25041
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 # Pregunta
 En la genética mendeliana, si cruzamos dos plantas heterocigotas para el color de la flor (Aa x Aa), donde 'A' (rojo) es dominante sobre 'a' (blanco), ¿qué porcentaje de la descendencia se espera que tenga flores blancas?

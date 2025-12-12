@@ -27,7 +27,10 @@ componente: "Comprensión de lectura"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber11", "MX-EXANI", "SAT-Reading"]
+applicable_exams: ["CO-Saber11", "MX-EXANI", "SAT-Reading"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Bundle: Part 1 - Avisos
@@ -36,19 +39,38 @@ applicable_exams: ["CO-Saber11", "MX-EXANI", "SAT-Reading"]
 > **Competencia:** Pragmática - identificar contexto.
 
 ---
+id: "CO-ING-11-part1-001-bundle"
+country: "CO"
+grado: 11
+asignatura: "Inglés"
+tema: "Part 1 - Avisos"
+dificultad: 2
+estado: "draft"
+creador: "Copilot"
+source_lang: "en-US"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-3)"
+generation_date: "2025-12-06"
 
-## 📊 Metadata de Validación
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-ING-11-PART1"
+original_concept: "Inference of context from notices"
+competencia_icfes: "Conocimiento pragmático"
+componente: "Comprensión de lectura"
 
-| Pregunta | ID | Dificultad | Competencia ICFES | Estado |
-|----------|-----|------------|-------------------|--------|
-| 1 | CO-ING-11-part1-001-v1 | 2 | Pragmática | ⬜ |
-| 2 | CO-ING-11-part1-001-v2 | Low | Pragmática | ⬜ |
-| 3 | CO-ING-11-part1-001-v3 | Low | Pragmática | ⬜ |
-| 4 | CO-ING-11-part1-001-v4 | 2 | Pragmática | ⬜ |
-| 5 | CO-ING-11-part1-001-v5 | 2 | Pragmática | ⬜ |
-| 6 | CO-ING-11-part1-001-v6 | 2 | Pragmática | ⬜ |
-| 7 | CO-ING-11-part1-001-v7 | 2 | Pragmática | ⬜ |
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-EXANI", "SAT-Reading"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1
@@ -71,26 +93,38 @@ Where can you see this notice?
 **Zoo (Zoológico):** Es el lugar donde se exhiben animales y se prohíbe alimentarlos por su salud.
 
 ---
+id: "CO-ING-11-part1-001-bundle"
+country: "CO"
+grado: 11
+asignatura: "Inglés"
+tema: "Part 1 - Avisos"
+dificultad: 2
+estado: "draft"
+creador: "Copilot"
+source_lang: "en-US"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-3)"
+generation_date: "2025-12-06"
 
-## Pregunta 2
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-ING-11-PART1"
+original_concept: "Inference of context from notices"
+competencia_icfes: "Conocimiento pragmático"
+componente: "Comprensión de lectura"
 
-**ID:** `CO-ING-11-part1-001-v2`
-
-### Enunciado
-
-Where can you see this notice?
-**"SILENCE, EXAM IN PROGRESS"**
-
-### Opciones
-
-- [ ] A) In a disco.
-- [ ] B) In a park.
-- [x] C) In a school.
-- [ ] D) In a restaurant.
-
-### Explicación
-**School (Escuela):** Es el lugar típico donde se realizan exámenes y se requiere silencio absoluto.
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-EXANI", "SAT-Reading"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3
@@ -113,26 +147,38 @@ Where can you see this notice?
 **Beach (Playa):** Los tiburones (sharks) viven en el mar, por lo que este aviso se encontraría en una playa.
 
 ---
+id: "CO-ING-11-part1-001-bundle"
+country: "CO"
+grado: 11
+asignatura: "Inglés"
+tema: "Part 1 - Avisos"
+dificultad: 2
+estado: "draft"
+creador: "Copilot"
+source_lang: "en-US"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-3)"
+generation_date: "2025-12-06"
 
-## Pregunta 4
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-ING-11-PART1"
+original_concept: "Inference of context from notices"
+competencia_icfes: "Conocimiento pragmático"
+componente: "Comprensión de lectura"
 
-**ID:** `CO-ING-11-part1-001-v4`
-
-### Enunciado
-
-Where can you see this notice?
-**"PLEASE CLEAN YOUR TABLE AFTER EATING"**
-
-### Opciones
-
-- [ ] A) In a bedroom.
-- [x] B) In a fast food restaurant.
-- [ ] C) In a library.
-- [ ] D) In a clothes shop.
-
-### Explicación
-**Fast food restaurant:** Es común pedir a los clientes que limpien su mesa después de comer.
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-EXANI", "SAT-Reading"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5
@@ -155,26 +201,38 @@ Where can you see this notice?
 **Airport (Aeropuerto):** Los "flights" (vuelos) ocurren en aeropuertos.
 
 ---
+id: "CO-ING-11-part1-001-bundle"
+country: "CO"
+grado: 11
+asignatura: "Inglés"
+tema: "Part 1 - Avisos"
+dificultad: 2
+estado: "draft"
+creador: "Copilot"
+source_lang: "en-US"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-3)"
+generation_date: "2025-12-06"
 
-## Pregunta 6
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-ING-11-PART1"
+original_concept: "Inference of context from notices"
+competencia_icfes: "Conocimiento pragmático"
+componente: "Comprensión de lectura"
 
-**ID:** `CO-ING-11-part1-001-v6`
-
-### Enunciado
-
-Where can you see this notice?
-**"SALE: BUY ONE GET ONE FREE"**
-
-### Opciones
-
-- [x] A) In a shop.
-- [ ] B) In a police station.
-- [ ] C) In a church.
-- [ ] D) In a museum.
-
-### Explicación
-**Shop (Tienda):** Las ofertas (Sales) son típicas de tiendas comerciales.
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-EXANI", "SAT-Reading"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7

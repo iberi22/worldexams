@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: Adaptado de Legacy
@@ -22,39 +25,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Migrado automáticamente de v1.0
 
 ---
+# === METADATA GLOBAL ===
+id: "SOC56937-01"
+country: "co"
+grado: 11
+asignatura: "Sociales"
+tema: "Historia"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "draft"
+creador: "Migrator-Script"
+generation_date: "2025-12-07"
 
-## Pregunta 1 (Original - Dificultad Medium)
-
-**ID:** "SOC56937-01-v1"
-
-### Enunciado
-
-# Pregunta
-
-El Frente Nacional (1958-1974) fue un pacto político en Colombia entre los partidos Liberal y Conservador. ¿Cuál fue una de las consecuencias negativas no deseadas de este acuerdo?
-
-# Opciones
-
-- [ ] A) El fin de la violencia bipartidista en las zonas rurales.
-- [ ] B) La alternancia pacífica del poder cada cuatro años.
-- [x] C) La exclusión de otras fuerzas políticas, lo que incentivó el surgimiento de guerrillas.
-- [ ] D) El fortalecimiento de la democracia participativa y la inclusión de minorías.
-
-# Explicación
-
-La respuesta correcta es **C)**.
-
-Aunque el Frente Nacional logró reducir la violencia directa entre liberales y conservadores, su naturaleza excluyente (solo estos dos partidos podían gobernar) cerró las vías democráticas para otras expresiones políticas (izquierda, movimientos populares). Esto es considerado por muchos historiadores como un factor clave que legitimó o impulsó la lucha armada y el surgimiento de guerrillas como las FARC, el ELN y el M-19.
-
-**Errores comunes:**
-- A: Esto fue una consecuencia positiva (objetivo logrado), no negativa.
-- B: Fue el mecanismo del pacto, no una consecuencia negativa.
-- D: Al contrario, la democracia fue restringida, no participativa (hasta la Constitución del 91).
-
-### Explicación Pedagógica
-
-*(Contenido migrado, favor revisar)*
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 2 (Low A - Dificultad Low)
@@ -77,26 +66,25 @@ TODO: Generar variación de tipo Low A
 TODO: Explicación pendiente
 
 ---
+# === METADATA GLOBAL ===
+id: "SOC56937-01"
+country: "co"
+grado: 11
+asignatura: "Sociales"
+tema: "Historia"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "draft"
+creador: "Migrator-Script"
+generation_date: "2025-12-07"
 
-## Pregunta 3 (Low B - Dificultad Low)
-
-**ID:** "SOC56937-01-v3"
-
-### Enunciado
-
-TODO: Generar variación de tipo Low B
-
-### Opciones
-
-- [ ] A) Opción 1
-- [ ] B) Opción 2
-- [ ] C) Opción 3
-- [ ] D) Opción 4
-
-### Explicación Pedagógica
-
-TODO: Explicación pendiente
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 4 (Medium A - Dificultad Medium)
@@ -119,26 +107,25 @@ TODO: Generar variación de tipo Medium A
 TODO: Explicación pendiente
 
 ---
+# === METADATA GLOBAL ===
+id: "SOC56937-01"
+country: "co"
+grado: 11
+asignatura: "Sociales"
+tema: "Historia"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "draft"
+creador: "Migrator-Script"
+generation_date: "2025-12-07"
 
-## Pregunta 5 (Medium B - Dificultad Medium)
-
-**ID:** "SOC56937-01-v5"
-
-### Enunciado
-
-TODO: Generar variación de tipo Medium B
-
-### Opciones
-
-- [ ] A) Opción 1
-- [ ] B) Opción 2
-- [ ] C) Opción 3
-- [ ] D) Opción 4
-
-### Explicación Pedagógica
-
-TODO: Explicación pendiente
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 6 (High A - Dificultad High)
@@ -161,26 +148,25 @@ TODO: Generar variación de tipo High A
 TODO: Explicación pendiente
 
 ---
+# === METADATA GLOBAL ===
+id: "SOC56937-01"
+country: "co"
+grado: 11
+asignatura: "Sociales"
+tema: "Historia"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "draft"
+creador: "Migrator-Script"
+generation_date: "2025-12-07"
 
-## Pregunta 7 (High B - Dificultad High)
-
-**ID:** "SOC56937-01-v7"
-
-### Enunciado
-
-TODO: Generar variación de tipo High B
-
-### Opciones
-
-- [ ] A) Opción 1
-- [ ] B) Opción 2
-- [ ] C) Opción 3
-- [ ] D) Opción 4
-
-### Explicación Pedagógica
-
-TODO: Explicación pendiente
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Metadata de Validacion

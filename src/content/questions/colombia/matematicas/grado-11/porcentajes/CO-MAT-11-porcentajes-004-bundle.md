@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: Adaptado de Legacy
@@ -24,30 +27,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Migrado automáticamente de v1.0 y expandido con variaciones.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-porcentajes-004"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Porcentajes"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 1 (Original - Dificultad Medium)
-
-**ID:** "CO-MAT-11-porcentajes-004-v1"
-
-### Enunciado
-
-Un producto cuesta $150,000 COP sin IVA. En Colombia, el IVA es del 19%. ¿Cuál es el precio final del producto con IVA incluido?
-
-### Opciones
-
-- [ ] A) $169,000 COP
-- [x] B) $178,500 COP
-- [ ] C) $180,000 COP
-- [ ] D) $175,000 COP
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** B
-
-$150,000 \times 1.19$.
-19% de 150,000 = 28,500.
-$150,000 + 28,500 = 178,500$.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 2 (Low A - Dificultad Low)
@@ -73,28 +71,25 @@ Si el IVA fuera del 10% (hipotéticamente) y compras algo de $20,000 sin IVA, ¿
 Total = 20,000 + 2,000.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-porcentajes-004"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Porcentajes"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 3 (Low B - Dificultad Low)
-
-**ID:** "CO-MAT-11-porcentajes-004-v3"
-
-### Enunciado
-
-Un libro cuesta $50,000 y está exento de IVA (0% IVA). ¿Cuánto pagas?
-
-### Opciones
-
-- [x] A) $50,000
-- [ ] B) $59,500
-- [ ] C) $55,000
-- [ ] D) $60,000
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** A
-
-0% de impuesto significa que el precio no cambia.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 4 (Medium A - Dificultad Medium)
@@ -120,28 +115,25 @@ La pregunta pide solo el valor del impuesto, no el total.
 19% de 100,000 es 19,000.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-porcentajes-004"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Porcentajes"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 5 (Medium B - Dificultad Medium)
-
-**ID:** "CO-MAT-11-porcentajes-004-v5"
-
-### Enunciado
-
-La propina voluntaria sugerida en un restaurante es del 10%. Si tu cuenta fue de $45,000, ¿cuánto es la propina?
-
-### Opciones
-
-- [ ] A) $450
-- [ ] B) $45,000
-- [x] C) $4,500
-- [ ] D) $9,000
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** C
-
-Mover el punto decimal un lugar a la izquierda: 45,00.0 -> 4,500.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 6 (High A - Dificultad High)
@@ -167,29 +159,25 @@ $ValorTotal = Base \times 1.19$.
 $119,000 / 1.19 = 100,000$.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-porcentajes-004"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Porcentajes"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 7 (High B - Dificultad High)
-
-**ID:** "CO-MAT-11-porcentajes-004-v7"
-
-### Enunciado
-
-Si el precio con IVA (19%) de un televisor es $2,380,000, ¿cuánto es el valor correspondiente SOLO al impuesto?
-
-### Opciones
-
-- [ ] A) $2,000,000
-- [x] B) $380,000
-- [ ] C) $452,200
-- [ ] D) $190,000
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** B
-
-Base = $2,380,000 / 1.19 = 2,000,000$.
-Impuesto = Total - Base = $2,380,000 - 2,000,000 = 380,000$.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Metadata de Validacion

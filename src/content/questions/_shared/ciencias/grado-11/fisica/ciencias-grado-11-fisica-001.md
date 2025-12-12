@@ -11,7 +11,10 @@ llm_model: unknown
 agent: legacy
 ide: unknown
 source: human-curated
-group_id: NAT59831
+group_id: NAT59831
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 # Pregunta
 Un coche viaja a una velocidad constante de 20 m/s. Si frena uniformemente hasta detenerse en 5 segundos, ¿cuál es la magnitud de su aceleración?

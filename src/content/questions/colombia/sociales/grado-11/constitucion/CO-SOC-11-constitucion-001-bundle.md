@@ -27,7 +27,10 @@ componente: "Poder, economía y organizaciones sociales"
 
 # === UNIVERSAL SHARING ===
 universal_question: false
-applicable_exams: ["CO-Saber11"]
+applicable_exams: ["CO-Saber11"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Bundle: Constitución Política de 1991
@@ -36,19 +39,38 @@ applicable_exams: ["CO-Saber11"]
 > **Competencia:** Ejercicio de la ciudadanía activa.
 
 ---
+id: "CO-SOC-11-constitucion-001-bundle"
+country: "CO"
+grado: 11
+asignatura: "Sociales"
+tema: "Constitución y Ciudadanía"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-5)"
+generation_date: "2025-12-06"
 
-## 📊 Metadata de Validación
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-SOC-11-CONST"
+original_concept: "Constitution 1991 and mechanisms of participation"
+competencia_icfes: "Pensamiento sistémico y reflexión ética"
+componente: "Poder, economía y organizaciones sociales"
 
-| Pregunta | ID | Dificultad | Competencia ICFES | Estado |
-|----------|-----|------------|-------------------|--------|
-| 1 | CO-SOC-11-constitucion-001-v1 | Medium | Tutela | ⬜ |
-| 2 | CO-SOC-11-constitucion-001-v2 | 3 | Plebiscito | ⬜ |
-| 3 | CO-SOC-11-constitucion-001-v3 | Low | Derechos Fundamentales | ⬜ |
-| 4 | CO-SOC-11-constitucion-001-v4 | 4 | Ramas del Poder | ⬜ |
-| 5 | CO-SOC-11-constitucion-001-v5 | Medium | Voto Programático | ⬜ |
-| 6 | CO-SOC-11-constitucion-001-v6 | High | Estado Social de Derecho | ⬜ |
-| 7 | CO-SOC-11-constitucion-001-v7 | 2 | Diversidad Étnica | ⬜ |
-
+# === UNIVERSAL SHARING ===
+universal_question: false
+applicable_exams: ["CO-Saber11"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1
@@ -70,25 +92,38 @@ Un ciudadano considera que se le ha vulnerado su **derecho fundamental a la salu
 **Tutela:** Es el mecanismo preferente y sumario para proteger derechos fundamentales (vida, salud, debido proceso) cuando no existe otro medio de defensa judicial o para evitar un perjuicio irremediable.
 
 ---
+id: "CO-SOC-11-constitucion-001-bundle"
+country: "CO"
+grado: 11
+asignatura: "Sociales"
+tema: "Constitución y Ciudadanía"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 2
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-SOC-11-CONST"
+original_concept: "Constitution 1991 and mechanisms of participation"
+competencia_icfes: "Pensamiento sistémico y reflexión ética"
+componente: "Poder, economía y organizaciones sociales"
 
-**ID:** `CO-SOC-11-constitucion-001-v2`
-
-### Enunciado
-
-Según la Constitución, ¿cuál es el mecanismo de participación ciudadana que permite a los ciudadanos **aprobar o rechazar** una decisión del ejecutivo (como un acuerdo de paz)?
-
-### Opciones
-
-- [ ] A) El Cabildo Abierto.
-- [x] B) El Plebiscito.
-- [ ] C) La Tutela.
-- [ ] D) La Iniciativa Popular.
-
-### Explicación
-**Plebiscito:** Es la convocatoria que hace el Presidente al pueblo para que este apoye o rechace una decisión del Ejecutivo. El Referendo es para reformar normas.
-
+# === UNIVERSAL SHARING ===
+universal_question: false
+applicable_exams: ["CO-Saber11"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3
@@ -110,25 +145,38 @@ La Constitución de 1991 consagra el derecho a la **vida** como inviolable. Por 
 **Art. 11:** "El derecho a la vida es inviolable. No habrá pena de muerte."
 
 ---
+id: "CO-SOC-11-constitucion-001-bundle"
+country: "CO"
+grado: 11
+asignatura: "Sociales"
+tema: "Constitución y Ciudadanía"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 4
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-SOC-11-CONST"
+original_concept: "Constitution 1991 and mechanisms of participation"
+competencia_icfes: "Pensamiento sistémico y reflexión ética"
+componente: "Poder, economía y organizaciones sociales"
 
-**ID:** `CO-SOC-11-constitucion-001-v4`
-
-### Enunciado
-
-El Estado colombiano se divide en tres ramas del poder público para garantizar el equilibrio. ¿Cuáles son?
-
-### Opciones
-
-- [ ] A) Militar, Eclesiástica y Civil.
-- [x] B) Legislativa, Ejecutiva y Judicial.
-- [ ] C) Nacional, Departamental y Municipal.
-- [ ] D) Pública, Privada y Mixta.
-
-### Explicación
-**Separación de Poderes:** Legislativa (hace leyes), Ejecutiva (administra), Judicial (juzga). Además existen los órganos de control (Procuraduría, Contraloría, Defensoría).
-
+# === UNIVERSAL SHARING ===
+universal_question: false
+applicable_exams: ["CO-Saber11"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5
@@ -150,25 +198,38 @@ El **Voto Programático** obliga a alcaldes y gobernadores a:
 **Revocatoria:** Si el mandatario incumple su programa de gobierno, los ciudadanos pueden revocar su mandato mediante votación.
 
 ---
+id: "CO-SOC-11-constitucion-001-bundle"
+country: "CO"
+grado: 11
+asignatura: "Sociales"
+tema: "Constitución y Ciudadanía"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 6
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-SOC-11-CONST"
+original_concept: "Constitution 1991 and mechanisms of participation"
+competencia_icfes: "Pensamiento sistémico y reflexión ética"
+componente: "Poder, economía y organizaciones sociales"
 
-**ID:** `CO-SOC-11-constitucion-001-v6`
-
-### Enunciado
-
-Colombia se define como un **Estado Social de Derecho**. Esto implica principalmente que:
-
-### Opciones
-
-- [ ] A) La ley es solo una sugerencia.
-- [ ] B) El Estado solo se preocupa por la seguridad policial.
-- [x] C) El Estado debe garantizar los derechos sociales, económicos y culturales (salud, educación, vivienda) para lograr equidad.
-- [ ] D) Todas las propiedades son del Estado.
-
-### Explicación
-**Social de Derecho:** No solo se respetan las leyes (Estado de Derecho), sino que el Estado tiene un rol activo en buscar la justicia social y la dignidad humana.
-
+# === UNIVERSAL SHARING ===
+universal_question: false
+applicable_exams: ["CO-Saber11"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7

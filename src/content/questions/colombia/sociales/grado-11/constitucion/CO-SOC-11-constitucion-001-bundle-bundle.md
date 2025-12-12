@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: Adaptado de Legacy
@@ -22,18 +25,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Migrado automáticamente de v1.0
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-SOC-11-constitucion-001-bundle"
+country: "CO"
+grado: 11
+asignatura: "Sociales"
+tema: "Constitución y Ciudadanía"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "draft"
+creador: "Migrator-Script"
+generation_date: "2025-12-07"
 
-## Pregunta 1 (Original - Dificultad Medium)
-
-**ID:** "CO-SOC-11-constitucion-001-bundle-v1"
-
-### Enunciado
-
-# Bundle: Constitución Política de 1991
-
-> **Contexto:** Mecanismos de protección, participación y estructura del Estado.
-> **Competencia:** Ejercicio de la ciudadanía activa.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 -------|-----|------------|-------------------|--------|
 | 1 | CO-SOC-11-constitucion-001-v1 | Medium | Tutela | ⬜ |
 | 2 | CO-SOC-11-constitucion-001-v2 | 3 | Plebiscito | ⬜ |
@@ -104,29 +114,25 @@ Colombia se define como un **Estado Social de Derecho**. Esto implica principalm
 **Social de Derecho:** No solo se respetan las leyes (Estado de Derecho), sino que el Estado tiene un rol activo en buscar la justicia social y la dignidad humana.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-SOC-11-constitucion-001-bundle"
+country: "CO"
+grado: 11
+asignatura: "Sociales"
+tema: "Constitución y Ciudadanía"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "draft"
+creador: "Migrator-Script"
+generation_date: "2025-12-07"
 
-## Pregunta 7
-
-**ID:** `CO-SOC-11-constitucion-001-v7`
-
-### Enunciado
-
-La Constitución reconoce a Colombia como un país **pluriétnico y multicultural**. Esto significa que:
-
-### Opciones
-
-- [ ] A) Todos deben hablar solo español y ser católicos.
-- [x] B) El Estado protege la diversidad étnica y cultural, y reconoce lenguas y tradiciones de comunidades indígenas, afrodescendientes y raizales.
-- [ ] C) Las minorías no tienen derechos especiales.
-- [ ] D) La cultura extranjera es superior a la nacional.
-
-### Explicación
-**Diversidad:** Se rompe con la idea de una nación homogénea y se otorgan derechos especiales (jurisdicción indígena, consulta previa) a los grupos étnicos.
-
-### Explicación Pedagógica
-
-*(Contenido migrado, favor revisar)*
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 2 (Low A - Dificultad Low)
@@ -149,26 +155,25 @@ TODO: Generar variación de tipo Low A
 TODO: Explicación pendiente
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-SOC-11-constitucion-001-bundle"
+country: "CO"
+grado: 11
+asignatura: "Sociales"
+tema: "Constitución y Ciudadanía"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "draft"
+creador: "Migrator-Script"
+generation_date: "2025-12-07"
 
-## Pregunta 3 (Low B - Dificultad Low)
-
-**ID:** "CO-SOC-11-constitucion-001-bundle-v3"
-
-### Enunciado
-
-TODO: Generar variación de tipo Low B
-
-### Opciones
-
-- [ ] A) Opción 1
-- [ ] B) Opción 2
-- [ ] C) Opción 3
-- [ ] D) Opción 4
-
-### Explicación Pedagógica
-
-TODO: Explicación pendiente
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 4 (Medium A - Dificultad Medium)
@@ -191,26 +196,25 @@ TODO: Generar variación de tipo Medium A
 TODO: Explicación pendiente
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-SOC-11-constitucion-001-bundle"
+country: "CO"
+grado: 11
+asignatura: "Sociales"
+tema: "Constitución y Ciudadanía"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "draft"
+creador: "Migrator-Script"
+generation_date: "2025-12-07"
 
-## Pregunta 5 (Medium B - Dificultad Medium)
-
-**ID:** "CO-SOC-11-constitucion-001-bundle-v5"
-
-### Enunciado
-
-TODO: Generar variación de tipo Medium B
-
-### Opciones
-
-- [ ] A) Opción 1
-- [ ] B) Opción 2
-- [ ] C) Opción 3
-- [ ] D) Opción 4
-
-### Explicación Pedagógica
-
-TODO: Explicación pendiente
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 6 (High A - Dificultad High)
@@ -233,26 +237,25 @@ TODO: Generar variación de tipo High A
 TODO: Explicación pendiente
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-SOC-11-constitucion-001-bundle"
+country: "CO"
+grado: 11
+asignatura: "Sociales"
+tema: "Constitución y Ciudadanía"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "draft"
+creador: "Migrator-Script"
+generation_date: "2025-12-07"
 
-## Pregunta 7 (High B - Dificultad High)
-
-**ID:** "CO-SOC-11-constitucion-001-bundle-v7"
-
-### Enunciado
-
-TODO: Generar variación de tipo High B
-
-### Opciones
-
-- [ ] A) Opción 1
-- [ ] B) Opción 2
-- [ ] C) Opción 3
-- [ ] D) Opción 4
-
-### Explicación Pedagógica
-
-TODO: Explicación pendiente
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Metadata de Validacion

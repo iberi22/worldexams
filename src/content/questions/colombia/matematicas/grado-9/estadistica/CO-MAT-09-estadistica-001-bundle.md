@@ -27,7 +27,10 @@ componente: "Aleatorio"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber9", "MX-EXANI-I", "Common-Core-Math-HighSchool"]
+applicable_exams: ["CO-Saber9", "MX-EXANI-I", "Common-Core-Math-HighSchool"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Bundle: Probabilidad Básica
@@ -36,19 +39,38 @@ applicable_exams: ["CO-Saber9", "MX-EXANI-I", "Common-Core-Math-HighSchool"]
 > **Competencia:** Predecir ocurrencia de eventos.
 
 ---
+id: "CO-MAT-09-estadistica-001-bundle"
+country: "CO"
+grado: 9
+asignatura: "Matemáticas"
+tema: "Probabilidad y Estadística"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-4)"
+generation_date: "2025-12-06"
 
-## 📊 Metadata de Validación
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-MAT-09-EST"
+original_concept: "Probability and data interpretation"
+competencia_icfes: "Interpretación y análisis"
+componente: "Aleatorio"
 
-| Pregunta | ID | Dificultad | Competencia ICFES | Estado |
-|----------|-----|------------|-------------------|--------|
-| 1 | CO-MAT-09-estadistica-001-v1 | 2 | Probabilidad simple | ⬜ |
-| 2 | CO-MAT-09-estadistica-001-v2 | Low | Probabilidad moneda | ⬜ |
-| 3 | CO-MAT-09-estadistica-001-v3 | Low | Probabilidad dado | ⬜ |
-| 4 | CO-MAT-09-estadistica-001-v4 | Medium | Porcentaje | ⬜ |
-| 5 | CO-MAT-09-estadistica-001-v5 | 2 | Suceso seguro | ⬜ |
-| 6 | CO-MAT-09-estadistica-001-v6 | High | Probabilidad combinada | ⬜ |
-| 7 | CO-MAT-09-estadistica-001-v7 | 3 | Media (Promedio) | ⬜ |
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber9", "MX-EXANI-I", "Common-Core-Math-HighSchool"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1
@@ -70,25 +92,38 @@ En una bolsa hay 3 bolas rojas y 2 bolas azules. ¿Cuál es la probabilidad de s
 **Laplace:** Casos favorables (2 azules) / Casos totales (3+2=5). Probabilidad = 2/5.
 
 ---
+id: "CO-MAT-09-estadistica-001-bundle"
+country: "CO"
+grado: 9
+asignatura: "Matemáticas"
+tema: "Probabilidad y Estadística"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-4)"
+generation_date: "2025-12-06"
 
-## Pregunta 2
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-MAT-09-EST"
+original_concept: "Probability and data interpretation"
+competencia_icfes: "Interpretación y análisis"
+componente: "Aleatorio"
 
-**ID:** `CO-MAT-09-estadistica-001-v2`
-
-### Enunciado
-
-Si lanzas una **moneda** al aire, ¿cuál es la probabilidad de que caiga "Cara"?
-
-### Opciones
-
-- [ ] A) 100%
-- [x] B) 50% (o 1/2)
-- [ ] C) 25% (o 1/4)
-- [ ] D) 0%
-
-### Explicación
-**Equiprobable:** Hay 2 opciones (cara, sello). 1 favorable de 2 totales = 1/2 = 50%.
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber9", "MX-EXANI-I", "Common-Core-Math-HighSchool"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3
@@ -110,25 +145,38 @@ Al lanzar un **dado** de 6 caras, ¿cuál es la probabilidad de sacar un número
 **Conteo:** Números mayores que 4 son: {5, 6}. Son 2 casos favorables de 6 posibles. 2/6 simplificado es 1/3.
 
 ---
+id: "CO-MAT-09-estadistica-001-bundle"
+country: "CO"
+grado: 9
+asignatura: "Matemáticas"
+tema: "Probabilidad y Estadística"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-4)"
+generation_date: "2025-12-06"
 
-## Pregunta 4
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-MAT-09-EST"
+original_concept: "Probability and data interpretation"
+competencia_icfes: "Interpretación y análisis"
+componente: "Aleatorio"
 
-**ID:** `CO-MAT-09-estadistica-001-v4`
-
-### Enunciado
-
-Si en un salón de 20 estudiantes, 5 usan gafas, ¿qué **porcentaje** de estudiantes usa gafas?
-
-### Opciones
-
-- [ ] A) 10%
-- [x] B) 25%
-- [ ] C) 50%
-- [ ] D) 5%
-
-### Explicación
-**Fracción a Porcentaje:** 5/20 es igual a 1/4. Y 1/4 equivale al 25% ($0.25 \times 100$).
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber9", "MX-EXANI-I", "Common-Core-Math-HighSchool"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5
@@ -150,25 +198,38 @@ Si en un salón de 20 estudiantes, 5 usan gafas, ¿qué **porcentaje** de estudi
 **Imposible:** El dado solo tiene números del 1 al 6. No puede salir 8.
 
 ---
+id: "CO-MAT-09-estadistica-001-bundle"
+country: "CO"
+grado: 9
+asignatura: "Matemáticas"
+tema: "Probabilidad y Estadística"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-4)"
+generation_date: "2025-12-06"
 
-## Pregunta 6
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-MAT-09-EST"
+original_concept: "Probability and data interpretation"
+competencia_icfes: "Interpretación y análisis"
+componente: "Aleatorio"
 
-**ID:** `CO-MAT-09-estadistica-001-v6`
-
-### Enunciado
-
-En una urna hay 5 bolas: 1 verde, 1 amarilla y 3 rojas. ¿Qué color es **más probable** sacar?
-
-### Opciones
-
-- [ ] A) Verde.
-- [ ] B) Amarilla.
-- [x] C) Roja.
-- [ ] D) Todas tienen igual probabilidad.
-
-### Explicación
-**Comparación:** Hay más bolas rojas (3) que de cualquier otro color.
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber9", "MX-EXANI-I", "Common-Core-Math-HighSchool"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7

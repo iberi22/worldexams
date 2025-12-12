@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: Dos Reinos, Dos Células
@@ -22,11 +25,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Texto comparativo entre células animales y vegetales.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-BIO-11-celular-002"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Biología - Célula Animal vs Vegetal"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-# Texto Base
-
-"Aunque las células animales y vegetales son ambas eucariotas y comparten estructuras básicas como el núcleo, la membrana celular y las mitocondrias, presentan diferencias cruciales adaptadas a sus estilos de vida. La célula vegetal se distingue por tener una **pared celular** rígida de celulosa que le da soporte, y una **vacuola central** grande que almacena agua y mantiene la turgencia. Además, posee **cloroplastos**, organelos verdes especializados donde ocurre la fotosíntesis. La célula animal carece de estas tres estructuras; en su lugar, posee membrana flexible, vacuolas pequeñas o ausentes, y organelos exclusivos como los **centriolos**, vitales para la división celular."
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1 (Original - Dificultad Medium)
@@ -53,30 +70,25 @@ El texto menciona explícitamente: "Además, posee cloroplastos... La célula an
 **Componente:** Biología - Biología Celular Comparada
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-BIO-11-celular-002"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Biología - Célula Animal vs Vegetal"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 2 (Low A - Dificultad Low)
-
-**ID:** "CO-BIO-11-celular-002-v2"
-
-### Enunciado
-
-¿Qué estructura le da rigidez y soporte a la célula vegetal, según el texto?
-
-### Opciones
-
-- [x] A) La pared celular.
-- [ ] B) La membrana flexible.
-- [ ] C) El núcleo.
-- [ ] D) El centriolo.
-
-### Explicación Pedagógica
-
-**¿Por qué A es correcta?**
-El texto indica: "La célula vegetal se distingue por tener una pared celular rígida de celulosa que le da soporte".
-
-**Competencia evaluada:** Uso comprensivo del conocimiento científico
-**Componente:** Biología - Estructura Celular
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3 (Low B - Dificultad Low)
@@ -103,30 +115,25 @@ El texto comienza diciendo: "comparten estructuras básicas como el núcleo, la 
 **Componente:** Biología - Semejanzas celulares
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-BIO-11-celular-002"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Biología - Célula Animal vs Vegetal"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 4 (Medium A - Dificultad Medium)
-
-**ID:** "CO-BIO-11-celular-002-v4"
-
-### Enunciado
-
-Si colocamos una célula animal en agua destilada (medio hipotónico), esta se hincha y puede explotar (lisis), pero una célula vegetal no lo hace aunque se hinche. Basado en el texto, ¿qué estructura protege a la célula vegetal de explotar?
-
-### Opciones
-
-- [ ] A) La vacuola central.
-- [ ] B) Los cloroplastos.
-- [x] C) La pared celular.
-- [ ] D) La membrana celular.
-
-### Explicación Pedagógica
-
-**¿Por qué C es correcta?**
-La "pared celular rígida" mencionada en el texto actúa como un contenedor físico que impide que la célula se expanda hasta romperse cuando entra agua por ósmosis, manteniendo la presión de turgencia. La membrana celular por sí sola es demasiado frágil ("flexible" en animales).
-
-**Competencia evaluada:** Explicación de fenómenos
-**Componente:** Biología - Transporte y Homeostasis
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5 (Medium B - Dificultad Medium)
@@ -153,30 +160,25 @@ El texto señala que en los cloroplastos "ocurre la fotosíntesis". Esto permite
 **Componente:** Biología - Metabolismo
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-BIO-11-celular-002"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Biología - Célula Animal vs Vegetal"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 6 (High A - Dificultad High)
-
-**ID:** "CO-BIO-11-celular-002-v6"
-
-### Enunciado
-
-La teoría endosimbiótica propone que las mitocondrias y los cloroplastos evolucionaron a partir de bacterias antiguas que fueron fagocitadas por una célula ancestral. ¿Qué evidencia estructural (NO mencionada explícitamente en el texto base pero relacionada) apoya esta teoría para ambos organelos?
-
-### Opciones
-
-- [ ] A) Ambos organelos tienen pared celular rígida.
-- [ ] B) Ambos organelos son verdes como las bacterias.
-- [x] C) Ambos tienen su propio ADN y doble membrana.
-- [ ] D) Ambos pueden vivir fuera de la célula hoy en día.
-
-### Explicación Pedagógica
-
-**¿Por qué C es correcta?**
-Requiere conocimiento externo avanzado. Mitocondrias y cloroplastos son únicos porque poseen su propio material genético (ADN circular, similar al bacteriano) y ribosomas, lo que sugiere un origen independiente como procariontes de vida libre.
-
-**Competencia evaluada:** Indagación y uso de conocimiento
-**Componente:** Biología - Evolución Celular
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7 (High B - Dificultad High)

@@ -1,6 +1,6 @@
 import { test, expect, type BrowserContext, type Page } from '@playwright/test';
 
-test.describe('Party Mode E2E', () => {
+test.describe('Party Mode E2E - 4 Estudiantes con Informe Admin', () => {
   let hostContext: BrowserContext;
   let hostPage: Page;
   let playerContexts: BrowserContext[] = [];
@@ -11,8 +11,8 @@ test.describe('Party Mode E2E', () => {
     hostContext = await browser.newContext();
     hostPage = await hostContext.newPage();
 
-    // Create 3 Player Contexts
-    for (let i = 0; i < 3; i++) {
+    // Create 4 Player Contexts (aumentado de 3 a 4)
+    for (let i = 0; i < 4; i++) {
       const context = await browser.newContext();
       const page = await context.newPage();
       playerContexts.push(context);
@@ -27,55 +27,53 @@ test.describe('Party Mode E2E', () => {
     }
   });
 
-  test('Full Party Flow: Create and Join', async () => {
-    test.setTimeout(60000);
-    hostPage.on('console', msg => console.log(`HOST LOG: ${msg.text()}`));
-    hostPage.on('pageerror', err => console.log(`BROWSER ERROR: ${err.message}`));
+  test('Full Party Flow: Create, Join, Answer, Generate Report', async () => {
+    test.setTimeout(120000); // 2 minutos para flujo completo
 
-    // 1. Host creates party
-    console.log('Host creating party...');
+    // Enable logging
+    hostPage.on('console', msg => console.log(`🎓 HOST: ${msg.text()}`));
+    hostPage.on('pageerror', err => console.error(`❌ HOST ERROR: ${err.message}`));
+
+    // ===================================================
+    // FASE 1: Host crea party
+    // ===================================================
+    console.log('\n📝 FASE 1: Host creando party...');
     await hostPage.goto('/party');
-
-    // Debug: Check what's on the page
     await hostPage.waitForTimeout(2000);
-    const content = await hostPage.content();
-    if (content.includes('Detectando servidor...')) {
-        console.log('Still detecting server...');
-    } else {
-        console.log('Server detection finished.');
-    }
 
-    // Check if "Crear Party" is visible
     const createButton = hostPage.getByRole('button', { name: 'Crear Party' });
-    if (await createButton.isVisible()) {
-        console.log('Create Party button is visible');
-    } else {
-        console.log('Create Party button is NOT visible');
-        // console.log('Page content preview:', content.substring(0, 1000));
-    }
-
+    await expect(createButton).toBeVisible({ timeout: 5000 });
     await createButton.click();
-    await hostPage.fill('input[placeholder="Ej: Profesor García"]', 'Profesor X');
-    await hostPage.fill('input[placeholder="Ej: Examen Final Matemáticas 11°"]', 'Examen E2E');
+
+    await hostPage.fill('input[placeholder="Ej: Profesor García"]', 'Profesor E2E Test');
+    await hostPage.fill('input[placeholder="Ej: Examen Final Matemáticas 11°"]', 'Examen Automatizado Grado 11');
     await hostPage.click('text=🚀 Crear Party');
 
-    // Wait for Lobby and get Code
+    // Esperar código de party
     await expect(hostPage.locator('text=Código:')).toBeVisible({ timeout: 10000 });
     const codeElement = hostPage.locator('text=Código: >> span');
     const partyCode = await codeElement.textContent();
-    console.log(`Party created with code: ${partyCode}`);
+    console.log(`✅ Party creada con código: ${partyCode}`);
+
     expect(partyCode).toBeTruthy();
     expect(partyCode?.length).toBe(6);
 
-    // 2. Players join party
-    for (let i = 0; i < 3; i++) {
+    // ===================================================
+    // FASE 2: 4 Estudiantes se unen
+    // ===================================================
+    console.log('\n👥 FASE 2: 4 estudiantes uniéndose...');
+
+    const studentNames = ['Ana García', 'Juan Pérez', 'María López', 'Carlos Rodríguez'];
+
+    for (let i = 0; i < 4; i++) {
       const playerPage = playerPages[i];
-      const playerName = `Estudiante ${i + 1}`;
-      console.log(`${playerName} joining party...`);
-      playerPage.on('console', msg => console.log(`PLAYER ${i+1} LOG: ${msg.text()}`));
+      const playerName = studentNames[i];
+
+      console.log(`  → ${playerName} uniéndose...`);
+      playerPage.on('console', msg => console.log(`  👤 ${playerName}: ${msg.text()}`));
 
       await playerPage.goto('/party');
-      await playerPage.waitForTimeout(1000); // Wait for backend detection
+      await playerPage.waitForTimeout(1000);
 
       const joinButton = playerPage.getByRole('button', { name: 'Unirse a Party' });
       await joinButton.click();
@@ -84,71 +82,154 @@ test.describe('Party Mode E2E', () => {
       await playerPage.fill('input[placeholder="Ej: ABC123"]', partyCode!);
       await playerPage.click('text=🎓 Unirse a Party');
 
-      // Verify player is in lobby
+      // Verificar que está en lobby
       await expect(playerPage.locator(`text=${partyCode}`)).toBeVisible({ timeout: 10000 });
       await expect(playerPage.locator('text=Participantes')).toBeVisible();
+      console.log(`  ✅ ${playerName} unido exitosamente`);
     }
 
-    // 3. Verify Host sees all players
-    console.log('Verifying players in host lobby...');
+    // ===================================================
+    // FASE 3: Host verifica participantes
+    // ===================================================
+    console.log('\n🔍 FASE 3: Verificando participantes en lobby...');
 
-    // Host + 3 Players = 4 participants
-    await expect(hostPage.locator('text=Participantes (4/100)')).toBeVisible();
+    // Host + 4 Estudiantes = 5 participantes
+    await expect(hostPage.locator('text=Participantes (5/100)')).toBeVisible();
 
-    for (let i = 0; i < 3; i++) {
-      await expect(hostPage.locator(`text=Estudiante ${i + 1}`)).toBeVisible();
+    for (const name of studentNames) {
+      await expect(hostPage.locator(`text=${name}`)).toBeVisible();
+      console.log(`  ✅ ${name} visible en lobby`);
     }
 
-    // 4. Host starts game
-    console.log('Host starting game...');
+    // ===================================================
+    // FASE 4: Host inicia examen
+    // ===================================================
+    console.log('\n🚀 FASE 4: Host iniciando examen...');
     await hostPage.click('button:has-text("🚀 Iniciar Examen")');
     await expect(hostPage.locator('text=Progreso del Examen')).toBeVisible();
+    console.log('✅ Examen iniciado');
 
-    // 5. Players see game view and answer
-    console.log('Players answering questions...');
-    for (let i = 0; i < 3; i++) {
+    // ===================================================
+    // FASE 5: Estudiantes responden preguntas
+    // ===================================================
+    console.log('\n📝 FASE 5: Estudiantes respondiendo...');
+
+    // Simular diferentes patrones de respuesta:
+    // Ana: Responde correctamente (A)
+    // Juan: Responde incorrectamente (B)
+    // María: Responde correctamente (A)
+    // Carlos: Responde incorrectamente (C)
+
+    const answerPatterns = ['A', 'B', 'A', 'C'];
+
+    for (let i = 0; i < 4; i++) {
       const page = playerPages[i];
-      // Use exact text to avoid ambiguity with "Pregunta 1/20"
-      await expect(page.getByText('Pregunta 1 de Matemáticas')).toBeVisible();
+      const name = studentNames[i];
+      const answer = answerPatterns[i];
 
-      // Player 1 answers correctly (A), others randomly
-      const option = i === 0 ? 'A' : 'B';
-      // Click the option button (it contains the letter)
-      await page.locator(`button:has-text("${option}")`).first().click();
+      console.log(`  → ${name} respondiendo opción ${answer}...`);
 
-      // Click submit
+      // Esperar que aparezca la pregunta
+      await expect(page.getByText('Pregunta 1 de Matemáticas')).toBeVisible({ timeout: 10000 });
+
+      // Seleccionar opción
+      await page.locator(`button:has-text("${answer}")`).first().click();
+      await page.waitForTimeout(500);
+
+      // Enviar respuesta
       await page.click('button:has-text("Enviar Respuesta")');
 
-      // Verify answer submitted
-      await expect(page.locator('text=✅ Respuesta Enviada')).toBeVisible();
+      // Verificar que se envió
+      await expect(page.locator('text=✅ Respuesta Enviada')).toBeVisible({ timeout: 5000 });
+      console.log(`  ✅ ${name} respondió ${answer}`);
     }
 
-    // 6. Host sees progress
-    // Wait for answers to be received
-    // Find the container that has "Respuestas" and check the number inside it
-    const respuestasCard = hostPage.locator('div.bg-gray-800', { hasText: 'Respuestas' });
-    await expect(respuestasCard).toContainText('3', { timeout: 5000 });
+    // ===================================================
+    // FASE 6: Host verifica progreso
+    // ===================================================
+    console.log('\n📊 FASE 6: Verificando progreso en host...');
 
-    // 7. Host finishes game
-    console.log('Host finishing game...');
+    const respuestasCard = hostPage.locator('div.bg-gray-800', { hasText: 'Respuestas' });
+    await expect(respuestasCard).toContainText('4', { timeout: 10000 });
+    console.log('✅ Host recibió las 4 respuestas');
+
+    // ===================================================
+    // FASE 7: Host finaliza examen
+    // ===================================================
+    console.log('\n🏁 FASE 7: Finalizando examen...');
+
     hostPage.on('dialog', dialog => dialog.accept());
     await hostPage.click('button:has-text("🏁 Finalizar Examen")');
 
-    // 8. Verify Results
-    console.log('Verifying results...');
-    await expect(hostPage.locator('text=Resultados')).toBeVisible();
+    await expect(hostPage.locator('text=Resultados')).toBeVisible({ timeout: 10000 });
+    console.log('✅ Examen finalizado');
 
-    // Check if Host specific stats are visible
+    // ===================================================
+    // FASE 8: Validar informe básico del admin
+    // ===================================================
+    console.log('\n📈 FASE 8: Validando informe del administrador...');
+
+    // Verificar secciones principales
     await expect(hostPage.locator('text=Estadísticas Generales')).toBeVisible();
+    console.log('  ✅ Sección "Estadísticas Generales" visible');
 
-    // Check AI Analysis section
+    // Verificar estadísticas individuales de estudiantes
+    for (const name of studentNames) {
+      await expect(hostPage.locator(`text=${name}`)).toBeVisible();
+      console.log(`  ✅ Estadísticas de ${name} visibles`);
+    }
+
+    // Verificar métricas clave
+    await expect(hostPage.locator('text=Promedio de Clase')).toBeVisible();
+    await expect(hostPage.locator('text=Tasa de Participación')).toBeVisible();
+    console.log('  ✅ Métricas clave visibles');
+
+    // ===================================================
+    // FASE 9: Generar análisis con IA
+    // ===================================================
+    console.log('\n✨ FASE 9: Generando análisis con IA...');
+
     await expect(hostPage.locator('text=Análisis de IA')).toBeVisible();
 
-    // 9. Request AI Analysis
-    console.log('Requesting AI Analysis...');
-    await hostPage.click('button:has-text("✨ Generar Análisis con IA")');
-    await expect(hostPage.locator('text=Análisis de IA Generado')).toBeVisible();
+    const aiButton = hostPage.locator('button:has-text("✨ Generar Análisis con IA")');
+    await expect(aiButton).toBeVisible();
+    await aiButton.click();
 
-    console.log('Full flow test completed successfully!');
+    // Esperar a que se genere el análisis (puede tomar tiempo)
+    await expect(hostPage.locator('text=Análisis de IA Generado')).toBeVisible({ timeout: 30000 });
+    console.log('  ✅ Análisis de IA generado');
+
+    // Verificar que el análisis tiene contenido
+    const analysisContent = hostPage.locator('div.ai-analysis-content, div[class*="analysis"]');
+    await expect(analysisContent).toBeVisible();
+    console.log('  ✅ Contenido del análisis visible');
+
+    // ===================================================
+    // FASE 10: Validar descargas (opcional)
+    // ===================================================
+    console.log('\n💾 FASE 10: Validando opciones de exportación...');
+
+    // Verificar que existen botones de descarga
+    const downloadButtons = hostPage.locator('button:has-text("Descargar"), button:has-text("Exportar")');
+    const downloadCount = await downloadButtons.count();
+
+    if (downloadCount > 0) {
+      console.log(`  ✅ ${downloadCount} opciones de descarga disponibles`);
+    } else {
+      console.log('  ⚠️  No se encontraron botones de descarga (opcional)');
+    }
+
+    // ===================================================
+    // RESUMEN FINAL
+    // ===================================================
+    console.log('\n' + '='.repeat(50));
+    console.log('✅ PRUEBA E2E COMPLETADA EXITOSAMENTE');
+    console.log('='.repeat(50));
+    console.log(`Código de Party: ${partyCode}`);
+    console.log(`Estudiantes: ${studentNames.join(', ')}`);
+    console.log(`Respuestas: ${answerPatterns.join(', ')}`);
+    console.log('Informe generado: ✅');
+    console.log('Análisis IA: ✅');
+    console.log('='.repeat(50));
   });
 });

@@ -8,7 +8,10 @@ tema: Government Branches
 dificultad: 2
 estado: published
 creador: AI-WorldExams
-source: SAT
+source: SAT
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 # Question
 What are the three branches of the U.S. federal government?

@@ -11,7 +11,10 @@ llm_model: unknown
 agent: legacy
 ide: unknown
 source: human-curated
-group_id: NAT35881
+group_id: NAT35881
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 # Pregunta
 Según la teoría de la selección natural de Darwin, ¿cuál es el factor clave para la evolución de las especies?

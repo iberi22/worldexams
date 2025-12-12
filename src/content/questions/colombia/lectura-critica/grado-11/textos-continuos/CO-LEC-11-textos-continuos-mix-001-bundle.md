@@ -27,7 +27,10 @@ componente: "Semántico y Pragmático"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber11", "MX-EXANI", "CL-PAES-Lectura"]
+applicable_exams: ["CO-Saber11", "MX-EXANI", "CL-PAES-Lectura"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Bundle: Lectura Crítica - Textos Argumentativos
@@ -37,11 +40,38 @@ applicable_exams: ["CO-Saber11", "MX-EXANI", "CL-PAES-Lectura"]
 > **Competencia:** Identificar contenidos locales y reflexionar sobre el texto
 
 ---
+id: "CO-LEC-11-textos-continuos-mix-001"
+country: "CO"
+grado: 11
+asignatura: "Lectura Crítica"
+tema: "Textos Continuos - Argumentación"
+dificultad: "Medium"
+estado: "draft"
+creador: "Antigravity"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Texto Base 1 (Preguntas 1-3)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-LEC-011-TXT-001"
+original_concept: "Identificación de Tesis y Argumentos"
+competencia_icfes: "Lectura Crítica - Nivel Inferencial y Crítico"
+componente: "Semántico y Pragmático"
 
-"La pena de muerte es ineficaz porque no disuade a los criminales de cometer delitos graves. Estudios demuestran que en los estados donde existe la pena capital, la tasa de homicidios no es menor que en aquellos donde no existe. Además, el sistema judicial es falible y existe el riesgo inaceptable de ejecutar a inocentes."
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-EXANI", "CL-PAES-Lectura"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1 (Original - Dificultad Medium)
@@ -66,28 +96,38 @@ La tesis es la postura central. El autor afirma explícitamente que la pena es "
 **Competencia evaluada:** Semántica - Identificación de Tesis.
 
 ---
+id: "CO-LEC-11-textos-continuos-mix-001"
+country: "CO"
+grado: 11
+asignatura: "Lectura Crítica"
+tema: "Textos Continuos - Argumentación"
+dificultad: "Medium"
+estado: "draft"
+creador: "Antigravity"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 2 (Fácil - Dificultad 2)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-LEC-011-TXT-001"
+original_concept: "Identificación de Tesis y Argumentos"
+competencia_icfes: "Lectura Crítica - Nivel Inferencial y Crítico"
+componente: "Semántico y Pragmático"
 
-**ID:** `CO-LEC-11-textos-continuos-mix-001-v2`
-
-### Enunciado
-
-Según el texto, ¿qué demuestran los estudios sobre la tasa de homicidios?
-
-### Opciones
-
-- [ ] A) Que aumenta con la pena de muerte.
-- [ ] B) Que disminuye drásticamente con la pena de muerte.
-- [x] C) Que no es menor en estados con pena de muerte comparado con los que no la tienen.
-- [ ] D) Que no tienen relación con la ley.
-
-### Explicación Pedagógica
-
-El texto dice literalmente: "la tasa de homicidios no es menor que en aquellos donde no existe".
-
-**Competencia evaluada:** Semántica - Contenido explícito.
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-EXANI", "CL-PAES-Lectura"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3 (Difícil - Dificultad 4)
@@ -112,11 +152,38 @@ Cuando el autor habla de "sistema judicial falible", implica que:
 **Competencia evaluada:** Pragmática - Inferencia léxica.
 
 ---
+id: "CO-LEC-11-textos-continuos-mix-001"
+country: "CO"
+grado: 11
+asignatura: "Lectura Crítica"
+tema: "Textos Continuos - Argumentación"
+dificultad: "Medium"
+estado: "draft"
+creador: "Antigravity"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Texto Base 2 (Preguntas 4-7)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-LEC-011-TXT-001"
+original_concept: "Identificación de Tesis y Argumentos"
+competencia_icfes: "Lectura Crítica - Nivel Inferencial y Crítico"
+componente: "Semántico y Pragmático"
 
-"La tecnología nos conecta con los lejanos, pero a menudo nos desconecta de quienes tenemos al lado. En una cena familiar, es común ver rostros iluminados por pantallas en lugar de miradas cómplices. Hemos cambiado la conversación profunda por el 'like' efímero."
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-EXANI", "CL-PAES-Lectura"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -141,28 +208,38 @@ La imagen ilustra cómo la tecnología capta la atención de las personas, aisl�
 **Competencia evaluada:** Pragmática - Retórica y estilo.
 
 ---
+id: "CO-LEC-11-textos-continuos-mix-001"
+country: "CO"
+grado: 11
+asignatura: "Lectura Crítica"
+tema: "Textos Continuos - Argumentación"
+dificultad: "Medium"
+estado: "draft"
+creador: "Antigravity"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 5 (Media - Dificultad 3)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-LEC-011-TXT-001"
+original_concept: "Identificación de Tesis y Argumentos"
+competencia_icfes: "Lectura Crítica - Nivel Inferencial y Crítico"
+componente: "Semántico y Pragmático"
 
-**ID:** `CO-LEC-11-textos-continuos-mix-001-v5`
-
-### Enunciado
-
-El autor considera que el "like":
-
-### Opciones
-
-- [ ] A) Es una forma profunda de amor.
-- [x] B) Es superficial y pasajero (efímero).
-- [ ] C) Es la mejor manera de comunicarse.
-- [ ] D) Reemplaza perfectamente a la conversación.
-
-### Explicación Pedagógica
-
-El autor califica el like como "efímero" y lo contrapone a la "conversación profunda", denotando su superficialidad.
-
-**Competencia evaluada:** Semántica - Valoración del autor.
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-EXANI", "CL-PAES-Lectura"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 4)
@@ -187,28 +264,38 @@ La primera frase resume la paradoja: "conecta con los lejanos, pero... desconect
 **Competencia evaluada:** Crítica - Identificación de contradicciones/paradojas.
 
 ---
+id: "CO-LEC-11-textos-continuos-mix-001"
+country: "CO"
+grado: 11
+asignatura: "Lectura Crítica"
+tema: "Textos Continuos - Argumentación"
+dificultad: "Medium"
+estado: "draft"
+creador: "Antigravity"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 7 (Difícil - Dificultad 5)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-LEC-011-TXT-001"
+original_concept: "Identificación de Tesis y Argumentos"
+competencia_icfes: "Lectura Crítica - Nivel Inferencial y Crítico"
+componente: "Semántico y Pragmático"
 
-**ID:** `CO-LEC-11-textos-continuos-mix-001-v7`
-
-### Enunciado
-
-¿Qué intención comunicativa predomina en el texto?
-
-### Opciones
-
-- [ ] A) Informar sobre ventas de celulares.
-- [ ] B) Narrar una historia sobre una cena.
-- [x] C) Persuadir o reflexionar sobre el impacto social negativo de la tecnología.
-- [ ] D) Instruir sobre cómo usar el celular en la mesa.
-
-### Explicación Pedagógica
-
-Es un texto de opinión/reflexión crítica sobre un comportamiento social (el uso de tecnología en espacios sociales).
-
-**Competencia evaluada:** Crítica - Intención del autor.
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-EXANI", "CL-PAES-Lectura"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## 📊 Metadata de Validación

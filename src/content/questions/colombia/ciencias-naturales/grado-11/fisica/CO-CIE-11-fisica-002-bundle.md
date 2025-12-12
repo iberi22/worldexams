@@ -27,7 +27,10 @@ componente: "Físico"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad-Fisica", "SAT-Physics"]
+applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad-Fisica", "SAT-Physics"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Bundle: Electromagnetismo y Circuitos
@@ -38,19 +41,38 @@ applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad-Fisica", "SAT-Phy
 > **Contexto:** Principios universales de electricidad magnetismo
 
 ---
+id: "CO-CIE-11-fisica-002"
+country: "CO"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Física - Electromagnetismo"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## 📊 Metadata de Validación
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-CIE-011-003"
+original_concept: "Circuitos eléctricos y fenómenos electromagnéticos"
+competencia_icfes: "Explicación de fenómenos - Uso comprensivo del conocimiento"
+componente: "Físico"
 
-| Pregunta | ID | Dificultad | Competencia ICFES | Componente | Validado |
-|----------|-----|------------|-------------------|------------|----------|
-| 1 | CO-CIE-11-fisica-002-v1 | Medium | Uso comprensivo | Electromagnetismo | ⬜ |
-| 2 | CO-CIE-11-fisica-002-v2 | Low | Uso comprensivo | Electromagnetismo | ⬜ |
-| 3 | CO-CIE-11-fisica-002-v3 | Low | Explicación | Electromagnetismo | ⬜ |
-| 4 | CO-CIE-11-fisica-002-v4 | Medium | Resolución | Electromagnetismo | ⬜ |
-| 5 | CO-CIE-11-fisica-002-v5 | Medium | Explicación | Electromagnetismo | ⬜ |
-| 6 | CO-CIE-11-fisica-002-v6 | High | Resolución | Electromagnetismo | ⬜ |
-| 7 | CO-CIE-11-fisica-002-v7 | High | Resolución | Electromagnetismo | ⬜ |
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad-Fisica", "SAT-Physics"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1 (Original - Dificultad Medium)
@@ -79,30 +101,38 @@ La corriente es la misma en todo el circuito serie.
 **Competencia evaluada:** Uso comprensivo del conocimiento - Ley de Ohm y circuitos serie
 
 ---
+id: "CO-CIE-11-fisica-002"
+country: "CO"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Física - Electromagnetismo"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 2 (Low A - Dificultad Low)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-CIE-011-003"
+original_concept: "Circuitos eléctricos y fenómenos electromagnéticos"
+competencia_icfes: "Explicación de fenómenos - Uso comprensivo del conocimiento"
+componente: "Físico"
 
-**ID:** `CO-CIE-11-fisica-002-v2`
-
-### Enunciado
-
-Según la Ley de Cargas (Electrostática), dos cargas eléctricas del mismo signo (ambas positivas o ambas negativas):
-
-### Opciones
-
-- [ ] A) Se atraen mutuamente.
-- [x] B) Se repelen mutuamente.
-- [ ] C) No interactúan entre sí.
-- [ ] D) Generan una corriente eléctrica inmediata.
-
-### Explicación Pedagógica
-
-Principio fundamental de la electrostática:
-*   Cargas **opuestas** ("+" y "-") se **atraen**.
-*   Cargas **iguales** ("+" y "+" o "-" y "-") se **repelen**.
-
-**Competencia evaluada:** Uso comprensivo del conocimiento - interacción electrostática básica
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad-Fisica", "SAT-Physics"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3 (Low B - Dificultad Low)
@@ -127,34 +157,38 @@ No existen (hasta la fecha) monopolos magnéticos aislados en la naturaleza. Al 
 **Competencia evaluada:** Explicación de fenómenos - propiedades de los imanes
 
 ---
+id: "CO-CIE-11-fisica-002"
+country: "CO"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Física - Electromagnetismo"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 4 (Medium A - Dificultad Medium)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-CIE-011-003"
+original_concept: "Circuitos eléctricos y fenómenos electromagnéticos"
+competencia_icfes: "Explicación de fenómenos - Uso comprensivo del conocimiento"
+componente: "Físico"
 
-**ID:** `CO-CIE-11-fisica-002-v4`
-
-### Enunciado
-
-Tres bombillas idénticas están conectadas en **paralelo** a una batería. Si una de las bombillas se funde (se quema su filamento), ¿qué sucede con las otras dos?
-
-### Opciones
-
-- [ ] A) Se apagan también porque se abre el circuito.
-- [ ] B) Brillan con menos intensidad porque les llega menos corriente.
-- [x] C) Permanecen encendidas con la misma intensidad.
-- [ ] D) Brillan con más intensidad porque reciben la corriente de la que se fundió.
-
-### Explicación Pedagógica
-
-En un circuito **paralelo**:
-1.  Cada componente está conectado independientemente a la fuente de voltaje.
-2.  El voltaje en cada rama es el mismo ($V_{fuente}$).
-3.  Si una rama se abre (se funde la bombilla), las otras ramas siguen teniendo un camino cerrado hacia la fuente y reciben el mismo voltaje.
-4.  Por tanto, siguen funcionando igual.
-
-*Nota: Esto es diferente a un circuito en serie, donde si uno falla, todo se apaga.*
-
-**Competencia evaluada:** Resolución y análisis - comportamiento de circuitos paralelos
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad-Fisica", "SAT-Physics"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5 (Medium B - Dificultad Medium)
@@ -182,35 +216,38 @@ La fuerza de Lorentz es $F = qvB \sin(\theta)$, donde $\theta$ es el ángulo ent
 **Competencia evaluada:** Explicación de fenómenos - electromagnetismo y fuerza de Lorentz
 
 ---
+id: "CO-CIE-11-fisica-002"
+country: "CO"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Física - Electromagnetismo"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 6 (High A - Dificultad High)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-CIE-011-003"
+original_concept: "Circuitos eléctricos y fenómenos electromagnéticos"
+competencia_icfes: "Explicación de fenómenos - Uso comprensivo del conocimiento"
+componente: "Físico"
 
-**ID:** `CO-CIE-11-fisica-002-v6`
-
-### Enunciado
-
-Se tienen dos cargas puntuales $q_1 = +2\mu C$ y $q_2 = +6\mu C$ separadas una distancia $d$. Si se duplica la distancia entre ellas ($2d$), la fuerza eléctrica de repulsión:
-
-### Opciones
-
-- [ ] A) Se duplica.
-- [ ] B) Se reduce a la mitad.
-- [x] C) Se reduce a la cuarta parte.
-- [ ] D) No cambia.
-
-### Explicación Pedagógica
-
-Ley de Coulomb: $F = k \frac{q_1 q_2}{r^2}$.
-La fuerza es inversamente proporcional al cuadrado de la distancia ($F \propto \frac{1}{r^2}$).
-
-*   Nueva distancia $r' = 2d$.
-*   Nueva fuerza $F' \propto \frac{1}{(2d)^2} = \frac{1}{4d^2}$.
-*   $F' = \frac{1}{4} F$.
-
-Al duplicar la distancia, la fuerza se reduce por un factor de $2^2 = 4$.
-
-**Competencia evaluada:** Resolución - proporcionalidad inversa cuadrática
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad-Fisica", "SAT-Physics"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7 (High B - Dificultad High)

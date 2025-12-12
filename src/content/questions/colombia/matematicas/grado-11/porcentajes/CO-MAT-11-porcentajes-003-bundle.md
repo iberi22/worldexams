@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: Adaptado de Legacy
@@ -24,31 +27,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Migrado automáticamente de v1.0 y expandido con variaciones.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-porcentajes-003"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Porcentajes"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 1 (Original - Dificultad Medium)
-
-**ID:** "CO-MAT-11-porcentajes-003-v1"
-
-### Enunciado
-
-¿Cuánto es el 12.5% de 400?
-
-### Opciones
-
-- [ ] A) 40
-- [ ] B) 45
-- [x] C) 50
-- [ ] D) 55
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** C
-
-12.5% es la mitad de 25%.
-25% de 400 = 100.
-Mitad de 100 = 50.
-También, 12.5% equivale a $1/8$. $400 / 8 = 50$.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 2 (Low A - Dificultad Low)
@@ -73,28 +70,25 @@ También, 12.5% equivale a $1/8$. $400 / 8 = 50$.
 Es la equivalencia más básica.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-porcentajes-003"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Porcentajes"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 3 (Low B - Dificultad Low)
-
-**ID:** "CO-MAT-11-porcentajes-003-v3"
-
-### Enunciado
-
-El 2.5% es igual a:
-
-### Opciones
-
-- [x] A) 0.025
-- [ ] B) 0.25
-- [ ] C) 2.5
-- [ ] D) 0.0025
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** A
-
-Dividir porcentaje por 100 para obtener decimal. $2.5 / 100 = 0.025$.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 4 (Medium A - Dificultad Medium)
@@ -120,29 +114,25 @@ $33.3\%$ es aproximadamente $1/3$.
 $90 / 3 = 30$.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-porcentajes-003"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Porcentajes"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 5 (Medium B - Dificultad Medium)
-
-**ID:** "CO-MAT-11-porcentajes-003-v5"
-
-### Enunciado
-
-¿Cuánto es el 0.5% de 2,000?
-
-### Opciones
-
-- [ ] A) 100
-- [ ] B) 1
-- [x] C) 10
-- [ ] D) 20
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** C
-
-1% de 2,000 es 20.
-0.5% es la mitad del 1%, o sea 10.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 6 (High A - Dificultad High)
@@ -168,29 +158,25 @@ Calcula el 150% de 60.
 Total = $60+30 = 90$.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-porcentajes-003"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Porcentajes"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 7 (High B - Dificultad High)
-
-**ID:** "CO-MAT-11-porcentajes-003-v7"
-
-### Enunciado
-
-Si el 0.1% de X es 5, ¿cuánto es X?
-
-### Opciones
-
-- [ ] A) 500
-- [x] B) 5,000
-- [ ] C) 50
-- [ ] D) 50,000
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** B
-
-0.1% = 1/1000.
-Si $X/1000 = 5$, entonces $X = 5 \times 1000 = 5,000$.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Metadata de Validacion

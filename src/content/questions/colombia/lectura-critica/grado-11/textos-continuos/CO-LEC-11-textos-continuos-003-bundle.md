@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: Adaptado de Legacy
@@ -23,11 +26,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Migrado automáticamente de v1.0 y expandido con variaciones.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-LEC-11-textos-continuos-003"
+country: "co"
+grado: 11
+asignatura: "Lectura Crítica"
+tema: "Textos Continuos - Estructura textual"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-Script"
+generation_date: "2025-12-07"
 
-## Texto Base (Para preguntas 1-7)
-
-"El consumo excesivo de azúcar es una de las principales causas de la obesidad infantil. Por lo tanto, las escuelas deberían prohibir la venta de bebidas azucaradas en sus instalaciones para proteger la salud de los estudiantes."
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1 (Original - Dificultad Medium)
@@ -52,28 +69,25 @@ source_license: "CC BY-SA 4.0"
 La segunda oración comienza con "Por lo tanto", un conector de consecuencia/conclusión. Esto indica que propone una acción (prohibir bebidas azucaradas) como resultado lógico de la premisa anterior (el azúcar causa obesidad). Es una propuesta de medida derivada de una relación causa-efecto.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-LEC-11-textos-continuos-003"
+country: "co"
+grado: 11
+asignatura: "Lectura Crítica"
+tema: "Textos Continuos - Estructura textual"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-Script"
+generation_date: "2025-12-07"
 
-## Pregunta 2 (Low A - Dificultad Low)
-
-**ID:** "CO-LEC-11-textos-continuos-003-v2"
-
-### Enunciado
-
-Según el texto, ¿cuál es una de las principales causas de la obesidad infantil?
-
-### Opciones
-
-- [ ] A) La falta de ejercicio en los colegios.
-- [x] B) El consumo excesivo de azúcar.
-- [ ] C) La venta de comida chatarra.
-- [ ] D) La genética de los estudiantes.
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** B
-
-Identificación de información explícita. El texto comienza diciendo: "El consumo excesivo de azúcar es una de las principales causas de la obesidad infantil."
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3 (Low B - Dificultad Low)
@@ -98,28 +112,25 @@ Identificación de información explícita. El texto comienza diciendo: "El cons
 Identificación de información explícita. El texto dice: "las escuelas deberían prohibir la venta de bebidas azucaradas".
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-LEC-11-textos-continuos-003"
+country: "co"
+grado: 11
+asignatura: "Lectura Crítica"
+tema: "Textos Continuos - Estructura textual"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-Script"
+generation_date: "2025-12-07"
 
-## Pregunta 4 (Medium A - Dificultad Medium)
-
-**ID:** "CO-LEC-11-textos-continuos-003-v4"
-
-### Enunciado
-
-El conector "Por lo tanto" se utiliza en el texto para establecer una relación de:
-
-### Opciones
-
-- [ ] A) Oposición.
-- [x] B) Causa y consecuencia.
-- [ ] C) Adición.
-- [ ] D) Tiempo.
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** B
-
-"Por lo tanto" es un conector consecutivo. Conecta la causa (azúcar causa obesidad) con la consecuencia/propuesta (se debe prohibir su venta).
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5 (Medium B - Dificultad Medium)
@@ -144,28 +155,25 @@ La intención principal del autor con este texto es:
 El texto es argumentativo. Parte de un hecho para llegar a una conclusión normativa ("deberían prohibir"), buscando convencer al lector de la necesidad de esa medida.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-LEC-11-textos-continuos-003"
+country: "co"
+grado: 11
+asignatura: "Lectura Crítica"
+tema: "Textos Continuos - Estructura textual"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-Script"
+generation_date: "2025-12-07"
 
-## Pregunta 6 (High A - Dificultad High)
-
-**ID:** "CO-LEC-11-textos-continuos-003-v6"
-
-### Enunciado
-
-Un argumento válido en contra de la propuesta del autor sería:
-
-### Opciones
-
-- [ ] A) El azúcar es delicioso y a los niños les gusta.
-- [x] B) La prohibición en escuelas no controla el consumo fuera de ellas y afecta libertades individuales.
-- [ ] C) La obesidad infantil no es un problema grave de salud pública.
-- [ ] D) Las bebidas azucaradas son más baratas que el agua.
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** B
-
-Evaluar argumentos. La opción B ataca la eficacia de la medida y plantea un conflicto ético/práctico relevante, siendo un contraargumento sólido. Las otras opciones son subjetivas (A), falsas (C) o irrelevantes para la salud (D).
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7 (High B - Dificultad High)

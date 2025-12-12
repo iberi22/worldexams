@@ -27,7 +27,10 @@ componente: "Aleatorio"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad-Matemáticas", "SAT-Math"]
+applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad-Matemáticas", "SAT-Math"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Bundle: Estadística y Probabilidad
@@ -38,19 +41,38 @@ applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad-Matemáticas", "S
 > **Contexto:** Situaciones cotidianas y análisis de información
 
 ---
+id: "CO-MAT-11-estadistica-001"
+country: "CO"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Estadística y Probabilidad"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## 📊 Metadata de Validación
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-MAT-011-003"
+original_concept: "Medidas de tendencia central y probabilidad simple"
+competencia_icfes: "Interpretación y Representación - Razonamiento"
+componente: "Aleatorio"
 
-| Pregunta | ID | Dificultad | Competencia ICFES | Componente | Validado |
-|----------|-----|------------|-------------------|------------|----------|
-| 1 | CO-MAT-11-estadistica-001-v1 | Medium | Resolución | Aleatorio | ⬜ |
-| 2 | CO-MAT-11-estadistica-001-v2 | Low | Interpretación | Aleatorio | ⬜ |
-| 3 | CO-MAT-11-estadistica-001-v3 | Low | Resolución | Aleatorio | ⬜ |
-| 4 | CO-MAT-11-estadistica-001-v4 | Medium | Razonamiento | Aleatorio | ⬜ |
-| 5 | CO-MAT-11-estadistica-001-v5 | Medium | Resolución | Aleatorio | ⬜ |
-| 6 | CO-MAT-11-estadistica-001-v6 | High | Razonamiento | Aleatorio | ⬜ |
-| 7 | CO-MAT-11-estadistica-001-v7 | High | Resolución | Aleatorio | ⬜ |
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad-Matemáticas", "SAT-Math"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1 (Original - Dificultad Medium)
@@ -78,30 +100,38 @@ La media de las edades de un grupo de 5 personas es 20 años. Si se une una pers
 **Competencia evaluada:** Resolución - cálculo de promedios ponderados
 
 ---
+id: "CO-MAT-11-estadistica-001"
+country: "CO"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Estadística y Probabilidad"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 2 (Low A - Dificultad Low)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-MAT-011-003"
+original_concept: "Medidas de tendencia central y probabilidad simple"
+competencia_icfes: "Interpretación y Representación - Razonamiento"
+componente: "Aleatorio"
 
-**ID:** `CO-MAT-11-estadistica-001-v2`
-
-### Enunciado
-
-En una bolsa hay 3 bolas rojas, 2 azules y 5 verdes. Si se saca una bola al azar, ¿cuál es la probabilidad de que sea azul?
-
-### Opciones
-
-- [ ] A) 10%
-- [x] B) 20%
-- [ ] C) 30%
-- [ ] D) 50%
-
-### Explicación Pedagógica
-
-1.  **Total de bolas:** $3 + 2 + 5 = 10$.
-2.  **Favorables (azules):** 2.
-3.  **Probabilidad:** $\frac{2}{10} = 0.2 = 20\%$.
-
-**Competencia evaluada:** Interpretación - probabilidad simple
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad-Matemáticas", "SAT-Math"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3 (Low B - Dificultad Low)
@@ -131,33 +161,38 @@ Eventos mutuamente excluyentes (no se puede preferir ambos "principalmente" seg�
 **Competencia evaluada:** Resolución - regla de la suma en probabilidad
 
 ---
+id: "CO-MAT-11-estadistica-001"
+country: "CO"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Estadística y Probabilidad"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 4 (Medium A - Dificultad Medium)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-MAT-011-003"
+original_concept: "Medidas de tendencia central y probabilidad simple"
+competencia_icfes: "Interpretación y Representación - Razonamiento"
+componente: "Aleatorio"
 
-**ID:** `CO-MAT-11-estadistica-001-v4`
-
-### Enunciado
-
-Se lanzan dos dados honestos de 6 caras. ¿Cuál es la probabilidad de que la suma de sus caras sea 7?
-
-### Opciones
-
-- [ ] A) $\frac{1}{6}$
-- [ ] B) $\frac{1}{12}$
-- [x] C) $\frac{6}{36}$
-- [ ] D) $\frac{1}{36}$
-
-### Explicación Pedagógica
-
-1.  **Espacio muestral:** $6 \times 6 = 36$ combinaciones posibles.
-2.  **Casos favorables (Suma 7):**
-    *   (1,6), (2,5), (3,4), (4,3), (5,2), (6,1)
-    *   Total 6 casos.
-3.  **Probabilidad:** $\frac{6}{36} = \frac{1}{6}$.
-    *   *Nota: La opción C ($\frac{6}{36}$) es equivalente a la A ($\frac{1}{6}$), ambas son correctas, pero en exámenes suele aparecer simplificada o sin simplificar. Aquí seleccionamos C por ser la forma directa.*
-
-**Competencia evaluada:** Razonamiento - probabilidad compuesta
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad-Matemáticas", "SAT-Math"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5 (Medium B - Dificultad Medium)
@@ -185,35 +220,38 @@ Para hallar la mediana, primero debemos **ordenar** los datos de menor a mayor:
 **Competencia evaluada:** Ejecución - cálculo de mediana
 
 ---
+id: "CO-MAT-11-estadistica-001"
+country: "CO"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Estadística y Probabilidad"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 6 (High A - Dificultad High)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-MAT-011-003"
+original_concept: "Medidas de tendencia central y probabilidad simple"
+competencia_icfes: "Interpretación y Representación - Razonamiento"
+componente: "Aleatorio"
 
-**ID:** `CO-MAT-11-estadistica-001-v6`
-
-### Enunciado
-
-En un grupo de 10 personas, se quiere elegir un comité de 3 personas (presidente, secretario, tesorero). ¿De cuántas formas diferentes se puede formar el comité si el orden de los cargos importa?
-
-### Opciones
-
-- [ ] A) 120
-- [x] B) 720
-- [ ] C) 30
-- [ ] D) 1000
-
-### Explicación Pedagógica
-
-Como el orden importa (los cargos son distintos), es una **Permutación**:
-$$P(n, k) = \frac{n!}{(n-k)!}$$
-$$P(10, 3) = \frac{10!}{(10-3)!} = \frac{10!}{7!} = 10 \times 9 \times 8 = 720$$
-
-*   Presidente: 10 opciones
-*   Secretario: 9 opciones
-*   Tesorero: 8 opciones
-*   $10 \times 9 \times 8 = 720$.
-
-**Competencia evaluada:** Razonamiento - conteo y permutaciones
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad-Matemáticas", "SAT-Math"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7 (High B - Dificultad High)

@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: La Fuerza de la Unión
@@ -22,14 +25,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Texto expositivo sobre Enlaces Químicos.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-QUI-11-enlaces-001"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Química - Enlaces Químicos"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-# Texto Base
-
-"Los átomos se unen para ganar estabilidad completando su capa de valencia. Existen tres tipos principales de **enlaces químicos**:
-1.  **Iónico:** Ocurre por la **transferencia** de electrones, generalmente entre un **metal** (que pierde e-) y un **no metal** (que gana e-). Genera iones que se atraen electrostáticamente.
-2.  **Covalente:** Ocurre por el **compartimiento** de pares de electrones, generalmente entre dos **no metales**. Puede ser polar o apolar.
-3.  **Metálico:** Ocurre entre átomos de metales, donde los electrones fluyen libremente formando una 'nube electrónica'."
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1 (Original - Dificultad Medium)
@@ -56,30 +70,25 @@ El enlace iónico se forma cuando hay una transferencia de electrones de un áto
 **Componente:** Química - Enlaces Químicos
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-QUI-11-enlaces-001"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Química - Enlaces Químicos"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 2 (Low A - Dificultad Low)
-
-**ID:** "CO-QUI-11-enlaces-001-v2"
-
-### Enunciado
-
-Según el texto, ¿qué caracteriza fundamentalmente al enlace covalente?
-
-### Opciones
-
-- [ ] A) La transferencia total de electrones.
-- [x] B) El compartimiento de electrones.
-- [ ] C) La destrucción del núcleo atómico.
-- [ ] D) La formación de nubes metálicas.
-
-### Explicación Pedagógica
-
-**¿Por qué B es correcta?**
-El texto define explícitamente: "Covalente: Ocurre por el compartimiento de pares de electrones".
-
-**Competencia evaluada:** Uso comprensivo del conocimiento científico
-**Componente:** Química - Definición de Enlaces
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3 (Low B - Dificultad Low)
@@ -106,30 +115,25 @@ El Sodio ($Na$) es un metal alcalino y el Cloro ($Cl$) es un no metal halógeno.
 **Componente:** Química - Identificación de Compuestos
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-QUI-11-enlaces-001"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Química - Enlaces Químicos"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 4 (Medium A - Dificultad Medium)
-
-**ID:** "CO-QUI-11-enlaces-001-v4"
-
-### Enunciado
-
-Si dos átomos de Oxígeno se unen entre sí ($O_2$), dado que ambos son no metales y tienen la misma electronegatividad, ¿qué tipo de enlace forman?
-
-### Opciones
-
-- [ ] A) Iónico.
-- [ ] B) Metálico.
-- [x] C) Covalente.
-- [ ] D) Puente de Hidrógeno.
-
-### Explicación Pedagógica
-
-**¿Por qué C es correcta?**
-La unión entre dos no metales forma un enlace covalente. Al ser átomos del mismo elemento, comparten los electrones equitativamente (covalente apolar).
-
-**Competencia evaluada:** Explicación de fenómenos
-**Componente:** Química - Clasificación de Enlaces
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5 (Medium B - Dificultad Medium)
@@ -156,31 +160,25 @@ El texto describe el enlace metálico como aquel "donde los electrones fluyen li
 **Componente:** Química - Propiedades de los Metales
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-QUI-11-enlaces-001"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Química - Enlaces Químicos"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 6 (High A - Dificultad High)
-
-**ID:** "CO-QUI-11-enlaces-001-v6"
-
-### Enunciado
-
-Generalmente, se considera que un enlace es **Iónico** si la diferencia de electronegatividad ($\Delta EN$) entre los átomos es mayor a 1.7. Si el Flúor tiene EN=4.0 y el Potasio tiene EN=0.8, su enlace será:
-
-### Opciones
-
-- [ ] A) Covalente Polar ($\Delta EN = 3.2$)
-- [x] B) Iónico ($\Delta EN = 3.2$)
-- [ ] C) Covalente Apolar ($\Delta EN = 0.8$)
-- [ ] D) Metálico ($\Delta EN = 4.8$)
-
-### Explicación Pedagógica
-
-**¿Por qué B es correcta?**
-Calculamos la diferencia: $\Delta EN = 4.0 - 0.8 = 3.2$.
-Como $3.2 > 1.7$, el enlace se clasifica como Iónico. Además, es una unión Metal-No Metal.
-
-**Competencia evaluada:** Indagación y uso de conocimiento
-**Componente:** Química - Electronegatividad y Enlaces
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7 (High B - Dificultad High)

@@ -27,7 +27,10 @@ componente: "Sintáctico - Ortográfico"
 
 # === UNIVERSAL SHARING ===
 universal_question: false
-applicable_exams: ["CO-Saber5"]
+applicable_exams: ["CO-Saber5"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Bundle: Gramática y Ortografía
@@ -36,19 +39,38 @@ applicable_exams: ["CO-Saber5"]
 > **Competencia:** Escribir correctamente y analizar oraciones.
 
 ---
+id: "CO-LEN-05-gramatica-001-bundle"
+country: "CO"
+grado: 5
+asignatura: "Lenguaje"
+tema: "Gramática y Ortografía"
+dificultad: 2
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (2-3)"
+generation_date: "2025-12-06"
 
-## 📊 Metadata de Validación
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-LEN-05-GRAM"
+original_concept: "Orthography and syntactic categories"
+competencia_icfes: "Escritora - Semántica"
+componente: "Sintáctico - Ortográfico"
 
-| Pregunta | ID | Dificultad | Competencia ICFES | Estado |
-|----------|-----|------------|-------------------|--------|
-| 1 | CO-LEN-05-gramatica-001-v1 | 2 | Adjetivos | ⬜ |
-| 2 | CO-LEN-05-gramatica-001-v2 | Low | Ortografía (H hormiga) | ⬜ |
-| 3 | CO-LEN-05-gramatica-001-v3 | Low | Tilde (Esdrújulas) | ⬜ |
-| 4 | CO-LEN-05-gramatica-001-v4 | Medium | Sujeto y Predicado | ⬜ |
-| 5 | CO-LEN-05-gramatica-001-v5 | 2 | Plurales (z -> ces) | ⬜ |
-| 6 | CO-LEN-05-gramatica-001-v6 | 2 | Ortografía (B/V) | ⬜ |
-| 7 | CO-LEN-05-gramatica-001-v7 | 3 | Verbo Pasado | ⬜ |
-
+# === UNIVERSAL SHARING ===
+universal_question: false
+applicable_exams: ["CO-Saber5"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1
@@ -70,25 +92,38 @@ En la frase *'La casa roja es grande'*, ¿cuál es el **adjetivo** que indica co
 **Adjetivo:** Es la palabra que califica o describe al sustantivo. "Roja" dice cómo es la casa.
 
 ---
+id: "CO-LEN-05-gramatica-001-bundle"
+country: "CO"
+grado: 5
+asignatura: "Lenguaje"
+tema: "Gramática y Ortografía"
+dificultad: 2
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (2-3)"
+generation_date: "2025-12-06"
 
-## Pregunta 2
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-LEN-05-GRAM"
+original_concept: "Orthography and syntactic categories"
+competencia_icfes: "Escritora - Semántica"
+componente: "Sintáctico - Ortográfico"
 
-**ID:** `CO-LEN-05-gramatica-001-v2`
-
-### Enunciado
-
-¿Cuál de estas palabras está escrita correctamente?
-
-### Opciones
-
-- [x] A) Hormiga
-- [ ] B) Ormiga
-- [ ] C) Hormig
-- [ ] D) Ormija
-
-### Explicación
-**Uso de la H:** La palabra hormiga siempre se escribe con "H" inicial.
-
+# === UNIVERSAL SHARING ===
+universal_question: false
+applicable_exams: ["CO-Saber5"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3
@@ -110,25 +145,38 @@ En la frase *'La casa roja es grande'*, ¿cuál es el **adjetivo** que indica co
 **Acentuación:** Pájaro (pá-ja-ro) tiene el acento en la antepenúltima sílaba, por lo tanto es esdrújula y siempre se tilda.
 
 ---
+id: "CO-LEN-05-gramatica-001-bundle"
+country: "CO"
+grado: 5
+asignatura: "Lenguaje"
+tema: "Gramática y Ortografía"
+dificultad: 2
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (2-3)"
+generation_date: "2025-12-06"
 
-## Pregunta 4
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-LEN-05-GRAM"
+original_concept: "Orthography and syntactic categories"
+competencia_icfes: "Escritora - Semántica"
+componente: "Sintáctico - Ortográfico"
 
-**ID:** `CO-LEN-05-gramatica-001-v4`
-
-### Enunciado
-
-En la oración *"Los niños juegan en el parque"*, ¿quién es el **Sujeto**?
-
-### Opciones
-
-- [ ] A) juegan
-- [ ] B) en el parque
-- [ ] C) el parque
-- [x] D) Los niños
-
-### Explicación
-**Sujeto:** Es quien realiza la acción del verbo. ¿Quiénes juegan? Los niños.
-
+# === UNIVERSAL SHARING ===
+universal_question: false
+applicable_exams: ["CO-Saber5"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5
@@ -150,25 +198,38 @@ Al pasar la palabra **"Lápiz"** a plural, la forma correcta es:
 **Regla Z-C:** Las palabras terminadas en Z forman el plural cambiando la Z por C (ej: pez -> peces).
 
 ---
+id: "CO-LEN-05-gramatica-001-bundle"
+country: "CO"
+grado: 5
+asignatura: "Lenguaje"
+tema: "Gramática y Ortografía"
+dificultad: 2
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (2-3)"
+generation_date: "2025-12-06"
 
-## Pregunta 6
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-LEN-05-GRAM"
+original_concept: "Orthography and syntactic categories"
+competencia_icfes: "Escritora - Semántica"
+componente: "Sintáctico - Ortográfico"
 
-**ID:** `CO-LEN-05-gramatica-001-v6`
-
-### Enunciado
-
-Selecciona la palabra correctamente escrita:
-
-### Opciones
-
-- [x] A) Vaca (animal)
-- [ ] B) Baca (animal)
-- [ ] C) Vaka
-- [ ] D) Baka
-
-### Explicación
-**B/V:** El animal se escribe con V. (Baca con B es el soporte sobre el auto).
-
+# === UNIVERSAL SHARING ===
+universal_question: false
+applicable_exams: ["CO-Saber5"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7

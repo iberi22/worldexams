@@ -24,7 +24,10 @@ source_id: "ICFES-LEN-003-001"
 original_concept: "Comprensión literal e inferencial de textos narrativos"
 competencia_icfes: "Competencia Lectora"
 componente: "Semántico"
-generation_date: "2025-12-04"
+generation_date: "2025-12-04"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Bundle: Comprensión de Textos Narrativos
@@ -34,21 +37,35 @@ generation_date: "2025-12-04"
 > **Contexto:** Colombia - Cuentos con elementos de la cultura colombiana
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-LEN-03-comprension-001"
+country: "CO"
+grado: 3
+asignatura: "Lenguaje"
+tema: "Comprensión Lectora"
+dificultad: 2
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Copilot"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
 
-## Texto Base (para preguntas 1-5)
-
-### La Aventura de Tomás en el Mercado
-
-Tomás vivía con su abuela en un pueblo cerca de Medellín. Cada sábado, iban juntos al mercado a comprar frutas y verduras. Un día, mientras la abuela compraba tomates, Tomás vio un perrito callejero que parecía tener hambre.
-
-—Abuela, ¿podemos darle algo de comer? —preguntó Tomás con tristeza.
-
-La abuela sonrió y le dio un pan que llevaba en su bolsa. Tomás se acercó despacio al perrito y le ofreció el pan. El animal movió la cola con alegría y comió rápidamente.
-
-—Tienes un corazón muy bueno, Tomás —dijo la abuela mientras le acariciaba la cabeza.
-
-Desde ese día, cada sábado Tomás llevaba algo especial para el perrito, a quien llamó "Manchas" por las manchas negras en su pelaje blanco.
-
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-LEN-003-001"
+original_concept: "Comprensión literal e inferencial de textos narrativos"
+competencia_icfes: "Competencia Lectora"
+componente: "Semántico"
+generation_date: "2025-12-04"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1 (Original - Dificultad Medium)
@@ -79,29 +96,35 @@ La abuela dijo esto justo después de que Tomás le diera de comer al perrito ha
 **Competencia evaluada:** Inferencia - comprender la razón de una acción
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-LEN-03-comprension-001"
+country: "CO"
+grado: 3
+asignatura: "Lenguaje"
+tema: "Comprensión Lectora"
+dificultad: 2
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Copilot"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
 
-## Pregunta 2 (Low A - Dificultad Low)
-
-**ID:** `CO-LEN-03-comprension-001-v2`
-
-### Enunciado
-
-¿Qué le dio la abuela a Tomás para el perrito?
-
-### Opciones
-
-- [ ] A) Un tomate
-- [x] B) Un pan
-- [ ] C) Una manzana
-- [ ] D) Un hueso
-
-### Explicación Pedagógica
-
-El texto dice claramente: "La abuela sonrió y le dio un pan que llevaba en su bolsa."
-Esta es información literal (exacta) que aparece en el texto.
-
-**Competencia evaluada:** Comprensión literal - identificar información explícita
-
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-LEN-003-001"
+original_concept: "Comprensión literal e inferencial de textos narrativos"
+competencia_icfes: "Competencia Lectora"
+componente: "Semántico"
+generation_date: "2025-12-04"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3 (Low B - Dificultad Low)
@@ -127,29 +150,35 @@ La respuesta está escrita directamente en el primer párrafo.
 **Competencia evaluada:** Comprensión literal - identificar información de tiempo
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-LEN-03-comprension-001"
+country: "CO"
+grado: 3
+asignatura: "Lenguaje"
+tema: "Comprensión Lectora"
+dificultad: 2
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Copilot"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
 
-## Pregunta 4 (Medium A - Dificultad Medium)
-
-**ID:** `CO-LEN-03-comprension-001-v4`
-
-### Enunciado
-
-¿Por qué Tomás llamó "Manchas" al perrito?
-
-### Opciones
-
-- [ ] A) Porque el perrito estaba sucio de barro
-- [ ] B) Porque era el nombre de su perro anterior
-- [x] C) Porque el perrito tenía manchas negras en su pelaje blanco
-- [ ] D) Porque la abuela le sugirió ese nombre
-
-### Explicación Pedagógica
-
-El texto dice: "...a quien llamó 'Manchas' por las manchas negras en su pelaje blanco."
-La explicación del nombre está directamente en el texto, conectando la descripción física del perrito con su nombre.
-
-**Competencia evaluada:** Comprensión literal - identificar causa y efecto
-
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-LEN-003-001"
+original_concept: "Comprensión literal e inferencial de textos narrativos"
+competencia_icfes: "Competencia Lectora"
+componente: "Semántico"
+generation_date: "2025-12-04"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5 (Medium B - Dificultad Medium)
@@ -175,35 +204,35 @@ Mover la cola es una forma en que los perros muestran que están contentos.
 **Competencia evaluada:** Comprensión literal - identificar emociones de los personajes
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-LEN-03-comprension-001"
+country: "CO"
+grado: 3
+asignatura: "Lenguaje"
+tema: "Comprensión Lectora"
+dificultad: 2
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Copilot"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
 
-## Pregunta 6 (High A - Dificultad High)
-
-**ID:** `CO-LEN-03-comprension-001-v6`
-
-### Enunciado
-
-¿Qué tipo de persona es Tomás según el texto?
-
-### Opciones
-
-- [ ] A) Una persona miedosa que no le gustan los animales
-- [ ] B) Una persona egoísta que solo piensa en sí mismo
-- [x] C) Una persona bondadosa que se preocupa por los demás
-- [ ] D) Una persona distraída que siempre se pierde
-
-### Explicación Pedagógica
-
-**Análisis del personaje:**
-- Tomás vio al perrito con hambre y se preocupó por él
-- Pidió a su abuela ayuda para alimentarlo
-- Se acercó "despacio" (con cuidado) al perrito
-- La abuela dijo que tenía "un corazón muy bueno"
-- Siguió llevando comida al perrito cada sábado
-
-Todas estas acciones muestran que Tomás es bondadoso y se preocupa por los demás, incluso por un perrito callejero.
-
-**Competencia evaluada:** Inferencia - caracterización de personajes
-
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-LEN-003-001"
+original_concept: "Comprensión literal e inferencial de textos narrativos"
+competencia_icfes: "Competencia Lectora"
+componente: "Semántico"
+generation_date: "2025-12-04"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7 (High B - Dificultad High)

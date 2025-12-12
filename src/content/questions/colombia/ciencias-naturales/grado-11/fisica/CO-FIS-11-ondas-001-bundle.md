@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: Adaptado de Legacy
@@ -22,11 +25,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Texto expositivo sobre Naturaleza de las Ondas.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-FIS-11-ondas-001"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Física - Ondas"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-# Texto Base
-
-"Una **onda** es una perturbación que se propaga transportando energía sin transportar materia. Se clasifican según el medio que requieren: las **ondas mecánicas** (como el sonido) necesitan un medio material (sólido, líquido o gas), mientras que las **ondas electromagnéticas** (como la luz) pueden viajar en el vacío. También se clasifican según su vibración: en las **transversales** la vibración es perpendicular a la dirección de propagación (como en una cuerda), y en las **longitudinales** es paralela (como el sonido)."
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1 (Original - Dificultad Medium)
@@ -53,30 +70,25 @@ El sonido es una onda mecánica porque requiere un medio material para propagars
 **Componente:** Ondas - Clasificación
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-FIS-11-ondas-001"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Física - Ondas"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 2 (Low A - Dificultad Low)
-
-**ID:** "CO-FIS-11-ondas-001-v2"
-
-### Enunciado
-
-Según el texto, ¿qué es lo que transporta una onda?
-
-### Opciones
-
-- [ ] A) Materia.
-- [ ] B) Partículas.
-- [x] C) Energía.
-- [ ] D) Aire.
-
-### Explicación Pedagógica
-
-**¿Por qué C es correcta?**
-El texto define explícitamente: "una onda es una perturbación que se propaga transportando energía sin transportar materia".
-
-**Competencia evaluada:** Uso comprensivo del conocimiento científico
-**Componente:** Ondas - Conceptos Básicos
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3 (Low B - Dificultad Low)
@@ -103,30 +115,25 @@ El texto menciona: "las ondas electromagnéticas (como la luz) pueden viajar en 
 **Componente:** Ondas - Ejemplos Tipos de Ondas
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-FIS-11-ondas-001"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Física - Ondas"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 4 (Medium A - Dificultad Medium)
-
-**ID:** "CO-FIS-11-ondas-001-v4"
-
-### Enunciado
-
-Si hacemos oscilar una cuerda de guitarra, la onda generada en la cuerda es transversal. Esto significa que las partículas de la cuerda se mueven:
-
-### Opciones
-
-- [ ] A) En la misma dirección que la onda viaja.
-- [x] B) Perpenpendicularmente a la dirección en que la onda viaja.
-- [ ] C) En círculos.
-- [ ] D) No se mueven.
-
-### Explicación Pedagógica
-
-**¿Por qué B es correcta?**
-El texto indica que en las ondas transversales "la vibración es perpendicular a la dirección de propagación". Si la onda viaja horizontalmente por la cuerda, los puntos de la cuerda suben y bajan (verticalmente).
-
-**Competencia evaluada:** Uso comprensivo del conocimiento científico
-**Componente:** Ondas - Ondas Transversales
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5 (Medium B - Dificultad Medium)
@@ -154,31 +161,25 @@ $T = 1 / f = 1 / 50 \text{ s}^{-1} = 0.02 \text{ segundos}$.
 **Componente:** Ondas - Relación Frecuencia-Periodo
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-FIS-11-ondas-001"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Física - Ondas"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 6 (High A - Dificultad High)
-
-**ID:** "CO-FIS-11-ondas-001-v6"
-
-### Enunciado
-
-Una onda de radio viaja a la velocidad de la luz ($3 \times 10^8 \text{ m/s}$) y tiene una frecuencia de $10^6 \text{ Hz}$ (1 MHz). ¿Cuál es su longitud de onda?
-
-### Opciones
-
-- [ ] A) 3 metros.
-- [ ] B) 30 metros.
-- [x] C) 300 metros.
-- [ ] D) 3000 metros.
-
-### Explicación Pedagógica
-
-**¿Por qué C es correcta?**
-Usando la ecuación fundamental de las ondas $v = \lambda \cdot f$, despejamos la longitud de onda ($\lambda$):
-$\lambda = v / f = (3 \times 10^8) / (10^6) = 3 \times 10^2 = 300 \text{ metros}$.
-
-**Competencia evaluada:** Indagación y uso de conocimiento
-**Componente:** Ondas - Ecuación de Onda
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7 (High B - Dificultad High)

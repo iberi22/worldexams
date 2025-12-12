@@ -1,7 +1,7 @@
 # 💰 Modelo de Negocio - World Exams
 
-**Última actualización:** 2025-12-12  
-**Estado:** Implementado en Supabase  
+**Última actualización:** 2025-12-12
+**Estado:** Implementado en Supabase
 **Free Tier:** Optimizado para no exceder límites
 
 ---
@@ -180,10 +180,10 @@
 
 ### Optimizaciones Implementadas
 
-✅ **TTL automático:** Parties expiradas se borran a las 24h  
-✅ **Rate limiting:** 1 party/hora free tier  
-✅ **Compresión:** Resultados guardados en JSONB comprimido  
-✅ **Índices:** Solo los necesarios (no índices innecesarios)  
+✅ **TTL automático:** Parties expiradas se borran a las 24h
+✅ **Rate limiting:** 1 party/hora free tier
+✅ **Compresión:** Resultados guardados en JSONB comprimido
+✅ **Índices:** Solo los necesarios (no índices innecesarios)
 ✅ **RLS:** Policies eficientes (no full table scans)
 
 ### Trigger de Upgrade
@@ -225,9 +225,9 @@
 
 ### Estimación de Ingresos por Ads
 
-**CPM promedio educación:** $0.50 - $2.00  
-**Usuarios activos mensuales (MAU):** 10,000  
-**Pageviews/usuario/mes:** 20  
+**CPM promedio educación:** $0.50 - $2.00
+**Usuarios activos mensuales (MAU):** 10,000
+**Pageviews/usuario/mes:** 20
 **Total pageviews:** 200,000
 
 **Cálculo:**
@@ -289,7 +289,7 @@ Ingreso mensual = (200,000 / 1,000) * $2.00 = $400 (optimista)
 
 ---
 
-**Estado:** ✅ Backend configurado, listo para ventas  
+**Estado:** ✅ Backend configurado, listo para ventas
 **Next Steps:** Implementar ads, cerrar primeros 5 pilotos
 
 ---

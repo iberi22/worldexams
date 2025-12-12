@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: La Maquinaria Celular
@@ -22,11 +25,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Texto expositivo sobre biología celular.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-BIO-11-celular-001"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Biología - Estructura y Función Celular"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-# Texto Base
-
-"La célula eucariota funciona como una fábrica microscópica altamente organizada. El núcleo actúa como el centro de control, resguardando el ADN con las instrucciones genéticas. Los ribosomas son los encargados de sintetizar proteínas, las herramientas moleculares de la vida. Para que todo esto funcione, la célula necesita energía constante, tarea que recae en las mitocondrias, organelos que realizan la respiración celular para producir ATP. Finalmente, la membrana celular regula estrictamente qué sustancias entran y salen, protegiendo la integridad interna de este complejo sistema."
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1 (Original - Dificultad Medium)
@@ -53,30 +70,25 @@ El texto establece explícitamente que la tarea de "energía constante" recae en
 **Componente:** Biología - Biología Celular
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-BIO-11-celular-001"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Biología - Estructura y Función Celular"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 2 (Low A - Dificultad Low)
-
-**ID:** "CO-BIO-11-celular-001-v2"
-
-### Enunciado
-
-Según el texto, ¿qué organelo actúa como el "centro de control" de la célula?
-
-### Opciones
-
-- [ ] A) El ribosoma.
-- [x] B) El núcleo.
-- [ ] C) La mitocondria.
-- [ ] D) La membrana celular.
-
-### Explicación Pedagógica
-
-**¿Por qué B es correcta?**
-El texto dice literalmente: "El núcleo actúa como el centro de control, resguardando el ADN". Es una pregunta de identificación literal.
-
-**Competencia evaluada:** Uso comprensivo del conocimiento científico
-**Componente:** Biología - Estructura Celular
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3 (Low B - Dificultad Low)
@@ -103,30 +115,25 @@ El texto finaliza indicando que "la membrana celular regula estrictamente qué s
 **Componente:** Biología - Transporte Celular
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-BIO-11-celular-001"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Biología - Estructura y Función Celular"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 4 (Medium A - Dificultad Medium)
-
-**ID:** "CO-BIO-11-celular-001-v4"
-
-### Enunciado
-
-Si comparamos una célula con una fábrica, como sugiere el texto, los ribosomas serían equivalentes a:
-
-### Opciones
-
-- [ ] A) La gerencia que toma las decisiones.
-- [ ] B) Los muros que protegen el edificio.
-- [x] C) Las máquinas que ensamblan los productos (proteínas).
-- [ ] D) La planta eléctrica que da energía.
-
-### Explicación Pedagógica
-
-**¿Por qué C es correcta?**
-Los ribosomas "sintetizan proteínas", que son las "herramientas" o productos de la célula. En la analogía de la fábrica, corresponden a la maquinaria de ensamblaje o producción.
-
-**Competencia evaluada:** Explicación de fenómenos
-**Componente:** Biología - Analogías funcionales
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5 (Medium B - Dificultad Medium)
@@ -153,30 +160,25 @@ Dado que las mitocondrias proveen la "energía constante" en forma de ATP, su fa
 **Componente:** Biología - Fisiología Celular
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-BIO-11-celular-001"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Biología - Estructura y Función Celular"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 6 (High A - Dificultad High)
-
-**ID:** "CO-BIO-11-celular-001-v6"
-
-### Enunciado
-
-Ciertos venenos como el cianuro actúan bloqueando la cadena de transporte de electrones en la mitocondria. A nivel celular, ¿por qué esto es letal?
-
-### Opciones
-
-- [ ] A) Porque destruye la membrana nuclear liberando el ADN.
-- [x] B) Porque detiene la producción de ATP, causando muerte celular por falta de energía.
-- [ ] C) Porque acelera la división celular descontrolada (cáncer).
-- [ ] D) Porque convierte a las mitocondrias en cloroplastos.
-
-### Explicación Pedagógica
-
-**¿Por qué B es correcta?**
-Requiere integrar el conocimiento del texto (mitocondria = energía) con un escenario externo (veneno). Si se bloquea la función mitocondrial, se detiene la síntesis de ATP (respiración celular), lo que lleva al colapso energético y muerte de la célula y el organismo.
-
-**Competencia evaluada:** Indagación y uso de conocimiento
-**Componente:** Bioquímica y Toxicología
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7 (High B - Dificultad High)

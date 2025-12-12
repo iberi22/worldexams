@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: El Corazón de la Materia
@@ -22,11 +25,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Texto expositivo sobre partículas subatómicas.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-QUI-11-atomica-001"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Química - Estructura Atómica"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-# Texto Base
-
-"El átomo es la unidad básica de la materia. Está compuesto por tres partículas fundamentales: el **protón** (carga positiva $+1$, ubicado en el núcleo), el **neutrón** (sin carga eléctrica, también en el núcleo) y el **electrón** (carga negativa $-1$, orbitando alrededor del núcleo). La identidad de un elemento químico está definida por su **Número Atómico ($Z$)**, que corresponde a la cantidad de protones. La suma de protones y neutrones determina el **Número Másico ($A$)** ($A = Z + N$)."
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1 (Original - Dificultad Medium)
@@ -53,30 +70,25 @@ El protón es una partícula subatómica ubicada en el núcleo del átomo que ti
 **Componente:** Química - Estructura Atómica
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-QUI-11-atomica-001"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Química - Estructura Atómica"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 2 (Low A - Dificultad Low)
-
-**ID:** "CO-QUI-11-atomica-001-v2"
-
-### Enunciado
-
-Según el texto, ¿dónde se encuentran ubicados los neutrones en un átomo?
-
-### Opciones
-
-- [ ] A) Orbitando alrededor del núcleo.
-- [x] B) En el núcleo.
-- [ ] C) Fuera del átomo.
-- [ ] D) No tienen ubicación definida.
-
-### Explicación Pedagógica
-
-**¿Por qué B es correcta?**
-El texto señala que el neutrón está "también en el núcleo", compartiendo espacio con los protones.
-
-**Competencia evaluada:** Uso comprensivo del conocimiento científico
-**Componente:** Química - Partículas Subatómicas
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3 (Low B - Dificultad Low)
@@ -103,30 +115,25 @@ El texto define al electrón con "carga negativa -1, orbitando alrededor del nú
 **Componente:** Química - Cargas Eléctricas
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-QUI-11-atomica-001"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Química - Estructura Atómica"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 4 (Medium A - Dificultad Medium)
-
-**ID:** "CO-QUI-11-atomica-001-v4"
-
-### Enunciado
-
-El Número Atómico ($Z$) de un elemento es crucial porque define su identidad química. Este número corresponde a la cantidad de:
-
-### Opciones
-
-- [ ] A) Electrones en la capa de valencia.
-- [ ] B) Neutrones en el núcleo.
-- [x] C) Protones en el núcleo.
-- [ ] D) La suma de protones y neutrones.
-
-### Explicación Pedagógica
-
-**¿Por qué C es correcta?**
-El texto establece explícitamente: "La identidad de un elemento químico está definida por su Número Atómico ($Z$), que corresponde a la cantidad de protones".
-
-**Competencia evaluada:** Uso comprensivo del conocimiento científico
-**Componente:** Química - Propiedades Periódicas
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5 (Medium B - Dificultad Medium)
@@ -153,32 +160,25 @@ Dado que $A = Z + N$, si $Z$ (protones) es constante porque es el mismo elemento
 **Componente:** Química - Isótopos
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-QUI-11-atomica-001"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Química - Estructura Atómica"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 6 (High A - Dificultad High)
-
-**ID:** "CO-QUI-11-atomica-001-v6"
-
-### Enunciado
-
-Si un átomo tiene un Número Másico ($A$) de 23 y un Número Atómico ($Z$) de 11, ¿cuántos neutrones tiene en su núcleo?
-
-### Opciones
-
-- [ ] A) 23
-- [ ] B) 11
-- [x] C) 12
-- [ ] D) 34
-
-### Explicación Pedagógica
-
-**¿Por qué C es correcta?**
-Sabemos que $A = Z + N$. Despejando los neutrones:
-$N = A - Z$
-$N = 23 - 11 = 12$.
-
-**Competencia evaluada:** Uso comprensivo del conocimiento científico
-**Componente:** Química - Cálculos Atómicos
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7 (High B - Dificultad High)

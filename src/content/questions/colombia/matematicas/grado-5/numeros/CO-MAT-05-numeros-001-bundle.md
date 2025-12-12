@@ -27,7 +27,10 @@ componente: "Numérico"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber5", "MX-Planea", "Common-Core-Math-5"]
+applicable_exams: ["CO-Saber5", "MX-Planea", "Common-Core-Math-5"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Bundle: Fracciones y Operaciones
@@ -36,19 +39,38 @@ applicable_exams: ["CO-Saber5", "MX-Planea", "Common-Core-Math-5"]
 > **Competencia:** Comprender el significado de fracción y realizar operaciones básicas.
 
 ---
+id: "CO-MAT-05-numeros-001-bundle"
+country: "CO"
+grado: 5
+asignatura: "Matemáticas"
+tema: "Números y Operaciones"
+dificultad: 2
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-4)"
+generation_date: "2025-12-06"
 
-## 📊 Metadata de Validación
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-MAT-05-NUM"
+original_concept: "Fractions and basic arithmetic"
+competencia_icfes: "Interpretación y representación"
+componente: "Numérico"
 
-| Pregunta | ID | Dificultad | Competencia ICFES | Estado |
-|----------|-----|------------|-------------------|--------|
-| 1 | CO-MAT-05-numeros-001-v1 | Medium | Resta Fracciones | ⬜ |
-| 2 | CO-MAT-05-numeros-001-v2 | Low | Mult. por 10 | ⬜ |
-| 3 | CO-MAT-05-numeros-001-v3 | Low | Concepto Fracción | ⬜ |
-| 4 | CO-MAT-05-numeros-001-v4 | Medium | Suma Homogénea | ⬜ |
-| 5 | CO-MAT-05-numeros-001-v5 | 2 | Valor Posicional | ⬜ |
-| 6 | CO-MAT-05-numeros-001-v6 | High | Fracción de un número | ⬜ |
-| 7 | CO-MAT-05-numeros-001-v7 | 2 | Ordenar números | ⬜ |
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber5", "MX-Planea", "Common-Core-Math-5"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1
@@ -70,25 +92,38 @@ Si tienes **3/4** de una pizza y te comes **1/4**, ¿cuánta pizza te queda?
 **Resta Homogénea:** Como los denominadores son iguales (4), restamos los numeradores: $3 - 1 = 2$. Resultado: 2/4 (media pizza).
 
 ---
+id: "CO-MAT-05-numeros-001-bundle"
+country: "CO"
+grado: 5
+asignatura: "Matemáticas"
+tema: "Números y Operaciones"
+dificultad: 2
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-4)"
+generation_date: "2025-12-06"
 
-## Pregunta 2
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-MAT-05-NUM"
+original_concept: "Fractions and basic arithmetic"
+competencia_icfes: "Interpretación y representación"
+componente: "Numérico"
 
-**ID:** `CO-MAT-05-numeros-001-v2`
-
-### Enunciado
-
-¿Cuál es el resultado de multiplicar **25 x 10**?
-
-### Opciones
-
-- [ ] A) 2500
-- [x] B) 250
-- [ ] C) 35
-- [ ] D) 205
-
-### Explicación
-**Potencias de 10:** Al multiplicar por 10 se agrega un cero a la derecha. 250.
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber5", "MX-Planea", "Common-Core-Math-5"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3
@@ -110,25 +145,38 @@ La fracción **1/2** representa:
 **Concepto:** El denominador 2 indica que se divide en dos partes iguales, y tomamos 1. Es la mitad.
 
 ---
+id: "CO-MAT-05-numeros-001-bundle"
+country: "CO"
+grado: 5
+asignatura: "Matemáticas"
+tema: "Números y Operaciones"
+dificultad: 2
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-4)"
+generation_date: "2025-12-06"
 
-## Pregunta 4
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-MAT-05-NUM"
+original_concept: "Fractions and basic arithmetic"
+competencia_icfes: "Interpretación y representación"
+componente: "Numérico"
 
-**ID:** `CO-MAT-05-numeros-001-v4`
-
-### Enunciado
-
-Resuelve: **2/5 + 1/5 =**
-
-### Opciones
-
-- [ ] A) 3/10
-- [x] B) 3/5
-- [ ] C) 2/5
-- [ ] D) 3/25
-
-### Explicación
-**Suma Homogénea:** Se deja el mismo denominador (5) y se suman los numeradores (2+1=3).
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber5", "MX-Planea", "Common-Core-Math-5"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5
@@ -150,25 +198,38 @@ En el número **4.532**, ¿qué valor representa el dígito 5?
 **Valor posicional:** U(2), D(3), **C(5)**, UM(4). El 5 está en las Centenas.
 
 ---
+id: "CO-MAT-05-numeros-001-bundle"
+country: "CO"
+grado: 5
+asignatura: "Matemáticas"
+tema: "Números y Operaciones"
+dificultad: 2
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-4)"
+generation_date: "2025-12-06"
 
-## Pregunta 6
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-MAT-05-NUM"
+original_concept: "Fractions and basic arithmetic"
+competencia_icfes: "Interpretación y representación"
+componente: "Numérico"
 
-**ID:** `CO-MAT-05-numeros-001-v6`
-
-### Enunciado
-
-¿Cuánto es **1/3** de 12 manzanas?
-
-### Opciones
-
-- [x] A) 4 manzanas.
-- [ ] B) 3 manzanas.
-- [ ] C) 6 manzanas.
-- [ ] D) 9 manzanas.
-
-### Explicación
-**Fracción de un conjunto:** Dividimos el total (12) entre el denominador (3). $12 \div 3 = 4$.
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber5", "MX-Planea", "Common-Core-Math-5"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7

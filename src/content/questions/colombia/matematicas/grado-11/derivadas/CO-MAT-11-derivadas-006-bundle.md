@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: Adaptado de Legacy
@@ -22,31 +25,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Migrado automáticamente de v1.0 y expandido con variaciones.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-derivadas-006"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Derivadas"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 1 (Original - Dificultad Medium)
-
-**ID:** "CO-MAT-11-derivadas-006-v1"
-
-### Enunciado
-
-Un objeto se mueve según la función de posición $s(t) = 3t^2$, donde $s$ está en metros y $t$ en segundos. ¿Cuál es la velocidad del objeto en $t = 4$ segundos?
-
-### Opciones
-
-- [ ] A) 12 m/s
-- [ ] B) 18 m/s
-- [x] C) 24 m/s
-- [ ] D) 48 m/s
-
-### Explicación Pedagógica
-
-**Respuesta Correcta: C**
-
-La velocidad es la derivada de la posición con respecto al tiempo:
-$$ v(t) = s'(t) = \frac{d}{dt}(3t^2) = 6t $$
-En $t = 4$:
-$$ v(4) = 6(4) = 24 \text{ m/s} $$
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 2 (Low A - Dificultad Low)
@@ -72,28 +69,25 @@ $$ v(t) = 2t $$
 $$ v(3) = 2(3) = 6 $$
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-derivadas-006"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Derivadas"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 3 (Low B - Dificultad Low)
-
-**ID:** "CO-MAT-11-derivadas-006-v3"
-
-### Enunciado
-
-Un vehículo se mueve con movimiento uniforme $s(t) = 5t$. ¿Cuál es su velocidad en $t = 10$?
-
-### Opciones
-
-- [x] A) 5 m/s
-- [ ] B) 10 m/s
-- [ ] C) 50 m/s
-- [ ] D) 0 m/s
-
-### Explicación Pedagógica
-
-**Respuesta Correcta: A**
-
-La derivada de $5t$ es 5. La velocidad es constante (5 m/s) en todo momento.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 4 (Medium A - Dificultad Medium)
@@ -119,29 +113,25 @@ $$ v(t) = h'(t) = -5(2t) = -10t $$
 $$ v(2) = -10(2) = -20 \text{ m/s} $$
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-derivadas-006"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Derivadas"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 5 (Medium B - Dificultad Medium)
-
-**ID:** "CO-MAT-11-derivadas-006-v5"
-
-### Enunciado
-
-Un auto frena y su distancia recorrida desde el frenado está dada por $d(t) = 20t - t^2$. ¿Cuál es su velocidad en $t = 5$ segundos?
-
-### Opciones
-
-- [ ] A) 20 m/s
-- [ ] B) 15 m/s
-- [x] C) 10 m/s
-- [ ] D) 0 m/s
-
-### Explicación Pedagógica
-
-**Respuesta Correcta: C**
-
-$$ v(t) = 20 - 2t $$
-$$ v(5) = 20 - 2(5) = 20 - 10 = 10 \text{ m/s} $$
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 6 (High A - Dificultad High)
@@ -169,30 +159,25 @@ La posición de una partícula es $s(t) = t^3$. ¿Cuál es su **aceleración** e
 3. Evaluar en $t=2$: $a(2) = 6(2) = 12$.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-derivadas-006"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Derivadas"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 7 (High B - Dificultad High)
-
-**ID:** "CO-MAT-11-derivadas-006-v7"
-
-### Enunciado
-
-La posición de un objeto es $s(t) = t^2 - 4t$. ¿En qué instante de tiempo ($t$) su velocidad es cero?
-
-### Opciones
-
-- [ ] A) $t = 4$
-- [x] B) $t = 2$
-- [ ] C) $t = 0$
-- [ ] D) $t = 1$
-
-### Explicación Pedagógica
-
-**Respuesta Correcta: B**
-
-1. Hallar velocidad: $v(t) = 2t - 4$.
-2. Igualar a cero: $2t - 4 = 0$.
-3. Despejar $t$: $2t = 4 \rightarrow t = 2$.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Metadata de Validacion

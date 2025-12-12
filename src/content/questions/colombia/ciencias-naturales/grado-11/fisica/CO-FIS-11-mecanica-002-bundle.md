@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: La Causa del Movimiento
@@ -22,11 +25,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Texto expositivo sobre Dinámica y Leyes de Newton.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-FIS-11-mecanica-002"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Física - Dinámica (Leyes de Newton)"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-# Texto Base
-
-"La dinámica estudia las causas del movimiento, explicando por qué los objetos cambian su velocidad. Isaac Newton formuló tres leyes fundamentales. La **Segunda Ley de Newton** es la más utilizada para cálculos y establece que la aceleración ($a$) de un objeto es directamente proporcional a la fuerza neta ($F$) aplicada sobre él e inversamente proporcional a su masa ($m$). Esto se resume en la famosa ecuación: $F = m \cdot a$. Por lo tanto, para mover un objeto muy pesado (gran masa) con la misma rapidez que uno ligero, se requiere aplicar una fuerza mucho mayor."
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1 (Original - Dificultad Medium)
@@ -53,30 +70,25 @@ Según la Segunda Ley de Newton, $F = m \cdot a$. Despejando la aceleración: $a
 **Componente:** Mecánica - Segunda Ley de Newton
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-FIS-11-mecanica-002"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Física - Dinámica (Leyes de Newton)"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 2 (Low A - Dificultad Low)
-
-**ID:** "CO-FIS-11-mecanica-002-v2"
-
-### Enunciado
-
-Según el texto, la aceleración de un objeto es directamente proporcional a:
-
-### Opciones
-
-- [ ] A) Su masa.
-- [ ] B) Su color.
-- [x] C) La fuerza neta aplicada.
-- [ ] D) El tiempo transcurrido.
-
-### Explicación Pedagógica
-
-**¿Por qué C es correcta?**
-El texto afirma: "la aceleración ($a$) de un objeto es directamente proporcional a la fuerza neta ($F$) aplicada".
-
-**Competencia evaluada:** Uso comprensivo del conocimiento científico
-**Componente:** Mecánica - Conceptos Básicos
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3 (Low B - Dificultad Low)
@@ -103,31 +115,25 @@ El texto concluye diciendo: "para mover un objeto muy pesado (gran masa)... se r
 **Componente:** Mecánica - Relación Masa-Fuerza
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-FIS-11-mecanica-002"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Física - Dinámica (Leyes de Newton)"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 4 (Medium A - Dificultad Medium)
-
-**ID:** "CO-FIS-11-mecanica-002-v4"
-
-### Enunciado
-
-Si se desea que un balón de 0.5 kg acelere a razón de 20 m/s², ¿qué magnitud de fuerza se debe aplicar?
-
-### Opciones
-
-- [x] A) 10 N
-- [ ] B) 40 N
-- [ ] C) 0.025 N
-- [ ] D) 100 N
-
-### Explicación Pedagógica
-
-**¿Por qué A es correcta?**
-Aplicando $F = m \cdot a$:
-$F = 0.5 \text{ kg} \times 20 \text{ m/s}^2 = 10 \text{ Newtons}$.
-
-**Competencia evaluada:** Uso comprensivo del conocimiento científico
-**Componente:** Mecánica - Cálculo de Fuerza
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5 (Medium B - Dificultad Medium)
@@ -154,32 +160,25 @@ Como la aceleración es *inversamente* proporcional a la masa ($a = F/m$), si $m
 **Componente:** Mecánica - Proporcionalidad
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-FIS-11-mecanica-002"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Física - Dinámica (Leyes de Newton)"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 6 (High A - Dificultad High)
-
-**ID:** "CO-FIS-11-mecanica-002-v6"
-
-### Enunciado
-
-Un bloque de 10 kg es empujado con una fuerza de 50 N sobre una superficie rugosa. Si la fuerza de fricción que se opone al movimiento es de 10 N, ¿cuál es la aceleración real del bloque?
-
-### Opciones
-
-- [ ] A) 5 m/s²
-- [x] B) 4 m/s²
-- [ ] C) 6 m/s²
-- [ ] D) 1 m/s²
-
-### Explicación Pedagógica
-
-**¿Por qué B es correcta?**
-Primero se calcula la Fuerza Neta.
-$F_{neta} = F_{aplicada} - F_{friccion} = 50 \text{ N} - 10 \text{ N} = 40 \text{ N}$.
-Luego aplicamos Newton: $a = F_{neta} / m = 40 / 10 = 4 \text{ m/s}^2$.
-
-**Competencia evaluada:** Indagación y uso de conocimiento
-**Componente:** Mecánica - Fuerzas en Contexto
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7 (High B - Dificultad High)

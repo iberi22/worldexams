@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: La Pena de Muerte
@@ -22,11 +25,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Texto adaptado para evaluación de lectura crítica.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-LEC-11-textos-continuos-001"
+country: "co"
+grado: 11
+asignatura: "Lectura Crítica"
+tema: "Textos Continuos - Argumentación"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-# Texto Base
-
-"La pena de muerte es ineficaz porque no disuade a los criminales de cometer delitos graves. Estudios demuestran que en los estados donde existe la pena capital, la tasa de homicidios no es menor que en aquellos donde no existe. Además, el sistema judicial es falible y existe el riesgo inaceptable de ejecutar a inocentes."
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1 (Original - Dificultad Medium)
@@ -58,35 +75,25 @@ La tesis es la idea central que el autor defiende. El autor argumenta en contra 
 **Componente:** Identificar y entender los contenidos locales que conforman un texto
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-LEC-11-textos-continuos-001"
+country: "co"
+grado: 11
+asignatura: "Lectura Crítica"
+tema: "Textos Continuos - Argumentación"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 2 (Low A - Dificultad Low)
-
-**ID:** "CO-LEC-11-textos-continuos-001-v2"
-
-### Enunciado
-
-Según el texto, ¿qué riesgo inaceptable conlleva la pena de muerte?
-
-### Opciones
-
-- [ ] A) El aumento de la tasa de homicidios.
-- [ ] B) El alto costo de los procesos judiciales.
-- [x] C) La posibilidad de ejecutar a personas inocentes.
-- [ ] D) La falta de disuasión a los criminales.
-
-### Explicación Pedagógica
-
-**¿Por qué C es correcta?**
-El texto menciona explícitamente: "existe el riesgo inaceptable de ejecutar a inocentes". Esta es una pregunta de recuperación de información literal.
-
-**¿Por qué las otras opciones son incorrectas?**
-- **A) El aumento de la tasa de homicidios:** El texto dice que la tasa no disminuye, no que aumente necesariamente por la pena.
-- **B) El alto costo:** No se menciona el costo en el texto.
-- **D) La falta de disuasión:** Se menciona como una ineficacia, no como el "riesgo inaceptable" al que se refiere la pregunta en ese contexto específico.
-
-**Competencia evaluada:** Lectura Crítica
-**Componente:** Identificar contenidos locales
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3 (Low B - Dificultad Low)
@@ -116,33 +123,25 @@ El término "falible" proviene de "fallar". En el contexto de que "existe el rie
 **Componente:** Comprensión del sentido local (vocabulario)
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-LEC-11-textos-continuos-001"
+country: "co"
+grado: 11
+asignatura: "Lectura Crítica"
+tema: "Textos Continuos - Argumentación"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 4 (Medium A - Dificultad Medium)
-
-**ID:** "CO-LEC-11-textos-continuos-001-v4"
-
-### Enunciado
-
-¿Cuál de los siguientes enunciados funciona como un **argumento de hecho** (basado en evidencia) en el texto?
-
-### Opciones
-
-- [ ] A) La pena de muerte es ineficaz.
-- [x] B) En los estados con pena capital, la tasa de homicidios no es menor.
-- [ ] C) El sistema judicial es falible.
-- [ ] D) Es inaceptable ejecutar a inocentes.
-
-### Explicación Pedagógica
-
-**¿Por qué B es correcta?**
-El texto introduce esta afirmación con "Estudios demuestran que...", lo cual indica que se está presentando un dato verificable o una evidencia empírica (hecho) para sustentar la tesis.
-
-**¿Por qué las otras opciones son incorrectas?**
-- **A, C, D:** Son aseveraciones, juicios de valor o generalizaciones, pero la opción B es la que apela explícitamente a estudios comparativos (evidencia).
-
-**Competencia evaluada:** Lectura Crítica
-**Componente:** Comprender la estructura de los textos
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5 (Medium B - Dificultad Medium)
@@ -172,35 +171,25 @@ El autor critica la pena de muerte diciendo que "es ineficaz porque **no disuade
 **Componente:** Inferencia (propósito implícito)
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-LEC-11-textos-continuos-001"
+country: "co"
+grado: 11
+asignatura: "Lectura Crítica"
+tema: "Textos Continuos - Argumentación"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 6 (High A - Dificultad High)
-
-**ID:** "CO-LEC-11-textos-continuos-001-v6"
-
-### Enunciado
-
-¿Qué premisa debilitaría más fuertemente la posición del autor?
-
-### Opciones
-
-- [ ] A) Muchos países han abolido la pena de muerte recientemente.
-- [x] B) Pruebas de ADN han demostrado que el sistema judicial actual es infalible en casos capitales.
-- [ ] C) La mayoría de la población apoya la pena de muerte por razones morales.
-- [ ] D) Ejecutar a un criminal es más costoso que mantenerlo en prisión de por vida.
-
-### Explicación Pedagógica
-
-**¿Por qué B es correcta?**
-Un pilar central del argumento del autor es que "el sistema judicial es falible" y existe el riesgo de matar inocentes. Si se demuestra que el sistema es "infalible" (no falla), ese argumento se derrumba por completo.
-
-**¿Por qué las otras opciones son incorrectas?**
-- **A:** Apoya la tesis del autor.
-- **C:** Es un argumento de popularidad (ad populum), no ataca la lógica de eficacia o riesgo de error.
-- **D:** Es un argumento adicional en contra de la pena de muerte (costo), no la debilita.
-
-**Competencia evaluada:** Lectura Crítica
-**Componente:** Reflexionar y evaluar el contenido de un texto
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7 (High B - Dificultad High)

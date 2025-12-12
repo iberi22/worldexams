@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: Adaptado de Legacy
@@ -22,36 +25,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Migrado automáticamente de v1.0 y expandido con variaciones.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-GEO-005"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Geometría"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 1 (Original - Dificultad Medium)
-
-**ID:** "CO-MAT-11-GEO-005-v1"
-
-### Enunciado
-
-El perímetro de un rectángulo es 36 cm. Si su largo es el doble de su ancho, ¿cuál es el área del rectángulo?
-
-### Opciones
-
-- [ ] A) 36 cm²
-- [ ] B) 54 cm²
-- [x] C) 72 cm²
-- [ ] D) 81 cm²
-
-### Explicación Pedagógica
-
-**Respuesta Correcta: C**
-
-1. Planteamos ecuaciones:
-   - $P = 2L + 2W = 36$
-   - $L = 2W$
-2. Sustituimos $L$:
-   $$ 2(2W) + 2W = 36 $$
-   $$ 4W + 2W = 36 $$
-   $$ 6W = 36 \rightarrow W = 6 $$
-3. Hallamos $L$: $L = 2(6) = 12$.
-4. Área: $A = L \times W = 12 \times 6 = 72 \text{ cm}^2$.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 2 (Low A - Dificultad Low)
@@ -78,28 +70,25 @@ Un cuadrado tiene un perímetro de 20 cm. ¿Cuál es su área?
 2. Hallar área: $A = L^2 = 5^2 = 25$.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-GEO-005"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Geometría"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 3 (Low B - Dificultad Low)
-
-**ID:** "CO-MAT-11-GEO-005-v3"
-
-### Enunciado
-
-Un rectángulo mide 4 cm de ancho y 5 cm de largo. ¿Cuál es su perímetro?
-
-### Opciones
-
-- [ ] A) 9 cm
-- [x] B) 18 cm
-- [ ] C) 20 cm
-- [ ] D) 10 cm
-
-### Explicación Pedagógica
-
-**Respuesta Correcta: B**
-
-$$ P = 2(4) + 2(5) = 8 + 10 = 18 \text{ cm} $$
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 4 (Medium A - Dificultad Medium)
@@ -125,31 +114,25 @@ Se quiere cercar un lote rectangular de 20m de largo por 15m de ancho. Si el met
 2. Calcular costo: $70 \times 1.000 = 70.000$ pesos.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-GEO-005"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Geometría"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 5 (Medium B - Dificultad Medium)
-
-**ID:** "CO-MAT-11-GEO-005-v5"
-
-### Enunciado
-
-Una cancha de fútbol tiene un perímetro de 300 metros. Si el largo es de 100 metros, ¿cuánto mide el ancho?
-
-### Opciones
-
-- [ ] A) 100 metros
-- [x] B) 50 metros
-- [ ] C) 200 metros
-- [ ] D) 25 metros
-
-### Explicación Pedagógica
-
-**Respuesta Correcta: B**
-
-$$ 300 = 2(100) + 2W $$
-$$ 300 = 200 + 2W $$
-$$ 100 = 2W $$
-$$ W = 50 $$
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 6 (High A - Dificultad High)
@@ -177,31 +160,25 @@ Si es un cuadrado, $4L = 40 \rightarrow L = 10$.
 (Cualquier otro rectángulo tendría menor área, ej: 15x5 = 75).
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-GEO-005"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Geometría"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 7 (High B - Dificultad High)
-
-**ID:** "CO-MAT-11-GEO-005-v7"
-
-### Enunciado
-
-El área de un rectángulo es $24 \text{ cm}^2$ y su perímetro es $20 \text{ cm}$. ¿Cuáles son las dimensiones (largo y ancho) del rectángulo?
-
-### Opciones
-
-- [ ] A) 12 cm y 2 cm
-- [x] B) 6 cm y 4 cm
-- [ ] C) 8 cm y 3 cm
-- [ ] D) 5 cm y 4.8 cm
-
-### Explicación Pedagógica
-
-**Respuesta Correcta: B**
-
-Buscamos dos números que multiplicados den 24 y sumados den 10 (la mitad del perímetro).
-- A) $12 \times 2 = 24$, pero $12 + 2 = 14 \neq 10$.
-- B) $6 \times 4 = 24$ y $6 + 4 = 10$. (Correcto).
-- C) $8 \times 3 = 24$, pero $8 + 3 = 11 \neq 10$.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Metadata de Validacion

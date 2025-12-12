@@ -26,7 +26,10 @@ componente: "Variacional"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber9", "MX-ENLACE-Media", "ES-ESO", "AR-Aprender"]
+applicable_exams: ["CO-Saber9", "MX-ENLACE-Media", "ES-ESO", "AR-Aprender"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Bundle: Álgebra y Funciones Lineales - Saber 9°
@@ -34,47 +37,37 @@ applicable_exams: ["CO-Saber9", "MX-ENLACE-Media", "ES-ESO", "AR-Aprender"]
 > **Contexto curricular:** Saber 9° evalúa competencias de razonamiento, comunicación y resolución en álgebra, incluyendo expresiones algebraicas, ecuaciones lineales, sistemas de ecuaciones y funciones.
 
 ---
+id: "CO-MAT-09-algebra-001"
+country: "CO"
+grado: 9
+asignatura: "Matemáticas"
+tema: "Álgebra y funciones lineales"
+dificultad: "Medium"
+estado: "draft"
+creador: "AI-WorldExams"
+source_lang: "es-CO"
+llm_model: "claude-sonnet-4-20250514"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
 
-## Pregunta 1 (Original)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-MAT-009-001"
+original_concept: "Ecuaciones lineales"
+competencia_icfes: "Formulación y ejecución"
+componente: "Variacional"
 
-**ID:** `CO-MAT-09-algebra-001-v1`
-**Dificultad:** ⭐⭐⭐ (3/5 - Media)
-
-### Enunciado
-
-En una tienda de artesanías de Ráquira, Boyacá, don José vende vasijas de barro. El precio de venta $P$ (en pesos) de cada vasija depende del tamaño $t$ (en centímetros de altura) según la función:
-
-$$P(t) = 2500t + 5000$$
-
-Si don José quiere vender una vasija a $30.000$ pesos, ¿cuál debe ser la altura de la vasija?
-
-### Opciones
-
-- [ ] A) 8 cm
-- [x] B) 10 cm
-- [ ] C) 12 cm
-- [ ] D) 15 cm
-
-### Explicación
-
-**¿Por qué B es correcta?**
-
-Debemos encontrar $t$ cuando $P(t) = 30000$:
-
-$$30000 = 2500t + 5000$$
-$$30000 - 5000 = 2500t$$
-$$25000 = 2500t$$
-$$t = \frac{25000}{2500} = 10 \text{ cm}$$
-
-**Verificación:** $P(10) = 2500(10) + 5000 = 25000 + 5000 = 30000$ ✓
-
-**¿Por qué las otras no?**
-- **A) 8 cm:** $P(8) = 2500(8) + 5000 = 25000$ pesos. Error al despejar.
-- **C) 12 cm:** $P(12) = 2500(12) + 5000 = 35000$ pesos. Sobreestima el tamaño.
-- **D) 15 cm:** $P(15) = 2500(15) + 5000 = 42500$ pesos. Confusión con el coeficiente.
-
-**Competencia evaluada:** Resolución - despejar variable en función lineal
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber9", "MX-ENLACE-Media", "ES-ESO", "AR-Aprender"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 2 (Variante Fácil)
@@ -108,37 +101,37 @@ $$x = 12 - 5 = 7$$
 **Competencia evaluada:** Comunicación - operación básica de despeje
 
 ---
+id: "CO-MAT-09-algebra-001"
+country: "CO"
+grado: 9
+asignatura: "Matemáticas"
+tema: "Álgebra y funciones lineales"
+dificultad: "Medium"
+estado: "draft"
+creador: "AI-WorldExams"
+source_lang: "es-CO"
+llm_model: "claude-sonnet-4-20250514"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
 
-## Pregunta 3 (Variante Fácil)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-MAT-009-001"
+original_concept: "Ecuaciones lineales"
+competencia_icfes: "Formulación y ejecución"
+componente: "Variacional"
 
-**ID:** `CO-MAT-09-algebra-001-v3`
-**Dificultad:** ⭐⭐ (2/5 - Fácil)
-
-### Enunciado
-
-En el restaurante "El Buen Sabor" de Cartagena, el valor total $V$ de un almuerzo corriente se calcula según la fórmula $V = 12000 + 2000n$, donde $n$ es el número de bebidas adicionales.
-
-Si un cliente pagó $18.000$ pesos, ¿cuántas bebidas adicionales pidió?
-
-### Opciones
-
-- [ ] A) 2
-- [x] B) 3
-- [ ] C) 4
-- [ ] D) 6
-
-### Explicación
-
-Despejamos $n$:
-$$18000 = 12000 + 2000n$$
-$$18000 - 12000 = 2000n$$
-$$6000 = 2000n$$
-$$n = 3 \text{ bebidas}$$
-
-**Verificación:** $V(3) = 12000 + 2000(3) = 12000 + 6000 = 18000$ ✓
-
-**Competencia evaluada:** Resolución - aplicación de ecuación lineal
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber9", "MX-ENLACE-Media", "ES-ESO", "AR-Aprender"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 4 (Variante Media)
@@ -190,47 +183,37 @@ También se puede verificar con puntos intermedios:
 **Competencia evaluada:** Comunicación - interpretación de pendiente como tasa de cambio
 
 ---
+id: "CO-MAT-09-algebra-001"
+country: "CO"
+grado: 9
+asignatura: "Matemáticas"
+tema: "Álgebra y funciones lineales"
+dificultad: "Medium"
+estado: "draft"
+creador: "AI-WorldExams"
+source_lang: "es-CO"
+llm_model: "claude-sonnet-4-20250514"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
 
-## Pregunta 5 (Variante Media)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-MAT-009-001"
+original_concept: "Ecuaciones lineales"
+competencia_icfes: "Formulación y ejecución"
+componente: "Variacional"
 
-**ID:** `CO-MAT-09-algebra-001-v5`
-**Dificultad:** ⭐⭐⭐ (3/5 - Media)
-
-### Enunciado
-
-Una empresa de servicios públicos en Cali cobra el servicio de agua según la función:
-
-$$C(m) = 800m + 15000$$
-
-donde $C$ es el costo en pesos y $m$ son los metros cúbicos consumidos. Si una familia quiere que su factura no supere $\$47.000$, ¿cuántos metros cúbicos puede consumir como máximo?
-
-### Opciones
-
-- [ ] A) 30 m³
-- [ ] B) 35 m³
-- [x] C) 40 m³
-- [ ] D) 58 m³
-
-### Explicación
-
-Planteamos la inecuación:
-$$800m + 15000 \leq 47000$$
-$$800m \leq 47000 - 15000$$
-$$800m \leq 32000$$
-$$m \leq \frac{32000}{800}$$
-$$m \leq 40$$
-
-El consumo máximo es **40 m³**.
-
-**Verificación:** $C(40) = 800(40) + 15000 = 32000 + 15000 = 47000$ ✓
-
-**¿Por qué las otras no?**
-- **A) 30 m³:** $C(30) = 39000$. Es válido pero no es el máximo.
-- **B) 35 m³:** $C(35) = 43000$. Es válido pero no es el máximo.
-- **D) 58 m³:** $C(58) = 61400$. Excede el presupuesto.
-
-**Competencia evaluada:** Resolución - inecuaciones lineales
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber9", "MX-ENLACE-Media", "ES-ESO", "AR-Aprender"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 6 (Variante Difícil)
@@ -275,57 +258,37 @@ $$N = 2(12) = 24 \text{ kg de naranjas}$$
 **Competencia evaluada:** Resolución - sistema de ecuaciones con contexto
 
 ---
+id: "CO-MAT-09-algebra-001"
+country: "CO"
+grado: 9
+asignatura: "Matemáticas"
+tema: "Álgebra y funciones lineales"
+dificultad: "Medium"
+estado: "draft"
+creador: "AI-WorldExams"
+source_lang: "es-CO"
+llm_model: "claude-sonnet-4-20250514"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
 
-## Pregunta 7 (Variante Difícil)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-MAT-009-001"
+original_concept: "Ecuaciones lineales"
+competencia_icfes: "Formulación y ejecución"
+componente: "Variacional"
 
-**ID:** `CO-MAT-09-algebra-001-v7`
-**Dificultad:** ⭐⭐⭐⭐⭐ (5/5 - Muy difícil)
-
-### Enunciado
-
-Una cooperativa cafetera en el Eje Cafetero ofrece dos planes de afiliación:
-
-- **Plan A:** Cuota mensual de $\$50.000$ más $\$800$ por arroba de café vendida.
-- **Plan B:** Sin cuota mensual, pero $\$1.200$ por arroba vendida.
-
-Si un caficultor vende $x$ arrobas mensuales, ¿a partir de cuántas arrobas le conviene más el Plan A?
-
-### Opciones
-
-- [ ] A) Más de 100 arrobas
-- [x] B) Más de 125 arrobas
-- [ ] C) Más de 150 arrobas
-- [ ] D) Siempre conviene el Plan B
-
-### Explicación
-
-**Paso 1:** Modelar los costos
-- Costo Plan A: $C_A(x) = 50000 + 800x$
-- Costo Plan B: $C_B(x) = 1200x$
-
-**Paso 2:** Encontrar punto de equilibrio
-$$50000 + 800x = 1200x$$
-$$50000 = 1200x - 800x$$
-$$50000 = 400x$$
-$$x = 125 \text{ arrobas}$$
-
-**Paso 3:** Analizar cuál conviene
-- Si $x < 125$: Plan B es más barato
-- Si $x = 125$: Ambos cuestan igual ($150.000$)
-- Si $x > 125$: Plan A es más barato
-
-**Verificación con x = 150:**
-- $C_A(150) = 50000 + 800(150) = 170000$
-- $C_B(150) = 1200(150) = 180000$
-- Plan A ahorra $10.000$ ✓
-
-**¿Por qué las otras no?**
-- **A) Más de 100:** A 100 arrobas: $C_A = 130000$, $C_B = 120000$. Plan B aún es mejor.
-- **C) Más de 150:** A 150 arrobas ya conviene A, pero el punto de cambio es 125.
-- **D)** Plan B solo conviene si vende menos de 125 arrobas.
-
-**Competencia evaluada:** Razonamiento - comparación de funciones lineales y análisis de decisiones
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber9", "MX-ENLACE-Media", "ES-ESO", "AR-Aprender"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## 📊 Metadata de Validación

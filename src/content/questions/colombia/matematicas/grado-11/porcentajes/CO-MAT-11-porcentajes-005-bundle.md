@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: Adaptado de Legacy
@@ -24,30 +27,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Migrado automáticamente de v1.0 y expandido con variaciones.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-porcentajes-005"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Porcentajes"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 1 (Original - Dificultad Medium)
-
-**ID:** "CO-MAT-11-porcentajes-005-v1"
-
-### Enunciado
-
-Un artículo tiene un descuento del 20%, y sobre el precio con descuento se aplica un descuento adicional del 10%. Si el precio original era $100,000 COP, ¿cuál es el precio final?
-
-### Opciones
-
-- [ ] A) $70,000 COP
-- [x] B) $72,000 COP
-- [ ] C) $75,000 COP
-- [ ] D) $80,000 COP
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** B
-
-1. 20% de 100k = 20k. Quedan 80k.
-2. 10% de 80k = 8k. Quedan 72k.
-Equivale a $0.80 \times 0.90 = 0.72$ (72% del original).
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 2 (Low A - Dificultad Low)
@@ -75,29 +73,25 @@ Si vale 100:
 - Pagas 25.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-porcentajes-005"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Porcentajes"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 3 (Low B - Dificultad Low)
-
-**ID:** "CO-MAT-11-porcentajes-005-v3"
-
-### Enunciado
-
-Un descuento del 10% seguido de otro del 10% equivale a un descuento único total de:
-
-### Opciones
-
-- [ ] A) 20%
-- [x] B) 19%
-- [ ] C) 21%
-- [ ] D) 18%
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** B
-
-$0.9 \times 0.9 = 0.81$.
-Pagas el 81%, lo que significa que dejas de pagar el 19% (100 - 81).
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 4 (Medium A - Dificultad Medium)
@@ -123,32 +117,25 @@ Precio original $200,000. Descuento inicial 30%. Descuento adicional por pago en
 2. $140,000 \times 0.95 = 133,000$.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-porcentajes-005"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Porcentajes"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 5 (Medium B - Dificultad Medium)
-
-**ID:** "CO-MAT-11-porcentajes-005-v5"
-
-### Enunciado
-
-¿Qué es mejor para el comprador?
-Opción 1: Un descuento único del 40%.
-Opción 2: Dos descuentos sucesivos del 20% y 20%.
-
-### Opciones
-
-- [x] A) Opción 1
-- [ ] B) Opción 2
-- [ ] C) Son iguales
-- [ ] D) Depende del precio
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** A
-
-Opción 1: Pagas 60%.
-Opción 2: Pagas $0.8 \times 0.8 = 0.64$ (64%).
-Pagar 60% es mejor que pagar 64%.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 6 (High A - Dificultad High)
@@ -174,29 +161,25 @@ $0.9 \times 0.9 \times 0.9 = 0.729$.
 Pagas el 72.9%. El descuento es $100 - 72.9 = 27.1\%$.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-porcentajes-005"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Porcentajes"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 7 (High B - Dificultad High)
-
-**ID:** "CO-MAT-11-porcentajes-005-v7"
-
-### Enunciado
-
-Si el precio final después de dos descuentos sucesivos del 20% es $12,800, ¿cuál era el precio original?
-
-### Opciones
-
-- [ ] A) $16,000
-- [x] B) $20,000
-- [ ] C) $18,000
-- [ ] D) $25,000
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** B
-
-Pagas $0.8 \times 0.8 = 0.64$.
-$12,800 / 0.64 = 20,000$.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Metadata de Validacion

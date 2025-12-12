@@ -11,7 +11,10 @@ llm_model: unknown
 agent: legacy
 ide: unknown
 source: human-curated
-group_id: MAT91214
+group_id: MAT91214
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 # Pregunta
 La suma de los ángulos internos de un triángulo es siempre:

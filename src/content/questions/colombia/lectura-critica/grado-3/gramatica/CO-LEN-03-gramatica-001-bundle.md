@@ -27,7 +27,10 @@ componente: "Sintáctico - Semántico"
 
 # === UNIVERSAL SHARING ===
 universal_question: false
-applicable_exams: ["CO-Saber3"]
+applicable_exams: ["CO-Saber3"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Bundle: Gramática y Sinónimos
@@ -36,19 +39,38 @@ applicable_exams: ["CO-Saber3"]
 > **Competencia:** Reconocer verbos, sustantivos, adjetivos y sinónimos.
 
 ---
+id: "CO-LEN-03-gramatica-001-bundle"
+country: "CO"
+grado: 3
+asignatura: "Lenguaje"
+tema: "Gramática y Vocabulario"
+dificultad: 2
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-2)"
+generation_date: "2025-12-06"
 
-## 📊 Metadata de Validación
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-LEN-03-GRAM"
+original_concept: "Grammar categories and synonyms"
+competencia_icfes: "Escritora - Semántica"
+componente: "Sintáctico - Semántico"
 
-| Pregunta | ID | Dificultad | Competencia ICFES | Estado |
-|----------|-----|------------|-------------------|--------|
-| 1 | CO-LEN-03-gramatica-001-v1 | 2 | Verbos | ⬜ |
-| 2 | CO-LEN-03-gramatica-001-v2 | Low | Sinónimos (Feliz) | ⬜ |
-| 3 | CO-LEN-03-gramatica-001-v3 | Low | Sustantivos | ⬜ |
-| 4 | CO-LEN-03-gramatica-001-v4 | 2 | Antónimos (Grande) | ⬜ |
-| 5 | CO-LEN-03-gramatica-001-v5 | 2 | Adjetivos | ⬜ |
-| 6 | CO-LEN-03-gramatica-001-v6 | 1 | Género del sustantivo | ⬜ |
-| 7 | CO-LEN-03-gramatica-001-v7 | 2 | Sinónimos (Rápido) | ⬜ |
-
+# === UNIVERSAL SHARING ===
+universal_question: false
+applicable_exams: ["CO-Saber3"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1
@@ -71,25 +93,38 @@ Identifica el **VERBO** (la acción) en la oración:
 **Verbo:** Es la palabra que indica acción o movimiento. Aquí, la acción que realiza el perro es "correr".
 
 ---
+id: "CO-LEN-03-gramatica-001-bundle"
+country: "CO"
+grado: 3
+asignatura: "Lenguaje"
+tema: "Gramática y Vocabulario"
+dificultad: 2
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-2)"
+generation_date: "2025-12-06"
 
-## Pregunta 2
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-LEN-03-GRAM"
+original_concept: "Grammar categories and synonyms"
+competencia_icfes: "Escritora - Semántica"
+componente: "Sintáctico - Semántico"
 
-**ID:** `CO-LEN-03-gramatica-001-v2`
-
-### Enunciado
-
-¿Cuál palabra significa lo mismo que **'feliz'**? (Sinónimo)
-
-### Opciones
-
-- [ ] A) Triste
-- [x] B) Contento
-- [ ] C) Enojado
-- [ ] D) Aburrido
-
-### Explicación
-**Sinónimo:** "Contento" y "Feliz" comparten el mismo significado de alegría. Triste es lo opuesto (antónimo).
-
+# === UNIVERSAL SHARING ===
+universal_question: false
+applicable_exams: ["CO-Saber3"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3
@@ -111,25 +146,38 @@ Identifica el **VERBO** (la acción) en la oración:
 **Sustantivo:** Mesa es un objeto. Saltar y Cantar son verbos. Amarillo es adjetivo.
 
 ---
+id: "CO-LEN-03-gramatica-001-bundle"
+country: "CO"
+grado: 3
+asignatura: "Lenguaje"
+tema: "Gramática y Vocabulario"
+dificultad: 2
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-2)"
+generation_date: "2025-12-06"
 
-## Pregunta 4
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-LEN-03-GRAM"
+original_concept: "Grammar categories and synonyms"
+competencia_icfes: "Escritora - Semántica"
+componente: "Sintáctico - Semántico"
 
-**ID:** `CO-LEN-03-gramatica-001-v4`
-
-### Enunciado
-
-¿Cuál es lo contrario (antónimo) de **'Grande'**?
-
-### Opciones
-
-- [ ] A) Enorme
-- [ ] B) Alto
-- [x] C) Pequeño
-- [ ] D) Gordo
-
-### Explicación
-**Antónimo:** Pequeño es el opuesto de grande.
-
+# === UNIVERSAL SHARING ===
+universal_question: false
+applicable_exams: ["CO-Saber3"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5
@@ -151,25 +199,38 @@ En la frase *"La niña inteligente lee un libro"*, ¿cuál es el **adjetivo**?
 **Cualidad:** Inteligente describe cómo es la niña.
 
 ---
+id: "CO-LEN-03-gramatica-001-bundle"
+country: "CO"
+grado: 3
+asignatura: "Lenguaje"
+tema: "Gramática y Vocabulario"
+dificultad: 2
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-2)"
+generation_date: "2025-12-06"
 
-## Pregunta 6
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-LEN-03-GRAM"
+original_concept: "Grammar categories and synonyms"
+competencia_icfes: "Escritora - Semántica"
+componente: "Sintáctico - Semántico"
 
-**ID:** `CO-LEN-03-gramatica-001-v6`
-
-### Enunciado
-
-Si decimos "El gato", ¿qué género tiene la palabra gato?
-
-### Opciones
-
-- [x] A) Masculino
-- [ ] B) Femenino
-- [ ] C) Plural
-- [ ] D) Verbo
-
-### Explicación
-**Género:** Decimos "El" gato (masculino), no "La" gato.
-
+# === UNIVERSAL SHARING ===
+universal_question: false
+applicable_exams: ["CO-Saber3"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7

@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: Hypothetical Situations
@@ -22,14 +25,25 @@ source_license: "CC BY-SA 4.0"
 > **Note:** Grammar Guide - Second Conditional.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-ING-11-grammar-002"
+country: "co"
+grado: 11
+asignatura: "Inglés"
+tema: "Grammar - Second Conditional"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-# Text Base
-
-"The **Second Conditional** acts for unreal, imaginary, or impossible situations in the present or future.
-*   **Structure:** If + Subject + **Past Simple**, Subject + **would** + Verb (base form).
-*   **Example:** If I **won** the lottery, I **would buy** a house.
-*   **Important Check:** For the verb 'to be', use **were** for all persons (I, he, she, it)."
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1 (Original - Dificultad Medium)
@@ -56,31 +70,25 @@ En el segundo condicional, se prefiere gramaticalmente usar "were" en lugar de "
 **Componente:** Grammar - Second Conditional (To Be)
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-ING-11-grammar-002"
+country: "co"
+grado: 11
+asignatura: "Inglés"
+tema: "Grammar - Second Conditional"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 2 (Low A - Dificultad Low)
-
-**ID:** "CO-ING-11-grammar-002-v2"
-
-### Enunciado
-
-Complete the sentence structure:
-"If she _______ time, she would help you."
-
-### Opciones
-
-- [ ] A) has
-- [x] B) had
-- [ ] C) have
-- [ ] D) having
-
-### Explicación Pedagógica
-
-**¿Por qué B es correcta?**
-La estructura del segundo condicional requiere el **Pasado Simple** (Simple Past) en la cláusula del "If". El pasado de "have" es "had".
-
-**Competencia evaluada:** Gramática - Formas Verbales
-**Componente:** Second Conditional
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3 (Low B - Dificultad Low)
@@ -108,30 +116,25 @@ La cláusula de resultado en el segundo condicional usa **would** + verbo base. 
 **Componente:** Second Conditional
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-ING-11-grammar-002"
+country: "co"
+grado: 11
+asignatura: "Inglés"
+tema: "Grammar - Second Conditional"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 4 (Medium A - Dificultad Medium)
-
-**ID:** "CO-ING-11-grammar-002-v4"
-
-### Enunciado
-
-Choose the sentence that gives advice using the "If I were you" structure:
-
-### Opciones
-
-- [ ] A) If I am you, I study more.
-- [ ] B) If I was you, I study more.
-- [x] C) If I were you, I would study more.
-- [ ] D) If I be you, I studied more.
-
-### Explicación Pedagógica
-
-**¿Por qué C es correcta?**
-La expresión fija para dar consejos es "If I were you, I would...". Es una aplicación clásica del segundo condicional.
-
-**Competencia evaluada:** Gramática - Uso Comunicativo (Advice)
-**Componente:** Second Conditional
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5 (Medium B - Dificultad Medium)
@@ -158,30 +161,25 @@ Tener alas ("had wings") es una situación irreal/imposible para un humano. Por 
 **Componente:** Conditionals (First vs Second)
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-ING-11-grammar-002"
+country: "co"
+grado: 11
+asignatura: "Inglés"
+tema: "Grammar - Second Conditional"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 6 (High A - Dificultad High)
-
-**ID:** "CO-ING-11-grammar-002-v6"
-
-### Enunciado
-
-"If he ________ the answer, he would tell us." (Negative form)
-
-### Opciones
-
-- [ ] A) don't knew
-- [ ] B) doesn't know
-- [ ] C) wouldn't know
-- [x] D) didn't know
-
-### Explicación Pedagógica
-
-**¿Por qué D es correcta?**
-La negación en el Pasado Simple (requerido en la cláusula If) se forma con **didn't** + verbo base ("didn't know").
-
-**Competencia evaluada:** Gramática - Formas Negativas
-**Componente:** Second Conditional
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7 (High B - Dificultad High)

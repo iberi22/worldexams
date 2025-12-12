@@ -382,3 +382,39 @@ export function filterUniversalQuestions(
     return true;
   });
 }
+
+/**
+ * Filtra preguntas según el plan de suscripción del usuario
+ *
+ * @param questions - Array de preguntas a filtrar
+ * @param userPlan - Plan del usuario ('free' o 'institutional')
+ * @returns Array de preguntas filtradas según el plan
+ *
+ * Reglas de licenciamiento (Protocol v2.1):
+ * - Plan FREE: Solo v1 (CC BY-SA 4.0) - Pregunta de referencia
+ * - Plan INSTITUTIONAL: Todas las variantes (v1-v7)
+ *
+ * Lógica:
+ * - v1: CC BY-SA 4.0 (uso comercial permitido - marketing/SEO)
+ * - v2-v7: CC BY-NC-SA 4.0 (solo no-comercial - premium)
+ *
+ * Según FAQ Creative Commons, vender servicios/software basados en contenido
+ * BY-NC es legal (vendemos Party Mode, no las preguntas directamente).
+ *
+ * Casos análogos: GitHub, WordPress.com, Red Hat
+ */
+export function filterByPlan(
+  questions: Question[],
+  userPlan: 'free' | 'institutional'
+): Question[] {
+  if (userPlan === 'free') {
+    // Plan gratuito: Solo preguntas v1 (referencia, uso comercial permitido)
+    return questions.filter(q => {
+      const id = String(q.id);
+      return id.endsWith('-v1');
+    });
+  }
+
+  // Plan institucional: Acceso a todas las variantes (v1-v7)
+  return questions;
+}

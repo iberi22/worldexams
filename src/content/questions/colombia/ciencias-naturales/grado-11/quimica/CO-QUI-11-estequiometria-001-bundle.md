@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: La Receta Química
@@ -22,13 +25,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Texto expositivo sobre Estequiometría.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-QUI-11-estequiometria-001"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Química - Estequiometría"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-# Texto Base
-
-"La estequiometría es el cálculo de las relaciones cuantitativas entre los reactivos y productos en el transcurso de una reacción química. Se basa en la **Ley de Conservación de la Masa** (la materia no se crea ni se destruye, solo se transforma). En una ecuación balanceada, los **coeficientes** indican la proporción constante de moles.
-Ejemplo: $N_2 + 3H_2 \rightarrow 2NH_3$.
-Esto significa que **1 mol** de Nitrógeno reacciona con **3 moles** de Hidrógeno para producir **2 moles** de Amoníaco."
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1 (Original - Dificultad Medium)
@@ -55,30 +70,25 @@ La ecuación balanceada indica que 2 moles de $H_2$ producen 2 moles de $H_2O$ (
 **Componente:** Química - Estequiometría
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-QUI-11-estequiometria-001"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Química - Estequiometría"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 2 (Low A - Dificultad Low)
-
-**ID:** "CO-QUI-11-estequiometria-001-v2"
-
-### Enunciado
-
-Según el texto, la estequiometría se fundamenta en la Ley de:
-
-### Opciones
-
-- [ ] A) La Gravedad Universal.
-- [x] B) Conservación de la Masa.
-- [ ] C) Los Gases Ideales.
-- [ ] D) La Inercia.
-
-### Explicación Pedagógica
-
-**¿Por qué B es correcta?**
-El texto lo indica explícitamente: "Se basa en la Ley de Conservación de la Masa (la materia no se crea ni se destruye)".
-
-**Competencia evaluada:** Uso comprensivo del conocimiento científico
-**Componente:** Química - Leyes Fundamentales
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3 (Low B - Dificultad Low)
@@ -105,30 +115,25 @@ El texto explica que "los coeficientes indican la proporción constante de moles
 **Componente:** Química - Interpretación de Ecuaciones
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-QUI-11-estequiometria-001"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Química - Estequiometría"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 4 (Medium A - Dificultad Medium)
-
-**ID:** "CO-QUI-11-estequiometria-001-v4"
-
-### Enunciado
-
-Considerando la reacción del texto ($N_2 + 3H_2 \rightarrow 2NH_3$): Si solo dispongo de 1 mol de $N_2$ pero tengo exceso de $H_2$, ¿cuántos moles máximos de $NH_3$ puedo obtener?
-
-### Opciones
-
-- [ ] A) 1 mol.
-- [x] B) 2 moles.
-- [ ] C) 3 moles.
-- [ ] D) 6 moles.
-
-### Explicación Pedagógica
-
-**¿Por qué B es correcta?**
-La relación estequiométrica muestra que por cada **1 mol** de $N_2$ consumido, se generan **2 moles** de $NH_3$. Como el $H_2$ está en exceso, el $N_2$ limita la reacción y determina el producto.
-
-**Competencia evaluada:** Explicación de fenómenos
-**Componente:** Química - Reactivo Límite (Básico)
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5 (Medium B - Dificultad Medium)
@@ -156,31 +161,25 @@ Masa = $2 \text{ moles} \times 18 \text{ g/mol} = 36 \text{ gramos}$.
 **Componente:** Química - Conversión Moles-Masa
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-QUI-11-estequiometria-001"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Química - Estequiometría"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 6 (High A - Dificultad High)
-
-**ID:** "CO-QUI-11-estequiometria-001-v6"
-
-### Enunciado
-
-Se calculó teóricamente que una reacción debía producir 100 gramos de producto. Sin embargo, al realizarla en el laboratorio, solo se obtuvieron 80 gramos. ¿Cuál fue el porcentaje de rendimiento de la reacción?
-
-### Opciones
-
-- [ ] A) 125%
-- [ ] B) 20%
-- [x] C) 80%
-- [ ] D) 100%
-
-### Explicación Pedagógica
-
-**¿Por qué C es correcta?**
-$$\text{Rendimiento (\%)} = \left( \frac{\text{Rendimiento Real}}{\text{Rendimiento Teórico}} \right) \times 100$$
-$$\text{Rendimiento (\%)} = \left( \frac{80}{100} \right) \times 100 = 80\%$$
-
-**Competencia evaluada:** Indagación y Análisis
-**Componente:** Química - Rendimiento de Reacción
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7 (High B - Dificultad High)

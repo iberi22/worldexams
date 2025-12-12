@@ -27,7 +27,10 @@ componente: "Lógica y Programación"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber11", "MX-EXANI", "AP-Computer-Science"]
+applicable_exams: ["CO-Saber11", "MX-EXANI", "AP-Computer-Science"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Bundle: Algoritmos y Pensamiento Computacional
@@ -36,19 +39,38 @@ applicable_exams: ["CO-Saber11", "MX-EXANI", "AP-Computer-Science"]
 > **Competencia:** Abstracción, descomposición y diseño de algoritmos.
 
 ---
+id: "CO-INF-11-algoritmos-001-bundle"
+country: "CO"
+grado: 11
+asignatura: "Informática"
+tema: "Algoritmos y Lógica"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-4)"
+generation_date: "2025-12-06"
 
-## 📊 Metadata de Validación
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-INF-11-ALGO"
+original_concept: "Computational thinking and algorithms"
+competencia_icfes: "Pensamiento computacional"
+componente: "Lógica y Programación"
 
-| Pregunta | ID | Dificultad | Competencia ICFES | Estado |
-|----------|-----|------------|-------------------|--------|
-| 1 | CO-INF-11-algoritmos-001-v1 | Medium | Eficiencia (Sorting) | ⬜ |
-| 2 | CO-INF-11-algoritmos-001-v2 | Low | Condicionales | ⬜ |
-| 3 | CO-INF-11-algoritmos-001-v3 | Low | Bucles | ⬜ |
-| 4 | CO-INF-11-algoritmos-001-v4 | Medium | Variables | ⬜ |
-| 5 | CO-INF-11-algoritmos-001-v5 | 1 | Hardware vs Software | ⬜ |
-| 6 | CO-INF-11-algoritmos-001-v6 | High | Debugging (Lógica) | ⬜ |
-| 7 | CO-INF-11-algoritmos-001-v7 | 2 | Diagramas de Flujo | ⬜ |
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-EXANI", "AP-Computer-Science"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1
@@ -70,25 +92,38 @@ Un estudiante necesita organizar una lista de 50 nombres alfabéticamente (tarje
 **Divide y Vencerás:** La opción C describe la lógica de Merge Sort ($O(n \log n)$), que es mucho más eficiente para grandes volúmenes de datos que los métodos simples como mirar una por una.
 
 ---
+id: "CO-INF-11-algoritmos-001-bundle"
+country: "CO"
+grado: 11
+asignatura: "Informática"
+tema: "Algoritmos y Lógica"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-4)"
+generation_date: "2025-12-06"
 
-## Pregunta 2
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-INF-11-ALGO"
+original_concept: "Computational thinking and algorithms"
+competencia_icfes: "Pensamiento computacional"
+componente: "Lógica y Programación"
 
-**ID:** `CO-INF-11-algoritmos-001-v2`
-
-### Enunciado
-
-En programación, una estructura **condicional** (`if-else`) se utiliza para:
-
-### Opciones
-
-- [ ] A) Repetir una acción muchas veces.
-- [x] B) Tomar decisiones basadas en si una afirmación es verdadera o falsa.
-- [ ] C) Almacenar un número decimal.
-- [ ] D) Conectar el computador a internet.
-
-### Explicación
-**Decisión:** Permite que el programa ejecute diferentes bloques de código según se cumpla o no una condición (ej: "Si es mayor de edad, entrar; sino, salir").
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-EXANI", "AP-Computer-Science"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3
@@ -110,37 +145,38 @@ En programación, una estructura **condicional** (`if-else`) se utiliza para:
 **Iteración:** Los bucles permiten repetir una instrucción múltiples veces de forma automática y eficiente.
 
 ---
+id: "CO-INF-11-algoritmos-001-bundle"
+country: "CO"
+grado: 11
+asignatura: "Informática"
+tema: "Algoritmos y Lógica"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-4)"
+generation_date: "2025-12-06"
 
-## Pregunta 4
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-INF-11-ALGO"
+original_concept: "Computational thinking and algorithms"
+competencia_icfes: "Pensamiento computacional"
+componente: "Lógica y Programación"
 
-**ID:** `CO-INF-11-algoritmos-001-v4`
-
-### Enunciado
-
-Analiza el siguiente pseudocódigo:
-```
-x = 5
-y = 10
-x = x + y
-y = x - y
-x = x - y
-```
-Al final, ¿cuánto valen `x` e `y`?
-
-### Opciones
-
-- [ ] A) x=15, y=5
-- [ ] B) x=5, y=10 (no cambian)
-- [x] C) x=10, y=5 (se intercambian)
-- [ ] D) x=0, y=0
-
-### Explicación
-**Intercambio (Swap):**
-1. x = 5 + 10 = 15
-2. y = 15 - 10 = 5
-3. x = 15 - 5 = 10
-Resultado: x=10, y=5. Es un algoritmo clásico de intercambio sin variable temporal.
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-EXANI", "AP-Computer-Science"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5
@@ -162,30 +198,38 @@ Resultado: x=10, y=5. Es un algoritmo clásico de intercambio sin variable tempo
 **Intangible:** Software son los programas y datos. Hardware (A, B, D) son las partes físicas.
 
 ---
+id: "CO-INF-11-algoritmos-001-bundle"
+country: "CO"
+grado: 11
+asignatura: "Informática"
+tema: "Algoritmos y Lógica"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "Mixta (1-4)"
+generation_date: "2025-12-06"
 
-## Pregunta 6
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-INF-11-ALGO"
+original_concept: "Computational thinking and algorithms"
+competencia_icfes: "Pensamiento computacional"
+componente: "Lógica y Programación"
 
-**ID:** `CO-INF-11-algoritmos-001-v6`
-
-### Enunciado
-
-Tienes un algoritmo para hacer café que falla.
-1. Calentar agua.
-2. Servir agua en la taza.
-3. Poner café en el filtro.
-4. Poner filtro sobre la taza.
-**Error:** El agua se sirve antes de pasar por el café. ¿Cómo lo corriges?
-
-### Opciones
-
-- [ ] A) Eliminar el paso 1.
-- [x] B) Mover el paso 2 al final (después de poner filtro y café).
-- [ ] C) Invertir paso 3 y 4.
-- [ ] D) No tiene solución.
-
-### Explicación
-**Secuencialidad:** El orden importa. El agua debe pasar por el café PARA llegar a la taza como bebida. Servirla antes (paso 2) solo da agua caliente.
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-EXANI", "AP-Computer-Science"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7

@@ -1,25 +1,34 @@
-# 📋 Protocolo de Generación de Preguntas v2.0
+# 📋 Protocolo de Generación de Preguntas v2.1
 
-> **Versión:** 2.0
-> **Fecha:** 2025-12-04
+> **Versión:** 2.1 (actualizado con licencias duales)
+> **Fecha:** 2025-12-12
 > **Estado:** Activo
-> **Anterior:** v1.0 (6 variaciones por fuente, archivo separado por pregunta)
+> **Anterior:** v2.0 (bundles de 7 preguntas), v1.0 (archivos individuales)
 
 ---
 
 ## 📌 Resumen Ejecutivo
 
-El Protocolo v2.0 establece un nuevo estándar donde **cada archivo de pregunta contiene 7 variantes** organizadas por complejidad, reemplazando el modelo anterior de archivos individuales.
+El Protocolo v2.1 establece un nuevo estándar donde **cada archivo de pregunta contiene 7 variantes** organizadas por complejidad, con **licencias duales** para monetización controlada.
 
-### Cambios Principales vs v1.0
+### Cambios Principales vs v2.0
 
-| Aspecto | v1.0 | v2.0 |
+| Aspecto | v2.0 | v2.1 (NEW) |
+|---------|------|-----------|
+| Licencias | Única (CC BY-SA 4.0 todo el bundle) | **Duales (v1: BY-SA, v2-v7: BY-NC-SA)** |
+| Metadata | `protocol_version: "2.0"` | `protocol_version: "2.1"` + campo `licenses` |
+| Monetización | Unclear | **Party Mode legal (vendemos servicio, no preguntas)** |
+
+### Cambios vs v1.0
+
+| Aspecto | v1.0 | v2.1 |
 |---------|------|------|
 | Preguntas por archivo | 1 | **7** |
 | Variantes de complejidad | 6 variaciones aleatorias | **1 original + 2 fácil + 2 media + 2 difícil** |
 | Contexto cultural | Opcional | **Obligatorio** |
 | Explicaciones | Básicas | **Pedagógicas detalladas** |
 | IDs | `[COUNTRY]-[SUBJ]-[GRADE]-[TOPIC]-[NNN]` | `[COUNTRY]-[SUBJ]-[GRADE]-[TOPIC]-[NNN]-v[1-7]` |
+| Licencias | No especificadas | **v1: BY-SA, v2-v7: BY-NC-SA** |
 
 ---
 
@@ -126,11 +135,16 @@ country: "[código ISO]"
 grado: [número]
 asignatura: "[Asignatura en idioma local]"
 tema: "[Tema específico]"
-protocol_version: "2.0"
+protocol_version: "2.1"
 total_questions: 7
 estado: "draft|review|approved"
 creador: "Copilot|AI-WorldExams|[Nombre]"
 generation_date: "YYYY-MM-DD"
+
+# === LICENSING (NEW v2.1) ===
+licenses:
+  v1: "CC BY-SA 4.0"        # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0"  # Variantes (solo uso no-comercial)
 
 # === SOURCE ATTRIBUTION ===
 source: "OpenTDB"
@@ -419,6 +433,64 @@ Antes de aprobar una pregunta, verificar:
 - Incluir moneda, ciudades, nombres locales
 - Explicar el "por qué" de cada distractor
 - Escalar dificultad progresivamente
+
+---
+
+## 🔐 Licencias Duales (NEW v2.1)
+
+### Rationale
+
+**Objetivo:** Monetizar Party Mode ($49/mes) sin violar licencias open source.
+
+**Estrategia:** Licencias mixtas dentro del mismo archivo bundle.
+
+| Variante | Licencia | Uso Comercial | Acceso | Monetización |
+|----------|----------|---------------|--------|--------------|
+| **v1** (Original) | CC BY-SA 4.0 | ✅ Permitido | 🌍 Público | Marketing/SEO |
+| **v2-v7** (Variantes) | CC BY-NC-SA 4.0 | ❌ Prohibido | 🌍 Público | Solo instituciones |
+
+### ¿Por qué es legal vender Party Mode?
+
+**Según [FAQ de Creative Commons](https://creativecommons.org/faq/#can-i-still-make-money-from-a-work-i-make-available-under-a-creative-commons-license):**
+
+> "CC's NonCommercial (NC) licenses allow rights holders to maximize distribution while maintaining control of the commercialization of their works."
+
+**Party Mode ($49/mes) es legal porque:**
+1. ✅ **Vendemos el servicio/software**, no las preguntas directamente
+2. ✅ **Preguntas BY-NC son input** para el servicio, no el producto final
+3. ✅ **Casos análogos exitosos:**
+   - GitHub vende hosting de código open source (incluso BY-NC)
+   - WordPress.com vende hosting de temas/plugins GPL
+   - Red Hat vende soporte/hosting de Linux (GPL)
+
+### Implementación en Frontend
+
+```typescript
+// saberparatodos/src/utils/questionParser.ts
+function filterByPlan(questions: Question[], userPlan: 'free' | 'institutional'): Question[] {
+  if (userPlan === 'free') {
+    // Solo v1 (referencia)
+    return questions.filter(q => q.id.endsWith('-v1'));
+  }
+  // Instituciones ven todas (v1-v7)
+  return questions;
+}
+```
+
+### Disclaimers en README.md
+
+Cada repo debe incluir:
+
+```markdown
+## 📜 Licencias
+
+Este proyecto usa **licencias duales**:
+
+- **v1 (Original):** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - Uso comercial permitido
+- **v2-v7 (Variantes):** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) - Solo uso no-comercial
+
+**Party Mode** es legal porque vendemos el servicio de software, no las preguntas directamente.
+```
 
 ---
 

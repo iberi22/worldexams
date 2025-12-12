@@ -8,7 +8,10 @@ tema: Guerra del Pacífico
 dificultad: 3
 estado: published
 creador: AI-WorldExams
-source: PAES
+source: PAES
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 # Pregunta
 La Guerra del Pacífico (1879-1884) enfrentó a Chile contra:

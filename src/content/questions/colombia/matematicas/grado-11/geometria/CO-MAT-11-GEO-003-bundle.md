@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: Adaptado de Legacy
@@ -22,31 +25,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Migrado automáticamente de v1.0 y expandido con variaciones.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-GEO-003"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Geometría"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 1 (Original - Dificultad Medium)
-
-**ID:** "CO-MAT-11-GEO-003-v1"
-
-### Enunciado
-
-En un triángulo rectángulo, si un cateto mide 3 cm y el otro 4 cm, ¿cuánto mide la hipotenusa?
-
-### Opciones
-
-- [ ] A) 7 cm
-- [x] B) 5 cm
-- [ ] C) 12 cm
-- [ ] D) 6 cm
-
-### Explicación Pedagógica
-
-**Respuesta Correcta: B**
-
-Por el teorema de Pitágoras ($h^2 = a^2 + b^2$):
-$$ h = \sqrt{3^2 + 4^2} $$
-$$ h = \sqrt{9 + 16} = \sqrt{25} = 5 $$
-Este es el triángulo "3-4-5", una terna pitagórica clásica.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 2 (Low A - Dificultad Low)
@@ -73,30 +70,25 @@ $$ h = \sqrt{36 + 64} = \sqrt{100} = 10 \text{ cm} $$
 (Es similar al 3-4-5, pero multiplicado por 2).
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-GEO-003"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Geometría"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 3 (Low B - Dificultad Low)
-
-**ID:** "CO-MAT-11-GEO-003-v3"
-
-### Enunciado
-
-En un triángulo rectángulo, los catetos son 5 cm y 12 cm. ¿Cuál es el valor de la hipotenusa?
-
-### Opciones
-
-- [x] A) 13 cm
-- [ ] B) 17 cm
-- [ ] C) 25 cm
-- [ ] D) 60 cm
-
-### Explicación Pedagógica
-
-**Respuesta Correcta: A**
-
-$$ h = \sqrt{5^2 + 12^2} $$
-$$ h = \sqrt{25 + 144} = \sqrt{169} = 13 $$
-Otra terna pitagórica importante (5-12-13).
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 4 (Medium A - Dificultad Medium)
@@ -125,30 +117,25 @@ $$ a^2 = 100 - 36 = 64 $$
 $$ a = \sqrt{64} = 8 \text{ m} $$
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-GEO-003"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Geometría"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 5 (Medium B - Dificultad Medium)
-
-**ID:** "CO-MAT-11-GEO-003-v5"
-
-### Enunciado
-
-Las pantallas de televisión se miden por su diagonal. Si una pantalla mide 80 cm de ancho y 60 cm de alto, ¿cuál es la medida de su diagonal?
-
-### Opciones
-
-- [ ] A) 140 cm
-- [x] B) 100 cm
-- [ ] C) 120 cm
-- [ ] D) 70 cm
-
-### Explicación Pedagógica
-
-**Respuesta Correcta: B**
-
-$$ d = \sqrt{80^2 + 60^2} $$
-$$ d = \sqrt{6400 + 3600} $$
-$$ d = \sqrt{10000} = 100 \text{ cm} $$
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 6 (High A - Dificultad High)
@@ -176,34 +163,25 @@ La distancia es la hipotenusa de un triángulo rectángulo formado por las difer
 $$ d = \sqrt{3^2 + 4^2} = 5 $$
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-GEO-003"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Geometría"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 7 (High B - Dificultad High)
-
-**ID:** "CO-MAT-11-GEO-003-v7"
-
-### Enunciado
-
-Calcula la altura de un triángulo **isósceles** cuyos lados iguales miden 5 cm y cuya base mide 6 cm.
-(Sugerencia: La altura divide la base en dos partes iguales).
-
-### Opciones
-
-- [ ] A) 3 cm
-- [x] B) 4 cm
-- [ ] C) 5 cm
-- [ ] D) 2 cm
-
-### Explicación Pedagógica
-
-**Respuesta Correcta: B**
-
-La altura divide la base de 6 cm en dos segmentos de 3 cm.
-Se forma un triángulo rectángulo con:
-- Hipotenusa = 5 (lado igual)
-- Cateto base = 3 (mitad de la base)
-- Cateto altura = $h$
-$$ h = \sqrt{5^2 - 3^2} = \sqrt{25 - 9} = \sqrt{16} = 4 \text{ cm} $$
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Metadata de Validacion

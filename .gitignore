@@ -46,6 +46,40 @@ Thumbs.db
 !LICENSE.md
 
 # ============================================
+# DOCUMENTOS INTERNOS (Privados)
+# Razón: Información estratégica, planificación, pricing
+# Fecha: 2025-12-12
+# ============================================
+
+# Documentos de planificación (sensibles)
+PLANNING.md
+TASK.md
+AGENTS.md
+MASTER_PLAN.md
+masterplan.md
+AGENT_CONTEXT.md
+
+# Documentos de negocio (pricing, proyecciones)
+docs/MONETIZATION_STRATEGY.md
+docs/IMPLEMENTATION_PLAN.md
+docs/BUSINESS_MODEL.md
+docs/API_GENERATION.md
+
+# Specs privadas (arquitectura interna)
+docs/specs/
+docs/prompts/
+spec/
+
+# Reportes internos
+docs/reports/
+audit_log.txt
+
+# Scripts de administración
+scripts/split-questions.ps1
+apply-template.ps1
+countries-config.ps1
+
+# ============================================
 # DEPRECATED: Host App (Android Tauri) + Party Server Rust
 # Razón: Reemplazado por arquitectura 100% web (PWA)
 # Fecha: 2025-12-11
@@ -64,3 +98,22 @@ worldexams.github.io/
 question-bank/
 question-sync/
 #🔒 PRIVADO repo aparte privado
+
+# ============================================
+# PREMIUM CONTENT (Repositorio Privado)
+# Razón: Contenido comercial v2-v7 en repo separado
+# Fecha: 2025-12-12
+# ============================================
+
+# Preguntas premium (v2-v7) están en submodule privado
+# Repo: iberi22/worldexams-premium
+src/content/questions-premium/
+**/questions-premium/
+temp/premium-questions/
+
+# Bundles completos (v1-v7) - Solo versiones PUBLIC se commitean
+*-bundle.md
+*-PREMIUM.md
+
+# Solo archivos PUBLIC se incluyen en repo público
+!*-PUBLIC.md

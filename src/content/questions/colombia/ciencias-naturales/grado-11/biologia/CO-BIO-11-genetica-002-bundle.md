@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: El Código de la Vida
@@ -22,11 +25,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Texto expositivo sobre bases moleculares de la herencia.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-BIO-11-genetica-002"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Biología - Genética Molecular y Cromosómica"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-# Texto Base
-
-"La información genética de todos los seres vivos está almacenada en una molécula llamada **ADN** (ácido desoxirribonucleico), ubicada en el núcleo celular. El ADN está formado por una secuencia de cuatro bases nitrogenadas (Adenina, Timina, Citosina y Guanina) cuyo orden determina las instrucciones para construir proteínas. Un segmento de ADN que codifica una característica específica se llama **gen**. Durante la reproducción sexual, los organismos heredan la mitad de sus genes del padre y la mitad de la madre, siguiendo patrones matemáticos de probabilidad."
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1 (Original - Dificultad Medium)
@@ -53,30 +70,25 @@ Aplicando las leyes de probabilidad a la herencia (Cuadro de Punnett): El cruce 
 **Componente:** Biología - Probabilidad Genética
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-BIO-11-genetica-002"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Biología - Genética Molecular y Cromosómica"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 2 (Low A - Dificultad Low)
-
-**ID:** "CO-BIO-11-genetica-002-v2"
-
-### Enunciado
-
-Según el texto, el **gen** se define como:
-
-### Opciones
-
-- [ ] A) Una proteína que da energía.
-- [ ] B) Una célula reproductora.
-- [x] C) Un segmento de ADN que codifica una característica.
-- [ ] D) Un tipo de azúcar en la sangre.
-
-### Explicación Pedagógica
-
-**¿Por qué C es correcta?**
-El texto lo define literalmente: "Un segmento de ADN que codifica una característica específica se llama gen".
-
-**Competencia evaluada:** Uso comprensivo del conocimiento científico
-**Componente:** Biología - Conceptos Básicos
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3 (Low B - Dificultad Low)
@@ -103,30 +115,25 @@ El texto menciona explícitamente que el ADN está "ubicada en el núcleo celula
 **Componente:** Biología - Estructura Celular
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-BIO-11-genetica-002"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Biología - Genética Molecular y Cromosómica"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 4 (Medium A - Dificultad Medium)
-
-**ID:** "CO-BIO-11-genetica-002-v4"
-
-### Enunciado
-
-Si una cadena de ADN tiene la secuencia **A-T-C-G**, su cadena complementaria debe ser (recordando que Adenina se une con Timina y Citosina con Guanina):
-
-### Opciones
-
-- [ ] A) A-T-C-G
-- [x] B) T-A-G-C
-- [ ] C) G-C-A-T
-- [ ] D) U-A-G-C
-
-### Explicación Pedagógica
-
-**¿Por qué B es correcta?**
-Evalúa el conocimiento de la complementariedad de bases nitrogenadas del ADN: A siempre se une con T, y C siempre se une con G. Por tanto, el complemento de A-T-C-G es T-A-G-C.
-
-**Competencia evaluada:** Uso comprensivo del conocimiento científico
-**Componente:** Biología - Estructura del ADN
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5 (Medium B - Dificultad Medium)
@@ -153,30 +160,25 @@ Como el texto indica que "su orden determina las instrucciones para construir pr
 **Componente:** Biología - Mutaciones
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-BIO-11-genetica-002"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Biología - Genética Molecular y Cromosómica"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 6 (High A - Dificultad High)
-
-**ID:** "CO-BIO-11-genetica-002-v6"
-
-### Enunciado
-
-La hemofilia es una enfermedad ligada al cromosoma X. Si un hombre sano (XY) tiene hijos con una mujer portadora (XX*), ¿qué probabilidad hay de que nazca un hijo **varón** con hemofilia?
-
-### Opciones
-
-- [ ] A) 0%
-- [ ] B) 25%
-- [x] C) 50% de los varones.
-- [ ] D) 100%
-
-### Explicación Pedagógica
-
-**¿Por qué C es correcta?**
-El padre dona el Y a los varones. La madre tiene un X sano y un X enfermo (X*). Tiene 50% de probabilidad de pasar el X sano o el X* enfermo al hijo varón. Por tanto, la mitad de los hijos varones (50%) heredarán el X* y tendrán la enfermedad.
-
-**Competencia evaluada:** Indagación y uso de conocimiento
-**Componente:** Biología - Herencia Ligada al Sexo
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7 (High B - Dificultad High)

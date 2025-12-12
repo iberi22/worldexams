@@ -11,7 +11,10 @@ llm_model: unknown
 agent: legacy
 ide: unknown
 source: human-curated
-group_id: NAT21475
+group_id: NAT21475
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 # Pregunta
 Dos resistencias de 10 ohmios y 20 ohmios se conectan en serie a una batería de 60 voltios. ¿Cuál es la corriente que circula por el circuito?

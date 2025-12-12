@@ -14,7 +14,10 @@ generation_date: "2025-12-10"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"
-source_license: "Public Domain"
+source_license: "Public Domain"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1 (Original - Dificultad Medium)
@@ -39,28 +42,25 @@ El Artículo 49 de la Constitución establece que el Supremo Poder de la Federac
 Es la división clásica de poderes de una república. No confundir con los niveles de gobierno (Federal, Estatal, Municipal).
 
 ---
+# === METADATA GLOBAL ===
+id: "MX-CIV-11-POD-001"
+country: "mx"
+grado: 11
+asignatura: "Civismo"
+tema: "Poderes de la Unión"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Antigravity"
+generation_date: "2025-12-10"
 
-## Pregunta 2 (Low A - Dificultad Low)
-
-**ID:** "MX-CIV-11-POD-001-v2"
-
-### Enunciado
-
-# Pregunta
-¿Quién representa el Poder Ejecutivo a nivel federal en México?
-
-# Opciones
-- [ ] A) La Suprema Corte de Justicia
-- [x] B) El Presidente de la República
-- [ ] C) El Congreso de la Unión
-- [ ] D) Los Gobernadores
-
-# Explicación
-El Poder Ejecutivo Federal se deposita en un solo individuo denominado "Presidente de los Estados Unidos Mexicanos".
-
-### Explicación Pedagógica
-Identificación directa del titular del poder ejecutivo.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"
+source_license: "Public Domain"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3 (Low B - Dificultad Low)
@@ -85,28 +85,25 @@ El Poder Legislativo se deposita en un Congreso General, conocido como Congreso 
 Reconocer al organismo encargado de hacer las leyes.
 
 ---
+# === METADATA GLOBAL ===
+id: "MX-CIV-11-POD-001"
+country: "mx"
+grado: 11
+asignatura: "Civismo"
+tema: "Poderes de la Unión"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Antigravity"
+generation_date: "2025-12-10"
 
-## Pregunta 4 (Medium A - Dificultad Medium)
-
-**ID:** "MX-CIV-11-POD-001-v4"
-
-### Enunciado
-
-# Pregunta
-¿Cuál es la función principal del Poder Judicial de la Federación?
-
-# Opciones
-- [ ] A) Administrar los recursos públicos y hacer obras.
-- [ ] B) Crear y modificar las leyes del país.
-- [x] C) Interpretar las leyes y resolver conflictos entre particulares o entre poderes.
-- [ ] D) Organizar las elecciones federales.
-
-# Explicación
-La función del Poder Judicial (encabezado por la SCJN) es impartir justicia, interpretar la Constitución y las leyes, y proteger los derechos humanos (Amparo).
-
-### Explicación Pedagógica
-Distinguir la función jurisdiccional (juzgar) de la administrativa (ejecutar) o legislativa (legislar).
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"
+source_license: "Public Domain"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5 (Medium B - Dificultad Medium)
@@ -131,28 +128,25 @@ México tiene un sistema bicameral: Diputados (500) que representan a la poblaci
 Entender la estructura bicameral del legislativo mexicano.
 
 ---
+# === METADATA GLOBAL ===
+id: "MX-CIV-11-POD-001"
+country: "mx"
+grado: 11
+asignatura: "Civismo"
+tema: "Poderes de la Unión"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Antigravity"
+generation_date: "2025-12-10"
 
-## Pregunta 6 (High A - Dificultad High)
-
-**ID:** "MX-CIV-11-POD-001-v6"
-
-### Enunciado
-
-# Pregunta
-En el sistema de "pesos y contrapesos" mexicano, ¿qué facultad exclusiva tiene la Cámara de Diputados sobre el Poder Ejecutivo?
-
-# Opciones
-- [x] A) Aprobar el Presupuesto de Egresos de la Federación enviado por el Presidente.
-- [ ] B) Ratificar los tratados internacionales firmados por el Presidente.
-- [ ] C) Designar a los ministros de la Suprema Corte de Justicia.
-- [ ] D) Comandar a las Fuerzas Armadas en ausencia del Presidente.
-
-# Explicación
-La aprobación del Presupuesto de Egresos es facultad exclusiva de la Cámara de Diputados (Art. 74). La ratificación de tratados corresponde al Senado.
-
-### Explicación Pedagógica
-Requiere conocimiento específico de las facultades exclusivas de cada cámara y cómo estas controlan al Ejecutivo (control presupuestal).
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"
+source_license: "Public Domain"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7 (High B - Dificultad High)

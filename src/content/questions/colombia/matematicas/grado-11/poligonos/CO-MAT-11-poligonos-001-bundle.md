@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: Adaptado de Legacy
@@ -24,28 +27,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Migrado automáticamente de v1.0 y expandido con variaciones.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-poligonos-001"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Polígonos"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 1 (Original - Dificultad Medium)
-
-**ID:** "CO-MAT-11-poligonos-001-v1"
-
-### Enunciado
-
-¿Cuántos lados tiene un cuadrado?
-
-### Opciones
-
-- [ ] A) 3
-- [x] B) 4
-- [ ] C) 5
-- [ ] D) 6
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** B
-
-Un cuadrado es un polígono regular con 4 lados iguales y 4 ángulos rectos.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 2 (Low A - Dificultad Low)
@@ -70,28 +70,25 @@ Un cuadrado es un polígono regular con 4 lados iguales y 4 ángulos rectos.
 Para cerrar una figura plana con lados rectos se necesitan al menos 3 lados.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-poligonos-001"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Polígonos"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 3 (Low B - Dificultad Low)
-
-**ID:** "CO-MAT-11-poligonos-001-v3"
-
-### Enunciado
-
-Si una figura geométrica tiene 4 lados, pertenece a la familia de los:
-
-### Opciones
-
-- [ ] A) Triángulos
-- [x] B) Cuadriláteros
-- [ ] C) Pentágonos
-- [ ] D) Hexágonos
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** B
-
-Cualquier polígono de 4 lados (cuadrado, rectángulo, rombo, trapecio) es un cuadrilátero.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 4 (Medium A - Dificultad Medium)
@@ -116,28 +113,25 @@ Cualquier polígono de 4 lados (cuadrado, rectángulo, rombo, trapecio) es un cu
 El rombo es un cuadrilátero con todos sus lados de igual longitud. A diferencia del cuadrado, sus ángulos no tienen que ser de 90°.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-poligonos-001"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Polígonos"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 5 (Medium B - Dificultad Medium)
-
-**ID:** "CO-MAT-11-poligonos-001-v5"
-
-### Enunciado
-
-¿Qué diferencia principal hay entre un rectángulo y un cuadrado?
-
-### Opciones
-
-- [ ] A) El número de lados
-- [x] B) La longitud de los lados
-- [ ] C) La medida de los ángulos internos
-- [ ] D) El número de diagonales
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** B
-
-Ambos tienen 4 lados y 4 ángulos rectos. Pero en el cuadrado **todos** los lados son iguales, mientras que en el rectángulo solo los opuestos son iguales.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 6 (High A - Dificultad High)
@@ -162,28 +156,25 @@ Un trapecio isósceles se caracteriza por tener:
 Tiene un par de lados paralelos (bases) y los lados no paralelos (piernas) son congruentes.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-poligonos-001"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Polígonos"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 7 (High B - Dificultad High)
-
-**ID:** "CO-MAT-11-poligonos-001-v7"
-
-### Enunciado
-
-Si un cuadrilátero tiene sus lados opuestos paralelos y congruentes, y sus diagonales se bisecan pero no son perpendiculares, probablemente es un:
-
-### Opciones
-
-- [ ] A) Trapezoide
-- [ ] B) Rombo
-- [x] C) Paralelogramo (Romboide)
-- [ ] D) Cometa
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** C
-
-Esta es la definición general de un paralelogramo que no es ni rombo (diagonales perpendiculares) ni rectángulo (diagonales congruentes).
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Metadata de Validacion

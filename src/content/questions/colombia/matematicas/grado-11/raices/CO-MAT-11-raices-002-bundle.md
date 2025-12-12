@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: Adaptado de Legacy
@@ -24,28 +27,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Migrado automáticamente de v1.0 y expandido con variaciones.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-raices-002"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Raíces"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 1 (Original - Dificultad Medium)
-
-**ID:** "CO-MAT-11-raices-002-v1"
-
-### Enunciado
-
-Un parque cuadrado en Bogotá tiene un área de 64 metros cuadrados. ¿Cuál es la longitud de cada lado del parque?
-
-### Opciones
-
-- [ ] A) 6 metros
-- [ ] B) 16 metros
-- [x] C) 8 metros
-- [ ] D) 32 metros
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** C
-
-$L^2 = 64 \rightarrow L = \sqrt{64} = 8$.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 2 (Low A - Dificultad Low)
@@ -70,28 +70,25 @@ El área de un tapete cuadrado es 9 $m^2$. ¿Cuánto mide su lado?
 $\sqrt{9} = 3$.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-raices-002"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Raíces"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 3 (Low B - Dificultad Low)
-
-**ID:** "CO-MAT-11-raices-002-v3"
-
-### Enunciado
-
-Si un terreno cuadrado tiene $100 m^2$ de área, cada lado mide:
-
-### Opciones
-
-- [ ] A) 50 m
-- [x] B) 10 m
-- [ ] C) 25 m
-- [ ] D) 20 m
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** B
-
-$\sqrt{100} = 10$.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 4 (Medium A - Dificultad Medium)
@@ -119,29 +116,25 @@ Nueva área = $24^2 = 576$.
 (Al duplicar el lado, el área se cuadruplica: $144 \times 4 = 576$).
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-raices-002"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Raíces"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 5 (Medium B - Dificultad Medium)
-
-**ID:** "CO-MAT-11-raices-002-v5"
-
-### Enunciado
-
-Si el área de un círculo es $A = \pi r^2$, para despejar el radio $r$ usamos:
-
-### Opciones
-
-- [ ] A) $r = A / \pi$
-- [x] B) $r = \sqrt{A / \pi}$
-- [ ] C) $r = (A / \pi)^2$
-- [ ] D) $r = A - \pi$
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** B
-
-1. $r^2 = A / \pi$.
-2. $r = \sqrt{A / \pi}$.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 6 (High A - Dificultad High)
@@ -168,29 +161,25 @@ $15^2 = 225$.
 $200$ está entre $196$ y $225$, así que la raíz está entre $14$ y $15$.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-MAT-11-raices-002"
+country: "co"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Raíces"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "review"
+creador: "Migrator-AI"
+generation_date: "2025-12-07"
 
-## Pregunta 7 (High B - Dificultad High)
-
-**ID:** "CO-MAT-11-raices-002-v7"
-
-### Enunciado
-
-Si el volumen de un cubo es $27 m^3$, ¿cuánto mide su arista?
-
-### Opciones
-
-- [x] A) 3 m
-- [ ] B) 9 m
-- [ ] C) 6 m
-- [ ] D) 3.33 m
-
-### Explicación Pedagógica
-
-**Respuesta correcta:** A
-
-Se usa la raíz **cúbica**.
-$\sqrt[3]{27} = 3$ porque $3 \times 3 \times 3 = 27$.
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Metadata de Validacion

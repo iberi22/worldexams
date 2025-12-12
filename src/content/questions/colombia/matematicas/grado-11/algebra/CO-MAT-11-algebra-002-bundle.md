@@ -27,7 +27,10 @@ componente: "Numérico-variacional"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad-Matemáticas", "SAT-Math"]
+applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad-Matemáticas", "SAT-Math"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Bundle: Resolución Analítica (Álgebra)
@@ -38,19 +41,38 @@ applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad-Matemáticas", "S
 > **Contexto:** Matemáticas puras y aplicadas
 
 ---
+id: "CO-MAT-11-algebra-002"
+country: "CO"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Álgebra - Cuadráticas e Inecuaciones"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## 📊 Metadata de Validación
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-MAT-011-002"
+original_concept: "Resolución de ecuaciones cuadráticas y desigualdades"
+competencia_icfes: "Resolución - Ejecución de procedimientos algebraicos"
+componente: "Numérico-variacional"
 
-| Pregunta | ID | Dificultad | Competencia ICFES | Componente | Validado |
-|----------|-----|------------|-------------------|------------|----------|
-| 1 | CO-MAT-11-algebra-002-v1 | Medium | Resolución | Numérico-variacional | ⬜ |
-| 2 | CO-MAT-11-algebra-002-v2 | Low | Ejecución | Numérico-variacional | ⬜ |
-| 3 | CO-MAT-11-algebra-002-v3 | Low | Resolución | Numérico-variacional | ⬜ |
-| 4 | CO-MAT-11-algebra-002-v4 | Medium | Resolución | Numérico-variacional | ⬜ |
-| 5 | CO-MAT-11-algebra-002-v5 | Medium | Formulación | Numérico-variacional | ⬜ |
-| 6 | CO-MAT-11-algebra-002-v6 | High | Razonamiento | Numérico-variacional | ⬜ |
-| 7 | CO-MAT-11-algebra-002-v7 | High | Resolución | Numérico-variacional | ⬜ |
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad-Matemáticas", "SAT-Math"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1 (Original - Dificultad Medium)
@@ -85,31 +107,38 @@ El vértice es **$(1, -1)$**.
 **Competencia evaluada:** Ejecución - cálculo de elementos de la parábola
 
 ---
+id: "CO-MAT-11-algebra-002"
+country: "CO"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Álgebra - Cuadráticas e Inecuaciones"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 2 (Low A - Dificultad Low)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-MAT-011-002"
+original_concept: "Resolución de ecuaciones cuadráticas y desigualdades"
+competencia_icfes: "Resolución - Ejecución de procedimientos algebraicos"
+componente: "Numérico-variacional"
 
-**ID:** `CO-MAT-11-algebra-002-v2`
-
-### Enunciado
-
-Considere la función $f(x) = x^2 - 4x + 3$. Identifique las coordenadas del vértice de su gráfica.
-
-### Opciones
-
-- [ ] A) $(2, -2)$
-- [ ] B) $(-2, 15)$
-- [x] C) $(2, -1)$
-- [ ] D) $(-2, -1)$
-
-### Explicación Pedagógica
-
-Usando la fórmula del vértice:
-1.  $h = \frac{-b}{2a} = \frac{-(-4)}{2(1)} = \frac{4}{2} = 2$.
-2.  Evaluamos $f(2) = (2)^2 - 4(2) + 3 = 4 - 8 + 3 = -1$.
-3.  Vértice: $(2, -1)$.
-
-**Competencia evaluada:** Ejecución - cálculo básico de vértice
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad-Matemáticas", "SAT-Math"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3 (Low B - Dificultad Low)
@@ -139,31 +168,38 @@ Resolución paso a paso:
 **Competencia evaluada:** Resolución - desigualdades lineales simples
 
 ---
+id: "CO-MAT-11-algebra-002"
+country: "CO"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Álgebra - Cuadráticas e Inecuaciones"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 4 (Medium A - Dificultad Medium)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-MAT-011-002"
+original_concept: "Resolución de ecuaciones cuadráticas y desigualdades"
+competencia_icfes: "Resolución - Ejecución de procedimientos algebraicos"
+componente: "Numérico-variacional"
 
-**ID:** `CO-MAT-11-algebra-002-v4`
-
-### Enunciado
-
-¿Cuáles son las raíces (soluciones) de la ecuación cuadrática $x^2 - 5x + 6 = 0$?
-
-### Opciones
-
-- [x] A) $x = 2$ y $x = 3$
-- [ ] B) $x = -2$ y $x = -3$
-- [ ] C) $x = 1$ y $x = 6$
-- [ ] D) $x = -1$ y $x = -6$
-
-### Explicación Pedagógica
-
-Podemos factorizar el trinomio buscando dos números que multiplicados den $+6$ y sumados den $-5$.
-*   Los números son $-2$ y $-3$.
-*   $(x - 2)(x - 3) = 0$
-*   Por la propiedad del producto cero: $x - 2 = 0 \implies x = 2$ o $x - 3 = 0 \implies x = 3$.
-
-**Competencia evaluada:** Resolución - factorización de ecuaciones cuadráticas
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad-Matemáticas", "SAT-Math"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5 (Medium B - Dificultad Medium)
@@ -198,37 +234,38 @@ $x = 7$
 **Competencia evaluada:** Formulación - modelamiento con ecuaciones lineales
 
 ---
+id: "CO-MAT-11-algebra-002"
+country: "CO"
+grado: 11
+asignatura: "Matemáticas"
+tema: "Álgebra - Cuadráticas e Inecuaciones"
+dificultad: "Medium"
+estado: "draft"
+creador: "Copilot"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 6 (High A - Dificultad High)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-MAT-011-002"
+original_concept: "Resolución de ecuaciones cuadráticas y desigualdades"
+competencia_icfes: "Resolución - Ejecución de procedimientos algebraicos"
+componente: "Numérico-variacional"
 
-**ID:** `CO-MAT-11-algebra-002-v6`
-
-### Enunciado
-
-Determine el conjunto solución de la inecuación cuadrática:
-$$x^2 - 9 > 0$$
-
-### Opciones
-
-- [ ] A) $(-3, 3)$
-- [x] B) $(-\infty, -3) \cup (3, \infty)$
-- [ ] C) $(3, \infty)$
-- [ ] D) $[-3, 3]$
-
-### Explicación Pedagógica
-
-1.  Factorizamos: $(x - 3)(x + 3) > 0$.
-2.  Puntos críticos: $x = 3, x = -3$.
-3.  Evaluamos intervalos en la recta real:
-    *   $x < -3$ (ej: -4): $(-)(-) = (+)$ **Cumple**
-    *   $-3 < x < 3$ (ej: 0): $(-)(+) = (-)$ No cumple
-    *   $x > 3$ (ej: 4): (+)(+) = (+) **Cumple**
-
-Solución: Unión de intervalos positivos.
-$(-\infty, -3) \cup (3, \infty)$.
-
-**Competencia evaluada:** Razonamiento - desigualdades cuadráticas
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad-Matemáticas", "SAT-Math"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7 (High B - Dificultad High)

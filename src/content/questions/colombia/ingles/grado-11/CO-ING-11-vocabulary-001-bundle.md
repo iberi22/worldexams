@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: Opposites Guide
@@ -22,15 +25,25 @@ source_license: "CC BY-SA 4.0"
 > **Note:** Vocabulary Guide - Common Adjectives.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-ING-11-vocabulary-001"
+country: "co"
+grado: 11
+asignatura: "Inglés"
+tema: "Vocabulary - Adjectives"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-# Text Base
-
-"Adjectives describe qualities of nouns. Knowing **opposites** (antonyms) helps expand vocabulary:
-*   **Expensive** (High price) $\leftrightarrow$ **Cheap** (Low price).
-*   **Huge** (Very big) $\leftrightarrow$ **Tiny** (Very small).
-*   **Noisy** (Loud sound) $\leftrightarrow$ **Quiet** (Little or no sound).
-*   **Safe** (Protected) $\leftrightarrow$ **Dangerous** (Risky)."
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1 (Original - Dificultad Medium)
@@ -57,30 +70,25 @@ What is the opposite of "expensive"?
 **Componente:** Vocabulary
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-ING-11-vocabulary-001"
+country: "co"
+grado: 11
+asignatura: "Inglés"
+tema: "Vocabulary - Adjectives"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 2 (Low A - Dificultad Low)
-
-**ID:** "CO-ING-11-vocabulary-001-v2"
-
-### Enunciado
-
-Which word means "Very small"?
-
-### Opciones
-
-- [ ] A) Huge
-- [x] B) Tiny
-- [ ] C) Big
-- [ ] D) Tall
-
-### Explicación Pedagógica
-
-**¿Por qué B es correcta?**
-El texto define: "**Tiny** (Very small)".
-
-**Competencia evaluada:** Léxico - Definiciones
-**Componente:** Vocabulary
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3 (Low B - Dificultad Low)
@@ -107,30 +115,25 @@ Por contexto, una biblioteca requiere silencio. "Quiet" (silencioso) es la cuali
 **Componente:** Vocabulary
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-ING-11-vocabulary-001"
+country: "co"
+grado: 11
+asignatura: "Inglés"
+tema: "Vocabulary - Adjectives"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 4 (Medium A - Dificultad Medium)
-
-**ID:** "CO-ING-11-vocabulary-001-v4"
-
-### Enunciado
-
-A Ferrari costs a lot of money. It is an ______ car.
-
-### Opciones
-
-- [x] A) expensive
-- [ ] B) cheap
-- [ ] C) tiny
-- [ ] D) quiet
-
-### Explicación Pedagógica
-
-**¿Por qué A es correcta?**
-Si algo "costs a lot of money" (cuesta mucho dinero), el adjetivo correcto es "expensive".
-
-**Competencia evaluada:** Léxico en Contexto - Sinónimos/Definición
-**Componente:** Vocabulary
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5 (Medium B - Dificultad Medium)
@@ -158,47 +161,25 @@ El comparativo de adjetivos cortos ("cheap") se forma agregando **-er**. "Cheape
 **Componente:** Vocabulary/Grammar
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-ING-11-vocabulary-001"
+country: "co"
+grado: 11
+asignatura: "Inglés"
+tema: "Vocabulary - Adjectives"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 6 (High A - Dificultad High)
-
-**ID:** "CO-ING-11-vocabulary-001-v6"
-
-### Enunciado
-
-Which of the following pairings is INCORRECT?
-
-### Opciones
-
-- [ ] A) Safe - Dangerous
-- [ ] B) Huge - Tiny
-- [x] C) Costly - Cheap
-- [ ] D) Noisy - Loud
-
-### Explicación Pedagógica
-
-**¿Por qué D es correcta?**
-Wait. Let me re-read "Which pairing is INCORRECT?".
-Options A (Antonyms), B (Antonyms), C (Antonyms - Costly is syn to Expensive, so Costly-Cheap is Antonym pair).
-Option D: Noisy - Loud. These are **Synonyms**, not Antonyms. The other pairs (if C is interpreted as Antonym) are opposites.
-Let's clarify C: Costly vs Cheap. Costly = Expensive. So Costly vs Cheap is an Antonym pair.
-So A, B, C are Antonyms.
-D (Noisy - Loud) are Synonyms.
-So if the pattern is "Find the pair that is NOT an antonym pair", D is the odd one out.
-Or simply, "Which pairing involves synonyms instead of opposites?".
-Let's adjust the question to be clearer. "Which pair contains synonyms?" No, "Noisy - Quiet" was the text example.
-I will change D to "Noisy - Quiet" to be correct, and C to "Costly - Expensive" as the target if I want synonyms.
-Let's stick to the prompt "Which pairing is INCORRECT based on the text's logic of Opposites?".
-Text logic: X <-> Y (Opposites).
-A: Safe - Dangerous (Correct Opposites).
-B: Huge - Tiny (Correct Opposites).
-C: Costly - Cheap (Correct Opposites).
-D: Noisy - Loud (Synonyms).
-So D is the one that breaks the "Opposite" logic.
-Explanation: "Noisy" y "Loud" son sinónimos, no antónimos. El antónimo de Noisy es Quiet.
-
-**Competencia evaluada:** Relaciones Semánticas
-**Componente:** Vocabulary - Synonyms vs Antonyms
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7 (High B - Dificultad High)

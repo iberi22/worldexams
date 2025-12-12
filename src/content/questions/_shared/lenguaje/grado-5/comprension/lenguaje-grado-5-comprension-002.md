@@ -11,7 +11,10 @@ llm_model: gemini-2.0-flash
 agent: The Professor
 ide: VS Code
 source: synthetic
-group_id: GEN36817
+group_id: GEN36817
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 # Pregunta
 

@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: El Experimento de Galileo
@@ -22,11 +25,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Texto expositivo sobre Caída Libre.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-FIS-11-mecanica-003"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Física - Mecánica (Caída Libre)"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-# Texto Base
-
-"La **caída libre** es un movimiento uniformemente acelerado donde la única fuerza que actúa sobre el objeto es la gravedad. Cerca de la superficie terrestre, todos los objetos caen con una aceleración constante aproximada de $g = 9.8 \text{ m/s}^2$ (o $10 \text{ m/s}^2$ para cálculos rápidos). Un descubrimiento fundamental de Galileo Galilei fue que, en ausencia de resistencia del aire, **todos los objetos caen con la misma aceleración sin importar su masa**. Es decir, una pluma y un martillo soltados al mismo tiempo en el vacío tocarán el suelo simultáneamente."
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1 (Original - Dificultad Medium)
@@ -53,30 +70,25 @@ Usando la ecuación de caída libre $v^2 = v_0^2 + 2gh$, donde $v_0 = 0$ (se dej
 **Componente:** Mecánica - Caída Libre
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-FIS-11-mecanica-003"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Física - Mecánica (Caída Libre)"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 2 (Low A - Dificultad Low)
-
-**ID:** "CO-FIS-11-mecanica-003-v2"
-
-### Enunciado
-
-Según el texto, ¿cuál es la única fuerza que actúa sobre un objeto en caída libre ideal?
-
-### Opciones
-
-- [ ] A) La resistencia del aire.
-- [ ] B) El magnetismo terrestre.
-- [x] C) La gravedad.
-- [ ] D) La fuerza centrífuga.
-
-### Explicación Pedagógica
-
-**¿Por qué C es correcta?**
-El texto lo define claramente: "la única fuerza que actúa sobre el objeto es la gravedad".
-
-**Competencia evaluada:** Uso comprensivo del conocimiento científico
-**Componente:** Mecánica - Conceptos Básicos
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3 (Low B - Dificultad Low)
@@ -103,34 +115,25 @@ El texto explica el principio de Galileo: "en ausencia de resistencia del aire..
 **Componente:** Mecánica - Independencia de la Masa
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-FIS-11-mecanica-003"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Física - Mecánica (Caída Libre)"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 4 (Medium A - Dificultad Medium)
-
-**ID:** "CO-FIS-11-mecanica-003-v4"
-
-### Enunciado
-
-Si se lanza una piedra hacia arriba con una velocidad inicial de 30 m/s (usan $g = 10 \text{ m/s}^2$), ¿cuánto tiempo tardará en alcanzar su altura máxima (donde su velocidad se hace cero)?
-
-### Opciones
-
-- [ ] A) 1 segundo
-- [ ] B) 2 segundos
-- [x] C) 3 segundos
-- [ ] D) 10 segundos
-
-### Explicación Pedagógica
-
-**¿Por qué C es correcta?**
-La gravedad desacelera la piedra a razón de 10 m/s cada segundo. Si inicia con 30 m/s:
-- 1 seg: 20 m/s
-- 2 seg: 10 m/s
-- 3 seg: 0 m/s
-Fórmula: $t = v_0 / g = 30 / 10 = 3 \text{ s}$.
-
-**Competencia evaluada:** Uso comprensivo del conocimiento científico
-**Componente:** Mecánica - Tiro Vertical
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5 (Medium B - Dificultad Medium)
@@ -157,30 +160,25 @@ Aunque la *velocidad* sea cero en el punto más alto, la fuerza de **gravedad** 
 **Componente:** Mecánica - Conceptos Vectoriales
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-FIS-11-mecanica-003"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Física - Mecánica (Caída Libre)"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 6 (High A - Dificultad High)
-
-**ID:** "CO-FIS-11-mecanica-003-v6"
-
-### Enunciado
-
-Dos objetos se lanzan horizontalmente desde una mesa de 1 metro de altura. El objeto A sale con una velocidad de 2 m/s y el objeto B con 4 m/s. Despreciando el aire, ¿cuál llega primero al suelo?
-
-### Opciones
-
-- [ ] A) El objeto B porque va más rápido.
-- [ ] B) El objeto A porque va más lento y "cae" antes.
-- [x] C) Ambos llegan exactamente al mismo tiempo.
-- [ ] D) Depende de sus masas.
-
-### Explicación Pedagógica
-
-**¿Por qué C es correcta?**
-El movimiento vertical es independiente del horizontal. Ambos inician con velocidad vertical cero y caen la misma altura acelerados por la misma gravedad. Por tanto, su tiempo de caída es idéntico, aunque B llegará más lejos horizontalmente.
-
-**Competencia evaluada:** Indagación y uso de conocimiento
-**Componente:** Mecánica - Movimiento Parabólico
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7 (High B - Dificultad High)

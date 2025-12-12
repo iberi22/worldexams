@@ -8,7 +8,10 @@ dificultad: 2
 estado: "draft"
 creador: "AI-Saber"
 protocol_version: "2.0"
-source: "human-curated"
+source: "human-curated"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 # Pregunta
 Match the definition with the correct word.

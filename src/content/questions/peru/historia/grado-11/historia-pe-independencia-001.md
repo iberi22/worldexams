@@ -8,7 +8,10 @@ tema: Independencia
 dificultad: 3
 estado: published
 creador: AI-WorldExams
-source: Admisión
+source: Admisión
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 # Pregunta
 ¿Quién proclamó la independencia del Perú el 28 de julio de 1821?

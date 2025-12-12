@@ -12,6 +12,10 @@ export interface Question {
   explanation?: string;
   grade: number;
   difficulty: number;
+  licenses?: {
+    v1: string;      // "CC BY-SA 4.0" - Uso comercial permitido
+    'v2-v7': string; // "CC BY-NC-SA 4.0" - Solo no-comercial
+  };
 }
 
 export interface LeaderboardEntry {

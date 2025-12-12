@@ -27,7 +27,10 @@ componente: "Variacional"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber9"]
+applicable_exams: ["CO-Saber9"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Bundle: Álgebra Básica y Ecuaciones
@@ -36,31 +39,38 @@ applicable_exams: ["CO-Saber9"]
 > **Componente:** Variacional
 
 ---
+id: "CO-MAT-09-algebra-mix-001"
+country: "CO"
+grado: 9
+asignatura: "Matemáticas"
+tema: "Álgebra - Ecuaciones"
+dificultad: "Medium"
+estado: "draft"
+creador: "Antigravity"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 1 (Original - Dificultad Medium)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-MAT-009-ALG-MIX"
+original_concept: "Ecuaciones Lineales"
+competencia_icfes: "Formulación y ejecución"
+componente: "Variacional"
 
-**ID:** `CO-MAT-09-algebra-mix-001-v1`
-
-### Enunciado
-
-Si $3x + 5 = 20$, ¿cuál es el valor de $x$?
-
-### Opciones
-
-- [x] A) 5
-- [ ] B) 15
-- [ ] C) 3
-- [ ] D) 4
-
-### Explicación Pedagógica
-
-Despeje básico:
-$3x = 20 - 5$
-$3x = 15$
-$x = 15 / 3 = 5$.
-
-**Competencia evaluada:** Formulación - Despeje de incógnita.
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber9"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -85,31 +95,38 @@ $x = 10 + 7 = 17$.
 **Competencia evaluada:** Formulación - Ecuación simple.
 
 ---
+id: "CO-MAT-09-algebra-mix-001"
+country: "CO"
+grado: 9
+asignatura: "Matemáticas"
+tema: "Álgebra - Ecuaciones"
+dificultad: "Medium"
+estado: "draft"
+creador: "Antigravity"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 3 (Media - Dificultad 3)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-MAT-009-ALG-MIX"
+original_concept: "Ecuaciones Lineales"
+competencia_icfes: "Formulación y ejecución"
+componente: "Variacional"
 
-**ID:** `CO-MAT-09-algebra-mix-001-v3`
-
-### Enunciado
-
-Si $2(x + 1) = 12$, halle $x$.
-
-### Opciones
-
-- [ ] A) 6
-- [x] B) 5
-- [ ] C) 4
-- [ ] D) 7
-
-### Explicación Pedagógica
-
-$2x + 2 = 12$
-$2x = 10$
-$x = 5$.
-O dividiendo primero: $x+1 = 6 \rightarrow x=5$.
-
-**Competencia evaluada:** Ejecución - Propiedad distributiva.
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber9"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -136,32 +153,38 @@ $x = 8$.
 **Competencia evaluada:** Formulación - Lenguaje algebraico.
 
 ---
+id: "CO-MAT-09-algebra-mix-001"
+country: "CO"
+grado: 9
+asignatura: "Matemáticas"
+tema: "Álgebra - Ecuaciones"
+dificultad: "Medium"
+estado: "draft"
+creador: "Antigravity"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 5 (Difícil - Dificultad 4)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-MAT-009-ALG-MIX"
+original_concept: "Ecuaciones Lineales"
+competencia_icfes: "Formulación y ejecución"
+componente: "Variacional"
 
-**ID:** `CO-MAT-09-algebra-mix-001-v5`
-
-### Enunciado
-
-Resuelva el sistema de ecuaciones:
-1) $x + y = 10$
-2) $x - y = 2$
-
-### Opciones
-
-- [ ] A) x=5, y=5
-- [ ] B) x=8, y=2
-- [x] C) x=6, y=4
-- [ ] D) x=7, y=3
-
-### Explicación Pedagógica
-
-Método de reducción (sumar las ecuaciones):
-$2x = 12 \rightarrow x = 6$.
-Reemplazar en (1): $6 + y = 10 \rightarrow y = 4$.
-
-**Competencia evaluada:** Resolución - Sistemas 2x2.
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber9"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -187,31 +210,38 @@ O despejando: $x^2 = 16 \rightarrow x = \pm \sqrt{16} = \pm 4$.
 **Competencia evaluada:** Argumentación - Ecuaciones cuadráticas.
 
 ---
+id: "CO-MAT-09-algebra-mix-001"
+country: "CO"
+grado: 9
+asignatura: "Matemáticas"
+tema: "Álgebra - Ecuaciones"
+dificultad: "Medium"
+estado: "draft"
+creador: "Antigravity"
+source_lang: "es-CO"
+llm_model: "Cascade"
+agent: "Cascade"
+ide: "VS Code"
+bundle_version: "2.1"
+total_questions: 7
+difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
+generation_date: "2025-12-06"
 
-## Pregunta 7 (Difícil - Dificultad 5)
+# === SOURCE ATTRIBUTION ===
+source: "ICFES-Curriculum"
+source_url: "https://www.icfes.gov.co"
+source_license: "Educational Use - Colombian Curriculum"
+source_id: "ICFES-MAT-009-ALG-MIX"
+original_concept: "Ecuaciones Lineales"
+competencia_icfes: "Formulación y ejecución"
+componente: "Variacional"
 
-**ID:** `CO-MAT-09-algebra-mix-001-v7`
-
-### Enunciado
-
-¿Cuál expresión representa "el triple del cuadrado de un número menos cinco"?
-
-### Opciones
-
-- [ ] A) $(3x)^2 - 5$
-- [x] B) $3x^2 - 5$
-- [ ] C) $3(x^2 - 5)$
-- [ ] D) $3x - 5^2$
-
-### Explicación Pedagógica
-
-La jerarquía es clave:
-1. Cuadrado de un número: $x^2$
-2. Triple de eso: $3x^2$
-3. Menos cinco: $3x^2 - 5$.
-
-**Competencia evaluada:** Interpretación - Lenguaje algebraico.
-
+# === UNIVERSAL SHARING ===
+universal_question: true
+applicable_exams: ["CO-Saber9"]
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## 📊 Metadata de Validación

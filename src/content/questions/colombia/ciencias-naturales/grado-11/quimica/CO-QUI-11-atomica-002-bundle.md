@@ -14,7 +14,10 @@ generation_date: "2025-12-07"
 
 # === SOURCE ATTRIBUTION ===
 source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 # Pregunta Base: El Mapa de la Química
@@ -22,11 +25,25 @@ source_license: "CC BY-SA 4.0"
 > **Nota:** Texto expositivo sobre la Tabla Periódica.
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-QUI-11-atomica-002"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Química - Tabla Periódica"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-# Texto Base
-
-"La Tabla Periódica organiza los elementos químicos según su Número Atómico ($Z$). Las filas horizontales se llaman **Periodos** (indican los niveles de energía) y las columnas verticales se denominan **Grupos** (indican los electrones de valencia). Las propiedades periódicas, como la **Electronegatividad** (capacidad para atraer electrones) y el **Radio Atómico** (tamaño del átomo), varían de manera predecible: la electronegatividad aumenta de izquierda a derecha y de abajo hacia arriba."
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 1 (Original - Dificultad Medium)
@@ -53,30 +70,25 @@ En un átomo neutro, el número de protones (carga positiva) es igual al número
 **Componente:** Química - Neutralidad Eléctrica
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-QUI-11-atomica-002"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Química - Tabla Periódica"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 2 (Low A - Dificultad Low)
-
-**ID:** "CO-QUI-11-atomica-002-v2"
-
-### Enunciado
-
-Según el texto, ¿cómo se denominan las columnas verticales de la Tabla Periódica?
-
-### Opciones
-
-- [ ] A) Periodos.
-- [ ] B) Niveles.
-- [x] C) Grupos.
-- [ ] D) Isótopos.
-
-### Explicación Pedagógica
-
-**¿Por qué C es correcta?**
-El texto indica directo: "las columnas verticales se denominan Grupos".
-
-**Competencia evaluada:** Uso comprensivo del conocimiento científico
-**Componente:** Química - Organización Periódica
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 3 (Low B - Dificultad Low)
@@ -103,30 +115,25 @@ El texto define: "Electronegatividad (capacidad para atraer electrones)".
 **Componente:** Química - Propiedades Periódicas
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-QUI-11-atomica-002"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Química - Tabla Periódica"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 4 (Medium A - Dificultad Medium)
-
-**ID:** "CO-QUI-11-atomica-002-v4"
-
-### Enunciado
-
-Si el Magnesio se encuentra en el Grupo IIA (2) de la tabla periódica, ¿cuántos electrones de valencia tiene?
-
-### Opciones
-
-- [ ] A) 1
-- [x] B) 2
-- [ ] C) 8
-- [ ] D) 12
-
-### Explicación Pedagógica
-
-**¿Por qué B es correcta?**
-Para los elementos representativos (grupos A), el número del grupo en romano indica directamente la cantidad de electrones de valencia. Grupo IIA = 2 electrones de valencia.
-
-**Competencia evaluada:** Uso comprensivo del conocimiento científico
-**Componente:** Química - Electrones de Valencia
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 5 (Medium B - Dificultad Medium)
@@ -153,32 +160,25 @@ El texto dice que "la electronegatividad aumenta de izquierda a derecha y de aba
 **Componente:** Química - Tendencias Periódicas
 
 ---
+# === METADATA GLOBAL ===
+id: "CO-QUI-11-atomica-002"
+country: "co"
+grado: 11
+asignatura: "Ciencias Naturales"
+tema: "Química - Tabla Periódica"
+protocol_version: "2.0"
+total_questions: 7
+difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
+estado: "public"
+creador: "Antigravity-Agent"
+generation_date: "2025-12-07"
 
-## Pregunta 6 (High A - Dificultad High)
-
-**ID:** "CO-QUI-11-atomica-002-v6"
-
-### Enunciado
-
-Comparando el Sodio (Na, Grupo I) y el Cloro (Cl, Grupo VII), es de esperarse que el Cloro tenga:
-
-### Opciones
-
-- [ ] A) Mayor radio atómico y menor electronegatividad.
-- [ ] B) Menor electronegatividad y menor energía de ionización.
-- [x] C) Mayor electronegatividad y menor radio atómico.
-- [ ] D) Igual tamaño y reactividad que el Sodio.
-
-### Explicación Pedagógica
-
-**¿Por qué C es correcta?**
-Al moverse de izquierda a derecha en un periodo (de Na a Cl), la carga nuclear aumenta, atrayendo más a los electrones. Esto causa que:
-1.  El radio atómico disminuya (se "contrae").
-2.  La electronegatividad aumente (atrae más fuerte).
-
-**Competencia evaluada:** Indagación y uso de conocimiento
-**Componente:** Química - Relación de Propiedades
-
+# === SOURCE ATTRIBUTION ===
+source_url: "https://www.icfes.gov.co"
+source_license: "CC BY-SA 4.0"
+licenses:
+  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
+  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
 ---
 
 ## Pregunta 7 (High B - Dificultad High)
