@@ -1,7 +1,7 @@
 # 📱 Roadmap: Aplicaciones Nativas (Fase Final)
 
-**Estado:** 🔮 Futuro (después de PWA estable)  
-**Fecha planeada:** Q2 2026  
+**Estado:** 🔮 Futuro (después de PWA estable)
+**Fecha planeada:** Q2 2026
 **Prioridad:** BAJA
 
 ---
@@ -174,7 +174,7 @@ El código de `host-app/` (Tauri Android) y `party-server-rust/` está **depreca
 
 ---
 
-**Decisión:** Mantener foco en PWA hasta validar product-market fit.  
+**Decisión:** Mantener foco en PWA hasta validar product-market fit.
 **Revisión:** Q1 2026 (evaluar métricas de uso)
 
 ---

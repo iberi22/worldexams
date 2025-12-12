@@ -26,7 +26,8 @@ dist/
 .env
 .env.*
 !.env.example
-
+# config
+.vscode/
 # Saberparatodos Secrets
 saberparatodos/.env
 saberparatodos/.env.*
