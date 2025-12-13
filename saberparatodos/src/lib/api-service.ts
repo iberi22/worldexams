@@ -5,7 +5,7 @@
 
 // API Configuration - Can be overridden via environment variables
 const API_BASE_URL = import.meta.env.PUBLIC_API_BASE_URL || 'https://worldexams.pages.dev/api/v1';
-const COUNTRY_CODE = 'CO';
+const COUNTRY_CODE = 'co';
 const EXAM_TYPE = 'icfes';
 
 export interface APIQuestion {
