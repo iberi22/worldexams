@@ -18,7 +18,7 @@ export default defineConfig({
       use: { ...devices['Desktop Chrome'] },
     },
   ],
-  
+
   // Web Server Configuration - Auto-start dev server for tests
   webServer: process.env.CI ? undefined : {
     command: 'npm run dev',

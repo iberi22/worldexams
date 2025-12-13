@@ -20,45 +20,45 @@ test.describe('Party Mode - Smoke Test', () => {
 
     console.log('\n📝 TEST: Accediendo a /party...');
     await hostPage.goto('/party');
-    
+
     // El componente crea el party automáticamente al montar
     // Esperar a que aparezca indicación de que party fue creada
     console.log('⏳ Esperando indicadores de party creado...');
-    
+
     // Buscar elementos que indiquen que el party está activo
     // Puede ser: "Código", "Party ID", estado "lobby", etc.
     const pageContent = await hostPage.content();
     console.log('📄 Contenido de página recibido');
-    
+
     // Verificar que la página cargó (no es 404)
     const is404 = await hostPage.locator('text=/404|not found/i').count();
     expect(is404).toBe(0);
     console.log('✅ Página /party carga correctamente (no 404)');
 
     // Verificar que hay contenido de party (no página vacía)
-    const hasPartyContent = pageContent.includes('party') || 
+    const hasPartyContent = pageContent.includes('party') ||
                            pageContent.includes('Party') ||
                            pageContent.includes('código') ||
                            pageContent.includes('Código');
-    
+
     if (hasPartyContent) {
       console.log('✅ Página contiene referencias a "party" o "código"');
     } else {
       console.log('⚠️  No se encontró contenido de party, verificando estado...');
-      
+
       // Si no hay contenido, puede ser que esté en estado loading
-      const isLoading = pageContent.includes('Creando') || 
+      const isLoading = pageContent.includes('Creando') ||
                        pageContent.includes('loading') ||
                        pageContent.includes('Cargando');
-      
+
       if (isLoading) {
         console.log('⏳ Party en proceso de creación, esperando...');
         await hostPage.waitForTimeout(5000);
-        
+
         const updatedContent = await hostPage.content();
-        const nowHasContent = updatedContent.includes('código') || 
+        const nowHasContent = updatedContent.includes('código') ||
                              updatedContent.includes('Código');
-        
+
         if (nowHasContent) {
           console.log('✅ Party creado después de espera');
         }
@@ -74,7 +74,7 @@ test.describe('Party Mode - Smoke Test', () => {
 
   test('Student can access party join page with code', async ({ browser }) => {
     const studentPage = await browser.newPage();
-    
+
     test.setTimeout(15000);
 
     studentPage.on('console', msg => console.log(`👤 STUDENT: ${msg.text()}`));
@@ -82,7 +82,7 @@ test.describe('Party Mode - Smoke Test', () => {
 
     console.log('\n📝 TEST: Estudiante accediendo a /party?join=TEST123...');
     await studentPage.goto('/party?join=TEST123');
-    
+
     // Verificar que la página cargó
     const pageContent = await studentPage.content();
     const is404 = await studentPage.locator('text=/404|not found/i').count();
@@ -91,7 +91,7 @@ test.describe('Party Mode - Smoke Test', () => {
 
     // Verificar que hay input para nombre
     const nameInputCount = await studentPage.locator('input[type="text"], input[placeholder*="nombre" i]').count();
-    
+
     if (nameInputCount > 0) {
       console.log('✅ Input de nombre encontrado');
     } else {

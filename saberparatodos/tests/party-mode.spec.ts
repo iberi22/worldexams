@@ -39,17 +39,17 @@ test.describe('Party Mode E2E - 4 Estudiantes con Informe Admin', () => {
     // ===================================================
     console.log('\n📝 FASE 1: Host creando party...');
     await hostPage.goto('/party');
-    
+
     // El componente crea el party automáticamente al montar
     // Esperar a que aparezca el código de party
     console.log('⏳ Esperando código de party...');
     await expect(hostPage.locator('text=/código:/i')).toBeVisible({ timeout: 15000 });
-    
+
     // Extraer el código de party (puede estar en diferentes formatos)
     const pageContent = await hostPage.content();
-    const codeMatch = pageContent.match(/código:\s*([A-Z0-9]{6})/i) || 
+    const codeMatch = pageContent.match(/código:\s*([A-Z0-9]{6})/i) ||
                       pageContent.match(/([A-Z0-9]{6})/);
-    
+
     const partyCode = codeMatch ? codeMatch[1] : null;
     console.log(`✅ Party creada con código: ${partyCode}`);
 
@@ -77,7 +77,7 @@ test.describe('Party Mode E2E - 4 Estudiantes con Informe Admin', () => {
       const nameInput = playerPage.locator('input[placeholder*="nombre" i], input[type="text"]').first();
       await expect(nameInput).toBeVisible({ timeout: 5000 });
       await nameInput.fill(playerName);
-      
+
       // Buscar botón de unirse (puede ser "Unirse", "Join", etc.)
       const joinButton = playerPage.getByRole('button', { name: /unirse|join/i }).first();
       await expect(joinButton).toBeVisible({ timeout: 5000 });
@@ -95,7 +95,7 @@ test.describe('Party Mode E2E - 4 Estudiantes con Informe Admin', () => {
 
     // Esperar que host muestre la lista de participantes
     await hostPage.waitForTimeout(2000);
-    
+
     // Verificar que los estudiantes están visibles (buscar por nombres)
     for (const name of studentNames) {
       const nameVisible = await hostPage.locator(`text=${name}`).count();
