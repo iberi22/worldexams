@@ -4,6 +4,7 @@
  */
 
 // API Configuration - Can be overridden via environment variables
+// API Configuration - Always use production API since local API routes were removed
 const API_BASE_URL = import.meta.env.PUBLIC_API_BASE_URL || 'https://worldexams.pages.dev/api/v1';
 const COUNTRY_CODE = 'co';
 const EXAM_TYPE = 'icfes';
@@ -134,13 +135,13 @@ export async function getAvailableSubjects(grade: number): Promise<string[]> {
     }
 
     // Since the API structure has folders per subject, we need to list them
-    // For now, return the known subjects for ICFES
+    // Updated based on actual API generation structure (using hyphens not underscores)
     const subjectMap: Record<number, string[]> = {
       3: ['matematicas', 'lenguaje'],
-      5: ['matematicas', 'lenguaje', 'ciencias_naturales'],
-      7: ['matematicas', 'lenguaje', 'ciencias_naturales', 'ciencias_sociales'],
-      9: ['matematicas', 'lenguaje', 'ciencias_naturales', 'ciencias_sociales'],
-      11: ['matematicas', 'lectura_critica', 'ciencias_naturales', 'sociales_y_ciudadanas', 'ingles']
+      5: ['matematicas', 'lenguaje', 'ciencias-naturales', 'sociales-ciudadanas'],
+      7: ['matematicas', 'lenguaje', 'ingles'],
+      9: ['matematicas', 'lenguaje', 'ciencias-naturales', 'sociales-ciudadanas'],
+      11: ['matematicas', 'lectura-critica', 'ciencias-naturales', 'sociales-ciudadanas', 'ingles', 'informatica']
     };
 
     return subjectMap[grade] || subjectMap[11];
