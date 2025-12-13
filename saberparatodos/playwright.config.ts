@@ -20,10 +20,10 @@ export default defineConfig({
   ],
   
   // Web Server Configuration - Auto-start dev server for tests
-  webServer: {
+  webServer: process.env.CI ? undefined : {
     command: 'npm run dev',
     url: 'http://localhost:4321',
-    reuseExistingServer: !process.env.CI,
+    reuseExistingServer: true,
     timeout: 120 * 1000,
   },
 });
