@@ -109,6 +109,24 @@ Dificultad: 1
 
 ---
 
+## 🕵️ Paso 0: Investigación y Validación de Fuente
+
+Antes de generar cualquier contenido, es **OBLIGATORIO** realizar una investigación web para obtener preguntas base validadas por humanos.
+
+**Reglas de Oro:**
+1.  **Nunca inventar desde cero:** La IA es un motor de variación, no de creación de currículo.
+2.  **Fuente Autorizada:** Buscar preguntas liberadas del ICFES, EXANI, ENEM, o repositorios académicos confiables (.edu, .gov).
+3.  **Verificación Humana:** Validar que la pregunta base tenga lógica, respuesta única y contexto claro.
+4.  **Registro de Búsqueda:** Se debe registrar la query de búsqueda y la URL exacta en la metadata del archivo.
+
+**Flujo de Trabajo:**
+1.  **Buscar:** `search_web(query="preguntas liberadas icfes sociales grado 9")`
+2.  **Seleccionar:** Elegir una pregunta real de un cuadernillo PDF o web oficial.
+3.  **Adaptar:** Usarla como la variante `v1` (Original).
+4.  **Generar:** Crear variaciones `v2-v7` basadas en esa semilla validada.
+
+---
+
 ## 🎯 Estructura de 7 Preguntas por Archivo
 
 Cada archivo `.md` debe contener exactamente 7 preguntas:
@@ -150,6 +168,7 @@ licenses:
 source: "OpenTDB"
 source_url: "https://opentdb.com"
 source_license: "CC BY-SA 4.0"
+search_query: "[Query exacta usada para encontrar la fuente]"  # NEW v2.1
 original_question: "[Pregunta original en inglés]"
 original_answer: "[Respuesta original]"
 ---
@@ -368,8 +387,10 @@ Antes de aprobar una pregunta, verificar:
 ### Formato
 - [ ] Archivo contiene exactamente 7 preguntas
 - [ ] Cada pregunta tiene ID único con sufijo `-v[1-7]`
-- [ ] Frontmatter incluye `protocol_version: "2.0"`
+- [ ] Frontmatter incluye `protocol_version: "2.1"`
 - [ ] Atribución de fuente completa (CC BY-SA 4.0)
+- [ ] `search_query` y `source_url` presentes y válidos
+
 
 ### Contenido
 - [ ] Pregunta original adaptada con contexto cultural
