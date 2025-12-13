@@ -8,17 +8,17 @@ Write-Host "`n📍 URL: $url" -ForegroundColor White
 try {
     Write-Host "`n⏳ Haciendo request a la página principal..." -ForegroundColor Yellow
     $response = Invoke-WebRequest -Uri $url -Method GET -TimeoutSec 10 -UseBasicParsing
-    
+
     Write-Host "✅ Status Code: $($response.StatusCode)" -ForegroundColor Green
     Write-Host "✅ El sitio está respondiendo!" -ForegroundColor Green
-    
+
     # Check if contains expected content
     if ($response.Content -match "Saber Para Todos" -or $response.Content -match "saberparatodos") {
         Write-Host "✅ Contenido detectado: La página parece estar correcta" -ForegroundColor Green
     } else {
         Write-Host "⚠️  Contenido inesperado" -ForegroundColor Yellow
     }
-    
+
 } catch {
     Write-Host "❌ Error al conectar: $($_.Exception.Message)" -ForegroundColor Red
 }

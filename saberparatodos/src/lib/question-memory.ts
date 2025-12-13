@@ -28,6 +28,11 @@ export interface QuestionStats {
  * Load answered question IDs from localStorage
  */
 export function loadAnsweredQuestions(): Set<string> {
+  // Check if running in browser environment
+  if (typeof window === 'undefined' || typeof localStorage === 'undefined') {
+    return new Set();
+  }
+
   try {
     const stored = localStorage.getItem(STORAGE_KEY);
     if (!stored) return new Set();
@@ -47,6 +52,11 @@ export function saveAnsweredQuestions(
   answeredIds: Set<string>,
   totalAvailable: number
 ): void {
+  // Check if running in browser environment
+  if (typeof window === 'undefined' || typeof localStorage === 'undefined') {
+    return;
+  }
+
   try {
     const data = {
       answeredIds: Array.from(answeredIds),
@@ -170,17 +180,7 @@ export function getMemoryStats(totalAvailable: number): {
   };
 }
 
-/**
- * Clear all question memory (cache reset)
- */
-export function clearQuestionMemory(): void {
-  try {
-    localStorage.removeItem(STORAGE_KEY);
-    console.log('🔄 Question memory cleared - Fresh start!');
-  } catch (e) {
-    console.error('Error clearing question memory:', e);
-  }
-}
+
 
 /**
  * Update question stats
@@ -225,7 +225,9 @@ function updateStats(
 
     stats.lastSessionDate = new Date().toISOString().split('T')[0];
 
-    localStorage.setItem(STATS_KEY, JSON.stringify(stats));
+    if (typeof window !== 'undefined' && typeof localStorage !== 'undefined') {
+      localStorage.setItem(STATS_KEY, JSON.stringify(stats));
+    }
   } catch (e) {
     console.error('Error updating stats:', e);
   }
@@ -235,6 +237,11 @@ function updateStats(
  * Load stats from localStorage
  */
 export function loadStats(): QuestionStats {
+  // Check if running in browser environment
+  if (typeof window === 'undefined' || typeof localStorage === 'undefined') {
+    return getDefaultStats();
+  }
+
   try {
     const stored = localStorage.getItem(STATS_KEY);
     if (!stored) return getDefaultStats();
@@ -254,6 +261,23 @@ function getDefaultStats(): QuestionStats {
     streakHistory: [],
     lastSessionDate: new Date().toISOString().split('T')[0]
   };
+}
+
+/**
+ * Clear all memory (reset progress)
+ */
+export function clearQuestionMemory(): void {
+  // Check if running in browser environment
+  if (typeof window === 'undefined' || typeof localStorage === 'undefined') {
+    return;
+  }
+
+  try {
+    localStorage.removeItem(STORAGE_KEY);
+    localStorage.removeItem(STATS_KEY);
+  } catch (e) {
+    console.error('Error clearing memory:', e);
+  }
 }
 
 /**

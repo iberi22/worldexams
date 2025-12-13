@@ -13,6 +13,7 @@
   import AdvancedSearch from './AdvancedSearch.svelte';
   import MemoryStatus from './MemoryStatus.svelte';
   import Login from './Login.svelte';
+  import ExamConfigModal from './ExamConfigModal.svelte'; // New import
 
   import { supabase } from '../lib/supabase';
   import { getLocalIdentity } from '../lib/identity';
@@ -24,18 +25,21 @@
 
   import BlogView from './BlogView.svelte';
   import ArticleView from './ArticleView.svelte';
-  import { fetchAllQuestionsForGrade, getAvailableSubjects } from '../lib/api-service';
+  import { fetchAllQuestionsForGrade, getAvailableSubjects, fetchQuestions } from '../lib/api-service'; // Added fetchQuestions
   import { filterByPlan } from '../utils/questionParser';
 
   export let questions = [];
   export let universalPool = null; // New prop for universal questions pool
 
   // Internal state that can be updated
-  let loadedQuestions = questions;
+  let loadedQuestions = questions || []; // Safety check
+  let availableSubjects = []; // New state
   let isLoadingQuestions = false;
   let loadError = null;
+  let showExamConfigModal = false; // New state
+  let examConfig = { count: 10, mode: 'SOLO' }; // New state
 
-  console.log('App received questions:', questions.length);
+  console.log('App received questions:', questions?.length || 0);
   console.log('App received universalPool:', universalPool?.totalQuestions || 0);
 
   let view = AppView.LANDING;
@@ -56,25 +60,50 @@
   // Configurable percentage of universal questions (0-100)
   const UNIVERSAL_QUESTION_PERCENTAGE = 30;
   const MIN_LOCAL_QUESTIONS = 5;
-  const MAX_EXAM_QUESTIONS = 10; // Max questions per exam
+  let MAX_EXAM_QUESTIONS = 10; // Max questions per exam (now dynamic)
 
-  // Load questions from API when grade is selected
-  async function loadQuestionsFromAPI(grade) {
+  // Load subjects from API when grade is selected
+  async function loadSubjectsFromAPI(grade) {
+    try {
+      console.log(`🌐 Loading subjects for grade ${grade}...`);
+      const subjects = await getAvailableSubjects(grade);
+      availableSubjects = subjects.map(s => s.toUpperCase()); // Normalize
+      console.log(`✅ Loaded ${subjects.length} subjects`);
+    } catch (err) {
+      console.error('Error loading subjects:', err);
+    }
+  }
+
+  // Load questions from API (Lazy load)
+  async function loadQuestionsForExam(grade, subject) {
     if (isLoadingQuestions) return;
 
     isLoadingQuestions = true;
     loadError = null;
 
     try {
-      console.log(`🌐 Loading questions for grade ${grade} from API...`);
-      const apiQuestions = await fetchAllQuestionsForGrade(grade);
+      console.log(`🌐 Loading questions for ${subject} grade ${grade}...`);
 
-      if (apiQuestions.length > 0) {
-        loadedQuestions = apiQuestions;
-        console.log(`✅ Loaded ${apiQuestions.length} questions from API`);
+      // If subject is null (Simulacro Completo), we might need to fetch all or a mix
+      // For now, let's fetch all for the grade if subject is null, or specific subject
+      let apiQuestions = [];
+
+      if (subject) {
+        apiQuestions = await fetchQuestions(grade, subject.toLowerCase());
       } else {
-        console.warn(`⚠️ No questions found for grade ${grade}`);
-        loadError = `No se encontraron preguntas para grado ${grade}`;
+        apiQuestions = await fetchAllQuestionsForGrade(grade);
+      }
+
+      if (apiQuestions && apiQuestions.length > 0) {
+        // Merge with existing loadedQuestions to avoid duplicates
+        const existingIds = new Set(loadedQuestions.map(q => q.id));
+        const newQuestions = apiQuestions.filter(q => !existingIds.has(q.id));
+        loadedQuestions = [...loadedQuestions, ...newQuestions];
+
+        console.log(`✅ Added ${newQuestions.length} new questions from API`);
+      } else {
+        console.warn(`⚠️ No questions found for grade ${grade} subject ${subject}`);
+        loadError = `No se encontraron preguntas para ${subject || 'el grado seleccionado'}`;
       }
     } catch (err) {
       console.error('Error loading questions from API:', err);
@@ -98,15 +127,12 @@
     const savedGrade = localStorage.getItem('openicfes_grade');
     if (savedGrade) {
       selectedGrade = parseInt(savedGrade);
+    } else {
+      selectedGrade = 11; // Default
     }
 
-    // If no questions provided as props, load from API for default/saved grade
-    if (questions.length === 0 && selectedGrade) {
-      await loadQuestionsFromAPI(selectedGrade);
-    } else if (questions.length === 0) {
-      // Load grade 11 by default if no grade saved
-      await loadQuestionsFromAPI(11);
-    }
+    // Load subjects for the selected grade
+    await loadSubjectsFromAPI(selectedGrade);
 
     // Load memory stats
     memoryStats = getMemoryStats(loadedQuestions.length);
@@ -127,16 +153,16 @@
 
   // Mix local and universal questions, then filter out already answered ones
   // Usar planFilteredQuestions en lugar de filteredLocalQuestions para respetar licencias
-  $: examQuestions = prepareExamQuestions(planFilteredQuestions, universalPool, selectedGrade, selectedSubject);
+  $: examQuestions = prepareExamQuestions(planFilteredQuestions, universalPool, selectedGrade, selectedSubject, MAX_EXAM_QUESTIONS);
 
   /**
    * Prepare exam questions: mix local with universal, then filter already answered
    */
-  function prepareExamQuestions(localQuestions, pool, grade, subject) {
+  function prepareExamQuestions(localQuestions, pool, grade, subject, maxQuestions) {
     const mixed = mixQuestionsForExam(localQuestions, pool, grade, subject);
 
     // Filter out already answered questions (prioritize unanswered)
-    const { filtered, hadToRepeat } = filterUnansweredQuestions(mixed, MAX_EXAM_QUESTIONS);
+    const { filtered, hadToRepeat } = filterUnansweredQuestions(mixed, maxQuestions);
 
     if (hadToRepeat) {
       console.log('⚠️ Some questions are repeated (not enough new ones)');
@@ -270,8 +296,8 @@
     selectedGrade = grade;
     localStorage.setItem('openicfes_grade', grade.toString());
 
-    // Load questions for the new grade from API
-    await loadQuestionsFromAPI(grade);
+    // Load subjects for the new grade
+    await loadSubjectsFromAPI(grade);
 
     setView(AppView.SUBJECT_SELECTION);
   }
@@ -284,26 +310,42 @@
       return;
     }
 
-    // Set subject first to trigger reactive recalculation
+    // Set subject and open config modal
     selectedSubject = subject;
+    showExamConfigModal = true;
+  }
+
+  async function handleExamConfigStart(config) {
+    showExamConfigModal = false;
+    examConfig = config;
+    MAX_EXAM_QUESTIONS = config.count;
+
+    if (config.mode === 'PARTY') {
+      // Redirect to Party Mode
+      window.location.href = '/party';
+      return;
+    }
+
+    // SOLO Mode: Load questions and start
+    await loadQuestionsForExam(selectedGrade, selectedSubject);
 
     // Calculate available questions for this selection
     const availableQuestions = loadedQuestions.filter(q => {
       if (!q) return false;
       const gradeMatch = selectedGrade ? q.grade === selectedGrade : true;
-      const subjectMatch = subject ? (q.category && q.category.startsWith(subject)) : true;
+      const subjectMatch = selectedSubject ? (q.category && q.category.startsWith(selectedSubject)) : true;
       return gradeMatch && subjectMatch;
     });
 
     // Check if we have questions to show
     if (availableQuestions.length === 0) {
-      console.warn(`No questions available for ${subject} grade ${selectedGrade}`);
-      alert(`No hay preguntas disponibles para ${subject || 'esta materia'} en grado ${selectedGrade || 'seleccionado'}. Por favor selecciona otra área.`);
+      console.warn(`No questions available for ${selectedSubject} grade ${selectedGrade}`);
+      alert(`No hay preguntas disponibles para ${selectedSubject || 'esta materia'} en grado ${selectedGrade || 'seleccionado'}. Por favor selecciona otra área.`);
       selectedSubject = null; // Reset selection
       return;
     }
 
-    console.log(`✅ Found ${availableQuestions.length} questions for ${subject} grade ${selectedGrade}`);
+    console.log(`✅ Found ${availableQuestions.length} questions for ${selectedSubject} grade ${selectedGrade}`);
     setView(AppView.EXAM);
   }
 
@@ -339,9 +381,6 @@
         OpenIcfes
       </button>
       <div class="flex items-center gap-4">
-        <!-- Memory Status (compact mode) -->
-        <MemoryStatus totalQuestions={loadedQuestions.length} compact={true} />
-
         {#if user}
           <div class="text-xs text-emerald-500 opacity-80 hidden sm:block">
             {user.email}
@@ -464,7 +503,12 @@
           </FlashlightCard>
 
           <FlashlightCard
-            onclick={() => setView(AppView.BLOG)}
+            onclick={async () => {
+              if (loadedQuestions.length === 0) {
+                await loadQuestionsForExam(selectedGrade || 11, null);
+              }
+              setView(AppView.BLOG);
+            }}
             className="p-8 flex flex-col items-center justify-center group h-48 hover:border-[#003893]/40 transition-transform duration-300 hover:scale-105"
           >
             <div class="mb-4 text-[#003893] opacity-60 group-hover:opacity-100">
@@ -557,6 +601,7 @@
       <div in:fly={{ x: 50, duration: 500 }} out:fade={{ duration: 200 }}>
         <SubjectSelector
           questions={filteredLocalQuestions}
+          availableSubjects={availableSubjects}
           onSelect={handleSubjectSelect}
           onBack={() => setView(AppView.LANDING)}
         />
@@ -619,6 +664,30 @@
           onCancel={() => showRegistrationModal = false}
         />
       </div>
+    </div>
+  {/if}
+
+  <!-- Exam Config Modal -->
+  {#if showExamConfigModal}
+    <ExamConfigModal
+      subject={selectedSubject}
+      onStart={handleExamConfigStart}
+      onCancel={() => { showExamConfigModal = false; selectedSubject = null; }}
+    />
+  {/if}
+
+  <!-- Loading Overlay -->
+  {#if isLoadingQuestions}
+    <div class="fixed inset-0 z-[200] bg-black/90 backdrop-blur-md flex flex-col items-center justify-center" transition:fade>
+      <div class="relative w-24 h-24 mb-8">
+        <div class="absolute inset-0 border-4 border-emerald-500/20 rounded-full"></div>
+        <div class="absolute inset-0 border-4 border-emerald-500 border-t-transparent rounded-full animate-spin"></div>
+        <div class="absolute inset-0 flex items-center justify-center">
+          <span class="text-2xl">⚡</span>
+        </div>
+      </div>
+      <h2 class="text-2xl font-bold uppercase tracking-widest text-emerald-500 animate-pulse">Generando Examen</h2>
+      <p class="text-white/40 mt-2 text-sm">Descargando preguntas y calibrando dificultad...</p>
     </div>
   {/if}
 </div>

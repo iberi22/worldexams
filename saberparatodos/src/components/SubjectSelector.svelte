@@ -2,17 +2,18 @@
   import FlashlightCard from './FlashlightCard.svelte';
 
   export let questions = [];
+  export let availableSubjects = []; // New prop
   export let onSelect;
   export let onBack;
 
-  // Extract unique subjects from questions
-  // Questions have category like "MATEMÁTICAS :: ÁLGEBRA"
-  // We want the main subject "MATEMÁTICAS"
-  $: subjects = [...new Set(
-    questions
-      .filter(q => q && q.category) // Filter out questions without category
-      .map(q => q.category.split(' :: ')[0])
-  )].sort();
+  // Extract unique subjects from questions OR use provided availableSubjects
+  $: subjects = availableSubjects.length > 0
+    ? availableSubjects
+    : [...new Set(
+        (questions || []) // Safety check
+          .filter(q => q && q.category)
+          .map(q => q.category.split(' :: ')[0])
+      )].sort();
 </script>
 
 <div class="flex flex-col items-center justify-center min-h-[80vh] space-y-12 animate-fade-in-up">

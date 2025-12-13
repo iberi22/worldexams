@@ -1,5 +1,6 @@
 <script lang="ts">
   import FlashlightCard from './FlashlightCard.svelte';
+  import AdBlock from './AdBlock.svelte';
   import type { Question } from '../types';
 
   export let questions: Question[] = [];
@@ -21,6 +22,21 @@
 
     return matchesSearch && matchesGrade && matchesDifficulty;
   });
+
+  // Function to inject ads into the list
+  function getItemsWithAds(items: Question[]) {
+    const result = [];
+    for (let i = 0; i < items.length; i++) {
+      result.push({ type: 'question', data: items[i] });
+      // Insert ad every 6 items
+      if ((i + 1) % 6 === 0) {
+        result.push({ type: 'ad', id: `ad-${i}` });
+      }
+    }
+    return result;
+  }
+
+  $: itemsToRender = getItemsWithAds(filteredQuestions);
 
   const grades = [3, 5, 7, 9, 11];
   const difficulties = [1, 2, 3, 4, 5];
@@ -95,37 +111,42 @@
 
   <!-- Grid -->
   <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-    {#each filteredQuestions as question (question.id)}
-      <FlashlightCard
-        onclick={() => onSelect(question)}
-        className="p-6 flex flex-col justify-between group h-64 hover:border-emerald-500/50 transition-transform duration-300 hover:scale-[1.02]"
-      >
-        <div class="flex flex-col h-full">
-          <div class="flex justify-between items-start mb-2">
-            <div class="text-xs font-bold uppercase tracking-widest text-emerald-500">
-              {question.category}
+    {#each itemsToRender as item (item.type === 'question' ? item.data.id : item.id)}
+      {#if item.type === 'question'}
+        <FlashlightCard
+          onclick={() => onSelect(item.data)}
+          className="p-6 flex flex-col justify-between group h-64 hover:border-emerald-500/50 transition-transform duration-300 hover:scale-[1.02]"
+        >
+          <div class="flex flex-col h-full">
+            <div class="flex justify-between items-start mb-2">
+              <div class="text-xs font-bold uppercase tracking-widest text-emerald-500">
+                {item.data.category}
+              </div>
+              <div class="text-[10px] font-mono text-white/30">
+                {item.data.id}
+              </div>
             </div>
-            <div class="text-[10px] font-mono text-white/30">
-              {question.id}
+
+            <h3 class="text-lg font-light leading-relaxed line-clamp-3 mb-4 flex-grow">
+              {item.data.text}
+            </h3>
+
+            <div class="flex items-center justify-between mt-auto pt-4 border-t border-white/5">
+              <div class="flex gap-3 text-[10px] uppercase tracking-widest text-white/50">
+                <span>Grado {item.data.grade}°</span>
+                <span>Nivel {item.data.difficulty}</span>
+              </div>
+              <div class="flex items-center gap-2 text-emerald-500 opacity-60 group-hover:opacity-100 transition-opacity">
+                <span class="text-xs uppercase tracking-widest">Leer</span>
+                <span class="text-xl">-></span>
+              </div>
             </div>
           </div>
-
-          <h3 class="text-lg font-light leading-relaxed line-clamp-3 mb-4 flex-grow">
-            {question.text}
-          </h3>
-
-          <div class="flex items-center justify-between mt-auto pt-4 border-t border-white/5">
-            <div class="flex gap-3 text-[10px] uppercase tracking-widest text-white/50">
-              <span>Grado {question.grade}°</span>
-              <span>Nivel {question.difficulty}</span>
-            </div>
-            <div class="flex items-center gap-2 text-emerald-500 opacity-60 group-hover:opacity-100 transition-opacity">
-              <span class="text-xs uppercase tracking-widest">Leer</span>
-              <span class="text-xl">-></span>
-            </div>
-          </div>
-        </div>
-      </FlashlightCard>
+        </FlashlightCard>
+      {:else}
+        <!-- Ad Block -->
+        <AdBlock className="h-64" />
+      {/if}
     {/each}
   </div>
 </div>

@@ -7,18 +7,18 @@ Write-Host "`n📍 Supabase URL: $supabaseUrl" -ForegroundColor White
 
 try {
     $anonKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InR6bXJndnRwdGR0c2pjdWd3cXlxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjQxMTc0NDYsImV4cCI6MjA3OTY5MzQ0Nn0.sPtxeTyDlF9sdQVrfM1wLp_RLKhI1sFk0W-h8Mc_VIc"
-    
+
     $headers = @{
         "apikey" = $anonKey
         "Authorization" = "Bearer $anonKey"
     }
-    
+
     Write-Host "⏳ Testeando conexión a Supabase..." -ForegroundColor Yellow
     $response = Invoke-WebRequest -Uri $supabaseUrl -Headers $headers -Method GET -TimeoutSec 10 -UseBasicParsing
-    
+
     Write-Host "✅ Supabase está respondiendo (Status: $($response.StatusCode))" -ForegroundColor Green
     Write-Host "✅ La API key es válida" -ForegroundColor Green
-    
+
 } catch {
     if ($_.Exception.Response.StatusCode -eq 401) {
         Write-Host "❌ Error 401: La API key es inválida" -ForegroundColor Red

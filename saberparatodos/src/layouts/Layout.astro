@@ -79,15 +79,6 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 
-    <!-- Preload fuente crítica Inter (reduce FOIT/FOUT) -->
-    <link
-      rel="preload"
-      href="https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hjp-Ek-_0ew.woff2"
-      as="font"
-      type="font/woff2"
-      crossorigin
-    />
-
     <!-- Cargar fuentes con display=swap para evitar FOIT -->
     <link
       href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&family=Inter:wght@400;500;600;700&display=swap"

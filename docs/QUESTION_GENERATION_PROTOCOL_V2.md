@@ -109,6 +109,35 @@ Dificultad: 1
 
 ---
 
+## 📂 Estructura de Directorios y Organización
+
+Para mantener un repositorio profesional y escalable, se deben seguir estrictamente estas reglas de organización de carpetas.
+
+### 1. Jerarquía de Carpetas
+La estructura debe ser: `src/content/questions/[country]/[subject]/[grade]/`
+
+*   **[country]:** Nombre del país en minúsculas (ej: `colombia`, `mexico`).
+*   **[subject]:** Nombre estandarizado de la asignatura (ver tabla). **NO** crear subcarpetas por temas dentro de la asignatura.
+*   **[grade]:** Formato `grado-[N]` (ej: `grado-11`, `grado-9`).
+
+### 2. Mapeo de Asignaturas (Standard Slugs)
+
+| País | Asignatura Real | Slug de Carpeta (OBLIGATORIO) |
+|------|-----------------|-------------------------------|
+| 🇨🇴 | Sociales y Ciudadanas | `sociales-ciudadanas` (NO usar `sociales`) |
+| 🇨🇴 | Matemáticas | `matematicas` |
+| 🇨🇴 | Ciencias Naturales | `ciencias-naturales` |
+| 🇨🇴 | Lectura Crítica | `lectura-critica` |
+| 🇨🇴 | Inglés | `ingles` |
+| 🇲🇽 | Formación Cívica y Ética | `civismo` |
+
+### 3. Naming Convention de Archivos
+El nombre del archivo debe seguir el patrón: `[ID]-bundle.md`.
+*   Ejemplo: `CO-SOC-11-violencia-001-bundle.md`
+*   **NO** usar carpetas anidadas como `.../historia/archivo.md`. El tema va en el nombre del archivo.
+
+---
+
 ## 🕵️ Paso 0: Investigación y Validación de Fuente
 
 Antes de generar cualquier contenido, es **OBLIGATORIO** realizar una investigación web para obtener preguntas base validadas por humanos.
