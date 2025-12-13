@@ -28,7 +28,8 @@ generation_date: "2025-12-04"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber5", "MX-ENLACE-Primaria", "ES-EducaPrimaria", "AR-Aprender"]
+applicable_exams: ["CO-Saber5", "MX-ENLACE-Primaria", "ES-EducaPrimaria", "AR-Aprender"]
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
@@ -70,7 +71,8 @@ generation_date: "2025-12-04"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber5", "MX-ENLACE-Primaria", "ES-EducaPrimaria", "AR-Aprender"]
+applicable_exams: ["CO-Saber5", "MX-ENLACE-Primaria", "ES-EducaPrimaria", "AR-Aprender"]
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
@@ -137,7 +139,8 @@ generation_date: "2025-12-04"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber5", "MX-ENLACE-Primaria", "ES-EducaPrimaria", "AR-Aprender"]
+applicable_exams: ["CO-Saber5", "MX-ENLACE-Primaria", "ES-EducaPrimaria", "AR-Aprender"]
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
@@ -207,7 +210,8 @@ generation_date: "2025-12-04"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber5", "MX-ENLACE-Primaria", "ES-EducaPrimaria", "AR-Aprender"]
+applicable_exams: ["CO-Saber5", "MX-ENLACE-Primaria", "ES-EducaPrimaria", "AR-Aprender"]
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
@@ -276,7 +280,8 @@ generation_date: "2025-12-04"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber5", "MX-ENLACE-Primaria", "ES-EducaPrimaria", "AR-Aprender"]
+applicable_exams: ["CO-Saber5", "MX-ENLACE-Primaria", "ES-EducaPrimaria", "AR-Aprender"]
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)

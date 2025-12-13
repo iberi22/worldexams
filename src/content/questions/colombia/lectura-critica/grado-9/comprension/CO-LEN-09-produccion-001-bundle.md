@@ -27,7 +27,8 @@ componente: "Sintáctico"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber9", "MX-Planea"]
+applicable_exams: ["CO-Saber9", "MX-Planea"]
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
@@ -68,7 +69,8 @@ componente: "Sintáctico"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber9", "MX-Planea"]
+applicable_exams: ["CO-Saber9", "MX-Planea"]
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
@@ -124,7 +126,8 @@ componente: "Sintáctico"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber9", "MX-Planea"]
+applicable_exams: ["CO-Saber9", "MX-Planea"]
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
@@ -181,7 +184,8 @@ componente: "Sintáctico"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber9", "MX-Planea"]
+applicable_exams: ["CO-Saber9", "MX-Planea"]
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
@@ -237,7 +241,8 @@ componente: "Sintáctico"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber9", "MX-Planea"]
+applicable_exams: ["CO-Saber9", "MX-Planea"]
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)

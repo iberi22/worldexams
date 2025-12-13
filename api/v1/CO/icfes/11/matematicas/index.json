@@ -1,26 +1,20 @@
-{
-  "subject": "Matemáticas",
-  "generated_at": "2025-12-10T17:08:07Z",
-  "topics": [],
-  "time_limit_minutes": 120,
-  "total_pages": 4.0,
-  "total_questions": 343,
-  "pages": [
-    {
-      "page": 1,
-      "url": "1.json"
-    },
-    {
-      "page": 2,
-      "url": "2.json"
-    },
-    {
-      "page": 3,
-      "url": "3.json"
-    },
-    {
-      "page": 4,
-      "url": "4.json"
-    }
-  ]
+﻿{
+    "pages":  [
+                  {
+                      "page":  1,
+                      "url":  "1.json"
+                  },
+                  {
+                      "page":  2,
+                      "url":  "2.json"
+                  }
+              ],
+    "subject":  "Matemáticas",
+    "total_pages":  2,
+    "topics":  [
+
+               ],
+    "total_questions":  149,
+    "time_limit_minutes":  120,
+    "generated_at":  "2025-12-13T13:00:54Z"
 }

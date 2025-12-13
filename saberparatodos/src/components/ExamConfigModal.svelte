@@ -21,7 +21,7 @@
 
 <div class="fixed inset-0 z-[100] bg-black/80 backdrop-blur-sm flex items-center justify-center p-4" transition:fade>
   <div
-    class="bg-[#16213e] border border-white/10 rounded-xl p-8 max-w-md w-full shadow-2xl relative overflow-hidden"
+    class="bg-[#121212] border border-white/10 rounded-xl p-8 max-w-md w-full shadow-2xl relative overflow-hidden"
     in:fly={{ y: 20, duration: 300 }}
   >
     <!-- Background Noise/Gradient -->

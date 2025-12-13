@@ -24,7 +24,8 @@ source_id: "ICFES-LEN-003-001"
 original_concept: "Comprensión literal e inferencial de textos narrativos"
 competencia_icfes: "Competencia Lectora"
 componente: "Semántico"
-generation_date: "2025-12-04"
+generation_date: "2025-12-04"
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
@@ -62,7 +63,8 @@ source_id: "ICFES-LEN-003-001"
 original_concept: "Comprensión literal e inferencial de textos narrativos"
 competencia_icfes: "Competencia Lectora"
 componente: "Semántico"
-generation_date: "2025-12-04"
+generation_date: "2025-12-04"
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
@@ -121,7 +123,8 @@ source_id: "ICFES-LEN-003-001"
 original_concept: "Comprensión literal e inferencial de textos narrativos"
 competencia_icfes: "Competencia Lectora"
 componente: "Semántico"
-generation_date: "2025-12-04"
+generation_date: "2025-12-04"
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
@@ -175,7 +178,8 @@ source_id: "ICFES-LEN-003-001"
 original_concept: "Comprensión literal e inferencial de textos narrativos"
 competencia_icfes: "Competencia Lectora"
 componente: "Semántico"
-generation_date: "2025-12-04"
+generation_date: "2025-12-04"
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
@@ -229,7 +233,8 @@ source_id: "ICFES-LEN-003-001"
 original_concept: "Comprensión literal e inferencial de textos narrativos"
 competencia_icfes: "Competencia Lectora"
 componente: "Semántico"
-generation_date: "2025-12-04"
+generation_date: "2025-12-04"
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)

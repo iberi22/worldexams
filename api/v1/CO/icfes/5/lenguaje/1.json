@@ -1,490 +1,280 @@
-{
-  "questions": [
-    {
-      "images": [],
-      "number": 1,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "B",
-      "bundle_id": "CO-LEN-05-comprension-mix-001",
-      "statement": "Lea:\n\"Juan miró el cielo gris y cerró las ventanas antes de salir con su paraguas.\"\n¿Por qué Juan llevó paraguas?",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "Porque le gusta caminar con bastón."
-        },
-        {
-          "letter": "B",
-          "is_correct": true,
-          "text": "Porque infería que iba a llover."
-        },
-        {
-          "letter": "C",
-          "is_correct": false,
-          "text": "Porque era de noche."
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "Porque el paraguas estaba roto."
-        }
-      ],
-      "explanation": "Inferencia: \"Cielo gris\" y \"cerrar ventanas\" son indicios de lluvia inminente.\n**Competencia evaluada:** Comprensión - Inferencia.\n---",
-      "id": "CO-LEN-05-comprension-mix-001-v1"
-    },
-    {
-      "images": [],
-      "number": 2,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "C",
-      "bundle_id": "CO-LEN-05-comprension-mix-001",
-      "statement": "En el texto anterior, ¿qué cerró Juan?",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "La puerta"
-        },
-        {
-          "letter": "B",
-          "is_correct": false,
-          "text": "El paraguas"
-        },
-        {
-          "letter": "C",
-          "is_correct": true,
-          "text": "Las ventanas"
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "Los ojos"
-        }
-      ],
-      "explanation": "Literal: \"...y cerró las ventanas\".\n**Competencia evaluada:** Comprensión - Literal.\n---",
-      "id": "CO-LEN-05-comprension-mix-001-v2"
-    },
-    {
-      "images": [],
-      "number": 3,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "B",
-      "bundle_id": "CO-LEN-05-comprension-mix-001",
-      "statement": "¿Qué palabra describe mejor el clima en la historia?",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "Soleado"
-        },
-        {
-          "letter": "B",
-          "is_correct": true,
-          "text": "Nublado"
-        },
-        {
-          "letter": "C",
-          "is_correct": false,
-          "text": "Caluroso"
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "Despejado"
-        }
-      ],
-      "explanation": "\"Cielo gris\" es sinónimo de nublado.\n**Competencia evaluada:** Semántica - Vocabulario contextual.\n---",
-      "id": "CO-LEN-05-comprension-mix-001-v3"
-    },
-    {
-      "images": [],
-      "number": 4,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "B",
-      "bundle_id": "CO-LEN-05-comprension-mix-001",
-      "statement": "Si Juan no hubiera llevado paraguas, probablemente:",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "Se habría quemado con el sol."
-        },
-        {
-          "letter": "B",
-          "is_correct": true,
-          "text": "Se habría mojado."
-        },
-        {
-          "letter": "C",
-          "is_correct": false,
-          "text": "Habría cerrado las puertas."
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "Estaría feliz."
-        }
-      ],
-      "explanation": "Predicción basada en el contexto de lluvia.\n**Competencia evaluada:** Comprensión - Predicción.\n---",
-      "id": "CO-LEN-05-comprension-mix-001-v4"
-    },
-    {
-      "images": [],
-      "number": 5,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "C",
-      "bundle_id": "CO-LEN-05-comprension-mix-001",
-      "statement": "En la oración: \"Las **negras** golondrinas volverán\", la palabra en negrita es un:",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "Verbo"
-        },
-        {
-          "letter": "B",
-          "is_correct": false,
-          "text": "Sustantivo"
-        },
-        {
-          "letter": "C",
-          "is_correct": true,
-          "text": "Adjetivo"
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "Pronombre"
-        }
-      ],
-      "explanation": "\"Negras\" califica al sustantivo \"golondrinas\", indicando una cualidad. Es un adjetivo calificativo.\n**Competencia evaluada:** Sintáctica - Categorías gramaticales.\n---",
-      "id": "CO-LEN-05-comprension-mix-001-v5"
-    },
-    {
-      "images": [],
-      "number": 6,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "B",
-      "bundle_id": "CO-LEN-05-comprension-mix-001",
-      "statement": "Lee: \"El león, rey de la selva, dormía.\"\n¿Qué función cumple la frase \"rey de la selva\"?",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "Es el sujeto."
-        },
-        {
-          "letter": "B",
-          "is_correct": true,
-          "text": "Es una aposición explicativa (explica quién es el león)."
-        },
-        {
-          "letter": "C",
-          "is_correct": false,
-          "text": "Es el verbo principal."
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "Es una pregunta."
-        }
-      ],
-      "explanation": "La aposición explica o especifica al sustantivo que la precede (león), y suele ir entre comas.\n**Competencia evaluada:** Sintáctica - Funciones gramaticales complejas.\n---",
-      "id": "CO-LEN-05-comprension-mix-001-v6"
-    },
-    {
-      "images": [],
-      "number": 7,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "B",
-      "bundle_id": "CO-LEN-05-comprension-mix-001",
-      "statement": "¿Cuál es el antónimo (contrario) de \"Alegría\"?",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "Felicidad"
-        },
-        {
-          "letter": "B",
-          "is_correct": true,
-          "text": "Tristeza"
-        },
-        {
-          "letter": "C",
-          "is_correct": false,
-          "text": "Emoción"
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "Risa"
-        }
-      ],
-      "explanation": "El opuesto de alegría es tristeza.\n**Competencia evaluada:** Semántica - Antónimos.\n---\n## 📊 Metadata de Validación\n| Pregunta | ID | Dificultad | Competencia ICFES | Componente | Validado |\n|----------|-----|------------|-------------------|------------|----------|\n| 1 | v1 | Medium | Comprensión | Semántico | ⬜ |\n| 2 | v2 | Low | Comprensión | Semántico | ⬜ |\n| 3 | v3 | Low | Comprensión | Semántico | ⬜ |\n| 4 | v4 | Medium | Comprensión | Semántico | ⬜ |\n| 5 | v5 | 4 | Gramática | Sintáctico | ⬜ |\n| 6 | v6 | High | Gramática | Sintáctico | ⬜ |\n| 7 | v7 | 1 | Semántica | Semántico | ⬜ |",
-      "id": "CO-LEN-05-comprension-mix-001-v7"
-    },
-    {
-      "images": [],
-      "number": 0,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "C",
-      "bundle_id": "CO-LEN-05-gramatica-001-bundle",
-      "statement": "En la frase *'La casa roja es grande'*, ¿cuál es el **adjetivo** que indica color?",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "La"
-        },
-        {
-          "letter": "B",
-          "is_correct": false,
-          "text": "casa"
-        },
-        {
-          "letter": "C",
-          "is_correct": true,
-          "text": "roja"
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "es"
-        }
-      ],
-      "explanation": "**Adjetivo:** Es la palabra que califica o describe al sustantivo. \"Roja\" dice cómo es la casa.\n---",
-      "id": "CO-LEN-05-gramatica-001-bundle-v0"
-    },
-    {
-      "images": [],
-      "number": 0,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "A",
-      "bundle_id": "CO-LEN-05-gramatica-001-bundle",
-      "statement": "¿Cuál de estas palabras está escrita correctamente?",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": true,
-          "text": "Hormiga"
-        },
-        {
-          "letter": "B",
-          "is_correct": false,
-          "text": "Ormiga"
-        },
-        {
-          "letter": "C",
-          "is_correct": false,
-          "text": "Hormig"
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "Ormija"
-        }
-      ],
-      "explanation": "**Uso de la H:** La palabra hormiga siempre se escribe con \"H\" inicial.\n---",
-      "id": "CO-LEN-05-gramatica-001-bundle-v0"
-    },
-    {
-      "images": [],
-      "number": 0,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "B",
-      "bundle_id": "CO-LEN-05-gramatica-001-bundle",
-      "statement": "¿Cuál de las siguientes palabras es **esdrújula** y debe llevar tilde?",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "Camion"
-        },
-        {
-          "letter": "B",
-          "is_correct": true,
-          "text": "Pájaro"
-        },
-        {
-          "letter": "C",
-          "is_correct": false,
-          "text": "Pared"
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "Casa"
-        }
-      ],
-      "explanation": "**Acentuación:** Pájaro (pá-ja-ro) tiene el acento en la antepenúltima sílaba, por lo tanto es esdrújula y siempre se tilda.\n---",
-      "id": "CO-LEN-05-gramatica-001-bundle-v0"
-    },
-    {
-      "images": [],
-      "number": 0,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "D",
-      "bundle_id": "CO-LEN-05-gramatica-001-bundle",
-      "statement": "En la oración *\"Los niños juegan en el parque\"*, ¿quién es el **Sujeto**?",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "juegan"
-        },
-        {
-          "letter": "B",
-          "is_correct": false,
-          "text": "en el parque"
-        },
-        {
-          "letter": "C",
-          "is_correct": false,
-          "text": "el parque"
-        },
-        {
-          "letter": "D",
-          "is_correct": true,
-          "text": "Los niños"
-        }
-      ],
-      "explanation": "**Sujeto:** Es quien realiza la acción del verbo. ¿Quiénes juegan? Los niños.\n---",
-      "id": "CO-LEN-05-gramatica-001-bundle-v0"
-    },
-    {
-      "images": [],
-      "number": 0,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "B",
-      "bundle_id": "CO-LEN-05-gramatica-001-bundle",
-      "statement": "Al pasar la palabra **\"Lápiz\"** a plural, la forma correcta es:",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "Lápizes (con z)"
-        },
-        {
-          "letter": "B",
-          "is_correct": true,
-          "text": "Lápices (con c)"
-        },
-        {
-          "letter": "C",
-          "is_correct": false,
-          "text": "Lapizs"
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "Lápises"
-        }
-      ],
-      "explanation": "**Regla Z-C:** Las palabras terminadas en Z forman el plural cambiando la Z por C (ej: pez -> peces).\n---",
-      "id": "CO-LEN-05-gramatica-001-bundle-v0"
-    },
-    {
-      "images": [],
-      "number": 0,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "A",
-      "bundle_id": "CO-LEN-05-gramatica-001-bundle",
-      "statement": "Selecciona la palabra correctamente escrita:",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": true,
-          "text": "Vaca (animal)"
-        },
-        {
-          "letter": "B",
-          "is_correct": false,
-          "text": "Baca (animal)"
-        },
-        {
-          "letter": "C",
-          "is_correct": false,
-          "text": "Vaka"
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "Baka"
-        }
-      ],
-      "explanation": "**B/V:** El animal se escribe con V. (Baca con B es el soporte sobre el auto).\n---",
-      "id": "CO-LEN-05-gramatica-001-bundle-v0"
-    },
-    {
-      "images": [],
-      "number": 0,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "C",
-      "bundle_id": "CO-LEN-05-gramatica-001-bundle",
-      "statement": "¿Cuál es el verbo en tiempo **pasado**?",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "Comeré"
-        },
-        {
-          "letter": "B",
-          "is_correct": false,
-          "text": "Como"
-        },
-        {
-          "letter": "C",
-          "is_correct": true,
-          "text": "Comí"
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "Comer"
-        }
-      ],
-      "explanation": "**Tiempos Verbales:** Comí indica una acción ya terminada (pretérito).",
-      "id": "CO-LEN-05-gramatica-001-bundle-v0"
-    }
-  ],
-  "metadata": {
-    "subject": "Lenguaje",
-    "total_pages": 1.0,
-    "page": 1,
-    "generated_at": "2025-12-10T17:08:07Z",
-    "total_questions": 14,
-    "exam": "icfes",
-    "country": "CO",
-    "grade": "5"
-  }
+﻿{
+    "metadata":  {
+                     "total_pages":  1,
+                     "total_questions":  7,
+                     "exam":  "icfes",
+                     "subject":  "Lenguaje",
+                     "generated_at":  "2025-12-13T13:00:55Z",
+                     "country":  "co",
+                     "grade":  "5",
+                     "page":  1
+                 },
+    "questions":  [
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "La puerta"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "El paraguas"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Las ventanas"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Los ojos"
+                                          }
+                                      ],
+                          "id":  "CO-LEN-05-comprension-mix-001-v2",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "En el texto anterior, ¿qué cerró Juan?",
+                          "correct_answer":  "C",
+                          "number":  2,
+                          "bundle_id":  "CO-LEN-05-comprension-mix-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Se habría quemado con el sol."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Se habría mojado."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Habría cerrado las puertas."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Estaría feliz."
+                                          }
+                                      ],
+                          "id":  "CO-LEN-05-comprension-mix-001-v4",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Si Juan no hubiera llevado paraguas, probablemente:",
+                          "correct_answer":  "B",
+                          "number":  4,
+                          "bundle_id":  "CO-LEN-05-comprension-mix-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Es el sujeto."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Es una aposición explicativa (explica quién es el león)."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Es el verbo principal."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Es una pregunta."
+                                          }
+                                      ],
+                          "id":  "CO-LEN-05-comprension-mix-001-v6",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Lee: \"El león, rey de la selva, dormía.\"\n¿Qué función cumple la frase \"rey de la selva\"?",
+                          "correct_answer":  "B",
+                          "number":  6,
+                          "bundle_id":  "CO-LEN-05-comprension-mix-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "La"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "casa"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "roja"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "es"
+                                          }
+                                      ],
+                          "id":  "CO-LEN-05-gramatica-001-bundle-v0",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "En la frase *\u0027La casa roja es grande\u0027*, ¿cuál es el **adjetivo** que indica color?",
+                          "correct_answer":  "C",
+                          "number":  0,
+                          "bundle_id":  "CO-LEN-05-gramatica-001-bundle",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Camion"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Pájaro"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Pared"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Casa"
+                                          }
+                                      ],
+                          "id":  "CO-LEN-05-gramatica-001-bundle-v0",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Cuál de las siguientes palabras es **esdrújula** y debe llevar tilde?",
+                          "correct_answer":  "B",
+                          "number":  0,
+                          "bundle_id":  "CO-LEN-05-gramatica-001-bundle",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Lápizes (con z)"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Lápices (con c)"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Lapizs"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Lápises"
+                                          }
+                                      ],
+                          "id":  "CO-LEN-05-gramatica-001-bundle-v0",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Al pasar la palabra **\"Lápiz\"** a plural, la forma correcta es:",
+                          "correct_answer":  "B",
+                          "number":  0,
+                          "bundle_id":  "CO-LEN-05-gramatica-001-bundle",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Comeré"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Como"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Comí"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Comer"
+                                          }
+                                      ],
+                          "id":  "CO-LEN-05-gramatica-001-bundle-v0",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Cuál es el verbo en tiempo **pasado**?",
+                          "correct_answer":  "C",
+                          "number":  0,
+                          "bundle_id":  "CO-LEN-05-gramatica-001-bundle",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      }
+                  ]
 }

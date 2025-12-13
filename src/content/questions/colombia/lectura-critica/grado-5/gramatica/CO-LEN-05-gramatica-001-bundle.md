@@ -27,7 +27,8 @@ componente: "Sintáctico - Ortográfico"
 
 # === UNIVERSAL SHARING ===
 universal_question: false
-applicable_exams: ["CO-Saber5"]
+applicable_exams: ["CO-Saber5"]
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
@@ -67,7 +68,8 @@ componente: "Sintáctico - Ortográfico"
 
 # === UNIVERSAL SHARING ===
 universal_question: false
-applicable_exams: ["CO-Saber5"]
+applicable_exams: ["CO-Saber5"]
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
@@ -120,7 +122,8 @@ componente: "Sintáctico - Ortográfico"
 
 # === UNIVERSAL SHARING ===
 universal_question: false
-applicable_exams: ["CO-Saber5"]
+applicable_exams: ["CO-Saber5"]
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
@@ -173,7 +176,8 @@ componente: "Sintáctico - Ortográfico"
 
 # === UNIVERSAL SHARING ===
 universal_question: false
-applicable_exams: ["CO-Saber5"]
+applicable_exams: ["CO-Saber5"]
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
@@ -226,7 +230,8 @@ componente: "Sintáctico - Ortográfico"
 
 # === UNIVERSAL SHARING ===
 universal_question: false
-applicable_exams: ["CO-Saber5"]
+applicable_exams: ["CO-Saber5"]
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)

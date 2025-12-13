@@ -1,105 +1,71 @@
-{
-  "questions": [
-    {
-      "images": [],
-      "number": 1,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "",
-      "bundle_id": "CO-ING-07-grammar-001",
-      "statement": "",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [],
-      "explanation": "",
-      "id": "CO-ING-07-grammar-001-v1"
-    },
-    {
-      "images": [],
-      "number": 2,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "",
-      "bundle_id": "CO-ING-07-grammar-001",
-      "statement": "",
-      "tags": [],
-      "difficulty": "Low",
-      "options": [],
-      "explanation": "",
-      "id": "CO-ING-07-grammar-001-v2"
-    },
-    {
-      "images": [],
-      "number": 3,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "",
-      "bundle_id": "CO-ING-07-grammar-001",
-      "statement": "",
-      "tags": [],
-      "difficulty": "Low",
-      "options": [],
-      "explanation": "",
-      "id": "CO-ING-07-grammar-001-v3"
-    },
-    {
-      "images": [],
-      "number": 4,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "",
-      "bundle_id": "CO-ING-07-grammar-001",
-      "statement": "",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [],
-      "explanation": "",
-      "id": "CO-ING-07-grammar-001-v4"
-    },
-    {
-      "images": [],
-      "number": 5,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "",
-      "bundle_id": "CO-ING-07-grammar-001",
-      "statement": "",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [],
-      "explanation": "",
-      "id": "CO-ING-07-grammar-001-v5"
-    },
-    {
-      "images": [],
-      "number": 6,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "",
-      "bundle_id": "CO-ING-07-grammar-001",
-      "statement": "",
-      "tags": [],
-      "difficulty": "High",
-      "options": [],
-      "explanation": "",
-      "id": "CO-ING-07-grammar-001-v6"
-    },
-    {
-      "images": [],
-      "number": 7,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "",
-      "bundle_id": "CO-ING-07-grammar-001",
-      "statement": "",
-      "tags": [],
-      "difficulty": "High",
-      "options": [],
-      "explanation": "",
-      "id": "CO-ING-07-grammar-001-v7"
-    }
-  ],
-  "metadata": {
-    "subject": "Inglés",
-    "total_pages": 1.0,
-    "page": 1,
-    "generated_at": "2025-12-10T17:08:07Z",
-    "total_questions": 7,
-    "exam": "icfes",
-    "country": "CO",
-    "grade": "7"
-  }
+﻿{
+    "metadata":  {
+                     "total_pages":  1,
+                     "total_questions":  3,
+                     "exam":  "icfes",
+                     "subject":  "Inglés",
+                     "generated_at":  "2025-12-13T13:00:54Z",
+                     "country":  "co",
+                     "grade":  "7",
+                     "page":  1
+                 },
+    "questions":  [
+                      {
+                          "options":  [
+
+                                      ],
+                          "id":  "CO-ING-07-grammar-001-v2",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "",
+                          "correct_answer":  "",
+                          "number":  2,
+                          "bundle_id":  "CO-ING-07-grammar-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+
+                                      ],
+                          "id":  "CO-ING-07-grammar-001-v4",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "",
+                          "correct_answer":  "",
+                          "number":  4,
+                          "bundle_id":  "CO-ING-07-grammar-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+
+                                      ],
+                          "id":  "CO-ING-07-grammar-001-v6",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "",
+                          "correct_answer":  "",
+                          "number":  6,
+                          "bundle_id":  "CO-ING-07-grammar-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      }
+                  ]
 }

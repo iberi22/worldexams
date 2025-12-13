@@ -22,7 +22,8 @@ source_license: "Educational Use - Colombian Curriculum"
 source_id: "ICFES-LEN-009-001"
 original_concept: "Comprensión Lectora Avanzada"
 competencia_icfes: "Comprensión e interpretación textual"
-componente: "Semántico"
+componente: "Semántico"
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
@@ -56,7 +57,8 @@ source_license: "Educational Use - Colombian Curriculum"
 source_id: "ICFES-LEN-009-001"
 original_concept: "Comprensión Lectora Avanzada"
 competencia_icfes: "Comprensión e interpretación textual"
-componente: "Semántico"
+componente: "Semántico"
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
@@ -119,7 +121,8 @@ source_license: "Educational Use - Colombian Curriculum"
 source_id: "ICFES-LEN-009-001"
 original_concept: "Comprensión Lectora Avanzada"
 competencia_icfes: "Comprensión e interpretación textual"
-componente: "Semántico"
+componente: "Semántico"
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
@@ -171,7 +174,8 @@ source_license: "Educational Use - Colombian Curriculum"
 source_id: "ICFES-LEN-009-001"
 original_concept: "Comprensión Lectora Avanzada"
 competencia_icfes: "Comprensión e interpretación textual"
-componente: "Semántico"
+componente: "Semántico"
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
@@ -211,7 +215,8 @@ source_license: "Educational Use - Colombian Curriculum"
 source_id: "ICFES-LEN-009-001"
 original_concept: "Comprensión Lectora Avanzada"
 competencia_icfes: "Comprensión e interpretación textual"
-componente: "Semántico"
+componente: "Semántico"
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
@@ -275,7 +280,8 @@ source_license: "Educational Use - Colombian Curriculum"
 source_id: "ICFES-LEN-009-001"
 original_concept: "Comprensión Lectora Avanzada"
 competencia_icfes: "Comprensión e interpretación textual"
-componente: "Semántico"
+componente: "Semántico"
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)

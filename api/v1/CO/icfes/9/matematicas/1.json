@@ -1,966 +1,508 @@
-{
-  "questions": [
-    {
-      "images": [],
-      "number": 1,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "B",
-      "bundle_id": "CO-MAT-09-algebra-001",
-      "statement": "En una tienda de artesanías de Ráquira, Boyacá, don José vende vasijas de barro. El precio de venta $P$ (en pesos) de cada vasija depende del tamaño $t$ (en centímetros de altura) según la función:\n$$P(t) = 2500t + 5000$$\nSi don José quiere vender una vasija a $30.000$ pesos, ¿cuál debe ser la altura de la vasija?",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "8 cm"
-        },
-        {
-          "letter": "B",
-          "is_correct": true,
-          "text": "10 cm"
-        },
-        {
-          "letter": "C",
-          "is_correct": false,
-          "text": "12 cm"
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "15 cm"
-        }
-      ],
-      "explanation": "**¿Por qué B es correcta?**\nDebemos encontrar $t$ cuando $P(t) = 30000$:\n$$30000 = 2500t + 5000$$\n$$30000 - 5000 = 2500t$$\n$$25000 = 2500t$$\n$$t = \\frac{25000}{2500} = 10 \\text{ cm}$$\n**Verificación:** $P(10) = 2500(10) + 5000 = 25000 + 5000 = 30000$ ✓\n**¿Por qué las otras no?**\n- **A) 8 cm:** $P(8) = 2500(8) + 5000 = 25000$ pesos. Error al despejar.\n- **C) 12 cm:** $P(12) = 2500(12) + 5000 = 35000$ pesos. Sobreestima el tamaño.\n- **D) 15 cm:** $P(15) = 2500(15) + 5000 = 42500$ pesos. Confusión con el coeficiente.\n**Competencia evaluada:** Resolución - despejar variable en función lineal\n---",
-      "id": "CO-MAT-09-algebra-001-v1"
-    },
-    {
-      "images": [],
-      "number": 2,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "B",
-      "bundle_id": "CO-MAT-09-algebra-001",
-      "statement": "Si $x + 5 = 12$, ¿cuánto vale $x$?",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "5"
-        },
-        {
-          "letter": "B",
-          "is_correct": true,
-          "text": "7"
-        },
-        {
-          "letter": "C",
-          "is_correct": false,
-          "text": "12"
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "17"
-        }
-      ],
-      "explanation": "Despejamos $x$:\n$$x = 12 - 5 = 7$$\n**Verificación:** $7 + 5 = 12$ ✓\n**¿Por qué las otras no?**\n- **A) 5:** Es el número que se suma, no el resultado.\n- **C) 12:** Es el resultado de la suma, no $x$.\n- **D) 17:** Suma en vez de restar.\n**Competencia evaluada:** Comunicación - operación básica de despeje\n---",
-      "id": "CO-MAT-09-algebra-001-v2"
-    },
-    {
-      "images": [],
-      "number": 3,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "B",
-      "bundle_id": "CO-MAT-09-algebra-001",
-      "statement": "En el restaurante \"El Buen Sabor\" de Cartagena, el valor total $V$ de un almuerzo corriente se calcula según la fórmula $V = 12000 + 2000n$, donde $n$ es el número de bebidas adicionales.\nSi un cliente pagó $18.000$ pesos, ¿cuántas bebidas adicionales pidió?",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "2"
-        },
-        {
-          "letter": "B",
-          "is_correct": true,
-          "text": "3"
-        },
-        {
-          "letter": "C",
-          "is_correct": false,
-          "text": "4"
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "6"
-        }
-      ],
-      "explanation": "Despejamos $n$:\n$$18000 = 12000 + 2000n$$\n$$18000 - 12000 = 2000n$$\n$$6000 = 2000n$$\n$$n = 3 \\text{ bebidas}$$\n**Verificación:** $V(3) = 12000 + 2000(3) = 12000 + 6000 = 18000$ ✓\n**Competencia evaluada:** Resolución - aplicación de ecuación lineal\n---",
-      "id": "CO-MAT-09-algebra-001-v3"
-    },
-    {
-      "images": [],
-      "number": 4,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "B",
-      "bundle_id": "CO-MAT-09-algebra-001",
-      "statement": "La gráfica muestra la relación entre el tiempo (en horas) y la distancia recorrida (en kilómetros) por un bus intermunicipal que viaja de Bogotá a Medellín.\n```\nDistancia (km)\n│\n300├─────────────────────●\n   │                   ╱\n200├─────────────●───╱\n   │           ╱\n100├───────●─╱\n   │     ╱\n  0├───●─────────────────\n   0   1   2   3   4   5  Tiempo (h)\n```\nSegún la gráfica, ¿cuál es la velocidad promedio del bus en km/h?",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "50 km/h"
-        },
-        {
-          "letter": "B",
-          "is_correct": true,
-          "text": "60 km/h"
-        },
-        {
-          "letter": "C",
-          "is_correct": false,
-          "text": "75 km/h"
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "100 km/h"
-        }
-      ],
-      "explanation": "La velocidad promedio es la pendiente de la recta:\n$$m = \\frac{\\Delta y}{\\Delta x} = \\frac{300 - 0}{5 - 0} = \\frac{300}{5} = 60 \\text{ km/h}$$\nTambién se puede verificar con puntos intermedios:\n- En $t=1$: $d=60$ → $\\frac{60}{1} = 60$ km/h\n- En $t=2$: $d=120$ → $\\frac{120}{2} = 60$ km/h\n**¿Por qué las otras no?**\n- **A) 50 km/h:** Error de lectura o cálculo.\n- **C) 75 km/h:** Confusión con la pendiente.\n- **D) 100 km/h:** Lee mal la escala.\n**Competencia evaluada:** Comunicación - interpretación de pendiente como tasa de cambio\n---",
-      "id": "CO-MAT-09-algebra-001-v4"
-    },
-    {
-      "images": [],
-      "number": 5,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "C",
-      "bundle_id": "CO-MAT-09-algebra-001",
-      "statement": "Una empresa de servicios públicos en Cali cobra el servicio de agua según la función:\n$$C(m) = 800m + 15000$$\ndonde $C$ es el costo en pesos y $m$ son los metros cúbicos consumidos. Si una familia quiere que su factura no supere $\\$47.000$, ¿cuántos metros cúbicos puede consumir como máximo?",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "30 m³"
-        },
-        {
-          "letter": "B",
-          "is_correct": false,
-          "text": "35 m³"
-        },
-        {
-          "letter": "C",
-          "is_correct": true,
-          "text": "40 m³"
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "58 m³"
-        }
-      ],
-      "explanation": "Planteamos la inecuación:\n$$800m + 15000 \\leq 47000$$\n$$800m \\leq 47000 - 15000$$\n$$800m \\leq 32000$$\n$$m \\leq \\frac{32000}{800}$$\n$$m \\leq 40$$\nEl consumo máximo es **40 m³**.\n**Verificación:** $C(40) = 800(40) + 15000 = 32000 + 15000 = 47000$ ✓\n**¿Por qué las otras no?**\n- **A) 30 m³:** $C(30) = 39000$. Es válido pero no es el máximo.\n- **B) 35 m³:** $C(35) = 43000$. Es válido pero no es el máximo.\n- **D) 58 m³:** $C(58) = 61400$. Excede el presupuesto.\n**Competencia evaluada:** Resolución - inecuaciones lineales\n---",
-      "id": "CO-MAT-09-algebra-001-v5"
-    },
-    {
-      "images": [],
-      "number": 6,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "B",
-      "bundle_id": "CO-MAT-09-algebra-001",
-      "statement": "En el mercado de la plaza de Villavicencio, doña Carmen vende naranjas y limones. El lunes vendió el doble de kilos de naranjas que de limones. Si en total vendió 36 kilos de frutas y cada kilo de naranjas cuesta $\\$3.000$ y cada kilo de limones cuesta $\\$4.500$, ¿cuánto dinero recibió doña Carmen por la venta del lunes?",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "$\\$108.000$"
-        },
-        {
-          "letter": "B",
-          "is_correct": true,
-          "text": "$\\$126.000$"
-        },
-        {
-          "letter": "C",
-          "is_correct": false,
-          "text": "$\\$144.000$"
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "$\\$162.000$"
-        }
-      ],
-      "explanation": "**Paso 1:** Definir variables\n- Sea $L$ = kilos de limones\n- Sea $N$ = kilos de naranjas = $2L$ (el doble)\n**Paso 2:** Plantear ecuación\n$$L + N = 36$$\n$$L + 2L = 36$$\n$$3L = 36$$\n$$L = 12 \\text{ kg de limones}$$\n$$N = 2(12) = 24 \\text{ kg de naranjas}$$\n**Paso 3:** Calcular dinero total\n- Naranjas: $24 \\times 3000 = 72000$ pesos\n- Limones: $12 \\times 4500 = 54000$ pesos\n- **Total:** $72000 + 54000 = 126000$ pesos\n**¿Por qué las otras no?**\n- **A) $108.000$:** Error al calcular los kilos (18+18 en vez de 24+12).\n- **C) $144.000$:** Usa precios invertidos.\n- **D) $162.000$:** Suma mal los productos.\n**Competencia evaluada:** Resolución - sistema de ecuaciones con contexto\n---",
-      "id": "CO-MAT-09-algebra-001-v6"
-    },
-    {
-      "images": [],
-      "number": 7,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "B",
-      "bundle_id": "CO-MAT-09-algebra-001",
-      "statement": "Una cooperativa cafetera en el Eje Cafetero ofrece dos planes de afiliación:\n- **Plan A:** Cuota mensual de $\\$50.000$ más $\\$800$ por arroba de café vendida.\n- **Plan B:** Sin cuota mensual, pero $\\$1.200$ por arroba vendida.\nSi un caficultor vende $x$ arrobas mensuales, ¿a partir de cuántas arrobas le conviene más el Plan A?",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "Más de 100 arrobas"
-        },
-        {
-          "letter": "B",
-          "is_correct": true,
-          "text": "Más de 125 arrobas"
-        },
-        {
-          "letter": "C",
-          "is_correct": false,
-          "text": "Más de 150 arrobas"
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "Siempre conviene el Plan B"
-        }
-      ],
-      "explanation": "**Paso 1:** Modelar los costos\n- Costo Plan A: $C_A(x) = 50000 + 800x$\n- Costo Plan B: $C_B(x) = 1200x$\n**Paso 2:** Encontrar punto de equilibrio\n$$50000 + 800x = 1200x$$\n$$50000 = 1200x - 800x$$\n$$50000 = 400x$$\n$$x = 125 \\text{ arrobas}$$\n**Paso 3:** Analizar cuál conviene\n- Si $x < 125$: Plan B es más barato\n- Si $x = 125$: Ambos cuestan igual ($150.000$)\n- Si $x > 125$: Plan A es más barato\n**Verificación con x = 150:**\n- $C_A(150) = 50000 + 800(150) = 170000$\n- $C_B(150) = 1200(150) = 180000$\n- Plan A ahorra $10.000$ ✓\n**¿Por qué las otras no?**\n- **A) Más de 100:** A 100 arrobas: $C_A = 130000$, $C_B = 120000$. Plan B aún es mejor.\n- **C) Más de 150:** A 150 arrobas ya conviene A, pero el punto de cambio es 125.\n- **D)** Plan B solo conviene si vende menos de 125 arrobas.\n**Competencia evaluada:** Razonamiento - comparación de funciones lineales y análisis de decisiones\n---\n## 📊 Metadata de Validación\n| Pregunta | ID | Dificultad | Competencia ICFES | Componente | Validado |\n|----------|-----|------------|-------------------|------------|----------|\n| 1 | CO-MAT-09-algebra-001-v1 | Medium | Resolución | Numérico-variacional | ⬜ |\n| 2 | CO-MAT-09-algebra-001-v2 | Low | Comunicación | Numérico-variacional | ⬜ |\n| 3 | CO-MAT-09-algebra-001-v3 | Low | Resolución | Numérico-variacional | ⬜ |\n| 4 | CO-MAT-09-algebra-001-v4 | Medium | Comunicación | Numérico-variacional | ⬜ |\n| 5 | CO-MAT-09-algebra-001-v5 | Medium | Resolución | Numérico-variacional | ⬜ |\n| 6 | CO-MAT-09-algebra-001-v6 | High | Resolución | Numérico-variacional | ⬜ |\n| 7 | CO-MAT-09-algebra-001-v7 | High | Razonamiento | Numérico-variacional | ⬜ |\n---\n**Source ID:** `ICFES-MAT-009-001`\n**Fecha de creación:** 2025-12-05\n**Contexto cultural:** Ráquira (artesanías), Cartagena (restaurante), Bogotá-Medellín (transporte), Cali (servicios públicos), Villavicencio (mercado), Eje Cafetero (cooperativa)",
-      "id": "CO-MAT-09-algebra-001-v7"
-    },
-    {
-      "images": [],
-      "number": 1,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "A",
-      "bundle_id": "CO-MAT-09-algebra-mix-001",
-      "statement": "Si $3x + 5 = 20$, ¿cuál es el valor de $x$?",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": true,
-          "text": "5"
-        },
-        {
-          "letter": "B",
-          "is_correct": false,
-          "text": "15"
-        },
-        {
-          "letter": "C",
-          "is_correct": false,
-          "text": "3"
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "4"
-        }
-      ],
-      "explanation": "Despeje básico:\n$3x = 20 - 5$\n$3x = 15$\n$x = 15 / 3 = 5$.\n**Competencia evaluada:** Formulación - Despeje de incógnita.\n---",
-      "id": "CO-MAT-09-algebra-mix-001-v1"
-    },
-    {
-      "images": [],
-      "number": 2,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "B",
-      "bundle_id": "CO-MAT-09-algebra-mix-001",
-      "statement": "¿Cuál es el valor de $x$ si $x - 7 = 10$?",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "3"
-        },
-        {
-          "letter": "B",
-          "is_correct": true,
-          "text": "17"
-        },
-        {
-          "letter": "C",
-          "is_correct": false,
-          "text": "7"
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "10"
-        }
-      ],
-      "explanation": "$x = 10 + 7 = 17$.\n**Competencia evaluada:** Formulación - Ecuación simple.\n---",
-      "id": "CO-MAT-09-algebra-mix-001-v2"
-    },
-    {
-      "images": [],
-      "number": 3,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "B",
-      "bundle_id": "CO-MAT-09-algebra-mix-001",
-      "statement": "Si $2(x + 1) = 12$, halle $x$.",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "6"
-        },
-        {
-          "letter": "B",
-          "is_correct": true,
-          "text": "5"
-        },
-        {
-          "letter": "C",
-          "is_correct": false,
-          "text": "4"
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "7"
-        }
-      ],
-      "explanation": "$2x + 2 = 12$\n$2x = 10$\n$x = 5$.\nO dividiendo primero: $x+1 = 6 \\rightarrow x=5$.\n**Competencia evaluada:** Ejecución - Propiedad distributiva.\n---",
-      "id": "CO-MAT-09-algebra-mix-001-v3"
-    },
-    {
-      "images": [],
-      "number": 4,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "B",
-      "bundle_id": "CO-MAT-09-algebra-mix-001",
-      "statement": "La suma de un número y su doble es 24. ¿Cuál es el número?",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "6"
-        },
-        {
-          "letter": "B",
-          "is_correct": true,
-          "text": "8"
-        },
-        {
-          "letter": "C",
-          "is_correct": false,
-          "text": "12"
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "10"
-        }
-      ],
-      "explanation": "Planteamiento: $x + 2x = 24$.\n$3x = 24$.\n$x = 8$.\n**Competencia evaluada:** Formulación - Lenguaje algebraico.\n---",
-      "id": "CO-MAT-09-algebra-mix-001-v4"
-    },
-    {
-      "images": [],
-      "number": 5,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "C",
-      "bundle_id": "CO-MAT-09-algebra-mix-001",
-      "statement": "Resuelva el sistema de ecuaciones:\n1) $x + y = 10$\n2) $x - y = 2$",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "x=5, y=5"
-        },
-        {
-          "letter": "B",
-          "is_correct": false,
-          "text": "x=8, y=2"
-        },
-        {
-          "letter": "C",
-          "is_correct": true,
-          "text": "x=6, y=4"
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "x=7, y=3"
-        }
-      ],
-      "explanation": "Método de reducción (sumar las ecuaciones):\n$2x = 12 \\rightarrow x = 6$.\nReemplazar en (1): $6 + y = 10 \\rightarrow y = 4$.\n**Competencia evaluada:** Resolución - Sistemas 2x2.\n---",
-      "id": "CO-MAT-09-algebra-mix-001-v5"
-    },
-    {
-      "images": [],
-      "number": 6,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "D",
-      "bundle_id": "CO-MAT-09-algebra-mix-001",
-      "statement": "Si $x^2 - 16 = 0$, los posibles valores de $x$ son:",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "Solo 4"
-        },
-        {
-          "letter": "B",
-          "is_correct": false,
-          "text": "Solo -4"
-        },
-        {
-          "letter": "C",
-          "is_correct": false,
-          "text": "8 y -8"
-        },
-        {
-          "letter": "D",
-          "is_correct": true,
-          "text": "4 y -4"
-        }
-      ],
-      "explanation": "Diferencia de cuadrados: $(x-4)(x+4)=0$.\nO despejando: $x^2 = 16 \\rightarrow x = \\pm \\sqrt{16} = \\pm 4$.\n**Competencia evaluada:** Argumentación - Ecuaciones cuadráticas.\n---",
-      "id": "CO-MAT-09-algebra-mix-001-v6"
-    },
-    {
-      "images": [],
-      "number": 7,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "B",
-      "bundle_id": "CO-MAT-09-algebra-mix-001",
-      "statement": "¿Cuál expresión representa \"el triple del cuadrado de un número menos cinco\"?",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "$(3x)^2 - 5$"
-        },
-        {
-          "letter": "B",
-          "is_correct": true,
-          "text": "$3x^2 - 5$"
-        },
-        {
-          "letter": "C",
-          "is_correct": false,
-          "text": "$3(x^2 - 5)$"
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "$3x - 5^2$"
-        }
-      ],
-      "explanation": "La jerarquía es clave:\n1. Cuadrado de un número: $x^2$\n2. Triple de eso: $3x^2$\n3. Menos cinco: $3x^2 - 5$.\n**Competencia evaluada:** Interpretación - Lenguaje algebraico.\n---\n## 📊 Metadata de Validación\n| Pregunta | ID | Dificultad | Competencia ICFES | Componente | Validado |\n|----------|-----|------------|-------------------|------------|----------|\n| 1 | v1 | Medium | Formulación | Variacional | ⬜ |\n| 2 | v2 | Low | Formulación | Variacional | ⬜ |\n| 3 | v3 | 3 | Ejecución | Variacional | ⬜ |\n| 4 | v4 | Medium | Formulación | Variacional | ⬜ |\n| 5 | v5 | 4 | Resolución | Variacional | ⬜ |\n| 6 | v6 | High | Argumentación | Variacional | ⬜ |\n| 7 | v7 | High | Interpretación | Variacional | ⬜ |",
-      "id": "CO-MAT-09-algebra-mix-001-v7"
-    },
-    {
-      "images": [],
-      "number": 0,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "B",
-      "bundle_id": "CO-MAT-09-estadistica-001-bundle",
-      "statement": "En una bolsa hay 3 bolas rojas y 2 bolas azules. ¿Cuál es la probabilidad de sacar una bola **azul** al azar?",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "1/5"
-        },
-        {
-          "letter": "B",
-          "is_correct": true,
-          "text": "2/5"
-        },
-        {
-          "letter": "C",
-          "is_correct": false,
-          "text": "3/5"
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "2/3"
-        }
-      ],
-      "explanation": "**Laplace:** Casos favorables (2 azules) / Casos totales (3+2=5). Probabilidad = 2/5.\n---",
-      "id": "CO-MAT-09-estadistica-001-bundle-v0"
-    },
-    {
-      "images": [],
-      "number": 0,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "B",
-      "bundle_id": "CO-MAT-09-estadistica-001-bundle",
-      "statement": "Si lanzas una **moneda** al aire, ¿cuál es la probabilidad de que caiga \"Cara\"?",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "100%"
-        },
-        {
-          "letter": "B",
-          "is_correct": true,
-          "text": "50% (o 1/2)"
-        },
-        {
-          "letter": "C",
-          "is_correct": false,
-          "text": "25% (o 1/4)"
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "0%"
-        }
-      ],
-      "explanation": "**Equiprobable:** Hay 2 opciones (cara, sello). 1 favorable de 2 totales = 1/2 = 50%.\n---",
-      "id": "CO-MAT-09-estadistica-001-bundle-v0"
-    },
-    {
-      "images": [],
-      "number": 0,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "B",
-      "bundle_id": "CO-MAT-09-estadistica-001-bundle",
-      "statement": "Al lanzar un **dado** de 6 caras, ¿cuál es la probabilidad de sacar un número **mayor que 4**?",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "1/6"
-        },
-        {
-          "letter": "B",
-          "is_correct": true,
-          "text": "2/6 (o 1/3)"
-        },
-        {
-          "letter": "C",
-          "is_correct": false,
-          "text": "4/6"
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "3/6"
-        }
-      ],
-      "explanation": "**Conteo:** Números mayores que 4 son: {5, 6}. Son 2 casos favorables de 6 posibles. 2/6 simplificado es 1/3.\n---",
-      "id": "CO-MAT-09-estadistica-001-bundle-v0"
-    },
-    {
-      "images": [],
-      "number": 0,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "B",
-      "bundle_id": "CO-MAT-09-estadistica-001-bundle",
-      "statement": "Si en un salón de 20 estudiantes, 5 usan gafas, ¿qué **porcentaje** de estudiantes usa gafas?",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "10%"
-        },
-        {
-          "letter": "B",
-          "is_correct": true,
-          "text": "25%"
-        },
-        {
-          "letter": "C",
-          "is_correct": false,
-          "text": "50%"
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "5%"
-        }
-      ],
-      "explanation": "**Fracción a Porcentaje:** 5/20 es igual a 1/4. Y 1/4 equivale al 25% ($0.25 \\times 100$).\n---",
-      "id": "CO-MAT-09-estadistica-001-bundle-v0"
-    },
-    {
-      "images": [],
-      "number": 0,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "B",
-      "bundle_id": "CO-MAT-09-estadistica-001-bundle",
-      "statement": "¿Cuál de los siguientes es un **evento imposible** al lanzar un dado normal?",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "Sacar un 1."
-        },
-        {
-          "letter": "B",
-          "is_correct": true,
-          "text": "Sacar un 8."
-        },
-        {
-          "letter": "C",
-          "is_correct": false,
-          "text": "Sacar un número par."
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "Sacar un 6."
-        }
-      ],
-      "explanation": "**Imposible:** El dado solo tiene números del 1 al 6. No puede salir 8.\n---",
-      "id": "CO-MAT-09-estadistica-001-bundle-v0"
-    },
-    {
-      "images": [],
-      "number": 0,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "C",
-      "bundle_id": "CO-MAT-09-estadistica-001-bundle",
-      "statement": "En una urna hay 5 bolas: 1 verde, 1 amarilla y 3 rojas. ¿Qué color es **más probable** sacar?",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "Verde."
-        },
-        {
-          "letter": "B",
-          "is_correct": false,
-          "text": "Amarilla."
-        },
-        {
-          "letter": "C",
-          "is_correct": true,
-          "text": "Roja."
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "Todas tienen igual probabilidad."
-        }
-      ],
-      "explanation": "**Comparación:** Hay más bolas rojas (3) que de cualquier otro color.\n---",
-      "id": "CO-MAT-09-estadistica-001-bundle-v0"
-    },
-    {
-      "images": [],
-      "number": 0,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "B",
-      "bundle_id": "CO-MAT-09-estadistica-001-bundle",
-      "statement": "¿Cuál es el **promedio** (media) de las siguientes notas: 3, 4 y 5?",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "3"
-        },
-        {
-          "letter": "B",
-          "is_correct": true,
-          "text": "4"
-        },
-        {
-          "letter": "C",
-          "is_correct": false,
-          "text": "5"
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "12"
-        }
-      ],
-      "explanation": "**Media:** Suma de datos / Cantidad. $(3 + 4 + 5) / 3 = 12 / 3 = 4$.",
-      "id": "CO-MAT-09-estadistica-001-bundle-v0"
-    },
-    {
-      "images": [],
-      "number": 1,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "C",
-      "bundle_id": "CO-MAT-09-geometria-001",
-      "statement": "Un poste de luz proyecta una sombra de 4 metros, mientras que, a la misma hora, una vara vertical de 1 metro de altura proyecta una sombra de 0.5 metros. ¿Cuál es la altura del poste?",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "2 m"
-        },
-        {
-          "letter": "B",
-          "is_correct": false,
-          "text": "4 m"
-        },
-        {
-          "letter": "C",
-          "is_correct": true,
-          "text": "8 m"
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "6 m"
-        }
-      ],
-      "explanation": "Por semejanza de triángulos (Teorema de Thales):\n$\\frac{Altura_{poste}}{Sombra_{poste}} = \\frac{Altura_{vara}}{Sombra_{vara}}$\n$\\frac{h}{4} = \\frac{1}{0.5}$\n$h = \\frac{4 \\times 1}{0.5} = \\frac{4}{0.5} = 8$ metros.\n**Competencia evaluada:** Formulación - Semejanza.\n---",
-      "id": "CO-MAT-09-geometria-001-v1"
-    },
-    {
-      "images": [],
-      "number": 2,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "A",
-      "bundle_id": "CO-MAT-09-geometria-001",
-      "statement": "Dos figuras son congruentes si:",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": true,
-          "text": "Tienen la misma forma y el mismo tamaño."
-        },
-        {
-          "letter": "B",
-          "is_correct": false,
-          "text": "Tienen diferente forma pero mismo tamaño."
-        },
-        {
-          "letter": "C",
-          "is_correct": false,
-          "text": "Tienen la misma forma pero diferente tamaño."
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "Tienen diferente forma y tamaño."
-        }
-      ],
-      "explanation": "Definición básica. **Congruencia** implica igualdad exacta (forma y tamaño). **Semejanza** implica misma forma, tamaño proporcional.\n**Competencia evaluada:** Concepto geométrico.\n---",
-      "id": "CO-MAT-09-geometria-001-v2"
-    },
-    {
-      "images": [],
-      "number": 3,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "B",
-      "bundle_id": "CO-MAT-09-geometria-001",
-      "statement": "Si ampliamos una foto al doble de su tamaño original, la nueva foto es ______ a la original.",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "Congruente"
-        },
-        {
-          "letter": "B",
-          "is_correct": true,
-          "text": "Semejante"
-        },
-        {
-          "letter": "C",
-          "is_correct": false,
-          "text": "Igual"
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "Distinta"
-        }
-      ],
-      "explanation": "Mantienen la proporción de sus lados y ángulos, por lo que son semejantes.\n**Competencia evaluada:** Razonamiento - Proporcionalidad.\n---",
-      "id": "CO-MAT-09-geometria-001-v3"
-    },
-    {
-      "images": [],
-      "number": 4,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "B",
-      "bundle_id": "CO-MAT-09-geometria-001",
-      "statement": "En un triángulo $\\triangle ABC$, si trazamos una línea paralela a la base $BC$ que corte los otros dos lados, el triángulo pequeño que se forma es:",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "Congruente al original."
-        },
-        {
-          "letter": "B",
-          "is_correct": true,
-          "text": "Semejante al original."
-        },
-        {
-          "letter": "C",
-          "is_correct": false,
-          "text": "Equilátero."
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "De área igual."
-        }
-      ],
-      "explanation": "Propiedad fundamental de Thales. Una paralela a un lado forma un triángulo semejante.\n**Competencia evaluada:** Argumentación - Teoremas geométricos.\n---",
-      "id": "CO-MAT-09-geometria-001-v4"
-    },
-    {
-      "images": [],
-      "number": 5,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "A",
-      "bundle_id": "CO-MAT-09-geometria-001",
-      "statement": "Los lados de un triángulo miden 3, 4 y 5. Los lados de otro triángulo miden 6, 8 y 10. ¿Son semejantes?",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": true,
-          "text": "Sí, porque sus lados son proporcionales (razón 2)."
-        },
-        {
-          "letter": "B",
-          "is_correct": false,
-          "text": "No, porque son números diferentes."
-        },
-        {
-          "letter": "C",
-          "is_correct": false,
-          "text": "Sí, porque ambos son rectángulos pero no semejantes."
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "No sé."
-        }
-      ],
-      "explanation": "Criterio LLL (Lado-Lado-Lado).\n$\\frac{6}{3} = 2$; $\\frac{8}{4} = 2$; $\\frac{10}{5} = 2$. La razón es constante ($k=2$).\n**Competencia evaluada:** Argumentación - Criterios de semejanza.\n---",
-      "id": "CO-MAT-09-geometria-001-v5"
-    },
-    {
-      "images": [],
-      "number": 6,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "C",
-      "bundle_id": "CO-MAT-09-geometria-001",
-      "statement": "En un mapa a escala 1:100.000, dos ciudades están separadas por 5 cm. ¿Cuál es la distancia real en kilómetros?",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "500 km"
-        },
-        {
-          "letter": "B",
-          "is_correct": false,
-          "text": "50 km"
-        },
-        {
-          "letter": "C",
-          "is_correct": true,
-          "text": "5 km"
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "0.5 km"
-        }
-      ],
-      "explanation": "$5 cm \\times 100.000 = 500.000 cm$.\nPasar a km: $500.000 cm \\div 100 (m) \\div 1.000 (km) = 5 km$.\n**Competencia evaluada:** Resolución - Escalas y conversión.\n---",
-      "id": "CO-MAT-09-geometria-001-v6"
-    },
-    {
-      "images": [],
-      "number": 7,
-      "source_url": "https://www.icfes.gov.co",
-      "correct_answer": "C",
-      "bundle_id": "CO-MAT-09-geometria-001",
-      "statement": "Si la razón de semejanza entre dos triángulos es $k=3$ (el segundo es el triple de grande), ¿cuál es la razón entre sus **áreas**?",
-      "tags": [],
-      "difficulty": "Medium",
-      "options": [
-        {
-          "letter": "A",
-          "is_correct": false,
-          "text": "3"
-        },
-        {
-          "letter": "B",
-          "is_correct": false,
-          "text": "6"
-        },
-        {
-          "letter": "C",
-          "is_correct": true,
-          "text": "9"
-        },
-        {
-          "letter": "D",
-          "is_correct": false,
-          "text": "27"
-        }
-      ],
-      "explanation": "Si la razón lineal es $k$, la razón de áreas es $k^2$.\n$3^2 = 9$. El área es 9 veces mayor.\n**Competencia evaluada:** Argumentación - Relación área/longitud.\n---\n## 📊 Metadata de Validación\n| Pregunta | ID | Dificultad | Competencia ICFES | Componente | Validado |\n|----------|-----|------------|-------------------|------------|----------|\n| 1 | v1 | Medium | Formulación | Espacial-métrico | ⬜ |\n| 2 | v2 | Low | Concepto | Espacial-métrico | ⬜ |\n| 3 | v3 | Low | Razonamiento | Espacial-métrico | ⬜ |\n| 4 | v4 | Medium | Argumentación | Espacial-métrico | ⬜ |\n| 5 | v5 | Medium | Argumentación | Espacial-métrico | ⬜ |\n| 6 | v6 | High | Resolución | Espacial-métrico | ⬜ |\n| 7 | v7 | High | Argumentación | Espacial-métrico | ⬜ |",
-      "id": "CO-MAT-09-geometria-001-v7"
-    }
-  ],
-  "metadata": {
-    "subject": "Matemáticas",
-    "total_pages": 1.0,
-    "page": 1,
-    "generated_at": "2025-12-10T17:08:07Z",
-    "total_questions": 28,
-    "exam": "icfes",
-    "country": "CO",
-    "grade": "9"
-  }
+﻿{
+    "metadata":  {
+                     "total_pages":  1,
+                     "total_questions":  13,
+                     "exam":  "icfes",
+                     "subject":  "Matemáticas",
+                     "generated_at":  "2025-12-13T13:00:55Z",
+                     "country":  "co",
+                     "grade":  "9",
+                     "page":  1
+                 },
+    "questions":  [
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "5"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "7"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "12"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "17"
+                                          }
+                                      ],
+                          "id":  "CO-MAT-09-algebra-001-v2",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Si $x + 5 = 12$, ¿cuánto vale $x$?",
+                          "correct_answer":  "B",
+                          "number":  2,
+                          "bundle_id":  "CO-MAT-09-algebra-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "50 km/h"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "60 km/h"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "75 km/h"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "100 km/h"
+                                          }
+                                      ],
+                          "id":  "CO-MAT-09-algebra-001-v4",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "La gráfica muestra la relación entre el tiempo (en horas) y la distancia recorrida (en kilómetros) por un bus intermunicipal que viaja de Bogotá a Medellín.\n```\nDistancia (km)\n│\n300├─────────────────────●\n   │                   ╱\n200├─────────────●───╱\n   │           ╱\n100├───────●─╱\n   │     ╱\n  0├───●─────────────────\n   0   1   2   3   4   5  Tiempo (h)\n```\nSegún la gráfica, ¿cuál es la velocidad promedio del bus en km/h?",
+                          "correct_answer":  "B",
+                          "number":  4,
+                          "bundle_id":  "CO-MAT-09-algebra-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "$\\$108.000$"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "$\\$126.000$"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "$\\$144.000$"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "$\\$162.000$"
+                                          }
+                                      ],
+                          "id":  "CO-MAT-09-algebra-001-v6",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "En el mercado de la plaza de Villavicencio, doña Carmen vende naranjas y limones. El lunes vendió el doble de kilos de naranjas que de limones. Si en total vendió 36 kilos de frutas y cada kilo de naranjas cuesta $\\$3.000$ y cada kilo de limones cuesta $\\$4.500$, ¿cuánto dinero recibió doña Carmen por la venta del lunes?",
+                          "correct_answer":  "B",
+                          "number":  6,
+                          "bundle_id":  "CO-MAT-09-algebra-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "3"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "17"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "7"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "10"
+                                          }
+                                      ],
+                          "id":  "CO-MAT-09-algebra-mix-001-v2",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Cuál es el valor de $x$ si $x - 7 = 10$?",
+                          "correct_answer":  "B",
+                          "number":  2,
+                          "bundle_id":  "CO-MAT-09-algebra-mix-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "6"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "8"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "12"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "10"
+                                          }
+                                      ],
+                          "id":  "CO-MAT-09-algebra-mix-001-v4",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "La suma de un número y su doble es 24. ¿Cuál es el número?",
+                          "correct_answer":  "B",
+                          "number":  4,
+                          "bundle_id":  "CO-MAT-09-algebra-mix-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Solo 4"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Solo -4"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "8 y -8"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "D",
+                                              "text":  "4 y -4"
+                                          }
+                                      ],
+                          "id":  "CO-MAT-09-algebra-mix-001-v6",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Si $x^2 - 16 = 0$, los posibles valores de $x$ son:",
+                          "correct_answer":  "D",
+                          "number":  6,
+                          "bundle_id":  "CO-MAT-09-algebra-mix-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "1/5"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "2/5"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "3/5"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "2/3"
+                                          }
+                                      ],
+                          "id":  "CO-MAT-09-estadistica-001-bundle-v0",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "En una bolsa hay 3 bolas rojas y 2 bolas azules. ¿Cuál es la probabilidad de sacar una bola **azul** al azar?",
+                          "correct_answer":  "B",
+                          "number":  0,
+                          "bundle_id":  "CO-MAT-09-estadistica-001-bundle",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "1/6"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "2/6 (o 1/3)"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "4/6"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "3/6"
+                                          }
+                                      ],
+                          "id":  "CO-MAT-09-estadistica-001-bundle-v0",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Al lanzar un **dado** de 6 caras, ¿cuál es la probabilidad de sacar un número **mayor que 4**?",
+                          "correct_answer":  "B",
+                          "number":  0,
+                          "bundle_id":  "CO-MAT-09-estadistica-001-bundle",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Sacar un 1."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Sacar un 8."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Sacar un número par."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Sacar un 6."
+                                          }
+                                      ],
+                          "id":  "CO-MAT-09-estadistica-001-bundle-v0",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Cuál de los siguientes es un **evento imposible** al lanzar un dado normal?",
+                          "correct_answer":  "B",
+                          "number":  0,
+                          "bundle_id":  "CO-MAT-09-estadistica-001-bundle",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "3"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "4"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "5"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "12"
+                                          }
+                                      ],
+                          "id":  "CO-MAT-09-estadistica-001-bundle-v0",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Cuál es el **promedio** (media) de las siguientes notas: 3, 4 y 5?",
+                          "correct_answer":  "B",
+                          "number":  0,
+                          "bundle_id":  "CO-MAT-09-estadistica-001-bundle",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "Tienen la misma forma y el mismo tamaño."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Tienen diferente forma pero mismo tamaño."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Tienen la misma forma pero diferente tamaño."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Tienen diferente forma y tamaño."
+                                          }
+                                      ],
+                          "id":  "CO-MAT-09-geometria-001-v2",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Dos figuras son congruentes si:",
+                          "correct_answer":  "A",
+                          "number":  2,
+                          "bundle_id":  "CO-MAT-09-geometria-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Congruente al original."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Semejante al original."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Equilátero."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "De área igual."
+                                          }
+                                      ],
+                          "id":  "CO-MAT-09-geometria-001-v4",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "En un triángulo $\\triangle ABC$, si trazamos una línea paralela a la base $BC$ que corte los otros dos lados, el triángulo pequeño que se forma es:",
+                          "correct_answer":  "B",
+                          "number":  4,
+                          "bundle_id":  "CO-MAT-09-geometria-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "500 km"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "50 km"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "5 km"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "0.5 km"
+                                          }
+                                      ],
+                          "id":  "CO-MAT-09-geometria-001-v6",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "En un mapa a escala 1:100.000, dos ciudades están separadas por 5 cm. ¿Cuál es la distancia real en kilómetros?",
+                          "correct_answer":  "C",
+                          "number":  6,
+                          "bundle_id":  "CO-MAT-09-geometria-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      }
+                  ]
 }

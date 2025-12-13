@@ -1,13 +1,13 @@
 ﻿{
     "metadata":  {
-                     "total_pages":  2,
-                     "total_questions":  149,
+                     "total_pages":  4,
+                     "total_questions":  342,
                      "exam":  "icfes",
-                     "subject":  "Matemáticas",
+                     "subject":  "Sociales y Ciudadanas",
                      "generated_at":  "2025-12-13T13:00:54Z",
                      "country":  "co",
                      "grade":  "11",
-                     "page":  2
+                     "page":  4
                  },
     "questions":  [
                       {
@@ -15,70 +15,32 @@
                                           {
                                               "is_correct":  false,
                                               "letter":  "A",
-                                              "text":  "20"
-                                          },
-                                          {
-                                              "is_correct":  true,
-                                              "letter":  "B",
-                                              "text":  "12"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "C",
-                                              "text":  "10"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "D",
-                                              "text":  "22"
-                                          }
-                                      ],
-                          "id":  "CO-MAT-11-poligonos-002-v6",
-                          "tags":  [
-
-                                   ],
-                          "statement":  "Un arquitecto diseña una plaza con forma de **dodecágono**. ¿Cuántos lados tendrá la plaza?",
-                          "correct_answer":  "B",
-                          "number":  6,
-                          "bundle_id":  "CO-MAT-11-poligonos-002",
-                          "images":  [
-
-                                     ],
-                          "explanation":  "",
-                          "difficulty":  "High",
-                          "source_url":  "https://www.icfes.gov.co"
-                      },
-                      {
-                          "options":  [
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "A",
-                                              "text":  "Tri"
+                                              "text":  "Opción 1"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "B",
-                                              "text":  "Hexa"
+                                              "text":  "Opción 2"
                                           },
                                           {
-                                              "is_correct":  true,
+                                              "is_correct":  false,
                                               "letter":  "C",
-                                              "text":  "Penta"
+                                              "text":  "Opción 3"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "D",
-                                              "text":  "Octa"
+                                              "text":  "Opción 4"
                                           }
                                       ],
-                          "id":  "CO-MAT-11-poligonos-003-v2",
+                          "id":  "SOC01647-01-v2",
                           "tags":  [
 
                                    ],
-                          "statement":  "¿Cuál de los siguientes prefijos griegos indica \"cinco\"?",
-                          "correct_answer":  "C",
+                          "statement":  "TODO: Generar variación de tipo Low A",
+                          "correct_answer":  "",
                           "number":  2,
-                          "bundle_id":  "CO-MAT-11-poligonos-003",
+                          "bundle_id":  "SOC01647-01",
                           "images":  [
 
                                      ],
@@ -91,32 +53,32 @@
                                           {
                                               "is_correct":  false,
                                               "letter":  "A",
-                                              "text":  "Hexágono"
+                                              "text":  "Opción 1"
                                           },
                                           {
-                                              "is_correct":  true,
+                                              "is_correct":  false,
                                               "letter":  "B",
-                                              "text":  "Heptágono"
+                                              "text":  "Opción 2"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "C",
-                                              "text":  "Eneágono"
+                                              "text":  "Opción 3"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "D",
-                                              "text":  "Decágono"
+                                              "text":  "Opción 4"
                                           }
                                       ],
-                          "id":  "CO-MAT-11-poligonos-003-v4",
+                          "id":  "SOC01647-01-v4",
                           "tags":  [
 
                                    ],
-                          "statement":  "¿Qué nombre recibe un polígono de 7 lados?",
-                          "correct_answer":  "B",
+                          "statement":  "TODO: Generar variación de tipo Medium A",
+                          "correct_answer":  "",
                           "number":  4,
-                          "bundle_id":  "CO-MAT-11-poligonos-003",
+                          "bundle_id":  "SOC01647-01",
                           "images":  [
 
                                      ],
@@ -129,374 +91,32 @@
                                           {
                                               "is_correct":  false,
                                               "letter":  "A",
-                                              "text":  "$T = n$"
+                                              "text":  "Opción 1"
                                           },
                                           {
-                                              "is_correct":  true,
+                                              "is_correct":  false,
                                               "letter":  "B",
-                                              "text":  "$T = n - 2$"
+                                              "text":  "Opción 2"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "C",
-                                              "text":  "$T = n - 3$"
+                                              "text":  "Opción 3"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "D",
-                                              "text":  "$T = n / 2$"
+                                              "text":  "Opción 4"
                                           }
                                       ],
-                          "id":  "CO-MAT-11-poligonos-003-v6",
+                          "id":  "SOC01647-01-v6",
                           "tags":  [
 
                                    ],
-                          "statement":  "¿Cuál es la relación general entre el número de lados ($n$) y el número de triángulos ($T$) en los que se puede dividir un polígono desde un solo vértice?",
-                          "correct_answer":  "B",
+                          "statement":  "TODO: Generar variación de tipo High A",
+                          "correct_answer":  "",
                           "number":  6,
-                          "bundle_id":  "CO-MAT-11-poligonos-003",
-                          "images":  [
-
-                                     ],
-                          "explanation":  "",
-                          "difficulty":  "High",
-                          "source_url":  "https://www.icfes.gov.co"
-                      },
-                      {
-                          "options":  [
-                                          {
-                                              "is_correct":  true,
-                                              "letter":  "A",
-                                              "text":  "180°"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "B",
-                                              "text":  "360°"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "C",
-                                              "text":  "90°"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "D",
-                                              "text":  "270°"
-                                          }
-                                      ],
-                          "id":  "CO-MAT-11-poligonos-004-v2",
-                          "tags":  [
-
-                                   ],
-                          "statement":  "¿Cuánto suman los ángulos internos de un triángulo?",
-                          "correct_answer":  "A",
-                          "number":  2,
-                          "bundle_id":  "CO-MAT-11-poligonos-004",
-                          "images":  [
-
-                                     ],
-                          "explanation":  "",
-                          "difficulty":  "Low",
-                          "source_url":  "https://www.icfes.gov.co"
-                      },
-                      {
-                          "options":  [
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "A",
-                                              "text":  "360°"
-                                          },
-                                          {
-                                              "is_correct":  true,
-                                              "letter":  "B",
-                                              "text":  "540°"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "C",
-                                              "text":  "720°"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "D",
-                                              "text":  "450°"
-                                          }
-                                      ],
-                          "id":  "CO-MAT-11-poligonos-004-v4",
-                          "tags":  [
-
-                                   ],
-                          "statement":  "Calcula la suma de los ángulos internos de un pentágono.",
-                          "correct_answer":  "B",
-                          "number":  4,
-                          "bundle_id":  "CO-MAT-11-poligonos-004",
-                          "images":  [
-
-                                     ],
-                          "explanation":  "",
-                          "difficulty":  "Medium",
-                          "source_url":  "https://www.icfes.gov.co"
-                      },
-                      {
-                          "options":  [
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "A",
-                                              "text":  "6"
-                                          },
-                                          {
-                                              "is_correct":  true,
-                                              "letter":  "B",
-                                              "text":  "8"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "C",
-                                              "text":  "10"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "D",
-                                              "text":  "7"
-                                          }
-                                      ],
-                          "id":  "CO-MAT-11-poligonos-004-v6",
-                          "tags":  [
-
-                                   ],
-                          "statement":  "Si la suma de los ángulos internos de un polígono es 1080°, ¿cuántos lados tiene el polígono?",
-                          "correct_answer":  "B",
-                          "number":  6,
-                          "bundle_id":  "CO-MAT-11-poligonos-004",
-                          "images":  [
-
-                                     ],
-                          "explanation":  "",
-                          "difficulty":  "High",
-                          "source_url":  "https://www.icfes.gov.co"
-                      },
-                      {
-                          "options":  [
-                                          {
-                                              "is_correct":  true,
-                                              "letter":  "A",
-                                              "text":  "0"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "B",
-                                              "text":  "1"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "C",
-                                              "text":  "2"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "D",
-                                              "text":  "3"
-                                          }
-                                      ],
-                          "id":  "CO-MAT-11-poligonos-005-v2",
-                          "tags":  [
-
-                                   ],
-                          "statement":  "¿Cuántas diagonales tiene un triángulo?",
-                          "correct_answer":  "A",
-                          "number":  2,
-                          "bundle_id":  "CO-MAT-11-poligonos-005",
-                          "images":  [
-
-                                     ],
-                          "explanation":  "",
-                          "difficulty":  "Low",
-                          "source_url":  "https://www.icfes.gov.co"
-                      },
-                      {
-                          "options":  [
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "A",
-                                              "text":  "4"
-                                          },
-                                          {
-                                              "is_correct":  true,
-                                              "letter":  "B",
-                                              "text":  "5"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "C",
-                                              "text":  "10"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "D",
-                                              "text":  "6"
-                                          }
-                                      ],
-                          "id":  "CO-MAT-11-poligonos-005-v4",
-                          "tags":  [
-
-                                   ],
-                          "statement":  "Calcula el número de diagonales de un pentágono.",
-                          "correct_answer":  "B",
-                          "number":  4,
-                          "bundle_id":  "CO-MAT-11-poligonos-005",
-                          "images":  [
-
-                                     ],
-                          "explanation":  "",
-                          "difficulty":  "Medium",
-                          "source_url":  "https://www.icfes.gov.co"
-                      },
-                      {
-                          "options":  [
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "A",
-                                              "text":  "25"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "B",
-                                              "text":  "30"
-                                          },
-                                          {
-                                              "is_correct":  true,
-                                              "letter":  "C",
-                                              "text":  "35"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "D",
-                                              "text":  "50"
-                                          }
-                                      ],
-                          "id":  "CO-MAT-11-poligonos-005-v6",
-                          "tags":  [
-
-                                   ],
-                          "statement":  "Un decágono (10 lados) tiene un número de diagonales igual a:",
-                          "correct_answer":  "C",
-                          "number":  6,
-                          "bundle_id":  "CO-MAT-11-poligonos-005",
-                          "images":  [
-
-                                     ],
-                          "explanation":  "",
-                          "difficulty":  "High",
-                          "source_url":  "https://www.icfes.gov.co"
-                      },
-                      {
-                          "options":  [
-                                          {
-                                              "is_correct":  true,
-                                              "letter":  "A",
-                                              "text":  "5 cm"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "B",
-                                              "text":  "4 cm"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "C",
-                                              "text":  "10 cm"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "D",
-                                              "text":  "2 cm"
-                                          }
-                                      ],
-                          "id":  "CO-MAT-11-poligonos-006-v2",
-                          "tags":  [
-
-                                   ],
-                          "statement":  "El perímetro de un cuadrado es 20 cm. ¿Cuánto mide cada lado?",
-                          "correct_answer":  "A",
-                          "number":  2,
-                          "bundle_id":  "CO-MAT-11-poligonos-006",
-                          "images":  [
-
-                                     ],
-                          "explanation":  "",
-                          "difficulty":  "Low",
-                          "source_url":  "https://www.icfes.gov.co"
-                      },
-                      {
-                          "options":  [
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "A",
-                                              "text":  "32 cm"
-                                          },
-                                          {
-                                              "is_correct":  true,
-                                              "letter":  "B",
-                                              "text":  "40 cm"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "C",
-                                              "text":  "48 cm"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "D",
-                                              "text":  "56 cm"
-                                          }
-                                      ],
-                          "id":  "CO-MAT-11-poligonos-006-v4",
-                          "tags":  [
-
-                                   ],
-                          "statement":  "Si un pentágono regular tiene lados de 8 cm, calcula su perímetro.",
-                          "correct_answer":  "B",
-                          "number":  4,
-                          "bundle_id":  "CO-MAT-11-poligonos-006",
-                          "images":  [
-
-                                     ],
-                          "explanation":  "",
-                          "difficulty":  "Medium",
-                          "source_url":  "https://www.icfes.gov.co"
-                      },
-                      {
-                          "options":  [
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "A",
-                                              "text":  "$A = P \\times a$"
-                                          },
-                                          {
-                                              "is_correct":  true,
-                                              "letter":  "B",
-                                              "text":  "$A = \\frac{P \\times a}{2}$"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "C",
-                                              "text":  "$A = P \\times a^2$"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "D",
-                                              "text":  "$A = \\frac{L \\times a}{2}$"
-                                          }
-                                      ],
-                          "id":  "CO-MAT-11-poligonos-006-v6",
-                          "tags":  [
-
-                                   ],
-                          "statement":  "Para calcular el área exacta de un polígono regular, se usa el apotema ($a$). La fórmula es:",
-                          "correct_answer":  "B",
-                          "number":  6,
-                          "bundle_id":  "CO-MAT-11-poligonos-006",
+                          "bundle_id":  "SOC01647-01",
                           "images":  [
 
                                      ],
@@ -509,32 +129,32 @@
                                           {
                                               "is_correct":  false,
                                               "letter":  "A",
-                                              "text":  "80"
+                                              "text":  "Opción 1"
                                           },
                                           {
-                                              "is_correct":  true,
+                                              "is_correct":  false,
                                               "letter":  "B",
-                                              "text":  "40"
+                                              "text":  "Opción 2"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "C",
-                                              "text":  "20"
+                                              "text":  "Opción 3"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "D",
-                                              "text":  "60"
+                                              "text":  "Opción 4"
                                           }
                                       ],
-                          "id":  "CO-MAT-11-porcentajes-001-v2",
+                          "id":  "SOC06513-01-v2",
                           "tags":  [
 
                                    ],
-                          "statement":  "¿Cuánto es el 50% de 80?",
-                          "correct_answer":  "B",
+                          "statement":  "TODO: Generar variación de tipo Low A",
+                          "correct_answer":  "",
                           "number":  2,
-                          "bundle_id":  "CO-MAT-11-porcentajes-001",
+                          "bundle_id":  "SOC06513-01",
                           "images":  [
 
                                      ],
@@ -547,32 +167,32 @@
                                           {
                                               "is_correct":  false,
                                               "letter":  "A",
-                                              "text":  "30"
+                                              "text":  "Opción 1"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "B",
-                                              "text":  "15"
+                                              "text":  "Opción 2"
                                           },
                                           {
-                                              "is_correct":  true,
+                                              "is_correct":  false,
                                               "letter":  "C",
-                                              "text":  "60"
+                                              "text":  "Opción 3"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "D",
-                                              "text":  "90"
+                                              "text":  "Opción 4"
                                           }
                                       ],
-                          "id":  "CO-MAT-11-porcentajes-001-v4",
+                          "id":  "SOC06513-01-v4",
                           "tags":  [
 
                                    ],
-                          "statement":  "¿Cuánto es el 20% de 300?",
-                          "correct_answer":  "C",
+                          "statement":  "TODO: Generar variación de tipo Medium A",
+                          "correct_answer":  "",
                           "number":  4,
-                          "bundle_id":  "CO-MAT-11-porcentajes-001",
+                          "bundle_id":  "SOC06513-01",
                           "images":  [
 
                                      ],
@@ -585,32 +205,32 @@
                                           {
                                               "is_correct":  false,
                                               "letter":  "A",
-                                              "text":  "40"
+                                              "text":  "Opción 1"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "B",
-                                              "text":  "20"
+                                              "text":  "Opción 2"
                                           },
                                           {
-                                              "is_correct":  true,
+                                              "is_correct":  false,
                                               "letter":  "C",
-                                              "text":  "60"
+                                              "text":  "Opción 3"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "D",
-                                              "text":  "80"
+                                              "text":  "Opción 4"
                                           }
                                       ],
-                          "id":  "CO-MAT-11-porcentajes-001-v6",
+                          "id":  "SOC06513-01-v6",
                           "tags":  [
 
                                    ],
-                          "statement":  "¿Cuánto es el 15% de 400?",
-                          "correct_answer":  "C",
+                          "statement":  "TODO: Generar variación de tipo High A",
+                          "correct_answer":  "",
                           "number":  6,
-                          "bundle_id":  "CO-MAT-11-porcentajes-001",
+                          "bundle_id":  "SOC06513-01",
                           "images":  [
 
                                      ],
@@ -623,32 +243,32 @@
                                           {
                                               "is_correct":  false,
                                               "letter":  "A",
-                                              "text":  "$50,000"
+                                              "text":  "Opción 1"
                                           },
                                           {
-                                              "is_correct":  true,
+                                              "is_correct":  false,
                                               "letter":  "B",
-                                              "text":  "$25,000"
+                                              "text":  "Opción 2"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "C",
-                                              "text":  "$10,000"
+                                              "text":  "Opción 3"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "D",
-                                              "text":  "$40,000"
+                                              "text":  "Opción 4"
                                           }
                                       ],
-                          "id":  "CO-MAT-11-porcentajes-002-v2",
+                          "id":  "SOC07755-01-v2",
                           "tags":  [
 
                                    ],
-                          "statement":  "Un pantalón cuesta $50,000 COP y tiene un 50% de descuento. ¿Cuánto pagas?",
-                          "correct_answer":  "B",
+                          "statement":  "TODO: Generar variación de tipo Low A",
+                          "correct_answer":  "",
                           "number":  2,
-                          "bundle_id":  "CO-MAT-11-porcentajes-002",
+                          "bundle_id":  "SOC07755-01",
                           "images":  [
 
                                      ],
@@ -661,32 +281,32 @@
                                           {
                                               "is_correct":  false,
                                               "letter":  "A",
-                                              "text":  "$24,000"
+                                              "text":  "Opción 1"
                                           },
                                           {
-                                              "is_correct":  true,
+                                              "is_correct":  false,
                                               "letter":  "B",
-                                              "text":  "$96,000"
+                                              "text":  "Opción 2"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "C",
-                                              "text":  "$100,000"
+                                              "text":  "Opción 3"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "D",
-                                              "text":  "$110,000"
+                                              "text":  "Opción 4"
                                           }
                                       ],
-                          "id":  "CO-MAT-11-porcentajes-002-v4",
+                          "id":  "SOC07755-01-v4",
                           "tags":  [
 
                                    ],
-                          "statement":  "Unos zapatos valen $120,000. Si tienen un 20% de descuento, ¿cuál es el PRECIO FINAL a pagar?",
-                          "correct_answer":  "B",
+                          "statement":  "TODO: Generar variación de tipo Medium A",
+                          "correct_answer":  "",
                           "number":  4,
-                          "bundle_id":  "CO-MAT-11-porcentajes-002",
+                          "bundle_id":  "SOC07755-01",
                           "images":  [
 
                                      ],
@@ -699,146 +319,32 @@
                                           {
                                               "is_correct":  false,
                                               "letter":  "A",
-                                              "text":  "10%"
+                                              "text":  "Opción 1"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "B",
-                                              "text":  "20%"
+                                              "text":  "Opción 2"
                                           },
                                           {
-                                              "is_correct":  true,
+                                              "is_correct":  false,
                                               "letter":  "C",
-                                              "text":  "25%"
+                                              "text":  "Opción 3"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "D",
-                                              "text":  "22%"
+                                              "text":  "Opción 4"
                                           }
                                       ],
-                          "id":  "CO-MAT-11-porcentajes-002-v6",
+                          "id":  "SOC07755-01-v6",
                           "tags":  [
 
                                    ],
-                          "statement":  "Un artículo subió de $40,000 a $50,000. ¿Cuál fue el porcentaje de aumento?",
-                          "correct_answer":  "C",
+                          "statement":  "TODO: Generar variación de tipo High A",
+                          "correct_answer":  "",
                           "number":  6,
-                          "bundle_id":  "CO-MAT-11-porcentajes-002",
-                          "images":  [
-
-                                     ],
-                          "explanation":  "",
-                          "difficulty":  "High",
-                          "source_url":  "https://www.icfes.gov.co"
-                      },
-                      {
-                          "options":  [
-                                          {
-                                              "is_correct":  true,
-                                              "letter":  "A",
-                                              "text":  "1/2"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "B",
-                                              "text":  "1/4"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "C",
-                                              "text":  "2/3"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "D",
-                                              "text":  "1/5"
-                                          }
-                                      ],
-                          "id":  "CO-MAT-11-porcentajes-003-v2",
-                          "tags":  [
-
-                                   ],
-                          "statement":  "¿A qué fracción corresponde el 50%?",
-                          "correct_answer":  "A",
-                          "number":  2,
-                          "bundle_id":  "CO-MAT-11-porcentajes-003",
-                          "images":  [
-
-                                     ],
-                          "explanation":  "",
-                          "difficulty":  "Low",
-                          "source_url":  "https://www.icfes.gov.co"
-                      },
-                      {
-                          "options":  [
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "A",
-                                              "text":  "20"
-                                          },
-                                          {
-                                              "is_correct":  true,
-                                              "letter":  "B",
-                                              "text":  "30"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "C",
-                                              "text":  "33"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "D",
-                                              "text":  "27"
-                                          }
-                                      ],
-                          "id":  "CO-MAT-11-porcentajes-003-v4",
-                          "tags":  [
-
-                                   ],
-                          "statement":  "¿Cuánto es el $33.33...\\%$ (un tercio) de 90?",
-                          "correct_answer":  "B",
-                          "number":  4,
-                          "bundle_id":  "CO-MAT-11-porcentajes-003",
-                          "images":  [
-
-                                     ],
-                          "explanation":  "",
-                          "difficulty":  "Medium",
-                          "source_url":  "https://www.icfes.gov.co"
-                      },
-                      {
-                          "options":  [
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "A",
-                                              "text":  "60"
-                                          },
-                                          {
-                                              "is_correct":  true,
-                                              "letter":  "B",
-                                              "text":  "90"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "C",
-                                              "text":  "120"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "D",
-                                              "text":  "100"
-                                          }
-                                      ],
-                          "id":  "CO-MAT-11-porcentajes-003-v6",
-                          "tags":  [
-
-                                   ],
-                          "statement":  "Calcula el 150% de 60.",
-                          "correct_answer":  "B",
-                          "number":  6,
-                          "bundle_id":  "CO-MAT-11-porcentajes-003",
+                          "bundle_id":  "SOC07755-01",
                           "images":  [
 
                                      ],
@@ -851,32 +357,32 @@
                                           {
                                               "is_correct":  false,
                                               "letter":  "A",
-                                              "text":  "$2,000"
+                                              "text":  "Opción 1"
                                           },
                                           {
-                                              "is_correct":  true,
+                                              "is_correct":  false,
                                               "letter":  "B",
-                                              "text":  "$22,000"
+                                              "text":  "Opción 2"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "C",
-                                              "text":  "$25,000"
+                                              "text":  "Opción 3"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "D",
-                                              "text":  "$18,000"
+                                              "text":  "Opción 4"
                                           }
                                       ],
-                          "id":  "CO-MAT-11-porcentajes-004-v2",
+                          "id":  "SOC08516-01-v2",
                           "tags":  [
 
                                    ],
-                          "statement":  "Si el IVA fuera del 10% (hipotéticamente) y compras algo de $20,000 sin IVA, ¿cuánto pagarías en total?",
-                          "correct_answer":  "B",
+                          "statement":  "TODO: Generar variación de tipo Low A",
+                          "correct_answer":  "",
                           "number":  2,
-                          "bundle_id":  "CO-MAT-11-porcentajes-004",
+                          "bundle_id":  "SOC08516-01",
                           "images":  [
 
                                      ],
@@ -887,34 +393,34 @@
                       {
                           "options":  [
                                           {
-                                              "is_correct":  true,
+                                              "is_correct":  false,
                                               "letter":  "A",
-                                              "text":  "$19,000"
+                                              "text":  "Opción 1"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "B",
-                                              "text":  "$119,000"
+                                              "text":  "Opción 2"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "C",
-                                              "text":  "$9,000"
+                                              "text":  "Opción 3"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "D",
-                                              "text":  "$20,000"
+                                              "text":  "Opción 4"
                                           }
                                       ],
-                          "id":  "CO-MAT-11-porcentajes-004-v4",
+                          "id":  "SOC08516-01-v4",
                           "tags":  [
 
                                    ],
-                          "statement":  "Calcula el IVA del 19% para un producto que cuesta $100,000 (base).",
-                          "correct_answer":  "A",
+                          "statement":  "TODO: Generar variación de tipo Medium A",
+                          "correct_answer":  "",
                           "number":  4,
-                          "bundle_id":  "CO-MAT-11-porcentajes-004",
+                          "bundle_id":  "SOC08516-01",
                           "images":  [
 
                                      ],
@@ -927,32 +433,32 @@
                                           {
                                               "is_correct":  false,
                                               "letter":  "A",
-                                              "text":  "$100,000"
+                                              "text":  "Opción 1"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "B",
-                                              "text":  "$100,840"
+                                              "text":  "Opción 2"
                                           },
                                           {
-                                              "is_correct":  true,
+                                              "is_correct":  false,
                                               "letter":  "C",
-                                              "text":  "$100,000"
+                                              "text":  "Opción 3"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "D",
-                                              "text":  "$96,000"
+                                              "text":  "Opción 4"
                                           }
                                       ],
-                          "id":  "CO-MAT-11-porcentajes-004-v6",
+                          "id":  "SOC08516-01-v6",
                           "tags":  [
 
                                    ],
-                          "statement":  "Pagaste $119,000 por un producto que tiene el 19% de IVA incluido. ¿Cuál era el precio base antes del IVA?",
-                          "correct_answer":  "C",
+                          "statement":  "TODO: Generar variación de tipo High A",
+                          "correct_answer":  "",
                           "number":  6,
-                          "bundle_id":  "CO-MAT-11-porcentajes-004",
+                          "bundle_id":  "SOC08516-01",
                           "images":  [
 
                                      ],
@@ -965,32 +471,32 @@
                                           {
                                               "is_correct":  false,
                                               "letter":  "A",
-                                              "text":  "Sí, 50 + 50 = 100%"
+                                              "text":  "Opción 1"
                                           },
                                           {
-                                              "is_correct":  true,
+                                              "is_correct":  false,
                                               "letter":  "B",
-                                              "text":  "No, pagas el 25% del original"
+                                              "text":  "Opción 2"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "C",
-                                              "text":  "No, pagas el 50% del original"
+                                              "text":  "Opción 3"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "D",
-                                              "text":  "Sí, te devuelven dinero"
+                                              "text":  "Opción 4"
                                           }
                                       ],
-                          "id":  "CO-MAT-11-porcentajes-005-v2",
+                          "id":  "SOC21732-01-v2",
                           "tags":  [
 
                                    ],
-                          "statement":  "Si te descuentan el 50% y luego otro 50% sobre el saldo, ¿te sale gratis el producto?",
-                          "correct_answer":  "B",
+                          "statement":  "TODO: Generar variación de tipo Low A",
+                          "correct_answer":  "",
                           "number":  2,
-                          "bundle_id":  "CO-MAT-11-porcentajes-005",
+                          "bundle_id":  "SOC21732-01",
                           "images":  [
 
                                      ],
@@ -1003,32 +509,32 @@
                                           {
                                               "is_correct":  false,
                                               "letter":  "A",
-                                              "text":  "$130,000"
+                                              "text":  "Opción 1"
                                           },
                                           {
-                                              "is_correct":  true,
+                                              "is_correct":  false,
                                               "letter":  "B",
-                                              "text":  "$133,000"
+                                              "text":  "Opción 2"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "C",
-                                              "text":  "$135,000"
+                                              "text":  "Opción 3"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "D",
-                                              "text":  "$140,000"
+                                              "text":  "Opción 4"
                                           }
                                       ],
-                          "id":  "CO-MAT-11-porcentajes-005-v4",
+                          "id":  "SOC21732-01-v4",
                           "tags":  [
 
                                    ],
-                          "statement":  "Precio original $200,000. Descuento inicial 30%. Descuento adicional por pago en efectivo 5%. Precio final:",
-                          "correct_answer":  "B",
+                          "statement":  "TODO: Generar variación de tipo Medium A",
+                          "correct_answer":  "",
                           "number":  4,
-                          "bundle_id":  "CO-MAT-11-porcentajes-005",
+                          "bundle_id":  "SOC21732-01",
                           "images":  [
 
                                      ],
@@ -1041,32 +547,32 @@
                                           {
                                               "is_correct":  false,
                                               "letter":  "A",
-                                              "text":  "30%"
+                                              "text":  "Opción 1"
                                           },
                                           {
-                                              "is_correct":  true,
+                                              "is_correct":  false,
                                               "letter":  "B",
-                                              "text":  "27.1%"
+                                              "text":  "Opción 2"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "C",
-                                              "text":  "29%"
+                                              "text":  "Opción 3"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "D",
-                                              "text":  "25%"
+                                              "text":  "Opción 4"
                                           }
                                       ],
-                          "id":  "CO-MAT-11-porcentajes-005-v6",
+                          "id":  "SOC21732-01-v6",
                           "tags":  [
 
                                    ],
-                          "statement":  "Tres descuentos sucesivos del 10% equivalen a un descuento único aproximado de:",
-                          "correct_answer":  "B",
+                          "statement":  "TODO: Generar variación de tipo High A",
+                          "correct_answer":  "",
                           "number":  6,
-                          "bundle_id":  "CO-MAT-11-porcentajes-005",
+                          "bundle_id":  "SOC21732-01",
                           "images":  [
 
                                      ],
@@ -1079,32 +585,32 @@
                                           {
                                               "is_correct":  false,
                                               "letter":  "A",
-                                              "text":  "$100"
+                                              "text":  "Opción 1"
                                           },
                                           {
-                                              "is_correct":  true,
+                                              "is_correct":  false,
                                               "letter":  "B",
-                                              "text":  "$110"
+                                              "text":  "Opción 2"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "C",
-                                              "text":  "$105"
+                                              "text":  "Opción 3"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "D",
-                                              "text":  "$120"
+                                              "text":  "Opción 4"
                                           }
                                       ],
-                          "id":  "CO-MAT-11-porcentajes-006-v2",
+                          "id":  "SOC30639-01-v2",
                           "tags":  [
 
                                    ],
-                          "statement":  "Si tienes $100 y ganas el 10%, ahora tienes:",
-                          "correct_answer":  "B",
+                          "statement":  "TODO: Generar variación de tipo Low A",
+                          "correct_answer":  "",
                           "number":  2,
-                          "bundle_id":  "CO-MAT-11-porcentajes-006",
+                          "bundle_id":  "SOC30639-01",
                           "images":  [
 
                                      ],
@@ -1117,32 +623,32 @@
                                           {
                                               "is_correct":  false,
                                               "letter":  "A",
-                                              "text":  "$5,000"
+                                              "text":  "Opción 1"
                                           },
                                           {
-                                              "is_correct":  true,
+                                              "is_correct":  false,
                                               "letter":  "B",
-                                              "text":  "$25,000"
+                                              "text":  "Opción 2"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "C",
-                                              "text":  "$50,000"
+                                              "text":  "Opción 3"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "D",
-                                              "text":  "$10,000"
+                                              "text":  "Opción 4"
                                           }
                                       ],
-                          "id":  "CO-MAT-11-porcentajes-006-v4",
+                          "id":  "SOC30639-01-v4",
                           "tags":  [
 
                                    ],
-                          "statement":  "Interés Simple: Si inviertes $500,000 al 5% anual, ¿cuánto interés ganas en un año?",
-                          "correct_answer":  "B",
+                          "statement":  "TODO: Generar variación de tipo Medium A",
+                          "correct_answer":  "",
                           "number":  4,
-                          "bundle_id":  "CO-MAT-11-porcentajes-006",
+                          "bundle_id":  "SOC30639-01",
                           "images":  [
 
                                      ],
@@ -1155,32 +661,32 @@
                                           {
                                               "is_correct":  false,
                                               "letter":  "A",
-                                              "text":  "Mayor"
+                                              "text":  "Opción 1"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "B",
-                                              "text":  "Menor"
+                                              "text":  "Opción 2"
                                           },
                                           {
-                                              "is_correct":  true,
+                                              "is_correct":  false,
                                               "letter":  "C",
-                                              "text":  "Igual"
+                                              "text":  "Opción 3"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "D",
-                                              "text":  "Doble"
+                                              "text":  "Opción 4"
                                           }
                                       ],
-                          "id":  "CO-MAT-11-porcentajes-006-v6",
+                          "id":  "SOC30639-01-v6",
                           "tags":  [
 
                                    ],
-                          "statement":  "Si aumentas el precio de un producto en un 100%, y luego ofreces un descuento del 50%, el precio final respecto al original es:",
-                          "correct_answer":  "C",
+                          "statement":  "TODO: Generar variación de tipo High A",
+                          "correct_answer":  "",
                           "number":  6,
-                          "bundle_id":  "CO-MAT-11-porcentajes-006",
+                          "bundle_id":  "SOC30639-01",
                           "images":  [
 
                                      ],
@@ -1193,32 +699,32 @@
                                           {
                                               "is_correct":  false,
                                               "letter":  "A",
-                                              "text":  "2.5"
+                                              "text":  "Opción 1"
                                           },
                                           {
-                                              "is_correct":  true,
+                                              "is_correct":  false,
                                               "letter":  "B",
-                                              "text":  "5"
+                                              "text":  "Opción 2"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "C",
-                                              "text":  "10"
+                                              "text":  "Opción 3"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "D",
-                                              "text":  "25"
+                                              "text":  "Opción 4"
                                           }
                                       ],
-                          "id":  "CO-MAT-11-raices-001-v2",
+                          "id":  "SOC35240-01-v2",
                           "tags":  [
 
                                    ],
-                          "statement":  "$\\sqrt{25}$ es igual a:",
-                          "correct_answer":  "B",
+                          "statement":  "TODO: Generar variación de tipo Low A",
+                          "correct_answer":  "",
                           "number":  2,
-                          "bundle_id":  "CO-MAT-11-raices-001",
+                          "bundle_id":  "SOC35240-01",
                           "images":  [
 
                                      ],
@@ -1231,32 +737,32 @@
                                           {
                                               "is_correct":  false,
                                               "letter":  "A",
-                                              "text":  "8"
+                                              "text":  "Opción 1"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "B",
-                                              "text":  "12"
+                                              "text":  "Opción 2"
                                           },
                                           {
-                                              "is_correct":  true,
+                                              "is_correct":  false,
                                               "letter":  "C",
-                                              "text":  "10"
+                                              "text":  "Opción 3"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "D",
-                                              "text":  "6"
+                                              "text":  "Opción 4"
                                           }
                                       ],
-                          "id":  "CO-MAT-11-raices-001-v4",
+                          "id":  "SOC35240-01-v4",
                           "tags":  [
 
                                    ],
-                          "statement":  "El valor de $\\sqrt{64} + \\sqrt{4}$ es:",
-                          "correct_answer":  "C",
+                          "statement":  "TODO: Generar variación de tipo Medium A",
+                          "correct_answer":  "",
                           "number":  4,
-                          "bundle_id":  "CO-MAT-11-raices-001",
+                          "bundle_id":  "SOC35240-01",
                           "images":  [
 
                                      ],
@@ -1269,488 +775,32 @@
                                           {
                                               "is_correct":  false,
                                               "letter":  "A",
-                                              "text":  "3"
+                                              "text":  "Opción 1"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "B",
-                                              "text":  "18"
+                                              "text":  "Opción 2"
                                           },
                                           {
-                                              "is_correct":  true,
+                                              "is_correct":  false,
                                               "letter":  "C",
-                                              "text":  "81"
+                                              "text":  "Opción 3"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "D",
-                                              "text":  "90"
+                                              "text":  "Opción 4"
                                           }
                                       ],
-                          "id":  "CO-MAT-11-raices-001-v6",
+                          "id":  "SOC35240-01-v6",
                           "tags":  [
 
                                    ],
-                          "statement":  "Si $\\sqrt{x} = 9$, entonces $x$ es:",
-                          "correct_answer":  "C",
+                          "statement":  "TODO: Generar variación de tipo High A",
+                          "correct_answer":  "",
                           "number":  6,
-                          "bundle_id":  "CO-MAT-11-raices-001",
-                          "images":  [
-
-                                     ],
-                          "explanation":  "",
-                          "difficulty":  "High",
-                          "source_url":  "https://www.icfes.gov.co"
-                      },
-                      {
-                          "options":  [
-                                          {
-                                              "is_correct":  true,
-                                              "letter":  "A",
-                                              "text":  "3 m"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "B",
-                                              "text":  "4.5 m"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "C",
-                                              "text":  "81 m"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "D",
-                                              "text":  "1 m"
-                                          }
-                                      ],
-                          "id":  "CO-MAT-11-raices-002-v2",
-                          "tags":  [
-
-                                   ],
-                          "statement":  "El área de un tapete cuadrado es 9 $m^2$. ¿Cuánto mide su lado?",
-                          "correct_answer":  "A",
-                          "number":  2,
-                          "bundle_id":  "CO-MAT-11-raices-002",
-                          "images":  [
-
-                                     ],
-                          "explanation":  "",
-                          "difficulty":  "Low",
-                          "source_url":  "https://www.icfes.gov.co"
-                      },
-                      {
-                          "options":  [
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "A",
-                                              "text":  "$288 cm^2$"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "B",
-                                              "text":  "$144 cm^2$"
-                                          },
-                                          {
-                                              "is_correct":  true,
-                                              "letter":  "C",
-                                              "text":  "$576 cm^2$"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "D",
-                                              "text":  "$400 cm^2$"
-                                          }
-                                      ],
-                          "id":  "CO-MAT-11-raices-002-v4",
-                          "tags":  [
-
-                                   ],
-                          "statement":  "Un cuadrado tiene un área de $144 cm^2$. Si se duplica la longitud de su lado, la nueva área será:",
-                          "correct_answer":  "C",
-                          "number":  4,
-                          "bundle_id":  "CO-MAT-11-raices-002",
-                          "images":  [
-
-                                     ],
-                          "explanation":  "",
-                          "difficulty":  "Medium",
-                          "source_url":  "https://www.icfes.gov.co"
-                      },
-                      {
-                          "options":  [
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "A",
-                                              "text":  "10 y 11 metros"
-                                          },
-                                          {
-                                              "is_correct":  true,
-                                              "letter":  "B",
-                                              "text":  "14 y 15 metros"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "C",
-                                              "text":  "19 y 20 metros"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "D",
-                                              "text":  "13 y 14 metros"
-                                          }
-                                      ],
-                          "id":  "CO-MAT-11-raices-002-v6",
-                          "tags":  [
-
-                                   ],
-                          "statement":  "Un campo cuadrado tiene un área de $200 m^2$. La longitud de su lado está aproximadamente entre:",
-                          "correct_answer":  "B",
-                          "number":  6,
-                          "bundle_id":  "CO-MAT-11-raices-002",
-                          "images":  [
-
-                                     ],
-                          "explanation":  "",
-                          "difficulty":  "High",
-                          "source_url":  "https://www.icfes.gov.co"
-                      },
-                      {
-                          "options":  [
-                                          {
-                                              "is_correct":  true,
-                                              "letter":  "A",
-                                              "text":  "10"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "B",
-                                              "text":  "50"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "C",
-                                              "text":  "20"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "D",
-                                              "text":  "5"
-                                          }
-                                      ],
-                          "id":  "CO-MAT-11-raices-003-v2",
-                          "tags":  [
-
-                                   ],
-                          "statement":  "$\\sqrt{100}$ es igual a:",
-                          "correct_answer":  "A",
-                          "number":  2,
-                          "bundle_id":  "CO-MAT-11-raices-003",
-                          "images":  [
-
-                                     ],
-                          "explanation":  "",
-                          "difficulty":  "Low",
-                          "source_url":  "https://www.icfes.gov.co"
-                      },
-                      {
-                          "options":  [
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "A",
-                                              "text":  "12"
-                                          },
-                                          {
-                                              "is_correct":  true,
-                                              "letter":  "B",
-                                              "text":  "13"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "C",
-                                              "text":  "14"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "D",
-                                              "text":  "11"
-                                          }
-                                      ],
-                          "id":  "CO-MAT-11-raices-003-v4",
-                          "tags":  [
-
-                                   ],
-                          "statement":  "El número 169 es el cuadrado de:",
-                          "correct_answer":  "B",
-                          "number":  4,
-                          "bundle_id":  "CO-MAT-11-raices-003",
-                          "images":  [
-
-                                     ],
-                          "explanation":  "",
-                          "difficulty":  "Medium",
-                          "source_url":  "https://www.icfes.gov.co"
-                      },
-                      {
-                          "options":  [
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "A",
-                                              "text":  "40"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "B",
-                                              "text":  "100"
-                                          },
-                                          {
-                                              "is_correct":  true,
-                                              "letter":  "C",
-                                              "text":  "20"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "D",
-                                              "text":  "10"
-                                          }
-                                      ],
-                          "id":  "CO-MAT-11-raices-003-v6",
-                          "tags":  [
-
-                                   ],
-                          "statement":  "¿Cuánto es $\\sqrt{400}$?",
-                          "correct_answer":  "C",
-                          "number":  6,
-                          "bundle_id":  "CO-MAT-11-raices-003",
-                          "images":  [
-
-                                     ],
-                          "explanation":  "",
-                          "difficulty":  "High",
-                          "source_url":  "https://www.icfes.gov.co"
-                      },
-                      {
-                          "options":  [
-                                          {
-                                              "is_correct":  true,
-                                              "letter":  "A",
-                                              "text":  "16 cm"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "B",
-                                              "text":  "4 cm"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "C",
-                                              "text":  "8 cm"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "D",
-                                              "text":  "32 cm"
-                                          }
-                                      ],
-                          "id":  "CO-MAT-11-raices-004-v2",
-                          "tags":  [
-
-                                   ],
-                          "statement":  "Un cuadrado de área $16 cm^2$. Su perímetro es:",
-                          "correct_answer":  "A",
-                          "number":  2,
-                          "bundle_id":  "CO-MAT-11-raices-004",
-                          "images":  [
-
-                                     ],
-                          "explanation":  "",
-                          "difficulty":  "Low",
-                          "source_url":  "https://www.icfes.gov.co"
-                      },
-                      {
-                          "options":  [
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "A",
-                                              "text":  "80 m"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "B",
-                                              "text":  "40 m"
-                                          },
-                                          {
-                                              "is_correct":  true,
-                                              "letter":  "C",
-                                              "text":  "60 m"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "D",
-                                              "text":  "50 m"
-                                          }
-                                      ],
-                          "id":  "CO-MAT-11-raices-004-v4",
-                          "tags":  [
-
-                                   ],
-                          "statement":  "Un terreno cuadrado tiene un área de $400 m^2$. Se quiere cercar solo 3 de sus lados. ¿Cuántos metros de cerca se necesitan?",
-                          "correct_answer":  "C",
-                          "number":  4,
-                          "bundle_id":  "CO-MAT-11-raices-004",
-                          "images":  [
-
-                                     ],
-                          "explanation":  "",
-                          "difficulty":  "Medium",
-                          "source_url":  "https://www.icfes.gov.co"
-                      },
-                      {
-                          "options":  [
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "A",
-                                              "text":  "$40 m^2$"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "B",
-                                              "text":  "$1600 m^2$"
-                                          },
-                                          {
-                                              "is_correct":  true,
-                                              "letter":  "C",
-                                              "text":  "$100 m^2$"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "D",
-                                              "text":  "$200 m^2$"
-                                          }
-                                      ],
-                          "id":  "CO-MAT-11-raices-004-v6",
-                          "tags":  [
-
-                                   ],
-                          "statement":  "Un cuadrado tiene un perímetro de 40 m. ¿Cuál es su área?",
-                          "correct_answer":  "C",
-                          "number":  6,
-                          "bundle_id":  "CO-MAT-11-raices-004",
-                          "images":  [
-
-                                     ],
-                          "explanation":  "",
-                          "difficulty":  "High",
-                          "source_url":  "https://www.icfes.gov.co"
-                      },
-                      {
-                          "options":  [
-                                          {
-                                              "is_correct":  true,
-                                              "letter":  "A",
-                                              "text":  "x"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "B",
-                                              "text":  "$x^2$"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "C",
-                                              "text":  "1"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "D",
-                                              "text":  "2x"
-                                          }
-                                      ],
-                          "id":  "CO-MAT-11-raices-005-v2",
-                          "tags":  [
-
-                                   ],
-                          "statement":  "Simplifica la expresión $\\sqrt{x^2}$ (asumiendo x positivo).",
-                          "correct_answer":  "A",
-                          "number":  2,
-                          "bundle_id":  "CO-MAT-11-raices-005",
-                          "images":  [
-
-                                     ],
-                          "explanation":  "",
-                          "difficulty":  "Low",
-                          "source_url":  "https://www.icfes.gov.co"
-                      },
-                      {
-                          "options":  [
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "A",
-                                              "text":  "7"
-                                          },
-                                          {
-                                              "is_correct":  true,
-                                              "letter":  "B",
-                                              "text":  "5"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "C",
-                                              "text":  "25"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "D",
-                                              "text":  "12"
-                                          }
-                                      ],
-                          "id":  "CO-MAT-11-raices-005-v4",
-                          "tags":  [
-
-                                   ],
-                          "statement":  "Si $a = 16$ y $b = 9$, entonces $\\sqrt{a+b}$ es:",
-                          "correct_answer":  "B",
-                          "number":  4,
-                          "bundle_id":  "CO-MAT-11-raices-005",
-                          "images":  [
-
-                                     ],
-                          "explanation":  "",
-                          "difficulty":  "Medium",
-                          "source_url":  "https://www.icfes.gov.co"
-                      },
-                      {
-                          "options":  [
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "A",
-                                              "text":  "$25x$"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "B",
-                                              "text":  "$10x$"
-                                          },
-                                          {
-                                              "is_correct":  true,
-                                              "letter":  "C",
-                                              "text":  "$5x\\sqrt{2}$"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "D",
-                                              "text":  "$50x$"
-                                          }
-                                      ],
-                          "id":  "CO-MAT-11-raices-005-v6",
-                          "tags":  [
-
-                                   ],
-                          "statement":  "Simplifica $\\sqrt{50x^2}$.",
-                          "correct_answer":  "C",
-                          "number":  6,
-                          "bundle_id":  "CO-MAT-11-raices-005",
+                          "bundle_id":  "SOC35240-01",
                           "images":  [
 
                                      ],
@@ -1763,32 +813,32 @@
                                           {
                                               "is_correct":  false,
                                               "letter":  "A",
-                                              "text":  "$\\sqrt{9}, \\sqrt{4}, \\sqrt{1}$"
+                                              "text":  "Opción 1"
                                           },
                                           {
-                                              "is_correct":  true,
+                                              "is_correct":  false,
                                               "letter":  "B",
-                                              "text":  "$\\sqrt{1}, \\sqrt{4}, \\sqrt{9}$"
+                                              "text":  "Opción 2"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "C",
-                                              "text":  "$\\sqrt{4}, \\sqrt{1}, \\sqrt{9}$"
+                                              "text":  "Opción 3"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "D",
-                                              "text":  "$\\sqrt{1}, \\sqrt{9}, \\sqrt{4}$"
+                                              "text":  "Opción 4"
                                           }
                                       ],
-                          "id":  "CO-MAT-11-raices-006-v2",
+                          "id":  "SOC45952-01-v2",
                           "tags":  [
 
                                    ],
-                          "statement":  "Ordena de menor a mayor: $\\sqrt{4}$, $\\sqrt{9}$, $\\sqrt{1}$.",
-                          "correct_answer":  "B",
+                          "statement":  "TODO: Generar variación de tipo Low A",
+                          "correct_answer":  "",
                           "number":  2,
-                          "bundle_id":  "CO-MAT-11-raices-006",
+                          "bundle_id":  "SOC45952-01",
                           "images":  [
 
                                      ],
@@ -1801,32 +851,32 @@
                                           {
                                               "is_correct":  false,
                                               "letter":  "A",
-                                              "text":  "5 y 6"
+                                              "text":  "Opción 1"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "B",
-                                              "text":  "6 y 7"
+                                              "text":  "Opción 2"
                                           },
                                           {
-                                              "is_correct":  true,
+                                              "is_correct":  false,
                                               "letter":  "C",
-                                              "text":  "7 y 8"
+                                              "text":  "Opción 3"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "D",
-                                              "text":  "8 y 9"
+                                              "text":  "Opción 4"
                                           }
                                       ],
-                          "id":  "CO-MAT-11-raices-006-v4",
+                          "id":  "SOC45952-01-v4",
                           "tags":  [
 
                                    ],
-                          "statement":  "$\\sqrt{50}$ es un número situado entre:",
-                          "correct_answer":  "C",
+                          "statement":  "TODO: Generar variación de tipo Medium A",
+                          "correct_answer":  "",
                           "number":  4,
-                          "bundle_id":  "CO-MAT-11-raices-006",
+                          "bundle_id":  "SOC45952-01",
                           "images":  [
 
                                      ],
@@ -1839,32 +889,716 @@
                                           {
                                               "is_correct":  false,
                                               "letter":  "A",
-                                              "text":  "8"
+                                              "text":  "Opción 1"
                                           },
                                           {
-                                              "is_correct":  true,
+                                              "is_correct":  false,
                                               "letter":  "B",
-                                              "text":  "9"
+                                              "text":  "Opción 2"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "C",
-                                              "text":  "8.5"
+                                              "text":  "Opción 3"
                                           },
                                           {
                                               "is_correct":  false,
                                               "letter":  "D",
-                                              "text":  "10"
+                                              "text":  "Opción 4"
                                           }
                                       ],
-                          "id":  "CO-MAT-11-raices-006-v6",
+                          "id":  "SOC45952-01-v6",
                           "tags":  [
 
                                    ],
-                          "statement":  "Aproxima $\\sqrt{80}$ al entero más cercano.",
-                          "correct_answer":  "B",
+                          "statement":  "TODO: Generar variación de tipo High A",
+                          "correct_answer":  "",
                           "number":  6,
-                          "bundle_id":  "CO-MAT-11-raices-006",
+                          "bundle_id":  "SOC45952-01",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Opción 1"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Opción 2"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Opción 3"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Opción 4"
+                                          }
+                                      ],
+                          "id":  "SOC56937-01-v2",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "TODO: Generar variación de tipo Low A",
+                          "correct_answer":  "",
+                          "number":  2,
+                          "bundle_id":  "SOC56937-01",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Opción 1"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Opción 2"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Opción 3"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Opción 4"
+                                          }
+                                      ],
+                          "id":  "SOC56937-01-v4",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "TODO: Generar variación de tipo Medium A",
+                          "correct_answer":  "",
+                          "number":  4,
+                          "bundle_id":  "SOC56937-01",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Opción 1"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Opción 2"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Opción 3"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Opción 4"
+                                          }
+                                      ],
+                          "id":  "SOC56937-01-v6",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "TODO: Generar variación de tipo High A",
+                          "correct_answer":  "",
+                          "number":  6,
+                          "bundle_id":  "SOC56937-01",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Opción 1"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Opción 2"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Opción 3"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Opción 4"
+                                          }
+                                      ],
+                          "id":  "SOC80986-01-v2",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "TODO: Generar variación de tipo Low A",
+                          "correct_answer":  "",
+                          "number":  2,
+                          "bundle_id":  "SOC80986-01",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Opción 1"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Opción 2"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Opción 3"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Opción 4"
+                                          }
+                                      ],
+                          "id":  "SOC80986-01-v4",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "TODO: Generar variación de tipo Medium A",
+                          "correct_answer":  "",
+                          "number":  4,
+                          "bundle_id":  "SOC80986-01",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Opción 1"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Opción 2"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Opción 3"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Opción 4"
+                                          }
+                                      ],
+                          "id":  "SOC80986-01-v6",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "TODO: Generar variación de tipo High A",
+                          "correct_answer":  "",
+                          "number":  6,
+                          "bundle_id":  "SOC80986-01",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Opción 1"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Opción 2"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Opción 3"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Opción 4"
+                                          }
+                                      ],
+                          "id":  "SOC82159-01-v2",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "TODO: Generar variación de tipo Low A",
+                          "correct_answer":  "",
+                          "number":  2,
+                          "bundle_id":  "SOC82159-01",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Opción 1"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Opción 2"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Opción 3"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Opción 4"
+                                          }
+                                      ],
+                          "id":  "SOC82159-01-v4",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "TODO: Generar variación de tipo Medium A",
+                          "correct_answer":  "",
+                          "number":  4,
+                          "bundle_id":  "SOC82159-01",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Opción 1"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Opción 2"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Opción 3"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Opción 4"
+                                          }
+                                      ],
+                          "id":  "SOC82159-01-v6",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "TODO: Generar variación de tipo High A",
+                          "correct_answer":  "",
+                          "number":  6,
+                          "bundle_id":  "SOC82159-01",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Opción 1"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Opción 2"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Opción 3"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Opción 4"
+                                          }
+                                      ],
+                          "id":  "SOC85777-01-v2",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "TODO: Generar variación de tipo Low A",
+                          "correct_answer":  "",
+                          "number":  2,
+                          "bundle_id":  "SOC85777-01",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Opción 1"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Opción 2"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Opción 3"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Opción 4"
+                                          }
+                                      ],
+                          "id":  "SOC85777-01-v4",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "TODO: Generar variación de tipo Medium A",
+                          "correct_answer":  "",
+                          "number":  4,
+                          "bundle_id":  "SOC85777-01",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Opción 1"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Opción 2"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Opción 3"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Opción 4"
+                                          }
+                                      ],
+                          "id":  "SOC85777-01-v6",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "TODO: Generar variación de tipo High A",
+                          "correct_answer":  "",
+                          "number":  6,
+                          "bundle_id":  "SOC85777-01",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Opción 1"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Opción 2"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Opción 3"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Opción 4"
+                                          }
+                                      ],
+                          "id":  "SOC93999-01-v2",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "TODO: Generar variación de tipo Low A",
+                          "correct_answer":  "",
+                          "number":  2,
+                          "bundle_id":  "SOC93999-01",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Opción 1"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Opción 2"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Opción 3"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Opción 4"
+                                          }
+                                      ],
+                          "id":  "SOC93999-01-v4",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "TODO: Generar variación de tipo Medium A",
+                          "correct_answer":  "",
+                          "number":  4,
+                          "bundle_id":  "SOC93999-01",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Opción 1"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Opción 2"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Opción 3"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Opción 4"
+                                          }
+                                      ],
+                          "id":  "SOC93999-01-v6",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "TODO: Generar variación de tipo High A",
+                          "correct_answer":  "",
+                          "number":  6,
+                          "bundle_id":  "SOC93999-01",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Opción 1"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Opción 2"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Opción 3"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Opción 4"
+                                          }
+                                      ],
+                          "id":  "SOC96000-01-v2",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "TODO: Generar variación de tipo Low A",
+                          "correct_answer":  "",
+                          "number":  2,
+                          "bundle_id":  "SOC96000-01",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Opción 1"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Opción 2"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Opción 3"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Opción 4"
+                                          }
+                                      ],
+                          "id":  "SOC96000-01-v4",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "TODO: Generar variación de tipo Medium A",
+                          "correct_answer":  "",
+                          "number":  4,
+                          "bundle_id":  "SOC96000-01",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Opción 1"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Opción 2"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Opción 3"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Opción 4"
+                                          }
+                                      ],
+                          "id":  "SOC96000-01-v6",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "TODO: Generar variación de tipo High A",
+                          "correct_answer":  "",
+                          "number":  6,
+                          "bundle_id":  "SOC96000-01",
                           "images":  [
 
                                      ],

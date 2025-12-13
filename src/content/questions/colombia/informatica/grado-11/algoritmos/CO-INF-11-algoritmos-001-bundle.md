@@ -27,7 +27,8 @@ componente: "Lógica y Programación"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber11", "MX-EXANI", "AP-Computer-Science"]
+applicable_exams: ["CO-Saber11", "MX-EXANI", "AP-Computer-Science"]
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
@@ -67,7 +68,8 @@ componente: "Lógica y Programación"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber11", "MX-EXANI", "AP-Computer-Science"]
+applicable_exams: ["CO-Saber11", "MX-EXANI", "AP-Computer-Science"]
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
@@ -120,7 +122,8 @@ componente: "Lógica y Programación"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber11", "MX-EXANI", "AP-Computer-Science"]
+applicable_exams: ["CO-Saber11", "MX-EXANI", "AP-Computer-Science"]
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
@@ -173,7 +176,8 @@ componente: "Lógica y Programación"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber11", "MX-EXANI", "AP-Computer-Science"]
+applicable_exams: ["CO-Saber11", "MX-EXANI", "AP-Computer-Science"]
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
@@ -226,7 +230,8 @@ componente: "Lógica y Programación"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber11", "MX-EXANI", "AP-Computer-Science"]
+applicable_exams: ["CO-Saber11", "MX-EXANI", "AP-Computer-Science"]
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)

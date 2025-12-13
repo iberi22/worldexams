@@ -1,6 +1,7 @@
 <script lang="ts">
   import FlashlightCard from './FlashlightCard.svelte';
   import AdBlock from './AdBlock.svelte';
+  import MathRenderer from './MathRenderer.svelte';
   import type { Question } from '../types';
 
   export let questions: Question[] = [];
@@ -10,6 +11,10 @@
   let searchTerm = "";
   let selectedGrade: number | null = null;
   let selectedDifficulty: number | null = null;
+  let selectedSubject: string | null = null;
+
+  // Extract unique subjects
+  $: subjects = [...new Set(questions.map(q => q.category.split('::')[0].trim()))].sort();
 
   $: filteredQuestions = questions.filter(q => {
     const matchesSearch =
@@ -19,8 +24,9 @@
 
     const matchesGrade = selectedGrade ? q.grade === selectedGrade : true;
     const matchesDifficulty = selectedDifficulty ? q.difficulty === selectedDifficulty : true;
+    const matchesSubject = selectedSubject ? q.category.startsWith(selectedSubject) : true;
 
-    return matchesSearch && matchesGrade && matchesDifficulty;
+    return matchesSearch && matchesGrade && matchesDifficulty && matchesSubject;
   });
 
   // Function to inject ads into the list
@@ -37,6 +43,21 @@
   }
 
   $: itemsToRender = getItemsWithAds(filteredQuestions);
+
+  // Pagination logic
+  let visibleCount = 30;
+  
+  // Reset pagination when filters change
+  $: {
+    searchTerm; selectedGrade; selectedDifficulty; selectedSubject;
+    visibleCount = 30;
+  }
+
+  $: visibleItems = itemsToRender.slice(0, visibleCount);
+
+  function loadMore() {
+    visibleCount += 30;
+  }
 
   const grades = [3, 5, 7, 9, 11];
   const difficulties = [1, 2, 3, 4, 5];
@@ -55,29 +76,60 @@
     </button>
   </div>
 
-  <!-- Search -->
-  <div class="mb-8 space-y-4">
-    <input
-      type="text"
-      bind:value={searchTerm}
-      placeholder="Buscar por ID, contenido o tema..."
-      class="w-full bg-[#121212] border border-white/10 p-4 text-lg focus:border-emerald-500/50 focus:outline-none transition-colors placeholder:text-white/20"
-    />
+  <!-- Filters Section -->
+  <div class="bg-[#1E1E1E]/60 backdrop-blur-md border border-white/10 rounded-2xl p-6 mb-10 shadow-2xl">
+    <!-- Search Bar -->
+    <div class="relative mb-6 group">
+      <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
+        <svg class="h-5 w-5 text-white/30 group-focus-within:text-emerald-500 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+        </svg>
+      </div>
+      <input
+        type="text"
+        bind:value={searchTerm}
+        placeholder="Buscar por ID, contenido o tema..."
+        class="w-full bg-[#121212] border border-white/10 rounded-xl py-4 pl-12 pr-4 text-lg text-white placeholder:text-white/20 focus:border-emerald-500/50 focus:ring-1 focus:ring-emerald-500/50 focus:outline-none transition-all"
+      />
+    </div>
 
-    <div class="flex flex-wrap gap-4">
+    <!-- Filters Grid -->
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+      
+      <!-- Subject Filter -->
+      <div class="space-y-2">
+        <label class="text-[10px] uppercase tracking-widest text-white/40 font-bold ml-1">Asignatura</label>
+        <div class="relative">
+          <select
+            bind:value={selectedSubject}
+            class="w-full appearance-none bg-[#121212] border border-white/10 rounded-lg py-3 px-4 text-sm text-white focus:border-emerald-500/50 focus:outline-none transition-colors cursor-pointer hover:border-white/20"
+          >
+            <option value={null}>Todas las asignaturas</option>
+            {#each subjects as subject}
+              <option value={subject}>{subject}</option>
+            {/each}
+          </select>
+          <div class="absolute inset-y-0 right-0 flex items-center px-4 pointer-events-none text-white/30">
+            <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+            </svg>
+          </div>
+        </div>
+      </div>
+
       <!-- Grade Filter -->
-      <div class="flex items-center gap-2">
-        <span class="text-xs uppercase tracking-widest text-white/40">Grado:</span>
-        <div class="flex gap-1">
+      <div class="space-y-2">
+        <label class="text-[10px] uppercase tracking-widest text-white/40 font-bold ml-1">Grado Escolar</label>
+        <div class="flex bg-[#121212] rounded-lg p-1 border border-white/10">
           <button
-            class="px-3 py-1 text-xs border {selectedGrade === null ? 'border-emerald-500 text-emerald-500' : 'border-white/10 text-white/40 hover:border-white/30'} transition-colors"
+            class="flex-1 py-2 text-xs font-medium rounded-md transition-all {selectedGrade === null ? 'bg-emerald-600 text-white shadow-lg' : 'text-white/40 hover:text-white hover:bg-white/5'}"
             onclick={() => selectedGrade = null}
           >
-            TODOS
+            Todos
           </button>
           {#each grades as grade}
             <button
-              class="px-3 py-1 text-xs border {selectedGrade === grade ? 'border-emerald-500 text-emerald-500' : 'border-white/10 text-white/40 hover:border-white/30'} transition-colors"
+              class="flex-1 py-2 text-xs font-medium rounded-md transition-all {selectedGrade === grade ? 'bg-emerald-600 text-white shadow-lg' : 'text-white/40 hover:text-white hover:bg-white/5'}"
               onclick={() => selectedGrade = grade}
             >
               {grade}°
@@ -87,18 +139,18 @@
       </div>
 
       <!-- Difficulty Filter -->
-      <div class="flex items-center gap-2">
-        <span class="text-xs uppercase tracking-widest text-white/40">Complejidad:</span>
-        <div class="flex gap-1">
+      <div class="space-y-2">
+        <label class="text-[10px] uppercase tracking-widest text-white/40 font-bold ml-1">Nivel de Complejidad</label>
+        <div class="flex bg-[#121212] rounded-lg p-1 border border-white/10">
           <button
-            class="px-3 py-1 text-xs border {selectedDifficulty === null ? 'border-emerald-500 text-emerald-500' : 'border-white/10 text-white/40 hover:border-white/30'} transition-colors"
+            class="flex-1 py-2 text-xs font-medium rounded-md transition-all {selectedDifficulty === null ? 'bg-emerald-600 text-white shadow-lg' : 'text-white/40 hover:text-white hover:bg-white/5'}"
             onclick={() => selectedDifficulty = null}
           >
-            TODAS
+            Todos
           </button>
           {#each difficulties as diff}
             <button
-              class="px-3 py-1 text-xs border {selectedDifficulty === diff ? 'border-emerald-500 text-emerald-500' : 'border-white/10 text-white/40 hover:border-white/30'} transition-colors"
+              class="flex-1 py-2 text-xs font-medium rounded-md transition-all {selectedDifficulty === diff ? 'bg-emerald-600 text-white shadow-lg' : 'text-white/40 hover:text-white hover:bg-white/5'}"
               onclick={() => selectedDifficulty = diff}
             >
               {diff}
@@ -106,12 +158,13 @@
           {/each}
         </div>
       </div>
+
     </div>
   </div>
 
   <!-- Grid -->
   <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-    {#each itemsToRender as item (item.type === 'question' ? item.data.id : item.id)}
+    {#each visibleItems as item (item.type === 'question' ? item.data.id : item.id)}
       {#if item.type === 'question'}
         <FlashlightCard
           onclick={() => onSelect(item.data)}
@@ -127,9 +180,9 @@
               </div>
             </div>
 
-            <h3 class="text-lg font-light leading-relaxed line-clamp-3 mb-4 flex-grow">
-              {item.data.text}
-            </h3>
+            <div class="text-lg font-light leading-relaxed line-clamp-3 mb-4 flex-grow">
+              <MathRenderer content={item.data.text} />
+            </div>
 
             <div class="flex items-center justify-between mt-auto pt-4 border-t border-white/5">
               <div class="flex gap-3 text-[10px] uppercase tracking-widest text-white/50">
@@ -149,4 +202,16 @@
       {/if}
     {/each}
   </div>
+
+  <!-- Load More Button -->
+  {#if visibleCount < itemsToRender.length}
+    <div class="flex justify-center mt-12">
+      <button
+        onclick={loadMore}
+        class="px-8 py-3 bg-emerald-600 hover:bg-emerald-500 text-white font-bold uppercase tracking-widest text-sm rounded-full transition-all transform hover:scale-105 shadow-lg hover:shadow-emerald-500/20"
+      >
+        Cargar más preguntas
+      </button>
+    </div>
+  {/if}
 </div>

@@ -26,7 +26,8 @@ componente: "Comprensión de lectura"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber11", "MX-ENLACE-Media", "ES-Selectividad", "AR-Aprender", "CL-PSU"]
+applicable_exams: ["CO-Saber11", "MX-ENLACE-Media", "ES-Selectividad", "AR-Aprender", "CL-PSU"]
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
@@ -64,7 +65,8 @@ componente: "Comprensión de lectura"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber11", "MX-ENLACE-Media", "ES-Selectividad", "AR-Aprender", "CL-PSU"]
+applicable_exams: ["CO-Saber11", "MX-ENLACE-Media", "ES-Selectividad", "AR-Aprender", "CL-PSU"]
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
@@ -130,7 +132,8 @@ componente: "Comprensión de lectura"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber11", "MX-ENLACE-Media", "ES-Selectividad", "AR-Aprender", "CL-PSU"]
+applicable_exams: ["CO-Saber11", "MX-ENLACE-Media", "ES-Selectividad", "AR-Aprender", "CL-PSU"]
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
@@ -189,7 +192,8 @@ componente: "Comprensión de lectura"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber11", "MX-ENLACE-Media", "ES-Selectividad", "AR-Aprender", "CL-PSU"]
+applicable_exams: ["CO-Saber11", "MX-ENLACE-Media", "ES-Selectividad", "AR-Aprender", "CL-PSU"]
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
@@ -255,7 +259,8 @@ componente: "Comprensión de lectura"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber11", "MX-ENLACE-Media", "ES-Selectividad", "AR-Aprender", "CL-PSU"]
+applicable_exams: ["CO-Saber11", "MX-ENLACE-Media", "ES-Selectividad", "AR-Aprender", "CL-PSU"]
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
@@ -328,7 +333,8 @@ componente: "Comprensión de lectura"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber11", "MX-ENLACE-Media", "ES-Selectividad", "AR-Aprender", "CL-PSU"]
+applicable_exams: ["CO-Saber11", "MX-ENLACE-Media", "ES-Selectividad", "AR-Aprender", "CL-PSU"]
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)

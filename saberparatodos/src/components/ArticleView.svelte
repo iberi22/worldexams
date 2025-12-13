@@ -1,5 +1,6 @@
 <script lang="ts">
   import AdBanner from './AdBanner.svelte';
+  import MathRenderer from './MathRenderer.svelte';
   import type { Question } from '../types';
   import CommentsSection from './CommentsSection.svelte';
   import { onMount } from 'svelte';
@@ -49,9 +50,9 @@
 
   <!-- Article Content -->
   <article class="prose prose-invert prose-lg max-w-none">
-    <h1 class="text-3xl md:text-4xl font-bold mb-8 leading-tight text-[#F5F5DC]">
-      {question.text}
-    </h1>
+    <div class="text-3xl md:text-4xl font-bold mb-8 leading-tight text-[#F5F5DC]">
+      <MathRenderer content={question.text} />
+    </div>
 
     <div class="bg-[#1E1E1E]/50 border border-white/10 p-6 rounded-lg mb-8">
       <h3 class="text-sm font-bold uppercase tracking-widest opacity-60 mb-4">Opciones de Respuesta</h3>
@@ -62,7 +63,7 @@
               {option.id})
             </span>
             <span class={option.id === question.correctOptionId ? 'text-emerald-500' : 'text-[#F5F5DC]/80'}>
-              {option.text}
+              <MathRenderer content={option.text} />
             </span>
           </li>
         {/each}
@@ -72,9 +73,9 @@
     {#if question.explanation}
       <div class="mb-12">
         <h3 class="text-xl font-bold text-emerald-500 mb-4">Explicación Detallada</h3>
-        <p class="text-[#F5F5DC]/80 leading-relaxed whitespace-pre-line">
-          {question.explanation}
-        </p>
+        <div class="text-[#F5F5DC]/80 leading-relaxed whitespace-pre-line">
+          <MathRenderer content={question.explanation} />
+        </div>
       </div>
     {/if}
   </article>

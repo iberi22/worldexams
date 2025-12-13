@@ -27,7 +27,8 @@ componente: "Espacial-métrico"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber9", "MX-ENLACE"]
+applicable_exams: ["CO-Saber9", "MX-ENLACE"]
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
@@ -68,7 +69,8 @@ componente: "Espacial-métrico"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber9", "MX-ENLACE"]
+applicable_exams: ["CO-Saber9", "MX-ENLACE"]
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
@@ -124,7 +126,8 @@ componente: "Espacial-métrico"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber9", "MX-ENLACE"]
+applicable_exams: ["CO-Saber9", "MX-ENLACE"]
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
@@ -180,7 +183,8 @@ componente: "Espacial-métrico"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber9", "MX-ENLACE"]
+applicable_exams: ["CO-Saber9", "MX-ENLACE"]
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
@@ -237,7 +241,8 @@ componente: "Espacial-métrico"
 
 # === UNIVERSAL SHARING ===
 universal_question: true
-applicable_exams: ["CO-Saber9", "MX-ENLACE"]
+applicable_exams: ["CO-Saber9", "MX-ENLACE"]
+
 licenses:
   v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
   v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)

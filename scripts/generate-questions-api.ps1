@@ -64,7 +64,7 @@ foreach ($file in $bundles) {
         }
     }
 
-    $country = if ($frontmatter["country"]) { $frontmatter["country"] } else { "unknown" }
+    $country = if ($frontmatter["country"]) { $frontmatter["country"].ToLower() } else { "unknown" }
     $grade = if ($frontmatter["grado"]) { $frontmatter["grado"] } else { "unknown" }
     $subject = if ($frontmatter["asignatura"]) { $frontmatter["asignatura"] } else { "unknown" }
     $bundleId = if ($frontmatter["id"]) { $frontmatter["id"] } else { $file.BaseName }

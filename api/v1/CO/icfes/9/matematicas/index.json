@@ -1,14 +1,16 @@
-{
-  "subject": "Matemáticas",
-  "generated_at": "2025-12-10T17:08:07Z",
-  "topics": [],
-  "time_limit_minutes": 120,
-  "total_pages": 1.0,
-  "total_questions": 28,
-  "pages": [
-    {
-      "page": 1,
-      "url": "1.json"
-    }
-  ]
+﻿{
+    "pages":  [
+                  {
+                      "page":  1,
+                      "url":  "1.json"
+                  }
+              ],
+    "subject":  "Matemáticas",
+    "total_pages":  1,
+    "topics":  [
+
+               ],
+    "total_questions":  13,
+    "time_limit_minutes":  120,
+    "generated_at":  "2025-12-13T13:00:55Z"
 }
