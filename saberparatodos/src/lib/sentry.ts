@@ -1,4 +1,5 @@
 import * as Sentry from '@sentry/svelte';
+import type { ErrorEvent, EventHint } from '@sentry/svelte';
 
 // Inicializar Sentry solo en producción
 if (import.meta.env.PROD && import.meta.env.PUBLIC_SENTRY_DSN) {
@@ -28,9 +29,9 @@ if (import.meta.env.PROD && import.meta.env.PUBLIC_SENTRY_DSN) {
     replaysOnErrorSampleRate: 1.0,
 
     // Configuración de errores
-    beforeSend(event, hint) {
+    beforeSend(event: ErrorEvent, hint: EventHint) {
       // Filtrar errores conocidos
-      const error = hint.originalException;
+      const error = hint.originalException as Error | undefined;
 
       if (error && error.message) {
         // Ignorar errores de WebSocket de Supabase Realtime
