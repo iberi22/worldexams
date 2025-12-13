@@ -65,7 +65,7 @@ jobs:
 
       - name: 🧪 Run E2E tests
         working-directory: ./saberparatodos
-        run: npx playwright test party-mode.spec.ts --project=${{ matrix.browser }}
+        run: npx playwright test party-smoke.spec.ts --project=${{ matrix.browser }}
         env:
           PUBLIC_SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           PUBLIC_SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
