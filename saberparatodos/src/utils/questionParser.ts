@@ -16,6 +16,8 @@ export type QuestionEntry = {
     source_url?: string;
     universal_question?: boolean;
     applicable_exams?: string[];
+    source_lang?: string;
+    dificultad?: number;
   };
 };
 
@@ -127,7 +129,7 @@ export function parseQuestion(entry: QuestionEntry): Question {
     correctOptionId,
     explanation,
     grade: frontmatter.grado,
-    difficulty: frontmatter.dificultad,
+    difficulty: frontmatter.dificultad || 3,
   };
 }
 

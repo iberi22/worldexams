@@ -46,7 +46,7 @@
 
   // Pagination logic
   let visibleCount = 30;
-  
+
   // Reset pagination when filters change
   $: {
     searchTerm; selectedGrade; selectedDifficulty; selectedSubject;
@@ -95,7 +95,7 @@
 
     <!-- Filters Grid -->
     <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-      
+
       <!-- Subject Filter -->
       <div class="space-y-2">
         <label class="text-[10px] uppercase tracking-widest text-white/40 font-bold ml-1">Asignatura</label>
