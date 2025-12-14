@@ -10,6 +10,9 @@ interface Props {
 
 const { currentPath = Astro.url.pathname } = Astro.props;
 
+import packageInfo from '../../package.json';
+const version = packageInfo.version;
+
 const navLinks = [
   { href: '/', label: 'Practicar', icon: 'practice' },
   { href: '/guia-examen', label: 'Guía ICFES', icon: 'guide' },
@@ -35,7 +38,10 @@ const isActive = (href: string) => {
     <!-- Logo -->
     <a href="/" class="logo" aria-label="OpenIcfes - Inicio">
       <img src="/logo.png" alt="OpenIcfes Logo" width="32" height="32" class="w-8 h-8 rounded" />
-      <span class="logo-text">OpenIcfes</span>
+      <div class="flex flex-col">
+        <span class="logo-text">OpenIcfes</span>
+        <span class="text-[10px] text-gray-400 font-mono leading-none">v{version}</span>
+      </div>
     </a>
 
     <!-- Desktop Navigation -->
