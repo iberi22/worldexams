@@ -8,13 +8,15 @@
 
   let questionCount = 10;
   let mode = 'SOLO'; // 'SOLO' or 'PARTY'
+  let useDiagnostic = true; // Diagnostic mode toggle
 
   const questionOptions = [5, 10, 15];
 
   function handleStart() {
     onStart({
       count: questionCount,
-      mode: mode
+      mode: mode,
+      useDiagnostic: useDiagnostic
     });
   }
 </script>
@@ -79,6 +81,24 @@
           </button>
         </div>
       </div>
+
+      <!-- Diagnostic Toggle (Only for SOLO) -->
+       {#if mode === 'SOLO'}
+       <div class="bg-emerald-900/10 border border-emerald-500/20 rounded p-3 flex items-start gap-3" transition:fade>
+         <div class="pt-0.5">
+           <input
+             type="checkbox"
+             id="diagnostic"
+             bind:checked={useDiagnostic}
+             class="w-4 h-4 rounded border-emerald-500 text-emerald-500 focus:ring-emerald-500 focus:ring-offset-0 bg-transparent"
+           />
+         </div>
+         <label for="diagnostic" class="text-xs cursor-pointer select-none">
+           <span class="block font-bold text-emerald-500 uppercase tracking-wider mb-1">Diagnóstico Inteligente</span>
+           <span class="block opacity-60 leading-relaxed">Incluir preguntas sorpresa de grados anteriores para detectar vacíos fundamentales.</span>
+         </label>
+       </div>
+       {/if}
 
       <!-- Actions -->
       <div class="flex gap-3 pt-4">

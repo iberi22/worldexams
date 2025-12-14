@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Planned (v0.2.0)
+- **Smart Fetching:** Deduplication logic to prevent repeating questions seen in the last 7 days.
+- **Diagnostic Mode:** Ability to inject lower-grade questions into high-grade exams to detect foundational gaps.
+- **Integrity Intro:** Loading animation with motivational messages about academic honesty to mask data fetching time.
+
+## [0.1.0] - 2025-12-05
+
 ### Added
 - Cloudflare Pages configuration.
 - SEO improvements (sitemap, robots.txt, meta tags).

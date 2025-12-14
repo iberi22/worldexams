@@ -27,6 +27,8 @@
   import ArticleView from './ArticleView.svelte';
   import { fetchAllQuestionsForGrade, getAvailableSubjects, fetchQuestions } from '../lib/api-service'; // Added fetchQuestions
   import { filterByPlan } from '../utils/questionParser';
+  import { generateSmartExam } from '../lib/smart-exam-service'; // Smart Service
+  import IntegrityIntro from './IntegrityIntro.svelte'; // New Component
   import packageInfo from '../../package.json';
 
   export let questions = [];
@@ -38,6 +40,8 @@
   let isLoadingQuestions = false;
   let loadError = null;
   let showExamConfigModal = false; // New state
+  let isIntegrityCheck = false; // Integrity check state
+  let generatedExamQuestions = null; // Store smart generated questions
   let examConfig = { count: 10, mode: 'SOLO' }; // New state
 
   console.log('App received questions:', questions?.length || 0);
@@ -154,7 +158,8 @@
 
   // Mix local and universal questions, then filter out already answered ones
   // Usar planFilteredQuestions en lugar de filteredLocalQuestions para respetar licencias
-  $: examQuestions = prepareExamQuestions(planFilteredQuestions, universalPool, selectedGrade, selectedSubject, MAX_EXAM_QUESTIONS);
+  // If we have generatedExamQuestions (Smart Service), use them. Otherwise fallback to legacy logic.
+  $: examQuestions = generatedExamQuestions || prepareExamQuestions(planFilteredQuestions, universalPool, selectedGrade, selectedSubject, MAX_EXAM_QUESTIONS);
 
   /**
    * Prepare exam questions: mix local with universal, then filter already answered
@@ -327,27 +332,63 @@
       return;
     }
 
-    // SOLO Mode: Load questions and start
-    await loadQuestionsForExam(selectedGrade, selectedSubject);
+    // SOLO Mode: Start Integrity Check + Smart Fetch
+    isIntegrityCheck = true;
+    generatedExamQuestions = null; // Reset
 
-    // Calculate available questions for this selection
-    const availableQuestions = loadedQuestions.filter(q => {
-      if (!q) return false;
-      const gradeMatch = selectedGrade ? q.grade === selectedGrade : true;
-      const subjectMatch = selectedSubject ? (q.category && q.category.startsWith(selectedSubject)) : true;
-      return gradeMatch && subjectMatch;
-    });
+    // Minimum time for animation (3.5s to read messages)
+    const minTimePromise = new Promise(resolve => setTimeout(resolve, 3500));
 
-    // Check if we have questions to show
-    if (availableQuestions.length === 0) {
-      console.warn(`No questions available for ${selectedSubject} grade ${selectedGrade}`);
-      alert(`No hay preguntas disponibles para ${selectedSubject || 'esta materia'} en grado ${selectedGrade || 'seleccionado'}. Por favor selecciona otra área.`);
-      selectedSubject = null; // Reset selection
-      return;
+    try {
+      console.log(`🤖 Starting Exam Generation (Diagnostic Mode: ${config.useDiagnostic})...`);
+
+      let generationPromise;
+
+      if (config.useDiagnostic) {
+        generationPromise = generateSmartExam(
+          selectedGrade || 11,
+          selectedSubject,
+          config.count
+        );
+      } else {
+        // Standard generation (only target grade)
+        generationPromise = (async () => {
+             await loadQuestionsForExam(selectedGrade, selectedSubject);
+             const available = loadedQuestions.filter(q => {
+                if (!q) return false;
+                const gradeMatch = selectedGrade ? q.grade === selectedGrade : true;
+                const subjectMatch = selectedSubject ? (q.category && q.category.startsWith(selectedSubject)) : true;
+                return gradeMatch && subjectMatch;
+             });
+             const shuffled = available.sort(() => Math.random() - 0.5);
+             return shuffled.slice(0, config.count);
+        })();
+      }
+
+      // Wait for both animation and generation
+      const [_, questions] = await Promise.all([minTimePromise, generationPromise]);
+
+      if (questions && questions.length > 0) {
+        generatedExamQuestions = questions;
+        console.log(`✅ Exam Ready: ${questions.length} questions`);
+
+        // Add to local cache for browsing/search if needed
+        loadedQuestions = [...loadedQuestions, ...questions];
+
+        setView(AppView.EXAM);
+      } else {
+        throw new Error("No questions generated");
+      }
+
+    } catch (err) {
+      console.error("Smart Exam Error:", err);
+      alert(`Lo sentimos, hubo un error generando el examen. ${err.message || ''}`);
+      // Fallback to old method?
+      // await loadQuestionsForExam(selectedGrade, selectedSubject);
+      // setView(AppView.EXAM);
+    } finally {
+      isIntegrityCheck = false;
     }
-
-    console.log(`✅ Found ${availableQuestions.length} questions for ${selectedSubject} grade ${selectedGrade}`);
-    setView(AppView.EXAM);
   }
 
   function handleArticleSelect(article) {
@@ -678,6 +719,11 @@
       onStart={handleExamConfigStart}
       onCancel={() => { showExamConfigModal = false; selectedSubject = null; }}
     />
+  {/if}
+
+  <!-- Integrity Check Animation -->
+  {#if isIntegrityCheck}
+    <IntegrityIntro />
   {/if}
 
   <!-- Loading Overlay -->

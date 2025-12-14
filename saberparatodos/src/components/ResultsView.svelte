@@ -257,6 +257,56 @@
         />
       {/if}
 
+      <!-- Diagnostic Report -->
+      {#if examData && examData.grade}
+        {@const diagnosticQuestions = safeExamQuestions.filter(q => q.grade && q.grade !== examData.grade)}
+        {#if diagnosticQuestions.length > 0}
+          <div class="max-w-4xl mx-auto">
+            <div class="bg-gradient-to-br from-indigo-900/20 to-purple-900/20 border border-indigo-500/30 rounded-xl p-6 relative overflow-hidden">
+               <div class="absolute top-0 right-0 p-4 opacity-10">
+                 <svg class="w-24 h-24 text-indigo-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                 </svg>
+               </div>
+
+               <h3 class="text-xl font-bold text-indigo-300 uppercase tracking-widest mb-4 flex items-center gap-2">
+                 <span class="text-2xl">🧠</span> Reporte de Diagnóstico
+               </h3>
+
+               <p class="text-sm text-indigo-200/80 mb-6 max-w-2xl">
+                 Este examen incluyó preguntas de grados anteriores para evaluar tus bases.
+                 Aquí está tu desempeño en temas fundamentales:
+               </p>
+
+               <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                 {#each [...new Set(diagnosticQuestions.map(q => q.grade))] as grade}
+                   {@const gradeQuestions = diagnosticQuestions.filter(q => q.grade === grade)}
+                   {@const gradeCorrect = gradeQuestions.filter(q => q.isCorrect).length}
+                   {@const gradePercent = Math.round((gradeCorrect / gradeQuestions.length) * 100)}
+
+                   <div class="bg-[#121212]/50 rounded-lg p-4 border border-indigo-500/20">
+                     <div class="flex justify-between items-center mb-2">
+                       <span class="font-bold text-indigo-400">Grado {grade}°</span>
+                       <span class={`text-xs font-bold px-2 py-1 rounded ${gradePercent >= 60 ? 'bg-emerald-500/20 text-emerald-400' : 'bg-red-500/20 text-red-400'}`}>
+                         {gradePercent}% Aprobado
+                       </span>
+                     </div>
+                     <div class="w-full h-2 bg-white/10 rounded-full overflow-hidden">
+                       <div class="h-full bg-indigo-500 transition-all" style="width: {gradePercent}%"></div>
+                     </div>
+                     {#if gradePercent < 60}
+                       <p class="text-xs text-red-300 mt-2">
+                         ⚠️ Se detectaron brechas en conceptos de este grado.
+                       </p>
+                     {/if}
+                   </div>
+                 {/each}
+               </div>
+            </div>
+          </div>
+        {/if}
+      {/if}
+
       <!-- Memory Progress Status -->
       <div class="max-w-2xl mx-auto">
         <MemoryStatus totalQuestions={questions.length} compact={false} />
@@ -361,6 +411,11 @@
                     `}>
                       {isCorrect ? '✓ Correcta' : '✗ Incorrecta'}
                     </div>
+                    {#if q.grade && q.grade !== examData.grade}
+                      <div class="px-2 py-0.5 text-[10px] sm:text-xs font-bold uppercase tracking-widest border border-yellow-500/50 text-yellow-500 bg-yellow-500/10 rounded">
+                        Grado {q.grade}°
+                      </div>
+                    {/if}
                   </div>
                   <h3 class="text-sm sm:text-base lg:text-lg font-normal leading-relaxed font-sans">
                     <MathRenderer content={q.text} />

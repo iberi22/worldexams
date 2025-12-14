@@ -27,8 +27,11 @@ export interface QuestionStats {
 /**
  * Load answered question IDs from localStorage
  */
+/**
+ * Load answered question IDs from localStorage
+ * Returns Set of IDs that are valid (answered within last 7 days)
+ */
 export function loadAnsweredQuestions(): Set<string> {
-  // Check if running in browser environment
   if (typeof window === 'undefined' || typeof localStorage === 'undefined') {
     return new Set();
   }
@@ -38,13 +41,33 @@ export function loadAnsweredQuestions(): Set<string> {
     if (!stored) return new Set();
 
     const data = JSON.parse(stored);
-    return new Set(data.answeredIds || []);
+    const now = Date.now();
+    const SEVEN_DAYS_MS = 7 * 24 * 60 * 60 * 1000;
+    const validIds = new Set<string>();
+
+    if (data.answeredTimestamps) {
+      for (const [id, ts] of Object.entries(data.answeredTimestamps)) {
+        if (now - (ts as number) < SEVEN_DAYS_MS) {
+          validIds.add(id);
+        }
+      }
+      return validIds;
+    }
+
+    if (data.answeredIds) {
+       return new Set(data.answeredIds);
+    }
+
+    return new Set();
   } catch (e) {
     console.error('Error loading question memory:', e);
     return new Set();
   }
 }
 
+/**
+ * Save answered question IDs to localStorage
+ */
 /**
  * Save answered question IDs to localStorage
  */
@@ -58,9 +81,40 @@ export function saveAnsweredQuestions(
   }
 
   try {
+    const stored = localStorage.getItem(STORAGE_KEY);
+    let currentTimestamps: Record<string, number> = {};
+    const now = Date.now();
+    const SEVEN_DAYS_MS = 7 * 24 * 60 * 60 * 1000;
+
+    if (stored) {
+      const data = JSON.parse(stored);
+      // Clean up old format or load existing v2
+      if (data.answeredTimestamps) {
+        currentTimestamps = data.answeredTimestamps;
+      } else if (data.answeredIds) {
+        // Migration: give all old IDs current timestamp
+        data.answeredIds.forEach((id: string) => {
+            currentTimestamps[id] = now;
+        });
+      }
+    }
+
+    const newTimestamps: Record<string, number> = {};
+
+    // For every ID in the input set (current valid IDs)
+    answeredIds.forEach(id => {
+      // If we have an existing valid timestamp, keep it
+      if (currentTimestamps[id] && (now - currentTimestamps[id] < SEVEN_DAYS_MS)) {
+        newTimestamps[id] = currentTimestamps[id];
+      } else {
+        // Otherwise it's new (or re-added), give it NOW
+        newTimestamps[id] = now;
+      }
+    });
+
     const data = {
-      answeredIds: Array.from(answeredIds),
-      lastUpdated: Date.now(),
+      answeredTimestamps: newTimestamps,
+      lastUpdated: now,
       totalAvailable
     };
     localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
