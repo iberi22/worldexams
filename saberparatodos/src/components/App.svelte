@@ -27,6 +27,7 @@
   import ArticleView from './ArticleView.svelte';
   import { fetchAllQuestionsForGrade, getAvailableSubjects, fetchQuestions } from '../lib/api-service'; // Added fetchQuestions
   import { filterByPlan } from '../utils/questionParser';
+  import packageInfo from '../../package.json';
 
   export let questions = [];
   export let universalPool = null; // New prop for universal questions pool
@@ -374,12 +375,15 @@
   <!-- Global Header -->
   <header class="fixed top-0 left-0 right-0 z-50 bg-[#121212]/80 backdrop-blur-sm border-b border-white/5">
     <div class="container mx-auto px-4 py-3 flex items-center justify-between">
-      <button
-        on:click={() => setView(AppView.LANDING)}
-        class="text-sm font-bold uppercase tracking-widest hover:text-emerald-500 transition-colors"
-      >
-        OpenIcfes
-      </button>
+      <div class="flex items-center gap-3">
+        <button
+          on:click={() => setView(AppView.LANDING)}
+          class="text-sm font-bold uppercase tracking-widest hover:text-emerald-500 transition-colors"
+        >
+          OpenIcfes
+        </button>
+        <span class="text-[10px] font-mono text-white/40 border border-white/10 px-1.5 py-0.5 rounded">v{packageInfo.version}</span>
+      </div>
       <div class="flex items-center gap-4">
         {#if user}
           <div class="text-xs text-emerald-500 opacity-80 hidden sm:block">
@@ -433,7 +437,7 @@
             <span class="text-xs font-bold uppercase tracking-[0.3em] text-[#FCD116]">Colombia</span>
           </div>
           <p class="text-xs font-bold uppercase tracking-[0.4em] text-emerald-500 animate-pulse-slow">
-            Sistema Listo :: V.2.1.0
+            Sistema Listo :: v{packageInfo.version}
           </p>
           <h1 class="text-6xl md:text-8xl font-bold tracking-tighter uppercase text-[#F5F5DC] relative">
             Open<span class="text-white/20">Icfes</span>
