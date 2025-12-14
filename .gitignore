@@ -117,3 +117,13 @@ temp/premium-questions/
 
 # Solo archivos PUBLIC se incluyen en repo público
 !*-PUBLIC.md
+
+# ============================================
+# INTELLECTUAL PROPERTY PROTECTION
+# ============================================
+# Question Bank (Source of Truth)
+src/content/questions/
+
+# Generated API Data (JSONs)
+api/v1/
+
