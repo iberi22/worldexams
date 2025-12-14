@@ -1,5 +1,6 @@
 <script>
-  import { onMount, fade, fly } from 'svelte/transition';
+  import { onMount } from 'svelte';
+  import { fade, fly } from 'svelte/transition';
   import { createEventDispatcher } from 'svelte';
 
   export let loading = true; // Controlled by parent (fetching status)
