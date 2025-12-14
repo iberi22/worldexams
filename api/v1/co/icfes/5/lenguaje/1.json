@@ -1,0 +1,252 @@
+{
+  "metadata": {
+    "page": 1,
+    "total_questions": 7,
+    "grade": "5",
+    "country": "co",
+    "total_pages": 1.0,
+    "subject": "Lenguaje",
+    "generated_at": "2025-12-14T15:01:04Z",
+    "exam": "icfes"
+  },
+  "questions": [
+    {
+      "bundle_id": "CO-LEN-05-comprension-mix-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La puerta",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El paraguas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Las ventanas",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Los ojos",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Literal: \"...y cerró las ventanas\".\n**Competencia evaluada:** Comprensión - Literal.\n---\nid: \"CO-LEN-05-comprension-mix-001\"\ncountry: \"CO\"\ngrado: 5\nasignatura: \"Lenguaje\"\ntema: \"Comprensión Lectora\"\ndificultad: \"Medium\"\nestado: \"draft\"\ncreador: \"Antigravity\"\nsource_lang: \"es-CO\"\nllm_model: \"Cascade\"\nagent: \"Cascade\"\nide: \"VS Code\"\nbundle_version: \"2.1\"\ntotal_questions: 7\ndifficulty_distribution: \"1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)\"\ngeneration_date: \"2025-12-06\"\n# === SOURCE ATTRIBUTION ===\nsource: \"ICFES-Curriculum\"\nsource_url: \"https://www.icfes.gov.co\"\nsource_license: \"Educational Use - Colombian Curriculum\"\nsource_id: \"ICFES-LEN-005-CMP-MIX\"\noriginal_concept: \"Lectura Inferencial\"\ncompetencia_icfes: \"Comprensión e interpretación textual\"\ncomponente: \"Semántico\"\n# === UNIVERSAL SHARING ===\nuniversal_question: true\napplicable_exams: [\"CO-Saber5\", \"MX-Planea\"]\nlicenses:\n  v1: \"CC BY-SA 4.0\"       # Pregunta original (uso comercial permitido)\n  v2-v7: \"CC BY-NC-SA 4.0\" # Variantes pedagógicas (solo uso no-comercial)\n---",
+      "id": "CO-LEN-05-comprension-mix-001-v2",
+      "number": 2,
+      "statement": "En el texto anterior, ¿qué cerró Juan?",
+      "source_url": "https://www.icfes.gov.co",
+      "correct_answer": "C",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-LEN-05-comprension-mix-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se habría quemado con el sol.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Se habría mojado.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Habría cerrado las puertas.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Estaría feliz.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Predicción basada en el contexto de lluvia.\n**Competencia evaluada:** Comprensión - Predicción.\n---\nid: \"CO-LEN-05-comprension-mix-001\"\ncountry: \"CO\"\ngrado: 5\nasignatura: \"Lenguaje\"\ntema: \"Comprensión Lectora\"\ndificultad: \"Medium\"\nestado: \"draft\"\ncreador: \"Antigravity\"\nsource_lang: \"es-CO\"\nllm_model: \"Cascade\"\nagent: \"Cascade\"\nide: \"VS Code\"\nbundle_version: \"2.1\"\ntotal_questions: 7\ndifficulty_distribution: \"1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)\"\ngeneration_date: \"2025-12-06\"\n# === SOURCE ATTRIBUTION ===\nsource: \"ICFES-Curriculum\"\nsource_url: \"https://www.icfes.gov.co\"\nsource_license: \"Educational Use - Colombian Curriculum\"\nsource_id: \"ICFES-LEN-005-CMP-MIX\"\noriginal_concept: \"Lectura Inferencial\"\ncompetencia_icfes: \"Comprensión e interpretación textual\"\ncomponente: \"Semántico\"\n# === UNIVERSAL SHARING ===\nuniversal_question: true\napplicable_exams: [\"CO-Saber5\", \"MX-Planea\"]\nlicenses:\n  v1: \"CC BY-SA 4.0\"       # Pregunta original (uso comercial permitido)\n  v2-v7: \"CC BY-NC-SA 4.0\" # Variantes pedagógicas (solo uso no-comercial)\n---",
+      "id": "CO-LEN-05-comprension-mix-001-v4",
+      "number": 4,
+      "statement": "Si Juan no hubiera llevado paraguas, probablemente:",
+      "source_url": "https://www.icfes.gov.co",
+      "correct_answer": "B",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-LEN-05-comprension-mix-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es el sujeto.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Es una aposición explicativa (explica quién es el león).",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Es el verbo principal.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Es una pregunta.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "La aposición explica o especifica al sustantivo que la precede (león), y suele ir entre comas.\n**Competencia evaluada:** Sintáctica - Funciones gramaticales complejas.\n---\nid: \"CO-LEN-05-comprension-mix-001\"\ncountry: \"CO\"\ngrado: 5\nasignatura: \"Lenguaje\"\ntema: \"Comprensión Lectora\"\ndificultad: \"Medium\"\nestado: \"draft\"\ncreador: \"Antigravity\"\nsource_lang: \"es-CO\"\nllm_model: \"Cascade\"\nagent: \"Cascade\"\nide: \"VS Code\"\nbundle_version: \"2.1\"\ntotal_questions: 7\ndifficulty_distribution: \"1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)\"\ngeneration_date: \"2025-12-06\"\n# === SOURCE ATTRIBUTION ===\nsource: \"ICFES-Curriculum\"\nsource_url: \"https://www.icfes.gov.co\"\nsource_license: \"Educational Use - Colombian Curriculum\"\nsource_id: \"ICFES-LEN-005-CMP-MIX\"\noriginal_concept: \"Lectura Inferencial\"\ncompetencia_icfes: \"Comprensión e interpretación textual\"\ncomponente: \"Semántico\"\n# === UNIVERSAL SHARING ===\nuniversal_question: true\napplicable_exams: [\"CO-Saber5\", \"MX-Planea\"]\nlicenses:\n  v1: \"CC BY-SA 4.0\"       # Pregunta original (uso comercial permitido)\n  v2-v7: \"CC BY-NC-SA 4.0\" # Variantes pedagógicas (solo uso no-comercial)\n---\n## 📊 Metadata de Validación\n| Pregunta | ID | Dificultad | Competencia ICFES | Componente | Validado |\n|----------|-----|------------|-------------------|------------|----------|\n| 1 | v1 | Medium | Comprensión | Semántico | ⬜ |\n| 2 | v2 | Low | Comprensión | Semántico | ⬜ |\n| 3 | v3 | Low | Comprensión | Semántico | ⬜ |\n| 4 | v4 | Medium | Comprensión | Semántico | ⬜ |\n| 5 | v5 | 4 | Gramática | Sintáctico | ⬜ |\n| 6 | v6 | High | Gramática | Sintáctico | ⬜ |\n| 7 | v7 | 1 | Semántica | Semántico | ⬜ |",
+      "id": "CO-LEN-05-comprension-mix-001-v6",
+      "number": 6,
+      "statement": "Lee: \"El león, rey de la selva, dormía.\"\n¿Qué función cumple la frase \"rey de la selva\"?",
+      "source_url": "https://www.icfes.gov.co",
+      "correct_answer": "B",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-LEN-05-gramatica-001-bundle",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "casa",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "roja",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "es",
+          "is_correct": false
+        }
+      ],
+      "explanation": "**Adjetivo:** Es la palabra que califica o describe al sustantivo. \"Roja\" dice cómo es la casa.\n---\nid: \"CO-LEN-05-gramatica-001-bundle\"\ncountry: \"CO\"\ngrado: 5\nasignatura: \"Lenguaje\"\ntema: \"Gramática y Ortografía\"\ndificultad: 2\nestado: \"draft\"\ncreador: \"Copilot\"\nsource_lang: \"es-CO\"\nllm_model: \"Cascade\"\nagent: \"Cascade\"\nide: \"VS Code\"\nbundle_version: \"2.1\"\ntotal_questions: 7\ndifficulty_distribution: \"Mixta (2-3)\"\ngeneration_date: \"2025-12-06\"\n# === SOURCE ATTRIBUTION ===\nsource: \"ICFES-Curriculum\"\nsource_url: \"https://www.icfes.gov.co\"\nsource_license: \"Educational Use - Colombian Curriculum\"\nsource_id: \"ICFES-LEN-05-GRAM\"\noriginal_concept: \"Orthography and syntactic categories\"\ncompetencia_icfes: \"Escritora - Semántica\"\ncomponente: \"Sintáctico - Ortográfico\"\n# === UNIVERSAL SHARING ===\nuniversal_question: false\napplicable_exams: [\"CO-Saber5\"]\nlicenses:\n  v1: \"CC BY-SA 4.0\"       # Pregunta original (uso comercial permitido)\n  v2-v7: \"CC BY-NC-SA 4.0\" # Variantes pedagógicas (solo uso no-comercial)\n---",
+      "id": "CO-LEN-05-gramatica-001-bundle-v0",
+      "number": 0,
+      "statement": "En la frase *'La casa roja es grande'*, ¿cuál es el **adjetivo** que indica color?",
+      "source_url": "https://www.icfes.gov.co",
+      "correct_answer": "C",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-LEN-05-gramatica-001-bundle",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Camion",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Pájaro",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Pared",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Casa",
+          "is_correct": false
+        }
+      ],
+      "explanation": "**Acentuación:** Pájaro (pá-ja-ro) tiene el acento en la antepenúltima sílaba, por lo tanto es esdrújula y siempre se tilda.\n---\nid: \"CO-LEN-05-gramatica-001-bundle\"\ncountry: \"CO\"\ngrado: 5\nasignatura: \"Lenguaje\"\ntema: \"Gramática y Ortografía\"\ndificultad: 2\nestado: \"draft\"\ncreador: \"Copilot\"\nsource_lang: \"es-CO\"\nllm_model: \"Cascade\"\nagent: \"Cascade\"\nide: \"VS Code\"\nbundle_version: \"2.1\"\ntotal_questions: 7\ndifficulty_distribution: \"Mixta (2-3)\"\ngeneration_date: \"2025-12-06\"\n# === SOURCE ATTRIBUTION ===\nsource: \"ICFES-Curriculum\"\nsource_url: \"https://www.icfes.gov.co\"\nsource_license: \"Educational Use - Colombian Curriculum\"\nsource_id: \"ICFES-LEN-05-GRAM\"\noriginal_concept: \"Orthography and syntactic categories\"\ncompetencia_icfes: \"Escritora - Semántica\"\ncomponente: \"Sintáctico - Ortográfico\"\n# === UNIVERSAL SHARING ===\nuniversal_question: false\napplicable_exams: [\"CO-Saber5\"]\nlicenses:\n  v1: \"CC BY-SA 4.0\"       # Pregunta original (uso comercial permitido)\n  v2-v7: \"CC BY-NC-SA 4.0\" # Variantes pedagógicas (solo uso no-comercial)\n---",
+      "id": "CO-LEN-05-gramatica-001-bundle-v0",
+      "number": 0,
+      "statement": "¿Cuál de las siguientes palabras es **esdrújula** y debe llevar tilde?",
+      "source_url": "https://www.icfes.gov.co",
+      "correct_answer": "B",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-LEN-05-gramatica-001-bundle",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lápizes (con z)",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Lápices (con c)",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Lapizs",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Lápises",
+          "is_correct": false
+        }
+      ],
+      "explanation": "**Regla Z-C:** Las palabras terminadas en Z forman el plural cambiando la Z por C (ej: pez -> peces).\n---\nid: \"CO-LEN-05-gramatica-001-bundle\"\ncountry: \"CO\"\ngrado: 5\nasignatura: \"Lenguaje\"\ntema: \"Gramática y Ortografía\"\ndificultad: 2\nestado: \"draft\"\ncreador: \"Copilot\"\nsource_lang: \"es-CO\"\nllm_model: \"Cascade\"\nagent: \"Cascade\"\nide: \"VS Code\"\nbundle_version: \"2.1\"\ntotal_questions: 7\ndifficulty_distribution: \"Mixta (2-3)\"\ngeneration_date: \"2025-12-06\"\n# === SOURCE ATTRIBUTION ===\nsource: \"ICFES-Curriculum\"\nsource_url: \"https://www.icfes.gov.co\"\nsource_license: \"Educational Use - Colombian Curriculum\"\nsource_id: \"ICFES-LEN-05-GRAM\"\noriginal_concept: \"Orthography and syntactic categories\"\ncompetencia_icfes: \"Escritora - Semántica\"\ncomponente: \"Sintáctico - Ortográfico\"\n# === UNIVERSAL SHARING ===\nuniversal_question: false\napplicable_exams: [\"CO-Saber5\"]\nlicenses:\n  v1: \"CC BY-SA 4.0\"       # Pregunta original (uso comercial permitido)\n  v2-v7: \"CC BY-NC-SA 4.0\" # Variantes pedagógicas (solo uso no-comercial)\n---",
+      "id": "CO-LEN-05-gramatica-001-bundle-v0",
+      "number": 0,
+      "statement": "Al pasar la palabra **\"Lápiz\"** a plural, la forma correcta es:",
+      "source_url": "https://www.icfes.gov.co",
+      "correct_answer": "B",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-LEN-05-gramatica-001-bundle",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comeré",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Como",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Comí",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Comer",
+          "is_correct": false
+        }
+      ],
+      "explanation": "**Tiempos Verbales:** Comí indica una acción ya terminada (pretérito).",
+      "id": "CO-LEN-05-gramatica-001-bundle-v0",
+      "number": 0,
+      "statement": "¿Cuál es el verbo en tiempo **pasado**?",
+      "source_url": "https://www.icfes.gov.co",
+      "correct_answer": "C",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    }
+  ]
+}

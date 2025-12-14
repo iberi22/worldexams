@@ -1,0 +1,592 @@
+{
+  "metadata": {
+    "page": 1,
+    "total_questions": 17,
+    "grade": "9",
+    "country": "co",
+    "total_pages": 1.0,
+    "subject": "Ciencias Naturales",
+    "generated_at": "2025-12-14T15:01:04Z",
+    "exam": "icfes"
+  },
+  "questions": [
+    {
+      "bundle_id": "CO-CIE-09-ecosistemas-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consumidores",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Productores",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Descomponedores",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Depredadores",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Por definición, los organismos fotosintéticos (plantas, algas) que transforman energía solar en química son los **Productores**. Son la base de la red trófica.\n**Competencia evaluada:** Uso comprensivo del conocimiento - Clasificación de organismos.\n---\nid: \"CO-CIE-09-ecosistemas-001\"\ncountry: \"CO\"\ngrado: 9\nasignatura: \"Ciencias Naturales\"\ntema: \"Ecosistemas - Redes Tróficas\"\ndificultad: \"Medium\"\nestado: \"draft\"\ncreador: \"Antigravity\"\nsource_lang: \"es-CO\"\nllm_model: \"Cascade\"\nagent: \"Cascade\"\nide: \"VS Code\"\nbundle_version: \"2.1\"\ntotal_questions: 7\ndifficulty_distribution: \"1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)\"\ngeneration_date: \"2025-12-06\"\n# === SOURCE ATTRIBUTION ===\nsource: \"ICFES-Curriculum\"\nsource_url: \"https://www.icfes.gov.co\"\nsource_license: \"Educational Use - Colombian Curriculum\"\nsource_id: \"ICFES-CIE-009-001\"\noriginal_concept: \"Dinámica de poblaciones en red trófica\"\ncompetencia_icfes: \"Uso comprensivo del conocimiento científico\"\ncomponente: \"Entorno Vivo\"\n# === UNIVERSAL SHARING ===\nuniversal_question: true\napplicable_exams: [\"CO-Saber9\", \"MX-ENLACE\", \"ES-ESO\"]\nlicenses:\n  v1: \"CC BY-SA 4.0\"       # Pregunta original (uso comercial permitido)\n  v2-v7: \"CC BY-NC-SA 4.0\" # Variantes pedagógicas (solo uso no-comercial)\n---",
+      "id": "CO-CIE-09-ecosistemas-001-v2",
+      "number": 2,
+      "statement": "En un ecosistema, los organismos que fabrican su propio alimento utilizando la luz solar se llaman:",
+      "source_url": "https://www.icfes.gov.co",
+      "correct_answer": "B",
+      "tags": [],
+      "difficulty": "Low",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-CIE-09-ecosistemas-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disminuirá drásticamente.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Aumentará rápidamente al no tener depredadores.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Los venados se volverán carnívoros.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No habrá ningún cambio.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Al eliminar el control biológico (depredador), la presa (venado) se reproduce sin restricción inmediata, generando una sobrepoblación a corto plazo.\n**Competencia evaluada:** Explicación de fenómenos - Relación depredador-presa.\n---\nid: \"CO-CIE-09-ecosistemas-001\"\ncountry: \"CO\"\ngrado: 9\nasignatura: \"Ciencias Naturales\"\ntema: \"Ecosistemas - Redes Tróficas\"\ndificultad: \"Medium\"\nestado: \"draft\"\ncreador: \"Antigravity\"\nsource_lang: \"es-CO\"\nllm_model: \"Cascade\"\nagent: \"Cascade\"\nide: \"VS Code\"\nbundle_version: \"2.1\"\ntotal_questions: 7\ndifficulty_distribution: \"1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)\"\ngeneration_date: \"2025-12-06\"\n# === SOURCE ATTRIBUTION ===\nsource: \"ICFES-Curriculum\"\nsource_url: \"https://www.icfes.gov.co\"\nsource_license: \"Educational Use - Colombian Curriculum\"\nsource_id: \"ICFES-CIE-009-001\"\noriginal_concept: \"Dinámica de poblaciones en red trófica\"\ncompetencia_icfes: \"Uso comprensivo del conocimiento científico\"\ncomponente: \"Entorno Vivo\"\n# === UNIVERSAL SHARING ===\nuniversal_question: true\napplicable_exams: [\"CO-Saber9\", \"MX-ENLACE\", \"ES-ESO\"]\nlicenses:\n  v1: \"CC BY-SA 4.0\"       # Pregunta original (uso comercial permitido)\n  v2-v7: \"CC BY-NC-SA 4.0\" # Variantes pedagógicas (solo uso no-comercial)\n---",
+      "id": "CO-CIE-09-ecosistemas-001-v4",
+      "number": 4,
+      "statement": "Si en un bosque desaparecen los lobos (consumidores secundarios y depredadores de venados), ¿qué efecto inmediato se espera en la población de venados (consumidores primarios)?",
+      "source_url": "https://www.icfes.gov.co",
+      "correct_answer": "B",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-CIE-09-ecosistemas-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eutrofización",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Fotosíntesis",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Bioacumulación (o Biomagnificación)",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Descomposición",
+          "is_correct": false
+        }
+      ],
+      "explanation": "La biomaignificación es el proceso donde sustancias tóxicas se acumulan en mayor concentración a medida que se sube en la cadena trófica. Los peces grandes comen muchos pequeños, acumulando todo su mercurio. Requiere conectar conceptos de química y ecología.\n**Competencia evaluada:** Indagación - Análisis de impactos ambientales.\n---\nid: \"CO-CIE-09-ecosistemas-001\"\ncountry: \"CO\"\ngrado: 9\nasignatura: \"Ciencias Naturales\"\ntema: \"Ecosistemas - Redes Tróficas\"\ndificultad: \"Medium\"\nestado: \"draft\"\ncreador: \"Antigravity\"\nsource_lang: \"es-CO\"\nllm_model: \"Cascade\"\nagent: \"Cascade\"\nide: \"VS Code\"\nbundle_version: \"2.1\"\ntotal_questions: 7\ndifficulty_distribution: \"1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)\"\ngeneration_date: \"2025-12-06\"\n# === SOURCE ATTRIBUTION ===\nsource: \"ICFES-Curriculum\"\nsource_url: \"https://www.icfes.gov.co\"\nsource_license: \"Educational Use - Colombian Curriculum\"\nsource_id: \"ICFES-CIE-009-001\"\noriginal_concept: \"Dinámica de poblaciones en red trófica\"\ncompetencia_icfes: \"Uso comprensivo del conocimiento científico\"\ncomponente: \"Entorno Vivo\"\n# === UNIVERSAL SHARING ===\nuniversal_question: true\napplicable_exams: [\"CO-Saber9\", \"MX-ENLACE\", \"ES-ESO\"]\nlicenses:\n  v1: \"CC BY-SA 4.0\"       # Pregunta original (uso comercial permitido)\n  v2-v7: \"CC BY-NC-SA 4.0\" # Variantes pedagógicas (solo uso no-comercial)\n---\n## 📊 Metadata de Validación\n| Pregunta | ID | Dificultad | Competencia ICFES | Componente | Validado |\n|----------|-----|------------|-------------------|------------|----------|\n| 1 | v1 | Medium | Explicación | Entorno Vivo | ⬜ |\n| 2 | v2 | Low | Uso comprensivo | Entorno Vivo | ⬜ |\n| 3 | v3 | Low | Uso comprensivo | Entorno Vivo | ⬜ |\n| 4 | v4 | Medium | Explicación | Entorno Vivo | ⬜ |\n| 5 | v5 | Medium | Uso comprensivo | Entorno Vivo | ⬜ |\n| 6 | v6 | High | Indagación | Entorno Vivo | ⬜ |\n| 7 | v7 | High | Indagación | Entorno Vivo | ⬜ |",
+      "id": "CO-CIE-09-ecosistemas-001-v6",
+      "number": 6,
+      "statement": "Se observa que en una laguna contaminada con mercurio, los peces grandes tienen concentraciones mucho mayores del tóxico que las algas. Este fenómeno se conoce como:",
+      "source_url": "https://www.icfes.gov.co",
+      "correct_answer": "C",
+      "tags": [],
+      "difficulty": "High",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-CIE-9-evolucion-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las polillas oscuras se camuflaban mejor en los troncos oscuros, evitando ser depredadas.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El hollín de las fábricas manchó las alas de todas las polillas claras volviéndolas oscuras.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Las polillas claras decidieron volverse oscuras para no ensuciarse.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Las polillas oscuras eran más fuertes y mataron a las claras.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "**¿Por qué A es correcta?**\nEste es el clásico ejemplo del **melanismo industrial**. Al cambiar el ambiente (troncos oscuros), las polillas oscuras tuvieron una ventaja de supervivencia (camuflaje) frente a los depredadores, mientras que las claras eran fáciles de ver y comer. Así, las oscuras sobrevivieron y se reprodujeron más.\n**¿Por qué las otras son incorrectas?**\n- **B)** La evolución actúa sobre generaciones (cambio genético poblacional), no cambia el color de un individuo vivo por suciedad.\n- **C)** La evolución no es una decisión consciente (\"decidieron\").\n- **D)** La competencia suele ser por recursos, no una guerra directa entre variantes de color.\n**Competencia evaluada:** Explicación de fenómenos (Uso de teorías evolutivas).\n---",
+      "id": "CO-CIE-9-evolucion-001-v1",
+      "number": 1,
+      "statement": "En una zona industrializada de Inglaterra, se observó que la población de polillas claras disminuyó drásticamente, mientras que la de polillas oscuras aumentó. Antes de la industrialización, los troncos de los árboles eran claros por los líquenes, pero el hollín de las fábricas los oscureció. ¿Cuál es la explicación más probable para este cambio en la población de polillas según la teoría de la selección natural?",
+      "source_url": "https://www.icfes.gov.co/documents/20143/2347466/Cuadernillo+de+preguntas+Ciencias+Naturales+-+Grado+9.pdf",
+      "correct_answer": "A",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-CIE-9-evolucion-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Charles Darwin.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Isaac Newton.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Albert Einstein.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Louis Pasteur.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "**Charles Darwin** es el padre de la teoría evolutiva moderna, presentada en su libro \"El Origen de las Especies\" (1859).\n---",
+      "id": "CO-CIE-9-evolucion-001-v2",
+      "number": 2,
+      "statement": "¿Cómo se le llama al científico inglés que propuso la teoría de la evolución por medio de la Selección Natural?",
+      "source_url": "https://www.icfes.gov.co/documents/20143/2347466/Cuadernillo+de+preguntas+Ciencias+Naturales+-+Grado+9.pdf",
+      "correct_answer": "A",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-CIE-9-evolucion-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Camuflaje.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Hibernación.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Reproducción.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Fotosíntesis.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "El **camuflaje** (o cripsis) es una adaptación física que permite a un organismo mezclarse con su entorno para no ser detectado.\n---",
+      "id": "CO-CIE-9-evolucion-001-v3",
+      "number": 3,
+      "statement": "Algunos insectos tienen forma de hoja o de rama seca para pasar desapercibidos y evitar que los pájaros se los coman. Esta capacidad se conoce como:",
+      "source_url": "https://www.icfes.gov.co/documents/20143/2347466/Cuadernillo+de+preguntas+Ciencias+Naturales+-+Grado+9.pdf",
+      "correct_answer": "A",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-CIE-9-evolucion-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adaptación fisiológica y morfológica.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Selección artificial.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Mutación dañina.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Extinción masiva.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Una **adaptación** es cualquier característica (física o funcional) heredada que aumenta las posibilidades de supervivencia de un organismo en su ambiente específico.\n---",
+      "id": "CO-CIE-9-evolucion-001-v4",
+      "number": 4,
+      "statement": "Los osos polares tienen una gruesa capa de grasa y pelaje denso para soportar el frío extremo del Ártico. Estas características son un ejemplo de:",
+      "source_url": "https://www.icfes.gov.co/documents/20143/2347466/Cuadernillo+de+preguntas+Ciencias+Naturales+-+Grado+9.pdf",
+      "correct_answer": "A",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-CIE-9-evolucion-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque las sobrevivientes ya tenían una resistencia genética y la transmitieron a sus hijos.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Porque el veneno estaba vencido.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Porque las cucarachas aprendieron a aguantar la respiración.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Porque el insecticida crea nuevos genes en las cucarachas.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "La **selección natural** actúa sobre la variedad existente. Algunas cucarachas tenían naturalmente genes de resistencia. Al morir las otras, solo las resistentes se reproducen, creando una población resistente. El veneno *selecciona*, no *crea* la resistencia.\n---",
+      "id": "CO-CIE-9-evolucion-001-v5",
+      "number": 5,
+      "statement": "Si se aplica un insecticida para matar cucarachas, al principio mueren casi todas, pero unas pocas sobreviven. Sus descendientes serán resistentes al veneno. ¿Por qué ocurre esto?",
+      "source_url": "https://www.icfes.gov.co/documents/20143/2347466/Cuadernillo+de+preguntas+Ciencias+Naturales+-+Grado+9.pdf",
+      "correct_answer": "A",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-CIE-9-evolucion-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evolución congergente.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Evolución divergente.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Coevolución.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Deriva genética.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "La **evolución convergente** ocurre cuando organismos no relacionados desarrollan soluciones (estructuras) similares para enfrentar problemas ambientales similares (en este caso, la sequía del desierto).\n---",
+      "id": "CO-CIE-9-evolucion-001-v6",
+      "number": 6,
+      "statement": "Dos especies diferentes de plantas, una en África y otra en América, desarrollan espinas y tallos carnosos para almacenar agua porque ambas viven en desiertos, aunque no son parientes cercanos. Este fenómeno se conoce como:",
+      "source_url": "https://www.icfes.gov.co/documents/20143/2347466/Cuadernillo+de+preguntas+Ciencias+Naturales+-+Grado+9.pdf",
+      "correct_answer": "A",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-CIE-9-evolucion-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la población ancestral nacían jirafas con cuellos de distintos tamaños; las de cuello largo sobrevivían más al alcanzar comida y pasaban ese rasgo a sus crías.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Las jirafas siempre han tenido el cuello igual de largo desde el inicio de los tiempos.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El esfuerzo físico de una madre modifica sus genes para beneficiar al hijo.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Fue una mutación espontánea que ocurrió en todas las jirafas al mismo tiempo.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Darwin explica la evolución por **variabilidad y selección**.\n1.  Existía variedad (cuellos cortos y largos).\n2.  Presión selectiva (comida alta).\n3.  Las de cuello largo tenían ventaja (fitness) y se reproducían más.\n4.  Con el tiempo, el rasgo \"cuello largo\" se volvió dominante en la población.\nLamarck creía en la \"herencia de caracteres adquiridos\" por uso y desuso, lo cual es genéticamente falso.",
+      "id": "CO-CIE-9-evolucion-001-v7",
+      "number": 7,
+      "statement": "Según Lamarck (teoría antigua errónea), las jirafas estiraron su cuello durante su vida para alcanzar hojas altas y sus hijos nacieron con cuello largo. Según Darwin (teoría correcta), ¿cómo se explica el cuello largo de las jirafas?",
+      "source_url": "https://www.icfes.gov.co/documents/20143/2347466/Cuadernillo+de+preguntas+Ciencias+Naturales+-+Grado+9.pdf",
+      "correct_answer": "A",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-CIE-9-genetica-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25%",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "50%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "75%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "100%",
+          "is_correct": false
+        }
+      ],
+      "explanation": "**¿Por qué A es correcta?**\nAl realizar el cuadro de Punnett del cruce Aa x Aa:\n- AA (Amarillo) = 25%\n- Aa (Amarillo) = 50%\n- aa (Verde) = 25%\nLa única combinación que produce el fenotipo recesivo (verde) es `aa`, que corresponde a 1 de cada 4 descendientes, es decir, el **25%**.\n**¿Por qué las otras son incorrectas?**\n- **B y C)** Corresponden a otros tipos de cruces o errores al sumar los genotipos dominantes.\n- **D)** Solo sería posible si ambos padres fueran homocigotos recesivos (aa x aa).\n**Competencia evaluada:** Uso comprensivo del conocimiento científico (Explicación de fenómenos).\n---",
+      "id": "CO-CIE-9-genetica-001-v1",
+      "number": 1,
+      "statement": "En un cultivo de arvejas, el color amarillo (A) de la semilla es dominante sobre el color verde (a). Si se cruzan dos plantas heterocigotas (Aa) para esta característica, ¿qué porcentaje de la descendencia se espera que tenga fenotipo de semillas verdes?",
+      "source_url": "https://www.icfes.gov.co/documents/20143/2347466/Cuadernillo+de+preguntas+Ciencias+Naturales+-+Grado+9.pdf",
+      "correct_answer": "A",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-CIE-9-genetica-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ADN (Ácido Desoxirribonucleico)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "ARN (Ácido Ribonucleico)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Proteína",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Glucosa",
+          "is_correct": false
+        }
+      ],
+      "explanation": "El **ADN** es la molécula fundamental de la herencia. Contiene las instrucciones necesarias para el desarrollo y funcionamiento de los organismos.\n---",
+      "id": "CO-CIE-9-genetica-001-v2",
+      "number": 2,
+      "statement": "¿Cuál es la molécula encargada de almacenar y transmitir la información genética en la mayoría de los seres vivos?",
+      "source_url": "https://www.icfes.gov.co/documents/20143/2347466/Cuadernillo+de+preguntas+Ciencias+Naturales+-+Grado+9.pdf",
+      "correct_answer": "A",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-CIE-9-genetica-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recesivo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Dominante",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Híbrido",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Mutante",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Los rasgos **recesivos** son aquellos que quedan \"ocultos\" en presencia de un alelo dominante y solo se expresan cuando el organismo es homocigoto recesivo (tiene las dos copias iguales del gen recesivo).\n---",
+      "id": "CO-CIE-9-genetica-001-v3",
+      "number": 3,
+      "statement": "Según las leyes de la herencia, un rasgo que se manifiesta en el fenotipo (apariencia) solo cuando el individuo tiene dos copias del mismo alelo (ej: aa), se denomina:",
+      "source_url": "https://www.icfes.gov.co/documents/20143/2347466/Cuadernillo+de+preguntas+Ciencias+Naturales+-+Grado+9.pdf",
+      "correct_answer": "A",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-CIE-9-genetica-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100% Negros",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "100% Rojos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "50% Negros y 50% Rojos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Grises (mezcla de negro y rojo)",
+          "is_correct": false
+        }
+      ],
+      "explanation": "El cruce es NN x nn.\nTodos los descendientes recibirán un alelo N del padre y un alelo n de la madre.\nGenotipo: 100% Nn (Heterocigoto).\nComo N es dominante, el fenotipo será **100% Negro**. El rasgo rojo queda oculto.\n---",
+      "id": "CO-CIE-9-genetica-001-v4",
+      "number": 4,
+      "statement": "Un ganadero en los Llanos Orientales quiere mejorar su hato. Sabe que el color negro del pelaje (N) en sus vacas es dominante sobre el color rojo (n). Si cruza un toro negro homocigoto dominante (NN) con una vaca roja (nn), ¿cómo será el fenotipo de todos los terneros de la primera generación?",
+      "source_url": "https://www.icfes.gov.co/documents/20143/2347466/Cuadernillo+de+preguntas+Ciencias+Naturales+-+Grado+9.pdf",
+      "correct_answer": "A",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-CIE-9-genetica-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos deben ser heterocigotos (Ll).",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Ambos deben ser homocigotos dominantes (LL).",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Uno debe ser LL y el otro ll.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Ambos deben ser homocigotos recesivos (ll).",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Pedro tiene fenotipo recesivo (ll) porque tiene el lóbulo pegado.\nPara tener `ll`, debió recibir un `l` de su mamá y un `l` de su papá.\nComo ambos padres tienen fenotipo dominante (lóbulo suelto), deben tener al menos un `L`.\nPor lo tanto, la única opción es que ambos sean **Ll** (heterocigotos), portadores del gen recesivo.\n---",
+      "id": "CO-CIE-9-genetica-001-v5",
+      "number": 5,
+      "statement": "En los humanos, tener el lóbulo de la oreja suelto (L) es dominante sobre tener el lóbulo pegado (l). Pedro tiene el lóbulo pegado. Su madre tiene el lóbulo suelto y su padre también tiene el lóbulo suelto. ¿Cuál debe ser obligatoriamente el genotipo de los padres de Pedro para que esto sea posible?",
+      "source_url": "https://www.icfes.gov.co/documents/20143/2347466/Cuadernillo+de+preguntas+Ciencias+Naturales+-+Grado+9.pdf",
+      "correct_answer": "A",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-CIE-9-genetica-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50%",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "25%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "100%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "0%",
+          "is_correct": false
+        }
+      ],
+      "explanation": "**Cruce:** XHY (Padre) x XHXh (Madre)\n**Posibles hijos varones:** Reciben Y del padre y X de la madre.\n1.  Recibe XH de la madre -> XHY (Sano)\n2.  Recibe Xh de la madre -> XhY (Enfermo)\nDe los hijos varones posibles, 1 es sano y 1 es enfermo. Por tanto, la probabilidad, **dentro de los varones**, es del **50%**.\n---",
+      "id": "CO-CIE-9-genetica-001-v6",
+      "number": 6,
+      "statement": "La hemofilia es una enfermedad ligada al cromosoma X y es recesiva. Si un hombre sano (XHY) se casa con una mujer portadora de hemofilia (XHXh), ¿cuál es la probabilidad de tener un hijo varón que padezca la enfermedad?\n*Nota: Considere solo la probabilidad dentro de los hijos varones.*",
+      "source_url": "https://www.icfes.gov.co/documents/20143/2347466/Cuadernillo+de+preguntas+Ciencias+Naturales+-+Grado+9.pdf",
+      "correct_answer": "A",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-CIE-9-genetica-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25% Rojas, 50% Manchadas, 25% Blancas.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "75% Rojas, 25% Blancas.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "100% Manchadas.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "50% Rojas, 50% Blancas.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "**Cruce:** RB x RB\n**Cuadro de Punnett:**\n- RR (Roja) = 25%\n- RB (Manchada) = 25%\n- BR (Manchada) = 25% -> Total RB = 50%\n- BB (Blanca) = 25%\nAl ser **codominancia**, el genotipo heterocigoto tiene su propio fenotipo distintivo. La proporción es 1:2:1 (25% Homocigoto 1, 50% Heterocigoto, 25% Homocigoto 2).",
+      "id": "CO-CIE-9-genetica-001-v7",
+      "number": 7,
+      "statement": "En cierta especie de flores, el color rojo (R) es codominante con el color blanco (B). Esto significa que los heterocigotos (RB) no son ni rojos ni blancos, sino que tienen manchas rojas y blancas.\nSi un botánico cruza dos plantas con flores manchadas (RB x RB), ¿qué proporción fenotípica obtendrá en la descendencia?",
+      "source_url": "https://www.icfes.gov.co/documents/20143/2347466/Cuadernillo+de+preguntas+Ciencias+Naturales+-+Grado+9.pdf",
+      "correct_answer": "A",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    }
+  ]
+}

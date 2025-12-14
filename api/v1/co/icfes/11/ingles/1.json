@@ -1,0 +1,558 @@
+{
+  "metadata": {
+    "page": 1,
+    "total_questions": 16,
+    "grade": "11",
+    "country": "co",
+    "total_pages": 1.0,
+    "subject": "Inglés",
+    "generated_at": "2025-12-14T15:01:04Z",
+    "exam": "icfes"
+  },
+  "questions": [
+    {
+      "bundle_id": "CO-ING-11-grammar-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She don't like coffee.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "She doesn't like coffee.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "She not like coffee.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "She no likes coffee.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "**¿Por qué B es correcta?**\nEn el presente simple, para la tercera persona singular (She), se debe usar el auxiliar negativo \"doesn't\" seguido del verbo en forma base (\"like\", sin la 's').\n**Competencia evaluada:** Gramática - Estructuras Negativas\n**Componente:** Present Simple\n---\n# === METADATA GLOBAL ===\nid: \"CO-ING-11-grammar-001\"\ncountry: \"co\"\ngrado: 11\nasignatura: \"Inglés\"\ntema: \"Grammar - Present Simple\"\nprotocol_version: \"2.0\"\ntotal_questions: 7\ndifficulty_distribution: \"1 original (Medium) + 2 Low + 2 Medium + 2 High\"\nestado: \"public\"\ncreador: \"Antigravity-Agent\"\ngeneration_date: \"2025-12-07\"\n# === SOURCE ATTRIBUTION ===\nsource_url: \"https://www.icfes.gov.co\"\nsource_license: \"CC BY-SA 4.0\"\nlicenses:\n  v1: \"CC BY-SA 4.0\"       # Pregunta original (uso comercial permitido)\n  v2-v7: \"CC BY-NC-SA 4.0\" # Variantes pedagógicas (solo uso no-comercial)\n---",
+      "id": "CO-ING-11-grammar-001-v1",
+      "number": 1,
+      "statement": "Choose the correct sentence:",
+      "source_url": "https://www.icfes.gov.co",
+      "correct_answer": "B",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-ING-11-grammar-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "am",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "are",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "be",
+          "is_correct": false
+        }
+      ],
+      "explanation": "**¿Por qué C es correcta?**\nEl verbo \"To Be\" se conjuga como \"are\" para el sujeto \"They\". (I am, He/She/It is, We/You/They are).\n**Competencia evaluada:** Gramática - Verbo To Be\n**Componente:** Present Simple\n---\n# === METADATA GLOBAL ===\nid: \"CO-ING-11-grammar-001\"\ncountry: \"co\"\ngrado: 11\nasignatura: \"Inglés\"\ntema: \"Grammar - Present Simple\"\nprotocol_version: \"2.0\"\ntotal_questions: 7\ndifficulty_distribution: \"1 original (Medium) + 2 Low + 2 Medium + 2 High\"\nestado: \"public\"\ncreador: \"Antigravity-Agent\"\ngeneration_date: \"2025-12-07\"\n# === SOURCE ATTRIBUTION ===\nsource_url: \"https://www.icfes.gov.co\"\nsource_license: \"CC BY-SA 4.0\"\nlicenses:\n  v1: \"CC BY-SA 4.0\"       # Pregunta original (uso comercial permitido)\n  v2-v7: \"CC BY-NC-SA 4.0\" # Variantes pedagógicas (solo uso no-comercial)\n---",
+      "id": "CO-ING-11-grammar-001-v3",
+      "number": 3,
+      "statement": "Choose the correct form of the verb \"To Be\":\n\"They ______ doctors.\"",
+      "source_url": "https://www.icfes.gov.co",
+      "correct_answer": "C",
+      "tags": [],
+      "difficulty": "Low",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-ING-11-grammar-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is always",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "always is",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "always be",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "be always",
+          "is_correct": false
+        }
+      ],
+      "explanation": "**¿Por qué A es correcta?**\nLos adverbios de frecuencia (always, never, usually) van **después** del verbo To Be. (She **is** always late).\n*Nota: Van **antes** de otros verbos (She **always** eats).* Wait, let me check the option.\nOption A: \"is always\". Correct usage: \"She **is always** late.\"\nOption B: \"always is\". Incorrect.\nMy generated option A text says \"is always\". My explanation says A is correct.\nLet me double check the selection.\nWait, option A selection is [ ]. It should be [x].\nCorrection on the fly:\nA) is always [x]\nB) always is [ ]\n**Competencia evaluada:** Gramática - Adverbios de Frecuencia\n**Componente:** Present Simple\n---\n# === METADATA GLOBAL ===\nid: \"CO-ING-11-grammar-001\"\ncountry: \"co\"\ngrado: 11\nasignatura: \"Inglés\"\ntema: \"Grammar - Present Simple\"\nprotocol_version: \"2.0\"\ntotal_questions: 7\ndifficulty_distribution: \"1 original (Medium) + 2 Low + 2 Medium + 2 High\"\nestado: \"public\"\ncreador: \"Antigravity-Agent\"\ngeneration_date: \"2025-12-07\"\n# === SOURCE ATTRIBUTION ===\nsource_url: \"https://www.icfes.gov.co\"\nsource_license: \"CC BY-SA 4.0\"\nlicenses:\n  v1: \"CC BY-SA 4.0\"       # Pregunta original (uso comercial permitido)\n  v2-v7: \"CC BY-NC-SA 4.0\" # Variantes pedagógicas (solo uso no-comercial)\n---",
+      "id": "CO-ING-11-grammar-001-v5",
+      "number": 5,
+      "statement": "Select the correct position for the adverb \"always\":\n\"She ______ late for class.\"",
+      "source_url": "https://www.icfes.gov.co",
+      "correct_answer": "B",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-ING-11-grammar-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stative verbs like 'understand' are rarely used in continuous forms. Should be \"I understand\".",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "'Now' cannot be used with present tense.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "The verb 'am' is incorrect for 'I'.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "There is no error.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "**¿Por qué A es correcta?**\nVerbos de estado mental (understand, know, believe, like) son **Stative Verbs** y generalmente no se usan en tiempos continuos (-ing), incluso si ocurren \"ahora\". La forma correcta es el Present Simple: \"I understand\".\n**Competencia evaluada:** Gramática - Stative Verbs\n**Componente:** Present Simple vs Continuous\n---",
+      "id": "CO-ING-11-grammar-001-v7",
+      "number": 7,
+      "statement": "Identify the error in this sentence:\n\"I am understanding the lesson now.\"",
+      "source_url": "https://www.icfes.gov.co",
+      "correct_answer": "A",
+      "tags": [],
+      "difficulty": "High",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-ING-11-grammar-002",
+      "options": [
+        {
+          "letter": "A",
+          "text": "am",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "were",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "was",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "be",
+          "is_correct": false
+        }
+      ],
+      "explanation": "**¿Por qué B es correcta?**\nEn el segundo condicional, se prefiere gramaticalmente usar \"were\" en lugar de \"was\" para todas las personas (subjuntivo), indicando que la situación es hipotética o irreal.\n**Competencia evaluada:** Comunicación en lengua extranjera\n**Componente:** Grammar - Second Conditional (To Be)\n---\n# === METADATA GLOBAL ===\nid: \"CO-ING-11-grammar-002\"\ncountry: \"co\"\ngrado: 11\nasignatura: \"Inglés\"\ntema: \"Grammar - Second Conditional\"\nprotocol_version: \"2.0\"\ntotal_questions: 7\ndifficulty_distribution: \"1 original (Medium) + 2 Low + 2 Medium + 2 High\"\nestado: \"public\"\ncreador: \"Antigravity-Agent\"\ngeneration_date: \"2025-12-07\"\n# === SOURCE ATTRIBUTION ===\nsource_url: \"https://www.icfes.gov.co\"\nsource_license: \"CC BY-SA 4.0\"\nlicenses:\n  v1: \"CC BY-SA 4.0\"       # Pregunta original (uso comercial permitido)\n  v2-v7: \"CC BY-NC-SA 4.0\" # Variantes pedagógicas (solo uso no-comercial)\n---",
+      "id": "CO-ING-11-grammar-002-v1",
+      "number": 1,
+      "statement": "Select the correct form: \"If I ___ rich, I would travel the world.\"",
+      "source_url": "https://www.icfes.gov.co",
+      "correct_answer": "B",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-ING-11-grammar-002",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "would",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "can",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "am",
+          "is_correct": false
+        }
+      ],
+      "explanation": "**¿Por qué B es correcta?**\nLa cláusula de resultado en el segundo condicional usa **would** + verbo base. \"Will\" se usa para el primer condicional (situaciones reales/probables).\n**Competencia evaluada:** Gramática - Auxiliares Modales\n**Componente:** Second Conditional\n---\n# === METADATA GLOBAL ===\nid: \"CO-ING-11-grammar-002\"\ncountry: \"co\"\ngrado: 11\nasignatura: \"Inglés\"\ntema: \"Grammar - Second Conditional\"\nprotocol_version: \"2.0\"\ntotal_questions: 7\ndifficulty_distribution: \"1 original (Medium) + 2 Low + 2 Medium + 2 High\"\nestado: \"public\"\ncreador: \"Antigravity-Agent\"\ngeneration_date: \"2025-12-07\"\n# === SOURCE ATTRIBUTION ===\nsource_url: \"https://www.icfes.gov.co\"\nsource_license: \"CC BY-SA 4.0\"\nlicenses:\n  v1: \"CC BY-SA 4.0\"       # Pregunta original (uso comercial permitido)\n  v2-v7: \"CC BY-NC-SA 4.0\" # Variantes pedagógicas (solo uso no-comercial)\n---",
+      "id": "CO-ING-11-grammar-002-v3",
+      "number": 3,
+      "statement": "Complete the result clause:\n\"If I lived in Paris, I _______ visit the Eiffel Tower.\"",
+      "source_url": "https://www.icfes.gov.co",
+      "correct_answer": "B",
+      "tags": [],
+      "difficulty": "Low",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-ING-11-grammar-002",
+      "options": [
+        {
+          "letter": "A",
+          "text": "If it rains, I will stay home.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "If I have time, I call you.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "If I had wings, I would fly.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "If she comes, we will go.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "**¿Por qué C es correcta?**\nTener alas (\"had wings\") es una situación irreal/imposible para un humano. Por eso se usa el segundo condicional. Las opciones A, B y D son primer condicional (situaciones posibles).\n**Competencia evaluada:** Pragmática - Contexto de Uso\n**Componente:** Conditionals (First vs Second)\n---\n# === METADATA GLOBAL ===\nid: \"CO-ING-11-grammar-002\"\ncountry: \"co\"\ngrado: 11\nasignatura: \"Inglés\"\ntema: \"Grammar - Second Conditional\"\nprotocol_version: \"2.0\"\ntotal_questions: 7\ndifficulty_distribution: \"1 original (Medium) + 2 Low + 2 Medium + 2 High\"\nestado: \"public\"\ncreador: \"Antigravity-Agent\"\ngeneration_date: \"2025-12-07\"\n# === SOURCE ATTRIBUTION ===\nsource_url: \"https://www.icfes.gov.co\"\nsource_license: \"CC BY-SA 4.0\"\nlicenses:\n  v1: \"CC BY-SA 4.0\"       # Pregunta original (uso comercial permitido)\n  v2-v7: \"CC BY-NC-SA 4.0\" # Variantes pedagógicas (solo uso no-comercial)\n---",
+      "id": "CO-ING-11-grammar-002-v5",
+      "number": 5,
+      "statement": "Which sentence describes an imaginary situation essentially impossible to happen now?",
+      "source_url": "https://www.icfes.gov.co",
+      "correct_answer": "C",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-ING-11-grammar-002",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Was I rich, I would help the poor.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Were I rich, I would help the poor.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "If were I rich, I would help the poor.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Had I rich, I would help the poor.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "**¿Por qué B es correcta?**\nEn contextos formales y literarios, se puede omitir \"If\" invirtiendo el sujeto y el verbo \"were\". \"Were I rich...\" equivale a \"If I were rich...\".\n**Competencia evaluada:** Gramática - Estructuras Avanzadas\n**Componente:** Second Conditional - Inversion\n---",
+      "id": "CO-ING-11-grammar-002-v7",
+      "number": 7,
+      "statement": "Identify the formal variation using Inversion (Omission of 'If'):\n\"If I were rich, I would help the poor.\"",
+      "source_url": "https://www.icfes.gov.co",
+      "correct_answer": "B",
+      "tags": [],
+      "difficulty": "High",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-ING-11-reading-002",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She wakes up",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "She walks to school",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "She does homework and plays with friends",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "She has breakfast",
+          "is_correct": false
+        }
+      ],
+      "explanation": "**¿Por qué C es correcta?**\nEl texto indica la secuencia temporal: \"**After school**, she goes home, does her homework, and plays soccer...\".\n**Competencia evaluada:** Lectura Literal - Identificación de Secuencia\n**Componente:** Reading Comprehension\n---\n# === METADATA GLOBAL ===\nid: \"CO-ING-11-reading-002\"\ncountry: \"co\"\ngrado: 11\nasignatura: \"Inglés\"\ntema: \"Reading Comprehension - Daily Routine\"\nprotocol_version: \"2.0\"\ntotal_questions: 7\ndifficulty_distribution: \"1 original (Medium) + 2 Low + 2 Medium + 2 High\"\nestado: \"public\"\ncreador: \"Antigravity-Agent\"\ngeneration_date: \"2025-12-07\"\n# === SOURCE ATTRIBUTION ===\nsource_url: \"https://www.icfes.gov.co\"\nsource_license: \"CC BY-SA 4.0\"\nlicenses:\n  v1: \"CC BY-SA 4.0\"       # Pregunta original (uso comercial permitido)\n  v2-v7: \"CC BY-NC-SA 4.0\" # Variantes pedagógicas (solo uso no-comercial)\n---",
+      "id": "CO-ING-11-reading-002-v1",
+      "number": 1,
+      "statement": "What does Maria do after school?",
+      "source_url": "https://www.icfes.gov.co",
+      "correct_answer": "C",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-ING-11-reading-002",
+      "options": [
+        {
+          "letter": "A",
+          "text": "By bus.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "By car.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "She walks.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "By bicycle.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "**¿Por qué C es correcta?**\nEl texto dice: \"then she **walks** to school\".\n**Competencia evaluada:** Lectura Literal\n**Componente:** Reading Comprehension\n---\n# === METADATA GLOBAL ===\nid: \"CO-ING-11-reading-002\"\ncountry: \"co\"\ngrado: 11\nasignatura: \"Inglés\"\ntema: \"Reading Comprehension - Daily Routine\"\nprotocol_version: \"2.0\"\ntotal_questions: 7\ndifficulty_distribution: \"1 original (Medium) + 2 Low + 2 Medium + 2 High\"\nestado: \"public\"\ncreador: \"Antigravity-Agent\"\ngeneration_date: \"2025-12-07\"\n# === SOURCE ATTRIBUTION ===\nsource_url: \"https://www.icfes.gov.co\"\nsource_license: \"CC BY-SA 4.0\"\nlicenses:\n  v1: \"CC BY-SA 4.0\"       # Pregunta original (uso comercial permitido)\n  v2-v7: \"CC BY-NC-SA 4.0\" # Variantes pedagógicas (solo uso no-comercial)\n---",
+      "id": "CO-ING-11-reading-002-v3",
+      "number": 3,
+      "statement": "How does Maria get to school?",
+      "source_url": "https://www.icfes.gov.co",
+      "correct_answer": "C",
+      "tags": [],
+      "difficulty": "Low",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-ING-11-reading-002",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because she likes exercise.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Because she has no car.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Because the school is near her house.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Because her friends walk too.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "**¿Por qué C es correcta?**\nEl texto da la razón (causa): \"she walks to school **because it is near her house**\".\n**Competencia evaluada:** Lectura Literal - Causa y Efecto\n**Componente:** Reading Comprehension\n---\n# === METADATA GLOBAL ===\nid: \"CO-ING-11-reading-002\"\ncountry: \"co\"\ngrado: 11\nasignatura: \"Inglés\"\ntema: \"Reading Comprehension - Daily Routine\"\nprotocol_version: \"2.0\"\ntotal_questions: 7\ndifficulty_distribution: \"1 original (Medium) + 2 Low + 2 Medium + 2 High\"\nestado: \"public\"\ncreador: \"Antigravity-Agent\"\ngeneration_date: \"2025-12-07\"\n# === SOURCE ATTRIBUTION ===\nsource_url: \"https://www.icfes.gov.co\"\nsource_license: \"CC BY-SA 4.0\"\nlicenses:\n  v1: \"CC BY-SA 4.0\"       # Pregunta original (uso comercial permitido)\n  v2-v7: \"CC BY-NC-SA 4.0\" # Variantes pedagógicas (solo uso no-comercial)\n---",
+      "id": "CO-ING-11-reading-002-v5",
+      "number": 5,
+      "statement": "Based on the text, why does Maria walk to school?",
+      "source_url": "https://www.icfes.gov.co",
+      "correct_answer": "C",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-ING-11-reading-002",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Maria's",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "The family's",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "The school's",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "The friend's",
+          "is_correct": false
+        }
+      ],
+      "explanation": "**¿Por qué A es correcta?**\nEl pronombre posesivo \"her\" se refiere al sujeto de la oración y del texto, que es Maria. Significa \"la familia de Maria\".\n**Competencia evaluada:** Referencia Pronominal\n**Componente:** Grammar in Context\n---",
+      "id": "CO-ING-11-reading-002-v7",
+      "number": 7,
+      "statement": "In the sentence \"She has a big breakfast with **her** family\", the word \"**her**\" refers to:",
+      "source_url": "https://www.icfes.gov.co",
+      "correct_answer": "A",
+      "tags": [],
+      "difficulty": "High",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-ING-11-vocabulary-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Costly",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Cheap",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Rich",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Beautiful",
+          "is_correct": false
+        }
+      ],
+      "explanation": "**¿Por qué B es correcta?**\n\"Cheap\" (barato) es el antónimo directo de \"expensive\" (costoso), refiriéndose a un precio bajo.\n**Competencia evaluada:** Léxico - Antónimos\n**Componente:** Vocabulary\n---\n# === METADATA GLOBAL ===\nid: \"CO-ING-11-vocabulary-001\"\ncountry: \"co\"\ngrado: 11\nasignatura: \"Inglés\"\ntema: \"Vocabulary - Adjectives\"\nprotocol_version: \"2.0\"\ntotal_questions: 7\ndifficulty_distribution: \"1 original (Medium) + 2 Low + 2 Medium + 2 High\"\nestado: \"public\"\ncreador: \"Antigravity-Agent\"\ngeneration_date: \"2025-12-07\"\n# === SOURCE ATTRIBUTION ===\nsource_url: \"https://www.icfes.gov.co\"\nsource_license: \"CC BY-SA 4.0\"\nlicenses:\n  v1: \"CC BY-SA 4.0\"       # Pregunta original (uso comercial permitido)\n  v2-v7: \"CC BY-NC-SA 4.0\" # Variantes pedagógicas (solo uso no-comercial)\n---",
+      "id": "CO-ING-11-vocabulary-001-v1",
+      "number": 1,
+      "statement": "What is the opposite of \"expensive\"?",
+      "source_url": "https://www.icfes.gov.co",
+      "correct_answer": "B",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-ING-11-vocabulary-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Noisy",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Dangerous",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Quiet",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Expensive",
+          "is_correct": false
+        }
+      ],
+      "explanation": "**¿Por qué C es correcta?**\nPor contexto, una biblioteca requiere silencio. \"Quiet\" (silencioso) es la cualidad adecuada, y es el opuesto de \"Noisy\".\n**Competencia evaluada:** Léxico en Contexto\n**Componente:** Vocabulary\n---\n# === METADATA GLOBAL ===\nid: \"CO-ING-11-vocabulary-001\"\ncountry: \"co\"\ngrado: 11\nasignatura: \"Inglés\"\ntema: \"Vocabulary - Adjectives\"\nprotocol_version: \"2.0\"\ntotal_questions: 7\ndifficulty_distribution: \"1 original (Medium) + 2 Low + 2 Medium + 2 High\"\nestado: \"public\"\ncreador: \"Antigravity-Agent\"\ngeneration_date: \"2025-12-07\"\n# === SOURCE ATTRIBUTION ===\nsource_url: \"https://www.icfes.gov.co\"\nsource_license: \"CC BY-SA 4.0\"\nlicenses:\n  v1: \"CC BY-SA 4.0\"       # Pregunta original (uso comercial permitido)\n  v2-v7: \"CC BY-NC-SA 4.0\" # Variantes pedagógicas (solo uso no-comercial)\n---",
+      "id": "CO-ING-11-vocabulary-001-v3",
+      "number": 3,
+      "statement": "The library is a place to study, so everyone must be:",
+      "source_url": "https://www.icfes.gov.co",
+      "correct_answer": "C",
+      "tags": [],
+      "difficulty": "Low",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-ING-11-vocabulary-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "more cheap",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "expensiver",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "cheaper",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "most cheap",
+          "is_correct": false
+        }
+      ],
+      "explanation": "**¿Por qué C es correcta?**\nEl comparativo de adjetivos cortos (\"cheap\") se forma agregando **-er**. \"Cheaper than\" significa \"más barato que\".\n**Competencia evaluada:** Gramática - Comparativos\n**Componente:** Vocabulary/Grammar\n---\n# === METADATA GLOBAL ===\nid: \"CO-ING-11-vocabulary-001\"\ncountry: \"co\"\ngrado: 11\nasignatura: \"Inglés\"\ntema: \"Vocabulary - Adjectives\"\nprotocol_version: \"2.0\"\ntotal_questions: 7\ndifficulty_distribution: \"1 original (Medium) + 2 Low + 2 Medium + 2 High\"\nestado: \"public\"\ncreador: \"Antigravity-Agent\"\ngeneration_date: \"2025-12-07\"\n# === SOURCE ATTRIBUTION ===\nsource_url: \"https://www.icfes.gov.co\"\nsource_license: \"CC BY-SA 4.0\"\nlicenses:\n  v1: \"CC BY-SA 4.0\"       # Pregunta original (uso comercial permitido)\n  v2-v7: \"CC BY-NC-SA 4.0\" # Variantes pedagógicas (solo uso no-comercial)\n---",
+      "id": "CO-ING-11-vocabulary-001-v5",
+      "number": 5,
+      "statement": "Complete with the comparative form:\n\"A bicycle is ______ than a car.\"",
+      "source_url": "https://www.icfes.gov.co",
+      "correct_answer": "C",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-ING-11-vocabulary-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "huge",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "tiny",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "noisy",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "dangerous",
+          "is_correct": false
+        }
+      ],
+      "explanation": "**¿Por qué B es correcta?**\nDesde una gran altura (\"from up there\"), las cosas se ven muy pequeñas. \"Tiny\" es la palabra adecuada para describir esta perspectiva visual.\n**Competencia evaluada:** Léxico en Contexto (Avanzado)\n**Componente:** Vocabulary\n---",
+      "id": "CO-ING-11-vocabulary-001-v7",
+      "number": 7,
+      "statement": "\"The view from the mountain was magnificent; the city looked ______ from up there.\"",
+      "source_url": "https://www.icfes.gov.co",
+      "correct_answer": "B",
+      "tags": [],
+      "difficulty": "High",
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "metadata": {
+    "page": 1,
+    "total_questions": 7,
+    "grade": "5",
+    "country": "co",
+    "total_pages": 1.0,
+    "subject": "Lectura Crítica",
+    "generated_at": "2025-12-14T15:01:04Z",
+    "exam": "icfes"
+  },
+  "questions": [
+    {
+      "bundle_id": "CO-LEC-5-informativo-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La polinización de las plantas.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La producción de cera para velas.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Picar a los animales grandes.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Producir miel para los osos.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "**¿Por qué A es correcta?**\nEl texto lo dice explícitamente en la segunda oración: \"Sin embargo, su función más importante en la naturaleza es la **polinización**\". Además, explica las consecuencias graves de su ausencia (desaparición de alimentos).\n**¿Por qué las otras son incorrectas?**\n- **B y D)** Menciona que producen miel y cera, pero aclara que **no** es lo más importante.\n- **C)** No se menciona en el texto.\n**Competencia evaluada:** Recuperación de información explícita (Comprensión literal).\n---",
+      "id": "CO-LEC-5-informativo-001-v1",
+      "number": 1,
+      "statement": "Según el texto, ¿cuál es la función más importante de las abejas en la naturaleza?",
+      "source_url": "https://www.icfes.gov.co/documents/20143/2347466/Guias+de+orientacion+Saber+5+Lenguaje.pdf",
+      "correct_answer": "A",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-LEC-5-informativo-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Néctar.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Frutas.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Agua.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Semillas.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Pregunta literal simple. El texto dice: \"Al volar de flor en flor buscando **néctar**...\".\n---",
+      "id": "CO-LEC-5-informativo-001-v2",
+      "number": 2,
+      "statement": "Según el texto, ¿qué buscan las abejas cuando van de flor en flor?",
+      "source_url": "https://www.icfes.gov.co/documents/20143/2347466/Guias+de+orientacion+Saber+5+Lenguaje.pdf",
+      "correct_answer": "A",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-LEC-5-informativo-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Polen.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Miel.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Tierra.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Hojas.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Información explícita: \"...las abejas transportan **polen** en sus patas. Este polen fecunda las plantas...\".\n---",
+      "id": "CO-LEC-5-informativo-001-v3",
+      "number": 3,
+      "statement": "¿Qué transportan las abejas en sus patas que ayuda a fecundar las plantas?",
+      "source_url": "https://www.icfes.gov.co/documents/20143/2347466/Guias+de+orientacion+Saber+5+Lenguaje.pdf",
+      "correct_answer": "A",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-LEC-5-informativo-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Explicar una consecuencia grave.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Contar un chiste divertido.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Describir cómo es una abeja físicamente.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Dar una opinión personal del autor sin pruebas.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "El autor establece una relación de **causa-efecto** (sin polinización -> no hay frutos). Su intención es informar sobre una consecuencia real y seria, no entretener ni opinar subjetivamente.\n---",
+      "id": "CO-LEC-5-informativo-001-v4",
+      "number": 4,
+      "statement": "El texto dice: \"Sin las abejas, muchos de los alimentos... desaparecerían\". Esta afirmación pretende:",
+      "source_url": "https://www.icfes.gov.co/documents/20143/2347466/Guias+de+orientacion+Saber+5+Lenguaje.pdf",
+      "correct_answer": "A",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-LEC-5-informativo-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Informativo o Expositivo.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Narrativo (Cuento).",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Lírico (Poema).",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Instructivo (Receta).",
+          "is_correct": false
+        }
+      ],
+      "explanation": "El texto presenta **hechos reales** y datos sobre las abejas con el fin de informar y explicar un proceso natural. No cuenta una historia con personajes (narrativo) ni expresa sentimientos en verso (lírico).\n---",
+      "id": "CO-LEC-5-informativo-001-v5",
+      "number": 5,
+      "statement": "¿Qué tipo de texto es el que acabas de leer?",
+      "source_url": "https://www.icfes.gov.co/documents/20143/2347466/Guias+de+orientacion+Saber+5+Lenguaje.pdf",
+      "correct_answer": "A",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-LEC-5-informativo-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disminuiría la producción de frutas y semillas.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Aumentaría la producción de azúcar.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Las flores se volverían más grandes.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Los agricultores tendrían más miel.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Pregunta inferencial basada en la relación causal. Si el polen permite que \"nazcan frutos y semillas\", sin polen (sin abejas) no habría nacimientos de estos frutos. Por tanto, la agricultura de frutas caería.\n---",
+      "id": "CO-LEC-5-informativo-001-v6",
+      "number": 6,
+      "statement": "Si las abejas desaparecieran, ¿cuál sería el efecto directo en la agricultura según la lectura?",
+      "source_url": "https://www.icfes.gov.co/documents/20143/2347466/Guias+de+orientacion+Saber+5+Lenguaje.pdf",
+      "correct_answer": "A",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-LEC-5-informativo-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oponer o contrastar una idea con la anterior.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Sumar información igual a la anterior.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Finalizar el texto.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Dar un ejemplo de abeja.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "**Competencia gramatical/textual:** El conector \"**Sin embargo**\" es un conector de contraste u oposición. El autor venía diciendo que producen miel (lo que todos saben), PERO (contraste) aclara que hay algo más importante (la polinización).",
+      "id": "CO-LEC-5-informativo-001-v7",
+      "number": 7,
+      "statement": "Lee la siguiente frase del texto:\n*\"Sin embargo, su función más importante en la naturaleza es la polinización.\"*\nLa expresión \"Sin embargo\" se utiliza para:",
+      "source_url": "https://www.icfes.gov.co/documents/20143/2347466/Guias+de+orientacion+Saber+5+Lenguaje.pdf",
+      "correct_answer": "A",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    }
+  ]
+}

@@ -1,318 +1,286 @@
-﻿{
-    "metadata":  {
-                     "total_pages":  1,
-                     "total_questions":  8,
-                     "exam":  "standard",
-                     "subject":  "Civismo",
-                     "generated_at":  "2025-12-13T13:00:54Z",
-                     "country":  "mx",
-                     "grade":  "11",
-                     "page":  1
-                 },
-    "questions":  [
-                      {
-                          "options":  [
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "A",
-                                              "text":  "1857"
-                                          },
-                                          {
-                                              "is_correct":  true,
-                                              "letter":  "B",
-                                              "text":  "1917"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "C",
-                                              "text":  "1824"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "D",
-                                              "text":  "1936"
-                                          }
-                                      ],
-                          "id":  "MX-CIV-11-CON-001-v1",
-                          "tags":  [
-
-                                   ],
-                          "statement":  "# Pregunta\n¿En qué año se promulgó la Constitución Política de los Estados Unidos Mexicanos actualmente vigente?",
-                          "correct_answer":  "B",
-                          "number":  1,
-                          "bundle_id":  "MX-CIV-11-CON-001",
-                          "images":  [
-
-                                     ],
-                          "explanation":  "",
-                          "difficulty":  "Medium",
-                          "source_url":  "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"
-                      },
-                      {
-                          "options":  [
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "A",
-                                              "text":  "Ciudad de México"
-                                          },
-                                          {
-                                              "is_correct":  true,
-                                              "letter":  "B",
-                                              "text":  "Querétaro"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "C",
-                                              "text":  "Guadalajara"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "D",
-                                              "text":  "Veracruz"
-                                          }
-                                      ],
-                          "id":  "MX-CIV-11-CON-001-v3",
-                          "tags":  [
-
-                                   ],
-                          "statement":  "# Pregunta\n¿En qué ciudad se firmó la Constitución Política de 1917?",
-                          "correct_answer":  "B",
-                          "number":  3,
-                          "bundle_id":  "MX-CIV-11-CON-001",
-                          "images":  [
-
-                                     ],
-                          "explanation":  "",
-                          "difficulty":  "Low",
-                          "source_url":  "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"
-                      },
-                      {
-                          "options":  [
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "A",
-                                              "text":  "El establecimiento de una república federal."
-                                          },
-                                          {
-                                              "is_correct":  true,
-                                              "letter":  "B",
-                                              "text":  "La inclusión de derechos sociales (agrarios y laborales)."
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "C",
-                                              "text":  "La separación Iglesia-Estado."
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "D",
-                                              "text":  "La creación de la Cámara de Senadores."
-                                          }
-                                      ],
-                          "id":  "MX-CIV-11-CON-001-v5",
-                          "tags":  [
-
-                                   ],
-                          "statement":  "# Pregunta\n¿Qué aspecto fundamental diferenció a la Constitución de 1917 de la de 1857?",
-                          "correct_answer":  "B",
-                          "number":  5,
-                          "bundle_id":  "MX-CIV-11-CON-001",
-                          "images":  [
-
-                                     ],
-                          "explanation":  "",
-                          "difficulty":  "Medium",
-                          "source_url":  "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"
-                      },
-                      {
-                          "options":  [
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "A",
-                                              "text":  "Permitir la reelección únicamente para legisladores, pero no para el presidente."
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "B",
-                                              "text":  "Garantizar la permanencia indefinida del partido en el poder."
-                                          },
-                                          {
-                                              "is_correct":  true,
-                                              "letter":  "C",
-                                              "text":  "Impedir la perpetuación de caudillos en el Ejecutivo, respondiendo a la demanda central del maderismo."
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "D",
-                                              "text":  "Disolver el Poder Ejecutivo para establecer un gobierno parlamentario."
-                                          }
-                                      ],
-                          "id":  "MX-CIV-11-CON-001-v7",
-                          "tags":  [
-
-                                   ],
-                          "statement":  "# Pregunta\n¿Cuál fue la implicación política inmediata de la cláusula de \"No Reelección\" ratificada en la Constitución de 1917?",
-                          "correct_answer":  "C",
-                          "number":  7,
-                          "bundle_id":  "MX-CIV-11-CON-001",
-                          "images":  [
-
-                                     ],
-                          "explanation":  "",
-                          "difficulty":  "High",
-                          "source_url":  "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"
-                      },
-                      {
-                          "options":  [
-                                          {
-                                              "is_correct":  true,
-                                              "letter":  "A",
-                                              "text":  "Ejecutivo, Legislativo y Judicial"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "B",
-                                              "text":  "Federal, Estatal y Municipal"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "C",
-                                              "text":  "Presidente, Congreso y Senado"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "D",
-                                              "text":  "Civil, Militar y Religioso"
-                                          }
-                                      ],
-                          "id":  "MX-CIV-11-POD-001-v1",
-                          "tags":  [
-
-                                   ],
-                          "statement":  "# Pregunta\n¿Cuáles son los tres poderes de la Unión en México según la Constitución?",
-                          "correct_answer":  "A",
-                          "number":  1,
-                          "bundle_id":  "MX-CIV-11-POD-001",
-                          "images":  [
-
-                                     ],
-                          "explanation":  "",
-                          "difficulty":  "Medium",
-                          "source_url":  "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"
-                      },
-                      {
-                          "options":  [
-                                          {
-                                              "is_correct":  true,
-                                              "letter":  "A",
-                                              "text":  "El Congreso de la Unión"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "B",
-                                              "text":  "El Palacio Nacional"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "C",
-                                              "text":  "La Suprema Corte"
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "D",
-                                              "text":  "El Instituto Nacional Electoral (INE)"
-                                          }
-                                      ],
-                          "id":  "MX-CIV-11-POD-001-v3",
-                          "tags":  [
-
-                                   ],
-                          "statement":  "# Pregunta\n¿Qué institución representa al Poder Legislativo Federal en México?",
-                          "correct_answer":  "A",
-                          "number":  3,
-                          "bundle_id":  "MX-CIV-11-POD-001",
-                          "images":  [
-
-                                     ],
-                          "explanation":  "",
-                          "difficulty":  "Low",
-                          "source_url":  "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"
-                      },
-                      {
-                          "options":  [
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "A",
-                                              "text":  "Por una sola Asamblea Nacional de Representantes."
-                                          },
-                                          {
-                                              "is_correct":  true,
-                                              "letter":  "B",
-                                              "text":  "Por dos cámaras: Cámara de Diputados y Cámara de Senadores."
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "C",
-                                              "text":  "Por el Gabinete Presidencial y los Gobernadores."
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "D",
-                                              "text":  "Por el Tribunal Electoral y la Suprema Corte."
-                                          }
-                                      ],
-                          "id":  "MX-CIV-11-POD-001-v5",
-                          "tags":  [
-
-                                   ],
-                          "statement":  "# Pregunta\n¿Cómo se conforma el Congreso de la Unión en México?",
-                          "correct_answer":  "B",
-                          "number":  5,
-                          "bundle_id":  "MX-CIV-11-POD-001",
-                          "images":  [
-
-                                     ],
-                          "explanation":  "",
-                          "difficulty":  "Medium",
-                          "source_url":  "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"
-                      },
-                      {
-                          "options":  [
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "A",
-                                              "text":  "El Veto Presidencial."
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "B",
-                                              "text":  "La Consulta Popular."
-                                          },
-                                          {
-                                              "is_correct":  true,
-                                              "letter":  "C",
-                                              "text":  "La Acción de Inconstitucionalidad."
-                                          },
-                                          {
-                                              "is_correct":  false,
-                                              "letter":  "D",
-                                              "text":  "El Juicio Político."
-                                          }
-                                      ],
-                          "id":  "MX-CIV-11-POD-001-v7",
-                          "tags":  [
-
-                                   ],
-                          "statement":  "# Pregunta\n¿Qué mecanismo constitucional permite al Poder Judicial invalidar una ley aprobada por el Poder Legislativo y promulgada por el Ejecutivo si esta contradice la Carta Magna?",
-                          "correct_answer":  "C",
-                          "number":  7,
-                          "bundle_id":  "MX-CIV-11-POD-001",
-                          "images":  [
-
-                                     ],
-                          "explanation":  "",
-                          "difficulty":  "High",
-                          "source_url":  "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"
-                      }
-                  ]
+{
+  "metadata": {
+    "page": 1,
+    "total_questions": 8,
+    "grade": "11",
+    "country": "mx",
+    "total_pages": 1.0,
+    "subject": "Civismo",
+    "generated_at": "2025-12-14T15:01:04Z",
+    "exam": "standard"
+  },
+  "questions": [
+    {
+      "bundle_id": "MX-CIV-11-CON-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1857",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "1917",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "1824",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "1936",
+          "is_correct": false
+        }
+      ],
+      "explanation": "La Constitución de 1917 fue promulgada el 5 de febrero en Querétaro. Es considerada la primera constitución social del mundo al incluir derechos laborales (Art. 123) y agrarios (Art. 27).\nLa fecha clave de la fundación del marco legal moderno de México es 1917, surgiendo de la Revolución Mexicana. 1857 fue la constitución liberal previa (Leyes de Reforma).\n---\n# === METADATA GLOBAL ===\nid: \"MX-CIV-11-CON-001\"\ncountry: \"mx\"\ngrado: 11\nasignatura: \"Civismo\"\ntema: \"Constitución Política\"\nbundle_version: \"2.1\"\ntotal_questions: 7\ndifficulty_distribution: \"1 original (Medium) + 2 Low + 2 Medium + 2 High\"\nestado: \"review\"\ncreador: \"Antigravity\"\ngeneration_date: \"2025-12-10\"\n# === SOURCE ATTRIBUTION ===\nsource_url: \"https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf\"\nsource_license: \"Public Domain\"\r\nlicenses:\n  v1: \"CC BY-SA 4.0\"       # Pregunta original (uso comercial permitido)\n  v2-v7: \"CC BY-NC-SA 4.0\" # Variantes pedagógicas (solo uso no-comercial)\n---",
+      "id": "MX-CIV-11-CON-001-v1",
+      "number": 1,
+      "statement": "# Pregunta\n¿En qué año se promulgó la Constitución Política de los Estados Unidos Mexicanos actualmente vigente?",
+      "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+      "correct_answer": "B",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "MX-CIV-11-CON-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ciudad de México",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Querétaro",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Guadalajara",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Veracruz",
+          "is_correct": false
+        }
+      ],
+      "explanation": "El Congreso Constituyente se reunió en la ciudad de Santiago de Querétaro, en el Teatro Iturbide (hoy Teatro de la República), donde se firmó la Constitución.\nLa ciudad de Querétaro es históricamente reconocida como la cuna de la Constitución de 1917.\n---\n# === METADATA GLOBAL ===\nid: \"MX-CIV-11-CON-001\"\ncountry: \"mx\"\ngrado: 11\nasignatura: \"Civismo\"\ntema: \"Constitución Política\"\nbundle_version: \"2.1\"\ntotal_questions: 7\ndifficulty_distribution: \"1 original (Medium) + 2 Low + 2 Medium + 2 High\"\nestado: \"review\"\ncreador: \"Antigravity\"\ngeneration_date: \"2025-12-10\"\n# === SOURCE ATTRIBUTION ===\nsource_url: \"https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf\"\nsource_license: \"Public Domain\"\r\nlicenses:\n  v1: \"CC BY-SA 4.0\"       # Pregunta original (uso comercial permitido)\n  v2-v7: \"CC BY-NC-SA 4.0\" # Variantes pedagógicas (solo uso no-comercial)\n---",
+      "id": "MX-CIV-11-CON-001-v3",
+      "number": 3,
+      "statement": "# Pregunta\n¿En qué ciudad se firmó la Constitución Política de 1917?",
+      "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+      "correct_answer": "B",
+      "tags": [],
+      "difficulty": "Low",
+      "images": []
+    },
+    {
+      "bundle_id": "MX-CIV-11-CON-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El establecimiento de una república federal.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La inclusión de derechos sociales (agrarios y laborales).",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "La separación Iglesia-Estado.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La creación de la Cámara de Senadores.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Aunque ratificó muchos principios liberales de 1857 (como la separación Iglesia-Estado), la gran aportación de 1917 fue el constitucionalismo social, protegiendo derechos colectivos de campesinos y obreros.\nLa Constitución de 1917 es pionera mundialmente por su enfoque social, superando el liberalismo clásico individualista de 1857.\n---\n# === METADATA GLOBAL ===\nid: \"MX-CIV-11-CON-001\"\ncountry: \"mx\"\ngrado: 11\nasignatura: \"Civismo\"\ntema: \"Constitución Política\"\nbundle_version: \"2.1\"\ntotal_questions: 7\ndifficulty_distribution: \"1 original (Medium) + 2 Low + 2 Medium + 2 High\"\nestado: \"review\"\ncreador: \"Antigravity\"\ngeneration_date: \"2025-12-10\"\n# === SOURCE ATTRIBUTION ===\nsource_url: \"https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf\"\nsource_license: \"Public Domain\"\r\nlicenses:\n  v1: \"CC BY-SA 4.0\"       # Pregunta original (uso comercial permitido)\n  v2-v7: \"CC BY-NC-SA 4.0\" # Variantes pedagógicas (solo uso no-comercial)\n---",
+      "id": "MX-CIV-11-CON-001-v5",
+      "number": 5,
+      "statement": "# Pregunta\n¿Qué aspecto fundamental diferenció a la Constitución de 1917 de la de 1857?",
+      "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+      "correct_answer": "B",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "MX-CIV-11-CON-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permitir la reelección únicamente para legisladores, pero no para el presidente.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Garantizar la permanencia indefinida del partido en el poder.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Impedir la perpetuación de caudillos en el Ejecutivo, respondiendo a la demanda central del maderismo.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Disolver el Poder Ejecutivo para establecer un gobierno parlamentario.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "El lema \"Sufragio Efectivo, No Reelección\" fue la bandera de Madero contra Porfirio Díaz. La Constitución de 1917 consagró este principio para el Presidente, evitando dictaduras personalistas, aunque fortaleció la figura presidencial durante el sexenio.\nRelaciona el principio constitucional con su origen histórico-político (maderismo) y su consecuencia estructural (evitar el caudillismo perpetuo).\n---\n## 📊 Metadata de Validación\n| Pregunta | ID | Dificultad | Validado |\n|----------|-----|------------|----------|\n| 1 | MX-CIV-11-CON-001-v1 | Medium | ⬜ |\n| 2 | MX-CIV-11-CON-001-v2 | Low | ⬜ |\n| 3 | MX-CIV-11-CON-001-v3 | Low | ⬜ |\n| 4 | MX-CIV-11-CON-001-v4 | Medium | ⬜ |\n| 5 | MX-CIV-11-CON-001-v5 | Medium | ⬜ |\n| 6 | MX-CIV-11-CON-001-v6 | High | ⬜ |\n| 7 | MX-CIV-11-CON-001-v7 | High | ⬜ |",
+      "id": "MX-CIV-11-CON-001-v7",
+      "number": 7,
+      "statement": "# Pregunta\n¿Cuál fue la implicación política inmediata de la cláusula de \"No Reelección\" ratificada en la Constitución de 1917?",
+      "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+      "correct_answer": "C",
+      "tags": [],
+      "difficulty": "High",
+      "images": []
+    },
+    {
+      "bundle_id": "MX-CIV-11-POD-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ejecutivo, Legislativo y Judicial",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Federal, Estatal y Municipal",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Presidente, Congreso y Senado",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Civil, Militar y Religioso",
+          "is_correct": false
+        }
+      ],
+      "explanation": "El Artículo 49 de la Constitución establece que el Supremo Poder de la Federación se divide en Ejecutivo (Presidente), Legislativo (Congreso: Cámara de Diputados y Senado) y Judicial (SCJN y tribunales).\nEs la división clásica de poderes de una república. No confundir con los niveles de gobierno (Federal, Estatal, Municipal).\n---\n# === METADATA GLOBAL ===\nid: \"MX-CIV-11-POD-001\"\ncountry: \"mx\"\ngrado: 11\nasignatura: \"Civismo\"\ntema: \"Poderes de la Unión\"\nbundle_version: \"2.1\"\ntotal_questions: 7\ndifficulty_distribution: \"1 original (Medium) + 2 Low + 2 Medium + 2 High\"\nestado: \"review\"\ncreador: \"Antigravity\"\ngeneration_date: \"2025-12-10\"\n# === SOURCE ATTRIBUTION ===\nsource_url: \"https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf\"\nsource_license: \"Public Domain\"\r\nlicenses:\n  v1: \"CC BY-SA 4.0\"       # Pregunta original (uso comercial permitido)\n  v2-v7: \"CC BY-NC-SA 4.0\" # Variantes pedagógicas (solo uso no-comercial)\n---",
+      "id": "MX-CIV-11-POD-001-v1",
+      "number": 1,
+      "statement": "# Pregunta\n¿Cuáles son los tres poderes de la Unión en México según la Constitución?",
+      "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+      "correct_answer": "A",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "MX-CIV-11-POD-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Congreso de la Unión",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Palacio Nacional",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La Suprema Corte",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Instituto Nacional Electoral (INE)",
+          "is_correct": false
+        }
+      ],
+      "explanation": "El Poder Legislativo se deposita en un Congreso General, conocido como Congreso de la Unión, dividido en dos cámaras: Diputados y Senadores.\nReconocer al organismo encargado de hacer las leyes.\n---\n# === METADATA GLOBAL ===\nid: \"MX-CIV-11-POD-001\"\ncountry: \"mx\"\ngrado: 11\nasignatura: \"Civismo\"\ntema: \"Poderes de la Unión\"\nbundle_version: \"2.1\"\ntotal_questions: 7\ndifficulty_distribution: \"1 original (Medium) + 2 Low + 2 Medium + 2 High\"\nestado: \"review\"\ncreador: \"Antigravity\"\ngeneration_date: \"2025-12-10\"\n# === SOURCE ATTRIBUTION ===\nsource_url: \"https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf\"\nsource_license: \"Public Domain\"\r\nlicenses:\n  v1: \"CC BY-SA 4.0\"       # Pregunta original (uso comercial permitido)\n  v2-v7: \"CC BY-NC-SA 4.0\" # Variantes pedagógicas (solo uso no-comercial)\n---",
+      "id": "MX-CIV-11-POD-001-v3",
+      "number": 3,
+      "statement": "# Pregunta\n¿Qué institución representa al Poder Legislativo Federal en México?",
+      "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+      "correct_answer": "A",
+      "tags": [],
+      "difficulty": "Low",
+      "images": []
+    },
+    {
+      "bundle_id": "MX-CIV-11-POD-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por una sola Asamblea Nacional de Representantes.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Por dos cámaras: Cámara de Diputados y Cámara de Senadores.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Por el Gabinete Presidencial y los Gobernadores.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Por el Tribunal Electoral y la Suprema Corte.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "México tiene un sistema bicameral: Diputados (500) que representan a la población, y Senadores (128) que representan el pacto federal (estados).\nEntender la estructura bicameral del legislativo mexicano.\n---\n# === METADATA GLOBAL ===\nid: \"MX-CIV-11-POD-001\"\ncountry: \"mx\"\ngrado: 11\nasignatura: \"Civismo\"\ntema: \"Poderes de la Unión\"\nbundle_version: \"2.1\"\ntotal_questions: 7\ndifficulty_distribution: \"1 original (Medium) + 2 Low + 2 Medium + 2 High\"\nestado: \"review\"\ncreador: \"Antigravity\"\ngeneration_date: \"2025-12-10\"\n# === SOURCE ATTRIBUTION ===\nsource_url: \"https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf\"\nsource_license: \"Public Domain\"\r\nlicenses:\n  v1: \"CC BY-SA 4.0\"       # Pregunta original (uso comercial permitido)\n  v2-v7: \"CC BY-NC-SA 4.0\" # Variantes pedagógicas (solo uso no-comercial)\n---",
+      "id": "MX-CIV-11-POD-001-v5",
+      "number": 5,
+      "statement": "# Pregunta\n¿Cómo se conforma el Congreso de la Unión en México?",
+      "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+      "correct_answer": "B",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "MX-CIV-11-POD-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Veto Presidencial.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La Consulta Popular.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La Acción de Inconstitucionalidad.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "El Juicio Político.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "La Acción de Inconstitucionalidad es un medio de control constitucional que se tramita ante la SCJN para declarar la invalidez de normas generales contrarias a la Constitución.\nImplica comprender la supremacía constitucional y los mecanismos de control que ejerce el Judicial sobre los otros poderes.\n---\n## 📊 Metadata de Validación\n| Pregunta | ID | Dificultad | Validado |\n|----------|-----|------------|----------|\n| 1 | MX-CIV-11-POD-001-v1 | Medium | ⬜ |\n| 2 | MX-CIV-11-POD-001-v2 | Low | ⬜ |\n| 3 | MX-CIV-11-POD-001-v3 | Low | ⬜ |\n| 4 | MX-CIV-11-POD-001-v4 | Medium | ⬜ |\n| 5 | MX-CIV-11-POD-001-v5 | Medium | ⬜ |\n| 6 | MX-CIV-11-POD-001-v6 | High | ⬜ |\n| 7 | MX-CIV-11-POD-001-v7 | High | ⬜ |",
+      "id": "MX-CIV-11-POD-001-v7",
+      "number": 7,
+      "statement": "# Pregunta\n¿Qué mecanismo constitucional permite al Poder Judicial invalidar una ley aprobada por el Poder Legislativo y promulgada por el Ejecutivo si esta contradice la Carta Magna?",
+      "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+      "correct_answer": "C",
+      "tags": [],
+      "difficulty": "High",
+      "images": []
+    }
+  ]
 }

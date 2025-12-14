@@ -1,0 +1,150 @@
+{
+  "metadata": {
+    "page": 1,
+    "total_questions": 4,
+    "grade": "7",
+    "country": "co",
+    "total_pages": 1.0,
+    "subject": "Lenguaje",
+    "generated_at": "2025-12-14T15:01:04Z",
+    "exam": "icfes"
+  },
+  "questions": [
+    {
+      "bundle_id": "CO-LEN-07-textual-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La falta de alimento en los páramos.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La caza indiscriminada.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La destrucción de su hábitat.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "El cambio climático.",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Pregunta literal-inferencial. El texto dice explícitamente: \"...debido a la destrucción de su hábitat\".\n**Competencia evaluada:** Comprensión Literal/Local.\n---\nid: \"CO-LEN-07-textual-001\"\ncountry: \"CO\"\ngrado: 7\nasignatura: \"Lenguaje\"\ntema: \"Tipología Textual\"\ndificultad: \"Medium\"\nestado: \"draft\"\ncreador: \"Antigravity\"\nsource_lang: \"es-CO\"\nllm_model: \"Cascade\"\nagent: \"Cascade\"\nide: \"VS Code\"\nbundle_version: \"2.1\"\ntotal_questions: 7\ndifficulty_distribution: \"1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)\"\ngeneration_date: \"2025-12-06\"\n# === SOURCE ATTRIBUTION ===\nsource: \"ICFES-Curriculum\"\nsource_url: \"https://www.icfes.gov.co\"\nsource_license: \"Educational Use - Colombian Curriculum\"\nsource_id: \"ICFES-LEN-007-TXT-001\"\noriginal_concept: \"Lectura Informativa y Narrativa\"\ncompetencia_icfes: \"Comprensión e interpretación textual\"\ncomponente: \"Semántico - Pragmático\"\n# === UNIVERSAL SHARING ===\nuniversal_question: true\napplicable_exams: [\"CO-EvaluarAvanzar\", \"MX-Secundaria\"]\nlicenses:\n  v1: \"CC BY-SA 4.0\"       # Pregunta original (uso comercial permitido)\n  v2-v7: \"CC BY-NC-SA 4.0\" # Variantes pedagógicas (solo uso no-comercial)\n---",
+      "id": "CO-LEN-07-textual-001-v1",
+      "number": 1,
+      "statement": "Según el texto, la principal causa de que el oso de anteojos esté en estado vulnerable es:",
+      "source_url": "https://www.icfes.gov.co",
+      "correct_answer": "C",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-LEN-07-textual-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo come carne.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Solo come plantas.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "No come nada.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Come de todo (plantas y animales).",
+          "is_correct": true
+        }
+      ],
+      "explanation": "Léxico. Omnívoro (omni=todo, voro=comer) significa que come de todo. El texto aclara que su dieta es vegetariana pero es omnívoro.\n**Competencia evaluada:** Semántica - Vocabulario.\n---\nid: \"CO-LEN-07-textual-001\"\ncountry: \"CO\"\ngrado: 7\nasignatura: \"Lenguaje\"\ntema: \"Tipología Textual\"\ndificultad: \"Medium\"\nestado: \"draft\"\ncreador: \"Antigravity\"\nsource_lang: \"es-CO\"\nllm_model: \"Cascade\"\nagent: \"Cascade\"\nide: \"VS Code\"\nbundle_version: \"2.1\"\ntotal_questions: 7\ndifficulty_distribution: \"1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)\"\ngeneration_date: \"2025-12-06\"\n# === SOURCE ATTRIBUTION ===\nsource: \"ICFES-Curriculum\"\nsource_url: \"https://www.icfes.gov.co\"\nsource_license: \"Educational Use - Colombian Curriculum\"\nsource_id: \"ICFES-LEN-007-TXT-001\"\noriginal_concept: \"Lectura Informativa y Narrativa\"\ncompetencia_icfes: \"Comprensión e interpretación textual\"\ncomponente: \"Semántico - Pragmático\"\n# === UNIVERSAL SHARING ===\nuniversal_question: true\napplicable_exams: [\"CO-EvaluarAvanzar\", \"MX-Secundaria\"]\nlicenses:\n  v1: \"CC BY-SA 4.0\"       # Pregunta original (uso comercial permitido)\n  v2-v7: \"CC BY-NC-SA 4.0\" # Variantes pedagógicas (solo uso no-comercial)\n---",
+      "id": "CO-LEN-07-textual-001-v3",
+      "number": 3,
+      "statement": "El término \"omnivoro\" significa que el oso:",
+      "source_url": "https://www.icfes.gov.co",
+      "correct_answer": "D",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-LEN-07-textual-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sustantivo",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Adjetivo",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Verbo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Adverbio",
+          "is_correct": false
+        }
+      ],
+      "explanation": "\"Frondosos\" califica o describe cómo son los árboles. Es un adjetivo.\n**Competencia evaluada:** Sintáctica - Categorías gramaticales.\n---\nid: \"CO-LEN-07-textual-001\"\ncountry: \"CO\"\ngrado: 7\nasignatura: \"Lenguaje\"\ntema: \"Tipología Textual\"\ndificultad: \"Medium\"\nestado: \"draft\"\ncreador: \"Antigravity\"\nsource_lang: \"es-CO\"\nllm_model: \"Cascade\"\nagent: \"Cascade\"\nide: \"VS Code\"\nbundle_version: \"2.1\"\ntotal_questions: 7\ndifficulty_distribution: \"1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)\"\ngeneration_date: \"2025-12-06\"\n# === SOURCE ATTRIBUTION ===\nsource: \"ICFES-Curriculum\"\nsource_url: \"https://www.icfes.gov.co\"\nsource_license: \"Educational Use - Colombian Curriculum\"\nsource_id: \"ICFES-LEN-007-TXT-001\"\noriginal_concept: \"Lectura Informativa y Narrativa\"\ncompetencia_icfes: \"Comprensión e interpretación textual\"\ncomponente: \"Semántico - Pragmático\"\n# === UNIVERSAL SHARING ===\nuniversal_question: true\napplicable_exams: [\"CO-EvaluarAvanzar\", \"MX-Secundaria\"]\nlicenses:\n  v1: \"CC BY-SA 4.0\"       # Pregunta original (uso comercial permitido)\n  v2-v7: \"CC BY-NC-SA 4.0\" # Variantes pedagógicas (solo uso no-comercial)\n---",
+      "id": "CO-LEN-07-textual-001-v5",
+      "number": 5,
+      "statement": "En la oración \"Los árboles **frondosos** daban mucha sombra\", la palabra destacada es un:",
+      "source_url": "https://www.icfes.gov.co",
+      "correct_answer": "B",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    },
+    {
+      "bundle_id": "CO-LEN-07-textual-001",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inicio",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Nudo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Clímax",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Moraleja",
+          "is_correct": false
+        }
+      ],
+      "explanation": "Estructura narrativa. El clímax es el punto cúspide del conflicto, justo antes de resolverse.\n**Competencia evaluada:** Literaria - Estructura de textos narrativos.\n---\n## 📊 Metadata de Validación\n| Pregunta | ID | Dificultad | Competencia ICFES | Componente | Validado |\n|----------|-----|------------|-------------------|------------|----------|\n| 1 | v1 | Medium | Lectura Literal | Semántico | ⬜ |\n| 2 | v2 | Low | Lectura Literal | Semántico | ⬜ |\n| 3 | v3 | Low | Semántica | Semántico | ⬜ |\n| 4 | v4 | Medium | Intención | Pragmático | ⬜ |\n| 5 | v5 | Medium | Gramática | Sintáctico | ⬜ |\n| 6 | v6 | High | Cohesión | Sintáctico | ⬜ |\n| 7 | v7 | High | Literaria | Pragmático | ⬜ |",
+      "id": "CO-LEN-07-textual-001-v7",
+      "number": 7,
+      "statement": "En una narración, el momento de mayor tensión o emoción antes del desenlace se llama:",
+      "source_url": "https://www.icfes.gov.co",
+      "correct_answer": "C",
+      "tags": [],
+      "difficulty": "Medium",
+      "images": []
+    }
+  ]
+}
