@@ -537,24 +537,7 @@ class PartyState {
     return Math.random().toString(36).substring(2, 8).toUpperCase();
   }
 
-  /**
-   * Genera resultados finales
-   */
-  private generateResults(): PartyResults {
-    // TODO: Implementar cálculo detallado de estadísticas
-    return {
-      partyId: this.config!.id,
-      partyName: this.config!.name,
-      totalPlayers: this.players.length,
-      completedPlayers: this.players.length,
-      averageScore: 0,
-      averageTime: 0,
-      playerStats: [],
-      questionStats: [],
-      generatedAt: new Date(),
-    };
-  }
-}
+
 
 // Exportar instancia singleton
 export const partyState = new PartyState();

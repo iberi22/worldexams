@@ -83,20 +83,41 @@
       </div>
 
       <!-- Diagnostic Toggle (Only for SOLO) -->
+      <!-- Diagnostic Panel (Only for SOLO) -->
        {#if mode === 'SOLO'}
-       <div class="bg-emerald-900/10 border border-emerald-500/20 rounded p-3 flex items-start gap-3" transition:fade>
-         <div class="pt-0.5">
-           <input
-             type="checkbox"
-             id="diagnostic"
-             bind:checked={useDiagnostic}
-             class="w-4 h-4 rounded border-emerald-500 text-emerald-500 focus:ring-emerald-500 focus:ring-offset-0 bg-transparent"
-           />
+       <div class="mt-4 p-4 bg-[#121212]/50 border border-emerald-500/30 rounded-lg relative overflow-hidden group" transition:fade>
+         <div class="absolute top-0 right-0 p-2 opacity-20 group-hover:opacity-40 transition-opacity">
+           <svg class="w-12 h-12 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
+           </svg>
          </div>
-         <label for="diagnostic" class="text-xs cursor-pointer select-none">
-           <span class="block font-bold text-emerald-500 uppercase tracking-wider mb-1">Diagnóstico Inteligente</span>
-           <span class="block opacity-60 leading-relaxed">Incluir preguntas sorpresa de grados anteriores para detectar vacíos fundamentales.</span>
-         </label>
+
+         <div class="relative z-10">
+           <div class="flex items-center justify-between mb-2">
+             <h4 class="text-sm font-bold text-emerald-500 uppercase tracking-widest flex items-center gap-2">
+               <span class="w-2 h-2 rounded-full {useDiagnostic ? 'bg-emerald-500 animate-pulse' : 'bg-white/20'}"></span>
+               Panel de Diagnóstico
+             </h4>
+             <button
+               class="px-3 py-1 rounded-full text-[10px] uppercase font-bold tracking-widest transition-all {useDiagnostic ? 'bg-emerald-500 text-[#121212]' : 'bg-white/10 text-white/40 hover:bg-white/20'}"
+               on:click={() => useDiagnostic = !useDiagnostic}
+             >
+               {useDiagnostic ? 'ACTIVADO' : 'DESACTIVADO'}
+             </button>
+           </div>
+
+           <p class="text-xs opacity-70 leading-relaxed max-w-[90%]">
+             Detecta vacíos fundamentales incluyendo preguntas de grados anteriores (3°, 5°, 7°, 9°) en tu simulacro.
+           </p>
+
+           {#if useDiagnostic}
+             <div class="mt-3 flex gap-1 flex-wrap" transition:fade>
+                {#each [3, 5, 7, 9] as g}
+                  <span class="px-1.5 py-0.5 rounded bg-emerald-500/10 text-emerald-500 border border-emerald-500/20 text-[10px] font-mono">G{g}</span>
+                {/each}
+             </div>
+           {/if}
+         </div>
        </div>
        {/if}
 
