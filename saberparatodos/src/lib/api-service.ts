@@ -38,7 +38,7 @@ export interface APISubjectIndex {
 }
 
 export interface AppQuestion {
-  id: string | number;
+  id: string;
   text: string;
   options: { id: string; text: string }[];
   correctOptionId: string;

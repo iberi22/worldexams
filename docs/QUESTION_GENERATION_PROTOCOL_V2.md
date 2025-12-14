@@ -544,6 +544,24 @@ Este proyecto usa **licencias duales**:
 
 ---
 
+## 📊 Metadata de Validación (Footer)
+
+Al final de cada archivo bundle, se debe incluir obligatoriamente una tabla de resumen para validación rápida:
+
+```markdown
+## 📊 Metadata de Validación
+
+| Campo | Valor |
+|-------|-------|
+| Total Preguntas | 7 |
+| Original (Dificultad 3) | 1 |
+| Fácil (Dificultad 1-2) | 2 |
+| Media (Dificultad 3) | 2 |
+| Difícil (Dificultad 4-5) | 2 |
+```
+
+---
+
 ## 📝 Ejemplo Completo: México Matemáticas
 
 Ver archivo de ejemplo: `docs/examples/MX-MAT-11-angulos-001-bundle.md`

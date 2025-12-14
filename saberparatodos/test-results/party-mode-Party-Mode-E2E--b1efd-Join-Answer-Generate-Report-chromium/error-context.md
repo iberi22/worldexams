@@ -1,0 +1,89 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e7]:
+      - link "OpenIcfes - Inicio" [ref=e8] [cursor=pointer]:
+        - /url: /
+        - img "OpenIcfes Logo" [ref=e9]
+        - generic [ref=e10]:
+          - generic [ref=e11]: OpenIcfes
+          - generic [ref=e12]: v0.2.0
+      - generic [ref=e13]:
+        - link "Practicar" [ref=e14] [cursor=pointer]:
+          - /url: /
+        - link "Guía ICFES" [ref=e15] [cursor=pointer]:
+          - /url: /guia-examen
+        - link "Nosotros" [ref=e16] [cursor=pointer]:
+          - /url: /sobre-nosotros
+        - link "Contacto" [ref=e17] [cursor=pointer]:
+          - /url: /contacto
+      - link "Comenzar →" [ref=e19] [cursor=pointer]:
+        - /url: /
+  - main [ref=e20]
+  - contentinfo [ref=e21]:
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - generic [ref=e24]:
+          - generic [ref=e25]:
+            - img [ref=e26]:
+              - generic [ref=e28]: OI
+            - generic [ref=e29]: OpenIcfes
+          - paragraph [ref=e30]: Plataforma open source de práctica para las pruebas ICFES Saber. Contenido gratuito para todos los estudiantes colombianos.
+          - generic [ref=e32]: 🇨🇴 Hecho en Colombia
+        - generic [ref=e33]:
+          - heading "Recursos" [level=3] [ref=e34]
+          - list [ref=e35]:
+            - listitem [ref=e36]:
+              - link "Practicar" [ref=e37] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e38]:
+              - link "Guía ICFES" [ref=e39] [cursor=pointer]:
+                - /url: /guia-examen
+            - listitem [ref=e40]:
+              - link "Sobre Nosotros" [ref=e41] [cursor=pointer]:
+                - /url: /sobre-nosotros
+            - listitem [ref=e42]:
+              - link "Contacto" [ref=e43] [cursor=pointer]:
+                - /url: /contacto
+        - generic [ref=e44]:
+          - heading "Legal" [level=3] [ref=e45]
+          - list [ref=e46]:
+            - listitem [ref=e47]:
+              - link "Términos de Uso" [ref=e48] [cursor=pointer]:
+                - /url: /terminos
+            - listitem [ref=e49]:
+              - link "Privacidad" [ref=e50] [cursor=pointer]:
+                - /url: /privacidad
+        - generic [ref=e51]:
+          - heading "Comunidad" [level=3] [ref=e52]
+          - generic [ref=e53]:
+            - link "GitHub" [ref=e54] [cursor=pointer]:
+              - /url: https://github.com/worldexams
+              - img [ref=e55]
+            - link "Twitter" [ref=e57] [cursor=pointer]:
+              - /url: https://twitter.com/openicfes
+              - img [ref=e58]
+      - generic [ref=e61]:
+        - paragraph [ref=e62]:
+          - text: © 2025 OpenIcfes. Proyecto de
+          - link "World Exams Organization" [ref=e63] [cursor=pointer]:
+            - /url: https://github.com/worldexams
+        - paragraph [ref=e64]: No afiliado oficialmente con el ICFES. Contenido educativo basado en información pública.
+  - generic [ref=e71]:
+    - button "Menu" [ref=e72]:
+      - img [ref=e74]
+      - generic: Menu
+    - button "Inspect" [ref=e78]:
+      - img [ref=e80]
+      - generic: Inspect
+    - button "Audit" [ref=e82]:
+      - generic [ref=e83]:
+        - img [ref=e84]
+        - img [ref=e87]
+      - generic: Audit
+    - button "Settings" [ref=e90]:
+      - img [ref=e92]
+      - generic: Settings
+```

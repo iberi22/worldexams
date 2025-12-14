@@ -45,7 +45,7 @@ Existe una clara **sobre-representación del Grado 11** en todas las áreas, mie
 
 ## 4. Acciones Realizadas
 
-Se han creado un total de **10 bundles estratégicos** (7 anteriores + 3 nuevos) para mitigar las brechas identificadas en todos los grados críticos:
+Se han creado un total de **13 bundles estratégicos** (10 anteriores + 3 nuevos curados) para mitigar las brechas identificadas en todos los grados críticos:
 
 1.  **Sociales - Grado 9:** `CO-SOC-9-derechoshumanos-001-bundle.md` (Derechos y Constitución).
 2.  **Ciencias Naturales - Grado 9:** `CO-CIE-9-genetica-001-bundle.md` (Genética).
@@ -57,6 +57,9 @@ Se han creado un total de **10 bundles estratégicos** (7 anteriores + 3 nuevos)
 8.  **Ciencias Naturales - Grado 9:** `CO-CIE-9-evolucion-001-bundle.md` (Evolución y Adaptación).
 9.  **Lectura Crítica - Grado 5:** `CO-LEC-5-informativo-001-bundle.md` (Textos Informativos).
 10. **Matemáticas - Grado 3:** `CO-MAT-3-geometria-001-bundle.md` (Figuras Planas).
+11. **Matemáticas - Grado 5:** `CO-MAT-5-fracciones-001-bundle.md` (Fracciones - Fuente: DBA).
+12. **Lectura Crítica - Grado 7:** `CO-LEC-7-tipologia-001-bundle.md` (Tipología Textual - Fuente: Colombia Aprende).
+13. **Sociales - Grado 3:** `CO-SOC-3-entornofisico-001-bundle.md` (Entorno Físico - Fuente: Estándares).
 
 Además, se corrigió la estructura de carpetas en Ciencias Naturales G9.
 

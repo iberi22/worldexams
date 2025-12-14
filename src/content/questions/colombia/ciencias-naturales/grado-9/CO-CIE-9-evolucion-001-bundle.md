@@ -5,6 +5,7 @@ grado: 9
 asignatura: "Ciencias Naturales"
 tema: "Evolución y Adaptación"
 protocol_version: "2.1"
+bundle_version: "2.1"
 total_questions: 7
 estado: "approved"
 creador: "Antigravity"
@@ -32,7 +33,6 @@ original_answer: "Sobreviven los mejor adaptados al medio"
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
-
 **ID:** `CO-CIE-9-evolucion-001-v1`
 
 ### Enunciado
@@ -60,8 +60,7 @@ Este es el clásico ejemplo del **melanismo industrial**. Al cambiar el ambiente
 
 ---
 
-## Pregunta 2 (Fácil A - Dificultad 1)
-
+## Pregunta 2 (Fácil - Dificultad 1)
 **ID:** `CO-CIE-9-evolucion-001-v2`
 
 ### Enunciado
@@ -81,8 +80,7 @@ Este es el clásico ejemplo del **melanismo industrial**. Al cambiar el ambiente
 
 ---
 
-## Pregunta 3 (Fácil B - Dificultad 2)
-
+## Pregunta 3 (Fácil - Dificultad 1)
 **ID:** `CO-CIE-9-evolucion-001-v3`
 
 ### Enunciado
@@ -102,8 +100,7 @@ El **camuflaje** (o cripsis) es una adaptación física que permite a un organis
 
 ---
 
-## Pregunta 4 (Media A - Dificultad 3)
-
+## Pregunta 4 (Media - Dificultad 3)
 **ID:** `CO-CIE-9-evolucion-001-v4`
 
 ### Enunciado
@@ -123,8 +120,7 @@ Una **adaptación** es cualquier característica (física o funcional) heredada 
 
 ---
 
-## Pregunta 5 (Media B - Dificultad 3)
-
+## Pregunta 5 (Media - Dificultad 3)
 **ID:** `CO-CIE-9-evolucion-001-v5`
 
 ### Enunciado
@@ -144,8 +140,7 @@ La **selección natural** actúa sobre la variedad existente. Algunas cucarachas
 
 ---
 
-## Pregunta 6 (Difícil A - Dificultad 4)
-
+## Pregunta 6 (Difícil - Dificultad 5)
 **ID:** `CO-CIE-9-evolucion-001-v6`
 
 ### Enunciado
@@ -165,8 +160,7 @@ La **evolución convergente** ocurre cuando organismos no relacionados desarroll
 
 ---
 
-## Pregunta 7 (Difícil B - Dificultad 5)
-
+## Pregunta 7 (Difícil - Dificultad 5)
 **ID:** `CO-CIE-9-evolucion-001-v7`
 
 ### Enunciado
@@ -188,3 +182,27 @@ Darwin explica la evolución por **variabilidad y selección**.
 3.  Las de cuello largo tenían ventaja (fitness) y se reproducían más.
 4.  Con el tiempo, el rasgo "cuello largo" se volvió dominante en la población.
 Lamarck creía en la "herencia de caracteres adquiridos" por uso y desuso, lo cual es genéticamente falso.
+
+# === METADATA GLOBAL ===
+
+# === Metadata de Validación ===
+
+| Campo | Valor |
+|---|---|
+| Total Preguntas | 7 |
+| Original (Dificultad 3) | 1 |
+| Fácil (Dificultad 1-2) | 2 |
+| Media (Dificultad 3) | 2 |
+| Difícil (Dificultad 4-5) | 2 |
+
+## 📊 Metadata de Validación
+
+| Pregunta | ID | Dificultad | Validado |
+|---|---|---|---|
+| 1 | CO-CIE-9-evolucion-001-v1 | Medium | ⬜ |
+| 2 | CO-CIE-9-evolucion-001-v2 | Low | ⬜ |
+| 3 | CO-CIE-9-evolucion-001-v3 | Low | ⬜ |
+| 4 | CO-CIE-9-evolucion-001-v4 | Medium | ⬜ |
+| 5 | CO-CIE-9-evolucion-001-v5 | Medium | ⬜ |
+| 6 | CO-CIE-9-evolucion-001-v6 | High | ⬜ |
+| 7 | CO-CIE-9-evolucion-001-v7 | High | ⬜ |

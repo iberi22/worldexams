@@ -1,10 +1,12 @@
 ---
+# === METADATA GLOBAL ===
 id: "CO-LEC-5-informativo-001"
 country: "co"
 grado: 5
 asignatura: "Lectura Crítica"
 tema: "Textos Informativos"
 protocol_version: "2.1"
+bundle_version: "2.1"
 total_questions: 7
 estado: "approved"
 creador: "Antigravity"
@@ -22,6 +24,16 @@ source_license: "CC BY-SA 4.0"
 search_query: "preguntas liberadas icfes lenguaje grado 5 textos informativos expositivos"
 original_question: "Pregunta de comprensión sobre texto explicativo de las abejas"
 original_answer: "Producir miel y polinizar"
+
+## 📊 Metadata de Validación
+| Campo | Valor |
+|---|---|
+| Total Preguntas | 7 |
+| Original (Dificultad 3) | 1 |
+| Fácil (Dificultad 1-2) | 2 |
+| Media (Dificultad 3) | 2 |
+| Difícil (Dificultad 4-5) | 2 |
+
 ---
 
 # Pregunta Base: Lectura Informativa
@@ -32,7 +44,6 @@ original_answer: "Producir miel y polinizar"
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
-
 **ID:** `CO-LEC-5-informativo-001-v1`
 
 ### Texto
@@ -65,8 +76,7 @@ El texto lo dice explícitamente en la segunda oración: "Sin embargo, su funci�
 
 ---
 
-## Pregunta 2 (Fácil A - Dificultad 1)
-
+## Pregunta 2 (Fácil - Dificultad 1)
 **ID:** `CO-LEC-5-informativo-001-v2`
 
 ### Enunciado
@@ -86,8 +96,7 @@ Pregunta literal simple. El texto dice: "Al volar de flor en flor buscando **né
 
 ---
 
-## Pregunta 3 (Fácil B - Dificultad 2)
-
+## Pregunta 3 (Fácil - Dificultad 1)
 **ID:** `CO-LEC-5-informativo-001-v3`
 
 ### Enunciado
@@ -107,8 +116,7 @@ Información explícita: "...las abejas transportan **polen** en sus patas. Este
 
 ---
 
-## Pregunta 4 (Media A - Dificultad 3)
-
+## Pregunta 4 (Media - Dificultad 3)
 **ID:** `CO-LEC-5-informativo-001-v4`
 
 ### Enunciado
@@ -128,8 +136,7 @@ El autor establece una relación de **causa-efecto** (sin polinización -> no ha
 
 ---
 
-## Pregunta 5 (Media B - Dificultad 3)
-
+## Pregunta 5 (Media - Dificultad 3)
 **ID:** `CO-LEC-5-informativo-001-v5`
 
 ### Enunciado
@@ -149,8 +156,7 @@ El texto presenta **hechos reales** y datos sobre las abejas con el fin de infor
 
 ---
 
-## Pregunta 6 (Difícil A - Dificultad 4)
-
+## Pregunta 6 (Difícil - Dificultad 5)
 **ID:** `CO-LEC-5-informativo-001-v6`
 
 ### Enunciado
@@ -170,8 +176,7 @@ Pregunta inferencial basada en la relación causal. Si el polen permite que "naz
 
 ---
 
-## Pregunta 7 (Difícil B - Dificultad 5)
-
+## Pregunta 7 (Difícil - Dificultad 5)
 **ID:** `CO-LEC-5-informativo-001-v7`
 
 ### Enunciado

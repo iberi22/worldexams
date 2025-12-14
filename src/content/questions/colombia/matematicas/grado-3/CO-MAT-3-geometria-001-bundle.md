@@ -1,10 +1,12 @@
 ---
+# === METADATA GLOBAL ===
 id: "CO-MAT-3-geometria-001"
 country: "co"
 grado: 3
 asignatura: "Matemáticas"
 tema: "Geometría (Figuras Planas)"
 protocol_version: "2.1"
+bundle_version: "2.1"
 total_questions: 7
 estado: "approved"
 creador: "Antigravity"
@@ -22,6 +24,16 @@ source_license: "CC BY-SA 4.0"
 search_query: "preguntas liberadas icfes matematicas grado 3 geometria figuras planas"
 original_question: "Adaptación de pregunta sobre conteo de lados en figuras"
 original_answer: "3 lados (Triángulo)"
+
+## 📊 Metadata de Validación
+| Campo | Valor |
+|---|---|
+| Total Preguntas | 7 |
+| Original (Dificultad 3) | 1 |
+| Fácil (Dificultad 1-2) | 2 |
+| Media (Dificultad 3) | 2 |
+| Difícil (Dificultad 4-5) | 2 |
+
 ---
 
 # Pregunta Base: Figuras Geométricas
@@ -32,7 +44,6 @@ original_answer: "3 lados (Triángulo)"
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
-
 **ID:** `CO-MAT-3-geometria-001-v1`
 
 ### Enunciado
@@ -59,8 +70,7 @@ La definición básica del **triángulo** (tri-ángulo) es ser un polígono de t
 
 ---
 
-## Pregunta 2 (Fácil A - Dificultad 1)
-
+## Pregunta 2 (Fácil - Dificultad 1)
 **ID:** `CO-MAT-3-geometria-001-v2`
 
 ### Enunciado
@@ -80,8 +90,7 @@ Una de las características principales del cuadrado es que tiene **4 lados** y 
 
 ---
 
-## Pregunta 3 (Fácil B - Dificultad 2)
-
+## Pregunta 3 (Fácil - Dificultad 1)
 **ID:** `CO-MAT-3-geometria-001-v3`
 
 ### Enunciado
@@ -101,8 +110,7 @@ El **círculo** es una figura redonda formada por una línea curva cerrada. No t
 
 ---
 
-## Pregunta 4 (Media A - Dificultad 3)
-
+## Pregunta 4 (Media - Dificultad 3)
 **ID:** `CO-MAT-3-geometria-001-v4`
 
 ### Enunciado
@@ -122,8 +130,7 @@ Aunque el cuadrado y el rectángulo tienen 4 lados y 4 ángulos rectos, la difer
 
 ---
 
-## Pregunta 5 (Media B - Dificultad 3)
-
+## Pregunta 5 (Media - Dificultad 3)
 **ID:** `CO-MAT-3-geometria-001-v5`
 
 ### Enunciado
@@ -143,8 +150,7 @@ Al poner dos cuadrados uno al lado del otro, dos de sus lados se suman formando 
 
 ---
 
-## Pregunta 6 (Difícil A - Dificultad 4)
-
+## Pregunta 6 (Difícil - Dificultad 5)
 **ID:** `CO-MAT-3-geometria-001-v6`
 
 ### Enunciado
@@ -164,8 +170,7 @@ Si trazas una línea diagonal (de una esquina a la opuesta) en un cuadrado, lo d
 
 ---
 
-## Pregunta 7 (Difícil B - Dificultad 5)
-
+## Pregunta 7 (Difícil - Dificultad 5)
 **ID:** `CO-MAT-3-geometria-001-v7`
 
 ### Enunciado

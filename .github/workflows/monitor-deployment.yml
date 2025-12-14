@@ -16,22 +16,22 @@ jobs:
           script: |
             const deployment = context.payload.deployment;
             const status = context.payload.deployment_status;
-            
+
             // Evitar duplicados recientes podría ser complejo, pero por ahora crearemos uno por fallo.
-            
+
             const body = `
             ### 🚨 Despliegue Fallido Detectado
-            
+
             **Entorno:** ${deployment.environment}
             **Estado:** ${status.state}
             **Commit:** ${deployment.sha}
             **Descripción:** ${status.description || 'Sin descripción'}
-            
+
             [Ver Logs en Cloudflare](${status.target_url})
-            
+
             Se requiere revisión manual inmediata.
             `;
-            
+
             await github.rest.issues.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
