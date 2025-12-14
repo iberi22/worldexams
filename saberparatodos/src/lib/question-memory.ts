@@ -42,12 +42,12 @@ export function loadAnsweredQuestions(): Set<string> {
 
     const data = JSON.parse(stored);
     const now = Date.now();
-    const SEVEN_DAYS_MS = 7 * 24 * 60 * 60 * 1000;
+    const SIX_DAYS_MS = 6 * 24 * 60 * 60 * 1000;
     const validIds = new Set<string>();
 
     if (data.answeredTimestamps) {
       for (const [id, ts] of Object.entries(data.answeredTimestamps)) {
-        if (now - (ts as number) < SEVEN_DAYS_MS) {
+        if (now - (ts as number) < SIX_DAYS_MS) {
           validIds.add(id);
         }
       }
@@ -84,7 +84,7 @@ export function saveAnsweredQuestions(
     const stored = localStorage.getItem(STORAGE_KEY);
     let currentTimestamps: Record<string, number> = {};
     const now = Date.now();
-    const SEVEN_DAYS_MS = 7 * 24 * 60 * 60 * 1000;
+    const SIX_DAYS_MS = 6 * 24 * 60 * 60 * 1000;
 
     if (stored) {
       const data = JSON.parse(stored);
@@ -104,7 +104,7 @@ export function saveAnsweredQuestions(
     // For every ID in the input set (current valid IDs)
     answeredIds.forEach(id => {
       // If we have an existing valid timestamp, keep it
-      if (currentTimestamps[id] && (now - currentTimestamps[id] < SEVEN_DAYS_MS)) {
+      if (currentTimestamps[id] && (now - currentTimestamps[id] < SIX_DAYS_MS)) {
         newTimestamps[id] = currentTimestamps[id];
       } else {
         // Otherwise it's new (or re-added), give it NOW
