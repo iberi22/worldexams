@@ -1,0 +1,79 @@
+---
+import Layout from '../../layouts/Layout.astro';
+---
+
+<Layout title="API Documentation | World Exams">
+  <div class="min-h-screen bg-[#121212]">
+    <div id="swagger-ui"></div>
+  </div>
+
+  <link rel="stylesheet" href="https://unpkg.com/swagger-ui-dist@5.11.0/swagger-ui.css" />
+
+  <script is:inline src="https://unpkg.com/swagger-ui-dist@5.11.0/swagger-ui-bundle.js"></script>
+  <script is:inline>
+    window.onload = () => {
+      window.ui = SwaggerUIBundle({
+        url: '/openapi.yaml',
+        dom_id: '#swagger-ui',
+        presets: [
+          SwaggerUIBundle.presets.apis,
+          SwaggerUIBundle.SwaggerUIStandalonePreset
+        ],
+        layout: "BaseLayout",
+        theme: {
+          "swagger-ui": {
+            "bg": "#121212",
+            "text": "#F5F5DC"
+          }
+        }
+      });
+    };
+  </script>
+
+  <style is:global>
+    /* Dark Mode Overrides for Swagger UI */
+    .swagger-ui {
+      background-color: #121212;
+      color: #F5F5DC;
+      padding: 2rem;
+    }
+    .swagger-ui .info .title, .swagger-ui .info h1, .swagger-ui .info h2, .swagger-ui .info h3, .swagger-ui .info h4, .swagger-ui .info h5 {
+      color: #F5F5DC;
+      font-family: monospace;
+    }
+    .swagger-ui .scheme-container {
+      background-color: #1A1A1A;
+      box-shadow: none;
+    }
+    .swagger-ui .opblock .opblock-summary-operation-id, .swagger-ui .opblock .opblock-summary-path, .swagger-ui .opblock .opblock-summary-path__deprecated {
+      color: #F5F5DC;
+    }
+    .swagger-ui .opblock-description-wrapper p, .swagger-ui .opblock-external-docs-wrapper p, .swagger-ui .opblock-title_normal p {
+      color: #A0A0A0;
+    }
+    .swagger-ui table thead tr td, .swagger-ui table thead tr th {
+      color: #F5F5DC;
+    }
+    .swagger-ui .response-col_status {
+      color: #A0A0A0;
+    }
+    .swagger-ui .opblock .opblock-section-header h4 {
+      color: #F5F5DC;
+    }
+    .swagger-ui label {
+      color: #F5F5DC;
+    }
+    .swagger-ui .btn {
+      color: #F5F5DC;
+      border-color: #333;
+    }
+    .swagger-ui select {
+      color: #333;
+    }
+    .swagger-ui input {
+      background: #1A1A1A;
+      color: #F5F5DC;
+      border: 1px solid #333;
+    }
+  </style>
+</Layout>

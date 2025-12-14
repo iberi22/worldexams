@@ -4,5 +4,5 @@
     "jsx": "preserve",
     "jsxImportSource": "svelte"
   },
-  "exclude": ["template-openicfes"]
+  "exclude": ["template-openicfes", "supabase", "functions"]
 }

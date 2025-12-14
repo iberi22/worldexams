@@ -410,7 +410,7 @@
       <div
         in:fly={{ y: 20, duration: 500, delay: 200 }}
         out:fade={{ duration: 200 }}
-        class="flex flex-col items-center min-h-screen text-center px-4 pt-8 pb-32"
+        class="flex flex-col items-center min-h-screen text-center px-4 pt-8 pb-32 w-full overflow-hidden relative"
       >
         <!-- Colombia Flag Gradient Background -->
         <div class="hero-gradient"></div>
@@ -470,7 +470,7 @@
         <!-- Cards Grid -->
         <div class="grid grid-cols-1 md:grid-cols-3 gap-6 w-full max-w-4xl relative z-10 mt-12">
           <FlashlightCard
-            onclick={handleStart}
+            onClick={handleStart}
             className="p-8 flex flex-col items-center justify-center group h-48 hover:border-emerald-500/50 transition-transform duration-300 hover:scale-105"
           >
             <div class="mb-4 text-emerald-500 opacity-80 group-hover:opacity-100">
@@ -487,7 +487,7 @@
           </FlashlightCard>
 
           <FlashlightCard
-            onclick={() => setView(AppView.LEADERBOARD)}
+            onClick={() => setView(AppView.LEADERBOARD)}
             className="p-8 flex flex-col items-center justify-center group h-48 hover:border-[#FCD116]/40 transition-transform duration-300 hover:scale-105"
           >
             <div class="mb-4 text-[#FCD116] opacity-60 group-hover:opacity-100">
@@ -503,7 +503,7 @@
           </FlashlightCard>
 
           <FlashlightCard
-            onclick={async () => {
+            onClick={async () => {
               if (loadedQuestions.length === 0) {
                 await loadQuestionsForExam(selectedGrade || 11, null);
               }

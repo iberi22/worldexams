@@ -3,7 +3,7 @@
 
   export let className = "";
   export let isActive = false;
-  export let onclick: (() => void) | undefined = undefined;
+  export let onClick: (() => void) | undefined = undefined;
 
   let divRef: HTMLDivElement;
   let position = { x: 0, y: 0 };
@@ -24,8 +24,8 @@
   }
 
   function handleClick(e: MouseEvent) {
-    if (onclick) {
-      onclick();
+    if (onClick) {
+      onClick();
     }
   }
 </script>

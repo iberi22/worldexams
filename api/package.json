@@ -1,0 +1,13 @@
+{
+  "name": "worldexams-api",
+  "version": "1.0.0",
+  "description": "World Exams API Gateway & Content",
+  "scripts": {
+    "dev": "wrangler pages dev .",
+    "deploy": "wrangler pages deploy ."
+  },
+  "dependencies": {
+    "@cloudflare/workers-types": "^4.20240529.0",
+    "@supabase/supabase-js": "^2.39.0"
+  }
+}

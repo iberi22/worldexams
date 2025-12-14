@@ -45,11 +45,20 @@ Existe una clara **sobre-representación del Grado 11** en todas las áreas, mie
 
 ## 4. Acciones Realizadas
 
-Se han creado los siguientes bundles para comenzar a mitigar las brechas identificadas:
+Se han creado un total de **10 bundles estratégicos** (7 anteriores + 3 nuevos) para mitigar las brechas identificadas en todos los grados críticos:
 
-1.  **Sociales - Grado 9:** `CO-SOC-9-derechoshumanos-001-bundle.md` (7 preguntas sobre Tutela y Constitución).
-2.  **Ciencias Naturales - Grado 9:** `CO-CIE-9-genetica-001-bundle.md` (7 preguntas sobre Genética Mendeliana).
-3.  **Corrección de Estructura:** Se corrigió la anidación indebida en Ciencias Naturales G9 (carpeta `ecosistemas` eliminada).
+1.  **Sociales - Grado 9:** `CO-SOC-9-derechoshumanos-001-bundle.md` (Derechos y Constitución).
+2.  **Ciencias Naturales - Grado 9:** `CO-CIE-9-genetica-001-bundle.md` (Genética).
+3.  **Matemáticas - Grado 9:** `CO-MAT-9-probabilidad-001-bundle.md` (Estadística).
+4.  **Ciencias Naturales - Grado 5:** `CO-CIE-5-materia-001-bundle.md` (Materia).
+5.  **Matemáticas - Grado 7:** `CO-MAT-7-enteros-001-bundle.md` (Números Enteros).
+6.  **Sociales - Grado 5:** `CO-SOC-5-ramaspoder-001-bundle.md` (Ramas del Poder).
+7.  **Lectura Crítica - Grado 3:** `CO-LEC-3-narrativo-001-bundle.md` (Comprensión de Fábulas).
+8.  **Ciencias Naturales - Grado 9:** `CO-CIE-9-evolucion-001-bundle.md` (Evolución y Adaptación).
+9.  **Lectura Crítica - Grado 5:** `CO-LEC-5-informativo-001-bundle.md` (Textos Informativos).
+10. **Matemáticas - Grado 3:** `CO-MAT-3-geometria-001-bundle.md` (Figuras Planas).
+
+Además, se corrigió la estructura de carpetas en Ciencias Naturales G9.
 
 ---
 *Generado automáticamente por Antigravity*

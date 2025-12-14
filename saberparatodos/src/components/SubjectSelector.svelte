@@ -47,7 +47,7 @@
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 w-full max-w-4xl px-4">
       <!-- Option: All Subjects -->
       <FlashlightCard
-        onclick={() => onSelect(null)}
+        onClick={() => onSelect(null)}
         className="p-8 flex flex-col items-center justify-center group h-40 hover:border-emerald-500/50 transition-transform duration-300 hover:scale-105"
       >
         <div class="mb-2 text-emerald-500 opacity-80 group-hover:opacity-100 text-2xl">
@@ -59,7 +59,7 @@
 
       {#each subjects as subject}
         <FlashlightCard
-          onclick={() => onSelect(subject)}
+          onClick={() => onSelect(subject)}
           className="p-8 flex flex-col items-center justify-center group h-40 hover:border-white/40 transition-transform duration-300 hover:scale-105"
         >
           <div class="mb-2 text-[#F5F5DC] opacity-60 group-hover:opacity-100 text-2xl">

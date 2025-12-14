@@ -1,0 +1,2104 @@
+﻿{
+    "metadata":  {
+                     "total_pages":  1,
+                     "total_questions":  55,
+                     "exam":  "icfes",
+                     "subject":  "Lectura Crítica",
+                     "generated_at":  "2025-12-13T13:00:55Z",
+                     "country":  "co",
+                     "grade":  "11",
+                     "page":  1
+                 },
+    "questions":  [
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Colombia es el segundo país más biodiverso del mundo"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "La deforestación del Amazonas colombiano alcanzó cifras alarmantes en 2020"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "La educación ambiental debe ser un eje transversal en todo el currículo escolar colombiano"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Finlandia tiene el mejor sistema educativo del mundo"
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-argumentativo-001-v1",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Cuál es la tesis principal que defiende el autor del texto?",
+                          "correct_answer":  "C",
+                          "number":  1,
+                          "bundle_id":  "CO-LEC-11-argumentativo-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Texto narrativo"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Texto expositivo"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Texto argumentativo (columna de opinión)"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Texto instructivo"
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-argumentativo-001-v3",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Qué tipo de texto es \"La Educación Ambiental en Colombia: Una Urgencia Impostergable\"?",
+                          "correct_answer":  "C",
+                          "number":  3,
+                          "bundle_id":  "CO-LEC-11-argumentativo-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Una pregunta que espera información del lector"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Una pregunta retórica que busca persuadir al lector"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Una pregunta de investigación para un estudio científico"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Una pregunta de comprensión lectora"
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-argumentativo-001-v5",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "La pregunta \"¿Queremos que tomen decisiones sobre el páramo de Santurbán o la Amazonía sin comprender los ecosistemas que están en juego?\" en el párrafo 4 es:",
+                          "correct_answer":  "B",
+                          "number":  5,
+                          "bundle_id":  "CO-LEC-11-argumentativo-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Falacia ad hominem (ataque a la persona)"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Falacia de la pendiente resbaladiza (consecuencias extremas)"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Falacia de la falsa analogía o generalización apresurada"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Falacia de la autoridad (apelar a un experto sin justificación)"
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-argumentativo-001-v7",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Un lector escribe la siguiente respuesta al texto:\n*\"El autor comete el error de comparar a Colombia con Finlandia. Son países completamente diferentes: Finlandia tiene 5 millones de habitantes y Colombia 50 millones. Por lo tanto, cualquier política que funcione en Finlandia no puede funcionar aquí.\"*\n¿Qué tipo de error lógico comete este lector en su crítica?",
+                          "correct_answer":  "C",
+                          "number":  7,
+                          "bundle_id":  "CO-LEC-11-argumentativo-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Opción 1"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Opción 2"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Opción 3"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Opción 4"
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-argumentacion-001-v2",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "TODO: Generar variación de tipo Low A",
+                          "correct_answer":  "",
+                          "number":  2,
+                          "bundle_id":  "CO-LEC-11-argumentacion-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Opción 1"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Opción 2"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Opción 3"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Opción 4"
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-argumentacion-001-v4",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "TODO: Generar variación de tipo Medium A",
+                          "correct_answer":  "",
+                          "number":  4,
+                          "bundle_id":  "CO-LEC-11-argumentacion-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Opción 1"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Opción 2"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Opción 3"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Opción 4"
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-argumentacion-001-v6",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "TODO: Generar variación de tipo High A",
+                          "correct_answer":  "",
+                          "number":  6,
+                          "bundle_id":  "CO-LEC-11-argumentacion-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Los desastres naturales inesperados."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "El cambio climático global."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Las actividades humanas como la deforestación y contaminación."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "La evolución natural de las especies."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-comprension-001-v1",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Según el texto, ¿cuál es la causa principal de la pérdida de biodiversidad?",
+                          "correct_answer":  "C",
+                          "number":  1,
+                          "bundle_id":  "CO-LEC-11-comprension-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "El uso excesivo y agotador de los recursos naturales."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "La protección estricta de las áreas naturales."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "La siembra de nuevos bosques."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "El estudio científico de los recursos."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-comprension-001-v3",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "En el texto, el término **\"sobreexplotación\"** se refiere a:",
+                          "correct_answer":  "A",
+                          "number":  3,
+                          "bundle_id":  "CO-LEC-11-comprension-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "El ritmo actual es más lento que en el pasado."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Es un ciclo natural que se repite cada siglo."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "El ritmo actual es alarmante y sin precedentes recientes."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "La historia geológica no tiene relación con la extinción."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-comprension-001-v5",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Qué relación establece el texto entre el ritmo de extinción actual y la historia geológica?",
+                          "correct_answer":  "C",
+                          "number":  5,
+                          "bundle_id":  "CO-LEC-11-comprension-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Podemos eliminar algunas especies sin consecuencias si son feas."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "La tecnología podrá reemplazar las funciones de las especies extintas."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "La pérdida de cualquier especie altera irreversiblemente la red de la vida."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Solo las especies grandes e importantes son insustituibles."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-comprension-001-v7",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Si asumimos como cierta la afirmación de que \"cada especie desempeña un papel insustituible\", ¿cuál de las siguientes conclusiones sería la más válida?",
+                          "correct_answer":  "C",
+                          "number":  7,
+                          "bundle_id":  "CO-LEC-11-comprension-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "El agua cubre la mayor parte de la Tierra"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "El agua dulce disponible es extremadamente escasa en comparación con el total."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Los glaciares contienen mucha agua congelada."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "La Tierra tiene mucha agua subterránea profunda."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-comprension-002-v1",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Cuál es la idea principal del texto?",
+                          "correct_answer":  "B",
+                          "number":  1,
+                          "bundle_id":  "CO-LEC-11-comprension-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "No está disponible fácilmente para el consumo humano."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Es venenosa para los seres vivos."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Está muy lejos en el espacio exterior."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Es demasiado caliente para beberse."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-comprension-002-v3",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "En el texto, la palabra **\"inaccesible\"** (o atrapada/profunda) implica que el agua:",
+                          "correct_answer":  "A",
+                          "number":  3,
+                          "bundle_id":  "CO-LEC-11-comprension-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "La cantidad total de agua en la Tierra disminuiría."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Aumentaría la salinidad de los océanos."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Aumentaría la cantidad de agua líquida en el planeta."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "El agua dulce desaparecería para siempre."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-comprension-002-v5",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Según la información del texto, se puede concluir que si los glaciares se derritieran por completo:",
+                          "correct_answer":  "C",
+                          "number":  5,
+                          "bundle_id":  "CO-LEC-11-comprension-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Demostrar que los cálculos científicos son exactos."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Desanimar a las personas de beber agua."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Enfatizar la fragilidad y limitación crítica del recurso disponible."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Sugerir que debemos consumir agua de mar."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-comprension-002-v7",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Cuál es la función del dato \"menos del 1% del agua dulce total es fácilmente accesible\"?",
+                          "correct_answer":  "C",
+                          "number":  7,
+                          "bundle_id":  "CO-LEC-11-comprension-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Mayor cohesión social en las ciudades."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Una disminución en el consumo de recursos naturales."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "La pérdida de biodiversidad y aislamiento de poblaciones animales."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Un colapso económico inmediato de la región."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-inferencia-001-bundle-v0",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Lee el siguiente fragmento:\n*\"La rápida expansión de las áreas urbanas hacia zonas boscosas no solo displace a la fauna local, sino que fragmenta los corredores biológicos necesarios para el intercambio genético.\"*\nEl autor **implica** que la expansión urbana conduce a:",
+                          "correct_answer":  "C",
+                          "number":  0,
+                          "bundle_id":  "CO-LEC-11-inferencia-001-bundle",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "\"A mí me gusta mucho usar el celular.\""
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "\"Estudios muestran que los videojuegos de acción mejoran la atención selectiva y los reflejos mentales.\""
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "\"La tecnología es muy costosa hoy en día.\""
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "\"Antes la gente se concentraba más leyendo libros.\""
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-inferencia-001-bundle-v0",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Si el autor quisiera **refutar** (contradecir) su propia tesis anterior sobre la tecnología, ¿qué argumento sería el más efectivo?",
+                          "correct_answer":  "B",
+                          "number":  0,
+                          "bundle_id":  "CO-LEC-11-inferencia-001-bundle",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Son idénticos en su postura."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Presentan una tensión entre una visión de derechos y una visión económica/administrativa."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "El Texto B desmiente científicamente al Texto A."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Ambos textos promueven la privatización total."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-inferencia-001-bundle-v0",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Texto A: \"El agua es un derecho humano fundamental.\"\nTexto B: \"El suministro de agua tiene costos operativos que deben ser cubiertos mediante tarifas.\"\n¿Qué relación existe entre los dos textos?",
+                          "correct_answer":  "B",
+                          "number":  0,
+                          "bundle_id":  "CO-LEC-11-inferencia-001-bundle",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Informar sobre el precio del césped."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Narrar una historia sobre el parque."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Regular el comportamiento de los visitantes mediante una advertencia."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Invitar a la gente a jugar en otra parte."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-inferencia-001-bundle-v0",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Un aviso en un parque dice: *\"Prohibido jugar en el césped. Multa $50.000.\"*\n¿Cuál es la **intención comunicativa** principal?",
+                          "correct_answer":  "C",
+                          "number":  0,
+                          "bundle_id":  "CO-LEC-11-inferencia-001-bundle",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Mayor cohesión social en las nuevas comunidades."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Una disminución significativa en el consumo de recursos."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "La fragmentación de los hábitats naturales."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Un colapso económico inmediato en la región."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-inferencia-002-v1",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Según el texto, el autor implica que la rápida expansión de las áreas urbanas conduce a:",
+                          "correct_answer":  "C",
+                          "number":  1,
+                          "bundle_id":  "CO-LEC-11-inferencia-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "No podrá deshacerse ni volver a su estado original."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Se detendrá por sí sola en poco tiempo."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Es beneficiosa para el medio ambiente."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Puede corregirse fácilmente con dinero."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-inferencia-002-v3",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "En el texto, la palabra **\"irreversible\"** sugiere que la tendencia de expansión urbana:",
+                          "correct_answer":  "A",
+                          "number":  3,
+                          "bundle_id":  "CO-LEC-11-inferencia-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "La eliminación total de todas las ciudades."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "La implementación de estrategias de desarrollo sostenible."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "La construcción indiscriminada en áreas rurales."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Ignorar el impacto ambiental del progreso."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-inferencia-002-v5",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Se puede inferir que los \"expertos en planificación urbana\" mencionados en el texto probablemente apoyarían:",
+                          "correct_answer":  "B",
+                          "number":  5,
+                          "bundle_id":  "CO-LEC-11-inferencia-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Las ciudades se volverían autosuficientes en alimentos."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "La biodiversidad aumentaría debido a la adaptación."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "La calidad de vida humana disminuiría debido al deterioro ambiental."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Los ecosistemas rurales rodearían y asfixiarían a las ciudades."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-inferencia-002-v7",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Si la tendencia descrita en el texto continúa sin cambios, ¿cuál sería la consecuencia a largo plazo más probable según la lógica del autor?",
+                          "correct_answer":  "C",
+                          "number":  7,
+                          "bundle_id":  "CO-LEC-11-inferencia-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Estaba nevando fuertemente."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Estaba cayendo una tormenta con lluvia intensa."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Hacía mucho calor y humedad."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Hubo una inundación por rotura de tubería."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-inferencia-001-v1",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Qué se puede inferir del texto sobre el clima exterior?",
+                          "correct_answer":  "B",
+                          "number":  1,
+                          "bundle_id":  "CO-LEC-11-inferencia-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Furioso y con ganas de gritar."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Aceptando su mala suerte sin protestar más."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Feliz por haber llegado a casa."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Confundido por lo que sucedía."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-inferencia-001-v3",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "La expresión \"murmuró con **resignación**\" indica que Juan se sentía:",
+                          "correct_answer":  "B",
+                          "number":  3,
+                          "bundle_id":  "CO-LEC-11-inferencia-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "No llevaba paraguas ni impermeable."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Disfruta caminar bajo la lluvia."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Vive muy lejos de la estación de autobús."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Salió de casa por la tarde."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-inferencia-001-v5",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Del fragmento se puede deducir que Juan probablemente:",
+                          "correct_answer":  "A",
+                          "number":  5,
+                          "bundle_id":  "CO-LEC-11-inferencia-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Proporcionar un dato geográfico exacto."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Exagerar ridículamente la situación."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Describir la intensidad de la lluvia mediante una metáfora."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Informar sobre el sistema de alcantarillado."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-inferencia-001-v7",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Qué función cumple la frase \"las calles parecían ríos improvisados\" en el texto?",
+                          "correct_answer":  "C",
+                          "number":  7,
+                          "bundle_id":  "CO-LEC-11-inferencia-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "El sistema judicial comete errores frecuentemente."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "La pena de muerte no debe aplicarse porque es ineficaz y riesgosa."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Los criminales no temen a la muerte."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "La tasa de homicidios depende de la legislación de cada estado."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-textos-continuos-001-v1",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Cuál es la **tesis** principal del autor en el texto anterior?",
+                          "correct_answer":  "B",
+                          "number":  1,
+                          "bundle_id":  "CO-LEC-11-textos-continuos-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "Que puede cometer equivocaciones."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Que es injusto intencionalmente."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Que es demasiado lento."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Que es muy estricto."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-textos-continuos-001-v3",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "En el contexto de la lectura, ¿qué significa la palabra **\"falible\"** referida al sistema judicial?",
+                          "correct_answer":  "A",
+                          "number":  3,
+                          "bundle_id":  "CO-LEC-11-textos-continuos-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Vengar a las víctimas de delitos graves."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Eliminar físicamente a los criminales peligrosos."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Disuadir a los criminales de cometer delitos."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Ahorrar recursos del sistema carcelario."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-textos-continuos-001-v5",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Del texto se puede inferir que, para el autor, el objetivo principal de una pena debería ser:",
+                          "correct_answer":  "C",
+                          "number":  5,
+                          "bundle_id":  "CO-LEC-11-textos-continuos-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Narrativa: cuenta la historia de un error judicial."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Argumentativa: presenta una tesis seguida de razones que la sustentan."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Descriptiva: enumera las características de la pena de muerte."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Expositiva: explica legalmente en qué consiste la pena capital."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-textos-continuos-001-v7",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "La estructura lógica del texto se puede describir como:",
+                          "correct_answer":  "B",
+                          "number":  7,
+                          "bundle_id":  "CO-LEC-11-textos-continuos-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Una mentira dicha por los defensores de la tecnología."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Una contradicción entre la conexión digital y el aislamiento real."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "La velocidad con la que avanza la tecnología moderna."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "La solución al problema de la soledad."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-textos-continuos-002-v1",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "En el texto, la palabra **\"paradójicamente\"** se usa para resaltar:",
+                          "correct_answer":  "B",
+                          "number":  1,
+                          "bundle_id":  "CO-LEC-11-textos-continuos-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Han aumentado gracias a las pantallas."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Se han mantenido iguales."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Han disminuido drásticamente."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Son más profundas que antes."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-textos-continuos-002-v3",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Qué ha ocurrido con las interacciones \"cara a cara\" según el autor?",
+                          "correct_answer":  "C",
+                          "number":  3,
+                          "bundle_id":  "CO-LEC-11-textos-continuos-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "La tecnología conecta globalmente pero aísla personalmente y debilita la comunidad."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "La tecnología es mala y debemos dejar de usarla."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "La comunicación global es el mayor logro de la humanidad."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Las pantallas son herramientas útiles para trabajar."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-textos-continuos-002-v5",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Cuál es la idea principal del texto?",
+                          "correct_answer":  "A",
+                          "number":  5,
+                          "bundle_id":  "CO-LEC-11-textos-continuos-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Una buena conexión a internet."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Tener muchos amigos en redes sociales."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Las interacciones cara a cara."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "La comunicación global eficiente."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-textos-continuos-002-v7",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "El autor asume que los \"lazos comunitarios profundos\" dependen principalmente de:",
+                          "correct_answer":  "C",
+                          "number":  7,
+                          "bundle_id":  "CO-LEC-11-textos-continuos-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Presentar una evidencia científica."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Describir un fenómeno natural."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Proponer una medida basada en una causa."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Contradecir la afirmación inicial."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-textos-continuos-003-v1",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Qué función cumple la segunda oración en el texto?",
+                          "correct_answer":  "C",
+                          "number":  1,
+                          "bundle_id":  "CO-LEC-11-textos-continuos-003",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Aumentar las clases de educación física."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Educar a los padres sobre nutrición."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Prohibir la venta de bebidas azucaradas."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Cerrar las tiendas escolares."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-textos-continuos-003-v3",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Qué medida específica se propone para las escuelas?",
+                          "correct_answer":  "C",
+                          "number":  3,
+                          "bundle_id":  "CO-LEC-11-textos-continuos-003",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Informar sobre las estadísticas de obesidad."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Persuadir sobre la necesidad de una prohibición escolar."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Explicar químicamente qué es el azúcar."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Narrar una historia sobre un estudiante obeso."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-textos-continuos-003-v5",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "La intención principal del autor con este texto es:",
+                          "correct_answer":  "B",
+                          "number":  5,
+                          "bundle_id":  "CO-LEC-11-textos-continuos-003",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Los padres no son responsables de la alimentación de sus hijos."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Las escuelas tienen la responsabilidad y el poder de influir en la salud de los estudiantes a través de su oferta alimentaria."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Todos los estudiantes compran bebidas en la escuela."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "El azúcar es la única causa de la obesidad."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-textos-continuos-003-v7",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "El autor asume implícitamente que:",
+                          "correct_answer":  "B",
+                          "number":  7,
+                          "bundle_id":  "CO-LEC-11-textos-continuos-003",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Los historiadores siempre incluyen sus propios sesgos en sus escritos."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "La memoria colectiva depende de quién narra los eventos pasados."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Es posible relatar el pasado tal y como ocurrió, sin ninguna distorsión."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "La selección de hechos es una herramienta de poder en la historiografía."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-textos-continuos-004-v1",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Cuál de las siguientes afirmaciones **contradice** la idea central del texto?",
+                          "correct_answer":  "C",
+                          "number":  1,
+                          "bundle_id":  "CO-LEC-11-textos-continuos-004",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Porque faltan documentos históricos."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Porque nadie lee libros de historia."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Porque todo relato está teñido por la subjetividad del historiador."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Porque la historia cambia todo el tiempo."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-textos-continuos-004-v3",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Según el autor, ¿por qué es inalcanzable la objetividad histórica?",
+                          "correct_answer":  "C",
+                          "number":  3,
+                          "bundle_id":  "CO-LEC-11-textos-continuos-004",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "La historia debería ser considerada una ciencia exacta como la física."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "No debemos confiar en ningún libro de historia."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "La naturaleza de la historia es subjetiva e interpretativa, no objetiva."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Los historiadores deberían ser más objetivos en su trabajo."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-textos-continuos-004-v5",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "La tesis central del texto es:",
+                          "correct_answer":  "C",
+                          "number":  5,
+                          "bundle_id":  "CO-LEC-11-textos-continuos-004",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "La narración es posterior e independiente de los hechos."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "La narración moldea los hechos mediante la selección y la interpretación."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Los hechos dictan exactamente cómo debe ser la narración."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "No existe ninguna relación entre ellos."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-textos-continuos-004-v7",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Qué relación sugiere el texto entre \"narración\" y \"hechos\"?",
+                          "correct_answer":  "B",
+                          "number":  7,
+                          "bundle_id":  "CO-LEC-11-textos-continuos-004",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Argumentativo."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Narrativo."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Instructivo o Expositivo."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Lírico."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-textos-continuos-005-v1",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "El texto anterior es de tipo:",
+                          "correct_answer":  "C",
+                          "number":  1,
+                          "bundle_id":  "CO-LEC-11-textos-continuos-005",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "100°C (hirviendo)."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "50°C."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Unos 90°C, sin dejar que hierva."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Fría."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-textos-continuos-005-v3",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿A qué temperatura se debe calentar el agua según el texto?",
+                          "correct_answer":  "C",
+                          "number":  3,
+                          "bundle_id":  "CO-LEC-11-textos-continuos-005",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Convencer al lector de que el café es saludable."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Contar la historia del descubrimiento del café."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Guiar al lector en el proceso de preparación del café."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Describir las variedades de café colombiano."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-textos-continuos-005-v5",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "El propósito principal de este texto es:",
+                          "correct_answer":  "C",
+                          "number":  5,
+                          "bundle_id":  "CO-LEC-11-textos-continuos-005",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "El uso de metáforas poéticas (\"el grano es oro negro\")."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "La expresión de opiniones personales (\"me encanta este paso\")."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "El uso de formas impersonales (\"se debe\", \"se calienta\", \"se vierte\")."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "El uso constante de signos de exclamación."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-textos-continuos-005-v7",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Una característica estilística de este texto que refuerza su objetividad es:",
+                          "correct_answer":  "C",
+                          "number":  7,
+                          "bundle_id":  "CO-LEC-11-textos-continuos-005",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "El sistema judicial comete errores frecuentemente."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "La pena de muerte no debe aplicarse porque es ineficaz y riesgosa."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Los criminales no temen a la muerte."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "La tasa de homicidios depende de la legislación de cada estado."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-textos-continuos-mix-001-v1",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Cuál es la **tesis** principal del autor en el texto anterior?",
+                          "correct_answer":  "B",
+                          "number":  1,
+                          "bundle_id":  "CO-LEC-11-textos-continuos-mix-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Los jueces son corruptos."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Existe la posibilidad de error humano en los veredictos."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "El sistema no tiene dinero."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Las leyes son blandas."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-textos-continuos-mix-001-v3",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Cuando el autor habla de \"sistema judicial falible\", implica que:",
+                          "correct_answer":  "B",
+                          "number":  3,
+                          "bundle_id":  "CO-LEC-11-textos-continuos-mix-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Una metáfora del progreso."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Una imagen descriptiva de la alienación tecnológica."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Una crítica a la falta de electricidad."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Un elogio a la tecnología moderna."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-textos-continuos-mix-001-v4",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "La expresión \"rostros iluminados por pantallas\" funciona en el texto como:",
+                          "correct_answer":  "B",
+                          "number":  4,
+                          "bundle_id":  "CO-LEC-11-textos-continuos-mix-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "La tecnología es cara pero necesaria."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Estamos más conectados globalmente pero más aislados localmente."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Las pantallas iluminan pero no calientan."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Cenamos juntos pero comemos cosas distintas."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-textos-continuos-mix-001-v6",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "La paradoja central que plantea el texto es:",
+                          "correct_answer":  "B",
+                          "number":  6,
+                          "bundle_id":  "CO-LEC-11-textos-continuos-mix-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Entusiasta y feliz por el éxito"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Optimista sobre el futuro"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Dudoso y desconfiado de la validez inmediata"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Satisfecho con el trabajo de su equipo"
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-vocabulario-001-v1",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "En el contexto del texto, la palabra **\"escéptico\"** significa que el Dr. Arango estaba:",
+                          "correct_answer":  "C",
+                          "number":  1,
+                          "bundle_id":  "CO-LEC-11-vocabulario-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Violento y destructivo."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Innovador y capaz de cambiarlo todo."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Antiguo y tradicional."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Pequeño e insignificante."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-vocabulario-001-v3",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "En la frase \"un avance **revolucionario**\", la palabra resaltada indica que el avance es:",
+                          "correct_answer":  "B",
+                          "number":  3,
+                          "bundle_id":  "CO-LEC-11-vocabulario-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Participar en un concurso de canto."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Declarar el éxito definitivo del experimento."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Ganar una guerra contra otro país."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Publicar los resultados en una revista."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-vocabulario-001-v5",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Qué significa la expresión **\"cantar victoria\"** en el contexto final del texto?",
+                          "correct_answer":  "B",
+                          "number":  5,
+                          "bundle_id":  "CO-LEC-11-vocabulario-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "El ruido de la calle vs. el silencio del laboratorio."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "La juventud del equipo vs. la vejez del Dr. Arango."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "La euforia ingenua del equipo vs. la cautela experta del líder."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "La teoría física vs. la práctica experimental."
+                                          }
+                                      ],
+                          "id":  "CO-LEC-11-vocabulario-001-v7",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Qué contraste principal estructura la narrativa de este breve texto?",
+                          "correct_answer":  "C",
+                          "number":  7,
+                          "bundle_id":  "CO-LEC-11-vocabulario-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      }
+                  ]
+}

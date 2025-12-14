@@ -1,0 +1,508 @@
+﻿{
+    "metadata":  {
+                     "total_pages":  1,
+                     "total_questions":  13,
+                     "exam":  "icfes",
+                     "subject":  "Matemáticas",
+                     "generated_at":  "2025-12-13T13:00:55Z",
+                     "country":  "co",
+                     "grade":  "9",
+                     "page":  1
+                 },
+    "questions":  [
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "5"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "7"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "12"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "17"
+                                          }
+                                      ],
+                          "id":  "CO-MAT-09-algebra-001-v2",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Si $x + 5 = 12$, ¿cuánto vale $x$?",
+                          "correct_answer":  "B",
+                          "number":  2,
+                          "bundle_id":  "CO-MAT-09-algebra-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "50 km/h"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "60 km/h"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "75 km/h"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "100 km/h"
+                                          }
+                                      ],
+                          "id":  "CO-MAT-09-algebra-001-v4",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "La gráfica muestra la relación entre el tiempo (en horas) y la distancia recorrida (en kilómetros) por un bus intermunicipal que viaja de Bogotá a Medellín.\n```\nDistancia (km)\n│\n300├─────────────────────●\n   │                   ╱\n200├─────────────●───╱\n   │           ╱\n100├───────●─╱\n   │     ╱\n  0├───●─────────────────\n   0   1   2   3   4   5  Tiempo (h)\n```\nSegún la gráfica, ¿cuál es la velocidad promedio del bus en km/h?",
+                          "correct_answer":  "B",
+                          "number":  4,
+                          "bundle_id":  "CO-MAT-09-algebra-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "$\\$108.000$"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "$\\$126.000$"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "$\\$144.000$"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "$\\$162.000$"
+                                          }
+                                      ],
+                          "id":  "CO-MAT-09-algebra-001-v6",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "En el mercado de la plaza de Villavicencio, doña Carmen vende naranjas y limones. El lunes vendió el doble de kilos de naranjas que de limones. Si en total vendió 36 kilos de frutas y cada kilo de naranjas cuesta $\\$3.000$ y cada kilo de limones cuesta $\\$4.500$, ¿cuánto dinero recibió doña Carmen por la venta del lunes?",
+                          "correct_answer":  "B",
+                          "number":  6,
+                          "bundle_id":  "CO-MAT-09-algebra-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "3"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "17"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "7"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "10"
+                                          }
+                                      ],
+                          "id":  "CO-MAT-09-algebra-mix-001-v2",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Cuál es el valor de $x$ si $x - 7 = 10$?",
+                          "correct_answer":  "B",
+                          "number":  2,
+                          "bundle_id":  "CO-MAT-09-algebra-mix-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "6"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "8"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "12"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "10"
+                                          }
+                                      ],
+                          "id":  "CO-MAT-09-algebra-mix-001-v4",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "La suma de un número y su doble es 24. ¿Cuál es el número?",
+                          "correct_answer":  "B",
+                          "number":  4,
+                          "bundle_id":  "CO-MAT-09-algebra-mix-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Solo 4"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Solo -4"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "8 y -8"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "D",
+                                              "text":  "4 y -4"
+                                          }
+                                      ],
+                          "id":  "CO-MAT-09-algebra-mix-001-v6",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Si $x^2 - 16 = 0$, los posibles valores de $x$ son:",
+                          "correct_answer":  "D",
+                          "number":  6,
+                          "bundle_id":  "CO-MAT-09-algebra-mix-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "1/5"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "2/5"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "3/5"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "2/3"
+                                          }
+                                      ],
+                          "id":  "CO-MAT-09-estadistica-001-bundle-v0",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "En una bolsa hay 3 bolas rojas y 2 bolas azules. ¿Cuál es la probabilidad de sacar una bola **azul** al azar?",
+                          "correct_answer":  "B",
+                          "number":  0,
+                          "bundle_id":  "CO-MAT-09-estadistica-001-bundle",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "1/6"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "2/6 (o 1/3)"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "4/6"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "3/6"
+                                          }
+                                      ],
+                          "id":  "CO-MAT-09-estadistica-001-bundle-v0",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Al lanzar un **dado** de 6 caras, ¿cuál es la probabilidad de sacar un número **mayor que 4**?",
+                          "correct_answer":  "B",
+                          "number":  0,
+                          "bundle_id":  "CO-MAT-09-estadistica-001-bundle",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Sacar un 1."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Sacar un 8."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Sacar un número par."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Sacar un 6."
+                                          }
+                                      ],
+                          "id":  "CO-MAT-09-estadistica-001-bundle-v0",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Cuál de los siguientes es un **evento imposible** al lanzar un dado normal?",
+                          "correct_answer":  "B",
+                          "number":  0,
+                          "bundle_id":  "CO-MAT-09-estadistica-001-bundle",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "3"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "4"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "5"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "12"
+                                          }
+                                      ],
+                          "id":  "CO-MAT-09-estadistica-001-bundle-v0",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Cuál es el **promedio** (media) de las siguientes notas: 3, 4 y 5?",
+                          "correct_answer":  "B",
+                          "number":  0,
+                          "bundle_id":  "CO-MAT-09-estadistica-001-bundle",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "Tienen la misma forma y el mismo tamaño."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Tienen diferente forma pero mismo tamaño."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Tienen la misma forma pero diferente tamaño."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Tienen diferente forma y tamaño."
+                                          }
+                                      ],
+                          "id":  "CO-MAT-09-geometria-001-v2",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Dos figuras son congruentes si:",
+                          "correct_answer":  "A",
+                          "number":  2,
+                          "bundle_id":  "CO-MAT-09-geometria-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Congruente al original."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Semejante al original."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Equilátero."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "De área igual."
+                                          }
+                                      ],
+                          "id":  "CO-MAT-09-geometria-001-v4",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "En un triángulo $\\triangle ABC$, si trazamos una línea paralela a la base $BC$ que corte los otros dos lados, el triángulo pequeño que se forma es:",
+                          "correct_answer":  "B",
+                          "number":  4,
+                          "bundle_id":  "CO-MAT-09-geometria-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "500 km"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "50 km"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "5 km"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "0.5 km"
+                                          }
+                                      ],
+                          "id":  "CO-MAT-09-geometria-001-v6",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "En un mapa a escala 1:100.000, dos ciudades están separadas por 5 cm. ¿Cuál es la distancia real en kilómetros?",
+                          "correct_answer":  "C",
+                          "number":  6,
+                          "bundle_id":  "CO-MAT-09-geometria-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      }
+                  ]
+}

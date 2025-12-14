@@ -1,0 +1,2978 @@
+﻿{
+    "metadata":  {
+                     "total_pages":  1,
+                     "total_questions":  78,
+                     "exam":  "icfes",
+                     "subject":  "Ciencias Naturales",
+                     "generated_at":  "2025-12-13T13:00:54Z",
+                     "country":  "co",
+                     "grade":  "11",
+                     "page":  1
+                 },
+    "questions":  [
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Síntesis de proteínas para el núcleo."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Producción de energía (ATP) a través de la respiración celular."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Almacenamiento de agua y nutrientes."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Control de la división celular."
+                                          }
+                                      ],
+                          "id":  "CO-BIO-11-celular-001-v1",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Cuál es la función principal de la mitocondria según el texto y el conocimiento biológico?",
+                          "correct_answer":  "B",
+                          "number":  1,
+                          "bundle_id":  "CO-BIO-11-celular-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Producir energía para la célula."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Regular qué sustancias entran y salen."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Sintetizar proteínas."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Guardar el material genético."
+                                          }
+                                      ],
+                          "id":  "CO-BIO-11-celular-001-v3",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Cuál es la función principal de la membrana celular mencionada en la lectura?",
+                          "correct_answer":  "B",
+                          "number":  3,
+                          "bundle_id":  "CO-BIO-11-celular-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "La célula perdería sus instrucciones genéticas."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "La célula se quedaría sin energía para sus procesos vitales."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "La membrana celular desaparecería."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Los ribosomas empezarían a producir más ADN."
+                                          }
+                                      ],
+                          "id":  "CO-BIO-11-celular-001-v5",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Qué sucedería inmediatamente en la célula si las mitocondrias dejaran de funcionar?",
+                          "correct_answer":  "B",
+                          "number":  5,
+                          "bundle_id":  "CO-BIO-11-celular-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Las células de la piel necesitan más protección del núcleo."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "El tejido muscular almacena más información genética."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "El tejido muscular tiene una demanda energética mucho mayor para la contracción."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Las mitocondrias en la piel se mueren por el sol."
+                                          }
+                                      ],
+                          "id":  "CO-BIO-11-celular-001-v7",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Las células musculares de un atleta de alto rendimiento tienen muchas más mitocondrias que las células de la piel. Esto se debe a que:",
+                          "correct_answer":  "C",
+                          "number":  7,
+                          "bundle_id":  "CO-BIO-11-celular-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Mitocondria"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Núcleo"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Cloroplasto"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Ribosoma"
+                                          }
+                                      ],
+                          "id":  "CO-BIO-11-celular-002-v1",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Según el texto y sus conocimientos, ¿qué organelo está presente en células vegetales pero NO en células animales?",
+                          "correct_answer":  "C",
+                          "number":  1,
+                          "bundle_id":  "CO-BIO-11-celular-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Pared celular."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Cloroplastos."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Mitocondrias."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Centriolos."
+                                          }
+                                      ],
+                          "id":  "CO-BIO-11-celular-002-v3",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Según la lectura, ¿cuál de los siguientes organelos COMPARTEN las células animales y vegetales?",
+                          "correct_answer":  "C",
+                          "number":  3,
+                          "bundle_id":  "CO-BIO-11-celular-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "La respiración celular para obtener energía."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "La fotosíntesis para producir su propio alimento."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "La división celular rápida."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "El movimiento autónomo."
+                                          }
+                                      ],
+                          "id":  "CO-BIO-11-celular-002-v5",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Cuál es la función biológica fundamental que permiten los cloroplastos y que diferencia a las plantas de los animales?",
+                          "correct_answer":  "B",
+                          "number":  5,
+                          "bundle_id":  "CO-BIO-11-celular-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "A un pino (vegetal)."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "A una bacteria sulfurosa."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "A un ratón (animal)."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "A un virus."
+                                          }
+                                      ],
+                          "id":  "CO-BIO-11-celular-002-v7",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Un científico observa una célula al microscopio y nota que tiene membrana celular, mitocondrias, ribosomas y una gran cantidad de lisosomas, pero no observa pared celular. ¿A qué tipo de organismo pertenece probablemente esta célula?",
+                          "correct_answer":  "C",
+                          "number":  7,
+                          "bundle_id":  "CO-BIO-11-celular-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Productores"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Consumidores primarios"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Consumidores secundarios"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "D",
+                                              "text":  "Descomponedores"
+                                          }
+                                      ],
+                          "id":  "CO-BIO-11-ecologia-001-v1",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "En una cadena alimenticia, los organismos que transforman la materia orgánica muerta en nutrientes inorgánicos se llaman:",
+                          "correct_answer":  "D",
+                          "number":  1,
+                          "bundle_id":  "CO-BIO-11-ecologia-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Productor."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Descomponedor."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Consumidor primario."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Consumidor secundario."
+                                          }
+                                      ],
+                          "id":  "CO-BIO-11-ecologia-001-v3",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Un conejo que se alimenta de zanahorias es un ejemplo de:",
+                          "correct_answer":  "C",
+                          "number":  3,
+                          "bundle_id":  "CO-BIO-11-ecologia-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "La energía se recicla, la materia se pierde."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "La energía fluye (del Sol hacia adelante), la materia se recicla y vuelve al inicio."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Ambos son procesos idénticos."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "La materia viene del Sol, la energía viene del suelo."
+                                          }
+                                      ],
+                          "id":  "CO-BIO-11-ecologia-001-v5",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Cuál es la diferencia fundamental entre el flujo de energía y el ciclo de la materia descritos en el texto?",
+                          "correct_answer":  "B",
+                          "number":  5,
+                          "bundle_id":  "CO-BIO-11-ecologia-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Los insectos polinizaban y las plantas nativas mantenían la estructura y nutrientes del suelo."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Las plantas nativas robaban todo el oxígeno del aire."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Los químicos fertilizaron demasiado el suelo."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Las malas hierbas eran en realidad consumidores secundarios."
+                                          }
+                                      ],
+                          "id":  "CO-BIO-11-ecologia-001-v7",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Un agricultor decide eliminar todas las \"malas hierbas\" (plantas nativas) y los insectos de su cultivo usando químicos fuertes. Tiempo después, nota que la productividad de su suelo ha bajado drásticamente. Desde el punto de vista ecológico, ¿cuál es la explicación más probable?",
+                          "correct_answer":  "",
+                          "number":  7,
+                          "bundle_id":  "CO-BIO-11-ecologia-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "Ojos cafés"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Ojos azules"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Ojos verdes"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "No se puede determinar"
+                                          }
+                                      ],
+                          "id":  "CO-BIO-11-genetica-001-v1",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Si un gen dominante (A) determina ojos cafés y uno recesivo (a) ojos azules, ¿qué fenotipo tendrá un individuo Aa?",
+                          "correct_answer":  "A",
+                          "number":  1,
+                          "bundle_id":  "CO-BIO-11-genetica-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Genotipo."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Cromosoma."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Alelo."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "D",
+                                              "text":  "Fenotipo."
+                                          }
+                                      ],
+                          "id":  "CO-BIO-11-genetica-001-v3",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "La característica física observable de un individuo (como el color de ojos o la altura) se denomina:",
+                          "correct_answer":  "D",
+                          "number":  3,
+                          "bundle_id":  "CO-BIO-11-genetica-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Roja (igual al dominante)."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Blanca (igual al recesivo)."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Rosada (mezcla)."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Roja con manchas blancas."
+                                          }
+                                      ],
+                          "id":  "CO-BIO-11-genetica-001-v5",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Suponga que el color de una flor está determinado por dominancia incompleta, donde el heterocigoto es una mezcla de los padres. Si R (rojo) y r (blanco) se cruzan y producen una flor **Rr**, esta será:",
+                          "correct_answer":  "C",
+                          "number":  5,
+                          "bundle_id":  "CO-BIO-11-genetica-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Con otra planta alta desconocida."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Con una planta alta pura (TT)."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Con una planta baja (tt)."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Con cualquier planta al azar."
+                                          }
+                                      ],
+                          "id":  "CO-BIO-11-genetica-001-v7",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Un agricultor quiere estar 100% seguro de que todas las semillas que venda produzcan plantas altas (rasgo dominante T). Si tiene una planta alta de genotipo desconocido (T?), ¿con qué planta debería cruzarla para averiguar su genotipo (cruce de prueba)?",
+                          "correct_answer":  "C",
+                          "number":  7,
+                          "bundle_id":  "CO-BIO-11-genetica-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "25%"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "50%"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "75%"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "100%"
+                                          }
+                                      ],
+                          "id":  "CO-BIO-11-genetica-002-v1",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Si se cruzan dos individuos heterocigotos (Aa x Aa) para un gen específico, ¿qué proporción de la descendencia será homocigota dominante (AA)?",
+                          "correct_answer":  "A",
+                          "number":  1,
+                          "bundle_id":  "CO-BIO-11-genetica-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "En la membrana celular."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "En los ribosomas."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "En el núcleo celular."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "En el citoplasma libre."
+                                          }
+                                      ],
+                          "id":  "CO-BIO-11-genetica-002-v3",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿En qué lugar de la célula se encuentra almacenada la información genética (ADN), según la lectura?",
+                          "correct_answer":  "C",
+                          "number":  3,
+                          "bundle_id":  "CO-BIO-11-genetica-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Nada, el ADN se repara solo instantáneamente siempre."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Podrían cambiar las instrucciones para construir la proteína correspondiente."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "El núcleo de la célula explotaria."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "El organismo se convertiría en otra especie inmediatamente."
+                                          }
+                                      ],
+                          "id":  "CO-BIO-11-genetica-002-v5",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Qué sucedería si ocurre un cambio (mutación) en el orden de las bases nitrogenadas del ADN de un gen?",
+                          "correct_answer":  "B",
+                          "number":  5,
+                          "bundle_id":  "CO-BIO-11-genetica-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "La clonación de ovejas idénticas."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Insertar un gen humano en una bacteria para que produzca insulina."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Prevenir todas las enfermedades hereditarias."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Crear vida a partir de materia inorgánica en el laboratorio."
+                                          }
+                                      ],
+                          "id":  "CO-BIO-11-genetica-002-v7",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "El principio de que \"el código genético es universal\" (casi todos los organismos usan las mismas bases A, T, C, G para codificar proteínas) permite avances biotecnológicos como:",
+                          "correct_answer":  "B",
+                          "number":  7,
+                          "bundle_id":  "CO-BIO-11-genetica-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "Se expresa siempre que está presente, aunque sea en una sola copia"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Solo se expresa cuando hay dos copias iguales del gen"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Es el alelo más común en una población"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Siempre causa enfermedades"
+                                          }
+                                      ],
+                          "id":  "CO-CIE-11-biologia-001-v2",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Cuál de las siguientes opciones describe correctamente un alelo dominante?",
+                          "correct_answer":  "A",
+                          "number":  2,
+                          "bundle_id":  "CO-CIE-11-biologia-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "0%"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "25%"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "50%"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "75%"
+                                          }
+                                      ],
+                          "id":  "CO-CIE-11-biologia-001-v4",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "En el colibrí quincha (Boissonneaua flavescens), endémico de los Andes colombianos, el color del pecho puede ser verde (V) o amarillo (v). Un investigador de la Universidad Nacional cruza dos colibríes heterocigotos (Vv × Vv).\n¿Cuál es la probabilidad de que una cría tenga pecho amarillo?",
+                          "correct_answer":  "B",
+                          "number":  4,
+                          "bundle_id":  "CO-CIE-11-biologia-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "100% roan"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "75% roan, 25% rojo"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "25% rojo, 50% roan, 25% blanco"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "50% rojo, 50% blanco"
+                                          }
+                                      ],
+                          "id":  "CO-CIE-11-biologia-001-v6",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "En el ganado bovino de la Sabana de Bogotá, el color del pelaje está determinado por dos alelos codominantes: rojo (R) y blanco (B). Los individuos RB presentan pelaje \"roan\" (mezcla de pelos rojos y blancos).\nSi se cruzan dos bovinos roan (RB × RB), ¿cuál es la proporción fenotípica esperada en la descendencia?",
+                          "correct_answer":  "C",
+                          "number":  6,
+                          "bundle_id":  "CO-CIE-11-biologia-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "El esfuerzo voluntario de los individuos por mejorar."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Las mutaciones provocadas intencionalmente por el ambiente."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "La supervivencia y reproducción diferencial de los individuos mejor adaptados."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "La transmisión de caracteres adquiridos durante la vida."
+                                          }
+                                      ],
+                          "id":  "CO-CIE-11-biologia-002-v1",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Según la teoría de la **Selección Natural** propuesta por Charles Darwin, ¿cuál es el mecanismo principal que impulsa la evolución de las especies?",
+                          "correct_answer":  "C",
+                          "number":  1,
+                          "bundle_id":  "CO-CIE-11-biologia-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Las procariotas no tienen ADN."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Las eucariotas no tienen membrana celular."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Las eucariotas tienen núcleo definido y organelos membranosos, y las procariotas no."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Las procariotas son siempre pluricelulares."
+                                          }
+                                      ],
+                          "id":  "CO-CIE-11-biologia-002-v3",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "La diferencia fundamental entre una célula **procariota** (como una bacteria) y una **eucariota** (como una célula humana) es que:",
+                          "correct_answer":  "C",
+                          "number":  3,
+                          "bundle_id":  "CO-CIE-11-biologia-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Los solutos se mueven de menor a mayor concentración."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "El agua se mueve a través de una membrana semipermeable hacia donde hay mayor concentración de solutos."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "La célula gasta energía para expulsar desechos."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Las proteínas entran a la célula."
+                                          }
+                                      ],
+                          "id":  "CO-CIE-11-biologia-002-v5",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "La **Ósmosis** es el proceso mediante el cual:",
+                          "correct_answer":  "B",
+                          "number":  5,
+                          "bundle_id":  "CO-CIE-11-biologia-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Inmunidad adquirida individual."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Selección natural actuando sobre una variación genética preexistente."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Mutación causada directamente por el antibiótico para salvarse."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Adaptación consciente de las bacterias."
+                                          }
+                                      ],
+                          "id":  "CO-CIE-11-biologia-002-v7",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Se observa una población de bacterias que es tratada con un antibiótico. Inicialmente mueren casi todas, pero unas pocas sobreviven y se reproducen. La nueva población es ahora resistente al antibiótico. Este es un ejemplo de:",
+                          "correct_answer":  "B",
+                          "number":  7,
+                          "bundle_id":  "CO-CIE-11-biologia-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Debe estar en reposo obligatoriamente."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Debe moverse con velocidad creciente."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Se moverá en círculos."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "D",
+                                              "text":  "Permanecerá en reposo o se moverá con velocidad constante en línea recta."
+                                          }
+                                      ],
+                          "id":  "CO-CIE-11-fisica-001-v2",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Según la Primera Ley de Newton (Inercia), si la fuerza neta que actúa sobre un objeto es cero, el objeto:",
+                          "correct_answer":  "D",
+                          "number":  2,
+                          "bundle_id":  "CO-CIE-11-fisica-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "El objeto de plomo porque es más pesado."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "El objeto de madera porque tiene menos inercia."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Ambos llegan al mismo tiempo."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Depende de la forma de los objetos."
+                                          }
+                                      ],
+                          "id":  "CO-CIE-11-fisica-001-v4",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Dos objetos, uno de plomo (pesado) y otro de madera (ligero), se dejan caer desde la misma altura en una cámara de vacío (sin aire). ¿Cuál llega primero al suelo?",
+                          "correct_answer":  "C",
+                          "number":  4,
+                          "bundle_id":  "CO-CIE-11-fisica-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "10 Joules"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "50 Joules"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "100 Joules"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "200 Joules"
+                                          }
+                                      ],
+                          "id":  "CO-CIE-11-fisica-001-v6",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Una pelota de 0.5 kg se deja caer desde una altura de 20 metros. Despreciando la resistencia del aire y asumiendo $g = 10 \\text{ m/s}^2$, ¿cuál es su energía cinética justo antes de tocar el suelo?",
+                          "correct_answer":  "C",
+                          "number":  6,
+                          "bundle_id":  "CO-CIE-11-fisica-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "6 A"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "3 A"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "2 A"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "9 A"
+                                          }
+                                      ],
+                          "id":  "CO-CIE-11-fisica-002-v1",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Dos resistencias de 10 ohmios ($\\Omega$) y 20 ohmios ($\\Omega$) se conectan en serie a una fuente de voltaje de 60 voltios (V). ¿Cuál es la corriente eléctrica que circula por el circuito?",
+                          "correct_answer":  "C",
+                          "number":  1,
+                          "bundle_id":  "CO-CIE-11-fisica-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Obtenemos un polo Norte aislado y un polo Sur aislado."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Obtenemos dos imanes más pequeños, cada uno con su propio polo Norte y Sur."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Los pedazos pierden su propiedad magnética."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Se convierten en cargas eléctricas."
+                                          }
+                                      ],
+                          "id":  "CO-CIE-11-fisica-002-v3",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Un imán permanente tiene dos polos, Norte (N) y Sur (S). Si partimos el imán por la mitad, ¿qué sucede con los pedazos?",
+                          "correct_answer":  "B",
+                          "number":  3,
+                          "bundle_id":  "CO-CIE-11-fisica-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "La carga se mueve paralela a las líneas del campo magnético."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "La carga se mueve perpendicular a las líneas del campo magnético."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "La carga está en reposo ($v = 0$)."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "La masa de la carga es muy pequeña."
+                                          }
+                                      ],
+                          "id":  "CO-CIE-11-fisica-002-v5",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Una carga eléctrica $q$ se mueve con velocidad $v$ dentro de un campo magnético uniforme $B$. La fuerza magnética que experimenta la carga es máxima cuando:",
+                          "correct_answer":  "B",
+                          "number":  5,
+                          "bundle_id":  "CO-CIE-11-fisica-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "10 Amperios"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "20 Amperios"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "30 Amperios"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "50 Amperios"
+                                          }
+                                      ],
+                          "id":  "CO-CIE-11-fisica-002-v7",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "En una casa, se conecta una ducha eléctrica de 4400 Watts a una red de 220 Voltios. Para proteger la instalación, ¿cuál debe ser la capacidad mínima del fusible o \"taco\" (breaker)?",
+                          "correct_answer":  "B",
+                          "number":  7,
+                          "bundle_id":  "CO-CIE-11-fisica-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Básica fuerte"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Neutra"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Ácida"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Básica débil"
+                                          }
+                                      ],
+                          "id":  "CO-CIE-11-quimica-001-v1",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "El pH de una solución acuosa desconocida es 3. Basado en la escala de pH, esta solución se clasifica como:",
+                          "correct_answer":  "C",
+                          "number":  1,
+                          "bundle_id":  "CO-CIE-11-quimica-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Protón"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Neutrón"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Electrón"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Fotón"
+                                          }
+                                      ],
+                          "id":  "CO-CIE-11-quimica-001-v3",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Cuál es la partícula subatómica que tiene carga eléctrica negativa y orbita alrededor del núcleo?",
+                          "correct_answer":  "C",
+                          "number":  3,
+                          "bundle_id":  "CO-CIE-11-quimica-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "Aumenta."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Disminuye."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Permanece igual."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Se hace cero."
+                                          }
+                                      ],
+                          "id":  "CO-CIE-11-quimica-001-v5",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Si se aumenta la temperatura de un gas confinado en un recipiente rígido (volumen constante), ¿qué sucede con la presión del gas?",
+                          "correct_answer":  "A",
+                          "number":  5,
+                          "bundle_id":  "CO-CIE-11-quimica-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Reactivo límite: $H_2$. Se producen 4 moles de agua."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Reactivo límite: $O_2$. Se produce 1 mol de agua."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Reactivo límite: $O_2$. Se producen 2 moles de agua."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "No hay reactivo límite. Se producen 5 moles de agua."
+                                          }
+                                      ],
+                          "id":  "CO-CIE-11-quimica-001-v7",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Se hacen reaccionar 4 moles de hidrógeno ($H_2$) con 1 mol de oxígeno ($O_2$) para producir agua ($H_2O$) según la reacción: $2H_2 + O_2 \\rightarrow 2H_2O$.\n¿Cuál es el reactivo límite y cuántos moles de agua se producen teóricamente?",
+                          "correct_answer":  "C",
+                          "number":  7,
+                          "bundle_id":  "CO-CIE-11-quimica-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "6 J"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "12 J"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "18 J"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "36 J"
+                                          }
+                                      ],
+                          "id":  "CO-FIS-11-energia-001-v1",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Cuál es la energía cinética de un objeto de 4 kg que se mueve a 3 m/s?",
+                          "correct_answer":  "C",
+                          "number":  1,
+                          "bundle_id":  "CO-FIS-11-energia-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "Energía potencial gravitacional."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Energía cinética."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Energía elástica."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Energía térmica."
+                                          }
+                                      ],
+                          "id":  "CO-FIS-11-energia-001-v3",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Cuando un objeto se encuentra en reposo a cierta altura del suelo, posee principalmente:",
+                          "correct_answer":  "A",
+                          "number":  3,
+                          "bundle_id":  "CO-FIS-11-energia-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Su energía cinética disminuye y la potencial aumenta."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Su energía potencial disminuye y la cinética aumenta."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Ambas energías aumentan."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Ambas energías permanecen constantes."
+                                          }
+                                      ],
+                          "id":  "CO-FIS-11-energia-001-v5",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Si dejamos caer una pelota desde un edificio, a medida que desciende:",
+                          "correct_answer":  "B",
+                          "number":  5,
+                          "bundle_id":  "CO-FIS-11-energia-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "La energía cinética de A es el doble que la de B."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "La energía cinética de A es cuatro veces la de B."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "La energía cinética de A es la mitad que la de B."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Ambas energías cinéticas son iguales."
+                                          }
+                                      ],
+                          "id":  "CO-FIS-11-energia-001-v7",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Dos automóviles, A y B, tienen la misma masa. Si el automóvil A viaja al doble de velocidad que el automóvil B ($v_A = 2v_B$), ¿cómo se compara su energía cinética?",
+                          "correct_answer":  "B",
+                          "number":  7,
+                          "bundle_id":  "CO-FIS-11-energia-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "4 metros"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "25 metros"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "100 metros"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "200 metros"
+                                          }
+                                      ],
+                          "id":  "CO-FIS-11-mecanica-001-v1",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Un auto viaja a velocidad constante de 20 m/s. ¿Qué distancia recorre en 5 segundos?",
+                          "correct_answer":  "C",
+                          "number":  1,
+                          "bundle_id":  "CO-FIS-11-mecanica-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "Cero."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "9.8 m/s²."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Igual a la velocidad."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Infinita."
+                                          }
+                                      ],
+                          "id":  "CO-FIS-11-mecanica-001-v3",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Si un objeto se mueve con velocidad constante, ¿cuánto vale su aceleración?",
+                          "correct_answer":  "A",
+                          "number":  3,
+                          "bundle_id":  "CO-FIS-11-mecanica-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "La aceleración."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "El tiempo transcurrido."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "La velocidad."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "La fuerza neta."
+                                          }
+                                      ],
+                          "id":  "CO-FIS-11-mecanica-001-v5",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "En una gráfica de Posición vs. Tiempo ($x$ contra $t$) para un MRU, la línea recta resultante representa el movimiento. ¿Qué magnitud física representa la **pendiente** (inclinación) de dicha recta?",
+                          "correct_answer":  "C",
+                          "number":  5,
+                          "bundle_id":  "CO-FIS-11-mecanica-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Se detendrá eventualmente porque se le acaba el impulso."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Empezará a girar en círculos."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Continuará moviéndose en línea recta a velocidad constante eternamente."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Acelerará constantemente hasta la velocidad de la luz."
+                                          }
+                                      ],
+                          "id":  "CO-FIS-11-mecanica-001-v7",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Un objeto se mueve en el espacio interestelar (vacío) alejándose de cualquier estrella o planeta. Si no actúa ninguna fuerza sobre él, ¿cómo será su movimiento según las leyes de Newton y el concepto de MRU?",
+                          "correct_answer":  "C",
+                          "number":  7,
+                          "bundle_id":  "CO-FIS-11-mecanica-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "0.2 m/s²"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "2 m/s²"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "5 m/s²"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "20 m/s²"
+                                          }
+                                      ],
+                          "id":  "CO-FIS-11-mecanica-002-v1",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Una fuerza de 10 N se aplica a un objeto de 2 kg. ¿Cuál es su aceleración?",
+                          "correct_answer":  "C",
+                          "number":  1,
+                          "bundle_id":  "CO-FIS-11-mecanica-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Aplicar la misma fuerza."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Aplicar una fuerza menor."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Aplicar una fuerza mucho mayor."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "No aplicar ninguna fuerza."
+                                          }
+                                      ],
+                          "id":  "CO-FIS-11-mecanica-002-v3",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Qué se requiere para impartir la misma aceleración a un objeto de gran masa en comparación con uno de poca masa?",
+                          "correct_answer":  "C",
+                          "number":  3,
+                          "bundle_id":  "CO-FIS-11-mecanica-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Se duplicará."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Se reducirá a la mitad."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Se mantendrá igual."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Se cuadruplicará."
+                                          }
+                                      ],
+                          "id":  "CO-FIS-11-mecanica-002-v5",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Si a un carro de juguete se le aplica una fuerza constante, pero de repente se le coloca una carga que duplica su masa total, ¿qué pasará con su aceleración?",
+                          "correct_answer":  "B",
+                          "number":  5,
+                          "bundle_id":  "CO-FIS-11-mecanica-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "El camión ejerce más fuerza sobre el auto porque es más grande."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "El auto ejerce más fuerza sobre el camión porque es más frágil."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Ambos ejercen exactamente la misma magnitud de fuerza el uno sobre el otro."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "No se ejercen fuerzas si ambos se mueven."
+                                          }
+                                      ],
+                          "id":  "CO-FIS-11-mecanica-002-v7",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Durante un choque, un camión grande golpea a un auto pequeño. Según la Tercera Ley de Newton (Acción y Reacción), ¿cómo son las fuerzas que experimentan ambos vehículos?",
+                          "correct_answer":  "C",
+                          "number":  7,
+                          "bundle_id":  "CO-FIS-11-mecanica-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "10 m/s"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "20 m/s"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "40 m/s"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "200 m/s"
+                                          }
+                                      ],
+                          "id":  "CO-FIS-11-mecanica-003-v1",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Un objeto se deja caer desde una altura de 20 metros. Despreciando la resistencia del aire y tomando $g = 10 \\text{ m/s}^2$, ¿con qué velocidad llega al suelo?",
+                          "correct_answer":  "B",
+                          "number":  1,
+                          "bundle_id":  "CO-FIS-11-mecanica-003",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "La bola cae mucho más rápido."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "La pluma flota y nunca cae."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Ambas caen y llegan al suelo al mismo tiempo."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Ambas suben hacia el techo."
+                                          }
+                                      ],
+                          "id":  "CO-FIS-11-mecanica-003-v3",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Si dejamos caer una bola de boliche y una pluma al mismo tiempo dentro de una cámara de vacío (sin aire), ¿qué ocurrirá?",
+                          "correct_answer":  "C",
+                          "number":  3,
+                          "bundle_id":  "CO-FIS-11-mecanica-003",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Cero, porque se detiene momentáneamente."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "$9.8 \\text{ m/s}^2$ hacia abajo."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "$9.8 \\text{ m/s}^2$ hacia arriba."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Depende de la masa de la pelota."
+                                          }
+                                      ],
+                          "id":  "CO-FIS-11-mecanica-003-v5",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Qué valor tiene la aceleración de una pelota justo en el punto más alto de su trayectoria cuando es lanzada verticalmente hacia arriba?",
+                          "correct_answer":  "B",
+                          "number":  5,
+                          "bundle_id":  "CO-FIS-11-mecanica-003",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Una línea horizontal (velocidad constante)."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Una curva parabólica."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Una línea recta inclinada que parte del origen."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Una línea recta que baja hasta llegar a cero."
+                                          }
+                                      ],
+                          "id":  "CO-FIS-11-mecanica-003-v7",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "En una gráfica de Velocidad contra Tiempo ($v$ vs $t$) para un objeto en caída libre (que parte del reposo), ¿cómo se ve la línea que representa el movimiento?",
+                          "correct_answer":  "C",
+                          "number":  7,
+                          "bundle_id":  "CO-FIS-11-mecanica-003",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Electromagnética transversal"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Mecánica longitudinal"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Electromagnética longitudinal"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Mecánica transversal"
+                                          }
+                                      ],
+                          "id":  "CO-FIS-11-ondas-001-v1",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "El sonido es una onda:",
+                          "correct_answer":  "B",
+                          "number":  1,
+                          "bundle_id":  "CO-FIS-11-ondas-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "El sonido."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "La luz."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Una onda en una cuerda."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Una onda en el agua."
+                                          }
+                                      ],
+                          "id":  "CO-FIS-11-ondas-001-v3",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Cuál de los siguientes es un ejemplo de onda electromagnética mencionado en el texto?",
+                          "correct_answer":  "B",
+                          "number":  3,
+                          "bundle_id":  "CO-FIS-11-ondas-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "0.02 segundos."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "50 segundos."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "0.5 segundos."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "2 segundos."
+                                          }
+                                      ],
+                          "id":  "CO-FIS-11-ondas-001-v5",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Si una onda tiene una frecuencia de 50 Hz, ¿cuál es su periodo (tiempo que tarda en completar un ciclo)?",
+                          "correct_answer":  "A",
+                          "number":  5,
+                          "bundle_id":  "CO-FIS-11-ondas-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Reflexión."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Difracción."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Efecto Doppler."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Resonancia."
+                                          }
+                                      ],
+                          "id":  "CO-FIS-11-ondas-001-v7",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Cuando una ambulancia se acerca a un observador, la sirena se escucha más aguda (mayor frecuencia) que cuando se aleja. Este fenómeno se conoce como:",
+                          "correct_answer":  "C",
+                          "number":  7,
+                          "bundle_id":  "CO-FIS-11-ondas-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "Ácida"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Neutra"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Básica"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "No se puede determinar"
+                                          }
+                                      ],
+                          "id":  "CO-QUI-11-acidobase-001-v1",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Una solución con pH = 3 es:",
+                          "correct_answer":  "A",
+                          "number":  1,
+                          "bundle_id":  "CO-QUI-11-acidobase-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Jugo de limón."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Vinagre."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Jabón."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Agua pura."
+                                          }
+                                      ],
+                          "id":  "CO-QUI-11-acidobase-001-v3",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Cuál de los siguientes es un ejemplo de sustancia básica (alcalina) mencionado en el texto?",
+                          "correct_answer":  "C",
+                          "number":  3,
+                          "bundle_id":  "CO-QUI-11-acidobase-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "La Solución A."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "La Solución B."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Ambas son igual de ácidas."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Ninguna es ácida."
+                                          }
+                                      ],
+                          "id":  "CO-QUI-11-acidobase-001-v5",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Se tienen dos soluciones ácidas: la Solución A con pH 2 y la Solución B con pH 5. ¿Cuál es más ácida?",
+                          "correct_answer":  "A",
+                          "number":  5,
+                          "bundle_id":  "CO-QUI-11-acidobase-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Dos gases."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Un metal y un no metal."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Una sal y agua."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Óxidos ácidos."
+                                          }
+                                      ],
+                          "id":  "CO-QUI-11-acidobase-001-v7",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "En una reacción de neutralización, un ácido reacciona con una base para formar dos productos principales. Estos son generalmente:",
+                          "correct_answer":  "C",
+                          "number":  7,
+                          "bundle_id":  "CO-QUI-11-acidobase-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Electrón"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Neutrón"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Protón"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Fotón"
+                                          }
+                                      ],
+                          "id":  "CO-QUI-11-atomica-001-v1",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Qué partícula subatómica tiene carga positiva?",
+                          "correct_answer":  "C",
+                          "number":  1,
+                          "bundle_id":  "CO-QUI-11-atomica-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "Electrón."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Protón."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Neutrón."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Núcleo."
+                                          }
+                                      ],
+                          "id":  "CO-QUI-11-atomica-001-v3",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Qué partícula subatómica tiene carga eléctrica negativa?",
+                          "correct_answer":  "A",
+                          "number":  3,
+                          "bundle_id":  "CO-QUI-11-atomica-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Electrones."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Neutrones."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Protones."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Niveles de energía."
+                                          }
+                                      ],
+                          "id":  "CO-QUI-11-atomica-001-v5",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Los isótopos son átomos del mismo elemento que tienen el mismo número de protones pero diferente número másico. Esto significa que difieren en la cantidad de:",
+                          "correct_answer":  "B",
+                          "number":  5,
+                          "bundle_id":  "CO-QUI-11-atomica-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "11"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "12"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "10"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "1"
+                                          }
+                                      ],
+                          "id":  "CO-QUI-11-atomica-001-v7",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Un ion de Sodio ($Na^+$) tiene 11 protones. Si su carga neta es +1, ¿cuántos electrones tiene orbitando?",
+                          "correct_answer":  "C",
+                          "number":  7,
+                          "bundle_id":  "CO-QUI-11-atomica-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "6"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "12"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "24"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Depende del isótopo"
+                                          }
+                                      ],
+                          "id":  "CO-QUI-11-atomica-002-v1",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Un átomo neutro tiene 12 protones. ¿Cuántos electrones tiene?",
+                          "correct_answer":  "B",
+                          "number":  1,
+                          "bundle_id":  "CO-QUI-11-atomica-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "El tamaño del núcleo atómico."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "La capacidad para atraer electrones."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "La cantidad de neutrones."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "La velocidad de los electrones."
+                                          }
+                                      ],
+                          "id":  "CO-QUI-11-atomica-002-v3",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "La electronegatividad se define en el texto como:",
+                          "correct_answer":  "B",
+                          "number":  3,
+                          "bundle_id":  "CO-QUI-11-atomica-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Uno ubicado abajo a la izquierda (como el Francio)."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Uno ubicado arriba a la derecha (como el Flúor)."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Uno ubicado en el centro (Metales de transición)."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Todos tienen la misma electronegatividad."
+                                          }
+                                      ],
+                          "id":  "CO-QUI-11-atomica-002-v5",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Basado en la tendencia descrita, ¿cuál elemento sería más electronegativo (atrapa electrones con más fuerza)?",
+                          "correct_answer":  "B",
+                          "number":  5,
+                          "bundle_id":  "CO-QUI-11-atomica-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Porque tienen núcleos muy inestables."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Porque tienen su capa de valencia completa con 8 electrones."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Porque no tienen electrones."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Porque son sólidos a temperatura ambiente."
+                                          }
+                                      ],
+                          "id":  "CO-QUI-11-atomica-002-v7",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Los elementos del Grupo VIII (o 18) como el Neón y el Argón son conocidos como Gases Nobles. ¿Por qué son químicamente inertes (no reaccionan fácilmente)?",
+                          "correct_answer":  "B",
+                          "number":  7,
+                          "bundle_id":  "CO-QUI-11-atomica-002",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Dos metales"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Dos no metales"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Un metal y un no metal"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Gases nobles"
+                                          }
+                                      ],
+                          "id":  "CO-QUI-11-enlaces-001-v1",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "El enlace iónico se forma principalmente entre:",
+                          "correct_answer":  "C",
+                          "number":  1,
+                          "bundle_id":  "CO-QUI-11-enlaces-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Agua ($H_2O$)"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Oxígeno gaseoso ($O_2$)"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Sal de mesa ($NaCl$)"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Diamante ($C$)"
+                                          }
+                                      ],
+                          "id":  "CO-QUI-11-enlaces-001-v3",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "¿Cuál de los siguientes es un ejemplo clásico de compuesto iónico mencionado o deducible por su composición (Metal + No Metal)?",
+                          "correct_answer":  "C",
+                          "number":  3,
+                          "bundle_id":  "CO-QUI-11-enlaces-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Tienen enlaces covalentes muy fuertes."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Sus átomos están muy separados."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Sus electrones fluyen libremente en una \"nube electrónica\"."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Tienen una alta electronegatividad."
+                                          }
+                                      ],
+                          "id":  "CO-QUI-11-enlaces-001-v5",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Los metales son buenos conductores de la electricidad porque:",
+                          "correct_answer":  "C",
+                          "number":  5,
+                          "bundle_id":  "CO-QUI-11-enlaces-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "La atracción electrostática entre iones en la red cristalina es muy fuerte."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Los enlaces covalentes son más fuertes que los iónicos en todos los casos."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Las sustancias covalentes no forman moléculas."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Los iones pesan más que las moléculas."
+                                          }
+                                      ],
+                          "id":  "CO-QUI-11-enlaces-001-v7",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Las sustancias iónicas (como la sal) suelen ser sólidos cristalinos con altos puntos de fusión, mientras que muchas sustancias covalentes (como el agua o el azúcar) tienen puntos de fusión más bajos. Esto se debe a que:",
+                          "correct_answer":  "A",
+                          "number":  7,
+                          "bundle_id":  "CO-QUI-11-enlaces-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "2 moles"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "4 moles"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "6 moles"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "8 moles"
+                                          }
+                                      ],
+                          "id":  "CO-QUI-11-estequiometria-001-v1",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "En la reacción: $2H_2 + O_2 \\rightarrow 2H_2O$, si se tienen 4 moles de $H_2$, ¿cuántos moles de $H_2O$ se producen?",
+                          "correct_answer":  "B",
+                          "number":  1,
+                          "bundle_id":  "CO-QUI-11-estequiometria-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "La proporción de moles de cada sustancia."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "El número de protones en el núcleo."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "La temperatura de la reacción."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "La velocidad de la reacción."
+                                          }
+                                      ],
+                          "id":  "CO-QUI-11-estequiometria-001-v3",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "En la ecuación $N_2 + 3H_2 \\rightarrow 2NH_3$, ¿qué indican los números grandes (coeficientes) antes de las fórmulas?",
+                          "correct_answer":  "A",
+                          "number":  3,
+                          "bundle_id":  "CO-QUI-11-estequiometria-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "18 g."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "9 g."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "36 g."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "20 g."
+                                          }
+                                      ],
+                          "id":  "CO-QUI-11-estequiometria-001-v5",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Si la masa molar del $H_2O$ es $18 \\text{ g/mol}$, ¿cuántos gramos pesan 2 moles de agua?",
+                          "correct_answer":  "C",
+                          "number":  5,
+                          "bundle_id":  "CO-QUI-11-estequiometria-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "A",
+                                              "text":  "1 mol"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "2 moles"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "0.5 moles"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "4 moles"
+                                          }
+                                      ],
+                          "id":  "CO-QUI-11-estequiometria-001-v7",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "En la reacción $2Mg + O_2 \\rightarrow 2MgO$, si deseamos producir exactamente 2 moles de Óxido de Magnesio ($MgO$), ¿cuántos moles de Oxígeno ($O_2$) necesitamos reaccionar como mínimo?",
+                          "correct_answer":  "A",
+                          "number":  7,
+                          "bundle_id":  "CO-QUI-11-estequiometria-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      }
+                  ]
+}

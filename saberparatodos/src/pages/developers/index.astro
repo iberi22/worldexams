@@ -1,0 +1,68 @@
+---
+import Layout from '../../layouts/Layout.astro';
+---
+
+<Layout title="Developer Portal | World Exams">
+  <div class="min-h-screen bg-[#121212] text-[#F5F5DC] p-8">
+    <div class="max-w-4xl mx-auto">
+      <header class="mb-12 border-b border-[#333] pb-8">
+        <h1 class="text-4xl font-bold font-mono mb-4 text-[#FCD116]">Developer Portal</h1>
+        <p class="text-[#A0A0A0] text-lg">
+          Build educational apps with the world's largest open source exam database.
+        </p>
+      </header>
+
+      <div class="grid md:grid-cols-2 gap-8">
+        <!-- API Keys Section -->
+        <div class="bg-[#1A1A1A] p-6 rounded-lg border border-[#333]">
+          <h2 class="text-2xl font-bold mb-4 flex items-center gap-2">
+            <span class="text-[#003893]">🔑</span> API Keys
+          </h2>
+          <p class="text-[#A0A0A0] mb-6">
+            Manage your API keys to access the World Exams API.
+          </p>
+          <a
+            href="/developers/dashboard"
+            class="inline-block bg-[#003893] hover:bg-[#002776] text-white px-6 py-3 rounded-lg font-bold transition-colors"
+          >
+            Go to Dashboard
+          </a>
+        </div>
+
+        <!-- Documentation Section -->
+        <div class="bg-[#1A1A1A] p-6 rounded-lg border border-[#333]">
+          <h2 class="text-2xl font-bold mb-4 flex items-center gap-2">
+            <span class="text-[#CE1126]">📚</span> Documentation
+          </h2>
+          <p class="text-[#A0A0A0] mb-6">
+            Explore the API reference and integration guides.
+          </p>
+          <a
+            href="/developers/docs"
+            class="inline-block bg-[#1A1A1A] border border-[#A0A0A0] hover:border-white text-white px-6 py-3 rounded-lg font-bold transition-colors"
+          >
+            Read Docs
+          </a>
+        </div>
+      </div>
+
+      <div class="mt-12 bg-[#1A1A1A] p-8 rounded-lg border border-[#333]">
+        <h3 class="text-xl font-bold mb-4">Why use our API?</h3>
+        <ul class="space-y-3 text-[#A0A0A0]">
+          <li class="flex items-start gap-2">
+            <span class="text-green-500">✓</span>
+            <span>**Always Updated:** Get the latest questions instantly.</span>
+          </li>
+          <li class="flex items-start gap-2">
+            <span class="text-green-500">✓</span>
+            <span>**Clean JSON:** No need to parse Markdown files manually.</span>
+          </li>
+          <li class="flex items-start gap-2">
+            <span class="text-green-500">✓</span>
+            <span>**Legal Compliance:** Commercial licenses included with API plans.</span>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</Layout>

@@ -1,0 +1,128 @@
+﻿{
+    "metadata":  {
+                     "total_pages":  1,
+                     "total_questions":  3,
+                     "exam":  "icfes",
+                     "subject":  "Ciencias Naturales",
+                     "generated_at":  "2025-12-13T13:00:54Z",
+                     "country":  "co",
+                     "grade":  "9",
+                     "page":  1
+                 },
+    "questions":  [
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Consumidores"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Productores"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Descomponedores"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Depredadores"
+                                          }
+                                      ],
+                          "id":  "CO-CIE-09-ecosistemas-001-v2",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "En un ecosistema, los organismos que fabrican su propio alimento utilizando la luz solar se llaman:",
+                          "correct_answer":  "B",
+                          "number":  2,
+                          "bundle_id":  "CO-CIE-09-ecosistemas-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Low",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Disminuirá drásticamente."
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "B",
+                                              "text":  "Aumentará rápidamente al no tener depredadores."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "C",
+                                              "text":  "Los venados se volverán carnívoros."
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "No habrá ningún cambio."
+                                          }
+                                      ],
+                          "id":  "CO-CIE-09-ecosistemas-001-v4",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Si en un bosque desaparecen los lobos (consumidores secundarios y depredadores de venados), ¿qué efecto inmediato se espera en la población de venados (consumidores primarios)?",
+                          "correct_answer":  "B",
+                          "number":  4,
+                          "bundle_id":  "CO-CIE-09-ecosistemas-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "Medium",
+                          "source_url":  "https://www.icfes.gov.co"
+                      },
+                      {
+                          "options":  [
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "A",
+                                              "text":  "Eutrofización"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "B",
+                                              "text":  "Fotosíntesis"
+                                          },
+                                          {
+                                              "is_correct":  true,
+                                              "letter":  "C",
+                                              "text":  "Bioacumulación (o Biomagnificación)"
+                                          },
+                                          {
+                                              "is_correct":  false,
+                                              "letter":  "D",
+                                              "text":  "Descomposición"
+                                          }
+                                      ],
+                          "id":  "CO-CIE-09-ecosistemas-001-v6",
+                          "tags":  [
+
+                                   ],
+                          "statement":  "Se observa que en una laguna contaminada con mercurio, los peces grandes tienen concentraciones mucho mayores del tóxico que las algas. Este fenómeno se conoce como:",
+                          "correct_answer":  "C",
+                          "number":  6,
+                          "bundle_id":  "CO-CIE-09-ecosistemas-001",
+                          "images":  [
+
+                                     ],
+                          "explanation":  "",
+                          "difficulty":  "High",
+                          "source_url":  "https://www.icfes.gov.co"
+                      }
+                  ]
+}

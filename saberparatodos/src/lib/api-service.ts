@@ -5,7 +5,7 @@
 
 // API Configuration - Can be overridden via environment variables
 // API Configuration - Always use production API since local API routes were removed
-const API_BASE_URL = import.meta.env.PUBLIC_API_BASE_URL || 'https://worldexams.pages.dev/api/v1';
+const API_BASE_URL = import.meta.env.PUBLIC_API_BASE_URL || 'https://worldexams-api.pages.dev/v1';
 const COUNTRY_CODE = 'co';
 const EXAM_TYPE = 'icfes';
 
@@ -166,11 +166,11 @@ export async function fetchQuestions(
     return questionCache.get(cacheKey)!;
   }
 
-  const url = `${API_BASE_URL}/${COUNTRY_CODE}/${EXAM_TYPE}/${grade}/${subject}/${page}.json`;
+  const url = `${API_BASE_URL}/${COUNTRY_CODE}/${EXAM_TYPE}/${grade}/${subject}/${page}.json?t=${Date.now()}`;
 
   try {
     console.log(`🌐 Fetching questions from: ${url}`);
-    const response = await fetch(url);
+    const response = await fetch(url, { cache: 'no-cache' });
 
     if (!response.ok) {
       throw new Error(`Failed to fetch questions: ${response.status}`);
@@ -208,8 +208,9 @@ export async function fetchAllQuestionsForGrade(grade: number): Promise<AppQuest
   for (const subject of subjects) {
     try {
       // First get the index to know how many pages
-      const indexUrl = `${API_BASE_URL}/${COUNTRY_CODE}/${EXAM_TYPE}/${grade}/${subject}/index.json`;
-      const indexResponse = await fetch(indexUrl);
+      const indexUrl = `${API_BASE_URL}/${COUNTRY_CODE}/${EXAM_TYPE}/${grade}/${subject}/index.json?t=${Date.now()}`;
+      console.log(`🔍 Fetching index from: ${indexUrl}`);
+      const indexResponse = await fetch(indexUrl, { cache: 'no-cache' });
 
       if (!indexResponse.ok) {
         console.warn(`No index found for ${subject}, trying page 1 only`);

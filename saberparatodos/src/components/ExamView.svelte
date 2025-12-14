@@ -285,7 +285,7 @@
           {#each safeOptions as option (option.id)}
             <FlashlightCard
               isActive={selectedOption === option.id}
-              onclick={() => handleSelect(option.id)}
+              onClick={() => handleSelect(option.id)}
               className="cursor-pointer hover:border-emerald-500/40 transition-all duration-200 rounded-xl overflow-hidden group"
             >
               <div class="py-3 px-4 sm:py-3.5 sm:px-5 flex items-center gap-3 sm:gap-4">

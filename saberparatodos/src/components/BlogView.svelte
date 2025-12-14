@@ -167,7 +167,7 @@
     {#each visibleItems as item (item.type === 'question' ? item.data.id : item.id)}
       {#if item.type === 'question'}
         <FlashlightCard
-          onclick={() => onSelect(item.data)}
+          onClick={() => onSelect(item.data)}
           className="p-6 flex flex-col justify-between group h-64 hover:border-emerald-500/50 transition-transform duration-300 hover:scale-[1.02]"
         >
           <div class="flex flex-col h-full">

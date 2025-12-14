@@ -20,7 +20,7 @@
   <div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-6 w-full max-w-5xl px-4">
     {#each grades as grade}
       <FlashlightCard
-        onclick={() => onSelect(grade)}
+        onClick={() => onSelect(grade)}
         className="p-8 flex flex-col items-center justify-center group h-48 hover:border-emerald-500/50 transition-transform duration-300 hover:scale-105"
       >
         <div class="mb-4 text-emerald-500 opacity-80 group-hover:opacity-100 text-4xl font-bold">
