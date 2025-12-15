@@ -432,7 +432,7 @@ const description = 'Entrena con IA adaptativa y contenido personalizado';
       btn.addEventListener('click', (e: Event) => {
         const target = e.currentTarget as HTMLButtonElement;
         if (!target) return;
-        
+
         document.querySelectorAll('.topic-btn').forEach(b => b.classList.remove('active'));
         target.classList.add('active');
         selectedTopic = target.dataset.topic || 'algebra';
@@ -444,7 +444,7 @@ const description = 'Entrena con IA adaptativa y contenido personalizado';
       btn.addEventListener('click', (e: Event) => {
         const target = e.currentTarget as HTMLButtonElement;
         if (!target) return;
-        
+
         document.querySelectorAll('.style-btn').forEach(b => b.classList.remove('active'));
         target.classList.add('active');
         selectedStyle = target.dataset.style || 'minimalist';
@@ -453,7 +453,7 @@ const description = 'Entrena con IA adaptativa y contenido personalizado';
 
     startBtn?.addEventListener('click', async () => {
       if (!startBtn) return;
-      
+
       try {
         startBtn.disabled = true;
         startBtn.textContent = '⏳ Iniciando...';
@@ -506,7 +506,7 @@ const description = 'Entrena con IA adaptativa y contenido personalizado';
 
     sendBtn?.addEventListener('click', async () => {
       if (!userInput || !sendBtn) return;
-      
+
       const message = userInput.value.trim();
       if (!message || !currentSession) return;
 

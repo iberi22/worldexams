@@ -6,7 +6,7 @@ asignatura: "lectura-critica"
 tema: "textos-discontinuos"
 bundle_version: "2.1"
 total_questions: 7
-estado: "approved"
+estado: "published"
 creador: "GitHub Copilot"
 generation_date: "2025-12-14"
 source: "World Exams AI"
@@ -217,3 +217,4 @@ Si se implementara una política de ahorro que redujera el consumo en un 10% en 
 | 5 | CO-LEC-11-discontinuos-001-v5 | 3 | ⬜ |
 | 6 | CO-LEC-11-discontinuos-001-v6 | 5 | ⬜ |
 | 7 | CO-LEC-11-discontinuos-001-v7 | 5 | ⬜ |
+

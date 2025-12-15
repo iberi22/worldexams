@@ -7,7 +7,7 @@ asignatura: "Matemáticas"
 tema: "Proporcionalidad y Regla de Tres"
 protocol_version: "2.1"
 total_questions: 7
-estado: "approved"
+estado: "published"
 creador: "Antigravity"
 generation_date: "2025-12-14"
 dificultad: 3
@@ -198,3 +198,4 @@ Tres amigos compraron un boleto de lotería que costó $10.000. Juan puso $2.000
 Pedro aportó $5.000 de un total de $10.000, lo que representa exactamente la **mitad** (50%) o la fracción $\frac{5000}{10000} = \frac{1}{2}$.
 Por justicia proporcional, debe recibir la mitad del premio:
 $100.000 \times \frac{1}{2} = 50.000$.
+

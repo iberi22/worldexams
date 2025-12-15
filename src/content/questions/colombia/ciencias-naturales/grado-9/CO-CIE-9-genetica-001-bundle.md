@@ -6,7 +6,7 @@ asignatura: "Ciencias Naturales"
 tema: "Genética y Herencia"
 protocol_version: "2.1"
 total_questions: 7
-estado: "approved"
+estado: "published"
 creador: "Antigravity"
 generation_date: "2025-12-14"
 dificultad: 3
@@ -216,3 +216,4 @@ En la **dominancia incompleta**, ningún alelo domina totalmente sobre el otro, 
 | 5 | CO-CIE-9-genetica-001-v5 | Medium | ⬜ |
 | 6 | CO-CIE-9-genetica-001-v6 | High | ⬜ |
 | 7 | CO-CIE-9-genetica-001-v7 | High | ⬜ |
+

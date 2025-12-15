@@ -8,7 +8,7 @@ tema: "Textos Informativos"
 protocol_version: "2.1"
 bundle_version: "2.1"
 total_questions: 7
-estado: "approved"
+estado: "published"
 creador: "Antigravity"
 generation_date: "2025-12-13"
 
@@ -195,3 +195,4 @@ La expresión "Sin embargo" se utiliza para:
 ### Explicación Pedagógica
 
 **Competencia gramatical/textual:** El conector "**Sin embargo**" es un conector de contraste u oposición. El autor venía diciendo que producen miel (lo que todos saben), PERO (contraste) aclara que hay algo más importante (la polinización).
+

@@ -6,7 +6,7 @@ asignatura: "ingles"
 tema: "reading-comprehension-inferential"
 bundle_version: "2.1"
 total_questions: 7
-estado: "approved"
+estado: "published"
 creador: "GitHub Copilot"
 generation_date: "2025-12-14"
 source: "Colombia Travel / Nature.org"
@@ -187,3 +187,4 @@ Which of the following would be the best alternative title for the text?
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
+

@@ -7,7 +7,7 @@ tema: "Evolución y Adaptación"
 protocol_version: "2.1"
 bundle_version: "2.1"
 total_questions: 7
-estado: "approved"
+estado: "published"
 creador: "Antigravity"
 generation_date: "2025-12-13"
 
@@ -206,3 +206,4 @@ Lamarck creía en la "herencia de caracteres adquiridos" por uso y desuso, lo cu
 | 5 | CO-CIE-9-evolucion-001-v5 | Medium | ⬜ |
 | 6 | CO-CIE-9-evolucion-001-v6 | High | ⬜ |
 | 7 | CO-CIE-9-evolucion-001-v7 | High | ⬜ |
+

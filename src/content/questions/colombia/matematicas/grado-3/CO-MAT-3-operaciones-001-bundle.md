@@ -6,7 +6,7 @@ asignatura: "matematicas"
 tema: "Numérico (Operaciones)"
 bundle_version: "2.1"
 total_questions: 7
-estado: "approved"
+estado: "published"
 creador: "GitHub Copilot"
 generation_date: "2025-12-14"
 source: "Colombia Aprende / Mallas Matemáticas"
@@ -178,3 +178,4 @@ La tienda hace una promoción: "Si compras dos jugos, el segundo te sale a mitad
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
+

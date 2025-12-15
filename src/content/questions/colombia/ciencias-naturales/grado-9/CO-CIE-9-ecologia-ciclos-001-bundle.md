@@ -6,7 +6,7 @@ asignatura: "ciencias-naturales"
 tema: "Ecología (Ciclos Biogeoquímicos)"
 bundle_version: "2.1"
 total_questions: 7
-estado: "approved"
+estado: "published"
 creador: "GitHub Copilot"
 generation_date: "2025-12-14"
 source: "Master2000 / Cornare"
@@ -182,3 +182,4 @@ Los Páramos colombianos son vitales en el ciclo del agua porque:
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
+

@@ -8,7 +8,7 @@ tema: "Fracciones y Operaciones"
 protocol_version: "2.1"
 bundle_version: "2.1"
 total_questions: 7
-estado: "approved"
+estado: "published"
 creador: "Antigravity"
 generation_date: "2025-12-14"
 
@@ -195,3 +195,4 @@ Hallar la fracción de un número:
 $\frac{1}{4}$ de 20 es dividir 20 entre 4.
 $20 \div 4 = 5$.
 Por lo tanto, **5 estudiantes** usan gafas.
+

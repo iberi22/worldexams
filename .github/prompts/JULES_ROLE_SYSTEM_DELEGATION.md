@@ -1,10 +1,10 @@
 # 🤖 Delegación a Jules: Sistema de Roles y Verificación
 
-**Fecha de Delegación:** 15 de diciembre de 2025  
-**Delegado por:** GitHub Copilot  
-**Delegado a:** Jules (AI Agent)  
-**Prioridad:** 🔴 ALTA  
-**Estimación Total:** ~25 horas de desarrollo  
+**Fecha de Delegación:** 15 de diciembre de 2025
+**Delegado por:** GitHub Copilot
+**Delegado a:** Jules (AI Agent)
+**Prioridad:** 🔴 ALTA
+**Estimación Total:** ~25 horas de desarrollo
 
 ---
 
@@ -296,18 +296,18 @@
    - **Función:**
      ```typescript
      import type { User } from '@supabase/supabase-js';
-     
+
      export function hasFeatureAccess(
        user: User | null,
        profile: Profile | null,
        feature: Feature
      ): boolean {
        if (!user || !profile) return false;
-       
+
        const allowedRoles = FEATURE_ACCESS[feature];
        const userRole = profile.role;
        const isVerified = profile.document_verified;
-       
+
        return allowedRoles.some(role => {
          if (role.includes(':verified')) {
            const baseRole = role.split(':')[0];
@@ -356,12 +356,12 @@
    - **Contenido:**
      ```
      Hola {userName},
-     
+
      Hemos recibido tu {documentType} para verificación.
      Lo revisaremos en las próximas 24-48 horas.
-     
+
      Te notificaremos por email cuando esté aprobado.
-     
+
      Gracias,
      Equipo Saber Para Todos
      ```
@@ -372,14 +372,14 @@
    - **Contenido:**
      ```
      ¡Felicidades {userName}!
-     
+
      Tu cuenta ha sido verificada como {role}.
      Ahora tienes acceso a:
-     
+
      {featuresList}
-     
+
      Ingresa a tu dashboard: [Link]
-     
+
      ¡Disfruta Saber Para Todos!
      ```
 
@@ -389,14 +389,14 @@
    - **Contenido:**
      ```
      Hola {userName},
-     
+
      Lamentablemente tu documento no pudo ser verificado.
      Motivo: {reason}
-     
+
      Por favor sube un nuevo documento aquí: {retryLink}
-     
+
      Si tienes dudas, contáctanos.
-     
+
      Equipo Saber Para Todos
      ```
 
@@ -489,19 +489,19 @@
    - **Agregar Sección:**
      ```markdown
      ## 🔐 Sistema de Roles y Verificación
-     
+
      ### Roles Disponibles
      - **Estudiante:** Acceso básico gratuito. Verificación opcional para features premium.
      - **Profesor:** Requiere verificación para acceder a Panel de Profesor.
      - **Institución:** Requiere verificación para gestión administrativa.
-     
+
      ### Proceso de Verificación
      1. Selecciona tu rol durante el registro
      2. Sube tu documento (carnet, credencial, registro mercantil)
      3. Espera aprobación (24-48h)
      4. Recibe email de confirmación
      5. Accede a features premium
-     
+
      ### Documentos Aceptados
      - **Carnet Estudiantil:** Foto clara con nombre e institución visibles
      - **Credencial Docente:** Credencial oficial o certificado laboral
@@ -702,12 +702,12 @@ Al completar todas las fases, deberíamos tener:
 
 ## 📞 Contacto y Soporte
 
-**Delegado por:** GitHub Copilot  
-**Para Dudas:** Consultar AGENTS.md, PLANNING.md, TASK.md  
-**Referencia Completa:** `docs/QUESTION_GENERATION_PROTOCOL_V2.md` (para preguntas)  
+**Delegado por:** GitHub Copilot
+**Para Dudas:** Consultar AGENTS.md, PLANNING.md, TASK.md
+**Referencia Completa:** `docs/QUESTION_GENERATION_PROTOCOL_V2.md` (para preguntas)
 
 ---
 
-*Delegación creada: 15 de diciembre de 2025*  
-*Estimación Total: ~25 horas*  
+*Delegación creada: 15 de diciembre de 2025*
+*Estimación Total: ~25 horas*
 *Prioridad: 🔴 ALTA*

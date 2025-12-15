@@ -6,7 +6,7 @@ asignatura: "sociales-ciudadanas"
 tema: "Geografía (Regiones Naturales)"
 bundle_version: "2.1"
 total_questions: 7
-estado: "approved"
+estado: "published"
 creador: "GitHub Copilot"
 generation_date: "2025-12-14"
 source: "IGAC / Colombia Aprende"
@@ -178,3 +178,4 @@ La Sierra Nevada de Santa Marta es la montaña costera más alta del mundo. ¿En
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
+

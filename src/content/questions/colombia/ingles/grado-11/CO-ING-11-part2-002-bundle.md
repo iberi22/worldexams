@@ -6,7 +6,7 @@ asignatura: "ingles"
 tema: "vocabulary-matching"
 bundle_version: "2.1"
 total_questions: 7
-estado: "approved"
+estado: "published"
 creador: "GitHub Copilot"
 generation_date: "2025-12-14"
 source: "Cambridge Dictionary"
@@ -188,3 +188,4 @@ Read the description and choose the correct word:
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
+

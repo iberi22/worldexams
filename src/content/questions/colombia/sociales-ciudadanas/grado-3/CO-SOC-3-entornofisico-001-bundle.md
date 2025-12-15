@@ -8,7 +8,7 @@ tema: "Entorno Físico y Ubicación"
 protocol_version: "2.1"
 bundle_version: "2.1"
 total_questions: 7
-estado: "approved"
+estado: "published"
 creador: "Antigravity"
 generation_date: "2025-12-14"
 
@@ -188,3 +188,4 @@ Tu municipio hace parte de un territorio más grande llamado **Departamento**, y
 
 Relación espacial de pertenencia política-administrativa:
 Yo vivo en un Municipio (ej. Medellín), que está en un Departamento (Antioquia), que está en un País (Colombia).
+

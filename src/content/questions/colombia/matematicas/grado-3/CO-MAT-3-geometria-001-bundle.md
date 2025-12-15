@@ -8,7 +8,7 @@ tema: "Geometría (Figuras Planas)"
 protocol_version: "2.1"
 bundle_version: "2.1"
 total_questions: 7
-estado: "approved"
+estado: "published"
 creador: "Antigravity"
 generation_date: "2025-12-13"
 
@@ -187,3 +187,4 @@ Ana tiene una figura misteriosa en una bolsa. Dice: "Mi figura tiene 4 lados, pe
 ### Explicación Pedagógica
 
 Buscamos una figura de 4 lados (Cuadrilátero) que no tenga ángulos rectos. El **Rombo** cumple esto: tiene 4 lados (a veces iguales), pero sus ángulos son agudos y obtusos (inclinados), no rectos como los del cuadrado o rectángulo.
+

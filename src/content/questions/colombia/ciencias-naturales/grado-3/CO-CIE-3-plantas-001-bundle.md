@@ -6,7 +6,7 @@ asignatura: "ciencias-naturales"
 tema: "Biología (Plantas)"
 bundle_version: "2.1"
 total_questions: 7
-estado: "approved"
+estado: "published"
 creador: "GitHub Copilot"
 generation_date: "2025-12-14"
 source: "Colombia Aprende / Mineducación"
@@ -169,3 +169,4 @@ Algunas plantas como la **zanahoria** guardan su alimento en una parte específi
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
+

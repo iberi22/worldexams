@@ -6,7 +6,7 @@ asignatura: "lectura-critica"
 tema: "texto-literario"
 bundle_version: "2.1"
 total_questions: 7
-estado: "approved"
+estado: "published"
 creador: "GitHub Copilot"
 generation_date: "2025-12-14"
 source: "José Eustasio Rivera"
@@ -174,3 +174,4 @@ Gramaticalmente, el uso del subjuntivo "hubiera apasionado" indica que la acció
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
+

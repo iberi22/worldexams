@@ -7,7 +7,7 @@ asignatura: "Ciencias Naturales"
 tema: "Propiedades de la Materia"
 protocol_version: "2.1"
 total_questions: 7
-estado: "approved"
+estado: "published"
 creador: "Antigravity"
 generation_date: "2025-12-14"
 dificultad: 3
@@ -28,16 +28,6 @@ source_license: "CC BY-SA 4.0"
 search_query: "preguntas liberadas icfes ciencias naturales grado 7 materia propiedades"
 original_question: "Adaptación de pregunta sobre densidad"
 original_answer: "El aceite flota porque es menos denso"
-
-## 📊 Metadata de Validación
-| Campo | Valor |
-|---|---|
-| Total Preguntas | 7 |
-| Original (Dificultad 3) | 1 |
-| Fácil (Dificultad 1-2) | 2 |
-| Media (Dificultad 3) | 2 |
-| Difícil (Dificultad 4-5) | 2 |
-
 ---
 
 # Pregunta Base: Propiedades Físicas y Químicas
@@ -189,3 +179,15 @@ Si mezclamos agua y aceite en un vaso y los agitamos, al dejarlos reposar se sep
 
 - **Heterogénea:** Se pueden distinguir sus componentes a simple vista (fases separadas). Agua y aceite no son miscibles.
 - **Homogénea:** No se distinguen componentes (ej. agua con sal disuelta).
+
+---
+
+## 📊 Metadata de Validación
+
+| Campo | Valor |
+|---|---|
+| Total Preguntas | 7 |
+| Original (Dificultad 3) | 1 |
+| Fácil (Dificultad 1-2) | 2 |
+| Media (Dificultad 3) | 2 |
+| Difícil (Dificultad 4-5) | 2 |

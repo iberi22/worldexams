@@ -6,7 +6,7 @@ asignatura: "ingles"
 tema: "grammar-cloze-complex"
 bundle_version: "2.1"
 total_questions: 7
-estado: "approved"
+estado: "published"
 creador: "GitHub Copilot"
 generation_date: "2025-12-14"
 source: "Cartagena Tourism"
@@ -196,3 +196,4 @@ So "its" is the correct choice.
 | Fácil (Dificultad 1-2) | 1 |
 | Media (Dificultad 3) | 3 |
 | Difícil (Dificultad 4-5) | 2 |
+

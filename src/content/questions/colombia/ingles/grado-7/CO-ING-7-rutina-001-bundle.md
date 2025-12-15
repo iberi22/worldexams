@@ -7,7 +7,7 @@ asignatura: "Ingles"
 tema: "Rutinas Diarias y Hora"
 protocol_version: "2.1"
 total_questions: 7
-estado: "approved"
+estado: "published"
 creador: "Antigravity"
 generation_date: "2025-12-14"
 dificultad: 2
@@ -194,3 +194,4 @@ Select the sentence that is grammatically INCORRECT:
 ### Explicación Pedagógica
 
 Para la tercera persona (She), la negación correcta es **doesn't**, no "don't". La frase correcta sería "She doesn't like coffee".
+

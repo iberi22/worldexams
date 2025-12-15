@@ -6,7 +6,7 @@ asignatura: "lectura-critica"
 tema: "ensayo-filosofico"
 bundle_version: "2.1"
 total_questions: 7
-estado: "approved"
+estado: "published"
 creador: "GitHub Copilot"
 generation_date: "2025-12-14"
 source: "Estanislao Zuleta"
@@ -183,3 +183,4 @@ Al utilizar el término "monstruosa" para calificar la "sala-cuna de abundancia"
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
+

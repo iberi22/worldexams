@@ -6,7 +6,7 @@ asignatura: "sociales-ciudadanas"
 tema: "Historia (Edad Media)"
 bundle_version: "2.1"
 total_questions: 7
-estado: "approved"
+estado: "published"
 creador: "GitHub Copilot"
 generation_date: "2025-12-14"
 source: "Colombia Aprende / Santillana"
@@ -174,3 +174,4 @@ El paso de la Edad Media a la Edad Moderna estuvo marcado por el renacimiento de
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
+

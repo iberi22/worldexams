@@ -6,7 +6,7 @@ asignatura: "matematicas"
 tema: "Álgebra (Ecuaciones)"
 bundle_version: "2.1"
 total_questions: 7
-estado: "approved"
+estado: "published"
 creador: "GitHub Copilot"
 generation_date: "2025-12-14"
 source: "Colombia Aprende / Khan Academy"
@@ -185,3 +185,4 @@ Si el perímetro de un cuadrado es 24 cm, ¿cuál es la ecuación para hallar el
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
+

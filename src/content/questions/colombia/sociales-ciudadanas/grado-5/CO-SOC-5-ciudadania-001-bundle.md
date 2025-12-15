@@ -7,7 +7,7 @@ asignatura: "Sociales y Ciudadanas"
 tema: "Derechos y Deberes"
 protocol_version: "2.1"
 total_questions: 7
-estado: "approved"
+estado: "published"
 creador: "Antigravity"
 generation_date: "2025-12-14"
 dificultad: 3
@@ -28,16 +28,6 @@ source_license: "CC BY-SA 4.0"
 search_query: "competencias ciudadanas grado 5 derechos deberes"
 original_question: "Adaptación sobre manual de convivencia"
 original_answer: "El manual ayuda a la convivencia"
-
-## 📊 Metadata de Validación
-| Campo | Valor |
-|---|---|
-| Total Preguntas | 7 |
-| Original (Dificultad 3) | 1 |
-| Fácil (Dificultad 1-2) | 2 |
-| Media (Dificultad 3) | 2 |
-| Difícil (Dificultad 4-5) | 2 |
-
 ---
 
 # Pregunta Base: Convivencia y Normas
@@ -187,3 +177,15 @@ Lee con atención: "El Estado debe proteger la diversidad étnica y cultural de 
 ### Explicación Pedagógica
 
 Colombia es un país **pluriétnico y multicultural**. La Constitución ordena proteger esta riqueza, asegurando que ninguna cultura sea impuesta sobre otra y que todas tenga valor.
+
+---
+
+## 📊 Metadata de Validación
+
+| Campo | Valor |
+|---|---|
+| Total Preguntas | 7 |
+| Original (Dificultad 3) | 1 |
+| Fácil (Dificultad 1-2) | 2 |
+| Media (Dificultad 3) | 2 |
+| Difícil (Dificultad 4-5) | 2 |

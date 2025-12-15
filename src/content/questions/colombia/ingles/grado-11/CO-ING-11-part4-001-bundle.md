@@ -6,7 +6,7 @@ asignatura: "ingles"
 tema: "grammar-cloze"
 bundle_version: "2.1"
 total_questions: 7
-estado: "approved"
+estado: "published"
 creador: "GitHub Copilot"
 generation_date: "2025-12-14"
 source: "World Exams AI"
@@ -213,3 +213,4 @@ Choose the correct option for space (7).
 | 5 | CO-ING-11-part4-001-v5 | 3 | ⬜ |
 | 6 | CO-ING-11-part4-001-v6 | 5 | ⬜ |
 | 7 | CO-ING-11-part4-001-v7 | 5 | ⬜ |
+

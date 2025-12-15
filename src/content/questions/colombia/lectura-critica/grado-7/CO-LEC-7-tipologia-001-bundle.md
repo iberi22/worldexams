@@ -8,7 +8,7 @@ tema: "Tipología Textual"
 protocol_version: "2.1"
 bundle_version: "2.1"
 total_questions: 7
-estado: "approved"
+estado: "published"
 creador: "Antigravity"
 generation_date: "2025-12-14"
 
@@ -193,3 +193,4 @@ El autor se detiene a detallar las características físicas (adjetivos) del lug
 ### Explicación Pedagógica
 
 La columna de opinión es un texto argumentativo donde el autor firma y expresa su punto de vista personal (**subjetividad**). Los otros (noticia, manual, diccionario) buscan ser objetivos y neutros.
+

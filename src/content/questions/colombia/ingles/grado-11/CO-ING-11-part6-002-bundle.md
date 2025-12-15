@@ -6,7 +6,7 @@ asignatura: "ingles"
 tema: "reading-comprehension-inferential"
 bundle_version: "2.1"
 total_questions: 7
-estado: "approved"
+estado: "published"
 creador: "GitHub Copilot"
 generation_date: "2025-12-14"
 source: "Bogota Graffiti Tour / Colombia Travel"
@@ -183,3 +183,4 @@ What does the phrase "The walls speak" imply?
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
+
