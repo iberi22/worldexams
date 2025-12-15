@@ -2,6 +2,7 @@
 import '../styles/global.css';
 import Navbar from '../components/Navbar.astro';
 import Footer from '../components/Footer.astro';
+import CookieConsent from '../components/CookieConsent.svelte';
 
 // Import critical CSS for inlining
 import criticalCSS from '../styles/critical.css?raw';
@@ -93,7 +94,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     <!-- Google AdSense (defer para no bloquear rendering) -->
     <meta name="google-adsense-account" content="ca-pub-7015371704987876" />
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876" crossorigin="anonymous"></script>
-    
+
     <script is:inline>
       // Detectar cuando las fuentes están listas (reduce CLS)
       if ('fonts' in document) {
@@ -144,6 +145,9 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     </main>
 
     {showFooter && <Footer />}
+
+    <!-- Cookie Consent Banner (GDPR/AdSense Compliance) -->
+    <CookieConsent client:load />
 
     <!-- Scroll Reveal Script -->
     <script>
