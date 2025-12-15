@@ -18,12 +18,16 @@ export const GET: APIRoute = async ({ params }) => {
   }
 
   try {
+    // Normalize subject names for comparison (handle spaces, hyphens, underscores)
+    const normalizeSubject = (str: string) => 
+      str.toLowerCase().replace(/[\s_-]/g, '').trim();
+
     // Fetch all questions from content collection
     const allQuestions = await getCollection('questions', (entry) => {
       const isMatch =
         entry.data.country?.toLowerCase() === country.toLowerCase() &&
         entry.data.grado === parseInt(grade) &&
-        entry.data.asignatura?.toLowerCase().replace(/\s/g, '_') === subject.toLowerCase().replace(/\s/g, '_');
+        normalizeSubject(entry.data.asignatura || '') === normalizeSubject(subject);
 
       return isMatch;
     });

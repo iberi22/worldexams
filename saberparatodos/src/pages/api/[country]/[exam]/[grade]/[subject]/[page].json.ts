@@ -28,13 +28,17 @@ export const GET: APIRoute = async ({ params }) => {
   }
 
   try {
+    // Normalize subject names for comparison (handle spaces, hyphens, underscores)
+    const normalizeSubject = (str: string) => 
+      str.toLowerCase().replace(/[\s_-]/g, '').trim();
+
     // Fetch all matching questions from content collection
     const allQuestions = await getCollection('questions', (entry) => {
       return (
         entry.data.country?.toLowerCase() === country.toLowerCase() &&
         entry.data.grado === parseInt(grade) &&
-        entry.data.asignatura?.toLowerCase().replace(/\s/g, '_') === subject.toLowerCase().replace(/\s/g, '_') &&
-        entry.data.estado === 'published' // Only published questions
+        normalizeSubject(entry.data.asignatura || '') === normalizeSubject(subject)
+        // Note: Removed estado === 'published' filter to include draft questions too
       );
     });
 
