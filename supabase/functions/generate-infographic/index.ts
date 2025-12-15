@@ -1,7 +1,8 @@
 // =============================================================================
 // Edge Function: generate-infographic
-// Description: Generate AI-powered infographics using Replicate (Flux/SDXL)
+// Description: Generate AI-powered infographics using Google Gemini 2.0 Flash
 // Cost: 5 credits
+// Updated: 2025-12-15 - Migrated from Replicate to Gemini (more cost-effective)
 // =============================================================================
 
 import { serve } from "https://deno.land/std@0.168.0/http/server.ts";
@@ -83,68 +84,57 @@ serve(async (req) => {
       stylePrompts[visual_style as keyof typeof stylePrompts] ||
       stylePrompts.default;
 
-    const prompt = `Educational infographic explaining ${topic}.
+    const prompt = `Create an educational infographic about ${topic}.
 Style: ${styleModifier}.
-Include: diagrams, key concepts, visual examples.
-High quality, 4K resolution, professional design.`;
+Include: diagrams, key concepts, visual examples, clear labels.
+High quality, professional design, organized layout with hierarchy.
+Make it visually engaging for students studying for exams.`;
 
-    // Call Replicate API
-    const replicateResponse = await fetch("https://api.replicate.com/v1/predictions", {
-      method: "POST",
-      headers: {
-        Authorization: `Token ${Deno.env.get("REPLICATE_API_KEY")}`,
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        version:
-          "black-forest-labs/flux-schnell", // Fast model (2-3s)
-        input: {
-          prompt,
-          num_outputs: 1,
-          aspect_ratio: "16:9",
-          output_format: "webp",
-          output_quality: 90,
+    // Call Google Gemini API (Imagen 3 via Gemini)
+    const geminiApiKey = Deno.env.get("GOOGLE_API_KEY");
+    if (!geminiApiKey) {
+      throw new Error("GOOGLE_API_KEY not configured in Supabase secrets");
+    }
+
+    const geminiResponse = await fetch(
+      `https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-generate-001:predict?key=${geminiApiKey}`,
+      {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
         },
-      }),
-    });
-
-    if (!replicateResponse.ok) {
-      throw new Error(`Replicate API error: ${replicateResponse.statusText}`);
-    }
-
-    const prediction = await replicateResponse.json();
-
-    // Poll for completion (Replicate is async)
-    let imageUrl = null;
-    let attempts = 0;
-    const maxAttempts = 30; // 30 seconds max
-
-    while (!imageUrl && attempts < maxAttempts) {
-      await new Promise((resolve) => setTimeout(resolve, 1000)); // Wait 1s
-
-      const statusResponse = await fetch(
-        `https://api.replicate.com/v1/predictions/${prediction.id}`,
-        {
-          headers: {
-            Authorization: `Token ${Deno.env.get("REPLICATE_API_KEY")}`,
+        body: JSON.stringify({
+          instances: [
+            {
+              prompt: prompt,
+            },
+          ],
+          parameters: {
+            sampleCount: 1,
+            aspectRatio: "16:9",
+            safetySetting: "block_some",
+            personGeneration: "allow_adult",
           },
-        }
-      );
-
-      const status = await statusResponse.json();
-
-      if (status.status === "succeeded") {
-        imageUrl = status.output[0]; // Get first image URL
-        break;
-      } else if (status.status === "failed") {
-        throw new Error("Image generation failed");
+        }),
       }
+    );
 
-      attempts++;
+    if (!geminiResponse.ok) {
+      const errorText = await geminiResponse.text();
+      console.error("Gemini API error:", errorText);
+      throw new Error(`Gemini API error: ${geminiResponse.statusText}`);
     }
+
+    const geminiResult = await geminiResponse.json();
+    
+    // Extract image from Gemini response
+    const imageUrl = geminiResult.predictions?.[0]?.bytesBase64Encoded
+      ? `data:image/png;base64,${geminiResult.predictions[0].bytesBase64Encoded}`
+      : null;
 
     if (!imageUrl) {
-      throw new Error("Image generation timeout");
+      console.error("No image in Gemini response:", geminiResult);
+      throw new Error("Image generation failed - no image in response");
     }
 
     // Save generated content
