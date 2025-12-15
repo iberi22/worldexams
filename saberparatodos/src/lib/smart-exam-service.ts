@@ -1,5 +1,5 @@
 import { fetchQuestions, type AppQuestion } from './api-service';
-import { loadAnsweredQuestions, filterUnansweredQuestions } from './question-memory';
+import { filterUnansweredQuestions } from './question-memory';
 
 const LOWER_GRADES_MAP: Record<number, number[]> = {
   11: [9, 5, 3],
@@ -7,18 +7,6 @@ const LOWER_GRADES_MAP: Record<number, number[]> = {
   7: [5, 3],
   5: [3],
   3: []
-};
-
-// Available subjects map for fallback checking
-// Mapping subjects because sometimes names vary slightly or to ensure coverage
-const SUBJECT_MAPPING: Record<string, string> = {
-  'matematicas': 'matematicas',
-  'lenguaje': 'lenguaje',
-  'lectura-critica': 'lenguaje', // 11 uses lectura-critica, lower use lenguaje
-  'ciencias-naturales': 'ciencias-naturales',
-  'sociales-ciudadanas': 'sociales-ciudadanas',
-  'ingles': 'ingles',
-  'informatica': 'informatica'
 };
 
 /**

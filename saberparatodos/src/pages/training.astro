@@ -402,42 +402,64 @@ const description = 'Entrena con IA adaptativa y contenido personalizado';
 
   // Client-side interactivity
   document.addEventListener('DOMContentLoaded', () => {
-    const startBtn = document.getElementById('start-training');
-    const trainingFeed = document.getElementById('training-feed');
-    const messagesDiv = document.getElementById('messages');
-    const endBtn = document.getElementById('end-training');
-    const sendBtn = document.getElementById('send-btn');
-    const userInput = document.getElementById('user-input');
+    const startBtn = document.getElementById('start-training') as HTMLButtonElement | null;
+    const trainingFeed = document.getElementById('training-feed') as HTMLDivElement | null;
+    const messagesDiv = document.getElementById('messages') as HTMLDivElement | null;
+    const endBtn = document.getElementById('end-training') as HTMLButtonElement | null;
+    const sendBtn = document.getElementById('send-btn') as HTMLButtonElement | null;
+    const userInput = document.getElementById('user-input') as HTMLInputElement | null;
 
-    let currentSession = null;
+    interface TrainingSession {
+      session_id: string;
+      starting_difficulty: number;
+      recommended_topic: string;
+      performance_analysis: {
+        exams_analyzed: number;
+        avg_percentage: number;
+      };
+      initial_questions?: Array<{
+        enunciado?: string;
+        question_text?: string;
+      }>;
+    }
+
+    let currentSession: TrainingSession | null = null;
     let selectedTopic = 'algebra'; // Default from UI
     let selectedStyle = 'minimalist'; // Default from UI
 
     // Topic selection
     document.querySelectorAll('.topic-btn').forEach(btn => {
-      btn.addEventListener('click', (e) => {
+      btn.addEventListener('click', (e: Event) => {
+        const target = e.currentTarget as HTMLButtonElement;
+        if (!target) return;
+        
         document.querySelectorAll('.topic-btn').forEach(b => b.classList.remove('active'));
-        e.currentTarget.classList.add('active');
-        selectedTopic = e.currentTarget.dataset.topic || 'algebra';
+        target.classList.add('active');
+        selectedTopic = target.dataset.topic || 'algebra';
       });
     });
 
     // Style selection
     document.querySelectorAll('.style-btn').forEach(btn => {
-      btn.addEventListener('click', (e) => {
+      btn.addEventListener('click', (e: Event) => {
+        const target = e.currentTarget as HTMLButtonElement;
+        if (!target) return;
+        
         document.querySelectorAll('.style-btn').forEach(b => b.classList.remove('active'));
-        e.currentTarget.classList.add('active');
-        selectedStyle = e.currentTarget.dataset.style || 'minimalist';
+        target.classList.add('active');
+        selectedStyle = target.dataset.style || 'minimalist';
       });
     });
 
     startBtn?.addEventListener('click', async () => {
+      if (!startBtn) return;
+      
       try {
         startBtn.disabled = true;
         startBtn.textContent = '⏳ Iniciando...';
 
         // Call backend to start session
-        const response = await startTrainingSession('matematicas', selectedTopic);
+        const response = await startTrainingSession('matematicas', selectedTopic) as TrainingSession;
         currentSession = response;
 
         // Show feed
@@ -457,11 +479,14 @@ const description = 'Entrena con IA adaptativa y contenido personalizado';
         }
 
         startBtn.textContent = '✅ Sesión Iniciada';
-      } catch (error) {
+      } catch (error: unknown) {
         console.error('Error starting session:', error);
-        alert(error.message || 'Error al iniciar sesión. Verifica que estés autenticado.');
-        startBtn.disabled = false;
-        startBtn.textContent = '🚀 Comenzar Entrenamiento';
+        const errorMessage = error instanceof Error ? error.message : 'Error al iniciar sesión. Verifica que estés autenticado.';
+        alert(errorMessage);
+        if (startBtn) {
+          startBtn.disabled = false;
+          startBtn.textContent = '🚀 Comenzar Entrenamiento';
+        }
       }
     });
 
@@ -473,12 +498,16 @@ const description = 'Entrena con IA adaptativa y contenido personalizado';
         messagesDiv.innerHTML = '';
       }
       currentSession = null;
-      startBtn.disabled = false;
-      startBtn.textContent = '🚀 Comenzar Entrenamiento';
+      if (startBtn) {
+        startBtn.disabled = false;
+        startBtn.textContent = '🚀 Comenzar Entrenamiento';
+      }
     });
 
     sendBtn?.addEventListener('click', async () => {
-      const message = userInput?.value.trim();
+      if (!userInput || !sendBtn) return;
+      
+      const message = userInput.value.trim();
       if (!message || !currentSession) return;
 
       // Add user message
@@ -497,16 +526,17 @@ const description = 'Entrena con IA adaptativa y contenido personalizado';
             selectedTopic,
             selectedStyle,
             currentSession.session_id
-          );
+          ) as { image_url: string };
 
           addMessage('system', `✅ ¡Infografía generada!`);
           addMessage('image', result.image_url);
 
           sendBtn.disabled = false;
           sendBtn.textContent = 'Enviar';
-        } catch (error) {
+        } catch (error: unknown) {
           console.error('Error generating infographic:', error);
-          addMessage('error', error.message || 'Error al generar infografía. Verifica que tengas suficientes créditos.');
+          const errorMessage = error instanceof Error ? error.message : 'Error al generar infografía. Verifica que tengas suficientes créditos.';
+          addMessage('error', errorMessage);
           sendBtn.disabled = false;
           sendBtn.textContent = 'Enviar';
         }
@@ -516,7 +546,7 @@ const description = 'Entrena con IA adaptativa y contenido personalizado';
       }
     });
 
-    function addMessage(type, content) {
+    function addMessage(type: string, content: string): void {
       if (!messagesDiv) return;
 
       const msgDiv = document.createElement('div');

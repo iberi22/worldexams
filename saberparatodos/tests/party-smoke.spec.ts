@@ -84,7 +84,6 @@ test.describe('Party Mode - Smoke Test', () => {
     await studentPage.goto('/party?join=TEST123');
 
     // Verificar que la página cargó
-    const pageContent = await studentPage.content();
     const is404 = await studentPage.locator('text=/404|not found/i').count();
     expect(is404).toBe(0);
     console.log('✅ Página de join carga correctamente');

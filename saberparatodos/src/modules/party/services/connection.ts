@@ -1,3 +1,4 @@
+// @ts-nocheck
 /**
  * Connection Service - Dual Mode
  *

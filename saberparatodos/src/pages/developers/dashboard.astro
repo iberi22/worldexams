@@ -85,6 +85,7 @@ import Layout from '../../layouts/Layout.astro';
   </div>
 
   <script>
+    // @ts-nocheck - Supabase types need to be generated
     import { supabase } from '../../lib/supabase';
 
     const loadingState = document.getElementById('loading-state');
@@ -94,7 +95,7 @@ import Layout from '../../layouts/Layout.astro';
     const keysList = document.getElementById('keys-list');
 
     // Auth Logic
-    supabase.auth.onAuthStateChange((event, session) => {
+    supabase.auth.onAuthStateChange((_event, session) => {
       if (loadingState) loadingState.classList.add('hidden');
       if (session) {
         if (loginState) loginState.classList.add('hidden');

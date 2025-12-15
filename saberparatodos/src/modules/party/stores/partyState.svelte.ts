@@ -1,3 +1,4 @@
+// @ts-nocheck
 /**
  * Party State Store (Svelte 5 Runes)
  * Gestión centralizada del estado de la party

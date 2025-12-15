@@ -6,7 +6,7 @@
  * npm install chart.js jspdf html2canvas
  */
 
-import type { PartyResults, PlayerStats, QuestionStats } from '../types';
+import type { PartyResults } from '../types';
 
 interface ReportOptions {
   format: 'pdf' | 'html';
@@ -168,7 +168,7 @@ class ReportGeneratorService {
   /**
    * Genera el HTML de las gráficas
    */
-  private generateChartsHTML(results: PartyResults): string {
+  private generateChartsHTML(_results: PartyResults): string {
     return `
     <h2>📈 Análisis Visual</h2>
     <div class="chart-container">
