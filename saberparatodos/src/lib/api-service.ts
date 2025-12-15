@@ -165,6 +165,24 @@ export async function fetchQuestions(
       return [];
     }
 
+    // 🔍 Validar que la respuesta es JSON y no HTML
+    const contentType = response.headers.get('content-type');
+    if (!contentType?.includes('application/json')) {
+      const text = await response.text();
+      console.error(`❌ API Error - Expected JSON, got ${contentType || 'unknown'}`);
+      console.error(`First 200 chars of response: ${text.substring(0, 200)}`);
+      
+      // Si es HTML, probablemente es un 404 de Cloudflare
+      if (text.includes('<!DOCTYPE') || text.includes('<html')) {
+        console.error(`🚨 Received HTML instead of JSON. The API endpoint might not exist in production.`);
+        console.error(`Troubleshooting:`);
+        console.error(`  1. Verify that dist/api/ folder is deployed to Cloudflare Pages`);
+        console.error(`  2. Check Cloudflare Pages build settings`);
+        console.error(`  3. Try accessing ${url} directly in browser`);
+      }
+      return [];
+    }
+
     let data;
     try {
       data = await response.json();
