@@ -21,7 +21,7 @@
       Espacio Publicitario
     </span>
     <p class="text-[10px] uppercase tracking-widest opacity-40">
-      Apoya a OpenIcfes
+      Apoya a SaberParaTodos
     </p>
   </div>
 </div>

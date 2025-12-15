@@ -4,8 +4,8 @@
  * Auto-clears when user has answered >70% of available questions
  */
 
-const STORAGE_KEY = 'openicfes_answered_questions';
-const STATS_KEY = 'openicfes_question_stats';
+const STORAGE_KEY = 'saberparatodos_answered_questions';
+const STATS_KEY = 'saberparatodos_question_stats';
 const CLEAR_THRESHOLD = 0.70; // 70%
 
 export interface QuestionMemory {

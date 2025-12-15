@@ -17,10 +17,13 @@ export default defineConfig({
 
   // Vite configuration for environment variables
   vite: {
+    resolve: {
+      alias: {
+        '$lib': '/src/lib'
+      }
+    },
     define: {
-      'import.meta.env.PUBLIC_API_BASE_URL': JSON.stringify(
-        process.env.PUBLIC_API_BASE_URL || 'https://worldexams.pages.dev/api/v1'
-      ),
+      // Removed hardcoded API URL to allow .env loading
     },
     // Optimize KaTeX
     optimizeDeps: {

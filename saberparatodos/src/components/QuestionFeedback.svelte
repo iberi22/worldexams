@@ -22,7 +22,7 @@
   // Load existing vote
   $: {
     if (typeof window !== 'undefined') {
-      const votes = JSON.parse(localStorage.getItem('openicfes_votes') || '{}');
+      const votes = JSON.parse(localStorage.getItem('saberparatodos_votes') || '{}');
       userVote = votes[questionId] || null;
     }
   }
@@ -30,7 +30,7 @@
   function handleVote(vote: 'up' | 'down') {
     if (typeof window === 'undefined') return;
 
-    const votes = JSON.parse(localStorage.getItem('openicfes_votes') || '{}');
+    const votes = JSON.parse(localStorage.getItem('saberparatodos_votes') || '{}');
 
     if (userVote === vote) {
       // Remove vote
@@ -42,7 +42,7 @@
       userVote = vote;
     }
 
-    localStorage.setItem('openicfes_votes', JSON.stringify(votes));
+    localStorage.setItem('saberparatodos_votes', JSON.stringify(votes));
     dispatch('vote', { questionId, vote: userVote });
   }
 
@@ -91,7 +91,7 @@ ${reportDescription}
 > ${questionText.substring(0, 200)}${questionText.length > 200 ? '...' : ''}
 
 ---
-*Reportado desde OpenIcfes App*
+*Reportado desde SaberParaTodos App*
 *Fecha: ${new Date().toISOString()}*
     `.trim();
 

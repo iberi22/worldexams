@@ -129,7 +129,7 @@
     });
 
     // Check localStorage for grade preference
-    const savedGrade = localStorage.getItem('openicfes_grade');
+    const savedGrade = localStorage.getItem('saberparatodos_grade');
     if (savedGrade) {
       selectedGrade = parseInt(savedGrade);
     } else {
@@ -300,7 +300,7 @@
 
   async function handleGradeSelect(grade) {
     selectedGrade = grade;
-    localStorage.setItem('openicfes_grade', grade.toString());
+    localStorage.setItem('saberparatodos_grade', grade.toString());
 
     // Load subjects for the new grade
     await loadSubjectsFromAPI(grade);
@@ -310,7 +310,7 @@
 
   function handleSubjectSelect(subject) {
     if (subject === 'CHANGE_GRADE') {
-      localStorage.removeItem('openicfes_grade');
+      localStorage.removeItem('saberparatodos_grade');
       selectedGrade = null;
       setView(AppView.GRADE_SELECTION);
       return;
@@ -377,15 +377,20 @@
 
         setView(AppView.EXAM);
       } else {
-        throw new Error("No questions generated");
+        console.warn("⚠️ No questions available for this subject/grade combination");
+        throw new Error("No hay preguntas disponibles para esta asignatura y grado. Por favor, selecciona otra combinación o prueba la Sala de Entrenamiento en /training");
       }
 
     } catch (err) {
       console.error("Smart Exam Error:", err);
-      alert(`Lo sentimos, hubo un error generando el examen. ${err.message || ''}`);
-      // Fallback to old method?
-      // await loadQuestionsForExam(selectedGrade, selectedSubject);
-      // setView(AppView.EXAM);
+
+      // More user-friendly error message
+      const errorMsg = err.message || 'Error desconocido';
+      if (errorMsg.includes('Failed to fetch') || errorMsg.includes('404')) {
+        alert(`⚠️ No hay preguntas disponibles para Grado ${selectedGrade} - ${selectedSubject}.\n\n💡 Sugerencia: Prueba la nueva Sala de Entrenamiento en /training con IA adaptativa.`);
+      } else {
+        alert(`Lo sentimos, hubo un error generando el examen.\n\n${errorMsg}\n\n💡 Prueba /training para una experiencia mejorada.`);
+      }
     } finally {
       isIntegrityCheck = false;
     }
@@ -421,7 +426,7 @@
           on:click={() => setView(AppView.LANDING)}
           class="text-sm font-bold uppercase tracking-widest hover:text-emerald-500 transition-colors"
         >
-          OpenIcfes
+          SaberParaTodos
         </button>
         <span class="text-[10px] font-mono text-white/40 border border-white/10 px-1.5 py-0.5 rounded">v{packageInfo.version}</span>
       </div>
@@ -451,6 +456,21 @@
 
   <!-- Main Content -->
   <main class="relative z-10 container mx-auto px-4 py-8 pt-20">
+    {#if user}
+      <!-- Training Room Announcement Banner (Logged in only) -->
+      <div class="mb-8 bg-gradient-to-r from-[#fcd116] to-[#ff6b6b] rounded-lg p-4 shadow-lg flex flex-col sm:flex-row items-center justify-between gap-4 text-black font-mono border border-white/10">
+        <div class="flex items-center gap-3 text-center sm:text-left">
+          <span class="text-2xl">🚀</span>
+          <div class="text-sm md:text-base">
+            <strong>¡Nuevo!</strong> Sala de Entrenamiento con IA Adaptativa
+          </div>
+        </div>
+        <a href="/training" class="bg-[#003893] text-white px-6 py-2 rounded-lg hover:bg-[#0052cc] transition-colors text-sm font-bold whitespace-nowrap shadow-md">
+          Probar ahora →
+        </a>
+      </div>
+    {/if}
+
     {#if view === AppView.LANDING}
       <div
         in:fly={{ y: 20, duration: 500, delay: 200 }}
@@ -481,7 +501,7 @@
             Sistema Listo :: v{packageInfo.version}
           </p>
           <h1 class="text-6xl md:text-8xl font-bold tracking-tighter uppercase text-[#F5F5DC] relative">
-            Open<span class="text-white/20">Icfes</span>
+            Saber <span class="text-white/20">Para Todos</span>
             <span class="absolute -bottom-2 left-1/2 -translate-x-1/2 w-32 h-1 bg-gradient-to-r from-[#FCD116] via-[#003893] to-[#CE1126] rounded-full"></span>
           </h1>
           <p class="max-w-md mx-auto text-sm font-light leading-relaxed opacity-60 mt-6">

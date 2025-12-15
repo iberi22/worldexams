@@ -50,7 +50,7 @@
   let questionResults: QuestionResultData[] = [];
   let currentStreak = 0;
 
-  const STORAGE_KEY = 'openicfes_exam_progress';
+  const STORAGE_KEY = 'saberparatodos_exam_progress';
 
   $: question = activeQuestions[currentIdx] || MOCK_QUESTIONS[0];
 

@@ -44,16 +44,20 @@
   let currentSubmission: ScoreSubmissionInput | null = null;
 
   // Convert ExamCompletionData to ExamResult for scoring
-  function toExamResult(data: ExamCompletionData): ExamResult {
-    // Null-safe: ensure questions array exists
-    const safeQ = data?.questions || [];
-    const questionResults: QuestionResult[] = safeQ.map(q => ({
-      questionId: String(q?.questionId || 'unknown'),
-      difficulty: Math.max(1, Math.min(5, q?.difficulty || 3)) as 1 | 2 | 3 | 4 | 5,
-      isCorrect: q?.isCorrect || false,
-      timeSeconds: Math.round((q?.timeSpentMs || 0) / 1000),
-      currentStreak: q?.streakCount || 0
-    }));
+  function toExamResult(data: ExamCompletionData, questionsList: any[]): ExamResult {
+    // Usar el array de preguntas proporcionado como prop
+    const safeQ = questionsList && questionsList.length > 0 ? questionsList : (data?.questions || []);
+    const questionResults: QuestionResult[] = safeQ.map((q: any, index: number) => {
+      // Buscar si fue respondida correctamente en examData
+      const examQ = data?.questions?.[index];
+      return {
+        questionId: String(q?.id || q?.questionId || 'unknown'),
+        difficulty: Math.max(1, Math.min(5, q?.difficulty || 3)) as 1 | 2 | 3 | 4 | 5,
+        isCorrect: examQ?.isCorrect ?? false,
+        timeSeconds: Math.round((examQ?.timeSpentMs || 0) / 1000),
+        currentStreak: examQ?.streakCount || 0
+      };
+    });
 
     return {
       questions: questionResults,
@@ -68,13 +72,19 @@
   $: safeQuestions = Array.isArray(questions) ? questions : [];
 
   // Calculate score on mount
-  $: if (examData && safeExamQuestions.length > 0 && !examScore) {
-    const examResult = toExamResult(examData);
+  $: if (examData && safeQuestions.length > 0 && !examScore) {
+    const examResult = toExamResult(examData, safeQuestions);
     examScore = calculateExamScore(examResult);
+    console.log('📊 Exam Score Calculated:', {
+      correct: examScore.stats.correctAnswers,
+      total: examScore.stats.questionsAnswered,
+      accuracy: (examScore.stats.accuracy * 100).toFixed(1) + '%'
+    });
   }
 
   $: correctCount = safeExamQuestions.filter(q => q?.isCorrect).length;
-  $: percentage = safeQuestions.length > 0 ? Math.round((correctCount / safeQuestions.length) * 100) : 0;
+  $: totalQuestions = safeQuestions.length;
+  $: percentage = totalQuestions > 0 ? Math.round((correctCount / totalQuestions) * 100) : 0;
 
   function getOptionText(q: any, optionId: string) {
     const opt = q.options.find((o: any) => o.id === optionId);

@@ -2,7 +2,11 @@
   "extends": "astro/tsconfigs/strict",
   "compilerOptions": {
     "jsx": "preserve",
-    "jsxImportSource": "svelte"
+    "jsxImportSource": "svelte",
+    "baseUrl": ".",
+    "paths": {
+      "$lib/*": ["src/lib/*"]
+    }
   },
-  "exclude": ["template-openicfes", "supabase", "functions"]
+  "exclude": ["template-openicfes", "supabase", "functions", "dist"]
 }

@@ -12,7 +12,7 @@ def find_placeholders():
                 with open(path, 'r', encoding='utf-8') as f:
                     if PLACEHOLDER_TEXT in f.read():
                         files_with_placeholders.append(path)
-    
+
     print(f"Found {len(files_with_placeholders)} files with placeholders.")
     for f in files_with_placeholders:
         print(f" - {os.path.basename(f)}")

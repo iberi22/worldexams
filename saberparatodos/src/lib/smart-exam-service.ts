@@ -101,14 +101,20 @@ export async function generateSmartExam(
   return shuffleArray(finalQuestions).slice(0, count);
 }
 
+
 function mapSubjectForGrade(subject: string, grade: number): string {
-  const normSubject = subject.toLowerCase();
+  const normSubject = subject.toLowerCase().replace(/-/g, '_'); // Normalize to API format (underscores)
 
   if (grade <= 9) {
-    if (normSubject === 'lectura-critica') return 'lenguaje';
-    if (normSubject === 'fisica' || normSubject === 'quimica' || normSubject === 'biologia') return 'ciencias-naturales';
-    // Socials might be 'sociales' vs 'sociales-ciudadanas'
+    if (normSubject === 'lectura_critica' || normSubject === 'lectura-critica') return 'lenguaje';
+    if (normSubject === 'fisica' || normSubject === 'quimica' || normSubject === 'biologia') return 'ciencias_naturales';
+    // Socials might be 'sociales' vs 'sociales_ciudadanas'
   }
+
+  // Ensure compatibility with API folder names
+  if (normSubject === 'ciencias-naturales') return 'ciencias_naturales';
+  if (normSubject === 'sociales-ciudadanas' || normSubject === 'sociales_ciudadanas') return 'sociales_y_ciudadanas'; // Grade 11 uses 'y'
+  if (normSubject === 'lectura-critica') return 'lectura_critica';
 
   return normSubject;
 }

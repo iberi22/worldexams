@@ -3,11 +3,11 @@
  * This service fetches questions from the external API when running as a standalone app
  */
 
-// API Configuration - Can be overridden via environment variables
 // API Configuration - Always use production API since local API routes were removed
-const API_BASE_URL = import.meta.env.PUBLIC_API_BASE_URL || 'https://worldexams-api.pages.dev/v1';
-const COUNTRY_CODE = 'co';
-const EXAM_TYPE = 'icfes';
+// API Configuration - Locally we use /api relative path, usually defined in .env
+const API_BASE_URL = import.meta.env.PUBLIC_API_BASE_URL || '/api';
+const COUNTRY_CODE = 'CO'; // Changed to uppercase to match filesystem
+const EXAM_TYPE = 'icfes'; // Correct exam type
 
 export interface APIQuestion {
   id: string;
@@ -126,29 +126,17 @@ export async function getAvailableGrades(): Promise<number[]> {
  * Get available subjects for a grade
  */
 export async function getAvailableSubjects(grade: number): Promise<string[]> {
-  const url = `${API_BASE_URL}/${COUNTRY_CODE}/${EXAM_TYPE}/${grade}`;
+  // Return hardcoded subjects that match the generated API structure
+  // Note: API folders use underscores (e.g., lectura_critica), so we map them here
+  const subjectMap: Record<number, string[]> = {
+    3: ['matematicas', 'lenguaje', 'ingles', 'ciencias_naturales', 'sociales_ciudadanas'],
+    5: ['matematicas', 'lenguaje', 'ciencias_naturales', 'sociales_ciudadanas'],
+    7: ['matematicas', 'lenguaje', 'ingles', 'ciencias_naturales', 'sociales_ciudadanas'],
+    9: ['matematicas', 'lenguaje', 'ciencias_naturales', 'sociales_ciudadanas', 'ingles'],
+    11: ['matematicas', 'lectura_critica', 'ciencias_naturales', 'sociales_y_ciudadanas', 'ingles', 'informatica']
+  };
 
-  try {
-    const response = await fetch(url);
-    if (!response.ok) {
-      throw new Error(`Failed to fetch subjects: ${response.status}`);
-    }
-
-    // Since the API structure has folders per subject, we need to list them
-    // Updated based on actual API generation structure (using hyphens not underscores)
-    const subjectMap: Record<number, string[]> = {
-      3: ['matematicas', 'lenguaje'],
-      5: ['matematicas', 'lenguaje', 'ciencias-naturales', 'sociales-ciudadanas'],
-      7: ['matematicas', 'lenguaje', 'ingles'],
-      9: ['matematicas', 'lenguaje', 'ciencias-naturales', 'sociales-ciudadanas'],
-      11: ['matematicas', 'lectura-critica', 'ciencias-naturales', 'sociales-ciudadanas', 'ingles', 'informatica']
-    };
-
-    return subjectMap[grade] || subjectMap[11];
-  } catch (error) {
-    console.error('Error fetching subjects:', error);
-    return ['matematicas'];
-  }
+  return subjectMap[grade] || subjectMap[11];
 }
 
 /**
@@ -166,17 +154,24 @@ export async function fetchQuestions(
     return questionCache.get(cacheKey)!;
   }
 
-  const url = `${API_BASE_URL}/${COUNTRY_CODE}/${EXAM_TYPE}/${grade}/${subject}/${page}.json?t=${Date.now()}`;
+  const url = `${API_BASE_URL}/${COUNTRY_CODE}/${EXAM_TYPE}/${grade}/${subject.toLowerCase()}/${page}.json?t=${Date.now()}`;
 
   try {
     console.log(`🌐 Fetching questions from: ${url}`);
     const response = await fetch(url, { cache: 'no-cache' });
 
     if (!response.ok) {
-      throw new Error(`Failed to fetch questions: ${response.status}`);
+      console.warn(`⚠️ Failed to fetch questions: ${response.status} for ${url}`);
+      return [];
     }
 
-    const data = await response.json();
+    let data;
+    try {
+      data = await response.json();
+    } catch (parseError) {
+      console.error(`⚠️ Invalid JSON response from ${url}:`, parseError);
+      return [];
+    }
 
     // Null-safe check for questions array
     if (!data || !data.questions || !Array.isArray(data.questions)) {
@@ -222,7 +217,7 @@ export async function fetchAllQuestionsForGrade(grade: number): Promise<AppQuest
       const index: APISubjectIndex = await indexResponse.json();
 
       // Fetch all pages
-      for (let page = 1; page <= index.total_pages; page++) {
+      for (let page = 1; page <= (index?.total_pages || 1); page++) {
         const questions = await fetchQuestions(grade, subject, page);
         allQuestions.push(...questions);
       }
@@ -262,7 +257,16 @@ export async function getSubjectIndex(
   try {
     const response = await fetch(url);
     if (!response.ok) return null;
-    return await response.json();
+
+    let data;
+    try {
+      data = await response.json();
+    } catch (parseError) {
+      console.error('Error parsing subject index JSON:', parseError);
+      return null;
+    }
+
+    return data;
   } catch (error) {
     console.error('Error fetching subject index:', error);
     return null;

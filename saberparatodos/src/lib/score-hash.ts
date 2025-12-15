@@ -13,7 +13,7 @@ import type { ExamCompletionData } from '../types';
 
 // Salt for hashing (not truly secret in client-side, but adds complexity)
 // The real security comes from server-side validation of question sequences
-const HASH_SALT = 'WX-OpenIcfes-2025';
+const HASH_SALT = 'WX-SaberParaTodos-2025';
 
 /**
  * Generate a deterministic hash from exam completion data

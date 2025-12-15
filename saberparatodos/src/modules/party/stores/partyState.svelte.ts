@@ -536,8 +536,8 @@ class PartyState {
   private generatePartyId(): string {
     return Math.random().toString(36).substring(2, 8).toUpperCase();
   }
-
-
+}
 
 // Exportar instancia singleton
 export const partyState = new PartyState();
+
