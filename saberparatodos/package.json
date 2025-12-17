@@ -28,6 +28,9 @@
     "@sentry/svelte": "^8.40.0",
     "@supabase/supabase-js": "^2.86.0",
     "astro": "^5.16.0",
+    "chart.js": "^4.5.1",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^3.0.4",
     "katex": "^0.16.27",
     "svelte": "^5.44.1",
     "tailwindcss": "^3.0.0"
@@ -35,6 +38,7 @@
   "devDependencies": {
     "@astrojs/check": "^0.9.5",
     "@playwright/test": "^1.57.0",
+    "@types/html2canvas": "^0.5.35",
     "@types/node": "^20.0.0",
     "gray-matter": "^4.0.3",
     "husky": "^9.1.7",
