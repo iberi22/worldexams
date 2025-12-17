@@ -24,16 +24,6 @@ source_license: "CC BY-NC-SA 4.0"
 search_query: "contenidos para aprender lenguaje grado 7 tipologia textual"
 original_question: "Identificación de tipo de texto por su intención comunicativa"
 original_answer: "Texto Argumentativo"
-
-## 📊 Metadata de Validación
-| Campo | Valor |
-|---|---|
-| Total Preguntas | 7 |
-| Original (Dificultad 3) | 1 |
-| Fácil (Dificultad 1-2) | 2 |
-| Media (Dificultad 3) | 2 |
-| Difícil (Dificultad 4-5) | 2 |
-
 ---
 
 # Pregunta Base: Clasificación de Textos
@@ -194,3 +184,14 @@ El autor se detiene a detallar las características físicas (adjetivos) del lug
 
 La columna de opinión es un texto argumentativo donde el autor firma y expresa su punto de vista personal (**subjetividad**). Los otros (noticia, manual, diccionario) buscan ser objetivos y neutros.
 
+---
+
+## 📊 Metadata de Validación
+
+| Campo | Valor |
+|---|---|
+| Total Preguntas | 7 |
+| Original (Dificultad 3) | 1 |
+| Fácil (Dificultad 1-2) | 2 |
+| Media (Dificultad 3) | 2 |
+| Difícil (Dificultad 4-5) | 2 |

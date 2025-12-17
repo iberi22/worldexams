@@ -1,0 +1,3 @@
+-- Placeholder migration file.
+-- This version exists in the remote Supabase migration history but was missing locally.
+-- No-op.

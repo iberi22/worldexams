@@ -6,6 +6,7 @@ grado: 7
 asignatura: "Matemáticas"
 tema: "Proporcionalidad y Regla de Tres"
 protocol_version: "2.1"
+bundle_version: "2.1"
 total_questions: 7
 estado: "published"
 creador: "Antigravity"
@@ -14,7 +15,6 @@ dificultad: 3
 llm_model: "gemini-2.0-flash-exp"
 agent: "Antigravity"
 ide: "Cursor"
-bundle_version: "2.1"
 
 # === LICENSING (NEW v2.1) ===
 licenses:
@@ -28,16 +28,6 @@ source_license: "CC BY-SA 4.0"
 search_query: "preguntas liberadas icfes matematicas grado 7 proporcionalidad"
 original_question: "Adaptación de problema de proporcionalidad directa"
 original_answer: "Si 2 valen 1000, 4 valen 2000"
-
-## 📊 Metadata de Validación
-| Campo | Valor |
-|---|---|
-| Total Preguntas | 7 |
-| Original (Dificultad 3) | 1 |
-| Fácil (Dificultad 1-2) | 2 |
-| Media (Dificultad 3) | 2 |
-| Difícil (Dificultad 4-5) | 2 |
-
 ---
 
 # Pregunta Base: Razones y Proporciones
@@ -199,3 +189,14 @@ Pedro aportó $5.000 de un total de $10.000, lo que representa exactamente la **
 Por justicia proporcional, debe recibir la mitad del premio:
 $100.000 \times \frac{1}{2} = 50.000$.
 
+---
+
+## 📊 Metadata de Validación
+
+| Campo | Valor |
+|---|---|
+| Total Preguntas | 7 |
+| Original (Dificultad 3) | 1 |
+| Fácil (Dificultad 1-2) | 2 |
+| Media (Dificultad 3) | 2 |
+| Difícil (Dificultad 4-5) | 2 |

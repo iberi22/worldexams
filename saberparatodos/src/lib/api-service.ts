@@ -171,7 +171,7 @@ export async function fetchQuestions(
       const text = await response.text();
       console.error(`❌ API Error - Expected JSON, got ${contentType || 'unknown'}`);
       console.error(`First 200 chars of response: ${text.substring(0, 200)}`);
-      
+
       // Si es HTML, probablemente es un 404 de Cloudflare
       if (text.includes('<!DOCTYPE') || text.includes('<html')) {
         console.error(`🚨 Received HTML instead of JSON. The API endpoint might not exist in production.`);
@@ -213,12 +213,28 @@ export async function fetchQuestions(
 
 /**
  * Fetch all questions for a grade (all subjects, all pages)
+ * 🔒 GUEST LIMIT: Max 100 questions for unauthenticated users
+ * 🔓 AUTHENTICATED: Max 200 questions
+ * 📱 PWA + AUTH: Max 420 questions (7 days of exams)
  */
-export async function fetchAllQuestionsForGrade(grade: number): Promise<AppQuestion[]> {
+export async function fetchAllQuestionsForGrade(
+  grade: number,
+  isGuest: boolean = true,
+  maxQuestions: number = 100
+): Promise<AppQuestion[]> {
   const subjects = await getAvailableSubjects(grade);
   const allQuestions: AppQuestion[] = [];
 
+  // 🔒 Security: Limit guest users to prevent scraping
+  const GUEST_LIMIT = isGuest ? maxQuestions : Infinity;
+
   for (const subject of subjects) {
+    // Stop if we've reached the guest limit
+    if (allQuestions.length >= GUEST_LIMIT) {
+      console.log(`🔒 Guest limit reached: ${GUEST_LIMIT} questions`);
+      break;
+    }
+
     try {
       // First get the index to know how many pages
       const indexUrl = `${API_BASE_URL}/${COUNTRY_CODE}/${EXAM_TYPE}/${grade}/${subject}/index.json?t=${Date.now()}`;
@@ -228,24 +244,32 @@ export async function fetchAllQuestionsForGrade(grade: number): Promise<AppQuest
       if (!indexResponse.ok) {
         console.warn(`No index found for ${subject}, trying page 1 only`);
         const questions = await fetchQuestions(grade, subject, 1);
-        allQuestions.push(...questions);
+        const remainingSlots = GUEST_LIMIT - allQuestions.length;
+        allQuestions.push(...questions.slice(0, remainingSlots));
         continue;
       }
 
       const index: APISubjectIndex = await indexResponse.json();
 
-      // Fetch all pages
+      // Fetch pages until we hit the limit
       for (let page = 1; page <= (index?.total_pages || 1); page++) {
+        if (allQuestions.length >= GUEST_LIMIT) break;
+
         const questions = await fetchQuestions(grade, subject, page);
-        allQuestions.push(...questions);
+        const remainingSlots = GUEST_LIMIT - allQuestions.length;
+        allQuestions.push(...questions.slice(0, remainingSlots));
       }
     } catch (error) {
       console.error(`Error fetching ${subject}:`, error);
     }
   }
 
-  console.log(`📚 Total questions loaded for grade ${grade}: ${allQuestions.length}`);
-  return allQuestions;
+  // Shuffle to randomize which 100 questions guests get
+  const shuffled = allQuestions.sort(() => Math.random() - 0.5);
+  const finalSet = shuffled.slice(0, GUEST_LIMIT);
+
+  console.log(`📚 Total questions loaded for grade ${grade}: ${finalSet.length} (Guest: ${isGuest}, Limit: ${GUEST_LIMIT})`);
+  return finalSet;
 }
 
 /**

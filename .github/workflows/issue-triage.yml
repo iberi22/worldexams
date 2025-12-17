@@ -1,0 +1,53 @@
+name: 🏷️ Triage Automático de Issues
+
+on:
+  issues:
+    types: [opened, edited, labeled, unlabeled]
+  schedule:
+    # Cada hora
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  triage:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Cache Rust Dependencies
+        uses: actions/cache@v3
+        with:
+          path: |
+            ~/.cargo/bin/
+            ~/.cargo/registry/index/
+            ~/.cargo/registry/cache/
+            ~/.cargo/git/db/
+            social-orchestrator/target/
+          key: ${{ runner.os }}-cargo-${{ hashFiles('social-orchestrator/Cargo.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-cargo-
+
+      - name: Install Rust
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Build Orchestrator
+        run: |
+          cd social-orchestrator
+          cargo build --release
+
+      - name: Run Triage
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd social-orchestrator
+          ./target/release/social-orchestrator triage-issues --repo ${{ github.repository }}
+
+      - name: Summary
+        run: |
+          echo "✅ Triage automático completado"
+          echo "📋 Repositorio: ${{ github.repository }}"
+          echo "🔍 Issues procesados y etiquetados por país"

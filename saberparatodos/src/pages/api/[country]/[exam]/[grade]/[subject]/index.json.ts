@@ -7,6 +7,51 @@
 import { getCollection } from 'astro:content';
 import type { APIRoute } from 'astro';
 
+function slugifySubject(input: string): string {
+  const s = (input || '').toLowerCase().trim();
+  // Minimal, stable slugs for known Saber 11 subjects.
+  if (s.includes('matem')) return 'matematicas';
+  if (s.includes('lectura')) return 'lectura_critica';
+  if (s.includes('ciencias') || s.includes('biolog') || s.includes('quim') || s.includes('fisic')) return 'ciencias_naturales';
+  if (s.includes('social')) return 'sociales_y_ciudadanas';
+  if (s.includes('ingl')) return 'ingles';
+  if (s.includes('inform')) return 'informatica';
+
+  // Generic fallback
+  return s
+    .normalize('NFD')
+    .replace(/\p{Diacritic}+/gu, '')
+    .replace(/[^a-z0-9]+/g, '_')
+    .replace(/^_+|_+$/g, '');
+}
+
+export async function getStaticPaths() {
+  const entries = await getCollection('questions');
+
+  const unique = new Set<string>();
+  const paths: Array<{ params: { country: string; exam: string; grade: string; subject: string } }> = [];
+
+  for (const entry of entries) {
+    const country = String(entry.data.country || '').toUpperCase();
+    const grade = String(entry.data.grado ?? '');
+    const subject = slugifySubject(String(entry.data.asignatura || ''));
+
+    if (!country || !grade || !subject) continue;
+
+    // This repo targets ICFES.
+    const exam = 'icfes';
+    const key = `${country}|${exam}|${grade}|${subject}`;
+    if (unique.has(key)) continue;
+
+    unique.add(key);
+    paths.push({
+      params: { country, exam, grade, subject },
+    });
+  }
+
+  return paths;
+}
+
 export const GET: APIRoute = async ({ params }) => {
   const { country, exam, grade, subject } = params;
 
@@ -18,9 +63,14 @@ export const GET: APIRoute = async ({ params }) => {
   }
 
   try {
-    // Normalize subject names for comparison (handle spaces, hyphens, underscores)
-    const normalizeSubject = (str: string) => 
-      str.toLowerCase().replace(/[\s_-]/g, '').trim();
+    // Normalize subject names for comparison (handle spaces, hyphens, underscores, AND accents)
+    const normalizeSubject = (str: string) =>
+      str
+        .toLowerCase()
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '') // Remove diacritics/accents
+        .replace(/[\s_-]/g, '')
+        .trim();
 
     // Fetch all questions from content collection
     const allQuestions = await getCollection('questions', (entry) => {

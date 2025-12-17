@@ -1,0 +1,3 @@
+# Cloudflare Pages rewrite for bot reports (static build)
+# Serve the placeholder page for any report token.
+/informes/bot/* /informes/bot/_ 200

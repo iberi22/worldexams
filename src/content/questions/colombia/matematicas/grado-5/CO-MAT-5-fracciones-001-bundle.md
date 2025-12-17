@@ -24,16 +24,6 @@ source_license: "CC BY-NC-SA 4.0"
 search_query: "dba matematicas grado 5 colombia fracciones"
 original_question: "Problema de reparto equitativo usando fracciones"
 original_answer: "1/4 para cada uno"
-
-## 📊 Metadata de Validación
-| Campo | Valor |
-|---|---|
-| Total Preguntas | 7 |
-| Original (Dificultad 3) | 1 |
-| Fácil (Dificultad 1-2) | 2 |
-| Media (Dificultad 3) | 2 |
-| Difícil (Dificultad 4-5) | 2 |
-
 ---
 
 # Pregunta Base: Concepto de Fracción
@@ -196,3 +186,14 @@ $\frac{1}{4}$ de 20 es dividir 20 entre 4.
 $20 \div 4 = 5$.
 Por lo tanto, **5 estudiantes** usan gafas.
 
+---
+
+## 📊 Metadata de Validación
+
+| Campo | Valor |
+|---|---|
+| Total Preguntas | 7 |
+| Original (Dificultad 3) | 1 |
+| Fácil (Dificultad 1-2) | 2 |
+| Media (Dificultad 3) | 2 |
+| Difícil (Dificultad 4-5) | 2 |

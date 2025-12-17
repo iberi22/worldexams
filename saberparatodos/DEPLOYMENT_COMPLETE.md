@@ -144,8 +144,8 @@ Cloudflare Pages is configured for automatic deployments on push to `main` branc
 
 - **Cloudflare Dashboard:** https://dash.cloudflare.com/
 - **Supabase Dashboard:** https://supabase.com/dashboard
-- **GitHub Repo:** https://github.com/iberi22/worldexams
-- **CI/CD Workflow:** https://github.com/iberi22/worldexams/actions
+- **GitHub Repo:** https://github.com/world-exams
+- **CI/CD Workflow:** https://github.com/world-exams/actions
 
 ---
 

@@ -170,7 +170,7 @@ Verifica:
 
 - **Cloudflare Dashboard:** https://dash.cloudflare.com/
 - **Supabase Dashboard:** https://supabase.com/dashboard
-- **GitHub Actions:** https://github.com/iberi22/worldexams/actions
+- **GitHub Actions:** https://github.com/world-exams/actions
 - **Documentation:** https://developers.cloudflare.com/pages/
 
 ---

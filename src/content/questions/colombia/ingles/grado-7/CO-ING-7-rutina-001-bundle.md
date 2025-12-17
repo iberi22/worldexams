@@ -28,16 +28,6 @@ source_license: "CC BY-SA 4.0"
 search_query: "preguntas liberadas icfes ingles grado 7 rutinas diarias"
 original_question: "Adaptación de textos sobre rutinas"
 original_answer: "She wakes up at 6"
-
-## 📊 Metadata de Validación
-| Campo | Valor |
-|---|---|
-| Total Preguntas | 7 |
-| Original (Dificultad 3) | 1 |
-| Fácil (Dificultad 1-2) | 2 |
-| Media (Dificultad 3) | 2 |
-| Difícil (Dificultad 4-5) | 2 |
-
 ---
 
 # Pregunta Base: Daily Routines
@@ -195,3 +185,14 @@ Select the sentence that is grammatically INCORRECT:
 
 Para la tercera persona (She), la negación correcta es **doesn't**, no "don't". La frase correcta sería "She doesn't like coffee".
 
+---
+
+## 📊 Metadata de Validación
+
+| Campo | Valor |
+|---|---|
+| Total Preguntas | 7 |
+| Original (Dificultad 3) | 1 |
+| Fácil (Dificultad 1-2) | 2 |
+| Media (Dificultad 3) | 2 |
+| Difícil (Dificultad 4-5) | 2 |

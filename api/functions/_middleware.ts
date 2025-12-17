@@ -8,6 +8,7 @@ interface Env {
 export const onRequest: PagesFunction<Env> = async (context) => {
   const request = context.request;
   const env = context.env;
+  const url = new URL(request.url);
 
   // 1. Handle CORS Preflight
   if (request.method === "OPTIONS") {
@@ -20,14 +21,25 @@ export const onRequest: PagesFunction<Env> = async (context) => {
     });
   }
 
-  // 2. Whitelist Check (Origin)
+  // 2. Allow public content routes without authentication
+  // Static JSON files in /v1/ are public and don't require API key
+  if (url.pathname.startsWith('/v1/') && url.pathname.endsWith('.json')) {
+    const response = await context.next();
+    response.headers.set("Access-Control-Allow-Origin", "*");
+    response.headers.set("Content-Type", "application/json");
+    return response;
+  }
+
+  // 3. Whitelist Check (Origin)
   // Allow our own apps to access without API Key
   const origin = request.headers.get("Origin");
   const allowedOrigins = [
     "http://localhost:4321",
     "http://localhost:3000",
+    "http://localhost:5173",
     "https://saberparatodos.pages.dev",
-    "https://worldexams.org"
+    "https://worldexams.org",
+    "https://worldexams-api.pages.dev"
   ];
 
   const isWhitelisted = origin && allowedOrigins.some(o => origin.startsWith(o));
@@ -35,10 +47,11 @@ export const onRequest: PagesFunction<Env> = async (context) => {
   if (isWhitelisted) {
     const response = await context.next();
     response.headers.set("Access-Control-Allow-Origin", origin);
+    response.headers.set("Content-Type", "application/json");
     return response;
   }
 
-  // 3. API Key Check
+  // 4. API Key Check for protected endpoints
   const apiKey = request.headers.get("x-api-key");
 
   if (apiKey) {
@@ -81,10 +94,10 @@ export const onRequest: PagesFunction<Env> = async (context) => {
     }
   }
 
-  // 4. Unauthorized
+  // 5. Unauthorized
   return new Response(JSON.stringify({
     error: "Unauthorized",
-    message: "Access denied. Please provide a valid 'x-api-key' header or use an authorized origin."
+    message: "Access denied. This endpoint requires authentication. Please provide a valid 'x-api-key' header or use an authorized origin."
   }), {
     status: 403,
     headers: {

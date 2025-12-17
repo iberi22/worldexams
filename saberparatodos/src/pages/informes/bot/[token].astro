@@ -1,0 +1,19 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import BotPracticeReport from '../../../components/BotPracticeReport.svelte';
+
+// Static builds can't pre-render arbitrary tokens. We generate a single
+// placeholder path and rely on a Pages rewrite to serve it for any token.
+export async function getStaticPaths() {
+  return [{ params: { token: '_' } }];
+}
+
+const { token } = Astro.params;
+
+const title = 'Informe de Práctica (Bot) | SaberParaTodos';
+const description = 'Resultados de tu práctica en Telegram con reporte y publicidad.';
+---
+
+<Layout title={title} description={description}>
+  <BotPracticeReport client:load token={token || ''} />
+</Layout>

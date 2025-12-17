@@ -49,7 +49,7 @@ import Layout from '../layouts/Layout.astro';
 
         <!-- GitHub Issues -->
         <a
-          href="https://github.com/iberi22/saberparatodos/issues/new"
+          href="https://github.com/world-exams/world-exams/issues/new"
           target="_blank"
           rel="noopener noreferrer"
           class="contact-card group"
@@ -62,7 +62,7 @@ import Layout from '../layouts/Layout.astro';
           <h3 class="text-xl font-bold mb-2">GitHub Issues</h3>
           <p class="text-sm text-white/50 mb-4">
             Reporta bugs, sugiere features o contribuye al código.
-            Todo es open source.
+            Los issues se reciben centralmente para triage y asignación por país.
           </p>
           <span class="text-xs text-[#FCD116] uppercase tracking-wider group-hover:underline">
             Abrir Issue →
@@ -93,7 +93,7 @@ import Layout from '../layouts/Layout.astro';
 
         <!-- Email -->
         <a
-          href="mailto:contacto@worldexams.org"
+          href="mailto:contacto@saberparatodos.space"
           class="contact-card group"
         >
           <div class="icon-wrapper text-[#F5F5DC] group-hover:text-[#CE1126] transition-colors">
@@ -148,7 +148,7 @@ import Layout from '../layouts/Layout.astro';
             </summary>
             <div class="p-4 text-white/60 text-sm">
               Sí, 100% gratis y open source. No hay costos ocultos, suscripciones ni anuncios intrusivos.
-              El proyecto es financiado por contribuciones voluntarias en <a href="https://patreon.com/elberi" class="text-[#FCD116] hover:underline">Patreon</a>.
+              El proyecto es financiado por contribuciones voluntarias en <a href="https://patreon.com/worldexams" target="_blank" rel="noopener noreferrer" class="text-[#FCD116] hover:underline">Patreon</a>.
             </div>
           </details>
 
@@ -162,10 +162,11 @@ import Layout from '../layouts/Layout.astro';
             <div class="p-4 text-white/60 text-sm">
               ¡Absolutamente! Puedes contribuir de varias formas:
               <ul class="list-disc list-inside mt-2 space-y-1">
-                <li>Reportando errores en las preguntas</li>
-                <li>Sugiriendo nuevas preguntas</li>
-                <li>Contribuyendo código en GitHub</li>
-                <li>Compartiendo el proyecto con otros estudiantes</li>
+                <li>Reportando errores o sugiriendo mejoras en <a href="https://github.com/world-exams/saber-co/issues" target="_blank" rel="noopener noreferrer" class="text-[#FCD116] hover:underline">GitHub Issues</a></li>
+                <li>Creando nuevas preguntas siguiendo el <a href="https://github.com/world-exams/world-exams/blob/main/docs/QUESTION_GENERATION_PROTOCOL_V2.md" target="_blank" rel="noopener noreferrer" class="text-[#FCD116] hover:underline">Protocol v2.0</a></li>
+                <li>Contribuyendo código y componentes en nuestros repositorios</li>
+                <li>Compartiendo el proyecto con otros estudiantes y educadores</li>
+                <li>Apoyando financieramente en Patreon</li>
               </ul>
             </div>
           </details>
@@ -178,9 +179,9 @@ import Layout from '../layouts/Layout.astro';
               </svg>
             </summary>
             <div class="p-4 text-white/60 text-sm">
-              No. Nuestras preguntas son originales, creadas siguiendo el formato y estilo del ICFES,
-              pero no son preguntas oficiales. Están diseñadas para practicar las mismas competencias
-              evaluadas en el examen real.
+              No. Nuestras preguntas son originales, generadas usando IA y validadas pedagógicamente,
+              siguiendo el formato y estándares del ICFES Saber 11. Cada pregunta sigue el Protocol v2.0
+              con 7 variaciones de dificultad (fácil, media, difícil) para adaptarse a tu nivel de preparación.
             </div>
           </details>
 
@@ -192,9 +193,40 @@ import Layout from '../layouts/Layout.astro';
               </svg>
             </summary>
             <div class="p-4 text-white/60 text-sm">
-              Sí. Solo guardamos tu progreso si creas una cuenta voluntariamente. No vendemos datos
-              a terceros. Puedes usar la plataforma como invitado sin registrarte. Lee nuestra
-              política de privacidad para más detalles.
+              Sí. Usamos Supabase con políticas RLS (Row Level Security) para proteger tus datos.
+              Solo guardamos tu progreso si creas una cuenta voluntariamente. No vendemos datos
+              a terceros. Puedes usar la plataforma como invitado sin registrarte. Todo el código
+              es open source y auditable en <a href="https://github.com/world-exams" target="_blank" rel="noopener noreferrer" class="text-[#FCD116] hover:underline">GitHub</a>.
+            </div>
+          </details>
+
+          <details class="faq-item group">
+            <summary class="flex items-center justify-between cursor-pointer p-4 bg-white/5 rounded-lg hover:bg-white/10 transition-colors">
+              <span class="font-medium">¿Qué es World Exams?</span>
+              <svg class="w-5 h-5 text-[#FCD116] transform group-open:rotate-180 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+              </svg>
+            </summary>
+            <div class="p-4 text-white/60 text-sm">
+              World Exams es una organización global que desarrolla plataformas de práctica gratuitas
+              para exámenes nacionales estandarizados en +21 países (Colombia ICFES, México EXANI,
+              Brasil ENEM, USA SAT, China Gaokao, India JEE, y más). Cada país tiene su propia
+              plataforma con contenido culturalmente adaptado. Visita <a href="https://world-exams.github.io" target="_blank" rel="noopener noreferrer" class="text-[#FCD116] hover:underline">world-exams.github.io</a>
+            </div>
+          </details>
+
+          <details class="faq-item group">
+            <summary class="flex items-center justify-between cursor-pointer p-4 bg-white/5 rounded-lg hover:bg-white/10 transition-colors">
+              <span class="font-medium">¿Cómo se generan las preguntas?</span>
+              <svg class="w-5 h-5 text-[#FCD116] transform group-open:rotate-180 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+              </svg>
+            </summary>
+            <div class="p-4 text-white/60 text-sm">
+              Usamos IA (Gemini/GPT) con prompts especializados y validación pedagógica automática.
+              Cada pregunta sigue nuestro Protocol v2.0: 1 pregunta base con 7 variaciones de dificultad,
+              distractores plausibles basados en errores comunes, y explicaciones educativas detalladas.
+              El contenido es revisado por la comunidad y mejorado continuamente.
             </div>
           </details>
         </div>

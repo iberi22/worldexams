@@ -24,16 +24,6 @@ source_license: "CC BY-NC-SA 4.0"
 search_query: "estandares basicos competencias ciencias sociales grado 3 entorno fisico"
 original_question: "Pregunta sobre puntos cardinales y orientación"
 original_answer: "Por donde sale el sol es el Oriente"
-
-## 📊 Metadata de Validación
-| Campo | Valor |
-|---|---|
-| Total Preguntas | 7 |
-| Original (Dificultad 3) | 1 |
-| Fácil (Dificultad 1-2) | 2 |
-| Media (Dificultad 3) | 2 |
-| Difícil (Dificultad 4-5) | 2 |
-
 ---
 
 # Pregunta Base: Ubicación Espacial
@@ -189,3 +179,14 @@ Tu municipio hace parte de un territorio más grande llamado **Departamento**, y
 Relación espacial de pertenencia política-administrativa:
 Yo vivo en un Municipio (ej. Medellín), que está en un Departamento (Antioquia), que está en un País (Colombia).
 
+---
+
+## 📊 Metadata de Validación
+
+| Campo | Valor |
+|---|---|
+| Total Preguntas | 7 |
+| Original (Dificultad 3) | 1 |
+| Fácil (Dificultad 1-2) | 2 |
+| Media (Dificultad 3) | 2 |
+| Difícil (Dificultad 4-5) | 2 |

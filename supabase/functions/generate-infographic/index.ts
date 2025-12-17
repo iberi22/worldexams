@@ -126,7 +126,7 @@ Make it visually engaging for students studying for exams.`;
     }
 
     const geminiResult = await geminiResponse.json();
-    
+
     // Extract image from Gemini response
     const imageUrl = geminiResult.predictions?.[0]?.bytesBase64Encoded
       ? `data:image/png;base64,${geminiResult.predictions[0].bytesBase64Encoded}`

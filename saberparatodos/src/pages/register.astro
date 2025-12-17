@@ -1,0 +1,142 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { supabase } from '../lib/supabase';
+---
+
+<Layout title="Registro - SaberParaTodos">
+  <main class="min-h-screen bg-gradient-to-br from-[#003893] to-[#FCD116] flex items-center justify-center p-4">
+    <div class="bg-white/95 backdrop-blur-sm rounded-2xl shadow-2xl max-w-md w-full p-8">
+      <div class="text-center mb-6">
+        <h1 class="text-3xl font-bold text-gray-900 mb-2">🎓 Únete a SaberParaTodos</h1>
+        <p class="text-gray-600">Crea tu cuenta gratis y empieza a estudiar</p>
+        <div class="mt-4 p-3 bg-blue-50 border border-blue-200 rounded-lg">
+          <p class="text-sm text-blue-800">
+            💡 Después de registrarte, puedes vincular Telegram en <a href="/vincular-telegram" class="underline font-semibold">/vincular-telegram</a>
+          </p>
+        </div>
+      </div>
+
+      <div id="auth-container"></div>
+
+      <div class="mt-6 text-center">
+        <p class="text-sm text-gray-600">
+          ¿Ya tienes cuenta? <a href="/" class="text-blue-600 hover:underline font-semibold">Inicia sesión</a>
+        </p>
+      </div>
+
+      <div class="mt-8 pt-6 border-t border-gray-200">
+        <h3 class="font-semibold text-gray-900 mb-3">Con tu cuenta puedes:</h3>
+        <ul class="space-y-2 text-sm text-gray-700">
+          <li class="flex items-start gap-2">
+            <span class="text-green-500 mt-0.5">✓</span>
+            <span>Practicar con miles de preguntas reales del ICFES</span>
+          </li>
+          <li class="flex items-start gap-2">
+            <span class="text-green-500 mt-0.5">✓</span>
+            <span>Tutor IA personal (SaberBot) 24/7</span>
+          </li>
+          <li class="flex items-start gap-2">
+            <span class="text-green-500 mt-0.5">✓</span>
+            <span>Seguimiento de progreso y estadísticas</span>
+          </li>
+          <li class="flex items-start gap-2">
+            <span class="text-green-500 mt-0.5">✓</span>
+            <span>Acceso desde web y Telegram</span>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </main>
+</Layout>
+
+<script>
+  import { supabase } from '../lib/supabase';
+
+  const authContainer = document.getElementById('auth-container');
+
+  // Create registration form
+  const form = document.createElement('form');
+  form.className = 'space-y-4';
+  form.innerHTML = `
+    <div>
+      <label class="block text-sm font-medium text-gray-700 mb-2">Email</label>
+      <input
+        type="email"
+        id="email"
+        required
+        class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+        placeholder="tu@email.com"
+      />
+    </div>
+    <div>
+      <label class="block text-sm font-medium text-gray-700 mb-2">Contraseña</label>
+      <input
+        type="password"
+        id="password"
+        required
+        minlength="6"
+        class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+        placeholder="Mínimo 6 caracteres"
+      />
+    </div>
+    <div>
+      <label class="block text-sm font-medium text-gray-700 mb-2">Nombre completo</label>
+      <input
+        type="text"
+        id="fullName"
+        required
+        class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+        placeholder="Tu nombre"
+      />
+    </div>
+    <div id="error-message" class="hidden p-3 bg-red-50 border border-red-200 rounded-lg text-sm text-red-800"></div>
+    <button
+      type="submit"
+      id="submit-btn"
+      class="w-full bg-gradient-to-r from-blue-600 to-blue-700 text-white font-semibold py-3 rounded-lg hover:from-blue-700 hover:to-blue-800 transition-all shadow-md"
+    >
+      Crear cuenta gratis
+    </button>
+  `;
+
+  authContainer?.appendChild(form);
+
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+
+    const email = (document.getElementById('email') as HTMLInputElement).value;
+    const password = (document.getElementById('password') as HTMLInputElement).value;
+    const fullName = (document.getElementById('fullName') as HTMLInputElement).value;
+    const errorDiv = document.getElementById('error-message');
+    const submitBtn = document.getElementById('submit-btn') as HTMLButtonElement;
+
+    submitBtn.disabled = true;
+    submitBtn.textContent = 'Creando cuenta...';
+    errorDiv?.classList.add('hidden');
+
+    try {
+      // 1. Sign up user
+      const { data, error } = await supabase.auth.signUp({
+        email,
+        password,
+        options: {
+          data: {
+            full_name: fullName
+          }
+        }
+      });
+
+      if (error) throw error;
+
+      // 2. Success
+      alert('✅ ¡Cuenta creada! Revisa tu email para confirmar tu cuenta.');
+      window.location.href = '/';
+
+    } catch (error: any) {
+      errorDiv!.textContent = error.message || 'Error al crear cuenta';
+      errorDiv?.classList.remove('hidden');
+      submitBtn.disabled = false;
+      submitBtn.textContent = 'Crear cuenta gratis';
+    }
+  });
+</script>

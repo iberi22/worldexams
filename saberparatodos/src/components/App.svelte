@@ -14,6 +14,7 @@
   import MemoryStatus from './MemoryStatus.svelte';
   import Login from './Login.svelte';
   import ExamConfigModal from './ExamConfigModal.svelte'; // New import
+  import CacheIndicator from './CacheIndicator.svelte'; // Cache indicator
 
   import { supabase } from '../lib/supabase';
   import { getLocalIdentity } from '../lib/identity';
@@ -26,9 +27,11 @@
   import BlogView from './BlogView.svelte';
   import ArticleView from './ArticleView.svelte';
   import { fetchAllQuestionsForGrade, getAvailableSubjects, fetchQuestions } from '../lib/api-service'; // Added fetchQuestions
+  import { cacheService, generateRandomExam, getRecommendedExamSize } from '../lib/cache-service'; // Cache service
   import { filterByPlan } from '../utils/questionParser';
   import { generateSmartExam } from '../lib/smart-exam-service'; // Smart Service
   import IntegrityIntro from './IntegrityIntro.svelte'; // New Component
+  import { getPWAStatus, getRecommendedCacheSize, getCacheExpiryHours } from '../lib/pwa-detector'; // PWA Detection
   import packageInfo from '../../package.json';
 
   export let questions = [];
@@ -56,6 +59,8 @@
   let user = null;
   let showRegistrationModal = false;
   let cacheWasCleared = false; // Track if cache was just cleared
+  let isPWA = false; // PWA detection state
+  let pwaStatus = { isPWA: false, displayMode: 'browser', isInstallable: false }; // PWA status
   let memoryStats = { answeredCount: 0, totalAvailable: 0, percentAnswered: 0 };
 
   // User plan (free or institutional)
@@ -87,31 +92,55 @@
     loadError = null;
 
     try {
-      console.log(`🌐 Loading questions for ${subject} grade ${grade}...`);
+      console.log(`🔍 Checking cache for grade ${grade}...`);
 
-      // If subject is null (Simulacro Completo), we might need to fetch all or a mix
-      // For now, let's fetch all for the grade if subject is null, or specific subject
-      let apiQuestions = [];
+      // 1️⃣ Try to load from IndexedDB cache first
+      const cachedPool = await cacheService.getQuestionPool(grade);
 
-      if (subject) {
-        apiQuestions = await fetchQuestions(grade, subject.toLowerCase());
-      } else {
-        apiQuestions = await fetchAllQuestionsForGrade(grade);
+      if (cachedPool && cachedPool.questions.length > 0) {
+        console.log(`✅ Using ${cachedPool.questionCount} cached questions`);
+        loadedQuestions = cachedPool.questions;
+
+        // Show cache info to user
+        const cacheAge = Math.floor((Date.now() - cachedPool.timestamp) / 1000 / 60);
+        console.log(`📦 Cache age: ${cacheAge} minutes`);
+
+        isLoadingQuestions = false;
+        return;
       }
+
+      // 2️⃣ No cache found - fetch from API
+      console.log(`🌐 Loading questions from API for grade ${grade}...`);
+
+      // Calculate cache size based on context
+      const cacheSize = getRecommendedCacheSize(!isGuest, isPWA);
+      const expiryHours = getCacheExpiryHours(isPWA);
+
+      console.log(`📊 Cache Strategy: ${!isGuest ? (isPWA ? '📱 PWA+Auth' : '🔓 Auth') : '🔒 Guest'} → ${cacheSize} questions (${expiryHours}h expiry)`);
+
+      // Fetch with intelligent limit
+      const apiQuestions = await fetchAllQuestionsForGrade(grade, isGuest, cacheSize);
 
       if (apiQuestions && apiQuestions.length > 0) {
-        // Merge with existing loadedQuestions to avoid duplicates
-        const existingIds = new Set(loadedQuestions.map(q => q.id));
-        const newQuestions = apiQuestions.filter(q => !existingIds.has(q.id));
-        loadedQuestions = [...loadedQuestions, ...newQuestions];
+        loadedQuestions = apiQuestions;
 
-        console.log(`✅ Added ${newQuestions.length} new questions from API`);
+        // 3️⃣ Save to cache for future use (with context-aware settings)
+        await cacheService.saveQuestionPool(grade, apiQuestions, isGuest, isPWA, cacheSize, expiryHours);
+
+        console.log(`✅ Loaded and cached ${apiQuestions.length} questions`);
+        if (isPWA && !isGuest) {
+          console.log('📱 PWA Mode: Cached 420 questions for 7 days of exams!');
+        } else if (!isGuest) {
+          console.log('🔓 Auth Mode: Cached 200 questions for practice');
+        } else {
+          console.log('🔒 Guest Mode: Limited to 100 questions');
+        }
       } else {
-        console.warn(`⚠️ No questions found for grade ${grade} subject ${subject}`);
-        loadError = `No se encontraron preguntas para ${subject || 'el grado seleccionado'}`;
+        console.warn(`⚠️ No questions found for grade ${grade}`);
+        loadError = `No se encontraron preguntas para el grado ${grade}`;
       }
     } catch (err) {
-      console.error('Error loading questions from API:', err);
+      console.error('Error loading questions:', err);
       loadError = 'Error al cargar las preguntas. Por favor intenta de nuevo.';
     } finally {
       isLoadingQuestions = false;
@@ -340,61 +369,50 @@
     const minTimePromise = new Promise(resolve => setTimeout(resolve, 3500));
 
     try {
-      console.log(`🤖 Starting Exam Generation (Diagnostic Mode: ${config.useDiagnostic})...`);
+      console.log(`🤖 Starting Exam Generation (Count: ${config.count})...`);
 
-      let generationPromise;
+      // 1️⃣ Load questions from cache (or API if first time)
+      await loadQuestionsForExam(selectedGrade, selectedSubject);
 
-      if (config.useDiagnostic) {
-        generationPromise = generateSmartExam(
-          selectedGrade || 11,
-          selectedSubject,
-          config.count
-        );
-      } else {
-        // Standard generation (only target grade)
-        generationPromise = (async () => {
-             await loadQuestionsForExam(selectedGrade, selectedSubject);
-             const available = loadedQuestions.filter(q => {
-                if (!q) return false;
-                const gradeMatch = selectedGrade ? q.grade === selectedGrade : true;
-                const subjectMatch = selectedSubject ? (q.category && q.category.startsWith(selectedSubject)) : true;
-                return gradeMatch && subjectMatch;
-             });
-             const shuffled = available.sort(() => Math.random() - 0.5);
-             return shuffled.slice(0, config.count);
-        })();
-      }
+      // 2️⃣ Generate random exam from cached pool (NO API CALLS)
+      const availableQuestions = loadedQuestions.filter(q => {
+        if (!q) return false;
+        const gradeMatch = selectedGrade ? q.grade === selectedGrade : true;
+        const subjectMatch = selectedSubject
+          ? (q.category && q.category.startsWith(selectedSubject))
+          : true;
+        return gradeMatch && subjectMatch;
+      });
 
-      // Wait for both animation and generation
-      const [_, questions] = await Promise.all([minTimePromise, generationPromise]);
+      console.log(`📊 Available questions in pool: ${availableQuestions.length}`);
 
-      if (questions && questions.length > 0) {
-        generatedExamQuestions = questions;
-        console.log(`✅ Exam Ready: ${questions.length} questions`);
+      // Use cache service to generate random exam
+      const examQuestions = generateRandomExam(
+        availableQuestions,
+        config.count,
+        selectedSubject ? [selectedSubject] : undefined
+      );
 
-        // Add to local cache for browsing/search if needed
-        loadedQuestions = [...loadedQuestions, ...questions];
+      // Wait for animation to finish
+      await minTimePromise;
 
+      if (examQuestions && examQuestions.length > 0) {
+        generatedExamQuestions = examQuestions;
+        console.log(`✅ Exam Ready: ${examQuestions.length} questions (0 API calls)`);
         setView(AppView.EXAM);
       } else {
         console.warn("⚠️ No questions available for this subject/grade combination");
-        throw new Error("No hay preguntas disponibles para esta asignatura y grado. Por favor, selecciona otra combinación o prueba la Sala de Entrenamiento en /training");
+        throw new Error("No hay preguntas disponibles. Por favor, intenta con otra asignatura.");
       }
-
-    } catch (err) {
-      console.error("Smart Exam Error:", err);
-
-      // More user-friendly error message
-      const errorMsg = err.message || 'Error desconocido';
-      if (errorMsg.includes('Failed to fetch') || errorMsg.includes('404')) {
-        alert(`⚠️ No hay preguntas disponibles para Grado ${selectedGrade} - ${selectedSubject}.\n\n💡 Sugerencia: Prueba la nueva Sala de Entrenamiento en /training con IA adaptativa.`);
-      } else {
-        alert(`Lo sentimos, hubo un error generando el examen.\n\n${errorMsg}\n\n💡 Prueba /training para una experiencia mejorada.`);
-      }
-    } finally {
+    } catch (error) {
+      console.error('Error generating exam:', error);
+      alert(error.message || 'Error al generar el examen. Por favor intenta de nuevo.');
       isIntegrityCheck = false;
+      setView(AppView.SUBJECT_SELECTION);
     }
   }
+
+
 
   function handleArticleSelect(article) {
     selectedArticle = article;
@@ -623,7 +641,7 @@
                 <span class="hidden sm:inline">Apoyar</span>
               </a>
               <a
-                href="https://github.com/iberi22/worldexams"
+                href="https://github.com/world-exams"
                 target="_blank"
                 rel="noopener noreferrer"
                 class="flex items-center gap-1 text-white/40 hover:text-emerald-500 transition-colors"
@@ -745,6 +763,9 @@
   {#if isIntegrityCheck}
     <IntegrityIntro />
   {/if}
+
+  <!-- Cache Indicator (Bottom-right floating button) -->
+  <CacheIndicator />
 
   <!-- Loading Overlay -->
   {#if isLoadingQuestions}

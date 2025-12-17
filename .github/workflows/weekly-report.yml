@@ -1,0 +1,58 @@
+name: 📊 Reporte Semanal
+
+on:
+  schedule:
+    # Lunes a las 9:00 AM UTC (4 AM COT)
+    - cron: '0 9 * * 1'
+  workflow_dispatch:
+    inputs:
+      week:
+        description: 'Semana a reportar (YYYY-WW) o "current"'
+        required: false
+        default: 'current'
+
+jobs:
+  weekly-report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Cache Rust Dependencies
+        uses: actions/cache@v3
+        with:
+          path: |
+            ~/.cargo/bin/
+            ~/.cargo/registry/index/
+            ~/.cargo/registry/cache/
+            ~/.cargo/git/db/
+            social-orchestrator/target/
+          key: ${{ runner.os }}-cargo-${{ hashFiles('social-orchestrator/Cargo.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-cargo-
+
+      - name: Install Rust
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Build Orchestrator
+        run: |
+          cd social-orchestrator
+          cargo build --release
+
+      - name: Generate Report
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+        run: |
+          cd social-orchestrator
+          WEEK="${{ inputs.week || 'current' }}"
+          ./target/release/social-orchestrator weekly-report --week "$WEEK"
+
+      - name: Summary
+        run: |
+          echo "📊 Reporte semanal generado y publicado"
+          echo "📅 Semana: ${{ inputs.week || 'current' }}"

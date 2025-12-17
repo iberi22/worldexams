@@ -24,16 +24,6 @@ source_license: "CC BY-SA 4.0"
 search_query: "preguntas liberadas icfes matematicas grado 3 geometria figuras planas"
 original_question: "Adaptación de pregunta sobre conteo de lados en figuras"
 original_answer: "3 lados (Triángulo)"
-
-## 📊 Metadata de Validación
-| Campo | Valor |
-|---|---|
-| Total Preguntas | 7 |
-| Original (Dificultad 3) | 1 |
-| Fácil (Dificultad 1-2) | 2 |
-| Media (Dificultad 3) | 2 |
-| Difícil (Dificultad 4-5) | 2 |
-
 ---
 
 # Pregunta Base: Figuras Geométricas
@@ -188,3 +178,14 @@ Ana tiene una figura misteriosa en una bolsa. Dice: "Mi figura tiene 4 lados, pe
 
 Buscamos una figura de 4 lados (Cuadrilátero) que no tenga ángulos rectos. El **Rombo** cumple esto: tiene 4 lados (a veces iguales), pero sus ángulos son agudos y obtusos (inclinados), no rectos como los del cuadrado o rectángulo.
 
+---
+
+## 📊 Metadata de Validación
+
+| Campo | Valor |
+|---|---|
+| Total Preguntas | 7 |
+| Original (Dificultad 3) | 1 |
+| Fácil (Dificultad 1-2) | 2 |
+| Media (Dificultad 3) | 2 |
+| Difícil (Dificultad 4-5) | 2 |

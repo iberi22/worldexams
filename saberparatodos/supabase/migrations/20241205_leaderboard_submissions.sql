@@ -1,3 +1,5 @@
+-- Placeholder migration to match remote schema_migrations version 20241205.
+-- This file intentionally left minimal to keep local migration history aligned.
 -- ============================================================================
 -- Supabase Migration: Leaderboard Submissions Tracking
 --

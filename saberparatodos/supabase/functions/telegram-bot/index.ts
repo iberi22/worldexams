@@ -1,253 +1,562 @@
-/**
- * OpenIcfes Telegram Bot - Edge Function
- *
- * Bot profesional para consultar preguntas del banco de preguntas ICFES
- * Usa grammY framework y validación de seguridad via secret_token
- *
- * @see https://supabase.com/docs/guides/functions/examples/telegram-bot
- * @see https://grammy.dev/
- */
-
-import { Bot, webhookCallback } from "https://deno.land/x/grammy@v1.34.0/mod.ts";
+import { Bot, webhookCallback, InlineKeyboard } from "https://deno.land/x/grammy@v1.34.0/mod.ts";
 import { createClient } from "https://esm.sh/@supabase/supabase-js@2.39.3";
+import { getTutorResponse } from "../_shared/deepseek.ts";
 
 // Environment variables
 const TELEGRAM_BOT_TOKEN = Deno.env.get("TELEGRAM_BOT_TOKEN");
-const FUNCTION_SECRET = Deno.env.get("FUNCTION_SECRET");
 const SUPABASE_URL = Deno.env.get("SUPABASE_URL") || "";
-const SUPABASE_ANON_KEY = Deno.env.get("SUPABASE_ANON_KEY") || "";
+const SUPABASE_SERVICE_ROLE_KEY = Deno.env.get("SUPABASE_SERVICE_ROLE_KEY") || "";
+const DEEPSEEK_API_KEY = Deno.env.get("DEEPSEEK_API_KEY") || "";
+const LINK_TELEGRAM_URL = Deno.env.get("LINK_TELEGRAM_URL") || "https://saberparatodos.co/vincular-telegram";
+const REPORT_BASE_URL = Deno.env.get("REPORT_BASE_URL") || "https://saberparatodos.co/informes/bot/";
 
-// Validate required env vars
-if (!TELEGRAM_BOT_TOKEN) {
-  throw new Error("TELEGRAM_BOT_TOKEN is required");
-}
+if (!TELEGRAM_BOT_TOKEN) throw new Error("TELEGRAM_BOT_TOKEN is required");
+if (!SUPABASE_URL) throw new Error("SUPABASE_URL is required");
+if (!SUPABASE_SERVICE_ROLE_KEY) throw new Error("SUPABASE_SERVICE_ROLE_KEY is required for bot practice sessions");
 
 // Initialize bot
 const bot = new Bot(TELEGRAM_BOT_TOKEN);
+const supabaseAdmin = createClient(SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY);
 
-// Initialize Supabase client
-const supabase = createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+type PracticeSessionRow = {
+  id: string;
+  user_id: string | null;
+  telegram_id: number;
+  country_code: string;
+  exam_type: string;
+  subject: string;
+  questions: Array<{
+    id: string;
+    enunciado: string;
+    opciones: Array<{ text: string; correct?: boolean; isCorrect?: boolean }>;
+    asignatura: string;
+    explicacion?: string;
+  }>;
+  answers: Array<{ question_id: string; selected_index: number; is_correct: boolean; answered_at: string }>;
+  completed_at: string | null;
+  share_token: string;
+};
 
-// ─────────────────────────────────────────────────────────────────────────────
-// Bot Commands
-// ─────────────────────────────────────────────────────────────────────────────
+const PRACTICE_EXAM_TYPES = [
+  { id: "saber11", label: "ICFES Saber 11" },
+  { id: "diagnostico", label: "Diagnóstico" },
+  { id: "simulacro", label: "Simulacro" },
+];
 
-// /start - Mensaje de bienvenida
-bot.command("start", async (ctx) => {
-  const welcomeMessage = `
-🎓 <b>¡Bienvenido a OpenIcfes Bot!</b>
+const PRACTICE_SUBJECTS = [
+  { id: "Matemáticas", label: "Matemáticas" },
+  { id: "Lectura Crítica", label: "Lectura Crítica" },
+  { id: "Ciencias Naturales", label: "Ciencias Naturales" },
+  { id: "Sociales", label: "Sociales" },
+  { id: "Inglés", label: "Inglés" },
+];
 
-Soy tu asistente para consultar el banco de preguntas de las pruebas Saber Colombia.
-
-<b>📚 ¿Qué puedo hacer?</b>
-• Buscar preguntas por ID
-• Mostrar estadísticas del banco
-• Información sobre grados y asignaturas
-
-<b>🔍 Comandos disponibles:</b>
-/help - Ver todos los comandos
-/stats - Estadísticas del banco
-/grados - Ver grados disponibles
-/buscar [término] - Buscar preguntas
-
-<b>💡 Tip:</b> Envía directamente un ID de pregunta (ej: <code>MAT12345-01</code>) para ver su contenido.
-
-🌐 <a href="https://saberparatodos.vercel.app">Visita nuestra web</a>
-`;
-  await ctx.reply(welcomeMessage, { parse_mode: "HTML" });
-});
-
-// /help - Ayuda completa
-bot.command("help", async (ctx) => {
-  const helpMessage = `
-📖 <b>Ayuda de OpenIcfes Bot</b>
-
-<b>Comandos básicos:</b>
-/start - Iniciar el bot
-/help - Esta ayuda
-/stats - Estadísticas del banco de preguntas
-/grados - Lista de grados disponibles
-/asignaturas - Lista de asignaturas
-
-<b>Búsqueda de preguntas:</b>
-/buscar [término] - Buscar por tema
-Envía un ID directamente: <code>MAT12345-01</code>
-
-<b>Formato de IDs:</b>
-• <code>MAT</code> - Matemáticas
-• <code>LEN</code> - Lenguaje
-• <code>CIE</code> - Ciencias
-• <code>SOC</code> - Sociales
-• <code>ING</code> - Inglés
-• <code>LEC</code> - Lectura Crítica
-
-<b>Ejemplo:</b> <code>MAT12345-01</code>
-• MAT = Asignatura
-• 12345 = Hash único
-• 01 = Versión
-
-<b>🔗 Enlaces útiles:</b>
-• <a href="https://saberparatodos.vercel.app">Web principal</a>
-• <a href="https://github.com/tonderflash/saberparatodos">GitHub</a>
-`;
-  await ctx.reply(helpMessage, { parse_mode: "HTML", link_preview_options: { is_disabled: true } });
-});
-
-// /stats - Estadísticas del banco
-bot.command("stats", async (ctx) => {
-  try {
-    // TODO: Implementar consulta real a Supabase cuando tengamos la tabla de preguntas
-    const statsMessage = `
-📊 <b>Estadísticas del Banco de Preguntas</b>
-
-<b>Total de preguntas:</b> 58+
-<b>Grados cubiertos:</b> 3°, 5°, 7°, 9°, 11°
-<b>Asignaturas:</b> 9
-
-<b>Por asignatura:</b>
-📐 Matemáticas: 15+
-📝 Lenguaje: 8+
-🔬 Ciencias: 10+
-🌎 Sociales: 8+
-🇬🇧 Inglés: 10+
-📚 Lectura Crítica: 7+
-
-<i>Banco en constante crecimiento 🚀</i>
-`;
-    await ctx.reply(statsMessage, { parse_mode: "HTML" });
-  } catch (error) {
-    console.error("Error fetching stats:", error);
-    await ctx.reply("❌ Error al obtener estadísticas. Intenta más tarde.");
+function mapSubjectToApiFolder(subjectId: string): string {
+  switch (subjectId) {
+    case "Matemáticas":
+      return "matematicas";
+    case "Lectura Crítica":
+      return "lectura_critica";
+    case "Ciencias Naturales":
+      return "ciencias_naturales";
+    case "Sociales":
+      return "sociales_y_ciudadanas";
+    case "Inglés":
+      return "ingles";
+    default:
+      return "matematicas";
   }
-});
+}
 
-// /grados - Lista de grados
-bot.command("grados", async (ctx) => {
-  const gradosMessage = `
-🎒 <b>Grados Disponibles</b>
+async function fetchPracticeQuestionsFromApi(subjectId: string, limit: number) {
+  const apiSubject = mapSubjectToApiFolder(subjectId);
+  const origin = new URL(REPORT_BASE_URL).origin;
+  const url = `${origin}/api/CO/icfes/11/${apiSubject}/1.json?t=${Date.now()}`;
 
-📗 <b>Grado 3°</b> - Pruebas Saber 3
-📘 <b>Grado 5°</b> - Pruebas Saber 5
-📙 <b>Grado 7°</b> - Pruebas Saber 7
-📕 <b>Grado 9°</b> - Pruebas Saber 9
-📓 <b>Grado 11°</b> - Pruebas Saber 11 (ICFES)
+  const resp = await fetch(url, { cache: "no-cache" });
+  if (!resp.ok) return [];
 
-<i>Cada grado tiene preguntas adaptadas a su nivel educativo según los estándares del MEN Colombia.</i>
-`;
-  await ctx.reply(gradosMessage, { parse_mode: "HTML" });
-});
+  const data = await resp.json().catch(() => null);
+  const raw = (data?.questions || []) as any[];
 
-// /asignaturas - Lista de asignaturas
-bot.command("asignaturas", async (ctx) => {
-  const asignaturasMessage = `
-📚 <b>Asignaturas Disponibles</b>
+  const normalized = raw
+    .filter((q) => q && q.statement && Array.isArray(q.options))
+    .slice(0, Math.max(1, Math.min(limit, 10)))
+    .map((q) => ({
+      id: String(q.id || q.bundle_id || crypto.randomUUID()),
+      enunciado: String(q.statement),
+      opciones: (q.options as any[]).map((o) => ({
+        text: String(o.text),
+        correct: !!o.is_correct,
+      })),
+      asignatura: subjectId,
+      explicacion: q.explanation ? String(q.explanation) : undefined,
+    }));
 
-📐 <b>Matemáticas</b> (MAT)
-   Álgebra, geometría, estadística
+  return normalized;
+}
 
-📝 <b>Lenguaje</b> (LEN)
-   Comprensión lectora, gramática
+function buildExamTypeKeyboard(): InlineKeyboard {
+  const kb = new InlineKeyboard();
+  for (const t of PRACTICE_EXAM_TYPES) {
+    kb.text(t.label, `prcfg:type:${t.id}`).row();
+  }
+  return kb;
+}
 
-🔬 <b>Ciencias Naturales</b> (CIE)
-   Biología, física, química
+function buildSubjectKeyboard(): InlineKeyboard {
+  const kb = new InlineKeyboard();
+  for (const s of PRACTICE_SUBJECTS) {
+    kb.text(s.label, `prcfg:sub:${encodeURIComponent(s.id)}`).row();
+  }
+  return kb;
+}
 
-🌎 <b>Ciencias Sociales</b> (SOC)
-   Historia, geografía, civismo
+async function getActivePracticeSession(userId: string): Promise<PracticeSessionRow | null> {
+  const { data, error } = await supabaseAdmin
+    .from("bot_practice_sessions")
+    .select("id,user_id,telegram_id,country_code,exam_type,subject,questions,answers,completed_at,share_token")
+    .eq("user_id", userId)
+    .is("completed_at", null)
+    .order("started_at", { ascending: false })
+    .limit(1)
+    .maybeSingle();
 
-🇬🇧 <b>Inglés</b> (ING)
-   Reading, grammar, vocabulary
+  if (error) return null;
+  return (data as any) || null;
+}
 
-📖 <b>Lectura Crítica</b> (LEC)
-   Análisis, inferencia, argumentación
+async function getActiveGuestSession(telegramId: number): Promise<PracticeSessionRow | null> {
+  const { data, error } = await supabaseAdmin
+    .from("bot_practice_sessions")
+    .select("id,user_id,telegram_id,country_code,exam_type,subject,questions,answers,completed_at,share_token")
+    .is("user_id", null)
+    .eq("telegram_id", telegramId)
+    .is("completed_at", null)
+    .order("started_at", { ascending: false })
+    .limit(1)
+    .maybeSingle();
 
-🧪 <b>Física</b> (FIS) - Solo grado 11°
-⚗️ <b>Química</b> (QUI) - Solo grado 11°
-💭 <b>Filosofía</b> (FIL) - Solo grado 11°
-`;
-  await ctx.reply(asignaturasMessage, { parse_mode: "HTML" });
-});
+  if (error) return null;
+  return (data as any) || null;
+}
 
-// Detector de IDs de preguntas (formato: ABC12345-01)
-bot.hears(/([A-Z]{3}\d{5}-\d{2})/, async (ctx) => {
-  const questionId = ctx.match[1];
+async function loadSessionById(sessionId: string): Promise<PracticeSessionRow | null> {
+  const { data, error } = await supabaseAdmin
+    .from("bot_practice_sessions")
+    .select("id,user_id,telegram_id,country_code,exam_type,subject,questions,answers,completed_at,share_token")
+    .eq("id", sessionId)
+    .maybeSingle();
 
-  // Determinar asignatura desde el prefijo
-  const prefixMap: Record<string, string> = {
-    "MAT": "Matemáticas",
-    "LEN": "Lenguaje",
-    "CIE": "Ciencias",
-    "SOC": "Sociales",
-    "ING": "Inglés",
-    "LEC": "Lectura Crítica",
-    "FIS": "Física",
-    "QUI": "Química",
-    "FIL": "Filosofía",
-  };
+  if (error) return null;
+  return (data as any) || null;
+}
 
-  const prefix = questionId.substring(0, 3);
-  const asignatura = prefixMap[prefix] || "Desconocida";
+async function sendPracticeQuestion(ctx: any, session: PracticeSessionRow, questionIndex: number) {
+  const question = (session.questions || [])[questionIndex];
+  if (!question) return;
+
+  const options = (question as any).opciones as any[];
+  const keyboard = new InlineKeyboard();
+  options.forEach((opt: any, idx: number) => {
+    keyboard.text(`${String.fromCharCode(65 + idx)}) ${opt.text}`, `prans:${session.id}:${questionIndex}:${idx}`).row();
+  });
 
   await ctx.reply(
-    `🔍 <b>Buscando pregunta:</b> <code>${questionId}</code>\n\n` +
-    `📚 <b>Asignatura:</b> ${asignatura}\n\n` +
-    `<i>⏳ Esta funcionalidad estará disponible pronto cuando conectemos la base de datos de preguntas.</i>\n\n` +
-    `🌐 Mientras tanto, visita: <a href="https://saberparatodos.vercel.app">saberparatodos.vercel.app</a>`,
+    `📚 <b>${session.subject}</b> · <b>${session.exam_type}</b>\n` +
+      `Pregunta ${questionIndex + 1} de ${(session.questions || []).length}\n\n` +
+      `${(question as any).enunciado}`,
+    { reply_markup: keyboard, parse_mode: "HTML" },
+  );
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Middleware: Auth & Context
+// ─────────────────────────────────────────────────────────────────────────────
+
+// Attach user profile to context
+bot.use(async (ctx, next) => {
+  if (!ctx.from) return next();
+
+  // Try to find user by telegram_id
+  const { data: profile } = await supabaseAdmin
+    .from('profiles')
+    .select('id, credits, subscription_tier')
+    .eq('telegram_id', ctx.from.id)
+    .single();
+
+  ctx.session = { profile }; // Simple session-like storage in context
+  await next();
+});
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Commands
+// ─────────────────────────────────────────────────────────────────────────────
+
+bot.command("start", async (ctx) => {
+  const args = ctx.match; // Get arguments after /start
+
+  if (args && args.length > 0) {
+    // Linking Account
+    const code = String(args).trim();
+    if (!code) {
+      return ctx.reply("❌ <b>Código inválido.</b>", { parse_mode: "HTML" });
+    }
+
+    const { data: linkCode, error } = await supabaseAdmin
+      .from('bot_linking_codes')
+      .select('user_id')
+      .eq('code', code)
+      .gt('expires_at', new Date().toISOString())
+      .single();
+
+    if (error || !linkCode) {
+      return ctx.reply("❌ <b>Código inválido o expirado.</b>\nGenera uno nuevo en tu dashboard web.", { parse_mode: "HTML" });
+    }
+
+    const { error: updateError } = await supabaseAdmin
+      .from('profiles')
+      .update({ telegram_id: ctx.from?.id })
+      .eq('id', linkCode.user_id);
+
+    if (updateError) {
+      return ctx.reply("❌ Error al vincular la cuenta.");
+    }
+
+    // Delete used code
+    await supabaseAdmin.from('bot_linking_codes').delete().eq('code', code);
+
+    return ctx.reply("✅ <b>¡Cuenta vinculada con éxito!</b>\nAhora puedes usar tus créditos del sitio web aquí.", { parse_mode: "HTML" });
+  }
+
+  // Welcome Message
+  await ctx.reply(
+    `👋 <b>¡Hola parcero! Soy SaberBot.</b>\n\n` +
+    `Estoy aquí para ayudarte a estudiar para el ICFES Saber 11.\n\n` +
+    `🚀 <b>Comandos:</b>\n` +
+    `/practicar - Práctica guiada (5 preguntas aleatorias)\n` +
+    `/perfil - Mira tus créditos y racha\n` +
+    `/ayuda - Información sobre mí\n\n` +
+    `💡 <b>Tip:</b> Puedes practicar gratis sin límites. Para guardar tu progreso y ver análisis completo, vincula tu cuenta: genera un código y envía <code>/start CODIGO</code>.\n` +
+    `👉 ${LINK_TELEGRAM_URL}`,
     { parse_mode: "HTML" }
   );
 });
 
-// Mensaje genérico para texto no reconocido
-bot.on("message:text", async (ctx) => {
-  const text = ctx.message.text;
+bot.command("perfil", async (ctx) => {
+  const profile = ctx.session?.profile;
+  if (!profile) {
+    return ctx.reply("⚠️ <b>Cuenta no vinculada.</b>\nUsa <code>/start CODIGO</code> para vincular.", { parse_mode: "HTML" });
+  }
 
-  // Si no es un comando ni un ID, dar una respuesta útil
-  if (!text.startsWith("/")) {
+  await ctx.reply(
+    `👤 <b>Tu Perfil</b>\n\n` +
+    `💰 Créditos: <b>${profile.credits}</b>\n` +
+    `🏆 Plan: <b>${profile.subscription_tier || 'Free'}</b>`,
+    { parse_mode: "HTML" }
+  );
+});
+
+bot.command("practicar", async (ctx) => {
+  const profile = ctx.session?.profile;
+  const telegramId = ctx.from?.id;
+  if (!telegramId) return;
+
+  // Guest flow: unlimited free 5-question sessions
+  if (!profile) {
+    const activeGuest = await getActiveGuestSession(telegramId);
+    if (activeGuest) {
+      const answered = (activeGuest.answers || []).length;
+      if (answered < (activeGuest.questions || []).length) {
+        await ctx.reply(`🔁 Retomando tu práctica: Pregunta ${answered + 1} de ${(activeGuest.questions || []).length}.`);
+        return await sendPracticeQuestion(ctx, activeGuest, answered);
+      }
+    }
+
     await ctx.reply(
-      `🤔 No reconozco ese mensaje.\n\n` +
-      `<b>¿Qué puedes hacer?</b>\n` +
-      `• Envía un ID de pregunta: <code>MAT12345-01</code>\n` +
-      `• Usa /help para ver comandos\n` +
-      `• Usa /start para comenzar`,
-      { parse_mode: "HTML" }
+      "🧪 <b>Práctica gratis (5 preguntas aleatorias)</b>\n\nElige el tipo de prueba:",
+      { parse_mode: "HTML", reply_markup: buildExamTypeKeyboard() },
     );
+    return;
+  }
+
+  // If there is an active session, continue where it left off
+  const active = await getActivePracticeSession(profile.id);
+  if (active) {
+    const answered = (active.answers || []).length;
+    if (answered < (active.questions || []).length) {
+      await ctx.reply(`🔁 Retomando tu práctica: Pregunta ${answered + 1} de ${(active.questions || []).length}.`);
+      return await sendPracticeQuestion(ctx, active, answered);
+    }
+  }
+
+  // Start config flow
+  await ctx.reply(
+    "🧪 <b>Vamos a practicar (5 preguntas)</b>\n\nElige el tipo de prueba:",
+    { parse_mode: "HTML", reply_markup: buildExamTypeKeyboard() },
+  );
+});
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Callbacks (Button Clicks)
+// ─────────────────────────────────────────────────────────────────────────────
+
+bot.on("callback_query:data", async (ctx) aleatorias => {
+  const data = ctx.callbackQuery.data;
+
+  // Practice config callbacks
+  if (data.startsWith("prcfg:")) {
+    const profile = ctx.session?.profile;
+    const telegramId = ctx.from?.id;
+    if (!telegramId) {
+      await ctx.answerCallbackQuery();
+      return;
+    }
+
+    const parts = data.split(":");
+    const kind = parts[1];
+    const value = parts.slice(2).join(":");
+
+    // Store temp config on a lightweight row in DB? We'll create session only after subject.
+    // We'll stash chosen exam_type in message via an ephemeral session row keyed by user + telegram.
+    // For simplicity: store exam_type in a dedicated active session row with empty questions until subject is chosen.
+
+    if (kind === "type") {
+      const examTypeId = value;
+      const examTypeLabel = PRACTICE_EXAM_TYPES.find((t) => t.id === examTypeId)?.label || "ICFES Saber 11";
+
+      // Upsert a draft session (no questions yet)
+      const { data: draft } = await supabaseAdmin
+        .from("bot_practice_sessions")
+        .insert({
+          user_id: profile?.id ?? null,
+          telegram_id: telegramId,
+          country_code: "CO",
+          exam_type: examTypeLabel,
+          subject: "",
+          questions: [],
+          answers: [],
+        })
+        .select("id")
+        .single();
+
+      await ctx.answerCallbackQuery();
+      await ctx.reply("📚 Ahora elige la materia:", { reply_markup: buildSubjectKeyboard() });
+      // Keep draft session id in callback? Not available. We'll just rely on latest active (subject empty).
+      return;
+    }
+
+    if (kind === "sub") {
+      const subject = decodeURIComponent(value);
+
+      // Find latest draft session (subject empty)
+      const { data: draft } = await supabaseAdmin
+        .from("bot_practice_sessions")
+        .select("id, exam_type")
+        .eq("telegram_id", telegramId)
+        .eq("subject", "")
+        .is("completed_at", null)
+        .order("started_at", { ascending: false })
+        .limit(1)
+        .maybeSingle();
+
+      if (!draft) {
+        await ctx.answerCallbackQuery();
+        await ctx.reply("⚠️ Empecemos de nuevo: escribe /practicar");
+        return;
+      }
+
+      const qs = await fetchPracticeQuestionsFromApi(subject, 5);
+      if (!qs || qs.length === 0) {
+        await ctx.answerCallbackQuery();
+        await ctx.reply("⚠️ No encontré preguntas para esa materia. Prueba otra.");
+        return;
+      }
+
+      // Update draft session to real session
+      const { data: updated, error: updErr } = await supabaseAdmin
+        .from("bot_practice_sessions")
+        .update({ subject, questions: qs })
+        .eq("id", (draft as any).id)
+        .select("id,user_id,telegram_id,country_code,exam_type,subject,questions,answers,completed_at,share_token")
+        .single();
+
+      if (updErr || !updated) {
+        await ctx.answerCallbackQuery();
+        await ctx.reply("⚠️ No pude iniciar la práctica. Intenta /practicar de nuevo.");
+        return;
+      }
+
+      // Note: practice is free. Credits are intended for AI/tutor features.
+
+      await ctx.answerCallbackQuery();
+      await ctx.reply(
+        `✅ Listo. Empezamos ahora.\n` +
+          `Tip: al final te doy un enlace con el informe completo en la plataforma.`,
+      );
+      return await sendPracticeQuestion(ctx, updated as any, 0);
+    }
+
+    await ctx.answerCallbackQuery();
+    return;
+  }`✅ Listo. Empezamos ahora con 5 preguntas aleatorias.\nAl final te doy un enlace con tu informe.`data.startsWith("prans:")) {
+    const profile = ctx.session?.profile;
+    const telegramId = ctx.from?.id;
+    if (!telegramId) {
+      await ctx.answerCallbackQuery();
+      return;
+    }
+
+    const [_tag, sessionId, qIndexStr, optIdxStr] = data.split(":");
+    const questionIndex = parseInt(qIndexStr, 10);
+    const optionIndex = parseInt(optIdxStr, 10);
+
+    const session = await loadSessionById(sessionId);
+    const isOwner = profile ? session?.user_id === profile.id : session?.telegram_id === telegramId;
+    if (!session || !isOwner) {
+      await ctx.answerCallbackQuery();
+      return;
+    }
+
+    // Prevent double answers
+    const qId = String(((session.questions || [])[questionIndex] as any)?.id || "");
+    const existing = (session.answers || []).find((a) => a.question_id === qId);
+    if (existing) {
+      await ctx.answerCallbackQuery("Ya respondiste esta pregunta");
+      return;
+    }
+
+    const question = (session.questions || [])[questionIndex];
+    const options = (question as any)?.opciones as any[];
+    const selected = options?.[optionIndex];
+    const isCorrect = !!(selected?.correct || selected?.isCorrect);
+
+    const newAnswer = {
+      question_id: qId,
+      selected_index: optionIndex,
+      is_correct: isCorrect,
+      answered_at: new Date().toISOString(),
+    };
+
+    const updatedAnswers = [...(session.answers || []), newAnswer];
+
+    const done = updatedAnswers.length >= (session.questions || []).length;
+    const { data: updated } = await supabaseAdmin
+      .from("bot_practice_sessions")
+      .update({ answers: updatedAnswers, completed_at: done ? new Date().toISOString() : null })
+      .eq("id", session.id)
+      .select("id,user_id,telegram_id,country_code,exam_type,subject,questions,answers,completed_at,share_token")
+      .single();
+
+    await ctx.answerCallbackQuery();
+
+    if (isCorrect) {
+      await ctx.reply(
+        `✅ <b>Correcto</b>\n` +
+          `Resumen rápido aquí; el detalle completo queda en el informe final.`,
+        { parse_mode: "HTML" },
+      );
+    } else {
+      await ctx.reply(
+        `❌ <b>Incorrecto</b>\n` +
+          `No pasa nada: mira el informe al final para ver el detalle y mejorar.`,
+        { parse_mode: "HTML" },
+      );
+    }
+`✅ <b>Correcto</b>`, { parse_mode: "HTML" });
+    } else {
+      await ctx.reply(`❌ <b>Incorrecto</b>`, { parse_mode: "HTML" }
+
+    const reportUrl = `${REPORT_BASE_URL}${(updated as any).share_token}`;
+    await ctx.reply(
+      `🏁 <b>¡Terminaste tus 5 preguntas!</b>\n\n` +
+        `📊 Mira tu informe detallado aquí (incluye publicidad):\n` +
+        `${reportUrl}\n\n` +
+        `🚀 Para practicar más y prepararte mejor para tus próximos exámenes, crea/vincula tu cuenta en la plataforma:\n` +
+        `${LINK_TELEGRAM_URL}`,
+      { parse_mode: "HTML" },
+    );
+    return;
   }
 });
 
 // ─────────────────────────────────────────────────────────────────────────────
-// Webhook Handler con Seguridad
+// FAQ & Predefined Responses
 // ─────────────────────────────────────────────────────────────────────────────
+
+const FAQ_RESPONSES: Record<string, string> = {
+  "que es esto": "SaberBot es tu tutor virtual para prepararte para el ICFES Saber 11. Puedo ayudarte con preguntas de práctica y resolver dudas. 📚",
+  "como funciona": "Puedes practicar con preguntas reales del ICFES, ver explicaciones detalladas y hablar conmigo para resolver dudas. Primero debes crear una cuenta gratuita.",
+  "gratis": "Sí, el servicio es gratuito. Solo necesitas registrarte en la web para acceder a todas las funciones. 🎓",
+  "precio": "Es completamente gratis. Sin costos, sin trampas. Solo queremos ayudarte a pasar el ICFES.",
+  "ayuda": "Usa /start para comenzar, /practicar para responder preguntas y /perfil para ver tus créditos. Pero primero, regístrate en la web! 😉"
+};aquí:\n` +
+        `${reportUrl}\n\n` +
+        `💡 Puedes volver a usar /practicar gratis cuantas veces quieras.\n\n` +
+        `🚀 Para guardar tu progreso y ver análisis completo, vincula tu cuent
+  const lowerText = text.toLowerCase();
+  for (const [keyword, response] of Object.entries(FAQ_RESPONSES)) {
+    if (lowerText.includes(keyword)) {
+      return response;
+    }
+  }
+  return null;
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// AI Chat (Fallback)
+// ─────────────────────────────────────────────────────────────────────────────
+
+bot.on("message:text", async (ctx) => {
+  const text = ctx.message.text;
+  const profile = ctx.session?.profile;
+
+  // If user is NOT linked, respond with predefined messages
+  if (!profile) {
+    const faqResponse = getFAQResponse(text);
+
+    if (faqResponse) {
+      await ctx.reply(faqResponse);
+    } else {
+      await ctx.reply(
+        `⚠️ <b>Para usar el tutor IA, necesitas crear una cuenta.</b>\n\n` +
+        `🎓 Con tu cuenta puedes:\n` +
+        `• Hablar con SaberBot sin límites\n` +
+        `• Practicar con miles de preguntas\n` +
+        `• Ver tu progreso y estadísticas\n\n` +
+        `👉 <a href="${LINK_TELEGRAM_URL}">Vincula tu cuenta aquí</a> (genera un código y vuelve)\n\n` +
+        `Luego envíame <code>/start CODIGO</code> y quedará vinculado. 🚀`,
+        { parse_mode: "HTML" }
+      );
+    }
+    return;
+  }
+
+  // User is linked - use AI (consume credits)
+  await ctx.replyWithChatAction("typing");
+
+  const context = `Usuario vinculado. Créditos: ${profile.credits}.`;
+  const response = await getTutorResponse(text, DEEPSEEK_API_KEY, context);
+  await ctx.reply(response || "Lo siento, me quedé sin palabras.");
+});
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Server Entrypoint
+// ─────────────────────────────────────────────────────────────────────────────
+
+import { serve } from "https://deno.land/std@0.168.0/http/server.ts";
 
 const handleUpdate = webhookCallback(bot, "std/http");
 
-Deno.serve(async (req) => {
+serve(async (req) => {
   try {
     const url = new URL(req.url);
-
-    // Verificar secret_token si está configurado
-    // Telegram envía el secret en el header X-Telegram-Bot-Api-Secret-Token
-    if (FUNCTION_SECRET) {
-      const secretHeader = req.headers.get("X-Telegram-Bot-Api-Secret-Token");
-
-      // También aceptar via query param para configuración inicial
-      const secretParam = url.searchParams.get("secret");
-
-      if (secretHeader !== FUNCTION_SECRET && secretParam !== FUNCTION_SECRET) {
-        console.warn("Unauthorized request - invalid secret");
-        return new Response(JSON.stringify({ error: "Unauthorized" }), {
-          status: 401,
-          headers: { "Content-Type": "application/json" },
-        });
-      }
+    if (url.searchParams.get("secret") !== Deno.env.get("FUNCTION_SECRET")) {
+      return new Response("not allowed", { status: 405 });
     }
-
-    // Procesar update de Telegram
     return await handleUpdate(req);
-
-  } catch (error) {
-    console.error("Error processing webhook:", error);
-    return new Response(JSON.stringify({ error: "Internal Server Error" }), {
-      status: 500,
-      headers: { "Content-Type": "application/json" },
-    });
+  } catch (err) {
+    console.error(err);
+    return new Response();
   }
 });

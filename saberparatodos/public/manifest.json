@@ -1,11 +1,11 @@
 {
-  "name": "Saber Para Todos - Party Mode",
-  "short_name": "Party Mode",
-  "description": "Exámenes sincronizados en tiempo real para Colombia Saber 11",
-  "start_url": "/party",
+  "name": "SaberParaTodos",
+  "short_name": "SaberParaTodos",
+  "description": "Plataforma de práctica open source para las pruebas ICFES Saber 11.",
+  "start_url": "/",
   "display": "standalone",
-  "background_color": "#0f172a",
-  "theme_color": "#2563eb",
+  "background_color": "#1a1a2e",
+  "theme_color": "#1a1a2e",
   "orientation": "any",
   "scope": "/",
   "lang": "es-CO",
@@ -40,10 +40,10 @@
   "categories": ["education", "productivity"],
   "shortcuts": [
     {
-      "name": "Crear Party",
-      "short_name": "Crear",
-      "description": "Crear una nueva party como host",
-      "url": "/party",
+      "name": "Practicar Ahora",
+      "short_name": "Practicar",
+      "description": "Iniciar una sesión de práctica",
+      "url": "/",
       "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }]
     }
   ]

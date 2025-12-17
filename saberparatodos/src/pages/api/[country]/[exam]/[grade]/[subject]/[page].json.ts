@@ -9,6 +9,63 @@ import type { APIRoute } from 'astro';
 
 const QUESTIONS_PER_PAGE = 20; // 🔒 Hard limit to prevent API abuse
 
+function slugifySubject(input: string): string {
+  const s = (input || '').toLowerCase().trim();
+  if (s.includes('matem')) return 'matematicas';
+  if (s.includes('lectura')) return 'lectura_critica';
+  if (s.includes('ciencias') || s.includes('biolog') || s.includes('quim') || s.includes('fisic')) return 'ciencias_naturales';
+  if (s.includes('social')) return 'sociales_y_ciudadanas';
+  if (s.includes('ingl')) return 'ingles';
+  if (s.includes('inform')) return 'informatica';
+  return s
+    .normalize('NFD')
+    .replace(/\p{Diacritic}+/gu, '')
+    .replace(/[^a-z0-9]+/g, '_')
+    .replace(/^_+|_+$/g, '');
+}
+
+export async function getStaticPaths() {
+  const entries = await getCollection('questions');
+
+  // Group by (country, grade, subjectSlug)
+  const groups = new Map<string, { country: string; grade: string; subject: string; count: number }>();
+
+  for (const entry of entries) {
+    const country = String(entry.data.country || '').toUpperCase();
+    const grade = String(entry.data.grado ?? '');
+    const subject = slugifySubject(String(entry.data.asignatura || ''));
+    if (!country || !grade || !subject) continue;
+
+    const key = `${country}|${grade}|${subject}`;
+    const existing = groups.get(key);
+    if (existing) {
+      existing.count += 1;
+    } else {
+      groups.set(key, { country, grade, subject, count: 1 });
+    }
+  }
+
+  const exam = 'icfes';
+  const paths: Array<{ params: { country: string; exam: string; grade: string; subject: string; page: string } }> = [];
+
+  for (const g of groups.values()) {
+    const totalPages = Math.max(1, Math.ceil(g.count / QUESTIONS_PER_PAGE));
+    for (let page = 1; page <= totalPages; page++) {
+      paths.push({
+        params: {
+          country: g.country,
+          exam,
+          grade: g.grade,
+          subject: g.subject,
+          page: String(page),
+        },
+      });
+    }
+  }
+
+  return paths;
+}
+
 export const GET: APIRoute = async ({ params }) => {
   const { country, exam, grade, subject, page } = params;
 
@@ -28,9 +85,14 @@ export const GET: APIRoute = async ({ params }) => {
   }
 
   try {
-    // Normalize subject names for comparison (handle spaces, hyphens, underscores)
-    const normalizeSubject = (str: string) => 
-      str.toLowerCase().replace(/[\s_-]/g, '').trim();
+    // Normalize subject names for comparison (handle spaces, hyphens, underscores, AND accents)
+    const normalizeSubject = (str: string) =>
+      str
+        .toLowerCase()
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '') // Remove diacritics/accents
+        .replace(/[\s_-]/g, '')
+        .trim();
 
     // Fetch all matching questions from content collection
     const allQuestions = await getCollection('questions', (entry) => {
@@ -60,6 +122,15 @@ export const GET: APIRoute = async ({ params }) => {
     const questions = paginatedQuestions.map((entry, index) => {
       const body = entry.body || '';
 
+      // Debug: Log body length for first math question
+      if (entry.data.asignatura?.toLowerCase().includes('mat') && index === 0) {
+        console.log(`🔍 First matemáticas question:`);
+        console.log(`   ID: ${entry.data.id}`);
+        console.log(`   Body length: ${body.length} chars`);
+        console.log(`   Has "### Opciones": ${body.includes('### Opciones')}`);
+        console.log(`   Has "### Explicación": ${body.includes('### Explicación')}`);
+      }
+
       // Extract question variants from markdown (v1-v7 format)
       const questionMatches = body.matchAll(/## Pregunta \d+ \((.*?)\)/g);
       const variants = Array.from(questionMatches);
@@ -68,6 +139,12 @@ export const GET: APIRoute = async ({ params }) => {
       const questionText = extractSection(body, '### Enunciado', '### Opciones') || entry.data.id;
       const optionsText = extractSection(body, '### Opciones', '### Explicación') || '';
       const explanation = extractSection(body, '### Explicación Pedagógica', '---') || '';
+
+      // Debug: Log extracted sections for first math question
+      if (entry.data.asignatura?.toLowerCase().includes('mat') && index === 0) {
+        console.log(`   Extracted optionsText length: ${optionsText.length} chars`);
+        console.log(`   First 200 chars: "${optionsText.substring(0, 200)}"`);
+      }
 
       // Parse options
       const options = parseOptions(optionsText);
@@ -80,7 +157,7 @@ export const GET: APIRoute = async ({ params }) => {
         options: options,
         correct_answer: correctOption?.letter || 'A',
         explanation: explanation.trim(),
-        difficulty: mapDifficulty(entry.data.dificultad),
+        difficulty: mapDifficulty((entry.data as any).dificultad),
         bundle_id: entry.data.id,
         source_url: entry.data.source_url || '',
         tags: [entry.data.tema, entry.data.asignatura],
@@ -120,21 +197,38 @@ export const GET: APIRoute = async ({ params }) => {
 // Helper functions
 function extractSection(markdown: string, startMarker: string, endMarker: string): string {
   const startIndex = markdown.indexOf(startMarker);
-  if (startIndex === -1) return '';
+  if (startIndex === -1) {
+    console.warn(`⚠️ extractSection: Start marker "${startMarker}" not found`);
+    return '';
+  }
 
   const contentStart = startIndex + startMarker.length;
   const endIndex = markdown.indexOf(endMarker, contentStart);
 
-  return endIndex === -1
+  const result = endIndex === -1
     ? markdown.substring(contentStart).trim()
     : markdown.substring(contentStart, endIndex).trim();
+
+  // Debug logging for first instance only
+  if (result && result.length < 100 && result.includes('A)')) {
+    console.log(`extractSection("${startMarker}" → "${endMarker}"): "${result.substring(0, 100)}"`);
+  }
+
+  return result;
 }
 
 function parseOptions(optionsText: string): Array<{ letter: string; text: string; is_correct: boolean }> {
   const lines = optionsText.split('\n').filter(line => line.trim());
   const options: Array<{ letter: string; text: string; is_correct: boolean }> = [];
 
+  // Debug logging (will appear in build output)
+  if (lines.length > 0 && lines.length < 4) {
+    console.warn(`⚠️ parseOptions: Only ${lines.length} lines found. Expected 4.`);
+    console.warn(`Lines:`, lines);
+  }
+
   for (const line of lines) {
+    // Regex matches: - [x] A) text or - [ ] B) text
     const match = line.match(/^-\s*\[(x| )\]\s*([A-D])\)\s*(.+)$/i);
     if (match) {
       options.push({
@@ -142,6 +236,11 @@ function parseOptions(optionsText: string): Array<{ letter: string; text: string
         text: match[3].trim(),
         is_correct: match[1].toLowerCase() === 'x'
       });
+    } else {
+      // Log lines that don't match (for debugging)
+      if (line.includes('A)') || line.includes('B)') || line.includes('C)') || line.includes('D)')) {
+        console.warn(`⚠️ parseOptions: Line didn't match regex: "${line}"`);
+      }
     }
   }
 

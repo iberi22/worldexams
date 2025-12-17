@@ -24,16 +24,6 @@ source_license: "CC BY-SA 4.0"
 search_query: "preguntas liberadas icfes lenguaje grado 5 textos informativos expositivos"
 original_question: "Pregunta de comprensión sobre texto explicativo de las abejas"
 original_answer: "Producir miel y polinizar"
-
-## 📊 Metadata de Validación
-| Campo | Valor |
-|---|---|
-| Total Preguntas | 7 |
-| Original (Dificultad 3) | 1 |
-| Fácil (Dificultad 1-2) | 2 |
-| Media (Dificultad 3) | 2 |
-| Difícil (Dificultad 4-5) | 2 |
-
 ---
 
 # Pregunta Base: Lectura Informativa
@@ -196,3 +186,14 @@ La expresión "Sin embargo" se utiliza para:
 
 **Competencia gramatical/textual:** El conector "**Sin embargo**" es un conector de contraste u oposición. El autor venía diciendo que producen miel (lo que todos saben), PERO (contraste) aclara que hay algo más importante (la polinización).
 
+---
+
+## 📊 Metadata de Validación
+
+| Campo | Valor |
+|---|---|
+| Total Preguntas | 7 |
+| Original (Dificultad 3) | 1 |
+| Fácil (Dificultad 1-2) | 2 |
+| Media (Dificultad 3) | 2 |
+| Difícil (Dificultad 4-5) | 2 |

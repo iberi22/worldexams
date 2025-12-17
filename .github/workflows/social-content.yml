@@ -1,0 +1,77 @@
+name: 📱 Publicar Contenido en Redes Sociales
+
+on:
+  schedule:
+    # Cada 3 horas: 00:00, 03:00, 06:00, 09:00, 12:00, 15:00, 18:00, 21:00 UTC
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+    inputs:
+      content_type:
+        description: 'Tipo de contenido a publicar'
+        required: true
+        type: choice
+        options:
+          - daily-tip
+          - question-of-day
+          - weekly-summary
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Cache Rust Dependencies
+        uses: actions/cache@v3
+        with:
+          path: |
+            ~/.cargo/bin/
+            ~/.cargo/registry/index/
+            ~/.cargo/registry/cache/
+            ~/.cargo/git/db/
+            social-orchestrator/target/
+          key: ${{ runner.os }}-cargo-${{ hashFiles('social-orchestrator/Cargo.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-cargo-
+
+      - name: Install Rust
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Build Orchestrator
+        run: |
+          cd social-orchestrator
+          cargo build --release
+
+      - name: Determine Content Type
+        id: content
+        run: |
+          if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+            echo "type=${{ inputs.content_type }}" >> $GITHUB_OUTPUT
+          else
+            # Publicar tips diarios en horario automático
+            echo "type=daily-tip" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Publish Content
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+          TWITTER_API_SECRET: ${{ secrets.TWITTER_API_SECRET }}
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
+        run: |
+          cd social-orchestrator
+          ./target/release/social-orchestrator publish-content --content-type ${{ steps.content.outputs.type }}
+
+      - name: Notify Success
+        if: success()
+        run: |
+          echo "✅ Contenido publicado exitosamente en todas las redes"
+
+      - name: Notify Failure
+        if: failure()
+        run: |
+          echo "❌ Error al publicar contenido"

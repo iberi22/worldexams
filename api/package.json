@@ -3,8 +3,11 @@
   "version": "1.0.0",
   "description": "World Exams API Gateway & Content",
   "scripts": {
+    "build": "call build.bat",
     "dev": "wrangler pages dev .",
-    "deploy": "wrangler pages deploy ."
+    "deploy": "npm run build && wrangler pages deploy dist --project-name=worldexams-api",
+    "preview": "wrangler pages dev dist",
+    "verify": "echo Checking dist structure: && dir dist\\v1\\co\\icfes\\11\\matematicas 2>nul || echo Missing dist folder"
   },
   "dependencies": {
     "@cloudflare/workers-types": "^4.20240529.0",
