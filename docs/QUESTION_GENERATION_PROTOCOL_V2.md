@@ -129,6 +129,8 @@ La estructura debe ser: `src/content/questions/[country]/[subject]/[grade]/`
 | 🇨🇴 | Ciencias Naturales | `ciencias-naturales` |
 | 🇨🇴 | Lectura Crítica | `lectura-critica` |
 | 🇨🇴 | Inglés | `ingles` |
+| 🇨🇴 | Tecnología e Informática | `tecnologia-informatica` |
+| 🇨🇴 | Filosofía | `filosofia` |
 | 🇲🇽 | Formación Cívica y Ética | `civismo` |
 
 ### 3. Naming Convention de Archivos
@@ -573,6 +575,7 @@ Ver archivo de ejemplo: `docs/examples/MX-MAT-11-angulos-001-bundle.md`
 - [PLANNING.md](../PLANNING.md) - Arquitectura global
 - [AGENTS.md](../AGENTS.md) - Roles de IA
 - [copilot-instructions.md](../.github/copilot-instructions.md) - Instrucciones Copilot
+- [MODERN_QUESTIONS_PROTOCOL.md](./MODERN_QUESTIONS_PROTOCOL.md) - Preguntas con contextos modernos (IA, redes sociales)
 
 ---
 
