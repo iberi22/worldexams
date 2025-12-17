@@ -1,21 +1,41 @@
 /**
  * API Service for consuming questions from WorldExams API
- * This service fetches questions from the external API when running as a standalone app
+ * This service fetches questions from the API with JWT authentication
  */
 
-// API Configuration
-// In development: use local files (/api)
-// In production: use Cloudflare API (https://worldexams-api.pages.dev/v1)
-const isDevelopment = import.meta.env.DEV;
-const API_BASE_URL = isDevelopment 
-  ? '/api'  // Local files served from public/api/
-  : import.meta.env.PUBLIC_API_BASE_URL || 'https://worldexams-api.pages.dev/v1';
-const API_KEY = import.meta.env.PUBLIC_API_KEY || ''; // Only needed for production
-const COUNTRY_CODE = 'co'; // Lowercase to match API structure (co, not CO)
-const EXAM_TYPE = 'icfes'; // Correct exam type
+import { supabase } from './supabase';
 
-console.log(`🔧 API Configuration: ${isDevelopment ? 'LOCAL' : 'PRODUCTION'} mode`);
-console.log(`📡 API Base URL: ${API_BASE_URL}`);
+// API Configuration - Always use /api/ (served from same domain)
+const API_BASE_URL = '/api';
+const COUNTRY_CODE = 'co';
+const EXAM_TYPE = 'icfes';
+
+/**
+ * Get JWT token from Supabase session
+ */
+async function getAuthToken(): Promise<string | null> {
+  const { data: { session } } = await supabase.auth.getSession();
+  return session?.access_token || null;
+}
+
+/**
+ * Get headers with authentication if user is logged in
+ */
+async function getAuthHeaders(): Promise<HeadersInit> {
+  const headers: HeadersInit = {
+    'Content-Type': 'application/json'
+  };
+  
+  const token = await getAuthToken();
+  if (token) {
+    headers['Authorization'] = `Bearer ${token}`;
+  }
+  
+  return headers;
+}
+
+console.log(`📍 API Base URL: ${API_BASE_URL}`);
+console.log(`🌍 Country: ${COUNTRY_CODE}, Exam: ${EXAM_TYPE}`);
 
 export interface APIQuestion {
   id: string;
@@ -159,23 +179,15 @@ export async function fetchQuestions(
 
   if (questionCache.has(cacheKey)) {
     console.log(`📦 Using cached questions for ${cacheKey}`);
-    return questionCache.get(cacheKey)!; (only for production API)
-    const headers: HeadersInit = {
-      'Content-Type': 'application/json'
-    };
-    if (API_KEY && !isDevelopment) {
-      headers['x-api-key'] = API_KEY;
-      console.log('🔑 Using API key for authentication')
+    return questionCache.get(cacheKey)!;
+  }
+
+  const url = `${API_BASE_URL}/${COUNTRY_CODE}/${EXAM_TYPE}/${grade}/${subject.toLowerCase()}/${page}.json?t=${Date.now()}`;
+
+  try {
     console.log(`🌐 Fetching questions from: ${url}`);
     
-    // Add API key to headers if available
-    const headers: HeadersInit = {
-      'Content-Type': 'application/json'
-    };
-    if (API_KEY) {
-      headers['x-api-key'] = API_KEY;
-    }
-    
+    const headers = await getAuthHeaders();
     const response = await fetch(url, { 
       cache: 'no-cache',
       headers
@@ -255,19 +267,12 @@ export async function fetchAllQuestionsForGrade(
       console.log(`🔒 Guest limit reached: ${GUEST_LIMIT} questions`);
       break;
     }
- && !isDevelopment
+
     try {
-      // First get the index to know how many pages
       const indexUrl = `${API_BASE_URL}/${COUNTRY_CODE}/${EXAM_TYPE}/${grade}/${subject}/index.json?t=${Date.now()}`;
       console.log(`🔍 Fetching index from: ${indexUrl}`);
       
-      const headers: HeadersInit = {
-        'Content-Type': 'application/json'
-      };
-      if (API_KEY) {
-        headers['x-api-key'] = API_KEY;
-      }
-      
+      const headers = await getAuthHeaders();
       const indexResponse = await fetch(indexUrl, { 
         cache: 'no-cache',
         headers

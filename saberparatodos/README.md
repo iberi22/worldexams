@@ -1,8 +1,12 @@
-# SaberParaTodos 🇨🇴
+# 🔒 SaberParaTodos - Backend Privado 🇨🇴
+
+> **⚠️ REPOSITORIO PRIVADO** - Backend con API, preguntas, y configuración sensible
 
 **Plataforma de práctica para exámenes ICFES de Colombia**
 
-Una aplicación web moderna para practicar las pruebas Saber (ICFES) de Colombia, con soporte para todos los grados (3°, 5°, 7°, 9° y 11°) y todas las asignaturas evaluadas.
+Este es el repositorio privado del backend de Saber Para Todos, parte de la organización [World Exams](https://github.com/world-exams).
+
+**Frontend público:** [world-exams/saber-co](https://github.com/world-exams/saber-co)
 
 ## ✨ Características
 
