@@ -196,5 +196,5 @@ Este backend comparte base de datos con:
 
 ---
 
-**Organización:** [World Exams](https://github.com/world-exams)  
+**Organización:** [World Exams](https://github.com/world-exams)
 **Licencia:** MIT (código) | CC BY-SA 4.0 (preguntas)

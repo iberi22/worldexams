@@ -6,14 +6,54 @@
   export let onSelect;
   export let onBack;
 
+  // Map API folder names to display names
+  const subjectDisplayMap = {
+    'MATEMATICAS': 'MATEMÁTICAS',
+    'LECTURA_CRITICA': 'LECTURA CRÍTICA',
+    'LECTURA-CRITICA': 'LECTURA CRÍTICA',
+    'CIENCIAS_NATURALES': 'CIENCIAS NATURALES',
+    'CIENCIAS-NATURALES': 'CIENCIAS NATURALES',
+    'SOCIALES_Y_CIUDADANAS': 'SOCIALES Y CIUDADANAS',
+    'SOCIALES-CIUDADANAS': 'SOCIALES Y CIUDADANAS',
+    'SOCIALES_CIUDADANAS': 'SOCIALES Y CIUDADANAS',
+    'INGLES': 'INGLÉS',
+    'INFORMATICA': 'INFORMÁTICA',
+    'LENGUAJE': 'LENGUAJE',
+  };
+
+  // Get display name for a subject
+  function getDisplayName(subject) {
+    const upper = subject.toUpperCase();
+    return subjectDisplayMap[upper] || subject.replace(/[-_]/g, ' ');
+  }
+
+  // Get icon for subject
+  function getSubjectIcon(subject) {
+    const icons = {
+      'MATEMÁTICAS': '📐',
+      'LECTURA CRÍTICA': '📚',
+      'CIENCIAS NATURALES': '🔬',
+      'SOCIALES Y CIUDADANAS': '🌍',
+      'INGLÉS': '🇬🇧',
+      'INFORMÁTICA': '💻',
+      'LENGUAJE': '✏️',
+    };
+    const displayName = getDisplayName(subject);
+    return icons[displayName] || '📖';
+  }
+
   // Extract unique subjects from questions OR use provided availableSubjects
-  $: subjects = availableSubjects.length > 0
+  // De-duplicate subjects that map to the same display name
+  $: rawSubjects = availableSubjects.length > 0
     ? availableSubjects
     : [...new Set(
         (questions || []) // Safety check
           .filter(q => q && q.category)
           .map(q => q.category.split(' :: ')[0])
       )].sort();
+
+  // De-duplicate by display name (e.g., LECTURA_CRITICA and LECTURA-CRITICA both become LECTURA CRÍTICA)
+  $: subjects = [...new Map(rawSubjects.map(s => [getDisplayName(s), s])).values()];
 </script>
 
 <div class="flex flex-col items-center justify-center min-h-[80vh] space-y-12 animate-fade-in-up">
@@ -63,9 +103,9 @@
           className="p-8 flex flex-col items-center justify-center group h-40 hover:border-white/40 transition-transform duration-300 hover:scale-105"
         >
           <div class="mb-2 text-[#F5F5DC] opacity-60 group-hover:opacity-100 text-2xl">
-            {subject.substring(0, 2)}
+            {getSubjectIcon(subject)}
           </div>
-          <h3 class="text-lg font-bold uppercase tracking-widest text-center">{subject}</h3>
+          <h3 class="text-lg font-bold uppercase tracking-widest text-center">{getDisplayName(subject)}</h3>
         </FlashlightCard>
       {/each}
     </div>

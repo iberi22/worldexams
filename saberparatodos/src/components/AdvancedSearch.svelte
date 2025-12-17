@@ -19,9 +19,44 @@
   let selectedDifficulty: number | null = null;
   let selectedCompetencia: string | null = null;
 
+  // Normalize subject for comparison (removes accents, standardizes separators)
+  function normalizeSubject(subject: string): string {
+    if (!subject) return '';
+    return subject
+      .toUpperCase()
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '') // Remove accents
+      .replace(/[-_]/g, ' ')           // Replace hyphens/underscores with space
+      .trim();
+  }
+
+  // Map API names to display names
+  const subjectDisplayMap: Record<string, string> = {
+    'MATEMATICAS': 'MATEMÁTICAS',
+    'LECTURA CRITICA': 'LECTURA CRÍTICA',
+    'CIENCIAS NATURALES': 'CIENCIAS NATURALES',
+    'SOCIALES Y CIUDADANAS': 'SOCIALES Y CIUDADANAS',
+    'INGLES': 'INGLÉS',
+    'INFORMATICA': 'INFORMÁTICA',
+    'LENGUAJE': 'LENGUAJE',
+  };
+
+  function getDisplayName(subject: string): string {
+    const normalized = normalizeSubject(subject);
+    return subjectDisplayMap[normalized] || subject;
+  }
+
+  // Check if subjects match (handles naming variations)
+  function subjectsMatch(category: string, selected: string | null): boolean {
+    if (!selected) return true;
+    const categorySubject = category?.split(' > ')[0] || category?.split(' :: ')[0] || '';
+    return normalizeSubject(categorySubject) === normalizeSubject(selected);
+  }
+
   // Derived data
   $: grades = [...new Set(questions.map(q => q.grade).filter(Boolean))].sort((a, b) => a - b);
-  $: subjects = [...new Set(questions.map(q => q.category?.split(' > ')[0]).filter(Boolean))];
+  $: rawSubjects = [...new Set(questions.map(q => q.category?.split(' > ')[0] || q.category?.split(' :: ')[0]).filter(Boolean))];
+  $: subjects = [...new Map(rawSubjects.map(s => [normalizeSubject(s), s])).values()];
   $: competencias = [...new Set(questions.map(q => q.competencia).filter(Boolean))];
 
   // Filter results
@@ -35,8 +70,8 @@
     // Grade filter
     const matchesGrade = !selectedGrade || q.grade === selectedGrade;
 
-    // Subject filter
-    const matchesSubject = !selectedSubject || q.category?.startsWith(selectedSubject);
+    // Subject filter (handles naming variations)
+    const matchesSubject = subjectsMatch(q.category, selectedSubject);
 
     // Difficulty filter
     const matchesDifficulty = !selectedDifficulty || q.difficulty === selectedDifficulty;
@@ -93,14 +128,15 @@
     5: 'Muy Difícil'
   };
 
+  // Subject emojis using normalized names (uppercase, no accents, spaces)
   const subjectEmojis: Record<string, string> = {
-    'Matemáticas': '📐',
-    'Lenguaje': '📖',
-    'Ciencias': '🔬',
-    'Sociales': '🏛️',
-    'Inglés': '🌐',
-    'Lectura Crítica': '📚',
-    'Informática': '💻'
+    'MATEMATICAS': '📐',
+    'LENGUAJE': '📖',
+    'CIENCIAS NATURALES': '🔬',
+    'SOCIALES Y CIUDADANAS': '🏛️',
+    'INGLES': '🌐',
+    'LECTURA CRITICA': '📚',
+    'INFORMATICA': '💻'
   };
 </script>
 
@@ -201,7 +237,7 @@
                 >
                   <option value={null}>Todas</option>
                   {#each subjects as subject}
-                    <option value={subject}>{subjectEmojis[subject] || '📋'} {subject}</option>
+                    <option value={subject}>{subjectEmojis[normalizeSubject(subject)] || '📋'} {getDisplayName(subject)}</option>
                   {/each}
                 </select>
               </div>
@@ -268,8 +304,8 @@
               <div class="border-b border-white/5 last:border-0">
                 <div class="px-4 sm:px-6 py-2 bg-white/5 sticky top-0">
                   <h4 class="text-xs font-bold uppercase tracking-widest text-white/60 flex items-center gap-2">
-                    <span>{subjectEmojis[category] || '📋'}</span>
-                    {category}
+                    <span>{subjectEmojis[normalizeSubject(category)] || '📋'}</span>
+                    {getDisplayName(category)}
                     <span class="text-white/30">({categoryQuestions.length})</span>
                   </h4>
                 </div>

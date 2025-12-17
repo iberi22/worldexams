@@ -34,6 +34,27 @@
   import { getPWAStatus, getRecommendedCacheSize, getCacheExpiryHours } from '../lib/pwa-detector'; // PWA Detection
   import packageInfo from '../../package.json';
 
+  // Normalize subject name for comparison (removes accents, replaces separators)
+  function normalizeSubject(subject) {
+    if (!subject) return '';
+    return subject
+      .toUpperCase()
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '') // Remove accents
+      .replace(/[-_]/g, ' ')           // Replace hyphens/underscores with space
+      .trim();
+  }
+
+  // Check if two subjects match (handles different naming conventions)
+  function subjectsMatch(categorySubject, selectedSubject) {
+    if (!selectedSubject) return true;
+    const normalizedCategory = normalizeSubject(categorySubject.split(' :: ')[0]);
+    const normalizedSelected = normalizeSubject(selectedSubject);
+    return normalizedCategory === normalizedSelected ||
+           normalizedCategory.startsWith(normalizedSelected) ||
+           normalizedSelected.startsWith(normalizedCategory);
+  }
+
   export let questions = [];
   export let universalPool = null; // New prop for universal questions pool
 
@@ -62,6 +83,7 @@
   let isPWA = false; // PWA detection state
   let pwaStatus = { isPWA: false, displayMode: 'browser', isInstallable: false }; // PWA status
   let memoryStats = { answeredCount: 0, totalAvailable: 0, percentAnswered: 0 };
+  let isGuest = true; // Guest status (true if user is not authenticated)
 
   // User plan (free or institutional)
   // TODO: Integrar con Supabase user_metadata cuando se implemente backend auth
@@ -151,10 +173,12 @@
     // Check for active session
     const { data: { session } } = await supabase.auth.getSession();
     user = session?.user || null;
+    isGuest = !user; // Update guest status based on authentication
 
     // Listen for auth changes
     const { data: { subscription } } = supabase.auth.onAuthStateChange((_event, session) => {
       user = session?.user || null;
+      isGuest = !user; // Update guest status when auth state changes
     });
 
     // Check localStorage for grade preference
@@ -174,11 +198,11 @@
     return () => subscription.unsubscribe();
   });
 
-  // Filter loaded questions by grade and subject
+  // Filter loaded questions by grade and subject (handles naming variations)
   $: filteredLocalQuestions = loadedQuestions.filter(q => {
     if (!q) return false;
     const gradeMatch = selectedGrade ? q.grade === selectedGrade : true;
-    const subjectMatch = selectedSubject ? (q.category && q.category.startsWith(selectedSubject)) : true;
+    const subjectMatch = subjectsMatch(q.category, selectedSubject);
     return gradeMatch && subjectMatch;
   });
 
@@ -378,8 +402,9 @@
       const availableQuestions = loadedQuestions.filter(q => {
         if (!q) return false;
         const gradeMatch = selectedGrade ? q.grade === selectedGrade : true;
+        // Case-insensitive subject matching
         const subjectMatch = selectedSubject
-          ? (q.category && q.category.startsWith(selectedSubject))
+          ? (q.category && q.category.toUpperCase().startsWith(selectedSubject.toUpperCase()))
           : true;
         return gradeMatch && subjectMatch;
       });

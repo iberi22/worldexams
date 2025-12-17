@@ -1,0 +1,99 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e6]:
+        - generic [ref=e7]:
+          - button "SaberParaTodos" [ref=e8] [cursor=pointer]
+          - generic [ref=e9]: v0.2.0
+        - generic [ref=e10]:
+          - button "Ingresar" [ref=e11] [cursor=pointer]
+          - button "Búsqueda avanzada" [ref=e13] [cursor=pointer]:
+            - img [ref=e14]
+      - main [ref=e16]:
+        - generic [ref=e17]:
+          - generic [ref=e18]:
+            - generic [ref=e19]:
+              - img [ref=e20]
+              - generic [ref=e24]: Colombia
+            - paragraph [ref=e25]: "Sistema Listo :: v0.2.0"
+            - heading "Saber Para Todos" [level=1] [ref=e26]: Saber Para Todos
+            - paragraph [ref=e28]: Interfaz preparatoria avanzada para pruebas estandarizadas. Entorno ciber-minimalista optimizado para enfoque y eficiencia.
+            - generic [ref=e29]:
+              - generic [ref=e30]:
+                - img [ref=e31]
+                - generic [ref=e33]: 130+ preguntas
+              - generic [ref=e34]:
+                - img [ref=e35]
+                - generic [ref=e37]: 5 asignaturas
+              - generic [ref=e38]:
+                - img [ref=e39]
+                - generic [ref=e41]: 100% gratis
+          - generic [ref=e42]:
+            - button "Iniciar Examen Continuar Grado 11°" [ref=e43] [cursor=pointer]:
+              - generic [ref=e44]:
+                - img [ref=e46]
+                - heading "Iniciar Examen" [level=3] [ref=e50]
+                - paragraph [ref=e51]: Continuar Grado 11°
+            - button "Datos Globales Ver métricas de rendimiento" [ref=e52] [cursor=pointer]:
+              - generic [ref=e53]:
+                - img [ref=e55]
+                - heading "Datos Globales" [level=3] [ref=e60]
+                - paragraph [ref=e61]: Ver métricas de rendimiento
+            - button "Blog / Artículos Explorar banco de preguntas" [ref=e62] [cursor=pointer]:
+              - generic [ref=e63]:
+                - img [ref=e65]
+                - heading "Blog / Artículos" [level=3] [ref=e70]
+                - paragraph [ref=e71]: Explorar banco de preguntas
+          - generic [ref=e72]:
+            - link "Guía Completa ICFES" [ref=e73] [cursor=pointer]:
+              - /url: /guia-examen
+              - img [ref=e74]
+              - text: Guía Completa ICFES
+            - paragraph [ref=e76]: Conoce la estructura del examen y tips de estudio
+          - generic [ref=e78]:
+            - generic [ref=e79]:
+              - generic [ref=e80]: 🇨🇴
+              - generic [ref=e81]: Hecho en Colombia
+            - generic [ref=e82]:
+              - link "❤️ Apoyar" [ref=e83] [cursor=pointer]:
+                - /url: https://patreon.com/elberi
+                - generic [ref=e84]: ❤️
+                - generic [ref=e85]: Apoyar
+              - link "GitHub" [ref=e86] [cursor=pointer]:
+                - /url: https://github.com/world-exams
+                - img [ref=e87]
+                - generic [ref=e89]: GitHub
+            - generic [ref=e90]: © 2025 World Exams
+      - button "📦 100 preguntas 🔒" [ref=e96] [cursor=pointer]:
+        - generic [ref=e97]: 📦
+        - generic [ref=e98]: 100 preguntas
+        - generic [ref=e99]: 🔒
+  - dialog "🍪 Usamos cookies" [ref=e101]:
+    - generic [ref=e103]:
+      - generic [ref=e104]:
+        - heading "🍪 Usamos cookies" [level=2] [ref=e105]
+        - paragraph [ref=e106]:
+          - text: Usamos cookies y tecnologías similares para personalizar contenido y anuncios, ofrecer funciones de redes sociales y analizar el tráfico. Al hacer clic en "Aceptar", aceptas el uso de cookies según nuestra
+          - link "Política de Privacidad" [ref=e107] [cursor=pointer]:
+            - /url: /privacy
+          - text: .
+      - generic [ref=e108]:
+        - button "Rechazar cookies" [ref=e109] [cursor=pointer]: Rechazar
+        - button "Aceptar cookies" [ref=e110] [cursor=pointer]: Aceptar
+  - generic [ref=e113]:
+    - button "Menu" [ref=e114]:
+      - img [ref=e116]
+      - generic: Menu
+    - button "Inspect" [ref=e120]:
+      - img [ref=e122]
+      - generic: Inspect
+    - button "Audit" [ref=e124]:
+      - img [ref=e126]
+      - generic: Audit
+    - button "Settings" [ref=e129]:
+      - img [ref=e131]
+      - generic: Settings
+```

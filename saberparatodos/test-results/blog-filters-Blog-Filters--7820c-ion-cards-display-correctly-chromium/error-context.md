@@ -1,0 +1,490 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e6]:
+        - generic [ref=e7]:
+          - button "SaberParaTodos" [ref=e8] [cursor=pointer]
+          - generic [ref=e9]: v0.2.0
+        - generic [ref=e10]:
+          - button "Ingresar" [ref=e11] [cursor=pointer]
+          - button "Búsqueda avanzada" [ref=e13] [cursor=pointer]:
+            - img [ref=e14]
+      - main [ref=e16]:
+        - generic [ref=e18]:
+          - generic [ref=e19]:
+            - heading "Blog / Artículos" [level=2] [ref=e20]
+            - button "[ Volver ]" [ref=e21] [cursor=pointer]
+          - generic [ref=e22]:
+            - generic [ref=e23]:
+              - generic:
+                - img
+              - textbox "Buscar por ID, contenido o tema..." [ref=e24]
+            - generic [ref=e25]:
+              - generic [ref=e26]:
+                - text: Asignatura
+                - generic [ref=e27]:
+                  - combobox [active] [ref=e28] [cursor=pointer]:
+                    - option "Todas las asignaturas" [selected]
+                    - option "CIENCIAS NATURALES"
+                    - option "INGLÉS"
+                    - option "LECTURA CRÍTICA"
+                    - option "MATEMÁTICAS"
+                    - option "SOCIALES Y CIUDADANAS"
+                  - generic:
+                    - img
+              - generic [ref=e29]:
+                - text: Grado Escolar
+                - generic [ref=e30]:
+                  - button "Todos" [ref=e31] [cursor=pointer]
+                  - button "3°" [ref=e32] [cursor=pointer]
+                  - button "5°" [ref=e33] [cursor=pointer]
+                  - button "7°" [ref=e34] [cursor=pointer]
+                  - button "9°" [ref=e35] [cursor=pointer]
+                  - button "11°" [ref=e36] [cursor=pointer]
+              - generic [ref=e37]:
+                - text: Nivel de Complejidad
+                - generic [ref=e38]:
+                  - button "Todos" [ref=e39] [cursor=pointer]
+                  - button "1" [ref=e40] [cursor=pointer]
+                  - button "2" [ref=e41] [cursor=pointer]
+                  - button "3" [ref=e42] [cursor=pointer]
+                  - button "4" [ref=e43] [cursor=pointer]
+                  - button "5" [ref=e44] [cursor=pointer]
+          - generic [ref=e45]:
+            - 'button "LECTURA CRÍTICA :: CO-LEC-11-discontinuos-002 CO-LEC-11-discontinuos-002-v4 La expresión \"Estamos esperando que la ''prosperidad'' gotee hacia abajo\" hace referencia crítica a una teoría económica conocida como: Grado 11° Nivel 3 Leer ->" [ref=e46] [cursor=pointer]':
+              - generic [ref=e48]:
+                - generic [ref=e49]:
+                  - generic [ref=e50]: "LECTURA CRÍTICA :: CO-LEC-11-discontinuos-002"
+                  - generic [ref=e51]: CO-LEC-11-discontinuos-002-v4
+                - generic [ref=e53]: "La expresión \"Estamos esperando que la 'prosperidad' gotee hacia abajo\" hace referencia crítica a una teoría económica conocida como:"
+                - generic [ref=e54]:
+                  - generic [ref=e55]:
+                    - generic [ref=e56]: Grado 11°
+                    - generic [ref=e57]: Nivel 3
+                  - generic [ref=e58]:
+                    - generic [ref=e59]: Leer
+                    - generic [ref=e60]: "->"
+            - 'button "MATEMÁTICAS :: CO-MAT-11-operaciones-basicas-001 CO-MAT-11-operaciones-basicas-001-v3 [Pregunta pendiente de recuperación por error de generación] Grado 11° Nivel 3 Leer ->" [ref=e61] [cursor=pointer]':
+              - generic [ref=e63]:
+                - generic [ref=e64]:
+                  - generic [ref=e65]: "MATEMÁTICAS :: CO-MAT-11-operaciones-basicas-001"
+                  - generic [ref=e66]: CO-MAT-11-operaciones-basicas-001-v3
+                - generic [ref=e68]: "[Pregunta pendiente de recuperación por error de generación]"
+                - generic [ref=e69]:
+                  - generic [ref=e70]:
+                    - generic [ref=e71]: Grado 11°
+                    - generic [ref=e72]: Nivel 3
+                  - generic [ref=e73]:
+                    - generic [ref=e74]: Leer
+                    - generic [ref=e75]: "->"
+            - 'button "MATEMÁTICAS :: CO-MAT-11-ALG-001 CO-MAT-11-ALG-001-v7 [Pregunta pendiente de recuperación por error de generación] Grado 11° Nivel 3 Leer ->" [ref=e76] [cursor=pointer]':
+              - generic [ref=e78]:
+                - generic [ref=e79]:
+                  - generic [ref=e80]: "MATEMÁTICAS :: CO-MAT-11-ALG-001"
+                  - generic [ref=e81]: CO-MAT-11-ALG-001-v7
+                - generic [ref=e83]: "[Pregunta pendiente de recuperación por error de generación]"
+                - generic [ref=e84]:
+                  - generic [ref=e85]:
+                    - generic [ref=e86]: Grado 11°
+                    - generic [ref=e87]: Nivel 3
+                  - generic [ref=e88]:
+                    - generic [ref=e89]: Leer
+                    - generic [ref=e90]: "->"
+            - 'button "CIENCIAS NATURALES :: CO-FIS-11-mecanica-002 CO-FIS-11-mecanica-002-v2 [Pregunta pendiente de recuperación por error de generación] Grado 11° Nivel 3 Leer ->" [ref=e91] [cursor=pointer]':
+              - generic [ref=e93]:
+                - generic [ref=e94]:
+                  - generic [ref=e95]: "CIENCIAS NATURALES :: CO-FIS-11-mecanica-002"
+                  - generic [ref=e96]: CO-FIS-11-mecanica-002-v2
+                - generic [ref=e98]: "[Pregunta pendiente de recuperación por error de generación]"
+                - generic [ref=e99]:
+                  - generic [ref=e100]:
+                    - generic [ref=e101]: Grado 11°
+                    - generic [ref=e102]: Nivel 3
+                  - generic [ref=e103]:
+                    - generic [ref=e104]: Leer
+                    - generic [ref=e105]: "->"
+            - 'button "SOCIALES Y CIUDADANAS :: CO-SOC-11-ECO-002 CO-SOC-11-ECO-002-v6 Analice el concepto de \"Salario Mínimo\" en un país con alta informalidad. Si el gobierno sube mucho el salario mínimo por decreto, ¿qué efecto perverso puede tener en la formalización? Grado 11° Nivel 3 Leer ->" [ref=e106] [cursor=pointer]':
+              - generic [ref=e108]:
+                - generic [ref=e109]:
+                  - generic [ref=e110]: "SOCIALES Y CIUDADANAS :: CO-SOC-11-ECO-002"
+                  - generic [ref=e111]: CO-SOC-11-ECO-002-v6
+                - generic [ref=e113]: Analice el concepto de "Salario Mínimo" en un país con alta informalidad. Si el gobierno sube mucho el salario mínimo por decreto, ¿qué efecto perverso puede tener en la formalización?
+                - generic [ref=e114]:
+                  - generic [ref=e115]:
+                    - generic [ref=e116]: Grado 11°
+                    - generic [ref=e117]: Nivel 3
+                  - generic [ref=e118]:
+                    - generic [ref=e119]: Leer
+                    - generic [ref=e120]: "->"
+            - 'button "MATEMÁTICAS :: CO-MAT-11-derivadas-005 CO-MAT-11-derivadas-005-v2 Deriva la función . Grado 11° Nivel 3 Leer ->" [ref=e121] [cursor=pointer]':
+              - generic [ref=e123]:
+                - generic [ref=e124]:
+                  - generic [ref=e125]: "MATEMÁTICAS :: CO-MAT-11-derivadas-005"
+                  - generic [ref=e126]: CO-MAT-11-derivadas-005-v2
+                - generic [ref=e128]:
+                  - text: Deriva la función
+                  - generic [ref=e129]:
+                    - math [ref=e131]:
+                      - generic [ref=e133]:
+                        - generic [ref=e134]: "y"
+                        - generic [ref=e135]: =
+                        - generic [ref=e136]: (
+                        - generic [ref=e137]: x
+                        - generic [ref=e138]: +
+                        - generic [ref=e139]: "1"
+                        - generic [ref=e140]:
+                          - generic [ref=e141]: )
+                          - generic [ref=e142]: "2"
+                    - generic [ref=e143]:
+                      - generic [ref=e144]: y =
+                      - generic [ref=e145]: (x +
+                      - generic [ref=e146]:
+                        - text: "1"
+                        - generic [ref=e147]:
+                          - text: )
+                          - generic [ref=e152]: "2"
+                  - text: .
+                - generic [ref=e153]:
+                  - generic [ref=e154]:
+                    - generic [ref=e155]: Grado 11°
+                    - generic [ref=e156]: Nivel 3
+                  - generic [ref=e157]:
+                    - generic [ref=e158]: Leer
+                    - generic [ref=e159]: "->"
+            - generic [ref=e160]:
+              - insertion
+            - 'button "SOCIALES Y CIUDADANAS :: SOC30639-01 SOC30639-01-v6 TODO: Generar variación de tipo High A Grado 11° Nivel 3 Leer ->" [ref=e161] [cursor=pointer]':
+              - generic [ref=e163]:
+                - generic [ref=e164]:
+                  - generic [ref=e165]: "SOCIALES Y CIUDADANAS :: SOC30639-01"
+                  - generic [ref=e166]: SOC30639-01-v6
+                - generic [ref=e168]: "TODO: Generar variación de tipo High A"
+                - generic [ref=e169]:
+                  - generic [ref=e170]:
+                    - generic [ref=e171]: Grado 11°
+                    - generic [ref=e172]: Nivel 3
+                  - generic [ref=e173]:
+                    - generic [ref=e174]: Leer
+                    - generic [ref=e175]: "->"
+            - 'button "CIENCIAS NATURALES :: CO-FIS-11-mecanica-001 CO-FIS-11-mecanica-001-v7 Un objeto se mueve en el espacio interestelar (vacío) alejándose de cualquier estrella o planeta. Si no actúa ninguna fuerza sobre él, ¿cómo será su movimiento según las leyes de Newton y el concepto de MRU? Grado 11° Nivel 3 Leer ->" [ref=e176] [cursor=pointer]':
+              - generic [ref=e178]:
+                - generic [ref=e179]:
+                  - generic [ref=e180]: "CIENCIAS NATURALES :: CO-FIS-11-mecanica-001"
+                  - generic [ref=e181]: CO-FIS-11-mecanica-001-v7
+                - generic [ref=e183]: Un objeto se mueve en el espacio interestelar (vacío) alejándose de cualquier estrella o planeta. Si no actúa ninguna fuerza sobre él, ¿cómo será su movimiento según las leyes de Newton y el concepto de MRU?
+                - generic [ref=e184]:
+                  - generic [ref=e185]:
+                    - generic [ref=e186]: Grado 11°
+                    - generic [ref=e187]: Nivel 3
+                  - generic [ref=e188]:
+                    - generic [ref=e189]: Leer
+                    - generic [ref=e190]: "->"
+            - 'button "MATEMÁTICAS :: CO-MAT-11-raices-002 CO-MAT-11-raices-002-v7 [Pregunta pendiente de recuperación por error de generación] Grado 11° Nivel 3 Leer ->" [ref=e191] [cursor=pointer]':
+              - generic [ref=e193]:
+                - generic [ref=e194]:
+                  - generic [ref=e195]: "MATEMÁTICAS :: CO-MAT-11-raices-002"
+                  - generic [ref=e196]: CO-MAT-11-raices-002-v7
+                - generic [ref=e198]: "[Pregunta pendiente de recuperación por error de generación]"
+                - generic [ref=e199]:
+                  - generic [ref=e200]:
+                    - generic [ref=e201]: Grado 11°
+                    - generic [ref=e202]: Nivel 3
+                  - generic [ref=e203]:
+                    - generic [ref=e204]: Leer
+                    - generic [ref=e205]: "->"
+            - 'button "SOCIALES Y CIUDADANAS :: CO-SOC-11-CON-001 CO-SOC-11-CON-001-v4 ¿Qué significa que un grupo armado tenga \"Control Territorial\"? Grado 11° Nivel 3 Leer ->" [ref=e206] [cursor=pointer]':
+              - generic [ref=e208]:
+                - generic [ref=e209]:
+                  - generic [ref=e210]: "SOCIALES Y CIUDADANAS :: CO-SOC-11-CON-001"
+                  - generic [ref=e211]: CO-SOC-11-CON-001-v4
+                - generic [ref=e213]: ¿Qué significa que un grupo armado tenga "Control Territorial"?
+                - generic [ref=e214]:
+                  - generic [ref=e215]:
+                    - generic [ref=e216]: Grado 11°
+                    - generic [ref=e217]: Nivel 3
+                  - generic [ref=e218]:
+                    - generic [ref=e219]: Leer
+                    - generic [ref=e220]: "->"
+            - 'button "CIENCIAS NATURALES :: CO-CIE-11-fisica-001 CO-CIE-11-fisica-001-v5 [Pregunta pendiente de recuperación por error de generación] Grado 11° Nivel 3 Leer ->" [ref=e221] [cursor=pointer]':
+              - generic [ref=e223]:
+                - generic [ref=e224]:
+                  - generic [ref=e225]: "CIENCIAS NATURALES :: CO-CIE-11-fisica-001"
+                  - generic [ref=e226]: CO-CIE-11-fisica-001-v5
+                - generic [ref=e228]: "[Pregunta pendiente de recuperación por error de generación]"
+                - generic [ref=e229]:
+                  - generic [ref=e230]:
+                    - generic [ref=e231]: Grado 11°
+                    - generic [ref=e232]: Nivel 3
+                  - generic [ref=e233]:
+                    - generic [ref=e234]: Leer
+                    - generic [ref=e235]: "->"
+            - 'button "MATEMÁTICAS :: CO-MAT-11-operaciones-basicas-005 CO-MAT-11-operaciones-basicas-005-v1 [Pregunta pendiente de recuperación por error de generación] Grado 11° Nivel 3 Leer ->" [ref=e236] [cursor=pointer]':
+              - generic [ref=e238]:
+                - generic [ref=e239]:
+                  - generic [ref=e240]: "MATEMÁTICAS :: CO-MAT-11-operaciones-basicas-005"
+                  - generic [ref=e241]: CO-MAT-11-operaciones-basicas-005-v1
+                - generic [ref=e243]: "[Pregunta pendiente de recuperación por error de generación]"
+                - generic [ref=e244]:
+                  - generic [ref=e245]:
+                    - generic [ref=e246]: Grado 11°
+                    - generic [ref=e247]: Nivel 3
+                  - generic [ref=e248]:
+                    - generic [ref=e249]: Leer
+                    - generic [ref=e250]: "->"
+            - generic [ref=e251]:
+              - insertion
+            - 'button "MATEMÁTICAS :: CO-MAT-11-raices-001 CO-MAT-11-raices-001-v2 es igual a: Grado 11° Nivel 3 Leer ->" [ref=e252] [cursor=pointer]':
+              - generic [ref=e254]:
+                - generic [ref=e255]:
+                  - generic [ref=e256]: "MATEMÁTICAS :: CO-MAT-11-raices-001"
+                  - generic [ref=e257]: CO-MAT-11-raices-001-v2
+                - generic [ref=e259]:
+                  - generic [ref=e260]:
+                    - math [ref=e262]:
+                      - generic [ref=e266]: "25"
+                    - generic [ref=e272]:
+                      - generic [ref=e273]: "25"
+                      - img [ref=e275]
+                  - text: "es igual a:"
+                - generic [ref=e279]:
+                  - generic [ref=e280]:
+                    - generic [ref=e281]: Grado 11°
+                    - generic [ref=e282]: Nivel 3
+                  - generic [ref=e283]:
+                    - generic [ref=e284]: Leer
+                    - generic [ref=e285]: "->"
+            - 'button "INGLÉS :: CO-ING-11-part3-003 CO-ING-11-part3-003-v7 Complete the conversation: A: \"My compliments to the chef. The meal was exquisite.\" B: ______ Grado 11° Nivel 3 Leer ->" [ref=e286] [cursor=pointer]':
+              - generic [ref=e288]:
+                - generic [ref=e289]:
+                  - generic [ref=e290]: "INGLÉS :: CO-ING-11-part3-003"
+                  - generic [ref=e291]: CO-ING-11-part3-003-v7
+                - generic [ref=e293]:
+                  - text: "Complete the conversation:"
+                  - strong [ref=e294]: "A:"
+                  - text: "\"My compliments to the chef. The meal was exquisite.\""
+                  - strong [ref=e295]: "B:"
+                  - text: ______
+                - generic [ref=e296]:
+                  - generic [ref=e297]:
+                    - generic [ref=e298]: Grado 11°
+                    - generic [ref=e299]: Nivel 3
+                  - generic [ref=e300]:
+                    - generic [ref=e301]: Leer
+                    - generic [ref=e302]: "->"
+            - 'button "SOCIALES Y CIUDADANAS :: SOC01647-01 SOC01647-01-v5 [Pregunta pendiente de recuperación por error de generación] Grado 11° Nivel 3 Leer ->" [ref=e303] [cursor=pointer]':
+              - generic [ref=e305]:
+                - generic [ref=e306]:
+                  - generic [ref=e307]: "SOCIALES Y CIUDADANAS :: SOC01647-01"
+                  - generic [ref=e308]: SOC01647-01-v5
+                - generic [ref=e310]: "[Pregunta pendiente de recuperación por error de generación]"
+                - generic [ref=e311]:
+                  - generic [ref=e312]:
+                    - generic [ref=e313]: Grado 11°
+                    - generic [ref=e314]: Nivel 3
+                  - generic [ref=e315]:
+                    - generic [ref=e316]: Leer
+                    - generic [ref=e317]: "->"
+            - 'button "CIENCIAS NATURALES :: CO-FIS-11-mecanica-001 CO-FIS-11-mecanica-001-v3 Si un objeto se mueve con velocidad constante, ¿cuánto vale su aceleración? Grado 11° Nivel 3 Leer ->" [ref=e318] [cursor=pointer]':
+              - generic [ref=e320]:
+                - generic [ref=e321]:
+                  - generic [ref=e322]: "CIENCIAS NATURALES :: CO-FIS-11-mecanica-001"
+                  - generic [ref=e323]: CO-FIS-11-mecanica-001-v3
+                - generic [ref=e325]: Si un objeto se mueve con velocidad constante, ¿cuánto vale su aceleración?
+                - generic [ref=e326]:
+                  - generic [ref=e327]:
+                    - generic [ref=e328]: Grado 11°
+                    - generic [ref=e329]: Nivel 3
+                  - generic [ref=e330]:
+                    - generic [ref=e331]: Leer
+                    - generic [ref=e332]: "->"
+            - 'button "MATEMÁTICAS :: CO-MAT-11-operaciones-basicas-003 CO-MAT-11-operaciones-basicas-003-v7 [Pregunta pendiente de recuperación por error de generación] Grado 11° Nivel 3 Leer ->" [ref=e333] [cursor=pointer]':
+              - generic [ref=e335]:
+                - generic [ref=e336]:
+                  - generic [ref=e337]: "MATEMÁTICAS :: CO-MAT-11-operaciones-basicas-003"
+                  - generic [ref=e338]: CO-MAT-11-operaciones-basicas-003-v7
+                - generic [ref=e340]: "[Pregunta pendiente de recuperación por error de generación]"
+                - generic [ref=e341]:
+                  - generic [ref=e342]:
+                    - generic [ref=e343]: Grado 11°
+                    - generic [ref=e344]: Nivel 3
+                  - generic [ref=e345]:
+                    - generic [ref=e346]: Leer
+                    - generic [ref=e347]: "->"
+            - 'button "INGLÉS :: CO-ING-11-part5-002 CO-ING-11-part5-002-v6 What can be inferred about the region''s history before 2009? Grado 11° Nivel 3 Leer ->" [ref=e348] [cursor=pointer]':
+              - generic [ref=e350]:
+                - generic [ref=e351]:
+                  - generic [ref=e352]: "INGLÉS :: CO-ING-11-part5-002"
+                  - generic [ref=e353]: CO-ING-11-part5-002-v6
+                - generic [ref=e355]: What can be inferred about the region's history before 2009?
+                - generic [ref=e356]:
+                  - generic [ref=e357]:
+                    - generic [ref=e358]: Grado 11°
+                    - generic [ref=e359]: Nivel 3
+                  - generic [ref=e360]:
+                    - generic [ref=e361]: Leer
+                    - generic [ref=e362]: "->"
+            - generic [ref=e363]:
+              - insertion
+            - 'button "MATEMÁTICAS :: CO-MAT-11-raices-001 CO-MAT-11-raices-001-v4 El valor de es: Grado 11° Nivel 3 Leer ->" [ref=e364] [cursor=pointer]':
+              - generic [ref=e366]:
+                - generic [ref=e367]:
+                  - generic [ref=e368]: "MATEMÁTICAS :: CO-MAT-11-raices-001"
+                  - generic [ref=e369]: CO-MAT-11-raices-001-v4
+                - generic [ref=e371]:
+                  - text: El valor de
+                  - generic [ref=e372]:
+                    - math [ref=e374]:
+                      - generic [ref=e376]:
+                        - generic [ref=e378]: "64"
+                        - generic [ref=e379]: +
+                        - generic [ref=e381]: "4"
+                    - generic [ref=e382]:
+                      - generic [ref=e383]:
+                        - generic [ref=e387]:
+                          - generic [ref=e388]: "64"
+                          - img [ref=e390]
+                        - text: +
+                      - generic [ref=e398]:
+                        - generic [ref=e399]: "4"
+                        - img [ref=e401]
+                  - text: "es:"
+                - generic [ref=e405]:
+                  - generic [ref=e406]:
+                    - generic [ref=e407]: Grado 11°
+                    - generic [ref=e408]: Nivel 3
+                  - generic [ref=e409]:
+                    - generic [ref=e410]: Leer
+                    - generic [ref=e411]: "->"
+            - 'button "MATEMÁTICAS :: CO-MAT-11-derivadas-006 CO-MAT-11-derivadas-006-v3 [Pregunta pendiente de recuperación por error de generación] Grado 11° Nivel 3 Leer ->" [ref=e412] [cursor=pointer]':
+              - generic [ref=e414]:
+                - generic [ref=e415]:
+                  - generic [ref=e416]: "MATEMÁTICAS :: CO-MAT-11-derivadas-006"
+                  - generic [ref=e417]: CO-MAT-11-derivadas-006-v3
+                - generic [ref=e419]: "[Pregunta pendiente de recuperación por error de generación]"
+                - generic [ref=e420]:
+                  - generic [ref=e421]:
+                    - generic [ref=e422]: Grado 11°
+                    - generic [ref=e423]: Nivel 3
+                  - generic [ref=e424]:
+                    - generic [ref=e425]: Leer
+                    - generic [ref=e426]: "->"
+            - 'button "SOCIALES Y CIUDADANAS :: CO-SOC-11-historia-universal-001-bundle CO-SOC-11-historia-universal-001-bundle-v6 [Pregunta pendiente de recuperación por error de generación] Grado 11° Nivel 3 Leer ->" [ref=e427] [cursor=pointer]':
+              - generic [ref=e429]:
+                - generic [ref=e430]:
+                  - generic [ref=e431]: "SOCIALES Y CIUDADANAS :: CO-SOC-11-historia-universal-001-bundle"
+                  - generic [ref=e432]: CO-SOC-11-historia-universal-001-bundle-v6
+                - generic [ref=e434]: "[Pregunta pendiente de recuperación por error de generación]"
+                - generic [ref=e435]:
+                  - generic [ref=e436]:
+                    - generic [ref=e437]: Grado 11°
+                    - generic [ref=e438]: Nivel 3
+                  - generic [ref=e439]:
+                    - generic [ref=e440]: Leer
+                    - generic [ref=e441]: "->"
+            - 'button "INGLÉS :: CO-ING-11-part1-signs-001 CO-ING-11-part1-signs-001-v3 ¿Dónde puede ver el siguiente aviso? > SALE! 50% OFF ALL SHOES Grado 11° Nivel 3 Leer ->" [ref=e442] [cursor=pointer]':
+              - generic [ref=e444]:
+                - generic [ref=e445]:
+                  - generic [ref=e446]: "INGLÉS :: CO-ING-11-part1-signs-001"
+                  - generic [ref=e447]: CO-ING-11-part1-signs-001-v3
+                - generic [ref=e449]:
+                  - strong [ref=e450]: ¿Dónde puede ver el siguiente aviso?
+                  - text: ">"
+                  - strong [ref=e451]: SALE! 50% OFF ALL SHOES
+                - generic [ref=e452]:
+                  - generic [ref=e453]:
+                    - generic [ref=e454]: Grado 11°
+                    - generic [ref=e455]: Nivel 3
+                  - generic [ref=e456]:
+                    - generic [ref=e457]: Leer
+                    - generic [ref=e458]: "->"
+            - 'button "MATEMÁTICAS :: CO-MAT-11-derivadas-005 CO-MAT-11-derivadas-005-v1 [Pregunta pendiente de recuperación por error de generación] Grado 11° Nivel 3 Leer ->" [ref=e459] [cursor=pointer]':
+              - generic [ref=e461]:
+                - generic [ref=e462]:
+                  - generic [ref=e463]: "MATEMÁTICAS :: CO-MAT-11-derivadas-005"
+                  - generic [ref=e464]: CO-MAT-11-derivadas-005-v1
+                - generic [ref=e466]: "[Pregunta pendiente de recuperación por error de generación]"
+                - generic [ref=e467]:
+                  - generic [ref=e468]:
+                    - generic [ref=e469]: Grado 11°
+                    - generic [ref=e470]: Nivel 3
+                  - generic [ref=e471]:
+                    - generic [ref=e472]: Leer
+                    - generic [ref=e473]: "->"
+            - 'button "MATEMÁTICAS :: CO-MAT-11-poligonos-003 CO-MAT-11-poligonos-003-v3 [Pregunta pendiente de recuperación por error de generación] Grado 11° Nivel 3 Leer ->" [ref=e474] [cursor=pointer]':
+              - generic [ref=e476]:
+                - generic [ref=e477]:
+                  - generic [ref=e478]: "MATEMÁTICAS :: CO-MAT-11-poligonos-003"
+                  - generic [ref=e479]: CO-MAT-11-poligonos-003-v3
+                - generic [ref=e481]: "[Pregunta pendiente de recuperación por error de generación]"
+                - generic [ref=e482]:
+                  - generic [ref=e483]:
+                    - generic [ref=e484]: Grado 11°
+                    - generic [ref=e485]: Nivel 3
+                  - generic [ref=e486]:
+                    - generic [ref=e487]: Leer
+                    - generic [ref=e488]: "->"
+            - generic [ref=e489]:
+              - insertion
+            - 'button "LECTURA CRÍTICA :: CO-LEC-11-textos-continuos-004 CO-LEC-11-textos-continuos-004-v6 [Pregunta pendiente de recuperación por error de generación] Grado 11° Nivel 3 Leer ->" [ref=e490] [cursor=pointer]':
+              - generic [ref=e492]:
+                - generic [ref=e493]:
+                  - generic [ref=e494]: "LECTURA CRÍTICA :: CO-LEC-11-textos-continuos-004"
+                  - generic [ref=e495]: CO-LEC-11-textos-continuos-004-v6
+                - generic [ref=e497]: "[Pregunta pendiente de recuperación por error de generación]"
+                - generic [ref=e498]:
+                  - generic [ref=e499]:
+                    - generic [ref=e500]: Grado 11°
+                    - generic [ref=e501]: Nivel 3
+                  - generic [ref=e502]:
+                    - generic [ref=e503]: Leer
+                    - generic [ref=e504]: "->"
+            - 'button "INGLÉS :: CO-ING-11-part1-005 CO-ING-11-part1-005-v7 Choose the correct option to complete the sentence. \"Unless we ______ action now, climate change will cause irreversible damage.\" Grado 11° Nivel 3 Leer ->" [ref=e505] [cursor=pointer]':
+              - generic [ref=e507]:
+                - generic [ref=e508]:
+                  - generic [ref=e509]: "INGLÉS :: CO-ING-11-part1-005"
+                  - generic [ref=e510]: CO-ING-11-part1-005-v7
+                - generic [ref=e512]:
+                  - text: Choose the correct option to complete the sentence.
+                  - text: "\"Unless we ______ action now, climate change will cause irreversible damage.\""
+                - generic [ref=e513]:
+                  - generic [ref=e514]:
+                    - generic [ref=e515]: Grado 11°
+                    - generic [ref=e516]: Nivel 3
+                  - generic [ref=e517]:
+                    - generic [ref=e518]: Leer
+                    - generic [ref=e519]: "->"
+          - button "Cargar más preguntas" [ref=e521] [cursor=pointer]
+      - button "💾 Sin caché" [disabled] [ref=e523]:
+        - generic [ref=e524]: 💾
+        - generic [ref=e525]: Sin caché
+  - dialog "🍪 Usamos cookies" [ref=e527]:
+    - generic [ref=e529]:
+      - generic [ref=e530]:
+        - heading "🍪 Usamos cookies" [level=2] [ref=e531]
+        - paragraph [ref=e532]:
+          - text: Usamos cookies y tecnologías similares para personalizar contenido y anuncios, ofrecer funciones de redes sociales y analizar el tráfico. Al hacer clic en "Aceptar", aceptas el uso de cookies según nuestra
+          - link "Política de Privacidad" [ref=e533] [cursor=pointer]:
+            - /url: /privacy
+          - text: .
+      - generic [ref=e534]:
+        - button "Rechazar cookies" [ref=e535] [cursor=pointer]: Rechazar
+        - button "Aceptar cookies" [ref=e536] [cursor=pointer]: Aceptar
+  - generic [ref=e539]:
+    - button "Menu" [ref=e540]:
+      - img [ref=e542]
+      - generic: Menu
+    - button "Inspect" [ref=e546]:
+      - img [ref=e548]
+      - generic: Inspect
+    - button "Audit" [ref=e550]:
+      - generic [ref=e551]:
+        - img [ref=e552]
+        - img [ref=e555]
+      - generic: Audit
+    - button "Settings" [ref=e558]:
+      - img [ref=e560]
+      - generic: Settings
+```

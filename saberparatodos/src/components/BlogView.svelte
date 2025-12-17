@@ -13,8 +13,54 @@
   let selectedDifficulty: number | null = null;
   let selectedSubject: string | null = null;
 
-  // Extract unique subjects
-  $: subjects = [...new Set(questions.map(q => q.category.split('::')[0].trim()))].sort();
+  // Normalize subject for comparison (removes accents, standardizes separators)
+  function normalizeSubject(subject: string): string {
+    if (!subject) return '';
+    return subject
+      .toUpperCase()
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '') // Remove accents
+      .replace(/[-_]/g, ' ')           // Replace hyphens/underscores with space
+      .trim();
+  }
+
+  // Map API names to display names
+  const subjectDisplayMap: Record<string, string> = {
+    'MATEMATICAS': 'MATEMÁTICAS',
+    'LECTURA CRITICA': 'LECTURA CRÍTICA',
+    'CIENCIAS NATURALES': 'CIENCIAS NATURALES',
+    'SOCIALES Y CIUDADANAS': 'SOCIALES Y CIUDADANAS',
+    'INGLES': 'INGLÉS',
+    'INFORMATICA': 'INFORMÁTICA',
+    'LENGUAJE': 'LENGUAJE',
+  };
+
+  function getDisplayName(subject: string): string {
+    const normalized = normalizeSubject(subject);
+    return subjectDisplayMap[normalized] || subject;
+  }
+
+  // Extract unique subjects with display names
+  $: rawSubjects = [...new Set(questions.map(q => q.category.split('::')[0].trim()))];
+  $: subjects = [...new Map(rawSubjects.map(s => [normalizeSubject(s), s])).values()].sort();
+
+  // Debug: log available subjects when questions change
+  $: if (questions.length > 0) {
+    console.log(`📋 BlogView: ${questions.length} questions loaded`);
+    console.log(`📋 BlogView: Unique subjects: ${subjects.join(', ')}`);
+    const gradeDistribution = questions.reduce((acc, q) => {
+      acc[q.grade] = (acc[q.grade] || 0) + 1;
+      return acc;
+    }, {} as Record<number, number>);
+    console.log(`📋 BlogView: Grade distribution:`, gradeDistribution);
+  }
+
+  // Check if subjects match (handles naming variations)
+  function subjectsMatch(category: string, selected: string | null): boolean {
+    if (!selected) return true;
+    const categorySubject = category.split('::')[0].trim();
+    return normalizeSubject(categorySubject) === normalizeSubject(selected);
+  }
 
   $: filteredQuestions = questions.filter(q => {
     const matchesSearch =
@@ -24,7 +70,7 @@
 
     const matchesGrade = selectedGrade ? q.grade === selectedGrade : true;
     const matchesDifficulty = selectedDifficulty ? q.difficulty === selectedDifficulty : true;
-    const matchesSubject = selectedSubject ? q.category.startsWith(selectedSubject) : true;
+    const matchesSubject = subjectsMatch(q.category, selectedSubject);
 
     return matchesSearch && matchesGrade && matchesDifficulty && matchesSubject;
   });
@@ -106,7 +152,7 @@
           >
             <option value={null}>Todas las asignaturas</option>
             {#each subjects as subject}
-              <option value={subject}>{subject}</option>
+              <option value={subject}>{getDisplayName(subject)}</option>
             {/each}
           </select>
           <div class="absolute inset-y-0 right-0 flex items-center px-4 pointer-events-none text-white/30">

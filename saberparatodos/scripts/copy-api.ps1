@@ -25,11 +25,11 @@ if (Test-Path $ApiSource) {
         New-Item -ItemType Directory -Path $PublicApi -Force | Out-Null
     }
     Copy-Item -Path "$ApiSource\*" -Destination $PublicApi -Recurse -Force
-    
+
     # Contar archivos copiados
     $jsonFiles = (Get-ChildItem -Path $PublicApi -Recurse -Filter "*.json").Count
     Write-Host "✅ Copiados $jsonFiles archivos JSON a public/" -ForegroundColor Green
-    
+
     # Copiar a dist/ también si existe (para build)
     if (Test-Path (Split-Path $DistApi -Parent)) {
         if (!(Test-Path $DistApi)) {

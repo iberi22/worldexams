@@ -25,12 +25,12 @@ async function getAuthHeaders(): Promise<HeadersInit> {
   const headers: HeadersInit = {
     'Content-Type': 'application/json'
   };
-  
+
   const token = await getAuthToken();
   if (token) {
     headers['Authorization'] = `Bearer ${token}`;
   }
-  
+
   return headers;
 }
 
@@ -119,6 +119,29 @@ function cleanExplanation(explanation: string | undefined): string | undefined {
 }
 
 /**
+ * Format subject name for display
+ * Converts folder names (lectura_critica, ciencias-naturales) to display format
+ */
+function formatSubjectName(subject: string): string {
+  const subjectDisplayMap: Record<string, string> = {
+    'matematicas': 'MATEMÁTICAS',
+    'lectura_critica': 'LECTURA CRÍTICA',
+    'lectura-critica': 'LECTURA CRÍTICA',
+    'ciencias_naturales': 'CIENCIAS NATURALES',
+    'ciencias-naturales': 'CIENCIAS NATURALES',
+    'sociales_y_ciudadanas': 'SOCIALES Y CIUDADANAS',
+    'sociales-ciudadanas': 'SOCIALES Y CIUDADANAS',
+    'sociales_ciudadanas': 'SOCIALES Y CIUDADANAS',
+    'ingles': 'INGLÉS',
+    'informatica': 'INFORMÁTICA',
+    'lenguaje': 'LENGUAJE',
+  };
+
+  const normalized = subject.toLowerCase();
+  return subjectDisplayMap[normalized] || subject.toUpperCase().replace(/[-_]/g, ' ');
+}
+
+/**
  * Transform API question format to App question format
  */
 function transformQuestion(apiQuestion: APIQuestion, grade: number, subject: string): AppQuestion {
@@ -130,7 +153,7 @@ function transformQuestion(apiQuestion: APIQuestion, grade: number, subject: str
       text: opt.text
     })),
     correctOptionId: apiQuestion.correct_answer,
-    category: `${subject.toUpperCase()} :: ${apiQuestion.bundle_id}`,
+    category: `${formatSubjectName(subject)} :: ${apiQuestion.bundle_id}`,
     explanation: cleanExplanation(apiQuestion.explanation),
     grade: grade,
     difficulty: mapDifficulty(apiQuestion.difficulty)
@@ -152,16 +175,23 @@ export async function getAvailableGrades(): Promise<number[]> {
 
 /**
  * Get available subjects for a grade
+ * Maps to actual API folder names that contain questions
+ * IMPORTANT: These names MUST match EXACTLY with folders in public/api/co/icfes/{grade}/
  */
 export async function getAvailableSubjects(grade: number): Promise<string[]> {
-  // Return hardcoded subjects that match the generated API structure
-  // Note: API folders use underscores (e.g., lectura_critica), so we map them here
+  // Return subjects that match the ACTUAL API folder structure
+  // Verified against: public/api/co/icfes/{grade}/ directories
   const subjectMap: Record<number, string[]> = {
-    3: ['matematicas', 'lenguaje', 'ingles', 'ciencias_naturales', 'sociales_ciudadanas'],
-    5: ['matematicas', 'lenguaje', 'ciencias_naturales', 'sociales_ciudadanas'],
-    7: ['matematicas', 'lenguaje', 'ingles', 'ciencias_naturales', 'sociales_ciudadanas'],
-    9: ['matematicas', 'lenguaje', 'ciencias_naturales', 'sociales_ciudadanas', 'ingles'],
-    11: ['matematicas', 'lectura_critica', 'ciencias_naturales', 'sociales_y_ciudadanas', 'ingles', 'informatica']
+    // Grade 3: ciencias-naturales, ingles, matematicas, sociales-ciudadanas, sociales_y_ciudadanas
+    3: ['matematicas', 'ingles', 'ciencias-naturales', 'sociales-ciudadanas', 'sociales_y_ciudadanas'],
+    // Grade 5: ciencias_naturales, lectura_critica, matematicas, sociales-ciudadanas, sociales_y_ciudadanas
+    5: ['matematicas', 'lectura_critica', 'ciencias_naturales', 'sociales-ciudadanas', 'sociales_y_ciudadanas'],
+    // Grade 7: ciencias-naturales, ciencias_naturales, ingles, lectura_critica, matematicas, sociales-ciudadanas
+    7: ['matematicas', 'lectura_critica', 'ingles', 'ciencias-naturales', 'ciencias_naturales', 'sociales-ciudadanas'],
+    // Grade 9: ciencias-naturales, ciencias_naturales, ingles, lectura_critica, matematicas, sociales-ciudadanas, sociales_y_ciudadanas
+    9: ['matematicas', 'lectura_critica', 'ingles', 'ciencias-naturales', 'ciencias_naturales', 'sociales-ciudadanas', 'sociales_y_ciudadanas'],
+    // Grade 11: ciencias_naturales, ingles, lectura-critica, lectura_critica, matematicas, sociales_y_ciudadanas
+    11: ['matematicas', 'lectura_critica', 'lectura-critica', 'ciencias_naturales', 'sociales_y_ciudadanas', 'ingles']
   };
 
   return subjectMap[grade] || subjectMap[11];
@@ -186,9 +216,9 @@ export async function fetchQuestions(
 
   try {
     console.log(`🌐 Fetching questions from: ${url}`);
-    
+
     const headers = await getAuthHeaders();
-    const response = await fetch(url, { 
+    const response = await fetch(url, {
       cache: 'no-cache',
       headers
     });
@@ -249,6 +279,8 @@ export async function fetchQuestions(
  * 🔒 GUEST LIMIT: Max 100 questions for unauthenticated users
  * 🔓 AUTHENTICATED: Max 200 questions
  * 📱 PWA + AUTH: Max 420 questions (7 days of exams)
+ *
+ * Now loads questions BALANCED across all subjects to ensure diversity
  */
 export async function fetchAllQuestionsForGrade(
   grade: number,
@@ -256,56 +288,101 @@ export async function fetchAllQuestionsForGrade(
   maxQuestions: number = 100
 ): Promise<AppQuestion[]> {
   const subjects = await getAvailableSubjects(grade);
-  const allQuestions: AppQuestion[] = [];
+
+  // De-duplicate subjects that map to same display name
+  const uniqueSubjects = [...new Set(subjects.map(s => s.toLowerCase().replace(/-/g, '_')))];
+  const subjectList = uniqueSubjects.map(s => {
+    // Find original subject name that matches
+    return subjects.find(orig => orig.toLowerCase().replace(/-/g, '_') === s) || s;
+  });
+
+  console.log(`📚 Loading questions for ${subjectList.length} unique subjects: ${subjectList.join(', ')}`);
 
   // 🔒 Security: Limit guest users to prevent scraping
   const GUEST_LIMIT = isGuest ? maxQuestions : Infinity;
 
-  for (const subject of subjects) {
-    // Stop if we've reached the guest limit
-    if (allQuestions.length >= GUEST_LIMIT) {
-      console.log(`🔒 Guest limit reached: ${GUEST_LIMIT} questions`);
-      break;
-    }
+  // Calculate balanced distribution: divide limit by number of subjects
+  const questionsPerSubject = Math.floor(GUEST_LIMIT / subjectList.length);
+  console.log(`📊 Balanced loading: ~${questionsPerSubject} questions per subject (total limit: ${GUEST_LIMIT})`);
 
+  // Collect questions from each subject (balanced)
+  const questionsBySubject: Map<string, AppQuestion[]> = new Map();
+
+  for (const subject of subjectList) {
     try {
       const indexUrl = `${API_BASE_URL}/${COUNTRY_CODE}/${EXAM_TYPE}/${grade}/${subject}/index.json?t=${Date.now()}`;
       console.log(`🔍 Fetching index from: ${indexUrl}`);
-      
+
       const headers = await getAuthHeaders();
-      const indexResponse = await fetch(indexUrl, { 
+      const indexResponse = await fetch(indexUrl, {
         cache: 'no-cache',
         headers
       });
 
+      let subjectQuestions: AppQuestion[] = [];
+
       if (!indexResponse.ok) {
         console.warn(`No index found for ${subject}, trying page 1 only`);
-        const questions = await fetchQuestions(grade, subject, 1);
-        const remainingSlots = GUEST_LIMIT - allQuestions.length;
-        allQuestions.push(...questions.slice(0, remainingSlots));
-        continue;
+        subjectQuestions = await fetchQuestions(grade, subject, 1);
+      } else {
+        const index: APISubjectIndex = await indexResponse.json();
+
+        // Fetch all pages for this subject
+        for (let page = 1; page <= (index?.total_pages || 1); page++) {
+          const pageQuestions = await fetchQuestions(grade, subject, page);
+          subjectQuestions.push(...pageQuestions);
+        }
       }
 
-      const index: APISubjectIndex = await indexResponse.json();
-
-      // Fetch pages until we hit the limit
-      for (let page = 1; page <= (index?.total_pages || 1); page++) {
-        if (allQuestions.length >= GUEST_LIMIT) break;
-
-        const questions = await fetchQuestions(grade, subject, page);
-        const remainingSlots = GUEST_LIMIT - allQuestions.length;
-        allQuestions.push(...questions.slice(0, remainingSlots));
+      if (subjectQuestions.length > 0) {
+        // Shuffle this subject's questions
+        const shuffled = subjectQuestions.sort(() => Math.random() - 0.5);
+        // Take balanced amount (with some overflow allowed)
+        const toTake = Math.min(shuffled.length, questionsPerSubject + 10);
+        questionsBySubject.set(subject, shuffled.slice(0, toTake));
+        console.log(`✅ ${subject}: loaded ${questionsBySubject.get(subject)?.length} questions (from ${subjectQuestions.length} total)`);
       }
     } catch (error) {
       console.error(`Error fetching ${subject}:`, error);
     }
   }
 
-  // Shuffle to randomize which 100 questions guests get
+  // Combine all subjects with balanced distribution
+  const allQuestions: AppQuestion[] = [];
+  let added = true;
+  let round = 0;
+
+  // Round-robin: take questions from each subject one batch at a time
+  while (added && allQuestions.length < GUEST_LIMIT) {
+    added = false;
+    const batchSize = 5; // Take 5 questions per subject per round
+
+    for (const [subject, questions] of questionsBySubject) {
+      const startIdx = round * batchSize;
+      const endIdx = startIdx + batchSize;
+      const batch = questions.slice(startIdx, endIdx);
+
+      if (batch.length > 0) {
+        allQuestions.push(...batch);
+        added = true;
+      }
+    }
+    round++;
+  }
+
+  // Final shuffle and limit
   const shuffled = allQuestions.sort(() => Math.random() - 0.5);
   const finalSet = shuffled.slice(0, GUEST_LIMIT);
 
-  console.log(`📚 Total questions loaded for grade ${grade}: ${finalSet.length} (Guest: ${isGuest}, Limit: ${GUEST_LIMIT})`);
+  // Log distribution
+  const distribution = new Map<string, number>();
+  for (const q of finalSet) {
+    const subj = q.category.split(' :: ')[0];
+    distribution.set(subj, (distribution.get(subj) || 0) + 1);
+  }
+  console.log(`📚 Final distribution for grade ${grade}:`, Object.fromEntries(distribution));
+  console.log(`📚 Total questions: ${finalSet.length} (Guest: ${isGuest}, Limit: ${GUEST_LIMIT})`);
+
   return finalSet;
 }
 

@@ -158,7 +158,7 @@ Para endpoints dinámicos (ej: `/api/generate-exam`, `/api/submit-score`), se re
 ### Ver uso de API keys
 
 ```sql
-SELECT 
+SELECT
   name,
   quota_used,
   quota_limit,
