@@ -17,6 +17,20 @@ export interface Country {
 }
 
 export const countries: Country[] = [
+  // LIVE COUNTRIES
+  {
+    code: 'CO',
+    name: 'Colombia',
+    exam: 'Saber 11 / ICFES',
+    flag: '🇨🇴',
+    flagStripe: 'linear-gradient(to right, #FCD116 50%, #003893 50%, #003893 75%, #CE1126 75%)',
+    status: 'live',
+    region: 'latam',
+    folder: 'colombia',
+    questionCount: 1813,
+    externalUrl: 'https://saberparatodos.pages.dev/',
+  },
+
   // TOP 10 Countries by Population
   {
     code: 'CN',
@@ -42,7 +56,7 @@ export const countries: Country[] = [
     exam: 'SAT / ACT',
     flag: '🇺🇸',
     flagStripe: 'linear-gradient(to right, #3C3B6E 33%, #B22234 33%, #B22234 66%, #FFFFFF 66%)',
-    status: 'live',
+    status: 'soon',
     region: 'top10',
     folder: 'usa',
   },
@@ -61,7 +75,7 @@ export const countries: Country[] = [
     exam: 'ENEM',
     flag: '🇧🇷',
     flagStripe: 'linear-gradient(to right, #009739 33%, #FEDD00 33%, #FEDD00 66%, #002776 66%)',
-    status: 'live',
+    status: 'soon',
     region: 'top10',
     folder: 'brasil',
   },
@@ -98,7 +112,7 @@ export const countries: Country[] = [
     exam: 'EXANI / CENEVAL',
     flag: '🇲🇽',
     flagStripe: 'linear-gradient(to right, #006847 33%, #FFFFFF 33%, #FFFFFF 66%, #CE1126 66%)',
-    status: 'live',
+    status: 'soon',
     region: 'top10',
     folder: 'mexico',
   },
@@ -113,17 +127,6 @@ export const countries: Country[] = [
   },
 
   // LATIN AMERICA
-  {
-    code: 'CO',
-    name: 'Colombia',
-    exam: 'Saber 11 / ICFES',
-    flag: '🇨🇴',
-    flagStripe: 'linear-gradient(to right, #FCD116 50%, #003893 50%, #003893 75%, #CE1126 75%)',
-    status: 'live',
-    region: 'latam',
-    folder: 'colombia',
-    externalUrl: 'https://saberparatodos.pages.dev/',
-  },
   {
     code: 'AR',
     name: 'Argentina',

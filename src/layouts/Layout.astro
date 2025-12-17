@@ -14,8 +14,8 @@ const { title, description = "Practice exams for every nation" } = Astro.props;
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content={description} />
-  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌍</text></svg>" />
-  <link rel="canonical" href={new URL(Astro.url.pathname, "https://worldexams.pages.dev").href} />
+  <link rel="icon" type="image/png" href="/logo200.png" />
+  <link rel="canonical" href={new URL(Astro.url.pathname, "https://world-exams.github.io").href} />
   <title>{title} | World Exams</title>
 
   <!-- Open Graph / Facebook -->
@@ -43,8 +43,7 @@ const { title, description = "Practice exams for every nation" } = Astro.props;
     <div class="text-2xl font-bold mb-4">🌍 World Exams</div>
     <div class="flex gap-8 justify-center mb-8 flex-wrap">
       <a href="/about" class="text-text-secondary hover:text-accent-cyan transition-colors">About</a>
-      <a href="/contribute" class="text-text-secondary hover:text-accent-cyan transition-colors">Contribute</a>
-      <a href="https://github.com/worldexams" target="_blank" class="text-text-secondary hover:text-accent-cyan transition-colors">GitHub</a>
+      <a href="https://github.com/world-exams" target="_blank" class="text-text-secondary hover:text-accent-cyan transition-colors">GitHub</a>
       <a href="/privacy" class="text-text-secondary hover:text-accent-cyan transition-colors">Privacy</a>
     </div>
     <p class="text-text-secondary text-sm">© 2025 World Exams Organization. Made with ❤️ for students worldwide.</p>

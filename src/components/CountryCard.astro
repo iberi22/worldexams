@@ -49,11 +49,16 @@ const isExternal = !!country.externalUrl;
     <span class={badge.class}>{badge.text}</span>
   </div>
 
-  {country.questionCount && (
-    <div class="mt-2 text-xs text-text-secondary">
-      📝 {country.questionCount} preguntas
+  {country.status === 'live' && country.questionCount ? (
+    <div class="mt-3 flex items-center gap-2 text-sm">
+      <span class="text-accent-cyan font-semibold">{country.questionCount.toLocaleString()}</span>
+      <span class="text-text-secondary">questions available</span>
     </div>
-  )}
+  ) : country.status === 'soon' ? (
+    <div class="mt-3 text-sm text-text-secondary/70 italic">
+      Coming soon...
+    </div>
+  ) : null}
 </a>
 
 <style>
