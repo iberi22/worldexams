@@ -3,11 +3,19 @@
  * This service fetches questions from the external API when running as a standalone app
  */
 
-// API Configuration - Always use production API since local API routes were removed
-// API Configuration - Locally we use /api relative path, usually defined in .env
-const API_BASE_URL = import.meta.env.PUBLIC_API_BASE_URL || '/api';
-const COUNTRY_CODE = 'CO'; // Changed to uppercase to match filesystem
+// API Configuration
+// In development: use local files (/api)
+// In production: use Cloudflare API (https://worldexams-api.pages.dev/v1)
+const isDevelopment = import.meta.env.DEV;
+const API_BASE_URL = isDevelopment 
+  ? '/api'  // Local files served from public/api/
+  : import.meta.env.PUBLIC_API_BASE_URL || 'https://worldexams-api.pages.dev/v1';
+const API_KEY = import.meta.env.PUBLIC_API_KEY || ''; // Only needed for production
+const COUNTRY_CODE = 'co'; // Lowercase to match API structure (co, not CO)
 const EXAM_TYPE = 'icfes'; // Correct exam type
+
+console.log(`🔧 API Configuration: ${isDevelopment ? 'LOCAL' : 'PRODUCTION'} mode`);
+console.log(`📡 API Base URL: ${API_BASE_URL}`);
 
 export interface APIQuestion {
   id: string;
@@ -151,14 +159,27 @@ export async function fetchQuestions(
 
   if (questionCache.has(cacheKey)) {
     console.log(`📦 Using cached questions for ${cacheKey}`);
-    return questionCache.get(cacheKey)!;
-  }
-
-  const url = `${API_BASE_URL}/${COUNTRY_CODE}/${EXAM_TYPE}/${grade}/${subject.toLowerCase()}/${page}.json?t=${Date.now()}`;
-
-  try {
+    return questionCache.get(cacheKey)!; (only for production API)
+    const headers: HeadersInit = {
+      'Content-Type': 'application/json'
+    };
+    if (API_KEY && !isDevelopment) {
+      headers['x-api-key'] = API_KEY;
+      console.log('🔑 Using API key for authentication')
     console.log(`🌐 Fetching questions from: ${url}`);
-    const response = await fetch(url, { cache: 'no-cache' });
+    
+    // Add API key to headers if available
+    const headers: HeadersInit = {
+      'Content-Type': 'application/json'
+    };
+    if (API_KEY) {
+      headers['x-api-key'] = API_KEY;
+    }
+    
+    const response = await fetch(url, { 
+      cache: 'no-cache',
+      headers
+    });
 
     if (!response.ok) {
       console.warn(`⚠️ Failed to fetch questions: ${response.status} for ${url}`);
@@ -234,12 +255,23 @@ export async function fetchAllQuestionsForGrade(
       console.log(`🔒 Guest limit reached: ${GUEST_LIMIT} questions`);
       break;
     }
-
+ && !isDevelopment
     try {
       // First get the index to know how many pages
       const indexUrl = `${API_BASE_URL}/${COUNTRY_CODE}/${EXAM_TYPE}/${grade}/${subject}/index.json?t=${Date.now()}`;
       console.log(`🔍 Fetching index from: ${indexUrl}`);
-      const indexResponse = await fetch(indexUrl, { cache: 'no-cache' });
+      
+      const headers: HeadersInit = {
+        'Content-Type': 'application/json'
+      };
+      if (API_KEY) {
+        headers['x-api-key'] = API_KEY;
+      }
+      
+      const indexResponse = await fetch(indexUrl, { 
+        cache: 'no-cache',
+        headers
+      });
 
       if (!indexResponse.ok) {
         console.warn(`No index found for ${subject}, trying page 1 only`);
