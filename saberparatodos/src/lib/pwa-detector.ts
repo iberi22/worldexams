@@ -56,6 +56,7 @@ export function getDisplayMode(): PWAStatus['displayMode'] {
  * Check if PWA is installable (beforeinstallprompt event available)
  */
 export function isPWAInstallable(): boolean {
+  if (typeof window === 'undefined') return false;
   return 'BeforeInstallPromptEvent' in window;
 }
 
