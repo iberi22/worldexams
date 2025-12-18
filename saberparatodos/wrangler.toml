@@ -13,8 +13,8 @@ NPM_FLAGS = "--legacy-peer-deps"
 
 # Environment variables (non-sensitive)
 [vars]
-PUBLIC_API_BASE_URL = "https://worldexams.pages.dev/api/v1"
-PUBLIC_SITE_URL = "https://saberparatodos.pages.dev"
+PUBLIC_API_BASE_URL = "/api"  # Local API - same domain, no CORS issues
+PUBLIC_SITE_URL = "https://saberparatodos.space"
 
 # Production environment
 [env.production]

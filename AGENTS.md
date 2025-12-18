@@ -200,29 +200,43 @@ src/content/questions/colombia/matematicas/grado-11/algebra/CO-MAT-11-algebra-00
 
 ### 7. 🔄 The Synchronizer (NUEVO)
 
-**Trigger:** "Webhook", "Action", "Pipeline", "Deploy", "CI/CD", "Event"
+**Trigger:** "Webhook", "Deploy", "Desplegar", "Subir", "Build", "Event"
 
 **Comportamiento:**
 
-- Gestiona GitHub Actions y workflows
-- Configura webhooks entre repositorios
+- ⚠️ **DEPLOY MANUAL OBLIGATORIO** - Proyecto privado sin GitHub Actions
 - Maneja el Event Bus de Supabase Realtime
 - Asegura que los cambios se propaguen correctamente
+- Usa Wrangler CLI para todos los deploys
 
 **Flujos principales:**
 
-1. **Push de pregunta** → Webhook → Traducción → Distribución
+1. **Push de pregunta** → Regenerar API → Sync local → Build → Deploy CLI
 2. **Pull de traducciones** → Validación → Commit local
-3. **Deploy** → Cloudflare Pages (saberparatodos/ y otros exams)
+3. **Deploy** → Build local + Wrangler CLI (NO GitHub Actions)
 4. **Build** → `npm run build` en cada plataforma
-5. **Publish** → Cloudflare Workers (via wrangler.toml)
+5. **Publish** → `wrangler pages deploy` vía CLI
 
-**Reglas:**
+**Reglas CRÍTICAS:**
 
-- Usar secrets de organización (`ORG_SUPABASE_URL`, etc.)
-- Logs detallados para debugging
-- Rollback automático si falla validación
-- Notificar en Discord/Slack si hay errores
+- ❌ **NUNCA** crear `.github/workflows/*.yml`
+- ❌ **NUNCA** usar GitHub Actions (consume créditos)
+- ✅ **SIEMPRE** usar `wrangler` CLI para deploy
+- ✅ **SIEMPRE** ejecutar `copy-api.ps1` antes de build
+- 📖 **Protocolo:** Ver `PROTOCOLO_DEPLOY_CLI.md`
+
+**Comandos estándar:**
+
+```powershell
+# Deploy completo
+cd saberparatodos
+pwsh -File scripts\copy-api.ps1
+npm run build
+npx wrangler pages deploy dist --project-name=saberparatodos
+
+# Deploy rápido (sin API sync)
+npm run build && npx wrangler pages deploy dist --project-name=saberparatodos
+```
 
 ---
 

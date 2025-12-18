@@ -1,8 +1,10 @@
 /**
  * Question Memory Service
- * Persists answered questions in localStorage to avoid repetition
+ * Persists answered questions in localStorage + Database (if logged in)
  * Auto-clears when user has answered >70% of available questions
  */
+
+import { supabase } from './supabase';
 
 const STORAGE_KEY = 'saberparatodos_answered_questions';
 const STATS_KEY = 'saberparatodos_question_stats';
@@ -126,18 +128,22 @@ export function saveAnsweredQuestions(
 /**
  * Mark a question as answered
  * Returns true if cache was cleared due to threshold
+ * 🆕 Also saves to database if user is logged in
  */
-export function markQuestionAnswered(
+export async function markQuestionAnswered(
   questionId: string,
   totalAvailable: number,
   isCorrect: boolean,
-  metadata?: { subject?: string; grade?: number; difficulty?: number }
-): { cacheCleared: boolean; percentAnswered: number } {
+  metadata?: { subject?: string; grade?: number; difficulty?: number; timeSeconds?: number }
+): Promise<{ cacheCleared: boolean; percentAnswered: number }> {
   const answered = loadAnsweredQuestions();
   answered.add(questionId);
 
   // Update stats
   updateStats(questionId, isCorrect, metadata);
+
+  // 🆕 Save to database if logged in
+  await saveToDatabase(questionId, isCorrect, metadata);
 
   const percentAnswered = answered.size / totalAvailable;
 
@@ -355,6 +361,108 @@ export function exportMemory(): string {
   return JSON.stringify({
     answeredIds: Array.from(answered),
     stats,
-    exportedAt: new Date().toISOString()
+    timestamp: Date.now()
   }, null, 2);
+}
+
+// ═══════════════════════════════════════════════════════════════════════════
+// 🆕 DATABASE TRACKING FUNCTIONS
+// ═══════════════════════════════════════════════════════════════════════════
+
+/**
+ * Save answered question to database (if user is logged in)
+ */
+async function saveToDatabase(
+  questionId: string,
+  wasCorrect: boolean,
+  metadata?: { subject?: string; grade?: number; difficulty?: number; timeSeconds?: number }
+): Promise<void> {
+  try {
+    const { data: { session } } = await supabase.auth.getSession();
+    if (!session) return; // Guest user, skip DB
+
+    const { error } = await supabase
+      .from('user_answered_questions')
+      .insert({
+        question_id: questionId,
+        was_correct: wasCorrect,
+        time_taken: metadata?.timeSeconds || null,
+        metadata: {
+          subject: metadata?.subject,
+          grade: metadata?.grade,
+          difficulty: metadata?.difficulty
+        }
+      });
+
+    if (error && error.code !== '23505') { // Ignore duplicate key errors
+      console.error('Error saving to DB:', error);
+    }
+  } catch (err) {
+    console.error('Database error:', err);
+  }
+}
+
+/**
+ * Load answered questions from database (merges with localStorage)
+ */
+export async function loadAnsweredQuestionsFromDB(): Promise<Set<string>> {
+  const localIds = loadAnsweredQuestions();
+
+  try {
+    const { data: { session } } = await supabase.auth.getSession();
+    if (!session) return localIds; // Guest user
+
+    const { data, error } = await supabase
+      .from('user_answered_questions')
+      .select('question_id')
+      .eq('user_id', session.user.id);
+
+    if (error) {
+      console.error('Error loading from DB:', error);
+      return localIds;
+    }
+
+    // Merge DB + localStorage
+    const dbIds = new Set(data.map(row => row.question_id));
+    return new Set([...localIds, ...dbIds]);
+  } catch (err) {
+    console.error('Database error:', err);
+    return localIds;
+  }
+}
+
+/**
+ * Get user's question statistics from database
+ */
+export async function getUserStatsFromDB(): Promise<{
+  totalAnswered: number;
+  correctCount: number;
+  accuracy: number;
+  avgTimeSeconds: number;
+} | null> {
+  try {
+    const { data: { session } } = await supabase.auth.getSession();
+    if (!session) return null;
+
+    const { data, error } = await supabase
+      .from('user_stats')
+      .select('*')
+      .eq('user_id', session.user.id)
+      .single();
+
+    if (error) {
+      console.error('Error loading stats:', error);
+      return null;
+    }
+
+    return {
+      totalAnswered: data.total_answered,
+      correctCount: data.correct_count,
+      accuracy: data.total_answered > 0 ? (data.correct_count / data.total_answered) * 100 : 0,
+      avgTimeSeconds: data.avg_time_seconds || 0
+    };
+  } catch (err) {
+    console.error('Database error:', err);
+    return null;
+  }
 }

@@ -14,7 +14,6 @@
   import MemoryStatus from './MemoryStatus.svelte';
   import Login from './Login.svelte';
   import ExamConfigModal from './ExamConfigModal.svelte'; // New import
-  import CacheIndicator from './CacheIndicator.svelte'; // Cache indicator
 
   import { supabase } from '../lib/supabase';
   import { getLocalIdentity } from '../lib/identity';
@@ -84,6 +83,7 @@
   let pwaStatus = { isPWA: false, displayMode: 'browser', isInstallable: false }; // PWA status
   let memoryStats = { answeredCount: 0, totalAvailable: 0, percentAnswered: 0 };
   let isGuest = true; // Guest status (true if user is not authenticated)
+  let buildInfo = null; // Build info (version, commit, date)
 
   // User plan (free or institutional)
   // TODO: Integrar con Supabase user_metadata cuando se implemente backend auth
@@ -170,6 +170,32 @@
   }
 
   onMount(async () => {
+    // Load build info (with timeout and error handling)
+    try {
+      const controller = new AbortController();
+      const timeout = setTimeout(() => controller.abort(), 3000); // 3s timeout
+
+      const response = await fetch('/build-info.json', {
+        signal: controller.signal,
+        cache: 'no-cache' // Always fresh
+      });
+
+      clearTimeout(timeout);
+
+      if (response.ok) {
+        buildInfo = await response.json();
+        console.log('✅ Build info loaded:', buildInfo?.commit?.substring(0, 7));
+      } else {
+        console.log('⚠️ Build info not available (status:', response.status, ')');
+      }
+    } catch (e) {
+      if (e.name === 'AbortError') {
+        console.warn('⏱️ Build info request timeout (3s)');
+      } else {
+        console.warn('❌ Could not load build info:', e.message);
+      }
+    }
+
     // Check for active session
     const { data: { session } } = await supabase.auth.getSession();
     user = session?.user || null;
@@ -387,6 +413,7 @@
 
     // SOLO Mode: Start Integrity Check + Smart Fetch
     isIntegrityCheck = true;
+    isLoadingQuestions = true;
     generatedExamQuestions = null; // Reset
 
     // Minimum time for animation (3.5s to read messages)
@@ -424,7 +451,8 @@
       if (examQuestions && examQuestions.length > 0) {
         generatedExamQuestions = examQuestions;
         console.log(`✅ Exam Ready: ${examQuestions.length} questions (0 API calls)`);
-        setView(AppView.EXAM);
+        // IntegrityIntro will detect loading=false and dispatch complete
+        isLoadingQuestions = false;
       } else {
         console.warn("⚠️ No questions available for this subject/grade combination");
         throw new Error("No hay preguntas disponibles. Por favor, intenta con otra asignatura.");
@@ -433,6 +461,7 @@
       console.error('Error generating exam:', error);
       alert(error.message || 'Error al generar el examen. Por favor intenta de nuevo.');
       isIntegrityCheck = false;
+      isLoadingQuestions = false;
       setView(AppView.SUBJECT_SELECTION);
     }
   }
@@ -471,7 +500,15 @@
         >
           SaberParaTodos
         </button>
-        <span class="text-[10px] font-mono text-white/40 border border-white/10 px-1.5 py-0.5 rounded">v{packageInfo.version}</span>
+        <div class="flex items-center gap-1.5 text-[10px] font-mono border border-white/10 px-2 py-0.5 rounded">
+          <span class="text-yellow-400/80">v{packageInfo.version}</span>
+          {#if buildInfo}
+            <span class="text-white/20">|</span>
+            <span class="text-emerald-500/70" title="Git commit">{buildInfo.commit?.substring(0, 7) || '?'}</span>
+            <span class="text-white/20">|</span>
+            <span class="text-white/50">{new Date(buildInfo.timestamp).toLocaleDateString('es-CO', { month: 'short', day: 'numeric' })}</span>
+          {/if}
+        </div>
       </div>
       <div class="flex items-center gap-4">
         {#if user}
@@ -612,8 +649,20 @@
 
           <FlashlightCard
             onClick={async () => {
+              // Load questions from ALL grades for blog view (not just one)
               if (loadedQuestions.length === 0) {
-                await loadQuestionsForExam(selectedGrade || 11, null);
+                console.log('📚 Loading questions for all grades for Blog view...');
+                const allGrades = [3, 5, 7, 9, 11];
+                const allQuestions = [];
+
+                for (const grade of allGrades) {
+                  console.log(`🔍 Loading grade ${grade}...`);
+                  const gradeQuestions = await fetchAllQuestionsForGrade(grade, isGuest, 30); // 30 per grade = 150 total
+                  allQuestions.push(...gradeQuestions);
+                }
+
+                loadedQuestions = allQuestions;
+                console.log(`✅ Loaded ${loadedQuestions.length} total questions from all grades`);
               }
               setView(AppView.BLOG);
             }}
@@ -786,11 +835,13 @@
 
   <!-- Integrity Check Animation -->
   {#if isIntegrityCheck}
-    <IntegrityIntro />
+    <IntegrityIntro loading={isLoadingQuestions} on:complete={() => {
+      isIntegrityCheck = false;
+      if (generatedExamQuestions && generatedExamQuestions.length > 0) {
+        setView(AppView.EXAM);
+      }
+    }} />
   {/if}
-
-  <!-- Cache Indicator (Bottom-right floating button) -->
-  <CacheIndicator />
 
   <!-- Loading Overlay -->
   {#if isLoadingQuestions}

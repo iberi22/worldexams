@@ -14,24 +14,32 @@
   let selectedSubject: string | null = null;
 
   // Normalize subject for comparison (removes accents, standardizes separators)
+  // Handles ALL variants: "lectura-critica", "lectura_critica", "lectura crítica"
   function normalizeSubject(subject: string): string {
     if (!subject) return '';
     return subject
       .toUpperCase()
       .normalize('NFD')
-      .replace(/[\u0300-\u036f]/g, '') // Remove accents
-      .replace(/[-_]/g, ' ')           // Replace hyphens/underscores with space
+      .replace(/[\u0300-\u036f]/g, '') // Remove accents: á→a, í→i, etc.
+      .replace(/[-_\s]+/g, ' ')        // Replace hyphens, underscores, spaces with single space
+      .replace(/Y\s+CIUDADANAS?/g, 'CIUDADANAS') // "sociales y ciudadanas" → "sociales ciudadanas"
+      .replace(/NATURALES?/g, 'NATURALES') // Normalize plural/singular
       .trim();
   }
 
   // Map API names to display names
+  // Includes ALL variants found in API folders (guiones, guiones bajos)
   const subjectDisplayMap: Record<string, string> = {
     'MATEMATICAS': 'MATEMÁTICAS',
     'LECTURA CRITICA': 'LECTURA CRÍTICA',
     'CIENCIAS NATURALES': 'CIENCIAS NATURALES',
+    'SOCIALES CIUDADANAS': 'SOCIALES Y CIUDADANAS', // Normalized form
     'SOCIALES Y CIUDADANAS': 'SOCIALES Y CIUDADANAS',
     'INGLES': 'INGLÉS',
     'INFORMATICA': 'INFORMÁTICA',
+    'TECNOLOGIA INFORMATICA': 'TECNOLOGÍA E INFORMÁTICA',
+    'TECNOLOGIA E INFORMATICA': 'TECNOLOGÍA E INFORMÁTICA',
+    'FILOSOFIA': 'FILOSOFÍA',
     'LENGUAJE': 'LENGUAJE',
   };
 
@@ -62,24 +70,50 @@
     return normalizeSubject(categorySubject) === normalizeSubject(selected);
   }
 
+  // Normalize string for search (remove accents, lowercase)
+  function normalizeForSearch(str: string): string {
+    if (!str) return '';
+    return str
+      .toLowerCase()
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '');
+  }
+
+  $: normalizedSearchTerm = normalizeForSearch(searchTerm);
+
   $: filteredQuestions = questions.filter(q => {
-    const matchesSearch =
-      q.text.toLowerCase().includes(searchTerm.toLowerCase()) ||
-      q.category.toLowerCase().includes(searchTerm.toLowerCase()) ||
-      q.id.toString().toLowerCase().includes(searchTerm.toLowerCase());
+    // Debug: log first question to see structure
+    if (questions.indexOf(q) === 0) {
+      console.log('📋 First question structure:', q);
+    }
 
     const matchesGrade = selectedGrade ? q.grade === selectedGrade : true;
     const matchesDifficulty = selectedDifficulty ? q.difficulty === selectedDifficulty : true;
     const matchesSubject = subjectsMatch(q.category, selectedSubject);
 
+    const searchTarget = [
+      q.id,
+      q.text,
+      q.category,
+      q.bundleId || '',
+      q.grade.toString(),
+      q.difficulty.toString()
+    ].map(s => normalizeForSearch(s.toString())).join(' ');
+
+    const matchesSearch = !searchTerm || searchTarget.includes(normalizedSearchTerm);
+
     return matchesSearch && matchesGrade && matchesDifficulty && matchesSubject;
   });
+
+  function clearSearch() {
+    searchTerm = "";
+  }
 
   // Function to inject ads into the list
   function getItemsWithAds(items: Question[]) {
     const result = [];
     for (let i = 0; i < items.length; i++) {
-      result.push({ type: 'question', data: items[i] });
+        result.push({ type: 'question', data: items[i] });
       // Insert ad every 6 items
       if ((i + 1) % 6 === 0) {
         result.push({ type: 'ad', id: `ad-${i}` });
@@ -135,8 +169,19 @@
         type="text"
         bind:value={searchTerm}
         placeholder="Buscar por ID, contenido o tema..."
-        class="w-full bg-[#121212] border border-white/10 rounded-xl py-4 pl-12 pr-4 text-lg text-white placeholder:text-white/20 focus:border-emerald-500/50 focus:ring-1 focus:ring-emerald-500/50 focus:outline-none transition-all"
+        class="w-full bg-[#121212] border border-white/10 rounded-xl py-4 pl-12 pr-12 text-lg text-white placeholder:text-white/20 focus:border-emerald-500/50 focus:ring-1 focus:ring-emerald-500/50 focus:outline-none transition-all"
       />
+
+      {#if searchTerm}
+        <button
+          onclick={clearSearch}
+          class="absolute inset-y-0 right-0 pr-4 flex items-center text-white/30 hover:text-white transition-colors"
+        >
+          <svg class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+          </svg>
+        </button>
+      {/if}
     </div>
 
     <!-- Filters Grid -->
@@ -208,46 +253,70 @@
     </div>
   </div>
 
-  <!-- Grid -->
-  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-    {#each visibleItems as item (item.type === 'question' ? item.data.id : item.id)}
-      {#if item.type === 'question'}
-        <FlashlightCard
-          onClick={() => onSelect(item.data)}
-          className="p-6 flex flex-col justify-between group h-64 hover:border-emerald-500/50 transition-transform duration-300 hover:scale-[1.02]"
-        >
-          <div class="flex flex-col h-full">
-            <div class="flex justify-between items-start mb-2">
-              <div class="text-xs font-bold uppercase tracking-widest text-emerald-500">
-                {item.data.category}
-              </div>
-              <div class="text-[10px] font-mono text-white/30">
-                {item.data.id}
-              </div>
-            </div>
-
-            <div class="text-lg font-light leading-relaxed line-clamp-3 mb-4 flex-grow">
-              <MathRenderer content={item.data.text} />
-            </div>
-
-            <div class="flex items-center justify-between mt-auto pt-4 border-t border-white/5">
-              <div class="flex gap-3 text-[10px] uppercase tracking-widest text-white/50">
-                <span>Grado {item.data.grade}°</span>
-                <span>Nivel {item.data.difficulty}</span>
-              </div>
-              <div class="flex items-center gap-2 text-emerald-500 opacity-60 group-hover:opacity-100 transition-opacity">
-                <span class="text-xs uppercase tracking-widest">Leer</span>
-                <span class="text-xl">-></span>
-              </div>
-            </div>
-          </div>
-        </FlashlightCard>
-      {:else}
-        <!-- Ad Block -->
-        <AdBlock className="h-64" />
-      {/if}
-    {/each}
+  <!-- Results Count -->
+  <div class="mb-6 flex items-center justify-between px-2">
+    <div class="text-sm text-white/40 uppercase tracking-widest">
+      {filteredQuestions.length} {filteredQuestions.length === 1 ? 'resultado' : 'resultados'}
+    </div>
   </div>
+
+  {#if filteredQuestions.length === 0}
+    <div class="text-center py-20 border border-white/10 rounded-2xl bg-[#1E1E1E]/30 border-dashed">
+      <div class="text-6xl mb-4 opacity-20">🔍</div>
+      <h3 class="text-xl font-bold text-white/60 mb-2">No encontramos resultados</h3>
+      <p class="text-white/40 max-w-md mx-auto">
+        Intenta ajustar tu búsqueda o los filtros seleccionados.
+        Prueba buscando temas generales como "álgebra" o "historia".
+      </p>
+      <button
+        onclick={clearSearch}
+        class="mt-6 px-6 py-2 bg-white/5 hover:bg-white/10 border border-white/10 rounded-full text-sm uppercase tracking-widest transition-colors"
+      >
+        Limpiar búsqueda
+      </button>
+    </div>
+  {:else}
+    <!-- Grid -->
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      {#each visibleItems as item (item.type === 'question' ? item.data.id : item.id)}
+        {#if item.type === 'question'}
+          <FlashlightCard
+            onClick={() => onSelect(item.data)}
+            className="p-6 flex flex-col justify-between group h-64 hover:border-emerald-500/50 transition-transform duration-300 hover:scale-[1.02]"
+          >
+            <div class="flex flex-col h-full">
+              <div class="flex justify-between items-start mb-2">
+                <div class="text-xs font-bold uppercase tracking-widest text-emerald-500">
+                  {item.data.category}
+                </div>
+                <div class="text-[10px] font-mono text-white/30">
+                  {item.data.id}
+                </div>
+              </div>
+
+              <div class="text-lg font-light leading-relaxed line-clamp-3 mb-4 flex-grow">
+                <MathRenderer content={item.data.text} />
+              </div>
+
+              <div class="flex items-center justify-between mt-auto pt-4 border-t border-white/5">
+                <div class="flex gap-3 text-[10px] uppercase tracking-widest text-white/50">
+                  <span>Grado {item.data.grade}°</span>
+                  <span>Nivel {item.data.difficulty}</span>
+                </div>
+                <div class="flex items-center gap-2 text-emerald-500 opacity-60 group-hover:opacity-100 transition-opacity">
+                  <span class="text-xs uppercase tracking-widest">Leer</span>
+                  <span class="text-xl">-></span>
+                </div>
+              </div>
+            </div>
+          </FlashlightCard>
+        {:else}
+          <!-- Ad Block -->
+          <AdBlock className="h-64" />
+        {/if}
+      {/each}
+    </div>
+  {/if}
 
   <!-- Load More Button -->
   {#if visibleCount < itemsToRender.length}

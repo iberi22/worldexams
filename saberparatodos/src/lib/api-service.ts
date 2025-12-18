@@ -5,10 +5,14 @@
 
 import { supabase } from './supabase';
 
-// API Configuration - Always use /api/ (served from same domain)
-const API_BASE_URL = '/api';
+// API Configuration
+const API_BASE_URL = '/api'; // Static files (legacy)
+const EDGE_FUNCTION_URL = 'https://tzmrgvtptdtsjcugwqyq.supabase.co/functions/v1/get-questions'; // Edge Function (NEW)
 const COUNTRY_CODE = 'co';
 const EXAM_TYPE = 'icfes';
+
+// Feature flags
+const USE_EDGE_FUNCTIONS = true; // Set to true to use Edge Functions instead of static API
 
 /**
  * Get JWT token from Supabase session
@@ -53,6 +57,10 @@ export interface APIQuestion {
   source_url: string;
   tags: string[];
   images: string[];
+  // Modern questions metadata
+  modern_context?: boolean;
+  context_type?: string;
+  context_tags?: string[];
 }
 
 export interface APISubjectIndex {
@@ -74,6 +82,11 @@ export interface AppQuestion {
   explanation?: string;
   grade: number;
   difficulty: number;
+  bundleId?: string; // Bundle ID for question versioning
+  // Modern questions metadata
+  modernContext?: boolean;
+  contextType?: string;
+  contextTags?: string[];
 }
 
 // Cache for loaded questions
@@ -134,6 +147,9 @@ function formatSubjectName(subject: string): string {
     'sociales_ciudadanas': 'SOCIALES Y CIUDADANAS',
     'ingles': 'INGLÉS',
     'informatica': 'INFORMÁTICA',
+    'tecnologia_informatica': 'TECNOLOGÍA E INFORMÁTICA',
+    'tecnologia-informatica': 'TECNOLOGÍA E INFORMÁTICA',
+    'filosofia': 'FILOSOFÍA',
     'lenguaje': 'LENGUAJE',
   };
 
@@ -156,7 +172,12 @@ function transformQuestion(apiQuestion: APIQuestion, grade: number, subject: str
     category: `${formatSubjectName(subject)} :: ${apiQuestion.bundle_id}`,
     explanation: cleanExplanation(apiQuestion.explanation),
     grade: grade,
-    difficulty: mapDifficulty(apiQuestion.difficulty)
+    difficulty: mapDifficulty(apiQuestion.difficulty),
+    bundleId: apiQuestion.bundle_id, // Add bundleId for version carousel
+    // Modern questions metadata
+    modernContext: apiQuestion.modern_context || false,
+    contextType: apiQuestion.context_type || undefined,
+    contextTags: apiQuestion.context_tags || []
   };
 }
 
@@ -181,17 +202,19 @@ export async function getAvailableGrades(): Promise<number[]> {
 export async function getAvailableSubjects(grade: number): Promise<string[]> {
   // Return subjects that match the ACTUAL API folder structure
   // Verified against: public/api/co/icfes/{grade}/ directories
+  // 🔄 Updated 2025-12-17: Estandarizado a snake_case (guiones bajos)
+  // ✅ Post-standardization: Solo nombres snake_case
   const subjectMap: Record<number, string[]> = {
-    // Grade 3: ciencias-naturales, ingles, matematicas, sociales-ciudadanas, sociales_y_ciudadanas
-    3: ['matematicas', 'ingles', 'ciencias-naturales', 'sociales-ciudadanas', 'sociales_y_ciudadanas'],
-    // Grade 5: ciencias_naturales, lectura_critica, matematicas, sociales-ciudadanas, sociales_y_ciudadanas
-    5: ['matematicas', 'lectura_critica', 'ciencias_naturales', 'sociales-ciudadanas', 'sociales_y_ciudadanas'],
-    // Grade 7: ciencias-naturales, ciencias_naturales, ingles, lectura_critica, matematicas, sociales-ciudadanas
-    7: ['matematicas', 'lectura_critica', 'ingles', 'ciencias-naturales', 'ciencias_naturales', 'sociales-ciudadanas'],
-    // Grade 9: ciencias-naturales, ciencias_naturales, ingles, lectura_critica, matematicas, sociales-ciudadanas, sociales_y_ciudadanas
-    9: ['matematicas', 'lectura_critica', 'ingles', 'ciencias-naturales', 'ciencias_naturales', 'sociales-ciudadanas', 'sociales_y_ciudadanas'],
-    // Grade 11: ciencias_naturales, ingles, lectura-critica, lectura_critica, matematicas, sociales_y_ciudadanas
-    11: ['matematicas', 'lectura_critica', 'lectura-critica', 'ciencias_naturales', 'sociales_y_ciudadanas', 'ingles']
+    // Grade 3: ciencias_naturales, ingles, matematicas, sociales_y_ciudadanas
+    3: ['matematicas', 'ingles', 'ciencias_naturales', 'sociales_y_ciudadanas'],
+    // Grade 5: ciencias_naturales, lectura_critica, matematicas, sociales_y_ciudadanas
+    5: ['matematicas', 'lectura_critica', 'ciencias_naturales', 'sociales_y_ciudadanas'],
+    // Grade 7: ciencias_naturales, ingles, lectura_critica, matematicas, sociales_y_ciudadanas
+    7: ['matematicas', 'lectura_critica', 'ingles', 'ciencias_naturales', 'sociales_y_ciudadanas'],
+    // Grade 9: ciencias_naturales, ingles, lectura_critica, matematicas, sociales_y_ciudadanas
+    9: ['matematicas', 'lectura_critica', 'ingles', 'ciencias_naturales', 'sociales_y_ciudadanas'],
+    // Grade 11: ciencias_naturales, ingles, lectura_critica, matematicas, sociales_y_ciudadanas
+    11: ['matematicas', 'lectura_critica', 'ciencias_naturales', 'sociales_y_ciudadanas', 'ingles']
   };
 
   return subjectMap[grade] || subjectMap[11];
@@ -199,6 +222,7 @@ export async function getAvailableSubjects(grade: number): Promise<string[]> {
 
 /**
  * Fetch questions for a specific grade and subject
+ * 🔄 NEW: Tries multiple folder name variants (guiones, guiones bajos)
  */
 export async function fetchQuestions(
   grade: number,
@@ -212,21 +236,48 @@ export async function fetchQuestions(
     return questionCache.get(cacheKey)!;
   }
 
-  const url = `${API_BASE_URL}/${COUNTRY_CODE}/${EXAM_TYPE}/${grade}/${subject.toLowerCase()}/${page}.json?t=${Date.now()}`;
+  // 🔄 Try multiple folder name variants (due to API inconsistency)
+  const subjectVariants = [
+    subject.toLowerCase(),                           // Original: "lectura_critica"
+    subject.toLowerCase().replace(/_/g, '-'),        // Variant 1: "lectura-critica"
+    subject.toLowerCase().replace(/-/g, '_'),        // Variant 2: "lectura_critica"
+  ];
+
+  // Remove duplicates
+  const uniqueVariants = [...new Set(subjectVariants)];
+
+  let response: Response | null = null;
+  let successfulUrl = '';
+  const headers = await getAuthHeaders();
+
+  // Try each variant until one works
+  for (const variant of uniqueVariants) {
+    const url = `${API_BASE_URL}/${COUNTRY_CODE}/${EXAM_TYPE}/${grade}/${variant}/${page}.json?t=${Date.now()}`;
+
+    try {
+      const attemptResponse = await fetch(url, {
+        cache: 'no-cache',
+        headers
+      });
+
+      if (attemptResponse.ok) {
+        response = attemptResponse;
+        successfulUrl = url;
+        console.log(`✅ Found questions at: ${url}`);
+        break; // Success, stop trying variants
+      }
+    } catch (err) {
+      // Try next variant
+      continue;
+    }
+  }
+
+  if (!response || !response.ok) {
+    console.warn(`⚠️ Failed to fetch questions for ${subject} (tried ${uniqueVariants.length} variants)`);
+    return [];
+  }
 
   try {
-    console.log(`🌐 Fetching questions from: ${url}`);
-
-    const headers = await getAuthHeaders();
-    const response = await fetch(url, {
-      cache: 'no-cache',
-      headers
-    });
-
-    if (!response.ok) {
-      console.warn(`⚠️ Failed to fetch questions: ${response.status} for ${url}`);
-      return [];
-    }
 
     // 🔍 Validar que la respuesta es JSON y no HTML
     const contentType = response.headers.get('content-type');
@@ -275,6 +326,65 @@ export async function fetchQuestions(
 }
 
 /**
+ * ⚡ NEW: Fetch questions from Edge Function (JWT-protected)
+ * Falls back to static API if Edge Function fails
+ */
+async function fetchQuestionsFromEdge(
+  grade: number,
+  subject: string,
+  page: number = 1
+): Promise<AppQuestion[]> {
+  const cacheKey = `edge_${grade}_${subject}_${page}`;
+  const cached = questionCache.get(cacheKey);
+  if (cached) return cached;
+
+  const headers = await getAuthHeaders();
+  const token = await getAuthToken();
+
+  if (!token) {
+    console.warn('⚠️ No JWT token, falling back to static API');
+    return fetchQuestions(grade, subject, page);
+  }
+
+  try {
+    const url = `${EDGE_FUNCTION_URL}?grade=${grade}&subject=${subject}&page=${page}`;
+    console.log(`⚡ Fetching from Edge Function: ${url.substring(0, 80)}...`);
+
+    const response = await fetch(url, {
+      headers,
+      cache: 'no-cache'
+    });
+
+    if (!response.ok) {
+      if (response.status === 401) {
+        console.warn('⚠️ Unauthorized, falling back to static API');
+        return fetchQuestions(grade, subject, page);
+      }
+      throw new Error(`HTTP ${response.status}`);
+    }
+
+    const data = await response.json();
+
+    if (!data.questions || !Array.isArray(data.questions)) {
+      console.warn('⚠️ Invalid Edge Function response');
+      return fetchQuestions(grade, subject, page);
+    }
+
+    const questions: AppQuestion[] = data.questions
+      .filter((q: APIQuestion) => q && q.statement && q.options)
+      .map((q: APIQuestion) => transformQuestion(q, grade, subject));
+
+    questionCache.set(cacheKey, questions);
+    console.log(`✅ Loaded ${questions.length} questions from Edge Function (${data.total_questions} total)`);
+
+    return questions;
+  } catch (error) {
+    console.error('❌ Edge Function error, falling back to static API:', error);
+    return fetchQuestions(grade, subject, page);
+  }
+}
+
+/**
  * Fetch all questions for a grade (all subjects, all pages)
  * 🔒 GUEST LIMIT: Max 100 questions for unauthenticated users
  * 🔓 AUTHENTICATED: Max 200 questions
@@ -310,26 +420,54 @@ export async function fetchAllQuestionsForGrade(
 
   for (const subject of subjectList) {
     try {
-      const indexUrl = `${API_BASE_URL}/${COUNTRY_CODE}/${EXAM_TYPE}/${grade}/${subject}/index.json?t=${Date.now()}`;
-      console.log(`🔍 Fetching index from: ${indexUrl}`);
+      // 🔄 Try multiple folder name variants for index.json
+      const subjectVariants = [
+        subject.toLowerCase(),
+        subject.toLowerCase().replace(/_/g, '-'),
+        subject.toLowerCase().replace(/-/g, '_'),
+      ];
+      const uniqueVariants = [...new Set(subjectVariants)];
 
+      let indexResponse: Response | null = null;
       const headers = await getAuthHeaders();
-      const indexResponse = await fetch(indexUrl, {
-        cache: 'no-cache',
-        headers
-      });
+
+      // Try each variant
+      for (const variant of uniqueVariants) {
+        const indexUrl = `${API_BASE_URL}/${COUNTRY_CODE}/${EXAM_TYPE}/${grade}/${variant}/index.json?t=${Date.now()}`;
+
+        try {
+          const attemptResponse = await fetch(indexUrl, {
+            cache: 'no-cache',
+            headers
+          });
+
+          if (attemptResponse.ok) {
+            indexResponse = attemptResponse;
+            console.log(`✅ Found index at: ${indexUrl}`);
+            break;
+          }
+        } catch (err) {
+          continue;
+        }
+      }
 
       let subjectQuestions: AppQuestion[] = [];
 
-      if (!indexResponse.ok) {
-        console.warn(`No index found for ${subject}, trying page 1 only`);
-        subjectQuestions = await fetchQuestions(grade, subject, 1);
+      if (!indexResponse || !indexResponse.ok) {
+        console.warn(`No index found for ${subject} (tried ${uniqueVariants.length} variants), trying page 1 only`);
+        // Use Edge Function if enabled, otherwise static API
+        subjectQuestions = USE_EDGE_FUNCTIONS 
+          ? await fetchQuestionsFromEdge(grade, subject, 1)
+          : await fetchQuestions(grade, subject, 1);
       } else {
         const index: APISubjectIndex = await indexResponse.json();
 
         // Fetch all pages for this subject
         for (let page = 1; page <= (index?.total_pages || 1); page++) {
-          const pageQuestions = await fetchQuestions(grade, subject, page);
+          // Use Edge Function if enabled, otherwise static API
+          const pageQuestions = USE_EDGE_FUNCTIONS
+            ? await fetchQuestionsFromEdge(grade, subject, page)
+            : await fetchQuestions(grade, subject, page);
           subjectQuestions.push(...pageQuestions);
         }
       }

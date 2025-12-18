@@ -12,6 +12,7 @@ export interface Question {
   explanation?: string;
   grade: number;
   difficulty: number;
+  bundleId?: string; // Bundle ID for question versioning (e.g., "CO-LEC-11-comprension-001")
   licenses?: {
     v1: string;      // "CC BY-SA 4.0" - Uso comercial permitido
     'v2-v7': string; // "CC BY-NC-SA 4.0" - Solo no-comercial

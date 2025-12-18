@@ -43,7 +43,15 @@
 | **Supabase** | Latest | BaaS (PostgreSQL, Auth, Realtime, Edge Functions) |
 | **TypeScript** | 5.x | Tipado estricto en todo el proyecto |
 | **Cloudflare Pages** | - | Hosting principal (Workers, Edge Runtime) |
-| **GitHub Actions** | - | CI/CD, sincronización, validación |
+| **Wrangler CLI** | Latest | Deploy manual (NO GitHub Actions) |
+
+### 🚨 IMPORTANTE: Deploy Manual Obligatorio
+
+**El proyecto es PRIVADO y NO usa GitHub Actions para evitar consumo de créditos.**
+
+- ✅ **SIEMPRE** usar `wrangler` CLI para deploy
+- ❌ **NUNCA** crear workflows de GitHub Actions
+- 📖 **Protocolo completo:** Ver `PROTOCOLO_DEPLOY_CLI.md` en raíz
 
 ### Repositorios Principales (Top 20 Países)
 
@@ -475,7 +483,7 @@ Consulta `AGENTS.md` para la definición completa de roles. Resumen:
 
 ## 🔧 Comandos Comunes
 
-```bash
+```powershell
 # === Desarrollo Local ===
 npm run dev                 # Astro dev server (localhost:4321)
 
@@ -488,15 +496,27 @@ npm run preview             # Preview local del build
 # === Validación ===
 npm run validate            # Validar formato de preguntas (Protocol v2.0)
 
-# === Deployment (Cloudflare) ===
-npx wrangler pages deploy dist  # Deploy manual a Cloudflare Pages
-npm run deploy              # Deploy automático (si está configurado)
+# === Deployment Manual (CLI OBLIGATORIO) ===
+# ⚠️ NUNCA usar GitHub Actions - Proyecto privado sin créditos
 
-# === Sincronización ===
-npm run sync:pull           # Pull traducciones desde Supabase
+# Opción 1: Deploy completo (con API sync)
+cd saberparatodos
+pwsh -File scripts\copy-api.ps1 && npm run build && npx wrangler pages deploy dist --project-name=saberparatodos
+
+# Opción 2: Deploy rápido (solo código)
+cd saberparatodos
+npm run build && npx wrangler pages deploy dist --project-name=saberparatodos
+
+# Opción 3: Script todo-en-uno
+cd saberparatodos
+pwsh -File scripts\deploy.ps1
+
+# === Sincronización API ===
+pwsh -File scripts\generate-questions-api.ps1  # Regenerar JSONs
+cd saberparatodos && pwsh -File scripts\copy-api.ps1  # Copiar a public/api/
 ```
 
-**Nota:** Los deployments a Cloudflare Pages están configurados en `wrangler.toml` de cada plataforma.
+**Nota:** Ver `PROTOCOLO_DEPLOY_CLI.md` para protocolo completo de deployment.
 
 ---
 
@@ -614,6 +634,16 @@ type CountryCode = 'CO' | 'MX' | 'AR' | 'CL' | 'PE' | 'BR' | 'US';
 
 ## 🧠 AI Behavior Rules
 
+### **🚨 REGLA CRÍTICA: Deploy Manual Obligatorio**
+- ❌ **NUNCA** sugerir crear archivos `.github/workflows/*.yml`
+- ❌ **NUNCA** mencionar "GitHub Actions" o "CI/CD automation"
+- ✅ **SIEMPRE** usar comandos `wrangler` CLI para deploy
+- ✅ **SIEMPRE** recordar ejecutar `copy-api.ps1` antes de build
+- ✅ **SIEMPRE** verificar que el usuario esté en la carpeta correcta
+- 📖 **Protocolo:** Consultar `PROTOCOLO_DEPLOY_CLI.md` antes de cualquier deploy
+
+**Razón:** Proyecto privado sin cuota de GitHub Actions. Deploy manual ahorra costos.
+
 ### **Nunca asumir contexto faltante. Preguntar si hay incertidumbre.**
 - Si falta información crítica (país, asignatura, grado), preguntar antes de implementar
 - No inventar librerías o funciones que no existen
@@ -714,6 +744,56 @@ Al generar contenido, considera el contexto del país:
 
 ---
 
+## � Estado de Tareas Delegadas a Jules (Diciembre 2025)
+
+### Regeneración de Preguntas con Errores de Generación
+
+**Problema:** ~390 preguntas con placeholder `[Pregunta pendiente de recuperación por error de generación]` en bundles de Colombia grado 11.
+
+**Solución:** Dividir trabajo en 4 issues separados por materia y delegar a Jules con contexto detallado.
+
+### Issues Activos
+
+| Issue | Materia | Bundles | Estado | Labels |
+|-------|---------|---------|--------|--------|
+| [#57](https://github.com/iberi22/worldexams/issues/57) | 📐 Matemáticas | ~50 | En progreso | `bug`, `content`, `high-priority`, `matematicas`, `jules` |
+| [#58](https://github.com/iberi22/worldexams/issues/58) | 📖 Lectura Crítica | ~14 | En progreso | `bug`, `content`, `high-priority`, `lectura-critica`, `jules` |
+| [#60](https://github.com/iberi22/worldexams/issues/60) | 🧪 Ciencias Naturales | ~21 | En progreso | `bug`, `content`, `high-priority`, `ciencias-naturales`, `jules` |
+| [#61](https://github.com/iberi22/worldexams/issues/61) | 🏛️ Sociales y Ciudadanas | ~23 | En progreso | `bug`, `content`, `high-priority`, `sociales-ciudadanas`, `jules` |
+
+### Contexto de cada Issue
+
+Cada issue incluye:
+- **Protocolo v2.0:** Referencia a `docs/QUESTION_GENERATION_PROTOCOL_V2.md`
+- **Estructura de bundles:** 7 preguntas (v1-v7) con progresión pedagógica
+- **Fuentes de verificación:** Links a recursos educativos colombianos
+- **Contexto cultural:** Referencias locales por materia
+- **Checklist de calidad:** Validaciones antes de crear PR
+
+### Instrucciones a Jules
+
+Para cada issue, Jules debe:
+1. Leer completamente `docs/QUESTION_GENERATION_PROTOCOL_V2.md`
+2. Investigar currículo oficial de Colombia para grado 11
+3. Verificar conceptos con fuentes educativas confiables
+4. Contextualizar preguntas con referencias colombianas
+5. Generar 7 variantes por bundle con progresión de dificultad
+6. Validar que distractores representen errores comunes
+
+### Cómo Asignar a Jules
+
+Para delegar nuevas tareas a Jules:
+1. Crear issue con contexto detallado y checklist
+2. Agregar label `jules` al issue
+3. Tagguear `@jules` en comentario del issue
+4. Jules detectará automáticamente y comenzará tarea
+
+**Referencias:**
+- [Jules Documentation](https://jules.google/docs/)
+- [Starting tasks from GitHub issues](https://jules.google/docs/running-tasks/#starting-tasks-from-github-issues)
+
+---
+
 ## 📞 Recursos
 
 - **Organización:** [github.com/worldexams](https://github.com/worldexams)
@@ -721,7 +801,9 @@ Al generar contenido, considera el contexto del país:
 - **TASK.md:** Consultar en cada repo para tareas actuales
 - **AGENTS.md:** Consultar para roles de IA detallados
 - **Contribuir:** Abrir issue en el repo correspondiente al país
+- **Jules Tasks:** Ver issues con label `jules` en repo iberi22/worldexams
 
 ---
 
-*Versión: 2.0 | Actualizado: 2025-11-30*
+*Versión: 2.2 | Actualizado: 2025-12-17*
+*Nota: Agregada sección sobre deploy CLI manual obligatorio (proyecto privado)*

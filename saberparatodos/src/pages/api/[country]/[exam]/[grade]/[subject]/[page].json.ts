@@ -16,7 +16,8 @@ function slugifySubject(input: string): string {
   if (s.includes('ciencias') || s.includes('biolog') || s.includes('quim') || s.includes('fisic')) return 'ciencias_naturales';
   if (s.includes('social')) return 'sociales_y_ciudadanas';
   if (s.includes('ingl')) return 'ingles';
-  if (s.includes('inform')) return 'informatica';
+  if (s.includes('tecnolog') || s.includes('informatic')) return 'tecnologia_informatica';
+  if (s.includes('filosof')) return 'filosofia';
   return s
     .normalize('NFD')
     .replace(/\p{Diacritic}+/gu, '')
@@ -161,7 +162,11 @@ export const GET: APIRoute = async ({ params }) => {
         bundle_id: entry.data.id,
         source_url: entry.data.source_url || '',
         tags: [entry.data.tema, entry.data.asignatura],
-        images: []
+        images: [],
+        // Modern questions metadata
+        modern_context: (entry.data as any).modern_context || false,
+        context_type: (entry.data as any).context_type || null,
+        context_tags: (entry.data as any).context_tags || []
       };
     });
 
@@ -203,16 +208,34 @@ function extractSection(markdown: string, startMarker: string, endMarker: string
   }
 
   const contentStart = startIndex + startMarker.length;
-  const endIndex = markdown.indexOf(endMarker, contentStart);
+
+  // Find the next occurrence of the end marker OR any "### " pattern (next H3 header)
+  let endIndex = -1;
+
+  // First try exact match for end marker
+  const exactEndIndex = markdown.indexOf(endMarker, contentStart);
+
+  // Also find any next H3 header starting from content
+  const lines = markdown.substring(contentStart).split('\n');
+  let charCount = 0;
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+    // Check if this line starts a new section (H2 or H3)
+    if ((line.startsWith('### ') || line.startsWith('## ')) && i > 0) {
+      endIndex = contentStart + charCount;
+      break;
+    }
+    charCount += line.length + 1; // +1 for newline
+  }
+
+  // Use the earlier of the two end points
+  if (exactEndIndex !== -1 && (endIndex === -1 || exactEndIndex < endIndex)) {
+    endIndex = exactEndIndex;
+  }
 
   const result = endIndex === -1
     ? markdown.substring(contentStart).trim()
     : markdown.substring(contentStart, endIndex).trim();
-
-  // Debug logging for first instance only
-  if (result && result.length < 100 && result.includes('A)')) {
-    console.log(`extractSection("${startMarker}" → "${endMarker}"): "${result.substring(0, 100)}"`);
-  }
 
   return result;
 }

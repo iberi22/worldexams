@@ -34,6 +34,11 @@
 
     return () => clearInterval(interval);
   });
+
+  // Watch loading prop and dispatch complete when done
+  $: if (!loading) {
+    dispatch('complete');
+  }
 </script>
 
 <div class="fixed inset-0 z-[200] bg-[#121212]/95 backdrop-blur-xl flex flex-col items-center justify-center p-6 text-center" transition:fade>
