@@ -8,11 +8,13 @@ import { supabase } from './supabase';
 // API Configuration
 const API_BASE_URL = '/api'; // Static files (legacy)
 const EDGE_FUNCTION_URL = 'https://tzmrgvtptdtsjcugwqyq.supabase.co/functions/v1/get-questions'; // Edge Function (NEW)
+const BULK_FUNCTION_URL = 'https://tzmrgvtptdtsjcugwqyq.supabase.co/functions/v1/get-questions-bulk'; // Bulk endpoint (NEW)
 const COUNTRY_CODE = 'co';
 const EXAM_TYPE = 'icfes';
 
 // Feature flags
 const USE_EDGE_FUNCTIONS = true; // Set to true to use Edge Functions instead of static API
+const USE_BULK_FOR_BLOG = true; // Set to true to use bulk endpoint for Blog view
 
 /**
  * Get JWT token from Supabase session
@@ -292,7 +294,7 @@ export async function fetchQuestions(
         console.error(`Troubleshooting:`);
         console.error(`  1. Verify that dist/api/ folder is deployed to Cloudflare Pages`);
         console.error(`  2. Check Cloudflare Pages build settings`);
-        console.error(`  3. Try accessing ${url} directly in browser`);
+        console.error(`  3. Try accessing ${successfulUrl} directly in browser`);
       }
       return [];
     }
@@ -301,7 +303,7 @@ export async function fetchQuestions(
     try {
       data = await response.json();
     } catch (parseError) {
-      console.error(`⚠️ Invalid JSON response from ${url}:`, parseError);
+      console.error(`⚠️ Invalid JSON response from ${successfulUrl}:`, parseError);
       return [];
     }
 
@@ -326,8 +328,8 @@ export async function fetchQuestions(
 }
 
 /**
- * ⚡ NEW: Fetch questions from Edge Function (JWT-protected)
- * Falls back to static API if Edge Function fails
+ * ⚡ Fetch questions from Edge Function (JWT-protected and guest-friendly)
+ * This is the primary method for fetching questions
  */
 async function fetchQuestionsFromEdge(
   grade: number,
@@ -339,15 +341,9 @@ async function fetchQuestionsFromEdge(
   if (cached) return cached;
 
   const headers = await getAuthHeaders();
-  const token = await getAuthToken();
-
-  if (!token) {
-    console.warn('⚠️ No JWT token, falling back to static API');
-    return fetchQuestions(grade, subject, page);
-  }
 
   try {
-    const url = `${EDGE_FUNCTION_URL}?grade=${grade}&subject=${subject}&page=${page}`;
+    const url = `${EDGE_FUNCTION_URL}?grade=${grade}&subject=${subject}&page=${page}&country=${COUNTRY_CODE}&exam=${EXAM_TYPE}`;
     console.log(`⚡ Fetching from Edge Function: ${url.substring(0, 80)}...`);
 
     const response = await fetch(url, {
@@ -356,18 +352,13 @@ async function fetchQuestionsFromEdge(
     });
 
     if (!response.ok) {
-      if (response.status === 401) {
-        console.warn('⚠️ Unauthorized, falling back to static API');
-        return fetchQuestions(grade, subject, page);
-      }
-      throw new Error(`HTTP ${response.status}`);
+      throw new Error(`HTTP ${response.status}: ${response.statusText}`);
     }
 
     const data = await response.json();
 
     if (!data.questions || !Array.isArray(data.questions)) {
-      console.warn('⚠️ Invalid Edge Function response');
-      return fetchQuestions(grade, subject, page);
+      throw new Error('Invalid response structure from Edge Function');
     }
 
     const questions: AppQuestion[] = data.questions
@@ -375,12 +366,14 @@ async function fetchQuestionsFromEdge(
       .map((q: APIQuestion) => transformQuestion(q, grade, subject));
 
     questionCache.set(cacheKey, questions);
-    console.log(`✅ Loaded ${questions.length} questions from Edge Function (${data.total_questions} total)`);
+
+    const guestInfo = data.is_guest ? ' (Guest mode: 10 questions limit)' : '';
+    console.log(`✅ Loaded ${questions.length} questions from Edge Function${guestInfo}`);
 
     return questions;
   } catch (error) {
-    console.error('❌ Edge Function error, falling back to static API:', error);
-    return fetchQuestions(grade, subject, page);
+    console.error('❌ Edge Function error:', error);
+    throw error; // Don't fallback to static API anymore
   }
 }
 
@@ -455,20 +448,26 @@ export async function fetchAllQuestionsForGrade(
 
       if (!indexResponse || !indexResponse.ok) {
         console.warn(`No index found for ${subject} (tried ${uniqueVariants.length} variants), trying page 1 only`);
-        // Use Edge Function if enabled, otherwise static API
-        subjectQuestions = USE_EDGE_FUNCTIONS 
-          ? await fetchQuestionsFromEdge(grade, subject, 1)
-          : await fetchQuestions(grade, subject, 1);
+        // Always use Edge Function
+        try {
+          subjectQuestions = await fetchQuestionsFromEdge(grade, subject, 1);
+        } catch (error) {
+          console.error(`Failed to fetch ${subject} from Edge Function:`, error);
+          // Skip this subject if Edge Function fails
+          continue;
+        }
       } else {
         const index: APISubjectIndex = await indexResponse.json();
 
-        // Fetch all pages for this subject
+        // Fetch all pages for this subject from Edge Function
         for (let page = 1; page <= (index?.total_pages || 1); page++) {
-          // Use Edge Function if enabled, otherwise static API
-          const pageQuestions = USE_EDGE_FUNCTIONS
-            ? await fetchQuestionsFromEdge(grade, subject, page)
-            : await fetchQuestions(grade, subject, page);
-          subjectQuestions.push(...pageQuestions);
+          try {
+            const pageQuestions = await fetchQuestionsFromEdge(grade, subject, page);
+            subjectQuestions.push(...pageQuestions);
+          } catch (error) {
+            console.error(`Failed to fetch ${subject} page ${page}:`, error);
+            // Continue with other pages
+          }
         }
       }
 
@@ -522,6 +521,91 @@ export async function fetchAllQuestionsForGrade(
   console.log(`📚 Total questions: ${finalSet.length} (Guest: ${isGuest}, Limit: ${GUEST_LIMIT})`);
 
   return finalSet;
+}
+
+/**
+ * ⚡ NEW: Fetch questions in bulk for multiple grades (Blog View optimization)
+ * Reduces 50+ requests to 1 single request
+ */
+export async function fetchBulkQuestions(
+  grades: number[],
+  limit: number = 150
+): Promise<AppQuestion[]> {
+  if (!USE_BULK_FOR_BLOG) {
+    console.warn('⚠️ Bulk endpoint disabled, falling back to sequential loading');
+    const allQuestions: AppQuestion[] = [];
+    for (const grade of grades) {
+      const gradeQuestions = await fetchAllQuestionsForGrade(grade, true, Math.floor(limit / grades.length));
+      allQuestions.push(...gradeQuestions);
+    }
+    return allQuestions;
+  }
+
+  const cacheKey = `bulk_${grades.join(',')}_${limit}`;
+  const cached = questionCache.get(cacheKey);
+  if (cached) {
+    console.log(`📦 Using cached bulk questions`);
+    return cached;
+  }
+
+  const headers = await getAuthHeaders();
+
+  try {
+    const gradesParam = grades.join(',');
+    const url = `${BULK_FUNCTION_URL}?mode=sample&grades=${gradesParam}&limit=${limit}&country=${COUNTRY_CODE}&exam=${EXAM_TYPE}`;
+    console.log(`⚡ Fetching bulk questions from: ${url.substring(0, 100)}...`);
+
+    const response = await fetch(url, {
+      headers,
+      cache: 'no-cache'
+    });
+
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+    }
+
+    const data = await response.json();
+
+    if (!data.questions || !Array.isArray(data.questions)) {
+      throw new Error('Invalid response structure from bulk endpoint');
+    }
+
+    // Transform API questions to App questions
+    const questions: AppQuestion[] = data.questions
+      .filter((q: APIQuestion) => q && q.statement && q.options)
+      .map((q: APIQuestion) => {
+        // Extract grade from question ID (e.g., "CO-MAT-11-...")
+        const gradeMatch = q.id.match(/-(\d+)-/);
+        const questionGrade = gradeMatch ? parseInt(gradeMatch[1]) : 11;
+
+        // Extract subject from bundle_id or tags
+        const subject = q.bundle_id?.split('-')[1] || 'matematicas';
+
+        return transformQuestion(q, questionGrade, subject);
+      });
+
+    questionCache.set(cacheKey, questions);
+
+    const guestInfo = data.is_guest ? ' (Guest mode)' : '';
+    console.log(`✅ Loaded ${questions.length} questions in 1 bulk request${guestInfo}`);
+    console.log(`📊 Performance: 50+ requests → 1 request (98% reduction)`);
+
+    return questions;
+  } catch (error) {
+    console.error('❌ Bulk endpoint error:', error);
+    // Fallback to sequential loading
+    console.warn('⚠️ Falling back to sequential loading');
+    const allQuestions: AppQuestion[] = [];
+    for (const grade of grades) {
+      try {
+        const gradeQuestions = await fetchAllQuestionsForGrade(grade, true, Math.floor(limit / grades.length));
+        allQuestions.push(...gradeQuestions);
+      } catch (err) {
+        console.error(`Failed to load grade ${grade}:`, err);
+      }
+    }
+    return allQuestions;
+  }
 }
 
 /**

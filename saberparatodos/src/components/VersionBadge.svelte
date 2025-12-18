@@ -5,6 +5,7 @@
   let buildInfo: any = null;
   let showUpdateNotification = false;
   let newVersion = '';
+  const CACHE_BUST = "v5-force-mime-fix";
 
   onMount(async () => {
     // Load build info
@@ -20,8 +21,9 @@
     // Register service worker for auto-updates
     if ('serviceWorker' in navigator) {
       try {
-        const registration = await navigator.serviceWorker.register('/sw-auto-update.js');
-        console.log('[PWA] Auto-update SW registered');
+        // Note: SW is registered in Layout.astro
+        const registration = await navigator.serviceWorker.ready;
+        console.log('[PWA] Using existing SW registration');
 
         // Listen for new version messages
         navigator.serviceWorker.addEventListener('message', (event) => {
@@ -38,9 +40,13 @@
         // Check for updates every 5 minutes
         setInterval(() => {
           registration.update();
+          // Also send message to SW to check build-info
+          if (registration.active) {
+            registration.active.postMessage({ type: 'CHECK_FOR_UPDATES' });
+          }
         }, 5 * 60 * 1000);
       } catch (error) {
-        console.error('[PWA] SW registration failed:', error);
+        console.error('[PWA] SW interaction failed:', error);
       }
     }
   });

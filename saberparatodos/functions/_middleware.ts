@@ -53,7 +53,12 @@ export const onRequest: PagesFunction<Env> = async (context) => {
   if (isWhitelisted) {
     const response = await context.next();
     response.headers.set("Access-Control-Allow-Origin", origin);
-    response.headers.set("Content-Type", "application/json");
+    
+    // Only set Content-Type to JSON if it's an API call
+    if (url.pathname.startsWith('/api/')) {
+      response.headers.set("Content-Type", "application/json");
+    }
+    
     return response;
   }
 

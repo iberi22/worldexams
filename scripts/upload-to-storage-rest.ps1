@@ -61,17 +61,17 @@ foreach ($file in $jsonFiles) {
     # Construir path relativo para Storage
     $relativePath = $file.FullName.Replace($apiPath, "").TrimStart("\").Replace("\", "/")
     $storagePath = "co/icfes/$relativePath"
-    
+
     Write-Host "`n📤 Uploading: $storagePath" -ForegroundColor Cyan
     Write-Host "   Local: $($file.Name) ($('{0:N2}' -f ($file.Length/1KB)) KB)" -ForegroundColor Gray
-    
+
     try {
         $fileContent = Get-Content $file.FullName -Raw
         $uploadUrl = "$baseUrl/object/$BucketName/$storagePath"
-        
+
         # Configurar Content-Type correcto
         $uploadHeaders["Content-Type"] = "application/json"
-        
+
         $response = Invoke-RestMethod -Uri $uploadUrl -Method Post -Headers $uploadHeaders -Body $fileContent
         Write-Host "   ✅ Subido exitosamente" -ForegroundColor Green
         $uploaded++

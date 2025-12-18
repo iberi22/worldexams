@@ -23,10 +23,33 @@ export const onRequest: PagesFunction<Env> = async (context) => {
 
   // 2. Allow public content routes without authentication
   // Static JSON files in /v1/ are public and don't require API key
+  // ⚠️ DEPRECATED: This static API should be disabled in production
+  // Use Edge Functions instead for better security and performance
   if (url.pathname.startsWith('/v1/') && url.pathname.endsWith('.json')) {
+    // Check if static API is disabled via environment variable
+    const DISABLE_STATIC_API = env.DISABLE_STATIC_API === 'true';
+
+    if (DISABLE_STATIC_API) {
+      return new Response(JSON.stringify({
+        error: "Endpoint Deprecated",
+        message: "This static API endpoint has been replaced. Please use the Edge Function: https://tzmrgvtptdtsjcugwqyq.supabase.co/functions/v1/get-questions",
+        migration_guide: "https://github.com/worldexams/worldexams/blob/main/docs/EDGE_FUNCTION_MIGRATION.md"
+      }), {
+        status: 410, // 410 Gone
+        headers: {
+          "Content-Type": "application/json",
+          "Access-Control-Allow-Origin": "*",
+          "X-Deprecated": "true",
+          "X-Replacement": "https://tzmrgvtptdtsjcugwqyq.supabase.co/functions/v1/get-questions"
+        }
+      });
+    }
+
     const response = await context.next();
     response.headers.set("Access-Control-Allow-Origin", "*");
     response.headers.set("Content-Type", "application/json");
+    response.headers.set("X-Deprecated", "true");
+    response.headers.set("X-Replacement", "https://tzmrgvtptdtsjcugwqyq.supabase.co/functions/v1/get-questions");
     return response;
   }
 

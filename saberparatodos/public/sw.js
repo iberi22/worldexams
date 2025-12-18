@@ -1,8 +1,11 @@
-// Service Worker para Party Mode PWA
-// Versión: 1.0.0
+// Service Worker Combined: PWA + Auto-Update
+// Version: 4.0.0 (Nuclear cache cleanup)
+// Updated: 2025-12-18 20:45 UTC
 
-const CACHE_NAME = 'party-mode-v1';
+const CACHE_NAME = 'saberparatodos-v4';
 const OFFLINE_URL = '/party';
+const BUILD_INFO_URL = '/build-info.json';
+const CHECK_INTERVAL = 5 * 60 * 1000; // 5 minutes
 
 const STATIC_ASSETS = [
   '/',
@@ -13,127 +16,150 @@ const STATIC_ASSETS = [
   '/icons/icon-512.png'
 ];
 
-// Install: cache static assets
+let currentBuildInfo = null;
+let isEnabled = false;
+
+// --- Auto-Update Logic ---
+
+async function loadCurrentBuildInfo() {
+  try {
+    const response = await fetch(BUILD_INFO_URL);
+    if (response.ok) {
+      currentBuildInfo = await response.json();
+      isEnabled = true;
+      console.log('[SW] Auto-Update enabled with build:', currentBuildInfo);
+    }
+  } catch (e) {
+    console.log('[SW] Auto-Update disabled (error loading build info)');
+    isEnabled = false;
+  }
+}
+
+async function checkForUpdates() {
+  if (!currentBuildInfo || !isEnabled) return;
+
+  try {
+    const response = await fetch(`${BUILD_INFO_URL}?t=${Date.now()}`, {
+      cache: 'no-cache'
+    });
+
+    if (response.ok) {
+      const newBuildInfo = await response.json();
+      if (newBuildInfo.commit !== currentBuildInfo.commit) {
+        console.log('[SW] New build detected!', newBuildInfo.commit);
+        await handleNewBuild(newBuildInfo);
+      }
+    }
+  } catch (e) {
+    console.warn('[SW] Update check failed', e);
+  }
+}
+
+async function handleNewBuild(newBuildInfo) {
+  // Clear all caches to ensure fresh content
+  const cacheNames = await caches.keys();
+  await Promise.all(cacheNames.map(name => caches.delete(name)));
+  console.log('[SW] Caches cleared for new build');
+
+  // Notify clients
+  const clients = await self.clients.matchAll();
+  clients.forEach(client => {
+    client.postMessage({
+      type: 'NEW_VERSION_AVAILABLE',
+      oldVersion: currentBuildInfo.version,
+      newVersion: newBuildInfo.version,
+      oldCommit: currentBuildInfo.commit,
+      newCommit: newBuildInfo.commit
+    });
+  });
+
+  currentBuildInfo = newBuildInfo;
+}
+
+// --- Lifecycle Events ---
+
 self.addEventListener('install', (event) => {
-  console.log('[SW] Installing service worker...');
-
+  console.log('[SW] Installing v4...');
   event.waitUntil(
-    caches.open(CACHE_NAME)
-      .then((cache) => {
-        console.log('[SW] Caching static assets');
-        return cache.addAll(STATIC_ASSETS);
-      })
-      .then(() => self.skipWaiting())
+    Promise.all([
+      caches.open(CACHE_NAME).then(cache => cache.addAll(STATIC_ASSETS)),
+      loadCurrentBuildInfo()
+    ]).then(() => self.skipWaiting())
   );
 });
 
-// Activate: clean up old caches
 self.addEventListener('activate', (event) => {
-  console.log('[SW] Activating service worker...');
-
+  console.log('[SW] Activating v4...');
   event.waitUntil(
-    caches.keys()
-      .then((cacheNames) => {
-        return Promise.all(
-          cacheNames.map((cacheName) => {
-            if (cacheName !== CACHE_NAME) {
-              console.log('[SW] Deleting old cache:', cacheName);
-              return caches.delete(cacheName);
-            }
-          })
-        );
-      })
-      .then(() => self.clients.claim())
+    caches.keys().then(cacheNames => {
+      return Promise.all(
+        cacheNames.map(cacheName => {
+          console.log('[SW] Deleting old cache:', cacheName);
+          return caches.delete(cacheName);
+        })
+      );
+    }).then(() => {
+      if (isEnabled) {
+        setInterval(checkForUpdates, CHECK_INTERVAL);
+      }
+      return self.clients.claim();
+    })
   );
 });
 
-// Fetch: network first, then cache
+self.addEventListener('message', (event) => {
+  if (event.data.type === 'CHECK_FOR_UPDATES') {
+    checkForUpdates();
+  }
+  if (event.data.type === 'SKIP_WAITING') {
+    self.skipWaiting();
+  }
+});
+
+// --- Fetch Strategy: Network First ---
+
 self.addEventListener('fetch', (event) => {
-  // Skip non-GET requests
+  // Skip non-GET
   if (event.request.method !== 'GET') return;
 
-  // Skip Supabase requests (always go to network)
-  if (event.request.url.includes('supabase.co')) {
+  // Skip Supabase
+  if (event.request.url.includes('supabase.co')) return;
+
+  // Build Info: Network Only
+  if (event.request.url.includes('build-info.json')) {
+    event.respondWith(fetch(event.request));
     return;
   }
 
   event.respondWith(
     fetch(event.request)
-      .then((response) => {
-        // Clone response before caching
-        const responseClone = response.clone();
+      .then(response => {
+        // If we get a 404 or error, don't cache it
+        if (!response || response.status !== 200) {
+          return response;
+        }
 
         // Cache successful responses
-        if (response.status === 200) {
-          caches.open(CACHE_NAME).then((cache) => {
+        if (response.type === 'basic' || response.url.includes(self.location.origin)) {
+          const responseClone = response.clone();
+          caches.open(CACHE_NAME).then(cache => {
             cache.put(event.request, responseClone);
           });
         }
-
         return response;
       })
       .catch(() => {
         // Network failed, try cache
         return caches.match(event.request)
-          .then((cachedResponse) => {
-            if (cachedResponse) {
-              return cachedResponse;
+          .then(cachedResponse => {
+            if (cachedResponse) return cachedResponse;
+
+            // Fallback to offline page for navigation requests
+            if (event.request.mode === 'navigate') {
+              return caches.match(OFFLINE_URL);
             }
-
-            // If not in cache, return offline page
-            return caches.match(OFFLINE_URL);
+            return null;
           });
-      })
-  );
-});
-
-// Background sync for offline answers (optional)
-self.addEventListener('sync', (event) => {
-  if (event.tag === 'sync-answers') {
-    event.waitUntil(syncAnswers());
-  }
-});
-
-async function syncAnswers() {
-  // TODO: Sync offline answers when back online
-  console.log('[SW] Syncing offline answers...');
-}
-
-// Push notifications (future)
-self.addEventListener('push', (event) => {
-  const data = event.data?.json() || {};
-  const title = data.title || 'Party Mode';
-  const options = {
-    body: data.body || 'Nueva notificación',
-    icon: '/icons/icon-192.png',
-    badge: '/icons/icon-192.png',
-    vibrate: [200, 100, 200],
-    data: data.url
-  };
-
-  event.waitUntil(
-    self.registration.showNotification(title, options)
-  );
-});
-
-self.addEventListener('notificationclick', (event) => {
-  event.notification.close();
-
-  const urlToOpen = event.notification.data || '/party';
-
-  event.waitUntil(
-    clients.matchAll({ type: 'window', includeUncontrolled: true })
-      .then((clientList) => {
-        // Check if already open
-        for (const client of clientList) {
-          if (client.url === urlToOpen && 'focus' in client) {
-            return client.focus();
-          }
-        }
-        // Open new window
-        if (clients.openWindow) {
-          return clients.openWindow(urlToOpen);
-        }
       })
   );
 });
