@@ -137,9 +137,9 @@ export const GET: APIRoute = async ({ params }) => {
       const variants = Array.from(questionMatches);
 
       // Use first variant (v1) as default
-      const questionText = extractSection(body, '### Enunciado', '### Opciones') || entry.data.id;
-      const optionsText = extractSection(body, '### Opciones', '### Explicación') || '';
-      const explanation = extractSection(body, '### Explicación Pedagógica', '---') || '';
+      const questionText = extractSection(body, '### Enunciado', '###') || entry.data.id;
+      const optionsText = extractSection(body, '### Opciones', '###') || '';
+      const explanation = extractSection(body, '### Explicación', '---') || '';
 
       // Debug: Log extracted sections for first math question
       if (entry.data.asignatura?.toLowerCase().includes('mat') && index === 0) {
@@ -250,9 +250,10 @@ function parseOptions(optionsText: string): Array<{ letter: string; text: string
     console.warn(`Lines:`, lines);
   }
 
-  for (const line of lines) {
-    // Regex matches: - [x] A) text or - [ ] B) text
-    const match = line.match(/^-\s*\[(x| )\]\s*([A-D])\)\s*(.+)$/i);
+  for (const rawLine of lines) {
+    const line = rawLine.trim();
+    // Regex matches: - [x] A) text OR * [ ] A. text (mixed formats)
+    const match = line.match(/^\s*[-\*]\s*\[([xX\s])\]\s*([A-D])[)\.]\s*(.+)$/i);
     if (match) {
       options.push({
         letter: match[2].toUpperCase(),
@@ -260,6 +261,7 @@ function parseOptions(optionsText: string): Array<{ letter: string; text: string
         is_correct: match[1].toLowerCase() === 'x'
       });
     } else {
+      console.warn(`⚠️ parseOptions NO MATCH: "${line}"`);
       // Log lines that don't match (for debugging)
       if (line.includes('A)') || line.includes('B)') || line.includes('C)') || line.includes('D)')) {
         console.warn(`⚠️ parseOptions: Line didn't match regex: "${line}"`);

@@ -1,12 +1,12 @@
 {
   "name": "saberparatodos",
   "type": "module",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "scripts": {
-    "predev": "pwsh -File scripts/copy-api.ps1",
+    "predev": "",
     "dev": "astro dev",
     "start": "astro dev",
-    "prebuild": "node scripts/generate-build-info.js && pwsh -File scripts/copy-api.ps1",
+    "prebuild": "node scripts/generate-build-info.js",
     "build": "astro build",
     "postbuild": "pagefind --site dist",
     "preview": "astro preview",

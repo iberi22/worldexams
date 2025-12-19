@@ -105,7 +105,7 @@ export function parseQuestion(entry: QuestionEntry): Question {
 
   const optionLines = optionsBlock.split('\n');
   optionLines.forEach(line => {
-    const match = line.match(/- \[(x| )\] ([A-Z])\) (.*)/);
+    const match = line.match(/^\s*-\s*\[([xX\s])\]\s*([A-Z])\)\s*(.*)/);
     if (match) {
       const isCorrect = match[1] === 'x';
       const id = match[2];
@@ -191,7 +191,7 @@ function parseQuestionSection(
 
   const optionLines = optionsBlock.split('\n');
   optionLines.forEach(line => {
-    const match = line.match(/- \[(x| )\] ([A-Z])\)\s*(.*)/);
+    const match = line.match(/^\s*-\s*\[([xX\s])\]\s*([A-Z])\)\s*(.*)/i);
     if (match) {
       const isCorrect = match[1].toLowerCase() === 'x';
       const id = match[2];

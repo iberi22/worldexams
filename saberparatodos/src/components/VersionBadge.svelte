@@ -5,18 +5,53 @@
   let buildInfo: any = null;
   let showUpdateNotification = false;
   let newVersion = '';
-  const CACHE_BUST = "v5-force-mime-fix";
+  const CACHE_BUST = "v6-auto-refresh";
+  const LOCAL_VERSION = packageInfo.version;
 
-  onMount(async () => {
-    // Load build info
+  // Compare semantic versions (returns true if v1 < v2)
+  function isNewerVersion(local: string, remote: string): boolean {
+    const localParts = local.split('.').map(Number);
+    const remoteParts = remote.split('.').map(Number);
+
+    for (let i = 0; i < Math.max(localParts.length, remoteParts.length); i++) {
+      const l = localParts[i] || 0;
+      const r = remoteParts[i] || 0;
+      if (r > l) return true;
+      if (r < l) return false;
+    }
+    return false;
+  }
+
+  async function checkForUpdates() {
     try {
-      const response = await fetch('/build-info.json');
+      const response = await fetch('/build-info.json?t=' + Date.now(), {
+        cache: 'no-store',
+        headers: { 'Cache-Control': 'no-cache' }
+      });
       if (response.ok) {
-        buildInfo = await response.json();
+        const serverInfo = await response.json();
+        buildInfo = serverInfo;
+
+        // Compare versions
+        if (serverInfo.version && isNewerVersion(LOCAL_VERSION, serverInfo.version)) {
+          console.log(`[Update] New version detected: ${LOCAL_VERSION} → ${serverInfo.version}`);
+          newVersion = serverInfo.version;
+          showUpdateNotification = true;
+        } else {
+          console.log(`[Version] Current: ${LOCAL_VERSION}, Server: ${serverInfo.version}`);
+        }
       }
     } catch (e) {
-      console.warn('Could not load build info');
+      console.warn('Could not check for updates:', e);
     }
+  }
+
+  onMount(async () => {
+    // Initial check for updates
+    await checkForUpdates();
+
+    // Check for updates every 30 seconds (faster than before)
+    const updateInterval = setInterval(checkForUpdates, 30 * 1000);
 
     // Register service worker for auto-updates
     if ('serviceWorker' in navigator) {
@@ -37,18 +72,20 @@
         // Check for updates immediately
         registration.update();
 
-        // Check for updates every 5 minutes
+        // Check for updates every 2 minutes via SW
         setInterval(() => {
           registration.update();
           // Also send message to SW to check build-info
           if (registration.active) {
             registration.active.postMessage({ type: 'CHECK_FOR_UPDATES' });
           }
-        }, 5 * 60 * 1000);
+        }, 2 * 60 * 1000);
       } catch (error) {
         console.error('[PWA] SW interaction failed:', error);
       }
     }
+
+    return () => clearInterval(updateInterval);
   });
 
   function reloadApp() {

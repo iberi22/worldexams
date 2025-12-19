@@ -527,38 +527,27 @@ export async function fetchAllQuestionsForGrade(
  * ⚡ NEW: Fetch questions in bulk for multiple grades (Blog View optimization)
  * Reduces 50+ requests to 1 single request
  */
+/**
+ * ⚡ NEW: Fetch questions in bulk for multiple grades (Blog View optimization)
+ * Uses the static initial-pack.json generated at build time
+ */
 export async function fetchBulkQuestions(
   grades: number[],
   limit: number = 150
 ): Promise<AppQuestion[]> {
-  if (!USE_BULK_FOR_BLOG) {
-    console.warn('⚠️ Bulk endpoint disabled, falling back to sequential loading');
-    const allQuestions: AppQuestion[] = [];
-    for (const grade of grades) {
-      const gradeQuestions = await fetchAllQuestionsForGrade(grade, true, Math.floor(limit / grades.length));
-      allQuestions.push(...gradeQuestions);
-    }
-    return allQuestions;
-  }
-
-  const cacheKey = `bulk_${grades.join(',')}_${limit}`;
+  const cacheKey = `bulk_initial_pack`;
   const cached = questionCache.get(cacheKey);
   if (cached) {
     console.log(`📦 Using cached bulk questions`);
     return cached;
   }
 
-  const headers = await getAuthHeaders();
+  // Use the static file we generated
+  const url = `/api/cache/initial-pack.json?t=${Date.now()}`;
+  console.log(`⚡ Fetching bulk questions from static cache: ${url}`);
 
   try {
-    const gradesParam = grades.join(',');
-    const url = `${BULK_FUNCTION_URL}?mode=sample&grades=${gradesParam}&limit=${limit}&country=${COUNTRY_CODE}&exam=${EXAM_TYPE}`;
-    console.log(`⚡ Fetching bulk questions from: ${url.substring(0, 100)}...`);
-
-    const response = await fetch(url, {
-      headers,
-      cache: 'no-cache'
-    });
+    const response = await fetch(url, { cache: 'no-cache' });
 
     if (!response.ok) {
       throw new Error(`HTTP ${response.status}: ${response.statusText}`);
@@ -567,44 +556,28 @@ export async function fetchBulkQuestions(
     const data = await response.json();
 
     if (!data.questions || !Array.isArray(data.questions)) {
-      throw new Error('Invalid response structure from bulk endpoint');
+      throw new Error('Invalid response structure from initial-pack.json');
     }
 
     // Transform API questions to App questions
     const questions: AppQuestion[] = data.questions
       .filter((q: APIQuestion) => q && q.statement && q.options)
       .map((q: APIQuestion) => {
-        // Extract grade from question ID (e.g., "CO-MAT-11-...")
-        const gradeMatch = q.id.match(/-(\d+)-/);
-        const questionGrade = gradeMatch ? parseInt(gradeMatch[1]) : 11;
-
-        // Extract subject from bundle_id or tags
-        const subject = q.bundle_id?.split('-')[1] || 'matematicas';
+        // q in initial-pack has 'grade' and 'subject' fields directly
+        const questionGrade = (q as any).grade || 11;
+        const subject = (q as any).subject || 'matematicas';
 
         return transformQuestion(q, questionGrade, subject);
       });
 
     questionCache.set(cacheKey, questions);
-
-    const guestInfo = data.is_guest ? ' (Guest mode)' : '';
-    console.log(`✅ Loaded ${questions.length} questions in 1 bulk request${guestInfo}`);
-    console.log(`📊 Performance: 50+ requests → 1 request (98% reduction)`);
+    console.log(`✅ Loaded ${questions.length} questions from initial-pack.json`);
 
     return questions;
   } catch (error) {
-    console.error('❌ Bulk endpoint error:', error);
-    // Fallback to sequential loading
-    console.warn('⚠️ Falling back to sequential loading');
-    const allQuestions: AppQuestion[] = [];
-    for (const grade of grades) {
-      try {
-        const gradeQuestions = await fetchAllQuestionsForGrade(grade, true, Math.floor(limit / grades.length));
-        allQuestions.push(...gradeQuestions);
-      } catch (err) {
-        console.error(`Failed to load grade ${grade}:`, err);
-      }
-    }
-    return allQuestions;
+    console.error('❌ Bulk static fetch error:', error);
+    // Fallback? Probably empty array or throw, as this file should exist.
+    return [];
   }
 }
 
