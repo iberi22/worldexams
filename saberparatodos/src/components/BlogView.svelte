@@ -113,10 +113,10 @@
   function getItemsWithAds(items: Question[]) {
     const result = [];
     for (let i = 0; i < items.length; i++) {
-        result.push({ type: 'question', data: items[i] });
+        result.push({ type: 'question', id: items[i].id, data: items[i] });
       // Insert ad every 6 items
       if ((i + 1) % 6 === 0) {
-        result.push({ type: 'ad', id: `ad-${i}` });
+        result.push({ type: 'ad', id: `ad-${i}`, data: null });
       }
     }
     return result;
@@ -278,7 +278,7 @@
   {:else}
     <!-- Grid -->
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-      {#each visibleItems as item (item.type === 'question' ? item.data.id : item.id)}
+      {#each visibleItems as item (item.id)}
         {#if item.type === 'question'}
           <FlashlightCard
             onClick={() => onSelect(item.data)}

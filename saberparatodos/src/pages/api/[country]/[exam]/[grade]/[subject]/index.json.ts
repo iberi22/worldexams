@@ -32,7 +32,7 @@ export async function getStaticPaths() {
   const paths: Array<{ params: { country: string; exam: string; grade: string; subject: string } }> = [];
 
   for (const entry of entries) {
-    const country = String(entry.data.country || '').toUpperCase();
+    const country = String(entry.data.country || '').toLowerCase();
     const grade = String(entry.data.grado ?? '');
     const subject = slugifySubject(String(entry.data.asignatura || ''));
 

@@ -32,7 +32,7 @@ export async function getStaticPaths() {
   const groups = new Map<string, { country: string; grade: string; subject: string; count: number }>();
 
   for (const entry of entries) {
-    const country = String(entry.data.country || '').toUpperCase();
+    const country = String(entry.data.country || '').toLowerCase();
     const grade = String(entry.data.grado ?? '');
     const subject = slugifySubject(String(entry.data.asignatura || ''));
     if (!country || !grade || !subject) continue;
