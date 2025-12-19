@@ -436,11 +436,10 @@
 
       console.log(`📊 Available questions in pool: ${availableQuestions.length}`);
 
-      // Use cache service to generate random exam
+      // Use cache service to generate random exam (pool is already filtered above)
       const examQuestions = generateRandomExam(
         availableQuestions,
-        config.count,
-        selectedSubject ? [selectedSubject] : undefined
+        config.count
       );
 
       // Wait for animation to finish
