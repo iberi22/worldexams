@@ -64,6 +64,7 @@
   let loadError = null;
   let showExamConfigModal = false; // New state
   let isIntegrityCheck = false; // Integrity check state
+  let isPreparingExam = false; // Controls IntegrityIntro loading state
   let generatedExamQuestions = null; // Store smart generated questions
   let examConfig = { count: 10, mode: 'SOLO' }; // New state
 
@@ -413,6 +414,8 @@
 
     // SOLO Mode: Start Integrity Check + Smart Fetch
     isIntegrityCheck = true;
+    isPreparingExam = true;
+
     // Note: isLoadingQuestions is managed by loadQuestionsForExam internally
     generatedExamQuestions = null; // Reset
 
@@ -447,9 +450,12 @@
 
       if (examQuestions && examQuestions.length > 0) {
         generatedExamQuestions = examQuestions;
+        // Pre-assign to currentExamQuestions just in case
+        // But the view switch happens in IntegrityIntro on:complete
         console.log(`✅ Exam Ready: ${examQuestions.length} questions (0 API calls)`);
-        // IntegrityIntro will detect loading=false and dispatch complete
-        isLoadingQuestions = false;
+
+        // Signal IntegrityIntro to finish
+        isPreparingExam = false;
       } else {
         console.warn("⚠️ No questions available for this subject/grade combination");
         throw new Error("No hay preguntas disponibles. Por favor, intenta con otra asignatura.");
@@ -458,7 +464,7 @@
       console.error('Error generating exam:', error);
       alert(error.message || 'Error al generar el examen. Por favor intenta de nuevo.');
       isIntegrityCheck = false;
-      isLoadingQuestions = false;
+      isPreparingExam = false;
       setView(AppView.SUBJECT_SELECTION);
     }
   }
@@ -829,9 +835,8 @@
     />
   {/if}
 
-  <!-- Integrity Check Animation -->
   {#if isIntegrityCheck}
-    <IntegrityIntro loading={isLoadingQuestions} on:complete={() => {
+    <IntegrityIntro loading={isPreparingExam} on:complete={() => {
       isIntegrityCheck = false;
       if (generatedExamQuestions && generatedExamQuestions.length > 0) {
         setView(AppView.EXAM);
