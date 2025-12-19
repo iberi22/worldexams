@@ -525,12 +525,14 @@
             Salir
           </button>
         {:else}
+          <!--
           <button
             on:click={() => setView(AppView.LOGIN)}
             class="px-3 py-1.5 text-xs uppercase tracking-widest border border-emerald-500/50 text-emerald-500 hover:bg-emerald-500/10 transition-colors rounded"
           >
             Ingresar
           </button>
+          -->
         {/if}
         <AdvancedSearch questions={loadedQuestions} />
       </div>
