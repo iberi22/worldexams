@@ -448,25 +448,25 @@ export async function fetchAllQuestionsForGrade(
 
       if (!indexResponse || !indexResponse.ok) {
         console.warn(`No index found for ${subject} (tried ${uniqueVariants.length} variants), trying page 1 only`);
-        // Always use Edge Function
+        // Fallback to page 1 via standard fetch (works for static too)
         try {
-          subjectQuestions = await fetchQuestionsFromEdge(grade, subject, 1);
+          // Use fetchQuestions (Static preferred) instead of forced Edge
+          subjectQuestions = await fetchQuestions(grade, subject, 1);
         } catch (error) {
-          console.error(`Failed to fetch ${subject} from Edge Function:`, error);
-          // Skip this subject if Edge Function fails
+          console.error(`Failed to fetch ${subject} from static API:`, error);
           continue;
         }
       } else {
         const index: APISubjectIndex = await indexResponse.json();
 
-        // Fetch all pages for this subject from Edge Function
+        // Fetch pages using static API instead of Edge Function
+        // Used to default to Edge, but switched to Static to avoid 401 auth errors for guests
         for (let page = 1; page <= (index?.total_pages || 1); page++) {
           try {
-            const pageQuestions = await fetchQuestionsFromEdge(grade, subject, page);
+            const pageQuestions = await fetchQuestions(grade, subject, page);
             subjectQuestions.push(...pageQuestions);
           } catch (error) {
             console.error(`Failed to fetch ${subject} page ${page}:`, error);
-            // Continue with other pages
           }
         }
       }
