@@ -5,11 +5,11 @@ country: "co"
 grado: 5
 asignatura: "Lectura Crítica"
 tema: "Textos Informativos"
-protocol_version: "2.1"
-bundle_version: "2.1"
-total_questions: 7
+protocol_version: "3.0"
+
+total_questions: 11
 estado: "published"
-creador: "Antigravity"
+creador: "Jules"
 generation_date: "2025-12-13"
 
 # === LICENSING (NEW v2.1) ===
@@ -31,6 +31,13 @@ original_answer: "Producir miel y polinizar"
 > **Fuente:** ICFES (Adaptada)
 > **Tema:** Comprensión de textos expositivos (Ciencia/Naturaleza)
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -64,6 +71,13 @@ El texto lo dice explícitamente en la segunda oración: "Sin embargo, su funci�
 
 **Competencia evaluada:** Recuperación de información explícita (Comprensión literal).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -84,6 +98,13 @@ Según el texto, ¿qué buscan las abejas cuando van de flor en flor?
 
 Pregunta literal simple. El texto dice: "Al volar de flor en flor buscando **néctar**...".
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -104,6 +125,13 @@ Pregunta literal simple. El texto dice: "Al volar de flor en flor buscando **né
 
 Información explícita: "...las abejas transportan **polen** en sus patas. Este polen fecunda las plantas...".
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -124,6 +152,13 @@ El texto dice: "Sin las abejas, muchos de los alimentos... desaparecerían". Est
 
 El autor establece una relación de **causa-efecto** (sin polinización -> no hay frutos). Su intención es informar sobre una consecuencia real y seria, no entretener ni opinar subjetivamente.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -144,6 +179,13 @@ El autor establece una relación de **causa-efecto** (sin polinización -> no ha
 
 El texto presenta **hechos reales** y datos sobre las abejas con el fin de informar y explicar un proceso natural. No cuenta una historia con personajes (narrativo) ni expresa sentimientos en verso (lírico).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -164,6 +206,13 @@ Si las abejas desaparecieran, ¿cuál sería el efecto directo en la agricultura
 
 Pregunta inferencial basada en la relación causal. Si el polen permite que "nazcan frutos y semillas", sin polen (sin abejas) no habría nacimientos de estos frutos. Por tanto, la agricultura de frutas caería.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -186,14 +235,42 @@ La expresión "Sin embargo" se utiliza para:
 
 **Competencia gramatical/textual:** El conector "**Sin embargo**" es un conector de contraste u oposición. El autor venía diciendo que producen miel (lo que todos saben), PERO (contraste) aclara que hay algo más importante (la polinización).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

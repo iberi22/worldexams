@@ -4,10 +4,10 @@ country: "co"
 grado: 11
 asignatura: "lectura-critica"
 tema: "ensayo-filosofico"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 estado: "published"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-12-14"
 source: "Estanislao Zuleta"
 source_url: "https://www.utadeo.edu.co/files/collections/documents/field_attached_file/elogio_a_la_dificultad_-_estanislao_zuleta.pdf"
@@ -31,6 +31,13 @@ licenses:
 
 "Puede decirse que nuestro problema no consiste solamente ni principalmente en que no seamos capaces de conquistar lo que nos proponemos, sino en aquello que nos proponemos: que nuestra desgracia no está tanto en la frustración de nuestros deseos, como en la forma misma de desear. Deseamos mal. En lugar de desear una relación humana inquietante, compleja y perdible, que estimule nuestra capacidad de luchar y nos obligue a cambiar, deseamos un idilio sin sombras y sin peligros, un nido de amor, y por lo tanto, en última instancia un retorno al huevo. En vez de desear una sociedad en la que sea realizable y necesario trabajar arduamente para hacer efectivas nuestras posibilidades, deseamos un mundo de satisfacción, una monstruosa sala-cuna de abundancia pasivamente recibida."
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -52,6 +59,13 @@ Según el texto, la expresión "deseamos mal" se refiere fundamentalmente a que:
 - C) No habla de moralidad en ese sentido.
 - D) No menciona materialismo vs espiritualidad, sino dificultad vs facilidad pasiva.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 2)
@@ -71,6 +85,13 @@ Según el texto, la expresión "deseamos mal" se refiere fundamentalmente a que:
 **Distractores:**
 - B, C, D) Son lo opuesto a lo que describe esa imagen; son lo que *deberíamos* desear según el autor.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 2)
@@ -92,6 +113,13 @@ Según el texto, la expresión "deseamos mal" se refiere fundamentalmente a que:
 - C) Interpretación literal absurda.
 - D) No mencionado.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -111,6 +139,13 @@ De acuerdo con el texto, una relación humana valiosa debería ser:
 **Distractores:**
 - B, C, D) Describen lo que el autor critica como "deseamos mal".
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -132,6 +167,13 @@ La tesis central del fragmento es que:
 - C) Critica esa sociedad como "monstruosa sala-cuna".
 - D) Critica esa visión como "retorno al huevo".
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 4)
@@ -151,6 +193,13 @@ Al utilizar el término "monstruosa" para calificar la "sala-cuna de abundancia"
 **Distractores:**
 - C) No critica la abundancia per se, sino la forma *pasiva* de recibirla que elimina el esfuerzo vital.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -172,15 +221,57 @@ Al utilizar el término "monstruosa" para calificar la "sala-cuna de abundancia"
 - C) Podría ser un argumento psicológico, pero A es el filosófico directo (hedonismo).
 - D) Irrelevante para el debate dificultad/facilidad.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|-------|-------|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

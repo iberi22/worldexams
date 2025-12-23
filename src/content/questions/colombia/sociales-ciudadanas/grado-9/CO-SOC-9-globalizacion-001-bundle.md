@@ -5,11 +5,11 @@ country: "co"
 grado: 9
 asignatura: "sociales-ciudadanas"
 tema: "Globalización y Economía"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
 estado: "draft"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-12-14"
 source: "OpenTDB"
 source_license: "CC BY-SA 4.0"
@@ -27,6 +27,13 @@ licenses:
 
 > **Fuente:** OpenTDB (CC BY-SA 4.0)
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -44,6 +51,13 @@ La globalización económica actual se caracteriza fundamentalmente por:
 ### Explicación Pedagógica
 La globalización conecta mercados, producción y consumo a escala planetaria, facilitada por la tecnología y las políticas de libre comercio (neoliberalismo).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -61,6 +75,13 @@ La globalización conecta mercados, producción y consumo a escala planetaria, f
 ### Explicación Pedagógica
 Los TLC buscan aumentar el intercambio comercial reduciendo las barreras proteccionistas entre las naciones socias.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -78,6 +99,13 @@ Los TLC buscan aumentar el intercambio comercial reduciendo las barreras protecc
 ### Explicación Pedagógica
 Las multinacionales (como Coca-Cola, Toyota, Google) son los motores de la economía globalizada, produciendo y vendiendo en todo el mundo.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -95,6 +123,13 @@ Una crítica común a la globalización económica desde los movimientos sociale
 ### Explicación Pedagógica
 Los críticos señalan que la globalización beneficia desproporcionadamente a las grandes corporaciones y países desarrollados, a menudo a costa de los derechos laborales y el medio ambiente en países en desarrollo.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -112,6 +147,13 @@ Los críticos señalan que la globalización beneficia desproporcionadamente a l
 ### Explicación Pedagógica
 Bajo el gobierno de César Gaviria, Colombia abandonó el modelo proteccionista (ISI) para integrarse al mercado mundial, lo que trajo mayor oferta de productos pero quebró a muchas industrias y sectores agrícolas locales poco competitivos.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -129,6 +171,13 @@ El concepto de "Aldea Global" propuesto por Marshall McLuhan se refiere principa
 ### Explicación Pedagógica
 Es un concepto cultural y comunicativo: la información viaja tan rápido que el mundo se "encoge", y nos enteramos de lo que pasa en China o Ucrania como si fueran nuestros vecinos.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -146,11 +195,32 @@ Analice el impacto de la globalización en la identidad cultural. ¿Cuál de las
 ### Explicación Pedagógica
 Aunque hay una tendencia a consumir los mismos productos culturales (cine, música, moda), también surge una reacción de defensa de lo propio, o mezclas híbridas donde lo global se adapta a lo local.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 # === Metadata de Validación ===
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -160,8 +230,29 @@ Aunque hay una tendencia a consumir los mismos productos culturales (cine, músi
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Tipo | Bundle |
 | Cantidad | 7 Preguntas |
 | Dificultad | Variada (1-5) |
 | Versión Protocolo | 2.1 |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

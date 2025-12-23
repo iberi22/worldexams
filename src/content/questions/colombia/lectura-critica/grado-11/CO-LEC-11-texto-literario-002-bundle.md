@@ -4,10 +4,10 @@ country: "co"
 grado: 11
 asignatura: "lectura-critica"
 tema: "texto-literario"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 estado: "published"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-12-14"
 source: "José Eustasio Rivera"
 source_url: "http://www.cervantesvirtual.com/obra-visor/la-voragine--0/html/"
@@ -31,6 +31,13 @@ licenses:
 
 "Antes que me hubiera apasionado por mujer alguna, jugué mi corazón al azar, y me lo ganó la violencia."
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -51,6 +58,13 @@ Esta frase icónica sugiere que el destino del protagonista:
 - B) "Jugar al azar" es metáfora de riesgo vital, no de éxito en apuestas.
 - D) Es al contrario: antes del amor, ya estaba la violencia.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -70,6 +84,13 @@ Según el fragmento, ¿quién se "ganó" el corazón del narrador?
 **Distractores:**
 - C) El azar fue el medio ("jugué... al azar"), la violencia fue quien ganó.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 2)
@@ -87,6 +108,13 @@ Según el fragmento, ¿quién se "ganó" el corazón del narrador?
 ### Explicación Pedagógica
 **Correcta:** A. La estructura temporal es explícita: "Antes que... jugué mi corazón".
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -106,6 +134,13 @@ La expresión "jugué mi corazón al azar" implica una actitud de:
 **Distractores:**
 - B) Es lo opuesto al azar.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -125,6 +160,13 @@ En este contexto, la "violencia" se presenta no como un acto externo, sino como:
 **Distractores:**
 - B, C, D) Reducciones simplistas que ignoran la carga poética.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 4)
@@ -144,6 +186,13 @@ Esta frase prefigura el tema central de la novela *La Vorágine*, que es:
 **Distractores:**
 - B) En La Vorágine no triunfa el amor civilizado.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -163,15 +212,57 @@ Gramaticalmente, el uso del subjuntivo "hubiera apasionado" indica que la acció
 **Distractores:**
 - B) Arturo Cova sí se apasiona después (por Alicia), así que no es que "nunca ocurrirá", sino que *en ese momento* la violencia llegó primero.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|-------|-------|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

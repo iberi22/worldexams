@@ -4,19 +4,33 @@ country: "CO"
 grado: 11
 asignatura: "ingles"
 tema: "vocabulary-environment"
-protocol_version: "2.1"
-total_questions: 7
+protocol_version: "3.0"
+total_questions: 11
 estado: "draft"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-11-30"
 source: "AI-Generated"
 source_license: "CC BY-NC-SA 4.0"
-bundle_version: "2.1"
+
 ---
 
 # === METADATA GLOBAL ===
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Nivel Dificultad | 1-5 |
 | Estándar | MEN-ING-11 |
 | Licencia | CC BY-NC-SA 4.0 |
@@ -25,6 +39,13 @@ bundle_version: "2.1"
 
 > **Fuente:** AI-Generated (CC BY-NC-SA 4.0)
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -47,6 +68,13 @@ Read the definition and choose the correct word.
 - **C) Recycling:** Incorrect. Processing waste into new products.
 - **D) Population:** Incorrect. The number of people in an area.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -69,6 +97,13 @@ Choose the correct option to complete the sentence.
 - **C) plastic:** Incorrect. Plastic waste harms the environment.
 - **D) trash:** Incorrect. Waste material.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -91,6 +126,13 @@ Read the definition and choose the correct word.
 - **C) Lake:** Incorrect. A body of fresh water surrounded by land.
 - **D) Pond:** Incorrect. A small body of still water.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -113,6 +155,13 @@ Complete the sentence with the correct word.
 - **C) freezing:** Incorrect. Turning into ice.
 - **D) raining:** Incorrect. Precipitation.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -135,6 +184,13 @@ Choose the word that matches the definition.
 - **C) Wild pets:** Incorrect. Contradictory term.
 - **D) Farm animals:** Incorrect. Animals raised for food or work.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -157,6 +213,13 @@ Complete the sentence with the correct preposition.
 - **C) on:** Incorrect.
 - **D) with:** Incorrect.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -179,12 +242,47 @@ Choose the correct option to complete the sentence.
 - **C) took:** Incorrect. Past tense would imply a hypothetical situation (Second Conditional), requiring "would" in the main clause.
 - **D) would take:** Incorrect. Conditional form not used in the if/unless clause.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|-------|-------|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -196,7 +294,21 @@ Choose the correct option to complete the sentence.
 # === Metadata de Validación ===
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -206,7 +318,35 @@ Choose the correct option to complete the sentence.
 ## 📊 Metadata de Validación
 
 | Pregunta | ID | Dificultad | Validado |
-|---|---|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | 1 | CO-ING-11-part1-005-v1 | 3 | ⬜ |
 | 2 | CO-ING-11-part1-005-v2 | 1 | ⬜ |
 | 3 | CO-ING-11-part1-005-v3 | 1 | ⬜ |
@@ -214,3 +354,10 @@ Choose the correct option to complete the sentence.
 | 5 | CO-ING-11-part1-005-v5 | 3 | ⬜ |
 | 6 | CO-ING-11-part1-005-v6 | 5 | ⬜ |
 | 7 | CO-ING-11-part1-005-v7 | 5 | ⬜ |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

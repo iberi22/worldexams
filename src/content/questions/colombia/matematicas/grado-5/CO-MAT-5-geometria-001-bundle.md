@@ -4,10 +4,10 @@ country: "co"
 grado: 5
 asignatura: "matematicas"
 tema: "Geometría (Área y Perímetro)"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 estado: "published"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-12-14"
 source: "Escuela Primaria / Colombia Aprende"
 source_url: "https://escuelaprimaria.net/perimetro-y-area-de-figuras-planas-para-quinto-de-primaria/"
@@ -31,6 +31,13 @@ licenses:
 
 La escuela "Los Libertadores" quiere cercar un jardín rectangular para que los niños cuiden las plantas. El jardín tiene 8 metros de largo y 4 metros de ancho.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -54,6 +61,13 @@ $P = 2 \times (8 + 4) = 2 \times 12 = 24$ metros.
 - C) Calcula el área ($8 \times 4$).
 - D) Suma solo los lados largos u error de cálculo.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -75,6 +89,13 @@ $P = 2 \times (8 + 4) = 2 \times 12 = 24$ metros.
 - C) Tres lados.
 - D) Redondo.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -96,6 +117,13 @@ $4 \times 5 = 20$.
 - B) Suma de dos lados.
 - C) Área ($5 \times 5$).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -118,6 +146,13 @@ $8 \times 4 = 32 \text{ m}^2$.
 - C) Suma de lados.
 - D) Cuadrado del lado mayor.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -139,6 +174,13 @@ Si se quiere cubrir el suelo de una cancha de fútbol de salón que mide 20 metr
 - C) Suma simple.
 - D) Error de cálculo.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -161,6 +203,13 @@ $50 = 10 \times \text{Ancho} \rightarrow \text{Ancho} = 50 / 10 = 5$.
 - C) Resta (50 - 10).
 - D) Multiplicación (50 * 10).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -183,15 +232,57 @@ Costo: $18 \times 10.000 = 180.000$.
 - C) Calculó mal el área o el precio.
 - D) Sumó lados (perímetro) y precio incorrecto.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|-------|-------|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

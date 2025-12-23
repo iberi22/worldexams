@@ -4,10 +4,10 @@ country: "co"
 grado: 11
 asignatura: "lectura-critica"
 tema: "columna-opinion"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 estado: "published"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-12-14"
 source: "William Ospina"
 source_url: "https://www.goodreads.com/work/quotes/1269894-la-franja-amarilla"
@@ -31,6 +31,13 @@ licenses:
 
 "Yo sueño un país donde tantos talentosos artistas, músicos y danzantes, actores y poetas, pintores y contadores de historias, dejen de ser figuras pintorescas y marginales, y se conviertan en voceros orgullosos de una nación, en los creadores de sus tradiciones. Todo eso sólo requiere la apasionada y festiva construcción de vínculos sinceros y valerosos. Y hay una pregunta que nos está haciendo la historia: ahora que el rojo y el azul han dejado de ser un camino, ¿dónde está la franja amarilla? (...) En alguno de sus relatos Gabriel García Márquez habla de un hombre que está muriendo de indigencia en el paraíso. Cualquier colombiano, rico o pobre, puede hoy reconocerse allí. Hemos hecho del más privilegiado territorio del continente una desoladora pesadilla."
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -51,6 +58,13 @@ En el texto, la metáfora de la "franja amarilla" hace referencia a:
 - B, D) Son interpretaciones literales del color o geografía, pero no encajan con el contexto político ("rojo y azul han dejado de ser un camino").
 - C) Reducir la "franja amarilla" a un "partido de centro" simplifica demasiado la visión poética de Ospina sobre la identidad nacional y cultural.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 2)
@@ -70,6 +84,13 @@ En el texto, la metáfora de la "franja amarilla" hace referencia a:
 **Distractores:**
 - C) Interpretación simbólica genérica, pero en este contexto se opone a la "franja amarilla" como opción política/social fallida ("dejado de ser un camino").
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 2)
@@ -89,6 +110,13 @@ Según el autor, ¿cuál es la paradoja del colombiano actual descrita con la im
 **Distractores:**
 - B, C, D) No corresponden a la imagen del "hombre muriendo de indigencia en el paraíso".
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -109,6 +137,13 @@ Según el autor, ¿cuál es la paradoja del colombiano actual descrita con la im
 - B) No dice que sean políticos, sino "voceros orgullosos".
 - C) Contradice la visión elevada del artista como constructor de nación.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -128,6 +163,13 @@ Cuando el autor afirma que el rojo y el azul "han dejado de ser un camino", impl
 **Distractores:**
 - B, C, D) Interpretaciones literales absurdas.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -147,6 +189,13 @@ Cuando el autor afirma que el rojo y el azul "han dejado de ser un camino", impl
 **Distractores:**
 - B) El tono es de reclamo y sueño ("Yo sueño..."), no de resignación.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 4)
@@ -166,15 +215,57 @@ La expresión "construcción de vínculos sinceros y valerosos" sugiere que la s
 **Distractores:**
 - B, C, D) No se derivan de la expresión "vínculos sinceros".
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|-------|-------|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

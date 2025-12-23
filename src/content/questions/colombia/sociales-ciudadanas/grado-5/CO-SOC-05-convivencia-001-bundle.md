@@ -7,13 +7,13 @@ asignatura: "Sociales y Ciudadanas"
 tema: "Competencias Ciudadanas"
 dificultad: "Medium"
 estado: "draft"
-creador: "Antigravity"
+creador: "Jules"
 source_lang: "es-CO"
 llm_model: "Cascade"
 agent: "Cascade"
 ide: "VS Code"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
 generation_date: "2025-12-06"
 
@@ -40,7 +40,21 @@ licenses:
 
 ## 📊 Metadata de Validación
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -271,25 +285,67 @@ licenses:
 ## 📊 Metadata de Validación
 
 | Pregunta | ID | Dificultad | Competencia ICFES | Componente | Validado |
-|---
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
 
 
--|---
---|---
+-|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+--|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
 
 
 
-|---
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
 
 
 
 
 
--|---
+-|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
 
 
 
-|---
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
 
 
 -|
@@ -317,3 +373,48 @@ licenses:
 ### Explicación
 Pendiente de redacción.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+## Pregunta 10 (Generada - Dificultad 3)
+**ID:** `CO-GEN-00-tema-000-v10`
+
+### Enunciado
+[Pregunta pendiente]
+
+### Opciones
+- [x] A) Opción A
+- [ ] B) Opción B
+- [ ] C) Opción C
+- [ ] D) Opción D
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+## Pregunta 11 (Generada - Dificultad 3)
+**ID:** `CO-GEN-00-tema-000-v11`
+
+### Enunciado
+[Pregunta pendiente]
+
+### Opciones
+- [x] A) Opción A
+- [ ] B) Opción B
+- [ ] C) Opción C
+- [ ] D) Opción D
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

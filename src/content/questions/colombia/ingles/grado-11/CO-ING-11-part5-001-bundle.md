@@ -4,10 +4,10 @@ country: "co"
 grado: 11
 asignatura: "ingles"
 tema: "reading-comprehension-literal"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 estado: "published"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-12-14"
 source: "Wikipedia / Medellin Advisors"
 source_url: "https://medellinadvisors.com/feria-de-las-flores/"
@@ -37,6 +37,13 @@ The highlight of the festival is the **Desfile de Silleteros** (Silleteros Parad
 
 Besides the parade, the festival includes the "Desfile de Autos Clásicos" (Classic Car Parade), concerts, and horse parades. It is not just a party; it is a tribute to the "paisa" culture and the region's biodiversity. Colombia is the second-largest exporter of flowers in the world, and this event showcases the variety of orchids, roses, and carnations that grow here.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -58,6 +65,13 @@ According to the text, what is the main purpose of the "Desfile de Silleteros"?
 - C) While Colombia exports flowers, the parade's purpose described is cultural display, not direct sales in the parade.
 - D) This is not mentioned in the text.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -79,6 +93,13 @@ When does the Flower Festival take place?
 - C) It lasts for ten days.
 - D) August is not spring in the US, and the text specifies August.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -98,6 +119,13 @@ What do the "silleteros" carry on their backs?
 **Distractores:**
 - Other options are not mentioned in the text.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -117,6 +145,13 @@ Why were "silletas" used in the past?
 **Distractores:**
 - B, C, D are not mentioned as past uses.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -138,6 +173,13 @@ Based on the text, which statement about Colombia's flower industry is true?
 - C) The text mentions orchids, roses, and carnations, implying variety ("variety of...").
 - D) The festival started in 1957, not the industry itself, which the festival "celebrates."
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 4)
@@ -159,6 +201,13 @@ What can be inferred about the "Classic Car Parade"?
 - C) The Silleteros parade is implied to be the core tradition (since 1957).
 - D) Not mentioned.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -178,15 +227,57 @@ What suggests that the Flower Festival has an international impact?
 **Distractores:**
 - B, C, D are local features or activities, not direct evidence of international impact.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|-------|-------|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

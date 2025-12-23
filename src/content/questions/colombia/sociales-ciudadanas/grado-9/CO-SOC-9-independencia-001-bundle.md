@@ -5,11 +5,11 @@ country: "co"
 grado: 9
 asignatura: "Sociales y Ciudadanas"
 tema: "Independencia: Actores Sociales"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
 estado: "review"
-creador: "Antigravity"
+creador: "Jules"
 generation_date: "2025-12-13"
 licenses:
   v1: "CC BY-SA 4.0"
@@ -42,6 +42,13 @@ Aunque hubo mujeres en combate (las "Juanas"), el rol estratégico más destacad
 ### Explicación Pedagógica
 Las mujeres no solo cosían banderas. Mujeres como La Pola eran espías valientes que pasaban información secreta a los patriotas. Sin esa información, muchas batallas no se habrían ganado.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -62,6 +69,13 @@ Policarpa Salavarrieta ("La Pola") es la heroína más reconocida de la independ
 ### Explicación Pedagógica
 La mujer que sale en el billete viejo de $10.000 y en la moneda de $1.000 (edición especial) es La Pola, una heroína que dio su vida por la libertad.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -82,6 +96,13 @@ La Legión Británica fue un cuerpo de voluntarios europeos que apoyó las campa
 ### Explicación Pedagógica
 Bolívar recibió ayuda de soldados de Europa, especialmente de Inglaterra. A ese grupo de amigos extranjeros se le llamó la Legión Británica.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -102,6 +123,13 @@ Tanto Bolívar como los españoles ofrecieron la libertad a los esclavos que se 
 ### Explicación Pedagógica
 Muchos esclavos fueron a la guerra no porque les importara la política, sino porque les prometieron que si peleaban, dejarían de ser esclavos y serían libres.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -122,6 +150,13 @@ Los Comuneros protestaban contra las reformas fiscales (impuestos) gritando "¡V
 ### Explicación Pedagógica
 La gente estaba cansada de pagar tantos impuestos caros. Manuela Beltrán rompió el edicto de los impuestos y la gente se rebeló. Fue una protesta por plata, que luego inspiró la libertad.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -142,6 +177,13 @@ Bolívar argumentaba que los criollos estaban en una posición de "minoría de e
 ### Explicación Pedagógica
 Bolívar se quejaba de que, aunque ellos habían nacido aquí y tenían dinero/educación, el Rey solo le daba los puestos de mando a los que venían de España.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -162,13 +204,34 @@ Mientras los patriotas peleaban entre sí por cómo organizar el gobierno (Centr
 ### Explicación Pedagógica
 Como dice el dicho: "Pueblo dividido, pueblo vencido". Mientras los colombianos peleaban entre hermanos (Centralistas vs Federalistas), llegaron los españoles y nos volvieron a conquistar fácilmente.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 
 # === Metadata de Validación ===
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -178,7 +241,84 @@ Como dice el dicho: "Pueblo dividido, pueblo vencido". Mientras los colombianos 
 ## 📊 Metadata de Validación
 
 | Pregunta | ID | Dificultad | Validado |
-|----------|-----|------------|----------|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+-----|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
 | 1 | CO-SOC-9-IND-001-v1 | Medium | ⬜ |
 | 2 | CO-SOC-9-IND-001-v2 | Low | ⬜ |
 | 3 | CO-SOC-9-IND-001-v3 | Low | ⬜ |
@@ -186,3 +326,10 @@ Como dice el dicho: "Pueblo dividido, pueblo vencido". Mientras los colombianos 
 | 5 | CO-SOC-9-IND-001-v5 | Medium | ⬜ |
 | 6 | CO-SOC-9-IND-001-v6 | High | ⬜ |
 | 7 | CO-SOC-9-IND-001-v7 | High | ⬜ |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

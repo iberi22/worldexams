@@ -4,10 +4,10 @@ country: "co"
 grado: 9
 asignatura: "sociales-ciudadanas"
 tema: "Geografía (Demografía)"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 estado: "published"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-12-14"
 source: "DANE / MinSalud"
 source_url: "https://www.dane.gov.co/"
@@ -31,6 +31,13 @@ licenses:
 
 Colombia ha pasado de ser un país rural a uno urbano. En 1938, el 70% de la población vivía en el campo. Hoy, más del 75% vive en las ciudades. Las regiones Andina y Caribe son las más pobladas, mientras que la Orinoquía y Amazonía tienen muy pocos habitantes por kilómetro cuadrado.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -52,6 +59,13 @@ Colombia ha pasado de ser un país rural a uno urbano. En 1938, el 70% de la pob
 - C) No habla de disminución total, solo distribución.
 - D) Lo opuesto.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -71,6 +85,13 @@ Colombia ha pasado de ser un país rural a uno urbano. En 1938, el 70% de la pob
 **Distractores:**
 - B) Son las menos pobladas.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -88,6 +109,13 @@ Colombia ha pasado de ser un país rural a uno urbano. En 1938, el 70% de la pob
 ### Explicación Pedagógica
 **Correcta:** A. Definición básica de urbano en demografía.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -107,6 +135,13 @@ La **densidad de población** se refiere a:
 **Distractores:**
 - D) Tasa de natalidad.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -124,6 +159,13 @@ Aparte de la búsqueda de empleo, ¿qué factor histórico impulsó la migració
 ### Explicación Pedagógica
 **Correcta:** A. El periodo de "La Violencia" (años 40-50) desplazó a miles de campesinos hacia las cabeceras municipales por seguridad.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -144,6 +186,13 @@ Si la pirámide poblacional de Colombia se está "estrechando en la base" (menos
 - B) La base sería ancha.
 - C) La base se reduciría pero no por esto principalmente hoy en día, sino por baja natalidad.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -164,15 +213,57 @@ Si la pirámide poblacional de Colombia se está "estrechando en la base" (menos
 - B) Hay resguardos y zonas protegidas, pero no prohibición total.
 - C) Son las más ricas en agua.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|-------|-------|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

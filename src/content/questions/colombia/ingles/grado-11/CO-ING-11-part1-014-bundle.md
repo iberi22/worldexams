@@ -4,10 +4,10 @@ country: "CO"
 grado: 11
 asignatura: "ingles"
 tema: "grammar-reported-speech"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 estado: "draft"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-11-30"
 source: "OpenTDB"
 source_license: "CC BY-SA 4.0"
@@ -17,6 +17,13 @@ source_license: "CC BY-SA 4.0"
 
 > **Fuente:** OpenTDB (CC BY-SA 4.0)
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -35,6 +42,13 @@ Choose the correct reported speech form for the sentence:
 ### Explicación Pedagógica
 When changing direct speech to reported speech, present continuous ("am studying") changes to past continuous ("was studying").
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -53,6 +67,13 @@ Choose the correct reported speech form:
 ### Explicación Pedagógica
 Present simple ("like") changes to past simple ("liked") in reported speech.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -71,6 +92,13 @@ Choose the correct reported speech form:
 ### Explicación Pedagógica
 "Can" changes to "could" in reported speech.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -89,6 +117,13 @@ Choose the correct reported speech form:
 ### Explicación Pedagógica
 Past simple ("went") changes to past perfect ("had gone"), and "yesterday" changes to "the day before".
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -107,6 +142,13 @@ Choose the correct reported speech form:
 ### Explicación Pedagógica
 "Will" changes to "would", and "tomorrow" changes to "the next day" or "the following day".
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -125,6 +167,13 @@ Choose the correct reported speech form:
 ### Explicación Pedagógica
 "If I were you" is often used to give advice. Therefore, "He advised me to..." is a more natural and accurate way to report this, although "He said that if he were me..." is also grammatically possible but less common as a direct translation of intent. Option A captures the function best.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -143,7 +192,14 @@ Choose the correct reported speech form:
 ### Explicación Pedagógica
 Imperatives often change to infinitives in reported speech, and specific verbs like "remind" capture the meaning better than just "said". "Reminded me to lock" is the correct structure.
 
-|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -155,7 +211,21 @@ Imperatives often change to infinitives in reported speech, and specific verbs l
 # === Metadata de Validación ===
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -165,7 +235,35 @@ Imperatives often change to infinitives in reported speech, and specific verbs l
 ## 📊 Metadata de Validación
 
 | Pregunta | ID | Dificultad | Validado |
-|---|---|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | 1 | CO-ING-11-part1-014-v1 | 3 | ⬜ |
 | 2 | CO-ING-11-part1-014-v2 | 1 | ⬜ |
 | 3 | CO-ING-11-part1-014-v3 | 1 | ⬜ |
@@ -173,3 +271,10 @@ Imperatives often change to infinitives in reported speech, and specific verbs l
 | 5 | CO-ING-11-part1-014-v5 | 3 | ⬜ |
 | 6 | CO-ING-11-part1-014-v6 | 5 | ⬜ |
 | 7 | CO-ING-11-part1-014-v7 | 5 | ⬜ |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

@@ -4,10 +4,10 @@ country: "CO"
 grado: 11
 asignatura: "lectura-critica"
 tema: "textos-argumentativos"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 estado: "draft"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-11-30"
 source: "OpenTDB"
 source_license: "CC BY-SA 4.0"
@@ -17,6 +17,13 @@ source_license: "CC BY-SA 4.0"
 
 > **Fuente:** OpenTDB (CC BY-SA 4.0)
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -37,6 +44,13 @@ Lea el siguiente texto:
 ### Explicación Pedagógica
 La tesis es la afirmación central que el autor defiende. Las otras opciones son argumentos que sustentan esa tesis.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -54,6 +68,13 @@ En el texto anterior, ¿qué argumento se da sobre la seguridad?
 ### Explicación Pedagógica
 El texto menciona explícitamente: "facilita la identificación de intrusos en el campus".
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -71,6 +92,13 @@ El texto menciona explícitamente: "facilita la identificación de intrusos en e
 ### Explicación Pedagógica
 El texto señala que reduce "el acoso escolar basado en la apariencia económica".
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -88,6 +116,13 @@ El texto señala que reduce "el acoso escolar basado en la apariencia económica
 ### Explicación Pedagógica
 Es un argumento que justifica la tesis apelando a un resultado positivo (beneficio) para la comunidad escolar.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -105,6 +140,13 @@ Si alguien dijera: "Pero los uniformes limitan la libre expresión de la persona
 ### Explicación Pedagógica
 Esa afirmación ataca la tesis de la obligatoriedad, por lo tanto, es un contraargumento.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -122,6 +164,13 @@ Esa afirmación ataca la tesis de la obligatoriedad, por lo tanto, es un contraa
 ### Explicación Pedagógica
 La implementación de la tesis (uso obligatorio) tiene como consecuencia (efecto) la reducción de la presión social. Es un argumento causal.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -139,7 +188,14 @@ La implementación de la tesis (uso obligatorio) tiene como consecuencia (efecto
 ### Explicación Pedagógica
 Para que el argumento funcione, el autor debe asumir que la ropa es el factor diferenciador que causa ese tipo específico de acoso. Si la ropa no fuera causa de discriminación, cambiarla por uniformes no tendría efecto en el acoso.
 
-|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -151,7 +207,21 @@ Para que el argumento funcione, el autor debe asumir que la ropa es el factor di
 # === Metadata de Validación ===
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -161,7 +231,35 @@ Para que el argumento funcione, el autor debe asumir que la ropa es el factor di
 ## 📊 Metadata de Validación
 
 | Pregunta | ID | Dificultad | Validado |
-|---|---|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | 1 | CO-LEC-11-textos-argumentativos-001-v1 | 3 | ⬜ |
 | 2 | CO-LEC-11-textos-argumentativos-001-v2 | 1 | ⬜ |
 | 3 | CO-LEC-11-textos-argumentativos-001-v3 | 1 | ⬜ |
@@ -169,3 +267,10 @@ Para que el argumento funcione, el autor debe asumir que la ropa es el factor di
 | 5 | CO-LEC-11-textos-argumentativos-001-v5 | 3 | ⬜ |
 | 6 | CO-LEC-11-textos-argumentativos-001-v6 | 5 | ⬜ |
 | 7 | CO-LEC-11-textos-argumentativos-001-v7 | 5 | ⬜ |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

@@ -4,10 +4,10 @@ country: "CO"
 grado: 11
 asignatura: "ingles"
 tema: "reading-comprehension-informational"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 estado: "draft"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-11-30"
 source: "OpenTDB"
 source_license: "CC BY-SA 4.0"
@@ -17,6 +17,13 @@ source_license: "CC BY-SA 4.0"
 
 > **Fuente:** OpenTDB (CC BY-SA 4.0)
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -39,6 +46,13 @@ According to the text, what is one negative effect of social media?
 ### Explicación Pedagógica
 The text explicitly mentions that "excessive use of social media can lead to anxiety and depression in teenagers" as a downside. Options B and C are positive effects mentioned in the text. Option D is not mentioned.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -61,6 +75,13 @@ What do doctors recommend?
 ### Explicación Pedagógica
 The text states: "Doctors recommend eating at least five portions of fruits and vegetables every day." This matches option A.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -83,6 +104,13 @@ Why is recycling good?
 ### Explicación Pedagógica
 The text says recycling "reduce[s] waste in landfills" and "saves energy." Option A correctly summarizes these benefits.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -105,6 +133,13 @@ What is a major cause of climate change mentioned in the text?
 ### Explicación Pedagógica
 The text states that the phenomenon is "driven by greenhouse gas emissions from burning fossil fuels." Options C and D are effects, not causes. Option B is a solution.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -127,6 +162,13 @@ Why do some companies worry about remote work?
 ### Explicación Pedagógica
 The text mentions companies' worry: "it might reduce collaboration and team spirit." Options B and C are reasons why employees like it, not why companies worry.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -149,6 +191,13 @@ What is the main conflict regarding AI discussed in the text?
 ### Explicación Pedagógica
 The text contrasts the benefit ("analyze data faster") with the downsides ("ethical concerns regarding privacy and job displacement"). Option A captures this conflict.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -171,7 +220,14 @@ Based on the text, which statement best summarizes the debate on globalization?
 ### Explicación Pedagógica
 The text presents both sides: proponents (economic growth) and critics (exploitation, cultural loss). Option A synthesizes these opposing views correctly.
 
-|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -183,7 +239,21 @@ The text presents both sides: proponents (economic growth) and critics (exploita
 # === Metadata de Validación ===
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -193,7 +263,35 @@ The text presents both sides: proponents (economic growth) and critics (exploita
 ## 📊 Metadata de Validación
 
 | Pregunta | ID | Dificultad | Validado |
-|---|---|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | 1 | CO-ING-11-part1-007-v1 | 3 | ⬜ |
 | 2 | CO-ING-11-part1-007-v2 | 1 | ⬜ |
 | 3 | CO-ING-11-part1-007-v3 | 1 | ⬜ |
@@ -201,3 +299,10 @@ The text presents both sides: proponents (economic growth) and critics (exploita
 | 5 | CO-ING-11-part1-007-v5 | 3 | ⬜ |
 | 6 | CO-ING-11-part1-007-v6 | 5 | ⬜ |
 | 7 | CO-ING-11-part1-007-v7 | 5 | ⬜ |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

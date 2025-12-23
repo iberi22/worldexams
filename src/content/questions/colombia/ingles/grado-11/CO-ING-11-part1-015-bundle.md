@@ -4,10 +4,10 @@ country: "CO"
 grado: 11
 asignatura: "ingles"
 tema: "vocabulary-health-body"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 estado: "draft"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-11-30"
 source: "OpenTDB"
 source_license: "CC BY-SA 4.0"
@@ -17,6 +17,13 @@ source_license: "CC BY-SA 4.0"
 
 > **Fuente:** OpenTDB (CC BY-SA 4.0)
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -34,6 +41,13 @@ Which word refers to a pain in the head?
 ### Explicación Pedagógica
 "Headache" is the specific term for pain in the head.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -51,6 +65,13 @@ What part of the body do you use to see?
 ### Explicación Pedagógica
 Eyes are the organs of vision.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -68,6 +89,13 @@ If you have a fever, your body temperature is...
 ### Explicación Pedagógica
 A fever is defined by a higher-than-normal body temperature.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -85,6 +113,13 @@ Which of the following is a symptom of the flu?
 ### Explicación Pedagógica
 Coughing and sneezing are common respiratory symptoms associated with influenza (the flu).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -102,6 +137,13 @@ What does a doctor give you to cure an infection?
 ### Explicación Pedagógica
 Antibiotics are medicines used to treat bacterial infections.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -119,6 +161,13 @@ The organ responsible for pumping blood throughout the body is the...
 ### Explicación Pedagógica
 The heart is the muscular organ that pumps blood through the circulatory system.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -136,7 +185,14 @@ Which term describes a chronic condition characterized by high blood sugar level
 ### Explicación Pedagógica
 Diabetes is a metabolic disease that causes high blood sugar. Hypertension is high blood pressure.
 
-|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -148,7 +204,21 @@ Diabetes is a metabolic disease that causes high blood sugar. Hypertension is hi
 # === Metadata de Validación ===
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -158,7 +228,35 @@ Diabetes is a metabolic disease that causes high blood sugar. Hypertension is hi
 ## 📊 Metadata de Validación
 
 | Pregunta | ID | Dificultad | Validado |
-|---|---|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | 1 | CO-ING-11-part1-015-v1 | 3 | ⬜ |
 | 2 | CO-ING-11-part1-015-v2 | 1 | ⬜ |
 | 3 | CO-ING-11-part1-015-v3 | 1 | ⬜ |
@@ -166,3 +264,10 @@ Diabetes is a metabolic disease that causes high blood sugar. Hypertension is hi
 | 5 | CO-ING-11-part1-015-v5 | 3 | ⬜ |
 | 6 | CO-ING-11-part1-015-v6 | 5 | ⬜ |
 | 7 | CO-ING-11-part1-015-v7 | 5 | ⬜ |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

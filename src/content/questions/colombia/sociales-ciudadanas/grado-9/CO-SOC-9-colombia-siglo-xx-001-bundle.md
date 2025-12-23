@@ -5,11 +5,11 @@ country: "co"
 grado: 9
 asignatura: "sociales-ciudadanas"
 tema: "Colombia Siglo XX - La Violencia"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
 estado: "draft"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-12-14"
 source: "OpenTDB"
 source_license: "CC BY-SA 4.0"
@@ -27,6 +27,13 @@ licenses:
 
 > **Fuente:** OpenTDB (CC BY-SA 4.0)
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -44,6 +51,13 @@ El periodo conocido como "La Violencia" en Colombia (aprox. 1948-1958) se caract
 ### Explicación Pedagógica
 Fue una guerra civil no declarada donde la afiliación política (rojo/liberal o azul/conservador) definía la vida y la muerte, causando cientos de miles de víctimas y desplazamientos masivos.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -61,6 +75,13 @@ Fue una guerra civil no declarada donde la afiliación política (rojo/liberal o
 ### Explicación Pedagógica
 La muerte del líder liberal popular Jorge Eliécer Gaitán provocó una revuelta popular masiva en Bogotá y otras ciudades, marcando un punto de no retorno en el conflicto.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -78,6 +99,13 @@ La muerte del líder liberal popular Jorge Eliécer Gaitán provocó una revuelt
 ### Explicación Pedagógica
 El Frente Nacional fue un pacto donde liberales y conservadores acordaron alternarse la presidencia y repartirse los cargos públicos equitativamente durante 16 años para frenar la violencia mutua.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -95,6 +123,13 @@ Aunque el Frente Nacional logró pacificar el conflicto bipartidista, tuvo una c
 ### Explicación Pedagógica
 Al cerrar el sistema democrático solo a dos partidos, los grupos que no se sentían representados (izquierda, movimientos agrarios) vieron la lucha armada como única vía de acceso al poder (surgimiento de FARC, ELN, EPL).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -112,6 +147,13 @@ Durante el gobierno del General Gustavo Rojas Pinilla (1953-1957), se lograron a
 ### Explicación Pedagógica
 Rojas Pinilla modernizó el país e introdujo el sufragio femenino (ejercido por primera vez en 1957), aunque su gobierno terminó convirtiéndose en una dictadura militar.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -129,6 +171,13 @@ Analice la relación entre La Violencia de los años 50 y el fenómeno del despl
 ### Explicación Pedagógica
 Colombia pasó de ser un país rural a uno urbano en pocas décadas, no por industrialización planificada, sino por campesinos huyendo de la violencia, lo que transformó la demografía y la estructura social del país.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -146,11 +195,32 @@ Colombia pasó de ser un país rural a uno urbano en pocas décadas, no por indu
 ### Explicación Pedagógica
 La entrada del narcotráfico cambió la naturaleza del conflicto: las guerrillas y luego los paramilitares encontraron una fuente de financiación inagotable, degradando la guerra y aumentando su intensidad y barbarie.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 # === Metadata de Validación ===
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -160,8 +230,29 @@ La entrada del narcotráfico cambió la naturaleza del conflicto: las guerrillas
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Tipo | Bundle |
 | Cantidad | 7 Preguntas |
 | Dificultad | Variada (1-5) |
 | Versión Protocolo | 2.1 |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

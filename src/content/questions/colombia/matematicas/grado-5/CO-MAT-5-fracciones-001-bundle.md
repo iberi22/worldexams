@@ -5,11 +5,11 @@ country: "co"
 grado: 5
 asignatura: "Matemáticas"
 tema: "Fracciones y Operaciones"
-protocol_version: "2.1"
-bundle_version: "2.1"
-total_questions: 7
+protocol_version: "3.0"
+
+total_questions: 11
 estado: "published"
-creador: "Antigravity"
+creador: "Jules"
 generation_date: "2025-12-14"
 
 # === LICENSING (NEW v2.1) ===
@@ -31,6 +31,13 @@ original_answer: "1/4 para cada uno"
 > **Fuente:** Colombia Aprende (DBA)
 > **Tema:** Interpretación de fracciones y reparto
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -59,6 +66,13 @@ Si la unidad (la pizza) está dividida en 8 partes, el denominador es 8. Andrés
 
 **Competencia evaluada:** Resolución de problemas (Suma de fracciones homogéneas).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -79,6 +93,13 @@ Si la unidad (la pizza) está dividida en 8 partes, el denominador es 8. Andrés
 
 La fracción **1/2** (un medio) es la representación estándar de dividir algo en dos partes iguales y tomar una. Es equivalente al 50%.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -99,6 +120,13 @@ Si tienes una chocolatina partida en 4 pedazos iguales y te comes todos los peda
 
 Comerse 4 partes de un total de 4 se escribe como **4/4**. Cuando el numerador es igual al denominador, la fracción es igual a la unidad (1 chocolate entero).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -120,6 +148,13 @@ Comerse 4 partes de un total de 4 se escribe como **4/4**. Cuando el numerador e
 Dos fracciones son equivalentes si al multiplicar en cruz dan lo mismo, o si al simplificar una se obtiene la otra.
 $1 \times 4 = 4$ y $2 \times 2 = 4$. Además, si tomas 2/4 y sacas mitad, te queda **1/2**.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -141,6 +176,13 @@ Para preparar una torta se necesita 1/2 libra de harina. Si quieres preparar 2 t
 Sumamos: $1/2 + 1/2 = 2/2$.
 2 medios forman 1 entero. Por lo tanto, necesitas **1 libra** completa de harina.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -163,6 +205,13 @@ Resta de fracciones homogéneas (mismo denominador):
 Se conserva el denominador (4) y se restan los numeradores (3 - 1 = 2).
 Resultado: **2/4**, que simplificado es la mitad del jugo (1/2).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -186,14 +235,42 @@ $\frac{1}{4}$ de 20 es dividir 20 entre 4.
 $20 \div 4 = 5$.
 Por lo tanto, **5 estudiantes** usan gafas.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

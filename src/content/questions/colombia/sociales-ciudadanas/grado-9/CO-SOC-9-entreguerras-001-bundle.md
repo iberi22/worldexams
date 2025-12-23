@@ -5,11 +5,11 @@ country: "co"
 grado: 9
 asignatura: "sociales-ciudadanas"
 tema: "Periodo de Entreguerras y Crisis del 29"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
 estado: "draft"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-12-14"
 source: "OpenTDB"
 source_license: "CC BY-SA 4.0"
@@ -27,6 +27,13 @@ licenses:
 
 > **Fuente:** OpenTDB (CC BY-SA 4.0)
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -44,6 +51,13 @@ La Gran Depresión de 1929 comenzó con el colapso de la Bolsa de Nueva York. ¿
 ### Explicación Pedagógica
 La crisis económica generó desempleo y pobreza masiva. La desesperación social llevó a muchos a perder la fe en la democracia y apoyar líderes autoritarios que prometían soluciones rápidas y orden.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -61,6 +75,13 @@ La crisis económica generó desempleo y pobreza masiva. La desesperación socia
 ### Explicación Pedagógica
 El "Jueves Negro" de octubre de 1929 marca el inicio de la crisis económica mundial más grave del siglo XX.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -78,6 +99,13 @@ El "Jueves Negro" de octubre de 1929 marca el inicio de la crisis económica mun
 ### Explicación Pedagógica
 Mussolini instauró el fascismo en Italia en la década de 1920, caracterizado por el nacionalismo extremo y el autoritarismo.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -95,6 +123,13 @@ El "New Deal" fue un programa implementado por el presidente Franklin D. Rooseve
 ### Explicación Pedagógica
 El New Deal rompió con el liberalismo clásico (laissez-faire) y propuso que el Estado debía invertir activamente para reactivar la economía (Keynesianismo).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -112,6 +147,13 @@ El New Deal rompió con el liberalismo clásico (laissez-faire) y propuso que el
 ### Explicación Pedagógica
 El totalitarismo busca que el Estado absorba toda la sociedad, eliminando el disenso mediante la propaganda, el terror policial y el partido único.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -129,6 +171,13 @@ El totalitarismo busca que el Estado absorba toda la sociedad, eliminando el dis
 ### Explicación Pedagógica
 Al cerrarse los mercados internacionales, los países latinoamericanos no podían vender sus productos ni comprar manufacturas. Esto forzó a desarrollar industrias locales para producir lo que antes importaban.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -146,11 +195,32 @@ El ascenso de Hitler al poder en 1933 se vio facilitado por:
 ### Explicación Pedagógica
 Hitler capitalizó el descontento nacional. Prometió restaurar el orgullo alemán, romper las cadenas de Versalles y acabar con la inestabilidad económica y política de la República de Weimar.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 # === Metadata de Validación ===
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -160,8 +230,29 @@ Hitler capitalizó el descontento nacional. Prometió restaurar el orgullo alem�
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Tipo | Bundle |
 | Cantidad | 7 Preguntas |
 | Dificultad | Variada (1-5) |
 | Versión Protocolo | 2.1 |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

@@ -4,10 +4,10 @@ country: "co"
 grado: 5
 asignatura: "sociales-ciudadanas"
 tema: "Geografía (Regiones Naturales)"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 estado: "published"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-12-14"
 source: "IGAC / Colombia Aprende"
 source_url: "https://www.igac.gov.co/"
@@ -37,6 +37,13 @@ Colombia se divide en 6 regiones naturales, cada una con clima y relieve diferen
 5. **Región Amazonía:** Selva tropical húmeda.
 6. **Región Insular:** Las islas (San Andrés, Gorgona).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -57,6 +64,13 @@ Colombia se divide en 6 regiones naturales, cada una con clima y relieve diferen
 - B) Orinoquía/Caribe.
 - D) Insular.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -76,6 +90,13 @@ Colombia se divide en 6 regiones naturales, cada una con clima y relieve diferen
 **Distractores:**
 - B, C, D) Geográficamente incorrecto.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -95,6 +116,13 @@ La región conocida por sus extensas llanuras y actividad ganadera es:
 **Distractores:**
 - D) Selva, no ganadería extensiva (tradicionalmente).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -112,6 +140,13 @@ La región conocida por sus extensas llanuras y actividad ganadera es:
 ### Explicación Pedagógica
 **Correcta:** A. Alta pluviosidad es su característica climática clave.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -129,6 +164,13 @@ San Andrés, Providencia y Santa Catalina pertenecen a la región:
 ### Explicación Pedagógica
 **Correcta:** A. Insular agrupa las islas oceánicas. Aunque están en el mar Caribe, geográficamente se clasifican como región Insular en la división de 6 regiones.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -148,6 +190,13 @@ San Andrés, Providencia y Santa Catalina pertenecen a la región:
 **Distractores:**
 - C) Café es Andina.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -167,15 +216,57 @@ La Sierra Nevada de Santa Marta es la montaña costera más alta del mundo. ¿En
 **Distractores:**
 - B) Error común por ser montaña, pero es un sistema independiente.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|-------|-------|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

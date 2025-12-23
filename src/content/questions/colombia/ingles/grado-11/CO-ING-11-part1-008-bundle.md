@@ -4,10 +4,10 @@ country: "CO"
 grado: 11
 asignatura: "ingles"
 tema: "grammar-passive-voice"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 estado: "draft"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-11-30"
 source: "OpenTDB"
 source_license: "CC BY-SA 4.0"
@@ -17,6 +17,13 @@ source_license: "CC BY-SA 4.0"
 
 > **Fuente:** OpenTDB (CC BY-SA 4.0)
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -35,6 +42,13 @@ Choose the correct passive form of the sentence:
 ### Explicación Pedagógica
 The active sentence is in Present Simple ("prepares"). The passive voice for Present Simple is formed with *am/is/are + past participle*. Therefore, "is prepared" is the correct form.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -53,6 +67,13 @@ Complete the sentence with the correct form:
 ### Explicación Pedagógica
 We need the passive voice because the book receives the action. "Is written" is the correct passive structure (be + past participle).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -70,6 +91,13 @@ Choose the correct passive sentence.
 ### Explicación Pedagógica
 Option A uses the correct structure for Past Simple Passive: *was/were + past participle* ("was washed").
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -88,6 +116,13 @@ Change the sentence to passive voice:
 ### Explicación Pedagógica
 The active sentence is in Present Continuous ("are building"). The passive form is *am/is/are + being + past participle*. Thus, "is being built" is correct.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -106,6 +141,13 @@ Change the sentence to passive voice:
 ### Explicación Pedagógica
 The active sentence is in Past Simple ("stole"). The passive form is *was/were + past participle*. "Was stolen" fits the past context ("yesterday").
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -124,6 +166,13 @@ Choose the correct passive form for:
 ### Explicación Pedagógica
 The active sentence is in Future Perfect ("will have finished"). The passive structure is *will have been + past participle*. Option A follows this rule correctly.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -141,7 +190,14 @@ Select the sentence that correctly uses the passive voice with a modal verb.
 ### Explicación Pedagógica
 Passive with modals follows the structure *modal + be + past participle*. "Must be submitted" is the correct form. Option B is active, and C/D are grammatically incorrect.
 
-|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -153,7 +209,21 @@ Passive with modals follows the structure *modal + be + past participle*. "Must 
 # === Metadata de Validación ===
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -163,7 +233,35 @@ Passive with modals follows the structure *modal + be + past participle*. "Must 
 ## 📊 Metadata de Validación
 
 | Pregunta | ID | Dificultad | Validado |
-|---|---|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | 1 | CO-ING-11-part1-008-v1 | 3 | ⬜ |
 | 2 | CO-ING-11-part1-008-v2 | 1 | ⬜ |
 | 3 | CO-ING-11-part1-008-v3 | 1 | ⬜ |
@@ -171,3 +269,10 @@ Passive with modals follows the structure *modal + be + past participle*. "Must 
 | 5 | CO-ING-11-part1-008-v5 | 3 | ⬜ |
 | 6 | CO-ING-11-part1-008-v6 | 5 | ⬜ |
 | 7 | CO-ING-11-part1-008-v7 | 5 | ⬜ |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

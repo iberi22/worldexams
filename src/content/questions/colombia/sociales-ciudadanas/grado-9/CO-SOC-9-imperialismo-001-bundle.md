@@ -5,11 +5,11 @@ country: "co"
 grado: 9
 asignatura: "sociales-ciudadanas"
 tema: "Imperialismo y Colonialismo"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
 estado: "draft"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-12-14"
 source: "OpenTDB"
 source_license: "CC BY-SA 4.0"
@@ -27,6 +27,13 @@ licenses:
 
 > **Fuente:** OpenTDB (CC BY-SA 4.0)
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -44,6 +51,13 @@ Durante el siglo XIX, las potencias europeas se expandieron hacia África y Asia
 ### Explicación Pedagógica
 El Imperialismo del siglo XIX estuvo fuertemente impulsado por la Revolución Industrial. Las potencias necesitaban recursos naturales (caucho, petróleo, minerales) y mercados donde vender sus manufacturas.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -61,6 +75,13 @@ El Imperialismo del siglo XIX estuvo fuertemente impulsado por la Revolución In
 ### Explicación Pedagógica
 El "reparto de África" y la colonización de gran parte de Asia fueron los ejes centrales del imperialismo decimonónico.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -78,6 +99,13 @@ El "reparto de África" y la colonización de gran parte de Asia fueron los ejes
 ### Explicación Pedagógica
 El objetivo era la explotación económica (recursos) y el prestigio geopolítico (poder), no la cooperación ni la democracia.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -95,6 +123,13 @@ La Conferencia de Berlín (1884-1885) es un evento clave en la historia del Impe
 ### Explicación Pedagógica
 En la Conferencia de Berlín, las potencias europeas trazaron fronteras artificiales sobre el mapa de África para repartirse el continente, ignorando las divisiones tribales y culturales existentes.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -112,6 +147,13 @@ En la Conferencia de Berlín, las potencias europeas trazaron fronteras artifici
 ### Explicación Pedagógica
 El "Darwinismo Social" y la idea de la "carga del hombre blanco" servían para justificar la dominación como un deber de "civilizar" a pueblos considerados "bárbaros" o "atrasados".
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -129,6 +171,13 @@ Analice la relación entre la Revolución Industrial y el Imperialismo. ¿Cuál 
 ### Explicación Pedagógica
 Existe una relación causal directa: la industria necesitaba insumos (algodón, caucho) y consumidores. Las colonias proveían ambos, cerrando el ciclo económico del capitalismo industrial.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -146,11 +195,32 @@ Una consecuencia a largo plazo del trazado de fronteras artificiales en África 
 ### Explicación Pedagógica
 Al agrupar etnias rivales en un mismo país o dividir un mismo grupo entre varios países, las fronteras coloniales sembraron la semilla de numerosos conflictos (ej. Ruanda, Nigeria, Sudán) que persisten tras la independencia.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 # === Metadata de Validación ===
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -160,8 +230,29 @@ Al agrupar etnias rivales en un mismo país o dividir un mismo grupo entre vario
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Tipo | Bundle |
 | Cantidad | 7 Preguntas |
 | Dificultad | Variada (1-5) |
 | Versión Protocolo | 2.1 |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

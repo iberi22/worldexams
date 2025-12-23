@@ -4,10 +4,10 @@ country: "co"
 grado: 5
 asignatura: "sociales-ciudadanas"
 tema: "Historia y Cultura (Indígenas)"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 estado: "published"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-12-14"
 source: "Colombia Aprende / ONIC"
 source_url: "https://www.onic.org.co/"
@@ -31,6 +31,13 @@ licenses:
 
 Colombia es un país pluriétnico. Antes de la llegada de los españoles, el territorio estaba habitado por muchas culturas indígenas. Hoy en día, existen 102 pueblos indígenas en el país, como los Wayuu en la Guajira, los Nasa en el Cauca, y los Embera en el Chocó. La Constitución de 1991 protege sus derechos, lenguas y territorios (Resguardos).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -50,6 +57,13 @@ Colombia es un país pluriétnico. Antes de la llegada de los españoles, el ter
 **Distractores:**
 - B, D) Lo contrario a pluriétnico.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -70,6 +84,13 @@ Colombia es un país pluriétnico. Antes de la llegada de los españoles, el ter
 - B) Cauca.
 - C) Chocó/Pacífico.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -89,6 +110,13 @@ Colombia es un país pluriétnico. Antes de la llegada de los españoles, el ter
 **Distractores:**
 - B) Propiedad privada individual usual.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -108,6 +136,13 @@ La Constitución de 1991 fue muy importante para los pueblos indígenas porque:
 **Distractores:**
 - B, C, D) Falsos, hizo lo contrario.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -127,6 +162,13 @@ La Constitución de 1991 fue muy importante para los pueblos indígenas porque:
 **Distractores:**
 - B) Teoría de Terra Nullius (falsa).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -147,6 +189,13 @@ Los **Taironas**, una cultura indígena antigua, habitaban en:
 - C) Muiscas.
 - D) Tikunas/etc.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -166,15 +215,57 @@ Los **Taironas**, una cultura indígena antigua, habitaban en:
 **Distractores:**
 - B, C) Reduccionistas.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|-------|-------|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
