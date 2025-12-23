@@ -4,11 +4,11 @@ country: "co"
 grado: 9
 asignatura: "ciencias-naturales"
 tema: "Física (Movimiento y Fuerzas)"
-bundle_version: "2.1"
-total_questions: 7
+protocol_version: "3.0"
+total_questions: 11
 estado: "published"
-creador: "GitHub Copilot"
-generation_date: "2025-12-14"
+creador: "Jules"
+generation_date: "2023-11-20"
 source: "Colombia Aprende (Mineducación)"
 source_url: "https://aprende.colombiaaprende.edu.co/"
 search_query: "temas fisica grado 9 colombia movimiento fuerza"
@@ -21,6 +21,10 @@ licenses:
   v5: "CC BY-NC-SA 4.0"
   v6: "CC BY-NC-SA 4.0"
   v7: "CC BY-NC-SA 4.0"
+  v8: "CC BY-NC-SA 4.0"
+  v9: "CC BY-NC-SA 4.0"
+  v10: "CC BY-NC-SA 4.0"
+  v11: "CC BY-NC-SA 4.0"
 ---
 
 # === METADATA GLOBAL ===
@@ -29,7 +33,7 @@ licenses:
 
 > **Contexto:** Lee la situación y responde.
 
-Un jugador del Junior de Barranquilla patea un balón que está en reposo en el punto penal. El balón sale disparado hacia la portería, golpea el poste y rebota hacia afuera.
+Un jugador del Junior de Barranquilla patea un balón que está en reposo en el punto penal. El balón sale disparado hacia la portería, describe una curva en el aire, golpea el poste y rebota hacia afuera.
 
 ---
 
@@ -45,12 +49,12 @@ Según la **Primera Ley de Newton (Inercia)**, ¿por qué el balón estaba quiet
 - [ ] C) Porque la gravedad lo empujaba hacia arriba.
 - [ ] D) Porque el aire lo mantenía inmóvil.
 
-### Explicación Pedagógica
-**Correcta:** A. La Ley de Inercia dice que un objeto permanece en reposo a menos que una fuerza externa actúe sobre él.
-**Distractores:**
-- B) Tiene masa.
-- C) La gravedad empuja hacia abajo.
-- D) El aire no es la causa principal del reposo en el suelo.
+> ### 📊 Info-Tarjeta
+> **Tema:** Primera Ley de Newton (Inercia)
+>
+> **Análisis:** La Ley de Inercia establece que un objeto permanecerá en su estado de movimiento (en reposo o en movimiento rectilíneo uniforme) a menos que una fuerza externa neta actúe sobre él. El balón en reposo tiene fuerzas actuando sobre él (la gravedad hacia abajo y la normal del suelo hacia arriba), pero estas se anulan, dando una fuerza neta de cero.
+>
+> **Tip Clave:** Inercia = La "pereza" de los objetos a cambiar su estado de movimiento.
 
 ---
 
@@ -58,39 +62,42 @@ Según la **Primera Ley de Newton (Inercia)**, ¿por qué el balón estaba quiet
 **ID:** `CO-CIE-9-fisica-movimiento-001-v2`
 
 ### Enunciado
-¿Qué magnitud física aplicó el jugador sobre el balón para que este se moviera?
+¿Qué magnitud física vectorial aplicó el jugador sobre el balón para que este se moviera?
 
 ### Opciones
 - [x] A) Fuerza.
 - [ ] B) Temperatura.
-- [ ] C) Volumen.
+- [ ] C) Masa.
 - [ ] D) Densidad.
 
-### Explicación Pedagógica
-**Correcta:** A. La fuerza es la interacción que causa el cambio de movimiento.
-**Distractores:**
-- B, C, D) Propiedades que no causan movimiento por sí mismas.
+> ### 📊 Info-Tarjeta
+> **Tema:** Concepto de Fuerza
+>
+> **Análisis:** Una **fuerza** es cualquier interacción que, sin oposición, cambiará el movimiento de un objeto. Puede causar que un objeto en reposo se mueva o que un objeto en movimiento cambie su velocidad o dirección. Es una magnitud vectorial, lo que significa que tiene magnitud y dirección.
+>
+> **Tip Clave:** Para cambiar el movimiento de algo, necesitas aplicarle una fuerza.
 
 ---
 
-## Pregunta 3 (Fácil - Dificultad 1)
+## Pregunta 3 (Fácil - Dificultad 2)
 **ID:** `CO-CIE-9-fisica-movimiento-001-v3`
 
 ### Enunciado
-Si el balón recorre 20 metros en 2 segundos, ¿cuál fue su **velocidad media**?
+Si el balón recorre los 11 metros desde el punto penal hasta la portería en 0.5 segundos, ¿cuál fue su **velocidad media**?
 
 ### Opciones
-- [x] A) 10 m/s.
-- [ ] B) 20 m/s.
-- [ ] C) 40 m/s.
-- [ ] D) 2 m/s.
+- [x] A) 22 m/s.
+- [ ] B) 11 m/s.
+- [ ] C) 5.5 m/s.
+- [ ] D) 0.5 m/s.
 
-### Explicación Pedagógica
-**Correcta:** A. $v = d/t = 20 / 2 = 10 \text{ m/s}$.
-**Distractores:**
-- B) Es la distancia.
-- C) Multiplicación ($20 \times 2$).
-- D) El tiempo.
+> ### 📊 Info-Tarjeta
+> **Tema:** Cinemática - Velocidad Media
+>
+> **Análisis:** La velocidad media se calcula dividiendo la distancia total recorrida entre el tiempo total empleado. En este caso:
+> $v = d / t = 11 \text{ metros} / 0.5 \text{ segundos} = 22 \text{ m/s}$.
+>
+> **Tip Clave:** Velocidad = Distancia / Tiempo.
 
 ---
 
@@ -106,15 +113,16 @@ Cuando el balón golpea el poste y rebota, ¿qué ley de Newton explica el rebot
 - [ ] C) Ley de la Gravitación Universal.
 - [ ] D) Primera Ley (Inercia).
 
-### Explicación Pedagógica
-**Correcta:** A. El balón ejerce fuerza sobre el poste (acción) y el poste ejerce una fuerza igual y opuesta contra el balón (reacción), causando el rebote.
-**Distractores:**
-- B) Explica la aceleración, no el par de fuerzas del rebote.
-- D) Explica la tendencia a seguir, no el cambio brusco por impacto.
+> ### 📊 Info-Tarjeta
+> **Tema:** Tercera Ley de Newton (Acción y Reacción)
+>
+> **Análisis:** La Tercera Ley de Newton establece que por cada acción hay una reacción igual y en sentido opuesto. Cuando el balón ejerce una fuerza sobre el poste (acción), el poste ejerce una fuerza de igual magnitud pero en dirección contraria sobre el balón (reacción). Esta fuerza de reacción es la que causa que el balón rebote.
+>
+> **Tip Clave:** Si empujas una pared (acción), la pared te empuja a ti (reacción).
 
 ---
 
-## Pregunta 5 (Media - Dificultad 3)
+## Pregunta 5 (Media - Dificultad 4)
 **ID:** `CO-CIE-9-fisica-movimiento-001-v5`
 
 ### Enunciado
@@ -126,32 +134,33 @@ Si el mismo jugador patea un balón de plástico (menos masa) con la misma fuerz
 - [ ] C) La aceleración será igual.
 - [ ] D) El balón no se moverá.
 
-### Explicación Pedagógica
-**Correcta:** A. Segunda Ley ($F = m \cdot a \rightarrow a = F/m$). Si la masa ($m$) disminuye y la fuerza ($F$) es igual, la aceleración ($a$) aumenta.
-**Distractores:**
-- B) Sería si la masa fuera mayor.
-- C) Imposible según la física.
+> ### 📊 Info-Tarjeta
+> **Tema:** Segunda Ley de Newton (F=ma)
+>
+> **Análisis:** La Segunda Ley de Newton se resume en la fórmula $F = m \cdot a$, o despejando la aceleración, $a = F / m$. Esto nos dice que la aceleración es inversamente proporcional a la masa. Si la fuerza (F) aplicada es la misma, un objeto con menor masa (m) experimentará una mayor aceleración (a).
+>
+> **Tip Clave:** Es más fácil acelerar un objeto liviano que uno pesado con la misma fuerza.
 
 ---
 
-## Pregunta 6 (Difícil - Dificultad 5)
+## Pregunta 6 (Difícil - Dificultad 4)
 **ID:** `CO-CIE-9-fisica-movimiento-001-v6`
 
 ### Enunciado
-Un bus viaja de Bogotá a Tunja. Si mantiene una velocidad constante de 60 km/h todo el trayecto en línea recta, se dice que su movimiento es:
+Un bus viaja de Bogotá a Tunja. Si mantiene una velocidad constante de 60 km/h todo el trayecto en línea recta, se dice que su **aceleración** es:
 
 ### Opciones
-- [x] A) Rectilíneo Uniforme (MRU).
-- [ ] B) Rectilíneo Uniformemente Acelerado (MRUA).
-- [ ] C) Caída Libre.
-- [ ] D) Parabólico.
+- [x] A) Cero.
+- [ ] B) Constante y positiva.
+- [ ] C) Variable.
+- [ ] D) Constante y negativa.
 
-### Explicación Pedagógica
-**Correcta:** A. Velocidad constante y línea recta definen el Movimiento Rectilíneo Uniforme.
-**Distractores:**
-- B) Implica aceleración (cambio de velocidad).
-- C) Movimiento vertical bajo gravedad.
-- D) Movimiento curvo.
+> ### 📊 Info-Tarjeta
+> **Tema:** Aceleración
+>
+> **Análisis:** La aceleración se define como el cambio de la velocidad en el tiempo. Si la velocidad es constante, no hay cambio. Por lo tanto, la aceleración es nula (cero). Este tipo de movimiento se llama Movimiento Rectilíneo Uniforme (MRU).
+>
+> **Tip Clave:** Velocidad constante = Cero aceleración.
 
 ---
 
@@ -159,29 +168,101 @@ Un bus viaja de Bogotá a Tunja. Si mantiene una velocidad constante de 60 km/h 
 **ID:** `CO-CIE-9-fisica-movimiento-001-v7`
 
 ### Enunciado
-Si sobre un cuerpo actúan dos fuerzas opuestas de 50 Newtons cada una (una hacia la derecha y otra hacia la izquierda), ¿cuál es la fuerza neta resultante?
+Si sobre un cuerpo de 10 kg actúan dos fuerzas opuestas de 50 Newtons y 30 Newtons, ¿cuál es la aceleración del cuerpo?
 
 ### Opciones
-- [x] A) 0 Newtons.
-- [ ] B) 100 Newtons.
-- [ ] C) 50 Newtons.
-- [ ] D) 25 Newtons.
+- [x] A) 2 m/s².
+- [ ] B) 8 m/s².
+- [ ] C) 0 m/s².
+- [ ] D) 5 m/s².
 
-### Explicación Pedagógica
-**Correcta:** A. Al ser opuestas y de igual magnitud, se anulan ($50 N - 50 N = 0$). El cuerpo está en equilibrio.
-**Distractores:**
-- B) Suma sin considerar dirección.
-- C) Ignora una fuerza.
+> ### 📊 Info-Tarjeta
+> **Tema:** Dinámica y Segunda Ley de Newton
+>
+> **Análisis:** Primero, se calcula la fuerza neta resultante. Como las fuerzas son opuestas, se restan: $F_{neta} = 50 N - 30 N = 20 N$. Luego, se aplica la Segunda Ley de Newton ($F = m \cdot a$) para encontrar la aceleración: $a = F_{neta} / m = 20 N / 10 kg = 2 m/s²$.
+>
+> **Tip Clave:** 1. Calcula la fuerza total. 2. Aplica F=ma.
 
 ---
 
-## 📊 Metadata de Validación
+## Pregunta 8 (Fácil - Dificultad 2)
+**ID:** `CO-CIE-9-fisica-movimiento-001-v8`
 
-| Campo | Valor |
-|-------|-------|
-| Total Preguntas | 7 |
-| Original (Dificultad 3) | 1 |
-| Fácil (Dificultad 1-2) | 2 |
-| Media (Dificultad 3) | 2 |
-| Difícil (Dificultad 4-5) | 2 |
+### Enunciado
+La fuerza que atrae todos los objetos hacia el centro de la Tierra se llama:
 
+### Opciones
+- [x] A) Gravedad (Peso).
+- [ ] B) Fuerza Normal.
+- [ ] C) Fricción.
+- [ ] D) Tensión.
+
+> ### 📊 Info-Tarjeta
+> **Tema:** Tipos de Fuerzas
+>
+> **Análisis:** La **gravedad** es una de las cuatro fuerzas fundamentales de la naturaleza. Es la fuerza de atracción entre dos objetos con masa. En la Tierra, esta fuerza atrae todo hacia su centro, y a la magnitud de esta fuerza la llamamos **peso**.
+>
+> **Tip Clave:** Lo que te mantiene "pegado" al suelo es la gravedad.
+
+---
+
+## Pregunta 9 (Media - Dificultad 4)
+**ID:** `CO-CIE-9-fisica-movimiento-001-v9`
+
+### Enunciado
+La trayectoria curva que describe el balón en el aire después de ser pateado es un ejemplo de:
+
+### Opciones
+- [x] A) Movimiento parabólico.
+- [ ] B) Movimiento rectilíneo uniforme.
+- [ ] C) Movimiento circular.
+- [ ] D) Caída libre.
+
+> ### 📊 Info-Tarjeta
+> **Tema:** Movimiento en Dos Dimensiones
+>
+> **Análisis:** El **movimiento parabólico** ocurre cuando un objeto es lanzado con una velocidad inicial y un ángulo, y se mueve bajo la influencia de la gravedad. Es una combinación de un movimiento horizontal a velocidad constante (MRU) y un movimiento vertical uniformemente acelerado (caída libre).
+>
+> **Tip Clave:** Cualquier objeto lanzado al aire (una pelota, una flecha) describe una parábola.
+
+---
+
+## Pregunta 10 (Difícil - Dificultad 5)
+**ID:** `CO-CIE-9-fisica-movimiento-001-v10`
+
+### Enunciado
+¿Cuál es la diferencia entre **rapidez** y **velocidad**?
+
+### Opciones
+- [x] A) La rapidez es una magnitud escalar (solo un número), mientras que la velocidad es un vector (número y dirección).
+- [ ] B) La velocidad es una magnitud escalar, la rapidez es un vector.
+- [ ] C) No hay ninguna diferencia.
+- [ ] D) La rapidez se mide en m/s y la velocidad en km/h.
+
+> ### 📊 Info-Tarjeta
+> **Tema:** Escalares y Vectores en Física
+>
+> **Análisis:** En el lenguaje cotidiano se usan como sinónimos, pero en física son diferentes. La **rapidez** indica qué tan deprisa se mueve un objeto (ej. 80 km/h). La **velocidad** es más completa: indica la rapidez y también la dirección y el sentido del movimiento (ej. 80 km/h hacia el norte).
+>
+> **Tip Clave:** **V**elocidad = **V**ector.
+
+---
+
+## Pregunta 11 (Difícil - Dificultad 5)
+**ID:** `CO-CIE-9-fisica-movimiento-001-v11`
+
+### Enunciado
+¿Por qué un astronauta en la Estación Espacial Internacional flota?
+
+### Opciones
+- [x] A) Porque está en un estado constante de caída libre alrededor de la Tierra.
+- [ ] B) Porque no hay gravedad en el espacio.
+- [ ] C) Porque el traje espacial lo hace flotar.
+- [ ] D) Porque la Luna lo empuja hacia arriba.
+
+> ### 📊 Info-Tarjeta
+> **Tema:** Microgravedad
+>
+> **Análisis:** Es un error común pensar que no hay gravedad en el espacio. A la altitud de la estación espacial, la gravedad de la Tierra es todavía un 90% de la que sentimos en la superficie. Los astronautas flotan porque tanto ellos como la estación están "cayendo" continuamente hacia la Tierra. Sin embargo, tienen una velocidad horizontal tan alta que nunca chocan, manteniéndose en órbita. Este estado de caída perpetua se llama microgravedad.
+>
+> **Tip Clave:** Flotar en órbita es como estar en un ascensor que cae para siempre.

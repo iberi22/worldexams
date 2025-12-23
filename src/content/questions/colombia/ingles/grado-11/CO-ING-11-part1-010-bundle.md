@@ -4,10 +4,10 @@ country: "CO"
 grado: 11
 asignatura: "ingles"
 tema: "reading-comprehension-literary"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 estado: "draft"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-11-30"
 source: "OpenTDB"
 source_license: "CC BY-SA 4.0"
@@ -17,6 +17,13 @@ source_license: "CC BY-SA 4.0"
 
 > **Fuente:** OpenTDB (CC BY-SA 4.0)
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -39,6 +46,13 @@ Why did Tom decide to explore the house?
 ### Explicación Pedagógica
 The text says: "People in the village said it was haunted, but Tom didn't believe them. One day, he decided to explore it." His disbelief motivated his action.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -61,6 +75,13 @@ What color is Fluffy?
 ### Explicación Pedagógica
 The text explicitly states: "Fluffy is white."
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -83,6 +104,13 @@ Who found Max?
 ### Explicación Pedagógica
 The text says: "A kind girl named Lily found him."
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -105,6 +133,13 @@ What did Mary find in the soil?
 ### Explicación Pedagógica
 The text states: "Mary found a key buried in the soil." The other options are things mentioned later or related to the key.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -127,6 +162,13 @@ How did John feel after opening the package?
 ### Explicación Pedagógica
 The text describes his mood change: "His mood instantly changed from sad to happy."
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -149,6 +191,13 @@ What atmosphere does the author create in this passage?
 ### Explicación Pedagógica
 Words like "menacing," "violently," "groaning," and "raged" create a tense and threatening atmosphere.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -171,7 +220,14 @@ What is the main conflict Elena faces?
 ### Explicación Pedagógica
 The text describes an internal conflict: "university in the city" (ambition) vs. "family's farm... needed her help" (duty). Option A accurately summarizes this dilemma.
 
-|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -183,7 +239,21 @@ The text describes an internal conflict: "university in the city" (ambition) vs.
 # === Metadata de Validación ===
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -193,7 +263,35 @@ The text describes an internal conflict: "university in the city" (ambition) vs.
 ## 📊 Metadata de Validación
 
 | Pregunta | ID | Dificultad | Validado |
-|---|---|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | 1 | CO-ING-11-part1-010-v1 | 3 | ⬜ |
 | 2 | CO-ING-11-part1-010-v2 | 1 | ⬜ |
 | 3 | CO-ING-11-part1-010-v3 | 1 | ⬜ |
@@ -201,3 +299,10 @@ The text describes an internal conflict: "university in the city" (ambition) vs.
 | 5 | CO-ING-11-part1-010-v5 | 3 | ⬜ |
 | 6 | CO-ING-11-part1-010-v6 | 5 | ⬜ |
 | 7 | CO-ING-11-part1-010-v7 | 5 | ⬜ |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

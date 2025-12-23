@@ -4,10 +4,10 @@ country: "co"
 grado: 7
 asignatura: "sociales-ciudadanas"
 tema: "Historia (Edad Media)"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 estado: "published"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-12-14"
 source: "Colombia Aprende / Santillana"
 source_url: "https://aprende.colombiaaprende.edu.co/"
@@ -31,6 +31,13 @@ licenses:
 
 Durante la Edad Media en Europa, la sociedad se organizaba bajo el **Feudalismo**. El Rey concedía tierras (feudos) a los nobles y caballeros a cambio de lealtad y protección militar. Los campesinos y siervos trabajaban la tierra de los nobles y les entregaban parte de la cosecha a cambio de protección dentro del castillo. La Iglesia Católica tenía un gran poder e influencia en la vida de todos.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -50,6 +57,13 @@ Durante la Edad Media en Europa, la sociedad se organizaba bajo el **Feudalismo*
 **Distractores:**
 - D) Eso es el diezmo.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -69,6 +83,13 @@ Durante la Edad Media en Europa, la sociedad se organizaba bajo el **Feudalismo*
 **Distractores:**
 - B) Ya había caído.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -86,6 +107,13 @@ Durante la Edad Media en Europa, la sociedad se organizaba bajo el **Feudalismo*
 ### Explicación Pedagógica
 **Correcta:** A. Eran la base de la pirámide social y la mano de obra.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -105,6 +133,13 @@ La relación de **vasallaje** consistía en:
 **Distractores:**
 - B) El vasallaje era entre hombres libres/nobles, no esclavitud.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -124,6 +159,13 @@ Las **Cruzadas** fueron:
 **Distractores:**
 - B) Siglo XV (Renacimiento/Edad Moderna).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -144,6 +186,13 @@ El paso de la Edad Media a la Edad Moderna estuvo marcado por el renacimiento de
 - B, C) Clases tradicionales.
 - D) Término posterior (Revolución Industrial).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -163,15 +212,57 @@ El paso de la Edad Media a la Edad Moderna estuvo marcado por el renacimiento de
 **Distractores:**
 - B) Todo lo contrario.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|-------|-------|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

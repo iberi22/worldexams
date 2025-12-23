@@ -4,10 +4,10 @@ country: "co"
 grado: 11
 asignatura: "ingles"
 tema: "reading-comprehension-inferential"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 estado: "published"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-12-14"
 source: "Colombia Travel / Nature.org"
 source_url: "https://colombia.travel/en/blog/paramos-colombia-water-factories"
@@ -37,6 +37,13 @@ Their main function is to capture moisture from the fog and rain. The vegetation
 
 However, the páramos are fragile. Climate change, mining, and agriculture pose significant threats to their survival. If the temperature rises, the delicate balance of this ecosystem could be destroyed, affecting the water supply for millions of people. Protecting the páramos is not just about saving plants; it is about ensuring the future of the country.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -58,6 +65,13 @@ What is the author's main purpose in writing this text?
 - C) Not mentioned.
 - D) Mentioned as a threat, not a positive topic to discussion.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 2)
@@ -77,6 +91,13 @@ Why are páramos compared to "sponges"?
 **Distractores:**
 - B, C, D are literal or incorrect interpretations.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 2)
@@ -97,6 +118,13 @@ According to the text, what is a specific characteristic of the "frailejón"?
 - B) They grow below the snow caps.
 - C, D) Incorrect.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -118,6 +146,13 @@ What can be inferred about the relationship between Bogotá and the páramos?
 - C) Not supported.
 - D) Mining is a threat, but usually *in* the paramo, not "Mining in Bogota" (the city).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -137,6 +172,13 @@ The word "fragile" in the text suggests that:
 **Distractores:**
 - B, C, D are literal misinterpretations.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -157,6 +199,13 @@ What implies that the protection of páramos is a matter of national security?
 - C) Not mentioned.
 - B, D) Do not imply national security/survival.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -176,15 +225,57 @@ Which of the following would be the best alternative title for the text?
 **Distractores:**
 - B, C, D are too specific or unrelated to the main point.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|-------|-------|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

@@ -4,10 +4,10 @@ country: "co"
 grado: 11
 asignatura: "ingles"
 tema: "reading-comprehension-literal"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 estado: "published"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-12-14"
 source: "Atlas Obscura / Colombia Travel"
 source_url: "https://www.atlasobscura.com/places/cano-cristales"
@@ -37,6 +37,13 @@ The main reason for this magical coloration is a unique aquatic plant called *Ma
 
 Access to the river was restricted for many years due to armed conflict in the region. However, since 2009, it has been open to the public, becoming one of Colombia’s premier eco-tourism destinations.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -58,6 +65,13 @@ According to the text, why is Caño Cristales known as the "Liquid Rainbow"?
 - C) Not mentioned.
 - D) The text mentions plants, not fish, as the source of color.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -77,6 +91,13 @@ Where is Caño Cristales located?
 **Distractores:**
 - B, C, D are other Colombian locations not mentioned as the site.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -96,6 +117,13 @@ What gives the river its red color?
 **Distractores:**
 - B, C, D are plausible natural causes but incorrect according to the text.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -116,6 +144,13 @@ When is the best time to see the colors of the river?
 - B, C are outside the range.
 - D) The text says "For most of the year, it resembles a normal river."
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -135,6 +170,13 @@ Why are tourists prohibited from using sunscreen in the river?
 **Distractores:**
 - B, C, D are not mentioned as reasons.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -156,6 +198,13 @@ What can be inferred about the region's history before 2009?
 - C) Unlikely if restricted.
 - D) Not mentioned.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 4)
@@ -176,15 +225,57 @@ The word "unique" in the text suggests that *Macarenia clavigera* is:
 - B) Antonym.
 - C, D) Not suggested by the word.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|-------|-------|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

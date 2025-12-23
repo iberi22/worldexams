@@ -5,11 +5,11 @@ country: "co"
 grado: 9
 asignatura: "sociales-ciudadanas"
 tema: "Medio Ambiente y Desarrollo Sostenible"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
 estado: "draft"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-12-14"
 source: "OpenTDB"
 source_license: "CC BY-SA 4.0"
@@ -27,6 +27,13 @@ licenses:
 
 > **Fuente:** OpenTDB (CC BY-SA 4.0)
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -44,6 +51,13 @@ El concepto de "Desarrollo Sostenible" se define como:
 ### Explicación Pedagógica
 Es el equilibrio entre crecimiento económico, cuidado ambiental y bienestar social (Informe Brundtland, 1987).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -61,6 +75,13 @@ Es el equilibrio entre crecimiento económico, cuidado ambiental y bienestar soc
 ### Explicación Pedagógica
 El CO2, producto de la quema de combustibles fósiles, atrapa el calor en la atmósfera.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -78,6 +99,13 @@ El CO2, producto de la quema de combustibles fósiles, atrapa el calor en la atm
 ### Explicación Pedagógica
 Aunque el petróleo causa guerras, el agua es biológicamente indispensable y cada vez más escasa debido a la contaminación y el cambio climático.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -95,6 +123,13 @@ En Colombia, los páramos son ecosistemas estratégicos protegidos por la ley. �
 ### Explicación Pedagógica
 Los páramos capturan agua de la niebla y la liberan lentamente, alimentando ríos y acueductos (ej. Chingaza para Bogotá).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -112,6 +147,13 @@ Los páramos capturan agua de la niebla y la liberan lentamente, alimentando rí
 ### Explicación Pedagógica
 Nos dice cuántos "planetas Tierra" necesitaríamos si todos vivieran como nosotros. Actualmente consumimos más de lo que la Tierra regenera.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -129,6 +171,13 @@ El conflicto entre la explotación minera y la conservación ambiental en Colomb
 ### Explicación Pedagógica
 Es un choque de derechos y visiones de desarrollo: la "locomotora minera" vs. la defensa del agua y la vocación agrícola de los territorios.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -146,11 +195,32 @@ Es un choque de derechos y visiones de desarrollo: la "locomotora minera" vs. la
 ### Explicación Pedagógica
 Es vital para Colombia, el país más peligroso para los defensores ambientales. Busca transparencia y protección para quienes cuidan la naturaleza.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 # === Metadata de Validación ===
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -160,8 +230,29 @@ Es vital para Colombia, el país más peligroso para los defensores ambientales.
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Tipo | Bundle |
 | Cantidad | 7 Preguntas |
 | Dificultad | Variada (1-5) |
 | Versión Protocolo | 2.1 |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

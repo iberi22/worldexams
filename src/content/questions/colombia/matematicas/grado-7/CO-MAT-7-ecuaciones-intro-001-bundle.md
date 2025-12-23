@@ -4,10 +4,10 @@ country: "co"
 grado: 7
 asignatura: "matematicas"
 tema: "Álgebra (Ecuaciones)"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 estado: "published"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-12-14"
 source: "Colombia Aprende / Khan Academy"
 source_url: "https://es.khanacademy.org/"
@@ -32,6 +32,13 @@ licenses:
 En matemáticas, usamos letras como la $x$ para representar números que no conocemos. Una **ecuación** es como una balanza equilibrada donde debemos hallar ese valor.
 Ejemplo: Si $x + 5 = 12$, entonces el valor de $x$ es 7.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -53,6 +60,13 @@ $x = 10 + 8 = 18$.
 - B) Restó ($10-8$).
 - C) Error de signo.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -74,6 +88,13 @@ $x = 10 + 8 = 18$.
 - C) Un número al cuadrado.
 - D) La mitad.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -94,6 +115,13 @@ Si $3x = 15$, ¿cuánto vale $x$?
 - B) Resta ($15-3$).
 - C) Multiplicación ($15 \times 3$).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -113,6 +141,13 @@ Un número aumentado en 10 es igual a 25. ¿Cuál es ese número?
 **Distractores:**
 - B) Suma ($25+10$).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -135,6 +170,13 @@ Resuelve: $2x + 1 = 11$.
 - B) $(11+1)/2$.
 - C) Olvidó dividir.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -154,6 +196,13 @@ La suma de tres números consecutivos es 33. La ecuación que representa este pr
 **Distractores:**
 - B) Tres números iguales.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -174,15 +223,57 @@ Si el perímetro de un cuadrado es 24 cm, ¿cuál es la ecuación para hallar el
 - B) Ecuación lineal simple incorrecta.
 - C) Fórmula de rectángulo simplificada mal.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|-------|-------|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

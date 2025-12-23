@@ -4,10 +4,10 @@ country: "co"
 grado: 11
 asignatura: "ingles"
 tema: "reading-comprehension-inferential"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 estado: "published"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-12-14"
 source: "ProColombia / Audubon Society"
 source_url: "https://www.audubon.org/news/colombia-birding-trail"
@@ -37,6 +37,13 @@ In recent years, "avitourism" (birdwatching tourism) has become a growing indust
 
 However, challenges remain. Deforestation and illegal mining threaten the habitats of many endemic species. The future of Colombia's winged treasures depends on finding a balance between economic development and nature preservation.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -56,6 +63,13 @@ What is the primary reason for Colombia's high bird diversity?
 **Distractores:**
 - B, C, D) Not mentioned as the *reason* for diversity.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 2)
@@ -75,6 +89,13 @@ How many bird species are registered in Colombia according to the text?
 **Distractores:**
 - C) Text says it *surpasses* Brazil.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 2)
@@ -94,6 +115,13 @@ What is "avitourism"?
 **Distractores:**
 - B) Confusing "avi" (aviation) with "aves" (birds), but text defines it.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -113,6 +141,13 @@ The phrase "a live bird is worth more than a caged one" suggests that:
 **Distractores:**
 - B, D) Literal/Incorrect interpretations.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -132,6 +167,13 @@ What are the main threats to bird habitats mentioned in the text?
 **Distractores:**
 - B, C, D) Not listed as main threats in this text.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -151,6 +193,13 @@ What conclusion can be drawn about the role of local communities?
 **Distractores:**
 - B, C, D) Not supported.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -170,15 +219,57 @@ What is the author's attitude towards the future of Colombian biodiversity?
 **Distractores:**
 - B, C, D) Incorrect tone.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|-------|-------|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

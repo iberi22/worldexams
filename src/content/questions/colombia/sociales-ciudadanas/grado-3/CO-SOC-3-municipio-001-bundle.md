@@ -4,10 +4,10 @@ country: "co"
 grado: 3
 asignatura: "sociales-ciudadanas"
 tema: "Geografía y Política (Municipio)"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 estado: "published"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-12-14"
 source: "Colombia Aprende / Mineducación"
 source_url: "https://aprende.colombiaaprende.edu.co/"
@@ -35,6 +35,13 @@ Un municipio tiene dos zonas:
 2.  **Zona Rural (Campo):** Donde hay fincas, cultivos, animales y veredas.
 La máxima autoridad del municipio es el **Alcalde**, elegido por voto popular.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -55,6 +62,13 @@ La máxima autoridad del municipio es el **Alcalde**, elegido por voto popular.
 - B) Autoridad nacional.
 - D) Autoridad escolar.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -72,6 +86,13 @@ La máxima autoridad del municipio es el **Alcalde**, elegido por voto popular.
 ### Explicación Pedagógica
 **Correcta:** A. Definición de campo/ruralidad.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -89,6 +110,13 @@ La zona donde hay muchas calles, carros, edificios y mayor cantidad de gente se 
 ### Explicación Pedagógica
 **Correcta:** A. Características de la ciudad/pueblo.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -106,6 +134,13 @@ La zona donde hay muchas calles, carros, edificios y mayor cantidad de gente se 
 ### Explicación Pedagógica
 **Correcta:** A. Proceso democrático local.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -123,6 +158,13 @@ El lugar donde trabajan el Alcalde y sus funcionarios se llama:
 ### Explicación Pedagógica
 **Correcta:** A. Sede administrativa local.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -143,6 +185,13 @@ Además del Alcalde, existe un grupo de personas elegidas por el pueblo que ayud
 - B, C) Nacionales.
 - D) Barrial/Veredal (más pequeño).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -160,15 +209,57 @@ Además del Alcalde, existe un grupo de personas elegidas por el pueblo que ayud
 ### Explicación Pedagógica
 **Correcta:** A. Concepto de "lo público" y cultura ciudadana.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|-------|-------|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

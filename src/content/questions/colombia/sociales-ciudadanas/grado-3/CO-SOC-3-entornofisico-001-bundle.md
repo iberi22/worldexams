@@ -5,11 +5,11 @@ country: "co"
 grado: 3
 asignatura: "Sociales y Ciudadanas"
 tema: "Entorno Físico y Ubicación"
-protocol_version: "2.1"
-bundle_version: "2.1"
-total_questions: 7
+protocol_version: "3.0"
+
+total_questions: 11
 estado: "published"
-creador: "Antigravity"
+creador: "Jules"
 generation_date: "2025-12-14"
 
 # === LICENSING (NEW v2.1) ===
@@ -31,6 +31,13 @@ original_answer: "Por donde sale el sol es el Oriente"
 > **Fuente:** Estándares Básicos (Mineducación)
 > **Tema:** Relaciones espaciales y entorno físico
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -58,6 +65,13 @@ El Sol siempre "sale" (aparece en el horizonte) por el **Oriente** o Este. Es el
 
 **Competencia evaluada:** Relaciones espaciales y ambientales (Orientación).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -78,6 +92,13 @@ El Sol siempre "sale" (aparece en el horizonte) por el **Oriente** o Este. Es el
 
 El paisaje natural está formado por elementos de la naturaleza que no han sido creados por el hombre, como el relieve (**montañas**) y la hidrografía (**ríos**). Lo demás son elementos culturales o artificiales.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -98,6 +119,13 @@ Al dibujo que representa un lugar pequeño (como tu salón de clase o tu habitac
 
 El **plano** es la representación gráfica más sencilla de espacios pequeños vistos desde una perspectiva aérea (arriba).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -118,6 +146,13 @@ Las personas modifican el paisaje natural para satisfacer sus necesidades. Un ej
 
 Construir un puente es una acción humana (intervención cultural) que transforma el entorno físico para solucionar un problema de comunicación. Las otras opciones son fenómenos naturales.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -138,6 +173,13 @@ Construir un puente es una acción humana (intervención cultural) que transform
 
 La diferencia fundamental es la densidad de población y de construcciones. **Rural** = disperso, agrícola. **Urbano** = aglomerado, industrial/servicios.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -158,6 +200,13 @@ Para orientarnos en un mapa, siempre buscamos una flecha o una estrella que nos 
 
 La **Rosa de los Vientos** es el símbolo universal en cartografía que marca los cuatro puntos cardinales (Norte, Sur, Oriente, Occidente) para dar orientación al lector del mapa.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -179,14 +228,42 @@ Tu municipio hace parte de un territorio más grande llamado **Departamento**, y
 Relación espacial de pertenencia política-administrativa:
 Yo vivo en un Municipio (ej. Medellín), que está en un Departamento (Antioquia), que está en un País (Colombia).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

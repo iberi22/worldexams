@@ -4,10 +4,10 @@ country: "CO"
 grado: 11
 asignatura: "ingles"
 tema: "vocabulary-environment"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 estado: "draft"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-11-30"
 source: "OpenTDB"
 source_license: "CC BY-SA 4.0"
@@ -17,6 +17,13 @@ source_license: "CC BY-SA 4.0"
 
 > **Fuente:** OpenTDB (CC BY-SA 4.0)
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -34,6 +41,13 @@ What is the term for the contamination of air, water, or soil?
 ### Explicación Pedagógica
 "Pollution" refers to the introduction of harmful materials into the environment. The other words have unrelated meanings.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -51,6 +65,13 @@ Which animal lives in the water?
 ### Explicación Pedagógica
 Fish are aquatic animals. Lions, eagles, and cows live on land or fly.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -68,6 +89,13 @@ What do we call the process of reusing materials like paper and plastic?
 ### Explicación Pedagógica
 "Recycling" is the process of converting waste materials into new materials and objects.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -85,6 +113,13 @@ What is the natural home or environment of an animal, plant, or other organism c
 ### Explicación Pedagógica
 A "habitat" is the natural environment where an organism lives. A habit is a routine behavior.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -102,6 +137,13 @@ Which gas is primarily responsible for the greenhouse effect?
 ### Explicación Pedagógica
 Carbon dioxide (CO2) is the primary greenhouse gas emitted through human activities. Oxygen and Nitrogen are the main components of air but don't drive the greenhouse effect like CO2 does.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -119,6 +161,13 @@ What term describes the variety of life in the world or in a particular habitat 
 ### Explicación Pedagógica
 "Biodiversity" refers to the variety of living organisms. Biology is the study of life, not the variety itself.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -136,7 +185,14 @@ What is the term for resources that can be replenished naturally over time, such
 ### Explicación Pedagógica
 "Renewable resources" are those that replenish naturally (sun, wind, water). Fossil fuels are non-renewable.
 
-|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -148,7 +204,21 @@ What is the term for resources that can be replenished naturally over time, such
 # === Metadata de Validación ===
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -158,7 +228,35 @@ What is the term for resources that can be replenished naturally over time, such
 ## 📊 Metadata de Validación
 
 | Pregunta | ID | Dificultad | Validado |
-|---|---|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | 1 | CO-ING-11-part1-012-v1 | 3 | ⬜ |
 | 2 | CO-ING-11-part1-012-v2 | 1 | ⬜ |
 | 3 | CO-ING-11-part1-012-v3 | 1 | ⬜ |
@@ -166,3 +264,10 @@ What is the term for resources that can be replenished naturally over time, such
 | 5 | CO-ING-11-part1-012-v5 | 3 | ⬜ |
 | 6 | CO-ING-11-part1-012-v6 | 5 | ⬜ |
 | 7 | CO-ING-11-part1-012-v7 | 5 | ⬜ |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

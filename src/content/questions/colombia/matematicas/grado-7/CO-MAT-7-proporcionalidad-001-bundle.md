@@ -5,11 +5,11 @@ country: "co"
 grado: 7
 asignatura: "Matemáticas"
 tema: "Proporcionalidad y Regla de Tres"
-protocol_version: "2.1"
-bundle_version: "2.1"
-total_questions: 7
+protocol_version: "3.0"
+
+total_questions: 11
 estado: "published"
-creador: "Antigravity"
+creador: "Jules"
 generation_date: "2025-12-14"
 dificultad: 3
 llm_model: "gemini-2.0-flash-exp"
@@ -35,6 +35,13 @@ original_answer: "Si 2 valen 1000, 4 valen 2000"
 > **Fuente:** ICFES (Adaptada)
 > **Tema:** Resolución de problemas multiplicativos
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -59,6 +66,13 @@ $200 \times 2 = 400$ gramos.
 
 **Competencia evaluada:** Resolución de problemas (Proporcionalidad).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -80,6 +94,13 @@ Una caja de colores cuesta $5.000 pesos. ¿Cuánto cuestan 2 cajas de los mismos
 Simplemente multiplicamos el precio unitario por la cantidad:
 $5.000 \times 2 = 10.000$.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -101,6 +122,13 @@ En una tienda, por cada 3 tapas de gaseosa te regalan 1 vaso. Si Carlos tiene 9 
 Dividimos el total de tapas entre las requeridas por premio:
 $9 \div 3 = 3$ vasos.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -123,6 +151,13 @@ Este es un caso de **proporcionalidad inversa**. A *más* grifos, *menos* tiempo
 Si duplicamos los grifos (x2), el tiempo se reduce a la mitad (/2).
 $6 \div 2 = 3$ horas.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -144,6 +179,13 @@ En un mapa, 1 centímetro representa 100 kilómetros en la realidad. Si la dista
 Usamos la escala dada:
 $5 \text{ cm} \times 100 \text{ km/cm} = 500 \text{ km}$.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -167,6 +209,13 @@ $180 \text{ km} \div 3 \text{ gal} = 60 \text{ km/gal}$.
 Luego multiplicamos por la nueva cantidad:
 $60 \text{ km/gal} \times 5 \text{ gal} = 300 \text{ km}$.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -189,14 +238,42 @@ Pedro aportó $5.000 de un total de $10.000, lo que representa exactamente la **
 Por justicia proporcional, debe recibir la mitad del premio:
 $100.000 \times \frac{1}{2} = 50.000$.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

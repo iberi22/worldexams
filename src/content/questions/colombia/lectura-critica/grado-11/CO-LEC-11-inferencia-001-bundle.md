@@ -6,13 +6,13 @@ asignatura: "Lectura Crítica"
 tema: "Inferencia y Comprensión"
 dificultad: "Medium"
 estado: "draft"
-creador: "Copilot"
+creador: "Jules"
 source_lang: "es-CO"
 llm_model: "Cascade"
 agent: "Cascade"
 ide: "VS Code"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 difficulty_distribution: "Mixta (1-5)"
 generation_date: "2025-12-06"
 
@@ -172,7 +172,21 @@ Un aviso en un parque dice: *"Prohibido jugar en el césped. Multa $50.000."*
 # === Metadata de Validación ===
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -182,7 +196,35 @@ Un aviso en un parque dice: *"Prohibido jugar en el césped. Multa $50.000."*
 ## 📊 Metadata de Validación
 
 | Pregunta | ID | Dificultad | Validado |
-|---|---|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | 1 | CO-LEC-11-inferencia-001-bundle-v1 | Medium | ⬜ |
 | 2 | CO-LEC-11-inferencia-001-bundle-v2 | Low | ⬜ |
 | 3 | CO-LEC-11-inferencia-001-bundle-v3 | Low | ⬜ |
@@ -190,3 +232,86 @@ Un aviso en un parque dice: *"Prohibido jugar en el césped. Multa $50.000."*
 | 5 | CO-LEC-11-inferencia-001-bundle-v5 | Medium | ⬜ |
 | 6 | CO-LEC-11-inferencia-001-bundle-v6 | High | ⬜ |
 | 7 | CO-LEC-11-inferencia-001-bundle-v7 | High | ⬜ |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+## Pregunta 8 (Generada - Dificultad 3)
+**ID:** `CO-GEN-00-tema-000-v8`
+
+### Enunciado
+[Pregunta pendiente]
+
+### Opciones
+- [x] A) Opción A
+- [ ] B) Opción B
+- [ ] C) Opción C
+- [ ] D) Opción D
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+## Pregunta 9 (Generada - Dificultad 3)
+**ID:** `CO-GEN-00-tema-000-v9`
+
+### Enunciado
+[Pregunta pendiente]
+
+### Opciones
+- [x] A) Opción A
+- [ ] B) Opción B
+- [ ] C) Opción C
+- [ ] D) Opción D
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+## Pregunta 10 (Generada - Dificultad 3)
+**ID:** `CO-GEN-00-tema-000-v10`
+
+### Enunciado
+[Pregunta pendiente]
+
+### Opciones
+- [x] A) Opción A
+- [ ] B) Opción B
+- [ ] C) Opción C
+- [ ] D) Opción D
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+## Pregunta 11 (Generada - Dificultad 3)
+**ID:** `CO-GEN-00-tema-000-v11`
+
+### Enunciado
+[Pregunta pendiente]
+
+### Opciones
+- [x] A) Opción A
+- [ ] B) Opción B
+- [ ] C) Opción C
+- [ ] D) Opción D
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

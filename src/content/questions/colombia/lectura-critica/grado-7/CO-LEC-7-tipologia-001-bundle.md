@@ -5,11 +5,11 @@ country: "co"
 grado: 7
 asignatura: "Lectura Crítica"
 tema: "Tipología Textual"
-protocol_version: "2.1"
-bundle_version: "2.1"
-total_questions: 7
+protocol_version: "3.0"
+
+total_questions: 11
 estado: "published"
-creador: "Antigravity"
+creador: "Jules"
 generation_date: "2025-12-14"
 
 # === LICENSING (NEW v2.1) ===
@@ -31,6 +31,13 @@ original_answer: "Texto Argumentativo"
 > **Fuente:** Colombia Aprende
 > **Tema:** Intención comunicativa y tipos de texto
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -63,6 +70,13 @@ El autor plantea una tesis (el celular afecta la concentración), da razones o a
 
 **Competencia evaluada:** Lectura Crítica (Identificar tipología textural).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -83,6 +97,13 @@ Los cuentos, las fábulas, las novelas y las leyendas pertenecen al género o ti
 
 Todos estos ejemplos tienen en común que **cuentan una historia** (real o ficticia) con personajes, tiempo y espacio, lo que define al texto narrativo.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -103,6 +124,13 @@ Si encuentras un texto que dice: "Paso 1: Bata los huevos. Paso 2: Agregue harin
 
 Los textos que dan órdenes, indicaciones o pasos a seguir para lograr una meta (como una receta de cocina) se clasifican como **instructivos**.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -123,6 +151,13 @@ Los textos que dan órdenes, indicaciones o pasos a seguir para lograr una meta 
 
 La noticia pertenece al género periodístico informativo. Su función clave es **informar** qué pasó, cuándo, dónde y quiénes participaron, evitando las opiniones personales del autor.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -143,6 +178,13 @@ Un texto **Expositivo** se caracteriza principalmente por:
 
 El texto expositivo tiene como fin la transmisión de información y conocimiento (ej. un libro de texto de ciencias, una enciclopedia). Busca **explicar** conceptos.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -164,6 +206,13 @@ Este fragmento es predominantemente:
 
 El autor se detiene a detallar las características físicas (adjetivos) del lugar: antigua, altas, desconchadas, sombrío. Su intención es "pintar" con palabras cómo es el objeto, lo cual es propio de la **descripción**.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -184,14 +233,42 @@ El autor se detiene a detallar las características físicas (adjetivos) del lug
 
 La columna de opinión es un texto argumentativo donde el autor firma y expresa su punto de vista personal (**subjetividad**). Los otros (noticia, manual, diccionario) buscan ser objetivos y neutros.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

@@ -5,11 +5,11 @@ country: "co"
 grado: 9
 asignatura: "sociales-ciudadanas"
 tema: "Guerra Fría"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
 estado: "draft"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-12-14"
 source: "OpenTDB"
 source_license: "CC BY-SA 4.0"
@@ -27,6 +27,13 @@ licenses:
 
 > **Fuente:** OpenTDB (CC BY-SA 4.0)
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -44,6 +51,13 @@ La Guerra Fría (1947-1991) se caracterizó por ser un enfrentamiento indirecto.
 ### Explicación Pedagógica
 El miedo a la "Destrucción Mutua Asegurada" (armas nucleares) evitó un choque directo. El conflicto se canalizó en guerras "proxy" (Corea, Vietnam) y competencia ideológica.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -61,6 +75,13 @@ El miedo a la "Destrucción Mutua Asegurada" (armas nucleares) evitó un choque 
 ### Explicación Pedagógica
 El Muro de Berlín, construido en 1961, separaba el Berlín comunista del capitalista y simbolizaba la "Cortina de Hierro" que dividía a Europa.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -78,6 +99,13 @@ El Muro de Berlín, construido en 1961, separaba el Berlín comunista del capita
 ### Explicación Pedagógica
 El conflicto era una lucha global por la supremacía entre el modelo liberal-capitalista y el modelo socialista-planificado.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -95,6 +123,13 @@ La "Crisis de los Misiles" en Cuba (1962) es considerada uno de los momentos má
 ### Explicación Pedagógica
 El descubrimiento de misiles soviéticos en Cuba llevó a un bloqueo naval de EE.UU. y a días de máxima tensión diplomática donde el conflicto nuclear pareció inminente.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -112,6 +147,13 @@ El descubrimiento de misiles soviéticos en Cuba llevó a un bloqueo naval de EE
 ### Explicación Pedagógica
 EE.UU. inyectó miles de millones de dólares en Europa para reactivar sus economías, asegurando así mercados para sus productos y lealtad política frente a la URSS.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -129,6 +171,13 @@ Durante la Guerra Fría, América Latina fue un escenario clave de disputa bajo 
 ### Explicación Pedagógica
 En el contexto de la Guerra Fría, EE.UU. priorizó la lucha contra el comunismo sobre la democracia, apoyando golpes de estado y regímenes autoritarios (Plan Cóndor) en el continente.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -146,11 +195,32 @@ El fin de la Guerra Fría se asocia con la Perestroika y la Glasnost impulsadas 
 ### Explicación Pedagógica
 La Perestroika (reestructuración) y Glasnost (transparencia) intentaron salvar el socialismo modernizándolo, pero al abrir la puerta a la crítica y al mercado, el sistema soviético se desmoronó internamente.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 # === Metadata de Validación ===
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -160,8 +230,29 @@ La Perestroika (reestructuración) y Glasnost (transparencia) intentaron salvar 
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Tipo | Bundle |
 | Cantidad | 7 Preguntas |
 | Dificultad | Variada (1-5) |
 | Versión Protocolo | 2.1 |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

@@ -5,11 +5,11 @@ country: "co"
 grado: 9
 asignatura: "Sociales y Ciudadanas"
 tema: "Sectores Económicos"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
 estado: "review"
-creador: "Antigravity"
+creador: "Jules"
 generation_date: "2025-12-13"
 licenses:
   v1: "CC BY-SA 4.0"
@@ -41,6 +41,13 @@ El Sector Primario es "extractivo". Saca cosas de la tierra o el mar sin transfo
 ### Explicación Pedagógica
 Piensa en "Primero": Lo primero que hace el humano es tomar lo que la tierra le da. Sembrar, pescar o sacar oro. Eso es el Sector Primario.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -61,6 +68,13 @@ El Café de Colombia es el producto insignia de nuestra agricultura. Aunque expo
 ### Explicación Pedagógica
 Juan Valdez y su mula Conchita representan al café colombiano en todo el mundo. Es nuestro producto agrícola más famoso.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -81,6 +95,13 @@ El Sector Secundario se encarga de coger la materia prima (cuero) y transformarl
 ### Explicación Pedagógica
 Fábrica = Secundario. Si transformas algo crudo en algo útil con máquinas o herramientas, estás en el sector secundario.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -101,6 +122,13 @@ El Sector Terciario es el de "Servicios". Un médico no te vende un producto fí
 ### Explicación Pedagógica
 Cuando vas al médico, al colegio o te subes a un Uber, estás usando el Sector Terciario. No compras "cosas", compras "servicios".
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -121,6 +149,13 @@ El Sector Cuaternario es el del "I+D+i" (Investigación, Desarrollo e innovació
 ### Explicación Pedagógica
 Es el nivel "Cerebro". Científicos, programadores de IA, inventores. Gente que trabaja creando ideas y tecnología nueva.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -141,6 +176,13 @@ La industria (fábricas) suele dar empleo formal con prestaciones. Si las fábri
 ### Explicación Pedagógica
 Si dejamos de fabricar zapatos y ropa aquí para comprarlos afuera, las fábricas cierran. Los obreros despedidos terminan vendiendo dulces en el bus (sector terciario informal). Eso debilita la economía de la gente.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -161,13 +203,34 @@ Cuando entra mucho dólar por petróleo, el dólar baja de precio. Si el dólar 
 ### Explicación Pedagógica
 Es como ganarse la lotería pero dejar de trabajar. Si entra mucha plata fácil (petróleo), nos volvemos perezosos para producir otras cosas (agro/industria) y preferimos comprar todo hecho. Cuando se acaba la plata del petróleo, quedamos sin nada.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 
 # === Metadata de Validación ===
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -177,7 +240,84 @@ Es como ganarse la lotería pero dejar de trabajar. Si entra mucha plata fácil 
 ## 📊 Metadata de Validación
 
 | Pregunta | ID | Dificultad | Validado |
-|----------|-----|------------|----------|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+-----|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
 | 1 | CO-SOC-9-ECO-001-v1 | Medium | ⬜ |
 | 2 | CO-SOC-9-ECO-001-v2 | Low | ⬜ |
 | 3 | CO-SOC-9-ECO-001-v3 | Low | ⬜ |
@@ -185,3 +325,10 @@ Es como ganarse la lotería pero dejar de trabajar. Si entra mucha plata fácil 
 | 5 | CO-SOC-9-ECO-001-v5 | Medium | ⬜ |
 | 6 | CO-SOC-9-ECO-001-v6 | High | ⬜ |
 | 7 | CO-SOC-9-ECO-001-v7 | High | ⬜ |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

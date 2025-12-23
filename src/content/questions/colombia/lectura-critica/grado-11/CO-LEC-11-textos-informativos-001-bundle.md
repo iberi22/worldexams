@@ -4,10 +4,10 @@ country: "CO"
 grado: 11
 asignatura: "lectura-critica"
 tema: "textos-informativos"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 estado: "draft"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-11-30"
 source: "OpenTDB"
 source_license: "CC BY-SA 4.0"
@@ -17,6 +17,13 @@ source_license: "CC BY-SA 4.0"
 
 > **Fuente:** OpenTDB (CC BY-SA 4.0)
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -37,6 +44,13 @@ Según el texto, ¿cuál es la causa principal del cambio climático actual?
 ### Explicación Pedagógica
 El texto distingue entre causas naturales y humanas, y afirma explícitamente que "desde el siglo XIX, las actividades humanas han sido el principal motor".
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -54,6 +68,13 @@ El texto distingue entre causas naturales y humanas, y afirma explícitamente qu
 ### Explicación Pedagógica
 El texto lista: "carbón, el petróleo y el gas".
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -71,6 +92,13 @@ Según el texto, ¿desde qué siglo las actividades humanas son el principal mot
 ### Explicación Pedagógica
 El texto dice: "desde el siglo XIX".
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -88,6 +116,13 @@ El texto dice: "desde el siglo XIX".
 ### Explicación Pedagógica
 "Sin embargo" es un conector adversativo. Aquí contrasta la idea anterior (cambios pueden ser naturales) con la nueva idea (actualmente son humanos).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -105,6 +140,13 @@ El texto dice: "desde el siglo XIX".
 ### Explicación Pedagógica
 La primera oración define el concepto: "se refiere a los cambios a largo plazo de las temperaturas y los patrones climáticos".
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -122,6 +164,13 @@ A partir del texto, ¿qué se puede inferir sobre la relación entre la Revoluci
 ### Explicación Pedagógica
 Aunque el texto no menciona explícitamente "Revolución Industrial", menciona el "siglo XIX" y la "quema de combustibles fósiles" como punto de inflexión. El lector debe conectar estos datos con su conocimiento previo o inferir que ese siglo corresponde a la industrialización basada en carbón.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -139,7 +188,14 @@ Aunque el texto no menciona explícitamente "Revolución Industrial", menciona e
 ### Explicación Pedagógica
 El texto es expositivo/informativo. Define un concepto y explica sus causas con datos verificables, sin usar lenguaje emotivo ni apelaciones directas a la acción (aunque el tema sea urgente, el tono del fragmento es descriptivo).
 
-|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -151,7 +207,21 @@ El texto es expositivo/informativo. Define un concepto y explica sus causas con 
 # === Metadata de Validación ===
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -161,7 +231,35 @@ El texto es expositivo/informativo. Define un concepto y explica sus causas con 
 ## 📊 Metadata de Validación
 
 | Pregunta | ID | Dificultad | Validado |
-|---|---|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | 1 | CO-LEC-11-textos-informativos-001-v1 | 3 | ⬜ |
 | 2 | CO-LEC-11-textos-informativos-001-v2 | 1 | ⬜ |
 | 3 | CO-LEC-11-textos-informativos-001-v3 | 1 | ⬜ |
@@ -169,3 +267,10 @@ El texto es expositivo/informativo. Define un concepto y explica sus causas con 
 | 5 | CO-LEC-11-textos-informativos-001-v5 | 3 | ⬜ |
 | 6 | CO-LEC-11-textos-informativos-001-v6 | 5 | ⬜ |
 | 7 | CO-LEC-11-textos-informativos-001-v7 | 5 | ⬜ |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

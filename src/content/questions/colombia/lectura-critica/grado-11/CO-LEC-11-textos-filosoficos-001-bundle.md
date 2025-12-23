@@ -4,10 +4,10 @@ country: "CO"
 grado: 11
 asignatura: "lectura-critica"
 tema: "textos-filosoficos"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 estado: "draft"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-11-30"
 source: "OpenTDB"
 source_license: "CC BY-SA 4.0"
@@ -17,6 +17,13 @@ source_license: "CC BY-SA 4.0"
 
 > **Fuente:** OpenTDB (CC BY-SA 4.0)
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -38,6 +45,13 @@ Lea el siguiente fragmento y responda:
 ### Explicación Pedagógica
 La frase de Protágoras es el fundamento del relativismo. Implica que no hay una verdad objetiva universal, sino que cada individuo percibe y juzga la realidad desde su propia perspectiva.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -55,6 +69,13 @@ Según la frase "El hombre es la medida de todas las cosas", ¿quién determina 
 ### Explicación Pedagógica
 La frase establece explícitamente al "hombre" como la medida o criterio para juzgar las cosas.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -72,6 +93,13 @@ Si "el hombre es la medida de todas las cosas", ¿qué pasa con las opiniones de
 ### Explicación Pedagógica
 Bajo el relativismo de Protágoras, si cada hombre es la medida, las opiniones distintas son válidas para quien las sostiene.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -89,6 +117,13 @@ Bajo el relativismo de Protágoras, si cada hombre es la medida, las opiniones d
 ### Explicación Pedagógica
 El ejemplo del viento (sensación térmica) es clásico del relativismo: la "verdad" sobre si el viento es frío o tibio depende de la sensación de cada individuo, no es una propiedad absoluta del viento en sí mismo en este contexto filosófico.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -106,6 +141,13 @@ El ejemplo del viento (sensación térmica) es clásico del relativismo: la "ver
 ### Explicación Pedagógica
 Protágoras es uno de los principales sofistas y su frase es la base del relativismo epistemológico, que niega verdades absolutas universales.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -123,6 +165,13 @@ Protágoras es uno de los principales sofistas y su frase es la base del relativ
 ### Explicación Pedagógica
 La opción A presenta la paradoja de la autorrefutación, una crítica lógica clásica al relativismo radical. Si la tesis es verdad absoluta, contradice su propio contenido; si es relativa, no tiene validez universal.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -140,7 +189,14 @@ En el contexto de la democracia ateniense, ¿qué implicación política tiene l
 ### Explicación Pedagógica
 Los sofistas como Protágoras defendían el *nomos* (ley/convención) frente a la *physis* (naturaleza). Si no hay verdades absolutas, las leyes son convenciones humanas que pueden ser debatidas y cambiadas, lo cual es fundamental para la democracia y la retórica.
 
-|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -152,7 +208,21 @@ Los sofistas como Protágoras defendían el *nomos* (ley/convención) frente a l
 # === Metadata de Validación ===
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -162,7 +232,35 @@ Los sofistas como Protágoras defendían el *nomos* (ley/convención) frente a l
 ## 📊 Metadata de Validación
 
 | Pregunta | ID | Dificultad | Validado |
-|---|---|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | 1 | CO-LEC-11-textos-filosoficos-001-v1 | 3 | ⬜ |
 | 2 | CO-LEC-11-textos-filosoficos-001-v2 | 1 | ⬜ |
 | 3 | CO-LEC-11-textos-filosoficos-001-v3 | 1 | ⬜ |
@@ -170,3 +268,10 @@ Los sofistas como Protágoras defendían el *nomos* (ley/convención) frente a l
 | 5 | CO-LEC-11-textos-filosoficos-001-v5 | 3 | ⬜ |
 | 6 | CO-LEC-11-textos-filosoficos-001-v6 | 5 | ⬜ |
 | 7 | CO-LEC-11-textos-filosoficos-001-v7 | 5 | ⬜ |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

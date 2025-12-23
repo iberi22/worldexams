@@ -4,10 +4,10 @@ country: "co"
 grado: 7
 asignatura: "sociales-ciudadanas"
 tema: "Geografía (Continentes)"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 estado: "published"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-12-14"
 source: "IGAC / Santillana"
 source_url: "https://www.igac.gov.co/"
@@ -34,6 +34,13 @@ En 7° grado estudiamos la geografía de los continentes del "Viejo Mundo": Euro
 *   **Asia:** El continente más grande y poblado. Allí están China, India y Rusia.
 *   **África:** El continente con más países (54), famoso por el desierto del Sahara y el río Nilo.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -54,6 +61,13 @@ En 7° grado estudiamos la geografía de los continentes del "Viejo Mundo": Euro
 - B) Pequeño.
 - C) Segundo más grande.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -73,6 +87,13 @@ En 7° grado estudiamos la geografía de los continentes del "Viejo Mundo": Euro
 **Distractores:**
 - B) Desierto de Gobi.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -90,6 +111,13 @@ España, Francia, Alemania e Italia son países que pertenecen al continente de:
 ### Explicación Pedagógica
 **Correcta:** A. Países europeos clásicos.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -110,6 +138,13 @@ España, Francia, Alemania e Italia son países que pertenecen al continente de:
 - B) América.
 - C) Norte de Europa.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -130,6 +165,13 @@ La Cordillera de los **Himalaya**, donde se encuentra el Monte Everest (la monta
 - B) Alpes.
 - C) Andes.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -149,6 +191,13 @@ Geropolíticamente, Rusia es un caso particular porque:
 **Distractores:**
 - D) El más grande.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -169,15 +218,57 @@ Geropolíticamente, Rusia es un caso particular porque:
 - B, D) Problemas de países en desarrollo.
 - C) El flujo es inverso.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|-------|-------|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

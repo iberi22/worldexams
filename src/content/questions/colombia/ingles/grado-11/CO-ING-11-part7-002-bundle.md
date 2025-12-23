@@ -4,10 +4,10 @@ country: "co"
 grado: 11
 asignatura: "ingles"
 tema: "grammar-cloze-complex"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 estado: "published"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-12-14"
 source: "Colombia Travel"
 source_url: "https://colombia.travel/"
@@ -37,6 +37,13 @@ This combination might sound strange to foreigners, but it is a perfect mix of s
 
 If you visit Bogotá, you (6) ______ distinctively try it. It is a cultural experience you will not (7) ______. The energy it provides helps people continue their work in the afternoon.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -57,6 +64,13 @@ Choose the correct option for space (1).
 - B) "For" indicates purpose.
 - C) "With" usually takes a noun ("made with chocolate"), not a gerund "melting".
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 2)
@@ -76,6 +90,13 @@ Choose the correct option for space (2).
 **Distractores:**
 - B, C, D) Incorrect pronouns.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Media - Dificultad 3)
@@ -96,6 +117,13 @@ Choose the correct option for space (3).
 - B) "Dates from" is possible but "dates back to" is the full expression here.
 - C, D) Incorrect collocations.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -117,6 +145,13 @@ Choose the correct option for space (4).
 - C) "A lot" needs "of" (A lot of).
 - D) "Any" is for negatives/questions.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -136,6 +171,13 @@ Choose the correct option for space (5).
 **Distractores:**
 - B, C, D) Do not fit "weather" well here.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 4)
@@ -157,6 +199,13 @@ Choose the correct option for space (6).
 - C) Needs "to" (have to).
 - D) "Might" is too weak for a recommendation in this context.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -178,15 +227,57 @@ Choose the correct option for space (7).
 - C) Incorrect verb use.
 - D) "Miss" could work ("Experience you won't miss" - usually meaning you will definitely attend), but "you will not forget" (it's memorable) fits the glowing description better.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|-------|-------|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 1 |
 | Media (Dificultad 3) | 3 |
 | Difícil (Dificultad 4-5) | 2 |
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

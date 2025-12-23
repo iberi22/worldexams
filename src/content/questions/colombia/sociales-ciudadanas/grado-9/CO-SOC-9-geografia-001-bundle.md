@@ -5,11 +5,11 @@ country: "co"
 grado: 9
 asignatura: "Sociales y Ciudadanas"
 tema: "Geografía Física de Colombia"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
 estado: "review"
-creador: "Antigravity"
+creador: "Jules"
 generation_date: "2025-12-13"
 licenses:
   v1: "CC BY-SA 4.0"
@@ -38,6 +38,13 @@ Los Andes entran a Colombia por el sur, desde Ecuador. En el Nudo de los Pastos 
 ### Explicación Pedagógica
 Imagina que la montaña entra por abajo (sur) y se abre en tres dedos que recorren el país hacia arriba (norte). Eso pasa en el sur, cerca a Ecuador.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -58,6 +65,13 @@ Colombia es el único país de Suramérica con costas en el Océano Pacífico (a
 ### Explicación Pedagógica
 Al norte tenemos el Mar Caribe (la playa de Cartagena), y al occidente el Pacífico (la selva del Chocó y las ballenas).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -78,6 +92,13 @@ La Sierra Nevada de Santa Marta es un sistema montañoso aislado de los Andes. A
 ### Explicación Pedagógica
 Aunque los Andes son enormes, los picos más altos están en una montaña "solita" cerca al mar: la Sierra Nevada de Santa Marta.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -98,6 +119,13 @@ La Orinoquía (Llanos Orientales) es una planicie extensa al oriente de los Ande
 ### Explicación Pedagógica
 Piensa en "Llanos": plano, tierra de ganaderos, joropo y mucha extensión de pastos.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -118,6 +146,13 @@ Al estar en el trópico, la temperatura depende de qué tan alto estás sobre el
 ### Explicación Pedagógica
 Entre más subes la montaña, más frío hace. No es por ser diciembre o julio, es por la altura.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -138,6 +173,13 @@ En Colombia, "El Niño" se manifiesta con una reducción drástica de las lluvia
 ### Explicación Pedagógica
 En Colombia: Niño = Seco y Caliente (Incendios). Niña = Lluvia e Inundación (Mojada).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -158,13 +200,34 @@ El Chocó Biogeográfico (Pacífico) es una de las regiones más húmedas del mu
 ### Explicación Pedagógica
 El Chocó es selva y lluvia. Llueve muchísimo, y por eso hay tantas plantas y animales extraños y únicos. Es un tesoro de la naturaleza.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 
 # === Metadata de Validación ===
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -174,7 +237,84 @@ El Chocó es selva y lluvia. Llueve muchísimo, y por eso hay tantas plantas y a
 ## 📊 Metadata de Validación
 
 | Pregunta | ID | Dificultad | Validado |
-|----------|-----|------------|----------|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+-----|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
 | 1 | CO-SOC-9-GEO-001-v1 | Medium | ⬜ |
 | 2 | CO-SOC-9-GEO-001-v2 | Low | ⬜ |
 | 3 | CO-SOC-9-GEO-001-v3 | Low | ⬜ |
@@ -182,3 +322,10 @@ El Chocó es selva y lluvia. Llueve muchísimo, y por eso hay tantas plantas y a
 | 5 | CO-SOC-9-GEO-001-v5 | Medium | ⬜ |
 | 6 | CO-SOC-9-GEO-001-v6 | High | ⬜ |
 | 7 | CO-SOC-9-GEO-001-v7 | High | ⬜ |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

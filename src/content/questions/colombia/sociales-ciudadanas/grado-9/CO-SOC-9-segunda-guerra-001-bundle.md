@@ -5,11 +5,11 @@ country: "co"
 grado: 9
 asignatura: "sociales-ciudadanas"
 tema: "Segunda Guerra Mundial"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
 estado: "draft"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-12-14"
 source: "OpenTDB"
 source_license: "CC BY-SA 4.0"
@@ -27,6 +27,13 @@ licenses:
 
 > **Fuente:** OpenTDB (CC BY-SA 4.0)
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -44,6 +51,13 @@ La Segunda Guerra Mundial (1939-1945) finalizó en el teatro del Pacífico con u
 ### Explicación Pedagógica
 El uso de armas nucleares en agosto de 1945 forzó la rendición de Japón y marcó el inicio de la era nuclear y la Guerra Fría.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -61,6 +75,13 @@ El uso de armas nucleares en agosto de 1945 forzó la rendición de Japón y mar
 ### Explicación Pedagógica
 La invasión alemana a Polonia el 1 de septiembre de 1939 provocó que Francia y Reino Unido declararan la guerra a Alemania.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -78,6 +99,13 @@ La invasión alemana a Polonia el 1 de septiembre de 1939 provocó que Francia y
 ### Explicación Pedagógica
 El régimen nazi implementó la "Solución Final", un genocidio sistemático que asesinó a seis millones de judíos europeos.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -95,6 +123,13 @@ El régimen nazi implementó la "Solución Final", un genocidio sistemático que
 ### Explicación Pedagógica
 Stalingrado es considerada la batalla más sangrienta de la historia y marcó el momento en que Alemania perdió la iniciativa en la guerra, comenzando su retroceso hacia Berlín.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -112,6 +147,13 @@ Stalingrado es considerada la batalla más sangrienta de la historia y marcó el
 ### Explicación Pedagógica
 La ONU reemplazó a la fallida Sociedad de Naciones, buscando crear un foro más efectivo para la diplomacia y la prevención de conflictos globales.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -129,6 +171,13 @@ El concepto de "Guerra Total" se aplica a la Segunda Guerra Mundial porque:
 ### Explicación Pedagógica
 En la guerra total, las fábricas, ciudades y la moral de la población civil se convierten en objetivos militares legítimos (ej. bombardeos a Londres, Dresde, Tokio), ya que sostienen el esfuerzo bélico.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -146,11 +195,32 @@ Una consecuencia geopolítica fundamental de la Segunda Guerra Mundial fue la bi
 ### Explicación Pedagógica
 El declive de las potencias europeas tradicionales (Reino Unido, Francia, Alemania) dejó un vacío que fue llenado por EE.UU. y la URSS, dando inicio a la Guerra Fría.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 # === Metadata de Validación ===
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -160,8 +230,29 @@ El declive de las potencias europeas tradicionales (Reino Unido, Francia, Aleman
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Tipo | Bundle |
 | Cantidad | 7 Preguntas |
 | Dificultad | Variada (1-5) |
 | Versión Protocolo | 2.1 |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

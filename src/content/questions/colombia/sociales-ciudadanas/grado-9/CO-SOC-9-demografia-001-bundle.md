@@ -5,11 +5,11 @@ country: "co"
 grado: 9
 asignatura: "sociales-ciudadanas"
 tema: "Demografía y Población"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
 estado: "draft"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-12-14"
 source: "OpenTDB"
 source_license: "CC BY-SA 4.0"
@@ -27,6 +27,13 @@ licenses:
 
 > **Fuente:** OpenTDB (CC BY-SA 4.0)
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -44,6 +51,13 @@ La "transición demográfica" es un modelo que explica cómo cambia la població
 ### Explicación Pedagógica
 Los países desarrollados (y cada vez más Colombia) están en esta fase: la gente vive más tiempo (mejor salud) pero tiene menos hijos (planificación, rol de la mujer), lo que envejece la pirámide poblacional.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -61,6 +75,13 @@ Los países desarrollados (y cada vez más Colombia) están en esta fase: la gen
 ### Explicación Pedagógica
 La tasa de fecundidad es clave para saber si una población crecerá o disminuirá en el futuro.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -78,6 +99,13 @@ La tasa de fecundidad es clave para saber si una población crecerá o disminuir
 ### Explicación Pedagógica
 Es un indicador fundamental de la calidad de vida y salud de una población. En Colombia ha aumentado significativamente en las últimas décadas.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -95,6 +123,13 @@ Es un indicador fundamental de la calidad de vida y salud de una población. En 
 ### Explicación Pedagógica
 Factores de "empuje" (violencia, pobreza rural) y factores de "atracción" (servicios, empleo urbano) han convertido a Colombia en un país mayoritariamente urbano.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -112,6 +147,13 @@ Si la pirámide poblacional de un país tiene una base muy ancha y una cima estr
 ### Explicación Pedagógica
 La base representa a los niños y jóvenes. Si es ancha, nacen muchos niños. Si la cima es estrecha, pocos llegan a la vejez.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -129,6 +171,13 @@ El fenómeno del "Bono Demográfico" ocurre cuando:
 ### Explicación Pedagógica
 Es una ventana de oportunidad temporal. Si el país invierte en educación y empleo durante este periodo, puede desarrollarse rápidamente antes de que la población envejezca.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -146,11 +195,32 @@ Analice los retos que enfrenta Colombia debido al rápido envejecimiento de su p
 ### Explicación Pedagógica
 Al reducirse la base de cotizantes y aumentar los beneficiarios, los sistemas de seguridad social entran en crisis financiera, requiriendo reformas estructurales.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 # === Metadata de Validación ===
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -160,8 +230,29 @@ Al reducirse la base de cotizantes y aumentar los beneficiarios, los sistemas de
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Tipo | Bundle |
 | Cantidad | 7 Preguntas |
 | Dificultad | Variada (1-5) |
 | Versión Protocolo | 2.1 |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

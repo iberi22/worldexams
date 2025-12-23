@@ -5,11 +5,11 @@ country: "co"
 grado: 9
 asignatura: "sociales-ciudadanas"
 tema: "Derechos Humanos y DIH"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
 estado: "draft"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-12-14"
 source: "OpenTDB"
 source_license: "CC BY-SA 4.0"
@@ -27,6 +27,13 @@ licenses:
 
 > **Fuente:** OpenTDB (CC BY-SA 4.0)
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -44,6 +51,13 @@ licenses:
 ### Explicación Pedagógica
 El DIH (Convenios de Ginebra) son las "reglas de la guerra" para limitar la barbarie en el conflicto. Los DD.HH. son universales y permanentes.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -61,6 +75,13 @@ El DIH (Convenios de Ginebra) son las "reglas de la guerra" para limitar la barb
 ### Explicación Pedagógica
 Es el documento fundacional que establece que todos los seres humanos nacen libres e iguales en dignidad y derechos.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -78,6 +99,13 @@ Es el documento fundacional que establece que todos los seres humanos nacen libr
 ### Explicación Pedagógica
 El objetivo del DIH es humanizar la guerra protegiendo a quienes no participan o ya no pueden participar en el combate.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -95,6 +123,13 @@ Los derechos de "Primera Generación" (Civiles y Políticos) incluyen:
 ### Explicación Pedagógica
 Son los primeros reconocidos históricamente (Revolución Francesa), centrados en la libertad individual frente al Estado.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -112,6 +147,13 @@ En Colombia, ¿qué mecanismo constitucional permite a cualquier persona reclama
 ### Explicación Pedagógica
 La Tutela (Art. 86) es la herramienta más importante de la Constitución de 1991 para la defensa efectiva y rápida de derechos como la salud, la vida o el debido proceso.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -129,6 +171,13 @@ La Tutela (Art. 86) es la herramienta más importante de la Constitución de 199
 ### Explicación Pedagógica
 Es la piedra angular del DIH: está prohibido atacar deliberadamente a civiles o bienes civiles (escuelas, hospitales). Solo los objetivos militares son lícitos.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -146,11 +195,32 @@ Los Derechos Económicos, Sociales y Culturales (DESC o Segunda Generación) son
 ### Explicación Pedagógica
 A diferencia de los derechos civiles (que requieren que el Estado *no* mate o *no* censure), los DESC (salud, educación) requieren inversión y estructura, por lo que su garantía total es un proceso de avance continuo.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 # === Metadata de Validación ===
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -160,8 +230,29 @@ A diferencia de los derechos civiles (que requieren que el Estado *no* mate o *n
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Tipo | Bundle |
 | Cantidad | 7 Preguntas |
 | Dificultad | Variada (1-5) |
 | Versión Protocolo | 2.1 |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
