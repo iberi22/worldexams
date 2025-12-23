@@ -1,0 +1,60 @@
+---
+import Layout from '../../layouts/Layout.astro';
+---
+
+<Layout title="Sistema de Inteligencia Local | World Exams">
+  <div class="container mx-auto px-4 py-8 text-white max-w-4xl">
+    <header class="mb-12 text-center">
+      <h1 class="text-4xl md:text-5xl font-bold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-emerald-400 to-blue-500">
+        Sistema de Inteligencia Local
+      </h1>
+      <p class="text-xl text-white/60">
+        Tu privacidad y progreso, gestionados directamente en tu dispositivo.
+      </p>
+    </header>
+
+    <section class="space-y-8">
+      <div class="bg-white/5 border border-white/10 rounded-2xl p-6 md:p-8">
+        <h2 class="text-2xl font-bold mb-4 text-emerald-400">¿Qué es?</h2>
+        <p class="text-gray-300 leading-relaxed">
+          El Sistema de Inteligencia Local es una tecnología desarrollada por World Exams que permite analizar tu rendimiento, calcular tu nivel de habilidad (MMR) y generar recomendaciones personalizadas <strong>sin enviar tus datos a la nube</strong>.
+        </p>
+      </div>
+
+      <div class="grid md:grid-cols-2 gap-6">
+        <div class="bg-white/5 border border-white/10 rounded-2xl p-6">
+          <h3 class="text-xl font-bold mb-3 text-blue-400">📊 Sistema MMR</h3>
+          <p class="text-sm text-gray-300">
+            Utilizamos un algoritmo adaptado (similar a ELO en ajedrez) que ajusta tu puntuación basándose en la dificultad de las preguntas.
+          </p>
+          <ul class="list-disc list-inside mt-4 space-y-2 text-sm text-gray-400">
+            <li>Respuesta correcta difícil: <strong>++ Puntos</strong></li>
+            <li>Error en pregunta fácil: <strong>-- Puntos</strong></li>
+            <li>Rango inicial: <strong>1000 MMR</strong></li>
+          </ul>
+        </div>
+
+        <div class="bg-white/5 border border-white/10 rounded-2xl p-6">
+          <h3 class="text-xl font-bold mb-3 text-emerald-400">🔒 Privacidad Total</h3>
+          <p class="text-sm text-gray-300">
+            Todo sucede en tu navegador. Tu historial de exámenes y perfil de competencias se guarda en la base de datos interna de tu dispositivo (IndexedDB). Solo tú tienes acceso a estos datos detallados.
+          </p>
+        </div>
+      </div>
+
+      <div class="bg-gradient-to-br from-indigo-900/30 to-purple-900/30 border border-indigo-500/20 rounded-2xl p-6 md:p-8">
+        <h2 class="text-2xl font-bold mb-4 text-indigo-400">Competencias y Diagnóstico</h2>
+        <p class="text-gray-300 mb-6">
+          El sistema analiza cada respuesta para identificar patrones en competencias específicas (ej. "Razonamiento Cuantitativo" o "Lectura Inferencial").
+        </p>
+
+        <div class="bg-black/20 rounded-lg p-4 font-mono text-sm text-indigo-200">
+          > Analizando 150 preguntas...<br>
+          > Detectada fortaleza: Álgebra (MMR 1250)<br>
+          > Detectada oportunidad: Geometría (MMR 980)<br>
+          > Recomendación: Repasar teoremas básicos.
+        </div>
+      </div>
+    </section>
+  </div>
+</Layout>
