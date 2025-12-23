@@ -4,19 +4,33 @@ country: "CO"
 grado: 11
 asignatura: "ingles"
 tema: "vocabulary-daily-life"
-protocol_version: "2.1"
-total_questions: 7
+protocol_version: "3.0"
+total_questions: 11
 estado: "draft"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-11-30"
 source: "AI-Generated"
 source_license: "CC BY-NC-SA 4.0"
-bundle_version: "2.1"
+
 ---
 
 # === METADATA GLOBAL ===
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Nivel Dificultad | 1-5 |
 | Estándar | MEN-ING-11 |
 | Licencia | CC BY-NC-SA 4.0 |
@@ -25,6 +39,13 @@ bundle_version: "2.1"
 
 > **Fuente:** AI-Generated (CC BY-NC-SA 4.0)
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -47,6 +68,13 @@ Read the definition and choose the correct word that matches it.
 - **C) Refrigerator:** Incorrect. This is for keeping food cold.
 - **D) Microwave:** Incorrect. This is for heating food.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -69,6 +97,13 @@ Choose the correct option to complete the sentence.
 - **C) go:** Incorrect. "Go up" means to ascend, not to stop sleeping.
 - **D) eat:** Incorrect. Unrelated to the time of rising.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -91,6 +126,13 @@ Read the definition and choose the correct word.
 - **C) Dinner:** Incorrect. Eaten in the evening.
 - **D) Snack:** Incorrect. A small amount of food eaten between meals.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -113,6 +155,13 @@ Complete the sentence with the correct preposition.
 - **C) in:** Incorrect. Used for "in a car" or "in a taxi".
 - **D) with:** Incorrect. Means accompanied by.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -133,6 +182,13 @@ Choose the word that does NOT belong to the group.
 - **C) Bedroom:** Incorrect. A room in a house.
 - **D) Bathroom:** Incorrect. A room in a house.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -155,6 +211,13 @@ Complete the sentence with the correct verb form.
 - **C) was / started:** Incorrect. Passive voice construction, doesn't fit the meaning here.
 - **D) have / started:** Incorrect. Present Perfect plural.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -177,12 +240,47 @@ Choose the correct phrasal verb to complete the sentence.
 - **C) look up:** Incorrect. Means to search for information.
 - **D) take up:** Incorrect. Means to start a new hobby or activity.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|-------|-------|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -194,7 +292,21 @@ Choose the correct phrasal verb to complete the sentence.
 # === Metadata de Validación ===
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -204,7 +316,35 @@ Choose the correct phrasal verb to complete the sentence.
 ## 📊 Metadata de Validación
 
 | Pregunta | ID | Dificultad | Validado |
-|---|---|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | 1 | CO-ING-11-part1-002-v1 | 3 | ⬜ |
 | 2 | CO-ING-11-part1-002-v2 | 1 | ⬜ |
 | 3 | CO-ING-11-part1-002-v3 | 1 | ⬜ |
@@ -212,3 +352,10 @@ Choose the correct phrasal verb to complete the sentence.
 | 5 | CO-ING-11-part1-002-v5 | 3 | ⬜ |
 | 6 | CO-ING-11-part1-002-v6 | 5 | ⬜ |
 | 7 | CO-ING-11-part1-002-v7 | 5 | ⬜ |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

@@ -4,10 +4,10 @@ country: "co"
 grado: 9
 asignatura: "sociales-ciudadanas"
 tema: "Economía (Sectores y Demografía)"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 estado: "published"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-12-14"
 source: "Mineducación Colombia / WebColegios"
 source_url: "https://mineducacion.gov.co/"
@@ -31,6 +31,13 @@ licenses:
 
 La economía de un país se divide en sectores. El **Sector Primario** extrae recursos de la naturaleza (agricultura, minería). El **Sector Secundario** transforma esos recursos en productos (industria, fábricas). El **Sector Terciario** ofrece servicios (comercio, bancos, educación, turismo).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -51,6 +58,13 @@ Si una empresa colombiana cultiva café y lo cosecha, ¿a qué sector de la econ
 - B) Sería si procesara el café (tostión/empaquetado industrial).
 - C) Sería si vendiera el café en una cafetería.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -70,6 +84,13 @@ Un médico que atiende pacientes en un hospital trabaja en el sector:
 **Distractores:**
 - B, C) Incorrectos.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -90,6 +111,13 @@ Un médico que atiende pacientes en un hospital trabaja en el sector:
 - B) Primario.
 - C, D) Terciario.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -111,6 +139,13 @@ En las últimas décadas, la población colombiana ha migrado masivamente del ca
 - C) Ocupación de tierras baldías.
 - D) Crecimiento de industrias (causa, no el fenómeno demográfico en sí).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -130,6 +165,13 @@ En las últimas décadas, la población colombiana ha migrado masivamente del ca
 **Distractores:**
 - B) Falso, suele haber desempleo.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -151,6 +193,13 @@ El "Bono Demográfico" es una oportunidad económica que ocurre cuando:
 - C) Aumentaría la dependencia infantil.
 - D) Aumentaría la dependencia anciana (invierno demográfico).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -170,15 +219,57 @@ El "Bono Demográfico" es una oportunidad económica que ocurre cuando:
 **Distractores:**
 - B, C) Falsos y exagerados.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|-------|-------|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

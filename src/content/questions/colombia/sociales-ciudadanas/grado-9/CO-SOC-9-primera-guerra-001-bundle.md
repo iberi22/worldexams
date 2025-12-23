@@ -5,11 +5,11 @@ country: "co"
 grado: 9
 asignatura: "sociales-ciudadanas"
 tema: "Primera Guerra Mundial"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
 estado: "draft"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-12-14"
 source: "OpenTDB"
 source_license: "CC BY-SA 4.0"
@@ -27,6 +27,13 @@ licenses:
 
 > **Fuente:** OpenTDB (CC BY-SA 4.0)
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -44,6 +51,13 @@ El detonante inmediato de la Primera Guerra Mundial (1914-1918) fue el asesinato
 ### Explicación Pedagógica
 Aunque el asesinato en Sarajevo fue la chispa, el conflicto estalló debido a tensiones acumuladas: alianzas militares (Triple Entente vs Triple Alianza), rivalidad por colonias y nacionalismos en los Balcanes.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -61,6 +75,13 @@ Aunque el asesinato en Sarajevo fue la chispa, el conflicto estalló debido a te
 ### Explicación Pedagógica
 El magnicidio del heredero al trono austrohúngaro en Sarajevo activó el sistema de alianzas que llevó a la guerra.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -78,6 +99,13 @@ El magnicidio del heredero al trono austrohúngaro en Sarajevo activó el sistem
 ### Explicación Pedagógica
 La guerra enfrentó a la Triple Entente (Francia, Reino Unido, Rusia) contra las Potencias Centrales (Alemania, Austria-Hungría, Imperio Otomano).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -95,6 +123,13 @@ La "Guerra de Trincheras" fue una característica distintiva del frente occident
 ### Explicación Pedagógica
 Las trincheras definieron el conflicto como una guerra de desgaste. Los soldados vivían en el lodo, bajo fuego constante, y las líneas del frente apenas se movían durante años.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -112,6 +147,13 @@ El Tratado de Versalles (1919) puso fin oficialmente a la guerra. ¿Qué consecu
 ### Explicación Pedagógica
 Alemania fue declarada "culpable" de la guerra. Las sanciones humillantes del Tratado de Versalles generaron resentimiento que facilitó el ascenso posterior del nazismo.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -129,6 +171,13 @@ Alemania fue declarada "culpable" de la guerra. Las sanciones humillantes del Tr
 ### Explicación Pedagógica
 La necesidad de mano de obra en la industria de guerra rompió barreras tradicionales. Al demostrar su capacidad laboral, las mujeres ganaron fuerza política para exigir el derecho al voto (sufragismo) tras la guerra.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -146,11 +195,32 @@ Analice el impacto geopolítico de la Primera Guerra Mundial en el mapa de Europ
 ### Explicación Pedagógica
 El fin de la guerra redibujó el mapa mundial. La caída de los imperios multiétnicos dio paso a estados-nación basados (teóricamente) en la autodeterminación, aunque creando nuevas tensiones étnicas.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 # === Metadata de Validación ===
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -160,8 +230,29 @@ El fin de la guerra redibujó el mapa mundial. La caída de los imperios multié
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Tipo | Bundle |
 | Cantidad | 7 Preguntas |
 | Dificultad | Variada (1-5) |
 | Versión Protocolo | 2.1 |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

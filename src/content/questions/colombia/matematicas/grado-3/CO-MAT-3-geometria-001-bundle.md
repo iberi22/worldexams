@@ -5,11 +5,11 @@ country: "co"
 grado: 3
 asignatura: "Matemáticas"
 tema: "Geometría (Figuras Planas)"
-protocol_version: "2.1"
-bundle_version: "2.1"
-total_questions: 7
+protocol_version: "3.0"
+
+total_questions: 11
 estado: "published"
-creador: "Antigravity"
+creador: "Jules"
 generation_date: "2025-12-13"
 
 # === LICENSING (NEW v2.1) ===
@@ -31,6 +31,13 @@ original_answer: "3 lados (Triángulo)"
 > **Fuente:** ICFES (Adaptada)
 > **Tema:** Reconocimiento de propiedades de figuras planas
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -58,6 +65,13 @@ La definición básica del **triángulo** (tri-ángulo) es ser un polígono de t
 
 **Competencia evaluada:** Comunicación (Reconocimiento de atributos geométricos).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -78,6 +92,13 @@ Mira la ventana de tu salón de clases. Si tiene forma de **cuadrado**, ¿cuánt
 
 Una de las características principales del cuadrado es que tiene **4 lados** y todos miden lo mismo (son congruentes).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -98,6 +119,13 @@ Una de las características principales del cuadrado es que tiene **4 lados** y 
 
 El **círculo** es una figura redonda formada por una línea curva cerrada. No tiene segmentos rectos que se unan formando esquinas (vértices).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -118,6 +146,13 @@ Santi está construyendo una casita con bloques. Usa una pieza que tiene **2 lad
 
 Aunque el cuadrado y el rectángulo tienen 4 lados y 4 ángulos rectos, la diferencia es que el **rectángulo** tiene pares de lados opuestos iguales (dos largos y dos cortos), mientras que el cuadrado tiene todos los lados iguales.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -138,6 +173,13 @@ Si unes dos cuadrados iguales pegándolos por uno de sus lados, ¿qué nueva fig
 
 Al poner dos cuadrados uno al lado del otro, dos de sus lados se suman formando un lado más largo, mientras los otros se mantienen. Esto crea una figura de 4 lados con dos lados más largos que los otros dos: un **rectángulo**.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -158,6 +200,13 @@ Al poner dos cuadrados uno al lado del otro, dos de sus lados se suman formando 
 
 Si trazas una línea diagonal (de una esquina a la opuesta) en un cuadrado, lo divides exactamente en **dos triángulos iguales**. Es una forma de descomponer figuras.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -178,14 +227,42 @@ Ana tiene una figura misteriosa en una bolsa. Dice: "Mi figura tiene 4 lados, pe
 
 Buscamos una figura de 4 lados (Cuadrilátero) que no tenga ángulos rectos. El **Rombo** cumple esto: tiene 4 lados (a veces iguales), pero sus ángulos son agudos y obtusos (inclinados), no rectos como los del cuadrado o rectángulo.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

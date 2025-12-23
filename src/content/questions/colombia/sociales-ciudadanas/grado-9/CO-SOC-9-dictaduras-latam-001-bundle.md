@@ -5,11 +5,11 @@ country: "co"
 grado: 9
 asignatura: "sociales-ciudadanas"
 tema: "Dictaduras en América Latina"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
 estado: "draft"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-12-14"
 source: "OpenTDB"
 source_license: "CC BY-SA 4.0"
@@ -27,6 +27,13 @@ licenses:
 
 > **Fuente:** OpenTDB (CC BY-SA 4.0)
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -44,6 +51,13 @@ Durante las décadas de 1960, 1970 y 1980, muchos países de América Latina viv
 ### Explicación Pedagógica
 Bajo la Doctrina de Seguridad Nacional, los militares tomaron el poder para "salvar" a la nación del comunismo, utilizando el terrorismo de estado para eliminar cualquier disidencia política o social.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -61,6 +75,13 @@ Bajo la Doctrina de Seguridad Nacional, los militares tomaron el poder para "sal
 ### Explicación Pedagógica
 Augusto Pinochet lideró el golpe militar que derrocó al presidente socialista Salvador Allende en Chile el 11 de septiembre de 1973.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -78,6 +99,13 @@ Augusto Pinochet lideró el golpe militar que derrocó al presidente socialista 
 ### Explicación Pedagógica
 El Plan Cóndor fue una red de inteligencia y represión compartida entre las dictaduras de Chile, Argentina, Uruguay, Paraguay, Brasil y Bolivia, con apoyo de EE.UU.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -95,6 +123,13 @@ En Argentina, el periodo de la dictadura militar (1976-1983) es tristemente cono
 ### Explicación Pedagógica
 Las Madres (y Abuelas) de Plaza de Mayo se convirtieron en un símbolo mundial de resistencia pacífica, marchando frente a la Casa Rosada para exigir verdad y justicia.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -112,6 +147,13 @@ Las Madres (y Abuelas) de Plaza de Mayo se convirtieron en un símbolo mundial d
 ### Explicación Pedagógica
 Aunque Colombia vivió un conflicto armado interno muy violento y estados de sitio, mantuvo formalmente sus instituciones democráticas y elecciones periódicas, a diferencia de sus vecinos del sur.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -129,6 +171,13 @@ Desde el punto de vista económico, muchas de estas dictaduras (especialmente en
 ### Explicación Pedagógica
 Los "Chicago Boys" en Chile aplicaron las primeras políticas neoliberales del mundo, reduciendo el rol del Estado en la economía, lo que generó crecimiento macroeconómico pero aumentó la desigualdad.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -146,11 +195,32 @@ El proceso de "transición a la democracia" en América Latina en los años 80 y
 ### Explicación Pedagógica
 Muchos países tuvieron que negociar la salida de los militares, lo que a menudo implicó leyes de "Punto Final" o amnistías que dejaron impunes los crímenes de la dictadura durante años.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 # === Metadata de Validación ===
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -160,8 +230,29 @@ Muchos países tuvieron que negociar la salida de los militares, lo que a menudo
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Tipo | Bundle |
 | Cantidad | 7 Preguntas |
 | Dificultad | Variada (1-5) |
 | Versión Protocolo | 2.1 |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

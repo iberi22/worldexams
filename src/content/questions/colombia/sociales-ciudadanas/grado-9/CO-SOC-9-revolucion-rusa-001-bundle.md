@@ -5,11 +5,11 @@ country: "co"
 grado: 9
 asignatura: "sociales-ciudadanas"
 tema: "Revolución Rusa"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
 estado: "draft"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-12-14"
 source: "OpenTDB"
 source_license: "CC BY-SA 4.0"
@@ -27,6 +27,13 @@ licenses:
 
 > **Fuente:** OpenTDB (CC BY-SA 4.0)
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -44,6 +51,13 @@ La Revolución de Octubre de 1917 en Rusia, liderada por los bolcheviques, tuvo 
 ### Explicación Pedagógica
 Liderados por Lenin, los bolcheviques tomaron el poder con la consigna "Paz, pan y tierra", instaurando un régimen comunista que transformaría a Rusia en la Unión Soviética.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -61,6 +75,13 @@ Liderados por Lenin, los bolcheviques tomaron el poder con la consigna "Paz, pan
 ### Explicación Pedagógica
 Lenin fue el ideólogo y líder indiscutible de la facción bolchevique que dirigió la revolución.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -78,6 +99,13 @@ Lenin fue el ideólogo y líder indiscutible de la facción bolchevique que diri
 ### Explicación Pedagógica
 La revolución puso fin a siglos de gobierno autocrático de los zares (la dinastía Romanov).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -95,6 +123,13 @@ La revolución puso fin a siglos de gobierno autocrático de los zares (la dinas
 ### Explicación Pedagógica
 Los "Soviets" eran asambleas populares. La consigna buscaba legitimar un gobierno directo de las clases trabajadoras frente al Gobierno Provisional burgués.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -112,6 +147,13 @@ Los "Soviets" eran asambleas populares. La consigna buscaba legitimar un gobiern
 ### Explicación Pedagógica
 Cumpliendo su promesa de paz, los bolcheviques firmaron un tratado con Alemania para salir de la guerra, aunque esto implicó grandes pérdidas territoriales.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -129,6 +171,13 @@ Cumpliendo su promesa de paz, los bolcheviques firmaron un tratado con Alemania 
 ### Explicación Pedagógica
 La división se basaba en la estrategia: los mencheviques (minoría) creían que Rusia debía pasar por una etapa capitalista democrática antes del socialismo; los bolcheviques (mayoría) querían saltar esa etapa.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -146,11 +195,32 @@ El "Comunismo de Guerra" implementado durante la Guerra Civil Rusa (1918-1921) s
 ### Explicación Pedagógica
 Fue una política económica de emergencia y extrema centralización para abastecer al Ejército Rojo, lo que provocó hambrunas y resistencia campesina, llevando luego a la NEP (Nueva Política Económica).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 # === Metadata de Validación ===
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -160,8 +230,29 @@ Fue una política económica de emergencia y extrema centralización para abaste
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Tipo | Bundle |
 | Cantidad | 7 Preguntas |
 | Dificultad | Variada (1-5) |
 | Versión Protocolo | 2.1 |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

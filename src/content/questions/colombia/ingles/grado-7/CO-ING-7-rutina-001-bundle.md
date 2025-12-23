@@ -5,16 +5,16 @@ country: "co"
 grado: 7
 asignatura: "Ingles"
 tema: "Rutinas Diarias y Hora"
-protocol_version: "2.1"
-total_questions: 7
+protocol_version: "3.0"
+total_questions: 11
 estado: "published"
-creador: "Antigravity"
+creador: "Jules"
 generation_date: "2025-12-14"
 dificultad: 2
 llm_model: "gemini-2.0-flash-exp"
 agent: "Antigravity"
 ide: "Cursor"
-bundle_version: "2.1"
+
 
 # === LICENSING (NEW v2.1) ===
 licenses:
@@ -35,6 +35,13 @@ original_answer: "She wakes up at 6"
 > **Fuente:** ICFES (Adaptada)
 > **Tema:** Vocabulario de Rutinas y Presente Simple
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -61,6 +68,13 @@ El texto dice explícitamente: "We go to school by bus at 7:00 AM". Es comprensi
 
 **Competencia evaluada:** Comprensión de lectura literal (Extracción de información específica).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -82,6 +96,13 @@ Which verb completes the routine correctly?
 
 Colocación común: "Brush my teeth" (Cepillarme los dientes).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -103,6 +124,13 @@ Complete the sentence:
 
 Tercera persona singular (He) en Presente Simple: al verbo 'watch' se le agrega **-es** porque termina en 'ch'. Correcto: *watches*.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -123,6 +151,13 @@ What is the correct way to say "1:30" in English?
 
 La forma más común y correcta gramaticalmente para 1:30 es **"It's half past one"** (Media hora pasada la una). "One thirty" también es posible coloquialmente pero no está en la opción B exactamente así (la B dice "one and thirty" que es incorrecto).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -144,6 +179,13 @@ Which word is an adverb of frequency?
 
 **Always** (Siempre) es un adverbio de frecuencia, usado para describir qué tan seguido hacemos una rutina.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -165,6 +207,13 @@ Choose the correct question for this answer:
 
 La respuesta indica tiempo ("on Saturdays"), por lo tanto la Wh-question correcta debe usar **When** (Cuándo).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -185,14 +234,42 @@ Select the sentence that is grammatically INCORRECT:
 
 Para la tercera persona (She), la negación correcta es **doesn't**, no "don't". La frase correcta sería "She doesn't like coffee".
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

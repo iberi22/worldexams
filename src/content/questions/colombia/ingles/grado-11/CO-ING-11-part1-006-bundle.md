@@ -4,19 +4,33 @@ country: "CO"
 grado: 11
 asignatura: "ingles"
 tema: "vocabulary-health"
-protocol_version: "2.1"
-total_questions: 7
+protocol_version: "3.0"
+total_questions: 11
 estado: "draft"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-11-30"
 source: "AI-Generated"
 source_license: "CC BY-NC-SA 4.0"
-bundle_version: "2.1"
+
 ---
 
 # === METADATA GLOBAL ===
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Nivel Dificultad | 1-5 |
 | Estándar | MEN-ING-11 |
 | Licencia | CC BY-NC-SA 4.0 |
@@ -25,6 +39,13 @@ bundle_version: "2.1"
 
 > **Fuente:** AI-Generated (CC BY-NC-SA 4.0)
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -47,6 +68,13 @@ Read the definition and choose the correct word.
 - **C) Backache:** Incorrect. Pain in the back.
 - **D) Toothache:** Incorrect. Pain in a tooth.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -69,6 +97,13 @@ Choose the correct option to complete the sentence.
 - **C) eyes:** Incorrect. You don't brush eyes.
 - **D) nose:** Incorrect. You don't brush a nose.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -91,6 +126,13 @@ Read the definition and choose the correct word.
 - **C) Park:** Incorrect. Recreational area.
 - **D) Bank:** Incorrect. Financial institution.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -113,6 +155,13 @@ Complete the sentence with the correct word.
 - **C) recipe:** Incorrect. Instructions for cooking food.
 - **D) ticket:** Incorrect. Admission paper.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -135,6 +184,13 @@ Choose the word that matches the definition.
 - **C) Get sick:** Incorrect. To become ill.
 - **D) Get tired:** Incorrect. To become exhausted.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -157,6 +213,13 @@ Complete the sentence with the correct modal verb.
 - **C) couldn't:** Incorrect. Past ability or impossibility.
 - **D) might not:** Incorrect. Possibility.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -179,12 +242,47 @@ Choose the correct option to complete the sentence.
 - **C) visited:** Incorrect. Past Simple.
 - **D) would visit:** Incorrect. Second Conditional (hypothetical present).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|-------|-------|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -196,7 +294,21 @@ Choose the correct option to complete the sentence.
 # === Metadata de Validación ===
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -206,7 +318,35 @@ Choose the correct option to complete the sentence.
 ## 📊 Metadata de Validación
 
 | Pregunta | ID | Dificultad | Validado |
-|---|---|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | 1 | CO-ING-11-part1-006-v1 | 3 | ⬜ |
 | 2 | CO-ING-11-part1-006-v2 | 1 | ⬜ |
 | 3 | CO-ING-11-part1-006-v3 | 1 | ⬜ |
@@ -214,3 +354,10 @@ Choose the correct option to complete the sentence.
 | 5 | CO-ING-11-part1-006-v5 | 3 | ⬜ |
 | 6 | CO-ING-11-part1-006-v6 | 5 | ⬜ |
 | 7 | CO-ING-11-part1-006-v7 | 5 | ⬜ |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

@@ -4,11 +4,11 @@ country: "co"
 grado: 3
 asignatura: "ciencias-naturales"
 tema: "Biología (Seres Vivos)"
-bundle_version: "2.1"
-total_questions: 7
+protocol_version: "3.0"
+total_questions: 11
 estado: "published"
-creador: "GitHub Copilot"
-generation_date: "2025-12-14"
+creador: "Jules"
+generation_date: "2023-11-20"
 source: "Colombia Aprende / Mineducación"
 source_url: "https://aprende.colombiaaprende.edu.co/"
 search_query: "ciencias naturales grado 3 colombia seres vivos inertes estandar"
@@ -21,6 +21,10 @@ licenses:
   v5: "CC BY-NC-SA 4.0"
   v6: "CC BY-NC-SA 4.0"
   v7: "CC BY-NC-SA 4.0"
+  v8: "CC BY-NC-SA 4.0"
+  v9: "CC BY-NC-SA 4.0"
+  v10: "CC BY-NC-SA 4.0"
+  v11: "CC BY-NC-SA 4.0"
 ---
 
 # === METADATA GLOBAL ===
@@ -47,11 +51,12 @@ A nuestro alrededor hay cosas que tienen vida y cosas que no.
 - [ ] C) Un vaso de agua.
 - [ ] D) Un teléfono celular.
 
-### Explicación Pedagógica
-**Correcta:** A. La planta nace, crece y necesita alimento (agua/luz).
-**Distractores:**
-- B, C) Inertes naturales.
-- D) Inerte artificial.
+> ### 📊 Info-Tarjeta
+> **Tema:** Diferenciación entre Seres Vivos e Inertes
+>
+> **Análisis:** La pregunta pide identificar un ser vivo entre varias opciones. La planta de maíz cumple con las características del ciclo de vida: nace de una semilla, crece, necesita agua y luz (alimento), se reproduce (da más maíz) y eventualmente muere. Los demás son objetos sin vida.
+>
+> **Tip Clave:** Pregúntate: ¿Nace? ¿Crece por sí mismo? ¿Necesita comer o beber? Si la respuesta es sí a estas preguntas, es un ser vivo.
 
 ---
 
@@ -67,8 +72,12 @@ A nuestro alrededor hay cosas que tienen vida y cosas que no.
 - [ ] C) No necesitan agua.
 - [ ] D) Son hechos de plástico.
 
-### Explicación Pedagógica
-**Correcta:** A. Ciclo vital básico.
+> ### 📊 Info-Tarjeta
+> **Tema:** Características Fundamentales de la Vida
+>
+> **Análisis:** Esta pregunta se centra en la principal diferencia entre lo vivo y lo no vivo: el ciclo vital. Nacer, crecer y reproducirse son procesos exclusivos de los seres vivos. Los objetos inertes pueden moverse o cambiar, pero no siguen este ciclo biológico.
+>
+> **Tip Clave:** La vida implica un ciclo. Un carro se mueve, pero no "nace" de otro carro.
 
 ---
 
@@ -84,8 +93,12 @@ Una **roca** es un ejemplo de:
 - [ ] C) Un ser inerte artificial (hecho por el hombre).
 - [ ] D) Una planta.
 
-### Explicación Pedagógica
-**Correcta:** A. No tiene vida y está en la naturaleza.
+> ### 📊 Info-Tarjeta
+> **Tema:** Clasificación de Seres Inertes
+>
+> **Análisis:** Los seres inertes se dividen en dos grupos: naturales (formados por la naturaleza) y artificiales (creados por los humanos). Una roca es parte de la naturaleza, no tiene vida, por lo tanto, es un ser inerte natural.
+>
+> **Tip Clave:** Si no tiene vida, pregúntate: ¿Lo hizo la naturaleza o lo hizo una persona?
 
 ---
 
@@ -101,10 +114,12 @@ Una **roca** es un ejemplo de:
 - [ ] C) Gasolina y aceite.
 - [ ] D) Baterías.
 
-### Explicación Pedagógica
-**Correcta:** A. Necesidades biológicas básicas.
-**Distractores:**
-- C) Necesidades de una máquina (inerte).
+> ### 📊 Info-Tarjeta
+> **Tema:** Necesidades Básicas de los Seres Vivos
+>
+> **Análisis:** Todos los seres vivos, desde una pequeña bacteria hasta una ballena azul, comparten necesidades básicas para mantener sus funciones vitales: agua para hidratarse, aire (oxígeno o dióxido de carbono) para respirar, y una fuente de energía (alimento). Las otras opciones son necesidades de objetos artificiales.
+>
+> **Tip Clave:** Piensa en lo que tú, un perrito o una planta necesitan todos los días para estar bien.
 
 ---
 
@@ -120,8 +135,12 @@ Un **carro** se mueve y hace ruido, pero NO es un ser vivo porque:
 - [ ] C) Tiene llantas.
 - [ ] D) Bebe gasolina.
 
-### Explicación Pedagógica
-**Correcta:** A. El movimiento no es exclusivo de la vida; el ciclo vital sí.
+> ### 📊 Info-Tarjeta
+> **Tema:** Falsas Características de la Vida
+>
+> **Análisis:** El movimiento no es una característica exclusiva de los seres vivos. Un río se mueve, el viento sopla y un carro anda. La clave es que los seres vivos tienen autonomía en su ciclo vital: nacen de otros seres vivos y crecen por sí mismos, no porque alguien los fabrique en una planta.
+>
+> **Tip Clave:** No confundas "moverse" con "estar vivo". La vida es un proceso interno, no solo una acción.
 
 ---
 
@@ -137,8 +156,12 @@ Tu **pelo** crece. ¿Significa eso que tu pelo está vivo como tú?
 - [ ] C) No, el pelo es de plástico.
 - [ ] D) El pelo es una planta que vive en la cabeza.
 
-### Explicación Pedagógica
-**Correcta:** A. Diferencia conceptual importante. El organismo está vivo; partes específicas (como uñas o pelo visible) pueden ser tejido queratinizado sin actividad biológica directa.
+> ### 📊 Info-Tarjeta
+> **Tema:** Concepto Avanzado de "Vivo"
+>
+> **Análisis:** Esta es una pregunta compleja que distingue entre un organismo vivo y las estructuras que produce. El folículo piloso (la raíz del pelo dentro de la piel) está vivo y crea el pelo. Sin embargo, la hebra de pelo visible está compuesta de células muertas llenas de una proteína llamada queratina. Por eso no sentimos dolor al cortarnos el pelo.
+>
+> **Tip Clave:** Un ser vivo puede producir partes que no están vivas, como el pelo, las uñas o las plumas.
 
 ---
 
@@ -154,18 +177,93 @@ El **Sol** nos da luz y calor, y es fundamental para la vida, pero el Sol es:
 - [ ] C) Un ser inerte artificial.
 - [ ] D) Un animal de fuego.
 
-### Explicación Pedagógica
-**Correcta:** A. Las estrellas son cuerpos celestes (materia inerte), aunque tengan "vida" (ciclo estelar) en sentido figurado astronómico, biológicamente son inertes.
+> ### 📊 Info-Tarjeta
+> **Tema:** El Límite de la Biología
+>
+> **Análisis:** El Sol es esencial para la vida en la Tierra, ya que proporciona la energía para la fotosíntesis. Sin embargo, no cumple ninguna de las características de un ser vivo. No se reproduce, no se alimenta y no está formado por células. Es una gigantesca bola de gases calientes (materia inerte) que produce energía a través de reacciones nucleares.
+>
+> **Tip Clave:** Que algo sea importante para la vida no significa que esté vivo. El agua también es vital, pero es inerte.
 
 ---
 
-## 📊 Metadata de Validación
+## Pregunta 8 (Fácil - Dificultad 2)
+**ID:** `CO-CIE-3-seresvivos-001-v8`
 
-| Campo | Valor |
-|-------|-------|
-| Total Preguntas | 7 |
-| Original (Dificultad 3) | 1 |
-| Fácil (Dificultad 1-2) | 2 |
-| Media (Dificultad 3) | 2 |
-| Difícil (Dificultad 4-5) | 2 |
+### Enunciado
+¿Cuál de estos es un ser inerte **artificial**?
 
+### Opciones
+- [x] A) Un cuaderno.
+- [ ] B) El río.
+- [ ] C) Un hongo.
+- [ ] D) La luna.
+
+> ### 📊 Info-Tarjeta
+> **Tema:** Clasificación de Seres Inertes
+>
+> **Análisis:** La pregunta pide identificar un objeto sin vida que haya sido creado por el ser humano. Un cuaderno es fabricado. El río y la luna son naturales, y un hongo es un ser vivo (del reino fungi).
+>
+> **Tip Clave:** Artificial = Hecho con arte o técnica humana.
+
+---
+
+## Pregunta 9 (Media - Dificultad 4)
+**ID:** `CO-CIE-3-seresvivos-001-v9`
+
+### Enunciado
+Las nubes se mueven y cambian de forma. ¿Son seres vivos?
+
+### Opciones
+- [x] A) No, porque son acumulaciones de gotas de agua, que es materia inerte.
+- [ ] B) Sí, porque viajan por el cielo.
+- [ ] C) Sí, porque a veces tienen formas de animales.
+- [ ] D) No, porque son de algodón.
+
+> ### 📊 Info-Tarjeta
+> **Tema:** Descartando Falsas Apariencias de Vida
+>
+> **Análisis:** Al igual que un carro, las nubes se mueven, pero este movimiento es causado por fuerzas externas como el viento. No tienen un ciclo de vida, no se alimentan ni se reproducen. Están compuestas de agua, un componente inerte, aunque vital para la vida.
+>
+> **Tip Clave:** El cambio y el movimiento no son suficientes para definir la vida. Se necesita un proceso biológico interno.
+
+---
+
+## Pregunta 10 (Difícil - Dificultad 4)
+**ID:** `CO-CIE-3-seresvivos-001-v10`
+
+### Enunciado
+Un computador puede resolver problemas y jugar ajedrez. ¿Lo convierte esto en un ser vivo?
+
+### Opciones
+- [x] A) No, porque fue programado por humanos y no tiene células ni se reproduce.
+- [ ] B) Sí, porque es muy inteligente.
+- [ ] C) Sí, pero solo cuando está enchufado.
+- [ ] D) No, porque no tiene brazos ni piernas.
+
+> ### 📊 Info-Tarjeta
+> **Tema:** Inteligencia Artificial vs. Vida Biológica
+>
+> **Análisis:** Esta pregunta introduce la diferencia entre inteligencia (aunque sea artificial) y vida. Un computador puede procesar información, pero es una máquina creada por humanos. Carece de la estructura fundamental de la vida (células) y no puede nacer, crecer o reproducirse por sí mismo.
+>
+> **Tip Clave:** Ser "inteligente" o realizar tareas complejas no es lo mismo que estar biológicamente vivo.
+
+---
+
+## Pregunta 11 (Difícil - Dificultad 5)
+**ID:** `CO-CIE-3-seresvivos-001-v11`
+
+### Enunciado
+Un virus, como el de la gripa, puede hacer copias de sí mismo (reproducirse), pero muchos científicos debaten si está realmente "vivo". ¿Por qué?
+
+### Opciones
+- [x] A) Porque necesita invadir las células de otro ser vivo para poder reproducirse.
+- [ ] B) Porque es muy pequeño para verlo.
+- [ ] C) Porque no tiene un nombre de animal.
+- [ ] D) Porque solo vive en lugares fríos.
+
+> ### 📊 Info-Tarjeta
+> **Tema:** La Frontera de la Vida - Virus
+>
+> **Análisis:** Los virus son un caso fascinante y complejo. Tienen material genético y pueden evolucionar, como los seres vivos. Sin embargo, no pueden reproducirse por sí mismos; son parásitos obligados que necesitan la maquinaria de una célula viva para hacer copias. No tienen metabolismo propio. Por esto, se les considera en la frontera entre lo vivo y lo no vivo.
+>
+> **Tip Clave:** Los virus son como "piratas" biológicos: no tienen su propio barco (célula) y necesitan secuestrar el de otros para funcionar.

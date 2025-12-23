@@ -4,10 +4,10 @@ country: "co"
 grado: 5
 asignatura: "matematicas"
 tema: "Operaciones Básicas en Contexto"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 estado: "published"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-12-14"
 source: "Colombia Aprende / Math Center"
 source_url: "https://aprende.colombiaaprende.edu.co"
@@ -31,6 +31,13 @@ licenses:
 
 María va al supermercado con un billete de $50.000 pesos. Compra 3 libras de arroz a $2.500 cada una y una botella de aceite que cuesta $12.000.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -55,6 +62,13 @@ Total: $7.500 + 12.000 = 19.500$.
 - C) Solo el arroz.
 - D) Error de cálculo.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -76,6 +90,13 @@ Si María solo hubiera comprado la botella de aceite de $12.000 y pagaba con el 
 - C) Restó 8.000.
 - D) Calculó mal.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -93,6 +114,13 @@ Si María solo hubiera comprado la botella de aceite de $12.000 y pagaba con el 
 ### Explicación Pedagógica
 **Correcta:** A. $2.500 + 2.500$ (o $\times 2$) $= 5.000$.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -114,6 +142,13 @@ Si María quiere dividir su cambio real ($50.000 - 19.500 = 30.500$) en ahorros 
 - C) Aproximación incorrecta.
 - D) División entre 3 incorrecta.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -133,6 +168,13 @@ Un paquete de galletas tiene 12 galletas y cuesta $6.000 pesos. ¿Cuánto cuesta
 **Distractores:**
 - B, C, D) Resultados incorrectos de división.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -155,6 +197,13 @@ $15.000 \times 8 = 120.000$.
 - C) $90.000$.
 - D) $180.000$.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -179,15 +228,57 @@ Total pagado: $12.000 + 12.000 = 24.000$.
 - B) Sin promoción ($8 \times 4.000$).
 - C) Cálculo erróneo.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|-------|-------|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

@@ -4,10 +4,10 @@ country: "CO"
 grado: 11
 asignatura: "ingles"
 tema: "grammar-conditionals"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 estado: "draft"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-11-30"
 source: "OpenTDB"
 source_license: "CC BY-SA 4.0"
@@ -17,6 +17,13 @@ source_license: "CC BY-SA 4.0"
 
 > **Fuente:** OpenTDB (CC BY-SA 4.0)
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -35,6 +42,13 @@ Complete the sentence (First Conditional):
 ### Explicación Pedagógica
 The First Conditional structure is *If + Present Simple, ... will + verb*. "Will not go" fits this structure for a future possibility.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -53,6 +67,13 @@ Complete the sentence (Zero Conditional):
 ### Explicación Pedagógica
 The Zero Conditional expresses general truths. Structure: *If + Present Simple, ... Present Simple*. "Melts" is the correct present simple form.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -71,6 +92,13 @@ Complete the sentence:
 ### Explicación Pedagógica
 This is a First Conditional sentence (real possibility). "Will pass" is the correct future form.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -89,6 +117,13 @@ Complete the sentence (Second Conditional):
 ### Explicación Pedagógica
 The Second Conditional is used for hypothetical situations. Structure: *If + Past Simple, ... would + verb*. "Had" is the past simple of "have".
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -107,6 +142,13 @@ Complete the sentence (Second Conditional):
 ### Explicación Pedagógica
 This is a classic advice structure in Second Conditional. "If I were you" is followed by "would + verb".
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -125,6 +167,13 @@ Complete the sentence (Third Conditional):
 ### Explicación Pedagógica
 The Third Conditional talks about the past. Structure: *If + Past Perfect, ... would have + past participle*. "Would have passed" is correct.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -142,7 +191,14 @@ Choose the correct sentence that mixes conditionals or uses advanced structure.
 ### Explicación Pedagógica
 This is a Mixed Conditional (Past cause, Present result). "If I hadn't missed" (Past Perfect) leads to "I would be" (Present Conditional). Option A is correct.
 
-|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -154,7 +210,21 @@ This is a Mixed Conditional (Past cause, Present result). "If I hadn't missed" (
 # === Metadata de Validación ===
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -164,7 +234,35 @@ This is a Mixed Conditional (Past cause, Present result). "If I hadn't missed" (
 ## 📊 Metadata de Validación
 
 | Pregunta | ID | Dificultad | Validado |
-|---|---|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | 1 | CO-ING-11-part1-011-v1 | 3 | ⬜ |
 | 2 | CO-ING-11-part1-011-v2 | 1 | ⬜ |
 | 3 | CO-ING-11-part1-011-v3 | 1 | ⬜ |
@@ -172,3 +270,10 @@ This is a Mixed Conditional (Past cause, Present result). "If I hadn't missed" (
 | 5 | CO-ING-11-part1-011-v5 | 3 | ⬜ |
 | 6 | CO-ING-11-part1-011-v6 | 5 | ⬜ |
 | 7 | CO-ING-11-part1-011-v7 | 5 | ⬜ |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

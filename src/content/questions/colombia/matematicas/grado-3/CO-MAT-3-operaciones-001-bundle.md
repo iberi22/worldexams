@@ -4,10 +4,10 @@ country: "co"
 grado: 3
 asignatura: "matematicas"
 tema: "Numérico (Operaciones)"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 estado: "published"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-12-14"
 source: "Colombia Aprende / Mallas Matemáticas"
 source_url: "https://aprende.colombiaaprende.edu.co/"
@@ -35,6 +35,13 @@ María va a la tienda escolar.
 *   Una chocolatina cuesta **$800** pesos.
 María tiene un billete de **$5.000** pesos.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -55,6 +62,13 @@ Si María compra una empanada y un jugo, ¿cuánto dinero debe pagar en total?
 - B) Error de cálculo simple.
 - C) Suma incorrecta de centenas.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -72,6 +86,13 @@ Si María compra una empanada y un jugo, ¿cuánto dinero debe pagar en total?
 ### Explicación Pedagógica
 **Correcta:** A. $800 es menor que $1.200 y $2.500.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -89,6 +110,13 @@ Si María compra una empanada y un jugo, ¿cuánto dinero debe pagar en total?
 ### Explicación Pedagógica
 **Correcta:** A. Suma repetida: $1.200 + 1.200 = 2.400$.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -106,6 +134,13 @@ Si María compra solo la empanada ($2.500) y paga con su billete de $5.000, ¿cu
 ### Explicación Pedagógica
 **Correcta:** A. Resta: $5.000 - 2.500 = 2.500$.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -123,6 +158,13 @@ Andrés quiere comprar 2 empanadas. ¿Cuánto dinero necesita?
 ### Explicación Pedagógica
 **Correcta:** A. Suma: $2.500 + 2.500 = 5.000$.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -145,6 +187,13 @@ Si María compra los tres productos (empanada, jugo y chocolatina), ¿le alcanza
 4. Como tienes $5.000, sí alcanza.
 5. Sobra: $5.000 - 4.500 = 500$.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -167,15 +216,57 @@ La tienda hace una promoción: "Si compras dos jugos, el segundo te sale a mitad
 **Distractores:**
 - B) Precio normal sin promoción.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|-------|-------|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

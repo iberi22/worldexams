@@ -5,11 +5,11 @@ country: "co"
 grado: 9
 asignatura: "Sociales y Ciudadanas"
 tema: "Revolución Industrial y Movimiento Obrero"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
 estado: "review"
-creador: "Antigravity"
+creador: "Jules"
 generation_date: "2025-12-13"
 licenses:
   v1: "CC BY-SA 4.0"
@@ -41,6 +41,13 @@ La Revolución Industrial destruye el sistema feudal (señores/siervos) y los gr
 ### Explicación Pedagógica
 Antes había reyes y campesinos. Con las fábricas, nacieron dos grupos nuevos: los dueños ricos (Burgueses) y los trabajadores pobres de la fábrica (Proletarios).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 1)
@@ -61,6 +68,13 @@ El vapor fue la energía clave. Quemar carbón para hervir agua y usar ese vapor
 ### Explicación Pedagógica
 El vapor lo cambió todo. Los trenes botaban humo blanco porque funcionaban con vapor de agua calentado con carbón. Fue la "gasolina" del siglo XIX.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 1)
@@ -81,6 +95,13 @@ Los sindicatos (Trade Unions en Inglaterra) nacieron como la herramienta de defe
 ### Explicación Pedagógica
 Como un solo trabajador no podía reclamarle al jefe porque lo echaban, se unieron todos en grupos llamados "Sindicatos". Si todos paraban de trabajar (huelga), el jefe tenía que escuchar.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -101,6 +122,13 @@ Los luditas (seguidores de la leyenda de Ned Ludd) entraban a las fábricas y de
 ### Explicación Pedagógica
 Ellos pensaban: "Esa máquina hace el trabajo de 10 hombres, por su culpa 9 estamos sin empleo". Entonces iban y rompían la máquina.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -121,6 +149,13 @@ Las ciudades crecieron explosivamente y desordenadamente (hacinamiento, falta de
 ### Explicación Pedagógica
 La gente dejó las fincas para irse a vivir al lado de la fábrica. Así nacieron las grandes ciudades modernas, llenas de humo y gente apretada.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -141,6 +176,13 @@ Los cartistas entendieron que para cambiar las leyes laborales (que favorecían 
 ### Explicación Pedagógica
 Los obreros dijeron: "No sacamos nada rompiendo máquinas. Necesitamos votar para elegir congresistas que hagan leyes a nuestro favor". Querían poder político.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -161,13 +203,34 @@ Para Marx, el problema de fondo es económico: el dueño de la fábrica se queda
 ### Explicación Pedagógica
 Marx decía: "El rico se hace rico quedándose con dinero que le pertenece al trabajador". Esa injusticia crea una pelea eterna entre Patrones y Obreros hasta que los obreros tomen el control.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 
 # === Metadata de Validación ===
 
 | Campo | Valor |
-|---|---|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
@@ -177,7 +240,84 @@ Marx decía: "El rico se hace rico quedándose con dinero que le pertenece al tr
 ## 📊 Metadata de Validación
 
 | Pregunta | ID | Dificultad | Validado |
-|----------|-----|------------|----------|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+-----|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
 | 1 | CO-SOC-9-REV-001-v1 | Medium | ⬜ |
 | 2 | CO-SOC-9-REV-001-v2 | Low | ⬜ |
 | 3 | CO-SOC-9-REV-001-v3 | Low | ⬜ |
@@ -185,3 +325,10 @@ Marx decía: "El rico se hace rico quedándose con dinero que le pertenece al tr
 | 5 | CO-SOC-9-REV-001-v5 | Medium | ⬜ |
 | 6 | CO-SOC-9-REV-001-v6 | High | ⬜ |
 | 7 | CO-SOC-9-REV-001-v7 | High | ⬜ |
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

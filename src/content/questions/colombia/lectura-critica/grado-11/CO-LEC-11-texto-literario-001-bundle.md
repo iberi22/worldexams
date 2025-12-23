@@ -4,10 +4,10 @@ country: "co"
 grado: 11
 asignatura: "lectura-critica"
 tema: "texto-literario"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 estado: "published"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-12-14"
 source: "Héctor Abad Faciolince"
 source_url: "https://www.penguinlibros.com/co/literatura-contemporanea/12668-el-olvido-que-seremos-9789584260273"
@@ -31,6 +31,13 @@ licenses:
 
 "Por fin, entonces, puedo entender a plenitud lo que siente y piensa una víctima. Entiendo sus odios y adhesiones. Claro, son las ventajas de los intelectuales sobre las gentes del común que no pueden hilvanar en frases los golpes de la tristeza, que no pueden sentarse más tarde a reunir los fragmentos de la memoria y menos a componer un relato coherente que reivindique esa vida singular violentamente extirpada."
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -51,6 +58,13 @@ Según el fragmento, ¿cuál es la "ventaja" que tienen los intelectuales frente
 - B) No dice que sientan menos ("Entiendo sus odios..."), sino que pueden *expresarlo*.
 - C, D) No mencionados.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 2)
@@ -70,6 +84,13 @@ Según el fragmento, ¿cuál es la "ventaja" que tienen los intelectuales frente
 **Distractores:**
 - D) El libro es sobre su padre, pero en *este fragmento* explícito dice "una víctima" (concepto general).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Fácil - Dificultad 2)
@@ -89,6 +110,13 @@ En el texto, ¿qué le sucedió a la "vida singular" mencionada al final?
 **Distractores:**
 - B, C, D) Contradicen la violencia explícita mencionada.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -109,6 +137,13 @@ La expresión "hilvanar en frases los golpes de la tristeza" es una metáfora qu
 - B) Interpretación literal de hilvanar.
 - D) Interpretación literal de golpes.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Media - Dificultad 3)
@@ -128,6 +163,13 @@ La expresión "hilvanar en frases los golpes de la tristeza" es una metáfora qu
 **Distractores:**
 - B, C, D) No mencionados y contrarios al tono ético del texto.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 5)
@@ -147,6 +189,13 @@ A partir del texto, se puede inferir que para las "gentes del común" la experie
 **Distractores:**
 - B, C, D) Juicios de valor no implícitos en el texto (el texto no minimiza su dolor, solo su capacidad de elaboración discursiva).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 4)
@@ -168,15 +217,57 @@ La palabra "reivindicar" en este contexto significa:
 - C) Es una acepción legal, pero literariamente aquí es más profundo.
 - D) Es lo opuesto.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|-------|-------|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]

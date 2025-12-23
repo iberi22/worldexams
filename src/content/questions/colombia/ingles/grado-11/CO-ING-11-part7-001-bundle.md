@@ -4,10 +4,10 @@ country: "co"
 grado: 11
 asignatura: "ingles"
 tema: "grammar-cloze-complex"
-bundle_version: "2.1"
-total_questions: 7
+
+total_questions: 11
 estado: "published"
-creador: "GitHub Copilot"
+creador: "Jules"
 generation_date: "2025-12-14"
 source: "WWF Columbia"
 source_url: "https://www.wwf.org.co/"
@@ -37,6 +37,13 @@ They are excellent climbers and build platforms in trees for eating and sleeping
 
 Currently, these bears are listed as vulnerable. Their habitat is disappearing (4) ______ to deforestation and agriculture. Farmers sometimes kill them because they believe the bears attack cattle, although this (5) ______ happens. Conservation projects are now trying to educate people (6) ______ the importance of this species. Protecting the Andean bear means protecting the water sources and forests that benefit (7) ______ of us.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
@@ -56,6 +63,13 @@ Choose the correct option for space (1).
 **Distractores:**
 - B, C, D) Incorrect prepositions for "native".
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 2 (Fácil - Dificultad 2)
@@ -76,6 +90,13 @@ Choose the correct option for space (2).
 - B) "Nearly" means almost, but doesn't fit well with resemble here.
 - C, D) Do not fit the context.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 3 (Media - Dificultad 3)
@@ -97,6 +118,13 @@ Choose the correct option for space (3).
 - C) "Who" is for people.
 - D) "Where" is for places.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 4 (Media - Dificultad 3)
@@ -118,6 +146,13 @@ Choose the correct option for space (4).
 - C) "Since" does not fit structurally here.
 - D) "Owing" needs "to" (owing to), but "due to" is more common and precise for causing effects. (Actually both "due to" and "owing to" work, but "due" is the option provided).
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 5 (Difícil - Dificultad 4)
@@ -139,6 +174,13 @@ Choose the correct option for space (5).
 - C) "Ever" is usually used in questions or negatives.
 - D) "Nearly" doesn't make sense.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 6 (Difícil - Dificultad 4)
@@ -158,6 +200,13 @@ Choose the correct option for space (6).
 **Distractores:**
 - B, C, D) Incorrect prepositions.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## Pregunta 7 (Difícil - Dificultad 5)
@@ -179,15 +228,57 @@ Choose the correct option for space (7).
 - C) "Each of us" acts as singular, "benefit" (plural verb) would need "benefits" if subject was singular, but "forests benefit" relates to water sources... wait. "Protecting... means protecting... that benefit (7) _____ of us." The antecedent of "benefit" is "water sources and forests" (plural). So "benefit" is correct. Object is "all of us". "Each of us" is also possible object. But "benefit all of us" is more natural for collective benefit.
 - D) "Whole of us" is incorrect.
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
 ---
 
 ## 📊 Metadata de Validación
 
 | Campo | Valor |
-|-------|-------|
+|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+---
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
+----|
 | Total Preguntas | 7 |
 | Original (Dificultad 3) | 1 |
 | Fácil (Dificultad 1-2) | 1 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 3 |
 
+
+> ### 📊 Info-Tarjeta
+> **Tema:** [Pendiente]
+>
+> **Análisis:** [Pendiente]
+>
+> **Tip Clave:** [Pendiente]
