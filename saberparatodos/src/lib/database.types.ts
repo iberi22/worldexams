@@ -143,6 +143,58 @@ export interface Database {
           created_at?: string
         }
       }
+      user_answered_questions: {
+        Row: {
+          id: number
+          user_id: string
+          question_id: string
+          was_correct: boolean
+          time_taken: number | null
+          metadata: Json | null
+          created_at: string
+        }
+        Insert: {
+          id?: number
+          user_id?: string
+          question_id: string
+          was_correct: boolean
+          time_taken?: number | null
+          metadata?: Json | null
+          created_at?: string
+        }
+        Update: {
+          id?: number
+          user_id?: string
+          question_id?: string
+          was_correct?: boolean
+          time_taken?: number | null
+          metadata?: Json | null
+          created_at?: string
+        }
+      }
+      user_stats: {
+        Row: {
+          user_id: string
+          total_answered: number
+          correct_count: number
+          avg_time_seconds: number | null
+          updated_at: string | null
+        }
+        Insert: {
+          user_id?: string
+          total_answered?: number
+          correct_count?: number
+          avg_time_seconds?: number | null
+          updated_at?: string | null
+        }
+        Update: {
+          user_id?: string
+          total_answered?: number
+          correct_count?: number
+          avg_time_seconds?: number | null
+          updated_at?: string | null
+        }
+      }
     }
     Views: {
       [_ in never]: never

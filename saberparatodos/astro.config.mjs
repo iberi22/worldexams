@@ -2,6 +2,7 @@ import { defineConfig } from 'astro/config';
 import svelte from '@astrojs/svelte';
 import tailwind from '@astrojs/tailwind';
 import sitemap from '@astrojs/sitemap';
+import cloudflare from '@astrojs/cloudflare';
 
 // https://astro.build/config
 export default defineConfig({
@@ -13,7 +14,13 @@ export default defineConfig({
 
   integrations: [svelte(), tailwind(), sitemap()],
 
-  output: 'static',
+  // 🆕 Enable SSR for Cloudflare Workers
+  output: 'server',
+  adapter: cloudflare({
+    platformProxy: {
+      enabled: true
+    }
+  }),
 
   // Security headers via adapter
   server: {
@@ -46,6 +53,7 @@ export default defineConfig({
   vite: {
     resolve: {
       alias: {
+        '@': '/src',
         '$lib': '/src/lib'
       }
     },

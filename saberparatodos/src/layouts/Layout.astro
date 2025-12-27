@@ -148,7 +148,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     {showFooter && <Footer />}
 
     <!-- Cookie Consent Banner (GDPR/AdSense Compliance) -->
-    <CookieConsent client:load />
+    <CookieConsent client:only="svelte" />
 
     <!-- Scroll Reveal Script -->
     <script>

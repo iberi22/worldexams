@@ -25,7 +25,7 @@ export type QuestionEntry = {
  * Clean metadata from explanation text
  * Removes validation metadata tables and other internal annotations
  */
-function cleanExplanation(explanation: string | undefined): string | undefined {
+export function cleanExplanation(explanation: string | undefined): string | undefined {
   if (!explanation) return undefined;
 
   // Remove ## 📊 Metadata de Validación section and everything after
@@ -61,6 +61,7 @@ export interface ParsedBundleQuestion {
   correctOptionId: string;
   explanation: string;
   competency?: string;
+  context?: string;
 }
 
 /**
@@ -140,8 +141,38 @@ export function parseBundleQuestions(entry: QuestionEntry): ParsedBundleQuestion
   const body = entry.body;
   const questions: ParsedBundleQuestion[] = [];
 
+  // Extract shared context (everything before the first question)
+  // This captures "Texto A", "Texto B", etc.
+  const firstQuestionMatch = body.match(/## (?:Pregunta|Question)\s+\d+/i);
+  const contextEndIndex = firstQuestionMatch ? firstQuestionMatch.index : 0;
+  let context = contextEndIndex ? body.substring(0, contextEndIndex).trim() : '';
+
+  // Clean context: Remove metadata sections
+  if (context) {
+    // Remove === METADATA GLOBAL === and any content until next # header or end
+    context = context.replace(/===\s*METADATA\s*GLOBAL\s*===[\s\S]*?(?=#|$)/gi, '');
+    // Remove markdown tables (| ... |)
+    context = context.replace(/^\|.*\|$/gm, '');
+    // Remove table separators |---|---|
+    context = context.replace(/^\|[-:\s|]+\|$/gm, '');
+    // Remove horizontal rules
+    context = context.replace(/^---+$/gm, '');
+    // Remove # Bundle: headers
+    context = context.replace(/^#\s*Bundle:.*$/gm, '');
+    // Remove > **Fuente:** lines
+    context = context.replace(/^>\s*\*\*Fuente:\*\*.*$/gm, '');
+    // Remove > **Componente:** lines
+    context = context.replace(/^>\s*\*\*Componente:\*\*.*$/gm, '');
+    // Remove > **Competencias:** lines
+    context = context.replace(/^>\s*\*\*Competencias:\*\*.*$/gm, '');
+    // Clean excessive whitespace
+    context = context.replace(/\n{3,}/g, '\n\n').trim();
+  }
+
   // Match ## Pregunta N or ## Question N sections
-  const sectionRegex = /## (?:Pregunta|Question)\s+(\d+)\s*\(([^)]+)\)[\s\S]*?(?=## (?:Pregunta|Question)\s+\d+|## 📊|---\s*$|$)/gi;
+  // We use ^|\n to ensure we match start of lines, preventing matches on inline text
+  // We specifically look for "## " to avoid matching "### "
+  const sectionRegex = /(?:^|\n)## (?:Pregunta|Question)\s+(\d+)\s*\(([^)]+)\)[\s\S]*?(?=(?:^|\n)## (?:Pregunta|Question)\s+\d+|(?:^|\n)## 📊 Metadata|---\s*$|$)/gi;
 
   let match;
   while ((match = sectionRegex.exec(body)) !== null) {
@@ -151,6 +182,9 @@ export function parseBundleQuestions(entry: QuestionEntry): ParsedBundleQuestion
 
     const question = parseQuestionSection(sectionContent, sectionNumber, sectionType, entry.data.id);
     if (question) {
+      if (context) {
+        question.context = context;
+      }
       questions.push(question);
     }
   }
@@ -205,6 +239,10 @@ function parseQuestionSection(
   });
 
   // Extract explanation
+  // Look for header, then capture everything until:
+  // 1. Horizontal rule (---) at end of line indicating section end
+  // 2. Start of ANOTHER question section (## Pregunta/Question)
+  // 3. End of string ($)
   const explanationMatch = content.match(/### (?:Explicación Pedagógica|Explanation)\s+([\s\S]*?)(?=---\s*$|## (?:Pregunta|Question)|$)/i);
   const explanation = cleanExplanation(explanationMatch ? explanationMatch[1].trim() : undefined) || '';
 
@@ -228,14 +266,38 @@ function parseQuestionSection(
 
 /**
  * Parse variant type from section header
+ * Supports both v2.1 (7 questions) and v3.0 (10 questions) formats
  */
 function parseVariantType(sectionType: string): { type: ParsedBundleQuestion['variantType'], difficulty: number } {
   const normalized = sectionType.toLowerCase();
 
+  // v3.0 format: Muy Fácil A/B (difficulty 1)
+  if (normalized.includes('muy fácil a') || normalized.includes('very easy a')) {
+    const diffMatch = normalized.match(/dificultad\s*(\d)/i);
+    return { type: 'Fácil A', difficulty: diffMatch ? parseInt(diffMatch[1]) : 1 };
+  }
+  if (normalized.includes('muy fácil b') || normalized.includes('very easy b')) {
+    const diffMatch = normalized.match(/dificultad\s*(\d)/i);
+    return { type: 'Fácil B', difficulty: diffMatch ? parseInt(diffMatch[1]) : 1 };
+  }
+
+  // v3.0 format: Muy Difícil A/B (difficulty 5)
+  if (normalized.includes('muy difícil a') || normalized.includes('very hard a') || normalized.includes('very difficult a')) {
+    const diffMatch = normalized.match(/dificultad\s*(\d)/i);
+    return { type: 'Difícil A', difficulty: diffMatch ? parseInt(diffMatch[1]) : 5 };
+  }
+  if (normalized.includes('muy difícil b') || normalized.includes('very hard b') || normalized.includes('very difficult b')) {
+    const diffMatch = normalized.match(/dificultad\s*(\d)/i);
+    return { type: 'Difícil B', difficulty: diffMatch ? parseInt(diffMatch[1]) : 5 };
+  }
+
+  // v2.1 format: Original
   if (normalized.includes('original')) {
     const diffMatch = normalized.match(/dificultad\s*(\d)/i);
     return { type: 'Original', difficulty: diffMatch ? parseInt(diffMatch[1]) : 3 };
   }
+
+  // Both formats: Fácil A/B (difficulty 1-2)
   if (normalized.includes('fácil a') || normalized.includes('easy a')) {
     const diffMatch = normalized.match(/dificultad\s*(\d)/i);
     return { type: 'Fácil A', difficulty: diffMatch ? parseInt(diffMatch[1]) : 1 };
@@ -244,6 +306,8 @@ function parseVariantType(sectionType: string): { type: ParsedBundleQuestion['va
     const diffMatch = normalized.match(/dificultad\s*(\d)/i);
     return { type: 'Fácil B', difficulty: diffMatch ? parseInt(diffMatch[1]) : 2 };
   }
+
+  // Both formats: Media A/B (difficulty 3)
   if (normalized.includes('media a') || normalized.includes('medium a')) {
     const diffMatch = normalized.match(/dificultad\s*(\d)/i);
     return { type: 'Media A', difficulty: diffMatch ? parseInt(diffMatch[1]) : 3 };
@@ -252,6 +316,8 @@ function parseVariantType(sectionType: string): { type: ParsedBundleQuestion['va
     const diffMatch = normalized.match(/dificultad\s*(\d)/i);
     return { type: 'Media B', difficulty: diffMatch ? parseInt(diffMatch[1]) : 3 };
   }
+
+  // Both formats: Difícil A/B (difficulty 4-5)
   if (normalized.includes('difícil a') || normalized.includes('difficult a') || normalized.includes('hard a')) {
     const diffMatch = normalized.match(/dificultad\s*(\d)/i);
     return { type: 'Difícil A', difficulty: diffMatch ? parseInt(diffMatch[1]) : 4 };
@@ -281,6 +347,7 @@ function convertBundleQuestionToQuestion(
     explanation: bundleQuestion.explanation,
     grade: frontmatter.grado,
     difficulty: bundleQuestion.difficulty,
+    context: bundleQuestion.context,
   };
 }
 

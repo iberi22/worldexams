@@ -139,9 +139,18 @@
     return `${m.toString().padStart(2, '0')}:${s.toString().padStart(2, '0')}`;
   }
 
+  let nextButton: HTMLButtonElement | undefined = undefined;
+
   function handleSelect(optionId: string) {
     selectedOption = optionId;
     answers = { ...answers, [question.id]: optionId };
+
+    // Auto-focus Next button for keyboard navigation
+    // This allows users to press ENTER immediately after selecting an option
+    if (nextButton) {
+       // Small timeout to ensure DOM selection state is updated first
+       setTimeout(() => nextButton?.focus(), 50);
+    }
   }
 
   function recordQuestionResult() {
@@ -233,26 +242,33 @@
 
 <div class="w-full h-screen flex flex-col animate-fade-in-up">
   <!-- Header -->
-  <div class="shrink-0 px-4 sm:px-6 lg:px-8 pt-4 pb-3 border-b border-white/10">
+  <!-- Header -->
+  <div class="shrink-0 px-4 sm:px-6 lg:px-8 pt-4 pb-4 border-b border-white/10 bg-[#121212]/95 backdrop-blur-md z-30">
     <div class="max-w-7xl mx-auto">
-      <div class="flex items-center justify-between mb-3">
-        <div class="flex items-center space-x-2">
-          <span class="w-2 h-2 bg-emerald-500 rounded-full animate-pulse"></span>
-          <h2 class="text-[10px] sm:text-xs font-bold uppercase tracking-[0.2em] text-emerald-500 truncate">
+      <div class="flex flex-row items-center justify-between mb-4 gap-4">
+        <!-- Subject Title -->
+        <div class="flex items-center space-x-2 min-w-0 flex-1">
+          <span class="w-2 h-2 bg-emerald-500 rounded-full animate-pulse shrink-0"></span>
+          <h2 class="text-[10px] sm:text-xs font-bold uppercase tracking-[0.2em] text-emerald-500 truncate leading-tight">
             {question.category}
           </h2>
         </div>
-        <div class="text-right">
-          <span class="text-lg sm:text-xl font-mono font-bold text-[#F5F5DC] tabular-nums">
+
+        <!-- Timer -->
+        <div class="text-right shrink-0 flex items-center gap-2 bg-white/5 px-3 py-1 rounded-md border border-white/10">
+          <svg class="w-4 h-4 text-emerald-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+          </svg>
+          <span class="text-base sm:text-xl font-mono font-bold text-[#F5F5DC] tabular-nums">
             {formatTime(timeLeft)}
           </span>
         </div>
       </div>
 
       <!-- Timer Progress Bar -->
-      <div class="w-full h-1 bg-white/10 rounded-full overflow-hidden">
+      <div class="w-full h-1.5 bg-white/10 rounded-full overflow-hidden shadow-inner">
         <div
-          class="h-full bg-emerald-500 transition-all duration-1000 ease-linear"
+          class="h-full bg-gradient-to-r from-emerald-600 to-emerald-400 transition-all duration-1000 ease-linear shadow-[0_0_10px_rgba(16,185,129,0.5)]"
           style="width: {(timeLeft / 300) * 100}%"
         ></div>
       </div>
@@ -263,6 +279,18 @@
   <div class="flex-1 overflow-y-auto px-4 sm:px-6 lg:px-8 py-4 sm:py-6">
     <div class="max-w-4xl mx-auto min-h-full flex flex-col justify-center space-y-4 sm:space-y-6 py-4">
       <!-- Question Card - Flexible Height -->
+      {#if question.context}
+        <div class="bg-emerald-900/10 border border-emerald-500/20 rounded-xl p-4 sm:p-5 mb-2 overflow-y-auto max-h-[30vh] scrollbar-thin scrollbar-thumb-emerald-500/20 scrollbar-track-transparent">
+           <div class="text-xs font-bold text-emerald-400 mb-2 uppercase tracking-wider flex items-center gap-2">
+             <span class="i-lucide-book-open w-4 h-4"></span>
+             Contexto  / Lectura
+           </div>
+           <div class="text-sm sm:text-base text-gray-300 font-serif leading-relaxed space-y-2">
+             <MathRenderer content={question.context} />
+           </div>
+        </div>
+      {/if}
+
       <div class="bg-[#1E1E1E]/60 backdrop-blur-xl border border-white/10 rounded-2xl shadow-2xl flex flex-col min-h-[10rem] max-h-[35vh] sm:min-h-[12rem] transition-all duration-300 relative overflow-hidden group">
         <!-- Decorative gradient -->
         <div class="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-emerald-500/0 via-emerald-500/50 to-emerald-500/0 opacity-50"></div>
@@ -324,6 +352,7 @@
         Pregunta {currentIdx + 1} de {activeQuestions.length}
       </div>
       <button
+        bind:this={nextButton}
         on:click={handleNext}
         class="px-6 sm:px-8 py-2 sm:py-3 bg-emerald-900/20 border border-emerald-500/50 text-emerald-500 hover:bg-emerald-500 hover:text-[#121212] transition-all duration-300 uppercase tracking-widest text-xs sm:text-sm font-bold active:scale-95"
       >

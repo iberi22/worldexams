@@ -5,7 +5,7 @@
   import { fade, slide } from 'svelte/transition';
   import MathRenderer from './MathRenderer.svelte';
   import AdBlock from './AdBlock.svelte';
-  import { fetchBulkQuestions, type AppQuestion } from '../lib/api-service';
+  import { fetchBulkQuestions, fetchQuestions, type AppQuestion } from '../lib/api-service';
 
   // Define interface locally with details support
   interface QuestionDetail {
@@ -118,7 +118,7 @@
 
     try {
       // Use fetchBulkQuestions which handles the correct URL and caching
-      const questions = await fetchBulkQuestions([3, 5, 7, 9, 11], 500);
+      const questions = await fetchBulkQuestions([3, 5, 6, 7, 8, 9, 10, 11], 500);
       console.log(`🔍 Searching for question: ${qid} in ${questions.length} questions`);
 
       // Search by ID (exact or bundle match) - case insensitive
@@ -139,7 +139,48 @@
         console.log(`✅ Found question:`, found.id);
         selectedQuestionData = found;
       } else {
-        console.warn(`❌ Question not found: ${qid}. Sample IDs:`, questions.slice(0, 5).map(q => q.id));
+        // 🆕 Fallback: Try to fetch specific subject pack by parsing ID
+        console.warn(`❌ Question not in bulk cache. Attempting targeted fetch for: ${qid}`);
+
+        const parts = qid.split('-');
+        // CO-LEC-6-MITOS-001 or JUST ID like 123
+        if (parts.length >= 3) {
+          const subjectCode = parts[1]; // LEC
+          const gradeStr = parts[2];     // 6
+          const grade = parseInt(gradeStr) || 11;
+
+          const subjectMap: Record<string, string> = {
+            'LEC': 'lectura_critica',
+            'MAT': 'matematicas',
+            'CNAT': 'ciencias_naturales',
+            'SOC': 'sociales_y_ciudadanas',
+            'ING': 'ingles',
+            'FIL': 'filosofia',
+            'FIS': 'fisica',
+            'QUI': 'quimica'
+          };
+
+          const subject = subjectMap[subjectCode] || subjectCode.toLowerCase();
+
+          // Fetch page 1 for this subject
+          const specificQuestions = await fetchQuestions(grade, subject, 1);
+
+          const foundSpecific = specificQuestions.find((q: AppQuestion) => {
+            const id = q.id.toLowerCase();
+            const bundle = (q.bundleId || '').toLowerCase();
+            return id === qidLower ||
+                   id === bundleId ||
+                   bundle === bundleId ||
+                   id.startsWith(bundleId);
+          });
+
+          if (foundSpecific) {
+             console.log(`✅ Found question in specific subject pack:`, foundSpecific.id);
+             selectedQuestionData = foundSpecific;
+          } else {
+             console.warn(`❌ Question truly not found even in specific pack: ${qid}`);
+          }
+        }
       }
     } catch (err) {
       console.error('Error loading question:', err);
@@ -218,15 +259,11 @@
     ? Object.values(userProfile.competencies).filter(c => c.seen > 0)
     : [];
 
-  // 🆕 Calculate progress towards unlocking metrics
   $: metricsProgress = {
     totalQuestions: userProfile?.totalQuestions || 0,
     neededTotal: MIN_TOTAL_FOR_METRICS,
     remainingTotal: Math.max(0, MIN_TOTAL_FOR_METRICS - (userProfile?.totalQuestions || 0)),
-    qualifiedCompetencies: seenCompetencies.filter(c => c.seen >= MIN_COMPETENCY_QUESTIONS).length,
-    totalCompetencies: seenCompetencies.length,
-    isUnlocked: (userProfile?.totalQuestions || 0) >= MIN_TOTAL_FOR_METRICS &&
-                seenCompetencies.filter(c => c.seen >= MIN_COMPETENCY_QUESTIONS).length >= 1
+    isUnlocked: (userProfile?.totalQuestions || 0) >= MIN_TOTAL_FOR_METRICS
   };
 
   // Weak areas for improvement plan - uses topics first, then competencies/subjects
@@ -292,34 +329,55 @@
     }
     return days;
   })();
+
+  // 🆕 Reactive lists for UI
+  $: seenCompetencies = userProfile?.competencies ? Object.values(userProfile.competencies).filter(c => c.seen > 0) : [];
+  $: seenSubjects = userProfile?.subjects ? Object.values(userProfile.subjects).filter(s => s.questionsAnswered > 0) : [];
 </script>
 
-<div class="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/80 backdrop-blur-sm" transition:fade>
-  <div class="bg-[#1E1E1E] border border-white/10 rounded-2xl w-full max-w-4xl max-h-[90vh] flex flex-col shadow-2xl overflow-hidden relative">
+<div class="fixed inset-0 z-[1000] flex items-end sm:items-center justify-center bg-black/90 backdrop-blur-md" transition:fade>
+  <div class="bg-[#121212] border-t sm:border border-white/10 rounded-t-[2.5rem] sm:rounded-2xl w-full max-w-5xl h-[94vh] sm:h-[90vh] flex flex-col shadow-2xl overflow-hidden relative mb-[env(safe-area-inset-bottom)]">
+
+    <!-- Mobile Drag Handle -->
+    <div class="w-12 h-1.5 bg-white/10 rounded-full mx-auto mt-3 mb-1 sm:hidden"></div>
 
     <!-- Header -->
-    <div class="p-6 border-b border-white/5 flex flex-col md:flex-row items-start md:items-center justify-between gap-4 shrink-0 bg-[#121212]/50">
-      <div>
-        <h2 class="text-xl font-bold text-white flex items-center gap-2">
-          <span class="text-2xl">🧠</span>
-          <span>Inteligencia Local</span>
-          <span class="text-[10px] bg-emerald-500/10 text-emerald-500 border border-emerald-500/20 px-2 py-0.5 rounded uppercase tracking-wider">Beta</span>
-        </h2>
-        <p class="text-xs text-white/50 mt-1">
-          Análisis de rendimiento offline basado en tu historial ({historyResults.length} exámenes)
-        </p>
+    <div class="px-5 py-4 sm:p-6 border-b border-white/5 flex flex-col sm:flex-row items-center justify-between gap-4 shrink-0 bg-gradient-to-b from-white/5 to-transparent">
+      <div class="flex items-center gap-4 w-full sm:w-auto">
+        <div class="w-12 h-12 bg-gradient-to-tr from-emerald-600 to-emerald-400 rounded-2xl flex items-center justify-center text-2xl shadow-lg shadow-emerald-500/20">
+          🧠
+        </div>
+        <div>
+          <h2 class="text-xl font-black text-white flex items-center gap-2">
+            <span class="bg-clip-text text-transparent bg-gradient-to-r from-white to-white/60">Inteligencia Local</span>
+            <span class="text-[10px] bg-emerald-500 text-black font-black px-1.5 py-0.5 rounded-sm uppercase tracking-tighter">BETA</span>
+          </h2>
+          <p class="text-[10px] sm:text-xs text-white/40 font-medium uppercase tracking-widest mt-0.5">
+            Análisis de rendimiento • {historyResults.length} exámenes
+          </p>
+        </div>
+
+        <button
+          on:click={onClose}
+          class="ml-auto p-2 bg-white/5 hover:bg-white/10 rounded-xl transition-all text-white/40 hover:text-white sm:hidden"
+          aria-label="Cerrar reporte"
+        >
+          <svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+          </svg>
+        </button>
       </div>
 
-      <div class="flex items-center gap-3">
-        <div class="flex bg-white/5 p-1 rounded-lg border border-white/5">
+      <div class="flex items-center gap-3 w-full sm:w-auto">
+        <div class="flex bg-white/5 p-1 rounded-2xl border border-white/5 flex-1 sm:flex-none backdrop-blur-xl">
           <button
-            class={`px-4 py-1.5 rounded text-xs font-bold uppercase tracking-widest transition-all ${activeTab === 'dashboard' ? 'bg-emerald-600 text-white shadow-lg' : 'text-white/40 hover:text-white hover:bg-white/5'}`}
+            class={`flex-1 sm:flex-none px-6 py-2 rounded-xl text-xs font-black uppercase tracking-widest transition-all ${activeTab === 'dashboard' ? 'bg-emerald-600 text-white shadow-xl shadow-emerald-600/20' : 'text-white/40 hover:text-white hover:bg-white/5'}`}
             on:click={() => activeTab = 'dashboard'}
           >
             Dashboard
           </button>
           <button
-            class={`px-4 py-1.5 rounded text-xs font-bold uppercase tracking-widest transition-all ${activeTab === 'history' ? 'bg-emerald-600 text-white shadow-lg' : 'text-white/40 hover:text-white hover:bg-white/5'}`}
+            class={`flex-1 sm:flex-none px-6 py-2 rounded-xl text-xs font-black uppercase tracking-widest transition-all ${activeTab === 'history' ? 'bg-emerald-600 text-white shadow-xl shadow-emerald-600/20' : 'text-white/40 hover:text-white hover:bg-white/5'}`}
             on:click={() => activeTab = 'history'}
           >
             Historial
@@ -328,7 +386,7 @@
 
         <button
           on:click={onClose}
-          class="p-2 hover:bg-white/10 rounded-lg transition-colors text-white/60 hover:text-white bg-white/5"
+          class="hidden sm:flex p-3 bg-white/5 hover:bg-white/10 rounded-xl transition-all text-white/40 hover:text-white border border-white/5"
           aria-label="Cerrar reporte"
         >
           <svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -350,56 +408,62 @@
         <!-- DASHBOARD VIEW -->
         {#if activeTab === 'dashboard'}
           {#if !userProfile || userProfile.totalQuestions < 5}
-            <div class="text-center py-16 space-y-6 max-w-lg mx-auto">
-              <div class="w-20 h-20 bg-white/5 rounded-full flex items-center justify-center mx-auto text-4xl opacity-30 animate-float">
-                🎓
+            <div class="text-center py-16 space-y-8 max-w-lg mx-auto">
+              <div class="relative">
+                <div class="w-24 h-24 bg-white/5 rounded-[2rem] flex items-center justify-center mx-auto text-4xl shadow-2xl animate-pulse">
+                  🎓
+                </div>
+                <div class="absolute inset-0 bg-emerald-500/20 blur-3xl rounded-full"></div>
               </div>
-              <div>
-                <h3 class="text-xl font-bold text-white mb-2">Necesitamos más datos</h3>
-                <p class="text-white/50 text-sm leading-relaxed">
-                  Para generar tu perfil de inteligencia y calcular tu MMR, necesitamos que completes al menos 5 exámenes.
+              <div class="relative z-10">
+                <h3 class="text-2xl font-black text-white mb-2 leading-tight">Forjando tu Inteligencia</h3>
+                <p class="text-white/40 text-sm leading-relaxed px-6">
+                  Estamos analizando tus patrones. Completa 5 exámenes para desbloquear tu <span class="text-emerald-400 font-bold">MMR</span> y perfil detallado.
                 </p>
               </div>
-              <div class="w-full bg-white/5 h-2 rounded-full overflow-hidden">
-                <div class="bg-emerald-500 h-full transition-all duration-1000" style="width: {(userProfile?.totalQuestions || 0) / 5 * 100}%"></div>
+              <div class="px-10">
+                <div class="w-full bg-white/5 h-3 rounded-full overflow-hidden border border-white/5 p-0.5">
+                  <div class="bg-gradient-to-r from-emerald-600 to-emerald-400 h-full rounded-full transition-all duration-1000 shadow-[0_0_15px_rgba(52,211,153,0.3)]" style="width: {(userProfile?.totalQuestions || 0) / 5 * 100}%"></div>
+                </div>
+                <p class="text-[10px] text-emerald-400 font-black uppercase tracking-widest mt-3">
+                  Progreso: {userProfile?.totalQuestions || 0} / 5 preguntas completadas
+                </p>
               </div>
-              <p class="text-xs text-emerald-400 font-mono">Progreso: {userProfile?.totalQuestions || 0}/5 preguntas</p>
 
-              <!-- Botón para ir al panel de exámenes -->
               <button
                 on:click={handleGoToExams}
-                class="mt-4 px-6 py-3 bg-gradient-to-r from-emerald-600 to-emerald-500 hover:from-emerald-500 hover:to-emerald-400 text-white font-bold text-sm uppercase tracking-widest rounded-lg shadow-lg transition-all transform hover:scale-105 flex items-center gap-2 mx-auto"
+                class="mt-4 px-8 py-4 bg-white text-black font-black text-xs uppercase tracking-[0.2em] rounded-2xl shadow-xl hover:scale-105 active:scale-95 transition-all flex items-center gap-3 mx-auto"
               >
-                <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4" />
-                </svg>
-                Ir a Exámenes
+                Comenzar Entrenamiento
               </button>
             </div>
           {:else}
-            <div class="space-y-6" in:fade={{duration: 300}}>
+            <div class="space-y-6 pb-10" in:fade={{duration: 400}}>
 
-              <!-- 🆕 0. Activity Heatmap -->
-              <div class="bg-[#121212]/50 border border-white/10 rounded-xl p-6">
-                 <h3 class="text-xs font-bold uppercase tracking-widest text-white/40 mb-4 flex items-center justify-between">
-                   <span>Racha de Actividad (Últimos 60 días)</span>
-                   <span class="text-[10px] bg-emerald-500/10 text-emerald-500 px-2 py-0.5 rounded">Constancia = Éxito</span>
+              <!-- 0. Activity Heatmap -->
+              <div class="bg-white/5 border border-white/10 rounded-3xl p-5 sm:p-6 backdrop-blur-md">
+                 <h3 class="text-[10px] font-black uppercase tracking-[0.2em] text-white/40 mb-5 flex items-center justify-between">
+                   <span class="flex items-center gap-2">
+                     <span class="w-2 h-2 bg-emerald-500 rounded-full animate-pulse"></span>
+                     Racha de Actividad
+                   </span>
+                   <span class="bg-emerald-500/10 text-emerald-500 px-2 py-1 rounded-lg text-[9px]">Últimos 60 días</span>
                  </h3>
-                 <div class="flex flex-wrap gap-1">
+                 <div class="flex flex-wrap gap-1.5 sm:gap-2 justify-center sm:justify-start">
                    {#each activityDays as day}
                      <div
-                       class={`w-3 h-3 sm:w-4 sm:h-4 rounded-sm transition-all hover:scale-125 hover:z-10 relative group
-                         ${day.level === 0 ? 'bg-white/5' : ''}
-                         ${day.level === 1 ? 'bg-emerald-900/40 border border-emerald-500/20' : ''}
-                         ${day.level === 2 ? 'bg-emerald-700/60 border border-emerald-500/40' : ''}
-                         ${day.level === 3 ? 'bg-emerald-500/80 border border-emerald-400/60' : ''}
-                         ${day.level === 4 ? 'bg-emerald-400 border border-emerald-300 shadow-[0_0_10px_rgba(52,211,153,0.5)]' : ''}
+                       class={`w-3.5 h-3.5 sm:w-5 sm:h-5 rounded-md transition-all duration-300 hover:scale-125 hover:z-10 relative group border
+                         ${day.level === 0 ? 'bg-white/5 border-white/5' : ''}
+                         ${day.level === 1 ? 'bg-emerald-950/40 border-emerald-500/20' : ''}
+                         ${day.level === 2 ? 'bg-emerald-800/60 border-emerald-500/40' : ''}
+                         ${day.level === 3 ? 'bg-emerald-600/80 border-emerald-400/60' : ''}
+                         ${day.level === 4 ? 'bg-emerald-400 border-white shadow-[0_0_15px_rgba(52,211,153,0.4)]' : ''}
                        `}
                      >
-                       <div class="absolute bottom-full mb-2 left-1/2 -translate-x-1/2 bg-black/90 text-white text-[10px] px-2 py-1 rounded whitespace-nowrap opacity-0 group-hover:opacity-100 pointer-events-none z-20 transition-opacity border border-white/10">
-                         <span class="font-bold text-emerald-400">{day.count} preguntas</span>
-                         <br>
-                         <span class="opacity-70">{day.date}</span>
+                       <div class="absolute bottom-full mb-3 left-1/2 -translate-x-1/2 bg-white text-black text-[10px] font-black px-3 py-2 rounded-xl whitespace-nowrap opacity-0 group-hover:opacity-100 pointer-events-none z-20 transition-all scale-75 group-hover:scale-100 shadow-2xl">
+                         {day.count} <span class="font-medium">preguntas</span>
+                         <div class="text-[8px] opacity-40 font-medium">{day.date}</div>
+                         <div class="absolute top-full left-1/2 -translate-x-1/2 border-8 border-transparent border-t-white"></div>
                        </div>
                      </div>
                    {/each}
@@ -408,307 +472,307 @@
 
               <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
 
-              <!-- 1. Stats Card -->
-              <div class="bg-gradient-to-br from-white/5 to-transparent border border-white/10 rounded-xl p-6 relative overflow-hidden group hover:border-emerald-500/30 transition-colors">
-                <div class="absolute top-0 right-0 p-4 opacity-5 group-hover:opacity-10 transition-opacity pointer-events-none">
-                  <svg class="w-24 h-24" fill="currentColor" viewBox="0 0 20 20"><path d="M13 6a3 3 0 11-6 0 3 3 0 016 0zM18 8a2 2 0 11-4 0 2 2 0 014 0zM14 15a4 4 0 00-8 0v3h8v-3zM6 8a2 2 0 11-4 0 2 2 0 014 0zM16 18v-3a5.972 5.972 0 00-.75-2.906A3.005 3.005 0 0119 15v3h-3zM4.75 12.094A5.973 5.973 0 004 15v3H1v-3a3 3 0 013.75-2.906z"></path></svg>
-                </div>
-                <div class="text-xs uppercase tracking-widest text-white/40 mb-2 flex items-center gap-2 relative z-10">
-                  <span>Puntaje Simulado (ICFES)</span>
-                  <div class="flex items-center gap-2">
-                    <!--
-                    <button
-                      class="px-3 py-1 bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-500 hover:to-teal-500 rounded-lg text-xs font-bold uppercase tracking-widest text-white shadow-lg transition-all flex items-center gap-2 group"
-                      on:click|stopPropagation={() => {
-                        if (!userProfile) return;
-                        const prompt = generateAIAnalysisPrompt(userProfile);
-                        navigator.clipboard.writeText(prompt);
-                        // Ideal: Show toast "Copiado!"
-                      }}
-                    >
-                      <span>Copiar Prompt para IA</span>
-                      <svg class="w-3 h-3 group-hover:scale-110 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3" />
-                       </svg>
-                    </button>
-                    -->
-                    <button
-                      class="p-1 hover:bg-white/10 rounded-full transition-colors text-white/40 hover:text-emerald-400"
-                      aria-label="Compartir Puntaje"
-                      on:click|stopPropagation={() => {
-                        const score = userProfile?.simulatedIcfesScore || 0;
-                        const text = `¡Mi Puntaje Simulado ICFES es ${score}/500 en SaberParaTodos! Practica y mejora tu nivel.`;
-                        if (navigator.share) {
-                          navigator.share({
-                            title: 'Mi Puntaje SaberParaTodos',
-                            text: text,
-                            url: window.location.origin
-                          }).catch(console.error);
-                        } else {
-                          navigator.clipboard.writeText(text);
-                        }
-                      }}
-                    >
-                      <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.684 13.342C8.886 12.938 9 12.482 9 12c0-.482-.114-.938-.316-1.342m0 2.684a3 3 0 110-2.684m0 2.684l6.632 3.316m-6.632-6l6.632-3.316m0 0a3 3 0 105.367-2.684 3 3 0 00-5.367 2.684zm0 9.316a3 3 0 105.368 2.684 3 3 0 00-5.368-2.684z" />
-                      </svg>
-                    </button>
-                    <button
-                      class="p-1 hover:bg-white/10 rounded-full transition-colors text-white/40 hover:text-emerald-400"
-                      aria-label="Cómo funciona el sistema de calificaciones"
-                      on:click|stopPropagation={() => showHelpModal = true}
-                    >
-                      <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.228 9c.549-1.165 2.03-2 3.772-2 2.21 0 4 1.343 4 3 0 1.4-1.278 2.575-3.006 2.907-.542.104-.994.54-.994 1.093m0 3h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
-                      </svg>
-                    </button>
-                  </div>
-                </div>
+                <!-- 1. Stats Card -->
+                <div class="bg-gradient-to-br from-white/10 to-transparent border border-white/10 rounded-[2.5rem] p-8 relative overflow-hidden group shadow-2xl">
+                  <div class="absolute -top-10 -right-10 w-40 h-40 bg-emerald-500/5 rounded-full blur-[60px] group-hover:bg-emerald-500/10 transition-colors"></div>
 
-                <div class="flex items-baseline gap-3 mb-1">
-                  <div class={`text-5xl font-bold font-mono ${getRankColor(userProfile.globalMMR)}`}>
-                    {userProfile.simulatedIcfesScore}
-                  </div>
-                  <div class="text-base font-mono text-white/30">
-                    / 500
-                  </div>
-                </div>
+                  <div class="flex items-center justify-between mb-8">
+                    <div class="text-[10px] font-black uppercase tracking-[0.2em] text-white/40">SIMULADO ICFES</div>
+                    <div class="flex gap-2">
+                        <button
+                          class="p-2.5 bg-white/5 hover:bg-white/10 rounded-xl transition-all text-white/10 hover:text-emerald-400 border border-white/5"
+                          on:click|stopPropagation={() => {
+                            const score = userProfile?.simulatedIcfesScore || 0;
+                            const text = `¡Mi Puntaje Simulado ICFES es ${score}/500 en SaberParaTodos! 🚀`;
+                            navigator.clipboard.writeText(text);
+                          }}
+                        >
+                         <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.684 13.342C8.886 12.938 9 12.482 9 12c0-.482-.114-.938-.316-1.342m0 2.684a3 3 0 110-2.684m0 2.684l6.632 3.316m-6.632-6l6.632-3.316m0 0a3 3 0 105.367-2.684 3 3 0 00-5.367 2.684zm0 9.316a3 3 0 105.368 2.684 3 3 0 00-5.368-2.684z" />
+                         </svg>
+                        </button>
 
-                <div class="text-lg font-bold text-white opacity-80 mb-4">{userProfile.rankTitle}</div>
-
-                <div class="space-y-3">
-                   <div class="flex justify-between items-center text-xs border-t border-white/5 pt-3">
-                     <span class="text-white/40">Rating Técnico (MMR)</span>
-                     <span class="text-white/50 font-mono">{userProfile.globalMMR}</span>
-                   </div>
-                   <div class="flex justify-between items-center text-xs">
-                     <span class="text-white/40">Total Preguntas</span>
-                     <span class="text-white font-mono">{userProfile.totalQuestions}</span>
-                   </div>
-                   <div class="flex justify-between items-center text-xs">
-                     <span class="text-white/40">Precisión Global</span>
-                     <span class="text-white font-mono">{Math.round(userProfile.globalAccuracy * 100)}%</span>
-                   </div>
-                </div>
-              </div>
-
-              <!-- 2. Insights & AI Prompt Panel -->
-              <div class="md:col-span-2 grid grid-rows-[auto_1fr] gap-6">
-                 <!-- Advanced Metrics (New) -->
-                 <div class="bg-[#121212]/50 border border-white/10 rounded-xl p-4 flex justify-around items-center">
-                    <div class="text-center">
-                       <div class="text-[10px] uppercase tracking-widest text-white/40 mb-1">Consistencia</div>
-                       <div class="text-xl font-bold text-emerald-400">{userProfile.advancedMetrics.consistencyScore}/100</div>
+                        <button
+                          class="p-2.5 bg-emerald-500/10 hover:bg-emerald-500/20 rounded-xl transition-all text-emerald-500 border border-emerald-500/20"
+                          on:click|stopPropagation={() => showHelpModal = true}
+                          aria-label="Ayuda sobre el puntaje"
+                        >
+                          <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.228 9c.549-1.165 2.03-2 3.772-2 2.21 0 4 1.343 4 3 0 1.4-1.278 2.575-3.006 2.907-.542.104-.994.54-.994 1.093m0 3h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                          </svg>
+                        </button>
                     </div>
-                    <div class="w-px h-8 bg-white/10"></div>
-                    <div class="text-center">
-                       <div class="text-[10px] uppercase tracking-widest text-white/40 mb-1">Velocidad Respuesta</div>
-                       {#if userProfile.advancedMetrics.avgTimeCorrect > 0}
-                         {@const diff = userProfile.advancedMetrics.avgTimeCorrect - userProfile.advancedMetrics.avgTimeIncorrect}
-                         <div class="text-xl font-bold {diff < -3000 ? 'text-red-400' : 'text-emerald-400'}">
-                           {Math.round(userProfile.advancedMetrics.avgTimeCorrect / 1000)}s
+                  </div>
+
+                  <div class="flex items-end gap-3 mb-2">
+                    <div class={`text-7xl font-black tracking-tighter ${getRankColor(userProfile.globalMMR)} drop-shadow-2xl`}>
+                      {userProfile.simulatedIcfesScore}
+                    </div>
+                    <div class="text-xl font-black text-white/20 mb-3 tracking-widest">/500</div>
+                  </div>
+
+                  <div class="text-xl font-black text-white tracking-tight mb-8 flex items-center gap-2">
+                    {userProfile.rankTitle}
+                    <span class="w-2 h-2 bg-emerald-500 rounded-full"></span>
+                  </div>
+
+                  <div class="space-y-4 pt-6 border-t border-white/5">
+                     <div class="flex justify-between items-center group/item">
+                       <span class="text-[10px] font-bold text-white/30 uppercase tracking-[0.1em]">Technical Rating</span>
+                       <span class="text-sm font-black text-emerald-400">{userProfile.globalMMR} <span class="text-[10px] opacity-40">MMR</span></span>
+                     </div>
+                     <div class="flex justify-between items-center group/item">
+                       <span class="text-[10px] font-bold text-white/30 uppercase tracking-[0.1em]">Knowledge Base</span>
+                       <span class="text-sm font-black text-white">{userProfile.totalQuestions} <span class="text-[10px] opacity-40">Q</span></span>
+                     </div>
+                     <div class="flex justify-between items-center group/item">
+                       <span class="text-[10px] font-bold text-white/30 uppercase tracking-[0.1em]">Global Accuracy</span>
+                       <span class="text-sm font-black text-white">{Math.round(userProfile.globalAccuracy * 100)}%</span>
+                     </div>
+                  </div>
+                </div>
+
+                <!-- 2. Insights & AI Prompt Panel -->
+                <div class="md:col-span-2 flex flex-col gap-6">
+                   <!-- Advanced Metrics -->
+                   <div class="grid grid-cols-2 gap-4">
+                      <div class="bg-white/5 border border-white/5 rounded-3xl p-6 flex flex-col items-center justify-center text-center group hover:bg-white/[0.07] transition-all">
+                        <div class="text-[10px] font-black uppercase tracking-[0.2em] text-white/30 mb-2">Consistencia</div>
+                        <div class="text-3xl font-black text-emerald-400 drop-shadow-lg">{userProfile.advancedMetrics.consistencyScore}</div>
+                        <div class="w-12 h-1 bg-white/10 rounded-full mt-3 overflow-hidden">
+                          <div class="h-full bg-emerald-500" style="width: {userProfile.advancedMetrics.consistencyScore}%"></div>
+                        </div>
+                      </div>
+
+                      <div class="bg-white/5 border border-white/5 rounded-3xl p-6 flex flex-col items-center justify-center text-center group hover:bg-white/[0.07] transition-all">
+                        <div class="text-[10px] font-black uppercase tracking-[0.2em] text-white/30 mb-2">Respuesta</div>
+                        {#if userProfile.advancedMetrics.avgTimeCorrect > 0}
+                          {@const seconds = Math.round(userProfile.advancedMetrics.avgTimeCorrect / 1000)}
+                          <div class="text-3xl font-black {seconds > 120 ? 'text-red-400' : 'text-emerald-400'} drop-shadow-lg">
+                            {seconds}s
+                          </div>
+                        {:else}
+                          <div class="text-3xl font-black text-white/10">--</div>
+                        {/if}
+                        <div class="text-[9px] font-bold text-white/20 mt-2 uppercase">Promedio p/ Pregunta</div>
+                      </div>
+                   </div>
+
+                   <!-- Analysis List -->
+                   <div class="flex-1 bg-gradient-to-br from-indigo-500/10 to-transparent border border-indigo-500/20 rounded-[2.5rem] p-8 relative overflow-hidden group">
+                     <div class="absolute -bottom-10 -left-10 w-40 h-40 bg-indigo-500/10 rounded-full blur-[60px]"></div>
+
+                     <h3 class="text-[10px] font-black uppercase tracking-[0.2em] text-indigo-400 mb-6 flex items-center gap-3">
+                       <span class="w-2 h-2 bg-indigo-500 rounded-full animate-pulse"></span>
+                       Análisis Cognitivo
+                     </h3>
+
+                     <div class="space-y-4">
+                       {#each insights as insight}
+                         <div class="flex gap-4 items-start bg-white/5 hover:bg-white/[0.08] p-5 rounded-2xl border border-white/5 transition-all transform hover:translate-x-1">
+                           <div class="w-10 h-10 bg-indigo-500/20 rounded-xl flex items-center justify-center text-lg shrink-0">
+                             💡
+                           </div>
+                           <p class="text-[13px] text-indigo-50/70 leading-relaxed font-medium">{@html insight}</p>
                          </div>
-                       {:else}
-                         <div class="text-xl font-bold text-white/30">--</div>
+                       {/each}
+                       {#if insights.length === 0}
+                         <div class="flex flex-col items-center justify-center py-10 opacity-20">
+                            <div class="text-4xl mb-4">🔍</div>
+                            <div class="text-xs font-black uppercase tracking-widest">Calculando patrones...</div>
+                         </div>
                        {/if}
-                    </div>
-                 </div>
-
-                 <!-- Analysis List -->
-                 <div class="bg-gradient-to-br from-indigo-900/20 to-transparent border border-indigo-500/20 rounded-xl p-6 relative overflow-hidden">
-                   <h3 class="text-sm font-bold uppercase tracking-widest text-indigo-400 mb-4 flex items-center gap-2">
-                     <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" /></svg>
-                     Análisis de Rendimiento
-                   </h3>
-                   <div class="space-y-3">
-                     {#each insights as insight}
-                       <div class="flex gap-3 items-start bg-indigo-900/10 p-3 rounded-lg border border-indigo-500/10">
-                         <span class="text-lg mt-0.5">💡</span>
-                         <p class="text-sm text-indigo-100/80 leading-relaxed md:pr-8">{@html insight}</p>
-                       </div>
-                     {/each}
-                     {#if insights.length === 0}
-                       <div class="text-center py-6 opacity-30">Analizando patrones... practica más para generar recomendaciones.</div>
-                     {/if}
+                     </div>
                    </div>
-                 </div>
-              </div>
+                </div>
 
-              <!-- 3. Progress Charts -->
-              <div class="md:col-span-3 bg-gradient-to-br from-purple-900/10 to-transparent border border-purple-500/20 rounded-xl p-6">
-                <h3 class="text-sm font-bold uppercase tracking-widest text-purple-400 mb-6 flex items-center gap-2">
-                  <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" /></svg>
-                  Evolución de Rendimiento
-                </h3>
+                <!-- 3. Progress Charts -->
+                <div class="md:col-span-3 bg-white/5 border border-white/10 rounded-[2.5rem] p-8">
+                  <h3 class="text-[10px] font-black uppercase tracking-[0.2em] text-white/40 mb-8 flex items-center gap-3">
+                    <span class="w-2 h-2 bg-purple-500 rounded-full"></span>
+                    Evolución Estratégica
+                  </h3>
 
-                <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-                  <!-- MMR Progression -->
-                  <div class="bg-black/20 rounded-lg p-4 border border-white/5">
-                    <div class="text-xs text-white/40 uppercase tracking-widest mb-3">Progresión MMR (Últimos 10 exámenes)</div>
-                    {#if mmrHistory.length >= 2}
-                      {#each [mmrHistory] as history}
-                        {@const max = Math.max(...history, 1000)}
-                        {@const min = Math.min(...history, 1000)}
-                        {@const range = max - min || 100}
-                        {@const points = history.map((v, i) => `${(i / (history.length - 1)) * 100},${100 - ((v - min) / range) * 80}`).join(' ')}
-                        <div class="h-32 relative">
+                  <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                    <!-- MMR Progression -->
+                    <div class="bg-black/40 rounded-3xl p-6 border border-white/5 backdrop-blur-xl">
+                      <div class="text-[10px] font-black text-white/20 uppercase tracking-[0.15em] mb-6">Tendencia MMR</div>
+                      {#if mmrHistory.length >= 2}
+                        {#each [mmrHistory] as history}
+                          {@const max = Math.max(...history, 1100)}
+                          {@const min = Math.min(...history, 900)}
+                          {@const range = max - min || 100}
+                          {@const points = history.map((v, i) => `${(i / (history.length - 1)) * 100},${100 - ((v - min) / range) * 80}`).join(' ')}
+                          <div class="h-40 relative">
+                            <svg class="w-full h-full" viewBox="0 0 100 100" preserveAspectRatio="none">
+                              <!-- Area fill -->
+                              <polygon
+                                points="{points} 100,100 0,100"
+                                fill="url(#mmrGradient)"
+                                opacity="0.3"
+                              />
+                              <!-- Line -->
+                              <polyline
+                                points={points}
+                                fill="none"
+                                stroke="#10b981"
+                                stroke-width="2.5"
+                                stroke-linecap="round"
+                                stroke-linejoin="round"
+                              />
+                              <!-- Gradient Def -->
+                              <defs>
+                                <linearGradient id="mmrGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+                                  <stop offset="0%" style="stop-color:#10b981;stop-opacity:0.4" />
+                                  <stop offset="100%" style="stop-color:#10b981;stop-opacity:0" />
+                                </linearGradient>
+                              </defs>
+                            </svg>
+                          </div>
+                          <div class="flex justify-between items-center mt-6">
+                            <div class="flex flex-col">
+                              <span class="text-[9px] font-black text-white/20 uppercase tracking-widest">Apertura</span>
+                              <span class="text-sm font-black text-white/60">{Math.round(history[0])}</span>
+                            </div>
+                            <div class="flex flex-col items-end">
+                              <span class="text-[9px] font-black text-white/20 uppercase tracking-widest">Actual</span>
+                              <span class={`text-lg font-black ${history[history.length-1] >= history[0] ? 'text-emerald-400' : 'text-red-400'}`}>
+                                {Math.round(history[history.length-1])}
+                                <span class="text-xs">{history[history.length-1] >= history[0] ? '▲' : '▼'}</span>
+                              </span>
+                            </div>
+                          </div>
+                        {/each}
+                      {:else}
+                        <div class="h-40 flex flex-col items-center justify-center gap-4 opacity-20">
+                          <div class="text-3xl">📉</div>
+                          <div class="text-[10px] font-black uppercase tracking-widest text-center px-10 leading-relaxed">Secuencia interrumpida. Completa 2 exámenes continuos.</div>
+                        </div>
+                      {/if}
+                    </div>
+
+                    <!-- Accuracy Trend -->
+                    <div class="bg-black/40 rounded-3xl p-6 border border-white/5 backdrop-blur-xl">
+                      <div class="text-[10px] font-black text-white/20 uppercase tracking-[0.15em] mb-6">Precisión de Fuego</div>
+                      {#if accuracyHistory.length >= 2}
+                        <div class="h-40 relative">
                           <svg class="w-full h-full" viewBox="0 0 100 100" preserveAspectRatio="none">
-                            <!-- Grid lines -->
-                            <line x1="0" y1="20" x2="100" y2="20" stroke="white" opacity="0.05" stroke-width="0.5"/>
-                            <line x1="0" y1="50" x2="100" y2="50" stroke="white" opacity="0.05" stroke-width="0.5"/>
-                            <line x1="0" y1="80" x2="100" y2="80" stroke="white" opacity="0.05" stroke-width="0.5"/>
-
-                            <!-- Area fill -->
-                            <polygon
-                              points="{points} 100,100 0,100"
-                              fill="url(#mmrGradient)"
-                              opacity="0.2"
-                            />
-
-                            <!-- Line -->
-                            <polyline
-                              points={points}
-                              fill="none"
-                              stroke="#a78bfa"
-                              stroke-width="2"
-                              opacity="0.8"
-                            />
-
-                            <!-- Points -->
-                            {#each history as value, i}
-                              <circle
-                                cx="{(i / (history.length - 1)) * 100}%"
-                                cy="{100 - ((value - min) / range) * 80}%"
-                                r="2"
-                                fill="#a78bfa"
-                                class="transition-all duration-300"
+                            {#each accuracyHistory as value, i}
+                              {@const barHeight = (value / 100) * 85}
+                              {@const barWidth = (100 / accuracyHistory.length) * 0.6}
+                              {@const x = (i / accuracyHistory.length) * 100 + ((100 / accuracyHistory.length) * 0.2)}
+                              <rect
+                                x="{x}%"
+                                y="{100 - barHeight}%"
+                                width="{barWidth}%"
+                                height="{barHeight}%"
+                                rx="4"
+                                fill={value >= 80 ? '#10b981' : value >= 60 ? '#f59e0b' : '#ef4444'}
+                                class="transition-all duration-500 opacity-60 hover:opacity-100"
                               />
                             {/each}
-
-                            <defs>
-                              <linearGradient id="mmrGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-                                <stop offset="0%" style="stop-color:#a78bfa;stop-opacity:0.3" />
-                                <stop offset="100%" style="stop-color:#a78bfa;stop-opacity:0" />
-                              </linearGradient>
-                            </defs>
                           </svg>
                         </div>
-                        <div class="flex justify-between text-[10px] text-white/30 mt-2">
-                          <span>Inicio: {Math.round(history[0])}</span>
-                          <span class={history[history.length-1] > history[0] ? 'text-emerald-400' : 'text-red-400'}>
-                            Actual: {Math.round(history[history.length-1])}
-                            {history[history.length-1] > history[0] ? '↑' : '↓'}
-                          </span>
+                        <div class="flex justify-between items-center mt-6">
+                            <div class="flex flex-col">
+                              <span class="text-[9px] font-black text-white/20 uppercase tracking-widest">Promedio</span>
+                              <span class="text-sm font-black text-white/60">{Math.round(accuracyHistory.reduce((a,b) => a+b, 0) / accuracyHistory.length)}%</span>
+                            </div>
+                            <div class="flex flex-col items-end">
+                              <span class="text-[9px] font-black text-white/20 uppercase tracking-widest">Peak</span>
+                              <span class="text-lg font-black text-emerald-400">{Math.max(...accuracyHistory)}%</span>
+                            </div>
                         </div>
-                      {/each}
-                    {:else}
-                      <div class="h-32 flex items-center justify-center text-white/20 text-xs">
-                        Necesitas al menos 2 exámenes para ver tendencias
-                      </div>
-                    {/if}
-                  </div>
-
-                  <!-- Accuracy Trend -->
-                  <div class="bg-black/20 rounded-lg p-4 border border-white/5">
-                    <div class="text-xs text-white/40 uppercase tracking-widest mb-3">Precisión por Examen</div>
-                    {#if accuracyHistory.length >= 2}
-                      <div class="h-32 relative">
-                        <svg class="w-full h-full" viewBox="0 0 100 100" preserveAspectRatio="none">
-                          <!-- Grid lines -->
-                          <line x1="0" y1="25" x2="100" y2="25" stroke="white" opacity="0.05" stroke-width="0.5"/>
-                          <line x1="0" y1="50" x2="100" y2="50" stroke="white" opacity="0.05" stroke-width="0.5"/>
-                          <line x1="0" y1="75" x2="100" y2="75" stroke="white" opacity="0.05" stroke-width="0.5"/>
-
-                          <!-- Bars -->
-                          {#each accuracyHistory as value, i}
-                            {@const barHeight = (value / 100) * 90}
-                            {@const barWidth = (100 / accuracyHistory.length) * 0.7}
-                            {@const x = (i / accuracyHistory.length) * 100 + ((100 / accuracyHistory.length) * 0.15)}
-                            {@const color = value >= 80 ? '#10b981' : value >= 60 ? '#f59e0b' : '#ef4444'}
-                            <rect
-                              x="{x}%"
-                              y="{100 - barHeight}%"
-                              width="{barWidth}%"
-                              height="{barHeight}%"
-                              fill={color}
-                              opacity="0.6"
-                              class="transition-all duration-300 hover:opacity-100"
-                            />
-                          {/each}
-                        </svg>
-                      </div>
-                      <div class="flex justify-between text-[10px] text-white/30 mt-2">
-                        <span>Promedio: {Math.round(accuracyHistory.reduce((a,b) => a+b, 0) / accuracyHistory.length)}%</span>
-                        <span>Mejor: {Math.max(...accuracyHistory)}%</span>
-                      </div>
-                    {:else}
-                      <div class="h-32 flex items-center justify-center text-white/20 text-xs">
-                        Completa más exámenes para análisis
-                      </div>
-                    {/if}
-                  </div>
-                </div>
-              </div>
-
-              <!-- 4. Subject Performance -->
-              <div class="md:col-span-3 bg-[#121212]/30 border border-white/10 rounded-xl p-6">
-                <h3 class="text-sm font-bold uppercase tracking-widest text-white/60 mb-6">Rendimiento por Asignatura</h3>
-                <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-                  {#each Object.values(userProfile.subjects).sort((a,b) => b.mmr - a.mmr) as subj}
-                    <div class="bg-white/5 rounded-lg p-4 border border-white/5 hover:border-white/10 transition-colors">
-                      <div class="flex justify-between items-start mb-2">
-                        <span class="font-bold text-white text-sm truncate pr-2" title={subj.name}>{subj.name}</span>
-                        <span class="text-xs font-mono px-1.5 py-0.5 bg-black/30 rounded text-emerald-400 border border-emerald-500/20">{Math.round(subj.mmr)} MMR</span>
-                      </div>
-
-                      <!-- Accuracy Bar -->
-                      <div class="flex items-center gap-2 mb-1">
-                        <div class="flex-1 h-1.5 bg-black/40 rounded-full overflow-hidden">
-                          <div class={`h-full rounded-full ${subj.accuracy >= 0.6 ? 'bg-emerald-500' : subj.accuracy >= 0.4 ? 'bg-yellow-500' : 'bg-red-500'}`} style="width: {subj.accuracy * 100}%"></div>
+                      {:else}
+                        <div class="h-40 flex flex-col items-center justify-center gap-4 opacity-20">
+                          <div class="text-3xl">🎯</div>
+                          <div class="text-[10px] font-black uppercase tracking-widest text-center px-10 leading-relaxed">No hay ráfagas de datos suficientes.</div>
                         </div>
-                        <span class="text-[10px] text-white/40 font-mono w-8 text-right">{Math.round(subj.accuracy * 100)}%</span>
-                      </div>
-                      <div class="text-[10px] text-white/30 text-right">{subj.questionsAnswered} preguntas</div>
+                      {/if}
                     </div>
-                  {/each}
+                  </div>
                 </div>
-              </div>
 
-              <!-- 4. Competency Gaps -->
+                <!-- 4. Subject Performance -->
+                <div class="md:col-span-3 bg-white/5 border border-white/10 rounded-[2.5rem] p-8">
+                  <h3 class="text-[10px] font-black uppercase tracking-[0.2em] text-white/40 mb-8 flex items-center justify-between">
+                    <span>Cluster de Asignaturas</span>
+                    <span class="text-[8px] bg-white/5 px-2 py-1 rounded">Ordenado por Dominio</span>
+                  </h3>
+                  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+                    {#each Object.values(userProfile.subjects).sort((a,b) => b.mmr - a.mmr) as subj}
+                      <div class="bg-black/30 rounded-3xl p-5 border border-white/5 hover:border-emerald-500/30 transition-all group overflow-hidden relative">
+                        <div class="absolute -right-4 -bottom-4 text-6xl opacity-[0.03] grayscale transition-all group-hover:scale-110 group-hover:opacity-[0.08] pointer-events-none">
+                          {subj.name.substring(0, 2).toUpperCase()}
+                        </div>
+
+                        <div class="flex justify-between items-center mb-4">
+                          <span class="text-[11px] font-black text-white truncate max-w-[60%] uppercase tracking-tight">{subj.name}</span>
+                          <span class="text-[10px] font-black bg-emerald-500 text-black px-2 py-0.5 rounded-sm">{Math.round(subj.mmr)}</span>
+                        </div>
+
+                        <div class="space-y-3">
+                          <div class="flex items-center gap-3">
+                            <div class="flex-1 h-1.5 bg-white/5 rounded-full overflow-hidden">
+                              <div class={`h-full rounded-full transition-all duration-700 ${subj.accuracy >= 0.7 ? 'bg-emerald-500' : subj.accuracy >= 0.4 ? 'bg-yellow-500' : 'bg-red-500'}`} style="width: {subj.accuracy * 100}%"></div>
+                            </div>
+                            <span class="text-[10px] font-black text-white/40 w-8 text-right font-mono">{Math.round(subj.accuracy * 100)}%</span>
+                          </div>
+                          <div class="text-[9px] font-bold text-white/20 flex justify-between">
+                            <span>PRECISIÓN</span>
+                            <span>{subj.questionsAnswered} PREGUNTAS</span>
+                          </div>
+                        </div>
+                      </div>
+                    {/each}
+                  </div>
+                </div>
+    <!-- 4. Competency Gaps -->
               <div class="md:col-span-3 grid grid-cols-1 md:grid-cols-2 gap-6">
                  <!-- Strongest -->
                  <div class="bg-emerald-900/10 border border-emerald-500/20 rounded-xl p-5">
                    <h3 class="text-xs font-bold uppercase tracking-widest text-emerald-400 mb-4">Fortalezas (Top 3)</h3>
                    <div class="space-y-2">
-                     {#each Object.values(userProfile.competencies).filter(c => c.seen > 0).sort((a,b) => b.correct/b.seen - a.correct/a.seen).slice(0, 3) as comp}
-                       <div class="flex items-center justify-between text-sm py-2 border-b border-emerald-500/10 last:border-0 pl-2">
-                         <span class="text-emerald-100/80">{comp.name}</span>
-                         <span class="font-mono text-emerald-400">{Math.round((comp.correct/comp.seen)*100)}%</span>
-                       </div>
-                     {/each}
-                     {#if Object.values(userProfile.competencies).filter(c => c.seen > 0).length === 0}
-                       <!-- 🆕 Countdown Progress for Fortalezas -->
-                       <div class="space-y-3">
-                         <p class="text-xs text-white/40 italic">Datos insuficientes para determinar fortalezas.</p>
-                         <div class="bg-emerald-900/20 rounded-lg p-3 border border-emerald-500/10">
-                           <div class="flex items-center gap-2 mb-2">
-                             <span class="text-lg">🔓</span>
-                             <span class="text-xs font-bold text-emerald-400 uppercase tracking-widest">Desbloquear Métricas</span>
-                           </div>
-                           <div class="text-xs text-white/60 mb-2">
-                             Completa <span class="font-bold text-emerald-400">{metricsProgress.remainingTotal}</span> preguntas más para ver tus fortalezas.
-                           </div>
-                           <div class="w-full bg-black/40 h-2 rounded-full overflow-hidden">
-                             <div
-                               class="bg-gradient-to-r from-emerald-600 to-emerald-400 h-full transition-all duration-500"
-                               style="width: {Math.min(100, (metricsProgress.totalQuestions / metricsProgress.neededTotal) * 100)}%"
-                             ></div>
-                           </div>
-                           <div class="text-[10px] text-white/40 mt-1 text-right font-mono">
-                             {metricsProgress.totalQuestions}/{metricsProgress.neededTotal} preguntas
-                           </div>
+                     {#if seenCompetencies.length > 0}
+                       {#each seenCompetencies.sort((a,b) => (b.correct/b.seen) - (a.correct/a.seen)).slice(0, 3) as comp}
+                         <div class="flex items-center justify-between text-sm py-2 border-b border-emerald-500/10 last:border-0 pl-2">
+                           <span class="text-emerald-100/80">{comp.name}</span>
+                           <span class="font-mono text-emerald-400">{Math.round((comp.correct/comp.seen)*100)}%</span>
                          </div>
-                       </div>
+                       {/each}
+                     {:else if seenSubjects.length > 0}
+                        <p class="text-[10px] text-emerald-400/60 uppercase tracking-widest mb-2 font-bold">Por Asignatura</p>
+                        {#each seenSubjects.sort((a,b) => b.accuracy - a.accuracy).slice(0, 3) as subj}
+                          <div class="flex items-center justify-between text-sm py-2 border-b border-emerald-500/10 last:border-0 pl-2">
+                            <span class="text-emerald-100/80">{subj.name}</span>
+                            <span class="font-mono text-emerald-400">{Math.round(subj.accuracy*100)}%</span>
+                          </div>
+                        {/each}
+                     {:else}
+                        <div class="space-y-3">
+                          <p class="text-xs text-white/40 italic">Datos insuficientes para determinar fortalezas.</p>
+                          {#if !metricsProgress.isUnlocked}
+                            <div class="bg-emerald-900/20 rounded-lg p-3 border border-emerald-500/10">
+                              <div class="flex items-center gap-2 mb-2">
+                                <span class="text-lg">🔓</span>
+                                <span class="text-xs font-bold text-emerald-400 uppercase tracking-widest">Desbloquear Métricas</span>
+                              </div>
+                              <div class="text-xs text-white/60 mb-2">
+                                Completa <span class="font-bold text-emerald-400">{metricsProgress.remainingTotal}</span> preguntas más para ver tus fortalezas.
+                              </div>
+                              <div class="w-full bg-black/40 h-2 rounded-full overflow-hidden">
+                                <div
+                                  class="bg-gradient-to-r from-emerald-600 to-emerald-400 h-full transition-all duration-500"
+                                  style="width: {Math.min(100, (metricsProgress.totalQuestions / metricsProgress.neededTotal) * 100)}%"
+                                ></div>
+                              </div>
+                            </div>
+                          {:else}
+                            <div class="bg-emerald-900/20 rounded-lg p-4 border border-emerald-500/10 text-[10px] text-white/50 leading-relaxed italic text-center">
+                              Análisis en curso... Sigue practicando para que el sistema identifique tus fortalezas por competencia.
+                            </div>
+                          {/if}
+                        </div>
                      {/if}
                    </div>
                  </div>
@@ -717,35 +781,46 @@
                  <div class="bg-red-900/10 border border-red-500/20 rounded-xl p-5">
                    <h3 class="text-xs font-bold uppercase tracking-widest text-red-400 mb-4">Áreas de Mejora (Top 3)</h3>
                     <div class="space-y-2">
-                     {#each Object.values(userProfile.competencies).filter(c => c.seen > 0).sort((a,b) => a.correct/a.seen - b.correct/b.seen).slice(0, 3) as comp}
-                       <div class="flex items-center justify-between text-sm py-2 border-b border-red-500/10 last:border-0 pl-2">
-                         <span class="text-red-100/80">{comp.name}</span>
-                         <span class="font-mono text-red-400">{Math.round((comp.correct/comp.seen)*100)}%</span>
-                       </div>
-                     {/each}
-                     {#if Object.values(userProfile.competencies).filter(c => c.seen > 0).length === 0}
-                       <!-- 🆕 Countdown Progress for Debilidades -->
-                       <div class="space-y-3">
-                         <p class="text-xs text-white/40 italic">Datos insuficientes para determinar debilidades.</p>
-                         <div class="bg-red-900/20 rounded-lg p-3 border border-red-500/10">
-                           <div class="flex items-center gap-2 mb-2">
-                             <span class="text-lg">🎯</span>
-                             <span class="text-xs font-bold text-red-400 uppercase tracking-widest">Identificar Áreas de Mejora</span>
-                           </div>
-                           <div class="text-xs text-white/60 mb-2">
-                             Responde <span class="font-bold text-red-400">{metricsProgress.remainingTotal}</span> preguntas más para identificar dónde mejorar.
-                           </div>
-                           <div class="w-full bg-black/40 h-2 rounded-full overflow-hidden">
-                             <div
-                               class="bg-gradient-to-r from-red-600 to-red-400 h-full transition-all duration-500"
-                               style="width: {Math.min(100, (metricsProgress.totalQuestions / metricsProgress.neededTotal) * 100)}%"
-                             ></div>
-                           </div>
-                           <div class="text-[10px] text-white/40 mt-1 text-right font-mono">
-                             {metricsProgress.totalQuestions}/{metricsProgress.neededTotal} preguntas
-                           </div>
+                     {#if seenCompetencies.length > 0}
+                       {#each seenCompetencies.sort((a,b) => (a.correct/a.seen) - (b.correct/b.seen)).slice(0, 3) as comp}
+                         <div class="flex items-center justify-between text-sm py-2 border-b border-red-500/10 last:border-0 pl-2">
+                           <span class="text-red-100/80">{comp.name}</span>
+                           <span class="font-mono text-red-400">{Math.round((comp.correct/comp.seen)*100)}%</span>
                          </div>
-                       </div>
+                       {/each}
+                     {:else if seenSubjects.length > 0}
+                        <p class="text-[10px] text-red-400/60 uppercase tracking-widest mb-2 font-bold">Por Asignatura</p>
+                        {#each seenSubjects.sort((a,b) => a.accuracy - b.accuracy).slice(0, 3) as subj}
+                          <div class="flex items-center justify-between text-sm py-2 border-b border-red-500/10 last:border-0 pl-2">
+                            <span class="text-red-100/80">{subj.name}</span>
+                            <span class="font-mono text-red-400">{Math.round(subj.accuracy*100)}%</span>
+                          </div>
+                        {/each}
+                     {:else}
+                        <div class="space-y-3">
+                          <p class="text-xs text-white/40 italic">Datos insuficientes para determinar debilidades.</p>
+                          {#if !metricsProgress.isUnlocked}
+                            <div class="bg-red-900/20 rounded-lg p-3 border border-red-500/10">
+                              <div class="flex items-center gap-2 mb-2">
+                                <span class="text-lg">🎯</span>
+                                <span class="text-xs font-bold text-red-400 uppercase tracking-widest">Identificar Áreas de Mejora</span>
+                              </div>
+                              <div class="text-xs text-white/60 mb-2">
+                                Responde <span class="font-bold text-red-400">{metricsProgress.remainingTotal}</span> preguntas más para identificar dónde mejorar.
+                              </div>
+                              <div class="w-full bg-black/40 h-2 rounded-full overflow-hidden">
+                                <div
+                                  class="bg-gradient-to-r from-red-600 to-red-400 h-full transition-all duration-500"
+                                  style="width: {Math.min(100, (metricsProgress.totalQuestions / metricsProgress.neededTotal) * 100)}%"
+                                ></div>
+                              </div>
+                            </div>
+                          {:else}
+                            <div class="bg-red-900/20 rounded-lg p-4 border border-red-500/10 text-[10px] text-white/50 leading-relaxed italic text-center">
+                              Diversifica tus prácticas para permitirle a la IA mapear tus áreas de mejora con precisión.
+                            </div>
+                          {/if}
+                        </div>
                      {/if}
                    </div>
                  </div>
@@ -904,9 +979,27 @@
                 {/if}
               </div>
 
+              <!-- IA Disclaimer and Feedback -->
+              <div class="md:col-span-3 mt-12 py-8 border-t border-white/5 text-center px-6">
+                <div class="inline-flex items-center gap-2 px-3 py-1 bg-amber-500/10 border border-amber-500/20 rounded-full text-[10px] font-black text-amber-500 uppercase tracking-widest mb-4">
+                  <svg class="w-3 h-3" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
+                  Contenido Generado por IA
+                </div>
+                <p class="text-xs text-white/40 leading-relaxed max-w-md mx-auto italic">
+                  Este análisis y las preguntas utilizadas son generadas por modelos de IA. Aunque buscamos la máxima precisión, pueden contener errores o desajustes.
+                </p>
+                <button
+                  on:click={() => window.open('https://forms.gle/your-feedback-form', '_blank')}
+                  class="mt-6 text-[10px] font-black uppercase tracking-widest text-emerald-400 hover:text-emerald-300 transition-colors flex items-center gap-2 mx-auto border border-emerald-500/20 px-4 py-2 rounded-xl bg-emerald-500/5 hover:bg-emerald-500/10"
+                >
+                  <svg class="w-3 h-3" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 8h10M7 12h4m1 8l-4-4H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-3l-4 4z" /></svg>
+                  Déjanos tu feedback para mejorar
+                </button>
+              </div>
+
             </div>
-            </div>
-          {/if}
+          </div>
+        {/if}
 
         <!-- HISTORY VIEW -->
         {:else}
@@ -1022,7 +1115,7 @@
 {#if selectedQuestionId}
   <!-- svelte-ignore a11y_click_events_have_key_events a11y_no_static_element_interactions -->
   <div
-    class="fixed inset-0 z-[100] flex items-center justify-center p-4 bg-black/90 backdrop-blur-md"
+    class="fixed inset-0 z-[1100] flex items-center justify-center p-4 bg-black/90 backdrop-blur-md"
     transition:fade
     on:click={closeQuestionModal}
     role="dialog"
@@ -1479,6 +1572,65 @@
           class="px-6 py-2 bg-purple-500/20 hover:bg-purple-500/30 border border-purple-500/30 rounded-lg text-sm text-purple-400 hover:text-purple-300 transition-colors"
         >
           Cerrar
+        </button>
+      </div>
+    </div>
+  </div>
+{/if}
+
+<!-- 🆕 Help Modal for MMR / Stats -->
+{#if showHelpModal}
+  <div class="fixed inset-0 z-[2000] flex items-center justify-center p-4 bg-black/80 backdrop-blur-md" transition:fade>
+    <div
+      class="bg-[#181818] border border-white/10 rounded-2xl w-full max-w-lg shadow-2xl overflow-hidden"
+      in:slide={{ axis: 'y' }}
+    >
+      <div class="p-6 border-b border-white/5 flex items-center justify-between bg-gradient-to-r from-emerald-600/10 to-transparent">
+        <h3 class="text-lg font-black text-white uppercase tracking-widest flex items-center gap-2">
+          <span class="text-emerald-400">📊</span> Entendiendo tu Rating (MMR)
+        </h3>
+        <button on:click={() => showHelpModal = false} class="text-white/40 hover:text-white transition-colors">
+          <svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" /></svg>
+        </button>
+      </div>
+
+      <div class="p-6 space-y-6 max-h-[70vh] overflow-y-auto custom-scrollbar">
+        <section class="space-y-3">
+          <h4 class="text-xs font-black text-emerald-400 uppercase tracking-tighter">¿Qué es el MMR?</h4>
+          <p class="text-sm text-white/70 leading-relaxed">
+            El <span class="text-white font-bold">Rating Técnico (MMR)</span> es un sistema de puntuación dinámico (estilo ELO) que mide tu habilidad real basándose en la dificultad de las preguntas que respondes.
+          </p>
+        </section>
+
+        <section class="space-y-3">
+          <h4 class="text-xs font-black text-emerald-400 uppercase tracking-tighter">¿Cómo se calcula?</h4>
+          <ul class="text-xs text-white/60 space-y-2 list-disc list-inside">
+            <li>Subes puntos al responder correctamente <span class="text-emerald-400 font-bold">preguntas difíciles</span>.</li>
+            <li>Bajas puntos si fallas <span class="text-red-400 font-bold">preguntas fáciles</span>.</li>
+            <li>El sistema se estabiliza después de <span class="text-white font-bold">20-30 preguntas</span>.</li>
+          </ul>
+        </section>
+
+        <section class="space-y-3">
+          <h4 class="text-xs font-black text-emerald-400 uppercase tracking-tighter">Puntaje Simulado ICFES</h4>
+          <p class="text-sm text-white/70 leading-relaxed">
+            Convertimos tu MMR a una escala de <span class="text-white font-bold">0 a 500 puntos</span> equivalente al examen real. Es una estimación estadística basada en tu desempeño actual.
+          </p>
+        </section>
+
+        <div class="bg-emerald-500/10 rounded-xl p-4 border border-emerald-500/20">
+          <p class="text-[11px] text-emerald-300 italic text-center">
+            "Tu rating no define quién eres, sino cuánto has practicado hoy."
+          </p>
+        </div>
+      </div>
+
+      <div class="p-4 bg-black/20 flex justify-end">
+        <button
+          on:click={() => showHelpModal = false}
+          class="px-8 py-2 bg-emerald-600 text-white font-black text-xs uppercase tracking-widest rounded-lg shadow-lg hover:bg-emerald-500 transition-all uppercase"
+        >
+          Entendido
         </button>
       </div>
     </div>

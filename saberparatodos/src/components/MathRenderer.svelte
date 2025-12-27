@@ -1,6 +1,7 @@
 <script lang="ts">
   import { onMount } from 'svelte';
   import katex from 'katex';
+  import 'katex/dist/katex.min.css';
 
   export let content: string = '';
   export let className: string = '';
@@ -70,13 +71,30 @@
 
     // Handle markdown italic (*text* or _text_)
     result = result.replace(/(?<!\*)\*([^*]+)\*(?!\*)/g, '<em>$1</em>');
-    result = result.replace(/_([^_]+)_/g, '<em>$1</em>');
 
-    // Handle line breaks for explanations
+    // Handle horizontal rules (---) - BEFORE newline conversion
+    result = result.replace(/^---$/gm, '<hr class="my-4 border-white/10">');
+
+    // Handle Headers (#, ##, ###) - BEFORE newline conversion
+    // These need line boundaries to work correctly
+    result = result.replace(/^### (.+)$/gm, '<h5 class="text-sm font-bold text-white mt-2 mb-1">$1</h5>');
+    result = result.replace(/^## (.+)$/gm, '<h4 class="text-base font-bold text-emerald-300 mt-3 mb-2">$1</h4>');
+    result = result.replace(/^# (.+)$/gm, '<h3 class="text-lg font-bold text-emerald-400 mt-4 mb-2">$1</h3>');
+
+    // Handle Blockquotes (> text) - BEFORE newline conversion
+    // Also handle blockquotes that contain headers (> ### ...)
+    result = result.replace(/^> ### (.+)$/gm, '<blockquote class="border-l-4 border-emerald-500/50 pl-4 py-1 my-2 bg-emerald-900/10"><h5 class="text-sm font-bold text-emerald-400">$1</h5></blockquote>');
+    result = result.replace(/^> \*\*(.+?)\*\*:?\s*(.*)$/gm, '<blockquote class="border-l-4 border-emerald-500/50 pl-4 py-1 my-2 bg-emerald-900/10"><strong class="text-emerald-400">$1</strong>: $2</blockquote>');
+    result = result.replace(/^> (.+)$/gm, '<blockquote class="border-l-4 border-emerald-500/50 pl-4 py-1 my-2 bg-emerald-900/10 italic text-gray-300">$1</blockquote>');
+
+    // Merge consecutive blockquotes into single blocks
+    result = result.replace(/<\/blockquote>\s*<blockquote class="[^"]*">/g, '<br>');
+
+    // Handle line breaks AFTER all line-dependent parsing is done
     result = result.replace(/\n/g, '<br>');
 
-    // Handle horizontal rules (---)
-    result = result.replace(/---/g, '<hr class="my-4 border-white/10">');
+    // Clean up multiple consecutive <br> tags
+    result = result.replace(/(<br>\s*){3,}/g, '<br><br>');
 
     return result;
   }
@@ -85,12 +103,6 @@
 </script>
 
 <svelte:head>
-  <!-- KaTeX CSS -->
-  <link
-    rel="stylesheet"
-    href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css"
-    crossorigin="anonymous"
-  >
   <style>
     /* Custom KaTeX styling for dark theme */
     .katex {

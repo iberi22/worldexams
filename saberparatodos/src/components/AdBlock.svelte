@@ -1,11 +1,20 @@
-<script>
-  export let format = 'auto';
-  export let slot = '7015371704987876'; // Default slot
-  export let style = '';
-  export let className = '';
+<script lang="ts">
+  interface Props {
+    format?: string;
+    slot?: string;
+    customStyle?: string;
+    className?: string;
+  }
+
+  let {
+    format = 'auto',
+    slot = '7015371704987876',
+    customStyle = '',
+    className = ''
+  }: Props = $props();
 </script>
 
-<div class="ad-container {className}" {style}>
+<div class="ad-container {className}" style={customStyle}>
   <!-- Google AdSense Placeholder -->
   <ins class="adsbygoogle"
        style="display:block"

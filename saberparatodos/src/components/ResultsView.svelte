@@ -26,6 +26,7 @@
   export let userAnswers: Record<string | number, string> = {};
   export let onHome: () => void;
   export let onLeaderboard: () => void;
+  export let onViewReports: (() => void) | undefined = undefined;
   export let onLogin: () => void;
   export let onRegister: () => void;
 
@@ -169,10 +170,10 @@
     );
 
     const submission: ScoreSubmissionInput = {
-      anonymousId: identity.anonymousId,
-      displayName: identity.displayName,
+      anonymousId: identity.identity.id,
+      displayName: identity.identity.displayName,
       grade: examData.grade,
-      region: identity.ciudad?.substring(0, 3).toUpperCase() || 'CO',
+      region: identity.identity.region?.substring(0, 3).toUpperCase() || 'CO',
       totalPoints: examScore.totalScore,
       questionsAnswered: questions.length,
       correctAnswers: correctCount,
@@ -318,9 +319,11 @@
       {/if}
 
       <!-- Memory Progress Status -->
-      <div class="max-w-2xl mx-auto">
-        <MemoryStatus totalQuestions={questions.length} compact={false} />
-      </div>
+      <!-- TODO: Fix totalQuestions - should come from cache pool, not exam questions -->
+      <!-- Temporarily hidden until we implement proper pool size tracking -->
+      <!-- <div class="max-w-2xl mx-auto">
+        <MemoryStatus totalQuestions={100} compact={false} />
+      </div> -->
 
       <!-- Leaderboard Status -->
       <div class="max-w-md mx-auto">
@@ -334,7 +337,7 @@
               </div>
               <div>
                 <p class="text-xs uppercase tracking-widest opacity-50">Tu identidad</p>
-                <p class="font-bold text-emerald-400">{identity.displayName}</p>
+                <p class="font-bold text-emerald-400">{identity.identity.displayName}</p>
               </div>
             </div>
             {#if leaderboardSubmitted}
@@ -348,6 +351,7 @@
               <div class="text-xs opacity-60 animate-pulse">Enviando al ranking...</div>
             {/if}
           </div>
+        <!-- Anonymous Registration - Temporarily disabled
         {:else}
           <div class="bg-[#1E1E1E]/60 border border-yellow-500/20 rounded-xl p-4 sm:p-6">
             <div class="flex items-center gap-3 text-yellow-500 mb-3">
@@ -366,6 +370,7 @@
               Crear identidad anónima
             </button>
           </div>
+        -->
         {/if}
       </div>
 
@@ -382,6 +387,7 @@
               Guardando en tu cuenta...
             </div>
           {/if}
+        <!-- Login prompt - Temporarily disabled
         {:else if !identity}
           <div class="flex flex-col items-center gap-3 max-w-md">
             <p class="text-xs text-center opacity-50">
@@ -394,6 +400,7 @@
               Iniciar sesión
             </button>
           </div>
+        -->
         {/if}
       </div>
 
@@ -421,8 +428,15 @@
                     `}>
                       {isCorrect ? '✓ Correcta' : '✗ Incorrecta'}
                     </div>
-                    {#if q.grade && q.grade !== examData.grade}
-                      <div class="px-2 py-0.5 text-[10px] sm:text-xs font-bold uppercase tracking-widest border border-yellow-500/50 text-yellow-500 bg-yellow-500/10 rounded">
+                    <!-- Question ID -->
+                    <span class="text-[10px] font-mono text-white/30 truncate hidden sm:block" title="ID de Pregunta">
+                      #{q.id}
+                    </span>
+                    {#if q.grade}
+                      <div class={`
+                         px-2 py-0.5 text-[10px] sm:text-xs font-bold uppercase tracking-widest border rounded
+                         ${q.grade !== examData.grade ? 'border-yellow-500/50 text-yellow-500 bg-yellow-500/10' : 'border-white/10 text-white/40 bg-white/5'}
+                      `}>
                         Grado {q.grade}°
                       </div>
                     {/if}
@@ -432,6 +446,20 @@
                   </h3>
                 </div>
               </div>
+
+              <!-- Context / Reading Passage for Review -->
+              {#if q.context}
+                <div class="mt-4 bg-[#121212]/50 border border-emerald-500/10 rounded-lg p-3 sm:p-4 relative">
+                   <div class="text-[10px] font-bold text-emerald-500/70 mb-2 uppercase tracking-wider flex items-center gap-2">
+                     <span class="i-lucide-book-open w-3 h-3"></span>
+                     Contexto / Lectura
+                   </div>
+                   <div class="text-xs sm:text-sm text-gray-400 font-serif leading-relaxed max-h-40 overflow-y-auto pr-2 scrollbar-thin scrollbar-thumb-white/10">
+                     <MathRenderer content={q.context} />
+                   </div>
+                </div>
+              {/if}
+
             </div>
 
             <!-- Answers Section -->
@@ -542,11 +570,22 @@
         </button>
       {/if}
       <button
+        on:click={() => onViewReports?.()}
+        class="px-6 py-3 bg-indigo-900/20 border border-indigo-500/50 text-indigo-500 hover:bg-indigo-500 hover:text-[#121212] transition-colors uppercase text-xs tracking-widest font-bold flex items-center gap-2"
+      >
+        <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+        </svg>
+        Ver Mis Métricas
+      </button>
+      <!-- Temporarily disabled
+      <button
         on:click={onLeaderboard}
         class="px-6 py-3 bg-emerald-900/20 border border-emerald-500/50 text-emerald-500 hover:bg-emerald-500 hover:text-[#121212] transition-colors uppercase text-xs tracking-widest font-bold"
       >
         Ver Tabla de Posiciones
       </button>
+      -->
     </div>
   </div>
 </div>

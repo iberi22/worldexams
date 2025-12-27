@@ -1,20 +1,33 @@
 /**
  * API Service for consuming questions from WorldExams API
  * This service fetches questions from the API with JWT authentication
+ *
+ * 🆕 Now supports Rotating Packs system for anti-scraping protection
  */
 
 import { supabase } from './supabase';
+import {
+  savePack,
+  getQuestionPool,
+  getCurrentPackId,
+  setCurrentPackId,
+  hasPackStored,
+  getTotalQuestionsAvailable,
+  type StoredPack
+} from './pack-storage';
 
 // API Configuration
 const API_BASE_URL = '/api'; // Static files (legacy)
-const EDGE_FUNCTION_URL = 'https://tzmrgvtptdtsjcugwqyq.supabase.co/functions/v1/get-questions'; // Edge Function (NEW)
-const BULK_FUNCTION_URL = 'https://tzmrgvtptdtsjcugwqyq.supabase.co/functions/v1/get-questions-bulk'; // Bulk endpoint (NEW)
+const PACKS_API_URL = '/api/co/icfes/packs'; // 🆕 Rotating packs
+const CURRENT_PACK_URL = '/api/packs/current'; // ⚡ Dynamic Endpoint (Worker)
+const BULK_FUNCTION_URL = 'https://tzmrgvtptdtsjcugwqyq.supabase.co/functions/v1/get-questions-bulk'; // Bulk endpoint
 const COUNTRY_CODE = 'co';
 const EXAM_TYPE = 'icfes';
 
 // Feature flags
-const USE_EDGE_FUNCTIONS = true; // Set to true to use Edge Functions instead of static API
-const USE_BULK_FOR_BLOG = true; // Set to true to use bulk endpoint for Blog view
+const USE_ROTATING_PACKS = true; // 🆕 Primary: Use rotating packs system
+const USE_EDGE_FUNCTIONS = false; // Disabled: Edge Functions require auth
+const USE_BULK_FOR_BLOG = true; // Use bulk endpoint for Blog view
 
 /**
  * Get JWT token from Supabase session
@@ -59,6 +72,7 @@ export interface APIQuestion {
   source_url: string;
   tags: string[];
   images: string[];
+  context?: string; // Shared context (reading passage)
   // Modern questions metadata
   modern_context?: boolean;
   context_type?: string;
@@ -85,6 +99,7 @@ export interface AppQuestion {
   grade: number;
   difficulty: number;
   bundleId?: string; // Bundle ID for question versioning
+  context?: string; // Shared context
   // Modern questions metadata
   modernContext?: boolean;
   contextType?: string;
@@ -176,6 +191,7 @@ function transformQuestion(apiQuestion: APIQuestion, grade: number, subject: str
     grade: grade,
     difficulty: mapDifficulty(apiQuestion.difficulty),
     bundleId: apiQuestion.bundle_id, // Add bundleId for version carousel
+    context: apiQuestion.context,
     // Modern questions metadata
     modernContext: apiQuestion.modern_context || false,
     contextType: apiQuestion.context_type || undefined,
@@ -188,8 +204,8 @@ function transformQuestion(apiQuestion: APIQuestion, grade: number, subject: str
  */
 export async function getAvailableGrades(): Promise<number[]> {
   try {
-    // Hardcoded for ICFES Colombia - these are the available grades
-    return [3, 5, 7, 9, 11];
+    // All grades with bundles available (3-11)
+    return [3, 5, 6, 7, 8, 9, 10, 11];
   } catch (error) {
     console.error('Error fetching grades:', error);
     return [11]; // Default to grade 11
@@ -209,12 +225,18 @@ export async function getAvailableSubjects(grade: number): Promise<string[]> {
   const subjectMap: Record<number, string[]> = {
     // Grade 3: ciencias_naturales, ingles, matematicas, sociales_y_ciudadanas
     3: ['matematicas', 'ingles', 'ciencias_naturales', 'sociales_y_ciudadanas'],
-    // Grade 5: ciencias_naturales, lectura_critica, matematicas, sociales_y_ciudadanas
-    5: ['matematicas', 'lectura_critica', 'ciencias_naturales', 'sociales_y_ciudadanas'],
-    // Grade 7: ciencias_naturales, ingles, lectura_critica, matematicas, sociales_y_ciudadanas
+    // Grade 5: ciencias_naturales, lectura_critica, matematicas, sociales_y_ciudadanas, lenguaje
+    5: ['matematicas', 'lectura_critica', 'ciencias_naturales', 'sociales_y_ciudadanas', 'lenguaje'],
+    // Grade 6: Based on bundles found
+    6: ['matematicas', 'lectura_critica', 'ingles', 'ciencias_naturales', 'sociales_y_ciudadanas', 'lenguaje'],
+    // Grade 7: ciencias_naturales, ingles, lectura_critica, matematicas, sociales_y_ciudadanas, tecnologia_informatica
     7: ['matematicas', 'lectura_critica', 'ingles', 'ciencias_naturales', 'sociales_y_ciudadanas'],
+    // Grade 8: Based on bundles found
+    8: ['matematicas', 'lectura_critica', 'ingles', 'ciencias_naturales', 'sociales_y_ciudadanas', 'lenguaje'],
     // Grade 9: ciencias_naturales, ingles, lectura_critica, matematicas, sociales_y_ciudadanas
     9: ['matematicas', 'lectura_critica', 'ingles', 'ciencias_naturales', 'sociales_y_ciudadanas'],
+    // Grade 10: Based on bundles found
+    10: ['matematicas', 'lectura_critica', 'ingles', 'ciencias_naturales', 'sociales_y_ciudadanas'],
     // Grade 11: ciencias_naturales, ingles, lectura_critica, matematicas, sociales_y_ciudadanas
     11: ['matematicas', 'lectura_critica', 'ciencias_naturales', 'sociales_y_ciudadanas', 'ingles']
   };
@@ -390,6 +412,18 @@ export async function fetchAllQuestionsForGrade(
   isGuest: boolean = true,
   maxQuestions: number = 100
 ): Promise<AppQuestion[]> {
+
+  // 🆕 Cloudflare Automation: Redirect to Pack System
+  if (USE_ROTATING_PACKS) {
+    console.log('🔄 Routing request to Cloudflare Rotating Packs system...');
+    const packQuestions = await fetchQuestionsFromPacks(grade);
+
+    if (packQuestions.length > 0) {
+      return packQuestions;
+    }
+    console.warn('⚠️ Pack system returned empty, falling back to legacy fetch...');
+  }
+
   const subjects = await getAvailableSubjects(grade);
 
   // De-duplicate subjects that map to same display name
@@ -531,52 +565,57 @@ export async function fetchAllQuestionsForGrade(
  * ⚡ NEW: Fetch questions in bulk for multiple grades (Blog View optimization)
  * Uses the static initial-pack.json generated at build time
  */
+/**
+ * ⚡ NEW: Fetch questions in bulk for multiple grades (Blog View & Diagnostic optimization)
+ * Uses the Cloudflare Worker Rotating Packs (all grades in one request)
+ */
 export async function fetchBulkQuestions(
   grades: number[],
   limit: number = 150
 ): Promise<AppQuestion[]> {
-  const cacheKey = `bulk_initial_pack`;
-  const cached = questionCache.get(cacheKey);
-  if (cached) {
-    console.log(`📦 Using cached bulk questions`);
-    return cached;
+  const cacheKey = `bulk_questions_pack_${grades.join('_')}`;
+  if (questionCache.has(cacheKey)) {
+    return questionCache.get(cacheKey)!;
   }
 
-  // Use the static file we generated
-  const url = `/api/cache/initial-pack.json?t=${Date.now()}`;
-  console.log(`⚡ Fetching bulk questions from static cache: ${url}`);
+  console.log(`⚡ Fetching bulk questions for grades [${grades.join(',')}] from Rotating Worker...`);
 
   try {
+    // Reuse the fetchCurrentPack logic (we call the endpoint directly)
+    // Note: fetchCurrentPack is internal, but we can call the endpoint
+    const url = `/api/packs/current.json?t=${Date.now()}`;
     const response = await fetch(url, { cache: 'no-cache' });
 
-    if (!response.ok) {
-      throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+    if (!response.ok) throw new Error('Failed to fetch pack');
+
+    const packData = await response.json();
+    let allQuestions: AppQuestion[] = [];
+
+    // Extract questions for requested grades
+    for (const grade of grades) {
+      if (packData.packs && packData.packs[grade] && packData.packs[grade].questions) {
+         const rawQuestions = packData.packs[grade].questions;
+         const processed = rawQuestions.map((q: any) => {
+            const subject = q.subject || 'general';
+            return transformQuestion(q, grade, subject);
+         });
+         allQuestions = [...allQuestions, ...processed];
+      }
     }
 
-    const data = await response.json();
-
-    if (!data.questions || !Array.isArray(data.questions)) {
-      throw new Error('Invalid response structure from initial-pack.json');
+    // Shuffle and limit if needed (though limit is usually per grade, here it's total?)
+    // The previous implementation used 'limit' strictly?
+    // Let's just return what we have, maybe limited.
+    if (limit && allQuestions.length > limit) {
+       allQuestions = allQuestions.sort(() => Math.random() - 0.5).slice(0, limit);
     }
 
-    // Transform API questions to App questions
-    const questions: AppQuestion[] = data.questions
-      .filter((q: APIQuestion) => q && q.statement && q.options)
-      .map((q: APIQuestion) => {
-        // q in initial-pack has 'grade' and 'subject' fields directly
-        const questionGrade = (q as any).grade || 11;
-        const subject = (q as any).subject || 'matematicas';
+    questionCache.set(cacheKey, allQuestions);
+    console.log(`✅ Loaded ${allQuestions.length} bulk questions from Worker`);
+    return allQuestions;
 
-        return transformQuestion(q, questionGrade, subject);
-      });
-
-    questionCache.set(cacheKey, questions);
-    console.log(`✅ Loaded ${questions.length} questions from initial-pack.json`);
-
-    return questions;
   } catch (error) {
-    console.error('❌ Bulk static fetch error:', error);
-    // Fallback? Probably empty array or throw, as this file should exist.
+    console.error('❌ Bulk fetch error:', error);
     return [];
   }
 }
@@ -630,4 +669,195 @@ export async function getSubjectIndex(
 export function clearCache(): void {
   questionCache.clear();
   console.log('🧹 Question cache cleared');
+}
+
+// ═══════════════════════════════════════════════════════════════════════════
+// 🆕 ROTATING PACKS SYSTEM
+// ═══════════════════════════════════════════════════════════════════════════
+
+interface PackMetadata {
+  pack_id: string;
+  generated_at: string;
+  next_rotation: string;
+  rotation_days: number;
+  grades: number[];
+  country: string;
+  exam: string;
+}
+
+interface PackData {
+  packId: string;
+  grade: number;
+  generatedAt: string;
+  totalQuestions: number;
+  subjectCounts: Record<string, number>;
+  questions: APIQuestion[];
+}
+
+/**
+ * Fetch current pack metadata from API
+ */
+async function fetchPackMetadata(): Promise<PackMetadata | null> {
+  try {
+    const response = await fetch(`${CURRENT_PACK_URL}?t=${Date.now()}`, {
+      cache: 'no-cache'
+    });
+
+    if (!response.ok) {
+      console.warn('⚠️ Could not fetch current pack metadata');
+      return null;
+    }
+
+    return await response.json();
+  } catch (error) {
+    console.error('Error fetching pack metadata:', error);
+    return null;
+  }
+}
+
+/**
+ * Download a specific pack for a grade
+ */
+async function downloadPackForGrade(packId: string, grade: number): Promise<PackData | null> {
+  try {
+    const url = `${PACKS_API_URL}/${packId}-grade-${grade}.json`;
+    console.log(`📦 Downloading pack: ${url}`);
+
+    const response = await fetch(url, {
+      cache: 'force-cache' // Use browser cache
+    });
+
+    if (!response.ok) {
+      console.warn(`⚠️ Pack not found: ${packId}-grade-${grade}`);
+      return null;
+    }
+
+    return await response.json();
+  } catch (error) {
+    console.error(`Error downloading pack ${packId}:`, error);
+    return null;
+  }
+}
+
+/**
+ * 🆕 PRIMARY METHOD: Fetch questions using Rotating Packs system
+ *
+ * Strategy:
+ * 1. Check if new pack is available
+ * 2. Download and store new pack if needed
+ * 3. Return combined pool from ALL stored packs
+ */
+export async function fetchQuestionsFromPacks(
+  grade: number
+): Promise<AppQuestion[]> {
+  // 1. Get current pack metadata
+  const metadata = await fetchPackMetadata();
+
+  if (!metadata) {
+    console.warn('⚠️ No pack metadata available, falling back to static API');
+    return [];
+  }
+
+  const currentPackId = metadata.pack_id;
+  console.log(`📦 Current pack: ${currentPackId}`);
+
+  // 2. Get subjects for this grade
+  const subjects = await getAvailableSubjects(grade);
+
+  // 3. Check if we need to download new pack
+  let needsDownload = false;
+  for (const subject of subjects) {
+    if (!hasPackStored(currentPackId, grade, subject)) {
+      needsDownload = true;
+      break;
+    }
+  }
+
+  // 4. Download new pack if needed
+  if (needsDownload) {
+    const packData = await downloadPackForGrade(currentPackId, grade);
+
+    if (packData && packData.questions.length > 0) {
+      // Group questions by subject and save
+      const questionsBySubject = new Map<string, APIQuestion[]>();
+
+      for (const q of packData.questions) {
+        const subject = (q as any).subject || 'unknown';
+        if (!questionsBySubject.has(subject)) {
+          questionsBySubject.set(subject, []);
+        }
+        questionsBySubject.get(subject)!.push(q);
+      }
+
+      // Save each subject's questions as a separate pack entry
+      for (const [subject, questions] of questionsBySubject) {
+        const storedPack: StoredPack = {
+          packId: currentPackId,
+          grade,
+          subject,
+          questions,
+          downloadedAt: Date.now(),
+          questionCount: questions.length
+        };
+        savePack(storedPack);
+      }
+
+      console.log(`✅ Downloaded and stored pack ${currentPackId} for grade ${grade}`);
+    }
+  } else {
+    console.log(`📦 Pack ${currentPackId} already stored for grade ${grade}`);
+  }
+
+  // 5. Get combined question pool from ALL stored packs
+  const poolQuestions = getQuestionPool(grade);
+
+  if (poolQuestions.length === 0) {
+    console.warn(`⚠️ No questions in pool for grade ${grade}`);
+    return [];
+  }
+
+  // 6. Transform to AppQuestion format
+  const appQuestions: AppQuestion[] = poolQuestions.map(q => {
+    const subject = (q as any).subject || 'unknown';
+    return transformQuestion(q, grade, subject);
+  });
+
+  console.log(`📚 Loaded ${appQuestions.length} questions from pack pool for grade ${grade}`);
+
+  return appQuestions;
+}
+
+/**
+ * 🆕 Get total questions available in accumulated packs for a grade
+ */
+export function getPackPoolSize(grade: number): number {
+  return getTotalQuestionsAvailable(grade);
+}
+
+/**
+ * 🆕 Updated fetchAllQuestionsForGrade to use Rotating Packs
+ */
+export async function fetchAllQuestionsForGradeWithPacks(
+  grade: number,
+  isGuest: boolean = true,
+  maxQuestions: number = 100
+): Promise<AppQuestion[]> {
+  if (!USE_ROTATING_PACKS) {
+    // Fallback to original method
+    return fetchAllQuestionsForGrade(grade, isGuest, maxQuestions);
+  }
+
+  // Use rotating packs
+  const poolQuestions = await fetchQuestionsFromPacks(grade);
+
+  if (poolQuestions.length === 0) {
+    console.warn('⚠️ No questions from packs, falling back to static API');
+    return fetchAllQuestionsForGrade(grade, isGuest, maxQuestions);
+  }
+
+  // Apply guest limit
+  const limit = isGuest ? maxQuestions : Infinity;
+  const shuffled = [...poolQuestions].sort(() => Math.random() - 0.5);
+
+  return shuffled.slice(0, limit);
 }

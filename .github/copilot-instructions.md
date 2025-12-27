@@ -99,6 +99,8 @@ worldexams/
 │   ├── astro.config.mjs
 │   ├── wrangler.toml              # Cloudflare Workers config
 │   ├── src/
+│   │   ├── content/
+│   │   │   └── questions/     # ⭐ PREGUNTAS (Localizadas por plataforma)
 │   │   ├── components/
 │   │   ├── layouts/
 │   │   ├── pages/
@@ -262,12 +264,12 @@ El ID de cada pregunta debe incluir el código de país:
 **Estructura jerárquica centralizada (Protocol v2.0):**
 
 ```text
-src/content/questions/[country]/[asignatura]/grado-[N]/[tema]/[archivo]-bundle.md
+saberparatodos/src/content/questions/[country]/[asignatura]/grado-[N]/[tema]/[archivo]-bundle.md
 ```
 
 **Ejemplo real:**
 ```text
-src/content/questions/colombia/matematicas/grado-11/algebra/CO-MAT-11-algebra-001-bundle.md
+saberparatodos/src/content/questions/colombia/matematicas/grado-11/algebra/CO-MAT-11-algebra-001-bundle.md
 ```
 
 **Convenciones de nombres:**

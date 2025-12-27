@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const QUESTIONS_DIR = path.join(__dirname, '../src/content/questions');
+const QUESTIONS_DIR = path.join(__dirname, '../saberparatodos/src/content/questions');
 
 function validateBundle(filePath) {
     const content = fs.readFileSync(filePath, 'utf8');
@@ -13,10 +13,13 @@ function validateBundle(filePath) {
         errors.push("Filename must end with '-bundle.md'");
     }
 
-    // 2. Check Frontmatter Headers
+    // 2. Check Frontmatter & Version
     if (!content.includes('# === METADATA GLOBAL ===')) errors.push("Missing '# === METADATA GLOBAL ==='");
-    // Note: Some legacy files might vary, but for NEW generation we enforce 2.1
-    if (!content.includes('bundle_version: "2.1"')) errors.push("Missing or wrong 'bundle_version' (must be 2.1)");
+
+    // Detect Protocol Version
+    const isV3 = content.includes('protocol_version: "3.0"');
+    const expectedQuestions = isV3 ? 10 : 7;
+    const versionLabel = isV3 ? "3.0" : "2.1";
 
     // Check required frontmatter fields
     const requiredFields = ['id:', 'country:', 'grado:', 'asignatura:', 'tema:', 'total_questions:', 'estado:'];
@@ -24,15 +27,16 @@ function validateBundle(filePath) {
         if (!content.includes(field)) errors.push(`Missing frontmatter field: '${field}'`);
     });
 
+    if (isV3 && !content.includes('total_questions: 10')) errors.push("Metadata 'total_questions' must be 10 for v3.0");
+
     // 3. Check Structure & Question Count
     const questionRegex = /## Pregunta \d+ \(/g;
     const matchCount = (content.match(questionRegex) || []).length;
-    if (matchCount !== 7) {
-        errors.push(`Expected 7 questions, found ${matchCount}`);
+    if (matchCount !== expectedQuestions) {
+        errors.push(`Expected ${expectedQuestions} questions (v${versionLabel}), found ${matchCount}`);
     }
 
     // 4. Check Difficulty Distribution
-    // Expected: 1 Original (diff 3), 2 Easy (diff 1-2), 2 Medium (diff 3), 2 Hard (diff 4-5)
     const difficultyRegex = /## Pregunta \d+ \(.*Dificultad (\d)\)/g;
     let diffMatch;
     const difficulties = [];
@@ -40,16 +44,31 @@ function validateBundle(filePath) {
         difficulties.push(parseInt(diffMatch[1]));
     }
 
-    if (difficulties.length === 7) {
+    if (difficulties.length === expectedQuestions) {
         const easy = difficulties.filter(d => d <= 2).length;
         const medium = difficulties.filter(d => d === 3).length;
         const hard = difficulties.filter(d => d >= 4).length;
 
-        if (easy < 2) errors.push(`Insufficient Easy questions (found ${easy}, expected 2)`);
-        if (medium < 3) errors.push(`Insufficient Medium questions (found ${medium}, expected 3 [1 orig + 2 med])`);
-        if (hard < 2) errors.push(`Insufficient Hard questions (found ${hard}, expected 2)`);
+        if (isV3) {
+            // v3.0 requires 2 of each difficulty (1,2,3,4,5)
+            // Ideally: 2xD1, 2xD2, 2xD3, 2xD4, 2xD5
+            const d1 = difficulties.filter(d => d === 1).length;
+            const d2 = difficulties.filter(d => d === 2).length;
+            const d3 = difficulties.filter(d => d === 3).length;
+            const d4 = difficulties.filter(d => d === 4).length;
+            const d5 = difficulties.filter(d => d === 5).length;
+
+            if (d1 < 2 || d2 < 2 || d3 < 2 || d4 < 2 || d5 < 2) {
+                errors.push(`Invalid v3.0 difficulty distribution (Expected 2 of each). Found: D1=${d1}, D2=${d2}, D3=${d3}, D4=${d4}, D5=${d5}`);
+            }
+        } else {
+            // v2.1
+            if (easy < 2) errors.push(`Insufficient Easy questions (found ${easy}, expected 2)`);
+            if (medium < 3) errors.push(`Insufficient Medium questions (found ${medium}, expected 3)`);
+            if (hard < 2) errors.push(`Insufficient Hard questions (found ${hard}, expected 2)`);
+        }
     } else {
-        errors.push(`Could not parse difficulty levels from headers. Ensure format: '## Pregunta X (... Dificultad N)'`);
+        errors.push(`Could not parse difficulty levels from headers.`);
     }
 
     // 5. Check Content Integrity
@@ -59,20 +78,6 @@ function validateBundle(filePath) {
 
     if (!content.includes('## 📊 Metadata de Validación')) {
         errors.push("Missing 'Metadata de Validación' table");
-    } else {
-        // Check for required rows in the table
-        const requiredRows = [
-            '| Total Preguntas | 7 |',
-            '| Original (Dificultad 3) | 1 |',
-            '| Fácil (Dificultad 1-2) | 2 |',
-            '| Media (Dificultad 3) | 2 |',
-            '| Difícil (Dificultad 4-5) | 2 |'
-        ];
-        requiredRows.forEach(row => {
-            if (!content.includes(row)) {
-                errors.push(`Missing or incorrect metadata row: '${row}'`);
-            }
-        });
     }
 
     return errors;

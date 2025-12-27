@@ -59,13 +59,39 @@
   $: subjects = [...new Map(rawSubjects.map(s => [normalizeSubject(s), s])).values()];
   $: competencias = [...new Set(questions.map(q => q.competencia).filter(Boolean))];
 
+  // Normalize text for search (remove accents, lowercase)
+  function normalizeText(text: string | number | undefined): string {
+    if (!text) return '';
+    return text.toString()
+      .toLowerCase()
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '');
+  }
+
   // Filter results
   $: filteredQuestions = questions.filter(q => {
-    // Text search
-    const matchesQuery = !query ||
-      q.text?.toLowerCase().includes(query.toLowerCase()) ||
-      q.category?.toLowerCase().includes(query.toLowerCase()) ||
-      q.explanation?.toLowerCase().includes(query.toLowerCase());
+    const normalizedQuery = normalizeText(query);
+
+    // Text search (Smart Search across multiple fields)
+    const matchesQuery = !query || (() => {
+      const text = normalizeText(q.text);
+      const category = normalizeText(q.category);
+      const explanation = normalizeText(q.explanation);
+      const id = normalizeText(q.id);
+      const competencia = normalizeText(q.competencia);
+      const grade = q.grade?.toString() || '';
+
+      // Check all fields
+      return text.includes(normalizedQuery) ||
+             category.includes(normalizedQuery) ||
+             explanation.includes(normalizedQuery) ||
+             id.includes(normalizedQuery) ||
+             competencia.includes(normalizedQuery) ||
+             // Smart grade search (e.g. "grado 11", "11°", or just "11")
+             grade === normalizedQuery ||
+             `grado ${grade}` === normalizedQuery ||
+             `${grade}°` === normalizedQuery;
+    })();
 
     // Grade filter
     const matchesGrade = !selectedGrade || q.grade === selectedGrade;
@@ -138,6 +164,17 @@
     'LECTURA CRITICA': '📚',
     'INFORMATICA': '💻'
   };
+  // Portal action to move modal to body
+  function portal(node: HTMLElement) {
+    document.body.appendChild(node);
+    return {
+      destroy() {
+        if (node.parentNode) {
+          node.parentNode.removeChild(node);
+        }
+      }
+    };
+  }
 </script>
 
 <svelte:window on:keydown={handleKeydown} />
@@ -161,9 +198,12 @@
 
   {#if isOpen}
     <div
+      use:portal
       transition:fade={{ duration: 200 }}
-      class="fixed inset-0 bg-black/90 backdrop-blur-md flex items-start justify-center pt-16 sm:pt-24 px-4 overflow-y-auto"
+      class="fixed inset-0 z-[9999] bg-black/95 backdrop-blur-md flex items-start justify-center pt-16 sm:pt-24 px-4 overflow-y-auto"
       on:click|self={toggleSearch}
+      role="dialog"
+      aria-modal="true"
     >
       <div
         class="w-full max-w-4xl bg-[#1a1a1a] border border-emerald-500/30 rounded-2xl shadow-2xl overflow-hidden mb-8"

@@ -1,8 +1,9 @@
-// Service Worker Combined: PWA + Auto-Update
-// Version: 4.0.0 (Nuclear cache cleanup)
-// Updated: 2025-12-18 20:45 UTC
+// Service Worker Combined: PWA + Auto-Update + Rotating Packs
+// Version: 5.0.0 (Rotating Packs)
+// Updated: 2025-12-23
 
-const CACHE_NAME = 'saberparatodos-v4';
+const CACHE_NAME = 'saberparatodos-v5';
+const PACK_CACHE = 'saberparatodos-packs-v1'; // 🆕 Persistent pack cache (survives updates)
 const OFFLINE_URL = '/party';
 const BUILD_INFO_URL = '/build-info.json';
 const CHECK_INTERVAL = 5 * 60 * 1000; // 5 minutes
@@ -56,10 +57,14 @@ async function checkForUpdates() {
 }
 
 async function handleNewBuild(newBuildInfo) {
-  // Clear all caches to ensure fresh content
+  // 🆕 Clear all caches EXCEPT pack cache (preserve accumulated packs)
   const cacheNames = await caches.keys();
-  await Promise.all(cacheNames.map(name => caches.delete(name)));
-  console.log('[SW] Caches cleared for new build');
+  await Promise.all(
+    cacheNames
+      .filter(name => name !== PACK_CACHE) // Preserve pack cache
+      .map(name => caches.delete(name))
+  );
+  console.log('[SW] Caches cleared for new build (pack cache preserved)');
 
   // Notify clients
   const clients = await self.clients.matchAll();
@@ -79,7 +84,7 @@ async function handleNewBuild(newBuildInfo) {
 // --- Lifecycle Events ---
 
 self.addEventListener('install', (event) => {
-  console.log('[SW] Installing v4...');
+  console.log('[SW] Installing v5 (Rotating Packs)...');
   event.waitUntil(
     Promise.all([
       caches.open(CACHE_NAME).then(cache => cache.addAll(STATIC_ASSETS)),
@@ -89,14 +94,16 @@ self.addEventListener('install', (event) => {
 });
 
 self.addEventListener('activate', (event) => {
-  console.log('[SW] Activating v4...');
+  console.log('[SW] Activating v5...');
   event.waitUntil(
     caches.keys().then(cacheNames => {
       return Promise.all(
-        cacheNames.map(cacheName => {
-          console.log('[SW] Deleting old cache:', cacheName);
-          return caches.delete(cacheName);
-        })
+        cacheNames
+          .filter(name => name !== CACHE_NAME && name !== PACK_CACHE) // 🆕 Keep pack cache
+          .map(cacheName => {
+            console.log('[SW] Deleting old cache:', cacheName);
+            return caches.delete(cacheName);
+          })
       );
     }).then(() => {
       if (isEnabled) {
@@ -116,7 +123,7 @@ self.addEventListener('message', (event) => {
   }
 });
 
-// --- Fetch Strategy: Network First ---
+// --- Fetch Strategy: Network First with Pack Exceptions ---
 
 self.addEventListener('fetch', (event) => {
   // Skip non-GET
@@ -131,6 +138,53 @@ self.addEventListener('fetch', (event) => {
     return;
   }
 
+  // 🆕 PACK FILES: Cache First (persistent storage)
+  // Packs are immutable once generated, so cache-first is safe
+  if (event.request.url.includes('/packs/') && event.request.url.endsWith('.json')) {
+    event.respondWith(
+      caches.open(PACK_CACHE).then(cache => {
+        return cache.match(event.request).then(cachedResponse => {
+          if (cachedResponse) {
+            console.log('[SW] 📦 Serving pack from cache:', event.request.url);
+            return cachedResponse;
+          }
+
+          // Not in cache, fetch from network
+          return fetch(event.request).then(networkResponse => {
+            if (networkResponse.ok) {
+              console.log('[SW] 📦 Caching new pack:', event.request.url);
+              cache.put(event.request, networkResponse.clone());
+            }
+            return networkResponse;
+          });
+        });
+      })
+    );
+    return;
+  }
+
+  // 🆕 CURRENT PACK METADATA: Network First (needs to be fresh)
+  if (event.request.url.includes('current-pack.json')) {
+    event.respondWith(
+      fetch(event.request)
+        .then(response => {
+          if (response.ok) {
+            const responseClone = response.clone();
+            caches.open(CACHE_NAME).then(cache => {
+              cache.put(event.request, responseClone);
+            });
+          }
+          return response;
+        })
+        .catch(() => {
+          console.log('[SW] Network failed for current-pack, using cache');
+          return caches.match(event.request);
+        })
+    );
+    return;
+  }
+
+  // Default: Network First
   event.respondWith(
     fetch(event.request)
       .then(response => {

@@ -12,6 +12,7 @@ export interface Question {
   explanation?: string;
   grade: number;
   difficulty: number;
+  context?: string; // Shared context/text for the question (e.g. reading passage)
   bundleId?: string; // Bundle ID for question versioning (e.g., "CO-LEC-11-comprension-001")
   licenses?: {
     v1: string;      // "CC BY-SA 4.0" - Uso comercial permitido
@@ -44,7 +45,8 @@ export enum AppView {
   BLOG = 'BLOG',
   ARTICLE = 'ARTICLE',
   LOGIN = 'LOGIN',
-  REGISTER = 'REGISTER'
+  REGISTER = 'REGISTER',
+  LOCAL_REPORTS = 'LOCAL_REPORTS'
 }
 
 // ============================================

@@ -1,10 +1,15 @@
-<script>
+<script lang="ts">
   import FlashlightCard from './FlashlightCard.svelte';
 
-  export let onSelect;
-  export let onBack;
+  interface Props {
+    onSelect: (grade: number) => void;
+    onBack: () => void;
+  }
 
-  const grades = [3, 5, 7, 9, 11];
+  let { onSelect, onBack }: Props = $props();
+
+  // All available grades with bundles (3-11)
+  const grades = [3, 5, 6, 7, 8, 9, 10, 11];
 </script>
 
 <div class="flex flex-col items-center justify-center min-h-[80vh] space-y-12 animate-fade-in-up">
@@ -17,7 +22,7 @@
     </p>
   </div>
 
-  <div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-6 w-full max-w-5xl px-4">
+  <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-8 gap-4 w-full max-w-6xl px-4">
     {#each grades as grade}
       <FlashlightCard
         onClick={() => onSelect(grade)}

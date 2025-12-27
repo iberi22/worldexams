@@ -3,7 +3,7 @@
   import { AppView } from '../types';
   import { fade, fly } from 'svelte/transition';
   import ExamView from './ExamView.svelte';
-  import Leaderboard from './Leaderboard.svelte';
+
   import LeaderboardView from './LeaderboardView.svelte';
   import IdentityRegistration from './IdentityRegistration.svelte';
   import FlashlightCard from './FlashlightCard.svelte';
@@ -12,6 +12,7 @@
   import ResultsView from './ResultsView.svelte';
   import AdvancedSearch from './AdvancedSearch.svelte';
   import MemoryStatus from './MemoryStatus.svelte';
+  import LocalReportsView from './LocalReportsView.svelte';
   import Login from './Login.svelte';
   import ExamConfigModal from './ExamConfigModal.svelte'; // New import
 
@@ -22,6 +23,7 @@
     markQuestionsAnswered,
     getMemoryStats
   } from '../lib/question-memory';
+  import { saveExamResultLocal } from '../lib/idb-storage'; // Persist local results
 
   import BlogView from './BlogView.svelte';
   import ArticleView from './ArticleView.svelte';
@@ -32,6 +34,8 @@
   import IntegrityIntro from './IntegrityIntro.svelte'; // New Component
   import { getPWAStatus, getRecommendedCacheSize, getCacheExpiryHours } from '../lib/pwa-detector'; // PWA Detection
   import packageInfo from '../../package.json';
+  import LocalModeNotice from './LocalModeNotice.svelte';
+  import OfflineProfile from './OfflineProfile.svelte';
 
   // Normalize subject name for comparison (removes accents, replaces separators)
   function normalizeSubject(subject) {
@@ -54,41 +58,42 @@
            normalizedSelected.startsWith(normalizedCategory);
   }
 
-  export let questions = [];
-  export let universalPool = null; // New prop for universal questions pool
+  let { questions = [], universalPool = null } = $props();
 
   // Internal state that can be updated
-  let loadedQuestions = questions || []; // Safety check
-  let availableSubjects = []; // New state
-  let isLoadingQuestions = false;
-  let loadError = null;
-  let showExamConfigModal = false; // New state
-  let isIntegrityCheck = false; // Integrity check state
-  let isPreparingExam = false; // Controls IntegrityIntro loading state
-  let generatedExamQuestions = null; // Store smart generated questions
-  let examConfig = { count: 10, mode: 'SOLO' }; // New state
+  let loadedQuestions = $state(questions || []); // Safety check
+  let availableSubjects = $state([]); // New state
+  let isLoadingQuestions = $state(false);
+  let loadError = $state(null);
+  let showExamConfigModal = $state(false); // New state
+  let isIntegrityCheck = $state(false); // Integrity check state
+  let isPreparingExam = $state(false); // Controls IntegrityIntro loading state
+  let generatedExamQuestions = $state(null); // Store smart generated questions
+  let examConfig = $state({ count: 10, mode: 'SOLO' }); // New state
+  let showLocalReports = $state(false); // Modal for local reports
+  let showOfflineProfile = $state(false); // Modal for offline profile
 
   console.log('App received questions:', questions?.length || 0);
   console.log('App received universalPool:', universalPool?.totalQuestions || 0);
 
-  let view = AppView.LANDING;
-  let lastExamData = null; // Changed from lastScore
-  let userAnswers = {};
-  let selectedSubject = null;
-  let selectedGrade = null;
-  let selectedArticle = null;
-  let user = null;
-  let showRegistrationModal = false;
-  let cacheWasCleared = false; // Track if cache was just cleared
-  let isPWA = false; // PWA detection state
-  let pwaStatus = { isPWA: false, displayMode: 'browser', isInstallable: false }; // PWA status
-  let memoryStats = { answeredCount: 0, totalAvailable: 0, percentAnswered: 0 };
-  let isGuest = true; // Guest status (true if user is not authenticated)
-  let buildInfo = null; // Build info (version, commit, date)
+  let view = $state(AppView.LANDING);
+  let lastExamData = $state(null); // Changed from lastScore
+  let userAnswers = $state({});
+  let selectedSubject = $state(null);
+  let selectedGrade = $state(null);
+  let selectedArticle = $state(null);
+  let user = $state(null);
+  let showRegistrationModal = $state(false);
+  let cacheWasCleared = $state(false); // Track if cache was just cleared
+  let isPWA = $state(false); // PWA detection state
+  let pwaStatus = $state({ isPWA: false, displayMode: 'browser', isInstallable: false }); // PWA status
+  let memoryStats = $state({ answeredCount: 0, totalAvailable: 0, percentAnswered: 0 });
+  let isGuest = $state(true); // Guest status (true if user is not authenticated)
+  let buildInfo = $state(null); // Build info (version, commit, date)
 
   // User plan (free or institutional)
   // TODO: Integrar con Supabase user_metadata cuando se implemente backend auth
-  let userPlan = 'free'; // Por defecto, usuarios son free (solo v1)
+  let userPlan = $state('free'); // Por defecto, usuarios son free (solo v1)
 
   // Configurable percentage of universal questions (0-100)
   const UNIVERSAL_QUESTION_PERCENTAGE = 30;
@@ -170,76 +175,115 @@
     }
   }
 
-  onMount(async () => {
-    // Load build info (with timeout and error handling)
-    try {
-      const controller = new AbortController();
-      const timeout = setTimeout(() => controller.abort(), 3000); // 3s timeout
+  onMount(() => {
+    // 1. Build Info Fetching
+    (async () => {
+      try {
+        const controller = new AbortController();
+        const timeout = setTimeout(() => controller.abort(), 3000);
 
-      const response = await fetch('/build-info.json', {
-        signal: controller.signal,
-        cache: 'no-cache' // Always fresh
-      });
+        const response = await fetch('/build-info.json', {
+          signal: controller.signal,
+          cache: 'no-cache'
+        });
 
-      clearTimeout(timeout);
+        clearTimeout(timeout);
 
-      if (response.ok) {
-        buildInfo = await response.json();
-        console.log('✅ Build info loaded:', buildInfo?.commit?.substring(0, 7));
-      } else {
-        console.log('⚠️ Build info not available (status:', response.status, ')');
+        if (response.ok) {
+          buildInfo = await response.json();
+          console.log('✅ Build info loaded:', buildInfo?.commit?.substring(0, 7));
+
+          // 🔄 Cache Invalidation Logic
+          // If the commit or version has changed, it means the app was updated
+          // so we clear the old question cache to ensure users get the latest question data.
+          const lastCommit = localStorage.getItem('last_build_commit');
+          const lastVersion = localStorage.getItem('last_build_version');
+
+          if ((lastCommit && lastCommit !== buildInfo.commit) ||
+              (lastVersion && lastVersion !== buildInfo.version)) {
+            console.log('🔄 Build update detected! Clearing old question cache...');
+            try {
+              await cacheService.clearCache();
+              console.log('🗑️ Cache cleared successfully.');
+
+              // 🔄 FORCE RELOAD: If we successfully cleared cache, we must reload the current questions
+              // to ensure the UI doesn't show stale data loaded before this check finished.
+              if (selectedGrade) {
+                console.log('🔄 Reloading questions with fresh data...');
+                loadedQuestions = []; // Clear current stale questions
+                await loadQuestionsForExam(selectedGrade, selectedSubject);
+              }
+            } catch (cacheErr) {
+              console.error('❌ Failed to clear cache:', cacheErr);
+            }
+          }
+          localStorage.setItem('last_build_commit', buildInfo.commit);
+          localStorage.setItem('last_build_version', buildInfo.version || '');
+        }
+      } catch (e) {
+        console.warn('⚠️ Build info not loaded');
       }
-    } catch (e) {
-      if (e.name === 'AbortError') {
-        console.warn('⏱️ Build info request timeout (3s)');
-      } else {
-        console.warn('❌ Could not load build info:', e.message);
-      }
-    }
+    })();
 
-    // Check for active session
-    const { data: { session } } = await supabase.auth.getSession();
-    user = session?.user || null;
-    isGuest = !user; // Update guest status based on authentication
-
-    // Listen for auth changes
-    const { data: { subscription } } = supabase.auth.onAuthStateChange((_event, session) => {
+    // 2. Auth Session & Listener
+    let subscription;
+    (async () => {
+      const { data: { session } } = await supabase.auth.getSession();
       user = session?.user || null;
-      isGuest = !user; // Update guest status when auth state changes
-    });
+      isGuest = !user;
 
-    // Check localStorage for grade preference
-    const savedGrade = localStorage.getItem('saberparatodos_grade');
-    if (savedGrade) {
-      selectedGrade = parseInt(savedGrade);
-    } else {
-      selectedGrade = 11; // Default
-    }
+      const { data } = supabase.auth.onAuthStateChange((_event, session) => {
+        user = session?.user || null;
+        isGuest = !user;
+      });
+      subscription = data.subscription;
 
-    // Load subjects for the selected grade
-    await loadSubjectsFromAPI(selectedGrade);
+      // 3. Initial Data Load
+      // Default to grade 11 for initial load but don't auto-select in UI unless user chooses
+      await loadSubjectsFromAPI(11);
 
-    // Load memory stats
-    memoryStats = getMemoryStats(loadedQuestions.length);
+      // 4. Memory stats
+      memoryStats = getMemoryStats(loadedQuestions.length);
 
-    return () => subscription.unsubscribe();
+      // 5. Initial Questions Load (for Search availability)
+      // If no questions loaded (e.g. dev mode or direct navigation), load a batch so search works
+      if (loadedQuestions.length === 0) {
+        console.log('🚀 Loading initial questions for Global Search...');
+        try {
+          const { fetchBulkQuestions } = await import('../lib/api-service');
+          // Load a mix of grades for better search coverage
+          const initialQuestions = await fetchBulkQuestions([3, 5, 6, 7, 8, 9, 10, 11], 200);
+          loadedQuestions = initialQuestions;
+          console.log(`✅ Initial pool loaded: ${loadedQuestions.length} questions`);
+
+          // Update memory stats with new count
+          memoryStats = getMemoryStats(loadedQuestions.length);
+        } catch (e) {
+          console.error('Failed to load initial questions:', e);
+        }
+      }
+    })();
+
+    return () => {
+      if (subscription) subscription.unsubscribe();
+    };
   });
 
   // Filter loaded questions by grade and subject (handles naming variations)
-  $: filteredLocalQuestions = loadedQuestions.filter(q => {
+  let filteredLocalQuestions = $derived(loadedQuestions.filter(q => {
     if (!q) return false;
-    const gradeMatch = selectedGrade ? q.grade === selectedGrade : true;
-    const subjectMatch = subjectsMatch(q.category, selectedSubject);
-    return gradeMatch && subjectMatch;
-  });
+    const gradeOutcome = selectedGrade ? q.grade === selectedGrade : true;
+    const subjectOutcome = subjectsMatch(q.category, selectedSubject);
+    return gradeOutcome && subjectOutcome;
+  }));
 
   // Filter by user plan (free = solo v1, institutional = v1-v7)
-  $: planFilteredQuestions = filterByPlan(filteredLocalQuestions, userPlan);
+  let planFilteredQuestions = $derived(filterByPlan(filteredLocalQuestions, userPlan));
 
   // Mix local and universal questions, then filter out already answered ones
   // Usar planFilteredQuestions en lugar de filteredLocalQuestions para respetar licencias
   // If we have generatedExamQuestions (Smart Service), use them. Otherwise fallback to legacy logic.
-  $: examQuestions = generatedExamQuestions || prepareExamQuestions(planFilteredQuestions, universalPool, selectedGrade, selectedSubject, MAX_EXAM_QUESTIONS);
+  let examQuestions = $derived(generatedExamQuestions || prepareExamQuestions(planFilteredQuestions, universalPool, selectedGrade, selectedSubject, MAX_EXAM_QUESTIONS));
 
   /**
    * Prepare exam questions: mix local with universal, then filter already answered
@@ -372,6 +416,14 @@
     } else {
       console.log('Guest user finished exam. Results not saved to cloud.');
     }
+
+    // ALWAYS save to local IndexedDB for "Local Intelligence" and offline support
+    try {
+      await saveExamResultLocal(examData, answers);
+      console.log('✅ Exam saved locally for Local Intelligence.');
+    } catch(err) {
+      console.error('❌ Failed to save local exam result:', err);
+    }
   }
 
   function setView(newView) {
@@ -380,7 +432,6 @@
 
   async function handleGradeSelect(grade) {
     selectedGrade = grade;
-    localStorage.setItem('saberparatodos_grade', grade.toString());
 
     // Load subjects for the new grade
     await loadSubjectsFromAPI(grade);
@@ -390,7 +441,6 @@
 
   function handleSubjectSelect(subject) {
     if (subject === 'CHANGE_GRADE') {
-      localStorage.removeItem('saberparatodos_grade');
       selectedGrade = null;
       setView(AppView.GRADE_SELECTION);
       return;
@@ -423,46 +473,92 @@
     const minTimePromise = new Promise(resolve => setTimeout(resolve, 3500));
 
     try {
-      console.log(`🤖 Starting Exam Generation (Count: ${config.count})...`);
+      console.log(`🤖 Starting Exam Generation (Count: ${config.count}, Diagnostic: ${config.useDiagnostic})...`);
 
-      // 1️⃣ Load questions from cache (or API if first time)
-      await loadQuestionsForExam(selectedGrade, selectedSubject);
+      // 1️⃣ Load questions for current grade (Base)
+      // We ensure we have the main grade loaded
+      if (loadedQuestions.length === 0 || selectedGrade) {
+         await loadQuestionsForExam(selectedGrade || 11, selectedSubject);
+      }
 
-      // 2️⃣ Generate random exam from cached pool (NO API CALLS)
+      // 2️⃣ If Diagnostic Mode: Load questions from lower grades
+      if (config.useDiagnostic && selectedGrade > 3) {
+         console.log('🩺 Diagnostic Mode Active: Fetching foundational questions...');
+         const diagnosticGrades = [3, 5, 7, 9].filter(g => g < selectedGrade);
+
+         // Use bulk fetch for efficiency if possible, or parallel load
+         // To avoid overwriting loadedQuestions directly, we'll fetch to a temp array
+         try {
+           const { fetchBulkQuestions } = await import('../lib/api-service');
+           // Fetch foundational content
+           const diagQuestions = await fetchBulkQuestions(diagnosticGrades, 50); // Small batch per grade
+
+           if (diagQuestions.length > 0) {
+              console.log(`🩺 Added ${diagQuestions.length} diagnostic questions to pool`);
+              // Append to loadedQuestions temporarily for this session
+              // Use Set to avoid duplicates based on ID
+              const currentIds = new Set(loadedQuestions.map(q => q.id));
+              const newDiag = diagQuestions.filter(q => !currentIds.has(q.id));
+              loadedQuestions = [...loadedQuestions, ...newDiag];
+           }
+         } catch (e) {
+            console.error('Error fetching diagnostic questions:', e);
+         }
+      }
+
+      // 3️⃣ Generate random exam from cached pool (NO API CALLS)
+      // Filter logic needs to be aware of Diagnostic Mode
       const availableQuestions = loadedQuestions.filter(q => {
         if (!q) return false;
-        const gradeMatch = selectedGrade ? q.grade === selectedGrade : true;
-        // Use subjectsMatch helper for proper accent normalization
+
+        // Subject Match
         const subjectMatch = subjectsMatch(q.category, selectedSubject);
-        return gradeMatch && subjectMatch;
+        if (!subjectMatch) return false;
+
+        // Grade Match:
+        // If Diagnostic: Allow selectedGrade OR (DiagnosticGrades if < selectedGrade)
+        if (config.useDiagnostic) {
+           return q.grade === selectedGrade || (q.grade < selectedGrade && [3,5,7,9].includes(q.grade));
+        } else {
+           // Strict Mode
+           return selectedGrade ? q.grade === selectedGrade : true;
+        }
       });
 
-      console.log(`📊 Available questions in pool: ${availableQuestions.length}`);
+      console.log(`📊 Available questions in pool for exam: ${availableQuestions.length}`);
 
-      // Use cache service to generate random exam (pool is already filtered above)
-      const examQuestions = generateRandomExam(
+      if (availableQuestions.length === 0) {
+         throw new Error("No hay preguntas disponibles para esta configuración.");
+      }
+
+      // Use memory service to filter out recently answered questions
+      // This enforces the 6-day anti-repeat rule
+      console.log(`🔍 Filtering ${availableQuestions.length} candidates for history...`);
+      const { filtered, hadToRepeat } = filterUnansweredQuestions(
         availableQuestions,
         config.count
       );
+
+      const examQuestions = filtered;
+
+      if (hadToRepeat) {
+        console.log('⚠️ Repeating questions because unanswered pool is exhausted for this configuration');
+      }
 
       // Wait for animation to finish
       await minTimePromise;
 
       if (examQuestions && examQuestions.length > 0) {
         generatedExamQuestions = examQuestions;
-        // Pre-assign to currentExamQuestions just in case
-        // But the view switch happens in IntegrityIntro on:complete
-        console.log(`✅ Exam Ready: ${examQuestions.length} questions (0 API calls)`);
-
-        // Signal IntegrityIntro to finish
+        console.log(`✅ Exam Ready: ${examQuestions.length} questions (Diagnostic: ${config.useDiagnostic})`);
         isPreparingExam = false;
       } else {
-        console.warn("⚠️ No questions available for this subject/grade combination");
-        throw new Error("No hay preguntas disponibles. Por favor, intenta con otra asignatura.");
+        console.warn("⚠️ No questions generated");
+        throw new Error("Error generando el examen. Intenta de nuevo.");
       }
     } catch (error) {
       console.error('Error generating exam:', error);
-      alert(error.message || 'Error al generar el examen. Por favor intenta de nuevo.');
+      alert(error.message || 'Error al generar el examen. Por favor intentade nuevo.');
       isIntegrityCheck = false;
       isPreparingExam = false;
       setView(AppView.SUBJECT_SELECTION);
@@ -490,20 +586,45 @@
 </script>
 
 <div class="min-h-screen bg-[#121212] text-[#F5F5DC] font-mono selection:bg-emerald-500/30 overflow-x-hidden">
+  <LocalModeNotice />
+
+  {#if showLocalReports}
+    <LocalReportsView
+      onClose={() => showLocalReports = false}
+      onStartExam={handleStart}
+      onNavigateToBlog={async (subject) => {
+        // Load questions if needed
+        if (loadedQuestions.length === 0) {
+          const { fetchBulkQuestions } = await import('../lib/api-service');
+          loadedQuestions = await fetchBulkQuestions([3, 5, 6, 7, 8, 9, 10, 11], 150);
+        }
+        showLocalReports = false;
+        setView(AppView.BLOG);
+      }}
+    />
+  {/if}
+
+  {#if showOfflineProfile}
+    <OfflineProfile onClose={() => showOfflineProfile = false} />
+  {/if}
+
   <!-- Noise Overlay -->
   <div class="bg-noise"></div>
 
   <!-- Global Header -->
-  <header class="fixed top-0 left-0 right-0 z-50 bg-[#121212]/80 backdrop-blur-sm border-b border-white/5">
-    <div class="container mx-auto px-4 py-3 flex items-center justify-between">
+  <header class="fixed top-0 left-0 right-0 z-50 border-b border-white/5">
+    <!-- Header Background with Blur -->
+    <div class="absolute inset-0 bg-[#121212]/80 backdrop-blur-sm pointer-events-none"></div>
+
+    <div class="container mx-auto px-4 py-3 flex items-center justify-between relative z-10">
       <div class="flex items-center gap-3">
         <button
-          on:click={() => setView(AppView.LANDING)}
+          onclick={() => setView(AppView.LANDING)}
           class="text-sm font-bold uppercase tracking-widest hover:text-emerald-500 transition-colors"
         >
           SaberParaTodos
         </button>
-        <div class="flex items-center gap-1.5 text-[10px] font-mono border border-white/10 px-2 py-0.5 rounded">
+        <div class="hidden sm:flex items-center gap-1.5 text-[10px] font-mono border border-white/10 px-2 py-0.5 rounded">
           <span class="text-yellow-400/80">v{packageInfo.version}</span>
           {#if buildInfo}
             <span class="text-white/20">|</span>
@@ -519,7 +640,7 @@
             {user.email}
           </div>
           <button
-            on:click={() => supabase.auth.signOut()}
+            onclick={() => supabase.auth.signOut()}
             class="text-xs uppercase tracking-widest opacity-60 hover:opacity-100 hover:text-red-400 transition-colors"
           >
             Salir
@@ -534,6 +655,29 @@
           </button>
           -->
         {/if}
+        <!-- Header Icons -->
+        <div class="flex items-center gap-2">
+          <!-- Profile Icon - Opens OfflineProfile modal -->
+          <button
+            onclick={() => showOfflineProfile = true}
+            class="p-2 text-white/40 hover:text-indigo-400 transition-colors"
+            title="Mi Perfil Offline"
+          >
+            <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
+            </svg>
+          </button>
+          <!-- Local Reports Icon - Opens LocalReportsView modal -->
+          <button
+            onclick={() => showLocalReports = true}
+            class="p-2 text-white/40 hover:text-emerald-500 transition-colors"
+            title="Ver Historial Local"
+          >
+            <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+          </button>
+        </div>
         <AdvancedSearch questions={loadedQuestions} />
       </div>
     </div>
@@ -595,13 +739,33 @@
           </p>
 
           <!-- Quick Stats -->
-          <div class="flex items-center justify-center gap-6 mt-6 text-xs opacity-50">
-            <div class="flex items-center gap-1">
+          <div class="flex items-center justify-center gap-6 mt-6 text-xs opacity-50 relative z-20">
+            <!-- Dynamic Questions Counter with Tooltip -->
+            <div class="flex items-center gap-1 group relative cursor-help">
               <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
               </svg>
-              <span>130+ preguntas</span>
+              <span>4000+ preguntas</span>
+
+              <!-- Updates tooltip -->
+              <div class="absolute bottom-full left-1/2 -translate-x-1/2 mb-3 px-4 py-3 bg-[#0a0a0a]/95 text-emerald-100 text-xs rounded-xl opacity-0 group-hover:opacity-100 transition-all duration-300 transform group-hover:-translate-y-1 pointer-events-none border border-emerald-500/20 shadow-2xl z-50 w-64 text-center backdrop-blur-xl">
+                 <div class="font-bold text-emerald-400 mb-1.5 uppercase tracking-wider text-[10px]">Banco Dinámico</div>
+                 <p class="leading-relaxed mb-2 text-white/90">
+                   Las preguntas rotan <span class="text-white font-bold border-b border-emerald-500/50">semanalmente</span>.
+                 </p>
+                 <div class="bg-emerald-500/10 p-2.5 rounded-lg border border-emerald-500/10 text-left relative overflow-hidden">
+                   <div class="absolute inset-0 bg-gradient-to-r from-emerald-500/5 to-transparent"></div>
+                   <p class="text-[10px] text-emerald-200/90 leading-tight relative z-10">
+                     <strong class="text-emerald-400">💡 Tip:</strong> Si no borras la app, acumularás todas las preguntas en tu dispositivo <strong class="text-white">GRATIS</strong>.
+                   </p>
+                 </div>
+                 <div class="mt-2 text-[10px] text-white/20 font-mono uppercase tracking-widest">Total Global: 1,800+</div>
+
+                 <!-- Arrow -->
+                 <div class="absolute -bottom-1.5 left-1/2 -translate-x-1/2 w-3 h-3 bg-[#0a0a0a]/95 border-r border-b border-emerald-500/20 rotate-45 backdrop-blur-xl"></div>
+              </div>
             </div>
+
             <div class="flex items-center gap-1">
               <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
@@ -637,19 +801,18 @@
           </FlashlightCard>
 
           <FlashlightCard
-            onClick={() => setView(AppView.LEADERBOARD)}
-            className="p-8 flex flex-col items-center justify-center group h-48 hover:border-[#FCD116]/40 transition-transform duration-300 hover:scale-105"
+            onClick={() => showLocalReports = true}
+            className="p-8 flex flex-col items-center justify-center group h-48 hover:border-emerald-500/50 transition-transform duration-300 hover:scale-105"
           >
             <div class="mb-4 text-[#FCD116] opacity-60 group-hover:opacity-100">
               <svg class="w-10 h-10" viewBox="0 0 40 40" fill="none">
-                <rect x="6" y="18" width="8" height="18" rx="1" fill="currentColor" opacity="0.3"/>
-                <rect x="16" y="8" width="8" height="28" rx="1" fill="currentColor" opacity="0.6"/>
-                <rect x="26" y="14" width="8" height="22" rx="1" fill="currentColor" opacity="0.4"/>
-                <path d="M20 4l2 4h-4l2-4z" fill="currentColor"/>
+                <circle cx="20" cy="14" r="8" stroke="currentColor" stroke-width="2" fill="none"/>
+                <path d="M8 36c0-6.627 5.373-12 12-12s12 5.373 12 12" stroke="currentColor" stroke-width="2" fill="none"/>
+                <path d="M30 10l4 4-4 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" opacity="0.5"/>
               </svg>
             </div>
-            <h3 class="text-xl font-bold uppercase tracking-widest mb-2">Datos Globales</h3>
-            <p class="text-xs opacity-40">Ver métricas de rendimiento</p>
+            <h3 class="text-xl font-bold uppercase tracking-widest mb-2">Mis Métricas</h3>
+            <p class="text-xs opacity-40">Ver rendimiento local</p>
           </FlashlightCard>
 
           <FlashlightCard
@@ -657,7 +820,7 @@
               // Use NEW bulk endpoint for Blog view (1 request instead of 50+)
               if (loadedQuestions.length === 0) {
                 console.log('📚 Loading questions for Blog view using bulk endpoint...');
-                const allGrades = [3, 5, 7, 9, 11];
+                const allGrades = [3, 5, 6, 7, 8, 9, 10, 11];
 
                 // Import bulk function
                 const { fetchBulkQuestions } = await import('../lib/api-service');
@@ -790,6 +953,7 @@
           {userAnswers}
           onHome={() => setView(AppView.LANDING)}
           onLeaderboard={() => setView(AppView.LEADERBOARD)}
+          onViewReports={() => showLocalReports = true}
           onLogin={() => setView(AppView.LOGIN)}
           onRegister={() => { showRegistrationModal = true; }}
         />
@@ -815,11 +979,15 @@
   <!-- Registration Modal -->
   {#if showRegistrationModal}
     <div
-      class="fixed inset-0 z-[100] bg-black/80 backdrop-blur-sm flex items-center justify-center p-4"
-      on:click|self={() => showRegistrationModal = false}
+      class="fixed inset-0 z-[100] bg-black/80 backdrop-blur-sm flex items-center justify-center p-4 outline-none"
+      onclick={(e) => { if (e.target === e.currentTarget) showRegistrationModal = false; }}
+      onkeydown={(e) => { if (e.key === 'Escape') showRegistrationModal = false; }}
+      role="button"
+      tabindex="0"
+      aria-modal="true"
       transition:fade={{ duration: 200 }}
     >
-      <div class="max-w-md w-full" in:fly={{ y: 20, duration: 300 }}>
+      <div class="max-w-md w-full cursor-default" in:fly={{ y: 20, duration: 300 }}>
         <IdentityRegistration
           onComplete={handleRegistrationComplete}
           onCancel={() => showRegistrationModal = false}
@@ -832,6 +1000,7 @@
   {#if showExamConfigModal}
     <ExamConfigModal
       subject={selectedSubject}
+      currentGrade={selectedGrade || 11}
       onStart={handleExamConfigStart}
       onCancel={() => { showExamConfigModal = false; selectedSubject = null; }}
     />

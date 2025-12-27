@@ -12,6 +12,19 @@
   # Cache-Control: Disable aggressive caching for HTML files
   Cache-Control: public, max-age=0, must-revalidate
 
+# 🆕 Rotating Question Packs - immutable, long cache (7 days)
+# Packs are versioned by pack-id, so they can be cached aggressively
+/api/co/icfes/packs/*
+  Content-Type: application/json
+  Cache-Control: public, max-age=604800, immutable
+  Access-Control-Allow-Origin: *
+
+# 🆕 Current Pack Metadata - short cache, must revalidate
+/api/co/icfes/current-pack.json
+  Content-Type: application/json
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+  Access-Control-Allow-Origin: *
+
 # API JSON files - short cache
 /api/*
   Content-Type: application/json

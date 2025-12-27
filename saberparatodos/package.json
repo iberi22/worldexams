@@ -1,14 +1,14 @@
 {
   "name": "saberparatodos",
   "type": "module",
-  "version": "0.2.2",
+  "version": "0.2.4",
   "scripts": {
     "predev": "",
     "dev": "astro dev",
     "start": "astro dev",
-    "prebuild": "node scripts/generate-build-info.js",
+    "prebuild": "node scripts/generate-build-info.js && node scripts/generate-weekly-packs.js",
     "build": "astro build",
-    "postbuild": "pagefind --site dist",
+    "postbuild": "echo 'Build complete'",
     "preview": "astro preview",
     "astro": "astro",
     "validate": "node scripts/validate_content.js",
@@ -23,6 +23,7 @@
     "test:party:headed": "playwright test party-mode.spec.ts --headed"
   },
   "dependencies": {
+    "@astrojs/cloudflare": "^12.6.12",
     "@astrojs/sitemap": "^3.6.0",
     "@astrojs/svelte": "^7.2.2",
     "@astrojs/tailwind": "^5.0.0",

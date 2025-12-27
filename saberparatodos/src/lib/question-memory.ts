@@ -188,11 +188,12 @@ export function markQuestionsAnswered(
 
 /**
  * Filter out already answered questions, prioritizing unanswered ones
+ * 🆕 Now with smart auto-reset when pool is exhausted
  */
 export function filterUnansweredQuestions<T extends { id: string }>(
   questions: T[],
   maxQuestions?: number
-): { filtered: T[]; hadToRepeat: boolean } {
+): { filtered: T[]; hadToRepeat: boolean; wasReset: boolean } {
   const answered = loadAnsweredQuestions();
 
   // Separate into answered and unanswered
@@ -203,7 +204,19 @@ export function filterUnansweredQuestions<T extends { id: string }>(
   if (!maxQuestions || unanswered.length >= maxQuestions) {
     return {
       filtered: shuffleArray(unanswered).slice(0, maxQuestions),
-      hadToRepeat: false
+      hadToRepeat: false,
+      wasReset: false
+    };
+  }
+
+  // 🆕 Smart Auto-Reset: If ALL questions have been answered, reset and start fresh
+  if (unanswered.length === 0 && previouslyAnswered.length > 0) {
+    console.log('🔄 All questions in pool exhausted - triggering smart auto-reset');
+    clearAnsweredQuestionsOnly(); // Only clear answered IDs, keep stats
+    return {
+      filtered: shuffleArray(questions).slice(0, maxQuestions),
+      hadToRepeat: false,
+      wasReset: true // Signal that a reset occurred
     };
   }
 
@@ -213,8 +226,26 @@ export function filterUnansweredQuestions<T extends { id: string }>(
 
   return {
     filtered: shuffleArray([...unanswered, ...fillers]),
-    hadToRepeat: fillers.length > 0
+    hadToRepeat: fillers.length > 0,
+    wasReset: false
   };
+}
+
+/**
+ * Clear only answered question IDs (keep stats)
+ * Used for smart auto-reset when pool is exhausted
+ */
+export function clearAnsweredQuestionsOnly(): void {
+  if (typeof window === 'undefined' || typeof localStorage === 'undefined') {
+    return;
+  }
+
+  try {
+    localStorage.removeItem(STORAGE_KEY);
+    console.log('🧹 Answered questions cleared (stats preserved)');
+  } catch (e) {
+    console.error('Error clearing answered questions:', e);
+  }
 }
 
 /**
@@ -237,6 +268,33 @@ export function getMemoryStats(totalAvailable: number): {
     percentAnswered,
     remainingUntilReset: Math.max(0, resetThreshold - answered.size),
     willResetSoon: percentAnswered > 0.60 // Warn at 60%
+  };
+}
+
+/**
+ * 🆕 Get memory statistics using accumulated pack pool size
+ * Use this with pack-storage.getTotalQuestionsAvailable()
+ */
+export function getMemoryStatsForPool(poolSize: number): {
+  answeredCount: number;
+  totalAvailable: number;
+  percentAnswered: number;
+  remainingUntilReset: number;
+  willResetSoon: boolean;
+  isPoolExhausted: boolean;
+} {
+  const answered = loadAnsweredQuestions();
+  const percentAnswered = poolSize > 0 ? answered.size / poolSize : 0;
+  const resetThreshold = Math.floor(poolSize * CLEAR_THRESHOLD);
+  const isPoolExhausted = poolSize > 0 && answered.size >= poolSize;
+
+  return {
+    answeredCount: answered.size,
+    totalAvailable: poolSize,
+    percentAnswered,
+    remainingUntilReset: Math.max(0, resetThreshold - answered.size),
+    willResetSoon: percentAnswered > 0.60,
+    isPoolExhausted
   };
 }
 
@@ -388,11 +446,11 @@ async function saveToDatabase(
         was_correct: wasCorrect,
         time_taken: metadata?.timeSeconds || null,
         metadata: {
-          subject: metadata?.subject,
-          grade: metadata?.grade,
-          difficulty: metadata?.difficulty
+          subject: metadata?.subject || null,
+          grade: metadata?.grade || null,
+          difficulty: metadata?.difficulty || null
         }
-      });
+      } as any);
 
     if (error && error.code !== '23505') { // Ignore duplicate key errors
       console.error('Error saving to DB:', error);
@@ -423,7 +481,7 @@ export async function loadAnsweredQuestionsFromDB(): Promise<Set<string>> {
     }
 
     // Merge DB + localStorage
-    const dbIds = new Set(data.map(row => row.question_id));
+    const dbIds = new Set((data as any[]).map(row => row.question_id));
     return new Set([...localIds, ...dbIds]);
   } catch (err) {
     console.error('Database error:', err);
@@ -455,11 +513,13 @@ export async function getUserStatsFromDB(): Promise<{
       return null;
     }
 
+    const stats = data as any;
+
     return {
-      totalAnswered: data.total_answered,
-      correctCount: data.correct_count,
-      accuracy: data.total_answered > 0 ? (data.correct_count / data.total_answered) * 100 : 0,
-      avgTimeSeconds: data.avg_time_seconds || 0
+      totalAnswered: stats.total_answered,
+      correctCount: stats.correct_count,
+      accuracy: stats.total_answered > 0 ? (stats.correct_count / stats.total_answered) * 100 : 0,
+      avgTimeSeconds: stats.avg_time_seconds || 0
     };
   } catch (err) {
     console.error('Database error:', err);

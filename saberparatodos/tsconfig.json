@@ -5,6 +5,7 @@
     "jsxImportSource": "svelte",
     "baseUrl": ".",
     "paths": {
+      "@/*": ["src/*"],
       "$lib/*": ["src/lib/*"]
     }
   },

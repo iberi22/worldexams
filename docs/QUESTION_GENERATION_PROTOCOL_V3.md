@@ -24,6 +24,15 @@ El Protocolo v3.0 establece un nuevo estándar donde **cada archivo de pregunta 
 
 ---
 
+## 🔍 Requisito de Investigación (NUEVO)
+
+Para garantizar la calidad y relevancia:
+1. **La Pregunta Base (v1) DEBE ser real**: Investigada en la web de pruebas anteriores (ICFES, Pre-ICFES, simulacros universitarios).
+2. **Atribución Obligatoria**: Se debe incluir `source_url` directo a la fuente donde se encontró la pregunta o el material de referencia.
+3. **No inventar**: La v1 no debe ser generada desde cero por la IA, sino adaptada de una fuente humana real. Las variantes v2-v10 sí son derivadas pedagógicas generadas.
+
+---
+
 ## 🎯 Estructura de 10 Preguntas por Archivo
 
 Cada archivo `.md` debe contener exactamente **10 preguntas** con la siguiente distribución:

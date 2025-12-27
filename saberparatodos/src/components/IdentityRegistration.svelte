@@ -31,7 +31,7 @@
   const ciudades = Object.keys(CIUDADES_COLOMBIA).sort();
 
   // Grados disponibles
-  const grados = ['3', '5', '7', '9', '10', '11'];
+  const grados = ['3', '5', '6', '7', '8', '9', '10', '11'];
   const secciones = ['A', 'B', 'C', 'D', 'E'];
 
   let gradoSeleccionado = '';

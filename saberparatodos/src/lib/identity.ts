@@ -235,6 +235,8 @@ export interface StoredIdentity {
   lastUsed: string;
 }
 
+export type LocalIdentity = StoredIdentity;
+
 /**
  * Guarda la identidad en localStorage
  */
