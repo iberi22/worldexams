@@ -54,9 +54,27 @@
 
   $: question = activeQuestions[currentIdx] || MOCK_QUESTIONS[0];
 
-  // Ensure question has valid options array
-  $: safeOptions = question?.options || [];
+  // Ensure question has valid options array with guaranteed IDs
+  const OPTION_LETTERS = ['A', 'B', 'C', 'D', 'E', 'F'];
+  $: safeOptions = (question?.options || []).map((opt, idx) => ({
+    ...opt,
+    id: opt.id ?? OPTION_LETTERS[idx] ?? `opt-${idx}` // Ensure every option has an id
+  }));
   $: hasValidQuestion = question && Array.isArray(question.options) && question.options.length > 0;
+
+  // Map the correct answer to the normalized option ID
+  $: correctAnswerId = (() => {
+    // If correctOptionId exists and matches a safeOption, use it directly
+    if (question?.correctOptionId && safeOptions.some(o => o.id === question.correctOptionId)) {
+      return question.correctOptionId;
+    }
+    // Try to find by index if correctOptionId is a number (0-based index)
+    if (typeof question?.correctOptionId === 'number') {
+      return safeOptions[question.correctOptionId]?.id;
+    }
+    // Fallback: assume first option is correct (shouldn't happen in prod)
+    return safeOptions[0]?.id;
+  })();
 
   // Persistencia
   $: if (activeQuestions.length > 0) {
@@ -156,7 +174,7 @@
   function recordQuestionResult() {
     if (!selectedOption) return;
 
-    const isCorrect = selectedOption === question.correctOptionId;
+    const isCorrect = selectedOption === correctAnswerId;
     const timeSpentMs = Date.now() - questionStartTime;
 
     // Update streak
@@ -212,12 +230,21 @@
     }
 
     // Ensure all answered questions have results
-    activeQuestions.forEach(q => {
+    activeQuestions.forEach((q, qIdx) => {
       const answer = answers[q.id];
       if (answer && !questionResults.find(r => r.questionId === q.id)) {
+        // Normalize correctOptionId for this question
+        const qOptions = (q.options || []).map((opt, idx) => ({
+          ...opt,
+          id: opt.id ?? OPTION_LETTERS[idx] ?? `opt-${idx}`
+        }));
+        const qCorrectId = q.correctOptionId && qOptions.some(o => o.id === q.correctOptionId)
+          ? q.correctOptionId
+          : qOptions[0]?.id;
+
         questionResults = [...questionResults, {
           questionId: q.id,
-          isCorrect: answer === q.correctOptionId,
+          isCorrect: answer === qCorrectId,
           difficulty: q.difficulty || 3,
           timeSpentMs: TIME_PER_QUESTION_MS, // Default if not tracked
           maxTimeMs: TIME_PER_QUESTION_MS,
@@ -310,7 +337,7 @@
       <!-- Options Grid - More Compact & Aligned -->
       <div class="grid grid-cols-1 gap-2 sm:gap-3 w-full">
         {#if hasValidQuestion}
-          {#each safeOptions as option (option.id)}
+          {#each safeOptions as option, idx (option.id ?? `opt-${idx}`)}
             <FlashlightCard
               isActive={selectedOption === option.id}
               onClick={() => handleSelect(option.id)}

@@ -61,15 +61,38 @@
 
   // 🆕 Generate study prompt based on weak areas
   function generateStudyPrompt() {
-    if (weakAreas.length === 0 || !userProfile) return;
+    console.log('🎓 generateStudyPrompt called!');
+    console.log('📊 weakAreas:', weakAreas);
+    console.log('👤 userProfile:', userProfile);
+
+    if (!userProfile) {
+      console.warn('⚠️ No user profile available');
+      return;
+    }
 
     // Build profile data for prompt service
+    // Use weakAreas if available, otherwise create from subjects
+    const areasToUse = weakAreas.length > 0
+      ? weakAreas
+      : Object.values(userProfile.subjects || {})
+          .filter(s => s.questionsAnswered > 0)
+          .map(s => ({
+            name: s.name,
+            seen: s.questionsAnswered,
+            correct: Math.round(s.accuracy * s.questionsAnswered),
+            mmr: s.mmr
+          }))
+          .sort((a, b) => (a.correct / a.seen) - (b.correct / b.seen))
+          .slice(0, 5);
+
+    console.log('📋 areasToUse:', areasToUse);
+
     const profileData: UserProfileData = {
       globalMMR: userProfile.globalMMR,
       rankTitle: userProfile.rankTitle,
       globalAccuracy: userProfile.globalAccuracy,
       totalQuestions: userProfile.totalQuestions,
-      weakAreas: weakAreas.map(a => ({
+      weakAreas: areasToUse.map(a => ({
         name: a.name,
         accuracy: a.correct / a.seen || 0
       })),
@@ -78,14 +101,18 @@
         .map(([name, s]) => ({
           name,
           accuracy: s.accuracy
-        }))
+        })),
+      advancedMetrics: userProfile.advancedMetrics
     };
+
+    console.log('📝 profileData:', profileData);
 
     // Generate prompts using centralized service
     generatedStudyPrompt = generateImprovementPrompt(profileData);
     notebookLMPrompt = generateNotebookLMPrompt(profileData);
-    notebookLMUpdatePrompt = generateNotebookLMUpdatePrompt(profileData); // 🆕
+    notebookLMUpdatePrompt = generateNotebookLMUpdatePrompt(profileData);
 
+    console.log('✅ Prompts generated, showing modal');
     showStudyPromptModal = true;
   }
 

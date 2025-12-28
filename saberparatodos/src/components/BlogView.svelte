@@ -7,11 +7,12 @@
   export let questions: Question[] = [];
   export let onSelect: (question: Question) => void;
   export let onBack: () => void;
+  export let initialSubjectFilter: string | null = null; // 🆕 Pre-filter from LocalReportsView
 
   let searchTerm = "";
   let selectedGrade: number | null = null;
   let selectedDifficulty: number | null = null;
-  let selectedSubject: string | null = null;
+  let selectedSubject: string | null = initialSubjectFilter; // 🆕 Initialize with passed filter
 
   // Normalize subject for comparison (removes accents, standardizes separators)
   // Handles ALL variants: "lectura-critica", "lectura_critica", "lectura crítica"

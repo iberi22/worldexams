@@ -72,6 +72,7 @@
   let examConfig = $state({ count: 10, mode: 'SOLO' }); // New state
   let showLocalReports = $state(false); // Modal for local reports
   let showOfflineProfile = $state(false); // Modal for offline profile
+  let blogSubjectFilter = $state(null); // 🆕 Pre-filter for BlogView from LocalReportsView
 
   console.log('App received questions:', questions?.length || 0);
   console.log('App received universalPool:', universalPool?.totalQuestions || 0);
@@ -598,6 +599,8 @@
           const { fetchBulkQuestions } = await import('../lib/api-service');
           loadedQuestions = await fetchBulkQuestions([3, 5, 6, 7, 8, 9, 10, 11], 150);
         }
+        // 🆕 Save subject filter to pass to BlogView
+        blogSubjectFilter = subject || null;
         showLocalReports = false;
         setView(AppView.BLOG);
       }}
@@ -963,7 +966,8 @@
         <BlogView
           questions={loadedQuestions}
           onSelect={handleArticleSelect}
-          onBack={() => setView(AppView.LANDING)}
+          onBack={() => { blogSubjectFilter = null; setView(AppView.LANDING); }}
+          initialSubjectFilter={blogSubjectFilter}
         />
       </div>
     {:else if view === AppView.ARTICLE}

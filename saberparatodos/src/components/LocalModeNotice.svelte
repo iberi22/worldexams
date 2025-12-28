@@ -1,6 +1,6 @@
 <script lang="ts">
   import { onMount } from 'svelte';
-  import { fade } from 'svelte/transition';
+  // Removed unused transition to clean up
 
   let visible = false;
 
@@ -58,7 +58,6 @@
           </svg>
         </button>
       </div>
-      <!-- Progress Bar (Auto dismiss optional, but we force user interaction for this critical msg) -->
     </div>
   </div>
 {/if}

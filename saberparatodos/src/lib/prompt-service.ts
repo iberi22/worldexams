@@ -25,6 +25,11 @@ export interface UserProfileData {
   totalQuestions: number;
   weakAreas: { name: string; accuracy: number }[];
   strongAreas: { name: string; accuracy: number }[];
+  advancedMetrics?: {
+    avgTimeCorrect: number;
+    avgTimeIncorrect: number;
+    consistencyScore: number;
+  };
 }
 
 export type PromptType = 'exam_result' | 'improvement_plan' | 'subject_focus' | 'quick_review' | 'notebooklm' | 'notebooklm_update';
@@ -67,8 +72,7 @@ Soy un estudiante colombiano preparándome para el ICFES Saber 11.
 📉 **Mis áreas débiles:**
 ${profile.weakAreas.map(a => `- ${a.name}: ${Math.round(a.accuracy * 100)}%`).join('\n')}
 
-📈 **Mis fortalezas:**
-${profile.strongAreas.map(a => `- ${a.name}: ${Math.round(a.accuracy * 100)}%`).join('\n')}
+${profile.strongAreas ? `📈 **Mis fortalezas:**\n${profile.strongAreas.map(a => `- ${a.name}: ${Math.round(a.accuracy * 100)}%`).join('\n')}` : ''}
 
 📚 **Necesito:**
 1. Plan de estudio semanal enfocado en mis debilidades
@@ -111,34 +115,64 @@ Dame:
 Sé conciso. Nivel: ICFES Saber 11, Colombia.`.trim(),
 
   // Para NotebookLM
-  notebooklm: (profile: UserProfileData) => `
-INSTRUCCIONES PARA CREAR MI CUADERNO DE ESTUDIO:
+  notebooklm: (profile: UserProfileData) => {
+    // Calcular Perfil de Velocidad
+    let speedProfile = "Ritmo balanceado.";
+    if (profile.advancedMetrics) {
+      const diff = profile.advancedMetrics.avgTimeIncorrect - profile.advancedMetrics.avgTimeCorrect;
+      if (diff < -5000) speedProfile = "Pensador Impulsivo (Responde preguntas incorrectas muy rápido). Necesita estrategias de pausa.";
+      if (diff > 5000) speedProfile = "Sobre-analítico en errores (Se bloquea en preguntas que no sabe). Necesita gestión de tiempo.";
+    }
+
+    return `
+INSTRUCCIONES PARA CREAR MI CUADERNO DE ESTUDIO INTELIGENTE:
 
 Soy un estudiante colombiano preparándome para el ICFES Saber 11.
-Mis áreas débiles son: ${profile.weakAreas.map(a => a.name).join(', ')}
+Este es mi perfil cognitivo detallado:
 
-Por favor, basándote en las fuentes de este cuaderno:
+📊 **MÉTRICAS DE RENDIMIENTO:**
+- Nivel Actual: ${profile.rankTitle} (MMR: ${profile.globalMMR})
+- Precisión Global: ${Math.round(profile.globalAccuracy * 100)}%
+- Total Preguntas Respondidas: ${profile.totalQuestions}
+${profile.advancedMetrics ? `- Consistencia: ${profile.advancedMetrics.consistencyScore}/100` : ''}
+${profile.advancedMetrics ? `- Perfil de Velocidad: ${speedProfile}` : ''}
 
-1. **RESUMEN DE CONCEPTOS CLAVE**
-   - Extrae los conceptos más importantes de mis áreas débiles
-   - Organízalos de básico a avanzado
+🔴 **ÁREAS CRÍTICAS (DEBILIDADES):**
+${profile.weakAreas.map(a => `- ${a.name} (Precisión: ${Math.round(a.accuracy * 100)}%)`).join('\n')}
 
-2. **GUÍA DE ESTUDIO**
-   - Plan semanal enfocado en mis debilidades
-   - Prerrequisitos a estudiar primero
+${profile.strongAreas.length > 0 ? `🟢 **FORTALEZAS:**\n${profile.strongAreas.map(a => `- ${a.name} (Precisión: ${Math.round(a.accuracy * 100)}%)`).join('\n')}` : ''}
 
-3. **EJERCICIOS**
-   - 5 preguntas tipo ICFES por área débil
-   - Incluye explicaciones de respuestas
+---
 
-4. **FLASHCARDS**
-   - 10 flashcards con conceptos clave
+📚 **FUENTES RECOMENDADAS PARA AGREGAR:**
+1. Esta URL como fuente principal: https://saberparatodos.space/notebooklm
+2. API con datos estructurados: https://saberparatodos.space/api/notebooklm-source.json
 
-5. **PODCAST**
-   - Genera un podcast explicando los temas
+---
 
-Mi nivel: Grado 11, accuracy ${Math.round(profile.globalAccuracy * 100)}%.
-Meta: Mejorar al menos 20 puntos en áreas débiles.`.trim(),
+Por favor, actúa como un **Tutor Experto ICFES** y utiliza las fuentes de este cuaderno para generar:
+
+1. **DIAGNÓSTICO ESTRATÉGICO**
+   - Analiza por qué estoy fallando en mis áreas críticas basándote en mi perfil.
+   - Si soy "Impulsivo", dame estrategias para leer despacio.
+   - Si soy "Sobre-analítico", tips de descarte rápido y gestión de tiempo.
+
+2. **PLAN DE CHOQUE SEMANAL**
+   - Diseña una rutina de estudio de 5 días enfocada SOLO en mis debilidades.
+   - Prioriza los temas donde mi precisión es menor al 40%.
+   - Incluye tiempos específicos (ej: "Lunes 30min: Algebra lineal").
+
+3. **EJERCICIOS DE ENTRENAMIENTO**
+   - Genera 3 preguntas tipo ICFES para CADA área crítica.
+   - **IMPORTANTE:** Incluye la explicación detallada de por qué la respuesta correcta es la correcta.
+   - Indica el nivel de dificultad (1-5).
+
+4. **MATERIAL DE REPASO**
+   - Crea 5 Flashcards conceptuales para mis temas débiles.
+   - Un resumen de "Trampas Comunes" que debo evitar en estos temas.
+
+🎯 **META:** Subir mi precisión global del ${Math.round(profile.globalAccuracy * 100)}% al ${Math.min(95, Math.round(profile.globalAccuracy * 100) + 15)}% en las próximas 2 semanas.`.trim();
+  },
 
   // Actualización NotebookLM
   notebooklm_update: (profile: UserProfileData) => `
