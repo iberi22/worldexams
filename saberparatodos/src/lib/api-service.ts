@@ -21,6 +21,7 @@ const API_BASE_URL = '/api'; // Static files (legacy)
 const PACKS_API_URL = '/api/co/icfes/packs'; // 🆕 Rotating packs
 const CURRENT_PACK_URL = '/api/packs/current'; // ⚡ Dynamic Endpoint (Worker)
 const BULK_FUNCTION_URL = 'https://tzmrgvtptdtsjcugwqyq.supabase.co/functions/v1/get-questions-bulk'; // Bulk endpoint
+const EDGE_FUNCTION_URL = 'https://tzmrgvtptdtsjcugwqyq.supabase.co/functions/v1/get-questions'; // Single fetch endpoint
 const COUNTRY_CODE = 'co';
 const EXAM_TYPE = 'icfes';
 
@@ -111,13 +112,27 @@ const questionCache: Map<string, AppQuestion[]> = new Map();
 
 /**
  * Map difficulty string to numeric value
+ * 🆕 Now supports both string names and numeric values 1-5
  */
-function mapDifficulty(difficulty: string): number {
+function mapDifficulty(difficulty: string | number): number {
+  if (typeof difficulty === 'number') {
+    return Math.max(1, Math.min(5, Math.round(difficulty)));
+  }
+
   const map: Record<string, number> = {
-    'Low': 1,
+    'Low': 2,
     'Medium': 3,
-    'High': 5
+    'High': 4,
+    'Very High': 5,
+    'Very Hard': 5,
+    'Muy Difícil': 5
   };
+
+  // If it's a numeric string, convert to number
+  if (/^\d+$/.test(difficulty)) {
+    return Math.max(1, Math.min(5, parseInt(difficulty)));
+  }
+
   return map[difficulty] || 3;
 }
 
@@ -176,26 +191,44 @@ function formatSubjectName(subject: string): string {
 
 /**
  * Transform API question format to App question format
+ * 🆕 Now handles both API formats:
+ *    - Standard API: options[].letter, options[].is_correct
+ *    - Pack format: options[].label, options[].isCorrect
  */
-function transformQuestion(apiQuestion: APIQuestion, grade: number, subject: string): AppQuestion {
+function transformQuestion(apiQuestion: APIQuestion | any, grade: number, subject: string): AppQuestion {
+  // 🆕 Safely extract options, handling both formats
+  const rawOptions = apiQuestion.options || [];
+  const options = rawOptions.map((opt: any, index: number) => ({
+    id: opt.letter || opt.label || String.fromCharCode(65 + index), // A, B, C, D fallback
+    text: opt.text || ''
+  }));
+
+  // 🆕 Find correct answer - handle both formats
+  let correctOptionId = apiQuestion.correct_answer;
+  if (!correctOptionId) {
+    // Try to find from options with isCorrect or is_correct
+    const correctOpt = rawOptions.find((opt: any) => opt.isCorrect || opt.is_correct);
+    correctOptionId = correctOpt?.letter || correctOpt?.label || 'A';
+  }
+
+  // 🆕 Extract bundle_id with fallback
+  const bundleId = apiQuestion.bundle_id || apiQuestion.bundleId || apiQuestion.id?.replace(/-v\d+$/, '') || '';
+
   return {
-    id: apiQuestion.id,
-    text: apiQuestion.statement,
-    options: apiQuestion.options.map(opt => ({
-      id: opt.letter,
-      text: opt.text
-    })),
-    correctOptionId: apiQuestion.correct_answer,
-    category: `${formatSubjectName(subject)} :: ${apiQuestion.bundle_id}`,
+    id: apiQuestion.id || '',
+    text: apiQuestion.statement || apiQuestion.text || apiQuestion.question || '',
+    options: options,
+    correctOptionId: correctOptionId,
+    category: `${formatSubjectName(subject)} :: ${bundleId}`,
     explanation: cleanExplanation(apiQuestion.explanation),
-    grade: grade,
-    difficulty: mapDifficulty(apiQuestion.difficulty),
-    bundleId: apiQuestion.bundle_id, // Add bundleId for version carousel
+    grade: apiQuestion.grade || grade,
+    difficulty: mapDifficulty(apiQuestion.difficulty || 'Medium'),
+    bundleId: bundleId,
     context: apiQuestion.context,
     // Modern questions metadata
-    modernContext: apiQuestion.modern_context || false,
-    contextType: apiQuestion.context_type || undefined,
-    contextTags: apiQuestion.context_tags || []
+    modernContext: apiQuestion.modern_context || apiQuestion.modernContext || false,
+    contextType: apiQuestion.context_type || apiQuestion.contextType || undefined,
+    contextTags: apiQuestion.context_tags || apiQuestion.contextTags || []
   };
 }
 
@@ -571,7 +604,7 @@ export async function fetchAllQuestionsForGrade(
  */
 export async function fetchBulkQuestions(
   grades: number[],
-  limit: number = 150
+  limit: number = 300
 ): Promise<AppQuestion[]> {
   const cacheKey = `bulk_questions_pack_${grades.join('_')}`;
   if (questionCache.has(cacheKey)) {
@@ -583,8 +616,10 @@ export async function fetchBulkQuestions(
   try {
     // Reuse the fetchCurrentPack logic (we call the endpoint directly)
     // Note: fetchCurrentPack is internal, but we can call the endpoint
-    const url = `/api/packs/current.json?t=${Date.now()}`;
-    const response = await fetch(url, { cache: 'no-cache' });
+    // Check if we have a locally cached pack first
+    const url = `/api/packs/current.json`;
+    // Use stale-while-revalidate pattern or at least simple caching
+    const response = await fetch(url);
 
     if (!response.ok) throw new Error('Failed to fetch pack');
 
@@ -603,20 +638,91 @@ export async function fetchBulkQuestions(
       }
     }
 
-    // Shuffle and limit if needed (though limit is usually per grade, here it's total?)
-    // The previous implementation used 'limit' strictly?
-    // Let's just return what we have, maybe limited.
-    if (limit && allQuestions.length > limit) {
-       allQuestions = allQuestions.sort(() => Math.random() - 0.5).slice(0, limit);
+    // 🆕 Deduplicate by ID to prevent UI crashes (each_key_duplicate)
+    const uniqueMap = new Map();
+    allQuestions.forEach(q => {
+      if (!uniqueMap.has(q.id)) {
+        uniqueMap.set(q.id, q);
+      }
+    });
+    let uniqueQuestions = Array.from(uniqueMap.values());
+
+    // Shuffle and limit if needed
+    if (limit && uniqueQuestions.length > limit) {
+       uniqueQuestions = uniqueQuestions.sort(() => Math.random() - 0.5).slice(0, limit);
     }
 
-    questionCache.set(cacheKey, allQuestions);
-    console.log(`✅ Loaded ${allQuestions.length} bulk questions from Worker`);
-    return allQuestions;
+    questionCache.set(cacheKey, uniqueQuestions);
+    console.log(`✅ Loaded ${uniqueQuestions.length} unique bulk questions from Worker`);
+    return uniqueQuestions;
 
   } catch (error) {
     console.error('❌ Bulk fetch error:', error);
     return [];
+  }
+}
+
+/**
+ * ⚡ NEW: Fetch questions for a specific grade only
+ * Uses the new grade-specific endpoint to reduce payload size
+ * This is the primary method for BlogView
+ */
+export async function fetchQuestionsForGrade(
+  grade: number,
+  limit: number = 100
+): Promise<AppQuestion[]> {
+  const cacheKey = `grade_questions_${grade}`;
+  if (questionCache.has(cacheKey)) {
+    console.log(`📦 Using cached questions for grade ${grade}`);
+    return questionCache.get(cacheKey)!;
+  }
+
+  console.log(`⚡ Fetching questions for grade ${grade} from Grade-Specific endpoint...`);
+
+  try {
+    const url = `/api/packs/grade/${grade}.json`;
+    const response = await fetch(url);
+
+    if (!response.ok) {
+      console.warn(`⚠️ Grade endpoint failed, falling back to bulk fetch`);
+      return fetchBulkQuestions([grade], limit);
+    }
+
+    const packData = await response.json();
+
+    if (!packData.questions || packData.questions.length === 0) {
+      console.warn(`⚠️ No questions for grade ${grade}`);
+      return [];
+    }
+
+    // Transform to AppQuestion format
+    const questions: AppQuestion[] = packData.questions.map((q: any) => {
+      const subject = q.subject || 'general';
+      return transformQuestion(q, grade, subject);
+    });
+
+    // Deduplicate by ID
+    const uniqueMap = new Map();
+    questions.forEach(q => {
+      if (!uniqueMap.has(q.id)) {
+        uniqueMap.set(q.id, q);
+      }
+    });
+    let uniqueQuestions = Array.from(uniqueMap.values());
+
+    // Limit if needed
+    if (limit && uniqueQuestions.length > limit) {
+      uniqueQuestions = uniqueQuestions.sort(() => Math.random() - 0.5).slice(0, limit);
+    }
+
+    questionCache.set(cacheKey, uniqueQuestions);
+    console.log(`✅ Loaded ${uniqueQuestions.length} questions for grade ${grade}`);
+    return uniqueQuestions;
+
+  } catch (error) {
+    console.error(`❌ Grade fetch error for grade ${grade}:`, error);
+    // Fallback to bulk fetch
+    return fetchBulkQuestions([grade], limit);
   }
 }
 

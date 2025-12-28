@@ -85,21 +85,33 @@ def parse_bundle(file_path: Path) -> List[Dict[str, Any]]:
         # Extract questions via Regex
         questions = []
         # Pattern to capture question blocks.
-        # Note: This is a simplified regex parser.
-        chunks = re.split(r'## Pregunta \d+', content)[1:]
+        # We also capture the header to extract difficulty
+        headers = re.findall(r'## (Pregunta \d+.*)', content)
+        chunks = re.split(r'## Pregunta \d+.*', content)[1:]
 
         for i, chunk in enumerate(chunks):
+            header = headers[i] if i < len(headers) else ""
             q_data = {
                 "id": f"{metadata.get('id', 'unk')}-v{i+1}",
-                "difficulty": 0, # Placeholder
+                "difficulty": 3, # Default
                 "statement": "",
                 "options": [],
                 "explanation": ""
             }
 
-            # Extract Difficulty
-            # (Requires improved regex or relying on strict format)
-            # For this MVP, we try to extract content sections
+            # Extract Difficulty from Header
+            # Format: ## Pregunta 1 (Muy Fácil A - Dificultad 1)
+            diff_match = re.search(r'Dificultad\s*(\d)', header, re.IGNORECASE)
+            if diff_match:
+                q_data["difficulty"] = int(diff_match.group(1))
+            else:
+                # Heuristic mapping for common names if explicit difficulty missing
+                lower_header = header.lower()
+                if "muy fácil" in lower_header or "very easy" in lower_header: q_data["difficulty"] = 1
+                elif "fácil" in lower_header or "easy" in lower_header or "low" in lower_header: q_data["difficulty"] = 2
+                elif "media" in lower_header or "medium" in lower_header: q_data["difficulty"] = 3
+                elif "difícil" in lower_header or "hard" in lower_header or "high" in lower_header: q_data["difficulty"] = 4
+                if "muy difícil" in lower_header or "very hard" in lower_header: q_data["difficulty"] = 5
 
             # Extract Statement
             if "### Enunciado" in chunk:
@@ -108,23 +120,26 @@ def parse_bundle(file_path: Path) -> List[Dict[str, Any]]:
 
             # Extract Options
             if "### Opciones" in chunk:
-                opts_part = chunk.split("### Opciones")[1].split("### Explicación")[0]
+                parts = chunk.split("### Opciones")[1]
+                opts_part = parts.split("### Explicación")[0] if "### Explicación" in parts else parts
                 options = []
                 for line in opts_part.strip().split("\n"):
                     if "- [" in line:
-                        is_correct = "- [x]" in line
-                        text = line.split("]")[1].strip()
+                        is_correct = "- [x]" in line or "- [X]" in line
+                        # Extract the option text: - [ ] A) Text
+                        text_match = re.search(r'\]\s*[A-Z]\)\s*(.*)', line)
+                        text = text_match.group(1).strip() if text_match else line.split("]")[1].strip()
                         options.append({"text": text, "is_correct": is_correct})
                 q_data["options"] = options
 
             # Extract Explanation
-            if "### Explicación Pedagógica" in chunk:
-                expl_part = chunk.split("### Explicación Pedagógica")[1].split("---")[0]
+            if "### Explicación" in chunk:
+                # Support both "Explicación" and "Explicación Pedagógica"
+                expl_part = chunk.split("### Explicación")[1].split("---")[0]
+                # Clean up if it had "Pedagógica" in the split
+                if expl_part.startswith(" Pedagógica"):
+                    expl_part = expl_part[11:]
                 q_data["explanation"] = expl_part.strip()
-
-            # Assign difficulty based on index (v1=3, v2=1, v3=1/2, etc) mechanism is acceptable for MVP
-            # v1: Diff 3, v2-3: Diff 1-2, etc.
-            # Just relying on valid content for now.
 
             if q_data["statement"] and q_data["options"]:
                 questions.append(q_data)

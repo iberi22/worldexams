@@ -79,6 +79,39 @@ export interface BundleMetadata {
 }
 
 /**
+ * Normalize difficulty value to a number 1-5
+ * Handles both numeric and text-based difficulty values
+ */
+function normalizeDifficulty(difficulty: number | string | undefined): number {
+  if (difficulty === undefined || difficulty === null) return 3;
+
+  // If already a number, ensure it's in range 1-5
+  if (typeof difficulty === 'number') {
+    return Math.max(1, Math.min(5, Math.round(difficulty)));
+  }
+
+  // Handle text-based difficulty values (legacy format)
+  const text = String(difficulty).toLowerCase().trim();
+
+  // Map common text patterns to difficulty levels
+  if (text.includes('very easy') || text.includes('muy fácil') || text.includes('muy facil')) return 1;
+  if (text.includes('easy') || text.includes('low') || text.includes('fácil') || text.includes('facil') || text.includes('bajo')) return 2;
+  if (text.includes('medium') || text.includes('media') || text.includes('medio')) return 3;
+  if (text.includes('hard') || text.includes('high') || text.includes('difícil') || text.includes('dificil') || text.includes('alto')) return 4;
+  if (text.includes('very hard') || text.includes('very difficult') || text.includes('muy difícil') || text.includes('muy dificil')) return 5;
+
+  // Try to extract a number from the text
+  const numMatch = text.match(/\d+/);
+  if (numMatch) {
+    const num = parseInt(numMatch[0]);
+    return Math.max(1, Math.min(5, num));
+  }
+
+  // Default to medium difficulty
+  return 3;
+}
+
+/**
  * Parse a legacy single-question format (# Pregunta, # Opciones, # Explicación)
  */
 export function parseQuestion(entry: QuestionEntry): Question {
@@ -130,7 +163,7 @@ export function parseQuestion(entry: QuestionEntry): Question {
     correctOptionId,
     explanation,
     grade: frontmatter.grado,
-    difficulty: frontmatter.dificultad || 3,
+    difficulty: normalizeDifficulty(frontmatter.dificultad),
   };
 }
 
@@ -331,6 +364,7 @@ function parseVariantType(sectionType: string): { type: ParsedBundleQuestion['va
   return { type: 'Original', difficulty: 3 };
 }
 
+
 /**
  * Convert a ParsedBundleQuestion to the Question format used by ExamView
  */
@@ -346,7 +380,7 @@ function convertBundleQuestionToQuestion(
     correctOptionId: bundleQuestion.correctOptionId,
     explanation: bundleQuestion.explanation,
     grade: frontmatter.grado,
-    difficulty: bundleQuestion.difficulty,
+    difficulty: normalizeDifficulty(bundleQuestion.difficulty),
     context: bundleQuestion.context,
   };
 }

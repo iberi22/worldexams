@@ -126,8 +126,8 @@ self.addEventListener('message', (event) => {
 // --- Fetch Strategy: Network First with Pack Exceptions ---
 
 self.addEventListener('fetch', (event) => {
-  // Skip non-GET
-  if (event.request.method !== 'GET') return;
+  // Skip non-GET and non-HTTP schemes (fixes chrome-extension errors)
+  if (event.request.method !== 'GET' || !event.request.url.startsWith('http')) return;
 
   // Skip Supabase
   if (event.request.url.includes('supabase.co')) return;

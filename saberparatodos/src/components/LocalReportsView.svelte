@@ -1427,7 +1427,7 @@
 {#if showStudyPromptModal}
   <!-- svelte-ignore a11y_click_events_have_key_events a11y_no_static_element_interactions -->
   <div
-    class="fixed inset-0 z-[100] flex items-center justify-center p-4 bg-black/90 backdrop-blur-md"
+    class="fixed inset-0 z-[2000] flex items-center justify-center p-4 bg-black/90 backdrop-blur-md"
     transition:fade
     on:click={() => showStudyPromptModal = false}
     role="dialog"
