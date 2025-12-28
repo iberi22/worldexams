@@ -39,11 +39,7 @@ saberparatodos/template-openicfes/.env.local
 Thumbs.db
 
 # Planning documents (hide from public)
-/*.md
-!README.md
-!CONTRIBUTING.md
-!CHANGELOG.md
-!LICENSE.md
+
 
 # ============================================
 # DOCUMENTOS INTERNOS (Privados)
@@ -52,12 +48,7 @@ Thumbs.db
 # ============================================
 
 # Documentos de planificación (sensibles)
-PLANNING.md
-TASK.md
-AGENTS.md
-MASTER_PLAN.md
-masterplan.md
-AGENT_CONTEXT.md
+
 
 # Documentos de negocio (pricing, proyecciones)
 docs/MONETIZATION_STRATEGY.md
@@ -122,9 +113,9 @@ temp/premium-questions/
 # INTELLECTUAL PROPERTY PROTECTION
 # ============================================
 # Question Bank (Source of Truth)
-src/content/questions/
+
 
 # Generated API Data (JSONs)
-api/v1/
+
 
 saberparatodos/dist_backup
