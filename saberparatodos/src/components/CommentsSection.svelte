@@ -1,14 +1,14 @@
 <script lang="ts">
-  import { onMount } from 'svelte';
+  import { onMount, onDestroy } from 'svelte';
 
-  export let questionId: string | number;
+  let { questionId } = $props();
 
-  let showComments = false;
-  let isLoading = false;
-  let discussionContainer: HTMLElement;
+  let showComments = $state(false);
+  let isLoading = $state(false);
+  let discussionContainer = $state<HTMLElement | null>(null);
 
   // Unique ID for this component instance to avoid conflicts with multiple instances
-  const uniqueId = `giscus-${questionId}-${Math.random().toString(36).substr(2, 9)}`;
+  const uniqueId = `giscus-${questionId}-${Math.random().toString(36).substring(2, 9)}`;
 
   function loadComments() {
     showComments = true;
@@ -45,20 +45,18 @@
     }, 50);
   }
 
-  // Cleanup on destroy to prevent memory leaks
-  onMount(() => {
-    return () => {
-      if (discussionContainer) {
-        discussionContainer.innerHTML = '';
-      }
-    };
+  // Cleanup to prevent memory leaks
+  onDestroy(() => {
+    if (discussionContainer) {
+      discussionContainer.innerHTML = '';
+    }
   });
 </script>
 
 <div class="w-full border-t border-white/10 pt-4 mt-4">
   {#if !showComments}
     <button
-      on:click={loadComments}
+      onclick={loadComments}
       class="flex items-center gap-2 text-xs font-bold uppercase tracking-widest text-emerald-500 hover:text-emerald-400 transition-colors"
     >
       <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">

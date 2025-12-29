@@ -187,6 +187,7 @@
     // Record result
     const result: QuestionResultData = {
       questionId: question.id,
+      question: question, // 🆕 Persist full question for offline history
       isCorrect,
       difficulty: question.difficulty || 3, // Default to medium
       timeSpentMs,
@@ -244,6 +245,7 @@
 
         questionResults = [...questionResults, {
           questionId: q.id,
+          question: q, // 🆕 Persist full question for offline history
           isCorrect: answer === qCorrectId,
           difficulty: q.difficulty || 3,
           timeSpentMs: TIME_PER_QUESTION_MS, // Default if not tracked

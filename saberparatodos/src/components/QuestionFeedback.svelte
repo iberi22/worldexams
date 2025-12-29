@@ -1,31 +1,33 @@
 <script lang="ts">
-  import { createEventDispatcher } from 'svelte';
   import { fade, fly } from 'svelte/transition';
 
-  const dispatch = createEventDispatcher();
+  // Props using Svelte 5 $props()
+  let {
+    questionId,
+    questionText = '',
+    bundleId = '',
+    onVote = (v: any) => {}
+  } = $props();
 
-  // Props
-  export let questionId: string;
-  export let questionText: string = '';
-  export let bundleId: string = '';
-
-  // State
-  let showReportModal = false;
-  let reportType: 'error' | 'improvement' | 'new_question' | null = null;
-  let reportDescription = '';
-  let isSubmitting = false;
-  let submitted = false;
+  // State using Svelte 5 runes
+  let showReportModal = $state(false);
+  let reportType = $state<'error' | 'improvement' | 'new_question' | null>(null);
+  let reportDescription = $state('');
+  let isSubmitting = $state(false);
+  let submitted = $state(false);
+  let errorMessage = $state('');
 
   // Voting state (stored per question in localStorage)
-  let userVote: 'up' | 'down' | null = null;
+  let userVote = $state<'up' | 'down' | null>(null);
 
-  // Load existing vote
-  $: {
+  // Load existing vote on mount
+  import { onMount } from 'svelte';
+  onMount(() => {
     if (typeof window !== 'undefined') {
       const votes = JSON.parse(localStorage.getItem('saberparatodos_votes') || '{}');
       userVote = votes[questionId] || null;
     }
-  }
+  });
 
   function handleVote(vote: 'up' | 'down') {
     if (typeof window === 'undefined') return;
@@ -43,74 +45,61 @@
     }
 
     localStorage.setItem('saberparatodos_votes', JSON.stringify(votes));
-    dispatch('vote', { questionId, vote: userVote });
+    onVote({ questionId, vote: userVote });
   }
 
   function openReportModal(type: 'error' | 'improvement' | 'new_question') {
     reportType = type;
     showReportModal = true;
     reportDescription = '';
+    errorMessage = '';
   }
 
   function closeReportModal() {
     showReportModal = false;
     reportType = null;
     reportDescription = '';
+    errorMessage = '';
   }
 
   async function submitReport() {
     if (!reportDescription.trim() || !reportType) return;
 
     isSubmitting = true;
+    errorMessage = '';
 
-    // Build GitHub issue URL
-    const issueLabels = {
-      'error': 'bug,question-error',
-      'improvement': 'enhancement,question-improvement',
-      'new_question': 'new-question,community-contribution'
-    };
+    try {
+      const response = await fetch('/api/report_problem', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+          questionId,
+          reportType,
+          message: reportDescription,
+          userContext: `ResultsView - ${bundleId}`
+        })
+      });
 
-    const issueTitle = {
-      'error': `[Error] Pregunta ${questionId}`,
-      'improvement': `[Mejora] Pregunta ${questionId}`,
-      'new_question': `[Nueva Pregunta] Propuesta de la comunidad`
-    };
+      if (!response.ok) {
+        throw new Error('Error al enviar el reporte');
+      }
 
-    const issueBody = `
-## 📝 Reporte de la Comunidad
+      const result = await response.json();
 
-**Tipo:** ${reportType === 'error' ? '🐛 Error en pregunta' : reportType === 'improvement' ? '💡 Sugerencia de mejora' : '✨ Nueva pregunta propuesta'}
+      submitted = true;
+      isSubmitting = false;
 
-**ID de Pregunta:** \`${questionId}\`
-**Bundle:** \`${bundleId || 'N/A'}\`
-
-### Descripción
-${reportDescription}
-
-### Contexto de la Pregunta
-> ${questionText.substring(0, 200)}${questionText.length > 200 ? '...' : ''}
-
----
-*Reportado desde SaberParaTodos App*
-*Fecha: ${new Date().toISOString()}*
-    `.trim();
-
-    const issueUrl = `https://github.com/iberi22/saberparatodos/issues/new?` + new URLSearchParams({
-      title: issueTitle[reportType],
-      body: issueBody,
-      labels: issueLabels[reportType]
-    }).toString();
-
-    // Open in new tab
-    window.open(issueUrl, '_blank');
-
-    submitted = true;
-    isSubmitting = false;
-
-    setTimeout(() => {
-      closeReportModal();
-      submitted = false;
-    }, 2000);
+      setTimeout(() => {
+        closeReportModal();
+        submitted = false;
+      }, 2000);
+    } catch (err) {
+      console.error('Error submitting report:', err);
+      errorMessage = 'Hubo un error al enviar el reporte. Por favor intenta de nuevo.';
+      isSubmitting = false;
+    }
   }
 
   const reportOptions = [
@@ -124,7 +113,7 @@ ${reportDescription}
   <!-- Voting Buttons -->
   <div class="flex items-center gap-1">
     <button
-      on:click={() => handleVote('up')}
+      onclick={() => handleVote('up')}
       class={`p-2 rounded-lg transition-all ${
         userVote === 'up'
           ? 'bg-emerald-500/20 text-emerald-400'
@@ -137,7 +126,7 @@ ${reportDescription}
       </svg>
     </button>
     <button
-      on:click={() => handleVote('down')}
+      onclick={() => handleVote('down')}
       class={`p-2 rounded-lg transition-all ${
         userVote === 'down'
           ? 'bg-red-500/20 text-red-400'
@@ -154,7 +143,7 @@ ${reportDescription}
   <!-- Report/Feedback Button -->
   <div class="relative">
     <button
-      on:click={() => showReportModal = true}
+      onclick={() => showReportModal = true}
       class="flex items-center gap-2 px-3 py-1.5 text-xs uppercase tracking-widest text-white/40 hover:text-white border border-white/10 hover:border-white/30 rounded-lg transition-all"
     >
       <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -169,7 +158,7 @@ ${reportDescription}
 {#if showReportModal}
   <div
     class="fixed inset-0 z-[100] bg-black/80 backdrop-blur-sm flex items-center justify-center p-4"
-    on:click|self={closeReportModal}
+    onclick={(e) => { if (e.target === e.currentTarget) closeReportModal(); }}
     transition:fade={{ duration: 200 }}
   >
     <div
@@ -183,7 +172,7 @@ ${reportDescription}
             {reportType ? reportOptions.find(r => r.type === reportType)?.label : 'Enviar Feedback'}
           </h3>
           <button
-            on:click={closeReportModal}
+            onclick={closeReportModal}
             class="p-2 text-white/40 hover:text-white transition-colors"
           >
             <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -200,7 +189,7 @@ ${reportDescription}
           <div class="grid gap-3">
             {#each reportOptions as option}
               <button
-                on:click={() => reportType = option.type}
+                onclick={() => reportType = option.type}
                 class="flex items-center gap-4 p-4 bg-white/5 hover:bg-white/10 border border-white/10 hover:border-emerald-500/30 rounded-xl transition-all text-left group"
               >
                 <span class="text-2xl">{option.icon}</span>
@@ -246,22 +235,28 @@ ${reportDescription}
 
             <div class="flex gap-3">
               <button
-                on:click={() => reportType = null}
+                onclick={() => reportType = null}
                 class="flex-1 px-4 py-3 border border-white/20 hover:bg-white/10 rounded-lg text-sm font-bold uppercase tracking-widest transition-colors"
+                type="button"
               >
                 Atrás
               </button>
               <button
-                on:click={submitReport}
+                onclick={submitReport}
                 disabled={!reportDescription.trim() || isSubmitting}
                 class="flex-1 px-4 py-3 bg-emerald-500 hover:bg-emerald-600 disabled:bg-emerald-500/30 disabled:cursor-not-allowed text-black font-bold uppercase tracking-widest text-sm rounded-lg transition-colors"
+                type="button"
               >
-                {isSubmitting ? 'Enviando...' : 'Enviar a GitHub'}
+                {isSubmitting ? 'Enviando...' : 'Enviar Reporte'}
               </button>
             </div>
 
+            {#if errorMessage}
+              <p class="text-xs text-red-400 text-center mt-2">{errorMessage}</p>
+            {/if}
+
             <p class="text-[10px] text-white/30 text-center">
-              Se abrirá GitHub para crear un Issue. Necesitas cuenta de GitHub.
+              El reporte se enviará de forma anónima para revisión.
             </p>
           </div>
         {/if}

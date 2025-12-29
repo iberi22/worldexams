@@ -212,7 +212,8 @@ self.addEventListener('fetch', (event) => {
             if (event.request.mode === 'navigate') {
               return caches.match(OFFLINE_URL);
             }
-            return null;
+            // If no cache, return a simple error response instead of null to avoid TypeError
+            return new Response('Offline and not in cache', { status: 503 });
           });
       })
   );

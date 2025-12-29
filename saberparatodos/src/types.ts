@@ -58,6 +58,7 @@ export enum AppView {
  */
 export interface QuestionResultData {
   questionId: string | number;
+  question?: Question; // 🆕 Full question data for offline history persistence
   isCorrect: boolean;
   difficulty: number;
   timeSpentMs: number;

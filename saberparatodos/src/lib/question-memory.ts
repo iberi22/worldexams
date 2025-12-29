@@ -209,23 +209,49 @@ export function filterUnansweredQuestions<T extends { id: string }>(
     };
   }
 
-  // 🆕 Smart Auto-Reset: If ALL questions have been answered, reset and start fresh
+  // 🆕 Smart Recycle: If ALL questions have been answered, DO NOT WIPE MEMORY.
+  // Instead, recycle the oldest questions but keep the memory intact.
   if (unanswered.length === 0 && previouslyAnswered.length > 0) {
-    console.log('🔄 All questions in pool exhausted - triggering smart auto-reset');
-    clearAnsweredQuestionsOnly(); // Only clear answered IDs, keep stats
-    return {
-      filtered: shuffleArray(questions).slice(0, maxQuestions),
-      hadToRepeat: false,
-      wasReset: true // Signal that a reset occurred
-    };
+    console.log('🔄 All questions in pool exhausted - Recycling oldest questions (No Reset)');
+    // clearAnsweredQuestionsOnly(); <--- REMOVED: Never wipe memory automatically
+
+    // Sort logic is already handled by sortedFillers below if we let it fall through
+    // But to be explicit, just let it fall through to the "fillers" logic which now handles sorting.
   }
 
   // Otherwise, fill with already answered questions
   const needed = maxQuestions - unanswered.length;
-  const fillers = shuffleArray(previouslyAnswered).slice(0, needed);
+
+  // 🆕 Better Repetition Logic: Prioritize oldest answered questions
+  // Instead of random shuffle, we want spaced repetition behavior
+  let sortedFillers = previouslyAnswered;
+
+  if (typeof window !== 'undefined' && localStorage) {
+    try {
+        const stored = localStorage.getItem(STORAGE_KEY);
+        if (stored) {
+            const data = JSON.parse(stored);
+            const timestamps = data.answeredTimestamps || {};
+
+            // Sort by timestamp ASC (oldest interaction first)
+            sortedFillers = previouslyAnswered.sort((a, b) => {
+                const tsA = timestamps[a.id] || Infinity; // If no timestamp, treat as recent to be safe
+                const tsB = timestamps[b.id] || Infinity;
+                return tsA - tsB;
+            });
+        }
+    } catch (e) {
+        // Fallback to shuffle if sorting fails
+        sortedFillers = shuffleArray(previouslyAnswered);
+    }
+  } else {
+    sortedFillers = shuffleArray(previouslyAnswered);
+  }
+
+  const fillers = sortedFillers.slice(0, needed);
 
   return {
-    filtered: shuffleArray([...unanswered, ...fillers]),
+    filtered: shuffleArray([...unanswered, ...fillers]), // Shuffle final mix
     hadToRepeat: fillers.length > 0,
     wasReset: false
   };

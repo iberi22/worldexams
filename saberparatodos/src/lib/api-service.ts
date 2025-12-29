@@ -7,19 +7,21 @@
 
 import { supabase } from './supabase';
 import {
-  savePack,
-  getQuestionPool,
   getCurrentPackId,
   setCurrentPackId,
   hasPackStored,
   getTotalQuestionsAvailable,
-  type StoredPack
+  type StoredPack,
+  savePack,
+  getQuestionPool
 } from './pack-storage';
+
+import { saveKnownQuestions } from './idb-storage';
 
 // API Configuration
 const API_BASE_URL = '/api'; // Static files (legacy)
 const PACKS_API_URL = '/api/co/icfes/packs'; // 🆕 Rotating packs
-const CURRENT_PACK_URL = '/api/packs/current'; // ⚡ Dynamic Endpoint (Worker)
+const CURRENT_PACK_URL = '/api/co/icfes/current-pack.json'; // ⚡ Static/Worker Endpoint
 const BULK_FUNCTION_URL = 'https://tzmrgvtptdtsjcugwqyq.supabase.co/functions/v1/get-questions-bulk'; // Bulk endpoint
 const EDGE_FUNCTION_URL = 'https://tzmrgvtptdtsjcugwqyq.supabase.co/functions/v1/get-questions'; // Single fetch endpoint
 const COUNTRY_CODE = 'co';
@@ -373,6 +375,10 @@ export async function fetchQuestions(
       .map((q: APIQuestion) => transformQuestion(q, grade, subject));
 
     questionCache.set(cacheKey, questions);
+
+    // 🆕 Persist (fire and forget)
+    saveKnownQuestions(questions).catch(e => console.warn('Failed to persist cache:', e));
+
     console.log(`✅ Loaded ${questions.length} questions for ${subject} grade ${grade}`);
 
     return questions;
@@ -421,6 +427,9 @@ async function fetchQuestionsFromEdge(
       .map((q: APIQuestion) => transformQuestion(q, grade, subject));
 
     questionCache.set(cacheKey, questions);
+
+    // 🆕 Persist (fire and forget)
+    saveKnownQuestions(questions).catch(e => console.warn('Failed to persist cache:', e));
 
     const guestInfo = data.is_guest ? ' (Guest mode: 10 questions limit)' : '';
     console.log(`✅ Loaded ${questions.length} questions from Edge Function${guestInfo}`);
@@ -617,7 +626,7 @@ export async function fetchBulkQuestions(
     // Reuse the fetchCurrentPack logic (we call the endpoint directly)
     // Note: fetchCurrentPack is internal, but we can call the endpoint
     // Check if we have a locally cached pack first
-    const url = `/api/packs/current.json`;
+    const url = CURRENT_PACK_URL;
     // Use stale-while-revalidate pattern or at least simple caching
     const response = await fetch(url);
 
@@ -653,6 +662,10 @@ export async function fetchBulkQuestions(
     }
 
     questionCache.set(cacheKey, uniqueQuestions);
+
+    // 🆕 Persist (fire and forget)
+    saveKnownQuestions(uniqueQuestions).catch(e => console.warn('Failed to persist cache:', e));
+
     console.log(`✅ Loaded ${uniqueQuestions.length} unique bulk questions from Worker`);
     return uniqueQuestions;
 
@@ -680,7 +693,8 @@ export async function fetchQuestionsForGrade(
   console.log(`⚡ Fetching questions for grade ${grade} from Grade-Specific endpoint...`);
 
   try {
-    const url = `/api/packs/grade/${grade}.json`;
+    // Fallback URL for grade-specific packs if they were generated differently
+    const url = `/api/co/icfes/packs/current-grade-${grade}.json`;
     const response = await fetch(url);
 
     if (!response.ok) {

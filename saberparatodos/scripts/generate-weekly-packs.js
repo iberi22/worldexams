@@ -162,6 +162,32 @@ async function generatePacks() {
     }
   }
   console.log(`✅ Generated ${totalPacksGenerated} packs in ${OUTPUT_DIR}`);
+
+  // 🆕 Generate current-pack.json for the ACTUAL current week
+  // This helps local development and provides a static fallback
+  const now = new Date();
+  const currentYear = now.getFullYear();
+
+  // Calculate current week number
+  const startDate = new Date(currentYear, 0, 1);
+  const days = Math.floor((now - startDate) / (24 * 60 * 60 * 1000));
+  const currentWeek = Math.ceil(days / 7);
+  const currentWeekStr = currentWeek.toString().padStart(2, '0');
+  const currentPackId = `PACK-${currentYear}-W${currentWeekStr}`;
+
+  const currentPackPath = path.join('public/api/co/icfes', 'current-pack.json');
+  const currentPackData = {
+    pack_id: currentPackId,
+    generated_at: now.toISOString(),
+    next_rotation: new Date(now.getTime() + 7 * 24 * 60 * 60 * 1000).toISOString(),
+    rotation_days: 7,
+    grades: [3, 5, 6, 7, 8, 9, 10, 11],
+    country: 'co',
+    exam: 'icfes'
+  };
+
+  fs.writeFileSync(currentPackPath, JSON.stringify(currentPackData, null, 2));
+  console.log(`✅ Generated current-pack metadata at ${currentPackPath}`);
 }
 
 generatePacks();

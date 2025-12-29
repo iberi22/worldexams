@@ -1,15 +1,17 @@
 <script lang="ts">
   import { onMount } from 'svelte';
-  import { getAllLocalResults } from '../lib/idb-storage';
+  import { getAllLocalResults, getKnownQuestion } from '../lib/idb-storage';
   import { generateUserProfile, generateInsights, type UserProfile, getLatestMMR } from '../lib/local-intelligence';
   import { fade, slide } from 'svelte/transition';
   import MathRenderer from './MathRenderer.svelte';
   import AdBlock from './AdBlock.svelte';
   import { fetchBulkQuestions, fetchQuestions, type AppQuestion } from '../lib/api-service';
+  import ReportModal from './ReportModal.svelte';
 
   // Define interface locally with details support
   interface QuestionDetail {
     questionId: string | number;  // Matches QuestionResultData
+    question?: AppQuestion;       // 🆕 Full question data for offline viewing
     isCorrect: boolean;
     difficulty?: number;
     grade?: number;
@@ -143,6 +145,20 @@
     loadingQuestion = true;
     selectedQuestionData = null;
 
+    // 🆕 Step 1: Check if we already have this question in our history records
+    // This is the fastest and most reliable way for previously taken exams
+    for (const record of historyResults) {
+      if (record.details && Array.isArray(record.details)) {
+        const foundInHistory = record.details.find(d => String(d.questionId) === qid);
+        if (foundInHistory && foundInHistory.question) {
+          console.log(`🧠 Found question data in local history for: ${qid}`);
+          selectedQuestionData = foundInHistory.question;
+          loadingQuestion = false;
+          return;
+        }
+      }
+    }
+
     try {
       // Use fetchBulkQuestions which handles the correct URL and caching
       const questions = await fetchBulkQuestions([3, 5, 6, 7, 8, 9, 10, 11], 500);
@@ -164,7 +180,16 @@
 
       if (found) {
         console.log(`✅ Found question:`, found.id);
+        console.log(`📦 Question data:`, {
+          id: found.id,
+          text: found.text?.substring(0, 50) + '...',
+          hasOptions: !!found.options,
+          optionsCount: found.options?.length,
+          hasCategory: !!found.category,
+          hasExplanation: !!found.explanation
+        });
         selectedQuestionData = found;
+        console.log(`✅ selectedQuestionData set to:`, selectedQuestionData?.id);
       } else {
         // 🆕 Fallback: Try to fetch specific subject pack by parsing ID
         console.warn(`❌ Question not in bulk cache. Attempting targeted fetch for: ${qid}`);
@@ -172,8 +197,8 @@
         const parts = qid.split('-');
         // CO-LEC-6-MITOS-001 or JUST ID like 123
         if (parts.length >= 3) {
-          const subjectCode = parts[1]; // LEC
-          const gradeStr = parts[2];     // 6
+          const subjectCode = parts[1]; // LEC, CIE, BIO, etc.
+          const gradeStr = parts[2];     // 6, 11, etc.
           const grade = parseInt(gradeStr) || 11;
 
           const subjectMap: Record<string, string> = {
@@ -183,36 +208,90 @@
             'SOC': 'sociales_y_ciudadanas',
             'ING': 'ingles',
             'FIL': 'filosofia',
-            'FIS': 'fisica',
-            'QUI': 'quimica'
+            'FIS': 'ciencias_naturales', // FIS and QUI map to CNAT in folder structure
+            'QUI': 'ciencias_naturales',
+            'BIO': 'ciencias_naturales',
+            'CIE': 'ciencias_naturales',
+            'NAT': 'ciencias_naturales',
+            'LEN': 'lenguaje',
+            'TECN': 'tecnologia_informatica'
           };
 
           const subject = subjectMap[subjectCode] || subjectCode.toLowerCase();
 
-          // Fetch page 1 for this subject
-          const specificQuestions = await fetchQuestions(grade, subject, 1);
+          // Try the specific grade first
+          console.log(`🔍 Searching in grade ${grade}, subject: ${subject}`);
+          let specificQuestions = await fetchQuestions(grade, subject, 1);
+
+          // If not found and it's a science question, try ALL grades (questions may have moved)
+          if (specificQuestions.length === 0 && subject === 'ciencias_naturales') {
+            console.log(`🔄 Trying all grades for ciencias_naturales...`);
+            const allGrades = [3, 5, 6, 7, 8, 9, 10, 11];
+            for (const g of allGrades) {
+              if (g !== grade) {
+                const moreQuestions = await fetchQuestions(g, subject, 1);
+                specificQuestions = [...specificQuestions, ...moreQuestions];
+              }
+            }
+          }
+
+          // Extract just the base ID without variant (e.g., CO-CIE-11-fisica-002)
+          const baseId = qid.replace(/-v\d+$/i, '').toLowerCase();
+          const idParts = baseId.split('-');
+          const topicPart = idParts.length >= 4 ? idParts[3] : ''; // e.g., "fisica"
 
           const foundSpecific = specificQuestions.find((q: AppQuestion) => {
             const id = q.id.toLowerCase();
             const bundle = (q.bundleId || '').toLowerCase();
-            return id === qidLower ||
-                   id === bundleId ||
-                   bundle === bundleId ||
-                   id.startsWith(bundleId);
+
+            // Exact match
+            if (id === qidLower || id === baseId || bundle === baseId) return true;
+
+            // Check if the bundle ID contains the topic (e.g., "fisica")
+            if (topicPart && (bundle.includes(topicPart) || id.includes(topicPart))) {
+              // Also check if it's the same subject code
+              if (bundle.includes(subjectCode.toLowerCase()) || id.includes(subjectCode.toLowerCase())) {
+                return true;
+              }
+            }
+
+            // Fuzzy match for common typos (e.g. celular vs celula)
+            const idBase = id.replace(/r$/, '');
+            const bundleIdBase = baseId.replace(/r$/, '');
+
+            return id.startsWith(baseId) ||
+                   bundle.startsWith(baseId) ||
+                   id.includes(bundleIdBase) ||
+                   bundle.includes(bundleIdBase);
           });
 
           if (foundSpecific) {
              console.log(`✅ Found question in specific subject pack:`, foundSpecific.id);
              selectedQuestionData = foundSpecific;
           } else {
-             console.warn(`❌ Question truly not found even in specific pack: ${qid}`);
+             // 🆕 TRY PERMANENT CACHE (Last Resort for older questions)
+             console.log(`💾 Attempting to load from permanent cache (last resort)...`);
+             const cachedQ = await getKnownQuestion(qid);
+
+             if (cachedQ) {
+               console.log(`🧠 RESTORED FROM PERMANENT CACHE: ${cachedQ.id}`);
+               selectedQuestionData = cachedQ;
+             } else {
+               console.warn(`❌ Question truly not found: ${qid}`);
+               console.warn(`📋 Searched in subject: ${subject}, grades: ${grade} (and all grades for science)`);
+               console.warn(`💡 This question may be from an older weekly rotation that is no longer available.`);
+               console.warn(`🔄 New exams will save questions locally for permanent access.`);
+             }
           }
+        } else {
+          console.warn(`❌ Cannot parse question ID format: ${qid}`);
         }
       }
     } catch (err) {
       console.error('Error loading question:', err);
     } finally {
       loadingQuestion = false;
+      console.log(`🏁 Final state - selectedQuestionData:`, selectedQuestionData ? `ID: ${selectedQuestionData.id}` : 'NULL');
     }
   }
 
@@ -360,7 +439,18 @@
   // 🆕 Reactive lists for UI
   $: seenCompetencies = userProfile?.competencies ? Object.values(userProfile.competencies).filter(c => c.seen > 0) : [];
   $: seenSubjects = userProfile?.subjects ? Object.values(userProfile.subjects).filter(s => s.questionsAnswered > 0) : [];
+
+  // Report Modal State
+  let showReportModal = false;
 </script>
+
+{#if showReportModal}
+  <ReportModal
+    show={showReportModal}
+    onClose={() => showReportModal = false}
+    questionId={null}
+  />
+{/if}
 
 <div class="fixed inset-0 z-[1000] flex items-end sm:items-center justify-center bg-black/90 backdrop-blur-md" transition:fade>
   <div class="bg-[#121212] border-t sm:border border-white/10 rounded-t-[2.5rem] sm:rounded-2xl w-full max-w-5xl h-[94vh] sm:h-[90vh] flex flex-col shadow-2xl overflow-hidden relative mb-[env(safe-area-inset-bottom)]">
@@ -385,8 +475,19 @@
         </div>
 
         <button
+          on:click={() => showReportModal = true}
+          class="ml-auto p-2 bg-white/5 hover:bg-white/10 rounded-xl transition-all text-white/40 hover:text-white mr-2 sm:hidden"
+          aria-label="Reportar problema"
+        >
+          <svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 21v-8a2 2 0 012-2h14a2 2 0 012 2v8l-6-3l-6 3l-6-3z" />
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 13V5a2 2 0 012-2h14a2 2 0 012 2v8" />
+          </svg>
+        </button>
+
+        <button
           on:click={onClose}
-          class="ml-auto p-2 bg-white/5 hover:bg-white/10 rounded-xl transition-all text-white/40 hover:text-white sm:hidden"
+          class="p-2 bg-white/5 hover:bg-white/10 rounded-xl transition-all text-white/40 hover:text-white sm:hidden"
           aria-label="Cerrar reporte"
         >
           <svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -410,6 +511,17 @@
             Historial
           </button>
         </div>
+
+        <button
+          on:click={() => showReportModal = true}
+          class="hidden sm:flex p-3 bg-white/5 hover:bg-white/10 rounded-xl transition-all text-white/40 hover:text-white border border-white/5 mr-2 items-center gap-2"
+          aria-label="Reportar problema"
+        >
+          <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 21v-8a2 2 0 012-2h14a2 2 0 012 2v8l-6-3l-6 3l-6-3z" />
+          </svg>
+          <span class="text-xs font-bold uppercase tracking-widest hidden lg:inline">Reportar</span>
+        </button>
 
         <button
           on:click={onClose}
@@ -1234,13 +1346,17 @@
           <AdBlock className="h-24" />
         {:else}
           <!-- Not Found -->
-          <div class="text-center py-12">
+          <div class="text-center py-12 px-6">
             <div class="text-4xl mb-4 opacity-30">🔍</div>
-            <h4 class="text-lg font-bold text-white/60 mb-2">Pregunta no encontrada</h4>
-            <p class="text-sm text-white/40">
-              No pudimos cargar los detalles de esta pregunta.<br/>
-              Es posible que ya no esté disponible.
-            </p>
+            <h4 class="text-lg font-bold text-white/60 mb-3">Pregunta no disponible</h4>
+            <div class="text-sm text-white/40 space-y-2 max-w-md mx-auto">
+              <p>
+                Esta pregunta es de un examen anterior y ya no está disponible en la rotación actual de preguntas.
+              </p>
+              <p class="text-xs text-white/30 mt-4">
+                💡 <strong>Buenas noticias:</strong> A partir de ahora, todos los exámenes nuevos guardarán las preguntas completas localmente, así siempre podrás revisarlas.
+              </p>
+            </div>
           </div>
         {/if}
       </div>
