@@ -425,12 +425,24 @@
   }
 
   async function handleGradeSelect(grade) {
-    selectedGrade = grade;
+    // Show spinner while loading subjects for consistent feedback
+    isLoadingQuestions = true;
+    const startTime = Date.now();
 
-    // Load subjects for the new grade
-    await loadSubjectsFromAPI(grade);
-
-    setView(AppView.SUBJECT_SELECTION);
+    try {
+      selectedGrade = grade;
+      // Load subjects for the new grade
+      await loadSubjectsFromAPI(grade);
+    } finally {
+      // Ensure spinner is visible for at least 300ms
+      const elapsed = Date.now() - startTime;
+      const remaining = Math.max(0, 300 - elapsed);
+      if (remaining > 0) {
+        await new Promise(resolve => setTimeout(resolve, remaining));
+      }
+      isLoadingQuestions = false;
+      setView(AppView.SUBJECT_SELECTION);
+    }
   }
 
   function handleSubjectSelect(subject) {
@@ -664,18 +676,29 @@
       onStartExam={handleStart}
       onNavigateToBlog={async (subject) => {
         isNavigatingToBlog = true;
+        const startTime = Date.now();
+
         try {
           // 🆕 Load only grade 11 by default (optimized)
           if (loadedQuestions.length === 0) {
-            const { fetchQuestionsForGrade } = await import('../lib/api-service');
+            const { fetchQuestionsForGrade, prefetchAllGrades } = await import('../lib/api-service');
             loadedQuestions = await fetchQuestionsForGrade(11, 150);
+
+            // 🆕 Pre-fetch all other grades in background for instant switching
+            prefetchAllGrades(150).catch(e => console.warn('Background prefetch error:', e));
           }
           // 🆕 Save subject filter to pass to BlogView
           blogSubjectFilter = subject || null;
           showLocalReports = false;
           setView(AppView.BLOG);
         } finally {
-          setTimeout(() => { isNavigatingToBlog = false; }, 400);
+          // Ensure spinner is visible for at least 400ms
+          const elapsed = Date.now() - startTime;
+          const remaining = Math.max(0, 400 - elapsed);
+          if (remaining > 0) {
+            await new Promise(resolve => setTimeout(resolve, remaining));
+          }
+          isNavigatingToBlog = false;
         }
       }}
     />
@@ -902,13 +925,16 @@
                   console.log('📚 Loading questions for Blog view using grade-specific endpoint...');
 
                   // Import grade-specific function
-                  const { fetchQuestionsForGrade } = await import('../lib/api-service');
+                  const { fetchQuestionsForGrade, prefetchAllGrades } = await import('../lib/api-service');
 
                   // Single request for grade 11 only (default for ICFES)
                   loadedQuestions = await fetchQuestionsForGrade(11, 150);
 
                   console.log(`✅ Loaded ${loadedQuestions.length} questions for grade 11`);
                   console.log(`📊 Performance: ~40KB instead of ~150KB (73% smaller)`);
+
+                  // 🆕 Pre-fetch all other grades in background for instant switching
+                  prefetchAllGrades(150).catch(e => console.warn('Background prefetch error:', e));
                 }
                 setView(AppView.BLOG);
               } finally {
@@ -1050,28 +1076,38 @@
           initialSubjectFilter={blogSubjectFilter}
           isLoading={isNavigatingToBlog}
           onGradeChange={async (grade) => {
+            const { fetchQuestionsForGrade, fetchBulkQuestions } = await import('../lib/api-service');
+
+            // 🆕 Always show spinner for feedback (prevents "blocked" feel)
             isNavigatingToBlog = true;
+            const startTime = Date.now();
+
             try {
-              const { fetchQuestionsForGrade, fetchBulkQuestions } = await import('../lib/api-service');
+              let newToStore = [];
               if (grade === null) {
-                // "Todos" selected - load all grades
-                const additionalQuestions = await fetchBulkQuestions([3, 5, 6, 7, 8, 9, 10, 11], 300);
-                // Merge with existing to avoid duplicates
-                const existingIds = new Set(loadedQuestions.map(q => q.id));
-                const newQuestions = additionalQuestions.filter(q => !existingIds.has(q.id));
-                loadedQuestions = [...loadedQuestions, ...newQuestions];
-                console.log(`✅ Loaded all grades: ${loadedQuestions.length} total questions`);
+                newToStore = await fetchBulkQuestions([3, 5, 6, 7, 8, 9, 10, 11], 300);
               } else {
-                // Specific grade selected - load only that grade
-                const gradeQuestions = await fetchQuestionsForGrade(grade, 150);
-                // Merge with existing to avoid duplicates
-                const existingIds = new Set(loadedQuestions.map(q => q.id));
-                const newQuestions = gradeQuestions.filter(q => !existingIds.has(q.id));
-                loadedQuestions = [...loadedQuestions, ...newQuestions];
-                console.log(`✅ Loaded grade ${grade}: ${gradeQuestions.length} questions (${loadedQuestions.length} total)`);
+                newToStore = await fetchQuestionsForGrade(grade, 150);
               }
+
+              // Merge only if we found new questions to avoid redundant reactivity
+              const existingIds = new Set(loadedQuestions.map(q => q.id));
+              const uniqueNew = newToStore.filter(q => !existingIds.has(q.id));
+
+              if (uniqueNew.length > 0) {
+                loadedQuestions = [...loadedQuestions, ...uniqueNew];
+                console.log(`✅ Added ${uniqueNew.length} new questions to pool (${loadedQuestions.length} total)`);
+              }
+            } catch (err) {
+              console.error('Error changing grade:', err);
             } finally {
-              setTimeout(() => { isNavigatingToBlog = false; }, 200);
+              // Ensure spinner is visible for at least 300ms for solid feedback
+              const elapsed = Date.now() - startTime;
+              const remaining = Math.max(0, 300 - elapsed);
+              if (remaining > 0) {
+                await new Promise(resolve => setTimeout(resolve, remaining));
+              }
+              isNavigatingToBlog = false;
             }
           }}
         />

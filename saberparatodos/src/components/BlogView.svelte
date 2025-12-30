@@ -231,6 +231,17 @@
   const difficulties = [1, 2, 3, 4, 5];
 </script>
 
+<!-- 🆕 Loading Overlay for Grade Changes -->
+{#if isLoading}
+  <div class="fixed inset-0 z-[100] flex items-center justify-center bg-black/80 backdrop-blur-sm">
+    <div class="flex flex-col items-center gap-4 text-center">
+      <div class="w-16 h-16 border-4 border-emerald-500/30 border-t-emerald-500 rounded-full animate-spin"></div>
+      <p class="text-lg font-bold text-white uppercase tracking-widest">Accediendo al Banco</p>
+      <p class="text-xs text-white/50">Cargando preguntas...</p>
+    </div>
+  </div>
+{/if}
+
 <div class="w-full max-w-6xl mx-auto p-4 animate-fade-in-up pb-20">
   <div class="flex items-center justify-between mb-8">
     <h2 class="text-4xl font-bold uppercase tracking-tighter text-[#F5F5DC]">

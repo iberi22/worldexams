@@ -20,8 +20,8 @@ import { saveKnownQuestions } from './idb-storage';
 
 // API Configuration
 const API_BASE_URL = '/api'; // Static files (legacy)
-const PACKS_API_URL = '/api/co/icfes/packs'; // 🆕 Rotating packs
-const CURRENT_PACK_URL = '/api/co/icfes/current-pack.json'; // ⚡ Static/Worker Endpoint
+const PACKS_API_URL = '/api/packs'; // 🆕 Rotating packs
+const CURRENT_PACK_URL = '/api/packs/current.json'; // ⚡ Static/Worker Endpoint
 const BULK_FUNCTION_URL = 'https://tzmrgvtptdtsjcugwqyq.supabase.co/functions/v1/get-questions-bulk'; // Bulk endpoint
 const EDGE_FUNCTION_URL = 'https://tzmrgvtptdtsjcugwqyq.supabase.co/functions/v1/get-questions'; // Single fetch endpoint
 const COUNTRY_CODE = 'co';
@@ -694,7 +694,7 @@ export async function fetchQuestionsForGrade(
 
   try {
     // Fallback URL for grade-specific packs if they were generated differently
-    const url = `/api/co/icfes/packs/current-grade-${grade}.json`;
+    const url = `/api/packs/grade/${grade}.json`;
     const response = await fetch(url);
 
     if (!response.ok) {
@@ -738,6 +738,59 @@ export async function fetchQuestionsForGrade(
     // Fallback to bulk fetch
     return fetchBulkQuestions([grade], limit);
   }
+}
+
+/**
+ * 🆕 Check if a grade is already cached (no network request needed)
+ */
+export function isGradeCached(grade: number): boolean {
+  const cacheKey = `grade_questions_${grade}`;
+  return questionCache.has(cacheKey);
+}
+
+/**
+ * 🆕 Check if all grades are already cached
+ */
+export function areAllGradesCached(): boolean {
+  const ALL_GRADES = [3, 5, 6, 7, 8, 9, 10, 11];
+  return ALL_GRADES.every(grade => isGradeCached(grade));
+}
+
+/**
+ * 🆕 Prefetch all grades in background for instant switching
+ * Call this after the initial grade loads to preload remaining grades
+ */
+export async function prefetchAllGrades(limit: number = 150): Promise<void> {
+  const ALL_GRADES = [3, 5, 6, 7, 8, 9, 10, 11];
+
+  console.log('🔄 Starting background prefetch of all grades...');
+
+  // Fetch remaining grades in parallel (excluding already cached ones)
+  const gradesToFetch = ALL_GRADES.filter(g => !isGradeCached(g));
+
+  if (gradesToFetch.length === 0) {
+    console.log('✅ All grades already cached!');
+    return;
+  }
+
+  console.log(`📥 Prefetching ${gradesToFetch.length} grades: [${gradesToFetch.join(', ')}]`);
+
+  // Fetch in parallel but with a small delay between each to avoid overwhelming the server
+  const promises = gradesToFetch.map((grade, index) =>
+    new Promise<void>(resolve => {
+      setTimeout(async () => {
+        try {
+          await fetchQuestionsForGrade(grade, limit);
+        } catch (e) {
+          console.warn(`⚠️ Prefetch failed for grade ${grade}:`, e);
+        }
+        resolve();
+      }, index * 100); // 100ms delay between each request
+    })
+  );
+
+  await Promise.all(promises);
+  console.log('✅ Background prefetch complete! All grades cached.');
 }
 
 /**
