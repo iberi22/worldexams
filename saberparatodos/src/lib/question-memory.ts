@@ -324,7 +324,38 @@ export function getMemoryStatsForPool(poolSize: number): {
   };
 }
 
+/**
+ * Get memory statistics for a specific subject
+ * Used in ExamConfigModal to show available questions
+ */
+export function getSubjectMemoryStats(questions: any[], subject?: string): {
+  totalForSubject: number;
+  answeredCount: number;
+  availableCount: number;
+  percentUsed: number;
+} {
+  const answered = loadAnsweredQuestions();
 
+  // Filter questions by subject if provided
+  const subjectQuestions = subject
+    ? questions.filter(q => {
+        const category = q.category?.toUpperCase() || '';
+        const subjectUpper = subject.toUpperCase();
+        return category.includes(subjectUpper) || subjectUpper.includes(category.split(' :: ')[0]);
+      })
+    : questions;
+
+  const answeredForSubject = subjectQuestions.filter(q => answered.has(q.id));
+
+  return {
+    totalForSubject: subjectQuestions.length,
+    answeredCount: answeredForSubject.length,
+    availableCount: subjectQuestions.length - answeredForSubject.length,
+    percentUsed: subjectQuestions.length > 0
+      ? (answeredForSubject.length / subjectQuestions.length) * 100
+      : 0
+  };
+}
 
 /**
  * Update question stats

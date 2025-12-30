@@ -19,7 +19,7 @@ interface Props {
 
 const {
   title = "SaberParaTodos | Banco de Preguntas Saber 11",
-  description = "Practica con el mejor banco de preguntas open source para las pruebas ICFES Saber 11. Matemáticas, Ciencias, Inglés y más.",
+  description = "Practica con el mejor banco de preguntas open source para las Pruebas de Estado Saber 11. Matemáticas, Ciencias, Inglés y más.",
   image = "/og-image.png",
   type = "website",
   noindex = false,
@@ -35,6 +35,18 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- 🔇 Production Log Silencer - Must be FIRST script -->
+    <script is:inline define:vars={{ isProd: import.meta.env.PROD }}>
+      if (isProd) {
+        // Silence console in production
+        console.log = function() {};
+        console.info = function() {};
+        console.debug = function() {};
+        // Keep warn and error for critical issues
+      }
+    </script>
+
 		<link rel="icon" type="image/png" href="/favicon.png" />
 		<link rel="apple-touch-icon" href="/logo.png" />
 		<meta name="generator" content={Astro.generator} />

@@ -5,7 +5,7 @@ import matter from 'gray-matter';
 // Configuration
 const QUESTIONS_DIR = 'src/content/questions';
 const OUTPUT_DIR = 'public/api/co/icfes/packs';
-const TARGET_PACK_SIZE = 15; // Set to 15 as per user mention "10 exams of 15 questions" - wait, he wants 10 exams!
+const TARGET_PACK_SIZE = 150; // Increased to 150 to support 10 exams of 15 questions
 // If he wants 10 exams of 15 questions = 150 questions PER WEEK? That is impossible with 453 total.
 // I will set pack size to 20 for now. The "reset" logic happens on the client if they exhaust the pool.
 // The "pack" is just a delivery mechanism.
@@ -39,14 +39,29 @@ function loadAllQuestions() {
 
           const sections = body.split(/^##\s+Pregunta/gm);
 
+          // --- 🆕 Extract shared context from bundle head ---
+          let sharedContext = null;
+          const head = sections[0];
+          const contextMatch = head.match(/>\s*\*\*Contexto:\*\*\s*([\s\S]+?)(?=\n\s*\n|\n\s*---|---|$)/i);
+          if (contextMatch) {
+            // Clean up blockquote markers from multi-line context
+            sharedContext = contextMatch[1].replace(/^>\s*/gm, '').trim();
+          }
+
           sections.forEach((section, index) => {
              if (index === 0) return;
 
              const idMatch = section.match(/\*\*ID:\*\*\s*`([^`]+)`/);
              const id = idMatch ? idMatch[1] : `${data.id || 'unknown'}-v${index}`;
 
+             // 🆕 Extract per-question context if it exists (overrides shared)
+             let questionContext = sharedContext;
+             const localContextMatch = section.match(/### Contexto\s+([\s\S]+?)(?=### Enunciado|$)/i);
+             if (localContextMatch) {
+               questionContext = localContextMatch[1].replace(/^>\s*/gm, '').trim();
+             }
+
              // Simple markdown parsing to extract statement/options
-             // This is rough but sufficient for the JSON pack
              const statementMatch = section.match(/### Enunciado\s+([\s\S]+?)(?=### Opciones)/);
              const statement = statementMatch ? statementMatch[1].trim() : "Content pending";
 
@@ -81,7 +96,8 @@ function loadAllQuestions() {
                bundle_id: data.id,
                subject: data.asignatura,
                grade: data.grado,
-               category: data.asignatura // mapping for client
+               category: data.asignatura, // mapping for client
+               context: questionContext // 🆕 Include context
              });
           });
 

@@ -360,11 +360,7 @@
   const MIN_COMPETENCY_QUESTIONS = 3; // Minimum questions per competency to be considered
   const MIN_TOTAL_FOR_METRICS = 10;   // Minimum total questions to show fortalezas/debilidades
 
-  // 🆕 Calculate how many distinct competencies have been seen
-  $: seenCompetencies = userProfile?.competencies
-    ? Object.values(userProfile.competencies).filter(c => c.seen > 0)
-    : [];
-
+  // 🆕 Metrics Progress
   $: metricsProgress = {
     totalQuestions: userProfile?.totalQuestions || 0,
     neededTotal: MIN_TOTAL_FOR_METRICS,
@@ -374,17 +370,26 @@
 
   // Weak areas for improvement plan - uses topics first, then competencies/subjects
   $: weakAreas = (() => {
+    // 🆕 Weighted Score Helper (Laplace Smoothing)
+    // Favors items with more data when percentages are similar
+    // (0/1 = 0.33) vs (0/5 = 0.14) -> 0/5 is "more confirmed" as weak
+    const getWeightedScore = (correct: number, seen: number) => (correct + 1) / (seen + 2);
+
     // 🆕 Try granular topics first (Best for specific feedback)
     if (userProfile?.topics) {
       const topicAreas = Object.values(userProfile.topics)
         .filter(t => t.seen >= 3) // Minimum exposure to consider it a pattern
-        .sort((a, b) => a.accuracy - b.accuracy)
+        .map(t => ({
+          ...t,
+          weightedScore: getWeightedScore(t.correct, t.seen)
+        }))
+        .sort((a, b) => a.weightedScore - b.weightedScore) // Ascending (lowest score first)
         .slice(0, 5) // Top 5 weakest topics
         .map(t => ({
           name: t.name,
           seen: t.seen,
           correct: t.correct,
-          mmr: 0 // Topics don't track MMR yet, but that's fine
+          mmr: 0
         }));
       if (topicAreas.length > 0) return topicAreas;
     }
@@ -392,8 +397,12 @@
     // Fallback to competencies
     if (userProfile?.competencies) {
       const compAreas = Object.values(userProfile.competencies)
-        .filter(c => c.seen > 2)
-        .sort((a, b) => (a.correct / a.seen) - (b.correct / b.seen))
+        .filter(c => c.seen >= 2) // Lower threshold for fallback
+        .map(c => ({
+          ...c,
+          weightedScore: getWeightedScore(c.correct, c.seen)
+        }))
+        .sort((a, b) => a.weightedScore - b.weightedScore)
         .slice(0, 3);
       if (compAreas.length > 0) return compAreas;
     }
@@ -401,14 +410,15 @@
     // Fallback to subjects
     if (userProfile?.subjects) {
       return Object.values(userProfile.subjects)
-        .filter(s => s.questionsAnswered > 2)
+        .filter(s => s.questionsAnswered >= 1) // Subjects update slower, so 1 is ok for fallback
         .map(s => ({
-          name: s.name,
-          seen: s.questionsAnswered,
-          correct: Math.round(s.accuracy * s.questionsAnswered),
-          mmr: s.mmr
+            name: s.name,
+            seen: s.questionsAnswered,
+            correct: Math.round(s.accuracy * s.questionsAnswered),
+            mmr: s.mmr,
+            weightedScore: getWeightedScore(Math.round(s.accuracy * s.questionsAnswered), s.questionsAnswered)
         }))
-        .sort((a, b) => (a.correct / a.seen) - (b.correct / b.seen))
+        .sort((a, b) => a.weightedScore - b.weightedScore)
         .slice(0, 3);
     }
     return [];
@@ -436,9 +446,43 @@
     return days;
   })();
 
-  // 🆕 Reactive lists for UI
-  $: seenCompetencies = userProfile?.competencies ? Object.values(userProfile.competencies).filter(c => c.seen > 0) : [];
-  $: seenSubjects = userProfile?.subjects ? Object.values(userProfile.subjects).filter(s => s.questionsAnswered > 0) : [];
+  // 🆕 Reactive lists for UI with Weighted Scoring
+  const getWeightedScore = (correct: number, seen: number) => (correct + 1) / (seen + 2);
+
+  $: competencyStats = userProfile?.competencies
+    ? Object.values(userProfile.competencies)
+        .filter(c => c.seen > 0)
+        .map(c => ({
+          ...c,
+          weightedScore: getWeightedScore(c.correct, c.seen)
+        }))
+    : [];
+
+  $: subjectStats = userProfile?.subjects
+    ? Object.values(userProfile.subjects)
+        .filter(s => s.questionsAnswered > 0)
+        .map(s => ({
+          ...s,
+          correct: Math.round(s.accuracy * s.questionsAnswered),
+          seen: s.questionsAnswered,
+          weightedScore: getWeightedScore(Math.round(s.accuracy * s.questionsAnswered), s.questionsAnswered)
+        }))
+    : [];
+
+  // Top Strengths (Highest Weighted Score)
+  $: topStrengths = competencyStats.length > 0
+      ? competencyStats.sort((a,b) => b.weightedScore - a.weightedScore).slice(0, 3)
+      : subjectStats.sort((a,b) => b.weightedScore - a.weightedScore).slice(0, 3);
+
+  // Top Weaknesses (Lowest Weighted Score) - Only show if seen > MIN_THRESHOLD to avoid noise?
+  // User wanted coherence, so let's stick to strict sorting but maybe filter extremely low samples if needed.
+  // For now, weighted score handles 0/1 vs 0/5 well (0/5 is lower score).
+  $: topWeaknesses = competencyStats.length > 0
+      ? competencyStats.sort((a,b) => a.weightedScore - b.weightedScore).slice(0, 3)
+      : subjectStats.sort((a,b) => a.weightedScore - b.weightedScore).slice(0, 3);
+
+  $: seenCompetencies = competencyStats; // Keep for compatibility if used elsewhere
+  $: seenSubjects = subjectStats;        // Keep for compatibility
 
   // Report Modal State
   let showReportModal = false;
@@ -872,21 +916,13 @@
                  <div class="bg-emerald-900/10 border border-emerald-500/20 rounded-xl p-5">
                    <h3 class="text-xs font-bold uppercase tracking-widest text-emerald-400 mb-4">Fortalezas (Top 3)</h3>
                    <div class="space-y-2">
-                     {#if seenCompetencies.length > 0}
-                       {#each seenCompetencies.sort((a,b) => (b.correct/b.seen) - (a.correct/a.seen)).slice(0, 3) as comp}
+                     {#if topStrengths.length > 0}
+                       {#each topStrengths as item}
                          <div class="flex items-center justify-between text-sm py-2 border-b border-emerald-500/10 last:border-0 pl-2">
-                           <span class="text-emerald-100/80">{comp.name}</span>
-                           <span class="font-mono text-emerald-400">{Math.round((comp.correct/comp.seen)*100)}%</span>
+                           <span class="text-emerald-100/80">{item.name}</span>
+                           <span class="font-mono text-emerald-400">{Math.round((item.correct/item.seen)*100)}%</span>
                          </div>
                        {/each}
-                     {:else if seenSubjects.length > 0}
-                        <p class="text-[10px] text-emerald-400/60 uppercase tracking-widest mb-2 font-bold">Por Asignatura</p>
-                        {#each seenSubjects.sort((a,b) => b.accuracy - a.accuracy).slice(0, 3) as subj}
-                          <div class="flex items-center justify-between text-sm py-2 border-b border-emerald-500/10 last:border-0 pl-2">
-                            <span class="text-emerald-100/80">{subj.name}</span>
-                            <span class="font-mono text-emerald-400">{Math.round(subj.accuracy*100)}%</span>
-                          </div>
-                        {/each}
                      {:else}
                         <div class="space-y-3">
                           <p class="text-xs text-white/40 italic">Datos insuficientes para determinar fortalezas.</p>
@@ -920,21 +956,13 @@
                  <div class="bg-red-900/10 border border-red-500/20 rounded-xl p-5">
                    <h3 class="text-xs font-bold uppercase tracking-widest text-red-400 mb-4">Áreas de Mejora (Top 3)</h3>
                     <div class="space-y-2">
-                     {#if seenCompetencies.length > 0}
-                       {#each seenCompetencies.sort((a,b) => (a.correct/a.seen) - (b.correct/b.seen)).slice(0, 3) as comp}
+                     {#if topWeaknesses.length > 0}
+                       {#each topWeaknesses as item}
                          <div class="flex items-center justify-between text-sm py-2 border-b border-red-500/10 last:border-0 pl-2">
-                           <span class="text-red-100/80">{comp.name}</span>
-                           <span class="font-mono text-red-400">{Math.round((comp.correct/comp.seen)*100)}%</span>
+                           <span class="text-red-100/80">{item.name}</span>
+                           <span class="font-mono text-red-400">{Math.round((item.correct/item.seen)*100)}%</span>
                          </div>
                        {/each}
-                     {:else if seenSubjects.length > 0}
-                        <p class="text-[10px] text-red-400/60 uppercase tracking-widest mb-2 font-bold">Por Asignatura</p>
-                        {#each seenSubjects.sort((a,b) => a.accuracy - b.accuracy).slice(0, 3) as subj}
-                          <div class="flex items-center justify-between text-sm py-2 border-b border-red-500/10 last:border-0 pl-2">
-                            <span class="text-red-100/80">{subj.name}</span>
-                            <span class="font-mono text-red-400">{Math.round(subj.accuracy*100)}%</span>
-                          </div>
-                        {/each}
                      {:else}
                         <div class="space-y-3">
                           <p class="text-xs text-white/40 italic">Datos insuficientes para determinar debilidades.</p>
@@ -1342,8 +1370,47 @@
             {/if}
           </div>
 
-          <!-- Ad Block -->
-          <AdBlock className="h-24" />
+          <!-- Question Context / Metadata -->
+          {#if selectedQuestionData.context}
+            <div class="bg-amber-500/10 border border-amber-500/20 rounded-xl p-4">
+              <div class="text-xs font-bold uppercase tracking-widest text-amber-400 mb-2 flex items-center gap-2">
+                <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                </svg>
+                Texto de Referencia
+              </div>
+              <div class="text-sm text-amber-100/80 leading-relaxed italic">
+                "{selectedQuestionData.context}"
+              </div>
+            </div>
+          {/if}
+
+          <!-- Question Metadata Card -->
+          <div class="bg-white/5 border border-white/10 rounded-xl p-4">
+            <div class="text-xs font-bold uppercase tracking-widest text-white/40 mb-3">Información Adicional</div>
+            <div class="grid grid-cols-2 gap-3 text-xs">
+              {#if selectedQuestionData.topic}
+                <div class="bg-white/5 rounded-lg p-2">
+                  <span class="text-white/40">Tema:</span>
+                  <span class="text-emerald-400 font-bold ml-1">{selectedQuestionData.topic}</span>
+                </div>
+              {/if}
+              {#if selectedQuestionData.bundleId}
+                <div class="bg-white/5 rounded-lg p-2">
+                  <span class="text-white/40">Bundle:</span>
+                  <span class="text-white/60 font-mono ml-1">{selectedQuestionData.bundleId}</span>
+                </div>
+              {/if}
+              <div class="bg-white/5 rounded-lg p-2">
+                <span class="text-white/40">ID:</span>
+                <span class="text-white/60 font-mono ml-1 truncate">{selectedQuestionData.id}</span>
+              </div>
+              <div class="bg-white/5 rounded-lg p-2">
+                <span class="text-white/40">Variante:</span>
+                <span class="text-white/60 font-mono ml-1">{selectedQuestionData.variant || 'v1'}</span>
+              </div>
+            </div>
+          </div>
         {:else}
           <!-- Not Found -->
           <div class="text-center py-12 px-6">

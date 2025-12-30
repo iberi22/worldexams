@@ -41,7 +41,7 @@ export type PromptType = 'exam_result' | 'improvement_plan' | 'subject_focus' | 
 const PROMPT_TEMPLATES = {
   // Prompt después de un examen
   exam_result: (data: ExamResultData) => `
-Acabo de terminar un examen de práctica para ICFES Saber 11.
+Acabo de terminar un examen de práctica para las Pruebas de Estado Saber 11.
 
 📊 **Resultados del examen:**
 - Materia: ${data.subject}
@@ -57,12 +57,12 @@ Por favor ayúdame a:
 2. Dame 3 ejercicios similares con explicación paso a paso
 3. Tips para evitar estos errores en el futuro
 
-Nivel: Preparación ICFES Saber 11, Colombia.
+Nivel: Preparación Pruebas de Estado Saber 11, Colombia.
 Responde en español.`.trim(),
 
   // Plan de mejora general
   improvement_plan: (profile: UserProfileData) => `
-Soy un estudiante colombiano preparándome para el ICFES Saber 11.
+Soy un estudiante colombiano preparándome para las Pruebas de Estado Saber 11.
 
 📊 **Mi perfil de rendimiento:**
 - Rating Global (MMR): ${profile.globalMMR} (${profile.rankTitle})
@@ -86,16 +86,16 @@ Por favor responde en español con explicaciones claras.`.trim(),
 
   // Enfoque en materia específica
   subject_focus: (subject: string, accuracy: number, topics?: string[]) => `
-Necesito ayuda con ${subject} para el ICFES Saber 11.
+Necesito ayuda con ${subject} para las Pruebas de Estado Saber 11.
 
 📊 **Mi nivel actual:** ${Math.round(accuracy * 100)}% de precisión
 
 ${topics?.length ? `📌 **Temas específicos a reforzar:** ${topics.join(', ')}` : ''}
 
 Por favor:
-1. Explícame los conceptos clave de ${subject} para Saber 11
+1. Explícame los conceptos clave de ${subject} para las Pruebas de Estado Saber 11
 2. Dame un resumen de fórmulas/reglas importantes
-3. 5 ejercicios tipo ICFES con solución paso a paso
+3. 5 ejercicios tipo Pruebas de Estado con solución paso a paso
 4. Estrategias para responder rápido y bien
 
 Nivel: Grado 11, Colombia.
@@ -103,7 +103,7 @@ Responde en español.`.trim(),
 
   // Repaso rápido
   quick_review: (subject: string, topics: string[]) => `
-Necesito un repaso rápido de ${subject} antes de mi examen ICFES.
+Necesito un repaso rápido de ${subject} antes de mi examen de Pruebas de Estado.
 
 📌 **Temas a repasar:** ${topics.join(', ')}
 
@@ -112,7 +112,7 @@ Dame:
 2. Las 3 fórmulas/conceptos más importantes
 3. 2 ejercicios rápidos de práctica
 
-Sé conciso. Nivel: ICFES Saber 11, Colombia.`.trim(),
+Sé conciso. Nivel: Pruebas de Estado Saber 11, Colombia.`.trim(),
 
   // Para NotebookLM
   notebooklm: (profile: UserProfileData) => {
@@ -127,7 +127,7 @@ Sé conciso. Nivel: ICFES Saber 11, Colombia.`.trim(),
     return `
 INSTRUCCIONES PARA CREAR MI CUADERNO DE ESTUDIO INTELIGENTE:
 
-Soy un estudiante colombiano preparándome para el ICFES Saber 11.
+Soy un estudiante colombiano preparándome para las Pruebas de Estado Saber 11.
 Este es mi perfil cognitivo detallado:
 
 📊 **MÉTRICAS DE RENDIMIENTO:**
@@ -150,7 +150,7 @@ ${profile.strongAreas.length > 0 ? `🟢 **FORTALEZAS:**\n${profile.strongAreas.
 
 ---
 
-Por favor, actúa como un **Tutor Experto ICFES** y utiliza las fuentes de este cuaderno para generar:
+Por favor, actúa como un **Tutor Experto en Pruebas de Estado** y utiliza las fuentes de este cuaderno para generar:
 
 1. **DIAGNÓSTICO ESTRATÉGICO**
    - Analiza por qué estoy fallando en mis áreas críticas basándote en mi perfil.
@@ -163,7 +163,7 @@ Por favor, actúa como un **Tutor Experto ICFES** y utiliza las fuentes de este 
    - Incluye tiempos específicos (ej: "Lunes 30min: Algebra lineal").
 
 3. **EJERCICIOS DE ENTRENAMIENTO**
-   - Genera 3 preguntas tipo ICFES para CADA área crítica.
+   - Genera 3 preguntas tipo Pruebas de Estado para CADA área crítica.
    - **IMPORTANTE:** Incluye la explicación detallada de por qué la respuesta correcta es la correcta.
    - Indica el nivel de dificultad (1-5).
 
@@ -186,7 +186,7 @@ ${profile.weakAreas.map(a => `- ${a.name} (Precisión: ${Math.round(a.accuracy *
 
 INSTRUCCIONES DE ACTUALIZACIÓN:
 1. **Re-prioriza el plan de estudio**: Dale máxima prioridad a estos temas críticos nuevos.
-2. **Genera nuevos ejercicios**: Crea 3 preguntas nuevas tipo ICFES específicamente para estos temas.
+2. **Genera nuevos ejercicios**: Crea 3 preguntas nuevas tipo Pruebas de Estado específicamente para estos temas.
 3. **Identifica patrones**: ¿Ves alguna relación entre estos errores y mis fallos anteriores?
 4. **Resumen Express**: Explícame brevemente el concepto clave que probablemente estoy fallando en estos temas.
 

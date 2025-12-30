@@ -238,7 +238,7 @@ export function generateAIAnalysisPrompt(profile: UserProfile): string {
   }
 
   return `
-Role: Expert Academic Tutor for ICFES Saber 11.
+Role: Expert Academic Tutor for Colombia's Pruebas de Estado Saber 11.
 Student Profile:
 - Current Score: ${score}/500 (${profile.rankTitle})
 - Consistency: ${profile.advancedMetrics.consistencyScore}/100

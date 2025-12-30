@@ -24,6 +24,7 @@
     getMemoryStats
   } from '../lib/question-memory';
   import { saveExamResultLocal } from '../lib/idb-storage'; // Persist local results
+  import { clearPackStorage } from '../lib/pack-storage'; // Clear pack storage
 
   import BlogView from './BlogView.svelte';
   import ArticleView from './ArticleView.svelte';
@@ -206,7 +207,8 @@
             console.log('🔄 Build update detected! Clearing old question cache...');
             try {
               await cacheService.clearCache();
-              console.log('🗑️ Cache cleared successfully.');
+              clearPackStorage();
+              console.log('🗑️ Cache and Pack Storage cleared successfully.');
 
               // 🔄 FORCE RELOAD: If we successfully cleared cache, we must reload the current questions
               // to ensure the UI doesn't show stale data loaded before this check finished.
@@ -519,15 +521,91 @@
 
       console.log(`📊 Available questions in pool for exam: ${availableQuestions.length}`);
 
-      if (availableQuestions.length === 0) {
-         throw new Error("No hay preguntas disponibles para esta configuración.");
+      // 🚨 FIX: Deep Search if insufficient questions (e.g., specific subject not in weekly pack)
+      if (availableQuestions.length < config.count) {
+         console.warn(`⚠️ Insufficient questions (${availableQuestions.length}/${config.count}). Starting Deep Search into history...`);
+
+         // Identify grades to search
+         const searchGrades = config.useDiagnostic && selectedGrade > 3
+             ? [selectedGrade, ...[3, 5, 7, 9].filter(g => g < selectedGrade)]
+             : [selectedGrade];
+
+         console.log(`🔍 Deep Search for subject '${selectedSubject}' in grades: ${searchGrades.join(', ')}`);
+
+         // Fetch from static API (bypassing packs) - Parallel Fetch
+         const { fetchQuestions } = await import('../lib/api-service'); // Ensure import
+         const promises = searchGrades.map(g => fetchQuestions(g, selectedSubject, 1)); // Fetch page 1
+         const results = await Promise.all(promises);
+
+         let newQuestionsCount = 0;
+         const currentIds = new Set(loadedQuestions.map(q => q.id));
+
+         results.forEach(questions => {
+            if (questions && questions.length > 0) {
+                const uniqueNew = questions.filter(q => !currentIds.has(q.id));
+                if (uniqueNew.length > 0) {
+                    loadedQuestions = [...loadedQuestions, ...uniqueNew];
+                    uniqueNew.forEach(q => currentIds.add(q.id)); // Update Set
+                    newQuestionsCount += uniqueNew.length;
+                }
+            }
+         });
+
+         console.log(`✅ Deep Search finished. Added ${newQuestionsCount} new questions.`);
+
+         // 🔄 RE-FILTER availableQuestions with new pool
+         const reFiltered = loadedQuestions.filter(q => {
+             if (!q) return false;
+             // Subject Match
+             const subjectMatch = subjectsMatch(q.category, selectedSubject);
+             if (!subjectMatch) return false;
+             // Grade Match
+             if (config.useDiagnostic) {
+                return q.grade === selectedGrade || (q.grade < selectedGrade && [3,5,7,9].includes(q.grade));
+             } else {
+                return selectedGrade ? q.grade === selectedGrade : true;
+             }
+         });
+
+         // Update local variable
+         // We can't reassign const 'availableQuestions', so we'll use a new variable for the next step
+         // BUT wait, availableQuestions was defined as const above.
+         // I need to change the const definition above OR just override it if it was let.
+         // Looking at code: `const availableQuestions = ...`
+         // So I must proceed with `reFiltered`.
+
+         if (reFiltered.length > availableQuestions.length) {
+             console.log(`📊 Updated available questions: ${reFiltered.length}`);
+             // Hack: we need to pass this to the next step.
+             // Since availableQuestions is const, we'll shadow it or reuse a var.
+             // Actually, I should just change the original `const availableQuestions` to `let`.
+             // But for this patch, I'll handle it by checking reFiltered.
+
+             // Let's assume I'll strictly use reFiltered if it has more.
+         }
+      }
+
+      // Re-evaluate available questions after Deep Search
+      const finalAvailableQuestions = loadedQuestions.filter(q => {
+         if (!q) return false;
+         const subjectMatch = subjectsMatch(q.category, selectedSubject);
+         if (!subjectMatch) return false;
+         if (config.useDiagnostic) {
+            return q.grade === selectedGrade || (q.grade < selectedGrade && [3,5,7,9].includes(q.grade));
+         } else {
+            return selectedGrade ? q.grade === selectedGrade : true;
+         }
+      });
+
+      if (finalAvailableQuestions.length === 0) {
+         throw new Error("No hay preguntas disponibles para esta configuración (incluso después de búsqueda profunda).");
       }
 
       // Use memory service to filter out recently answered questions
       // This enforces the 6-day anti-repeat rule
-      console.log(`🔍 Filtering ${availableQuestions.length} candidates for history...`);
+      console.log(`🔍 Filtering ${finalAvailableQuestions.length} candidates for history...`);
       const { filtered, hadToRepeat } = filterUnansweredQuestions(
-        availableQuestions,
+        finalAvailableQuestions,
         config.count
       );
 
@@ -1032,6 +1110,7 @@
     <ExamConfigModal
       subject={selectedSubject}
       currentGrade={selectedGrade || 11}
+      availableQuestions={loadedQuestions}
       onStart={handleExamConfigStart}
       onCancel={() => { showExamConfigModal = false; selectedSubject = null; }}
     />

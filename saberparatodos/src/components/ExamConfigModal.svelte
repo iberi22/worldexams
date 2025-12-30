@@ -1,15 +1,18 @@
 <script>
   import { fade, fly } from 'svelte/transition';
   import FlashlightCard from './FlashlightCard.svelte';
+  import { getSubjectMemoryStats, clearAnsweredQuestionsOnly } from '../lib/question-memory';
 
   export let subject;
   export let currentGrade = 11;
   export let onStart;
   export let onCancel;
+  export let availableQuestions = []; // 🆕 Pool of questions to calculate availability
 
   let questionCount = 10;
   let mode = 'SOLO'; // 'SOLO' or 'PARTY'
   let useDiagnostic = true; // Diagnostic mode toggle
+  let showResetConfirm = false; // 🆕 Reset confirmation state
 
   const questionOptions = [5, 10, 15];
 
@@ -17,12 +20,29 @@
   // Reactive so it updates if currentGrade changes
   $: diagnosticGrades = [3, 5, 7, 9].filter(g => g < currentGrade);
 
+  // 🆕 Calculate subject-specific memory stats
+  $: memoryStats = getSubjectMemoryStats(availableQuestions, subject);
+
   function handleStart() {
     onStart({
       count: questionCount,
       mode: mode,
       useDiagnostic: useDiagnostic
     });
+  }
+
+  // 🆕 Handle reset with confirmation
+  function handleResetMemory() {
+    if (showResetConfirm) {
+      clearAnsweredQuestionsOnly();
+      showResetConfirm = false;
+      // Recalculate stats
+      memoryStats = getSubjectMemoryStats(availableQuestions, subject);
+    } else {
+      showResetConfirm = true;
+      // Auto-hide confirmation after 3 seconds
+      setTimeout(() => { showResetConfirm = false; }, 3000);
+    }
   }
 </script>
 
@@ -45,6 +65,49 @@
         <span class="text-xs uppercase tracking-widest opacity-60">Materia</span>
         <h3 class="text-xl font-bold text-emerald-500">{subject || 'Simulacro Completo'}</h3>
       </div>
+
+      <!-- 🆕 Question Availability Panel -->
+      {#if memoryStats.totalForSubject > 0}
+        <div class="p-4 bg-white/5 border border-white/10 rounded-lg mb-4">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs uppercase tracking-widest opacity-60">Preguntas Disponibles</span>
+            <button
+              on:click={handleResetMemory}
+              class="text-[10px] uppercase tracking-widest px-2 py-1 rounded border transition-all duration-200 {showResetConfirm ? 'bg-red-500/20 border-red-500 text-red-400' : 'border-white/20 text-white/40 hover:text-white/60 hover:border-white/40'}"
+              title="Reiniciar memoria de preguntas vistas"
+            >
+              {showResetConfirm ? '¿Confirmar?' : '🔄 Reiniciar'}
+            </button>
+          </div>
+
+          <!-- Stats Row -->
+          <div class="grid grid-cols-3 gap-2 mb-3 text-center">
+            <div class="p-2 bg-white/5 rounded">
+              <p class="text-lg font-bold text-white">{memoryStats.totalForSubject}</p>
+              <p class="text-[10px] uppercase tracking-widest text-white/40">Total</p>
+            </div>
+            <div class="p-2 bg-yellow-500/10 rounded">
+              <p class="text-lg font-bold text-yellow-500">{memoryStats.answeredCount}</p>
+              <p class="text-[10px] uppercase tracking-widest text-white/40">Vistas</p>
+            </div>
+            <div class="p-2 bg-emerald-500/10 rounded">
+              <p class="text-lg font-bold text-emerald-500">{memoryStats.availableCount}</p>
+              <p class="text-[10px] uppercase tracking-widest text-white/40">Frescas</p>
+            </div>
+          </div>
+
+          <!-- Progress Bar -->
+          <div class="w-full h-2 bg-white/10 rounded-full overflow-hidden">
+            <div
+              class="h-full transition-all duration-500 {memoryStats.percentUsed > 70 ? 'bg-red-500' : memoryStats.percentUsed > 40 ? 'bg-yellow-500' : 'bg-emerald-500'}"
+              style="width: {Math.round(memoryStats.percentUsed)}%"
+            ></div>
+          </div>
+          <p class="text-[10px] text-white/30 mt-1 text-center">
+            {Math.round(memoryStats.percentUsed)}% del banco visto (expira en 6 días)
+          </p>
+        </div>
+      {/if}
 
       <!-- Question Count -->
       <div class="space-y-3">
