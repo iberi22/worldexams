@@ -83,7 +83,7 @@ function loadAllQuestions() {
                 if (isCorrect) correct_answer = label;
              }
 
-             const explanationMatch = section.match(/### Explicación Pedagógica\s+([\s\S]+?)(?=---|$)/);
+             const explanationMatch = section.match(/### (?:Explicación Pedagógica|Explicación|Explanation|Info-Tarjeta|📊 Info-Tarjeta)\s+([\s\S]+?)(?=---|##|$)/i);
              const explanation = explanationMatch ? explanationMatch[1].trim() : "Explanation pending";
 
              questions.push({

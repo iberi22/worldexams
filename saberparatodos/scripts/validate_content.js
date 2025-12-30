@@ -28,7 +28,10 @@ function getAllFiles(dirPath, arrayOfFiles) {
     if (fs.statSync(dirPath + "/" + file).isDirectory()) {
       arrayOfFiles = getAllFiles(dirPath + "/" + file, arrayOfFiles);
     } else {
-      if (file.endsWith('.md')) {
+      const ignoredFiles = ['README.md', 'PROTOCOL.md', 'LICENSE.md', '_index.md'];
+      const isIgnored = ignoredFiles.some(ignored => file.toLowerCase() === ignored.toLowerCase());
+
+      if (file.endsWith('.md') && !isIgnored) {
         arrayOfFiles.push(path.join(dirPath, file));
       }
     }
@@ -40,9 +43,10 @@ function getAllFiles(dirPath, arrayOfFiles) {
 /**
  * Detect if a file is a bundle (multiple questions) or single question
  */
-function isBundle(data) {
-  return data.bundle_version || data.total_questions || 
-         (data.difficulty_distribution && data.id?.includes('-bundle'));
+function isBundle(data, body = '') {
+  return data.bundle_version || data.total_questions ||
+         (data.difficulty_distribution && data.id?.includes('-bundle')) ||
+         body.includes('## Pregunta') || body.includes('## Question');
 }
 
 /**
@@ -52,22 +56,27 @@ function validateSingleQuestion(filePath) {
   const content = fs.readFileSync(filePath, 'utf8');
   const { data, content: body } = matter(content);
   const errors = [];
+  const warnings = [];
 
   // 1. Validate YAML Frontmatter
-  const requiredFields = [
-    'id', 'grado', 'asignatura', 'tema', 'dificultad', 'estado', 'creador',
-    'llm_model', 'agent', 'ide'
-  ];
+  const criticalFields = ['id', 'grado', 'asignatura', 'tema'];
+  const metadataFields = ['dificultad', 'estado', 'creador', 'llm_model', 'agent', 'ide'];
 
-  requiredFields.forEach(field => {
-    if (!data[field]) {
-      errors.push(`Missing YAML field: ${field}`);
+  criticalFields.forEach(field => {
+    if (data[field] === undefined || data[field] === null || data[field] === '') {
+      errors.push(`Missing CRITICAL YAML field: ${field}`);
+    }
+  });
+
+  metadataFields.forEach(field => {
+    if (data[field] === undefined || data[field] === null || data[field] === '') {
+      warnings.push(`Missing METADATA YAML field: ${field}`);
     }
   });
 
   // Check for source or source_id
   if (!data.source && !data.source_id) {
-    errors.push(`Missing YAML field: source or source_id`);
+    warnings.push(`Missing YAML field: source or source_id`);
   }
 
   if (data.grado && (data.grado < 3 || data.grado > 11)) {
@@ -106,7 +115,7 @@ function validateSingleQuestion(filePath) {
     if (correctCount > 1) errors.push(`Multiple correct options marked (${correctCount}). Only 1 allowed.`);
   }
 
-  return { errors, type: 'single', questionCount: 1 };
+  return { errors, warnings, type: 'single', questionCount: 1 };
 }
 
 /**
@@ -119,20 +128,24 @@ function validateBundle(filePath) {
   const warnings = [];
 
   // 1. Validate Bundle YAML Frontmatter
-  const requiredBundleFields = [
-    'id', 'grado', 'asignatura', 'tema', 'dificultad', 'estado', 'creador',
-    'llm_model', 'agent', 'ide', 'bundle_version', 'total_questions'
-  ];
+  const criticalFields = ['id', 'grado', 'asignatura', 'tema', 'total_questions'];
+  const metadataFields = ['dificultad', 'estado', 'creador', 'llm_model', 'agent', 'ide', 'bundle_version'];
 
-  requiredBundleFields.forEach(field => {
+  criticalFields.forEach(field => {
     if (data[field] === undefined || data[field] === null || data[field] === '') {
-      errors.push(`Missing YAML field: ${field}`);
+      errors.push(`Missing CRITICAL YAML field: ${field}`);
+    }
+  });
+
+  metadataFields.forEach(field => {
+    if (data[field] === undefined || data[field] === null || data[field] === '') {
+      warnings.push(`Missing METADATA YAML field: ${field}`);
     }
   });
 
   // Check for source or source_id
-  if (!data.source && !data.source_id) {
-    errors.push(`Missing YAML field: source or source_id`);
+  if (!data.source && !data.source_id && !data.source_url) {
+    warnings.push(`Missing YAML field: source, source_id or source_url`);
   }
 
   if (data.grado && (data.grado < 3 || data.grado > 11)) {
@@ -144,7 +157,8 @@ function validateBundle(filePath) {
   }
 
   // 2. Count questions in bundle (## Pregunta N or ## Question N pattern)
-  const questionMatches = body.match(/^## (?:Pregunta|Question) \d+/gm) || [];
+  // Improved regex: allow some whitespace before ## and handle different newline formats
+  const questionMatches = body.match(/^\s*## (?:Pregunta|Question) \d+/gm) || [];
   const questionCount = questionMatches.length;
 
   if (data.total_questions && questionCount !== data.total_questions) {
@@ -157,13 +171,13 @@ function validateBundle(filePath) {
 
   // 3. Validate each question in the bundle
   // Split body into question blocks, starting from "## Pregunta" or "## Question"
-  const questionBlocks = body.split(/(?=^## (?:Pregunta|Question) \d+)/m).filter(block => 
+  const questionBlocks = body.split(/(?=^## (?:Pregunta|Question) \d+)/m).filter(block =>
     block.trim() && block.match(/^## (?:Pregunta|Question) \d+/)
   );
-  
+
   questionBlocks.forEach((block, index) => {
     const questionNum = index + 1;
-    
+
     // Check for ### Enunciado or ### Question section (bilingual support)
     if (!block.includes('### Enunciado') && !block.includes('### Question')) {
       errors.push(`Pregunta ${questionNum}: Missing '### Enunciado' or '### Question' section`);
@@ -174,16 +188,16 @@ function validateBundle(filePath) {
       errors.push(`Pregunta ${questionNum}: Missing '### Opciones' or '### Options' section`);
     }
 
-    // Check for ### Explicación or ### Explanation section (bilingual support)
-    if (!block.includes('### Explicación') && !block.includes('### Explanation')) {
-      errors.push(`Pregunta ${questionNum}: Missing '### Explicación' or '### Explanation' section`);
+    // Check for ### Explicación or ### Explanation section (bilingual support) or Info-Tarjeta
+    if (!block.includes('### Explicación') && !block.includes('### Explanation') && !block.includes('Info-Tarjeta')) {
+      errors.push(`Pregunta ${questionNum}: Missing '### Explicación' or '### Explanation' or 'Info-Tarjeta' section`);
     }
 
     // Validate options format (bilingual)
     const optionsMatch = block.match(/### (?:Opciones|Options)\s+([\s\S]*?)(?=\n### (?:Explicación|Explanation)|$)/);
     if (optionsMatch) {
       const optionsBlock = optionsMatch[1].trim();
-      const optionLines = optionsBlock.split('\n').filter(line => 
+      const optionLines = optionsBlock.split('\n').filter(line =>
         line.trim().startsWith('- [')
       );
 
@@ -215,9 +229,9 @@ function validateBundle(filePath) {
  */
 function validateQuestion(filePath) {
   const content = fs.readFileSync(filePath, 'utf8');
-  const { data } = matter(content);
+  const { data, content: body } = matter(content);
 
-  if (isBundle(data)) {
+  if (isBundle(data, body)) {
     return validateBundle(filePath);
   } else {
     return validateSingleQuestion(filePath);

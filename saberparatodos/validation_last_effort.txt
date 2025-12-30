@@ -1,0 +1,1615 @@
+
+> saberparatodos@0.2.4 validate
+> node scripts/validate_content.js
+
+[34mStarting Content Validation...[0m
+
+[32mÔ£à src\content\questions\chile\competencia-lectora\grado-10\CL-LEC-10-narrativo-001-bundle.md[0m ­ƒôª (11 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\chile\competencia-matematica\grado-9\CL-MAT-09-proporcionalidad-001-bundle.md[0m ­ƒôª (11 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-10\CO-BIO-10-ECOLOGIA-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-10\CO-BIO-10-METABOLISMO-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-10\CO-FIS-10-CINEMATICA-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-10\CO-FIS-10-DINAMICA-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-10\CO-QUI-10-NOMENCLATURA-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-10\CO-QUI-10-REACCIONES-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-11\CO-BIO-11-celula-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-11\CO-BIO-11-celular-001-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-11\CO-BIO-11-ecologia-002-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-11\CO-BIO-11-evolucion-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-11\CO-BIO-11-genetica-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-11\CO-CIE-11-biologia-001-bundle.md[0m ­ƒôª (3 preguntas)
+   [33mÔÜá[0m Question count mismatch: YAML says 7, found 3
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-11\CO-CIE-11-fisica-001-bundle.md[0m ­ƒôª (3 preguntas)
+   [33mÔÜá[0m Question count mismatch: YAML says 7, found 3
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-11\CO-FIS-11-cinematica-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-11\CO-FIS-11-circuitos-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-11\CO-FIS-11-energia-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-11\CO-FIS-11-mecanica-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-11\CO-FIS-11-ondas-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-11\CO-NAT-11-FIS-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-11\CO-NAT-11-QUI-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-11\CO-QUI-11-atomica-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-11\CO-QUI-11-enlaces-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-11\CO-QUI-11-estequiometria-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-11\CO-QUI-11-estequiometria-002-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-11\CO-QUI-11-gases-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-11\CO-QUI-11-indagacion-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-3\CO-CIE-3-agua-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-3\CO-CIE-3-aire-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-3\CO-CIE-3-animales-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-3\CO-CIE-3-clima-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-3\CO-CIE-3-cuerpohumano-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-3\CO-CIE-3-dianoche-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-3\CO-CIE-3-plantas-001-bundle.md[0m ­ƒôª (11 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-3\CO-CIE-3-sentidos-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-3\CO-CIE-3-seresvivos-001-bundle.md[0m ­ƒôª (11 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-3\CO-CIE-3-suelo-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-5\CO-CIE-5-ecosistemas-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-5\CO-CIE-5-ecosistemas-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-5\CO-NAT-05-ECOSISTEMAS-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-6\CO-CNAT-6-AGRO-001-bundle.md[0m ­ƒôª (5 preguntas)
+   [33mÔÜá[0m Question count mismatch: YAML says 10, found 5
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-6\CO-CNAT-6-BIOETICA-001-bundle.md[0m ­ƒôª (5 preguntas)
+   [33mÔÜá[0m Question count mismatch: YAML says 10, found 5
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-6\CO-CNAT-6-BIOMIM-001-bundle.md[0m ­ƒôª (5 preguntas)
+   [33mÔÜá[0m Question count mismatch: YAML says 10, found 5
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-6\CO-CNAT-6-BIOTECH-001-bundle.md[0m ­ƒôª (10 preguntas)
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-6\CO-CNAT-6-CLIMA-001-bundle.md[0m ­ƒôª (10 preguntas)
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-6\CO-CNAT-6-CUANTICA-001-bundle.md[0m ­ƒôª (10 preguntas)
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-6\CO-CNAT-6-ENERGIA-001-bundle.md[0m ­ƒôª (5 preguntas)
+   [33mÔÜá[0m Question count mismatch: YAML says 10, found 5
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-6\CO-CNAT-6-ESPACIO-001-bundle.md[0m ­ƒôª (10 preguntas)
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-6\CO-CNAT-6-KESSLER-001-bundle.md[0m ­ƒôª (5 preguntas)
+   [33mÔÜá[0m Question count mismatch: YAML says 10, found 5
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-6\CO-CNAT-6-NANO-001-bundle.md[0m ­ƒôª (5 preguntas)
+   [33mÔÜá[0m Question count mismatch: YAML says 10, found 5
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-6\CO-CNAT-6-NEURO-001-bundle.md[0m ­ƒôª (10 preguntas)
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-6\la-celula\CO-CN-06-celula-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-7\CO-CIE-7-cuerpo-sistemas-001-bundle.md[0m ­ƒôª (11 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-7\CO-CIE-7-ecosistemas-flujo-001-bundle.md[0m ­ƒôª (11 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-7\CO-CIE-7-materia-001-bundle.md[0m ­ƒôª (11 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-7\CO-CNAT-7-CELULA-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-7\CO-CNAT-7-ECOSISTEMAS-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-7\CO-NAT-07-CELULA-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-8\CO-CNAT-8-FLUIDOS-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-8\CO-CNAT-8-GASES-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-8\CO-CNAT-8-NERVIOSO-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-8\CO-CNAT-8-QUIMICA-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-8\CO-CNAT-8-REPRODUCCION-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-9\CO-CIE-9-ecologia-ciclos-001-bundle.md[0m ­ƒôª (11 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-9\CO-CIE-9-evolucion-001-bundle.md[0m ­ƒôª (11 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-9\CO-CIE-9-fisica-movimiento-001-bundle.md[0m ­ƒôª (11 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-9\CO-CIE-9-genetica-001-bundle.md[0m ­ƒôª (11 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-9\CO-CIE-9-PH-ACIDEZ-001-bundle.md[0m ­ƒôª (11 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-9\CO-CIE-9-quimica-tabla-periodica-001-bundle.md[0m ­ƒôª (11 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-9\CO-CIE-9-SISTEMA-NERVIOSO-001-bundle.md[0m ­ƒôª (11 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-9\CO-CIE-9-TAXONOMIA-001-bundle.md[0m ­ƒôª (11 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ciencias-naturales\grado-9\genetica\CO-CN-09-genetica-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+[32mÔ£à src\content\questions\colombia\ingles\grado-10\CO-ING-10-CONDITIONAL-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\ingles\grado-10\CO-ING-10-CONDITIONAL-002-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\ingles\grado-10\CO-ING-10-PASSIVE-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\ingles\grado-10\CO-ING-10-PERFECT-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\ingles\grado-10\CO-ING-10-PHRASAL-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\ingles\grado-10\CO-ING-10-READING-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part1-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part1-002-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part1-003-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part1-004-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part1-005-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part1-006-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part1-007-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part1-008-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part1-009-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part1-010-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part1-011-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part1-012-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part1-013-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part1-014-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part1-015-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part1-signs-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part2-002-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[31mÔØî src\content\questions\colombia\ingles\grado-11\CO-ING-11-part2-003-bundle.md[0m (bundle)
+   [31mÔ£ù[0m Pregunta 6: Multiple correct options marked (2). Only 1 allowed.
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part2-004-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part2-matching-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part3-002-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part3-003-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part3-004-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part3-conversations-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part4-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part4-grammar-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part5-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part5-002-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part5-003-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part5-literal-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part6-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part6-002-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part6-003-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part6-inference-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part7-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part7-002-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part7-003-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-part7-cloze-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ingles\grado-11\CO-ING-11-reading-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ingles\grado-3\CO-ING-3-animals-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\ingles\grado-3\CO-ING-3-beginners-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\ingles\grado-3\CO-ING-3-bodyparts-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\ingles\grado-3\CO-ING-3-classroom-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\ingles\grado-3\CO-ING-3-colors-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\ingles\grado-3\CO-ING-3-family-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\ingles\grado-3\CO-ING-3-food-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\ingles\grado-3\CO-ING-3-greetings-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\ingles\grado-3\CO-ING-3-numbers-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\ingles\grado-3\CO-ING-3-vocabulary-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\ingles\grado-5\CO-ING-5-ANIMALS-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\ingles\grado-5\CO-ING-5-BODY-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\ingles\grado-5\CO-ING-5-COLORS-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\ingles\grado-5\CO-ING-5-FAMILY-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\ingles\grado-5\CO-ING-5-FOOD-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\ingles\grado-5\CO-ING-5-GREETINGS-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\ingles\grado-5\CO-ING-5-NUMBERS-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\ingles\grado-5\CO-ING-5-VERBS-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\ingles\grado-6\CO-ING-06-VOCABULARY-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ingles\grado-6\CO-ING-6-RUTINA-001-bundle.md[0m ­ƒôª (10 preguntas)
+[32mÔ£à src\content\questions\colombia\ingles\grado-6\daily-routine\CO-ING-06-rutina-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+[32mÔ£à src\content\questions\colombia\ingles\grado-7\CO-ING-07-GRAMMAR-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ingles\grado-7\CO-ING-07-VOCABULARY-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ingles\grado-7\CO-ING-7-rutina-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\ingles\grado-7\CO-ING-7-vocabulary-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\ingles\grado-8\CO-ING-8-AMBIENTE-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\ingles\grado-8\CO-ING-8-COMPARATIVOS-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\ingles\grado-8\CO-ING-8-FUTURO-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\ingles\grado-8\CO-ING-8-LECTURA-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\ingles\grado-8\CO-ING-8-MODALS-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\ingles\grado-8\CO-ING-8-PASADO-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\ingles\grado-9\CO-ING-9-grammar-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\ingles\grado-9\future-tense\CO-ING-09-future-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-10\CO-LEC-10-ARGUMENTACION-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-10\CO-LEC-10-BOOMVAN-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-10\CO-LEC-10-CLASICA-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-10\CO-LEC-10-ENSAYO-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-10\CO-LEC-10-FILOSOFIA-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-10\CO-LEC-10-MEDIEVAL-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-10\CO-LEC-10-MEDIOS-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-10\CO-LEC-10-OROSPA-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-10\CO-LEC-10-ROMANREAL-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-10\CO-LEC-10-SINTAXIS-002-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-11\CO-LEC-11-ARG-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-11\CO-LEC-11-BIOETICA-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-11\CO-LEC-11-columna-opinion-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-11\CO-LEC-11-comprension-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-11\CO-LEC-11-DISCON-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-11\CO-LEC-11-discontinuos-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-11\CO-LEC-11-discontinuos-002-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-11\CO-LEC-11-ECONOMIA-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-11\CO-LEC-11-ensayo-filosofico-002-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-11\CO-LEC-11-EXISTENCIAL-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-11\CO-LEC-11-FIL-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-11\CO-LEC-11-filosofia-002-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-11\CO-LEC-11-filosofia-003-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-11\CO-LEC-11-inferencia-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-11\CO-LEC-11-informativo-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-11\CO-LEC-11-KAFKA-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-11\CO-LEC-11-LIT-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-11\CO-LEC-11-literario-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-11\CO-LEC-11-literatura-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-11\CO-LEC-11-POLITICA-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-11\CO-LEC-11-texto-literario-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-11\CO-LEC-11-texto-literario-002-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-11\CO-LEC-11-textos-argumentativos-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-11\CO-LEC-11-textos-filosoficos-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-11\CO-LEC-11-textos-informativos-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-11\CO-LEC-11-textos-literarios-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-11\CO-LEC-11-VANGUARD-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-3\CO-LEC-3-cartas-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-3\CO-LEC-3-cuentos-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-3\CO-LEC-3-fabulas-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-3\CO-LEC-3-inferencias-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-3\CO-LEC-3-instrucciones-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-3\CO-LEC-3-oraciones-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-3\CO-LEC-3-personajes-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-3\CO-LEC-3-poemas-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-3\CO-LEC-3-secuencias-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-3\CO-LEC-3-vocabulario-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-5\CO-LEC-05-COMPRENSION-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-5\CO-LEC-5-cuentos-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-5\CO-LEC-5-informativo-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-6\CO-LEC-6-DEEPFAKES-001-bundle.md[0m ­ƒôª (10 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-6\CO-LEC-6-MITOS-001-bundle.md[0m ­ƒôª (10 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-6\CO-LEC-6-REALIDAD-001-bundle.md[0m ­ƒôª (5 preguntas)
+   [33mÔÜá[0m Question count mismatch: YAML says 10, found 5
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-7\CO-LEC-07-ARGUMENTACION-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-7\CO-LEC-07-COMPRENSION-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-7\CO-LEC-7-tipologia-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-8\CO-LEC-8-ARGUMENTA-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-8\CO-LEC-8-ARGUMENTA-002-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-8\CO-LEC-8-ARGUMENTA-003-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-8\CO-LEC-8-EXPOSITI-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-8\CO-LEC-8-EXPOSITI-002-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 10
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-8\CO-LEC-8-EXPOSITI-003-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-8\CO-LEC-8-NARRATIVA-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-8\CO-LEC-8-NARRATIVA-002-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\lectura-critica\grado-9\CO-LEC-9-argumentacion-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\lenguaje\grado-3\CO-LEN-3-lectura-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\lenguaje\grado-5\CO-LEN-5-ADJETIVOS-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\lenguaje\grado-5\CO-LEN-5-comprension-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\lenguaje\grado-5\CO-LEN-5-ORTOGRAFIA-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\lenguaje\grado-5\CO-LEN-5-SUSTANTIVOS-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\lenguaje\grado-5\CO-LEN-5-VERBOS-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\lenguaje\grado-6\CO-LEC-06-TIPOLOGIAS-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\lenguaje\grado-8\CO-LEN-8-GRAMATICA-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\lenguaje\grado-8\CO-LEN-8-LITERATURA-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\lenguaje\grado-8\CO-LEN-8-LITERATURA-002-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\lenguaje\grado-8\CO-LEN-8-MEDIOS-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\lenguaje\grado-8\CO-LEN-8-SEMANTICA-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\lenguaje\grado-8\CO-LEN-8-TIPOLOGIA-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-10\CO-MAT-10-CONICAS-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-10\CO-MAT-10-cuadraticas-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\matematicas\grado-10\CO-MAT-10-FUNCIONES-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-10\CO-MAT-10-funciones-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\matematicas\grado-10\CO-MAT-10-LEY-SENO-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-10\CO-MAT-10-PROBABILIDAD-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-10\CO-MAT-10-RECTA-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-10\CO-MAT-10-TRIGONOMETRIA-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-10\trigonometria\CO-MAT-10-trigonometria-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-11\algebra\CO-MAT-11-ALG-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-11\algebra\CO-MAT-11-ALG-004-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-11\CO-MAT-11-ALG-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\matematicas\grado-11\CO-MAT-11-ALG-002-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\matematicas\grado-11\CO-MAT-11-ALG-003-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\matematicas\grado-11\CO-MAT-11-ALG-004-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\matematicas\grado-11\CO-MAT-11-ALG-005-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\matematicas\grado-11\CO-MAT-11-ALG-006-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\matematicas\grado-11\CO-MAT-11-derivadas-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\matematicas\grado-11\CO-MAT-11-derivadas-002-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\matematicas\grado-11\CO-MAT-11-derivadas-003-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\matematicas\grado-11\CO-MAT-11-EST-006-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\matematicas\grado-11\CO-MAT-11-funciones-001-bundle.md[0m ­ƒôª (3 preguntas)
+   [33mÔÜá[0m Question count mismatch: YAML says 7, found 3
+[32mÔ£à src\content\questions\colombia\matematicas\grado-11\CO-MAT-11-GEO-001-bundle.md[0m ­ƒôª (3 preguntas)
+   [33mÔÜá[0m Question count mismatch: YAML says 7, found 3
+[32mÔ£à src\content\questions\colombia\matematicas\grado-11\CO-MAT-11-GEO-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\matematicas\grado-11\CO-MAT-11-GEO-002-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\matematicas\grado-11\CO-MAT-11-GEO-003-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\matematicas\grado-11\CO-MAT-11-GEO-004-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\matematicas\grado-11\CO-MAT-11-GEO-005-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\matematicas\grado-11\CO-MAT-11-GEO-006-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\matematicas\grado-11\CO-MAT-11-geometria-mix-001-bundle.md[0m ­ƒôª (3 preguntas)
+   [33mÔÜá[0m Question count mismatch: YAML says 7, found 3
+[32mÔ£à src\content\questions\colombia\matematicas\grado-11\CO-MAT-11-logaritmos-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\matematicas\grado-11\CO-MAT-11-porcentajes-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\matematicas\grado-11\CO-MAT-11-probabilidad-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\matematicas\grado-11\CO-MAT-11-probabilidad-002-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\matematicas\grado-11\CO-MAT-11-trigonometria-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\matematicas\grado-3\CO-MAT-3-dinero-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-3\CO-MAT-3-geometria-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\matematicas\grado-3\CO-MAT-3-medidas-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-3\CO-MAT-3-multiplicacion-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\matematicas\grado-3\CO-MAT-3-numeros-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-3\CO-MAT-3-operaciones-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\matematicas\grado-3\CO-MAT-3-patrones-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-3\CO-MAT-3-problemas-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-3\CO-MAT-3-restas-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-3\CO-MAT-3-sumas-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-3\CO-MAT-3-tiempo-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-5\CO-MAT-05-FRACCIONES-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\matematicas\grado-5\CO-MAT-5-estadistica-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\matematicas\grado-5\CO-MAT-5-fracciones-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\matematicas\grado-5\CO-MAT-5-fracciones-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-5\CO-MAT-5-geometria-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\matematicas\grado-5\CO-MAT-5-geometria-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\matematicas\grado-5\CO-MAT-5-operaciones-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\matematicas\grado-6\CO-MAT-06-OPERACIONES-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\matematicas\grado-6\CO-MAT-6-ARQ-001-bundle.md[0m ­ƒôª (5 preguntas)
+   [33mÔÜá[0m Question count mismatch: YAML says 10, found 5
+[32mÔ£à src\content\questions\colombia\matematicas\grado-6\CO-MAT-6-decimales-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\matematicas\grado-6\CO-MAT-6-FRACCIONES-001-bundle.md[0m ­ƒôª (10 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-6\CO-MAT-6-IA-ETICA-001-bundle.md[0m ­ƒôª (8 preguntas)
+   [33mÔÜá[0m Question count mismatch: YAML says 10, found 8
+[32mÔ£à src\content\questions\colombia\matematicas\grado-6\CO-MAT-6-ROBOTICA-001-bundle.md[0m ­ƒôª (10 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-6\fracciones\CO-MAT-06-fracciones-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-7\CO-MAT-07-FRACCIONES-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\matematicas\grado-7\CO-MAT-07-PORCENTAJES-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\matematicas\grado-7\CO-MAT-7-ECUACIONES-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-7\CO-MAT-7-ecuaciones-intro-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\matematicas\grado-7\CO-MAT-7-enteros-operaciones-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\matematicas\grado-7\CO-MAT-7-ESTADISTICA-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-7\CO-MAT-7-fracciones-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\matematicas\grado-7\CO-MAT-7-GEOMETRIA-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-7\CO-MAT-7-proporcionalidad-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\matematicas\grado-7\CO-MAT-7-RACIONALES-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-7\proporciones\CO-MAT-07-proporciones-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-8\algebra-basica\CO-MAT-08-algebra-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-8\CO-MAT-8-ALGEBRA-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-8\CO-MAT-8-ECUACIONES-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-8\CO-MAT-8-ecuaciones-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\matematicas\grado-8\CO-MAT-8-ESTADISTICA-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-8\CO-MAT-8-GEOMETRIA-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-8\CO-MAT-8-NUMEROS-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-8\CO-MAT-8-PROBABILIDAD-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-9\CO-MAT-9-ALGEBRA-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-9\CO-MAT-9-ALGEBRA-002-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-9\CO-MAT-9-ESTADISTICA-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-9\CO-MAT-9-FUNCIONES-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-9\CO-MAT-9-FUNCIONES-002-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-9\CO-MAT-9-geometria-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-9\CO-MAT-9-GEOMETRIA-002-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-9\CO-MAT-9-pitagoras-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\matematicas\grado-9\CO-MAT-9-PROBABILIDAD-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\matematicas\grado-9\ecuaciones-lineales\CO-MAT-09-ecuaciones-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-10\CO-SOC-10-COLOMBIA-ECON-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-10\CO-SOC-10-CONSTITUCION-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-10\CO-SOC-10-ECONOMIA-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-10\CO-SOC-10-GLOBAL-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-10\CO-SOC-10-POLITICA-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-10\CO-SOC-10-VIOLENCIA-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-ambiente-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-aperturaeconomica-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-bananeras-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-cambioclimatico-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-ciudadanas-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-ciudadania-001-bundle.md[0m ­ƒôª (4 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Question count mismatch: YAML says 7, found 4
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-conflictocontemporaneo-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-constitucion-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-constitucion91-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-demografia-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-derechoshumanos-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-economia-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-economianaranja-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-elecciones-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-estadolaico-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-etnias-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-fronteras-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-geografia-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-geografiafisica-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-geopolitica-002-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-globalizacioncultural-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-gobiernoescolar-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-guerrafria-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-historia-001-bundle.md[0m ­ƒôª (4 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Question count mismatch: YAML says 7, found 4
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-historia-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-HR-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-inclusion-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-informalidad-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-macroeconomia-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-mecanismos-001-bundle.md[0m ­ƒôª (4 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Question count mismatch: YAML says 7, found 4
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-mecanismosproteccion-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-organismoscontrol-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-organismosinternacionales-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-poderpolitico-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-procesoPaz-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-revolucionindustrial-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-sigloXIX-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-sistemaspoliticos-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-SOV-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-tutela-001-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-TUTELA-002-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\CO-SOC-11-violencia-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\SOC01647-01-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\SOC06513-01-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\SOC07755-01-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\SOC08516-01-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\SOC21732-01-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\SOC30639-01-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\SOC35240-01-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\SOC45952-01-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\SOC56937-01-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\SOC80986-01-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\SOC82159-01-bundle.md[0m ­ƒôª (8 preguntas)
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 8
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\SOC85777-01-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\SOC93999-01-bundle.md[0m ­ƒôª (8 preguntas)
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 8
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-11\SOC96000-01-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-3\CO-SOC-3-barrio-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-3\CO-SOC-3-comunidad-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-3\CO-SOC-3-entornofisico-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-3\CO-SOC-3-familia-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-3\CO-SOC-3-mapa-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-3\CO-SOC-3-municipio-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-3\CO-SOC-3-normas-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-3\CO-SOC-3-oficios-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-3\CO-SOC-3-servicios-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-3\CO-SOC-3-tradiciones-001-bundle.md[0m ­ƒôª (7 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-5\CO-SOC-5-ciudadania-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-5\CO-SOC-5-indigenas-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-5\CO-SOC-5-regiones-naturales-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-6\CO-SOC-6-BLOCKCHAIN-001-bundle.md[0m ­ƒôª (10 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-6\CO-SOC-6-COMP-001-bundle.md[0m ­ƒôª (5 preguntas)
+   [33mÔÜá[0m Question count mismatch: YAML says 10, found 5
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-6\CO-SOC-6-DATOS-001-bundle.md[0m ­ƒôª (10 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-6\CO-SOC-6-DEMOCRACIA-001-bundle.md[0m ­ƒôª (5 preguntas)
+   [33mÔÜá[0m Question count mismatch: YAML says 10, found 5
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-6\CO-SOC-6-DEMOCRACIA-002-bundle.md[0m ­ƒôª (10 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-6\CO-SOC-6-historia-001-v3-bundle.md[0m ­ƒôª (10 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-7\CO-SOC-7-edad-media-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-7\CO-SOC-7-geografia-europa-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-8\CO-SOC-8-AMBIENTE-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-8\CO-SOC-8-COLOMBIA-XIX-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-8\CO-SOC-8-DEMOGRAFIA-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-8\CO-SOC-8-DERECHOS-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-8\CO-SOC-8-INDEPENDENCIA-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-8\CO-SOC-8-REVOLUCIONES-001-bundle.md[0m ­ƒôª (11 preguntas)
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-9\CO-SOC-9-colombia-siglo-xx-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-9\CO-SOC-9-demografia-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-9\CO-SOC-9-demografia-colombia-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-9\CO-SOC-9-derechos-humanos-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-9\CO-SOC-9-dictaduras-latam-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-9\CO-SOC-9-economia-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-9\CO-SOC-9-economia-sectores-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-9\CO-SOC-9-entreguerras-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-9\CO-SOC-9-geografia-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-9\CO-SOC-9-globalizacion-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-9\CO-SOC-9-guerra-fria-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-9\CO-SOC-9-imperialismo-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-9\CO-SOC-9-independencia-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-9\CO-SOC-9-medio-ambiente-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-9\CO-SOC-9-organismos-internacionales-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-9\CO-SOC-9-participacion-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-9\CO-SOC-9-primera-guerra-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-9\CO-SOC-9-revolucion-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-9\CO-SOC-9-revolucion-rusa-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\sociales-ciudadanas\grado-9\CO-SOC-9-segunda-guerra-001-bundle.md[0m ­ƒôª (7 preguntas)
+   [33mÔÜá[0m Missing METADATA YAML field: dificultad
+   [33mÔÜá[0m Missing METADATA YAML field: llm_model
+   [33mÔÜá[0m Missing METADATA YAML field: agent
+   [33mÔÜá[0m Missing METADATA YAML field: ide
+   [33mÔÜá[0m Missing METADATA YAML field: bundle_version
+   [33mÔÜá[0m Question count mismatch: YAML says 11, found 7
+[32mÔ£à src\content\questions\colombia\tecnologia-informatica\grado-7\CO-TEC-7-ciudadania-digital-001-bundle.md[0m ­ƒôª (7 preguntas)
+
+[34mÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉ[0m
+[34mSummary:[0m
+[34mÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉ[0m
+Total Files:      428
+  ­ƒôª Bundles:     428
+  ­ƒôä Single:      0
+Total Questions:  [36m3754[0m
+Passed:           [32m427[0m
+Failed:           [31m1[0m
+
+[31mÔØî Validation Failed. Please fix the errors above.[0m
