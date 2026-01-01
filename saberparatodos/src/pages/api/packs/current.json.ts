@@ -3,6 +3,41 @@ import { getCollection } from 'astro:content';
 import { getPackId, getNextRotationDate, seededShuffle, ROTATION_DAYS, QUESTIONS_PER_SUBJECT } from '../../../utils/rotation-logic';
 import { getAllQuestionsFromBundle, type QuestionEntry } from '../../../utils/questionParser';
 
+/**
+ * Normalize subject names to prevent duplicates
+ */
+function normalizeSubject(subject: string): string {
+  const s = subject.toLowerCase()
+    .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+    .replace(/[-_\/]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+
+  const mapping: Record<string, string> = {
+    'matematicas': 'matematicas',
+    'ingles': 'ingles',
+    'ciencias naturales': 'ciencias_naturales',
+    'ciencias naturales fisica': 'ciencias_naturales',
+    'ciencias naturales quimica': 'ciencias_naturales',
+    'ciencias naturales biologia': 'ciencias_naturales',
+    'fisica': 'ciencias_naturales',
+    'quimica': 'ciencias_naturales',
+    'biologia': 'ciencias_naturales',
+    'lectura critica': 'lectura_critica',
+    'lectura critica filosofia': 'lectura_critica',
+    'filosofia': 'lectura_critica',
+    'sociales y ciudadanas': 'sociales_ciudadanas',
+    'sociales ciudadanas': 'sociales_ciudadanas',
+    'sociales': 'sociales_ciudadanas',
+    'lenguaje': 'lenguaje',
+    'tecnologia e informatica': 'tecnologia',
+    'tecnologia informatica': 'tecnologia',
+    'tecnologia': 'tecnologia',
+  };
+
+  return mapping[s] || s.replace(/ /g, '_');
+}
+
 export const GET: APIRoute = async ({ request }) => {
   // 1. Calculate Time-Based Seed
   const packId = getPackId();
@@ -41,7 +76,8 @@ export const GET: APIRoute = async ({ request }) => {
     const questionsBySubject: Record<string, any[]> = {};
 
     for (const bundle of gradeBundles) {
-      const subject = bundle.data.asignatura.toLowerCase();
+      // 🆕 Normalize subject name to prevent duplicates
+      const subject = normalizeSubject(bundle.data.asignatura);
       if (!questionsBySubject[subject]) {
         questionsBySubject[subject] = [];
       }

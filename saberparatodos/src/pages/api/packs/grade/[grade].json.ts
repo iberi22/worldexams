@@ -1,7 +1,43 @@
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
-import { getPackId, getNextRotationDate, seededShuffle, ROTATION_DAYS } from '../../../../utils/rotation-logic';
+import { getPackId, getNextRotationDate, seededShuffle, ROTATION_DAYS, QUESTIONS_PER_SUBJECT, MAX_WEEKLY_QUESTIONS } from '../../../../utils/rotation-logic';
 import { getAllQuestionsFromBundle, type QuestionEntry } from '../../../../utils/questionParser';
+
+/**
+ * Normalize subject names to prevent duplicates
+ * Maps all variants to a canonical form
+ */
+function normalizeSubject(subject: string): string {
+  const s = subject.toLowerCase()
+    .normalize('NFD').replace(/[\u0300-\u036f]/g, '') // Remove accents
+    .replace(/[-_\/]/g, ' ') // Replace separators with space
+    .replace(/\s+/g, ' ') // Compress multiple spaces
+    .trim();
+
+  const mapping: Record<string, string> = {
+    'matematicas': 'matematicas',
+    'ingles': 'ingles',
+    'ciencias naturales': 'ciencias_naturales',
+    'ciencias naturales fisica': 'ciencias_naturales',
+    'ciencias naturales quimica': 'ciencias_naturales',
+    'ciencias naturales biologia': 'ciencias_naturales',
+    'fisica': 'ciencias_naturales',
+    'quimica': 'ciencias_naturales',
+    'biologia': 'ciencias_naturales',
+    'lectura critica': 'lectura_critica',
+    'lectura critica filosofia': 'lectura_critica',
+    'filosofia': 'lectura_critica',
+    'sociales y ciudadanas': 'sociales_ciudadanas',
+    'sociales ciudadanas': 'sociales_ciudadanas',
+    'sociales': 'sociales_ciudadanas',
+    'lenguaje': 'lenguaje',
+    'tecnologia e informatica': 'tecnologia',
+    'tecnologia informatica': 'tecnologia',
+    'tecnologia': 'tecnologia',
+  };
+
+  return mapping[s] || s.replace(/ /g, '_');
+}
 
 /**
  * Dynamic Grade-Specific Pack Endpoint
@@ -52,7 +88,8 @@ export const GET: APIRoute = async ({ params }) => {
   const questionsBySubject: Record<string, any[]> = {};
 
   for (const bundle of gradeBundles) {
-    const subject = bundle.data.asignatura.toLowerCase();
+    // 🆕 Normalize subject name to prevent duplicates
+    const subject = normalizeSubject(bundle.data.asignatura);
     if (!questionsBySubject[subject]) {
       questionsBySubject[subject] = [];
     }
@@ -75,10 +112,8 @@ export const GET: APIRoute = async ({ params }) => {
     const seed = `${packId}-${grade}-${subject}`;
     const shuffled = seededShuffle(pool, seed);
 
-    // 🆕 Limit to 15 per subject for fast initial load (max ~75 questions per grade)
-    // This is for Blog preview; full content loads on demand
-    const MAX_QUESTIONS_PER_SUBJECT_FAST = 15;
-    const selected = shuffled.slice(0, MAX_QUESTIONS_PER_SUBJECT_FAST);
+    // 🆕 Use global limit: 20 per subject for ~100 total questions per grade
+    const selected = shuffled.slice(0, QUESTIONS_PER_SUBJECT);
 
     // Add to final list with metadata
     selected.forEach(q => {

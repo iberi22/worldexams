@@ -69,24 +69,11 @@
     errorMessage = '';
 
     try {
-      const response = await fetch('/api/report_problem', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json'
-        },
-        body: JSON.stringify({
-          questionId,
-          reportType,
-          message: reportDescription,
-          userContext: `ResultsView - ${bundleId}`
-        })
-      });
+      const reportLabel = reportOptions.find(r => r.type === reportType)?.label || 'Reporte';
+      const text = `Hola, quiero reportar un ${reportLabel} en la pregunta ${questionId}.\n\nDetalle: ${reportDescription}`;
+      const telegramUrl = `https://t.me/worldexams_bot?text=${encodeURIComponent(text)}`;
 
-      if (!response.ok) {
-        throw new Error('Error al enviar el reporte');
-      }
-
-      const result = await response.json();
+      window.open(telegramUrl, '_blank');
 
       submitted = true;
       isSubmitting = false;

@@ -200,17 +200,28 @@ function formatSubjectName(subject: string): string {
 function transformQuestion(apiQuestion: APIQuestion | any, grade: number, subject: string): AppQuestion {
   // 🆕 Safely extract options, handling both formats
   const rawOptions = apiQuestion.options || [];
-  const options = rawOptions.map((opt: any, index: number) => ({
-    id: opt.letter || opt.label || String.fromCharCode(65 + index), // A, B, C, D fallback
-    text: opt.text || ''
-  }));
+  const options = rawOptions.map((opt: any, index: number) => {
+    let id = opt.letter || opt.label || String.fromCharCode(65 + index);
+    // 🆕 Normalize ID: "A) " -> "A"
+    if (typeof id === 'string') {
+      id = id.replace(/\)\s*$/, '').trim();
+    }
+    return {
+      id: id,
+      text: opt.text || ''
+    };
+  });
 
   // 🆕 Find correct answer - handle both formats
   let correctOptionId = apiQuestion.correct_answer;
   if (!correctOptionId) {
     // Try to find from options with isCorrect or is_correct
     const correctOpt = rawOptions.find((opt: any) => opt.isCorrect || opt.is_correct);
-    correctOptionId = correctOpt?.letter || correctOpt?.label || 'A';
+    let id = correctOpt?.letter || correctOpt?.label || 'A';
+    if (typeof id === 'string') {
+      id = id.replace(/\)\s*$/, '').trim();
+    }
+    correctOptionId = id;
   }
 
   // 🆕 Extract bundle_id with fallback

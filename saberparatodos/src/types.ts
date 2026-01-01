@@ -46,7 +46,9 @@ export enum AppView {
   ARTICLE = 'ARTICLE',
   LOGIN = 'LOGIN',
   REGISTER = 'REGISTER',
-  LOCAL_REPORTS = 'LOCAL_REPORTS'
+  LOCAL_REPORTS = 'LOCAL_REPORTS',
+  PARTY_LOBBY = 'PARTY_LOBBY',
+  PARTY_JOIN = 'PARTY_JOIN'
 }
 
 // ============================================

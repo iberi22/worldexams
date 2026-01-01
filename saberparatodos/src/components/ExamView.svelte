@@ -1,15 +1,21 @@
 <script lang="ts">
   import { onMount, onDestroy } from 'svelte';
   import type { Question, QuestionResultData, ExamCompletionData } from '../types';
+  import { supabase } from '../lib/supabase'; // 🆕 Import Supabase
   import FlashlightCard from './FlashlightCard.svelte';
-  import AdPlaceholder from './AdPlaceholder.svelte';
   import MathRenderer from './MathRenderer.svelte';
 
   // Props
   export let onFinish: (data: ExamCompletionData, answers: Record<string | number, string>) => void;
+  export let onCancel: () => void = () => {};
   export let questions: Question[] = [];
   export let grade: number = 0;
   export let subject: string = 'General';
+
+  // Party Mode Props
+  export let partyCode: string | null = null;
+  export let partyChannel: any | null = null;
+  export let isHost: boolean = false;
 
   // Mock Data (Fallback)
   const MOCK_QUESTIONS: Question[] = [
@@ -76,9 +82,51 @@
     return safeOptions[0]?.id;
   })();
 
+  // 🆕 Party Mode Broadcast Logic
+  async function broadcastPartyState(status: 'active' | 'finished', index: number) {
+      if (!isHost || !partyCode) return;
+
+      const payload = {
+        status,
+        current_question_index: index,
+        // We could send the current question data here for faster sync
+        question_data: activeQuestions[index] || null
+      };
+
+      // 1. Update Database (Source of Truth)
+      const { error } = await supabase
+        .from('party_sessions')
+        .update(payload)
+        .eq('party_code', partyCode);
+
+      if (error) console.error('Error updating party state:', error);
+
+      // 2. Broadcast Event (Realtime)
+      if (partyChannel) {
+        partyChannel.send({
+          type: 'broadcast',
+          event: 'game_state_update',
+          payload: payload
+        });
+      }
+  }
+
+  // Effect to broadcast whenever currentIdx changes
+  $: if (isHost && partyCode && activeQuestions.length > 0) {
+      // Create a dedicated effect for broadcasting index changes
+      // Using a reactive statement that depends on currentIdx
+      // De-bounce slightly if needed, but here immediate is fine
+      // Avoid broadcasting on initial mount inside this reactive block if called manually in onMount
+  }
+
   // Persistencia
-  $: if (activeQuestions.length > 0) {
-    saveProgress();
+  // Persistencia reactiva
+  $: {
+    // Dependencias explícitas para gatillar guardado
+    const _deps = [answers, currentIdx, timeLeft, questionResults, currentStreak];
+    if (activeQuestions.length > 0) {
+      saveProgress();
+    }
   }
 
   function saveProgress() {
@@ -94,6 +142,8 @@
       timestamp: Date.now(),
       questionCount: activeQuestions.length
     };
+    // Disabled console log for storage to reduce noise
+    // console.log('💾 ExamView: Saving progress to storage', STORAGE_KEY, state);
     localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
   }
 
@@ -136,6 +186,11 @@
     }
     questionStartTime = Date.now();
 
+    // 🆕 Initial Broadcast for Party Mode
+    if (isHost && partyCode) {
+        broadcastPartyState('active', currentIdx);
+    }
+
     timer = setInterval(() => {
       if (timeLeft <= 1) {
         clearInterval(timer);
@@ -149,6 +204,10 @@
 
   onDestroy(() => {
     clearInterval(timer);
+
+    // If Host, perhaps mark as paused or finished?
+    // Usually user handles finish via handleFinish, but if unmounted abruptly:
+    // We don't do anything specific here to avoid accidental closures.
   });
 
   function formatTime(seconds: number) {
@@ -211,9 +270,15 @@
     }
 
     if (currentIdx < activeQuestions.length - 1) {
-      currentIdx += 1;
+      const nextIndex = currentIdx + 1;
+      currentIdx = nextIndex;
       questionStartTime = Date.now(); // Reset for next question
       selectedOption = answers[activeQuestions[currentIdx].id] || null;
+
+      // 🆕 Broadcast update
+      if (isHost && partyCode) {
+          broadcastPartyState('active', nextIndex);
+      }
     } else {
       handleFinish();
     }
@@ -228,6 +293,11 @@
     if (selectedOption) {
       answers = { ...answers, [question.id]: selectedOption };
       recordQuestionResult();
+    }
+
+    // 🆕 Broadcast Finish
+    if (isHost && partyCode) {
+        broadcastPartyState('finished', currentIdx);
     }
 
     // Ensure all answered questions have results
@@ -337,7 +407,7 @@
       </div>
 
       <!-- Options Grid - More Compact & Aligned -->
-      <div class="grid grid-cols-1 gap-2 sm:gap-3 w-full">
+      <div class="grid grid-cols-1 gap-2 sm:gap-3 w-full" data-testid="options-grid">
         {#if hasValidQuestion}
           {#each safeOptions as option, idx (option.id ?? `opt-${idx}`)}
             <FlashlightCard

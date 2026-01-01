@@ -44,12 +44,12 @@ export function loadAnsweredQuestions(): Set<string> {
 
     const data = JSON.parse(stored);
     const now = Date.now();
-    const SIX_DAYS_MS = 6 * 24 * 60 * 60 * 1000;
+    const EXPIRY_MS = 14 * 24 * 60 * 60 * 1000;
     const validIds = new Set<string>();
 
     if (data.answeredTimestamps) {
       for (const [id, ts] of Object.entries(data.answeredTimestamps)) {
-        if (now - (ts as number) < SIX_DAYS_MS) {
+        if (now - (ts as number) < EXPIRY_MS) {
           validIds.add(id);
         }
       }

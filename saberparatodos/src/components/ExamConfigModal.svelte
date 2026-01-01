@@ -139,18 +139,20 @@
           </button>
 
           <button
-            class="py-3 px-4 rounded border transition-all duration-200 flex flex-col items-center gap-2 bg-white/5 border-white/10 text-white/40 cursor-not-allowed relative overflow-hidden group"
-            disabled
+            class="py-3 px-4 rounded border transition-all duration-200 flex flex-col items-center gap-2 {mode === 'PARTY' ? 'bg-purple-600/40 border-purple-500 text-white' : 'bg-white/5 border-white/10 hover:bg-white/10 text-white/60'}"
+            on:click={() => {
+              mode = 'PARTY';
+              const params = new URLSearchParams();
+              if (subject) params.set('subject', subject);
+              params.set('grade', currentGrade.toString());
+              params.set('questions', questionCount.toString());
+              window.location.href = `/party?${params.toString()}`;
+            }}
           >
-            <svg class="w-6 h-6 opacity-40" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z" />
             </svg>
-            <span class="text-xs font-bold uppercase opacity-60">Party Mode</span>
-
-            <!-- Coming Soon Overlay -->
-            <div class="absolute inset-0 flex items-center justify-center bg-black/40 font-mono text-[10px] text-[#FCD116] uppercase tracking-widest rotate-12 backdrop-blur-[0.5px]">
-                Coming Soon
-            </div>
+            <span class="text-xs font-bold uppercase">Party Mode</span>
           </button>
         </div>
       </div>

@@ -1156,7 +1156,7 @@
                   Este análisis y las preguntas utilizadas son generadas por modelos de IA. Aunque buscamos la máxima precisión, pueden contener errores o desajustes.
                 </p>
                 <button
-                  on:click={() => window.open('https://forms.gle/your-feedback-form', '_blank')}
+                  on:click={() => window.open('https://t.me/worldexams_bot', '_blank')}
                   class="mt-6 text-[10px] font-black uppercase tracking-widest text-emerald-400 hover:text-emerald-300 transition-colors flex items-center gap-2 mx-auto border border-emerald-500/20 px-4 py-2 rounded-xl bg-emerald-500/5 hover:bg-emerald-500/10"
                 >
                   <svg class="w-3 h-3" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 8h10M7 12h4m1 8l-4-4H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-3l-4 4z" /></svg>

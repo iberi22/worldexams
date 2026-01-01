@@ -7,7 +7,8 @@ import { createHash } from 'node:crypto'; // Use node:crypto effectively via nod
 
 // Configuration
 export const ROTATION_DAYS = 5;
-export const QUESTIONS_PER_SUBJECT = 100; // Max questions per subject
+export const MAX_WEEKLY_QUESTIONS = 100; // 🆕 Total limit per grade per week
+export const QUESTIONS_PER_SUBJECT = 20; // ~100 / 5 subjects = 20 per subject
 
 // Types
 export interface PackMetadata {
