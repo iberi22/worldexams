@@ -8,7 +8,6 @@
   import IdentityRegistration from './IdentityRegistration.svelte';
   import FlashlightCard from './FlashlightCard.svelte';
   import GradeSelector from './GradeSelector.svelte';
-  import SubjectSelector from './SubjectSelector.svelte';
   import ResultsView from './ResultsView.svelte';
   import AdvancedSearch from './AdvancedSearch.svelte';
   import MemoryStatus from './MemoryStatus.svelte';
@@ -28,7 +27,7 @@
 
   import BlogView from './BlogView.svelte';
   import ArticleView from './ArticleView.svelte';
-  import { fetchAllQuestionsForGrade, getAvailableSubjects, fetchQuestions } from '../lib/api-service'; // Added fetchQuestions
+  import { fetchAllQuestionsForGrade, getAvailableSubjects, fetchQuestions, fetchEnglishQuestionsAllGrades } from '../lib/api-service'; // Added fetchEnglishQuestionsAllGrades
   import { cacheService, generateRandomExam, getRecommendedExamSize } from '../lib/cache-service'; // Cache service
   import { filterByPlan } from '../utils/questionParser';
   import { generateSmartExam } from '../lib/smart-exam-service'; // Smart Service
@@ -99,6 +98,10 @@
 
   function setView(newView) {
     view = newView;
+    // Clear exam cache when going back to landing or selection to avoid stale results
+    if (newView === AppView.LANDING || newView === AppView.SUBJECT_SELECTION) {
+      generatedExamQuestions = null;
+    }
   }
 
   // Derived: Filtered questions for current grade
@@ -197,6 +200,18 @@
     examConfig = config;
     MAX_EXAM_QUESTIONS = config.count;
 
+    // 🎯 Update App state with values from modal (important!)
+    if (config.subject) selectedSubject = config.subject;
+    // 🆕 FIX: Use explicit check for undefined, not truthy (grade=0 is valid for English Diagnostic)
+    if (config.grade !== undefined) selectedGrade = config.grade;
+
+    console.log('🎯 Exam config received:', {
+      subject: config.subject,
+      grade: config.grade,
+      mode: config.mode,
+      count: config.count
+    });
+
     // Party Mode - partyCode is already created by modal
     if (config.mode === 'PARTY' && config.partyCode) {
       partyCode = config.partyCode;
@@ -218,9 +233,12 @@
 
       if (config.isHost) {
         // Host starts the exam
+        console.log('🎯 Host detected, calling handlePartyStart()...');
         await handlePartyStart();
+        console.log('✅ handlePartyStart() completed');
       } else {
         // Guest waits in player view
+        console.log('👥 Guest detected, waiting for start...');
         setView(AppView.EXAM);
       }
       return;
@@ -241,9 +259,11 @@
       console.log(`🤖 Starting Exam Generation (Count: ${config.count}, Diagnostic: ${config.useDiagnostic})...`);
 
       // 1️⃣ Load questions for current grade (Base)
-      // We ensure we have the main grade loaded
-      if (loadedQuestions.length === 0 || selectedGrade) {
+      // 🆕 Skip if English Diagnostic mode (grade=0) - questions already loaded
+      if (selectedGrade !== 0 && (loadedQuestions.length === 0 || selectedGrade)) {
          await loadQuestionsForExam(selectedGrade || 11, selectedSubject);
+      } else if (selectedGrade === 0) {
+         console.log('🇬🇧 English Diagnostic mode: Using pre-loaded English questions from all grades');
       }
 
        // 2️⃣ If Diagnostic Mode: Load questions from lower grades
@@ -265,9 +285,15 @@
       }
 
       // 3️⃣ Generate random exam from cached pool (NO API CALLS)
-      // Filter logic needs to be aware of Diagnostic Mode
+      // Filter logic needs to be aware of Diagnostic Mode AND English Diagnostic (grade=0)
       const availableQuestions = loadedQuestions.filter(q => {
         if (!q) return false;
+
+        // 🆕 English Diagnostic Mode (grade=0): Use ALL loaded questions (already English-only)
+        if (selectedGrade === 0) {
+          return true; // All questions are valid - they were pre-filtered when loading
+        }
+
         const subjectMatch = subjectsMatch(q.category, selectedSubject);
         if (!subjectMatch) return false;
         if (config.useDiagnostic) {
@@ -305,6 +331,12 @@
       // Re-evaluate available questions after Deep Search
       const finalAvailableQuestions = loadedQuestions.filter(q => {
          if (!q) return false;
+
+         // 🆕 English Diagnostic Mode (grade=0): Use ALL loaded questions
+         if (selectedGrade === 0) {
+           return true;
+         }
+
          const subjectMatch = subjectsMatch(q.category, selectedSubject);
          if (!subjectMatch) return false;
          if (config.useDiagnostic) {
@@ -322,12 +354,45 @@
         finalAvailableQuestions,
         config.count
       );
-      const examQuestions = filtered;
+
+      // 🔥 CRITICAL: Filter out questions with less than 2 valid options (relaxed from 4)
+      const validQuestions = filtered.filter(q =>
+        q &&
+        Array.isArray(q.options) &&
+        q.options.length >= 2 && // ⚡ RELAXED: Allow True/False or 3-option questions
+        q.id &&
+        q.text &&
+        q.correctOptionId
+      );
+
+      if (validQuestions.length < filtered.length) {
+        console.warn(`⚠️ Filtered out ${filtered.length - validQuestions.length} questions with < 2 options`);
+        // Debug first 3 invalid questions
+        const invalid = filtered.filter(q => !validQuestions.includes(q));
+        console.log('❌ Invalid questions sample:', invalid.slice(0, 3).map(q => ({
+            id: q.id,
+            text: q.text?.substring(0, 30),
+            optionsCount: q.options?.length,
+            sections: q.options ? 'Array found' : 'No options array'
+        })));
+      }
+
+      if (validQuestions.length === 0) {
+        throw new Error("No se encontraron preguntas válidas con al menos 2 opciones.");
+      }
+
+      const examQuestions = validQuestions;
 
       await minTimePromise;
 
       if (examQuestions && examQuestions.length > 0) {
         generatedExamQuestions = examQuestions;
+        console.log(`✅ Exam generated with ${examQuestions.length} valid questions`);
+        console.log('🔍 First question check:', {
+          id: examQuestions[0].id,
+          optionsCount: examQuestions[0].options?.length,
+          hasCorrectId: !!examQuestions[0].correctOptionId
+        });
         isPreparingExam = false;
       } else {
         throw new Error("Error generando el examen. Intenta de nuevo.");
@@ -385,16 +450,21 @@
 
   // Handle Host Starting the Party Exam
   async function handlePartyStart() {
+      console.log('🚀🚀🚀 handlePartyStart() INICIADO');
+      console.log('📊 generatedExamQuestions:', generatedExamQuestions?.length || 0);
+
       // 1. Generate Questions using local logic (reusing prepareExamQuestions/filter logic)
 
       // 🆕 Check if we already have synced questions (from handleExamConfigStart)
       if (generatedExamQuestions && generatedExamQuestions.length > 0) {
           console.log('🚀 Starting Party with synced questions:', generatedExamQuestions.length);
       } else {
+          console.log('⚠️ No synced questions, using fallback...');
           // Fallback logic (only if no questions in config)
           const availableQuestions = loadedQuestions.filter(q => subjectsMatch(q.category, selectedSubject) && q.grade === selectedGrade);
           const { filtered } = filterUnansweredQuestions(availableQuestions, examConfig.count);
           generatedExamQuestions = filtered;
+          console.log('📦 Fallback questions generated:', generatedExamQuestions.length);
       }
 
       // 2. 🆕 CRÍTICO: Primero obtener exam_config actual, luego actualizar con preguntas
@@ -432,7 +502,9 @@
       });
 
       // 3. Switch View to EXAM
+      console.log('🎬 Switching to EXAM view...');
       setView(AppView.EXAM);
+      console.log('✅ View changed to:', AppView.EXAM);
 
       // 4. Initial broadcast handled by ExamView or here?
       // ExamView will need to handle "Party Mode"
@@ -465,7 +537,11 @@
       const questions = await fetchAllQuestionsForGrade(grade, true, 150);
       loadedQuestions = questions;
       availableSubjects = getAvailableSubjects(questions);
-      setView(AppView.SUBJECT_SELECTION);
+      // ⚡ UNIFICATION: Skip SubjectSelector, go straight to Exam Config
+      // Default to null subject (Simulacro Completo) unless they pick specific in modal
+      selectedSubject = null;
+      showExamConfigModal = true;
+      setView(AppView.LANDING); // Or keep in LANDING mode with modal on top
     } catch (err) {
       console.error('Error loading questions for grade:', err);
       loadError = err;
@@ -486,9 +562,20 @@
   }
 
   async function loadQuestionsForExam(grade, subject) {
+    // ⚡ OPTIMIZATION: Check if we already have questions for this grade/subject to avoid re-fetching
+    const hasEnough = loadedQuestions.filter(q =>
+        q.grade === grade &&
+        subjectsMatch(q.category, subject)
+    ).length >= 50; // Threshold
+
+    if (hasEnough) {
+        console.log(`🚀 Optimization: Using ${grade}/${subject} questions already in memory`);
+        return;
+    }
+
     isLoadingQuestions = true;
     try {
-      const questions = await fetchAllQuestionsForGrade(grade, true, 150);
+      const questions = await fetchAllQuestionsForGrade(grade, true, 200);
       const currentIds = new Set(loadedQuestions.map(q => q.id));
       const newQuestions = questions.filter(q => !currentIds.has(q.id));
       if (newQuestions.length > 0) {
@@ -505,7 +592,33 @@
 
   // ...
 
+  // 🆕 State for nickname modal
+  let showNicknameModal = $state(false);
+  let pendingExamData = $state(null);
+  let pendingAnswers = $state(null);
+  let nicknameInput = $state('');
+
   function handleExamFinish(examData, answers) {
+    // 🆕 Party Mode: Ask for nickname before showing results
+    if (partyCode && sessionId) {
+      // Load saved nickname if exists
+      const savedNickname = localStorage.getItem('party_player_name');
+      nicknameInput = savedNickname || '';
+
+      // Store pending data
+      pendingExamData = examData;
+      pendingAnswers = answers;
+
+      // Show nickname modal
+      showNicknameModal = true;
+      return;
+    }
+
+    // Solo mode: proceed normally
+    finishExamWithNickname(examData, answers, null);
+  }
+
+  function finishExamWithNickname(examData, answers, nickname) {
     lastExamData = examData;
     userAnswers = answers;
 
@@ -521,52 +634,54 @@
         completedAt: new Date().toISOString(),
         grade: selectedGrade,
         subject: selectedSubject
-      });
+      }, answers); // ⚡ FIXED: Pass answers as second argument
     } catch (err) {
       console.warn('Error saving local exam result:', err);
     }
 
     // 🆕 Party Mode Result Handling
     if (partyCode && sessionId) {
-        // Broadcast result via P2P
-        // Both Host and Guest send 'EXAM_RESULT'
-        // Host needs to receive it to build leaderboard
-        // Guest sends it to Host.
+        const userName = nickname || user?.email || 'Jugador';
+
+        // Save nickname for future use
+        if (nickname) {
+          localStorage.setItem('party_player_name', nickname);
+        }
 
         const minimalResult = {
              sessionId: sessionId,
-             name: user?.email || 'Jugador', // Or get safe name
+             name: userName,
              score: examData.questions.filter(q => q.isCorrect).length,
              total: examData.questions.length,
              time: examData.totalTimeMs,
-             focusViolations: examData.focusViolations || 0
+             focusViolations: examData.focusViolations || 0,
+             finishedAt: Date.now()
         };
 
-        if (examData.isHost) {
-            // Host finished: Add self to local results list (managed ideally in Party Store or Results View)
-            // For now, let's just broadcast leaderboard if we want.
-            // But results are usually pulled.
-            // Better: Host listens for results (see onMount below).
-            console.log('Host finished exam. Self-score:', minimalResult);
-            // We should also broadcast 'LEADERBOARD_UPDATE' if we had a store.
-        } else {
-            // Guest finished: Send to Host
-            console.log('Guest finished. Sending result to Host...', minimalResult);
-            p2pService.sendToHost('EXAM_RESULT', minimalResult);
-        }
+        // 🔥 BROADCAST to ALL participants (not just host)
+        console.log('Broadcasting result to all participants:', minimalResult);
+        p2pService.broadcast('EXAM_RESULT', minimalResult);
 
-        // Reset party state mostly, but maybe we want to keep it for ResultsView?
-        // If we reset partyCode, we lose P2P connection context in View.
-        // We should KEEP partyCode active until user explicitly exits Party Results.
-        // So DO NOT reset partyCode here yet.
+        // Also save locally for immediate display
+        const existing = JSON.parse(sessionStorage.getItem('party_results') || '[]');
+        if (!existing.find(r => r.sessionId === minimalResult.sessionId)) {
+          existing.push(minimalResult);
+          sessionStorage.setItem('party_results', JSON.stringify(existing));
+          window.dispatchEvent(new CustomEvent('party-result-received', { detail: minimalResult }));
+        }
     } else if (partyCode) {
-        // Fallback cleanup if something weird
         partyCode = '';
         partyChannel = null;
     }
 
-    generatedExamQuestions = null;
+    // generatedExamQuestions = null; // 🚨 REMOVED: Clearing too early causes ResultsView to show whole pool (1 de 126 error)
     setView(AppView.RESULTS);
+  }
+
+  function handleNicknameSubmit() {
+    const finalNickname = nicknameInput.trim() || 'Jugador';
+    showNicknameModal = false;
+    finishExamWithNickname(pendingExamData, pendingAnswers, finalNickname);
   }
 
   // ...
@@ -574,31 +689,29 @@
   onMount(async () => {
     // ... (existing mount logic)
 
-    // 🆕 Global P2P Listener for App (Host Result Aggregation)
-    // We bind this once app mounts so it persists across views (Config -> Exam -> Results)
+    // 🆕 Global P2P Listener for App (Result Aggregation for ALL participants)
     p2pService.onData((msg) => {
         if (msg.type === 'EXAM_RESULT') {
             const result = msg.payload;
             console.log(`🏆 Result received from ${msg.senderId}:`, result);
-            // Store this result!
-            // Since we don't have a global store for results yet, we can attach it to window or
-            // better: dispatch an event that ResultsView can pick up.
-            // Or save to sessionStorage 'party_results'.
+
+            // Store result (avoid duplicates)
             const existing = JSON.parse(sessionStorage.getItem('party_results') || '[]');
-            existing.push(result);
-            sessionStorage.setItem('party_results', JSON.stringify(existing));
+            if (!existing.find(r => r.sessionId === result.sessionId)) {
+              existing.push(result);
+              sessionStorage.setItem('party_results', JSON.stringify(existing));
 
-            // If we are in ResultsView, force update?
-            // Broadcast event for locally running components
-            window.dispatchEvent(new CustomEvent('party-result-received', { detail: result }));
+              // Dispatch event for ResultsView to update in real-time
+              window.dispatchEvent(new CustomEvent('party-result-received', { detail: result }));
 
-            // If Host, maybe re-broadcast leaderboard?
-            if (partyCode && !sessionId) { // if isHost (sessionId might be set for Host too now)
-                 // Check if `isHost` logic in this scope. `user` might be host?
-                 // Config modal set `isHost`. We lost that local var scope.
-                 // Ideally we check `p2pService.isHost` (we should expose it).
-                 // But for now, just accepting data is enough for the "Reports Logic" requirement.
+              console.log(`📊 Total results collected: ${existing.length}`);
             }
+        }
+
+        // 🆕 Listen for when ALL users finished (optional signal from host)
+        if (msg.type === 'ALL_FINISHED') {
+            console.log('🎉 All participants finished!');
+            window.dispatchEvent(new CustomEvent('party-all-finished'));
         }
     });
 
@@ -820,24 +933,100 @@
           </div>
         </div>
 
-        <!-- Cards Grid -->
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 w-full max-w-4xl relative z-10 mt-12">
-          <FlashlightCard
-            onClick={handleStart}
-            className="p-8 flex flex-col items-center justify-center group h-48 hover:border-emerald-500/50 transition-transform duration-300 hover:scale-105"
-          >
-            <div class="mb-4 text-emerald-500 opacity-80 group-hover:opacity-100">
-              <svg class="w-10 h-10" viewBox="0 0 40 40" fill="none">
-                <rect x="4" y="4" width="32" height="32" rx="4" stroke="currentColor" stroke-width="2" fill="none"/>
-                <path d="M12 20h16M20 12v16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-                <circle cx="20" cy="20" r="6" fill="currentColor" opacity="0.2"/>
-              </svg>
-            </div>
-            <h3 class="text-xl font-bold uppercase tracking-widest mb-2">Iniciar Examen</h3>
-            <p class="text-xs opacity-40">
-              {selectedGrade ? `Continuar Grado ${selectedGrade}°` : 'Comenzar secuencia estándar'}
-            </p>
-          </FlashlightCard>
+        <!-- Grade Selection Cards -->
+        <div class="w-full max-w-4xl relative z-10 mt-12">
+          <h3 class="text-center text-xs font-bold uppercase tracking-widest text-white/40 mb-6">
+            Selecciona tu grado para iniciar
+          </h3>
+
+          <!-- 🆕 English Card - Cross-Grade Diagnostic Mode -->
+          <div class="mb-6">
+            <FlashlightCard
+              onClick={async () => {
+                // 🇬🇧 English Diagnostic Mode: Fetch from ALL grades
+                isLoadingQuestions = true;
+                try {
+                  console.log('🇬🇧 Loading English questions from all grades (A1-B2+)...');
+                  const englishQuestions = await fetchEnglishQuestionsAllGrades(100, true);
+
+                  if (englishQuestions.length === 0) {
+                    console.error('❌ No English questions found');
+                    loadError = new Error('No se encontraron preguntas de inglés.');
+                    return;
+                  }
+
+                  // Store in loadedQuestions for the modal to use
+                  loadedQuestions = englishQuestions;
+                  availableSubjects = ['Inglés']; // Only English for this mode
+
+                  // Set config for English diagnostic
+                  selectedGrade = 0; // Special: 0 = Cross-grade mode
+                  selectedSubject = 'Inglés Diagnóstico';
+
+                  console.log(`✅ Loaded ${englishQuestions.length} English questions across all levels`);
+                  showExamConfigModal = true;
+                } catch (err) {
+                  console.error('Error loading English questions:', err);
+                  loadError = err;
+                } finally {
+                  isLoadingQuestions = false;
+                }
+              }}
+              className="p-4 flex items-center justify-center gap-4 group hover:border-blue-500/50 transition-transform duration-300 hover:scale-[1.02] bg-gradient-to-r from-blue-900/20 via-purple-900/10 to-blue-900/20 border border-blue-500/20"
+            >
+              <div class="w-14 h-14 rounded-xl bg-gradient-to-br from-blue-500/30 to-purple-500/30 flex items-center justify-center group-hover:scale-110 transition-transform shadow-lg shadow-blue-500/10">
+                <img src="/favicon.png" alt="SaberParaTodos" class="w-9 h-9 object-contain" />
+              </div>
+              <div class="text-left flex-1">
+                <div class="text-xl font-bold text-blue-400 group-hover:text-blue-300 transition-colors uppercase tracking-wider flex items-center gap-2">
+                  Inglés
+                  <span class="px-1.5 py-0.5 bg-purple-500/20 text-purple-400 text-[8px] font-bold uppercase tracking-widest rounded">
+                    Diagnóstico
+                  </span>
+                </div>
+                <div class="text-[10px] uppercase tracking-wider text-white/40 group-hover:text-white/60 mt-0.5">
+                  Niveles A1 a B2+ • Evalúa tu nivel real
+                </div>
+              </div>
+              <div class="flex flex-col items-end gap-1">
+                <div class="flex items-center gap-1.5">
+                  <span class="px-2 py-0.5 bg-blue-500/20 text-blue-400 text-[9px] font-bold uppercase tracking-widest rounded-full">
+                    Party ✓
+                  </span>
+                </div>
+                <div class="flex items-center gap-1 text-[9px] text-white/30">
+                  <span>Grados 3-11</span>
+                  <svg class="w-4 h-4 text-white/30 group-hover:text-blue-400 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+                  </svg>
+                </div>
+              </div>
+            </FlashlightCard>
+          </div>
+
+          <!-- Grade Cards Grid -->
+          <div class="grid grid-cols-4 sm:grid-cols-4 md:grid-cols-8 gap-3">
+            {#each [3, 5, 6, 7, 8, 9, 10, 11] as grade}
+              <FlashlightCard
+                onClick={() => {
+                  selectedGrade = grade;
+                  showExamConfigModal = true;
+                }}
+                className="p-4 flex flex-col items-center justify-center group h-24 hover:border-emerald-500/50 transition-transform duration-300 hover:scale-105"
+              >
+                <div class="text-2xl font-bold text-emerald-500 group-hover:text-emerald-400 transition-colors">
+                  {grade}°
+                </div>
+                <div class="text-[10px] uppercase tracking-wider text-white/40 group-hover:text-white/60 mt-1">
+                  Grado
+                </div>
+              </FlashlightCard>
+            {/each}
+          </div>
+        </div>
+
+        <!-- Action Cards Grid -->
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6 w-full max-w-2xl relative z-10 mt-8">
 
           <FlashlightCard
             onClick={() => showLocalReports = true}
@@ -970,6 +1159,7 @@
         />
       </div>
     {:else if view === AppView.SUBJECT_SELECTION}
+      <!-- 🗑️ DEPRECATED: Unified with ExamConfigModal
       <div in:fly={{ x: 50, duration: 500 }} out:fade={{ duration: 200 }}>
         <SubjectSelector
           questions={filteredLocalQuestions}
@@ -978,6 +1168,7 @@
           onBack={() => setView(AppView.LANDING)}
         />
       </div>
+      -->
     {:else if view === AppView.PARTY_LOBBY}
       <div in:fly={{ x: 50, duration: 500 }} out:fade={{ duration: 200 }}>
         <PartyLobby
@@ -1010,7 +1201,7 @@
       <div in:fly={{ y: 50, duration: 500 }} out:fade={{ duration: 200 }}>
         <ResultsView
           examData={lastExamData}
-          questions={examQuestions}
+          questions={generatedExamQuestions || examQuestions}
           {userAnswers}
           onHome={() => setView(AppView.LANDING)}
           onLeaderboard={() => setView(AppView.LEADERBOARD)}
@@ -1103,6 +1294,65 @@
       onStart={handleExamConfigStart}
       onCancel={() => { showExamConfigModal = false; selectedSubject = null; }}
     />
+  {/if}
+
+  <!-- 🆕 Nickname Modal (Party Mode) -->
+  {#if showNicknameModal}
+    <div
+      class="fixed inset-0 z-[150] bg-black/90 backdrop-blur-md flex items-center justify-center p-4"
+      transition:fade={{ duration: 200 }}
+    >
+      <div class="bg-[#121212] border border-emerald-500/30 rounded-xl p-8 max-w-md w-full shadow-2xl relative overflow-hidden" in:fly={{ y: 20, duration: 300 }}>
+        <div class="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-emerald-500 via-blue-500 to-purple-500"></div>
+
+        <div class="text-center mb-6">
+          <div class="w-16 h-16 mx-auto mb-4 bg-gradient-to-br from-emerald-500 to-blue-600 rounded-full flex items-center justify-center">
+            <svg class="w-8 h-8 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
+            </svg>
+          </div>
+
+          <h2 class="text-2xl font-bold uppercase tracking-widest text-emerald-400 mb-2">
+            ¡Examen Completado!
+          </h2>
+          <p class="text-sm text-white/60">
+            Ingresa tu nombre para aparecer en el tablero de resultados
+          </p>
+        </div>
+
+        <div class="mb-6">
+          <label class="block text-xs uppercase tracking-widest text-white/60 mb-2">Tu Nombre o Apodo</label>
+          <input
+            type="text"
+            bind:value={nicknameInput}
+            placeholder="Ej: Juan, Campeón, Pro Player..."
+            maxlength="20"
+            class="w-full px-4 py-3 bg-white/5 border border-white/10 rounded-lg text-white placeholder-white/30 focus:outline-none focus:border-emerald-500 focus:ring-2 focus:ring-emerald-500/20 transition-all"
+            onkeydown={(e) => { if (e.key === 'Enter') handleNicknameSubmit(); }}
+            autofocus
+          />
+          <div class="text-xs text-white/40 mt-1">
+            {nicknameInput.length}/20 caracteres
+          </div>
+        </div>
+
+        <button
+          onclick={handleNicknameSubmit}
+          class="w-full px-6 py-3 bg-gradient-to-r from-emerald-600 to-blue-600 text-white font-bold uppercase tracking-widest text-sm rounded-lg hover:shadow-[0_0_20px_rgba(16,185,129,0.4)] transition-all duration-300 active:scale-95"
+        >
+          Ver Resultados
+        </button>
+
+        <div class="text-center mt-4">
+          <button
+            onclick={() => handleNicknameSubmit()}
+            class="text-xs text-white/40 hover:text-white/60 underline transition-colors"
+          >
+            Continuar sin nombre
+          </button>
+        </div>
+      </div>
+    </div>
   {/if}
 
   {#if isIntegrityCheck}

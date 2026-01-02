@@ -47,16 +47,19 @@
   let currentSubmission: ScoreSubmissionInput | null = null;
 
   // Convert ExamCompletionData to ExamResult for scoring
-  function toExamResult(data: ExamCompletionData, questionsList: any[]): ExamResult {
+  function toExamResult(data: ExamCompletionData, questionsList: any[], answers: Record<string | number, string>): ExamResult {
     // Usar el array de preguntas proporcionado como prop
     const safeQ = questionsList && questionsList.length > 0 ? questionsList : (data?.questions || []);
     const questionResults: QuestionResult[] = safeQ.map((q: any, index: number) => {
-      // Buscar si fue respondida correctamente en examData
+      // Calculate correctness dynamically from userAnswers (Source of Truth)
+      const userAnswer = answers[q.id];
+      const isCorrect = userAnswer === q.correctOptionId;
+
       const examQ = data?.questions?.[index];
       return {
         questionId: String(q?.id || q?.questionId || 'unknown'),
         difficulty: Math.max(1, Math.min(5, q?.difficulty || 3)) as 1 | 2 | 3 | 4 | 5,
-        isCorrect: examQ?.isCorrect ?? false,
+        isCorrect: isCorrect,
         timeSeconds: Math.round((examQ?.timeSpentMs || 0) / 1000),
         currentStreak: examQ?.streakCount || 0
       };
@@ -76,16 +79,18 @@
 
   // Calculate score on mount
   $: if (examData && safeQuestions.length > 0 && !examScore) {
-    const examResult = toExamResult(examData, safeQuestions);
+    // Pass userAnswers to score calculation
+    const examResult = toExamResult(examData, safeQuestions, userAnswers);
     examScore = calculateExamScore(examResult);
-    console.log('📊 Exam Score Calculated:', {
+    console.log('📊 Exam Score Calculated (Fixed):', {
       correct: examScore.stats.correctAnswers,
       total: examScore.stats.questionsAnswered,
       accuracy: (examScore.stats.accuracy * 100).toFixed(1) + '%'
     });
   }
 
-  $: correctCount = safeExamQuestions.filter(q => q?.isCorrect).length;
+  // Calculate correctCount from userAnswers directly (Source of Truth)
+  $: correctCount = safeQuestions.filter(q => userAnswers[q.id] === q.correctOptionId).length;
   $: totalQuestions = safeQuestions.length;
   $: percentage = totalQuestions > 0 ? Math.round((correctCount / totalQuestions) * 100) : 0;
 
@@ -122,10 +127,11 @@
       hasGitHub = await hasGitHubAuth();
     });
 
-    // 🆕 Auto-toggle to party tab if in party
+    // 🆕 Auto-toggle to party tab if HOST, individual if participant
     let cleanupParty = () => {};
     if (examData?.partyCode) {
-      activeTab = 'party';
+      // 🆕 Host sees Party results, participants see their own results first
+      activeTab = examData.isHost ? 'party' : 'individual';
       // Load existing results from session storage
       try {
           partyResults = JSON.parse(sessionStorage.getItem('party_results') || '[]');
@@ -248,9 +254,57 @@
     isSubmittingToLeaderboard = false;
   }
 
+  import {
+    calculateEnglishProficiencyV2,
+    generateStudyPlan,
+    examResultsToQuestionResults,
+    type EnglishProficiencyResult
+  } from '../lib/api-service';
+
   function openLeaderboardSubmission() {
     submitToLeaderboard();
   }
+
+  // 🆕 NotebookLM Integration
+  let proficiencyResult: EnglishProficiencyResult | null = null;
+  let isEnglishExam = false;
+
+  $: if (examData && questions.length > 0) {
+    // Check if it's an English exam (by subject or content)
+    isEnglishExam =
+      (examData.subject?.toLowerCase().includes('ingl') || false) ||
+      questions.some(q => q.cefr_level || q.cefrLevel || q.englishLevel);
+
+    if (isEnglishExam && !proficiencyResult) {
+      // Map current questions/answers to proficiency format
+      const resultInputs = questions.map(q => ({
+        id: String(q.id),
+        userAnswer: userAnswers[q.id],
+        correctOptionId: q.correctOptionId,
+        cefrLevel: q.cefrLevel || q.cefr_level || q.englishLevel,
+        grade: q.grade || examData.grade
+      }));
+
+      const questionResults = examResultsToQuestionResults(resultInputs);
+      proficiencyResult = calculateEnglishProficiencyV2(questionResults);
+    }
+  }
+
+  function handleDownloadNotebook() {
+    if (!proficiencyResult) return;
+
+    const plan = generateStudyPlan(proficiencyResult);
+    const blob = new Blob([plan.sourceContent], { type: 'text/markdown' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `Plan_Estudio_NotebookLM_${new Date().toISOString().split('T')[0]}.md`;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+  }
+
 </script>
 
 <div class="min-h-screen w-full flex flex-col animate-fade-in-up">
@@ -398,6 +452,50 @@
             </div>
           </div>
         {/if}
+      {/if}
+
+      <!-- 🆕 NotebookLM Personalized Plan -->
+      {#if proficiencyResult}
+        <div class="max-w-4xl mx-auto">
+          <div class="bg-gradient-to-br from-emerald-900/20 to-teal-900/20 border border-emerald-500/30 rounded-xl p-6 relative overflow-hidden group">
+             <div class="absolute top-0 right-0 p-4 opacity-10 group-hover:opacity-20 transition-opacity">
+               <svg class="w-24 h-24 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+               </svg>
+             </div>
+
+             <div class="relative z-10">
+               <h3 class="text-xl font-bold text-emerald-300 uppercase tracking-widest mb-2 flex items-center gap-2">
+                 <span class="text-2xl">🎓</span> Plan de Estudio AI
+               </h3>
+
+               <p class="text-sm text-emerald-200/80 mb-6 max-w-2xl">
+                 Hemos generado un plan de estudio personalizado basado en tus resultados ({proficiencyResult.estimatedLevel}).
+                 Descárgalo y úsalo con <strong>NotebookLM</strong> para tener un tutor de inglés personal.
+               </p>
+
+               <div class="flex flex-wrap gap-4">
+                 <button
+                   on:click={handleDownloadNotebook}
+                   class="px-6 py-3 bg-emerald-500 hover:bg-emerald-400 text-[#121212] font-bold uppercase tracking-widest text-xs rounded-lg shadow-lg shadow-emerald-900/20 transition-all transform hover:scale-105 flex items-center gap-2"
+                 >
+                   <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+                   </svg>
+                   Descargar Cuaderno (.md)
+                 </button>
+
+                 <a
+                    href="https://notebooklm.google.com/"
+                    target="_blank"
+                    class="px-6 py-3 border border-white/10 hover:bg-white/5 text-white/60 hover:text-white text-xs uppercase tracking-widest font-bold rounded-lg transition-all flex items-center gap-2"
+                 >
+                   Ir a NotebookLM ↗
+                 </a>
+               </div>
+             </div>
+          </div>
+        </div>
       {/if}
 
       <!-- Memory Progress Status -->

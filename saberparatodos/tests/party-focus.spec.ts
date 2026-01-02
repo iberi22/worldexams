@@ -24,7 +24,7 @@ test.describe('Party Mode - Anti-Cheat & Focus Tracking', () => {
     // 1. Host Creates Party
     console.log('🎓 Host creating party...');
     await hostPage.goto('/');
-    
+
     // Wait for landing load
     await expect(hostPage.locator('h1')).toContainText('Saber', { timeout: 30000 });
 
@@ -35,7 +35,7 @@ test.describe('Party Mode - Anti-Cheat & Focus Tracking', () => {
     // Enable Party Mode
     const partySwitch = hostPage.getByRole('switch');
     await partySwitch.click();
-    
+
     // Ensure "Crear Party" tab is selected (default)
     await hostPage.getByRole('button', { name: /crear party/i }).click();
 
@@ -44,13 +44,11 @@ test.describe('Party Mode - Anti-Cheat & Focus Tracking', () => {
 
     // Wait for code
     await expect(hostPage.locator('text=Código de Sesión')).toBeVisible({ timeout: 15000 });
-    const pageContent = await hostPage.content();
-    const codeMatch = pageContent.match(/([A-Z0-9]{6})/); // Simplified regex
     // We might need to be more specific if there are other 6-char strings, but usually the code is prominent
     // Let's try to get it from the element text
     const codeElement = hostPage.locator('.text-4xl.font-black.font-mono');
     const partyCode = await codeElement.innerText();
-    
+
     expect(partyCode).toBeTruthy();
     console.log(`✅ Party Code: ${partyCode}`);
 
@@ -60,24 +58,24 @@ test.describe('Party Mode - Anti-Cheat & Focus Tracking', () => {
     await guestPage.getByText('Iniciar Examen').click();
     await guestPage.getByRole('switch').click();
     await guestPage.getByRole('button', { name: /unirse/i }).click();
-    
+
     await guestPage.fill('input[placeholder*="código" i]', partyCode);
     await guestPage.fill('input[placeholder*="nombre" i]', 'Cheater John');
     await guestPage.getByRole('button', { name: /unirse/i }).last().click(); // .last() because there might be other buttons
-    
+
     await expect(guestPage.locator('text=Conectado a Sala')).toBeVisible();
 
     // 3. Host Starts Exam
     console.log('🚀 Host starting exam...');
     await hostPage.getByRole('button', { name: /iniciar/i }).click();
-    
+
     // Wait for exam to start on both
     await expect(hostPage.locator('.i-lucide-book-open')).toBeVisible({ timeout: 10000 });
     await expect(guestPage.locator('.i-lucide-book-open')).toBeVisible({ timeout: 10000 });
 
     // 4. Simulate Cheating (Focus Loss) on Guest
     console.log('👀 Simulating focus loss on Guest...');
-    
+
     // Trigger blur event manually since Playwright focus management can be tricky
     await guestPage.evaluate(() => {
         window.dispatchEvent(new Event('blur'));
@@ -94,7 +92,7 @@ test.describe('Party Mode - Anti-Cheat & Focus Tracking', () => {
     // Answer one question to ensure result is recorded
     await guestPage.locator('[data-testid="options-grid"] > button').first().click();
     await guestPage.getByRole('button', { name: /siguiente/i }).click();
-    
+
     // Host finishes for everyone
     await hostPage.getByRole('button', { name: /finalizar/i }).click();
     // Confirm finish if modal appears
@@ -105,12 +103,12 @@ test.describe('Party Mode - Anti-Cheat & Focus Tracking', () => {
     // 7. Verify Results
     console.log('📊 Verifying results...');
     await expect(hostPage.locator('text=Resultados de Party')).toBeVisible({ timeout: 10000 });
-    
+
     // Check for "Usuarios Distraídos" count
     // We expect at least 1 distracted user
     const distractedCount = hostPage.locator('text=Usuarios Distraídos').locator('..').locator('.text-4xl');
     await expect(distractedCount).toHaveText('1');
-    
+
     console.log('✅ Anti-Cheat System Verified!');
   });
 });

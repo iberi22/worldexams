@@ -4,66 +4,74 @@
   import FlashlightCard from './FlashlightCard.svelte';
   import { getSubjectMemoryStats, clearAnsweredQuestionsOnly } from '../lib/question-memory';
   import { supabase } from '../lib/supabase';
+  import { fetchAllQuestionsForGrade } from '../lib/api-service';
 
-  export let subject;
-  export let currentGrade = 11;
-  export let onStart;
-  export let onCancel;
-  export let availableQuestions = [];
-  export let initialJoinCode = ''; // 🆕
+  let {
+    subject: initialSubject,
+    currentGrade: initialGrade = 11,
+    onStart,
+    onCancel,
+    availableQuestions = [],
+    initialJoinCode = ''
+  } = $props();
 
-  let questionCount = 10;
-  let timeOption = 0; // 🆕 0 = unlimited, >0 = seconds per question
-  let mode = 'SOLO'; // 'SOLO' or 'PARTY'
-  let useDiagnostic = true;
-  let showResetConfirm = false;
+  // 🆕 Make subject and grade editable
+  let selectedSubject = $state(initialSubject);
+  let selectedGrade = $state(initialGrade);
+  let availableSubjects = $state(['Simulacro Completo', 'Matemáticas', 'Lectura Crítica', 'Ciencias Naturales', 'Sociales y Ciudadanas', 'Inglés']);
+  let availableGrades = $state([3, 5, 6, 7, 8, 9, 10, 11]);
 
-  // Party Mode State
-  let partyEnabled = false;
-  let partyTab = 'crear'; // 'crear' or 'unirse'
-  let partyCode = '';
-  let joinCode = '';
-  let connectedUsers = [];
-  let partyChannel = null;
-  let isHost = false;
-  let isCreatingParty = false;
-  let partyError = '';
-  let copied = false;
-  let sessionId = ''; // 🆕 Local session ID for party tracking
-  let isReady = false; // 🆕 Guest ready state
-  let syncedQuestions = []; // 🆕 Questions from host
-  let playerName = 'Jugador';
-  let studentId = '';
-  let isUpdatingReady = false;
+  // 🆕 Detect English Diagnostic Mode (grade = 0 means cross-grade English assessment)
+  let isEnglishDiagnosticMode = $derived(initialGrade === 0 || selectedSubject?.includes('Diagnóstico'));
 
-  // 🆕 Realtime connection health (UX-only)
-  let realtimeSubscribeStatus = 'IDLE';
-  let isOnline = true;
+  let questionCount = $state(10);
+  let timeOption = $state(0); // 🆕 0 = unlimited, >0 = seconds per question
+  let mode = $state('SOLO'); // 'SOLO' or 'PARTY'
+  let useDiagnostic = $state(true);
+  let showResetConfirm = $state(false);
+  let partyEnabled = $state(false);
+  let partyTab = $state('crear'); // 'crear' or 'unirse'
+  let partyCode = $state('');
+  let joinCode = $state('');
+  let connectedUsers = $state([]);
+  let partyChannel = $state(null);
+  let isHost = $state(false);
+  let isCreatingParty = $state(false);
+  let partyError = $state('');
+  let copied = $state(false);
+  let sessionId = $state(''); // 🆕 Local session ID for party tracking
+  let isReady = $state(false); // 🆕 Guest ready state
+  let syncedQuestions = $state([]); // 🆕 Questions from host
+  let playerName = $state('Jugador');
+  let studentId = $state('');
+  let isUpdatingReady = $state(false);
+  let realtimeSubscribeStatus = $state('IDLE');
+  let isOnline = $state(true);
   let p2pConnected = $state(false); // 🆕 P2P connection status
   let syncMethod = $state('none'); // 'p2p', 'realtime', or 'none'
 
-  $: allStudentsReady = connectedUsers.length > 0 && connectedUsers.every((u) => Boolean(u?.ready));
-  $: canHostStartParty = !partyEnabled || !partyCode || !isHost || allStudentsReady;
-  $: readyCount = connectedUsers.filter((u) => Boolean(u?.ready)).length;
+  let allStudentsReady = $derived(connectedUsers.length > 0 && connectedUsers.every((u) => Boolean(u?.ready)));
+  let canHostStartParty = $derived(!partyEnabled || !partyCode || !isHost || allStudentsReady);
+  let readyCount = $derived(connectedUsers.filter((u) => Boolean(u?.ready)).length);
 
   // 🆕 Sync method label
-  $: syncMethodLabel = !partyEnabled || !partyCode
+  let syncMethodLabel = $derived(!partyEnabled || !partyCode
     ? ''
     : p2pConnected
       ? '🔗 P2P'
       : realtimeSubscribeStatus === 'SUBSCRIBED'
         ? '☁️ Realtime'
-        : 'conectando…';
+        : 'conectando…');
 
-  $: syncMethodClass = !partyEnabled || !partyCode
+  let syncMethodClass = $derived(!partyEnabled || !partyCode
     ? 'text-white/40'
     : p2pConnected
       ? 'text-blue-400'
       : realtimeSubscribeStatus === 'SUBSCRIBED'
         ? 'text-emerald-400'
-        : 'text-yellow-400';
+        : 'text-yellow-400');
 
-  $: realtimeLabel = !partyEnabled || !partyCode
+  let realtimeLabel = $derived(!partyEnabled || !partyCode
     ? ''
     : !isOnline
       ? 'sin conexión'
@@ -73,9 +81,9 @@
           ? 'reconectando…'
           : realtimeSubscribeStatus === 'CLOSED'
             ? 'desconectado'
-            : 'conectando…';
+            : 'conectando…');
 
-  $: realtimeClass = !partyEnabled || !partyCode
+  let realtimeClass = $derived(!partyEnabled || !partyCode
     ? 'text-white/40'
     : !isOnline
       ? 'text-red-400'
@@ -85,14 +93,18 @@
           ? 'text-yellow-400'
           : realtimeSubscribeStatus === 'CLOSED'
             ? 'text-red-400'
-            : 'text-yellow-400';
+            : 'text-yellow-400');
 
   const questionOptions = [5, 10, 15];
 
-  $: diagnosticGrades = [3, 5, 7, 9].filter(g => g < currentGrade);
-  $: memoryStats = getSubjectMemoryStats(availableQuestions, subject);
-  $: shareUrl = partyCode ? `${typeof window !== 'undefined' ? window.location.origin : ''}/party?join=${partyCode}` : '';
-  $: configLocked = partyEnabled && partyCode && !isHost;
+  let diagnosticGrades = $derived([3, 5, 7, 9].filter(g => g < selectedGrade));
+  let memoryStats = $derived(getSubjectMemoryStats(availableQuestions, selectedSubject));
+  let shareUrl = $derived(partyCode ? `${typeof window !== 'undefined' ? window.location.origin : ''}/party?join=${partyCode}` : '');
+  let configLocked = $derived(partyEnabled && partyCode && !isHost);
+
+  // 🆕 Debounce timeouts for P2P and DB broadcasts
+  let broadcastTimeout = null;
+  let lastBroadcastPayload = '';
 
   async function copyShareUrl() {
     try {
@@ -249,6 +261,7 @@
 
   // Sync interval for broadcasting config to guests
   let syncInterval = null;
+  let dbUpdateTimeout = null; // 🆕 Debounce for DB updates
 
   // Cleanup on destroy
   onDestroy(() => {
@@ -256,6 +269,9 @@
 
     // Clear sync interval if exists
     if (syncInterval) clearInterval(syncInterval);
+
+    // Clear DB update timeout
+    if (dbUpdateTimeout) clearTimeout(dbUpdateTimeout);
 
     // 🚨 Only destroy P2P if we are NOT starting the exam (i.e. user cancelled or closed modal)
     // We can infer this by checking if partyEnabled is off OR if we are just closing modal but keeping session active?
@@ -325,9 +341,21 @@
                  // Update local config
                  if (msg.payload.num_questions) questionCount = msg.payload.num_questions;
                  if (msg.payload.time_option !== undefined) timeOption = msg.payload.time_option;
+                 if (msg.payload.subject) selectedSubject = msg.payload.subject;
+                 if (msg.payload.grade) selectedGrade = msg.payload.grade;
                  if (msg.payload.questions) {
-                     syncedQuestions = msg.payload.questions;
+                     // 🔥 Validate questions before syncing
+                     const validQuestions = msg.payload.questions.filter(q =>
+                       q &&
+                       Array.isArray(q.options) &&
+                       q.options.length > 0
+                     );
+                     syncedQuestions = validQuestions;
                      console.log('✅ Questions synced via P2P:', syncedQuestions.length);
+
+                     if (validQuestions.length < msg.payload.questions.length) {
+                       console.warn(`⚠️ P2P filtered ${msg.payload.questions.length - validQuestions.length} invalid questions`);
+                     }
                  }
                  console.log('🔄 Config synced via P2P:', msg.payload);
              }
@@ -336,8 +364,18 @@
                  console.log('🚀 P2P Start Signal!');
                  // Sync questions if provided
                  if (msg.payload.questions) {
-                     syncedQuestions = msg.payload.questions;
+                     // 🔥 Validate questions
+                     const validQuestions = msg.payload.questions.filter(q =>
+                       q &&
+                       Array.isArray(q.options) &&
+                       q.options.length > 0
+                     );
+                     syncedQuestions = validQuestions;
                      console.log('✅ Questions received via P2P START:', syncedQuestions.length);
+
+                     if (validQuestions.length < msg.payload.questions.length) {
+                       console.warn(`⚠️ START filtered ${msg.payload.questions.length - validQuestions.length} invalid questions`);
+                     }
                  }
                  // Force start logic
                  handleStart();
@@ -357,14 +395,36 @@
          }
   }
 
-  // Broadcast Config Changes (including questions)
+  // Broadcast Config Changes (including questions) + Update DB for Realtime fallback
+  // 🆕 OPTIMIZED: Unified debounce for P2P and DB updates
   function broadcastConfig() {
-     if (isHost && partyEnabled && partyCode) {
-         const payload = {
-             num_questions: questionCount,
-             time_option: timeOption,
-             questions: syncedQuestions // 🔥 Always include questions
-         };
+     if (!isHost || !partyEnabled || !partyCode) return;
+
+     const payload = {
+         subject: selectedSubject,
+         grade: selectedGrade,
+         num_questions: questionCount,
+         time_option: timeOption,
+         questions: syncedQuestions // 🔥 Always include questions
+     };
+
+     // 🆕 Skip if payload hasn't changed (prevents duplicate broadcasts)
+     const payloadHash = JSON.stringify({
+       num: payload.num_questions,
+       time: payload.time_option,
+       grade: payload.grade,
+       subject: payload.subject,
+       qCount: payload.questions?.length || 0
+     });
+
+     if (payloadHash === lastBroadcastPayload) {
+       return; // No changes, skip broadcast
+     }
+
+     // 🆕 Clear existing timeout and set new one (debounce 1 second)
+     if (broadcastTimeout) clearTimeout(broadcastTimeout);
+     broadcastTimeout = setTimeout(async () => {
+         lastBroadcastPayload = payloadHash;
 
          console.log('📤 Broadcasting config via P2P:', {
              questions: payload.questions.length,
@@ -372,14 +432,36 @@
              time: payload.time_option
          });
 
+         // P2P Broadcast (primary)
          p2pService.broadcast('CONFIG_UPDATE', payload);
-     }
+
+         // DB Update (Realtime fallback)
+         try {
+             await supabase.from('party_sessions')
+               .update({
+                 exam_config: {
+                   subject: selectedSubject,
+                   grade: selectedGrade,
+                   num_questions: questionCount,
+                   time_option: timeOption,
+                   questions: syncedQuestions,
+                   host_peer_id: p2pService.isConnected() ? 'connected' : null
+                 }
+               })
+               .eq('party_code', partyCode);
+             console.log('💾 DB config updated');
+         } catch (dbErr) {
+             console.warn('⚠️ Failed to update DB config:', dbErr);
+         }
+     }, 1000); // 🆕 Unified 1 second debounce
   }
 
   // Watch for config changes to broadcast
-  $: if (isHost && partyEnabled && (questionCount || timeOption)) {
+  $effect(() => {
+    if (isHost && partyEnabled && partyCode && (questionCount || timeOption || selectedSubject || selectedGrade)) {
       broadcastConfig();
-  }
+    }
+  });
 
   // Update createParty to init P2P
   async function createParty() {
@@ -388,10 +470,105 @@
     try {
       const newPartyCode = generatePartyCode();
 
-      // 🆕 Generate questions
-      const shuffled = [...availableQuestions].sort(() => 0.5 - Math.random());
-      const selectedQuestions = shuffled.slice(0, questionCount);
-      syncedQuestions = selectedQuestions;
+      // 🆕 Generate questions - load from API if availableQuestions is empty
+      let questionsPool = availableQuestions;
+
+      if (!questionsPool || questionsPool.length === 0) {
+        console.log('📥 availableQuestions empty, fetching from API...');
+        try {
+          questionsPool = await fetchAllQuestionsForGrade(selectedGrade);
+          console.log(`✅ Fetched ${questionsPool.length} questions from API`);
+        } catch (fetchErr) {
+          console.error('❌ Failed to fetch questions:', fetchErr);
+          throw new Error('No hay preguntas disponibles. Intenta de nuevo.');
+        }
+      }
+
+      if (questionsPool.length === 0) {
+        throw new Error('No hay preguntas disponibles para este grado.');
+      }
+
+      // 🆕 Filter by selected subject if not "Simulacro Completo"
+      let filteredPool = questionsPool;
+      if (selectedSubject && selectedSubject !== 'Simulacro Completo') {
+        const normalizeSubject = (s) => s?.toLowerCase()
+          .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+          .replace(/[\s_-]/g, '');
+
+        const targetSubject = normalizeSubject(selectedSubject);
+
+        filteredPool = questionsPool.filter(q => {
+          const qSubject = normalizeSubject(q.category?.split(' :: ')[0] || '');
+          return qSubject === targetSubject;
+        });
+
+        console.log(`🎯 Filtered by subject "${selectedSubject}": ${filteredPool.length}/${questionsPool.length} questions`);
+
+        if (filteredPool.length === 0) {
+          console.warn(`⚠️ No questions found for subject "${selectedSubject}", using full pool`);
+          filteredPool = questionsPool;
+        }
+      }
+
+      // 🎯 Select MORE questions to compensate for invalid ones (5x the needed amount)
+      const oversampleFactor = 5;
+      const sampleSize = Math.min(questionCount * oversampleFactor, filteredPool.length);
+      const shuffled = [...filteredPool].sort(() => 0.5 - Math.random());
+      const selectedQuestions = shuffled.slice(0, sampleSize);
+
+      console.log(`🔍 Sampling ${sampleSize} questions to find ${questionCount} valid ones...`);
+
+      // � DEBUG: Check questions BEFORE filtering
+      console.log('🔍 Sample questions before filter:', selectedQuestions.slice(0, 3).map(q => ({
+        id: q.id,
+        optionsCount: q.options?.length,
+        hasText: !!q.text,
+        hasCorrectId: !!q.correctOptionId
+      })));
+
+      // 🔥 CRITICAL: Validate questions have AT LEAST 4 options
+      const validQuestions = selectedQuestions.filter(q => {
+        const isValid = q &&
+          Array.isArray(q.options) &&
+          q.options.length >= 4 && // ✨ MUST have at least 4 options
+          q.id &&
+          q.text &&
+          q.correctOptionId;
+
+        if (!isValid && q) {
+          console.log('❌ Invalid question:', {
+            id: q.id,
+            optionsCount: q.options?.length,
+            hasText: !!q.text,
+            hasCorrectId: !!q.correctOptionId
+          });
+        }
+
+        return isValid;
+      });
+
+      if (validQuestions.length === 0) {
+        console.error('❌ All questions were invalid!');
+        console.error('Sample from pool:', questionsPool.slice(0, 5).map(q => ({
+          id: q.id,
+          optionsCount: q.options?.length,
+          options: q.options
+        })));
+        throw new Error('No se encontraron preguntas válidas con 4 opciones. Intenta de nuevo.');
+      }
+
+      if (validQuestions.length < selectedQuestions.length) {
+        console.warn(`⚠️ Filtered out ${selectedQuestions.length - validQuestions.length} invalid questions (< 4 options)`);
+      }
+
+      // 🎯 Take only the amount needed
+      syncedQuestions = validQuestions.slice(0, questionCount);
+
+      if (syncedQuestions.length < questionCount) {
+        console.warn(`⚠️ Only found ${syncedQuestions.length} valid questions out of ${questionCount} requested`);
+      }
+
+      console.log(`📝 Selected ${syncedQuestions.length} valid questions for party`);
 
       // 🎯 CRITICAL: Initialize P2P as primary method, Realtime as fallback
       let peerId = null;
@@ -413,13 +590,13 @@
         party_code: newPartyCode,
         host_name: 'Host',
         exam_config: {
-          subject: subject,
-          grade: currentGrade,
+          subject: selectedSubject,
+          grade: selectedGrade,
           num_questions: questionCount,
-          time_option: timeOption, // 🔧 Guardar configuración de tiempo
+          time_option: timeOption,
           difficulty: 'NORMAL',
-          questions: selectedQuestions,
-          host_peer_id: peerId // 🆕 Store PeerID in JSON (null if P2P failed)
+          questions: syncedQuestions, // 🔥 FIX: Use validated questions
+          host_peer_id: peerId
         },
         students: [],
         max_students: 50,
@@ -427,8 +604,8 @@
       });
 
       console.log('📝 Party creado con configuración:', {
-        subject,
-        grade: currentGrade,
+        subject: selectedSubject,
+        grade: selectedGrade,
         num_questions: questionCount,
         time_option: timeOption,
         questions_count: selectedQuestions.length
@@ -546,8 +723,25 @@
 
       // Sync Questions
       if (config.questions) {
-         syncedQuestions = config.questions;
+         // 🔥 Validate and filter questions
+         const validQuestions = config.questions.filter(q =>
+           q &&
+           Array.isArray(q.options) &&
+           q.options.length > 0 &&
+           q.id &&
+           q.text
+         );
+
+         syncedQuestions = validQuestions;
          console.log('✅ Preguntas sincronizadas:', syncedQuestions.length);
+
+         if (validQuestions.length < config.questions.length) {
+           console.warn(`⚠️ Guest filtered ${config.questions.length - validQuestions.length} invalid questions`);
+         }
+
+         if (syncedQuestions.length === 0) {
+           console.error('❌ Guest received no valid questions!');
+         }
       }
 
       // Sync configuration (guests mirror host config)
@@ -557,6 +751,14 @@
       }
       if (config.time_option !== undefined) {
         timeOption = config.time_option;
+      if (config.subject) {
+        selectedSubject = config.subject;
+        console.log('📚 Materia:', selectedSubject);
+      }
+      if (config.grade) {
+        selectedGrade = config.grade;
+        console.log('🎓 Grado:', selectedGrade);
+      }
         console.log('⏱️ Tiempo por pregunta:', timeOption === 0 ? 'Sin límite' : `${timeOption}s`);
       }
 
@@ -623,6 +825,8 @@
       isHost: isHost,
       sessionId: partyEnabled ? sessionId : undefined,
       timeLimitSeconds: timeOption > 0 ? timeOption * questionCount : 0,
+      subject: selectedSubject,
+      grade: selectedGrade,
       questions: partyEnabled && syncedQuestions.length > 0 ? syncedQuestions : undefined
     });
   }
@@ -652,6 +856,27 @@
 
         if (payload.new && payload.new.students) {
           connectedUsers = payload.new.students;
+        }
+
+        // 🆕 CRÍTICO: Sincronizar configuración del host (Realtime fallback)
+        if (!isHost && payload.new?.exam_config) {
+          const config = payload.new.exam_config;
+
+          // Sync questions if available
+          if (config.questions && config.questions.length > 0) {
+            syncedQuestions = config.questions;
+            console.log('✅ [Realtime] Preguntas sincronizadas:', syncedQuestions.length);
+          }
+
+          // Sync config values
+          if (config.num_questions !== undefined) {
+            questionCount = config.num_questions;
+            console.log('📊 [Realtime] Cantidad de preguntas:', questionCount);
+          }
+          if (config.time_option !== undefined) {
+            timeOption = config.time_option;
+            console.log('⏱️ [Realtime] Tiempo por pregunta:', timeOption === 0 ? 'Sin límite' : `${timeOption}s`);
+          }
         }
 
         // 🆕 CRÍTICO: Detectar cuando el host inicia el examen (status: active)
@@ -722,11 +947,101 @@
     </h2>
 
     <div class="space-y-6 relative z-10">
-      <!-- Subject Display -->
-      <div class="text-center mb-6">
-        <span class="text-xs uppercase tracking-widest opacity-60">Materia</span>
-        <h3 class="text-xl font-bold text-emerald-500">{subject || 'Simulacro Completo'}</h3>
-      </div>
+      <!-- 🆕 Grade and Subject Selection (Host only, before creating party) -->
+      {#if !partyCode || isHost}
+        {#if isEnglishDiagnosticMode}
+          <!-- 🇬🇧 English Diagnostic Mode Header -->
+          <div class="p-5 bg-gradient-to-r from-blue-900/30 via-purple-900/20 to-blue-900/30 border border-blue-500/30 rounded-xl">
+            <div class="flex items-center gap-4 mb-3">
+              <div class="w-14 h-14 rounded-xl bg-gradient-to-br from-blue-500/30 to-purple-500/30 flex items-center justify-center shadow-lg">
+                <img src="/favicon.png" alt="SaberParaTodos" class="w-9 h-9 object-contain" />
+              </div>
+              <div>
+                <h3 class="text-lg font-bold text-blue-400 uppercase tracking-wider flex items-center gap-2">
+                  Inglés Diagnóstico
+                  <span class="px-2 py-0.5 bg-purple-500/30 text-purple-300 text-[9px] font-bold uppercase tracking-widest rounded">
+                    Evaluación
+                  </span>
+                </h3>
+                <p class="text-xs text-white/60 mt-0.5">
+                  Niveles A1 a B2+ • Grados 3 al 11
+                </p>
+              </div>
+            </div>
+
+            <div class="bg-white/5 rounded-lg p-3 space-y-2">
+              <div class="flex items-start gap-2">
+                <span class="text-blue-400 text-sm">📊</span>
+                <p class="text-xs text-white/70">
+                  Este examen evaluará tu <strong class="text-blue-400">nivel real de inglés</strong> usando preguntas de todos los grados.
+                </p>
+              </div>
+              <div class="flex items-start gap-2">
+                <span class="text-emerald-400 text-sm">🎯</span>
+                <p class="text-xs text-white/70">
+                  Al terminar, recibirás tu <strong class="text-emerald-400">nivel CEFR estimado</strong> (A1-B2+) y recomendaciones personalizadas.
+                </p>
+              </div>
+              <div class="flex items-start gap-2">
+                <span class="text-purple-400 text-sm">📈</span>
+                <p class="text-xs text-white/70">
+                  Los siguientes exámenes se <strong class="text-purple-400">adaptarán a tu nivel</strong> para maximizar tu aprendizaje.
+                </p>
+              </div>
+            </div>
+          </div>
+        {:else}
+          <!-- Normal Grade and Subject Selection -->
+          <div class="space-y-4 p-4 bg-white/5 border border-white/10 rounded-lg">
+            <h3 class="text-xs uppercase tracking-widest text-emerald-400 font-bold">📚 Configuración del Examen</h3>
+
+            <!-- Grade Selector -->
+            <div>
+              <label class="block text-xs uppercase tracking-widest opacity-60 mb-2">Grado</label>
+              <div class="grid grid-cols-5 gap-2">
+                {#each availableGrades as grade}
+                  <button
+                    onclick={() => selectedGrade = grade}
+                    disabled={configLocked}
+                    class="px-3 py-2 rounded-lg text-sm font-bold transition-all duration-200 {selectedGrade === grade ? 'bg-emerald-500 text-black' : 'bg-white/5 text-white/60 hover:bg-white/10'} {configLocked ? 'opacity-50 cursor-not-allowed' : ''}"
+                  >
+                    {grade}°
+                  </button>
+                {/each}
+              </div>
+            </div>
+
+            <!-- Subject Selector -->
+            <div>
+              <label class="block text-xs uppercase tracking-widest opacity-60 mb-2">Materia</label>
+              <select
+                bind:value={selectedSubject}
+                disabled={configLocked}
+                class="w-full px-4 py-3 bg-gray-900/90 border border-white/10 rounded-lg text-white font-medium focus:outline-none focus:border-emerald-500 focus:ring-2 focus:ring-emerald-500/20 transition-all cursor-pointer hover:bg-gray-900 {configLocked ? 'opacity-50 cursor-not-allowed' : ''}"
+                style="background-color: rgb(17 24 39 / 0.9);"
+              >
+                {#each availableSubjects as subj}
+                  <option value={subj} class="bg-gray-900 text-white py-2">{subj}</option>
+                {/each}
+              </select>
+            </div>
+          </div>
+        {/if}
+      {/if}
+
+      <!-- Subject Display (for guests) -->
+      {#if partyCode && !isHost}
+        <div class="text-center p-4 bg-white/5 border border-white/10 rounded-lg">
+          <span class="text-xs uppercase tracking-widest opacity-60">Configuración del Host</span>
+          {#if isEnglishDiagnosticMode}
+            <h3 class="text-xl font-bold text-blue-400 mt-2">Inglés Diagnóstico</h3>
+            <p class="text-sm text-white/60 mt-1">Evaluación de Nivel A1-B2+</p>
+          {:else}
+            <h3 class="text-xl font-bold text-emerald-500 mt-2">{selectedSubject || 'Simulacro Completo'}</h3>
+            <p class="text-sm text-white/60 mt-1">Grado {selectedGrade}</p>
+          {/if}
+        </div>
+      {/if}
 
       <!-- Question Availability Panel -->
       {#if memoryStats.totalForSubject > 0}

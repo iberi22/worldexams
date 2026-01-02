@@ -2,11 +2,40 @@
   import { onMount } from 'svelte';
   import packageInfo from '../../package.json';
 
-  let buildInfo: any = null;
-  let showUpdateNotification = false;
-  let newVersion = '';
-  const CACHE_BUST = "v6-auto-refresh";
+  // Props
+  interface Props {
+    position?: 'bottom-left' | 'bottom-right';
+    showOnlyOnUpdate?: boolean;
+  }
+
+  let { position = 'bottom-left', showOnlyOnUpdate = false }: Props = $props();
+
+  // State (Svelte 5 runes)
+  let buildInfo = $state<{ version: string; commit: string; timestamp: string; env: string } | null>(null);
+  let showUpdateNotification = $state(false);
+  let newVersion = $state('');
+  let isExpanded = $state(false);
+  let isVisible = $state(!showOnlyOnUpdate);
+
   const LOCAL_VERSION = packageInfo.version;
+
+  // Derived values
+  let shortCommit = $derived(buildInfo?.commit?.substring(0, 7) || '');
+  let buildDate = $derived(buildInfo?.timestamp
+    ? new Date(buildInfo.timestamp).toLocaleDateString('es-CO', {
+        year: 'numeric',
+        month: 'short',
+        day: 'numeric',
+        hour: '2-digit',
+        minute: '2-digit'
+      })
+    : '');
+
+  let positionClasses = $derived(
+    position === 'bottom-right'
+      ? 'bottom-4 right-4'
+      : 'bottom-4 left-4'
+  );
 
   // Compare semantic versions (returns true if v1 < v2)
   function isNewerVersion(local: string, remote: string): boolean {
@@ -28,6 +57,7 @@
         cache: 'no-store',
         headers: { 'Cache-Control': 'no-cache' }
       });
+
       if (response.ok) {
         const serverInfo = await response.json();
         buildInfo = serverInfo;
@@ -37,145 +67,204 @@
           console.log(`[Update] New version detected: ${LOCAL_VERSION} → ${serverInfo.version}`);
           newVersion = serverInfo.version;
           showUpdateNotification = true;
-        } else {
-          console.log(`[Version] Current: ${LOCAL_VERSION}, Server: ${serverInfo.version}`);
+          isVisible = true;
         }
       }
     } catch (e) {
-      console.warn('Could not check for updates:', e);
+      // Silent fail - not critical
     }
   }
 
-  onMount(async () => {
+  onMount(() => {
     // Initial check for updates
-    await checkForUpdates();
+    checkForUpdates();
 
-    // Check for updates every 30 seconds (faster than before)
-    const updateInterval = setInterval(checkForUpdates, 30 * 1000);
+    // Check for updates every 60 seconds (production-friendly interval)
+    const updateInterval = setInterval(checkForUpdates, 60 * 1000);
 
-    // Register service worker for auto-updates
-    // In dev we disable SW to avoid stale cached HTML/CSP.
+    // Register service worker message listener
     if (!import.meta.env.DEV && 'serviceWorker' in navigator) {
-      try {
-        // Note: SW is registered in Layout.astro
-        const registration = await navigator.serviceWorker.ready;
-        console.log('[PWA] Using existing SW registration');
-
-        // Listen for new version messages
-        navigator.serviceWorker.addEventListener('message', (event) => {
-          if (event.data.type === 'NEW_VERSION_AVAILABLE') {
-            console.log('[Update] New version available:', event.data);
-            newVersion = event.data.newVersion;
-            showUpdateNotification = true;
-          }
-        });
-
-        // Check for updates immediately
-        registration.update();
-
-        // Check for updates every 2 minutes via SW
-        setInterval(() => {
-          registration.update();
-          // Also send message to SW to check build-info
-          if (registration.active) {
-            registration.active.postMessage({ type: 'CHECK_FOR_UPDATES' });
-          }
-        }, 2 * 60 * 1000);
-      } catch (error) {
-        console.error('[PWA] SW interaction failed:', error);
-      }
+      navigator.serviceWorker.addEventListener('message', (event) => {
+        if (event.data.type === 'NEW_VERSION_AVAILABLE') {
+          newVersion = event.data.newVersion;
+          showUpdateNotification = true;
+          isVisible = true;
+        }
+      });
     }
 
     return () => clearInterval(updateInterval);
   });
 
   function reloadApp() {
-    // Clear all caches
+    // Clear all caches before reload
     if ('caches' in window) {
       caches.keys().then(names => {
-        names.forEach(name => caches.delete(name));
+        Promise.all(names.map(name => caches.delete(name))).then(() => {
+          window.location.reload();
+        });
       });
+    } else {
+      window.location.reload();
     }
-
-    // Clear localStorage (preserving auth)
-    const authToken = localStorage.getItem('auth_token');
-    localStorage.clear();
-    if (authToken) {
-      localStorage.setItem('auth_token', authToken);
-    }
-
-    // Hard reload
-    window.location.reload();
   }
 
   function dismissUpdate() {
     showUpdateNotification = false;
   }
 
-  $: shortCommit = buildInfo?.commit?.substring(0, 7) || '?';
-  $: buildDate = buildInfo?.timestamp ? new Date(buildInfo.timestamp).toLocaleDateString('es-CO', {
-    year: 'numeric',
-    month: 'short',
-    day: 'numeric'
-  }) : '';
+  function toggleExpand() {
+    isExpanded = !isExpanded;
+  }
 </script>
 
-<div class="fixed top-4 right-4 z-50 flex flex-col items-end gap-2">
-  <!-- Version Badge -->
-  <div class="flex items-center gap-2 bg-black/40 backdrop-blur-md border border-white/10 rounded-full px-4 py-2 text-xs font-mono">
-    <span class="text-yellow-400/80">v{packageInfo.version}</span>
-    {#if buildInfo}
-      <span class="text-white/40">|</span>
-      <span class="text-emerald-500/70" title="Git commit">{shortCommit}</span>
-      {#if buildDate}
-        <span class="text-white/40">|</span>
-        <span class="text-white/50">{buildDate}</span>
-      {/if}
-    {/if}
-  </div>
-
-  <!-- Update Notification -->
-  {#if showUpdateNotification}
-    <div
-      class="bg-gradient-to-r from-emerald-500/90 to-blue-500/90 backdrop-blur-md border border-white/20 rounded-2xl p-4 shadow-2xl max-w-sm animate-slide-in-right"
-      style="animation: slideInRight 0.3s ease-out"
-    >
-      <div class="flex items-start gap-3">
-        <div class="text-2xl">🚀</div>
-        <div class="flex-1">
-          <h3 class="font-bold text-white mb-1">Nueva versión disponible</h3>
-          <p class="text-sm text-white/80 mb-3">
-            Versión {newVersion} lista. Actualiza para obtener las últimas mejoras.
-          </p>
-          <div class="flex gap-2">
-            <button
-              onclick={reloadApp}
-              class="px-4 py-2 bg-white/20 hover:bg-white/30 rounded-lg text-sm font-semibold text-white transition-colors"
-            >
-              Actualizar ahora
-            </button>
-            <button
-              onclick={dismissUpdate}
-              class="px-4 py-2 bg-black/20 hover:bg-black/30 rounded-lg text-sm text-white/60 hover:text-white/80 transition-colors"
-            >
-              Más tarde
-            </button>
+{#if isVisible}
+  <div class="fixed {positionClasses} z-50 flex flex-col gap-2 pointer-events-none">
+    <!-- Update Notification Toast -->
+    {#if showUpdateNotification}
+      <div
+        class="pointer-events-auto bg-gradient-to-r from-emerald-600/95 to-teal-600/95 backdrop-blur-xl border border-white/20 rounded-2xl p-4 shadow-2xl max-w-xs animate-slide-up"
+      >
+        <div class="flex items-start gap-3">
+          <div class="w-10 h-10 rounded-xl bg-white/20 flex items-center justify-center shrink-0">
+            <svg class="w-5 h-5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+            </svg>
+          </div>
+          <div class="flex-1 min-w-0">
+            <h3 class="font-bold text-white text-sm mb-0.5">Nueva versión disponible</h3>
+            <p class="text-xs text-white/80 mb-3">
+              v{LOCAL_VERSION} → v{newVersion}
+            </p>
+            <div class="flex gap-2">
+              <button
+                onclick={reloadApp}
+                class="px-3 py-1.5 bg-white/20 hover:bg-white/30 rounded-lg text-xs font-semibold text-white transition-all hover:scale-105 active:scale-95"
+              >
+                Actualizar
+              </button>
+              <button
+                onclick={dismissUpdate}
+                class="px-3 py-1.5 text-xs text-white/60 hover:text-white/90 transition-colors"
+              >
+                Después
+              </button>
+            </div>
           </div>
         </div>
       </div>
+    {/if}
+
+    <!-- Minimal Version Badge -->
+    <div class="pointer-events-auto">
+      <button
+        onclick={toggleExpand}
+        class="group flex items-center gap-1.5 bg-black/60 hover:bg-black/80 backdrop-blur-xl border border-white/10 hover:border-white/20 rounded-full px-3 py-1.5 text-[10px] font-mono transition-all duration-300 {isExpanded ? 'ring-1 ring-emerald-500/30' : ''}"
+        title="Información de versión"
+      >
+        <!-- Status indicator -->
+        <span class="relative flex h-2 w-2">
+          <span class="animate-ping absolute inline-flex h-full w-full rounded-full {showUpdateNotification ? 'bg-amber-400' : 'bg-emerald-400'} opacity-75"></span>
+          <span class="relative inline-flex rounded-full h-2 w-2 {showUpdateNotification ? 'bg-amber-500' : 'bg-emerald-500'}"></span>
+        </span>
+
+        <span class="text-white/70">v{LOCAL_VERSION}</span>
+
+        {#if shortCommit && isExpanded}
+          <span class="text-white/30">•</span>
+          <span class="text-emerald-400/80">{shortCommit}</span>
+        {/if}
+
+        <!-- Expand icon -->
+        <svg
+          class="w-3 h-3 text-white/40 group-hover:text-white/60 transition-transform duration-300 {isExpanded ? 'rotate-180' : ''}"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
+        >
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+        </svg>
+      </button>
+
+      <!-- Expanded Info Panel -->
+      {#if isExpanded && buildInfo}
+        <div class="mt-2 bg-black/80 backdrop-blur-xl border border-white/10 rounded-xl p-3 text-[10px] font-mono animate-fade-in min-w-[200px]">
+          <div class="space-y-2">
+            <div class="flex justify-between items-center">
+              <span class="text-white/50">Versión</span>
+              <span class="text-white/90 font-semibold">{LOCAL_VERSION}</span>
+            </div>
+            <div class="flex justify-between items-center">
+              <span class="text-white/50">Commit</span>
+              <a
+                href="https://github.com/worldexams/saberparatodos/commit/{buildInfo.commit}"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="text-emerald-400 hover:text-emerald-300 hover:underline"
+              >
+                {shortCommit}
+              </a>
+            </div>
+            <div class="flex justify-between items-center">
+              <span class="text-white/50">Build</span>
+              <span class="text-white/70">{buildDate}</span>
+            </div>
+            <div class="flex justify-between items-center">
+              <span class="text-white/50">Entorno</span>
+              <span class="px-1.5 py-0.5 rounded text-[9px] uppercase tracking-wider {buildInfo.env === 'production' ? 'bg-emerald-500/20 text-emerald-400' : 'bg-amber-500/20 text-amber-400'}">
+                {buildInfo.env === 'production' ? 'Prod' : 'Dev'}
+              </span>
+            </div>
+          </div>
+
+          <!-- Divider -->
+          <div class="border-t border-white/10 my-2"></div>
+
+          <!-- Quick Actions -->
+          <div class="flex gap-2">
+            <button
+              onclick={reloadApp}
+              class="flex-1 px-2 py-1.5 bg-white/5 hover:bg-white/10 rounded-lg text-white/60 hover:text-white/90 transition-colors text-center"
+              title="Recargar aplicación"
+            >
+              ↻ Recargar
+            </button>
+            <button
+              onclick={() => checkForUpdates()}
+              class="flex-1 px-2 py-1.5 bg-white/5 hover:bg-white/10 rounded-lg text-white/60 hover:text-white/90 transition-colors text-center"
+              title="Buscar actualizaciones"
+            >
+              ⟳ Buscar
+            </button>
+          </div>
+        </div>
+      {/if}
     </div>
-  {/if}
-</div>
+  </div>
+{/if}
 
 <style>
-  @keyframes slideInRight {
+  @keyframes slide-up {
     from {
-      transform: translateX(400px);
+      transform: translateY(20px);
       opacity: 0;
     }
     to {
-      transform: translateX(0);
+      transform: translateY(0);
       opacity: 1;
     }
+  }
+
+  @keyframes fade-in {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+
+  .animate-slide-up {
+    animation: slide-up 0.3s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  }
+
+  .animate-fade-in {
+    animation: fade-in 0.2s ease-out forwards;
   }
 </style>

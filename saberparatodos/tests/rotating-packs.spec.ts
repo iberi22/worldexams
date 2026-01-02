@@ -35,7 +35,6 @@ test.describe('🔄 Rotating Packs Protocol (SSR)', () => {
 
   test('should serve questions with caching headers', async ({ request }) => {
     const response = await request.get('/api/packs/current.json');
-    const headers = response.headers();
 
     // Cloudflare/CDN caching check
     // Note: Local dev might not have all headers, but let's check basic availability

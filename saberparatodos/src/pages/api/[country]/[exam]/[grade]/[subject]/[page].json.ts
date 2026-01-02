@@ -68,7 +68,7 @@ export async function getStaticPaths() {
 }
 
 export const GET: APIRoute = async ({ params }) => {
-  const { country, exam, grade, subject, page } = params;
+  const { country, grade, subject, page } = params;
 
   if (!country || !grade || !subject || !page) {
     return new Response(JSON.stringify({ error: 'Missing parameters' }), {
@@ -120,11 +120,11 @@ export const GET: APIRoute = async ({ params }) => {
     const paginatedQuestions = allQuestions.slice(startIndex, endIndex);
 
     // Transform to API format
-    const questions = paginatedQuestions.map((entry, index) => {
+    const questions = paginatedQuestions.flatMap((entry, entryIndex) => {
       const body = entry.body || '';
 
       // Debug: Log body length for first math question
-      if (entry.data.asignatura?.toLowerCase().includes('mat') && index === 0) {
+      if (entry.data.asignatura?.toLowerCase().includes('mat') && entryIndex === 0) {
         console.log(`🔍 First matemáticas question:`);
         console.log(`   ID: ${entry.data.id}`);
         console.log(`   Body length: ${body.length} chars`);
@@ -132,17 +132,21 @@ export const GET: APIRoute = async ({ params }) => {
         console.log(`   Has "### Explicación": ${body.includes('### Explicación')}`);
       }
 
-      // Extract question variants from markdown (v1-v7 format)
-      const questionMatches = body.matchAll(/## Pregunta \d+ \((.*?)\)/g);
-      const variants = Array.from(questionMatches);
+      // 🆕 Check for SIMPLIFIED QuickBundle format (## Q1 - Title, - [x] Answer)
+      const isQuickBundle = body.includes('## Q1') || body.includes('## Q2');
 
-      // Use first variant (v1) as default
+      if (isQuickBundle) {
+        // Parse QuickBundle format: ## Q1 - Category, **Statement**, - [x] Correct, - [ ] Wrong
+        return parseQuickBundle(body, entry.data.id, startIndex + entryIndex);
+      }
+
+      // STANDARD Protocol v3 format: ### Enunciado, ### Opciones, ### Explicación
       const questionText = extractSection(body, '### Enunciado', '### Opciones') || entry.data.id;
       const optionsText = extractSection(body, '### Opciones', '### Explicación') || '';
       const explanation = extractSection(body, '### Explicación Pedagógica', '---') || '';
 
       // Debug: Log extracted sections for first math question
-      if (entry.data.asignatura?.toLowerCase().includes('mat') && index === 0) {
+      if (entry.data.asignatura?.toLowerCase().includes('mat') && entryIndex === 0) {
         console.log(`   Extracted optionsText length: ${optionsText.length} chars`);
         console.log(`   First 200 chars: "${optionsText.substring(0, 200)}"`);
       }
@@ -151,9 +155,9 @@ export const GET: APIRoute = async ({ params }) => {
       const options = parseOptions(optionsText);
       const correctOption = options.find(opt => opt.is_correct);
 
-      return {
+      return [{
         id: `${entry.data.id}-v1`,
-        number: startIndex + index + 1,
+        number: startIndex + entryIndex + 1,
         statement: questionText.trim(),
         options: options,
         correct_answer: correctOption?.letter || 'A',
@@ -167,7 +171,7 @@ export const GET: APIRoute = async ({ params }) => {
         modern_context: (entry.data as any).modern_context || false,
         context_type: (entry.data as any).context_type || null,
         context_tags: (entry.data as any).context_tags || []
-      };
+      }];
     });
 
     const response = {
@@ -275,4 +279,88 @@ function mapDifficulty(level?: number): string {
   if (level <= 2) return 'Low';
   if (level <= 3) return 'Medium';
   return 'High';
+}
+
+/**
+ * 🆕 Parse QuickBundle format (simplified Grade 3 format)
+ * Format: ## Q1 - Category, **Statement** or bold line, - [x] Correct, - [ ] Wrong
+ */
+function parseQuickBundle(
+  body: string,
+  bundleId: string,
+  startNumber: number
+): Array<{
+  id: string;
+  number: number;
+  statement: string;
+  options: Array<{ letter: string; text: string; is_correct: boolean }>;
+  correct_answer: string;
+  explanation: string;
+  difficulty: string;
+  bundle_id: string;
+  source_url: string;
+  tags: string[];
+  images: string[];
+  modern_context: boolean;
+  context_type: string | null;
+  context_tags: string[];
+}> {
+  const results: Array<any> = [];
+
+  // Split by ## Q\d+
+  const sections = body.split(/(?=## Q\d+)/);
+
+  let qIndex = 0;
+  for (const section of sections) {
+    // Skip non-question sections (like topic header)
+    if (!section.match(/^## Q\d+/)) continue;
+
+    qIndex++;
+
+    // Extract statement (bold text after the header line)
+    const statementMatch = section.match(/\*\*([^*]+)\*\*/);
+    const statement = statementMatch ? statementMatch[1].trim() : `Question ${qIndex}`;
+
+    // Extract options (- [x] or - [ ] format)
+    const optionLines = section.split('\n').filter(line => line.match(/^-\s*\[[x ]\]/i));
+
+    const options: Array<{ letter: string; text: string; is_correct: boolean }> = [];
+    const letters = ['A', 'B', 'C', 'D'];
+
+    optionLines.forEach((line, idx) => {
+      const match = line.match(/^-\s*\[([x ])\]\s*(.+)/i);
+      if (match && idx < 4) {
+        // Clean the answer text (remove *(Spanish)* translation hints)
+        let answerText = match[2].trim().replace(/\*\([^)]+\)\*/g, '').trim();
+        options.push({
+          letter: letters[idx],
+          text: answerText,
+          is_correct: match[1].toLowerCase() === 'x'
+        });
+      }
+    });
+
+    // Only include if it has at least 2 valid options (MCQ requirement)
+    if (options.length >= 2) {
+      const correctOption = options.find(opt => opt.is_correct);
+      results.push({
+        id: `${bundleId}-q${qIndex}`,
+        number: startNumber + qIndex,
+        statement: statement,
+        options: options,
+        correct_answer: correctOption?.letter || 'A',
+        explanation: '',
+        difficulty: 'Low',
+        bundle_id: bundleId,
+        source_url: '',
+        tags: [],
+        images: [],
+        modern_context: false,
+        context_type: null,
+        context_tags: []
+      });
+    }
+  }
+
+  return results;
 }

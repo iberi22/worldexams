@@ -20,7 +20,9 @@
     "test:debug": "playwright test --debug",
     "test:headed": "playwright test --headed",
     "test:party": "playwright test party-mode.spec.ts",
-    "test:party:headed": "playwright test party-mode.spec.ts --headed"
+    "test:party:headed": "playwright test party-mode.spec.ts --headed",
+    "test:unit": "vitest run",
+    "test:coverage": "vitest run --coverage"
   },
   "dependencies": {
     "@astrojs/cloudflare": "^12.6.12",
@@ -42,11 +44,14 @@
     "@astrojs/check": "^0.9.5",
     "@playwright/test": "^1.57.0",
     "@types/node": "^20.0.0",
+    "@vitest/coverage-v8": "^4.0.16",
     "gray-matter": "^4.0.3",
     "husky": "^9.1.7",
+    "jsdom": "^27.4.0",
     "lint-staged": "^15.2.10",
     "pagefind": "^1.4.0",
-    "typescript": "^5.9.3"
+    "typescript": "^5.9.3",
+    "vitest": "^4.0.16"
   },
   "lint-staged": {
     "src/content/questions/**/*.md": [

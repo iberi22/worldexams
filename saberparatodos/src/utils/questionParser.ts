@@ -82,7 +82,7 @@ export interface BundleMetadata {
  * Normalize difficulty value to a number 1-5
  * Handles both numeric and text-based difficulty values
  */
-function normalizeDifficulty(difficulty: number | string | undefined): number {
+export function normalizeDifficulty(difficulty: number | string | undefined): number {
   if (difficulty === undefined || difficulty === null) return 3;
 
   // If already a number, ensure it's in range 1-5
@@ -97,6 +97,7 @@ function normalizeDifficulty(difficulty: number | string | undefined): number {
   if (text.includes('very easy') || text.includes('muy fácil') || text.includes('muy facil')) return 1;
   if (text.includes('easy') || text.includes('low') || text.includes('fácil') || text.includes('facil') || text.includes('bajo')) return 2;
   if (text.includes('medium') || text.includes('media') || text.includes('medio')) return 3;
+  if (text.includes('very hard') || text.includes('muy difícil') || text.includes('muy dificil')) return 5;
   if (text.includes('hard') || text.includes('high') || text.includes('difícil') || text.includes('dificil') || text.includes('alto')) return 4;
   if (text.includes('very hard') || text.includes('very difficult') || text.includes('muy difícil') || text.includes('muy dificil')) return 5;
 
@@ -215,8 +216,11 @@ export function parseBundleQuestions(entry: QuestionEntry): ParsedBundleQuestion
 
     const question = parseQuestionSection(sectionContent, sectionNumber, sectionType, entry.data.id);
     if (question) {
+      // Merge global context with question-specific context if both exist
       if (context) {
-        question.context = context;
+        question.context = question.context
+          ? `${context}\n\n${question.context}`
+          : context;
       }
       questions.push(question);
     }
@@ -240,6 +244,10 @@ function parseQuestionSection(
 
   // Determine variant type and difficulty
   const variantInfo = parseVariantType(sectionType);
+
+  // Extract question-specific context (optional)
+  const contextMatch = content.match(/### (?:Contexto|Context)\s+([\s\S]*?)(?=### (?:Enunciado|Question|Opciones|Options))/i);
+  const specificContext = contextMatch ? contextMatch[1].trim() : undefined;
 
   // Extract enunciado/question text
   const enunciadoMatch = content.match(/### (?:Enunciado|Question)\s+([\s\S]*?)(?=### (?:Opciones|Options))/i);
@@ -293,7 +301,8 @@ function parseQuestionSection(
     options,
     correctOptionId,
     explanation,
-    competency
+    competency,
+    context: specificContext
   };
 }
 

@@ -1,4 +1,5 @@
 import { joinRoom, selfId } from 'trystero/supabase';
+import { supabaseUrl, supabaseAnonKey } from './supabase';
 
 export type P2PMessageType = 'CONFIG_UPDATE' | 'START_EXAM' | 'READY_STATE' | 'EXAM_RESULT' | 'FOCUS_EVENT';
 
@@ -18,12 +19,13 @@ export class P2PService {
   private sendDataAction: any = null;
   private sendFullAction: any = null;
 
-  // Callbacks
-  private onDataCallback: ((data: P2PMessage) => void) | null = null;
+  // Callbacks - Now support multiple listeners
+  private dataCallbacks: Set<(data: P2PMessage) => void> = new Set();
   private onConnCallback: ((conn: any) => void) | null = null;
 
   constructor() {
     this.connections = [];
+    this.dataCallbacks = new Set();
   }
 
   // Set Host ID (for Guests to filter traffic)
@@ -38,10 +40,19 @@ export class P2PService {
     this.myPeerId = selfId;
     this.hostPeerId = selfId; // I am host
 
+    // Use exported values from supabase.ts to ensure consistency
+    const sbUrl = supabaseUrl?.trim();
+    const sbKey = supabaseAnonKey?.trim();
+
+    if (!sbUrl || !sbUrl.startsWith('http')) {
+        console.error('❌ Invalid Supabase URL:', sbUrl);
+        throw new Error('Invalid Supabase URL');
+    }
+
+    // Trystero Supabase strategy: `appId` MUST be your Supabase project URL
     const config = {
-        appId: 'saberparatodos-party',
-        supabaseUrl: import.meta.env.PUBLIC_SUPABASE_URL,
-        supabaseKey: import.meta.env.PUBLIC_SUPABASE_ANON_KEY,
+        appId: sbUrl,
+        supabaseKey: sbKey,
         rtcConfig: {
             iceServers: [
                 { urls: 'stun:stun.l.google.com:19302' },
@@ -51,6 +62,8 @@ export class P2PService {
     };
 
     console.log('📡 Initializing P2P Host with Trystero/Supabase...');
+    console.log('🔧 P2P Supabase project URL:', sbUrl, 'Length:', sbUrl.length);
+
     this.room = joinRoom(config, partyCode);
 
     // Setup Actions
@@ -58,7 +71,7 @@ export class P2PService {
     this.sendDataAction = sendData;
     getData((data: any, peerId: string) => this.handleData(data, peerId));
 
-    const [sendFull, getFull] = this.room.makeAction('party_full');
+    const [sendFull, _getFull] = this.room.makeAction('party_full');
     this.sendFullAction = sendFull;
 
     this.room.onPeerJoin((peerId: string) => {
@@ -88,10 +101,18 @@ export class P2PService {
     this.isHost = false;
     this.myPeerId = selfId;
 
+    const sbUrl = supabaseUrl?.trim();
+    const sbKey = supabaseAnonKey?.trim();
+
+    if (!sbUrl || !sbUrl.startsWith('http')) {
+        console.error('❌ Invalid Supabase URL:', sbUrl);
+        throw new Error('Invalid Supabase URL');
+    }
+
+    // Trystero Supabase strategy: `appId` MUST be your Supabase project URL
     const config = {
-        appId: 'saberparatodos-party',
-        supabaseUrl: import.meta.env.PUBLIC_SUPABASE_URL,
-        supabaseKey: import.meta.env.PUBLIC_SUPABASE_ANON_KEY,
+        appId: sbUrl,
+        supabaseKey: sbKey,
         rtcConfig: {
             iceServers: [
                 { urls: 'stun:stun.l.google.com:19302' },
@@ -106,10 +127,10 @@ export class P2PService {
     // Setup Actions
     const [sendData, getData] = this.room.makeAction('data');
     this.sendDataAction = sendData;
-    getData((data: any, peerId: string) => this.handleData(data, peerId));
+    getData((data: any, _peerId: string) => this.handleData(data, _peerId));
 
-    const [sendFull, getFull] = this.room.makeAction('party_full');
-    getFull((msg: string, peerId: string) => {
+    const [_sendFull, getFull] = this.room.makeAction('party_full');
+    getFull((msg: string, _peerId: string) => {
         if (msg === 'FULL') {
             console.warn('⛔ Party is full (P2P). Disconnecting.');
             this.disconnect();
@@ -139,12 +160,18 @@ export class P2PService {
           return;
       }
 
-      if (this.onDataCallback) {
-          const message: P2PMessage = {
-              ...data,
-              senderId: peerId
-          };
-          this.onDataCallback(message);
+      const message: P2PMessage = {
+          ...data,
+          senderId: peerId
+      };
+
+      // 🔥 Call ALL registered callbacks
+      for (const callback of this.dataCallbacks) {
+          try {
+              callback(message);
+          } catch (e) {
+              console.error('P2P callback error:', e);
+          }
       }
 
       // If Host, relay important messages to all other guests
@@ -179,9 +206,13 @@ export class P2PService {
       this.broadcast(type, payload);
   }
 
-  // Listeners
-  onData(cb: (data: P2PMessage) => void) {
-    this.onDataCallback = cb;
+  // Listeners - Returns unsubscribe function
+  onData(cb: (data: P2PMessage) => void): () => void {
+    this.dataCallbacks.add(cb);
+    // Return unsubscribe function
+    return () => {
+      this.dataCallbacks.delete(cb);
+    };
   }
 
   onConnection(cb: (conn: any) => void) {
@@ -210,6 +241,8 @@ export class P2PService {
         this.room = null;
     }
     this.connections = [];
+    this.dataCallbacks.clear();
+    this.hostPeerId = null;
   }
 
   // Alias for cleanup

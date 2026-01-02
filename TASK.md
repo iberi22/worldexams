@@ -4,45 +4,42 @@
 
 ## 🎯 Resumen Ejecutivo y Estado Actual
 
-**🔴 CRÍTICO:** **REGENERACIÓN DE BUNDLES** - 74 bundles eliminados por errores, plan de reemplazo activo (Dic 2025) 🚧
+**🔴 CRÍTICO:** **REGENERACIÓN DE BUNDLES** - 74 bundles pendientes de reemplazo (Matemáticas, Ciencias) 🚧
 
-**🔄 NUEVO:** **PAQUETES ROTATIVOS** - Sistema de exposición segura de preguntas sin Edge Functions (Dic 2025) 🚧
+**✅ COMPLETADO:** **INFOGRAFÍAS & INGLÉS (SERIES 1-5)** - Contenido visual y bundles B2+ implementados.
 
-**🔒 NUEVO:** **SEGURIDAD Y PERFORMANCE** - Mejoras críticas implementadas (Dic 2025) ✅
+**✅ COMPLETADO:** **PARTY MODE WEB** - PWA funcional, P2P Sync, y RLS configurados.
 
-**Estado General:** 🔄 **MIGRACIÓN A ORGANIZACIÓN COMPLETADA** ✅
+**🔒 EN PROGRESO:** **SISTEMA DE ROLES** - Fase de diseño completada, iniciando implementación.
 
-**NUEVO:** 🏢 **ORGANIZACIÓN GITHUB** - Repositorios separados por función (Backend privado, UI públicas) ✅
+**Estado General:** � **OPERATIVO - EN EXPANSIÓN DE CONTENIDO**
 
-**NUEVO:** 🔐 **SISTEMA DE ROLES Y VERIFICACIÓN** - Diferenciación Estudiante/Profesor/Institución (En Desarrollo) 🚧
+---
 
-**NUEVO:** 🎮 **PARTY MODE** - Aula Virtual Multiplayer (Fase 1 Completa + P2P Config Sync ✅) 🚧
+### � Tareas Activas (Sprint Actual)
 
-- [x] Corrección de errores sintácticos en `ResultsView.svelte`.
-- [x] Restauración de `handleStart` en `App.svelte` (Apertura de modal).
-- [x] Migración de `ExamConfigModal.svelte` a sintaxis Svelte 5 (`onclick`).
-- [x] Configuración de CSP para permitir PeerJS.
-- [x] Implementación completa de funciones faltantes (`subscribeToParty`, `handleResetMemory`, `refreshStudents`).
-- [x] Fix de error 406 Supabase (`.single()` → `.maybeSingle()`).
-- [x] Fix de `SyntaxError` en `Layout.astro` (deshabilitar/unregister SW en dev sin `import.meta` en runtime).
-- [x] Enforce "solo host configura" en Party Mode (guests ven config pero no pueden cambiarla).
-- [x] Añadir tiempos rápidos por pregunta (15s / 30s) para rondas cortas.
-- [ ] Verificar RLS policies en tabla `party_sessions` para guests.
-- [x] Pruebas E2E del flujo Host→Guest (crear, unirse, iniciar party) y sincronización básica.
+- [x] **Party Mode: Quick Wins (UX/Stability)**
+    - [x] Corrección de sintaxis (`ResultsView`, `App.svelte`, Svelte 5 migration).
+    - [x] Configuración CSP y Supabase RLS policies (Anonymous access validado).
+    - [x] UX: Nombre persistente, Cuenta atrás sincronizada, Share API.
+    - [x] **Bug fix:** 406 Supabase error & `handleStart` restoration.
+    - [ ] Feature: Botón "Revancha" (Host crea nueva sesión con misma config).
 
-### ⚡ Party Mode - Quick Wins (Enero 2026)
+- [x] **Expansión de Inglés & Infografías (Protocolo v3.0)**
+    - [x] **Nuevos Bundles B2+:** `Urbanization` y `Advertising` (10 preguntas c/u).
+    - [x] **Infografías (Guías Visuales):**
+        - [x] Digital Age (AI)
+        - [x] Environment (Urbanization)
+        - [x] Future of Work (Entrepreneurship)
+        - [x] Health & Wellness (Health)
+        - [x] Global Citizen (Globalization)
 
-Objetivo: mejoras **simples** (sin migraciones DB) para UX, estabilidad y viralidad.
+- [ ] **Regeneración de Contenido (Matemáticas & Ciencias)**
+    - [ ] **Fase 1: Matemáticas** (Álgebra, Derivadas) - *Avance parcial: 2 bundles detectados*
+    - [ ] **Fase 2: Ciencias Naturales** (Física, Química)
+    - [ ] **Fase 3: Lectura Crítica**
 
-- [x] (UX) Pedir nombre al unirse (guest) y persistir en `localStorage`.
-- [x] (Bugfix) Evitar duplicados de estudiante al refrescar (reusar `studentId` + upsert en `students`).
-- [x] (Lobby) Botón "✅ Estoy listo" para guests + contador de listos en host.
-- [x] (Lobby) Bloquear "Iniciar Party" hasta que todos estén listos.
-- [x] (Gameplay) Cuenta atrás sincronizada cuando `time_option > 0` (termina sesión para todos y muestra resultados).
-- [x] (Resilience) Indicador de estado Realtime (conectado/reconectando) y re-subscribe al volver online.
-- [x] (Share) Usar `navigator.share()` en mobile + fallback a clipboard.
-- [ ] (Flow) Botón "Revancha" al final: host crea nueva party con misma config (nuevo `party_code`).
-- [x] (Guardrails) Si `status !== waiting` al unirse, mostrar mensaje claro ("ya inició" / "finalizó").
+---
 
 **NUEVO:** 🔐 **ESTRATEGIA DE LICENCIAS** - Enfoque Híbrido CC BY-SA + Proprietary ✅
 

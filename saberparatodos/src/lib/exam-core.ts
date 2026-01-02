@@ -39,7 +39,6 @@ export function mixQuestionsForExam(
   // Calculate how many universal questions to add
   const targetCount = localQuestions.length;
   const maxUniversal = Math.floor(targetCount * (universalPercentage / 100));
-  const minLocalCalc = Math.max(minLocal, targetCount - maxUniversal); // Renamed to avoid confusion
 
   // Filter universal questions by criteria
   let universalCandidates = [...pool.all];

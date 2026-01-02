@@ -24,14 +24,7 @@ function parseBundleQuestions(fileContent, bundleId) {
 
   // 1. Extract Global Context
   const firstSectionIndex = fileContent.search(/## (?:Pregunta|Question)\s+\d+/i);
-  let globalContext = '';
-  if (firstSectionIndex > -1) {
-    let preamble = fileContent.substring(0, firstSectionIndex).trim();
-    preamble = preamble.replace(/# === METADATA GLOBAL ===/i, '');
-    preamble = preamble.replace(/^---+$/gm, '');
-    preamble = preamble.trim();
-    if (preamble.length > 0) globalContext = preamble;
-  }
+  // globalContext variable removed as it was unused
 
   // 2. Iterate Sections
   const sectionRegex = /## (?:Pregunta|Question)\s+(\d+)\s*\(([^)]+)\)[\s\S]*?(?=## (?:Pregunta|Question)\s+\d+|## 📊|---\s*$|$)/gi;
@@ -39,16 +32,15 @@ function parseBundleQuestions(fileContent, bundleId) {
 
   while ((match = sectionRegex.exec(fileContent)) !== null) {
       const sectionNumber = parseInt(match[1]);
-      const sectionType = match[2].trim();
+      const sectionType = match[2].trim(); // Still used to extract sectionType, but sectionType variable itself is not passed to parseQuestionSection
       const sectionContent = match[0];
-
-      const q = parseQuestionSection(sectionContent, sectionNumber, sectionType, bundleId);
+      const q = parseQuestionSection(sectionContent, sectionNumber, bundleId); // Removed sectionType argument
       if (q) questions.push(q);
   }
   return questions;
 }
 
-function parseQuestionSection(content, sectionNumber, sectionType, bundleId) {
+function parseQuestionSection(content, sectionNumber, bundleId) { // Removed sectionType parameter
     const strictIdMatch = content.match(/\*\*ID:\*\*\s*["`]?([^"`\n]+)["`]?/);
     let questionId = strictIdMatch ? strictIdMatch[1] : `${bundleId}-v${sectionNumber}`;
     questionId = questionId.replace(/['"]/g, '').trim();

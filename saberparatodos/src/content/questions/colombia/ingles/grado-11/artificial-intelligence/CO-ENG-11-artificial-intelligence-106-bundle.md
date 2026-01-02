@@ -179,3 +179,12 @@ bilingual_support: true
 ### Explicación Pedagógica
 **English:** This is a classic "legal liability" dilemma in AI ethics, concerning who is at fault when machines act independently.
 *Español: Este es un dilema clásico de "responsabilidad legal" en la ética de la IA.*
+
+---
+
+## 🎨 Visual Guide: The Digital Age
+
+![The Digital Age Infographic](/infographics/english/digital-age.png)
+
+> **Visual Summary:** Understanding the balance between connectivity (Pros) and distraction/privacy risks (Cons) is key to navigating the modern world.
+

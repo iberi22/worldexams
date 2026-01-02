@@ -228,3 +228,12 @@ ID: CO-ENG-09-health-wellness-003-v10
 
 ### Explicación Pedagógica
 **Correct Answer B:** Self-care is necessary to have energy and capacity to support others—not selfish, but sustainable.
+
+---
+
+## 🎨 Visual Guide: Health & Wellness
+
+![Health & Wellness Infographic](/infographics/english/health-wellness.png)
+
+> **Visual Summary:** A holistic approach to health involves strengthening the Mind (Stress Management), the Body (Exercise), and fueling right (Nutrition).
+

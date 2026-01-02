@@ -179,3 +179,12 @@ bilingual_support: true
 ### Explicación Pedagógica
 **English:** The statement addresses how wealth is distributed (inequality) across different groups.
 *Español: La declaración aborda cómo se distribuye la riqueza (desigualdad) entre diferentes grupos.*
+
+---
+
+## 🎨 Visual Guide: Global Citizenship
+
+![Global Citizenship Infographic](/infographics/english/global-citizen.png)
+
+> **Visual Summary:** True Global Citizenship connects cultures. It is built on four pillars: Diversity, Tolerance, Human Rights, and Cooperation.
+

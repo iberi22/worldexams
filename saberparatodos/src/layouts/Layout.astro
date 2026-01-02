@@ -3,6 +3,7 @@ import '../styles/global.css';
 import Navbar from '../components/Navbar.astro';
 import Footer from '../components/Footer.astro';
 import CookieConsent from '../components/CookieConsent.svelte';
+import VersionBadge from '../components/VersionBadge.svelte';
 
 // Import critical CSS for inlining
 import criticalCSS from '../styles/critical.css?raw';
@@ -161,6 +162,9 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
     <!-- Cookie Consent Banner (GDPR/AdSense Compliance) -->
     <CookieConsent client:only="svelte" />
+
+    <!-- Version Badge with Update Notifications -->
+    <VersionBadge client:only="svelte" position="bottom-left" />
 
     <!-- Scroll Reveal Script -->
     <script>

@@ -1,5 +1,8 @@
 # Supabase URL Configuration for saberparatodos
 
+> **🔐 Autenticación:** Esta plataforma usa **únicamente Magic Links** (enlaces mágicos).
+> **NO usamos contraseñas** para mayor seguridad y mejor experiencia de usuario.
+
 ## Site URL
 ```
 https://saberparatodos.pages.dev/
@@ -58,13 +61,25 @@ https://*.saberparatodos.pages.dev/**
   - Port 4321 is Astro's default
 
 - **`https://*.saberparatodos.pages.dev/**`**
-  - Covers Cloudflare preview deployments
-  - Each PR gets a unique subdomain
+  - 🔐 Magic Link Flow (Passwordless Authentication)
 
-### Magic Link Flow
+**Registro de usuario:**
+1. Usuario ingresa su email en `/register`
+2. Supabase envía magic link al correo
+3. Usuario hace clic en el enlace → redirige a la app
+4. Usuario queda autenticado automáticamente ✅
 
-1. User clicks "Login with email"
-2. Supabase sends magic link to email
+**Inicio de sesión:**
+1. Usuario ingresa su email en `/` (Login.svelte)
+2. Supabase envía magic link al correo
+3. Usuario hace clic en el enlace → redirige a la app
+4. Usuario queda autenticado automáticamente ✅
+
+**¿Por qué sin contraseñas?**
+- ✅ Mayor seguridad (sin riesgo de contraseñas débiles o robadas)
+- ✅ Mejor UX (sin necesidad de recordar contraseñas)
+- ✅ Sin flujo de "olvidé mi contraseña"
+- ✅ Protección contra ataques de fuerza brutank to email
 3. User clicks link → redirects to your app
 4. Redirect URL must be in the allow list
 5. User is authenticated ✅

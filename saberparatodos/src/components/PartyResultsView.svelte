@@ -1,5 +1,5 @@
 <script lang="ts">
-  import { onMount } from 'svelte';
+  import { onMount, onDestroy } from 'svelte';
   import FlashlightCard from './FlashlightCard.svelte';
   import { getPartySessionsByCode, type PartySessionRecord } from '../lib/idb-storage';
   import { formatBlurTime } from '../lib/focus-tracker';
@@ -13,9 +13,23 @@
   // State
   let sessions: PartySessionRecord[] = [];
   let isLoading = true;
+  let liveResults: any[] = []; // 🆕 Real-time results from P2P
 
-  // Computed stats
-  $: allSessions = [...sessions, ...externalResults.map(r => ({
+  // 🆕 Listen for real-time results
+  function handleResultReceived(event: CustomEvent) {
+    const result = event.detail;
+    console.log('📊 PartyResultsView received result:', result);
+
+    // Add to live results if not duplicate
+    if (!liveResults.find(r => r.sessionId === result.sessionId)) {
+      liveResults = [...liveResults, result];
+    }
+  }
+
+  // Computed stats - Merge all result sources
+  $: allSessions = [
+    ...sessions,
+    ...externalResults.map(r => ({
       sessionId: r.sessionId || 'p2p-' + Math.random(),
       partyCode,
       isHost: false,
@@ -27,13 +41,30 @@
       answers: {},
       score: Math.round((r.score / r.total) * 100),
       focusViolations: r.focusViolations || 0,
-      totalQuestions: r.total
-  }))];
+      totalQuestions: r.total,
+      finishedAt: r.finishedAt || Date.now()
+    })),
+    ...liveResults.map(r => ({
+      sessionId: r.sessionId || 'live-' + Math.random(),
+      partyCode,
+      isHost: false,
+      userName: r.name || 'Invitado',
+      grade: 0,
+      subject: 'Generico',
+      startedAt: 0,
+      questions: [],
+      answers: {},
+      score: Math.round((r.score / r.total) * 100),
+      focusViolations: r.focusViolations || 0,
+      totalQuestions: r.total,
+      finishedAt: r.finishedAt || Date.now()
+    }))
+  ];
 
-  // Deduplicate by name or session if possible?
-  // For now, simple merge. We might see duplicates if we save to IDB and receive P2P.
-  // Ideally we use ID for dedup.
-  $: uniqueSessions = Array.from(new Map(allSessions.map(s => [s.userName + s.score, s])).values());
+  // Deduplicate by sessionId
+  $: uniqueSessions = Array.from(
+    new Map(allSessions.map(s => [s.sessionId, s])).values()
+  ).sort((a, b) => (b.finishedAt || 0) - (a.finishedAt || 0)); // Sort by finish time
 
   $: concentratedUsers = uniqueSessions.filter(s => (s.focusViolations || 0) === 0).length;
   $: distractedUsers = uniqueSessions.filter(s => (s.focusViolations || 0) > 0).length;
@@ -50,11 +81,23 @@
       if (currentSession && !sessions.find(s => s.sessionId === currentSession.sessionId)) {
         sessions = [...sessions, currentSession];
       }
+
+      // 🆕 Load results from sessionStorage (P2P results)
+      const storedResults = JSON.parse(sessionStorage.getItem('party_results') || '[]');
+      liveResults = storedResults;
+
     } catch (err) {
       console.error('Error loading party sessions:', err);
     } finally {
       isLoading = false;
     }
+
+    // 🆕 Listen for real-time result updates
+    window.addEventListener('party-result-received', handleResultReceived);
+  });
+
+  onDestroy(() => {
+    window.removeEventListener('party-result-received', handleResultReceived);
   });
 
   function formatTime(ms: number): string {
@@ -79,13 +122,13 @@
       </div>
     </div>
 
-    <!-- Focus Summary Card (PREMIUM FEATURE) -->
+    <!-- Focus Summary Card -->
     <FlashlightCard className="p-6">
       <h2 class="text-xs uppercase tracking-widest text-purple-400 mb-4 font-bold">
         📊 Resumen de Concentración
       </h2>
 
-      <div class="grid grid-cols-2 gap-4 mb-6">
+      <div class="grid grid-cols-2 gap-4 mb-4">
         <div class="text-center p-4 bg-emerald-500/10 border border-emerald-500/30 rounded-xl">
           <div class="text-4xl font-black text-emerald-400 mb-1">{concentratedUsers}</div>
           <div class="text-xs uppercase tracking-wider text-white/60">Usuarios Concentrados</div>
@@ -99,25 +142,22 @@
         </div>
       </div>
 
-      <!-- Premium Upsell -->
-      <div class="bg-gradient-to-r from-purple-900/30 to-pink-900/30 border border-purple-500/30 rounded-xl p-4 text-center">
-        <p class="text-sm mb-3 text-white/80">
-          🔒 Ver detalles completos de concentración por usuario
+      <!-- Info Box (Replaced Pro Upsell) -->
+      <div class="bg-gradient-to-r from-blue-900/20 to-purple-900/20 border border-blue-500/20 rounded-xl p-3 text-center">
+        <p class="text-xs text-white/60">
+          💡 El seguimiento de concentración detecta cuando los usuarios salen de la aplicación durante el examen.
         </p>
-        <a
-          href="/pricing"
-          class="inline-block px-6 py-2 bg-gradient-to-r from-purple-600 to-pink-600 text-white font-bold uppercase tracking-widest text-xs rounded-full hover:shadow-[0_0_20px_rgba(168,85,247,0.4)] transition-all"
-        >
-          Actualizar a Pro / Instituciones
-        </a>
       </div>
     </FlashlightCard>
 
     <!-- Overall Stats -->
     <div class="grid grid-cols-3 gap-4">
       <FlashlightCard className="p-4 text-center">
-        <div class="text-2xl font-black text-white mb-1">{sessions.length}</div>
+        <div class="text-2xl font-black text-white mb-1">{uniqueSessions.length}</div>
         <div class="text-xs uppercase tracking-wider text-white/60">Participantes</div>
+        {#if liveResults.length > 0}
+          <div class="text-[10px] text-emerald-400 mt-1 animate-pulse">● En vivo</div>
+        {/if}
       </FlashlightCard>
 
       <FlashlightCard className="p-4 text-center">
@@ -127,7 +167,7 @@
 
       <FlashlightCard className="p-4 text-center">
         <div class="text-2xl font-black text-purple-400 mb-1">
-          {sessions[0]?.totalQuestions || 0}
+          {uniqueSessions[0]?.totalQuestions || 0}
         </div>
         <div class="text-xs uppercase tracking-wider text-white/60">Preguntas</div>
       </FlashlightCard>

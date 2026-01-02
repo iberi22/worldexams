@@ -123,20 +123,35 @@
         updatePayload.finished_at = new Date().toISOString();
       }
 
-      const { error } = await supabase
-        .from('party_sessions')
-        .update(updatePayload)
-        .eq('party_code', partyCode);
+      try {
+        const { error } = await supabase
+          .from('party_sessions')
+          .update(updatePayload)
+          .eq('party_code', partyCode);
 
-      if (error) console.error('Error updating party state:', error);
+        if (error) {
+          // 🆕 Handle RLS policy violations gracefully
+          if (error.code === '42501') {
+            console.warn('⚠️ RLS policy blocked update (anonymous user). Using P2P fallback.');
+          } else {
+            console.error('Error updating party state:', error);
+          }
+        }
+      } catch (dbErr) {
+        console.warn('⚠️ DB update failed, using P2P fallback:', dbErr);
+      }
 
-      // 2. Broadcast Event (Realtime)
+      // 2. Broadcast Event (Realtime) - Always attempt even if DB fails
       if (partyChannel) {
-        partyChannel.send({
-          type: 'broadcast',
-          event: 'game_state_update',
-          payload: broadcastPayload
-        });
+        try {
+          partyChannel.send({
+            type: 'broadcast',
+            event: 'game_state_update',
+            payload: broadcastPayload
+          });
+        } catch (e) {
+          console.warn('⚠️ Realtime broadcast failed:', e);
+        }
       }
   }
 

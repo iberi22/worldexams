@@ -1,4 +1,4 @@
-import { test, expect, type Page } from '@playwright/test';
+import { test, expect } from '@playwright/test';
 
 test.describe('Blog Filters - Subject, Grade, Difficulty', () => {
 
@@ -188,7 +188,6 @@ test.describe('Blog Filters - Subject, Grade, Difficulty', () => {
     await page.waitForTimeout(5000);
 
     // Find difficulty buttons (1-5)
-    const difficultySection = page.locator('text=/complejidad|dificultad/i').locator('..');
 
     // Try clicking difficulty level 3
     const diff3 = page.locator('button:has-text("3")').last();

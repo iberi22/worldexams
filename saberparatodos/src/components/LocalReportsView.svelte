@@ -33,6 +33,7 @@
   export let onClose: () => void;
   export let onStartExam: (() => void) | undefined = undefined;
   export let onNavigateToBlog: ((subject?: string) => void) | undefined = undefined;
+  export let onViewFullResult: ((examRecord: ExamResultRecord) => void) | undefined = undefined; // 🆕 View full exam results
 
   let activeTab: 'dashboard' | 'history' = 'dashboard';
   let historyResults: ExamResultRecord[] = [];
@@ -1253,6 +1254,21 @@
                           </div>
                         {/each}
                       </div>
+
+                      <!-- 🆕 View Full Report Button -->
+                      {#if onViewFullResult}
+                        <div class="pt-3 border-t border-white/5 mt-3">
+                          <button
+                            on:click|stopPropagation={() => onViewFullResult(result)}
+                            class="w-full py-2.5 bg-gradient-to-r from-emerald-600 to-emerald-500 hover:from-emerald-500 hover:to-emerald-400 text-white font-bold text-xs uppercase tracking-widest rounded-lg shadow-lg transition-all transform hover:scale-[1.02] flex items-center justify-center gap-2"
+                          >
+                            <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                            </svg>
+                            Ver Informe Completo
+                          </button>
+                        </div>
+                      {/if}
                     </div>
                   {:else if expandedExams.has(result.id || 0)}
                     <div class="border-t border-white/5 bg-black/20 p-4 text-center" transition:slide>

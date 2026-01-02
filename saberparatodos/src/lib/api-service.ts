@@ -198,26 +198,26 @@ function formatSubjectName(subject: string): string {
  *    - Pack format: options[].label, options[].isCorrect
  */
 function transformQuestion(apiQuestion: APIQuestion | any, grade: number, subject: string): AppQuestion {
-  // 🆕 Safely extract options, handling both formats
-  const rawOptions = apiQuestion.options || [];
+  // 🆕 Safely extract options, handling both formats (English/Spanish keys)
+  const rawOptions = apiQuestion.options || apiQuestion.opciones || [];
   const options = rawOptions.map((opt: any, index: number) => {
-    let id = opt.letter || opt.label || String.fromCharCode(65 + index);
+    let id = opt.letter || opt.label || opt.letra || String.fromCharCode(65 + index);
     // 🆕 Normalize ID: "A) " -> "A"
     if (typeof id === 'string') {
       id = id.replace(/\)\s*$/, '').trim();
     }
     return {
       id: id,
-      text: opt.text || ''
+      text: opt.text || opt.texto || ''
     };
   });
 
   // 🆕 Find correct answer - handle both formats
-  let correctOptionId = apiQuestion.correct_answer;
+  let correctOptionId = apiQuestion.correct_answer || apiQuestion.correctAnswer || apiQuestion.respuesta_correcta;
   if (!correctOptionId) {
     // Try to find from options with isCorrect or is_correct
-    const correctOpt = rawOptions.find((opt: any) => opt.isCorrect || opt.is_correct);
-    let id = correctOpt?.letter || correctOpt?.label || 'A';
+    const correctOpt = rawOptions.find((opt: any) => opt.isCorrect || opt.is_correct || opt.es_correcta);
+    let id = correctOpt?.letter || correctOpt?.label || correctOpt?.letra || 'A';
     if (typeof id === 'string') {
       id = id.replace(/\)\s*$/, '').trim();
     }
@@ -229,15 +229,15 @@ function transformQuestion(apiQuestion: APIQuestion | any, grade: number, subjec
 
   return {
     id: apiQuestion.id || '',
-    text: apiQuestion.statement || apiQuestion.text || apiQuestion.question || '',
+    text: apiQuestion.statement || apiQuestion.text || apiQuestion.question || apiQuestion.enunciado || '',
     options: options,
     correctOptionId: correctOptionId,
     category: `${formatSubjectName(subject)} :: ${bundleId}`,
-    explanation: cleanExplanation(apiQuestion.explanation),
-    grade: apiQuestion.grade || grade,
-    difficulty: mapDifficulty(apiQuestion.difficulty || 'Medium'),
+    explanation: cleanExplanation(apiQuestion.explanation || apiQuestion.explicacion),
+    grade: apiQuestion.grade || apiQuestion.grado || grade,
+    difficulty: mapDifficulty(apiQuestion.difficulty || apiQuestion.dificultad || 'Medium'),
     bundleId: bundleId,
-    context: apiQuestion.context,
+    context: apiQuestion.context || apiQuestion.contexto,
     // Modern questions metadata
     modernContext: apiQuestion.modern_context || apiQuestion.modernContext || false,
     contextType: apiQuestion.context_type || apiQuestion.contextType || undefined,
@@ -1046,3 +1046,271 @@ export async function fetchAllQuestionsForGradeWithPacks(
 
   return shuffled.slice(0, limit);
 }
+
+// ═══════════════════════════════════════════════════════════════════════════
+// 🆕 ENGLISH DIAGNOSTIC MODE - Cross-grade English Assessment
+// ═══════════════════════════════════════════════════════════════════════════
+
+/**
+ * Map grade to English proficiency level (A1-C1 CEFR approximation)
+ */
+function gradeToEnglishLevel(grade: number): { level: string; levelNum: number; description: string } {
+  const levelMap: Record<number, { level: string; levelNum: number; description: string }> = {
+    3: { level: 'A1', levelNum: 1, description: 'Básico - Principiante' },
+    5: { level: 'A1+', levelNum: 2, description: 'Básico - Elemental' },
+    6: { level: 'A2', levelNum: 3, description: 'Pre-Intermedio' },
+    7: { level: 'A2+', levelNum: 4, description: 'Pre-Intermedio Alto' },
+    8: { level: 'B1', levelNum: 5, description: 'Intermedio' },
+    9: { level: 'B1+', levelNum: 6, description: 'Intermedio Alto' },
+    10: { level: 'B2', levelNum: 7, description: 'Intermedio Superior' },
+    11: { level: 'B2+', levelNum: 8, description: 'Pre-Avanzado (ICFES)' }
+  };
+  return levelMap[grade] || levelMap[11];
+}
+
+/**
+ * 🆕 Fetch English questions from ALL grades for diagnostic/assessment mode
+ *
+ * Features:
+ * - Fetches English questions from grades 3, 5, 6, 7, 8, 9, 10, 11
+ * - Tags each question with its source grade and English level
+ * - Balances distribution across levels for accurate assessment
+ * - Supports party mode by returning consistent question sets
+ *
+ * @param limit Maximum total questions to return
+ * @param balanced If true, ensures equal distribution across levels
+ * @returns Array of AppQuestion with English level metadata
+ */
+export async function fetchEnglishQuestionsAllGrades(
+  limit: number = 30,
+  balanced: boolean = true
+): Promise<AppQuestion[]> {
+  const ALL_GRADES = [3, 5, 6, 7, 8, 9, 10, 11];
+  const cacheKey = `english_all_grades_${limit}_${balanced}`;
+
+  // Check cache first
+  if (questionCache.has(cacheKey)) {
+    console.log('📦 Using cached English questions (all grades)');
+    return questionCache.get(cacheKey)!;
+  }
+
+  console.log('🇬🇧 Fetching English questions from ALL grades for assessment...');
+
+  const questionsPerGrade = balanced ? Math.ceil(limit / ALL_GRADES.length) : limit;
+  const allEnglishQuestions: AppQuestion[] = [];
+
+  // Fetch English questions from each grade
+  for (const grade of ALL_GRADES) {
+    try {
+      // Try grade-specific endpoint first
+      const url = `/api/packs/grade/${grade}.json`;
+      const response = await fetch(url);
+
+      if (!response.ok) {
+        console.warn(`⚠️ No pack found for grade ${grade}, trying bulk...`);
+        continue;
+      }
+
+      const packData = await response.json();
+
+      if (!packData.questions || packData.questions.length === 0) {
+        continue;
+      }
+
+      // Filter only English questions
+      const englishQuestions = packData.questions.filter((q: any) => {
+        const subject = (q.subject || '').toLowerCase();
+        return subject === 'ingles' || subject === 'inglés' || subject === 'english';
+      });
+
+      if (englishQuestions.length === 0) {
+        console.log(`📭 No English questions for grade ${grade}`);
+        continue;
+      }
+
+      // Transform and tag with level
+      const levelInfo = gradeToEnglishLevel(grade);
+      const transformed = englishQuestions.map((q: any) => {
+        const appQ = transformQuestion(q, grade, 'ingles');
+        return {
+          ...appQ,
+          // 🆕 Add English level metadata
+          englishLevel: levelInfo.level,
+          englishLevelNum: levelInfo.levelNum,
+          englishLevelDesc: levelInfo.description,
+          sourceGrade: grade,
+          // Override category to include level
+          category: `INGLÉS ${levelInfo.level} :: ${appQ.bundleId || 'general'}`
+        };
+      });
+
+      // Shuffle and take balanced amount
+      const shuffled = transformed.sort(() => Math.random() - 0.5);
+      const toTake = balanced ? Math.min(shuffled.length, questionsPerGrade) : shuffled.length;
+      allEnglishQuestions.push(...shuffled.slice(0, toTake));
+
+      console.log(`✅ Grade ${grade} (${levelInfo.level}): ${shuffled.slice(0, toTake).length} English questions`);
+
+    } catch (error) {
+      console.error(`Error fetching English for grade ${grade}:`, error);
+    }
+  }
+
+  // Deduplicate by ID
+  const uniqueMap = new Map();
+  allEnglishQuestions.forEach(q => {
+    if (!uniqueMap.has(q.id)) {
+      uniqueMap.set(q.id, q);
+    }
+  });
+  let uniqueQuestions = Array.from(uniqueMap.values());
+
+  // Final shuffle and limit
+  uniqueQuestions = uniqueQuestions.sort(() => Math.random() - 0.5);
+  if (limit && uniqueQuestions.length > limit) {
+    uniqueQuestions = uniqueQuestions.slice(0, limit);
+  }
+
+  // Cache results
+  questionCache.set(cacheKey, uniqueQuestions);
+
+  // Log level distribution
+  const distribution: Record<string, number> = {};
+  uniqueQuestions.forEach(q => {
+    const level = (q as any).englishLevel || 'Unknown';
+    distribution[level] = (distribution[level] || 0) + 1;
+  });
+
+  console.log('🇬🇧 English Level Distribution:', distribution);
+  console.log(`📚 Total English questions loaded: ${uniqueQuestions.length}`);
+
+  return uniqueQuestions;
+}
+
+/**
+ * 🆕 Get English proficiency assessment based on exam results
+ *
+ * @param results Array of { questionId, isCorrect, englishLevelNum }
+ * @returns Assessment with estimated English level
+ */
+export function calculateEnglishProficiency(
+  results: Array<{ questionId: string; isCorrect: boolean; englishLevelNum: number }>
+): {
+  estimatedLevel: string;
+  estimatedLevelNum: number;
+  confidence: number;
+  breakdown: Record<string, { correct: number; total: number; percentage: number }>;
+  recommendation: string;
+} {
+  if (!results || results.length === 0) {
+    return {
+      estimatedLevel: 'N/A',
+      estimatedLevelNum: 0,
+      confidence: 0,
+      breakdown: {},
+      recommendation: 'Completa al menos un examen para ver tu nivel.'
+    };
+  }
+
+  // Group by level
+  const levelMap = {
+    1: 'A1', 2: 'A1+', 3: 'A2', 4: 'A2+',
+    5: 'B1', 6: 'B1+', 7: 'B2', 8: 'B2+'
+  };
+
+  const breakdown: Record<string, { correct: number; total: number; percentage: number }> = {};
+
+  results.forEach(r => {
+    const level = levelMap[r.englishLevelNum as keyof typeof levelMap] || 'Unknown';
+    if (!breakdown[level]) {
+      breakdown[level] = { correct: 0, total: 0, percentage: 0 };
+    }
+    breakdown[level].total++;
+    if (r.isCorrect) {
+      breakdown[level].correct++;
+    }
+  });
+
+  // Calculate percentages
+  Object.keys(breakdown).forEach(level => {
+    breakdown[level].percentage = Math.round(
+      (breakdown[level].correct / breakdown[level].total) * 100
+    );
+  });
+
+  // Find highest level with >= 70% correct
+  let estimatedLevelNum = 1;
+  const orderedLevels = ['A1', 'A1+', 'A2', 'A2+', 'B1', 'B1+', 'B2', 'B2+'];
+
+  for (let i = 0; i < orderedLevels.length; i++) {
+    const level = orderedLevels[i];
+    if (breakdown[level] && breakdown[level].percentage >= 70) {
+      estimatedLevelNum = i + 1;
+    } else if (breakdown[level] && breakdown[level].percentage < 50) {
+      // Stop if we fail a level badly
+      break;
+    }
+  }
+
+  const estimatedLevel = levelMap[estimatedLevelNum as keyof typeof levelMap] || 'A1';
+
+  // Calculate confidence based on sample size
+  const totalAnswered = results.length;
+  const confidence = Math.min(100, Math.round((totalAnswered / 30) * 100));
+
+  // Generate recommendation
+  let recommendation = '';
+  if (estimatedLevelNum <= 2) {
+    recommendation = 'Enfócate en vocabulario básico y estructuras simples. Practica con contenido de grados 3-5.';
+  } else if (estimatedLevelNum <= 4) {
+    recommendation = 'Buen progreso! Trabaja en gramática intermedia y comprensión lectora. Contenido de grados 6-7.';
+  } else if (estimatedLevelNum <= 6) {
+    recommendation = 'Nivel intermedio sólido. Practica textos más complejos y vocabulario académico. Grados 8-9.';
+  } else {
+    recommendation = '¡Excelente nivel! Prepárate para el ICFES con simulacros completos de grado 11.';
+  }
+
+  return {
+    estimatedLevel,
+    estimatedLevelNum,
+    confidence,
+    breakdown,
+    recommendation
+  };
+}
+
+// ═══════════════════════════════════════════════════════════════════════════
+// 🆕 RE-EXPORT: Enhanced English Proficiency Assessment (v2)
+// ═══════════════════════════════════════════════════════════════════════════
+
+// Export the enhanced proficiency calculation from the dedicated module
+export {
+  calculateEnglishProficiencyV2,
+  parseCEFRLevel,
+  examResultsToQuestionResults,
+  CEFR_LEVELS,
+  CEFR_LEVEL_NUM,
+  GRADE_TO_CEFR,
+  type QuestionResult,
+  type EnglishProficiencyResult,
+  type LevelStats,
+  type CEFRLevel
+} from './english-proficiency';
+
+// Export adaptive exam services
+export {
+  generateAdaptiveEnglishExam,
+  selectInitialQuestions,
+  initializeAdaptiveExam,
+  type AdaptiveExamState,
+  type AdaptiveConfig
+} from './adaptive-exam-service';
+
+// Export NotebookLM curriculum services
+export {
+  generateStudyPlan,
+  type NotebookStudyPlan,
+  type StudyModule
+} from './notebooklm/curriculum-service';
+
+

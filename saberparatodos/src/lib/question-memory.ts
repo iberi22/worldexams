@@ -486,12 +486,19 @@ export function exportMemory(): string {
 
 /**
  * Save answered question to database (if user is logged in)
+ * 🚫 DISABLED: Per design decision, all exam history stays LOCAL only for now
  */
 async function saveToDatabase(
-  questionId: string,
-  wasCorrect: boolean,
-  metadata?: { subject?: string; grade?: number; difficulty?: number; timeSeconds?: number }
+  _questionId: string,
+  _wasCorrect: boolean,
+  _metadata?: { subject?: string; grade?: number; difficulty?: number; timeSeconds?: number }
 ): Promise<void> {
+  // 🚫 DATABASE WRITES DISABLED
+  // All exam history is stored locally (localStorage/IndexedDB) only
+  // This prevents requiring user auth and keeps data on-device
+  return;
+
+  /* Original implementation kept for future reference:
   try {
     const { data: { session } } = await supabase.auth.getSession();
     if (!session) return; // Guest user, skip DB
@@ -515,6 +522,7 @@ async function saveToDatabase(
   } catch (err) {
     console.error('Database error:', err);
   }
+  */
 }
 
 /**

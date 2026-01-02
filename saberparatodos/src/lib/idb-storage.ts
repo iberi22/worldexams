@@ -146,7 +146,7 @@ export async function saveExamResultLocal(
       totalQuestions,
       correctCount,
       timeSpentSeconds,
-      answers: JSON.parse(JSON.stringify(answers)), // Sanitize answers too
+      answers: JSON.parse(JSON.stringify(answers || {})), // ⚡ FIXED: Default to {} to avoid "undefined" JSON error
       details: cleanDetails,
       synced: false
     };
@@ -411,10 +411,8 @@ export async function getKnownQuestion(id: string): Promise<any | null> {
         if (request.result) {
           resolve(request.result);
         } else {
-          // If not found, try fuzzy search (slower but safer)
           // We iterate because IndexedDB doesn't have "contains" queries without iterating
           const cursorRequest = store.openCursor();
-          let found = null;
 
           // Normalize ID for fuzzy match
           const searchId = id.toLowerCase().replace(/-v\d+$/i, '').replace(/r$/, ''); // celular -> celula
@@ -429,7 +427,6 @@ export async function getKnownQuestion(id: string): Promise<any | null> {
               if (qId === id.toLowerCase() ||
                   qId.includes(searchId) ||
                   bundleId.includes(searchId)) {
-                found = q;
                 resolve(q); // Found match!
                 return;
               }

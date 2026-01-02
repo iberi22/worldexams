@@ -139,82 +139,68 @@ self.addEventListener('fetch', (event) => {
   }
 
   // 🆕 PACK FILES: Cache First (persistent storage)
-  // Packs are immutable once generated, so cache-first is safe
   if (event.request.url.includes('/packs/') && event.request.url.endsWith('.json')) {
-    event.respondWith(
-      caches.open(PACK_CACHE).then(cache => {
-        return cache.match(event.request).then(cachedResponse => {
-          if (cachedResponse) {
-            console.log('[SW] 📦 Serving pack from cache:', event.request.url);
-            return cachedResponse;
-          }
+    event.respondWith((async () => {
+      const cache = await caches.open(PACK_CACHE);
+      const cachedResponse = await cache.match(event.request);
+      if (cachedResponse) {
+        console.log('[SW] 📦 Serving pack from cache:', event.request.url);
+        return cachedResponse;
+      }
 
-          // Not in cache, fetch from network
-          return fetch(event.request).then(networkResponse => {
-            if (networkResponse.ok) {
-              console.log('[SW] 📦 Caching new pack:', event.request.url);
-              cache.put(event.request, networkResponse.clone());
-            }
-            return networkResponse;
-          });
-        });
-      })
-    );
+      try {
+        const networkResponse = await fetch(event.request);
+        if (networkResponse.ok) {
+          console.log('[SW] 📦 Caching new pack:', event.request.url);
+          cache.put(event.request, networkResponse.clone());
+        }
+        return networkResponse;
+      } catch (e) {
+        return new Response('Offline and not in cache', { status: 503 });
+      }
+    })());
     return;
   }
 
-  // 🆕 CURRENT PACK METADATA: Network First (needs to be fresh)
+  // 🆕 CURRENT PACK METADATA: Network First
   if (event.request.url.includes('current-pack.json')) {
-    event.respondWith(
-      fetch(event.request)
-        .then(response => {
-          if (response.ok) {
-            const responseClone = response.clone();
-            caches.open(CACHE_NAME).then(cache => {
-              cache.put(event.request, responseClone);
-            });
-          }
-          return response;
-        })
-        .catch(() => {
-          console.log('[SW] Network failed for current-pack, using cache');
-          return caches.match(event.request);
-        })
-    );
+    event.respondWith((async () => {
+      try {
+        const response = await fetch(event.request);
+        if (response.ok) {
+          const cache = await caches.open(CACHE_NAME);
+          cache.put(event.request, response.clone());
+        }
+        return response;
+      } catch (e) {
+        console.log('[SW] Network failed for current-pack, using cache');
+        return await caches.match(event.request);
+      }
+    })());
     return;
   }
 
   // Default: Network First
-  event.respondWith(
-    fetch(event.request)
-      .then(response => {
-        // If we get a 404 or error, don't cache it
-        if (!response || response.status !== 200) {
-          return response;
-        }
-
-        // Cache successful responses
+  event.respondWith((async () => {
+    try {
+      const response = await fetch(event.request);
+      if (response && response.status === 200) {
         if (response.type === 'basic' || response.url.includes(self.location.origin)) {
-          const responseClone = response.clone();
-          caches.open(CACHE_NAME).then(cache => {
-            cache.put(event.request, responseClone);
-          });
+          const cache = await caches.open(CACHE_NAME);
+          cache.put(event.request, response.clone());
         }
-        return response;
-      })
-      .catch(() => {
-        // Network failed, try cache
-        return caches.match(event.request)
-          .then(cachedResponse => {
-            if (cachedResponse) return cachedResponse;
+      }
+      return response;
+    } catch (e) {
+      // Network failed, try cache
+      const cachedResponse = await caches.match(event.request);
+      if (cachedResponse) return cachedResponse;
 
-            // Fallback to offline page for navigation requests
-            if (event.request.mode === 'navigate') {
-              return caches.match(OFFLINE_URL);
-            }
-            // If no cache, return a simple error response instead of null to avoid TypeError
-            return new Response('Offline and not in cache', { status: 503 });
-          });
-      })
-  );
+      // Fallback to offline page
+      if (event.request.mode === 'navigate') {
+        return await caches.match(OFFLINE_URL);
+      }
+      return new Response('Offline and not in cache', { status: 503 });
+    }
+  })());
 });

@@ -38,7 +38,7 @@ function normalizeSubject(subject: string): string {
   return mapping[s] || s.replace(/ /g, '_');
 }
 
-export const GET: APIRoute = async ({ request }) => {
+export const GET: APIRoute = async () => {
   // 1. Calculate Time-Based Seed
   const packId = getPackId();
   const nextRotation = getNextRotationDate();

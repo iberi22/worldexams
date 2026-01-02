@@ -1,6 +1,6 @@
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
-import { getPackId, getNextRotationDate, seededShuffle, ROTATION_DAYS, QUESTIONS_PER_SUBJECT, MAX_WEEKLY_QUESTIONS } from '../../../../utils/rotation-logic';
+import { getPackId, getNextRotationDate, seededShuffle, ROTATION_DAYS, QUESTIONS_PER_SUBJECT } from '../../../../utils/rotation-logic';
 import { getAllQuestionsFromBundle, type QuestionEntry } from '../../../../utils/questionParser';
 
 /**

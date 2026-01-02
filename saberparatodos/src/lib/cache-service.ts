@@ -17,7 +17,6 @@ export interface CachedQuestionPool {
 const DB_NAME = 'saberparatodos_cache';
 const DB_VERSION = 1;
 const STORE_NAME = 'question_pools';
-const GUEST_QUESTION_LIMIT = 100;
 const DEFAULT_CACHE_EXPIRY_HOURS = 24;
 
 class CacheService {

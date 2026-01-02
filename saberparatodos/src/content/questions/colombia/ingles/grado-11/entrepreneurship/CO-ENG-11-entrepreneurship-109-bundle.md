@@ -179,3 +179,12 @@ bilingual_support: true
 ### Explicación Pedagógica
 **English:** "Creating more leaders" implies empowering others and helping them grow.
 *Español: "Crear más líderes" implica empoderar a otros y ayudarlos a crecer.*
+
+---
+
+## 🎨 Visual Guide: Future of Work
+
+![Future of Work Infographic](/infographics/english/future-of-work.png)
+
+> **Visual Summary:** Comparing career paths: Traditional Corporate Jobs (Predictable, Low Risk) vs. Entrepreneurship (High Risk, Innovation, Potential for Growth).
+
