@@ -99,6 +99,26 @@ async function createParty() {
 }
 ```
 
+---
+
+## ✅ Notas de Implementación (Enero 2026)
+
+- **Host-only config:** los parámetros (`num_questions`, `time_option`) se definen por el host; guests solo sincronizan/leen desde `exam_config`.
+- **Timers rápidos:** soportar rondas cortas con `15s` y `30s` por pregunta.
+- **P2P opcional:** si PeerJS no está disponible, usar solo Supabase Realtime.
+- **PWA/Service Worker:** evitar caché stale en dev (desregistrar SW y limpiar caches) para no arrastrar CSP viejo.
+
+---
+
+## ⚡ Quick Wins (sin migraciones DB)
+
+1. **Player name**: pedir nombre al unirse y persistirlo.
+2. **Dedup refresh**: reusar `studentId` en recargas y actualizar en lugar de append.
+3. **Ready-check**: broadcast "ready" y gating del inicio.
+4. **Connection health**: indicador de Realtime + re-subscribe automático.
+5. **Share viral**: `navigator.share()` + fallback a clipboard.
+6. **Rematch**: botón de revancha (nueva party) con la misma config.
+
 ### 2. Students se unen
 
 ```typescript

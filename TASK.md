@@ -1,5 +1,6 @@
 # Gestión de Tareas: World Exams Organization
-_Última actualización: 2025-12-27_
+
+Última actualización: 2026-01-01
 
 ## 🎯 Resumen Ejecutivo y Estado Actual
 
@@ -15,11 +16,37 @@ _Última actualización: 2025-12-27_
 
 **NUEVO:** 🔐 **SISTEMA DE ROLES Y VERIFICACIÓN** - Diferenciación Estudiante/Profesor/Institución (En Desarrollo) 🚧
 
-**NUEVO:** 🎮 **PARTY MODE** - Aula Virtual Multiplayer (Fase 1 Completa + Tests E2E) ✅
+**NUEVO:** 🎮 **PARTY MODE** - Aula Virtual Multiplayer (Fase 1 Completa + P2P Config Sync ✅) 🚧
+
+- [x] Corrección de errores sintácticos en `ResultsView.svelte`.
+- [x] Restauración de `handleStart` en `App.svelte` (Apertura de modal).
+- [x] Migración de `ExamConfigModal.svelte` a sintaxis Svelte 5 (`onclick`).
+- [x] Configuración de CSP para permitir PeerJS.
+- [x] Implementación completa de funciones faltantes (`subscribeToParty`, `handleResetMemory`, `refreshStudents`).
+- [x] Fix de error 406 Supabase (`.single()` → `.maybeSingle()`).
+- [x] Fix de `SyntaxError` en `Layout.astro` (deshabilitar/unregister SW en dev sin `import.meta` en runtime).
+- [x] Enforce "solo host configura" en Party Mode (guests ven config pero no pueden cambiarla).
+- [x] Añadir tiempos rápidos por pregunta (15s / 30s) para rondas cortas.
+- [ ] Verificar RLS policies en tabla `party_sessions` para guests.
+- [x] Pruebas E2E del flujo Host→Guest (crear, unirse, iniciar party) y sincronización básica.
+
+### ⚡ Party Mode - Quick Wins (Enero 2026)
+
+Objetivo: mejoras **simples** (sin migraciones DB) para UX, estabilidad y viralidad.
+
+- [x] (UX) Pedir nombre al unirse (guest) y persistir en `localStorage`.
+- [x] (Bugfix) Evitar duplicados de estudiante al refrescar (reusar `studentId` + upsert en `students`).
+- [x] (Lobby) Botón "✅ Estoy listo" para guests + contador de listos en host.
+- [x] (Lobby) Bloquear "Iniciar Party" hasta que todos estén listos.
+- [x] (Gameplay) Cuenta atrás sincronizada cuando `time_option > 0` (termina sesión para todos y muestra resultados).
+- [x] (Resilience) Indicador de estado Realtime (conectado/reconectando) y re-subscribe al volver online.
+- [x] (Share) Usar `navigator.share()` en mobile + fallback a clipboard.
+- [ ] (Flow) Botón "Revancha" al final: host crea nueva party con misma config (nuevo `party_code`).
+- [x] (Guardrails) Si `status !== waiting` al unirse, mostrar mensaje claro ("ya inició" / "finalizó").
 
 **NUEVO:** 🔐 **ESTRATEGIA DE LICENCIAS** - Enfoque Híbrido CC BY-SA + Proprietary ✅
 
-**NUEVO:** 🧪 **CI/CD + MONITORING** - GitHub Actions + Sentry Integration ✅
+**NUEVO:** 🧪 **DEPLOY + MONITORING** - Deploy manual (CLI) + Sentry Integration ✅
 
 **Enfoque Actual:** 🔄 **PAQUETES ROTATIVOS** - Exponer solo 27% del banco mediante rotación cada 5 días
 

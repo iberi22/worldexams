@@ -37,6 +37,30 @@
 
 ---
 
+## ✅ Estado Actual (Enero 2026)
+
+- **Host-authoritative config:** solo el host puede cambiar cantidad de preguntas y tiempo; guests solo visualizan.
+- **Tiempos rápidos:** disponible `15s` y `30s` por pregunta (además de 0/60/90).
+- **P2P opcional:** si PeerJS falla o está bloqueado, el sistema funciona por Supabase Realtime.
+- **Nota Dev (PWA/SW):** en desarrollo se desregistra el Service Worker y se limpian caches para evitar HTML/CSP stale.
+
+---
+
+## ⚡ Roadmap "Quick Wins" (sin migraciones)
+
+Estas mejoras están diseñadas para ser pequeñas, de bajo riesgo y rápidas de iterar:
+
+1. **Nombre de jugador al unirse** + persistencia en `localStorage`.
+2. **Evitar duplicados al refrescar** (reusar `studentId` y actualizar entrada existente).
+3. **Ready-check en lobby** ("Estoy listo") + contador visible para host.
+4. **Gating de inicio**: host solo puede iniciar cuando haya listos.
+5. **Countdown UI** cuando hay límite de tiempo por pregunta.
+6. **Indicador de conexión** (Realtime conectado/reconectando) y re-subscribe al volver online.
+7. **Compartir link nativo** (`navigator.share`) con fallback a copiar.
+8. **Revancha** al final (nueva party con misma config).
+
+---
+
 ## 🏗️ Arquitectura
 
 ### Diagrama de Componentes
