@@ -212,10 +212,36 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     </script>
 
     <!-- Register Service Worker for PWA -->
-    <script is:inline>
+    <script is:inline define:vars={{ IS_DEV: import.meta.env.DEV }}>
+
       if ('serviceWorker' in navigator) {
-        window.addEventListener('load', () => {
-          navigator.serviceWorker.register('/sw.js')
+        window.addEventListener('load', async () => {
+          // In dev, we aggressively disable SW + caches to avoid serving stale HTML/CSP.
+          // This prevents CSP mismatches like missing PeerJS domains.
+          if (IS_DEV) {
+            try {
+              const registrations = await navigator.serviceWorker.getRegistrations();
+              await Promise.all(registrations.map((r) => r.unregister()));
+              console.log('[PWA] Dev mode: Service Workers unregistered');
+            } catch (error) {
+              console.warn('[PWA] Dev mode: Failed to unregister SW:', error);
+            }
+
+            try {
+              if ('caches' in window) {
+                const cacheNames = await caches.keys();
+                await Promise.all(cacheNames.map((name) => caches.delete(name)));
+                console.log('[PWA] Dev mode: Caches cleared');
+              }
+            } catch (error) {
+              console.warn('[PWA] Dev mode: Failed to clear caches:', error);
+            }
+
+            return;
+          }
+
+          navigator.serviceWorker
+            .register('/sw.js')
             .then((registration) => {
               console.log('[PWA] Service Worker registered:', registration.scope);
             })

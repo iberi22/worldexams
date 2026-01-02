@@ -47,7 +47,7 @@
         .from('party_sessions')
         .select('students')
         .eq('party_code', partyCode)
-        .single();
+        .maybeSingle();
 
       if (data && Array.isArray(data.students)) {
           students = data.students;

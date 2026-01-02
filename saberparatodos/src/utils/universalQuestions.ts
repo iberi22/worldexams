@@ -236,7 +236,7 @@ export function buildUniversalQuestionPool(
 
     // FILTER 5: Subject filter
     if (subject) {
-      if (!data.asignatura.toLowerCase().includes(subject.toLowerCase())) continue;
+      if (!data.asignatura || !data.asignatura.toLowerCase().includes(subject.toLowerCase())) continue;
     }
 
     // Extract questions from bundle or single entry

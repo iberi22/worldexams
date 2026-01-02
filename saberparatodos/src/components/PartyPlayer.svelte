@@ -49,7 +49,7 @@
         .from('party_sessions')
         .select('*')
         .eq('party_code', partyCode)
-        .single();
+        .maybeSingle();
 
       if (fetchError || !partyData) {
         viewState = 'error';

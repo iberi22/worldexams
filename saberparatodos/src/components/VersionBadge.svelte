@@ -54,7 +54,8 @@
     const updateInterval = setInterval(checkForUpdates, 30 * 1000);
 
     // Register service worker for auto-updates
-    if ('serviceWorker' in navigator) {
+    // In dev we disable SW to avoid stale cached HTML/CSP.
+    if (!import.meta.env.DEV && 'serviceWorker' in navigator) {
       try {
         // Note: SW is registered in Layout.astro
         const registration = await navigator.serviceWorker.ready;

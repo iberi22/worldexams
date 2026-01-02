@@ -77,4 +77,11 @@ export interface ExamCompletionData {
   maxTotalTimeMs: number;
   grade: number;
   subject: string;
+  // 🆕 Party Mode extras
+  partyCode?: string;
+  sessionId?: string;
+  isHost?: boolean; // 🆕 Track if user was host
+  focusEvents?: { timestamp: number; type: string; duration?: number }[];
+  focusViolations?: number;
 }
+

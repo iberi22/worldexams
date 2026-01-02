@@ -40,13 +40,13 @@ export async function loadQuestionsForCountry(
 
   if (filter?.asignatura) {
     questions = questions.filter(q =>
-      q.data.asignatura.toLowerCase() === filter.asignatura!.toLowerCase()
+      q.data.asignatura?.toLowerCase() === filter.asignatura!.toLowerCase()
     );
   }
 
   if (filter?.tema) {
     questions = questions.filter(q =>
-      q.data.tema.toLowerCase() === filter.tema!.toLowerCase()
+      q.data.tema?.toLowerCase() === filter.tema!.toLowerCase()
     );
   }
 
@@ -77,7 +77,7 @@ export async function loadSharedQuestions(
 
   if (filter?.asignatura) {
     questions = questions.filter(q =>
-      q.data.asignatura.toLowerCase() === filter.asignatura!.toLowerCase()
+      q.data.asignatura?.toLowerCase() === filter.asignatura!.toLowerCase()
     );
   }
 

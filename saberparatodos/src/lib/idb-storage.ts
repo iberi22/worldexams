@@ -5,9 +5,10 @@
  */
 
 const DB_NAME = 'worldexams_db';
-const DB_VERSION = 3; // 🆕 Bumped for known_questions store
+const DB_VERSION = 4; // 🆕 Bumped for party_sessions store
 const STORE_RESULTS = 'exam_results';
 const STORE_ANSWERED = 'answered_questions';
+const STORE_PARTY_SESSIONS = 'party_sessions';
 
 import type { QuestionResultData, ExamCompletionData } from '../types';
 
@@ -32,6 +33,26 @@ export interface AnsweredQuestionRecord {
   grade: number;
   subject: string;
   difficulty: number;
+}
+
+// 🆕 Party Session for local-first architecture
+export interface PartySessionRecord {
+  sessionId: string;           // crypto.randomUUID()
+  partyCode: string;
+  isHost: boolean;
+  userName: string;
+  grade: number;
+  subject: string;
+  startedAt: number;
+  endedAt?: number;
+  questions: any[];            // Exam questions
+  answers: Record<string, string>;
+  focusEvents: { timestamp: number; type: string; duration?: number }[];
+  focusViolations?: number;    // 🆕 Count of focus violations
+  score?: number;
+  totalQuestions?: number;
+  correctCount?: number;
+  synced: boolean;
 }
 
 /**
@@ -73,6 +94,14 @@ function openDB(): Promise<IDBDatabase> {
       // 🆕 Store for known questions (Permanent Cache)
       if (!db.objectStoreNames.contains('known_questions')) {
         db.createObjectStore('known_questions', { keyPath: 'id' });
+      }
+
+      // 🆕 Store for party sessions (Local-First Party Mode)
+      if (!db.objectStoreNames.contains(STORE_PARTY_SESSIONS)) {
+        const store = db.createObjectStore(STORE_PARTY_SESSIONS, { keyPath: 'sessionId' });
+        store.createIndex('partyCode', 'partyCode', { unique: false });
+        store.createIndex('startedAt', 'startedAt', { unique: false });
+        store.createIndex('synced', 'synced', { unique: false });
       }
     };
   });
@@ -419,3 +448,128 @@ export async function getKnownQuestion(id: string): Promise<any | null> {
     return null;
   }
 }
+
+// ═══════════════════════════════════════════════════════════════════════════
+// 🆕 PARTY SESSIONS - Local-First Architecture
+// ═══════════════════════════════════════════════════════════════════════════
+
+/**
+ * Save a new party session locally
+ */
+export async function savePartySession(session: PartySessionRecord): Promise<void> {
+  try {
+    const db = await openDB();
+    const tx = db.transaction([STORE_PARTY_SESSIONS], 'readwrite');
+    const store = tx.objectStore(STORE_PARTY_SESSIONS);
+
+    // Sanitize to remove proxies
+    const cleanSession = JSON.parse(JSON.stringify(session));
+    store.put(cleanSession);
+
+    return new Promise((resolve, reject) => {
+      tx.oncomplete = () => {
+        console.log(`💾 Saved party session: ${session.sessionId}`);
+        resolve();
+      };
+      tx.onerror = () => reject(tx.error);
+    });
+  } catch (err) {
+    console.error('Error saving party session:', err);
+    throw err;
+  }
+}
+
+/**
+ * Get a party session by sessionId
+ */
+export async function getPartySession(sessionId: string): Promise<PartySessionRecord | null> {
+  try {
+    const db = await openDB();
+    return new Promise((resolve, reject) => {
+      const tx = db.transaction([STORE_PARTY_SESSIONS], 'readonly');
+      const store = tx.objectStore(STORE_PARTY_SESSIONS);
+      const request = store.get(sessionId);
+
+      request.onsuccess = () => resolve(request.result || null);
+      request.onerror = () => reject(request.error);
+    });
+  } catch (err) {
+    console.error('Error getting party session:', err);
+    return null;
+  }
+}
+
+/**
+ * Get all sessions for a party code
+ */
+export async function getPartySessionsByCode(partyCode: string): Promise<PartySessionRecord[]> {
+  try {
+    const db = await openDB();
+    return new Promise((resolve, reject) => {
+      const tx = db.transaction([STORE_PARTY_SESSIONS], 'readonly');
+      const store = tx.objectStore(STORE_PARTY_SESSIONS);
+      const index = store.index('partyCode');
+      const request = index.getAll(partyCode);
+
+      request.onsuccess = () => resolve(request.result || []);
+      request.onerror = () => reject(request.error);
+    });
+  } catch (err) {
+    console.error('Error getting party sessions by code:', err);
+    return [];
+  }
+}
+
+/**
+ * Update a party session (e.g., add answers, focus events)
+ */
+export async function updatePartySession(
+  sessionId: string,
+  updates: Partial<PartySessionRecord>
+): Promise<void> {
+  try {
+    const existing = await getPartySession(sessionId);
+    if (!existing) {
+      console.warn(`Party session not found: ${sessionId}`);
+      return;
+    }
+
+    const updated: PartySessionRecord = {
+      ...existing,
+      ...updates
+    };
+
+    await savePartySession(updated);
+  } catch (err) {
+    console.error('Error updating party session:', err);
+  }
+}
+
+/**
+ * Get unsynced party sessions for batch upload
+ */
+export async function getUnsyncedPartySessions(): Promise<PartySessionRecord[]> {
+  try {
+    const db = await openDB();
+    return new Promise((resolve, reject) => {
+      const tx = db.transaction([STORE_PARTY_SESSIONS], 'readonly');
+      const store = tx.objectStore(STORE_PARTY_SESSIONS);
+      const index = store.index('synced');
+      const request = index.getAll(IDBKeyRange.only(false));
+
+      request.onsuccess = () => resolve(request.result || []);
+      request.onerror = () => reject(request.error);
+    });
+  } catch (err) {
+    console.error('Error getting unsynced party sessions:', err);
+    return [];
+  }
+}
+
+/**
+ * Mark a party session as synced
+ */
+export async function markPartySessionSynced(sessionId: string): Promise<void> {
+  await updatePartySession(sessionId, { synced: true });
+}
+

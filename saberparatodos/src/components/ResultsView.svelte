@@ -7,6 +7,7 @@
   import AdBanner from './AdBanner.svelte';
   import ScoreDisplay from './ScoreDisplay.svelte';
   import MathRenderer from './MathRenderer.svelte';
+  import PartyResultsView from './PartyResultsView.svelte'; // 🆕 Party Results
 
   import { supabase } from '../lib/supabase';
   import { getUser } from '../lib/auth';
@@ -37,6 +38,7 @@
   let saved = false;
   let leaderboardSubmitted = false;
   let examScore: ExamScore | null = null;
+  let showPartyResults = false; // 🆕 Toggle for party results
 
   // Leaderboard submission state
   let isSubmittingToLeaderboard = false;
@@ -92,19 +94,25 @@
     return opt ? opt.text : 'Sin respuesta';
   }
 
-  onMount(async () => {
-    // Load identity
-    identity = getLocalIdentity();
+  // 🆕 Tab State
+  let activeTab: 'individual' | 'party' = 'individual';
+  let partyResults: any[] = []; // 🆕 Live Party Results
 
-    // Load user
-    user = await getUser();
-    if (user) {
-      saveScoreToSupabase();
-    }
+  onMount(() => {
+    // Async Init
+    (async () => {
+        // Load identity
+        identity = getLocalIdentity();
+        // Load user
+        user = await getUser();
+        if (user) {
+          saveScoreToSupabase();
+        }
+        // Check if user has GitHub auth for auto-submission
+        hasGitHub = await hasGitHubAuth();
+    })();
 
-    // Check if user has GitHub auth for auto-submission
-    hasGitHub = await hasGitHubAuth();
-
+    // Auth subscription
     const { data: { subscription } } = supabase.auth.onAuthStateChange(async (_event, session) => {
       user = session?.user ?? null;
       if (user && !saved && !isSaving) {
@@ -114,8 +122,37 @@
       hasGitHub = await hasGitHubAuth();
     });
 
+    // 🆕 Auto-toggle to party tab if in party
+    let cleanupParty = () => {};
+    if (examData?.partyCode) {
+      activeTab = 'party';
+      // Load existing results from session storage
+      try {
+          partyResults = JSON.parse(sessionStorage.getItem('party_results') || '[]');
+      } catch (e) { console.error(e); }
+
+      // Listen for updates
+      const handleResult = (e: CustomEvent) => {
+          console.log('ResultsView: New P2P Result', e.detail);
+          partyResults = [...partyResults, e.detail];
+      };
+      const handleLeaderboard = (e: CustomEvent) => {
+          console.log('ResultsView: Leaderboard Update', e.detail);
+          partyResults = e.detail; // Replace full list
+      };
+
+      window.addEventListener('party-result-received', handleResult as EventListener);
+      window.addEventListener('party-leaderboard-update', handleLeaderboard as EventListener);
+
+      cleanupParty = () => {
+          window.removeEventListener('party-result-received', handleResult as EventListener);
+          window.removeEventListener('party-leaderboard-update', handleLeaderboard as EventListener);
+      };
+    }
+
     return () => {
-      subscription.unsubscribe();
+        subscription.unsubscribe();
+        cleanupParty();
     };
   });
 
@@ -217,9 +254,52 @@
 </script>
 
 <div class="min-h-screen w-full flex flex-col animate-fade-in-up">
-  <!-- Main Content -->
-  <div class="flex-1 overflow-y-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-8 lg:py-12">
-    <div class="max-w-6xl mx-auto space-y-8 sm:space-y-10 lg:space-y-12 pb-24">
+
+  <!-- 🆕 Tabs Navigation (Only if Party) -->
+  {#if examData?.partyCode}
+      <div class="flex justify-center border-b border-white/10 bg-[#121212]/50 backdrop-blur-md sticky top-0 z-40">
+          <button
+              class={`px-6 py-4 text-sm font-bold uppercase tracking-widest border-b-2 transition-colors ${activeTab === 'individual' ? 'border-emerald-500 text-emerald-400' : 'border-transparent text-white/40 hover:text-white/70'}`}
+              on:click={() => activeTab = 'individual'}
+          >
+              Mis Resultados
+          </button>
+          <button
+              class={`px-6 py-4 text-sm font-bold uppercase tracking-widest border-b-2 transition-colors ${activeTab === 'party' ? 'border-purple-500 text-purple-400' : 'border-transparent text-white/40 hover:text-white/70'}`}
+              on:click={() => activeTab = 'party'}
+          >
+              Resultados Party
+          </button>
+      </div>
+  {/if}
+
+  {#if activeTab === 'party' && examData?.partyCode}
+       <!-- Party Leaderboard View -->
+      <PartyResultsView
+        partyCode={examData.partyCode}
+        currentSession={{
+          sessionId: examData.sessionId || 'unknown',
+          partyCode: examData.partyCode,
+          isHost: examData.isHost || false,
+          userName: user?.email?.split('@')[0] || 'Tú',
+          grade: examData.grade,
+          subject: examData.subject,
+          startedAt: 0,
+          questions: [],
+          answers: {},
+          focusEvents: examData.focusEvents || [],
+          focusViolations: examData.focusViolations,
+          score: examScore ? Math.round(examScore.stats.accuracy * 100) : 0,
+          synced: true
+        }}
+        externalResults={partyResults}
+        onClose={() => activeTab = 'individual'}
+      />
+  {:else}
+      <!-- Main Content (Individual Results) -->
+      <div class="flex-1 overflow-y-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-8 lg:py-12">
+        <div class="max-w-6xl mx-auto space-y-8 sm:space-y-10 lg:space-y-12 pb-24">
+
       <!-- Header Score -->
       <div class="text-center space-y-6">
         <h2 class="text-3xl sm:text-4xl lg:text-5xl font-bold uppercase tracking-tighter">Resultados</h2>
@@ -250,7 +330,7 @@
           </svg>
           <div class="absolute inset-0 flex flex-col items-center justify-center">
             <span class="text-4xl sm:text-5xl lg:text-6xl font-bold text-white">{percentage}%</span>
-            <span class="text-[10px] sm:text-xs uppercase tracking-widest opacity-40 mt-1">Precisión</span>
+            <span class="text-xs uppercase tracking-widest opacity-40 mt-1">Precisión</span>
           </div>
         </div>
 
@@ -263,14 +343,16 @@
       {#if examScore}
         <ScoreDisplay
           {examScore}
-          questionResults={examData.questions}
-          totalQuestions={questions.length}
         />
       {/if}
 
       <!-- Diagnostic Report -->
       {#if examData && examData.grade}
-        {@const diagnosticQuestions = safeExamQuestions.filter(q => q.grade && q.grade !== examData.grade)}
+        <!-- Safe access for grade using type assertion or checking types -->
+        {@const diagnosticQuestions = safeExamQuestions.filter(q => {
+             const g = (q as any).grade || q.question?.grade;
+             return g && g !== examData.grade;
+        })}
         {#if diagnosticQuestions.length > 0}
           <div class="max-w-4xl mx-auto">
             <div class="bg-gradient-to-br from-indigo-900/20 to-purple-900/20 border border-indigo-500/30 rounded-xl p-6 relative overflow-hidden">
@@ -290,8 +372,8 @@
                </p>
 
                <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                 {#each [...new Set(diagnosticQuestions.map(q => q.grade))] as grade}
-                   {@const gradeQuestions = diagnosticQuestions.filter(q => q.grade === grade)}
+                 {#each [...new Set(diagnosticQuestions.map(q => (q as any).grade || q.question?.grade))] as grade}
+                   {@const gradeQuestions = diagnosticQuestions.filter(q => ((q as any).grade || q.question?.grade) === grade)}
                    {@const gradeCorrect = gradeQuestions.filter(q => q.isCorrect).length}
                    {@const gradePercent = Math.round((gradeCorrect / gradeQuestions.length) * 100)}
 
@@ -530,6 +612,7 @@
       </div>
     </div>
   </div>
+  {/if}
 
   <!-- Fixed Footer Actions -->
   <div class="shrink-0 px-4 sm:px-6 lg:px-8 py-4 bg-[#121212]/95 backdrop-blur-md border-t border-white/10">

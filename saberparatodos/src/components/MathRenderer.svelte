@@ -21,6 +21,19 @@
 
     let result = text;
 
+    // 🎥 Multimedia Parsers (English Protocol v3.0)
+    // 1. YouTube: {{youtube:ID}} -> iframe
+    result = result.replace(
+      /\{\{youtube:([a-zA-Z0-9_-]+)\}\}/g,
+      '<div class="relative w-full aspect-video my-4 rounded-xl overflow-hidden shadow-lg border border-white/10 bg-black"><iframe src="https://www.youtube.com/embed/$1" class="absolute inset-0 w-full h-full" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+    );
+
+    // 2. Audio: {{audio:URL}} -> HTML5 Audio
+    result = result.replace(
+      /\{\{audio:(https?:\/\/[^\}]+)\}\}/g,
+      '<div class="my-4 p-3 bg-white/5 rounded-xl border border-white/10 flex items-center gap-3"><div class="w-10 h-10 rounded-full bg-emerald-500/20 flex items-center justify-center shrink-0"><svg class="w-5 h-5 text-emerald-400" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.728M5.586 15H4a1 1 0 01-1-1v-4a1 1 0 011-1h1.586l4.707-4.707C10.923 3.663 12 4.109 12 5v14c0 .891-1.077 1.337-1.707.707L5.586 15z" /></svg></div><audio controls src="$1" class="w-full bg-transparent" style="height: 32px;"></audio></div>'
+    );
+
     // First handle block math ($$...$$)
     result = result.replace(BLOCK_MATH_REGEX, (match, latex) => {
       try {

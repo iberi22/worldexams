@@ -1,9 +1,12 @@
 <script lang="ts">
   import { onMount, onDestroy } from 'svelte';
+  import { fly } from 'svelte/transition'; // 🆕 Transition
   import type { Question, QuestionResultData, ExamCompletionData } from '../types';
   import { supabase } from '../lib/supabase'; // 🆕 Import Supabase
+  import { p2pService } from '../lib/p2p-service'; // 🆕 P2P Service
   import FlashlightCard from './FlashlightCard.svelte';
   import MathRenderer from './MathRenderer.svelte';
+  import { createFocusTracker, type FocusTracker } from '../lib/focus-tracker'; // 🆕 Focus Tracker
 
   // Props
   export let onFinish: (data: ExamCompletionData, answers: Record<string | number, string>) => void;
@@ -16,6 +19,12 @@
   export let partyCode: string | null = null;
   export let partyChannel: any | null = null;
   export let isHost: boolean = false;
+  export let sessionId: string | null = null; // 🆕 Local session ID
+  export let timeLimitSeconds: number = 0; // 🆕 Time limit from config
+
+  // 🆕 Focus Tracker for exam integrity monitoring
+  let focusTracker: FocusTracker | null = null;
+  let focusWarningVisible = false;
 
   // Mock Data (Fallback)
   const MOCK_QUESTIONS: Question[] = [
@@ -45,10 +54,26 @@
   let answers: Record<string | number, string> = {};
   let timer: any;
 
+  // 🆕 Party Mode: synced countdown (use DB started_at as anchor)
+  let partySyncChannel: any | null = null;
+  let partyStartedAtMs: number | null = null;
+  let partyEndedAtMs: number | null = null;
+  let partyCurrentQuestion: number | null = null;
+  let finishTriggered = false;
+
+  // 🆕 Party Mode: per-question countdown (UI)
+  let questionTimeLeft = 0;
+
+  // 🆕 Focus Alerts for Host
+  let focusAlerts: {id: number, text: string}[] = [];
+
   // Time tracking
-  const EXAM_TIME_SECONDS = 300; // 5 minutes total
+  // Time tracking
+  const DEFAULT_TIME = 300; // 5 minutes default
+  $: EXAM_TIME_SECONDS = timeLimitSeconds > 0 ? timeLimitSeconds : DEFAULT_TIME;
+
   $: TIME_PER_QUESTION_MS = (EXAM_TIME_SECONDS * 1000) / Math.max(activeQuestions.length, 1);
-  let timeLeft = EXAM_TIME_SECONDS;
+  let timeLeft = timeLimitSeconds > 0 ? timeLimitSeconds : DEFAULT_TIME; // Initialize
   let examStartTime = 0;
   let questionStartTime = 0;
 
@@ -86,17 +111,21 @@
   async function broadcastPartyState(status: 'active' | 'finished', index: number) {
       if (!isHost || !partyCode) return;
 
-      const payload = {
+      const broadcastPayload = {
         status,
         current_question_index: index,
-        // We could send the current question data here for faster sync
         question_data: activeQuestions[index] || null
       };
 
-      // 1. Update Database (Source of Truth)
+      // 1. Update Database (only real columns)
+      const updatePayload: Record<string, any> = { status, current_question: index };
+      if (status === 'finished') {
+        updatePayload.finished_at = new Date().toISOString();
+      }
+
       const { error } = await supabase
         .from('party_sessions')
-        .update(payload)
+        .update(updatePayload)
         .eq('party_code', partyCode);
 
       if (error) console.error('Error updating party state:', error);
@@ -106,9 +135,44 @@
         partyChannel.send({
           type: 'broadcast',
           event: 'game_state_update',
-          payload: payload
+          payload: broadcastPayload
         });
       }
+  }
+
+  function startSyncedPartyTimerIfReady() {
+    if (!partyCode) return;
+    if (!(timeLimitSeconds > 0)) return;
+    if (!partyStartedAtMs) return;
+
+    partyEndedAtMs = partyStartedAtMs + (timeLimitSeconds * 1000);
+
+    // Derive per-question duration from total/questions.
+    // In Party Mode this should match host's time_option.
+    const timePerQuestionMs = Math.max(1, Math.ceil((timeLimitSeconds * 1000) / Math.max(activeQuestions.length, 1)));
+
+    if (timer) clearInterval(timer);
+
+    // Update at sub-second precision so UI feels responsive, but use ceil() so everyone hits 0 together.
+    timer = setInterval(() => {
+      const remainingMs = Math.max(0, (partyEndedAtMs ?? 0) - Date.now());
+      const nextSeconds = Math.ceil(remainingMs / 1000);
+      timeLeft = nextSeconds;
+
+      // Per-question countdown (UI-only)
+      // Uses the shared started_at anchor + current question index.
+      const qIndex = Math.max(0, Math.min(activeQuestions.length - 1, partyCurrentQuestion ?? currentIdx));
+      const questionStartMs = (partyStartedAtMs ?? Date.now()) + (qIndex * timePerQuestionMs);
+      const questionEndMs = questionStartMs + timePerQuestionMs;
+      const qRemainingMs = Math.max(0, questionEndMs - Date.now());
+      questionTimeLeft = Math.ceil(qRemainingMs / 1000);
+
+      if (nextSeconds <= 0) {
+        clearInterval(timer);
+        timer = null;
+        handleFinish('timer-expired');
+      }
+    }, 250);
   }
 
   // Effect to broadcast whenever currentIdx changes
@@ -186,24 +250,159 @@
     }
     questionStartTime = Date.now();
 
-    // 🆕 Initial Broadcast for Party Mode
-    if (isHost && partyCode) {
-        broadcastPartyState('active', currentIdx);
+    // 🆕 Party Mode: Subscribe to DB updates to sync countdown + forced finish
+    if (partyCode) {
+      partySyncChannel = supabase
+        .channel(`party-exam:${partyCode}`)
+        .on('postgres_changes', {
+          event: 'UPDATE',
+          schema: 'public',
+          table: 'party_sessions',
+          filter: `party_code=eq.${partyCode}`
+        }, (payload) => {
+          const next = payload?.new as any;
+          if (!next) return;
+
+          if (next.started_at) {
+            const startedMs = Date.parse(next.started_at);
+            if (!Number.isNaN(startedMs)) {
+              partyStartedAtMs = startedMs;
+              examStartTime = startedMs;
+              startSyncedPartyTimerIfReady();
+            }
+          }
+
+          if (typeof next.current_question === 'number') {
+            const nextIdx = Math.max(0, Math.min(activeQuestions.length - 1, next.current_question));
+            partyCurrentQuestion = nextIdx;
+
+            // Guests follow host's current_question to stay synchronized.
+            if (!isHost && nextIdx !== currentIdx) {
+              currentIdx = nextIdx;
+              questionStartTime = Date.now();
+              selectedOption = answers[activeQuestions[currentIdx]?.id] || null;
+            }
+          }
+
+          if (next.status === 'finished') {
+            handleFinish('db-finished');
+          }
+        })
+        .subscribe();
+
+      // Fetch current started_at/status once (covers refresh / late mount)
+      supabase
+        .from('party_sessions')
+        .select('started_at,status,current_question')
+        .eq('party_code', partyCode)
+        .maybeSingle()
+        .then(({ data, error }) => {
+          if (error || !data) return;
+
+          if (data.started_at) {
+            const startedMs = Date.parse(data.started_at);
+            if (!Number.isNaN(startedMs)) {
+              partyStartedAtMs = startedMs;
+              examStartTime = startedMs;
+            }
+          }
+
+          if (data.status === 'finished') {
+            handleFinish('db-finished-initial');
+            return;
+          }
+
+          if (typeof (data as any).current_question === 'number') {
+            const nextIdx = Math.max(0, Math.min(activeQuestions.length - 1, (data as any).current_question));
+            partyCurrentQuestion = nextIdx;
+            if (!isHost && nextIdx !== currentIdx) {
+              currentIdx = nextIdx;
+              questionStartTime = Date.now();
+              selectedOption = answers[activeQuestions[currentIdx]?.id] || null;
+            }
+          }
+
+          startSyncedPartyTimerIfReady();
+        });
     }
 
-    timer = setInterval(() => {
-      if (timeLeft <= 1) {
-        clearInterval(timer);
-        handleFinish();
-        timeLeft = 0;
-      } else {
-        timeLeft -= 1;
+    // 🆕 Initial Broadcast for Party Mode
+    if (isHost && partyCode) {
+      broadcastPartyState('active', currentIdx);
+    }
+
+    // Timer
+    if (partyCode && timeLimitSeconds > 0) {
+      // Party: timer will be started once we get started_at
+      // Keep a conservative fallback in case started_at never arrives
+      if (!partyStartedAtMs) {
+        timer = setInterval(() => {
+          // If we still don't have started_at after a short while, use local clock as last resort.
+          // This is suboptimal but prevents the exam from never finishing.
+          if (!partyStartedAtMs) {
+            partyStartedAtMs = examStartTime || Date.now();
+            startSyncedPartyTimerIfReady();
+          }
+        }, 1500);
       }
-    }, 1000);
+    } else {
+      // Solo / unlimited: local countdown
+      timer = setInterval(() => {
+        if (timeLeft <= 1) {
+          clearInterval(timer);
+          timer = null;
+          timeLeft = 0;
+          handleFinish('timer-expired-local');
+        } else {
+          timeLeft -= 1;
+        }
+      }, 1000);
+    }
+
+    // 🆕 Initialize Focus Tracker for Party Mode
+    if (partyCode && sessionId) {
+      focusTracker = createFocusTracker(sessionId, (event) => {
+          // Broadcast violation to Host
+          if (!isHost) {
+              p2pService.sendToHost('FOCUS_EVENT', event);
+          }
+      });
+
+      // Show warning when focus is lost
+      const handleBlur = () => {
+        focusWarningVisible = true;
+        setTimeout(() => focusWarningVisible = false, 3000);
+      };
+      window.addEventListener('blur', handleBlur);
+    }
+
+    // 🆕 Host Monitoring
+    if (isHost) {
+        p2pService.onData((msg) => {
+             if (msg.type === 'FOCUS_EVENT') {
+                 const peers = p2pService.getPeers();
+                 const name = peers[msg.senderId]?.name || 'Estudiante';
+                 const id = Date.now();
+                 focusAlerts = [...focusAlerts, { id, text: `⚠️ ${name} perdió el foco!` }];
+                 setTimeout(() => {
+                     focusAlerts = focusAlerts.filter(a => a.id !== id);
+                 }, 4000);
+             }
+        });
+    }
   });
 
   onDestroy(() => {
     clearInterval(timer);
+    if (partySyncChannel) {
+      supabase.removeChannel(partySyncChannel);
+      partySyncChannel = null;
+    }
+
+    // 🆕 Cleanup focus tracker
+    if (focusTracker) {
+      focusTracker.destroy();
+    }
 
     // If Host, perhaps mark as paused or finished?
     // Usually user handles finish via handleFinish, but if unmounted abruptly:
@@ -280,11 +479,15 @@
           broadcastPartyState('active', nextIndex);
       }
     } else {
-      handleFinish();
+      handleFinish('end-of-questions');
     }
   }
 
-  function handleFinish() {
+  function handleFinish(reason: string = 'manual') {
+    if (finishTriggered) return;
+    finishTriggered = true;
+    console.log(`✅ Finishing exam (${reason})`);
+
     if (typeof window !== 'undefined') {
       localStorage.removeItem(STORAGE_KEY);
     }
@@ -295,9 +498,11 @@
       recordQuestionResult();
     }
 
-    // 🆕 Broadcast Finish
+    // 🆕 Broadcast Finish (host marks DB as finished, forcing all clients to finish)
     if (isHost && partyCode) {
-        broadcastPartyState('finished', currentIdx);
+      broadcastPartyState('finished', currentIdx);
+      // Note: Results aggregation usually happens in ResultsView or PartyResultsView.
+      // We just signal finish here.
     }
 
     // Ensure all answered questions have results
@@ -327,12 +532,22 @@
 
     const totalTimeMs = Date.now() - examStartTime;
 
+    // 🆕 Get focus events if tracker exists
+    const focusEvents = focusTracker ? focusTracker.getEvents() : [];
+    const focusViolations = focusTracker ? focusTracker.getViolationCount() : 0;
+
     const completionData: ExamCompletionData = {
       questions: questionResults,
       totalTimeMs,
       maxTotalTimeMs: EXAM_TIME_SECONDS * 1000,
       grade: grade || activeQuestions[0]?.grade || 0,
-      subject: subject || activeQuestions[0]?.category?.split('::')[0]?.trim() || 'General'
+      subject: subject || activeQuestions[0]?.category?.split('::')[0]?.trim() || 'General',
+      // 🆕 Party Mode extras
+      partyCode: partyCode || undefined,
+      sessionId: sessionId || undefined,
+      isHost: isHost, // 🆕 Pass host status
+      focusEvents: focusEvents.length > 0 ? focusEvents : undefined,
+      focusViolations: focusViolations > 0 ? focusViolations : undefined
     };
 
     onFinish(completionData, answers);
@@ -340,6 +555,18 @@
 </script>
 
 <div class="w-full h-screen flex flex-col animate-fade-in-up">
+  <!-- 🆕 Focus Lost Warning Banner (Party Mode) -->
+  {#if focusWarningVisible && partyCode}
+    <div class="fixed top-0 left-0 right-0 z-50 bg-red-600 text-white py-3 px-4 text-center animate-pulse shadow-lg">
+      <div class="flex items-center justify-center gap-2">
+        <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+          <path fill-rule="evenodd" d="M8.257 3.099c.765-1.36 2.722-1.36 3.486 0l5.58 9.92c.75 1.334-.213 2.98-1.742 2.98H4.42c-1.53 0-2.493-1.646-1.743-2.98l5.58-9.92zM11 13a1 1 0 11-2 0 1 1 0 012 0zm-1-8a1 1 0 00-1 1v3a1 1 0 002 0V6a1 1 0 00-1-1z" clip-rule="evenodd"/>
+        </svg>
+        <span class="font-bold uppercase tracking-wider text-sm">⚠️ Saliste de la app - Esto quedará registrado</span>
+      </div>
+    </div>
+  {/if}
+
   <!-- Header -->
   <!-- Header -->
   <div class="shrink-0 px-4 sm:px-6 lg:px-8 pt-4 pb-4 border-b border-white/10 bg-[#121212]/95 backdrop-blur-md z-30">
@@ -354,13 +581,21 @@
         </div>
 
         <!-- Timer -->
-        <div class="text-right shrink-0 flex items-center gap-2 bg-white/5 px-3 py-1 rounded-md border border-white/10">
+        <div class="text-right shrink-0 flex flex-col items-end gap-1 bg-white/5 px-3 py-1 rounded-md border border-white/10">
+          <div class="flex items-center gap-2">
           <svg class="w-4 h-4 text-emerald-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
           </svg>
           <span class="text-base sm:text-xl font-mono font-bold text-[#F5F5DC] tabular-nums">
             {formatTime(timeLeft)}
           </span>
+          </div>
+
+          {#if partyCode && timeLimitSeconds > 0}
+            <div class="text-[10px] uppercase tracking-widest opacity-60">
+              Pregunta: <span class="font-mono font-bold tabular-nums text-emerald-400">{formatTime(questionTimeLeft)}</span>
+            </div>
+          {/if}
         </div>
       </div>
 
@@ -459,4 +694,19 @@
       </button>
     </div>
   </div>
+
+  <!-- Focus Alerts (Host Only) -->
+  {#if focusAlerts.length > 0}
+    <div class="fixed top-20 right-4 z-50 flex flex-col gap-2 pointer-events-none">
+      {#each focusAlerts as alert (alert.id)}
+        <div
+          transition:fly={{ x: 20, duration: 300 }}
+          class="bg-red-500/90 text-white px-4 py-2 rounded-lg shadow-lg backdrop-blur-sm text-sm font-medium flex items-center gap-2"
+        >
+          <span class="i-lucide-alert-triangle w-4 h-4"></span>
+          {alert.text}
+        </div>
+      {/each}
+    </div>
+  {/if}
 </div>

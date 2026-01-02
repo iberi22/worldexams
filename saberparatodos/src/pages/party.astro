@@ -1,34 +1,24 @@
 ---
-import Layout from '../layouts/Layout.astro';
-
-// Check for join code in query params
-const joinCode = Astro.url.searchParams.get('join');
+// Client-side redirect to main app
 ---
 
-<Layout title={joinCode ? `Party Mode - ${joinCode}` : 'Party Mode - Saber Para Todos'}>
-  <div id="party-app" data-join-code={joinCode || ''}></div>
-</Layout>
-
-<script>
-  import { mount } from 'svelte';
-  import PartyHost from '../components/PartyHost.svelte';
-  import PartyJoin from '../components/PartyJoin.svelte';
-
-  const root = document.getElementById('party-app');
-  const joinCode = root?.dataset.joinCode;
-
-  if (root) {
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Redirigiendo a SaberParaTodos...</title>
+  <script is:inline>
+    // Redirect /party?join=CODE -> /?join=CODE
+    const url = new URL(window.location.href);
+    const joinCode = url.searchParams.get('join');
     if (joinCode) {
-      // Student joining via QR code/link
-      mount(PartyJoin, {
-        target: root,
-        props: { code: joinCode }
-      });
+      window.location.href = `/?join=${joinCode}`;
     } else {
-      // Host creating party
-      mount(PartyHost, {
-        target: root
-      });
+      window.location.href = '/';
     }
-  }
-</script>
+  </script>
+</head>
+<body>
+  <p>Redirigiendo...</p>
+</body>
+</html>

@@ -499,6 +499,7 @@ export async function fetchAllQuestionsForGrade(
   const questionsBySubject: Map<string, AppQuestion[]> = new Map();
 
   for (const subject of subjectList) {
+    if (!subject) continue;
     try {
       // 🔄 Try multiple folder name variants for index.json
       const subjectVariants = [
