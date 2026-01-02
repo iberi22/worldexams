@@ -16,6 +16,8 @@ node_modules/
 # Build
 dist/
 .astro/
+test-results/
+playwright-report/
 
 # Large files
 *.zip
@@ -51,24 +53,15 @@ Thumbs.db
 
 
 # Documentos de negocio (pricing, proyecciones)
-docs/MONETIZATION_STRATEGY.md
-docs/IMPLEMENTATION_PLAN.md
-docs/BUSINESS_MODEL.md
-docs/API_GENERATION.md
+
 
 # Specs privadas (arquitectura interna)
-docs/specs/
-docs/prompts/
-spec/
+
 
 # Reportes internos
-docs/reports/
 audit_log.txt
 
-# Scripts de administración
-scripts/split-questions.ps1
-apply-template.ps1
-countries-config.ps1
+
 
 # ============================================
 # DEPRECATED: Host App (Android Tauri) + Party Server Rust
@@ -82,12 +75,12 @@ party-server-rust/
 party-server-cloud/
 
 # GitHub Actions para builds Rust (deprecated)
-.github/workflows/build-party-server.yml
+# .github/workflows/build-party-server.yml
 
 # Submodules (will manage separately)
-worldexams.github.io/
-question-bank/
-question-sync/
+# worldexams.github.io/
+# question-bank/
+# question-sync/
 #🔒 PRIVADO repo aparte privado
 
 # ============================================
@@ -98,9 +91,9 @@ question-sync/
 
 # Preguntas premium (v2-v7) están en submodule privado
 # Repo: iberi22/worldexams-premium
-src/content/
-**/questions-premium/
-temp/premium-questions/
+# src/content/
+# **/questions-premium/
+# temp/premium-questions/
 
 # Bundles completos (v1-v7) - Solo versiones PUBLIC se commitean
 *-bundle.md
@@ -117,5 +110,3 @@ temp/premium-questions/
 
 # Generated API Data (JSONs)
 
-
-saberparatodos/dist_backup
