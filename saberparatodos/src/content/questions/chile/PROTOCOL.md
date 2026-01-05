@@ -111,7 +111,7 @@ Cada archivo bundle contiene **11 preguntas**:
 | `competencia-matematica/` | Competencia Matemática (M1/M2) | `MAT` | Obligatoria |
 | `competencia-lectora/` | Competencia Lectora | `LEC` | Obligatoria |
 | `ciencias/` | Ciencias (Biología, Física, Química) | `CNAT` | Electiva |
-| `historia-cs-sociales/` | Historia y Ciencias Sociales | `SOC` | Electiva |
+| `../../ingles` (Centralizado) | Inglés (**Global Standard**) | `ING` | Obligatoria (M2) / Electiva |
 
 ### Estructura de Directorios
 

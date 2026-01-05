@@ -128,7 +128,7 @@ La estructura debe ser: `src/content/questions/[country]/[subject]/[grade]/`
 | 🇨🇴 | Matemáticas | `matematicas` |
 | 🇨🇴 | Ciencias Naturales | `ciencias-naturales` |
 | 🇨🇴 | Lectura Crítica | `lectura-critica` |
-| 🇨🇴 | Inglés | `ingles` |
+| 🇨🇴 | Inglés | `ingles` (Ubicado en `src/content/questions/ingles/` - Ver [ENGLISH_LEARNING_PROTOCOL.md](./ENGLISH_LEARNING_PROTOCOL.md)) |
 | 🇨🇴 | Tecnología e Informática | `tecnologia-informatica` |
 | 🇨🇴 | Filosofía | `filosofia` |
 | 🇲🇽 | Formación Cívica y Ética | `civismo` |

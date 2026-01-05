@@ -1,28 +1,43 @@
-# 🇨🇴/🇺🇸 Protocolo Híbrido de Inglés v3.0
+# 🌎 Protocolo Global de Inglés (LATAM/ES) v3.0
 
-> **Versión:** 3.0-COL (Hybrid)
-> **Fecha:** 2026-01-01
-> **Estado:** Propuesta Activa
-> **Base:** ICFES Saber 11 + TOEFL/IELTS Reference
+> **Versión:** 3.0-GLOBAL
+> **Fecha:** 2026-01-04
+> **Alcance:** Todo país hispanohablante (Colombia, México, Chile, Argentina, Perú, España, etc.)
+> **Ubicación:** `src/content/questions/ingles/` (Centralizado)
+> **Base:** Marco Común Europeo (CEFR) + Standards Internacionales (TOEFL/IELTS)
 
 ---
 
-## 🎯 Objetivo: "Saber Pro Global"
+## 🎯 Objetivo: "Inglés Sin Fronteras"
 
-El objetivo es maximizar el puntaje de los estudiantes en pruebas nacionales (Saber 11) mediante un entrenamiento con **rigor internacional**.
+El objetivo es estandarizar la enseñanza y evaluación del inglés a través de **todos los países de la organización**, utilizando un banco de preguntas centralizado y de alta calidad.
 
 **La Filosofía:**
-> "Entrena con pesas más pesadas (TOEFL/C1) para que el examen real (Saber 11/B1) se sienta ligero."
+> "El inglés es una habilidad global, no local. Una pregunta de nivel B1 sirve igual para un estudiante en Bogotá que para uno en Santiago o Ciudad de México."
 
-Este protocolo utiliza la **estructura familiar del ICFES (7 Partes)** pero inyecta el **nivel y tipos de pregunta de exámenes internacionales** (TOEFL Reading, Cambridge Use of English).
+Este protocolo utiliza una estructura híbrida que combina lo mejor de los exámenes nacionales (tipo Saber 11/PAES/EXANI) con el rigor de estándares internacionales.
 
 ---
 
-## 📊 Estructura del Bundle Híbrido (10 Preguntas)
+## �️ Mapeo de Niveles (Grade vs CEFR)
 
-Cada archivo contiene **una simulación comprimida** de las 7 partes del examen, más retos adicionales.
+Para asegurar la compatibilidad con todos los sistemas educativos hispanohablantes, utilizamos el siguiente esquema de alineación:
+
+| Nivel Global | CEFR | 🇨🇴 Colombia | 🇲🇽 México | 🇨🇱 Chile | 🇦🇷 Argentina |
+|--------------|------|-------------|------------|----------|--------------|
+| **Beginner** | **A1** | Grado 3-5 (Primaria) | Primaria 3°-6° | 3°-6° Básico | Primaria 3°-6° |
+| **Elementary** | **A2** | Grado 6-8 (Secundaria) | Secundaria 1°-3° | 7°-8° Básico / I° Medio | Secundaria 1°-2° |
+| **Intermediate** | **B1** | Grado 9-10 (Media) | Prep. 1°-2° | II°-III° Medio | Secundaria 3°-4° |
+| **Advanced** | **B2+** | Grado 11-12 (Saber 11) | Prep. 3° (EXANI) | IV° Medio (PAES) | Secundaria 5°-6° |
+
+---
+
+## �📊 Estructura del Bundle Global (10 Preguntas)
+
+Cada archivo contiene **una simulación comprimida** de las partes más comunes en exámenes estandarizados.
 
 **Archivo:** `[COUNTRY]-ENG-[LEVEL]-[TOPIC]-[###]-bundle.md`
+*Nota: Aunque usamos prefijos de país por legado (ej: `CO-`, `MX-`), el contenido se almacena centralmente en la carpeta `ingles/` y es reutilizable.*
 **Ejemplo:** `CO-ENG-B2-technology-001-bundle.md`
 
 | Pregunta | Parte ICFES | Habilidad (Skill) | Nivel Intl. (Inspiration) |

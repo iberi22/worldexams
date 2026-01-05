@@ -3,8 +3,8 @@ import re
 
 # Configuration
 FILES_TO_FIX = [
-    r"src/content/questions/colombia/ingles/grado-11/CO-ING-11-part2-001-bundle.md",
-    r"src/content/questions/colombia/ingles/grado-11/CO-ING-11-part3-001-bundle.md"
+    r"src/content/questions/ingles/grado-11/CO-ING-11-part2-001-bundle.md",
+    r"src/content/questions/ingles/grado-11/CO-ING-11-part3-001-bundle.md"
 ]
 
 METADATA_TEMPLATE = """

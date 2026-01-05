@@ -20,6 +20,9 @@ src/content/questions/
 ├── brasil/             (ENEM) - Note: 's' for Portuguese spelling
 │   ├── PROTOCOL.md     (Specifics: 5 options, BRL)
 │   └── ...
+├── ingles/             (Global English - Shared across all countries)
+│   ├── grado-11/
+│   └── ...
 ├── argentina/          (General/UBA)
 │   ├── PROTOCOL.md     (Specifics: Voseo, ARS)
 │   └── ...

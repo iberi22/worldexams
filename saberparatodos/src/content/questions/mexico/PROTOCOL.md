@@ -20,7 +20,7 @@
 | `pensamiento-matematico` | Pensamiento Matemático | `MAT` |
 | `comprension-lectora` | Comprensión Lectora | `LEC` |
 | `redaccion-indirecta` | Redacción Indirecta | `RED` |
-| `ingles` | Inglés | `ING` |
+| `../../ingles` (Centralizado) | Inglés (**Global Standard**) | `ING` | Ver `docs/ENGLISH_LEARNING_PROTOCOL.md` |
 | `historia` | Historia de México / Universal | `HIS` |
 
 ## 🌍 Contextualización Cultural (Obligatorio)

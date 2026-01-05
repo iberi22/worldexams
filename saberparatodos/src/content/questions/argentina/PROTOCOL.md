@@ -21,6 +21,7 @@
 | `practicas-lenguaje` | Prácticas del Lenguaje | `LEC` |
 | `ciencias-sociales` | Ciencias Sociales | `SOC` |
 | `ciencias-naturales` | Ciencias Naturales | `CNAT` |
+| `../../ingles` (Centralizado) | Inglés (**Global Standard**) | `ING` | Ver `docs/ENGLISH_LEARNING_PROTOCOL.md` |
 
 ## 🌍 Contextualización Cultural (Obligatorio)
 

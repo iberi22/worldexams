@@ -20,13 +20,15 @@ import random
 import hashlib
 import datetime
 import shutil
+import re
 from pathlib import Path
-from typing import List, Dict, Any
+from typing import List, Dict, Any, Set
 
 # Configuración
 QUESTIONS_PER_PACK = 100
 ROTATION_DAYS = 5
 BASE_CONTENT_DIR = Path("saberparatodos/src/content/questions/colombia")
+INGLES_CONTENT_DIR = Path("saberparatodos/src/content/questions/ingles")
 OUTPUT_API_DIR = Path("saberparatodos/public/api/v1/co/icfes")
 
 GRADES = [3, 5, 7, 9, 11]
@@ -38,8 +40,8 @@ SUBJECT_MAPPING = {
     "sociales-ciudadanas": "sociales_y_ciudadanas",
     "lectura-critica": "lectura_critica",
     "ingles": "ingles",
-    "filosofia": "filosofia", # Add missing subjects if any
-    "tecnologia-informatica": "tecnologia" # Add missing subjects if any
+    "filosofia": "filosofia",
+    "tecnologia-informatica": "tecnologia"
 }
 
 def get_current_pack_id() -> str:
@@ -100,12 +102,11 @@ def parse_bundle(file_path: Path) -> List[Dict[str, Any]]:
             }
 
             # Extract Difficulty from Header
-            # Format: ## Pregunta 1 (Muy Fácil A - Dificultad 1)
             diff_match = re.search(r'Dificultad\s*(\d)', header, re.IGNORECASE)
             if diff_match:
                 q_data["difficulty"] = int(diff_match.group(1))
             else:
-                # Heuristic mapping for common names if explicit difficulty missing
+                # Heuristic mapping
                 lower_header = header.lower()
                 if "muy fácil" in lower_header or "very easy" in lower_header: q_data["difficulty"] = 1
                 elif "fácil" in lower_header or "easy" in lower_header or "low" in lower_header: q_data["difficulty"] = 2
@@ -126,7 +127,6 @@ def parse_bundle(file_path: Path) -> List[Dict[str, Any]]:
                 for line in opts_part.strip().split("\n"):
                     if "- [" in line:
                         is_correct = "- [x]" in line or "- [X]" in line
-                        # Extract the option text: - [ ] A) Text
                         text_match = re.search(r'\]\s*[A-Z]\)\s*(.*)', line)
                         text = text_match.group(1).strip() if text_match else line.split("]")[1].strip()
                         options.append({"text": text, "is_correct": is_correct})
@@ -134,9 +134,7 @@ def parse_bundle(file_path: Path) -> List[Dict[str, Any]]:
 
             # Extract Explanation
             if "### Explicación" in chunk:
-                # Support both "Explicación" and "Explicación Pedagógica"
                 expl_part = chunk.split("### Explicación")[1].split("---")[0]
-                # Clean up if it had "Pedagógica" in the split
                 if expl_part.startswith(" Pedagógica"):
                     expl_part = expl_part[11:]
                 q_data["explanation"] = expl_part.strip()
@@ -150,7 +148,55 @@ def parse_bundle(file_path: Path) -> List[Dict[str, Any]]:
         print(f"Error parsing {file_path.name}: {e}")
         return []
 
-import re
+def process_subject_grade(subject_path: Path, grade: int, pack_id: str,
+                         total_questions_exported_ref: List[int], subjects_processed: Set[str]):
+    """Procesa una asignatura y grado específico."""
+    if not subject_path.is_dir(): return
+
+    subject_name = subject_path.name
+    api_subject = SUBJECT_MAPPING.get(subject_name, subject_name.replace("-", "_"))
+
+    # Look for grade folder inside subject (e.g. matematicas/grado-11)
+    grade_sub_dir = subject_path / f"grado-{grade}"
+    if not grade_sub_dir.exists():
+        return
+
+    print(f"  Processing {subject_name} Grade {grade}...")
+
+    # Collect all questions for this Subject/Grade
+    all_questions = []
+    for bundle_file in grade_sub_dir.rglob("*-bundle.md"):
+        questions = parse_bundle(bundle_file)
+        all_questions.extend(questions)
+
+    if not all_questions:
+        print(f"    No questions found.")
+        return
+
+    # Shuffle and limit
+    seed = f"{pack_id}-{grade}-{api_subject}"
+    shuffled = seeded_shuffle(all_questions, seed)
+    selected = shuffled[:QUESTIONS_PER_PACK]
+
+    # Save Pack
+    output_path = OUTPUT_API_DIR / str(grade) / api_subject
+    output_path.mkdir(parents=True, exist_ok=True)
+
+    pack_file = output_path / f"pack-{pack_id}.json"
+    pack_data = {
+        "pack_id": pack_id,
+        "grade": grade,
+        "subject": api_subject,
+        "total": len(selected),
+        "questions": selected
+    }
+
+    with open(pack_file, "w", encoding="utf-8") as f:
+        json.dump(pack_data, f, indent=2, ensure_ascii=False)
+
+    print(f"    ✅ Generated {pack_file} ({len(selected)} qs)")
+    total_questions_exported_ref[0] += len(selected)
+    subjects_processed.add(api_subject)
 
 def main():
     print("🔄 Generating Rotating Question Packs...")
@@ -163,63 +209,19 @@ def main():
     #     shutil.rmtree(OUTPUT_API_DIR)
     OUTPUT_API_DIR.mkdir(parents=True, exist_ok=True)
 
-    total_questions_exported = 0
+    total_questions_container = [0]
     subjects_processed = set()
 
     for grade in GRADES:
-        grade_dir = BASE_CONTENT_DIR
-        # Finding subject dirs
-        if not grade_dir.exists():
-            print(f"⚠️ Content dir not found: {grade_dir}")
-            continue
+        # 1. Process Colombia Subjects
+        if BASE_CONTENT_DIR.exists():
+            for subject_path in BASE_CONTENT_DIR.iterdir():
+                process_subject_grade(subject_path, grade, pack_id, total_questions_container, subjects_processed)
 
-        for subject_path in grade_dir.iterdir():
-            if not subject_path.is_dir(): continue
-
-            subject_name = subject_path.name
-            api_subject = SUBJECT_MAPPING.get(subject_name, subject_name.replace("-", "_"))
-
-            # Look for grade folder inside subject (e.g. matematicas/grado-11)
-            grade_sub_dir = subject_path / f"grado-{grade}"
-            if not grade_sub_dir.exists():
-                continue
-
-            print(f"  Processing {subject_name} Grade {grade}...")
-
-            # Collect all questions for this Subject/Grade
-            all_questions = []
-            for bundle_file in grade_sub_dir.rglob("*-bundle.md"):
-                questions = parse_bundle(bundle_file)
-                all_questions.extend(questions)
-
-            if not all_questions:
-                print(f"    No questions found.")
-                continue
-
-            # Shuffle and limit
-            seed = f"{pack_id}-{grade}-{api_subject}"
-            shuffled = seeded_shuffle(all_questions, seed)
-            selected = shuffled[:QUESTIONS_PER_PACK]
-
-            # Save Pack
-            output_path = OUTPUT_API_DIR / str(grade) / api_subject
-            output_path.mkdir(parents=True, exist_ok=True)
-
-            pack_file = output_path / f"pack-{pack_id}.json"
-            pack_data = {
-                "pack_id": pack_id,
-                "grade": grade,
-                "subject": api_subject,
-                "total": len(selected),
-                "questions": selected
-            }
-
-            with open(pack_file, "w", encoding="utf-8") as f:
-                json.dump(pack_data, f, indent=2, ensure_ascii=False)
-
-            print(f"    ✅ Generated {pack_file} ({len(selected)} qs)")
-            total_questions_exported += len(selected)
-            subjects_processed.add(api_subject)
+        # 2. Process English (Special Global Subject)
+        if INGLES_CONTENT_DIR.exists():
+            # Treat 'ingles' folder as the subject folder itself
+            process_subject_grade(INGLES_CONTENT_DIR, grade, pack_id, total_questions_container, subjects_processed)
 
     # Generate Current Pack Metadata
     meta_file = OUTPUT_API_DIR / "current-pack.json"
@@ -227,14 +229,14 @@ def main():
         "pack_id": pack_id,
         "generated_at": datetime.datetime.utcnow().isoformat() + "Z",
         "next_rotation": get_next_rotation_date(),
-        "total_questions": total_questions_exported,
+        "total_questions": total_questions_container[0],
         "subjects": list(subjects_processed)
     }
 
     with open(meta_file, "w", encoding="utf-8") as f:
         json.dump(metadata, f, indent=2)
 
-    print(f"\n🎉 Done! Total exposed questions: {total_questions_exported}")
+    print(f"\n🎉 Done! Total exposed questions: {total_questions_container[0]}")
 
 if __name__ == "__main__":
     main()
