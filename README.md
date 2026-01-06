@@ -229,7 +229,8 @@ This project is supported by:
 ## 📊 Statistics
 
 - **Countries:** 6+ active platforms
-- **Questions:** 10,000+ practice questions
+- **Questions:** 15,000+ practice questions (including 2,580 English)
+- **English Bundles:** 258 (8 universal, 250 Colombia-specific)
 - **Users:** Growing daily
 - **Open Source:** 100% transparent
 - **Cost:** Free forever
@@ -238,4 +239,4 @@ This project is supported by:
 
 *Made with ❤️ by the World Exams community*
 
-*Last updated: December 2025*
+*Last updated: January 2026*

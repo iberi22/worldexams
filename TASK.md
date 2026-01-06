@@ -1,57 +1,50 @@
 # Gestión de Tareas: World Exams Organization
 
-Última actualización: 2026-01-01
+Última actualización: 2026-01-05
 
 ## 🎯 Resumen Ejecutivo y Estado Actual
 
-**🔴 CRÍTICO:** **REGENERACIÓN DE BUNDLES** - 74 bundles pendientes de reemplazo (Matemáticas, Ciencias) 🚧
+**✅ COMPLETADO:** **INGLÉS GLOBAL (Fase 1)** - 8 bundles UNI-ENG universales + 250 CO-ING migrados a ubicación central.
 
-**✅ COMPLETADO:** **INFOGRAFÍAS & INGLÉS (SERIES 1-5)** - Contenido visual y bundles B2+ implementados.
+**🔄 EN PROGRESO:** **EXPANSIÓN INGLÉS (Fase 2)** - Meta: 500 bundles por país (100 universales + 400 país-específicos).
 
 **✅ COMPLETADO:** **PARTY MODE WEB** - PWA funcional, P2P Sync, y RLS configurados.
 
-**🔒 EN PROGRESO:** **SISTEMA DE ROLES** - Fase de diseño completada, iniciando implementación.
+**Estado General:** 📊 **OPERATIVO - CONTENIDO EN EXPANSIÓN**
 
-**Estado General:** � **OPERATIVO - EN EXPANSIÓN DE CONTENIDO**
-
----
-
-### � Tareas Activas (Sprint Actual)
-
-- [x] **Party Mode: Quick Wins (UX/Stability)**
-    - [x] Corrección de sintaxis (`ResultsView`, `App.svelte`, Svelte 5 migration).
-    - [x] Configuración CSP y Supabase RLS policies (Anonymous access validado).
-    - [x] UX: Nombre persistente, Cuenta atrás sincronizada, Share API.
-    - [x] **Bug fix:** 406 Supabase error & `handleStart` restoration.
-    - [ ] Feature: Botón "Revancha" (Host crea nueva sesión con misma config).
-
-- [x] **Expansión de Inglés & Infografías (Protocolo v3.0)**
-    - [x] **Nuevos Bundles B2+:** `Urbanization` y `Advertising` (10 preguntas c/u).
-    - [x] **Infografías (Guías Visuales):**
-        - [x] Digital Age (AI)
-        - [x] Environment (Urbanization)
-        - [x] Future of Work (Entrepreneurship)
-        - [x] Health & Wellness (Health)
-        - [x] Global Citizen (Globalization)
-
-- [ ] **Regeneración de Contenido (Matemáticas & Ciencias)**
-    - [ ] **Fase 1: Matemáticas** (Álgebra, Derivadas) - *Avance parcial: 2 bundles detectados*
-    - [ ] **Fase 2: Ciencias Naturales** (Física, Química)
-    - [ ] **Fase 3: Lectura Crítica**
+**Bundles de Inglés Actuales:** 258 (8 UNI-ENG + 250 CO-ING) en `src/content/questions/ingles/`
 
 ---
 
-**NUEVO:** 🔐 **ESTRATEGIA DE LICENCIAS** - Enfoque Híbrido CC BY-SA + Proprietary ✅
+### 📋 Tareas Activas (Sprint Actual - Enero 2026)
 
-**NUEVO:** 🧪 **DEPLOY + MONITORING** - Deploy manual (CLI) + Sentry Integration ✅
+- [x] **Inglés Global: Protocolo v3.0 (Fase 1)**
+    - [x] Crear protocolo global `docs/ENGLISH_LEARNING_PROTOCOL.md`.
+    - [x] Migrar contenido a ubicación central `src/content/questions/ingles/`.
+    - [x] Generar 8 bundles UNI-ENG (A1-B2).
+    - [x] Actualizar country protocols (MX, CL, AR) con referencia.
 
-**Enfoque Actual:** 🔄 **PAQUETES ROTATIVOS** - Exponer solo 27% del banco mediante rotación cada 5 días
+- [ ] **Inglés Global: Expansión (Fase 2)**
+    - [ ] Generar 92 bundles UNI-ENG adicionales (meta: 100 universales).
+    - [ ] Migrar ~150 CO-ING universales (sin referencias a Colombia).
+    - [ ] Crear contenido país-específico (MX-ING, CL-ING, AR-ING).
 
-**Preguntas actuales:** ~1,596 preguntas expuestas | 379 archivos limpios (Colombia)
+- [ ] **Contenido Multi-País**
+    - [ ] **México (MX-ING):** Día de los Muertos, Frida Kahlo, Teotihuacán.
+    - [ ] **Chile (CL-ING):** Atacama, Pablo Neruda, PAES context.
+    - [ ] **Argentina (AR-ING):** Tango, Messi, Patagonia.
 
-**Objetivo:** Implementar sistema de paquetes rotativos que previene scraping sin complejidad de Edge Functions.
+- [ ] **Regeneración de Contenido (Otras Materias)**
+    - [ ] Matemáticas (Álgebra, Derivadas).
+    - [ ] Ciencias Naturales (Física, Química).
+    - [ ] Lectura Crítica.
 
-**NUEVO:** 🧠 **LOCAL INTELLIGENCE & MMR** - Sistema de reportes avanzados offline y ranking dinámico basado en skills 🚧
+---
+
+**📊 Estadísticas de Inglés:**
+- Bundles actuales: 258 (8 UNI-ENG + 250 CO-ING)
+- Meta por país: 500 bundles (100 universales + 400 específicos)
+- Protocolo: v3.0-GLOBAL
 
 ---
 

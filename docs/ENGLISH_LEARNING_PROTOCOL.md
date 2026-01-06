@@ -162,6 +162,50 @@ ID: CO-ENG-B2-innovation-001-v8
 
 ---
 
+## 📦 Estrategia de Contenido: Universal vs. País-Específico
+
+Para maximizar el alcance del contenido de inglés, clasificamos los bundles en dos categorías:
+
+### Contenido Universal (`UNI-ENG-*`)
+
+Los bundles con prefijo `UNI-ENG-` son **100% reutilizables** en todos los países hispanohablantes:
+
+| Característica | Requisito |
+|----------------|-----------|
+| **Referencias culturales** | Neutrales o globalmente reconocidas (Apple, NASA, Netflix) |
+| **Lugares** | Sin ciudades específicas o usar contextos genéricos ("a city", "your country") |
+| **Moneda** | Dólares (USD) o sin moneda específica |
+| **Nombres** | Internacionales (Alex, Maria, John) |
+| **Fuentes** | "World Exams Original" o recursos abiertos (British Council, Cambridge) |
+
+> [!TIP]
+> **Para lanzamientos en nuevos países:** Usar exclusivamente bundles `UNI-ENG-*`.
+
+### Contenido País-Específico (`CO-ING-*`, `MX-ING-*`, etc.)
+
+Los bundles con prefijo de país contienen contexto cultural local:
+
+| País | Ejemplos de Contenido |
+|------|----------------------|
+| 🇨🇴 Colombia | Feria de las Flores, Café colombiano, Shakira |
+| 🇲🇽 México | Día de los Muertos, Frida Kahlo, Teotihuacán |
+| 🇦🇷 Argentina | Tango, Messi, Patagonia |
+| 🇨🇱 Chile | Desierto de Atacama, Pablo Neruda, PAES context |
+
+> [!IMPORTANT]
+> Los bundles `CO-ING-*` existentes deben **evaluarse antes de usarse en otros países**. Muchos contienen referencias a "Colombia", "ICFES", o lugares locales.
+
+### Recomendación de Uso por País
+
+| País Target | Bundles Recomendados |
+|-------------|---------------------|
+| 🇨🇴 Colombia | `UNI-ENG-*` + `CO-ING-*` (todos) |
+| 🇲🇽 México | `UNI-ENG-*` + CO-ING sin referencias CO |
+| 🇨🇱 Chile | `UNI-ENG-*` + CO-ING sin referencias CO |
+| 🇦🇷 Argentina | `UNI-ENG-*` + CO-ING sin referencias CO |
+
+---
+
 ## 🔮 Futuro: Multimedia (v4.0 Experimental)
 
 *Esta sección se mantiene como referencia para futura implementación.*

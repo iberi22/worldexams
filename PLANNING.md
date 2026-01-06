@@ -138,6 +138,58 @@ country:
 
 ---
 
+## 8. Estrategia de Contenido Inglés (Global)
+
+### Estado Actual (Enero 2026)
+
+| Métrica | Valor |
+|---------|-------|
+| **Bundles Totales** | 258 |
+| **Preguntas Totales** | ~2,580 (10 preguntas/bundle) |
+| **Bundles UNI-ENG (Universales)** | 8 |
+| **Bundles CO-ING (Colombia)** | 250 |
+
+### Meta: 500 Bundles por País
+
+**Objetivo:** Crear una base sólida de 500 bundles de inglés por país hispanohablante, donde:
+- 100 bundles son **universales** (`UNI-ENG-*`)
+- 400 bundles son **país-específicos** (`[COUNTRY]-ING-*`)
+
+### Plan de Expansión Gradual
+
+| Fase | Bundles | Tipo | Timeline | Estado |
+|------|---------|------|----------|--------|
+| **Fase 1** | 8 | UNI-ENG (A1-B2) | Ene 2026 | ✅ Completado |
+| **Fase 2** | 92 | UNI-ENG (Expansión) | Feb 2026 | ⬜ Pendiente |
+| **Fase 3** | 150 | CO-ING (Migración) | Mar 2026 | ⬜ Pendiente |
+| **Fase 4** | 250 | País-específicos | Q2 2026 | ⬜ Pendiente |
+
+### Distribución por Nivel CEFR
+
+| Nivel | Grados | Bundles Target |
+|-------|--------|----------------|
+| A1 | 3-5 | 100 |
+| A2 | 6-8 | 150 |
+| B1 | 9-10 | 150 |
+| B2 | 11-12 | 100 |
+
+### Compatibilidad Multi-País
+
+| País | Sistema | Inglés Obligatorio | Bundles Recomendados |
+|------|---------|-------------------|---------------------|
+| 🇨🇴 Colombia | ICFES | Grado 11 (B1) | UNI-ENG + CO-ING |
+| 🇲🇽 México | EXANI | Preparatoria | UNI-ENG + MX-ING |
+| 🇨🇱 Chile | PAES | IV° Medio | UNI-ENG + CL-ING |
+| 🇦🇷 Argentina | - | Secundaria | UNI-ENG + AR-ING |
+
+### Referencia Técnica
+
+- **Protocolo:** `docs/ENGLISH_LEARNING_PROTOCOL.md`
+- **Ubicación Central:** `src/content/questions/ingles/`
+- **Formato:** Protocol v3.0-GLOBAL
+
+---
+
 ## 7. Credenciales y Configuración Sensible
 
 ### Supabase (Colombia - Producción)
