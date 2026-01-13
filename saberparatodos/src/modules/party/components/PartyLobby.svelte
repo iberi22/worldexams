@@ -21,15 +21,30 @@
     }
   }
 
-  function copyPartyLink() {
-    const link = `${window.location.origin}/party/join/${config?.id}`;
-    navigator.clipboard.writeText(link);
-    alert('¡Link copiado! Comparte con tus estudiantes.');
-  }
-
   function generateQRCode() {
     // TODO: Implementar generación de QR con la librería qrcode
     alert('Función QR en desarrollo');
+  }
+
+  async function shareParty() {
+    const link = `${window.location.origin}/party/join/${config?.id}`;
+    const text = `¡Únete a mi examen Stop en World Exams! Código: ${config?.id}`;
+
+    if (navigator.share) {
+      try {
+        await navigator.share({
+          title: 'World Exams Party',
+          text: text,
+          url: link
+        });
+      } catch (err) {
+        console.log('Share cancelled');
+      }
+    } else {
+      // Fallback
+      navigator.clipboard.writeText(`${text}\n${link}`);
+      alert('¡Enlace copiado! Compártelo con tus estudiantes.');
+    }
   }
 </script>
 
@@ -43,18 +58,19 @@
       </div>
 
       {#if isHost}
-        <div class="flex gap-3">
+        <div class="flex gap-2">
           <button
-            onclick={copyPartyLink}
-            class="px-4 py-2 bg-blue-600 hover:bg-blue-700 rounded-lg transition-colors"
+            onclick={shareParty}
+            class="px-6 py-2 bg-blue-600 hover:bg-blue-700 rounded-lg transition-colors flex items-center gap-2 font-bold"
           >
-            📋 Copiar Link
+            🔗 Compartir Enlace
           </button>
           <button
             onclick={generateQRCode}
-            class="px-4 py-2 bg-purple-600 hover:bg-purple-700 rounded-lg transition-colors"
+            class="px-3 py-2 bg-purple-600 hover:bg-purple-700 rounded-lg transition-colors text-sm"
+            title="Generar QR"
           >
-            📱 Generar QR
+            📱 QR
           </button>
         </div>
       {/if}

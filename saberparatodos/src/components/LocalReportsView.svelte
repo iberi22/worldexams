@@ -7,6 +7,7 @@
   import AdBlock from './AdBlock.svelte';
   import { fetchBulkQuestions, fetchQuestions, type AppQuestion } from '../lib/api-service';
   import ReportModal from './ReportModal.svelte';
+  import RadarChart from './RadarChart.svelte'; // 🆕
 
   // Define interface locally with details support
   interface QuestionDetail {
@@ -911,6 +912,47 @@
                     {/each}
                   </div>
                 </div>
+                <!-- 🆕 4.0 Competency Radar -->
+                {#if competencyStats.length >= 3}
+                  <div class="md:col-span-3 bg-white/5 border border-white/10 rounded-[2.5rem] p-8 flex flex-col md:flex-row items-center gap-8">
+                    <div class="flex-1">
+                      <h3 class="text-[10px] font-black uppercase tracking-[0.2em] text-emerald-400 mb-2 flex items-center gap-3">
+                        <span class="w-2 h-2 bg-emerald-500 rounded-full animate-pulse"></span>
+                        Radar de Competencias
+                      </h3>
+                      <p class="text-xs text-white/50 leading-relaxed mb-6">
+                        Visualización holística de tus habilidades cognitivas. Un gráfico equilibrado indica un aprendizaje integral.
+                      </p>
+
+                      <div class="grid grid-cols-2 gap-4">
+                         <div class="bg-black/20 rounded-xl p-3 border border-white/5">
+                            <div class="text-[9px] text-white/30 uppercase tracking-widest mb-1">Mejor Desempeño</div>
+                            <div class="text-sm font-black text-emerald-400">
+                              {competencyStats.sort((a,b) => b.correct/b.seen - a.correct/a.seen)[0]?.name || '-'}
+                            </div>
+                         </div>
+                         <div class="bg-black/20 rounded-xl p-3 border border-white/5">
+                            <div class="text-[9px] text-white/30 uppercase tracking-widest mb-1">Área de Oportunidad</div>
+                            <div class="text-sm font-black text-yellow-400">
+                              {competencyStats.sort((a,b) => a.correct/a.seen - b.correct/b.seen)[0]?.name || '-'}
+                            </div>
+                         </div>
+                      </div>
+                    </div>
+
+                    <div class="shrink-0">
+                      <RadarChart
+                        data={competencyStats.slice(0, 6).map(c => ({
+                          label: c.name,
+                          value: (c.correct / c.seen) * 100,
+                          fullMark: 100
+                        }))}
+                        size={320}
+                      />
+                    </div>
+                  </div>
+                {/if}
+
     <!-- 4. Competency Gaps -->
               <div class="md:col-span-3 grid grid-cols-1 md:grid-cols-2 gap-6">
                  <!-- Strongest -->

@@ -25,6 +25,41 @@ World Exams is a multi-country platform providing free, AI-powered practice for 
 
 ---
 
+## ⚡ Edge Functions
+
+**NEW:** Business logic for WorldExams/SaberParaTodos has been extracted into a reusable Rust crate located in `edge-functions/`.
+
+### 📦 What's Included
+
+- **Questions API** - Fetch questions from static CDN with rate limiting
+- **Credits System** - Billing, subscription tiers, transaction tracking
+- **AI Analysis** - Prompt templates for Gemini/Claude/GPT integration
+
+### 🔧 Usage Options
+
+#### Option 1: Standalone
+```rust
+use worldexams_edge_functions::questions::fetch_questions;
+
+let questions = fetch_questions(&config, "co", "icfes", "11", "matematicas", 1).await?;
+```
+
+#### Option 2: With Edge Hive
+```toml
+# Add to your Edge Hive Cargo.toml
+[dependencies]
+worldexams-edge-functions = { path = "../worldexams/edge-functions" }
+```
+
+#### Option 3: Supabase Edge Functions
+Convert to Deno/TypeScript - see examples in `edge-functions/examples/supabase/`
+
+**Documentation:**
+- [Edge Functions README](edge-functions/README.md)
+- [Edge Hive Integration Guide](edge-functions/examples/edge-hive/INTEGRATION.md)
+
+---
+
 ## 🤖 Social Media Bots
 
 Automated bots for Telegram, Discord, and Twitter/X built with Rust and Supabase Edge Functions.
@@ -91,7 +126,20 @@ world-exams/
 │       └── weekly-report.yml
 ├── docs/                    # Documentation
 │   ├── SOCIAL_MEDIA_BOTS_ARCHITECTURE.md
-│   └── QUESTION_GENERATION_PROTOCOL_V2.md
+│   ├── QUESTION_GENERATION_PROTOCOL_V2.md
+│   └── API_REAL_SETUP.md
+├── edge-functions/          # ⚡ NEW: Reusable business logic (Rust)
+│   ├── src/
+│   │   ├── lib.rs
+│   │   ├── questions.rs     # Questions API
+│   │   ├── credits.rs       # Credit system & billing
+│   │   └── analysis.rs      # AI analysis prompts
+│   ├── examples/
+│   │   ├── edge-hive/       # Edge Hive integration
+│   │   ├── supabase/        # Supabase Edge Functions
+│   │   └── standalone/      # Direct usage examples
+│   ├── Cargo.toml
+│   └── README.md
 ├── social-orchestrator/     # Rust bot orchestrator
 │   ├── src/
 │   │   ├── main.rs
@@ -101,6 +149,8 @@ world-exams/
 │   │   └── github.rs
 │   └── content/
 │       └── daily-tips.json
+├── src/                     # Frontend (Astro)
+├── supabase/                # Supabase configuration
 └── README.md
 ```
 
@@ -208,6 +258,7 @@ This project is supported by:
 - [x] Launch Colombia (saber-co)
 - [x] Implement multi-platform bot system
 - [x] Automated issue triage
+- [x] **English Module Enhancements** (Metadata Badges, CEFR Alignment, Memory tracking)
 - [ ] Launch México (exani-mx)
 - [ ] Launch Brasil (enem-br)
 
@@ -229,8 +280,9 @@ This project is supported by:
 ## 📊 Statistics
 
 - **Countries:** 6+ active platforms
-- **Questions:** 15,000+ practice questions (including 2,580 English)
-- **English Bundles:** 258 (8 universal, 250 Colombia-specific)
+- **Questions:** 15,000+ practice questions
+- **English Capabilities:** CEFR aligned (A1-B2), Part-based metadata, AI Study Plans (NotebookLM).
+- **English Content:** 258 bundles (8 universal, 250 Colombia-specific) + automated metadata extraction.
 - **Users:** Growing daily
 - **Open Source:** 100% transparent
 - **Cost:** Free forever

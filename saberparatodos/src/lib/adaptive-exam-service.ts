@@ -206,7 +206,7 @@ export function updateAdaptiveState(
   config: AdaptiveConfig = DEFAULT_CONFIG
 ): AdaptiveExamState {
   const level = getQuestionLevel(question);
-  const levelNum = CEFR_LEVEL_NUM[level];
+
 
   // Update answered tracking
   state.answeredQuestionIds.add(question.id);

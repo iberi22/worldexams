@@ -9,7 +9,7 @@ const currentYear = new Date().getFullYear();
 const footerLinks = {
   recursos: [
     { href: "/", label: "Practicar" },
-    { href: "/guia-examen", label: "Guía ICFES" },
+    { href: "/guia-examen", label: `Guía ${countryConfig.code === 'MX' ? 'EXANI' : 'ICFES'}` },
     { href: "/sobre-nosotros", label: "Sobre Nosotros" },
     { href: "/contacto", label: "Contacto" },
   ],
@@ -20,12 +20,18 @@ const footerLinks = {
   social: [
     { href: "https://github.com/world-exams", label: "GitHub", icon: "github" },
     {
-      href: "https://twitter.com/saberparatodos",
+      href: "https://twitter.com/worldexams",
       label: "Twitter",
       icon: "twitter",
     },
   ],
 };
+
+import { countryConfig } from '../config';
+
+// Helper for dynamic badge logic needs to be available in template
+const configs = { 'MX': { code: 'MX' }, 'CO': { code: 'CO' } }; // Simplified for template access logic
+const getCountryCode = () => countryConfig.code;
 ---
 
 <footer class="footer">
@@ -47,27 +53,29 @@ const footerLinks = {
               width="40"
               height="40"
               rx="6"
-              fill="#1a1a1a"
-              stroke="#F5F5DC"
+              fill={countryConfig.theme.bgDark}
+              stroke={countryConfig.theme.primary}
               stroke-width="1.5"></rect>
             <text
               x="20"
               y="26"
-              fill="#F5F5DC"
+              fill={countryConfig.theme.primary}
               font-size="16"
               font-weight="bold"
               text-anchor="middle"
-              font-family="monospace">ST</text
+              font-family="monospace">WE</text
             >
           </svg>
-          <span class="brand-name">SaberParaTodos</span>
+          <span class="brand-name">World Exams</span>
         </div>
         <p class="brand-description">
-          Plataforma open source de práctica para las pruebas ICFES Saber.
-          Contenido gratuito para todos los estudiantes colombianos.
+          Plataforma open source de práctica para {countryConfig.name}.
+          Contenido gratuito para todos los estudiantes.
         </p>
         <div class="brand-badge">
-          <span class="badge">🇨🇴 Hecho en Colombia</span>
+          <span class="badge" style={`color: ${countryConfig.theme.primary}; border-color: ${countryConfig.theme.primary}`}>
+            {configs[getCountryCode() as keyof typeof configs].code === 'MX' ? '🇲🇽' : '🇨🇴'} Versión {countryConfig.name}
+          </span>
         </div>
       </div>
 
@@ -121,7 +129,7 @@ const footerLinks = {
             </svg>
           </a>
           <a
-            href="https://twitter.com/saberparatodos"
+            href="https://twitter.com/worldexams"
             target="_blank"
             rel="noopener noreferrer"
             class="social-link"
@@ -143,14 +151,14 @@ const footerLinks = {
     <!-- Bottom Bar -->
     <div class="footer-bottom">
       <p class="copyright">
-        © {currentYear} SaberParaTodos. Proyecto de <a
+        © {currentYear} {countryConfig.name}. Powered by <a
           href="https://github.com/worldexams"
           target="_blank"
           rel="noopener noreferrer">World Exams Organization</a
         >
       </p>
       <p class="disclaimer">
-        No afiliado oficialmente con el ICFES. Contenido educativo basado en
+        No afiliado oficialmente con {countryConfig.institucion}. Contenido educativo basado en
         información pública.
       </p>
     </div>
@@ -158,9 +166,9 @@ const footerLinks = {
 
   <!-- Flag Stripe Bottom -->
   <div class="flag-stripe" aria-hidden="true">
-    <div class="stripe stripe-yellow"></div>
-    <div class="stripe stripe-blue"></div>
-    <div class="stripe stripe-red"></div>
+    <div class="stripe" style={`background-color: ${countryConfig.theme.primary}; flex: 2`}></div>
+    <div class="stripe" style={`background-color: ${countryConfig.theme.secondary}; flex: 1`}></div>
+    <div class="stripe" style={`background-color: ${countryConfig.theme.accent}; flex: 1`}></div>
   </div>
 </footer>
 

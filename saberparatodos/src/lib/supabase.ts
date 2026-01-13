@@ -3,6 +3,7 @@ import type { Database } from './database.types';
 
 export const supabaseUrl = import.meta.env.PUBLIC_SUPABASE_URL;
 export const supabaseAnonKey = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
+export const relayUrl = import.meta.env.PUBLIC_RELAY_URL || 'ws://localhost:8765/ws';
 
 if (!supabaseUrl || !supabaseAnonKey) {
   throw new Error('Missing Supabase environment variables');

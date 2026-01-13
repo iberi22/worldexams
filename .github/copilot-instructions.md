@@ -807,5 +807,17 @@ Para delegar nuevas tareas a Jules:
 
 ---
 
-*Versión: 2.2 | Actualizado: 2025-12-17*
-*Nota: Agregada sección sobre deploy CLI manual obligatorio (proyecto privado)*
+## 🌐 Dominios de Producción
+
+| Plataforma | Dominio | Hosting |
+|------------|---------|---------|
+| 🇨🇴 **SaberParaTodos** (Colombia) | **https://saberparatodos.space** | Cloudflare Pages |
+
+> [!IMPORTANT]
+> El dominio de producción es `saberparatodos.space` (NO `.com`).
+> Para deploy: `npx wrangler pages deploy dist --project-name=saberparatodos`
+
+---
+
+*Versión: 2.3 | Actualizado: 2026-01-06*
+*Nota: Agregado dominio de producción saberparatodos.space*

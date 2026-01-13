@@ -1,5 +1,13 @@
 import { joinRoom, selfId } from 'trystero/supabase';
 import { supabaseUrl, supabaseAnonKey } from './supabase';
+import { RelayRoom } from './p2p-relay-room';
+import {
+  clearP2PState,
+
+  setupLifecycleHandlers,
+  onSwMessage,
+  type P2PState
+} from './p2p-sw-bridge';
 
 export type P2PMessageType = 'CONFIG_UPDATE' | 'START_EXAM' | 'READY_STATE' | 'EXAM_RESULT' | 'FOCUS_EVENT';
 
@@ -19,6 +27,12 @@ export class P2PService {
   private sendDataAction: any = null;
   private sendFullAction: any = null;
 
+  // 🆕 State persistence
+  private partyCode: string = '';
+  private playerName: string = '';
+  private cleanupLifecycle: (() => void) | null = null;
+  private cleanupSwMessages: (() => void) | null = null;
+
   // Callbacks - Now support multiple listeners
   private dataCallbacks: Set<(data: P2PMessage) => void> = new Set();
   private onConnCallback: ((conn: any) => void) | null = null;
@@ -26,6 +40,37 @@ export class P2PService {
   constructor() {
     this.connections = [];
     this.dataCallbacks = new Set();
+    this.setupReconnectionListener();
+  }
+
+  // 🆕 Setup reconnection listener for SW messages
+  private setupReconnectionListener() {
+    this.cleanupSwMessages = onSwMessage((data) => {
+      if (data.type === 'P2P_RECONNECT_REQUEST' && data.payload) {
+        console.log('📡 SW requested reconnection to party:', data.payload.partyCode);
+        window.dispatchEvent(new CustomEvent('p2p-reconnect-request', {
+          detail: data.payload
+        }));
+      }
+    });
+  }
+
+  // 🆕 Get current state for persistence
+  private getCurrentState(): P2PState | null {
+    if (!this.partyCode || !this.myPeerId) return null;
+    return {
+      partyCode: this.partyCode,
+      peerId: this.myPeerId,
+      isHost: this.isHost,
+      hostPeerId: this.hostPeerId || undefined,
+      playerName: this.playerName,
+      timestamp: Date.now()
+    };
+  }
+
+  // 🆕 Set player name for state persistence
+  setPlayerName(name: string) {
+    this.playerName = name;
   }
 
   // Set Host ID (for Guests to filter traffic)
@@ -61,10 +106,14 @@ export class P2PService {
         }
     };
 
-    console.log('📡 Initializing P2P Host with Trystero/Supabase...');
-    console.log('🔧 P2P Supabase project URL:', sbUrl, 'Length:', sbUrl.length);
-
-    this.room = joinRoom(config, partyCode);
+    console.log('📡 Initializing P2P Host (Strategy: Supabase)...');
+    try {
+        this.room = joinRoom(config, partyCode);
+    } catch (e) {
+        console.warn('⚠️ Supabase signaling failed, falling back to Hive Relay:', e);
+        this.room = new RelayRoom(config.rtcConfig);
+        await (this.room as RelayRoom).join(partyCode, selfId);
+    }
 
     // Setup Actions
     const [sendData, getData] = this.room.makeAction('data');
@@ -92,6 +141,10 @@ export class P2PService {
       console.log('❌ Peer Left:', peerId);
       this.connections = this.connections.filter(id => id !== peerId);
     });
+
+    // 🆕 Save party code and setup lifecycle handlers
+    this.partyCode = partyCode;
+    this.cleanupLifecycle = setupLifecycleHandlers(() => this.getCurrentState());
 
     return selfId;
   }
@@ -121,8 +174,14 @@ export class P2PService {
         }
     };
 
-    console.log('📡 Connecting to P2P Room:', partyCode);
-    this.room = joinRoom(config, partyCode);
+    console.log('📡 Connecting to P2P Room (Strategy: Supabase):', partyCode);
+    try {
+        this.room = joinRoom(config, partyCode);
+    } catch (e) {
+        console.warn('⚠️ Supabase signaling failed, falling back to Hive Relay:', e);
+        this.room = new RelayRoom(config.rtcConfig);
+        await (this.room as RelayRoom).join(partyCode, selfId);
+    }
 
     // Setup Actions
     const [sendData, getData] = this.room.makeAction('data');
@@ -147,6 +206,10 @@ export class P2PService {
     this.room.onPeerLeave((peerId: string) => {
         this.connections = this.connections.filter(id => id !== peerId);
     });
+
+    // 🆕 Save party code and setup lifecycle handlers
+    this.partyCode = partyCode;
+    this.cleanupLifecycle = setupLifecycleHandlers(() => this.getCurrentState());
   }
 
   private handleData(data: any, peerId: string) {
@@ -236,6 +299,17 @@ export class P2PService {
 
   // Cleanup
   destroy() {
+    // 🆕 Clean up lifecycle handlers
+    if (this.cleanupLifecycle) {
+      this.cleanupLifecycle();
+      this.cleanupLifecycle = null;
+    }
+
+    if (this.cleanupSwMessages) {
+      this.cleanupSwMessages();
+      this.cleanupSwMessages = null;
+    }
+
     if (this.room) {
         this.room.leave();
         this.room = null;
@@ -243,6 +317,11 @@ export class P2PService {
     this.connections = [];
     this.dataCallbacks.clear();
     this.hostPeerId = null;
+    this.partyCode = '';
+    this.playerName = '';
+
+    // 🆕 Clear persisted state
+    clearP2PState();
   }
 
   // Alias for cleanup

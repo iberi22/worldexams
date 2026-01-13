@@ -53,7 +53,9 @@
       )].sort();
 
   // De-duplicate by display name (e.g., LECTURA_CRITICA and LECTURA-CRITICA both become LECTURA CRÍTICA)
-  $: subjects = [...new Map(rawSubjects.map(s => [getDisplayName(s), s])).values()];
+  // 🛡️ Filter out 'ingles' from individual subject cards
+  $: subjects = [...new Map(rawSubjects.map(s => [getDisplayName(s), s])).values()]
+    .filter(s => s.toLowerCase() !== 'ingles');
 </script>
 
 <div class="flex flex-col items-center justify-center min-h-[80vh] space-y-12 animate-fade-in-up">

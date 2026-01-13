@@ -39,6 +39,9 @@
   import OfflineProfile from './OfflineProfile.svelte';
 
   import PartyLobby from './PartyLobby.svelte'; // New import
+  import StopModeSetup from '../modules/party/components/StopModeSetup.svelte';
+  import LobbyBrowser from '../modules/party/components/LobbyBrowser.svelte';
+  import { partyState } from '../modules/party/stores/partyState.svelte';
 
   // Normalize subject name for comparison (removes accents, replaces separators)
   function normalizeSubject(subject) {
@@ -53,7 +56,7 @@
 
   // Check if two subjects match (handles different naming conventions)
   function subjectsMatch(categorySubject, selectedSubject) {
-    if (!selectedSubject) return true;
+    if (!selectedSubject || selectedSubject === 'Simulacro Completo') return true;
     const normalizedCategory = normalizeSubject(categorySubject.split(' :: ')[0]);
     const normalizedSelected = normalizeSubject(selectedSubject);
     return normalizedCategory === normalizedSelected ||
@@ -79,6 +82,8 @@
   let blogSubjectFilter = $state(null); // 🆕 Pre-filter for BlogView from LocalReportsView
   let isNavigatingToBlog = $state(false); // 🆕 Loading state for Blog navigation
   let buildInfo = $state(null); // Dynamic build info
+  let showStopSetup = $state(false); // Controls Stop Mode Setup visibility
+  let showLobbyBrowser = $state(false); // Controls Lobby Browser visibility
 
   // Party Mode State
   let partyCode = $state('');
@@ -205,6 +210,13 @@
     // 🆕 FIX: Use explicit check for undefined, not truthy (grade=0 is valid for English Diagnostic)
     if (config.grade !== undefined) selectedGrade = config.grade;
 
+    // 🆕 FORCE English Diagnostic Mode (Grade 0) if subject matches
+    // This overrides potential "Grade 11" default from modal if 0 wasn't in list
+    if (config.subject && (config.subject.includes('Diagnóstico') || config.subject.includes('Diagnostico'))) {
+        selectedGrade = 0;
+        console.log('🇬🇧 Enforcing English Diagnostic Mode (Grade 0)');
+    }
+
     console.log('🎯 Exam config received:', {
       subject: config.subject,
       grade: config.grade,
@@ -259,14 +271,16 @@
       console.log(`🤖 Starting Exam Generation (Count: ${config.count}, Diagnostic: ${config.useDiagnostic})...`);
 
       // 1️⃣ Load questions for current grade (Base)
-      // 🆕 Skip if English Diagnostic mode (grade=0) - questions already loaded
-      if (selectedGrade !== 0 && (loadedQuestions.length === 0 || selectedGrade)) {
+      // 🆕 Skip ENTIRELY if English Diagnostic mode (grade=0) - questions already loaded
+      if (selectedGrade === 0) {
+         console.log(`🇬🇧 English Diagnostic mode: Using ${loadedQuestions.length} pre-loaded English questions`);
+         // Do NOT load any additional questions - use the pre-loaded English pool directly
+      } else if (loadedQuestions.length === 0 || selectedGrade) {
          await loadQuestionsForExam(selectedGrade || 11, selectedSubject);
-      } else if (selectedGrade === 0) {
-         console.log('🇬🇧 English Diagnostic mode: Using pre-loaded English questions from all grades');
       }
 
-       // 2️⃣ If Diagnostic Mode: Load questions from lower grades
+       // 2️⃣ If Diagnostic Mode (NOT English Diagnostic): Load questions from lower grades
+      // 🆕 Skip this for English Diagnostic (grade=0) since we already have cross-grade questions
       if (config.useDiagnostic && selectedGrade > 3) {
          console.log('🩺 Diagnostic Mode Active: Fetching foundational questions...');
          const diagnosticGrades = [3, 5, 7, 9].filter(g => g < selectedGrade);
@@ -312,8 +326,13 @@
              ? [selectedGrade, ...[3, 5, 7, 9].filter(g => g < selectedGrade)]
              : [selectedGrade];
 
+         // 🆕 FIX: Normalize "Inglés Diagnóstico" to "ingles" for API calls
+         const searchSubject = selectedSubject?.toLowerCase().includes('diagnóstico')
+             ? 'ingles'
+             : selectedSubject;
+
          const { fetchQuestions } = await import('../lib/api-service');
-         const promises = searchGrades.map(g => fetchQuestions(g, selectedSubject, 1));
+         const promises = searchGrades.map(g => fetchQuestions(g, searchSubject, 1));
          const results = await Promise.all(promises);
 
          const currentIds = new Set(loadedQuestions.map(q => q.id));
@@ -350,8 +369,23 @@
          throw new Error("No hay preguntas disponibles para esta configuración.");
       }
 
+      // 🔥 CRITICAL FIX: Validate questions BEFORE selecting the random subset
+      // This ensures we don't pick 15 questions and then drop 7 of them as invalid.
+      const validPool = finalAvailableQuestions.filter(q =>
+        q &&
+        Array.isArray(q.options) &&
+        q.options.length >= 2 && // ⚡ RELAXED: Allow True/False or 3-option questions
+        q.id &&
+        q.text &&
+        q.correctOptionId
+      );
+
+      if (validPool.length < finalAvailableQuestions.length) {
+         console.warn(`Original pool had ${finalAvailableQuestions.length}, filtered to ${validPool.length} valid questions.`);
+      }
+
       const { filtered, hadToRepeat } = filterUnansweredQuestions(
-        finalAvailableQuestions,
+        validPool,
         config.count
       );
 
@@ -714,9 +748,98 @@
             window.dispatchEvent(new CustomEvent('party-all-finished'));
         }
     });
-
-    // ...
   });
+
+  async function handleCreateStopParty(config) {
+    try {
+      showStopSetup = false;
+      isLoadingQuestions = true;
+
+      const newPartyId = await partyState.createParty(
+        config.hostName,
+        config.partyName,
+        11, // Default grade for Stop Mode
+        'Stop Mode',
+        {
+          connectionMode: 'supabase',
+          maxPlayers: 100,
+          timePerQuestion: 15,
+          totalQuestions: config.totalQuestions,
+          mode: 'stop',
+          stopConfig: {
+            includeEnglish: config.includeEnglish,
+            difficulty: config.difficulty
+          }
+        }
+      );
+
+      // 🆕 Set Reporting State so results save correctly
+      selectedSubject = 'Desafío Stop';
+      selectedGrade = 11;
+
+      // 🆕 Initialize Exam Config for correct timer logic (Total Time = 15s * Qs)
+      examConfig = {
+        count: config.totalQuestions,
+        timeLimitSeconds: config.totalQuestions * 15,
+        isHost: true,
+        mode: 'stop'
+      };
+
+      partyCode = newPartyId;
+      isHost = true;
+      setView(AppView.PARTY_LOBBY);
+
+    } catch (error) {
+      console.error('Error creating stop party:', error);
+      alert('Error al crear la sala Stop.');
+    } finally {
+      isLoadingQuestions = false;
+    }
+  }
+
+  async function handleJoinPublicParty(code, hostName) {
+    try {
+      showLobbyBrowser = false;
+      isLoadingQuestions = true;
+
+      // Fetch the session config
+      const { data, error } = await supabase
+        .from('party_sessions')
+        .select('*')
+        .eq('party_code', code)
+        .single();
+
+      if (error || !data) throw new Error('No se pudo encontrar la sala.');
+
+      const config = data.exam_config;
+
+      // Join via partyState
+      await partyState.joinParty(code, 'Jugador', config);
+
+      // Update App state
+      partyCode = code;
+      isHost = false;
+      sessionId = crypto.randomUUID();
+
+      // Setup Reporting
+      selectedSubject = config.asignatura || 'Desafío Stop';
+      selectedGrade = config.grado || 11;
+
+      examConfig = {
+        count: config.totalQuestions,
+        timeLimitSeconds: config.totalQuestions * (config.timePerQuestion || 15),
+        isHost: false,
+        mode: config.mode || 'stop'
+      };
+
+      setView(AppView.PARTY_LOBBY);
+    } catch (err) {
+      console.error('Error joining public party:', err);
+      alert('Error al unirse a la sala.');
+    } finally {
+      isLoadingQuestions = false;
+    }
+  }
 </script>
 
 <div class="min-h-screen bg-[#121212] text-[#F5F5DC] font-mono selection:bg-emerald-500/30 overflow-x-hidden">
@@ -830,7 +953,7 @@
             </svg>
           </button>
         </div>
-        <AdvancedSearch questions={loadedQuestions} />
+        <!-- <AdvancedSearch questions={loadedQuestions} /> -->
       </div>
     </div>
   </header>
@@ -1026,7 +1149,7 @@
         </div>
 
         <!-- Action Cards Grid -->
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-6 w-full max-w-2xl relative z-10 mt-8">
+        <div class="flex flex-col items-center justify-center gap-6 w-full max-w-2xl relative z-10 mt-8">
 
           <FlashlightCard
             onClick={() => showLocalReports = true}
@@ -1043,7 +1166,42 @@
             <p class="text-xs opacity-40">Ver rendimiento local</p>
           </FlashlightCard>
 
-          <FlashlightCard
+          <!-- Stop Mode Section -->
+          <div class="w-full flex flex-col sm:flex-row gap-6">
+              <FlashlightCard
+                onClick={() => showStopSetup = true}
+                className="flex-1 p-8 flex flex-col items-center justify-center group h-48 hover:border-pink-500/50 transition-transform duration-300 hover:scale-105 relative overflow-hidden"
+              >
+                 <div class="absolute inset-0 bg-gradient-to-br from-purple-900/20 to-pink-900/10 opacity-0 group-hover:opacity-100 transition-opacity"></div>
+                 <div class="mb-4 text-pink-500 opacity-80 group-hover:opacity-100 transform group-hover:rotate-12 transition-all">
+                  <svg class="w-12 h-12" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
+                  </svg>
+                </div>
+                <h3 class="text-xl font-bold uppercase tracking-widest mb-2 text-transparent bg-clip-text bg-gradient-to-r from-pink-400 to-purple-400">
+                  Crear Desafío
+                </h3>
+                <p class="text-xs opacity-40">Modo multijugador rápido (15s)</p>
+              </FlashlightCard>
+
+              <FlashlightCard
+                onClick={() => showLobbyBrowser = true}
+                className="flex-1 p-8 flex flex-col items-center justify-center group h-48 hover:border-blue-500/50 transition-transform duration-300 hover:scale-105 relative overflow-hidden"
+              >
+                 <div class="absolute inset-0 bg-gradient-to-br from-blue-900/20 to-indigo-900/10 opacity-0 group-hover:opacity-100 transition-opacity"></div>
+                 <div class="mb-4 text-blue-400 opacity-80 group-hover:opacity-100 transform group-hover:scale-110 transition-all">
+                  <svg class="w-12 h-12" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                  </svg>
+                </div>
+                <h3 class="text-xl font-bold uppercase tracking-widest mb-2 text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-indigo-400">
+                  Ver Partidas
+                </h3>
+                <p class="text-xs opacity-40">Busca salas creadas por otros</p>
+              </FlashlightCard>
+          </div>
+
+          <!-- <FlashlightCard
             onClick={async () => {
               isNavigatingToBlog = true;
               try {
@@ -1082,7 +1240,7 @@
             </div>
             <h3 class="text-xl font-bold uppercase tracking-widest mb-2">Blog / Artículos</h3>
             <p class="text-xs opacity-40">Explorar banco de preguntas</p>
-          </FlashlightCard>
+          </FlashlightCard> -->
         </div>
 
         <!-- CTA Button -->
@@ -1382,4 +1540,25 @@
       </p>
     </div>
   {/if}
+
+  <!-- Stop Mode Setup Modal -->
+  {#if showStopSetup}
+    <div class="fixed inset-0 z-[150] bg-black/90 backdrop-blur-sm flex items-center justify-center p-4">
+      <div class="w-full max-w-2xl bg-[#0a0a0a] rounded-xl border border-white/10 overflow-hidden relative">
+        <StopModeSetup
+          onBack={() => showStopSetup = false}
+          onCreate={handleCreateStopParty}
+        />
+      </div>
+    </div>
+  {/if}
+
+  <!-- Lobby Browser Modal -->
+  {#if showLobbyBrowser}
+    <LobbyBrowser
+      onJoin={handleJoinPublicParty}
+      onClose={() => showLobbyBrowser = false}
+    />
+  {/if}
 </div>
+

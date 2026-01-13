@@ -84,6 +84,14 @@ export interface EnglishProficiencyResult {
   recommendation: string;
   strengthLevels: CEFRLevel[];
   weaknessLevels: CEFRLevel[];
+
+  // Cognitive stats
+  cognitiveStats?: {
+    highDifficultyCorrect: number; // Questions with diff 4-5 correct
+    highDifficultyTotal: number;   // Questions with diff 4-5 total
+    cognitiveAccuracy: number;     // %
+    label: string;                 // "Logical Thinker", "Critical Analyst", etc.
+  };
 }
 
 /**
@@ -139,8 +147,8 @@ function calculateConfidence(
   totalQuestions: number
 ): { confidence: number; label: 'Low' | 'Medium' | 'High' | 'Very High' } {
   // Base confidence from sample size
-  // 5 questions = 20%, 15 questions = 60%, 30+ questions = 100%
-  const sampleConfidence = Math.min(100, Math.round((totalQuestions / 30) * 100));
+  // 30 questions = 50%, 60+ questions = 100%
+  const sampleConfidence = Math.min(100, Math.round((totalQuestions / 60) * 100));
 
   // Consistency bonus: higher if results follow expected pattern
   // (higher accuracy at lower levels, lower accuracy at higher levels)
@@ -203,7 +211,7 @@ function findCeilingLevel(breakdown: LevelStats[]): {
   // Thresholds (based on EF SET methodology)
   const MASTERY_THRESHOLD = 80;   // >= 80% = solid at this level
   const COMPETENT_THRESHOLD = 60; // >= 60% = working at this level
-  const EMERGING_THRESHOLD = 40;  // >= 40% = emerging at this level
+
 
   let masteredLevel = 0;
   let competentLevel = 0;
@@ -220,12 +228,25 @@ function findCeilingLevel(breakdown: LevelStats[]): {
   // Use mastered level if available, otherwise competent level
   let estimatedNum = masteredLevel > 0 ? masteredLevel : competentLevel;
 
-  // If no levels reached threshold, use best performing level
+  // 🐛 FIX: If no levels reached competency threshold, assign based on overall accuracy
+  // This prevents high levels (B2+) from being assigned with low accuracy
   if (estimatedNum === 0) {
-    const best = sorted.reduce((prev, curr) =>
-      curr.accuracy > prev.accuracy ? curr : prev
-    );
-    estimatedNum = best.levelNum;
+    // Calculate overall accuracy across all levels
+    const totalCorrect = breakdown.reduce((sum, b) => sum + b.correct, 0);
+    const totalQuestions = breakdown.reduce((sum, b) => sum + b.total, 0);
+    const overallAccuracy = totalQuestions > 0 ? (totalCorrect / totalQuestions) * 100 : 0;
+
+    // Assign conservative level based on overall accuracy
+    // Never assign B1+ without reaching competency threshold
+    if (overallAccuracy < 20) {
+      estimatedNum = 1; // A1
+    } else if (overallAccuracy < 40) {
+      estimatedNum = 2; // A1+
+    } else if (overallAccuracy < 60) {
+      estimatedNum = 3; // A2
+    } else {
+      estimatedNum = 4; // A2+ (safety fallback, should not normally reach here)
+    }
   }
 
   // Cap at C1
@@ -351,6 +372,27 @@ export function calculateEnglishProficiencyV2(
     breakdown
   );
 
+  // 7. Calculate Cognitive Stats (Logic/Critical Thinking)
+  let cognitiveStats: EnglishProficiencyResult['cognitiveStats'] = undefined;
+  const highDiffQuestions = results.filter(r => (r.difficulty || 0) >= 4);
+
+  if (highDiffQuestions.length > 0) {
+    const highDiffCorrect = highDiffQuestions.filter(r => r.isCorrect).length;
+    const cognitiveAccuracy = (highDiffCorrect / highDiffQuestions.length) * 100;
+
+    let label = 'Developing Logic';
+    if (cognitiveAccuracy >= 80) label = 'Critical Master 🧠';
+    else if (cognitiveAccuracy >= 60) label = 'Analytical Thinker 💡';
+    else if (cognitiveAccuracy >= 40) label = 'Developing Logic';
+
+    cognitiveStats = {
+      highDifficultyCorrect: highDiffCorrect,
+      highDifficultyTotal: highDiffQuestions.length,
+      cognitiveAccuracy,
+      label
+    };
+  }
+
   return {
     estimatedLevel: ceiling.level,
     estimatedLevelNum: ceiling.levelNum,
@@ -362,7 +404,8 @@ export function calculateEnglishProficiencyV2(
     overallAccuracy,
     recommendation,
     strengthLevels: strengths,
-    weaknessLevels: weaknesses
+    weaknessLevels: weaknesses,
+    cognitiveStats
   };
 }
 
@@ -379,6 +422,8 @@ export function examResultsToQuestionResults(
     englishLevel?: string;
     grade?: number;
     sourceGrade?: number;
+    difficulty?: number;
+    meta?: { difficulty?: number; };
   }>
 ): QuestionResult[] {
   return examQuestions.map(q => ({
@@ -388,6 +433,7 @@ export function examResultsToQuestionResults(
       q.cefrLevel || q.cefr_level || q.englishLevel,
       q.grade || q.sourceGrade
     ),
-    sourceGrade: q.grade || q.sourceGrade
+    sourceGrade: q.grade || q.sourceGrade,
+    difficulty: q.difficulty || q.meta?.difficulty // Try top-level or meta
   }));
 }

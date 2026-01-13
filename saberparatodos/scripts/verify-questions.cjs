@@ -23,7 +23,7 @@ if (FIX_MODE) {
 }
 
 // Function to validate UTF-8 and detect mojibake
-function checkEncoding(content, filePath) {
+function checkEncoding(content, _filePath) {
     const mojibakePatterns = [
         { pattern: /ÃƒÂ³|Ã‚Â/g, replacement: '' }, // Common double-encoded utf-8
         { pattern: /Ã³|Ã³/g, replacement: 'ó' },

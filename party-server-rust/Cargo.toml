@@ -53,6 +53,12 @@ thiserror = "1.0"
 chrono = { version = "0.4", features = ["serde"] }
 rand = "0.8"
 
+# 🆕 LAN Discovery
+mdns-sd = "0.11"
+parking_lot = "0.12"
+flume = "0.11"
+sha2 = "0.10"
+
 [dev-dependencies]
 actix-rt = "2.9"
 

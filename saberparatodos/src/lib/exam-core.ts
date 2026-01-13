@@ -22,7 +22,7 @@ export function mixQuestionsForExam(
   grade: number,
   subject: string,
   universalPercentage: number = 30,
-  minLocal: number = 5
+  _minLocal: number = 5
 ): any[] {
   // If no pool or no local questions, return local only
   if (!pool || !pool.all || pool.all.length === 0 || localQuestions.length === 0) {

@@ -295,12 +295,10 @@ export async function getCorrectlyAnsweredIds(withinDays: number = 30): Promise<
         const results = request.result as AnsweredQuestionRecord[];
 
         // Filter for correct answers within the time window
-        // Note: For large datasets, using a cursor with IDBKeyRange on 'answeredAt' index would be more efficient
         const recentCorrect = results
           .filter(r => r.wasCorrect && r.answeredAt >= cutoff)
           .map(r => r.questionId);
 
-        // console.log(`🧠 Found ${recentCorrect.length} correctly answered questions in last ${withinDays} days`);
         resolve(new Set(recentCorrect));
       };
 
@@ -308,6 +306,42 @@ export async function getCorrectlyAnsweredIds(withinDays: number = 30): Promise<
     });
   } catch (err) {
     console.error('Error getting correctly answered IDs:', err);
+    return new Set();
+  }
+}
+
+/**
+ * 🆕 Get IDs of answered questions
+ * @param withinDays -1 for all history, or number of days
+ * @param onlyCorrect If true, only returns IDs of questions answered CORRECTLY (for exclusion).
+ *                    If false (default), returns all attempted IDs.
+ */
+export async function getAnsweredQuestionIds(withinDays: number = 7, onlyCorrect: boolean = false): Promise<Set<string>> {
+  try {
+    const db = await openDB();
+    const cutoff = Date.now() - (withinDays * 24 * 60 * 60 * 1000);
+
+    return new Promise((resolve, reject) => {
+      const tx = db.transaction([STORE_ANSWERED], 'readonly');
+      const store = tx.objectStore(STORE_ANSWERED);
+      const request = store.getAll();
+
+      request.onsuccess = () => {
+        const results = request.result as AnsweredQuestionRecord[];
+        const recent = results
+          .filter(r => {
+            const timeOk = withinDays === -1 || r.answeredAt >= cutoff;
+            const correctOk = onlyCorrect ? r.wasCorrect === true : true;
+            return timeOk && correctOk;
+          })
+          .map(r => r.questionId);
+        resolve(new Set(recent));
+      };
+
+      request.onerror = () => reject(request.error);
+    });
+  } catch (err) {
+    console.warn('Error getting answered IDs:', err);
     return new Set();
   }
 }
@@ -443,6 +477,49 @@ export async function getKnownQuestion(id: string): Promise<any | null> {
   } catch (err) {
     console.warn('Error getting known question:', err);
     return null;
+  }
+}
+
+/**
+ * 🆕 Get all cached English questions from IndexedDB
+ * Used for cache-first loading strategy
+ */
+export async function getCachedEnglishQuestions(): Promise<any[]> {
+  try {
+    const db = await openDB();
+    return new Promise((resolve) => {
+      const tx = db.transaction(['known_questions'], 'readonly');
+      const store = tx.objectStore('known_questions');
+      const request = store.getAll();
+
+      request.onsuccess = () => {
+        const allQuestions = request.result || [];
+
+        // Filter only English questions
+        const englishQuestions = allQuestions.filter((q: any) => {
+          const category = (q.category || '').toLowerCase();
+          const id = (q.id || '').toLowerCase();
+          return category.includes('inglés') ||
+                 category.includes('ingles') ||
+                 id.includes('-eng-') ||
+                 id.includes('co-ing-');
+        });
+
+        if (englishQuestions.length > 0) {
+          console.log(`📦 Found ${englishQuestions.length} English questions in local cache`);
+        }
+
+        resolve(englishQuestions);
+      };
+
+      request.onerror = () => {
+        console.warn('Error reading cached questions:', request.error);
+        resolve([]);
+      };
+    });
+  } catch (err) {
+    console.warn('Error getting cached English questions:', err);
+    return [];
   }
 }
 

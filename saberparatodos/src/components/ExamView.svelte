@@ -69,11 +69,18 @@
 
   // Time tracking
   // Time tracking
-  const DEFAULT_TIME = 300; // 5 minutes default
-  $: EXAM_TIME_SECONDS = timeLimitSeconds > 0 ? timeLimitSeconds : DEFAULT_TIME;
+  // Smart default: 2 minutes per question, minimum 5 minutes
+  $: smartDefaultTime = Math.max(300, activeQuestions.length * 120);
+  $: EXAM_TIME_SECONDS = timeLimitSeconds > 0 ? timeLimitSeconds : smartDefaultTime;
 
   $: TIME_PER_QUESTION_MS = (EXAM_TIME_SECONDS * 1000) / Math.max(activeQuestions.length, 1);
-  let timeLeft = timeLimitSeconds > 0 ? timeLimitSeconds : DEFAULT_TIME; // Initialize
+
+  // Initialize timeLeft using specific logic to handle the initial state clearly
+  // If timeLimitSeconds is 0 (unlimited/default), we calculate based on input questions or fallback
+  let timeLeft = timeLimitSeconds > 0
+      ? timeLimitSeconds
+      : Math.max(300, (questions?.length || 1) * 120);
+
   let examStartTime = 0;
   let questionStartTime = 0;
 
@@ -618,7 +625,7 @@
       <div class="w-full h-1.5 bg-white/10 rounded-full overflow-hidden shadow-inner">
         <div
           class="h-full bg-gradient-to-r from-emerald-600 to-emerald-400 transition-all duration-1000 ease-linear shadow-[0_0_10px_rgba(16,185,129,0.5)]"
-          style="width: {(timeLeft / 300) * 100}%"
+          style="width: {(timeLeft / EXAM_TIME_SECONDS) * 100}%"
         ></div>
       </div>
     </div>
@@ -635,22 +642,22 @@
              Contexto  / Lectura
            </div>
            <div class="text-sm sm:text-base text-gray-300 font-serif leading-relaxed space-y-2">
-             <MathRenderer content={question.context} />
+             <MathRenderer content={question.context?.trim()} />
            </div>
         </div>
       {/if}
 
-      <div class="bg-[#1E1E1E]/60 backdrop-blur-xl border border-white/10 rounded-2xl shadow-2xl flex flex-col min-h-[10rem] max-h-[35vh] sm:min-h-[12rem] transition-all duration-300 relative overflow-hidden group">
+      <div class="bg-[#1E1E1E]/60 backdrop-blur-xl border border-white/10 rounded-2xl shadow-2xl flex flex-col max-h-[45vh] transition-all duration-300 relative overflow-hidden group">
         <!-- Decorative gradient -->
         <div class="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-emerald-500/0 via-emerald-500/50 to-emerald-500/0 opacity-50"></div>
 
-        <div class="flex-1 overflow-y-auto p-5 sm:p-6 lg:p-8 scrollbar-thin scrollbar-thumb-emerald-500/20 scrollbar-track-transparent">
+        <div class="overflow-y-auto p-5 sm:p-6 lg:p-8 scrollbar-thin scrollbar-thumb-emerald-500/20 scrollbar-track-transparent">
           <div class="flex items-start gap-4 sm:gap-5 lg:gap-6">
             <div class="text-2xl sm:text-3xl lg:text-4xl font-bold text-emerald-500/20 leading-none select-none shrink-0 sticky top-0 font-mono">
               {(currentIdx + 1).toString().padStart(2, '0')}
             </div>
             <div class="text-base sm:text-lg lg:text-xl font-normal leading-relaxed text-gray-100 font-sans tracking-wide">
-              <MathRenderer content={question.text} />
+              <MathRenderer content={question.text?.trim()} />
             </div>
           </div>
         </div>
@@ -665,9 +672,9 @@
               onClick={() => handleSelect(option.id)}
               className="cursor-pointer hover:border-emerald-500/40 transition-all duration-200 rounded-xl overflow-hidden group"
             >
-              <div class="py-3 px-4 sm:py-3.5 sm:px-5 flex items-center gap-3 sm:gap-4">
+              <div class="py-4 px-5 sm:py-5 sm:px-6 flex items-center gap-4"> <!-- 📱 Increased padding for touch -->
                 <div class={`
-                  w-7 h-7 sm:w-8 sm:h-8 flex items-center justify-center rounded-lg text-xs sm:text-sm font-bold transition-all duration-300 shrink-0 border
+                  w-8 h-8 sm:w-9 sm:h-9 flex items-center justify-center rounded-lg text-sm font-bold transition-all duration-300 shrink-0 border
                   ${selectedOption === option.id
                     ? 'border-emerald-500 bg-emerald-500 text-[#121212] shadow-[0_0_15px_rgba(16,185,129,0.4)]'
                     : 'border-white/10 bg-white/5 text-gray-400 group-hover:border-emerald-500/30 group-hover:text-emerald-400'}
@@ -675,7 +682,7 @@
                   {option.id}
                 </div>
                 <span class={`
-                  text-sm sm:text-base font-sans leading-snug flex-1 transition-colors duration-200
+                  text-base sm:text-lg font-sans leading-snug flex-1 transition-colors duration-200 <!-- 📱 Increased font size -->
                   ${selectedOption === option.id ? 'text-white font-medium' : 'text-gray-300 font-normal group-hover:text-white'}
                 `}>
                   <MathRenderer content={option.text} />

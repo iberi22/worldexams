@@ -4,11 +4,12 @@
 
 ## 🎯 Resumen Ejecutivo y Estado Actual
 
-**✅ COMPLETADO:** **INGLÉS GLOBAL (Fase 1)** - 8 bundles UNI-ENG universales + 250 CO-ING migrados a ubicación central.
+**✅ COMPLETADO:** **INGLÉS GLOBAL (Fase 1)** - 8 bundles UNI-ENG universales + 250 CO-ING migrados + Badges de Metadatos + Memory Tracker.
 
 **🔄 EN PROGRESO:** **EXPANSIÓN INGLÉS (Fase 2)** - Meta: 500 bundles por país (100 universales + 400 país-específicos).
 
 **✅ COMPLETADO:** **PARTY MODE WEB** - PWA funcional, P2P Sync, y RLS configurados.
+**✅ COMPLETADO:** **STOP MODE** - Modo rápido (15s), mezcla de preguntas, config simplificada.
 
 **Estado General:** 📊 **OPERATIVO - CONTENIDO EN EXPANSIÓN**
 
@@ -22,10 +23,13 @@
     - [x] Crear protocolo global `docs/ENGLISH_LEARNING_PROTOCOL.md`.
     - [x] Migrar contenido a ubicación central `src/content/questions/ingles/`.
     - [x] Generar 8 bundles UNI-ENG (A1-B2).
+    - [x] **Mejoras Técnicas:** Extracción de "Parte" en parser, Badges en UI, MemoryStatus re-habilitado.
+    - [x] **Verificación:** E2E tests con Playwright completados (`tests/english-module.spec.ts`).
     - [x] Actualizar country protocols (MX, CL, AR) con referencia.
 
 - [ ] **Inglés Global: Expansión (Fase 2)**
-    - [ ] Generar 92 bundles UNI-ENG adicionales (meta: 100 universales).
+    - [ ] **🔴 REGENERAR 117 bundles UNI-ENG eliminados** (Contexto faltante en Q6/Q10 - Ver `docs/ENGLISH_LEARNING_PROTOCOL.md`).
+    - [ ] Generar ~100 bundles UNI-ENG (meta: 100 universales con protocolo v3.1).
     - [ ] Migrar ~150 CO-ING universales (sin referencias a Colombia).
     - [ ] Crear contenido país-específico (MX-ING, CL-ING, AR-ING).
 
@@ -779,10 +783,21 @@ Exposición:          Solo 27% del contenido en cualquier momento
 - [x] Implementar límites hardcoded (10 jugadores, 1 examen/semana)
 - [x] UI de bloqueo y upsell en Lobby
 - [x] Bloqueo de análisis IA para cuentas Free
+- [x] Implementar "Stop Mode" (juego rápido multijugador) <!-- id: 500 -->
+  - [x] Lógica de juego (PartyState) <!-- id: 501 -->
+  - [x] UI de configuración (StopModeSetup) <!-- id: 502 -->
+  - [x] Integración en Home y Reportes (Weekly Pack) <!-- id: 503 -->
 
 ---
 
 ## 📶 OFFLINE MODE - Host App (Ene 2026)
+
+
+### ✅ STOP MODE (Ene 2026 - COMPLETADO)
+- [x] **Setup Component:** `StopModeSetup.svelte` (Configuración simplificada)
+- [x] **Logic:** `partyState.createParty` adapta preguntas (mix all subjects, filter by difficulty)
+- [x] **Sharing:** Botones de WhatsApp y Telegram en Lobby
+- [x] **Integration:** Botón "⚡ Stop Mode" en Home de Party
 
 ### Estrategia: Tauri v2 + Rust Server
 

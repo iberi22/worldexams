@@ -184,9 +184,18 @@ country:
 
 ### Referencia Técnica
 
-- **Protocolo:** `docs/ENGLISH_LEARNING_PROTOCOL.md`
-- **Ubicación Central:** `src/content/questions/ingles/`
 - **Formato:** Protocol v3.0-GLOBAL
+
+### 8.1 Mejoras Técnicas Q1 2026
+
+Se han implementado mejoras críticas para potenciar la pedagogía y el seguimiento del aprendizaje de idiomas:
+
+- **Extracción Automática de Metadatos:** El `questionParser.ts` ahora detecta y extrae la "Parte" del examen (ej: Parte 1 - Vocabulario) y el nivel CEFR directamente de los bundles.
+- **Visualización con Badges:** La interfaz de resultados (`ResultsView.svelte`) ahora muestra badges visuales para cada pregunta, indicando su parte y nivel.
+- **Seguimiento de Progreso (Memory Tracking):** Se ha habilitado el componente `MemoryStatus` para rastrear preguntas vistas y dominadas a largo plazo.
+- **NotebookLM Integration:** Reforzada la generación de planes de estudio personalizados exportables para tutores de IA.
+- **Verificación E2E:** Implementado suite de pruebas en Playwright para asegurar la integridad del flujo de diagnóstico de inglés.
+
 
 ---
 
@@ -214,4 +223,18 @@ SUPABASE_SERVICE_ROLE_KEY=  # 🚫 Nunca usar en frontend/cliente
 TELEGRAM_BOT_TOKEN=
 TELEGRAM_CHAT_ID=
 FUNCTION_SECRET=
+```
+
+---
+
+## 8. Dominio de Producción
+
+| Plataforma | URL | Hosting |
+|------------|-----|---------|
+| 🇨🇴 **SaberParaTodos** | **https://saberparatodos.space** | Cloudflare Pages |
+
+**Comando de Deploy:**
+```bash
+cd saberparatodos
+npm run build && npx wrangler pages deploy dist --project-name=saberparatodos
 ```

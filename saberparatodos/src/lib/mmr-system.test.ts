@@ -6,7 +6,6 @@ import {
   getGradeMultiplier,
   getSimulatedIcfesScore,
   getRankTitle,
-  BASE_MMR
 } from './mmr-system';
 
 describe('MMR System', () => {

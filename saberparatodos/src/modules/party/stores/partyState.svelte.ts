@@ -19,6 +19,7 @@ import type {
   SubscriptionPlan,
 } from '../types';
 import { PLAN_LIMITS } from '../types';
+import { fetchAllQuestionsForGrade, fetchBulkQuestions, type AppQuestion } from '../../../lib/api-service';
 
 class PartyState {
   // State primitivo
@@ -63,14 +64,22 @@ class PartyState {
     // 1. Check Plan Limits
     const limits = PLAN_LIMITS[this.currentPlan];
 
-    // Check exams per week (Simple LocalStorage check for MVP)
-    if (this.currentPlan === 'free') {
-      const lastExam = localStorage.getItem('last_exam_date');
-      if (lastExam) {
-        const daysSince = (new Date().getTime() - new Date(lastExam).getTime()) / (1000 * 3600 * 24);
-        if (daysSince < 7) {
-          throw new Error('PLAN_LIMIT_REACHED: Solo puedes crear 1 examen por semana en el plan gratuito.');
-        }
+    // 🆕 Skip limits for Stop Mode (it's a quick game mode)
+    const isStopMode = config.mode === 'stop';
+
+    // Check exams per week (only for standard party mode on free plan)
+    if (this.currentPlan === 'free' && !isStopMode) {
+      const weeklyCount = parseInt(localStorage.getItem('weekly_exam_count') || '0', 10);
+      const lastReset = localStorage.getItem('weekly_exam_reset');
+      const now = Date.now();
+      const oneWeek = 7 * 24 * 60 * 60 * 1000;
+
+      // Reset counter if a week has passed
+      if (!lastReset || (now - parseInt(lastReset, 10)) > oneWeek) {
+        localStorage.setItem('weekly_exam_count', '0');
+        localStorage.setItem('weekly_exam_reset', now.toString());
+      } else if (weeklyCount >= limits.examsPerWeek) {
+        throw new Error(`PLAN_LIMIT_REACHED: Has alcanzado el límite de ${limits.examsPerWeek} exámenes por semana.`);
       }
     }
 
@@ -92,6 +101,9 @@ class PartyState {
       asignatura,
       connectionMode: config.connectionMode || 'supabase',
       createdAt: new Date(),
+      // 🆕 Stop Mode configuration
+      mode: config.mode,
+      stopConfig: config.stopConfig
     };
 
     // Record exam creation
@@ -113,22 +125,92 @@ class PartyState {
 
     this.players = [this.currentPlayer];
 
-    // Generate mock questions for now
-    this.questions = Array.from({ length: this.config.totalQuestions }, (_, i) => ({
-      id: `q-${i + 1}`,
-      enunciado: `Pregunta ${i + 1} de ${asignatura}`,
-      opciones: [
-        { id: 'A', texto: 'Opción A', es_correcta: true },
-        { id: 'B', texto: 'Opción B', es_correcta: false },
-        { id: 'C', texto: 'Opción C', es_correcta: false },
-        { id: 'D', texto: 'Opción D', es_correcta: false },
-      ],
-      explicacion: 'Explicación de la respuesta correcta',
-    }));
+    // Generate questions
+    if (this.config && this.config.mode === 'stop' && this.config.stopConfig) {
+      // --- STOP MODE LOGIC ---
+      try {
+          console.log('[Party] Fetching questions for Stop Mode from Weekly Pack...');
+          // Fetch from Weekly Pack (fetchBulkQuestions hits current.json rotating pack)
+          let pool = await fetchBulkQuestions([11], 300);
+
+          // 1. Filter English
+          if (!this.config.stopConfig.includeEnglish) {
+            pool = pool.filter(q => !q.category.toLowerCase().includes('inglés') && !q.category.toLowerCase().includes('ingles'));
+          }
+
+          // 2. Filter Difficulty
+          const diffMap: Record<string, number[]> = {
+            'easy': [1, 2],
+            'medium': [3],
+            'hard': [4, 5]
+          };
+          const allowedDiff = diffMap[this.config.stopConfig.difficulty] || [1, 2, 3, 4, 5];
+          pool = pool.filter(q => allowedDiff.includes(q.difficulty));
+
+          // 3. Shuffle & Slice
+          if (pool.length > 0) {
+              this.questions = pool.sort(() => Math.random() - 0.5).slice(0, this.config.totalQuestions);
+              console.log(`[Party] Generated ${this.questions.length} questions for Stop Mode`);
+          } else {
+              throw new Error('No questions found in pool');
+          }
+      } catch (err) {
+          console.error('[Party] Error fetching questions for Stop Mode, using placeholders:', err);
+          // Fallback to placeholders if fetch fails
+          this.questions = Array.from({ length: this.config.totalQuestions || 10 }, (_, i) => ({
+            id: `q-fallback-${i + 1}`,
+            text: `(Respaldo) Pregunta de Práctica ${i + 1}`,
+            options: [
+              { id: 'A', text: 'Opción A' },
+              { id: 'B', text: 'Opción B' },
+              { id: 'C', text: 'Opción C' },
+              { id: 'D', text: 'Opción D' },
+            ],
+            correctOptionId: 'A',
+            grade: 11,
+            category: 'General',
+            difficulty: 3,
+            explanation: 'Pregunta de respaldo cargada debido a un error de conexión con el banco de preguntas.',
+          }));
+      }
+    } else {
+      // --- STANDARD MODE (Mock for now, TODO: Real Questions) ---
+       this.questions = Array.from({ length: this.config.totalQuestions }, (_, i) => ({
+        id: `q-${i + 1}`,
+        enunciado: `Pregunta ${i + 1} de ${asignatura}`,
+        opciones: [
+          { id: 'A', texto: 'Opción A', es_correcta: true },
+          { id: 'B', texto: 'Opción B', es_correcta: false },
+          { id: 'C', texto: 'Opción C', es_correcta: false },
+          { id: 'D', texto: 'Opción D', es_correcta: false },
+        ],
+        explicacion: 'Explicación de la respuesta correcta',
+      }));
+    }
 
     // Conectar al servicio
     await connectionService.connect(this.config);
     this.connectionStatus = 'connected';
+
+    // 🆕 Persistir en Supabase para que aparezca en el Lobby Browser
+    try {
+      await supabase.from('party_sessions').insert({
+        party_code: partyId,
+        host_name: hostName,
+        exam_config: {
+          ...this.config,
+          id: partyId, // Redundant but safe
+          is_public: true // Stop mode rooms are public by default
+        },
+        students: [{ id: hostId, name: hostName, joined_at: new Date().toISOString(), ready: true }],
+        max_students: limits.maxPlayers,
+        status: 'waiting',
+        current_question: 0
+      });
+      console.log('[Party] Sesión persistida en Supabase:', partyId);
+    } catch (dbErr) {
+      console.warn('[Party] No se pudo persistir la sesión en DB (usando solo P2P/Realtime):', dbErr);
+    }
 
     // Escuchar mensajes
     connectionService.onMessage(this.handleMessage.bind(this));
@@ -142,6 +224,13 @@ class PartyState {
     });
 
     console.log('[Party] Party creada:', partyId);
+
+    // 🆕 Increment weekly exam counter (only for non-Stop mode)
+    if (!isStopMode && this.currentPlan === 'free') {
+      const currentCount = parseInt(localStorage.getItem('weekly_exam_count') || '0', 10);
+      localStorage.setItem('weekly_exam_count', (currentCount + 1).toString());
+    }
+
     return partyId;
   }
 

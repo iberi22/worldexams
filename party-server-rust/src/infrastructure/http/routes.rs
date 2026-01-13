@@ -2,9 +2,11 @@ use actix_web::{web, HttpRequest, HttpResponse, Responder};
 use serde_json::json;
 use serde::Deserialize;
 use std::sync::Arc;
+use parking_lot::RwLock;
 
 use crate::infrastructure::database::{SqlitePartyRepository, SqlitePlayerRepository};
 use crate::infrastructure::websocket::RoomManager;
+use crate::infrastructure::discovery::DiscoveryService;
 use crate::domain::entities::party::Party;
 use crate::domain::repositories::PartyRepository;
 
@@ -12,6 +14,7 @@ pub struct AppState {
     pub party_repo: SqlitePartyRepository,
     pub player_repo: SqlitePlayerRepository,
     pub room_manager: RoomManager,
+    pub discovery: Option<Arc<RwLock<DiscoveryService>>>,
 }
 
 #[derive(Deserialize)]
@@ -28,6 +31,7 @@ pub struct CreatePartyRequest {
 pub fn configure(cfg: &mut web::ServiceConfig) {
     cfg
         .route("/health", web::get().to(health_check))
+        .route("/api/discover", web::get().to(discover_hosts))
         .route("/api/parties", web::post().to(create_party))
         .route("/api/parties/{code}", web::get().to(get_party))
         .route("/api/parties/{code}/join", web::post().to(join_party))
@@ -110,4 +114,26 @@ async fn websocket_handler(
 
     // Start WebSocket
     actix_web_actors::ws::start(conn, &req, stream)
+}
+
+/// 🆕 Discover party hosts on the local network via mDNS
+async fn discover_hosts(data: web::Data<AppState>) -> impl Responder {
+    match &data.discovery {
+        Some(discovery) => {
+            let hosts = discovery.read().get_discovered_hosts();
+            HttpResponse::Ok().json(json!({
+                "success": true,
+                "hosts": hosts,
+                "count": hosts.len()
+            }))
+        }
+        None => {
+            HttpResponse::Ok().json(json!({
+                "success": true,
+                "hosts": [],
+                "count": 0,
+                "message": "Discovery service not enabled"
+            }))
+        }
+    }
 }

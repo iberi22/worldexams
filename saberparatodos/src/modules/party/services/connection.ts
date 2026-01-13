@@ -126,13 +126,27 @@ class ConnectionService {
       console.log('[Supabase] Usuarios online:', Object.keys(state).length);
     });
 
-    // Suscribirse
-    const status = await this.channel.subscribe();
+    // Suscribirse con reintentos
+    let status = 'INITIAL';
+    let retries = 3;
 
-    if (status === 'SUBSCRIBED') {
-      console.log(`[Supabase] Conectado a ${channelName}`);
-    } else {
-      throw new Error(`Failed to subscribe to ${channelName}`);
+    while (retries > 0) {
+      status = await this.channel.subscribe();
+
+      if (status === 'SUBSCRIBED') {
+        console.log(`[Supabase] ✅ Conectado a ${channelName}`);
+        return;
+      }
+
+      console.warn(`[Supabase] ⚠️ Intento de suscripción fallido: ${status}. Reintentando... (${retries} restantes)`);
+      retries--;
+      if (retries > 0) await new Promise(resolve => setTimeout(resolve, 1000));
+    }
+
+    if (status !== 'SUBSCRIBED') {
+      console.error(`[Supabase] ❌ No se pudo conectar a ${channelName}. Estado final: ${status}`);
+      // No lanzamos error para permitir que la app intente funcionar (fallback P2P)
+      // throw new Error(`Failed to subscribe to ${channelName}: ${status}`);
     }
   }
 

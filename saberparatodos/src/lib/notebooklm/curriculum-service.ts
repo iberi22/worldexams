@@ -8,7 +8,7 @@
 import { CEFR_CURRICULUM, type StudyTopic } from './cefr-data';
 import {
   CEFR_LEVELS,
-  type CEFRLevel,
+
   type EnglishProficiencyResult
 } from '../english-proficiency';
 
@@ -67,7 +67,13 @@ export function generateStudyPlan(
         title: 'Módulo de Recuperación y Refuerzo',
         focus: `Fortalecer bases de nivel ${result.weaknessLevels.join(', ')}`,
         topics: selectedTopics,
-        notebookPrompt: `Actúa como un tutor paciente que está ayudando a un estudiante a llenar vacíos en el nivel ${result.weaknessLevels.join(', ')}. Enfócate en: ${selectedTopics.map(t => t.title).join(', ')}.`
+        notebookPrompt: `[ROL: Experto en Remediación de Inglés]
+El estudiante tiene dificultades específicas en el nivel **${result.weaknessLevels.join(', ')}**.
+Tus objetivos son:
+1. Explicar los conceptos de **${selectedTopics.map(t => t.title).join(', ')}** usando analogías simples.
+2. Identificar por qué el estudiante suele fallar en estos temas (errores comunes).
+3. Generar 3 ejercicios de práctica intensiva para estos temas específicos.
+Sé motivador pero riguroso con la corrección de errores.`
       });
     }
   }
@@ -94,10 +100,14 @@ export function generateStudyPlan(
     if (nextData) {
       modules.push({
         week: weekCounter++,
-        title: `Reto: Introducción al Nivel ${nextLevel}`,
-        focus: 'Expandir conocimientos hacia el siguiente nivel.',
+        title: `Desafío de Nivel Superior (${nextLevel})`,
+        focus: 'Introducción a conceptos avanzados para acelerar el aprendizaje.',
         topics: nextData.topics,
-        notebookPrompt: `Actúa como un coach motivador. Introduce conceptos de nivel ${nextLevel} de forma sencilla. Temas: ${nextData.topics.map(t => t.title).join(', ')}.`
+        notebookPrompt: `[ROL: Coach de Alto Rendimiento]
+Vamos a llevar al estudiante al siguiente nivel: **${nextLevel}**.
+Introduce estos conceptos avanzados de forma desafiante pero accesible: **${nextData.topics.map(t => t.title).join(', ')}**.
+Usa contextos de negocios, viajes o académicos para mostrar la utilidad real de estos temas.
+Desafía al estudiante con una pregunta de pensamiento crítico.`
       });
     }
   }

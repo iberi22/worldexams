@@ -337,7 +337,7 @@ export function getSubjectMemoryStats(questions: any[], subject?: string): {
   const answered = loadAnsweredQuestions();
 
   // Filter questions by subject if provided
-  const subjectQuestions = subject
+  const subjectQuestions = (subject && subject !== 'Simulacro Completo')
     ? questions.filter(q => {
         const category = q.category?.toUpperCase() || '';
         const subjectUpper = subject.toUpperCase();

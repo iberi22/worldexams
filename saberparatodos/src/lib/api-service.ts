@@ -7,8 +7,7 @@
 
 import { supabase } from './supabase';
 import {
-  getCurrentPackId,
-  setCurrentPackId,
+
   hasPackStored,
   getTotalQuestionsAvailable,
   type StoredPack,
@@ -16,21 +15,36 @@ import {
   getQuestionPool
 } from './pack-storage';
 
-import { saveKnownQuestions } from './idb-storage';
+import {
+  saveKnownQuestions,
+  getCachedEnglishQuestions,
+  getAnsweredQuestionIds,
+  getAllLocalResults // 🆕 Import results reader
+} from './idb-storage';
+
+import {
+  calculateEnglishProficiencyV2,
+  examResultsToQuestionResults
+} from './english-proficiency';
 
 // API Configuration
 const API_BASE_URL = '/api'; // Static files (legacy)
 const PACKS_API_URL = '/api/packs'; // 🆕 Rotating packs
 const CURRENT_PACK_URL = '/api/packs/current.json'; // ⚡ Static/Worker Endpoint
-const BULK_FUNCTION_URL = 'https://tzmrgvtptdtsjcugwqyq.supabase.co/functions/v1/get-questions-bulk'; // Bulk endpoint
-const EDGE_FUNCTION_URL = 'https://tzmrgvtptdtsjcugwqyq.supabase.co/functions/v1/get-questions'; // Single fetch endpoint
+
+
+// const EDGE_FUNCTION_URL = 'https://tzmrgvtptdtsjcugwqyq.supabase.co/functions/v1/get-questions'; // Single fetch endpoint
 const COUNTRY_CODE = 'co';
 const EXAM_TYPE = 'icfes';
 
+// 🆕 Dev mode detection - skip pack system on localhost to avoid 404s
+const IS_DEV_MODE = typeof window !== 'undefined' &&
+  (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1');
+
 // Feature flags
-const USE_ROTATING_PACKS = true; // 🆕 Primary: Use rotating packs system
-const USE_EDGE_FUNCTIONS = false; // Disabled: Edge Functions require auth
-const USE_BULK_FOR_BLOG = true; // Use bulk endpoint for Blog view
+const USE_ROTATING_PACKS = !IS_DEV_MODE; // 🆕 Skip in dev mode to avoid 404s
+// const USE_EDGE_FUNCTIONS = false; // Disabled: Edge Functions require auth
+
 
 /**
  * Get JWT token from Supabase session
@@ -213,11 +227,18 @@ function transformQuestion(apiQuestion: APIQuestion | any, grade: number, subjec
   });
 
   // 🆕 Find correct answer - handle both formats
-  let correctOptionId = apiQuestion.correct_answer || apiQuestion.correctAnswer || apiQuestion.respuesta_correcta;
+  // 🐛 FIX: Added correctOptionId check (used by questionParser/API) to prevent defaulting to 'A'
+  let correctOptionId = apiQuestion.correctOptionId || apiQuestion.correct_answer || apiQuestion.correctAnswer || apiQuestion.respuesta_correcta;
+
   if (!correctOptionId) {
     // Try to find from options with isCorrect or is_correct
     const correctOpt = rawOptions.find((opt: any) => opt.isCorrect || opt.is_correct || opt.es_correcta);
     let id = correctOpt?.letter || correctOpt?.label || correctOpt?.letra || 'A';
+    // If we're defaulting to A but have valid option IDs, try to use the first option's ID instead of hardcoded 'A'
+    if (!correctOpt && options.length > 0 && options[0].id) {
+       id = options[0].id;
+    }
+
     if (typeof id === 'string') {
       id = id.replace(/\)\s*$/, '').trim();
     }
@@ -399,58 +420,7 @@ export async function fetchQuestions(
   }
 }
 
-/**
- * ⚡ Fetch questions from Edge Function (JWT-protected and guest-friendly)
- * This is the primary method for fetching questions
- */
-async function fetchQuestionsFromEdge(
-  grade: number,
-  subject: string,
-  page: number = 1
-): Promise<AppQuestion[]> {
-  const cacheKey = `edge_${grade}_${subject}_${page}`;
-  const cached = questionCache.get(cacheKey);
-  if (cached) return cached;
 
-  const headers = await getAuthHeaders();
-
-  try {
-    const url = `${EDGE_FUNCTION_URL}?grade=${grade}&subject=${subject}&page=${page}&country=${COUNTRY_CODE}&exam=${EXAM_TYPE}`;
-    console.log(`⚡ Fetching from Edge Function: ${url.substring(0, 80)}...`);
-
-    const response = await fetch(url, {
-      headers,
-      cache: 'no-cache'
-    });
-
-    if (!response.ok) {
-      throw new Error(`HTTP ${response.status}: ${response.statusText}`);
-    }
-
-    const data = await response.json();
-
-    if (!data.questions || !Array.isArray(data.questions)) {
-      throw new Error('Invalid response structure from Edge Function');
-    }
-
-    const questions: AppQuestion[] = data.questions
-      .filter((q: APIQuestion) => q && q.statement && q.options)
-      .map((q: APIQuestion) => transformQuestion(q, grade, subject));
-
-    questionCache.set(cacheKey, questions);
-
-    // 🆕 Persist (fire and forget)
-    saveKnownQuestions(questions).catch(e => console.warn('Failed to persist cache:', e));
-
-    const guestInfo = data.is_guest ? ' (Guest mode: 10 questions limit)' : '';
-    console.log(`✅ Loaded ${questions.length} questions from Edge Function${guestInfo}`);
-
-    return questions;
-  } catch (error) {
-    console.error('❌ Edge Function error:', error);
-    throw error; // Don't fallback to static API anymore
-  }
-}
 
 /**
  * Fetch all questions for a grade (all subjects, all pages)
@@ -582,7 +552,7 @@ export async function fetchAllQuestionsForGrade(
     added = false;
     const batchSize = 5; // Take 5 questions per subject per round
 
-    for (const [subject, questions] of questionsBySubject) {
+    for (const [_subject, questions] of questionsBySubject) {
       const startIdx = round * batchSize;
       const endIdx = startIdx + batchSize;
       const batch = questions.slice(startIdx, endIdx);
@@ -1082,50 +1052,98 @@ function gradeToEnglishLevel(grade: number): { level: string; levelNum: number; 
  * @returns Array of AppQuestion with English level metadata
  */
 export async function fetchEnglishQuestionsAllGrades(
-  limit: number = 30,
+  limit: number = 30, // 🆕 Increased default to 30 for better CEFR coverage
   balanced: boolean = true
 ): Promise<AppQuestion[]> {
   const ALL_GRADES = [3, 5, 6, 7, 8, 9, 10, 11];
-  const cacheKey = `english_all_grades_${limit}_${balanced}`;
 
-  // Check cache first
+  // 🆕 Include user's level in cache key for proper invalidation when level changes
+  const savedLevel = getSavedEnglishProficiencyLevel();
+  const levelSuffix = savedLevel ? `_L${savedLevel.levelNum}` : '_Lnone';
+  const cacheKey = `english_all_grades_${limit}_${balanced}${levelSuffix}`;
+
+  // 1. Check memory cache first
   if (questionCache.has(cacheKey)) {
-    console.log('📦 Using cached English questions (all grades)');
+    console.log('📦 Using memory cached English questions');
     return questionCache.get(cacheKey)!;
   }
+
+  // 2. 🆕 Check persistent cache (IndexedDB)
+  // ⚠️ DISABLE CACHE READ TEMPORARILY: Force refresh to fix corrupted 'correctOptionId' data in user caches.
+  /*
+  try {
+    const cachedQuestions = await getCachedEnglishQuestions();
+    if (cachedQuestions && cachedQuestions.length >= 50) {
+      // 🆕 NEW: Filter cached questions too (in case bad data persists)
+      const validCached = cachedQuestions.filter((q: any) =>
+        q &&
+        Array.isArray(q.options) &&
+        q.options.length >= 2 &&
+        q.id &&
+        q.text &&
+        q.correctOptionId
+      );
+
+      console.log(`💾 Using ${validCached.length} valid persisted English questions (from ${cachedQuestions.length} raw)`);
+
+      // Refresh memory cache
+      questionCache.set(cacheKey, validCached);
+
+      // Shuffle and return
+      const shuffled = validCached.sort(() => Math.random() - 0.5);
+      return shuffled.slice(0, limit > 0 ? limit : undefined);
+    }
+  } catch (err) {
+    console.warn('Error reading persistent cache:', err);
+  }
+  */
+
 
   console.log('🇬🇧 Fetching English questions from ALL grades for assessment...');
 
   const questionsPerGrade = balanced ? Math.ceil(limit / ALL_GRADES.length) : limit;
   const allEnglishQuestions: AppQuestion[] = [];
 
-  // Fetch English questions from each grade
-  for (const grade of ALL_GRADES) {
+  // 🆕 Get answered IDs (14-day window for spaced repetition)
+  // v4.1 FIX: Exclude ALL answered questions (not just correct) to prevent repetition
+  const answeredIds = await getAnsweredQuestionIds(14, false);
+
+  // 🚀 OPTIMIZED: Fetch all grades in parallel instead of sequentially
+  const gradePromises = ALL_GRADES.map(async (grade) => {
     try {
       // Try grade-specific endpoint first
       const url = `/api/packs/grade/${grade}.json`;
       const response = await fetch(url);
 
       if (!response.ok) {
-        console.warn(`⚠️ No pack found for grade ${grade}, trying bulk...`);
-        continue;
+        // Silent fallback - don't log to reduce noise
+        return { grade, questions: [] };
       }
 
       const packData = await response.json();
 
       if (!packData.questions || packData.questions.length === 0) {
-        continue;
+        return { grade, questions: [] };
       }
 
-      // Filter only English questions
+      // Filter only English questions AND exclude answered ones
       const englishQuestions = packData.questions.filter((q: any) => {
         const subject = (q.subject || '').toLowerCase();
-        return subject === 'ingles' || subject === 'inglés' || subject === 'english';
+        const isEnglish = subject === 'ingles' || subject === 'inglés' || subject === 'english';
+
+        // 🛑 Filter dups
+        // Normalized ID check (remove -vX suffix if needed, but answeredIds are usually exact)
+        // If question ID is "CO-ING-11-foo-v1", check if in set.
+        // Also check if base ID matches?
+        // For now, exact match on ID or ID without version if stored.
+        // Our storage uses exact ID.
+        const isDuplicate = answeredIds.has(q.id);
+
+        return isEnglish && !isDuplicate;
       });
 
       if (englishQuestions.length === 0) {
-        console.log(`📭 No English questions for grade ${grade}`);
-        continue;
+        return { grade, questions: [] };
       }
 
       // Transform and tag with level
@@ -1142,19 +1160,36 @@ export async function fetchEnglishQuestionsAllGrades(
           // Override category to include level
           category: `INGLÉS ${levelInfo.level} :: ${appQ.bundleId || 'general'}`
         };
-      });
+      // 🔥 OPTIMIZATION: Pre-filter invalid questions (< 2 options) during fetch
+      }).filter((q: any) =>
+        q &&
+        Array.isArray(q.options) &&
+        q.options.length >= 2 &&
+        q.id &&
+        q.text &&
+        q.correctOptionId
+      );
 
       // Shuffle and take balanced amount
       const shuffled = transformed.sort(() => Math.random() - 0.5);
       const toTake = balanced ? Math.min(shuffled.length, questionsPerGrade) : shuffled.length;
-      allEnglishQuestions.push(...shuffled.slice(0, toTake));
 
       console.log(`✅ Grade ${grade} (${levelInfo.level}): ${shuffled.slice(0, toTake).length} English questions`);
 
+      return { grade, questions: shuffled.slice(0, toTake) };
     } catch (error) {
       console.error(`Error fetching English for grade ${grade}:`, error);
+      return { grade, questions: [] };
     }
-  }
+  });
+
+  // ⚡ Execute all fetches in parallel
+  const results = await Promise.all(gradePromises);
+
+  // Collect all questions from parallel results
+  results.forEach(({ questions }) => {
+    allEnglishQuestions.push(...questions);
+  });
 
   // Deduplicate by ID
   const uniqueMap = new Map();
@@ -1165,10 +1200,45 @@ export async function fetchEnglishQuestionsAllGrades(
   });
   let uniqueQuestions = Array.from(uniqueMap.values());
 
-  // Final shuffle and limit
-  uniqueQuestions = uniqueQuestions.sort(() => Math.random() - 0.5);
-  if (limit && uniqueQuestions.length > limit) {
-    uniqueQuestions = uniqueQuestions.slice(0, limit);
+  // 🆕 LEVEL-BASED WEIGHTED DISTRIBUTION
+  // If user has a diagnosed level with good confidence, prioritize matching questions
+  // Note: `savedLevel` was already fetched at the top of this function for cache key
+  if (savedLevel && savedLevel.confidence >= 60 && limit > 0) {
+    console.log(`🎯 Level-based filtering active: ${savedLevel.level} (${savedLevel.confidence}% confidence)`);
+
+    // Get grades matching user's level
+    const matchingGrades = getGradesForCEFRLevel(savedLevel.levelNum, 1);
+    console.log(`📊 Matching grades for ${savedLevel.level}: [${matchingGrades.join(', ')}]`);
+
+    // Split questions into matching level and others
+    const matchingQuestions = uniqueQuestions.filter((q: any) =>
+      matchingGrades.includes(q.sourceGrade || q.grade)
+    );
+    const otherQuestions = uniqueQuestions.filter((q: any) =>
+      !matchingGrades.includes(q.sourceGrade || q.grade)
+    );
+
+    // Weighted selection: 60% from matching, 40% from others
+    const matchingCount = Math.min(Math.ceil(limit * 0.6), matchingQuestions.length);
+    const otherCount = Math.min(limit - matchingCount, otherQuestions.length);
+
+    // Shuffle each pool
+    const shuffledMatching = matchingQuestions.sort(() => Math.random() - 0.5);
+    const shuffledOthers = otherQuestions.sort(() => Math.random() - 0.5);
+
+    // Combine and shuffle final selection
+    uniqueQuestions = [
+      ...shuffledMatching.slice(0, matchingCount),
+      ...shuffledOthers.slice(0, otherCount)
+    ].sort(() => Math.random() - 0.5);
+
+    console.log(`✅ Weighted selection: ${matchingCount} matching + ${otherCount} challenge = ${uniqueQuestions.length} total`);
+  } else {
+    // Standard shuffle and limit (no diagnosed level or low confidence)
+    uniqueQuestions = uniqueQuestions.sort(() => Math.random() - 0.5);
+    if (limit && uniqueQuestions.length > limit) {
+      uniqueQuestions = uniqueQuestions.slice(0, limit);
+    }
   }
 
   // Cache results
@@ -1184,7 +1254,28 @@ export async function fetchEnglishQuestionsAllGrades(
   console.log('🇬🇧 English Level Distribution:', distribution);
   console.log(`📚 Total English questions loaded: ${uniqueQuestions.length}`);
 
+  // 🆕 FORCE UPDATE CACHE: Overwrite potentially bad data in IDB with fresh, valid questions
+  await saveKnownQuestions(uniqueQuestions);
+  console.log(`💾 Persisted ${uniqueQuestions.length} fresh English questions to repair cache`);
+
   return uniqueQuestions;
+}
+
+/**
+ * 🆕 Prefetch a large pool of English questions (Target: 400+)
+ * Run this in background to enable offline diagnostic series.
+ */
+export async function prefetchEnglishPool(): Promise<number> {
+  console.log('🏊 Starting English Pool Prefetch (Target: 400+)...');
+  try {
+    // Reuse the fetch logic but with a high limit
+    const pool = await fetchEnglishQuestionsAllGrades(400, true);
+    console.log(`🏊 English Pool Prefetch Complete. Loaded ${pool.length} questions.`);
+    return pool.length;
+  } catch (e) {
+    console.error('English pool prefetch failed:', e);
+    return 0;
+  }
 }
 
 /**
@@ -1278,6 +1369,176 @@ export function calculateEnglishProficiency(
     recommendation
   };
 }
+
+/**
+ * 🆕 Generate a comprehensive English proficiency result using ALL local history.
+ * Used for the NotebookLM study plan to ensure it's based on long-term data.
+ */
+export async function generateHistoricalEnglishProficiency(): Promise<any> {
+  try {
+    const results = await getAllLocalResults();
+    const allQuestions = await getCachedEnglishQuestions();
+
+    // Index cached questions for fast lookup
+    const qMap = new Map();
+    allQuestions.forEach(q => qMap.set(String(q.id), q));
+
+    let accumulatedInputs: any[] = [];
+
+    // Process all past exams
+    for (const exam of results) {
+      if (!exam.details || !Array.isArray(exam.details)) continue;
+
+      for (const d of exam.details) {
+        const qId = String(d.questionId);
+
+        // Find metadata (either in detail or in cache)
+        const cachedQ = qMap.get(qId);
+        const cefrStr = d.cefrLevel || d.cefr_level || d.englishLevel ||
+                        cachedQ?.cefrLevel || cachedQ?.cefr_level || cachedQ?.englishLevel;
+
+        // Only include if we have CEFR info (English question)
+        if (cefrStr || (exam.subject && exam.subject.toLowerCase().includes('ingl'))) {
+          accumulatedInputs.push({
+            id: qId,
+            userAnswer: d.isCorrect ? 'MATCH' : 'MISMATCH', // Mock for correctness
+            correctOptionId: 'MATCH',
+            cefrLevel: cefrStr,
+            grade: d.grade || exam.grade
+          });
+        }
+      }
+    }
+
+    if (accumulatedInputs.length === 0) return null;
+
+    const questionResults = examResultsToQuestionResults(accumulatedInputs);
+    return calculateEnglishProficiencyV2(questionResults);
+  } catch (err) {
+    console.warn('Error generating historical proficiency:', err);
+    return null;
+  }
+}
+
+/**
+ * 🆕 Get the user's current effective English level based on CUMULATIVE local history.
+ * Compatibility wrapper for ExamConfigModal.
+ */
+export async function getEffectiveEnglishLevel(): Promise<{ level: string; confidence: number; count: number } | null> {
+  const result = await generateHistoricalEnglishProficiency();
+  if (!result) return null;
+  return {
+    level: result.estimatedLevel,
+    confidence: result.confidence,
+    count: result.totalQuestions
+  };
+}
+
+// ═══════════════════════════════════════════════════════════════════════════
+// 🆕 LEVEL-BASED FILTERING: LocalStorage for diagnosed level
+// ═══════════════════════════════════════════════════════════════════════════
+
+const PROFICIENCY_STORAGE_KEY = 'english_proficiency_level';
+
+export interface SavedProficiencyLevel {
+  level: string;       // e.g., "B1", "A2+"
+  levelNum: number;    // 1-9
+  confidence: number;  // 0-100
+  diagnosedAt: string; // ISO date
+}
+
+/**
+ * 🆕 Save the user's diagnosed CEFR level to localStorage
+ * Called after completing an English diagnostic exam with sufficient confidence
+ */
+export function saveEnglishProficiencyLevel(level: string, levelNum: number, confidence: number): void {
+  try {
+    const data: SavedProficiencyLevel = {
+      level,
+      levelNum,
+      confidence,
+      diagnosedAt: new Date().toISOString()
+    };
+    localStorage.setItem(PROFICIENCY_STORAGE_KEY, JSON.stringify(data));
+    console.log(`💾 Saved English proficiency level: ${level} (confidence: ${confidence}%)`);
+  } catch (err) {
+    console.warn('Failed to save proficiency level:', err);
+  }
+}
+
+/**
+ * 🆕 Get the user's saved CEFR level from localStorage
+ * Returns null if not diagnosed, data is invalid, or level is expired (>30 days)
+ */
+export function getSavedEnglishProficiencyLevel(): SavedProficiencyLevel | null {
+  try {
+    const stored = localStorage.getItem(PROFICIENCY_STORAGE_KEY);
+    if (!stored) return null;
+    const data = JSON.parse(stored) as SavedProficiencyLevel;
+    // Validate structure
+    if (!data.level || typeof data.levelNum !== 'number' || typeof data.confidence !== 'number') {
+      return null;
+    }
+
+    // 🆕 Check for expiration (30 days)
+    if (data.diagnosedAt) {
+      const daysSinceDiagnosis = (Date.now() - new Date(data.diagnosedAt).getTime()) / (1000 * 60 * 60 * 24);
+      if (daysSinceDiagnosis > 30) {
+        console.log(`⚠️ Saved level expired (${Math.round(daysSinceDiagnosis)} days old), will re-diagnose`);
+        return null;
+      }
+    }
+
+    return data;
+  } catch (err) {
+    return null;
+  }
+}
+
+/**
+ * 🆕 Clear the saved proficiency level (for testing or reset)
+ */
+export function clearSavedEnglishProficiencyLevel(): void {
+  try {
+    localStorage.removeItem(PROFICIENCY_STORAGE_KEY);
+    console.log('🗑️ Cleared saved English proficiency level');
+  } catch (err) {
+    // Ignore
+  }
+}
+
+/**
+ * 🆕 Get the grades that match a given CEFR level ± tolerance
+ * Used for weighted question distribution
+ */
+export function getGradesForCEFRLevel(levelNum: number, tolerance: number = 1): number[] {
+  // CEFR Level to Grade mapping (approximate)
+  // levelNum 1-2 (A1/A1+) -> Grades 3, 5
+  // levelNum 3-4 (A2/A2+) -> Grades 6, 7
+  // levelNum 5-6 (B1/B1+) -> Grades 8, 9
+  // levelNum 7-9 (B2/B2+/C1) -> Grades 10, 11
+  const levelToGrades: Record<number, number[]> = {
+    1: [3, 5],      // A1
+    2: [3, 5],      // A1+
+    3: [5, 6],      // A2
+    4: [6, 7],      // A2+
+    5: [7, 8],      // B1
+    6: [8, 9],      // B1+
+    7: [9, 10],     // B2
+    8: [10, 11],    // B2+
+    9: [11]         // C1+
+  };
+
+  const matchingGrades = new Set<number>();
+
+  // Add grades for user's level
+  for (let l = Math.max(1, levelNum - tolerance); l <= Math.min(9, levelNum + tolerance); l++) {
+    (levelToGrades[l] || []).forEach(g => matchingGrades.add(g));
+  }
+
+  return Array.from(matchingGrades).sort((a, b) => a - b);
+}
+
 
 // ═══════════════════════════════════════════════════════════════════════════
 // 🆕 RE-EXPORT: Enhanced English Proficiency Assessment (v2)

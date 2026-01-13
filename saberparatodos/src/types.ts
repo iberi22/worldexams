@@ -13,7 +13,12 @@ export interface Question {
   grade: number;
   difficulty: number;
   context?: string; // Shared context/text for the question (e.g. reading passage)
+  part?: string; // 🆕 Exam Part/Section (e.g., "Part 1 - Vocabulary")
+  cefrLevel?: string; // 🆕 CEFR Level (A1-C2) for English questions
   bundleId?: string; // Bundle ID for question versioning (e.g., "CO-LEC-11-comprension-001")
+  competency?: string; // 🆕 Competency evaluated (e.g., "Indagación", "Interpretation")
+  topic?: string;      // 🆕 Specific topic (e.g., "Algebra", "Renacimiento")
+  difficulty_discriminator?: number; // 🆕 IRT-like discriminator (optional future use)
   licenses?: {
     v1: string;      // "CC BY-SA 4.0" - Uso comercial permitido
     'v2-v7': string; // "CC BY-NC-SA 4.0" - Solo no-comercial
@@ -48,7 +53,8 @@ export enum AppView {
   REGISTER = 'REGISTER',
   LOCAL_REPORTS = 'LOCAL_REPORTS',
   PARTY_LOBBY = 'PARTY_LOBBY',
-  PARTY_JOIN = 'PARTY_JOIN'
+  PARTY_JOIN = 'PARTY_JOIN',
+  LOBBY_BROWSER = 'LOBBY_BROWSER'
 }
 
 // ============================================

@@ -37,7 +37,7 @@ function loadAllQuestions() {
              // For now include all drafts too as our content is limited
           }
 
-          const sections = body.split(/^##\s+Pregunta/gm);
+          const sections = body.split(/^##\s+(?:Pregunta|Question)/gm);
 
           // --- 🆕 Extract shared context from bundle head ---
           let sharedContext = null;
@@ -72,7 +72,7 @@ function loadAllQuestions() {
              let correct_answer = null;
 
              while ((m = optionsRegex.exec(section)) !== null) {
-                const isCorrect = m[1] === 'x';
+                const isCorrect = m[1].toLowerCase() === 'x';
                 const label = m[2];
                 const text = m[3];
                 options.push({

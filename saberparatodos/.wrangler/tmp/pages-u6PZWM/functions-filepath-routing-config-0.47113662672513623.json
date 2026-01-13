@@ -1,0 +1,29 @@
+{
+  "routes": [
+    {
+      "routePath": "/api/packs/current",
+      "mountPath": "/api/packs",
+      "method": "",
+      "module": [
+        "api/packs/current.ts:onRequest"
+      ]
+    },
+    {
+      "routePath": "/api/report_problem",
+      "mountPath": "/api",
+      "method": "POST",
+      "module": [
+        "api/report_problem.ts:onRequestPost"
+      ]
+    },
+    {
+      "routePath": "/",
+      "mountPath": "/",
+      "method": "",
+      "middleware": [
+        "_middleware.ts:onRequest"
+      ]
+    }
+  ],
+  "baseURL": "/"
+}

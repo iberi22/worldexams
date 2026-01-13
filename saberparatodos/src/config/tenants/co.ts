@@ -2,7 +2,9 @@
  * 🇨🇴 Configuración de Colombia - Saber Pro/11/9/5/3
  */
 
-export const countryConfig = {
+import type { CountryConfig } from '../types';
+
+export const coConfig: CountryConfig = {
   code: 'CO',
   name: 'Colombia',
   domain: 'worldexams.github.io/saber-co',
@@ -40,5 +42,3 @@ export const countryConfig = {
   // Institución oficial
   institucion: 'ICFES - Instituto Colombiano para la Evaluación de la Educación'
 };
-
-export type CountryConfig = typeof countryConfig;

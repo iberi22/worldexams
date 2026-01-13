@@ -184,45 +184,48 @@
       {:else}
         {#each uniqueSessions.sort((a, b) => (b.score || 0) - (a.score || 0)) as session, idx}
           {@const isMe = currentSession && session.sessionId === currentSession.sessionId}
-          {@const showName = isMe || (currentSession && currentSession.isHost)}
-          {@const displayName = showName ? (session.userName || 'Anónimo') : `Participante ${idx + 1}`}
+          {#if session.userName !== 'Tú'}
+            {@const displayName = session.userName || 'Anónimo'}
 
-          <FlashlightCard className="p-4">
-            <div class="flex items-center justify-between gap-4">
-              <div class="flex items-center gap-3">
-                <div class="w-8 h-8 rounded-full bg-gradient-to-br from-purple-500 to-pink-500 flex items-center justify-center font-bold text-sm">
-                  {idx + 1}
+            <FlashlightCard className="p-4">
+              <div class="flex items-center justify-between gap-4">
+                <div class="flex items-center gap-3">
+                  <div class="w-8 h-8 rounded-full bg-gradient-to-br from-purple-500 to-pink-500 flex items-center justify-center font-bold text-sm">
+                    {idx + 1}
+                  </div>
+                  <div>
+                    <div class="font-bold">
+                      {displayName}
+                      {#if isMe}
+                        <span class="text-xs text-emerald-400 ml-1">(Tú)</span>
+                      {/if}
+                    </div>
+                    <div class="text-xs text-white/40">
+                      {session.isHost ? '👑 Host' : '👤 Participante'}
+                    </div>
+                  </div>
                 </div>
-                <div>
-                  <div class="font-bold">
-                    {displayName}
-                    {#if isMe}
-                      <span class="text-xs text-emerald-400 ml-1">(Tú)</span>
+
+                <div class="flex items-center gap-4 text-right">
+                  <!-- Focus Status -->
+                  <div class="text-xs">
+                    {#if (session.focusViolations || 0) === 0}
+                      <span class="text-emerald-400">✓ Concentrado</span>
+                    {:else}
+                      <span class="text-red-400">⚠️ {session.focusViolations} distracciones</span>
                     {/if}
                   </div>
-                  <div class="text-xs text-white/40">
-                    {session.isHost ? '👑 Host' : '👤 Participante'}
+
+                  <!-- Score -->
+                  <div class="text-2xl font-black {(session.score || 0) >= 60 ? 'text-emerald-400' : 'text-red-400'}">
+                    {session.score || 0}%
                   </div>
                 </div>
               </div>
-
-              <div class="flex items-center gap-4 text-right">
-                <!-- Focus Status -->
-                <div class="text-xs">
-                  {#if (session.focusViolations || 0) === 0}
-                    <span class="text-emerald-400">✓ Concentrado</span>
-                  {:else}
-                    <span class="text-red-400">⚠️ {session.focusViolations} distracciones</span>
-                  {/if}
-                </div>
-
-                <!-- Score -->
-                <div class="text-2xl font-black {(session.score || 0) >= 60 ? 'text-emerald-400' : 'text-red-400'}">
-                  {session.score || 0}%
-                </div>
-              </div>
-            </div>
-          </FlashlightCard>
+            </FlashlightCard>
+          {:else}
+             <!-- Fallback if logic mismatch, although modifying `displayName` variable above is cleaner -->
+          {/if}
         {/each}
       {/if}
     </div>

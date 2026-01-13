@@ -1,7 +1,7 @@
 # 🌎 Protocolo Global de Inglés (LATAM/ES) v3.0
 
-> **Versión:** 3.0-GLOBAL
-> **Fecha:** 2026-01-04
+> **Versión:** 3.2-GLOBAL
+> **Fecha:** 2026-01-10
 > **Alcance:** Todo país hispanohablante (Colombia, México, Chile, Argentina, Perú, España, etc.)
 > **Ubicación:** `src/content/questions/ingles/` (Centralizado)
 > **Base:** Marco Común Europeo (CEFR) + Standards Internacionales (TOEFL/IELTS)
@@ -75,6 +75,36 @@ Usamos textos de temas interesantes (Ciencia, Historia, Tecnología) y aplicamos
 *   **Negative Factual:** "¿Cuál de estas NO se menciona?"
 *   **Reference:** "¿A qué se refiere la palabra 'they' en la línea 12?"
 
+### ⚠️ Regla Crítica: Contexto para Preguntas Cloze Pareadas (Q5-Q6 y Q9-Q10)
+
+> [!CAUTION]
+> **OBLIGATORIO:** Las preguntas 6 y 10 (que comparten el mismo texto Cloze con las preguntas 5 y 9 respectivamente) **DEBEN incluir su propio bloque `### Contexto`** con el texto completo.
+>
+> **Razón:** El parser/UI procesa cada pregunta de forma independiente. Si Q6 o Q10 no tienen `### Contexto`, se mostrarán sin el pasaje de lectura, haciendo la pregunta irresoluble.
+
+**Ejemplo CORRECTO:**
+```markdown
+## Question 6 (Part 4 - Cloze I - Difficulty 3)
+ID: UNI-ENG-07-city-001-v6
+
+### Contexto
+**Text (same as above):**
+(5) ______ are many buildings. The (6) ______ one is the museum.
+
+### Enunciado
+Choose the correct superlative for (6).
+```
+
+**Ejemplo INCORRECTO (NO HACER):**
+```markdown
+## Question 6 (Part 4 - Cloze I - Difficulty 3)
+ID: UNI-ENG-07-city-001-v6
+
+### Enunciado
+Choose the correct superlative for (6).
+<!-- FALTA EL CONTEXTO! -->
+```
+
 ---
 
 ## 📝 Formato del Archivo
@@ -120,9 +150,22 @@ Match definition **"3. Outdated, no longer in use"** with the correct word.
 - [ ] C
 - [ ] D
 
-### Explicación Pedagógica
+### Explicación Pedagógica (Protocol v3.2 - Rich Context)
+**IMPORTANTE:** Las explicaciones deben ser *accionables para el estudio*. No basta con decir "A es correcta".
+
+**Estructura Requerida:**
+1.  **Direct Answer:** Por qué la correcta es correcta.
+2.  **Context/Nuance:** Matices culturales o gramaticales.
+3.  **Error Analysis:** Por qué las otras opciones son incorrectas (si aplica).
+4.  **Vocabulary Table:** (Opcional pero recomendado para palabras difíciles).
+
+**Ejemplo:**
 **English:** 'Obsolete' means no longer produced or used. From Latin *obsoletus* (grown old).
 *Español: 'Obsolete' significa que ya no se produce o usa. Del latín obsoletus (envejecido).*
+
+**Why incorrect?**
+*   'Facilitate' (A) means to make easier.
+*   'Hinder' (D) means to obstruct.
 
 **Vocabulary Table / Tabla de Vocabulario:**
 | English | Español | Example |
@@ -212,3 +255,23 @@ Los bundles con prefijo de país contienen contexto cultural local:
 
 (Ver anexo de protocolo v3.0-ENG original sobre `{{youtube}}` y `{{audio}}`).
 Por ahora, nos enfocamos en **Texto y Lectura Crítica** sólida.
+
+---
+
+## 💻 Implementación en la Plataforma (v3.1 Tech Update)
+
+Desde Enero 2026, la plataforma `saberparatodos` y derivadas implementan soporte nativo para los metadatos de este protocolo:
+
+### 1. Extracción de Metadatos
+El sistema de parsing (`src/utils/questionParser.ts`) extrae automáticamente la información de **Part X** de los encabezados del Markdown. Esta información se mapea al campo `part` del objeto `Question`.
+
+### 2. Badges de Visualización
+En la pantalla de resultados (`ResultsView.svelte`), cada pregunta cuenta con badges visuales que ayudan al estudiante a identificar:
+- **CEFR Level:** El nivel de dificultad pedagógica (A1, A2, B1, B2).
+- **Part/Skill:** La parte del examen según este protocolo (ej: "Part 6 - Critical Reading").
+
+### 3. Plan de Estudio NotebookLM (AI Output)
+Los resultados acumulados por nivel CEFR se utilizan para generar un **Plan de Aprendizaje Personalizado**. Este archivo Markdown está optimizado para ser usado como fuente en **Google NotebookLM**, permitiendo al estudiante tener un tutor de IA que conoce exactamente sus debilidades por nivel.
+
+### 4. Seguimiento Long-Term
+Se ha re-activado el componente `MemoryStatus` en la página de resultados para que el estudiante visualice su dominio histórico del banco de preguntas de inglés, fomentando la repetición espaciada y la maestría del idioma.

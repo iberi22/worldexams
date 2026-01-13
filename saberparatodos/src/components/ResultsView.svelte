@@ -10,6 +10,11 @@
   import PartyResultsView from './PartyResultsView.svelte'; // 🆕 Party Results
 
   import { supabase } from '../lib/supabase';
+  import {
+    saveExamResultLocal,
+    getCorrectlyAnsweredIds,
+    getAnsweredStats
+  } from '../lib/idb-storage';
   import { getUser } from '../lib/auth';
   import type { User } from '@supabase/supabase-js';
   import type { ExamCompletionData } from '../types';
@@ -52,8 +57,12 @@
     const safeQ = questionsList && questionsList.length > 0 ? questionsList : (data?.questions || []);
     const questionResults: QuestionResult[] = safeQ.map((q: any, index: number) => {
       // Calculate correctness dynamically from userAnswers (Source of Truth)
+      // 🛡️ ROBUST COMPARISON: Case-insensitive and trimmed
       const userAnswer = answers[q.id];
-      const isCorrect = userAnswer === q.correctOptionId;
+      const normalizedUser = String(userAnswer || '').trim().toLowerCase();
+      const normalizedCorrect = String(q.correctOptionId || '').trim().toLowerCase();
+
+      const isCorrect = normalizedUser === normalizedCorrect && normalizedUser !== '';
 
       const examQ = data?.questions?.[index];
       return {
@@ -79,18 +88,18 @@
 
   // Calculate score on mount
   $: if (examData && safeQuestions.length > 0 && !examScore) {
-    // Pass userAnswers to score calculation
+    // Exam score calculated seamlessly
     const examResult = toExamResult(examData, safeQuestions, userAnswers);
     examScore = calculateExamScore(examResult);
-    console.log('📊 Exam Score Calculated (Fixed):', {
-      correct: examScore.stats.correctAnswers,
-      total: examScore.stats.questionsAnswered,
-      accuracy: (examScore.stats.accuracy * 100).toFixed(1) + '%'
-    });
   }
 
   // Calculate correctCount from userAnswers directly (Source of Truth)
-  $: correctCount = safeQuestions.filter(q => userAnswers[q.id] === q.correctOptionId).length;
+  // 🛡️ ROBUST COMPARISON: Case-insensitive and trimmed
+  $: correctCount = safeQuestions.filter(q => {
+    const u = String(userAnswers[q.id] || '').trim().toLowerCase();
+    const c = String(q.correctOptionId || '').trim().toLowerCase();
+    return u === c && u !== '';
+  }).length;
   $: totalQuestions = safeQuestions.length;
   $: percentage = totalQuestions > 0 ? Math.round((correctCount / totalQuestions) * 100) : 0;
 
@@ -111,8 +120,18 @@
         // Load user
         user = await getUser();
         if (user) {
-          saveScoreToSupabase();
+          await saveScoreToSupabase();
         }
+
+        // 🆕 ALWAYS save locally (for history and duplicate filtering)
+        const localAnswers: Record<string, string> = {};
+        for (const [qId, optId] of Object.entries(userAnswers)) {
+          localAnswers[qId] = optId; // Adapt Map to Record
+        }
+
+        await saveExamResultLocal(examData, localAnswers);
+
+        console.log('✅ Exam saved locally for duplicate filtering');
         // Check if user has GitHub auth for auto-submission
         hasGitHub = await hasGitHubAuth();
     })();
@@ -139,11 +158,9 @@
 
       // Listen for updates
       const handleResult = (e: CustomEvent) => {
-          console.log('ResultsView: New P2P Result', e.detail);
           partyResults = [...partyResults, e.detail];
       };
       const handleLeaderboard = (e: CustomEvent) => {
-          console.log('ResultsView: Leaderboard Update', e.detail);
           partyResults = e.detail; // Replace full list
       };
 
@@ -258,6 +275,8 @@
     calculateEnglishProficiencyV2,
     generateStudyPlan,
     examResultsToQuestionResults,
+    saveEnglishProficiencyLevel, // 🆕 For level-based filtering
+    getSavedEnglishProficiencyLevel, // 🆕 For progressive level update
     type EnglishProficiencyResult
   } from '../lib/api-service';
 
@@ -268,12 +287,13 @@
   // 🆕 NotebookLM Integration
   let proficiencyResult: EnglishProficiencyResult | null = null;
   let isEnglishExam = false;
+  let isGeneratingPlan = false; // 🆕 Loading state
 
   $: if (examData && questions.length > 0) {
     // Check if it's an English exam (by subject or content)
     isEnglishExam =
       (examData.subject?.toLowerCase().includes('ingl') || false) ||
-      questions.some(q => q.cefr_level || q.cefrLevel || q.englishLevel);
+      questions.some(q => q.cefr_level || q.cefrLevel || q.englishLevel || q.part?.includes('Part'));
 
     if (isEnglishExam && !proficiencyResult) {
       // Map current questions/answers to proficiency format
@@ -287,22 +307,69 @@
 
       const questionResults = examResultsToQuestionResults(resultInputs);
       proficiencyResult = calculateEnglishProficiencyV2(questionResults);
+
+      // 🆕 Progressive level update: Save if confidence is good OR if user improved
+      if (proficiencyResult) {
+        const existingLevel = getSavedEnglishProficiencyLevel();
+
+        const shouldUpdate =
+          proficiencyResult.confidence >= 60 || // New diagnosis with good confidence
+          (existingLevel && proficiencyResult.estimatedLevelNum > existingLevel.levelNum); // User improved!
+
+        if (shouldUpdate) {
+          saveEnglishProficiencyLevel(
+            proficiencyResult.estimatedLevel,
+            proficiencyResult.estimatedLevelNum,
+            proficiencyResult.confidence
+          );
+          if (existingLevel && proficiencyResult.estimatedLevelNum > existingLevel.levelNum) {
+            console.log(`🎉 Level upgraded: ${existingLevel.level} → ${proficiencyResult.estimatedLevel}`);
+          }
+        }
+      }
     }
   }
 
-  function handleDownloadNotebook() {
-    if (!proficiencyResult) return;
+  async function handleDownloadNotebook() {
+    if (isGeneratingPlan) return;
+    isGeneratingPlan = true;
 
-    const plan = generateStudyPlan(proficiencyResult);
-    const blob = new Blob([plan.sourceContent], { type: 'text/markdown' });
-    const url = URL.createObjectURL(blob);
-    const a = document.createElement('a');
-    a.href = url;
-    a.download = `Plan_Estudio_NotebookLM_${new Date().toISOString().split('T')[0]}.md`;
-    document.body.appendChild(a);
-    a.click();
-    document.body.removeChild(a);
-    URL.revokeObjectURL(url);
+    try {
+      // 🆕 Get cumulative historical proficiency if possible
+      const { generateHistoricalEnglishProficiency } = await import('../lib/api-service');
+      const globalResult = await generateHistoricalEnglishProficiency();
+
+      // Fallback to current if global fails or is empty
+      const finalResult = globalResult && globalResult.totalQuestions > 0 ? globalResult : proficiencyResult;
+
+      if (!finalResult) return;
+
+      const plan = generateStudyPlan(finalResult);
+      const blob = new Blob([plan.sourceContent], { type: 'text/markdown' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = `Plan_Estudio_NotebookLM_${new Date().toISOString().split('T')[0]}.md`;
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+    } catch (e) {
+      console.error('Error generating historical plan:', e);
+      // Fallback to simple download if error
+      if (proficiencyResult) {
+        const plan = generateStudyPlan(proficiencyResult);
+        const blob = new Blob([plan.sourceContent], { type: 'text/markdown' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = `Plan_Estudio_NotebookLM_Simple_${new Date().toISOString().split('T')[0]}.md`;
+        a.click();
+        URL.revokeObjectURL(url);
+      }
+    } finally {
+      isGeneratingPlan = false;
+    }
   }
 
 </script>
@@ -454,56 +521,12 @@
         {/if}
       {/if}
 
-      <!-- 🆕 NotebookLM Personalized Plan -->
-      {#if proficiencyResult}
-        <div class="max-w-4xl mx-auto">
-          <div class="bg-gradient-to-br from-emerald-900/20 to-teal-900/20 border border-emerald-500/30 rounded-xl p-6 relative overflow-hidden group">
-             <div class="absolute top-0 right-0 p-4 opacity-10 group-hover:opacity-20 transition-opacity">
-               <svg class="w-24 h-24 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
-               </svg>
-             </div>
-
-             <div class="relative z-10">
-               <h3 class="text-xl font-bold text-emerald-300 uppercase tracking-widest mb-2 flex items-center gap-2">
-                 <span class="text-2xl">🎓</span> Plan de Estudio AI
-               </h3>
-
-               <p class="text-sm text-emerald-200/80 mb-6 max-w-2xl">
-                 Hemos generado un plan de estudio personalizado basado en tus resultados ({proficiencyResult.estimatedLevel}).
-                 Descárgalo y úsalo con <strong>NotebookLM</strong> para tener un tutor de inglés personal.
-               </p>
-
-               <div class="flex flex-wrap gap-4">
-                 <button
-                   on:click={handleDownloadNotebook}
-                   class="px-6 py-3 bg-emerald-500 hover:bg-emerald-400 text-[#121212] font-bold uppercase tracking-widest text-xs rounded-lg shadow-lg shadow-emerald-900/20 transition-all transform hover:scale-105 flex items-center gap-2"
-                 >
-                   <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
-                   </svg>
-                   Descargar Cuaderno (.md)
-                 </button>
-
-                 <a
-                    href="https://notebooklm.google.com/"
-                    target="_blank"
-                    class="px-6 py-3 border border-white/10 hover:bg-white/5 text-white/60 hover:text-white text-xs uppercase tracking-widest font-bold rounded-lg transition-all flex items-center gap-2"
-                 >
-                   Ir a NotebookLM ↗
-                 </a>
-               </div>
-             </div>
-          </div>
-        </div>
-      {/if}
+      <!-- 🆕 NotebookLM Personalized Plan moved to bottom -->
 
       <!-- Memory Progress Status -->
-      <!-- TODO: Fix totalQuestions - should come from cache pool, not exam questions -->
-      <!-- Temporarily hidden until we implement proper pool size tracking -->
-      <!-- <div class="max-w-2xl mx-auto">
-        <MemoryStatus totalQuestions={100} compact={false} />
-      </div> -->
+       <div class="max-w-2xl mx-auto">
+        <MemoryStatus totalQuestions={500} compact={false} />
+      </div>
 
       <!-- Leaderboard Status -->
       <div class="max-w-md mx-auto">
@@ -587,7 +610,9 @@
       <!-- Detailed Review -->
       <div class="space-y-4 sm:space-y-6">
         {#each questions as q, i}
-          {@const isCorrect = userAnswers[q.id] === q.correctOptionId}
+          {@const u = String(userAnswers[q.id] || '').trim().toLowerCase()}
+          {@const c = String(q.correctOptionId || '').trim().toLowerCase()}
+          {@const isCorrect = u === c && u !== ''}
           {@const userAnswer = userAnswers[q.id]}
 
           <div class={`
@@ -618,6 +643,18 @@
                          ${q.grade !== examData.grade ? 'border-yellow-500/50 text-yellow-500 bg-yellow-500/10' : 'border-white/10 text-white/40 bg-white/5'}
                       `}>
                         Grado {q.grade}°
+                      </div>
+                    {/if}
+                    <!-- 🆕 English Part Badge -->
+                    {#if q.part}
+                       <div class="px-2 py-0.5 text-[10px] sm:text-xs font-bold uppercase tracking-widest border rounded border-blue-500/50 text-blue-400 bg-blue-500/10 hidden sm:block">
+                        {q.part}
+                      </div>
+                    {/if}
+                    <!-- 🆕 CEFR Level Badge -->
+                    {#if q.cefrLevel}
+                       <div class="px-2 py-0.5 text-[10px] sm:text-xs font-bold uppercase tracking-widest border rounded border-purple-500/50 text-purple-400 bg-purple-500/10">
+                        {q.cefrLevel}
                       </div>
                     {/if}
                   </div>
@@ -707,6 +744,56 @@
         <div class="pt-4">
           <AdBanner {user} className="max-w-4xl mx-auto" />
         </div>
+
+        <!-- 🆕 NotebookLM Personalized Plan (Moved to End) -->
+        {#if proficiencyResult}
+          <div class="max-w-4xl mx-auto mt-8 mb-8">
+            <div class="bg-gradient-to-br from-emerald-900/20 to-teal-900/20 border border-emerald-500/30 rounded-xl p-6 relative overflow-hidden group text-center">
+               <div class="absolute top-0 right-0 p-4 opacity-10 group-hover:opacity-20 transition-opacity">
+                 <svg class="w-24 h-24 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+                 </svg>
+               </div>
+
+               <div class="relative z-10 flex flex-col items-center">
+                 <h3 class="text-xl font-bold text-emerald-300 uppercase tracking-widest mb-2 flex items-center justify-center gap-2">
+                   <span class="text-2xl">🎓</span> Plan de Estudio AI
+                 </h3>
+
+                 <p class="text-sm text-emerald-200/80 mb-6 max-w-2xl">
+                    Próximos pasos: Hemos generado un plan de estudio personalizado basado en tu nivel ({proficiencyResult.estimatedLevel}).
+                    Descárgalo y úsalo con <strong>NotebookLM</strong> para tener un tutor de inglés personal.
+                 </p>
+
+                 <div class="flex flex-wrap justify-center gap-4">
+                   <button
+                     on:click={handleDownloadNotebook}
+                     disabled={isGeneratingPlan}
+                     class="px-6 py-3 bg-emerald-500 hover:bg-emerald-400 text-[#121212] font-bold uppercase tracking-widest text-xs rounded-lg shadow-lg shadow-emerald-900/20 transition-all transform hover:scale-105 flex items-center gap-2 disabled:opacity-50 disabled:cursor-not-allowed"
+                   >
+                     {#if isGeneratingPlan}
+                       <div class="w-4 h-4 border-2 border-[#121212]/30 border-t-[#121212] rounded-full animate-spin"></div>
+                       Analizando Historia...
+                     {:else}
+                       <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+                       </svg>
+                       Descargar Cuaderno (.md)
+                     {/if}
+                   </button>
+
+                   <a
+                      href="https://notebooklm.google.com/"
+                      target="_blank"
+                      class="px-6 py-3 border border-white/10 hover:bg-white/5 text-white/60 hover:text-white text-xs uppercase tracking-widest font-bold rounded-lg transition-all flex items-center gap-2"
+                   >
+                     Ir a NotebookLM ↗
+                   </a>
+                 </div>
+               </div>
+            </div>
+          </div>
+        {/if}
       </div>
     </div>
   </div>

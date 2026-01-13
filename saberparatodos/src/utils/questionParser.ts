@@ -18,6 +18,8 @@ export type QuestionEntry = {
     applicable_exams?: string[];
     source_lang?: string;
     dificultad?: number;
+    cefr_level?: string;
+    cefrLevel?: string;
   };
 };
 
@@ -62,6 +64,7 @@ export interface ParsedBundleQuestion {
   explanation: string;
   competency?: string;
   context?: string;
+  part?: string;
 }
 
 /**
@@ -302,7 +305,8 @@ function parseQuestionSection(
     correctOptionId,
     explanation,
     competency,
-    context: specificContext
+    context: specificContext,
+    part: sectionType.trim() // 🆕 Store the section type (e.g. "Part 1 - Vocabulary")
   };
 }
 
@@ -391,6 +395,10 @@ function convertBundleQuestionToQuestion(
     grade: frontmatter.grado,
     difficulty: normalizeDifficulty(bundleQuestion.difficulty),
     context: bundleQuestion.context,
+    part: bundleQuestion.part, // 🆕 Pass through part
+    cefrLevel: frontmatter.cefr_level || frontmatter.cefrLevel, // 🆕 Pass through CEFR
+    competency: bundleQuestion.competency, // 🆕 Pass through Competency
+    topic: frontmatter.tema, // 🆕 Pass through Topic
   };
 }
 

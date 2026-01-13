@@ -1,0 +1,37 @@
+
+> saberparatodos@0.2.4 prebuild
+> node scripts/generate-build-info.js && node scripts/generate-weekly-packs.js
+
+Ô£à Build info generated:
+{
+  version: '0.2.4',
+  commit: '8d4f52d',
+  timestamp: '2026-01-09T05:44:45.616Z',
+  env: 'development'
+}
+­ƒôÜ Loading questions...
+Ô£à Loaded 4784 questions from markdown.
+Ô£à Generated 832 packs in public/api/co/icfes/packs
+Ô£à Generated current-pack metadata at public\api\co\icfes\current-pack.json
+
+> saberparatodos@0.2.4 build
+> astro build
+
+[2m00:44:51[22m [34m[@astrojs/cloudflare][39m Enabling sessions with Cloudflare KV with the "SESSION" KV binding.
+[2m00:44:51[22m [34m[@astrojs/cloudflare][39m If you see the error "Invalid binding `SESSION`" in your build output, you need to add the binding to your wrangler config file.
+[33m[1m00:44:51[22m [WARN] [adapter][39m Cloudflare does not support sharp at runtime. However, you can configure `imageService: "compile"` to optimize images with sharp on prerendered pages during build time.
+[2m00:44:52[22m [34m[content][39m Syncing content
+[2m00:44:52[22m [34m[content][39m Synced content
+[2m00:44:52[22m [34m[types][39m Generated [2m996ms[22m
+[2m00:44:52[22m [34m[build][39m output: [34m"server"[39m
+[2m00:44:52[22m [34m[build][39m mode: [34m"server"[39m
+[2m00:44:52[22m [34m[build][39m directory: [34mE:\scripts-python\worldexams\saberparatodos\dist\[39m
+[2m00:44:52[22m [34m[build][39m adapter: [32m@astrojs/cloudflare[39m
+[2m00:44:52[22m [34m[build][39m Collecting build info...
+[2m00:44:52[22m [34m[build][39m [32mÔ£ô Completed in 1.09s.[39m
+[2m00:44:52[22m [34m[build][39m Building server entrypoints...
+[33m[1m00:44:53[22m [WARN] [vite][39m [33m[plugin vite:resolve] Automatically externalized node built-in module "node:async_hooks" imported from "node_modules\svelte\src\internal\server\render-context.js". Consider adding it to environments.ssr.external if it is intended.[39m
+[33m[1m00:44:54[22m [WARN] [router][39m getStaticPaths() ignored in dynamic page [1m/src/pages/api/[country]/[exam]/[grade]/[subject]/index.json.ts[22m. Add `export const prerender = true;` to prerender the page as static HTML during the build process.
+[33m[1m00:44:54[22m [WARN] [router][39m getStaticPaths() ignored in dynamic page [1m/src/pages/api/packs/grade/[grade].json.ts[22m. Add `export const prerender = true;` to prerender the page as static HTML during the build process.
+[33m[1m00:44:54[22m [WARN] [router][39m getStaticPaths() ignored in dynamic page [1m/src/pages/api/[country]/[exam]/[grade]/[subject]/[page].json.ts[22m. Add `export const prerender = true;` to prerender the page as static HTML during the build process.
+[33m[1m00:44:54[22m [WARN] [vite][39m [33m[plugin vite:resolve] Automatically externalized node built-in module "node:crypto" imported from "src\utils\rotation-logic.ts". Consider adding it to environments.ssr.external if it is intended.[39m

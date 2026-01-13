@@ -19,7 +19,8 @@
   function renderMath(text: string): string {
     if (!text) return '';
 
-    let result = text;
+    // Trim input to remove leading/trailing whitespace/newlines
+    let result = text.trim();
 
     // 🎥 Multimedia Parsers (English Protocol v3.0)
     // 1. YouTube: {{youtube:ID}} -> iframe
@@ -88,26 +89,39 @@
     // Handle horizontal rules (---) - BEFORE newline conversion
     result = result.replace(/^---$/gm, '<hr class="my-4 border-white/10">');
 
-    // Handle Headers (#, ##, ###) - BEFORE newline conversion
-    // These need line boundaries to work correctly
-    result = result.replace(/^### (.+)$/gm, '<h5 class="text-sm font-bold text-white mt-2 mb-1">$1</h5>');
-    result = result.replace(/^## (.+)$/gm, '<h4 class="text-base font-bold text-emerald-300 mt-3 mb-2">$1</h4>');
-    result = result.replace(/^# (.+)$/gm, '<h3 class="text-lg font-bold text-emerald-400 mt-4 mb-2">$1</h3>');
+    // Handle Headers (#, ##, ###) - Consume trailing newline to avoid extra <br>
+    result = result.replace(/^### (.+)(\n|$)/gm, '<h5 class="text-sm font-bold text-white mt-1 mb-0.5">$1</h5>');
+    result = result.replace(/^## (.+)(\n|$)/gm, '<h4 class="text-base font-bold text-emerald-300 mt-2 mb-1">$1</h4>');
+    result = result.replace(/^# (.+)(\n|$)/gm, '<h3 class="text-lg font-bold text-emerald-400 mt-3 mb-1.5">$1</h3>');
 
-    // Handle Blockquotes (> text) - BEFORE newline conversion
-    // Also handle blockquotes that contain headers (> ### ...)
-    result = result.replace(/^> ### (.+)$/gm, '<blockquote class="border-l-4 border-emerald-500/50 pl-4 py-1 my-2 bg-emerald-900/10"><h5 class="text-sm font-bold text-emerald-400">$1</h5></blockquote>');
-    result = result.replace(/^> \*\*(.+?)\*\*:?\s*(.*)$/gm, '<blockquote class="border-l-4 border-emerald-500/50 pl-4 py-1 my-2 bg-emerald-900/10"><strong class="text-emerald-400">$1</strong>: $2</blockquote>');
-    result = result.replace(/^> (.+)$/gm, '<blockquote class="border-l-4 border-emerald-500/50 pl-4 py-1 my-2 bg-emerald-900/10 italic text-gray-300">$1</blockquote>');
+    // Handle Blockquotes (> text)
+    result = result.replace(/^> ### (.+)(\n|$)/gm, '<blockquote class="border-l-4 border-emerald-500/50 pl-4 py-1 my-1 bg-emerald-900/10"><h5 class="text-sm font-bold text-emerald-400">$1</h5></blockquote>');
+    result = result.replace(/^> \*\*(.+?)\*\*:?\s*(.*)(\n|$)/gm, '<blockquote class="border-l-4 border-emerald-500/50 pl-4 py-1 my-1 bg-emerald-900/10"><strong class="text-emerald-400">$1</strong>: $2</blockquote>');
+    result = result.replace(/^> (.+)(\n|$)/gm, '<blockquote class="border-l-4 border-emerald-500/50 pl-4 py-1 my-1 bg-emerald-900/10 italic text-gray-300">$1</blockquote>');
 
     // Merge consecutive blockquotes into single blocks
     result = result.replace(/<\/blockquote>\s*<blockquote class="[^"]*">/g, '<br>');
 
     // Handle line breaks AFTER all line-dependent parsing is done
+    // Replace newlines with <br>, but avoid creating them at the very end
     result = result.replace(/\n/g, '<br>');
 
     // Clean up multiple consecutive <br> tags
     result = result.replace(/(<br>\s*){3,}/g, '<br><br>');
+
+    // Remove <br> that might have wound up after block elements despite best efforts
+    result = result.replace(/(<\/h[1-6]>)\s*<br>/g, '$1');
+    result = result.replace(/(<\/blockquote>)\s*<br>/g, '$1');
+    result = result.replace(/(<hr[^>]*>)\s*<br>/g, '$1');
+    result = result.replace(/(<\/div>)\s*<br>/g, '$1');
+
+    // Final trim to ensure no trailing BRs were created or left
+    if (result.endsWith('<br>')) {
+        result = result.slice(0, -4);
+    }
+    if (result.endsWith('<br><br>')) {
+        result = result.slice(0, -8);
+    }
 
     return result;
   }

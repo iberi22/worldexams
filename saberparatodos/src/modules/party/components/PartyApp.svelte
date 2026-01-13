@@ -5,8 +5,9 @@
   import HostControls from './HostControls.svelte';
   import PlayerView from './PlayerView.svelte';
   import PartyResults from './PartyResults.svelte';
+  import StopModeSetup from './StopModeSetup.svelte';
 
-  let view = $state<'home' | 'create' | 'join' | 'lobby' | 'game' | 'results'>('home');
+  let view = $state<'home' | 'create' | 'create-stop' | 'join' | 'lobby' | 'game' | 'results'>('home');
   let backendMode = $state<'rust' | 'supabase'>('supabase');
   let isCheckingBackend = $state(true);
 
@@ -38,6 +39,7 @@
           maxPlayers: 100,
           timePerQuestion: 60,
           totalQuestions: 20,
+          mode: 'standard'
         }
       );
 
@@ -45,6 +47,32 @@
     } catch (error) {
       console.error('Error creating party:', error);
       alert('Error al crear la party. Verifica que el servidor esté corriendo.');
+    }
+  }
+
+  async function handleCreateStopParty(config: any) {
+    try {
+      const partyId = await partyState.createParty(
+        config.hostName,
+        config.partyName,
+        11, // Default grade for Stop Mode (uses pool)
+        'Stop Mode',
+        {
+          connectionMode: backendMode === 'rust' ? 'local' : 'supabase',
+          maxPlayers: 100,
+          timePerQuestion: 15,
+          totalQuestions: config.totalQuestions,
+          mode: 'stop',
+          stopConfig: {
+            includeEnglish: config.includeEnglish,
+            difficulty: config.difficulty
+          }
+        }
+      );
+      view = 'lobby';
+    } catch (error) {
+      console.error('Error creating stop party:', error);
+      alert('Error al crear la sala Stop.');
     }
   }
 
@@ -113,6 +141,21 @@
       </div>
 
       <div class="grid md:grid-cols-2 gap-6">
+        <!-- Stop Mode (New) -->
+        <div class="md:col-span-2 bg-gradient-to-r from-pink-900/40 to-purple-900/40 rounded-xl p-8 border-2 border-purple-500/50 hover:border-purple-500 transition-all shadow-[0_0_30px_rgba(168,85,247,0.15)] group relative overflow-hidden">
+          <div class="absolute top-0 right-0 p-4 opacity-50">
+             <span class="text-6xl">⚡</span>
+          </div>
+          <h2 class="text-3xl font-black text-transparent bg-clip-text bg-gradient-to-r from-pink-400 to-purple-400 mb-2">⚡ STOP MODE</h2>
+          <p class="text-gray-300 mb-6 text-lg">Modo rápido y furioso. 15 segundos por pregunta. ¿Estás listo?</p>
+          <button
+            onclick={() => view = 'create-stop'}
+            class="px-8 py-4 bg-gradient-to-r from-pink-600 to-purple-600 hover:from-pink-500 hover:to-purple-500 rounded-lg font-bold text-xl transition-all shadow-lg shadow-purple-900/40 transform group-hover:scale-[1.02]"
+          >
+            CREAR SALA STOP
+          </button>
+        </div>
+
         <!-- Create Party -->
         <div class="bg-gray-800 rounded-xl p-8 border-2 border-transparent hover:border-blue-500 transition-all">
           <h2 class="text-2xl font-bold mb-6">👑 Crear Party</h2>
@@ -228,6 +271,13 @@
         </div>
       </div>
     </div>
+
+  {:else if view === 'create-stop'}
+     <StopModeSetup
+        onBack={() => view = 'home'}
+        onCreate={handleCreateStopParty}
+     />
+
 
   {:else if view === 'join'}
     <!-- Join Party Form -->

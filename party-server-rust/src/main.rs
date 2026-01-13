@@ -31,6 +31,7 @@ async fn main() -> std::io::Result<()> {
         database_url: settings.database.url,
         host: settings.server.host,
         port: settings.server.port,
+        static_dir: "./public".to_string(),
     };
 
     run(config).await

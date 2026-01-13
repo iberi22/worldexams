@@ -1,10 +1,17 @@
-<script>
-  import { fade, fly } from 'svelte/transition';
+<script lang="ts">
+  import { fade, fly, slide } from 'svelte/transition';
   import { onDestroy } from 'svelte';
   import FlashlightCard from './FlashlightCard.svelte';
   import { getSubjectMemoryStats, clearAnsweredQuestionsOnly } from '../lib/question-memory';
   import { supabase } from '../lib/supabase';
-  import { fetchAllQuestionsForGrade } from '../lib/api-service';
+  import {
+    fetchAllQuestionsForGrade,
+    fetchQuestions, // 🆕 Import fetchQuestions
+    getEffectiveEnglishLevel,
+    prefetchEnglishPool, // 🆕
+    calculateEnglishProficiency
+  } from '../lib/api-service';
+  import { getCachedEnglishQuestions, getAnsweredQuestionIds } from '../lib/idb-storage'; // 🆕
 
   let {
     subject: initialSubject,
@@ -16,18 +23,48 @@
   } = $props();
 
   // 🆕 Make subject and grade editable
-  let selectedSubject = $state(initialSubject);
+  let selectedSubject = $state(initialSubject || 'Simulacro Completo');
   let selectedGrade = $state(initialGrade);
-  let availableSubjects = $state(['Simulacro Completo', 'Matemáticas', 'Lectura Crítica', 'Ciencias Naturales', 'Sociales y Ciudadanas', 'Inglés']);
+  let availableSubjects = $state(['Simulacro Completo', 'Matemáticas', 'Lectura Crítica', 'Ciencias Naturales', 'Sociales y Ciudadanas']);
   let availableGrades = $state([3, 5, 6, 7, 8, 9, 10, 11]);
 
   // 🆕 Detect English Diagnostic Mode (grade = 0 means cross-grade English assessment)
   let isEnglishDiagnosticMode = $derived(initialGrade === 0 || selectedSubject?.includes('Diagnóstico'));
 
+  // 🆕 Proficiency State
+  let englishStats: { level: string; confidence: number; count: number } | null = $state(null);
+
+  $effect(() => {
+    if (isEnglishDiagnosticMode) {
+      getEffectiveEnglishLevel().then(async stats => {
+        if (stats) englishStats = stats;
+
+        // 🆕 Check pool size on load - subtract answered questions
+        const cached = await getCachedEnglishQuestions();
+        const answeredIds = await getAnsweredQuestionIds(14, false);
+
+        // Calculate fresh (unanswered) questions
+        const freshQuestions = cached.filter((q: any) => !answeredIds.has(q.id));
+        poolSize = freshQuestions.length;
+
+        // Auto-prefetch if low
+        if (cached.length < 400 && !isPrefetching) {
+             isPrefetching = true;
+             prefetchEnglishPool().then(async () => {
+                 const updated = await getCachedEnglishQuestions();
+                 const freshUpdated = updated.filter((q: any) => !answeredIds.has(q.id));
+                 poolSize = freshUpdated.length;
+                 isPrefetching = false;
+             });
+        }
+      });
+    }
+  });
+
   let questionCount = $state(10);
   let timeOption = $state(0); // 🆕 0 = unlimited, >0 = seconds per question
   let mode = $state('SOLO'); // 'SOLO' or 'PARTY'
-  let useDiagnostic = $state(true);
+  let useDiagnostic = $state(false);
   let showResetConfirm = $state(false);
   let partyEnabled = $state(false);
   let partyTab = $state('crear'); // 'crear' or 'unirse'
@@ -95,7 +132,9 @@
             ? 'text-red-400'
             : 'text-yellow-400');
 
-  const questionOptions = [5, 10, 15];
+  const questionOptions = [5, 10, 15, 30, 60];
+  let poolSize = $state(0); // 🆕
+  let isPrefetching = $state(false); // 🆕
 
   let diagnosticGrades = $derived([3, 5, 7, 9].filter(g => g < selectedGrade));
   let memoryStats = $derived(getSubjectMemoryStats(availableQuestions, selectedSubject));
@@ -192,6 +231,7 @@
         studentId = stored;
         return studentId;
       }
+
     } catch {
       // ignore
     }
@@ -357,6 +397,14 @@
                        console.warn(`⚠️ P2P filtered ${msg.payload.questions.length - validQuestions.length} invalid questions`);
                      }
                  }
+                 // 🆕 Sync English Diagnostic mode from host
+                 if (msg.payload.isEnglishDiagnostic !== undefined) {
+                     // Update subject to trigger isEnglishDiagnosticMode derivation
+                     if (msg.payload.isEnglishDiagnostic && !selectedSubject?.includes('Diagnóstico')) {
+                         selectedSubject = 'Inglés Diagnóstico';
+                     }
+                     console.log('🆕 English Diagnostic Mode synced:', msg.payload.isEnglishDiagnostic);
+                 }
                  console.log('🔄 Config synced via P2P:', msg.payload);
              }
 
@@ -377,9 +425,16 @@
                        console.warn(`⚠️ START filtered ${msg.payload.questions.length - validQuestions.length} invalid questions`);
                      }
                  }
+                 // 🆕 Sync English Diagnostic mode from START signal
+                 if (msg.payload.isEnglishDiagnostic !== undefined) {
+                     if (msg.payload.isEnglishDiagnostic && !selectedSubject?.includes('Diagnóstico')) {
+                         selectedSubject = 'Inglés Diagnóstico';
+                     }
+                     console.log('🆕 English Diagnostic Mode (START):', msg.payload.isEnglishDiagnostic);
+                 }
                  // Force start logic
                  handleStart();
-                 }
+             }
              });
 
              console.log('✅ P2P guest connected successfully');
@@ -405,7 +460,8 @@
          grade: selectedGrade,
          num_questions: questionCount,
          time_option: timeOption,
-         questions: syncedQuestions // 🔥 Always include questions
+         questions: syncedQuestions, // 🔥 Always include questions
+         isEnglishDiagnostic: isEnglishDiagnosticMode // 🆕 Sync English Diagnostic mode to guests
      };
 
      // 🆕 Skip if payload hasn't changed (prevents duplicate broadcasts)
@@ -445,7 +501,8 @@
                    num_questions: questionCount,
                    time_option: timeOption,
                    questions: syncedQuestions,
-                   host_peer_id: p2pService.isConnected() ? 'connected' : null
+                   host_peer_id: p2pService.isConnected() ? 'connected' : null,
+                   isEnglishDiagnostic: isEnglishDiagnosticMode // 🆕 Sync to DB for Realtime fallback
                  }
                })
                .eq('party_code', partyCode);
@@ -497,8 +554,17 @@
 
         const targetSubject = normalizeSubject(selectedSubject);
 
+        // 🆕 Special handling for "Inglés Diagnóstico" - match any English question
+        const isEnglishDiagnostic = targetSubject.includes('ingles') && targetSubject.includes('diagnostic');
+
         filteredPool = questionsPool.filter(q => {
           const qSubject = normalizeSubject(q.category?.split(' :: ')[0] || '');
+
+          if (isEnglishDiagnostic) {
+            // Match any English subject: "INGLÉS", "INGLÉS B1", "ingles", etc.
+            return qSubject.includes('ingles') || qSubject.includes('english');
+          }
+
           return qSubject === targetSubject;
         });
 
@@ -507,6 +573,35 @@
         if (filteredPool.length === 0) {
           console.warn(`⚠️ No questions found for subject "${selectedSubject}", using full pool`);
           filteredPool = questionsPool;
+        }
+
+        // 🆕 Deep Search if insufficient questions
+        const requiredQuestions = questionCount * 2; // Safety margin
+        if (filteredPool.length < requiredQuestions) {
+             console.warn(`⚠️ Insufficient party questions (${filteredPool.length}/${requiredQuestions}). Starting Deep Search...`);
+
+             // Use same variants logic as App.svelte
+             const searchSubject = targetSubject.includes('diagnostico') ? 'ingles' : targetSubject;
+             const searchGrade = selectedGrade || 11;
+
+             try {
+                // Fetch pages 1-3 to get more questions
+                const pages = [1, 2, 3];
+                const newQuestionsResults = await Promise.all(
+                    pages.map(p => fetchQuestions(searchGrade, searchSubject, p))
+                );
+
+                const currentIds = new Set(filteredPool.map(q => q.id));
+                newQuestionsResults.flat().forEach(q => {
+                    if (q && !currentIds.has(q.id)) {
+                        filteredPool.push(q);
+                        currentIds.add(q.id);
+                    }
+                });
+                console.log(`✅ Deep search added questions. New total: ${filteredPool.length}`);
+             } catch (err) {
+                console.error('❌ Deep search failed:', err);
+             }
         }
       }
 
@@ -530,7 +625,8 @@
       const validQuestions = selectedQuestions.filter(q => {
         const isValid = q &&
           Array.isArray(q.options) &&
-          q.options.length >= 4 && // ✨ MUST have at least 4 options
+          Array.isArray(q.options) &&
+          q.options.length >= 2 && // ✨ RELAXED: Allow True/False or 3-option questions (English/lower grades)
           q.id &&
           q.text &&
           q.correctOptionId;
@@ -813,7 +909,8 @@
     if (isHost && partyEnabled) {
         p2pService.broadcast('START_EXAM', {
             questions: syncedQuestions,
-            timeLimitSeconds: timeOption > 0 ? timeOption * questionCount : 0
+            timeLimitSeconds: timeOption > 0 ? timeOption * questionCount : 0,
+            isEnglishDiagnostic: isEnglishDiagnosticMode // 🆕 Sync to guests
         });
     }
 
@@ -953,18 +1050,37 @@
           <!-- 🇬🇧 English Diagnostic Mode Header -->
           <div class="p-5 bg-gradient-to-r from-blue-900/30 via-purple-900/20 to-blue-900/30 border border-blue-500/30 rounded-xl">
             <div class="flex items-center gap-4 mb-3">
-              <div class="w-14 h-14 rounded-xl bg-gradient-to-br from-blue-500/30 to-purple-500/30 flex items-center justify-center shadow-lg">
-                <img src="/favicon.png" alt="SaberParaTodos" class="w-9 h-9 object-contain" />
+              <div class="w-14 h-14 rounded-xl bg-gradient-to-br from-blue-500/30 to-purple-500/30 flex items-center justify-center shadow-lg text-2xl">
+                🇺🇸
               </div>
               <div>
                 <h3 class="text-lg font-bold text-blue-400 uppercase tracking-wider flex items-center gap-2">
-                  Inglés Diagnóstico
-                  <span class="px-2 py-0.5 bg-purple-500/30 text-purple-300 text-[9px] font-bold uppercase tracking-widest rounded">
-                    Evaluación
+                  {#if englishStats}
+                    Mejorar Nivel
+                  {:else}
+                    Inglés Diagnóstico
+                  {/if}
+                  <span class="px-2 py-0.5 {englishStats?.confidence >= 80 ? 'bg-emerald-500/30 text-emerald-300' : 'bg-purple-500/30 text-purple-300'} text-[9px] font-bold uppercase tracking-widest rounded">
+                    {#if englishStats}
+                      Nivel {englishStats.level}
+                      {#if englishStats.confidence < 80}
+                        (Preliminar)
+                      {/if}
+                    {:else}
+                      Evaluación
+                    {/if}
                   </span>
                 </h3>
-                <p class="text-xs text-white/60 mt-0.5">
-                  Niveles A1 a B2+ • Grados 3 al 11
+                <p class="text-xs text-white/60 mt-0.5 flex items-center gap-2">
+                  {#if englishStats}
+                    {#if englishStats.count < 60}
+                       Diagnóstico en curso: <strong class="text-white">{englishStats.count}/60</strong> preguntas
+                    {:else}
+                       Nivel validado con {englishStats.count} preguntas
+                    {/if}
+                  {:else}
+                    Niveles A1 a C1 • Grados 3 al 12
+                  {/if}
                 </p>
               </div>
             </div>
@@ -973,7 +1089,24 @@
               <div class="flex items-start gap-2">
                 <span class="text-blue-400 text-sm">📊</span>
                 <p class="text-xs text-white/70">
-                  Este examen evaluará tu <strong class="text-blue-400">nivel real de inglés</strong> usando preguntas de todos los grados.
+                  {#if englishStats}
+                    Tu nivel actual es <strong class="{englishStats.count >= 60 ? 'text-emerald-400' : 'text-purple-400'}">{englishStats.level}</strong>.
+                    {#if englishStats.count < 60}
+                      Responde más preguntas para un diagnóstico <strong class="text-blue-400">casi exacto</strong> (60 preguntas).
+                    {:else}
+                      Tu nivel ha sido <strong class="text-emerald-400">validado</strong>. Seguiremos refinando según tus progresos.
+                    {/if}
+                    <!-- 🆕 Pool Indicator -->
+                    <div class="mt-2 text-[10px] text-white/50 flex items-center gap-1.5 bg-black/20 py-1 px-2 rounded-lg w-fit">
+                      <span class:animate-spin={isPrefetching}>{isPrefetching ? '⏳' : '💾'}</span>
+                      <span>Pool Offline: <strong class="{poolSize >= 400 ? 'text-emerald-400' : 'text-yellow-400'}">{poolSize}/400</strong></span>
+                      {#if poolSize >= 240}
+                         <span class="text-emerald-500/80 ml-1">✓ {Math.floor(poolSize / 60)} Exámenes Listos</span>
+                      {/if}
+                    </div>
+                  {:else}
+                    Este examen evaluará tu <strong class="text-blue-400">nivel real de inglés</strong> usando preguntas de todos los grados.
+                  {/if}
                 </p>
               </div>
               <div class="flex items-start gap-2">
@@ -1099,9 +1232,10 @@
         </div>
       </div>
 
-      <!-- Time Config -->
-      <div class="space-y-3">
-        <label class="text-xs uppercase tracking-widest opacity-60 block">Tiempo por Pregunta</label>
+      <!-- Time Config - Only for Party Mode -->
+      {#if partyEnabled}
+      <div class="space-y-3" transition:fade>
+        <label class="text-xs uppercase tracking-widest opacity-60 block">⏱️ Tiempo por Pregunta</label>
         <div class="grid grid-cols-3 gap-3">
           <button
             disabled={configLocked}
@@ -1143,6 +1277,7 @@
           </button>
         </div>
       </div>
+      {/if}
 
       <!-- Party Mode Toggle -->
       <div class="p-4 bg-purple-500/10 border border-purple-500/30 rounded-lg">
@@ -1227,6 +1362,26 @@
                   </div>
 
                   <div class="p-3 bg-black/30 rounded">
+                    {#if englishStats && isEnglishDiagnosticMode}
+                      <div class="text-center mb-4">
+                        <div class="stat-value text-accent-400">
+                          {englishStats.level}
+                          {#if englishStats.cognitiveLabel}
+                            <div class="text-[0.6rem] font-bold text-white bg-white/10 px-1.5 py-0.5 rounded mt-1 border border-white/20" title="Based on high-difficulty questions (Critical Thinking)">
+                              {englishStats.cognitiveLabel}
+                            </div>
+                          {/if}
+                        </div>
+                        <div class="stat-label flex flex-col items-center">
+                          <span>NIVEL CEFR</span>
+                          {#if englishStats.isEstimate}
+                            <span class="text-[0.6rem] text-white/50">(PRELIMINAR)</span>
+                          {:else}
+                            <span class="text-[0.6rem] text-green-400">(VALIDADO)</span>
+                          {/if}
+                        </div>
+                      </div>
+                    {/if}
                     <p class="text-xs uppercase tracking-widest opacity-60 mb-2">
                       Jugadores Conectados ({connectedUsers.length})
                     </p>
@@ -1376,8 +1531,8 @@
         {/if}
       </div>
 
-      <!-- Diagnostic Toggle (Only for SOLO without Party) -->
-      {#if !partyEnabled}
+      <!-- Diagnostic Toggle (Only for SOLO without Party AND not in English diagnostic mode) -->
+      {#if !partyEnabled && !isEnglishDiagnosticMode}
         <div class="p-4 bg-[#121212]/50 border border-emerald-500/30 rounded-lg relative overflow-hidden group" transition:fade>
           <div class="absolute top-0 right-0 p-2 opacity-20 group-hover:opacity-40 transition-opacity">
             <svg class="w-12 h-12 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -1391,7 +1546,16 @@
                 class="relative inline-flex h-6 w-11 flex-shrink-0 cursor-pointer rounded-full border-2 border-transparent transition-colors duration-200 ease-in-out focus:outline-none {useDiagnostic ? 'bg-emerald-500' : 'bg-white/20'}"
                 role="switch"
                 aria-checked={useDiagnostic}
-                onclick={() => useDiagnostic = !useDiagnostic}
+                onclick={() => {
+                  useDiagnostic = !useDiagnostic;
+                  if (useDiagnostic) {
+                    questionCount = 30;
+                    timeOption = 0;
+                  } else {
+                    // When diagnostic is turned off, reset questionCount to 60 (default for non-diagnostic)
+                    questionCount = 60;
+                  }
+                }}
               >
                 <span
                   aria-hidden="true"

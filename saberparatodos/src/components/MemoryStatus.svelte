@@ -59,10 +59,11 @@
     <span class="text-white/60">{progressPercent}%</span>
   </button>
 {:else}
-  <!-- Full Mode - For results view -->
-  <div class="bg-[#1E1E1E]/60 border border-white/10 rounded-xl p-4 sm:p-6">
-    <div class="flex items-center justify-between mb-4">
-      <h3 class="text-sm font-bold uppercase tracking-widest text-white/60 flex items-center gap-2">
+  <!-- Full Mode - Mobile-First Results View -->
+  <div class="bg-[#1E1E1E]/80 border border-white/10 rounded-2xl p-4">
+    <!-- Header - Touch Friendly -->
+    <div class="flex items-center justify-between mb-5">
+      <h3 class="text-xs font-bold uppercase tracking-widest text-white/60 flex items-center gap-2">
         <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
         </svg>
@@ -70,29 +71,45 @@
       </h3>
       <button
         on:click={() => showDetails = !showDetails}
-        class="text-xs text-emerald-500 hover:text-emerald-400"
+        class="min-h-[44px] min-w-[44px] flex items-center justify-center px-3 py-2 text-xs font-medium text-emerald-500 active:text-emerald-300 active:bg-emerald-500/10 rounded-lg transition-colors"
       >
         {showDetails ? 'Ocultar' : 'Ver detalles'}
       </button>
     </div>
 
-    <!-- Progress Bar -->
-    <div class="mb-4">
-      <div class="flex items-center justify-between text-xs mb-2">
-        <span class="text-white/40">Preguntas vistas</span>
-        <span class={`font-bold text-${progressColor}-500`}>
+    <!-- Progress Bar Section - Mobile Optimized -->
+    <div class="mb-5">
+      <!-- Label with explanation tooltip -->
+      <div class="flex items-center justify-between mb-2">
+        <div class="flex items-center gap-1.5">
+          <span class="text-xs text-white/50">Preguntas recientes</span>
+          <button
+            class="w-4 h-4 rounded-full bg-white/10 text-white/40 text-[10px] flex items-center justify-center active:bg-white/20"
+            on:click|stopPropagation={() => alert('Las preguntas vistas se reinician cada 14 días para permitirte repasar. El total histórico se mantiene abajo.')}
+          >?</button>
+        </div>
+        <span class={`text-sm font-bold text-${progressColor}-500`}>
           {memoryStats.answeredCount} / {memoryStats.totalAvailable}
         </span>
       </div>
-      <div class="w-full h-3 bg-white/10 rounded-full overflow-hidden">
+
+      <!-- Larger touch-friendly progress bar -->
+      <div class="w-full h-4 bg-white/10 rounded-full overflow-hidden">
         <div
           class={`h-full bg-gradient-to-r from-${progressColor}-600 to-${progressColor}-400 rounded-full transition-all duration-700`}
           style="width: {progressPercent}%"
         ></div>
       </div>
-      <div class="flex items-center justify-between text-[10px] text-white/30 mt-1">
+
+      <!-- Progress markers -->
+      <div class="flex items-center justify-between text-[10px] text-white/30 mt-1.5 px-0.5">
         <span>0%</span>
-        <span class="text-yellow-500">70% auto-reset</span>
+        <span class="text-yellow-500/80 flex items-center gap-0.5">
+          <svg class="w-3 h-3" fill="currentColor" viewBox="0 0 20 20">
+            <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-12a1 1 0 10-2 0v4a1 1 0 00.293.707l2.828 2.829a1 1 0 101.415-1.415L11 9.586V6z" clip-rule="evenodd"/>
+          </svg>
+          70% reset
+        </span>
         <span>100%</span>
       </div>
     </div>
@@ -109,26 +126,32 @@
       </div>
     {/if}
 
-    <!-- Details Section -->
+    <!-- Details Section - Mobile Optimized -->
     {#if showDetails && questionStats}
-      <div class="space-y-4 pt-4 border-t border-white/10" transition:slide>
-        <!-- Overall Stats -->
-        <div class="grid grid-cols-3 gap-3">
-          <div class="text-center p-3 bg-white/5 rounded-lg">
-            <p class="text-2xl font-bold text-white">{questionStats.totalAnswered}</p>
-            <p class="text-[10px] uppercase tracking-widest text-white/40">Total Respondidas</p>
+      <div class="space-y-5 pt-5 border-t border-white/10" transition:slide>
+
+        <!-- Explanation Banner -->
+        <div class="p-3 bg-blue-500/10 border border-blue-500/20 rounded-xl text-xs text-blue-300/80 leading-relaxed">
+          📊 <strong>Preguntas recientes</strong> muestra las vistas en 14 días. <strong>Total histórico</strong> cuenta todas desde siempre.
+        </div>
+
+        <!-- Overall Stats - Larger for mobile -->
+        <div class="grid grid-cols-3 gap-2">
+          <div class="text-center p-4 bg-white/5 rounded-xl">
+            <p class="text-3xl font-bold text-white">{questionStats.totalAnswered}</p>
+            <p class="text-[9px] uppercase tracking-widest text-white/40 mt-1">Total Histórico</p>
           </div>
-          <div class="text-center p-3 bg-emerald-500/10 rounded-lg">
-            <p class="text-2xl font-bold text-emerald-500">{questionStats.correctCount}</p>
-            <p class="text-[10px] uppercase tracking-widest text-white/40">Correctas</p>
+          <div class="text-center p-4 bg-emerald-500/10 rounded-xl">
+            <p class="text-3xl font-bold text-emerald-500">{questionStats.correctCount}</p>
+            <p class="text-[9px] uppercase tracking-widest text-white/40 mt-1">Correctas</p>
           </div>
-          <div class="text-center p-3 bg-white/5 rounded-lg">
-            <p class="text-2xl font-bold text-white">
+          <div class="text-center p-4 bg-white/5 rounded-xl">
+            <p class="text-3xl font-bold text-white">
               {questionStats.totalAnswered > 0
                 ? Math.round((questionStats.correctCount / questionStats.totalAnswered) * 100)
                 : 0}%
             </p>
-            <p class="text-[10px] uppercase tracking-widest text-white/40">Precisión</p>
+            <p class="text-[9px] uppercase tracking-widest text-white/40 mt-1">Precisión</p>
           </div>
         </div>
 
@@ -172,16 +195,19 @@
           </div>
         {/if}
 
-        <!-- Reset Button -->
-        <div class="pt-4 border-t border-white/10">
+        <!-- Reset Button - Mobile Touch Target -->
+        <div class="pt-5 border-t border-white/10">
           <button
             on:click={handleClearMemory}
-            class="w-full px-4 py-2 border border-red-500/30 text-red-400 hover:bg-red-500/10 rounded-lg text-xs uppercase tracking-widest transition-colors"
+            class="w-full min-h-[48px] px-4 py-3 border border-red-500/30 text-red-400 active:bg-red-500/20 rounded-xl text-xs uppercase tracking-widest transition-colors flex items-center justify-center gap-2"
           >
-            🔄 Reiniciar Progreso Manualmente
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"/>
+            </svg>
+            Reiniciar Todo
           </button>
-          <p class="text-[10px] text-white/30 text-center mt-2">
-            Esto permitirá ver todas las preguntas de nuevo
+          <p class="text-[10px] text-white/30 text-center mt-2 leading-relaxed">
+            Esto borrará preguntas recientes y total histórico
           </p>
         </div>
       </div>

@@ -10,7 +10,7 @@ export type SubscriptionPlan = 'free' | 'pro' | 'institutional';
 export const PLAN_LIMITS = {
   free: {
     maxPlayers: 10,
-    examsPerWeek: 1,
+    examsPerWeek: 10, // Increased from 1 to 10
     allowAiAnalysis: false,
     allowExportPdf: false,
   },
@@ -43,6 +43,11 @@ export interface PartyConfig {
   grado: number;
   asignatura: string;
   connectionMode: ConnectionMode;
+  mode?: 'standard' | 'stop';
+  stopConfig?: {
+    includeEnglish: boolean;
+    difficulty: 'easy' | 'medium' | 'hard';
+  };
   createdAt: Date;
 }
 
