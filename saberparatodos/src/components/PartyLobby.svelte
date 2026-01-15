@@ -7,6 +7,7 @@
   export let partyCode: string;
   export let onStart: () => void;
   export let onCancel: () => void; // To go back
+  export let isHost: boolean = false; // 🆕 Track if current user is host
 
   let channel: RealtimeChannel | null = null;
   let students: any[] = [];
@@ -108,16 +109,23 @@
            onclick={onCancel}
            class="px-8 py-4 bg-white/5 border border-white/10 rounded-full font-bold uppercase tracking-widest hover:bg-white/10 transition-all text-sm"
         >
-           Cancelar
+           {isHost ? 'Cancelar' : 'Salir'}
         </button>
 
-        <button
-           onclick={onStart}
-           disabled={students.length === 0}
-           class="px-12 py-4 bg-gradient-to-r from-emerald-600 to-cyan-600 rounded-full font-bold uppercase tracking-widest hover:shadow-[0_0_30px_rgba(16,185,129,0.4)] transform hover:scale-105 transition-all disabled:opacity-50 disabled:cursor-not-allowed disabled:transform-none shadow-lg text-white"
-        >
-           Iniciar Examen
-        </button>
+        {#if isHost}
+          <button
+             onclick={onStart}
+             disabled={students.length === 0}
+             class="px-12 py-4 bg-gradient-to-r from-emerald-600 to-cyan-600 rounded-full font-bold uppercase tracking-widest hover:shadow-[0_0_30px_rgba(16,185,129,0.4)] transform hover:scale-105 transition-all disabled:opacity-50 disabled:cursor-not-allowed disabled:transform-none shadow-lg text-white"
+          >
+             Iniciar Examen
+          </button>
+        {:else}
+          <div class="px-8 py-4 bg-white/5 border border-white/10 rounded-full text-xs uppercase tracking-[0.2em] opacity-40 flex items-center gap-3">
+             <div class="w-1.5 h-1.5 bg-emerald-500 rounded-full animate-pulse"></div>
+             Esperando al Host...
+          </div>
+        {/if}
     </div>
 
   </div>

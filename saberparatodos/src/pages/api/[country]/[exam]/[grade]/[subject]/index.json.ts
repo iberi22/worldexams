@@ -7,6 +7,8 @@
 import { getCollection } from 'astro:content';
 import type { APIRoute } from 'astro';
 
+export const prerender = true;
+
 function slugifySubject(input: string): string {
   const s = (input || '').toLowerCase().trim();
   // Minimal, stable slugs for known Saber 11 subjects.

@@ -21,6 +21,8 @@
   export let isHost: boolean = false;
   export let sessionId: string | null = null; // 🆕 Local session ID
   export let timeLimitSeconds: number = 0; // 🆕 Time limit from config
+  export let startedAt: string | null = null; // 🆕 Explicit start time for sync
+  export let totalQuestions: number = 0; // 🆕 Expected total questions for sync
 
   // 🆕 Focus Tracker for exam integrity monitoring
   let focusTracker: FocusTracker | null = null;
@@ -73,13 +75,17 @@
   $: smartDefaultTime = Math.max(300, activeQuestions.length * 120);
   $: EXAM_TIME_SECONDS = timeLimitSeconds > 0 ? timeLimitSeconds : smartDefaultTime;
 
-  $: TIME_PER_QUESTION_MS = (EXAM_TIME_SECONDS * 1000) / Math.max(activeQuestions.length, 1);
+  $: effectiveQuestionCount = totalQuestions > 0 ? totalQuestions : Math.max(activeQuestions.length, 1);
+  $: TIME_PER_QUESTION_MS = (EXAM_TIME_SECONDS * 1000) / effectiveQuestionCount;
 
   // Initialize timeLeft using specific logic to handle the initial state clearly
-  // If timeLimitSeconds is 0 (unlimited/default), we calculate based on input questions or fallback
-  let timeLeft = timeLimitSeconds > 0
-      ? timeLimitSeconds
-      : Math.max(300, (questions?.length || 1) * 120);
+  let timeLeft = 0;
+
+  // Reactive synchronization of timeLeft when timer is not running
+  $: if (!timer && EXAM_TIME_SECONDS > 0) {
+      timeLeft = EXAM_TIME_SECONDS;
+      console.log('⏱️ TimeLeft initialized to:', timeLeft, '(Questions:', activeQuestions.length, ')');
+  }
 
   let examStartTime = 0;
   let questionStartTime = 0;
@@ -171,7 +177,7 @@
 
     // Derive per-question duration from total/questions.
     // In Party Mode this should match host's time_option.
-    const timePerQuestionMs = Math.max(1, Math.ceil((timeLimitSeconds * 1000) / Math.max(activeQuestions.length, 1)));
+    const timePerQuestionMs = Math.max(1, Math.ceil((timeLimitSeconds * 1000) / effectiveQuestionCount));
 
     if (timer) clearInterval(timer);
 
@@ -265,6 +271,16 @@
 
   onMount(() => {
     loadProgress();
+
+    // 🆕 Initial synchronization with prop startedAt
+    if (startedAt) {
+      const ms = Date.parse(startedAt);
+      if (!Number.isNaN(ms)) {
+        partyStartedAtMs = ms;
+        examStartTime = ms;
+        console.log('🏁 ExamView synced via prop startedAt:', startedAt);
+      }
+    }
 
     // Initialize times if new exam
     if (examStartTime === 0) {

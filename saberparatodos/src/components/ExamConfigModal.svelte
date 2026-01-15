@@ -410,30 +410,46 @@
 
              if (msg.type === 'START_EXAM') {
                  console.log('🚀 P2P Start Signal!');
+
+                 // 🆕 Extract config from start signal to ensure perfect sync
+                 const startConfig = msg.payload || {};
+
                  // Sync questions if provided
-                 if (msg.payload.questions) {
+                 if (startConfig.questions) {
                      // 🔥 Validate questions
-                     const validQuestions = msg.payload.questions.filter(q =>
+                     const validQuestions = startConfig.questions.filter(q =>
                        q &&
                        Array.isArray(q.options) &&
                        q.options.length > 0
                      );
                      syncedQuestions = validQuestions;
+                     questionCount = syncedQuestions.length; // Update local count
                      console.log('✅ Questions received via P2P START:', syncedQuestions.length);
 
-                     if (validQuestions.length < msg.payload.questions.length) {
-                       console.warn(`⚠️ START filtered ${msg.payload.questions.length - validQuestions.length} invalid questions`);
+                     if (validQuestions.length < startConfig.questions.length) {
+                       console.warn(`⚠️ START filtered ${startConfig.questions.length - validQuestions.length} invalid questions`);
                      }
                  }
+
+                 // Sync Time
+                 if (startConfig.timeLimitSeconds !== undefined) {
+                     // Reverse calculate timeOption if possible for UI consistency
+                     // or just trust the total time.
+                     if (questionCount > 0) {
+                        timeOption = Math.floor(startConfig.timeLimitSeconds / questionCount);
+                     }
+                     console.log('⏱️ Time sync (START):', startConfig.timeLimitSeconds);
+                 }
+
                  // 🆕 Sync English Diagnostic mode from START signal
-                 if (msg.payload.isEnglishDiagnostic !== undefined) {
-                     if (msg.payload.isEnglishDiagnostic && !selectedSubject?.includes('Diagnóstico')) {
+                 if (startConfig.isEnglishDiagnostic !== undefined) {
+                     if (startConfig.isEnglishDiagnostic && !selectedSubject?.includes('Diagnóstico')) {
                          selectedSubject = 'Inglés Diagnóstico';
                      }
-                     console.log('🆕 English Diagnostic Mode (START):', msg.payload.isEnglishDiagnostic);
+                     console.log('🆕 English Diagnostic Mode (START):', startConfig.isEnglishDiagnostic);
                  }
-                 // Force start logic
-                 handleStart();
+                 // Force start logic with synced config
+                 handleStart(startConfig);
              }
              });
 
@@ -895,9 +911,15 @@
   }
 
   // Update handleStart to P2P Broadcast
-  function handleStart() {
+  function handleStart(overrideConfig = null) {
     if (partyEnabled && !sessionId) {
       sessionId = crypto.randomUUID();
+    }
+
+    // BLOCK Guest from starting if they triggered it manually (should be disabled in UI now anyway)
+    if (partyEnabled && partyCode && !isHost && !overrideConfig) {
+      console.warn('❌ Guest tried to start manually');
+      return;
     }
 
     if (partyEnabled && partyCode && isHost && !allStudentsReady) {
@@ -905,26 +927,33 @@
       return;
     }
 
-    // 🆕 P2P Broadcast Start
+    // Use payload if provided (for Guest sync), else use local state
+    const finalQuestions = overrideConfig?.questions || syncedQuestions;
+    const finalTimeLimit = overrideConfig?.timeLimitSeconds !== undefined
+        ? overrideConfig.timeLimitSeconds
+        : (timeOption > 0 ? timeOption * questionCount : 0);
+
+    // 🆕 P2P Broadcast Start (Only Host sends this)
     if (isHost && partyEnabled) {
         p2pService.broadcast('START_EXAM', {
-            questions: syncedQuestions,
-            timeLimitSeconds: timeOption > 0 ? timeOption * questionCount : 0,
+            questions: finalQuestions,
+            timeLimitSeconds: finalTimeLimit,
             isEnglishDiagnostic: isEnglishDiagnosticMode // 🆕 Sync to guests
         });
     }
 
     onStart({
-      count: questionCount,
+      count: finalQuestions.length || questionCount,
       mode: partyEnabled ? 'PARTY' : 'SOLO',
       useDiagnostic: useDiagnostic,
       partyCode: partyCode,
       isHost: isHost,
       sessionId: partyEnabled ? sessionId : undefined,
-      timeLimitSeconds: timeOption > 0 ? timeOption * questionCount : 0,
+      timeLimitSeconds: finalTimeLimit,
+      startedAt: overrideConfig?.startedAt, // 🆕 Pass fixed start time if Guest
       subject: selectedSubject,
       grade: selectedGrade,
-      questions: partyEnabled && syncedQuestions.length > 0 ? syncedQuestions : undefined
+      questions: partyEnabled && finalQuestions.length > 0 ? finalQuestions : undefined
     });
   }
 
@@ -988,8 +1017,14 @@
 
           // Auto-iniciar el examen para el guest
           setTimeout(() => {
-            console.log('🎯 Auto-iniciando examen para guest...');
-            handleStart();
+            console.log('🎯 Auto-iniciando examen para guest (Bypassing guard)...');
+            // Re-using local handleStart but providing override to bypass guard
+            handleStart({
+              questions: syncedQuestions,
+              grade: selectedGrade,
+              subject: selectedSubject,
+              startedAt: payload.new.started_at || new Date().toISOString()
+            });
           }, 500); // Pequeño delay para que se apliquen todos los cambios
         }
       })
@@ -1606,11 +1641,16 @@
           </button>
           <button
             class="flex-1 py-3 bg-gradient-to-r from-[#FCD116] via-[#003893] to-[#CE1126] text-white font-bold uppercase tracking-widest text-xs rounded hover:opacity-90 transition-opacity shadow-lg"
-            onclick={handleStart}
-            disabled={(partyEnabled && !partyCode) || (partyEnabled && partyCode && isHost && !canHostStartParty)}
+            onclick={() => {
+              if (partyEnabled && !isHost) return;
+              handleStart();
+            }}
+            disabled={(partyEnabled && !partyCode) || (partyEnabled && partyCode && isHost && !canHostStartParty) || (partyEnabled && partyCode && !isHost)}
           >
             {partyEnabled && partyCode
-              ? (isHost && !canHostStartParty ? '⏳ Esperando listos' : '🚀 Iniciar Party')
+              ? (isHost
+                  ? (canHostStartParty ? '🚀 Iniciar Party' : '⏳ Esperando listos')
+                  : '⏳ Esperando al Host')
               : 'Comenzar'}
           </button>
         {/if}

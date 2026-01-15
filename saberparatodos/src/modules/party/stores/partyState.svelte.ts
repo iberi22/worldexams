@@ -305,12 +305,15 @@ class PartyState {
 
     console.log('[Party] Iniciando juego...');
 
+    const startedAt = new Date().toISOString();
+
     // Send start command to server with questions
     connectionService.broadcast({
       type: 'start_game',
       party_code: this.partyCode,
       player_id: this.playerId,
-      questions: this.questions
+      questions: this.questions,
+      startedAt: startedAt
     });
   }
 
@@ -506,8 +509,12 @@ class PartyState {
       case 'game_started':
         console.log('[Party] Game started! Questions:', message.questions?.length);
         this.gameState.status = 'active';
-        this.gameState.startedAt = new Date();
+        this.gameState.startedAt = message.startedAt ? new Date(message.startedAt) : new Date();
         this.questions = message.questions || [];
+        // Set initial time remaining based on config
+        if (this.config) {
+            this.gameState.timeRemaining = this.config.timePerQuestion;
+        }
         this.startQuestionTimer();
         break;
 

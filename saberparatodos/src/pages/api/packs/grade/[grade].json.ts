@@ -44,6 +44,8 @@ function normalizeSubject(subject: string): string {
  * Serves questions only for the requested grade
  * Route: /api/packs/grade/[grade].json
  */
+export const prerender = true;
+
 export const GET: APIRoute = async ({ params }) => {
   const gradeParam = params.grade;
   const grade = parseInt(gradeParam || '11', 10);

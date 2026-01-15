@@ -82,7 +82,7 @@
   let blogSubjectFilter = $state(null); // 🆕 Pre-filter for BlogView from LocalReportsView
   let isNavigatingToBlog = $state(false); // 🆕 Loading state for Blog navigation
   let buildInfo = $state(null); // Dynamic build info
-  let showStopSetup = $state(false); // Controls Stop Mode Setup visibility
+    let showUpdateModal = $state(false); // 🆕 New version available modal
   let showLobbyBrowser = $state(false); // Controls Lobby Browser visibility
 
   // Party Mode State
@@ -149,8 +149,13 @@
     });
 
     // PWA & Updates Logic (Restored if needed or just minimal)
-    if (typeof window !== 'undefined') {
-       // Check for updates
+    if (typeof window !== 'undefined' && 'serviceWorker' in navigator) {
+       navigator.serviceWorker.addEventListener('message', (event) => {
+         if (event.data && event.data.type === 'NEW_VERSION_AVAILABLE') {
+           console.log('✨ New version detected from Service Worker!');
+           showUpdateModal = true;
+         }
+       });
     }
 
     // 🆕 Global P2P Listener for App (Host Result Aggregation & Guest Sync)
@@ -231,6 +236,14 @@
       isHost = config.isHost || false; // Set host state
       partyChannel = supabase.channel(`party:${partyCode}`);
       partyChannel.subscribe();
+
+      // 🆕 Store startedAt for ExamView synchronization
+      if (config.startedAt) {
+          console.log('🏁 Syncing start time:', config.startedAt);
+          // We can use a shared state or just pass it to ExamView if we adjust ExamView props.
+          // Let's passed it via examConfig
+          examConfig.startedAt = config.startedAt;
+      }
 
       // 🆕 Use synced questions from Modal (Host or Guest)
       if (config.questions && config.questions.length > 0) {
@@ -484,6 +497,11 @@
 
   // Handle Host Starting the Party Exam
   async function handlePartyStart() {
+      if (!isHost) {
+          console.warn('❌ Guest attempted to start party (blocked)');
+          return;
+      }
+
       console.log('🚀🚀🚀 handlePartyStart() INICIADO');
       console.log('📊 generatedExamQuestions:', generatedExamQuestions?.length || 0);
 
@@ -509,6 +527,7 @@
           .eq('party_code', partyCode)
           .single();
 
+        const startedAt = new Date().toISOString();
         const updatedConfig = {
           ...(currentData?.exam_config || {}),
           questions: generatedExamQuestions // 🎯 Asegurar que las preguntas estén en BD
@@ -519,21 +538,23 @@
             .update({
               status: 'active',
               current_question: 0,
-              started_at: new Date().toISOString(),
+              started_at: startedAt,
               exam_config: updatedConfig
             })
             .eq('party_code', partyCode);
 
         console.log('✅ Party iniciada: status=active, questions synced to DB');
+
+        // 2b. Broadcast via P2P (fallback si Realtime falla)
+        p2pService.broadcast('START_EXAM', {
+            questions: generatedExamQuestions,
+            timeLimitSeconds: examConfig.timeLimitSeconds || 0,
+            startedAt: startedAt,
+            isEnglishDiagnostic: examConfig.isEnglishDiagnostic || false
+        });
       } catch (err) {
         console.error('❌ Error updating party session:', err);
       }
-
-      // 2b. Broadcast via P2P (fallback si Realtime falla)
-      p2pService.broadcast('START_EXAM', {
-          questions: generatedExamQuestions,
-          timeLimitSeconds: examConfig.timeLimitSeconds || 0
-      });
 
       // 3. Switch View to EXAM
       console.log('🎬 Switching to EXAM view...');
@@ -1331,6 +1352,7 @@
       <div in:fly={{ x: 50, duration: 500 }} out:fade={{ duration: 200 }}>
         <PartyLobby
           partyCode={partyCode}
+          isHost={isHost}
           onStart={handlePartyStart}
            onCancel={() => setView(AppView.SUBJECT_SELECTION)}
         />
@@ -1347,6 +1369,8 @@
           isHost={examConfig?.isHost || false}
           sessionId={sessionId}
           timeLimitSeconds={examConfig?.timeLimitSeconds}
+          startedAt={examConfig?.startedAt}
+          totalQuestions={examConfig?.count || 0}
         />
       </div>
     {:else if view === AppView.LEADERBOARD}
@@ -1559,6 +1583,38 @@
       onJoin={handleJoinPublicParty}
       onClose={() => showLobbyBrowser = false}
     />
+  {/if}
+
+  <!-- 🆕 Update Notification Modal -->
+  {#if showUpdateModal}
+    <div class="fixed inset-0 z-[1000] bg-black/80 backdrop-blur-xl flex items-center justify-center p-4 text-black" transition:fade>
+      <div
+        class="w-full max-w-md bg-white p-8 rounded-2xl shadow-2xl text-center transform scale-100"
+        transition:fly={{ y: 20, duration: 500 }}
+      >
+        <div class="w-16 h-16 bg-blue-100 text-blue-600 rounded-full flex items-center justify-center mx-auto mb-6">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+          </svg>
+        </div>
+
+        <h2 class="text-2xl font-black uppercase tracking-tight mb-2">Nueva Versión</h2>
+        <p class="text-gray-600 mb-8 leading-relaxed">
+          Hay una actualización disponible con mejoras críticas para el modo Party y rendimiento.
+        </p>
+
+        <button
+          onclick={() => window.location.reload(true)}
+          class="w-full py-4 bg-black text-white font-bold rounded-xl hover:bg-gray-800 transition-all active:scale-95 shadow-lg"
+        >
+          ACTUALIZAR AHORA
+        </button>
+
+        <p class="mt-4 text-[10px] text-gray-400 uppercase tracking-widest font-medium">
+          Tus datos y progreso se mantendrán a salvo
+        </p>
+      </div>
+    </div>
   {/if}
 </div>
 

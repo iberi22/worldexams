@@ -7,6 +7,8 @@
 import { getCollection } from 'astro:content';
 import type { APIRoute } from 'astro';
 
+export const prerender = true;
+
 const QUESTIONS_PER_PAGE = 20; // 🔒 Hard limit to prevent API abuse
 
 function slugifySubject(input: string): string {
