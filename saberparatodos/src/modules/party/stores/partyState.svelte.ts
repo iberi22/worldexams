@@ -188,8 +188,25 @@ class PartyState {
       }));
     }
 
-    // Conectar al servicio
-    await connectionService.connect(this.config);
+    // Conectar al servicio (Retry logic)
+    let attempts = 0;
+    while (attempts < 2) {
+      try {
+        await Promise.race([
+          connectionService.connect(this.config),
+          new Promise((_, reject) => setTimeout(() => reject(new Error('Connection timeout')), 2000))
+        ]);
+        break;
+      } catch (e) {
+        attempts++;
+        console.warn(`[Party] Connection attempt ${attempts} failed:`, e);
+        if (attempts === 2) {
+            console.error('[Party] Connection failed after 2 attempts (proceeding offline):', e);
+            break;
+        }
+        await new Promise(r => setTimeout(r, 500));
+      }
+    }
     this.connectionStatus = 'connected';
 
     // 🆕 Persistir en Supabase para que aparezca en el Lobby Browser
@@ -252,8 +269,24 @@ class PartyState {
       suspiciousActivity: [],
     };
 
-    // Conectar
-    await connectionService.connect(config);
+    // Conectar (Retry logic)
+    let attempts = 0;
+    while (attempts < 3) {
+      try {
+        await Promise.race([
+          connectionService.connect(this.config),
+          new Promise((_, reject) => setTimeout(() => reject(new Error('Connection timeout')), 3000))
+        ]);
+        break;
+      } catch (e) {
+        attempts++;
+        if (attempts === 3) {
+            console.error('[Party] Join connection failed (proceeding offline):', e);
+            break;
+        }
+        await new Promise(r => setTimeout(r, 1000));
+      }
+    }
     this.connectionStatus = 'connected';
 
     // Escuchar mensajes
@@ -360,8 +393,19 @@ class PartyState {
   async finishGame(): Promise<void> {
     if (!this.isHost) return;
 
+    // 🆕 Calculate Results for Supabase Mode
+    const resultsPayload = this.players.map(p => ({
+        player_id: p.id,
+        player_name: p.name,
+        score: p.score || 0,
+        correct_answers: p.correctAnswers || 0,
+        total_questions: this.config?.totalQuestions || 0,
+        average_time_ms: 0 // Placeholder
+    })).sort((a, b) => b.score - a.score);
+
     connectionService.broadcast({
       type: 'finish_game',
+      results: resultsPayload
     });
 
     // Persist to Supabase (if authenticated)
@@ -452,13 +496,41 @@ class PartyState {
   submitAnswer(questionId: string, answer: string, timeSpent: number): void {
     if (!this.currentPlayer) return;
 
+    // SCORING: 1000 Base + Speed Bonus
+    const totalTime = this.config?.timePerQuestion || 60;
+    const timeRemaining = Math.max(0, totalTime - timeSpent);
+    const isCorrect = answer === this.currentQuestion?.correctOptionId;
+
+    let score = 0;
+    if (isCorrect) {
+       const speedBonus = Math.floor(1000 * (timeRemaining / totalTime));
+       score = 1000 + speedBonus;
+    }
+
     connectionService.broadcast({
       type: 'question_answered',
       player_id: this.currentPlayer.id,
       question_id: questionId,
       answer,
+      isCorrect, // Send correctness
+      score,     // Send score
       time_ms: timeSpent * 1000,
     });
+  }
+
+  /**
+   * Expulsa a un jugador (Solo Host)
+   */
+  kickPlayer(playerId: string): void {
+    if (!this.isHost) return;
+
+    connectionService.broadcast({
+      type: 'player_kicked',
+      playerId: playerId
+    });
+
+    // Remove locally
+    this.players = this.players.filter(p => p.id !== playerId);
   }
 
   /**
@@ -504,6 +576,16 @@ class PartyState {
 
       case 'player_left':
         this.players = this.players.filter((p) => p.id !== message.playerId);
+        break;
+
+      case 'player_kicked':
+        if (this.currentPlayer && this.currentPlayer.id === message.playerId) {
+            alert('Has sido expulsado de la sala por el anfitrión.');
+            this.leaveParty();
+            window.location.href = '/';
+        } else {
+            this.players = this.players.filter((p) => p.id !== message.playerId);
+        }
         break;
 
       case 'game_started':
@@ -567,11 +649,37 @@ class PartyState {
         this.answers.push({
           playerId: message.player_id,
           questionId: message.question_id,
-          answer: '', // Unknown to host until end
-          isCorrect: false,
-          timeSpent: 0,
+          answer: message.answer,
+          isCorrect: message.isCorrect || false,
+          score: message.score || 0,
+          timeSpent: message.time_ms || 0,
           timestamp: new Date()
         });
+
+        // 🆕 Host Logic: Update Score & Sudden Death
+        if (this.isHost) {
+            const p = this.players.find(pl => pl.id === message.player_id);
+            if (p) {
+                p.score = (p.score || 0) + (message.score || 0);
+                if (message.isCorrect) {
+                  p.correctAnswers = (p.correctAnswers || 0) + 1;
+                }
+            }
+
+            // ⚡ Sudden Death: If everyone answered, speed up timer
+            const currentQ = this.currentQuestion;
+            if (currentQ) {
+                const answersForQ = this.answers.filter(a => a.questionId === currentQ.id);
+                // Only count players who are marked as online or part of game?
+                // For robustness, count all players in list.
+                if (answersForQ.length >= this.players.length) {
+                    console.log('⚡ All players answered! Fast forwarding...');
+                    if (this.gameState.timeRemaining > 3) {
+                        this.gameState.timeRemaining = 3;
+                    }
+                }
+            }
+        }
         break;
 
       case 'suspicious_activity': {

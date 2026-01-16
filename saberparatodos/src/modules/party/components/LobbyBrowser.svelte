@@ -15,6 +15,19 @@
   let isLoading = $state(true);
   let error = $state<string | null>(null);
 
+  // Name Prompt State
+  let guestName = $state('');
+  let selectedParty = $state<{code: string, hostName: string} | null>(null);
+
+  function handleLobbyClick(session: any) {
+      selectedParty = { code: session.party_code, hostName: session.host_name };
+  }
+
+  function confirmJoin() {
+      if (!guestName.trim() || !selectedParty) return;
+      onJoin(selectedParty.code, guestName);
+  }
+
   async function fetchLobbies() {
     isLoading = true;
     error = null;
@@ -124,7 +137,7 @@
         <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
           {#each lobbies as session (session.party_code)}
             <button
-                onclick={() => onJoin(session.party_code, session.host_name)}
+                onclick={() => handleLobbyClick(session)}
                 class="text-left group w-full"
             >
                 <FlashlightCard className="p-5 hover:border-pink-500/40 transition-all duration-300 relative overflow-hidden h-full w-full">
@@ -181,6 +194,42 @@
         </button>
     </div>
   </div>
+
+  <!-- Name Prompt Modal -->
+  {#if selectedParty}
+    <div class="absolute inset-0 z-[120] bg-black/80 backdrop-blur-sm flex items-center justify-center p-4">
+        <div class="bg-gray-900 border border-white/20 p-6 rounded-xl w-full max-w-sm shadow-2xl" transition:fly={{ y: 20 }}>
+            <h3 class="text-xl font-bold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-purple-500">
+                ¡Casi listo!
+            </h3>
+            <p class="text-gray-400 text-sm mb-4">Ingresa tu nombre para entrar a la sala de <span class="text-white font-bold">{selectedParty.hostName}</span></p>
+
+            <input
+                type="text"
+                bind:value={guestName}
+                placeholder="Tu Apodo / Nombre"
+                class="w-full bg-black/50 border border-white/10 rounded-lg p-3 text-white focus:outline-none focus:ring-2 focus:ring-purple-500 mb-6"
+                autofocus
+            />
+
+            <div class="flex gap-3">
+                <button
+                    onclick={() => selectedParty = null}
+                    class="flex-1 py-2 rounded-lg bg-gray-800 hover:bg-gray-700 text-white transition-colors"
+                >
+                    Cancelar
+                </button>
+                <button
+                    onclick={confirmJoin}
+                    disabled={!guestName.trim()}
+                    class="flex-1 py-2 rounded-lg bg-purple-600 hover:bg-purple-700 disabled:opacity-50 disabled:cursor-not-allowed text-white font-bold transition-colors"
+                >
+                    Entrar
+                </button>
+            </div>
+        </div>
+    </div>
+  {/if}
 </div>
 
 <style>

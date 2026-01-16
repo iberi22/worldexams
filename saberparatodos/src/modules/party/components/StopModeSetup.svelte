@@ -49,7 +49,7 @@
   <FlashlightCard className="p-8">
     <div class="mb-8 text-center">
       <h2 class="text-4xl font-black text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-purple-500 mb-2">
-        ⚡ STOP MODE
+        ⚡ SPEED CHALLENGE
       </h2>
       <p class="text-gray-400">Modo rápido y furioso. 15 segundos por pregunta.</p>
     </div>
@@ -139,7 +139,7 @@
         disabled={!hostName}
         class="w-full px-6 py-4 bg-gradient-to-r from-pink-600 to-purple-600 hover:from-pink-500 hover:to-purple-500 disabled:opacity-50 disabled:cursor-not-allowed rounded-lg font-bold text-xl text-white shadow-lg shadow-purple-900/20 transition-all transform hover:scale-[1.02] active:scale-[0.98]"
       >
-        🚀 CREAR SALA STOP
+        🚀 CREAR SALA SPEED
       </button>
 
     </div>

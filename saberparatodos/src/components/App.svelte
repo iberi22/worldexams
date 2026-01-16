@@ -38,7 +38,7 @@
   import LocalModeNotice from './LocalModeNotice.svelte';
   import OfflineProfile from './OfflineProfile.svelte';
 
-  import PartyLobby from './PartyLobby.svelte'; // New import
+  import PartyLobby from '../modules/party/components/PartyLobby.svelte'; // 🆕 Module Import
   import StopModeSetup from '../modules/party/components/StopModeSetup.svelte';
   import LobbyBrowser from '../modules/party/components/LobbyBrowser.svelte';
   import { partyState } from '../modules/party/stores/partyState.svelte';
@@ -84,6 +84,7 @@
   let buildInfo = $state(null); // Dynamic build info
     let showUpdateModal = $state(false); // 🆕 New version available modal
   let showLobbyBrowser = $state(false); // Controls Lobby Browser visibility
+  let showStopSetup = $state(false); // Controls Stop Mode Setup visibility
 
   // Party Mode State
   let partyCode = $state('');
@@ -795,7 +796,7 @@
       );
 
       // 🆕 Set Reporting State so results save correctly
-      selectedSubject = 'Desafío Stop';
+      selectedSubject = 'Speed Challenge';
       selectedGrade = 11;
 
       // 🆕 Initialize Exam Config for correct timer logic (Total Time = 15s * Qs)
@@ -806,7 +807,8 @@
         mode: 'stop'
       };
 
-      partyCode = newPartyId;
+      // 🛡️ Ensure partyCode has value even if createParty returns undefined (Offline Fallback)
+      partyCode = newPartyId || partyState.config?.id || 'OFFLINE-' + Math.floor(Math.random()*1000);
       isHost = true;
       setView(AppView.PARTY_LOBBY);
 
@@ -818,7 +820,7 @@
     }
   }
 
-  async function handleJoinPublicParty(code, hostName) {
+  async function handleJoinPublicParty(code, playerName) {
     try {
       showLobbyBrowser = false;
       isLoadingQuestions = true;
@@ -835,7 +837,7 @@
       const config = data.exam_config;
 
       // Join via partyState
-      await partyState.joinParty(code, 'Jugador', config);
+      await partyState.joinParty(code, playerName || 'Jugador', config);
 
       // Update App state
       partyCode = code;
@@ -1199,8 +1201,8 @@
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
                   </svg>
                 </div>
-                <h3 class="text-xl font-bold uppercase tracking-widest mb-2 text-transparent bg-clip-text bg-gradient-to-r from-pink-400 to-purple-400">
-                  Crear Desafío
+                <h3 data-testid="create-stop-party-btn" class="text-xl font-bold uppercase tracking-widest mb-2 text-transparent bg-clip-text bg-gradient-to-r from-pink-400 to-purple-400">
+                  DESAFÍO SPEED
                 </h3>
                 <p class="text-xs opacity-40">Modo multijugador rápido (15s)</p>
               </FlashlightCard>
@@ -1351,10 +1353,8 @@
     {:else if view === AppView.PARTY_LOBBY}
       <div in:fly={{ x: 50, duration: 500 }} out:fade={{ duration: 200 }}>
         <PartyLobby
-          partyCode={partyCode}
-          isHost={isHost}
-          onStart={handlePartyStart}
-           onCancel={() => setView(AppView.SUBJECT_SELECTION)}
+          onStartGame={handlePartyStart}
+          onBack={() => setView(AppView.SUBJECT_SELECTION)}
         />
       </div>
     {:else if view === AppView.EXAM}

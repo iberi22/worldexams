@@ -4,15 +4,20 @@
 
   interface Props {
     onStartGame?: () => void;
+    onBack?: () => void;
   }
 
-  let { onStartGame }: Props = $props();
+  let { onStartGame, onBack }: Props = $props();
 
   // Reactivity usando Svelte 5 Runes
   let players = $derived(partyState.players);
   let config = $derived(partyState.config);
   let isHost = $derived(partyState.isHost);
   let playersOnline = $derived(partyState.playersOnline);
+
+  $effect(() => {
+    console.log('PartyLobby Config:', config);
+  });
 
   function handleStartGame() {
     if (isHost && playersOnline > 0) {
@@ -137,43 +142,62 @@
               </div>
             </div>
 
-            {#if isHost && player.suspiciousActivity.length > 0}
-              <span
-                class="px-2 py-1 bg-red-900 text-red-300 text-xs rounded-full"
-                title="Actividad sospechosa detectada"
-              >
-                ⚠️ {player.leftScreenCount}
-              </span>
-            {/if}
+            <div class="flex items-center gap-2">
+              {#if isHost && player.suspiciousActivity.length > 0}
+                <span
+                  class="px-2 py-1 bg-red-900 text-red-300 text-xs rounded-full"
+                  title="Actividad sospechosa detectada"
+                >
+                  ⚠️ {player.leftScreenCount}
+                </span>
+              {/if}
+
+              {#if isHost && !player.isHost}
+                <button
+                  onclick={() => partyState.kickPlayer(player.id)}
+                  class="px-3 py-1 bg-red-600/20 hover:bg-red-600 text-red-200 hover:text-white text-xs rounded transition-colors border border-red-600/30 font-bold"
+                  title="Expulsar jugador"
+                >
+                  EXPULSAR
+                </button>
+              {/if}
+            </div>
           </div>
         {/each}
       </div>
     </div>
 
-    <!-- Start Button (Host only) -->
-    {#if isHost}
+    <!-- Type-safe Footer Actions -->
+    <div class="flex flex-col sm:flex-row gap-4 mt-6">
       <button
-        onclick={handleStartGame}
-        disabled={playersOnline === 0}
-        class="w-full py-4 text-xl font-bold rounded-lg transition-all
-               {playersOnline > 0
-                 ? 'bg-green-600 hover:bg-green-700 cursor-pointer'
-                 : 'bg-gray-700 text-gray-500 cursor-not-allowed'}"
+          onclick={onBack}
+          class="px-6 py-4 bg-gray-700 hover:bg-gray-600 rounded-lg font-bold text-white transition-colors flex-1 sm:flex-none"
       >
-        {#if playersOnline > 0}
-          🚀 Iniciar Examen
-        {:else}
-          Esperando participantes...
-        {/if}
+          {isHost ? 'Cancelar Party' : 'Salir del Lobby'}
       </button>
-    {:else}
-      <div class="text-center py-8">
-        <p class="text-gray-400 text-lg">Esperando que el host inicie el examen...</p>
-        <div class="mt-4">
-          <div class="inline-block animate-spin rounded-full h-8 w-8 border-b-2 border-yellow-400"></div>
+
+      {#if isHost}
+        <button
+          onclick={handleStartGame}
+          disabled={playersOnline === 0}
+          class="flex-1 py-4 text-xl font-bold rounded-lg transition-all shadow-lg
+                 {playersOnline > 0
+                   ? 'bg-gradient-to-r from-emerald-600 to-cyan-600 hover:from-emerald-500 hover:to-cyan-500 cursor-pointer'
+                   : 'bg-gray-800 text-gray-500 cursor-not-allowed border border-gray-700'}"
+        >
+          {#if playersOnline > 0}
+            🚀 Iniciar Examen ({playersOnline})
+          {:else}
+            Esperando jugadores...
+          {/if}
+        </button>
+      {:else}
+        <div class="flex-1 bg-gray-800/50 border border-gray-700 rounded-lg p-4 flex items-center justify-center gap-3">
+           <div class="inline-block animate-spin rounded-full h-5 w-5 border-2 border-yellow-400 border-t-transparent"></div>
+           <span class="text-gray-400 font-medium">El host iniciará pronto...</span>
         </div>
-      </div>
-    {/if}
+      {/if}
+    </div>
   </div>
 </div>
 

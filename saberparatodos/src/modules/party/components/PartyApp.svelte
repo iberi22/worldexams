@@ -72,7 +72,9 @@
       view = 'lobby';
     } catch (error) {
       console.error('Error creating stop party:', error);
-      alert('Error al crear la sala Stop.');
+      alert('Error al crear la sala Stop. (Modo Offline Activado)');
+      // Force Lobby view for testing/offline scenarios
+      view = 'lobby';
     }
   }
 
@@ -146,7 +148,7 @@
           <div class="absolute top-0 right-0 p-4 opacity-50">
              <span class="text-6xl">⚡</span>
           </div>
-          <h2 class="text-3xl font-black text-transparent bg-clip-text bg-gradient-to-r from-pink-400 to-purple-400 mb-2">⚡ STOP MODE</h2>
+          <h2 class="text-3xl font-black text-transparent bg-clip-text bg-gradient-to-r from-pink-400 to-purple-400 mb-2">⚡ SPEED CHALLENGE</h2>
           <p class="text-gray-300 mb-6 text-lg">Modo rápido y furioso. 15 segundos por pregunta. ¿Estás listo?</p>
           <button
             onclick={() => view = 'create-stop'}

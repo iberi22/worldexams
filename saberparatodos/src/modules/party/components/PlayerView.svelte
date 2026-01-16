@@ -34,6 +34,14 @@
       hasAnswered = false;
     }
   });
+
+  let totalTime = $derived(partyState.config?.timePerQuestion || 60);
+  let timeColor = $derived.by(() => {
+     const ratio = gameState.timeRemaining / totalTime;
+     if (ratio > 0.5) return 'text-green-400';
+     if (ratio > 0.25) return 'text-yellow-400';
+     return 'text-red-500 animate-pulse';
+  });
 </script>
 
 <div class="player-view bg-gray-900 text-white min-h-screen p-6">
@@ -45,9 +53,9 @@
         <h1 class="text-2xl font-bold">{partyState.config?.name}</h1>
       </div>
       <div class="text-center">
-        <div class="bg-gray-800 px-6 py-3 rounded-lg">
+        <div class="bg-gray-800 px-6 py-3 rounded-lg border border-white/10 transition-colors duration-300">
           <p class="text-sm text-gray-400">Tiempo</p>
-          <p class="text-3xl font-bold font-mono {gameState.timeRemaining <= 10 ? 'text-red-500' : 'text-green-400'}">
+          <p class={`text-3xl font-bold font-mono ${timeColor}`}>
             {gameState.timeRemaining}s
           </p>
         </div>
