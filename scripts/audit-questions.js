@@ -2,7 +2,7 @@
 import fs from 'fs';
 import path from 'path';
 
-const auditDirectory = 'src/content/questions/colombia/';
+const auditDirectory = 'saberparatodos/src/content/questions/colombia/';
 const filesToFix = [];
 
 const auditFile = (filePath) => {

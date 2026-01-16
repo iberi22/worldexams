@@ -1,0 +1,65 @@
+[
+    {
+        "country": "colombia",
+        "subject": "tecnologia",
+        "grade": "3",
+        "topics": [
+            {
+                "slug": "hardware-software",
+                "title": "Hardware y Software",
+                "q1": {
+                    "text": "¿Cuál de los siguientes es un ejemplo de hardware?",
+                    "options": [
+                        ["A", "Microsoft Word", false],
+                        ["B", "Google Chrome", false],
+                        ["C", "Un ratón (mouse)", true],
+                        ["D", "Windows 10", false]
+                    ],
+                    "explanation": "El hardware son las partes físicas de un computador, como el ratón."
+                }
+            }
+        ]
+    },
+    {
+        "country": "colombia",
+        "subject": "lenguaje",
+        "grade": "3",
+        "topics": [
+            {
+                "slug": "sustantivos-propios-comunes",
+                "title": "Sustantivos Propios y Comunes",
+                "q1": {
+                    "text": "En la frase 'El perro Toby juega en el parque', ¿cuál es el sustantivo propio?",
+                    "options": [
+                        ["A", "perro", false],
+                        ["B", "Toby", true],
+                        ["C", "parque", false],
+                        ["D", "juega", false]
+                    ],
+                    "explanation": "Toby es un sustantivo propio porque es el nombre específico de un ser."
+                }
+            }
+        ]
+    },
+    {
+        "country": "colombia",
+        "subject": "sociales-y-ciudadanas",
+        "grade": "5",
+        "topics": [
+            {
+                "slug": "ramas-poder-publico",
+                "title": "Ramas del Poder Público",
+                "q1": {
+                    "text": "¿Cuál de las siguientes es una de las tres ramas del poder público en Colombia?",
+                    "options": [
+                        ["A", "Rama Ejecutiva", true],
+                        ["B", "Rama Militar", false],
+                        ["C", "Rama Educativa", false],
+                        ["D", "Rama de la Salud", false]
+                    ],
+                    "explanation": "Las tres ramas del poder público en Colombia son la Ejecutiva, la Legislativa y la Judicial."
+                }
+            }
+        ]
+    }
+]
