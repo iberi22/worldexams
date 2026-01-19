@@ -22,7 +22,7 @@ export interface PackMetadata {
  * Helper to get the start of the week (Monday)
  * Ensures rotation happens on Monday 00:00 UTC
  */
-function getMondayEpoch(date: Date): Date {
+export function getMondayEpoch(date: Date): Date {
     const d = new Date(date);
     const day = d.getDay(); // 0 is Sunday, 1 is Monday...
     const diff = d.getDate() - day + (day === 0 ? -6 : 1); // adjust when day is sunday

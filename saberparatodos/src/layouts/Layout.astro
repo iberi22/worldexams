@@ -34,10 +34,35 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 ---
 
 <!doctype html>
-<html lang="es" class="fonts-loading">
+<html lang="es" class="fonts-loading no-js">
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- 🛡️ Global Error Guard & JS Detection -->
+    <script is:inline>
+      // 1. Mark JS as available immediately
+      document.documentElement.classList.remove('no-js');
+
+      // 2. Global Error Guard: If app crashes, force show content
+      window.onerror = function(msg, _url, _line, _col, error) {
+        console.error('🚨 Global Error:', msg, error);
+        // Force remove loading states
+        document.documentElement.classList.remove('fonts-loading');
+        // Force show all scroll-reveal elements
+        const hiddenElements = document.querySelectorAll('[data-sr]');
+        hiddenElements.forEach(el => el.classList.add('sr-visible'));
+        return false; // Let default handler run too
+      };
+
+      // 3. Safety Timeout for Fonts (3s max)
+      setTimeout(function() {
+        if (document.documentElement.classList.contains('fonts-loading')) {
+          console.warn('⚠️ Fonts loading timed out - forcing visible');
+          document.documentElement.classList.remove('fonts-loading');
+        }
+      }, 3000);
+    </script>
 
     <!-- 🔇 Production Log Silencer - Must be FIRST script -->
     <script is:inline define:vars={{ isProd: import.meta.env.PROD }}>
@@ -171,6 +196,8 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     <!-- Scroll Reveal Script -->
     <script>
       function initScrollReveal() {
+        // Safety: If no JS or error, CSS handles visibility via .no-js
+
         const elements = document.querySelectorAll('[data-sr]');
 
         if (!elements.length) return;
@@ -204,6 +231,15 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
           observer.observe(el);
         });
+
+        // 🛡️ Safety Timeout: Force visible after 2.5s if observer fails (common in some iOS webviews)
+        setTimeout(() => {
+          const stuckElements = document.querySelectorAll('[data-sr]:not(.sr-visible)');
+          if (stuckElements.length > 0) {
+            console.warn(`⚠️ Force revealing ${stuckElements.length} stuck elements`);
+            stuckElements.forEach(el => el.classList.add('sr-visible'));
+          }
+        }, 2500);
       }
 
       // Initialize on DOM ready
