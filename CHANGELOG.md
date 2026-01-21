@@ -16,6 +16,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **CSP Headers:** Content Security Policy headers for XSS and tampering protection
 - **Caching Headers:** Cloudflare edge caching enabled (1 hour TTL for guests)
 - **Input Validation:** Server-side validation for all Edge Function parameters (grade, subject, country)
+- **Smart Fetching:** Deduplication logic to prevent repeating questions seen in the last 7 days
+- **Diagnostic Mode:** Ability to inject lower-grade questions into high-grade exams to detect foundational gaps
+- **Integrity Intro:** Loading animation with motivational messages about academic honesty to mask data fetching time
 
 #### Changed
 - **Edge Function Response:** Removed hard authentication requirement, added guest mode support
@@ -40,10 +43,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added `SECURITY_QUICK_SUMMARY.md` - Executive summary
 - Updated database migration: `supabase/migrations/20251218_create_rate_limiting.sql`
 
-### Planned (v0.2.0)
-- **Smart Fetching:** Deduplication logic to prevent repeating questions seen in the last 7 days.
-- **Diagnostic Mode:** Ability to inject lower-grade questions into high-grade exams to detect foundational gaps.
-- **Integrity Intro:** Loading animation with motivational messages about academic honesty to mask data fetching time.
+
 
 ## [0.1.0] - 2025-12-05
 
