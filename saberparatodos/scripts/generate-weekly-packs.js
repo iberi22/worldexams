@@ -132,7 +132,7 @@ async function generatePacks() {
   const allQuestions = loadAllQuestions();
   console.log(`✅ Loaded ${allQuestions.length} questions from markdown.`);
 
-  const years = [2024, 2025];
+  const years = [2024, 2025, 2026, 2027];
 
   let totalPacksGenerated = 0;
 
