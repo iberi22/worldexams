@@ -301,7 +301,7 @@ bot.command("practicar", async (ctx) => {
 // Callbacks (Button Clicks)
 // ─────────────────────────────────────────────────────────────────────────────
 
-bot.on("callback_query:data", async (ctx) aleatorias => {
+bot.on("callback_query:data", async (ctx) => {
   const data = ctx.callbackQuery.data;
 
   // Practice config callbacks
@@ -399,7 +399,9 @@ bot.on("callback_query:data", async (ctx) aleatorias => {
 
     await ctx.answerCallbackQuery();
     return;
-  }`✅ Listo. Empezamos ahora con 5 preguntas aleatorias.\nAl final te doy un enlace con tu informe.`data.startsWith("prans:")) {
+  }
+
+  if (data.startsWith("prans:")) {
     const profile = ctx.session?.profile;
     const telegramId = ctx.from?.id;
     if (!telegramId) {
@@ -463,9 +465,6 @@ bot.on("callback_query:data", async (ctx) aleatorias => {
         { parse_mode: "HTML" },
       );
     }
-`✅ <b>Correcto</b>`, { parse_mode: "HTML" });
-    } else {
-      await ctx.reply(`❌ <b>Incorrecto</b>`, { parse_mode: "HTML" }
 
     const reportUrl = `${REPORT_BASE_URL}${(updated as any).share_token}`;
     await ctx.reply(
@@ -490,11 +489,9 @@ const FAQ_RESPONSES: Record<string, string> = {
   "gratis": "Sí, el servicio es gratuito. Solo necesitas registrarte en la web para acceder a todas las funciones. 🎓",
   "precio": "Es completamente gratis. Sin costos, sin trampas. Solo queremos ayudarte a pasar el ICFES.",
   "ayuda": "Usa /start para comenzar, /practicar para responder preguntas y /perfil para ver tus créditos. Pero primero, regístrate en la web! 😉"
-};aquí:\n` +
-        `${reportUrl}\n\n` +
-        `💡 Puedes volver a usar /practicar gratis cuantas veces quieras.\n\n` +
-        `🚀 Para guardar tu progreso y ver análisis completo, vincula tu cuent
-  const lowerText = text.toLowerCase();
+};
+
+function getFAQResponse(text: string): string | null {
   for (const [keyword, response] of Object.entries(FAQ_RESPONSES)) {
     if (lowerText.includes(keyword)) {
       return response;

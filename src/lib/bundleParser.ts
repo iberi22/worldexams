@@ -13,7 +13,7 @@ export interface ParsedQuestion {
 }
 
 export function parseQuestionsFromBundle(entry: CollectionEntry<'questions'>): ParsedQuestion[] {
-  const rawContent = entry.body;
+  const rawContent = entry.body || '';
 
   // Detect if it's a Bundle or Legacy File
   // Legacy files usually don't have '## Pregunta' multiple times or at all
@@ -59,7 +59,7 @@ export function parseQuestionsFromBundle(entry: CollectionEntry<'questions'>): P
 }
 
 function parseLegacyQuestion(entry: CollectionEntry<'questions'>): ParsedQuestion[] {
-   const rawContent = entry.body;
+   const rawContent = entry.body || '';
    const q = parseSingleQuestionChunk(rawContent);
    if (!q) return [];
 
