@@ -143,6 +143,30 @@ function validateBundle(filePath) {
     }
   });
 
+  // 1.1 Protocol v3.0 Validation
+  const protocolVersion = data.protocol_version ? String(data.protocol_version) : '2.0';
+  const isV3 = protocolVersion >= '3.0';
+
+  if (isV3) {
+      const v3Fields = ['periodo', 'creation_date'];
+      v3Fields.forEach(field => {
+          if (!data[field]) {
+              errors.push(`[Protocol v3.0] Missing REQUIRED field: ${field}`);
+          }
+      });
+
+      if (!data.dba && !data.dba_id) {
+           errors.push(`[Protocol v3.0] Missing REQUIRED field: dba or dba_id`);
+      }
+
+      if (data.periodo && (data.periodo < 1 || data.periodo > 4)) {
+          errors.push(`[Protocol v3.0] Invalid 'periodo': ${data.periodo}. Must be between 1 and 4.`);
+      }
+  } else {
+      // Gentle warning for older protocols
+      if (!data.periodo) warnings.push(`[Suggestion] Add 'periodo' field for better filtering.`);
+  }
+
   // Check for source or source_id
   if (!data.source && !data.source_id && !data.source_url) {
     warnings.push(`Missing YAML field: source, source_id or source_url`);

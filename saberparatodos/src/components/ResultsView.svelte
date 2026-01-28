@@ -7,7 +7,7 @@
   import AdBanner from './AdBanner.svelte';
   import ScoreDisplay from './ScoreDisplay.svelte';
   import MathRenderer from './MathRenderer.svelte';
-  import PartyResultsView from './PartyResultsView.svelte'; // 🆕 Party Results
+  import ExamRoomResultsView from './ExamRoomResultsView.svelte'; // 🆕 Renamed Import
 
   import { supabase } from '../lib/supabase';
   import {
@@ -43,7 +43,7 @@
   let saved = false;
   let leaderboardSubmitted = false;
   let examScore: ExamScore | null = null;
-  let showPartyResults = false; // 🆕 Toggle for party results
+  let showRoomResults = false; // 🆕 Toggle for room results
 
   // Leaderboard submission state
   let isSubmittingToLeaderboard = false;
@@ -109,8 +109,8 @@
   }
 
   // 🆕 Tab State
-  let activeTab: 'individual' | 'party' = 'individual';
-  let partyResults: any[] = []; // 🆕 Live Party Results
+  let activeTab: 'individual' | 'room' = 'individual';
+  let roomResults: any[] = []; // 🆕 Live Room Results
 
   onMount(() => {
     // Async Init
@@ -146,36 +146,36 @@
       hasGitHub = await hasGitHubAuth();
     });
 
-    // 🆕 Auto-toggle to party tab if HOST, individual if participant
-    let cleanupParty = () => {};
-    if (examData?.partyCode) {
-      // 🆕 Host sees Party results, participants see their own results first
-      activeTab = examData.isHost ? 'party' : 'individual';
+    // 🆕 Auto-toggle to room tab if HOST, individual if participant
+    let cleanupRoom = () => {};
+    if (examData?.roomCode) {
+      // 🆕 Host sees Room results, participants see their own results first
+      activeTab = examData.isHost ? 'room' : 'individual';
       // Load existing results from session storage
       try {
-          partyResults = JSON.parse(sessionStorage.getItem('party_results') || '[]');
+          roomResults = JSON.parse(sessionStorage.getItem('room_results') || '[]');
       } catch (e) { console.error(e); }
 
       // Listen for updates
       const handleResult = (e: CustomEvent) => {
-          partyResults = [...partyResults, e.detail];
+          roomResults = [...roomResults, e.detail];
       };
       const handleLeaderboard = (e: CustomEvent) => {
-          partyResults = e.detail; // Replace full list
+          roomResults = e.detail; // Replace full list
       };
 
-      window.addEventListener('party-result-received', handleResult as EventListener);
-      window.addEventListener('party-leaderboard-update', handleLeaderboard as EventListener);
+      window.addEventListener('room-result-received', handleResult as EventListener);
+      window.addEventListener('room-leaderboard-update', handleLeaderboard as EventListener);
 
-      cleanupParty = () => {
-          window.removeEventListener('party-result-received', handleResult as EventListener);
-          window.removeEventListener('party-leaderboard-update', handleLeaderboard as EventListener);
+      cleanupRoom = () => {
+          window.removeEventListener('room-result-received', handleResult as EventListener);
+          window.removeEventListener('room-leaderboard-update', handleLeaderboard as EventListener);
       };
     }
 
     return () => {
         subscription.unsubscribe();
-        cleanupParty();
+        cleanupRoom();
     };
   });
 
@@ -376,8 +376,8 @@
 
 <div class="min-h-screen w-full flex flex-col animate-fade-in-up">
 
-  <!-- 🆕 Tabs Navigation (Only if Party) -->
-  {#if examData?.partyCode}
+  <!-- 🆕 Tabs Navigation (Only if Room Mode) -->
+  {#if examData?.roomCode}
       <div class="flex justify-center border-b border-white/10 bg-[#121212]/50 backdrop-blur-md sticky top-0 z-40">
           <button
               class={`px-6 py-4 text-sm font-bold uppercase tracking-widest border-b-2 transition-colors ${activeTab === 'individual' ? 'border-emerald-500 text-emerald-400' : 'border-transparent text-white/40 hover:text-white/70'}`}
@@ -386,21 +386,21 @@
               Mis Resultados
           </button>
           <button
-              class={`px-6 py-4 text-sm font-bold uppercase tracking-widest border-b-2 transition-colors ${activeTab === 'party' ? 'border-purple-500 text-purple-400' : 'border-transparent text-white/40 hover:text-white/70'}`}
-              on:click={() => activeTab = 'party'}
+              class={`px-6 py-4 text-sm font-bold uppercase tracking-widest border-b-2 transition-colors ${activeTab === 'room' ? 'border-purple-500 text-purple-400' : 'border-transparent text-white/40 hover:text-white/70'}`}
+              on:click={() => activeTab = 'room'}
           >
-              Resultados Party
+              Resultados Sala
           </button>
       </div>
   {/if}
 
-  {#if activeTab === 'party' && examData?.partyCode}
-       <!-- Party Leaderboard View -->
-      <PartyResultsView
-        partyCode={examData.partyCode}
+  {#if activeTab === 'room' && examData?.roomCode}
+       <!-- Room Leaderboard View -->
+      <ExamRoomResultsView
+        roomCode={examData.roomCode}
         currentSession={{
           sessionId: examData.sessionId || 'unknown',
-          partyCode: examData.partyCode,
+          roomCode: examData.roomCode,
           isHost: examData.isHost || false,
           userName: user?.email?.split('@')[0] || 'Tú',
           grade: examData.grade,
@@ -413,7 +413,7 @@
           score: examScore ? Math.round(examScore.stats.accuracy * 100) : 0,
           synced: true
         }}
-        externalResults={partyResults}
+        externalResults={roomResults}
         onClose={() => activeTab = 'individual'}
       />
   {:else}

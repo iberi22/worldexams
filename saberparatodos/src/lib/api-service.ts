@@ -262,7 +262,9 @@ function transformQuestion(apiQuestion: APIQuestion | any, grade: number, subjec
     // Modern questions metadata
     modernContext: apiQuestion.modern_context || apiQuestion.modernContext || false,
     contextType: apiQuestion.context_type || apiQuestion.contextType || undefined,
-    contextTags: apiQuestion.context_tags || apiQuestion.contextTags || []
+    contextTags: apiQuestion.context_tags || apiQuestion.contextTags || [],
+    // 🆕 Content filtering
+    topics: apiQuestion.topics || apiQuestion.tags || (apiQuestion.tema ? [apiQuestion.tema] : []) || []
   };
 }
 
@@ -1575,3 +1577,40 @@ export {
 } from './notebooklm/curriculum-service';
 
 
+
+/**
+ * Report a question anomaly to Supabase
+ */
+export async function reportQuestionAnomaly(
+  questionId: string,
+  type: 'contexto' | 'errada' | 'simbolos' | 'otro',
+  details?: string,
+  userId?: string
+): Promise<{ success: boolean; error?: any }> {
+  console.log(`🚨 Reporting anomaly for ${questionId}: ${type}`);
+
+  try {
+    const { error } = await supabase
+      .from('question_reports')
+      .insert({
+        question_id: questionId,
+        report_type: type,
+        details: details || '',
+        user_id: userId || null, // Optional
+        created_at: new Date().toISOString()
+      });
+
+    if (error) {
+      console.error('Error reporting anomaly:', error);
+      // Fallback: If table doesn't exist, we might want to just log it for now
+      // or try to create it via an Edge Function if we had one.
+      // For now, return false so UI shows error.
+      return { success: false, error };
+    }
+
+    return { success: true };
+  } catch (err) {
+    console.error('Exception reporting anomaly:', err);
+    return { success: false, error: err };
+  }
+}

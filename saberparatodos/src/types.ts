@@ -52,8 +52,8 @@ export enum AppView {
   LOGIN = 'LOGIN',
   REGISTER = 'REGISTER',
   LOCAL_REPORTS = 'LOCAL_REPORTS',
-  PARTY_LOBBY = 'PARTY_LOBBY',
-  PARTY_JOIN = 'PARTY_JOIN',
+  ROOM_LOBBY = 'ROOM_LOBBY',
+  ROOM_JOIN = 'ROOM_JOIN',
   LOBBY_BROWSER = 'LOBBY_BROWSER'
 }
 
@@ -83,8 +83,8 @@ export interface ExamCompletionData {
   maxTotalTimeMs: number;
   grade: number;
   subject: string;
-  // 🆕 Party Mode extras
-  partyCode?: string;
+  // 🆕 Exam Room Mode extras
+  roomCode?: string;
   sessionId?: string;
   isHost?: boolean; // 🆕 Track if user was host
   focusEvents?: { timestamp: number; type: string; duration?: number }[];

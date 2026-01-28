@@ -1,5 +1,6 @@
 import { fetchQuestions, type AppQuestion } from './api-service';
 import { filterUnansweredQuestions } from './question-memory';
+import { CURRICULUM_CO, normalizeTopic } from '../config/curriculum';
 
 const LOWER_GRADES_MAP: Record<number, number[]> = {
   11: [9, 5, 3],
@@ -15,9 +16,10 @@ const LOWER_GRADES_MAP: Record<number, number[]> = {
 export async function generateSmartExam(
   targetGrade: number,
   subject: string,
-  count: number = 10
+  count: number = 10,
+  period?: number // 🆕 Period filter (1-4)
 ): Promise<AppQuestion[]> {
-  console.log(`🧠 Generating Smart Exam: Grade ${targetGrade}, Subject ${subject}`);
+  console.log(`🧠 Generating Smart Exam: Grade ${targetGrade}, Subject ${subject}, Period: ${period || 'All'}`);
 
   // 1. Calculate distribution
   const diagnosticCount = Math.floor(count * 0.2); // 20% diagnostic
@@ -27,12 +29,48 @@ export async function generateSmartExam(
   const lowerGrades = LOWER_GRADES_MAP[targetGrade] || [];
   const hasDiagnostic = lowerGrades.length > 0 && diagnosticCount > 0;
 
+  // 🆕 Determine allowed topics if period is set
+  let allowedTopics: Set<string> | null = null;
+  if (period) {
+    const gradeCurriculum = CURRICULUM_CO[targetGrade];
+    if (gradeCurriculum) {
+      // Normalize subject to match curriculum keys (remove underscores/hyphens)
+      const normSubj = subject.toLowerCase().replace(/[-_]/g, '');
+      const subjectConfig = gradeCurriculum[normSubj] || gradeCurriculum[subject] || gradeCurriculum[subject.toLowerCase()];
+
+      if (subjectConfig) {
+        const periodConfig = subjectConfig.periods.find(p => p.id === period);
+        if (periodConfig) {
+          allowedTopics = new Set(periodConfig.topics.map(t => normalizeTopic(t)));
+          console.log(`📅 Period ${period} filter active. Allowed topics:`, Array.from(allowedTopics));
+        }
+      }
+    }
+    if (!allowedTopics) {
+      console.warn(`⚠️ Could not find curriculum for G${targetGrade} ${subject} P${period}`);
+    }
+  }
+
   // 3. Fetch primary questions
   let primaryQuestions: AppQuestion[] = [];
   try {
-    // Fetch a bit more to allow for filtering
-    const primaryPool = await fetchQuestions(targetGrade, subject, 1); // Page 1
-    // Maybe Page 2 if needed? For now page 1 is usually enough (7 questions per bundle * 5 bundles = 35)
+    // 🆕 If filtering by period, we need a larger pool to hit matches
+    // Fetch pages 1, 2, and 3 concurrently if period is active
+    const pagesToFetch = period ? [1, 2, 3] : [1];
+
+    const pools = await Promise.all(pagesToFetch.map(p => fetchQuestions(targetGrade, subject, p)));
+    let primaryPool = pools.flat();
+
+    // 🆕 Apply Period Filter
+    if (allowedTopics) {
+      const originalCount = primaryPool.length;
+      primaryPool = primaryPool.filter(q => {
+        if (!q.topics || q.topics.length === 0) return true; // Keep uncategorized to be safe? Or Strict?
+        // Check if ANY of the question topics match ANY of the allowed topics
+        return q.topics.some(t => allowedTopics!.has(normalizeTopic(t)));
+      });
+      console.log(`📉 Filtered by Period ${period}: ${originalCount} -> ${primaryPool.length} questions`);
+    }
 
     // Filter answered
     const filteredPrimary = filterUnansweredQuestions(primaryPool, targetCount);
@@ -71,7 +109,8 @@ export async function generateSmartExam(
   let finalQuestions = [...primaryQuestions, ...diagnosticQuestions];
 
   // If we don't have enough (e.g., fetch errors), try to fill with more primary
-  if (finalQuestions.length < count) {
+  // (Only if NOT strictly filtering by period - if filtering, we might just be out of matching questions)
+  if (finalQuestions.length < count && !period) {
     const needed = count - finalQuestions.length;
     console.log(`⚠️ Not enough questions (${finalQuestions.length}/${count}). Filling with more primary...`);
 

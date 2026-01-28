@@ -3,38 +3,53 @@
 ## 1. Visión del Proyecto
 
 Crear la plataforma de preparación para pruebas de estado (Saber 3° a 11°) más accesible, transparente y eficiente de Colombia.
-**Filosofía:** Plataforma Híbrida (Astro + Supabase)".
-**Sostenibilidad:** Freemium (Ads) + Donaciones.
+**Filosofía:** "Source Available" (Código Público pero Protegido).
+**Sostenibilidad:**
+1.  **B2C (Gratis):** Freemium con Ads para estudiantes individuales.
+2.  **B2B (Institucional):** Planes para Colegios/Academias (Dashboard de Métricas, Gestión de Grupos, Simulacros Controlados).
+3.  **B2D (Developers):** API-as-a-Service (Venta de acceso a la base de preguntas).
 
 ## 2. Arquitectura Técnica (The Hybrid Stack)
 
 * **Frontend:** Astro 5 (Static Site Generation + Server Islands).
-* **Estilos:** TailwindCSS.
-* **Contenido (Preguntas):** Archivos Markdown (`src/content/questions/`) gestionados vía Git.
-* **Backend (BaaS):** Supabase.
-  * **Auth:** Email/Password + OAuth (Google/GitHub).
-  * **Database:** PostgreSQL.
-  * **Logic:** Supabase Edge Functions (Deno/TypeScript) para procesar puntajes y actualizar leaderboards.
+*   **Hosting:** Cloudflare Pages.
+*   **Contenido:** Markdown en Git (Single Source of Truth).
+* **Backend:**
+    *   **BaaS:** Supabase (Auth, DB, Realtime).
+    *   **API Gateway:** Cloudflare Workers (para monetización de API y control de acceso).
 
 ## 3. Estructura de Datos (Supabase Schema)
 
-* `profiles`: (id, nickname, avatar_url, grade_level, is_premium).
+* `profiles`: (id, nickname, avatar_url, grade_level, is_premium, school_id).
+* `organizations`: (id, name, plan_type, max_students).
 * `exam_sessions`: (id, user_id, score, duration, completed_at, json_answers).
-* `feedback`: (id, question_id, user_id, comment, status).
-* `leaderboard_cache`: Tabla materializada para lecturas rápidas sin computar todo el tiempo.
+* `api_keys`: (key, owner_id, plan, rate_limit, usage_count).
 
 ## 4. Estrategia de Monetización
 
-1. **Nivel Gratuito:** Acceso a todos los simulacros + Publicidad en la pantalla de resultados.
-2. **Nivel Donante/Premium:** Sin publicidad + Badge "Supporter" en el Leaderboard + Acceso a estadísticas avanzadas (progreso histórico).
+### A. Modelo Institucional (SaaS B2B)
+Venta de suscripciones anuales a **Colegios y Preicfes**:
+*   **Dashboard del Rector/Profesor:** Ver progreso detallado por estudiante y grupo.
+*   **Simulacros Programados:** El colegio define fecha y hora, y el sistema abre el examen.
+*   **Comparativas:** Ranking interno del colegio vs promedio nacional.
+
+### B. API-as-a-Service (Data Monetization)
+Exponer el banco de preguntas vía REST API (`api.worldexams.org`):
+*   **Free Tier:** 100 req/día, solo preguntas públicas, uso personal/dev.
+*   **Pro Tier:** 10k req/día, acceso a preguntas premium, uso comercial permitido.
+*   **Enterprise:** Sin límites, soporte, endpoints personalizados.
+
+### C. Usuarios Finales (B2C)
+*   **Gratis:** Acceso total a preguntas, con publicidad y funcionalidades básicas.
+*   **Premium:** Sin publicidad, estadísticas avanzadas, modo "Sala de Exámenes" ilimitado.
 
 ## 5. Roadmap
 
 * **Fase 1:** Setup de Astro y renderizado de Markdown.
 * **Fase 2:** Integración Supabase Auth y RLS.
 * **Fase 3:** Lógica de examen y Edge Function `submit-exam`.
-* **Fase 4:** Leaderboard público y sistema de Feedback.
-* **Fase 5:** Integración de Ads y Pasarela de donación.
+* **Fase 4:** **Implementación API Gateway & API Keys.**
+* **Fase 5:** **Dashboard Institucional & Gestión de Organizaciones.**
 
 ---
 
@@ -238,3 +253,16 @@ FUNCTION_SECRET=
 cd saberparatodos
 npm run build && npx wrangler pages deploy dist --project-name=saberparatodos
 ```
+
+---
+
+## 9. Avance Producción de Contenido (Grados 10°-11°)
+
+Se ha completado la generación masiva de contenido base (Protocol v3.0) para fortalecer el banco de `saber-co`.
+
+### Hitos Recientes (Enero 2026)
+*   **Grado 11:** 100% Cobertura (Matemáticas, Lectura, Naturales, Sociales, Inglés).
+*   **Grado 10:**
+    *   ✅ Matemáticas (400 preguntas)
+    *   ✅ Naturales (400 preguntas: Química/Física)
+    *   ✅ Sociales (400 preguntas: Historia/Política)

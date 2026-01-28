@@ -12,6 +12,7 @@
     calculateEnglishProficiency
   } from '../lib/api-service';
   import { getCachedEnglishQuestions, getAnsweredQuestionIds } from '../lib/idb-storage'; // 🆕
+  import { CURRICULUM_CO, normalizeTopic } from '../config/curriculum'; // 🆕 Import Curriculum Logic
 
   let {
     subject: initialSubject,
@@ -19,14 +20,15 @@
     onStart,
     onCancel,
     availableQuestions = [],
-    initialJoinCode = ''
+    initialRoomCode = ''
   } = $props();
 
   // 🆕 Make subject and grade editable
   let selectedSubject = $state(initialSubject || 'Simulacro Completo');
   let selectedGrade = $state(initialGrade);
   let availableSubjects = $state(['Simulacro Completo', 'Matemáticas', 'Lectura Crítica', 'Ciencias Naturales', 'Sociales y Ciudadanas']);
-  let availableGrades = $state([3, 5, 6, 7, 8, 9, 10, 11]);
+
+  let availableGrades = $state([3, 4, 5, 6, 7, 8, 9, 10, 11]);
 
   // 🆕 Detect English Diagnostic Mode (grade = 0 means cross-grade English assessment)
   let isEnglishDiagnosticMode = $derived(initialGrade === 0 || selectedSubject?.includes('Diagnóstico'));
@@ -63,20 +65,22 @@
 
   let questionCount = $state(10);
   let timeOption = $state(0); // 🆕 0 = unlimited, >0 = seconds per question
-  let mode = $state('SOLO'); // 'SOLO' or 'PARTY'
+  let mode = $state('SOLO'); // 'SOLO' or 'ROOM'
+  let examMode = $state('simulacro'); // 🆕 'simulacro' | 'period'
+  let selectedPeriod = $state(1); // 🆕 1, 2, 3, 4
   let useDiagnostic = $state(false);
   let showResetConfirm = $state(false);
-  let partyEnabled = $state(false);
-  let partyTab = $state('crear'); // 'crear' or 'unirse'
-  let partyCode = $state('');
+  let roomEnabled = $state(false);
+  let roomTab = $state('crear'); // 'crear' or 'unirse'
+  let roomCode = $state('');
   let joinCode = $state('');
   let connectedUsers = $state([]);
-  let partyChannel = $state(null);
+  let roomChannel = $state(null);
   let isHost = $state(false);
-  let isCreatingParty = $state(false);
-  let partyError = $state('');
+  let isCreatingRoom = $state(false);
+  let roomError = $state('');
   let copied = $state(false);
-  let sessionId = $state(''); // 🆕 Local session ID for party tracking
+  let sessionId = $state(''); // 🆕 Local session ID for room tracking
   let isReady = $state(false); // 🆕 Guest ready state
   let syncedQuestions = $state([]); // 🆕 Questions from host
   let playerName = $state('Jugador');
@@ -88,17 +92,92 @@
   let syncMethod = $state('none'); // 'p2p', 'realtime', or 'none'
 
   let allStudentsReady = $derived(connectedUsers.length > 0 && connectedUsers.every((u) => Boolean(u?.ready)));
-  let canHostStartParty = $derived(!partyEnabled || !partyCode || !isHost || allStudentsReady);
+  let canHostStartRoom = $derived(!roomEnabled || !roomCode || !isHost || allStudentsReady);
   let readyCount = $derived(connectedUsers.filter((u) => Boolean(u?.ready)).length);
 
   // 🆕 Sync method label
-  let syncMethodLabel = $derived(!partyEnabled || !partyCode
+  let syncMethodLabel = $derived(!roomEnabled || !roomCode
     ? ''
     : p2pConnected
       ? '🔗 P2P'
       : realtimeSubscribeStatus === 'SUBSCRIBED'
         ? '☁️ Realtime'
         : 'conectando…');
+
+  // 🆕 Compute available periods for current subject
+  let currentPeriods = $derived.by(() => {
+    const normSubj = normalizeTopic(selectedSubject);
+    // 🆕 Support Global Periods for Simulacro Completo
+    if (normSubj === 'simulacrocompleto') {
+        return [
+            { id: 1, name: "Periodo 1", topics: [] }, // Topics resolved dynamically
+            { id: 2, name: "Periodo 2", topics: [] },
+            { id: 3, name: "Periodo 3", topics: [] },
+            { id: 4, name: "Periodo 4", topics: [] }
+        ];
+    }
+    return CURRICULUM_CO[selectedGrade]?.[normSubj]?.periods || [];
+  });
+
+  // 🆕 Reset to 'simulacro' if subject doesn't have periods defined
+  $effect(() => {
+    if (examMode === 'period' && currentPeriods.length === 0) {
+      examMode = 'simulacro';
+    }
+  });
+
+  // ... (lines 119-208 unchanged, omitted for brevity) ...
+
+  // 🆕 Refined filtering logic for Create Party
+  // ... (inside createParty function, replacing filtering block) ...
+
+        // 🆕 Filter by Period if enabled
+        if (examMode === 'period') {
+             const periodConfig = currentPeriods.find(p => p.id === selectedPeriod);
+             if (periodConfig) {
+                 // 🆕 Resolve topics: If specific subject, use config. If Simulacro, aggregate ALL subjects for this period.
+                 let periodTopics = periodConfig.topics || [];
+                 const isGlobalSimulacro = normalizeTopic(selectedSubject) === 'simulacrocompleto';
+
+                 if (isGlobalSimulacro) {
+                    // Aggregate topics from ALL subjects for this grade/period
+                    const gradeCurr = CURRICULUM_CO[selectedGrade];
+                    if (gradeCurr) {
+                        Object.values(gradeCurr).forEach(subj => {
+                            const p = subj.periods.find(peri => peri.id === selectedPeriod);
+                            if (p && p.topics) {
+                                periodTopics = [...periodTopics, ...p.topics];
+                            }
+                        });
+                    }
+                    console.log(`🌐 Global Period ${selectedPeriod} topics:`, periodTopics.length);
+                 }
+
+                 const previousCount = filteredPool.length;
+
+                     filteredPool = filteredPool.filter(q => {
+                         // 🆕 Use q.topics array
+                         const topics = q.topics || [];
+                         if (topics.length === 0) {
+                             // Fallback to bundle ID in category
+                             const bundleId = q.category ? q.category.split(' :: ')[1] : '';
+                             if (bundleId) topics.push(bundleId);
+                         }
+
+                         // Check if ANY question topic matches ANY period topic
+                         return topics.some(qTopicRaw => {
+                             const qTopic = normalizeTopic(qTopicRaw);
+                             return periodTopics.some(t => {
+                                 const normalizedT = normalizeTopic(t);
+                                 return qTopic.includes(normalizedT) || normalizedT.includes(qTopic);
+                             });
+                         });
+                     });
+
+                 console.log(`📅 Filtered by Period ${selectedPeriod} (${isGlobalSimulacro ? 'Global' : periodConfig.name}): ${filteredPool.length}/${previousCount} questions`);
+             }
+        }
+
 
   let syncMethodClass = $derived(!partyEnabled || !partyCode
     ? 'text-white/40'
@@ -120,7 +199,7 @@
             ? 'desconectado'
             : 'conectando…');
 
-  let realtimeClass = $derived(!partyEnabled || !partyCode
+  let realtimeClass = $derived(!roomEnabled || !roomCode
     ? 'text-white/40'
     : !isOnline
       ? 'text-red-400'
@@ -138,8 +217,8 @@
 
   let diagnosticGrades = $derived([3, 5, 7, 9].filter(g => g < selectedGrade));
   let memoryStats = $derived(getSubjectMemoryStats(availableQuestions, selectedSubject));
-  let shareUrl = $derived(partyCode ? `${typeof window !== 'undefined' ? window.location.origin : ''}/party?join=${partyCode}` : '');
-  let configLocked = $derived(partyEnabled && partyCode && !isHost);
+  let shareUrl = $derived(roomCode ? `${typeof window !== 'undefined' ? window.location.origin : ''}/sala-examenes?join=${roomCode}` : '');
+  let configLocked = $derived(roomEnabled && roomCode && !isHost);
 
   // 🆕 Debounce timeouts for P2P and DB broadcasts
   let broadcastTimeout = null;
@@ -155,13 +234,13 @@
     }
   }
 
-  async function sharePartyLink() {
+  async function shareRoomLink() {
     if (!shareUrl) return;
     try {
       if (navigator.share) {
         await navigator.share({
-          title: 'Únete a mi Party',
-          text: `Código: ${partyCode}`,
+          title: 'Únete a mi Sala',
+          text: `Código: ${roomCode}`,
           url: shareUrl
         });
         return;
@@ -184,7 +263,7 @@
     }
 
     try {
-      const storedName = localStorage.getItem('party_player_name');
+      const storedName = localStorage.getItem('room_player_name');
       if (storedName && storedName.trim()) playerName = storedName.trim();
     } catch {
       // ignore
@@ -192,9 +271,9 @@
 
     function handleOnline() {
       isOnline = true;
-      if (partyEnabled && partyCode) {
+      if (roomEnabled && roomCode) {
         // Force re-subscribe to ensure we recover after offline periods
-        subscribeToParty({ force: true, reason: 'online' });
+        subscribeToRoom({ force: true, reason: 'online' });
       }
     }
 
@@ -206,10 +285,10 @@
     window.addEventListener('online', handleOnline);
     window.addEventListener('offline', handleOffline);
 
-    if (initialJoinCode) {
-      partyEnabled = true;
-      partyTab = 'unirse';
-      joinCode = initialJoinCode;
+    if (initialRoomCode) {
+      roomEnabled = true;
+      roomTab = 'unirse';
+      joinCode = initialRoomCode;
     }
 
     return () => {
@@ -218,15 +297,15 @@
     };
   });
 
-  function getStudentStorageKey(partyCode) {
-    return `party_student_id:${partyCode}`;
+  function getStudentStorageKey(roomCode) {
+    return `room_student_id:${roomCode}`;
   }
 
-  function ensureStudentIdForParty(partyCode) {
+  function ensureStudentIdForRoom(roomCode) {
     if (studentId) return studentId;
 
     try {
-      const stored = localStorage.getItem(getStudentStorageKey(partyCode));
+      const stored = localStorage.getItem(getStudentStorageKey(roomCode));
       if (stored) {
         studentId = stored;
         return studentId;
@@ -238,7 +317,7 @@
 
     studentId = crypto.randomUUID();
     try {
-      localStorage.setItem(getStudentStorageKey(partyCode), studentId);
+      localStorage.setItem(getStudentStorageKey(roomCode), studentId);
     } catch {
       // ignore
     }
@@ -246,17 +325,17 @@
   }
 
   async function updateMyReadyState(nextReady) {
-    if (!partyEnabled || !partyCode) return;
-    const myId = ensureStudentIdForParty(partyCode);
+    if (!roomEnabled || !roomCode) return;
+    const myId = ensureStudentIdForRoom(roomCode);
 
     const { data, error } = await supabase
       .from('party_sessions')
       .select('students')
-      .eq('party_code', partyCode)
+      .eq('party_code', roomCode)
       .maybeSingle();
 
     if (error || !data) {
-      throw (error ?? new Error('Party no encontrada'));
+      throw (error ?? new Error('Sala no encontrada'));
     }
 
     const students = data.students || [];
@@ -265,7 +344,7 @@
 
     const resolvedName = (playerName || '').trim() || 'Jugador';
     try {
-      localStorage.setItem('party_player_name', resolvedName);
+      localStorage.setItem('room_player_name', resolvedName);
     } catch {
       // ignore
     }
@@ -284,11 +363,11 @@
 
     await supabase.from('party_sessions')
       .update({ students })
-      .eq('party_code', partyCode);
+      .eq('party_code', roomCode);
   }
 
   // Generate 6-char alphanumeric code (matches DB constraint)
-  function generatePartyCode() {
+  function generateRoomCode() {
     const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789';
     let code = '';
     for (let i = 0; i < 6; i++) {
@@ -305,7 +384,7 @@
 
   // Cleanup on destroy
   onDestroy(() => {
-    if (partyChannel) supabase.removeChannel(partyChannel);
+    if (roomChannel) supabase.removeChannel(roomChannel);
 
     // Clear sync interval if exists
     if (syncInterval) clearInterval(syncInterval);
@@ -314,16 +393,16 @@
     if (dbUpdateTimeout) clearTimeout(dbUpdateTimeout);
 
     // 🚨 Only destroy P2P if we are NOT starting the exam (i.e. user cancelled or closed modal)
-    // We can infer this by checking if partyEnabled is off OR if we are just closing modal but keeping session active?
+    // We can infer this by checking if roomEnabled is off OR if we are just closing modal but keeping session active?
     // Actually, App.svelte handles the view switch.
     // If we switch view, this component is destroyed.
     // We need a way to tell if we are proceeding to exam.
-    // For now, let's LEAVE P2P active if partyEnabled is true and partyCode exists.
+    // For now, let's LEAVE P2P active if roomEnabled is true and roomCode exists.
     // App.svelte will handle final cleanup or we rely on page refresh.
     // Better: p2pService is singleton. If we destroy it, it dies for App.svelte too.
-    // So we should ONLY destroy it if we are explicitly leaving the party context.
+    // So we should ONLY destroy it if we are explicitly leaving the room context.
     // If we successfully started (isHost or joined), we want it alive.
-    if (!partyEnabled || !partyCode) {
+    if (!roomEnabled || !roomCode) {
         p2pService.destroy();
     }
   });
@@ -383,6 +462,8 @@
                  if (msg.payload.time_option !== undefined) timeOption = msg.payload.time_option;
                  if (msg.payload.subject) selectedSubject = msg.payload.subject;
                  if (msg.payload.grade) selectedGrade = msg.payload.grade;
+                 if (msg.payload.examMode) examMode = msg.payload.examMode; // 🆕 Sync exam mode
+                 if (msg.payload.period) selectedPeriod = msg.payload.period; // 🆕 Sync period
                  if (msg.payload.questions) {
                      // 🔥 Validate questions before syncing
                      const validQuestions = msg.payload.questions.filter(q =>
@@ -477,7 +558,9 @@
          num_questions: questionCount,
          time_option: timeOption,
          questions: syncedQuestions, // 🔥 Always include questions
-         isEnglishDiagnostic: isEnglishDiagnosticMode // 🆕 Sync English Diagnostic mode to guests
+         isEnglishDiagnostic: isEnglishDiagnosticMode, // 🆕 Sync English Diagnostic mode to guests
+         examMode: examMode, // 🆕 Sync Mode
+         period: selectedPeriod // 🆕 Sync Period
      };
 
      // 🆕 Skip if payload hasn't changed (prevents duplicate broadcasts)
@@ -518,7 +601,9 @@
                    time_option: timeOption,
                    questions: syncedQuestions,
                    host_peer_id: p2pService.isConnected() ? 'connected' : null,
-                   isEnglishDiagnostic: isEnglishDiagnosticMode // 🆕 Sync to DB for Realtime fallback
+                   isEnglishDiagnostic: isEnglishDiagnosticMode, // 🆕 Sync to DB for Realtime fallback
+                   examMode: examMode,
+                   period: selectedPeriod
                  }
                })
                .eq('party_code', partyCode);
@@ -583,6 +668,53 @@
 
           return qSubject === targetSubject;
         });
+
+        // 🆕 Filter by Period if enabled
+        if (examMode === 'period') {
+             const periodConfig = currentPeriods.find(p => p.id === selectedPeriod);
+             if (periodConfig) {
+                 // 🆕 Resolve topics: If specific subject, use config. If Simulacro, aggregate ALL subjects for this period.
+                 let periodTopics = periodConfig.topics || [];
+                 const isGlobalSimulacro = normalizeTopic(selectedSubject) === 'simulacrocompleto';
+
+                 if (isGlobalSimulacro) {
+                    // Aggregate topics from ALL subjects for this grade/period
+                    const gradeCurr = CURRICULUM_CO[selectedGrade];
+                    if (gradeCurr) {
+                        Object.values(gradeCurr).forEach(subj => {
+                            const p = subj.periods.find(peri => peri.id === selectedPeriod);
+                            if (p && p.topics) {
+                                periodTopics = [...periodTopics, ...p.topics];
+                            }
+                        });
+                    }
+                    console.log(`🌐 Global Period ${selectedPeriod} topics:`, periodTopics.length);
+                 }
+
+                 const previousCount = filteredPool.length;
+
+                     filteredPool = filteredPool.filter(q => {
+                         // 🆕 Use q.topics array
+                         const topics = q.topics || [];
+                         if (topics.length === 0) {
+                             // Fallback to bundle ID in category
+                             const bundleId = q.category ? q.category.split(' :: ')[1] : '';
+                             if (bundleId) topics.push(bundleId);
+                         }
+
+                         // Check if ANY question topic matches ANY period topic
+                         return topics.some(qTopicRaw => {
+                             const qTopic = normalizeTopic(qTopicRaw);
+                             return periodTopics.some(t => {
+                                 const normalizedT = normalizeTopic(t);
+                                 return qTopic.includes(normalizedT) || normalizedT.includes(qTopic);
+                             });
+                         });
+                     });
+
+                 console.log(`📅 Filtered by Period ${selectedPeriod} (${isGlobalSimulacro ? 'Global' : periodConfig.name}): ${filteredPool.length}/${previousCount} questions`);
+             }
+        }
 
         console.log(`🎯 Filtered by subject "${selectedSubject}": ${filteredPool.length}/${questionsPool.length} questions`);
 
@@ -706,6 +838,8 @@
           grade: selectedGrade,
           num_questions: questionCount,
           time_option: timeOption,
+          exam_mode: examMode, // 🆕
+          period: selectedPeriod, // 🆕
           difficulty: 'NORMAL',
           questions: syncedQuestions, // 🔥 FIX: Use validated questions
           host_peer_id: peerId
@@ -752,30 +886,30 @@
       // Periodically broadcast config to ensure all guests are synced
       if (syncInterval) clearInterval(syncInterval);
       syncInterval = setInterval(() => {
-          if (partyEnabled && partyCode && syncedQuestions.length > 0) {
+          if (roomEnabled && roomCode && syncedQuestions.length > 0) {
               broadcastConfig();
           }
       }, 3000); // Every 3 seconds
 
     } catch (err) {
-      console.error('Error creating party:', err);
-      partyError = err instanceof Error ? err.message : 'Error al crear la party. Intenta de nuevo.';
-      partyCode = '';
-      // Clean up P2P if party creation failed
+      console.error('Error creating room:', err);
+      roomError = err instanceof Error ? err.message : 'Error al crear la sala. Intenta de nuevo.';
+      roomCode = '';
+      // Clean up P2P if room creation failed
       p2pService.disconnect();
     } finally {
-      isCreatingParty = false;
+      isCreatingRoom = false;
     }
   }
 
-  // Update joinParty to connect P2P
-  async function joinParty() {
+  // Update joinRoom to connect P2P
+  async function joinRoom() {
     if (joinCode.length !== 6) {
-      partyError = 'El código debe tener 6 caracteres';
+      roomError = 'El código debe tener 6 caracteres';
       return;
     }
 
-    partyError = '';
+    roomError = '';
     try {
       const cleanJoinCode = joinCode.trim().toUpperCase();
       const { data, error } = await supabase
@@ -785,30 +919,30 @@
         .maybeSingle();
 
       if (error || !data) {
-        partyError = 'Party no encontrada o expirada';
+        roomError = 'Sala no encontrada o expirada';
         return;
       }
 
       if (data.status && data.status !== 'waiting') {
         if (data.status === 'active') {
-          partyError = 'La party ya inició. Pídele al host un nuevo enlace o espera revancha.';
+          roomError = 'La sala ya inició. Pídele al anfitrión un nuevo enlace o espera revancha.';
         } else {
-          partyError = 'La party ya finalizó.';
+          roomError = 'La sala ya finalizó.';
         }
         return;
       }
 
-      partyCode = cleanJoinCode;
+      roomCode = cleanJoinCode;
       isHost = false;
 
       const resolvedName = (playerName || '').trim() || 'Jugador';
       try {
-        localStorage.setItem('party_player_name', resolvedName);
+        localStorage.setItem('room_player_name', resolvedName);
       } catch {
         // ignore
       }
 
-      const myId = ensureStudentIdForParty(partyCode);
+      const myId = ensureStudentIdForRoom(roomCode);
 
       // Add self
       const students = data.students || [];
@@ -828,7 +962,7 @@
 
       await supabase.from('party_sessions')
         .update({ students })
-        .eq('party_code', partyCode);
+        .eq('party_code', roomCode);
 
       // 🔧 CRÍTICO: Sincronizar TODA la configuración del host
       const config = data.exam_config || {};
@@ -871,6 +1005,8 @@
         selectedGrade = config.grade;
         console.log('🎓 Grado:', selectedGrade);
       }
+      if (config.exam_mode) examMode = config.exam_mode; // 🆕
+      if (config.period) selectedPeriod = config.period; // 🆕
         console.log('⏱️ Tiempo por pregunta:', timeOption === 0 ? 'Sin límite' : `${timeOption}s`);
       }
 
@@ -900,30 +1036,30 @@
       }
 
       // Subscribe to Realtime as fallback or if P2P not available
-      subscribeToParty();
+      subscribeToRoom();
       connectedUsers = students;
       isReady = Boolean(students.find((s) => s?.id === myId)?.ready);
 
     } catch (err) {
-      console.error('Error joining party:', err);
-      partyError = 'Error al unirse';
+      console.error('Error joining room:', err);
+      roomError = 'Error al unirse';
     }
   }
 
   // Update handleStart to P2P Broadcast
-  function handleStart(overrideConfig = null) {
-    if (partyEnabled && !sessionId) {
+  async function handleStart(overrideConfig = null) {
+    if (roomEnabled && !sessionId) {
       sessionId = crypto.randomUUID();
     }
 
     // BLOCK Guest from starting if they triggered it manually (should be disabled in UI now anyway)
-    if (partyEnabled && partyCode && !isHost && !overrideConfig) {
+    if (roomEnabled && roomCode && !isHost && !overrideConfig) {
       console.warn('❌ Guest tried to start manually');
       return;
     }
 
-    if (partyEnabled && partyCode && isHost && !allStudentsReady) {
-      partyError = 'Espera a que todos los jugadores marquen “Listo”';
+    if (roomEnabled && roomCode && isHost && !allStudentsReady) {
+      roomError = 'Espera a que todos los jugadores marquen “Listo”';
       return;
     }
 
@@ -934,7 +1070,7 @@
         : (timeOption > 0 ? timeOption * questionCount : 0);
 
     // 🆕 P2P Broadcast Start (Only Host sends this)
-    if (isHost && partyEnabled) {
+    if (isHost && roomEnabled) {
         p2pService.broadcast('START_EXAM', {
             questions: finalQuestions,
             timeLimitSeconds: finalTimeLimit,
@@ -942,41 +1078,173 @@
         });
     }
 
+    // 🆕 FETCH QUESTIONS FOR SOLO PERIOD MODE
+    let soloQuestions = undefined;
+    if (!roomEnabled && !overrideConfig && examMode === 'period') {
+         // We need to fetch and filter questions just like in createRoom
+         // Reuse the logic? Or just call API
+         try {
+             // Fetch all questions for grade
+             const allQ = await fetchAllQuestionsForGrade(selectedGrade);
+             const normalizeSubject = (s) => s?.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[\s_-]/g, '');
+             const targetSubject = normalizeSubject(selectedSubject);
+
+             // Filter by Subject (skip if Simulacro Completo)
+             let filtered = allQ;
+             if (selectedSubject !== 'Simulacro Completo') {
+                 filtered = allQ.filter(q => {
+                     const qSubject = normalizeSubject(q.category?.split(' :: ')[0] || '');
+                     return qSubject === targetSubject;
+                 });
+             }
+
+             // Filter by Period
+             const periodConfig = currentPeriods.find(p => p.id === selectedPeriod);
+             if (periodConfig) {
+                 let periodTopics = periodConfig.topics || [];
+                 const isGlobalSimulacro = normalizeTopic(selectedSubject) === 'simulacrocompleto';
+
+                 if (isGlobalSimulacro) {
+                    const gradeCurr = CURRICULUM_CO[selectedGrade];
+                    if (gradeCurr) {
+                        Object.values(gradeCurr).forEach(subj => {
+                            const p = subj.periods.find(peri => peri.id === selectedPeriod);
+                            if (p && p.topics) {
+                                periodTopics = [...periodTopics, ...p.topics];
+                            }
+                        });
+                    }
+                 }
+
+                 filtered = filtered.filter(q => {
+                     const topics = q.topics || [];
+                     if (topics.length === 0) {
+                         const bundleId = q.category ? q.category.split(' :: ')[1] : '';
+                         if (bundleId) topics.push(bundleId);
+                     }
+
+                     return topics.some(qTopicRaw => {
+                         const qTopic = normalizeTopic(qTopicRaw);
+                         return periodTopics.some(t => {
+                             const normalizedT = normalizeTopic(t);
+                             return qTopic.includes(normalizedT) || normalizedT.includes(qTopic);
+                         });
+                     });
+                 });
+             }
+
+             // 🆕 Deep Search (Pages 2-3) if insufficient questions
+             // Only for specific subjects to avoid hammering API (Simulacro usually has enough or we accept what we have)
+             // 🆕 Deep Search (Pages 1-2) if insufficient questions
+             if (filtered.length < questionCount) {
+                  console.log(`🔍 SOLO: Insufficient period questions (${filtered.length}/${questionCount}). Deep Searching...`);
+                  try {
+                       let extraPools = [];
+                       const extraPages = [1, 2]; // Fetch pages 1 and 2 (page 1 again to catch updates/cache misses, page 2 for new)
+
+                       if (selectedSubject === 'Simulacro Completo') {
+                            // Fetch from ALL major subjects
+                            const subjects = ['matematicas', 'lectura_critica', 'ciencias_naturales', 'sociales_y_ciudadanas', 'ingles'];
+                            console.log('🌐 Global Deep Search for:', subjects);
+                            // We do this sequentially or batched to avoid too many requests? Parallel is 5 * 2 = 10 requests. A bit heavy but okay for "Deep Search".
+                            const promises = [];
+                            subjects.forEach(subj => {
+                                extraPages.forEach(p => promises.push(fetchQuestions(selectedGrade, subj, p)));
+                            });
+                            extraPools = await Promise.all(promises);
+                       } else {
+                            // Specific subject
+                            const searchSubject = targetSubject.includes('diagnostico') ? 'ingles' : targetSubject;
+                            extraPools = await Promise.all(extraPages.map(p => fetchQuestions(selectedGrade, searchSubject, p)));
+                       }
+
+                       const flatExtras = extraPools.flat();
+
+                       // Apply same filters to extras
+                       if (periodConfig) {
+                           const periodTopics = periodConfig.topics || [];
+                           const extrasFiltered = flatExtras.filter(q => {
+                               if (!q) return false;
+                               const topics = q.topics || [];
+                               if (topics.length === 0) {
+                                   const bundleId = q.category ? q.category.split(' :: ')[1] : '';
+                                   if (bundleId) topics.push(bundleId);
+                               }
+                               return topics.some(qTopicRaw => {
+                                   const qTopic = normalizeTopic(qTopicRaw);
+                                   return periodTopics.some(t => {
+                                       const normalizedT = normalizeTopic(t);
+                                       return qTopic.includes(normalizedT) || normalizedT.includes(qTopic);
+                                   });
+                               });
+                           });
+
+                           // Add unique new questions
+                           const currentIds = new Set(filtered.map(q => q.id));
+                           extrasFiltered.forEach(q => {
+                               if (!currentIds.has(q.id)) {
+                                   filtered.push(q);
+                                   currentIds.add(q.id);
+                               }
+                           });
+                           console.log(`✅ Deep Search added ${extrasFiltered.length} questions.`);
+                       }
+                  } catch (e) {
+                      console.error('Deep search error:', e);
+                  }
+             }
+
+             // Shuffle and slice
+             const shuffled = filtered.sort(() => 0.5 - Math.random()).slice(0, questionCount);
+             if (shuffled.length > 0) {
+                 soloQuestions = shuffled;
+                 console.log(`✅ Loaded ${soloQuestions.length} questions for Period Exam`);
+             } else {
+                 alert('No se encontraron preguntas para este periodo. Intenta otro.');
+                 return;
+             }
+         } catch (e) {
+             console.error("Error fetching period questions:", e);
+             alert('Error cargando preguntas del periodo.');
+             return;
+         }
+    }
+
     onStart({
-      count: finalQuestions.length || questionCount,
-      mode: partyEnabled ? 'PARTY' : 'SOLO',
+      count: soloQuestions ? soloQuestions.length : (finalQuestions.length || questionCount),
+      mode: roomEnabled ? 'ROOM' : 'SOLO',
       useDiagnostic: useDiagnostic,
-      partyCode: partyCode,
+      roomCode: roomCode,
       isHost: isHost,
-      sessionId: partyEnabled ? sessionId : undefined,
+      sessionId: roomEnabled ? sessionId : undefined,
       timeLimitSeconds: finalTimeLimit,
       startedAt: overrideConfig?.startedAt, // 🆕 Pass fixed start time if Guest
       subject: selectedSubject,
       grade: selectedGrade,
-      questions: partyEnabled && finalQuestions.length > 0 ? finalQuestions : undefined
+      questions: roomEnabled && finalQuestions.length > 0 ? finalQuestions : soloQuestions // 🆕 Pass solo questions if period mode
     });
   }
 
-  // Supabase Realtime Subscription for Party
-  function subscribeToParty(opts = {}) {
+  // Supabase Realtime Subscription for Room
+  function subscribeToRoom(opts = {}) {
     const { force = false } = opts;
 
-    if (!partyCode) return;
+    if (!roomCode) return;
 
-    if (partyChannel) {
-      supabase.removeChannel(partyChannel);
+    if (roomChannel) {
+      supabase.removeChannel(roomChannel);
     }
 
     if (force) {
       realtimeSubscribeStatus = 'CONNECTING';
     }
 
-    partyChannel = supabase.channel(`party:${partyCode}`)
+    roomChannel = supabase.channel(`room:${roomCode}`)
       .on('postgres_changes', {
         event: 'UPDATE',
         schema: 'public',
         table: 'party_sessions',
-        filter: `party_code=eq.${partyCode}`
+        filter: `party_code=eq.${roomCode}`
       }, (payload) => {
         console.log('🔄 Party session updated:', payload);
 
@@ -999,6 +1267,8 @@
             questionCount = config.num_questions;
             console.log('📊 [Realtime] Cantidad de preguntas:', questionCount);
           }
+          if (config.exam_mode) examMode = config.exam_mode; // 🆕
+          if (config.period) selectedPeriod = config.period; // 🆕
           if (config.time_option !== undefined) {
             timeOption = config.time_option;
             console.log('⏱️ [Realtime] Tiempo por pregunta:', timeOption === 0 ? 'Sin límite' : `${timeOption}s`);
@@ -1035,12 +1305,12 @@
 
   // Refresh connected users manually
   async function refreshStudents() {
-    if (!partyCode) return;
+    if (!roomCode) return;
     try {
       const { data, error } = await supabase
         .from('party_sessions')
         .select('students')
-        .eq('party_code', partyCode)
+        .eq('party_code', roomCode)
         .maybeSingle();
 
       if (data && Array.isArray(data.students)) {
@@ -1079,8 +1349,8 @@
     </h2>
 
     <div class="space-y-6 relative z-10">
-      <!-- 🆕 Grade and Subject Selection (Host only, before creating party) -->
-      {#if !partyCode || isHost}
+      <!-- 🆕 Grade and Subject Selection (Host only, before creating room) -->
+      {#if !roomCode || isHost}
         {#if isEnglishDiagnosticMode}
           <!-- 🇬🇧 English Diagnostic Mode Header -->
           <div class="p-5 bg-gradient-to-r from-blue-900/30 via-purple-900/20 to-blue-900/30 border border-blue-500/30 rounded-xl">
@@ -1163,20 +1433,9 @@
           <div class="space-y-4 p-4 bg-white/5 border border-white/10 rounded-lg">
             <h3 class="text-xs uppercase tracking-widest text-emerald-400 font-bold">📚 Configuración del Examen</h3>
 
-            <!-- Grade Selector -->
-            <div>
-              <label class="block text-xs uppercase tracking-widest opacity-60 mb-2">Grado</label>
-              <div class="grid grid-cols-5 gap-2">
-                {#each availableGrades as grade}
-                  <button
-                    onclick={() => selectedGrade = grade}
-                    disabled={configLocked}
-                    class="px-3 py-2 rounded-lg text-sm font-bold transition-all duration-200 {selectedGrade === grade ? 'bg-emerald-500 text-black' : 'bg-white/5 text-white/60 hover:bg-white/10'} {configLocked ? 'opacity-50 cursor-not-allowed' : ''}"
-                  >
-                    {grade}°
-                  </button>
-                {/each}
-              </div>
+            <!-- Grade Selector Removed (Redundant) -->
+            <div class="flex items-center justify-between mb-4">
+               <span class="text-xs font-bold text-white/40 bg-white/5 px-2 py-1 rounded">Grado {selectedGrade}°</span>
             </div>
 
             <!-- Subject Selector -->
@@ -1193,14 +1452,68 @@
                 {/each}
               </select>
             </div>
+
+            <!-- 🆕 Period Mode Selector -->
+            {#if currentPeriods.length > 0}
+
+              <!-- MEN Guidelines Notice -->
+              <div class="mt-4 mb-2 flex items-start gap-2 p-2 bg-yellow-500/10 border border-yellow-500/20 rounded">
+                <div class="text-lg">🏛️</div>
+                <p class="text-[10px] text-yellow-200/80 leading-relaxed">
+                  <strong class="block text-yellow-400 font-bold mb-0.5">Lineamientos M.E.N. Colombia</strong>
+                  Los periodos están alineados con los DBA (Derechos Básicos de Aprendizaje) vigentes. Selecciona el periodo actual de tu colegio.
+                </p>
+              </div>
+
+              <div class="p-3 bg-blue-900/20 border border-blue-500/20 rounded-lg">
+                <label class="block text-xs uppercase tracking-widest text-blue-400 mb-2 font-bold">Modo de Examen</label>
+                <div class="flex gap-2 mb-3">
+                  <button
+                    onclick={() => examMode = 'simulacro'}
+                    disabled={configLocked}
+                    class="flex-1 py-2 text-xs font-bold uppercase tracking-widest rounded transition-all {examMode === 'simulacro' ? 'bg-blue-600 text-white' : 'bg-white/5 text-white/60 hover:bg-white/10'}"
+                  >
+                    Simulacro
+                  </button>
+                  <button
+                    onclick={() => examMode = 'period'}
+                    disabled={configLocked}
+                    class="flex-1 py-2 text-xs font-bold uppercase tracking-widest rounded transition-all {examMode === 'period' ? 'bg-blue-600 text-white' : 'bg-white/5 text-white/60 hover:bg-white/10'}"
+                  >
+                    Por Periodo
+                  </button>
+                </div>
+
+                {#if examMode === 'simulacro'}
+                   <div class="text-center py-2 text-[10px] uppercase font-bold text-white/40 tracking-widest" transition:slide>
+                      Evaluando: Todo el Año
+                   </div>
+                {/if}
+
+                {#if examMode === 'period'}
+                  <div class="grid grid-cols-2 gap-2" transition:slide>
+                    {#each currentPeriods as period}
+                      <button
+                        onclick={() => selectedPeriod = period.id}
+                        disabled={configLocked}
+                        class="p-2 rounded border text-left transition-all {selectedPeriod === period.id ? 'bg-blue-500/20 border-blue-400 text-blue-200' : 'bg-black/20 border-transparent text-white/40 hover:bg-white/5'}"
+                      >
+                        <div class="text-[10px] uppercase font-bold opacity-60">Periodo {period.id}</div>
+                        <div class="text-xs truncate" title={period.name}>{period.name.replace(`Periodo ${period.id}: `, '')}</div>
+                      </button>
+                    {/each}
+                  </div>
+                {/if}
+              </div>
+            {/if}
           </div>
         {/if}
       {/if}
 
       <!-- Subject Display (for guests) -->
-      {#if partyCode && !isHost}
+      {#if roomCode && !isHost}
         <div class="text-center p-4 bg-white/5 border border-white/10 rounded-lg">
-          <span class="text-xs uppercase tracking-widest opacity-60">Configuración del Host</span>
+          <span class="text-xs uppercase tracking-widest opacity-60">Configuración del Anfitrión</span>
           {#if isEnglishDiagnosticMode}
             <h3 class="text-xl font-bold text-blue-400 mt-2">Inglés Diagnóstico</h3>
             <p class="text-sm text-white/60 mt-1">Evaluación de Nivel A1-B2+</p>
@@ -1267,8 +1580,8 @@
         </div>
       </div>
 
-      <!-- Time Config - Only for Party Mode -->
-      {#if partyEnabled}
+      <!-- Time Config - Only for Room Mode -->
+      {#if roomEnabled}
       <div class="space-y-3" transition:fade>
         <label class="text-xs uppercase tracking-widest opacity-60 block">⏱️ Tiempo por Pregunta</label>
         <div class="grid grid-cols-3 gap-3">
@@ -1314,63 +1627,63 @@
       </div>
       {/if}
 
-      <!-- Party Mode Toggle -->
+      <!-- Room Mode Toggle -->
       <div class="p-4 bg-purple-500/10 border border-purple-500/30 rounded-lg">
         <div class="flex items-center gap-3 mb-2">
           <button
-            class="relative inline-flex h-6 w-11 flex-shrink-0 cursor-pointer rounded-full border-2 border-transparent transition-colors duration-200 ease-in-out focus:outline-none {partyEnabled ? 'bg-purple-500' : 'bg-white/20'}"
+            class="relative inline-flex h-6 w-11 flex-shrink-0 cursor-pointer rounded-full border-2 border-transparent transition-colors duration-200 ease-in-out focus:outline-none {roomEnabled ? 'bg-purple-500' : 'bg-white/20'}"
             role="switch"
-            aria-checked={partyEnabled}
-            onclick={() => { partyEnabled = !partyEnabled; if (!partyEnabled) { partyCode = ''; connectedUsers = []; } }}
+            aria-checked={roomEnabled}
+            onclick={() => { roomEnabled = !roomEnabled; if (!roomEnabled) { roomCode = ''; connectedUsers = []; } }}
           >
             <span
               aria-hidden="true"
-              class="pointer-events-none inline-block h-5 w-5 transform rounded-full bg-white shadow ring-0 transition duration-200 ease-in-out {partyEnabled ? 'translate-x-5' : 'translate-x-0'}"
+              class="pointer-events-none inline-block h-5 w-5 transform rounded-full bg-white shadow ring-0 transition duration-200 ease-in-out {roomEnabled ? 'translate-x-5' : 'translate-x-0'}"
             ></span>
           </button>
           <div>
             <h4 class="text-sm font-bold text-purple-400 uppercase tracking-widest">
-              🎉 Party Mode
-              <span class="ml-2 text-[10px] {partyEnabled ? 'text-purple-300' : 'text-white/30'}">
-                {partyEnabled ? 'ACTIVADO' : 'DESACTIVADO'}
+              👥 Sala de Exámenes
+              <span class="ml-2 text-[10px] {roomEnabled ? 'text-purple-300' : 'text-white/30'}">
+                {roomEnabled ? 'ACTIVADA' : 'DESACTIVADA'}
               </span>
             </h4>
           </div>
         </div>
 
-        {#if partyEnabled}
+        {#if roomEnabled}
           <div class="mt-4 space-y-4" transition:fade>
             <!-- Tabs -->
             <div class="flex gap-2">
               <button
-                class="flex-1 py-2 text-xs font-bold uppercase tracking-widest rounded transition-all {partyTab === 'crear' ? 'bg-purple-500 text-white' : 'bg-white/10 text-white/60 hover:bg-white/20'}"
-                onclick={() => partyTab = 'crear'}
+                class="flex-1 py-2 text-xs font-bold uppercase tracking-widest rounded transition-all {roomTab === 'crear' ? 'bg-purple-500 text-white' : 'bg-white/10 text-white/60 hover:bg-white/20'}"
+                onclick={() => roomTab = 'crear'}
               >
-                Crear Party
+                Crear Sala
               </button>
               <button
-                class="flex-1 py-2 text-xs font-bold uppercase tracking-widest rounded transition-all {partyTab === 'unirse' ? 'bg-purple-500 text-white' : 'bg-white/10 text-white/60 hover:bg-white/20'}"
-                onclick={() => partyTab = 'unirse'}
+                class="flex-1 py-2 text-xs font-bold uppercase tracking-widest rounded transition-all {roomTab === 'unirse' ? 'bg-purple-500 text-white' : 'bg-white/10 text-white/60 hover:bg-white/20'}"
+                onclick={() => roomTab = 'unirse'}
               >
                 Unirse
               </button>
             </div>
 
-            {#if partyTab === 'crear'}
-              {#if !partyCode}
+            {#if roomTab === 'crear'}
+              {#if !roomCode}
                 <button
-                  onclick={createParty}
-                  disabled={isCreatingParty}
+                  onclick={createRoom}
+                  disabled={isCreatingRoom}
                   class="w-full py-3 bg-purple-600 hover:bg-purple-700 text-white font-bold uppercase tracking-widest rounded transition-all disabled:opacity-50"
                 >
-                  {isCreatingParty ? 'Creando...' : '✨ Generar Código'}
+                  {isCreatingRoom ? 'Creando...' : '✨ Generar Código'}
                 </button>
               {:else}
-                <!-- Party Created -->
+                <!-- Room Created -->
                 <div class="space-y-3">
                   <div class="text-center">
-                    <span class="text-xs uppercase tracking-widest opacity-60">Código de Sesión</span>
-                    <p class="text-4xl font-black text-purple-400 font-mono">{partyCode}</p>
+                    <span class="text-xs uppercase tracking-widest opacity-60">Código de Sala</span>
+                    <p class="text-4xl font-black text-purple-400 font-mono">{roomCode}</p>
                   </div>
 
                   <div class="flex gap-2">
@@ -1381,7 +1694,7 @@
                       class="flex-1 px-3 py-2 bg-black/50 border border-white/10 rounded text-xs text-purple-300 font-mono"
                     />
                     <button
-                      onclick={sharePartyLink}
+                      onclick={shareRoomLink}
                       class="px-4 py-2 rounded text-xs font-bold uppercase bg-white/10 hover:bg-white/20"
                       aria-label="Compartir enlace"
                       title="Compartir"
@@ -1451,12 +1764,12 @@
               {/if}
             {:else}
               <!-- Join Mode -->
-              {#if partyCode}
+              {#if roomCode}
                  <!-- Waiting Room for Guest -->
                  <div class="text-center space-y-4 py-4">
                     <div class="animate-pulse">
                       <p class="text-xs uppercase tracking-widest opacity-60 mb-1">Conectado a Sala</p>
-                      <p class="text-3xl font-black font-mono text-purple-400">{partyCode}</p>
+                      <p class="text-3xl font-black font-mono text-purple-400">{roomCode}</p>
                     </div>
 
                     {#if syncMethodLabel}
@@ -1509,7 +1822,7 @@
 
                     <button
                       onclick={async () => {
-                         partyError = '';
+                         roomError = '';
                          try {
                            isUpdatingReady = true;
                            const nextReady = !isReady;
@@ -1517,7 +1830,7 @@
                            await updateMyReadyState(nextReady);
                          } catch (e) {
                            console.error('Failed to update ready state:', e);
-                           partyError = 'No se pudo actualizar el estado de listo';
+                           roomError = 'No se pudo actualizar el estado de listo';
                          } finally {
                            isUpdatingReady = false;
                          }
@@ -1549,7 +1862,7 @@
                   class="w-full px-4 py-3 bg-black/50 border border-white/10 rounded text-center text-2xl font-mono tracking-[0.3em] uppercase focus:outline-none focus:border-purple-500"
                 />
                 <button
-                  onclick={joinParty}
+                  onclick={joinRoom}
                   disabled={joinCode.length !== 6}
                   class="w-full py-3 bg-purple-600 hover:bg-purple-700 text-white font-bold uppercase tracking-widest rounded transition-all disabled:opacity-50"
                 >
@@ -1559,15 +1872,15 @@
               {/if}
             {/if}
 
-            {#if partyError}
-              <p class="text-xs text-red-400 text-center">{partyError}</p>
+            {#if roomError}
+              <p class="text-xs text-red-400 text-center">{roomError}</p>
             {/if}
           </div>
         {/if}
       </div>
 
-      <!-- Diagnostic Toggle (Only for SOLO without Party AND not in English diagnostic mode) -->
-      {#if !partyEnabled && !isEnglishDiagnosticMode}
+      <!-- Diagnostic Toggle (Only for SOLO without Room AND not in English diagnostic mode) -->
+      {#if !roomEnabled && !isEnglishDiagnosticMode}
         <div class="p-4 bg-[#121212]/50 border border-emerald-500/30 rounded-lg relative overflow-hidden group" transition:fade>
           <div class="absolute top-0 right-0 p-2 opacity-20 group-hover:opacity-40 transition-opacity">
             <svg class="w-12 h-12 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -1624,7 +1937,7 @@
 
       <!-- Actions -->
       <div class="flex gap-3 pt-4">
-        {#if !isHost && partyCode}
+        {#if !isHost && roomCode}
            <!-- Guest Actions (Already handled in Join Mode view) -->
            <button
             class="w-full py-3 border border-white/20 rounded hover:bg-white/10 transition-colors uppercase text-xs tracking-widest opacity-60 hover:opacity-100"
@@ -1642,15 +1955,15 @@
           <button
             class="flex-1 py-3 bg-gradient-to-r from-[#FCD116] via-[#003893] to-[#CE1126] text-white font-bold uppercase tracking-widest text-xs rounded hover:opacity-90 transition-opacity shadow-lg"
             onclick={() => {
-              if (partyEnabled && !isHost) return;
+              if (roomEnabled && !isHost) return;
               handleStart();
             }}
-            disabled={(partyEnabled && !partyCode) || (partyEnabled && partyCode && isHost && !canHostStartParty) || (partyEnabled && partyCode && !isHost)}
+            disabled={(roomEnabled && !roomCode) || (roomEnabled && roomCode && isHost && !canHostStartRoom) || (roomEnabled && roomCode && !isHost)}
           >
-            {partyEnabled && partyCode
+            {roomEnabled && roomCode
               ? (isHost
-                  ? (canHostStartParty ? '🚀 Iniciar Party' : '⏳ Esperando listos')
-                  : '⏳ Esperando al Host')
+                  ? (canHostStartRoom ? '🚀 Iniciar Sala' : '⏳ Esperando listos')
+                  : '⏳ Esperando al Anfitrión')
               : 'Comenzar'}
           </button>
         {/if}

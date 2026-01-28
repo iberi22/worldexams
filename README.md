@@ -2,7 +2,7 @@
 
 > Open source platform for standardized exam practice across the globe
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: PolyForm Shield](https://img.shields.io/badge/License-PolyForm%20Shield%201.0.0-blue.svg)](LICENSE.md)
 [![Rust](https://img.shields.io/badge/rust-1.70+-orange.svg)](https://www.rust-lang.org)
 [![TypeScript](https://img.shields.io/badge/typescript-5.0+-blue.svg)](https://www.typescriptlang.org)
 
@@ -280,7 +280,7 @@ This project is supported by:
 ## 📊 Statistics
 
 - **Countries:** 6+ active platforms
-- **Questions:** 15,000+ practice questions
+- **Questions:** 16,000+ practice questions (Updated: Jan 2026)
 - **English Capabilities:** CEFR aligned (A1-B2), Part-based metadata, AI Study Plans (NotebookLM).
 - **English Content:** 258 bundles (8 universal, 250 Colombia-specific) + automated metadata extraction.
 - **Users:** Growing daily

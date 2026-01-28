@@ -1,11 +1,13 @@
 <script lang="ts">
   import { onMount, onDestroy } from 'svelte';
-  import { fly } from 'svelte/transition'; // 🆕 Transition
+  import { fade, fly, scale } from 'svelte/transition'; // 🆕 Transition
   import type { Question, QuestionResultData, ExamCompletionData } from '../types';
   import { supabase } from '../lib/supabase'; // 🆕 Import Supabase
   import { p2pService } from '../lib/p2p-service'; // 🆕 P2P Service
   import FlashlightCard from './FlashlightCard.svelte';
   import MathRenderer from './MathRenderer.svelte';
+  import { reportQuestionAnomaly } from '../lib/api-service'; // Import reporting function
+  import type { APIQuestion } from '../lib/api-service'; // 🆕 APIQuestion type
   import { createFocusTracker, type FocusTracker } from '../lib/focus-tracker'; // 🆕 Focus Tracker
 
   // Props
@@ -15,9 +17,9 @@
   export let grade: number = 0;
   export let subject: string = 'General';
 
-  // Party Mode Props
-  export let partyCode: string | null = null;
-  export let partyChannel: any | null = null;
+  // Exam Room Mode Props
+  export let roomCode: string | null = null;
+  export let roomChannel: any | null = null;
   export let isHost: boolean = false;
   export let sessionId: string | null = null; // 🆕 Local session ID
   export let timeLimitSeconds: number = 0; // 🆕 Time limit from config
@@ -56,14 +58,14 @@
   let answers: Record<string | number, string> = {};
   let timer: any;
 
-  // 🆕 Party Mode: synced countdown (use DB started_at as anchor)
-  let partySyncChannel: any | null = null;
-  let partyStartedAtMs: number | null = null;
-  let partyEndedAtMs: number | null = null;
-  let partyCurrentQuestion: number | null = null;
+  // 🆕 Exam Room Mode: synced countdown (use DB started_at as anchor)
+  let roomSyncChannel: any | null = null;
+  let roomStartedAtMs: number | null = null;
+  let roomEndedAtMs: number | null = null;
+  let roomCurrentQuestion: number | null = null;
   let finishTriggered = false;
 
-  // 🆕 Party Mode: per-question countdown (UI)
+  // 🆕 Exam Room Mode: per-question countdown (UI)
   let questionTimeLeft = 0;
 
   // 🆕 Focus Alerts for Host
@@ -120,9 +122,9 @@
     return safeOptions[0]?.id;
   })();
 
-  // 🆕 Party Mode Broadcast Logic
-  async function broadcastPartyState(status: 'active' | 'finished', index: number) {
-      if (!isHost || !partyCode) return;
+  // 🆕 Exam Room Mode Broadcast Logic
+  async function broadcastRoomState(status: 'active' | 'finished', index: number) {
+      if (!isHost || !roomCode) return;
 
       const broadcastPayload = {
         status,
@@ -140,14 +142,14 @@
         const { error } = await supabase
           .from('party_sessions')
           .update(updatePayload)
-          .eq('party_code', partyCode);
+          .eq('party_code', roomCode);
 
         if (error) {
           // 🆕 Handle RLS policy violations gracefully
           if (error.code === '42501') {
             console.warn('⚠️ RLS policy blocked update (anonymous user). Using P2P fallback.');
           } else {
-            console.error('Error updating party state:', error);
+            console.error('Error updating room state:', error);
           }
         }
       } catch (dbErr) {
@@ -155,9 +157,9 @@
       }
 
       // 2. Broadcast Event (Realtime) - Always attempt even if DB fails
-      if (partyChannel) {
+      if (roomChannel) {
         try {
-          partyChannel.send({
+          roomChannel.send({
             type: 'broadcast',
             event: 'game_state_update',
             payload: broadcastPayload
@@ -168,29 +170,29 @@
       }
   }
 
-  function startSyncedPartyTimerIfReady() {
-    if (!partyCode) return;
+  function startSyncedRoomTimerIfReady() {
+    if (!roomCode) return;
     if (!(timeLimitSeconds > 0)) return;
-    if (!partyStartedAtMs) return;
+    if (!roomStartedAtMs) return;
 
-    partyEndedAtMs = partyStartedAtMs + (timeLimitSeconds * 1000);
+    roomEndedAtMs = roomStartedAtMs + (timeLimitSeconds * 1000);
 
     // Derive per-question duration from total/questions.
-    // In Party Mode this should match host's time_option.
+    // In Exam Room Mode this should match host's time_option.
     const timePerQuestionMs = Math.max(1, Math.ceil((timeLimitSeconds * 1000) / effectiveQuestionCount));
 
     if (timer) clearInterval(timer);
 
     // Update at sub-second precision so UI feels responsive, but use ceil() so everyone hits 0 together.
     timer = setInterval(() => {
-      const remainingMs = Math.max(0, (partyEndedAtMs ?? 0) - Date.now());
+      const remainingMs = Math.max(0, (roomEndedAtMs ?? 0) - Date.now());
       const nextSeconds = Math.ceil(remainingMs / 1000);
       timeLeft = nextSeconds;
 
       // Per-question countdown (UI-only)
       // Uses the shared started_at anchor + current question index.
-      const qIndex = Math.max(0, Math.min(activeQuestions.length - 1, partyCurrentQuestion ?? currentIdx));
-      const questionStartMs = (partyStartedAtMs ?? Date.now()) + (qIndex * timePerQuestionMs);
+      const qIndex = Math.max(0, Math.min(activeQuestions.length - 1, roomCurrentQuestion ?? currentIdx));
+      const questionStartMs = (roomStartedAtMs ?? Date.now()) + (qIndex * timePerQuestionMs);
       const questionEndMs = questionStartMs + timePerQuestionMs;
       const qRemainingMs = Math.max(0, questionEndMs - Date.now());
       questionTimeLeft = Math.ceil(qRemainingMs / 1000);
@@ -204,7 +206,7 @@
   }
 
   // Effect to broadcast whenever currentIdx changes
-  $: if (isHost && partyCode && activeQuestions.length > 0) {
+  $: if (isHost && roomCode && activeQuestions.length > 0) {
       // Create a dedicated effect for broadcasting index changes
       // Using a reactive statement that depends on currentIdx
       // De-bounce slightly if needed, but here immediate is fine
@@ -269,6 +271,39 @@
     }
   }
 
+  // Reporting State
+  let showReportModal = false;
+  let isReporting = false;
+  let reportType = '';
+  let reportDetails = '';
+  let showReportToast = false;
+
+  async function handleReport() {
+      if (!reportType) return;
+
+      isReporting = true;
+      const currentQ = activeQuestions[currentIdx];
+
+      const result = await reportQuestionAnomaly(
+          currentQ.id,
+          reportType as any,
+          reportDetails
+      );
+
+      isReporting = false;
+      showReportModal = false;
+      reportType = '';
+      reportDetails = '';
+
+      if (result.success) {
+          showReportToast = true;
+          setTimeout(() => showReportToast = false, 3000);
+      } else {
+          alert('Error enviando reporte via Supabase. (La tabla question_reports podría no existir)');
+      }
+  }
+
+  // --- Constants ---
   onMount(() => {
     loadProgress();
 
@@ -276,7 +311,7 @@
     if (startedAt) {
       const ms = Date.parse(startedAt);
       if (!Number.isNaN(ms)) {
-        partyStartedAtMs = ms;
+        roomStartedAtMs = ms;
         examStartTime = ms;
         console.log('🏁 ExamView synced via prop startedAt:', startedAt);
       }
@@ -288,15 +323,15 @@
     }
     questionStartTime = Date.now();
 
-    // 🆕 Party Mode: Subscribe to DB updates to sync countdown + forced finish
-    if (partyCode) {
-      partySyncChannel = supabase
-        .channel(`party-exam:${partyCode}`)
+    // 🆕 Exam Room Mode: Subscribe to DB updates to sync countdown + forced finish
+    if (roomCode) {
+      roomSyncChannel = supabase
+        .channel(`party-exam:${roomCode}`)
         .on('postgres_changes', {
           event: 'UPDATE',
           schema: 'public',
           table: 'party_sessions',
-          filter: `party_code=eq.${partyCode}`
+          filter: `party_code=eq.${roomCode}`
         }, (payload) => {
           const next = payload?.new as any;
           if (!next) return;
@@ -304,15 +339,15 @@
           if (next.started_at) {
             const startedMs = Date.parse(next.started_at);
             if (!Number.isNaN(startedMs)) {
-              partyStartedAtMs = startedMs;
+              roomStartedAtMs = startedMs;
               examStartTime = startedMs;
-              startSyncedPartyTimerIfReady();
+              startSyncedRoomTimerIfReady();
             }
           }
 
           if (typeof next.current_question === 'number') {
             const nextIdx = Math.max(0, Math.min(activeQuestions.length - 1, next.current_question));
-            partyCurrentQuestion = nextIdx;
+            roomCurrentQuestion = nextIdx;
 
             // Guests follow host's current_question to stay synchronized.
             if (!isHost && nextIdx !== currentIdx) {
@@ -332,7 +367,7 @@
       supabase
         .from('party_sessions')
         .select('started_at,status,current_question')
-        .eq('party_code', partyCode)
+        .eq('party_code', roomCode)
         .maybeSingle()
         .then(({ data, error }) => {
           if (error || !data) return;
@@ -340,7 +375,7 @@
           if (data.started_at) {
             const startedMs = Date.parse(data.started_at);
             if (!Number.isNaN(startedMs)) {
-              partyStartedAtMs = startedMs;
+              roomStartedAtMs = startedMs;
               examStartTime = startedMs;
             }
           }
@@ -352,7 +387,7 @@
 
           if (typeof (data as any).current_question === 'number') {
             const nextIdx = Math.max(0, Math.min(activeQuestions.length - 1, (data as any).current_question));
-            partyCurrentQuestion = nextIdx;
+            roomCurrentQuestion = nextIdx;
             if (!isHost && nextIdx !== currentIdx) {
               currentIdx = nextIdx;
               questionStartTime = Date.now();
@@ -360,26 +395,26 @@
             }
           }
 
-          startSyncedPartyTimerIfReady();
+          startSyncedRoomTimerIfReady();
         });
     }
 
-    // 🆕 Initial Broadcast for Party Mode
-    if (isHost && partyCode) {
-      broadcastPartyState('active', currentIdx);
+    // 🆕 Initial Broadcast for Exam Room Mode
+    if (isHost && roomCode) {
+      broadcastRoomState('active', currentIdx);
     }
 
     // Timer
-    if (partyCode && timeLimitSeconds > 0) {
-      // Party: timer will be started once we get started_at
+    if (roomCode && timeLimitSeconds > 0) {
+      // Room: timer will be started once we get started_at
       // Keep a conservative fallback in case started_at never arrives
-      if (!partyStartedAtMs) {
+      if (!roomStartedAtMs) {
         timer = setInterval(() => {
           // If we still don't have started_at after a short while, use local clock as last resort.
           // This is suboptimal but prevents the exam from never finishing.
-          if (!partyStartedAtMs) {
-            partyStartedAtMs = examStartTime || Date.now();
-            startSyncedPartyTimerIfReady();
+          if (!roomStartedAtMs) {
+            roomStartedAtMs = examStartTime || Date.now();
+            startSyncedRoomTimerIfReady();
           }
         }, 1500);
       }
@@ -397,10 +432,10 @@
       }, 1000);
     }
 
-    // 🆕 Initialize Focus Tracker for Party Mode
-    if (partyCode && sessionId) {
+    // 🆕 Initialize Focus Tracker for Exam Room Mode
+    if (roomCode && sessionId) {
       focusTracker = createFocusTracker(sessionId, (event) => {
-          // Broadcast violation to Host
+          // Broadcast violation to Anfitrión
           if (!isHost) {
               p2pService.sendToHost('FOCUS_EVENT', event);
           }
@@ -432,9 +467,9 @@
 
   onDestroy(() => {
     clearInterval(timer);
-    if (partySyncChannel) {
-      supabase.removeChannel(partySyncChannel);
-      partySyncChannel = null;
+    if (roomSyncChannel) {
+      supabase.removeChannel(roomSyncChannel);
+      roomSyncChannel = null;
     }
 
     // 🆕 Cleanup focus tracker
@@ -513,8 +548,8 @@
       selectedOption = answers[activeQuestions[currentIdx].id] || null;
 
       // 🆕 Broadcast update
-      if (isHost && partyCode) {
-          broadcastPartyState('active', nextIndex);
+      if (isHost && roomCode) {
+          broadcastRoomState('active', nextIndex);
       }
     } else {
       handleFinish('end-of-questions');
@@ -537,9 +572,9 @@
     }
 
     // 🆕 Broadcast Finish (host marks DB as finished, forcing all clients to finish)
-    if (isHost && partyCode) {
-      broadcastPartyState('finished', currentIdx);
-      // Note: Results aggregation usually happens in ResultsView or PartyResultsView.
+    if (isHost && roomCode) {
+      broadcastRoomState('finished', currentIdx);
+      // Note: Results aggregation usually happens in ResultsView or RoomResultsView.
       // We just signal finish here.
     }
 
@@ -580,8 +615,8 @@
       maxTotalTimeMs: EXAM_TIME_SECONDS * 1000,
       grade: grade || activeQuestions[0]?.grade || 0,
       subject: subject || activeQuestions[0]?.category?.split('::')[0]?.trim() || 'General',
-      // 🆕 Party Mode extras
-      partyCode: partyCode || undefined,
+      // 🆕 Exam Room Mode extras
+      roomCode: roomCode || undefined,
       sessionId: sessionId || undefined,
       isHost: isHost, // 🆕 Pass host status
       focusEvents: focusEvents.length > 0 ? focusEvents : undefined,
@@ -593,8 +628,8 @@
 </script>
 
 <div class="w-full h-screen flex flex-col animate-fade-in-up">
-  <!-- 🆕 Focus Lost Warning Banner (Party Mode) -->
-  {#if focusWarningVisible && partyCode}
+  <!-- 🆕 Focus Lost Warning Banner (Exam Room Mode) -->
+  {#if focusWarningVisible && roomCode}
     <div class="fixed top-0 left-0 right-0 z-50 bg-red-600 text-white py-3 px-4 text-center animate-pulse shadow-lg">
       <div class="flex items-center justify-center gap-2">
         <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
@@ -629,7 +664,7 @@
           </span>
           </div>
 
-          {#if partyCode && timeLimitSeconds > 0}
+          {#if roomCode && timeLimitSeconds > 0}
             <div class="text-[10px] uppercase tracking-widest opacity-60">
               Pregunta: <span class="font-mono font-bold tabular-nums text-emerald-400">{formatTime(questionTimeLeft)}</span>
             </div>
@@ -724,6 +759,15 @@
         Pregunta {currentIdx + 1} de {activeQuestions.length}
       </div>
       <button
+        on:click={() => showReportModal = true}
+        class="px-4 sm:px-6 py-2 sm:py-3 bg-yellow-500/10 border border-yellow-500/30 text-yellow-500 hover:bg-yellow-500/20 hover:border-yellow-500/50 transition-all duration-300 uppercase tracking-widest text-xs sm:text-sm font-bold active:scale-95 flex items-center gap-2 mr-2"
+        title="Reportar anomalía"
+      >
+        <span class="i-lucide-alert-triangle w-4 h-4"></span>
+        <span class="hidden sm:inline">Reportar</span>
+      </button>
+
+      <button
         bind:this={nextButton}
         on:click={handleNext}
         class="px-6 sm:px-8 py-2 sm:py-3 bg-emerald-900/20 border border-emerald-500/50 text-emerald-500 hover:bg-emerald-500 hover:text-[#121212] transition-all duration-300 uppercase tracking-widest text-xs sm:text-sm font-bold active:scale-95"
@@ -746,5 +790,71 @@
         </div>
       {/each}
     </div>
+  {/if}
+  <!-- Report Modal -->
+  {#if showReportModal}
+    <div class="fixed inset-0 z-[60] flex items-center justify-center p-4 bg-black/80 backdrop-blur-sm" transition:fade>
+      <div
+         class="bg-[#1E1E1E] border border-yellow-500/30 rounded-2xl p-6 shadow-2xl max-w-md w-full relative overflow-hidden"
+         transition:scale
+      >
+        <!-- Header -->
+        <h3 class="text-xl font-bold text-yellow-500 mb-4 flex items-center gap-2">
+            <span class="i-lucide-alert-triangle"></span>
+            Reportar Anomalía
+        </h3>
+
+        <p class="text-gray-400 text-sm mb-6">Esta pregunta tiene un problema. Tu reporte ayuda a mejorar la calidad.</p>
+
+        <!-- Options -->
+        <div class="space-y-3 mb-6">
+            {#each [
+                { id: 'contexto', label: 'Sin contexto / Contexto incompleto' },
+                { id: 'errada', label: 'Respuesta errada / incorrecta' },
+                { id: 'simbolos', label: 'Símbolos extraños / Mala renderización' },
+                { id: 'otro', label: 'Otro problema' }
+            ] as opt}
+               <label class="flex items-center gap-3 p-3 rounded-lg border cursor-pointer hover:bg-white/5 transition-colors {reportType === opt.id ? 'border-yellow-500 bg-yellow-500/10' : 'border-white/10'}">
+                   <input type="radio" name="reportType" value={opt.id} bind:group={reportType} class="text-yellow-500 focus:ring-yellow-500" />
+                   <span class="text-gray-200 text-sm">{opt.label}</span>
+               </label>
+            {/each}
+
+             <textarea
+               bind:value={reportDetails}
+               placeholder="Detalles adicionales (opcional)..."
+               class="w-full bg-black/30 border border-white/10 rounded-lg p-3 text-sm text-gray-300 focus:border-yellow-500 outline-none resize-none h-24 mt-2"
+            ></textarea>
+        </div>
+
+        <!-- Actions -->
+        <div class="flex gap-3 justify-end">
+            <button
+              on:click={() => showReportModal = false}
+              class="px-4 py-2 text-gray-400 hover:text-white transition-colors text-sm font-medium"
+            >
+                Cancelar
+            </button>
+            <button
+              on:click={handleReport}
+              disabled={!reportType || isReporting}
+              class="px-6 py-2 bg-yellow-500 text-black font-bold rounded-lg hover:bg-yellow-400 transition-colors disabled:opacity-50 disabled:cursor-not-allowed flex items-center gap-2"
+            >
+                {#if isReporting}
+                   <span class="animate-spin i-lucide-loader-2 w-4 h-4"></span>
+                {/if}
+                Enviar Reporte
+            </button>
+        </div>
+      </div>
+    </div>
+  {/if}
+
+  <!-- Success Toast -->
+  {#if showReportToast}
+     <div class="fixed bottom-20 left-1/2 -translate-x-1/2 bg-emerald-500 text-black px-6 py-3 rounded-full shadow-lg font-bold flex items-center gap-2 z-[70]" transition:fly={{ y: 20 }}>
+         <span class="i-lucide-check-circle"></span>
+         Reporte enviado exisotamente
+     </div>
   {/if}
 </div>

@@ -33,8 +33,6 @@
       </script>
     </div>
 
-    <p class="text-[10px] uppercase tracking-widest opacity-40 max-w-md mx-auto flex items-center justify-center gap-2">
-      Publicidad Generada Automáticamente <span class="text-emerald-500">💚 Esto ayuda a financiar el proyecto</span>
-    </p>
+
   </div>
 {/if}

@@ -63,20 +63,46 @@ import Layout from '../../layouts/Layout.astro';
 
         <!-- Usage Stats -->
         <div class="bg-[#1A1A1A] rounded-lg border border-[#333] p-6">
-          <h2 class="text-xl font-bold mb-4">Usage Statistics</h2>
+          <h2 class="text-xl font-bold mb-4 text-[#FCD116]">API Usage Statistics</h2>
           <div class="grid grid-cols-3 gap-4 text-center">
             <div class="bg-[#121212] p-4 rounded border border-[#333]">
-              <p class="text-[#A0A0A0] text-sm mb-1">Requests Today</p>
-              <p class="text-2xl font-mono font-bold">0</p>
+              <p class="text-[#A0A0A0] text-sm mb-1">Requests / Day</p>
+              <p class="text-2xl font-mono font-bold" id="requests-count">0</p>
             </div>
             <div class="bg-[#121212] p-4 rounded border border-[#333]">
-              <p class="text-[#A0A0A0] text-sm mb-1">Monthly Quota</p>
-              <p class="text-2xl font-mono font-bold">1,000</p>
+              <p class="text-[#A0A0A0] text-sm mb-1">Monthly Limit</p>
+              <p class="text-2xl font-mono font-bold" id="monthly-limit">1,000</p>
             </div>
             <div class="bg-[#121212] p-4 rounded border border-[#333]">
               <p class="text-[#A0A0A0] text-sm mb-1">Status</p>
               <p class="text-2xl font-mono font-bold text-green-500">Active</p>
             </div>
+          </div>
+        </div>
+
+        <!-- Billing & Upgrade Section -->
+        <div class="bg-[#1A1A1A] rounded-lg border border-[#333] p-6 mt-8">
+          <h2 class="text-xl font-bold mb-4 flex items-center gap-2">
+            <span class="text-[#CE1126]">💳</span> Billing & Upgrade
+          </h2>
+          <div class="flex flex-col md:flex-row justify-between items-center bg-[#121212] p-6 rounded border border-yellow-500/20">
+            <div class="mb-4 md:mb-0">
+              <h3 class="text-[#FCD116] font-bold text-lg mb-1">Go Pro - Higher Limits</h3>
+              <p class="text-[#A0A0A0] text-sm">Get up to 10k requests/day and commercial usage rights.</p>
+            </div>
+            <div class="text-right">
+              <p class="text-2xl font-bold mb-2">$19<span class="text-sm font-normal text-[#A0A0A0]">/mo</span></p>
+              <button class="bg-[#FCD116] text-black px-6 py-2 rounded font-bold hover:bg-yellow-400 transition-colors">
+                Upgrade to Pro
+              </button>
+            </div>
+          </div>
+          
+          <div class="mt-4 p-4 border-t border-[#333]">
+            <p class="text-sm text-[#A0A0A0]">
+              Institutional pricing available for schools and universities. 
+              <a href="/contacto" class="text-[#003893] hover:underline">Contact sales</a>.
+            </p>
           </div>
         </div>
 
@@ -126,8 +152,7 @@ import Layout from '../../layouts/Layout.astro';
     async function fetchApiKeys(userId: string) {
       const { data, error } = await supabase
         .from('api_keys')
-        .select('*')
-        .eq('owner_id', userId)
+        .select('*, organizations(name)')
         .order('created_at', { ascending: false });
 
       if (error) {
@@ -136,6 +161,18 @@ import Layout from '../../layouts/Layout.astro';
       }
 
       renderKeys(data);
+      updateStats(data);
+    }
+
+    function updateStats(keys: any[]) {
+      const totalUsage = keys.reduce((acc, k) => acc + (k.current_usage || 0), 0);
+      const totalLimit = keys.reduce((acc, k) => acc + (k.monthly_limit || 100), 0);
+      
+      const countEl = document.getElementById('requests-count');
+      const limitEl = document.getElementById('monthly-limit');
+      
+      if (countEl) countEl.textContent = totalUsage.toLocaleString();
+      if (limitEl) limitEl.textContent = totalLimit.toLocaleString();
     }
 
     function renderKeys(keys: any[]) {
@@ -147,15 +184,18 @@ import Layout from '../../layouts/Layout.astro';
       }
 
       keysList.innerHTML = keys.map((key: any) => `
-        <div class="flex items-center justify-between bg-[#121212] p-4 rounded border border-[#333]">
-          <div>
-            <p class="font-mono text-[#FCD116] mb-1">${key.name || 'Unnamed Key'}</p>
-            <p class="font-mono text-sm text-[#A0A0A0] break-all">${key.key_hash.substring(0, 8)}...${key.key_hash.substring(key.key_hash.length - 4)}</p>
+        <div class="flex flex-col md:flex-row items-center justify-between bg-[#121212] p-4 rounded border border-[#333] mb-3">
+          <div class="mb-3 md:mb-0 w-full">
+            <p class="font-mono text-[#FCD116] mb-1 font-bold">${key.name || 'Unnamed Key'}</p>
+            <div class="flex items-center gap-2">
+              <span class="text-xs bg-[#333] px-2 py-0.5 rounded text-[#A0A0A0]">${key.organizations?.name || 'Org'}</span>
+              <p class="font-mono text-sm text-[#A0A0A0]">${key.key_prefix}****</p>
+            </div>
           </div>
-          <div class="text-right">
-            <p class="text-xs text-[#A0A0A0] mb-1">Used: ${key.quota_used} / ${key.quota_limit}</p>
-            <span class="inline-block px-2 py-1 rounded text-xs font-bold ${key.status === 'active' ? 'bg-green-900 text-green-300' : 'bg-red-900 text-red-300'}">
-              ${key.status.toUpperCase()}
+          <div class="text-right w-full md:w-auto border-t md:border-t-0 border-[#333] pt-3 md:pt-0">
+            <p class="text-xs text-[#A0A0A0] mb-1">Quota: ${key.current_usage || 0} / ${key.monthly_limit || 100}</p>
+            <span class="inline-block px-2 py-1 rounded text-xs font-bold ${key.is_active ? 'bg-green-900 text-green-300' : 'bg-red-900 text-red-300'}">
+              ${key.is_active ? 'ACTIVE' : 'INACTIVE'}
             </span>
           </div>
         </div>
@@ -165,27 +205,45 @@ import Layout from '../../layouts/Layout.astro';
     const createKeyBtn = document.getElementById('create-key-btn');
     if (createKeyBtn) {
       createKeyBtn.addEventListener('click', async () => {
-        const { data: { user } } = await supabase.auth.getUser();
-        if (!user) return;
+        const { data: { session } } = await supabase.auth.getSession();
+        if (!session) return;
 
-        // Generate a random key (In production, this should be done server-side or via Edge Function to keep the secret only once)
-        // For this demo, we generate a simple hash-like string
-        const newKey = 'sk_' + Math.random().toString(36).substring(2, 15) + Math.random().toString(36).substring(2, 15);
+        // Try to get user organization (for MVP using a default/mock shared one or just user id)
+        // In a full implementation, we'd fetch the organization where the user is admin/owner
+        const { data: membership } = await supabase
+          .from('organization_members')
+          .select('organization_id')
+          .eq('user_id', session.user.id)
+          .maybeSingle();
+        
+        if (!membership) {
+          alert('You must be part of an organization to create API keys. Please contact support.');
+          return;
+        }
 
-        const { error } = await supabase
-          .from('api_keys')
-          .insert([{
-            owner_id: user.id,
-            key_hash: newKey, // In real app, store hash, show key once
-            name: 'My API Key',
-            quota_limit: 1000
-          }]);
+        try {
+          // Use our new Edge Function for secure generation
+          const response = await fetch(`${supabaseUrl}/functions/v1/generate-key`, {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+              'Authorization': `Bearer ${session.access_token}`
+            },
+            body: JSON.stringify({ 
+              organization_id: membership.organization_id,
+              name: 'My API Key'
+            })
+          });
 
-        if (error) {
+          const result = await response.json();
+          
+          if (!response.ok) throw new Error(result.error);
+
+          fetchApiKeys(session.user.id);
+          alert(`New Key Created: ${result.apiKey}\n\nSAVE THIS KEY! It will never be shown again.\nPrefix: ${result.prefix}`);
+          
+        } catch (error) {
           alert('Error creating key: ' + error.message);
-        } else {
-          fetchApiKeys(user.id);
-          alert(`New Key Created: ${newKey}\n\nSave this key! It won't be shown again.`);
         }
       });
     }

@@ -38,10 +38,10 @@
   import LocalModeNotice from './LocalModeNotice.svelte';
   import OfflineProfile from './OfflineProfile.svelte';
 
-  import PartyLobby from '../modules/party/components/PartyLobby.svelte'; // 🆕 Module Import
-  import StopModeSetup from '../modules/party/components/StopModeSetup.svelte';
-  import LobbyBrowser from '../modules/party/components/LobbyBrowser.svelte';
-  import { partyState } from '../modules/party/stores/partyState.svelte';
+  import ExamRoomLobby from './ExamRoomLobby.svelte'; // 🆕 Renamed Import
+  import StopModeSetup from '../modules/exam-room/components/StopModeSetup.svelte';
+  import LobbyBrowser from '../modules/exam-room/components/LobbyBrowser.svelte';
+  import { roomState } from '../modules/exam-room/stores/roomState.svelte.ts';
 
   // Normalize subject name for comparison (removes accents, replaces separators)
   function normalizeSubject(subject) {
@@ -86,11 +86,11 @@
   let showLobbyBrowser = $state(false); // Controls Lobby Browser visibility
   let showStopSetup = $state(false); // Controls Stop Mode Setup visibility
 
-  // Party Mode State
-  let partyCode = $state('');
-  let partyChannel = $state(null);
-  let sessionId = $state(''); // 🆕 Party session ID for local tracking
-  let initialJoinCode = $state(''); // 🆕 From URL
+  // Exam Room Mode State
+  let roomCode = $state('');
+  let roomChannel = $state(null);
+  let sessionId = $state(''); // 🆕 Room session ID for local tracking
+  let initialRoomCode = $state(''); // 🆕 From URL
   let user = $state(null); // Auth user
 
   // View State
@@ -132,11 +132,11 @@
       console.warn('Failed to load build info', e);
     }
 
-    // 🆕 Check for Join Code in URL
+    // 🆕 Check for Room Code in URL
     const urlParams = new URLSearchParams(window.location.search);
     const joinCode = urlParams.get('join');
     if (joinCode) {
-      initialJoinCode = joinCode;
+      initialRoomCode = joinCode;
       showExamConfigModal = true;
       // Clean URL without refresh
       window.history.replaceState({}, '', '/');
@@ -230,13 +230,13 @@
       count: config.count
     });
 
-    // Party Mode - partyCode is already created by modal
-    if (config.mode === 'PARTY' && config.partyCode) {
-      partyCode = config.partyCode;
+    // Room Mode - roomCode is already created by modal
+    if (config.mode === 'ROOM' && config.roomCode) {
+      roomCode = config.roomCode;
       sessionId = config.sessionId || '';
       isHost = config.isHost || false; // Set host state
-      partyChannel = supabase.channel(`party:${partyCode}`);
-      partyChannel.subscribe();
+      roomChannel = supabase.channel(`party:${roomCode}`);
+      roomChannel.subscribe();
 
       // 🆕 Store startedAt for ExamView synchronization
       if (config.startedAt) {
@@ -259,12 +259,12 @@
 
       if (config.isHost) {
         // Host starts the exam
-        console.log('🎯 Host detected, calling handlePartyStart()...');
-        await handlePartyStart();
-        console.log('✅ handlePartyStart() completed');
+        console.log('🎯 Anfitrión detectado, iniciando sala...');
+        await handleRoomStart();
+        console.log('✅ handleRoomStart() completado');
       } else {
         // Guest waits in player view
-        console.log('👥 Guest detected, waiting for start...');
+        console.log('👥 Invitado detectado, esperando inicio...');
         setView(AppView.EXAM);
       }
       return;
@@ -280,6 +280,17 @@
 
     // Minimum time for animation (3.5s to read messages)
     const minTimePromise = new Promise(resolve => setTimeout(resolve, 3500));
+
+    // 🆕 Use pre-filtered questions if provided (e.g. Period Mode)
+    if (config.questions && config.questions.length > 0) {
+         console.log('📦 Using pre-filtered questions:', config.questions.length);
+         try {
+             await minTimePromise;
+         } catch (e) { /* ignore */ }
+         generatedExamQuestions = config.questions;
+         isPreparingExam = false;
+         return;
+    }
 
     try {
       console.log(`🤖 Starting Exam Generation (Count: ${config.count}, Diagnostic: ${config.useDiagnostic})...`);
@@ -496,28 +507,28 @@
   });
 
 
-  // Handle Host Starting the Party Exam
-  async function handlePartyStart() {
+  // Handle Host Starting the Room Exam
+  async function handleRoomStart() {
       if (!isHost) {
-          console.warn('❌ Guest attempted to start party (blocked)');
+          console.warn('❌ Invitado intentó iniciar la sala (bloqueado)');
           return;
       }
 
-      console.log('🚀🚀🚀 handlePartyStart() INICIADO');
+      console.log('🚀🚀🚀 handleRoomStart() INICIADO');
       console.log('📊 generatedExamQuestions:', generatedExamQuestions?.length || 0);
 
       // 1. Generate Questions using local logic (reusing prepareExamQuestions/filter logic)
 
       // 🆕 Check if we already have synced questions (from handleExamConfigStart)
       if (generatedExamQuestions && generatedExamQuestions.length > 0) {
-          console.log('🚀 Starting Party with synced questions:', generatedExamQuestions.length);
+          console.log('🚀 Iniciando sala con preguntas sincronizadas:', generatedExamQuestions.length);
       } else {
-          console.log('⚠️ No synced questions, using fallback...');
+          console.log('⚠️ No hay preguntas sincronizadas, usando fallback...');
           // Fallback logic (only if no questions in config)
           const availableQuestions = loadedQuestions.filter(q => subjectsMatch(q.category, selectedSubject) && q.grade === selectedGrade);
           const { filtered } = filterUnansweredQuestions(availableQuestions, examConfig.count);
           generatedExamQuestions = filtered;
-          console.log('📦 Fallback questions generated:', generatedExamQuestions.length);
+          console.log('📦 Preguntas de fallback generadas:', generatedExamQuestions.length);
       }
 
       // 2. 🆕 CRÍTICO: Primero obtener exam_config actual, luego actualizar con preguntas
@@ -525,7 +536,7 @@
         const { data: currentData } = await supabase
           .from('party_sessions')
           .select('exam_config')
-          .eq('party_code', partyCode)
+          .eq('party_code', roomCode)
           .single();
 
         const startedAt = new Date().toISOString();
@@ -542,9 +553,9 @@
               started_at: startedAt,
               exam_config: updatedConfig
             })
-            .eq('party_code', partyCode);
+            .eq('party_code', roomCode);
 
-        console.log('✅ Party iniciada: status=active, questions synced to DB');
+        console.log('✅ Sala iniciada: status=active, preguntas sincronizadas en BD');
 
         // 2b. Broadcast via P2P (fallback si Realtime falla)
         p2pService.broadcast('START_EXAM', {
@@ -554,16 +565,16 @@
             isEnglishDiagnostic: examConfig.isEnglishDiagnostic || false
         });
       } catch (err) {
-        console.error('❌ Error updating party session:', err);
+        console.error('❌ Error actualizando sesión de sala:', err);
       }
 
       // 3. Switch View to EXAM
-      console.log('🎬 Switching to EXAM view...');
+      console.log('🎬 Cambiando a vista EXAM...');
       setView(AppView.EXAM);
-      console.log('✅ View changed to:', AppView.EXAM);
+      console.log('✅ Vista cambiada a:', AppView.EXAM);
 
       // 4. Initial broadcast handled by ExamView or here?
-      // ExamView will need to handle "Party Mode"
+      // ExamView will need to handle "Room Mode"
   }
 
 
@@ -655,10 +666,10 @@
   let nicknameInput = $state('');
 
   function handleExamFinish(examData, answers) {
-    // 🆕 Party Mode: Ask for nickname before showing results
-    if (partyCode && sessionId) {
+    // 🆕 Room Mode: Ask for nickname before showing results
+    if (roomCode && sessionId) {
       // Load saved nickname if exists
-      const savedNickname = localStorage.getItem('party_player_name');
+      const savedNickname = localStorage.getItem('room_player_name');
       nicknameInput = savedNickname || '';
 
       // Store pending data
@@ -695,13 +706,13 @@
       console.warn('Error saving local exam result:', err);
     }
 
-    // 🆕 Party Mode Result Handling
-    if (partyCode && sessionId) {
+    // 🆕 Room Mode Result Handling
+    if (roomCode && sessionId) {
         const userName = nickname || user?.email || 'Jugador';
 
         // Save nickname for future use
         if (nickname) {
-          localStorage.setItem('party_player_name', nickname);
+          localStorage.setItem('room_player_name', nickname);
         }
 
         const minimalResult = {
@@ -719,15 +730,15 @@
         p2pService.broadcast('EXAM_RESULT', minimalResult);
 
         // Also save locally for immediate display
-        const existing = JSON.parse(sessionStorage.getItem('party_results') || '[]');
+        const existing = JSON.parse(sessionStorage.getItem('room_results') || '[]');
         if (!existing.find(r => r.sessionId === minimalResult.sessionId)) {
           existing.push(minimalResult);
-          sessionStorage.setItem('party_results', JSON.stringify(existing));
-          window.dispatchEvent(new CustomEvent('party-result-received', { detail: minimalResult }));
+          sessionStorage.setItem('room_results', JSON.stringify(existing));
+          window.dispatchEvent(new CustomEvent('room-result-received', { detail: minimalResult }));
         }
-    } else if (partyCode) {
-        partyCode = '';
-        partyChannel = null;
+    } else if (roomCode) {
+        roomCode = '';
+        roomChannel = null;
     }
 
     // generatedExamQuestions = null; // 🚨 REMOVED: Clearing too early causes ResultsView to show whole pool (1 de 126 error)
@@ -752,13 +763,13 @@
             console.log(`🏆 Result received from ${msg.senderId}:`, result);
 
             // Store result (avoid duplicates)
-            const existing = JSON.parse(sessionStorage.getItem('party_results') || '[]');
+            const existing = JSON.parse(sessionStorage.getItem('room_results') || '[]');
             if (!existing.find(r => r.sessionId === result.sessionId)) {
               existing.push(result);
-              sessionStorage.setItem('party_results', JSON.stringify(existing));
+              sessionStorage.setItem('room_results', JSON.stringify(existing));
 
               // Dispatch event for ResultsView to update in real-time
-              window.dispatchEvent(new CustomEvent('party-result-received', { detail: result }));
+              window.dispatchEvent(new CustomEvent('room-result-received', { detail: result }));
 
               console.log(`📊 Total results collected: ${existing.length}`);
             }
@@ -767,17 +778,17 @@
         // 🆕 Listen for when ALL users finished (optional signal from host)
         if (msg.type === 'ALL_FINISHED') {
             console.log('🎉 All participants finished!');
-            window.dispatchEvent(new CustomEvent('party-all-finished'));
+            window.dispatchEvent(new CustomEvent('room-all-finished'));
         }
     });
   });
 
-  async function handleCreateStopParty(config) {
+  async function handleCreateStopRoom(config) {
     try {
       showStopSetup = false;
       isLoadingQuestions = true;
 
-      const newPartyId = await partyState.createParty(
+      const newRoomId = await roomState.createRoom(
         config.hostName,
         config.partyName,
         11, // Default grade for Stop Mode
@@ -807,20 +818,20 @@
         mode: 'stop'
       };
 
-      // 🛡️ Ensure partyCode has value even if createParty returns undefined (Offline Fallback)
-      partyCode = newPartyId || partyState.config?.id || 'OFFLINE-' + Math.floor(Math.random()*1000);
+      // 🛡️ Ensure roomCode has value even if createRoom returns undefined (Offline Fallback)
+      roomCode = newRoomId || roomState.config?.id || 'OFFLINE-' + Math.floor(Math.random()*1000);
       isHost = true;
-      setView(AppView.PARTY_LOBBY);
+      setView(AppView.ROOM_LOBBY);
 
     } catch (error) {
-      console.error('Error creating stop party:', error);
-      alert('Error al crear la sala Stop.');
+      console.error('Error creating stop room:', error);
+      alert('Error al crear la sala Speed.');
     } finally {
       isLoadingQuestions = false;
     }
   }
 
-  async function handleJoinPublicParty(code, playerName) {
+  async function handleJoinPublicRoom(code, playerName) {
     try {
       showLobbyBrowser = false;
       isLoadingQuestions = true;
@@ -836,16 +847,16 @@
 
       const config = data.exam_config;
 
-      // Join via partyState
-      await partyState.joinParty(code, playerName || 'Jugador', config);
+      // Join via roomState
+      await roomState.joinRoom(code, playerName || 'Jugador', config);
 
       // Update App state
-      partyCode = code;
+      roomCode = code;
       isHost = false;
       sessionId = crypto.randomUUID();
 
       // Setup Reporting
-      selectedSubject = config.asignatura || 'Desafío Stop';
+      selectedSubject = config.asignatura || 'Desafío Speed';
       selectedGrade = config.grado || 11;
 
       examConfig = {
@@ -855,9 +866,9 @@
         mode: config.mode || 'stop'
       };
 
-      setView(AppView.PARTY_LOBBY);
+      setView(AppView.ROOM_LOBBY);
     } catch (err) {
-      console.error('Error joining public party:', err);
+      console.error('Error joining public room:', err);
       alert('Error al unirse a la sala.');
     } finally {
       isLoadingQuestions = false;
@@ -1137,7 +1148,7 @@
               <div class="flex flex-col items-end gap-1">
                 <div class="flex items-center gap-1.5">
                   <span class="px-2 py-0.5 bg-blue-500/20 text-blue-400 text-[9px] font-bold uppercase tracking-widest rounded-full">
-                    Party ✓
+                    Sala ✓
                   </span>
                 </div>
                 <div class="flex items-center gap-1 text-[9px] text-white/30">
@@ -1350,10 +1361,10 @@
         />
       </div>
       -->
-    {:else if view === AppView.PARTY_LOBBY}
+    {:else if view === AppView.ROOM_LOBBY}
       <div in:fly={{ x: 50, duration: 500 }} out:fade={{ duration: 200 }}>
-        <PartyLobby
-          onStartGame={handlePartyStart}
+        <ExamRoomLobby
+          onStartGame={handleRoomStart}
           onBack={() => setView(AppView.SUBJECT_SELECTION)}
         />
       </div>
@@ -1364,8 +1375,8 @@
           questions={examQuestions}
           grade={selectedGrade}
           subject={selectedSubject}
-          partyCode={partyCode}
-          partyChannel={partyChannel}
+          roomCode={roomCode}
+          roomChannel={roomChannel}
           isHost={examConfig?.isHost || false}
           sessionId={sessionId}
           timeLimitSeconds={examConfig?.timeLimitSeconds}
@@ -1472,13 +1483,13 @@
       subject={selectedSubject}
       currentGrade={selectedGrade || 11}
       availableQuestions={loadedQuestions}
-      initialJoinCode={initialJoinCode}
+      initialRoomCode={initialRoomCode}
       onStart={handleExamConfigStart}
       onCancel={() => { showExamConfigModal = false; selectedSubject = null; }}
     />
   {/if}
 
-  <!-- 🆕 Nickname Modal (Party Mode) -->
+  <!-- 🆕 Nickname Modal (Room Mode) -->
   {#if showNicknameModal}
     <div
       class="fixed inset-0 z-[150] bg-black/90 backdrop-blur-md flex items-center justify-center p-4"
@@ -1571,7 +1582,7 @@
       <div class="w-full max-w-2xl bg-[#0a0a0a] rounded-xl border border-white/10 overflow-hidden relative">
         <StopModeSetup
           onBack={() => showStopSetup = false}
-          onCreate={handleCreateStopParty}
+          onCreate={handleCreateStopRoom}
         />
       </div>
     </div>
@@ -1580,7 +1591,7 @@
   <!-- Lobby Browser Modal -->
   {#if showLobbyBrowser}
     <LobbyBrowser
-      onJoin={handleJoinPublicParty}
+      onJoin={handleJoinPublicRoom}
       onClose={() => showLobbyBrowser = false}
     />
   {/if}
@@ -1600,7 +1611,7 @@
 
         <h2 class="text-2xl font-black uppercase tracking-tight mb-2">Nueva Versión</h2>
         <p class="text-gray-600 mb-8 leading-relaxed">
-          Hay una actualización disponible con mejoras críticas para el modo Party y rendimiento.
+          Hay una actualización disponible con mejoras críticas para el modo Sala y rendimiento.
         </p>
 
         <button

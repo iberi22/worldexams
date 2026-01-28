@@ -77,6 +77,39 @@ export async function startTrainingSession(
 }
 
 /**
+ * Generate a new API Key for an organization
+ */
+export async function generateApiKey(
+  organization_id: string,
+  name?: string
+): Promise<{ message: string; apiKey: string; id: string; prefix: string }> {
+  const { data: { session }, error: sessionError } = await supabase.auth.getSession();
+
+  if (sessionError || !session) {
+    throw new Error('No authenticated session');
+  }
+
+  const response = await fetch(
+    `${supabaseUrl}/functions/v1/generate-key`,
+    {
+      method: 'POST',
+      headers: {
+        Authorization: `Bearer ${session.access_token}`,
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({ organization_id, name }),
+    }
+  );
+
+  if (!response.ok) {
+    const error = await response.json();
+    throw new Error(error.error || 'Failed to generate API key');
+  }
+
+  return response.json();
+}
+
+/**
  * Generate AI infographic
  */
 export async function generateInfographic(

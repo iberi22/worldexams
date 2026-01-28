@@ -56,6 +56,37 @@ function generateBundleTemplate(config) {
     const bundleId = `CO-${config.subjectCode}-${config.grade}-${config.topic.toUpperCase()}-${config.id}`;
     const date = new Date().toISOString().split('T')[0];
 
+    // Helper para generar estructura de preguntas
+    const generateQuestionBlock = (num, diff, type) => `
+## Pregunta ${num} (${type} - Dificultad ${diff})
+
+**ID:** \`${bundleId}-v${num}\`
+
+### Enunciado
+
+TODO: Pregunta de nivel ${diff} (${type})
+
+### Opciones
+
+- [x] A) Opción correcta
+- [ ] B) Distractor 1
+- [ ] C) Distractor 2
+- [ ] D) Distractor 3
+
+### Explicación Pedagógica
+
+**¿Por qué A es correcta?**
+TODO: Explicación detallada
+
+**¿Por qué las otras son incorrectas?**
+- **B)** TODO
+- **C)** TODO
+- **D)** TODO
+
+**Competencia evaluada:** ${subject.competencias[(num - 1) % 3]}
+
+---`;
+
     return `---
 # === METADATA GLOBAL ===
 id: "${bundleId}"
@@ -70,10 +101,12 @@ source_lang: "es-CO"
 llm_model: "claude-sonnet-4-20250514"
 agent: "Cascade"
 ide: "VS Code"
-bundle_version: "2.0"
-total_questions: 7
-difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
-generation_date: "${date}"
+bundle_version: "3.0"
+total_questions: 10
+difficulty_distribution: "2 por nivel (1-5)"
+creation_date: "${date}"
+periodo: 1 # TODO: Definir periodo correcto
+dba_id: "TODO" # Derechos Básicos de Aprendizaje
 
 # === SOURCE ATTRIBUTION ===
 source: "ICFES-Curriculum"
@@ -98,184 +131,31 @@ applicable_exams: ["CO-Saber${config.grade > 5 ? config.grade : '3,5'}"]
 
 ---
 
-## Pregunta 1 (Original - Dificultad 3)
-
-**ID:** \`${bundleId}-v1\`
-
-### Enunciado
-
-TODO: Escribir el enunciado de la pregunta original basada en una fuente verificable.
-
-### Opciones
-
-- [x] A) Opción correcta
-- [ ] B) Distractor 1
-- [ ] C) Distractor 2
-- [ ] D) Distractor 3
-
-### Explicación Pedagógica
-
-**¿Por qué A es correcta?**
-TODO: Explicación detallada
-
-**¿Por qué las otras son incorrectas?**
-- **B)** TODO
-- **C)** TODO
-- **D)** TODO
-
-**Competencia evaluada:** ${subject.competencias[0]}
-
----
-
-## Pregunta 2 (Fácil A - Dificultad 1)
-
-**ID:** \`${bundleId}-v2\`
-
-### Enunciado
-
-TODO: Versión simplificada de la pregunta original
-
-### Opciones
-
-- [x] A) Correcta
-- [ ] B) Incorrecta
-- [ ] C) Incorrecta
-- [ ] D) Incorrecta
-
-### Explicación Pedagógica
-
-TODO
-
-**Competencia evaluada:** ${subject.competencias[0]}
-
----
-
-## Pregunta 3 (Fácil B - Dificultad 2)
-
-**ID:** \`${bundleId}-v3\`
-
-### Enunciado
-
-TODO: Otra versión sencilla
-
-### Opciones
-
-- [x] A) Correcta
-- [ ] B) Incorrecta
-- [ ] C) Incorrecta
-- [ ] D) Incorrecta
-
-### Explicación Pedagógica
-
-TODO
-
-**Competencia evaluada:** ${subject.competencias[0]}
-
----
-
-## Pregunta 4 (Media A - Dificultad 3)
-
-**ID:** \`${bundleId}-v4\`
-
-### Enunciado
-
-TODO: Cambio de contexto, misma lógica
-
-### Opciones
-
-- [x] A) Correcta
-- [ ] B) Incorrecta
-- [ ] C) Incorrecta
-- [ ] D) Incorrecta
-
-### Explicación Pedagógica
-
-TODO
-
-**Competencia evaluada:** ${subject.competencias[1]}
-
----
-
-## Pregunta 5 (Media B - Dificultad 3)
-
-**ID:** \`${bundleId}-v5\`
-
-### Enunciado
-
-TODO: Otra variante media
-
-### Opciones
-
-- [x] A) Correcta
-- [ ] B) Incorrecta
-- [ ] C) Incorrecta
-- [ ] D) Incorrecta
-
-### Explicación Pedagógica
-
-TODO
-
-**Competencia evaluada:** ${subject.competencias[1]}
-
----
-
-## Pregunta 6 (Difícil A - Dificultad 4)
-
-**ID:** \`${bundleId}-v6\`
-
-### Enunciado
-
-TODO: Añadir paso lógico extra
-
-### Opciones
-
-- [x] A) Correcta
-- [ ] B) Incorrecta
-- [ ] C) Incorrecta
-- [ ] D) Incorrecta
-
-### Explicación Pedagógica
-
-TODO
-
-**Competencia evaluada:** ${subject.competencias[2]}
-
----
-
-## Pregunta 7 (Difícil B - Dificultad 5)
-
-**ID:** \`${bundleId}-v7\`
-
-### Enunciado
-
-TODO: Máxima complejidad
-
-### Opciones
-
-- [x] A) Correcta
-- [ ] B) Incorrecta
-- [ ] C) Incorrecta
-- [ ] D) Incorrecta
-
-### Explicación Pedagógica
-
-TODO
-
-**Competencia evaluada:** ${subject.competencias[2]}
-
----
+${generateQuestionBlock(1, 1, "Muy Fácil A")}
+${generateQuestionBlock(2, 1, "Muy Fácil B")}
+${generateQuestionBlock(3, 2, "Fácil A")}
+${generateQuestionBlock(4, 2, "Fácil B")}
+${generateQuestionBlock(5, 3, "Media A (Original Adaptada)")}
+${generateQuestionBlock(6, 3, "Media B")}
+${generateQuestionBlock(7, 4, "Difícil A")}
+${generateQuestionBlock(8, 4, "Difícil B")}
+${generateQuestionBlock(9, 5, "Muy Difícil A")}
+${generateQuestionBlock(10, 5, "Muy Difícil B")}
 
 ## 📊 Metadata de Validación
 
 | Pregunta | ID | Dificultad | Competencia ICFES | Componente | Validado |
 |----------|-----|------------|-------------------|------------|----------|
-| 1 | ${bundleId}-v1 | 3 | ${subject.competencias[0]} | ${subject.componentes[0]} | ⬜ |
+| 1 | ${bundleId}-v1 | 1 | ${subject.competencias[0]} | ${subject.componentes[0]} | ⬜ |
 | 2 | ${bundleId}-v2 | 1 | ${subject.competencias[0]} | ${subject.componentes[0]} | ⬜ |
-| 3 | ${bundleId}-v3 | 2 | ${subject.competencias[0]} | ${subject.componentes[0]} | ⬜ |
-| 4 | ${bundleId}-v4 | 3 | ${subject.competencias[1]} | ${subject.componentes[0]} | ⬜ |
-| 5 | ${bundleId}-v5 | 3 | ${subject.competencias[1]} | ${subject.componentes[0]} | ⬜ |
-| 6 | ${bundleId}-v6 | 4 | ${subject.competencias[2]} | ${subject.componentes[0]} | ⬜ |
-| 7 | ${bundleId}-v7 | 5 | ${subject.competencias[2]} | ${subject.componentes[0]} | ⬜ |
+| 3 | ${bundleId}-v3 | 2 | ${subject.competencias[1]} | ${subject.componentes[0]} | ⬜ |
+| 4 | ${bundleId}-v4 | 2 | ${subject.competencias[1]} | ${subject.componentes[0]} | ⬜ |
+| 5 | ${bundleId}-v5 | 3 | ${subject.competencias[2]} | ${subject.componentes[0]} | ⬜ |
+| 6 | ${bundleId}-v6 | 3 | ${subject.competencias[0]} | ${subject.componentes[0]} | ⬜ |
+| 7 | ${bundleId}-v7 | 4 | ${subject.competencias[1]} | ${subject.componentes[0]} | ⬜ |
+| 8 | ${bundleId}-v8 | 4 | ${subject.competencias[2]} | ${subject.componentes[0]} | ⬜ |
+| 9 | ${bundleId}-v9 | 5 | ${subject.competencias[0]} | ${subject.componentes[0]} | ⬜ |
+| 10 | ${bundleId}-v10 | 5 | ${subject.competencias[1]} | ${subject.componentes[0]} | ⬜ |
 
 ---
 
@@ -505,4 +385,14 @@ async function main() {
     }
 }
 
-main().catch(console.error);
+
+if (require.main === module) {
+    main().catch(console.error);
+}
+
+module.exports = {
+    generateBundleTemplate,
+    createBundleFile,
+    ICFES_COMPETENCIAS,
+    SUBJECT_CODES
+};

@@ -1,0 +1,90 @@
+import { supabase } from './supabase';
+
+export interface Organization {
+  id: string;
+  name: string;
+  slug: string;
+  plan_tier: 'free' | 'pro' | 'enterprise';
+  billing_email?: string;
+  is_active: boolean;
+  created_at: string;
+}
+
+export interface OrgMember {
+  organization_id: string;
+  user_id: string;
+  role: 'owner' | 'admin' | 'member';
+  user_email?: string; // Fetched separately
+}
+
+export const institutionalService = {
+  /**
+   * Create a new organization
+   */
+  async createOrganization(name: string, slug: string, billingEmail: string) {
+    const { data, error } = await supabase
+      .from('organizations')
+      .insert({ name, slug, billing_email: billingEmail })
+      .select()
+      .single();
+
+    if (error) throw error;
+
+    // Auto-add creator as owner (Trigger should handle this, or we do it manual)
+    // For now, let's do it manually if trigger doesn't exist.
+    // Ideally, we have a trigger or RPC. Let's try manual insert for now.
+    const { data: userData } = await supabase.auth.getUser();
+    if (userData?.user) {
+        await supabase.from('organization_members').insert({
+            organization_id: data.id,
+            user_id: userData.user.id,
+            role: 'owner'
+        });
+    }
+
+    return data;
+  },
+
+  /**
+   * Get user's organizations
+   */
+  async getUserOrganizations() {
+    const { data: { user } } = await supabase.auth.getUser();
+    if (!user) return [];
+
+    const { data, error } = await supabase
+      .from('organization_members')
+      .select(`
+        role,
+        organization:organizations (
+          id, name, slug, plan_tier, is_active
+        )
+      `)
+      .eq('user_id', user.id);
+
+    if (error) throw error;
+    return data.map(d => ({ ...d.organization, role: d.role })); // Flatten
+  },
+
+  /**
+   * Get members of an organization
+   */
+  async getOrganizationMembers(orgId: string) {
+    const { data, error } = await supabase
+      .from('organization_members')
+      .select('*')
+      .eq('organization_id', orgId);
+
+    if (error) throw error;
+    return data;
+  },
+
+  /**
+   * Invite member (Mockup for now)
+   */
+  async inviteMember(orgId: string, email: string, role: string) {
+    // In real app: call Edge Function to send email or create pending invite
+    console.log('Inviting', email, 'to', orgId, 'as', role);
+    return { success: true };
+  }
+};

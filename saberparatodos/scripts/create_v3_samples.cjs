@@ -11,277 +11,273 @@ function ensureDir(filePath) {
 }
 
 const QUESTIONS = [
+  // Grade 11 - Math - Period 1 - BUNDLE 1 (Inecuaciones)
   {
     meta: {
-      id: "CO-MAT-06-fracciones-001",
+      id: "CO-MAT-11-inecuaciones-001",
       country: "co",
-      grade: 6,
+      grade: 11,
       subject: "matematicas",
-      topic: "fracciones",
-      title: "Reparto de comida en una fiesta"
+      topic: "inecuaciones",
+      periodo: 1,
+      dba_id: "DBA-MAT-11-1",
+      title: "Inecuaciones Lineales y Contexto"
     },
-    base: {
-      question: "Si tengo 3/4 de torta y quiero compartirla entre 2 personas equitativamente, ¿cuánto le corresponde a cada una?",
-      answer: "3/8",
-      source_url: "https://opentdb.com"
-    },
+    base: { question: "Si el doble de un número más 5 es mayor que 15, ¿cuál es el conjunto solución?", answer: "x > 5", source_url: "https://opentdb.com" },
     variants: [
-      // Level 1: Very Easy
-      {
-        id_suffix: "v1",
-        difficulty: 1,
-        type: "Muy Fácil A",
-        question: "María tiene 1 torta entera y la corta en 8 pedazos iguales. Si se come 3 pedazos, ¿qué fracción representa lo que se comió?",
-        options: [
-           { text: "3/8", correct: true },
-           { text: "1/8", correct: false },
-           { text: "5/8", correct: false },
-           { text: "8/3", correct: false }
-        ],
-        explanation: "El denominador (8) indica el total de partes y el numerador (3) las partes tomadas. Por eso es 3/8."
-      },
-      {
-        id_suffix: "v2",
-        difficulty: 1,
-        type: "Muy Fácil B",
-        question: "¿Cuál de las siguientes fracciones representa la mitad de una arepa?",
-        options: [
-           { text: "1/2", correct: true },
-           { text: "1/4", correct: false },
-           { text: "2/1", correct: false },
-           { text: "2/4", correct: false } // Note: 2/4 is also 1/2 but usually simplistic options avoid equivalence or use simplest form as correct
-           // Let's change distractor to avoid confusion if strict:
-           // options: 1/2, 1/3, 1/4, 2/3
-        ],
-        // Refined options locally:
-        options: [
-            { text: "1/2", correct: true },
-            { text: "1/3", correct: false },
-            { text: "1/4", correct: false },
-            { text: "2/3", correct: false }
-        ],
-        explanation: "1/2 es la fracción estándar para representar una mitad."
-      },
-      // Level 2: Easy
-      {
-        id_suffix: "v3",
-        difficulty: 2,
-        type: "Fácil A",
-        question: "Juan tiene 1/2 de litro de jugo del Valle y se toma la mitad. ¿Cuánto jugo le queda?",
-        options: [
-           { text: "1/4 de litro", correct: true },
-           { text: "1/2 de litro", correct: false },
-           { text: "1 litro", correct: false },
-           { text: "0 litros", correct: false }
-        ],
-        explanation: "La mitad de 1/2 es 1/4. (1/2) ÷ 2 = 1/4."
-      },
-      {
-        id_suffix: "v4",
-        difficulty: 2,
-        type: "Fácil B",
-        question: "¿Qué fracción es mayor? 3/4 o 1/2",
-        options: [
-           { text: "3/4", correct: true },
-           { text: "1/2", correct: false },
-           { text: "Son iguales", correct: false },
-           { text: "No se puede saber", correct: false }
-        ],
-        explanation: "1/2 es igual a 2/4. Como 3/4 es mayor que 2/4, entonces 3/4 es mayor."
-      },
-      // Level 3: Medium
-      {
-        id_suffix: "v5",
-        difficulty: 3,
-        type: "Media A",
-        question: "En una fiesta en Bogotá, quedan 3/4 de una torta. Si se quiere repartir equitativamente entre 2 niños, ¿qué fracción de la torta original le corresponde a cada uno?",
-        options: [
-           { text: "3/8", correct: true },
-           { text: "3/2", correct: false },
-           { text: "6/4", correct: false },
-           { text: "1/2", correct: false }
-        ],
-        explanation: "Dividir una fracción por un entero: (3/4) ÷ 2 = 3 / (4×2) = 3/8."
-      },
-      {
-        id_suffix: "v6",
-        difficulty: 3,
-        type: "Media B",
-        question: "En un mercado de Cali, 1 libra de arroz cuesta $2000. Si compro 3/4 de libra, ¿cuánto pago?",
-        options: [
-           { text: "$1500", correct: true },
-           { text: "$1000", correct: false },
-           { text: "$500", correct: false },
-           { text: "$2000", correct: false }
-        ],
-        explanation: "3/4 de 2000 = (2000 ÷ 4) × 3 = 500 × 3 = 1500."
-      },
-      // Level 4: Hard
-      {
-        id_suffix: "v7",
-        difficulty: 4,
-        type: "Difícil A",
-        question: "Si un tanque está lleno hasta sus 2/3 partes y se consumen 1/3 de lo que hay, ¿qué fracción del tanque original se consumió?",
-        options: [
-           { text: "2/9", correct: true },
-           { text: "1/3", correct: false },
-           { text: "1/9", correct: false },
-           { text: "4/9", correct: false }
-        ],
-        explanation: "Se consume 1/3 DE 2/3. Es una multiplicación: (1/3) × (2/3) = 2/9."
-      },
-      {
-        id_suffix: "v8",
-        difficulty: 4,
-        type: "Difícil B",
-        question: "Andrés gasta 1/3 de su salario en arriendo y 2/5 en comida. ¿Qué fracción de su salario le queda?",
-        options: [
-           { text: "4/15", correct: true },
-           { text: "1/15", correct: false },
-           { text: "8/15", correct: false },
-           { text: "11/15", correct: false }
-        ],
-        explanation: "Gasto total: 1/3 + 2/5 = 5/15 + 6/15 = 11/15. Queda: 15/15 - 11/15 = 4/15."
-      },
-      // Level 5: Very Hard
-      {
-        id_suffix: "v9",
-        difficulty: 5,
-        type: "Muy Difícil A",
-        question: "Una piscina se llena con el grifo A en 4 horas y con el grifo B en 6 horas. Juntos, ¿qué fracción de la piscina llenan en 1 hora?",
-        options: [
-           { text: "5/12", correct: true },
-           { text: "1/2", correct: false },
-           { text: "1/10", correct: false },
-           { text: "7/12", correct: false }
-        ],
-        explanation: "A llena 1/4 por hora. B llena 1/6 por hora. 1/4 + 1/6 = 3/12 + 2/12 = 5/12."
-      },
-      {
-        id_suffix: "v10",
-        difficulty: 5,
-        type: "Muy Difícil B",
-        question: "Si a/b = 2/3 y b/c = 4/5, ¿cuánto vale a/c?",
-        options: [
-           { text: "8/15", correct: true },
-           { text: "6/8", correct: false },
-           { text: "2/5", correct: false },
-           { text: "3/5", correct: false }
-        ],
-        explanation: "(a/b) * (b/c) = a/c. Entonces: (2/3) * (4/5) = 8/15."
-      }
+      { id_suffix: "v1", difficulty: 1, type: "Muy Fácil A", question: "¿Qué significa x > 5?", options: [{text:"x es mayor que 5",correct:true},{text:"x es menor que 5",correct:false},{text:"x es igual a 5",correct:false},{text:"x es 5 o más",correct:false}], explanation: "El símbolo > significa estricta desigualdad mayor que." },
+      { id_suffix: "v2", difficulty: 1, type: "Muy Fácil B", question: "Si x < 3, un posible valor es:", options: [{text:"2",correct:true},{text:"3",correct:false},{text:"4",correct:false},{text:"5",correct:false}], explanation: "2 es menor que 3." },
+      { id_suffix: "v3", difficulty: 2, type: "Fácil A", question: "Resuelve: x + 3 > 10", options: [{text:"x > 7",correct:true},{text:"x > 13",correct:false},{text:"x < 7",correct:false},{text:"x = 7",correct:false}], explanation: "Restar 3 a ambos lados: x > 7." },
+      { id_suffix: "v4", difficulty: 2, type: "Fácil B", question: "Resuelve: 2x < 8", options: [{text:"x < 4",correct:true},{text:"x > 4",correct:false},{text:"x < 16",correct:false},{text:"x = 4",correct:false}], explanation: "Dividir por 2: x < 4." },
+      { id_suffix: "v5", difficulty: 3, type: "Media A", question: "Resuelve: -2x > 6", options: [{text:"x < -3",correct:true},{text:"x > -3",correct:false},{text:"x < 3",correct:false},{text:"x > 3",correct:false}], explanation: "Al dividir por número negativo (-2), se invierte la desigualdad." },
+      { id_suffix: "v6", difficulty: 3, type: "Media B", question: "Conjunto solución de 3x - 1 ≥ 5", options: [{text:"[2, ∞)",correct:true},{text:"(2, ∞)",correct:false},{text:"(-∞, 2]",correct:false},{text:"[2, 10]",correct:false}], explanation: "3x ≥ 6 => x ≥ 2. Intervalo cerrado en 2." },
+      { id_suffix: "v7", difficulty: 4, type: "Difícil A", question: "Un plan de datos cuesta $20.000 fijos más $50 por mega. Si tengo máximo $30.000, ¿cuántas megas puedo comprar?", options: [{text:"Hasta 200 megas",correct:true},{text:"Más de 200 megas",correct:false},{text:"Exactamente 500 megas",correct:false},{text:"Menos de 100 megas",correct:false}], explanation: "20000 + 50x ≤ 30000 => 50x ≤ 10000 => x ≤ 200." },
+      { id_suffix: "v8", difficulty: 4, type: "Difícil B", question: "Inecuación cuadrática: x^2 - 4 < 0", options: [{text:"(-2, 2)",correct:true},{text:"(-∞, -2) U (2, ∞)",correct:false},{text:"[-2, 2]",correct:false},{text:"x < 4",correct:false}], explanation: "(x-2)(x+2) < 0. Raíces en -2 y 2. Parábola abre arriba, negativa entre raíces." },
+      { id_suffix: "v9", difficulty: 5, type: "Muy Difícil A", question: "Valor absoluto: |x - 3| > 2", options: [{text:"(-∞, 1) U (5, ∞)",correct:true},{text:"(1, 5)",correct:false},{text:"(5, ∞)",correct:false},{text:"[-1, 5]",correct:false}], explanation: "x-3 > 2 O x-3 < -2 => x > 5 O x < 1." },
+      { id_suffix: "v10", difficulty: 5, type: "Muy Difícil B", question: "Sistema: x > 0 y x + y < 5. ¿Región?", options: [{text:"Primer cuadrante bajo la recta y = 5-x",correct:true},{text:"Cualquier punto positivo",correct:false},{text:"Bajo la recta pero x negativo",correct:false},{text:"Sobre la recta y = 5-x",correct:false}], explanation: "Intersección de semiplanos." }
     ]
   },
-  // Grade 7
-   {
-    meta: {
-      id: "CO-MAT-07-proporciones-001",
-      country: "co",
-      grade: 7,
-      subject: "matematicas",
-      topic: "proporciones",
-      title: "Recetas y Proporciones"
-    },
-    base: {
-      question: "Si para hacer 10 arepas necesito 500g de harina, ¿cuánta harina necesito para 15 arepas?",
-      answer: "750g",
-      source_url: "https://opentdb.com"
-    },
-    variants: [
-      { id_suffix: "v1", difficulty: 1, type: "Muy Fácil A", question: "Si 1 lápiz cuesta $500, ¿cuánto cuestan 2 lápices?", options: [{text:"$1000",correct:true},{text:"$500",correct:false},{text:"$1500",correct:false},{text:"$2000",correct:false}], explanation: "Multiplicamos 500 x 2 = 1000." },
-      { id_suffix: "v2", difficulty: 1, type: "Muy Fácil B", question: "Si camino 2 km en 1 hora, ¿a la misma velocidad cuántos camino en 2 horas?", options: [{text:"4 km",correct:true},{text:"2 km",correct:false},{text:"3 km",correct:false},{text:"6 km",correct:false}], explanation: "2 km/h * 2 h = 4 km." },
-      { id_suffix: "v3", difficulty: 2, type: "Fácil A", question: "Si 1 kilo de papa vale $2000, 3 kilos valen:", options: [{text:"$6000",correct:true},{text:"$4000",correct:false},{text:"$5000",correct:false},{text:"$8000",correct:false}], explanation: "3 * 2000 = 6000." },
-      { id_suffix: "v4", difficulty: 2, type: "Fácil B", question: "Un carro viaja a 60km/h. ¿Qué distancia recorre en 3 horas?", options: [{text:"180km",correct:true},{text:"120km",correct:false},{text:"60km",correct:false},{text:"200km",correct:false}], explanation: "Distancia = velocidad * tiempo = 60 * 3 = 180." },
-      { id_suffix: "v5", difficulty: 3, type: "Media A", question: "Doña María usa 500g de harina para 10 arepas. Para 15 arepas necesita:", options: [{text:"750g",correct:true},{text:"500g",correct:false},{text:"1000g",correct:false},{text:"800g",correct:false}], explanation: "Cada arepa usa 50g (500/10). 15 * 50 = 750g." },
-      { id_suffix: "v6", difficulty: 3, type: "Media B", question: "Si 3 cuadernos cuestan $12.000, ¿cuánto cuestan 5 cuadernos?", options: [{text:"$20.000",correct:true},{text:"$15.000",correct:false},{text:"$24.000",correct:false},{text:"$18.000",correct:false}], explanation: "Cada uno cuesta 4000 (12000/3). 5 * 4000 = 20000." },
-      { id_suffix: "v7", difficulty: 4, type: "Difícil A", question: "En un mapa escala 1:100.000, 5 cm representan en la realidad:", options: [{text:"5 km",correct:true},{text:"500 m",correct:false},{text:"50 km",correct:false},{text:"50 m",correct:false}], explanation: "5 cm * 100.000 = 500.000 cm = 5.000 m = 5 km." },
-      { id_suffix: "v8", difficulty: 4, type: "Difícil B", question: "3 obreros hacen un muro en 12 días. 6 obreros lo harían en:", options: [{text:"6 días",correct:true},{text:"24 días",correct:false},{text:"18 días",correct:false},{text:"3 días",correct:false}], explanation: "Proporcionalidad inversa: doble obreros, mitad tiempo. 12 / 2 = 6." },
-      { id_suffix: "v9", difficulty: 5, type: "Muy Difícil A", question: "Si A es inversamente proporcional a B, y cuando A=4, B=10. ¿Cuánto vale A si B=5?", options: [{text:"8",correct:true},{text:"2",correct:false},{text:"5",correct:false},{text:"20",correct:false}], explanation: "A*B = k. 4*10=40. A*5=40 => A=8." },
-      { id_suffix: "v10", difficulty: 5, type: "Muy Difícil B", question: "Una rueda de 50cm da 100 vueltas. Una de 25cm para la misma distancia da:", options: [{text:"200 vueltas",correct:true},{text:"50 vueltas",correct:false},{text:"150 vueltas",correct:false},{text:"100 vueltas",correct:false}], explanation: "Mitad radio, doble vueltas. 100 * 2 = 200." }
-    ]
-  },
-   // Grade 8
-   {
-    meta: {
-      id: "CO-MAT-08-algebra-001",
-      country: "co",
-      grade: 8,
-      subject: "matematicas",
-      topic: "algebra-basica",
-      title: "Expresiones Algebraicas"
-    },
-    base: {
-      question: "Simplifica: 2x + 3x - x",
-      answer: "4x",
-      source_url: "https://opentdb.com"
-    },
-    variants: [
-      { id_suffix: "v1", difficulty: 1, type: "Muy Fácil A", question: "¿Qué es una variable?", options: [{text:"Una letra que representa un número",correct:true},{text:"Un número fijo",correct:false},{text:"Un signo de operación",correct:false},{text:"Una figura geométrica",correct:false}], explanation: "En álgebra, las letras (variables) representan números desconocidos." },
-      { id_suffix: "v2", difficulty: 1, type: "Muy Fácil B", question: "Coeficiente de 5x:", options: [{text:"5",correct:true},{text:"x",correct:false},{text:"1",correct:false},{text:"0",correct:false}], explanation: "El número que multiplica." },
-      { id_suffix: "v3", difficulty: 2, type: "Fácil A", question: "Simplifica x + x + x", options: [{text:"3x",correct:true},{text:"x^3",correct:false},{text:"3+x",correct:false},{text:"3",correct:false}], explanation: "Suma de términos semejantes." },
-      { id_suffix: "v4", difficulty: 2, type: "Fácil B", question: "Valor de 2x si x=3", options: [{text:"6",correct:true},{text:"5",correct:false},{text:"23",correct:false},{text:"1",correct:false}], explanation: "2 * 3 = 6." },
-      { id_suffix: "v5", difficulty: 3, type: "Media A", question: "Simplifica 5a + 2b - 3a", options: [{text:"2a + 2b",correct:true},{text:"4ab",correct:false},{text:"7a + 2b",correct:false},{text:"2a - 2b",correct:false}], explanation: "5a - 3a = 2a." },
-      { id_suffix: "v6", difficulty: 3, type: "Media B", question: "Perímetro de cuadrado de lado x", options: [{text:"4x",correct:true},{text:"x^2",correct:false},{text:"x+4",correct:false},{text:"2x",correct:false}], explanation: "x+x+x+x = 4x." },
-      { id_suffix: "v7", difficulty: 4, type: "Difícil A", question: "Multiplica (2x)(3x^2)", options: [{text:"6x^3",correct:true},{text:"5x^3",correct:false},{text:"6x^2",correct:false},{text:"5x^2",correct:false}], explanation: "2*3=6, x*x^2=x^3." },
-      { id_suffix: "v8", difficulty: 4, type: "Difícil B", question: "Desarrolla (x+3)^2", options: [{text:"x^2 + 6x + 9",correct:true},{text:"x^2 + 9",correct:false},{text:"x^2 + 3x + 9",correct:false},{text:"2x + 6",correct:false}], explanation: "Binomio al cuadrado." },
-      { id_suffix: "v9", difficulty: 5, type: "Muy Difícil A", question: "Factoriza x^2 - 16", options: [{text:"(x-4)(x+4)",correct:true},{text:"(x-4)^2",correct:false},{text:"(x-8)(x+2)",correct:false},{text:"(x+4)(x+4)",correct:false}], explanation: "Diferencia de cuadrados." },
-      { id_suffix: "v10", difficulty: 5, type: "Muy Difícil B", question: "Simplifica (x^2 - 1)/(x - 1)", options: [{text:"x + 1",correct:true},{text:"x - 1",correct:false},{text:"x",correct:false},{text:"1",correct:false}], explanation: "Factoriza x^2-1 como (x-1)(x+1) y cancela (x-1)." }
-    ]
-  },
-  // Grade 9
+
+  // Grade 11 - Math - Period 1 - BUNDLE 2 (Valor Absoluto)
   {
     meta: {
-      id: "CO-MAT-09-ecuaciones-001",
+      id: "CO-MAT-11-valor-absoluto-001",
       country: "co",
-      grade: 9,
+      grade: 11,
       subject: "matematicas",
-      topic: "ecuaciones-lineales",
-      title: "Resolución de Ecuaciones"
+      topic: "numerosreales",
+      periodo: 1,
+      dba_id: "DBA-MAT-11-1",
+      title: "Propiedades del Valor Absoluto"
     },
-    base: {
-      question: "Resuelve para x: 3x - 5 = 10",
-      answer: "5",
-      source_url: "https://opentdb.com"
-    },
+    base: { question: "La distancia de un número x al cero se representa como |x|.", answer: "Verdadero", source_url: "https://opentdb.com" },
     variants: [
-      { id_suffix: "v1", difficulty: 1, type: "Muy Fácil A", question: "Si x = 5, ¿cuánto es x + 2?", options: [{text:"7",correct:true},{text:"5",correct:false},{text:"3",correct:false},{text:"10",correct:false}], explanation: "5 + 2 = 7." },
-      { id_suffix: "v2", difficulty: 1, type: "Muy Fácil B", question: "En la ecuación x - 3 = 0, x es:", options: [{text:"3",correct:true},{text:"-3",correct:false},{text:"0",correct:false},{text:"1",correct:false}], explanation: "x debe ser 3." },
-      { id_suffix: "v3", difficulty: 2, type: "Fácil A", question: "Resuelve: 2x = 10", options: [{text:"5",correct:true},{text:"20",correct:false},{text:"8",correct:false},{text:"12",correct:false}], explanation: "10 / 2 = 5." },
-      { id_suffix: "v4", difficulty: 2, type: "Fácil B", question: "Si 3x = 9, x vale:", options: [{text:"3",correct:true},{text:"6",correct:false},{text:"27",correct:false},{text:"9",correct:false}], explanation: "9 / 3 = 3." },
-      { id_suffix: "v5", difficulty: 3, type: "Media A", question: "Resuelve 2x + 1 = 11", options: [{text:"5",correct:true},{text:"6",correct:false},{text:"10",correct:false},{text:"4",correct:false}], explanation: "2x=10, x=5." },
-      { id_suffix: "v6", difficulty: 3, type: "Media B", question: "El triple de un número mas 2 es 17", options: [{text:"5",correct:true},{text:"15",correct:false},{text:"6",correct:false},{text:"3",correct:false}], explanation: "3x+2=17, 3x=15, x=5." },
-      { id_suffix: "v7", difficulty: 4, type: "Difícil A", question: "Suma de 3 números consecutivos es 33", options: [{text:"10, 11, 12",correct:true},{text:"9, 10, 11",correct:false},{text:"11, 12, 13",correct:false},{text:"8, 10, 12",correct:false}], explanation: "3x+3=33 => x=10." },
-      { id_suffix: "v8", difficulty: 4, type: "Difícil B", question: "Pedro tiene el doble que Juan, suman 30.", options: [{text:"Pedro 20, Juan 10",correct:true},{text:"Pedro 10, Juan 20",correct:false},{text:"15 y 15",correct:false},{text:"25 y 5",correct:false}], explanation: "2x+x=30, 3x=30, x=10." },
-      { id_suffix: "v9", difficulty: 5, type: "Muy Difícil A", question: "Sistema: x+y=10, x-y=2", options: [{text:"x=6, y=4",correct:true},{text:"x=5, y=5",correct:false},{text:"x=8, y=2",correct:false},{text:"x=7, y=3",correct:false}], explanation: "Suma ecuaciones: 2x=12." },
-      { id_suffix: "v10", difficulty: 5, type: "Muy Difícil B", question: "Sistema: 2x+y=7, x-y=2", options: [{text:"x=3, y=1",correct:true},{text:"x=2, y=3",correct:false},{text:"x=4, y=-1",correct:false},{text:"x=1, y=5",correct:false}], explanation: "3x=9 => x=3." }
+      { id_suffix: "v1", difficulty: 1, type: "Muy Fácil A", question: "¿Cuánto es |-5|?", options: [{text:"5",correct:true},{text:"-5",correct:false},{text:"0",correct:false},{text:"10",correct:false}], explanation: "El valor absoluto es la distancia al cero, siempre positivo." },
+      { id_suffix: "v2", difficulty: 1, type: "Muy Fácil B", question: "Si |x| = 3, x puede ser:", options: [{text:"3 o -3",correct:true},{text:"Solo 3",correct:false},{text:"Solo -3",correct:false},{text:"Ninguno",correct:false}], explanation: "Tanto 3 como -3 están a 3 unidades del cero." },
+      { id_suffix: "v3", difficulty: 2, type: "Fácil A", question: "Calcula |7 - 10|", options: [{text:"3",correct:true},{text:"-3",correct:false},{text:"17",correct:false},{text:"-17",correct:false}], explanation: "|-3| = 3." },
+      { id_suffix: "v4", difficulty: 2, type: "Fácil B", question: "¿Cuál expresión representa la distancia entre x y 5?", options: [{text:"|x - 5|",correct:true},{text:"|x + 5|",correct:false},{text:"x - 5",correct:false},{text:"x + 5",correct:false}], explanation: "La distancia matemática es el valor absoluto de la diferencia." },
+      { id_suffix: "v5", difficulty: 3, type: "Media A", question: "Resuelve |x + 2| = 5", options: [{text:"x = 3, x = -7",correct:true},{text:"x = 3, x = 7",correct:false},{text:"x = -3, x = 7",correct:false},{text:"x = 5, x = -5",correct:false}], explanation: "x+2=5 => x=3; x+2=-5 => x=-7." },
+      { id_suffix: "v6", difficulty: 3, type: "Media B", question: "Si |x| < 4, entonces:", options: [{text:"-4 < x < 4",correct:true},{text:"x < 4",correct:false},{text:"x > 4",correct:false},{text:"x < -4",correct:false}], explanation: "Propiedad fundamental: distancia menor que 4 implica estar entre -4 y 4." },
+      { id_suffix: "v7", difficulty: 4, type: "Difícil A", question: "Resuelve |2x - 1| = |x + 3|", options: [{text:"x = 4, x = -2/3",correct:true},{text:"x = 4, x = 2",correct:false},{text:"x = -4, x = 2/3",correct:false},{text:"No tiene solución",correct:false}], explanation: "Dos casos: 2x-1 = x+3 (x=4) y 2x-1 = -(x+3) (3x=-2)." },
+      { id_suffix: "v8", difficulty: 4, type: "Difícil B", question: "Inecuación: |x - 2| ≥ 0", options: [{text:"Todos los reales",correct:true},{text:"x ≥ 2",correct:false},{text:"x ≤ 2",correct:false},{text:"x = 2",correct:false}], explanation: "El valor absoluto siempre es mayor o igual a cero por definición." },
+      { id_suffix: "v9", difficulty: 5, type: "Muy Difícil A", question: "Gráfica de f(x) = |x - 1| + 2. El vértice es:", options: [{text:"(1, 2)",correct:true},{text:"(-1, 2)",correct:false},{text:"(1, -2)",correct:false},{text:"(0, 0)",correct:false}], explanation: "Traslación horizontal 1 a derecha, vertical 2 arriba." },
+      { id_suffix: "v10", difficulty: 5, type: "Muy Difícil B", question: "Resuelve ||x| - 1| = 2", options: [{text:"x = ±3",correct:true},{text:"x = ±1",correct:false},{text:"x = 3",correct:false},{text:"x = -3",correct:false}], explanation: "|x|-1 = 2 => |x|=3 => x=±3. (|x|-1=-2 => |x|=-1 Imposible)." }
     ]
   },
-   // Grade 10
-   {
+
+  // Grade 11 - Math - Period 1 - BUNDLE 3 (Funciones Concepto)
+  {
     meta: {
-      id: "CO-MAT-10-trigonometria-001",
+      id: "CO-MAT-11-funciones-001",
       country: "co",
-      grade: 10,
+      grade: 11,
       subject: "matematicas",
-      topic: "trigonometria",
-      title: "Triángulos Rectángulos"
+      topic: "funciones",
+      periodo: 1,
+      dba_id: "DBA-MAT-11-2",
+      title: "Concepto de Función"
     },
-    base: {
-      question: "En un triángulo rectángulo, ¿cómo se llama el lado opuesto al ángulo recto?",
-      answer: "Hipotenusa",
-      source_url: "https://opentdb.com"
-    },
+    base: { question: "¿Qué define a una función matemática?", answer: "Relación uno a uno", source_url: "https://opentdb.com" },
     variants: [
-      { id_suffix: "v1", difficulty: 1, type: "Muy Fácil A", question: "¿Cuántos ángulos rectos tiene un triángulo rectángulo?", options: [{text:"1",correct:true},{text:"2",correct:false},{text:"3",correct:false},{text:"0",correct:false}], explanation: "Por definición tiene uno de 90°." },
-      { id_suffix: "v2", difficulty: 1, type: "Muy Fácil B", question: "Suma de ángulos internos de un triángulo:", options: [{text:"180°",correct:true},{text:"90°",correct:false},{text:"360°",correct:false},{text:"100°",correct:false}], explanation: "Siempre es 180°." },
-      { id_suffix: "v3", difficulty: 2, type: "Fácil A", question: "Lado más largo del triángulo rectángulo:", options: [{text:"Hipotenusa",correct:true},{text:"Cateto opuesto",correct:false},{text:"Cateto adyacente",correct:false},{text:"Ninguno",correct:false}], explanation: "La hipotenusa es siempre el mayor." },
-      { id_suffix: "v4", difficulty: 2, type: "Fácil B", question: "Teorema de Pitágoras fórmula:", options: [{text:"c^2 = a^2 + b^2",correct:true},{text:"c = a + b",correct:false},{text:"c^2 = a + b",correct:false},{text:"a^2 = b^2 + c^2",correct:false}], explanation: "Suma de cuadrados de catetos." },
-      { id_suffix: "v5", difficulty: 3, type: "Media A", question: "Si catetos miden 3 y 4, hipotenusa mide:", options: [{text:"5",correct:true},{text:"7",correct:false},{text:"25",correct:false},{text:"6",correct:false}], explanation: "Raiz(9+16)=5." },
-      { id_suffix: "v6", difficulty: 3, type: "Media B", question: "Sen(30°) es:", options: [{text:"0.5",correct:true},{text:"1",correct:false},{text:"0.86",correct:false},{text:"0",correct:false}], explanation: "Es 1/2." },
-      { id_suffix: "v7", difficulty: 4, type: "Difícil A", question: "Escalera 10m, base a 6m de pared. Altura:", options: [{text:"8m",correct:true},{text:"4m",correct:false},{text:"12m",correct:false},{text:"16m",correct:false}], explanation: "100-36=64. Raiz=8." },
-      { id_suffix: "v8", difficulty: 4, type: "Difícil B", question: "Edificio sombra 20m, ángulo sol 45°. Altura:", options: [{text:"20m",correct:true},{text:"40m",correct:false},{text:"10m",correct:false},{text:"28m",correct:false}], explanation: "Tan(45)=1. Altura=Sombra." },
-      { id_suffix: "v9", difficulty: 5, type: "Muy Difícil A", question: "Simplifica sen^2 x + cos^2 x", options: [{text:"1",correct:true},{text:"0",correct:false},{text:"-1",correct:false},{text:"2sin x",correct:false}], explanation: "Identidad fundamental." },
-      { id_suffix: "v10", difficulty: 5, type: "Muy Difícil B", question: "Si tan(x) = 1, x puede ser:", options: [{text:"45°",correct:true},{text:"30°",correct:false},{text:"60°",correct:false},{text:"90°",correct:false}], explanation: "Tangente de 45 es 1." }
+      { id_suffix: "v1", difficulty: 1, type: "Muy Fácil A", question: "En una función, para cada valor de x corresponde:", options: [{text:"Un único valor de y",correct:true},{text:"Dos valores de y",correct:false},{text:"Muchos valores de y",correct:false},{text:"Ningún valor",correct:false}], explanation: "Definición básica de función (unicidad)." },
+      { id_suffix: "v2", difficulty: 1, type: "Muy Fácil B", question: "Si f(x) = x + 1, entonces f(2) es:", options: [{text:"3",correct:true},{text:"2",correct:false},{text:"1",correct:false},{text:"4",correct:false}], explanation: "Reemplazar x por 2: 2+1=3." },
+      { id_suffix: "v3", difficulty: 2, type: "Fácil A", question: "¿Cuál diagrama representa una función?", options: [{text:"El que tiene una sola flecha saliendo de cada elemento del dominio",correct:true},{text:"El que tiene dos flechas desde un elemento",correct:false},{text:"Un círculo",correct:false},{text:"Ninguno",correct:false}], explanation: "Cada entrada tiene exactamente una salida." },
+      { id_suffix: "v4", difficulty: 2, type: "Fácil B", question: "¿Es una circunferencia una función de x?", options: [{text:"No, falla la prueba de línea vertical",correct:true},{text:"Sí, siempre",correct:false},{text:"Sí, si es pequeña",correct:false},{text:"Depende del radio",correct:false}], explanation: "Para un x hay dos valores de y." },
+      { id_suffix: "v5", difficulty: 3, type: "Media A", question: "Dominio de f(x) = 1/x", options: [{text:"Reales menos el 0",correct:true},{text:"Todos los reales",correct:false},{text:"Solo positivos",correct:false},{text:"Solo negativos",correct:false}], explanation: "No se puede dividir por cero." },
+      { id_suffix: "v6", difficulty: 3, type: "Media B", question: "La gráfica de f(x) = x^2 es una:", options: [{text:"Parábola",correct:true},{text:"Recta",correct:false},{text:"Circunferencia",correct:false},{text:"Hipérbola",correct:false}], explanation: "Función cuadrática básica." },
+      { id_suffix: "v7", difficulty: 4, type: "Difícil A", question: "Si f(x) = 2x - 1, la función inversa f⁻¹(x) es:", options: [{text:"(x + 1) / 2",correct:true},{text:"2x + 1",correct:false},{text:"x/2 - 1",correct:false},{text:"1 - 2x",correct:false}], explanation: "y=2x-1 => y+1=2x => x=(y+1)/2." },
+      { id_suffix: "v8", difficulty: 4, type: "Difícil B", question: "Dominio de f(x) = √(x - 2)", options: [{text:"[2, ∞)",correct:true},{text:"(2, ∞)",correct:false},{text:"Reales",correct:false},{text:"x > 0",correct:false}], explanation: "El radicando debe ser no negativo: x-2 ≥ 0." },
+      { id_suffix: "v9", difficulty: 5, type: "Muy Difícil A", question: "Composición (f∘g)(x) si f(x)=x^2, g(x)=x+1", options: [{text:"(x+1)^2",correct:true},{text:"x^2 + 1",correct:false},{text:"x(x+1)",correct:false},{text:"x^2 + x",correct:false}], explanation: "f(g(x)) = f(x+1) = (x+1)^2." },
+      { id_suffix: "v10", difficulty: 5, type: "Muy Difícil B", question: "¿Es f(x) = x³ inyectiva?", options: [{text:"Sí, pasa prueba horizontal",correct:true},{text:"No, tiene dos x para un y",correct:false},{text:"Solo en positivos",correct:false},{text:"No es función",correct:false}], explanation: "A cada y corresponde un único x." }
+    ]
+  },
+
+  // Grade 11 - Math - Period 1 - BUNDLE 4 (Dominio y Rango)
+  {
+    meta: {
+      id: "CO-MAT-11-dominio-rango-001",
+      country: "co",
+      grade: 11,
+      subject: "matematicas",
+      topic: "funciones",
+      periodo: 1,
+      dba_id: "DBA-MAT-11-2",
+      title: "Dominio y Rango"
+    },
+    base: { question: "El conjunto de valores de entrada se llama Dominio.", answer: "Verdadero", source_url: "https://opentdb.com" },
+    variants: [
+      { id_suffix: "v1", difficulty: 1, type: "Muy Fácil A", question: "¿Cómo se llama el conjunto de salida (valores Y)?", options: [{text:"Rango",correct:true},{text:"Dominio",correct:false},{text:"Plano",correct:false},{text:"Eje X",correct:false}], explanation: "El rango o recorrido son los valores que toma la variable dependiente." },
+      { id_suffix: "v2", difficulty: 1, type: "Muy Fácil B", question: "Dominio de f(x) = x + 5", options: [{text:"Todos los reales",correct:true},{text:"x > 0",correct:false},{text:"x < 0",correct:false},{text:"Enteros solamente",correct:false}], explanation: "Un polinomio no tiene restricciones." },
+      { id_suffix: "v3", difficulty: 2, type: "Fácil A", question: "Rango de f(x) = x^2", options: [{text:"[0, ∞)",correct:true},{text:"Reales",correct:false},{text:"(-∞, 0]",correct:false},{text:"[1, ∞)",correct:false}], explanation: "Un cuadrado real nunca es negativo." },
+      { id_suffix: "v4", difficulty: 2, type: "Fácil B", question: "Valor excluido del dominio de f(x) = 1/(x-3)", options: [{text:"3",correct:true},{text:"-3",correct:false},{text:"0",correct:false},{text:"1",correct:false}], explanation: "El denominador no puede ser cero." },
+      { id_suffix: "v5", difficulty: 3, type: "Media A", question: "Dominio de f(x) = √(4 - x)", options: [{text:"(-∞, 4]",correct:true},{text:"[4, ∞)",correct:false},{text:"Reales",correct:false},{text:"[0, 4]",correct:false}], explanation: "4-x ≥ 0 => x ≤ 4." },
+      { id_suffix: "v6", difficulty: 3, type: "Media B", question: "Rango de f(x) = sin(x)", options: [{text:"[-1, 1]",correct:true},{text:"Reales",correct:false},{text:"[0, 1]",correct:false},{text:"(-1, 1)",correct:false}], explanation: "La función seno oscila entre -1 y 1." },
+      { id_suffix: "v7", difficulty: 4, type: "Difícil A", question: "Dominio de f(x) = ln(x - 5)", options: [{text:"(5, ∞)",correct:true},{text:"[5, ∞)",correct:false},{text:"Reales",correct:false},{text:"x > 0",correct:false}], explanation: "El argumento del logaritmo debe ser estrictamente positivo." },
+      { id_suffix: "v8", difficulty: 4, type: "Difícil B", question: "Rango de f(x) = e^x", options: [{text:"(0, ∞)",correct:true},{text:"Reales",correct:false},{text:"[0, ∞)",correct:false},{text:"[1, ∞)",correct:false}], explanation: "La exponencial siempre es positiva." },
+      { id_suffix: "v9", difficulty: 5, type: "Muy Difícil A", question: "Dominio de f(x) = √(x^2 - 9)", options: [{text:"(-∞, -3] U [3, ∞)",correct:true},{text:"[-3, 3]",correct:false},{text:"(3, ∞)",correct:false},{text:"Reales",correct:false}], explanation: "x^2 - 9 ≥ 0. Valores fuera de las raíces." },
+      { id_suffix: "v10", difficulty: 5, type: "Muy Difícil B", question: "Rango de f(x) = 1/(x^2 + 1)", options: [{text:"(0, 1]",correct:true},{text:"Reales",correct:false},{text:"[0, 1]",correct:false},{text:"(0, ∞)",correct:false}], explanation: "Máximo en x=0 valor 1. Al crecer x tiende a 0 pero nunca llega." }
+    ]
+  },
+
+  // Grade 11 - Math - Period 1 - BUNDLE 5 (Funcion Lineal)
+  {
+    meta: {
+      id: "CO-MAT-11-funcion-lineal-001",
+      country: "co",
+      grade: 11,
+      subject: "matematicas",
+      topic: "funciones",
+      periodo: 1,
+      dba_id: "DBA-MAT-11-2",
+      title: "Modelado con Función Lineal"
+    },
+    base: { question: "La ecuación y = mx + b representa una recta.", answer: "Verdadero", source_url: "https://opentdb.com" },
+    variants: [
+      { id_suffix: "v1", difficulty: 1, type: "Muy Fácil A", question: "En y = 3x + 2, la pendiente es:", options: [{text:"3",correct:true},{text:"2",correct:false},{text:"x",correct:false},{text:"5",correct:false}], explanation: "El coeficiente de x es la pendiente." },
+      { id_suffix: "v2", difficulty: 1, type: "Muy Fácil B", question: "Punto de corte con eje Y de y = 2x - 4:", options: [{text:"-4",correct:true},{text:"2",correct:false},{text:"4",correct:false},{text:"0",correct:false}], explanation: "Es el término independiente b." },
+      { id_suffix: "v3", difficulty: 2, type: "Fácil A", question: "Si la pendiente es positiva, la función es:", options: [{text:"Creciente",correct:true},{text:"Decreciente",correct:false},{text:"Constante",correct:false},{text:"Vertical",correct:false}], explanation: "m > 0 implica subida." },
+      { id_suffix: "v4", difficulty: 2, type: "Fácil B", question: "Ecuación de recta que pasa por (0,0) con pendiente 1:", options: [{text:"y = x",correct:true},{text:"y = x + 1",correct:false},{text:"y = 1",correct:false},{text:"x = 1",correct:false}], explanation: "y = 1x + 0 => y = x." },
+      { id_suffix: "v5", difficulty: 3, type: "Media A", question: "Un taxi cobra $5000 arranque + $200 por metro. Ecuación:", options: [{text:"y = 200x + 5000",correct:true},{text:"y = 5000x + 200",correct:false},{text:"y = 5200x",correct:false},{text:"y = 200x",correct:false}], explanation: "Costo variable 200x, fijo 5000." },
+      { id_suffix: "v6", difficulty: 3, type: "Media B", question: "Pendiente de la recta que pasa por (1,2) y (3,6):", options: [{text:"2",correct:true},{text:"4",correct:false},{text:"1",correct:false},{text:"3",correct:false}], explanation: "m = (6-2)/(3-1) = 4/2 = 2." },
+      { id_suffix: "v7", difficulty: 4, type: "Difícil A", question: "Intersección de y = 2x - 2 y y = -x + 4:", options: [{text:"(2, 2)",correct:true},{text:"(1, 4)",correct:false},{text:"(0, 0)",correct:false},{text:"(3, 1)",correct:false}], explanation: "2x-2 = -x+4 => 3x=6 => x=2. y=2(2)-2=2." },
+      { id_suffix: "v8", difficulty: 4, type: "Difícil B", question: "Recta perpendicular a y = 2x + 1:", options: [{text:"y = -0.5x",correct:true},{text:"y = 2x",correct:false},{text:"y = 0.5x",correct:false},{text:"y = -2x",correct:false}], explanation: "Producto de pendientes debe ser -1. m2 = -1/2." },
+      { id_suffix: "v9", difficulty: 5, type: "Muy Difícil A", question: "Depreciación lineal: Valor inicial $1000, vida 10 años. Valor año 5:", options: [{text:"$500",correct:true},{text:"$600",correct:false},{text:"$400",correct:false},{text:"$0",correct:false}], explanation: "Pierde $100/año. $1000 - 5(100) = $500." },
+      { id_suffix: "v10", difficulty: 5, type: "Muy Difícil B", question: "Ecuación punto-pendiente para m=3 y punto (2,5):", options: [{text:"y - 5 = 3(x - 2)",correct:true},{text:"y = 3x + 5",correct:false},{text:"y + 5 = 3(x + 2)",correct:false},{text:"y = 3x - 2",correct:false}], explanation: "Fórmula de la recta." }
+    ]
+  },
+
+  // Grade 11 - Math - Period 1 - BUNDLE 6 (Funcion Cuadratica)
+  {
+    meta: {
+      id: "CO-MAT-11-funcion-cuadratica-001",
+      country: "co",
+      grade: 11,
+      subject: "matematicas",
+      topic: "funciones", // Covers 'algebra' too
+      periodo: 1,
+      dba_id: "DBA-MAT-11-2",
+      title: "Función Cuadrática"
+    },
+    base: { question: "El gráfico de una función cuadrática es una parábola.", answer: "Verdadero", source_url: "https://opentdb.com" },
+    variants: [
+      { id_suffix: "v1", difficulty: 1, type: "Muy Fácil A", question: "La forma general de una función cuadrática es:", options: [{text:"ax² + bx + c",correct:true},{text:"mx + b",correct:false},{text:"a^x",correct:false},{text:"log(x)",correct:false}], explanation: "Polinomio de grado 2." },
+      { id_suffix: "v2", difficulty: 1, type: "Muy Fácil B", question: "Si a > 0, la parábola abre hacia:", options: [{text:"Arriba",correct:true},{text:"Abajo",correct:false},{text:"Izquierda",correct:false},{text:"Derecha",correct:false}], explanation: "Coeficiente principal positivo => concavidad positiva." },
+      { id_suffix: "v3", difficulty: 2, type: "Fácil A", question: "Vértice de y = x²:", options: [{text:"(0,0)",correct:true},{text:"(1,1)",correct:false},{text:"(0,1)",correct:false},{text:"(1,0)",correct:false}], explanation: "Punto mínimo en el origen." },
+      { id_suffix: "v4", difficulty: 2, type: "Fácil B", question: "Número máximo de cortes con eje X:", options: [{text:"2",correct:true},{text:"1",correct:false},{text:"3",correct:false},{text:"infinitos",correct:false}], explanation: "Una ecuación de grado 2 tiene máximo 2 soluciones reales." },
+      { id_suffix: "v5", difficulty: 3, type: "Media A", question: "Eje de simetría de y = (x-2)² + 1:", options: [{text:"x = 2",correct:true},{text:"x = -2",correct:false},{text:"y = 1",correct:false},{text:"x = 0",correct:false}], explanation: "El vértice está en (2,1)." },
+      { id_suffix: "v6", difficulty: 3, type: "Media B", question: "Raíces de x² - 9 = 0:", options: [{text:"3 y -3",correct:true},{text:"9 y -9",correct:false},{text:"0 y 9",correct:false},{text:"3 y 0",correct:false}], explanation: "x² = 9 => x = ±3." },
+      { id_suffix: "v7", difficulty: 4, type: "Difícil A", question: "Altura máxima de h(t) = -5t² + 20t:", options: [{text:"20 m",correct:true},{text:"10 m",correct:false},{text:"2 m",correct:false},{text:"5 m",correct:false}], explanation: "Vértice t = -b/2a = -20/-10 = 2s. h(2) = -20 + 40 = 20." },
+      { id_suffix: "v8", difficulty: 4, type: "Difícil B", question: "Discriminante de x² + 2x + 1:", options: [{text:"0",correct:true},{text:"4",correct:false},{text:"-4",correct:false},{text:"1",correct:false}], explanation: "b² - 4ac = 4 - 4(1)(1) = 0." },
+      { id_suffix: "v9", difficulty: 5, type: "Muy Difícil A", question: "Forma canónica de y = 2x² - 12x + 10:", options: [{text:"y = 2(x-3)² - 8",correct:true},{text:"y = 2(x-3)² + 8",correct:false},{text:"y = 2(x+3)² - 8",correct:false},{text:"y = (x-3)² - 4",correct:false}], explanation: "Completar cuadrados." },
+      { id_suffix: "v10", difficulty: 5, type: "Muy Difícil B", question: "Rango de y = -x² + 4:", options: [{text:"(-∞, 4]",correct:true},{text:"[4, ∞)",correct:false},{text:"Reales",correct:false},{text:"(-∞, 0]",correct:false}], explanation: "Máximo en y=4, abre hacia abajo." }
+    ]
+  },
+
+  // Grade 11 - Math - Period 1 - BUNDLE 7 (Funcion Exponencial)
+  {
+    meta: {
+      id: "CO-MAT-11-funcion-exponencial-001",
+      country: "co",
+      grade: 11,
+      subject: "matematicas",
+      topic: "exponenciales",
+      periodo: 1,
+      dba_id: "DBA-MAT-11-2",
+      title: "Función Exponencial"
+    },
+    base: { question: "Una función exponencial crece muy rápido.", answer: "Verdadero", source_url: "https://opentdb.com" },
+    variants: [
+      { id_suffix: "v1", difficulty: 1, type: "Muy Fácil A", question: "Forma general de función exponencial:", options: [{text:"a^x",correct:true},{text:"x^a",correct:false},{text:"ax",correct:false},{text:"a/x",correct:false}], explanation: "Base constante, exponente variable." },
+      { id_suffix: "v2", difficulty: 1, type: "Muy Fácil B", question: "Valor de 2^0:", options: [{text:"1",correct:true},{text:"0",correct:false},{text:"2",correct:false},{text:"Indefinido",correct:false}], explanation: "Todo número elevado a 0 es 1." },
+      { id_suffix: "v3", difficulty: 2, type: "Fácil A", question: "Si f(x) = 2^x, f(3) es:", options: [{text:"8",correct:true},{text:"6",correct:false},{text:"5",correct:false},{text:"9",correct:false}], explanation: "2*2*2 = 8." },
+      { id_suffix: "v4", difficulty: 2, type: "Fácil B", question: "Si la base es mayor que 1, la función es:", options: [{text:"Creciente",correct:true},{text:"Decreciente",correct:false},{text:"Constante",correct:false},{text:"Oscilante",correct:false}], explanation: "Crecimiento exponencial." },
+      { id_suffix: "v5", difficulty: 3, type: "Media A", question: "Resuelve 3^x = 27", options: [{text:"3",correct:true},{text:"9",correct:false},{text:"2",correct:false},{text:"4",correct:false}], explanation: "3*3*3 = 27." },
+      { id_suffix: "v6", difficulty: 3, type: "Media B", question: "Dominio de f(x) = 2^x:", options: [{text:"Reales",correct:true},{text:"Positivos",correct:false},{text:"Negativos",correct:false},{text:"[0, ∞)",correct:false}], explanation: "No hay restricción para el exponente." },
+      { id_suffix: "v7", difficulty: 4, type: "Difícil A", question: "Una bacteria se duplica cada hora. Si hay 100, en 3 horas habrá:", options: [{text:"800",correct:true},{text:"600",correct:false},{text:"300",correct:false},{text:"400",correct:false}], explanation: "100 * 2^3 = 100 * 8 = 800." },
+      { id_suffix: "v8", difficulty: 4, type: "Difícil B", question: "Resuelve 4^(x+1) = 16", options: [{text:"1",correct:true},{text:"2",correct:false},{text:"3",correct:false},{text:"0",correct:false}], explanation: "4^(x+1) = 4^2 => x+1=2 => x=1." },
+      { id_suffix: "v9", difficulty: 5, type: "Muy Difícil A", question: "Asíntota de f(x) = 2^x:", options: [{text:"y = 0",correct:true},{text:"x = 0",correct:false},{text:"y = 1",correct:false},{text:"x = 1",correct:false}], explanation: "Se acerca al eje X pero nunca lo toca." },
+      { id_suffix: "v10", difficulty: 5, type: "Muy Difícil B", question: "Interés compuesto: C(t) = P(1+r)^t. P=1000, r=0.1, t=2:", options: [{text:"1210",correct:true},{text:"1200",correct:false},{text:"1100",correct:false},{text:"1020",correct:false}], explanation: "1000(1.1)^2 = 1000(1.21) = 1210." }
+    ]
+  },
+
+  // Grade 11 - Math - Period 1 - BUNDLE 8 (Funcion Logaritmica)
+  {
+    meta: {
+      id: "CO-MAT-11-funcion-logaritmica-001",
+      country: "co",
+      grade: 11,
+      subject: "matematicas",
+      topic: "logaritmos",
+      periodo: 1,
+      dba_id: "DBA-MAT-11-2",
+      title: "Logaritmos y sus Propiedades"
+    },
+    base: { question: "El logaritmo es la operación inversa de la exponenciación.", answer: "Verdadero", source_url: "https://opentdb.com" },
+    variants: [
+      { id_suffix: "v1", difficulty: 1, type: "Muy Fácil A", question: "log_b(b) es siempre:", options: [{text:"1",correct:true},{text:"0",correct:false},{text:"b",correct:false},{text:"Indefinido",correct:false}], explanation: "Base a la 1 es base." },
+      { id_suffix: "v2", difficulty: 1, type: "Muy Fácil B", question: "log(100) en base 10 es:", options: [{text:"2",correct:true},{text:"10",correct:false},{text:"3",correct:false},{text:"1",correct:false}], explanation: "10^2 = 100." },
+      { id_suffix: "v3", difficulty: 2, type: "Fácil A", question: "Convierte 2^3 = 8 a logaritmo:", options: [{text:"log_2(8) = 3",correct:true},{text:"log_3(8) = 2",correct:false},{text:"log_8(2) = 3",correct:false},{text:"log_2(3) = 8",correct:false}], explanation: "Base 2, argumento 8, exponente 3." },
+      { id_suffix: "v4", difficulty: 2, type: "Fácil B", question: "log_5(5^4) es:", options: [{text:"4",correct:true},{text:"5",correct:false},{text:"20",correct:false},{text:"1",correct:false}], explanation: "Se anulan log y potencia." },
+      { id_suffix: "v5", difficulty: 3, type: "Media A", question: "log(a*b) es igual a:", options: [{text:"log(a) + log(b)",correct:true},{text:"log(a) * log(b)",correct:false},{text:"log(a+b)",correct:false},{text:"log(a) - log(b)",correct:false}], explanation: "Propiedad de la multiplicación." },
+      { id_suffix: "v6", difficulty: 3, type: "Media B", question: "Resuelve log_x(9) = 2:", options: [{text:"3",correct:true},{text:"9",correct:false},{text:"81",correct:false},{text:"4.5",correct:false}], explanation: "x^2 = 9 => x=3 (base positiva)." },
+      { id_suffix: "v7", difficulty: 4, type: "Difícil A", question: "Simplifica log_2(16) - log_2(8):", options: [{text:"1",correct:true},{text:"2",correct:false},{text:"0.5",correct:false},{text:"8",correct:false}], explanation: "4 - 3 = 1. O log_2(16/8) = log_2(2) = 1." },
+      { id_suffix: "v8", difficulty: 4, type: "Difícil B", question: "Dominio de y = log(x-2):", options: [{text:"x > 2",correct:true},{text:"x >= 2",correct:false},{text:"x < 2",correct:false},{text:"Reales",correct:false}], explanation: "Argumento mayor que 0." },
+      { id_suffix: "v9", difficulty: 5, type: "Muy Difícil A", question: "Resuelve log(x) + log(x-3) = 1 (base 10):", options: [{text:"5",correct:true},{text:"2",correct:false},{text:"5 y -2",correct:false},{text:"-2",correct:false}], explanation: "log(x(x-3))=1 => x^2-3x-10=0. Soluciones 5 y -2. Solo 5 válida." },
+      { id_suffix: "v10", difficulty: 5, type: "Muy Difícil B", question: "pH = -log[H+]. Si [H+] = 10^-7, pH es:", options: [{text:"7",correct:true},{text:"-7",correct:false},{text:"1",correct:false},{text:"10",correct:false}], explanation: "-(-7) = 7." }
+    ]
+  },
+
+  // Grade 11 - Math - Period 1 - BUNDLE 9 (Operaciones Funciones)
+  {
+    meta: {
+      id: "CO-MAT-11-operaciones-funciones-001",
+      country: "co",
+      grade: 11,
+      subject: "matematicas",
+      topic: "funciones",
+      periodo: 1,
+      dba_id: "DBA-MAT-11-2",
+      title: "Operaciones con Funciones"
+    },
+    base: { question: "Se pueden sumar, restar, multiplicar y dividir funciones.", answer: "Verdadero", source_url: "https://opentdb.com" },
+    variants: [
+      { id_suffix: "v1", difficulty: 1, type: "Muy Fácil A", question: "Si f(x)=x y g(x)=2x, (f+g)(x) es:", options: [{text:"3x",correct:true},{text:"2x^2",correct:false},{text:"x",correct:false},{text:"2",correct:false}], explanation: "Sumar términos semejantes." },
+      { id_suffix: "v2", difficulty: 1, type: "Muy Fácil B", question: "Si f(x)=5 y g(x)=3, (f-g)(x) es:", options: [{text:"2",correct:true},{text:"8",correct:false},{text:"15",correct:false},{text:"5/3",correct:false}], explanation: "5-3=2." },
+      { id_suffix: "v3", difficulty: 2, type: "Fácil A", question: "Si f(x)=x^2 y g(x)=x, (f*g)(x) es:", options: [{text:"x^3",correct:true},{text:"x^2",correct:false},{text:"2x",correct:false},{text:"x",correct:false}], explanation: "Multiplicar potencias igual base." },
+      { id_suffix: "v4", difficulty: 2, type: "Fácil B", question: "Si f(x)=4x y g(x)=2, (f/g)(x) es:", options: [{text:"2x",correct:true},{text:"2",correct:false},{text:"8x",correct:false},{text:"4x",correct:false}], explanation: "4x/2 = 2x." },
+      { id_suffix: "v5", difficulty: 3, type: "Media A", question: "Dominio de f/g requiere que:", options: [{text:"g(x) ≠ 0",correct:true},{text:"g(x) > 0",correct:false},{text:"f(x) ≠ 0",correct:false},{text:"f(x) = g(x)",correct:false}], explanation: "Evitar división por cero." },
+      { id_suffix: "v6", difficulty: 3, type: "Media B", question: "Si f(x)=x+1 y g(x)=x-1, (f*g)(x) es:", options: [{text:"x^2 - 1",correct:true},{text:"x^2 + 1",correct:false},{text:"2x",correct:false},{text:"x^2 - 2x + 1",correct:false}], explanation: "Diferencia de cuadrados." },
+      { id_suffix: "v7", difficulty: 4, type: "Difícil A", question: "Composición (f o g)(x). f(x)=√x, g(x)=x^2. f(g(x)) es:", options: [{text:"|x|",correct:true},{text:"x",correct:false},{text:"x^2",correct:false},{text:"±x",correct:false}], explanation: "Raíz de cuadrado es valor absoluto." },
+      { id_suffix: "v8", difficulty: 4, type: "Difícil B", question: "Si f(x)=1/x y g(x)=1/x, (f o g)(x) es:", options: [{text:"x",correct:true},{text:"1/x^2",correct:false},{text:"1",correct:false},{text:"2/x",correct:false}], explanation: "1/(1/x) = x." },
+      { id_suffix: "v9", difficulty: 5, type: "Muy Difícil A", question: "Dominio de (f+g)(x) es:", options: [{text:"Intersección de Dom(f) y Dom(g)",correct:true},{text:"Unión de dominios",correct:false},{text:"Dominio de f",correct:false},{text:"Reales",correct:false}], explanation: "Debe estar definido en ambas." },
+      { id_suffix: "v10", difficulty: 5, type: "Muy Difícil B", question: "Si f(g(x)) = x, entonces g es:", options: [{text:"La inversa de f",correct:true},{text:"La derivada de f",correct:false},{text:"El cuadrado de f",correct:false},{text:"Igual a f",correct:false}], explanation: "Definición de función inversa." }
+    ]
+  },
+
+  // Grade 11 - Math - Period 1 - BUNDLE 10 (Polinomios)
+  {
+    meta: {
+      id: "CO-MAT-11-polinomios-001",
+      country: "co",
+      grade: 11,
+      subject: "matematicas",
+      topic: "funciones",
+      periodo: 1,
+      dba_id: "DBA-MAT-11-1",
+      title: "Funciones Polinómicas"
+    },
+    base: { question: "El grado de un polinomio es el mayor exponente.", answer: "Verdadero", source_url: "https://opentdb.com" },
+    variants: [
+      { id_suffix: "v1", difficulty: 1, type: "Muy Fácil A", question: "Grado del polinomio 3x^4 - 2x + 1:", options: [{text:"4",correct:true},{text:"3",correct:false},{text:"1",correct:false},{text:"0",correct:false}], explanation: "Mayor exponente es 4." },
+      { id_suffix: "v2", difficulty: 1, type: "Muy Fácil B", question: "¿Cuántos términos tiene x^2 + 2x + 1?", options: [{text:"3 (Trinomio)",correct:true},{text:"2 (Binomio)",correct:false},{text:"1 (Monomio)",correct:false},{text:"4",correct:false}], explanation: "Separados por sumas." },
+      { id_suffix: "v3", difficulty: 2, type: "Fácil A", question: "Si el grado es impar, los extremos de la gráfica van a:", options: [{text:"Direcciones opuestas",correct:true},{text:"La misma dirección",correct:false},{text:"Cero",correct:false},{text:"Infinito positivo ambos",correct:false}], explanation: "Comportamiento extremo." },
+      { id_suffix: "v4", difficulty: 2, type: "Fácil B", question: "Término independiente de 5x^3 - 7:", options: [{text:"-7",correct:true},{text:"7",correct:false},{text:"5",correct:false},{text:"0",correct:false}], explanation: "No tiene variable." },
+      { id_suffix: "v5", difficulty: 3, type: "Media A", question: "Número máximo de raíces reales de un grado 5:", options: [{text:"5",correct:true},{text:"4",correct:false},{text:"3",correct:false},{text:"infinito",correct:false}], explanation: "Teorema fundamental del álgebra." },
+      { id_suffix: "v6", difficulty: 3, type: "Media B", question: "División sintética se usa para dividir por:", options: [{text:"x - c",correct:true},{text:"x^2",correct:false},{text:"constante",correct:false},{text:"cualquier polinomio",correct:false}], explanation: "Divisores lineales." },
+      { id_suffix: "v7", difficulty: 4, type: "Difícil A", question: "Si P(2)=0, entonces:", options: [{text:"(x-2) es factor",correct:true},{text:"(x+2) es factor",correct:false},{text:"2 es el residuo",correct:false},{text:"P no es función",correct:false}], explanation: "Teorema del factor." },
+      { id_suffix: "v8", difficulty: 4, type: "Difícil B", question: "Multiplicidad par de una raíz implica que la gráfica:", options: [{text:"Toca y rebota en el eje X",correct:true},{text:"Cruza el eje X",correct:false},{text:"Tiene una asíntota",correct:false},{text:"Es discontinua",correct:false}], explanation: "Tangencia." },
+      { id_suffix: "v9", difficulty: 5, type: "Muy Difícil A", question: "Teorema del Residuo: El residuo de P(x)/(x-c) es:", options: [{text:"P(c)",correct:true},{text:"c",correct:false},{text:"P(0)",correct:false},{text:"0",correct:false}], explanation: "Evaluación directa." },
+      { id_suffix: "v10", difficulty: 5, type: "Muy Difícil B", question: "Posibles raíces racionales de 2x^3 + ... + 3:", options: [{text:"±1, ±3, ±1/2, ±3/2",correct:true},{text:"±1, ±2, ±3",correct:false},{text:"±1, ±2",correct:false},{text:"Solo enteras",correct:false}], explanation: "Divisores de 3 entre divisores de 2." }
     ]
   }
 ];
@@ -296,6 +292,8 @@ country: "${meta.country}"
 grado: ${meta.grade}
 asignatura: "${meta.subject}"
 tema: "${meta.topic}"
+periodo: ${meta.periodo}
+dba_id: "${meta.dba_id}"
 protocol_version: "3.0"
 bundle_version: "3.0"
 total_questions: 10
@@ -305,7 +303,7 @@ creador: "AI-WorldExams"
 llm_model: "gemini-2.0-flash"
 agent: "antigravity"
 ide: "generic"
-generation_date: "${today}"
+creation_date: "${today}"
 
 licenses:
   v1: "CC BY-SA 4.0"
@@ -314,7 +312,7 @@ licenses:
 source: "OpenTDB"
 source_url: "${q.base.source_url}"
 source_license: "CC BY-SA 4.0"
-search_query: "preguntas matematicas grado ${meta.grade} ${meta.topic}"
+search_query: "preguntas matematicas grado ${meta.grade} ${meta.periodo} ${meta.topic}"
 original_question: "${q.base.question}"
 original_answer: "${q.base.answer}"
 ---
@@ -322,9 +320,9 @@ original_answer: "${q.base.answer}"
 # Pregunta Base: ${meta.title}
 
 > **Fuente:** OpenTDB (CC BY-SA 4.0)
-> **Tema:** ${meta.topic}
+> **Tema:** ${meta.topic} (Periodo ${meta.periodo})
+> **DBA:** ${meta.dba_id}
 > **Original:** "${q.base.question}"
-> **Respuesta Original:** "${q.base.answer}"
 
 ---
 `;
@@ -351,7 +349,7 @@ ${v.options.map((o, i) => {
 
 ${v.explanation}
 
-**Competencia evaluada:** Razonamiento Cuantitativo
+**Competencia evaluada:** Razonamiento Cuantitativo (DBA: ${meta.dba_id})
 
 ---
 `;
@@ -372,9 +370,6 @@ const BASE_DIR = "src/content/questions";
 
 QUESTIONS.forEach(q => {
     const dirPath = path.join(BASE_DIR, 'colombia', q.meta.subject, `grado-${q.meta.grade}`, q.meta.topic);
-    // Filename changed to include -v3-bundle suffix if desired, but protocol doc says "*-v3-bundle.md" in table "Nombre archivo"
-    // However, in section "📁 Formato de Archivo v3.0" it doesn't strictly mandate -v3 in ID, just unique suffix.
-    // The previous instructions said "-v3-bundle.md". I will follow that.
     const fileName = `${q.meta.id}-v3-bundle.md`;
     const fullPath = path.join(dirPath, fileName);
 
@@ -382,13 +377,5 @@ QUESTIONS.forEach(q => {
 
     const content = createBundleContent(q);
     fs.writeFileSync(fullPath, content);
-    console.log(`✅ Created bundle: ${fullPath}`);
-
-    // Optional: remove old v2 bundle if exists to avoid confusion
-    const oldFileName = `${q.meta.id}-bundle.md`;
-    const oldPath = path.join(dirPath, oldFileName);
-    if(fs.existsSync(oldPath)) {
-        fs.unlinkSync(oldPath);
-        console.log(`🗑️ Deleted old v2 bundle: ${oldPath}`);
-    }
+    console.log(`✅ Created Pilot Bundle v3.0: ${fullPath}`);
 });
