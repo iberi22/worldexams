@@ -1,28 +1,23 @@
 ---
-# === METADATA GLOBAL ===
-id: "CO-MAT-11-probabilidad-001"
-country: "co"
+id: CO-MAT-11-probabilidad-001
+country: co
 grado: 11
-asignatura: "Matemáticas"
-tema: "Probabilidad y Estadística"
-protocol_version: "2.1"
+asignatura: Matemáticas
+tema: estadistica
+protocol_version: '2.1'
 total_questions: 7
-estado: "published"
-creador: "AI-WorldExams"
-generation_date: "2025-12-15"
-
-# === LICENSING (NEW v2.1) ===
+estado: published
+creador: AI-WorldExams
+generation_date: '2025-12-15'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v7: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
-source: "ICFES Ejemplos Matemáticas (Adaptación)"
-source_url: "https://www.icfes.gov.co"
-source_license: "CC BY-SA 4.0"
-search_query: "preguntas icfes matematicas probabilidad y estadistica grado 11"
-original_question: "Cálculo de probabilidad simple con dados/urnas."
-original_answer: "Casos favorables / Casos totales."
+  v1: CC BY-SA 4.0
+  v2-v7: CC BY-NC-SA 4.0
+source: ICFES Ejemplos Matemáticas (Adaptación)
+source_url: 'https://www.icfes.gov.co'
+source_license: CC BY-SA 4.0
+search_query: preguntas icfes matematicas probabilidad y estadistica grado 11
+original_question: Cálculo de probabilidad simple con dados/urnas.
+original_answer: Casos favorables / Casos totales.
 ---
 
 # Pregunta Base: Probabilidad Simple (Urna de Balotas)

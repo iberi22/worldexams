@@ -1,25 +1,20 @@
 ---
-# === METADATA GLOBAL ===
-id: "CO-SOC-11-constitucion-001"
-country: "co"
+id: CO-SOC-11-constitucion-001
+country: co
 grado: 11
-asignatura: "Sociales y Ciudadanas"
-tema: "Constitución Política de Colombia"
-protocol_version: "3.0"
+asignatura: Sociales y Ciudadanas
+tema: constitucion
+protocol_version: '3.0'
 total_questions: 10
-estado: "approved"
-creador: "AI-WorldExams"
-generation_date: "2025-12-27"
-
-# === LICENSING ===
+estado: approved
+creador: AI-WorldExams
+generation_date: '2025-12-27'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v10: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
-source: "Constitución Política de Colombia 1991"
-source_url: "https://www.constitucioncolombia.com"
-source_license: "Dominio Público"
+  v1: CC BY-SA 4.0
+  v2-v10: CC BY-NC-SA 4.0
+source: Constitución Política de Colombia 1991
+source_url: 'https://www.constitucioncolombia.com'
+source_license: Dominio Público
 ---
 
 # Pregunta Base: Estructura del Estado y Derechos Fundamentales

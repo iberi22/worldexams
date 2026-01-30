@@ -3,7 +3,7 @@ id: CO-MAT-3-numeros-001
 country: co
 grado: 3
 asignatura: matematicas
-tema: Numérico (Números hasta 1000)
+tema: numeros
 bundle_version: '2.1'
 total_questions: 7
 estado: published

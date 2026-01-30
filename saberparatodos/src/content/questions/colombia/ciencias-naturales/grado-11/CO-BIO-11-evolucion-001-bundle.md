@@ -1,28 +1,23 @@
 ---
-# === METADATA GLOBAL ===
-id: "CO-BIO-11-evolucion-001"
-country: "co"
+id: CO-BIO-11-evolucion-001
+country: co
 grado: 11
-asignatura: "Ciencias Naturales"
-tema: "Evolución"
-protocol_version: "2.1"
+asignatura: Ciencias Naturales
+tema: evolucion
+protocol_version: '2.1'
 total_questions: 7
-estado: "published"
-creador: "AI-WorldExams"
-generation_date: "2025-12-15"
-
-# === LICENSING (NEW v2.1) ===
+estado: published
+creador: AI-WorldExams
+generation_date: '2025-12-15'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v7: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
-source: "ICFES Liberado (Adaptación)"
-source_url: "https://www.youtube.com/watch?v=HWwectg5ENHOkWM"
-source_license: "CC BY-SA 4.0"
-search_query: "preguntas liberadas icfes biologia evolucion grado 11"
-original_question: "Resistencia bacteriana a antibióticos."
-original_answer: "Selección de variantes resistentes preexistentes."
+  v1: CC BY-SA 4.0
+  v2-v7: CC BY-NC-SA 4.0
+source: ICFES Liberado (Adaptación)
+source_url: 'https://www.youtube.com/watch?v=HWwectg5ENHOkWM'
+source_license: CC BY-SA 4.0
+search_query: preguntas liberadas icfes biologia evolucion grado 11
+original_question: Resistencia bacteriana a antibióticos.
+original_answer: Selección de variantes resistentes preexistentes.
 ---
 
 # Pregunta Base: Selección Natural y Resistencia Bacteriana

@@ -90,7 +90,7 @@ const G9_SOC = [
 
 // --- GRADE 11 ---
 const G11_MATH = [
-    { id: 1, name: "Periodo 1: Fundamentos y Funciones", topics: ["inecuaciones", "funciones", "limites", "continuidad", "numerosreales", "logaritmos", "exponenciales", "algebrabasica", "algebra", "repaso"] },
+    { id: 1, name: "Periodo 1: Fundamentos y Funciones", topics: ["inecuaciones", "funciones", "limites", "continuidad", "numerosreales", "logaritmos", "exponenciales", "algebrabasica"] },
     { id: 2, name: "Periodo 2: Cálculo Diferencial", topics: ["derivadas", "reglasdederivacion", "aplicacionesdeladerivada", "maximosyminimos", "tangentes", "variacional"] },
     { id: 3, name: "Periodo 3: Cálculo Integral y Geometría", topics: ["integrales", "areabajo", "solidos", "geometria", "seccionesconicas", "volumen", "transformaciones"] },
     { id: 4, name: "Periodo 4: Probabilidad y Preparación Saber 11", topics: ["estadistica", "probabilidad", "conteo", "preicfes", "azar", "combinatoria", "patrones"] }

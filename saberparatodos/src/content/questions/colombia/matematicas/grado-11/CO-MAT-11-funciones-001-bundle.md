@@ -1,38 +1,36 @@
 ---
-# === METADATA GLOBAL ===
-id: "CO-MAT-11-funciones-001"
-country: "CO"
+id: CO-MAT-11-funciones-001
+country: CO
 grado: 11
-asignatura: "Matemáticas"
-tema: "Funciones - Análisis y Representación"
-dificultad: "Medium"
-estado: "draft"
-creador: "Copilot"
-source_lang: "es-CO"
-llm_model: "Copilot"
-agent: "Cascade"
-ide: "VS Code"
-bundle_version: "2.1"
+asignatura: Matemáticas
+tema: funciones
+dificultad: Medium
+estado: draft
+creador: Copilot
+source_lang: es-CO
+llm_model: Copilot
+agent: Cascade
+ide: VS Code
+bundle_version: '2.1'
 total_questions: 7
-difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
-generation_date: "2025-12-04"
-
-# === SOURCE ATTRIBUTION ===
-source: "ICFES-Curriculum"
-source_url: "https://www.icfes.gov.co"
-source_license: "Educational Use - Colombian Curriculum"
-source_id: "ICFES-MAT-011-001"
-original_concept: "Análisis de funciones lineales y cuadráticas - interpretación gráfica"
-competencia_icfes: "Interpretación y Representación - Formulación y Ejecución"
-componente: "Numérico-variacional"
-
-# === UNIVERSAL SHARING ===
+difficulty_distribution: 1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)
+generation_date: '2025-12-04'
+source: ICFES-Curriculum
+source_url: 'https://www.icfes.gov.co'
+source_license: Educational Use - Colombian Curriculum
+source_id: ICFES-MAT-011-001
+original_concept: Análisis de funciones lineales y cuadráticas - interpretación gráfica
+competencia_icfes: Interpretación y Representación - Formulación y Ejecución
+componente: Numérico-variacional
 universal_question: true
-applicable_exams: ["CO-Saber11", "MX-ENLACE", "ES-Selectividad", "SAT-Math"]
-
+applicable_exams:
+  - CO-Saber11
+  - MX-ENLACE
+  - ES-Selectividad
+  - SAT-Math
 licenses:
-  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
-  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
+  v1: CC BY-SA 4.0
+  v2-v7: CC BY-NC-SA 4.0
 ---
 
 # Bundle: Análisis de Funciones

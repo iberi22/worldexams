@@ -3,7 +3,7 @@ id: SOC08516-01
 country: co
 grado: 11
 asignatura: Sociales y Ciudadanas
-tema: Geografía y Clima
+tema: geografia
 protocol_version: '3.0'
 total_questions: 11
 estado: published

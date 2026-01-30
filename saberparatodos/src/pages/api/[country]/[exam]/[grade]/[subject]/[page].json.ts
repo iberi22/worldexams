@@ -34,7 +34,7 @@ export async function getStaticPaths() {
   const groups = new Map<string, { country: string; grade: string; subject: string; count: number }>();
 
   for (const entry of entries) {
-    const country = String(entry.data.country || '').toUpperCase();
+    const country = String(entry.data.country || '').toLowerCase();
     const grade = String(entry.data.grado ?? '');
     const subject = slugifySubject(String(entry.data.asignatura || ''));
     if (!country || !grade || !subject) continue;
@@ -53,16 +53,23 @@ export async function getStaticPaths() {
 
   for (const g of groups.values()) {
     const totalPages = Math.max(1, Math.ceil(g.count / QUESTIONS_PER_PAGE));
-    for (let page = 1; page <= totalPages; page++) {
-      paths.push({
-        params: {
-          country: g.country,
-          exam,
-          grade: g.grade,
-          subject: g.subject,
-          page: String(page),
-        },
-      });
+
+    // ⚡ FIX: Generate paths for BOTH standard slug AND stripped variant to match client requests
+    const subjects = [g.subject, g.subject.replace(/_/g, '')];
+    const uniqueSubjects = [...new Set(subjects)];
+
+    for (const subjVariant of uniqueSubjects) {
+        for (let page = 1; page <= totalPages; page++) {
+          paths.push({
+            params: {
+              country: g.country,
+              exam,
+              grade: g.grade,
+              subject: subjVariant,
+              page: String(page),
+            },
+          });
+        }
     }
   }
 
@@ -125,15 +132,6 @@ export const GET: APIRoute = async ({ params }) => {
     const questions = paginatedQuestions.flatMap((entry, entryIndex) => {
       const body = entry.body || '';
 
-      // Debug: Log body length for first math question
-      if (entry.data.asignatura?.toLowerCase().includes('mat') && entryIndex === 0) {
-        console.log(`🔍 First matemáticas question:`);
-        console.log(`   ID: ${entry.data.id}`);
-        console.log(`   Body length: ${body.length} chars`);
-        console.log(`   Has "### Opciones": ${body.includes('### Opciones')}`);
-        console.log(`   Has "### Explicación": ${body.includes('### Explicación')}`);
-      }
-
       // 🆕 Check for SIMPLIFIED QuickBundle format (## Q1 - Title, - [x] Answer)
       const isQuickBundle = body.includes('## Q1') || body.includes('## Q2');
 
@@ -167,7 +165,8 @@ export const GET: APIRoute = async ({ params }) => {
         difficulty: mapDifficulty((entry.data as any).dificultad),
         bundle_id: entry.data.id,
         source_url: entry.data.source_url || '',
-        tags: [entry.data.tema, entry.data.asignatura],
+        tema: entry.data.tema || '', // 🆕 Explicit tema for topic filtering
+        tags: [entry.data.tema, entry.data.asignatura].filter(Boolean),
         images: [],
         // Modern questions metadata
         modern_context: (entry.data as any).modern_context || false,

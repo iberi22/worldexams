@@ -1,24 +1,21 @@
 ---
-# === METADATA GLOBAL ===
-id: "CO-SOC-11-MEC-001"
-country: "co"
+id: CO-SOC-11-MEC-001
+country: co
 grado: 11
-asignatura: "Sociales y Ciudadanas"
-tema: "Mecanismos de Participación"
-bundle_version: "2.1"
+asignatura: Sociales y Ciudadanas
+tema: participacion
+bundle_version: '2.1'
 total_questions: 7
-difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
-estado: "review"
-creador: "Antigravity"
-generation_date: "2025-12-12"
-
-# === SOURCE ATTRIBUTION ===
-source_url: "https://www.icfes.gov.co/documents/20143/490699/Cuadernillo+de+preguntas+Saber+11-+Sociales+y+ciudadanas.pdf"
-source_license: "Public Domain (Government)"
-
+difficulty_distribution: 1 original (Medium) + 2 Low + 2 Medium + 2 High
+estado: review
+creador: Antigravity
+generation_date: '2025-12-12'
+source_url: >-
+  https://www.icfes.gov.co/documents/20143/490699/Cuadernillo+de+preguntas+Saber+11-+Sociales+y+ciudadanas.pdf
+source_license: Public Domain (Government)
 licenses:
-  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
-  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
+  v1: CC BY-SA 4.0
+  v2-v7: CC BY-NC-SA 4.0
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)

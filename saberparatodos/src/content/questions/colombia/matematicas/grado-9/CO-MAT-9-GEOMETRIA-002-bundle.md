@@ -3,7 +3,7 @@ id: CO-MAT-9-GEOMETRIA-002
 country: co
 grado: 9
 asignatura: Matemáticas
-tema: Teorema de Pitágoras y Semejanza
+tema: pitagoras
 protocol_version: '3.0'
 total_questions: 11
 estado: published

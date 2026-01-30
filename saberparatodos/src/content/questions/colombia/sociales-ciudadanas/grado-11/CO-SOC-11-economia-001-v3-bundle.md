@@ -1,25 +1,20 @@
 ---
-# === METADATA GLOBAL ===
-id: "CO-SOC-11-economia-001"
-country: "co"
+id: CO-SOC-11-economia-001
+country: co
 grado: 11
-asignatura: "Sociales y Ciudadanas"
-tema: "Economía Colombiana"
-protocol_version: "3.0"
+asignatura: Sociales y Ciudadanas
+tema: economia
+protocol_version: '3.0'
 total_questions: 10
-estado: "approved"
-creador: "AI-WorldExams"
-generation_date: "2025-12-28"
-
-# === LICENSING ===
+estado: approved
+creador: AI-WorldExams
+generation_date: '2025-12-28'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v10: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
-source: "Currículo MEN Colombia - Estándares Básicos de Ciencias Sociales"
-source_url: "https://www.mineducacion.gov.co"
-source_license: "CC BY-SA 4.0"
+  v1: CC BY-SA 4.0
+  v2-v10: CC BY-NC-SA 4.0
+source: Currículo MEN Colombia - Estándares Básicos de Ciencias Sociales
+source_url: 'https://www.mineducacion.gov.co'
+source_license: CC BY-SA 4.0
 ---
 
 # Pregunta Base: Sectores Económicos y Comercio Internacional

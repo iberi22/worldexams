@@ -52,10 +52,6 @@
   }
 
   function handleClick(e: MouseEvent) {
-    // Only handle for non-touch devices (touch devices use touchend)
-    if ((e as any).sourceCapabilities?.firesTouchEvents) {
-      return;
-    }
     if (onClick) {
       onClick();
     }

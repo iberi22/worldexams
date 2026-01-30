@@ -1,26 +1,21 @@
 ---
-# === METADATA GLOBAL ===
-id: "CO-SOC-11-TUT-001"
-country: "co"
+id: CO-SOC-11-TUT-001
+country: co
 grado: 11
-asignatura: "Sociales y Ciudadanas"
-tema: "Mecanismos de Protección de Derechos"
-protocol_version: "3.0"
+asignatura: Sociales y Ciudadanas
+tema: derechos
+protocol_version: '3.0'
 total_questions: 10
-estado: "approved"
-creador: "Antigravity-Agent"
-generation_date: "2025-12-27"
-
-# === LICENSING ===
+estado: approved
+creador: Antigravity-Agent
+generation_date: '2025-12-27'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v10: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
-source: "Constitución Política de Colombia / Jurisprudencia Corte Constitucional"
-source_url: "https://www.corteconstitucional.gov.co/"
-source_license: "Public Domain"
-search_query: "preguntas icfes sociales ciudadanas tutela explicadas"
+  v1: CC BY-SA 4.0
+  v2-v10: CC BY-NC-SA 4.0
+source: Constitución Política de Colombia / Jurisprudencia Corte Constitucional
+source_url: 'https://www.corteconstitucional.gov.co/'
+source_license: Public Domain
+search_query: preguntas icfes sociales ciudadanas tutela explicadas
 ---
 
 # Pregunta Base: Aplicación Práctica de la Acción de Tutela

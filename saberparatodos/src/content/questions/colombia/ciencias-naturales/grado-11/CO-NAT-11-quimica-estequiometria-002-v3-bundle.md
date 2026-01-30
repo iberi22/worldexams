@@ -1,26 +1,22 @@
 ---
-# === METADATA GLOBAL ===
-id: "CO-NAT-11-quimica-estequiometria-002"
-country: "CO"
+id: CO-NAT-11-quimica-estequiometria-002
+country: CO
 grado: 11
-asignatura: "ciencias-naturales"
-tema: "Química: Gases Ideales y Estequiometría Avanzada"
-protocol_version: "3.0"
+asignatura: ciencias-naturales
+tema: gases
+protocol_version: '3.0'
 total_questions: 10
-estado: "draft"
-creador: "Antigravity-Agent"
-generation_date: "2025-12-30"
-
-# === LICENSING ===
+estado: draft
+creador: Antigravity-Agent
+generation_date: '2025-12-30'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v10: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
-source: "Banco de Preguntas Gases y Soluciones (Adaptación)"
-source_url: "https://www.khanacademy.org/science/chemistry/gases-and-kinetic-molecular-theory"
-source_license: "CC BY-SA 4.0"
-search_query: "preguntas gases ideales estequiometria grado 11"
+  v1: CC BY-SA 4.0
+  v2-v10: CC BY-NC-SA 4.0
+source: Banco de Preguntas Gases y Soluciones (Adaptación)
+source_url: >-
+  https://www.khanacademy.org/science/chemistry/gases-and-kinetic-molecular-theory
+source_license: CC BY-SA 4.0
+search_query: preguntas gases ideales estequiometria grado 11
 ---
 
 # Pregunta Base: El Comportamiento de los Gases

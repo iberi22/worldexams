@@ -1,30 +1,28 @@
 ---
-id: "CO-MAT-09-ecuaciones-001"
-country: "co"
+id: CO-MAT-09-ecuaciones-001
+country: co
 grado: 9
-asignatura: "matematicas"
-tema: "ecuaciones-lineales"
-protocol_version: "3.0"
-bundle_version: "3.0"
+asignatura: matematicas
+tema: ecuaciones
+protocol_version: '3.0'
+bundle_version: '3.0'
 total_questions: 10
 dificultad: 3
-estado: "published"
-creador: "AI-WorldExams"
-llm_model: "gemini-2.0-flash"
-agent: "antigravity"
-ide: "generic"
-generation_date: "2025-12-29"
-
+estado: published
+creador: AI-WorldExams
+llm_model: gemini-2.0-flash
+agent: antigravity
+ide: generic
+generation_date: '2025-12-29'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v10: "CC BY-NC-SA 4.0"
-
-source: "OpenTDB"
-source_url: "https://opentdb.com"
-source_license: "CC BY-SA 4.0"
-search_query: "preguntas matematicas grado 9 ecuaciones-lineales"
-original_question: "Resuelve para x: 3x - 5 = 10"
-original_answer: "5"
+  v1: CC BY-SA 4.0
+  v2-v10: CC BY-NC-SA 4.0
+source: OpenTDB
+source_url: 'https://opentdb.com'
+source_license: CC BY-SA 4.0
+search_query: preguntas matematicas grado 9 ecuaciones-lineales
+original_question: 'Resuelve para x: 3x - 5 = 10'
+original_answer: '5'
 ---
 
 # Pregunta Base: Resolución de Ecuaciones

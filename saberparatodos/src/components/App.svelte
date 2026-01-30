@@ -598,6 +598,7 @@
   }
 
   async function handleGradeSelect(grade) {
+    console.log(`🎯 handleGradeSelect called for grade ${grade}`);
     selectedGrade = grade;
     isLoadingQuestions = true;
     try {
@@ -1044,7 +1045,7 @@
           </h1>
           <p class="max-w-md mx-auto text-sm font-light leading-relaxed opacity-60 mt-6">
             Interfaz preparatoria avanzada para pruebas estandarizadas.
-            Entorno ciber-minimalista optimizado para enfoque y eficiencia.
+            Entorno minimalista optimizado para enfoque y eficiencia.
           </p>
 
           <!-- Quick Stats -->

@@ -1,23 +1,20 @@
 ---
-# === METADATA GLOBAL ===
-id: "CO-SOC-11-NAR-001"
-country: "co"
+id: CO-SOC-11-NAR-001
+country: co
 grado: 11
-asignatura: "Sociales y Ciudadanas"
-tema: "Economía Naranja y Patrimonio Cultural"
-bundle_version: "2.1"
+asignatura: Sociales y Ciudadanas
+tema: economia
+bundle_version: '2.1'
 total_questions: 7
-difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
-estado: "review"
-creador: "Antigravity"
-generation_date: "2025-12-12"
+difficulty_distribution: 1 original (Medium) + 2 Low + 2 Medium + 2 High
+estado: review
+creador: Antigravity
+generation_date: '2025-12-12'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v7: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
-source_url: "https://mincultura.gov.co"
-source_license: "Public Domain"
+  v1: CC BY-SA 4.0
+  v2-v7: CC BY-NC-SA 4.0
+source_url: 'https://mincultura.gov.co'
+source_license: Public Domain
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)

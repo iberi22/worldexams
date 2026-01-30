@@ -1,38 +1,36 @@
 ---
-# === METADATA GLOBAL ===
-id: "CO-CIE-11-biologia-001"
-country: "CO"
+id: CO-CIE-11-biologia-001
+country: CO
 grado: 11
-asignatura: "Ciencias Naturales"
-tema: "Biología - Genética y Herencia"
-dificultad: "Medium"
-estado: "draft"
-creador: "Copilot"
-source_lang: "es-CO"
-llm_model: "Copilot"
-agent: "Cascade"
-ide: "VS Code"
-bundle_version: "2.1"
+asignatura: Ciencias Naturales
+tema: genetica
+dificultad: Medium
+estado: draft
+creador: Copilot
+source_lang: es-CO
+llm_model: Copilot
+agent: Cascade
+ide: VS Code
+bundle_version: '2.1'
 total_questions: 7
-difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
-generation_date: "2025-12-04"
-
-# === SOURCE ATTRIBUTION ===
-source: "ICFES-Curriculum"
-source_url: "https://www.icfes.gov.co"
-source_license: "Educational Use - Colombian Curriculum"
-source_id: "ICFES-CIE-011-001"
-original_concept: "Genética mendeliana - Leyes de la herencia y cuadros de Punnett"
-competencia_icfes: "Uso del conocimiento científico - Explicación de fenómenos"
-componente: "Biología"
-
-# === UNIVERSAL SHARING ===
+difficulty_distribution: 1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)
+generation_date: '2025-12-04'
+source: ICFES-Curriculum
+source_url: 'https://www.icfes.gov.co'
+source_license: Educational Use - Colombian Curriculum
+source_id: ICFES-CIE-011-001
+original_concept: Genética mendeliana - Leyes de la herencia y cuadros de Punnett
+competencia_icfes: Uso del conocimiento científico - Explicación de fenómenos
+componente: Biología
 universal_question: true
-applicable_exams: ["CO-Saber11", "MX-ENLACE-Media", "ES-Selectividad", "AR-Aprender"]
-
+applicable_exams:
+  - CO-Saber11
+  - MX-ENLACE-Media
+  - ES-Selectividad
+  - AR-Aprender
 licenses:
-  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
-  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
+  v1: CC BY-SA 4.0
+  v2-v7: CC BY-NC-SA 4.0
 ---
 
 # Bundle: Genética y Herencia Mendeliana

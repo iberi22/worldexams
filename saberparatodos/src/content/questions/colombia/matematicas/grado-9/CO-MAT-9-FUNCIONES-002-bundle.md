@@ -3,7 +3,7 @@ id: CO-MAT-9-FUNCIONES-002
 country: co
 grado: 9
 asignatura: Matemáticas
-tema: Funciones Cuadráticas y Exponenciales
+tema: funciones
 protocol_version: '3.0'
 total_questions: 11
 estado: published

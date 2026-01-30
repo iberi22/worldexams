@@ -18,7 +18,7 @@
 - 🌍 20+ países con exámenes localizados
 - 🎓 Contenido educativo generado por IA con referencia a preguntas validadas y creadas por humanos
 - 💰 100% gratuito para estudiantes
-- 🌙 Diseño ciber-minimalista (dark mode, beige text)
+- 🌙 Diseño minimalista (dark mode, beige text)
 - 🏳️ Cada país tiene una "flag stripe" de 3px en el header
 
 **Paleta de colores base:**

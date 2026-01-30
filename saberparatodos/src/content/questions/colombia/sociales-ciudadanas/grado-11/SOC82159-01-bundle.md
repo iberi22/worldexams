@@ -3,7 +3,7 @@ id: SOC82159-01
 country: co
 grado: 11
 asignatura: Sociales y Ciudadanas
-tema: Diversidad Étnica y Cultural
+tema: cultura
 protocol_version: '3.0'
 total_questions: 11
 estado: published

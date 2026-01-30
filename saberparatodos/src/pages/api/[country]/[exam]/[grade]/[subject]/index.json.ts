@@ -46,9 +46,16 @@ export async function getStaticPaths() {
     if (unique.has(key)) continue;
 
     unique.add(key);
-    paths.push({
-      params: { country, exam, grade, subject },
-    });
+
+    // ⚡ FIX: Generate paths for BOTH standard slug AND stripped variant to match client requests
+    const subjects = [subject, subject.replace(/_/g, '')];
+    const uniqueSubjects = [...new Set(subjects)];
+
+    for (const subjVariant of uniqueSubjects) {
+       paths.push({
+         params: { country, exam, grade, subject: subjVariant },
+       });
+    }
   }
 
   return paths;

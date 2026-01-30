@@ -4,7 +4,7 @@ id: "CO-MAT-11-ALG-001"
 country: "co"
 grado: 11
 asignatura: "Matemáticas"
-tema: "Ecuaciones Lineales"
+tema: "Algebra"
 protocol_version: "3.0"
 total_questions: 10
 estado: "review"

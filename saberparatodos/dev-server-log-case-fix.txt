@@ -1,0 +1,629 @@
+
+> saberparatodos@0.2.4 dev
+> astro dev --port 4348
+
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2m23:18:09[22m [34m[@astrojs/cloudflare][39m Enabling sessions with Cloudflare KV with the "SESSION" KV binding.
+[2m23:18:09[22m [34m[@astrojs/cloudflare][39m If you see the error "Invalid binding `SESSION`" in your build output, you need to add the binding to your wrangler config file.
+[33m[1m23:18:09[22m [WARN] [adapter][39m Cloudflare does not support sharp at runtime. However, you can configure `imageService: "compile"` to optimize images with sharp on prerendered pages during build time.
+Using vars defined in .env
+[2m23:18:11[22m [34m[types][39m Generated [2m1ms[22m
+[2m23:18:12[22m [34m[content][39m Syncing content
+[2m23:18:12[22m [34m[content][39m Astro config changed
+[2m23:18:12[22m [34m[content][39m Clearing content store
+[2m23:18:59[22m [34m[content][39m Synced content
+
+[42m[1m astro [22m[49m [32mv5.16.0[39m [2mready in[22m 51823 [2mms[22m
+
+[2mÔöâ[22m Local    [36mhttp://localhost:4348/[39m
+[2mÔöâ[22m Network  [2muse --host to expose[22m
+
+[2m23:18:59[22m [32mwatching for file changes...[39m
+[PathDebug] Generating paths for: global-3 ["ingles"]
+[PathDebug] Generating paths for: global-4 ["ingles"]
+[PathDebug] Generating paths for: global-6 ["ingles"]
+[PathDebug] Generating paths for: global-7 ["ingles"]
+[PathDebug] Generating paths for: global-5 ["ingles"]
+[PathDebug] Generating paths for: global-8 ["ingles"]
+[PathDebug] Generating paths for: co-10 ["ingles"]
+[PathDebug] Generating paths for: global-10 ["ingles"]
+[PathDebug] Generating paths for: global-9 ["ingles"]
+[PathDebug] Generating paths for: co-11 ["ingles"]
+[PathDebug] Generating paths for: global-11 ["ingles"]
+[PathDebug] Generating paths for: global-12 ["ingles"]
+[PathDebug] Generating paths for: cl-10 ["competencia_lectora","competencialectora"]
+[PathDebug] Generating paths for: co-10 ["ciencias_naturales","cienciasnaturales"]
+[PathDebug] Generating paths for: co-10 ["fisica"]
+[PathDebug] Generating paths for: co-10 ["quimica"]
+[PathDebug] Generating paths for: co-11 ["ciencias_naturales","cienciasnaturales"]
+[PathDebug] Generating paths for: co-4 ["ciencias_naturales","cienciasnaturales"]
+[PathDebug] Generating paths for: co-3 ["ciencias_naturales","cienciasnaturales"]
+[PathDebug] Generating paths for: co-5 ["ciencias_naturales","cienciasnaturales"]
+[PathDebug] Generating paths for: co-7 ["ciencias_naturales","cienciasnaturales"]
+[PathDebug] Generating paths for: co-6 ["ciencias_naturales","cienciasnaturales"]
+[PathDebug] Generating paths for: co-8 ["ciencias_naturales","cienciasnaturales"]
+[PathDebug] Generating paths for: co-9 ["ciencias_naturales","cienciasnaturales"]
+[PathDebug] Generating paths for: co-3 ["lenguaje"]
+[PathDebug] Generating paths for: co-4 ["lenguaje"]
+[PathDebug] Generating paths for: co-5 ["lenguaje"]
+[PathDebug] Generating paths for: co-6 ["lenguaje"]
+[PathDebug] Generating paths for: co-6 ["lectura_critica","lecturacritica"]
+[PathDebug] Generating paths for: co-8 ["lenguaje"]
+[PathDebug] Generating paths for: co-10 ["matematicas"]
+[PathDebug] Generating paths for: co-11 ["matematicas"]
+[PathDebug] Generating paths for: co-5 ["matematicas"]
+[PathDebug] Generating paths for: co-4 ["matematicas"]
+[PathDebug] Generating paths for: co-3 ["matematicas"]
+[PathDebug] Generating paths for: co-6 ["matematicas"]
+[PathDebug] Generating paths for: co-8 ["matematicas"]
+[PathDebug] Generating paths for: co-7 ["matematicas"]
+[PathDebug] Generating paths for: co-9 ["matematicas"]
+[PathDebug] Generating paths for: co-10 ["lectura_critica","lecturacritica"]
+[PathDebug] Generating paths for: co-3 ["lectura_critica","lecturacritica"]
+[PathDebug] Generating paths for: co-5 ["lectura_critica","lecturacritica"]
+[PathDebug] Generating paths for: co-11 ["lectura_critica","lecturacritica"]
+[PathDebug] Generating paths for: co-7 ["lectura_critica","lecturacritica"]
+[PathDebug] Generating paths for: co-8 ["lectura_critica","lecturacritica"]
+[PathDebug] Generating paths for: co-10 ["sociales_y_ciudadanas","socialesyciudadanas"]
+[PathDebug] Generating paths for: co-9 ["lectura_critica","lecturacritica"]
+[PathDebug] Generating paths for: co-11 ["sociales_y_ciudadanas","socialesyciudadanas"]
+[PathDebug] Generating paths for: co-6 ["sociales_y_ciudadanas","socialesyciudadanas"]
+[PathDebug] Generating paths for: co-5 ["sociales_y_ciudadanas","socialesyciudadanas"]
+[PathDebug] Generating paths for: co-3 ["sociales_y_ciudadanas","socialesyciudadanas"]
+[PathDebug] Generating paths for: co-8 ["sociales_y_ciudadanas","socialesyciudadanas"]
+[PathDebug] Generating paths for: co-9 ["sociales_y_ciudadanas","socialesyciudadanas"]
+[PathDebug] Generating paths for: co-3 ["tecnologia_informatica","tecnologiainformatica"]
+[PathDebug] Generating paths for: co-5 ["tecnologia_informatica","tecnologiainformatica"]
+[PathDebug] Generating paths for: co-7 ["tecnologia_informatica","tecnologiainformatica"]
+[PathDebug] Generating paths for: co-3 ["ingles"]
+[PathDebug] Generating paths for: co-4 ["ingles"]
+[PathDebug] Generating paths for: co-6 ["ingles"]
+[PathDebug] Generating paths for: co-7 ["ingles"]
+[PathDebug] Generating paths for: co-5 ["ingles"]
+[PathDebug] Generating paths for: co-8 ["ingles"]
+[PathDebug] Generating paths for: co-9 ["ingles"]
+[PathDebug] Generating paths for: co-11 ["lenguaje"]
+[PathDebug] Generating paths for: co-9 ["lenguaje"]
+[PathDebug] Generating paths for: co-7 ["lenguaje"]
+[PathDebug] Generating paths for: co-7 ["sociales_y_ciudadanas","socialesyciudadanas"]
+[PageDebug] Entry content tags: desarrollo undefined
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) Que los p├íramos son propiedad privada de los campesinos y ellos deciden.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] B) Que la miner├¡a afea el paisaje tur├¡stico.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] C) Que prevalece el derecho colectivo al agua y al ambiente sano, ya que los p├íramos son "f├íbricas de agua" vitales para el abastecimiento humano.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) Que los trabajadores estaban borrachos.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] B) Que la huelga era una "asonada comunista" subversiva que amenazaba el orden p├║blico y la soberan├¡a, protegiendo as├¡ los intereses de la multinacional extranjera.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] C) Que los bananos se estaban pudriendo.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] A) Acci├│n de Tutela.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] B) Acci├│n Popular.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] C) Derecho de Petici├│n.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) Ninguna, todos pagan igual.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] B) Los pa├¡ses pobres deben pagar m├ís porque contaminan m├ís con basura.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] C) El principio de "Responsabilidades Comunes pero Diferenciadas": los pa├¡ses industrializados deben asumir la mayor carga de reducci├│n de emisiones porque causaron el problema hist├│ricamente, mientras que los pa├¡ses en desarrollo reducen seg├║n sus capacidades.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) El derecho del colegio a imponer sus normas internas (Autonom├¡a escolar).
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] B) El derecho a la educaci├│n, pero solo si Juan se adapta al reglamento.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] C) El derecho al libre desarrollo de la personalidad y a la identidad ├®tnica y cultural, que est├ín por encima del manual de convivencia.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) Que la comida extranjera sabe feo.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] B) Que ahora tienen que trabajar menos.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] C) Que no pueden competir en igualdad de condiciones con productos importados subsidiados (dumping), lo que los lleva a la quiebra al bajar artificialmente los precios del mercado local.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) Hacer una revoluci├│n socialista.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] B) Instaurar una dictadura militar.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] C) El control territorial de rentas il├¡citas (Narcotr├ífico, Miner├¡a Ilegal, Extorsi├│n) para el lucro econ├│mico privado, funcionando m├ís como empresas criminales que como ej├®rcitos ideol├│gicos.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) 1886
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] B) 1991
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] C) 2000
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) Elegir a C├®sar Gaviria como presidente.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] B) Manifestar el mandato popular para convocar una Asamblea Nacional Constituyente que reformara la Constituci├│n de 1886.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] C) Protestar contra el alza en las matr├¡culas universitarias.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] A) Caf├®
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] B) Trigo
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] C) Arroz
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) Masificar la producci├│n de r├®plicas de artesan├¡as en f├íbricas chinas para bajar costos.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] B) Capacitar a los artesanos locales en gesti├│n empresarial para que comercialicen sus productos innovadores sin perder su identidad cultural.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] C) Prohibir la venta de artesan├¡as para evitar la mercantilizaci├│n de la cultura.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) Un delito com├║n de homicidio.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] B) Una violaci├│n a los Derechos Humanos ├║nicamente.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] C) Una infracci├│n grave al Derecho Internacional Humanitario (DIH), espec├¡ficamente al principio de Distinci├│n y Prohibici├│n de ataques indiscriminados.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) El derecho a la educaci├│n p├║blica gratuita.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] B) El derecho al trabajo del sacerdote.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] C) La Libertad de Cultos (Art. 19) y el car├ícter Laico del Estado, que proh├¡be a los funcionarios imponer creencias religiosas o discriminar a quienes no las comparten.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) El Cabildo Abierto.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] B) La Revocatoria del Mandato, que aplica para Alcaldes y Gobernadores por incumplimiento del programa o insatisfacci├│n general.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] C) El Referendo.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) El derecho a tener televisi├│n por cable.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] B) El derecho al voto.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] C) La Consulta Previa, Libre e Informada para concertar con la comunidad los impactos del proyecto y buscar su consentimiento.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) 30
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] B) 32
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] C) 34
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) La ca├¡da del precio del caf├®.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] B) El encarecimiento de los fertilizantes (urea), ya que Rusia es uno de los mayores productores mundiales y principal proveedor de Colombia.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] C) La prohibici├│n de exportar flores a Europa.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) Que todas las culturas se vuelvan m├ís ricas.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] B) Que aumente el turismo cultural.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] C) Que se pierdan las tradiciones y lenguas locales al ser reemplazadas por una "cultura ├║nica" global dominante (generalmente occidental), haciendo que todos en el mundo consuman y piensen igual.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) La consolidaci├│n de democracias liberales s├│lidas.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] B) El aumento de la inversi├│n social en educaci├│n.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] C) El establecimiento de Dictaduras Militares que violaron sistem├íticamente los Derechos Humanos para exterminar la disidencia pol├¡tica.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) El Bogotazo demostr├│ la inviabilidad de un gobierno de unidad nacional, llevando a la exclusi├│n total de uno de los partidos en el Frente Nacional.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] B) La violencia desatada tras el Bogotazo evidenci├│ la profunda crisis pol├¡tica y social, impulsando a las ├®lites de los partidos tradicionales a buscar un acuerdo para repartirse el poder y restaurar la estabilidad.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] C) El Bogotazo fue el catalizador para que el partido Liberal asumiera un control hegem├│nico del poder, lo que el Frente Nacional intent├│ corregir.
+"
+[2m23:19:12[22m [34m[200][39m /api/co/icfes/11/socialesyciudadanas/1.json [2m257ms[22m
+[Config] Loaded configuration for: Colombia (CO)
+[2m23:19:35[22m [34m[200][39m / [2m6279ms[22m
+11:19:37 p.m. [vite-plugin-svelte] src/components/App.svelte:1518:10 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+11:19:37 p.m. [vite-plugin-svelte] src/components/App.svelte:1526:12 Avoid using autofocus
+https://svelte.dev/e/a11y_autofocus
+11:19:37 p.m. [vite-plugin-svelte] src/components/ExamView.svelte:15:13 Component has unused export property 'onCancel'. If it is for external reference only, please consider using `export const onCancel`
+https://svelte.dev/e/export_let_unused
+11:19:37 p.m. [vite-plugin-svelte] src/components/IdentityRegistration.svelte:104:8 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+11:19:37 p.m. [vite-plugin-svelte] src/components/IdentityRegistration.svelte:120:8 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+11:19:37 p.m. [vite-plugin-svelte] src/components/IdentityRegistration.svelte:139:8 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+11:19:37 p.m. [vite-plugin-svelte] src/components/IdentityRegistration.svelte:155:8 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+11:19:37 p.m. [vite-plugin-svelte] src/components/IdentityRegistration.svelte:18:13 Component has unused export property 'onCancel'. If it is for external reference only, please consider using `export const onCancel`
+https://svelte.dev/e/export_let_unused
+11:19:37 p.m. [vite-plugin-svelte] src/components/FlashlightCard.svelte:81:2 Self-closing HTML tags for non-void elements are ambiguous ÔÇö use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:19:37 p.m. [vite-plugin-svelte] src/components/ResultsView.svelte:34:13 Component has unused export property 'onLeaderboard'. If it is for external reference only, please consider using `export const onLeaderboard`
+https://svelte.dev/e/export_let_unused
+11:19:37 p.m. [vite-plugin-svelte] src/components/ResultsView.svelte:36:13 Component has unused export property 'onLogin'. If it is for external reference only, please consider using `export const onLogin`
+https://svelte.dev/e/export_let_unused
+11:19:37 p.m. [vite-plugin-svelte] src/components/ResultsView.svelte:37:13 Component has unused export property 'onRegister'. If it is for external reference only, please consider using `export const onRegister`
+https://svelte.dev/e/export_let_unused
+11:19:37 p.m. [vite-plugin-svelte] src/components/AdvancedSearch.svelte:200:4 Elements with the 'dialog' interactive role must have a tabindex value
+https://svelte.dev/e/a11y_interactive_supports_focus
+11:19:37 p.m. [vite-plugin-svelte] src/components/AdvancedSearch.svelte:200:4 Visible, non-interactive elements with a click event must be accompanied by a keyboard event handler. Consider whether an interactive element such as `<button type="button">` or `<a>` might be more appropriate
+https://svelte.dev/e/a11y_click_events_have_key_events
+11:19:37 p.m. [vite-plugin-svelte] src/components/AdvancedSearch.svelte:259:16 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+11:19:37 p.m. [vite-plugin-svelte] src/components/AdvancedSearch.svelte:273:16 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+11:19:37 p.m. [vite-plugin-svelte] src/components/AdvancedSearch.svelte:287:16 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+11:19:37 p.m. [vite-plugin-svelte] src/components/AdvancedSearch.svelte:301:16 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+11:19:37 p.m. [vite-plugin-svelte] src/components/LocalReportsView.svelte:667:24 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:19:37 p.m. [vite-plugin-svelte] src/components/LocalReportsView.svelte:1860:8 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:19:38 p.m. [vite-plugin-svelte] src/components/ExamConfigModal.svelte:137:12 This reference only captures the initial value of `examMode`. Did you mean to reference it inside a closure instead?
+https://svelte.dev/e/state_referenced_locally
+11:19:38 p.m. [vite-plugin-svelte] src/components/ExamConfigModal.svelte:138:34 This reference only captures the initial value of `currentPeriods`. Did you mean to reference it inside a closure instead?
+https://svelte.dev/e/state_referenced_locally
+11:19:38 p.m. [vite-plugin-svelte] src/components/ExamConfigModal.svelte:142:58 This reference only captures the initial value of `selectedSubject`. Did you mean to reference it inside a closure instead?
+https://svelte.dev/e/state_referenced_locally
+11:19:38 p.m. [vite-plugin-svelte] src/components/ExamConfigModal.svelte:146:52 This reference only captures the initial value of `selectedGrade`. Did you mean to reference it inside a closure instead?
+https://svelte.dev/e/state_referenced_locally
+11:19:38 p.m. [vite-plugin-svelte] src/components/ExamConfigModal.svelte:155:52 This reference only captures the initial value of `selectedPeriod`. Did you mean to reference it inside a closure instead?
+https://svelte.dev/e/state_referenced_locally
+11:19:38 p.m. [vite-plugin-svelte] src/components/ExamConfigModal.svelte:179:54 This reference only captures the initial value of `selectedPeriod`. Did you mean to reference it inside a closure instead?
+https://svelte.dev/e/state_referenced_locally
+11:19:38 p.m. [vite-plugin-svelte] src/components/ExamConfigModal.svelte:1413:20 `<div>` cannot be a child of `<p>`. When rendering this component on the server, the resulting HTML will be modified by the browser (by moving, removing, or inserting elements), likely resulting in a `hydration_mismatch` warning
+https://svelte.dev/e/node_invalid_placement_ssr
+11:19:38 p.m. [vite-plugin-svelte] src/components/ExamConfigModal.svelte:1451:14 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+11:19:38 p.m. [vite-plugin-svelte] src/components/ExamConfigModal.svelte:1478:16 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+11:19:38 p.m. [vite-plugin-svelte] src/components/ExamConfigModal.svelte:1578:8 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+11:19:38 p.m. [vite-plugin-svelte] src/components/ExamConfigModal.svelte:1595:8 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+11:19:38 p.m. [vite-plugin-svelte] src/components/ExamConfigModal.svelte:1642:10 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:19:38 p.m. [vite-plugin-svelte] src/components/ExamConfigModal.svelte:1902:14 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:19:38 p.m. [vite-plugin-svelte] src/components/BlogView.svelte:314:8 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+11:19:38 p.m. [vite-plugin-svelte] src/components/BlogView.svelte:349:8 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+11:19:38 p.m. [vite-plugin-svelte] src/components/OfflineProfile.svelte:63:6 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:19:38 p.m. [vite-plugin-svelte] src/modules/exam-room/components/StopModeSetup.svelte:60:8 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+11:19:38 p.m. [vite-plugin-svelte] src/modules/exam-room/components/StopModeSetup.svelte:71:8 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+11:19:38 p.m. [vite-plugin-svelte] src/modules/exam-room/components/StopModeSetup.svelte:83:12 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+11:19:38 p.m. [vite-plugin-svelte] src/modules/exam-room/components/StopModeSetup.svelte:98:12 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+11:19:38 p.m. [vite-plugin-svelte] src/modules/exam-room/components/StopModeSetup.svelte:127:8 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:19:38 p.m. [vite-plugin-svelte] src/modules/exam-room/components/StopModeSetup.svelte:131:10 Self-closing HTML tags for non-void elements are ambiguous ÔÇö use `<span ...></span>` rather than `<span ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:19:38 p.m. [vite-plugin-svelte] src/modules/exam-room/components/LobbyBrowser.svelte:212:16 Avoid using autofocus
+https://svelte.dev/e/a11y_autofocus
+11:19:38 p.m. [vite-plugin-svelte] src/components/RankNotificationToast.svelte:110:6 Self-closing HTML tags for non-void elements are ambiguous ÔÇö use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+11:19:38 p.m. [vite-plugin-svelte] src/components/QuestionFeedback.svelte:146:2 Visible, non-interactive elements with a click event must be accompanied by a keyboard event handler. Consider whether an interactive element such as `<button type="button">` or `<a>` might be more appropriate
+https://svelte.dev/e/a11y_click_events_have_key_events
+11:19:38 p.m. [vite-plugin-svelte] src/components/QuestionFeedback.svelte:146:2 `<div>` with a click handler must have an ARIA role
+https://svelte.dev/e/a11y_no_static_element_interactions
+11:19:38 p.m. [vite-plugin-svelte] src/components/QuestionFeedback.svelte:161:10 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:19:38 p.m. [vite-plugin-svelte] src/components/QuestionFeedback.svelte:207:14 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+11:19:38 p.m. [vite-plugin-svelte] src/components/ReportModal.svelte:87:8 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+11:19:38 p.m. [vite-plugin-svelte] src/components/ReportModal.svelte:115:12 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+11:19:38 p.m. [vite-plugin-svelte] src/components/ReportModal.svelte:134:12 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+[PathDebug] Generating paths for: global-3 ["ingles"]
+[PathDebug] Generating paths for: global-4 ["ingles"]
+[PathDebug] Generating paths for: global-6 ["ingles"]
+[PathDebug] Generating paths for: global-7 ["ingles"]
+[PathDebug] Generating paths for: global-5 ["ingles"]
+[PathDebug] Generating paths for: global-8 ["ingles"]
+[PathDebug] Generating paths for: co-10 ["ingles"]
+[PathDebug] Generating paths for: global-10 ["ingles"]
+[PathDebug] Generating paths for: global-9 ["ingles"]
+[PathDebug] Generating paths for: co-11 ["ingles"]
+[PathDebug] Generating paths for: global-11 ["ingles"]
+[PathDebug] Generating paths for: global-12 ["ingles"]
+[PathDebug] Generating paths for: cl-10 ["competencia_lectora","competencialectora"]
+[PathDebug] Generating paths for: co-10 ["ciencias_naturales","cienciasnaturales"]
+[PathDebug] Generating paths for: co-10 ["fisica"]
+[PathDebug] Generating paths for: co-10 ["quimica"]
+[PathDebug] Generating paths for: co-11 ["ciencias_naturales","cienciasnaturales"]
+[PathDebug] Generating paths for: co-4 ["ciencias_naturales","cienciasnaturales"]
+[PathDebug] Generating paths for: co-3 ["ciencias_naturales","cienciasnaturales"]
+[PathDebug] Generating paths for: co-5 ["ciencias_naturales","cienciasnaturales"]
+[PathDebug] Generating paths for: co-7 ["ciencias_naturales","cienciasnaturales"]
+[PathDebug] Generating paths for: co-6 ["ciencias_naturales","cienciasnaturales"]
+[PathDebug] Generating paths for: co-8 ["ciencias_naturales","cienciasnaturales"]
+[PathDebug] Generating paths for: co-9 ["ciencias_naturales","cienciasnaturales"]
+[PathDebug] Generating paths for: co-3 ["lenguaje"]
+[PathDebug] Generating paths for: co-4 ["lenguaje"]
+[PathDebug] Generating paths for: co-5 ["lenguaje"]
+[PathDebug] Generating paths for: co-6 ["lenguaje"]
+[PathDebug] Generating paths for: co-6 ["lectura_critica","lecturacritica"]
+[PathDebug] Generating paths for: co-8 ["lenguaje"]
+[PathDebug] Generating paths for: co-10 ["matematicas"]
+[PathDebug] Generating paths for: co-11 ["matematicas"]
+[PathDebug] Generating paths for: co-5 ["matematicas"]
+[PathDebug] Generating paths for: co-4 ["matematicas"]
+[PathDebug] Generating paths for: co-3 ["matematicas"]
+[PathDebug] Generating paths for: co-6 ["matematicas"]
+[PathDebug] Generating paths for: co-8 ["matematicas"]
+[PathDebug] Generating paths for: co-7 ["matematicas"]
+[PathDebug] Generating paths for: co-9 ["matematicas"]
+[PathDebug] Generating paths for: co-10 ["lectura_critica","lecturacritica"]
+[PathDebug] Generating paths for: co-3 ["lectura_critica","lecturacritica"]
+[PathDebug] Generating paths for: co-5 ["lectura_critica","lecturacritica"]
+[PathDebug] Generating paths for: co-11 ["lectura_critica","lecturacritica"]
+[PathDebug] Generating paths for: co-7 ["lectura_critica","lecturacritica"]
+[PathDebug] Generating paths for: co-8 ["lectura_critica","lecturacritica"]
+[PathDebug] Generating paths for: co-10 ["sociales_y_ciudadanas","socialesyciudadanas"]
+[PathDebug] Generating paths for: co-9 ["lectura_critica","lecturacritica"]
+[PathDebug] Generating paths for: co-11 ["sociales_y_ciudadanas","socialesyciudadanas"]
+[PathDebug] Generating paths for: co-6 ["sociales_y_ciudadanas","socialesyciudadanas"]
+[PathDebug] Generating paths for: co-5 ["sociales_y_ciudadanas","socialesyciudadanas"]
+[PathDebug] Generating paths for: co-3 ["sociales_y_ciudadanas","socialesyciudadanas"]
+[PathDebug] Generating paths for: co-8 ["sociales_y_ciudadanas","socialesyciudadanas"]
+[PathDebug] Generating paths for: co-9 ["sociales_y_ciudadanas","socialesyciudadanas"]
+[PathDebug] Generating paths for: co-3 ["tecnologia_informatica","tecnologiainformatica"]
+[PathDebug] Generating paths for: co-5 ["tecnologia_informatica","tecnologiainformatica"]
+[PathDebug] Generating paths for: co-7 ["tecnologia_informatica","tecnologiainformatica"]
+[PathDebug] Generating paths for: co-3 ["ingles"]
+[PathDebug] Generating paths for: co-4 ["ingles"]
+[PathDebug] Generating paths for: co-6 ["ingles"]
+[PathDebug] Generating paths for: co-7 ["ingles"]
+[PathDebug] Generating paths for: co-5 ["ingles"]
+[PathDebug] Generating paths for: co-8 ["ingles"]
+[PathDebug] Generating paths for: co-9 ["ingles"]
+[PathDebug] Generating paths for: co-11 ["lenguaje"]
+[PathDebug] Generating paths for: co-9 ["lenguaje"]
+[PathDebug] Generating paths for: co-7 ["lenguaje"]
+[PathDebug] Generating paths for: co-7 ["sociales_y_ciudadanas","socialesyciudadanas"]
+[PageDebug] Entry content tags: desarrollo undefined
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) Que los p├íramos son propiedad privada de los campesinos y ellos deciden.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] B) Que la miner├¡a afea el paisaje tur├¡stico.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] C) Que prevalece el derecho colectivo al agua y al ambiente sano, ya que los p├íramos son "f├íbricas de agua" vitales para el abastecimiento humano.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) Que los trabajadores estaban borrachos.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] B) Que la huelga era una "asonada comunista" subversiva que amenazaba el orden p├║blico y la soberan├¡a, protegiendo as├¡ los intereses de la multinacional extranjera.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] C) Que los bananos se estaban pudriendo.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] A) Acci├│n de Tutela.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] B) Acci├│n Popular.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] C) Derecho de Petici├│n.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) Ninguna, todos pagan igual.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] B) Los pa├¡ses pobres deben pagar m├ís porque contaminan m├ís con basura.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] C) El principio de "Responsabilidades Comunes pero Diferenciadas": los pa├¡ses industrializados deben asumir la mayor carga de reducci├│n de emisiones porque causaron el problema hist├│ricamente, mientras que los pa├¡ses en desarrollo reducen seg├║n sus capacidades.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) El derecho del colegio a imponer sus normas internas (Autonom├¡a escolar).
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] B) El derecho a la educaci├│n, pero solo si Juan se adapta al reglamento.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] C) El derecho al libre desarrollo de la personalidad y a la identidad ├®tnica y cultural, que est├ín por encima del manual de convivencia.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) Que la comida extranjera sabe feo.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] B) Que ahora tienen que trabajar menos.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] C) Que no pueden competir en igualdad de condiciones con productos importados subsidiados (dumping), lo que los lleva a la quiebra al bajar artificialmente los precios del mercado local.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) Hacer una revoluci├│n socialista.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] B) Instaurar una dictadura militar.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] C) El control territorial de rentas il├¡citas (Narcotr├ífico, Miner├¡a Ilegal, Extorsi├│n) para el lucro econ├│mico privado, funcionando m├ís como empresas criminales que como ej├®rcitos ideol├│gicos.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) 1886
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] B) 1991
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] C) 2000
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) Elegir a C├®sar Gaviria como presidente.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] B) Manifestar el mandato popular para convocar una Asamblea Nacional Constituyente que reformara la Constituci├│n de 1886.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] C) Protestar contra el alza en las matr├¡culas universitarias.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] A) Caf├®
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] B) Trigo
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] C) Arroz
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) Masificar la producci├│n de r├®plicas de artesan├¡as en f├íbricas chinas para bajar costos.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] B) Capacitar a los artesanos locales en gesti├│n empresarial para que comercialicen sus productos innovadores sin perder su identidad cultural.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] C) Prohibir la venta de artesan├¡as para evitar la mercantilizaci├│n de la cultura.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) Un delito com├║n de homicidio.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] B) Una violaci├│n a los Derechos Humanos ├║nicamente.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] C) Una infracci├│n grave al Derecho Internacional Humanitario (DIH), espec├¡ficamente al principio de Distinci├│n y Prohibici├│n de ataques indiscriminados.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) El derecho a la educaci├│n p├║blica gratuita.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] B) El derecho al trabajo del sacerdote.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] C) La Libertad de Cultos (Art. 19) y el car├ícter Laico del Estado, que proh├¡be a los funcionarios imponer creencias religiosas o discriminar a quienes no las comparten.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) El Cabildo Abierto.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] B) La Revocatoria del Mandato, que aplica para Alcaldes y Gobernadores por incumplimiento del programa o insatisfacci├│n general.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] C) El Referendo.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) El derecho a tener televisi├│n por cable.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] B) El derecho al voto.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] C) La Consulta Previa, Libre e Informada para concertar con la comunidad los impactos del proyecto y buscar su consentimiento.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) 30
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] B) 32
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] C) 34
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) La ca├¡da del precio del caf├®.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] B) El encarecimiento de los fertilizantes (urea), ya que Rusia es uno de los mayores productores mundiales y principal proveedor de Colombia.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] C) La prohibici├│n de exportar flores a Europa.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) Que todas las culturas se vuelvan m├ís ricas.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] B) Que aumente el turismo cultural.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] C) Que se pierdan las tradiciones y lenguas locales al ser reemplazadas por una "cultura ├║nica" global dominante (generalmente occidental), haciendo que todos en el mundo consuman y piensen igual.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) La consolidaci├│n de democracias liberales s├│lidas.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] B) El aumento de la inversi├│n social en educaci├│n.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] C) El establecimiento de Dictaduras Militares que violaron sistem├íticamente los Derechos Humanos para exterminar la disidencia pol├¡tica.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) El Bogotazo demostr├│ la inviabilidad de un gobierno de unidad nacional, llevando a la exclusi├│n total de uno de los partidos en el Frente Nacional.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] B) La violencia desatada tras el Bogotazo evidenci├│ la profunda crisis pol├¡tica y social, impulsando a las ├®lites de los partidos tradicionales a buscar un acuerdo para repartirse el poder y restaurar la estabilidad.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] C) El Bogotazo fue el catalizador para que el partido Liberal asumiera un control hegem├│nico del poder, lo que el Frente Nacional intent├│ corregir.
+"
+[2m23:19:41[22m [34m[200][39m /api/co/icfes/11/socialesyciudadanas/1.json [2m22ms[22m
+[PageDebug] Entry content tags: historia undefined
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) 1930
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] B) 1948
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] C) 1960
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) El derecho a la libertad de expresi├│n del gerente.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] B) El derecho a la igualdad y la no discriminaci├│n por razones de g├®nero (Art├¡culo 13).
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] C) El derecho a la libre asociaci├│n sindical.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) Que ganan m├ís dinero que los formales.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] B) Que no tienen que cumplir horario.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] C) La desprotecci├│n social: al no cotizar a salud y pensi├│n, quedan vulnerables ante enfermedades o accidentes y condenados a una vejez sin jubilaci├│n (pobreza en la tercera edad).
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) los gobernantes le consulten a la ciudadan├¡a si deben modificar su programa.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] B) los ciudadanos revoquen el mandato de los gobernantes.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] C) el Congreso de la Rep├║blica inicie un juicio pol├¡tico contra los gobernantes.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] A) Los DDHH aplican siempre (paz y guerra), mientras que el DIH solo aplica durante conflictos armados.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] B) Los DDHH protegen a los soldados y el DIH a los civiles.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] C) Los DDHH son leyes colombianas y el DIH son leyes europeas.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) Acci├│n de Tutela directamente sin pedir nada antes.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] B) Primero presentar un Derecho de Petici├│n; si la EPS no responde o niega injustificadamente, entonces procede la Acci├│n de Tutela.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] C) Denuncia penal ante la Fiscal├¡a inmediatamente.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) Intervenir inmediatamente y llevarse a los presos a La Haya.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] B) Anular las sentencias nacionales.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] C) Nada (inhibirse), pues la CPI solo act├║a cuando la justicia nacional NO puede o NO quiere juzgar (es un tribunal de "├║ltimo recurso").
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) La rama electoral (Consejo Nacional Electoral).
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] B) La rama ejecutiva (El Presidente).
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] C) La rama judicial (Corte Suprema de Justicia).
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) La renuncia masiva.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] B) El Sindicato (asociaci├│n de trabajadores) y la Huelga (cese de actividades) como instrumentos de presi├│n colectiva para negociar mejores condiciones.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] C) La esclavitud voluntaria.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] A) Se vulnera el derecho a la salud, porque est├í en riesgo la vida de la persona.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] B) Alguien es expulsado de una agremiaci├│n, a pesar de estar al d├¡a en sus pagos.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] C) Se busca proteger un derecho colectivo de constituir juntas de acci├│n comunal.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] A) 1991
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] B) 1886
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] C) 2010
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) Permiti├│ la invasi├│n de Estados Unidos a Colombia.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] B) Prohibi├│ la religi├│n cat├│lica en el pa├¡s.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] C) Excluy├│ a otras fuerzas pol├¡ticas y movimientos sociales, lo que foment├│ el surgimiento de guerrillas y grupos armados.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) Permitir que los perpetradores eviten cualquier tipo de sanci├│n social mediante el perd├│n autom├ítico.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] B) Dignificar a las v├¡ctimas, reconocer los hechos ocurridos y contribuir a la construcci├│n de una memoria hist├│rica compartida.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] C) Reemplazar por completo el sistema de justicia ordinaria para evitar procesos penales largos.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) Priorizar la construcci├│n de viviendas de inter├®s social sobre zonas de reserva forestal para reducir el d├®ficit habitacional.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] B) Fomentar el uso masivo de veh├¡culos particulares mediante la eliminaci├│n de impuestos para dinamizar la econom├¡a local.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] C) Implementar pol├¡ticas de densificaci├│n urbana que aprovechen la infraestructura existente y protejan los suelos rurales.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) La distancia horizontal en kil├│metros entre las dos ciudades.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] B) El gradiente t├®rmico vertical o pisos t├®rmicos asociados a la altitud.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] C) El cambio en la velocidad de rotaci├│n de la Tierra en el interior del pa├¡s.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) Evidencia cient├¡fica sobre el cambio clim├ítico global.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] B) El fortalecimiento de las leyes internacionales de protecci├│n a la naturaleza.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] C) Un prejuicio que presenta la protecci├│n ambiental como un obst├ículo deliberado al desarrollo.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) 48 horas.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] B) 30 d├¡as h├íbiles.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] C) 10 d├¡as h├íbiles.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) Darle la raz├│n al grupo de und├®cimo para evitar peleas con los estudiantes m├ís grandes.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] B) Escuchar las versiones e intereses de ambos grupos para buscar un punto de acuerdo neutral.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] C) Prohibir el uso de la cancha para todos los estudiantes hasta que se grad├║en.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) El Referendo derogatorio.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] B) El Plebiscito nacional.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] C) La Revocatoria del mandato.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] A) La compra total de las tierras por parte del Estado para entregarlas a la empresa.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [x] B) La consulta previa, libre e informada con las comunidades ├®tnicas afectadas.
+"
+ÔÜá´©Å parseOptions: Line didn't match regex: "- [ ] C) El desalojo pac├¡fico de la comunidad mediante el uso de la fuerza p├║blica.
+"
+[2m23:19:41[22m [34m[200][39m /api/co/icfes/11/socialesyciudadanas/2.json [2m24ms[22m
+[2m23:20:17[22m [34m[watch][39m src/pages/api/[country]/[exam]/[grade]/[subject]/[page].json.ts
+[2m23:20:17[22m [34m[watch][39m src/pages/api/[country]/[exam]/[grade]/[subject]/[page].json.ts
+[2m23:20:18[22m [34m[watch][39m src/pages/api/[country]/[exam]/[grade]/[subject]/[page].json.ts
+[2m23:20:18[22m [34m[watch][39m src/pages/api/[country]/[exam]/[grade]/[subject]/[page].json.ts

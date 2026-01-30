@@ -9,7 +9,7 @@ import { defineCollection, z } from 'astro:content';
 
 const questionsCollection = defineCollection({
   type: 'content',
-  schema: z.any(), // Allow any schema - we're using static JSON files anyway
+  schema: z.any(),
 });
 
 export const collections = {

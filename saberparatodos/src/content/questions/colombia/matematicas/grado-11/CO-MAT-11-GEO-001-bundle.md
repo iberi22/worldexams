@@ -1,38 +1,34 @@
 ---
-# === METADATA GLOBAL ===
-id: "CO-MAT-11-GEO-001"
-country: "CO"
+id: CO-MAT-11-GEO-001
+country: CO
 grado: 11
-asignatura: "Matemáticas"
-tema: "Geometría - Volumen y Área"
-dificultad: "Medium"
-estado: "draft"
-creador: "AI-WorldExams"
-source_lang: "es-CO"
-llm_model: "claude-sonnet-4-20250514"
-agent: "Cascade"
-ide: "VS Code"
-bundle_version: "2.1"
+asignatura: Matemáticas
+tema: geometria
+dificultad: Medium
+estado: draft
+creador: AI-WorldExams
+source_lang: es-CO
+llm_model: claude-sonnet-4-20250514
+agent: Cascade
+ide: VS Code
+bundle_version: '2.1'
 total_questions: 7
-difficulty_distribution: "1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)"
-generation_date: "2025-12-06"
-
-# === SOURCE ATTRIBUTION ===
-source: "ICFES-Curriculum"
-source_url: "https://www.icfes.gov.co/documents/39286/21576717/Cuadernillo+de+preguntas+Saber+11-+Matem%C3%A1ticas.pdf"
-source_license: "Educational Use - Colombian Curriculum"
-source_id: "ICFES-MAT-011-GEO-001"
-original_concept: "Cálculo de volumen de sólidos - Prismas y relaciones dimensionales"
-competencia_icfes: "Formulación y Ejecución - Interpretación"
-componente: "Espacial-métrico"
-
-# === UNIVERSAL SHARING ===
+difficulty_distribution: 1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)
+generation_date: '2025-12-06'
+source: ICFES-Curriculum
+source_url: >-
+  https://www.icfes.gov.co/documents/39286/21576717/Cuadernillo+de+preguntas+Saber+11-+Matem%C3%A1ticas.pdf
+source_license: Educational Use - Colombian Curriculum
+source_id: ICFES-MAT-011-GEO-001
+original_concept: Cálculo de volumen de sólidos - Prismas y relaciones dimensionales
+competencia_icfes: Formulación y Ejecución - Interpretación
+componente: Espacial-métrico
 universal_question: false
-applicable_exams: ["CO-Saber11"]
-
+applicable_exams:
+  - CO-Saber11
 licenses:
-  v1: "CC BY-SA 4.0"       # Pregunta original (uso comercial permitido)
-  v2-v7: "CC BY-NC-SA 4.0" # Variantes pedagógicas (solo uso no-comercial)
+  v1: CC BY-SA 4.0
+  v2-v7: CC BY-NC-SA 4.0
 ---
 
 # Bundle: Volumen y Geometría de Sólidos

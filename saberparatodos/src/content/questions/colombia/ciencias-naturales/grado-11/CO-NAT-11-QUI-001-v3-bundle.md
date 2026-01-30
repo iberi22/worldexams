@@ -1,26 +1,22 @@
 ---
-# === METADATA GLOBAL ===
-id: "CO-NAT-11-QUI-001"
-country: "co"
+id: CO-NAT-11-QUI-001
+country: co
 grado: 11
-asignatura: "Ciencias Naturales - Química"
-tema: "Estequiometría y Balance de Ecuaciones"
-protocol_version: "3.0"
+asignatura: Ciencias Naturales - Química
+tema: estequiometria
+protocol_version: '3.0'
 total_questions: 10
-estado: "review"
-creador: "Antigravity-Agent"
-generation_date: "2025-12-27"
-
-# === LICENSING ===
+estado: review
+creador: Antigravity-Agent
+generation_date: '2025-12-27'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v10: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
-source: "Saber 11 - Ciencias Naturales (Química)"
-source_url: "https://www.icfes.gov.co/documents/39281/2569032/Cuadernillo+de+preguntas+Saber+11-+Ciencias+Naturales.pdf"
-source_license: "Educational Use"
-search_query: "preguntas icfes quimica estequiometria mol gramo"
+  v1: CC BY-SA 4.0
+  v2-v10: CC BY-NC-SA 4.0
+source: Saber 11 - Ciencias Naturales (Química)
+source_url: >-
+  https://www.icfes.gov.co/documents/39281/2569032/Cuadernillo+de+preguntas+Saber+11-+Ciencias+Naturales.pdf
+source_license: Educational Use
+search_query: preguntas icfes quimica estequiometria mol gramo
 ---
 
 # Pregunta Base: Reacciones Químicas y Cálculos

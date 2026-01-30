@@ -34,8 +34,8 @@ export async function generateSmartExam(
   if (period) {
     const gradeCurriculum = CURRICULUM_CO[targetGrade];
     if (gradeCurriculum) {
-      // Normalize subject to match curriculum keys (remove underscores/hyphens)
-      const normSubj = subject.toLowerCase().replace(/[-_]/g, '');
+      // Normalize subject to match curriculum keys (remove underscores/hyphens/spaces)
+      const normSubj = subject.toLowerCase().replace(/[-_\s]/g, '');
       const subjectConfig = gradeCurriculum[normSubj] || gradeCurriculum[subject] || gradeCurriculum[subject.toLowerCase()];
 
       if (subjectConfig) {

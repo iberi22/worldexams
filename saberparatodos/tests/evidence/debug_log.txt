@@ -1,0 +1,110 @@
+--- START TEST LOG ---
+🌍 Navigating to home...
+BROWSER: [vite] connecting...
+BROWSER: [vite] connected.
+BROWSER: 📍 API Base URL: /api
+BROWSER: 🌍 Country: co, Exam: icfes
+BROWSER: [Config] Loaded configuration for: Colombia (CO)
+BROWSER: App received questions: 0
+BROWSER: App received universalPool: 0
+BROWSER: Connecting to 'https://ep1.adtrafficquality.google/getconfig/sodar?sv=200&tid=gda&tv=r20260126&st=env&sjk=2720698546816287' violates the following Content Security Policy directive: "connect-src 'self' ws://localhost:* http://localhost:* https://tzmrgvtptdtsjcugwqyq.supabase.co wss://tzmrgvtptdtsjcugwqyq.supabase.co https://pagead2.googlesyndication.com https://adservice.google.com https://googleads.g.doubleclick.net https://giscus.app https://fonts.googleapis.com https://fonts.gstatic.com https://peerjs.com https://*.peerjs.com wss://peerjs.com wss://*.peerjs.com https://0.peerjs.com wss://0.peerjs.com". The action has been blocked.
+🔘 Clicking Grade 11...
+BROWSER: [PWA] Dev mode: Service Workers unregistered
+BROWSER: [PWA] Dev mode: Caches cleared
+⚙️ Waiting for Config Modal...
+✅ Subject Selected: Simulacro Completo
+🔘 Skipping Period Mode to ensure questions load (Content Mapping Gap)...
+🔘 Selecting 5 questions...
+🚀 Starting Exam...
+BROWSER: 🎯 Exam config received: {subject: Simulacro Completo, grade: 11, mode: SOLO, count: 5}
+BROWSER: 🤖 Starting Exam Generation (Count: 5, Diagnostic: false)...
+BROWSER: 🔍 [API] Starting fetchAllQuestionsForGrade(11, guest=true, max=200)
+BROWSER: 📚 Loading questions for 5 unique subjects: matematicas, lectura_critica, ciencias_naturales, sociales_y_ciudadanas, ingles
+BROWSER: 📊 Balanced loading: ~40 questions per subject (total limit: 200)
+📝 Answering 5 questions...
+  📍 Question 1/5
+BROWSER: 🔍 [API] Trying index: /api/co/icfes/11/matematicas/index.json?t=1769623489355
+BROWSER: ✅ Found index at: /api/co/icfes/11/matematicas/index.json?t=1769623489355
+BROWSER: ✅ Found questions at: /api/co/icfes/11/matematicas/1.json?t=1769623489362
+BROWSER: ✅ Loaded 10 questions for matematicas grade 11
+BROWSER: ✅ matematicas: loaded 10 questions (from 10 total)
+BROWSER: 🔍 [API] Trying index: /api/co/icfes/11/lectura_critica/index.json?t=1769623489371
+BROWSER: ✅ Found index at: /api/co/icfes/11/lectura_critica/index.json?t=1769623489371
+BROWSER: ✅ Found questions at: /api/co/icfes/11/lectura_critica/1.json?t=1769623489382
+BROWSER: ✅ Loaded 10 questions for lectura_critica grade 11
+BROWSER: ✅ lectura_critica: loaded 10 questions (from 10 total)
+BROWSER: 🔍 [API] Trying index: /api/co/icfes/11/ciencias_naturales/index.json?t=1769623489389
+BROWSER: 💾 Persisted 10 questions to permanent cache
+BROWSER: 💾 Persisted 10 questions to permanent cache
+BROWSER: ✅ Found index at: /api/co/icfes/11/ciencias_naturales/index.json?t=1769623489389
+BROWSER: ✅ Found questions at: /api/co/icfes/11/ciencias_naturales/1.json?t=1769623489397
+BROWSER: ✅ Loaded 10 questions for ciencias_naturales grade 11
+BROWSER: ✅ ciencias_naturales: loaded 10 questions (from 10 total)
+BROWSER: 🔍 [API] Trying index: /api/co/icfes/11/sociales_y_ciudadanas/index.json?t=1769623489405
+BROWSER: 💾 Persisted 10 questions to permanent cache
+BROWSER: ✅ Found index at: /api/co/icfes/11/sociales_y_ciudadanas/index.json?t=1769623489405
+BROWSER: ✅ Found questions at: /api/co/icfes/11/sociales_y_ciudadanas/1.json?t=1769623489411
+BROWSER: ✅ Loaded 10 questions for sociales_y_ciudadanas grade 11
+BROWSER: ✅ sociales_y_ciudadanas: loaded 10 questions (from 10 total)
+BROWSER: 🔍 [API] Trying index: /api/co/icfes/11/ingles/index.json?t=1769623489422
+BROWSER: 💾 Persisted 10 questions to permanent cache
+BROWSER: ✅ Found index at: /api/co/icfes/11/ingles/index.json?t=1769623489422
+BROWSER: ✅ Found questions at: /api/co/icfes/11/ingles/1.json?t=1769623489434
+BROWSER: ✅ Loaded 10 questions for ingles grade 11
+BROWSER: ✅ ingles: loaded 10 questions (from 10 total)
+BROWSER: 📚 Final distribution for grade 11: {MATEMÁTICAS: 10, INGLÉS: 10, CIENCIAS NATURALES: 10, LECTURA CRÍTICA: 10, SOCIALES Y CIUDADANAS: 10}
+BROWSER: 📚 Total questions: 50 (Guest: true, Limit: 200)
+BROWSER: 📊 Available questions in pool for exam: 50
+BROWSER: 💾 Persisted 10 questions to permanent cache
+BROWSER: [P2P-SW] State cleared
+BROWSER: ✅ Exam generated with 5 valid questions
+BROWSER: 🔍 First question check: {id: CO-BIO-11-ecologia-002-v1, optionsCount: 4, hasCorrectId: true}
+BROWSER: ⏱️ TimeLeft initialized to: 600 (Questions: 5 )
+    📸 Saved: tests/evidence/question-01.png
+  📍 Question 2/5
+    📸 Saved: tests/evidence/question-02.png
+  📍 Question 3/5
+    📸 Saved: tests/evidence/question-03.png
+BROWSER: ✅ Finishing exam (end-of-questions)
+BROWSER: 🚨 Global Error: Uncaught TagError: adsbygoogle.push() error: No slot size for availableWidth=0 TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+    at Yo (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876:166:326)
+    at Xo (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876:165:146)
+    at ep (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876:169:172)
+    at mp (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876:184:15)
+    at op (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876:185:342)
+    at Ar (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876:235:98)
+    at g.client (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876:225:47)
+    at yk.g (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876:90:559)
+    at Fk (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876:91:706)
+    at vr (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876:225:35)
+BROWSER: 🚨 Global Error: Uncaught TagError: adsbygoogle.push() error: No slot size for availableWidth=0 TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+    at Yo (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876:166:326)
+    at Xo (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876:165:146)
+    at ep (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876:169:172)
+    at mp (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876:184:15)
+    at op (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876:185:342)
+    at Ar (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876:235:98)
+    at g.client (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876:225:47)
+    at yk.g (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876:90:559)
+    at Fk (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876:91:706)
+    at vr (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876:225:35)
+BROWSER: 🚨 Global Error: Uncaught TagError: adsbygoogle.push() error: No slot size for availableWidth=0 TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+    at Yo (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876:166:326)
+    at Xo (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876:165:146)
+    at ep (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876:169:172)
+    at mp (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876:184:15)
+    at op (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876:185:342)
+    at Ar (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876:235:98)
+    at g.client (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876:225:47)
+    at yk.g (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876:90:559)
+    at Fk (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876:91:706)
+    at vr (https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876:225:35)
+BROWSER: No GitHub token available. User may need to re-authenticate.
+BROWSER: ✅ Exam saved locally for duplicate filtering
+BROWSER: No GitHub token available. User may need to re-authenticate.
+BROWSER: 💾 Persisted 3 questions to permanent cache
+BROWSER: 💾 Persisted 3 questions to permanent cache
+  📍 Question 4/5
+✅ Early finish detected: Results screen visible.
+📊 Waiting for results...
+✅ Exam completed successfully

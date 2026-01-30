@@ -263,8 +263,10 @@ function transformQuestion(apiQuestion: APIQuestion | any, grade: number, subjec
     modernContext: apiQuestion.modern_context || apiQuestion.modernContext || false,
     contextType: apiQuestion.context_type || apiQuestion.contextType || undefined,
     contextTags: apiQuestion.context_tags || apiQuestion.contextTags || [],
-    // 🆕 Content filtering
-    topics: apiQuestion.topics || apiQuestion.tags || (apiQuestion.tema ? [apiQuestion.tema] : []) || []
+    // 🆕 Content filtering - prioritize tema field (actual topic names) over tags (may include bundle_id)
+    topics: (apiQuestion.tema ? [apiQuestion.tema] : []).concat(
+      apiQuestion.topics || apiQuestion.tags || []
+    ).filter(Boolean)
   };
 }
 
@@ -437,6 +439,7 @@ export async function fetchAllQuestionsForGrade(
   isGuest: boolean = true,
   maxQuestions: number = 100
 ): Promise<AppQuestion[]> {
+  console.log(`🔍 [API] Starting fetchAllQuestionsForGrade(${grade}, guest=${isGuest}, max=${maxQuestions})`);
 
   // 🆕 Cloudflare Automation: Redirect to Pack System
   if (USE_ROTATING_PACKS) {
@@ -487,6 +490,7 @@ export async function fetchAllQuestionsForGrade(
       // Try each variant
       for (const variant of uniqueVariants) {
         const indexUrl = `${API_BASE_URL}/${COUNTRY_CODE}/${EXAM_TYPE}/${grade}/${variant}/index.json?t=${Date.now()}`;
+        console.log(`🔍 [API] Trying index: ${indexUrl}`);
 
         try {
           const attemptResponse = await fetch(indexUrl, {

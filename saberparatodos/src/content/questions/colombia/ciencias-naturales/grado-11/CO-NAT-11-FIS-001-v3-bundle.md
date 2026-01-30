@@ -1,26 +1,22 @@
 ---
-# === METADATA GLOBAL ===
-id: "CO-NAT-11-FIS-001"
-country: "co"
+id: CO-NAT-11-FIS-001
+country: co
 grado: 11
-asignatura: "Ciencias Naturales - Física"
-tema: "Leyes de Newton y Dinámica"
-protocol_version: "3.0"
+asignatura: Ciencias Naturales - Física
+tema: dinamica
+protocol_version: '3.0'
 total_questions: 10
-estado: "review"
-creador: "Antigravity-Agent"
-generation_date: "2025-12-27"
-
-# === LICENSING ===
+estado: review
+creador: Antigravity-Agent
+generation_date: '2025-12-27'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v10: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
-source: "Saber 11 - Ciencias Naturales (Física)"
-source_url: "https://www.icfes.gov.co/documents/39281/2135671/Guia+de+orientacion+Saber+11-Ciencias+Naturales.pdf"
-source_license: "Educational Use"
-search_query: "preguntas icfes fisica grado 11 leyes de newton aceleracion fuerza"
+  v1: CC BY-SA 4.0
+  v2-v10: CC BY-NC-SA 4.0
+source: Saber 11 - Ciencias Naturales (Física)
+source_url: >-
+  https://www.icfes.gov.co/documents/39281/2135671/Guia+de+orientacion+Saber+11-Ciencias+Naturales.pdf
+source_license: Educational Use
+search_query: preguntas icfes fisica grado 11 leyes de newton aceleracion fuerza
 ---
 
 # Pregunta Base: Dinámica y Fuerzas (Leyes de Newton)

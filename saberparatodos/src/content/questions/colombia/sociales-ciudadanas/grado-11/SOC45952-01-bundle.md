@@ -3,7 +3,7 @@ id: SOC45952-01
 country: co
 grado: 11
 asignatura: Sociales y Ciudadanas
-tema: Partidos Políticos y Participación
+tema: participacion
 protocol_version: '3.0'
 total_questions: 11
 estado: published

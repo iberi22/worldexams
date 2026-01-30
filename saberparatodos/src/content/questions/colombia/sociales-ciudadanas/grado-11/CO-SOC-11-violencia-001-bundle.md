@@ -1,26 +1,32 @@
 ---
-# === METADATA GLOBAL ===
-id: "CO-SOC-11-VIO-001"
-country: "co"
+id: CO-SOC-11-VIO-001
+country: co
 grado: 11
-asignatura: "Sociales y Ciudadanas"
-tema: "La Violencia y el Frente Nacional"
-bundle_version: "2.1"
+asignatura: Sociales y Ciudadanas
+tema: violencia
+bundle_version: '2.1'
 total_questions: 7
-difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
-estado: "review"
-creador: "Antigravity"
-generation_date: "2025-12-13"
+difficulty_distribution: 1 original (Medium) + 2 Low + 2 Medium + 2 High
+estado: review
+creador: Antigravity
+generation_date: '2025-12-13'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v7: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
-source: "ICFES - Cuadernillo de pruebas Saber 11 (2021) / eservicioseducativos"
-source_url: "https://oscarivanherbon.wordpress.com/2021/08/04/cuadernillo-sociales-y-ciudadanas-11-2021/"
-search_query: "preguntas liberadas icfes sociales grado 11 la violencia bogotazo frente nacional"
-original_question: "Varios analistas coinciden en afirmar que el acuerdo bipartidista del Frente Nacional (1958-1974) logró acabar con la violencia sectaria entre liberales y conservadores, pero, paradójicamente, cerró los espacios democráticos a otras fuerzas políticas. ¿Cuál fue una consecuencia directa de este cierre político?"
-original_answer: "El surgimiento de movimientos insurgentes y guerrillas que no se sentían representados por los partidos tradicionales."
+  v1: CC BY-SA 4.0
+  v2-v7: CC BY-NC-SA 4.0
+source: ICFES - Cuadernillo de pruebas Saber 11 (2021) / eservicioseducativos
+source_url: >-
+  https://oscarivanherbon.wordpress.com/2021/08/04/cuadernillo-sociales-y-ciudadanas-11-2021/
+search_query: >-
+  preguntas liberadas icfes sociales grado 11 la violencia bogotazo frente
+  nacional
+original_question: >-
+  Varios analistas coinciden en afirmar que el acuerdo bipartidista del Frente
+  Nacional (1958-1974) logró acabar con la violencia sectaria entre liberales y
+  conservadores, pero, paradójicamente, cerró los espacios democráticos a otras
+  fuerzas políticas. ¿Cuál fue una consecuencia directa de este cierre político?
+original_answer: >-
+  El surgimiento de movimientos insurgentes y guerrillas que no se sentían
+  representados por los partidos tradicionales.
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)

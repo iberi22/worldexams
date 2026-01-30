@@ -1,26 +1,21 @@
 ---
-# === METADATA GLOBAL ===
-id: "CO-SOC-11-TUT-002"
-country: "co"
+id: CO-SOC-11-TUT-002
+country: co
 grado: 11
-asignatura: "Sociales y Ciudadanas"
-tema: "Constitución y Derechos"
-protocol_version: "3.0"
+asignatura: Sociales y Ciudadanas
+tema: constitucion
+protocol_version: '3.0'
 total_questions: 10
-estado: "review"
-creador: "Antigravity-Agent"
-generation_date: "2025-12-27"
-
-# === LICENSING ===
+estado: review
+creador: Antigravity-Agent
+generation_date: '2025-12-27'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v10: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
-source: "Constitución Política de Colombia 1991 / Corte Constitucional"
-source_url: "https://www.corteconstitucional.gov.co/inicio/Accion%20de%20tutela.php"
-source_license: "Public Domain"
-search_query: "accion de tutela fundamentos constitucion 1991 icfes"
+  v1: CC BY-SA 4.0
+  v2-v10: CC BY-NC-SA 4.0
+source: Constitución Política de Colombia 1991 / Corte Constitucional
+source_url: 'https://www.corteconstitucional.gov.co/inicio/Accion%20de%20tutela.php'
+source_license: Public Domain
+search_query: accion de tutela fundamentos constitucion 1991 icfes
 ---
 
 # Pregunta Base: La Acción de Tutela y la Protección de Derechos

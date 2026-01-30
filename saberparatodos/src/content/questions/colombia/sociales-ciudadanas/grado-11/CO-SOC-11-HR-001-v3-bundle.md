@@ -1,26 +1,21 @@
 ---
-# === METADATA GLOBAL ===
-id: "CO-SOC-11-HR-001"
-country: "co"
+id: CO-SOC-11-HR-001
+country: co
 grado: 11
-asignatura: "Sociales y Ciudadanas"
-tema: "Derechos Humanos y DIH"
-protocol_version: "3.0"
+asignatura: Sociales y Ciudadanas
+tema: derechos
+protocol_version: '3.0'
 total_questions: 10
-estado: "review"
-creador: "Antigravity-Agent"
-generation_date: "2025-12-27"
-
-# === LICENSING ===
+estado: review
+creador: Antigravity-Agent
+generation_date: '2025-12-27'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v10: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
-source: "Constitución Política de Colombia / Declaración Universal DDHH"
-source_url: "https://www.icfes.gov.co"
-source_license: "Public Domain"
-search_query: "preguntas icfes sociales ciudadanas derechos humanos explicadas"
+  v1: CC BY-SA 4.0
+  v2-v10: CC BY-NC-SA 4.0
+source: Constitución Política de Colombia / Declaración Universal DDHH
+source_url: 'https://www.icfes.gov.co'
+source_license: Public Domain
+search_query: preguntas icfes sociales ciudadanas derechos humanos explicadas
 ---
 
 # Pregunta Base: Derechos Fundamentales y DIH

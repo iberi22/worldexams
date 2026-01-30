@@ -116,7 +116,9 @@
             { id: 4, name: "Periodo 4", topics: [] }
         ];
     }
-    return CURRICULUM_CO[selectedGrade]?.[normSubj]?.periods || [];
+    const res = CURRICULUM_CO[selectedGrade]?.[normSubj]?.periods || [];
+    console.log(`🔍 [ExamConfigModal] Derived currentPeriods for ${normSubj} (Grade ${selectedGrade}): ${res.length}`);
+    return res;
   });
 
   // 🆕 Reset to 'simulacro' if subject doesn't have periods defined
@@ -1117,19 +1119,21 @@
                  }
 
                  filtered = filtered.filter(q => {
+                     // 🐛 FIX: Use q.topics directly - now properly populated from tema field
                      const topics = q.topics || [];
-                     if (topics.length === 0) {
-                         const bundleId = q.category ? q.category.split(' :: ')[1] : '';
-                         if (bundleId) topics.push(bundleId);
-                     }
 
-                     return topics.some(qTopicRaw => {
+                     const match = topics.some(qTopicRaw => {
                          const qTopic = normalizeTopic(qTopicRaw);
                          return periodTopics.some(t => {
                              const normalizedT = normalizeTopic(t);
                              return qTopic.includes(normalizedT) || normalizedT.includes(qTopic);
                          });
                      });
+
+                     if (!match && topics.length > 0) {
+                        console.log(`[FilterDebug] Fail: qTopics=${JSON.stringify(topics)} [${topics.map(t=>normalizeTopic(t))}] vs periodTopics=${JSON.stringify(periodTopics)} [${periodTopics.map(t=>normalizeTopic(t))}]`);
+                     }
+                     return match;
                  });
              }
 
@@ -1160,16 +1164,13 @@
 
                        const flatExtras = extraPools.flat();
 
-                       // Apply same filters to extras
+                           // Apply same filters to extras
                        if (periodConfig) {
                            const periodTopics = periodConfig.topics || [];
                            const extrasFiltered = flatExtras.filter(q => {
                                if (!q) return false;
+                               // 🐛 FIX: Use q.topics directly - now properly populated from tema field
                                const topics = q.topics || [];
-                               if (topics.length === 0) {
-                                   const bundleId = q.category ? q.category.split(' :: ')[1] : '';
-                                   if (bundleId) topics.push(bundleId);
-                               }
                                return topics.some(qTopicRaw => {
                                    const qTopic = normalizeTopic(qTopicRaw);
                                    return periodTopics.some(t => {
@@ -1338,6 +1339,7 @@
 
 <div class="fixed inset-0 z-[100] bg-black/80 backdrop-blur-sm flex items-center justify-center p-4" transition:fade>
   <div
+    data-testid="modal-content"
     class="bg-[#121212] border border-white/10 rounded-xl p-8 max-w-md w-full shadow-2xl relative overflow-hidden max-h-[90vh] overflow-y-auto"
     in:fly={{ y: 20, duration: 300 }}
   >
@@ -1454,6 +1456,7 @@
             </div>
 
             <!-- 🆕 Period Mode Selector -->
+
             {#if currentPeriods.length > 0}
 
               <!-- MEN Guidelines Notice -->

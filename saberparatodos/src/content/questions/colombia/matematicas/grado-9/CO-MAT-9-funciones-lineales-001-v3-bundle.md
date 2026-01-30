@@ -1,26 +1,22 @@
 ---
-# === METADATA GLOBAL ===
-id: "CO-MAT-9-funciones-lineales-001"
-country: "CO"
+id: CO-MAT-9-funciones-lineales-001
+country: CO
 grado: 9
-asignatura: "matematicas"
-tema: "Álgebra: Funciones Lineales"
-protocol_version: "3.0"
+asignatura: matematicas
+tema: algebra
+protocol_version: '3.0'
 total_questions: 10
-estado: "draft"
-creador: "Antigravity-Agent"
-generation_date: "2025-12-30"
-
-# === LICENSING ===
+estado: draft
+creador: Antigravity-Agent
+generation_date: '2025-12-30'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v10: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
-source: "Banco de Preguntas Funciones (Adaptación)"
-source_url: "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations"
-source_license: "CC BY-SA 4.0"
-search_query: "preguntas funciones lineales grado 9"
+  v1: CC BY-SA 4.0
+  v2-v10: CC BY-NC-SA 4.0
+source: Banco de Preguntas Funciones (Adaptación)
+source_url: >-
+  https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations
+source_license: CC BY-SA 4.0
+search_query: preguntas funciones lineales grado 9
 ---
 
 # Pregunta Base: La Línea Recta

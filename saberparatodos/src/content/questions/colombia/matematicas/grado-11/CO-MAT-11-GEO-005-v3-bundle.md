@@ -1,26 +1,21 @@
 ---
-# === METADATA GLOBAL ===
-id: "CO-MAT-11-GEO-005"
-country: "co"
+id: CO-MAT-11-GEO-005
+country: co
 grado: 11
-asignatura: "Matemáticas"
-tema: "Geometría Sólida"
-protocol_version: "3.0"
+asignatura: Matemáticas
+tema: geometria
+protocol_version: '3.0'
 total_questions: 10
-estado: "review"
-creador: "Antigravity-Agent"
-generation_date: "2025-12-27"
-
-# === LICENSING ===
+estado: review
+creador: Antigravity-Agent
+generation_date: '2025-12-27'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v10: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
-source: "Banco de Preguntas Saber 11 - Geometría Espacial"
-source_url: "https://www.youtube.com/watch?v=volumen_cilindro_cono"
-source_license: "CC BY-SA 4.0"
-search_query: "pregunta icfes saber 11 volumen cilindro cono esfera tanque agua ejemplo pdf"
+  v1: CC BY-SA 4.0
+  v2-v10: CC BY-NC-SA 4.0
+source: Banco de Preguntas Saber 11 - Geometría Espacial
+source_url: 'https://www.youtube.com/watch?v=volumen_cilindro_cono'
+source_license: CC BY-SA 4.0
+search_query: pregunta icfes saber 11 volumen cilindro cono esfera tanque agua ejemplo pdf
 ---
 
 # Pregunta Base: Variación de Volumen en Cuerpos Geométricos

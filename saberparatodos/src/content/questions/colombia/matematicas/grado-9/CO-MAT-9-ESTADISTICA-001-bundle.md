@@ -3,7 +3,7 @@ id: CO-MAT-9-ESTADISTICA-001
 country: co
 grado: 9
 asignatura: Matemáticas
-tema: Medidas de Dispersión y Gráficos
+tema: estadistica
 protocol_version: '3.0'
 total_questions: 11
 estado: published

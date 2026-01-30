@@ -1,26 +1,21 @@
 ---
-# === METADATA GLOBAL ===
-id: "CO-MAT-9-algebra-ecuaciones-001"
-country: "CO"
+id: CO-MAT-9-algebra-ecuaciones-001
+country: CO
 grado: 9
-asignatura: "matematicas"
-tema: "Álgebra: Ecuaciones Lineales y Sistemas"
-protocol_version: "3.0"
+asignatura: matematicas
+tema: algebra
+protocol_version: '3.0'
 total_questions: 10
-estado: "draft"
-creador: "Antigravity-Agent"
-generation_date: "2025-12-30"
-
-# === LICENSING ===
+estado: draft
+creador: Antigravity-Agent
+generation_date: '2025-12-30'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v10: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
-source: "Banco de Preguntas Álgebra Básica (Adaptación)"
-source_url: "https://www.khanacademy.org/math/algebra"
-source_license: "CC BY-SA 4.0"
-search_query: "preguntas algebra ecuaciones lineales grado 9"
+  v1: CC BY-SA 4.0
+  v2-v10: CC BY-NC-SA 4.0
+source: Banco de Preguntas Álgebra Básica (Adaptación)
+source_url: 'https://www.khanacademy.org/math/algebra'
+source_license: CC BY-SA 4.0
+search_query: preguntas algebra ecuaciones lineales grado 9
 ---
 
 # Pregunta Base: El Balancín Matemático

@@ -1,26 +1,21 @@
 ---
-# === METADATA GLOBAL ===
-id: "CO-SOC-11-ambiente-001"
-country: "CO"
+id: CO-SOC-11-ambiente-001
+country: CO
 grado: 11
-asignatura: "sociales-ciudadanas"
-tema: "Medio Ambiente y Desarrollo Sostenible"
-protocol_version: "3.0"
+asignatura: sociales-ciudadanas
+tema: desarrollo
+protocol_version: '3.0'
 total_questions: 10
-estado: "draft"
-creador: "Antigravity-Agent"
-generation_date: "2025-12-30"
-
-# === LICENSING ===
+estado: draft
+creador: Antigravity-Agent
+generation_date: '2025-12-30'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v10: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
-source: "Banco de Preguntas Ambiente y Sociedad (Adaptación)"
-source_url: "https://minambiente.gov.co"
-source_license: "CC BY-SA 4.0"
-search_query: "preguntas medio ambiente grado 11 colombia"
+  v1: CC BY-SA 4.0
+  v2-v10: CC BY-NC-SA 4.0
+source: Banco de Preguntas Ambiente y Sociedad (Adaptación)
+source_url: 'https://minambiente.gov.co'
+source_license: CC BY-SA 4.0
+search_query: preguntas medio ambiente grado 11 colombia
 ---
 
 # Pregunta Base: Minería en Páramos

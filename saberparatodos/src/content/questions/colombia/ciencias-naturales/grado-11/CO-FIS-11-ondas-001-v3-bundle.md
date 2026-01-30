@@ -1,25 +1,20 @@
 ---
-# === METADATA GLOBAL ===
-id: "CO-FIS-11-ondas-001"
-country: "co"
+id: CO-FIS-11-ondas-001
+country: co
 grado: 11
-asignatura: "Ciencias Naturales"
-tema: "Ondas y Sonido"
-protocol_version: "3.0"
+asignatura: Ciencias Naturales
+tema: ondas
+protocol_version: '3.0'
 total_questions: 10
-estado: "approved"
-creador: "AI-WorldExams"
-generation_date: "2025-12-28"
-
-# === LICENSING ===
+estado: approved
+creador: AI-WorldExams
+generation_date: '2025-12-28'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v10: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
-source: "Currículo MEN Colombia - Estándares Básicos de Ciencias Naturales"
-source_url: "https://www.mineducacion.gov.co"
-source_license: "CC BY-SA 4.0"
+  v1: CC BY-SA 4.0
+  v2-v10: CC BY-NC-SA 4.0
+source: Currículo MEN Colombia - Estándares Básicos de Ciencias Naturales
+source_url: 'https://www.mineducacion.gov.co'
+source_license: CC BY-SA 4.0
 ---
 
 # Pregunta Base: Propiedades de las Ondas y el Sonido

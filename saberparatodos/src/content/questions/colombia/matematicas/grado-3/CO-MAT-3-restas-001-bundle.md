@@ -3,7 +3,7 @@ id: CO-MAT-3-restas-001
 country: co
 grado: 3
 asignatura: matematicas
-tema: Numérico (Restas)
+tema: resta
 bundle_version: '2.1'
 total_questions: 7
 estado: published

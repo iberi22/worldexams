@@ -8,14 +8,14 @@ export default defineConfig({
   workers: 1,
   reporter: 'list',
   use: {
-    baseURL: 'https://saberparatodos.space',
+    baseURL: 'http://localhost:4348',
     trace: 'on-first-retry',
     headless: true,
     screenshot: 'on',
   },
   webServer: process.env.CI ? undefined : {
-    command: 'npm run dev -- --port 4333',
-    port: 4333,
+    command: 'npm run dev -- --port 4344',
+    port: 4344,
     reuseExistingServer: true,
     timeout: 120000,
   },

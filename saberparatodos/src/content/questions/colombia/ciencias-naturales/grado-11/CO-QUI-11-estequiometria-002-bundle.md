@@ -1,28 +1,23 @@
 ---
-# === METADATA GLOBAL ===
-id: "CO-QUI-11-estequiometria-002"
-country: "co"
+id: CO-QUI-11-estequiometria-002
+country: co
 grado: 11
-asignatura: "Ciencias Naturales"
-tema: "Estequiometría"
-protocol_version: "2.1"
+asignatura: Ciencias Naturales
+tema: estequiometria
+protocol_version: '2.1'
 total_questions: 7
-estado: "published"
-creador: "AI-WorldExams"
-generation_date: "2025-12-15"
-
-# === LICENSING (NEW v2.1) ===
+estado: published
+creador: AI-WorldExams
+generation_date: '2025-12-15'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v7: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
-source: "ICFES Ejemplos Quimica (Adaptación)"
-source_url: "https://www.youtube.com/watch?v=ToHKyWqLegv"
-source_license: "CC BY-SA 4.0"
-search_query: "preguntas icfes quimica estequiometria grado 11 ejemplos"
-original_question: "Cálculo de moles producidos en reacción de combustión."
-original_answer: "Proporción 1:2 según ecuación balanceada."
+  v1: CC BY-SA 4.0
+  v2-v7: CC BY-NC-SA 4.0
+source: ICFES Ejemplos Quimica (Adaptación)
+source_url: 'https://www.youtube.com/watch?v=ToHKyWqLegv'
+source_license: CC BY-SA 4.0
+search_query: preguntas icfes quimica estequiometria grado 11 ejemplos
+original_question: Cálculo de moles producidos en reacción de combustión.
+original_answer: 'Proporción 1:2 según ecuación balanceada.'
 ---
 
 # Pregunta Base: Reacción de Combustión del Metano

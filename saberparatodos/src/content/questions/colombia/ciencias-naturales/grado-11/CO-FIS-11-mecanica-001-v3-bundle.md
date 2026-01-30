@@ -1,25 +1,20 @@
 ---
-# === METADATA GLOBAL ===
-id: "CO-FIS-11-mecanica-001"
-country: "co"
+id: CO-FIS-11-mecanica-001
+country: co
 grado: 11
-asignatura: "Ciencias Naturales"
-tema: "Mecánica - Leyes de Newton"
-protocol_version: "3.0"
+asignatura: Ciencias Naturales
+tema: mecanica
+protocol_version: '3.0'
 total_questions: 10
-estado: "approved"
-creador: "AI-WorldExams"
-generation_date: "2025-12-27"
-
-# === LICENSING ===
+estado: approved
+creador: AI-WorldExams
+generation_date: '2025-12-27'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v10: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
-source: "Currículo MEN Colombia - Estándares Básicos de Ciencias Naturales"
-source_url: "https://www.mineducacion.gov.co"
-source_license: "CC BY-SA 4.0"
+  v1: CC BY-SA 4.0
+  v2-v10: CC BY-NC-SA 4.0
+source: Currículo MEN Colombia - Estándares Básicos de Ciencias Naturales
+source_url: 'https://www.mineducacion.gov.co'
+source_license: CC BY-SA 4.0
 ---
 
 # Pregunta Base: Leyes del Movimiento de Newton

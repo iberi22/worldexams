@@ -1,28 +1,23 @@
 ---
-# === METADATA GLOBAL ===
-id: "CO-SOC-11-ciudadanas-001"
-country: "co"
+id: CO-SOC-11-ciudadanas-001
+country: co
 grado: 11
-asignatura: "Sociales y Ciudadanas"
-tema: "Mecanismos de Participación Ciudadana"
-protocol_version: "2.1"
+asignatura: Sociales y Ciudadanas
+tema: participacion
+protocol_version: '2.1'
 total_questions: 7
-estado: "published"
-creador: "AI-WorldExams"
-generation_date: "2025-12-15"
-
-# === LICENSING (NEW v2.1) ===
+estado: published
+creador: AI-WorldExams
+generation_date: '2025-12-15'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v7: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
-source: "Constitución Política de Colombia 1991 (Adaptación)"
-source_url: "https://www.constitucioncolombia.com"
-source_license: "Dominio Público"
-search_query: "preguntas icfes competencias ciudadanas mecanismos participacion tutela"
-original_question: "Mecanismo para proteger derechos fundamentales."
-original_answer: "Acción de Tutela."
+  v1: CC BY-SA 4.0
+  v2-v7: CC BY-NC-SA 4.0
+source: Constitución Política de Colombia 1991 (Adaptación)
+source_url: 'https://www.constitucioncolombia.com'
+source_license: Dominio Público
+search_query: preguntas icfes competencias ciudadanas mecanismos participacion tutela
+original_question: Mecanismo para proteger derechos fundamentales.
+original_answer: Acción de Tutela.
 ---
 
 # Pregunta Base: Acción de Tutela y Salud

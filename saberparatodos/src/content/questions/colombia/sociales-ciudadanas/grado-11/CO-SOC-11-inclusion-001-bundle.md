@@ -1,26 +1,28 @@
 ---
-# === METADATA GLOBAL ===
-id: "CO-SOC-11-INC-001"
-country: "co"
+id: CO-SOC-11-INC-001
+country: co
 grado: 11
-asignatura: "Sociales y Ciudadanas"
-tema: "Discriminación, Género e Inclusión Social"
-bundle_version: "2.1"
+asignatura: Sociales y Ciudadanas
+tema: genero
+bundle_version: '2.1'
 total_questions: 7
-difficulty_distribution: "1 original (Medium) + 2 Low + 2 Medium + 2 High"
-estado: "review"
-creador: "Antigravity"
-generation_date: "2025-12-13"
+difficulty_distribution: 1 original (Medium) + 2 Low + 2 Medium + 2 High
+estado: review
+creador: Antigravity
+generation_date: '2025-12-13'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v7: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
-source: "ICFES - Cuadernillo de pruebas Saber 11 / Gruposerpedagogico"
-source_url: "https://www.icfes.gov.co"
-search_query: "preguntas liberadas icfes sociales grado 11 discriminacion genero inclusion"
-original_question: "En un colegio, un profesor afirma que 'las mujeres son mejores para las manualidades y los hombres para las matemáticas'. Esta afirmación se considera discriminatoria porque:"
-original_answer: "Basa sus juicios en estereotipos de género que limitan el desarrollo libre de la personalidad y las capacidades individuales."
+  v1: CC BY-SA 4.0
+  v2-v7: CC BY-NC-SA 4.0
+source: ICFES - Cuadernillo de pruebas Saber 11 / Gruposerpedagogico
+source_url: 'https://www.icfes.gov.co'
+search_query: preguntas liberadas icfes sociales grado 11 discriminacion genero inclusion
+original_question: >-
+  En un colegio, un profesor afirma que 'las mujeres son mejores para las
+  manualidades y los hombres para las matemáticas'. Esta afirmación se considera
+  discriminatoria porque:
+original_answer: >-
+  Basa sus juicios en estereotipos de género que limitan el desarrollo libre de
+  la personalidad y las capacidades individuales.
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
