@@ -38,12 +38,17 @@ function normalizeSubject(subject: string): string {
   return mapping[s] || s.replace(/ /g, '_');
 }
 
-export const GET: APIRoute = async () => {
+export const GET: APIRoute = async ({ request }) => {
   // 1. Calculate Time-Based Seed
   const packId = getPackId();
   const nextRotation = getNextRotationDate();
 
-  console.log(`📦 Generating Pack: ${packId} (Next Rotation: ${nextRotation})`);
+  // Extract period from query params
+  const url = new URL(request.url);
+  const periodParam = url.searchParams.get('period');
+  const targetPeriod = periodParam ? parseInt(periodParam, 10) : null;
+
+  console.log(`📦 Generating Pack: ${packId} (Next Rotation: ${nextRotation}). Period Filter: ${targetPeriod || 'None'}`);
 
   // 2. Load ALL Bundles (Source of Truth)
   const allBundles = await getCollection('questions');
@@ -57,18 +62,23 @@ export const GET: APIRoute = async () => {
     rotation_days: ROTATION_DAYS,
     country: 'co', // Hardcoded for now, could be dynamic
     exam: 'icfes',
+    target_period: targetPeriod,
     grades: [] as number[],
-    // We return questions grouped by grade for the frontend to consume easily
-    // or we could return a flattened list.
-    // The previous system used separate files per grade.
-    // For this "Infinite Rotation" endpoint, let's return a comprehensive structure
-    // that the frontend can parse.
-    packs: {} as Record<number, any>
+    packs: {} as Record<number, any>,
+    warnings: [] as string[]
   };
 
   for (const grade of grades) {
-    // Filter bundles for this grade
-    const gradeBundles = allBundles.filter(b => b.data.grado === grade);
+    // Filter bundles for this grade AND period (if specified)
+    const gradeBundles = allBundles.filter(b => {
+        if (b.data.grado !== grade) return false;
+        if (targetPeriod !== null) {
+            // Check for 'periodo' or 'period' in metadata
+            const p = b.data.periodo || b.data.period;
+            return p === targetPeriod;
+        }
+        return true;
+    });
 
     if (gradeBundles.length === 0) continue;
 
@@ -83,8 +93,6 @@ export const GET: APIRoute = async () => {
       }
 
       // Parse questions from bundle
-      // We cast bundle to QuestionEntry because getCollection returns a compatible structure
-      // but types might mismatch slightly on 'render' function which we don't use here.
       const questions = getAllQuestionsFromBundle(bundle as unknown as QuestionEntry);
       questionsBySubject[subject].push(...questions);
     }
@@ -93,20 +101,37 @@ export const GET: APIRoute = async () => {
     const selectedQuestionsForGrade: any[] = [];
     const subjects = Object.keys(questionsBySubject);
     const subjectCounts: Record<string, number> = {};
+    const gradeWarnings: string[] = [];
 
     for (const subject of subjects) {
-      const pool = questionsBySubject[subject];
+      let pool = questionsBySubject[subject];
       if (pool.length === 0) continue;
 
       // Deterministic Shuffle
-      const seed = `${packId}-${grade}-${subject}`;
-      const shuffled = seededShuffle(pool, seed);
+      const seed = `${packId}-${grade}-${subject}-${targetPeriod || 'all'}`;
+      let shuffled = seededShuffle(pool, seed);
+
+      // Handle Low Content for Period Exams: Repeat questions if necessary
+      if (targetPeriod !== null && shuffled.length < QUESTIONS_PER_SUBJECT) {
+          const originalCount = shuffled.length;
+          const needed = QUESTIONS_PER_SUBJECT;
+
+          // Add warning
+          const warningMsg = `Grade ${grade} ${subject}: Only ${originalCount} unique questions found for period ${targetPeriod}. Repeating content to reach ${needed}.`;
+          console.warn(warningMsg);
+          gradeWarnings.push(warningMsg);
+          packData.warnings.push(warningMsg);
+
+          // Fill pool by repeating
+          while (shuffled.length < needed) {
+              shuffled = [...shuffled, ...shuffled];
+          }
+      }
 
       // Take limited amount
       const selected = shuffled.slice(0, QUESTIONS_PER_SUBJECT);
 
       // Add to final list
-      // Flatten structure: Add subject/grade to question object for easier frontend consumption
       selected.forEach(q => {
         selectedQuestionsForGrade.push({
           ...q,
@@ -125,16 +150,13 @@ export const GET: APIRoute = async () => {
         grade,
         questionCount: selectedQuestionsForGrade.length,
         subjectCounts,
-        questions: selectedQuestionsForGrade
+        questions: selectedQuestionsForGrade,
+        warnings: gradeWarnings.length > 0 ? gradeWarnings : undefined
       };
     }
   }
 
-  // 4. Return JSON with Cache Logic
-  // Cache at CDN (public) for 1 hour.
-  // The content changes weekly, but we want short caching to propagate rotation updates reasonably fast.
-  // or we could cache for longer if we rely on packId changes.
-  // Let's cache for 1 hour to balance performance and "live" feel.
+  // 4. Return JSON
   return new Response(JSON.stringify(packData), {
     status: 200,
     headers: {
