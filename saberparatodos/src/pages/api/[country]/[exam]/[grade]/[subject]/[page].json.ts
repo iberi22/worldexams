@@ -140,6 +140,14 @@ export const GET: APIRoute = async ({ params }) => {
         return parseQuickBundle(body, entry.data.id, startIndex + entryIndex);
       }
 
+      // 🆕 Check for STANDARD BUNDLE format (## Pregunta 1, ## Pregunta 2)
+      // This supports Grade 3 bundles that contain multiple "Standard Protocol" questions
+      const isStandardBundle = body.includes('## Pregunta 1') || body.includes('## Pregunta 2');
+
+      if (isStandardBundle) {
+          return parseStandardBundle(body, entry.data, startIndex + entryIndex);
+      }
+
       // STANDARD Protocol v3 format: ### Enunciado, ### Opciones, ### Explicación
       const questionText = extractSection(body, '### Enunciado', '### Opciones') || entry.data.id;
       const optionsText = extractSection(body, '### Opciones', '### Explicación') || '';
@@ -361,6 +369,87 @@ function parseQuickBundle(
         context_tags: []
       });
     }
+  }
+
+  return results;
+}
+
+/**
+ * 🆕 Parse Standard Bundle format (## Pregunta X)
+ * Used in Grade 3 bundles where multiple standard protocol questions exist in one file.
+ */
+function parseStandardBundle(
+  body: string,
+  data: any,
+  startNumber: number
+): Array<any> {
+  const results: Array<any> = [];
+
+  // Split by ## Pregunta \d+
+  // Use a lookahead to keep the delimiter in the split results?
+  // Actually, standard split consumes delimiter.
+  // We can use capture group to keep it, but easier to just split by lookahead.
+  const sections = body.split(/(?=## Pregunta \d+)/);
+
+  // Extract global context from the preamble (section before ## Pregunta 1)
+  let globalContext = '';
+  if (sections.length > 0 && !sections[0].startsWith('## Pregunta')) {
+    const preamble = sections[0];
+    // Try to find "> **Contexto:**" block
+    const contextMatch = preamble.match(/> \*\*Contexto:\*\*(.+)/);
+    if (contextMatch) {
+        globalContext = contextMatch[1].trim();
+    } else {
+        // Or just any blockquote
+        const quoteMatch = preamble.match(/> (.+)/);
+        if (quoteMatch) {
+            globalContext = quoteMatch[1].trim();
+        }
+    }
+  }
+
+  let qIndex = 0;
+  for (const section of sections) {
+    if (!section.startsWith('## Pregunta')) continue;
+
+    qIndex++;
+
+    // Extract ID from **ID:** `...`
+    const idMatch = section.match(/\*\*ID:\*\*\s*`([^`]+)`/);
+    const questionId = idMatch ? idMatch[1] : `${data.id}-v${qIndex}`;
+
+    // Use existing extractSection logic on this chunk
+    const questionText = extractSection(section, '### Enunciado', '### Opciones');
+    const optionsText = extractSection(section, '### Opciones', '### Explicación');
+    const explanation = extractSection(section, '### Explicación Pedagógica', '---'); // --- might be at end of section
+
+    if (!questionText || !optionsText) continue;
+
+    const options = parseOptions(optionsText);
+    const correctOption = options.find(opt => opt.is_correct);
+
+    // If options are missing or invalid, skip
+    if (options.length < 2) continue;
+
+    results.push({
+      id: questionId,
+      number: startNumber + qIndex, // Note: This might overlap if multiple files are flattened. But 'number' is usually just for display.
+      statement: questionText.trim(),
+      options: options,
+      correct_answer: correctOption?.letter || 'A',
+      explanation: explanation.trim(),
+      difficulty: mapDifficulty(data.dificultad),
+      bundle_id: data.id,
+      source_url: data.source_url || '',
+      tema: data.tema || '',
+      tags: [data.tema, data.asignatura].filter(Boolean),
+      images: [],
+      // Attach extracted context
+      context: globalContext || data.context || undefined,
+      modern_context: data.modern_context || false,
+      context_type: data.context_type || null,
+      context_tags: data.context_tags || []
+    });
   }
 
   return results;
