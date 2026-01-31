@@ -1,11 +1,11 @@
 /**
  * Report Generator Service
  * Genera reportes PDF/HTML con infografías usando Chart.js y jsPDF
- *
- * TODO: Instalar dependencias:
- * npm install chart.js jspdf html2canvas
  */
 
+import Chart from 'chart.js/auto';
+import html2canvas from 'html2canvas';
+import { jsPDF } from 'jspdf';
 import type { PartyResults } from '../types';
 
 interface ReportOptions {
@@ -296,7 +296,7 @@ class ReportGeneratorService {
     results: PartyResults,
     options: ReportOptions
   ): Promise<Blob> {
-    // TODO: Implementar con jsPDF cuando se instalen las dependencias
+    // TODO: Implementar con jsPDF y html2canvas (dependencias ya instaladas)
     // Por ahora, devolvemos el HTML como fallback
     const html = this.generateHTMLReport(results, options);
     return new Blob([html], { type: 'text/html' });
