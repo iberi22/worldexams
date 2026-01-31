@@ -427,15 +427,14 @@ impl Handler<PlayerJoinedMessage> for PartyRoom {
         // Broadcast player list update
         let players: Vec<PlayerInfo> = self.connections
             .keys()
-            .map(|id| {
-                let data = self.players.get(id).unwrap();
-                PlayerInfo {
+            .filter_map(|id| {
+                self.players.get(id).map(|data| PlayerInfo {
                     id: id.to_string(),
                     name: data.name.clone(),
                     is_ready: data.is_ready,
                     is_host: false,
                     is_anonymous: data.is_anonymous,
-                }
+                })
             })
             .collect();
 
@@ -575,8 +574,51 @@ impl Handler<PlayerReadyMessage> for PartyRoom {
     fn handle(&mut self, msg: PlayerReadyMessage, _ctx: &mut Self::Context) {
         info!("Player {} is ready in party {}", msg.player_id, self.party_code);
 
-        // TODO: Check if all players are ready
-        // TODO: If yes, broadcast GameStarted
+        // Update player status
+        if let Some(player) = self.players.get_mut(&msg.player_id) {
+            player.is_ready = true;
+        } else {
+            warn!("Player {} not found in party {}", msg.player_id, self.party_code);
+            return;
+        }
+
+        // Broadcast player list update
+        let players: Vec<PlayerInfo> = self.connections
+            .keys()
+            .filter_map(|id| {
+                self.players.get(id).map(|data| PlayerInfo {
+                    id: id.to_string(),
+                    name: data.name.clone(),
+                    is_ready: data.is_ready,
+                    is_host: false,
+                    is_anonymous: data.is_anonymous,
+                })
+            })
+            .collect();
+
+        self.broadcast(&WSMessage::PlayerListUpdate { players }, None);
+
+        // Check if all players are ready
+        let all_ready = self.players.values().all(|p| p.is_ready);
+
+        // If yes, broadcast GameStarted
+        if all_ready && !self.questions.is_empty() {
+            info!("All players ready in party {}. Starting game!", self.party_code);
+
+            let questions_content: Vec<QuestionContent> = self.questions.iter().map(|q| QuestionContent {
+                id: q.id.clone(),
+                enunciado: q.enunciado.clone(),
+                opciones: q.opciones.iter().map(|o| OptionContent {
+                    id: o.id.clone(),
+                    texto: o.texto.clone(),
+                }).collect(),
+            }).collect();
+
+            self.broadcast(&WSMessage::GameStarted {
+                questions: questions_content,
+                time_per_question: 60 // Default or from party config?
+            }, None);
+        }
     }
 }
 
