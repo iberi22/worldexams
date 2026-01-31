@@ -1,36 +1,52 @@
 <script lang="ts">
   import { onMount, onDestroy } from 'svelte';
-  import { fade, fly, scale } from 'svelte/transition'; // 🆕 Transition
+  import { fade, fly, scale } from 'svelte/transition';
   import type { Question, QuestionResultData, ExamCompletionData } from '../types';
-  import { supabase } from '../lib/supabase'; // 🆕 Import Supabase
-  import { p2pService } from '../lib/p2p-service'; // 🆕 P2P Service
+  import { supabase } from '../lib/supabase';
+  import { p2pService } from '../lib/p2p-service';
   import FlashlightCard from './FlashlightCard.svelte';
   import MathRenderer from './MathRenderer.svelte';
-  import { reportQuestionAnomaly } from '../lib/api-service'; // Import reporting function
-  import type { APIQuestion } from '../lib/api-service'; // 🆕 APIQuestion type
-  import { createFocusTracker, type FocusTracker } from '../lib/focus-tracker'; // 🆕 Focus Tracker
+  import { reportQuestionAnomaly } from '../lib/api-service';
+  import type { APIQuestion } from '../lib/api-service';
+  import { createFocusTracker, type FocusTracker } from '../lib/focus-tracker';
 
-  // Props
-  export let onFinish: (data: ExamCompletionData, answers: Record<string | number, string>) => void;
-  export let onCancel: () => void = () => {};
-  export let questions: Question[] = [];
-  export let grade: number = 0;
-  export let subject: string = 'General';
+  // Props (Svelte 5 Runes)
+  interface Props {
+    onFinish: (data: ExamCompletionData, answers: Record<string | number, string>) => void;
+    onCancel?: () => void;
+    questions?: Question[];
+    grade?: number;
+    subject?: string;
+    // Exam Room Mode Props
+    roomCode?: string | null;
+    roomChannel?: any | null;
+    isHost?: boolean;
+    sessionId?: string | null;
+    timeLimitSeconds?: number;
+    startedAt?: string | null;
+    totalQuestions?: number;
+  }
 
-  // Exam Room Mode Props
-  export let roomCode: string | null = null;
-  export let roomChannel: any | null = null;
-  export let isHost: boolean = false;
-  export let sessionId: string | null = null; // 🆕 Local session ID
-  export let timeLimitSeconds: number = 0; // 🆕 Time limit from config
-  export let startedAt: string | null = null; // 🆕 Explicit start time for sync
-  export let totalQuestions: number = 0; // 🆕 Expected total questions for sync
+  let {
+    onFinish,
+    onCancel = () => {},
+    questions = [],
+    grade = 0,
+    subject = 'General',
+    roomCode = null,
+    roomChannel = null,
+    isHost = false,
+    sessionId = null,
+    timeLimitSeconds = 0,
+    startedAt = null,
+    totalQuestions = 0
+  }: Props = $props();
 
-  // 🆕 Focus Tracker for exam integrity monitoring
-  let focusTracker: FocusTracker | null = null;
-  let focusWarningVisible = false;
+  // 🆕 Focus Tracker
+  let focusTracker = $state<FocusTracker | null>(null);
+  let focusWarningVisible = $state(false);
 
-  // Mock Data (Fallback)
+  // Mock Data
   const MOCK_QUESTIONS: Question[] = [
     {
       id: 1,
@@ -48,81 +64,77 @@
     },
   ];
 
-  // Safely handle undefined/null questions prop
-  $: safeQuestions = Array.isArray(questions) ? questions : [];
-  $: activeQuestions = safeQuestions.length > 0 ? safeQuestions : MOCK_QUESTIONS;
+  // Derived state
+  let safeQuestions = $derived(Array.isArray(questions) ? questions : []);
+  let activeQuestions = $derived(safeQuestions.length > 0 ? safeQuestions : MOCK_QUESTIONS);
 
   // Basic state
-  let currentIdx = 0;
-  let selectedOption: string | null = null;
-  let answers: Record<string | number, string> = {};
-  let timer: any;
+  let currentIdx = $state(0);
+  let selectedOption = $state<string | null>(null);
+  let answers = $state<Record<string | number, string>>({});
+  let timer: any = $state(null);
 
-  // 🆕 Exam Room Mode: synced countdown (use DB started_at as anchor)
-  let roomSyncChannel: any | null = null;
-  let roomStartedAtMs: number | null = null;
-  let roomEndedAtMs: number | null = null;
-  let roomCurrentQuestion: number | null = null;
-  let finishTriggered = false;
+  // Exam Room Mode State
+  let roomSyncChannel: any | null = null; // Non-reactive ref
+  let roomStartedAtMs = $state<number | null>(null);
+  let roomEndedAtMs = $state<number | null>(null);
+  let roomCurrentQuestion = $state<number | null>(null);
+  let finishTriggered = $state(false);
 
-  // 🆕 Exam Room Mode: per-question countdown (UI)
-  let questionTimeLeft = 0;
+  // UI Countdown
+  let questionTimeLeft = $state(0);
 
-  // 🆕 Focus Alerts for Host
-  let focusAlerts: {id: number, text: string}[] = [];
+  // Host Alerts
+  let focusAlerts = $state<{id: number, text: string}[]>([]);
 
-  // Time tracking
-  // Time tracking
-  // Smart default: 2 minutes per question, minimum 5 minutes
-  $: smartDefaultTime = Math.max(300, activeQuestions.length * 120);
-  $: EXAM_TIME_SECONDS = timeLimitSeconds > 0 ? timeLimitSeconds : smartDefaultTime;
+  // Time tracking logic
+  let smartDefaultTime = $derived(Math.max(300, activeQuestions.length * 120));
+  let EXAM_TIME_SECONDS = $derived(timeLimitSeconds > 0 ? timeLimitSeconds : smartDefaultTime);
 
-  $: effectiveQuestionCount = totalQuestions > 0 ? totalQuestions : Math.max(activeQuestions.length, 1);
-  $: TIME_PER_QUESTION_MS = (EXAM_TIME_SECONDS * 1000) / effectiveQuestionCount;
+  let effectiveQuestionCount = $derived(totalQuestions > 0 ? totalQuestions : Math.max(activeQuestions.length, 1));
+  let TIME_PER_QUESTION_MS = $derived((EXAM_TIME_SECONDS * 1000) / effectiveQuestionCount);
 
-  // Initialize timeLeft using specific logic to handle the initial state clearly
-  let timeLeft = 0;
+  let timeLeft = $state(0);
 
-  // Reactive synchronization of timeLeft when timer is not running
-  $: if (!timer && EXAM_TIME_SECONDS > 0) {
-      timeLeft = EXAM_TIME_SECONDS;
-      console.log('⏱️ TimeLeft initialized to:', timeLeft, '(Questions:', activeQuestions.length, ')');
-  }
+  // Initialize timeLeft
+  $effect(() => {
+    if (!timer && EXAM_TIME_SECONDS > 0 && timeLeft === 0) {
+       timeLeft = EXAM_TIME_SECONDS;
+       console.log('⏱️ TimeLeft initialized to:', timeLeft);
+    }
+  });
 
-  let examStartTime = 0;
-  let questionStartTime = 0;
+  let examStartTime = $state(0);
+  let questionStartTime = $state(0);
 
   // Scoring tracking
-  let questionResults: QuestionResultData[] = [];
-  let currentStreak = 0;
+  let questionResults = $state<QuestionResultData[]>([]);
+  let currentStreak = $state(0);
 
   const STORAGE_KEY = 'saberparatodos_exam_progress';
 
-  $: question = activeQuestions[currentIdx] || MOCK_QUESTIONS[0];
+  let question = $derived(activeQuestions[currentIdx] || MOCK_QUESTIONS[0]);
 
-  // Ensure question has valid options array with guaranteed IDs
+  // Options Logic
   const OPTION_LETTERS = ['A', 'B', 'C', 'D', 'E', 'F'];
-  $: safeOptions = (question?.options || []).map((opt, idx) => ({
+  let safeOptions = $derived((question?.options || []).map((opt, idx) => ({
     ...opt,
-    id: opt.id ?? OPTION_LETTERS[idx] ?? `opt-${idx}` // Ensure every option has an id
-  }));
-  $: hasValidQuestion = question && Array.isArray(question.options) && question.options.length > 0;
+    id: opt.id ?? OPTION_LETTERS[idx] ?? `opt-${idx}`
+  })));
 
-  // Map the correct answer to the normalized option ID
-  $: correctAnswerId = (() => {
-    // If correctOptionId exists and matches a safeOption, use it directly
+  let hasValidQuestion = $derived(question && Array.isArray(question.options) && question.options.length > 0);
+
+  let correctAnswerId = $derived.by(() => {
     if (question?.correctOptionId && safeOptions.some(o => o.id === question.correctOptionId)) {
       return question.correctOptionId;
     }
-    // Try to find by index if correctOptionId is a number (0-based index)
     if (typeof question?.correctOptionId === 'number') {
       return safeOptions[question.correctOptionId]?.id;
     }
-    // Fallback: assume first option is correct (shouldn't happen in prod)
     return safeOptions[0]?.id;
-  })();
+  });
 
-  // 🆕 Exam Room Mode Broadcast Logic
+  // Methods
   async function broadcastRoomState(status: 'active' | 'finished', index: number) {
       if (!isHost || !roomCode) return;
 
@@ -132,7 +144,6 @@
         question_data: activeQuestions[index] || null
       };
 
-      // 1. Update Database (only real columns)
       const updatePayload: Record<string, any> = { status, current_question: index };
       if (status === 'finished') {
         updatePayload.finished_at = new Date().toISOString();
@@ -144,19 +155,15 @@
           .update(updatePayload)
           .eq('party_code', roomCode);
 
-        if (error) {
-          // 🆕 Handle RLS policy violations gracefully
-          if (error.code === '42501') {
-            console.warn('⚠️ RLS policy blocked update (anonymous user). Using P2P fallback.');
-          } else {
-            console.error('Error updating room state:', error);
-          }
+        if (error?.code === '42501') {
+           console.warn('⚠️ RLS policy blocked update (anonymous user). Using P2P fallback.');
+        } else if (error) {
+           console.error('Error updating room state:', error);
         }
       } catch (dbErr) {
         console.warn('⚠️ DB update failed, using P2P fallback:', dbErr);
       }
 
-      // 2. Broadcast Event (Realtime) - Always attempt even if DB fails
       if (roomChannel) {
         try {
           roomChannel.send({
@@ -176,21 +183,15 @@
     if (!roomStartedAtMs) return;
 
     roomEndedAtMs = roomStartedAtMs + (timeLimitSeconds * 1000);
-
-    // Derive per-question duration from total/questions.
-    // In Exam Room Mode this should match host's time_option.
     const timePerQuestionMs = Math.max(1, Math.ceil((timeLimitSeconds * 1000) / effectiveQuestionCount));
 
     if (timer) clearInterval(timer);
 
-    // Update at sub-second precision so UI feels responsive, but use ceil() so everyone hits 0 together.
     timer = setInterval(() => {
       const remainingMs = Math.max(0, (roomEndedAtMs ?? 0) - Date.now());
       const nextSeconds = Math.ceil(remainingMs / 1000);
       timeLeft = nextSeconds;
 
-      // Per-question countdown (UI-only)
-      // Uses the shared started_at anchor + current question index.
       const qIndex = Math.max(0, Math.min(activeQuestions.length - 1, roomCurrentQuestion ?? currentIdx));
       const questionStartMs = (roomStartedAtMs ?? Date.now()) + (qIndex * timePerQuestionMs);
       const questionEndMs = questionStartMs + timePerQuestionMs;
@@ -205,51 +206,30 @@
     }, 250);
   }
 
-  // Effect to broadcast whenever currentIdx changes
-  $: if (isHost && roomCode && activeQuestions.length > 0) {
-      // Create a dedicated effect for broadcasting index changes
-      // Using a reactive statement that depends on currentIdx
-      // De-bounce slightly if needed, but here immediate is fine
-      // Avoid broadcasting on initial mount inside this reactive block if called manually in onMount
-  }
-
-  // Persistencia
-  // Persistencia reactiva
-  $: {
-    // Dependencias explícitas para gatillar guardado
-    const _deps = [answers, currentIdx, timeLeft, questionResults, currentStreak];
-    if (activeQuestions.length > 0) {
-      saveProgress();
-    }
-  }
+  // Persistence Effect
+  $effect(() => {
+     if (activeQuestions.length > 0) {
+         // Auto-track dependencies
+         saveProgress();
+     }
+  });
 
   function saveProgress() {
     if (typeof window === 'undefined') return;
-
     const state = {
-      currentIdx,
-      answers,
-      timeLeft,
-      questionResults,
-      currentStreak,
-      examStartTime,
-      timestamp: Date.now(),
-      questionCount: activeQuestions.length
+      currentIdx, answers, timeLeft, questionResults, currentStreak,
+      examStartTime, timestamp: Date.now(), questionCount: activeQuestions.length
     };
-    // Disabled console log for storage to reduce noise
-    // console.log('💾 ExamView: Saving progress to storage', STORAGE_KEY, state);
     localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
   }
 
   function loadProgress() {
     if (typeof window === 'undefined') return;
-
     const saved = localStorage.getItem(STORAGE_KEY);
     if (saved) {
       try {
         const state = JSON.parse(saved);
         const isRecent = (Date.now() - state.timestamp) < 24 * 60 * 60 * 1000;
-
         if (isRecent && state.questionCount === activeQuestions.length) {
           currentIdx = state.currentIdx;
           answers = state.answers || {};
@@ -257,7 +237,6 @@
           questionResults = state.questionResults || [];
           currentStreak = state.currentStreak || 0;
           examStartTime = state.examStartTime || Date.now();
-
           if (answers[activeQuestions[currentIdx]?.id]) {
             selectedOption = answers[activeQuestions[currentIdx].id];
           }
@@ -265,30 +244,23 @@
           localStorage.removeItem(STORAGE_KEY);
         }
       } catch (e) {
-        console.error("Error loading progress", e);
         localStorage.removeItem(STORAGE_KEY);
       }
     }
   }
 
   // Reporting State
-  let showReportModal = false;
-  let isReporting = false;
-  let reportType = '';
-  let reportDetails = '';
-  let showReportToast = false;
+  let showReportModal = $state(false);
+  let isReporting = $state(false);
+  let reportType = $state('');
+  let reportDetails = $state('');
+  let showReportToast = $state(false);
 
   async function handleReport() {
       if (!reportType) return;
-
       isReporting = true;
       const currentQ = activeQuestions[currentIdx];
-
-      const result = await reportQuestionAnomaly(
-          currentQ.id,
-          reportType as any,
-          reportDetails
-      );
+      const result = await reportQuestionAnomaly(currentQ.id, reportType as any, reportDetails);
 
       isReporting = false;
       showReportModal = false;
@@ -299,57 +271,45 @@
           showReportToast = true;
           setTimeout(() => showReportToast = false, 3000);
       } else {
-          alert('Error enviando reporte via Supabase. (La tabla question_reports podría no existir)');
+          alert('Error enviando reporte.');
       }
   }
 
-  // --- Constants ---
   onMount(() => {
     loadProgress();
 
-    // 🆕 Initial synchronization with prop startedAt
     if (startedAt) {
       const ms = Date.parse(startedAt);
       if (!Number.isNaN(ms)) {
         roomStartedAtMs = ms;
         examStartTime = ms;
-        console.log('🏁 ExamView synced via prop startedAt:', startedAt);
       }
     }
 
-    // Initialize times if new exam
-    if (examStartTime === 0) {
-      examStartTime = Date.now();
-    }
+    if (examStartTime === 0) examStartTime = Date.now();
     questionStartTime = Date.now();
 
-    // 🆕 Exam Room Mode: Subscribe to DB updates to sync countdown + forced finish
     if (roomCode) {
       roomSyncChannel = supabase
         .channel(`party-exam:${roomCode}`)
         .on('postgres_changes', {
-          event: 'UPDATE',
-          schema: 'public',
-          table: 'party_sessions',
-          filter: `party_code=eq.${roomCode}`
+          event: 'UPDATE', schema: 'public', table: 'party_sessions', filter: `party_code=eq.${roomCode}`
         }, (payload) => {
           const next = payload?.new as any;
           if (!next) return;
 
           if (next.started_at) {
-            const startedMs = Date.parse(next.started_at);
-            if (!Number.isNaN(startedMs)) {
-              roomStartedAtMs = startedMs;
-              examStartTime = startedMs;
-              startSyncedRoomTimerIfReady();
-            }
+             const startedMs = Date.parse(next.started_at);
+             if (!Number.isNaN(startedMs)) {
+                roomStartedAtMs = startedMs;
+                examStartTime = startedMs;
+                startSyncedRoomTimerIfReady();
+             }
           }
 
           if (typeof next.current_question === 'number') {
             const nextIdx = Math.max(0, Math.min(activeQuestions.length - 1, next.current_question));
             roomCurrentQuestion = nextIdx;
-
-            // Guests follow host's current_question to stay synchronized.
             if (!isHost && nextIdx !== currentIdx) {
               currentIdx = nextIdx;
               questionStartTime = Date.now();
@@ -357,61 +317,39 @@
             }
           }
 
-          if (next.status === 'finished') {
-            handleFinish('db-finished');
-          }
+          if (next.status === 'finished') handleFinish('db-finished');
         })
         .subscribe();
 
-      // Fetch current started_at/status once (covers refresh / late mount)
-      supabase
-        .from('party_sessions')
-        .select('started_at,status,current_question')
-        .eq('party_code', roomCode)
-        .maybeSingle()
+      supabase.from('party_sessions').select('started_at,status,current_question')
+        .eq('party_code', roomCode).maybeSingle()
         .then(({ data, error }) => {
-          if (error || !data) return;
-
-          if (data.started_at) {
-            const startedMs = Date.parse(data.started_at);
-            if (!Number.isNaN(startedMs)) {
-              roomStartedAtMs = startedMs;
-              examStartTime = startedMs;
-            }
-          }
-
-          if (data.status === 'finished') {
-            handleFinish('db-finished-initial');
-            return;
-          }
-
-          if (typeof (data as any).current_question === 'number') {
-            const nextIdx = Math.max(0, Math.min(activeQuestions.length - 1, (data as any).current_question));
-            roomCurrentQuestion = nextIdx;
-            if (!isHost && nextIdx !== currentIdx) {
-              currentIdx = nextIdx;
-              questionStartTime = Date.now();
-              selectedOption = answers[activeQuestions[currentIdx]?.id] || null;
-            }
-          }
-
-          startSyncedRoomTimerIfReady();
+           if (error || !data) return;
+           if (data.started_at) {
+              const ms = Date.parse(data.started_at);
+              if (!Number.isNaN(ms)) { roomStartedAtMs = ms; examStartTime = ms; }
+           }
+           if (data.status === 'finished') { handleFinish('db-finished-initial'); return; }
+           if (typeof (data as any).current_question === 'number') {
+               const nextIdx = Math.max(0, Math.min(activeQuestions.length - 1, (data as any).current_question));
+               roomCurrentQuestion = nextIdx;
+               if (!isHost && nextIdx !== currentIdx) {
+                   currentIdx = nextIdx;
+                   questionStartTime = Date.now();
+                   selectedOption = answers[activeQuestions[currentIdx]?.id] || null;
+               }
+           }
+           startSyncedRoomTimerIfReady();
         });
     }
 
-    // 🆕 Initial Broadcast for Exam Room Mode
     if (isHost && roomCode) {
       broadcastRoomState('active', currentIdx);
     }
 
-    // Timer
     if (roomCode && timeLimitSeconds > 0) {
-      // Room: timer will be started once we get started_at
-      // Keep a conservative fallback in case started_at never arrives
       if (!roomStartedAtMs) {
         timer = setInterval(() => {
-          // If we still don't have started_at after a short while, use local clock as last resort.
-          // This is suboptimal but prevents the exam from never finishing.
           if (!roomStartedAtMs) {
             roomStartedAtMs = examStartTime || Date.now();
             startSyncedRoomTimerIfReady();
@@ -419,37 +357,25 @@
         }, 1500);
       }
     } else {
-      // Solo / unlimited: local countdown
       timer = setInterval(() => {
         if (timeLeft <= 1) {
-          clearInterval(timer);
-          timer = null;
-          timeLeft = 0;
-          handleFinish('timer-expired-local');
+           clearInterval(timer); timer = null; timeLeft = 0; handleFinish('timer-expired-local');
         } else {
-          timeLeft -= 1;
+           timeLeft -= 1;
         }
       }, 1000);
     }
 
-    // 🆕 Initialize Focus Tracker for Exam Room Mode
     if (roomCode && sessionId) {
       focusTracker = createFocusTracker(sessionId, (event) => {
-          // Broadcast violation to Anfitrión
-          if (!isHost) {
-              p2pService.sendToHost('FOCUS_EVENT', event);
-          }
+          if (!isHost) p2pService.sendToHost('FOCUS_EVENT', event);
       });
-
-      // Show warning when focus is lost
-      const handleBlur = () => {
-        focusWarningVisible = true;
-        setTimeout(() => focusWarningVisible = false, 3000);
-      };
-      window.addEventListener('blur', handleBlur);
+      window.addEventListener('blur', () => {
+         focusWarningVisible = true;
+         setTimeout(() => focusWarningVisible = false, 3000);
+      });
     }
 
-    // 🆕 Host Monitoring
     if (isHost) {
         p2pService.onData((msg) => {
              if (msg.type === 'FOCUS_EVENT') {
@@ -457,9 +383,7 @@
                  const name = peers[msg.senderId]?.name || 'Estudiante';
                  const id = Date.now();
                  focusAlerts = [...focusAlerts, { id, text: `⚠️ ${name} perdió el foco!` }];
-                 setTimeout(() => {
-                     focusAlerts = focusAlerts.filter(a => a.id !== id);
-                 }, 4000);
+                 setTimeout(() => focusAlerts = focusAlerts.filter(a => a.id !== id), 4000);
              }
         });
     }
@@ -467,19 +391,8 @@
 
   onDestroy(() => {
     clearInterval(timer);
-    if (roomSyncChannel) {
-      supabase.removeChannel(roomSyncChannel);
-      roomSyncChannel = null;
-    }
-
-    // 🆕 Cleanup focus tracker
-    if (focusTracker) {
-      focusTracker.destroy();
-    }
-
-    // If Host, perhaps mark as paused or finished?
-    // Usually user handles finish via handleFinish, but if unmounted abruptly:
-    // We don't do anything specific here to avoid accidental closures.
+    if (roomSyncChannel) supabase.removeChannel(roomSyncChannel);
+    if (focusTracker) focusTracker.destroy();
   });
 
   function formatTime(seconds: number) {
@@ -488,68 +401,51 @@
     return `${m.toString().padStart(2, '0')}:${s.toString().padStart(2, '0')}`;
   }
 
-  let nextButton: HTMLButtonElement | undefined = undefined;
+  let nextButton: HTMLButtonElement | undefined = $state();
 
   function handleSelect(optionId: string) {
     selectedOption = optionId;
-    answers = { ...answers, [question.id]: optionId };
+    answers[question.id] = optionId; // Direct mutation ok in Runes via proxy
 
-    // Auto-focus Next button for keyboard navigation
-    // This allows users to press ENTER immediately after selecting an option
     if (nextButton) {
-       // Small timeout to ensure DOM selection state is updated first
        setTimeout(() => nextButton?.focus(), 50);
     }
   }
 
   function recordQuestionResult() {
     if (!selectedOption) return;
-
     const isCorrect = selectedOption === correctAnswerId;
     const timeSpentMs = Date.now() - questionStartTime;
+    if (isCorrect) currentStreak += 1; else currentStreak = 0;
 
-    // Update streak
-    if (isCorrect) {
-      currentStreak += 1;
-    } else {
-      currentStreak = 0;
-    }
-
-    // Record result
     const result: QuestionResultData = {
       questionId: question.id,
-      question: question, // 🆕 Persist full question for offline history
+      question: question,
       isCorrect,
-      difficulty: question.difficulty || 3, // Default to medium
+      difficulty: question.difficulty || 3,
       timeSpentMs,
       maxTimeMs: TIME_PER_QUESTION_MS,
       streakCount: isCorrect ? currentStreak : 0
     };
 
-    // Check if already recorded (editing previous answer)
     const existingIdx = questionResults.findIndex(r => r.questionId === question.id);
-    if (existingIdx >= 0) {
-      questionResults[existingIdx] = result;
-    } else {
-      questionResults = [...questionResults, result];
-    }
+    if (existingIdx >= 0) questionResults[existingIdx] = result;
+    else questionResults.push(result);
   }
 
   function handleNext() {
     if (selectedOption) {
-      answers = { ...answers, [question.id]: selectedOption };
+      // answers already updated in handleSelect
       recordQuestionResult();
     }
 
     if (currentIdx < activeQuestions.length - 1) {
-      const nextIndex = currentIdx + 1;
-      currentIdx = nextIndex;
-      questionStartTime = Date.now(); // Reset for next question
+      currentIdx += 1;
+      questionStartTime = Date.now();
       selectedOption = answers[activeQuestions[currentIdx].id] || null;
 
-      // 🆕 Broadcast update
       if (isHost && roomCode) {
-          broadcastRoomState('active', nextIndex);
+          broadcastRoomState('active', currentIdx);
       }
     } else {
       handleFinish('end-of-questions');
@@ -561,66 +457,46 @@
     finishTriggered = true;
     console.log(`✅ Finishing exam (${reason})`);
 
-    if (typeof window !== 'undefined') {
-      localStorage.removeItem(STORAGE_KEY);
-    }
+    if (typeof window !== 'undefined') localStorage.removeItem(STORAGE_KEY);
 
-    // Record final answer if not yet recorded
     if (selectedOption) {
-      answers = { ...answers, [question.id]: selectedOption };
+      answers[question.id] = selectedOption;
       recordQuestionResult();
     }
 
-    // 🆕 Broadcast Finish (host marks DB as finished, forcing all clients to finish)
     if (isHost && roomCode) {
       broadcastRoomState('finished', currentIdx);
-      // Note: Results aggregation usually happens in ResultsView or RoomResultsView.
-      // We just signal finish here.
     }
 
-    // Ensure all answered questions have results
-    activeQuestions.forEach((q, qIdx) => {
+    activeQuestions.forEach((q) => {
       const answer = answers[q.id];
       if (answer && !questionResults.find(r => r.questionId === q.id)) {
-        // Normalize correctOptionId for this question
+        // Normalize logic...
         const qOptions = (q.options || []).map((opt, idx) => ({
-          ...opt,
-          id: opt.id ?? OPTION_LETTERS[idx] ?? `opt-${idx}`
+          ...opt, id: opt.id ?? OPTION_LETTERS[idx] ?? `opt-${idx}`
         }));
         const qCorrectId = q.correctOptionId && qOptions.some(o => o.id === q.correctOptionId)
-          ? q.correctOptionId
-          : qOptions[0]?.id;
+          ? q.correctOptionId : qOptions[0]?.id;
 
-        questionResults = [...questionResults, {
-          questionId: q.id,
-          question: q, // 🆕 Persist full question for offline history
-          isCorrect: answer === qCorrectId,
-          difficulty: q.difficulty || 3,
-          timeSpentMs: TIME_PER_QUESTION_MS, // Default if not tracked
-          maxTimeMs: TIME_PER_QUESTION_MS,
-          streakCount: 0
-        }];
+        questionResults.push({
+          questionId: q.id, question: q, isCorrect: answer === qCorrectId,
+          difficulty: q.difficulty || 3, timeSpentMs: TIME_PER_QUESTION_MS,
+          maxTimeMs: TIME_PER_QUESTION_MS, streakCount: 0
+        });
       }
     });
 
-    const totalTimeMs = Date.now() - examStartTime;
-
-    // 🆕 Get focus events if tracker exists
-    const focusEvents = focusTracker ? focusTracker.getEvents() : [];
-    const focusViolations = focusTracker ? focusTracker.getViolationCount() : 0;
-
     const completionData: ExamCompletionData = {
       questions: questionResults,
-      totalTimeMs,
+      totalTimeMs: Date.now() - examStartTime,
       maxTotalTimeMs: EXAM_TIME_SECONDS * 1000,
       grade: grade || activeQuestions[0]?.grade || 0,
       subject: subject || activeQuestions[0]?.category?.split('::')[0]?.trim() || 'General',
-      // 🆕 Exam Room Mode extras
       roomCode: roomCode || undefined,
       sessionId: sessionId || undefined,
-      isHost: isHost, // 🆕 Pass host status
-      focusEvents: focusEvents.length > 0 ? focusEvents : undefined,
-      focusViolations: focusViolations > 0 ? focusViolations : undefined
+      isHost: isHost,
+      focusEvents: focusTracker ? focusTracker.getEvents() : undefined,
+      focusViolations: focusTracker ? focusTracker.getViolationCount() : undefined
     };
 
     onFinish(completionData, answers);
@@ -640,7 +516,6 @@
     </div>
   {/if}
 
-  <!-- Header -->
   <!-- Header -->
   <div class="shrink-0 px-4 sm:px-6 lg:px-8 pt-4 pb-4 border-b border-white/10 bg-[#121212]/95 backdrop-blur-md z-30">
     <div class="max-w-7xl mx-auto">
@@ -689,7 +564,9 @@
       {#if question.context}
         <div class="bg-emerald-900/10 border border-emerald-500/20 rounded-xl p-4 sm:p-5 mb-2 overflow-y-auto max-h-[30vh] scrollbar-thin scrollbar-thumb-emerald-500/20 scrollbar-track-transparent">
            <div class="text-xs font-bold text-emerald-400 mb-2 uppercase tracking-wider flex items-center gap-2">
-             <span class="i-lucide-book-open w-4 h-4"></span>
+             <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5S19.832 5.477 21 6.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+             </svg>
              Contexto  / Lectura
            </div>
            <div class="text-sm sm:text-base text-gray-300 font-serif leading-relaxed space-y-2">
@@ -754,25 +631,31 @@
 
   <!-- Footer -->
   <div class="shrink-0 px-4 sm:px-6 lg:px-8 py-4 border-t border-white/10 bg-[#121212]/80 backdrop-blur-sm">
-    <div class="max-w-7xl mx-auto flex items-center justify-between">
-      <div class="text-[10px] sm:text-xs font-mono opacity-40">
-        Pregunta {currentIdx + 1} de {activeQuestions.length}
-      </div>
+    <div class="max-w-7xl mx-auto flex items-center justify-between gap-4">
+      <!-- Left: Report -->
       <button
-        on:click={() => showReportModal = true}
-        class="px-4 sm:px-6 py-2 sm:py-3 bg-yellow-500/10 border border-yellow-500/30 text-yellow-500 hover:bg-yellow-500/20 hover:border-yellow-500/50 transition-all duration-300 uppercase tracking-widest text-xs sm:text-sm font-bold active:scale-95 flex items-center gap-2 mr-2"
+        onclick={() => showReportModal = true}
+        class="flex items-center justify-center p-2.5 sm:px-6 sm:py-3 bg-yellow-500/10 border border-yellow-500/30 text-yellow-500 hover:bg-yellow-500/20 hover:border-yellow-500/50 transition-all duration-300 uppercase tracking-widest text-[9px] sm:text-xs font-bold active:scale-95 rounded-lg shrink-0"
         title="Reportar anomalía"
       >
-        <span class="i-lucide-alert-triangle w-4 h-4"></span>
-        <span class="hidden sm:inline">Reportar</span>
+        <svg class="w-5 h-5 sm:w-4 sm:h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
+        </svg>
+        <span class="hidden sm:inline ml-2">Reportar</span>
       </button>
 
+      <!-- Center: Status -->
+      <div class="text-[10px] sm:text-xs font-mono opacity-40 shrink-0 text-center">
+        <span class="hidden xs:inline">Pregunta</span> {currentIdx + 1} / {activeQuestions.length}
+      </div>
+
+      <!-- Right: Next -->
       <button
         bind:this={nextButton}
-        on:click={handleNext}
-        class="px-6 sm:px-8 py-2 sm:py-3 bg-emerald-900/20 border border-emerald-500/50 text-emerald-500 hover:bg-emerald-500 hover:text-[#121212] transition-all duration-300 uppercase tracking-widest text-xs sm:text-sm font-bold active:scale-95"
+        onclick={handleNext}
+        class="px-5 sm:px-8 py-2.5 sm:py-3 bg-emerald-900/20 border border-emerald-500/50 text-emerald-500 hover:bg-emerald-500 hover:text-[#121212] transition-all duration-300 uppercase tracking-widest text-[10px] sm:text-sm font-bold active:scale-95 rounded-lg min-w-[90px] sm:min-w-[140px] shrink-0"
       >
-        {currentIdx === activeQuestions.length - 1 ? 'Finalizar' : 'Siguiente >>'}
+        {currentIdx === activeQuestions.length - 1 ? 'Finalizar' : 'Siguiente'}
       </button>
     </div>
   </div>
@@ -791,70 +674,71 @@
       {/each}
     </div>
   {/if}
+
   <!-- Report Modal -->
   {#if showReportModal}
-    <div class="fixed inset-0 z-[60] flex items-center justify-center p-4 bg-black/80 backdrop-blur-sm" transition:fade>
-      <div
-         class="bg-[#1E1E1E] border border-yellow-500/30 rounded-2xl p-6 shadow-2xl max-w-md w-full relative overflow-hidden"
-         transition:scale
-      >
-        <!-- Header -->
-        <h3 class="text-xl font-bold text-yellow-500 mb-4 flex items-center gap-2">
-            <span class="i-lucide-alert-triangle"></span>
-            Reportar Anomalía
-        </h3>
+    <div
+      class="fixed inset-0 z-[100] bg-black/80 backdrop-blur-sm flex items-center justify-center p-4"
+      onclick={(e) => { if (e.target === e.currentTarget) showReportModal = false; }}
+      role="presentation"
+      transition:fade={{ duration: 200 }}
+    >
+      <div class="bg-[#121212] border border-yellow-500/20 rounded-xl p-6 max-w-sm w-full shadow-2xl" in:fly={{ y: 20, duration: 300 }}>
+        <h2 class="text-xl font-bold uppercase tracking-widest text-yellow-500 mb-4">Reportar Pregunta</h2>
 
-        <p class="text-gray-400 text-sm mb-6">Esta pregunta tiene un problema. Tu reporte ayuda a mejorar la calidad.</p>
+        <div class="space-y-4">
+          <div>
+            <label class="block text-xs uppercase tracking-widest text-white/60 mb-2">Tipo de Error</label>
+            <select
+                bind:value={reportType}
+                class="w-full bg-white/5 border border-white/10 rounded-lg px-4 py-3 text-sm text-white focus:border-yellow-500 focus:outline-none transition-colors"
+                onchange={(e) => reportType = e.currentTarget.value}
+            >
+                <option value="" disabled selected>Selecciona una opción</option>
+                <option value="typo">Error Ortográfico / Redacción</option>
+                <option value="wrong_answer">Respuesta Incorrecta</option>
+                <option value="display">Problema de Visualización</option>
+                <option value="other">Otro</option>
+            </select>
+          </div>
 
-        <!-- Options -->
-        <div class="space-y-3 mb-6">
-            {#each [
-                { id: 'contexto', label: 'Sin contexto / Contexto incompleto' },
-                { id: 'errada', label: 'Respuesta errada / incorrecta' },
-                { id: 'simbolos', label: 'Símbolos extraños / Mala renderización' },
-                { id: 'otro', label: 'Otro problema' }
-            ] as opt}
-               <label class="flex items-center gap-3 p-3 rounded-lg border cursor-pointer hover:bg-white/5 transition-colors {reportType === opt.id ? 'border-yellow-500 bg-yellow-500/10' : 'border-white/10'}">
-                   <input type="radio" name="reportType" value={opt.id} bind:group={reportType} class="text-yellow-500 focus:ring-yellow-500" />
-                   <span class="text-gray-200 text-sm">{opt.label}</span>
-               </label>
-            {/each}
-
+          <div>
+             <label class="block text-xs uppercase tracking-widest text-white/60 mb-2">Detalles (Opcional)</label>
              <textarea
-               bind:value={reportDetails}
-               placeholder="Detalles adicionales (opcional)..."
-               class="w-full bg-black/30 border border-white/10 rounded-lg p-3 text-sm text-gray-300 focus:border-yellow-500 outline-none resize-none h-24 mt-2"
-            ></textarea>
-        </div>
+                bind:value={reportDetails}
+                class="w-full bg-white/5 border border-white/10 rounded-lg px-4 py-3 text-sm text-white focus:border-yellow-500 focus:outline-none transition-colors h-24 resize-none"
+                placeholder="Describe el error..."
+             ></textarea>
+          </div>
 
-        <!-- Actions -->
-        <div class="flex gap-3 justify-end">
+          <div class="flex gap-3 mt-6">
             <button
-              on:click={() => showReportModal = false}
-              class="px-4 py-2 text-gray-400 hover:text-white transition-colors text-sm font-medium"
+               onclick={() => showReportModal = false}
+               class="flex-1 px-4 py-3 border border-white/10 hover:bg-white/5 rounded-lg text-xs font-bold uppercase tracking-widest transition-colors"
             >
                 Cancelar
             </button>
             <button
-              on:click={handleReport}
-              disabled={!reportType || isReporting}
-              class="px-6 py-2 bg-yellow-500 text-black font-bold rounded-lg hover:bg-yellow-400 transition-colors disabled:opacity-50 disabled:cursor-not-allowed flex items-center gap-2"
+               onclick={handleReport}
+               disabled={!reportType || isReporting}
+               class="flex-1 px-4 py-3 bg-yellow-500 text-[#121212] hover:bg-yellow-400 rounded-lg text-xs font-bold uppercase tracking-widest transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
             >
-                {#if isReporting}
-                   <span class="animate-spin i-lucide-loader-2 w-4 h-4"></span>
-                {/if}
-                Enviar Reporte
+                {isReporting ? 'Enviando...' : 'Enviar Reporte'}
             </button>
+          </div>
         </div>
       </div>
     </div>
   {/if}
 
-  <!-- Success Toast -->
+  <!-- Toast -->
   {#if showReportToast}
-     <div class="fixed bottom-20 left-1/2 -translate-x-1/2 bg-emerald-500 text-black px-6 py-3 rounded-full shadow-lg font-bold flex items-center gap-2 z-[70]" transition:fly={{ y: 20 }}>
-         <span class="i-lucide-check-circle"></span>
-         Reporte enviado exisotamente
-     </div>
+    <div
+      transition:fly={{ y: 50, duration: 300 }}
+      class="fixed bottom-8 left-1/2 -translate-x-1/2 z-[100] bg-emerald-500 text-[#121212] px-6 py-3 rounded-full font-bold uppercase tracking-widest text-xs shadow-lg flex items-center gap-2"
+    >
+        <span class="text-lg">✅</span> Reporte enviado exitosamente
+    </div>
   {/if}
+
 </div>

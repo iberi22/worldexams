@@ -23,10 +23,19 @@
   let currentPeriod = PERIODS.find(p => today >= p.start && today <= p.end);
   let nextPeriod = PERIODS.find(p => today < p.start);
 
-  // Exam Date Logic (Approx Aug 10)
-  let examDate = new Date(currentYear, 7, 10); // Aug 10
-  if (today > examDate) {
-      examDate = new Date(currentYear + 1, 7, 10); // Next year if passed
+  // Expanded Exam Dates Logic (2026)
+  const ALL_EXAMS = [
+    { id: '11B', name: 'Saber 11° (Cal. B)', date: new Date(currentYear, 2, 15), official: true },
+    { id: 'PRO', name: 'Saber Pro / TyT', date: new Date(currentYear, 3, 26), official: true },
+    { id: '11A', name: 'Saber 11° (Cal. A)', date: new Date(currentYear, 6, 26), official: true },
+    { id: '3579', name: 'Saber 3°, 5°, 7°, 9°', date: new Date(currentYear, 9, 15), official: false } // Estimated Oct
+  ];
+
+  // Logic to find the NEXT upcoming exam
+  let nextExam = ALL_EXAMS.find(e => today <= e.date) || ALL_EXAMS[0];
+  if (!ALL_EXAMS.find(e => today <= e.date)) {
+      // If all passed this year, look for next year's first exam
+      nextExam = { ...ALL_EXAMS[0], date: new Date(currentYear + 1, 2, 15) };
   }
 
   // Calculate days remaining
@@ -38,7 +47,7 @@
 
   let daysToPeriodEnd = currentPeriod ? getDaysDiff(currentPeriod.end) : 0;
   let daysToNextPeriod = nextPeriod ? getDaysDiff(nextPeriod.start) : 0;
-  let daysToExam = getDaysDiff(examDate);
+  let daysToExam = getDaysDiff(nextExam.date);
 
   // Text logic
   let periodStatus = currentPeriod
@@ -49,17 +58,17 @@
 
 </script>
 
-<div class="mb-4 w-full">
+<div class="mb-8 w-full max-w-lg mx-auto">
   <FlashlightCard
-    className="p-3 flex items-center justify-between gap-4 border-emerald-500/20 bg-emerald-900/10 hover:border-emerald-500/40 transition-all duration-300"
+    className="p-4 flex flex-col sm:flex-row items-center justify-center sm:justify-between gap-4 border-emerald-500/20 bg-emerald-900/10 hover:border-emerald-500/40 transition-all duration-300"
     onClick={() => showModal = true}
   >
      <!-- Left: Period Tracker -->
-     <div class="flex items-center gap-3 pl-2">
-        <div class="w-8 h-8 rounded-full bg-emerald-500/20 flex items-center justify-center text-lg">
+     <div class="flex items-center gap-3 sm:pl-2">
+        <div class="w-10 h-10 rounded-full bg-emerald-500/20 flex items-center justify-center text-xl shrink-0">
             📅
         </div>
-        <div class="flex flex-col text-left">
+        <div class="flex flex-col text-center sm:text-left">
             <span class="text-[10px] font-bold uppercase tracking-widest text-emerald-400">
                 {periodName}
             </span>
@@ -70,19 +79,20 @@
      </div>
 
      <!-- Divider -->
-     <div class="h-6 w-px bg-white/10 mx-2 hidden sm:block"></div>
+     <div class="h-8 w-px bg-white/10 mx-2 hidden sm:block"></div>
+     <div class="w-16 h-px bg-white/10 my-1 sm:hidden"></div>
 
      <!-- Right: Exam Tracker -->
-     <div class="flex items-center gap-3 pr-2 text-right">
-        <div class="flex flex-col items-end">
+     <div class="flex items-center gap-3 sm:pr-2 text-center sm:text-right">
+        <div class="flex flex-col items-center sm:items-end order-2 sm:order-1">
             <span class="text-[10px] font-bold uppercase tracking-widest text-blue-400">
-                Prueba Saber 11
+                {nextExam.name}
             </span>
             <span class="text-[9px] text-white/60">
                 Faltan {daysToExam} días
             </span>
         </div>
-        <div class="w-8 h-8 rounded-full bg-blue-500/20 flex items-center justify-center text-lg">
+        <div class="w-10 h-10 rounded-full bg-blue-500/20 flex items-center justify-center text-xl shrink-0 order-1 sm:order-2">
             🎓
         </div>
      </div>
@@ -136,7 +146,7 @@
                     {/each}
                 </div>
                 <p class="text-[9px] text-white/20 mt-2 italic">
-                    * Fechas aproximadas basadas en Calendario A (MinEducación Colombia). Pueden variar por institución.
+                    * Fechas aproximadas basadas en Calendario A (MinEducación Colombia).
                 </p>
             </div>
 
@@ -145,12 +155,24 @@
                 <h3 class="text-xs font-bold uppercase tracking-widest text-blue-500 mb-3 flex items-center gap-2">
                     <span>🎓</span> Pruebas de Estado
                 </h3>
-                <div class="bg-blue-900/10 border border-blue-500/20 rounded-lg p-3 flex items-center gap-3">
-                    <div class="text-2xl">🇨🇴</div>
-                    <div>
-                        <div class="text-xs font-bold text-blue-300">Saber 11° (Calendario A)</div>
-                        <div class="text-[10px] text-white/60">Fecha estimada: <span class="text-white">{examDate.toLocaleDateString('es-CO', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}</span></div>
-                    </div>
+                <div class="space-y-3">
+                    {#each ALL_EXAMS as exam}
+                        <div class={`p-3 rounded-lg border flex items-center gap-3 transition-colors ${nextExam.id === exam.id ? 'bg-blue-500/10 border-blue-500/30' : 'bg-white/5 border-white/5'}`}>
+                            <div class="text-lg">{exam.id.includes('11') ? '🇨🇴' : '🎓'}</div>
+                            <div>
+                                <div class={`text-xs font-bold ${nextExam.id === exam.id ? 'text-blue-300' : 'text-white/80'}`}>
+                                    {exam.name}
+                                    {#if nextExam.id === exam.id}
+                                        <span class="ml-2 text-[8px] bg-blue-500/20 text-blue-400 px-1 py-0.5 rounded uppercase font-bold">Próxima</span>
+                                    {/if}
+                                </div>
+                                <div class="text-[10px] text-white/50">
+                                    {exam.official ? 'Fecha oficial:' : 'Fecha estimada:'}
+                                    <span class="text-white/80">{exam.date.toLocaleDateString('es-CO', { day: 'numeric', month: 'long' })}</span>
+                                </div>
+                            </div>
+                        </div>
+                    {/each}
                 </div>
             </div>
         </div>

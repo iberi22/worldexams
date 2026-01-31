@@ -7,7 +7,7 @@
   import AdBanner from './AdBanner.svelte';
   import ScoreDisplay from './ScoreDisplay.svelte';
   import MathRenderer from './MathRenderer.svelte';
-  import ExamRoomResultsView from './ExamRoomResultsView.svelte'; // 🆕 Renamed Import
+  import ExamRoomResultsView from './ExamRoomResultsView.svelte';
 
   import { supabase } from '../lib/supabase';
   import {
@@ -25,46 +25,82 @@
   import { submitScoreInput, getSubmissionUrl, type ScoreSubmissionInput } from '../lib/leaderboard-service';
   import { createScoreIssue, hasGitHubAuth, getManualSubmissionUrl } from '../lib/github-api';
   import { generateQuickChecksum } from '../lib/score-hash';
+  import {
+    calculateEnglishProficiencyV2,
+    generateStudyPlan,
+    examResultsToQuestionResults,
+    saveEnglishProficiencyLevel,
+    getSavedEnglishProficiencyLevel,
+    type EnglishProficiencyResult
+  } from '../lib/api-service';
 
-  // Props - Now accepts ExamCompletionData
-  export let examData: ExamCompletionData;
-  export let questions: any[] = [];
-  export let userAnswers: Record<string | number, string> = {};
-  export let onHome: () => void;
-  export let onLeaderboard: () => void;
-  export let onViewReports: (() => void) | undefined = undefined;
-  export let onLogin: () => void;
-  export let onRegister: () => void;
+  // Props (Svelte 5 Runes)
+  interface Props {
+    examData: ExamCompletionData;
+    questions?: any[];
+    userAnswers?: Record<string | number, string>;
+    onHome: () => void;
+    onLeaderboard: () => void;
+    onViewReports?: () => void;
+    onLogin: () => void;
+    onRegister: () => void;
+  }
+
+  let {
+    examData,
+    questions = [],
+    userAnswers = {},
+    onHome,
+    onLeaderboard,
+    onViewReports = undefined,
+    onLogin,
+    onRegister
+  }: Props = $props();
 
   // State
-  let user: User | null = null;
-  let identity: LocalIdentity | null = null;
-  let isSaving = false;
-  let saved = false;
-  let leaderboardSubmitted = false;
-  let examScore: ExamScore | null = null;
-  let showRoomResults = false; // 🆕 Toggle for room results
+  let user = $state<User | null>(null);
+  let identity = $state<LocalIdentity | null>(null);
+  let isSaving = $state(false);
+  let saved = $state(false);
+  let leaderboardSubmitted = $state(false);
+  let examScore = $state<ExamScore | null>(null);
+  let activeTab = $state<'individual' | 'room'>('individual');
+  let roomResults = $state<any[]>([]);
 
   // Leaderboard submission state
-  let isSubmittingToLeaderboard = false;
-  let leaderboardSubmitResult: { success: boolean; issueUrl?: string; error?: string } | null = null;
-  let hasGitHub = false;
-  let currentSubmission: ScoreSubmissionInput | null = null;
+  let isSubmittingToLeaderboard = $state(false);
+  let leaderboardSubmitResult = $state<{ success: boolean; issueUrl?: string; error?: string } | null>(null);
+  let hasGitHub = $state(false);
+  let currentSubmission = $state<ScoreSubmissionInput | null>(null);
 
-  // Convert ExamCompletionData to ExamResult for scoring
+  // NotebookLM State
+  let proficiencyResult = $state<EnglishProficiencyResult | null>(null);
+  let isEnglishExam = $state(false);
+  let isGeneratingPlan = $state(false);
+
+  // Derived
+  let safeExamQuestions = $derived(examData?.questions || []);
+  let safeQuestions = $derived(Array.isArray(questions) ? questions : []);
+  let totalQuestions = $derived(safeQuestions.length);
+
+  let correctCount = $derived(safeQuestions.filter(q => {
+    const u = String(userAnswers[q.id] || '').trim().toLowerCase();
+    const c = String(q.correctOptionId || '').trim().toLowerCase();
+    return u === c && u !== '';
+  }).length);
+
+  let percentage = $derived(totalQuestions > 0 ? Math.round((correctCount / totalQuestions) * 100) : 0);
+
+  // Helper function for ExamResult conversion
   function toExamResult(data: ExamCompletionData, questionsList: any[], answers: Record<string | number, string>): ExamResult {
-    // Usar el array de preguntas proporcionado como prop
     const safeQ = questionsList && questionsList.length > 0 ? questionsList : (data?.questions || []);
     const questionResults: QuestionResult[] = safeQ.map((q: any, index: number) => {
-      // Calculate correctness dynamically from userAnswers (Source of Truth)
-      // 🛡️ ROBUST COMPARISON: Case-insensitive and trimmed
       const userAnswer = answers[q.id];
       const normalizedUser = String(userAnswer || '').trim().toLowerCase();
       const normalizedCorrect = String(q.correctOptionId || '').trim().toLowerCase();
-
       const isCorrect = normalizedUser === normalizedCorrect && normalizedUser !== '';
-
       const examQ = data?.questions?.[index];
+
       return {
         questionId: String(q?.id || q?.questionId || 'unknown'),
         difficulty: Math.max(1, Math.min(5, q?.difficulty || 3)) as 1 | 2 | 3 | 4 | 5,
@@ -82,86 +118,118 @@
     };
   }
 
-  // Null-safe questions array
-  $: safeExamQuestions = examData?.questions || [];
-  $: safeQuestions = Array.isArray(questions) ? questions : [];
+  // Calculate Score Effect
+  $effect(() => {
+    if (examData && safeQuestions.length > 0 && !examScore) {
+       const examResult = toExamResult(examData, safeQuestions, userAnswers);
+       examScore = calculateExamScore(examResult);
+    }
+  });
 
-  // Calculate score on mount
-  $: if (examData && safeQuestions.length > 0 && !examScore) {
-    // Exam score calculated seamlessly
-    const examResult = toExamResult(examData, safeQuestions, userAnswers);
-    examScore = calculateExamScore(examResult);
-  }
+  // NotebookLM / English Profiling Effect
+  $effect(() => {
+    if (examData && questions.length > 0 && !proficiencyResult) {
+      isEnglishExam =
+        (examData.subject?.toLowerCase().includes('ingl') || false) ||
+        questions.some(q => q.cefr_level || q.cefrLevel || q.englishLevel || q.part?.includes('Part'));
 
-  // Calculate correctCount from userAnswers directly (Source of Truth)
-  // 🛡️ ROBUST COMPARISON: Case-insensitive and trimmed
-  $: correctCount = safeQuestions.filter(q => {
-    const u = String(userAnswers[q.id] || '').trim().toLowerCase();
-    const c = String(q.correctOptionId || '').trim().toLowerCase();
-    return u === c && u !== '';
-  }).length;
-  $: totalQuestions = safeQuestions.length;
-  $: percentage = totalQuestions > 0 ? Math.round((correctCount / totalQuestions) * 100) : 0;
+      if (isEnglishExam) {
+         const resultInputs = questions.map(q => ({
+            id: String(q.id),
+            userAnswer: userAnswers[q.id],
+            correctOptionId: q.correctOptionId,
+            cefrLevel: q.cefrLevel || q.cefr_level || q.englishLevel,
+            grade: q.grade || examData.grade
+         }));
+
+         const qResults = examResultsToQuestionResults(resultInputs);
+         const res = calculateEnglishProficiencyV2(qResults);
+         proficiencyResult = res;
+
+         if (res) {
+             const existingLevel = getSavedEnglishProficiencyLevel();
+             const shouldUpdate = res.confidence >= 60 || (existingLevel && res.estimatedLevelNum > existingLevel.levelNum);
+             if (shouldUpdate) {
+                saveEnglishProficiencyLevel(res.estimatedLevel, res.estimatedLevelNum, res.confidence);
+                if (existingLevel && res.estimatedLevelNum > existingLevel.levelNum) {
+                    console.log(`🎉 Level upgraded: ${existingLevel.level} → ${res.estimatedLevel}`);
+                }
+             }
+         }
+      }
+    }
+  });
+
+  // Build Leaderboard Submission Effect
+  $effect(() => {
+     if (identity && examScore && !currentSubmission) {
+         const checksum = generateQuickChecksum(
+             examScore.totalScore,
+             questions.length,
+             correctCount,
+             examData.totalTimeMs
+         );
+
+         const submission: ScoreSubmissionInput = {
+             anonymousId: identity.identity.id,
+             displayName: identity.identity.displayName,
+             grade: examData.grade,
+             region: identity.identity.region?.substring(0, 3).toUpperCase() || 'CO',
+             totalPoints: examScore.totalScore,
+             questionsAnswered: questions.length,
+             correctAnswers: correctCount,
+             averageDifficulty: safeExamQuestions.length > 0
+                 ? safeExamQuestions.reduce((sum, q) => sum + (q?.difficulty || 0), 0) / safeExamQuestions.length
+                 : 0,
+             examDurationMs: examData.totalTimeMs,
+             timestamp: Date.now(),
+             checksum
+         };
+         currentSubmission = submission;
+         submitScoreInput(submission); // Save locally
+     }
+  });
 
   function getOptionText(q: any, optionId: string) {
     const opt = q.options.find((o: any) => o.id === optionId);
     return opt ? opt.text : 'Sin respuesta';
   }
 
-  // 🆕 Tab State
-  let activeTab: 'individual' | 'room' = 'individual';
-  let roomResults: any[] = []; // 🆕 Live Room Results
-
   onMount(() => {
-    // Async Init
     (async () => {
-        // Load identity
         identity = getLocalIdentity();
-        // Load user
         user = await getUser();
-        if (user) {
-          await saveScoreToSupabase();
-        }
+        if (user) await saveScoreToSupabase();
 
-        // 🆕 ALWAYS save locally (for history and duplicate filtering)
         const localAnswers: Record<string, string> = {};
         for (const [qId, optId] of Object.entries(userAnswers)) {
-          localAnswers[qId] = optId; // Adapt Map to Record
+          localAnswers[qId] = optId;
         }
 
         await saveExamResultLocal(examData, localAnswers);
-
-        console.log('✅ Exam saved locally for duplicate filtering');
-        // Check if user has GitHub auth for auto-submission
         hasGitHub = await hasGitHubAuth();
     })();
 
-    // Auth subscription
     const { data: { subscription } } = supabase.auth.onAuthStateChange(async (_event, session) => {
       user = session?.user ?? null;
       if (user && !saved && !isSaving) {
         saveScoreToSupabase();
       }
-      // Re-check GitHub auth on auth change
       hasGitHub = await hasGitHubAuth();
     });
 
-    // 🆕 Auto-toggle to room tab if HOST, individual if participant
     let cleanupRoom = () => {};
     if (examData?.roomCode) {
-      // 🆕 Host sees Room results, participants see their own results first
       activeTab = examData.isHost ? 'room' : 'individual';
-      // Load existing results from session storage
       try {
           roomResults = JSON.parse(sessionStorage.getItem('room_results') || '[]');
       } catch (e) { console.error(e); }
 
-      // Listen for updates
       const handleResult = (e: CustomEvent) => {
           roomResults = [...roomResults, e.detail];
       };
       const handleLeaderboard = (e: CustomEvent) => {
-          roomResults = e.detail; // Replace full list
+          roomResults = e.detail;
       };
 
       window.addEventListener('room-result-received', handleResult as EventListener);
@@ -182,7 +250,6 @@
   async function saveScoreToSupabase() {
     if (!user || saved || isSaving) return;
     isSaving = true;
-
     try {
       const response = await fetch(
         `${import.meta.env.PUBLIC_SUPABASE_URL}/functions/v1/submit-exam`,
@@ -203,12 +270,7 @@
           }),
         }
       );
-
-      if (!response.ok) {
-        const errorData = await response.json();
-        throw new Error(errorData.error || 'Error al guardar');
-      }
-
+      if (!response.ok) throw new Error('Error saving');
       saved = true;
     } catch (e) {
       console.error('Error saving score:', e);
@@ -217,131 +279,31 @@
     }
   }
 
-  // Build the submission for the leaderboard
-  let submissionUrl = '';
-
-  $: if (identity && examScore) {
-    // Generate checksum for anti-cheat validation
-    const checksum = generateQuickChecksum(
-      examScore.totalScore,
-      questions.length,
-      correctCount,
-      examData.totalTimeMs
-    );
-
-    const submission: ScoreSubmissionInput = {
-      anonymousId: identity.identity.id,
-      displayName: identity.identity.displayName,
-      grade: examData.grade,
-      region: identity.identity.region?.substring(0, 3).toUpperCase() || 'CO',
-      totalPoints: examScore.totalScore,
-      questionsAnswered: questions.length,
-      correctAnswers: correctCount,
-      averageDifficulty: safeExamQuestions.length > 0 ? safeExamQuestions.reduce((sum, q) => sum + (q?.difficulty || 0), 0) / safeExamQuestions.length : 0,
-      examDurationMs: examData.totalTimeMs,
-      timestamp: Date.now(),
-      checksum
-    };
-    currentSubmission = submission;
-    submissionUrl = getSubmissionUrl(submission);
-    submitScoreInput(submission); // Save locally
-  }
-
   async function submitToLeaderboard() {
     if (!currentSubmission || isSubmittingToLeaderboard || leaderboardSubmitted) return;
-
     isSubmittingToLeaderboard = true;
     leaderboardSubmitResult = null;
 
     if (hasGitHub) {
-      // Auto-submit via GitHub API
       const result = await createScoreIssue(currentSubmission);
       leaderboardSubmitResult = result;
-      if (result.success) {
-        leaderboardSubmitted = true;
-      }
+      if (result.success) leaderboardSubmitted = true;
     } else {
-      // Fallback: open manual submission URL
       const url = getManualSubmissionUrl(currentSubmission);
       window.open(url, '_blank');
       leaderboardSubmitResult = { success: true };
       leaderboardSubmitted = true;
     }
-
     isSubmittingToLeaderboard = false;
-  }
-
-  import {
-    calculateEnglishProficiencyV2,
-    generateStudyPlan,
-    examResultsToQuestionResults,
-    saveEnglishProficiencyLevel, // 🆕 For level-based filtering
-    getSavedEnglishProficiencyLevel, // 🆕 For progressive level update
-    type EnglishProficiencyResult
-  } from '../lib/api-service';
-
-  function openLeaderboardSubmission() {
-    submitToLeaderboard();
-  }
-
-  // 🆕 NotebookLM Integration
-  let proficiencyResult: EnglishProficiencyResult | null = null;
-  let isEnglishExam = false;
-  let isGeneratingPlan = false; // 🆕 Loading state
-
-  $: if (examData && questions.length > 0) {
-    // Check if it's an English exam (by subject or content)
-    isEnglishExam =
-      (examData.subject?.toLowerCase().includes('ingl') || false) ||
-      questions.some(q => q.cefr_level || q.cefrLevel || q.englishLevel || q.part?.includes('Part'));
-
-    if (isEnglishExam && !proficiencyResult) {
-      // Map current questions/answers to proficiency format
-      const resultInputs = questions.map(q => ({
-        id: String(q.id),
-        userAnswer: userAnswers[q.id],
-        correctOptionId: q.correctOptionId,
-        cefrLevel: q.cefrLevel || q.cefr_level || q.englishLevel,
-        grade: q.grade || examData.grade
-      }));
-
-      const questionResults = examResultsToQuestionResults(resultInputs);
-      proficiencyResult = calculateEnglishProficiencyV2(questionResults);
-
-      // 🆕 Progressive level update: Save if confidence is good OR if user improved
-      if (proficiencyResult) {
-        const existingLevel = getSavedEnglishProficiencyLevel();
-
-        const shouldUpdate =
-          proficiencyResult.confidence >= 60 || // New diagnosis with good confidence
-          (existingLevel && proficiencyResult.estimatedLevelNum > existingLevel.levelNum); // User improved!
-
-        if (shouldUpdate) {
-          saveEnglishProficiencyLevel(
-            proficiencyResult.estimatedLevel,
-            proficiencyResult.estimatedLevelNum,
-            proficiencyResult.confidence
-          );
-          if (existingLevel && proficiencyResult.estimatedLevelNum > existingLevel.levelNum) {
-            console.log(`🎉 Level upgraded: ${existingLevel.level} → ${proficiencyResult.estimatedLevel}`);
-          }
-        }
-      }
-    }
   }
 
   async function handleDownloadNotebook() {
     if (isGeneratingPlan) return;
     isGeneratingPlan = true;
-
     try {
-      // 🆕 Get cumulative historical proficiency if possible
       const { generateHistoricalEnglishProficiency } = await import('../lib/api-service');
       const globalResult = await generateHistoricalEnglishProficiency();
-
-      // Fallback to current if global fails or is empty
       const finalResult = globalResult && globalResult.totalQuestions > 0 ? globalResult : proficiencyResult;
-
       if (!finalResult) return;
 
       const plan = generateStudyPlan(finalResult);
@@ -355,23 +317,11 @@
       document.body.removeChild(a);
       URL.revokeObjectURL(url);
     } catch (e) {
-      console.error('Error generating historical plan:', e);
-      // Fallback to simple download if error
-      if (proficiencyResult) {
-        const plan = generateStudyPlan(proficiencyResult);
-        const blob = new Blob([plan.sourceContent], { type: 'text/markdown' });
-        const url = URL.createObjectURL(blob);
-        const a = document.createElement('a');
-        a.href = url;
-        a.download = `Plan_Estudio_NotebookLM_Simple_${new Date().toISOString().split('T')[0]}.md`;
-        a.click();
-        URL.revokeObjectURL(url);
-      }
+      console.error('Error generating plan:', e);
     } finally {
       isGeneratingPlan = false;
     }
   }
-
 </script>
 
 <div class="min-h-screen w-full flex flex-col animate-fade-in-up">
@@ -381,13 +331,13 @@
       <div class="flex justify-center border-b border-white/10 bg-[#121212]/50 backdrop-blur-md sticky top-0 z-40">
           <button
               class={`px-6 py-4 text-sm font-bold uppercase tracking-widest border-b-2 transition-colors ${activeTab === 'individual' ? 'border-emerald-500 text-emerald-400' : 'border-transparent text-white/40 hover:text-white/70'}`}
-              on:click={() => activeTab = 'individual'}
+              onclick={() => activeTab = 'individual'}
           >
               Mis Resultados
           </button>
           <button
               class={`px-6 py-4 text-sm font-bold uppercase tracking-widest border-b-2 transition-colors ${activeTab === 'room' ? 'border-purple-500 text-purple-400' : 'border-transparent text-white/40 hover:text-white/70'}`}
-              on:click={() => activeTab = 'room'}
+              onclick={() => activeTab = 'room'}
           >
               Resultados Sala
           </button>
@@ -460,152 +410,10 @@
         </p>
       </div>
 
-      <!-- Score Display - Complete breakdown -->
+      <!-- Score Display -->
       {#if examScore}
-        <ScoreDisplay
-          {examScore}
-        />
+        <ScoreDisplay {examScore} />
       {/if}
-
-      <!-- Diagnostic Report -->
-      {#if examData && examData.grade}
-        <!-- Safe access for grade using type assertion or checking types -->
-        {@const diagnosticQuestions = safeExamQuestions.filter(q => {
-             const g = (q as any).grade || q.question?.grade;
-             return g && g !== examData.grade;
-        })}
-        {#if diagnosticQuestions.length > 0}
-          <div class="max-w-4xl mx-auto">
-            <div class="bg-gradient-to-br from-indigo-900/20 to-purple-900/20 border border-indigo-500/30 rounded-xl p-6 relative overflow-hidden">
-               <div class="absolute top-0 right-0 p-4 opacity-10">
-                 <svg class="w-24 h-24 text-indigo-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
-                 </svg>
-               </div>
-
-               <h3 class="text-xl font-bold text-indigo-300 uppercase tracking-widest mb-4 flex items-center gap-2">
-                 <span class="text-2xl">🧠</span> Reporte de Diagnóstico
-               </h3>
-
-               <p class="text-sm text-indigo-200/80 mb-6 max-w-2xl">
-                 Este examen incluyó preguntas de grados anteriores para evaluar tus bases.
-                 Aquí está tu desempeño en temas fundamentales:
-               </p>
-
-               <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                 {#each [...new Set(diagnosticQuestions.map(q => (q as any).grade || q.question?.grade))] as grade}
-                   {@const gradeQuestions = diagnosticQuestions.filter(q => ((q as any).grade || q.question?.grade) === grade)}
-                   {@const gradeCorrect = gradeQuestions.filter(q => q.isCorrect).length}
-                   {@const gradePercent = Math.round((gradeCorrect / gradeQuestions.length) * 100)}
-
-                   <div class="bg-[#121212]/50 rounded-lg p-4 border border-indigo-500/20">
-                     <div class="flex justify-between items-center mb-2">
-                       <span class="font-bold text-indigo-400">Grado {grade}°</span>
-                       <span class={`text-xs font-bold px-2 py-1 rounded ${gradePercent >= 60 ? 'bg-emerald-500/20 text-emerald-400' : 'bg-red-500/20 text-red-400'}`}>
-                         {gradePercent}% Aprobado
-                       </span>
-                     </div>
-                     <div class="w-full h-2 bg-white/10 rounded-full overflow-hidden">
-                       <div class="h-full bg-indigo-500 transition-all" style="width: {gradePercent}%"></div>
-                     </div>
-                     {#if gradePercent < 60}
-                       <p class="text-xs text-red-300 mt-2">
-                         ⚠️ Se detectaron brechas en conceptos de este grado.
-                       </p>
-                     {/if}
-                   </div>
-                 {/each}
-               </div>
-            </div>
-          </div>
-        {/if}
-      {/if}
-
-      <!-- 🆕 NotebookLM Personalized Plan moved to bottom -->
-
-      <!-- Memory Progress Status -->
-       <div class="max-w-2xl mx-auto">
-        <MemoryStatus totalQuestions={500} compact={false} />
-      </div>
-
-      <!-- Leaderboard Status -->
-      <div class="max-w-md mx-auto">
-        {#if identity}
-          <div class="bg-[#1E1E1E]/60 border border-emerald-500/20 rounded-xl p-4 sm:p-6">
-            <div class="flex items-center gap-3 mb-3">
-              <div class="w-10 h-10 rounded-full bg-emerald-500/20 flex items-center justify-center">
-                <svg class="w-5 h-5 text-emerald-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"></path>
-                </svg>
-              </div>
-              <div>
-                <p class="text-xs uppercase tracking-widest opacity-50">Tu identidad</p>
-                <p class="font-bold text-emerald-400">{identity.identity.displayName}</p>
-              </div>
-            </div>
-            {#if leaderboardSubmitted}
-              <div class="flex items-center gap-2 text-emerald-500 bg-emerald-500/10 px-3 py-2 rounded-lg">
-                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
-                </svg>
-                <span class="text-xs font-bold uppercase tracking-widest">Puntaje enviado al ranking</span>
-              </div>
-            {:else}
-              <div class="text-xs opacity-60 animate-pulse">Enviando al ranking...</div>
-            {/if}
-          </div>
-        <!-- Anonymous Registration - Temporarily disabled
-        {:else}
-          <div class="bg-[#1E1E1E]/60 border border-yellow-500/20 rounded-xl p-4 sm:p-6">
-            <div class="flex items-center gap-3 text-yellow-500 mb-3">
-              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"></path>
-              </svg>
-              <span class="text-sm font-bold uppercase tracking-widest">Sin registro anónimo</span>
-            </div>
-            <p class="text-sm opacity-70 mb-4">
-              Regístrate de forma anónima para competir en el ranking semanal, mensual y anual.
-            </p>
-            <button
-              on:click={onRegister}
-              class="w-full px-4 py-2 bg-yellow-500/20 hover:bg-yellow-500/30 border border-yellow-500/50 rounded-lg text-yellow-500 font-bold uppercase tracking-widest text-xs transition-all"
-            >
-              Crear identidad anónima
-            </button>
-          </div>
-        -->
-        {/if}
-      </div>
-
-      <!-- Supabase Save Status (for logged in users) -->
-      <div class="flex justify-center">
-        {#if user}
-          {#if saved}
-            <div class="flex items-center gap-2 text-emerald-500 bg-emerald-500/10 px-4 py-2 rounded-full border border-emerald-500/20">
-              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg>
-              <span class="text-xs font-bold uppercase tracking-widest">Historial guardado en tu cuenta</span>
-            </div>
-          {:else if isSaving}
-            <div class="text-xs font-bold uppercase tracking-widest opacity-60 animate-pulse">
-              Guardando en tu cuenta...
-            </div>
-          {/if}
-        <!-- Login prompt - Temporarily disabled
-        {:else if !identity}
-          <div class="flex flex-col items-center gap-3 max-w-md">
-            <p class="text-xs text-center opacity-50">
-              ¿Quieres guardar tu historial completo? Inicia sesión con tu cuenta.
-            </p>
-            <button
-              on:click={onLogin}
-              class="px-4 py-2 border border-white/20 hover:bg-white/10 rounded-lg text-xs font-bold uppercase tracking-widest transition-all"
-            >
-              Iniciar sesión
-            </button>
-          </div>
-        -->
-        {/if}
-      </div>
 
       <!-- Detailed Review -->
       <div class="space-y-4 sm:space-y-6">
@@ -633,70 +441,27 @@
                     `}>
                       {isCorrect ? '✓ Correcta' : '✗ Incorrecta'}
                     </div>
-                    <!-- Question ID -->
-                    <span class="text-[10px] font-mono text-white/30 truncate hidden sm:block" title="ID de Pregunta">
-                      #{q.id}
-                    </span>
-                    {#if q.grade}
-                      <div class={`
-                         px-2 py-0.5 text-[10px] sm:text-xs font-bold uppercase tracking-widest border rounded
-                         ${q.grade !== examData.grade ? 'border-yellow-500/50 text-yellow-500 bg-yellow-500/10' : 'border-white/10 text-white/40 bg-white/5'}
-                      `}>
-                        Grado {q.grade}°
-                      </div>
-                    {/if}
-                    <!-- 🆕 English Part Badge -->
-                    {#if q.part}
-                       <div class="px-2 py-0.5 text-[10px] sm:text-xs font-bold uppercase tracking-widest border rounded border-blue-500/50 text-blue-400 bg-blue-500/10 hidden sm:block">
-                        {q.part}
-                      </div>
-                    {/if}
-                    <!-- 🆕 CEFR Level Badge -->
-                    {#if q.cefrLevel}
-                       <div class="px-2 py-0.5 text-[10px] sm:text-xs font-bold uppercase tracking-widest border rounded border-purple-500/50 text-purple-400 bg-purple-500/10">
-                        {q.cefrLevel}
-                      </div>
-                    {/if}
                   </div>
                   <h3 class="text-sm sm:text-base lg:text-lg font-normal leading-relaxed font-sans">
                     <MathRenderer content={q.text} />
                   </h3>
                 </div>
               </div>
-
-              <!-- Context / Reading Passage for Review -->
-              {#if q.context}
-                <div class="mt-4 bg-[#121212]/50 border border-emerald-500/10 rounded-lg p-3 sm:p-4 relative">
-                   <div class="text-[10px] font-bold text-emerald-500/70 mb-2 uppercase tracking-wider flex items-center gap-2">
-                     <span class="i-lucide-book-open w-3 h-3"></span>
-                     Contexto / Lectura
-                   </div>
-                   <div class="text-xs sm:text-sm text-gray-400 font-serif leading-relaxed max-h-40 overflow-y-auto pr-2 scrollbar-thin scrollbar-thumb-white/10">
-                     <MathRenderer content={q.context} />
-                   </div>
-                </div>
-              {/if}
-
             </div>
 
-            <!-- Answers Section -->
+            <!-- Answers -->
             <div class="p-4 sm:p-5 lg:p-6 space-y-4">
               <div class="grid grid-cols-1 lg:grid-cols-2 gap-3 sm:gap-4">
-                <!-- User Answer -->
                 <div class="p-3 sm:p-4 bg-[#1E1E1E]/30 border border-white/5 rounded-lg">
                   <span class="block text-[10px] sm:text-xs uppercase tracking-widest opacity-40 mb-2">Tu Respuesta</span>
                   <div class="flex items-start gap-2 sm:gap-3">
-                    <span class={`
-                      font-bold text-sm sm:text-base shrink-0
-                      ${isCorrect ? 'text-emerald-500' : 'text-red-500'}
-                    `}>
+                    <span class={`font-bold text-sm sm:text-base shrink-0 ${isCorrect ? 'text-emerald-500' : 'text-red-500'}`}>
                       {userAnswer || '-'}
                     </span>
                     <span class="opacity-80 text-xs sm:text-sm"><MathRenderer content={getOptionText(q, userAnswer)} /></span>
                   </div>
                 </div>
 
-                <!-- Correct Answer (only if incorrect) -->
                 {#if !isCorrect}
                   <div class="p-3 sm:p-4 bg-[#1E1E1E]/30 border border-emerald-500/20 rounded-lg">
                     <span class="block text-[10px] sm:text-xs uppercase tracking-widest opacity-40 mb-2">Respuesta Correcta</span>
@@ -708,17 +473,7 @@
                 {/if}
               </div>
 
-              <!-- Explanation -->
-              {#if q.explanation}
-                <div class="pt-4 border-t border-white/5">
-                  <span class="block text-xs font-bold uppercase tracking-widest text-emerald-500 mb-2">Explicación</span>
-                  <div class="text-xs sm:text-sm font-normal leading-relaxed opacity-80 font-sans">
-                    <MathRenderer content={q.explanation} />
-                  </div>
-                </div>
-              {/if}
-
-              <!-- Feedback & Voting -->
+               <!-- Feedback & Voting -->
               <div class="pt-4 border-t border-white/5">
                 <QuestionFeedback
                   questionId={q.id}
@@ -727,34 +482,18 @@
                 />
               </div>
 
-              <!-- Comments Section -->
+              <!-- Comments -->
               <div class="pt-4 border-t border-white/5">
                 <CommentsSection questionId={q.id} />
               </div>
             </div>
           </div>
-
-          <!-- Ad Banner every 2 questions -->
-          {#if (i + 1) % 2 === 0 && i < questions.length - 1}
-            <AdBanner {user} className="my-8" />
-          {/if}
         {/each}
 
-        <!-- Bottom Ad Banner -->
-        <div class="pt-4">
-          <AdBanner {user} className="max-w-4xl mx-auto" />
-        </div>
-
-        <!-- 🆕 NotebookLM Personalized Plan (Moved to End) -->
+        <!-- NotebookLM Plan -->
         {#if proficiencyResult}
           <div class="max-w-4xl mx-auto mt-8 mb-8">
             <div class="bg-gradient-to-br from-emerald-900/20 to-teal-900/20 border border-emerald-500/30 rounded-xl p-6 relative overflow-hidden group text-center">
-               <div class="absolute top-0 right-0 p-4 opacity-10 group-hover:opacity-20 transition-opacity">
-                 <svg class="w-24 h-24 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
-                 </svg>
-               </div>
-
                <div class="relative z-10 flex flex-col items-center">
                  <h3 class="text-xl font-bold text-emerald-300 uppercase tracking-widest mb-2 flex items-center justify-center gap-2">
                    <span class="text-2xl">🎓</span> Plan de Estudio AI
@@ -767,7 +506,7 @@
 
                  <div class="flex flex-wrap justify-center gap-4">
                    <button
-                     on:click={handleDownloadNotebook}
+                     onclick={handleDownloadNotebook}
                      disabled={isGeneratingPlan}
                      class="px-6 py-3 bg-emerald-500 hover:bg-emerald-400 text-[#121212] font-bold uppercase tracking-widest text-xs rounded-lg shadow-lg shadow-emerald-900/20 transition-all transform hover:scale-105 flex items-center gap-2 disabled:opacity-50 disabled:cursor-not-allowed"
                    >
@@ -798,62 +537,4 @@
     </div>
   </div>
   {/if}
-
-  <!-- Fixed Footer Actions -->
-  <div class="shrink-0 px-4 sm:px-6 lg:px-8 py-4 bg-[#121212]/95 backdrop-blur-md border-t border-white/10">
-    <div class="max-w-6xl mx-auto flex flex-col sm:flex-row items-stretch sm:items-center justify-center gap-3 sm:gap-4">
-      <button
-        on:click={onHome}
-        class="px-6 py-3 border border-white/20 hover:bg-white/10 transition-colors uppercase text-xs tracking-widest font-bold"
-      >
-        Volver al Inicio
-      </button>
-      {#if currentSubmission && !leaderboardSubmitted}
-        <button
-          on:click={openLeaderboardSubmission}
-          disabled={isSubmittingToLeaderboard}
-          class="px-6 py-3 bg-yellow-900/20 border border-yellow-500/50 text-yellow-500 hover:bg-yellow-500 hover:text-[#121212] transition-colors uppercase text-xs tracking-widest font-bold disabled:opacity-50 disabled:cursor-not-allowed"
-        >
-          {#if isSubmittingToLeaderboard}
-            ⏳ Enviando...
-          {:else if hasGitHub}
-            🚀 Enviar al Ranking (Auto)
-          {:else}
-            📤 Enviar al Ranking
-          {/if}
-        </button>
-      {:else if leaderboardSubmitResult?.success}
-        <div class="px-6 py-3 bg-emerald-900/20 border border-emerald-500/50 text-emerald-500 uppercase text-xs tracking-widest font-bold flex items-center gap-2">
-          ✅ Enviado al Ranking
-          {#if leaderboardSubmitResult.issueUrl}
-            <a href={leaderboardSubmitResult.issueUrl} target="_blank" class="underline hover:text-emerald-300">Ver</a>
-          {/if}
-        </div>
-      {:else if leaderboardSubmitResult?.error}
-        <button
-          on:click={openLeaderboardSubmission}
-          class="px-6 py-3 bg-red-900/20 border border-red-500/50 text-red-500 hover:bg-red-500 hover:text-[#121212] transition-colors uppercase text-xs tracking-widest font-bold"
-        >
-          ❌ Error - Reintentar
-        </button>
-      {/if}
-      <button
-        on:click={() => onViewReports?.()}
-        class="px-6 py-3 bg-indigo-900/20 border border-indigo-500/50 text-indigo-500 hover:bg-indigo-500 hover:text-[#121212] transition-colors uppercase text-xs tracking-widest font-bold flex items-center gap-2"
-      >
-        <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
-        </svg>
-        Ver Mis Métricas
-      </button>
-      <!-- Temporarily disabled
-      <button
-        on:click={onLeaderboard}
-        class="px-6 py-3 bg-emerald-900/20 border border-emerald-500/50 text-emerald-500 hover:bg-emerald-500 hover:text-[#121212] transition-colors uppercase text-xs tracking-widest font-bold"
-      >
-        Ver Tabla de Posiciones
-      </button>
-      -->
-    </div>
-  </div>
 </div>
