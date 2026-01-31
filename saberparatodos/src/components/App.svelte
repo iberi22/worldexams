@@ -41,6 +41,7 @@
   import ExamRoomLobby from './ExamRoomLobby.svelte'; // 🆕 Renamed Import
   import StopModeSetup from '../modules/exam-room/components/StopModeSetup.svelte';
   import LobbyBrowser from '../modules/exam-room/components/LobbyBrowser.svelte';
+  import PeriodTracker from './PeriodTracker.svelte'; // 🆕 Period Tracker
   import { roomState } from '../modules/exam-room/stores/roomState.svelte.ts';
 
   // Normalize subject name for comparison (removes accents, replaces separators)
@@ -1093,6 +1094,9 @@
 
         <!-- Grade Selection Cards -->
         <div class="w-full max-w-4xl relative z-10 mt-12">
+          <!-- 🆕 Period Tracker -->
+          <PeriodTracker />
+
           <h3 class="text-center text-xs font-bold uppercase tracking-widest text-white/40 mb-6">
             Selecciona tu grado para iniciar
           </h3>

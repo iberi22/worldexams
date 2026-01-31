@@ -429,15 +429,14 @@ impl Handler<PlayerJoinedMessage> for PartyRoom {
         // Broadcast player list update
         let players: Vec<PlayerInfo> = self.connections
             .keys()
-            .map(|id| {
-                let data = self.players.get(id).unwrap();
-                PlayerInfo {
+            .filter_map(|id| {
+                self.players.get(id).map(|data| PlayerInfo {
                     id: id.to_string(),
                     name: data.name.clone(),
                     is_ready: data.is_ready,
                     is_host: false,
                     is_anonymous: data.is_anonymous,
-                }
+                })
             })
             .collect();
 
@@ -579,23 +578,25 @@ impl Handler<PlayerReadyMessage> for PartyRoom {
     fn handle(&mut self, msg: PlayerReadyMessage, _ctx: &mut Self::Context) {
         info!("Player {} is ready in party {}", msg.player_id, self.party_code);
 
-        // Mark player as ready
+        // Update player status
         if let Some(player) = self.players.get_mut(&msg.player_id) {
             player.is_ready = true;
+        } else {
+            warn!("Player {} not found in party {}", msg.player_id, self.party_code);
+            return;
         }
 
         // Broadcast player list update
         let players: Vec<PlayerInfo> = self.connections
             .keys()
-            .map(|id| {
-                let data = self.players.get(id).unwrap();
-                PlayerInfo {
+            .filter_map(|id| {
+                self.players.get(id).map(|data| PlayerInfo {
                     id: id.to_string(),
                     name: data.name.clone(),
                     is_ready: data.is_ready,
                     is_host: false,
                     is_anonymous: data.is_anonymous,
-                }
+                })
             })
             .collect();
 
@@ -605,6 +606,7 @@ impl Handler<PlayerReadyMessage> for PartyRoom {
         let all_ready = !self.players.is_empty() && self.players.values().all(|p| p.is_ready);
 
         // If yes, and we have questions, broadcast GameStarted
+        // Prevent restarting if already started (logic from PR #75)
         if all_ready && !self.questions.is_empty() && !self.is_started {
             info!("All players ready! Starting game in party {}", self.party_code);
             self.is_started = true;
