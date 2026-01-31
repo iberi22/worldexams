@@ -1,18 +1,20 @@
 ---
-id: "UNI-ENG-12-music-evolution-001"
-country: "global"
+id: UNI-ENG-12-music-evolution-001
+country: global
 grado: 12
-asignatura: "ingles"
-tema: "music-evolution"
-cefr_level: "C1"
-protocol_version: "3.2-GLOBAL"
+asignatura: ingles
+tema: music-evolution
+cefr_level: C1
+protocol_version: 3.2-GLOBAL
 total_questions: 10
-international_focus: "Music History / Genres / Tech"
+international_focus: Music History / Genres / Tech
 licenses:
-  v1-v10: "CC BY-NC-SA 4.0"
-creador: "AI-WorldExams"
-generation_date: "2026-01-10"
-source: "World Exams Original"
+  v1-v10: CC BY-NC-SA 4.0
+creador: AI-WorldExams
+generation_date: '2026-01-10'
+source: World Exams Original
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Music Evolution (Grade 12)

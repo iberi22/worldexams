@@ -1,21 +1,24 @@
 ---
-id: "CO-ING-11-advertising-001"
-country: "co"
+id: CO-ING-11-advertising-001
+country: co
 grado: 11
-asignatura: "ingles"
-tema: "advertising"
-cefr_level: "B2"
-protocol_version: "3.0-COL"
+asignatura: ingles
+tema: advertising
+cefr_level: B2
+protocol_version: 3.0-COL
 total_questions: 10
-international_focus: "TOEFL Reading - Marketing"
-estado: "approved"
-creador: "Antigravity-Agent"
-generation_date: "2026-01-01"
-source: "toefltestprep.com"
-source_url: "https://toefltestprep.com/reading/the-impact-of-advertising-on-consumer-behavior"
+international_focus: TOEFL Reading - Marketing
+estado: approved
+creador: Antigravity-Agent
+generation_date: '2026-01-01'
+source: toefltestprep.com
+source_url: >-
+  https://toefltestprep.com/reading/the-impact-of-advertising-on-consumer-behavior
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v10: "CC BY-NC-SA 4.0"
+  v1: CC BY-SA 4.0
+  v2-v10: CC BY-NC-SA 4.0
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Advertising & Consumerism (B2+)

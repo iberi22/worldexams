@@ -1,18 +1,20 @@
 ---
-id: "UNI-ENG-09-veterinary-basics-001"
-country: "global"
+id: UNI-ENG-09-veterinary-basics-001
+country: global
 grado: 9
-asignatura: "ingles"
-tema: "veterinary-basics"
-cefr_level: "B1"
-protocol_version: "3.1-GLOBAL"
+asignatura: ingles
+tema: veterinary-basics
+cefr_level: B1
+protocol_version: 3.1-GLOBAL
 total_questions: 10
-international_focus: "Medicine / Biology / Health"
+international_focus: Medicine / Biology / Health
 licenses:
-  v1-v10: "CC BY-NC-SA 4.0"
-creador: "AI-WorldExams"
-generation_date: "2026-01-10"
-source: "World Exams Original"
+  v1-v10: CC BY-NC-SA 4.0
+creador: AI-WorldExams
+generation_date: '2026-01-10'
+source: World Exams Original
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Veterinary Basics (Grade 9)

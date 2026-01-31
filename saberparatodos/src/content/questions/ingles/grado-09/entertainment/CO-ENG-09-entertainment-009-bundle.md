@@ -1,13 +1,15 @@
 ---
-id: "CO-ENG-09-entertainment-009"
-country: "co"
+id: CO-ENG-09-entertainment-009
+country: co
 grado: 9
-asignatura: "ingles"
-tema: "entertainment"
-cefr_level: "B1+"
-protocol_version: "3.0-COL"
+asignatura: ingles
+tema: entertainment
+cefr_level: B1+
+protocol_version: 3.0-COL
 total_questions: 10
-international_focus: "Cambridge PET & Pop Culture"
+international_focus: Cambridge PET & Pop Culture
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Entertainment & Media (B1+)

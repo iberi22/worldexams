@@ -1,14 +1,16 @@
 ---
-id: "CO-ENG-08-environment-002"
-country: "co"
+id: CO-ENG-08-environment-002
+country: co
 grado: 8
-asignatura: "ingles"
-tema: "environment"
-cefr_level: "B1"
-protocol_version: "3.0-COL"
+asignatura: ingles
+tema: environment
+cefr_level: B1
+protocol_version: 3.0-COL
 total_questions: 10
-international_focus: "Cambridge PET & Environmental Science"
+international_focus: Cambridge PET & Environmental Science
 bilingual_support: true
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Environment & Nature (B1)

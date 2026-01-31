@@ -1,13 +1,15 @@
 ---
-id: "CO-ENG-10-global-issues-002"
-country: "co"
+id: CO-ENG-10-global-issues-002
+country: co
 grado: 10
-asignatura: "ingles"
-tema: "global-issues"
-cefr_level: "B2"
-protocol_version: "3.0-COL"
+asignatura: ingles
+tema: global-issues
+cefr_level: B2
+protocol_version: 3.0-COL
 total_questions: 10
-international_focus: "TOEFL Reading & Social Science"
+international_focus: TOEFL Reading & Social Science
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Global Issues (B2)

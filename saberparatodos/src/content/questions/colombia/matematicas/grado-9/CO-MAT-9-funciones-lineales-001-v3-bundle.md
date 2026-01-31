@@ -17,6 +17,8 @@ source_url: >-
   https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations
 source_license: CC BY-SA 4.0
 search_query: preguntas funciones lineales grado 9
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: La Línea Recta

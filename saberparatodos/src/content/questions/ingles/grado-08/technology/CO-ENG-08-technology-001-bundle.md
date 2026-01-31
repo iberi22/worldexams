@@ -1,14 +1,16 @@
 ---
-id: "CO-ENG-08-technology-001"
-country: "co"
+id: CO-ENG-08-technology-001
+country: co
 grado: 8
-asignatura: "ingles"
-tema: "technology"
-cefr_level: "B1"
-protocol_version: "3.0-COL"
+asignatura: ingles
+tema: technology
+cefr_level: B1
+protocol_version: 3.0-COL
 total_questions: 10
-international_focus: "Cambridge PET & Digital Skills"
+international_focus: Cambridge PET & Digital Skills
 bilingual_support: true
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Technology in Daily Life (B1)

@@ -16,6 +16,8 @@ source: Banco de Preguntas Álgebra Básica (Adaptación)
 source_url: 'https://www.khanacademy.org/math/algebra'
 source_license: CC BY-SA 4.0
 search_query: preguntas algebra ecuaciones lineales grado 9
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: El Balancín Matemático

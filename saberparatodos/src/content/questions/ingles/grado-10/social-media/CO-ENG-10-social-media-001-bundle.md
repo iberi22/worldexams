@@ -1,13 +1,15 @@
 ---
-id: "CO-ENG-10-social-media-001"
-country: "co"
+id: CO-ENG-10-social-media-001
+country: co
 grado: 10
-asignatura: "ingles"
-tema: "social-media"
-cefr_level: "B2"
-protocol_version: "3.0-COL"
+asignatura: ingles
+tema: social-media
+cefr_level: B2
+protocol_version: 3.0-COL
 total_questions: 10
-international_focus: "TOEFL Reading & Digital Culture"
+international_focus: TOEFL Reading & Digital Culture
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Social Media & Digital Life (B2)

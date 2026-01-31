@@ -16,6 +16,8 @@ source: Banco de Preguntas Historia del Conflicto (Adaptación)
 source_url: 'https://www.centrodememoriahistorica.gov.co'
 source_license: CC BY-SA 4.0
 search_query: preguntas conflicto armado colombia grado 11
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: El Bogotazo

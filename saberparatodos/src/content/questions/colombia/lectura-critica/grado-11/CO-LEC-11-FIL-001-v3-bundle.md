@@ -1,26 +1,24 @@
 ---
-# === METADATA GLOBAL ===
-id: "CO-LEC-11-FIL-001"
-country: "co"
+id: CO-LEC-11-FIL-001
+country: co
 grado: 11
-asignatura: "Lectura Crítica / Filosofía"
-tema: "Platón - Alegoría de la Caverna"
-protocol_version: "3.0"
+asignatura: Lectura Crítica / Filosofía
+tema: Platón - Alegoría de la Caverna
+protocol_version: '3.0'
 total_questions: 10
-estado: "review"
-creador: "Antigravity-Agent"
-generation_date: "2025-12-27"
-
-# === LICENSING ===
+estado: review
+creador: Antigravity-Agent
+generation_date: '2025-12-27'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v10: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
-source: "Platón, La República, Libro VII."
-source_url: "https://www.icfes.gov.co/documents/39281/2135671/Guia+de+orientacion+Saber+11-Lectura+Critica.pdf"
-source_license: "Public Domain"
-search_query: "ejemplo pregunta icfes filosofia platón mito caverna explicada"
+  v1: CC BY-SA 4.0
+  v2-v10: CC BY-NC-SA 4.0
+source: 'Platón, La República, Libro VII.'
+source_url: >-
+  https://www.icfes.gov.co/documents/39281/2135671/Guia+de+orientacion+Saber+11-Lectura+Critica.pdf
+source_license: Public Domain
+search_query: ejemplo pregunta icfes filosofia platón mito caverna explicada
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: El Mito de la Caverna (Platón)

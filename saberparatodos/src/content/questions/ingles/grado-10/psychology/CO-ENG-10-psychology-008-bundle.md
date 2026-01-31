@@ -1,13 +1,15 @@
 ---
-id: "CO-ENG-10-psychology-008"
-country: "co"
+id: CO-ENG-10-psychology-008
+country: co
 grado: 10
-asignatura: "ingles"
-tema: "psychology"
-cefr_level: "B2"
-protocol_version: "3.0-COL"
+asignatura: ingles
+tema: psychology
+cefr_level: B2
+protocol_version: 3.0-COL
 total_questions: 10
-international_focus: "TOEFL Reading & Psychology"
+international_focus: TOEFL Reading & Psychology
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Psychology & Human Behavior (B2)

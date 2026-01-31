@@ -16,6 +16,8 @@ source: Banco de Preguntas Estadística (Adaptación)
 source_url: 'https://www.khanacademy.org/math/statistics-probability'
 source_license: CC BY-SA 4.0
 search_query: preguntas estadistica media mediana moda grado 9
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: Analizando Datos

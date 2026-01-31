@@ -1,13 +1,15 @@
 ---
-id: "CO-ENG-09-careers-jobs-008"
-country: "co"
+id: CO-ENG-09-careers-jobs-008
+country: co
 grado: 9
-asignatura: "ingles"
-tema: "careers-jobs"
-cefr_level: "B1+"
-protocol_version: "3.0-COL"
+asignatura: ingles
+tema: careers-jobs
+cefr_level: B1+
+protocol_version: 3.0-COL
 total_questions: 10
-international_focus: "Cambridge PET & Career English"
+international_focus: Cambridge PET & Career English
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Careers & Jobs (B1+)

@@ -1,18 +1,20 @@
 ---
-id: "UNI-ENG-06-logic-puzzles-001"
-country: "global"
+id: UNI-ENG-06-logic-puzzles-001
+country: global
 grado: 6
-asignatura: "ingles"
-tema: "logic-puzzles"
-cefr_level: "A1+"
-protocol_version: "3.1-GLOBAL"
+asignatura: ingles
+tema: logic-puzzles
+cefr_level: A1+
+protocol_version: 3.1-GLOBAL
 total_questions: 10
-international_focus: "Starters / Movers (Cambridge YLE) - Logic"
+international_focus: Starters / Movers (Cambridge YLE) - Logic
 licenses:
-  v1-v10: "CC BY-NC-SA 4.0"
-creador: "AI-WorldExams"
-generation_date: "2026-01-10"
-source: "World Exams Original"
+  v1-v10: CC BY-NC-SA 4.0
+creador: AI-WorldExams
+generation_date: '2026-01-10'
+source: World Exams Original
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Logic Puzzles & Mysteries (A1 Challenge)

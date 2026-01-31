@@ -90,6 +90,7 @@
   let isOnline = $state(true);
   let p2pConnected = $state(false); // 🆕 P2P connection status
   let syncMethod = $state('none'); // 'p2p', 'realtime', or 'none'
+  let isStartingExam = $state(false); // 🆕 Loading state for exam start
 
   let allStudentsReady = $derived(connectedUsers.length > 0 && connectedUsers.every((u) => Boolean(u?.ready)));
   let canHostStartRoom = $derived(!roomEnabled || !roomCode || !isHost || allStudentsReady);
@@ -1054,6 +1055,10 @@
       sessionId = crypto.randomUUID();
     }
 
+    isStartingExam = true;
+    try {
+
+
     // BLOCK Guest from starting if they triggered it manually (should be disabled in UI now anyway)
     if (roomEnabled && roomCode && !isHost && !overrideConfig) {
       console.warn('❌ Guest tried to start manually');
@@ -1193,6 +1198,21 @@
                   } catch (e) {
                       console.error('Deep search error:', e);
                   }
+
+                  // 🚨 FALLBACK: If still insufficient, fill with generic questions for this grade
+                  if (filtered.length < questionCount) {
+                      const needed = questionCount - filtered.length;
+                      console.warn(`⚠️ Still have only ${filtered.length}/${questionCount} questions after Deep Search. Filling with random questions.`);
+
+                      const currentIds = new Set(filtered.map(q => q.id));
+                      const leftovers = allQ.filter(q => !currentIds.has(q.id));
+                      const fillers = leftovers.sort(() => 0.5 - Math.random()).slice(0, needed);
+
+                      if (fillers.length > 0) {
+                          filtered = [...filtered, ...fillers];
+                          console.log(`✅ Added ${fillers.length} filler questions from general pool.`);
+                      }
+                  }
              }
 
              // Shuffle and slice
@@ -1224,6 +1244,9 @@
       grade: selectedGrade,
       questions: roomEnabled && finalQuestions.length > 0 ? finalQuestions : soloQuestions // 🆕 Pass solo questions if period mode
     });
+   } finally {
+        isStartingExam = false;
+   }
   }
 
   // Supabase Realtime Subscription for Room
@@ -1961,13 +1984,17 @@
               if (roomEnabled && !isHost) return;
               handleStart();
             }}
-            disabled={(roomEnabled && !roomCode) || (roomEnabled && roomCode && isHost && !canHostStartRoom) || (roomEnabled && roomCode && !isHost)}
+            disabled={(roomEnabled && !roomCode) || (roomEnabled && roomCode && isHost && !canHostStartRoom) || (roomEnabled && roomCode && !isHost) || isStartingExam}
           >
-            {roomEnabled && roomCode
-              ? (isHost
-                  ? (canHostStartRoom ? '🚀 Iniciar Sala' : '⏳ Esperando listos')
-                  : '⏳ Esperando al Anfitrión')
-              : 'Comenzar'}
+            {#if isStartingExam}
+                ⏳ Cargando...
+            {:else}
+                {roomEnabled && roomCode
+                ? (isHost
+                    ? (canHostStartRoom ? '🚀 Iniciar Sala' : '⏳ Esperando listos')
+                    : '⏳ Esperando al Anfitrión')
+                : 'Comenzar'}
+            {/if}
           </button>
         {/if}
       </div>

@@ -1,30 +1,32 @@
 ---
-id: "CO-CIE-3-plantas-001"
-country: "co"
+id: CO-CIE-3-plantas-001
+country: co
 grado: 3
-asignatura: "ciencias-naturales"
-tema: "Biología (Plantas)"
-protocol_version: "3.0"
+asignatura: ciencias-naturales
+tema: Biología (Plantas)
+protocol_version: '3.0'
 total_questions: 11
-estado: "published"
-creador: "Jules"
-generation_date: "2023-11-20"
-source: "Colombia Aprende / Mineducación"
-source_url: "https://aprende.colombiaaprende.edu.co/"
-search_query: "ciencias naturales grado 3 partes planta germinacion"
-source_license: "CC BY-SA 4.0"
+estado: published
+creador: Jules
+generation_date: '2023-11-20'
+source: Colombia Aprende / Mineducación
+source_url: 'https://aprende.colombiaaprende.edu.co/'
+search_query: ciencias naturales grado 3 partes planta germinacion
+source_license: CC BY-SA 4.0
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2: "CC BY-NC-SA 4.0"
-  v3: "CC BY-NC-SA 4.0"
-  v4: "CC BY-NC-SA 4.0"
-  v5: "CC BY-NC-SA 4.0"
-  v6: "CC BY-NC-SA 4.0"
-  v7: "CC BY-NC-SA 4.0"
-  v8: "CC BY-NC-SA 4.0"
-  v9: "CC BY-NC-SA 4.0"
-  v10: "CC BY-NC-SA 4.0"
-  v11: "CC BY-NC-SA 4.0"
+  v1: CC BY-SA 4.0
+  v2: CC BY-NC-SA 4.0
+  v3: CC BY-NC-SA 4.0
+  v4: CC BY-NC-SA 4.0
+  v5: CC BY-NC-SA 4.0
+  v6: CC BY-NC-SA 4.0
+  v7: CC BY-NC-SA 4.0
+  v8: CC BY-NC-SA 4.0
+  v9: CC BY-NC-SA 4.0
+  v10: CC BY-NC-SA 4.0
+  v11: CC BY-NC-SA 4.0
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # === METADATA GLOBAL ===

@@ -1,13 +1,15 @@
 ---
-id: "CO-ENG-08-hobbies-009"
-country: "co"
+id: CO-ENG-08-hobbies-009
+country: co
 grado: 8
-asignatura: "ingles"
-tema: "hobbies"
-cefr_level: "B1"
-protocol_version: "3.0-COL"
+asignatura: ingles
+tema: hobbies
+cefr_level: B1
+protocol_version: 3.0-COL
 total_questions: 10
 bilingual_support: true
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Hobbies & Free Time (B1)

@@ -1,13 +1,15 @@
 ---
-id: "CO-ENG-11-literature-010"
-country: "co"
+id: CO-ENG-11-literature-010
+country: co
 grado: 11
-asignatura: "ingles"
-tema: "literature-analysis"
-cefr_level: "B2"
-protocol_version: "3.0-COL"
+asignatura: ingles
+tema: literature-analysis
+cefr_level: B2
+protocol_version: 3.0-COL
 total_questions: 10
-international_focus: "TOEFL Reading & Literary Analysis"
+international_focus: TOEFL Reading & Literary Analysis
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Literature Analysis (B2+)

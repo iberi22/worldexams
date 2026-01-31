@@ -1,13 +1,15 @@
 ---
-id: "CO-ENG-10-arts-culture-004"
-country: "co"
+id: CO-ENG-10-arts-culture-004
+country: co
 grado: 10
-asignatura: "ingles"
-tema: "arts-culture"
-cefr_level: "B2"
-protocol_version: "3.0-COL"
+asignatura: ingles
+tema: arts-culture
+cefr_level: B2
+protocol_version: 3.0-COL
 total_questions: 10
-international_focus: "TOEFL Reading & Arts"
+international_focus: TOEFL Reading & Arts
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Arts & Culture (B2)

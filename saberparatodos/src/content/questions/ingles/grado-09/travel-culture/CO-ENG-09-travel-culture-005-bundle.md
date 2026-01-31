@@ -1,13 +1,15 @@
 ---
-id: "CO-ENG-09-travel-culture-005"
-country: "co"
+id: CO-ENG-09-travel-culture-005
+country: co
 grado: 9
-asignatura: "ingles"
-tema: "travel-culture"
-cefr_level: "B1+"
-protocol_version: "3.0-COL"
+asignatura: ingles
+tema: travel-culture
+cefr_level: B1+
+protocol_version: 3.0-COL
 total_questions: 10
-international_focus: "Cambridge PET & Practical English"
+international_focus: Cambridge PET & Practical English
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Travel & Culture (B1+)

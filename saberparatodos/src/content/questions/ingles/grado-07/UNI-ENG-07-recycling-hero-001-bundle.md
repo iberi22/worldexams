@@ -1,18 +1,20 @@
 ---
-id: "UNI-ENG-07-recycling-hero-001"
-country: "global"
+id: UNI-ENG-07-recycling-hero-001
+country: global
 grado: 7
-asignatura: "ingles"
-tema: "recycling-hero"
-cefr_level: "A2"
-protocol_version: "3.1-GLOBAL"
+asignatura: ingles
+tema: recycling-hero
+cefr_level: A2
+protocol_version: 3.1-GLOBAL
 total_questions: 10
-international_focus: "Recycling / Waste / Environment"
+international_focus: Recycling / Waste / Environment
 licenses:
-  v1-v10: "CC BY-NC-SA 4.0"
-creador: "AI-WorldExams"
-generation_date: "2026-01-10"
-source: "World Exams Original"
+  v1-v10: CC BY-NC-SA 4.0
+creador: AI-WorldExams
+generation_date: '2026-01-10'
+source: World Exams Original
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Recycling Hero (Grade 7)

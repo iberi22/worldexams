@@ -1,13 +1,15 @@
 ---
-id: "CO-ENG-11-social-justice-105"
-country: "co"
+id: CO-ENG-11-social-justice-105
+country: co
 grado: 11
-asignatura: "ingles"
-tema: "social-justice"
-cefr_level: "B2/C1"
-protocol_version: "3.1-COL-Bilingual"
+asignatura: ingles
+tema: social-justice
+cefr_level: B2/C1
+protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Social Justice & Human Rights (B2/C1)

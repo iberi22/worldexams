@@ -16,6 +16,8 @@ source: Banco de Preguntas Genética (Adaptación)
 source_url: 'https://www.khanacademy.org/science/biology/gene-expression-central-dogma'
 source_license: CC BY-SA 4.0
 search_query: preguntas genetica molecular grado 11
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: El Código de la Vida

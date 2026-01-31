@@ -1,13 +1,15 @@
 ---
-id: "CO-ENG-06-my-house-101"
-country: "co"
+id: CO-ENG-06-my-house-101
+country: co
 grado: 6
-asignatura: "ingles"
-tema: "my-house"
-cefr_level: "A2"
-protocol_version: "3.1-COL-Bilingual"
+asignatura: ingles
+tema: my-house
+cefr_level: A2
+protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: My House (A2)

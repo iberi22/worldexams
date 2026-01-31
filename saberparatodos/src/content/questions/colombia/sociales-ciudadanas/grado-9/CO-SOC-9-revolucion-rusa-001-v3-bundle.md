@@ -1,26 +1,23 @@
 ---
-# === METADATA GLOBAL ===
-id: "CO-SOC-9-revolucion-rusa-001"
-country: "CO"
+id: CO-SOC-9-revolucion-rusa-001
+country: CO
 grado: 9
-asignatura: "sociales-ciudadanas"
-tema: "Revolución Rusa"
-protocol_version: "3.0"
+asignatura: sociales-ciudadanas
+tema: Revolución Rusa
+protocol_version: '3.0'
 total_questions: 10
-estado: "draft"
-creador: "Antigravity-Agent"
-generation_date: "2025-12-30"
-
-# === LICENSING ===
+estado: draft
+creador: Antigravity-Agent
+generation_date: '2025-12-30'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v10: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
-source: "Banco de Preguntas Historia Contemporánea (Adaptación)"
-source_url: "https://es.wikipedia.org/wiki/Revolución_rusa"
-source_license: "CC BY-SA 4.0"
-search_query: "preguntas revolucion rusa grado 9"
+  v1: CC BY-SA 4.0
+  v2-v10: CC BY-NC-SA 4.0
+source: Banco de Preguntas Historia Contemporánea (Adaptación)
+source_url: 'https://es.wikipedia.org/wiki/Revolución_rusa'
+source_license: CC BY-SA 4.0
+search_query: preguntas revolucion rusa grado 9
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: El Fin del Zarismo

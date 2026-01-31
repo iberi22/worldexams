@@ -1,30 +1,32 @@
 ---
-id: "CO-MAT-07-proporciones-001"
-country: "co"
+id: CO-MAT-07-proporciones-001
+country: co
 grado: 7
-asignatura: "matematicas"
-tema: "proporciones"
-protocol_version: "3.0"
-bundle_version: "3.0"
+asignatura: matematicas
+tema: proporciones
+protocol_version: '3.0'
+bundle_version: '3.0'
 total_questions: 10
 dificultad: 3
-estado: "published"
-creador: "AI-WorldExams"
-llm_model: "gemini-2.0-flash"
-agent: "antigravity"
-ide: "generic"
-generation_date: "2025-12-29"
-
+estado: published
+creador: AI-WorldExams
+llm_model: gemini-2.0-flash
+agent: antigravity
+ide: generic
+generation_date: '2025-12-29'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v10: "CC BY-NC-SA 4.0"
-
-source: "OpenTDB"
-source_url: "https://opentdb.com"
-source_license: "CC BY-SA 4.0"
-search_query: "preguntas matematicas grado 7 proporciones"
-original_question: "Si para hacer 10 arepas necesito 500g de harina, ¿cuánta harina necesito para 15 arepas?"
-original_answer: "750g"
+  v1: CC BY-SA 4.0
+  v2-v10: CC BY-NC-SA 4.0
+source: OpenTDB
+source_url: 'https://opentdb.com'
+source_license: CC BY-SA 4.0
+search_query: preguntas matematicas grado 7 proporciones
+original_question: >-
+  Si para hacer 10 arepas necesito 500g de harina, ¿cuánta harina necesito para
+  15 arepas?
+original_answer: 750g
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: Recetas y Proporciones

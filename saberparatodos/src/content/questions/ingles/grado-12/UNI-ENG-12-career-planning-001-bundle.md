@@ -1,18 +1,20 @@
 ---
-id: "UNI-ENG-12-career-planning-001"
-country: "global"
+id: UNI-ENG-12-career-planning-001
+country: global
 grado: 12
-asignatura: "ingles"
-tema: "career-planning"
-cefr_level: "C1"
-protocol_version: "3.2-GLOBAL"
+asignatura: ingles
+tema: career-planning
+cefr_level: C1
+protocol_version: 3.2-GLOBAL
 total_questions: 10
-international_focus: "Jobs / CV / Interviews"
+international_focus: Jobs / CV / Interviews
 licenses:
-  v1-v10: "CC BY-NC-SA 4.0"
-creador: "AI-WorldExams"
-generation_date: "2026-01-10"
-source: "World Exams Original"
+  v1-v10: CC BY-NC-SA 4.0
+creador: AI-WorldExams
+generation_date: '2026-01-10'
+source: World Exams Original
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Career Planning (Grade 12)

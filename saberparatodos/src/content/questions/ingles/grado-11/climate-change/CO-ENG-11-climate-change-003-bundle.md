@@ -1,13 +1,15 @@
 ---
-id: "CO-ENG-11-climate-change-003"
-country: "co"
+id: CO-ENG-11-climate-change-003
+country: co
 grado: 11
-asignatura: "ingles"
-tema: "climate-change"
-cefr_level: "B2"
-protocol_version: "3.0-COL"
+asignatura: ingles
+tema: climate-change
+cefr_level: B2
+protocol_version: 3.0-COL
 total_questions: 10
-international_focus: "TOEFL Reading & Environmental Science"
+international_focus: TOEFL Reading & Environmental Science
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Climate Change (B2+)

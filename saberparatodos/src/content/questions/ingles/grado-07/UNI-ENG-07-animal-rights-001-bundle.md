@@ -1,18 +1,20 @@
 ---
-id: "UNI-ENG-07-animal-rights-001"
-country: "global"
+id: UNI-ENG-07-animal-rights-001
+country: global
 grado: 7
-asignatura: "ingles"
-tema: "animal-rights"
-cefr_level: "A2"
-protocol_version: "3.1-GLOBAL"
+asignatura: ingles
+tema: animal-rights
+cefr_level: A2
+protocol_version: 3.1-GLOBAL
 total_questions: 10
-international_focus: "Values / Ethics / Law"
+international_focus: Values / Ethics / Law
 licenses:
-  v1-v10: "CC BY-NC-SA 4.0"
-creador: "AI-WorldExams"
-generation_date: "2026-01-10"
-source: "World Exams Original"
+  v1-v10: CC BY-NC-SA 4.0
+creador: AI-WorldExams
+generation_date: '2026-01-10'
+source: World Exams Original
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Animal Rights & Welfare (Grade 7)

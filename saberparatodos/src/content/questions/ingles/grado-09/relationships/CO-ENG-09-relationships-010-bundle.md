@@ -1,13 +1,15 @@
 ---
-id: "CO-ENG-09-relationships-010"
-country: "co"
+id: CO-ENG-09-relationships-010
+country: co
 grado: 9
-asignatura: "ingles"
-tema: "relationships"
-cefr_level: "B1+"
-protocol_version: "3.0-COL"
+asignatura: ingles
+tema: relationships
+cefr_level: B1+
+protocol_version: 3.0-COL
 total_questions: 10
-international_focus: "Cambridge PET & Social English"
+international_focus: Cambridge PET & Social English
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Relationships & Communication (B1+)

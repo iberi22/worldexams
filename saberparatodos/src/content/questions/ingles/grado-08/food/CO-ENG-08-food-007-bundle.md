@@ -1,13 +1,15 @@
 ---
-id: "CO-ENG-08-food-007"
-country: "co"
+id: CO-ENG-08-food-007
+country: co
 grado: 8
-asignatura: "ingles"
-tema: "food"
-cefr_level: "B1"
-protocol_version: "3.0-COL"
+asignatura: ingles
+tema: food
+cefr_level: B1
+protocol_version: 3.0-COL
 total_questions: 10
 bilingual_support: true
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Food & Nutrition (B1)

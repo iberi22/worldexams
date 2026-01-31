@@ -19,6 +19,8 @@ agent: antigravity
 ide: vscode
 bundle_version: '1.0'
 dificultad: 3
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: La Batalla de las Palabras

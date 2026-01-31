@@ -1,13 +1,15 @@
 ---
-id: "CO-ENG-09-sports-fitness-006"
-country: "co"
+id: CO-ENG-09-sports-fitness-006
+country: co
 grado: 9
-asignatura: "ingles"
-tema: "sports-fitness"
-cefr_level: "B1+"
-protocol_version: "3.0-COL"
+asignatura: ingles
+tema: sports-fitness
+cefr_level: B1+
+protocol_version: 3.0-COL
 total_questions: 10
-international_focus: "Cambridge PET & Sports Vocabulary"
+international_focus: Cambridge PET & Sports Vocabulary
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Sports & Fitness (B1+)

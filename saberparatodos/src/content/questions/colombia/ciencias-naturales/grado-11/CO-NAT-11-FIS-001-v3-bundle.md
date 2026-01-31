@@ -17,6 +17,8 @@ source_url: >-
   https://www.icfes.gov.co/documents/39281/2135671/Guia+de+orientacion+Saber+11-Ciencias+Naturales.pdf
 source_license: Educational Use
 search_query: preguntas icfes fisica grado 11 leyes de newton aceleracion fuerza
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: Dinámica y Fuerzas (Leyes de Newton)

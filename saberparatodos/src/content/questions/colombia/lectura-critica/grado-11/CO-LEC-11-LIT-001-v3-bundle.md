@@ -1,26 +1,23 @@
 ---
-# === METADATA GLOBAL ===
-id: "CO-LEC-11-LIT-001"
-country: "co"
+id: CO-LEC-11-LIT-001
+country: co
 grado: 11
-asignatura: "Lectura Crítica"
-tema: "Cien Años de Soledad - Realismo Mágico"
-protocol_version: "3.0"
+asignatura: Lectura Crítica
+tema: Cien Años de Soledad - Realismo Mágico
+protocol_version: '3.0'
 total_questions: 10
-estado: "review"
-creador: "Antigravity-Agent"
-generation_date: "2025-12-27"
-
-# === LICENSING ===
+estado: review
+creador: Antigravity-Agent
+generation_date: '2025-12-27'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v10: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
-source: "García Márquez, G. (1967). Cien años de soledad. Editorial Sudamericana."
-source_url: "https://www.icfes.gov.co"
-source_license: "Fair Use (Fragmento Educativo)"
-search_query: "cien años de soledad preguntas tipo icfes comprensión lectora"
+  v1: CC BY-SA 4.0
+  v2-v10: CC BY-NC-SA 4.0
+source: 'García Márquez, G. (1967). Cien años de soledad. Editorial Sudamericana.'
+source_url: 'https://www.icfes.gov.co'
+source_license: Fair Use (Fragmento Educativo)
+search_query: cien años de soledad preguntas tipo icfes comprensión lectora
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: El Inicio de Macondo

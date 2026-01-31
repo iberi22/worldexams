@@ -16,6 +16,8 @@ source: Banco de Preguntas Saber 11 - Geometría Espacial
 source_url: 'https://www.youtube.com/watch?v=volumen_cilindro_cono'
 source_license: CC BY-SA 4.0
 search_query: pregunta icfes saber 11 volumen cilindro cono esfera tanque agua ejemplo pdf
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: Variación de Volumen en Cuerpos Geométricos

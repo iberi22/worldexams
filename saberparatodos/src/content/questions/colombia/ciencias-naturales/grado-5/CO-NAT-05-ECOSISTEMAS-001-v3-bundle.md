@@ -1,18 +1,20 @@
 ---
-id: "CO-NAT-05-ECOSISTEMAS-001"
-country: "CO"
+id: CO-NAT-05-ECOSISTEMAS-001
+country: CO
 grado: 5
-asignatura: "Ciencias Naturales"
-tema: "Ecosistemas de Colombia"
-protocol_version: "3.0"
+asignatura: Ciencias Naturales
+tema: Ecosistemas de Colombia
+protocol_version: '3.0'
 total_questions: 10
-estado: "approved"
-creador: "AI-WorldExams"
-generation_date: "2025-12-23"
+estado: approved
+creador: AI-WorldExams
+generation_date: '2025-12-23'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v10: "CC BY-NC-SA 4.0"
-source: "Currículo MEN Colombia - Estándares de Ciencias Naturales"
+  v1: CC BY-SA 4.0
+  v2-v10: CC BY-NC-SA 4.0
+source: Currículo MEN Colombia - Estándares de Ciencias Naturales
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: Ecosistemas de Colombia

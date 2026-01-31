@@ -15,6 +15,8 @@ licenses:
 source: Constitución Política de Colombia 1991
 source_url: 'https://www.constitucioncolombia.com'
 source_license: Dominio Público
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: Estructura del Estado y Derechos Fundamentales

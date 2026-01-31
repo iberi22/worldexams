@@ -1,13 +1,15 @@
 ---
-id: "CO-ENG-10-science-innovation-003"
-country: "co"
+id: CO-ENG-10-science-innovation-003
+country: co
 grado: 10
-asignatura: "ingles"
-tema: "science-innovation"
-cefr_level: "B2"
-protocol_version: "3.0-COL"
+asignatura: ingles
+tema: science-innovation
+cefr_level: B2
+protocol_version: 3.0-COL
 total_questions: 10
-international_focus: "TOEFL Reading & STEM"
+international_focus: TOEFL Reading & STEM
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Science & Innovation (B2)

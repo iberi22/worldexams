@@ -16,6 +16,8 @@ source: Banco de Preguntas Constitución y Democracia (Adaptación)
 source_url: 'https://www.registraduria.gov.co'
 source_license: CC BY-SA 4.0
 search_query: preguntas participacion ciudadana grado 11
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: La Constitución del 91

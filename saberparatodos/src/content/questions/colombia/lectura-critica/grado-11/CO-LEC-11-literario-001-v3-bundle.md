@@ -1,25 +1,22 @@
 ---
-# === METADATA GLOBAL ===
-id: "CO-LEC-11-literario-001"
-country: "co"
+id: CO-LEC-11-literario-001
+country: co
 grado: 11
-asignatura: "Lectura Crítica"
-tema: "Análisis de Textos Literarios"
-protocol_version: "3.0"
+asignatura: Lectura Crítica
+tema: Análisis de Textos Literarios
+protocol_version: '3.0'
 total_questions: 10
-estado: "approved"
-creador: "AI-WorldExams"
-generation_date: "2025-12-28"
-
-# === LICENSING ===
+estado: approved
+creador: AI-WorldExams
+generation_date: '2025-12-28'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v10: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
-source: "Currículo MEN Colombia - Estándares Básicos de Lenguaje"
-source_url: "https://www.mineducacion.gov.co"
-source_license: "CC BY-SA 4.0"
+  v1: CC BY-SA 4.0
+  v2-v10: CC BY-NC-SA 4.0
+source: Currículo MEN Colombia - Estándares Básicos de Lenguaje
+source_url: 'https://www.mineducacion.gov.co'
+source_license: CC BY-SA 4.0
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: Literatura Colombiana y Latinoamericana

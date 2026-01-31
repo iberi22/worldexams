@@ -1,26 +1,23 @@
 ---
-# === METADATA GLOBAL ===
-id: "CO-SOC-9-organismos-internacionales-001"
-country: "CO"
+id: CO-SOC-9-organismos-internacionales-001
+country: CO
 grado: 9
-asignatura: "sociales-ciudadanas"
-tema: "Organismos Internacionales"
-protocol_version: "3.0"
+asignatura: sociales-ciudadanas
+tema: Organismos Internacionales
+protocol_version: '3.0'
 total_questions: 10
-estado: "draft"
-creador: "Antigravity-Agent"
-generation_date: "2025-12-30"
-
-# === LICENSING ===
+estado: draft
+creador: Antigravity-Agent
+generation_date: '2025-12-30'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v10: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
-source: "Banco de Preguntas Relaciones Internacionales (Adaptación)"
-source_url: "https://www.un.org/es/"
-source_license: "CC BY-SA 4.0"
-search_query: "preguntas organismos internacionales grado 9"
+  v1: CC BY-SA 4.0
+  v2-v10: CC BY-NC-SA 4.0
+source: Banco de Preguntas Relaciones Internacionales (Adaptación)
+source_url: 'https://www.un.org/es/'
+source_license: CC BY-SA 4.0
+search_query: preguntas organismos internacionales grado 9
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: La Onu

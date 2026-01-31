@@ -1,25 +1,22 @@
 ---
-# === METADATA GLOBAL ===
-id: "CO-MAT-11-ALG-006"
-country: "co"
+id: CO-MAT-11-ALG-006
+country: co
 grado: 11
-asignatura: "Matemáticas"
-tema: "Sistemas de Ecuaciones Lineales"
-protocol_version: "3.0"
+asignatura: Matemáticas
+tema: Sistemas de Ecuaciones Lineales
+protocol_version: '3.0'
 total_questions: 10
-estado: "approved"
-creador: "AI-WorldExams"
-generation_date: "2025-12-27"
-
-# === LICENSING ===
+estado: approved
+creador: AI-WorldExams
+generation_date: '2025-12-27'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v10: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
-source: "Currículo MEN Colombia - Estándares Básicos de Matemáticas"
-source_url: "https://www.mineducacion.gov.co"
-source_license: "CC BY-SA 4.0"
+  v1: CC BY-SA 4.0
+  v2-v10: CC BY-NC-SA 4.0
+source: Currículo MEN Colombia - Estándares Básicos de Matemáticas
+source_url: 'https://www.mineducacion.gov.co'
+source_license: CC BY-SA 4.0
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: Sistemas de Ecuaciones Lineales 2x2

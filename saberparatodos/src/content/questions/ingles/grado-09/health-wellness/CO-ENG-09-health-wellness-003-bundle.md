@@ -1,13 +1,15 @@
 ---
-id: "CO-ENG-09-health-wellness-003"
-country: "co"
+id: CO-ENG-09-health-wellness-003
+country: co
 grado: 9
-asignatura: "ingles"
-tema: "health-wellness"
-cefr_level: "B1+"
-protocol_version: "3.0-COL"
+asignatura: ingles
+tema: health-wellness
+cefr_level: B1+
+protocol_version: 3.0-COL
 total_questions: 10
-international_focus: "Cambridge PET & Health Literacy"
+international_focus: Cambridge PET & Health Literacy
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Health & Wellness (B1+)

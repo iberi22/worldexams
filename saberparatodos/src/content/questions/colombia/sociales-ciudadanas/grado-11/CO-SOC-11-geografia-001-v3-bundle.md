@@ -15,6 +15,8 @@ licenses:
 source: IGAC - Instituto Geográfico Agustín Codazzi
 source_url: 'https://www.igac.gov.co'
 source_license: Dominio Público
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: Regiones Naturales y Departamentos

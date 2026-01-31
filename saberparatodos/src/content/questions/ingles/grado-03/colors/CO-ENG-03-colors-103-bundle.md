@@ -1,13 +1,15 @@
 ---
-id: "CO-ENG-03-colors-103"
-country: "co"
+id: CO-ENG-03-colors-103
+country: co
 grado: 3
-asignatura: "ingles"
-tema: "colors"
-cefr_level: "Pre-A1"
-protocol_version: "3.1-COL-Bilingual"
+asignatura: ingles
+tema: colors
+cefr_level: Pre-A1
+protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Colors (Pre-A1)

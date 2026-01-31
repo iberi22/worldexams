@@ -1,25 +1,22 @@
 ---
-# === METADATA GLOBAL ===
-id: "CO-TEC-3-seguridad-digital-001"
-country: "co"
+id: CO-TEC-3-seguridad-digital-001
+country: co
 grado: 3
-asignatura: "Tecnología e Informática"
-tema: "Seguridad Digital"
-protocol_version: "3.0"
+asignatura: Tecnología e Informática
+tema: Seguridad Digital
+protocol_version: '3.0'
 total_questions: 10
-estado: "approved"
-creador: "AI-WorldExams"
-generation_date: "2026-01-21"
-
-# === LICENSING ===
+estado: approved
+creador: AI-WorldExams
+generation_date: '2026-01-21'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v10: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
-source: "Guía 30: Ser competente en tecnología - MEN Colombia"
-source_url: "https://www.mineducacion.gov.co/1621/articles-160915_archivo_pdf.pdf"
-source_license: "CC BY-SA 4.0"
+  v1: CC BY-SA 4.0
+  v2-v10: CC BY-NC-SA 4.0
+source: 'Guía 30: Ser competente en tecnología - MEN Colombia'
+source_url: 'https://www.mineducacion.gov.co/1621/articles-160915_archivo_pdf.pdf'
+source_license: CC BY-SA 4.0
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: Cuidándonos en Internet

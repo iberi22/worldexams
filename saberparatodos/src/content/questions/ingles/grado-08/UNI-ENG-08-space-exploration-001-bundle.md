@@ -1,18 +1,20 @@
 ---
-id: "UNI-ENG-08-space-exploration-001"
-country: "global"
+id: UNI-ENG-08-space-exploration-001
+country: global
 grado: 8
-asignatura: "ingles"
-tema: "space-exploration"
-cefr_level: "A2+"
-protocol_version: "3.2-GLOBAL"
+asignatura: ingles
+tema: space-exploration
+cefr_level: A2+
+protocol_version: 3.2-GLOBAL
 total_questions: 10
-international_focus: "Astronomy / NASA / Future"
+international_focus: Astronomy / NASA / Future
 licenses:
-  v1-v10: "CC BY-NC-SA 4.0"
-creador: "AI-WorldExams"
-generation_date: "2026-01-10"
-source: "World Exams Original"
+  v1-v10: CC BY-NC-SA 4.0
+creador: AI-WorldExams
+generation_date: '2026-01-10'
+source: World Exams Original
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Space Exploration (Grade 8)

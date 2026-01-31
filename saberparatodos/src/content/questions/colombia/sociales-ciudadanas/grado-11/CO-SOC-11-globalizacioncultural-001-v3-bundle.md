@@ -16,6 +16,8 @@ source: Banco de Preguntas Globalización y Cultura (Adaptación)
 source_url: 'https://unesco.org/culture'
 source_license: CC BY-SA 4.0
 search_query: preguntas globalizacion cultural grado 11
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: La Aldea Global

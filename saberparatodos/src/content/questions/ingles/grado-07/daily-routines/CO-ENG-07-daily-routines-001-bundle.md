@@ -1,13 +1,15 @@
 ---
-id: "CO-ENG-07-daily-routines-001"
-country: "co"
+id: CO-ENG-07-daily-routines-001
+country: co
 grado: 7
-asignatura: "ingles"
-tema: "daily-routines"
-cefr_level: "A2+"
-protocol_version: "3.0-COL"
+asignatura: ingles
+tema: daily-routines
+cefr_level: A2+
+protocol_version: 3.0-COL
 total_questions: 10
 bilingual_support: true
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Daily Routines (A2+)

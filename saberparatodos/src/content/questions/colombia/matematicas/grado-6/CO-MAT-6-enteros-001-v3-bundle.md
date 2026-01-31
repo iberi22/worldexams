@@ -1,25 +1,22 @@
 ---
-# === METADATA GLOBAL ===
-id: "CO-MAT-6-enteros-001"
-country: "co"
+id: CO-MAT-6-enteros-001
+country: co
 grado: 6
-asignatura: "Matemáticas"
-tema: "Números Enteros"
-protocol_version: "3.0"
+asignatura: Matemáticas
+tema: Números Enteros
+protocol_version: '3.0'
 total_questions: 10
-estado: "approved"
-creador: "AI-WorldExams"
-generation_date: "2026-01-21"
-
-# === LICENSING ===
+estado: approved
+creador: AI-WorldExams
+generation_date: '2026-01-21'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v10: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
-source: "Estándares Básicos de Competencias en Matemáticas - MEN Colombia"
-source_url: "https://www.mineducacion.gov.co/1621/articles-116042_archivo_pdf2.pdf"
-source_license: "CC BY-SA 4.0"
+  v1: CC BY-SA 4.0
+  v2-v10: CC BY-NC-SA 4.0
+source: Estándares Básicos de Competencias en Matemáticas - MEN Colombia
+source_url: 'https://www.mineducacion.gov.co/1621/articles-116042_archivo_pdf2.pdf'
+source_license: CC BY-SA 4.0
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: Concepto de Número Entero

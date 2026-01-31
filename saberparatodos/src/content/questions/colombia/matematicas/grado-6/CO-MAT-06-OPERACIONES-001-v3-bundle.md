@@ -1,18 +1,20 @@
 ---
-id: "CO-MAT-06-OPERACIONES-001"
-country: "CO"
+id: CO-MAT-06-OPERACIONES-001
+country: CO
 grado: 6
-asignatura: "Matemáticas"
-tema: "Operaciones con Números Naturales"
-protocol_version: "3.0"
+asignatura: Matemáticas
+tema: Operaciones con Números Naturales
+protocol_version: '3.0'
 total_questions: 10
-estado: "approved"
-creador: "AI-WorldExams"
-generation_date: "2025-12-23"
+estado: approved
+creador: AI-WorldExams
+generation_date: '2025-12-23'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v10: "CC BY-NC-SA 4.0"
-source: "Currículo MEN Colombia - Estándares de Matemáticas"
+  v1: CC BY-SA 4.0
+  v2-v10: CC BY-NC-SA 4.0
+source: Currículo MEN Colombia - Estándares de Matemáticas
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: Operaciones con Números Naturales

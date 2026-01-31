@@ -15,6 +15,8 @@ licenses:
 source: Estándares Básicos de Competencias en Matemáticas - MEN Colombia
 source_url: 'https://www.mineducacion.gov.co/1621/articles-116042_archivo_pdf2.pdf'
 source_license: CC BY-SA 4.0
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: La Coma Decimal

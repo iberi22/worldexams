@@ -1,13 +1,15 @@
 ---
-id: "CO-ENG-06-at-school-102"
-country: "co"
+id: CO-ENG-06-at-school-102
+country: co
 grado: 6
-asignatura: "ingles"
-tema: "at-school"
-cefr_level: "A2"
-protocol_version: "3.1-COL-Bilingual"
+asignatura: ingles
+tema: at-school
+cefr_level: A2
+protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: At School (A2)

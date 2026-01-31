@@ -16,6 +16,8 @@ source: Constitución Política de Colombia / Jurisprudencia Corte Constituciona
 source_url: 'https://www.corteconstitucional.gov.co/'
 source_license: Public Domain
 search_query: preguntas icfes sociales ciudadanas tutela explicadas
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: Aplicación Práctica de la Acción de Tutela

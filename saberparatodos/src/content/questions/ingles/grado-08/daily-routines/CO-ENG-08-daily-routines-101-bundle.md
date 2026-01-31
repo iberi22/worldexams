@@ -1,13 +1,15 @@
 ---
-id: "CO-ENG-08-daily-routines-101"
-country: "co"
+id: CO-ENG-08-daily-routines-101
+country: co
 grado: 8
-asignatura: "ingles"
-tema: "daily-routines"
-cefr_level: "B1"
-protocol_version: "3.1-COL-Bilingual"
+asignatura: ingles
+tema: daily-routines
+cefr_level: B1
+protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Daily Routines (B1)

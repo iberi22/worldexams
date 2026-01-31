@@ -1,13 +1,15 @@
 ---
-id: "CO-ENG-11-globalization-005"
-country: "co"
+id: CO-ENG-11-globalization-005
+country: co
 grado: 11
-asignatura: "ingles"
-tema: "globalization"
-cefr_level: "B2"
-protocol_version: "3.0-COL"
+asignatura: ingles
+tema: globalization
+cefr_level: B2
+protocol_version: 3.0-COL
 total_questions: 10
-international_focus: "TOEFL Reading & Economics"
+international_focus: TOEFL Reading & Economics
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Globalization (B2+)

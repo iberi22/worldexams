@@ -23,6 +23,8 @@ source_license: CC BY-SA 4.0
 search_query: preguntas matematicas grado 9 ecuaciones-lineales
 original_question: 'Resuelve para x: 3x - 5 = 10'
 original_answer: '5'
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: Resolución de Ecuaciones

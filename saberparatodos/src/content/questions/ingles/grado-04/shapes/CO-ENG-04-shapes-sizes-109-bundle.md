@@ -1,13 +1,15 @@
 ---
-id: "CO-ENG-04-shapes-sizes-109"
-country: "co"
+id: CO-ENG-04-shapes-sizes-109
+country: co
 grado: 4
-asignatura: "ingles"
-tema: "shapes-sizes"
-cefr_level: "A1"
-protocol_version: "3.1-COL-Bilingual"
+asignatura: ingles
+tema: shapes-sizes
+cefr_level: A1
+protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # TOPIC: Shapes & Sizes (A1)

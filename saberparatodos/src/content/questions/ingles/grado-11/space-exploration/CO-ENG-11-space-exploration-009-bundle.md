@@ -1,13 +1,15 @@
 ---
-id: "CO-ENG-11-space-exploration-009"
-country: "co"
+id: CO-ENG-11-space-exploration-009
+country: co
 grado: 11
-asignatura: "ingles"
-tema: "space-exploration"
-cefr_level: "B2"
-protocol_version: "3.0-COL"
+asignatura: ingles
+tema: space-exploration
+cefr_level: B2
+protocol_version: 3.0-COL
 total_questions: 10
-international_focus: "TOEFL Reading & STEM Vocabulary"
+international_focus: TOEFL Reading & STEM Vocabulary
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Space Exploration (B2+)

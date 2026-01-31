@@ -1,30 +1,30 @@
 ---
-id: "CO-MAT-08-algebra-001"
-country: "co"
+id: CO-MAT-08-algebra-001
+country: co
 grado: 8
-asignatura: "matematicas"
-tema: "algebra-basica"
-protocol_version: "3.0"
-bundle_version: "3.0"
+asignatura: matematicas
+tema: algebra-basica
+protocol_version: '3.0'
+bundle_version: '3.0'
 total_questions: 10
 dificultad: 3
-estado: "published"
-creador: "AI-WorldExams"
-llm_model: "gemini-2.0-flash"
-agent: "antigravity"
-ide: "generic"
-generation_date: "2025-12-29"
-
+estado: published
+creador: AI-WorldExams
+llm_model: gemini-2.0-flash
+agent: antigravity
+ide: generic
+generation_date: '2025-12-29'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v10: "CC BY-NC-SA 4.0"
-
-source: "OpenTDB"
-source_url: "https://opentdb.com"
-source_license: "CC BY-SA 4.0"
-search_query: "preguntas matematicas grado 8 algebra-basica"
-original_question: "Simplifica: 2x + 3x - x"
-original_answer: "4x"
+  v1: CC BY-SA 4.0
+  v2-v10: CC BY-NC-SA 4.0
+source: OpenTDB
+source_url: 'https://opentdb.com'
+source_license: CC BY-SA 4.0
+search_query: preguntas matematicas grado 8 algebra-basica
+original_question: 'Simplifica: 2x + 3x - x'
+original_answer: 4x
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: Expresiones Algebraicas

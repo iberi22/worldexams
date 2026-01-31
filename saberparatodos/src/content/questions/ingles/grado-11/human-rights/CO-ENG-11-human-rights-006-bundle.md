@@ -1,13 +1,15 @@
 ---
-id: "CO-ENG-11-human-rights-006"
-country: "co"
+id: CO-ENG-11-human-rights-006
+country: co
 grado: 11
-asignatura: "ingles"
-tema: "human-rights"
-cefr_level: "B2"
-protocol_version: "3.0-COL"
+asignatura: ingles
+tema: human-rights
+cefr_level: B2
+protocol_version: 3.0-COL
 total_questions: 10
-international_focus: "TOEFL Reading & International Law"
+international_focus: TOEFL Reading & International Law
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Human Rights (B2+)

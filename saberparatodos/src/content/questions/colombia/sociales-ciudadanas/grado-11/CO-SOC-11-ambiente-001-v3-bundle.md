@@ -16,6 +16,8 @@ source: Banco de Preguntas Ambiente y Sociedad (Adaptación)
 source_url: 'https://minambiente.gov.co'
 source_license: CC BY-SA 4.0
 search_query: preguntas medio ambiente grado 11 colombia
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: Minería en Páramos

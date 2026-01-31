@@ -1,17 +1,18 @@
 ---
-id: "CO-ING-11-part1-004"
-country: "CO"
+id: CO-ING-11-part1-004
+country: CO
 grado: 11
-asignatura: "ingles"
-tema: "vocabulary-technology"
-protocol_version: "3.0"
+asignatura: ingles
+tema: vocabulary-technology
+protocol_version: '3.0'
 total_questions: 11
-estado: "draft"
-creador: "Jules"
-generation_date: "2025-11-30"
-source: "AI-Generated"
-source_license: "CC BY-NC-SA 4.0"
-
+estado: draft
+creador: Jules
+generation_date: '2025-11-30'
+source: AI-Generated
+source_license: CC BY-NC-SA 4.0
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # === METADATA GLOBAL ===

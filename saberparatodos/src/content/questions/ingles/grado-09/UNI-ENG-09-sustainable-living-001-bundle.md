@@ -1,18 +1,20 @@
 ---
-id: "UNI-ENG-09-sustainable-living-001"
-country: "global"
+id: UNI-ENG-09-sustainable-living-001
+country: global
 grado: 9
-asignatura: "ingles"
-tema: "sustainable-living"
-cefr_level: "B1"
-protocol_version: "3.1-GLOBAL"
+asignatura: ingles
+tema: sustainable-living
+cefr_level: B1
+protocol_version: 3.1-GLOBAL
 total_questions: 10
-international_focus: "Energy / Carbon / Sustainability"
+international_focus: Energy / Carbon / Sustainability
 licenses:
-  v1-v10: "CC BY-NC-SA 4.0"
-creador: "AI-WorldExams"
-generation_date: "2026-01-10"
-source: "World Exams Original"
+  v1-v10: CC BY-NC-SA 4.0
+creador: AI-WorldExams
+generation_date: '2026-01-10'
+source: World Exams Original
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Sustainable Living (Grade 9)

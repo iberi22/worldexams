@@ -15,6 +15,8 @@ licenses:
 source: Currículo MEN Colombia - Estándares Básicos de Matemáticas
 source_url: 'https://www.mineducacion.gov.co'
 source_license: CC BY-SA 4.0
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: Tablas del 2 al 9

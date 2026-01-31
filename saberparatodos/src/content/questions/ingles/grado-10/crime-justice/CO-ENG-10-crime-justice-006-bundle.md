@@ -1,13 +1,15 @@
 ---
-id: "CO-ENG-10-crime-justice-006"
-country: "co"
+id: CO-ENG-10-crime-justice-006
+country: co
 grado: 10
-asignatura: "ingles"
-tema: "crime-justice"
-cefr_level: "B2"
-protocol_version: "3.0-COL"
+asignatura: ingles
+tema: crime-justice
+cefr_level: B2
+protocol_version: 3.0-COL
 total_questions: 10
-international_focus: "TOEFL Reading & Legal Studies"
+international_focus: TOEFL Reading & Legal Studies
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Crime & Justice (B2)

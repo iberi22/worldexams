@@ -1,18 +1,20 @@
 ---
-id: "UNI-ENG-04-healthy-eating-001"
-country: "global"
+id: UNI-ENG-04-healthy-eating-001
+country: global
 grado: 4
-asignatura: "ingles"
-tema: "healthy-eating"
-cefr_level: "A1"
-protocol_version: "3.1-GLOBAL"
+asignatura: ingles
+tema: healthy-eating
+cefr_level: A1
+protocol_version: 3.1-GLOBAL
 total_questions: 10
-international_focus: "Food / Health / Choices"
+international_focus: Food / Health / Choices
 licenses:
-  v1-v10: "CC BY-NC-SA 4.0"
-creador: "AI-WorldExams"
-generation_date: "2026-01-10"
-source: "World Exams Original"
+  v1-v10: CC BY-NC-SA 4.0
+creador: AI-WorldExams
+generation_date: '2026-01-10'
+source: World Exams Original
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Healthy Eating (Grade 4)

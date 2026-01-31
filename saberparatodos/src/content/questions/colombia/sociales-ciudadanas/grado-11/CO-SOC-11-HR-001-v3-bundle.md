@@ -16,6 +16,8 @@ source: Constitución Política de Colombia / Declaración Universal DDHH
 source_url: 'https://www.icfes.gov.co'
 source_license: Public Domain
 search_query: preguntas icfes sociales ciudadanas derechos humanos explicadas
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: Derechos Fundamentales y DIH

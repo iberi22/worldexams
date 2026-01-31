@@ -16,6 +16,8 @@ source: Banco de Preguntas Ecología Avanzada (Adaptación)
 source_url: 'https://www.khanacademy.org/science/biology/ecology'
 source_license: CC BY-SA 4.0
 search_query: preguntas ecologia grado 11
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: Dinámica de Poblaciones

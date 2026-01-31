@@ -1,13 +1,15 @@
 ---
-id: "CO-ENG-09-food-nutrition-007"
-country: "co"
+id: CO-ENG-09-food-nutrition-007
+country: co
 grado: 9
-asignatura: "ingles"
-tema: "food-nutrition"
-cefr_level: "B1+"
-protocol_version: "3.0-COL"
+asignatura: ingles
+tema: food-nutrition
+cefr_level: B1+
+protocol_version: 3.0-COL
 total_questions: 10
-international_focus: "Cambridge PET & Health Vocabulary"
+international_focus: Cambridge PET & Health Vocabulary
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Food & Nutrition (B1+)

@@ -17,6 +17,8 @@ source_url: >-
   https://www.icfes.gov.co/documents/39281/2569032/Cuadernillo+de+preguntas+Saber+11-+Ciencias+Naturales.pdf
 source_license: Educational Use
 search_query: preguntas icfes quimica estequiometria mol gramo
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: Reacciones Químicas y Cálculos

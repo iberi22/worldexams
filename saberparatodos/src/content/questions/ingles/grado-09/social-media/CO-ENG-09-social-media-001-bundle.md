@@ -1,13 +1,15 @@
 ---
-id: "CO-ENG-09-social-media-001"
-country: "co"
+id: CO-ENG-09-social-media-001
+country: co
 grado: 9
-asignatura: "ingles"
-tema: "social-media"
-cefr_level: "B1+"
-protocol_version: "3.0-COL"
+asignatura: ingles
+tema: social-media
+cefr_level: B1+
+protocol_version: 3.0-COL
 total_questions: 10
-international_focus: "Cambridge PET & Digital Literacy"
+international_focus: Cambridge PET & Digital Literacy
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Social Media & Digital Life (B1+)

@@ -1,26 +1,23 @@
 ---
-# === METADATA GLOBAL ===
-id: "CO-NAT-10-fisica-dinamica-001"
-country: "CO"
+id: CO-NAT-10-fisica-dinamica-001
+country: CO
 grado: 10
-asignatura: "ciencias-naturales"
-tema: "Física: Dinámica y Leyes de Newton"
-protocol_version: "3.0"
+asignatura: ciencias-naturales
+tema: 'Física: Dinámica y Leyes de Newton'
+protocol_version: '3.0'
 total_questions: 10
-estado: "draft"
-creador: "Antigravity-Agent"
-generation_date: "2025-12-30"
-
-# === LICENSING ===
+estado: draft
+creador: Antigravity-Agent
+generation_date: '2025-12-30'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v10: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
-source: "Banco de Preguntas Física Mecánica (Adaptación)"
-source_url: "https://www.khanacademy.org/science/physics/forces-newtons-laws"
-source_license: "CC BY-SA 4.0"
-search_query: "preguntas dinamica newton grado 10"
+  v1: CC BY-SA 4.0
+  v2-v10: CC BY-NC-SA 4.0
+source: Banco de Preguntas Física Mecánica (Adaptación)
+source_url: 'https://www.khanacademy.org/science/physics/forces-newtons-laws'
+source_license: CC BY-SA 4.0
+search_query: preguntas dinamica newton grado 10
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: ¿Por qué se mueven las cosas?

@@ -1,13 +1,15 @@
 ---
-id: "CO-ENG-05-days-months-103"
-country: "co"
+id: CO-ENG-05-days-months-103
+country: co
 grado: 5
-asignatura: "ingles"
-tema: "days-months"
-cefr_level: "A1+"
-protocol_version: "3.1-COL-Bilingual"
+asignatura: ingles
+tema: days-months
+cefr_level: A1+
+protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Days & Months (A1+)

@@ -1,18 +1,20 @@
 ---
-id: "UNI-ENG-10-remote-work-001"
-country: "global"
+id: UNI-ENG-10-remote-work-001
+country: global
 grado: 10
-asignatura: "ingles"
-tema: "remote-work"
-cefr_level: "B1+"
-protocol_version: "3.2-GLOBAL"
+asignatura: ingles
+tema: remote-work
+cefr_level: B1+
+protocol_version: 3.2-GLOBAL
 total_questions: 10
-international_focus: "Digital Nomads / Technology / Home Office"
+international_focus: Digital Nomads / Technology / Home Office
 licenses:
-  v1-v10: "CC BY-NC-SA 4.0"
-creador: "AI-WorldExams"
-generation_date: "2026-01-10"
-source: "World Exams Original"
+  v1-v10: CC BY-NC-SA 4.0
+creador: AI-WorldExams
+generation_date: '2026-01-10'
+source: World Exams Original
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Topic: Remote Work (Grade 10)

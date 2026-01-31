@@ -1,17 +1,19 @@
 ---
-id: "CL-LEC-10-narrativo-001"
-country: "CL"
+id: CL-LEC-10-narrativo-001
+country: CL
 grado: 10
-asignatura: "Competencia Lectora"
-tema: "Comprensión de Textos Narrativos"
-protocol_version: "3.0"
+asignatura: Competencia Lectora
+tema: Comprensión de Textos Narrativos
+protocol_version: '3.0'
 total_questions: 11
-estado: "draft"
-creador: "AI-WorldExams"
-generation_date: "2025-12-23"
-source: "DEMRE Temario Oficial Competencia Lectora 2025"
-source_license: "Público - Ministerio de Educación Chile"
-exam_board: "PAES"
+estado: draft
+creador: AI-WorldExams
+generation_date: '2025-12-23'
+source: DEMRE Temario Oficial Competencia Lectora 2025
+source_license: Público - Ministerio de Educación Chile
+exam_board: PAES
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: Comprensión Narrativa - Cuento Chileno

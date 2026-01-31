@@ -1,26 +1,23 @@
 ---
-# === METADATA GLOBAL ===
-id: "CO-SOC-10-diversidad-etnica-001"
-country: "CO"
+id: CO-SOC-10-diversidad-etnica-001
+country: CO
 grado: 10
-asignatura: "sociales-ciudadanas"
-tema: "Diversidad Étnica y Cultural"
-protocol_version: "3.0"
+asignatura: sociales-ciudadanas
+tema: Diversidad Étnica y Cultural
+protocol_version: '3.0'
 total_questions: 10
-estado: "draft"
-creador: "Antigravity-Agent"
-generation_date: "2025-12-30"
-
-# === LICENSING ===
+estado: draft
+creador: Antigravity-Agent
+generation_date: '2025-12-30'
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v10: "CC BY-NC-SA 4.0"
-
-# === SOURCE ATTRIBUTION ===
-source: "Banco de Preguntas Constitución y Diversidad (Adaptación)"
-source_url: "https://www.mininterior.gov.co/asuntos-etnicos"
-source_license: "CC BY-SA 4.0"
-search_query: "preguntas diversidad etnica colombia grado 10"
+  v1: CC BY-SA 4.0
+  v2-v10: CC BY-NC-SA 4.0
+source: Banco de Preguntas Constitución y Diversidad (Adaptación)
+source_url: 'https://www.mininterior.gov.co/asuntos-etnicos'
+source_license: CC BY-SA 4.0
+search_query: preguntas diversidad etnica colombia grado 10
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: Nación Pluriétnica

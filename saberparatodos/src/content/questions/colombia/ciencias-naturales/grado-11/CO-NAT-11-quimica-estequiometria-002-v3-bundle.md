@@ -17,6 +17,8 @@ source_url: >-
   https://www.khanacademy.org/science/chemistry/gases-and-kinetic-molecular-theory
 source_license: CC BY-SA 4.0
 search_query: preguntas gases ideales estequiometria grado 11
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: El Comportamiento de los Gases

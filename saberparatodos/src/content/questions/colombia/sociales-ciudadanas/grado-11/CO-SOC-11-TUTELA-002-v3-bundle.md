@@ -16,6 +16,8 @@ source: Constitución Política de Colombia 1991 / Corte Constitucional
 source_url: 'https://www.corteconstitucional.gov.co/inicio/Accion%20de%20tutela.php'
 source_license: Public Domain
 search_query: accion de tutela fundamentos constitucion 1991 icfes
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # Pregunta Base: La Acción de Tutela y la Protección de Derechos

@@ -1,30 +1,32 @@
 ---
-id: "CO-CIE-9-genetica-001"
-country: "co"
+id: CO-CIE-9-genetica-001
+country: co
 grado: 9
-asignatura: "ciencias-naturales"
-tema: "Biología (Genética y Herencia)"
-protocol_version: "3.0"
+asignatura: ciencias-naturales
+tema: Biología (Genética y Herencia)
+protocol_version: '3.0'
 total_questions: 11
-estado: "published"
-creador: "Jules"
-generation_date: "2023-11-20"
-source: "Pruebas Saber 9° Ciencias Naturales"
-source_url: "https://www.icfes.gov.co/"
-source_license: "CC BY-SA 4.0"
-search_query: "preguntas liberadas icfes ciencias naturales grado 9 genetica mendel"
+estado: published
+creador: Jules
+generation_date: '2023-11-20'
+source: Pruebas Saber 9° Ciencias Naturales
+source_url: 'https://www.icfes.gov.co/'
+source_license: CC BY-SA 4.0
+search_query: preguntas liberadas icfes ciencias naturales grado 9 genetica mendel
 licenses:
-  v1: "CC BY-SA 4.0"
-  v2: "CC BY-NC-SA 4.0"
-  v3: "CC BY-NC-SA 4.0"
-  v4: "CC BY-NC-SA 4.0"
-  v5: "CC BY-NC-SA 4.0"
-  v6: "CC BY-NC-SA 4.0"
-  v7: "CC BY-NC-SA 4.0"
-  v8: "CC BY-NC-SA 4.0"
-  v9: "CC BY-NC-SA 4.0"
-  v10: "CC BY-NC-SA 4.0"
-  v11: "CC BY-NC-SA 4.0"
+  v1: CC BY-SA 4.0
+  v2: CC BY-NC-SA 4.0
+  v3: CC BY-NC-SA 4.0
+  v4: CC BY-NC-SA 4.0
+  v5: CC BY-NC-SA 4.0
+  v6: CC BY-NC-SA 4.0
+  v7: CC BY-NC-SA 4.0
+  v8: CC BY-NC-SA 4.0
+  v9: CC BY-NC-SA 4.0
+  v10: CC BY-NC-SA 4.0
+  v11: CC BY-NC-SA 4.0
+dba_id: DBA-TODO
+creation_date: '2026-01-31'
 ---
 
 # === METADATA GLOBAL ===
