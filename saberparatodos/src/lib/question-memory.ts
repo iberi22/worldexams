@@ -22,8 +22,37 @@ export interface QuestionStats {
   bySubject: Record<string, { answered: number; correct: number }>;
   byGrade: Record<number, { answered: number; correct: number }>;
   byDifficulty: Record<number, { answered: number; correct: number }>;
+  byPeriod: Record<number, { answered: number; correct: number }>; // 🆕 Period Stats
   streakHistory: number[];
   lastSessionDate: string;
+}
+
+/**
+ * Load stats from localStorage
+ */
+export function getStats(): QuestionStats {
+  if (typeof localStorage === 'undefined') return {
+    totalAnswered: 0,
+    correctCount: 0,
+    bySubject: {},
+    byGrade: {},
+    byDifficulty: {},
+    byPeriod: {}, // 🆕
+    streakHistory: [],
+    lastSessionDate: new Date().toISOString()
+  };
+
+  const stored = localStorage.getItem(STATS_KEY);
+  return stored ? JSON.parse(stored) : {
+    totalAnswered: 0,
+    correctCount: 0,
+    bySubject: {},
+    byGrade: {},
+    byDifficulty: {},
+    byPeriod: {}, // 🆕
+    streakHistory: [],
+    lastSessionDate: new Date().toISOString()
+  };
 }
 
 /**
@@ -162,20 +191,19 @@ export async function markQuestionAnswered(
  */
 export function markQuestionsAnswered(
   questions: Array<{ id: string; isCorrect: boolean; subject?: string; grade?: number; difficulty?: number }>,
-  totalAvailable: number
+  totalAvailable: number,
+  period?: number // 🆕 Accept period
 ): { cacheCleared: boolean; percentAnswered: number } {
   const answered = loadAnsweredQuestions();
 
+  // Update stats in batch
+  updateStats(questions, period);
+
   for (const q of questions) {
     answered.add(q.id);
-    updateStats(q.id, q.isCorrect, {
-      subject: q.subject,
-      grade: q.grade,
-      difficulty: q.difficulty
-    });
   }
 
-  const percentAnswered = answered.size / totalAvailable;
+  const percentAnswered = totalAvailable > 0 ? answered.size / totalAvailable : 0;
 
   if (percentAnswered > CLEAR_THRESHOLD) {
     clearQuestionMemory();
@@ -360,51 +388,49 @@ export function getSubjectMemoryStats(questions: any[], subject?: string): {
 /**
  * Update question stats
  */
-function updateStats(
-  _questionId: string,
-  isCorrect: boolean,
-  metadata?: { subject?: string; grade?: number; difficulty?: number }
-): void {
-  try {
-    const stats = loadStats();
+function updateStats(questions: any[], period?: number) {
+  const stats = loadStats(); // Assuming loadStats is equivalent to getStats
+  const today = new Date().toISOString().split('T')[0];
 
+  // Reset streak if missed a day (simplified)
+  if (stats.lastSessionDate.split('T')[0] !== today) {
+    // Logic for streak reset could go here
+  }
+
+  questions.forEach(q => {
     stats.totalAnswered++;
-    if (isCorrect) stats.correctCount++;
+    if (q.isCorrect) stats.correctCount++;
 
-    // Update by subject
-    if (metadata?.subject) {
-      if (!stats.bySubject[metadata.subject]) {
-        stats.bySubject[metadata.subject] = { answered: 0, correct: 0 };
-      }
-      stats.bySubject[metadata.subject].answered++;
-      if (isCorrect) stats.bySubject[metadata.subject].correct++;
+    // Subject Stats
+    const subject = (q.subject || q.category?.split(' :: ')[0] || 'GENERAL').toUpperCase(); // Use q.subject if available, fallback to category
+    if (!stats.bySubject[subject]) stats.bySubject[subject] = { answered: 0, correct: 0 };
+    stats.bySubject[subject].answered++;
+    if (q.isCorrect) stats.bySubject[subject].correct++;
+
+    // Grade Stats
+    const grade = q.grade || 0;
+    if (!stats.byGrade[grade]) stats.byGrade[grade] = { answered: 0, correct: 0 };
+    stats.byGrade[grade].answered++;
+    if (q.isCorrect) stats.byGrade[grade].correct++;
+
+    // Difficulty Stats
+    const diff = q.difficulty || 3;
+    if (!stats.byDifficulty[diff]) stats.byDifficulty[diff] = { answered: 0, correct: 0 };
+    stats.byDifficulty[diff].answered++;
+    if (q.isCorrect) stats.byDifficulty[diff].correct++;
+
+    // 🆕 Period Stats
+    if (period) {
+        if (!stats.byPeriod) stats.byPeriod = {}; // Init if missing
+        if (!stats.byPeriod[period]) stats.byPeriod[period] = { answered: 0, correct: 0 };
+        stats.byPeriod[period].answered++;
+        if (q.isCorrect) stats.byPeriod[period].correct++;
     }
+  });
 
-    // Update by grade
-    if (metadata?.grade) {
-      if (!stats.byGrade[metadata.grade]) {
-        stats.byGrade[metadata.grade] = { answered: 0, correct: 0 };
-      }
-      stats.byGrade[metadata.grade].answered++;
-      if (isCorrect) stats.byGrade[metadata.grade].correct++;
-    }
-
-    // Update by difficulty
-    if (metadata?.difficulty) {
-      if (!stats.byDifficulty[metadata.difficulty]) {
-        stats.byDifficulty[metadata.difficulty] = { answered: 0, correct: 0 };
-      }
-      stats.byDifficulty[metadata.difficulty].answered++;
-      if (isCorrect) stats.byDifficulty[metadata.difficulty].correct++;
-    }
-
-    stats.lastSessionDate = new Date().toISOString().split('T')[0];
-
-    if (typeof window !== 'undefined' && typeof localStorage !== 'undefined') {
-      localStorage.setItem(STATS_KEY, JSON.stringify(stats));
-    }
-  } catch (e) {
-    console.error('Error updating stats:', e);
+  stats.lastSessionDate = new Date().toISOString(); // Changed from split('T')[0] to full ISO string
+  if (typeof window !== 'undefined' && typeof localStorage !== 'undefined') {
+    localStorage.setItem(STATS_KEY, JSON.stringify(stats)); // Assuming saveStats is equivalent to this
   }
 }
 

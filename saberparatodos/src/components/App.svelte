@@ -39,9 +39,10 @@
   import OfflineProfile from './OfflineProfile.svelte';
 
   import ExamRoomLobby from './ExamRoomLobby.svelte'; // 🆕 Renamed Import
-  import StopModeSetup from '../modules/exam-room/components/StopModeSetup.svelte';
+  import SpeedChallengeSetup from '../modules/exam-room/components/SpeedChallengeSetup.svelte';
   import LobbyBrowser from '../modules/exam-room/components/LobbyBrowser.svelte';
-  import PeriodTracker from './PeriodTracker.svelte'; // 🆕 Period Tracker
+  import PeriodTracker from './PeriodTracker.svelte';
+  import PeriodTrackerModal from './PeriodTrackerModal.svelte';
   import { roomState } from '../modules/exam-room/stores/roomState.svelte.ts';
 
   // Normalize subject name for comparison (removes accents, replaces separators)
@@ -85,7 +86,9 @@
   let buildInfo = $state(null); // Dynamic build info
     let showUpdateModal = $state(false); // 🆕 New version available modal
   let showLobbyBrowser = $state(false); // Controls Lobby Browser visibility
-  let showStopSetup = $state(false); // Controls Stop Mode Setup visibility
+  let showSpeedChallengeSetup = $state(false); // Controls Speed Challenge Setup visibility
+  let showPeriodTrackerModal = $state(false); // 🆕 Controls Period Tracker Modal visibility
+  let periodTrackerData = $state(null); // 🆕 Data passed to the modal
 
   // Exam Room Mode State
   let roomCode = $state('');
@@ -228,7 +231,8 @@
       subject: config.subject,
       grade: config.grade,
       mode: config.mode,
-      count: config.count
+      count: config.count,
+      period: config.period // 🆕 Log period
     });
 
     // Room Mode - roomCode is already created by modal
@@ -693,7 +697,20 @@
 
     // Mark questions as answered in memory
     if (examData?.questions) {
-      markQuestionsAnswered(examData.questions);
+      // 🆕 Calculate total available for this context to prevent premature clearing
+      let totalAvailable = loadedQuestions.length;
+
+      if (selectedGrade) {
+          totalAvailable = loadedQuestions.filter(q => {
+             if (q.grade !== selectedGrade) return false;
+             if (selectedSubject && selectedSubject !== 'Simulacro Completo') {
+                 return subjectsMatch(q.subject || q.category || '', selectedSubject);
+             }
+             return true;
+          }).length;
+      }
+
+      markQuestionsAnswered(examData.questions, totalAvailable || 100, examConfig.period);
     }
 
     // Save to local storage
@@ -702,7 +719,8 @@
         ...examData,
         completedAt: new Date().toISOString(),
         grade: selectedGrade,
-        subject: selectedSubject
+        subject: selectedSubject,
+        period: examConfig.period // 🆕 Pass Period
       }, answers); // ⚡ FIXED: Pass answers as second argument
     } catch (err) {
       console.warn('Error saving local exam result:', err);
@@ -785,16 +803,16 @@
     });
   });
 
-  async function handleCreateStopRoom(config) {
+  async function handleCreateSpeedRoom(config) {
     try {
-      showStopSetup = false;
+      showSpeedChallengeSetup = false;
       isLoadingQuestions = true;
 
       const newRoomId = await roomState.createRoom(
         config.hostName,
         config.partyName,
-        11, // Default grade for Stop Mode
-        'Stop Mode',
+        11, // Default grade for Speed Mode
+        'Speed Challenge',
         {
           connectionMode: 'supabase',
           maxPlayers: 100,
@@ -826,7 +844,7 @@
       setView(AppView.ROOM_LOBBY);
 
     } catch (error) {
-      console.error('Error creating stop room:', error);
+      console.error('Error creating speed room:', error);
       alert('Error al crear la sala Speed.');
     } finally {
       isLoadingQuestions = false;
@@ -1095,7 +1113,10 @@
         <!-- Grade Selection Cards -->
         <div class="w-full max-w-4xl relative z-10 mt-12">
           <!-- 🆕 Period Tracker -->
-          <PeriodTracker />
+          <PeriodTracker onOpenModal={(data) => {
+            periodTrackerData = data;
+            showPeriodTrackerModal = true;
+          }} />
 
           <h3 class="text-center text-xs font-bold uppercase tracking-widest text-white/40 mb-6">
             Selecciona tu grado para iniciar
@@ -1205,7 +1226,7 @@
             <p class="text-xs opacity-40">Ver rendimiento local</p>
           </FlashlightCard>
 
-          <!-- Stop Mode Section -->
+          <!-- Stop Mode Section (Comentado por ahora)
           <div class="w-full flex flex-col sm:flex-row gap-6">
               <FlashlightCard
                 onClick={() => showStopSetup = true}
@@ -1239,6 +1260,7 @@
                 <p class="text-xs opacity-40">Busca salas creadas por otros</p>
               </FlashlightCard>
           </div>
+          -->
 
           <!-- <FlashlightCard
             onClick={async () => {
@@ -1494,6 +1516,14 @@
     />
   {/if}
 
+  <!-- Period Tracker Modal -->
+  {#if showPeriodTrackerModal && periodTrackerData}
+    <PeriodTrackerModal
+      {...periodTrackerData}
+      onClose={() => showPeriodTrackerModal = false}
+    />
+  {/if}
+
   <!-- 🆕 Nickname Modal (Room Mode) -->
   {#if showNicknameModal}
     <div
@@ -1581,13 +1611,13 @@
     </div>
   {/if}
 
-  <!-- Stop Mode Setup Modal -->
-  {#if showStopSetup}
+  <!-- Speed Challenge Setup Modal -->
+  {#if showSpeedChallengeSetup}
     <div class="fixed inset-0 z-[150] bg-black/90 backdrop-blur-sm flex items-center justify-center p-4">
       <div class="w-full max-w-2xl bg-[#0a0a0a] rounded-xl border border-white/10 overflow-hidden relative">
-        <StopModeSetup
-          onBack={() => showStopSetup = false}
-          onCreate={handleCreateStopRoom}
+        <SpeedChallengeSetup
+          onBack={() => showSpeedChallengeSetup = false}
+          onCreate={handleCreateSpeedRoom}
         />
       </div>
     </div>
@@ -1633,4 +1663,3 @@
     </div>
   {/if}
 </div>
-

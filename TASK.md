@@ -33,10 +33,88 @@
 - [ ] **CORS Policy:** Restringir acceso browser-side para keys Pro.
 
 ### 🐛 Bugs & Deuda Técnica
-- [ ] **Missing Reference Text:** La pregunta `CO-LEC-05-COMPRENSION-001` no muestra el texto de lectura en la UI. Investigar si es falta de contenido o error de renderizado.
+- [x] **Limpieza de errores de Tipado y Linting:** Revisar y corregir errores/warnings reportados por `npm run lint`. (2026-02-04)
+- [x] Fix Missing Reference Text (`CO-LEC-05-COMPRENSION-001`) <!-- id: 2 -->
+- [x] Enhance Logging for Period Exams <!-- id: 3 -->
+- [x] Analyze Period Metrics & Exams <!-- id: 4 -->
+    - [x] Verify `QuestionStats` structure for period data (Implemented)
+    - [x] Check `LocalReportsView` for period analysis (Implemented)
+    - [x] Check if pre-defined period exams exist (Confirmed: Dynamic only)
 - [x] **Remove Auto-generated Ads:** Eliminar texto "PUBLICIDAD GENERADA AUTOMÁTICAMENTE" de las tarjetas (Feedback usuario).
+- [x] **Fix Period Exam Logic:** Relax topic filtering and fix subject fallback to prevent cross-subject contamination. (2026-02-07)
+- [x] **Fix TypeError in question-memory.ts & App.svelte Memory Logic:** Corrected `updateStats` call signature and fixed aggressive memory clearing. Verified with E2E test. (2026-02-08)
 
-#### 4.3 Developer Portal (Frontend)
+### 📦 Fase: Recatalogación de Contenido (Period Metadata)
+
+> **Audit Date:** 2026-02-08 | **Script:** `scripts/audit_periods.js`
+> **Reports:** `period_audit_report.csv`, `period_audit_report.json`
+
+#### Resumen del Audit
+| Métrica               | Valor        |
+|-----------------------|--------------|
+| Total Bundles         | 1,222        |
+| Total Preguntas       | 10,988       |
+| Con `periodo`         | 511 (41.8%)  |
+| Sin `periodo`         | **711** (58.2%) |
+
+#### Brechas Críticas por Grado
+| Grado | Bundles | Con Periodo | Sin Periodo | Cobertura |
+|-------|---------|-------------|-------------|-----------|
+| 3     | 211     | 150         | 61          | 71%       |
+| 4     | 55      | 40          | 15          | 73%       |
+| 5     | 50      | 0           | **50**      | 0% ⚠️     |
+| 6     | 62      | 0           | **62**      | 0% ⚠️     |
+| 7     | 50      | 0           | **50**      | 0% ⚠️     |
+| 8     | 57      | 0           | **57**      | 0% ⚠️     |
+| 9     | 80      | 0           | **80**      | 0% ⚠️     |
+| 10    | 200     | 120         | 80          | 60%       |
+| 11    | 442     | 201         | 241         | 45%       |
+
+#### Tareas de Recatalogación
+
+- [x] **5.1 Normalizar Asignaturas** (Alta Prioridad)
+    - [x] Unificar `matemáticas` → `matematicas` (126 bundles)
+    - [x] Unificar `ciencias naturales` → `ciencias-naturales`
+    - [x] Unificar `sociales y ciudadanas` → `sociales-ciudadanas`
+    - [x] Unificar `inglés` → `ingles`
+    - [x] Unificar `lectura crítica` → `lectura-critica`
+    - [x] Crear script `scripts/normalize_subjects.js`
+
+- [x] **5.2 Agregar Metadato `periodo` a Bundles Faltantes**
+    - [x] **Wave 1: Grado 11** (241 bundles) - Prioridad Saber 11
+        - [x] Matemáticas 11
+        - [x] Lectura Crítica 11
+        - [x] Ciencias Naturales 11 (Física/Química/Biología)
+        - [x] Sociales y Ciudadanas 11
+        - [x] Inglés 11
+    - [x] **Wave 2: Grados 5-9** (299 bundles) - Cobertura 0%
+        - [x] Grado 9 (80 bundles)
+        - [x] Grado 8 (57 bundles)
+        - [x] Grado 7 (50 bundles)
+        - [x] Grado 6 (62 bundles)
+        - [x] Grado 5 (50 bundles)
+    - [ ] **Wave 3: Grados 3-4 y 10** (156 bundles restantes)
+
+- [x] **5.3 Validar Curriculum Mapping**
+    - [x] Verificar que los `tema` de cada bundle coincidan con `curriculum.ts`
+    - [x] Actualizar `curriculum.ts` si faltan temas
+
+- [x] **5.4 Automatización**
+    - [x] Crear script `scripts/add_period_metadata.js` para inferir periodo desde `tema` usando `curriculum.ts`
+    - [x] Ejecutar script en modo dry-run primero
+    - [x] Commit por waves
+
+- [ ] **5.5 Delegación a Jules: Recatalogación Manual de Gaps**
+    - [ ] Asignar Packet #1: Grade 11 (159 bundles) <!-- tag: jules -->
+    - [ ] Asignar Packet #2: Grade 10 (80 bundles) <!-- tag: jules -->
+    - [ ] Asignar Packet #3: Grades 8-9 (105 bundles) <!-- tag: jules -->
+    - [ ] Asignar Packet #4: Grades 3-5 (107 bundles) <!-- tag: jules -->
+    - [ ] Asignar Packet #5: Grades 6-7 (92 bundles) <!-- tag: jules -->
+    - [ ] Ver detalle en [jules_packets.md](file:///C:/Users/belal/.gemini/antigravity/brain/f5f0f6bc-2c1d-4d13-a331-05d829249183/jules_packets.md)
+
+---
+
+
 - [ ] **Pagina `/developers`:** Landing page con documentación y precios.
 - [ ] **Dashboard Dev:**
     - [ ] Vista de mis API Keys.
