@@ -43,6 +43,7 @@
 - [x] **Remove Auto-generated Ads:** Eliminar texto "PUBLICIDAD GENERADA AUTOMÁTICAMENTE" de las tarjetas (Feedback usuario).
 - [x] **Fix Period Exam Logic:** Relax topic filtering and fix subject fallback to prevent cross-subject contamination. (2026-02-07)
 - [x] **Fix TypeError in question-memory.ts & App.svelte Memory Logic:** Corrected `updateStats` call signature and fixed aggressive memory clearing. Verified with E2E test. (2026-02-08)
+- [x] **Fix Report Question Selector:** Fix invisible text in "Reportar Pregunta" dropdown due to white-on-white styling in `ExamView.svelte`. (2026-02-08) <!-- id: 5 -->
 
 ### 📦 Fase: Recatalogación de Contenido (Period Metadata)
 

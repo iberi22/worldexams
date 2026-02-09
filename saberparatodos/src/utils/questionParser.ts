@@ -202,6 +202,10 @@ export function parseBundleQuestions(entry: QuestionEntry): ParsedBundleQuestion
     context = context.replace(/^>\s*\*\*Componente:\*\*.*$/gm, '');
     // Remove > **Competencias:** lines
     context = context.replace(/^>\s*\*\*Competencias:\*\*.*$/gm, '');
+    // Remove # Topic: lines (e.g., "# Topic: Social Media Awareness (Grade 8)")
+    context = context.replace(/^#\s*Topic:.*$/gm, '');
+    // Remove standalone (Grade N) patterns from remaining text
+    context = context.replace(/\s*\(Grade\s*\d+\)/gi, '');
     // Clean excessive whitespace
     context = context.replace(/\n{3,}/g, '\n\n').trim();
   }

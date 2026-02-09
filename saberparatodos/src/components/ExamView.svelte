@@ -694,11 +694,11 @@
                 class="w-full bg-white/5 border border-white/10 rounded-lg px-4 py-3 text-sm text-white focus:border-yellow-500 focus:outline-none transition-colors"
                 onchange={(e) => reportType = e.currentTarget.value}
             >
-                <option value="" disabled selected>Selecciona una opción</option>
-                <option value="typo">Error Ortográfico / Redacción</option>
-                <option value="wrong_answer">Respuesta Incorrecta</option>
-                <option value="display">Problema de Visualización</option>
-                <option value="other">Otro</option>
+                <option value="" disabled selected class="bg-[#121212]">Selecciona una opción</option>
+                <option value="typo" class="bg-[#121212]">Error Ortográfico / Redacción</option>
+                <option value="wrong_answer" class="bg-[#121212]">Respuesta Incorrecta</option>
+                <option value="display" class="bg-[#121212]">Problema de Visualización</option>
+                <option value="other" class="bg-[#121212]">Otro</option>
             </select>
           </div>
 

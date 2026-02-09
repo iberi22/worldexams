@@ -21,6 +21,7 @@ export function normalizeTopic(topic: string): string {
 }
 
 // --- GRADE 3 ---
+// --- GRADE 3 ---
 const G3_MATH = [
     { id: 1, name: "Periodo 1: Números y Operaciones", topics: ["sumas", "restas", "numeros hasta 1000", "dinero", "conteo"] },
     { id: 2, name: "Periodo 2: Patrones y Multiplicación", topics: ["tablas de multiplicar", "patrones", "secuencias", "doble", "triple"] },
@@ -38,6 +39,12 @@ const G3_SOC = [
     { id: 2, name: "Periodo 2: Mi Comunidad", topics: ["el barrio", "la comunidad", "oficios y profesiones", "servicios publicos"] },
     { id: 3, name: "Periodo 3: Paisaje y Geografía", topics: ["mapas", "orientacion", "paisaje", "relieve", "clima"] },
     { id: 4, name: "Periodo 4: Historia y Cultura", topics: ["tradiciones", "cultura", "fiestas", "historia", "simbolos"] }
+];
+const G3_ENG = [
+    { id: 1, name: "Periodo 1: Saludos y Comandos", topics: ["saludos", "comandos", "presentacion", "verbo to be", "greetings", "commands"] },
+    { id: 2, name: "Periodo 2: Familia y Escuela", topics: ["familia", "escuela", "numeros", "colores", "family", "school", "numbers", "colors"] },
+    { id: 3, name: "Periodo 3: Animales y Cuerpo", topics: ["animales", "cuerpo", "ropa", "comida", "animals", "body", "clothes", "food"] },
+    { id: 4, name: "Periodo 4: Tiempo y Clima", topics: ["dias", "meses", "clima", "hora", "days", "months", "weather", "time"] }
 ];
 
 // --- GRADE 5 ---
@@ -116,7 +123,7 @@ const G11_SOC = [
 
 // --- MAPPING ---
 // Map similar subjects using same arrays
-function makeMap(math, sci, soc, lang, tech) {
+function makeMap(math, sci, soc, lang, eng, tech) {
     const map: any = {};
     if (math) map.matematicas = { periods: math };
     if (sci) {
@@ -141,23 +148,28 @@ function makeMap(math, sci, soc, lang, tech) {
         map.lenguaje = { periods: lang };
         map.lenguacastellana = { periods: lang };
     }
+    if (eng) {
+        map.ingles = { periods: eng };
+        map.english = { periods: eng };
+    }
     if (tech) {
          // Generic Tech if needed
+         map.tecnologia = { periods: tech };
     }
     return map;
 }
 
 export const CURRICULUM_CO: CountryCurriculum = {
-    3: makeMap(G3_MATH, G3_SCI, G3_SOC, [{id:1,name:"P1",topics:["comprension"]},{id:2,name:"P2",topics:["gramatica"]},{id:3,name:"P3",topics:["cuento"]},{id:4,name:"P4",topics:["vocabulario"]}], null),
-    5: makeMap(G5_MATH, G5_SCI, [{id:1,name:"P1",topics:["estado"]},{id:2,name:"P2",topics:["democracia"]},{id:3,name:"P3",topics:["colombia"]},{id:4,name:"P4",topics:["ciudadania"]}], [{id:1,name:"P1",topics:["narrativo"]},{id:2,name:"P2",topics:["gramatica"]},{id:3,name:"P3",topics:["ortografia"]},{id:4,name:"P4",topics:["comprension"]}], null),
-    7: makeMap(G7_MATH, G7_SCI, null, [{id:1,name:"P1",topics:["narrativo"]},{id:2,name:"P2",topics:["argumentativo"]},{id:3,name:"P3",topics:["ortografia"]},{id:4,name:"P4",topics:["comprension"]}], null),
-    9: makeMap(G9_MATH, G9_SCI, G9_SOC, [{id:1,name:"P1",topics:["argumentacion"]},{id:2,name:"P2",topics:["opinion"]},{id:3,name:"P3",topics:["literatura"]},{id:4,name:"P4",topics:["critica"]}], null),
+    3: makeMap(G3_MATH, G3_SCI, G3_SOC, [{id:1,name:"P1",topics:["comprension"]},{id:2,name:"P2",topics:["gramatica"]},{id:3,name:"P3",topics:["cuento"]},{id:4,name:"P4",topics:["vocabulario"]}], G3_ENG, null),
+    5: makeMap(G5_MATH, G5_SCI, [{id:1,name:"P1",topics:["estado"]},{id:2,name:"P2",topics:["democracia"]},{id:3,name:"P3",topics:["colombia"]},{id:4,name:"P4",topics:["ciudadania"]}], [{id:1,name:"P1",topics:["narrativo"]},{id:2,name:"P2",topics:["gramatica"]},{id:3,name:"P3",topics:["ortografia"]},{id:4,name:"P4",topics:["comprension"]}], null, null),
+    7: makeMap(G7_MATH, G7_SCI, null, [{id:1,name:"P1",topics:["narrativo"]},{id:2,name:"P2",topics:["argumentativo"]},{id:3,name:"P3",topics:["ortografia"]},{id:4,name:"P4",topics:["comprension"]}], null, null),
+    9: makeMap(G9_MATH, G9_SCI, G9_SOC, [{id:1,name:"P1",topics:["argumentacion"]},{id:2,name:"P2",topics:["opinion"]},{id:3,name:"P3",topics:["literatura"]},{id:4,name:"P4",topics:["critica"]}], null, null),
     10: makeMap(
         [{id:1,name:"P1: Trigonometría",topics:["trigonometria","seno","coseno"]},{id:2,name:"P2: Funciones",topics:["funciones","conicas"]},{id:3,name:"P3: Introducción Cálculo",topics:["limites"]},{id:4,name:"P4: Estadística",topics:["estadistica"]}],
         [{id:1,name:"P1: Física Mécánica",topics:["fisica","cinematica","dinamica","newton"]},{id:2,name:"P2: Química Inorgánica",topics:["quimica","reacciones","balanceo","nomenclatura"]},{id:3,name:"P3: Biología/Ecología",topics:["ecosistemas","metabolismo"]},{id:4,name:"P4: Investigación",topics:["proyecto"]}],
         [{id:1,name:"P1: Política",topics:["poder","gobierno"]},{id:2,name:"P2: Economía",topics:["economia","desarrollo"]},{id:3,name:"P3: Conflicto",topics:["conflicto armado","ddhh"]},{id:4,name:"P4: Globalización",topics:["internacional","geopolitica"]}],
         G11_HUM, // Reuse grade 11 Reading for 10
-        null
+        null, null
     ),
-    11: makeMap(G11_MATH, G11_SCI, G11_SOC, G11_HUM, null)
+    11: makeMap(G11_MATH, G11_SCI, G11_SOC, G11_HUM, null, null)
 };
