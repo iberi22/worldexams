@@ -1199,18 +1199,25 @@
                       console.error('Deep search error:', e);
                   }
 
-                  // 🚨 FALLBACK: If still insufficient, fill with generic questions for this grade
+                  // 🚨 FALLBACK: If still insufficient, fill with questions from the SAME subject
                   if (filtered.length < questionCount) {
                       const needed = questionCount - filtered.length;
                       console.warn(`⚠️ Still have only ${filtered.length}/${questionCount} questions after Deep Search. Filling with random questions.`);
 
                       const currentIds = new Set(filtered.map(q => q.id));
-                      const leftovers = allQ.filter(q => !currentIds.has(q.id));
+                      // 🔧 FIX: Filter leftovers by subject to avoid mixing subjects
+                      let leftovers = allQ.filter(q => !currentIds.has(q.id));
+                      if (selectedSubject !== 'Simulacro Completo') {
+                          leftovers = leftovers.filter(q => {
+                              const qSubject = normalizeSubject(q.category?.split(' :: ')[0] || '');
+                              return qSubject === targetSubject;
+                          });
+                      }
                       const fillers = leftovers.sort(() => 0.5 - Math.random()).slice(0, needed);
 
                       if (fillers.length > 0) {
                           filtered = [...filtered, ...fillers];
-                          console.log(`✅ Added ${fillers.length} filler questions from general pool.`);
+                          console.log(`✅ Added ${fillers.length} filler questions from ${selectedSubject} pool.`);
                       }
                   }
              }
