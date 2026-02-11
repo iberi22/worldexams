@@ -87,6 +87,8 @@ export interface APIQuestion {
   difficulty: string;
   bundle_id: string;
   source_url: string;
+  tema?: string;      // 🆕 Topic from bundle frontmatter
+  periodo?: number;   // 🆕 Period (1-4) from bundle frontmatter
   tags: string[];
   images: string[];
   context?: string; // Shared context (reading passage)
@@ -117,6 +119,8 @@ export interface AppQuestion {
   difficulty: number;
   bundleId?: string; // Bundle ID for question versioning
   context?: string; // Shared context
+  topics?: string[];  // 🆕 Topic tags for period-based filtering
+  periodo?: number;   // 🆕 Period (1-4) for period-based exam selection
   // Modern questions metadata
   modernContext?: boolean;
   contextType?: string;
@@ -266,7 +270,9 @@ function transformQuestion(apiQuestion: APIQuestion | any, grade: number, subjec
     // 🆕 Content filtering - prioritize tema field (actual topic names) over tags (may include bundle_id)
     topics: (apiQuestion.tema ? [apiQuestion.tema] : []).concat(
       apiQuestion.topics || apiQuestion.tags || []
-    ).filter(Boolean)
+    ).filter(Boolean),
+    // 🆕 Period from bundle frontmatter (1-4)
+    periodo: apiQuestion.periodo || undefined
   };
 }
 

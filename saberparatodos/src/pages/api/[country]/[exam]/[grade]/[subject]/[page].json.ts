@@ -137,7 +137,7 @@ export const GET: APIRoute = async ({ params }) => {
 
       if (isQuickBundle) {
         // Parse QuickBundle format: ## Q1 - Category, **Statement**, - [x] Correct, - [ ] Wrong
-        return parseQuickBundle(body, entry.data.id, startIndex + entryIndex);
+        return parseQuickBundle(body, entry.data.id, startIndex + entryIndex, entry.data);
       }
 
       // 🆕 Check for STANDARD BUNDLE format (## Pregunta 1, ## Pregunta 2)
@@ -174,6 +174,7 @@ export const GET: APIRoute = async ({ params }) => {
         bundle_id: entry.data.id,
         source_url: entry.data.source_url || '',
         tema: entry.data.tema || '', // 🆕 Explicit tema for topic filtering
+        periodo: (entry.data as any).periodo || null, // 🆕 Period for period-based exam filtering
         tags: [entry.data.tema, entry.data.asignatura].filter(Boolean),
         images: [],
         // Modern questions metadata
@@ -297,7 +298,8 @@ function mapDifficulty(level?: number): string {
 function parseQuickBundle(
   body: string,
   bundleId: string,
-  startNumber: number
+  startNumber: number,
+  bundleData?: any
 ): Array<{
   id: string;
   number: number;
@@ -308,6 +310,8 @@ function parseQuickBundle(
   difficulty: string;
   bundle_id: string;
   source_url: string;
+  tema: string;
+  periodo: number | null;
   tags: string[];
   images: string[];
   modern_context: boolean;
@@ -362,7 +366,9 @@ function parseQuickBundle(
         difficulty: 'Low',
         bundle_id: bundleId,
         source_url: '',
-        tags: [],
+        tema: bundleData?.tema || '',
+        periodo: bundleData?.periodo || null,
+        tags: [bundleData?.tema, bundleData?.asignatura].filter(Boolean),
         images: [],
         modern_context: false,
         context_type: null,
@@ -442,6 +448,7 @@ function parseStandardBundle(
       bundle_id: data.id,
       source_url: data.source_url || '',
       tema: data.tema || '',
+      periodo: data.periodo || null, // 🆕 Period for period-based exam filtering
       tags: [data.tema, data.asignatura].filter(Boolean),
       images: [],
       // Attach extracted context

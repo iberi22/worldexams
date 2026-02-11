@@ -13,6 +13,7 @@ export type QuestionEntry = {
     grado: number;
     asignatura: string;
     tema: string;
+    periodo?: number;    // 🆕 Period (1-4) from bundle frontmatter
     source_url?: string;
     universal_question?: boolean;
     applicable_exams?: string[];

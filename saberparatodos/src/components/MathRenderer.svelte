@@ -11,7 +11,7 @@
 
   // Regex patterns for LaTeX
   const BLOCK_MATH_REGEX = /\$\$([\s\S]*?)\$\$/g;
-  const INLINE_MATH_REGEX = /\$([^\$\n]+?)\$/g;
+  const INLINE_MATH_REGEX = /\$([^\s\$\n](?:[^\$\n]*?[^\s\$\n])?)\$/g;
 
   /**
    * Render LaTeX math expressions within the content
