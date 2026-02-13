@@ -266,3 +266,29 @@ Se ha completado la generación masiva de contenido base (Protocol v3.0) para fo
     *   ✅ Matemáticas (400 preguntas)
     *   ✅ Naturales (400 preguntas: Química/Física)
     *   ✅ Sociales (400 preguntas: Historia/Política)
+
+### Producción de Contenido: Grados 3°-5° (Febrero 2026)
+*   **Grado 3:** ✅ 100% Cobertura (Matemáticas, Ciencias, Sociales — Protocol v3.0)
+*   **Grado 4:** ✅ 100% Cobertura (Matemáticas, Ciencias, Sociales — Protocol v3.0)
+*   **Grado 5:** ✅ 100% Cobertura (Matemáticas, Ciencias, Sociales — Protocol v3.0)
+
+### Producción de Contenido: Grados 6°-8° (En Progreso — Asignado a Jules)
+
+> **Agente:** Jules (AI Coding Agent)
+> **Protocolo:** v3.0 (10 preguntas/bundle, dificultad 1-5)
+> **Meta:** 144 bundles = 1,440 preguntas nuevas
+
+| Grado | Mate | CN | Soc | Total | Estado |
+|:-----:|:----:|:--:|:---:|:-----:|:------:|
+| **6°** | 16 | 16 | 16 | 48 | ⬜ Pendiente |
+| **7°** | 16 | 16 | 16 | 48 | ⬜ Pendiente |
+| **8°** | 16 | 16 | 16 | 48 | ⬜ Pendiente |
+
+**Estructura de archivos:**
+```
+src/content/questions/colombia/[asignatura]/grado-[N]/[tema]/
+  CO-[SUBJ]-[N]-[tema]-001-v3-bundle.md
+```
+
+**Referencia:** `skills/create_bundles_manually/SKILL.md`, `TASK.md` (sección "Fase: Generación de Contenido Grados 6°, 7° y 8°")
+

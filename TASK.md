@@ -115,6 +115,218 @@
 
 ---
 
+### 📚 Fase: Generación de Contenido Grados 6°, 7° y 8° (Protocol v3.0)
+
+> **Assignee:** Jules (AI Agent) | **Label:** `jules`
+> **Formato:** Protocol v3.0 (10 preguntas/bundle, dificultad 1-5)
+> **Referencia:** `skills/create_bundles_manually/SKILL.md`
+> **Estructura:** `src/content/questions/colombia/[asignatura]/grado-[N]/[tema]/CO-[SUBJ]-[N]-[tema]-001-v3-bundle.md`
+
+#### 📐 Grado 6 — Matemáticas (16 bundles)
+
+| Periodo | Tema (Topic Folder) | Bundle ID Prefix | Estado |
+|---------|---------------------|------------------|--------|
+| 1 | `numeros-naturales-potencias` | `CO-MAT-6-numeros-naturales-potencias-001` | ⬜ |
+| 1 | `multiplos-divisores-mcm-mcd` | `CO-MAT-6-multiplos-divisores-mcm-mcd-001` | ⬜ |
+| 1 | `numeros-decimales-operaciones` | `CO-MAT-6-numeros-decimales-operaciones-001` | ⬜ |
+| 1 | `problemas-numeros-naturales` | `CO-MAT-6-problemas-numeros-naturales-001` | ⬜ |
+| 2 | `fracciones-operaciones` | `CO-MAT-6-fracciones-operaciones-001` | ⬜ |
+| 2 | `razones-proporciones` | `CO-MAT-6-razones-proporciones-001` | ⬜ |
+| 2 | `numeros-enteros` | `CO-MAT-6-numeros-enteros-001` | ⬜ |
+| 2 | `plano-cartesiano` | `CO-MAT-6-plano-cartesiano-001` | ⬜ |
+| 3 | `geometria-angulos-triangulos` | `CO-MAT-6-geometria-angulos-triangulos-001` | ⬜ |
+| 3 | `perimetro-area-poligonos` | `CO-MAT-6-perimetro-area-poligonos-001` | ⬜ |
+| 3 | `transformaciones-geometricas` | `CO-MAT-6-transformaciones-geometricas-001` | ⬜ |
+| 3 | `unidades-medida-conversion` | `CO-MAT-6-unidades-medida-conversion-001` | ⬜ |
+| 4 | `estadistica-tablas-graficos` | `CO-MAT-6-estadistica-tablas-graficos-001` | ⬜ |
+| 4 | `medidas-tendencia-central` | `CO-MAT-6-medidas-tendencia-central-001` | ⬜ |
+| 4 | `probabilidad-conteo` | `CO-MAT-6-probabilidad-conteo-001` | ⬜ |
+| 4 | `ecuaciones-basicas` | `CO-MAT-6-ecuaciones-basicas-001` | ⬜ |
+
+#### 🔬 Grado 6 — Ciencias Naturales (16 bundles)
+
+| Periodo | Tema (Topic Folder) | Bundle ID Prefix | Estado |
+|---------|---------------------|------------------|--------|
+| 1 | `celula-estructura-funcion` | `CO-CN-6-celula-estructura-funcion-001` | ⬜ |
+| 1 | `niveles-organizacion-seres` | `CO-CN-6-niveles-organizacion-seres-001` | ⬜ |
+| 1 | `clasificacion-seres-vivos` | `CO-CN-6-clasificacion-seres-vivos-001` | ⬜ |
+| 1 | `nutricion-digestion` | `CO-CN-6-nutricion-digestion-001` | ⬜ |
+| 2 | `respiracion-circulacion` | `CO-CN-6-respiracion-circulacion-001` | ⬜ |
+| 2 | `excrecion-homeostasis` | `CO-CN-6-excrecion-homeostasis-001` | ⬜ |
+| 2 | `reproduccion-celular` | `CO-CN-6-reproduccion-celular-001` | ⬜ |
+| 2 | `ecologia-relaciones` | `CO-CN-6-ecologia-relaciones-001` | ⬜ |
+| 3 | `materia-propiedades-clasificacion` | `CO-CN-6-materia-propiedades-clasificacion-001` | ⬜ |
+| 3 | `mezclas-metodos-separacion` | `CO-CN-6-mezclas-metodos-separacion-001` | ⬜ |
+| 3 | `atomo-estructura-basica` | `CO-CN-6-atomo-estructura-basica-001` | ⬜ |
+| 3 | `tabla-periodica-introduccion` | `CO-CN-6-tabla-periodica-introduccion-001` | ⬜ |
+| 4 | `energia-formas-transformaciones` | `CO-CN-6-energia-formas-transformaciones-001` | ⬜ |
+| 4 | `calor-temperatura` | `CO-CN-6-calor-temperatura-001` | ⬜ |
+| 4 | `luz-sonido-ondas` | `CO-CN-6-luz-sonido-ondas-001` | ⬜ |
+| 4 | `maquinas-simples-movimiento` | `CO-CN-6-maquinas-simples-movimiento-001` | ⬜ |
+
+#### 🌍 Grado 6 — Sociales (16 bundles)
+
+| Periodo | Tema (Topic Folder) | Bundle ID Prefix | Estado |
+|---------|---------------------|------------------|--------|
+| 1 | `civilizaciones-antiguas-mesopotamia` | `CO-SOC-6-civilizaciones-antiguas-mesopotamia-001` | ⬜ |
+| 1 | `antiguo-egipto-nilo` | `CO-SOC-6-antiguo-egipto-nilo-001` | ⬜ |
+| 1 | `grecia-antigua-democracia` | `CO-SOC-6-grecia-antigua-democracia-001` | ⬜ |
+| 1 | `roma-republica-imperio` | `CO-SOC-6-roma-republica-imperio-001` | ⬜ |
+| 2 | `edad-media-feudalismo` | `CO-SOC-6-edad-media-feudalismo-001` | ⬜ |
+| 2 | `islam-cruzadas` | `CO-SOC-6-islam-cruzadas-001` | ⬜ |
+| 2 | `renacimiento-humanismo` | `CO-SOC-6-renacimiento-humanismo-001` | ⬜ |
+| 2 | `descubrimiento-conquista-america` | `CO-SOC-6-descubrimiento-conquista-america-001` | ⬜ |
+| 3 | `geografia-continentes-oceanos` | `CO-SOC-6-geografia-continentes-oceanos-001` | ⬜ |
+| 3 | `relieve-climas-mundo` | `CO-SOC-6-relieve-climas-mundo-001` | ⬜ |
+| 3 | `poblacion-migraciones` | `CO-SOC-6-poblacion-migraciones-001` | ⬜ |
+| 3 | `culturas-precolombinas` | `CO-SOC-6-culturas-precolombinas-001` | ⬜ |
+| 4 | `organizacion-territorial-colombia` | `CO-SOC-6-organizacion-territorial-colombia-001` | ⬜ |
+| 4 | `democracia-participacion` | `CO-SOC-6-democracia-participacion-001` | ⬜ |
+| 4 | `derechos-ninos-adolescentes` | `CO-SOC-6-derechos-ninos-adolescentes-001` | ⬜ |
+| 4 | `economia-sectores-productivos` | `CO-SOC-6-economia-sectores-productivos-001` | ⬜ |
+
+---
+
+#### 📐 Grado 7 — Matemáticas (16 bundles)
+
+| Periodo | Tema (Topic Folder) | Bundle ID Prefix | Estado |
+|---------|---------------------|------------------|--------|
+| 1 | `numeros-enteros-operaciones` | `CO-MAT-7-numeros-enteros-operaciones-001` | ⬜ |
+| 1 | `numeros-racionales` | `CO-MAT-7-numeros-racionales-001` | ⬜ |
+| 1 | `potenciacion-radicacion` | `CO-MAT-7-potenciacion-radicacion-001` | ⬜ |
+| 1 | `operaciones-fracciones-decimales` | `CO-MAT-7-operaciones-fracciones-decimales-001` | ⬜ |
+| 2 | `proporcionalidad-directa-inversa` | `CO-MAT-7-proporcionalidad-directa-inversa-001` | ⬜ |
+| 2 | `porcentajes-aplicaciones` | `CO-MAT-7-porcentajes-aplicaciones-001` | ⬜ |
+| 2 | `regla-tres-compuesta` | `CO-MAT-7-regla-tres-compuesta-001` | ⬜ |
+| 2 | `magnitudes-conversiones` | `CO-MAT-7-magnitudes-conversiones-001` | ⬜ |
+| 3 | `expresiones-algebraicas` | `CO-MAT-7-expresiones-algebraicas-001` | ⬜ |
+| 3 | `ecuaciones-lineales` | `CO-MAT-7-ecuaciones-lineales-001` | ⬜ |
+| 3 | `polinomios-operaciones` | `CO-MAT-7-polinomios-operaciones-001` | ⬜ |
+| 3 | `inecuaciones-lineales` | `CO-MAT-7-inecuaciones-lineales-001` | ⬜ |
+| 4 | `transformaciones-plano` | `CO-MAT-7-transformaciones-plano-001` | ⬜ |
+| 4 | `semejanza-congruencia` | `CO-MAT-7-semejanza-congruencia-001` | ⬜ |
+| 4 | `estadistica-descriptiva` | `CO-MAT-7-estadistica-descriptiva-001` | ⬜ |
+| 4 | `probabilidad-experimentos` | `CO-MAT-7-probabilidad-experimentos-001` | ⬜ |
+
+#### 🔬 Grado 7 — Ciencias Naturales (16 bundles)
+
+| Periodo | Tema (Topic Folder) | Bundle ID Prefix | Estado |
+|---------|---------------------|------------------|--------|
+| 1 | `celula-organelos-funciones` | `CO-CN-7-celula-organelos-funciones-001` | ⬜ |
+| 1 | `microscopio-tecnicas-observacion` | `CO-CN-7-microscopio-tecnicas-observacion-001` | ⬜ |
+| 1 | `microorganismos-bacterias-virus` | `CO-CN-7-microorganismos-bacterias-virus-001` | ⬜ |
+| 1 | `tejidos-vegetales-animales` | `CO-CN-7-tejidos-vegetales-animales-001` | ⬜ |
+| 2 | `sistema-oseo-muscular` | `CO-CN-7-sistema-oseo-muscular-001` | ⬜ |
+| 2 | `sistema-digestivo-nutricion` | `CO-CN-7-sistema-digestivo-nutricion-001` | ⬜ |
+| 2 | `sistema-circulatorio-respiratorio` | `CO-CN-7-sistema-circulatorio-respiratorio-001` | ⬜ |
+| 2 | `sistema-excretor-homeostasis` | `CO-CN-7-sistema-excretor-homeostasis-001` | ⬜ |
+| 3 | `propiedades-materia-cambios` | `CO-CN-7-propiedades-materia-cambios-001` | ⬜ |
+| 3 | `tabla-periodica-elementos` | `CO-CN-7-tabla-periodica-elementos-001` | ⬜ |
+| 3 | `enlaces-quimicos-basicos` | `CO-CN-7-enlaces-quimicos-basicos-001` | ⬜ |
+| 3 | `reacciones-quimicas-intro` | `CO-CN-7-reacciones-quimicas-intro-001` | ⬜ |
+| 4 | `ecosistemas-biomas-colombia` | `CO-CN-7-ecosistemas-biomas-colombia-001` | ⬜ |
+| 4 | `cadenas-redes-troficas` | `CO-CN-7-cadenas-redes-troficas-001` | ⬜ |
+| 4 | `ciclos-biogeoquimicos` | `CO-CN-7-ciclos-biogeoquimicos-001` | ⬜ |
+| 4 | `impacto-ambiental-sostenibilidad` | `CO-CN-7-impacto-ambiental-sostenibilidad-001` | ⬜ |
+
+#### 🌍 Grado 7 — Sociales (16 bundles)
+
+| Periodo | Tema (Topic Folder) | Bundle ID Prefix | Estado |
+|---------|---------------------|------------------|--------|
+| 1 | `colonia-espanola-america` | `CO-SOC-7-colonia-espanola-america-001` | ⬜ |
+| 1 | `sociedad-colonial-castas` | `CO-SOC-7-sociedad-colonial-castas-001` | ⬜ |
+| 1 | `economia-colonial-encomienda` | `CO-SOC-7-economia-colonial-encomienda-001` | ⬜ |
+| 1 | `iglesia-cultura-colonial` | `CO-SOC-7-iglesia-cultura-colonial-001` | ⬜ |
+| 2 | `ilustracion-revoluciones` | `CO-SOC-7-ilustracion-revoluciones-001` | ⬜ |
+| 2 | `independencias-latinoamerica` | `CO-SOC-7-independencias-latinoamerica-001` | ⬜ |
+| 2 | `revolucion-industrial` | `CO-SOC-7-revolucion-industrial-001` | ⬜ |
+| 2 | `formacion-estados-nacionales` | `CO-SOC-7-formacion-estados-nacionales-001` | ⬜ |
+| 3 | `geografia-america-latina` | `CO-SOC-7-geografia-america-latina-001` | ⬜ |
+| 3 | `recursos-naturales-explotacion` | `CO-SOC-7-recursos-naturales-explotacion-001` | ⬜ |
+| 3 | `problemas-ambientales-colombia` | `CO-SOC-7-problemas-ambientales-colombia-001` | ⬜ |
+| 3 | `diversidad-cultural-etnica` | `CO-SOC-7-diversidad-cultural-etnica-001` | ⬜ |
+| 4 | `derechos-humanos-generaciones` | `CO-SOC-7-derechos-humanos-generaciones-001` | ⬜ |
+| 4 | `conflicto-resolucion-pacifica` | `CO-SOC-7-conflicto-resolucion-pacifica-001` | ⬜ |
+| 4 | `organismos-internacionales` | `CO-SOC-7-organismos-internacionales-001` | ⬜ |
+| 4 | `ciudadania-convivencia` | `CO-SOC-7-ciudadania-convivencia-001` | ⬜ |
+
+---
+
+#### 📐 Grado 8 — Matemáticas (16 bundles)
+
+| Periodo | Tema (Topic Folder) | Bundle ID Prefix | Estado |
+|---------|---------------------|------------------|--------|
+| 1 | `numeros-reales-irracionales` | `CO-MAT-8-numeros-reales-irracionales-001` | ⬜ |
+| 1 | `factorizacion-algebraica` | `CO-MAT-8-factorizacion-algebraica-001` | ⬜ |
+| 1 | `productos-notables` | `CO-MAT-8-productos-notables-001` | ⬜ |
+| 1 | `fracciones-algebraicas` | `CO-MAT-8-fracciones-algebraicas-001` | ⬜ |
+| 2 | `ecuaciones-lineales-sistemas` | `CO-MAT-8-ecuaciones-lineales-sistemas-001` | ⬜ |
+| 2 | `funciones-lineales-graficas` | `CO-MAT-8-funciones-lineales-graficas-001` | ⬜ |
+| 2 | `desigualdades-inecuaciones` | `CO-MAT-8-desigualdades-inecuaciones-001` | ⬜ |
+| 2 | `relaciones-funciones` | `CO-MAT-8-relaciones-funciones-001` | ⬜ |
+| 3 | `teorema-pitagoras` | `CO-MAT-8-teorema-pitagoras-001` | ⬜ |
+| 3 | `figuras-planas-area-perimetro` | `CO-MAT-8-figuras-planas-area-perimetro-001` | ⬜ |
+| 3 | `solidos-volumen-superficie` | `CO-MAT-8-solidos-volumen-superficie-001` | ⬜ |
+| 3 | `trigonometria-introductoria` | `CO-MAT-8-trigonometria-introductoria-001` | ⬜ |
+| 4 | `estadistica-bivariada` | `CO-MAT-8-estadistica-bivariada-001` | ⬜ |
+| 4 | `probabilidad-compuesta` | `CO-MAT-8-probabilidad-compuesta-001` | ⬜ |
+| 4 | `diagramas-arbol-conteo` | `CO-MAT-8-diagramas-arbol-conteo-001` | ⬜ |
+| 4 | `analisis-datos-graficos` | `CO-MAT-8-analisis-datos-graficos-001` | ⬜ |
+
+#### 🔬 Grado 8 — Ciencias Naturales (16 bundles)
+
+| Periodo | Tema (Topic Folder) | Bundle ID Prefix | Estado |
+|---------|---------------------|------------------|--------|
+| 1 | `reproduccion-humana` | `CO-CN-8-reproduccion-humana-001` | ⬜ |
+| 1 | `sistema-endocrino-hormonas` | `CO-CN-8-sistema-endocrino-hormonas-001` | ⬜ |
+| 1 | `genetica-herencia-basica` | `CO-CN-8-genetica-herencia-basica-001` | ⬜ |
+| 1 | `salud-sexual-prevencion` | `CO-CN-8-salud-sexual-prevencion-001` | ⬜ |
+| 2 | `sistema-nervioso-sentidos` | `CO-CN-8-sistema-nervioso-sentidos-001` | ⬜ |
+| 2 | `sistema-inmunologico` | `CO-CN-8-sistema-inmunologico-001` | ⬜ |
+| 2 | `enfermedades-prevencion` | `CO-CN-8-enfermedades-prevencion-001` | ⬜ |
+| 2 | `drogas-sustancias-psicoactivas` | `CO-CN-8-drogas-sustancias-psicoactivas-001` | ⬜ |
+| 3 | `reacciones-quimicas-tipos` | `CO-CN-8-reacciones-quimicas-tipos-001` | ⬜ |
+| 3 | `estequiometria-basica` | `CO-CN-8-estequiometria-basica-001` | ⬜ |
+| 3 | `acidos-bases-ph` | `CO-CN-8-acidos-bases-ph-001` | ⬜ |
+| 3 | `soluciones-concentracion` | `CO-CN-8-soluciones-concentracion-001` | ⬜ |
+| 4 | `movimiento-velocidad-aceleracion` | `CO-CN-8-movimiento-velocidad-aceleracion-001` | ⬜ |
+| 4 | `leyes-newton-fuerzas` | `CO-CN-8-leyes-newton-fuerzas-001` | ⬜ |
+| 4 | `energia-trabajo-potencia` | `CO-CN-8-energia-trabajo-potencia-001` | ⬜ |
+| 4 | `ondas-sonido-luz` | `CO-CN-8-ondas-sonido-luz-001` | ⬜ |
+
+#### 🌍 Grado 8 — Sociales (16 bundles)
+
+| Periodo | Tema (Topic Folder) | Bundle ID Prefix | Estado |
+|---------|---------------------|------------------|--------|
+| 1 | `revolucion-francesa` | `CO-SOC-8-revolucion-francesa-001` | ⬜ |
+| 1 | `independencia-eeuu` | `CO-SOC-8-independencia-eeuu-001` | ⬜ |
+| 1 | `napoleon-imperialismo` | `CO-SOC-8-napoleon-imperialismo-001` | ⬜ |
+| 1 | `revoluciones-liberales-s19` | `CO-SOC-8-revoluciones-liberales-s19-001` | ⬜ |
+| 2 | `primera-guerra-mundial` | `CO-SOC-8-primera-guerra-mundial-001` | ⬜ |
+| 2 | `revolucion-rusa-comunismo` | `CO-SOC-8-revolucion-rusa-comunismo-001` | ⬜ |
+| 2 | `segunda-guerra-mundial` | `CO-SOC-8-segunda-guerra-mundial-001` | ⬜ |
+| 2 | `guerra-fria-bipolaridad` | `CO-SOC-8-guerra-fria-bipolaridad-001` | ⬜ |
+| 3 | `geografia-politica-fronteras` | `CO-SOC-8-geografia-politica-fronteras-001` | ⬜ |
+| 3 | `globalizacion-economia-mundial` | `CO-SOC-8-globalizacion-economia-mundial-001` | ⬜ |
+| 3 | `desarrollo-subdesarrollo` | `CO-SOC-8-desarrollo-subdesarrollo-001` | ⬜ |
+| 3 | `medio-ambiente-cambio-climatico` | `CO-SOC-8-medio-ambiente-cambio-climatico-001` | ⬜ |
+| 4 | `constitucion-colombiana-aplicada` | `CO-SOC-8-constitucion-colombiana-aplicada-001` | ⬜ |
+| 4 | `mecanismos-participacion-ciudadana` | `CO-SOC-8-mecanismos-participacion-ciudadana-001` | ⬜ |
+| 4 | `conflicto-armado-colombiano` | `CO-SOC-8-conflicto-armado-colombiano-001` | ⬜ |
+| 4 | `paz-justicia-transicional` | `CO-SOC-8-paz-justicia-transicional-001` | ⬜ |
+
+---
+
+#### 📊 Resumen de Generación Grados 6-8
+
+| Grado | Matemáticas | Ciencias | Sociales | **Total** |
+|-------|:-----------:|:--------:|:--------:|:---------:|
+| **6** | 16 | 16 | 16 | **48** |
+| **7** | 16 | 16 | 16 | **48** |
+| **8** | 16 | 16 | 16 | **48** |
+| **TOTAL** | **48** | **48** | **48** | **144 bundles (1,440 preguntas)** |
+
+---
 
 - [ ] **Pagina `/developers`:** Landing page con documentación y precios.
 - [ ] **Dashboard Dev:**
