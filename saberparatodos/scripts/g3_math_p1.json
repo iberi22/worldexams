@@ -1,0 +1,552 @@
+[
+  {
+    "country": "co",
+    "grade": 3,
+    "subject": "matematicas",
+    "period": 1,
+    "topic": "Sumas",
+    "topicSlug": "sumas",
+    "questions": [
+      {
+        "statement": "¿Cuánto es 34 + 25?",
+        "options": [
+          { "letter": "A", "text": "59", "correct": true },
+          { "letter": "B", "text": "69", "correct": false },
+          { "letter": "C", "text": "55", "correct": false },
+          { "letter": "D", "text": "49", "correct": false }
+        ],
+        "explanation": "Al sumar las unidades (4+5=9) y las decenas (3+2=5), obtenemos 59."
+      },
+      {
+        "statement": "Si tienes 12 lápices y te regalan 8, ¿cuántos tienes?",
+        "options": [
+          { "letter": "A", "text": "20", "correct": true },
+          { "letter": "B", "text": "18", "correct": false },
+          { "letter": "C", "text": "22", "correct": false },
+          { "letter": "D", "text": "10", "correct": false }
+        ],
+        "explanation": "Sumamos 12 más 8 para obtener el total: 20 lápices."
+      },
+      {
+        "statement": "Mariana tiene 150 pesos y encuentra 50 más. ¿Cuánto dinero tiene?",
+        "options": [
+          { "letter": "A", "text": "200 pesos", "correct": true },
+          { "letter": "B", "text": "180 pesos", "correct": false },
+          { "letter": "C", "text": "100 pesos", "correct": false },
+          { "letter": "D", "text": "250 pesos", "correct": false }
+        ],
+        "explanation": "150 + 50 = 200 pesos."
+      },
+      {
+        "statement": "En un bus van 24 personas y suben 13 más. ¿Cuántas personas van ahora?",
+        "options": [
+          { "letter": "A", "text": "37", "correct": true },
+          { "letter": "B", "text": "34", "correct": false },
+          { "letter": "C", "text": "27", "correct": false },
+          { "letter": "D", "text": "47", "correct": false }
+        ],
+        "explanation": "Sumamos 24 + 13:\n4 + 3 = 7\n2 + 1 = 3\nTotal: 37."
+      },
+      {
+        "statement": "¿Cuál es la suma de 500 + 400?",
+        "options": [
+          { "letter": "A", "text": "900", "correct": true },
+          { "letter": "B", "text": "800", "correct": false },
+          { "letter": "C", "text": "100", "correct": false },
+          { "letter": "D", "text": "90", "correct": false }
+        ],
+        "explanation": "Sumamos las centenas: 5 + 4 = 9. Por lo tanto, 500 + 400 = 900."
+      },
+      {
+        "statement": "Andrés compró un pan de $2.000 y una leche de $3.500. ¿Cuánto pagó?",
+        "options": [
+          { "letter": "A", "text": "$5.500", "correct": true },
+          { "letter": "B", "text": "$5.000", "correct": false },
+          { "letter": "C", "text": "$6.500", "correct": false },
+          { "letter": "D", "text": "$4.500", "correct": false }
+        ],
+        "explanation": "2.000 + 3.500 = 5.500 pesos."
+      },
+      {
+        "statement": "Completa la secuencia sumando 100: 100, 200, 300, ...",
+        "options": [
+          { "letter": "A", "text": "400", "correct": true },
+          { "letter": "B", "text": "500", "correct": false },
+          { "letter": "C", "text": "350", "correct": false },
+          { "letter": "D", "text": "301", "correct": false }
+        ],
+        "explanation": "El patrón es sumar 100 cada vez. 300 + 100 = 400."
+      },
+      {
+        "statement": "En una biblioteca hay 456 libros de cuentos y 231 de ciencias. ¿Cuántos libros hay en total?",
+        "options": [
+          { "letter": "A", "text": "687", "correct": true },
+          { "letter": "B", "text": "600", "correct": false },
+          { "letter": "C", "text": "587", "correct": false },
+          { "letter": "D", "text": "678", "correct": false }
+        ],
+        "explanation": "456 \n+ 231 \n-----\n  687"
+      },
+      {
+        "statement": "Si sumas el número de días de una semana (7) más los meses del año (12), ¿cuánto obtienes?",
+        "options": [
+          { "letter": "A", "text": "19", "correct": true },
+          { "letter": "B", "text": "20", "correct": false },
+          { "letter": "C", "text": "14", "correct": false },
+          { "letter": "D", "text": "17", "correct": false }
+        ],
+        "explanation": "7 (días) + 12 (meses) = 19."
+      },
+      {
+        "statement": "Un edificio tiene 12 pisos y construyen 5 pisos más. ¿Cuántos pisos tendrá?",
+        "options": [
+          { "letter": "A", "text": "17", "correct": true },
+          { "letter": "B", "text": "15", "correct": false },
+          { "letter": "C", "text": "18", "correct": false },
+          { "letter": "D", "text": "20", "correct": false }
+        ],
+        "explanation": "12 + 5 = 17 pisos."
+      }
+    ]
+  },
+  {
+    "country": "co",
+    "grade": 3,
+    "subject": "matematicas",
+    "period": 1,
+    "topic": "Restas",
+    "topicSlug": "restas",
+    "questions": [
+      {
+        "statement": "¿Cuánto es 50 - 20?",
+        "options": [
+          { "letter": "A", "text": "30", "correct": true },
+          { "letter": "B", "text": "20", "correct": false },
+          { "letter": "C", "text": "40", "correct": false },
+          { "letter": "D", "text": "10", "correct": false }
+        ],
+        "explanation": "Si a 5 decenas le quitamos 2 decenas, quedan 3 decenas (30)."
+      },
+      {
+        "statement": "Tenía 10 manzanas y me comí 3. ¿Cuántas quedan?",
+        "options": [
+          { "letter": "A", "text": "7", "correct": true },
+          { "letter": "B", "text": "8", "correct": false },
+          { "letter": "C", "text": "6", "correct": false },
+          { "letter": "D", "text": "5", "correct": false }
+        ],
+        "explanation": "10 - 3 = 7."
+      },
+      {
+        "statement": "En el salón hay 30 sillas y se llevan 5 para reparar. ¿Cuántas quedan?",
+        "options": [
+          { "letter": "A", "text": "25", "correct": true },
+          { "letter": "B", "text": "35", "correct": false },
+          { "letter": "C", "text": "20", "correct": false },
+          { "letter": "D", "text": "30", "correct": false }
+        ],
+        "explanation": "30 - 5 = 25."
+      },
+      {
+        "statement": "¿Qué número falta? 100 - ___ = 80",
+        "options": [
+          { "letter": "A", "text": "20", "correct": true },
+          { "letter": "B", "text": "10", "correct": false },
+          { "letter": "C", "text": "30", "correct": false },
+          { "letter": "D", "text": "40", "correct": false }
+        ],
+        "explanation": "Para llegar de 100 a 80, debemos restar 20."
+      },
+      {
+        "statement": "Pedro tiene $5.000 y gasta $2.000 en el recreo. ¿Cuánto le sobra?",
+        "options": [
+          { "letter": "A", "text": "$3.000", "correct": true },
+          { "letter": "B", "text": "$2.000", "correct": false },
+          { "letter": "C", "text": "$4.000", "correct": false },
+          { "letter": "D", "text": "$1.000", "correct": false }
+        ],
+        "explanation": "5.000 - 2.000 = 3.000 pesos."
+      },
+      {
+        "statement": "Si a 48 le restas 12, obtienes:",
+        "options": [
+          { "letter": "A", "text": "36", "correct": true },
+          { "letter": "B", "text": "26", "correct": false },
+          { "letter": "C", "text": "38", "correct": false },
+          { "letter": "D", "text": "46", "correct": false }
+        ],
+        "explanation": "8 - 2 = 6; 4 - 1 = 3. Resultado: 36."
+      },
+      {
+        "statement": "En un árbol había 15 pájaros y volaron 6. ¿Cuántos quedaron?",
+        "options": [
+          { "letter": "A", "text": "9", "correct": true },
+          { "letter": "B", "text": "8", "correct": false },
+          { "letter": "C", "text": "10", "correct": false },
+          { "letter": "D", "text": "7", "correct": false }
+        ],
+        "explanation": "15 - 6 = 9."
+      },
+      {
+        "statement": "Camila tiene 85 puntos en un juego y pierde 15. ¿Cuántos puntos tiene ahora?",
+        "options": [
+          { "letter": "A", "text": "70", "correct": true },
+          { "letter": "B", "text": "60", "correct": false },
+          { "letter": "C", "text": "80", "correct": false },
+          { "letter": "D", "text": "65", "correct": false }
+        ],
+        "explanation": "85 - 15 = 70."
+      },
+      {
+        "statement": "Calcula la diferencia entre 500 y 150.",
+        "options": [
+          { "letter": "A", "text": "350", "correct": true },
+          { "letter": "B", "text": "450", "correct": false },
+          { "letter": "C", "text": "250", "correct": false },
+          { "letter": "D", "text": "400", "correct": false }
+        ],
+        "explanation": "500 - 100 = 400; 400 - 50 = 350."
+      },
+      {
+        "statement": "Un paquete trae 24 galletas. Si me como 4 y le doy 4 a mi hermana, ¿cuántas quedan?",
+        "options": [
+          { "letter": "A", "text": "16", "correct": true },
+          { "letter": "B", "text": "20", "correct": false },
+          { "letter": "C", "text": "12", "correct": false },
+          { "letter": "D", "text": "18", "correct": false }
+        ],
+        "explanation": "Comimos 4 + 4 = 8 galletas en total. 24 - 8 = 16 quedan."
+      }
+    ]
+  },
+  {
+    "country": "co",
+    "grade": 3,
+    "subject": "matematicas",
+    "period": 1,
+    "topic": "Números hasta 1000",
+    "topicSlug": "numeros-hasta-1000",
+    "questions": [
+      {
+        "statement": "¿Qué número es mayor que 500?",
+        "options": [
+          { "letter": "A", "text": "501", "correct": true },
+          { "letter": "B", "text": "499", "correct": false },
+          { "letter": "C", "text": "100", "correct": false },
+          { "letter": "D", "text": "50", "correct": false }
+        ],
+        "explanation": "501 viene después de 500, por lo tanto es mayor."
+      },
+      {
+        "statement": "¿Cómo se escribe el número setecientos treinta?",
+        "options": [
+          { "letter": "A", "text": "730", "correct": true },
+          { "letter": "B", "text": "703", "correct": false },
+          { "letter": "C", "text": "370", "correct": false },
+          { "letter": "D", "text": "713", "correct": false }
+        ],
+        "explanation": "Setecientos (700) mas treinta (30) es 730."
+      },
+      {
+        "statement": "¿Cuál es el valor posicional del 4 en el número 452?",
+        "options": [
+          { "letter": "A", "text": "400 (Centenas)", "correct": true },
+          { "letter": "B", "text": "40 (Decenas)", "correct": false },
+          { "letter": "C", "text": "4 (Unidades)", "correct": false },
+          { "letter": "D", "text": "4000 (Unidades de mil)", "correct": false }
+        ],
+        "explanation": "El 4 está en la posición de las centenas, por lo que vale 400."
+      },
+      {
+        "statement": "Ordena de menor a mayor: 200, 150, 300.",
+        "options": [
+          { "letter": "A", "text": "150, 200, 300", "correct": true },
+          { "letter": "B", "text": "300, 200, 150", "correct": false },
+          { "letter": "C", "text": "200, 300, 150", "correct": false },
+          { "letter": "D", "text": "150, 300, 200", "correct": false }
+        ],
+        "explanation": "150 es el menor, luego 200, y el mayor es 300."
+      },
+      {
+        "statement": "¿Qué número va antes de 1000?",
+        "options": [
+          { "letter": "A", "text": "999", "correct": true },
+          { "letter": "B", "text": "990", "correct": false },
+          { "letter": "C", "text": "1001", "correct": false },
+          { "letter": "D", "text": "900", "correct": false }
+        ],
+        "explanation": "Si a 1000 le restamos 1, obtenemos 999."
+      },
+      {
+        "statement": "¿Cuántas centenas tiene el número 800?",
+        "options": [
+          { "letter": "A", "text": "8", "correct": true },
+          { "letter": "B", "text": "80", "correct": false },
+          { "letter": "C", "text": "800", "correct": false },
+          { "letter": "D", "text": "10", "correct": false }
+        ],
+        "explanation": "800 equivale a 8 grupos de 100 (centenas)."
+      },
+      {
+        "statement": "Escribe el número formado por 5 centenas, 2 decenas y 3 unidades.",
+        "options": [
+          { "letter": "A", "text": "523", "correct": true },
+          { "letter": "B", "text": "532", "correct": false },
+          { "letter": "C", "text": "253", "correct": false },
+          { "letter": "D", "text": "325", "correct": false }
+        ],
+        "explanation": "500 + 20 + 3 = 523."
+      },
+      {
+        "statement": "¿Qué número es igual a 900 + 50 + 5?",
+        "options": [
+          { "letter": "A", "text": "955", "correct": true },
+          { "letter": "B", "text": "905", "correct": false },
+          { "letter": "C", "text": "950", "correct": false },
+          { "letter": "D", "text": "595", "correct": false }
+        ],
+        "explanation": "Sumamos los valores: 900 (centenas) + 50 (decenas) + 5 (unidades) = 955."
+      },
+      {
+        "statement": "¿Cuál número está entre 600 y 610?",
+        "options": [
+          { "letter": "A", "text": "605", "correct": true },
+          { "letter": "B", "text": "615", "correct": false },
+          { "letter": "C", "text": "590", "correct": false },
+          { "letter": "D", "text": "620", "correct": false }
+        ],
+        "explanation": "605 es mayor que 600 y menor que 610."
+      },
+      {
+        "statement": "Redondea 380 a la centena más cercana.",
+        "options": [
+          { "letter": "A", "text": "400", "correct": true },
+          { "letter": "B", "text": "300", "correct": false },
+          { "letter": "C", "text": "350", "correct": false },
+          { "letter": "D", "text": "500", "correct": false }
+        ],
+        "explanation": "380 está más cerca de 400 que de 300."
+      }
+    ]
+  },
+    {
+    "country": "co",
+    "grade": 3,
+    "subject": "matematicas",
+    "period": 1,
+    "topic": "Dinero",
+    "topicSlug": "dinero",
+    "questions": [
+      {
+        "statement": "¿Cuál moneda vale más?",
+        "options": [
+          { "letter": "A", "text": "Moneda de $1.000", "correct": true },
+          { "letter": "B", "text": "Moneda de $500", "correct": false },
+          { "letter": "C", "text": "Moneda de $200", "correct": false },
+          { "letter": "D", "text": "Moneda de $100", "correct": false }
+        ],
+        "explanation": "La moneda de mayor denominación actual en Colombia es la de $1.000."
+      },
+      {
+        "statement": "¿Cuántas monedas de $500 necesitas para tener $1.000?",
+        "options": [
+          { "letter": "A", "text": "2", "correct": true },
+          { "letter": "B", "text": "3", "correct": false },
+          { "letter": "C", "text": "4", "correct": false },
+          { "letter": "D", "text": "1", "correct": false }
+        ],
+        "explanation": "$500 + $500 = $1.000."
+      },
+      {
+        "statement": "Si tienes un billete de $2.000 y compras algo de $1.500, ¿cuánto te sobra?",
+        "options": [
+          { "letter": "A", "text": "$500", "correct": true },
+          { "letter": "B", "text": "$1.000", "correct": false },
+          { "letter": "C", "text": "$200", "correct": false },
+          { "letter": "D", "text": "$0", "correct": false }
+        ],
+        "explanation": "$2.000 - $1.500 = $500."
+      },
+      {
+        "statement": "¿Qué billete tiene la cara del escritor Gabriel García Márquez?",
+        "options": [
+          { "letter": "A", "text": "$50.000", "correct": true },
+          { "letter": "B", "text": "$2.000", "correct": false },
+          { "letter": "C", "text": "$10.000", "correct": false },
+          { "letter": "D", "text": "$20.000", "correct": false }
+        ],
+        "explanation": "El billete de $50.000 pesos colombianos rinde homenaje a Gabriel García Márquez."
+      },
+      {
+        "statement": "Tienes dos billetes de $5.000. ¿Cuánto dinero tienes en total?",
+        "options": [
+          { "letter": "A", "text": "$10.000", "correct": true },
+          { "letter": "B", "text": "$5.000", "correct": false },
+          { "letter": "C", "text": "$15.000", "correct": false },
+          { "letter": "D", "text": "$20.000", "correct": false }
+        ],
+        "explanation": "5.000 + 5.000 = 10.000."
+      },
+      {
+        "statement": "¿Cuál es el valor del billete verde en Colombia?",
+        "options": [
+          { "letter": "A", "text": "Generalmente el de $2.000 o variantes antiguas", "correct": false },
+          { "letter": "B", "text": "$100.000 es el más verde actual", "correct": true },
+          { "letter": "C", "text": "$10.000", "correct": false },
+          { "letter": "D", "text": "$50.000", "correct": false }
+        ],
+        "explanation": "El billete de $100.000 actual es predominantemente verde. (Nota: dependiendo de la edición, preguntas de color pueden ser confusas, pero en la nueva familia es el verde)."
+      },
+      {
+        "statement": "Si ahorras $100 cada día por 5 días, ¿cuánto tendrás?",
+        "options": [
+          { "letter": "A", "text": "$500", "correct": true },
+          { "letter": "B", "text": "$1.000", "correct": false },
+          { "letter": "C", "text": "$100", "correct": false },
+          { "letter": "D", "text": "$300", "correct": false }
+        ],
+        "explanation": "100 x 5 = 500 pesos."
+      },
+      {
+        "statement": "¿Con qué pagas más fácil un dulce de $300?",
+        "options": [
+          { "letter": "A", "text": "Con monedas", "correct": true },
+          { "letter": "B", "text": "Con un billete de $50.000", "correct": false },
+          { "letter": "C", "text": "Con tarjeta de crédito", "correct": false },
+          { "letter": "D", "text": "Con cheque", "correct": false }
+        ],
+        "explanation": "Para cantidades pequeñas como $300, lo más común es usar monedas."
+      },
+      {
+        "statement": "¿Cuánto suman 3 monedas de $200?",
+        "options": [
+          { "letter": "A", "text": "$600", "correct": true },
+          { "letter": "B", "text": "$500", "correct": false },
+          { "letter": "C", "text": "$400", "correct": false },
+          { "letter": "D", "text": "$800", "correct": false }
+        ],
+        "explanation": "200 + 200 + 200 = 600."
+      },
+      {
+        "statement": "Si un jugo vale $1.200 y pagas con $2.000, ¿cuánto te devuelven?",
+        "options": [
+          { "letter": "A", "text": "$800", "correct": true },
+          { "letter": "B", "text": "$1.000", "correct": false },
+          { "letter": "C", "text": "$600", "correct": false },
+          { "letter": "D", "text": "$900", "correct": false }
+        ],
+        "explanation": "2.000 - 1.200 = 800 pesos."
+      }
+    ]
+  },
+  {
+    "country": "co",
+    "grade": 3,
+    "subject": "matematicas",
+    "period": 1,
+    "topic": "Conteo",
+    "topicSlug": "conteo",
+    "questions": [
+      {
+        "statement": "Cuenta de 2 en 2: 2, 4, 6, 8, ...",
+        "options": [
+          { "letter": "A", "text": "10", "correct": true },
+          { "letter": "B", "text": "9", "correct": false },
+          { "letter": "C", "text": "11", "correct": false },
+          { "letter": "D", "text": "12", "correct": false }
+        ],
+        "explanation": "Sumamos 2 a 8 para obtener 10."
+      },
+      {
+        "statement": "Si cuentas de 5 en 5, ¿qué número sigue después de 20?",
+        "options": [
+          { "letter": "A", "text": "25", "correct": true },
+          { "letter": "B", "text": "21", "correct": false },
+          { "letter": "C", "text": "30", "correct": false },
+          { "letter": "D", "text": "26", "correct": false }
+        ],
+        "explanation": "20 + 5 = 25."
+      },
+      {
+        "statement": "¿Cuántos dedos hay en 3 manos?",
+        "options": [
+          { "letter": "A", "text": "15", "correct": true },
+          { "letter": "B", "text": "10", "correct": false },
+          { "letter": "C", "text": "20", "correct": false },
+          { "letter": "D", "text": "5", "correct": false }
+        ],
+        "explanation": "Cada mano tiene 5 dedos. 5 + 5 + 5 = 15."
+      },
+      {
+        "statement": "Cuenta hacia atrás desde 10: 10, 9, 8, ...",
+        "options": [
+          { "letter": "A", "text": "7", "correct": true },
+          { "letter": "B", "text": "6", "correct": false },
+          { "letter": "C", "text": "11", "correct": false },
+          { "letter": "D", "text": "0", "correct": false }
+        ],
+        "explanation": "Antes del 8 viene el 7."
+      },
+      {
+        "statement": "Si hay 4 grupos de 3 manzanas, ¿cuántas manzanas hay?",
+        "options": [
+          { "letter": "A", "text": "12", "correct": true },
+          { "letter": "B", "text": "7", "correct": false },
+          { "letter": "C", "text": "9", "correct": false },
+          { "letter": "D", "text": "10", "correct": false }
+        ],
+        "explanation": "Sumamos 3 cuatro veces: 3+3+3+3 = 12."
+      },
+      {
+        "statement": "En una caja caben 10 huevos. ¿Cuántos caben en 2 cajas?",
+        "options": [
+          { "letter": "A", "text": "20", "correct": true },
+          { "letter": "B", "text": "15", "correct": false },
+          { "letter": "C", "text": "12", "correct": false },
+          { "letter": "D", "text": "30", "correct": false }
+        ],
+        "explanation": "10 + 10 = 20."
+      },
+      {
+        "statement": "¿Qué número sigue en la serie: 10, 20, 30, 40...?",
+        "options": [
+          { "letter": "A", "text": "50", "correct": true },
+          { "letter": "B", "text": "41", "correct": false },
+          { "letter": "C", "text": "60", "correct": false },
+          { "letter": "D", "text": "45", "correct": false }
+        ],
+        "explanation": "Estamos contando de 10 en 10. Sigue 50."
+      },
+      {
+        "statement": "Si tienes 3 pares de zapatos, ¿cuántos zapatos tienes en total?",
+        "options": [
+          { "letter": "A", "text": "6", "correct": true },
+          { "letter": "B", "text": "3", "correct": false },
+          { "letter": "C", "text": "2", "correct": false },
+          { "letter": "D", "text": "4", "correct": false }
+        ],
+        "explanation": "Un par son 2. 3 pares son 2 + 2 + 2 = 6."
+      },
+      {
+        "statement": "Cuenta las patas de 2 perros.",
+        "options": [
+          { "letter": "A", "text": "8", "correct": true },
+          { "letter": "B", "text": "4", "correct": false },
+          { "letter": "C", "text": "6", "correct": false },
+          { "letter": "D", "text": "10", "correct": false }
+        ],
+        "explanation": "Un perro tiene 4 patas. Dos perros: 4 + 4 = 8."
+      },
+      {
+        "statement": "¿Cuál es el número ordinal para el '5'?",
+        "options": [
+          { "letter": "A", "text": "Quinto", "correct": true },
+          { "letter": "B", "text": "Cinco", "correct": false },
+          { "letter": "C", "text": "Cincuentavo", "correct": false },
+          { "letter": "D", "text": "Quince", "correct": false }
+        ],
+        "explanation": "Primero, segundo, tercero, cuarto, quinto."
+      }
+    ]
+  }
+]

@@ -77,6 +77,7 @@ total_questions: 10
 estado: "draft|review|approved"
 creador: "[Nombre o AI]"
 generation_date: "YYYY-MM-DD"
+periodo: [1-4]
 
 # === LICENSING ===
 licenses:
