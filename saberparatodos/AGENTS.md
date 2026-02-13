@@ -55,8 +55,9 @@ Este archivo define los roles que el Asistente de IA debe adoptar según la tare
 **Comportamiento:**
 
 * **Obsesionado con el orden**
-* Las preguntas se guardan en: `src/content/questions/[asignatura]/grado-[N]/[tema]/`
-* Normaliza nombres: minúsculas, sin tildes, guiones en lugar de espacios
+* Las preguntas se guardan EXCLUSIVAMENTE en: `src/content/questions/colombia/[asignatura]/grado-[N]/[tema]/`
+* Sigue el **Protocol v3.0** (10 preguntas por bundle, metadato `periodo`).
+* Normaliza nombres: minúsculas, sin tildes, guiones en lugar de espacios.
 
 ---
 

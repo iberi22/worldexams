@@ -56,9 +56,9 @@ World Exams es una organización con múltiples repositorios (uno por país). Lo
 - Contextualizar ejemplos a la cultura local
 - Usar moneda, ciudades, y referencias locales
 - Mantener el formato de pregunta estándar global
-- **OBLIGATORIO:** Seguir Protocol v2.0 (bundles de 7 preguntas)
+- **OBLIGATORIO:** Seguir Protocol v3.0 (bundles de 10 preguntas)
 
-**Formato de ID (Protocol v2.0):** `[COUNTRY]-[SUBJECT]-[GRADE]-[TOPIC]-[###]-v[1-7]`
+**Formato de ID (Protocol v3.0):** `[COUNTRY]-[SUBJECT]-[GRADE]-[TOPIC]-[###]` (sufijos `-v1` a `-v10` para preguntas individuales)
 
 Ejemplos:
 - `CO-MAT-11-algebra-001-v1` (Colombia, Original)
@@ -67,10 +67,10 @@ Ejemplos:
 - `AR-MAT-09-algebra-001-v4` (Argentina, Media A)
 
 **Estructura de Bundle:**
-- Archivo: `[COUNTRY]-[SUBJ]-[GRADE]-[TOPIC]-[###]-bundle.md`
-- Contiene: 7 preguntas con progresión de dificultad (1 original + 2 fácil + 2 media + 2 difícil)
-- Ubicación: `src/content/questions/[country]/[asignatura]/grado-[N]/[tema]/`
-- Referencia: `docs/QUESTION_GENERATION_PROTOCOL_V2.md`
+- Archivo: `[COUNTRY]-[SUBJ]-[GRADE]-[TOPIC]-[###]-v3-bundle.md`
+- Contiene: 10 preguntas con progresión de dificultad (v1-v10)
+- Ubicación: `saberparatodos/src/content/questions/[country]/[asignatura]/grado-[N]/[tema]/`
+- Referencia: `skills/create_bundles_manually/SKILL.md` (Protocol v3.0)
 
 ---
 
@@ -138,7 +138,7 @@ Ejemplos:
 **Estructura de preguntas (Centralizada):**
 
 ```text
-saberparatodos/src/content/questions/[country]/[asignatura]/grado-[N]/[tema]/[archivo]-bundle.md
+saberparatodos/src/content/questions/colombia/[asignatura]/grado-[N]/[tema]/[archivo]-v3-bundle.md
 ```
 
 **Ejemplo real:**
@@ -156,7 +156,7 @@ saberparatodos/src/content/questions/colombia/matematicas/grado-11/algebra/CO-MA
 | Tema | `kebab-case` | `algebra`, `revolucion-industrial` |
 | Archivo | `[COUNTRY]-[SUBJ]-[GRADE]-[TOPIC]-[###]-bundle.md` | `CO-MAT-11-algebra-001-bundle.md` |
 
-**Protocol v2.0:** Cada archivo bundle contiene 7 preguntas (v1-v7) con IDs únicos.
+**Protocol v3.0:** Cada archivo bundle contiene 10 preguntas (v1-v10) con IDs únicos y metadato `periodo` obligatorio.
 
 ---
 

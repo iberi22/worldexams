@@ -96,8 +96,7 @@ party-server-cloud/
 # temp/premium-questions/
 
 # Bundles completos (v1-v7) - Solo versiones PUBLIC se commitean
-*-bundle.md
-*-PREMIUM.md
+
 
 # Solo archivos PUBLIC se incluyen en repo público
 !*-PUBLIC.md
@@ -109,4 +108,4 @@ party-server-cloud/
 
 
 # Generated API Data (JSONs)
-
+saberparatodos/public
