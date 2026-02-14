@@ -60,7 +60,7 @@ const features = [
           </p>
 
           <div class="grid sm:grid-cols-2 gap-4">
-            {#each features as feature}
+            {features.map(feature => (
               <div class="flex items-start space-x-3 p-3 rounded-lg hover:bg-white/50 dark:hover:bg-zinc-900/50 transition-colors">
                 <span class="text-2xl">{feature.icon}</span>
                 <div>
@@ -68,7 +68,7 @@ const features = [
                   <p class="text-xs text-zinc-500 dark:text-zinc-400 leading-snug">{feature.desc}</p>
                 </div>
               </div>
-            {/each}
+            ))}
           </div>
 
           <div class="pt-4 flex items-center space-x-4 text-sm text-zinc-500 dark:text-zinc-500">

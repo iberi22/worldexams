@@ -340,6 +340,19 @@
 
         const subjectMatch = subjectsMatch(q.category, selectedSubject);
         if (!subjectMatch) return false;
+        if (config.examMode === 'period' && config.period) {
+             // 🆕 Filter by Period (Strict match on 'periodo' property)
+             // If question doesn't have 'periodo', it's excluded from specific period exams
+             if (q.periodo !== undefined && q.periodo !== null) {
+                 if (Number(q.periodo) !== Number(config.period)) return false;
+             } else {
+                 // ⚠️ Fallback: If no period property, exclude it from period specific mode
+                 // unless we implement topic matching here too.
+                 // For now, strict 'periodo' is safer to ensure alignment.
+                 return false;
+             }
+        }
+
         if (config.useDiagnostic) {
            return q.grade === selectedGrade || (q.grade < selectedGrade && [3,5,7,9].includes(q.grade));
         } else {

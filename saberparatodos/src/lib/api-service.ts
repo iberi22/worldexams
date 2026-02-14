@@ -104,6 +104,7 @@ export interface APISubjectIndex {
   total_pages: number;
   time_limit_minutes: number;
   topics: string[];
+  periods?: number[]; // 🆕 Available periods for filtering
   pages: { url: string; page: number }[];
   generated_at: string;
 }

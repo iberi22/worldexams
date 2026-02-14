@@ -101,6 +101,7 @@ export const GET: APIRoute = async ({ params }) => {
       questions_per_page: QUESTIONS_PER_PAGE,
       time_limit_minutes: 60,
       topics: [...new Set(allQuestions.map(q => q.data.tema))],
+      periods: [...new Set(allQuestions.map(q => q.data.periodo).filter(p => !isNaN(Number(p))))].sort((a, b) => Number(a) - Number(b)),
       pages: Array.from({ length: totalPages }, (_, i) => ({
         url: `/api/${country}/${exam}/${grade}/${subject}/${i + 1}.json`,
         page: i + 1

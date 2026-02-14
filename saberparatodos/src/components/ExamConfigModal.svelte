@@ -697,6 +697,11 @@
                  const previousCount = filteredPool.length;
 
                      filteredPool = filteredPool.filter(q => {
+                         // 🆕 PRIORITY: Filter by explicit 'periodo' property if available (API v2)
+                         if (q.periodo !== undefined && q.periodo !== null) {
+                             return Number(q.periodo) === selectedPeriod;
+                         }
+
                          // 🆕 Use q.topics array
                          const topics = q.topics || [];
                          if (topics.length === 0) {
