@@ -1,21 +1,19 @@
 ---
-id: CO-LEC-3-vocabulario-001
-country: co
+id: "CO-LEC-3-vocabulario-001"
+country: "co"
 grado: 3
-asignatura: lectura-critica
-tema: Vocabulario (Palabras)
-bundle_version: '2.1'
-total_questions: 7
-estado: published
-creador: Antigravity
-generation_date: '2025-12-18'
-source: Colombia Aprende / DBA Lenguaje
-source_url: 'https://aprende.colombiaaprende.edu.co/'
-search_query: lectura critica grado 3 colombia vocabulario sinonimos antonimos
-source_license: CC BY-SA 4.0
+asignatura: "lectura-critica"
+tema: "Vocabulario (Palabras)"
+periodo: 1
+protocol_version: "3.0"
+total_questions: 10
+estado: "approved"
+creador: "Antigravity (Protocol v3.0)"
+generation_date: "2026-02-14"
+source: "Colombia Aprende / DBA Lenguaje"
+source_url: "https://aprende.colombiaaprende.edu.co/"
+source_license: "CC BY-SA 4.0"
 licenses:
-  v1: CC BY-SA 4.0
-  v2: CC BY-NC-SA 4.0
   v3: CC BY-NC-SA 4.0
   v4: CC BY-NC-SA 4.0
   v5: CC BY-NC-SA 4.0
