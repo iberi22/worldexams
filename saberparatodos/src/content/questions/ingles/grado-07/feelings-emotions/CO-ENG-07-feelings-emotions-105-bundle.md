@@ -4,19 +4,25 @@ country: co
 grado: 7
 asignatura: ingles
 tema: feelings-emotions
+periodo: 1
 cefr_level: A2+
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Feelings & Emotions (A2+)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-07-feelings-emotions-105-v1`
+
+
+**ID:** `CO-ENG-07-feelings-emotions-105-v1`
+
 ### Enunciado
 **I am so _______! I won the competition!**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-07-feelings-emotions-105-v2`
+
+
+**ID:** `CO-ENG-07-feelings-emotions-105-v2`
+
 ### Enunciado
 **How _______ she feel today?**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Vocabulary)
+**ID:** `CO-ENG-07-feelings-emotions-105-v3`
+
+
+**ID:** `CO-ENG-07-feelings-emotions-105-v3`
+
 ### Enunciado
 **The movie was too long. I felt _______.**
 ### Opciones
@@ -69,6 +85,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Conversation)
+**ID:** `CO-ENG-07-feelings-emotions-105-v4`
+
+
+**ID:** `CO-ENG-07-feelings-emotions-105-v4`
+
 ### Contexto
 **Person A:** "Are you okay? You look sad."
 **Person B:** "____________"
@@ -87,6 +108,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Vocabulary)
+**ID:** `CO-ENG-07-feelings-emotions-105-v5`
+
+
+**ID:** `CO-ENG-07-feelings-emotions-105-v5`
+
 ### Enunciado
 **When I have a lot of homework, I feel _______.**
 ### Opciones
@@ -102,6 +128,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Pragmatics)
+**ID:** `CO-ENG-07-feelings-emotions-105-v6`
+
+
+**ID:** `CO-ENG-07-feelings-emotions-105-v6`
+
 ### Contexto
 **Friend:** "I'm so sorry your dog is sick."
 ### Enunciado
@@ -119,6 +150,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Reading - Literal)
+**ID:** `CO-ENG-07-feelings-emotions-105-v7`
+
+
+**ID:** `CO-ENG-07-feelings-emotions-105-v7`
+
 ### Contexto
 **Text:** "Lucas was very excited because his father promised to take him to the circus on Sunday."
 ### Enunciado
@@ -136,6 +172,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar)
+**ID:** `CO-ENG-07-feelings-emotions-105-v8`
+
+
+**ID:** `CO-ENG-07-feelings-emotions-105-v8`
+
 ### Enunciado
 **They _______ very angry about the noise.**
 ### Opciones
@@ -151,6 +192,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Reading - Inferential)
+**ID:** `CO-ENG-07-feelings-emotions-105-v9`
+
+
+**ID:** `CO-ENG-07-feelings-emotions-105-v9`
+
 ### Contexto
 **Passage:** "Ana's hands were shaking and she couldn't remember her lines for the play."
 ### Enunciado
@@ -168,6 +214,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Cultural)
+**ID:** `CO-ENG-07-feelings-emotions-105-v10`
+
+
+**ID:** `CO-ENG-07-feelings-emotions-105-v10`
+
 ### Enunciado
 **Colombians feel very _______ of their coffee!**
 ### Opciones

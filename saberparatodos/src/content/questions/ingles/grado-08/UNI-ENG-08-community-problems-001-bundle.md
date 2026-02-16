@@ -4,6 +4,7 @@ country: global
 grado: 8
 asignatura: ingles
 tema: community-problems
+periodo: 1
 cefr_level: A2+
 protocol_version: 3.1-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Community Problems (Grade 8)
 
 > **Focus:** Neighborhood issues, volunteering, and civic duty.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Littering)
+**ID:** `UNI-ENG-08-community-problems-001-v1`
+
 ID: UNI-ENG-08-community-problems-001-v1
 
 ### Contexto
@@ -45,6 +48,8 @@ What is this called?
 ---
 
 ## Question 2 (Part 2 - Volunteering)
+**ID:** `UNI-ENG-08-community-problems-001-v2`
+
 ID: UNI-ENG-08-community-problems-001-v2
 
 ### Contexto
@@ -66,6 +71,8 @@ You are a...
 ---
 
 ## Question 3 (Part 3 - Vandalism)
+**ID:** `UNI-ENG-08-community-problems-001-v3`
+
 ID: UNI-ENG-08-community-problems-001-v3
 
 ### Contexto
@@ -87,6 +94,8 @@ What is this?
 ---
 
 ## Question 4 (Part 4 - Homelessness)
+**ID:** `UNI-ENG-08-community-problems-001-v4`
+
 ID: UNI-ENG-08-community-problems-001-v4
 
 ### Contexto
@@ -108,6 +117,8 @@ What do we call this issue?
 ---
 
 ## Question 5 (Part 5 - Noise Pollution)
+**ID:** `UNI-ENG-08-community-problems-001-v5`
+
 ID: UNI-ENG-08-community-problems-001-v5
 
 ### Contexto
@@ -129,6 +140,8 @@ This is a form of...
 ---
 
 ## Question 6 (Part 6 - Donation)
+**ID:** `UNI-ENG-08-community-problems-001-v6`
+
 ID: UNI-ENG-08-community-problems-001-v6
 
 ### Contexto
@@ -150,6 +163,8 @@ This act is a...
 ---
 
 ## Question 7 (Part 7 - Traffic)
+**ID:** `UNI-ENG-08-community-problems-001-v7`
+
 ID: UNI-ENG-08-community-problems-001-v7
 
 ### Contexto
@@ -171,6 +186,8 @@ What is this?
 ---
 
 ## Question 8 (Part 8 - Community Center)
+**ID:** `UNI-ENG-08-community-problems-001-v8`
+
 ID: UNI-ENG-08-community-problems-001-v8
 
 ### Contexto
@@ -192,6 +209,8 @@ What is this?
 ---
 
 ## Question 9 (Part 9 - Loitering)
+**ID:** `UNI-ENG-08-community-problems-001-v9`
+
 ID: UNI-ENG-08-community-problems-001-v9
 
 ### Contexto
@@ -213,6 +232,8 @@ What does it prohibit?
 ---
 
 ## Question 10 (Part 10 - Stray Animals)
+**ID:** `UNI-ENG-08-community-problems-001-v10`
+
 ID: UNI-ENG-08-community-problems-001-v10
 
 ### Contexto

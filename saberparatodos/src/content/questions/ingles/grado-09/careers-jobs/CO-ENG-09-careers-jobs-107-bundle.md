@@ -4,19 +4,25 @@ country: co
 grado: 9
 asignatura: ingles
 tema: careers-jobs
+periodo: 1
 cefr_level: B1+
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: Careers & Part-time Jobs (B1+)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-09-careers-jobs-107-v1`
+
+
+**ID:** `CO-ENG-09-careers-jobs-107-v1`
+
 ### Enunciado
 **A meeting in which someone asks you questions to see if you are suitable for a job is a _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-09-careers-jobs-107-v2`
+
+
+**ID:** `CO-ENG-09-careers-jobs-107-v2`
+
 ### Enunciado
 **I (1)_______ as a volunteer in a cafe next summer to (2)_______ some experience.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-09-careers-jobs-107-v3`
+
+
+**ID:** `CO-ENG-09-careers-jobs-107-v3`
+
 ### Contexto
 **Text:** "Many teenagers have part-time jobs on weekends. Common jobs include working as a waiter, delivering newspapers, or helping in a local shop. This helps them learn about responsibility and money management."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-09-careers-jobs-107-v4`
+
+
+**ID:** `CO-ENG-09-careers-jobs-107-v4`
+
 ### Enunciado
 **A document that lists your education and work experience is a _______.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-09-careers-jobs-107-v5`
+
+
+**ID:** `CO-ENG-09-careers-jobs-107-v5`
+
 ### Contexto
 **Employer:** "Tell me about a time you solved a problem at school."
 ### Enunciado
@@ -103,6 +129,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-09-careers-jobs-107-v6`
+
+
+**ID:** `CO-ENG-09-careers-jobs-107-v6`
+
 ### Contexto
 **Passage:** "With the rise of the internet, 'freelancing' has become very popular. People can now work for different companies from home without a long-term contract."
 ### Enunciado
@@ -120,6 +151,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-09-careers-jobs-107-v7`
+
+
+**ID:** `CO-ENG-09-careers-jobs-107-v7`
+
 ### Contexto
 **Student A:** "I want a job that pays a lot of money."
 **Student B:** "____________"
@@ -138,6 +174,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Modals)
+**ID:** `CO-ENG-09-careers-jobs-107-v8`
+
+
+**ID:** `CO-ENG-09-careers-jobs-107-v8`
+
 ### Enunciado
 **You _______ arrive on time for your job interview.**
 ### Opciones
@@ -153,6 +194,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-09-careers-jobs-107-v9`
+
+
+**ID:** `CO-ENG-09-careers-jobs-107-v9`
+
 ### Enunciado
 **The money someone earns for their work, usually paid monthly, is a _______.**
 ### Opciones
@@ -168,6 +214,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Critical Thinking)
+**ID:** `CO-ENG-09-careers-jobs-107-v10`
+
+
+**ID:** `CO-ENG-09-careers-jobs-107-v10`
+
 ### Contexto
 **Statement:** "In the future, many traditional jobs will be automated, but creative and interpersonal jobs will remain essential."
 ### Enunciado

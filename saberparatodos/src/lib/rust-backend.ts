@@ -3,7 +3,7 @@
  * Conecta el frontend Svelte con el servidor Rust local
  */
 
-import type { PartyConfig, WSMessage } from '../modules/party/types';
+import type { RoomConfig as PartyConfig, WSMessage } from '../modules/exam-room/types';
 
 interface RustBackendConfig {
   host: string;

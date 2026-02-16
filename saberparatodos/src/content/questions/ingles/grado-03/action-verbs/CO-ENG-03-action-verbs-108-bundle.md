@@ -4,19 +4,25 @@ country: co
 grado: 3
 asignatura: ingles
 tema: action-verbs
+periodo: 1
 cefr_level: A1
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: Action Verbs (Jump, Run, Eat) (A1)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-03-action-verbs-108-v1`
+
+
+**ID:** `CO-ENG-03-action-verbs-108-v1`
+
 ### Enunciado
 **When you are hungry, you _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-03-action-verbs-108-v2`
+
+
+**ID:** `CO-ENG-03-action-verbs-108-v2`
+
 ### Enunciado
 **I (1)_______ run very fast, but I (2)_______ fly.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-03-action-verbs-108-v3`
+
+
+**ID:** `CO-ENG-03-action-verbs-108-v3`
+
 ### Contexto
 **Text:** "Look at the frog. It can jump and swim. It can't fly. Frogs eat insects."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-03-action-verbs-108-v4`
+
+
+**ID:** `CO-ENG-03-action-verbs-108-v4`
+
 ### Enunciado
 **To move fast on your feet is to _______.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-03-action-verbs-108-v5`
+
+
+**ID:** `CO-ENG-03-action-verbs-108-v5`
+
 ### Contexto
 **Teacher:** "Everyone, please stand up!"
 **Students:** (All students stand up)
@@ -104,6 +130,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-03-action-verbs-108-v6`
+
+
+**ID:** `CO-ENG-03-action-verbs-108-v6`
+
 ### Contexto
 **Passage:** "Leo is in the kitchen. He has a glass of water and he is holding it to his mouth."
 ### Enunciado
@@ -121,6 +152,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-03-action-verbs-108-v7`
+
+
+**ID:** `CO-ENG-03-action-verbs-108-v7`
+
 ### Contexto
 **Person A:** "Can you jump high?"
 **Person B:** "____________"
@@ -139,6 +175,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Present Continuous Intro)
+**ID:** `CO-ENG-03-action-verbs-108-v8`
+
+
+**ID:** `CO-ENG-03-action-verbs-108-v8`
+
 ### Enunciado
 **Look! The dog (1)_______ (2)_______ in the park.**
 ### Opciones
@@ -154,6 +195,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-03-action-verbs-108-v9`
+
+
+**ID:** `CO-ENG-03-action-verbs-108-v9`
+
 ### Enunciado
 **When you are tired at night, you _______.**
 ### Opciones
@@ -169,6 +215,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Cultural)
+**ID:** `CO-ENG-03-action-verbs-108-v10`
+
+
+**ID:** `CO-ENG-03-action-verbs-108-v10`
+
 ### Enunciado
 **In Colombia, children love to play and _______ (run) in the parks during the weekends.**
 ### Opciones

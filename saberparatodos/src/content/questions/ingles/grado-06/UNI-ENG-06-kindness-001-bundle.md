@@ -4,6 +4,7 @@ country: global
 grado: 6
 asignatura: ingles
 tema: kindness
+periodo: 1
 cefr_level: A1+
 protocol_version: 3.1-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Kindness & Friendship (Grade 6)
 
 > **Focus:** Being nice, sharing, and helping others.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Sharing)
+**ID:** `UNI-ENG-06-kindness-001-v1`
+
 ID: UNI-ENG-06-kindness-001-v1
 
 ### Contexto
@@ -45,6 +48,8 @@ What is the kind thing to do?
 ---
 
 ## Question 2 (Part 2 - Helping)
+**ID:** `UNI-ENG-06-kindness-001-v2`
+
 ID: UNI-ENG-06-kindness-001-v2
 
 ### Contexto
@@ -66,6 +71,8 @@ What do you do?
 ---
 
 ## Question 3 (Part 3 - Words)
+**ID:** `UNI-ENG-06-kindness-001-v3`
+
 ID: UNI-ENG-06-kindness-001-v3
 
 ### Enunciado
@@ -84,6 +91,8 @@ Which words are "Magic Words"?
 ---
 
 ## Question 4 (Part 4 - Inclusion)
+**ID:** `UNI-ENG-06-kindness-001-v4`
+
 ID: UNI-ENG-06-kindness-001-v4
 
 ### Contexto
@@ -105,6 +114,8 @@ What should you say?
 ---
 
 ## Question 5 (Part 5 - Compliments)
+**ID:** `UNI-ENG-06-kindness-001-v5`
+
 ID: UNI-ENG-06-kindness-001-v5
 
 ### Enunciado
@@ -123,6 +134,8 @@ What is a **compliment**?
 ---
 
 ## Question 6 (Part 6 - Apologizing)
+**ID:** `UNI-ENG-06-kindness-001-v6`
+
 ID: UNI-ENG-06-kindness-001-v6
 
 ### Contexto
@@ -144,6 +157,8 @@ What do you say?
 ---
 
 ## Question 7 (Part 7 - Listening)
+**ID:** `UNI-ENG-06-kindness-001-v7`
+
 ID: UNI-ENG-06-kindness-001-v7
 
 ### Contexto
@@ -165,6 +180,8 @@ You should...
 ---
 
 ## Question 8 (Part 8 - Bullying)
+**ID:** `UNI-ENG-06-kindness-001-v8`
+
 ID: UNI-ENG-06-kindness-001-v8
 
 ### Enunciado
@@ -183,6 +200,8 @@ Is being mean to someone continuously creating a joke?
 ---
 
 ## Question 9 (Part 9 - Gratitude)
+**ID:** `UNI-ENG-06-kindness-001-v9`
+
 ID: UNI-ENG-06-kindness-001-v9
 
 ### Contexto
@@ -204,6 +223,8 @@ What do you say?
 ---
 
 ## Question 10 (Part 10 - Golden Rule)
+**ID:** `UNI-ENG-06-kindness-001-v10`
+
 ID: UNI-ENG-06-kindness-001-v10
 
 ### Contexto

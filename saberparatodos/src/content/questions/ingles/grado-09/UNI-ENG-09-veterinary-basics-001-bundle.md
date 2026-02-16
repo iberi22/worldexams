@@ -4,6 +4,7 @@ country: global
 grado: 9
 asignatura: ingles
 tema: veterinary-basics
+periodo: 1
 cefr_level: B1
 protocol_version: 3.1-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Veterinary Basics (Grade 9)
 
 > **Focus:** Anatomy, common diseases, and first aid.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Vaccine)
+**ID:** `UNI-ENG-09-veterinary-basics-001-v1`
+
 ID: UNI-ENG-09-veterinary-basics-001-v1
 
 ### Contexto
@@ -45,6 +48,8 @@ What is this?
 ---
 
 ## Question 2 (Part 2 - Parasites)
+**ID:** `UNI-ENG-09-veterinary-basics-001-v2`
+
 ID: UNI-ENG-09-veterinary-basics-001-v2
 
 ### Contexto
@@ -66,6 +71,8 @@ What are these?
 ---
 
 ## Question 3 (Part 3 - Sterilization)
+**ID:** `UNI-ENG-09-veterinary-basics-001-v3`
+
 ID: UNI-ENG-09-veterinary-basics-001-v3
 
 ### Contexto
@@ -87,6 +94,8 @@ Why do we do this?
 ---
 
 ## Question 4 (Part 4 - Rabies)
+**ID:** `UNI-ENG-09-veterinary-basics-001-v4`
+
 ID: UNI-ENG-09-veterinary-basics-001-v4
 
 ### Contexto
@@ -108,6 +117,8 @@ What is it?
 ---
 
 ## Question 5 (Part 5 - Anatomy)
+**ID:** `UNI-ENG-09-veterinary-basics-001-v5`
+
 ID: UNI-ENG-09-veterinary-basics-001-v5
 
 ### Contexto
@@ -129,6 +140,8 @@ What is a paw?
 ---
 
 ## Question 6 (Part 6 - Check-up)
+**ID:** `UNI-ENG-09-veterinary-basics-001-v6`
+
 ID: UNI-ENG-09-veterinary-basics-001-v6
 
 ### Enunciado
@@ -147,6 +160,8 @@ How often should a pet have a check-up?
 ---
 
 ## Question 7 (Part 7 - Herbivore vs Carnivore)
+**ID:** `UNI-ENG-09-veterinary-basics-001-v7`
+
 ID: UNI-ENG-09-veterinary-basics-001-v7
 
 ### Contexto
@@ -168,6 +183,8 @@ It is a...
 ---
 
 ## Question 8 (Part 8 - Zoonosis)
+**ID:** `UNI-ENG-09-veterinary-basics-001-v8`
+
 ID: UNI-ENG-09-veterinary-basics-001-v8
 
 ### Contexto
@@ -189,6 +206,8 @@ What is this called?
 ---
 
 ## Question 9 (Part 9 - Muzzle)
+**ID:** `UNI-ENG-09-veterinary-basics-001-v9`
+
 ID: UNI-ENG-09-veterinary-basics-001-v9
 
 ### Contexto
@@ -210,6 +229,8 @@ What is it?
 ---
 
 ## Question 10 (Part 10 - Microchip)
+**ID:** `UNI-ENG-09-veterinary-basics-001-v10`
+
 ID: UNI-ENG-09-veterinary-basics-001-v10
 
 ### Contexto

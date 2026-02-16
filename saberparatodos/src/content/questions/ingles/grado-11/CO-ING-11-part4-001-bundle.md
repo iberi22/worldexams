@@ -5,7 +5,7 @@ grado: 11
 asignatura: "ingles"
 tema: "grammar-cloze"
 
-total_questions: 11
+total_questions: 7
 estado: "published"
 creador: "Jules"
 generation_date: "2025-12-14"

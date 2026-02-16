@@ -4,6 +4,7 @@ country: global
 grado: 7
 asignatura: ingles
 tema: world-festivals
+periodo: 1
 cefr_level: A2
 protocol_version: 3.2-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: World Festivals (Grade 7)
 
 > **Focus:** New Year, Diwali, Carnival, and Thanks.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - New Year)
+**ID:** `UNI-ENG-07-world-festivals-001-v1`
+
 ID: UNI-ENG-07-world-festivals-001-v1
 
 ### Enunciado
@@ -42,6 +45,8 @@ Which celebration happens on December 31st / January 1st?
 ---
 
 ## Question 2 (Part 2 - Carnival)
+**ID:** `UNI-ENG-07-world-festivals-001-v2`
+
 ID: UNI-ENG-07-world-festivals-001-v2
 
 ### Contexto
@@ -63,6 +68,8 @@ It is...
 ---
 
 ## Question 3 (Part 3 - Halloween)
+**ID:** `UNI-ENG-07-world-festivals-001-v3`
+
 ID: UNI-ENG-07-world-festivals-001-v3
 
 ### Enunciado
@@ -81,6 +88,8 @@ On October 31st, children wear costumes and say...
 ---
 
 ## Question 4 (Part 4 - Diwali)
+**ID:** `UNI-ENG-07-world-festivals-001-v4`
+
 ID: UNI-ENG-07-world-festivals-001-v4
 
 ### Contexto
@@ -102,6 +111,8 @@ It is called...
 ---
 
 ## Question 5 (Part 5 - Thanksgiving)
+**ID:** `UNI-ENG-07-world-festivals-001-v5`
+
 ID: UNI-ENG-07-world-festivals-001-v5
 
 ### Contexto
@@ -123,6 +134,8 @@ It is...
 ---
 
 ## Question 6 (Part 6 - Fireworks)
+**ID:** `UNI-ENG-07-world-festivals-001-v6`
+
 ID: UNI-ENG-07-world-festivals-001-v6
 
 ### Enunciado
@@ -141,6 +154,8 @@ Explosive lights in the sky used for celebrations.
 ---
 
 ## Question 7 (Part 7 - Parade)
+**ID:** `UNI-ENG-07-world-festivals-001-v7`
+
 ID: UNI-ENG-07-world-festivals-001-v7
 
 ### Enunciado
@@ -159,6 +174,8 @@ People walking and dancing in the street in a line.
 ---
 
 ## Question 8 (Part 8 - Lantern)
+**ID:** `UNI-ENG-07-world-festivals-001-v8`
+
 ID: UNI-ENG-07-world-festivals-001-v8
 
 ### Contexto
@@ -180,6 +197,8 @@ It is a Sky...
 ---
 
 ## Question 9 (Part 9 - Valentine)
+**ID:** `UNI-ENG-07-world-festivals-001-v9`
+
 ID: UNI-ENG-07-world-festivals-001-v9
 
 ### Enunciado
@@ -198,6 +217,8 @@ February 14th is the day of Love and Friendship, known as...
 ---
 
 ## Question 10 (Part 10 - Costume)
+**ID:** `UNI-ENG-07-world-festivals-001-v10`
+
 ID: UNI-ENG-07-world-festivals-001-v10
 
 ### Enunciado

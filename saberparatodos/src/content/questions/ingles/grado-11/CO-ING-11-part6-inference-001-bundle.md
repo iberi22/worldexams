@@ -39,6 +39,8 @@ original_answer: "To pursue meaningful experience over money."
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
+**ID:** `CO-ING-11-part6-inference-001-v1`
+
 
 **ID:** `CO-ING-11-part6-inference-001-v1`
 
@@ -63,6 +65,8 @@ El texto dice que soñaba viajar ("dreamed of traveling") y contrastó su estabi
 ---
 
 ## Pregunta 2 (Fácil A - Dificultad 1)
+**ID:** `CO-ING-11-part6-inference-001-v2`
+
 
 **ID:** `CO-ING-11-part6-inference-001-v2`
 
@@ -84,6 +88,8 @@ El texto dice explícitamente: "The program was **unpaid**, but it **covered acc
 ---
 
 ## Pregunta 3 (Fácil B - Dificultad 2)
+**ID:** `CO-ING-11-part6-inference-001-v3`
+
 
 **ID:** `CO-ING-11-part6-inference-001-v3`
 
@@ -105,6 +111,8 @@ El texto menciona: "browsing **online**, she saw an advertisement". Online signi
 ---
 
 ## Pregunta 4 (Media A - Dificultad 3)
+**ID:** `CO-ING-11-part6-inference-001-v4`
+
 
 **ID:** `CO-ING-11-part6-inference-001-v4`
 
@@ -126,6 +134,8 @@ El texto menciona: "browsing **online**, she saw an advertisement". Online signi
 ---
 
 ## Pregunta 5 (Media B - Dificultad 3)
+**ID:** `CO-ING-11-part6-inference-001-v5`
+
 
 **ID:** `CO-ING-11-part6-inference-001-v5`
 
@@ -147,6 +157,8 @@ Dejar la seguridad financiera ("stability") por "adventure and purpose" y un tra
 ---
 
 ## Pregunta 6 (Difícil A - Dificultad 4)
+**ID:** `CO-ING-11-part6-inference-001-v6`
+
 
 **ID:** `CO-ING-11-part6-inference-001-v6`
 
@@ -168,6 +180,8 @@ El foco narrativo está en la **transición** y la **toma de decisión** de Mari
 ---
 
 ## Pregunta 7 (Difícil B - Dificultad 5)
+**ID:** `CO-ING-11-part6-inference-001-v7`
+
 
 **ID:** `CO-ING-11-part6-inference-001-v7`
 

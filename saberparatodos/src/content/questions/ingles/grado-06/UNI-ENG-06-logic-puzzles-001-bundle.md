@@ -4,6 +4,7 @@ country: global
 grado: 6
 asignatura: ingles
 tema: logic-puzzles
+periodo: 1
 cefr_level: A1+
 protocol_version: 3.1-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Logic Puzzles & Mysteries (A1 Challenge)
 
 > **Analysis:** This bundle tests "Difficulty 4-5" (Analysis/Synthesis) using "Level A1" vocabulary. It is structurally simple but cognitively demanding.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Logic Matching - Difficulty 4)
+**ID:** `UNI-ENG-06-logic-puzzles-001-v1`
+
 ID: UNI-ENG-06-logic-puzzles-001-v1
 
 ### Contexto
@@ -48,6 +51,8 @@ What is it?
 ---
 
 ## Question 2 (Part 2 - Spatial Logic - Difficulty 5)
+**ID:** `UNI-ENG-06-logic-puzzles-001-v2`
+
 ID: UNI-ENG-06-logic-puzzles-001-v2
 
 ### Contexto
@@ -70,6 +75,8 @@ Where is the box?
 ---
 
 ## Question 3 (Part 3 - Sequencing - Difficulty 4)
+**ID:** `UNI-ENG-06-logic-puzzles-001-v3`
+
 ID: UNI-ENG-06-logic-puzzles-001-v3
 
 ### Contexto
@@ -94,6 +101,8 @@ John wakes up at 7:40 AM. What did he miss?
 ---
 
 ## Question 4 (Part 4 - Classification - Difficulty 4)
+**ID:** `UNI-ENG-06-logic-puzzles-001-v4`
+
 ID: UNI-ENG-06-logic-puzzles-001-v4
 
 ### Contexto
@@ -115,6 +124,8 @@ Which word is the odd one out? (Does not belong).
 ---
 
 ## Question 5 (Part 5 - Family Logic - Difficulty 5)
+**ID:** `UNI-ENG-06-logic-puzzles-001-v5`
+
 ID: UNI-ENG-06-logic-puzzles-001-v5
 
 ### Contexto
@@ -137,6 +148,8 @@ Who is the man?
 ---
 
 ## Question 6 (Part 6 - Inference A1 - Difficulty 5)
+**ID:** `UNI-ENG-06-logic-puzzles-001-v6`
+
 ID: UNI-ENG-06-logic-puzzles-001-v6
 
 ### Contexto
@@ -159,6 +172,8 @@ What season is it?
 ---
 
 ## Question 7 (Part 7 - Mathematical Logic - Difficulty 4)
+**ID:** `UNI-ENG-06-logic-puzzles-001-v7`
+
 ID: UNI-ENG-06-logic-puzzles-001-v7
 
 ### Contexto
@@ -181,6 +196,8 @@ How many pencils do I have now?
 ---
 
 ## Question 8 (Part 8 - Emotional Inference - Difficulty 5)
+**ID:** `UNI-ENG-06-logic-puzzles-001-v8`
+
 ID: UNI-ENG-06-logic-puzzles-001-v8
 
 ### Contexto
@@ -203,6 +220,8 @@ How does Tom feel?
 ---
 
 ## Question 9 (Part 9 - Cloze Logic - Difficulty 4)
+**ID:** `UNI-ENG-06-logic-puzzles-001-v9`
+
 ID: UNI-ENG-06-logic-puzzles-001-v9
 
 ### Contexto
@@ -225,6 +244,8 @@ Choose the logical object.
 ---
 
 ## Question 10 (Part 10 - True/False Logic - Difficulty 5)
+**ID:** `UNI-ENG-06-logic-puzzles-001-v10`
+
 ID: UNI-ENG-06-logic-puzzles-001-v10
 
 ### Contexto

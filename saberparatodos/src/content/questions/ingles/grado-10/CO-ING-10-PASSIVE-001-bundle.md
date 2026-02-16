@@ -1,10 +1,12 @@
 ---
+
 id: CO-ING-10-PASSIVE-001
 country: co
 grado: 10
 asignatura: Inglés
 tema: Passive Voice
-protocol_version: '3.0'
+periodo: 1
+protocol_version: 2.1
 total_questions: 11
 estado: published
 creador: Antigravity AI
@@ -21,6 +23,7 @@ bundle_version: '2.0'
 dificultad: 3
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
+
 ---
 
 # Pregunta Base: The Light Bulb
@@ -32,6 +35,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
+**ID:** `CO-ING-10-PASSIVE-001-v1`
+
 
 **ID:** `CO-ING-10-PASSIVE-001-v1`
 
@@ -51,6 +56,8 @@ In the Passive Voice sentence, the focus is on:
 ---
 
 ## Pregunta 2 (Fácil A - Dificultad 1)
+**ID:** `CO-ING-10-PASSIVE-001-v2`
+
 
 **ID:** `CO-ING-10-PASSIVE-001-v2`
 
@@ -70,6 +77,8 @@ The structure of Passive Voice is:
 ---
 
 ## Pregunta 3 (Fácil B - Dificultad 2)
+**ID:** `CO-ING-10-PASSIVE-001-v3`
+
 
 **ID:** `CO-ING-10-PASSIVE-001-v3`
 
@@ -89,6 +98,8 @@ Convert to Passive: *"People speak Spanish in Colombia."*
 ---
 
 ## Pregunta 4 (Media A - Dificultad 3)
+**ID:** `CO-ING-10-PASSIVE-001-v4`
+
 
 **ID:** `CO-ING-10-PASSIVE-001-v4`
 
@@ -108,6 +119,8 @@ What is the Past Participle of "Write"?
 ---
 
 ## Pregunta 5 (Media B - Dificultad 3)
+**ID:** `CO-ING-10-PASSIVE-001-v5`
+
 
 **ID:** `CO-ING-10-PASSIVE-001-v5`
 
@@ -127,6 +140,8 @@ What is the Past Participle of "Write"?
 ---
 
 ## Pregunta 6 (Difícil A - Dificultad 4)
+**ID:** `CO-ING-10-PASSIVE-001-v6`
+
 
 **ID:** `CO-ING-10-PASSIVE-001-v6`
 
@@ -146,6 +161,8 @@ What is the Past Participle of "Write"?
 ---
 
 ## Pregunta 7 (Difícil B - Dificultad 5)
+**ID:** `CO-ING-10-PASSIVE-001-v7`
+
 
 **ID:** `CO-ING-10-PASSIVE-001-v7`
 
@@ -165,6 +182,8 @@ If we want to mention the person doing the action in a passive sentence, we use 
 ---
 
 ## Pregunta 8 (Extra 1 - Dificultad 4)
+**ID:** `CO-ING-10-PASSIVE-001-v8`
+
 
 **ID:** `CO-ING-10-PASSIVE-001-v8`
 
@@ -184,6 +203,8 @@ Change to Passive: *"They will build a bridge."*
 ---
 
 ## Pregunta 9 (Extra 2 - Dificultad 2)
+**ID:** `CO-ING-10-PASSIVE-001-v9`
+
 
 **ID:** `CO-ING-10-PASSIVE-001-v9`
 
@@ -203,6 +224,8 @@ Correct the mistake: *"The window was breaked."*
 ---
 
 ## Pregunta 10 (Extra 3 - Dificultad 5)
+**ID:** `CO-ING-10-PASSIVE-001-v10`
+
 
 **ID:** `CO-ING-10-PASSIVE-001-v10`
 
@@ -222,6 +245,8 @@ Active or Passive? *"My bike was stolen."*
 ---
 
 ## Pregunta 11 (Extra 4 - Dificultad 3)
+**ID:** `CO-ING-10-PASSIVE-001-v11`
+
 
 **ID:** `CO-ING-10-PASSIVE-001-v11`
 

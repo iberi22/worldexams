@@ -4,6 +4,7 @@ country: global
 grado: 3
 asignatura: ingles
 tema: home-safety
+periodo: 1
 cefr_level: A1
 protocol_version: 3.1-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Home Safety (Grade 3)
 
 > **Focus:** Common home hazards: hot objects, electricity, falls, and strangers.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - The Stove)
+**ID:** `UNI-ENG-03-home-safety-001-v1`
+
 ID: UNI-ENG-03-home-safety-001-v1
 
 ### Enunciado
@@ -42,6 +45,8 @@ The stove is **hot**. Do not...
 ---
 
 ## Question 2 (Part 2 - Electricity)
+**ID:** `UNI-ENG-03-home-safety-001-v2`
+
 ID: UNI-ENG-03-home-safety-001-v2
 
 ### Enunciado
@@ -60,6 +65,8 @@ Never stick a _____ into an electrical outlet (socket).
 ---
 
 ## Question 3 (Part 3 - Stairs)
+**ID:** `UNI-ENG-03-home-safety-001-v3`
+
 ID: UNI-ENG-03-home-safety-001-v3
 
 ### Enunciado
@@ -78,6 +85,8 @@ Do not run on the...
 ---
 
 ## Question 4 (Part 4 - Knife)
+**ID:** `UNI-ENG-03-home-safety-001-v4`
+
 ID: UNI-ENG-03-home-safety-001-v4
 
 ### Enunciado
@@ -96,6 +105,8 @@ Knives are...
 ---
 
 ## Question 5 (Part 5 - Fire)
+**ID:** `UNI-ENG-03-home-safety-001-v5`
+
 ID: UNI-ENG-03-home-safety-001-v5
 
 ### Enunciado
@@ -114,6 +125,8 @@ Do not play with...
 ---
 
 ## Question 6 (Part 6 - Spills)
+**ID:** `UNI-ENG-03-home-safety-001-v6`
+
 ID: UNI-ENG-03-home-safety-001-v6
 
 ### Enunciado
@@ -132,6 +145,8 @@ If you spill water on the floor, you might...
 ---
 
 ## Question 7 (Part 7 - Medicine)
+**ID:** `UNI-ENG-03-home-safety-001-v7`
+
 ID: UNI-ENG-03-home-safety-001-v7
 
 ### Enunciado
@@ -150,6 +165,8 @@ Pills look like candy, but they are...
 ---
 
 ## Question 8 (Part 8 - Stranger at Door)
+**ID:** `UNI-ENG-03-home-safety-001-v8`
+
 ID: UNI-ENG-03-home-safety-001-v8
 
 ### Contexto
@@ -171,6 +188,8 @@ Do you open it?
 ---
 
 ## Question 9 (Part 9 - Bath)
+**ID:** `UNI-ENG-03-home-safety-001-v9`
+
 ID: UNI-ENG-03-home-safety-001-v9
 
 ### Enunciado
@@ -189,6 +208,8 @@ Be careful not to fall in the bathtub because it is...
 ---
 
 ## Question 10 (Part 10 - Emergency)
+**ID:** `UNI-ENG-03-home-safety-001-v10`
+
 ID: UNI-ENG-03-home-safety-001-v10
 
 ### Enunciado

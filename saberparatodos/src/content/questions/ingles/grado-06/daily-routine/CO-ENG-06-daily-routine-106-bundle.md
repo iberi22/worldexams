@@ -4,19 +4,25 @@ country: co
 grado: 6
 asignatura: ingles
 tema: daily-routine
+periodo: 1
 cefr_level: A2
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: My Daily Routine (A2)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-06-daily-routine-106-v1`
+
+
+**ID:** `CO-ENG-06-daily-routine-106-v1`
+
 ### Enunciado
 **I _______ at 6:00 AM every morning.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-06-daily-routine-106-v2`
+
+
+**ID:** `CO-ENG-06-daily-routine-106-v2`
+
 ### Enunciado
 **She (1)_______ her breakfast at 7:30, and then she (2)_______ to school.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-06-daily-routine-106-v3`
+
+
+**ID:** `CO-ENG-06-daily-routine-106-v3`
+
 ### Contexto
 **Text:** "Marco is a student. He gets up early. He has a shower at 6:15 and eats cereal for breakfast. He leaves his house at 6:45 to catch the bus."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-06-daily-routine-106-v4`
+
+
+**ID:** `CO-ENG-06-daily-routine-106-v4`
+
 ### Enunciado
 **After school, I usually _______ with my friends.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-06-daily-routine-106-v5`
+
+
+**ID:** `CO-ENG-06-daily-routine-106-v5`
+
 ### Contexto
 **Mother:** "It's 9:00 PM. Time to go to bed!"
 **Son:** "Just five more minutes, please? I'm almost finished with my game."
@@ -104,6 +130,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-06-daily-routine-106-v6`
+
+
+**ID:** `CO-ENG-06-daily-routine-106-v6`
+
 ### Contexto
 **Passage:** "Sofia puts on her pajamas and brushes her teeth. She looks at the moon through her window and turns off the lamp."
 ### Enunciado
@@ -121,6 +152,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-06-daily-routine-106-v7`
+
+
+**ID:** `CO-ENG-06-daily-routine-106-v7`
+
 ### Contexto
 **Friend:** "What do you do in the afternoon?"
 **You:** "____________"
@@ -139,6 +175,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Time)
+**ID:** `CO-ENG-06-daily-routine-106-v8`
+
+
+**ID:** `CO-ENG-06-daily-routine-106-v8`
+
 ### Enunciado
 **We have lunch (1)_______ 12:30 PM (2)_______ the afternoon.**
 ### Opciones
@@ -154,6 +195,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-06-daily-routine-106-v9`
+
+
+**ID:** `CO-ENG-06-daily-routine-106-v9`
+
 ### Enunciado
 **The activity of cleaning your body with water and soap is _______.**
 ### Opciones
@@ -169,6 +215,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Cultural)
+**ID:** `CO-ENG-06-daily-routine-106-v10`
+
+
+**ID:** `CO-ENG-06-daily-routine-106-v10`
+
 ### Enunciado
 **In many Colombian schools, students _______ a uniform every day.**
 ### Opciones

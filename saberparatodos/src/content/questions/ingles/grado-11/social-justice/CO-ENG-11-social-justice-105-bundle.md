@@ -6,6 +6,7 @@ asignatura: ingles
 tema: social-justice
 cefr_level: B2/C1
 protocol_version: 3.1-COL-Bilingual
+periodo: 1
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
@@ -17,6 +18,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Vocabulary)
+**ID:** `CO-ENG-11-social-justice-105-v1`
+
 ### Enunciado
 **Equal treatment regardless of background is called:**
 ### Opciones
@@ -39,6 +42,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Part 2 - Pragmatics)
+**ID:** `CO-ENG-11-social-justice-105-v2`
+
 ### Contexto
 **Sign:** "This space respects all identities. Discrimination will not be tolerated."
 ### Enunciado
@@ -56,6 +61,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Part 3 - Conversation)
+**ID:** `CO-ENG-11-social-justice-105-v3`
+
 ### Contexto
 **Someone says:** "Women shouldn't have jobs, they should stay home."
 **You:** "____________"
@@ -74,6 +81,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Part 4 - Grammar)
+**ID:** `CO-ENG-11-social-justice-105-v4`
+
 ### Contexto
 "If everyone (1)______ access to education, society (2)______ more prosperous."
 ### Enunciado
@@ -91,6 +100,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Part 5 - Literal Reading)
+**ID:** `CO-ENG-11-social-justice-105-v5`
+
 ### Contexto
 **Text:** "The Universal Declaration of Human Rights was adopted by the UN in 1948. It contains 30 articles outlining fundamental human rights."
 ### Enunciado
@@ -108,6 +119,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Part 6 - Inferential)
+**ID:** `CO-ENG-11-social-justice-105-v6`
+
 ### Contexto
 **Passage:** "Privilege is often invisible to those who have it. A fish doesn't notice the water it swims in. Similarly, those born into advantage may not see the systems that benefit them while disadvantaging others."
 ### Enunciado
@@ -125,6 +138,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Part 7 - Advanced Grammar)
+**ID:** `CO-ENG-11-social-justice-105-v7`
+
 ### Contexto
 "(1)______ the protests, the government (2)______ to address systemic inequality."
 ### Enunciado
@@ -142,6 +157,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Challenge - C1 Vocabulary)
+**ID:** `CO-ENG-11-social-justice-105-v8`
+
 ### Enunciado
 **"Systemic racism" means:**
 ### Opciones
@@ -157,6 +174,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Challenge - Use of English)
+**ID:** `CO-ENG-11-social-justice-105-v9`
+
 ### Contexto
 **Original:** "People should respect human rights."
 **Rewrite:** *HUMAN RIGHTS...*
@@ -175,6 +194,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Challenge - Critical Thinking)
+**ID:** `CO-ENG-11-social-justice-105-v10`
+
 ### Contexto
 **Quote (MLK):** "Injustice anywhere is a threat to justice everywhere."
 ### Enunciado

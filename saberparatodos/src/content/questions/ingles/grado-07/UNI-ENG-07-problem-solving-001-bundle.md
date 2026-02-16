@@ -4,6 +4,7 @@ country: global
 grado: 7
 asignatura: ingles
 tema: problem-solving
+periodo: 1
 cefr_level: A2
 protocol_version: 3.1-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Problem Solving & Sequencing (A2 Challenge)
 
 > **Analysis:** Difficulty 4-5 questions requiring multi-step logic using A2 vocabulary.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Spatial Directions - Difficulty 4)
+**ID:** `UNI-ENG-07-problem-solving-001-v1`
+
 ID: UNI-ENG-07-problem-solving-001-v1
 
 ### Contexto
@@ -49,6 +52,8 @@ Where are you?
 ---
 
 ## Question 2 (Part 2 - Time Management - Difficulty 5)
+**ID:** `UNI-ENG-07-problem-solving-001-v2`
+
 ID: UNI-ENG-07-problem-solving-001-v2
 
 ### Contexto
@@ -74,6 +79,8 @@ Do they have enough time to get to dinner?
 ---
 
 ## Question 3 (Part 3 - Logical Inference - Difficulty 4)
+**ID:** `UNI-ENG-07-problem-solving-001-v3`
+
 ID: UNI-ENG-07-problem-solving-001-v3
 
 ### Contexto
@@ -96,6 +103,8 @@ Which pet is best for Sarah?
 ---
 
 ## Question 4 (Part 4 - Cause and Effect - Difficulty 5)
+**ID:** `UNI-ENG-07-problem-solving-001-v4`
+
 ID: UNI-ENG-07-problem-solving-001-v4
 
 ### Contexto
@@ -118,6 +127,8 @@ What implies the cause?
 ---
 
 ## Question 5 (Part 5 - Social Logic - Difficulty 5)
+**ID:** `UNI-ENG-07-problem-solving-001-v5`
+
 ID: UNI-ENG-07-problem-solving-001-v5
 
 ### Contexto
@@ -140,6 +151,8 @@ What is the writer doing?
 ---
 
 ## Question 6 (Part 6 - Numerical Logic - Difficulty 4)
+**ID:** `UNI-ENG-07-problem-solving-001-v6`
+
 ID: UNI-ENG-07-problem-solving-001-v6
 
 ### Contexto
@@ -165,6 +178,8 @@ How much do you save with the deal?
 ---
 
 ## Question 7 (Part 7 - Categorization - Difficulty 4)
+**ID:** `UNI-ENG-07-problem-solving-001-v7`
+
 ID: UNI-ENG-07-problem-solving-001-v7
 
 ### Enunciado
@@ -183,6 +198,8 @@ Which item does NOT belong in the suitcase for a beach holiday?
 ---
 
 ## Question 8 (Part 8 - Conditional Logic - Difficulty 5)
+**ID:** `UNI-ENG-07-problem-solving-001-v8`
+
 ID: UNI-ENG-07-problem-solving-001-v8
 
 ### Contexto
@@ -205,6 +222,8 @@ Tom finished his homework but his room is messy. Can he watch TV?
 ---
 
 ## Question 9 (Part 9 - Visual Deduction - Difficulty 4)
+**ID:** `UNI-ENG-07-problem-solving-001-v9`
+
 ID: UNI-ENG-07-problem-solving-001-v9
 
 ### Contexto
@@ -227,6 +246,8 @@ What is it?
 ---
 
 ## Question 10 (Part 10 - Persuasion Detection - Difficulty 5)
+**ID:** `UNI-ENG-07-problem-solving-001-v10`
+
 ID: UNI-ENG-07-problem-solving-001-v10
 
 ### Contexto

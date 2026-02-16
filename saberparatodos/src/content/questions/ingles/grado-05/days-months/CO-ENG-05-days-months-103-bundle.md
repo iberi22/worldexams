@@ -4,19 +4,25 @@ country: co
 grado: 5
 asignatura: ingles
 tema: days-months
+periodo: 1
 cefr_level: A1+
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Days & Months (A1+)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-05-days-months-103-v1`
+
+
+**ID:** `CO-ENG-05-days-months-103-v1`
+
 ### Enunciado
 **The first day of the week is _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Vocabulary)
+**ID:** `CO-ENG-05-days-months-103-v2`
+
+
+**ID:** `CO-ENG-05-days-months-103-v2`
+
 ### Enunciado
 **The day after Friday is _______.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Vocabulary)
+**ID:** `CO-ENG-05-days-months-103-v3`
+
+
+**ID:** `CO-ENG-05-days-months-103-v3`
+
 ### Enunciado
 **There are _______ months in a year.**
 ### Opciones
@@ -69,6 +85,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-05-days-months-103-v4`
+
+
+**ID:** `CO-ENG-05-days-months-103-v4`
+
 ### Enunciado
 **The last month of the year is _______.**
 ### Opciones
@@ -84,6 +105,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Grammar)
+**ID:** `CO-ENG-05-days-months-103-v5`
+
+
+**ID:** `CO-ENG-05-days-months-103-v5`
+
 ### Enunciado
 **My birthday is _______ March.**
 ### Opciones
@@ -99,6 +125,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Reading - Literal)
+**ID:** `CO-ENG-05-days-months-103-v6`
+
+
+**ID:** `CO-ENG-05-days-months-103-v6`
+
 ### Contexto
 **Text:** "Next Tuesday is July 20th. It is a holiday in Colombia. We don't go to school on that day."
 ### Enunciado
@@ -116,6 +147,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-05-days-months-103-v7`
+
+
+**ID:** `CO-ENG-05-days-months-103-v7`
+
 ### Contexto
 **Person A:** "What is today's date?"
 **Person B:** "____________"
@@ -134,6 +170,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Vocabulary)
+**ID:** `CO-ENG-05-days-months-103-v8`
+
+
+**ID:** `CO-ENG-05-days-months-103-v8`
+
 ### Enunciado
 **The weekend is _______ and _______.**
 ### Opciones
@@ -149,6 +190,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Reading - Inferential)
+**ID:** `CO-ENG-05-days-months-103-v9`
+
+
+**ID:** `CO-ENG-05-days-months-103-v9`
+
 ### Contexto
 **Passage:** "Tomorrow is the first of January. People are celebrating and watching fireworks."
 ### Enunciado
@@ -166,6 +212,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Cultural)
+**ID:** `CO-ENG-05-days-months-103-v10`
+
+
+**ID:** `CO-ENG-05-days-months-103-v10`
+
 ### Enunciado
 **In Colombia, _______ is the month when we celebrate 'Amor y Amistad'.**
 ### Opciones

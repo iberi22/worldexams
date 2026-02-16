@@ -4,19 +4,25 @@ country: co
 grado: 7
 asignatura: ingles
 tema: home-family
+periodo: 1
 cefr_level: A2+
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: Home & Family Dynamics (A2+)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-07-home-family-107-v1`
+
+
+**ID:** `CO-ENG-07-home-family-107-v1`
+
 ### Enunciado
 **The room where you cook food is the _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-07-home-family-107-v2`
+
+
+**ID:** `CO-ENG-07-home-family-107-v2`
+
 ### Enunciado
 **My mother (1)_______ the dinner while I (2)_______ the table.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-07-home-family-107-v3`
+
+
+**ID:** `CO-ENG-07-home-family-107-v3`
+
 ### Contexto
 **Text:** "In my house, everyone has chores. I clean my room, my brother washes the dishes, and my parents do the laundry."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-07-home-family-107-v4`
+
+
+**ID:** `CO-ENG-07-home-family-107-v4`
+
 ### Enunciado
 **Your mother's sister is your _______.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-07-home-family-107-v5`
+
+
+**ID:** `CO-ENG-07-home-family-107-v5`
+
 ### Contexto
 **Father:** "Could you please help me take out the trash?"
 **You:** "I'm busy right now, but I can do it in ten minutes."
@@ -104,6 +130,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-07-home-family-107-v6`
+
+
+**ID:** `CO-ENG-07-home-family-107-v6`
+
 ### Contexto
 **Passage:** "Every Sunday, my whole family gathers at my grandmother's house. We eat a big lunch and talk for hours. It's the most important day of the week for us."
 ### Enunciado
@@ -121,6 +152,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-07-home-family-107-v7`
+
+
+**ID:** `CO-ENG-07-home-family-107-v7`
+
 ### Contexto
 **Friend:** "Do you live in a house or an apartment?"
 **You:** "____________"
@@ -139,6 +175,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Frequency Adverbs)
+**ID:** `CO-ENG-07-home-family-107-v8`
+
+
+**ID:** `CO-ENG-07-home-family-107-v8`
+
 ### Enunciado
 **We (1)_______ have lunch together on weekdays because my parents (2)_______ at work.**
 ### Opciones
@@ -154,6 +195,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-07-home-family-107-v9`
+
+
+**ID:** `CO-ENG-07-home-family-107-v9`
+
 ### Enunciado
 **A soft, comfortable piece of furniture for three or more people to sit on in the living room is a _______.**
 ### Opciones
@@ -169,6 +215,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Cultural)
+**ID:** `CO-ENG-07-home-family-107-v10`
+
+
+**ID:** `CO-ENG-07-home-family-107-v10`
+
 ### Enunciado
 **In Colombia, it is very common for children to live with their parents until they are _______ (20s or 30s).**
 ### Opciones

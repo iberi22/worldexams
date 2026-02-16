@@ -4,19 +4,25 @@ country: co
 grado: 3
 asignatura: ingles
 tema: numbers-20
+periodo: 1
 cefr_level: A1
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: Numbers 11-20 (A1)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-03-numbers-20-106-v1`
+
+
+**ID:** `CO-ENG-03-numbers-20-106-v1`
+
 ### Enunciado
 **The number after ten is _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-03-numbers-20-106-v2`
+
+
+**ID:** `CO-ENG-03-numbers-20-106-v2`
+
 ### Enunciado
 **I have (1)_______ fingers and ten (2)_______ on my feet.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-03-numbers-20-106-v3`
+
+
+**ID:** `CO-ENG-03-numbers-20-106-v3`
+
 ### Contexto
 **Text:** "There are fifteen apples in the basket. Seven are red and eight are green."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-03-numbers-20-106-v4`
+
+
+**ID:** `CO-ENG-03-numbers-20-106-v4`
+
 ### Enunciado
 **Wait! Ten plus ten is _______.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-03-numbers-20-106-v5`
+
+
+**ID:** `CO-ENG-03-numbers-20-106-v5`
+
 ### Contexto
 **Teacher:** "Please count from eleven to fifteen."
 **Student:** "Eleven, twelve, thirteen, fourteen, fifteen."
@@ -104,6 +130,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-03-numbers-20-106-v6`
+
+
+**ID:** `CO-ENG-03-numbers-20-106-v6`
+
 ### Contexto
 **Passage:** "There are twelve eggs in a box. I take one and cook it for breakfast. Now there are eleven eggs."
 ### Enunciado
@@ -121,6 +152,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-03-numbers-20-106-v7`
+
+
+**ID:** `CO-ENG-03-numbers-20-106-v7`
+
 ### Contexto
 **Friend:** "How many pencils do you have?"
 **You:** "____________"
@@ -139,6 +175,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Plurals)
+**ID:** `CO-ENG-03-numbers-20-106-v8`
+
+
+**ID:** `CO-ENG-03-numbers-20-106-v8`
+
 ### Enunciado
 **One book, but (1)_______ (2)_______.**
 ### Opciones
@@ -154,6 +195,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-03-numbers-20-106-v9`
+
+
+**ID:** `CO-ENG-03-numbers-20-106-v9`
+
 ### Enunciado
 **The number 14 in English is _______.**
 ### Opciones
@@ -169,6 +215,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Cultural)
+**ID:** `CO-ENG-03-numbers-20-106-v10`
+
+
+**ID:** `CO-ENG-03-numbers-20-106-v10`
+
 ### Enunciado
 **In Colombia, children usually leave primary school when they are about _______ years old.**
 ### Opciones

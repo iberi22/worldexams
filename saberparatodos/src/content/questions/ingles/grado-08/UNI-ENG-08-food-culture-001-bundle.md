@@ -4,6 +4,7 @@ country: global
 grado: 8
 asignatura: ingles
 tema: food-culture
+periodo: 1
 cefr_level: A2+
 protocol_version: 3.2-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Food Culture (Grade 8)
 
 > **Focus:** International dishes, Spices, and Customs.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Sushi)
+**ID:** `UNI-ENG-08-food-culture-001-v1`
+
 ID: UNI-ENG-08-food-culture-001-v1
 
 ### Enunciado
@@ -42,6 +45,8 @@ A traditional Japanese dish made of varying ingredients (raw fish) and rice.
 ---
 
 ## Question 2 (Part 2 - Spicy)
+**ID:** `UNI-ENG-08-food-culture-001-v2`
+
 ID: UNI-ENG-08-food-culture-001-v2
 
 ### Contexto
@@ -63,6 +68,8 @@ It is...
 ---
 
 ## Question 3 (Part 3 - Pasta)
+**ID:** `UNI-ENG-08-food-culture-001-v3`
+
 ID: UNI-ENG-08-food-culture-001-v3
 
 ### Enunciado
@@ -81,6 +88,8 @@ Spaghetti, Lasagna, and Ravioli come from which country?
 ---
 
 ## Question 4 (Part 4 - Chopsticks)
+**ID:** `UNI-ENG-08-food-culture-001-v4`
+
 ID: UNI-ENG-08-food-culture-001-v4
 
 ### Contexto
@@ -102,6 +111,8 @@ They are...
 ---
 
 ## Question 5 (Part 5 - Dessert)
+**ID:** `UNI-ENG-08-food-culture-001-v5`
+
 ID: UNI-ENG-08-food-culture-001-v5
 
 ### Enunciado
@@ -120,6 +131,8 @@ The sweet meal eaten at the end of dinner.
 ---
 
 ## Question 6 (Part 6 - Vegetarian)
+**ID:** `UNI-ENG-08-food-culture-001-v6`
+
 ID: UNI-ENG-08-food-culture-001-v6
 
 ### Enunciado
@@ -138,6 +151,8 @@ Someone who does not eat meat.
 ---
 
 ## Question 7 (Part 7 - Chef)
+**ID:** `UNI-ENG-08-food-culture-001-v7`
+
 ID: UNI-ENG-08-food-culture-001-v7
 
 ### Enunciado
@@ -156,6 +171,8 @@ A professional cook in a restaurant is called a...
 ---
 
 ## Question 8 (Part 8 - Tip)
+**ID:** `UNI-ENG-08-food-culture-001-v8`
+
 ID: UNI-ENG-08-food-culture-001-v8
 
 ### Contexto
@@ -177,6 +194,8 @@ It is a...
 ---
 
 ## Question 9 (Part 9 - Recipe)
+**ID:** `UNI-ENG-08-food-culture-001-v9`
+
 ID: UNI-ENG-08-food-culture-001-v9
 
 ### Enunciado
@@ -195,6 +214,8 @@ Instructions on how to cook a specific dish.
 ---
 
 ## Question 10 (Part 10 - Ingredient)
+**ID:** `UNI-ENG-08-food-culture-001-v10`
+
 ID: UNI-ENG-08-food-culture-001-v10
 
 ### Enunciado

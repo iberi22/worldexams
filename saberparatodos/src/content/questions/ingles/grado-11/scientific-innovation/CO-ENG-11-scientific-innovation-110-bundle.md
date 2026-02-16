@@ -6,6 +6,7 @@ asignatura: ingles
 tema: scientific-innovation
 cefr_level: B2/C1
 protocol_version: 3.1-COL-Bilingual
+periodo: 1
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
@@ -17,6 +18,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-11-scientific-innovation-110-v1`
+
 ### Enunciado
 **A breakthrough in science that represents a significant improvement or discovery is called an _______.**
 ### Opciones
@@ -39,6 +42,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-11-scientific-innovation-110-v2`
+
 ### Enunciado
 **Technological advancements (1)_______ at an exponential rate, (2)_______ that we are entering a new era.**
 ### Opciones
@@ -54,6 +59,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-11-scientific-innovation-110-v3`
+
 ### Contexto
 **Text:** "CRISPR technology allows for precise editing of DNA. While it offers miracles in curing genetic diseases, it also raises concerns about 'designer babies' and permanent changes to the human gene pool."
 ### Enunciado
@@ -71,6 +78,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-11-scientific-innovation-110-v4`
+
 ### Enunciado
 **Scientific research that is conducted with the intention of being useful to people is _______ science.**
 ### Opciones
@@ -86,6 +95,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-11-scientific-innovation-110-v5`
+
 ### Contexto
 **Scientist:** "Science can tell us how to clone a human, but it cannot tell us if we should."
 ### Enunciado
@@ -103,6 +114,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-11-scientific-innovation-110-v6`
+
 ### Contexto
 **Passage:** "The 'Precautionary Principle' suggests that if an innovation has a suspected risk of causing harm to the public or the environment, the burden of proof that it is NOT harmful falls on those proposing the innovation."
 ### Enunciado
@@ -120,6 +133,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-11-scientific-innovation-110-v7`
+
 ### Contexto
 **Debater A:** "We should invest all our research budget into space exploration."
 **Debater B:** "____________"
@@ -138,6 +153,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Passive Voice)
+**ID:** `CO-ENG-11-scientific-innovation-110-v8`
+
 ### Enunciado
 **It (1)_______ that the new vaccine (2)_______ to millions within the next six months.**
 ### Opciones
@@ -153,6 +170,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-11-scientific-innovation-110-v9`
+
 ### Enunciado
 **A system of principles or rules of behavior that determines right and wrong is called _______.**
 ### Opciones
@@ -168,6 +187,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Critical Thinking)
+**ID:** `CO-ENG-11-scientific-innovation-110-v10`
+
 ### Contexto
 **Statement:** "Technological innovation often outpaces the development of laws and ethics to regulate it."
 ### Enunciado

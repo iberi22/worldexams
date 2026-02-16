@@ -4,19 +4,25 @@ country: co
 grado: 5
 asignatura: ingles
 tema: healthy-habits
+periodo: 1
 cefr_level: A1+
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: Healthy Habits (A1+)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-05-healthy-habits-106-v1`
+
+
+**ID:** `CO-ENG-05-healthy-habits-106-v1`
+
 ### Enunciado
 **You should _______ your teeth three times a day.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-05-healthy-habits-106-v2`
+
+
+**ID:** `CO-ENG-05-healthy-habits-106-v2`
+
 ### Enunciado
 **I (1)_______ fruits and vegetables every day because they (2)_______ healthy.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-05-healthy-habits-106-v3`
+
+
+**ID:** `CO-ENG-05-healthy-habits-106-v3`
+
 ### Contexto
 **Text:** "Exercise is good for your heart. You can run, swim, or play sports. You should drink a lot of water after exercising to stay hydrated."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-05-healthy-habits-106-v4`
+
+
+**ID:** `CO-ENG-05-healthy-habits-106-v4`
+
 ### Enunciado
 **Drinking _______ is very important for your health.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-05-healthy-habits-106-v5`
+
+
+**ID:** `CO-ENG-05-healthy-habits-106-v5`
+
 ### Contexto
 **Doctor:** "How many hours do you sleep at night?"
 **Child:** "I sleep about nine hours, from 9:00 PM to 6:00 AM."
@@ -104,6 +130,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-05-healthy-habits-106-v6`
+
+
+**ID:** `CO-ENG-05-healthy-habits-106-v6`
+
 ### Contexto
 **Passage:** "Leo is washing his hands with soap. He is going to eat his lunch now. He always washes his hands before eating."
 ### Enunciado
@@ -121,6 +152,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-05-healthy-habits-106-v7`
+
+
+**ID:** `CO-ENG-05-healthy-habits-106-v7`
+
 ### Contexto
 **Friend:** "Do you like sports?"
 **You:** "____________"
@@ -139,6 +175,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Modals)
+**ID:** `CO-ENG-05-healthy-habits-106-v8`
+
+
+**ID:** `CO-ENG-05-healthy-habits-106-v8`
+
 ### Enunciado
 **You (1)_______ eat too much candy, but you (2)_______ eat fruit.**
 ### Opciones
@@ -154,6 +195,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-05-healthy-habits-106-v9`
+
+
+**ID:** `CO-ENG-05-healthy-habits-106-v9`
+
 ### Enunciado
 **The place where you go to run and play with your friends is the _______.**
 ### Opciones
@@ -169,6 +215,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Cultural)
+**ID:** `CO-ENG-05-healthy-habits-106-v10`
+
+
+**ID:** `CO-ENG-05-healthy-habits-106-v10`
+
 ### Enunciado
 **In Colombia, many families have 'jugos naturales' (fresh fruit juices) with lunch. They are very _______.**
 ### Opciones

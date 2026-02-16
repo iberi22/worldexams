@@ -4,19 +4,25 @@ country: co
 grado: 7
 asignatura: ingles
 tema: food
+periodo: 1
 cefr_level: A2+
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: Food & Eating Out (A2+)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-07-food-110-v1`
+
+
+**ID:** `CO-ENG-07-food-110-v1`
+
 ### Enunciado
 **The list of food and drinks available in a restaurant is the _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-07-food-110-v2`
+
+
+**ID:** `CO-ENG-07-food-110-v2`
+
 ### Enunciado
 **I (1)_______ a burger, but my friend (2)_______ a salad.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-07-food-110-v3`
+
+
+**ID:** `CO-ENG-07-food-110-v3`
+
 ### Contexto
 **Text:** "Our restaurant offers three types of desserts: chocolate cake, fruit salad, and vanilla ice cream. The ice cream is the cheapest option."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-07-food-110-v4`
+
+
+**ID:** `CO-ENG-07-food-110-v4`
+
 ### Enunciado
 **A person whose job is to serve customers in a restaurant is a _______.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-07-food-110-v5`
+
+
+**ID:** `CO-ENG-07-food-110-v5`
+
 ### Contexto
 **Customer:** "Could I have the bill, please?"
 ### Enunciado
@@ -103,6 +129,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-07-food-110-v6`
+
+
+**ID:** `CO-ENG-07-food-110-v6`
+
 ### Contexto
 **Passage:** "The restaurant was full of people. The smell of fresh bread and pasta was amazing. Everyone was laughing and talking loudly."
 ### Enunciado
@@ -120,6 +151,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-07-food-110-v7`
+
+
+**ID:** `CO-ENG-07-food-110-v7`
+
 ### Contexto
 **Waiter:** "How was your meal?"
 **You:** "____________"
@@ -138,6 +174,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Countable/Uncountable)
+**ID:** `CO-ENG-07-food-110-v8`
+
+
+**ID:** `CO-ENG-07-food-110-v8`
+
 ### Enunciado
 **(1)_______ sugar would you like in your coffee? Not (2)_______, please.**
 ### Opciones
@@ -153,6 +194,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-07-food-110-v9`
+
+
+**ID:** `CO-ENG-07-food-110-v9`
+
 ### Enunciado
 **The main part of a meal is called the _______.**
 ### Opciones
@@ -168,6 +214,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Cultural)
+**ID:** `CO-ENG-07-food-110-v10`
+
+
+**ID:** `CO-ENG-07-food-110-v10`
+
 ### Enunciado
 **A common Colombian soup made with chicken and three types of potatoes is _______.**
 ### Opciones

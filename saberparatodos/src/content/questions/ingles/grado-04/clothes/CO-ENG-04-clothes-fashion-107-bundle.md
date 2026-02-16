@@ -4,19 +4,25 @@ country: co
 grado: 4
 asignatura: ingles
 tema: clothes-fashion
+periodo: 1
 cefr_level: A1
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: Clothes & Fashion (A1)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-04-clothes-fashion-107-v1`
+
+
+**ID:** `CO-ENG-04-clothes-fashion-107-v1`
+
 ### Enunciado
 **When it is cold, you wear a _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-04-clothes-fashion-107-v2`
+
+
+**ID:** `CO-ENG-04-clothes-fashion-107-v2`
+
 ### Enunciado
 **Today, I (1)_______ wearing a red shirt and blue (2)_______.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-04-clothes-fashion-107-v3`
+
+
+**ID:** `CO-ENG-04-clothes-fashion-107-v3`
+
 ### Contexto
 **Text:** "Look at Sarah. She is wearing a yellow dress and brown sandals. She has a pink hat on her head."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-04-clothes-fashion-107-v4`
+
+
+**ID:** `CO-ENG-04-clothes-fashion-107-v4`
+
 ### Enunciado
 **You wear _______ on your feet.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-04-clothes-fashion-107-v5`
+
+
+**ID:** `CO-ENG-04-clothes-fashion-107-v5`
+
 ### Contexto
 **Shop assistant:** "May I help you?"
 **Customer:** "Yes, please. I am looking for a blue sweater."
@@ -104,6 +130,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-04-clothes-fashion-107-v6`
+
+
+**ID:** `CO-ENG-04-clothes-fashion-107-v6`
+
 ### Contexto
 **Passage:** "The boy is at the beach. He is wearing sunglasses, a hat, and shorts. He is carrying a towel."
 ### Enunciado
@@ -121,6 +152,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-04-clothes-fashion-107-v7`
+
+
+**ID:** `CO-ENG-04-clothes-fashion-107-v7`
+
 ### Contexto
 **Person A:** "What is your favorite color for clothes?"
 **Person B:** "____________"
@@ -139,6 +175,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Possessives)
+**ID:** `CO-ENG-04-clothes-fashion-107-v8`
+
+
+**ID:** `CO-ENG-04-clothes-fashion-107-v8`
+
 ### Enunciado
 **This is (1)_______ jacket and those (2)_______ your shoes.**
 ### Opciones
@@ -154,6 +195,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-04-clothes-fashion-107-v9`
+
+
+**ID:** `CO-ENG-04-clothes-fashion-107-v9`
+
 ### Enunciado
 **Girls often wear a _______ in the summer.**
 ### Opciones
@@ -169,6 +215,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Cultural)
+**ID:** `CO-ENG-04-clothes-fashion-107-v10`
+
+
+**ID:** `CO-ENG-04-clothes-fashion-107-v10`
+
 ### Enunciado
 **A traditional Colombian 'poncho' from the cold regions is often called a _______.**
 ### Opciones

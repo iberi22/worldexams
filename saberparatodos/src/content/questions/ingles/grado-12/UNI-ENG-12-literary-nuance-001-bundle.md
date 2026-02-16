@@ -6,6 +6,7 @@ asignatura: ingles
 tema: literary-nuance
 cefr_level: C2
 protocol_version: 3.1-GLOBAL
+periodo: 1
 total_questions: 10
 international_focus: CPE / Literature / Advanced Analysis
 licenses:
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Verbal Irony - Difficulty 5)
+**ID:** `UNI-ENG-12-literary-nuance-001-v1`
+
 ID: UNI-ENG-12-literary-nuance-001-v1
 
 ### Contexto
@@ -46,6 +49,8 @@ What does the character mean?
 ---
 
 ## Question 2 (Part 2 - Unreliable Narrator - Difficulty 5)
+**ID:** `UNI-ENG-12-literary-nuance-001-v2`
+
 ID: UNI-ENG-12-literary-nuance-001-v2
 
 ### Contexto
@@ -68,6 +73,8 @@ How should the reader view this narrator?
 ---
 
 ## Question 3 (Part 3 - Tone Analysis - Difficulty 5)
+**ID:** `UNI-ENG-12-literary-nuance-001-v3`
+
 ID: UNI-ENG-12-literary-nuance-001-v3
 
 ### Contexto
@@ -90,6 +97,8 @@ What is the tone of this passage?
 ---
 
 ## Question 4 (Part 4 - Euphemism - Difficulty 4)
+**ID:** `UNI-ENG-12-literary-nuance-001-v4`
+
 ID: UNI-ENG-12-literary-nuance-001-v4
 
 ### Contexto
@@ -112,6 +121,8 @@ What does this mean directly?
 ---
 
 ## Question 5 (Part 5 - Subtext - Difficulty 5)
+**ID:** `UNI-ENG-12-literary-nuance-001-v5`
+
 ID: UNI-ENG-12-literary-nuance-001-v5
 
 ### Contexto
@@ -134,6 +145,8 @@ What is the speaker implying?
 ---
 
 ## Question 6 (Part 6 - Metaphorical Extension - Difficulty 5)
+**ID:** `UNI-ENG-12-literary-nuance-001-v6`
+
 ID: UNI-ENG-12-literary-nuance-001-v6
 
 ### Contexto
@@ -156,6 +169,8 @@ Is he in danger of water?
 ---
 
 ## Question 7 (Part 7 - Litotes / Understatement - Difficulty 5)
+**ID:** `UNI-ENG-12-literary-nuance-001-v7`
+
 ID: UNI-ENG-12-literary-nuance-001-v7
 
 ### Contexto
@@ -178,6 +193,8 @@ What figure of speech is this?
 ---
 
 ## Question 8 (Part 8 - Paradoxical Imagery - Difficulty 5)
+**ID:** `UNI-ENG-12-literary-nuance-001-v8`
+
 ID: UNI-ENG-12-literary-nuance-001-v8
 
 ### Contexto
@@ -200,6 +217,8 @@ How can silence be deafening?
 ---
 
 ## Question 9 (Part 9 - Dramatic Irony - Difficulty 5)
+**ID:** `UNI-ENG-12-literary-nuance-001-v9`
+
 ID: UNI-ENG-12-literary-nuance-001-v9
 
 ### Contexto
@@ -221,6 +240,8 @@ What creates the tension here?
 ---
 
 ## Question 10 (Part 10 - Connotation - Difficulty 5)
+**ID:** `UNI-ENG-12-literary-nuance-001-v10`
+
 ID: UNI-ENG-12-literary-nuance-001-v10
 
 ### Contexto

@@ -4,6 +4,7 @@ country: global
 grado: 6
 asignatura: ingles
 tema: digital-safety
+periodo: 1
 cefr_level: A1+
 protocol_version: 3.1-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Digital Safety (Grade 6)
 
 > **Focus:** Basic rules for staying safe online. Passwords, strangers, and screen time.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Passwords)
+**ID:** `UNI-ENG-06-digital-safety-001-v1`
+
 ID: UNI-ENG-06-digital-safety-001-v1
 
 ### Contexto
@@ -45,6 +48,8 @@ Who can you share your password with?
 ---
 
 ## Question 2 (Part 2 - Online Strangers)
+**ID:** `UNI-ENG-06-digital-safety-001-v2`
+
 ID: UNI-ENG-06-digital-safety-001-v2
 
 ### Contexto
@@ -66,6 +71,8 @@ What do you do?
 ---
 
 ## Question 3 (Part 3 - Screen Time)
+**ID:** `UNI-ENG-06-digital-safety-001-v3`
+
 ID: UNI-ENG-06-digital-safety-001-v3
 
 ### Contexto
@@ -87,6 +94,8 @@ Why should you take a break?
 ---
 
 ## Question 4 (Part 4 - Private Information)
+**ID:** `UNI-ENG-06-digital-safety-001-v4`
+
 ID: UNI-ENG-06-digital-safety-001-v4
 
 ### Enunciado
@@ -105,6 +114,8 @@ Which of these is **private information**?
 ---
 
 ## Question 5 (Part 5 - Cyberbullying)
+**ID:** `UNI-ENG-06-digital-safety-001-v5`
+
 ID: UNI-ENG-06-digital-safety-001-v5
 
 ### Contexto
@@ -126,6 +137,8 @@ What is this called?
 ---
 
 ## Question 6 (Part 6 - Downloads)
+**ID:** `UNI-ENG-06-digital-safety-001-v6`
+
 ID: UNI-ENG-06-digital-safety-001-v6
 
 ### Contexto
@@ -147,6 +160,8 @@ Is this real?
 ---
 
 ## Question 7 (Part 7 - Posting)
+**ID:** `UNI-ENG-06-digital-safety-001-v7`
+
 ID: UNI-ENG-06-digital-safety-001-v7
 
 ### Contexto
@@ -168,6 +183,8 @@ Why?
 ---
 
 ## Question 8 (Part 8 - Usernames)
+**ID:** `UNI-ENG-06-digital-safety-001-v8`
+
 ID: UNI-ENG-06-digital-safety-001-v8
 
 ### Contexto
@@ -189,6 +206,8 @@ Which one is best?
 ---
 
 ## Question 9 (Part 9 - Asking Permission)
+**ID:** `UNI-ENG-06-digital-safety-001-v9`
+
 ID: UNI-ENG-06-digital-safety-001-v9
 
 ### Contexto
@@ -210,6 +229,8 @@ Who should you ask first?
 ---
 
 ## Question 10 (Part 10 - Feelings)
+**ID:** `UNI-ENG-06-digital-safety-001-v10`
+
 ID: UNI-ENG-06-digital-safety-001-v10
 
 ### Contexto

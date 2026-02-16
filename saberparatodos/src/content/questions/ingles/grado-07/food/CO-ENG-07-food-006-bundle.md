@@ -4,19 +4,22 @@ country: co
 grado: 7
 asignatura: ingles
 tema: food
+periodo: 1
 cefr_level: A2+
 protocol_version: 3.0-COL
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Food & Meals (A2+)
 
 ---
 
 ## Question 1 (Part 1 - Vocabulary)
+**ID:** `CO-ENG-07-food-006-v1`
+
 ID: CO-ENG-07-food-006-v1
 
 ### Enunciado
@@ -35,6 +38,8 @@ ID: CO-ENG-07-food-006-v1
 ---
 
 ## Question 2 (Part 2 - Pragmatics)
+**ID:** `CO-ENG-07-food-006-v2`
+
 ID: CO-ENG-07-food-006-v2
 
 ### Contexto
@@ -56,6 +61,8 @@ ID: CO-ENG-07-food-006-v2
 ---
 
 ## Question 3 (Part 3 - Conversation)
+**ID:** `CO-ENG-07-food-006-v3`
+
 ID: CO-ENG-07-food-006-v3
 
 ### Contexto
@@ -77,6 +84,8 @@ ID: CO-ENG-07-food-006-v3
 ---
 
 ## Question 4 (Part 4 - Grammar)
+**ID:** `CO-ENG-07-food-006-v4`
+
 ID: CO-ENG-07-food-006-v4
 
 ### Contexto
@@ -95,6 +104,8 @@ Negative + "any." Positive statement or request + "some."
 ---
 
 ## Question 5 (Part 5 - Literal Reading)
+**ID:** `CO-ENG-07-food-006-v5`
+
 ID: CO-ENG-07-food-006-v5
 
 ### Contexto
@@ -116,6 +127,8 @@ ID: CO-ENG-07-food-006-v5
 ---
 
 ## Question 6 (Part 6 - Inferential Reading)
+**ID:** `CO-ENG-07-food-006-v6`
+
 ID: CO-ENG-07-food-006-v6
 
 ### Contexto
@@ -137,6 +150,8 @@ ID: CO-ENG-07-food-006-v6
 ---
 
 ## Question 7 (Part 7 - Grammar)
+**ID:** `CO-ENG-07-food-006-v7`
+
 ID: CO-ENG-07-food-006-v7
 
 ### Contexto
@@ -155,6 +170,8 @@ ID: CO-ENG-07-food-006-v7
 ---
 
 ## Question 8 (Challenge - Vocabulary)
+**ID:** `CO-ENG-07-food-006-v8`
+
 ID: CO-ENG-07-food-006-v8
 
 ### Enunciado
@@ -173,6 +190,8 @@ Vegetarian = no meat. Vegan = no animal products at all (no eggs, dairy, honey).
 ---
 
 ## Question 9 (Challenge - Scenario)
+**ID:** `CO-ENG-07-food-006-v9`
+
 ID: CO-ENG-07-food-006-v9
 
 ### Contexto
@@ -194,6 +213,8 @@ Food allergies can be life-threatening! Always check ingredients and take allerg
 ---
 
 ## Question 10 (Challenge - Critical Thinking)
+**ID:** `CO-ENG-07-food-006-v10`
+
 ID: CO-ENG-07-food-006-v10
 
 ### Contexto

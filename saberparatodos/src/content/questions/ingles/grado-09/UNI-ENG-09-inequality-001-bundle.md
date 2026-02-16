@@ -4,6 +4,7 @@ country: global
 grado: 9
 asignatura: ingles
 tema: inequality
+periodo: 1
 cefr_level: B1
 protocol_version: 3.1-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Inequality (Grade 9)
 
 > **Focus:** Poverty gap, gender roles, and access to education.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - The Gap)
+**ID:** `UNI-ENG-09-inequality-001-v1`
+
 ID: UNI-ENG-09-inequality-001-v1
 
 ### Contexto
@@ -45,6 +48,8 @@ This describes the increasing...
 ---
 
 ## Question 2 (Part 2 - Gender Pay Gap)
+**ID:** `UNI-ENG-09-inequality-001-v2`
+
 ID: UNI-ENG-09-inequality-001-v2
 
 ### Contexto
@@ -66,6 +71,8 @@ What is this called?
 ---
 
 ## Question 3 (Part 3 - Discrimination)
+**ID:** `UNI-ENG-09-inequality-001-v3`
+
 ID: UNI-ENG-09-inequality-001-v3
 
 ### Contexto
@@ -87,6 +94,8 @@ This is...
 ---
 
 ## Question 4 (Part 4 - Access to Education)
+**ID:** `UNI-ENG-09-inequality-001-v4`
+
 ID: UNI-ENG-09-inequality-001-v4
 
 ### Contexto
@@ -108,6 +117,8 @@ This denies them their...
 ---
 
 ## Question 5 (Part 5 - Minimum Wage)
+**ID:** `UNI-ENG-09-inequality-001-v5`
+
 ID: UNI-ENG-09-inequality-001-v5
 
 ### Contexto
@@ -129,6 +140,8 @@ What is this?
 ---
 
 ## Question 6 (Part 6 - Unemployment)
+**ID:** `UNI-ENG-09-inequality-001-v6`
+
 ID: UNI-ENG-09-inequality-001-v6
 
 ### Contexto
@@ -150,6 +163,8 @@ This is the rate of...
 ---
 
 ## Question 7 (Part 7 - Barrier)
+**ID:** `UNI-ENG-09-inequality-001-v7`
+
 ID: UNI-ENG-09-inequality-001-v7
 
 ### Contexto
@@ -171,6 +186,8 @@ What does this mean for women?
 ---
 
 ## Question 8 (Part 8 - Privilege)
+**ID:** `UNI-ENG-09-inequality-001-v8`
+
 ID: UNI-ENG-09-inequality-001-v8
 
 ### Contexto
@@ -192,6 +209,8 @@ This is called...
 ---
 
 ## Question 9 (Part 9 - Stereotype)
+**ID:** `UNI-ENG-09-inequality-001-v9`
+
 ID: UNI-ENG-09-inequality-001-v9
 
 ### Contexto
@@ -213,6 +232,8 @@ This is a...
 ---
 
 ## Question 10 (Part 10 - Inclusion)
+**ID:** `UNI-ENG-09-inequality-001-v10`
+
 ID: UNI-ENG-09-inequality-001-v10
 
 ### Enunciado

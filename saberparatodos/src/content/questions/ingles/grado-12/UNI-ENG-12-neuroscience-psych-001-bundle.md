@@ -6,6 +6,7 @@ asignatura: ingles
 tema: neuroscience-psych
 cefr_level: C1
 protocol_version: 3.2-GLOBAL
+periodo: 1
 total_questions: 10
 international_focus: Brain / Mental Health / Science
 licenses:
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Neuron)
+**ID:** `UNI-ENG-12-neuroscience-psych-001-v1`
+
 ID: UNI-ENG-12-neuroscience-psych-001-v1
 
 ### Enunciado
@@ -42,6 +45,8 @@ The basic working unit of the brain (a nerve cell).
 ---
 
 ## Question 2 (Part 2 - Dopamine)
+**ID:** `UNI-ENG-12-neuroscience-psych-001-v2`
+
 ID: UNI-ENG-12-neuroscience-psych-001-v2
 
 ### Contexto
@@ -63,6 +68,8 @@ What is it?
 ---
 
 ## Question 3 (Part 3 - Lobes)
+**ID:** `UNI-ENG-12-neuroscience-psych-001-v3`
+
 ID: UNI-ENG-12-neuroscience-psych-001-v3
 
 ### Contexto
@@ -81,6 +88,8 @@ ID: UNI-ENG-12-neuroscience-psych-001-v3
 ---
 
 ## Question 4 (Part 4 - Plasticity)
+**ID:** `UNI-ENG-12-neuroscience-psych-001-v4`
+
 ID: UNI-ENG-12-neuroscience-psych-001-v4
 
 ### Contexto
@@ -102,6 +111,8 @@ This is Neuro...
 ---
 
 ## Question 5 (Part 5 - Hippocampus)
+**ID:** `UNI-ENG-12-neuroscience-psych-001-v5`
+
 ID: UNI-ENG-12-neuroscience-psych-001-v5
 
 ### Enunciado
@@ -120,6 +131,8 @@ The part of the brain primarily responsible for forming new **memories**.
 ---
 
 ## Question 6 (Part 6 - Anxiety)
+**ID:** `UNI-ENG-12-neuroscience-psych-001-v6`
+
 ID: UNI-ENG-12-neuroscience-psych-001-v6
 
 ### Enunciado
@@ -138,6 +151,8 @@ A mental health condition characterized by excessive worry, nervousness, or fear
 ---
 
 ## Question 7 (Part 7 - Cortex)
+**ID:** `UNI-ENG-12-neuroscience-psych-001-v7`
+
 ID: UNI-ENG-12-neuroscience-psych-001-v7
 
 ### Contexto
@@ -159,6 +174,8 @@ It is the Cerebral...
 ---
 
 ## Question 8 (Part 8 - Serotonin)
+**ID:** `UNI-ENG-12-neuroscience-psych-001-v8`
+
 ID: UNI-ENG-12-neuroscience-psych-001-v8
 
 ### Enunciado
@@ -177,6 +194,8 @@ A neurotransmitter primarily involved in regulating **mood**, sleep, and appetit
 ---
 
 ## Question 9 (Part 9 - MRI)
+**ID:** `UNI-ENG-12-neuroscience-psych-001-v9`
+
 ID: UNI-ENG-12-neuroscience-psych-001-v9
 
 ### Contexto
@@ -198,6 +217,8 @@ What scan is this?
 ---
 
 ## Question 10 (Part 10 - Empathy)
+**ID:** `UNI-ENG-12-neuroscience-psych-001-v10`
+
 ID: UNI-ENG-12-neuroscience-psych-001-v10
 
 ### Contexto

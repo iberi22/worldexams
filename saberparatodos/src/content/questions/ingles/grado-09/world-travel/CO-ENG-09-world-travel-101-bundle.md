@@ -4,19 +4,25 @@ country: co
 grado: 9
 asignatura: ingles
 tema: world-travel
+periodo: 1
 cefr_level: B1+
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: World Travel (B1+)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-09-world-travel-101-v1`
+
+
+**ID:** `CO-ENG-09-world-travel-101-v1`
+
 ### Enunciado
 **A document required for international travel is:**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Pragmatics)
+**ID:** `CO-ENG-09-world-travel-101-v2`
+
+
+**ID:** `CO-ENG-09-world-travel-101-v2`
+
 ### Contexto
 **Airport sign:** "Gate B7. Boarding begins 30 minutes before departure."
 ### Enunciado
@@ -56,6 +67,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Conversation)
+**ID:** `CO-ENG-09-world-travel-101-v3`
+
+
+**ID:** `CO-ENG-09-world-travel-101-v3`
+
 ### Contexto
 **Hotel receptionist:** "Would you prefer a room with a city view or a garden view?"
 **You:** "____________"
@@ -74,6 +90,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Grammar)
+**ID:** `CO-ENG-09-world-travel-101-v4`
+
+
+**ID:** `CO-ENG-09-world-travel-101-v4`
+
 ### Contexto
 "When I (1)______ to London, I (2)______ the Big Ben."
 ### Enunciado
@@ -91,6 +112,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Literal Reading)
+**ID:** `CO-ENG-09-world-travel-101-v5`
+
+
+**ID:** `CO-ENG-09-world-travel-101-v5`
+
 ### Contexto
 **Text:** "Colombia attracts over 4 million tourists annually. Popular destinations include Cartagena, Medellín, and the Amazon region."
 ### Enunciado
@@ -108,6 +134,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-09-world-travel-101-v6`
+
+
+**ID:** `CO-ENG-09-world-travel-101-v6`
+
 ### Contexto
 **Passage:** "Travel broadens the mind, they say. But scrolling through Instagram posts of exotic beaches isn't the same as actually experiencing a new culture, tasting unfamiliar food, or struggling to communicate in another language."
 ### Enunciado
@@ -125,6 +156,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Advanced Grammar)
+**ID:** `CO-ENG-09-world-travel-101-v7`
+
+
+**ID:** `CO-ENG-09-world-travel-101-v7`
+
 ### Contexto
 "(1)______ traveling to a new country, you (2)______ learn some basic phrases in the local language."
 ### Enunciado
@@ -142,6 +178,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Vocabulary)
+**ID:** `CO-ENG-09-world-travel-101-v8`
+
+
+**ID:** `CO-ENG-09-world-travel-101-v8`
+
 ### Enunciado
 **"Jet lag" is:**
 ### Opciones
@@ -157,6 +198,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Use of English)
+**ID:** `CO-ENG-09-world-travel-101-v9`
+
+
+**ID:** `CO-ENG-09-world-travel-101-v9`
+
 ### Contexto
 **Original:** "Tourists visit Colombia for its natural beauty."
 **Rewrite:** *COLOMBIA...*
@@ -175,6 +221,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Critical Thinking)
+**ID:** `CO-ENG-09-world-travel-101-v10`
+
+
+**ID:** `CO-ENG-09-world-travel-101-v10`
+
 ### Contexto
 **Statement:** "Tourism always benefits local communities."
 ### Enunciado

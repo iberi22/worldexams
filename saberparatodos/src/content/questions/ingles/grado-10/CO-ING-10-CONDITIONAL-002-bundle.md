@@ -1,10 +1,12 @@
 ---
+
 id: CO-ING-10-CONDITIONAL-002
 country: co
 grado: 10
 asignatura: Inglés
 tema: Second Conditional
-protocol_version: '3.0'
+periodo: 1
+protocol_version: 2.1
 total_questions: 11
 estado: published
 creador: Antigravity AI
@@ -21,6 +23,7 @@ bundle_version: '2.0'
 dificultad: 3
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
+
 ---
 
 # Pregunta Base: The Lottery
@@ -31,6 +34,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
+**ID:** `CO-ING-10-CONDITIONAL-002-v1`
+
 
 **ID:** `CO-ING-10-CONDITIONAL-002-v1`
 
@@ -50,6 +55,8 @@ The Second Conditional is used for:
 ---
 
 ## Pregunta 2 (Fácil A - Dificultad 1)
+**ID:** `CO-ING-10-CONDITIONAL-002-v2`
+
 
 **ID:** `CO-ING-10-CONDITIONAL-002-v2`
 
@@ -69,6 +76,8 @@ Structure of Second Conditional:
 ---
 
 ## Pregunta 3 (Fácil B - Dificultad 2)
+**ID:** `CO-ING-10-CONDITIONAL-002-v3`
+
 
 **ID:** `CO-ING-10-CONDITIONAL-002-v3`
 
@@ -88,6 +97,8 @@ Structure of Second Conditional:
 ---
 
 ## Pregunta 4 (Media A - Dificultad 3)
+**ID:** `CO-ING-10-CONDITIONAL-002-v4`
+
 
 **ID:** `CO-ING-10-CONDITIONAL-002-v4`
 
@@ -107,6 +118,8 @@ Complete: *"If I had more time, I ___________ learn piano."*
 ---
 
 ## Pregunta 5 (Media B - Dificultad 3)
+**ID:** `CO-ING-10-CONDITIONAL-002-v5`
+
 
 **ID:** `CO-ING-10-CONDITIONAL-002-v5`
 
@@ -126,6 +139,8 @@ What does this sentence mean? *"If I were you, I would talk to him."*
 ---
 
 ## Pregunta 6 (Difícil A - Dificultad 4)
+**ID:** `CO-ING-10-CONDITIONAL-002-v6`
+
 
 **ID:** `CO-ING-10-CONDITIONAL-002-v6`
 
@@ -145,6 +160,8 @@ Which sentence refers to the Present/Future?
 ---
 
 ## Pregunta 7 (Difícil B - Dificultad 5)
+**ID:** `CO-ING-10-CONDITIONAL-002-v7`
+
 
 **ID:** `CO-ING-10-CONDITIONAL-002-v7`
 
@@ -164,6 +181,8 @@ Contraction: *"I'd go."* means:
 ---
 
 ## Pregunta 8 (Extra 1 - Dificultad 4)
+**ID:** `CO-ING-10-CONDITIONAL-002-v8`
+
 
 **ID:** `CO-ING-10-CONDITIONAL-002-v8`
 
@@ -183,6 +202,8 @@ Can we use "Could" in the Second Conditional?
 ---
 
 ## Pregunta 9 (Extra 2 - Dificultad 2)
+**ID:** `CO-ING-10-CONDITIONAL-002-v9`
+
 
 **ID:** `CO-ING-10-CONDITIONAL-002-v9`
 
@@ -202,6 +223,8 @@ Translate: *"¿Qué harías si vieras un fantasma?"*
 ---
 
 ## Pregunta 10 (Extra 3 - Dificultad 5)
+**ID:** `CO-ING-10-CONDITIONAL-002-v10`
+
 
 **ID:** `CO-ING-10-CONDITIONAL-002-v10`
 
@@ -224,6 +247,8 @@ The difference is:
 ---
 
 ## Pregunta 11 (Extra 4 - Dificultad 3)
+**ID:** `CO-ING-10-CONDITIONAL-002-v11`
+
 
 **ID:** `CO-ING-10-CONDITIONAL-002-v11`
 

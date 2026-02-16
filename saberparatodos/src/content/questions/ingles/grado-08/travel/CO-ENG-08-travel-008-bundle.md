@@ -4,19 +4,22 @@ country: co
 grado: 8
 asignatura: ingles
 tema: travel
+periodo: 1
 cefr_level: B1
 protocol_version: 3.0-COL
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Travel & Transportation (B1)
 
 ---
 
 ## Question 1 (Part 1 - Vocabulary)
+**ID:** `CO-ENG-08-travel-008-v1`
+
 ID: CO-ENG-08-travel-008-v1
 
 ### Enunciado
@@ -36,6 +39,8 @@ ID: CO-ENG-08-travel-008-v1
 ---
 
 ## Question 2 (Part 2 - Pragmatics)
+**ID:** `CO-ENG-08-travel-008-v2`
+
 ID: CO-ENG-08-travel-008-v2
 
 ### Contexto
@@ -57,6 +62,8 @@ ID: CO-ENG-08-travel-008-v2
 ---
 
 ## Question 3 (Part 3 - Conversation)
+**ID:** `CO-ENG-08-travel-008-v3`
+
 ID: CO-ENG-08-travel-008-v3
 
 ### Contexto
@@ -78,6 +85,8 @@ Good directions: step-by-step, with landmarks. "Go straight... turn left... on y
 ---
 
 ## Question 4 (Part 4 - Grammar)
+**ID:** `CO-ENG-08-travel-008-v4`
+
 ID: CO-ENG-08-travel-008-v4
 
 ### Contexto
@@ -96,6 +105,8 @@ ID: CO-ENG-08-travel-008-v4
 ---
 
 ## Question 5 (Part 5 - Literal Reading)
+**ID:** `CO-ENG-08-travel-008-v5`
+
 ID: CO-ENG-08-travel-008-v5
 
 ### Contexto
@@ -117,6 +128,8 @@ Text says "over 2 million passengers daily." Direct information.
 ---
 
 ## Question 6 (Part 6 - Inferential Reading)
+**ID:** `CO-ENG-08-travel-008-v6`
+
 ID: CO-ENG-08-travel-008-v6
 
 ### Contexto
@@ -138,6 +151,8 @@ The contrast shows depth of experience. "Travelers" = more immersive, authentic 
 ---
 
 ## Question 7 (Part 7 - Grammar)
+**ID:** `CO-ENG-08-travel-008-v7`
+
 ID: CO-ENG-08-travel-008-v7
 
 ### Contexto
@@ -156,6 +171,8 @@ First conditional for travel recommendations: If + present, should/can + verb.
 ---
 
 ## Question 8 (Challenge - Vocabulary)
+**ID:** `CO-ENG-08-travel-008-v8`
+
 ID: CO-ENG-08-travel-008-v8
 
 ### Enunciado
@@ -174,6 +191,8 @@ Layover = waiting time between connecting flights. Can be a few hours or overnig
 ---
 
 ## Question 9 (Challenge - Scenario)
+**ID:** `CO-ENG-08-travel-008-v9`
+
 ID: CO-ENG-08-travel-008-v9
 
 ### Contexto
@@ -195,6 +214,8 @@ Adapt! Translation apps + basic local phrases + gestures = communication is poss
 ---
 
 ## Question 10 (Challenge - Critical Thinking)
+**ID:** `CO-ENG-08-travel-008-v10`
+
 ID: CO-ENG-08-travel-008-v10
 
 ### Contexto

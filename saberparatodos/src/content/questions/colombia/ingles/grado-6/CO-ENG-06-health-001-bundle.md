@@ -38,7 +38,7 @@ Which of these foods is the healthiest for a snack?
 
 ### Options
 - [x] A) An apple
-- [x] B) A bag of chips
+- [ ] B) A bag of chips
 - [ ] C) A chocolate bar
 - [ ] D) A soda
 

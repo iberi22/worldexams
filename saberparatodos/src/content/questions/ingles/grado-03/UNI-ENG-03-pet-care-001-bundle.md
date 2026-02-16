@@ -4,6 +4,7 @@ country: global
 grado: 3
 asignatura: ingles
 tema: pet-care
+periodo: 1
 cefr_level: A1
 protocol_version: 3.1-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Pet Care (Grade 3)
 
 > **Focus:** Food, water, love, and basic needs of pets.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Needs)
+**ID:** `UNI-ENG-03-pet-care-001-v1`
+
 ID: UNI-ENG-03-pet-care-001-v1
 
 ### Enunciado
@@ -42,6 +45,8 @@ What does every dog need every day?
 ---
 
 ## Question 2 (Part 2 - Food)
+**ID:** `UNI-ENG-03-pet-care-001-v2`
+
 ID: UNI-ENG-03-pet-care-001-v2
 
 ### Enunciado
@@ -60,6 +65,8 @@ Cats eat...
 ---
 
 ## Question 3 (Part 3 - Exercise)
+**ID:** `UNI-ENG-03-pet-care-001-v3`
+
 ID: UNI-ENG-03-pet-care-001-v3
 
 ### Contexto
@@ -81,6 +88,8 @@ Why do we do this?
 ---
 
 ## Question 4 (Part 4 - Doctor)
+**ID:** `UNI-ENG-03-pet-care-001-v4`
+
 ID: UNI-ENG-03-pet-care-001-v4
 
 ### Contexto
@@ -102,6 +111,8 @@ What is their name?
 ---
 
 ## Question 5 (Part 5 - Love)
+**ID:** `UNI-ENG-03-pet-care-001-v5`
+
 ID: UNI-ENG-03-pet-care-001-v5
 
 ### Enunciado
@@ -120,6 +131,8 @@ Pets are part of the...
 ---
 
 ## Question 6 (Part 6 - Chocolate)
+**ID:** `UNI-ENG-03-pet-care-001-v6`
+
 ID: UNI-ENG-03-pet-care-001-v6
 
 ### Enunciado
@@ -138,6 +151,8 @@ Never give a dog...
 ---
 
 ## Question 7 (Part 7 - Sleep)
+**ID:** `UNI-ENG-03-pet-care-001-v7`
+
 ID: UNI-ENG-03-pet-care-001-v7
 
 ### Enunciado
@@ -156,6 +171,8 @@ Where should a pet sleep?
 ---
 
 ## Question 8 (Part 8 - Grooming)
+**ID:** `UNI-ENG-03-pet-care-001-v8`
+
 ID: UNI-ENG-03-pet-care-001-v8
 
 ### Contexto
@@ -177,6 +194,8 @@ This is called...
 ---
 
 ## Question 9 (Part 9 - Safety)
+**ID:** `UNI-ENG-03-pet-care-001-v9`
+
 ID: UNI-ENG-03-pet-care-001-v9
 
 ### Enunciado
@@ -195,6 +214,8 @@ When walking a dog near cars, always use a...
 ---
 
 ## Question 10 (Part 10 - Adoption)
+**ID:** `UNI-ENG-03-pet-care-001-v10`
+
 ID: UNI-ENG-03-pet-care-001-v10
 
 ### Enunciado

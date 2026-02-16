@@ -4,6 +4,7 @@ country: global
 grado: 9
 asignatura: ingles
 tema: moral-dilemmas
+periodo: 1
 cefr_level: B1
 protocol_version: 3.1-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Moral Dilemmas (Grade 9)
 
 > **Focus:** Hard choices, ethics, and reasoning.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - The Cashier)
+**ID:** `UNI-ENG-09-moral-dilemmas-001-v1`
+
 ID: UNI-ENG-09-moral-dilemmas-001-v1
 
 ### Contexto
@@ -45,6 +48,8 @@ What should you do?
 ---
 
 ## Question 2 (Part 2 - The Broken Window)
+**ID:** `UNI-ENG-09-moral-dilemmas-001-v2`
+
 ID: UNI-ENG-09-moral-dilemmas-001-v2
 
 ### Contexto
@@ -66,6 +71,8 @@ What is the responsible choice?
 ---
 
 ## Question 3 (Part 3 - The Test)
+**ID:** `UNI-ENG-09-moral-dilemmas-001-v3`
+
 ID: UNI-ENG-09-moral-dilemmas-001-v3
 
 ### Contexto
@@ -87,6 +94,8 @@ This is a conflict between...
 ---
 
 ## Question 4 (Part 4 - The Wallet)
+**ID:** `UNI-ENG-09-moral-dilemmas-001-v4`
+
 ID: UNI-ENG-09-moral-dilemmas-001-v4
 
 ### Contexto
@@ -108,6 +117,8 @@ Do you return it?
 ---
 
 ## Question 5 (Part 5 - Bystander Effect)
+**ID:** `UNI-ENG-09-moral-dilemmas-001-v5`
+
 ID: UNI-ENG-09-moral-dilemmas-001-v5
 
 ### Contexto
@@ -129,6 +140,8 @@ What is this phenomenon?
 ---
 
 ## Question 6 (Part 6 - Promises)
+**ID:** `UNI-ENG-09-moral-dilemmas-001-v6`
+
 ID: UNI-ENG-09-moral-dilemmas-001-v6
 
 ### Contexto
@@ -150,6 +163,8 @@ What is the honorable choice?
 ---
 
 ## Question 7 (Part 7 - The Driver)
+**ID:** `UNI-ENG-09-moral-dilemmas-001-v7`
+
 ID: UNI-ENG-09-moral-dilemmas-001-v7
 
 ### Contexto
@@ -171,6 +186,8 @@ What do you do?
 ---
 
 ## Question 8 (Part 8 - Stealing Bread)
+**ID:** `UNI-ENG-09-moral-dilemmas-001-v8`
+
 ID: UNI-ENG-09-moral-dilemmas-001-v8
 
 ### Contexto
@@ -192,6 +209,8 @@ This questions appeals to...
 ---
 
 ## Question 9 (Part 9 - Credit)
+**ID:** `UNI-ENG-09-moral-dilemmas-001-v9`
+
 ID: UNI-ENG-09-moral-dilemmas-001-v9
 
 ### Contexto
@@ -213,6 +232,8 @@ What do you say?
 ---
 
 ## Question 10 (Part 10 - Consequences)
+**ID:** `UNI-ENG-09-moral-dilemmas-001-v10`
+
 ID: UNI-ENG-09-moral-dilemmas-001-v10
 
 ### Enunciado

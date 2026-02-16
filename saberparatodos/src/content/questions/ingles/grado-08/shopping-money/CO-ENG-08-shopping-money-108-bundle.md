@@ -4,19 +4,25 @@ country: co
 grado: 8
 asignatura: ingles
 tema: shopping-money
+periodo: 1
 cefr_level: B1
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: Shopping & Money Management (B1)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-08-shopping-money-108-v1`
+
+
+**ID:** `CO-ENG-08-shopping-money-108-v1`
+
 ### Enunciado
 **The amount of money you have to pay for something is the _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-08-shopping-money-108-v2`
+
+
+**ID:** `CO-ENG-08-shopping-money-108-v2`
+
 ### Enunciado
 **I (1)_______ my money because I (2)_______ a new bicycle next month.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-08-shopping-money-108-v3`
+
+
+**ID:** `CO-ENG-08-shopping-money-108-v3`
+
 ### Contexto
 **Text:** "Smart shoppers compare prices in different stores. They also look for 'buy one, get one free' deals and use coupons to save money."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-08-shopping-money-108-v4`
+
+
+**ID:** `CO-ENG-08-shopping-money-108-v4`
+
 ### Enunciado
 **A reduction in the usual price of something is a _______.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-08-shopping-money-108-v5`
+
+
+**ID:** `CO-ENG-08-shopping-money-108-v5`
+
 ### Contexto
 **Customer:** "Excuse me, how much is this shirt?"
 **Shop Assistant:** "It's 50,000 pesos."
@@ -105,6 +131,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-08-shopping-money-108-v6`
+
+
+**ID:** `CO-ENG-08-shopping-money-108-v6`
+
 ### Contexto
 **Passage:** "Luisa makes a weekly budget. She writes down her allowance and all her expenses, like snacks and bus tickets. She always tries to put 5,000 pesos into her piggy bank."
 ### Enunciado
@@ -122,6 +153,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-08-shopping-money-108-v7`
+
+
+**ID:** `CO-ENG-08-shopping-money-108-v7`
+
 ### Contexto
 **Person A:** "I spent all my money on a new video game and now I can't go to the cinema."
 **Person B:** "____________"
@@ -140,6 +176,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Degrees of Comparison)
+**ID:** `CO-ENG-08-shopping-money-108-v8`
+
+
+**ID:** `CO-ENG-08-shopping-money-108-v8`
+
 ### Enunciado
 **The red dress is (1)_______ than the blue one, but the green dress is the (2)_______ in the store.**
 ### Opciones
@@ -155,6 +196,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-08-shopping-money-108-v9`
+
+
+**ID:** `CO-ENG-08-shopping-money-108-v9`
+
 ### Enunciado
 **A piece of paper that proves you paid for something is a _______.**
 ### Opciones
@@ -170,6 +216,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Cultural)
+**ID:** `CO-ENG-08-shopping-money-108-v10`
+
+
+**ID:** `CO-ENG-08-shopping-money-108-v10`
+
 ### Enunciado
 **In Colombian markets, some people 'regatear', which means to _______ for a better price.**
 ### Opciones

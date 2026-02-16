@@ -24,9 +24,9 @@ export const institutionalService = {
   async createOrganization(name: string, slug: string, billingEmail: string) {
     const { data, error } = await supabase
       .from('organizations')
-      .insert({ name, slug, billing_email: billingEmail })
+      .insert({ name, slug, billing_email: billingEmail } as any)
       .select()
-      .single();
+      .single() as any;
 
     if (error) throw error;
 
@@ -39,7 +39,7 @@ export const institutionalService = {
             organization_id: data.id,
             user_id: userData.user.id,
             role: 'owner'
-        });
+        } as any);
     }
 
     return data;
@@ -60,10 +60,10 @@ export const institutionalService = {
           id, name, slug, plan_tier, is_active
         )
       `)
-      .eq('user_id', user.id);
+      .eq('user_id', user.id) as any;
 
     if (error) throw error;
-    return data.map(d => ({ ...d.organization, role: d.role })); // Flatten
+    return data.map((d: any) => ({ ...d.organization, role: d.role })); // Flatten
   },
 
   /**
@@ -73,7 +73,7 @@ export const institutionalService = {
     const { data, error } = await supabase
       .from('organization_members')
       .select('*')
-      .eq('organization_id', orgId);
+      .eq('organization_id', orgId) as any;
 
     if (error) throw error;
     return data;

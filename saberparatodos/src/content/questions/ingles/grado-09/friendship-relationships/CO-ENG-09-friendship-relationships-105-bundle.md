@@ -4,17 +4,23 @@ country: co
 grado: 9
 asignatura: ingles
 tema: friendship-relationships
+periodo: 1
 cefr_level: B1+
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Friendship & Relationships (B1+)
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-09-friendship-relationships-105-v1`
+
+
+**ID:** `CO-ENG-09-friendship-relationships-105-v1`
+
 ### Enunciado
 **A very close friend you trust with secrets is a:**
 ### Opciones
@@ -37,6 +43,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Pragmatics)
+**ID:** `CO-ENG-09-friendship-relationships-105-v2`
+
+
+**ID:** `CO-ENG-09-friendship-relationships-105-v2`
+
 ### Contexto
 **Text message:** "I need to tell you something important. Can we meet?"
 ### Enunciado
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Conversation)
+**ID:** `CO-ENG-09-friendship-relationships-105-v3`
+
+
+**ID:** `CO-ENG-09-friendship-relationships-105-v3`
+
 ### Contexto
 **Friend:** "I feel like nobody understands me."
 **You:** "____________"
@@ -72,6 +88,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Grammar)
+**ID:** `CO-ENG-09-friendship-relationships-105-v4`
+
+
+**ID:** `CO-ENG-09-friendship-relationships-105-v4`
+
 ### Contexto
 "If she (1)______ me the truth, I (2)______ her more."
 ### Enunciado
@@ -89,6 +110,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Literal Reading)
+**ID:** `CO-ENG-09-friendship-relationships-105-v5`
+
+
+**ID:** `CO-ENG-09-friendship-relationships-105-v5`
+
 ### Contexto
 **Text:** "Research shows that people with strong social connections live longer and report higher life satisfaction. Having even one close friend significantly impacts mental health."
 ### Enunciado
@@ -106,6 +132,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-09-friendship-relationships-105-v6`
+
+
+**ID:** `CO-ENG-09-friendship-relationships-105-v6`
+
 ### Contexto
 **Passage:** "Online friends are different from in-person friends. You can curate exactly what they see. With in-person friends, they see you at your worst—tired, stressed, imperfect. And they stay anyway. That's the real test."
 ### Enunciado
@@ -123,6 +154,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Advanced Grammar)
+**ID:** `CO-ENG-09-friendship-relationships-105-v7`
+
+
+**ID:** `CO-ENG-09-friendship-relationships-105-v7`
+
 ### Contexto
 "(1)______ knowing each other for years, they (2)______ very different people now."
 ### Enunciado
@@ -140,6 +176,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Vocabulary)
+**ID:** `CO-ENG-09-friendship-relationships-105-v8`
+
+
+**ID:** `CO-ENG-09-friendship-relationships-105-v8`
+
 ### Enunciado
 **"To make amends" means:**
 ### Opciones
@@ -155,6 +196,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Use of English)
+**ID:** `CO-ENG-09-friendship-relationships-105-v9`
+
+
+**ID:** `CO-ENG-09-friendship-relationships-105-v9`
+
 ### Contexto
 **Original:** "Good friends support each other through difficult times."
 **Rewrite:** *EACH OTHER...*
@@ -173,6 +219,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Critical Thinking)
+**ID:** `CO-ENG-09-friendship-relationships-105-v10`
+
+
+**ID:** `CO-ENG-09-friendship-relationships-105-v10`
+
 ### Contexto
 **Statement:** "If someone is a true friend, they should always agree with you."
 ### Enunciado

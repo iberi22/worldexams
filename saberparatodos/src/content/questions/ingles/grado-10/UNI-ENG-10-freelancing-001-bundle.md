@@ -4,6 +4,7 @@ country: global
 grado: 10
 asignatura: ingles
 tema: freelancing
+periodo: 1
 cefr_level: B1+
 protocol_version: 3.2-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Freelancing & Gig Economy (Grade 10)
 
 > **Focus:** Upwork, Clients, and Rates.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Client)
+**ID:** `UNI-ENG-10-freelancing-001-v1`
+
 ID: UNI-ENG-10-freelancing-001-v1
 
 ### Enunciado
@@ -42,6 +45,8 @@ The person or company who pays you for your work.
 ---
 
 ## Question 2 (Part 2 - Deadline)
+**ID:** `UNI-ENG-10-freelancing-001-v2`
+
 ID: UNI-ENG-10-freelancing-001-v2
 
 ### Enunciado
@@ -60,6 +65,8 @@ The specific time or date by which a job must be finished.
 ---
 
 ## Question 3 (Part 3 - Portfolio)
+**ID:** `UNI-ENG-10-freelancing-001-v3`
+
 ID: UNI-ENG-10-freelancing-001-v3
 
 ### Contexto
@@ -81,6 +88,8 @@ ID: UNI-ENG-10-freelancing-001-v3
 ---
 
 ## Question 4 (Part 4 - Rate)
+**ID:** `UNI-ENG-10-freelancing-001-v4`
+
 ID: UNI-ENG-10-freelancing-001-v4
 
 ### Enunciado
@@ -99,6 +108,8 @@ The amount of money you charge per hour or per project.
 ---
 
 ## Question 5 (Part 5 - Proposal)
+**ID:** `UNI-ENG-10-freelancing-001-v5`
+
 ID: UNI-ENG-10-freelancing-001-v5
 
 ### Enunciado
@@ -117,6 +128,8 @@ A document you send to a client explaining how you will solve their problem and 
 ---
 
 ## Question 6 (Part 6 - Gig Economy)
+**ID:** `UNI-ENG-10-freelancing-001-v6`
+
 ID: UNI-ENG-10-freelancing-001-v6
 
 ### Enunciado
@@ -135,6 +148,8 @@ A labor market characterized by short-term contracts or freelance work (e.g., Ub
 ---
 
 ## Question 7 (Part 7 - Review)
+**ID:** `UNI-ENG-10-freelancing-001-v7`
+
 ID: UNI-ENG-10-freelancing-001-v7
 
 ### Enunciado
@@ -153,6 +168,8 @@ Feedback left by a client (usually 1-5 stars) after a job is done.
 ---
 
 ## Question 8 (Part 8 - Invoice)
+**ID:** `UNI-ENG-10-freelancing-001-v8`
+
 ID: UNI-ENG-10-freelancing-001-v8
 
 ### Contexto
@@ -174,6 +191,8 @@ ID: UNI-ENG-10-freelancing-001-v8
 ---
 
 ## Question 9 (Part 9 - Contract)
+**ID:** `UNI-ENG-10-freelancing-001-v9`
+
 ID: UNI-ENG-10-freelancing-001-v9
 
 ### Enunciado
@@ -192,6 +211,8 @@ A legal agreement between you and the client detailing the work.
 ---
 
 ## Question 10 (Part 10 - Upskill)
+**ID:** `UNI-ENG-10-freelancing-001-v10`
+
 ID: UNI-ENG-10-freelancing-001-v10
 
 ### Enunciado

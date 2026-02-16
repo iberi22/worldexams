@@ -112,7 +112,7 @@ Los egipcios usaban jeroglíficos en sus templos y tumbas para narrar la histori
 
 ## Pregunta 5 (Media A - Dificultad 3)
 
-**ID:** `CO-CN-6-sistema-oseo-muscular-coordinacion-001-v5`
+**ID:** `CO-SOC-6-civilizaciones-mesopotamia-egipto-001-v5`
 
 ### Enunciado
 

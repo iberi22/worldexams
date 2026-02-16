@@ -6,6 +6,7 @@ asignatura: ingles
 tema: business-elite
 cefr_level: C1
 protocol_version: 3.1-GLOBAL
+periodo: 1
 total_questions: 10
 international_focus: BEC Higher / Business English
 licenses:
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Finance Vocabulary - Difficulty 4)
+**ID:** `UNI-ENG-C1-business-elite-001-v1`
+
 ID: UNI-ENG-C1-business-elite-001-v1
 
 ### Enunciado
@@ -42,6 +45,8 @@ ID: UNI-ENG-C1-business-elite-001-v1
 ---
 
 ## Question 2 (Part 2 - Idioms in Meeting - Difficulty 5)
+**ID:** `UNI-ENG-C1-business-elite-001-v2`
+
 ID: UNI-ENG-C1-business-elite-001-v2
 
 ### Contexto
@@ -64,6 +69,8 @@ What does "go back to the drawing board" mean?
 ---
 
 ## Question 3 (Part 3 - Formal Correspondence - Difficulty 4)
+**ID:** `UNI-ENG-C1-business-elite-001-v3`
+
 ID: UNI-ENG-C1-business-elite-001-v3
 
 ### Contexto
@@ -86,6 +93,8 @@ Choose the formal verb to complete the phrase.
 ---
 
 ## Question 4 (Part 4 - Negotiation Strategy - Difficulty 5)
+**ID:** `UNI-ENG-C1-business-elite-001-v4`
+
 ID: UNI-ENG-C1-business-elite-001-v4
 
 ### Contexto
@@ -108,6 +117,8 @@ What is the speaker proposing?
 ---
 
 ## Question 5 (Part 5 - Economic Trends - Difficulty 5)
+**ID:** `UNI-ENG-C1-business-elite-001-v5`
+
 ID: UNI-ENG-C1-business-elite-001-v5
 
 ### Contexto
@@ -130,6 +141,8 @@ Choose the verb that logically follows logical market saturation.
 ---
 
 ## Question 6 (Part 6 - Corporate Governance - Difficulty 5)
+**ID:** `UNI-ENG-C1-business-elite-001-v6`
+
 ID: UNI-ENG-C1-business-elite-001-v6
 
 ### Contexto
@@ -152,6 +165,8 @@ What crime did the CEO commit?
 ---
 
 ## Question 7 (Part 7 - Phrasal Verbs - Difficulty 4)
+**ID:** `UNI-ENG-C1-business-elite-001-v7`
+
 ID: UNI-ENG-C1-business-elite-001-v7
 
 ### Contexto
@@ -174,6 +189,8 @@ Choose the particle that means "failed to happen."
 ---
 
 ## Question 8 (Part 8 - Advanced Modals - Difficulty 5)
+**ID:** `UNI-ENG-C1-business-elite-001-v8`
+
 ID: UNI-ENG-C1-business-elite-001-v8
 
 ### Contexto
@@ -197,6 +214,8 @@ Choose the correct modal structure for a past unfulfilled possibility.
 ---
 
 ## Question 9 (Part 9 - Connectors - Difficulty 5)
+**ID:** `UNI-ENG-C1-business-elite-001-v9`
+
 ID: UNI-ENG-C1-business-elite-001-v9
 
 ### Contexto
@@ -219,6 +238,8 @@ Choose the correct concession connector.
 ---
 
 ## Question 10 (Part 10 - Nuance - Difficulty 5)
+**ID:** `UNI-ENG-C1-business-elite-001-v10`
+
 ID: UNI-ENG-C1-business-elite-001-v10
 
 ### Contexto

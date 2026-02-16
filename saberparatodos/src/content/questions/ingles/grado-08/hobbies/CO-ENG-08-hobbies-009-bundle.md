@@ -4,19 +4,22 @@ country: co
 grado: 8
 asignatura: ingles
 tema: hobbies
+periodo: 1
 cefr_level: B1
 protocol_version: 3.0-COL
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Hobbies & Free Time (B1)
 
 ---
 
 ## Question 1 (Part 1 - Vocabulary)
+**ID:** `CO-ENG-08-hobbies-009-v1`
+
 ID: CO-ENG-08-hobbies-009-v1
 
 ### Enunciado
@@ -36,6 +39,8 @@ Hobby = something you enjoy doing in your free time for fun (not work or obligat
 ---
 
 ## Question 2 (Part 2 - Pragmatics)
+**ID:** `CO-ENG-08-hobbies-009-v2`
+
 ID: CO-ENG-08-hobbies-009-v2
 
 ### Contexto
@@ -57,6 +62,8 @@ The emojis + words indicate hobbies: 📸=photography, 🎸=guitar, 🎮=gaming.
 ---
 
 ## Question 3 (Part 3 - Conversation)
+**ID:** `CO-ENG-08-hobbies-009-v3`
+
 ID: CO-ENG-08-hobbies-009-v3
 
 ### Contexto
@@ -78,6 +85,8 @@ Shows three specific hobbies with enthusiasm ("love"). Good conversation starter
 ---
 
 ## Question 4 (Part 4 - Grammar)
+**ID:** `CO-ENG-08-hobbies-009-v4`
+
 ID: CO-ENG-08-hobbies-009-v4
 
 ### Contexto
@@ -96,6 +105,8 @@ ID: CO-ENG-08-hobbies-009-v4
 ---
 
 ## Question 5 (Part 5 - Literal Reading)
+**ID:** `CO-ENG-08-hobbies-009-v5`
+
 ID: CO-ENG-08-hobbies-009-v5
 
 ### Contexto
@@ -117,6 +128,8 @@ Text lists benefits: reduce stress, improve mental health, boost career, build c
 ---
 
 ## Question 6 (Part 6 - Inferential Reading)
+**ID:** `CO-ENG-08-hobbies-009-v6`
+
 ID: CO-ENG-08-hobbies-009-v6
 
 ### Contexto
@@ -138,6 +151,8 @@ ID: CO-ENG-08-hobbies-009-v6
 ---
 
 ## Question 7 (Part 7 - Grammar)
+**ID:** `CO-ENG-08-hobbies-009-v7`
+
 ID: CO-ENG-08-hobbies-009-v7
 
 ### Contexto
@@ -156,6 +171,8 @@ First conditional with "might" (possibility): If + present, might + verb.
 ---
 
 ## Question 8 (Challenge - Vocabulary)
+**ID:** `CO-ENG-08-hobbies-009-v8`
+
 ID: CO-ENG-08-hobbies-009-v8
 
 ### Enunciado
@@ -174,6 +191,8 @@ DIY = making or repairing things yourself instead of buying or hiring someone.
 ---
 
 ## Question 9 (Challenge - Scenario)
+**ID:** `CO-ENG-08-hobbies-009-v9`
+
 ID: CO-ENG-08-hobbies-009-v9
 
 ### Contexto
@@ -195,6 +214,8 @@ Negotiate respectfully. Show the value in your hobby while acknowledging their c
 ---
 
 ## Question 10 (Challenge - Critical Thinking)
+**ID:** `CO-ENG-08-hobbies-009-v10`
+
 ID: CO-ENG-08-hobbies-009-v10
 
 ### Contexto

@@ -4,6 +4,7 @@ country: global
 grado: 5
 asignatura: ingles
 tema: street-safety
+periodo: 1
 cefr_level: A1+
 protocol_version: 3.1-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Street Safety (Grade 5)
 
 > **Focus:** Crossing the road, signs, and situational awareness.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Crossing)
+**ID:** `UNI-ENG-05-street-safety-001-v1`
+
 ID: UNI-ENG-05-street-safety-001-v1
 
 ### Enunciado
@@ -42,6 +45,8 @@ Before crossing the street, always look...
 ---
 
 ## Question 2 (Part 2 - Traffic Light)
+**ID:** `UNI-ENG-05-street-safety-001-v2`
+
 ID: UNI-ENG-05-street-safety-001-v2
 
 ### Enunciado
@@ -60,6 +65,8 @@ ID: UNI-ENG-05-street-safety-001-v2
 ---
 
 ## Question 3 (Part 3 - Zebra)
+**ID:** `UNI-ENG-05-street-safety-001-v3`
+
 ID: UNI-ENG-05-street-safety-001-v3
 
 ### Contexto
@@ -81,6 +88,8 @@ This is a...
 ---
 
 ## Question 4 (Part 4 - Helmet)
+**ID:** `UNI-ENG-05-street-safety-001-v4`
+
 ID: UNI-ENG-05-street-safety-001-v4
 
 ### Enunciado
@@ -99,6 +108,8 @@ When riding a bike, wear a...
 ---
 
 ## Question 5 (Part 5 - Sidewalk)
+**ID:** `UNI-ENG-05-street-safety-001-v5`
+
 ID: UNI-ENG-05-street-safety-001-v5
 
 ### Enunciado
@@ -117,6 +128,8 @@ Pedestrians (walkers) should stay on the...
 ---
 
 ## Question 6 (Part 6 - Seatbelt)
+**ID:** `UNI-ENG-05-street-safety-001-v6`
+
 ID: UNI-ENG-05-street-safety-001-v6
 
 ### Enunciado
@@ -135,6 +148,8 @@ In a car, always wear your...
 ---
 
 ## Question 7 (Part 7 - Headphones)
+**ID:** `UNI-ENG-05-street-safety-001-v7`
+
 ID: UNI-ENG-05-street-safety-001-v7
 
 ### Enunciado
@@ -153,6 +168,8 @@ Do not walk across the street wearing...
 ---
 
 ## Question 8 (Part 8 - Stranger Car)
+**ID:** `UNI-ENG-05-street-safety-001-v8`
+
 ID: UNI-ENG-05-street-safety-001-v8
 
 ### Contexto
@@ -174,6 +191,8 @@ What do you do?
 ---
 
 ## Question 9 (Part 9 - Night)
+**ID:** `UNI-ENG-05-street-safety-001-v9`
+
 ID: UNI-ENG-05-street-safety-001-v9
 
 ### Enunciado
@@ -192,6 +211,8 @@ If walking at night, wear...
 ---
 
 ## Question 10 (Part 10 - Ambulance)
+**ID:** `UNI-ENG-05-street-safety-001-v10`
+
 ID: UNI-ENG-05-street-safety-001-v10
 
 ### Enunciado

@@ -3,10 +3,10 @@
  * Genera reportes PDF/HTML con infografías usando Chart.js y jsPDF
  */
 
-import Chart from 'chart.js/auto';
-import html2canvas from 'html2canvas';
-import { jsPDF } from 'jspdf';
-import type { PartyResults } from '../types';
+
+
+
+import type { RoomResults, PlayerStats } from '../types';
 
 interface ReportOptions {
   format: 'pdf' | 'html';
@@ -19,7 +19,7 @@ class ReportGeneratorService {
    * Genera un reporte completo de la party
    */
   async generateFullReport(
-    results: PartyResults,
+    results: RoomResults,
     options: ReportOptions = {
       format: 'pdf',
       includeCharts: true,
@@ -37,16 +37,16 @@ class ReportGeneratorService {
    * Genera reporte individual para un jugador
    */
   async generatePlayerReport(
-    results: PartyResults,
+    results: RoomResults,
     playerId: string,
     options: ReportOptions = { format: 'pdf', includeCharts: true, includeRecommendations: true }
   ): Promise<Blob | string> {
-    const playerStats = results.playerStats.find((s) => s.playerId === playerId);
+    const playerStats = results.playerStats.find((s: any) => s.playerId === playerId);
     if (!playerStats) {
       throw new Error('Player not found in results');
     }
 
-    const playerResults: PartyResults = {
+    const playerResults: RoomResults = {
       ...results,
       playerStats: [playerStats],
     };
@@ -57,7 +57,7 @@ class ReportGeneratorService {
   /**
    * Genera reporte HTML (preview en navegador)
    */
-  private generateHTMLReport(results: PartyResults, options: ReportOptions): string {
+  private generateHTMLReport(results: RoomResults, options: ReportOptions): string {
     const chartHTML = options.includeCharts ? this.generateChartsHTML(results) : '';
     const recommendationsHTML = options.includeRecommendations
       ? this.generateRecommendationsHTML(results)
@@ -69,7 +69,7 @@ class ReportGeneratorService {
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Reporte - ${results.partyName}</title>
+  <title>Reporte - ${results.roomName}</title>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -102,7 +102,7 @@ class ReportGeneratorService {
   <div class="container">
     <div class="header">
       <h1>🎓 Reporte de Examen</h1>
-      <p style="font-size: 1.2rem; color: #64748b;">${results.partyName}</p>
+      <p style="font-size: 1.2rem; color: #64748b;">${results.roomName}</p>
       <p style="color: #94a3b8; margin-top: 0.5rem;">Generado el ${new Date(results.generatedAt).toLocaleDateString('es-CO', { dateStyle: 'long' })}</p>
     </div>
 
@@ -131,9 +131,9 @@ class ReportGeneratorService {
     <h2>👥 Ranking de Participantes</h2>
     <div class="player-list">
       ${results.playerStats
-        .sort((a, b) => b.score - a.score)
+        .sort((a: any, b: any) => b.score - a.score)
         .map(
-          (player, index) => `
+          (player: any, index: number) => `
         <div class="player-item">
           <div>
             <strong>${index === 0 ? '🥇' : index === 1 ? '🥈' : index === 2 ? '🥉' : `#${index + 1}`} ${player.playerName}</strong>
@@ -168,7 +168,7 @@ class ReportGeneratorService {
   /**
    * Genera el HTML de las gráficas
    */
-  private generateChartsHTML(_results: PartyResults): string {
+  private generateChartsHTML(_results: RoomResults): string {
     return `
     <h2>📈 Análisis Visual</h2>
     <div class="chart-container">
@@ -186,11 +186,11 @@ class ReportGeneratorService {
   /**
    * Genera scripts para renderizar gráficas con Chart.js
    */
-  private generateChartScripts(results: PartyResults): string {
-    const scores = results.playerStats.map((p) => p.score);
-    const times = results.playerStats.map((p) => p.averageTimePerQuestion / 1000);
+  private generateChartScripts(results: RoomResults): string {
+    const scores = results.playerStats.map((p: PlayerStats) => p.score);
+    const times = results.playerStats.map((p: PlayerStats) => p.averageTimePerQuestion / 1000);
     const questionCorrectness = results.questionStats.map(
-      (q) => (q.correctCount / (q.correctCount + q.incorrectCount)) * 100
+      (q: any) => (q.correctCount / (q.correctCount + q.incorrectCount)) * 100
     );
 
     return `
@@ -199,7 +199,7 @@ class ReportGeneratorService {
       new Chart(document.getElementById('scoreDistributionChart'), {
         type: 'bar',
         data: {
-          labels: ${JSON.stringify(results.playerStats.map((p) => p.playerName))},
+          labels: ${JSON.stringify(results.playerStats.map((p: any) => p.playerName))},
           datasets: [{
             label: 'Puntaje',
             data: ${JSON.stringify(scores)},
@@ -224,7 +224,7 @@ class ReportGeneratorService {
       new Chart(document.getElementById('timeDistributionChart'), {
         type: 'line',
         data: {
-          labels: ${JSON.stringify(results.playerStats.map((p) => p.playerName))},
+          labels: ${JSON.stringify(results.playerStats.map((p: any) => p.playerName))},
           datasets: [{
             label: 'Tiempo Promedio (s)',
             data: ${JSON.stringify(times)},
@@ -247,11 +247,11 @@ class ReportGeneratorService {
       new Chart(document.getElementById('questionDifficultyChart'), {
         type: 'bar',
         data: {
-          labels: ${JSON.stringify(results.questionStats.map((_, i) => `P${i + 1}`))},
+          labels: ${JSON.stringify(results.questionStats.map((_: any, i: number) => `P${i + 1}`))},
           datasets: [{
             label: '% de Aciertos',
             data: ${JSON.stringify(questionCorrectness)},
-            backgroundColor: ${JSON.stringify(questionCorrectness.map((p) => (p >= 70 ? 'rgba(34, 197, 94, 0.8)' : p >= 50 ? 'rgba(251, 191, 36, 0.8)' : 'rgba(239, 68, 68, 0.8)')))},
+            backgroundColor: ${JSON.stringify(questionCorrectness.map((p: any) => (p >= 70 ? 'rgba(34, 197, 94, 0.8)' : p >= 50 ? 'rgba(251, 191, 36, 0.8)' : 'rgba(239, 68, 68, 0.8)')))},
             borderWidth: 2
           }]
         },
@@ -273,12 +273,12 @@ class ReportGeneratorService {
   /**
    * Genera recomendaciones personalizadas
    */
-  private generateRecommendationsHTML(results: PartyResults): string {
+  private generateRecommendationsHTML(results: RoomResults): string {
     return `
     <h2>💡 Recomendaciones Personalizadas</h2>
     ${results.playerStats
       .map(
-        (player) => `
+        (player: any) => `
       <div class="recommendation">
         <strong>${player.playerName}</strong>
         <p style="margin-top: 0.75rem;">${player.recommendation}</p>
@@ -293,7 +293,7 @@ class ReportGeneratorService {
    * Genera reporte PDF (requiere jsPDF y html2canvas)
    */
   private async generatePDFReport(
-    results: PartyResults,
+    results: RoomResults,
     options: ReportOptions
   ): Promise<Blob> {
     // TODO: Implementar con jsPDF y html2canvas (dependencias ya instaladas)

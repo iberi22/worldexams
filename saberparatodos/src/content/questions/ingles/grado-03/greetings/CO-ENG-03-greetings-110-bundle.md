@@ -4,19 +4,25 @@ country: co
 grado: 3
 asignatura: ingles
 tema: greetings
+periodo: 1
 cefr_level: A1
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: Greetings & Courtesies (A1)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-03-greetings-110-v1`
+
+
+**ID:** `CO-ENG-03-greetings-110-v1`
+
 ### Enunciado
 **When you meet someone in the morning, you say _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-03-greetings-110-v2`
+
+
+**ID:** `CO-ENG-03-greetings-110-v2`
+
 ### Enunciado
 **(1)_______ are you? I (2)_______ fine, thank you.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-03-greetings-110-v3`
+
+
+**ID:** `CO-ENG-03-greetings-110-v3`
+
 ### Contexto
 **Text:** "Hi, my name is Sara. I am eight years old. I like to say 'please' and 'thank you' because it is polite."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-03-greetings-110-v4`
+
+
+**ID:** `CO-ENG-03-greetings-110-v4`
+
 ### Enunciado
 **When someone gives you a gift, you say _______.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-03-greetings-110-v5`
+
+
+**ID:** `CO-ENG-03-greetings-110-v5`
+
 ### Contexto
 **Boy:** "Goodbye, teacher! Have a nice day!"
 **Teacher:** "Goodbye, Luis! See you tomorrow."
@@ -104,6 +130,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-03-greetings-110-v6`
+
+
+**ID:** `CO-ENG-03-greetings-110-v6`
+
 ### Contexto
 **Passage:** "The sun is going down. The stars are in the sky. It is time to sleep. Mom says '____________'."
 ### Enunciado
@@ -121,6 +152,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-03-greetings-110-v7`
+
+
+**ID:** `CO-ENG-03-greetings-110-v7`
+
 ### Contexto
 **Person A:** "What is your name?"
 **Person B:** "____________"
@@ -139,6 +175,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Polite Request)
+**ID:** `CO-ENG-03-greetings-110-v8`
+
+
+**ID:** `CO-ENG-03-greetings-110-v8`
+
 ### Enunciado
 **Can I have some water, (1)_______? Yes, (2)_______ you are.**
 ### Opciones
@@ -154,6 +195,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-03-greetings-110-v9`
+
+
+**ID:** `CO-ENG-03-greetings-110-v9`
+
 ### Enunciado
 **When you make a mistake, you should say _______.**
 ### Opciones
@@ -169,6 +215,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Cultural)
+**ID:** `CO-ENG-03-greetings-110-v10`
+
+
+**ID:** `CO-ENG-03-greetings-110-v10`
+
 ### Enunciado
 **In Colombia, it is very important to say 'buenos días' or 'buenas tardes' to your _______ (neighbors).**
 ### Opciones

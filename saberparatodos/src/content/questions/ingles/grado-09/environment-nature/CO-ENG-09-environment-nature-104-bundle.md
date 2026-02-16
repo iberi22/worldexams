@@ -4,17 +4,23 @@ country: co
 grado: 9
 asignatura: ingles
 tema: environment-nature
+periodo: 1
 cefr_level: B1+
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Environment & Nature (B1+)
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-09-environment-nature-104-v1`
+
+
+**ID:** `CO-ENG-09-environment-nature-104-v1`
+
 ### Enunciado
 **Animals in danger of disappearing forever are called:**
 ### Opciones
@@ -40,6 +46,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Pragmatics)
+**ID:** `CO-ENG-09-environment-nature-104-v2`
+
+
+**ID:** `CO-ENG-09-environment-nature-104-v2`
+
 ### Contexto
 **Park sign:** "🚯 Take nothing but pictures, leave nothing but footprints."
 ### Enunciado
@@ -57,6 +68,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Conversation)
+**ID:** `CO-ENG-09-environment-nature-104-v3`
+
+
+**ID:** `CO-ENG-09-environment-nature-104-v3`
+
 ### Contexto
 **Friend:** "Why should we care about animals going extinct?"
 **You:** "____________"
@@ -75,6 +91,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Grammar)
+**ID:** `CO-ENG-09-environment-nature-104-v4`
+
+
+**ID:** `CO-ENG-09-environment-nature-104-v4`
+
 ### Contexto
 "If we (1)______ protecting forests now, future generations (2)______ the consequences."
 ### Enunciado
@@ -92,6 +113,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Literal Reading)
+**ID:** `CO-ENG-09-environment-nature-104-v5`
+
+
+**ID:** `CO-ENG-09-environment-nature-104-v5`
+
 ### Contexto
 **Text:** "Colombia is home to 10% of the world's species. The country has more bird species (1,900+) than any other nation."
 ### Enunciado
@@ -109,6 +135,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-09-environment-nature-104-v6`
+
+
+**ID:** `CO-ENG-09-environment-nature-104-v6`
+
 ### Contexto
 **Passage:** "We speak of 'protecting nature' as if we were separate from it. But humans are part of nature. When ecosystems collapse, we collapse with them. There is no 'us' versus 'nature'—there is only 'us.'"
 ### Enunciado
@@ -126,6 +157,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Advanced Grammar)
+**ID:** `CO-ENG-09-environment-nature-104-v7`
+
+
+**ID:** `CO-ENG-09-environment-nature-104-v7`
+
 ### Contexto
 "(1)______ renewable energy becoming cheaper, (2)______ countries continue using coal."
 ### Enunciado
@@ -143,6 +179,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Vocabulary)
+**ID:** `CO-ENG-09-environment-nature-104-v8`
+
+
+**ID:** `CO-ENG-09-environment-nature-104-v8`
+
 ### Enunciado
 **"Deforestation" means:**
 ### Opciones
@@ -158,6 +199,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Use of English)
+**ID:** `CO-ENG-09-environment-nature-104-v9`
+
+
+**ID:** `CO-ENG-09-environment-nature-104-v9`
+
 ### Contexto
 **Original:** "Farmers are destroying the Amazon rainforest."
 **Rewrite:** *THE AMAZON RAINFOREST...*
@@ -176,6 +222,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Critical Thinking)
+**ID:** `CO-ENG-09-environment-nature-104-v10`
+
+
+**ID:** `CO-ENG-09-environment-nature-104-v10`
+
 ### Contexto
 **Statement:** "Economic development is more important than environmental protection."
 ### Enunciado

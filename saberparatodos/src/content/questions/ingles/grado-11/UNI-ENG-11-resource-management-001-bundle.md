@@ -6,6 +6,7 @@ asignatura: ingles
 tema: resource-management
 cefr_level: B2+
 protocol_version: 3.1-GLOBAL
+periodo: 1
 total_questions: 10
 international_focus: Energy policy / Circular Economy
 licenses:
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Linear vs Circular)
+**ID:** `UNI-ENG-11-resource-management-001-v1`
+
 ID: UNI-ENG-11-resource-management-001-v1
 
 ### Contexto
@@ -45,6 +48,8 @@ What economic model is this?
 ---
 
 ## Question 2 (Part 2 - Planned Obsolescence)
+**ID:** `UNI-ENG-11-resource-management-001-v2`
+
 ID: UNI-ENG-11-resource-management-001-v2
 
 ### Contexto
@@ -66,6 +71,8 @@ What is this unethical practice?
 ---
 
 ## Question 3 (Part 3 - Water Footprint)
+**ID:** `UNI-ENG-11-resource-management-001-v3`
+
 ID: UNI-ENG-11-resource-management-001-v3
 
 ### Contexto
@@ -87,6 +94,8 @@ This refers to the beef's...
 ---
 
 ## Question 4 (Part 4 - Finite Resources)
+**ID:** `UNI-ENG-11-resource-management-001-v4`
+
 ID: UNI-ENG-11-resource-management-001-v4
 
 ### Enunciado
@@ -105,6 +114,8 @@ Which resource is **finite** (non-renewable)?
 ---
 
 ## Question 5 (Part 5 - Grid)
+**ID:** `UNI-ENG-11-resource-management-001-v5`
+
 ID: UNI-ENG-11-resource-management-001-v5
 
 ### Contexto
@@ -126,6 +137,8 @@ What is this?
 ---
 
 ## Question 6 (Part 6 - Desalination)
+**ID:** `UNI-ENG-11-resource-management-001-v6`
+
 ID: UNI-ENG-11-resource-management-001-v6
 
 ### Contexto
@@ -147,6 +160,8 @@ What is this process?
 ---
 
 ## Question 7 (Part 7 - Cradle to Cradle)
+**ID:** `UNI-ENG-11-resource-management-001-v7`
+
 ID: UNI-ENG-11-resource-management-001-v7
 
 ### Contexto
@@ -168,6 +183,8 @@ What is this design philosophy?
 ---
 
 ## Question 8 (Part 8 - Energy Mix)
+**ID:** `UNI-ENG-11-resource-management-001-v8`
+
 ID: UNI-ENG-11-resource-management-001-v8
 
 ### Contexto
@@ -189,6 +206,8 @@ This breakdown is called the national...
 ---
 
 ## Question 9 (Part 9 - Green Tax)
+**ID:** `UNI-ENG-11-resource-management-001-v9`
+
 ID: UNI-ENG-11-resource-management-001-v9
 
 ### Contexto
@@ -210,6 +229,8 @@ What type of instrument is this?
 ---
 
 ## Question 10 (Part 10 - Eutrophication)
+**ID:** `UNI-ENG-11-resource-management-001-v10`
+
 ID: UNI-ENG-11-resource-management-001-v10
 
 ### Contexto

@@ -4,6 +4,7 @@ country: global
 grado: 7
 asignatura: ingles
 tema: animal-rights
+periodo: 1
 cefr_level: A2
 protocol_version: 3.1-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Animal Rights & Welfare (Grade 7)
 
 > **Focus:** Cruelty free, testing, and humane treatment.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Cruelty)
+**ID:** `UNI-ENG-07-animal-rights-001-v1`
+
 ID: UNI-ENG-07-animal-rights-001-v1
 
 ### Contexto
@@ -45,6 +48,8 @@ What is this?
 ---
 
 ## Question 2 (Part 2 - Testing)
+**ID:** `UNI-ENG-07-animal-rights-001-v2`
+
 ID: UNI-ENG-07-animal-rights-001-v2
 
 ### Contexto
@@ -66,6 +71,8 @@ What symbol usually implies this?
 ---
 
 ## Question 3 (Part 3 - Factory Farming)
+**ID:** `UNI-ENG-07-animal-rights-001-v3`
+
 ID: UNI-ENG-07-animal-rights-001-v3
 
 ### Contexto
@@ -87,6 +94,8 @@ This is a...
 ---
 
 ## Question 4 (Part 4 - Vegan)
+**ID:** `UNI-ENG-07-animal-rights-001-v4`
+
 ID: UNI-ENG-07-animal-rights-001-v4
 
 ### Contexto
@@ -108,6 +117,8 @@ They are...
 ---
 
 ## Question 5 (Part 5 - Fur)
+**ID:** `UNI-ENG-07-animal-rights-001-v5`
+
 ID: UNI-ENG-07-animal-rights-001-v5
 
 ### Contexto
@@ -129,6 +140,8 @@ What do they use instead?
 ---
 
 ## Question 6 (Part 6 - Abandonment)
+**ID:** `UNI-ENG-07-animal-rights-001-v6`
+
 ID: UNI-ENG-07-animal-rights-001-v6
 
 ### Enunciado
@@ -147,6 +160,8 @@ Leaving a dog on the side of the road is...
 ---
 
 ## Question 7 (Part 7 - Entertainment)
+**ID:** `UNI-ENG-07-animal-rights-001-v7`
+
 ID: UNI-ENG-07-animal-rights-001-v7
 
 ### Contexto
@@ -168,6 +183,8 @@ Many countries have _______ this practice.
 ---
 
 ## Question 8 (Part 8 - Sentinel)
+**ID:** `UNI-ENG-07-animal-rights-001-v8`
+
 ID: UNI-ENG-07-animal-rights-001-v8
 
 ### Contexto
@@ -189,6 +206,8 @@ This means they are ________ beings.
 ---
 
 ## Question 9 (Part 9 - Working Animals)
+**ID:** `UNI-ENG-07-animal-rights-001-v9`
+
 ID: UNI-ENG-07-animal-rights-001-v9
 
 ### Contexto
@@ -210,6 +229,8 @@ Is this correct?
 ---
 
 ## Question 10 (Part 10 - Adoption)
+**ID:** `UNI-ENG-07-animal-rights-001-v10`
+
 ID: UNI-ENG-07-animal-rights-001-v10
 
 ### Enunciado

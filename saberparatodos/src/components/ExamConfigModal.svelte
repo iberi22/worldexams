@@ -69,6 +69,7 @@
   let examMode = $state('simulacro'); // 🆕 'simulacro' | 'period'
   let selectedPeriod = $state(1); // 🆕 1, 2, 3, 4
   let useDiagnostic = $state(false);
+  let diagnosticMixPercent = $state(20); // % de preguntas de grados inferiores
   let showResetConfirm = $state(false);
   let roomEnabled = $state(false);
   let roomTab = $state('crear'); // 'crear' or 'unirse'
@@ -467,6 +468,8 @@
                  if (msg.payload.grade) selectedGrade = msg.payload.grade;
                  if (msg.payload.examMode) examMode = msg.payload.examMode; // 🆕 Sync exam mode
                  if (msg.payload.period) selectedPeriod = msg.payload.period; // 🆕 Sync period
+                 if (msg.payload.useDiagnostic !== undefined) useDiagnostic = Boolean(msg.payload.useDiagnostic);
+                 if (msg.payload.diagnosticMixPercent !== undefined) diagnosticMixPercent = Number(msg.payload.diagnosticMixPercent) || 20;
                  if (msg.payload.questions) {
                      // 🔥 Validate questions before syncing
                      const validQuestions = msg.payload.questions.filter(q =>
@@ -532,6 +535,8 @@
                      }
                      console.log('🆕 English Diagnostic Mode (START):', startConfig.isEnglishDiagnostic);
                  }
+                 if (startConfig.useDiagnostic !== undefined) useDiagnostic = Boolean(startConfig.useDiagnostic);
+                 if (startConfig.diagnosticMixPercent !== undefined) diagnosticMixPercent = Number(startConfig.diagnosticMixPercent) || 20;
                  // Force start logic with synced config
                  handleStart(startConfig);
              }
@@ -562,6 +567,8 @@
          time_option: timeOption,
          questions: syncedQuestions, // 🔥 Always include questions
          isEnglishDiagnostic: isEnglishDiagnosticMode, // 🆕 Sync English Diagnostic mode to guests
+         useDiagnostic: useDiagnostic,
+         diagnosticMixPercent: diagnosticMixPercent,
          examMode: examMode, // 🆕 Sync Mode
          period: selectedPeriod // 🆕 Sync Period
      };
@@ -605,6 +612,8 @@
                    questions: syncedQuestions,
                    host_peer_id: p2pService.isConnected() ? 'connected' : null,
                    isEnglishDiagnostic: isEnglishDiagnosticMode, // 🆕 Sync to DB for Realtime fallback
+                   useDiagnostic: useDiagnostic,
+                   diagnosticMixPercent: diagnosticMixPercent,
                    examMode: examMode,
                    period: selectedPeriod
                  }
@@ -727,6 +736,9 @@
         console.log(`🎯 Filtered by subject "${selectedSubject}": ${filteredPool.length}/${questionsPool.length} questions`);
 
         if (filteredPool.length === 0) {
+          if (examMode === 'period') {
+            throw new Error(`No hay preguntas para ${selectedSubject} en Periodo ${selectedPeriod}.`);
+          }
           console.warn(`⚠️ No questions found for subject "${selectedSubject}", using full pool`);
           filteredPool = questionsPool;
         }
@@ -749,10 +761,16 @@
 
                 const currentIds = new Set(filteredPool.map(q => q.id));
                 newQuestionsResults.flat().forEach(q => {
-                    if (q && !currentIds.has(q.id)) {
-                        filteredPool.push(q);
-                        currentIds.add(q.id);
+                    if (!q || currentIds.has(q.id)) return;
+
+                    if (examMode === 'period') {
+                        if (q.periodo !== undefined && q.periodo !== null) {
+                            if (Number(q.periodo) !== Number(selectedPeriod)) return;
+                        }
                     }
+
+                    filteredPool.push(q);
+                    currentIds.add(q.id);
                 });
                 console.log(`✅ Deep search added questions. New total: ${filteredPool.length}`);
              } catch (err) {
@@ -848,6 +866,8 @@
           time_option: timeOption,
           exam_mode: examMode, // 🆕
           period: selectedPeriod, // 🆕
+          useDiagnostic: useDiagnostic,
+          diagnosticMixPercent: diagnosticMixPercent,
           difficulty: 'NORMAL',
           questions: syncedQuestions, // 🔥 FIX: Use validated questions
           host_peer_id: peerId
@@ -1005,6 +1025,8 @@
       }
       if (config.time_option !== undefined) {
         timeOption = config.time_option;
+        console.log('⏱️ Tiempo por pregunta:', timeOption === 0 ? 'Sin límite' : `${timeOption}s`);
+      }
       if (config.subject) {
         selectedSubject = config.subject;
         console.log('📚 Materia:', selectedSubject);
@@ -1015,8 +1037,8 @@
       }
       if (config.exam_mode) examMode = config.exam_mode; // 🆕
       if (config.period) selectedPeriod = config.period; // 🆕
-        console.log('⏱️ Tiempo por pregunta:', timeOption === 0 ? 'Sin límite' : `${timeOption}s`);
-      }
+      if (config.useDiagnostic !== undefined) useDiagnostic = Boolean(config.useDiagnostic);
+      if (config.diagnosticMixPercent !== undefined) diagnosticMixPercent = Number(config.diagnosticMixPercent) || 20;
 
       console.log('🔄 Configuración inicial sincronizada:', {
         subject: config.subject,
@@ -1086,7 +1108,9 @@
         p2pService.broadcast('START_EXAM', {
             questions: finalQuestions,
             timeLimitSeconds: finalTimeLimit,
-            isEnglishDiagnostic: isEnglishDiagnosticMode // 🆕 Sync to guests
+            isEnglishDiagnostic: isEnglishDiagnosticMode, // 🆕 Sync to guests
+            useDiagnostic: useDiagnostic,
+            diagnosticMixPercent: diagnosticMixPercent
         });
     }
 
@@ -1129,6 +1153,10 @@
                  }
 
                  filtered = filtered.filter(q => {
+                     if (q.periodo !== undefined && q.periodo !== null) {
+                         return Number(q.periodo) === Number(selectedPeriod);
+                     }
+
                      // 🐛 FIX: Use q.topics directly - now properly populated from tema field
                      const topics = q.topics || [];
 
@@ -1179,6 +1207,9 @@
                            const periodTopics = periodConfig.topics || [];
                            const extrasFiltered = flatExtras.filter(q => {
                                if (!q) return false;
+                               if (q.periodo !== undefined && q.periodo !== null) {
+                                   return Number(q.periodo) === Number(selectedPeriod);
+                               }
                                // 🐛 FIX: Use q.topics directly - now properly populated from tema field
                                const topics = q.topics || [];
                                return topics.some(qTopicRaw => {
@@ -1204,26 +1235,10 @@
                       console.error('Deep search error:', e);
                   }
 
-                  // 🚨 FALLBACK: If still insufficient, fill with questions from the SAME subject
+                  // 🚨 STRICT PERIOD MODE: do not backfill with out-of-period questions
                   if (filtered.length < questionCount) {
-                      const needed = questionCount - filtered.length;
-                      console.warn(`⚠️ Still have only ${filtered.length}/${questionCount} questions after Deep Search. Filling with random questions.`);
-
-                      const currentIds = new Set(filtered.map(q => q.id));
-                      // 🔧 FIX: Filter leftovers by subject to avoid mixing subjects
-                      let leftovers = allQ.filter(q => !currentIds.has(q.id));
-                      if (selectedSubject !== 'Simulacro Completo') {
-                          leftovers = leftovers.filter(q => {
-                              const qSubject = normalizeSubject(q.category?.split(' :: ')[0] || '');
-                              return qSubject === targetSubject;
-                          });
-                      }
-                      const fillers = leftovers.sort(() => 0.5 - Math.random()).slice(0, needed);
-
-                      if (fillers.length > 0) {
-                          filtered = [...filtered, ...fillers];
-                          console.log(`✅ Added ${fillers.length} filler questions from ${selectedSubject} pool.`);
-                      }
+                      alert(`No hay suficientes preguntas del Periodo ${selectedPeriod} para ${selectedSubject}. Encontradas: ${filtered.length}/${questionCount}.`);
+                      return;
                   }
              }
 
@@ -1247,6 +1262,7 @@
       count: soloQuestions ? soloQuestions.length : (finalQuestions.length || questionCount),
       mode: roomEnabled ? 'ROOM' : 'SOLO',
       useDiagnostic: useDiagnostic,
+      diagnosticMixPercent: diagnosticMixPercent,
       roomCode: roomCode,
       isHost: isHost,
       sessionId: roomEnabled ? sessionId : undefined,
@@ -1305,6 +1321,8 @@
           }
           if (config.exam_mode) examMode = config.exam_mode; // 🆕
           if (config.period) selectedPeriod = config.period; // 🆕
+          if (config.useDiagnostic !== undefined) useDiagnostic = Boolean(config.useDiagnostic);
+          if (config.diagnosticMixPercent !== undefined) diagnosticMixPercent = Number(config.diagnosticMixPercent) || 20;
           if (config.time_option !== undefined) {
             timeOption = config.time_option;
             console.log('⏱️ [Realtime] Tiempo por pregunta:', timeOption === 0 ? 'Sin límite' : `${timeOption}s`);
@@ -1967,6 +1985,22 @@
                 {#each diagnosticGrades as g}
                   <span class="px-2 py-1.5 rounded-md bg-[#001e10] text-emerald-500 border border-emerald-500/20 text-[10px] font-bold font-mono">G{g}</span>
                 {/each}
+              </div>
+              <div class="mt-3">
+                <label class="block text-[10px] uppercase tracking-widest text-white/60 mb-2">
+                  Mezcla de grados inferiores
+                </label>
+                <div class="flex gap-2">
+                  {#each [10, 20, 30] as pct}
+                    <button
+                      type="button"
+                      class="px-3 py-1 rounded border text-[10px] font-bold transition-all {diagnosticMixPercent === pct ? 'bg-emerald-500 text-black border-emerald-500' : 'bg-white/5 text-white/70 border-white/20 hover:bg-white/10'}"
+                      onclick={() => diagnosticMixPercent = pct}
+                    >
+                      {pct}%
+                    </button>
+                  {/each}
+                </div>
               </div>
             {/if}
           </div>

@@ -5,7 +5,7 @@ grado: 11
 asignatura: "ingles"
 tema: "reading-comprehension-literary"
 
-total_questions: 11
+total_questions: 7
 estado: "draft"
 creador: "Jules"
 generation_date: "2025-11-30"

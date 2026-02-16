@@ -4,6 +4,7 @@ country: global
 grado: 9
 asignatura: ingles
 tema: sustainable-living
+periodo: 1
 cefr_level: B1
 protocol_version: 3.1-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Sustainable Living (Grade 9)
 
 > **Focus:** Energy efficiency, renewable sources, and carbon footprint.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Energy Efficiency)
+**ID:** `UNI-ENG-09-sustainable-living-001-v1`
+
 ID: UNI-ENG-09-sustainable-living-001-v1
 
 ### Enunciado
@@ -42,6 +45,8 @@ Which lightbulb uses the least electricity?
 ---
 
 ## Question 2 (Part 2 - Standby Power)
+**ID:** `UNI-ENG-09-sustainable-living-001-v2`
+
 ID: UNI-ENG-09-sustainable-living-001-v2
 
 ### Contexto
@@ -63,6 +68,8 @@ What should you do?
 ---
 
 ## Question 3 (Part 3 - Public Transport)
+**ID:** `UNI-ENG-09-sustainable-living-001-v3`
+
 ID: UNI-ENG-09-sustainable-living-001-v3
 
 ### Enunciado
@@ -81,6 +88,8 @@ Why is taking the bus better for the planet than driving a car alone?
 ---
 
 ## Question 4 (Part 4 - Solar Power)
+**ID:** `UNI-ENG-09-sustainable-living-001-v4`
+
 ID: UNI-ENG-09-sustainable-living-001-v4
 
 ### Contexto
@@ -102,6 +111,8 @@ What are these?
 ---
 
 ## Question 5 (Part 5 - Local Food)
+**ID:** `UNI-ENG-09-sustainable-living-001-v5`
+
 ID: UNI-ENG-09-sustainable-living-001-v5
 
 ### Contexto
@@ -123,6 +134,8 @@ What is this called?
 ---
 
 ## Question 6 (Part 6 - Fast Fashion)
+**ID:** `UNI-ENG-09-sustainable-living-001-v6`
+
 ID: UNI-ENG-09-sustainable-living-001-v6
 
 ### Contexto
@@ -144,6 +157,8 @@ What is this trend?
 ---
 
 ## Question 7 (Part 7 - Insulation)
+**ID:** `UNI-ENG-09-sustainable-living-001-v7`
+
 ID: UNI-ENG-09-sustainable-living-001-v7
 
 ### Contexto
@@ -165,6 +180,8 @@ What helps with this?
 ---
 
 ## Question 8 (Part 8 - Paper)
+**ID:** `UNI-ENG-09-sustainable-living-001-v8`
+
 ID: UNI-ENG-09-sustainable-living-001-v8
 
 ### Enunciado
@@ -183,6 +200,8 @@ To save trees, you should print on...
 ---
 
 ## Question 9 (Part 9 - Meat Consumption)
+**ID:** `UNI-ENG-09-sustainable-living-001-v9`
+
 ID: UNI-ENG-09-sustainable-living-001-v9
 
 ### Contexto
@@ -204,6 +223,8 @@ How can you help?
 ---
 
 ## Question 10 (Part 10 - Upcycling)
+**ID:** `UNI-ENG-09-sustainable-living-001-v10`
+
 ID: UNI-ENG-09-sustainable-living-001-v10
 
 ### Contexto

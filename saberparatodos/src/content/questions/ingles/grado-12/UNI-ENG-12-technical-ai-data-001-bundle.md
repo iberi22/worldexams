@@ -6,6 +6,7 @@ asignatura: ingles
 tema: technical-ai-data
 cefr_level: C1
 protocol_version: 3.1-GLOBAL
+periodo: 1
 total_questions: 10
 international_focus: Data Science / AI / Ethics
 licenses:
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Neural Networks - Difficulty 5)
+**ID:** `UNI-ENG-12-technical-ai-data-001-v1`
+
 ID: UNI-ENG-12-technical-ai-data-001-v1
 
 ### Contexto
@@ -45,6 +48,8 @@ What is this technology?
 ---
 
 ## Question 2 (Part 2 - Training Data - Difficulty 4)
+**ID:** `UNI-ENG-12-technical-ai-data-001-v2`
+
 ID: UNI-ENG-12-technical-ai-data-001-v2
 
 ### Contexto
@@ -66,6 +71,8 @@ What does this imply?
 ---
 
 ## Question 3 (Part 3 - Algorithmic Bias - Difficulty 5)
+**ID:** `UNI-ENG-12-technical-ai-data-001-v3`
+
 ID: UNI-ENG-12-technical-ai-data-001-v3
 
 ### Contexto
@@ -87,6 +94,8 @@ What is this problem called?
 ---
 
 ## Question 4 (Part 4 - Big Data - Difficulty 4)
+**ID:** `UNI-ENG-12-technical-ai-data-001-v4`
+
 ID: UNI-ENG-12-technical-ai-data-001-v4
 
 ### Contexto
@@ -108,6 +117,8 @@ These describe what concept?
 ---
 
 ## Question 5 (Part 5 - Supervised Learning - Difficulty 5)
+**ID:** `UNI-ENG-12-technical-ai-data-001-v5`
+
 ID: UNI-ENG-12-technical-ai-data-001-v5
 
 ### Contexto
@@ -129,6 +140,8 @@ What type of machine learning is this?
 ---
 
 ## Question 6 (Part 6 - NLP - Difficulty 4)
+**ID:** `UNI-ENG-12-technical-ai-data-001-v6`
+
 ID: UNI-ENG-12-technical-ai-data-001-v6
 
 ### Contexto
@@ -150,6 +163,8 @@ What is this field?
 ---
 
 ## Question 7 (Part 7 - Outliers - Difficulty 4)
+**ID:** `UNI-ENG-12-technical-ai-data-001-v7`
+
 ID: UNI-ENG-12-technical-ai-data-001-v7
 
 ### Contexto
@@ -171,6 +186,8 @@ What is the value "500" considered?
 ---
 
 ## Question 8 (Part 8 - Automation Anxiety - Difficulty 5)
+**ID:** `UNI-ENG-12-technical-ai-data-001-v8`
+
 ID: UNI-ENG-12-technical-ai-data-001-v8
 
 ### Contexto
@@ -192,6 +209,8 @@ What is the counter-argument often given?
 ---
 
 ## Question 9 (Part 9 - False Positive - Difficulty 5)
+**ID:** `UNI-ENG-12-technical-ai-data-001-v9`
+
 ID: UNI-ENG-12-technical-ai-data-001-v9
 
 ### Contexto
@@ -213,6 +232,8 @@ What type of error is this?
 ---
 
 ## Question 10 (Part 10 - Turing Test - Difficulty 5)
+**ID:** `UNI-ENG-12-technical-ai-data-001-v10`
+
 ID: UNI-ENG-12-technical-ai-data-001-v10
 
 ### Contexto

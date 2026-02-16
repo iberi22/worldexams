@@ -4,6 +4,7 @@ country: global
 grado: 6
 asignatura: ingles
 tema: basic-cooking
+periodo: 1
 cefr_level: A1+
 protocol_version: 3.1-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Basic Cooking (Grade 6)
 
 > **Focus:** Kitchen verbs (Chop, Boil, Fry) and safety.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Knife Safety)
+**ID:** `UNI-ENG-06-basic-cooking-001-v1`
+
 ID: UNI-ENG-06-basic-cooking-001-v1
 
 ### Contexto
@@ -45,6 +48,8 @@ How do you hold it?
 ---
 
 ## Question 2 (Part 2 - Act: Boil)
+**ID:** `UNI-ENG-06-basic-cooking-001-v2`
+
 ID: UNI-ENG-06-basic-cooking-001-v2
 
 ### Contexto
@@ -66,6 +71,8 @@ This is...
 ---
 
 ## Question 3 (Part 3 - Act: Chop)
+**ID:** `UNI-ENG-06-basic-cooking-001-v3`
+
 ID: UNI-ENG-06-basic-cooking-001-v3
 
 ### Contexto
@@ -87,6 +94,8 @@ This is...
 ---
 
 ## Question 4 (Part 4 - Tool: Pan)
+**ID:** `UNI-ENG-06-basic-cooking-001-v4`
+
 ID: UNI-ENG-06-basic-cooking-001-v4
 
 ### Contexto
@@ -108,6 +117,8 @@ What is this?
 ---
 
 ## Question 5 (Part 5 - Recipe)
+**ID:** `UNI-ENG-06-basic-cooking-001-v5`
+
 ID: UNI-ENG-06-basic-cooking-001-v5
 
 ### Contexto
@@ -129,6 +140,8 @@ This is a...
 ---
 
 ## Question 6 (Part 6 - Oven)
+**ID:** `UNI-ENG-06-basic-cooking-001-v6`
+
 ID: UNI-ENG-06-basic-cooking-001-v6
 
 ### Contexto
@@ -150,6 +163,8 @@ It is an...
 ---
 
 ## Question 7 (Part 7 - Act: Mix/Stir)
+**ID:** `UNI-ENG-06-basic-cooking-001-v7`
+
 ID: UNI-ENG-06-basic-cooking-001-v7
 
 ### Contexto
@@ -171,6 +186,8 @@ This is...
 ---
 
 ## Question 8 (Part 8 - Hot Stove)
+**ID:** `UNI-ENG-06-basic-cooking-001-v8`
+
 ID: UNI-ENG-06-basic-cooking-001-v8
 
 ### Enunciado
@@ -189,6 +206,8 @@ Never leave a hot stove...
 ---
 
 ## Question 9 (Part 9 - Act: Peel)
+**ID:** `UNI-ENG-06-basic-cooking-001-v9`
+
 ID: UNI-ENG-06-basic-cooking-001-v9
 
 ### Contexto
@@ -210,6 +229,8 @@ This is...
 ---
 
 ## Question 10 (Part 10 - Fridge)
+**ID:** `UNI-ENG-06-basic-cooking-001-v10`
+
 ID: UNI-ENG-06-basic-cooking-001-v10
 
 ### Enunciado

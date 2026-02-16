@@ -6,6 +6,7 @@ asignatura: ingles
 tema: cinema-media
 cefr_level: B2
 protocol_version: 3.2-GLOBAL
+periodo: 1
 total_questions: 10
 international_focus: Movies / Streaming / Production
 licenses:
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Genre)
+**ID:** `UNI-ENG-11-cinema-media-001-v1`
+
 ID: UNI-ENG-11-cinema-media-001-v1
 
 ### Enunciado
@@ -42,6 +45,8 @@ Comedy, Horror, and Sci-Fi are types of movie...
 ---
 
 ## Question 2 (Part 2 - Plot)
+**ID:** `UNI-ENG-11-cinema-media-001-v2`
+
 ID: UNI-ENG-11-cinema-media-001-v2
 
 ### Enunciado
@@ -60,6 +65,8 @@ The main story or sequence of events in a film.
 ---
 
 ## Question 3 (Part 3 - Spoiler)
+**ID:** `UNI-ENG-11-cinema-media-001-v3`
+
 ID: UNI-ENG-11-cinema-media-001-v3
 
 ### Contexto
@@ -81,6 +88,8 @@ This is a...
 ---
 
 ## Question 4 (Part 4 - Streaming)
+**ID:** `UNI-ENG-11-cinema-media-001-v4`
+
 ID: UNI-ENG-11-cinema-media-001-v4
 
 ### Enunciado
@@ -99,6 +108,8 @@ Watching a movie online via Netflix or Disney+ without downloading it first.
 ---
 
 ## Question 5 (Part 5 - Soundtrack)
+**ID:** `UNI-ENG-11-cinema-media-001-v5`
+
 ID: UNI-ENG-11-cinema-media-001-v5
 
 ### Enunciado
@@ -117,6 +128,8 @@ The music composed specifically for a movie.
 ---
 
 ## Question 6 (Part 6 - Blockbuster)
+**ID:** `UNI-ENG-11-cinema-media-001-v6`
+
 ID: UNI-ENG-11-cinema-media-001-v6
 
 ### Enunciado
@@ -135,6 +148,8 @@ A highly popular and financially successful movie (e.g., Avengers).
 ---
 
 ## Question 7 (Part 7 - Director)
+**ID:** `UNI-ENG-11-cinema-media-001-v7`
+
 ID: UNI-ENG-11-cinema-media-001-v7
 
 ### Enunciado
@@ -153,6 +168,8 @@ The person who controls the artistic side of the film and tells actors what to d
 ---
 
 ## Question 8 (Part 8 - Sequel)
+**ID:** `UNI-ENG-11-cinema-media-001-v8`
+
 ID: UNI-ENG-11-cinema-media-001-v8
 
 ### Contexto
@@ -174,6 +191,8 @@ It is a...
 ---
 
 ## Question 9 (Part 9 - Cast)
+**ID:** `UNI-ENG-11-cinema-media-001-v9`
+
 ID: UNI-ENG-11-cinema-media-001-v9
 
 ### Enunciado
@@ -192,6 +211,8 @@ The group of all actors in a movie.
 ---
 
 ## Question 10 (Part 10 - Oscar)
+**ID:** `UNI-ENG-11-cinema-media-001-v10`
+
 ID: UNI-ENG-11-cinema-media-001-v10
 
 ### Enunciado

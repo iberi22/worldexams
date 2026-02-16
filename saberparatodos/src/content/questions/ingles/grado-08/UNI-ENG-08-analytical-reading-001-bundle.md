@@ -4,6 +4,7 @@ country: global
 grado: 8
 asignatura: ingles
 tema: analytical-reading
+periodo: 1
 cefr_level: A2+
 protocol_version: 3.1-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Analytical Reading & Data Interpretation (A2+ Challenge)
 
 > **Analysis:** Analyzing charts, instructions, and logic at A2+ level.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Data Analysis - Difficulty 4)
+**ID:** `UNI-ENG-08-analytical-reading-001-v1`
+
 ID: UNI-ENG-08-analytical-reading-001-v1
 
 ### Contexto
@@ -49,6 +52,8 @@ Which statement is true based on the data?
 ---
 
 ## Question 2 (Part 2 - Instruction Logic - Difficulty 5)
+**ID:** `UNI-ENG-08-analytical-reading-001-v2`
+
 ID: UNI-ENG-08-analytical-reading-001-v2
 
 ### Contexto
@@ -71,6 +76,8 @@ How long does the food stay in the oven in total?
 ---
 
 ## Question 3 (Part 3 - Conditional Warning - Difficulty 4)
+**ID:** `UNI-ENG-08-analytical-reading-001-v3`
+
 ID: UNI-ENG-08-analytical-reading-001-v3
 
 ### Contexto
@@ -93,6 +100,8 @@ The red light is OFF. What can you do?
 ---
 
 ## Question 4 (Part 4 - Inferred Meaning - Difficulty 5)
+**ID:** `UNI-ENG-08-analytical-reading-001-v4`
+
 ID: UNI-ENG-08-analytical-reading-001-v4
 
 ### Contexto
@@ -115,6 +124,8 @@ How long do you have to wait?
 ---
 
 ## Question 5 (Part 5 - Character Motivation - Difficulty 5)
+**ID:** `UNI-ENG-08-analytical-reading-001-v5`
+
 ID: UNI-ENG-08-analytical-reading-001-v5
 
 ### Contexto
@@ -137,6 +148,8 @@ Why did Tom do this?
 ---
 
 ## Question 6 (Part 6 - Categorization - Difficulty 4)
+**ID:** `UNI-ENG-08-analytical-reading-001-v6`
+
 ID: UNI-ENG-08-analytical-reading-001-v6
 
 ### Enunciado
@@ -155,6 +168,8 @@ Which of these is NOT an ingredient for a cake?
 ---
 
 ## Question 7 (Part 7 - Synonymy Context - Difficulty 4)
+**ID:** `UNI-ENG-08-analytical-reading-001-v7`
+
 ID: UNI-ENG-08-analytical-reading-001-v7
 
 ### Contexto
@@ -177,6 +192,8 @@ What does "dull" mean here?
 ---
 
 ## Question 8 (Part 8 - Logical Conclusion - Difficulty 5)
+**ID:** `UNI-ENG-08-analytical-reading-001-v8`
+
 ID: UNI-ENG-08-analytical-reading-001-v8
 
 ### Contexto
@@ -199,6 +216,8 @@ What will likely happen?
 ---
 
 ## Question 9 (Part 9 - Sequencing Events - Difficulty 4)
+**ID:** `UNI-ENG-08-analytical-reading-001-v9`
+
 ID: UNI-ENG-08-analytical-reading-001-v9
 
 ### Contexto
@@ -223,6 +242,8 @@ What is the correct logical order?
 ---
 
 ## Question 10 (Part 10 - Identifying Purpose - Difficulty 5)
+**ID:** `UNI-ENG-08-analytical-reading-001-v10`
+
 ID: UNI-ENG-08-analytical-reading-001-v10
 
 ### Contexto

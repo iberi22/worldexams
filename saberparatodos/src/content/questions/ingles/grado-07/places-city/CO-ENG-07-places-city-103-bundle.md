@@ -4,19 +4,25 @@ country: co
 grado: 7
 asignatura: ingles
 tema: places-city
+periodo: 1
 cefr_level: A2+
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Places in the City (A2+)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-07-places-city-103-v1`
+
+
+**ID:** `CO-ENG-07-places-city-103-v1`
+
 ### Enunciado
 **I go to the _______ to mail a letter.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-07-places-city-103-v2`
+
+
+**ID:** `CO-ENG-07-places-city-103-v2`
+
 ### Enunciado
 **There _______ a big supermarket near my house.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Vocabulary)
+**ID:** `CO-ENG-07-places-city-103-v3`
+
+
+**ID:** `CO-ENG-07-places-city-103-v3`
+
 ### Enunciado
 **The _______ has many old books for people to read.**
 ### Opciones
@@ -69,6 +85,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Pragmatics)
+**ID:** `CO-ENG-07-places-city-103-v4`
+
+
+**ID:** `CO-ENG-07-places-city-103-v4`
+
 ### Contexto
 **Map:** "You are here. Go straight for two blocks and turn left at the hospital."
 ### Enunciado
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Vocabulary)
+**ID:** `CO-ENG-07-places-city-103-v5`
+
+
+**ID:** `CO-ENG-07-places-city-103-v5`
+
 ### Enunciado
 **We buy fresh bread and cakes at the _______.**
 ### Opciones
@@ -101,6 +127,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Grammar)
+**ID:** `CO-ENG-07-places-city-103-v6`
+
+
+**ID:** `CO-ENG-07-places-city-103-v6`
+
 ### Enunciado
 **Are _______ any parks in your neighborhood?**
 ### Opciones
@@ -116,6 +147,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-07-places-city-103-v7`
+
+
+**ID:** `CO-ENG-07-places-city-103-v7`
+
 ### Contexto
 **Tourist:** "Excuse me, where is the nearest ATM?"
 **You:** "____________"
@@ -134,6 +170,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Reading - Literal)
+**ID:** `CO-ENG-07-places-city-103-v8`
+
+
+**ID:** `CO-ENG-07-places-city-103-v8`
+
 ### Contexto
 **Text:** "My town is small but beautiful. It has a central park with many trees, a church, and a museum near the river."
 ### Enunciado
@@ -151,6 +192,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-07-places-city-103-v9`
+
+
+**ID:** `CO-ENG-07-places-city-103-v9`
+
 ### Enunciado
 **People go to the _______ to exercise and stay fit.**
 ### Opciones
@@ -166,6 +212,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Reading - Inferential)
+**ID:** `CO-ENG-07-places-city-103-v10`
+
+
+**ID:** `CO-ENG-07-places-city-103-v10`
+
 ### Contexto
 **Passage:** "The shopping mall is very crowded today because there is a big sale in almost every store."
 ### Enunciado

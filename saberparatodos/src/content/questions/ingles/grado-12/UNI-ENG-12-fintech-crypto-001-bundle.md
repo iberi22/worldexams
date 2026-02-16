@@ -6,6 +6,7 @@ asignatura: ingles
 tema: fintech-crypto
 cefr_level: C1
 protocol_version: 3.2-GLOBAL
+periodo: 1
 total_questions: 10
 international_focus: Technology / Finance / Modern Trends
 licenses:
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Fintech)
+**ID:** `UNI-ENG-12-fintech-crypto-001-v1`
+
 ID: UNI-ENG-12-fintech-crypto-001-v1
 
 ### Enunciado
@@ -42,6 +45,8 @@ ID: UNI-ENG-12-fintech-crypto-001-v1
 ---
 
 ## Question 2 (Part 2 - Blockchain)
+**ID:** `UNI-ENG-12-fintech-crypto-001-v2`
+
 ID: UNI-ENG-12-fintech-crypto-001-v2
 
 ### Contexto
@@ -63,6 +68,8 @@ What is this?
 ---
 
 ## Question 3 (Part 3 - Decentralized)
+**ID:** `UNI-ENG-12-fintech-crypto-001-v3`
+
 ID: UNI-ENG-12-fintech-crypto-001-v3
 
 ### Enunciado
@@ -81,6 +88,8 @@ Cryptocurrencies like Bitcoin are typically **decentralized**, meaning:
 ---
 
 ## Question 4 (Part 4 - Crowdfunding)
+**ID:** `UNI-ENG-12-fintech-crypto-001-v4`
+
 ID: UNI-ENG-12-fintech-crypto-001-v4
 
 ### Contexto
@@ -102,6 +111,8 @@ Examples: Kickstarter, GoFundMe.
 ---
 
 ## Question 5 (Part 5 - Digital Wallet)
+**ID:** `UNI-ENG-12-fintech-crypto-001-v5`
+
 ID: UNI-ENG-12-fintech-crypto-001-v5
 
 ### Enunciado
@@ -120,6 +131,8 @@ An app used to store payment information or cryptocurrency keys.
 ---
 
 ## Question 6 (Part 6 - Phishing)
+**ID:** `UNI-ENG-12-fintech-crypto-001-v6`
+
 ID: UNI-ENG-12-fintech-crypto-001-v6
 
 ### Contexto
@@ -141,6 +154,8 @@ What is this attack?
 ---
 
 ## Question 7 (Part 7 - Volatility)
+**ID:** `UNI-ENG-12-fintech-crypto-001-v7`
+
 ID: UNI-ENG-12-fintech-crypto-001-v7
 
 ### Enunciado
@@ -159,6 +174,8 @@ Cryptocurrencies are known for extreme _______, meaning prices swing wildly.
 ---
 
 ## Question 8 (Part 8 - Neobank)
+**ID:** `UNI-ENG-12-fintech-crypto-001-v8`
+
 ID: UNI-ENG-12-fintech-crypto-001-v8
 
 ### Contexto
@@ -180,6 +197,8 @@ Examples: Nubank, Chime, Revolut.
 ---
 
 ## Question 9 (Part 9 - NFT)
+**ID:** `UNI-ENG-12-fintech-crypto-001-v9`
+
 ID: UNI-ENG-12-fintech-crypto-001-v9
 
 ### Contexto
@@ -201,6 +220,8 @@ This represents ownership of...
 ---
 
 ## Question 10 (Part 10 - Encryption)
+**ID:** `UNI-ENG-12-fintech-crypto-001-v10`
+
 ID: UNI-ENG-12-fintech-crypto-001-v10
 
 ### Enunciado

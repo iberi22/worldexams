@@ -4,17 +4,23 @@ country: co
 grado: 8
 asignatura: ingles
 tema: colombian-culture
+periodo: 1
 cefr_level: B1
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Colombian Culture in English (B1)
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-08-colombian-culture-102-v1`
+
+
+**ID:** `CO-ENG-08-colombian-culture-102-v1`
+
 ### Enunciado
 **Colombia's famous flower festival is called:**
 ### Opciones
@@ -36,6 +42,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Pragmatics)
+**ID:** `CO-ENG-08-colombian-culture-102-v2`
+
+
+**ID:** `CO-ENG-08-colombian-culture-102-v2`
+
 ### Contexto
 **Restaurant menu:** "Bandeja Paisa - Includes rice, beans, ground beef, chorizo, chicharrón, fried egg, arepa, and avocado."
 ### Enunciado
@@ -53,6 +64,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Conversation)
+**ID:** `CO-ENG-08-colombian-culture-102-v3`
+
+
+**ID:** `CO-ENG-08-colombian-culture-102-v3`
+
 ### Contexto
 **Tourist:** "What is Colombia famous for?"
 **You:** "____________"
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Grammar)
+**ID:** `CO-ENG-08-colombian-culture-102-v4`
+
+
+**ID:** `CO-ENG-08-colombian-culture-102-v4`
+
 ### Contexto
 "Gabriel García Márquez (1)______ the Nobel Prize in 1982. His novel '100 Years of Solitude' (2)______ one of the most important books ever written."
 ### Enunciado
@@ -88,6 +109,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Literal Reading)
+**ID:** `CO-ENG-08-colombian-culture-102-v5`
+
+
+**ID:** `CO-ENG-08-colombian-culture-102-v5`
+
 ### Contexto
 **Text:** "Coffee from Colombia is exported to over 100 countries. The country produces approximately 14 million bags of coffee annually, making it the third largest producer worldwide."
 ### Enunciado
@@ -105,6 +131,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-08-colombian-culture-102-v6`
+
+
+**ID:** `CO-ENG-08-colombian-culture-102-v6`
+
 ### Contexto
 **Passage:** "Colombia has reinvented its image. Once known only for negative stereotypes, the country now promotes its rich culture, friendly people, and stunning natural beauty. Tourism has tripled in a decade."
 ### Enunciado
@@ -122,6 +153,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Advanced Grammar)
+**ID:** `CO-ENG-08-colombian-culture-102-v7`
+
+
+**ID:** `CO-ENG-08-colombian-culture-102-v7`
+
 ### Contexto
 "Shakira, (1)______ is from Barranquilla, (2)______ become one of the world's most famous artists."
 ### Enunciado
@@ -139,6 +175,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Vocabulary)
+**ID:** `CO-ENG-08-colombian-culture-102-v8`
+
+
+**ID:** `CO-ENG-08-colombian-culture-102-v8`
+
 ### Enunciado
 **"Biodiversity" means:**
 ### Opciones
@@ -154,6 +195,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Use of English)
+**ID:** `CO-ENG-08-colombian-culture-102-v9`
+
+
+**ID:** `CO-ENG-08-colombian-culture-102-v9`
+
 ### Contexto
 **Original:** "People around the world enjoy Colombian coffee."
 **Rewrite:** *COLOMBIAN COFFEE...*
@@ -172,6 +218,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Critical Thinking)
+**ID:** `CO-ENG-08-colombian-culture-102-v10`
+
+
+**ID:** `CO-ENG-08-colombian-culture-102-v10`
+
 ### Contexto
 **Statement:** "Learning English is important for Colombia's economy."
 ### Enunciado

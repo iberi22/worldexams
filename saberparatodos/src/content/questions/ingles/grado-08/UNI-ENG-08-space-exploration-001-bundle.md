@@ -4,6 +4,7 @@ country: global
 grado: 8
 asignatura: ingles
 tema: space-exploration
+periodo: 1
 cefr_level: A2+
 protocol_version: 3.2-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Space Exploration (Grade 8)
 
 > **Focus:** Planets, Astronauts, and the Future of Mars.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Astronaut)
+**ID:** `UNI-ENG-08-space-exploration-001-v1`
+
 ID: UNI-ENG-08-space-exploration-001-v1
 
 ### Enunciado
@@ -42,6 +45,8 @@ A person trained to travel in a spacecraft.
 ---
 
 ## Question 2 (Part 2 - Solar System)
+**ID:** `UNI-ENG-08-space-exploration-001-v2`
+
 ID: UNI-ENG-08-space-exploration-001-v2
 
 ### Enunciado
@@ -60,6 +65,8 @@ The sun and all the planets that orbit around it form the...
 ---
 
 ## Question 3 (Part 3 - Mars)
+**ID:** `UNI-ENG-08-space-exploration-001-v3`
+
 ID: UNI-ENG-08-space-exploration-001-v3
 
 ### Contexto
@@ -81,6 +88,8 @@ Humans want to visit this planet next.
 ---
 
 ## Question 4 (Part 4 - Gravity)
+**ID:** `UNI-ENG-08-space-exploration-001-v4`
+
 ID: UNI-ENG-08-space-exploration-001-v4
 
 ### Enunciado
@@ -99,6 +108,8 @@ The force that pulls objects toward the center of the Earth (so we don't float a
 ---
 
 ## Question 5 (Part 5 - Satellite)
+**ID:** `UNI-ENG-08-space-exploration-001-v5`
+
 ID: UNI-ENG-08-space-exploration-001-v5
 
 ### Enunciado
@@ -117,6 +128,8 @@ The Moon is a natural _______ of Earth.
 ---
 
 ## Question 6 (Part 6 - Launch)
+**ID:** `UNI-ENG-08-space-exploration-001-v6`
+
 ID: UNI-ENG-08-space-exploration-001-v6
 
 ### Contexto
@@ -138,6 +151,8 @@ ID: UNI-ENG-08-space-exploration-001-v6
 ---
 
 ## Question 7 (Part 7 - Telescope)
+**ID:** `UNI-ENG-08-space-exploration-001-v7`
+
 ID: UNI-ENG-08-space-exploration-001-v7
 
 ### Contexto
@@ -159,6 +174,8 @@ What is it?
 ---
 
 ## Question 8 (Part 8 - Orbit)
+**ID:** `UNI-ENG-08-space-exploration-001-v8`
+
 ID: UNI-ENG-08-space-exploration-001-v8
 
 ### Enunciado
@@ -177,6 +194,8 @@ To travel around a planet in a curved path is to...
 ---
 
 ## Question 9 (Part 9 - ISS)
+**ID:** `UNI-ENG-08-space-exploration-001-v9`
+
 ID: UNI-ENG-08-space-exploration-001-v9
 
 ### Contexto
@@ -198,6 +217,8 @@ It is the...
 ---
 
 ## Question 10 (Part 10 - Alien)
+**ID:** `UNI-ENG-08-space-exploration-001-v10`
+
 ID: UNI-ENG-08-space-exploration-001-v10
 
 ### Contexto

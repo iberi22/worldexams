@@ -4,17 +4,23 @@ country: co
 grado: 8
 asignatura: ingles
 tema: food-nutrition
+periodo: 1
 cefr_level: B1
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Food & Nutrition (B1)
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-08-food-nutrition-104-v1`
+
+
+**ID:** `CO-ENG-08-food-nutrition-104-v1`
+
 ### Enunciado
 **Fruits, vegetables, and whole grains are examples of:**
 ### Opciones
@@ -37,6 +43,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Pragmatics)
+**ID:** `CO-ENG-08-food-nutrition-104-v2`
+
+
+**ID:** `CO-ENG-08-food-nutrition-104-v2`
+
 ### Contexto
 **Restaurant menu:** "🌱 VG = Vegan (no animal products) 🥛 V = Vegetarian (no meat)"
 ### Enunciado
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Conversation)
+**ID:** `CO-ENG-08-food-nutrition-104-v3`
+
+
+**ID:** `CO-ENG-08-food-nutrition-104-v3`
+
 ### Contexto
 **Waiter:** "Are you ready to order?"
 **You:** "____________"
@@ -72,6 +88,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Grammar)
+**ID:** `CO-ENG-08-food-nutrition-104-v4`
+
+
+**ID:** `CO-ENG-08-food-nutrition-104-v4`
+
 ### Contexto
 "There (1)______ any milk left. We (2)______ go to the store."
 ### Enunciado
@@ -89,6 +110,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Literal Reading)
+**ID:** `CO-ENG-08-food-nutrition-104-v5`
+
+
+**ID:** `CO-ENG-08-food-nutrition-104-v5`
+
 ### Contexto
 **Text:** "Colombia's national dish, Bandeja Paisa, can contain over 1,500 calories. This is more than half of the average adult's daily requirement."
 ### Enunciado
@@ -106,6 +132,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-08-food-nutrition-104-v6`
+
+
+**ID:** `CO-ENG-08-food-nutrition-104-v6`
+
 ### Contexto
 **Passage:** "We know what to eat: more vegetables, less sugar. Yet we reach for chips instead of carrots, soda instead of water. The gap between knowing and doing is where willpower dies."
 ### Enunciado
@@ -123,6 +154,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Advanced Grammar)
+**ID:** `CO-ENG-08-food-nutrition-104-v7`
+
+
+**ID:** `CO-ENG-08-food-nutrition-104-v7`
+
 ### Contexto
 "(1)______ eating healthy is important, (2)______ you shouldn't obsess over every calorie."
 ### Enunciado
@@ -140,6 +176,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Vocabulary)
+**ID:** `CO-ENG-08-food-nutrition-104-v8`
+
+
+**ID:** `CO-ENG-08-food-nutrition-104-v8`
+
 ### Enunciado
 **"Organic" food means:**
 ### Opciones
@@ -155,6 +196,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Use of English)
+**ID:** `CO-ENG-08-food-nutrition-104-v9`
+
+
+**ID:** `CO-ENG-08-food-nutrition-104-v9`
+
 ### Contexto
 **Original:** "People should drink more water."
 **Rewrite:** *MORE WATER...*
@@ -173,6 +219,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Critical Thinking)
+**ID:** `CO-ENG-08-food-nutrition-104-v10`
+
+
+**ID:** `CO-ENG-08-food-nutrition-104-v10`
+
 ### Contexto
 **Statement:** "Fast food should be banned because it's unhealthy."
 ### Enunciado

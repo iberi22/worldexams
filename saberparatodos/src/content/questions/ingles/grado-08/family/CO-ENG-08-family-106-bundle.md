@@ -4,19 +4,25 @@ country: co
 grado: 8
 asignatura: ingles
 tema: family-history
+periodo: 1
 cefr_level: B1
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: Family & Personal History (B1)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-08-family-history-106-v1`
+
+
+**ID:** `CO-ENG-08-family-history-106-v1`
+
 ### Enunciado
 **Your father's parents are your _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-08-family-history-106-v2`
+
+
+**ID:** `CO-ENG-08-family-history-106-v2`
+
 ### Enunciado
 **When I (1)_______ a child, I (2)_______ with my grandparents every summer.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-08-family-history-106-v3`
+
+
+**ID:** `CO-ENG-08-family-history-106-v3`
+
 ### Contexto
 **Text:** "My great-grandfather immigrated to Colombia from Italy in 1920. He opened a small bakery in Medellin that our family still runs today."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-08-family-history-106-v4`
+
+
+**ID:** `CO-ENG-08-family-history-106-v4`
+
 ### Enunciado
 **A person from whom you are descended, especially one more remote than a grandparent, is an _______.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-08-family-history-106-v5`
+
+
+**ID:** `CO-ENG-08-family-history-106-v5`
+
 ### Contexto
 **Grandmother:** "In my day, we didn't have cell phones or internet."
 ### Enunciado
@@ -103,6 +129,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-08-family-history-106-v6`
+
+
+**ID:** `CO-ENG-08-family-history-106-v6`
+
 ### Contexto
 **Passage:** "My sister and I found an old trunk in the attic. It was full of black-and-white photos and letters from the 1950s. We spent the whole afternoon reading about our relatives' lives."
 ### Enunciado
@@ -120,6 +151,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-08-family-history-106-v7`
+
+
+**ID:** `CO-ENG-08-family-history-106-v7`
+
 ### Contexto
 **Friend:** "I look exactly like my grandfather when he was young."
 **You:** "____________"
@@ -138,6 +174,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Past Continuous)
+**ID:** `CO-ENG-08-family-history-106-v8`
+
+
+**ID:** `CO-ENG-08-family-history-106-v8`
+
 ### Enunciado
 **I (1)_______ through some old albums when I (2)_______ a photo of my parents' wedding.**
 ### Opciones
@@ -153,6 +194,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-08-family-history-106-v9`
+
+
+**ID:** `CO-ENG-08-family-history-106-v9`
+
 ### Enunciado
 **The time when someone is a child is their _______.**
 ### Opciones
@@ -168,6 +214,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Cultural)
+**ID:** `CO-ENG-08-family-history-106-v10`
+
+
+**ID:** `CO-ENG-08-family-history-106-v10`
+
 ### Enunciado
 **In Colombia, we often call our grandmother 'Abuela' or affectionately _______.**
 ### Opciones

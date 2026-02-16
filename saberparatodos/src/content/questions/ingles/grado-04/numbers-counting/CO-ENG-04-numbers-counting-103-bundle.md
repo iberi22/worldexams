@@ -4,19 +4,25 @@ country: co
 grado: 4
 asignatura: ingles
 tema: numbers-counting
+periodo: 1
 cefr_level: A1
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Numbers 1-20 (A1)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-04-numbers-counting-103-v1`
+
+
+**ID:** `CO-ENG-04-numbers-counting-103-v1`
+
 ### Enunciado
 **What is the number 11?**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Vocabulary)
+**ID:** `CO-ENG-04-numbers-counting-103-v2`
+
+
+**ID:** `CO-ENG-04-numbers-counting-103-v2`
+
 ### Enunciado
 **What is the number 15?**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Grammar)
+**ID:** `CO-ENG-04-numbers-counting-103-v3`
+
+
+**ID:** `CO-ENG-04-numbers-counting-103-v3`
+
 ### Enunciado
 **How many apples are there? (Assume 7 + 5 = ?)**
 ### Opciones
@@ -69,6 +85,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-04-numbers-counting-103-v4`
+
+
+**ID:** `CO-ENG-04-numbers-counting-103-v4`
+
 ### Enunciado
 **The number after nineteen (19) is _______.**
 ### Opciones
@@ -84,6 +105,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Conversation)
+**ID:** `CO-ENG-04-numbers-counting-103-v5`
+
+
+**ID:** `CO-ENG-04-numbers-counting-103-v5`
+
 ### Contexto
 **Person A:** "How old are you?"
 **Person B:** "____________"
@@ -102,6 +128,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Vocabulary)
+**ID:** `CO-ENG-04-numbers-counting-103-v6`
+
+
+**ID:** `CO-ENG-04-numbers-counting-103-v6`
+
 ### Enunciado
 **What is 10 plus 7?**
 ### Opciones
@@ -117,6 +148,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Grammar)
+**ID:** `CO-ENG-04-numbers-counting-103-v7`
+
+
+**ID:** `CO-ENG-04-numbers-counting-103-v7`
+
 ### Enunciado
 **There _______ twenty students in the classroom.**
 ### Opciones
@@ -132,6 +168,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Reading - Literal)
+**ID:** `CO-ENG-04-numbers-counting-103-v8`
+
+
+**ID:** `CO-ENG-04-numbers-counting-103-v8`
+
 ### Contexto
 **Text:** "There are 13 boys and 7 girls in my English class. We have 20 students in total."
 ### Enunciado
@@ -149,6 +190,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-04-numbers-counting-103-v9`
+
+
+**ID:** `CO-ENG-04-numbers-counting-103-v9`
+
 ### Enunciado
 **Count the fingers: 1, 2, 3, 4, 5, 6, 7, 8, 9, _______.**
 ### Opciones
@@ -164,6 +210,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Practical)
+**ID:** `CO-ENG-04-numbers-counting-103-v10`
+
+
+**ID:** `CO-ENG-04-numbers-counting-103-v10`
+
 ### Enunciado
 **My phone number starts with three-zero-_______. (3-0-1)**
 ### Opciones

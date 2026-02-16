@@ -4,6 +4,7 @@ country: global
 grado: 7
 asignatura: ingles
 tema: future-aspirations
+periodo: 1
 cefr_level: A2
 protocol_version: 3.1-GLOBAL
 total_questions: 10
@@ -15,13 +16,15 @@ generation_date: '2026-01-09'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Future Aspirations (A2)
 
 ---
 
 ## Question 1 (Part 1 - Vocabulary - Difficulty 1)
+**ID:** `UNI-ENG-07-future-001-v1`
+
 ID: UNI-ENG-07-future-001-v1
 
 ### Enunciado
@@ -47,6 +50,8 @@ ID: UNI-ENG-07-future-001-v1
 ---
 
 ## Question 2 (Part 1 - Vocabulary - Difficulty 1)
+**ID:** `UNI-ENG-07-future-001-v2`
+
 ID: UNI-ENG-07-future-001-v2
 
 ### Enunciado
@@ -65,6 +70,8 @@ ID: UNI-ENG-07-future-001-v2
 ---
 
 ## Question 3 (Part 2 - Signs - Difficulty 2)
+**ID:** `UNI-ENG-07-future-001-v3`
+
 ID: UNI-ENG-07-future-001-v3
 
 ### Contexto
@@ -86,6 +93,8 @@ What is this workshop for?
 ---
 
 ## Question 4 (Part 3 - Conversation - Difficulty 2)
+**ID:** `UNI-ENG-07-future-001-v4`
+
 ID: UNI-ENG-07-future-001-v4
 
 ### Contexto
@@ -108,6 +117,8 @@ Choose the most appropriate response using the future tense.
 ---
 
 ## Question 5 (Part 4 - Cloze I - Difficulty 3)
+**ID:** `UNI-ENG-07-future-001-v5`
+
 ID: UNI-ENG-07-future-001-v5
 
 ### Contexto
@@ -130,6 +141,8 @@ Choose the correct verb for (5).
 ---
 
 ## Question 6 (Part 4 - Cloze I - Difficulty 3)
+**ID:** `UNI-ENG-07-future-001-v6`
+
 ID: UNI-ENG-07-future-001-v6
 
 ### Contexto
@@ -152,6 +165,8 @@ Choose the correct verb for (6).
 ---
 
 ## Question 7 (Part 5 - Literal Reading - Difficulty 4)
+**ID:** `UNI-ENG-07-future-001-v7`
+
 ID: UNI-ENG-07-future-001-v7
 
 ### Contexto
@@ -174,6 +189,8 @@ According to the text, what is one requirement to be a successful content creato
 ---
 
 ## Question 8 (Part 6 - Inferential Reading - Difficulty 4)
+**ID:** `UNI-ENG-07-future-001-v8`
+
 ID: UNI-ENG-07-future-001-v8
 
 ### Contexto
@@ -196,6 +213,8 @@ What does the author imply about people's perception of becoming an influencer?
 ---
 
 ## Question 9 (Part 7 - Cloze II - Difficulty 5)
+**ID:** `UNI-ENG-07-future-001-v9`
+
 ID: UNI-ENG-07-future-001-v9
 
 ### Contexto
@@ -218,6 +237,8 @@ Choose the correct verb form for (9).
 ---
 
 ## Question 10 (Part 7 - Cloze II - Difficulty 5)
+**ID:** `UNI-ENG-07-future-001-v10`
+
 ID: UNI-ENG-07-future-001-v10
 
 ### Contexto

@@ -4,19 +4,25 @@ country: co
 grado: 10
 asignatura: ingles
 tema: world-cultures
+periodo: 1
 cefr_level: B2
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: World Cultures & Traditions (B2)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-10-world-cultures-102-v1`
+
+
+**ID:** `CO-ENG-10-world-cultures-102-v1`
+
 ### Enunciado
 **Customs passed from generation to generation are called:**
 ### Opciones
@@ -42,6 +48,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Pragmatics)
+**ID:** `CO-ENG-10-world-cultures-102-v2`
+
+
+**ID:** `CO-ENG-10-world-cultures-102-v2`
+
 ### Contexto
 **Sign:** "Please remove shoes before entering. This is a sacred space."
 ### Enunciado
@@ -59,6 +70,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Conversation)
+**ID:** `CO-ENG-10-world-cultures-102-v3`
+
+
+**ID:** `CO-ENG-10-world-cultures-102-v3`
+
 ### Contexto
 **Exchange student:** "In my country, we bow when greeting."
 **You:** "____________"
@@ -77,6 +93,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Grammar)
+**ID:** `CO-ENG-10-world-cultures-102-v4`
+
+
+**ID:** `CO-ENG-10-world-cultures-102-v4`
+
 ### Contexto
 "When I (1)______ to Japan, I (2)______ how to bow properly first."
 ### Enunciado
@@ -94,6 +115,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Literal Reading)
+**ID:** `CO-ENG-10-world-cultures-102-v5`
+
+
+**ID:** `CO-ENG-10-world-cultures-102-v5`
+
 ### Contexto
 **Text:** "The Day of the Dead (Día de los Muertos) is celebrated in Mexico on November 1-2. Families build altars and offer food to honor deceased loved ones."
 ### Enunciado
@@ -111,6 +137,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-10-world-cultures-102-v6`
+
+
+**ID:** `CO-ENG-10-world-cultures-102-v6`
+
 ### Contexto
 **Passage:** "Globalization has spread American fast food chains worldwide. Yet in Japan, McDonald's serves teriyaki burgers; in India, no beef is served. Even global brands must adapt to local tastes and values."
 ### Enunciado
@@ -128,6 +159,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Advanced Grammar)
+**ID:** `CO-ENG-10-world-cultures-102-v7`
+
+
+**ID:** `CO-ENG-10-world-cultures-102-v7`
+
 ### Contexto
 "(1)______ visiting another culture, it's important (2)______ research local customs beforehand."
 ### Enunciado
@@ -145,6 +181,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Vocabulary)
+**ID:** `CO-ENG-10-world-cultures-102-v8`
+
+
+**ID:** `CO-ENG-10-world-cultures-102-v8`
+
 ### Enunciado
 **"Cultural appropriation" means:**
 ### Opciones
@@ -160,6 +201,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Use of English)
+**ID:** `CO-ENG-10-world-cultures-102-v9`
+
+
+**ID:** `CO-ENG-10-world-cultures-102-v9`
+
 ### Contexto
 **Original:** "People celebrate festivals differently around the world."
 **Rewrite:** *FESTIVALS...*
@@ -178,6 +224,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Critical Thinking)
+**ID:** `CO-ENG-10-world-cultures-102-v10`
+
+
+**ID:** `CO-ENG-10-world-cultures-102-v10`
+
 ### Contexto
 **Statement:** "Learning about other cultures makes us better global citizens."
 ### Enunciado

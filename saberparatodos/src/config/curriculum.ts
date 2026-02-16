@@ -123,7 +123,7 @@ const G11_SOC = [
 
 // --- MAPPING ---
 // Map similar subjects using same arrays
-function makeMap(math, sci, soc, lang, eng, tech) {
+function makeMap(math: any, sci: any, soc: any, lang: any, eng: any, tech: any) {
     const map: any = {};
     if (math) map.matematicas = { periods: math };
     if (sci) {

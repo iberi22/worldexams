@@ -4,19 +4,25 @@ country: co
 grado: 5
 asignatura: ingles
 tema: my-toys
+periodo: 1
 cefr_level: A1+
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: My Toys (A1+)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-05-my-toys-104-v1`
+
+
+**ID:** `CO-ENG-05-my-toys-104-v1`
+
 ### Enunciado
 **A round object that we kick and play soccer with is a _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Vocabulary)
+**ID:** `CO-ENG-05-my-toys-104-v2`
+
+
+**ID:** `CO-ENG-05-my-toys-104-v2`
+
 ### Enunciado
 **Girls and boys often play with _______ and pretend they are real people.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Grammar)
+**ID:** `CO-ENG-05-my-toys-104-v3`
+
+
+**ID:** `CO-ENG-05-my-toys-104-v3`
+
 ### Enunciado
 **These are my _______ favorite toys.**
 ### Opciones
@@ -69,6 +85,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-05-my-toys-104-v4`
+
+
+**ID:** `CO-ENG-05-my-toys-104-v4`
+
 ### Enunciado
 **A _______ is a toy that flies in the sky when it's windy.**
 ### Opciones
@@ -84,6 +105,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Reading - Literal)
+**ID:** `CO-ENG-05-my-toys-104-v5`
+
+
+**ID:** `CO-ENG-05-my-toys-104-v5`
+
 ### Contexto
 **Text:** "My brother has a big collection of cars. He has 20 small cars and a large blue truck. He keeps them on a shelf."
 ### Enunciado
@@ -101,6 +127,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Pragmatics)
+**ID:** `CO-ENG-05-my-toys-104-v6`
+
+
+**ID:** `CO-ENG-05-my-toys-104-v6`
+
 ### Contexto
 **Friend:** "Can I borrow your toy car, please?"
 ### Enunciado
@@ -118,6 +149,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Vocabulary)
+**ID:** `CO-ENG-05-my-toys-104-v7`
+
+
+**ID:** `CO-ENG-05-my-toys-104-v7`
+
 ### Enunciado
 **I need to put the pieces together to finish this _______.**
 ### Opciones
@@ -133,6 +169,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Conversation)
+**ID:** `CO-ENG-05-my-toys-104-v8`
+
+
+**ID:** `CO-ENG-05-my-toys-104-v8`
+
 ### Contexto
 **Person A:** "What is your favorite toy?"
 **Person B:** "____________"
@@ -151,6 +192,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Reading - Inferential)
+**ID:** `CO-ENG-05-my-toys-104-v9`
+
+
+**ID:** `CO-ENG-05-my-toys-104-v9`
+
 ### Contexto
 **Passage:** "Leo is crying because his favorite teddy bear is missing. He looked under the bed and in the closet, but he can't find it."
 ### Enunciado
@@ -168,6 +214,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Cultural)
+**ID:** `CO-ENG-05-my-toys-104-v10`
+
+
+**ID:** `CO-ENG-05-my-toys-104-v10`
+
 ### Enunciado
 **In Colombia, children love to play with a _______, which spins very fast on the ground.**
 ### Opciones

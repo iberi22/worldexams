@@ -4,19 +4,25 @@ country: co
 grado: 6
 asignatura: ingles
 tema: school-objects
+periodo: 1
 cefr_level: A2
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: My School Bag & Objects (A2)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-06-school-objects-110-v1`
+
+
+**ID:** `CO-ENG-06-school-objects-110-v1`
+
 ### Enunciado
 **I use a _______ to write in my notebook.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-06-school-objects-110-v2`
+
+
+**ID:** `CO-ENG-06-school-objects-110-v2`
+
 ### Enunciado
 **I have (1)_______ orange eraser and (2)_______ blue ruler in my bag.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-06-school-objects-110-v3`
+
+
+**ID:** `CO-ENG-06-school-objects-110-v3`
+
 ### Contexto
 **Text:** "My school bag is green. Inside, I have a big dictionary, three notebooks, and a pencil case. I don't have a calculator because I don't need it today."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-06-school-objects-110-v4`
+
+
+**ID:** `CO-ENG-06-school-objects-110-v4`
+
 ### Enunciado
 **You use a _______ to correct mistakes made with a pencil.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-06-school-objects-110-v5`
+
+
+**ID:** `CO-ENG-06-school-objects-110-v5`
+
 ### Contexto
 **Student A:** "Can I borrow your sharpener, please?"
 **Student B:** "Sure, here you are. Just return it at the end of the class."
@@ -104,6 +130,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-06-school-objects-110-v6`
+
+
+**ID:** `CO-ENG-06-school-objects-110-v6`
+
 ### Contexto
 **Passage:** "Mateo is looking for something in his bag. He needs to draw a straight line for his geometry homework, but he can only find a pencil and a notebook."
 ### Enunciado
@@ -121,6 +152,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-06-school-objects-110-v7`
+
+
+**ID:** `CO-ENG-06-school-objects-110-v7`
+
 ### Contexto
 **Teacher:** "Please, take out your books and open them to page 45."
 **Student:** "____________"
@@ -139,6 +175,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Plurals)
+**ID:** `CO-ENG-06-school-objects-110-v8`
+
+
+**ID:** `CO-ENG-06-school-objects-110-v8`
+
 ### Enunciado
 **I have two (1)_______ and three (2)_______ in my pencil case.**
 ### Opciones
@@ -154,6 +195,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-06-school-objects-110-v9`
+
+
+**ID:** `CO-ENG-06-school-objects-110-v9`
+
 ### Enunciado
 **A container for pens, pencils, and other small school objects is a _______.**
 ### Opciones
@@ -169,6 +215,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Cultural)
+**ID:** `CO-ENG-06-school-objects-110-v10`
+
+
+**ID:** `CO-ENG-06-school-objects-110-v10`
+
 ### Enunciado
 **In Colombia, the government often gives 'kits escolares' (school kits) to students, which include notebooks and _______ (backpacks).**
 ### Opciones

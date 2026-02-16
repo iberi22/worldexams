@@ -6,6 +6,7 @@ asignatura: ingles
 tema: digital-future
 cefr_level: B2/C1
 protocol_version: 3.1-COL-Bilingual
+periodo: 1
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
@@ -17,6 +18,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Vocabulary)
+**ID:** `CO-ENG-11-digital-future-101-v1`
+
 ID: CO-ENG-11-digital-future-101-v1
 
 ### Enunciado
@@ -43,6 +46,8 @@ ID: CO-ENG-11-digital-future-101-v1
 ---
 
 ## Question 2 (Part 2 - Pragmatics)
+**ID:** `CO-ENG-11-digital-future-101-v2`
+
 ID: CO-ENG-11-digital-future-101-v2
 
 ### Contexto
@@ -65,6 +70,8 @@ ID: CO-ENG-11-digital-future-101-v2
 ---
 
 ## Question 3 (Part 3 - Conversation)
+**ID:** `CO-ENG-11-digital-future-101-v3`
+
 ID: CO-ENG-11-digital-future-101-v3
 
 ### Contexto
@@ -91,6 +98,8 @@ ID: CO-ENG-11-digital-future-101-v3
 ---
 
 ## Question 4 (Part 4 - Grammar)
+**ID:** `CO-ENG-11-digital-future-101-v4`
+
 ID: CO-ENG-11-digital-future-101-v4
 
 ### Contexto
@@ -119,6 +128,8 @@ ID: CO-ENG-11-digital-future-101-v4
 ---
 
 ## Question 5 (Part 5 - Literal Reading)
+**ID:** `CO-ENG-11-digital-future-101-v5`
+
 ID: CO-ENG-11-digital-future-101-v5
 
 ### Contexto
@@ -141,6 +152,8 @@ ID: CO-ENG-11-digital-future-101-v5
 ---
 
 ## Question 6 (Part 6 - Inferential Reading)
+**ID:** `CO-ENG-11-digital-future-101-v6`
+
 ID: CO-ENG-11-digital-future-101-v6
 
 ### Contexto
@@ -163,6 +176,8 @@ ID: CO-ENG-11-digital-future-101-v6
 ---
 
 ## Question 7 (Part 7 - Advanced Grammar)
+**ID:** `CO-ENG-11-digital-future-101-v7`
+
 ID: CO-ENG-11-digital-future-101-v7
 
 ### Contexto
@@ -191,6 +206,8 @@ ID: CO-ENG-11-digital-future-101-v7
 ---
 
 ## Question 8 (Challenge - C1 Vocabulary)
+**ID:** `CO-ENG-11-digital-future-101-v8`
+
 ID: CO-ENG-11-digital-future-101-v8
 
 ### Contexto
@@ -218,6 +235,8 @@ ID: CO-ENG-11-digital-future-101-v8
 ---
 
 ## Question 9 (Challenge - Sentence Transformation)
+**ID:** `CO-ENG-11-digital-future-101-v9`
+
 ID: CO-ENG-11-digital-future-101-v9
 
 ### Contexto
@@ -245,6 +264,8 @@ ID: CO-ENG-11-digital-future-101-v9
 ---
 
 ## Question 10 (Challenge - Critical Thinking)
+**ID:** `CO-ENG-11-digital-future-101-v10`
+
 ID: CO-ENG-11-digital-future-101-v10
 
 ### Contexto

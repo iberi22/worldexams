@@ -4,19 +4,25 @@ country: co
 grado: 7
 asignatura: ingles
 tema: school-life
+periodo: 1
 cefr_level: A2+
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: School Life & Subjects (A2+)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-07-school-life-106-v1`
+
+
+**ID:** `CO-ENG-07-school-life-106-v1`
+
 ### Enunciado
 **The subject where you learn about numbers and shapes is _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-07-school-life-106-v2`
+
+
+**ID:** `CO-ENG-07-school-life-106-v2`
+
 ### Enunciado
 **My favorite subject (1)_______ English because it (2)_______ fun.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-07-school-life-106-v3`
+
+
+**ID:** `CO-ENG-07-school-life-106-v3`
+
 ### Contexto
 **Text:** "At school, we have six classes every day. We start at 7:00 AM and finish at 2:00 PM. We have a 30-minute break at 10:00 AM to eat a snack."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-07-school-life-106-v4`
+
+
+**ID:** `CO-ENG-07-school-life-106-v4`
+
 ### Enunciado
 **The room in a school where students learn is a _______.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-07-school-life-106-v5`
+
+
+**ID:** `CO-ENG-07-school-life-106-v5`
+
 ### Contexto
 **Student:** "Excuse me, teacher. Can you repeat that, please?"
 ### Enunciado
@@ -103,6 +129,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-07-school-life-106-v6`
+
+
+**ID:** `CO-ENG-07-school-life-106-v6`
+
 ### Contexto
 **Passage:** "Juan always has his notebook ready and asks many questions during science class. He gets very good grades in his exams."
 ### Enunciado
@@ -120,6 +151,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-07-school-life-106-v7`
+
+
+**ID:** `CO-ENG-07-school-life-106-v7`
+
 ### Contexto
 **Person A:** "History is my least favorite subject."
 **Person B:** "____________"
@@ -138,6 +174,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Present Simple)
+**ID:** `CO-ENG-07-school-life-106-v8`
+
+
+**ID:** `CO-ENG-07-school-life-106-v8`
+
 ### Enunciado
 **The teacher (1)_______ the students to (2)_______ their homework every day.**
 ### Opciones
@@ -153,6 +194,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-07-school-life-106-v9`
+
+
+**ID:** `CO-ENG-07-school-life-106-v9`
+
 ### Enunciado
 **A place in the school with many books for students to read or borrow is a _______.**
 ### Opciones
@@ -168,6 +214,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Cultural)
+**ID:** `CO-ENG-07-school-life-106-v10`
+
+
+**ID:** `CO-ENG-07-school-life-106-v10`
+
 ### Enunciado
 **In Colombia, the student who helps the teacher and represents the class is often called the 'monitor' or _______.**
 ### Opciones

@@ -33,6 +33,8 @@ original_answer: "Communication in context."
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
+**ID:** `CO-ING-11-part3-conversations-001-v1`
+
 
 **ID:** `CO-ING-11-part3-conversations-001-v1`
 
@@ -58,6 +60,8 @@ En un contexto de restaurante, cuando alguien pide un plato ("I would like..."),
 ---
 
 ## Pregunta 2 (Fácil A - Dificultad 1)
+**ID:** `CO-ING-11-part3-conversations-001-v2`
+
 
 **ID:** `CO-ING-11-part3-conversations-001-v2`
 
@@ -79,6 +83,8 @@ La pregunta estándar de saludo "¿Cómo estás?" ("How are you?") se responde c
 ---
 
 ## Pregunta 3 (Fácil B - Dificultad 2)
+**ID:** `CO-ING-11-part3-conversations-001-v3`
+
 
 **ID:** `CO-ING-11-part3-conversations-001-v3`
 
@@ -100,6 +106,8 @@ Ante una felicitación personal, la respuesta correcta es agradecer ("Thank you"
 ---
 
 ## Pregunta 4 (Media A - Dificultad 3)
+**ID:** `CO-ING-11-part3-conversations-001-v4`
+
 
 **ID:** `CO-ING-11-part3-conversations-001-v4`
 
@@ -121,6 +129,8 @@ Es una petición de préstamo ("borrow"). La respuesta positiva común es "**Sur
 ---
 
 ## Pregunta 5 (Media B - Dificultad 3)
+**ID:** `CO-ING-11-part3-conversations-001-v5`
+
 
 **ID:** `CO-ING-11-part3-conversations-001-v5`
 
@@ -142,6 +152,8 @@ Ante una queja de salud (dolor de cabeza), lo apropiado es dar un consejo ("You 
 ---
 
 ## Pregunta 6 (Difícil A - Dificultad 4)
+**ID:** `CO-ING-11-part3-conversations-001-v6`
+
 
 **ID:** `CO-ING-11-part3-conversations-001-v6`
 
@@ -163,6 +175,8 @@ El hablante cuenta algo negativo pasado ("missed"). La respuesta comunicativa de
 ---
 
 ## Pregunta 7 (Difícil B - Dificultad 5)
+**ID:** `CO-ING-11-part3-conversations-001-v7`
+
 
 **ID:** `CO-ING-11-part3-conversations-001-v7`
 

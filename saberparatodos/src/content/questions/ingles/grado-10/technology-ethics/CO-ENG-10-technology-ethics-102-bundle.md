@@ -4,19 +4,22 @@ country: co
 grado: 10
 asignatura: ingles
 tema: technology-ethics
+periodo: 1
 cefr_level: B2
-protocol_version: 3.1-COL-Bilingual
-total_questions: 10
+protocol_version: 2.1
+total_questions: 1
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Technology & Ethics (B2)
 
 ---
 
 ## Question 1 (Part 1 - Vocabulary)
+**ID:** `CO-ENG-10-technology-ethics-102-v1`
+
 ID: CO-ENG-10-technology-ethics-102-v1
 
 ### Enunciado
@@ -40,9 +43,5 @@ ID: CO-ENG-10-technology-ethics-102-v1
 | Surveillance | Vigilancia | Monitoring people |
 | Encryption | Encriptación | Coding data for security |
 | Data breach | Filtración de datos | Unauthorized access to data |
-
----
-
-## Question 2-10 (Full bilingual explanations...)
 
 ---

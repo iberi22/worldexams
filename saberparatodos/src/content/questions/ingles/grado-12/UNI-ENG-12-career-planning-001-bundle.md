@@ -6,6 +6,7 @@ asignatura: ingles
 tema: career-planning
 cefr_level: C1
 protocol_version: 3.2-GLOBAL
+periodo: 1
 total_questions: 10
 international_focus: Jobs / CV / Interviews
 licenses:
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - CV)
+**ID:** `UNI-ENG-12-career-planning-001-v1`
+
 ID: UNI-ENG-12-career-planning-001-v1
 
 ### Contexto
@@ -45,6 +48,8 @@ In the USA, this summary of experience is often called a...
 ---
 
 ## Question 2 (Part 2 - Interview)
+**ID:** `UNI-ENG-12-career-planning-001-v2`
+
 ID: UNI-ENG-12-career-planning-001-v2
 
 ### Enunciado
@@ -63,6 +68,8 @@ A formal meeting where an employer asks you questions to see if you are fit for 
 ---
 
 ## Question 3 (Part 3 - Skill)
+**ID:** `UNI-ENG-12-career-planning-001-v3`
+
 ID: UNI-ENG-12-career-planning-001-v3
 
 ### Enunciado
@@ -81,6 +88,8 @@ The ability to do something well.
 ---
 
 ## Question 4 (Part 4 - Internship)
+**ID:** `UNI-ENG-12-career-planning-001-v4`
+
 ID: UNI-ENG-12-career-planning-001-v4
 
 ### Enunciado
@@ -99,6 +108,8 @@ A temporary position (often unpaid) for students to gain work experience.
 ---
 
 ## Question 5 (Part 5 - Promotion)
+**ID:** `UNI-ENG-12-career-planning-001-v5`
+
 ID: UNI-ENG-12-career-planning-001-v5
 
 ### Enunciado
@@ -117,6 +128,8 @@ Moving to a higher position (better job) within the same company.
 ---
 
 ## Question 6 (Part 6 - Reference)
+**ID:** `UNI-ENG-12-career-planning-001-v6`
+
 ID: UNI-ENG-12-career-planning-001-v6
 
 ### Enunciado
@@ -135,6 +148,8 @@ A person (former boss) who can confirm your skills and character to a new employ
 ---
 
 ## Question 7 (Part 7 - Network)
+**ID:** `UNI-ENG-12-career-planning-001-v7`
+
 ID: UNI-ENG-12-career-planning-001-v7
 
 ### Enunciado
@@ -153,6 +168,8 @@ The group of professional contacts you know who can help you find a job (Network
 ---
 
 ## Question 8 (Part 8 - Salary)
+**ID:** `UNI-ENG-12-career-planning-001-v8`
+
 ID: UNI-ENG-12-career-planning-001-v8
 
 ### Enunciado
@@ -171,6 +188,8 @@ A fixed regular payment (usually monthly or yearly) for work.
 ---
 
 ## Question 9 (Part 9 - Strength)
+**ID:** `UNI-ENG-12-career-planning-001-v9`
+
 ID: UNI-ENG-12-career-planning-001-v9
 
 ### Contexto
@@ -192,6 +211,8 @@ What you are good at.
 ---
 
 ## Question 10 (Part 10 - Quit)
+**ID:** `UNI-ENG-12-career-planning-001-v10`
+
 ID: UNI-ENG-12-career-planning-001-v10
 
 ### Enunciado

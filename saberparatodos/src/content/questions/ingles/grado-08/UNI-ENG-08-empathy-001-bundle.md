@@ -4,6 +4,7 @@ country: global
 grado: 8
 asignatura: ingles
 tema: empathy
+periodo: 1
 cefr_level: A2+
 protocol_version: 3.1-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Empathy & Emotional Intelligence (Grade 8)
 
 > **Focus:** Putting yourself in others' shoes.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Definition)
+**ID:** `UNI-ENG-08-empathy-001-v1`
+
 ID: UNI-ENG-08-empathy-001-v1
 
 ### Enunciado
@@ -42,6 +45,8 @@ What is **empathy**?
 ---
 
 ## Question 2 (Part 2 - Listening)
+**ID:** `UNI-ENG-08-empathy-001-v2`
+
 ID: UNI-ENG-08-empathy-001-v2
 
 ### Contexto
@@ -63,6 +68,8 @@ This shows...
 ---
 
 ## Question 3 (Part 3 - Perspective)
+**ID:** `UNI-ENG-08-empathy-001-v3`
+
 ID: UNI-ENG-08-empathy-001-v3
 
 ### Contexto
@@ -84,6 +91,8 @@ What does this idiom mean?
 ---
 
 ## Question 4 (Part 4 - Body Language)
+**ID:** `UNI-ENG-08-empathy-001-v4`
+
 ID: UNI-ENG-08-empathy-001-v4
 
 ### Contexto
@@ -105,6 +114,8 @@ How is this person likely feeling?
 ---
 
 ## Question 5 (Part 5 - Consolation)
+**ID:** `UNI-ENG-08-empathy-001-v5`
+
 ID: UNI-ENG-08-empathy-001-v5
 
 ### Contexto
@@ -126,6 +137,8 @@ What is an empathetic response?
 ---
 
 ## Question 6 (Part 6 - Exclusion)
+**ID:** `UNI-ENG-08-empathy-001-v6`
+
 ID: UNI-ENG-08-empathy-001-v6
 
 ### Contexto
@@ -147,6 +160,8 @@ How does that person feel?
 ---
 
 ## Question 7 (Part 7 - Diversity)
+**ID:** `UNI-ENG-08-empathy-001-v7`
+
 ID: UNI-ENG-08-empathy-001-v7
 
 ### Contexto
@@ -168,6 +183,8 @@ Empathy requires...
 ---
 
 ## Question 8 (Part 8 - Self-Empathy)
+**ID:** `UNI-ENG-08-empathy-001-v8`
+
 ID: UNI-ENG-08-empathy-001-v8
 
 ### Contexto
@@ -189,6 +206,8 @@ What is being kind to yourself?
 ---
 
 ## Question 9 (Part 9 - Non-judgmental)
+**ID:** `UNI-ENG-08-empathy-001-v9`
+
 ID: UNI-ENG-08-empathy-001-v9
 
 ### Enunciado
@@ -207,6 +226,8 @@ To understand someone truly, you must listen without...
 ---
 
 ## Question 10 (Part 10 - Kindness Ripple)
+**ID:** `UNI-ENG-08-empathy-001-v10`
+
 ID: UNI-ENG-08-empathy-001-v10
 
 ### Contexto

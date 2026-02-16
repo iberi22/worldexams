@@ -11,7 +11,7 @@
   let { position = 'bottom-left', showOnlyOnUpdate = false }: Props = $props();
 
   // State (Svelte 5 runes)
-  let buildInfo = $state<{ version: string; commit: string; timestamp: string; env: string } | null>(null);
+  let buildInfo = $state<{ version: string; commit: string; buildTime: string; env: string } | null>(null);
   let showUpdateNotification = $state(false);
   let newVersion = $state('');
   let isExpanded = $state(false);
@@ -21,8 +21,8 @@
 
   // Derived values
   let shortCommit = $derived(buildInfo?.commit?.substring(0, 7) || '');
-  let buildDate = $derived(buildInfo?.timestamp
-    ? new Date(buildInfo.timestamp).toLocaleDateString('es-CO', {
+  let buildDate = $derived(buildInfo?.buildTime
+    ? new Date(buildInfo.buildTime).toLocaleDateString('es-CO', {
         year: 'numeric',
         month: 'short',
         day: 'numeric',

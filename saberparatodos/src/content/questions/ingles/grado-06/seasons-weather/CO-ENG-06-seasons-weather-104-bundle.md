@@ -4,19 +4,25 @@ country: co
 grado: 6
 asignatura: ingles
 tema: seasons-weather
+periodo: 1
 cefr_level: A2
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Seasons & Weather (A2)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-06-seasons-weather-104-v1`
+
+
+**ID:** `CO-ENG-06-seasons-weather-104-v1`
+
 ### Enunciado
 **In _______, the leaves fall from the trees.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-06-seasons-weather-104-v2`
+
+
+**ID:** `CO-ENG-06-seasons-weather-104-v2`
+
 ### Enunciado
 **It _______ raining right now.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Vocabulary)
+**ID:** `CO-ENG-06-seasons-weather-104-v3`
+
+
+**ID:** `CO-ENG-06-seasons-weather-104-v3`
+
 ### Enunciado
 **When it is _______, you should take an umbrella.**
 ### Opciones
@@ -69,6 +85,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Conversation)
+**ID:** `CO-ENG-06-seasons-weather-104-v4`
+
+
+**ID:** `CO-ENG-06-seasons-weather-104-v4`
+
 ### Contexto
 **Person A:** "What's the weather like today?"
 **Person B:** "____________"
@@ -87,6 +108,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Vocabulary)
+**ID:** `CO-ENG-06-seasons-weather-104-v5`
+
+
+**ID:** `CO-ENG-06-seasons-weather-104-v5`
+
 ### Enunciado
 **The hottest season of the year is _______.**
 ### Opciones
@@ -102,6 +128,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Grammar)
+**ID:** `CO-ENG-06-seasons-weather-104-v6`
+
+
+**ID:** `CO-ENG-06-seasons-weather-104-v6`
+
 ### Enunciado
 **Was it _______ yesterday?**
 ### Opciones
@@ -117,6 +148,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Pragmatics)
+**ID:** `CO-ENG-06-seasons-weather-104-v7`
+
+
+**ID:** `CO-ENG-06-seasons-weather-104-v7`
+
 ### Contexto
 **Weather Forecast:** "Heavy snow expected tomorrow. Stay safe and avoid driving."
 ### Enunciado
@@ -134,6 +170,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Reading - Literal)
+**ID:** `CO-ENG-06-seasons-weather-104-v8`
+
+
+**ID:** `CO-ENG-06-seasons-weather-104-v8`
+
 ### Contexto
 **Text:** "In Bogota, it is often cloudy and cool. Sometimes it rains in the afternoon, so people always carry an umbrella."
 ### Enunciado
@@ -151,6 +192,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Reading - Inferential)
+**ID:** `CO-ENG-06-seasons-weather-104-v9`
+
+
+**ID:** `CO-ENG-06-seasons-weather-104-v9`
+
 ### Contexto
 **Passage:** "The kids are building a snowman in the garden and wearing thick coats, gloves, and hats."
 ### Enunciado
@@ -168,6 +214,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Colombian Context)
+**ID:** `CO-ENG-06-seasons-weather-104-v10`
+
+
+**ID:** `CO-ENG-06-seasons-weather-104-v10`
+
 ### Enunciado
 **In Colombia, we don't have four seasons. We have _______ and _______ seasons.**
 ### Opciones

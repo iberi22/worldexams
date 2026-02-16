@@ -6,6 +6,7 @@ asignatura: ingles
 tema: psychology-basics
 cefr_level: B2
 protocol_version: 3.2-GLOBAL
+periodo: 1
 total_questions: 10
 international_focus: Mind / Behavior / Science
 licenses:
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Psyche)
+**ID:** `UNI-ENG-11-psychology-basics-001-v1`
+
 ID: UNI-ENG-11-psychology-basics-001-v1
 
 ### Contexto
@@ -45,6 +48,8 @@ Psychology is the study of the...
 ---
 
 ## Question 2 (Part 2 - Cognitive Bias)
+**ID:** `UNI-ENG-11-psychology-basics-001-v2`
+
 ID: UNI-ENG-11-psychology-basics-001-v2
 
 ### Contexto
@@ -66,6 +71,8 @@ Example: Confirmation Bias.
 ---
 
 ## Question 3 (Part 3 - Nature vs Nurture)
+**ID:** `UNI-ENG-11-psychology-basics-001-v3`
+
 ID: UNI-ENG-11-psychology-basics-001-v3
 
 ### Enunciado
@@ -84,6 +91,8 @@ The debate about whether we are shaped by our genes (biology) or our environment
 ---
 
 ## Question 4 (Part 4 - Placebo)
+**ID:** `UNI-ENG-11-psychology-basics-001-v4`
+
 ID: UNI-ENG-11-psychology-basics-001-v4
 
 ### Contexto
@@ -105,6 +114,8 @@ This is the...
 ---
 
 ## Question 5 (Part 5 - Unconscious)
+**ID:** `UNI-ENG-11-psychology-basics-001-v5`
+
 ID: UNI-ENG-11-psychology-basics-001-v5
 
 ### Contexto
@@ -126,6 +137,8 @@ Part of the mind we are not aware of.
 ---
 
 ## Question 6 (Part 6 - Pavlov's Dog)
+**ID:** `UNI-ENG-11-psychology-basics-001-v6`
+
 ID: UNI-ENG-11-psychology-basics-001-v6
 
 ### Enunciado
@@ -144,6 +157,8 @@ Ivan Pavlov taught a dog to salivate at the sound of a bell. This is called **Cl
 ---
 
 ## Question 7 (Part 7 - Introvert)
+**ID:** `UNI-ENG-11-psychology-basics-001-v7`
+
 ID: UNI-ENG-11-psychology-basics-001-v7
 
 ### Enunciado
@@ -162,6 +177,8 @@ A person who gains energy from being alone and finds social gatherings draining.
 ---
 
 ## Question 8 (Part 8 - IQ)
+**ID:** `UNI-ENG-11-psychology-basics-001-v8`
+
 ID: UNI-ENG-11-psychology-basics-001-v8
 
 ### Contexto
@@ -183,6 +200,8 @@ It stands for Intelligence...
 ---
 
 ## Question 9 (Part 9 - Phobia)
+**ID:** `UNI-ENG-11-psychology-basics-001-v9`
+
 ID: UNI-ENG-11-psychology-basics-001-v9
 
 ### Enunciado
@@ -201,6 +220,8 @@ An intense, irrational fear of something (e.g., spiders, heights).
 ---
 
 ## Question 10 (Part 10 - Maslow's Pyramid)
+**ID:** `UNI-ENG-11-psychology-basics-001-v10`
+
 ID: UNI-ENG-11-psychology-basics-001-v10
 
 ### Contexto

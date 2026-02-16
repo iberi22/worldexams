@@ -4,19 +4,25 @@ country: co
 grado: 3
 asignatura: ingles
 tema: alphabet
+periodo: 1
 cefr_level: Pre-A1
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Alphabet (Pre-A1)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-03-alphabet-101-v1`
+
+
+**ID:** `CO-ENG-03-alphabet-101-v1`
+
 ### Enunciado
 **Which letter comes after 'A'?**
 ### Opciones
@@ -38,6 +44,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Vocabulary)
+**ID:** `CO-ENG-03-alphabet-101-v2`
+
+
+**ID:** `CO-ENG-03-alphabet-101-v2`
+
 ### Enunciado
 **Which letter starts the word 'Apple'?**
 ### Opciones
@@ -53,6 +64,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Vocabulary)
+**ID:** `CO-ENG-03-alphabet-101-v3`
+
+
+**ID:** `CO-ENG-03-alphabet-101-v3`
+
 ### Enunciado
 **Which letter comes after 'F'?**
 ### Opciones
@@ -68,6 +84,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-03-alphabet-101-v4`
+
+
+**ID:** `CO-ENG-03-alphabet-101-v4`
+
 ### Enunciado
 **How many letters are in the English alphabet?**
 ### Opciones
@@ -83,6 +104,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Vocabulary)
+**ID:** `CO-ENG-03-alphabet-101-v5`
+
+
+**ID:** `CO-ENG-03-alphabet-101-v5`
+
 ### Enunciado
 **Which letter is at the end of the alphabet?**
 ### Opciones
@@ -98,6 +124,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Vocabulary)
+**ID:** `CO-ENG-03-alphabet-101-v6`
+
+
+**ID:** `CO-ENG-03-alphabet-101-v6`
+
 ### Enunciado
 **Which letter starts the word 'Dog'?**
 ### Opciones
@@ -113,6 +144,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Vocabulary)
+**ID:** `CO-ENG-03-alphabet-101-v7`
+
+
+**ID:** `CO-ENG-03-alphabet-101-v7`
+
 ### Enunciado
 **Which letter is a vowel?**
 ### Opciones
@@ -128,6 +164,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Vocabulary)
+**ID:** `CO-ENG-03-alphabet-101-v8`
+
+
+**ID:** `CO-ENG-03-alphabet-101-v8`
+
 ### Enunciado
 **Which letter starts the word 'Sun'?**
 ### Opciones
@@ -143,6 +184,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-03-alphabet-101-v9`
+
+
+**ID:** `CO-ENG-03-alphabet-101-v9`
+
 ### Enunciado
 **What is the 3rd letter of the alphabet?**
 ### Opciones
@@ -158,6 +204,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary)
+**ID:** `CO-ENG-03-alphabet-101-v10`
+
+
+**ID:** `CO-ENG-03-alphabet-101-v10`
+
 ### Enunciado
 **Which letter looks like a circle?**
 ### Opciones

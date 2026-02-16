@@ -4,6 +4,7 @@ country: global
 grado: 8
 asignatura: ingles
 tema: social-media
+periodo: 1
 cefr_level: A2+
 protocol_version: 3.1-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Social Media Awareness (Grade 8)
 
 > **Focus:** Privacy settings, likes vs reality, impacts on friendship.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Privacy Settings)
+**ID:** `UNI-ENG-08-social-media-001-v1`
+
 ID: UNI-ENG-08-social-media-001-v1
 
 ### Contexto
@@ -45,6 +48,8 @@ What does this setting do?
 ---
 
 ## Question 2 (Part 2 - Fake News)
+**ID:** `UNI-ENG-08-social-media-001-v2`
+
 ID: UNI-ENG-08-social-media-001-v2
 
 ### Contexto
@@ -66,6 +71,8 @@ This is likely...
 ---
 
 ## Question 3 (Part 3 - Comparison)
+**ID:** `UNI-ENG-08-social-media-001-v3`
+
 ID: UNI-ENG-08-social-media-001-v3
 
 ### Contexto
@@ -87,6 +94,8 @@ What is important to remember?
 ---
 
 ## Question 4 (Part 4 - Cyberbullying Witness)
+**ID:** `UNI-ENG-08-social-media-001-v4`
+
 ID: UNI-ENG-08-social-media-001-v4
 
 ### Contexto
@@ -108,6 +117,8 @@ What is the best action?
 ---
 
 ## Question 5 (Part 5 - Trolling)
+**ID:** `UNI-ENG-08-social-media-001-v5`
+
 ID: UNI-ENG-08-social-media-001-v5
 
 ### Contexto
@@ -129,6 +140,8 @@ What is this person called?
 ---
 
 ## Question 6 (Part 6 - Netiquette)
+**ID:** `UNI-ENG-08-social-media-001-v6`
+
 ID: UNI-ENG-08-social-media-001-v6
 
 ### Contexto
@@ -150,6 +163,8 @@ Why?
 ---
 
 ## Question 7 (Part 7 - Oversharing)
+**ID:** `UNI-ENG-08-social-media-001-v7`
+
 ID: UNI-ENG-08-social-media-001-v7
 
 ### Contexto
@@ -171,6 +186,8 @@ Why is this dangerous?
 ---
 
 ## Question 8 (Part 8 - Influencers)
+**ID:** `UNI-ENG-08-social-media-001-v8`
+
 ID: UNI-ENG-08-social-media-001-v8
 
 ### Contexto
@@ -192,6 +209,8 @@ What is this marketing called?
 ---
 
 ## Question 9 (Part 9 - Mental Health)
+**ID:** `UNI-ENG-08-social-media-001-v9`
+
 ID: UNI-ENG-08-social-media-001-v9
 
 ### Contexto
@@ -213,6 +232,8 @@ How does this help?
 ---
 
 ## Question 10 (Part 10 - Digital Footprint)
+**ID:** `UNI-ENG-08-social-media-001-v10`
+
 ID: UNI-ENG-08-social-media-001-v10
 
 ### Enunciado

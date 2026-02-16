@@ -4,19 +4,25 @@ country: co
 grado: 10
 asignatura: ingles
 tema: media-literacy
+periodo: 1
 cefr_level: B2
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Media Literacy (B2)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-10-media-literacy-103-v1`
+
+
+**ID:** `CO-ENG-10-media-literacy-103-v1`
+
 ### Enunciado
 **False information spread intentionally to deceive is:**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Pragmatics)
+**ID:** `CO-ENG-10-media-literacy-103-v2`
+
+
+**ID:** `CO-ENG-10-media-literacy-103-v2`
+
 ### Contexto
 **Article headline:** "Scientists say chocolate cures all diseases!"
 ### Enunciado
@@ -56,6 +67,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Conversation)
+**ID:** `CO-ENG-10-media-literacy-103-v3`
+
+
+**ID:** `CO-ENG-10-media-literacy-103-v3`
+
 ### Contexto
 **Friend:** "I read online that vaccines cause autism."
 **You:** "____________"
@@ -74,6 +90,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Grammar)
+**ID:** `CO-ENG-10-media-literacy-103-v4`
+
+
+**ID:** `CO-ENG-10-media-literacy-103-v4`
+
 ### Contexto
 "Before you (1)______ an article, you (2)______ the source."
 ### Enunciado
@@ -91,6 +112,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Literal Reading)
+**ID:** `CO-ENG-10-media-literacy-103-v5`
+
+
+**ID:** `CO-ENG-10-media-literacy-103-v5`
+
 ### Contexto
 **Text:** "According to a 2023 study, 70% of teenagers get news primarily from social media. However, only 12% regularly verify the sources of what they read."
 ### Enunciado
@@ -108,6 +134,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-10-media-literacy-103-v6`
+
+
+**ID:** `CO-ENG-10-media-literacy-103-v6`
+
 ### Contexto
 **Passage:** "Every news outlet has an editorial perspective. Even the choice of what stories to cover—and which to ignore—reflects a viewpoint. The idea of purely 'objective' news is a myth."
 ### Enunciado
@@ -125,6 +156,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Advanced Grammar)
+**ID:** `CO-ENG-10-media-literacy-103-v7`
+
+
+**ID:** `CO-ENG-10-media-literacy-103-v7`
+
 ### Contexto
 "(1)______ the source seems reliable, you should still (2)______ information before sharing."
 ### Enunciado
@@ -142,6 +178,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Vocabulary)
+**ID:** `CO-ENG-10-media-literacy-103-v8`
+
+
+**ID:** `CO-ENG-10-media-literacy-103-v8`
+
 ### Enunciado
 **A "primary source" is:**
 ### Opciones
@@ -157,6 +198,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Use of English)
+**ID:** `CO-ENG-10-media-literacy-103-v9`
+
+
+**ID:** `CO-ENG-10-media-literacy-103-v9`
+
 ### Contexto
 **Original:** "People should verify information before sharing."
 **Rewrite:** *INFORMATION...*
@@ -175,6 +221,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Critical Thinking)
+**ID:** `CO-ENG-10-media-literacy-103-v10`
+
+
+**ID:** `CO-ENG-10-media-literacy-103-v10`
+
 ### Contexto
 **Claim:** "I saw it on the news, so it must be true."
 ### Enunciado

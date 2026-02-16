@@ -6,6 +6,7 @@ asignatura: ingles
 tema: global-economy
 cefr_level: B2/C1
 protocol_version: 3.1-COL-Bilingual
+periodo: 1
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
@@ -17,6 +18,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Vocabulary)
+**ID:** `CO-ENG-11-global-economy-104-v1`
+
 ### Enunciado
 **A general increase in prices over time is called:**
 ### Opciones
@@ -38,6 +41,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Part 2 - Pragmatics)
+**ID:** `CO-ENG-11-global-economy-104-v2`
+
 ### Contexto
 **Bank ad:** "Open a savings account today! Earn 5% APY. Terms apply."
 ### Enunciado
@@ -55,6 +60,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Part 3 - Conversation)
+**ID:** `CO-ENG-11-global-economy-104-v3`
+
 ### Contexto
 **Colleague:** "The stock market crashed yesterday."
 **You:** "____________"
@@ -73,6 +80,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Part 4 - Grammar)
+**ID:** `CO-ENG-11-global-economy-104-v4`
+
 ### Contexto
 "If interest rates (1)______ lower, more people (2)______ afford mortgages."
 ### Enunciado
@@ -90,6 +99,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Part 5 - Literal Reading)
+**ID:** `CO-ENG-11-global-economy-104-v5`
+
 ### Contexto
 **Text:** "Global GDP fell by 3.1% in 2020 due to the pandemic. This was the worst contraction since World War II."
 ### Enunciado
@@ -107,6 +118,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Part 6 - Inferential)
+**ID:** `CO-ENG-11-global-economy-104-v6`
+
 ### Contexto
 **Passage:** "While globalization has lifted millions out of poverty, it has also concentrated wealth among those positioned to benefit from international trade. The gap between the global rich and poor continues to widen."
 ### Enunciado
@@ -124,6 +137,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Part 7 - Advanced Grammar)
+**ID:** `CO-ENG-11-global-economy-104-v7`
+
 ### Contexto
 "(1)______ the government's best efforts, unemployment (2)______ risen to 10%."
 ### Enunciado
@@ -141,6 +156,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Challenge - C1 Vocabulary)
+**ID:** `CO-ENG-11-global-economy-104-v8`
+
 ### Enunciado
 **"Fiscal policy" refers to:**
 ### Opciones
@@ -156,6 +173,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Challenge - Use of English)
+**ID:** `CO-ENG-11-global-economy-104-v9`
+
 ### Contexto
 **Original:** "Many economists predict a recession."
 **Rewrite:** *A RECESSION...*
@@ -174,6 +193,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Challenge - Critical Thinking)
+**ID:** `CO-ENG-11-global-economy-104-v10`
+
 ### Contexto
 **Statement:** "Cryptocurrency will replace traditional currency within 10 years."
 ### Enunciado

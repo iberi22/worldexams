@@ -39,6 +39,8 @@ original_answer: "Multiple choice cloze."
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
+**ID:** `CO-ING-11-part7-cloze-001-v1`
+
 
 **ID:** `CO-ING-11-part7-cloze-001-v1`
 
@@ -63,6 +65,8 @@ Se refiere a cuándo tiene lugar un evento. "**Happens**" (sucede/ocurre) o "Tak
 ---
 
 ## Pregunta 2 (Fácil A - Dificultad 1)
+**ID:** `CO-ING-11-part7-cloze-001-v2`
+
 
 **ID:** `CO-ING-11-part7-cloze-001-v2`
 
@@ -84,6 +88,8 @@ La frase idiomática es "**each other**" (el uno al otro). Es una expresión fij
 ---
 
 ## Pregunta 3 (Fácil B - Dificultad 2)
+**ID:** `CO-ING-11-part7-cloze-001-v3`
+
 
 **ID:** `CO-ING-11-part7-cloze-001-v3`
 
@@ -105,6 +111,8 @@ La acción asociada con "cards, chocolates, and flowers" hacia los seres querido
 ---
 
 ## Pregunta 4 (Media A - Dificultad 3)
+**ID:** `CO-ING-11-part7-cloze-001-v4`
+
 
 **ID:** `CO-ING-11-part7-cloze-001-v4`
 
@@ -126,6 +134,8 @@ El phrasal verb para indicar origen en el tiempo es "**go back**" (se remonta a.
 ---
 
 ## Pregunta 5 (Media B - Dificultad 3)
+**ID:** `CO-ING-11-part7-cloze-001-v5`
+
 
 **ID:** `CO-ING-11-part7-cloze-001-v5`
 
@@ -147,6 +157,8 @@ Se habla de que las prácticas pueden ser diferentes de un país a otro. El verb
 ---
 
 ## Pregunta 6 (Difícil A - Dificultad 4)
+**ID:** `CO-ING-11-part7-cloze-001-v6`
+
 
 **ID:** `CO-ING-11-part7-cloze-001-v6`
 
@@ -168,6 +180,8 @@ Entre amigos, la acción recíproca de dar y recibir regalos se llama "**exchang
 ---
 
 ## Pregunta 7 (Difícil B - Dificultad 5)
+**ID:** `CO-ING-11-part7-cloze-001-v7`
+
 
 **ID:** `CO-ING-11-part7-cloze-001-v7`
 

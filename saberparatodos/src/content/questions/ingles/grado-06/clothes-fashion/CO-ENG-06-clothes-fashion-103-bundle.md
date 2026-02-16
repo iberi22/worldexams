@@ -4,19 +4,25 @@ country: co
 grado: 6
 asignatura: ingles
 tema: clothes-fashion
+periodo: 1
 cefr_level: A2
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Clothes & Fashion (A2)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-06-clothes-fashion-103-v1`
+
+
+**ID:** `CO-ENG-06-clothes-fashion-103-v1`
+
 ### Enunciado
 **When it is cold, I wear a _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-06-clothes-fashion-103-v2`
+
+
+**ID:** `CO-ENG-06-clothes-fashion-103-v2`
+
 ### Enunciado
 **He _______ wearing a blue shirt today.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Vocabulary)
+**ID:** `CO-ENG-06-clothes-fashion-103-v3`
+
+
+**ID:** `CO-ENG-06-clothes-fashion-103-v3`
+
 ### Enunciado
 **I wear _______ on my feet when I go for a run.**
 ### Opciones
@@ -69,6 +85,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Grammar)
+**ID:** `CO-ENG-06-clothes-fashion-103-v4`
+
+
+**ID:** `CO-ENG-06-clothes-fashion-103-v4`
+
 ### Enunciado
 **_______ those your shoes?**
 ### Opciones
@@ -84,6 +105,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Vocabulary)
+**ID:** `CO-ENG-06-clothes-fashion-103-v5`
+
+
+**ID:** `CO-ENG-06-clothes-fashion-103-v5`
+
 ### Enunciado
 **Women often wear a _______ for parties.**
 ### Opciones
@@ -99,6 +125,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Pragmatics)
+**ID:** `CO-ENG-06-clothes-fashion-103-v6`
+
+
+**ID:** `CO-ENG-06-clothes-fashion-103-v6`
+
 ### Contexto
 **Shop Assistant:** "Can I help you?"
 **Customer:** "Yes, _______."
@@ -117,6 +148,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Reading - Literal)
+**ID:** `CO-ENG-06-clothes-fashion-103-v7`
+
+
+**ID:** `CO-ENG-06-clothes-fashion-103-v7`
+
 ### Contexto
 **Text:** "Sara is wearing a yellow raincoat and red boots because it is raining outside. She also has a big umbrella."
 ### Enunciado
@@ -134,6 +170,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Vocabulary)
+**ID:** `CO-ENG-06-clothes-fashion-103-v8`
+
+
+**ID:** `CO-ENG-06-clothes-fashion-103-v8`
+
 ### Enunciado
 **Men wear a _______ around their neck with a suit.**
 ### Opciones
@@ -149,6 +190,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Reading - Inferential)
+**ID:** `CO-ENG-06-clothes-fashion-103-v9`
+
+
+**ID:** `CO-ENG-06-clothes-fashion-103-v9`
+
 ### Contexto
 **Passage:** "Luisa put on her swimsuit, sunglasses, and a hat. She put some sunscreen in her bag."
 ### Enunciado
@@ -166,6 +212,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Conversation)
+**ID:** `CO-ENG-06-clothes-fashion-103-v10`
+
+
+**ID:** `CO-ENG-06-clothes-fashion-103-v10`
+
 ### Contexto
 **Person A:** "Do you like my new jacket?"
 **Person B:** "____________"

@@ -4,19 +4,25 @@ country: co
 grado: 4
 asignatura: ingles
 tema: colors-shapes
+periodo: 1
 cefr_level: A1
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Colors & Shapes (A1)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-04-colors-shapes-104-v1`
+
+
+**ID:** `CO-ENG-04-colors-shapes-104-v1`
+
 ### Enunciado
 **The sun is _______.**
 ### Opciones
@@ -40,6 +46,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Vocabulary)
+**ID:** `CO-ENG-04-colors-shapes-104-v2`
+
+
+**ID:** `CO-ENG-04-colors-shapes-104-v2`
+
 ### Enunciado
 **This shape has four equal sides. It's a _______.**
 ### Opciones
@@ -55,6 +66,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Vocabulary)
+**ID:** `CO-ENG-04-colors-shapes-104-v3`
+
+
+**ID:** `CO-ENG-04-colors-shapes-104-v3`
+
 ### Enunciado
 **The sky is _______ on a sunny day.**
 ### Opciones
@@ -70,6 +86,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-04-colors-shapes-104-v4`
+
+
+**ID:** `CO-ENG-04-colors-shapes-104-v4`
+
 ### Enunciado
 **This shape is round like a ball. It's a _______.**
 ### Opciones
@@ -85,6 +106,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Grammar)
+**ID:** `CO-ENG-04-colors-shapes-104-v5`
+
+
+**ID:** `CO-ENG-04-colors-shapes-104-v5`
+
 ### Enunciado
 **The grass _______ green.**
 ### Opciones
@@ -100,6 +126,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Reading - Literal)
+**ID:** `CO-ENG-04-colors-shapes-104-v6`
+
+
+**ID:** `CO-ENG-04-colors-shapes-104-v6`
+
 ### Contexto
 **Text:** "Look at my drawing. I have a red house with a green roof. The door is brown and the windows are blue."
 ### Enunciado
@@ -117,6 +148,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-04-colors-shapes-104-v7`
+
+
+**ID:** `CO-ENG-04-colors-shapes-104-v7`
+
 ### Contexto
 **Person A:** "What is your favorite color?"
 **Person B:** "____________"
@@ -135,6 +171,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Vocabulary)
+**ID:** `CO-ENG-04-colors-shapes-104-v8`
+
+
+**ID:** `CO-ENG-04-colors-shapes-104-v8`
+
 ### Enunciado
 **A banana is yellow and a tomato is _______.**
 ### Opciones
@@ -150,6 +191,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Reading - Inferential)
+**ID:** `CO-ENG-04-colors-shapes-104-v9`
+
+
+**ID:** `CO-ENG-04-colors-shapes-104-v9`
+
 ### Contexto
 **Passage:** "The pizza is a circle, but each piece is a _______."
 ### Enunciado
@@ -167,6 +213,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Cultural)
+**ID:** `CO-ENG-04-colors-shapes-104-v10`
+
+
+**ID:** `CO-ENG-04-colors-shapes-104-v10`
+
 ### Enunciado
 **The Colombian flag has three colors: yellow, _______, and red.**
 ### Opciones

@@ -5,6 +5,7 @@ grado: 11
 asignatura: Inglés
 tema: Reading Comprehension
 protocol_version: '3.0'
+periodo: 1
 total_questions: 10
 estado: approved
 creador: AI-WorldExams

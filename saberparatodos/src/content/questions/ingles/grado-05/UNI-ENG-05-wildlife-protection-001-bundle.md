@@ -4,6 +4,7 @@ country: global
 grado: 5
 asignatura: ingles
 tema: wildlife-protection
+periodo: 1
 cefr_level: A1+
 protocol_version: 3.1-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Wildlife Protection (Grade 5)
 
 > **Focus:** Endangered species, habitats, and respecting nature.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Wild vs Pet)
+**ID:** `UNI-ENG-05-wildlife-protection-001-v1`
+
 ID: UNI-ENG-05-wildlife-protection-001-v1
 
 ### Enunciado
@@ -42,6 +45,8 @@ Which animal is **wild** (not a pet)?
 ---
 
 ## Question 2 (Part 2 - Endangered)
+**ID:** `UNI-ENG-05-wildlife-protection-001-v2`
+
 ID: UNI-ENG-05-wildlife-protection-001-v2
 
 ### Contexto
@@ -63,6 +68,8 @@ They are...
 ---
 
 ## Question 3 (Part 3 - Habitat)
+**ID:** `UNI-ENG-05-wildlife-protection-001-v3`
+
 ID: UNI-ENG-05-wildlife-protection-001-v3
 
 ### Contexto
@@ -84,6 +91,8 @@ What is this called?
 ---
 
 ## Question 4 (Part 4 - Extinct)
+**ID:** `UNI-ENG-05-wildlife-protection-001-v4`
+
 ID: UNI-ENG-05-wildlife-protection-001-v4
 
 ### Contexto
@@ -105,6 +114,8 @@ They are...
 ---
 
 ## Question 5 (Part 5 - Trash)
+**ID:** `UNI-ENG-05-wildlife-protection-001-v5`
+
 ID: UNI-ENG-05-wildlife-protection-001-v5
 
 ### Contexto
@@ -126,6 +137,8 @@ What does this do to turtles?
 ---
 
 ## Question 6 (Part 6 - Touching)
+**ID:** `UNI-ENG-05-wildlife-protection-001-v6`
+
 ID: UNI-ENG-05-wildlife-protection-001-v6
 
 ### Enunciado
@@ -144,6 +157,8 @@ If you see a baby bird on the ground, you should...
 ---
 
 ## Question 7 (Part 7 - Zoo)
+**ID:** `UNI-ENG-05-wildlife-protection-001-v7`
+
 ID: UNI-ENG-05-wildlife-protection-001-v7
 
 ### Enunciado
@@ -162,6 +177,8 @@ Modern zoos try to help animals through...
 ---
 
 ## Question 8 (Part 8 - Food Chain)
+**ID:** `UNI-ENG-05-wildlife-protection-001-v8`
+
 ID: UNI-ENG-05-wildlife-protection-001-v8
 
 ### Contexto
@@ -183,6 +200,8 @@ What is this called?
 ---
 
 ## Question 9 (Part 9 - Hunting)
+**ID:** `UNI-ENG-05-wildlife-protection-001-v9`
+
 ID: UNI-ENG-05-wildlife-protection-001-v9
 
 ### Contexto
@@ -204,6 +223,8 @@ What is this crime?
 ---
 
 ## Question 10 (Part 10 - Respect)
+**ID:** `UNI-ENG-05-wildlife-protection-001-v10`
+
 ID: UNI-ENG-05-wildlife-protection-001-v10
 
 ### Enunciado

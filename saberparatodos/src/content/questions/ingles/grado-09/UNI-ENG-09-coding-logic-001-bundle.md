@@ -4,6 +4,7 @@ country: global
 grado: 9
 asignatura: ingles
 tema: coding-logic
+periodo: 1
 cefr_level: B1
 protocol_version: 3.1-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Algorithmic Logic & Coding (B1 Challenge)
 
 > **Analysis:** Applying programming logic (loops, conditionals) using general English B1 vocabulary.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Loop Logic - Difficulty 4)
+**ID:** `UNI-ENG-09-coding-logic-001-v1`
+
 ID: UNI-ENG-09-coding-logic-001-v1
 
 ### Contexto
@@ -46,6 +49,8 @@ How many times did you clap?
 ---
 
 ## Question 2 (Part 2 - Conditional Branching - Difficulty 5)
+**ID:** `UNI-ENG-09-coding-logic-001-v2`
+
 ID: UNI-ENG-09-coding-logic-001-v2
 
 ### Contexto
@@ -70,6 +75,8 @@ What do you take?
 ---
 
 ## Question 3 (Part 3 - Variable Assignment - Difficulty 4)
+**ID:** `UNI-ENG-09-coding-logic-001-v3`
+
 ID: UNI-ENG-09-coding-logic-001-v3
 
 ### Contexto
@@ -94,6 +101,8 @@ What is the value of Y at the end?
 ---
 
 ## Question 4 (Part 4 - Debugging - Difficulty 5)
+**ID:** `UNI-ENG-09-coding-logic-001-v4`
+
 ID: UNI-ENG-09-coding-logic-001-v4
 
 ### Contexto
@@ -118,6 +127,8 @@ Why will this fail?
 ---
 
 ## Question 5 (Part 5 - While Loop - Difficulty 5)
+**ID:** `UNI-ENG-09-coding-logic-001-v5`
+
 ID: UNI-ENG-09-coding-logic-001-v5
 
 ### Contexto
@@ -140,6 +151,8 @@ When do you stop?
 ---
 
 ## Question 6 (Part 6 - Boolean Logic - Difficulty 5)
+**ID:** `UNI-ENG-09-coding-logic-001-v6`
+
 ID: UNI-ENG-09-coding-logic-001-v6
 
 ### Contexto
@@ -162,6 +175,8 @@ User is Admin, but Password is wrong. Access?
 ---
 
 ## Question 7 (Part 7 - Nested Logic - Difficulty 5)
+**ID:** `UNI-ENG-09-coding-logic-001-v7`
+
 ID: UNI-ENG-09-coding-logic-001-v7
 
 ### Contexto
@@ -185,6 +200,8 @@ What do you do?
 ---
 
 ## Question 8 (Part 8 - Infinite Loop - Difficulty 5)
+**ID:** `UNI-ENG-09-coding-logic-001-v8`
+
 ID: UNI-ENG-09-coding-logic-001-v8
 
 ### Contexto
@@ -208,6 +225,8 @@ When does this end?
 ---
 
 ## Question 9 (Part 9 - Sorting Logic - Difficulty 4)
+**ID:** `UNI-ENG-09-coding-logic-001-v9`
+
 ID: UNI-ENG-09-coding-logic-001-v9
 
 ### Contexto
@@ -230,6 +249,8 @@ What is the result?
 ---
 
 ## Question 10 (Part 10 - Binary Concept - Difficulty 4)
+**ID:** `UNI-ENG-09-coding-logic-001-v10`
+
 ID: UNI-ENG-09-coding-logic-001-v10
 
 ### Contexto

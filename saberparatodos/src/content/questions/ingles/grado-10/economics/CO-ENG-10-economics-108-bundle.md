@@ -4,19 +4,25 @@ country: co
 grado: 10
 asignatura: ingles
 tema: economics
+periodo: 1
 cefr_level: B2
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: Economics & Sustainability (B2)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-10-economics-108-v1`
+
+
+**ID:** `CO-ENG-10-economics-108-v1`
+
 ### Enunciado
 **The branch of knowledge concerned with the production, consumption, and transfer of wealth is _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-10-economics-108-v2`
+
+
+**ID:** `CO-ENG-10-economics-108-v2`
+
 ### Enunciado
 **If the government (1)_______ taxes, the citizens (2)_______ more money to spend.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-10-economics-108-v3`
+
+
+**ID:** `CO-ENG-10-economics-108-v3`
+
 ### Contexto
 **Text:** "A circular economy aims to eliminate waste and the continual use of resources. It focuses on reusing, repairing, and recycling existing materials for as long as possible."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-10-economics-108-v4`
+
+
+**ID:** `CO-ENG-10-economics-108-v4`
+
 ### Enunciado
 **A general increase in prices and fall in the purchasing value of money is _______.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-10-economics-108-v5`
+
+
+**ID:** `CO-ENG-10-economics-108-v5`
+
 ### Contexto
 **News Header:** "Oil prices skyrocket as supply drops."
 ### Enunciado
@@ -103,6 +129,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-10-economics-108-v6`
+
+
+**ID:** `CO-ENG-10-economics-108-v6`
+
 ### Contexto
 **Passage:** "Green bonds have become popular among investors who want their capital to support environmental projects. This shows that financial success is no longer the ONLY metric for a good investment."
 ### Enunciado
@@ -120,6 +151,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-10-economics-108-v7`
+
+
+**ID:** `CO-ENG-10-economics-108-v7`
+
 ### Contexto
 **Student A:** "Calculated risk is the secret to wealth."
 **Student B:** "____________"
@@ -138,6 +174,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Advanced)
+**ID:** `CO-ENG-10-economics-108-v8`
+
+
+**ID:** `CO-ENG-10-economics-108-v8`
+
 ### Enunciado
 **Never _______ such a rapid economic expansion in this region before.**
 ### Opciones
@@ -153,6 +194,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-10-economics-108-v9`
+
+
+**ID:** `CO-ENG-10-economics-108-v9`
+
 ### Enunciado
 **Money that is paid by a government to help an industry or business keep the price of a product low is a _______.**
 ### Opciones
@@ -168,6 +214,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Critical Thinking)
+**ID:** `CO-ENG-10-economics-108-v10`
+
+
+**ID:** `CO-ENG-10-economics-108-v10`
+
 ### Contexto
 **Statement:** "Gross Domestic Product (GDP) measures everything except that which makes life worthwhile."
 ### Enunciado

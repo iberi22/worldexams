@@ -4,19 +4,25 @@ country: co
 grado: 7
 asignatura: ingles
 tema: describing-people
+periodo: 1
 cefr_level: A2+
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Describing People (A2+)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-07-describing-people-104-v1`
+
+
+**ID:** `CO-ENG-07-describing-people-104-v1`
+
 ### Enunciado
 **My brother is very _______. He is 1.90 meters!**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-07-describing-people-104-v2`
+
+
+**ID:** `CO-ENG-07-describing-people-104-v2`
+
 ### Enunciado
 **She _______ blue eyes and long hair.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Vocabulary)
+**ID:** `CO-ENG-07-describing-people-104-v3`
+
+
+**ID:** `CO-ENG-07-describing-people-104-v3`
+
 ### Enunciado
 **He always tells jokes. He is a _______ person.**
 ### Opciones
@@ -69,6 +85,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-07-describing-people-104-v4`
+
+
+**ID:** `CO-ENG-07-describing-people-104-v4`
+
 ### Enunciado
 **My mother has _______ hair.**
 ### Opciones
@@ -84,6 +105,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Conversation)
+**ID:** `CO-ENG-07-describing-people-104-v5`
+
+
+**ID:** `CO-ENG-07-describing-people-104-v5`
+
 ### Contexto
 **Person A:** "What is your best friend like?"
 **Person B:** "____________"
@@ -102,6 +128,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Grammar)
+**ID:** `CO-ENG-07-describing-people-104-v6`
+
+
+**ID:** `CO-ENG-07-describing-people-104-v6`
+
 ### Enunciado
 **They _______ very friendly.**
 ### Opciones
@@ -117,6 +148,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Pragmatics)
+**ID:** `CO-ENG-07-describing-people-104-v7`
+
+
+**ID:** `CO-ENG-07-describing-people-104-v7`
+
 ### Contexto
 **Notice:** "Looking for a tall man, early 20s, wearing a red cap."
 ### Enunciado
@@ -134,6 +170,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Reading - Literal)
+**ID:** `CO-ENG-07-describing-people-104-v8`
+
+
+**ID:** `CO-ENG-07-describing-people-104-v8`
+
 ### Contexto
 **Text:** "Tom is short and has short blond hair. He wears glasses and is very smart."
 ### Enunciado
@@ -151,6 +192,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Reading - Inferential)
+**ID:** `CO-ENG-07-describing-people-104-v9`
+
+
+**ID:** `CO-ENG-07-describing-people-104-v9`
+
 ### Contexto
 **Passage:** "Sofia never speaks in front of the class and her face becomes red when the teacher calls her name."
 ### Enunciado
@@ -168,6 +214,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Colombian Context)
+**ID:** `CO-ENG-07-describing-people-104-v10`
+
+
+**ID:** `CO-ENG-07-describing-people-104-v10`
+
 ### Enunciado
 **The famous Colombian cyclist Nairo Quintana is _______ and very strong.**
 ### Opciones

@@ -4,17 +4,23 @@ country: co
 grado: 8
 asignatura: ingles
 tema: technology-daily
+periodo: 1
 cefr_level: B1
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Technology in Daily Life (B1)
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-08-technology-daily-103-v1`
+
+
+**ID:** `CO-ENG-08-technology-daily-103-v1`
+
 ### Enunciado
 **A device used to access the internet wirelessly is a:**
 ### Opciones
@@ -37,6 +43,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Pragmatics)
+**ID:** `CO-ENG-08-technology-daily-103-v2`
+
+
+**ID:** `CO-ENG-08-technology-daily-103-v2`
+
 ### Contexto
 **App message:** "Allow this app to access your location? This helps provide relevant nearby services."
 ### Enunciado
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Conversation)
+**ID:** `CO-ENG-08-technology-daily-103-v3`
+
+
+**ID:** `CO-ENG-08-technology-daily-103-v3`
+
 ### Contexto
 **Parent:** "You spend too much time on your phone."
 **You:** "____________"
@@ -72,6 +88,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Grammar)
+**ID:** `CO-ENG-08-technology-daily-103-v4`
+
+
+**ID:** `CO-ENG-08-technology-daily-103-v4`
+
 ### Contexto
 "I (1)______ my phone yesterday. I need to (2)______ a new one."
 ### Enunciado
@@ -89,6 +110,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Literal Reading)
+**ID:** `CO-ENG-08-technology-daily-103-v5`
+
+
+**ID:** `CO-ENG-08-technology-daily-103-v5`
+
 ### Contexto
 **Text:** "Screen time for teenagers averages 7 hours per day. Experts recommend limiting it to 2 hours for leisure activities."
 ### Enunciado
@@ -106,6 +132,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-08-technology-daily-103-v6`
+
+
+**ID:** `CO-ENG-08-technology-daily-103-v6`
+
 ### Contexto
 **Passage:** "Our grandparents had one phone for the whole house. We have one for each family member, always in our pockets. Yet somehow, we feel more disconnected than ever."
 ### Enunciado
@@ -123,6 +154,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Advanced Grammar)
+**ID:** `CO-ENG-08-technology-daily-103-v7`
+
+
+**ID:** `CO-ENG-08-technology-daily-103-v7`
+
 ### Contexto
 "(1)______ having internet access, some students (2)______ use it for learning."
 ### Enunciado
@@ -140,6 +176,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Vocabulary)
+**ID:** `CO-ENG-08-technology-daily-103-v8`
+
+
+**ID:** `CO-ENG-08-technology-daily-103-v8`
+
 ### Enunciado
 **"Wi-Fi" stands for:**
 ### Opciones
@@ -155,6 +196,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Use of English)
+**ID:** `CO-ENG-08-technology-daily-103-v9`
+
+
+**ID:** `CO-ENG-08-technology-daily-103-v9`
+
 ### Contexto
 **Original:** "Teenagers use social media every day."
 **Rewrite:** *SOCIAL MEDIA...*
@@ -173,6 +219,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Critical Thinking)
+**ID:** `CO-ENG-08-technology-daily-103-v10`
+
+
+**ID:** `CO-ENG-08-technology-daily-103-v10`
+
 ### Contexto
 **Statement:** "Technology makes life easier."
 ### Enunciado

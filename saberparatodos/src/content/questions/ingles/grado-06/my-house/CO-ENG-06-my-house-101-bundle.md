@@ -4,19 +4,25 @@ country: co
 grado: 6
 asignatura: ingles
 tema: my-house
+periodo: 1
 cefr_level: A2
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: My House (A2)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-06-my-house-101-v1`
+
+
+**ID:** `CO-ENG-06-my-house-101-v1`
+
 ### Enunciado
 **We cook food in the _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-06-my-house-101-v2`
+
+
+**ID:** `CO-ENG-06-my-house-101-v2`
+
 ### Enunciado
 **There _______ a big sofa in the living room.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Vocabulary)
+**ID:** `CO-ENG-06-my-house-101-v3`
+
+
+**ID:** `CO-ENG-06-my-house-101-v3`
+
 ### Enunciado
 **I sleep in my _______.**
 ### Opciones
@@ -69,6 +85,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Grammar)
+**ID:** `CO-ENG-06-my-house-101-v4`
+
+
+**ID:** `CO-ENG-06-my-house-101-v4`
+
 ### Enunciado
 **There _______ three chairs in the dining room.**
 ### Opciones
@@ -84,6 +105,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Vocabulary)
+**ID:** `CO-ENG-06-my-house-101-v5`
+
+
+**ID:** `CO-ENG-06-my-house-101-v5`
+
 ### Enunciado
 **We have a shower in the _______.**
 ### Opciones
@@ -99,6 +125,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Pragmatics)
+**ID:** `CO-ENG-06-my-house-101-v6`
+
+
+**ID:** `CO-ENG-06-my-house-101-v6`
+
 ### Contexto
 **Mom:** "Please put your toys away in your room."
 ### Enunciado
@@ -116,6 +147,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Reading - Literal)
+**ID:** `CO-ENG-06-my-house-101-v7`
+
+
+**ID:** `CO-ENG-06-my-house-101-v7`
+
 ### Contexto
 **Text:** "My house has two floors. On the first floor, there is a living room, a kitchen, and a small bathroom. On the second floor, there are three bedrooms."
 ### Enunciado
@@ -133,6 +169,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Vocabulary)
+**ID:** `CO-ENG-06-my-house-101-v8`
+
+
+**ID:** `CO-ENG-06-my-house-101-v8`
+
 ### Enunciado
 **I put my clothes in the _______.**
 ### Opciones
@@ -148,6 +189,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Reading - Inferential)
+**ID:** `CO-ENG-06-my-house-101-v9`
+
+
+**ID:** `CO-ENG-06-my-house-101-v9`
+
 ### Contexto
 **Passage:** "The garden looks beautiful today. The flowers are blooming and the grass is very green after the rain."
 ### Enunciado
@@ -165,6 +211,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Conversation)
+**ID:** `CO-ENG-06-my-house-101-v10`
+
+
+**ID:** `CO-ENG-06-my-house-101-v10`
+
 ### Contexto
 **Friend:** "Is your house big or small?"
 **You:** "____________"

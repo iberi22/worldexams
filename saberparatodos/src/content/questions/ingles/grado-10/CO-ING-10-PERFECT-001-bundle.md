@@ -1,10 +1,12 @@
 ---
+
 id: CO-ING-10-PERFECT-001
 country: co
 grado: 10
 asignatura: Inglés
 tema: Present Perfect
-protocol_version: '3.0'
+periodo: 1
+protocol_version: 2.1
 total_questions: 11
 estado: published
 creador: Antigravity AI
@@ -21,6 +23,7 @@ bundle_version: '2.0'
 dificultad: 3
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
+
 ---
 
 # Pregunta Base: Have you ever...?
@@ -32,6 +35,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
+**ID:** `CO-ING-10-PERFECT-001-v1`
+
 
 **ID:** `CO-ING-10-PERFECT-001-v1`
 
@@ -51,6 +56,8 @@ We use Present Perfect to talk about:
 ---
 
 ## Pregunta 2 (Fácil A - Dificultad 1)
+**ID:** `CO-ING-10-PERFECT-001-v2`
+
 
 **ID:** `CO-ING-10-PERFECT-001-v2`
 
@@ -70,6 +77,8 @@ The auxiliary verbs for Present Perfect are:
 ---
 
 ## Pregunta 3 (Fácil B - Dificultad 2)
+**ID:** `CO-ING-10-PERFECT-001-v3`
+
 
 **ID:** `CO-ING-10-PERFECT-001-v3`
 
@@ -89,6 +98,8 @@ What is the past participle of "See"?
 ---
 
 ## Pregunta 4 (Media A - Dificultad 3)
+**ID:** `CO-ING-10-PERFECT-001-v4`
+
 
 **ID:** `CO-ING-10-PERFECT-001-v4`
 
@@ -109,6 +120,8 @@ Which word is used in questions to ask about lifetime experiences?
 ---
 
 ## Pregunta 5 (Media B - Dificultad 3)
+**ID:** `CO-ING-10-PERFECT-001-v5`
+
 
 **ID:** `CO-ING-10-PERFECT-001-v5`
 
@@ -128,6 +141,8 @@ Which word is used in questions to ask about lifetime experiences?
 ---
 
 ## Pregunta 6 (Difícil A - Dificultad 4)
+**ID:** `CO-ING-10-PERFECT-001-v6`
+
 
 **ID:** `CO-ING-10-PERFECT-001-v6`
 
@@ -148,6 +163,8 @@ Difference between "Gone" and "Been":
 ---
 
 ## Pregunta 7 (Difícil B - Dificultad 5)
+**ID:** `CO-ING-10-PERFECT-001-v7`
+
 
 **ID:** `CO-ING-10-PERFECT-001-v7`
 
@@ -167,6 +184,8 @@ Choose the correct sentence:
 ---
 
 ## Pregunta 8 (Extra 1 - Dificultad 4)
+**ID:** `CO-ING-10-PERFECT-001-v8`
+
 
 **ID:** `CO-ING-10-PERFECT-001-v8`
 
@@ -186,6 +205,8 @@ Choose the correct sentence:
 ---
 
 ## Pregunta 9 (Extra 2 - Dificultad 2)
+**ID:** `CO-ING-10-PERFECT-001-v9`
+
 
 **ID:** `CO-ING-10-PERFECT-001-v9`
 
@@ -205,6 +226,8 @@ Choose the correct sentence:
 ---
 
 ## Pregunta 10 (Extra 3 - Dificultad 5)
+**ID:** `CO-ING-10-PERFECT-001-v10`
+
 
 **ID:** `CO-ING-10-PERFECT-001-v10`
 
@@ -225,6 +248,8 @@ Answer:
 ---
 
 ## Pregunta 11 (Extra 4 - Dificultad 3)
+**ID:** `CO-ING-10-PERFECT-001-v11`
+
 
 **ID:** `CO-ING-10-PERFECT-001-v11`
 

@@ -12,7 +12,7 @@ llm_model: Copilot
 agent: Cascade
 ide: VS Code
 bundle_version: '2.1'
-total_questions: 7
+total_questions: 3
 difficulty_distribution: 1 original (3) + 2 fácil (1-2) + 2 media (3) + 2 difícil (4-5)
 generation_date: '2025-12-04'
 source: ICFES-Curriculum

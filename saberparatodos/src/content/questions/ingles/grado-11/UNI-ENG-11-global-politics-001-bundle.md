@@ -6,6 +6,7 @@ asignatura: ingles
 tema: global-politics
 cefr_level: B2+
 protocol_version: 3.1-GLOBAL
+periodo: 1
 total_questions: 10
 international_focus: Diplomacy / UN / Politics
 licenses:
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Diplomacy - Difficulty 4)
+**ID:** `UNI-ENG-11-global-politics-001-v1`
+
 ID: UNI-ENG-11-global-politics-001-v1
 
 ### Contexto
@@ -45,6 +48,8 @@ What does "expelled" mean here?
 ---
 
 ## Question 2 (Part 2 - Sanctions - Difficulty 5)
+**ID:** `UNI-ENG-11-global-politics-001-v2`
+
 ID: UNI-ENG-11-global-politics-001-v2
 
 ### Contexto
@@ -66,6 +71,8 @@ What are "economic sanctions"?
 ---
 
 ## Question 3 (Part 3 - Humanitarian Aid - Difficulty 4)
+**ID:** `UNI-ENG-11-global-politics-001-v3`
+
 ID: UNI-ENG-11-global-politics-001-v3
 
 ### Contexto
@@ -87,6 +94,8 @@ What is this type of assistance called?
 ---
 
 ## Question 4 (Part 4 - Veto Power - Difficulty 5)
+**ID:** `UNI-ENG-11-global-politics-001-v4`
+
 ID: UNI-ENG-11-global-politics-001-v4
 
 ### Contexto
@@ -108,6 +117,8 @@ What power did the Permanent Member use?
 ---
 
 ## Question 5 (Part 5 - Asylum - Difficulty 5)
+**ID:** `UNI-ENG-11-global-politics-001-v5`
+
 ID: UNI-ENG-11-global-politics-001-v5
 
 ### Contexto
@@ -129,6 +140,8 @@ What are they applying for?
 ---
 
 ## Question 6 (Part 6 - Summit - Difficulty 4)
+**ID:** `UNI-ENG-11-global-politics-001-v6`
+
 ID: UNI-ENG-11-global-politics-001-v6
 
 ### Contexto
@@ -150,6 +163,8 @@ What is a "Summit"?
 ---
 
 ## Question 7 (Part 7 - Soft Power - Difficulty 5)
+**ID:** `UNI-ENG-11-global-politics-001-v7`
+
 ID: UNI-ENG-11-global-politics-001-v7
 
 ### Contexto
@@ -171,6 +186,8 @@ What type of power is this?
 ---
 
 ## Question 8 (Part 8 - Multilateral - Difficulty 5)
+**ID:** `UNI-ENG-11-global-politics-001-v8`
+
 ID: UNI-ENG-11-global-politics-001-v8
 
 ### Contexto
@@ -192,6 +209,8 @@ Is this agreement bilateral or multilateral?
 ---
 
 ## Question 9 (Part 9 - Sovereignty - Difficulty 5)
+**ID:** `UNI-ENG-11-global-politics-001-v9`
+
 ID: UNI-ENG-11-global-politics-001-v9
 
 ### Contexto
@@ -213,6 +232,8 @@ What concept is this?
 ---
 
 ## Question 10 (Part 10 - Trade Tariff - Difficulty 4)
+**ID:** `UNI-ENG-11-global-politics-001-v10`
+
 ID: UNI-ENG-11-global-politics-001-v10
 
 ### Contexto

@@ -4,6 +4,7 @@ country: global
 grado: 4
 asignatura: ingles
 tema: healthy-eating
+periodo: 1
 cefr_level: A1
 protocol_version: 3.1-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Healthy Eating (Grade 4)
 
 > **Focus:** Fruit vs Candy, drinking water.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Healthy Snack)
+**ID:** `UNI-ENG-04-healthy-eating-001-v1`
+
 ID: UNI-ENG-04-healthy-eating-001-v1
 
 ### Enunciado
@@ -42,6 +45,8 @@ Which snack is healthy?
 ---
 
 ## Question 2 (Part 2 - Hydration)
+**ID:** `UNI-ENG-04-healthy-eating-001-v2`
+
 ID: UNI-ENG-04-healthy-eating-001-v2
 
 ### Enunciado
@@ -60,6 +65,8 @@ What is the best drink for your body?
 ---
 
 ## Question 3 (Part 3 - Vegetables)
+**ID:** `UNI-ENG-04-healthy-eating-001-v3`
+
 ID: UNI-ENG-04-healthy-eating-001-v3
 
 ### Enunciado
@@ -78,6 +85,8 @@ Carrots, broccoli, and spinach are...
 ---
 
 ## Question 4 (Part 4 - Breakfast)
+**ID:** `UNI-ENG-04-healthy-eating-001-v4`
+
 ID: UNI-ENG-04-healthy-eating-001-v4
 
 ### Contexto
@@ -99,6 +108,8 @@ It is important because it gives you...
 ---
 
 ## Question 5 (Part 5 - Sugar)
+**ID:** `UNI-ENG-04-healthy-eating-001-v5`
+
 ID: UNI-ENG-04-healthy-eating-001-v5
 
 ### Enunciado
@@ -117,6 +128,8 @@ Too much sugar is bad for your...
 ---
 
 ## Question 6 (Part 6 - Portion Size)
+**ID:** `UNI-ENG-04-healthy-eating-001-v6`
+
 ID: UNI-ENG-04-healthy-eating-001-v6
 
 ### Enunciado
@@ -135,6 +148,8 @@ You should stop eating when you feel...
 ---
 
 ## Question 7 (Part 7 - Washing Hands)
+**ID:** `UNI-ENG-04-healthy-eating-001-v7`
+
 ID: UNI-ENG-04-healthy-eating-001-v7
 
 ### Enunciado
@@ -153,6 +168,8 @@ Before eating, you must...
 ---
 
 ## Question 8 (Part 8 - Junk Food)
+**ID:** `UNI-ENG-04-healthy-eating-001-v8`
+
 ID: UNI-ENG-04-healthy-eating-001-v8
 
 ### Contexto
@@ -174,6 +191,8 @@ These are called...
 ---
 
 ## Question 9 (Part 9 - Protein)
+**ID:** `UNI-ENG-04-healthy-eating-001-v9`
+
 ID: UNI-ENG-04-healthy-eating-001-v9
 
 ### Contexto
@@ -195,6 +214,8 @@ What is this?
 ---
 
 ## Question 10 (Part 10 - Variety)
+**ID:** `UNI-ENG-04-healthy-eating-001-v10`
+
 ID: UNI-ENG-04-healthy-eating-001-v10
 
 ### Enunciado

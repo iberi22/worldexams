@@ -4,19 +4,25 @@ country: co
 grado: 9
 asignatura: ingles
 tema: environment-nature
+periodo: 1
 cefr_level: B1+
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: Environment & Nature Conservation (B1+)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-09-environment-nature-110-v1`
+
+
+**ID:** `CO-ENG-09-environment-nature-110-v1`
+
 ### Enunciado
 **The surroundings or conditions in which a person, animal, or plant lives is the _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-09-environment-nature-110-v2`
+
+
+**ID:** `CO-ENG-09-environment-nature-110-v2`
+
 ### Enunciado
 **We (1)_______ the planet if we (2)_______ to reduce our plastic waste.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-09-environment-nature-110-v3`
+
+
+**ID:** `CO-ENG-09-environment-nature-110-v3`
+
 ### Contexto
 **Text:** "Deforestation in the Amazon affects global weather patterns. Trees absorb carbon dioxide, so when they are cut down, the earth becomes warmer."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-09-environment-nature-110-v4`
+
+
+**ID:** `CO-ENG-09-environment-nature-110-v4`
+
 ### Enunciado
 **Energy that comes from the sun, wind, or water is _______ energy.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-09-environment-nature-110-v5`
+
+
+**ID:** `CO-ENG-09-environment-nature-110-v5`
+
 ### Contexto
 **Poster:** "Leave only footprints, take only photos."
 ### Enunciado
@@ -103,6 +129,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-09-environment-nature-110-v6`
+
+
+**ID:** `CO-ENG-09-environment-nature-110-v6`
+
 ### Contexto
 **Passage:** "A single plastic bottle can take up to 450 years to decompose in the ocean. If we continue at this rate, there will be more plastic than fish in the sea by 2050."
 ### Enunciado
@@ -120,6 +151,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-09-environment-nature-110-v7`
+
+
+**ID:** `CO-ENG-09-environment-nature-110-v7`
+
 ### Contexto
 **Student A:** "One person recycling doesn't make a difference."
 **Student B:** "____________"
@@ -138,6 +174,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Passive)
+**ID:** `CO-ENG-09-environment-nature-110-v8`
+
+
+**ID:** `CO-ENG-09-environment-nature-110-v8`
+
 ### Enunciado
 **Endangered species (1)_______ by specialized laws in many (2)_______.**
 ### Opciones
@@ -153,6 +194,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Vocabulary)
+**ID:** `CO-ENG-09-environment-nature-110-v8`
+
+
+**ID:** `CO-ENG-09-environment-nature-110-v8`
+
 ### Enunciado
 **The variety of plant and animal life in a particular habitat is its _______.**
 ### Opciones
@@ -168,6 +214,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Critical Thinking)
+**ID:** `CO-ENG-09-environment-nature-110-v10`
+
+
+**ID:** `CO-ENG-09-environment-nature-110-v10`
+
 ### Contexto
 **Statement:** "Buying local food reduces your carbon footprint because the products don't have to travel long distances."
 ### Enunciado

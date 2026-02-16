@@ -6,6 +6,7 @@ asignatura: ingles
 tema: soft-skills
 cefr_level: B2
 protocol_version: 3.2-GLOBAL
+periodo: 1
 total_questions: 10
 international_focus: Communication / Teamwork / Leadership
 licenses:
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Hard vs Soft)
+**ID:** `UNI-ENG-11-soft-skills-001-v1`
+
 ID: UNI-ENG-11-soft-skills-001-v1
 
 ### Contexto
@@ -45,6 +48,8 @@ What applies?
 ---
 
 ## Question 2 (Part 2 - Empathy)
+**ID:** `UNI-ENG-11-soft-skills-001-v2`
+
 ID: UNI-ENG-11-soft-skills-001-v2
 
 ### Enunciado
@@ -63,6 +68,8 @@ The ability to understand and share the feelings of another person.
 ---
 
 ## Question 3 (Part 3 - Teamwork)
+**ID:** `UNI-ENG-11-soft-skills-001-v3`
+
 ID: UNI-ENG-11-soft-skills-001-v3
 
 ### Enunciado
@@ -81,6 +88,8 @@ Working collaboratively with a group to achieve a common goal.
 ---
 
 ## Question 4 (Part 4 - Adaptability)
+**ID:** `UNI-ENG-11-soft-skills-001-v4`
+
 ID: UNI-ENG-11-soft-skills-001-v4
 
 ### Contexto
@@ -102,6 +111,8 @@ This is...
 ---
 
 ## Question 5 (Part 5 - Conflict Resolution)
+**ID:** `UNI-ENG-11-soft-skills-001-v5`
+
 ID: UNI-ENG-11-soft-skills-001-v5
 
 ### Enunciado
@@ -120,6 +131,8 @@ The process of finding a peaceful solution to a disagreement.
 ---
 
 ## Question 6 (Part 6 - Leadership)
+**ID:** `UNI-ENG-11-soft-skills-001-v6`
+
 ID: UNI-ENG-11-soft-skills-001-v6
 
 ### Enunciado
@@ -138,6 +151,8 @@ The action of leading a group of people or an organization.
 ---
 
 ## Question 7 (Part 7 - Time Management)
+**ID:** `UNI-ENG-11-soft-skills-001-v7`
+
 ID: UNI-ENG-11-soft-skills-001-v7
 
 ### Contexto
@@ -159,6 +174,8 @@ This is good...
 ---
 
 ## Question 8 (Part 8 - Feedback)
+**ID:** `UNI-ENG-11-soft-skills-001-v8`
+
 ID: UNI-ENG-11-soft-skills-001-v8
 
 ### Enunciado
@@ -177,6 +194,8 @@ Constructive criticism given to help someone improve.
 ---
 
 ## Question 9 (Part 9 - Active Listening)
+**ID:** `UNI-ENG-11-soft-skills-001-v9`
+
 ID: UNI-ENG-11-soft-skills-001-v9
 
 ### Contexto
@@ -198,6 +217,8 @@ This is...
 ---
 
 ## Question 10 (Part 10 - Work Ethic)
+**ID:** `UNI-ENG-11-soft-skills-001-v10`
+
 ID: UNI-ENG-11-soft-skills-001-v10
 
 ### Enunciado

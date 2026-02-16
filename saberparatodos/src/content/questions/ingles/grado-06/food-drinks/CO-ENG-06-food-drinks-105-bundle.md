@@ -4,19 +4,25 @@ country: co
 grado: 6
 asignatura: ingles
 tema: food-drinks
+periodo: 1
 cefr_level: A2
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Food & Drinks (A2)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-06-food-drinks-105-v1`
+
+
+**ID:** `CO-ENG-06-food-drinks-105-v1`
+
 ### Enunciado
 **Apple, banana, and orange are types of _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-06-food-drinks-105-v2`
+
+
+**ID:** `CO-ENG-06-food-drinks-105-v2`
+
 ### Enunciado
 **I _______ like drinking coffee. I prefer tea.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Vocabulary)
+**ID:** `CO-ENG-06-food-drinks-105-v3`
+
+
+**ID:** `CO-ENG-06-food-drinks-105-v3`
+
 ### Enunciado
 **Water and juice are types of _______.**
 ### Opciones
@@ -69,6 +85,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-06-food-drinks-105-v4`
+
+
+**ID:** `CO-ENG-06-food-drinks-105-v4`
+
 ### Enunciado
 **The main meal of the day in Colombia is usually _______.**
 ### Opciones
@@ -84,6 +105,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Conversation)
+**ID:** `CO-ENG-06-food-drinks-105-v5`
+
+
+**ID:** `CO-ENG-06-food-drinks-105-v5`
+
 ### Contexto
 **Waiter:** "Would you like something to drink?"
 **You:** "____________"
@@ -102,6 +128,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Grammar)
+**ID:** `CO-ENG-06-food-drinks-105-v6`
+
+
+**ID:** `CO-ENG-06-food-drinks-105-v6`
+
 ### Enunciado
 **_______ there any sugar in the tea?**
 ### Opciones
@@ -117,6 +148,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Pragmatics)
+**ID:** `CO-ENG-06-food-drinks-105-v7`
+
+
+**ID:** `CO-ENG-06-food-drinks-105-v7`
+
 ### Contexto
 **Juice Box Label:** "Shake well before opening. Natural fruit juice."
 ### Enunciado
@@ -134,6 +170,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Reading - Literal)
+**ID:** `CO-ENG-06-food-drinks-105-v8`
+
+
+**ID:** `CO-ENG-06-food-drinks-105-v8`
+
 ### Contexto
 **Text:** "For dinner, my father usually prepares chicken with vegetables. My sister likes it, but my brother prefers pizza."
 ### Enunciado
@@ -151,6 +192,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Reading - Inferential)
+**ID:** `CO-ENG-06-food-drinks-105-v9`
+
+
+**ID:** `CO-ENG-06-food-drinks-105-v9`
+
 ### Contexto
 **Passage:** "Carlos is drinking a lot of water and his face is red after playing soccer for an hour."
 ### Enunciado
@@ -168,6 +214,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Cultural)
+**ID:** `CO-ENG-06-food-drinks-105-v10`
+
+
+**ID:** `CO-ENG-06-food-drinks-105-v10`
+
 ### Enunciado
 **A traditional Colombian soup with different types of potatoes and corn is called _______.**
 ### Opciones

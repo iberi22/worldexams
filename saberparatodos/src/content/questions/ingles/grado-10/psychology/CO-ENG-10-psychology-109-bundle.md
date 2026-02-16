@@ -4,19 +4,25 @@ country: co
 grado: 10
 asignatura: ingles
 tema: psychology
+periodo: 1
 cefr_level: B2
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: Psychology & Behavior (B2)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-10-psychology-109-v1`
+
+
+**ID:** `CO-ENG-10-psychology-109-v1`
+
 ### Enunciado
 **The scientific study of the human mind and its functions is _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-10-psychology-109-v2`
+
+
+**ID:** `CO-ENG-10-psychology-109-v2`
+
 ### Enunciado
 **Psychologists (1)_______ human behavior for centuries, but only recently (2)_______ to understand the role of the subconscious.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-10-psychology-109-v3`
+
+
+**ID:** `CO-ENG-10-psychology-109-v3`
+
 ### Contexto
 **Text:** "Cognitive dissonance is the mental discomfort experienced by a person who holds two or more contradictory beliefs or values at the same time."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-10-psychology-109-v4`
+
+
+**ID:** `CO-ENG-10-psychology-109-v4`
+
 ### Enunciado
 **The ability to understand and share the feelings of another person is _______.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-10-psychology-109-v5`
+
+
+**ID:** `CO-ENG-10-psychology-109-v5`
+
 ### Contexto
 **Speaker:** "I'm sure everyone is staring at my small coffee stain." (This is known as the Spotlight Effect).
 ### Enunciado
@@ -103,6 +129,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-10-psychology-109-v6`
+
+
+**ID:** `CO-ENG-10-psychology-109-v6`
+
 ### Contexto
 **Passage:** "The 'Growth Mindset' suggests that intelligence is not fixed. People who believe they can improve through effort tend to handle failure better than those who think they are just 'born' with it."
 ### Enunciado
@@ -120,6 +151,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-10-psychology-109-v7`
+
+
+**ID:** `CO-ENG-10-psychology-109-v7`
+
 ### Contexto
 **Student A:** "People only act out of self-interest."
 **Student B:** "____________"
@@ -138,6 +174,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Gerunds)
+**ID:** `CO-ENG-10-psychology-109-v8`
+
+
+**ID:** `CO-ENG-10-psychology-109-v8`
+
 ### Enunciado
 **_______ a new habit requires consistency and patience.**
 ### Opciones
@@ -153,6 +194,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-10-psychology-109-v9`
+
+
+**ID:** `CO-ENG-10-psychology-109-v9`
+
 ### Enunciado
 **The automatic and involuntary reactions we have to stimuli are _______.**
 ### Opciones
@@ -168,6 +214,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Critical Thinking)
+**ID:** `CO-ENG-10-psychology-109-v10`
+
+
+**ID:** `CO-ENG-10-psychology-109-v10`
+
 ### Contexto
 **Concept:** "Confirmation Bias" is the tendency to search for, interpret, and recall information in a way that confirms one's pre-existing beliefs.
 ### Enunciado

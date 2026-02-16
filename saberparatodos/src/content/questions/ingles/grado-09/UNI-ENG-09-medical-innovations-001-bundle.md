@@ -4,6 +4,7 @@ country: global
 grado: 9
 asignatura: ingles
 tema: medical-innovations
+periodo: 1
 cefr_level: B1
 protocol_version: 3.2-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Medical Innovations (Grade 9)
 
 > **Focus:** Vaccines, DNA, and Antibiotics.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Antibiotics)
+**ID:** `UNI-ENG-09-medical-innovations-001-v1`
+
 ID: UNI-ENG-09-medical-innovations-001-v1
 
 ### Contexto
@@ -45,6 +48,8 @@ It kills **bacteria**, but not viruses.
 ---
 
 ## Question 2 (Part 2 - Vaccine)
+**ID:** `UNI-ENG-09-medical-innovations-001-v2`
+
 ID: UNI-ENG-09-medical-innovations-001-v2
 
 ### Enunciado
@@ -63,6 +68,8 @@ A substance used to stimulate the production of antibodies and provide immunity 
 ---
 
 ## Question 3 (Part 3 - DNA)
+**ID:** `UNI-ENG-09-medical-innovations-001-v3`
+
 ID: UNI-ENG-09-medical-innovations-001-v3
 
 ### Contexto
@@ -84,6 +91,8 @@ What does DNA stand for? (Simplified)
 ---
 
 ## Question 4 (Part 4 - Anesthesia)
+**ID:** `UNI-ENG-09-medical-innovations-001-v4`
+
 ID: UNI-ENG-09-medical-innovations-001-v4
 
 ### Contexto
@@ -105,6 +114,8 @@ It makes you sleep or numb pain.
 ---
 
 ## Question 5 (Part 5 - X-Ray)
+**ID:** `UNI-ENG-09-medical-innovations-001-v5`
+
 ID: UNI-ENG-09-medical-innovations-001-v5
 
 ### Enunciado
@@ -123,6 +134,8 @@ A technology that allows doctors to see **bones** inside the body.
 ---
 
 ## Question 6 (Part 6 - Virus vs Bacteria)
+**ID:** `UNI-ENG-09-medical-innovations-001-v6`
+
 ID: UNI-ENG-09-medical-innovations-001-v6
 
 ### Enunciado
@@ -141,6 +154,8 @@ The Flu and COVID-19 are caused by a...
 ---
 
 ## Question 7 (Part 7 - Surgeon)
+**ID:** `UNI-ENG-09-medical-innovations-001-v7`
+
 ID: UNI-ENG-09-medical-innovations-001-v7
 
 ### Enunciado
@@ -159,6 +174,8 @@ A doctor who performs operations (cuts open the body to fix it).
 ---
 
 ## Question 8 (Part 8 - Pandemic)
+**ID:** `UNI-ENG-09-medical-innovations-001-v8`
+
 ID: UNI-ENG-09-medical-innovations-001-v8
 
 ### Contexto
@@ -180,6 +197,8 @@ Example: The 1918 Flu or COVID-19.
 ---
 
 ## Question 9 (Part 9 - Organ Transplant)
+**ID:** `UNI-ENG-09-medical-innovations-001-v9`
+
 ID: UNI-ENG-09-medical-innovations-001-v9
 
 ### Enunciado
@@ -198,6 +217,8 @@ Replacing a failing heart with a healthy one from a donor is called a...
 ---
 
 ## Question 10 (Part 10 - Placebo)
+**ID:** `UNI-ENG-09-medical-innovations-001-v10`
+
 ID: UNI-ENG-09-medical-innovations-001-v10
 
 ### Contexto

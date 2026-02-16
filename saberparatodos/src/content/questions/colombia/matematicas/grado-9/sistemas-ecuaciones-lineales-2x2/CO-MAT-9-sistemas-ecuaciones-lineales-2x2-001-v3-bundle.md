@@ -234,40 +234,8 @@ $3x + 10x - 14 = 12 \rightarrow 13x = 26 \rightarrow x = 2$.
 
 ### Enunciado
 
-La suma de las edades de Ana y Juan es 35. Dentro de 10 años, Ana tendrá el doble de la edad de Juan. ¿Qué edad tiene Juan hoy?
-Sistema:
-$A + J = 35$
-$(A + 10) = 2(J + 10)$
-
-### Opciones
-
-- [x] A) 5 años
-- [ ] B) 10 años
-- [ ] C) 30 años
-- [ ] D) 15 años
-
-### Explicación Pedagógica
-
-Resuelve el sistema y verás que Juan tiene 5 y Ana 30.
-En 10 años: Juan tendrá 15 y Ana 40 (ups, el enunciado dice el doble... espera... 40 no es el doble de 15).
-Revisemos: Si Juan tiene 5, en 10 años tendrá 15. Si Ana tiene 30, en 10 años 40. NO.
-Probemos opción A: Juan 5 -> Ana 30. En 10 años: Juan 15, Ana 40. (40 != 2*15).
-Probemos: J=5. Ana=30. $30+10 = 40$. $2(5+10)=30$. No.
-RE-CALCULO MENTAL RAPIDO:
-$A = 2J + 20 - 10 = 2J + 10$.
-$2J + 10 + J = 35 \rightarrow 3J = 25$. No da entero.
-El problema tiene un error de planteamiento o la opción correcta no está.
-Cambiemos el problema para que cuadre con opción A (5 años):
-"Dentro de 10 años, Ana tendrá el triple... no".
-Mejor un clásico: "La diferencia es 25". A-J=25.
-Si Juan tiene 5, Ana 30.
-En 10 años: Juan 15, Ana 40.
-¿Relación entre 40 y 15? 40 = 2*15 + 10. Muy complejo.
-
-Cambiemos la pregunta por una teórica de determinantes para evitar errores de cálculo en vivo.
-
-**NUEVO ENUNCIADO:**
-¿Cómo se calcula el **Determinante** de la matriz de coeficientes $\begin{vmatrix} a & b \\ c & d \end{vmatrix}$?
+¿Cómo se calcula el **determinante** de la matriz de coeficientes
+$\begin{vmatrix} a & b \\ c & d \end{vmatrix}$?
 
 ### Opciones
 
@@ -278,4 +246,5 @@ Cambiemos la pregunta por una teórica de determinantes para evitar errores de c
 
 ### Explicación Pedagógica
 
-Multiplicas en cruz: diagonal principal menos diagonal secundaria.
+Se multiplica la diagonal principal ($a \cdot d$) y se resta
+el producto de la diagonal secundaria ($b \cdot c$).

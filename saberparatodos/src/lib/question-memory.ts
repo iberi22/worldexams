@@ -169,7 +169,13 @@ export async function markQuestionAnswered(
   answered.add(questionId);
 
   // Update stats
-  updateStats(questionId, isCorrect, metadata);
+  updateStats([{
+    id: questionId,
+    isCorrect,
+    subject: metadata?.subject,
+    grade: metadata?.grade,
+    difficulty: metadata?.difficulty
+  }]);
 
   // 🆕 Save to database if logged in
   await saveToDatabase(questionId, isCorrect, metadata);
@@ -459,6 +465,7 @@ function getDefaultStats(): QuestionStats {
     bySubject: {},
     byGrade: {},
     byDifficulty: {},
+    byPeriod: {}, // 🆕
     streakHistory: [],
     lastSessionDate: new Date().toISOString().split('T')[0]
   };

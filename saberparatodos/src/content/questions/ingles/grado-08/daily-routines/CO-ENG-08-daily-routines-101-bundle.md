@@ -4,17 +4,23 @@ country: co
 grado: 8
 asignatura: ingles
 tema: daily-routines
+periodo: 1
 cefr_level: B1
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Daily Routines (B1)
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-08-daily-routines-101-v1`
+
+
+**ID:** `CO-ENG-08-daily-routines-101-v1`
+
 ### Enunciado
 **The first meal of the day is:**
 ### Opciones
@@ -36,6 +42,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Pragmatics)
+**ID:** `CO-ENG-08-daily-routines-101-v2`
+
+
+**ID:** `CO-ENG-08-daily-routines-101-v2`
+
 ### Contexto
 **School announcement:** "Classes begin at 7:00 AM sharp. Latecomers will need a pass."
 ### Enunciado
@@ -53,6 +64,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Conversation)
+**ID:** `CO-ENG-08-daily-routines-101-v3`
+
+
+**ID:** `CO-ENG-08-daily-routines-101-v3`
+
 ### Contexto
 **Friend:** "What time do you usually wake up?"
 **You:** "____________"
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Grammar)
+**ID:** `CO-ENG-08-daily-routines-101-v4`
+
+
+**ID:** `CO-ENG-08-daily-routines-101-v4`
+
 ### Contexto
 "She (1)______ to school every day. Right now, she (2)______ on the bus."
 ### Enunciado
@@ -88,6 +109,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Literal Reading)
+**ID:** `CO-ENG-08-daily-routines-101-v5`
+
+
+**ID:** `CO-ENG-08-daily-routines-101-v5`
+
 ### Contexto
 **Text:** "Most teenagers need 8-10 hours of sleep per night. However, studies show the average teen only sleeps 6-7 hours due to homework, devices, and early school starts."
 ### Enunciado
@@ -105,6 +131,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-08-daily-routines-101-v6`
+
+
+**ID:** `CO-ENG-08-daily-routines-101-v6`
+
 ### Contexto
 **Passage:** "We call it a 'morning routine,' but for many of us, it's actually morning chaos. We hit snooze three times, rush through shower, skip breakfast, and barely catch the bus."
 ### Enunciado
@@ -122,6 +153,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Advanced Grammar)
+**ID:** `CO-ENG-08-daily-routines-101-v7`
+
+
+**ID:** `CO-ENG-08-daily-routines-101-v7`
+
 ### Contexto
 "(1)______ I finished my homework, I (2)______ watch TV for an hour."
 ### Enunciado
@@ -139,6 +175,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Vocabulary)
+**ID:** `CO-ENG-08-daily-routines-101-v8`
+
+
+**ID:** `CO-ENG-08-daily-routines-101-v8`
+
 ### Enunciado
 **"Rush hour" means:**
 ### Opciones
@@ -154,6 +195,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Use of English)
+**ID:** `CO-ENG-08-daily-routines-101-v9`
+
+
+**ID:** `CO-ENG-08-daily-routines-101-v9`
+
 ### Contexto
 **Original:** "Students do homework every evening."
 **Rewrite:** *HOMEWORK...*
@@ -172,6 +218,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Critical Thinking)
+**ID:** `CO-ENG-08-daily-routines-101-v10`
+
+
+**ID:** `CO-ENG-08-daily-routines-101-v10`
+
 ### Contexto
 **Statement:** "Students should have no homework to enjoy free time."
 ### Enunciado

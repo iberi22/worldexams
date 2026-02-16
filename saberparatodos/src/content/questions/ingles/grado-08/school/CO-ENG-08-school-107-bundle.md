@@ -4,19 +4,25 @@ country: co
 grado: 8
 asignatura: ingles
 tema: school
+periodo: 1
 cefr_level: B1
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: School Life & Volunteering (B1)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-08-school-107-v1`
+
+
+**ID:** `CO-ENG-08-school-107-v1`
+
 ### Enunciado
 **A person who works for an organization without being paid is a _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-08-school-107-v2`
+
+
+**ID:** `CO-ENG-08-school-107-v2`
+
 ### Enunciado
 **If I (1)_______ more free time, I (2)_______ at the local animal shelter.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-08-school-107-v3`
+
+
+**ID:** `CO-ENG-08-school-107-v3`
+
 ### Contexto
 **Text:** "At our school, students can join many clubs. The most popular ones are the Chess Club, the Music Band, and the Environmental Volunteers."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-08-school-107-v4`
+
+
+**ID:** `CO-ENG-08-school-107-v4`
+
 ### Enunciado
 **Activities that students do outside their regular classes are _______ activities.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-08-school-107-v5`
+
+
+**ID:** `CO-ENG-08-school-107-v5`
+
 ### Contexto
 **Teacher:** "I'm very proud of how you helped the younger students today."
 ### Enunciado
@@ -103,6 +129,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-08-school-107-v6`
+
+
+**ID:** `CO-ENG-08-school-107-v6`
+
 ### Contexto
 **Passage:** "Carlos spent his Saturday morning cleaning the local park with his classmates. He was tired at the end of the day, but he had a big smile on his face."
 ### Enunciado
@@ -120,6 +151,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-08-school-107-v7`
+
+
+**ID:** `CO-ENG-08-school-107-v7`
+
 ### Contexto
 **Student A:** "Volunteering is a waste of time; you don't get any money."
 **Student B:** "____________"
@@ -138,6 +174,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Present Perfect)
+**ID:** `CO-ENG-08-school-107-v8`
+
+
+**ID:** `CO-ENG-08-school-107-v8`
+
 ### Enunciado
 **I (1)_______ a member of the school band (2)_______ two years.**
 ### Opciones
@@ -153,6 +194,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-08-school-107-v9`
+
+
+**ID:** `CO-ENG-08-school-107-v9`
+
 ### Enunciado
 **A person who is in your class at school is your _______.**
 ### Opciones
@@ -168,6 +214,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Action)
+**ID:** `CO-ENG-08-school-107-v10`
+
+
+**ID:** `CO-ENG-08-school-107-v10`
+
 ### Enunciado
 **To help someone or an organization by giving your time or money is to _______.**
 ### Opciones

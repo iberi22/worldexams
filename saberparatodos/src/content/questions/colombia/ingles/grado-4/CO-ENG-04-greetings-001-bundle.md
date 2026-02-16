@@ -92,7 +92,7 @@ What is the correct question to ask a new student about their **name**?
 
 ## Question 4 (Fácil B - Difficulty 2)
 
-**ID:** `CO-ENG-04-greetings-001-v4)
+**ID:** `CO-ENG-04-greetings-001-v4`
 
 ### Contexto
 Asking about well-being.

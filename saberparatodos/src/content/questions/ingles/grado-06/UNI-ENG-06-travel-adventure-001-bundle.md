@@ -4,6 +4,7 @@ country: global
 grado: 6
 asignatura: ingles
 tema: travel-adventure
+periodo: 1
 cefr_level: A1+
 protocol_version: 3.2-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Travel & Adventure (Grade 6)
 
 > **Focus:** Maps, Wonders of the World, and Camping.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Passport)
+**ID:** `UNI-ENG-06-travel-adventure-001-v1`
+
 ID: UNI-ENG-06-travel-adventure-001-v1
 
 ### Enunciado
@@ -42,6 +45,8 @@ A document you need to enter another country.
 ---
 
 ## Question 2 (Part 2 - Map)
+**ID:** `UNI-ENG-06-travel-adventure-001-v2`
+
 ID: UNI-ENG-06-travel-adventure-001-v2
 
 ### Enunciado
@@ -60,6 +65,8 @@ If you are lost, you look at a...
 ---
 
 ## Question 3 (Part 3 - Suitcase)
+**ID:** `UNI-ENG-06-travel-adventure-001-v3`
+
 ID: UNI-ENG-06-travel-adventure-001-v3
 
 ### Enunciado
@@ -78,6 +85,8 @@ Where do you pack your clothes for a trip?
 ---
 
 ## Question 4 (Part 4 - Camping)
+**ID:** `UNI-ENG-06-travel-adventure-001-v4`
+
 ID: UNI-ENG-06-travel-adventure-001-v4
 
 ### Contexto
@@ -99,6 +108,8 @@ This is...
 ---
 
 ## Question 5 (Part 5 - Tent)
+**ID:** `UNI-ENG-06-travel-adventure-001-v5`
+
 ID: UNI-ENG-06-travel-adventure-001-v5
 
 ### Enunciado
@@ -117,6 +128,8 @@ The portable "house" you use when camping.
 ---
 
 ## Question 6 (Part 6 - Airport)
+**ID:** `UNI-ENG-06-travel-adventure-001-v6`
+
 ID: UNI-ENG-06-travel-adventure-001-v6
 
 ### Enunciado
@@ -135,6 +148,8 @@ Where do planes land and take off?
 ---
 
 ## Question 7 (Part 7 - Tourist)
+**ID:** `UNI-ENG-06-travel-adventure-001-v7`
+
 ID: UNI-ENG-06-travel-adventure-001-v7
 
 ### Enunciado
@@ -153,6 +168,8 @@ A person who visits a place for pleasure/vacation.
 ---
 
 ## Question 8 (Part 8 - Souvenir)
+**ID:** `UNI-ENG-06-travel-adventure-001-v8`
+
 ID: UNI-ENG-06-travel-adventure-001-v8
 
 ### Enunciado
@@ -171,6 +188,8 @@ A small gift you buy to remember a trip (e.g., a magnet).
 ---
 
 ## Question 9 (Part 9 - Compass)
+**ID:** `UNI-ENG-06-travel-adventure-001-v9`
+
 ID: UNI-ENG-06-travel-adventure-001-v9
 
 ### Contexto
@@ -192,6 +211,8 @@ What is it?
 ---
 
 ## Question 10 (Part 10 - Pyramids)
+**ID:** `UNI-ENG-06-travel-adventure-001-v10`
+
 ID: UNI-ENG-06-travel-adventure-001-v10
 
 ### Contexto

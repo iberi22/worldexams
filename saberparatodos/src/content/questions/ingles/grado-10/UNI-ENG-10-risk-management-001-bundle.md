@@ -4,6 +4,7 @@ country: global
 grado: 10
 asignatura: ingles
 tema: risk-management
+periodo: 1
 cefr_level: B1+
 protocol_version: 3.1-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Risk Management (Grade 10)
 
 > **Focus:** Assessing danger, prevention, and consequences.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Assessment)
+**ID:** `UNI-ENG-10-risk-management-001-v1`
+
 ID: UNI-ENG-10-risk-management-001-v1
 
 ### Contexto
@@ -45,6 +48,8 @@ This is a...
 ---
 
 ## Question 2 (Part 2 - Prevention)
+**ID:** `UNI-ENG-10-risk-management-001-v2`
+
 ID: UNI-ENG-10-risk-management-001-v2
 
 ### Quote
@@ -66,6 +71,8 @@ Complete the proverb.
 ---
 
 ## Question 3 (Part 3 - Insurance)
+**ID:** `UNI-ENG-10-risk-management-001-v3`
+
 ID: UNI-ENG-10-risk-management-001-v3
 
 ### Contexto
@@ -87,6 +94,8 @@ What is this?
 ---
 
 ## Question 4 (Part 4 - Hazard vs Risk)
+**ID:** `UNI-ENG-10-risk-management-001-v4`
+
 ID: UNI-ENG-10-risk-management-001-v4
 
 ### Contexto
@@ -110,6 +119,8 @@ If the shark is in a tank and you are outside, the hazard exists but the risk is
 ---
 
 ## Question 5 (Part 5 - Peer Pressure)
+**ID:** `UNI-ENG-10-risk-management-001-v5`
+
 ID: UNI-ENG-10-risk-management-001-v5
 
 ### Contexto
@@ -131,6 +142,8 @@ This social force is called...
 ---
 
 ## Question 6 (Part 6 - Consequences)
+**ID:** `UNI-ENG-10-risk-management-001-v6`
+
 ID: UNI-ENG-10-risk-management-001-v6
 
 ### Enunciado
@@ -149,6 +162,8 @@ Calculating risk involves weighing the Benefit against the...
 ---
 
 ## Question 7 (Part 7 - Safety Gear)
+**ID:** `UNI-ENG-10-risk-management-001-v7`
+
 ID: UNI-ENG-10-risk-management-001-v7
 
 ### Contexto
@@ -170,6 +185,8 @@ These are collectively known as...
 ---
 
 ## Question 8 (Part 8 - Warning Signs)
+**ID:** `UNI-ENG-10-risk-management-001-v8`
+
 ID: UNI-ENG-10-risk-management-001-v8
 
 ### Contexto
@@ -191,6 +208,8 @@ Ignoring this sign leads to...
 ---
 
 ## Question 9 (Part 9 - Plan B)
+**ID:** `UNI-ENG-10-risk-management-001-v9`
+
 ID: UNI-ENG-10-risk-management-001-v9
 
 ### Contexto
@@ -212,6 +231,8 @@ This is a...
 ---
 
 ## Question 10 (Part 10 - Situational Awareness)
+**ID:** `UNI-ENG-10-risk-management-001-v10`
+
 ID: UNI-ENG-10-risk-management-001-v10
 
 ### Contexto

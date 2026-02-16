@@ -4,19 +4,25 @@ country: co
 grado: 5
 asignatura: ingles
 tema: my-body
+periodo: 1
 cefr_level: A1+
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: My Body (A1+)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-05-my-body-102-v1`
+
+
+**ID:** `CO-ENG-05-my-body-102-v1`
+
 ### Enunciado
 **We use our _______ to see.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Vocabulary)
+**ID:** `CO-ENG-05-my-body-102-v2`
+
+
+**ID:** `CO-ENG-05-my-body-102-v2`
+
 ### Enunciado
 **We use our _______ to listen to music.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Grammar)
+**ID:** `CO-ENG-05-my-body-102-v3`
+
+
+**ID:** `CO-ENG-05-my-body-102-v3`
+
 ### Enunciado
 **I have _______ hands.**
 ### Opciones
@@ -69,6 +85,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-05-my-body-102-v4`
+
+
+**ID:** `CO-ENG-05-my-body-102-v4`
+
 ### Enunciado
 **We use our _______ to walk to school.**
 ### Opciones
@@ -84,6 +105,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-05-my-body-102-v5`
+
+
+**ID:** `CO-ENG-05-my-body-102-v5`
+
 ### Contexto
 **Teacher:** "Please raise your hand if you have a question."
 ### Enunciado
@@ -101,6 +127,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Reading - Literal)
+**ID:** `CO-ENG-05-my-body-102-v6`
+
+
+**ID:** `CO-ENG-05-my-body-102-v6`
+
 ### Contexto
 **Text:** "My name is Carlos. I am tall. I have brown eyes and black hair. My arms are strong because I play basketball."
 ### Enunciado
@@ -118,6 +149,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Vocabulary)
+**ID:** `CO-ENG-05-my-body-102-v7`
+
+
+**ID:** `CO-ENG-05-my-body-102-v7`
+
 ### Enunciado
 **We have five _______ on each hand.**
 ### Opciones
@@ -133,6 +169,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Reading - Inferential)
+**ID:** `CO-ENG-05-my-body-102-v8`
+
+
+**ID:** `CO-ENG-05-my-body-102-v8`
+
 ### Contexto
 **Passage:** "Luisa is wearing a hat. Her hair is very long and it is getting in her face."
 ### Enunciado
@@ -150,6 +191,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-05-my-body-102-v9`
+
+
+**ID:** `CO-ENG-05-my-body-102-v9`
+
 ### Enunciado
 **We use our _______ to smell flowers.**
 ### Opciones
@@ -165,6 +211,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Health)
+**ID:** `CO-ENG-05-my-body-102-v10`
+
+
+**ID:** `CO-ENG-05-my-body-102-v10`
+
 ### Enunciado
 **You should wash your _______ before eating.**
 ### Opciones

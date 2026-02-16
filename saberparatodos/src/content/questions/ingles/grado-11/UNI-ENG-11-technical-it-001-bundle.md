@@ -6,6 +6,7 @@ asignatura: ingles
 tema: technical-english
 cefr_level: B2+
 protocol_version: 3.1-GLOBAL
+periodo: 1
 total_questions: 10
 international_focus: IT Support / Engineering / Manuals
 licenses:
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Troubleshooting - Difficulty 4)
+**ID:** `UNI-ENG-11-technical-it-001-v1`
+
 ID: UNI-ENG-11-technical-it-001-v1
 
 ### Contexto
@@ -46,6 +49,8 @@ What is the most logical first step?
 ---
 
 ## Question 2 (Part 2 - Hardware Vocabulary - Difficulty 4)
+**ID:** `UNI-ENG-11-technical-it-001-v2`
+
 ID: UNI-ENG-11-technical-it-001-v2
 
 ### Contexto
@@ -67,6 +72,8 @@ What is this component?
 ---
 
 ## Question 3 (Part 3 - Safety Protocol - Difficulty 5)
+**ID:** `UNI-ENG-11-technical-it-001-v3`
+
 ID: UNI-ENG-11-technical-it-001-v3
 
 ### Contexto
@@ -88,6 +95,8 @@ Why is this instruction critical?
 ---
 
 ## Question 4 (Part 4 - Software Deployment - Difficulty 5)
+**ID:** `UNI-ENG-11-technical-it-001-v4`
+
 ID: UNI-ENG-11-technical-it-001-v4
 
 ### Contexto
@@ -109,6 +118,8 @@ What does this mean?
 ---
 
 ## Question 5 (Part 5 - Cybersecurity - Difficulty 4)
+**ID:** `UNI-ENG-11-technical-it-001-v5`
+
 ID: UNI-ENG-11-technical-it-001-v5
 
 ### Contexto
@@ -130,6 +141,8 @@ What is this attack called?
 ---
 
 ## Question 6 (Part 6 - Manual Instructions - Difficulty 4)
+**ID:** `UNI-ENG-11-technical-it-001-v6`
+
 ID: UNI-ENG-11-technical-it-001-v6
 
 ### Contexto
@@ -151,6 +164,8 @@ What tool should you use?
 ---
 
 ## Question 7 (Part 7 - Coding Concept - Difficulty 5)
+**ID:** `UNI-ENG-11-technical-it-001-v7`
+
 ID: UNI-ENG-11-technical-it-001-v7
 
 ### Contexto
@@ -172,6 +187,8 @@ What involves this concept?
 ---
 
 ## Question 8 (Part 8 - UX Design - Difficulty 4)
+**ID:** `UNI-ENG-11-technical-it-001-v8`
+
 ID: UNI-ENG-11-technical-it-001-v8
 
 ### Contexto
@@ -193,6 +210,8 @@ What needs improvement?
 ---
 
 ## Question 9 (Part 9 - Engineering Materials - Difficulty 5)
+**ID:** `UNI-ENG-11-technical-it-001-v9`
+
 ID: UNI-ENG-11-technical-it-001-v9
 
 ### Contexto
@@ -214,6 +233,8 @@ How does the material behave?
 ---
 
 ## Question 10 (Part 10 - Acronyms - Difficulty 4)
+**ID:** `UNI-ENG-11-technical-it-001-v10`
+
 ID: UNI-ENG-11-technical-it-001-v10
 
 ### Enunciado

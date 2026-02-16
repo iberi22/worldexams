@@ -39,6 +39,8 @@ original_answer: "In London (literal)."
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
+**ID:** `CO-ING-11-part5-literal-001-v1`
+
 
 **ID:** `CO-ING-11-part5-literal-001-v1`
 
@@ -63,6 +65,8 @@ El texto dice literalmente: "**Carol lives in Jamaica**". Es una extracción dir
 ---
 
 ## Pregunta 2 (Fácil A - Dificultad 1)
+**ID:** `CO-ING-11-part5-literal-001-v2`
+
 
 **ID:** `CO-ING-11-part5-literal-001-v2`
 
@@ -84,6 +88,8 @@ El texto afirma: "**Vilma lives in London**". Información explícita.
 ---
 
 ## Pregunta 3 (Fácil B - Dificultad 2)
+**ID:** `CO-ING-11-part5-literal-001-v3`
+
 
 **ID:** `CO-ING-11-part5-literal-001-v3`
 
@@ -105,6 +111,8 @@ Para Paula, el texto dice: "**Paula... owns a clothing shop**". Nurse es Vilma, 
 ---
 
 ## Pregunta 4 (Media A - Dificultad 3)
+**ID:** `CO-ING-11-part5-literal-001-v4`
+
 
 **ID:** `CO-ING-11-part5-literal-001-v4`
 
@@ -126,6 +134,8 @@ El texto dice sobre Vilma: "She has two sons but **wants to move back to Jamaica
 ---
 
 ## Pregunta 5 (Media B - Dificultad 3)
+**ID:** `CO-ING-11-part5-literal-001-v5`
+
 
 **ID:** `CO-ING-11-part5-literal-001-v5`
 
@@ -150,6 +160,8 @@ La respuesta precisa es Paula.
 ---
 
 ## Pregunta 6 (Difícil A - Dificultad 4)
+**ID:** `CO-ING-11-part5-literal-001-v6`
+
 
 **ID:** `CO-ING-11-part5-literal-001-v6`
 
@@ -171,6 +183,8 @@ La primera frase resume lo común: "Vilma, Paula, and Carol **are sisters**... a
 ---
 
 ## Pregunta 7 (Difícil B - Dificultad 5)
+**ID:** `CO-ING-11-part5-literal-001-v7`
+
 
 **ID:** `CO-ING-11-part5-literal-001-v7`
 

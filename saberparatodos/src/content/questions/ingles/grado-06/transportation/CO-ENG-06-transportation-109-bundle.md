@@ -4,19 +4,25 @@ country: co
 grado: 6
 asignatura: ingles
 tema: transportation
+periodo: 1
 cefr_level: A2
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: Transportation & Moving Around (A2)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-06-transportation-109-v1`
+
+
+**ID:** `CO-ENG-06-transportation-109-v1`
+
 ### Enunciado
 **A large vehicle that carries many people on a fixed route is a _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-06-transportation-109-v2`
+
+
+**ID:** `CO-ENG-06-transportation-109-v2`
+
 ### Enunciado
 **How (1)_______ you go to school? I usually (2)_______ the bus.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-06-transportation-109-v3`
+
+
+**ID:** `CO-ENG-06-transportation-109-v3`
+
 ### Contexto
 **Text:** "In Medellin, people use the Metro and the Metrocable. The Metrocable is a cable car that goes up to the mountains. It is very fast and safe."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-06-transportation-109-v4`
+
+
+**ID:** `CO-ENG-06-transportation-109-v4`
+
 ### Enunciado
 **A vehicle with two wheels that you ride by turning pedals is a _______.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-06-transportation-109-v5`
+
+
+**ID:** `CO-ENG-06-transportation-109-v5`
+
 ### Contexto
 **Passenger:** "Does this bus stop at the city center?"
 **Driver:** "Yes, in about ten minutes. I'll tell you when we arrive."
@@ -104,6 +130,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-06-transportation-109-v6`
+
+
+**ID:** `CO-ENG-06-transportation-109-v6`
+
 ### Contexto
 **Passage:** "The sky was blue and clear. We arrived at the airport two hours early. Soon, we were in our seats, looking at the city from high above through a small window."
 ### Enunciado
@@ -121,6 +152,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-06-transportation-109-v7`
+
+
+**ID:** `CO-ENG-06-transportation-109-v7`
+
 ### Contexto
 **Person A:** "How long does it take to get to the mall?"
 **Person B:** "____________"
@@ -139,6 +175,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Prepositions of Transport)
+**ID:** `CO-ENG-06-transportation-109-v8`
+
+
+**ID:** `CO-ENG-06-transportation-109-v8`
+
 ### Enunciado
 **I usually go to work (1)_______ car, but sometimes I go (2)_______ foot.**
 ### Opciones
@@ -154,6 +195,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-06-transportation-109-v9`
+
+
+**ID:** `CO-ENG-06-transportation-109-v9`
+
 ### Enunciado
 **A place where many trains stop to pick up passengers is a _______.**
 ### Opciones
@@ -169,6 +215,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Cultural)
+**ID:** `CO-ENG-06-transportation-109-v10`
+
+
+**ID:** `CO-ENG-06-transportation-109-v10`
+
 ### Enunciado
 **In Bogota, the massive bus system with exclusive lanes is called _______.**
 ### Opciones

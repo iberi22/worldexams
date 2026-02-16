@@ -4,19 +4,25 @@ country: co
 grado: 9
 asignatura: ingles
 tema: relationships
+periodo: 1
 cefr_level: B1+
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: Relationships & Social Media (B1+)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-09-relationships-109-v1`
+
+
+**ID:** `CO-ENG-09-relationships-109-v1`
+
 ### Enunciado
 **When you stop being friends with someone, you _______ with them.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-09-relationships-109-v2`
+
+
+**ID:** `CO-ENG-09-relationships-109-v2`
+
 ### Enunciado
 **If I (1)_______ you, I (2)_______ so much time on social media.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-09-relationships-109-v3`
+
+
+**ID:** `CO-ENG-09-relationships-109-v3`
+
 ### Contexto
 **Text:** "Cyberbullying is a serious issue. It involves using digital platforms to harass or intimidate someone. It is important to report such behavior to parents or teachers."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-09-relationships-109-v4`
+
+
+**ID:** `CO-ENG-09-relationships-109-v4`
+
 ### Enunciado
 **The feeling that you must do the same things as other people of your age to be liked is _______.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-09-relationships-109-v5`
+
+
+**ID:** `CO-ENG-09-relationships-109-v5`
+
 ### Contexto
 **Friend:** "Did you see what Maria posted last night?"
 **You:** "I don't like to talk about people behind their backs."
@@ -104,6 +130,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-09-relationships-109-v6`
+
+
+**ID:** `CO-ENG-09-relationships-109-v6`
+
 ### Contexto
 **Passage:** "Social media allows us to connect with friends far away, but psychologists warn that it can also make us feel lonely if we compare our 'real life' to other people's 'edited' photos."
 ### Enunciado
@@ -121,6 +152,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-09-relationships-109-v7`
+
+
+**ID:** `CO-ENG-09-relationships-109-v7`
+
 ### Contexto
 **Person A:** "Online friends are not real friends."
 **Person B:** "____________"
@@ -139,6 +175,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Relative Clauses)
+**ID:** `CO-ENG-09-relationships-109-v8`
+
+
+**ID:** `CO-ENG-09-relationships-109-v8`
+
 ### Enunciado
 **I have a friend _______ is very good at photography.**
 ### Opciones
@@ -154,6 +195,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-09-relationships-109-v9`
+
+
+**ID:** `CO-ENG-09-relationships-109-v9`
+
 ### Enunciado
 **When you can rely on someone and believe they are honest, you _______ them.**
 ### Opciones
@@ -169,6 +215,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Critical Thinking)
+**ID:** `CO-ENG-09-relationships-109-v10`
+
+
+**ID:** `CO-ENG-09-relationships-109-v10`
+
 ### Contexto
 **Statement:** "You should think twice before you post something on the internet; your digital footprint lasts forever."
 ### Enunciado

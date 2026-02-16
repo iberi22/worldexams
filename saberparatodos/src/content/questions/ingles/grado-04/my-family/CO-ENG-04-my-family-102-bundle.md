@@ -4,19 +4,25 @@ country: co
 grado: 4
 asignatura: ingles
 tema: my-family
+periodo: 1
 cefr_level: A1
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: My Family (A1)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-04-my-family-102-v1`
+
+
+**ID:** `CO-ENG-04-my-family-102-v1`
+
 ### Enunciado
 **My father's wife is my _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Vocabulary)
+**ID:** `CO-ENG-04-my-family-102-v2`
+
+
+**ID:** `CO-ENG-04-my-family-102-v2`
+
 ### Enunciado
 **My mother's brother is my _______.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Vocabulary)
+**ID:** `CO-ENG-04-my-family-102-v3`
+
+
+**ID:** `CO-ENG-04-my-family-102-v3`
+
 ### Enunciado
 **My father's father is my _______.**
 ### Opciones
@@ -69,6 +85,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Grammar)
+**ID:** `CO-ENG-04-my-family-102-v4`
+
+
+**ID:** `CO-ENG-04-my-family-102-v4`
+
 ### Enunciado
 **_______ is my baby sister.**
 ### Opciones
@@ -84,6 +105,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Grammar)
+**ID:** `CO-ENG-04-my-family-102-v5`
+
+
+**ID:** `CO-ENG-04-my-family-102-v5`
+
 ### Enunciado
 **My mother _______ a blue car.**
 ### Opciones
@@ -99,6 +125,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Reading - Literal)
+**ID:** `CO-ENG-04-my-family-102-v6`
+
+
+**ID:** `CO-ENG-04-my-family-102-v6`
+
 ### Contexto
 **Text:** "I live with my parents and my two brothers. My brothers are named Mateo and Luis. We have a dog named Toby."
 ### Enunciado
@@ -116,6 +147,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-04-my-family-102-v7`
+
+
+**ID:** `CO-ENG-04-my-family-102-v7`
+
 ### Contexto
 **Person A:** "Do you have any brothers or sisters?"
 **Person B:** "____________"
@@ -134,6 +170,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Vocabulary)
+**ID:** `CO-ENG-04-my-family-102-v8`
+
+
+**ID:** `CO-ENG-04-my-family-102-v8`
+
 ### Enunciado
 **My aunt's children are my _______.**
 ### Opciones
@@ -149,6 +190,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Reading - Inferential)
+**ID:** `CO-ENG-04-my-family-102-v9`
+
+
+**ID:** `CO-ENG-04-my-family-102-v9`
+
 ### Contexto
 **Passage:** "Today is my mom's birthday. My father bought a big cake and my brother and I made a card."
 ### Enunciado
@@ -166,6 +212,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Cultural)
+**ID:** `CO-ENG-04-my-family-102-v10`
+
+
+**ID:** `CO-ENG-04-my-family-102-v10`
+
 ### Enunciado
 **In Colombia, we often live with our _______ (grandparents, aunts, and uncles) in the same house or very near.**
 ### Opciones

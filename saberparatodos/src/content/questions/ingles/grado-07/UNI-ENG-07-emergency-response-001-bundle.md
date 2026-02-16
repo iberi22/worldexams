@@ -4,6 +4,7 @@ country: global
 grado: 7
 asignatura: ingles
 tema: emergency-response
+periodo: 1
 cefr_level: A2
 protocol_version: 3.1-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Emergency Response (Grade 7)
 
 > **Focus:** First aid basics, earthquakes, and fire drills.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - The Number)
+**ID:** `UNI-ENG-07-emergency-response-001-v1`
+
 ID: UNI-ENG-07-emergency-response-001-v1
 
 ### Enunciado
@@ -42,6 +45,8 @@ What is the universal emergency number in the USA (and many movies)?
 ---
 
 ## Question 2 (Part 2 - Fire Drill)
+**ID:** `UNI-ENG-07-emergency-response-001-v2`
+
 ID: UNI-ENG-07-emergency-response-001-v2
 
 ### Contexto
@@ -63,6 +68,8 @@ You should...
 ---
 
 ## Question 3 (Part 3 - Earthquake)
+**ID:** `UNI-ENG-07-emergency-response-001-v3`
+
 ID: UNI-ENG-07-emergency-response-001-v3
 
 ### Contexto
@@ -84,6 +91,8 @@ What is the rule?
 ---
 
 ## Question 4 (Part 4 - Burn)
+**ID:** `UNI-ENG-07-emergency-response-001-v4`
+
 ID: UNI-ENG-07-emergency-response-001-v4
 
 ### Contexto
@@ -105,6 +114,8 @@ Put it under...
 ---
 
 ## Question 5 (Part 5 - Choking)
+**ID:** `UNI-ENG-07-emergency-response-001-v5`
+
 ID: UNI-ENG-07-emergency-response-001-v5
 
 ### Contexto
@@ -126,6 +137,8 @@ They are...
 ---
 
 ## Question 6 (Part 6 - Bleeding)
+**ID:** `UNI-ENG-07-emergency-response-001-v6`
+
 ID: UNI-ENG-07-emergency-response-001-v6
 
 ### Contexto
@@ -147,6 +160,8 @@ What do you apply?
 ---
 
 ## Question 7 (Part 7 - Smoke)
+**ID:** `UNI-ENG-07-emergency-response-001-v7`
+
 ID: UNI-ENG-07-emergency-response-001-v7
 
 ### Contexto
@@ -168,6 +183,8 @@ You should...
 ---
 
 ## Question 8 (Part 8 - Hazard Symbol)
+**ID:** `UNI-ENG-07-emergency-response-001-v8`
+
 ID: UNI-ENG-07-emergency-response-001-v8
 
 ### Contexto
@@ -189,6 +206,8 @@ This means...
 ---
 
 ## Question 9 (Part 9 - CPR)
+**ID:** `UNI-ENG-07-emergency-response-001-v9`
+
 ID: UNI-ENG-07-emergency-response-001-v9
 
 ### Contexto
@@ -210,6 +229,8 @@ What is this?
 ---
 
 ## Question 10 (Part 10 - Operator)
+**ID:** `UNI-ENG-07-emergency-response-001-v10`
+
 ID: UNI-ENG-07-emergency-response-001-v10
 
 ### Contexto

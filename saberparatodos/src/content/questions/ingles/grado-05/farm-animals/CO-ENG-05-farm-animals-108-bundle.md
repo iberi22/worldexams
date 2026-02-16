@@ -4,19 +4,25 @@ country: co
 grado: 5
 asignatura: ingles
 tema: farm-animals
+periodo: 1
 cefr_level: A1+
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: Farm Animals (A1+)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-05-farm-animals-108-v1`
+
+
+**ID:** `CO-ENG-05-farm-animals-108-v1`
+
 ### Enunciado
 **The animal that gives us milk is the _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-05-farm-animals-108-v2`
+
+
+**ID:** `CO-ENG-05-farm-animals-108-v2`
+
 ### Enunciado
 **The sheep (1)_______ white, and the horse (2)_______ brown.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-05-farm-animals-108-v3`
+
+
+**ID:** `CO-ENG-05-farm-animals-108-v3`
+
 ### Contexto
 **Text:** "Our farm has many animals. We have three pigs, five chickens, and one big dog. The chickens lay eggs every morning."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-05-farm-animals-108-v4`
+
+
+**ID:** `CO-ENG-05-farm-animals-108-v4`
+
 ### Enunciado
 **An animal that can fly and has feathers is a _______.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-05-farm-animals-108-v5`
+
+
+**ID:** `CO-ENG-05-farm-animals-108-v5`
+
 ### Contexto
 **Child:** "Look at the baby horse! It's so cute!"
 ### Enunciado
@@ -103,6 +129,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-05-farm-animals-108-v6`
+
+
+**ID:** `CO-ENG-05-farm-animals-108-v6`
+
 ### Contexto
 **Passage:** "The animal says 'Oink oink'. It is pink and likes to play in the mud."
 ### Enunciado
@@ -120,6 +151,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-05-farm-animals-108-v7`
+
+
+**ID:** `CO-ENG-05-farm-animals-108-v7`
+
 ### Contexto
 **Person A:** "Which animal do you like best?"
 **Person B:** "____________"
@@ -138,6 +174,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Plurals)
+**ID:** `CO-ENG-05-farm-animals-108-v8`
+
+
+**ID:** `CO-ENG-05-farm-animals-108-v8`
+
 ### Enunciado
 **On the farm, there are many (1)_______ and (2)_______.**
 ### Opciones
@@ -153,6 +194,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-05-farm-animals-108-v9`
+
+
+**ID:** `CO-ENG-05-farm-animals-108-v9`
+
 ### Enunciado
 **The person who works on a farm and takes care of animals is a _______.**
 ### Opciones
@@ -168,6 +214,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Cultural)
+**ID:** `CO-ENG-05-farm-animals-108-v10`
+
+
+**ID:** `CO-ENG-05-farm-animals-108-v10`
+
 ### Enunciado
 **In Colombia, 'el campo' (the countryside) is where many people have farms with coffee and _______ (donkeys).**
 ### Opciones

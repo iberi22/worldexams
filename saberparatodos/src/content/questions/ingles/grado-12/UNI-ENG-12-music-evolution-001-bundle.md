@@ -6,6 +6,7 @@ asignatura: ingles
 tema: music-evolution
 cefr_level: C1
 protocol_version: 3.2-GLOBAL
+periodo: 1
 total_questions: 10
 international_focus: Music History / Genres / Tech
 licenses:
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Vinyl)
+**ID:** `UNI-ENG-12-music-evolution-001-v1`
+
 ID: UNI-ENG-12-music-evolution-001-v1
 
 ### Enunciado
@@ -42,6 +45,8 @@ Large black analog discs used to play music before CDs.
 ---
 
 ## Question 2 (Part 2 - Genre: Jazz)
+**ID:** `UNI-ENG-12-music-evolution-001-v2`
+
 ID: UNI-ENG-12-music-evolution-001-v2
 
 ### Contexto
@@ -63,6 +68,8 @@ What is it?
 ---
 
 ## Question 3 (Part 3 - Lyrics)
+**ID:** `UNI-ENG-12-music-evolution-001-v3`
+
 ID: UNI-ENG-12-music-evolution-001-v3
 
 ### Enunciado
@@ -81,6 +88,8 @@ The words of a song are called...
 ---
 
 ## Question 4 (Part 4 - Rhythm)
+**ID:** `UNI-ENG-12-music-evolution-001-v4`
+
 ID: UNI-ENG-12-music-evolution-001-v4
 
 ### Enunciado
@@ -99,6 +108,8 @@ The pattern of regular or irregular pulses caused in music (the beat).
 ---
 
 ## Question 5 (Part 5 - Charts)
+**ID:** `UNI-ENG-12-music-evolution-001-v5`
+
 ID: UNI-ENG-12-music-evolution-001-v5
 
 ### Enunciado
@@ -117,6 +128,8 @@ If a song is number one on the "Billboard Hot 100", it is top of the...
 ---
 
 ## Question 6 (Part 6 - Gig)
+**ID:** `UNI-ENG-12-music-evolution-001-v6`
+
 ID: UNI-ENG-12-music-evolution-001-v6
 
 ### Contexto
@@ -138,6 +151,8 @@ ID: UNI-ENG-12-music-evolution-001-v6
 ---
 
 ## Question 7 (Part 7 - Copyright)
+**ID:** `UNI-ENG-12-music-evolution-001-v7`
+
 ID: UNI-ENG-12-music-evolution-001-v7
 
 ### Enunciado
@@ -156,6 +171,8 @@ The legal right that protects an artist's music from being stolen or used withou
 ---
 
 ## Question 8 (Part 8 - Autotune)
+**ID:** `UNI-ENG-12-music-evolution-001-v8`
+
 ID: UNI-ENG-12-music-evolution-001-v8
 
 ### Enunciado
@@ -174,6 +191,8 @@ Digital software used to correct a singer's pitch (often used in Pop/Rap).
 ---
 
 ## Question 9 (Part 9 - Busking)
+**ID:** `UNI-ENG-12-music-evolution-001-v9`
+
 ID: UNI-ENG-12-music-evolution-001-v9
 
 ### Contexto
@@ -195,6 +214,8 @@ This is called...
 ---
 
 ## Question 10 (Part 10 - Anthem)
+**ID:** `UNI-ENG-12-music-evolution-001-v10`
+
 ID: UNI-ENG-12-music-evolution-001-v10
 
 ### Enunciado

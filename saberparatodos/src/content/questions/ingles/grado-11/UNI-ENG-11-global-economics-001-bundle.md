@@ -6,6 +6,7 @@ asignatura: ingles
 tema: global-economics
 cefr_level: B2
 protocol_version: 3.2-GLOBAL
+periodo: 1
 total_questions: 10
 international_focus: Macroeconomics / Trade / Policies
 licenses:
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - GDP)
+**ID:** `UNI-ENG-11-global-economics-001-v1`
+
 ID: UNI-ENG-11-global-economics-001-v1
 
 ### Enunciado
@@ -42,6 +45,8 @@ The total value of all goods and services produced by a country in a year.
 ---
 
 ## Question 2 (Part 2 - Supply Chain)
+**ID:** `UNI-ENG-11-global-economics-001-v2`
+
 ID: UNI-ENG-11-global-economics-001-v2
 
 ### Contexto
@@ -63,6 +68,8 @@ This is the...
 ---
 
 ## Question 3 (Part 3 - Export vs Import)
+**ID:** `UNI-ENG-11-global-economics-001-v3`
+
 ID: UNI-ENG-11-global-economics-001-v3
 
 ### Enunciado
@@ -81,6 +88,8 @@ If Brazil sells coffee to France, for Brazil this is an...
 ---
 
 ## Question 4 (Part 4 - Tariff)
+**ID:** `UNI-ENG-11-global-economics-001-v4`
+
 ID: UNI-ENG-11-global-economics-001-v4
 
 ### Contexto
@@ -102,6 +111,8 @@ What is this tax called?
 ---
 
 ## Question 5 (Part 5 - Globalization)
+**ID:** `UNI-ENG-11-global-economics-001-v5`
+
 ID: UNI-ENG-11-global-economics-001-v5
 
 ### Enunciado
@@ -120,6 +131,8 @@ The increasing interconnectedness of world economies and cultures is...
 ---
 
 ## Question 6 (Part 6 - Recession)
+**ID:** `UNI-ENG-11-global-economics-001-v6`
+
 ID: UNI-ENG-11-global-economics-001-v6
 
 ### Enunciado
@@ -138,6 +151,8 @@ A period of temporary economic decline (usually 2 consecutive quarters of negati
 ---
 
 ## Question 7 (Part 7 - Currency)
+**ID:** `UNI-ENG-11-global-economics-001-v7`
+
 ID: UNI-ENG-11-global-economics-001-v7
 
 ### Contexto
@@ -159,6 +174,8 @@ This is called Currency...
 ---
 
 ## Question 8 (Part 8 - Outsourcing)
+**ID:** `UNI-ENG-11-global-economics-001-v8`
+
 ID: UNI-ENG-11-global-economics-001-v8
 
 ### Enunciado
@@ -177,6 +194,8 @@ When a company hires another company (often in another country) to do work for t
 ---
 
 ## Question 9 (Part 9 - Monopoly)
+**ID:** `UNI-ENG-11-global-economics-001-v9`
+
 ID: UNI-ENG-11-global-economics-001-v9
 
 ### Contexto
@@ -198,6 +217,8 @@ This is a...
 ---
 
 ## Question 10 (Part 10 - Market Forces)
+**ID:** `UNI-ENG-11-global-economics-001-v10`
+
 ID: UNI-ENG-11-global-economics-001-v10
 
 ### Enunciado

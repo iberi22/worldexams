@@ -4,19 +4,25 @@ country: co
 grado: 5
 asignatura: ingles
 tema: seasons-months
+periodo: 1
 cefr_level: A1+
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: Seasons & Months (A1+)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-05-seasons-months-107-v1`
+
+
+**ID:** `CO-ENG-05-seasons-months-107-v1`
+
 ### Enunciado
 **The first month of the year is _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-05-seasons-months-107-v2`
+
+
+**ID:** `CO-ENG-05-seasons-months-107-v2`
+
 ### Enunciado
 **In Colombia, we have (1)_______ rainy season from April (2)_______ June.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-05-seasons-months-107-v3`
+
+
+**ID:** `CO-ENG-05-seasons-months-107-v3`
+
 ### Contexto
 **Text:** "There are twelve months in a year. My favorite month is December because we have Christmas and a long vacation. February is the shortest month."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-05-seasons-months-107-v4`
+
+
+**ID:** `CO-ENG-05-seasons-months-107-v4`
+
 ### Enunciado
 **The season when it is very cold and sometimes snows is _______.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-05-seasons-months-107-v5`
+
+
+**ID:** `CO-ENG-05-seasons-months-107-v5`
+
 ### Contexto
 **Teacher:** "When is your birthday?"
 **Student:** "It is on May 15th."
@@ -104,6 +130,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-05-seasons-months-107-v6`
+
+
+**ID:** `CO-ENG-05-seasons-months-107-v6`
+
 ### Contexto
 **Passage:** "The leaves on the trees are turning yellow and brown. They are falling to the ground. The weather is getting cooler."
 ### Enunciado
@@ -121,6 +152,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-05-seasons-months-107-v7`
+
+
+**ID:** `CO-ENG-05-seasons-months-107-v7`
+
 ### Contexto
 **Person A:** "What's the weather like in July?"
 **Person B:** "____________"
@@ -139,6 +175,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Prepositions of Time)
+**ID:** `CO-ENG-05-seasons-months-107-v8`
+
+
+**ID:** `CO-ENG-05-seasons-months-107-v8`
+
 ### Enunciado
 **My school starts (1)_______ February and ends (2)_______ November.**
 ### Opciones
@@ -154,6 +195,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-05-seasons-months-107-v9`
+
+
+**ID:** `CO-ENG-05-seasons-months-107-v9`
+
 ### Enunciado
 **August is the eighth _______ of the year.**
 ### Opciones
@@ -169,6 +215,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Cultural)
+**ID:** `CO-ENG-05-seasons-months-107-v10`
+
+
+**ID:** `CO-ENG-05-seasons-months-107-v10`
+
 ### Enunciado
 **In Colombia, August is famous for the 'viento' (wind), so children play with _______ (kites).**
 ### Opciones

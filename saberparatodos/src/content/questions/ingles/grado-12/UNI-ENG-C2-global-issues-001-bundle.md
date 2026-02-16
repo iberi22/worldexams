@@ -6,6 +6,7 @@ asignatura: ingles
 tema: global-issues
 cefr_level: C2
 protocol_version: 3.1-GLOBAL
+periodo: 1
 total_questions: 10
 international_focus: CPE / GRE / LSAT Reading
 licenses:
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Sophisticated Vocabulary - Difficulty 5)
+**ID:** `UNI-ENG-C2-global-issues-001-v1`
+
 ID: UNI-ENG-C2-global-issues-001-v1
 
 ### Enunciado
@@ -42,6 +45,8 @@ ID: UNI-ENG-C2-global-issues-001-v1
 ---
 
 ## Question 2 (Part 1 - Sophisticated Vocabulary - Difficulty 5)
+**ID:** `UNI-ENG-C2-global-issues-001-v2`
+
 ID: UNI-ENG-C2-global-issues-001-v2
 
 ### Enunciado
@@ -60,6 +65,8 @@ ID: UNI-ENG-C2-global-issues-001-v2
 ---
 
 ## Question 3 (Part 2 - Idiomatic Nuance - Difficulty 5)
+**ID:** `UNI-ENG-C2-global-issues-001-v3`
+
 ID: UNI-ENG-C2-global-issues-001-v3
 
 ### Contexto
@@ -82,6 +89,8 @@ What does the idiom "sound and fury" imply about the speech?
 ---
 
 ## Question 4 (Part 3 - Rhetorical Devices - Difficulty 5)
+**ID:** `UNI-ENG-C2-global-issues-001-v4`
+
 ID: UNI-ENG-C2-global-issues-001-v4
 
 ### Contexto
@@ -104,6 +113,8 @@ Which rhetorical device is primarily used in this sentence?
 ---
 
 ## Question 5 (Part 4 - Inversion & Emphasis - Difficulty 5)
+**ID:** `UNI-ENG-C2-global-issues-001-v5`
+
 ID: UNI-ENG-C2-global-issues-001-v5
 
 ### Contexto
@@ -126,6 +137,8 @@ Choose the correct structure to complete the specific inversion.
 ---
 
 ## Question 6 (Part 5 - Critical Inference - Difficulty 5)
+**ID:** `UNI-ENG-C2-global-issues-001-v6`
+
 ID: UNI-ENG-C2-global-issues-001-v6
 
 ### Contexto
@@ -148,6 +161,8 @@ What is the author's primary argument about scientific discovery?
 ---
 
 ## Question 7 (Part 6 - Logical Fallacies - Difficulty 5)
+**ID:** `UNI-ENG-C2-global-issues-001-v7`
+
 ID: UNI-ENG-C2-global-issues-001-v7
 
 ### Contexto
@@ -170,6 +185,8 @@ Identify the logical fallacy in this argument.
 ---
 
 ## Question 8 (Part 7 - Advanced Phrasal Verbs - Difficulty 5)
+**ID:** `UNI-ENG-C2-global-issues-001-v8`
+
 ID: UNI-ENG-C2-global-issues-001-v8
 
 ### Contexto
@@ -192,6 +209,8 @@ Choose the most precise phrasal verb meaning "to abolish or discard."
 ---
 
 ## Question 9 (Part 8 - Subtlety of Meaning - Difficulty 5)
+**ID:** `UNI-ENG-C2-global-issues-001-v9`
+
 ID: UNI-ENG-C2-global-issues-001-v9
 
 ### Contexto
@@ -214,6 +233,8 @@ Choose the word that implies a lack of appropriate emotion or seriousness.
 ---
 
 ## Question 10 (Part 9 - Cloze / Proficiency - Difficulty 5)
+**ID:** `UNI-ENG-C2-global-issues-001-v10`
+
 ID: UNI-ENG-C2-global-issues-001-v10
 
 ### Contexto

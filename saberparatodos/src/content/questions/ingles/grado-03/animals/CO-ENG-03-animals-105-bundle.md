@@ -4,19 +4,25 @@ country: co
 grado: 3
 asignatura: ingles
 tema: animals
+periodo: 1
 cefr_level: Pre-A1
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Animals (Pre-A1)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-03-animals-105-v1`
+
+
+**ID:** `CO-ENG-03-animals-105-v1`
+
 ### Enunciado
 **This animal says "Woof woof!"**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Vocabulary)
+**ID:** `CO-ENG-03-animals-105-v2`
+
+
+**ID:** `CO-ENG-03-animals-105-v2`
+
 ### Enunciado
 **This animal says "Meow!"**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Vocabulary)
+**ID:** `CO-ENG-03-animals-105-v3`
+
+
+**ID:** `CO-ENG-03-animals-105-v3`
+
 ### Enunciado
 **This animal is big and gray. It has a long nose (trunk).**
 ### Opciones
@@ -69,6 +85,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-03-animals-105-v4`
+
+
+**ID:** `CO-ENG-03-animals-105-v4`
+
 ### Enunciado
 **This animal lives in the water.**
 ### Opciones
@@ -84,6 +105,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Vocabulary)
+**ID:** `CO-ENG-03-animals-105-v5`
+
+
+**ID:** `CO-ENG-03-animals-105-v5`
+
 ### Enunciado
 **This animal is yellow and has a long neck.**
 ### Opciones
@@ -99,6 +125,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Vocabulary)
+**ID:** `CO-ENG-03-animals-105-v6`
+
+
+**ID:** `CO-ENG-03-animals-105-v6`
+
 ### Enunciado
 **This animal says "Moo!"**
 ### Opciones
@@ -114,6 +145,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Vocabulary)
+**ID:** `CO-ENG-03-animals-105-v7`
+
+
+**ID:** `CO-ENG-03-animals-105-v7`
+
 ### Enunciado
 **This animal can fly.**
 ### Opciones
@@ -129,6 +165,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Vocabulary)
+**ID:** `CO-ENG-03-animals-105-v8`
+
+
+**ID:** `CO-ENG-03-animals-105-v8`
+
 ### Enunciado
 **This animal is the "King of the Jungle" and says "Roar!"**
 ### Opciones
@@ -144,6 +185,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-03-animals-105-v9`
+
+
+**ID:** `CO-ENG-03-animals-105-v9`
+
 ### Enunciado
 **This animal is small and loves cheese.**
 ### Opciones
@@ -159,6 +205,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Cultural)
+**ID:** `CO-ENG-03-animals-105-v10`
+
+
+**ID:** `CO-ENG-03-animals-105-v10`
+
 ### Enunciado
 **This colorful bird is very common in Colombia and can talk.**
 ### Opciones

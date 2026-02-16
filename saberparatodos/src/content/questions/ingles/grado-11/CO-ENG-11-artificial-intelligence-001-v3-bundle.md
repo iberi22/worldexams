@@ -6,6 +6,7 @@ asignatura: ingles
 tema: artificial-intelligence
 cefr_level: B2
 protocol_version: 3.1-GLOBAL
+periodo: 1
 total_questions: 10
 international_focus: TOEFL Reading / Cambridge B2 First
 licenses:
@@ -22,6 +23,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Vocabulary - Difficulty 1)
+**ID:** `CO-ENG-11-artificial-intelligence-001-v1`
+
 ID: CO-ENG-11-artificial-intelligence-001-v1
 
 ### Enunciado
@@ -47,6 +50,8 @@ ID: CO-ENG-11-artificial-intelligence-001-v1
 ---
 
 ## Question 2 (Part 1 - Vocabulary - Difficulty 1)
+**ID:** `CO-ENG-11-artificial-intelligence-001-v2`
+
 ID: CO-ENG-11-artificial-intelligence-001-v2
 
 ### Enunciado
@@ -65,6 +70,8 @@ ID: CO-ENG-11-artificial-intelligence-001-v2
 ---
 
 ## Question 3 (Part 2 - Signs - Difficulty 2)
+**ID:** `CO-ENG-11-artificial-intelligence-001-v3`
+
 ID: CO-ENG-11-artificial-intelligence-001-v3
 
 ### Contexto
@@ -86,6 +93,8 @@ What is required to enter the AI LAB?
 ---
 
 ## Question 4 (Part 3 - Conversation - Difficulty 2)
+**ID:** `CO-ENG-11-artificial-intelligence-001-v4`
+
 ID: CO-ENG-11-artificial-intelligence-001-v4
 
 ### Contexto
@@ -108,6 +117,8 @@ Choose the most balanced and grammatically correct response.
 ---
 
 ## Question 5 (Part 4 - Cloze I - Difficulty 3)
+**ID:** `CO-ENG-11-artificial-intelligence-001-v5`
+
 ID: CO-ENG-11-artificial-intelligence-001-v5
 
 ### Contexto
@@ -130,6 +141,8 @@ Choose the correct word for (5).
 ---
 
 ## Question 6 (Part 4 - Cloze I - Difficulty 3)
+**ID:** `CO-ENG-11-artificial-intelligence-001-v6`
+
 ID: CO-ENG-11-artificial-intelligence-001-v6
 
 ### Enunciado
@@ -148,6 +161,8 @@ Choose the correct word for (6).
 ---
 
 ## Question 7 (Part 5 - Literal Reading - Difficulty 4)
+**ID:** `CO-ENG-11-artificial-intelligence-001-v7`
+
 ID: CO-ENG-11-artificial-intelligence-001-v7
 
 ### Contexto
@@ -170,6 +185,8 @@ How do deep learning models differ from traditional algorithms according to the 
 ---
 
 ## Question 8 (Part 6 - Inferential Reading - Difficulty 4)
+**ID:** `CO-ENG-11-artificial-intelligence-001-v8`
+
 ID: CO-ENG-11-artificial-intelligence-001-v8
 
 ### Contexto
@@ -192,6 +209,8 @@ What can be inferred about the development of Deep Learning?
 ---
 
 ## Question 9 (Part 7 - Cloze II - Difficulty 5)
+**ID:** `CO-ENG-11-artificial-intelligence-001-v9`
+
 ID: CO-ENG-11-artificial-intelligence-001-v9
 
 ### Contexto
@@ -214,6 +233,8 @@ Choose the correct word for (9).
 ---
 
 ## Question 10 (Part 7 - Cloze II - Difficulty 5)
+**ID:** `CO-ENG-11-artificial-intelligence-001-v10`
+
 ID: CO-ENG-11-artificial-intelligence-001-v10
 
 ### Enunciado

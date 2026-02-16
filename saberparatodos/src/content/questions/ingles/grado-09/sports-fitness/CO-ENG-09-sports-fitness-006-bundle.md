@@ -4,19 +4,22 @@ country: co
 grado: 9
 asignatura: ingles
 tema: sports-fitness
+periodo: 1
 cefr_level: B1+
 protocol_version: 3.0-COL
 total_questions: 10
 international_focus: Cambridge PET & Sports Vocabulary
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Sports & Fitness (B1+)
 
 ---
 
 ## Question 1 (Part 1 - Vocabulary)
+**ID:** `CO-ENG-09-sports-fitness-006-v1`
+
 ID: CO-ENG-09-sports-fitness-006-v1
 
 ### Enunciado
@@ -34,6 +37,8 @@ Match definition: **"The person who makes decisions and enforces rules during a 
 ---
 
 ## Question 2 (Part 2 - Pragmatics)
+**ID:** `CO-ENG-09-sports-fitness-006-v2`
+
 ID: CO-ENG-09-sports-fitness-006-v2
 
 ### Contexto
@@ -55,6 +60,8 @@ ID: CO-ENG-09-sports-fitness-006-v2
 ---
 
 ## Question 3 (Part 3 - Conversation)
+**ID:** `CO-ENG-09-sports-fitness-006-v3`
+
 ID: CO-ENG-09-sports-fitness-006-v3
 
 ### Contexto
@@ -77,6 +84,8 @@ ID: CO-ENG-09-sports-fitness-006-v3
 ---
 
 ## Question 4 (Part 4 - Grammar Cloze I)
+**ID:** `CO-ENG-09-sports-fitness-006-v4`
+
 ID: CO-ENG-09-sports-fitness-006-v4
 
 ### Contexto
@@ -98,6 +107,8 @@ ID: CO-ENG-09-sports-fitness-006-v4
 ---
 
 ## Question 5 (Part 5 - Literal Reading)
+**ID:** `CO-ENG-09-sports-fitness-006-v5`
+
 ID: CO-ENG-09-sports-fitness-006-v5
 
 ### Contexto
@@ -119,6 +130,8 @@ ID: CO-ENG-09-sports-fitness-006-v5
 ---
 
 ## Question 6 (Part 6 - Inferential Reading)
+**ID:** `CO-ENG-09-sports-fitness-006-v6`
+
 ID: CO-ENG-09-sports-fitness-006-v6
 
 ### Contexto
@@ -140,6 +153,8 @@ ID: CO-ENG-09-sports-fitness-006-v6
 ---
 
 ## Question 7 (Part 7 - Grammar Cloze II)
+**ID:** `CO-ENG-09-sports-fitness-006-v7`
+
 ID: CO-ENG-09-sports-fitness-006-v7
 
 ### Contexto
@@ -161,6 +176,8 @@ ID: CO-ENG-09-sports-fitness-006-v7
 ---
 
 ## Question 8 (Challenge - Vocabulary)
+**ID:** `CO-ENG-09-sports-fitness-006-v8`
+
 ID: CO-ENG-09-sports-fitness-006-v8
 
 ### Enunciado
@@ -178,6 +195,8 @@ ID: CO-ENG-09-sports-fitness-006-v8
 ---
 
 ## Question 9 (Challenge - Scenario)
+**ID:** `CO-ENG-09-sports-fitness-006-v9`
+
 ID: CO-ENG-09-sports-fitness-006-v9
 
 ### Contexto
@@ -199,6 +218,8 @@ Your team loses an important game because of a referee's bad call.
 ---
 
 ## Question 10 (Challenge - Critical Thinking)
+**ID:** `CO-ENG-09-sports-fitness-006-v10`
+
 ID: CO-ENG-09-sports-fitness-006-v10
 
 ### Contexto

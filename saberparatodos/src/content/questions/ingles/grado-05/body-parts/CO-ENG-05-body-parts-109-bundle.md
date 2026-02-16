@@ -4,19 +4,25 @@ country: co
 grado: 5
 asignatura: ingles
 tema: body-parts
+periodo: 1
 cefr_level: A1+
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: My Body (A1+)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-05-body-parts-109-v1`
+
+
+**ID:** `CO-ENG-05-body-parts-109-v1`
+
 ### Enunciado
 **You use your _______ to see things.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-05-body-parts-109-v2`
+
+
+**ID:** `CO-ENG-05-body-parts-109-v2`
+
 ### Enunciado
 **I (1)_______ two arms and two (2)_______.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-05-body-parts-109-v3`
+
+
+**ID:** `CO-ENG-05-body-parts-109-v3`
+
 ### Contexto
 **Text:** "This is a monster. It has one big eye, three arms, and four short legs. It is purple and very friendly."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-05-body-parts-109-v4`
+
+
+**ID:** `CO-ENG-05-body-parts-109-v4`
+
 ### Enunciado
 **You use your _______ to smell flowers.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-05-body-parts-109-v5`
+
+
+**ID:** `CO-ENG-05-body-parts-109-v5`
+
 ### Contexto
 **Person A:** "Touch your head!"
 **Person B:** (Touches their forehead)
@@ -104,6 +130,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-05-body-parts-109-v6`
+
+
+**ID:** `CO-ENG-05-body-parts-109-v6`
+
 ### Contexto
 **Passage:** "Luisa is wearing a hat. She is smiling and showing her white teeth."
 ### Enunciado
@@ -121,6 +152,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-05-body-parts-109-v7`
+
+
+**ID:** `CO-ENG-05-body-parts-109-v7`
+
 ### Contexto
 **Person A:** "What color are your eyes?"
 **Person B:** "____________"
@@ -139,6 +175,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Singular/Plural)
+**ID:** `CO-ENG-05-body-parts-109-v8`
+
+
+**ID:** `CO-ENG-05-body-parts-109-v8`
+
 ### Enunciado
 **I have one (1)_______ and ten (2)_______.**
 ### Opciones
@@ -154,6 +195,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-05-body-parts-109-v9`
+
+
+**ID:** `CO-ENG-05-body-parts-109-v9`
+
 ### Enunciado
 **You use your _______ to listen to music.**
 ### Opciones
@@ -169,6 +215,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Cultural)
+**ID:** `CO-ENG-05-body-parts-109-v10`
+
+
+**ID:** `CO-ENG-05-body-parts-109-v10`
+
 ### Enunciado
 **In the famous children's song 'Head, Shoulders, Knees and Toes', we touch our body parts to learn their _______ in English.**
 ### Opciones

@@ -4,19 +4,25 @@ country: co
 grado: 4
 asignatura: ingles
 tema: feelings-emotions
+periodo: 1
 cefr_level: A1
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: Feelings & Emotions (A1)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-04-feelings-emotions-110-v1`
+
+
+**ID:** `CO-ENG-04-feelings-emotions-110-v1`
+
 ### Enunciado
 **When you win a game, you feel _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-04-feelings-emotions-110-v2`
+
+
+**ID:** `CO-ENG-04-feelings-emotions-110-v2`
+
 ### Enunciado
 **She (1)_______ sad because she (2)_______ find her toy.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-04-feelings-emotions-110-v3`
+
+
+**ID:** `CO-ENG-04-feelings-emotions-110-v3`
+
 ### Contexto
 **Text:** "Carlos is very tired. He worked all day. Now he wants to go to his bedroom and sleep. He is not hungry, just sleepy."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-04-feelings-emotions-110-v4`
+
+
+**ID:** `CO-ENG-04-feelings-emotions-110-v4`
+
 ### Enunciado
 **When you see a big spider, you might feel _______.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-04-feelings-emotions-110-v5`
+
+
+**ID:** `CO-ENG-04-feelings-emotions-110-v5`
+
 ### Contexto
 **Friend:** "My dog died yesterday."
 **You:** "I'm so sorry to hear that. How are you feeling?"
@@ -104,6 +130,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-04-feelings-emotions-110-v6`
+
+
+**ID:** `CO-ENG-04-feelings-emotions-110-v6`
+
 ### Contexto
 **Passage:** "Luis is jumping and shouting: 'We won! We won!'. His face is bright red and he is smiling."
 ### Enunciado
@@ -121,6 +152,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-04-feelings-emotions-110-v7`
+
+
+**ID:** `CO-ENG-04-feelings-emotions-110-v7`
+
 ### Contexto
 **Person A:** "Are you angry with me?"
 **Person B:** "____________"
@@ -139,6 +175,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Verbs of Feeling)
+**ID:** `CO-ENG-04-feelings-emotions-110-v8`
+
+
+**ID:** `CO-ENG-04-feelings-emotions-110-v8`
+
 ### Enunciado
 **I (1)_______ happy when I (2)_______ with my friends.**
 ### Opciones
@@ -154,6 +195,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-04-feelings-emotions-110-v9`
+
+
+**ID:** `CO-ENG-04-feelings-emotions-110-v9`
+
 ### Enunciado
 **If you have nothing to do, you might feel _______.**
 ### Opciones
@@ -169,6 +215,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Cultural)
+**ID:** `CO-ENG-04-feelings-emotions-110-v10`
+
+
+**ID:** `CO-ENG-04-feelings-emotions-110-v10`
+
 ### Enunciado
 **On December 7th, Colombians feel very happy celebrating 'Día de las Velitas' with their _______ and neighbors.**
 ### Opciones

@@ -77,7 +77,7 @@
   let isIntegrityCheck = $state(false); // Integrity check state
   let isPreparingExam = $state(false); // Controls IntegrityIntro loading state
   let generatedExamQuestions = $state(null); // Store smart generated questions
-  let examConfig = $state({ count: 10, mode: 'SOLO' }); // New state
+  let examConfig = $state({ count: 10, mode: 'SOLO', useDiagnostic: false, diagnosticMixPercent: 20 }); // New state
   let MAX_EXAM_QUESTIONS = $state(10); // Max questions for exam
   let showLocalReports = $state(false); // Modal for local reports
   let showOfflineProfile = $state(false); // Modal for offline profile
@@ -232,6 +232,7 @@
       grade: config.grade,
       mode: config.mode,
       count: config.count,
+      diagnosticMixPercent: config.diagnosticMixPercent,
       period: config.period // 🆕 Log period
     });
 
@@ -401,6 +402,13 @@
 
          const subjectMatch = subjectsMatch(q.category, selectedSubject);
          if (!subjectMatch) return false;
+         if (config.examMode === 'period' && config.period) {
+             if (q.periodo !== undefined && q.periodo !== null) {
+                 if (Number(q.periodo) !== Number(config.period)) return false;
+             } else {
+                 return false;
+             }
+         }
          if (config.useDiagnostic) {
             return q.grade === selectedGrade || (q.grade < selectedGrade && [3,5,7,9].includes(q.grade));
          } else {
@@ -427,8 +435,36 @@
          console.warn(`Original pool had ${finalAvailableQuestions.length}, filtered to ${validPool.length} valid questions.`);
       }
 
+      // Optional controlled mix of lower grades. Applied only at exam creation time.
+      let selectionPool = validPool;
+      if (config.useDiagnostic && selectedGrade > 3) {
+        const mixPercentRaw = Number(config.diagnosticMixPercent ?? 20);
+        const mixPercent = Math.max(0, Math.min(100, isNaN(mixPercentRaw) ? 20 : mixPercentRaw));
+        const lowerGrades = [3, 5, 7, 9].filter(g => g < selectedGrade);
+
+        const currentGradePool = validPool.filter(q => q.grade === selectedGrade);
+        const lowerGradePool = validPool.filter(q => q.grade < selectedGrade && lowerGrades.includes(q.grade));
+
+        if (lowerGradePool.length > 0 && currentGradePool.length > 0) {
+          const oversample = 4;
+          const targetLower = Math.max(1, Math.round((config.count * mixPercent) / 100));
+          const targetCurrent = Math.max(1, config.count - targetLower);
+
+          const pick = (arr, n) => [...arr].sort(() => Math.random() - 0.5).slice(0, Math.min(arr.length, n));
+          const mixed = [
+            ...pick(currentGradePool, targetCurrent * oversample),
+            ...pick(lowerGradePool, targetLower * oversample)
+          ];
+
+          if (mixed.length > 0) {
+            selectionPool = mixed;
+            console.log(`🧪 Mixed pool enabled: ${mixPercent}% lower grades (${lowerGradePool.length} lower, ${currentGradePool.length} current).`);
+          }
+        }
+      }
+
       const { filtered, hadToRepeat } = filterUnansweredQuestions(
-        validPool,
+        selectionPool,
         config.count
       );
 
@@ -923,11 +959,8 @@
         try {
           // 🆕 Load only grade 11 by default (optimized)
           if (loadedQuestions.length === 0) {
-            const { fetchQuestionsForGrade, prefetchAllGrades } = await import('../lib/api-service');
+            const { fetchQuestionsForGrade } = await import('../lib/api-service');
             loadedQuestions = await fetchQuestionsForGrade(11, 150);
-
-            // 🆕 Pre-fetch all other grades in background for instant switching
-            prefetchAllGrades(150).catch(e => console.warn('Background prefetch error:', e));
           }
           // 🆕 Save subject filter to pass to BlogView
           blogSubjectFilter = subject || null;

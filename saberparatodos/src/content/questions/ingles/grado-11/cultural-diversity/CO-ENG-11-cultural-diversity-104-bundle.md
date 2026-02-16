@@ -5,8 +5,9 @@ grado: 11
 asignatura: ingles
 tema: cultural-diversity
 cefr_level: B2/C1
-protocol_version: 3.1-COL-Bilingual
-total_questions: 10
+protocol_version: 2.1
+periodo: 1
+total_questions: 2
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
@@ -17,6 +18,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Vocabulary)
+**ID:** `CO-ENG-11-cultural-diversity-104-v1`
+
 ID: CO-ENG-11-cultural-diversity-104-v1
 
 ### Enunciado
@@ -43,6 +46,8 @@ ID: CO-ENG-11-cultural-diversity-104-v1
 ---
 
 ## Question 2 (Part 2 - Pragmatics)
+**ID:** `CO-ENG-11-cultural-diversity-104-v2`
+
 ID: CO-ENG-11-cultural-diversity-104-v2
 
 ### Contexto
@@ -61,10 +66,5 @@ ID: CO-ENG-11-cultural-diversity-104-v2
 **English:** "Be mindful" = be aware/considerate. The sign promotes cultural sensitivity—understanding that norms vary.
 
 *Español: "Be mindful" = ser consciente/considerado. El letrero promueve sensibilidad cultural—entender que las normas varían.*
-
----
-
-## Question 3-10 (Continued with same format...)
-[Each question has full bilingual explanations]
 
 ---

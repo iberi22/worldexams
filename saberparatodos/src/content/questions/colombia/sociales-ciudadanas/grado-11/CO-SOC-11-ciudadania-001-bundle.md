@@ -5,7 +5,7 @@ grado: 11
 asignatura: Sociales y Ciudadanas
 tema: derechos
 bundle_version: '2.1'
-total_questions: 7
+total_questions: 4
 difficulty_distribution: 1 original (High) + 2 Low + 2 Medium + 2 High
 estado: review
 creador: Antigravity

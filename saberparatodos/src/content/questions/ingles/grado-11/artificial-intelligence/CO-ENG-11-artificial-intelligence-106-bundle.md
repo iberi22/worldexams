@@ -6,6 +6,7 @@ asignatura: ingles
 tema: artificial-intelligence
 cefr_level: B2/C1
 protocol_version: 3.1-COL-Bilingual
+periodo: 1
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
@@ -17,6 +18,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-11-artificial-intelligence-106-v1`
+
 ### Enunciado
 **The ability of a machine to simulate human cognitive functions is known as _______.**
 ### Opciones
@@ -39,6 +42,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-11-artificial-intelligence-106-v2`
+
 ### Enunciado
 **AI (1)_______ rapidly in recent years, and it (2)_______ to change our lives significantly.**
 ### Opciones
@@ -54,6 +59,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-11-artificial-intelligence-106-v3`
+
 ### Contexto
 **Text:** "Ethical considerations in AI development include data privacy, algorithmic bias, and the potential for job displacement. Developers are urged to prioritize human-centric designs."
 ### Enunciado
@@ -71,6 +78,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-11-artificial-intelligence-106-v4`
+
 ### Enunciado
 **When an algorithm produces unfair results due to flawed assumptions, it is called _______.**
 ### Opciones
@@ -86,6 +95,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-11-artificial-intelligence-106-v5`
+
 ### Contexto
 **Comment:** "AI is a double-edged sword. It can cure diseases, but it can also create autonomous weapons."
 ### Enunciado
@@ -103,6 +114,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-11-artificial-intelligence-106-v6`
+
 ### Contexto
 **Passage:** "While some fear that AI will replace millions of workers, history shows that technological revolutions usually create more jobs than they destroy, although the new jobs require different skills."
 ### Enunciado
@@ -120,6 +133,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-11-artificial-intelligence-106-v7`
+
 ### Contexto
 **Student A:** "Do you think AI should be regulated by the government?"
 **Student B:** "____________"
@@ -138,6 +153,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Advanced)
+**ID:** `CO-ENG-11-artificial-intelligence-106-v8`
+
 ### Enunciado
 **Had we known the risks, we _______ more careful with the data.**
 ### Opciones
@@ -153,6 +170,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-11-artificial-intelligence-106-v9`
+
 ### Enunciado
 **The principle that AI systems should be easy for humans to understand and explain is _______.**
 ### Opciones
@@ -168,6 +187,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Critical Thinking)
+**ID:** `CO-ENG-11-artificial-intelligence-106-v10`
+
 ### Contexto
 **Statement:** "If an autonomous car causes an accident, who is responsible: the owner, the manufacturer, or the software developer?"
 ### Enunciado

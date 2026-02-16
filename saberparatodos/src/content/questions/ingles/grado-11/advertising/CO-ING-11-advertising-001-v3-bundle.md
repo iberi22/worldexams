@@ -6,6 +6,7 @@ asignatura: ingles
 tema: advertising
 cefr_level: B2
 protocol_version: 3.0-COL
+periodo: 1
 total_questions: 10
 international_focus: TOEFL Reading - Marketing
 estado: approved
@@ -28,6 +29,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Vocabulary)
+**ID:** `CO-ING-11-advertising-001-v1`
+
 ID: CO-ING-11-advertising-001-v1
 
 ### Contexto
@@ -58,6 +61,8 @@ Match definition **"1. A short and striking or memorable phrase used in advertis
 ---
 
 ## Question 2 (Part 1 - Vocabulary)
+**ID:** `CO-ING-11-advertising-001-v2`
+
 ID: CO-ING-11-advertising-001-v2
 
 ### Contexto
@@ -88,6 +93,8 @@ Match definition **"2. Paid announcements in print, broadcast, or electronic med
 ---
 
 ## Question 3 (Part 2 - Signs)
+**ID:** `CO-ING-11-advertising-001-v3`
+
 ID: CO-ING-11-advertising-001-v3
 
 ### Contexto
@@ -109,6 +116,8 @@ What does this sign mean?
 ---
 
 ## Question 4 (Part 3 - Conversations)
+**ID:** `CO-ING-11-advertising-001-v4`
+
 ID: CO-ING-11-advertising-001-v4
 
 ### Contexto
@@ -132,6 +141,8 @@ Choose the most appropriate response for the Boy.
 ---
 
 ## Question 5 (Part 4 - Cloze Test I)
+**ID:** `CO-ING-11-advertising-001-v5`
+
 ID: CO-ING-11-advertising-001-v5
 
 ### Contexto
@@ -155,6 +166,8 @@ Choose the correct word for (1).
 ---
 
 ## Question 6 (Part 4 - Cloze Test I)
+**ID:** `CO-ING-11-advertising-001-v6`
+
 ID: CO-ING-11-advertising-001-v6
 
 ### Contexto
@@ -178,6 +191,8 @@ Choose the correct word for (2).
 ---
 
 ## Question 7 (Part 5 - Literal Reading)
+**ID:** `CO-ING-11-advertising-001-v7`
+
 ID: CO-ING-11-advertising-001-v7
 
 ### Contexto
@@ -199,6 +214,8 @@ What is the main difference between digital ads and traditional TV ads mentioned
 ---
 
 ## Question 8 (Part 6 - Inferential Reading)
+**ID:** `CO-ING-11-advertising-001-v8`
+
 ID: CO-ING-11-advertising-001-v8
 
 ### Contexto
@@ -220,6 +237,8 @@ What implies the author's concern about the future of advertising?
 ---
 
 ## Question 9 (Part 7 - Cloze Test II)
+**ID:** `CO-ING-11-advertising-001-v9`
+
 ID: CO-ING-11-advertising-001-v9
 
 ### Contexto
@@ -241,6 +260,8 @@ Choose the correct word to complete the text.
 ---
 
 ## Question 10 (Bonus - C1 Challenge)
+**ID:** `CO-ING-11-advertising-001-v10`
+
 ID: CO-ING-11-advertising-001-v10
 
 ### Enunciado

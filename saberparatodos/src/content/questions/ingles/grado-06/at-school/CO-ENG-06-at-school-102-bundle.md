@@ -4,19 +4,25 @@ country: co
 grado: 6
 asignatura: ingles
 tema: at-school
+periodo: 1
 cefr_level: A2
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: At School (A2)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-06-at-school-102-v1`
+
+
+**ID:** `CO-ENG-06-at-school-102-v1`
+
 ### Enunciado
 **We write on the board with _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-06-at-school-102-v2`
+
+
+**ID:** `CO-ENG-06-at-school-102-v2`
+
 ### Enunciado
 **I _______ my backpack to school every day.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Vocabulary)
+**ID:** `CO-ENG-06-at-school-102-v3`
+
+
+**ID:** `CO-ENG-06-at-school-102-v3`
+
 ### Enunciado
 **The person who helps students learn is the _______.**
 ### Opciones
@@ -69,6 +85,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Grammar)
+**ID:** `CO-ENG-06-at-school-102-v4`
+
+
+**ID:** `CO-ENG-06-at-school-102-v4`
+
 ### Enunciado
 **Where _______ your school?**
 ### Opciones
@@ -84,6 +105,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Vocabulary)
+**ID:** `CO-ENG-06-at-school-102-v5`
+
+
+**ID:** `CO-ENG-06-at-school-102-v5`
+
 ### Enunciado
 **I use a _______ to find the meaning of new words.**
 ### Opciones
@@ -99,6 +125,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Pragmatics)
+**ID:** `CO-ENG-06-at-school-102-v6`
+
+
+**ID:** `CO-ENG-06-at-school-102-v6`
+
 ### Contexto
 **Teacher:** "Please open your books to page 45."
 ### Enunciado
@@ -116,6 +147,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Reading - Literal)
+**ID:** `CO-ENG-06-at-school-102-v7`
+
+
+**ID:** `CO-ENG-06-at-school-102-v7`
+
 ### Contexto
 **Text:** "In our school, lunch time is at 12:00 PM. We eat in the cafeteria. The food is usually good."
 ### Enunciado
@@ -133,6 +169,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Vocabulary)
+**ID:** `CO-ENG-06-at-school-102-v8`
+
+
+**ID:** `CO-ENG-06-at-school-102-v8`
+
 ### Enunciado
 **I need a _______ to sharpen my pencil.**
 ### Opciones
@@ -148,6 +189,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Reading - Inferential)
+**ID:** `CO-ENG-06-at-school-102-v9`
+
+
+**ID:** `CO-ENG-06-at-school-102-v9`
+
 ### Contexto
 **Passage:** "The school bell rang and all the students ran out into the playground with big smiles."
 ### Enunciado
@@ -165,6 +211,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Conversation)
+**ID:** `CO-ENG-06-at-school-102-v10`
+
+
+**ID:** `CO-ENG-06-at-school-102-v10`
+
 ### Contexto
 **Friend:** "Do we have a test today?"
 **You:** "____________"

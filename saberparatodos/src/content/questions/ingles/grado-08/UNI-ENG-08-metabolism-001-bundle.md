@@ -4,6 +4,7 @@ country: global
 grado: 8
 asignatura: ingles
 tema: metabolism
+periodo: 1
 cefr_level: A2+
 protocol_version: 3.1-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Metabolism & Energy (Grade 8)
 
 > **Focus:** Calories, digestion, and energy balance.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Calories)
+**ID:** `UNI-ENG-08-metabolism-001-v1`
+
 ID: UNI-ENG-08-metabolism-001-v1
 
 ### Enunciado
@@ -42,6 +45,8 @@ A **Calorie** is a unit of...
 ---
 
 ## Question 2 (Part 2 - Digestion)
+**ID:** `UNI-ENG-08-metabolism-001-v2`
+
 ID: UNI-ENG-08-metabolism-001-v2
 
 ### Contexto
@@ -63,6 +68,8 @@ What is this?
 ---
 
 ## Question 3 (Part 3 - Metabolism)
+**ID:** `UNI-ENG-08-metabolism-001-v3`
+
 ID: UNI-ENG-08-metabolism-001-v3
 
 ### Enunciado
@@ -81,6 +88,8 @@ ID: UNI-ENG-08-metabolism-001-v3
 ---
 
 ## Question 4 (Part 4 - Carbohydrates)
+**ID:** `UNI-ENG-08-metabolism-001-v4`
+
 ID: UNI-ENG-08-metabolism-001-v4
 
 ### Contexto
@@ -102,6 +111,8 @@ These provide quick energy and are called...
 ---
 
 ## Question 5 (Part 5 - Burning Calories)
+**ID:** `UNI-ENG-08-metabolism-001-v5`
+
 ID: UNI-ENG-08-metabolism-001-v5
 
 ### Enunciado
@@ -120,6 +131,8 @@ To lose weight, you must burn ______ calories than you eat.
 ---
 
 ## Question 6 (Part 6 - Fiber)
+**ID:** `UNI-ENG-08-metabolism-001-v6`
+
 ID: UNI-ENG-08-metabolism-001-v6
 
 ### Contexto
@@ -141,6 +154,8 @@ What is it?
 ---
 
 ## Question 7 (Part 7 - Dehydration)
+**ID:** `UNI-ENG-08-metabolism-001-v7`
+
 ID: UNI-ENG-08-metabolism-001-v7
 
 ### Contexto
@@ -162,6 +177,8 @@ This is...
 ---
 
 ## Question 8 (Part 8 - Sugar Rush)
+**ID:** `UNI-ENG-08-metabolism-001-v8`
+
 ID: UNI-ENG-08-metabolism-001-v8
 
 ### Contexto
@@ -183,6 +200,8 @@ Why?
 ---
 
 ## Question 9 (Part 9 - Sedentary)
+**ID:** `UNI-ENG-08-metabolism-001-v9`
+
 ID: UNI-ENG-08-metabolism-001-v9
 
 ### Contexto
@@ -204,6 +223,8 @@ This is a ______ lifestyle.
 ---
 
 ## Question 10 (Part 10 - Label)
+**ID:** `UNI-ENG-08-metabolism-001-v10`
+
 ID: UNI-ENG-08-metabolism-001-v10
 
 ### Enunciado

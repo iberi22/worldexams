@@ -4,19 +4,25 @@ country: co
 grado: 10
 asignatura: ingles
 tema: careers-future
+periodo: 1
 cefr_level: B2
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Careers & Future (B2)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-10-careers-future-105-v1`
+
+
+**ID:** `CO-ENG-10-careers-future-105-v1`
+
 ### Enunciado
 **A person who starts their own business is called:**
 ### Opciones
@@ -42,6 +48,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Pragmatics)
+**ID:** `CO-ENG-10-careers-future-105-v2`
+
+
+**ID:** `CO-ENG-10-careers-future-105-v2`
+
 ### Contexto
 **Job posting:** "Competitive salary, flexible hours, growth opportunities. Apply now!"
 ### Enunciado
@@ -59,6 +70,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Conversation)
+**ID:** `CO-ENG-10-careers-future-105-v3`
+
+
+**ID:** `CO-ENG-10-careers-future-105-v3`
+
 ### Contexto
 **Interviewer:** "Tell me about yourself."
 **You:** "____________"
@@ -77,6 +93,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Grammar)
+**ID:** `CO-ENG-10-careers-future-105-v4`
+
+
+**ID:** `CO-ENG-10-careers-future-105-v4`
+
 ### Contexto
 "By the time I (1)______, I (2)______ an internship."
 ### Enunciado
@@ -94,6 +115,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Literal Reading)
+**ID:** `CO-ENG-10-careers-future-105-v5`
+
+
+**ID:** `CO-ENG-10-careers-future-105-v5`
+
 ### Contexto
 **Text:** "The World Economic Forum predicts that 65% of children entering primary school today will work in jobs that don't yet exist."
 ### Enunciado
@@ -111,6 +137,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-10-careers-future-105-v6`
+
+
+**ID:** `CO-ENG-10-careers-future-105-v6`
+
 ### Contexto
 **Passage:** "The gig economy offers flexibility but often lacks stability. Workers can set their own hours, but may have no health insurance, no retirement plan, and unpredictable income."
 ### Enunciado
@@ -128,6 +159,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Advanced Grammar)
+**ID:** `CO-ENG-10-careers-future-105-v7`
+
+
+**ID:** `CO-ENG-10-careers-future-105-v7`
+
 ### Contexto
 "(1)______ I want to be a doctor, I (2)______ study very hard in science subjects."
 ### Enunciado
@@ -145,6 +181,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Vocabulary)
+**ID:** `CO-ENG-10-careers-future-105-v8`
+
+
+**ID:** `CO-ENG-10-careers-future-105-v8`
+
 ### Enunciado
 **"Soft skills" are:**
 ### Opciones
@@ -160,6 +201,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Use of English)
+**ID:** `CO-ENG-10-careers-future-105-v9`
+
+
+**ID:** `CO-ENG-10-careers-future-105-v9`
+
 ### Contexto
 **Original:** "Many companies value communication skills."
 **Rewrite:** *COMMUNICATION SKILLS...*
@@ -178,6 +224,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Critical Thinking)
+**ID:** `CO-ENG-10-careers-future-105-v10`
+
+
+**ID:** `CO-ENG-10-careers-future-105-v10`
+
 ### Contexto
 **Statement:** "Follow your passion and the money will follow."
 ### Enunciado

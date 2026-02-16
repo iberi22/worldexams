@@ -133,7 +133,7 @@ El sentido del olfato reside en la nariz, donde se captan las sustancias aromát
 
 ## Pregunta 6 (Media B - Dificultad 3)
 
-**ID:** `CO-CN-3-los-sentidos-001-v6)
+**ID:** `CO-CN-3-los-sentidos-001-v6`
 
 ### Enunciado
 

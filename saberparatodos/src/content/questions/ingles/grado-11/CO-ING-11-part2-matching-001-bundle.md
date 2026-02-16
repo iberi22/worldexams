@@ -33,6 +33,8 @@ original_answer: "Vocabulary matching."
 ---
 
 ## Pregunta 1 (Original - Dificultad 3)
+**ID:** `CO-ING-11-part2-matching-001-v1`
+
 
 **ID:** `CO-ING-11-part2-matching-001-v1`
 
@@ -58,6 +60,8 @@ La descripción "wear on your neck" (usar en el cuello) y "cold" (frío) apunta 
 ---
 
 ## Pregunta 2 (Fácil A - Dificultad 1)
+**ID:** `CO-ING-11-part2-matching-001-v2`
+
 
 **ID:** `CO-ING-11-part2-matching-001-v2`
 
@@ -79,6 +83,8 @@ La descripción "wear on your neck" (usar en el cuello) y "cold" (frío) apunta 
 ---
 
 ## Pregunta 3 (Fácil B - Dificultad 2)
+**ID:** `CO-ING-11-part2-matching-001-v3`
+
 
 **ID:** `CO-ING-11-part2-matching-001-v3`
 
@@ -100,6 +106,8 @@ La descripción "wear on your neck" (usar en el cuello) y "cold" (frío) apunta 
 ---
 
 ## Pregunta 4 (Media A - Dificultad 3)
+**ID:** `CO-ING-11-part2-matching-001-v4`
+
 
 **ID:** `CO-ING-11-part2-matching-001-v4`
 
@@ -121,6 +129,8 @@ Las claves son "very big", "grey" y "long nose called a trunk" (trompa). Solo el
 ---
 
 ## Pregunta 5 (Media B - Dificultad 3)
+**ID:** `CO-ING-11-part2-matching-001-v5`
+
 
 **ID:** `CO-ING-11-part2-matching-001-v5`
 
@@ -142,6 +152,8 @@ Las claves son "very big", "grey" y "long nose called a trunk" (trompa). Solo el
 ---
 
 ## Pregunta 6 (Difícil A - Dificultad 4)
+**ID:** `CO-ING-11-part2-matching-001-v6`
+
 
 **ID:** `CO-ING-11-part2-matching-001-v6`
 
@@ -163,6 +175,8 @@ Las claves son "very big", "grey" y "long nose called a trunk" (trompa). Solo el
 ---
 
 ## Pregunta 7 (Difícil B - Dificultad 5)
+**ID:** `CO-ING-11-part2-matching-001-v7`
+
 
 **ID:** `CO-ING-11-part2-matching-001-v7`
 

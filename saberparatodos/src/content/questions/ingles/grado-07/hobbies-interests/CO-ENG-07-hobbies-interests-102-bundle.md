@@ -4,19 +4,25 @@ country: co
 grado: 7
 asignatura: ingles
 tema: hobbies-interests
+periodo: 1
 cefr_level: A2+
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Hobbies & Interests (A2+)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-07-hobbies-interests-102-v1`
+
+
+**ID:** `CO-ENG-07-hobbies-interests-102-v1`
+
 ### Enunciado
 **I really enjoy _______ soccer with my friends.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-07-hobbies-interests-102-v2`
+
+
+**ID:** `CO-ENG-07-hobbies-interests-102-v2`
+
 ### Enunciado
 **_______ your brother like playing video games?**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Vocabulary)
+**ID:** `CO-ENG-07-hobbies-interests-102-v3`
+
+
+**ID:** `CO-ENG-07-hobbies-interests-102-v3`
+
 ### Enunciado
 **She is good at _______ pictures.**
 ### Opciones
@@ -69,6 +85,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Conversation)
+**ID:** `CO-ENG-07-hobbies-interests-102-v4`
+
+
+**ID:** `CO-ENG-07-hobbies-interests-102-v4`
+
 ### Contexto
 **Person A:** "What is your favorite hobby?"
 **Person B:** "____________"
@@ -87,6 +108,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Vocabulary)
+**ID:** `CO-ENG-07-hobbies-interests-102-v5`
+
+
+**ID:** `CO-ENG-07-hobbies-interests-102-v5`
+
 ### Enunciado
 **He collects _______ from every country he visits.**
 ### Opciones
@@ -102,6 +128,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Pragmatics)
+**ID:** `CO-ENG-07-hobbies-interests-102-v6`
+
+
+**ID:** `CO-ENG-07-hobbies-interests-102-v6`
+
 ### Contexto
 **Ad:** "Chess Club! Join us every Friday. No experience needed!"
 ### Enunciado
@@ -119,6 +150,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Grammar)
+**ID:** `CO-ENG-07-hobbies-interests-102-v7`
+
+
+**ID:** `CO-ENG-07-hobbies-interests-102-v7`
+
 ### Enunciado
 **They _______ like dancing.**
 ### Opciones
@@ -134,6 +170,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Reading - Literal)
+**ID:** `CO-ENG-07-hobbies-interests-102-v8`
+
+
+**ID:** `CO-ENG-07-hobbies-interests-102-v8`
+
 ### Contexto
 **Text:** "Maria loves swimming. She goes to the pool three times a week. On Saturdays, she also plays basketball."
 ### Enunciado
@@ -151,6 +192,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Reading - Inferential)
+**ID:** `CO-ENG-07-hobbies-interests-102-v9`
+
+
+**ID:** `CO-ENG-07-hobbies-interests-102-v9`
+
 ### Contexto
 **Passage:** "Beto spends all his free time reading about dinosaurs. He has many books and models in his room."
 ### Enunciado
@@ -168,6 +214,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Cultural)
+**ID:** `CO-ENG-07-hobbies-interests-102-v10`
+
+
+**ID:** `CO-ENG-07-hobbies-interests-102-v10`
+
 ### Enunciado
 **A popular traditional Colombian game played with metal discs is called _______.**
 ### Opciones

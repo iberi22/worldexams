@@ -4,19 +4,25 @@ country: co
 grado: 3
 asignatura: ingles
 tema: family
+periodo: 1
 cefr_level: Pre-A1
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: My Family (Pre-A1)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-03-family-104-v1`
+
+
+**ID:** `CO-ENG-03-family-104-v1`
+
 ### Enunciado
 **My mother's name is Maria. Maria is my _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Vocabulary)
+**ID:** `CO-ENG-03-family-104-v2`
+
+
+**ID:** `CO-ENG-03-family-104-v2`
+
 ### Enunciado
 **My _______ is a man. He is my dad.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Vocabulary)
+**ID:** `CO-ENG-03-family-104-v3`
+
+
+**ID:** `CO-ENG-03-family-104-v3`
+
 ### Enunciado
 **I have a _______. Her name is Ana and she is my sibling.**
 ### Opciones
@@ -69,6 +85,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-03-family-104-v4`
+
+
+**ID:** `CO-ENG-03-family-104-v4`
+
 ### Enunciado
 **I have a _______. His name is Luis and he is my sibling.**
 ### Opciones
@@ -84,6 +105,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Vocabulary)
+**ID:** `CO-ENG-03-family-104-v5`
+
+
+**ID:** `CO-ENG-03-family-104-v5`
+
 ### Enunciado
 **My mother and father are my _______.**
 ### Opciones
@@ -99,6 +125,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Vocabulary)
+**ID:** `CO-ENG-03-family-104-v6`
+
+
+**ID:** `CO-ENG-03-family-104-v6`
+
 ### Enunciado
 **My father's father is my _______.**
 ### Opciones
@@ -114,6 +145,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Vocabulary)
+**ID:** `CO-ENG-03-family-104-v7`
+
+
+**ID:** `CO-ENG-03-family-104-v7`
+
 ### Enunciado
 **My mother's mother is my _______.**
 ### Opciones
@@ -129,6 +165,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Vocabulary)
+**ID:** `CO-ENG-03-family-104-v8`
+
+
+**ID:** `CO-ENG-03-family-104-v8`
+
 ### Enunciado
 **I love my _______.**
 ### Opciones
@@ -144,6 +185,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-03-family-104-v9`
+
+
+**ID:** `CO-ENG-03-family-104-v9`
+
 ### Enunciado
 **A very small sibling is a _______.**
 ### Opciones
@@ -159,6 +205,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Grammar)
+**ID:** `CO-ENG-03-family-104-v10`
+
+
+**ID:** `CO-ENG-03-family-104-v10`
+
 ### Enunciado
 **This is _______ mother.**
 ### Opciones

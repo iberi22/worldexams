@@ -4,6 +4,7 @@ country: global
 grado: 10
 asignatura: ingles
 tema: remote-work
+periodo: 1
 cefr_level: B1+
 protocol_version: 3.2-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Remote Work (Grade 10)
 
 > **Focus:** Working from home, Zoom, and Digital Nomads.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - WFH)
+**ID:** `UNI-ENG-10-remote-work-001-v1`
+
 ID: UNI-ENG-10-remote-work-001-v1
 
 ### Contexto
@@ -45,6 +48,8 @@ What does it mean?
 ---
 
 ## Question 2 (Part 2 - Digital Nomad)
+**ID:** `UNI-ENG-10-remote-work-001-v2`
+
 ID: UNI-ENG-10-remote-work-001-v2
 
 ### Enunciado
@@ -63,6 +68,8 @@ A person who travels the world while working online.
 ---
 
 ## Question 3 (Part 3 - Mute)
+**ID:** `UNI-ENG-10-remote-work-001-v3`
+
 ID: UNI-ENG-10-remote-work-001-v3
 
 ### Contexto
@@ -84,6 +91,8 @@ When you speak but nobody can hear you.
 ---
 
 ## Question 4 (Part 4 - WiFi)
+**ID:** `UNI-ENG-10-remote-work-001-v4`
+
 ID: UNI-ENG-10-remote-work-001-v4
 
 ### Enunciado
@@ -102,6 +111,8 @@ To work remotely, the most important utility you need is robust...
 ---
 
 ## Question 5 (Part 5 - Co-working)
+**ID:** `UNI-ENG-10-remote-work-001-v5`
+
 ID: UNI-ENG-10-remote-work-001-v5
 
 ### Enunciado
@@ -120,6 +131,8 @@ A shared office space where freelancers and remote workers rent desks.
 ---
 
 ## Question 6 (Part 6 - Flexible)
+**ID:** `UNI-ENG-10-remote-work-001-v6`
+
 ID: UNI-ENG-10-remote-work-001-v6
 
 ### Enunciado
@@ -138,6 +151,8 @@ If you can choose your own working hours (e.g., start at 10 AM or 8 AM), you hav
 ---
 
 ## Question 7 (Part 7 - Asynchronous)
+**ID:** `UNI-ENG-10-remote-work-001-v7`
+
 ID: UNI-ENG-10-remote-work-001-v7
 
 ### Contexto
@@ -159,6 +174,8 @@ This is...
 ---
 
 ## Question 8 (Part 8 - Burnout)
+**ID:** `UNI-ENG-10-remote-work-001-v8`
+
 ID: UNI-ENG-10-remote-work-001-v8
 
 ### Enunciado
@@ -177,6 +194,8 @@ Physical and emotional exhaustion caused by working too much and not separating 
 ---
 
 ## Question 9 (Part 9 - Webinar)
+**ID:** `UNI-ENG-10-remote-work-001-v9`
+
 ID: UNI-ENG-10-remote-work-001-v9
 
 ### Contexto
@@ -198,6 +217,8 @@ What is this?
 ---
 
 ## Question 10 (Part 10 - Freelancer)
+**ID:** `UNI-ENG-10-remote-work-001-v10`
+
 ID: UNI-ENG-10-remote-work-001-v10
 
 ### Enunciado

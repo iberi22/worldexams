@@ -4,19 +4,25 @@ country: co
 grado: 10
 asignatura: ingles
 tema: technology-society
+periodo: 1
 cefr_level: B2
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Technology & Society (B2)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-10-technology-society-101-v1`
+
+
+**ID:** `CO-ENG-10-technology-society-101-v1`
+
 ### Enunciado
 **The protection of personal information online is called:**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Pragmatics)
+**ID:** `CO-ENG-10-technology-society-101-v2`
+
+
+**ID:** `CO-ENG-10-technology-society-101-v2`
+
 ### Contexto
 **Warning:** "This website uses cookies to improve your experience. Accept or customize settings."
 ### Enunciado
@@ -56,6 +67,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Conversation)
+**ID:** `CO-ENG-10-technology-society-101-v3`
+
+
+**ID:** `CO-ENG-10-technology-society-101-v3`
+
 ### Contexto
 **Friend:** "I spend 8 hours a day on my phone."
 **You:** "____________"
@@ -74,6 +90,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Grammar)
+**ID:** `CO-ENG-10-technology-society-101-v4`
+
+
+**ID:** `CO-ENG-10-technology-society-101-v4`
+
 ### Contexto
 "By the time you (1)______ home, I (2)______ dinner."
 ### Enunciado
@@ -91,6 +112,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Literal Reading)
+**ID:** `CO-ENG-10-technology-society-101-v5`
+
+
+**ID:** `CO-ENG-10-technology-society-101-v5`
+
 ### Contexto
 **Text:** "Screen time for teenagers has increased by 52% since 2019. The average adolescent now spends 7 hours daily on digital devices."
 ### Enunciado
@@ -108,6 +134,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-10-technology-society-101-v6`
+
+
+**ID:** `CO-ENG-10-technology-society-101-v6`
+
 ### Contexto
 **Passage:** "The algorithm shows you content similar to what you've already engaged with. You see more of what you already believe, and less of what challenges you. We've built echo chambers, and we call them personalization."
 ### Enunciado
@@ -125,6 +156,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Advanced Grammar)
+**ID:** `CO-ENG-10-technology-society-101-v7`
+
+
+**ID:** `CO-ENG-10-technology-society-101-v7`
+
 ### Contexto
 "(1)______ smartphones have made communication easier, they (2)______ also reduced face-to-face interaction."
 ### Enunciado
@@ -142,6 +178,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (C1 Vocabulary)
+**ID:** `CO-ENG-10-technology-society-101-v8`
+
+
+**ID:** `CO-ENG-10-technology-society-101-v8`
+
 ### Enunciado
 **"Digital detox" means:**
 ### Opciones
@@ -157,6 +198,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Use of English)
+**ID:** `CO-ENG-10-technology-society-101-v9`
+
+
+**ID:** `CO-ENG-10-technology-society-101-v9`
+
 ### Contexto
 **Original:** "People spend too much time on social media."
 **Rewrite:** *TOO MUCH TIME...*
@@ -175,6 +221,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Critical Thinking)
+**ID:** `CO-ENG-10-technology-society-101-v10`
+
+
+**ID:** `CO-ENG-10-technology-society-101-v10`
+
 ### Contexto
 **Statement:** "Technology is neither good nor bad—it depends on how we use it."
 ### Enunciado

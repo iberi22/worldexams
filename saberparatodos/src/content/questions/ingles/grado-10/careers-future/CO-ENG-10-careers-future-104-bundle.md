@@ -4,19 +4,22 @@ country: co
 grado: 10
 asignatura: ingles
 tema: careers-future
+periodo: 1
 cefr_level: B2
-protocol_version: 3.1-COL-Bilingual
-total_questions: 10
+protocol_version: 2.1
+total_questions: 1
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Careers & Future Planning (B2)
 
 ---
 
 ## Question 1 (Part 1 - Vocabulary)
+**ID:** `CO-ENG-10-careers-future-104-v1`
+
 ID: CO-ENG-10-careers-future-104-v1
 
 ### Enunciado
@@ -43,9 +46,5 @@ ID: CO-ENG-10-careers-future-104-v1
 
 **Famous Colombian entrepreneurs:** Luisa Fernanda Espinosa (Rappi co-founder)
 *Emprendedores colombianos famosos: Luisa Fernanda Espinosa (cofundadora de Rappi)*
-
----
-
-## Question 2-10 (Full bilingual explanations...)
 
 ---

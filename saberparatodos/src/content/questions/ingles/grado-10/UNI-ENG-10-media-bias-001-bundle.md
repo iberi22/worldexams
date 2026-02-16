@@ -4,6 +4,7 @@ country: global
 grado: 10
 asignatura: ingles
 tema: media-literacy
+periodo: 1
 cefr_level: B1+
 protocol_version: 3.1-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Media Literacy & Bias Detection (B1+ Challenge)
 
 > **Analysis:** High cognitive load (evaluating sources, detecting bias) suitable for Grade 10 logic.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Clickbait Detection - Difficulty 4)
+**ID:** `UNI-ENG-10-media-bias-001-v1`
+
 ID: UNI-ENG-10-media-bias-001-v1
 
 ### Contexto
@@ -46,6 +49,8 @@ What characteristic does this headline show?
 ---
 
 ## Question 2 (Part 2 - Fact Checking - Difficulty 5)
+**ID:** `UNI-ENG-10-media-bias-001-v2`
+
 ID: UNI-ENG-10-media-bias-001-v2
 
 ### Contexto
@@ -68,6 +73,8 @@ How should you treat this information?
 ---
 
 ## Question 3 (Part 3 - Ad Targeting - Difficulty 4)
+**ID:** `UNI-ENG-10-media-bias-001-v3`
+
 ID: UNI-ENG-10-media-bias-001-v3
 
 ### Contexto
@@ -90,6 +97,8 @@ What is this an example of?
 ---
 
 ## Question 4 (Part 4 - Deepfake Awareness - Difficulty 5)
+**ID:** `UNI-ENG-10-media-bias-001-v4`
+
 ID: UNI-ENG-10-media-bias-001-v4
 
 ### Contexto
@@ -112,6 +121,8 @@ What is this technology called?
 ---
 
 ## Question 5 (Part 5 - Correlation vs Causation - Difficulty 5)
+**ID:** `UNI-ENG-10-media-bias-001-v5`
+
 ID: UNI-ENG-10-media-bias-001-v5
 
 ### Contexto
@@ -134,6 +145,8 @@ What logical error is this?
 ---
 
 ## Question 6 (Part 6 - Source Credibility - Difficulty 4)
+**ID:** `UNI-ENG-10-media-bias-001-v6`
+
 ID: UNI-ENG-10-media-bias-001-v6
 
 ### Enunciado
@@ -152,6 +165,8 @@ Which website URL ending is generally considered most reliable for academic rese
 ---
 
 ## Question 7 (Part 7 - Framing - Difficulty 5)
+**ID:** `UNI-ENG-10-media-bias-001-v7`
+
 ID: UNI-ENG-10-media-bias-001-v7
 
 ### Contexto
@@ -175,6 +190,8 @@ How do the headlines differ?
 ---
 
 ## Question 8 (Part 8 - Echo Chambers - Difficulty 5)
+**ID:** `UNI-ENG-10-media-bias-001-v8`
+
 ID: UNI-ENG-10-media-bias-001-v8
 
 ### Contexto
@@ -197,6 +214,8 @@ What is this phenomenon called?
 ---
 
 ## Question 9 (Part 9 - Identifying Satire - Difficulty 4)
+**ID:** `UNI-ENG-10-media-bias-001-v9`
+
 ID: UNI-ENG-10-media-bias-001-v9
 
 ### Contexto
@@ -219,6 +238,8 @@ What is the genre of this article likely to be?
 ---
 
 ## Question 10 (Part 10 - Digital Footprint - Difficulty 5)
+**ID:** `UNI-ENG-10-media-bias-001-v10`
+
 ID: UNI-ENG-10-media-bias-001-v10
 
 ### Contexto

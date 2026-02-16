@@ -4,19 +4,25 @@ country: co
 grado: 5
 asignatura: ingles
 tema: my-pets
+periodo: 1
 cefr_level: A1+
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: My Pets (A1+)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-05-my-pets-101-v1`
+
+
+**ID:** `CO-ENG-05-my-pets-101-v1`
+
 ### Enunciado
 **A small animal that says "meow" is a _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-05-my-pets-101-v2`
+
+
+**ID:** `CO-ENG-05-my-pets-101-v2`
+
 ### Enunciado
 **I _______ a big dog named Rocky.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Vocabulary)
+**ID:** `CO-ENG-05-my-pets-101-v3`
+
+
+**ID:** `CO-ENG-05-my-pets-101-v3`
+
 ### Enunciado
 **My _______ lives in a bowl of water.**
 ### Opciones
@@ -69,6 +85,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Grammar)
+**ID:** `CO-ENG-05-my-pets-101-v4`
+
+
+**ID:** `CO-ENG-05-my-pets-101-v4`
+
 ### Enunciado
 **She _______ two cats.**
 ### Opciones
@@ -84,6 +105,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Vocabulary)
+**ID:** `CO-ENG-05-my-pets-101-v5`
+
+
+**ID:** `CO-ENG-05-my-pets-101-v5`
+
 ### Enunciado
 **A _______ is a pet that can fly and sing.**
 ### Opciones
@@ -99,6 +125,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Reading - Literal)
+**ID:** `CO-ENG-05-my-pets-101-v6`
+
+
+**ID:** `CO-ENG-05-my-pets-101-v6`
+
 ### Contexto
 **Text:** "My name is Ana. I have a small rabbit. His name is Bunny. He is white and has long ears. He loves eating carrots."
 ### Enunciado
@@ -116,6 +147,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-05-my-pets-101-v7`
+
+
+**ID:** `CO-ENG-05-my-pets-101-v7`
+
 ### Contexto
 **Friend:** "Do you have any pets?"
 **You:** "____________"
@@ -134,6 +170,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Vocabulary)
+**ID:** `CO-ENG-05-my-pets-101-v8`
+
+
+**ID:** `CO-ENG-05-my-pets-101-v8`
+
 ### Enunciado
 **Dogs like to eat _______ and play with balls.**
 ### Opciones
@@ -149,6 +190,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Reading - Inferential)
+**ID:** `CO-ENG-05-my-pets-101-v9`
+
+
+**ID:** `CO-ENG-05-my-pets-101-v9`
+
 ### Contexto
 **Passage:** "My cat is hiding under the bed. There is a lot of thunder and lightning outside."
 ### Enunciado
@@ -166,6 +212,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Cultural)
+**ID:** `CO-ENG-05-my-pets-101-v10`
+
+
+**ID:** `CO-ENG-05-my-pets-101-v10`
+
 ### Enunciado
 **In Colombia, some people have a _______ as a pet, but it's better to let them live in the wild.**
 ### Opciones

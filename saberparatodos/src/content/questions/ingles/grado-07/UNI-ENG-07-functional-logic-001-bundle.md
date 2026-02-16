@@ -4,6 +4,7 @@ country: global
 grado: 7
 asignatura: ingles
 tema: functional-logic
+periodo: 1
 cefr_level: A2
 protocol_version: 3.1-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Functional Logic & Real World Instructions (A2 Challenge)
 
 > **Analysis:** High cognitive load tasks (assembling furniture, complex menus, timetables) using simple A2 vocabulary.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Assembly Instructions - Difficulty 5)
+**ID:** `UNI-ENG-07-functional-logic-001-v1`
+
 ID: UNI-ENG-07-functional-logic-001-v1
 
 ### Contexto
@@ -49,6 +52,8 @@ What went wrong if the screws are tight but Part C is not attached yet?
 ---
 
 ## Question 2 (Part 2 - Menu Calculation - Difficulty 4)
+**ID:** `UNI-ENG-07-functional-logic-001-v2`
+
 ID: UNI-ENG-07-functional-logic-001-v2
 
 ### Contexto
@@ -73,6 +78,8 @@ How much is a Pizza with 2 toppings and a Water?
 ---
 
 ## Question 3 (Part 3 - Medicine Label - Difficulty 5)
+**ID:** `UNI-ENG-07-functional-logic-001-v3`
+
 ID: UNI-ENG-07-functional-logic-001-v3
 
 ### Contexto
@@ -95,6 +102,8 @@ John took a pill at 8:00 AM on an empty stomach. What mistake did he make?
 ---
 
 ## Question 4 (Part 4 - Event Rules - Difficulty 4)
+**ID:** `UNI-ENG-07-functional-logic-001-v4`
+
 ID: UNI-ENG-07-functional-logic-001-v4
 
 ### Contexto
@@ -117,6 +126,8 @@ How much does a 4-year-old pay?
 ---
 
 ## Question 5 (Part 5 - Return Policy - Difficulty 5)
+**ID:** `UNI-ENG-07-functional-logic-001-v5`
+
 ID: UNI-ENG-07-functional-logic-001-v5
 
 ### Contexto
@@ -139,6 +150,8 @@ Can I return a shirt I bought 10 days ago if I lost the receipt?
 ---
 
 ## Question 6 (Part 6 - Map Navigation - Difficulty 4)
+**ID:** `UNI-ENG-07-functional-logic-001-v6`
+
 ID: UNI-ENG-07-functional-logic-001-v6
 
 ### Contexto
@@ -160,6 +173,8 @@ If you turn left instead of right, where do you go?
 ---
 
 ## Question 7 (Part 7 - Email Identification - Difficulty 4)
+**ID:** `UNI-ENG-07-functional-logic-001-v7`
+
 ID: UNI-ENG-07-functional-logic-001-v7
 
 ### Contexto
@@ -182,6 +197,8 @@ Is this email safe?
 ---
 
 ## Question 8 (Part 8 - Cooking Logic - Difficulty 5)
+**ID:** `UNI-ENG-07-functional-logic-001-v8`
+
 ID: UNI-ENG-07-functional-logic-001-v8
 
 ### Contexto
@@ -203,6 +220,8 @@ My mixture acts like water. What should I add?
 ---
 
 ## Question 9 (Part 9 - Ticket Validity - Difficulty 5)
+**ID:** `UNI-ENG-07-functional-logic-001-v9`
+
 ID: UNI-ENG-07-functional-logic-001-v9
 
 ### Contexto
@@ -224,6 +243,8 @@ Can I use it on Tuesday at 4pm (if it is not a holiday)?
 ---
 
 ## Question 10 (Part 10 - Recycling Rules - Difficulty 4)
+**ID:** `UNI-ENG-07-functional-logic-001-v10`
+
 ID: UNI-ENG-07-functional-logic-001-v10
 
 ### Contexto

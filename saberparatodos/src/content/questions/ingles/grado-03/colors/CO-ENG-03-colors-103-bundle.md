@@ -4,19 +4,25 @@ country: co
 grado: 3
 asignatura: ingles
 tema: colors
+periodo: 1
 cefr_level: Pre-A1
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Colors (Pre-A1)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-03-colors-103-v1`
+
+
+**ID:** `CO-ENG-03-colors-103-v1`
+
 ### Enunciado
 **Apples are often _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Vocabulary)
+**ID:** `CO-ENG-03-colors-103-v2`
+
+
+**ID:** `CO-ENG-03-colors-103-v2`
+
 ### Enunciado
 **The sky is _______.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Vocabulary)
+**ID:** `CO-ENG-03-colors-103-v3`
+
+
+**ID:** `CO-ENG-03-colors-103-v3`
+
 ### Enunciado
 **Bananas are _______.**
 ### Opciones
@@ -69,6 +85,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-03-colors-103-v4`
+
+
+**ID:** `CO-ENG-03-colors-103-v4`
+
 ### Enunciado
 **Grass is _______.**
 ### Opciones
@@ -84,6 +105,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Vocabulary)
+**ID:** `CO-ENG-03-colors-103-v5`
+
+
+**ID:** `CO-ENG-03-colors-103-v5`
+
 ### Enunciado
 **Oranges are _______.**
 ### Opciones
@@ -99,6 +125,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Vocabulary)
+**ID:** `CO-ENG-03-colors-103-v6`
+
+
+**ID:** `CO-ENG-03-colors-103-v6`
+
 ### Enunciado
 **Clouds are _______.**
 ### Opciones
@@ -114,6 +145,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Vocabulary)
+**ID:** `CO-ENG-03-colors-103-v7`
+
+
+**ID:** `CO-ENG-03-colors-103-v7`
+
 ### Enunciado
 **Chocolate is usually _______.**
 ### Opciones
@@ -129,6 +165,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Vocabulary)
+**ID:** `CO-ENG-03-colors-103-v8`
+
+
+**ID:** `CO-ENG-03-colors-103-v8`
+
 ### Enunciado
 **The night sky is _______.**
 ### Opciones
@@ -144,6 +185,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-03-colors-103-v9`
+
+
+**ID:** `CO-ENG-03-colors-103-v9`
+
 ### Enunciado
 **Strawberries are _______.**
 ### Opciones
@@ -159,6 +205,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Cultural)
+**ID:** `CO-ENG-03-colors-103-v10`
+
+
+**ID:** `CO-ENG-03-colors-103-v10`
+
 ### Enunciado
 **The color of peace in Colombia is _______.**
 ### Opciones

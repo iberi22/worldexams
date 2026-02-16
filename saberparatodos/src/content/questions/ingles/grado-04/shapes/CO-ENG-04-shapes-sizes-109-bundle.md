@@ -4,19 +4,25 @@ country: co
 grado: 4
 asignatura: ingles
 tema: shapes-sizes
+periodo: 1
 cefr_level: A1
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: Shapes & Sizes (A1)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-04-shapes-sizes-109-v1`
+
+
+**ID:** `CO-ENG-04-shapes-sizes-109-v1`
+
 ### Enunciado
 **A shape with three sides is a _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-04-shapes-sizes-109-v2`
+
+
+**ID:** `CO-ENG-04-shapes-sizes-109-v2`
+
 ### Enunciado
 **The sun is (1)_______ and (2)_______ than the earth.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-04-shapes-sizes-109-v3`
+
+
+**ID:** `CO-ENG-04-shapes-sizes-109-v3`
+
 ### Contexto
 **Text:** "I have a collection of buttons. I have four circular buttons, two square buttons, and one rectangular button. They are all red."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-04-shapes-sizes-109-v4`
+
+
+**ID:** `CO-ENG-04-shapes-sizes-109-v4`
+
 ### Enunciado
 **A shape that is perfectly round like a ball is a _______.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-04-shapes-sizes-109-v5`
+
+
+**ID:** `CO-ENG-04-shapes-sizes-109-v5`
+
 ### Contexto
 **Student:** "Teacher, is a door a square or a rectangle?"
 **Teacher:** "Usually, it is a rectangle because it is taller than it is wide."
@@ -104,6 +130,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-04-shapes-sizes-109-v6`
+
+
+**ID:** `CO-ENG-04-shapes-sizes-109-v6`
+
 ### Contexto
 **Passage:** "My pizza is cut into eight pieces. Each piece has three sides and three sharp points."
 ### Enunciado
@@ -121,6 +152,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-04-shapes-sizes-109-v7`
+
+
+**ID:** `CO-ENG-04-shapes-sizes-109-v7`
+
 ### Contexto
 **Friend:** "Which box should I take?"
 **You:** "Take the small one, it's easier to carry."
@@ -139,6 +175,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Adjectives)
+**ID:** `CO-ENG-04-shapes-sizes-109-v8`
+
+
+**ID:** `CO-ENG-04-shapes-sizes-109-v8`
+
 ### Enunciado
 **That (1)_______ mountain is very (2)_______.**
 ### Opciones
@@ -154,6 +195,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-04-shapes-sizes-109-v9`
+
+
+**ID:** `CO-ENG-04-shapes-sizes-109-v9`
+
 ### Enunciado
 **A shape with four equal sides and four right angles is a _______.**
 ### Opciones
@@ -169,6 +215,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Cultural)
+**ID:** `CO-ENG-04-shapes-sizes-109-v10`
+
+
+**ID:** `CO-ENG-04-shapes-sizes-109-v10`
+
 ### Enunciado
 **In Colombia, some typical houses from the 'Eje Cafetero' have rectangular _______ (windows) with many colors.**
 ### Opciones

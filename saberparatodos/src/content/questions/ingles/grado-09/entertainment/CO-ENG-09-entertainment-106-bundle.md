@@ -4,19 +4,25 @@ country: co
 grado: 9
 asignatura: ingles
 tema: entertainment
+periodo: 1
 cefr_level: B1+
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: Entertainment & Pop Culture (B1+)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-09-entertainment-106-v1`
+
+
+**ID:** `CO-ENG-09-entertainment-106-v1`
+
 ### Enunciado
 **A person who is very famous, especially in the world of movies or music, is a _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-09-entertainment-106-v2`
+
+
+**ID:** `CO-ENG-09-entertainment-106-v2`
+
 ### Enunciado
 **I (1)_______ that movie three times, and I (2)_______ it is a masterpiece.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-09-entertainment-106-v3`
+
+
+**ID:** `CO-ENG-09-entertainment-106-v3`
+
 ### Contexto
 **Text:** "Streaming services have changed how we watch TV. Instead of waiting for a new episode every week, many people now 'binge-watch' entire seasons in a single weekend."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-09-entertainment-106-v4`
+
+
+**ID:** `CO-ENG-09-entertainment-106-v4`
+
 ### Enunciado
 **A _______ is a short video that gives a preview of a movie before it is released.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Conversation)
+**ID:** `CO-ENG-09-entertainment-106-v5`
+
+
+**ID:** `CO-ENG-09-entertainment-106-v5`
+
 ### Contexto
 **Friend:** "The book was much better than the movie."
 **You:** "____________"
@@ -104,6 +130,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-09-entertainment-106-v6`
+
+
+**ID:** `CO-ENG-09-entertainment-106-v6`
+
 ### Contexto
 **Passage:** "Video games are no longer just for children. Professional 'e-sports' players now compete in sold-out stadiums for millions of dollars in prize money."
 ### Enunciado
@@ -121,6 +152,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Grammar - Passive)
+**ID:** `CO-ENG-09-entertainment-106-v7`
+
+
+**ID:** `CO-ENG-09-entertainment-106-v7`
+
 ### Enunciado
 **The award for Best Actor (1)_______ tomorrow by a famous (2)_______.**
 ### Opciones
@@ -136,6 +172,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Vocabulary)
+**ID:** `CO-ENG-09-entertainment-106-v8`
+
+
+**ID:** `CO-ENG-09-entertainment-106-v8`
+
 ### Enunciado
 **A story that is written for a movie or a play is a _______.**
 ### Opciones
@@ -151,6 +192,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-09-entertainment-106-v9`
+
+
+**ID:** `CO-ENG-09-entertainment-106-v9`
+
 ### Enunciado
 **The group of people who watch or listen to a performance is the _______.**
 ### Opciones
@@ -166,6 +212,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Critical Thinking)
+**ID:** `CO-ENG-09-entertainment-106-v10`
+
+
+**ID:** `CO-ENG-09-entertainment-106-v10`
+
 ### Contexto
 **Statement:** "Social media influencers are the new celebrities, but their fame can be very short-lived."
 ### Enunciado

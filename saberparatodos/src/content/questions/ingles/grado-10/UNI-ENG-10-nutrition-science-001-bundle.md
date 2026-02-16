@@ -4,6 +4,7 @@ country: global
 grado: 10
 asignatura: ingles
 tema: nutrition-science
+periodo: 1
 cefr_level: B1+
 protocol_version: 3.1-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Nutrition Science (Grade 10)
 
 > **Focus:** Macros, processed foods, and additives.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Macronutrients)
+**ID:** `UNI-ENG-10-nutrition-science-001-v1`
+
 ID: UNI-ENG-10-nutrition-science-001-v1
 
 ### Enunciado
@@ -42,6 +45,8 @@ Which of these is NOT a macronutrient?
 ---
 
 ## Question 2 (Part 2 - Processed Food)
+**ID:** `UNI-ENG-10-nutrition-science-001-v2`
+
 ID: UNI-ENG-10-nutrition-science-001-v2
 
 ### Contexto
@@ -63,6 +68,8 @@ This is...
 ---
 
 ## Question 3 (Part 3 - Metabolism Rate)
+**ID:** `UNI-ENG-10-nutrition-science-001-v3`
+
 ID: UNI-ENG-10-nutrition-science-001-v3
 
 ### Contexto
@@ -84,6 +91,8 @@ What does this measure?
 ---
 
 ## Question 4 (Part 4 - Anemia)
+**ID:** `UNI-ENG-10-nutrition-science-001-v4`
+
 ID: UNI-ENG-10-nutrition-science-001-v4
 
 ### Contexto
@@ -105,6 +114,8 @@ This is called...
 ---
 
 ## Question 5 (Part 5 - Antioxidants)
+**ID:** `UNI-ENG-10-nutrition-science-001-v5`
+
 ID: UNI-ENG-10-nutrition-science-001-v5
 
 ### Enunciado
@@ -123,6 +134,8 @@ What do **antioxidants** (found in berries) do?
 ---
 
 ## Question 6 (Part 6 - Additives)
+**ID:** `UNI-ENG-10-nutrition-science-001-v6`
+
 ID: UNI-ENG-10-nutrition-science-001-v6
 
 ### Contexto
@@ -144,6 +157,8 @@ These are synthetic...
 ---
 
 ## Question 7 (Part 7 - Gluten)
+**ID:** `UNI-ENG-10-nutrition-science-001-v7`
+
 ID: UNI-ENG-10-nutrition-science-001-v7
 
 ### Enunciado
@@ -162,6 +177,8 @@ ID: UNI-ENG-10-nutrition-science-001-v7
 ---
 
 ## Question 8 (Part 8 - Saturated Fats)
+**ID:** `UNI-ENG-10-nutrition-science-001-v8`
+
 ID: UNI-ENG-10-nutrition-science-001-v8
 
 ### Enunciado
@@ -180,6 +197,8 @@ Which fat is generally considered "bad" in excess (clogs arteries)?
 ---
 
 ## Question 9 (Part 9 - Insulin)
+**ID:** `UNI-ENG-10-nutrition-science-001-v9`
+
 ID: UNI-ENG-10-nutrition-science-001-v9
 
 ### Enunciado
@@ -198,6 +217,8 @@ Which hormone regulates blood sugar?
 ---
 
 ## Question 10 (Part 10 - BMI)
+**ID:** `UNI-ENG-10-nutrition-science-001-v10`
+
 ID: UNI-ENG-10-nutrition-science-001-v10
 
 ### Enunciado

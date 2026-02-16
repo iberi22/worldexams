@@ -4,19 +4,22 @@ country: co
 grado: 7
 asignatura: ingles
 tema: weather
+periodo: 1
 cefr_level: A2+
 protocol_version: 3.0-COL
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Weather & Seasons (A2+)
 
 ---
 
 ## Question 1 (Part 1 - Vocabulary)
+**ID:** `CO-ENG-07-weather-005-v1`
+
 ID: CO-ENG-07-weather-005-v1
 
 ### Enunciado
@@ -44,6 +47,8 @@ Rain = water droplets falling from clouds. Rainy = adjective (rainy day).
 ---
 
 ## Question 2 (Part 2 - Pragmatics)
+**ID:** `CO-ENG-07-weather-005-v2`
+
 ID: CO-ENG-07-weather-005-v2
 
 ### Contexto
@@ -65,6 +70,8 @@ ID: CO-ENG-07-weather-005-v2
 ---
 
 ## Question 3 (Part 3 - Conversation)
+**ID:** `CO-ENG-07-weather-005-v3`
+
 ID: CO-ENG-07-weather-005-v3
 
 ### Contexto
@@ -86,6 +93,8 @@ Good answers describe AND add context (sunny + warm + activity suggestion).
 ---
 
 ## Question 4 (Part 4 - Grammar)
+**ID:** `CO-ENG-07-weather-005-v4`
+
 ID: CO-ENG-07-weather-005-v4
 
 ### Contexto
@@ -104,6 +113,8 @@ ID: CO-ENG-07-weather-005-v4
 ---
 
 ## Question 5 (Part 5 - Literal Reading)
+**ID:** `CO-ENG-07-weather-005-v5`
+
 ID: CO-ENG-07-weather-005-v5
 
 ### Contexto
@@ -125,6 +136,8 @@ ID: CO-ENG-07-weather-005-v5
 ---
 
 ## Question 6 (Part 6 - Inferential Reading)
+**ID:** `CO-ENG-07-weather-005-v6`
+
 ID: CO-ENG-07-weather-005-v6
 
 ### Contexto
@@ -146,6 +159,8 @@ ID: CO-ENG-07-weather-005-v6
 ---
 
 ## Question 7 (Part 7 - Grammar)
+**ID:** `CO-ENG-07-weather-005-v7`
+
 ID: CO-ENG-07-weather-005-v7
 
 ### Contexto
@@ -164,6 +179,8 @@ First conditional for real future possibility: If + present, will + verb.
 ---
 
 ## Question 8 (Challenge - Vocabulary)
+**ID:** `CO-ENG-07-weather-005-v8`
+
 ID: CO-ENG-07-weather-005-v8
 
 ### Enunciado
@@ -182,6 +199,8 @@ Weather = today's conditions. Climate = average patterns over years/decades.
 ---
 
 ## Question 9 (Challenge - Scenario)
+**ID:** `CO-ENG-07-weather-005-v9`
+
 ID: CO-ENG-07-weather-005-v9
 
 ### Contexto
@@ -203,6 +222,8 @@ You're planning an outdoor event and the forecast says 50% chance of rain.
 ---
 
 ## Question 10 (Challenge - Critical Thinking)
+**ID:** `CO-ENG-07-weather-005-v10`
+
 ID: CO-ENG-07-weather-005-v10
 
 ### Contexto

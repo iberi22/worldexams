@@ -4,19 +4,25 @@ country: co
 grado: 10
 asignatura: ingles
 tema: crime-justice
+periodo: 1
 cefr_level: B2
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: Crime & Justice Systems (B2)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-10-crime-justice-110-v1`
+
+
+**ID:** `CO-ENG-10-crime-justice-110-v1`
+
 ### Enunciado
 **A person who is believed to have committed a crime is a _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-10-crime-justice-110-v2`
+
+
+**ID:** `CO-ENG-10-crime-justice-110-v2`
+
 ### Enunciado
 **The judge (1)_______ a final verdict after all the evidence (2)_______ by the lawyers.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-10-crime-justice-110-v3`
+
+
+**ID:** `CO-ENG-10-crime-justice-110-v3`
+
 ### Contexto
 **Text:** "Restorative justice focuses on the rehabilitation of offenders through reconciliation with victims and the community at large."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-10-crime-justice-110-v4`
+
+
+**ID:** `CO-ENG-10-crime-justice-110-v4`
+
 ### Enunciado
 **The decision made by a jury in a court of law is the _______.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-10-crime-justice-110-v5`
+
+
+**ID:** `CO-ENG-10-crime-justice-110-v5`
+
 ### Contexto
 **Quote:** "It is better that ten guilty persons escape than that one innocent suffer."
 ### Enunciado
@@ -103,6 +129,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-10-crime-justice-110-v6`
+
+
+**ID:** `CO-ENG-10-crime-justice-110-v6`
+
 ### Contexto
 **Passage:** "While DNA evidence is often considered the 'gold standard' of proof, it can still be contaminated or misinterpreted if strict protocols are not followed during collection."
 ### Enunciado
@@ -120,6 +151,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-10-crime-justice-110-v7`
+
+
+**ID:** `CO-ENG-10-crime-justice-110-v7`
+
 ### Contexto
 **Law Student A:** "High crime rates are always caused by poverty."
 **Law Student B:** "____________"
@@ -138,6 +174,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Modals)
+**ID:** `CO-ENG-10-crime-justice-110-v8`
+
+
+**ID:** `CO-ENG-10-crime-justice-110-v8`
+
 ### Enunciado
 **The defendant _______ remain silent during the trial.**
 ### Opciones
@@ -153,6 +194,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-10-crime-justice-110-v9`
+
+
+**ID:** `CO-ENG-10-crime-justice-110-v9`
+
 ### Enunciado
 **A person who sees an event, typically a crime or accident, take place is a _______.**
 ### Opciones
@@ -168,6 +214,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Critical Thinking)
+**ID:** `CO-ENG-10-crime-justice-110-v10`
+
+
+**ID:** `CO-ENG-10-crime-justice-110-v10`
+
 ### Contexto
 **Statement:** "The death penalty does not act as an effective deterrent to violent crime according to most modern sociological research."
 ### Enunciado

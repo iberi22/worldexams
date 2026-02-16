@@ -4,6 +4,7 @@ country: co
 grado: 8
 asignatura: ingles
 tema: family
+periodo: 1
 cefr_level: B1
 protocol_version: 3.0-COL
 total_questions: 10
@@ -11,13 +12,15 @@ international_focus: Cambridge PET & Social English
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Family & Relationships (B1)
 
 ---
 
 ## Question 1 (Part 1 - Vocabulary)
+**ID:** `CO-ENG-08-family-004-v1`
+
 ID: CO-ENG-08-family-004-v1
 
 ### Contexto
@@ -52,6 +55,8 @@ Match the relationship with its definition.
 ---
 
 ## Question 2 (Part 2 - Pragmatics)
+**ID:** `CO-ENG-08-family-004-v2`
+
 ID: CO-ENG-08-family-004-v2
 
 ### Contexto
@@ -84,6 +89,8 @@ ID: CO-ENG-08-family-004-v2
 ---
 
 ## Question 3 (Part 3 - Conversation)
+**ID:** `CO-ENG-08-family-004-v3`
+
 ID: CO-ENG-08-family-004-v3
 
 ### Contexto
@@ -115,6 +122,8 @@ ID: CO-ENG-08-family-004-v3
 ---
 
 ## Question 4 (Part 4 - Grammar Cloze I)
+**ID:** `CO-ENG-08-family-004-v4`
+
 ID: CO-ENG-08-family-004-v4
 
 ### Contexto
@@ -149,6 +158,8 @@ ID: CO-ENG-08-family-004-v4
 ---
 
 ## Question 5 (Part 5 - Literal Reading)
+**ID:** `CO-ENG-08-family-004-v5`
+
 ID: CO-ENG-08-family-004-v5
 
 ### Contexto
@@ -178,6 +189,8 @@ Extended family (*familia extendida*) is central in Colombian culture. This cont
 ---
 
 ## Question 6 (Part 6 - Inferential Reading)
+**ID:** `CO-ENG-08-family-004-v6`
+
 ID: CO-ENG-08-family-004-v6
 
 ### Contexto
@@ -208,6 +221,8 @@ Despite differences (cassettes vs. TikTok), shared activities create connection.
 ---
 
 ## Question 7 (Part 7 - Grammar Cloze II)
+**ID:** `CO-ENG-08-family-004-v7`
+
 ID: CO-ENG-08-family-004-v7
 
 ### Contexto
@@ -242,6 +257,8 @@ ID: CO-ENG-08-family-004-v7
 ---
 
 ## Question 8 (Challenge - Vocabulary)
+**ID:** `CO-ENG-08-family-004-v8`
+
 ID: CO-ENG-08-family-004-v8
 
 ### Enunciado
@@ -270,6 +287,8 @@ ID: CO-ENG-08-family-004-v8
 ---
 
 ## Question 9 (Challenge - Scenario)
+**ID:** `CO-ENG-08-family-004-v9`
+
 ID: CO-ENG-08-family-004-v9
 
 ### Contexto
@@ -299,6 +318,8 @@ Inclusion isn't about technology—it's about making everyone feel valued. Adapt
 ---
 
 ## Question 10 (Challenge - Critical Thinking)
+**ID:** `CO-ENG-08-family-004-v10`
+
 ID: CO-ENG-08-family-004-v10
 
 ### Contexto

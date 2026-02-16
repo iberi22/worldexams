@@ -4,19 +4,25 @@ country: co
 grado: 3
 asignatura: ingles
 tema: house-parts
+periodo: 1
 cefr_level: A1
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: Parts of the House (Basic) (A1)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-03-house-parts-107-v1`
+
+
+**ID:** `CO-ENG-03-house-parts-107-v1`
+
 ### Enunciado
 **We look out of the _______ to see the garden.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-03-house-parts-107-v2`
+
+
+**ID:** `CO-ENG-03-house-parts-107-v2`
+
 ### Enunciado
 **My house (1)_______ four walls and (2)_______ big door.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-03-house-parts-107-v3`
+
+
+**ID:** `CO-ENG-03-house-parts-107-v3`
+
 ### Contexto
 **Text:** "There is a blue door in my house. The windows are small and white. The roof is red."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-03-house-parts-107-v4`
+
+
+**ID:** `CO-ENG-03-house-parts-107-v4`
+
 ### Enunciado
 **We open the _______ to enter a room.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-03-house-parts-107-v5`
+
+
+**ID:** `CO-ENG-03-house-parts-107-v5`
+
 ### Contexto
 **Parent:** "Please, close the door! It is very cold."
 **Child:** "Okay, Mom."
@@ -104,6 +130,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-03-house-parts-107-v6`
+
+
+**ID:** `CO-ENG-03-house-parts-107-v6`
+
 ### Contexto
 **Passage:** "The rain is falling, but I am dry. I am looking at the water hitting the glass."
 ### Enunciado
@@ -121,6 +152,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-03-house-parts-107-v7`
+
+
+**ID:** `CO-ENG-03-house-parts-107-v7`
+
 ### Contexto
 **Person A:** "Is your house big or small?"
 **Person B:** "____________"
@@ -139,6 +175,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Prepositions)
+**ID:** `CO-ENG-03-house-parts-107-v8`
+
+
+**ID:** `CO-ENG-03-house-parts-107-v8`
+
 ### Enunciado
 **There is a picture (1)_______ the wall, and a rug (2)_______ the floor.**
 ### Opciones
@@ -154,6 +195,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-03-house-parts-107-v9`
+
+
+**ID:** `CO-ENG-03-house-parts-107-v9`
+
 ### Enunciado
 **The top part of a house that protects it from rain is the _______.**
 ### Opciones
@@ -169,6 +215,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Cultural)
+**ID:** `CO-ENG-03-house-parts-107-v10`
+
+
+**ID:** `CO-ENG-03-house-parts-107-v10`
+
 ### Enunciado
 **In Colombia, some houses in the 'pueblos' (towns) have very colorful _______ (doors).**
 ### Opciones

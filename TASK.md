@@ -14,6 +14,24 @@
 
 ## 📋 Tareas Activas (Sprint Actual - API & Monetización)
 
+### 🚀 Fase: Expansión de Contenido (Meta 100/Periodo)
+
+#### 1. Redistribución y Limpieza
+- [ ] **Redistribuir Inglés Grado 3:** Mover exceso de P1 a P2-P4. <!-- id: 10 -->
+- [ ] **Auditoría de "Unknowns":** Asignar periodo a preguntas de Inglés sin clasificación. <!-- id: 11 -->
+
+#### 2. Generación Prioritaria (Brechas Críticas)
+- [ ] **Inglés Grados 4-5 (A1):** Generar 800 preguntas (40 bundles/grado). <!-- id: 12 -->
+- [ ] **Inglés Grados 6-9 (A2):** Generar 1,600 preguntas (40 bundles/grado). <!-- id: 13 -->
+- [ ] **Inglés Grado 10 (B1):** Generar 400 preguntas (40 bundles). <!-- id: 14 -->
+- [ ] **Lectura Crítica Grado 3:** Generar 400 preguntas (40 bundles). <!-- id: 15 -->
+
+#### 3. Relleno de Contenido (Gap +60)
+- [ ] **Grados 4-5 (Math/CN/Soc):** Generar 1,440 preguntas (+240/materia). <!-- id: 16 -->
+- [ ] **Grados 6-9 (Math/CN/Soc):** Generar 2,880 preguntas (+240/materia). <!-- id: 17 -->
+
+---
+
 ### 🚀 Fase 4: API Gateway & Monetización (Prioridad Alta)
 
 #### 4.1 Base de Datos & Auth (Supabase)

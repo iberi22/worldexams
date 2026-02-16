@@ -6,6 +6,7 @@ asignatura: ingles
 tema: entrepreneurship
 cefr_level: B2/C1
 protocol_version: 3.1-COL-Bilingual
+periodo: 1
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
@@ -17,6 +18,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-11-entrepreneurship-109-v1`
+
 ### Enunciado
 **A person who organizes and operates a business, taking on greater than normal financial risks to do so, is an _______.**
 ### Opciones
@@ -39,6 +42,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-11-entrepreneurship-109-v2`
+
 ### Enunciado
 **The CEO (1)_______ the company for ten years by the time she (2)_______ to retire next winter.**
 ### Opciones
@@ -54,6 +59,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-11-entrepreneurship-109-v3`
+
 ### Contexto
 **Text:** "Effective leadership involves emotional intelligence, clear communication, and the ability to inspire a team. A leader is not necessarily a manager; leadership can come from any level."
 ### Enunciado
@@ -71,6 +78,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-11-entrepreneurship-109-v4`
+
 ### Enunciado
 **When a company starts making enough money to cover all its expenses, it reaches the _______.**
 ### Opciones
@@ -86,6 +95,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-11-entrepreneurship-109-v5`
+
 ### Contexto
 **Mentor:** "Don't fall in love with your product; fall in love with the problem you are solving."
 ### Enunciado
@@ -103,6 +114,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-11-entrepreneurship-109-v6`
+
 ### Contexto
 **Passage:** "Failure is often seen as a taboo in many cultures, but in Silicon Valley, it's considered a rite of passage. If you haven't failed, you haven't taken enough risks to innovate."
 ### Enunciado
@@ -120,6 +133,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-11-entrepreneurship-109-v7`
+
 ### Contexto
 **Pitcher:** "We are seeking $500,000 for a 10% stake in our green-tech start-up."
 **Investor:** "____________"
@@ -138,6 +153,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Conditional)
+**ID:** `CO-ENG-11-entrepreneurship-109-v8`
+
 ### Enunciado
 **Unless the team (1)_______ effectively, the project (2)_______ its deadline.**
 ### Opciones
@@ -153,6 +170,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-11-entrepreneurship-109-v9`
+
 ### Enunciado
 **A detailed document describing a company's goals and how it will achieve them is a _______.**
 ### Opciones
@@ -168,6 +187,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Critical Thinking)
+**ID:** `CO-ENG-11-entrepreneurship-109-v10`
+
 ### Contexto
 **Statement:** "Great leaders don't create followers; they create more leaders."
 ### Enunciado

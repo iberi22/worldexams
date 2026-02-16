@@ -4,8 +4,9 @@ country: CO
 grado: 11
 asignatura: ingles
 tema: vocabulary-health
-protocol_version: '3.0'
-total_questions: 11
+protocol_version: 2.1
+periodo: 1
+total_questions: 7
 estado: draft
 creador: Jules
 generation_date: '2025-11-30'

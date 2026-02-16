@@ -5,8 +5,9 @@ grado: 11
 asignatura: ingles
 tema: scientific-method
 cefr_level: B2/C1
-protocol_version: 3.1-COL-Bilingual
-total_questions: 10
+protocol_version: 2.1
+periodo: 1
+total_questions: 1
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
@@ -17,6 +18,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Vocabulary)
+**ID:** `CO-ENG-11-scientific-method-103-v1`
+
 ID: CO-ENG-11-scientific-method-103-v1
 
 ### Enunciado
@@ -39,10 +42,5 @@ ID: CO-ENG-11-scientific-method-103-v1
 | Theory | Well-supported explanation | Teoría |
 | Law | Description of consistent pattern | Ley |
 | Conclusion | Final interpretation of data | Conclusión |
-
----
-
-## Question 2-10
-[Bundle continues with full bilingual explanations following same pattern...]
 
 ---

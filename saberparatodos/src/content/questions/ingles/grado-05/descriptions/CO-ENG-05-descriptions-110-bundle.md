@@ -4,19 +4,25 @@ country: co
 grado: 5
 asignatura: ingles
 tema: descriptions
+periodo: 1
 cefr_level: A1+
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: Descriptions of People & Objects (A1+)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-05-descriptions-110-v1`
+
+
+**ID:** `CO-ENG-05-descriptions-110-v1`
+
 ### Enunciado
 **A person who is very tall is the opposite of a person who is _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-05-descriptions-110-v2`
+
+
+**ID:** `CO-ENG-05-descriptions-110-v2`
+
 ### Enunciado
 **My sister (1)_______ long hair and (2)_______ very smart.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-05-descriptions-110-v3`
+
+
+**ID:** `CO-ENG-05-descriptions-110-v3`
+
 ### Contexto
 **Text:** "My dog, Toby, is small and white. He has big ears and a short tail. He is a very happy dog."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-05-descriptions-110-v4`
+
+
+**ID:** `CO-ENG-05-descriptions-110-v4`
+
 ### Enunciado
 **An object that is not heavy is _______.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-05-descriptions-110-v5`
+
+
+**ID:** `CO-ENG-05-descriptions-110-v5`
+
 ### Contexto
 **Person A:** "What is your best friend like?"
 **Person B:** "She is very kind and funny. We always laugh together."
@@ -104,6 +130,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-05-descriptions-110-v6`
+
+
+**ID:** `CO-ENG-05-descriptions-110-v6`
+
 ### Contexto
 **Passage:** "The box is very big and heavy. Two men are trying to carry it, but it is difficult for them."
 ### Enunciado
@@ -121,6 +152,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-05-descriptions-110-v7`
+
+
+**ID:** `CO-ENG-05-descriptions-110-v7`
+
 ### Contexto
 **Person A:** "Is your new car fast?"
 **Person B:** "____________"
@@ -139,6 +175,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Adjective Order)
+**ID:** `CO-ENG-05-descriptions-110-v8`
+
+
+**ID:** `CO-ENG-05-descriptions-110-v8`
+
 ### Enunciado
 **I have a (1)_______ (2)_______ (3)_______ bag.**
 ### Opciones
@@ -154,6 +195,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-05-descriptions-110-v9`
+
+
+**ID:** `CO-ENG-05-descriptions-110-v9`
+
 ### Enunciado
 **The opposite of a 'new' smartphone is an _______ one.**
 ### Opciones
@@ -169,6 +215,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Cultural)
+**ID:** `CO-ENG-05-descriptions-110-v10`
+
+
+**ID:** `CO-ENG-05-descriptions-110-v10`
+
 ### Enunciado
 **Colombia is a 'diverso' (diverse) country. This means it has many different _______ and types of people.**
 ### Opciones

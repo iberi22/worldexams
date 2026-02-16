@@ -4,19 +4,25 @@ country: co
 grado: 6
 asignatura: ingles
 tema: hobbies
+periodo: 1
 cefr_level: A2
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: Hobbies & Interests (A2)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-06-hobbies-107-v1`
+
+
+**ID:** `CO-ENG-06-hobbies-107-v1`
+
 ### Enunciado
 **I love reading books. My favorite _______ is literature.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-06-hobbies-107-v2`
+
+
+**ID:** `CO-ENG-06-hobbies-107-v2`
+
 ### Enunciado
 **He (1)_______ playing the guitar, but he (2)_______ like singing.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-06-hobbies-107-v3`
+
+
+**ID:** `CO-ENG-06-hobbies-107-v3`
+
 ### Contexto
 **Text:** "Ana and Luis have different interests. Ana likes painting landscapes, while Luis prefers playing chess with his grandfather on Saturdays."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-06-hobbies-107-v4`
+
+
+**ID:** `CO-ENG-06-hobbies-107-v4`
+
 ### Enunciado
 **To move your body to the rhythm of music is to _______.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-06-hobbies-107-v5`
+
+
+**ID:** `CO-ENG-06-hobbies-107-v5`
+
 ### Contexto
 **Friend:** "I'm so bored. Do you want to do something?"
 **You:** "Why don't we go to the park and play football?"
@@ -104,6 +130,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-06-hobbies-107-v6`
+
+
+**ID:** `CO-ENG-06-hobbies-107-v6`
+
 ### Contexto
 **Passage:** "Paola has many colored pencils, empty papers, and an eraser on her desk. She is looking at a flower and starts to make lines on the paper."
 ### Enunciado
@@ -121,6 +152,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-06-hobbies-107-v7`
+
+
+**ID:** `CO-ENG-06-hobbies-107-v7`
+
 ### Contexto
 **Person A:** "What's your favorite video game?"
 **Person B:** "____________"
@@ -139,6 +175,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Gerunds)
+**ID:** `CO-ENG-06-hobbies-107-v8`
+
+
+**ID:** `CO-ENG-06-hobbies-107-v8`
+
 ### Enunciado
 **I enjoy (1)_______ movies and (2)_______ to music.**
 ### Opciones
@@ -154,6 +195,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-06-hobbies-107-v9`
+
+
+**ID:** `CO-ENG-06-hobbies-107-v9`
+
 ### Enunciado
 **A place where you can go to see movies on a big screen is a _______.**
 ### Opciones
@@ -169,6 +215,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Cultural)
+**ID:** `CO-ENG-06-hobbies-107-v10`
+
+
+**ID:** `CO-ENG-06-hobbies-107-v10`
+
 ### Enunciado
 **In Colombia, many children enjoy playing with a _______ (a traditional wooden toy that spins).**
 ### Opciones

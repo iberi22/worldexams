@@ -4,19 +4,25 @@ country: co
 grado: 10
 asignatura: ingles
 tema: health-wellness
+periodo: 1
 cefr_level: B2
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Health & Wellness (B2)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-10-health-wellness-104-v1`
+
+
+**ID:** `CO-ENG-10-health-wellness-104-v1`
+
 ### Enunciado
 **Physical health, mental health, and social connections together form:**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Pragmatics)
+**ID:** `CO-ENG-10-health-wellness-104-v2`
+
+
+**ID:** `CO-ENG-10-health-wellness-104-v2`
+
 ### Contexto
 **Label:** "Contains peanuts. May contain traces of tree nuts."
 ### Enunciado
@@ -56,6 +67,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Conversation)
+**ID:** `CO-ENG-10-health-wellness-104-v3`
+
+
+**ID:** `CO-ENG-10-health-wellness-104-v3`
+
 ### Contexto
 **Friend:** "I only sleep 4 hours a night. I don't need more."
 **You:** "____________"
@@ -74,6 +90,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Grammar)
+**ID:** `CO-ENG-10-health-wellness-104-v4`
+
+
+**ID:** `CO-ENG-10-health-wellness-104-v4`
+
 ### Contexto
 "If you (1)______ more water, you (2)______ more energy."
 ### Enunciado
@@ -91,6 +112,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Literal Reading)
+**ID:** `CO-ENG-10-health-wellness-104-v5`
+
+
+**ID:** `CO-ENG-10-health-wellness-104-v5`
+
 ### Contexto
 **Text:** "The WHO recommends at least 150 minutes of moderate exercise per week for adults. This can include walking, cycling, or swimming."
 ### Enunciado
@@ -108,6 +134,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-10-health-wellness-104-v6`
+
+
+**ID:** `CO-ENG-10-health-wellness-104-v6`
+
 ### Contexto
 **Passage:** "We treat physical and mental illness very differently. A broken arm gets immediate sympathy and treatment. But depression? Often met with 'just cheer up.' Both are medical conditions that deserve proper care."
 ### Enunciado
@@ -125,6 +156,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Advanced Grammar)
+**ID:** `CO-ENG-10-health-wellness-104-v7`
+
+
+**ID:** `CO-ENG-10-health-wellness-104-v7`
+
 ### Contexto
 "(1)______ eating healthy is important, (2)______ is getting enough sleep."
 ### Enunciado
@@ -142,6 +178,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Vocabulary)
+**ID:** `CO-ENG-10-health-wellness-104-v8`
+
+
+**ID:** `CO-ENG-10-health-wellness-104-v8`
+
 ### Enunciado
 **"Sedentary lifestyle" means:**
 ### Opciones
@@ -157,6 +198,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Use of English)
+**ID:** `CO-ENG-10-health-wellness-104-v9`
+
+
+**ID:** `CO-ENG-10-health-wellness-104-v9`
+
 ### Contexto
 **Original:** "Doctors recommend exercising regularly."
 **Rewrite:** *REGULAR EXERCISE...*
@@ -175,6 +221,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Critical Thinking)
+**ID:** `CO-ENG-10-health-wellness-104-v10`
+
+
+**ID:** `CO-ENG-10-health-wellness-104-v10`
+
 ### Contexto
 **Statement:** "Happiness is a choice—just decide to be happy."
 ### Enunciado

@@ -6,6 +6,7 @@ asignatura: ingles
 tema: academic-writing
 cefr_level: C1
 protocol_version: 3.1-GLOBAL
+periodo: 1
 total_questions: 10
 international_focus: CAE / IELTS Academic / TOEFL Writing
 licenses:
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Academic Vocabulary - Difficulty 4)
+**ID:** `UNI-ENG-C1-academic-writing-001-v1`
+
 ID: UNI-ENG-C1-academic-writing-001-v1
 
 ### Enunciado
@@ -49,6 +52,8 @@ ID: UNI-ENG-C1-academic-writing-001-v1
 ---
 
 ## Question 2 (Part 1 - Academic Vocabulary - Difficulty 4)
+**ID:** `UNI-ENG-C1-academic-writing-001-v2`
+
 ID: UNI-ENG-C1-academic-writing-001-v2
 
 ### Enunciado
@@ -67,6 +72,8 @@ ID: UNI-ENG-C1-academic-writing-001-v2
 ---
 
 ## Question 3 (Part 2 - Formal Register - Difficulty 4)
+**ID:** `UNI-ENG-C1-academic-writing-001-v3`
+
 ID: UNI-ENG-C1-academic-writing-001-v3
 
 ### Contexto
@@ -91,6 +98,8 @@ Choose the most appropriate formal verb.
 ---
 
 ## Question 4 (Part 3 - Hedging Language - Difficulty 5)
+**ID:** `UNI-ENG-C1-academic-writing-001-v4`
+
 ID: UNI-ENG-C1-academic-writing-001-v4
 
 ### Contexto
@@ -115,6 +124,8 @@ Choose the hedging expression that maintains academic caution.
 ---
 
 ## Question 5 (Part 4 - Cohesion Devices - Difficulty 5)
+**ID:** `UNI-ENG-C1-academic-writing-001-v5`
+
 ID: UNI-ENG-C1-academic-writing-001-v5
 
 ### Contexto
@@ -137,6 +148,8 @@ Choose the connector that introduces a limitation or caveat.
 ---
 
 ## Question 6 (Part 5 - Critical Reading - Difficulty 5)
+**ID:** `UNI-ENG-C1-academic-writing-001-v6`
+
 ID: UNI-ENG-C1-academic-writing-001-v6
 
 ### Contexto
@@ -159,6 +172,8 @@ What can be inferred about the author's stance on technology in education?
 ---
 
 ## Question 7 (Part 6 - Thesis Statements - Difficulty 5)
+**ID:** `UNI-ENG-C1-academic-writing-001-v7`
+
 ID: UNI-ENG-C1-academic-writing-001-v7
 
 ### Contexto
@@ -180,6 +195,8 @@ Which thesis statement best addresses the prompt with a clear argument?
 ---
 
 ## Question 8 (Part 7 - Citation & Attribution - Difficulty 5)
+**ID:** `UNI-ENG-C1-academic-writing-001-v8`
+
 ID: UNI-ENG-C1-academic-writing-001-v8
 
 ### Contexto
@@ -202,6 +219,8 @@ Choose the appropriate reporting verb for introducing a researcher's claim.
 ---
 
 ## Question 9 (Part 8 - Error Correction - Difficulty 5)
+**ID:** `UNI-ENG-C1-academic-writing-001-v9`
+
 ID: UNI-ENG-C1-academic-writing-001-v9
 
 ### Contexto
@@ -224,6 +243,8 @@ Identify the grammatical error.
 ---
 
 ## Question 10 (Part 9 - Synthesis - Difficulty 5)
+**ID:** `UNI-ENG-C1-academic-writing-001-v10`
+
 ID: UNI-ENG-C1-academic-writing-001-v10
 
 ### Contexto

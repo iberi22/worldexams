@@ -6,6 +6,7 @@ asignatura: ingles
 tema: globalization
 cefr_level: B2/C1
 protocol_version: 3.1-COL-Bilingual
+periodo: 1
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
@@ -17,6 +18,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-11-globalization-107-v1`
+
 ### Enunciado
 **The process by which businesses or other organizations develop international influence or start operating on an international scale is _______.**
 ### Opciones
@@ -39,6 +42,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-11-globalization-107-v2`
+
 ### Enunciado
 **If globalization (1)_______ so rapidly, our local markets (2)_______ very different today.**
 ### Opciones
@@ -54,6 +59,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-11-globalization-107-v3`
+
 ### Contexto
 **Text:** "Globalization has led to increased economic growth but has also been criticized for causing the loss of local traditions and the exploitation of labor in developing countries."
 ### Enunciado
@@ -71,6 +78,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-11-globalization-107-v4`
+
 ### Enunciado
 **The policy of protecting domestic industries against foreign competition by means of tariffs or quotas is called _______.**
 ### Opciones
@@ -86,6 +95,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-11-globalization-107-v5`
+
 ### Contexto
 **Speaker:** "I find it strange that I can buy an 'original' Colombian poncho made in a factory in another continent."
 ### Enunciado
@@ -103,6 +114,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-11-globalization-107-v6`
+
 ### Contexto
 **Passage:** "While English remains the dominant language of global business and science, the rise of regional powers is creating a more 'multipolar' world where multiple cultures influence each other simultaneously."
 ### Enunciado
@@ -120,6 +133,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-11-globalization-107-v7`
+
 ### Contexto
 **Person A:** "Globalization is essentially the Americanization of the world."
 **Person B:** "____________"
@@ -138,6 +153,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Phrasal Verbs)
+**ID:** `CO-ENG-11-globalization-107-v8`
+
 ### Enunciado
 **Many small local stores are _______ because they cannot compete with multinational chains.**
 ### Opciones
@@ -153,6 +170,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-11-globalization-107-v9`
+
 ### Enunciado
 **A company that has facilities and other assets in at least one country other than its home country is a _______.**
 ### Opciones
@@ -168,6 +187,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Critical Thinking)
+**ID:** `CO-ENG-11-globalization-107-v10`
+
 ### Contexto
 **Statement:** "Globalization creates a bigger gap between the rich and the poor within countries, even if it lifts millions out of poverty globally."
 ### Enunciado

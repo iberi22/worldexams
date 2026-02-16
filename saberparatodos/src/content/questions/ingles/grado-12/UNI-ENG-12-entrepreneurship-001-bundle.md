@@ -6,6 +6,7 @@ asignatura: ingles
 tema: entrepreneurship
 cefr_level: C1
 protocol_version: 3.2-GLOBAL
+periodo: 1
 total_questions: 10
 international_focus: Business / Startups / Strategy
 licenses:
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Entrepreneur)
+**ID:** `UNI-ENG-12-entrepreneurship-001-v1`
+
 ID: UNI-ENG-12-entrepreneurship-001-v1
 
 ### Enunciado
@@ -42,6 +45,8 @@ A person who sets up a business, taking on financial risks in the hope of profit
 ---
 
 ## Question 2 (Part 2 - Pitch)
+**ID:** `UNI-ENG-12-entrepreneurship-001-v2`
+
 ID: UNI-ENG-12-entrepreneurship-001-v2
 
 ### Contexto
@@ -63,6 +68,8 @@ This presentation is called a...
 ---
 
 ## Question 3 (Part 3 - MVP)
+**ID:** `UNI-ENG-12-entrepreneurship-001-v3`
+
 ID: UNI-ENG-12-entrepreneurship-001-v3
 
 ### Contexto
@@ -84,6 +91,8 @@ This is...
 ---
 
 ## Question 4 (Part 4 - Pivot)
+**ID:** `UNI-ENG-12-entrepreneurship-001-v4`
+
 ID: UNI-ENG-12-entrepreneurship-001-v4
 
 ### Contexto
@@ -105,6 +114,8 @@ This move is called a...
 ---
 
 ## Question 5 (Part 5 - Venture Capital)
+**ID:** `UNI-ENG-12-entrepreneurship-001-v5`
+
 ID: UNI-ENG-12-entrepreneurship-001-v5
 
 ### Enunciado
@@ -123,6 +134,8 @@ Funds provided to high-potential startups by investors are called...
 ---
 
 ## Question 6 (Part 6 - Break-even)
+**ID:** `UNI-ENG-12-entrepreneurship-001-v6`
+
 ID: UNI-ENG-12-entrepreneurship-001-v6
 
 ### Enunciado
@@ -141,6 +154,8 @@ The point where total costs equal total revenue (no profit, no loss).
 ---
 
 ## Question 7 (Part 7 - Scalability)
+**ID:** `UNI-ENG-12-entrepreneurship-001-v7`
+
 ID: UNI-ENG-12-entrepreneurship-001-v7
 
 ### Enunciado
@@ -159,6 +174,8 @@ The ability of a business to grow rapidly without being hampered by its structur
 ---
 
 ## Question 8 (Part 8 - Niche)
+**ID:** `UNI-ENG-12-entrepreneurship-001-v8`
+
 ID: UNI-ENG-12-entrepreneurship-001-v8
 
 ### Contexto
@@ -180,6 +197,8 @@ Example: "Vegetarian shoes" is a...
 ---
 
 ## Question 9 (Part 9 - Equity)
+**ID:** `UNI-ENG-12-entrepreneurship-001-v9`
+
 ID: UNI-ENG-12-entrepreneurship-001-v9
 
 ### Enunciado
@@ -198,6 +217,8 @@ If you give an investor 10% of your company in exchange for money, you are givin
 ---
 
 ## Question 10 (Part 10 - Disruptive)
+**ID:** `UNI-ENG-12-entrepreneurship-001-v10`
+
 ID: UNI-ENG-12-entrepreneurship-001-v10
 
 ### Contexto

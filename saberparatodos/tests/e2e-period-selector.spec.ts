@@ -16,7 +16,7 @@ test.describe('E2E Period Selector & Content Validation', () => {
         test.setTimeout(120000);
 
         const logFile = path.join(process.cwd(), 'tests', 'evidence', 'debug_log.txt');
-        const log = (msg) => {
+        const log = (msg: string) => {
             fs.appendFileSync(logFile, msg + '\n');
             console.log(msg);
         };
@@ -134,7 +134,7 @@ test.describe('E2E Period Selector & Content Validation', () => {
                 await option.click();
                 // Click Responder/Next/Finish (JS Click to absolutely bypass overlays/stability)
                 const responderBtn = page.getByRole('button', { name: /Responder|Siguiente|Finalizar/i });
-                await responderBtn.evaluate(node => node.click());
+                await responderBtn.evaluate((node) => (node as HTMLElement).click());
 
                 // Wait for feedback or transition
                 await page.waitForTimeout(1000);
@@ -142,14 +142,14 @@ test.describe('E2E Period Selector & Content Validation', () => {
                 // Handle Siguiente if it appears separately (depending on immediate feedback mode)
                 const nextBtn = page.getByRole('button', { name: /Siguiente|Finalizar/i });
                 if (await nextBtn.isVisible()) {
-                    await nextBtn.evaluate(node => node.click());
+                    await nextBtn.evaluate((node) => (node as HTMLElement).click());
                 }
 
                 // If this is the last question, we might see "Finalizar" or auto-transition
                 if (i === 5) {
                     const finishBtn = page.getByRole('button', { name: /Ver Resultados|Finalizar/i });
                     if (await finishBtn.isVisible()) {
-                        await finishBtn.evaluate(node => node.click());
+                        await finishBtn.evaluate((node) => (node as HTMLElement).click());
                     }
                 }
             }
@@ -160,8 +160,9 @@ test.describe('E2E Period Selector & Content Validation', () => {
             await page.screenshot({ path: 'tests/evidence/results.png', fullPage: true });
             log('✅ Exam completed successfully');
         } catch (error) {
-            log('❌ TEST FAILED: ' + error.message);
-            log(error.stack);
+            const err = error as Error;
+            log('❌ TEST FAILED: ' + err.message);
+            if (err.stack) log(err.stack);
             await page.screenshot({ path: 'tests/evidence/failure.png', fullPage: true });
             throw error;
         }

@@ -4,19 +4,25 @@ country: co
 grado: 7
 asignatura: ingles
 tema: sports
+periodo: 1
 cefr_level: A2+
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: Sports & Outdoor Activities (A2+)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-07-sports-109-v1`
+
+
+**ID:** `CO-ENG-07-sports-109-v1`
+
 ### Enunciado
 **The sport where you use your feet to kick a ball into a net is _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-07-sports-109-v2`
+
+
+**ID:** `CO-ENG-07-sports-109-v2`
+
 ### Enunciado
 **I (1)_______ playing tennis, but my brother (2)_______ swimming.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-07-sports-109-v3`
+
+
+**ID:** `CO-ENG-07-sports-109-v3`
+
 ### Contexto
 **Text:** "Cycling is very popular in Colombia. Many people ride their bikes to work or do it as a sport on weekends. Famous cyclists like Nairo Quintana are national heroes."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-07-sports-109-v4`
+
+
+**ID:** `CO-ENG-07-sports-109-v4`
+
 ### Enunciado
 **A person whose job is to train and organize a sports team is a _______.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-07-sports-109-v5`
+
+
+**ID:** `CO-ENG-07-sports-109-v5`
+
 ### Contexto
 **Fan:** "Go! Come on! You can do it!"
 ### Enunciado
@@ -103,6 +129,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-07-sports-109-v6`
+
+
+**ID:** `CO-ENG-07-sports-109-v6`
+
 ### Contexto
 **Passage:** "The stadium was silent. Everyone was looking at the player. He took a deep breath and kicked the ball. A second later, the crowd exploded with joy."
 ### Enunciado
@@ -120,6 +151,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-07-sports-109-v7`
+
+
+**ID:** `CO-ENG-07-sports-109-v7`
+
 ### Contexto
 **Friend:** "How often do you play sports?"
 **You:** "____________"
@@ -138,6 +174,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Verbs)
+**ID:** `CO-ENG-07-sports-109-v8`
+
+
+**ID:** `CO-ENG-07-sports-109-v8`
+
 ### Enunciado
 **We (1)_______ football, (2)_______ gymnastics, and (3)_______ swimming.**
 ### Opciones
@@ -153,6 +194,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-07-sports-109-v9`
+
+
+**ID:** `CO-ENG-07-sports-109-v9`
+
 ### Enunciado
 **A person who is a very enthusiastic supporter of a particular sport or team is a _______.**
 ### Opciones
@@ -168,6 +214,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Cultural)
+**ID:** `CO-ENG-07-sports-109-v10`
+
+
+**ID:** `CO-ENG-07-sports-109-v10`
+
 ### Enunciado
 **A traditional Colombian game where you throw heavy metal discs at targets is called _______.**
 ### Opciones

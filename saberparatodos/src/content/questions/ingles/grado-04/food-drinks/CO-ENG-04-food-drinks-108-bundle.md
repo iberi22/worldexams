@@ -4,19 +4,25 @@ country: co
 grado: 4
 asignatura: ingles
 tema: food-drinks
+periodo: 1
 cefr_level: A1
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: Food & Drinks (Basic) (A1)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-04-food-drinks-108-v1`
+
+
+**ID:** `CO-ENG-04-food-drinks-108-v1`
+
 ### Enunciado
 **An apple is a _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-04-food-drinks-108-v2`
+
+
+**ID:** `CO-ENG-04-food-drinks-108-v2`
+
 ### Enunciado
 **I (1)_______ like broccoli, but I (2)_______ like chocolate.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-04-food-drinks-108-v3`
+
+
+**ID:** `CO-ENG-04-food-drinks-108-v3`
+
 ### Contexto
 **Text:** "For lunch, I have chicken, rice, and beans. I drink orange juice. My sister prefers pasta and water."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-04-food-drinks-108-v4`
+
+
+**ID:** `CO-ENG-04-food-drinks-108-v4`
+
 ### Enunciado
 **You need a _______ to eat soup.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-04-food-drinks-108-v5`
+
+
+**ID:** `CO-ENG-04-food-drinks-108-v5`
+
 ### Contexto
 **Parent:** "Would you like some more rice?"
 **Child:** "No, thank you. I am already full."
@@ -104,6 +130,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-04-food-drinks-108-v6`
+
+
+**ID:** `CO-ENG-04-food-drinks-108-v6`
+
 ### Contexto
 **Passage:** "There is a cake with eight candles on the table. Everyone is singing and clapping."
 ### Enunciado
@@ -121,6 +152,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-04-food-drinks-108-v7`
+
+
+**ID:** `CO-ENG-04-food-drinks-108-v7`
+
 ### Contexto
 **Person A:** "What is your favorite food?"
 **Person B:** "____________"
@@ -139,6 +175,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Articles)
+**ID:** `CO-ENG-04-food-drinks-108-v8`
+
+
+**ID:** `CO-ENG-04-food-drinks-108-v8`
+
 ### Enunciado
 **I want (1)_______ egg and (2)_______ piece of bread.**
 ### Opciones
@@ -154,6 +195,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-04-food-drinks-108-v9`
+
+
+**ID:** `CO-ENG-04-food-drinks-108-v9`
+
 ### Enunciado
 **White liquid that comes from cows is _______.**
 ### Opciones
@@ -169,6 +215,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Cultural)
+**ID:** `CO-ENG-04-food-drinks-108-v10`
+
+
+**ID:** `CO-ENG-04-food-drinks-108-v10`
+
 ### Enunciado
 **In Colombia, people love 'arepas' made of _______.**
 ### Opciones

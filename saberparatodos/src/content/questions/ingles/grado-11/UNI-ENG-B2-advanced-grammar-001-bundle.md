@@ -6,6 +6,7 @@ asignatura: ingles
 tema: advanced-grammar
 cefr_level: B2+
 protocol_version: 3.1-GLOBAL
+periodo: 1
 total_questions: 10
 international_focus: FCE / IELTS / TOEFL Grammar
 licenses:
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Mixed Conditionals - Difficulty 4)
+**ID:** `UNI-ENG-B2-advanced-grammar-001-v1`
+
 ID: UNI-ENG-B2-advanced-grammar-001-v1
 
 ### Contexto
@@ -46,6 +49,8 @@ Choose the correct verb forms for this mixed conditional.
 ---
 
 ## Question 2 (Part 2 - Inversion - Difficulty 5)
+**ID:** `UNI-ENG-B2-advanced-grammar-001-v2`
+
 ID: UNI-ENG-B2-advanced-grammar-001-v2
 
 ### Contexto
@@ -68,6 +73,8 @@ Choose the correct inversion structure.
 ---
 
 ## Question 3 (Part 3 - Subjunctive - Difficulty 5)
+**ID:** `UNI-ENG-B2-advanced-grammar-001-v3`
+
 ID: UNI-ENG-B2-advanced-grammar-001-v3
 
 ### Contexto
@@ -90,6 +97,8 @@ Choose the correct subjunctive form.
 ---
 
 ## Question 4 (Part 4 - Cleft Sentences - Difficulty 4)
+**ID:** `UNI-ENG-B2-advanced-grammar-001-v4`
+
 ID: UNI-ENG-B2-advanced-grammar-001-v4
 
 ### Contexto
@@ -112,6 +121,8 @@ Choose the correct cleft sentence structure.
 ---
 
 ## Question 5 (Part 5 - Participle Clauses - Difficulty 5)
+**ID:** `UNI-ENG-B2-advanced-grammar-001-v5`
+
 ID: UNI-ENG-B2-advanced-grammar-001-v5
 
 ### Contexto
@@ -134,6 +145,8 @@ Combine using a participle clause.
 ---
 
 ## Question 6 (Part 6 - Reported Speech Advanced - Difficulty 4)
+**ID:** `UNI-ENG-B2-advanced-grammar-001-v6`
+
 ID: UNI-ENG-B2-advanced-grammar-001-v6
 
 ### Contexto
@@ -156,6 +169,8 @@ Choose the correct reported speech transformation.
 ---
 
 ## Question 7 (Part 7 - Ellipsis & Substitution - Difficulty 5)
+**ID:** `UNI-ENG-B2-advanced-grammar-001-v7`
+
 ID: UNI-ENG-B2-advanced-grammar-001-v7
 
 ### Contexto
@@ -179,6 +194,8 @@ Choose the correct elliptical response.
 ---
 
 ## Question 8 (Part 8 - Relative Clauses Reduction - Difficulty 5)
+**ID:** `UNI-ENG-B2-advanced-grammar-001-v8`
+
 ID: UNI-ENG-B2-advanced-grammar-001-v8
 
 ### Contexto
@@ -201,6 +218,8 @@ Choose the reduced relative clause version.
 ---
 
 ## Question 9 (Part 9 - Fronting for Emphasis - Difficulty 5)
+**ID:** `UNI-ENG-B2-advanced-grammar-001-v9`
+
 ID: UNI-ENG-B2-advanced-grammar-001-v9
 
 ### Contexto
@@ -222,6 +241,8 @@ Choose the correct fronted version.
 ---
 
 ## Question 10 (Part 10 - Nominal Clauses - Difficulty 5)
+**ID:** `UNI-ENG-B2-advanced-grammar-001-v10`
+
 ID: UNI-ENG-B2-advanced-grammar-001-v10
 
 ### Contexto

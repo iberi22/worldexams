@@ -5,8 +5,8 @@ grado: 3
 asignatura: "lectura-critica"
 tema: "Vocabulario (Palabras)"
 periodo: 1
-protocol_version: "3.0"
-total_questions: 10
+protocol_version: "2.0"
+total_questions: 7
 estado: "approved"
 creador: "Antigravity (Protocol v3.0)"
 generation_date: "2026-02-14"

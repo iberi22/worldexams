@@ -6,6 +6,7 @@ asignatura: ingles
 tema: philosophical-debate
 cefr_level: B2
 protocol_version: 3.1-GLOBAL
+periodo: 1
 total_questions: 10
 international_focus: FCE / Philosophy / Ethics
 licenses:
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Utilitarianism - Difficulty 5)
+**ID:** `UNI-ENG-11-philosophical-debate-001-v1`
+
 ID: UNI-ENG-11-philosophical-debate-001-v1
 
 ### Contexto
@@ -46,6 +49,8 @@ Which ethical theory focuses on "the greatest good for the greatest number"?
 ---
 
 ## Question 2 (Part 2 - Free Will - Difficulty 5)
+**ID:** `UNI-ENG-11-philosophical-debate-001-v2`
+
 ID: UNI-ENG-11-philosophical-debate-001-v2
 
 ### Contexto
@@ -68,6 +73,8 @@ What concept is this debate questioning?
 ---
 
 ## Question 3 (Part 3 - Socratic Method - Difficulty 4)
+**ID:** `UNI-ENG-11-philosophical-debate-001-v3`
+
 ID: UNI-ENG-11-philosophical-debate-001-v3
 
 ### Contexto
@@ -90,6 +97,8 @@ What is this method called?
 ---
 
 ## Question 4 (Part 4 - Existentialism - Difficulty 5)
+**ID:** `UNI-ENG-11-philosophical-debate-001-v4`
+
 ID: UNI-ENG-11-philosophical-debate-001-v4
 
 ### Contexto
@@ -112,6 +121,8 @@ What does this imply about human purpose?
 ---
 
 ## Question 5 (Part 5 - Cognitive Bias - Difficulty 5)
+**ID:** `UNI-ENG-11-philosophical-debate-001-v5`
+
 ID: UNI-ENG-11-philosophical-debate-001-v5
 
 ### Contexto
@@ -134,6 +145,8 @@ What is this cognitive bias?
 ---
 
 ## Question 6 (Part 6 - Logic - Validity - Difficulty 5)
+**ID:** `UNI-ENG-11-philosophical-debate-001-v6`
+
 ID: UNI-ENG-11-philosophical-debate-001-v6
 
 ### Contexto
@@ -158,6 +171,8 @@ Is this argument logical (valid)?
 ---
 
 ## Question 7 (Part 7 - Moral Relativism - Difficulty 5)
+**ID:** `UNI-ENG-11-philosophical-debate-001-v7`
+
 ID: UNI-ENG-11-philosophical-debate-001-v7
 
 ### Contexto
@@ -180,6 +195,8 @@ What position is this?
 ---
 
 ## Question 8 (Part 8 - Stoicism - Difficulty 4)
+**ID:** `UNI-ENG-11-philosophical-debate-001-v8`
+
 ID: UNI-ENG-11-philosophical-debate-001-v8
 
 ### Contexto
@@ -202,6 +219,8 @@ Which philosophy is famous for this teaching?
 ---
 
 ## Question 9 (Part 9 - Aesthetics - Difficulty 4)
+**ID:** `UNI-ENG-11-philosophical-debate-001-v9`
+
 ID: UNI-ENG-11-philosophical-debate-001-v9
 
 ### Contexto
@@ -224,6 +243,8 @@ This question belongs to which branch of philosophy?
 ---
 
 ## Question 10 (Part 10 - Paradox - Difficulty 5)
+**ID:** `UNI-ENG-11-philosophical-debate-001-v10`
+
 ID: UNI-ENG-11-philosophical-debate-001-v10
 
 ### Contexto

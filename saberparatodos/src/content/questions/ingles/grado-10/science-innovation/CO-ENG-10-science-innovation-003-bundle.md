@@ -4,19 +4,22 @@ country: co
 grado: 10
 asignatura: ingles
 tema: science-innovation
+periodo: 1
 cefr_level: B2
 protocol_version: 3.0-COL
 total_questions: 10
 international_focus: TOEFL Reading & STEM
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Science & Innovation (B2)
 
 ---
 
 ## Question 1 (Part 1 - Vocabulary)
+**ID:** `CO-ENG-10-science-innovation-003-v1`
+
 ID: CO-ENG-10-science-innovation-003-v1
 
 ### Contexto
@@ -48,6 +51,8 @@ Match definition **"2. A possible explanation to be tested"** with the correct w
 ---
 
 ## Question 2 (Part 2 - Pragmatics)
+**ID:** `CO-ENG-10-science-innovation-003-v2`
+
 ID: CO-ENG-10-science-innovation-003-v2
 
 ### Contexto
@@ -69,6 +74,8 @@ ID: CO-ENG-10-science-innovation-003-v2
 ---
 
 ## Question 3 (Part 3 - Conversation)
+**ID:** `CO-ENG-10-science-innovation-003-v3`
+
 ID: CO-ENG-10-science-innovation-003-v3
 
 ### Contexto
@@ -91,6 +98,8 @@ ID: CO-ENG-10-science-innovation-003-v3
 ---
 
 ## Question 4 (Part 4 - Grammar Cloze I)
+**ID:** `CO-ENG-10-science-innovation-003-v4`
+
 ID: CO-ENG-10-science-innovation-003-v4
 
 ### Contexto
@@ -112,6 +121,8 @@ ID: CO-ENG-10-science-innovation-003-v4
 ---
 
 ## Question 5 (Part 5 - Literal Reading)
+**ID:** `CO-ENG-10-science-innovation-003-v5`
+
 ID: CO-ENG-10-science-innovation-003-v5
 
 ### Contexto
@@ -133,6 +144,8 @@ ID: CO-ENG-10-science-innovation-003-v5
 ---
 
 ## Question 6 (Part 6 - Inferential Reading)
+**ID:** `CO-ENG-10-science-innovation-003-v6`
+
 ID: CO-ENG-10-science-innovation-003-v6
 
 ### Contexto
@@ -154,6 +167,8 @@ ID: CO-ENG-10-science-innovation-003-v6
 ---
 
 ## Question 7 (Part 7 - Advanced Cloze)
+**ID:** `CO-ENG-10-science-innovation-003-v7`
+
 ID: CO-ENG-10-science-innovation-003-v7
 
 ### Contexto
@@ -175,6 +190,8 @@ ID: CO-ENG-10-science-innovation-003-v7
 ---
 
 ## Question 8 (Challenge - C1 Vocab)
+**ID:** `CO-ENG-10-science-innovation-003-v8`
+
 ID: CO-ENG-10-science-innovation-003-v8
 
 ### Enunciado
@@ -192,6 +209,8 @@ ID: CO-ENG-10-science-innovation-003-v8
 ---
 
 ## Question 9 (Challenge - Scientific Reasoning)
+**ID:** `CO-ENG-10-science-innovation-003-v9`
+
 ID: CO-ENG-10-science-innovation-003-v9
 
 ### Contexto
@@ -213,6 +232,8 @@ A study finds that people who eat chocolate daily live longer. The study was fun
 ---
 
 ## Question 10 (Challenge - Critical Thinking)
+**ID:** `CO-ENG-10-science-innovation-003-v10`
+
 ID: CO-ENG-10-science-innovation-003-v10
 
 ### Contexto

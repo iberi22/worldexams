@@ -4,19 +4,25 @@ country: co
 grado: 6
 asignatura: ingles
 tema: city-places
+periodo: 1
 cefr_level: A2
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: Places in the City (A2)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-06-city-places-108-v1`
+
+
+**ID:** `CO-ENG-06-city-places-108-v1`
+
 ### Enunciado
 **You go to the _______ to buy bread and cakes.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-06-city-places-108-v2`
+
+
+**ID:** `CO-ENG-06-city-places-108-v2`
+
 ### Enunciado
 **The park (1)_______ between the school (2)_______ the library.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-06-city-places-108-v3`
+
+
+**ID:** `CO-ENG-06-city-places-108-v3`
+
 ### Contexto
 **Text:** "In my neighborhood, there is a big supermarket across from the bank. Next to the bank, there is a small pharmacy. The hospital is far from here."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-06-city-places-108-v4`
+
+
+**ID:** `CO-ENG-06-city-places-108-v4`
+
 ### Enunciado
 **If you are very sick, you should go to the _______.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-06-city-places-108-v5`
+
+
+**ID:** `CO-ENG-06-city-places-108-v5`
+
 ### Contexto
 **Tourist:** "Excuse me, how do I get to the main square?"
 **Resident:** "Go straight for two blocks and turn left at the traffic light."
@@ -104,6 +130,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-06-city-places-108-v6`
+
+
+**ID:** `CO-ENG-06-city-places-108-v6`
+
 ### Contexto
 **Passage:** "I can see many children playing on the swings and slides. There are green trees and some people are walking their dogs."
 ### Enunciado
@@ -121,6 +152,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-06-city-places-108-v7`
+
+
+**ID:** `CO-ENG-06-city-places-108-v7`
+
 ### Contexto
 **Person A:** "Is there a supermarket near here?"
 **Person B:** "____________"
@@ -139,6 +175,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Prepositions)
+**ID:** `CO-ENG-06-city-places-108-v8`
+
+
+**ID:** `CO-ENG-06-city-places-108-v8`
+
 ### Enunciado
 **The cat is (1)_______ the roof, and the dog is (2)_______ the house.**
 ### Opciones
@@ -154,6 +195,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-06-city-places-108-v9`
+
+
+**ID:** `CO-ENG-06-city-places-108-v9`
+
 ### Enunciado
 **A place where people can go to see ancient objects or art is a _______.**
 ### Opciones
@@ -169,6 +215,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Cultural)
+**ID:** `CO-ENG-06-city-places-108-v10`
+
+
+**ID:** `CO-ENG-06-city-places-108-v10`
+
 ### Enunciado
 **In most Colombian towns, the center of the city is the 'Plaza Bolivar' or the _______.**
 ### Opciones

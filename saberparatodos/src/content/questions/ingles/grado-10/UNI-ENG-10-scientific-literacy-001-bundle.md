@@ -4,6 +4,7 @@ country: global
 grado: 10
 asignatura: ingles
 tema: scientific-literacy
+periodo: 1
 cefr_level: B1+
 protocol_version: 3.1-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Scientific Literacy & Data Interpretation (B1+ Challenge)
 
 > **Analysis:** Interpreting graphs, methodology flaws, and scientific claims using Intermediate vocabulary.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Graph Interpretation - Difficulty 4)
+**ID:** `UNI-ENG-10-scientific-literacy-001-v1`
+
 ID: UNI-ENG-10-scientific-literacy-001-v1
 
 ### Contexto
@@ -45,6 +48,8 @@ How would you describe the trend?
 ---
 
 ## Question 2 (Part 2 - Methodology Flaw - Difficulty 5)
+**ID:** `UNI-ENG-10-scientific-literacy-001-v2`
+
 ID: UNI-ENG-10-scientific-literacy-001-v2
 
 ### Contexto
@@ -66,6 +71,8 @@ What is the problem with this study?
 ---
 
 ## Question 3 (Part 3 - Distinguishing Theory vs Law - Difficulty 5)
+**ID:** `UNI-ENG-10-scientific-literacy-001-v3`
+
 ID: UNI-ENG-10-scientific-literacy-001-v3
 
 ### Enunciado
@@ -84,6 +91,8 @@ In science, what is a "Theory" (like Evolution or Gravity)?
 ---
 
 ## Question 4 (Part 4 - Variable Identification - Difficulty 4)
+**ID:** `UNI-ENG-10-scientific-literacy-001-v4`
+
 ID: UNI-ENG-10-scientific-literacy-001-v4
 
 ### Contexto
@@ -105,6 +114,8 @@ What is the **Independent Variable** (the thing we change)?
 ---
 
 ## Question 5 (Part 5 - Correlation Trap - Difficulty 5)
+**ID:** `UNI-ENG-10-scientific-literacy-001-v5`
+
 ID: UNI-ENG-10-scientific-literacy-001-v5
 
 ### Contexto
@@ -126,6 +137,8 @@ Does being tall CAUSE you to know more words?
 ---
 
 ## Question 6 (Part 6 - Reading Abstracts - Difficulty 5)
+**ID:** `UNI-ENG-10-scientific-literacy-001-v6`
+
 ID: UNI-ENG-10-scientific-literacy-001-v6
 
 ### Contexto
@@ -147,6 +160,8 @@ Does X strongly determine Y?
 ---
 
 ## Question 7 (Part 7 - Control Group - Difficulty 4)
+**ID:** `UNI-ENG-10-scientific-literacy-001-v7`
+
 ID: UNI-ENG-10-scientific-literacy-001-v7
 
 ### Contexto
@@ -168,6 +183,8 @@ What is Group B called?
 ---
 
 ## Question 8 (Part 8 - Confirmation Bias Science - Difficulty 5)
+**ID:** `UNI-ENG-10-scientific-literacy-001-v8`
+
 ID: UNI-ENG-10-scientific-literacy-001-v8
 
 ### Contexto
@@ -189,6 +206,8 @@ This is an example of what?
 ---
 
 ## Question 9 (Part 9 - Unit Conversion Logic - Difficulty 4)
+**ID:** `UNI-ENG-10-scientific-literacy-001-v9`
+
 ID: UNI-ENG-10-scientific-literacy-001-v9
 
 ### Contexto
@@ -210,6 +229,8 @@ Is 10 inches longer than 20 cm?
 ---
 
 ## Question 10 (Part 10 - Hypothesis Testing - Difficulty 5)
+**ID:** `UNI-ENG-10-scientific-literacy-001-v10`
+
 ID: UNI-ENG-10-scientific-literacy-001-v10
 
 ### Contexto

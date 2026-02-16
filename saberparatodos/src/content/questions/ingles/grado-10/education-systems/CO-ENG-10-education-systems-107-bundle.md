@@ -4,19 +4,25 @@ country: co
 grado: 10
 asignatura: ingles
 tema: education-systems
+periodo: 1
 cefr_level: B2
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: Education Systems & Future Schooling (B2)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-10-education-systems-107-v1`
+
+
+**ID:** `CO-ENG-10-education-systems-107-v1`
+
 ### Enunciado
 **The set of courses and their content offered at a school or university is the _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-10-education-systems-107-v2`
+
+
+**ID:** `CO-ENG-10-education-systems-107-v2`
+
 ### Enunciado
 **By the year 2040, most schools (1)_______ traditional textbooks for digital platforms (2)_______ AI tutors.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-10-education-systems-107-v3`
+
+
+**ID:** `CO-ENG-10-education-systems-107-v3`
+
 ### Contexto
 **Text:** "Distance learning has evolved from mail-in courses to sophisticated virtual reality environments where students from different continents can collaborate in real-time."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-10-education-systems-107-v4`
+
+
+**ID:** `CO-ENG-10-education-systems-107-v4`
+
 ### Enunciado
 **A sum of money granted to a student to help pay for their education is a _______.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-10-education-systems-107-v5`
+
+
+**ID:** `CO-ENG-10-education-systems-107-v5`
+
 ### Contexto
 **Counselor:** "Focus on your soft skills, like teamwork and leadership, as much as your technical knowledge."
 ### Enunciado
@@ -103,6 +129,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-10-education-systems-107-v6`
+
+
+**ID:** `CO-ENG-10-education-systems-107-v6`
+
 ### Contexto
 **Passage:** "Finland's education system consistently ranks among the best in the world. Interestingly, they have less homework, shorter school days, and no standardized tests until the end of high school."
 ### Enunciado
@@ -120,6 +151,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-10-education-systems-107-v7`
+
+
+**ID:** `CO-ENG-10-education-systems-107-v7`
+
 ### Contexto
 **Student A:** "University degrees will be obsolete soon because of online certifications."
 **Student B:** "____________"
@@ -138,6 +174,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Phrasal Verbs)
+**ID:** `CO-ENG-10-education-systems-107-v8`
+
+
+**ID:** `CO-ENG-10-education-systems-107-v8`
+
 ### Enunciado
 **Many students _______ of school because of financial difficulties.**
 ### Opciones
@@ -153,6 +194,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-10-education-systems-107-v9`
+
+
+**ID:** `CO-ENG-10-education-systems-107-v9`
+
 ### Enunciado
 **The ability to read and write is _______.**
 ### Opciones
@@ -168,6 +214,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Critical Thinking)
+**ID:** `CO-ENG-10-education-systems-107-v10`
+
+
+**ID:** `CO-ENG-10-education-systems-107-v10`
+
 ### Contexto
 **Statement:** "Lifelong learning is no longer a choice; it's a necessity in a rapidly changing world."
 ### Enunciado

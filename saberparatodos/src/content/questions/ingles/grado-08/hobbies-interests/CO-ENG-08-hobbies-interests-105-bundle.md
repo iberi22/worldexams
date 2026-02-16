@@ -4,17 +4,23 @@ country: co
 grado: 8
 asignatura: ingles
 tema: hobbies-interests
+periodo: 1
 cefr_level: B1
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Hobbies & Interests (B1)
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-08-hobbies-interests-105-v1`
+
+
+**ID:** `CO-ENG-08-hobbies-interests-105-v1`
+
 ### Enunciado
 **Activities done for enjoyment in free time are called:**
 ### Opciones
@@ -37,6 +43,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Pragmatics)
+**ID:** `CO-ENG-08-hobbies-interests-105-v2`
+
+
+**ID:** `CO-ENG-08-hobbies-interests-105-v2`
+
 ### Contexto
 **Club poster:** "🎨 Art Club: Wednesdays 4-6 PM. All skill levels welcome!"
 ### Enunciado
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Conversation)
+**ID:** `CO-ENG-08-hobbies-interests-105-v3`
+
+
+**ID:** `CO-ENG-08-hobbies-interests-105-v3`
+
 ### Contexto
 **New friend:** "What do you like to do for fun?"
 **You:** "____________"
@@ -72,6 +88,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Grammar)
+**ID:** `CO-ENG-08-hobbies-interests-105-v4`
+
+
+**ID:** `CO-ENG-08-hobbies-interests-105-v4`
+
 ### Contexto
 "I (1)______ playing video games since I was 10. It (2)______ my favorite hobby."
 ### Enunciado
@@ -89,6 +110,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Literal Reading)
+**ID:** `CO-ENG-08-hobbies-interests-105-v5`
+
+
+**ID:** `CO-ENG-08-hobbies-interests-105-v5`
+
 ### Contexto
 **Text:** "According to surveys, the most popular hobbies among Colombian teenagers are playing video games (65%), listening to music (80%), and using social media (75%)."
 ### Enunciado
@@ -106,6 +132,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-08-hobbies-interests-105-v6`
+
+
+**ID:** `CO-ENG-08-hobbies-interests-105-v6`
+
 ### Contexto
 **Passage:** "My parents think gaming is a waste of time. But through online games, I've learned teamwork, problem-solving, and even some Japanese. Not everything educational happens in a classroom."
 ### Enunciado
@@ -123,6 +154,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Advanced Grammar)
+**ID:** `CO-ENG-08-hobbies-interests-105-v7`
+
+
+**ID:** `CO-ENG-08-hobbies-interests-105-v7`
+
 ### Contexto
 "(1)______ I prefer reading, my brother (2)______ rather watch movies."
 ### Enunciado
@@ -140,6 +176,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Vocabulary)
+**ID:** `CO-ENG-08-hobbies-interests-105-v8`
+
+
+**ID:** `CO-ENG-08-hobbies-interests-105-v8`
+
 ### Enunciado
 **A "pastime" is:**
 ### Opciones
@@ -155,6 +196,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Use of English)
+**ID:** `CO-ENG-08-hobbies-interests-105-v9`
+
+
+**ID:** `CO-ENG-08-hobbies-interests-105-v9`
+
 ### Contexto
 **Original:** "Young people enjoy listening to music."
 **Rewrite:** *LISTENING TO MUSIC...*
@@ -173,6 +219,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Critical Thinking)
+**ID:** `CO-ENG-08-hobbies-interests-105-v10`
+
+
+**ID:** `CO-ENG-08-hobbies-interests-105-v10`
+
 ### Contexto
 **Statement:** "Hobbies are a waste of time; you should always be productive."
 ### Enunciado

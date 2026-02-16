@@ -4,19 +4,22 @@ country: co
 grado: 7
 asignatura: ingles
 tema: school-life
+periodo: 1
 cefr_level: A2+
 protocol_version: 3.0-COL
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: School Life (A2+)
 
 ---
 
 ## Question 1 (Part 1 - Vocabulary)
+**ID:** `CO-ENG-07-school-life-002-v1`
+
 ID: CO-ENG-07-school-life-002-v1
 
 ### Enunciado
@@ -36,6 +39,8 @@ ID: CO-ENG-07-school-life-002-v1
 ---
 
 ## Question 2 (Part 2 - Pragmatics)
+**ID:** `CO-ENG-07-school-life-002-v2`
+
 ID: CO-ENG-07-school-life-002-v2
 
 ### Contexto
@@ -57,6 +62,8 @@ ID: CO-ENG-07-school-life-002-v2
 ---
 
 ## Question 3 (Part 3 - Conversation)
+**ID:** `CO-ENG-07-school-life-002-v3`
+
 ID: CO-ENG-07-school-life-002-v3
 
 ### Contexto
@@ -78,6 +85,8 @@ ID: CO-ENG-07-school-life-002-v3
 ---
 
 ## Question 4 (Part 4 - Grammar)
+**ID:** `CO-ENG-07-school-life-002-v4`
+
 ID: CO-ENG-07-school-life-002-v4
 
 ### Contexto
@@ -96,6 +105,8 @@ ID: CO-ENG-07-school-life-002-v4
 ---
 
 ## Question 5 (Part 5 - Literal Reading)
+**ID:** `CO-ENG-07-school-life-002-v5`
+
 ID: CO-ENG-07-school-life-002-v5
 
 ### Contexto
@@ -117,6 +128,8 @@ Text: "reduce bullying about clothing" = a positive argument for uniforms.
 ---
 
 ## Question 6 (Part 6 - Inferential Reading)
+**ID:** `CO-ENG-07-school-life-002-v6`
+
 ID: CO-ENG-07-school-life-002-v6
 
 ### Contexto
@@ -138,6 +151,8 @@ ID: CO-ENG-07-school-life-002-v6
 ---
 
 ## Question 7 (Part 7 - Grammar)
+**ID:** `CO-ENG-07-school-life-002-v7`
+
 ID: CO-ENG-07-school-life-002-v7
 
 ### Contexto
@@ -156,6 +171,8 @@ ID: CO-ENG-07-school-life-002-v7
 ---
 
 ## Question 8 (Challenge - Vocabulary)
+**ID:** `CO-ENG-07-school-life-002-v8`
+
 ID: CO-ENG-07-school-life-002-v8
 
 ### Enunciado
@@ -174,6 +191,8 @@ Principal = the school's top administrator. In Colombia: rector/a.
 ---
 
 ## Question 9 (Challenge - Scenario)
+**ID:** `CO-ENG-07-school-life-002-v9`
+
 ID: CO-ENG-07-school-life-002-v9
 
 ### Contexto
@@ -195,6 +214,8 @@ Kindness matters. One invitation can change someone's day.
 ---
 
 ## Question 10 (Challenge - Critical Thinking)
+**ID:** `CO-ENG-07-school-life-002-v10`
+
 ID: CO-ENG-07-school-life-002-v10
 
 ### Contexto

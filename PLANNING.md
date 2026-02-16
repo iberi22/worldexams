@@ -290,5 +290,38 @@ src/content/questions/colombia/[asignatura]/grado-[N]/[tema]/
   CO-[SUBJ]-[N]-[tema]-001-v3-bundle.md
 ```
 
-**Referencia:** `skills/create_bundles_manually/SKILL.md`, `TASK.md` (sección "Fase: Generación de Contenido Grados 6°, 7° y 8°")
+
+---
+
+## 10. Plan de Expansión (Q1 2026): Meta 100/Materia
+
+**Objetivo:** Alcanzar una cobertura mínima de **100 preguntas por materia y periodo** para todos los grados (3°-11°), asegurando la viabilidad del modo "Por Periodo" sin repetición de preguntas.
+
+### Análisis de Brechas (Feb 14, 2026)
+
+| Grado | Asignatura | P1 | P2 | P3 | P4 | Estado | Acción Requerida |
+|-------|------------|----|----|----|----|--------|------------------|
+| **3** | Inglés | 500| 0 | 0 | 0 | ⚠️ Mal distribuido | Redistribuir P1 -> P2, P3, P4 |
+| **3** | Lectura/Tech | 0 | 0 | 0 | 0 | ❌ Crítico | Crear 400 preguntas (100/periodo) |
+| **4-9** | Inglés | 0 | 0 | 0 | 0 | ❌ Crítico | Crear 2,400 preguntas (400/grado) |
+| **4-9** | Math/CN/Soc | 40 | 40 | 40 | 40 | ⚠️ Insuficiente | Añadir +60 preguntas/periodo (+240/materia) |
+| **10** | Inglés | 0 | 0 | 0 | 0 | ❌ Crítico | Crear 400 preguntas |
+| **11** | TODAS | >100| >100| >100| >100| ✅ Óptimo | Mantenimiento |
+
+### Estrategia de Ejecución
+
+#### Paso 1: Redistribución y Limpieza (Inmediato)
+*   **Grado 3 Inglés:** Mover preguntas de P1 a otros periodos basándose en temas (Vocabulary -> P1, Grammar -> P2, Reading -> P3/P4).
+*   **Asignación de "Unknowns":** Clasificar las ~2,000 preguntas de Inglés que actualmente no tienen periodo asignado.
+
+#### Paso 2: Generación Prioritaria (Inglés 4-10)
+*   **Meta:** 400 preguntas por grado (2,800 total).
+*   **Enfoque:** Uso de `Question Generator` con prompts ajustados por nivel CEFR (A1 para G4-5, A2 para G6-8, B1 para G9-10).
+
+#### Paso 3: Relleno de Brechas (Math/CN/Soc 4-9)
+*   **Meta:** +60 preguntas por periodo (GAP actual: 240 por materia/grado).
+*   **Total a generar:** ~4,320 preguntas (6 grados * 3 materias * 240 preguntas).
+*   **Método:** Automatización masiva por "Topic Folder" existente.
+
+---
 

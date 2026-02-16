@@ -4,17 +4,23 @@ country: co
 grado: 9
 asignatura: ingles
 tema: sports-fitness
+periodo: 1
 cefr_level: B1+
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Sports & Fitness (B1+)
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-09-sports-fitness-103-v1`
+
+
+**ID:** `CO-ENG-09-sports-fitness-103-v1`
+
 ### Enunciado
 **The Olympic Games are held every:**
 ### Opciones
@@ -37,6 +43,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Pragmatics)
+**ID:** `CO-ENG-09-sports-fitness-103-v2`
+
+
+**ID:** `CO-ENG-09-sports-fitness-103-v2`
+
 ### Contexto
 **Gym sign:** "Please wipe down equipment after use."
 ### Enunciado
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Conversation)
+**ID:** `CO-ENG-09-sports-fitness-103-v3`
+
+
+**ID:** `CO-ENG-09-sports-fitness-103-v3`
+
 ### Contexto
 **Coach:** "Your technique is improving!"
 **You:** "____________"
@@ -72,6 +88,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Grammar)
+**ID:** `CO-ENG-09-sports-fitness-103-v4`
+
+
+**ID:** `CO-ENG-09-sports-fitness-103-v4`
+
 ### Contexto
 "If you (1)______ every day, you (2)______ stronger."
 ### Enunciado
@@ -89,6 +110,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Literal Reading)
+**ID:** `CO-ENG-09-sports-fitness-103-v5`
+
+
+**ID:** `CO-ENG-09-sports-fitness-103-v5`
+
 ### Contexto
 **Text:** "Colombia won 5 gold medals at the 2020 Tokyo Olympics, their best performance ever. Cycling and weightlifting were the top sports."
 ### Enunciado
@@ -106,6 +132,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-09-sports-fitness-103-v6`
+
+
+**ID:** `CO-ENG-09-sports-fitness-103-v6`
+
 ### Contexto
 **Passage:** "Professional athletes are often seen as role models. Yet some earn millions while teachers and nurses struggle. Does kicking a ball really deserve more reward than saving lives?"
 ### Enunciado
@@ -123,6 +154,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Advanced Grammar)
+**ID:** `CO-ENG-09-sports-fitness-103-v7`
+
+
+**ID:** `CO-ENG-09-sports-fitness-103-v7`
+
 ### Contexto
 "(1)______ training hard, she (2)______ injured before the competition."
 ### Enunciado
@@ -140,6 +176,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Vocabulary)
+**ID:** `CO-ENG-09-sports-fitness-103-v8`
+
+
+**ID:** `CO-ENG-09-sports-fitness-103-v8`
+
 ### Enunciado
 **"Sportsmanship" means:**
 ### Opciones
@@ -155,6 +196,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Use of English)
+**ID:** `CO-ENG-09-sports-fitness-103-v9`
+
+
+**ID:** `CO-ENG-09-sports-fitness-103-v9`
+
 ### Contexto
 **Original:** "People watch football matches every weekend."
 **Rewrite:** *FOOTBALL MATCHES...*
@@ -173,6 +219,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Critical Thinking)
+**ID:** `CO-ENG-09-sports-fitness-103-v10`
+
+
+**ID:** `CO-ENG-09-sports-fitness-103-v10`
+
 ### Contexto
 **Statement:** "E-sports are not real sports because there's no physical activity."
 ### Enunciado

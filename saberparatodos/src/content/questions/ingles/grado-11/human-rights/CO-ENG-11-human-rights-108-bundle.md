@@ -6,6 +6,7 @@ asignatura: ingles
 tema: human-rights
 cefr_level: B2/C1
 protocol_version: 3.1-COL-Bilingual
+periodo: 1
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
@@ -17,6 +18,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-11-human-rights-108-v1`
+
 ### Enunciado
 **The fundamental rights that every person is entitled to, regardless of nationality, sex, or race, are _______.**
 ### Opciones
@@ -39,6 +42,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-11-human-rights-108-v2`
+
 ### Enunciado
 **Human rights (1)_______ by many international organizations since the Universal Declaration (2)_______ in 1948.**
 ### Opciones
@@ -54,6 +59,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-11-human-rights-108-v3`
+
 ### Contexto
 **Text:** "Democracy is not just about voting in elections. It also requires the rule of law, the protection of minorities, and an independent press to hold those in power accountable."
 ### Enunciado
@@ -71,6 +78,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-11-human-rights-108-v4`
+
 ### Enunciado
 **The ability to speak or write what you think without being punished by the government is _______.**
 ### Opciones
@@ -86,6 +95,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-11-human-rights-108-v5`
+
 ### Contexto
 **Protester's Sign:** "Justice delayed is justice denied."
 ### Enunciado
@@ -103,6 +114,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-11-human-rights-108-v6`
+
 ### Contexto
 **Passage:** "A free press acts as a 'watchdog'. While it may sometimes cause discomfort to politicians, its presence is essential for a healthy democracy to expose corruption and inform the public."
 ### Enunciado
@@ -120,6 +133,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-11-human-rights-108-v7`
+
 ### Contexto
 **Student A:** "Human rights are a Western concept that shouldn't be imposed on other cultures."
 **Student B:** "____________"
@@ -138,6 +153,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Modals)
+**ID:** `CO-ENG-11-human-rights-108-v8`
+
 ### Enunciado
 **Governments _______ respect the privacy of their citizens, but often they use security as an excuse to monitor them.**
 ### Opciones
@@ -153,6 +170,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-11-human-rights-108-v9`
+
 ### Enunciado
 **When someone is treated unfairly because of their race, gender, or religion, it is called _______.**
 ### Opciones
@@ -168,6 +187,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Critical Thinking)
+**ID:** `CO-ENG-11-human-rights-108-v10`
+
 ### Contexto
 **Statement:** "True democracy requires an educated population that can think critically about information."
 ### Enunciado

@@ -69,7 +69,7 @@ import DashboardMain from '../components/dashboard/DashboardMain.svelte';
       }
 
       // Show Dashboard
-      if (userEmailEl) userEmailEl.textContent = session.user.email;
+      if (userEmailEl) userEmailEl.textContent = session.user.email ?? '';
       if (dashboardApp) dashboardApp.style.display = 'flex';
       if (loadingScreen) loadingScreen.style.display = 'none';
     }

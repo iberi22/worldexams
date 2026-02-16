@@ -28,11 +28,11 @@ export default defineConfig({
       // Content Security Policy
       'Content-Security-Policy': [
         "default-src 'self'",
-        "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://tzmrgvtptdtsjcugwqyq.supabase.co https://pagead2.googlesyndication.com https://adservice.google.com https://giscus.app",
+        "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://tzmrgvtptdtsjcugwqyq.supabase.co https://pagead2.googlesyndication.com https://adservice.google.com https://giscus.app https://static.cloudflareinsights.com",
         "style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://fonts.googleapis.com",
         "img-src 'self' data: https:",
         "font-src 'self' data: https://fonts.gstatic.com font:",
-        "connect-src 'self' ws://localhost:* http://localhost:* https://tzmrgvtptdtsjcugwqyq.supabase.co wss://tzmrgvtptdtsjcugwqyq.supabase.co https://pagead2.googlesyndication.com https://adservice.google.com https://googleads.g.doubleclick.net https://giscus.app https://fonts.googleapis.com https://fonts.gstatic.com https://peerjs.com https://*.peerjs.com wss://peerjs.com wss://*.peerjs.com https://0.peerjs.com wss://0.peerjs.com",
+        "connect-src 'self' ws://localhost:* http://localhost:* https://tzmrgvtptdtsjcugwqyq.supabase.co wss://tzmrgvtptdtsjcugwqyq.supabase.co https://pagead2.googlesyndication.com https://adservice.google.com https://googleads.g.doubleclick.net https://giscus.app https://fonts.googleapis.com https://fonts.gstatic.com https://peerjs.com https://*.peerjs.com wss://peerjs.com wss://*.peerjs.com https://0.peerjs.com wss://0.peerjs.com https://static.cloudflareinsights.com",
         "frame-src 'self' https://googleads.g.doubleclick.net https://tpc.googlesyndication.com https://www.google.com https://giscus.app",
         "object-src 'none'",
         "base-uri 'self'",

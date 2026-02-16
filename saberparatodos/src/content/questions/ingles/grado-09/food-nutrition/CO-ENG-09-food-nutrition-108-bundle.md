@@ -4,19 +4,25 @@ country: co
 grado: 9
 asignatura: ingles
 tema: food-nutrition
+periodo: 1
 cefr_level: B1+
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: Food & Global Nutrition (B1+)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-09-food-nutrition-108-v1`
+
+
+**ID:** `CO-ENG-09-food-nutrition-108-v1`
+
 ### Enunciado
 **A diet that includes the right amount of different nutrients is a _______ diet.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-09-food-nutrition-108-v2`
+
+
+**ID:** `CO-ENG-09-food-nutrition-108-v2`
+
 ### Enunciado
 **If people (1)_______ more vegetables, they (2)_______ healthier.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-09-food-nutrition-108-v3`
+
+
+**ID:** `CO-ENG-09-food-nutrition-108-v3`
+
 ### Contexto
 **Text:** "Fast food is convenient but often high in salt and unhealthy fats. Traditional home-cooked meals tend to be more nutritious because you can control the ingredients."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-09-food-nutrition-108-v4`
+
+
+**ID:** `CO-ENG-09-food-nutrition-108-v4`
+
 ### Enunciado
 **A person who doesn't eat meat is a _______.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-09-food-nutrition-108-v5`
+
+
+**ID:** `CO-ENG-09-food-nutrition-108-v5`
+
 ### Contexto
 **Waitress:** "Are you ready to order or do you need a few more minutes?"
 **Customer:** "____________"
@@ -104,6 +130,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-09-food-nutrition-108-v6`
+
+
+**ID:** `CO-ENG-09-food-nutrition-108-v6`
+
 ### Contexto
 **Passage:** "The 'Mediterranean diet' is famous for its health benefits. It includes lots of olive oil, fish, and fresh fruit. People in these regions often live longer than in other parts of the world."
 ### Enunciado
@@ -121,6 +152,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-09-food-nutrition-108-v7`
+
+
+**ID:** `CO-ENG-09-food-nutrition-108-v7`
+
 ### Contexto
 **Student A:** "School cafeterias should only sell healthy food."
 **Student B:** "____________"
@@ -139,6 +175,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Quantifiers)
+**ID:** `CO-ENG-09-food-nutrition-108-v8`
+
+
+**ID:** `CO-ENG-09-food-nutrition-108-v8`
+
 ### Enunciado
 **You shouldn't eat too _______ sugar.**
 ### Opciones
@@ -154,6 +195,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-09-food-nutrition-108-v9`
+
+
+**ID:** `CO-ENG-09-food-nutrition-108-v9`
+
 ### Enunciado
 **A description of a list of ingredients and instructions for cooking a dish is a _______.**
 ### Opciones
@@ -169,6 +215,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Vocabulary - Cultural)
+**ID:** `CO-ENG-09-food-nutrition-108-v10`
+
+
+**ID:** `CO-ENG-09-food-nutrition-108-v10`
+
 ### Enunciado
 **In Colombia, a traditional breakfast in Bogota is called 'Changua'. It is a _______ with milk and eggs.**
 ### Opciones

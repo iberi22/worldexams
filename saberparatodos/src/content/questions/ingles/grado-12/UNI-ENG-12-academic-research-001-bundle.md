@@ -6,6 +6,7 @@ asignatura: ingles
 tema: academic-research
 cefr_level: C1+
 protocol_version: 3.1-GLOBAL
+periodo: 1
 total_questions: 10
 international_focus: IELTS Academic / University / Research
 licenses:
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Abstract Structure - Difficulty 4)
+**ID:** `UNI-ENG-12-academic-research-001-v1`
+
 ID: UNI-ENG-12-academic-research-001-v1
 
 ### Contexto
@@ -45,6 +48,8 @@ What is this section called?
 ---
 
 ## Question 2 (Part 2 - Qualitative vs Quantitative - Difficulty 5)
+**ID:** `UNI-ENG-12-academic-research-001-v2`
+
 ID: UNI-ENG-12-academic-research-001-v2
 
 ### Contexto
@@ -66,6 +71,8 @@ What type of research is this?
 ---
 
 ## Question 3 (Part 3 - Peer Review - Difficulty 5)
+**ID:** `UNI-ENG-12-academic-research-001-v3`
+
 ID: UNI-ENG-12-academic-research-001-v3
 
 ### Contexto
@@ -87,6 +94,8 @@ Why is this process essential?
 ---
 
 ## Question 4 (Part 4 - Citations - Difficulty 5)
+**ID:** `UNI-ENG-12-academic-research-001-v4`
+
 ID: UNI-ENG-12-academic-research-001-v4
 
 ### Contexto
@@ -108,6 +117,8 @@ What is this called?
 ---
 
 ## Question 5 (Part 5 - Validity vs Reliability - Difficulty 5)
+**ID:** `UNI-ENG-12-academic-research-001-v5`
+
 ID: UNI-ENG-12-academic-research-001-v5
 
 ### Contexto
@@ -129,6 +140,8 @@ How would you describe this measurement?
 ---
 
 ## Question 6 (Part 6 - Longitudinal Study - Difficulty 5)
+**ID:** `UNI-ENG-12-academic-research-001-v6`
+
 ID: UNI-ENG-12-academic-research-001-v6
 
 ### Contexto
@@ -150,6 +163,8 @@ What type of study is this?
 ---
 
 ## Question 7 (Part 7 - Hypothesis - Difficulty 4)
+**ID:** `UNI-ENG-12-academic-research-001-v7`
+
 ID: UNI-ENG-12-academic-research-001-v7
 
 ### Contexto
@@ -172,6 +187,8 @@ What do you conclude?
 ---
 
 ## Question 8 (Part 8 - Literature Review - Difficulty 4)
+**ID:** `UNI-ENG-12-academic-research-001-v8`
+
 ID: UNI-ENG-12-academic-research-001-v8
 
 ### Contexto
@@ -193,6 +210,8 @@ What is this phase?
 ---
 
 ## Question 9 (Part 9 - Correlation Coefficient - Difficulty 5)
+**ID:** `UNI-ENG-12-academic-research-001-v9`
+
 ID: UNI-ENG-12-academic-research-001-v9
 
 ### Contexto
@@ -214,6 +233,8 @@ What does this number indicate?
 ---
 
 ## Question 10 (Part 10 - Empirical Evidence - Difficulty 5)
+**ID:** `UNI-ENG-12-academic-research-001-v10`
+
 ID: UNI-ENG-12-academic-research-001-v10
 
 ### Contexto

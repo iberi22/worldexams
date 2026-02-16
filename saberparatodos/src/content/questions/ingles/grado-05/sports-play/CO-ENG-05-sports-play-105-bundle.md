@@ -4,19 +4,25 @@ country: co
 grado: 5
 asignatura: ingles
 tema: sports-play
+periodo: 1
 cefr_level: A1+
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Sports & Play (A1+)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-05-sports-play-105-v1`
+
+
+**ID:** `CO-ENG-05-sports-play-105-v1`
+
 ### Enunciado
 **Colombia's most popular sport is _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Vocabulary)
+**ID:** `CO-ENG-05-sports-play-105-v2`
+
+
+**ID:** `CO-ENG-05-sports-play-105-v2`
+
 ### Enunciado
 **You need a racket and a ball to play _______.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Grammar)
+**ID:** `CO-ENG-05-sports-play-105-v3`
+
+
+**ID:** `CO-ENG-05-sports-play-105-v3`
+
 ### Enunciado
 **I _______ play basketball on Fridays.**
 ### Opciones
@@ -69,6 +85,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-05-sports-play-105-v4`
+
+
+**ID:** `CO-ENG-05-sports-play-105-v4`
+
 ### Enunciado
 **Nairo Quintana is a famous Colombian _______.**
 ### Opciones
@@ -84,6 +105,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Vocabulary)
+**ID:** `CO-ENG-05-sports-play-105-v5`
+
+
+**ID:** `CO-ENG-05-sports-play-105-v5`
+
 ### Enunciado
 **We go to the _______ to swim.**
 ### Opciones
@@ -99,6 +125,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Reading - Literal)
+**ID:** `CO-ENG-05-sports-play-105-v6`
+
+
+**ID:** `CO-ENG-05-sports-play-105-v6`
+
 ### Contexto
 **Text:** "David plays soccer every afternoon. He is the goalkeeper. He wears a green shirt and special gloves."
 ### Enunciado
@@ -116,6 +147,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Pragmatics)
+**ID:** `CO-ENG-05-sports-play-105-v7`
+
+
+**ID:** `CO-ENG-05-sports-play-105-v7`
+
 ### Contexto
 **Coach:** "Great job team! You worked hard today!"
 ### Enunciado
@@ -133,6 +169,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Vocabulary)
+**ID:** `CO-ENG-05-sports-play-105-v8`
+
+
+**ID:** `CO-ENG-05-sports-play-105-v8`
+
 ### Enunciado
 **You need a _______ to play basketball.**
 ### Opciones
@@ -148,6 +189,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Reading - Inferential)
+**ID:** `CO-ENG-05-sports-play-105-v9`
+
+
+**ID:** `CO-ENG-05-sports-play-105-v9`
+
 ### Contexto
 **Passage:** "Mariana Pajón is wearing a helmet and riding her bike over jumps very fast."
 ### Enunciado
@@ -165,6 +211,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Conversation)
+**ID:** `CO-ENG-05-sports-play-105-v10`
+
+
+**ID:** `CO-ENG-05-sports-play-105-v10`
+
 ### Contexto
 **Person A:** "Do you want to play soccer with us?"
 **Person B:** "____________"

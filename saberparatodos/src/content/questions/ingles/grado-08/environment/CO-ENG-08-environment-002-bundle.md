@@ -4,6 +4,7 @@ country: co
 grado: 8
 asignatura: ingles
 tema: environment
+periodo: 1
 cefr_level: B1
 protocol_version: 3.0-COL
 total_questions: 10
@@ -11,13 +12,15 @@ international_focus: Cambridge PET & Environmental Science
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Environment & Nature (B1)
 
 ---
 
 ## Question 1 (Part 1 - Vocabulary)
+**ID:** `CO-ENG-08-environment-002-v1`
+
 ID: CO-ENG-08-environment-002-v1
 
 ### Contexto
@@ -69,6 +72,8 @@ Match definition **"3. Animals and plants at risk of disappearing forever"** wit
 ---
 
 ## Question 2 (Part 2 - Pragmatics)
+**ID:** `CO-ENG-08-environment-002-v2`
+
 ID: CO-ENG-08-environment-002-v2
 
 ### Contexto
@@ -97,6 +102,8 @@ Signs often explain rules AND imply reasons. "Turtle Nesting Area" + "No flashli
 ---
 
 ## Question 3 (Part 3 - Conversation)
+**ID:** `CO-ENG-08-environment-002-v3`
+
 ID: CO-ENG-08-environment-002-v3
 
 ### Contexto
@@ -127,6 +134,8 @@ ID: CO-ENG-08-environment-002-v3
 ---
 
 ## Question 4 (Part 4 - Grammar Cloze I)
+**ID:** `CO-ENG-08-environment-002-v4`
+
 ID: CO-ENG-08-environment-002-v4
 
 ### Contexto
@@ -161,6 +170,8 @@ ID: CO-ENG-08-environment-002-v4
 ---
 
 ## Question 5 (Part 5 - Literal Reading)
+**ID:** `CO-ENG-08-environment-002-v5`
+
 ID: CO-ENG-08-environment-002-v5
 
 ### Contexto
@@ -191,6 +202,8 @@ Watch for **numbers and what they describe**. Multiple percentages can be confus
 ---
 
 ## Question 6 (Part 6 - Inferential Reading)
+**ID:** `CO-ENG-08-environment-002-v6`
+
 ID: CO-ENG-08-environment-002-v6
 
 ### Contexto
@@ -221,6 +234,8 @@ These questions don't expect an answer—they make you think. The author uses th
 ---
 
 ## Question 7 (Part 7 - Grammar Cloze II)
+**ID:** `CO-ENG-08-environment-002-v7`
+
 ID: CO-ENG-08-environment-002-v7
 
 ### Contexto
@@ -255,6 +270,8 @@ ID: CO-ENG-08-environment-002-v7
 ---
 
 ## Question 8 (Challenge - Vocabulary)
+**ID:** `CO-ENG-08-environment-002-v8`
+
 ID: CO-ENG-08-environment-002-v8
 
 ### Enunciado
@@ -289,6 +306,8 @@ Colombia is the **2nd most biodiverse country in the world!** 🇨🇴
 ---
 
 ## Question 9 (Challenge - Local Connection)
+**ID:** `CO-ENG-08-environment-002-v9`
+
 ID: CO-ENG-08-environment-002-v9
 
 ### Contexto
@@ -321,6 +340,8 @@ Your city is considering whether to build a new shopping mall on the last green 
 ---
 
 ## Question 10 (Challenge - Critical Thinking)
+**ID:** `CO-ENG-08-environment-002-v10`
+
 ID: CO-ENG-08-environment-002-v10
 
 ### Contexto

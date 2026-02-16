@@ -4,19 +4,22 @@ country: co
 grado: 10
 asignatura: ingles
 tema: media-influence
+periodo: 1
 cefr_level: B2
-protocol_version: 3.1-COL-Bilingual
-total_questions: 10
+protocol_version: 2.1
+total_questions: 1
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Media Influence & Critical Thinking (B2)
 
 ---
 
 ## Question 1 (Part 1 - Vocabulary)
+**ID:** `CO-ENG-10-media-influence-105-v1`
+
 ID: CO-ENG-10-media-influence-105-v1
 
 ### Enunciado
@@ -43,9 +46,5 @@ ID: CO-ENG-10-media-influence-105-v1
 
 **Critical Thinking Tip:** Always ask "Who benefits from this information?"
 *Consejo de Pensamiento Crítico: Siempre pregunta "¿Quién se beneficia de esta información?"*
-
----
-
-## Question 2-10 (Full bilingual explanations...)
 
 ---

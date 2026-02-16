@@ -4,6 +4,7 @@ country: global
 grado: 10
 asignatura: ingles
 tema: travel-mastery
+periodo: 1
 cefr_level: B1+
 protocol_version: 3.1-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Travel Mastery & Logistics (B1+)
 
 > **Focus:** Airports, hotels, emergencies, and cultural navigation.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Airport Check-in - Difficulty 4)
+**ID:** `UNI-ENG-10-travel-mastery-001-v1`
+
 ID: UNI-ENG-10-travel-mastery-001-v1
 
 ### Contexto
@@ -45,6 +48,8 @@ Which item must be removed based on this rule?
 ---
 
 ## Question 2 (Part 2 - Customs Declaration - Difficulty 5)
+**ID:** `UNI-ENG-10-travel-mastery-001-v2`
+
 ID: UNI-ENG-10-travel-mastery-001-v2
 
 ### Contexto
@@ -66,6 +71,8 @@ You bought a watch for $12,000. What must you do?
 ---
 
 ## Question 3 (Part 3 - Hotel Complaint - Difficulty 4)
+**ID:** `UNI-ENG-10-travel-mastery-001-v3`
+
 ID: UNI-ENG-10-travel-mastery-001-v3
 
 ### Contexto
@@ -87,6 +94,8 @@ What is the problem?
 ---
 
 ## Question 4 (Part 4 - Directions - Difficulty 4)
+**ID:** `UNI-ENG-10-travel-mastery-001-v4`
+
 ID: UNI-ENG-10-travel-mastery-001-v4
 
 ### Contexto
@@ -108,6 +117,8 @@ What mode of transport connects Piccadilly and Bakerloo?
 ---
 
 ## Question 5 (Part 5 - Delayed Flight - Difficulty 5)
+**ID:** `UNI-ENG-10-travel-mastery-001-v5`
+
 ID: UNI-ENG-10-travel-mastery-001-v5
 
 ### Contexto
@@ -129,6 +140,8 @@ What can you get for free?
 ---
 
 ## Question 6 (Part 6 - Medical Emergency - Difficulty 5)
+**ID:** `UNI-ENG-10-travel-mastery-001-v6`
+
 ID: UNI-ENG-10-travel-mastery-001-v6
 
 ### Contexto
@@ -150,6 +163,8 @@ What does this symptom likely indicate?
 ---
 
 ## Question 7 (Part 7 - Currency Exchange - Difficulty 4)
+**ID:** `UNI-ENG-10-travel-mastery-001-v7`
+
 ID: UNI-ENG-10-travel-mastery-001-v7
 
 ### Contexto
@@ -171,6 +186,8 @@ If you have 100 USD and want Euros, which rate applies?
 ---
 
 ## Question 8 (Part 8 - Cultural Etiquette - Difficulty 5)
+**ID:** `UNI-ENG-10-travel-mastery-001-v8`
+
 ID: UNI-ENG-10-travel-mastery-001-v8
 
 ### Contexto
@@ -192,6 +209,8 @@ What should you NOT do in a restaurant in Tokyo?
 ---
 
 ## Question 9 (Part 9 - Visa Requirements - Difficulty 5)
+**ID:** `UNI-ENG-10-travel-mastery-001-v9`
+
 ID: UNI-ENG-10-travel-mastery-001-v9
 
 ### Contexto
@@ -213,6 +232,8 @@ You are going for a 60-day business trip. Can you get this visa?
 ---
 
 ## Question 10 (Part 10 - Rental Car - Difficulty 4)
+**ID:** `UNI-ENG-10-travel-mastery-001-v10`
+
 ID: UNI-ENG-10-travel-mastery-001-v10
 
 ### Contexto

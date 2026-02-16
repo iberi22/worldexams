@@ -6,6 +6,7 @@ asignatura: ingles
 tema: modern-history
 cefr_level: B2
 protocol_version: 3.1-GLOBAL
+periodo: 1
 total_questions: 10
 international_focus: History / Conflict / Politics
 licenses:
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - The Cold War - Difficulty 4)
+**ID:** `UNI-ENG-11-modern-history-001-v1`
+
 ID: UNI-ENG-11-modern-history-001-v1
 
 ### Contexto
@@ -45,6 +48,8 @@ Why was it called "Cold"?
 ---
 
 ## Question 2 (Part 2 - Alliances - Difficulty 4)
+**ID:** `UNI-ENG-11-modern-history-001-v2`
+
 ID: UNI-ENG-11-modern-history-001-v2
 
 ### Contexto
@@ -66,6 +71,8 @@ What is this principle called?
 ---
 
 ## Question 3 (Part 3 - Decolonization - Difficulty 5)
+**ID:** `UNI-ENG-11-modern-history-001-v3`
+
 ID: UNI-ENG-11-modern-history-001-v3
 
 ### Contexto
@@ -87,6 +94,8 @@ What is this historical trend?
 ---
 
 ## Question 4 (Part 4 - Primary Source - Difficulty 5)
+**ID:** `UNI-ENG-11-modern-history-001-v4`
+
 ID: UNI-ENG-11-modern-history-001-v4
 
 ### Contexto
@@ -108,6 +117,8 @@ What type of source is this?
 ---
 
 ## Question 5 (Part 5 - Suffrage - Difficulty 5)
+**ID:** `UNI-ENG-11-modern-history-001-v5`
+
 ID: UNI-ENG-11-modern-history-001-v5
 
 ### Contexto
@@ -129,6 +140,8 @@ What does "Suffrage" mean?
 ---
 
 ## Question 6 (Part 6 - Propaganda - Difficulty 4)
+**ID:** `UNI-ENG-11-modern-history-001-v6`
+
 ID: UNI-ENG-11-modern-history-001-v6
 
 ### Contexto
@@ -150,6 +163,8 @@ What is the purpose of this image?
 ---
 
 ## Question 7 (Part 7 - Civil Rights - Difficulty 5)
+**ID:** `UNI-ENG-11-modern-history-001-v7`
+
 ID: UNI-ENG-11-modern-history-001-v7
 
 ### Contexto
@@ -171,6 +186,8 @@ What does "civil disobedience" involve?
 ---
 
 ## Question 8 (Part 8 - The Great Depression - Difficulty 4)
+**ID:** `UNI-ENG-11-modern-history-001-v8`
+
 ID: UNI-ENG-11-modern-history-001-v8
 
 ### Contexto
@@ -192,6 +209,8 @@ What was this era called?
 ---
 
 ## Question 9 (Part 9 - Genocide Definition - Difficulty 5)
+**ID:** `UNI-ENG-11-modern-history-001-v9`
+
 ID: UNI-ENG-11-modern-history-001-v9
 
 ### Contexto
@@ -213,6 +232,8 @@ What is this crime called?
 ---
 
 ## Question 10 (Part 10 - Historical Bias - Difficulty 5)
+**ID:** `UNI-ENG-11-modern-history-001-v10`
+
 ID: UNI-ENG-11-modern-history-001-v10
 
 ### Contexto

@@ -4,6 +4,7 @@ country: global
 grado: 9
 asignatura: ingles
 tema: personal-finance
+periodo: 1
 cefr_level: B1
 protocol_version: 3.2-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Personal Finance (Grade 9)
 
 > **Focus:** Needs vs Wants, Budgeting, and Savings.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Needs vs Wants)
+**ID:** `UNI-ENG-09-personal-finance-001-v1`
+
 ID: UNI-ENG-09-personal-finance-001-v1
 
 ### Enunciado
@@ -45,6 +48,8 @@ Which of these is a **Need** (essential for survival)?
 ---
 
 ## Question 2 (Part 2 - Budget)
+**ID:** `UNI-ENG-09-personal-finance-001-v2`
+
 ID: UNI-ENG-09-personal-finance-001-v2
 
 ### Contexto
@@ -66,6 +71,8 @@ What is this?
 ---
 
 ## Question 3 (Part 3 - Income)
+**ID:** `UNI-ENG-09-personal-finance-001-v3`
+
 ID: UNI-ENG-09-personal-finance-001-v3
 
 ### Contexto
@@ -87,6 +94,8 @@ This is your...
 ---
 
 ## Question 4 (Part 4 - Saving)
+**ID:** `UNI-ENG-09-personal-finance-001-v4`
+
 ID: UNI-ENG-09-personal-finance-001-v4
 
 ### Contexto
@@ -108,6 +117,8 @@ This means you should put money into ______ before spending it.
 ---
 
 ## Question 5 (Part 5 - Debt)
+**ID:** `UNI-ENG-09-personal-finance-001-v5`
+
 ID: UNI-ENG-09-personal-finance-001-v5
 
 ### Enunciado
@@ -126,6 +137,8 @@ If you borrow money, you create...
 ---
 
 ## Question 6 (Part 6 - Interest)
+**ID:** `UNI-ENG-09-personal-finance-001-v6`
+
 ID: UNI-ENG-09-personal-finance-001-v6
 
 ### Contexto
@@ -147,6 +160,8 @@ What is it?
 ---
 
 ## Question 7 (Part 7 - Debit vs Credit)
+**ID:** `UNI-ENG-09-personal-finance-001-v7`
+
 ID: UNI-ENG-09-personal-finance-001-v7
 
 ### Enunciado
@@ -165,6 +180,8 @@ Which card uses money you **already have** in your bank account?
 ---
 
 ## Question 8 (Part 8 - Emergency Fund)
+**ID:** `UNI-ENG-09-personal-finance-001-v8`
+
 ID: UNI-ENG-09-personal-finance-001-v8
 
 ### Enunciado
@@ -183,6 +200,8 @@ Money saved specifically for unexpected bad events (like losing a job) is called
 ---
 
 ## Question 9 (Part 9 - Expense)
+**ID:** `UNI-ENG-09-personal-finance-001-v9`
+
 ID: UNI-ENG-09-personal-finance-001-v9
 
 ### Contexto
@@ -204,6 +223,8 @@ This is an...
 ---
 
 ## Question 10 (Part 10 - Goal)
+**ID:** `UNI-ENG-09-personal-finance-001-v10`
+
 ID: UNI-ENG-09-personal-finance-001-v10
 
 ### Enunciado

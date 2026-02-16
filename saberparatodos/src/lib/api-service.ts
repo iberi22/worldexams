@@ -210,6 +210,16 @@ function formatSubjectName(subject: string): string {
   return subjectDisplayMap[normalized] || subject.toUpperCase().replace(/[-_]/g, ' ');
 }
 
+function normalizeSubjectKey(subject: string): string {
+  return String(subject || '')
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/[\s-]+/g, '_')
+    .replace(/[^a-z0-9_]/g, '')
+    .trim();
+}
+
 /**
  * Transform API question format to App question format
  * 🆕 Now handles both API formats:
@@ -331,102 +341,25 @@ export async function fetchQuestions(
   subject: string,
   page: number = 1
 ): Promise<AppQuestion[]> {
-  const cacheKey = `${grade}-${subject}-${page}`;
+  const normalizedSubject = normalizeSubjectKey(subject);
+  const cacheKey = `${grade}-${normalizedSubject}-${page}`;
 
   if (questionCache.has(cacheKey)) {
     console.log(`📦 Using cached questions for ${cacheKey}`);
     return questionCache.get(cacheKey)!;
   }
 
-  // 🔄 Try multiple folder name variants (due to API inconsistency)
-  const subjectVariants = [
-    subject.toLowerCase(),                           // Original: "lectura_critica"
-    subject.toLowerCase().replace(/_/g, '-'),        // Variant 1: "lectura-critica"
-    subject.toLowerCase().replace(/-/g, '_'),        // Variant 2: "lectura_critica"
-  ];
+  // Only one page exists in static weekly packs
+  if (page > 1) return [];
 
-  // Remove duplicates
-  const uniqueVariants = [...new Set(subjectVariants)];
-
-  let response: Response | null = null;
-  let successfulUrl = '';
-  const headers = await getAuthHeaders();
-
-  // Try each variant until one works
-  for (const variant of uniqueVariants) {
-    const url = `${API_BASE_URL}/${COUNTRY_CODE}/${EXAM_TYPE}/${grade}/${variant}/${page}.json?t=${Date.now()}`;
-
-    try {
-      const attemptResponse = await fetch(url, {
-        cache: 'no-cache',
-        headers
-      });
-
-      if (attemptResponse.ok) {
-        response = attemptResponse;
-        successfulUrl = url;
-        console.log(`✅ Found questions at: ${url}`);
-        break; // Success, stop trying variants
-      }
-    } catch (err) {
-      // Try next variant
-      continue;
-    }
-  }
-
-  if (!response || !response.ok) {
-    console.warn(`⚠️ Failed to fetch questions for ${subject} (tried ${uniqueVariants.length} variants)`);
-    return [];
-  }
-
+  // 🔄 Redirect to Pack System (subject-specific file)
   try {
+     const subjectQuestions = await fetchQuestionsFromPacks(grade, normalizedSubject);
+     questionCache.set(cacheKey, subjectQuestions);
+     return subjectQuestions;
 
-    // 🔍 Validar que la respuesta es JSON y no HTML
-    const contentType = response.headers.get('content-type');
-    if (!contentType?.includes('application/json')) {
-      const text = await response.text();
-      console.error(`❌ API Error - Expected JSON, got ${contentType || 'unknown'}`);
-      console.error(`First 200 chars of response: ${text.substring(0, 200)}`);
-
-      // Si es HTML, probablemente es un 404 de Cloudflare
-      if (text.includes('<!DOCTYPE') || text.includes('<html')) {
-        console.error(`🚨 Received HTML instead of JSON. The API endpoint might not exist in production.`);
-        console.error(`Troubleshooting:`);
-        console.error(`  1. Verify that dist/api/ folder is deployed to Cloudflare Pages`);
-        console.error(`  2. Check Cloudflare Pages build settings`);
-        console.error(`  3. Try accessing ${successfulUrl} directly in browser`);
-      }
-      return [];
-    }
-
-    let data;
-    try {
-      data = await response.json();
-    } catch (parseError) {
-      console.error(`⚠️ Invalid JSON response from ${successfulUrl}:`, parseError);
-      return [];
-    }
-
-    // Null-safe check for questions array
-    if (!data || !data.questions || !Array.isArray(data.questions)) {
-      console.warn(`⚠️ Invalid response structure for ${subject} grade ${grade}:`, data);
-      return [];
-    }
-
-    const questions: AppQuestion[] = data.questions
-      .filter((q: APIQuestion) => q && q.statement && q.options) // Filter invalid questions
-      .map((q: APIQuestion) => transformQuestion(q, grade, subject));
-
-    questionCache.set(cacheKey, questions);
-
-    // 🆕 Persist (fire and forget)
-    saveKnownQuestions(questions).catch(e => console.warn('Failed to persist cache:', e));
-
-    console.log(`✅ Loaded ${questions.length} questions for ${subject} grade ${grade}`);
-
-    return questions;
   } catch (error) {
-    console.error('Error fetching questions:', error);
+    console.error(`Error fetching questions for ${subject} via packs:`, error);
     return [];
   }
 }
@@ -449,14 +382,39 @@ export async function fetchAllQuestionsForGrade(
   console.log(`🔍 [API] Starting fetchAllQuestionsForGrade(${grade}, guest=${isGuest}, max=${maxQuestions})`);
 
   // 🆕 Cloudflare Automation: Redirect to Pack System
-  if (USE_ROTATING_PACKS) {
-    console.log('🔄 Routing request to Cloudflare Rotating Packs system...');
-    const packQuestions = await fetchQuestionsFromPacks(grade);
+  // Force packs usage as we removed legacy API
+  const USE_PACKS = true;
 
+  if (USE_PACKS) {
+    console.log('🔄 Routing request to Cloudflare Rotating Packs system...');
+    const subjects = await getAvailableSubjects(grade);
+    const uniqueSubjects = [...new Set(subjects.map(s => normalizeSubjectKey(s)).filter(Boolean))];
+
+    if (uniqueSubjects.length === 0) {
+      console.warn(`⚠️ No subjects configured for grade ${grade}`);
+      return [];
+    }
+
+    const subjectPacks = await Promise.all(
+      uniqueSubjects.map(s => fetchQuestionsFromPacks(grade, s))
+    );
+
+    const dedup = new Map<string, AppQuestion>();
+    for (const list of subjectPacks) {
+      for (const q of list) {
+        if (q?.id && !dedup.has(q.id)) dedup.set(q.id, q);
+      }
+    }
+
+    const packQuestions = Array.from(dedup.values());
     if (packQuestions.length > 0) {
+      if (isGuest && packQuestions.length > maxQuestions) {
+        return packQuestions.sort(() => Math.random() - 0.5).slice(0, maxQuestions);
+      }
       return packQuestions;
     }
-    console.warn('⚠️ Pack system returned empty, falling back to legacy fetch...');
+    console.warn('⚠️ Pack system returned empty, returning empty list (Legacy API removed).');
+    return [];
   }
 
   const subjects = await getAvailableSubjects(grade);
@@ -615,32 +573,19 @@ export async function fetchBulkQuestions(
     return questionCache.get(cacheKey)!;
   }
 
-  console.log(`⚡ Fetching bulk questions for grades [${grades.join(',')}] from Rotating Worker...`);
+  console.log(`⚡ Fetching bulk questions for grades [${grades.join(',')}] from Static Packs...`);
 
   try {
-    // Reuse the fetchCurrentPack logic (we call the endpoint directly)
-    // Note: fetchCurrentPack is internal, but we can call the endpoint
-    // Check if we have a locally cached pack first
-    const url = CURRENT_PACK_URL;
-    // Use stale-while-revalidate pattern or at least simple caching
-    const response = await fetch(url);
-
-    if (!response.ok) throw new Error('Failed to fetch pack');
-
-    const packData = await response.json();
+    // Logic: Fetch packs for each requested grade and combine
     let allQuestions: AppQuestion[] = [];
 
-    // Extract questions for requested grades
-    for (const grade of grades) {
-      if (packData.packs && packData.packs[grade] && packData.packs[grade].questions) {
-         const rawQuestions = packData.packs[grade].questions;
-         const processed = rawQuestions.map((q: any) => {
-            const subject = q.subject || 'general';
-            return transformQuestion(q, grade, subject);
-         });
-         allQuestions = [...allQuestions, ...processed];
-      }
-    }
+    // We execute in parallel
+    const promises = grades.map(g => fetchQuestionsFromPacks(g));
+    const results = await Promise.all(promises);
+
+    results.forEach(questions => {
+        allQuestions = [...allQuestions, ...questions];
+    });
 
     // 🆕 Deduplicate by ID to prevent UI crashes (each_key_duplicate)
     const uniqueMap = new Map();
@@ -661,7 +606,7 @@ export async function fetchBulkQuestions(
     // 🆕 Persist (fire and forget)
     saveKnownQuestions(uniqueQuestions).catch(e => console.warn('Failed to persist cache:', e));
 
-    console.log(`✅ Loaded ${uniqueQuestions.length} unique bulk questions from Worker`);
+    console.log(`✅ Loaded ${uniqueQuestions.length} unique bulk questions`);
     return uniqueQuestions;
 
   } catch (error) {
@@ -685,30 +630,11 @@ export async function fetchQuestionsForGrade(
     return questionCache.get(cacheKey)!;
   }
 
-  console.log(`⚡ Fetching questions for grade ${grade} from Grade-Specific endpoint...`);
+  console.log(`⚡ Fetching questions for grade ${grade} from Static Packs...`);
 
   try {
-    // Fallback URL for grade-specific packs if they were generated differently
-    const url = `/api/packs/grade/${grade}.json`;
-    const response = await fetch(url);
-
-    if (!response.ok) {
-      console.warn(`⚠️ Grade endpoint failed, falling back to bulk fetch`);
-      return fetchBulkQuestions([grade], limit);
-    }
-
-    const packData = await response.json();
-
-    if (!packData.questions || packData.questions.length === 0) {
-      console.warn(`⚠️ No questions for grade ${grade}`);
-      return [];
-    }
-
-    // Transform to AppQuestion format
-    const questions: AppQuestion[] = packData.questions.map((q: any) => {
-      const subject = q.subject || 'general';
-      return transformQuestion(q, grade, subject);
-    });
+    // 🆕 Use Static Packs directly
+    const questions = await fetchQuestionsFromPacks(grade);
 
     // Deduplicate by ID
     const uniqueMap = new Map();
@@ -730,8 +656,7 @@ export async function fetchQuestionsForGrade(
 
   } catch (error) {
     console.error(`❌ Grade fetch error for grade ${grade}:`, error);
-    // Fallback to bulk fetch
-    return fetchBulkQuestions([grade], limit);
+    return [];
   }
 }
 
@@ -916,83 +841,82 @@ async function downloadPackForGrade(packId: string, grade: number): Promise<Pack
  * 3. Return combined pool from ALL stored packs
  */
 export async function fetchQuestionsFromPacks(
-  grade: number
+  grade: number,
+  subject?: string
 ): Promise<AppQuestion[]> {
-  // 1. Get current pack metadata
-  const metadata = await fetchPackMetadata();
+  // 1. Calculate Current Week based on Anchor Date
+  // Anchor Date: Jan 1, 2025
+  const ANCHOR_DATE = new Date('2025-01-01T00:00:00Z').getTime();
+  const NOW = Date.now();
+  const ONE_WEEK_MS = 7 * 24 * 60 * 60 * 1000;
 
-  if (!metadata) {
-    console.warn('⚠️ No pack metadata available, falling back to static API');
-    return [];
-  }
+  const diff = NOW - ANCHOR_DATE;
+  const currentWeek = Math.max(1, Math.ceil(diff / ONE_WEEK_MS) % 52 || 52); // cycle 1-52
 
-  const currentPackId = metadata.pack_id;
-  console.log(`📦 Current pack: ${currentPackId}`);
+  console.log(`📅 Current Rotation Week: ${currentWeek}`);
 
-  // 2. Get subjects for this grade
-  const subjects = await getAvailableSubjects(grade);
+  try {
+    const normalizedSubject = normalizeSubjectKey(subject || '');
+    const subjectPackUrl = normalizedSubject
+      ? `/api/packs/week-${currentWeek}-grade-${grade}-subject-${normalizedSubject}.json`
+      : '';
+    const legacyPackUrl = `/api/packs/week-${currentWeek}-grade-${grade}.json`;
 
-  // 3. Check if we need to download new pack
-  let needsDownload = false;
-  for (const subject of subjects) {
-    if (!hasPackStored(currentPackId, grade, subject)) {
-      needsDownload = true;
-      break;
+    let response: Response | null = null;
+    let packUrlUsed = '';
+
+    if (subjectPackUrl) {
+      console.log(`📦 Fetching subject pack: ${subjectPackUrl}`);
+      const subjectResponse = await fetch(subjectPackUrl);
+      if (subjectResponse.ok) {
+        response = subjectResponse;
+        packUrlUsed = subjectPackUrl;
+      } else {
+        console.warn(`⚠️ Subject pack not found, fallback legacy: ${subjectPackUrl}`);
+      }
     }
-  }
 
-  // 4. Download new pack if needed
-  if (needsDownload) {
-    const packData = await downloadPackForGrade(currentPackId, grade);
+    if (!response) {
+      console.log(`📦 Fetching legacy pack: ${legacyPackUrl}`);
+      const legacyResponse = await fetch(legacyPackUrl);
+      if (!legacyResponse.ok) {
+        console.warn(`⚠️ Static pack not found: ${legacyPackUrl}`);
+        return [];
+      }
+      response = legacyResponse;
+      packUrlUsed = legacyPackUrl;
+    }
 
-    if (packData && packData.questions.length > 0) {
-      // Group questions by subject and save
-      const questionsBySubject = new Map<string, APIQuestion[]>();
+    const packData = await response.json();
 
-      for (const q of packData.questions) {
-        const subject = (q as any).subject || 'unknown';
-        if (!questionsBySubject.has(subject)) {
-          questionsBySubject.set(subject, []);
+    if (!packData || !packData.questions || packData.questions.length === 0) {
+        console.warn('⚠️ Empty pack data');
+        return [];
+    }
+
+    // 3. Transform to AppQuestion
+    // The static generator produces objects that match our interface mostly,
+    // but we should ensure they pass through transformQuestion for consistency.
+    const appQuestions: AppQuestion[] = packData.questions.map((q: any) => {
+        const qSubject = normalizeSubjectKey(q.subject || packData.subject || subject || 'unknown');
+        // Ensure options have IDs if missing
+        if (q.options?.length && !q.options[0].id) {
+            q.options = q.options.map((o: any, i: number) => ({ ...o, id: ['A','B','C','D'][i] || String(i) }));
         }
-        questionsBySubject.get(subject)!.push(q);
-      }
+        return transformQuestion(q, grade, qSubject);
+    });
 
-      // Save each subject's questions as a separate pack entry
-      for (const [subject, questions] of questionsBySubject) {
-        const storedPack: StoredPack = {
-          packId: currentPackId,
-          grade,
-          subject,
-          questions,
-          downloadedAt: Date.now(),
-          questionCount: questions.length
-        };
-        savePack(storedPack);
-      }
+    const filteredBySubject = normalizedSubject
+      ? appQuestions.filter(q => normalizeSubjectKey(q.category.split(' :: ')[0]) === normalizedSubject)
+      : appQuestions;
 
-      console.log(`✅ Downloaded and stored pack ${currentPackId} for grade ${grade}`);
-    }
-  } else {
-    console.log(`📦 Pack ${currentPackId} already stored for grade ${grade}`);
-  }
+    console.log(`📚 Loaded ${filteredBySubject.length} questions from ${packUrlUsed} (Week ${currentWeek}) for grade ${grade}${normalizedSubject ? `, subject ${normalizedSubject}` : ''}`);
+    return filteredBySubject;
 
-  // 5. Get combined question pool from ALL stored packs
-  const poolQuestions = getQuestionPool(grade);
-
-  if (poolQuestions.length === 0) {
-    console.warn(`⚠️ No questions in pool for grade ${grade}`);
+  } catch (err) {
+    console.error(`❌ Error fetching static pack:`, err);
     return [];
   }
-
-  // 6. Transform to AppQuestion format
-  const appQuestions: AppQuestion[] = poolQuestions.map(q => {
-    const subject = (q as any).subject || 'unknown';
-    return transformQuestion(q, grade, subject);
-  });
-
-  console.log(`📚 Loaded ${appQuestions.length} questions from pack pool for grade ${grade}`);
-
-  return appQuestions;
 }
 
 /**
@@ -1609,7 +1533,7 @@ export async function reportQuestionAnomaly(
         details: details || '',
         user_id: userId || null, // Optional
         created_at: new Date().toISOString()
-      });
+      } as any);
 
     if (error) {
       console.error('Error reporting anomaly:', error);

@@ -4,6 +4,7 @@ country: global
 grado: 5
 asignatura: ingles
 tema: saving-water
+periodo: 1
 cefr_level: A1
 protocol_version: 3.1-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Saving Water (Grade 5)
 
 > **Focus:** Simple daily habits to save water at home.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Brushing Teeth)
+**ID:** `UNI-ENG-05-saving-water-001-v1`
+
 ID: UNI-ENG-05-saving-water-001-v1
 
 ### Contexto
@@ -45,6 +48,8 @@ What should you do with the tap (faucet)?
 ---
 
 ## Question 2 (Part 2 - Shower)
+**ID:** `UNI-ENG-05-saving-water-001-v2`
+
 ID: UNI-ENG-05-saving-water-001-v2
 
 ### Enunciado
@@ -63,6 +68,8 @@ Which uses less water?
 ---
 
 ## Question 3 (Part 3 - Leaks)
+**ID:** `UNI-ENG-05-saving-water-001-v3`
+
 ID: UNI-ENG-05-saving-water-001-v3
 
 ### Contexto
@@ -84,6 +91,8 @@ What is this?
 ---
 
 ## Question 4 (Part 4 - Hose)
+**ID:** `UNI-ENG-05-saving-water-001-v4`
+
 ID: UNI-ENG-05-saving-water-001-v4
 
 ### Contexto
@@ -105,6 +114,8 @@ When is the best time to water plants?
 ---
 
 ## Question 5 (Part 5 - Washing Machine)
+**ID:** `UNI-ENG-05-saving-water-001-v5`
+
 ID: UNI-ENG-05-saving-water-001-v5
 
 ### Enunciado
@@ -123,6 +134,8 @@ You should only run the washing machine when...
 ---
 
 ## Question 6 (Part 6 - Rainwater)
+**ID:** `UNI-ENG-05-saving-water-001-v6`
+
 ID: UNI-ENG-05-saving-water-001-v6
 
 ### Enunciado
@@ -141,6 +154,8 @@ What can you catch in a barrel to water your garden?
 ---
 
 ## Question 7 (Part 7 - The Toilet)
+**ID:** `UNI-ENG-05-saving-water-001-v7`
+
 ID: UNI-ENG-05-saving-water-001-v7
 
 ### Enunciado
@@ -159,6 +174,8 @@ The toilet is NOT a...
 ---
 
 ## Question 8 (Part 8 - Scarcity)
+**ID:** `UNI-ENG-05-saving-water-001-v8`
+
 ID: UNI-ENG-05-saving-water-001-v8
 
 ### Contexto
@@ -180,6 +197,8 @@ Why save water?
 ---
 
 ## Question 9 (Part 9 - Dishwasher)
+**ID:** `UNI-ENG-05-saving-water-001-v9`
+
 ID: UNI-ENG-05-saving-water-001-v9
 
 ### Enunciado
@@ -198,6 +217,8 @@ If you don't use a machine, don't let the water ___ while scrubbing plates.
 ---
 
 ## Question 10 (Part 10 - Awareness)
+**ID:** `UNI-ENG-05-saving-water-001-v10`
+
 ID: UNI-ENG-05-saving-water-001-v10
 
 ### Enunciado

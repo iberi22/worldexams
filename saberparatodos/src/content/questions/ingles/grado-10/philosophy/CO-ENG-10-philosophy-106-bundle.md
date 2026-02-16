@@ -4,19 +4,25 @@ country: co
 grado: 10
 asignatura: ingles
 tema: philosophy
+periodo: 1
 cefr_level: B2
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: Philosophy & Ethical Dilemmas (B2)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-10-philosophy-106-v1`
+
+
+**ID:** `CO-ENG-10-philosophy-106-v1`
+
 ### Enunciado
 **The study of the fundamental nature of knowledge, reality, and existence is called _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-10-philosophy-106-v2`
+
+
+**ID:** `CO-ENG-10-philosophy-106-v2`
+
 ### Enunciado
 **Socrates, who (1)_______ in Athens, (2)_______ for his method of questioning.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-10-philosophy-106-v3`
+
+
+**ID:** `CO-ENG-10-philosophy-106-v3`
+
 ### Contexto
 **Text:** "Utilitarianism is an ethical theory that argues the best action is the one that maximizes overall happiness or well-being for the greatest number of people."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-10-philosophy-106-v4`
+
+
+**ID:** `CO-ENG-10-philosophy-106-v4`
+
 ### Enunciado
 **An _______ is a situation in which a difficult choice has to be made between two or more alternatives.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-10-philosophy-106-v5`
+
+
+**ID:** `CO-ENG-10-philosophy-106-v5`
+
 ### Contexto
 **Friend:** "I found a wallet with 100 dollars. Should I keep it or return it?"
 **You:** "If you were in their shoes, would you want someone to return your wallet?"
@@ -104,6 +130,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-10-philosophy-106-v6`
+
+
+**ID:** `CO-ENG-10-philosophy-106-v6`
+
 ### Contexto
 **Passage:** "Stoicism teaches that while we cannot control external events, we can control our reactions to them. This leads to inner peace regardless of circumstances."
 ### Enunciado
@@ -121,6 +152,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-10-philosophy-106-v7`
+
+
+**ID:** `CO-ENG-10-philosophy-106-v7`
+
 ### Contexto
 **Student A:** "Ethics are subjective; everyone has their own truth."
 **Student B:** "____________"
@@ -139,6 +175,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Conditionals)
+**ID:** `CO-ENG-10-philosophy-106-v8`
+
+
+**ID:** `CO-ENG-10-philosophy-106-v8`
+
 ### Enunciado
 **If people (1)_______ more about philosophy, they (2)_______ more critical of the news they consume.**
 ### Opciones
@@ -154,6 +195,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-10-philosophy-106-v9`
+
+
+**ID:** `CO-ENG-10-philosophy-106-v9`
+
 ### Enunciado
 **The principle of being honest and having strong moral principles is _______.**
 ### Opciones
@@ -169,6 +215,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Critical Thinking)
+**ID:** `CO-ENG-10-philosophy-106-v10`
+
+
+**ID:** `CO-ENG-10-philosophy-106-v10`
+
 ### Contexto
 **Concept:** "The Allegory of the Cave" by Plato describes people who think shadows are reality until they see the sun.
 ### Enunciado

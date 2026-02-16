@@ -4,6 +4,7 @@ country: global
 grado: 10
 asignatura: ingles
 tema: social-justice
+periodo: 1
 cefr_level: B1+
 protocol_version: 3.1-GLOBAL
 total_questions: 10
@@ -15,8 +16,8 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # Topic: Social Justice (Grade 10)
 
 > **Focus:** Activism, protest, and systemic issues.
@@ -24,6 +25,8 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 1 (Part 1 - Protest)
+**ID:** `UNI-ENG-10-social-justice-001-v1`
+
 ID: UNI-ENG-10-social-justice-001-v1
 
 ### Contexto
@@ -45,6 +48,8 @@ What are these people doing?
 ---
 
 ## Question 2 (Part 2 - Boycott)
+**ID:** `UNI-ENG-10-social-justice-001-v2`
+
 ID: UNI-ENG-10-social-justice-001-v2
 
 ### Contexto
@@ -66,6 +71,8 @@ What is this strategy called?
 ---
 
 ## Question 3 (Part 3 - Petition)
+**ID:** `UNI-ENG-10-social-justice-001-v3`
+
 ID: UNI-ENG-10-social-justice-001-v3
 
 ### Contexto
@@ -87,6 +94,8 @@ What is this?
 ---
 
 ## Question 4 (Part 4 - Freedom of Speech)
+**ID:** `UNI-ENG-10-social-justice-001-v4`
+
 ID: UNI-ENG-10-social-justice-001-v4
 
 ### Enunciado
@@ -105,6 +114,8 @@ The right to say what you think without fear of prison is called...
 ---
 
 ## Question 5 (Part 5 - Systemic Racism)
+**ID:** `UNI-ENG-10-social-justice-001-v5`
+
 ID: UNI-ENG-10-social-justice-001-v5
 
 ### Contexto
@@ -126,6 +137,8 @@ What type of racism is this?
 ---
 
 ## Question 6 (Part 6 - Advocate)
+**ID:** `UNI-ENG-10-social-justice-001-v6`
+
 ID: UNI-ENG-10-social-justice-001-v6
 
 ### Contexto
@@ -147,6 +160,8 @@ They are an...
 ---
 
 ## Question 7 (Part 7 - Equality vs Equity)
+**ID:** `UNI-ENG-10-social-justice-001-v7`
+
 ID: UNI-ENG-10-social-justice-001-v7
 
 ### Contexto
@@ -170,6 +185,8 @@ Which is more fair?
 ---
 
 ## Question 8 (Part 8 - Human Rights)
+**ID:** `UNI-ENG-10-social-justice-001-v8`
+
 ID: UNI-ENG-10-social-justice-001-v8
 
 ### Contexto
@@ -191,6 +208,8 @@ What word is missing?
 ---
 
 ## Question 9 (Part 9 - Marginalized)
+**ID:** `UNI-ENG-10-social-justice-001-v9`
+
 ID: UNI-ENG-10-social-justice-001-v9
 
 ### Contexto
@@ -212,6 +231,8 @@ They are...
 ---
 
 ## Question 10 (Part 10 - Grassroots)
+**ID:** `UNI-ENG-10-social-justice-001-v10`
+
 ID: UNI-ENG-10-social-justice-001-v10
 
 ### Contexto

@@ -4,19 +4,25 @@ country: co
 grado: 8
 asignatura: ingles
 tema: media
+periodo: 1
 cefr_level: B1
 protocol_version: 3.1-COL-Bilingual
 total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
----
 
+---
 # TOPIC: Media & News Influence (B1)
 
 ---
 
 ## Question 1 (Vocabulary)
+**ID:** `CO-ENG-08-media-110-v1`
+
+
+**ID:** `CO-ENG-08-media-110-v1`
+
 ### Enunciado
 **Someone whose job is to report the news for a newspaper, TV, or radio is a _______.**
 ### Opciones
@@ -39,6 +45,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 2 (Grammar)
+**ID:** `CO-ENG-08-media-110-v2`
+
+
+**ID:** `CO-ENG-08-media-110-v2`
+
 ### Enunciado
 **I (1)_______ the news on TV every morning, but my brother (2)_______ reading them online.**
 ### Opciones
@@ -54,6 +65,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 3 (Reading - Literal)
+**ID:** `CO-ENG-08-media-110-v3`
+
+
+**ID:** `CO-ENG-08-media-110-v3`
+
 ### Contexto
 **Text:** "Fake news is a big problem on social media. It is important to check multiple sources before believing a sensational headline."
 ### Enunciado
@@ -71,6 +87,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 4 (Vocabulary)
+**ID:** `CO-ENG-08-media-110-v4`
+
+
+**ID:** `CO-ENG-08-media-110-v4`
+
 ### Enunciado
 **The title of a news story, printed in large letters, is the _______.**
 ### Opciones
@@ -86,6 +107,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 5 (Pragmatics)
+**ID:** `CO-ENG-08-media-110-v5`
+
+
+**ID:** `CO-ENG-08-media-110-v5`
+
 ### Contexto
 **Breaking News Alert:** "Severe storm approaching. Stay indoors and away from windows."
 ### Enunciado
@@ -103,6 +129,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 6 (Inferential)
+**ID:** `CO-ENG-08-media-110-v6`
+
+
+**ID:** `CO-ENG-08-media-110-v6`
+
 ### Contexto
 **Passage:** "Most people today get their news from social media rather than traditional newspapers. This allows for faster updates, but it is also harder to verify if the information is accurate."
 ### Enunciado
@@ -120,6 +151,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 7 (Conversation)
+**ID:** `CO-ENG-08-media-110-v7`
+
+
+**ID:** `CO-ENG-08-media-110-v7`
+
 ### Contexto
 **Person A:** "I don't watch the news; it's always negative."
 **Person B:** "____________"
@@ -138,6 +174,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 8 (Grammar - Adverbs)
+**ID:** `CO-ENG-08-media-110-v8`
+
+
+**ID:** `CO-ENG-08-media-110-v8`
+
 ### Enunciado
 **The reporter spoke _______ so everyone could understand the details.**
 ### Opciones
@@ -153,6 +194,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 9 (Vocabulary)
+**ID:** `CO-ENG-08-media-110-v9`
+
+
+**ID:** `CO-ENG-08-media-110-v9`
+
 ### Enunciado
 **A person who watches television is a _______.**
 ### Opciones
@@ -168,6 +214,11 @@ creation_date: '2026-01-31'
 ---
 
 ## Question 10 (Critical Thinking)
+**ID:** `CO-ENG-08-media-110-v10`
+
+
+**ID:** `CO-ENG-08-media-110-v10`
+
 ### Contexto
 **Statement:** "Media can influence how we think about certain groups of people or countries through the stories they choose to tell."
 ### Enunciado
