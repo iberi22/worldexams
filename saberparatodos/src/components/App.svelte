@@ -130,7 +130,7 @@
   onMount(async () => {
     // Fetch build info dynamically
     try {
-      const res = await fetch('/build-info.json');
+      const res = await fetch('/build-info.json?t=' + Date.now());
       if (res.ok) buildInfo = await res.json();
     } catch (e) {
       console.warn('Failed to load build info', e);
@@ -1005,7 +1005,7 @@
             <span class="text-white/20">|</span>
             <span class="text-emerald-500/70" title="Git commit">{buildInfo.commit?.substring(0, 7) || '?'}</span>
             <span class="text-white/20">|</span>
-            <span class="text-white/50">{new Date(buildInfo.timestamp).toLocaleDateString('es-CO', { month: 'short', day: 'numeric' })}</span>
+            <span class="text-white/50">{new Date(buildInfo.buildTime).toLocaleDateString('es-CO', { month: 'short', day: 'numeric' })}</span>
           {/if}
         </div>
       </div>

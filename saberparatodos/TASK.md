@@ -37,3 +37,6 @@
 - [ ] Recrear contenido de **Tecnología** - Grado **3** (40 bundles placeholder eliminados)
 - [ ] Recrear contenido de **Tecnología** - Grado **5** (40 bundles placeholder eliminados)
 - [ ] Recrear contenido de **Tecnología** - Grado **7** (40 bundles placeholder eliminados)
+
+## Mantenimiento
+- [x] Corregir visualización de fecha de despliegue y commit en App.svelte (2026-02-16)

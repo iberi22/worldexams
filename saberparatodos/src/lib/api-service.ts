@@ -881,6 +881,18 @@ export async function fetchQuestionsFromPacks(
       const legacyResponse = await fetch(legacyPackUrl);
       if (!legacyResponse.ok) {
         console.warn(`⚠️ Static pack not found: ${legacyPackUrl}`);
+
+        // Fallback: use locally stored pool from previous sessions/packs
+        const localPool = getQuestionPool(grade);
+        if (localPool.length > 0) {
+          const fallbackQuestions = localPool
+            .map((q: any) => transformQuestion(q, grade, normalizeSubjectKey(q.subject || subject || 'unknown')))
+            .filter(q => !normalizedSubject || normalizeSubjectKey(q.category.split(' :: ')[0]) === normalizedSubject);
+          if (fallbackQuestions.length > 0) {
+            console.log(`📦 Using local cached pool fallback: ${fallbackQuestions.length} questions`);
+            return fallbackQuestions;
+          }
+        }
         return [];
       }
       response = legacyResponse;
@@ -915,6 +927,19 @@ export async function fetchQuestionsFromPacks(
 
   } catch (err) {
     console.error(`❌ Error fetching static pack:`, err);
+
+    // Last-resort fallback to local pool
+    const normalizedSubject = normalizeSubjectKey(subject || '');
+    const localPool = getQuestionPool(grade);
+    if (localPool.length > 0) {
+      const fallbackQuestions = localPool
+        .map((q: any) => transformQuestion(q, grade, normalizeSubjectKey(q.subject || subject || 'unknown')))
+        .filter(q => !normalizedSubject || normalizeSubjectKey(q.category.split(' :: ')[0]) === normalizedSubject);
+      if (fallbackQuestions.length > 0) {
+        console.log(`📦 Using local cached pool fallback after error: ${fallbackQuestions.length} questions`);
+        return fallbackQuestions;
+      }
+    }
     return [];
   }
 }
@@ -1048,45 +1073,22 @@ export async function fetchEnglishQuestionsAllGrades(
   // 🚀 OPTIMIZED: Fetch all grades in parallel instead of sequentially
   const gradePromises = ALL_GRADES.map(async (grade) => {
     try {
-      // Try grade-specific endpoint first
-      const url = `/api/packs/grade/${grade}.json`;
-      const response = await fetch(url);
-
-      if (!response.ok) {
-        // Silent fallback - don't log to reduce noise
+      // Use static weekly subject packs (legacy grade endpoint removed)
+      const englishQuestions = await fetchQuestionsFromPacks(grade, 'ingles');
+      if (!englishQuestions || englishQuestions.length === 0) {
         return { grade, questions: [] };
       }
 
-      const packData = await response.json();
+      // Exclude answered/recent questions
+      const filteredEnglish = englishQuestions.filter((q: any) => !answeredIds.has(q.id));
 
-      if (!packData.questions || packData.questions.length === 0) {
+      if (filteredEnglish.length === 0) {
         return { grade, questions: [] };
       }
 
-      // Filter only English questions AND exclude answered ones
-      const englishQuestions = packData.questions.filter((q: any) => {
-        const subject = (q.subject || '').toLowerCase();
-        const isEnglish = subject === 'ingles' || subject === 'inglés' || subject === 'english';
-
-        // 🛑 Filter dups
-        // Normalized ID check (remove -vX suffix if needed, but answeredIds are usually exact)
-        // If question ID is "CO-ING-11-foo-v1", check if in set.
-        // Also check if base ID matches?
-        // For now, exact match on ID or ID without version if stored.
-        // Our storage uses exact ID.
-        const isDuplicate = answeredIds.has(q.id);
-
-        return isEnglish && !isDuplicate;
-      });
-
-      if (englishQuestions.length === 0) {
-        return { grade, questions: [] };
-      }
-
-      // Transform and tag with level
+      // Tag with level metadata
       const levelInfo = gradeToEnglishLevel(grade);
-      const transformed = englishQuestions.map((q: any) => {
-        const appQ = transformQuestion(q, grade, 'ingles');
+      const transformed = filteredEnglish.map((appQ: any) => {
         return {
           ...appQ,
           // 🆕 Add English level metadata
