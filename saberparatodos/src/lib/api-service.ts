@@ -43,7 +43,7 @@ const IS_DEV_MODE = typeof window !== 'undefined' &&
 
 // Feature flags
 const USE_ROTATING_PACKS = !IS_DEV_MODE; // 🆕 Skip in dev mode to avoid 404s
-// const USE_EDGE_FUNCTIONS = false; // Disabled: Edge Functions require auth
+const USE_EDGE_FUNCTIONS = true; // 🆕 Enabled: Now supports guest access
 
 
 /**

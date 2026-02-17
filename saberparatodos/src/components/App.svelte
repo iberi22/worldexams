@@ -1102,7 +1102,7 @@
             <span class="text-xs font-bold uppercase tracking-[0.3em] text-[#FCD116]">Colombia</span>
           </div>
           <p class="text-xs font-bold uppercase tracking-[0.4em] text-emerald-500 animate-pulse-slow">
-            Sistema Listo :: v{packageInfo.version}
+            Beta Abierta :: v{packageInfo.version}
           </p>
           <h1 class="text-6xl md:text-8xl font-bold tracking-tighter uppercase text-[#F5F5DC] relative">
             Saber <span class="text-white/20">Para Todos</span>
@@ -1308,7 +1308,7 @@
           </div>
           -->
 
-          <!-- <FlashlightCard
+          <FlashlightCard
             onClick={async () => {
               isNavigatingToBlog = true;
               try {
@@ -1347,7 +1347,7 @@
             </div>
             <h3 class="text-xl font-bold uppercase tracking-widest mb-2">Blog / Artículos</h3>
             <p class="text-xs opacity-40">Explorar banco de preguntas</p>
-          </FlashlightCard> -->
+          </FlashlightCard>
         </div>
 
         <!-- CTA Button -->
