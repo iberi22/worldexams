@@ -17,11 +17,12 @@
 ### 🚀 Fase: Expansión de Contenido (Meta 100/Periodo)
 
 #### 1. Redistribución y Limpieza
-- [ ] **Redistribuir Inglés Grado 3:** Mover exceso de P1 a P2-P4. <!-- id: 10 -->
-- [ ] **Auditoría de "Unknowns":** Asignar periodo a preguntas de Inglés sin clasificación. <!-- id: 11 -->
+- [x] **Redistribuir Inglés Grado 3:** Mover exceso de P1 a P2-P4. (P1: Alphabet/Numbers, P2: Colors, P3: Family, P4: Animals) <!-- id: 10 -->
+- [x] **Auditoría de "Unknowns":** Completado. 0 bundles sin periodo. Hallazgo: Grados 4 y 5 requieren redistribución (100% en P1). <!-- id: 11 -->
+- [/] **Redistribuir Inglés Grados 4 y 5:** Balancear carga P1-P4. <!-- id: 100 -->
 
 #### 2. Generación Prioritaria (Brechas Críticas)
-- [ ] **Inglés Grados 4-5 (A1):** Generar 800 preguntas (40 bundles/grado). <!-- id: 12 -->
+- [/] **Inglés Grados 4-5 (A1):** Generar 800 preguntas (40 bundles/grado). (Prototipos v3.0 creados) <!-- id: 12 -->
 - [ ] **Inglés Grados 6-9 (A2):** Generar 1,600 preguntas (40 bundles/grado). <!-- id: 13 -->
 - [ ] **Inglés Grado 10 (B1):** Generar 400 preguntas (40 bundles). <!-- id: 14 -->
 - [ ] **Lectura Crítica Grado 3:** Generar 400 preguntas (40 bundles). <!-- id: 15 -->
