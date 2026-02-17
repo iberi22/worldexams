@@ -4,7 +4,7 @@ country: colombia
 grado: 3
 asignatura: ingles
 tema: colors
-periodo: 1
+periodo: 2
 protocol_version: '3.0'
 total_questions: 10
 estado: draft

@@ -4,6 +4,7 @@
   export let show = false;
   export let onClose: () => void;
   export let questionId: string | null = null;
+  export let userContext: string = 'LocalReportsView';
 
   let reportType = 'feedback';
   let message = '';
@@ -38,7 +39,7 @@
           reportType: reportTypes.find(t => t.id === reportType)?.label || reportType,
           questionId,
           message,
-          userContext: 'LocalReportsView' // Context identifier
+          userContext: userContext // Dynamic context identifier
         })
       });
 

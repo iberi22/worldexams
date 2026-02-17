@@ -9,6 +9,7 @@
   import { reportQuestionAnomaly } from '../lib/api-service';
   import type { APIQuestion } from '../lib/api-service';
   import { createFocusTracker, type FocusTracker } from '../lib/focus-tracker';
+  import ReportModal from './ReportModal.svelte';
 
   // Props (Svelte 5 Runes)
   interface Props {
@@ -251,29 +252,6 @@
 
   // Reporting State
   let showReportModal = $state(false);
-  let isReporting = $state(false);
-  let reportType = $state('');
-  let reportDetails = $state('');
-  let showReportToast = $state(false);
-
-  async function handleReport() {
-      if (!reportType) return;
-      isReporting = true;
-      const currentQ = activeQuestions[currentIdx];
-      const result = await reportQuestionAnomaly(currentQ.id, reportType as any, reportDetails);
-
-      isReporting = false;
-      showReportModal = false;
-      reportType = '';
-      reportDetails = '';
-
-      if (result.success) {
-          showReportToast = true;
-          setTimeout(() => showReportToast = false, 3000);
-      } else {
-          alert('Error enviando reporte.');
-      }
-  }
 
   onMount(() => {
     loadProgress();
@@ -677,68 +655,12 @@
 
   <!-- Report Modal -->
   {#if showReportModal}
-    <div
-      class="fixed inset-0 z-[100] bg-black/80 backdrop-blur-sm flex items-center justify-center p-4"
-      onclick={(e) => { if (e.target === e.currentTarget) showReportModal = false; }}
-      role="presentation"
-      transition:fade={{ duration: 200 }}
-    >
-      <div class="bg-[#121212] border border-yellow-500/20 rounded-xl p-6 max-w-sm w-full shadow-2xl" in:fly={{ y: 20, duration: 300 }}>
-        <h2 class="text-xl font-bold uppercase tracking-widest text-yellow-500 mb-4">Reportar Pregunta</h2>
-
-        <div class="space-y-4">
-          <div>
-            <label class="block text-xs uppercase tracking-widest text-white/60 mb-2">Tipo de Error</label>
-            <select
-                bind:value={reportType}
-                class="w-full bg-white/5 border border-white/10 rounded-lg px-4 py-3 text-sm text-white focus:border-yellow-500 focus:outline-none transition-colors"
-                onchange={(e) => reportType = e.currentTarget.value}
-            >
-                <option value="" disabled selected class="bg-[#121212]">Selecciona una opción</option>
-                <option value="typo" class="bg-[#121212]">Error Ortográfico / Redacción</option>
-                <option value="wrong_answer" class="bg-[#121212]">Respuesta Incorrecta</option>
-                <option value="display" class="bg-[#121212]">Problema de Visualización</option>
-                <option value="other" class="bg-[#121212]">Otro</option>
-            </select>
-          </div>
-
-          <div>
-             <label class="block text-xs uppercase tracking-widest text-white/60 mb-2">Detalles (Opcional)</label>
-             <textarea
-                bind:value={reportDetails}
-                class="w-full bg-white/5 border border-white/10 rounded-lg px-4 py-3 text-sm text-white focus:border-yellow-500 focus:outline-none transition-colors h-24 resize-none"
-                placeholder="Describe el error..."
-             ></textarea>
-          </div>
-
-          <div class="flex gap-3 mt-6">
-            <button
-               onclick={() => showReportModal = false}
-               class="flex-1 px-4 py-3 border border-white/10 hover:bg-white/5 rounded-lg text-xs font-bold uppercase tracking-widest transition-colors"
-            >
-                Cancelar
-            </button>
-            <button
-               onclick={handleReport}
-               disabled={!reportType || isReporting}
-               class="flex-1 px-4 py-3 bg-yellow-500 text-[#121212] hover:bg-yellow-400 rounded-lg text-xs font-bold uppercase tracking-widest transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
-            >
-                {isReporting ? 'Enviando...' : 'Enviar Reporte'}
-            </button>
-          </div>
-        </div>
-      </div>
-    </div>
-  {/if}
-
-  <!-- Toast -->
-  {#if showReportToast}
-    <div
-      transition:fly={{ y: 50, duration: 300 }}
-      class="fixed bottom-8 left-1/2 -translate-x-1/2 z-[100] bg-emerald-500 text-[#121212] px-6 py-3 rounded-full font-bold uppercase tracking-widest text-xs shadow-lg flex items-center gap-2"
-    >
-        <span class="text-lg">✅</span> Reporte enviado exitosamente
-    </div>
+    <ReportModal
+      show={showReportModal}
+      onClose={() => showReportModal = false}
+      questionId={question.id}
+      userContext="ExamView"
+    />
   {/if}
 
 </div>

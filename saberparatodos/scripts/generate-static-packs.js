@@ -81,6 +81,28 @@ function parseBundle(filePath) {
 
 function parseMarkdownBundle(content, filePath) {
     const { data: frontmatter, content: body } = matter(content);
+
+    // --- Extract GLOBAL CONTEXT (Preamble) ---
+    const firstQuestionMatch = body.match(/^## (?:Pregunta|Question)\s+\d+/m);
+    const contextEndIndex = firstQuestionMatch ? firstQuestionMatch.index : 0;
+
+    let globalContext = contextEndIndex ? body.substring(0, contextEndIndex).trim() : '';
+
+    if (globalContext) {
+        globalContext = globalContext.replace(/===\s*METADATA\s*GLOBAL\s*===[\s\S]*?(?=#|$)/gi, '');
+        globalContext = globalContext.replace(/^\|.*\|$/gm, '');
+        globalContext = globalContext.replace(/^\|[-:\s|]+\|$/gm, '');
+        globalContext = globalContext.replace(/^---+$/gm, '');
+        globalContext = globalContext.replace(/^#\s*Bundle:.*$/gm, '');
+        globalContext = globalContext.replace(/^>\s*\*\*Fuente:\*\*.*$/gm, '');
+        globalContext = globalContext.replace(/^>\s*\*\*Componente:\*\*.*$/gm, '');
+        globalContext = globalContext.replace(/^>\s*\*\*Competencias:\*\*.*$/gm, '');
+        // Keep Topic
+        // globalContext = globalContext.replace(/^#\s*Topic:.*$/gm, '');
+        globalContext = globalContext.replace(/\s*\(Grade\s*\d+\)/gi, '');
+        globalContext = globalContext.replace(/\n{3,}/g, '\n\n').trim();
+    }
+
     const questions = [];
 
     // Split by level-2 headers
@@ -99,6 +121,10 @@ function parseMarkdownBundle(content, filePath) {
         // Difficulty extraction from title: "Pregunta 7 (Difícil - Dificultad 5)"
         const diffMatch = titleLine.match(/Dificultad\s+(\d)/i);
         const difficulty = diffMatch ? parseInt(diffMatch[1]) : (frontmatter.dificultad || 3);
+
+        // --- Extract QUESTION-SPECIFIC CONTEXT ---
+        const contextMatch = section.match(/###\s*(?:Contexto|Context)\s*\n([\s\S]*?)(?=###\s*(?:Enunciado|Question|Opciones|Options))/i);
+        const specificContext = contextMatch ? contextMatch[1].trim() : '';
 
         // --- Extract clean STATEMENT between ### Enunciado and ### Opciones ---
         const enunciadoMatch = section.match(/###\s*Enunciado\s*\n([\s\S]*?)(?=###\s*Opciones)/i);
@@ -141,7 +167,9 @@ function parseMarkdownBundle(content, filePath) {
                 correctOptionId: options.find(o => o.isCorrect)?.id,
                 bundleId: frontmatter.id,
                 bundle_id: frontmatter.id,
-                explanation: explanation
+                bundle_id: frontmatter.id,
+                explanation: explanation,
+                context: [globalContext, specificContext].filter(Boolean).join('\n\n') || undefined // 🆕 Added context field
              });
         }
     });

@@ -1374,7 +1374,7 @@
 
             <!-- Center/Middle Links -->
             <div class="flex items-center gap-3 sm:gap-4">
-              <a
+              <!-- <a
                 href="https://patreon.com/elberi"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -1382,7 +1382,7 @@
               >
                 <span>❤️</span>
                 <span class="hidden sm:inline">Apoyar</span>
-              </a>
+              </a> -->
               <!-- <a
                 href="https://github.com/world-exams"
                 target="_blank"

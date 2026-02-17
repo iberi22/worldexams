@@ -4,7 +4,7 @@ country: "co"
 grado: 4
 asignatura: "ingles"
 tema: "Colors"
-periodo: 1
+periodo: 2
 protocol_version: "3.0"
 total_questions: 10
 estado: "approved"

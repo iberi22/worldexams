@@ -70,10 +70,24 @@
 
     try {
       const reportLabel = reportOptions.find(r => r.type === reportType)?.label || 'Reporte';
-      const text = `Hola, quiero reportar un ${reportLabel} en la pregunta ${questionId}.\n\nDetalle: ${reportDescription}`;
-      const telegramUrl = `https://t.me/worldexams_bot?text=${encodeURIComponent(text)}`;
 
-      window.open(telegramUrl, '_blank');
+      const res = await fetch('/api/report_problem', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+          reportType: reportLabel,
+          questionId,
+          message: reportDescription,
+          userContext: 'QuestionFeedback',
+          bundleId: bundleId
+        })
+      });
+
+      if (!res.ok) {
+        throw new Error('Error al enviar el reporte');
+      }
 
       submitted = true;
       isSubmitting = false;

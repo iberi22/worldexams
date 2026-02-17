@@ -1527,22 +1527,24 @@ export async function reportQuestionAnomaly(
   console.log(`🚨 Reporting anomaly for ${questionId}: ${type}`);
 
   try {
-    const { error } = await supabase
-      .from('question_reports')
-      .insert({
-        question_id: questionId,
-        report_type: type,
-        details: details || '',
-        user_id: userId || null, // Optional
-        created_at: new Date().toISOString()
-      } as any);
+    const res = await fetch('/api/report_problem', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({
+        reportType: `Anomaly: ${type}`,
+        questionId,
+        message: details || 'No details provided.',
+        userContext: 'ExamView',
+        userId: userId || 'anonymous'
+      })
+    });
 
-    if (error) {
-      console.error('Error reporting anomaly:', error);
-      // Fallback: If table doesn't exist, we might want to just log it for now
-      // or try to create it via an Edge Function if we had one.
-      // For now, return false so UI shows error.
-      return { success: false, error };
+    if (!res.ok) {
+      const errorData = await res.json();
+      console.error('Error reporting anomaly via Telegram:', errorData);
+      return { success: false, error: errorData };
     }
 
     return { success: true };
