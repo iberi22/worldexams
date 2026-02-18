@@ -176,6 +176,7 @@
 
     const matchesGrade = selectedGrade ? q.grade === selectedGrade : true;
     const matchesDifficulty = selectedDifficulty ? q.difficulty === selectedDifficulty : true;
+    const matchesPeriod = selectedPeriod ? q.period === selectedPeriod : true;
     const matchesSubject = subjectsMatch(q.category, selectedSubject);
 
     // 🆕 Safely build search target with null checks
@@ -190,7 +191,7 @@
 
     const matchesSearch = !searchTerm || searchTarget.includes(normalizedSearchTerm);
 
-    return matchesSearch && matchesGrade && matchesDifficulty && matchesSubject;
+    return matchesSearch && matchesGrade && matchesDifficulty && matchesPeriod && matchesSubject;
   });
 
   function clearSearch() {
@@ -217,7 +218,7 @@
 
   // Reset pagination when filters change
   $: {
-    searchTerm; selectedGrade; selectedDifficulty; selectedSubject;
+    searchTerm; selectedGrade; selectedDifficulty; selectedSubject; selectedPeriod;
     visibleCount = 30;
   }
 
@@ -229,6 +230,8 @@
 
   const grades = [3, 5, 6, 7, 8, 9, 10, 11];
   const difficulties = [1, 2, 3, 4, 5];
+  const periods = [1, 2, 3, 4];
+  let selectedPeriod: number | null = null;
 </script>
 
 <!-- 🆕 Loading Overlay for Grade Changes -->
@@ -249,9 +252,13 @@
     </h2>
     <button
       onclick={onBack}
-      class="px-4 py-2 border border-white/20 hover:bg-white/10 transition-colors uppercase text-xs tracking-widest opacity-60 hover:opacity-100"
+      class="group flex items-center gap-2 px-4 py-2 rounded-full border border-white/10 bg-white/5 hover:bg-white/10 hover:border-emerald-500/50 transition-all text-xs font-bold uppercase tracking-widest text-white/60 hover:text-emerald-400"
+      aria-label="Volver"
     >
-      [ Volver ]
+      <svg class="w-4 h-4 transform group-hover:-translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18" />
+      </svg>
+      Volver
     </button>
   </div>
 
@@ -285,7 +292,7 @@
     </div>
 
     <!-- Filters Grid -->
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
 
       <!-- Subject Filter -->
       <div class="space-y-2">
@@ -367,6 +374,29 @@
         </div>
       </div>
 
+      <!-- Period Filter -->
+      <div class="space-y-2">
+        <label id="period-label" class="text-[10px] uppercase tracking-widest text-white/40 font-bold ml-1">Período Académico</label>
+        <div class="flex bg-[#121212] rounded-lg p-1 border border-white/10" role="group" aria-labelledby="period-label">
+          <button
+            class="flex-1 py-2 text-xs font-medium rounded-md transition-all {selectedPeriod === null ? 'bg-emerald-600 text-white shadow-lg' : 'text-white/40 hover:text-white hover:bg-white/5'}"
+            onclick={() => selectedPeriod = null}
+            aria-label="Todos los períodos"
+          >
+            Todos
+          </button>
+          {#each periods as period}
+            <button
+              class="flex-1 py-2 text-xs font-medium rounded-md transition-all {selectedPeriod === period ? 'bg-emerald-600 text-white shadow-lg' : 'text-white/40 hover:text-white hover:bg-white/5'}"
+              onclick={() => selectedPeriod = period}
+              aria-label="Período {period}"
+            >
+              P{period}
+            </button>
+          {/each}
+        </div>
+      </div>
+
     </div>
   </div>
 
@@ -401,7 +431,7 @@
             onClick={() => {
               if (item.data) {
                 selectedQuestion = item.data;
-                if (onSelect) onSelect(item.data);
+                // Removed immediate navigation: onSelect(item.data);
               }
             }}
             className="p-6 flex flex-col justify-between group h-64 hover:border-emerald-500/50 transition-transform duration-300 hover:scale-[1.02]"
@@ -424,6 +454,9 @@
                 <div class="flex gap-3 text-[10px] uppercase tracking-widest text-white/50">
                   <span>Grado {item.data?.grade}°</span>
                   <span>Nivel {item.data?.difficulty}</span>
+                  {#if item.data?.period}
+                    <span>P{item.data?.period}</span>
+                  {/if}
                 </div>
                 <div class="flex items-center gap-2 text-emerald-500 opacity-60 group-hover:opacity-100 transition-opacity">
                   <span class="text-xs uppercase tracking-widest">Leer</span>
@@ -477,6 +510,9 @@
         <div class="flex items-center gap-2">
           <span class="text-[10px] bg-white/5 px-2 py-1 rounded">Grado {selectedQuestion.grade}°</span>
           <span class="text-[10px] bg-white/5 px-2 py-1 rounded">Nivel {selectedQuestion.difficulty}</span>
+          {#if selectedQuestion.period}
+            <span class="text-[10px] bg-white/5 px-2 py-1 rounded">P{selectedQuestion.period}</span>
+          {/if}
           <button
             onclick={() => selectedQuestion = null}
             class="p-2 hover:bg-white/10 rounded-lg transition-colors text-white/60 hover:text-white ml-2"
@@ -542,12 +578,23 @@
       </div>
 
       <!-- Modal Footer -->
-      <div class="p-4 border-t border-white/10 flex justify-end shrink-0">
+      <div class="p-4 border-t border-white/10 flex justify-end gap-3 shrink-0">
         <button
           onclick={() => selectedQuestion = null}
-          class="px-6 py-2 bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs uppercase tracking-widest rounded-lg transition-all"
+          class="px-4 py-2 hover:bg-white/10 text-white/60 hover:text-white font-bold text-xs uppercase tracking-widest rounded-lg transition-all"
         >
           Cerrar
+        </button>
+        <button
+          onclick={() => {
+            if (selectedQuestion) {
+              onSelect(selectedQuestion);
+              selectedQuestion = null;
+            }
+          }}
+          class="px-6 py-2 bg-gradient-to-r from-emerald-600 to-emerald-500 hover:from-emerald-500 hover:to-emerald-400 text-white font-bold text-xs uppercase tracking-widest rounded-lg transition-all shadow-lg shadow-emerald-500/20"
+        >
+          Ver Pantalla Completa
         </button>
       </div>
     </div>

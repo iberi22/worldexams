@@ -1457,11 +1457,11 @@
                       Tu nivel ha sido <strong class="text-emerald-400">validado</strong>. Seguiremos refinando según tus progresos.
                     {/if}
                     <!-- 🆕 Pool Indicator -->
-                    <div class="mt-2 text-[10px] text-white/50 flex items-center gap-1.5 bg-black/20 py-1 px-2 rounded-lg w-fit">
+                    <div class="mt-2 text-[10px] text-white/50 flex items-center gap-1.5 bg-black/20 py-1 px-2 rounded-lg w-fit cursor-help" title="Preguntas frescas (no respondidas) guardadas en tu dispositivo. El sistema descarga más automáticamente si bajas de 400.">
                       <span class:animate-spin={isPrefetching}>{isPrefetching ? '⏳' : '💾'}</span>
-                      <span>Pool Offline: <strong class="{poolSize >= 400 ? 'text-emerald-400' : 'text-yellow-400'}">{poolSize}/400</strong></span>
+                      <span>Banco Offline: <strong class="{poolSize >= 400 ? 'text-emerald-400' : 'text-yellow-400'}">{poolSize}/400</strong></span>
                       {#if poolSize >= 240}
-                         <span class="text-emerald-500/80 ml-1">✓ {Math.floor(poolSize / 60)} Exámenes Listos</span>
+                         <span class="text-emerald-500/80 ml-1 font-bold">✓ {Math.floor(poolSize / 60)} Exámenes Listos</span>
                       {/if}
                     </div>
                   {:else}

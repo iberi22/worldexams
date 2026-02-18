@@ -957,10 +957,10 @@
         const startTime = Date.now();
 
         try {
-          // 🆕 Load only grade 11 by default (optimized)
+          // 🆕 Load all grades by default so all subjects are available in the blog
           if (loadedQuestions.length === 0) {
-            const { fetchQuestionsForGrade } = await import('../lib/api-service');
-            loadedQuestions = await fetchQuestionsForGrade(11, 150);
+            const { fetchBulkQuestions } = await import('../lib/api-service');
+            loadedQuestions = await fetchBulkQuestions([3, 5, 6, 7, 8, 9, 10, 11], 200);
           }
           // 🆕 Save subject filter to pass to BlogView
           blogSubjectFilter = subject || null;
@@ -1529,6 +1529,7 @@
         />
       </div>
     {/if}
+
   </main>
 
   <!-- Registration Modal -->

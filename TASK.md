@@ -14,6 +14,13 @@
 
 ## 📋 Tareas Activas (Sprint Actual - API & Monetización)
 
+### 🎨 UX/UI Improvements
+- [x] **Mobile Question Card Modal:** Implement modal/overlay view for question cards on mobile when clicked. <!-- id: 20 -->
+
+### 🚀 Deploy & Release
+- [/] **Deploy to Production (Main):** Review changelog and deploy via Wrangler. <!-- id: 200 -->
+
+
 ### 🚀 Fase: Expansión de Contenido (Meta 100/Periodo)
 
 #### 1. Redistribución y Limpieza

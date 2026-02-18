@@ -230,7 +230,7 @@ Issues are automatically triaged and assigned to the appropriate country reposit
 
 - **Email:** [contacto@saberparatodos.space](mailto:contacto@saberparatodos.space)
 - **GitHub Issues:** [github.com/world-exams/world-exams/issues](https://github.com/world-exams/world-exams/issues)
-- **Telegram:** [@worldexams_bot](https://t.me/worldexams_bot)
+- **Telegram:** [@sabercol_bot](https://t.me/sabercol_bot)
 - **Discord:** [Join our community](https://discord.gg/worldexams)
 - **Twitter/X:** [@worldexams_org](https://twitter.com/worldexams_org)
 

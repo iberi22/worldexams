@@ -18,6 +18,7 @@ export interface Question {
   bundleId?: string; // Bundle ID for question versioning (e.g., "CO-LEC-11-comprension-001")
   competency?: string; // 🆕 Competency evaluated (e.g., "Indagación", "Interpretation")
   topic?: string;      // 🆕 Specific topic (e.g., "Algebra", "Renacimiento")
+  period?: number;     // 🆕 Period (1-4) from bundle frontmatter
   difficulty_discriminator?: number; // 🆕 IRT-like discriminator (optional future use)
   licenses?: {
     v1: string;      // "CC BY-SA 4.0" - Uso comercial permitido

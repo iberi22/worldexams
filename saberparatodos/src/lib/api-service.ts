@@ -283,7 +283,7 @@ function transformQuestion(apiQuestion: APIQuestion | any, grade: number, subjec
       apiQuestion.topics || apiQuestion.tags || []
     ).filter(Boolean),
     // 🆕 Period from bundle frontmatter (1-4)
-    periodo: apiQuestion.periodo || undefined
+    period: apiQuestion.periodo || undefined
   };
 }
 

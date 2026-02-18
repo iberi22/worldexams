@@ -320,7 +320,11 @@ function parseQuestionSection(
  * Supports both v2.1 (7 questions) and v3.0 (10 questions) formats
  */
 function parseVariantType(sectionType: string): { type: ParsedBundleQuestion['variantType'], difficulty: number } {
-  const normalized = sectionType.toLowerCase();
+  // Normalize: lowercase + remove accents for reliable matching
+  const normalized = sectionType
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '');
 
   // v3.0 format: Muy Fácil A/B (difficulty 1)
   if (normalized.includes('muy fácil a') || normalized.includes('very easy a')) {
@@ -404,6 +408,7 @@ function convertBundleQuestionToQuestion(
     cefrLevel: frontmatter.cefr_level || frontmatter.cefrLevel, // 🆕 Pass through CEFR
     competency: bundleQuestion.competency, // 🆕 Pass through Competency
     topic: frontmatter.tema, // 🆕 Pass through Topic
+    period: frontmatter.periodo, // 🆕 Pass through Period
   };
 }
 

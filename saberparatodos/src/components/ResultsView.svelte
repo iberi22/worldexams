@@ -492,42 +492,87 @@
 
         <!-- NotebookLM Plan -->
         {#if proficiencyResult}
-          <div class="max-w-4xl mx-auto mt-8 mb-8">
-            <div class="bg-gradient-to-br from-emerald-900/20 to-teal-900/20 border border-emerald-500/30 rounded-xl p-6 relative overflow-hidden group text-center">
-               <div class="relative z-10 flex flex-col items-center">
-                 <h3 class="text-xl font-bold text-emerald-300 uppercase tracking-widest mb-2 flex items-center justify-center gap-2">
-                   <span class="text-2xl">🎓</span> Plan de Estudio AI
-                 </h3>
+          <div class="max-w-4xl mx-auto mt-12 mb-16">
+            <div class="bg-gradient-to-br from-[#11221a] to-[#0a1a14] border border-emerald-500/20 rounded-2xl p-8 relative overflow-hidden shadow-2xl">
+               <!-- Header -->
+               <div class="flex flex-col items-center mb-10 text-center">
+                  <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-emerald-400 text-[10px] font-bold uppercase tracking-widest mb-4">
+                    ✨ Inteligencia Artificial
+                  </div>
+                  <h3 class="text-2xl font-black text-white uppercase tracking-tighter mb-2">
+                    Tu Plan de Estudio Personalizado
+                  </h3>
+                  <p class="text-sm text-white/50 max-w-lg">
+                    Sigue estos 3 pasos para convertir tus resultados en un tutor personal con NotebookLM de Google.
+                  </p>
+               </div>
 
-                 <p class="text-sm text-emerald-200/80 mb-6 max-w-2xl">
-                    Próximos pasos: Hemos generado un plan de estudio personalizado basado en tu nivel ({proficiencyResult.estimatedLevel}).
-                    Descárgalo y úsalo con <strong>NotebookLM</strong> para tener un tutor de inglés personal.
-                 </p>
+               <!-- Stepper -->
+               <div class="grid grid-cols-1 md:grid-cols-3 gap-8 relative">
+                 <!-- Line connector (Desktop) -->
+                 <div class="hidden md:block absolute top-10 left-[15%] right-[15%] h-[2px] bg-gradient-to-r from-emerald-500/10 via-emerald-500/40 to-emerald-500/10"></div>
 
-                 <div class="flex flex-wrap justify-center gap-4">
-                   <button
-                     onclick={handleDownloadNotebook}
-                     disabled={isGeneratingPlan}
-                     class="px-6 py-3 bg-emerald-500 hover:bg-emerald-400 text-[#121212] font-bold uppercase tracking-widest text-xs rounded-lg shadow-lg shadow-emerald-900/20 transition-all transform hover:scale-105 flex items-center gap-2 disabled:opacity-50 disabled:cursor-not-allowed"
-                   >
-                     {#if isGeneratingPlan}
-                       <div class="w-4 h-4 border-2 border-[#121212]/30 border-t-[#121212] rounded-full animate-spin"></div>
-                       Analizando Historia...
-                     {:else}
-                       <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
-                       </svg>
-                       Descargar Cuaderno (.md)
-                     {/if}
-                   </button>
+                 <!-- Step 1 -->
+                 <div class="flex flex-col items-center text-center relative z-10 group">
+                    <div class="w-20 h-20 rounded-2xl bg-[#1a2e25] border border-emerald-500/30 flex items-center justify-center mb-4 group-hover:border-emerald-500 transition-all shadow-lg shadow-emerald-900/10">
+                      <span class="text-3xl">📥</span>
+                    </div>
+                    <div class="mb-4">
+                      <h4 class="text-xs font-bold text-emerald-400 uppercase tracking-widest mb-1">Paso 1</h4>
+                      <p class="text-sm font-bold text-white mb-2">Descargar Plan</p>
+                      <p class="text-[11px] text-white/40 leading-relaxed max-w-[150px]">
+                        Genera tu archivo compatible con IA basado en tu nivel ({proficiencyResult.estimatedLevel}).
+                      </p>
+                    </div>
+                    <button
+                      onclick={handleDownloadNotebook}
+                      disabled={isGeneratingPlan}
+                      class="w-full py-2.5 bg-emerald-500 hover:bg-emerald-400 text-[#0a1a14] font-black uppercase tracking-widest text-[10px] rounded-lg transition-all flex items-center justify-center gap-2 disabled:opacity-50"
+                    >
+                      {#if isGeneratingPlan}
+                        <div class="w-3 h-3 border-2 border-[#0a1a14]/30 border-t-[#0a1a14] rounded-full animate-spin"></div>
+                      {:else}
+                        Descargar .MD
+                      {/if}
+                    </button>
+                 </div>
 
-                   <a
+                 <!-- Step 2 -->
+                 <div class="flex flex-col items-center text-center relative z-10 group">
+                    <div class="w-20 h-20 rounded-2xl bg-[#1a2e25] border border-emerald-500/30 flex items-center justify-center mb-4 group-hover:border-emerald-500 transition-all shadow-lg shadow-emerald-900/10">
+                      <span class="text-3xl">🚀</span>
+                    </div>
+                    <div class="mb-4">
+                      <h4 class="text-xs font-bold text-emerald-400 uppercase tracking-widest mb-1">Paso 2</h4>
+                      <p class="text-sm font-bold text-white mb-2">Abrir NotebookLM</p>
+                      <p class="text-[11px] text-white/40 leading-relaxed max-w-[150px]">
+                        Ve a la plataforma de Google para cargar tu documento.
+                      </p>
+                    </div>
+                    <a
                       href="https://notebooklm.google.com/"
                       target="_blank"
-                      class="px-6 py-3 border border-white/10 hover:bg-white/5 text-white/60 hover:text-white text-xs uppercase tracking-widest font-bold rounded-lg transition-all flex items-center gap-2"
-                   >
-                     Ir a NotebookLM ↗
-                   </a>
+                      class="w-full py-2.5 bg-white/5 hover:bg-white/10 border border-white/10 text-white font-black uppercase tracking-widest text-[10px] rounded-lg transition-all flex items-center justify-center gap-2"
+                    >
+                      Ir a la IA
+                    </a>
+                 </div>
+
+                 <!-- Step 3 -->
+                 <div class="flex flex-col items-center text-center relative z-10 group">
+                    <div class="w-20 h-20 rounded-2xl bg-[#1a2e25] border border-emerald-500/30 flex items-center justify-center mb-4 group-hover:border-emerald-500 transition-all shadow-lg shadow-emerald-900/10">
+                      <span class="text-3xl">👨‍🏫</span>
+                    </div>
+                    <div class="mb-4">
+                      <h4 class="text-xs font-bold text-emerald-400 uppercase tracking-widest mb-1">Paso 3</h4>
+                      <p class="text-sm font-bold text-white mb-2">Cargar y Chat</p>
+                      <p class="text-[11px] text-white/40 leading-relaxed max-w-[150px]">
+                        Sube el archivo como <strong>Source</strong> y pregúntale lo que quieras.
+                      </p>
+                    </div>
+                    <div class="w-full py-2.5 bg-emerald-500/5 text-emerald-500/60 font-black uppercase tracking-widest text-[10px] rounded-lg border border-emerald-500/10 flex items-center justify-center">
+                       ✨ Tutor Listo
+                    </div>
                  </div>
                </div>
             </div>

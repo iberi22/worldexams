@@ -4,6 +4,7 @@ import Navbar from '../components/Navbar.astro';
 import Footer from '../components/Footer.astro';
 import CookieConsent from '../components/CookieConsent.svelte';
 import VersionBadge from '../components/VersionBadge.svelte';
+import GlobalFeedbackButton from '../components/GlobalFeedbackButton.svelte';
 
 // Import critical CSS for inlining
 import criticalCSS from '../styles/critical.css?raw';
@@ -192,6 +193,9 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
     <!-- Version Badge with Update Notifications -->
     <VersionBadge client:only="svelte" position="bottom-left" showOnlyOnUpdate={import.meta.env.PROD} />
+
+    <!-- Global Feedback Button -->
+    <GlobalFeedbackButton client:idle />
 
     <!-- Scroll Reveal Script -->
     <script>

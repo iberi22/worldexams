@@ -504,6 +504,14 @@
           <h2 class="text-[10px] sm:text-xs font-bold uppercase tracking-[0.2em] text-emerald-500 truncate leading-tight">
             {question.category}
           </h2>
+          <!-- Question Metadata: Grade, Level, Period -->
+          <div class="flex items-center gap-2 text-[10px] text-white/40 shrink-0">
+            <span class="bg-white/5 px-2 py-0.5 rounded border border-white/10">Grado {question.grade}°</span>
+            <span class="bg-white/5 px-2 py-0.5 rounded border border-white/10">Nivel {question.difficulty}</span>
+            {#if question.period}
+              <span class="bg-white/5 px-2 py-0.5 rounded border border-white/10">P{question.period}</span>
+            {/if}
+          </div>
         </div>
 
         <!-- Timer -->
@@ -660,6 +668,7 @@
       onClose={() => showReportModal = false}
       questionId={question.id}
       userContext="ExamView"
+      questionData={question}
     />
   {/if}
 
