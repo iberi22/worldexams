@@ -31,18 +31,18 @@
 
 ### 1️⃣ Telegram Bot
 
-**Ya tienes el token:** `8116938644:AAEPc7fpKCb-XKbqv0rVGgAOPO42fO_ZTu8`
+**Token del bot:** `TU_TOKEN_AQUI` (Obtenlo con @BotFather)
 
 1. Ve a GitHub → Organization `world-exams`
 2. Settings → Secrets and variables → Actions
 3. Click "New organization secret"
 4. Nombre: `TELEGRAM_BOT_TOKEN`
-5. Valor: `8116938644:AAEPc7fpKCb-XKbqv0rVGgAOPO42fO_ZTu8`
+5. Valor: `TU_TOKEN_RECIEN_GENERADO`
 6. Repository access: **All repositories**
 
 **Chat ID:**
 1. New secret: `TELEGRAM_CHAT_ID`
-2. Valor: `2076598024`
+2. Valor: `TU_CHAT_ID_NUMERICO`
 3. All repositories
 
 ---
