@@ -1,0 +1,57 @@
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2m20:39:00[22m [34m[@astrojs/cloudflare][39m Enabling sessions with Cloudflare KV with the "SESSION" KV binding.
+[2m20:39:00[22m [34m[@astrojs/cloudflare][39m If you see the error "Invalid binding `SESSION`" in your build output, you need to add the binding to your wrangler config file.
+[33m[1m20:39:00[22m [WARN] [adapter][39m Cloudflare does not support sharp at runtime. However, you can configure `imageService: "compile"` to optimize images with sharp on prerendered pages during build time.
+[2m20:39:01[22m [34m[content][39m Syncing content
+[2m20:39:02[22m [34m[content][39m Synced content
+[2m20:39:02[22m [34m[types][39m Generated [2m1.89s[22m
+[2m20:39:02[22m [34m[check][39m Getting diagnostics for Astro files in E:\scripts-python\worldexams\saberparatodos...
+[96mdebug_meta.cjs[0m:[93m3[0m:[93m7[0m - [93mwarning[0m[90m ts(6133): [0m'path' is declared but its value is never read.
+
+[7m3[0m const path = require('path');
+[7m [0m [93m      ~~~~[0m
+
+[96msummarize_deletions.cjs[0m:[93m5[0m:[93m7[0m - [93mwarning[0m[90m ts(6133): [0m'header' is declared but its value is never read.
+
+[7m5[0m const header = lines.shift();
+[7m [0m [93m      ~~~~~~[0m
+
+[96msrc/layouts/Layout.astro[0m:[93m130[0m:[93m20[0m - [93mwarning[0m[90m ts(6133): [0m'media' is declared but its value is never read.
+
+[7m130[0m       onload="this.media='all'; /* loaded */"
+[7m   [0m [93m                   ~~~~~[0m
+
+[96msrc/lib/api-service.ts[0m:[93m286[0m:[93m5[0m - [91merror[0m[90m ts(2561): [0mObject literal may only specify known properties, but 'period' does not exist in type 'AppQuestion'. Did you mean to write 'periodo'?
+
+[7m286[0m     period: apiQuestion.periodo || undefined
+[7m   [0m [91m    ~~~~~~[0m
+[96msrc/lib/api-service.ts[0m:[93m814[0m:[93m16[0m - [93mwarning[0m[90m ts(6133): [0m'downloadPackForGrade' is declared but its value is never read.
+
+[7m814[0m async function downloadPackForGrade(packId: string, grade: number): Promise<PackData | null> {
+[7m   [0m [93m               ~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/lib/api-service.ts[0m:[93m793[0m:[93m16[0m - [93mwarning[0m[90m ts(6133): [0m'fetchPackMetadata' is declared but its value is never read.
+
+[7m793[0m async function fetchPackMetadata(): Promise<PackMetadata | null> {
+[7m   [0m [93m               ~~~~~~~~~~~~~~~~~[0m
+[96msrc/lib/api-service.ts[0m:[93m46[0m:[93m7[0m - [93mwarning[0m[90m ts(6133): [0m'USE_EDGE_FUNCTIONS' is declared but its value is never read.
+
+[7m46[0m const USE_EDGE_FUNCTIONS = true; // ­ƒåò Enabled: Now supports guest access
+[7m  [0m [93m      ~~~~~~~~~~~~~~~~~~[0m
+[96msrc/lib/api-service.ts[0m:[93m14[0m:[93m3[0m - [93mwarning[0m[90m ts(6133): [0m'savePack' is declared but its value is never read.
+
+[7m14[0m   savePack,
+[7m  [0m [93m  ~~~~~~~~[0m
+[96msrc/lib/api-service.ts[0m:[93m13[0m:[93m8[0m - [93mwarning[0m[90m ts(6133): [0m'StoredPack' is declared but its value is never read.
+
+[7m13[0m   type StoredPack,
+[7m  [0m [93m       ~~~~~~~~~~[0m
+[96msrc/lib/api-service.ts[0m:[93m11[0m:[93m3[0m - [93mwarning[0m[90m ts(6133): [0m'hasPackStored' is declared but its value is never read.
+
+[7m11[0m   hasPackStored,
+[7m  [0m [93m  ~~~~~~~~~~~~~[0m
+
+Result (134 files): 
+- 1 error
+- 0 warnings
+- 9 hints
+

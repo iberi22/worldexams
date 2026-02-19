@@ -30,7 +30,7 @@ function ensureDir(dir) {
 }
 
 function createBundleMarkdown(bundle) {
-  const { country, grade, subject, period, topic, topicSlug, questions } = bundle;
+  const { grade, subject, period, topic, topicSlug, questions } = bundle;
   const subjFolder = SUBJECT_MAP[subject] || subject;
   const subjCode = SUBJECT_CODE[subject] || subject.substring(0, 3).toUpperCase();
   const countryCode = 'CO'; // Hardcoded for now based on task
