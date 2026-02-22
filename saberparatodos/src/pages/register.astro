@@ -4,7 +4,7 @@ import Layout from '../layouts/Layout.astro';
 
 <Layout title="Registro - SaberParaTodos">
   <main class="min-h-screen bg-gradient-to-br from-[#003893] to-[#FCD116] flex items-center justify-center p-4">
-    <div class="bg-white/95 backdrop-blur-sm rounded-2xl shadow-2xl max-w-md w-full p-8">
+    <div class="bg-white/95 backdrop-blur-sm rounded-2xl shadow-2xl max-w-lg w-full p-8">
       <div class="text-center mb-6">
         <h1 class="text-3xl font-bold text-gray-900 mb-2">🎓 Únete a SaberParaTodos</h1>
         <p class="text-gray-600">Crea tu cuenta sin contraseña</p>
@@ -58,6 +58,15 @@ import Layout from '../layouts/Layout.astro';
 
   const authContainer = document.getElementById('auth-container');
 
+  // College search state
+  let selectedCollegeId = '';
+  let selectedCollegeName = '';
+  let collegeSearchResults: any[] = [];
+  let collegeLoading = false;
+
+  const grades = ['6°', '7°', '8°', '9°', '10°', '11°'];
+  const sections = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H'];
+
   // Create registration form (Magic Link only - No passwords)
   const form = document.createElement('form');
   form.className = 'space-y-4';
@@ -82,6 +91,54 @@ import Layout from '../layouts/Layout.astro';
         placeholder="Tu nombre"
       />
     </div>
+
+    <!-- College Selection -->
+    <div id="college-section">
+      <label class="block text-sm font-medium text-gray-700 mb-2">🏫 Colegio (opcional)</label>
+      <div class="relative">
+        <input
+          type="text"
+          id="collegeSearch"
+          autocomplete="off"
+          placeholder="Buscar colegio por nombre o código DANE..."
+          class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-transparent"
+        />
+        ${selectedCollegeId ? `
+          <button type="button" id="clearCollege" class="absolute right-2 top-1/2 -translate-y-1/2 text-gray-400 hover:text-gray-600 text-sm">
+            ✕
+          </button>
+        ` : ''}
+        <div id="collegeDropdown" class="hidden absolute z-10 w-full mt-1 bg-white border border-gray-200 rounded-lg shadow-lg max-h-60 overflow-y-auto">
+          <div id="collegeDropdownContent"></div>
+        </div>
+      </div>
+      <p class="text-xs text-gray-500 mt-1">Vincula tu colegio para competir con tu institución</p>
+    </div>
+
+    <!-- Grade and Section (shown when college selected) -->
+    <div id="gradeSection" class="hidden grid grid-cols-2 gap-4">
+      <div>
+        <label class="block text-sm font-medium text-gray-700 mb-2">📚 Grado</label>
+        <select
+          id="grade"
+          class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-transparent"
+        >
+          <option value="">Seleccionar...</option>
+          ${grades.map(g => `<option value="${g}">${g}</option>`).join('')}
+        </select>
+      </div>
+      <div>
+        <label class="block text-sm font-medium text-gray-700 mb-2">👥 Sección</label>
+        <select
+          id="section"
+          class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-transparent"
+        >
+          <option value="">Seleccionar...</option>
+          ${sections.map(s => `<option value="${s}">${s}</option>`).join('')}
+        </select>
+      </div>
+    </div>
+
     <div id="success-message" class="hidden p-3 bg-emerald-50 border border-emerald-200 rounded-lg text-sm text-emerald-800"></div>
     <div id="error-message" class="hidden p-3 bg-red-50 border border-red-200 rounded-lg text-sm text-red-800"></div>
     <button
@@ -98,11 +155,112 @@ import Layout from '../layouts/Layout.astro';
 
   authContainer?.appendChild(form);
 
+  // College search functionality
+  const collegeSearchInput = document.getElementById('collegeSearch');
+  const collegeDropdown = document.getElementById('collegeDropdown');
+  const collegeDropdownContent = document.getElementById('collegeDropdownContent');
+  const gradeSection = document.getElementById('gradeSection');
+  const clearCollegeBtn = document.getElementById('clearCollege');
+
+  let searchTimeout: ReturnType<typeof setTimeout> | null = null;
+
+  collegeSearchInput?.addEventListener('input', async (e) => {
+    const target = e.target as HTMLInputElement;
+    const query = target.value;
+    
+    if (query.length < 2) {
+      collegeSearchResults = [];
+      collegeDropdown?.classList.add('hidden');
+      return;
+    }
+
+    if (searchTimeout) clearTimeout(searchTimeout);
+    searchTimeout = setTimeout(async () => {
+      collegeLoading = true;
+      try {
+        const { data, error } = await supabase
+          .from('colleges')
+          .select('id, cod_dane, name, department, municipality')
+          .or(`name.ilike.%${query}%,cod_dane.ilike.%${query}%`)
+          .order('name')
+          .limit(20);
+
+        if (error) throw error;
+        collegeSearchResults = data || [];
+        
+        if (collegeSearchResults.length > 0 && collegeDropdownContent) {
+          collegeDropdownContent.innerHTML = collegeSearchResults.map(college => `
+            <button type="button" class="college-option w-full text-left px-4 py-2 hover:bg-emerald-50 border-b border-gray-100 last:border-0" data-id="${college.id}" data-name="${college.name}">
+              <div class="font-medium text-gray-900">${college.name}</div>
+              <div class="text-xs text-gray-500">📍 ${college.municipality}, ${college.department} • Código: ${college.cod_dane}</div>
+            </button>
+          `).join('');
+          collegeDropdown?.classList.remove('hidden');
+        } else if (collegeDropdownContent) {
+          collegeDropdownContent.innerHTML = '<div class="p-3 text-center text-gray-500">No se encontraron colegios</div>';
+          collegeDropdown?.classList.remove('hidden');
+        }
+      } catch (err) {
+        console.error('Error searching colleges:', err);
+      } finally {
+        collegeLoading = false;
+      }
+    }, 300);
+  });
+
+  // Handle college selection
+  collegeDropdownContent?.addEventListener('click', (e) => {
+    const target = e.target as HTMLElement;
+    const option = target.closest('.college-option') as HTMLElement | null;
+    if (option) {
+      selectedCollegeId = option.dataset.id || '';
+      selectedCollegeName = option.dataset.name || '';
+      
+      if (collegeSearchInput) {
+        const input = collegeSearchInput as HTMLInputElement;
+        input.value = `${option.dataset.name || ''} (${option.querySelector('div:last-child')?.textContent?.replace('📍 ', '') || ''})`;
+      }
+      collegeDropdown?.classList.add('hidden');
+      gradeSection?.classList.remove('hidden');
+      
+      // Add clear button
+      const clearBtn = document.createElement('button');
+      clearBtn.type = 'button';
+      clearBtn.id = 'clearCollege';
+      clearBtn.className = 'absolute right-2 top-1/2 -translate-y-1/2 text-gray-400 hover:text-gray-600 text-sm';
+      clearBtn.textContent = '✕';
+      collegeSearchInput?.parentElement?.appendChild(clearBtn);
+      
+      clearBtn.addEventListener('click', clearCollegeSelection);
+    }
+  });
+
+  function clearCollegeSelection() {
+    selectedCollegeId = '';
+    selectedCollegeName = '';
+    (collegeSearchInput as HTMLInputElement).value = '';
+    gradeSection?.classList.add('hidden');
+    const clearBtn = document.getElementById('clearCollege');
+    clearBtn?.remove();
+  }
+
+  clearCollegeBtn?.addEventListener('click', clearCollegeSelection);
+
+  // Close dropdown when clicking outside
+  document.addEventListener('click', (e) => {
+    if (!collegeSearchInput?.contains(e.target as Node) && !collegeDropdown?.contains(e.target as Node)) {
+      collegeDropdown?.classList.add('hidden');
+    }
+  });
+
+  // Form submission
   form.addEventListener('submit', async (e) => {
     e.preventDefault();
 
     const email = (document.getElementById('email') as HTMLInputElement).value;
     const fullName = (document.getElementById('fullName') as HTMLInputElement).value;
+    const grade = (document.getElementById('grade') as HTMLSelectElement).value;
+    const section = (document.getElementById('section') as HTMLSelectElement).value;
     const errorDiv = document.getElementById('error-message');
     const successDiv = document.getElementById('success-message');
     const submitBtn = document.getElementById('submit-btn') as HTMLButtonElement;
@@ -113,27 +271,49 @@ import Layout from '../layouts/Layout.astro';
     successDiv?.classList.add('hidden');
 
     try {
+      // Prepare metadata with college info
+      const userData: any = {
+        full_name: fullName
+      };
+      
+      if (selectedCollegeId) {
+        userData.school_id = selectedCollegeId;
+        userData.college_name = selectedCollegeName;
+        if (grade) userData.grade = grade;
+        if (section) userData.section = section;
+      }
+
+      // Store in localStorage as backup (for when metadata doesn't get processed)
+      if (selectedCollegeId) {
+        localStorage.setItem('pending_college_data', JSON.stringify({
+          school_id: selectedCollegeId,
+          college_name: selectedCollegeName,
+          grade,
+          section
+        }));
+      }
+
       // Send Magic Link (passwordless signup)
       const { error } = await supabase.auth.signInWithOtp({
         email,
         options: {
-          emailRedirectTo: window.location.origin,
-          data: {
-            full_name: fullName
-          }
+          emailRedirectTo: window.location.origin + '/dashboard?onboarding=complete',
+          data: userData
         }
       });
 
       if (error) throw error;
 
       // Success - Show message
-      successDiv!.textContent = '✅ ¡Enlace mágico enviado! Revisa tu correo (incluso en spam) y haz clic en el enlace para acceder.';
+      successDiv!.innerHTML = '✅ ¡Enlace mágico enviado! Revisa tu correo (incluso en spam) y haz clic en el enlace para acceder.' + 
+        (selectedCollegeId ? '<br><span class="text-xs">🎓 Tu colegio ha sido registrado: ' + selectedCollegeName + '</span>' : '');
       successDiv?.classList.remove('hidden');
       submitBtn.textContent = '✓ Enviado';
 
       // Clear form
       (document.getElementById('email') as HTMLInputElement).value = '';
       (document.getElementById('fullName') as HTMLInputElement).value = '';
+      clearCollegeSelection();
 
     } catch (error: any) {
       errorDiv!.textContent = error.message || 'Error al enviar el enlace mágico';

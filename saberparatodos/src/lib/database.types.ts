@@ -17,6 +17,7 @@ export interface Database {
           credits_refill_at: string
           subscription_tier: 'free' | 'pro'
           institution_id: string | null
+          school_id: string | null
           preferences: Json | null
           created_at: string
           updated_at: string
@@ -28,6 +29,7 @@ export interface Database {
           credits_refill_at?: string
           subscription_tier?: 'free' | 'pro'
           institution_id?: string | null
+          school_id?: string | null
           preferences?: Json | null
           created_at?: string
           updated_at?: string
@@ -39,9 +41,60 @@ export interface Database {
           credits_refill_at?: string
           subscription_tier?: 'free' | 'pro'
           institution_id?: string | null
+          school_id?: string | null
           preferences?: Json | null
           created_at?: string
           updated_at?: string
+        }
+      }
+      colleges: {
+        Row: {
+          id: string
+          cod_dane: string
+          name: string
+          department: string | null
+          municipality: string | null
+          sector: string | null
+          character: string | null
+          calendar: string | null
+          address: string | null
+          phone: string | null
+          email: string | null
+          principal: string | null
+          total_students: number | null
+          created_at: string
+        }
+        Insert: {
+          id?: string
+          cod_dane: string
+          name: string
+          department?: string | null
+          municipality?: string | null
+          sector?: string | null
+          character?: string | null
+          calendar?: string | null
+          address?: string | null
+          phone?: string | null
+          email?: string | null
+          principal?: string | null
+          total_students?: number | null
+          created_at?: string
+        }
+        Update: {
+          id?: string
+          cod_dane?: string
+          name?: string
+          department?: string | null
+          municipality?: string | null
+          sector?: string | null
+          character?: string | null
+          calendar?: string | null
+          address?: string | null
+          phone?: string | null
+          email?: string | null
+          principal?: string | null
+          total_students?: number | null
+          created_at?: string
         }
       }
       training_sessions: {
