@@ -290,6 +290,128 @@ src/content/questions/colombia/[asignatura]/grado-[N]/[tema]/
   CO-[SUBJ]-[N]-[tema]-001-v3-bundle.md
 ```
 
+---
+
+## 10. Sistema Institucional (SaaS B2B) — EN DESARROLLO
+
+### Estado: ✅ Beta (Febrero 2026)
+
+El sistema institucional permite a colegios y academias gestionar estudiantes y grupos con seguimiento de progreso.
+
+### Componentes Implementados
+
+| Componente | Descripción | Estado |
+|------------|-------------|--------|
+| **Tabla `colleges`** | 50,000+ colegios de Colombia (Datos Abiertos) | ✅ |
+| **Tabla `organization_students`** | Estudiantes por organización | ✅ |
+| **Tabla `organization_groups`** | Grupos/Grados por organización | ✅ |
+| **Edge Function `get-colleges`** | Búsqueda de colegios por nombre | ✅ |
+| **Edge Function `get-organization-students`** | Lista estudiantes por grupo | ✅ |
+| **Edge Function `create-group`** | Crear grupos nuevos | ✅ |
+| **Frontend Register** | Selector de colegio en registro | ✅ |
+
+### Schema SQL
+
+```sql
+-- Colleges (imported from Datos Abiertos Colombia)
+CREATE TABLE colleges (
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+  codigo_dane VARCHAR(20) UNIQUE,
+  nombre VARCHAR(255),
+  departamento VARCHAR(100),
+  municipio VARCHAR(100),
+  naturaleza VARCHAR(50),
+  zona VARCHAR(20)
+);
+
+-- Organization Students
+CREATE TABLE organization_students (
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+  organization_id UUID REFERENCES organizations(id),
+  student_name VARCHAR(255),
+  email VARCHAR(255),
+  grade_level INTEGER,
+  group_id UUID REFERENCES organization_groups(id),
+  created_at TIMESTAMPTZ DEFAULT now()
+);
+
+-- Organization Groups
+CREATE TABLE organization_groups (
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+  organization_id UUID REFERENCES organizations(id),
+  name VARCHAR(100),
+  grade_level INTEGER,
+  created_at TIMESTAMPTZ DEFAULT now()
+);
+```
+
+### Archivos Clave
+
+| Archivo | Descripción |
+|---------|-------------|
+| `we_populate_colleges.py` | Script para importar CSV de colegios |
+| `register.astro` | Página de registro con selector de colegio |
+| `supabase/functions/get-colleges/` | Edge Function para búsqueda |
+| `supabase/migrations/20260222020000_seed_colleges.sql` | Seed data |
+
+### Próximos Pasos
+
+- [ ] Dashboard institucional para rectores
+- [ ] Panel de progreso por estudiante/grupo
+- [ ] Integración con exámenes existentes
+
+---
+
+## 11. E2E Testing Suite (Playwright)
+
+### Estado: ✅ Configurado y Ejecutando
+
+Suite de tests end-to-end para garantizar la calidad del producto antes de cada release.
+
+### Configuración
+
+| Config | Valor |
+|--------|-------|
+| Framework | Playwright |
+| Puerto | 4321 |
+| Timeout | 120s por test |
+| Reporter | list |
+| Workers | 1 |
+
+### Tests Incluidos (56 total)
+
+| Test File | Cobertura |
+|-----------|-----------|
+| `blog-filters.spec.ts` | Filtros de materia, grado, dificultad |
+| `e2e-grade3-periods.spec.ts` | Exámenes por periodo grado 3 |
+| `e2e-matrix.spec.ts` | Matriz de exámenes |
+| `e2e-period-selector.spec.ts` | Selector de periodos |
+| `e2e-smoke-tag.spec.ts` | Smoke tests |
+| `party-mode.spec.ts` | Modo sala multiplayer |
+| `party-results-e2e.spec.ts` | Resultados de sala |
+| `period-metrics-e2e.spec.ts` | Métricas por periodo |
+| `prod-verification.spec.ts` | Verificación producción |
+
+### Ejecución
+
+```bash
+# Todos los tests
+npm run test
+
+# Tests específicos
+npx playwright test tests/blog-filters.spec.ts
+
+# Con UI
+npm run test:ui
+
+#headed (visibles)
+npm run test:headed
+```
+
+### Coverage Target: 90%
+
+Los tests están en proceso de ejecución y cobertura. Algunos tests requieren ajustes de timeout para completar.
+
 
 ---
 

@@ -367,9 +367,13 @@
 ### 🏢 Fase 5: Plataforma Institucional (SaaS B2B)
 
 #### 5.1 Gestión de Organizaciones
-- [ ] **Onboarding Colegio:** Flujo de registro para Rectores/Coordinadores.
-- [ ] **Gestión de Estudiantes:** Bulk upload (CSV) o códigos de invitación por grupo.
-- [ ] **Roles RBAC:** Admin, Profesor, Estudiante.
+- [x] **Onboarding Colegio:** Flujo de registro para Rectores/Coordinadores. (2026-02-22)
+- [x] **Gestión de Estudiantes:** Bulk upload (CSV) o códigos de invitación por grupo. (2026-02-22)
+- [x] **Roles RBAC:** Admin, Profesor, Estudiante. (2026-02-22)
+- [x] **Tablas Supabase:** `colleges`, `organization_students`, `organization_groups`. (2026-02-22)
+- [x] **Edge Functions:** `get-colleges`, `get-organization-students`, `create-group`. (2026-02-22)
+- [x] **CSV Colegios:** 50,000+ colegios de Colombia importado. (2026-02-22)
+- [ ] **Dashboard Institucional:** Vista de gestión de estudiantes y grupos.
 
 #### 5.2 Autenticación de Estudiantes & Leaderboard (Nuevo)
 - [x] **Schema Migration:** (2026-01-26)
@@ -411,3 +415,13 @@
 - [x] **Fase 9 (NatSci 10):** Generados 400 preguntas (Química P1-P2, Física P3-P4). (2026-01-27)
 - [x] **Fase 10 (SocSci 10):** Generados 400 preguntas (Geografía, Historia, Cívica, DDHH). (2026-01-27)
 - [x] **UI/UX:** Integración Period Tracker y Countdown Examen (PR #72). (2026-01-30)
+- [x] **Institutional System (Fase 5 - Beta):** Sistema completo de gestión institucional. (2026-02-22)
+  - [x] Tablas Supabase: `colleges`, `organization_students`, `organization_groups`
+  - [x] Edge Functions: `get-colleges`, `get-organization-students`, `create-group`
+  - [x] CSV con 50,000+ colegios de Colombia (Datos Abiertos)
+  - [x] Frontend: Selector de colegio en registro (`register.astro`)
+  - [x] Fix TypeScript en college selection handler
+- [x] **E2E Tests:** Suite de tests Playwright configurada y ejecutando. (2026-02-22)
+  - [x] Puerto configurado: 4321
+  - [x] Timeouts aumentados a 120s
+  - [x] 56 tests cubriendo filtros, exams, party mode, leaderboards
