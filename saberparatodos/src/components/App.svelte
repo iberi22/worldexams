@@ -139,6 +139,7 @@
     // 🆕 Check for Room Code in URL
     const urlParams = new URLSearchParams(window.location.search);
     const joinCode = urlParams.get('join');
+    const onboardingComplete = urlParams.get('onboarding') === 'complete';
     if (joinCode) {
       initialRoomCode = joinCode;
       showExamConfigModal = true;
@@ -148,6 +149,30 @@
 
     const { data: { session } } = await supabase.auth.getSession();
     user = session?.user || null;
+
+    if (session?.user && onboardingComplete) {
+      try {
+        const pendingCollegeRaw = localStorage.getItem('pending_college_data');
+        if (pendingCollegeRaw) {
+          const pendingCollege = JSON.parse(pendingCollegeRaw);
+          if (pendingCollege?.school_id) {
+            const { error: profileError } = await supabase
+              .from('profiles')
+              .update({ school_id: pendingCollege.school_id })
+              .eq('id', session.user.id);
+            if (!profileError) {
+              localStorage.removeItem('pending_college_data');
+            } else {
+              console.error('Error linking school_id to profile:', profileError);
+            }
+          }
+        }
+      } catch (error) {
+        console.error('Error processing onboarding metadata:', error);
+      } finally {
+        window.history.replaceState({}, '', '/');
+      }
+    }
 
     const { data: { subscription } } = supabase.auth.onAuthStateChange((_event, session) => {
       user = session?.user || null;
@@ -1021,14 +1046,12 @@
             Salir
           </button>
         {:else}
-          <!--
           <button
-            on:click={() => setView(AppView.LOGIN)}
+            onclick={() => setView(AppView.LOGIN)}
             class="px-3 py-1.5 text-xs uppercase tracking-widest border border-emerald-500/50 text-emerald-500 hover:bg-emerald-500/10 transition-colors rounded"
           >
             Ingresar
           </button>
-          -->
         {/if}
         <!-- Header Icons -->
         <div class="flex items-center gap-2">
@@ -1060,7 +1083,8 @@
 
   <!-- Main Content -->
   <main class="relative z-10 container mx-auto px-4 py-8 pt-20">
-    {#if user}
+    <!-- 🚧 MODO PROTOTIPO: Oculto temporalmente hasta que el backend esté listo -->
+    {#if false && user}
       <!-- Training Room Announcement Banner (Logged in only) -->
       <div class="mb-8 bg-gradient-to-r from-[#fcd116] to-[#ff6b6b] rounded-lg p-4 shadow-lg flex flex-col sm:flex-row items-center justify-between gap-4 text-black font-mono border border-white/10">
         <div class="flex items-center gap-3 text-center sm:text-left">

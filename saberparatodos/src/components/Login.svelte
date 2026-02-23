@@ -24,6 +24,7 @@
         email,
         options: {
           emailRedirectTo: window.location.origin,
+          shouldCreateUser: false,
         },
       });
 

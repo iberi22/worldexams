@@ -16,8 +16,11 @@ node_modules/
 # Build
 dist/
 .astro/
-test-results/
-playwright-report/
+**/test-results/
+**/playwright-report/
+**/.wrangler/
+**/.claude/
+**/tests/evidence/
 
 # Large files
 *.zip
@@ -60,6 +63,10 @@ Thumbs.db
 
 # Reportes internos
 audit_log.txt
+*.log
+**/lint_errors.txt
+**/anomaly_log.csv
+**/grade*.json
 
 
 

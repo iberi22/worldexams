@@ -14,6 +14,7 @@
         email,
         options: {
           emailRedirectTo: window.location.origin + '/dashboard',
+          shouldCreateUser: false,
         },
       });
       if (err) throw err;

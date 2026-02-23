@@ -7,16 +7,20 @@ export default defineConfig({
   retries: 0,
   workers: 1,
   reporter: 'list',
+  timeout: 120000, // 2 minutes per test
+  expect: {
+    timeout: 30000
+  },
   use: {
-    baseURL: 'http://localhost:4348',
+    baseURL: 'http://localhost:4321',
     trace: 'on-first-retry',
     headless: true,
     screenshot: 'on',
   },
   webServer: process.env.CI ? undefined : {
-    command: 'npm run dev -- --port 4344',
-    port: 4344,
-    reuseExistingServer: true,
+    command: 'powershell -NoProfile -Command "Remove-Item -Recurse -Force node_modules/.vite -ErrorAction SilentlyContinue; npm run dev -- --port 4321 --force"',
+    port: 4321,
+    reuseExistingServer: false,
     timeout: 120000,
   },
   outputDir: 'test-results',

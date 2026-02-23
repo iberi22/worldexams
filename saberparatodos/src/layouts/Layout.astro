@@ -32,6 +32,7 @@ const {
 } = Astro.props;
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const enableAuxClientWidgets = import.meta.env.PROD;
 ---
 
 <!doctype html>
@@ -188,14 +189,18 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
     {showFooter && <Footer />}
 
-    <!-- Cookie Consent Banner (GDPR/AdSense Compliance) -->
-    <CookieConsent client:only="svelte" />
+    {enableAuxClientWidgets && (
+      <>
+        <!-- Cookie Consent Banner (GDPR/AdSense Compliance) -->
+        <CookieConsent client:only="svelte" />
 
-    <!-- Version Badge with Update Notifications -->
-    <VersionBadge client:only="svelte" position="bottom-left" showOnlyOnUpdate={import.meta.env.PROD} />
+        <!-- Version Badge with Update Notifications -->
+        <VersionBadge client:only="svelte" position="bottom-left" showOnlyOnUpdate={import.meta.env.PROD} />
 
-    <!-- Global Feedback Button -->
-    <GlobalFeedbackButton client:idle />
+        <!-- Global Feedback Button -->
+        <GlobalFeedbackButton client:idle />
+      </>
+    )}
 
     <!-- Scroll Reveal Script -->
     <script>

@@ -13,7 +13,7 @@ test('Smoke Test: Grade 11 Period 3 (Sociales) - Tag Verification', async ({ pag
 
     // 1. Select Grade 11
     console.log('Searching for Grade 11 button...');
-    const grade11Btn = page.locator('div[role="button"]').filter({ hasText: '11°' });
+    const grade11Btn = page.getByRole('button', { name: '11° Grado' });
     await expect(grade11Btn).toBeVisible({ timeout: 15000 });
 
     console.log('Clicking Grade 11 button...');

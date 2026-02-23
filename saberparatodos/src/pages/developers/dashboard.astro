@@ -112,7 +112,7 @@ import Layout from '../../layouts/Layout.astro';
 
   <script>
     // @ts-nocheck - Supabase types need to be generated
-    import { supabase } from '../../lib/supabase';
+    import { supabase, supabaseUrl } from '../../lib/supabase';
 
     const loadingState = document.getElementById('loading-state');
     const loginState = document.getElementById('login-state');

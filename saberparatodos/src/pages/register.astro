@@ -20,7 +20,98 @@ import Layout from '../layouts/Layout.astro';
         </div>
       </div>
 
-      <div id="auth-container"></div>
+      <div id="auth-container">
+        <form id="register-form" class="space-y-4">
+          <div>
+            <label class="block text-sm font-medium text-gray-700 mb-2">Correo Electrónico</label>
+            <input
+              type="email"
+              id="email"
+              required
+              class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-transparent"
+              placeholder="estudiante@ejemplo.com"
+            />
+          </div>
+          <div>
+            <label class="block text-sm font-medium text-gray-700 mb-2">Nombre completo</label>
+            <input
+              type="text"
+              id="fullName"
+              required
+              class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-transparent"
+              placeholder="Tu nombre"
+            />
+          </div>
+
+          <div id="college-section">
+            <label class="block text-sm font-medium text-gray-700 mb-2">🏫 Colegio (opcional)</label>
+            <div class="relative">
+              <input
+                type="text"
+                id="collegeSearch"
+                autocomplete="off"
+                placeholder="Buscar colegio por nombre o código DANE..."
+                class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-transparent"
+              />
+              <button type="button" id="clearCollege" class="absolute right-2 top-1/2 -translate-y-1/2 text-gray-400 hover:text-gray-600 text-sm hidden">
+                ✕
+              </button>
+              <div id="collegeDropdown" class="hidden absolute z-10 w-full mt-1 bg-white border border-gray-200 rounded-lg shadow-lg max-h-60 overflow-y-auto">
+                <div id="collegeDropdownContent"></div>
+              </div>
+            </div>
+            <p class="text-xs text-gray-500 mt-1">Vincula tu colegio para competir con tu institución</p>
+          </div>
+
+          <div id="gradeSection" class="hidden grid grid-cols-2 gap-4">
+            <div>
+              <label class="block text-sm font-medium text-gray-700 mb-2">📚 Grado</label>
+              <select
+                id="grade"
+                class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-transparent"
+              >
+                <option value="">Seleccionar...</option>
+                <option value="6°">6°</option>
+                <option value="7°">7°</option>
+                <option value="8°">8°</option>
+                <option value="9°">9°</option>
+                <option value="10°">10°</option>
+                <option value="11°">11°</option>
+              </select>
+            </div>
+            <div>
+              <label class="block text-sm font-medium text-gray-700 mb-2">👥 Sección</label>
+              <select
+                id="section"
+                class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-transparent"
+              >
+                <option value="">Seleccionar...</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="E">E</option>
+                <option value="F">F</option>
+                <option value="G">G</option>
+                <option value="H">H</option>
+              </select>
+            </div>
+          </div>
+
+          <div id="success-message" class="hidden p-3 bg-emerald-50 border border-emerald-200 rounded-lg text-sm text-emerald-800"></div>
+          <div id="error-message" class="hidden p-3 bg-red-50 border border-red-200 rounded-lg text-sm text-red-800"></div>
+          <button
+            type="submit"
+            id="submit-btn"
+            class="w-full bg-gradient-to-r from-emerald-600 to-emerald-700 text-white font-semibold py-3 rounded-lg hover:from-emerald-700 hover:to-emerald-800 transition-all shadow-md"
+          >
+            Enviar Enlace Mágico 🔐
+          </button>
+          <p class="text-xs text-gray-500 text-center mt-2">
+            Te enviaremos un enlace seguro a tu correo. Sin contraseñas.
+          </p>
+        </form>
+      </div>
 
       <div class="mt-6 text-center">
         <p class="text-sm text-gray-600">
@@ -56,104 +147,12 @@ import Layout from '../layouts/Layout.astro';
 <script>
   import { supabase } from '../lib/supabase';
 
-  const authContainer = document.getElementById('auth-container');
 
   // College search state
   let selectedCollegeId = '';
   let selectedCollegeName = '';
-  let collegeSearchResults: any[] = [];
-  let collegeLoading = false;
 
-  const grades = ['6°', '7°', '8°', '9°', '10°', '11°'];
-  const sections = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H'];
-
-  // Create registration form (Magic Link only - No passwords)
-  const form = document.createElement('form');
-  form.className = 'space-y-4';
-  form.innerHTML = `
-    <div>
-      <label class="block text-sm font-medium text-gray-700 mb-2">Correo Electrónico</label>
-      <input
-        type="email"
-        id="email"
-        required
-        class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-transparent"
-        placeholder="estudiante@ejemplo.com"
-      />
-    </div>
-    <div>
-      <label class="block text-sm font-medium text-gray-700 mb-2">Nombre completo</label>
-      <input
-        type="text"
-        id="fullName"
-        required
-        class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-transparent"
-        placeholder="Tu nombre"
-      />
-    </div>
-
-    <!-- College Selection -->
-    <div id="college-section">
-      <label class="block text-sm font-medium text-gray-700 mb-2">🏫 Colegio (opcional)</label>
-      <div class="relative">
-        <input
-          type="text"
-          id="collegeSearch"
-          autocomplete="off"
-          placeholder="Buscar colegio por nombre o código DANE..."
-          class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-transparent"
-        />
-        ${selectedCollegeId ? `
-          <button type="button" id="clearCollege" class="absolute right-2 top-1/2 -translate-y-1/2 text-gray-400 hover:text-gray-600 text-sm">
-            ✕
-          </button>
-        ` : ''}
-        <div id="collegeDropdown" class="hidden absolute z-10 w-full mt-1 bg-white border border-gray-200 rounded-lg shadow-lg max-h-60 overflow-y-auto">
-          <div id="collegeDropdownContent"></div>
-        </div>
-      </div>
-      <p class="text-xs text-gray-500 mt-1">Vincula tu colegio para competir con tu institución</p>
-    </div>
-
-    <!-- Grade and Section (shown when college selected) -->
-    <div id="gradeSection" class="hidden grid grid-cols-2 gap-4">
-      <div>
-        <label class="block text-sm font-medium text-gray-700 mb-2">📚 Grado</label>
-        <select
-          id="grade"
-          class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-transparent"
-        >
-          <option value="">Seleccionar...</option>
-          ${grades.map(g => `<option value="${g}">${g}</option>`).join('')}
-        </select>
-      </div>
-      <div>
-        <label class="block text-sm font-medium text-gray-700 mb-2">👥 Sección</label>
-        <select
-          id="section"
-          class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-transparent"
-        >
-          <option value="">Seleccionar...</option>
-          ${sections.map(s => `<option value="${s}">${s}</option>`).join('')}
-        </select>
-      </div>
-    </div>
-
-    <div id="success-message" class="hidden p-3 bg-emerald-50 border border-emerald-200 rounded-lg text-sm text-emerald-800"></div>
-    <div id="error-message" class="hidden p-3 bg-red-50 border border-red-200 rounded-lg text-sm text-red-800"></div>
-    <button
-      type="submit"
-      id="submit-btn"
-      class="w-full bg-gradient-to-r from-emerald-600 to-emerald-700 text-white font-semibold py-3 rounded-lg hover:from-emerald-700 hover:to-emerald-800 transition-all shadow-md"
-    >
-      Enviar Enlace Mágico 🔐
-    </button>
-    <p class="text-xs text-gray-500 text-center mt-2">
-      Te enviaremos un enlace seguro a tu correo. Sin contraseñas.
-    </p>
-  `;
-
-  authContainer?.appendChild(form);
+  const form = document.getElementById('register-form') as HTMLFormElement | null;
 
   // College search functionality
   const collegeSearchInput = document.getElementById('collegeSearch');
@@ -167,16 +166,14 @@ import Layout from '../layouts/Layout.astro';
   collegeSearchInput?.addEventListener('input', async (e) => {
     const target = e.target as HTMLInputElement;
     const query = target.value;
-    
+
     if (query.length < 2) {
-      collegeSearchResults = [];
       collegeDropdown?.classList.add('hidden');
       return;
     }
 
     if (searchTimeout) clearTimeout(searchTimeout);
     searchTimeout = setTimeout(async () => {
-      collegeLoading = true;
       try {
         const { data, error } = await supabase
           .from('colleges')
@@ -186,10 +183,10 @@ import Layout from '../layouts/Layout.astro';
           .limit(20);
 
         if (error) throw error;
-        collegeSearchResults = data || [];
-        
-        if (collegeSearchResults.length > 0 && collegeDropdownContent) {
-          collegeDropdownContent.innerHTML = collegeSearchResults.map(college => `
+        const results = data || [];
+
+        if (results.length > 0 && collegeDropdownContent) {
+          collegeDropdownContent.innerHTML = (results as any[]).map(college => `
             <button type="button" class="college-option w-full text-left px-4 py-2 hover:bg-emerald-50 border-b border-gray-100 last:border-0" data-id="${college.id}" data-name="${college.name}">
               <div class="font-medium text-gray-900">${college.name}</div>
               <div class="text-xs text-gray-500">📍 ${college.municipality}, ${college.department} • Código: ${college.cod_dane}</div>
@@ -202,8 +199,6 @@ import Layout from '../layouts/Layout.astro';
         }
       } catch (err) {
         console.error('Error searching colleges:', err);
-      } finally {
-        collegeLoading = false;
       }
     }, 300);
   });
@@ -215,23 +210,20 @@ import Layout from '../layouts/Layout.astro';
     if (option) {
       selectedCollegeId = option.dataset.id || '';
       selectedCollegeName = option.dataset.name || '';
-      
+
       if (collegeSearchInput) {
         const input = collegeSearchInput as HTMLInputElement;
         input.value = `${option.dataset.name || ''} (${option.querySelector('div:last-child')?.textContent?.replace('📍 ', '') || ''})`;
       }
       collegeDropdown?.classList.add('hidden');
       gradeSection?.classList.remove('hidden');
-      
+
       // Add clear button
-      const clearBtn = document.createElement('button');
-      clearBtn.type = 'button';
-      clearBtn.id = 'clearCollege';
-      clearBtn.className = 'absolute right-2 top-1/2 -translate-y-1/2 text-gray-400 hover:text-gray-600 text-sm';
-      clearBtn.textContent = '✕';
-      collegeSearchInput?.parentElement?.appendChild(clearBtn);
-      
-      clearBtn.addEventListener('click', clearCollegeSelection);
+      const clearBtn = document.getElementById('clearCollege');
+      if (clearBtn) {
+        clearBtn.classList.remove('hidden');
+        clearBtn.addEventListener('click', clearCollegeSelection);
+      }
     }
   });
 
@@ -241,7 +233,7 @@ import Layout from '../layouts/Layout.astro';
     (collegeSearchInput as HTMLInputElement).value = '';
     gradeSection?.classList.add('hidden');
     const clearBtn = document.getElementById('clearCollege');
-    clearBtn?.remove();
+    clearBtn?.classList.add('hidden');
   }
 
   clearCollegeBtn?.addEventListener('click', clearCollegeSelection);
@@ -254,8 +246,9 @@ import Layout from '../layouts/Layout.astro';
   });
 
   // Form submission
-  form.addEventListener('submit', async (e) => {
-    e.preventDefault();
+  if (form) {
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
 
     const email = (document.getElementById('email') as HTMLInputElement).value;
     const fullName = (document.getElementById('fullName') as HTMLInputElement).value;
@@ -275,7 +268,7 @@ import Layout from '../layouts/Layout.astro';
       const userData: any = {
         full_name: fullName
       };
-      
+
       if (selectedCollegeId) {
         userData.school_id = selectedCollegeId;
         userData.college_name = selectedCollegeName;
@@ -297,7 +290,7 @@ import Layout from '../layouts/Layout.astro';
       const { error } = await supabase.auth.signInWithOtp({
         email,
         options: {
-          emailRedirectTo: window.location.origin + '/dashboard?onboarding=complete',
+          emailRedirectTo: window.location.origin + '/?onboarding=complete',
           data: userData
         }
       });
@@ -305,7 +298,7 @@ import Layout from '../layouts/Layout.astro';
       if (error) throw error;
 
       // Success - Show message
-      successDiv!.innerHTML = '✅ ¡Enlace mágico enviado! Revisa tu correo (incluso en spam) y haz clic en el enlace para acceder.' + 
+      successDiv!.innerHTML = '✅ ¡Enlace mágico enviado! Revisa tu correo (incluso en spam) y haz clic en el enlace para acceder.' +
         (selectedCollegeId ? '<br><span class="text-xs">🎓 Tu colegio ha sido registrado: ' + selectedCollegeName + '</span>' : '');
       successDiv?.classList.remove('hidden');
       submitBtn.textContent = '✓ Enviado';
@@ -322,4 +315,5 @@ import Layout from '../layouts/Layout.astro';
       submitBtn.textContent = 'Enviar Enlace Mágico 🔐';
     }
   });
+  }
 </script>

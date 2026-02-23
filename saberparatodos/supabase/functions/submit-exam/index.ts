@@ -13,10 +13,15 @@ interface ExamResult {
   user_name: string;
   score: number;
   total_questions: number;
+  max_score?: number;
   subject: string;
   grade?: number;
   time_taken?: number; // tiempo en segundos
+  duration_seconds?: number;
+  mode?: string;
+  exam_id?: string;
   answers?: Record<string, string>; // ID pregunta -> respuesta seleccionada
+  metadata?: Record<string, unknown>;
 }
 
 interface SubmitExamRequest {
@@ -41,6 +46,19 @@ serve(async (req: Request) => {
   }
 
   try {
+    // Require authenticated user token
+    const authHeader = req.headers.get("Authorization");
+    if (!authHeader?.startsWith("Bearer ")) {
+      return new Response(
+        JSON.stringify({ error: "Unauthorized" }),
+        {
+          status: 401,
+          headers: { ...corsHeaders, "Content-Type": "application/json" },
+        }
+      );
+    }
+    const accessToken = authHeader.replace("Bearer ", "").trim();
+
     // Crear cliente Supabase con Service Role para bypass RLS si es necesario
     const supabaseUrl = Deno.env.get("SUPABASE_URL")!;
     const supabaseServiceKey = Deno.env.get("SUPABASE_SERVICE_ROLE_KEY")!;
@@ -52,6 +70,22 @@ serve(async (req: Request) => {
       },
     });
 
+    // Validate JWT with explicit token check
+    const {
+      data: { user },
+      error: authError,
+    } = await supabase.auth.getUser(accessToken);
+
+    if (authError || !user) {
+      return new Response(
+        JSON.stringify({ error: "Unauthorized" }),
+        {
+          status: 401,
+          headers: { ...corsHeaders, "Content-Type": "application/json" },
+        }
+      );
+    }
+
     // Parsear el body
     const body: SubmitExamRequest = await req.json();
     const { result } = body;
@@ -60,16 +94,6 @@ serve(async (req: Request) => {
     if (!result) {
       return new Response(
         JSON.stringify({ error: "Se requiere el campo 'result'" }),
-        {
-          status: 400,
-          headers: { ...corsHeaders, "Content-Type": "application/json" },
-        }
-      );
-    }
-
-    if (!result.user_name || result.user_name.trim() === "") {
-      return new Response(
-        JSON.stringify({ error: "Se requiere 'user_name'" }),
         {
           status: 400,
           headers: { ...corsHeaders, "Content-Type": "application/json" },
@@ -117,22 +141,43 @@ serve(async (req: Request) => {
       );
     }
 
+    // Server-side username from authenticated user to avoid spoofing
+    const derivedUserName =
+      user.user_metadata?.user_name ||
+      user.user_metadata?.full_name ||
+      user.email?.split("@")[0] ||
+      result.user_name ||
+      "Anonymous";
+
     // Sanitizar nombre de usuario (prevenir XSS/injection)
-    const sanitizedUserName = result.user_name
+    const sanitizedUserName = String(derivedUserName)
       .trim()
       .slice(0, 50) // Máximo 50 caracteres
       .replace(/[<>]/g, ""); // Remover caracteres peligrosos
+
+    const durationSeconds =
+      typeof result.duration_seconds === "number"
+        ? result.duration_seconds
+        : typeof result.time_taken === "number"
+          ? result.time_taken
+          : null;
 
     // Insertar resultado
     const { data, error } = await supabase
       .from("exam_results")
       .insert({
         user_name: sanitizedUserName,
+        user_id: user.id,
         score: result.score,
         total_questions: result.total_questions,
+        max_score: result.max_score ?? result.total_questions,
         subject: result.subject.trim(),
         grade: result.grade || null,
         time_taken: result.time_taken || null,
+        duration_seconds: durationSeconds,
+        mode: result.mode || null,
+        exam_id: result.exam_id || null,
+        metadata: result.metadata || null,
       })
       .select()
       .single();
@@ -170,6 +215,7 @@ serve(async (req: Request) => {
           user_name: data.user_name,
           score: data.score,
           total_questions: data.total_questions,
+          max_score: data.max_score,
           percentage: data.percentage,
           subject: data.subject,
           rank: rank,

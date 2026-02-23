@@ -14,17 +14,13 @@ import type {
 } from './leaderboard';
 import type { ExamScore } from './scoring';
 import type { AnonymousIdentity } from './identity';
+import { supabase } from './supabase';
 
 // ============================================================================
 // CONFIGURACIÓN
 // ============================================================================
 
 const LEADERBOARDS_BASE_URL = '/leaderboards';
-
-// Token público con permisos mínimos (solo repo:dispatch)
-// NOTA: Este token debe configurarse en las variables de entorno del build
-// No otorga acceso a nada más que disparar workflows
-const GITHUB_DISPATCH_URL = 'https://api.github.com/repos/worldexams/saberparatodos/dispatches';
 
 // ============================================================================
 // CARGA DE LEADERBOARDS
@@ -204,10 +200,25 @@ export async function submitScoreInput(input: ScoreSubmissionInput): Promise<boo
   // Save locally as backup
   saveLocalScore(submission);
 
-  // Log for debugging
-  console.log('Score ready for submission. URL:', getSubmissionUrl(input));
+  const edgeSubmission: EdgeScoreSubmission = {
+    anonymousId: input.anonymousId,
+    displayName: input.displayName,
+    grade: Number(input.grade),
+    region: input.region || 'CO',
+    totalPoints: input.totalPoints,
+    questionsAnswered: input.questionsAnswered,
+    correctAnswers: input.correctAnswers,
+    averageDifficulty: input.averageDifficulty,
+    examDurationMs: input.examDurationMs,
+    timestamp: input.timestamp
+  };
 
-  return true;
+  const edgeSuccess = await submitScoreToEdge(edgeSubmission);
+  if (!edgeSuccess) {
+    console.log('Score stored locally, pending sync. URL fallback:', getSubmissionUrl(input));
+  }
+
+  return edgeSuccess;
 }
 
 // ============================================================================
@@ -221,6 +232,57 @@ interface LocalScoreEntry {
   submission: ScoreSubmission;
   savedAt: string;
   synced: boolean;
+}
+
+interface EdgeScoreSubmission {
+  anonymousId: string;
+  displayName: string;
+  grade: number;
+  region: string;
+  totalPoints: number;
+  questionsAnswered: number;
+  correctAnswers: number;
+  averageDifficulty: number;
+  examDurationMs: number;
+  timestamp: number;
+}
+
+function toEdgeSubmission(submission: ScoreSubmission): EdgeScoreSubmission {
+  const parsedGrade = Number.parseInt(String(submission.grade), 10);
+  const grade = Number.isFinite(parsedGrade) ? parsedGrade : 11;
+  const questionsAnswered = submission.stats.questionsAnswered || 0;
+  const correctAnswers = Math.round((submission.stats.accuracy || 0) * questionsAnswered);
+
+  return {
+    anonymousId: submission.anonymousId,
+    displayName: submission.displayName,
+    grade,
+    region: submission.region || 'CO',
+    totalPoints: submission.score,
+    questionsAnswered,
+    correctAnswers,
+    averageDifficulty: submission.stats.averageDifficulty || 0,
+    examDurationMs: 300000,
+    timestamp: new Date(submission.timestamp).getTime()
+  };
+}
+
+async function submitScoreToEdge(submission: EdgeScoreSubmission): Promise<boolean> {
+  try {
+    const { data, error } = await supabase.functions.invoke('submit-leaderboard-score', {
+      body: { submission }
+    });
+
+    if (error) {
+      console.error('Error submitting score to edge function:', error);
+      return false;
+    }
+
+    return Boolean(data?.success);
+  } catch (error) {
+    console.error('Unexpected edge submission error:', error);
+    return false;
+  }
 }
 
 /**
@@ -306,22 +368,10 @@ export async function syncPendingScores(): Promise<number> {
   const syncedChecksums: string[] = [];
 
   for (const entry of pending) {
-    // Try to submit via the submission URL endpoint
+    // Try to submit via secured edge function
     try {
-      const url = `${GITHUB_DISPATCH_URL}?${new URLSearchParams({
-        anonymous_id: entry.submission.anonymousId,
-        display_name: entry.submission.displayName,
-        score: entry.submission.score.toString(),
-        grade: entry.submission.grade,
-        region: entry.submission.region || '',
-        questions_answered: entry.submission.stats.questionsAnswered.toString(),
-        correct_answers: Math.round(entry.submission.stats.accuracy * entry.submission.stats.questionsAnswered).toString(),
-        average_difficulty: entry.submission.stats.averageDifficulty.toString(),
-        timestamp: entry.submission.timestamp
-      })}`;
-
-      const response = await fetch(url);
-      if (response.ok) {
+      const edgeSuccess = await submitScoreToEdge(toEdgeSubmission(entry.submission));
+      if (edgeSuccess) {
         synced++;
         syncedChecksums.push(entry.submission.checksum);
       }

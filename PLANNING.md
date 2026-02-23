@@ -51,6 +51,46 @@ Exponer el banco de preguntas vía REST API (`api.worldexams.org`):
 * **Fase 4:** **Implementación API Gateway & API Keys.**
 * **Fase 5:** **Dashboard Institucional & Gestión de Organizaciones.**
 
+### 5.1.1 Estado de Ejecución (2026-02-22)
+
+- Se ejecutó auditoría técnica E2E en auth/registro/dashboard/leaderboard.
+- Se cerró brecha crítica institucional: funciones `get-organization-students` y `create-group` ya no usan `SUPABASE_SERVICE_ROLE_KEY` para operaciones de usuario.
+- Se aplicó migración `20260222173000_phase1_institutional_rls_hardening.sql` para endurecer policies de `organizations`, `organization_students` y `organization_groups`.
+- Se añadieron rutas de compatibilidad para release:
+  - `/leaderboard` redirige a `/ranking`.
+  - `/login` redirige a `/`.
+- Validación realizada:
+  - `npm run build` exitoso.
+  - `npx playwright test tests/e2e-smoke-tag.spec.ts` exitoso.
+  - `npx playwright test tests/auth-leaderboard-smoke.spec.ts` exitoso.
+
+### 5.1.2 Riesgos abiertos priorizados
+
+1. Queda pendiente de configuración en Supabase Auth: fijar política `Magic Link only` (desactivar Email/Password). En ese modelo, `auth_leaked_password_protection` no aplica.
+2. Persisten warnings de build (chunks grandes y warning CSS puntual) que no bloquean release pero afectan mantenibilidad.
+
+### 5.1.3 Cierre de remediación (2026-02-22, continuación)
+
+- Se aplicó `20260222190000_phase2_security_advisor_remediation.sql`:
+  - `organizations` ahora exige `owner_user_id = auth.uid()` para INSERT.
+  - `institution_members` quedó con políticas RLS explícitas.
+  - `leaderboard_global` quedó con `security_invoker=true`.
+- Se corrigió inconsistencia de normalización de asignaturas en packs:
+  - `socialesyciudadanas` ahora se canoniza a `sociales_y_ciudadanas`.
+- Validación posterior:
+  - `npm run build` exitoso.
+  - `tests/e2e-smoke-tag.spec.ts` exitoso.
+  - `tests/auth-leaderboard-smoke.spec.ts` exitoso.
+
+### 5.1.4 Cierre de remediación (2026-02-22, fase 3)
+
+- Se aplicó `20260222194000_phase3_party_rls_search_path_hardening.sql`:
+  - Endurecimiento de policies RLS en `party_sessions` y `party_players` (sin romper flujo guest).
+  - Remediación de `search_path` mutable en funciones auditadas.
+- Resultado de `Supabase Security Advisors`:
+  - Se eliminaron hallazgos de RLS permisiva en Party y de funciones con `search_path` mutable.
+- Permanece únicamente warning de Auth (`auth_leaked_password_protection`), esperado mientras el advisor evalúa passwords aunque el producto opere passwordless.
+
 ---
 
 ## 5.1 Party Mode (Aula Virtual Multiplayer)
@@ -447,3 +487,170 @@ Los tests están en proceso de ejecución y cobertura. Algunos tests requieren a
 
 ---
 
+## 11. Plan de Salida y Lanzamiento (Auth/Registro/Dashboard/Leaderboard) — 2026-02-22
+
+### Estado real de la plataforma (cierre de sesión actual)
+
+**Completado:**
+- Flujo base de login/registro funcional.
+- Endurecimiento de `submit-exam` con token de usuario válido.
+- Unificación del payload de persistencia en resultados (`score/max_score/duration/mode/exam_id/metadata`).
+- Correcciones de onboarding institucional (`profiles.school_id`) y guardas de acceso de dashboard.
+- Pipeline de leaderboard migrado a Edge Function.
+- Migración RLS institucional aplicada en Supabase producción.
+- Redeploy de `submit-exam` en Supabase producción con cambios de hardening.
+
+**Riesgos abiertos:**
+- Inconsistencia de modelo de score entre componentes.
+- Cobertura E2E insuficiente en auth institucional y leaderboard end-to-end.
+- Falta observabilidad mínima para incidentes de funciones edge en release.
+
+### Plan de release por fases (ejecutable)
+
+1. **Fase 0 — Hardening (Día 1)**
+   - Cerrar pendientes de schema/policies.
+   - Validar rutas: `/login`, `/register`, `/dashboard`, `/leaderboard`.
+   - Agregar/ajustar E2E críticos de autenticación y ranking.
+
+2. **Fase 1 — Staging Controlado (Día 2)**
+   - Pruebas con 2 perfiles institucionales y 3 estudiantes.
+   - Verificar guardas RBAC + envío de resultados + leaderboard.
+   - Confirmar rollback táctico (revert migration + redeploy function previo).
+
+3. **Fase 2 — Producción Progresiva (Día 3)**
+   - Activación por cohortes.
+   - Monitoreo activo de errores de edge functions y auth events.
+   - Congelar cambios no críticos durante ventana de despliegue.
+
+4. **Fase 3 — Post-Launch (24h)**
+   - Auditoría de logs, tasa de éxito de login y persistencia de resultados.
+   - Hotfixes solo para incidentes P0/P1.
+   - Cierre con informe técnico y backlog residual priorizado.
+
+### Handoff para próximo agente/sesión
+
+- **Repositorio foco:** `E:\scripts-python\worldexams\saberparatodos`
+- **Supabase proyecto:** `tzmrgvtptdtsjcugwqyq`
+- **Migración reciente:** `20260222140000_phase0_secure_institutional_rls.sql`
+- **Funciones edge activas:** `submit-exam`, `submit-leaderboard-score`
+
+### Integración de skill externo (`claude-seo`)
+
+Objetivo: usar el skill para optimización de contenido y discoverability sin romper seguridad/auth.
+
+Secuencia recomendada:
+1. Instalar skill desde `https://github.com/AgriciDaniel/claude-seo`.
+   - Estado actual: instalado (`seo-plan`, `seo-technical`, `seo-content`).
+2. Ejecutar auditoría SEO técnica en rutas públicas y contenido markdown.
+3. Mantener fuera de alcance del skill: migraciones SQL, políticas RLS, secrets y auth backend.
+4. Registrar cambios SEO en backlog separado para no mezclar con hotfixes de plataforma.
+
+### Continuidad operativa (siguiente sesión)
+
+Prioridad técnica:
+1. Cerrar brechas E2E de autenticación e institucional.
+2. Validar consistencia end-to-end del leaderboard.
+3. Completar auditoría RLS institucional con evidencia SQL.
+4. Ejecutar afinaciones SEO técnicas y de contenido con skills instalados.
+
+Definición de terminado para esta fase:
+- `npm run build` en verde.
+- Smoke test principal en verde.
+- Sin regresión de login/registro/onboarding/dashboard.
+- Documentación (`TASK.md`, `PLANNING.md`) actualizada con pendientes reales.
+
+Prompt corto recomendado para próximo agente:
+
+```text
+Continúa desde TASK.md y PLANNING.md (2026-02-22) en E:\scripts-python\worldexams.
+Prioriza hardening y afinaciones de auth/registro/dashboard/leaderboard.
+Usa Guardian+Architect para seguridad y RLS; usa skills seo-technical, seo-plan y seo-content solo en SEO.
+Implementa fixes pequeños, valida build + e2e smoke, despliega funciones/migraciones necesarias con Supabase MCP/CLI y deja evidencia en la documentación de handoff.
+```
+
+
+
+## 12. Update de ejecucion (2026-02-22, continuidad)
+
+### Resultado de la auditoria tecnica (Guardian + Architect)
+
+**Rutas auditadas:** `/login`, `/register`, `/dashboard`, `/leaderboard`
+- `/login`: alias activo hacia `/`.
+- `/register`: formulario y flujo institucional disponibles.
+- `/dashboard`: mantiene gating institucional (sin membresia redirige/limita acceso).
+- `/leaderboard`: alias activo hacia `/ranking`.
+
+**Edge functions auditadas:** `submit-exam`, `submit-leaderboard-score`, `get-organization-students`, `create-group`
+- Hardening confirmado en `get-organization-students` y `create-group` (JWT obligatorio, sin service_role, controles de membresia/rol).
+- `submit-exam` y `submit-leaderboard-score` operativas en flujo E2E validado.
+
+**RLS y seguridad DB (migraciones aplicadas):**
+- `20260222173000_phase1_institutional_rls_hardening.sql`
+- `20260222190000_phase2_security_advisor_remediation.sql`
+- `20260222194000_phase3_party_rls_search_path_hardening.sql`
+- Estado advisor security: solo queda `auth_leaked_password_protection` (no bloqueante bajo política Magic Link only).
+- Verificación operacional (2026-02-23): `SELECT` por membresía confirmado en `pg_policies` para `organizations`, `organization_members`, `organization_students` y `organization_groups`.
+
+### Evidencia de validacion
+
+- `npm run build` -> OK
+- `npx playwright test tests/e2e-smoke-tag.spec.ts` -> OK
+- `npx playwright test tests/auth-leaderboard-smoke.spec.ts` -> OK
+
+### Riesgos abiertos
+
+1. Confirmar en Supabase Auth `Magic Link only` (Email OTP activo y Email/Password deshabilitado) y registrar evidencia de configuración.
+2. Warning de minificacion CSS (`Expected identifier but found "-"`) aun presente, no bloqueante; requiere trazado de fuente para dejar build totalmente limpio.
+
+### Proximos pasos priorizados (siguiente sesion)
+
+1. Validar en entorno Supabase la política `Magic Link only` y marcar `auth_leaked_password_protection` como no aplicable en el contexto actual.
+2. Aislar y corregir el warning CSS de minify (sin introducir cambios funcionales de UI).
+3. Mantener smoke de release (`build + e2e-smoke-tag + auth-leaderboard-smoke`) como gate minimo de despliegue.
+
+## 13. Update continuidad (Magic Link only + estabilidad E2E)
+
+### Cambios aplicados
+
+1. Auth passwordless consistente:
+- `Login.svelte` e `InstitutionalLogin.svelte` usan `shouldCreateUser: false` en login.
+- Registro mantiene `signInWithOtp` como unico flujo de alta.
+
+2. Robustez de rutas auditadas:
+- `register.astro`: formulario renderizado en SSR para no depender de hidratacion.
+- `dashboard.astro`: redirect server-side a `/instituciones` cuando no hay cookie de auth.
+
+3. Resiliencia tecnica:
+- `supabase.ts`: fallback controlado cuando faltan env PUBLIC, evitando romper scripts cliente.
+- `playwright.config.ts`: limpieza de `node_modules/.vite` y reinicio limpio del webServer para evitar `Outdated Optimize Dep`.
+
+### Resultado de validacion final
+
+- `npm run build` -> OK
+- `tests/e2e-smoke-tag.spec.ts` -> OK
+- `tests/auth-leaderboard-smoke.spec.ts` -> OK
+
+### Riesgo vigente
+
+1. Warning de minificacion CSS (`Expected identifier but found "-"`) persiste como no bloqueante.
+2. Advisory `auth_leaked_password_protection` se mantiene no aplicable bajo politica confirmada de producto: Magic Link only (sin Email/Password).
+
+## 14. Update continuidad (2026-02-23, release hardening)
+
+### Hallazgo y corrección aplicada
+
+- Se detectó regresión en `src/lib/api-service.ts` durante smoke E2E:
+  - Error de hidratación por exports faltantes (`fetchQuestions`, `fetchBulkQuestions`, `fetchAllQuestionsForGrade`, `getAvailableSubjects`).
+- Corrección aplicada:
+  - Restauración de implementación estable de `api-service.ts`.
+  - Conservación del fix de compatibilidad de subject keys (`socialesyciudadanas` canonizado a `sociales_y_ciudadanas`).
+
+### Validación post-fix
+
+- `npm run build` -> OK
+- `npx playwright test tests/e2e-smoke-tag.spec.ts tests/auth-leaderboard-smoke.spec.ts` -> 4/4 OK
+
+### Estado actual de riesgo
+
+1. Security advisor: solo permanece `auth_leaked_password_protection` (WARN), pendiente de cierre operativo al confirmar `Magic Link only` en configuración Auth de Supabase.
+2. Warning de minificación CSS (`Expected identifier but found "-"`) se mantiene no bloqueante; requiere aislamiento adicional para limpieza total del build.

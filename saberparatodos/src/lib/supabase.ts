@@ -5,11 +5,19 @@ export const supabaseUrl = import.meta.env.PUBLIC_SUPABASE_URL;
 export const supabaseAnonKey = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
 export const relayUrl = import.meta.env.PUBLIC_RELAY_URL || 'ws://localhost:8765/ws';
 
+const fallbackSupabaseUrl = 'http://127.0.0.1:54321';
+const fallbackSupabaseAnonKey = 'missing-public-anon-key';
+
 if (!supabaseUrl || !supabaseAnonKey) {
-  throw new Error('Missing Supabase environment variables');
+  console.error(
+    '[Supabase] Missing PUBLIC_SUPABASE_URL or PUBLIC_SUPABASE_ANON_KEY. Using safe fallback client; auth/network calls may fail until env is configured.'
+  );
 }
 
-export const supabase = createClient<Database>(supabaseUrl, supabaseAnonKey);
+export const supabase = createClient<Database>(
+  supabaseUrl || fallbackSupabaseUrl,
+  supabaseAnonKey || fallbackSupabaseAnonKey
+);
 
 // =============================================================================
 // Edge Function Helpers

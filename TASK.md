@@ -1,6 +1,6 @@
 # Gestión de Tareas: World Exams Organization
 
-Última actualización: 2026-01-26
+Última actualización: 2026-02-22
 
 ## 🎯 Resumen Ejecutivo y Estado Actual
 
@@ -12,6 +12,144 @@
 
 ---
 
+## 🔐 Handoff Técnico (Auth + Institucional + Leaderboard) — 2026-02-22
+
+### ✅ Actualización de continuidad (Guardian + Architect) — 2026-02-22
+- [x] **Auditoría técnica completa** de auth/registro/dashboard/leaderboard y edge functions críticas.
+- [x] **Alias de rutas para release**:
+  - [x] `/leaderboard` → redirect permanente a `/ranking`.
+  - [x] `/login` → redirect permanente a `/`.
+- [x] **Hardening Edge Functions institucionales**:
+  - [x] `get-organization-students`: elimina uso de `service_role`, exige `Authorization`, valida membresía y responde 403 en no miembros.
+  - [x] `create-group`: elimina uso de `service_role`, exige `Authorization`, valida rol admin/owner y entrada mínima.
+- [x] **Migración RLS fase 1 aplicada**: `20260222173000_phase1_institutional_rls_hardening.sql`.
+  - [x] `organizations`: policies restringidas a `authenticated`, agrega `DELETE` solo owner.
+  - [x] `organization_students`: agrega `UPDATE/DELETE` para admin/owner.
+  - [x] `organization_groups`: agrega `UPDATE/DELETE` para admin/owner.
+- [x] **Deploy backend realizado**:
+  - [x] `get-organization-students` (CLI `supabase functions deploy`, `--no-verify-jwt`).
+  - [x] `create-group` (CLI `supabase functions deploy`, `--no-verify-jwt`).
+- [x] **Validación release**:
+  - [x] `npm run build` (OK).
+  - [x] `npx playwright test tests/e2e-smoke-tag.spec.ts` (OK).
+  - [x] `npx playwright test tests/auth-leaderboard-smoke.spec.ts` (OK).
+- [x] **Remediación Security Advisor fase 2 aplicada**: `20260222190000_phase2_security_advisor_remediation.sql`.
+  - [x] `organizations`: insert policy ya no usa `WITH CHECK (true)`, ahora exige `owner_user_id = auth.uid()`.
+  - [x] `institution_members`: tabla con RLS habilitado ahora tiene policies explícitas (select/insert/update/delete propio).
+  - [x] `leaderboard_global`: configurada como `security_invoker=true` (sin SECURITY DEFINER en vista).
+- [x] **Fix de estabilidad E2E en selección de asignatura**:
+  - [x] Canonicalización de alias en `normalizeSubjectKey` para evitar 404 de packs (`socialesyciudadanas` → `sociales_y_ciudadanas`).
+- [x] **Remediación Security Advisor fase 3 aplicada**: `20260222194000_phase3_party_rls_search_path_hardening.sql`.
+  - [x] `party_sessions`: policies `INSERT/UPDATE` ya no usan expresiones siempre verdaderas.
+  - [x] `party_players`: policies `INSERT/UPDATE` endurecidas con checks de integridad y existencia de sesión activa.
+  - [x] Funciones con `search_path` mutable corregidas:
+    - [x] `increment_api_usage`
+    - [x] `cleanup_old_submissions`
+    - [x] `cleanup_old_rate_limits`
+    - [x] `update_updated_at_column`
+    - [x] `get_bot_practice_report`
+  - [x] Resultado `Supabase Security Advisors`: solo queda warning de Auth (`Leaked Password Protection Disabled`).
+
+### ✅ Implementado en esta sesión
+- [x] **Login button restaurado** en UI principal y corregida sintaxis de evento en Svelte.
+- [x] **Edge Function `submit-exam` endurecida**: requiere `Authorization: Bearer <access_token>` válido y usa usuario autenticado para persistencia.
+- [x] **Modelo de score unificado en persistencia**: `submit-exam` y frontend ahora envían/guardan `score`, `total_questions`, `max_score`, `duration_seconds`, `mode`, `exam_id`, `metadata`.
+- [x] **Persistencia de resultados corregida en frontend**: `ResultsView.svelte` usa `supabase.auth.getSession()` y envía token real.
+- [x] **Registro institucional corregido**: magic link vuelve a `/?onboarding=complete` y completa vínculo de `profiles.school_id`.
+- [x] **Gate de acceso institucional**: `/dashboard` valida membresía en `organization_members`.
+- [x] **Fix dashboard developers**: import de `supabaseUrl` corregido.
+- [x] **Pipeline de leaderboard**: envío/sync migrado a Edge Function `submit-leaderboard-score`.
+- [x] **Migración RLS aplicada en producción**: `20260222140000_phase0_secure_institutional_rls.sql`.
+- [x] **Deploy de Edge Functions realizado por CLI**:
+  - [x] `submit-exam` (JWT verificado)
+  - [x] `submit-leaderboard-score` (`--no-verify-jwt`, webhook-style)
+- [x] **Redeploy `submit-exam`** con payload extendido de score (2026-02-22).
+- [x] **Build validado** con `npm run build` (OK).
+
+### ⚠️ Pendiente crítico (antes de release general)
+- [ ] **Unificar modelo de puntaje** (`score` vs `total_score`) en DB + frontend + analytics.
+- [x] **Completar RLS de lectura mínima** para dashboards institucionales (solo miembros de organización). (Verificado 2026-02-23 con evidencia SQL en `pg_policies`: `organizations`, `organization_members`, `organization_students`, `organization_groups`)
+- [ ] **E2E Auth/Onboarding**: login, registro, onboarding completo, acceso dashboard, envío leaderboard.
+- [ ] **QA de regressión** en modo estudiante anónimo vs autenticado.
+- [ ] **Observabilidad**: logs y alertas para errores de Edge Functions (`submit-exam`, `submit-leaderboard-score`).
+- [ ] **Resolver findings de Supabase Advisor (seguridad)**:
+  - [x] `public.leaderboard_global` con `SECURITY DEFINER`.
+  - [x] policy permisiva `Authenticated can create organizations` (`WITH CHECK (true)`).
+  - [x] `institution_members` con RLS habilitado sin policies.
+  - [x] Pendientes globales (fuera de este alcance): policies permisivas en `party_sessions`/`party_players` y funciones con `search_path` mutable.
+  - [ ] Ajuste de política Auth: dejar `Magic Link only` en Supabase (desactivar Email/Password). Con eso, `auth_leaked_password_protection` queda no aplicable para este producto.
+
+### 🚀 Plan de salida y lanzamiento (operativo)
+- [ ] **Fase A (Hardening, 1 día):** cerrar brechas de schema/policies y test E2E críticos.
+- [ ] **Fase B (Staging, 1 día):** smoke test con usuarios reales internos (institución + estudiante).
+- [ ] **Fase C (Producción controlada, 1 día):** rollout gradual, monitoreo de errores y rollback plan.
+- [ ] **Fase D (Post-release, 24h):** revisión métricas, incidentes y ajustes rápidos.
+
+### 🧭 Comandos de continuidad (siguiente agente)
+- [ ] `cd E:\scripts-python\worldexams\saberparatodos`
+- [ ] `npm install`
+- [ ] `npm run build`
+- [ ] `npx playwright test tests/auth* tests/*leaderboard*`
+- [ ] `npx supabase functions list --project-ref tzmrgvtptdtsjcugwqyq`
+- [ ] `npx supabase functions serve submit-exam --env-file .env.local`
+
+### 🤖 Continuidad con skill externo (`claude-seo`)
+- [x] Skill instalado desde: `https://github.com/AgriciDaniel/claude-seo`
+- [x] Skills activos instalados: `seo-plan`, `seo-technical`, `seo-content`
+- [ ] Aplicarlo solo en fase de contenido/SEO técnico (no tocar secretos ni RLS).
+- [ ] Mantener separación: **auth/security** por rol Guardian + Architect, **SEO** por skill dedicado.
+
+### 🧩 Próximas tareas priorizadas (siguiente agente)
+- [ ] **Auth E2E completo:** cobertura de `/login`, `/register`, onboarding y guardas de `/dashboard`.
+- [ ] **Leaderboard E2E:** envío, sync pendientes, visibilidad y consistencia de ranking.
+- [ ] **RLS Auditoría final:** revisar políticas de lectura/escritura en `organizations`, `organization_members`, `organization_students`, `organization_groups`.
+- [ ] **Observabilidad mínima:** centralizar errores de `submit-exam` y `submit-leaderboard-score` (logs + métricas de fallo).
+- [ ] **SEO Técnico (skill `seo-technical`):** revisar metadata, canonical, sitemap, robots, headings y performance básica.
+- [ ] **SEO Contenido (skills `seo-plan` + `seo-content`):** backlog de optimizaciones en landing, blog y páginas de producto.
+
+### 📌 Prompt de continuidad sugerido
+```text
+Contexto:
+- Repo: E:\scripts-python\worldexams\saberparatodos
+- Documentación base: E:\scripts-python\worldexams\TASK.md y E:\scripts-python\worldexams\PLANNING.md
+- Fecha de referencia: 2026-02-22
+- Estado: login/registro/dashboard/leaderboard con hardening inicial aplicado, submit-exam desplegado, RLS institucional fase 0 aplicada.
+
+Objetivo:
+Continúa la fase de mejoras y afinaciones de extremo a extremo (auth, registro, dashboard institucional, leaderboard y calidad de release), usando skills de forma explícita.
+
+Instrucciones de ejecución:
+1) Activa enfoque Guardian+Architect para seguridad/RLS/auth y usa skills `seo-technical`, `seo-plan`, `seo-content` solo para SEO.
+2) Ejecuta auditoría técnica completa de:
+   - /login, /register, /dashboard, /leaderboard
+   - edge functions: submit-exam, submit-leaderboard-score
+   - políticas RLS institucionales y tablas relacionadas
+3) Implementa fixes mínimos y seguros, sin sobre-ingeniería.
+4) Valida con:
+   - npm run build
+   - npx playwright test tests/e2e-smoke-tag.spec.ts
+   - tests adicionales de auth/leaderboard que encuentres pertinentes
+5) Si haces cambios de backend/Supabase:
+   - crea/aplica migraciones con MCP de Supabase
+   - despliega funciones por CLI/MCP y deja evidencia
+6) Actualiza TASK.md y PLANNING.md con:
+   - cambios hechos
+   - riesgos abiertos
+   - próximos pasos priorizados
+7) Entrega un resumen final con:
+   - archivos modificados
+   - comandos ejecutados
+   - resultados de validación
+   - pendiente crítico para la siguiente sesión.
+
+Reglas:
+- No exponer secrets.
+- No tocar componentes compartidos inmutables.
+- Mantener cambios acotados y verificables.
+```
+
+---
+
 ## 📋 Tareas Activas (Sprint Actual - API & Monetización)
 
 ### 🎨 UX/UI Improvements
@@ -20,6 +158,12 @@
 ### 🚀 Deploy & Release
 - [x] **Deploy to Production (Main):** Review changelog and deploy via Wrangler. <!-- id: 200 -->
 
+### 📧 Email Branding & Auth Templates (En Progreso)
+- [x] **Diseño Visual:** Generación de Banner y Logo Premium. <!-- id: 201 -->
+- [x] **Plantilla HTML:** Creación de `master-template.html` con soporte para variables de Supabase. <!-- id: 202 -->
+- [ ] **Configuración Storage:** Subir assets a bucket `public-assets`. <!-- id: 203 -->
+- [ ] **Integración Supabase:** Configurar plantillas en el Dashboard de producción. <!-- id: 204 -->
+- [ ] **Validación E2E Auth:** Probar flujo de Magic Link con nuevo diseño. <!-- id: 205 -->
 
 ### 🚀 Fase: Expansión de Contenido (Meta 100/Periodo)
 
@@ -425,3 +569,91 @@
   - [x] Puerto configurado: 4321
   - [x] Timeouts aumentados a 120s
   - [x] 56 tests cubriendo filtros, exams, party mode, leaderboards
+
+## 12. Cierre Tecnico de Continuidad (2026-02-22)
+
+### Cambios aplicados (minimos y seguros)
+
+- [x] Alias de rutas para estabilidad de navegacion:
+  - `src/pages/login.astro` -> redirect a `/`
+  - `src/pages/leaderboard.astro` -> redirect a `/ranking`
+- [x] Hardening de edge functions institucionales:
+  - `supabase/functions/get-organization-students/index.ts`
+  - `supabase/functions/create-group/index.ts`
+  - Eliminado uso de `service_role`, exigido `Authorization: Bearer`, verificacion explicita de membresia/rol.
+- [x] Endurecimiento RLS y seguridad DB (3 fases):
+  - `supabase/migrations/20260222173000_phase1_institutional_rls_hardening.sql`
+  - `supabase/migrations/20260222190000_phase2_security_advisor_remediation.sql`
+  - `supabase/migrations/20260222194000_phase3_party_rls_search_path_hardening.sql`
+- [x] Normalizacion de subject keys para evitar 404 de packs:
+  - `src/lib/api-service.ts` (`normalizeSubjectKey` con aliases canonicos)
+- [x] Cobertura E2E adicional auth/leaderboard:
+  - `tests/auth-leaderboard-smoke.spec.ts`
+
+### Validacion ejecutada
+
+- [x] `npm run build` (verde)
+- [x] `npx playwright test tests/e2e-smoke-tag.spec.ts` (verde)
+- [x] `npx playwright test tests/auth-leaderboard-smoke.spec.ts` (verde)
+
+### Riesgos abiertos (prioridad)
+
+- [ ] Supabase Auth: confirmar y documentar `Magic Link only` (Email OTP habilitado, Email/Password deshabilitado). Si se mantiene sin password, el advisory `auth_leaked_password_protection` se acepta como no aplicable.
+- [ ] Warning no bloqueante de build CSS minify (`Expected identifier but found "-"`), sin impacto funcional observado en runtime; requiere aislamiento de origen para limpieza total de release.
+
+## 13. Continuidad Magic Link Only (2026-02-22)
+
+### Ajustes implementados
+
+- [x] Login passwordless reforzado:
+  - `src/components/Login.svelte` -> `signInWithOtp(..., { shouldCreateUser: false })`
+  - `src/components/InstitutionalLogin.svelte` -> `signInWithOtp(..., { shouldCreateUser: false })`
+- [x] `register` robusto sin dependencia de hidratacion:
+  - `src/pages/register.astro` ahora renderiza formulario SSR (`#email`, `#submit-btn`, `#register-form`) y mantiene comportamiento JS para submit/busqueda.
+- [x] `dashboard` con guard temprano server-side:
+  - `src/pages/dashboard.astro` redirige a `/instituciones` si no hay cookie de auth de Supabase.
+- [x] Cliente Supabase con fallback seguro en ausencia de env para no romper render:
+  - `src/lib/supabase.ts` elimina `throw` top-level y crea cliente fallback con log explicito.
+- [x] Estabilidad E2E local:
+  - `playwright.config.ts` limpia cache `node_modules/.vite` antes de levantar dev server y desactiva `reuseExistingServer`.
+
+### Validacion
+
+- [x] `npm run build`
+- [x] `npx playwright test tests/e2e-smoke-tag.spec.ts`
+- [x] `npx playwright test tests/auth-leaderboard-smoke.spec.ts`
+
+### Riesgo abierto
+
+- [ ] Warning no bloqueante en build CSS minify (`Expected identifier but found "-"`).
+
+## 14. Continuidad Release (2026-02-23)
+
+### Incidencia corregida
+
+- [x] **Regresión crítica en `api-service.ts` resuelta**:
+  - Durante validación E2E fallaba hidratación de `App.svelte` por exports faltantes en `src/lib/api-service.ts` (`fetchQuestions`, `fetchBulkQuestions`, `fetchAllQuestionsForGrade`, `getAvailableSubjects`).
+  - Se restauró versión estable del servicio y se mantuvo el alias canónico `socialesyciudadanas -> sociales_y_ciudadanas` para compatibilidad de packs.
+
+### Validación ejecutada (hoy)
+
+- [x] `npm run build` (OK)
+- [x] `npx playwright test tests/e2e-smoke-tag.spec.ts tests/auth-leaderboard-smoke.spec.ts` (4/4 OK)
+
+### Estado de seguridad (Supabase Advisor)
+
+- [x] `security` advisor consultado: se mantiene únicamente `auth_leaked_password_protection` (WARN).
+- [ ] Pendiente operativo/manual en dashboard Supabase: confirmar `Magic Link only` (Email OTP activo, Email/Password deshabilitado) y registrar evidencia final.
+
+## 15. Limpieza de Linting y Refactorización (2026-02-23)
+
+### Tareas Completadas
+- [x] **Limpieza total de linting en `saberparatodos`**: 0 errores, 0 warnings.
+- [x] **Refactorización de `api-service.ts`**: Archivo reducido de ~1600 a ~300 líneas, eliminando duplicidad y corrupción de contenido.
+- [x] **Fix de regresiones en `register.astro`**: Corregidos null checks y eliminadas variables no utilizadas.
+- [x] **Limpieza de scripts auxiliares**: `debug_meta.cjs` y `summarize_deletions.cjs` limpios de warnings.
+
+### Validación
+- [x] `npm run lint` (0 errores, 0 warnings).
+- [x] `npm run build` (OK).
+- [x] Playwright E2E tests (4/4 OK).

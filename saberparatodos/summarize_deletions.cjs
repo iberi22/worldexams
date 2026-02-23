@@ -2,7 +2,7 @@ const fs = require('fs');
 
 const data = fs.readFileSync('anomaly_log.csv', 'utf8');
 const lines = data.split('\n').filter(l => l.trim());
-const header = lines.shift();
+lines.shift();
 
 const summary = {}; // { Grade: { Subject: count } }
 

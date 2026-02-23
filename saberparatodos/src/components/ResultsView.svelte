@@ -251,21 +251,34 @@
     if (!user || saved || isSaving) return;
     isSaving = true;
     try {
+      const { data: { session } } = await supabase.auth.getSession();
+      if (!session?.access_token) {
+        throw new Error('No authenticated session token');
+      }
+
       const response = await fetch(
         `${import.meta.env.PUBLIC_SUPABASE_URL}/functions/v1/submit-exam`,
         {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
-            'Authorization': `Bearer ${import.meta.env.PUBLIC_SUPABASE_ANON_KEY}`,
+            'Authorization': `Bearer ${session.access_token}`,
           },
           body: JSON.stringify({
             result: {
               user_name: user.user_metadata?.user_name || user.email?.split('@')[0] || 'Anonymous',
-              score: examScore?.totalScore || 0,
+              score: correctCount || 0,
               total_questions: questions.length,
+              max_score: questions.length,
               subject: examData.subject || 'General',
               grade: examData.grade || null,
+              duration_seconds: Math.round((examData.totalTimeMs || 0) / 1000),
+              mode: examData.roomCode ? 'room' : 'solo',
+              exam_id: examData.sessionId || null,
+              metadata: {
+                source: 'results-view',
+                roomCode: examData.roomCode || null
+              },
             }
           }),
         }

@@ -1,6 +1,16 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import DashboardMain from '../components/dashboard/DashboardMain.svelte';
+
+// Fast-path guard for unauthenticated users.
+// If no Supabase auth cookie exists, redirect immediately without client-side JS.
+const cookieHeader = Astro.request.headers.get('cookie') ?? '';
+const hasSupabaseAuthCookie =
+  /sb-[^=]+-auth-token=/.test(cookieHeader) || /supabase-auth-token=/.test(cookieHeader);
+
+if (!hasSupabaseAuthCookie) {
+  return Astro.redirect('/instituciones');
+}
 ---
 
 <Layout title="Dashboard Institucional | World Exams" description="Panel de control para instituciones educativas.">
@@ -65,6 +75,17 @@ import DashboardMain from '../components/dashboard/DashboardMain.svelte';
 
       if (!session) {
         window.location.href = '/instituciones'; // Redirect if not logged in
+        return;
+      }
+
+      const { data: membership, error: membershipError } = await supabase
+        .from('organization_members')
+        .select('organization_id')
+        .eq('user_id', session.user.id)
+        .limit(1);
+
+      if (membershipError || !membership || membership.length === 0) {
+        window.location.href = '/instituciones?noaccess=1';
         return;
       }
 
