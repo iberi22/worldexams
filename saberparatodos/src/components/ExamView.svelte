@@ -6,7 +6,6 @@
   import { p2pService } from '../lib/p2p-service';
   import FlashlightCard from './FlashlightCard.svelte';
   import MathRenderer from './MathRenderer.svelte';
-  import { reportQuestionAnomaly } from '../lib/api-service';
   import type { APIQuestion } from '../lib/api-service';
   import { createFocusTracker, type FocusTracker } from '../lib/focus-tracker';
   import ReportModal from './ReportModal.svelte';

@@ -5,16 +5,29 @@
 
   let showModal = false;
   let isVisible = false;
+  let isExamMode = false;
 
   // Show button after a short delay
   onMount(() => {
-    setTimeout(() => {
+    const timer = setTimeout(() => {
       isVisible = true;
     }, 2000);
+
+    const handleViewChange = (e: any) => {
+      // Hide if current view is EXAM
+      isExamMode = e.detail?.view === 'EXAM';
+    };
+
+    window.addEventListener('app-view-change', handleViewChange);
+
+    return () => {
+      clearTimeout(timer);
+      window.removeEventListener('app-view-change', handleViewChange);
+    };
   });
 </script>
 
-{#if isVisible}
+{#if isVisible && !isExamMode}
   <div class="fixed bottom-6 right-6 z-40 print:hidden" in:fly={{ y: 20, duration: 500 }}>
     <button
       on:click={() => showModal = true}

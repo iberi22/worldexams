@@ -1,78 +1,39 @@
-## Tareas de Regeneración de Contenido
+# TASK.md - Production Execution Backlog (CO)
 
-- [ ] Recrear contenido de **Ciencias Naturales** - Grado **11** (10 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Ciencias Naturales** - Grado **3** (10 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Ciencias Naturales** - Grado **5** (10 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Ciencias Naturales** - Grado **7** (10 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Ciencias Naturales** - Grado **9** (10 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Inglés** - Grado **11** (50 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Inglés** - Grado **5** (50 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Inglés** - Grado **7** (50 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Inglés** - Grado **9** (50 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Lectura Crítica** - Grado **10** (40 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Lectura Crítica** - Grado **11** (40 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Lectura Crítica** - Grado **9** (40 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Lenguaje** - Grado **11** (10 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Lenguaje** - Grado **3** (50 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Lenguaje** - Grado **5** (50 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Lenguaje** - Grado **7** (50 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Lenguaje** - Grado **9** (10 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Matemáticas** - Grado **10** (44 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Matemáticas** - Grado **11** (79 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Matemáticas** - Grado **5** (50 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Matemáticas** - Grado **7** (50 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Matemáticas** - Grado **9** (85 bundles placeholder eliminados)
-- [ ] Recrear contenido de **NAT** - Grado **10** (50 bundles placeholder eliminados)
-- [ ] Recrear contenido de **NAT** - Grado **11** (60 bundles placeholder eliminados)
-- [ ] Recrear contenido de **NAT** - Grado **3** (40 bundles placeholder eliminados)
-- [ ] Recrear contenido de **NAT** - Grado **5** (40 bundles placeholder eliminados)
-- [ ] Recrear contenido de **NAT** - Grado **7** (40 bundles placeholder eliminados)
-- [ ] Recrear contenido de **NAT** - Grado **9** (66 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Sociales** - Grado **10** (40 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Sociales** - Grado **11** (80 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Sociales** - Grado **3** (50 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Sociales** - Grado **5** (50 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Sociales** - Grado **7** (50 bundles placeholder eliminados)
-## Tareas de Regeneración de Contenido
+Last update: 2026-02-23
 
-- [ ] Recrear contenido de **Ciencias Naturales** - Grado **11** (10 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Ciencias Naturales** - Grado **3** (10 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Ciencias Naturales** - Grado **5** (10 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Ciencias Naturales** - Grado **7** (10 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Ciencias Naturales** - Grado **9** (10 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Inglés** - Grado **11** (50 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Inglés** - Grado **5** (50 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Inglés** - Grado **7** (50 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Inglés** - Grado **9** (50 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Lectura Crítica** - Grado **10** (40 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Lectura Crítica** - Grado **11** (40 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Lectura Crítica** - Grado **9** (40 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Lenguaje** - Grado **11** (10 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Lenguaje** - Grado **3** (50 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Lenguaje** - Grado **5** (50 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Lenguaje** - Grado **7** (50 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Lenguaje** - Grado **9** (10 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Matemáticas** - Grado **10** (44 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Matemáticas** - Grado **11** (79 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Matemáticas** - Grado **5** (50 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Matemáticas** - Grado **7** (50 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Matemáticas** - Grado **9** (85 bundles placeholder eliminados)
-- [ ] Recrear contenido de **NAT** - Grado **10** (50 bundles placeholder eliminados)
-- [ ] Recrear contenido de **NAT** - Grado **11** (60 bundles placeholder eliminados)
-- [ ] Recrear contenido de **NAT** - Grado **3** (40 bundles placeholder eliminados)
-- [ ] Recrear contenido de **NAT** - Grado **5** (40 bundles placeholder eliminados)
-- [ ] Recrear contenido de **NAT** - Grado **7** (40 bundles placeholder eliminados)
-- [ ] Recrear contenido de **NAT** - Grado **9** (66 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Sociales** - Grado **10** (40 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Sociales** - Grado **11** (80 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Sociales** - Grado **3** (50 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Sociales** - Grado **5** (50 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Sociales** - Grado **7** (50 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Sociales** - Grado **9** (86 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Tecnología** - Grado **3** (40 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Tecnología** - Grado **5** (40 bundles placeholder eliminados)
-- [ ] Recrear contenido de **Tecnología** - Grado **7** (40 bundles placeholder eliminados)
+## Release-Blockers
 
-## Mantenimiento
-- [x] Corregir visualización de fecha de despliegue y commit en App.svelte (2026-02-16)
-- [x] Limpieza integral de linting y refactorización de `api-service.ts` (2026-02-23)
+- [x] Establish master planning document in `docs/specs/MASTER_PLAN.md` (2026-02-23)
+- [x] Establish manual deploy protocol in `PROTOCOLO_DEPLOY_CLI.md` (2026-02-23)
+- [x] Create manual deploy scripts:
+  - [x] `scripts/copy-api.ps1`
+  - [x] `scripts/deploy-manual.ps1`
+  - [x] `scripts/verify-deployment.ps1`
+- [x] Add npm commands for manual deploy pipeline (`sync:api`, `deploy:manual`, `deploy:fast`, `verify:deploy`) (2026-02-23)
+- [ ] Run release gate and store evidence:
+  - [x] `npm run validate:strict`
+  - [x] `npm run lint`
+  - [x] `npm run build`
+  - [x] `npx playwright test tests/e2e-smoke-tag.spec.ts`
+  - [x] `npx playwright test tests/auth-leaderboard-smoke.spec.ts`
+- [ ] Execute production deployment via `npm run deploy:manual`
+
+## Governance and Docs
+
+- [x] Remove duplicate roadmap entries from local task planning (2026-02-23)
+- [ ] Keep `README.md` aligned with CLI-only deployment policy
+- [ ] Keep `ARQUITECTURA_PROFESIONAL.md` aligned with actual scripts and paths
+- [ ] Record post-deploy release notes with date and verification output
+
+## Post-Release (Non-Blocking)
+
+- [ ] Content metadata normalization wave (`asignatura` canonicalization)
+- [ ] Resolve bundles with `dba_id: DBA-TODO` in active release catalog
+- [ ] Decide production scope for non-colombia content roots in `src/content/questions/*`
+- [ ] Complete exam-room TODOs:
+  - [ ] `src/modules/exam-room/components/RoomApp.svelte`
+  - [ ] `src/modules/exam-room/components/RoomResults.svelte`
+  - [ ] `src/modules/exam-room/services/reportGenerator.ts`
+  - [ ] `src/modules/exam-room/stores/roomState.svelte.ts`
+- [ ] Refactor `src/utils/questionParser.ts` to remove Astro collection coupling

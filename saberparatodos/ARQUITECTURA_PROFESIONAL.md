@@ -204,7 +204,7 @@ gh repo delete iberi22/worldexams-content --yes
 - [x] Script de deploy manual
 - [x] Dominios configurados
 - [x] Environment variables en Cloudflare
-- [ ] Script de verificación post-deploy
+- [x] Script de verificación post-deploy
 
 ### Organización
 

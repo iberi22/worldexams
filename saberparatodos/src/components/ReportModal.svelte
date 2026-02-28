@@ -12,7 +12,6 @@
   let loading = false;
   let success = false;
   let error = '';
-  let sendToGitHub = true; // Default to create GitHub issue
 
   const reportTypes = [
     { id: 'feedback', label: '💡 Sugerencia / Feedback', requiresQuestion: false },
@@ -22,73 +21,7 @@
     { id: 'other', label: '💬 Otro', requiresQuestion: false }
   ];
 
-  // GitHub configuration - these would typically come from environment variables
-  const GITHUB_TOKEN = import.meta.env.PUBLIC_GITHUB_TOKEN;
-  const GITHUB_REPO = import.meta.env.PUBLIC_GITHUB_REPO || 'saberparatodos';
 
-  async function createGitHubIssue(typeLabel: string, msg: string): Promise<boolean> {
-    if (!GITHUB_TOKEN) {
-      console.log('📝 [DEV] GitHub token not configured, skipping issue creation');
-      return false;
-    }
-
-    const title = `[${typeLabel}] ${questionId || 'General'}`;
-    const body = `
-## Reporte de Usuario
-
-**Tipo:** ${typeLabel}
-**Pregunta ID:** \`${questionId || 'N/A'}\`
-**Contexto:** ${userContext}
-
----
-
-### Descripción
-${msg}
-
----
-
-${questionData ? `
-### Datos de la Pregunta
-- **Categoría:** ${questionData.category}
-- **Grado:** ${questionData.grade}
-- **Nivel:** ${questionData.difficulty}
-- **Período:** ${questionData.period || 'N/A'}
-- **Tema:** ${questionData.topic || 'N/A'}
-` : ''}
-
----
-*Reportado desde SaberParaTodos*
-`.trim();
-
-    try {
-      const response = await fetch('https://api.github.com/repos/' + GITHUB_REPO + '/issues', {
-        method: 'POST',
-        headers: {
-          'Authorization': `token ${GITHUB_TOKEN}`,
-          'Content-Type': 'application/json',
-          'Accept': 'application/vnd.github.v3+json'
-        },
-        body: JSON.stringify({
-          title,
-          body,
-          labels: ['user-report', typeLabel.toLowerCase().replace(/[^a-z0-9]/g, '-')]
-        })
-      });
-
-      if (!response.ok) {
-        const err = await response.json();
-        console.error('GitHub API Error:', err);
-        return false;
-      }
-
-      const result = await response.json();
-      console.log('✅ GitHub Issue created:', result.html_url);
-      return true;
-    } catch (e) {
-      console.error('GitHub Issue Error:', e);
-      return false;
-    }
-  }
 
   async function handleSubmit() {
     if (!message.trim()) {
@@ -103,13 +36,7 @@ ${questionData ? `
       // Get the type label
       const typeLabel = reportTypes.find(t => t.id === reportType)?.label || reportType;
 
-      // Create GitHub issue if enabled
-      if (sendToGitHub) {
-        const githubCreated = await createGitHubIssue(typeLabel, message);
-        if (githubCreated) {
-          console.log('📝 Issue created in GitHub');
-        }
-      }
+
 
       // Send to internal API (Telegram notification)
       const res = await fetch('/api/report_problem', {
@@ -121,8 +48,7 @@ ${questionData ? `
           reportType: typeLabel,
           questionId,
           message,
-          userContext: userContext,
-          githubIssue: sendToGitHub // Tell backend if we already created GitHub issue
+          userContext: userContext
         })
       });
 
@@ -150,7 +76,6 @@ ${questionData ? `
     message = '';
     reportType = 'feedback';
     error = '';
-    sendToGitHub = true;
   }
 </script>
 
@@ -230,24 +155,21 @@ ${questionData ? `
             {/if}
           </div>
 
-          <!-- GitHub Issue Option -->
-          <div class="flex items-center gap-3 pt-2 pb-2">
-            <label class="flex items-center gap-2 cursor-pointer group">
-              <input
-                type="checkbox"
-                bind:checked={sendToGitHub}
-                class="w-4 h-4 rounded border-white/20 bg-black/20 text-emerald-500 focus:ring-emerald-500/50 focus:ring-offset-0 cursor-pointer"
-              />
-              <span class="text-xs text-white/60 group-hover:text-white/80 transition-colors flex items-center gap-1.5">
-                <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
-                  <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/>
-                </svg>
-                Crear issue en GitHub
+          <!-- Notification Info -->
+          <div class="flex items-center gap-3 pt-2 pb-2 bg-emerald-500/5 border border-emerald-500/10 rounded-lg px-3 py-2">
+            <div class="flex items-center gap-2">
+              <span class="relative flex h-2 w-2">
+                <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
+                <span class="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"></span>
               </span>
-            </label>
-            <span class="text-[10px] text-white/30">
-              + Notificación Telegram
-            </span>
+              <span class="text-[11px] text-emerald-400 font-medium">Directo a los desarrolladores</span>
+            </div>
+            <div class="ml-auto flex items-center gap-1.5 text-[10px] text-white/30">
+              <svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
+                <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.894 8.221l-1.97 9.28c-.145.658-.537.818-1.084.508l-3-2.21-1.446 1.394c-.14.14-.257.257-.527.257l.189-2.83 5.432-4.904c.235-.21-.051-.326-.364-.118l-6.713 4.226-2.744-.858c-.596-.186-.607-.596.124-.882l10.725-4.131c.497-.181.931.118.81.908z"/>
+              </svg>
+              Notificación Telegram
+            </div>
           </div>
 
           <!-- Footer Actions -->
@@ -267,7 +189,7 @@ ${questionData ? `
                 <div class="w-3 h-3 border-2 border-white/30 border-t-white rounded-full animate-spin"></div>
                 Enviando
               {:else}
-                {sendToGitHub ? 'Crear Issue + Notificar' : 'Notificar por Telegram'}
+                Enviar Reporte
               {/if}
             </button>
           </div>

@@ -114,6 +114,13 @@
     }
   }
 
+  // 🔄 Notify other components about view changes (e.g. to hide global buttons)
+  $effect(() => {
+    if (typeof window !== 'undefined') {
+      window.dispatchEvent(new CustomEvent('app-view-change', { detail: { view } }));
+    }
+  });
+
   // Derived: Filtered questions for current grade
   let filteredLocalQuestions = $derived(
     loadedQuestions.filter(q => selectedGrade ? q.grade === selectedGrade : true)

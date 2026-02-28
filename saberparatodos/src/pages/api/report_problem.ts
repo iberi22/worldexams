@@ -24,27 +24,57 @@ export const POST: APIRoute = async (context) => {
     // Access environment (Cloudflare runtime env takes precedence over build-time env)
     const env = (locals as any).runtime?.env || import.meta.env;
 
-    const privateBotToken = env.TELEGRAM_BOT_TOKEN;
-    const privateChatId = env.TELEGRAM_CHAT_ID;
-    const communityBotToken = env.COMMUNITY_BOT_TOKEN;
-    const communityChatId = env.COMMUNITY_CHAT_ID;
+    // Helper to clean environment variables (removing leading =, quotes, etc.)
+    const cleanEnvVar = (val: any) => {
+      if (!val || typeof val !== 'string') return '';
+      let cleaned = val.trim();
+      if (cleaned.startsWith('=')) cleaned = cleaned.substring(1).trim();
+      if ((cleaned.startsWith('"') && cleaned.endsWith('"')) || (cleaned.startsWith("'") && cleaned.endsWith("'"))) {
+        cleaned = cleaned.substring(1, cleaned.length - 1).trim();
+      }
+      return cleaned;
+    };
+
+    const privateBotToken = cleanEnvVar(env.TELEGRAM_BOT_TOKEN);
+    const privateChatId = cleanEnvVar(env.TELEGRAM_CHAT_ID);
+    const communityBotToken = cleanEnvVar(env.COMMUNITY_BOT_TOKEN);
+    const communityChatId = cleanEnvVar(env.COMMUNITY_CHAT_ID);
+
+    const isPlaceholder = (val: string) => !val || val.includes('tu_token_aqui') || val.includes('tu_id_de_grupo_aqui') || val === '';
 
     // Determine destination
-    const isSuggestion = reportType.toLowerCase().includes('feedback') || reportType.toLowerCase().includes('sugerencia');
-    const botToken = isSuggestion ? (communityBotToken || privateBotToken) : privateBotToken;
-    const chatId = isSuggestion ? (communityChatId || privateChatId) : privateChatId;
+    const isSuggestion = (reportType || '').toLowerCase().includes('feedback') ||
+                        (reportType || '').toLowerCase().includes('sugerencia') ||
+                        (reportType || '').toLowerCase().includes('mejora') ||
+                        (reportType || '').toLowerCase().includes('propuesta');
 
-    if (!botToken || !chatId) {
-      // Log to console in development/logs
-      const logMsg = `📩 [REPORT] Received (${isSuggestion ? 'Community' : 'Private'}): Type=${reportType}, Msg=${message.substring(0, 50)}...`;
+    let botToken = privateBotToken;
+    let chatId = privateChatId;
+    let destinationLabel = 'Private';
+
+    if (isSuggestion) {
+      if (!isPlaceholder(communityBotToken) && !isPlaceholder(communityChatId)) {
+        botToken = communityBotToken;
+        chatId = communityChatId;
+        destinationLabel = 'Community';
+      } else {
+        console.log('⚠️ [REPORT] Community tokens are missing or placeholders. Falling back to Private Telegram bot.');
+        destinationLabel = 'Private (Fallback)';
+      }
+    }
+
+    // Final check for the selected tokens
+    if (isPlaceholder(botToken) || isPlaceholder(chatId)) {
+      const logMsg = `📩 [REPORT] Received (${destinationLabel}): Type=${reportType}, Msg=${message.substring(0, 50)}...`;
       console.log(logMsg);
+      console.error(`❌ [REPORT] Selected tokens for ${destinationLabel} are invalid or placeholders.`);
 
       // If we are in production and tokens are missing, it's a configuration error
       const isProd = import.meta.env.PROD;
       if (isProd) {
         return new Response(JSON.stringify({
           error: 'Configuración de Telegram incompleta en el servidor.',
-          details: `Missing ${isSuggestion ? 'Community or Private' : 'Private'} tokens.`
+          details: `Missing valid tokens for destination: ${destinationLabel}. Please check TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID.`
         }), {
           status: 500,
           headers: { 'Content-Type': 'application/json' }
@@ -54,25 +84,20 @@ export const POST: APIRoute = async (context) => {
       return new Response(JSON.stringify({
         success: true,
         dev: true,
-        message: 'Reporte simulado (token no configurado)'
+        message: 'Reporte simulado (tokens no configurados o placeholders)'
       }), {
         headers: { 'Content-Type': 'application/json' }
       });
     }
 
-    // Check if token is still placeholder
-    if (botToken === 'tu_token_aqui' || chatId === 'tu_chat_id_aqui') {
-       throw new Error('Telegram credentials are still set to placeholders in .env/dashboard.');
-    }
-
     // Send to Telegram
-    const headerEmoji = isSuggestion ? '💡 SUGERENCIA' : '🚨 REPORTE DE ERROR';
+    const headerEmoji = isSuggestion ? '💡 SUGERENCIA / FEEDBACK' : '🚨 REPORTE DE ERROR';
     const text = `
 *${headerEmoji}*
 
 📌 *Tipo:* ${reportType}
 🆔 *ID Pregunta:* \`${questionId || 'N/A'}\`
-👤 *Usuario:* ${userContext || 'Anónimo'}
+👤 *Contexto:* ${userContext || 'Anónimo'}
 
 📝 *Mensaje:*
 ${message}
@@ -87,8 +112,8 @@ ${message}
       parse_mode: 'Markdown'
     };
 
-    // Add voting buttons if it's a community suggestion
-    if (isSuggestion) {
+    // Add voting buttons if it's a community suggestion (specifically for COMMUNITY destination)
+    if (destinationLabel === 'Community') {
       payload.reply_markup = {
         inline_keyboard: [
           [
@@ -111,11 +136,12 @@ ${message}
     const result = await response.json() as { ok: boolean, description?: string };
 
     if (!result.ok) {
-      console.error('Telegram API Error:', result);
-      throw new Error(`Telegram API: ${result.description || 'Unknown error'}`);
+      console.error(`Telegram API Error (${destinationLabel}):`, result);
+      throw new Error(`Telegram API (${destinationLabel}): ${result.description || 'Unknown error'}`);
     }
 
-    return new Response(JSON.stringify({ success: true }), {
+    console.log(`✅ [REPORT] Successfully sent to ${destinationLabel} Telegram.`);
+    return new Response(JSON.stringify({ success: true, destination: destinationLabel }), {
       headers: { 'Content-Type': 'application/json' }
     });
 
@@ -131,3 +157,4 @@ ${message}
     });
   }
 };
+

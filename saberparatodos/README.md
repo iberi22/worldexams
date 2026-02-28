@@ -18,23 +18,11 @@ Este es el repositorio privado del backend de Saber Para Todos, parte de la orga
 - 📈 **Puntuación Avanzada**: Sistema de scoring que considera tiempo, dificultad y rachas
 - 🌐 **API Externa**: Consume preguntas desde el API de WorldExams
 
-## 🚀 Despliegue en Cloudflare Pages
+## 🚀 Despliegue en Cloudflare Pages (Manual CLI)
 
-### Opción 1: GitHub Integration (Recomendado)
+Este proyecto se despliega manualmente por CLI. No usamos GitHub Actions para production deploy.
 
-1. Sube este repositorio a GitHub
-2. Ve a [Cloudflare Pages](https://dash.cloudflare.com/pages)
-3. Conecta tu repositorio
-4. Configura:
-   - **Build command**: `npm run build`
-   - **Build output directory**: `dist`
-   - **Root directory**: `.` (o la ruta a saberparatodos si es subdirectorio)
-5. Agrega las variables de entorno:
-   - `PUBLIC_API_BASE_URL`: `https://worldexams.pages.dev/api/v1`
-   - `PUBLIC_SUPABASE_URL`: Tu URL de Supabase
-   - `PUBLIC_SUPABASE_ANON_KEY`: Tu clave anónima de Supabase
-
-### Opción 2: Wrangler CLI
+### Flujo estándar
 
 ```bash
 # Instalar wrangler
@@ -43,12 +31,20 @@ npm install -g wrangler
 # Login a Cloudflare
 wrangler login
 
-# Construir el proyecto
+# Sincronizar API estática
+npm run sync:api
+
+# Validar contenido (v3 estricto)
+npm run validate:strict
+
+# Build
 npm run build
 
-# Desplegar
-wrangler pages deploy dist --project-name saberparatodos
+# Deploy manual (incluye verify)
+npm run deploy:manual
 ```
+
+Referencia completa: `PROTOCOLO_DEPLOY_CLI.md`.
 
 ## 🛠️ Desarrollo Local
 
@@ -71,8 +67,11 @@ npm run test:ui           # Modo visual (Playwright UI)
 npm run test:headed       # Modo headed (ver navegador)
 npm run test:party        # Solo tests de Party Mode
 
-# O usar script automatizado (servidor + tests)
-.\scripts\run-e2e-tests.ps1 -Headed
+# Deploys manuales
+npm run sync:api
+npm run deploy:manual
+npm run deploy:fast
+npm run verify:deploy
 ```
 
 ## ⚙️ Variables de Entorno
@@ -94,15 +93,10 @@ PUBLIC_SENTRY_DSN=your-sentry-dsn
 NODE_ENV=development
 ```
 
-### Configuración de Secrets para CI/CD
+### Seguridad de variables
 
-Para habilitar GitHub Actions, configura estos secrets:
-
-- `SUPABASE_URL`
-- `SUPABASE_ANON_KEY`
-- `SENTRY_DSN` (opcional)
-
-**Guía completa:** `docs/SENTRY_SETUP.md`
+- Frontend: solo variables `PUBLIC_*`.
+- Backend/secretos: nunca exponer `SUPABASE_SERVICE_ROLE_KEY` en cliente.
 
 ## 📡 Consumo del API
 
@@ -146,7 +140,7 @@ GET /api/v1/CO/icfes/{grade}/{subject}/{page}.json
 - **Sentry 8.40.0** - Error tracking y performance monitoring
 - **Cloudflare Pages** - Hosting y deployment
 
-## 🧪 Testing & CI/CD
+## 🧪 Testing
 
 ### Tests E2E con Playwright
 
@@ -160,20 +154,15 @@ Tests completos de Party Mode con 4 estudiantes simulados:
 npm run test:party
 ```
 
-**Documentación completa:**
-- `docs/E2E_PARTY_MODE_TESTS.md` - Guía de tests E2E
-- `docs/SCRIPTS_GUIDE.md` - Uso de scripts de automatización
+Gate mínimo recomendado antes de release:
 
-### CI/CD con GitHub Actions
-
-Workflow automático configurado en `.github/workflows/e2e-tests.yml`:
-
-- **Triggers:** push/PR en main/develop, manual dispatch
-- **Matrix:** chromium (expandible a firefox, webkit)
-- **Artifacts:** Reportes + screenshots en failures
-- **Timeout:** 15 minutos
-
-El workflow se ejecuta automáticamente en cada push.
+```bash
+npm run validate:strict
+npm run lint
+npm run build
+npx playwright test tests/e2e-smoke-tag.spec.ts
+npx playwright test tests/auth-leaderboard-smoke.spec.ts
+```
 
 ### Monitoring con Sentry
 

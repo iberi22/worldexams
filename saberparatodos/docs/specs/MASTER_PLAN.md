@@ -1,0 +1,46 @@
+# MASTER_PLAN.md - SaberParaTodos (CO)
+
+Last update: 2026-02-23
+Scope: production release governance and execution for Colombia repository.
+
+## 1. Release Objective
+Ship a stable code-first production release focused on authentication, institutional flows, leaderboard, and controlled manual deployment.
+
+## 2. Production Gates (Blocking)
+1. `npm run validate:strict` passes.
+2. `npm run lint` passes.
+3. `npm run build` passes.
+4. Playwright smoke passes:
+   - `npx playwright test tests/e2e-smoke-tag.spec.ts`
+   - `npx playwright test tests/auth-leaderboard-smoke.spec.ts`
+5. Manual Cloudflare deploy via Wrangler CLI only.
+6. Post-deploy verification passes.
+
+## 3. Non-Blocking for this release
+1. Full content expansion across all grades/subjects.
+2. Legacy TODOs in non-release paths.
+3. Optional CI/CD automation.
+
+## 4. Manual Deploy Governance
+1. GitHub Actions deployment workflows are disabled for production deployment.
+2. Deploy sequence is documented in `PROTOCOLO_DEPLOY_CLI.md`.
+3. Required scripts:
+   - `scripts/copy-api.ps1`
+   - `scripts/deploy-manual.ps1`
+   - `scripts/verify-deployment.ps1`
+
+## 5. Priority Backlog
+### Release-blockers
+1. Keep auth/onboarding/dashboard/leaderboard smoke green.
+2. Maintain strict content validation at release time.
+3. Keep manual deploy pipeline deterministic and documented.
+
+### Post-release
+1. Content metadata normalization and DBA cleanup waves.
+2. Exam-room feature completion (PDF/reporting/real questions).
+3. Extended E2E matrix and observability hardening.
+
+## 6. Critical Assumptions
+1. Product remains Magic Link oriented auth flow.
+2. Deployment target is Cloudflare Pages project `saberparatodos`.
+3. Public API artifacts are generated from local scripts before build.

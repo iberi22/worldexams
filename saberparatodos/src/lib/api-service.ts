@@ -22,6 +22,10 @@ import {
   examResultsToQuestionResults
 } from './english-proficiency';
 
+import {
+  generateStudyPlan
+} from './notebooklm/curriculum-service';
+
 const IS_DEV_MODE = typeof window !== 'undefined' &&
   (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1');
 
@@ -292,5 +296,9 @@ export async function prefetchEnglishPool(): Promise<void> {
 }
 
 export { calculateEnglishProficiencyV2 as calculateEnglishProficiency };
+export { calculateEnglishProficiencyV2 };
+export { examResultsToQuestionResults };
+
+export { generateStudyPlan };
 
 export function clearCache(): void { questionCache.clear(); }
