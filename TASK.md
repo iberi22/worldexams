@@ -657,3 +657,201 @@ Reglas:
 - [x] `npm run lint` (0 errores, 0 warnings).
 - [x] `npm run build` (OK).
 - [x] Playwright E2E tests (4/4 OK).
+
+---
+
+## 🧠 Fase: Protocol v4.0 — Preguntas Inteligentes (Grados 9-11)
+
+> **Fecha inicio:** 2026-03-02 | **Protocolo:** v4.0 (20 preguntas/bundle, dificultad 1-10)
+> **Formato:** Respuesta única + Multi-correcta + Ponderada
+> **Referencia:** `docs/QUESTION_GENERATION_PROTOCOL_V4.md`
+
+### Documentación
+- [x] Crear `docs/QUESTION_GENERATION_PROTOCOL_V4.md`
+- [x] Actualizar `PLANNING.md` con sección Protocol v4.0
+- [x] Actualizar `TASK.md` con checklist Protocol v4.0
+- [ ] Actualizar `README.md` con mención Protocol v4.0
+- [x] Actualizar `curriculum.ts` para incluir Inglés Grados 9, 10 y 11
+
+### Sprint 1: Grado 9 — Periodo 1 (Total: 500 preguntas inteligentes)
+
+> [!IMPORTANT]
+> **Cambio de Enfoque:** A partir de este momento, todos los bundles seguirán el Protocolo v4.0 Ajustado (Piso Nivel 3). No se generarán preguntas de nivel 1 o 2. La distribución será: 4q (D3), 5q (D4), 6q (D5), 5q (D6-10).
+
+El objetivo es generar 100 preguntas (5 bundles de 20) por cada uno de los 5 componentes del Saber 11, siguiendo la malla curricular del Grado 9.
+
+### Sprint 1: Grado 9 — Serie Maestría en Inglés (400q totales)
+
+> [!IMPORTANT]
+> **Enfoque Exclusivo:** Por directiva del usuario, se prioriza la generación de bundles de Inglés para los grados 9, 10 y 11. Otros componentes (Mate, Ciencias, etc.) quedan en pausa tras completar el primer bundle de Matemáticas P1.
+
+#### 1. Inglés (400q Inteligentes - Grado 9)
+
+**Periodo 1: Personal Life & Routines [COMPLETADO]**
+- [x] `CO-ENG-09-routines-001-PRO-v4-bundle.md` (Present simple & Daily habits)
+- [x] `CO-ENG-09-pastlife-001-PRO-v4-bundle.md` (Past simple review & Biography)
+- [x] `CO-ENG-09-places-001-PRO-v4-bundle.md` (Places in town & Pragmatic signs)
+- [x] `CO-ENG-09-frequency-001-PRO-v4-bundle.md` (Adverbs & Habits context)
+- [x] `CO-ENG-09-cloze-001-PRO-v4-bundle.md` (Lexico-grammatical integration Parte 7)
+
+**Periodo 2: Future Plans & Ambitions (ICFES P3) [EN PROGRESO]**
+- [ ] `CO-ENG-09-will-002-PRO-v4-bundle.md` (Future with will, predictions)
+- [ ] `CO-ENG-09-goingto-002-PRO-v4-bundle.md` (Future with going to, plans)
+- [ ] `CO-ENG-09-professions-002-PRO-v4-bundle.md` (Professions and careers)
+- [ ] `CO-ENG-09-dreams-002-PRO-v4-bundle.md` (Dreams and ambitions)
+- [ ] `CO-ENG-09-conversations-002-PRO-v4-bundle.md` (Short conversations matching)
+
+**Periodo 3: Environment & Society (ICFES P4 & P5)**
+- [ ] 5 bundles (Environment, Society, Prepositions, Cloze)
+
+**Periodo 4: History & Culture (ICFES P6 & P7)**
+- [ ] 5 bundles (Past continuous, Comparisons, History, Lexicogrammar)
+
+#### 2. Otros Componentes (PAUSADOS)
+- [x] **Matemáticas P1:** 100q completados (Sistemas de Ecuaciones).
+- [ ] **Ciencias/Sociales/Lectura:** Pausados hasta completar serie de Inglés.
+- **Periodo 2: Future Plans & Ambitions (ICFES P3)** (Carpeta: `grado-9/periodo-2/`)
+  - [x] `CO-ENG-09-will-001-PRO-v4-bundle.md` (Future with will, predictions)
+  - [x] `CO-ENG-09-goingto-001-PRO-v4-bundle.md` (Future with going to, plans)
+  - [x] `CO-ENG-09-professions-001-PRO-v4-bundle.md` (Professions and careers)
+  - [x] `CO-ENG-09-dreams-001-PRO-v4-bundle.md` (Dreams and ambitions)
+  - [x] `CO-ENG-09-conversations-001-PRO-v4-bundle.md` (Short conversations matching)
+- **Periodo 3: Environment & Society (ICFES P4 & P5)** (Carpeta: `grado-9/periodo-3/`)
+  - [x] `CO-ENG-09-environment-001-PRO-v4-bundle.md` (Environment vocabulary)
+  - [x] `CO-ENG-09-society-001-PRO-v4-bundle.md` (Society vocabulary)
+  - [x] `CO-ENG-09-prepositions-001-PRO-v4-bundle.md` (Prepositional phrases)
+  - [x] `CO-ENG-09-literalread-001-PRO-v4-bundle.md` (Literal reading comprehension)
+  - [x] `CO-ENG-09-cloze-001-PRO-v4-bundle.md` (Grammatical cloze texts)
+- **Periodo 4: History & Culture (ICFES P6 & P7)** (Carpeta: `grado-9/periodo-4/`)
+  - [x] `CO-ENG-09-history-001-PRO-v4-bundle.md` (Part 6: Industrial Rev)
+  - [x] `CO-ENG-09-heritage-002-PRO-v4-bundle.md` (Part 1: Colombian Heritage)
+  - [x] `CO-ENG-09-digital-003-PRO-v4-bundle.md` (Part 4: Digital History)
+  - [x] `CO-ENG-09-artistic-004-PRO-v4-bundle.md` (Part 5: Artistic Movements)
+  - [x] `CO-ENG-09-indigenous-005-PRO-v4-bundle.md` (Part 7: Indigenous Knowledge)
+
+### Sprint 2: Grado 10 — Los 5 Componentes Saber 11
+#### 1. Matemáticas (G10_MAT)
+- [ ] `CO-MAT-10-real-numbers-001-PRO-v4-bundle.md` (Números Reales y Funciones - P1)
+- [ ] `CO-MAT-10-trigonometry-001-PRO-v4-bundle.md` (Trigonometría - P2)
+- [ ] `CO-MAT-10-conics-001-PRO-v4-bundle.md` (Cónicas - P3)
+- [ ] `CO-MAT-10-statistics-001-PRO-v4-bundle.md` (Estadística y Probabilidad - P4)
+- [ ] `CO-MAT-10-integration-001-PRO-v4-bundle.md` (Simulacro Integrado Mat - P4)
+#### 2. Ciencias Naturales (G10_CN)
+- [ ] `CO-CN-10-cell-biotech-001-PRO-v4-bundle.md` (Biología Celular y Biotecnología - P1)
+- [ ] `CO-CN-10-inorganic-reactions-001-PRO-v4-bundle.md` (Reacciones Inorgánicas - P2)
+- [ ] `CO-CN-10-newton-laws-001-PRO-v4-bundle.md` (Física: Leyes de Newton - P3)
+- [ ] `CO-CN-10-ecology-thermo-001-PRO-v4-bundle.md` (Ecología y Termodinámica - P4)
+- [ ] `CO-CN-10-integration-001-PRO-v4-bundle.md` (Simulacro Integrado CN - P4)
+#### 3. Sociales y Ciudadanas (G10_SOC)
+- [ ] `CO-SOC-10-colombia-19th-century-001-PRO-v4-bundle.md` (Colombia Siglo XIX - P1)
+- [ ] `CO-SOC-10-basic-economics-001-PRO-v4-bundle.md` (Economía Básica - P2)
+- [ ] `CO-SOC-10-geography-001-PRO-v4-bundle.md` (Geografía Física y Humana - P3)
+- [ ] `CO-SOC-10-political-science-001-PRO-v4-bundle.md` (Ciencia Política - P4)
+- [ ] `CO-SOC-10-integration-001-PRO-v4-bundle.md` (Simulacro Integrado SOC - P4)
+#### 4. Lectura Crítica (G10_LEC)
+- [ ] `CO-LEC-10-narrative-literary-001-PRO-v4-bundle.md` (Textos Narrativos/Literarios - P1)
+- [ ] `CO-LEC-10-expository-argumentative-001-PRO-v4-bundle.md` (Textos Expositivos/Argumentativos - P2)
+- [ ] `CO-LEC-10-multimodal-001-PRO-v4-bundle.md` (Textos Multimodales - P3)
+- [ ] `CO-LEC-10-latinamerican-lit-001-PRO-v4-bundle.md` (Literatura Latinoamericana - P4)
+- [ ] `CO-LEC-10-integration-001-PRO-v4-bundle.md` (Simulacro Integrado LEC - P4)
+#### 5. Inglés (G10_ENG)
+- **Periodo 1: Global Challenges & Environment (ICFES P4 & P7)**
+  - [x] `CO-ENG-10-environment-001-PRO-v4-bundle.md`
+  - [x] `CO-ENG-10-consumption-001-PRO-v4-bundle.md`
+  - [x] `CO-ENG-10-climate-001-PRO-v4-bundle.md`
+  - [x] `CO-ENG-10-pollution-001-PRO-v4-bundle.md`
+  - [x] `CO-ENG-10-renewable-001-PRO-v4-bundle.md`
+- **Periodo 2: Healthy Lifestyles & Wellness (ICFES P2 & P3)**
+  - [x] `CO-ENG-10-nutrition-001-PRO-v4-bundle.md` (Part 2: Notices)
+  - [x] `CO-ENG-10-physical-001-PRO-v4-bundle.md` (Part 3: Dialogues)
+  - [x] `CO-ENG-10-mental-001-PRO-v4-bundle.md` (Part 2: Notices)
+  - [x] `CO-ENG-10-lifestyle-001-PRO-v4-bundle.md` (Part 3: Dialogues)
+  - [x] `CO-ENG-10-habit-001-PRO-v4-bundle.md` (Part 2/3: Integrated)
+- **Periodo 3: The Digital Age & Technology (ICFES P5 & P6)**
+  - [x] `CO-ENG-10-digital-citizenship-001-PRO-v4-bundle.md` (Part 5: Lit. Reading)
+  - [x] `CO-ENG-10-algorithms-001-PRO-v4-bundle.md` (Part 6: Inf. Reading)
+  - [x] `CO-ENG-10-social-media-001-PRO-v4-bundle.md` (Part 5: Lit. Reading)
+  - [x] `CO-ENG-10-ai-ethics-001-PRO-v4-bundle.md` (Part 6: Inf. Reading)
+  - [x] `CO-ENG-10-privacy-001-PRO-v4-bundle.md` (Part 5/6: Integrated)
+- **Periodo 4: Cultural Diversity & Local Identity (ICFES P1)**
+  - [x] `CO-ENG-10-identity-001-PRO-v4-bundle.md` (Part 1: Matching A-H)
+  - [x] `CO-ENG-10-plurinational-001-PRO-v4-bundle.md` (Part 4: Cloze)
+  - [x] `CO-ENG-10-afro-001-PRO-v4-bundle.md` (Part 1: Matching A-H)
+  - [x] `CO-ENG-10-diaspora-001-PRO-v4-bundle.md` (Part 7: Grammar)
+  - [x] `CO-ENG-10-world-cultures-001-PRO-v4-bundle.md` (Part 5/6: Integrated)
+
+### Sprint 3: Grado 11 — Los 5 Componentes Saber 11
+- [x] Matemáticas (Completed: 21 bundles)
+- [x] Ciencias Naturales (Completed: 5 bundles)
+  - [x] `CO-CN-11-genetics-molecular-001-PRO-v4-bundle.md`
+  - [x] `CO-CN-11-organic-chemistry-001-PRO-v4-bundle.md`
+  - [x] `CO-CN-11-electromagnetism-001-PRO-v4-bundle.md`
+  - [x] `CO-CN-11-solutions-equilibrium-001-PRO-v4-bundle.md`
+  - [x] `CO-CN-11-waves-optics-001-PRO-v4-bundle.md`
+- [x] Sociales y Ciudadanas (Completed: 5 bundles)
+  - [x] `CO-SOC-11-colombia-20th-century-001-PRO-v4-bundle.md`
+  - [x] `CO-SOC-11-constitution-participation-001-PRO-v4-bundle.md`
+  - [x] `CO-SOC-11-global-economy-001-PRO-v4-bundle.md`
+  - [x] `CO-SOC-11-human-rights-conflict-001-PRO-v4-bundle.md`
+  - [x] `CO-SOC-11-geopolitics-environment-001-PRO-v4-bundle.md`
+- [x] Lectura Crítica (Completed: 5 bundles)
+  - [x] `CO-LEC-11-narrative-texts-001-PRO-v4-bundle.md`
+  - [x] `CO-LEC-11-argumentative-essays-001-PRO-v4-bundle.md`
+  - [x] `CO-LEC-11-infographics-discontinuous-001-PRO-v4-bundle.md`
+  - [x] `CO-LEC-11-philosophical-texts-001-PRO-v4-bundle.md`
+  - [x] `CO-LEC-11-integration-mock-001-PRO-v4-bundle.md`
+#### 5. Inglés (G11_ENG) - Avanzado (500q - Niveles B2 a C2)
+- **Periodo 1: Contemporary Perspectives & Global Systems (120q)**
+  - [x] `CO-ENG-11-economy-001-PRO-v4-bundle.md` (Part 6: Inf. Reading - B2)
+  - [x] `CO-ENG-11-politics-001-PRO-v4-bundle.md` (Part 7: Grammar - B2+)
+  - [x] `CO-ENG-11-humanrights-001-PRO-v4-bundle.md` (Part 5: Lit. Reading - B2)
+  - [x] `CO-ENG-11-environment-001-PRO-v4-bundle.md` (Part 4: Cloze - B2)
+  - [x] `CO-ENG-11-media-001-PRO-v4-bundle.md` (Part 6: Inf. Reading - C1)
+  - [x] `CO-ENG-11-globalization-001-PRO-v4-bundle.md` (Integrated P5/P6 - C1)
+- **Periodo 2: Academic & Professional Success (120q)**
+  - [x] `CO-ENG-11-passive-001-PRO-v4-bundle.md` (Part 4/7: Passive Voice - B2+)
+  - [x] `CO-ENG-11-reported-001-PRO-v4-bundle.md` (Part 4/7: Reported Speech - B2+)
+  - [x] `CO-ENG-11-conditionals-001-PRO-v4-bundle.md` (Part 4/7: Conditionals - C1)
+  - [x] `CO-ENG-11-relative-001-PRO-v4-bundle.md` (Part 4/7: Relative Clauses - B2+)
+  - [x] `CO-ENG-11-cloze-002-PRO-v4-bundle.md` (Part 7: Advanced Grammar Cloze - C1)
+  - [x] `CO-ENG-11-integration-001-PRO-v4-bundle.md` (Part 4/7: Grammar Integration - C1)
+- **Periodo 3: Science, Tech & The Future (120q)**
+  - [x] `CO-ENG-11-sci-reading-001-PRO-v4-bundle.md` (Part 6: Scientific Texts / Inference - C1)
+  - [x] `CO-ENG-11-tech-reading-001-PRO-v4-bundle.md` (Part 5: Expository Texts / Literal - C1)
+  - [x] `CO-ENG-11-future-reading-001-PRO-v4-bundle.md` (Part 6: Argumentative Texts / Author's Purpose - C1)
+  - [x] `CO-ENG-11-ai-reading-001-PRO-v4-bundle.md` (Part 6: Academic Texts / Tone - C1+)
+  - [x] `CO-ENG-11-space-reading-001-PRO-v4-bundle.md` (Part 5/6: Contextual Clues - C1+)
+  - [x] `CO-ENG-11-integration-002-PRO-v4-bundle.md` (Part 5/6: Reading Integration - C1+)
+- **Periodo 4: Arts, Philosophy & Literature (140q)**
+  - [x] `CO-ENG-11-lit-reading-001-PRO-v4-bundle.md` (Part 5/6: Literary Reading / Inferential - C1+)
+  - [x] `CO-ENG-11-philosophy-reading-001-PRO-v4-bundle.md` (Part 6: Philosophical Texts / Viewpoint - C2)
+  - [x] `CO-ENG-11-arts-cloze-001-PRO-v4-bundle.md` (Part 7: Arts & Humanities Vocab Cloze - C1+)
+  - [x] `CO-ENG-11-poetry-reading-001-PRO-v4-bundle.md` (Part 6: Poetry & Figurative Language - C2)
+  - [x] `CO-ENG-11-critique-reading-001-PRO-v4-bundle.md` (Part 5/6: Art Criticism & Reviews - C1+)
+  - [x] `CO-ENG-11-ethics-reading-001-PRO-v4-bundle.md` (Part 6: Ethical Dilemmas & Argumentation - C2)
+  - [x] `CO-ENG-11-integration-003-PRO-v4-bundle.md` (Part 5/6/7: Master Integration - C2)
+### Sprint 4: Grado 11 — Matemáticas (G11_MAT) - Avanzado (400q - Niveles 3 a 10)
+- **Periodo 1: Álgebra, Funciones y Límites (100q)**
+  - [x] `CO-MAT-11-functions-001-PRO-v4-bundle.md` (Composición, dominio y rango - Diff 3+)
+  - [x] `CO-MAT-11-limits-intro-001-PRO-v4-bundle.md` (Concepto e indeterminaciones - Diff 3+)
+  - [x] `CO-MAT-11-limits-advanced-001-PRO-v4-bundle.md` (Límites al infinito y asíntotas - Diff 4+)
+  - [x] `CO-MAT-11-continuity-001-PRO-v4-bundle.md` (Continuidad - Diff 5+)
+  - [x] `CO-MAT-11-trigonometry-001-PRO-v4-bundle.md` (Identidades y funciones - Diff 5+)
+- **Periodo 2: Cálculo Diferencial (100q)**
+  - [x] `CO-MAT-11-derivative-concept-001-PRO-v4-bundle.md` (Razón de cambio - Diff 4+)
+  - [x] `CO-MAT-11-derivation-rules-001-PRO-v4-bundle.md` (Reglas y cadena - Diff 5+)
+  - [x] `CO-MAT-11-applications-derivatives-001-PRO-v4-bundle.md` (Optimización - Diff 7+)
+  - [x] `CO-MAT-11-graphing-functions-001-PRO-v4-bundle.md` (Análisis de gráficas - Diff 6+)
+  - [x] `CO-MAT-11-differential-integration-001-PRO-v4-bundle.md` (Integración de conceptos - Diff 8+)
+- **Periodo 3: Cálculo Integral y Geometría Analítica (100q)**
+  - [x] `CO-MAT-11-antiderivatives-001-PRO-v4-bundle.md` (Integrales indefinidas - Diff 6+)
+  - [x] `CO-MAT-11-definite-integrals-001-PRO-v4-bundle.md` (Área bajo la curva - Diff 8+)
+  - [x] `CO-MAT-11-conics-001-PRO-v4-bundle.md` (Parábola y elipse - Diff 5+)
+  - [x] `CO-MAT-11-conics-002-PRO-v4-bundle.md` (Hipérbola y circunferencia - Diff 6+)
+  - [x] `CO-MAT-11-analytic-geometry-001-PRO-v4-bundle.md` (Geometría analítica 3D - Diff 7+)
+- **Periodo 4: Estadística y Probabilidad (100q)**
+  - [x] `CO-MAT-11-counting-techniques-001-PRO-v4-bundle.md` (Combinatoria - Diff 5+)
+  - [x] `CO-MAT-11-probability-advanced-001-PRO-v4-bundle.md` (Bayes y condicional - Diff 7+)
+  - [x] `CO-MAT-11-data-analysis-001-PRO-v4-bundle.md` (Dispersión y tendencia - Diff 5+)
+  - [x] `CO-MAT-11-sampling-001-PRO-v4-bundle.md` (Muestreo e inferencia - Diff 6+)
+  - [x] `CO-MAT-11-integration-math-001-PRO-v4-bundle.md` (Simulacro completo - Diff 3-10)

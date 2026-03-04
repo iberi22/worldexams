@@ -7,6 +7,7 @@
   import { onMount } from 'svelte';
   import { getUser } from '../lib/auth';
   import type { User } from '@supabase/supabase-js';
+  import { getVideoMeta, getVideoManifestDefaults, type VideoManifestEntry } from '../lib/video-manifest';
 
   // Props
   export let question: Question;
@@ -14,6 +15,17 @@
   export let onBack: () => void;
 
   let user: User | null = null;
+  let videoMeta: VideoManifestEntry | null = null;
+  let videoDefaults: { youtube_channel_url?: string; instagram_url?: string; tiktok_url?: string } = {};
+
+  async function hydrateVideoMeta(questionId: string | number | undefined) {
+    if (!questionId) {
+      videoMeta = null;
+      return;
+    }
+    const resolved = await getVideoMeta(String(questionId));
+    videoMeta = resolved.entry || null;
+  }
 
   // Determine if we should show carousel (when multiple versions are available)
   $: showCarousel = versions.length > 1;
@@ -21,11 +33,17 @@
 
   onMount(async () => {
     user = await getUser();
+    videoDefaults = await getVideoManifestDefaults();
     const { data: { subscription } } = await import('../lib/supabase').then(m => m.supabase.auth.onAuthStateChange((_event, session) => {
       user = session?.user ?? null;
     }));
+    await hydrateVideoMeta(question?.id);
     return () => subscription.unsubscribe();
   });
+
+  $: if (question?.id) {
+    void hydrateVideoMeta(question.id);
+  }
 </script>
 
 {#if showCarousel}
@@ -92,6 +110,47 @@
           </div>
         </div>
       {/if}
+
+      <div class="mb-12 bg-red-500/10 border border-red-500/20 p-5 rounded-xl">
+        <h3 class="text-xl font-bold text-red-300 mb-4">Explicación en Video</h3>
+        {#if true}
+          {@const youtubeTarget = videoMeta?.youtube_url || videoDefaults.youtube_channel_url}
+          {#if youtubeTarget}
+            <div class="flex flex-wrap items-center gap-3">
+              <a
+                href={youtubeTarget}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="px-4 py-2 bg-red-600 hover:bg-red-500 text-white text-xs font-bold uppercase tracking-widest rounded-lg transition-colors"
+              >
+                {videoMeta?.youtube_url ? 'Ver en YouTube' : 'Ver Canal en YouTube'}
+              </a>
+              {#if videoMeta?.instagram_url || videoDefaults.instagram_url}
+                <a
+                  href={videoMeta?.instagram_url || videoDefaults.instagram_url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="px-4 py-2 bg-pink-600/80 hover:bg-pink-500 text-white text-xs font-bold uppercase tracking-widest rounded-lg transition-colors"
+                >
+                  Instagram
+                </a>
+              {/if}
+              {#if videoMeta?.tiktok_url || videoDefaults.tiktok_url}
+                <a
+                  href={videoMeta?.tiktok_url || videoDefaults.tiktok_url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="px-4 py-2 bg-black/70 hover:bg-black text-white text-xs font-bold uppercase tracking-widest rounded-lg border border-white/20 transition-colors"
+                >
+                  TikTok
+                </a>
+              {/if}
+            </div>
+          {:else}
+            <p class="text-sm text-white/60">Video en generación para esta pregunta.</p>
+          {/if}
+        {/if}
+      </div>
     </article>
 
     <!-- Ads & Support -->

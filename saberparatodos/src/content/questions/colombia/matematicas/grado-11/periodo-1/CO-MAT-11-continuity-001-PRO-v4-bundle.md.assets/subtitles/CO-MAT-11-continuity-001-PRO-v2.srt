@@ -1,0 +1,51 @@
+1
+00:00:00,000 --> 00:00:01,176
+Resolvamos en tres pasos.
+
+2
+00:00:01,176 --> 00:00:02,353
+Dada la función $f(x)
+
+3
+00:00:02,353 --> 00:00:03,529
+= \begin{cases} x^2 +
+
+4
+00:00:03,529 --> 00:00:04,706
+1 & x \le
+
+5
+00:00:04,706 --> 00:00:05,882
+2 \\. Aplicamos la
+
+6
+00:00:05,882 --> 00:00:07,059
+operación clave y verificamos
+
+7
+00:00:07,059 --> 00:00:08,235
+el resultado. Para que
+
+8
+00:00:08,235 --> 00:00:09,412
+sea continua en el
+
+9
+00:00:09,412 --> 00:00:10,588
+punto de unión ($x=2$),
+
+10
+00:00:10,588 --> 00:00:11,765
+el valor por la
+
+11
+00:00:11,765 --> 00:00:12,941
+izquierda (primer tramo) debe
+
+12
+00:00:12,941 --> 00:00:14,118
+ser igual al valor.
+
+13
+00:00:14,118 --> 00:00:15,000
+Respuesta final confirmada.

@@ -1,8 +1,10 @@
 <script lang="ts">
+  import { onMount } from 'svelte';
   import FlashlightCard from './FlashlightCard.svelte';
   import AdBlock from './AdBlock.svelte';
   import MathRenderer from './MathRenderer.svelte';
   import type { Question } from '../types';
+  import { loadVideoManifest, getVideoManifestDefaults, type VideoManifestEntry } from '../lib/video-manifest';
 
   export let questions: Question[] = [];
   export let onSelect: (question: Question) => void = () => {};
@@ -18,6 +20,27 @@
 
   // 🆕 Modal state for viewing question details
   let selectedQuestion: Question | null = null;
+  let videoByQuestionId: Record<string, VideoManifestEntry> = {};
+  let videoDefaults: { youtube_channel_url?: string; instagram_url?: string; tiktok_url?: string } = {};
+
+  function normalizeQuestionId(questionId: string | number): string {
+    return String(questionId || '').trim().toLowerCase();
+  }
+
+  function getVideoForQuestion(questionId: string | number): VideoManifestEntry | null {
+    const key = normalizeQuestionId(questionId);
+    return videoByQuestionId[key] || null;
+  }
+
+  onMount(async () => {
+    const manifest = await loadVideoManifest();
+    videoDefaults = await getVideoManifestDefaults();
+    const lookup: Record<string, VideoManifestEntry> = {};
+    for (const [key, value] of manifest.entries()) {
+      lookup[key] = value;
+    }
+    videoByQuestionId = lookup;
+  });
 
   // 🆕 Close modal on ESC key
   function handleKeydown(event: KeyboardEvent) {
@@ -562,6 +585,55 @@
               <MathRenderer content={selectedQuestion.explanation} />
             </div>
           </div>
+        {/if}
+
+        {#if true}
+          {@const videoMeta = getVideoForQuestion(selectedQuestion.id)}
+          {@const youtubeTarget = videoMeta?.youtube_url || videoDefaults.youtube_channel_url}
+          {#if youtubeTarget}
+            <div class="bg-red-500/10 border border-red-500/20 p-5 rounded-xl">
+              <h3 class="text-sm font-bold text-red-300 mb-3 flex items-center gap-2">
+                <span>🎬</span> Explicación en Video
+              </h3>
+              <div class="flex flex-wrap items-center gap-3">
+                <a
+                  href={youtubeTarget}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="px-4 py-2 bg-red-600 hover:bg-red-500 text-white text-xs font-bold uppercase tracking-widest rounded-lg transition-colors"
+                >
+                  {videoMeta?.youtube_url ? 'Ver en YouTube' : 'Ver Canal en YouTube'}
+                </a>
+                {#if videoMeta?.instagram_url || videoDefaults.instagram_url}
+                  <a
+                    href={videoMeta?.instagram_url || videoDefaults.instagram_url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="px-4 py-2 bg-pink-600/80 hover:bg-pink-500 text-white text-xs font-bold uppercase tracking-widest rounded-lg transition-colors"
+                  >
+                    Instagram
+                  </a>
+                {/if}
+                {#if videoMeta?.tiktok_url || videoDefaults.tiktok_url}
+                  <a
+                    href={videoMeta?.tiktok_url || videoDefaults.tiktok_url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="px-4 py-2 bg-black/70 hover:bg-black text-white text-xs font-bold uppercase tracking-widest rounded-lg border border-white/20 transition-colors"
+                  >
+                    TikTok
+                  </a>
+                {/if}
+              </div>
+            </div>
+          {:else}
+            <div class="bg-white/5 border border-white/10 p-5 rounded-xl">
+              <h3 class="text-sm font-bold text-white/70 mb-2 flex items-center gap-2">
+                <span>🎬</span> Explicación en Video
+              </h3>
+              <p class="text-xs text-white/50">Video en generación para esta pregunta.</p>
+            </div>
+          {/if}
         {/if}
 
         <!-- Context if available -->

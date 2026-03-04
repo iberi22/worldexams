@@ -1,0 +1,63 @@
+{
+  "protocol_version": "4.1",
+  "country": "co",
+  "grade": 11,
+  "period": 1,
+  "subject": "matematicas",
+  "topic": "Límites al infinito y Asíntotas",
+  "bundle_file": "CO-MAT-11-limits-advanced-001-PRO-v4-bundle.md",
+  "bundle_assets_dir": "src/content/questions/colombia/matematicas/grado-11/periodo-1/CO-MAT-11-limits-advanced-001-PRO-v4-bundle.md.assets",
+  "question_id": "CO-MAT-11-limits-advanced-001-PRO-v2",
+  "question_type": "single",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "total_seconds": 15,
+    "intro_seconds": 3,
+    "explanation_seconds": 9,
+    "outro_seconds": 3
+  },
+  "branding": {
+    "intro": [
+      "worldexams",
+      "saberparatodos"
+    ],
+    "outro": [
+      "worldexams",
+      "saberparatodos"
+    ]
+  },
+  "content": {
+    "statement": "Calcule el valor del límite: $\\lim_{x \\to \\infty} \\frac{2x^2 - 3x + 1}{5x^2 + 7}$.",
+    "explanation": "Dividimos todos los términos por la mayor potencia de $x$ presente ($x^2$):\r\n$\\lim_{x \\to \\infty} \\frac{2 - 3/x + 1/x^2}{5 + 7/x^2}$\r\nCuando $x \\to \\infty$, los términos $3/x$, $1/x^2$ y $7/x^2$ tienden a cero.\r\nEl límite es $\\frac{2 - 0 + 0}{5 + 0} = 2/5$.",
+    "narration_script": "Vamos a resolver esta pregunta en tres pasos. Paso uno, identifica los datos del enunciado. Paso dos, plantea la operación o ecuación correcta. Paso tres, verifica el resultado y confirma la opción final. Dividimos todos los términos por la mayor potencia de $x$ presente ($x^2$):\r\n$\\lim_{x \\to \\infty} \\frac{2 - 3/x + 1/x^2}{5 + 7/x^2}$\r\nCuando $x \\to \\infty$, los términos $3/x$, $1/x^2$ y $7/x^2$ tienden a cero.\r\nEl límite es $\\frac{2 - 0 + 0}{5 + 0} = 2/5$."
+  },
+  "audio": {
+    "tts_engine": "xtts-v2-local",
+    "align_engine": "whisperx",
+    "fallback_engine": "piper"
+  },
+  "outputs": {
+    "final_video_path": "renders/CO-MAT-11-limits-advanced-001-PRO-v2.mp4",
+    "audio_path": "audio/CO-MAT-11-limits-advanced-001-PRO-v2.mp3",
+    "timings_path": "timings/CO-MAT-11-limits-advanced-001-PRO-v2.json",
+    "subtitles_path": "subtitles/CO-MAT-11-limits-advanced-001-PRO-v2.srt"
+  },
+  "social": {
+    "youtube": {
+      "mode": "auto",
+      "status": "pending"
+    },
+    "instagram": {
+      "mode": "auto",
+      "status": "pending"
+    },
+    "tiktok": {
+      "mode": "manual_queue",
+      "status": "pending"
+    }
+  },
+  "status": "pending_generation",
+  "created_at": "2026-03-04T17:50:17.571Z"
+}

@@ -20,6 +20,10 @@ Implementación base para generar videos explicativos por pregunta v4.1 en forma
 cd saberparatodos
 npm run video:queue:v41
 npm run video:queue:v41:jobs -- --limit=20
+npm run video:init:period1:g11
+npm run video:jobs:run -- --limit=5
+npm run video:publish:sync
+npm run video:social:keys:check
 npm run video:manifest:upsert -- --question_id=CO-MAT-11-algebra-001-v1 --status=pending_generation
 ```
 
@@ -37,6 +41,8 @@ npm run video:manifest:upsert -- --question_id=CO-MAT-11-algebra-001-v1 --status
 - Usar archivo local no versionado para credenciales reales.
 - Referencia de estructura:
   - `video-pipeline/config/social-keys.example.json`
+  - `video-pipeline/config/social-keys.local.json` (ignorado por git)
+  - `video-pipeline/config/local-engines.local.json` (ignorado por git)
 
 ## Estados recomendados por plataforma
 
@@ -45,3 +51,25 @@ npm run video:manifest:upsert -- --question_id=CO-MAT-11-algebra-001-v1 --status
 - `pending_publish`
 - `published`
 - `failed`
+
+## Decisiones tecnicas validadas (Web)
+
+- YouTube:
+  - Usar `videos.insert` con upload resumable y luego `videos.list` para validar procesamiento.
+  - Considerar cuota por upload y auditoria para proyectos no verificados.
+- TikTok:
+  - Mantener `manual_queue` por defecto para cumplir requisitos de UX/consentimiento y limites de API.
+  - Cuando se use API, seguir flujo `init` + transferencia de video + polling de estado.
+- Voz local:
+  - XTTS v2 es adecuado para clonacion multilenguaje en espanol con muestra corta.
+  - WhisperX se mantiene para timestamps a nivel palabra y subtitulos sincronizados.
+
+Fuentes:
+- https://developers.google.com/youtube/v3/guides/uploading_a_video
+- https://developers.google.com/youtube/v3/getting-started
+- https://developers.google.com/youtube/v3/docs/videos
+- https://developers.tiktok.com/doc/content-posting-api-reference-upload-video
+- https://developers.tiktok.com/doc/content-posting-api-media-transfer-guide
+- https://developers.tiktok.com/doc/content-sharing-guidelines/
+- https://docs.coqui.ai/en/latest/models/xtts.html
+- https://github.com/m-bain/whisperX

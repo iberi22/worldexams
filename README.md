@@ -280,9 +280,10 @@ This project is supported by:
 ## 📊 Statistics
 
 - **Countries:** 6+ active platforms
-- **Questions:** 16,000+ practice questions (Updated: Jan 2026)
+- **Questions:** 16,000+ practice questions (Updated: Mar 2026)
+- **Protocol v4.0:** Intelligent Questions with difficulty 1-10, multi-correct answers, and cognitive profiling for genius detection (Grades 9-11)
 - **English Capabilities:** CEFR aligned (A1-B2), Part-based metadata, AI Study Plans (NotebookLM).
-- **English Content:** 258 bundles (8 universal, 250 Colombia-specific) + automated metadata extraction.
+- **English Content:** 258+ bundles (8 universal, 250+ Colombia-specific) + Protocol v4.0 advanced bundles.
 - **Users:** Growing daily
 - **Open Source:** 100% transparent
 - **Cost:** Free forever

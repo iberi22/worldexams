@@ -26,6 +26,10 @@ dist/
 *.zip
 *.png
 *.jpg
+*.mp4
+*.mov
+*.wav
+*.flac
 
 # Env
 .env
@@ -116,3 +120,10 @@ party-server-cloud/
 
 # Generated API Data (JSONs)
 saberparatodos/public
+
+# Video pipeline assets (keep metadata, ignore heavy media binaries)
+saberparatodos/src/content/questions/**/*.md.assets/renders/*.mp4
+saberparatodos/src/content/questions/**/*.md.assets/audio/*.mp3
+saberparatodos/src/content/questions/**/*.md.assets/audio/*.wav
+saberparatodos/video-pipeline/config/social-keys.local.json
+saberparatodos/video-pipeline/config/local-engines.local.json

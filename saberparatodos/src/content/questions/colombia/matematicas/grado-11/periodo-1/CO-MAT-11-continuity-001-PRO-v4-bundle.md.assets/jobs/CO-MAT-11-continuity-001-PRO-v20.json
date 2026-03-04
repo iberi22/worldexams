@@ -1,0 +1,65 @@
+{
+  "protocol_version": "4.1",
+  "country": "co",
+  "grade": 11,
+  "period": 1,
+  "subject": "matematicas",
+  "topic": "Continuidad en un punto y en intervalos",
+  "bundle_file": "CO-MAT-11-continuity-001-PRO-v4-bundle.md",
+  "bundle_assets_dir": "src/content/questions/colombia/matematicas/grado-11/periodo-1/CO-MAT-11-continuity-001-PRO-v4-bundle.md.assets",
+  "question_id": "CO-MAT-11-continuity-001-PRO-v20",
+  "question_type": "weighted",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "total_seconds": 15,
+    "intro_seconds": 3,
+    "explanation_seconds": 9,
+    "outro_seconds": 3
+  },
+  "branding": {
+    "intro": [
+      "worldexams",
+      "saberparatodos"
+    ],
+    "outro": [
+      "worldexams",
+      "saberparatodos"
+    ]
+  },
+  "content": {
+    "statement": "**MASTER INTEGRATION:**\r\n\r\nImagine una función $f(x)$ que modela la riqueza de un país. El gobierno aplica un impuesto que hace que la función cambie de $f(x) = x^2$ a $g(x) = x + 2$ en el punto $x=2$.\r\n\r\n¿Qué propiedad de la \"justicia sistémica\" (en analogía matemática) se pierde si los límites laterales en $x=2$ fueran diferentes (ej. f(2)=4 pero g(2)=10)?",
+    "explanation": "En sistemas complejos (leyes, física, ingeniería), la continuidad es sinónimo de estabilidad. Si una mínima variación en la entrada ($2.000001$ vs $1.999999$) genera una salida radicalmente distinta ($10$ vs $4$), el sistema es \"caótico\" o \"injusto\" porque no es predecible. La continuidad matemática es la base de la equidad procedimental.",
+    "narration_script": "Vamos a resolver esta pregunta en tres pasos. Paso uno, identifica los datos del enunciado. Paso dos, plantea la operación o ecuación correcta. Paso tres, verifica el resultado y confirma la opción final. En sistemas complejos (leyes, física, ingeniería), la continuidad es sinónimo de estabilidad. Si una mínima variación en la entrada ($2.000001$ vs $1.999999$) genera una salida radicalmente distinta ($10$ vs $4$), el sistema es \"caótico\" o \"injusto\" porque no es predecible. La continuidad matemática es la base de la equidad procedimental."
+  },
+  "audio": {
+    "tts_engine": "xtts-v2-local",
+    "align_engine": "whisperx",
+    "fallback_engine": "piper"
+  },
+  "outputs": {
+    "final_video_path": "renders/CO-MAT-11-continuity-001-PRO-v20.mp4",
+    "audio_path": "audio/CO-MAT-11-continuity-001-PRO-v20.mp3",
+    "timings_path": "timings/CO-MAT-11-continuity-001-PRO-v20.json",
+    "subtitles_path": "subtitles/CO-MAT-11-continuity-001-PRO-v20.srt"
+  },
+  "social": {
+    "youtube": {
+      "mode": "auto",
+      "status": "pending"
+    },
+    "instagram": {
+      "mode": "auto",
+      "status": "pending"
+    },
+    "tiktok": {
+      "mode": "manual_queue",
+      "status": "pending"
+    }
+  },
+  "status": "generated",
+  "created_at": "2026-03-04T17:50:17.559Z",
+  "generated_at": "2026-03-04T18:31:46.875431Z",
+  "updated_at": "2026-03-04T18:31:46.875446Z"
+}

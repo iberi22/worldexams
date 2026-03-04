@@ -1,0 +1,63 @@
+{
+  "protocol_version": "4.1",
+  "country": "co",
+  "grade": 11,
+  "period": 1,
+  "subject": "matematicas",
+  "topic": "Límites al infinito y Asíntotas",
+  "bundle_file": "CO-MAT-11-limits-advanced-001-PRO-v4-bundle.md",
+  "bundle_assets_dir": "src/content/questions/colombia/matematicas/grado-11/periodo-1/CO-MAT-11-limits-advanced-001-PRO-v4-bundle.md.assets",
+  "question_id": "CO-MAT-11-limits-advanced-001-PRO-v1",
+  "question_type": "single",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "total_seconds": 15,
+    "intro_seconds": 3,
+    "explanation_seconds": 9,
+    "outro_seconds": 3
+  },
+  "branding": {
+    "intro": [
+      "worldexams",
+      "saberparatodos"
+    ],
+    "outro": [
+      "worldexams",
+      "saberparatodos"
+    ]
+  },
+  "content": {
+    "statement": "Basado en el modelo $P(t) = \\frac{5000t}{t + 100}$, ¿cuál es la población máxima teórica que la especie puede alcanzar a muy largo plazo ($\\lim_{t \\to \\infty} P(t)$)?",
+    "explanation": "Para límites al infinito de funciones racionales con el mismo grado en el numerador y el denominador, el límite es el cociente de los coeficientes principales.\r\n$\\lim_{t \\to \\infty} \\frac{5000t}{1t + 100} = \\frac{5000}{1} = 5000$.\r\nA medida que el tiempo crece, el término \"+100\" se vuelve insignificante comparado con $t$, y la población se estabiliza cerca de 5000.",
+    "narration_script": "Vamos a resolver esta pregunta en tres pasos. Paso uno, identifica los datos del enunciado. Paso dos, plantea la operación o ecuación correcta. Paso tres, verifica el resultado y confirma la opción final. Para límites al infinito de funciones racionales con el mismo grado en el numerador y el denominador, el límite es el cociente de los coeficientes principales.\r\n$\\lim_{t \\to \\infty} \\frac{5000t}{1t + 100} = \\frac{5000}{1} = 5000$.\r\nA medida que el tiempo crece, el término \"+100\" se vuelve insignificante comparado con $t$, y la población se estabiliza cerca de 5000."
+  },
+  "audio": {
+    "tts_engine": "xtts-v2-local",
+    "align_engine": "whisperx",
+    "fallback_engine": "piper"
+  },
+  "outputs": {
+    "final_video_path": "renders/CO-MAT-11-limits-advanced-001-PRO-v1.mp4",
+    "audio_path": "audio/CO-MAT-11-limits-advanced-001-PRO-v1.mp3",
+    "timings_path": "timings/CO-MAT-11-limits-advanced-001-PRO-v1.json",
+    "subtitles_path": "subtitles/CO-MAT-11-limits-advanced-001-PRO-v1.srt"
+  },
+  "social": {
+    "youtube": {
+      "mode": "auto",
+      "status": "pending"
+    },
+    "instagram": {
+      "mode": "auto",
+      "status": "pending"
+    },
+    "tiktok": {
+      "mode": "manual_queue",
+      "status": "pending"
+    }
+  },
+  "status": "pending_generation",
+  "created_at": "2026-03-04T17:50:17.571Z"
+}

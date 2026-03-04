@@ -29,6 +29,7 @@ function getFiles(dir) {
         file = path.join(dir, file);
         const stat = fs.statSync(file);
         if (stat && stat.isDirectory()) {
+            if (path.basename(file).endsWith('.assets')) return;
             results = results.concat(getFiles(file));
         } else if (file.endsWith('.md')) {
             results.push(file);

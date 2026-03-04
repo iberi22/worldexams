@@ -25,7 +25,10 @@ function walkMarkdownFiles(dir, acc = []) {
   const entries = fs.readdirSync(dir, { withFileTypes: true });
   for (const entry of entries) {
     const fullPath = path.join(dir, entry.name);
-    if (entry.isDirectory()) walkMarkdownFiles(fullPath, acc);
+    if (entry.isDirectory()) {
+      if (entry.name.endsWith('.assets')) continue;
+      walkMarkdownFiles(fullPath, acc);
+    }
     else if (entry.isFile() && entry.name.endsWith('.md')) acc.push(fullPath);
   }
   return acc;
@@ -49,8 +52,8 @@ function parseQuestionSections(body) {
 
 function parseQuestionFromSection(section) {
   const idMatch = section.match(/\*\*ID:\*\*\s*`([^`]+)`/);
-  const statementMatch = section.match(/###\s*Enunciado\s*\n([\s\S]*?)(?=###\s*Opciones)/i);
-  const explanationMatch = section.match(/###\s*Explicaci[oó]n[^\n]*\n([\s\S]*?)(?=---|$)/i);
+  const statementMatch = section.match(/###\s*Enunciado\s*\n([\s\S]*?)(?=###\s*(?:Opciones|Options))/i);
+  const explanationMatch = section.match(/###\s*Explicaci[oó]n(?:\s*Pedag[oó]gica)?[^\n]*\n([\s\S]*?)(?=---|$)/i);
   if (!idMatch || !statementMatch) return null;
 
   const questionId = idMatch[1].trim();
@@ -69,6 +72,11 @@ function loadManifest() {
     return {
       version: '4.1',
       generated_at: new Date().toISOString(),
+      defaults: {
+        youtube_channel_url: 'https://www.youtube.com/@worldexams',
+        instagram_url: '',
+        tiktok_url: ''
+      },
       entries: []
     };
   }

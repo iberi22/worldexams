@@ -1,0 +1,33 @@
+{
+  "generated_at": "2026-03-04T18:00:28.537Z",
+  "count": 1,
+  "actions": [
+    {
+      "question_id": "CO-MAT-11-continuity-001-PRO-v1",
+      "protocol_version": "4.1",
+      "policy": {
+        "youtube": "auto",
+        "instagram": "auto",
+        "tiktok": "manual_queue"
+      },
+      "targets": [
+        {
+          "platform": "youtube",
+          "mode": "auto",
+          "status": "pending"
+        },
+        {
+          "platform": "instagram",
+          "mode": "auto",
+          "status": "pending"
+        },
+        {
+          "platform": "tiktok",
+          "mode": "manual_queue",
+          "status": "pending"
+        }
+      ],
+      "created_at": "2026-03-04T18:00:28.535Z"
+    }
+  ]
+}

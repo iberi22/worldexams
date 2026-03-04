@@ -28,6 +28,7 @@ function walkMarkdownFiles(dir, acc = []) {
   for (const entry of entries) {
     const fullPath = path.join(dir, entry.name);
     if (entry.isDirectory()) {
+      if (entry.name.endsWith('.assets')) continue;
       walkMarkdownFiles(fullPath, acc);
     } else if (entry.isFile() && entry.name.endsWith('.md')) {
       acc.push(fullPath);

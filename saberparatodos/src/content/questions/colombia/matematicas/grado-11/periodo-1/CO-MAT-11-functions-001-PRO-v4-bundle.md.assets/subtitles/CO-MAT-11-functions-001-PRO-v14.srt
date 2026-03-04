@@ -1,0 +1,51 @@
+1
+00:00:00,000 --> 00:00:01,176
+Resolvamos en tres pasos.
+
+2
+00:00:01,176 --> 00:00:02,353
+La población de una
+
+3
+00:00:02,353 --> 00:00:03,529
+bacteria se duplica cada
+
+4
+00:00:03,529 --> 00:00:04,706
+3 horas. Si inicialmente
+
+5
+00:00:04,706 --> 00:00:05,882
+hay 100. Aplicamos la
+
+6
+00:00:05,882 --> 00:00:07,059
+operación clave y verificamos
+
+7
+00:00:07,059 --> 00:00:08,235
+el resultado. El crecimiento
+
+8
+00:00:08,235 --> 00:00:09,412
+exponencial se modela como
+
+9
+00:00:09,412 --> 00:00:10,588
+$P = P_0 \cdot
+
+10
+00:00:10,588 --> 00:00:11,765
+2^{t/d}$, donde $d$ es
+
+11
+00:00:11,765 --> 00:00:12,941
+el tiempo de duplicación.
+
+12
+00:00:12,941 --> 00:00:14,118
+Aquí $d=3$. Si $t=3$,.
+
+13
+00:00:14,118 --> 00:00:15,000
+Respuesta final confirmada.

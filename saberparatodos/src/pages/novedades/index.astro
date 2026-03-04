@@ -1,0 +1,79 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = await getCollection('changelog');
+// Ordenar por fecha, más reciente primero
+posts.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const title = "Novedades y Actualizaciones | SaberParaTodos";
+const description = "Entérate de los últimos cambios, mejoras y nuevas herramientas en SaberParaTodos.";
+---
+
+<Layout title={title} description={description}>
+  <div class="min-h-screen bg-[#121212] py-16 px-4">
+    <div class="max-w-4xl mx-auto">
+      <header class="mb-12 text-center" data-sr="fade-up">
+        <h1 class="text-4xl md:text-5xl font-bold text-[#F5F5DC] mb-4">
+          Novedades y Actualizaciones
+        </h1>
+        <p class="text-xl text-white/60">
+          Lo último en plataforma, preguntas y guías de estudio.
+        </p>
+      </header>
+
+      <div class="space-y-8">
+        {posts.map((post, index) => (
+          <article
+            class="bg-white/5 border border-white/10 rounded-2xl p-6 sm:p-8 hover:bg-white/10 transition-colors"
+            data-sr="fade-up"
+            data-sr-delay={index * 100}
+          >
+            <div class="flex items-center gap-4 text-sm text-white/50 mb-3 font-mono">
+              <time datetime={post.data.date.toISOString()}>
+                {post.data.date.toLocaleDateString('es-CO', {
+                  year: 'numeric', month: 'long', day: 'numeric'
+                })}
+              </time>
+              <span>•</span>
+              <span>{post.data.author}</span>
+            </div>
+
+            <h2 class="text-2xl font-bold text-[#F5F5DC] mb-3">
+              <a href={`/novedades/${post.slug}`} class="hover:underline">
+                {post.data.title}
+              </a>
+            </h2>
+
+            {post.data.description && (
+              <p class="text-white/80 mb-6 leading-relaxed">
+                {post.data.description}
+              </p>
+            )}
+
+            <div class="flex items-center justify-between mt-6 pt-6 border-t border-white/10">
+              <div class="flex flex-wrap gap-2">
+                {post.data.tags.map(tag => (
+                  <span class="px-3 py-1 bg-white/5 text-white/60 text-xs rounded-full border border-white/10 uppercase tracking-wider">
+                    {tag}
+                  </span>
+                ))}
+              </div>
+              <a
+                href={`/novedades/${post.slug}`}
+                class="px-4 py-2 bg-[#FCD116] text-black font-semibold rounded-lg text-sm hover:bg-yellow-400 transition"
+              >
+                Leer más
+              </a>
+            </div>
+          </article>
+        ))}
+        {posts.length === 0 && (
+          <div class="text-center text-white/50 p-12 border border-white/5 rounded-2xl">
+            Aún no hay publicaciones disponibles.
+          </div>
+        )}
+      </div>
+    </div>
+  </div>
+</Layout>
