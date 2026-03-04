@@ -52,6 +52,19 @@ function isV3Bundle(frontmatter, filePath) {
   );
 }
 
+function isV4Bundle(frontmatter, filePath) {
+  const bundleVersion = String(frontmatter.bundle_version || '').trim();
+  const protocolVersion = String(frontmatter.protocol_version || '').trim();
+  const filename = path.basename(filePath).toLowerCase();
+
+  return (
+    bundleVersion.startsWith('4') ||
+    protocolVersion.startsWith('4') ||
+    filename.includes('-v4-bundle') ||
+    filename.includes('-pro-v4')
+  );
+}
+
 function getQuestionSections(body) {
   const sections = [];
   const headerRegex = /^##\s+(?:Pregunta|Question)\s+\d+.*$/gim;
@@ -166,6 +179,7 @@ function validateFile(filePath) {
   }
 
   const v3 = isV3Bundle(data, filePath);
+  const v4 = isV4Bundle(data, filePath);
 
   if (data.total_questions !== undefined && Number(data.total_questions) !== inferredQuestionCount) {
     const msg = `total_questions=${data.total_questions} no coincide con preguntas detectadas=${inferredQuestionCount}`;
@@ -227,7 +241,11 @@ function validateFile(filePath) {
       if (options < 2) {
         addFinding(strictOutsideScope ? 'warning' : 'error', relFile, `Pregunta #${sectionNum} tiene menos de 2 opciones.`);
       }
-      if (correct !== 1) {
+      if (v4) {
+        if (correct < 1) {
+          addFinding(strictOutsideScope ? 'warning' : 'error', relFile, `Pregunta #${sectionNum} (v4) debe tener al menos 1 opción correcta (actual=${correct}).`);
+        }
+      } else if (correct !== 1) {
         addFinding(strictOutsideScope ? 'warning' : 'error', relFile, `Pregunta #${sectionNum} debe tener exactamente 1 opción correcta (actual=${correct}).`);
       }
     }
@@ -236,8 +254,10 @@ function validateFile(filePath) {
     if (options < 2) {
       addFinding(strictOutsideScope ? 'warning' : 'error', relFile, 'Formato legacy con menos de 2 opciones.');
     }
-    if (correct !== 1) {
+    if (!v4 && correct !== 1) {
       addFinding(strictOutsideScope ? 'warning' : 'error', relFile, `Formato legacy debe tener exactamente 1 opción correcta (actual=${correct}).`);
+    } else if (v4 && correct < 1) {
+      addFinding(strictOutsideScope ? 'warning' : 'error', relFile, `Formato legacy v4 debe tener al menos 1 opción correcta (actual=${correct}).`);
     }
   }
 }

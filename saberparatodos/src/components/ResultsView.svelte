@@ -8,6 +8,7 @@
   import ScoreDisplay from './ScoreDisplay.svelte';
   import MathRenderer from './MathRenderer.svelte';
   import ExamRoomResultsView from './ExamRoomResultsView.svelte';
+  import { loadVideoManifest, type VideoManifestEntry } from '../lib/video-manifest';
 
   import { supabase } from '../lib/supabase';
   import {
@@ -77,6 +78,7 @@
   let proficiencyResult = $state<EnglishProficiencyResult | null>(null);
   let isEnglishExam = $state(false);
   let isGeneratingPlan = $state(false);
+  let videoByQuestionId = $state<Record<string, { availability: 'available' | 'pending' | 'missing'; entry?: VideoManifestEntry }>>({});
 
   // Derived
   let safeExamQuestions = $derived(examData?.questions || []);
@@ -195,6 +197,50 @@
     return opt ? opt.text : 'Sin respuesta';
   }
 
+  function normalizeQuestionId(questionId: string): string {
+    return String(questionId || '').trim().toLowerCase();
+  }
+
+  function getVideoForQuestion(questionId: string): { availability: 'available' | 'pending' | 'missing'; entry?: VideoManifestEntry } {
+    const key = normalizeQuestionId(questionId);
+    return videoByQuestionId[key] || { availability: 'missing' };
+  }
+
+  function getYouTubeEmbedUrl(entry?: VideoManifestEntry): string | null {
+    if (!entry) return null;
+    const id = entry.shorts_youtube_id || entry.youtube_id;
+    if (id) return `https://www.youtube.com/embed/${id}`;
+    if (entry.youtube_url && entry.youtube_url.includes('youtube.com/watch?v=')) {
+      try {
+        const params = new URL(entry.youtube_url).searchParams;
+        const watchId = params.get('v');
+        if (watchId) return `https://www.youtube.com/embed/${watchId}`;
+      } catch {
+        return null;
+      }
+    }
+    return null;
+  }
+
+  async function hydrateVideoMetadata() {
+    const manifest = await loadVideoManifest();
+    const map: Record<string, { availability: 'available' | 'pending' | 'missing'; entry?: VideoManifestEntry }> = {};
+
+    for (const q of questions || []) {
+      const key = normalizeQuestionId(q?.id);
+      if (!key) continue;
+      const entry = manifest.get(key);
+      const hasVideo = !!(entry?.shorts_youtube_id || entry?.youtube_id || entry?.youtube_url);
+      const status = String(entry?.status || '').toLowerCase();
+      map[key] = {
+        availability: hasVideo ? 'available' : (status.includes('pending') || status.includes('generat') ? 'pending' : 'missing'),
+        entry
+      };
+    }
+
+    videoByQuestionId = map;
+  }
+
   onMount(() => {
     (async () => {
         identity = getLocalIdentity();
@@ -208,6 +254,7 @@
 
         await saveExamResultLocal(examData, localAnswers);
         hasGitHub = await hasGitHubAuth();
+        await hydrateVideoMetadata();
     })();
 
     const { data: { subscription } } = supabase.auth.onAuthStateChange(async (_event, session) => {
@@ -435,6 +482,7 @@
           {@const c = String(q.correctOptionId || '').trim().toLowerCase()}
           {@const isCorrect = u === c && u !== ''}
           {@const userAnswer = userAnswers[q.id]}
+          {@const videoMeta = getVideoForQuestion(q.id)}
 
           <div class={`
             border rounded-lg sm:rounded-xl overflow-hidden
@@ -485,6 +533,31 @@
                   </div>
                 {/if}
               </div>
+
+              {#if videoMeta.availability === 'available'}
+                {@const embedUrl = getYouTubeEmbedUrl(videoMeta.entry)}
+                {#if embedUrl}
+                  <div class="pt-4 border-t border-white/5 space-y-2">
+                    <span class="block text-[10px] sm:text-xs uppercase tracking-widest opacity-50">Explicación en video</span>
+                    <div class="relative w-full aspect-video rounded-lg overflow-hidden border border-white/10 bg-black">
+                      <iframe
+                        src={embedUrl}
+                        class="absolute inset-0 w-full h-full"
+                        title={`Explicación ${q.id}`}
+                        loading="lazy"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen
+                      ></iframe>
+                    </div>
+                  </div>
+                {/if}
+              {:else if videoMeta.availability === 'pending'}
+                <div class="pt-4 border-t border-white/5">
+                  <div class="p-3 rounded-lg border border-amber-500/25 bg-amber-500/10 text-amber-200 text-xs sm:text-sm">
+                    Video en generación para esta pregunta.
+                  </div>
+                </div>
+              {/if}
 
                <!-- Feedback & Voting -->
               <div class="pt-4 border-t border-white/5">

@@ -9,6 +9,7 @@
   import type { APIQuestion } from '../lib/api-service';
   import { createFocusTracker, type FocusTracker } from '../lib/focus-tracker';
   import ReportModal from './ReportModal.svelte';
+  import { getNextAdaptiveQuestion } from '../lib/adaptive-engine';
 
   // Props (Svelte 5 Runes)
   interface Props {
@@ -25,6 +26,9 @@
     timeLimitSeconds?: number;
     startedAt?: string | null;
     totalQuestions?: number;
+    // Adaptive Testing
+    isAdaptiveMode?: boolean;
+    adaptivePool?: any[];
   }
 
   let {
@@ -39,7 +43,9 @@
     sessionId = null,
     timeLimitSeconds = 0,
     startedAt = null,
-    totalQuestions = 0
+    totalQuestions = 0,
+    isAdaptiveMode = false,
+    adaptivePool = []
   }: Props = $props();
 
   // 🆕 Focus Tracker
@@ -64,9 +70,20 @@
     },
   ];
 
-  // Derived state
-  let safeQuestions = $derived(Array.isArray(questions) ? questions : []);
-  let activeQuestions = $derived(safeQuestions.length > 0 ? safeQuestions : MOCK_QUESTIONS);
+  // Derived state into mutable state for adaptive injection
+  let activeQuestions = $state<Question[]>([]);
+  let hasInitialized = false;
+
+  $effect(() => {
+    if (!hasInitialized) {
+      if (questions && questions.length > 0) {
+        activeQuestions = [...questions];
+      } else {
+        activeQuestions = [...MOCK_QUESTIONS];
+      }
+      hasInitialized = true;
+    }
+  });
 
   // Basic state
   let currentIdx = $state(0);
@@ -417,6 +434,25 @@
     }
 
     if (currentIdx < activeQuestions.length - 1) {
+      // Adaptive Logic: Inject the next question on the fly if enabled
+      if (isAdaptiveMode && adaptivePool && adaptivePool.length > 0) {
+        console.log('🧠 Adaptive Engine: Evaluating next best question...');
+        const usedIds = new Set(activeQuestions.map(q => String(q.id)));
+        const nextQ = getNextAdaptiveQuestion(
+          adaptivePool as any,
+          questionResults as any,
+          usedIds
+        );
+
+        if (nextQ) {
+          console.log(`🧠 Adaptive Engine: Selected question ${nextQ.id} (CEFR: ${nextQ.cefr_level || (nextQ as any).cefrLevel || 'Unknown'}, Diff: ${nextQ.difficulty})`);
+          // Overwrite the upcoming question with the adaptively selected one
+          activeQuestions[currentIdx + 1] = nextQ as any;
+        } else {
+          console.log('🧠 Adaptive Engine: Pool exhausted, using original question.');
+        }
+      }
+
       currentIdx += 1;
       questionStartTime = Date.now();
       selectedOption = answers[activeQuestions[currentIdx].id] || null;

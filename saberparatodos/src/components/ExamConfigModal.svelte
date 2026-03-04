@@ -6,11 +6,16 @@
   import { supabase } from '../lib/supabase';
   import {
     fetchAllQuestionsForGrade,
-    fetchQuestions, // 🆕 Import fetchQuestions
     getEffectiveEnglishLevel,
     prefetchEnglishPool, // 🆕
     calculateEnglishProficiency
   } from '../lib/api-service';
+  import {
+    prepareRoomQuestions,
+    prepareSoloExamQuestions,
+    sanitizeIncomingQuestions,
+    defaultQuestionRepository
+  } from '../lib/questions';
   import { getCachedEnglishQuestions, getAnsweredQuestionIds } from '../lib/idb-storage'; // 🆕
   import { CURRICULUM_CO, normalizeTopic } from '../config/curriculum'; // 🆕 Import Curriculum Logic
 
@@ -183,7 +188,7 @@
         }
 
 
-  let syncMethodClass = $derived(!partyEnabled || !partyCode
+  let syncMethodClass = $derived(!roomEnabled || !roomCode
     ? 'text-white/40'
     : p2pConnected
       ? 'text-blue-400'
@@ -191,7 +196,7 @@
         ? 'text-emerald-400'
         : 'text-yellow-400');
 
-  let realtimeLabel = $derived(!partyEnabled || !partyCode
+  let realtimeLabel = $derived(!roomEnabled || !roomCode
     ? ''
     : !isOnline
       ? 'sin conexión'
@@ -416,11 +421,11 @@
   // P2P Initialization for Host
   async function initP2PHost() {
     try {
-      const peerId = await p2pService.initHost(partyCode);
+      const peerId = await p2pService.initHost(roomCode);
       await supabase.from('party_sessions')
         .update({ host_peer_id: peerId })
         // We will store it in `exam_config.host_peer_id`.
-        .eq('party_code', partyCode);
+        .eq('party_code', roomCode);
 
       console.log('📡 P2P Host registered:', peerId);
 
@@ -446,10 +451,10 @@
 
   // 🆕 P2P Connection for Guest (Primary sync method)
   async function connectToP2PHost(config) {
-     // Trystero migration: We don't need host_peer_id, just partyCode
+     // Trystero migration: We don't need host_peer_id, just roomCode
      try {
-         console.log('📡 Attempting P2P connection to room:', partyCode);
-         await p2pService.connectToHost(partyCode);
+         console.log('📡 Attempting P2P connection to room:', roomCode);
+         await p2pService.connectToHost(roomCode);
 
          // Listen for updates (Config, Start, Questions)
          p2pService.onData((msg) => {
@@ -471,12 +476,7 @@
                  if (msg.payload.useDiagnostic !== undefined) useDiagnostic = Boolean(msg.payload.useDiagnostic);
                  if (msg.payload.diagnosticMixPercent !== undefined) diagnosticMixPercent = Number(msg.payload.diagnosticMixPercent) || 20;
                  if (msg.payload.questions) {
-                     // 🔥 Validate questions before syncing
-                     const validQuestions = msg.payload.questions.filter(q =>
-                       q &&
-                       Array.isArray(q.options) &&
-                       q.options.length > 0
-                     );
+                     const validQuestions = sanitizeIncomingQuestions(msg.payload.questions);
                      syncedQuestions = validQuestions;
                      console.log('✅ Questions synced via P2P:', syncedQuestions.length);
 
@@ -503,12 +503,7 @@
 
                  // Sync questions if provided
                  if (startConfig.questions) {
-                     // 🔥 Validate questions
-                     const validQuestions = startConfig.questions.filter(q =>
-                       q &&
-                       Array.isArray(q.options) &&
-                       q.options.length > 0
-                     );
+                     const validQuestions = sanitizeIncomingQuestions(startConfig.questions);
                      syncedQuestions = validQuestions;
                      questionCount = syncedQuestions.length; // Update local count
                      console.log('✅ Questions received via P2P START:', syncedQuestions.length);
@@ -558,7 +553,7 @@
   // Broadcast Config Changes (including questions) + Update DB for Realtime fallback
   // 🆕 OPTIMIZED: Unified debounce for P2P and DB updates
   function broadcastConfig() {
-     if (!isHost || !partyEnabled || !partyCode) return;
+     if (!isHost || !roomEnabled || !roomCode) return;
 
      const payload = {
          subject: selectedSubject,
@@ -618,7 +613,7 @@
                    period: selectedPeriod
                  }
                })
-               .eq('party_code', partyCode);
+               .eq('party_code', roomCode);
              console.log('💾 DB config updated');
          } catch (dbErr) {
              console.warn('⚠️ Failed to update DB config:', dbErr);
@@ -628,17 +623,17 @@
 
   // Watch for config changes to broadcast
   $effect(() => {
-    if (isHost && partyEnabled && partyCode && (questionCount || timeOption || selectedSubject || selectedGrade)) {
+    if (isHost && roomEnabled && roomCode && (questionCount || timeOption || selectedSubject || selectedGrade)) {
       broadcastConfig();
     }
   });
 
-  // Update createParty to init P2P
-  async function createParty() {
-    isCreatingParty = true;
-    partyError = '';
+  // Generate room and sync questions
+  async function createRoom() {
+    isCreatingRoom = true;
+    roomError = '';
     try {
-      const newPartyCode = generatePartyCode();
+      const newPartyCode = generateRoomCode();
 
       // 🆕 Generate questions - load from API if availableQuestions is empty
       let questionsPool = availableQuestions;
@@ -658,187 +653,28 @@
         throw new Error('No hay preguntas disponibles para este grado.');
       }
 
-      // 🆕 Filter by selected subject if not "Simulacro Completo"
-      let filteredPool = questionsPool;
-      if (selectedSubject && selectedSubject !== 'Simulacro Completo') {
-        const normalizeSubject = (s) => s?.toLowerCase()
-          .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
-          .replace(/[\s_-]/g, '');
+      const roomSelection = await prepareRoomQuestions(
+        {
+          grade: selectedGrade || 11,
+          subject: selectedSubject,
+          count: questionCount,
+          useDiagnostic: useDiagnostic,
+          diagnosticMixPercent: diagnosticMixPercent,
+          examMode: examMode,
+          period: selectedPeriod,
+          englishDiagnostic: isEnglishDiagnosticMode
+        },
+        {
+          repository: defaultQuestionRepository,
+          filterUnansweredQuestions: (items, max) => ({ filtered: items.slice(0, max), hadToRepeat: false })
+        },
+        questionsPool
+      );
 
-        const targetSubject = normalizeSubject(selectedSubject);
-
-        // 🆕 Special handling for "Inglés Diagnóstico" - match any English question
-        const isEnglishDiagnostic = targetSubject.includes('ingles') && targetSubject.includes('diagnostic');
-
-        filteredPool = questionsPool.filter(q => {
-          const qSubject = normalizeSubject(q.category?.split(' :: ')[0] || '');
-
-          if (isEnglishDiagnostic) {
-            // Match any English subject: "INGLÉS", "INGLÉS B1", "ingles", etc.
-            return qSubject.includes('ingles') || qSubject.includes('english');
-          }
-
-          return qSubject === targetSubject;
-        });
-
-        // 🆕 Filter by Period if enabled
-        if (examMode === 'period') {
-             const periodConfig = currentPeriods.find(p => p.id === selectedPeriod);
-             if (periodConfig) {
-                 // 🆕 Resolve topics: If specific subject, use config. If Simulacro, aggregate ALL subjects for this period.
-                 let periodTopics = periodConfig.topics || [];
-                 const isGlobalSimulacro = normalizeTopic(selectedSubject) === 'simulacrocompleto';
-
-                 if (isGlobalSimulacro) {
-                    // Aggregate topics from ALL subjects for this grade/period
-                    const gradeCurr = CURRICULUM_CO[selectedGrade];
-                    if (gradeCurr) {
-                        Object.values(gradeCurr).forEach(subj => {
-                            const p = subj.periods.find(peri => peri.id === selectedPeriod);
-                            if (p && p.topics) {
-                                periodTopics = [...periodTopics, ...p.topics];
-                            }
-                        });
-                    }
-                    console.log(`🌐 Global Period ${selectedPeriod} topics:`, periodTopics.length);
-                 }
-
-                 const previousCount = filteredPool.length;
-
-                     filteredPool = filteredPool.filter(q => {
-                         // 🆕 PRIORITY: Filter by explicit 'periodo' property if available (API v2)
-                         if (q.periodo !== undefined && q.periodo !== null) {
-                             return Number(q.periodo) === selectedPeriod;
-                         }
-
-                         // 🆕 Use q.topics array
-                         const topics = q.topics || [];
-                         if (topics.length === 0) {
-                             // Fallback to bundle ID in category
-                             const bundleId = q.category ? q.category.split(' :: ')[1] : '';
-                             if (bundleId) topics.push(bundleId);
-                         }
-
-                         // Check if ANY question topic matches ANY period topic
-                         return topics.some(qTopicRaw => {
-                             const qTopic = normalizeTopic(qTopicRaw);
-                             return periodTopics.some(t => {
-                                 const normalizedT = normalizeTopic(t);
-                                 return qTopic.includes(normalizedT) || normalizedT.includes(qTopic);
-                             });
-                         });
-                     });
-
-                 console.log(`📅 Filtered by Period ${selectedPeriod} (${isGlobalSimulacro ? 'Global' : periodConfig.name}): ${filteredPool.length}/${previousCount} questions`);
-             }
-        }
-
-        console.log(`🎯 Filtered by subject "${selectedSubject}": ${filteredPool.length}/${questionsPool.length} questions`);
-
-        if (filteredPool.length === 0) {
-          if (examMode === 'period') {
-            throw new Error(`No hay preguntas para ${selectedSubject} en Periodo ${selectedPeriod}.`);
-          }
-          console.warn(`⚠️ No questions found for subject "${selectedSubject}", using full pool`);
-          filteredPool = questionsPool;
-        }
-
-        // 🆕 Deep Search if insufficient questions
-        const requiredQuestions = questionCount * 2; // Safety margin
-        if (filteredPool.length < requiredQuestions) {
-             console.warn(`⚠️ Insufficient party questions (${filteredPool.length}/${requiredQuestions}). Starting Deep Search...`);
-
-             // Use same variants logic as App.svelte
-             const searchSubject = targetSubject.includes('diagnostico') ? 'ingles' : targetSubject;
-             const searchGrade = selectedGrade || 11;
-
-             try {
-                // Fetch pages 1-3 to get more questions
-                const pages = [1, 2, 3];
-                const newQuestionsResults = await Promise.all(
-                    pages.map(p => fetchQuestions(searchGrade, searchSubject, p))
-                );
-
-                const currentIds = new Set(filteredPool.map(q => q.id));
-                newQuestionsResults.flat().forEach(q => {
-                    if (!q || currentIds.has(q.id)) return;
-
-                    if (examMode === 'period') {
-                        if (q.periodo !== undefined && q.periodo !== null) {
-                            if (Number(q.periodo) !== Number(selectedPeriod)) return;
-                        }
-                    }
-
-                    filteredPool.push(q);
-                    currentIds.add(q.id);
-                });
-                console.log(`✅ Deep search added questions. New total: ${filteredPool.length}`);
-             } catch (err) {
-                console.error('❌ Deep search failed:', err);
-             }
-        }
+      syncedQuestions = roomSelection.selectedQuestions;
+      if (roomSelection.warnings.length > 0) {
+        console.warn('Room selection warnings:', roomSelection.warnings);
       }
-
-      // 🎯 Select MORE questions to compensate for invalid ones (5x the needed amount)
-      const oversampleFactor = 5;
-      const sampleSize = Math.min(questionCount * oversampleFactor, filteredPool.length);
-      const shuffled = [...filteredPool].sort(() => 0.5 - Math.random());
-      const selectedQuestions = shuffled.slice(0, sampleSize);
-
-      console.log(`🔍 Sampling ${sampleSize} questions to find ${questionCount} valid ones...`);
-
-      // � DEBUG: Check questions BEFORE filtering
-      console.log('🔍 Sample questions before filter:', selectedQuestions.slice(0, 3).map(q => ({
-        id: q.id,
-        optionsCount: q.options?.length,
-        hasText: !!q.text,
-        hasCorrectId: !!q.correctOptionId
-      })));
-
-      // 🔥 CRITICAL: Validate questions have AT LEAST 4 options
-      const validQuestions = selectedQuestions.filter(q => {
-        const isValid = q &&
-          Array.isArray(q.options) &&
-          Array.isArray(q.options) &&
-          q.options.length >= 2 && // ✨ RELAXED: Allow True/False or 3-option questions (English/lower grades)
-          q.id &&
-          q.text &&
-          q.correctOptionId;
-
-        if (!isValid && q) {
-          console.log('❌ Invalid question:', {
-            id: q.id,
-            optionsCount: q.options?.length,
-            hasText: !!q.text,
-            hasCorrectId: !!q.correctOptionId
-          });
-        }
-
-        return isValid;
-      });
-
-      if (validQuestions.length === 0) {
-        console.error('❌ All questions were invalid!');
-        console.error('Sample from pool:', questionsPool.slice(0, 5).map(q => ({
-          id: q.id,
-          optionsCount: q.options?.length,
-          options: q.options
-        })));
-        throw new Error('No se encontraron preguntas válidas con 4 opciones. Intenta de nuevo.');
-      }
-
-      if (validQuestions.length < selectedQuestions.length) {
-        console.warn(`⚠️ Filtered out ${selectedQuestions.length - validQuestions.length} invalid questions (< 4 options)`);
-      }
-
-      // 🎯 Take only the amount needed
-      syncedQuestions = validQuestions.slice(0, questionCount);
-
-      if (syncedQuestions.length < questionCount) {
-        console.warn(`⚠️ Only found ${syncedQuestions.length} valid questions out of ${questionCount} requested`);
-      }
-
-      console.log(`📝 Selected ${syncedQuestions.length} valid questions for party`);
 
       // 🎯 CRITICAL: Initialize P2P as primary method, Realtime as fallback
       let peerId = null;
@@ -882,15 +718,15 @@
         grade: selectedGrade,
         num_questions: questionCount,
         time_option: timeOption,
-        questions_count: selectedQuestions.length
+        questions_count: syncedQuestions.length
       });
 
       if (error) throw error;
 
-      partyCode = newPartyCode;
+      roomCode = newPartyCode;
 
       isHost = true;
-      subscribeToParty();
+      subscribeToRoom();
 
       // Setup P2P listener for host
       p2pService.onData((msg) => {
@@ -997,14 +833,7 @@
 
       // Sync Questions
       if (config.questions) {
-         // 🔥 Validate and filter questions
-         const validQuestions = config.questions.filter(q =>
-           q &&
-           Array.isArray(q.options) &&
-           q.options.length > 0 &&
-           q.id &&
-           q.text
-         );
+         const validQuestions = sanitizeIncomingQuestions(config.questions);
 
          syncedQuestions = validQuestions;
          console.log('✅ Preguntas sincronizadas:', syncedQuestions.length);
@@ -1117,145 +946,32 @@
     // 🆕 FETCH QUESTIONS FOR SOLO PERIOD MODE
     let soloQuestions = undefined;
     if (!roomEnabled && !overrideConfig && examMode === 'period') {
-         // We need to fetch and filter questions just like in createRoom
-         // Reuse the logic? Or just call API
-         try {
-             // Fetch all questions for grade
-             const allQ = await fetchAllQuestionsForGrade(selectedGrade);
-             const normalizeSubject = (s) => s?.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[\s_-]/g, '');
-             const targetSubject = normalizeSubject(selectedSubject);
+      try {
+        const soloResult = await prepareSoloExamQuestions(
+          {
+            grade: selectedGrade || 11,
+            subject: selectedSubject,
+            count: questionCount,
+            useDiagnostic: useDiagnostic,
+            diagnosticMixPercent: diagnosticMixPercent,
+            examMode: examMode,
+            period: selectedPeriod,
+            englishDiagnostic: isEnglishDiagnosticMode,
+            strictPeriod: true
+          },
+          {
+            repository: defaultQuestionRepository,
+            filterUnansweredQuestions: (items, max) => ({ filtered: items.slice(0, max), hadToRepeat: false })
+          },
+          availableQuestions
+        );
 
-             // Filter by Subject (skip if Simulacro Completo)
-             let filtered = allQ;
-             if (selectedSubject !== 'Simulacro Completo') {
-                 filtered = allQ.filter(q => {
-                     const qSubject = normalizeSubject(q.category?.split(' :: ')[0] || '');
-                     return qSubject === targetSubject;
-                 });
-             }
-
-             // Filter by Period
-             const periodConfig = currentPeriods.find(p => p.id === selectedPeriod);
-             if (periodConfig) {
-                 let periodTopics = periodConfig.topics || [];
-                 const isGlobalSimulacro = normalizeTopic(selectedSubject) === 'simulacrocompleto';
-
-                 if (isGlobalSimulacro) {
-                    const gradeCurr = CURRICULUM_CO[selectedGrade];
-                    if (gradeCurr) {
-                        Object.values(gradeCurr).forEach(subj => {
-                            const p = subj.periods.find(peri => peri.id === selectedPeriod);
-                            if (p && p.topics) {
-                                periodTopics = [...periodTopics, ...p.topics];
-                            }
-                        });
-                    }
-                 }
-
-                 filtered = filtered.filter(q => {
-                     if (q.periodo !== undefined && q.periodo !== null) {
-                         return Number(q.periodo) === Number(selectedPeriod);
-                     }
-
-                     // 🐛 FIX: Use q.topics directly - now properly populated from tema field
-                     const topics = q.topics || [];
-
-                     const match = topics.some(qTopicRaw => {
-                         const qTopic = normalizeTopic(qTopicRaw);
-                         return periodTopics.some(t => {
-                             const normalizedT = normalizeTopic(t);
-                             return qTopic.includes(normalizedT) || normalizedT.includes(qTopic);
-                         });
-                     });
-
-                     if (!match && topics.length > 0) {
-                        console.log(`[FilterDebug] Fail: qTopics=${JSON.stringify(topics)} [${topics.map(t=>normalizeTopic(t))}] vs periodTopics=${JSON.stringify(periodTopics)} [${periodTopics.map(t=>normalizeTopic(t))}]`);
-                     }
-                     return match;
-                 });
-             }
-
-             // 🆕 Deep Search (Pages 2-3) if insufficient questions
-             // Only for specific subjects to avoid hammering API (Simulacro usually has enough or we accept what we have)
-             // 🆕 Deep Search (Pages 1-2) if insufficient questions
-             if (filtered.length < questionCount) {
-                  console.log(`🔍 SOLO: Insufficient period questions (${filtered.length}/${questionCount}). Deep Searching...`);
-                  try {
-                       let extraPools = [];
-                       const extraPages = [1, 2]; // Fetch pages 1 and 2 (page 1 again to catch updates/cache misses, page 2 for new)
-
-                       if (selectedSubject === 'Simulacro Completo') {
-                            // Fetch from ALL major subjects
-                            const subjects = ['matematicas', 'lectura_critica', 'ciencias_naturales', 'sociales_y_ciudadanas', 'ingles'];
-                            console.log('🌐 Global Deep Search for:', subjects);
-                            // We do this sequentially or batched to avoid too many requests? Parallel is 5 * 2 = 10 requests. A bit heavy but okay for "Deep Search".
-                            const promises = [];
-                            subjects.forEach(subj => {
-                                extraPages.forEach(p => promises.push(fetchQuestions(selectedGrade, subj, p)));
-                            });
-                            extraPools = await Promise.all(promises);
-                       } else {
-                            // Specific subject
-                            const searchSubject = targetSubject.includes('diagnostico') ? 'ingles' : targetSubject;
-                            extraPools = await Promise.all(extraPages.map(p => fetchQuestions(selectedGrade, searchSubject, p)));
-                       }
-
-                       const flatExtras = extraPools.flat();
-
-                           // Apply same filters to extras
-                       if (periodConfig) {
-                           const periodTopics = periodConfig.topics || [];
-                           const extrasFiltered = flatExtras.filter(q => {
-                               if (!q) return false;
-                               if (q.periodo !== undefined && q.periodo !== null) {
-                                   return Number(q.periodo) === Number(selectedPeriod);
-                               }
-                               // 🐛 FIX: Use q.topics directly - now properly populated from tema field
-                               const topics = q.topics || [];
-                               return topics.some(qTopicRaw => {
-                                   const qTopic = normalizeTopic(qTopicRaw);
-                                   return periodTopics.some(t => {
-                                       const normalizedT = normalizeTopic(t);
-                                       return qTopic.includes(normalizedT) || normalizedT.includes(qTopic);
-                                   });
-                               });
-                           });
-
-                           // Add unique new questions
-                           const currentIds = new Set(filtered.map(q => q.id));
-                           extrasFiltered.forEach(q => {
-                               if (!currentIds.has(q.id)) {
-                                   filtered.push(q);
-                                   currentIds.add(q.id);
-                               }
-                           });
-                           console.log(`✅ Deep Search added ${extrasFiltered.length} questions.`);
-                       }
-                  } catch (e) {
-                      console.error('Deep search error:', e);
-                  }
-
-                  // 🚨 STRICT PERIOD MODE: do not backfill with out-of-period questions
-                  if (filtered.length < questionCount) {
-                      alert(`No hay suficientes preguntas del Periodo ${selectedPeriod} para ${selectedSubject}. Encontradas: ${filtered.length}/${questionCount}.`);
-                      return;
-                  }
-             }
-
-             // Shuffle and slice
-             const shuffled = filtered.sort(() => 0.5 - Math.random()).slice(0, questionCount);
-             if (shuffled.length > 0) {
-                 soloQuestions = shuffled;
-                 console.log(`✅ Loaded ${soloQuestions.length} questions for Period Exam`);
-             } else {
-                 alert('No se encontraron preguntas para este periodo. Intenta otro.');
-                 return;
-             }
-         } catch (e) {
-             console.error("Error fetching period questions:", e);
-             alert('Error cargando preguntas del periodo.');
-             return;
-         }
+        soloQuestions = soloResult.selectedQuestions;
+      } catch (e) {
+        console.error('Error fetching period questions:', e);
+        alert(e?.message || 'Error cargando preguntas del periodo.');
+        return;
+      }
     }
 
     onStart({
@@ -1310,7 +1026,7 @@
 
           // Sync questions if available
           if (config.questions && config.questions.length > 0) {
-            syncedQuestions = config.questions;
+            syncedQuestions = sanitizeIncomingQuestions(config.questions);
             console.log('✅ [Realtime] Preguntas sincronizadas:', syncedQuestions.length);
           }
 
@@ -1335,7 +1051,7 @@
 
           // Sincronizar preguntas del host
           if (payload.new.exam_config?.questions) {
-            syncedQuestions = payload.new.exam_config.questions;
+            syncedQuestions = sanitizeIncomingQuestions(payload.new.exam_config.questions);
             console.log('✅ Preguntas sincronizadas:', syncedQuestions.length);
           }
 
@@ -2047,3 +1763,4 @@
     </div>
   </div>
 </div>
+

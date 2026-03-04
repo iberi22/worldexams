@@ -51,6 +51,8 @@ export interface APIQuestion {
   modern_context?: boolean;
   context_type?: string;
   context_tags?: string[];
+  protocol_version?: string;
+  cefr_level?: string;
 }
 
 export interface AppQuestion {
@@ -58,6 +60,9 @@ export interface AppQuestion {
   text: string;
   options: { id: string; text: string }[];
   correctOptionId: string;
+  correctOptionIds?: string[];
+  optionWeights?: Record<string, number>;
+  scoringMode?: 'single' | 'multiple' | 'weighted';
   category: string;
   explanation?: string;
   grade: number;
@@ -65,10 +70,20 @@ export interface AppQuestion {
   bundleId?: string;
   context?: string;
   topics?: string[];
+  period?: number;
   periodo?: number;
   modernContext?: boolean;
   contextType?: string;
   contextTags?: string[];
+  video?: {
+    availability: 'available' | 'pending' | 'missing';
+    youtubeId?: string;
+    youtubeUrl?: string;
+    status?: string;
+    updatedAt?: string;
+  };
+  protocol_version?: string;
+  cefr_level?: string;
 }
 
 const questionCache: Map<string, AppQuestion[]> = new Map();
@@ -118,7 +133,14 @@ export function transformQuestion(apiQuestion: any, grade: number, subject: stri
     return { id, text: opt.text || opt.texto || '' };
   });
 
+  const correctOptionIds = Array.isArray(apiQuestion.correctOptionIds)
+    ? apiQuestion.correctOptionIds.map((id: any) => String(id).trim())
+    : [];
+
   let correctOptionId = apiQuestion.correctOptionId || apiQuestion.correct_answer || apiQuestion.correctAnswer || apiQuestion.respuesta_correcta;
+  if (!correctOptionId && correctOptionIds.length > 0) {
+    correctOptionId = correctOptionIds[0];
+  }
   if (!correctOptionId) {
     const correctOpt = rawOptions.find((opt: any) => opt.isCorrect || opt.is_correct || opt.es_correcta);
     let id = correctOpt?.letter || correctOpt?.label || correctOpt?.letra || options[0]?.id || 'A';
@@ -142,8 +164,14 @@ export function transformQuestion(apiQuestion: any, grade: number, subject: stri
     modernContext: apiQuestion.modern_context || apiQuestion.modernContext || false,
     contextType: apiQuestion.context_type || apiQuestion.contextType || undefined,
     contextTags: apiQuestion.context_tags || apiQuestion.contextTags || [],
+    correctOptionIds: correctOptionIds.length ? correctOptionIds : undefined,
+    optionWeights: apiQuestion.optionWeights || apiQuestion.option_weights || undefined,
+    scoringMode: apiQuestion.scoringMode || apiQuestion.scoring_mode || undefined,
     topics: (apiQuestion.tema ? [apiQuestion.tema] : []).concat(apiQuestion.topics || apiQuestion.tags || []).filter(Boolean),
-    periodo: apiQuestion.periodo || undefined
+    period: apiQuestion.period || apiQuestion.periodo || undefined,
+    periodo: apiQuestion.periodo || apiQuestion.period || undefined,
+    cefr_level: apiQuestion.cefr_level || undefined,
+    protocol_version: apiQuestion.protocol_version || undefined
   };
 }
 
@@ -177,7 +205,7 @@ export async function fetchQuestionsFromPacks(grade: number, subject?: string): 
     const appQuestions: AppQuestion[] = packData.questions.map((q: any) => {
         const qSubject = normalizeSubjectKey(q.subject || packData.subject || subject || 'unknown');
         if (q.options?.length && !q.options[0].id) {
-            q.options = q.options.map((o: any, i: number) => ({ ...o, id: ['A','B','C','D'][i] || String(i) }));
+            q.options = q.options.map((o: any, i: number) => ({ ...o, id: ['A','B','C','D','E'][i] || String(i) }));
         }
         return transformQuestion(q, grade, qSubject);
     });
@@ -220,6 +248,10 @@ export async function fetchAllQuestionsForGrade(grade: number, isGuest: boolean 
   results.flat().forEach(q => { if (q?.id && !dedup.has(q.id)) dedup.set(q.id, q); });
   const final = Array.from(dedup.values());
   return final.sort(() => Math.random() - 0.5).slice(0, isGuest ? maxQuestions : Infinity);
+}
+
+export async function fetchQuestionsForGrade(grade: number, maxQuestions: number = 150): Promise<AppQuestion[]> {
+  return fetchAllQuestionsForGrade(grade, true, maxQuestions);
 }
 
 // English Diagnostic Functions

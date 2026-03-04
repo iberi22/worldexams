@@ -19,6 +19,12 @@ export interface Question {
   competency?: string; // 🆕 Competency evaluated (e.g., "Indagación", "Interpretation")
   topic?: string;      // 🆕 Specific topic (e.g., "Algebra", "Renacimiento")
   period?: number;     // 🆕 Period (1-4) from bundle frontmatter
+  video?: {
+    youtubeUrl?: string;
+    instagramUrl?: string;
+    tiktokUrl?: string;
+    status?: string;
+  };
   difficulty_discriminator?: number; // 🆕 IRT-like discriminator (optional future use)
   licenses?: {
     v1: string;      // "CC BY-SA 4.0" - Uso comercial permitido

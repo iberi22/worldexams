@@ -119,8 +119,11 @@ function parseMarkdownBundle(content, filePath) {
         const id = idMatch ? idMatch[1] : `${frontmatter.id}-v${idx+1}`;
 
         // Difficulty extraction from title: "Pregunta 7 (Difícil - Dificultad 5)"
-        const diffMatch = titleLine.match(/Dificultad\s+(\d)/i);
+        const diffMatch = titleLine.match(/Dificultad\s+(\d)/i) || titleLine.match(/Difficulty:\s+(\d)/i);
         const difficulty = diffMatch ? parseInt(diffMatch[1]) : (frontmatter.dificultad || 3);
+
+        const cefrMatch = titleLine.match(/CEFR:\s*([A-C][1-2]\+?)/i);
+        const cefrLevel = cefrMatch ? cefrMatch[1].toUpperCase() : (frontmatter.cefr_level || frontmatter.cefrLevel || undefined);
 
         // --- Extract QUESTION-SPECIFIC CONTEXT ---
         const contextMatch = section.match(/###\s*(?:Contexto|Context)\s*\n([\s\S]*?)(?=###\s*(?:Enunciado|Question|Opciones|Options))/i);
@@ -140,19 +143,30 @@ function parseMarkdownBundle(content, filePath) {
 
         // --- Extract OPTIONS ---
         const options = [];
-        const optionsRegex = /- \[(x| )\] ([A-D])\) (.+)/g;
+        const optionsRegex = /- \[(x|X| )\]\s*([A-E])\)\s*(.+?)(?:\s*<!--\s*weight:\s*([0-9]*\.?[0-9]+)\s*-->)?\s*$/gm;
         let match;
         while ((match = optionsRegex.exec(section)) !== null) {
+            const explicitWeight = match[4] !== undefined ? Number(match[4]) : undefined;
+            const isCorrect = String(match[1]).toLowerCase() === 'x';
             options.push({
                 id: match[2],
                 text: match[3].trim(),
-                isCorrect: match[1] === 'x'
+                isCorrect,
+                weight: Number.isFinite(explicitWeight)
+                    ? explicitWeight
+                    : (isCorrect ? 1 : 0)
             });
         }
 
         // Only valid questions (must have statement + options)
         if (options.length >= 2 && statement) {
              const normalizedSubject = normalizeSubject(frontmatter.asignatura || inferSubjectFromPath(filePath) || 'general');
+             const correctOptionIds = options.filter(o => o.isCorrect).map(o => o.id);
+             const optionWeights = Object.fromEntries(options.map(o => [o.id, o.weight ?? (o.isCorrect ? 1 : 0)]));
+             const scoringMode = Object.values(optionWeights).some((w) => ![0, 1].includes(Number(w)))
+                ? 'weighted'
+                : (correctOptionIds.length > 1 ? 'multiple' : 'single');
+
              questions.push({
                 id: id,
                 statement: statement,        // Clean text only
@@ -164,12 +178,16 @@ function parseMarkdownBundle(content, filePath) {
                 periodo: frontmatter.periodo || undefined,
                 competency: frontmatter.competencia || 'General',
                 options: options,
-                correctOptionId: options.find(o => o.isCorrect)?.id,
+                correctOptionId: correctOptionIds[0],
+                correctOptionIds,
+                optionWeights,
+                scoringMode,
                 bundleId: frontmatter.id,
                 bundle_id: frontmatter.id,
-                bundle_id: frontmatter.id,
                 explanation: explanation,
-                context: [globalContext, specificContext].filter(Boolean).join('\n\n') || undefined // 🆕 Added context field
+                context: [globalContext, specificContext].filter(Boolean).join('\n\n') || undefined, // 🆕 Added context field
+                cefr_level: cefrLevel,
+                protocol_version: frontmatter.protocol_version || '1.0'
              });
         }
     });

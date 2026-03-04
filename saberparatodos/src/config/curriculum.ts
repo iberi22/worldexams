@@ -94,6 +94,12 @@ const G9_SOC = [
     { id: 3, name: "Periodo 3: Colombia Contemporánea", topics: ["colombia siglo xx", "violencia", "conflicto armado", "dictaduras", "demografia"] },
     { id: 4, name: "Periodo 4: Ciudadanía y DDHH", topics: ["derechos humanos", "participacion ciudadana", "medio ambiente", "organismos internacionales"] }
 ];
+const G9_ENG = [
+    { id: 1, name: "Periodo 1: Personal Life & Routines (ICFES P1 & P2)", topics: ["present simple", "past simple review", "adverbs of frequency", "vocabulary: routines, places", "pragmatic matching", "lexical knowledge"] },
+    { id: 2, name: "Periodo 2: Future Plans & Ambitions (ICFES P3)", topics: ["future with will", "future with going to", "vocabulary: professions, dreams", "short conversations", "communicative intent"] },
+    { id: 3, name: "Periodo 3: Environment & Society (ICFES P4 & P5)", topics: ["prepositional phrases", "adverbial phrases of place and time", "vocabulary: environment, society", "literal reading comprehension", "grammatical cloze"] },
+    { id: 4, name: "Periodo 4: History & Culture (ICFES P6 & P7)", topics: ["past continuous", "comparatives and superlatives", "vocabulary: ancient history, landmarks", "inferential reading", "lexico-grammatical texts"] }
+];
 
 // --- GRADE 11 ---
 const G11_MATH = [
@@ -119,6 +125,19 @@ const G11_SOC = [
     { id: 2, name: "Periodo 2: Geografía y Economía", topics: ["geografia", "economia", "globalizacion", "desarrollo", "poblacion", "demografia", "apertura economica"] },
     { id: 3, name: "Periodo 3: Constitución y Ciudadanía", topics: ["constitucion", "derechos", "deberes", "participacion", "democracia", "mecanismos", "tutela"] },
     { id: 4, name: "Periodo 4: Problemáticas Contemporáneas", topics: ["ambiente", "genero", "discriminacion", "cultura", "actualidad", "diversidad"] }
+];
+const G11_ENG = [
+    { id: 1, name: "Periodo 1: Advanced Lexical & Pragmatic (ICFES P1, P2 & P3)", topics: ["phrasal verbs", "collocations", "idioms", "advanced pragmatic matching", "complex conversations", "register and tone"] },
+    { id: 2, name: "Periodo 2: Complex Grammar (ICFES P4 & P7)", topics: ["passive voice", "reported speech", "conditionals (1,2,3,mixed)", "relative clauses", "advanced grammatical cloze"] },
+    { id: 3, name: "Periodo 3: Academic Reading (ICFES P5 & P6)", topics: ["argumentative texts", "scientific texts", "literal comprehension", "inferring meaning from context", "identifying author's purpose"] },
+    { id: 4, name: "Periodo 4: Full Saber 11 Integración", topics: ["saber 11 mock test", "time management", "parts 1 to 7 integration", "test-taking strategies"] }
+];
+
+const G10_ENG = [
+    { id: 1, name: "Periodo 1: Experiences & Achievements (ICFES P1-P3)", topics: ["present perfect", "past perfect", "vocabulary: travel, achievements", "lexical matching", "pragmatic signs"] },
+    { id: 2, name: "Periodo 2: Hypothetical Situations (ICFES P4)", topics: ["first and second conditional", "modal verbs of probability", "vocabulary: global issues", "grammatical cloze"] },
+    { id: 3, name: "Periodo 3: Opinions & Debates (ICFES P5-P6)", topics: ["connectors of contrast and addition", "expressing opinion", "reading comprehension literal", "reading comprehension inferential"] },
+    { id: 4, name: "Periodo 4: Media & Technology (ICFES P7)", topics: ["passive voice (present/past)", "vocabulary: technology, media", "lexico-grammatical paragraphs", "identifying main ideas"] }
 ];
 
 // --- MAPPING ---
@@ -163,13 +182,13 @@ export const CURRICULUM_CO: CountryCurriculum = {
     3: makeMap(G3_MATH, G3_SCI, G3_SOC, [{id:1,name:"P1",topics:["comprension"]},{id:2,name:"P2",topics:["gramatica"]},{id:3,name:"P3",topics:["cuento"]},{id:4,name:"P4",topics:["vocabulario"]}], G3_ENG, null),
     5: makeMap(G5_MATH, G5_SCI, [{id:1,name:"P1",topics:["estado"]},{id:2,name:"P2",topics:["democracia"]},{id:3,name:"P3",topics:["colombia"]},{id:4,name:"P4",topics:["ciudadania"]}], [{id:1,name:"P1",topics:["narrativo"]},{id:2,name:"P2",topics:["gramatica"]},{id:3,name:"P3",topics:["ortografia"]},{id:4,name:"P4",topics:["comprension"]}], null, null),
     7: makeMap(G7_MATH, G7_SCI, null, [{id:1,name:"P1",topics:["narrativo"]},{id:2,name:"P2",topics:["argumentativo"]},{id:3,name:"P3",topics:["ortografia"]},{id:4,name:"P4",topics:["comprension"]}], null, null),
-    9: makeMap(G9_MATH, G9_SCI, G9_SOC, [{id:1,name:"P1",topics:["argumentacion"]},{id:2,name:"P2",topics:["opinion"]},{id:3,name:"P3",topics:["literatura"]},{id:4,name:"P4",topics:["critica"]}], null, null),
+    9: makeMap(G9_MATH, G9_SCI, G9_SOC, [{id:1,name:"P1",topics:["argumentacion"]},{id:2,name:"P2",topics:["opinion"]},{id:3,name:"P3",topics:["literatura"]},{id:4,name:"P4",topics:["critica"]}], G9_ENG, null),
     10: makeMap(
         [{id:1,name:"P1: Trigonometría",topics:["trigonometria","seno","coseno"]},{id:2,name:"P2: Funciones",topics:["funciones","conicas"]},{id:3,name:"P3: Introducción Cálculo",topics:["limites"]},{id:4,name:"P4: Estadística",topics:["estadistica"]}],
         [{id:1,name:"P1: Física Mécánica",topics:["fisica","cinematica","dinamica","newton"]},{id:2,name:"P2: Química Inorgánica",topics:["quimica","reacciones","balanceo","nomenclatura"]},{id:3,name:"P3: Biología/Ecología",topics:["ecosistemas","metabolismo"]},{id:4,name:"P4: Investigación",topics:["proyecto"]}],
         [{id:1,name:"P1: Política",topics:["poder","gobierno"]},{id:2,name:"P2: Economía",topics:["economia","desarrollo"]},{id:3,name:"P3: Conflicto",topics:["conflicto armado","ddhh"]},{id:4,name:"P4: Globalización",topics:["internacional","geopolitica"]}],
         G11_HUM, // Reuse grade 11 Reading for 10
-        null, null
+        G10_ENG, null
     ),
-    11: makeMap(G11_MATH, G11_SCI, G11_SOC, G11_HUM, null, null)
+    11: makeMap(G11_MATH, G11_SCI, G11_SOC, G11_HUM, G11_ENG, null)
 };

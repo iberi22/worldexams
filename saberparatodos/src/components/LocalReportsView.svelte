@@ -5,7 +5,8 @@
   import { fade, slide } from 'svelte/transition';
   import MathRenderer from './MathRenderer.svelte';
   import AdBlock from './AdBlock.svelte';
-  import { fetchBulkQuestions, fetchQuestions, type AppQuestion } from '../lib/api-service';
+  import type { AppQuestion } from '../lib/api-service';
+  import { defaultQuestionRepository, findQuestionById } from '../lib/questions';
   import ReportModal from './ReportModal.svelte';
   import RadarChart from './RadarChart.svelte'; // 🆕
 
@@ -162,132 +163,15 @@
     }
 
     try {
-      // Use fetchBulkQuestions which handles the correct URL and caching
-      const questions = await fetchBulkQuestions([3, 5, 6, 7, 8, 9, 10, 11], 500);
-      console.log(`🔍 Searching for question: ${qid} in ${questions.length} questions`);
-
-      // Search by ID (exact or bundle match) - case insensitive
-      const qidLower = qid.toLowerCase();
-      const bundleId = qid.replace(/-v\d+$/i, '').toLowerCase();
-
-      const found = questions.find((q: AppQuestion) => {
-        const id = q.id.toLowerCase();
-        const bundle = (q.bundleId || '').toLowerCase();
-        return id === qidLower ||
-               id === bundleId ||
-               bundle === bundleId ||
-               id.startsWith(bundleId) ||
-               bundle.startsWith(bundleId);
+      selectedQuestionData = await findQuestionById({
+        questionId: qid,
+        repository: defaultQuestionRepository,
+        getKnownQuestion
       });
 
-      if (found) {
-        console.log(`✅ Found question:`, found.id);
-        console.log(`📦 Question data:`, {
-          id: found.id,
-          text: found.text?.substring(0, 50) + '...',
-          hasOptions: !!found.options,
-          optionsCount: found.options?.length,
-          hasCategory: !!found.category,
-          hasExplanation: !!found.explanation
-        });
-        selectedQuestionData = found;
-        console.log(`✅ selectedQuestionData set to:`, selectedQuestionData?.id);
-      } else {
-        // 🆕 Fallback: Try to fetch specific subject pack by parsing ID
-        console.warn(`❌ Question not in bulk cache. Attempting targeted fetch for: ${qid}`);
-
-        const parts = qid.split('-');
-        // CO-LEC-6-MITOS-001 or JUST ID like 123
-        if (parts.length >= 3) {
-          const subjectCode = parts[1]; // LEC, CIE, BIO, etc.
-          const gradeStr = parts[2];     // 6, 11, etc.
-          const grade = parseInt(gradeStr) || 11;
-
-          const subjectMap: Record<string, string> = {
-            'LEC': 'lectura_critica',
-            'MAT': 'matematicas',
-            'CNAT': 'ciencias_naturales',
-            'SOC': 'sociales_y_ciudadanas',
-            'ING': 'ingles',
-            'FIL': 'filosofia',
-            'FIS': 'ciencias_naturales', // FIS and QUI map to CNAT in folder structure
-            'QUI': 'ciencias_naturales',
-            'BIO': 'ciencias_naturales',
-            'CIE': 'ciencias_naturales',
-            'NAT': 'ciencias_naturales',
-            'LEN': 'lenguaje',
-            'TECN': 'tecnologia_informatica'
-          };
-
-          const subject = subjectMap[subjectCode] || subjectCode.toLowerCase();
-
-          // Try the specific grade first
-          console.log(`🔍 Searching in grade ${grade}, subject: ${subject}`);
-          let specificQuestions = await fetchQuestions(grade, subject, 1);
-
-          // If not found and it's a science question, try ALL grades (questions may have moved)
-          if (specificQuestions.length === 0 && subject === 'ciencias_naturales') {
-            console.log(`🔄 Trying all grades for ciencias_naturales...`);
-            const allGrades = [3, 5, 6, 7, 8, 9, 10, 11];
-            for (const g of allGrades) {
-              if (g !== grade) {
-                const moreQuestions = await fetchQuestions(g, subject, 1);
-                specificQuestions = [...specificQuestions, ...moreQuestions];
-              }
-            }
-          }
-
-          // Extract just the base ID without variant (e.g., CO-CIE-11-fisica-002)
-          const baseId = qid.replace(/-v\d+$/i, '').toLowerCase();
-          const idParts = baseId.split('-');
-          const topicPart = idParts.length >= 4 ? idParts[3] : ''; // e.g., "fisica"
-
-          const foundSpecific = specificQuestions.find((q: AppQuestion) => {
-            const id = q.id.toLowerCase();
-            const bundle = (q.bundleId || '').toLowerCase();
-
-            // Exact match
-            if (id === qidLower || id === baseId || bundle === baseId) return true;
-
-            // Check if the bundle ID contains the topic (e.g., "fisica")
-            if (topicPart && (bundle.includes(topicPart) || id.includes(topicPart))) {
-              // Also check if it's the same subject code
-              if (bundle.includes(subjectCode.toLowerCase()) || id.includes(subjectCode.toLowerCase())) {
-                return true;
-              }
-            }
-
-            // Fuzzy match for common typos (e.g. celular vs celula)
-            const idBase = id.replace(/r$/, '');
-            const bundleIdBase = baseId.replace(/r$/, '');
-
-            return id.startsWith(baseId) ||
-                   bundle.startsWith(baseId) ||
-                   id.includes(bundleIdBase) ||
-                   bundle.includes(bundleIdBase);
-          });
-
-          if (foundSpecific) {
-             console.log(`✅ Found question in specific subject pack:`, foundSpecific.id);
-             selectedQuestionData = foundSpecific;
-          } else {
-             // 🆕 TRY PERMANENT CACHE (Last Resort for older questions)
-             console.log(`💾 Attempting to load from permanent cache (last resort)...`);
-             const cachedQ = await getKnownQuestion(qid);
-
-             if (cachedQ) {
-               console.log(`🧠 RESTORED FROM PERMANENT CACHE: ${cachedQ.id}`);
-               selectedQuestionData = cachedQ;
-             } else {
-               console.warn(`❌ Question truly not found: ${qid}`);
-               console.warn(`📋 Searched in subject: ${subject}, grades: ${grade} (and all grades for science)`);
-               console.warn(`💡 This question may be from an older weekly rotation that is no longer available.`);
-               console.warn(`🔄 New exams will save questions locally for permanent access.`);
-             }
-          }
-        } else {
-          console.warn(`❌ Cannot parse question ID format: ${qid}`);
-        }
+      if (!selectedQuestionData) {
+        console.warn(`❌ Question truly not found: ${qid}`);
+        console.warn('💡 This question may be from an older weekly rotation that is no longer available.');
       }
     } catch (err) {
       console.error('Error loading question:', err);

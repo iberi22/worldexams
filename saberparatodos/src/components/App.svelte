@@ -27,10 +27,18 @@
 
   import BlogView from './BlogView.svelte';
   import ArticleView from './ArticleView.svelte';
-  import { fetchAllQuestionsForGrade, getAvailableSubjects, fetchQuestions, fetchEnglishQuestionsAllGrades } from '../lib/api-service'; // Added fetchEnglishQuestionsAllGrades
+  import { fetchAllQuestionsForGrade, getAvailableSubjects, fetchEnglishQuestionsAllGrades } from '../lib/api-service';
   import { cacheService, generateRandomExam, getRecommendedExamSize } from '../lib/cache-service'; // Cache service
   import { filterByPlan } from '../utils/questionParser';
   import { generateSmartExam } from '../lib/smart-exam-service'; // Smart Service
+  import {
+    subjectsMatch,
+    sanitizeIncomingQuestions,
+    prepareSoloExamQuestions,
+    prepareRoomQuestions,
+    defaultQuestionRepository,
+    fetchQuestionsForGrade
+  } from '../lib/questions';
   import IntegrityIntro from './IntegrityIntro.svelte'; // New Component
   import { getPWAStatus, getRecommendedCacheSize, getCacheExpiryHours } from '../lib/pwa-detector'; // PWA Detection
   import packageInfo from '../../package.json';
@@ -44,27 +52,6 @@
   import PeriodTracker from './PeriodTracker.svelte';
   import PeriodTrackerModal from './PeriodTrackerModal.svelte';
   import { roomState } from '../modules/exam-room/stores/roomState.svelte.ts';
-
-  // Normalize subject name for comparison (removes accents, replaces separators)
-  function normalizeSubject(subject) {
-    if (!subject) return '';
-    return subject
-      .toUpperCase()
-      .normalize('NFD')
-      .replace(/[\u0300-\u036f]/g, '') // Remove accents
-      .replace(/[-_]/g, ' ')           // Replace hyphens/underscores with space
-      .trim();
-  }
-
-  // Check if two subjects match (handles different naming conventions)
-  function subjectsMatch(categorySubject, selectedSubject) {
-    if (!selectedSubject || selectedSubject === 'Simulacro Completo') return true;
-    const normalizedCategory = normalizeSubject(categorySubject.split(' :: ')[0]);
-    const normalizedSelected = normalizeSubject(selectedSubject);
-    return normalizedCategory === normalizedSelected ||
-           normalizedCategory.startsWith(normalizedSelected) ||
-           normalizedSelected.startsWith(normalizedCategory);
-  }
 
   let { questions = [], universalPool = null } = $props();
 
@@ -89,6 +76,10 @@
   let showSpeedChallengeSetup = $state(false); // Controls Speed Challenge Setup visibility
   let showPeriodTrackerModal = $state(false); // 🆕 Controls Period Tracker Modal visibility
   let periodTrackerData = $state(null); // 🆕 Data passed to the modal
+
+  // Adaptive Testing State
+  let isAdaptiveMode = $state(false);
+  let adaptivePool = $state([]);
 
   // Exam Room Mode State
   let roomCode = $state('');
@@ -286,7 +277,7 @@
 
       // 🆕 Use synced questions from Modal (Host or Guest)
       if (config.questions && config.questions.length > 0) {
-          generatedExamQuestions = config.questions;
+          generatedExamQuestions = sanitizeIncomingQuestions(config.questions);
           console.log('📦 Using synced questions:', generatedExamQuestions.length);
       }
 
@@ -325,223 +316,52 @@
          try {
              await minTimePromise;
          } catch (e) { /* ignore */ }
-         generatedExamQuestions = config.questions;
+         generatedExamQuestions = sanitizeIncomingQuestions(config.questions);
          isPreparingExam = false;
          return;
     }
 
     try {
-      console.log(`🤖 Starting Exam Generation (Count: ${config.count}, Diagnostic: ${config.useDiagnostic})...`);
-
-      // 1️⃣ Load questions for current grade (Base)
-      // 🆕 Skip ENTIRELY if English Diagnostic mode (grade=0) - questions already loaded
-      if (selectedGrade === 0) {
-         console.log(`🇬🇧 English Diagnostic mode: Using ${loadedQuestions.length} pre-loaded English questions`);
-         // Do NOT load any additional questions - use the pre-loaded English pool directly
-      } else if (loadedQuestions.length === 0 || selectedGrade) {
-         await loadQuestionsForExam(selectedGrade || 11, selectedSubject);
-      }
-
-       // 2️⃣ If Diagnostic Mode (NOT English Diagnostic): Load questions from lower grades
-      // 🆕 Skip this for English Diagnostic (grade=0) since we already have cross-grade questions
-      if (config.useDiagnostic && selectedGrade > 3) {
-         console.log('🩺 Diagnostic Mode Active: Fetching foundational questions...');
-         const diagnosticGrades = [3, 5, 7, 9].filter(g => g < selectedGrade);
-         try {
-           const { fetchBulkQuestions } = await import('../lib/api-service');
-           const diagQuestions = await fetchBulkQuestions(diagnosticGrades, 50);
-
-           if (diagQuestions.length > 0) {
-              const currentIds = new Set(loadedQuestions.map(q => q.id));
-              const newDiag = diagQuestions.filter(q => !currentIds.has(q.id));
-              loadedQuestions = [...loadedQuestions, ...newDiag];
-           }
-         } catch (e) {
-            console.error('Error fetching diagnostic questions:', e);
-         }
-      }
-
-      // 3️⃣ Generate random exam from cached pool (NO API CALLS)
-      // Filter logic needs to be aware of Diagnostic Mode AND English Diagnostic (grade=0)
-      const availableQuestions = loadedQuestions.filter(q => {
-        if (!q) return false;
-
-        // 🆕 English Diagnostic Mode (grade=0): Use ALL loaded questions (already English-only)
-        if (selectedGrade === 0) {
-          return true; // All questions are valid - they were pre-filtered when loading
-        }
-
-        const subjectMatch = subjectsMatch(q.category, selectedSubject);
-        if (!subjectMatch) return false;
-        if (config.examMode === 'period' && config.period) {
-             // 🆕 Filter by Period (Strict match on 'periodo' property)
-             // If question doesn't have 'periodo', it's excluded from specific period exams
-             if (q.periodo !== undefined && q.periodo !== null) {
-                 if (Number(q.periodo) !== Number(config.period)) return false;
-             } else {
-                 // ⚠️ Fallback: If no period property, exclude it from period specific mode
-                 // unless we implement topic matching here too.
-                 // For now, strict 'periodo' is safer to ensure alignment.
-                 return false;
-             }
-        }
-
-        if (config.useDiagnostic) {
-           return q.grade === selectedGrade || (q.grade < selectedGrade && [3,5,7,9].includes(q.grade));
-        } else {
-           return selectedGrade ? q.grade === selectedGrade : true;
-        }
-      });
-
-      console.log(`📊 Available questions in pool for exam: ${availableQuestions.length}`);
-
-      // 🚨 FIX: Deep Search if insufficient questions
-      if (availableQuestions.length < config.count) {
-         console.warn(`⚠️ Insufficient questions (${availableQuestions.length}/${config.count}). Starting Deep Search...`);
-         const searchGrades = config.useDiagnostic && selectedGrade > 3
-             ? [selectedGrade, ...[3, 5, 7, 9].filter(g => g < selectedGrade)]
-             : [selectedGrade];
-
-         // 🆕 FIX: Normalize "Inglés Diagnóstico" to "ingles" for API calls
-         const searchSubject = selectedSubject?.toLowerCase().includes('diagnóstico')
-             ? 'ingles'
-             : selectedSubject;
-
-         const { fetchQuestions } = await import('../lib/api-service');
-         const promises = searchGrades.map(g => fetchQuestions(g, searchSubject, 1));
-         const results = await Promise.all(promises);
-
-         const currentIds = new Set(loadedQuestions.map(q => q.id));
-         results.forEach(questions => {
-            if (questions && questions.length > 0) {
-                const uniqueNew = questions.filter(q => !currentIds.has(q.id));
-                if (uniqueNew.length > 0) {
-                    loadedQuestions = [...loadedQuestions, ...uniqueNew];
-                    uniqueNew.forEach(q => currentIds.add(q.id));
-                }
-            }
-         });
-      }
-
-      // Re-evaluate available questions after Deep Search
-      const finalAvailableQuestions = loadedQuestions.filter(q => {
-         if (!q) return false;
-
-         // 🆕 English Diagnostic Mode (grade=0): Use ALL loaded questions
-         if (selectedGrade === 0) {
-           return true;
-         }
-
-         const subjectMatch = subjectsMatch(q.category, selectedSubject);
-         if (!subjectMatch) return false;
-         if (config.examMode === 'period' && config.period) {
-             if (q.periodo !== undefined && q.periodo !== null) {
-                 if (Number(q.periodo) !== Number(config.period)) return false;
-             } else {
-                 return false;
-             }
-         }
-         if (config.useDiagnostic) {
-            return q.grade === selectedGrade || (q.grade < selectedGrade && [3,5,7,9].includes(q.grade));
-         } else {
-            return selectedGrade ? q.grade === selectedGrade : true;
-         }
-      });
-
-      if (finalAvailableQuestions.length === 0) {
-         throw new Error("No hay preguntas disponibles para esta configuración.");
-      }
-
-      // 🔥 CRITICAL FIX: Validate questions BEFORE selecting the random subset
-      // This ensures we don't pick 15 questions and then drop 7 of them as invalid.
-      const validPool = finalAvailableQuestions.filter(q =>
-        q &&
-        Array.isArray(q.options) &&
-        q.options.length >= 2 && // ⚡ RELAXED: Allow True/False or 3-option questions
-        q.id &&
-        q.text &&
-        q.correctOptionId
+      const effectiveGrade = selectedGrade ?? 11;
+      const result = await prepareSoloExamQuestions(
+        {
+          grade: effectiveGrade,
+          subject: selectedSubject,
+          count: config.count,
+          useDiagnostic: Boolean(config.useDiagnostic),
+          diagnosticMixPercent: config.diagnosticMixPercent ?? 20,
+          examMode: config.examMode || 'simulacro',
+          period: config.period,
+          englishDiagnostic: selectedGrade === 0
+        },
+        {
+          repository: defaultQuestionRepository,
+          filterUnansweredQuestions
+        },
+        loadedQuestions
       );
 
-      if (validPool.length < finalAvailableQuestions.length) {
-         console.warn(`Original pool had ${finalAvailableQuestions.length}, filtered to ${validPool.length} valid questions.`);
-      }
-
-      // Optional controlled mix of lower grades. Applied only at exam creation time.
-      let selectionPool = validPool;
-      if (config.useDiagnostic && selectedGrade > 3) {
-        const mixPercentRaw = Number(config.diagnosticMixPercent ?? 20);
-        const mixPercent = Math.max(0, Math.min(100, isNaN(mixPercentRaw) ? 20 : mixPercentRaw));
-        const lowerGrades = [3, 5, 7, 9].filter(g => g < selectedGrade);
-
-        const currentGradePool = validPool.filter(q => q.grade === selectedGrade);
-        const lowerGradePool = validPool.filter(q => q.grade < selectedGrade && lowerGrades.includes(q.grade));
-
-        if (lowerGradePool.length > 0 && currentGradePool.length > 0) {
-          const oversample = 4;
-          const targetLower = Math.max(1, Math.round((config.count * mixPercent) / 100));
-          const targetCurrent = Math.max(1, config.count - targetLower);
-
-          const pick = (arr, n) => [...arr].sort(() => Math.random() - 0.5).slice(0, Math.min(arr.length, n));
-          const mixed = [
-            ...pick(currentGradePool, targetCurrent * oversample),
-            ...pick(lowerGradePool, targetLower * oversample)
-          ];
-
-          if (mixed.length > 0) {
-            selectionPool = mixed;
-            console.log(`🧪 Mixed pool enabled: ${mixPercent}% lower grades (${lowerGradePool.length} lower, ${currentGradePool.length} current).`);
-          }
-        }
-      }
-
-      const { filtered, hadToRepeat } = filterUnansweredQuestions(
-        selectionPool,
-        config.count
-      );
-
-      // 🔥 CRITICAL: Filter out questions with less than 2 valid options (relaxed from 4)
-      const validQuestions = filtered.filter(q =>
-        q &&
-        Array.isArray(q.options) &&
-        q.options.length >= 2 && // ⚡ RELAXED: Allow True/False or 3-option questions
-        q.id &&
-        q.text &&
-        q.correctOptionId
-      );
-
-      if (validQuestions.length < filtered.length) {
-        console.warn(`⚠️ Filtered out ${filtered.length - validQuestions.length} questions with < 2 options`);
-        // Debug first 3 invalid questions
-        const invalid = filtered.filter(q => !validQuestions.includes(q));
-        console.log('❌ Invalid questions sample:', invalid.slice(0, 3).map(q => ({
-            id: q.id,
-            text: q.text?.substring(0, 30),
-            optionsCount: q.options?.length,
-            sections: q.options ? 'Array found' : 'No options array'
-        })));
-      }
-
-      if (validQuestions.length === 0) {
-        throw new Error("No se encontraron preguntas válidas con al menos 2 opciones.");
-      }
-
-      const examQuestions = validQuestions;
-
+      loadedQuestions = result.pool;
       await minTimePromise;
 
-      if (examQuestions && examQuestions.length > 0) {
-        generatedExamQuestions = examQuestions;
-        console.log(`✅ Exam generated with ${examQuestions.length} valid questions`);
-        console.log('🔍 First question check:', {
-          id: examQuestions[0].id,
-          optionsCount: examQuestions[0].options?.length,
-          hasCorrectId: !!examQuestions[0].correctOptionId
-        });
-        isPreparingExam = false;
-      } else {
-        throw new Error("Error generando el examen. Intenta de nuevo.");
+      generatedExamQuestions = result.selectedQuestions;
+      if (result.warnings.length > 0) {
+        console.warn('Exam generation warnings:', result.warnings);
       }
+
+      // Check for adaptive mode
+      const isEnglish = selectedSubject && subjectsMatch(selectedSubject, 'ingles');
+      const limitExceeded = config.count > 10;
+      isAdaptiveMode = isEnglish && limitExceeded && (config.examMode === 'simulacro' || !config.examMode);
+      if (isAdaptiveMode) {
+        console.log('🧠 Adaptive Mode Activated!');
+        // Provide the entire filtered pool to the adaptive engine
+        adaptivePool = result.pool;
+      } else {
+        adaptivePool = [];
+      }
+
+      isPreparingExam = false;
     } catch (error) {
       console.error('Error generating exam:', error);
       alert(error.message);
@@ -610,10 +430,25 @@
           console.log('🚀 Iniciando sala con preguntas sincronizadas:', generatedExamQuestions.length);
       } else {
           console.log('⚠️ No hay preguntas sincronizadas, usando fallback...');
-          // Fallback logic (only if no questions in config)
-          const availableQuestions = loadedQuestions.filter(q => subjectsMatch(q.category, selectedSubject) && q.grade === selectedGrade);
-          const { filtered } = filterUnansweredQuestions(availableQuestions, examConfig.count);
-          generatedExamQuestions = filtered;
+          const roomResult = await prepareRoomQuestions(
+            {
+              grade: selectedGrade || 11,
+              subject: selectedSubject,
+              count: examConfig.count,
+              useDiagnostic: Boolean(examConfig.useDiagnostic),
+              diagnosticMixPercent: examConfig.diagnosticMixPercent ?? 20,
+              examMode: examConfig.examMode || 'simulacro',
+              period: examConfig.period,
+              englishDiagnostic: selectedGrade === 0
+            },
+            {
+              repository: defaultQuestionRepository,
+              filterUnansweredQuestions
+            },
+            loadedQuestions
+          );
+          loadedQuestions = roomResult.pool;
+          generatedExamQuestions = roomResult.selectedQuestions;
           console.log('📦 Preguntas de fallback generadas:', generatedExamQuestions.length);
       }
 
@@ -690,7 +525,7 @@
     try {
       const questions = await fetchAllQuestionsForGrade(grade, true, 150);
       loadedQuestions = questions;
-      availableSubjects = getAvailableSubjects(questions);
+      availableSubjects = await getAvailableSubjects(grade);
       // ⚡ UNIFICATION: Skip SubjectSelector, go straight to Exam Config
       // Default to null subject (Simulacro Completo) unless they pick specific in modal
       selectedSubject = null;
@@ -1347,18 +1182,15 @@
                 // Load only grade 11 by default (1 small request instead of 1 large request with all grades)
                 if (loadedQuestions.length === 0) {
                   console.log('📚 Loading questions for Blog view using grade-specific endpoint...');
-
-                  // Import grade-specific function
-                  const { fetchQuestionsForGrade, prefetchAllGrades } = await import('../lib/api-service');
-
                   // Single request for grade 11 only (default for ICFES)
                   loadedQuestions = await fetchQuestionsForGrade(11, 150);
 
                   console.log(`✅ Loaded ${loadedQuestions.length} questions for grade 11`);
                   console.log(`📊 Performance: ~40KB instead of ~150KB (73% smaller)`);
 
-                  // 🆕 Pre-fetch all other grades in background for instant switching
-                  prefetchAllGrades(150).catch(e => console.warn('Background prefetch error:', e));
+                  // Pre-fetch all other grades in background for instant switching
+                  const { fetchBulkQuestions } = await import('../lib/api-service');
+                  fetchBulkQuestions([3, 5, 6, 7, 8, 9, 10], 150).catch(e => console.warn('Background prefetch error:', e));
                 }
                 setView(AppView.BLOG);
               } finally {
@@ -1465,13 +1297,6 @@
         />
       </div>
       -->
-    {:else if view === AppView.ROOM_LOBBY}
-      <div in:fly={{ x: 50, duration: 500 }} out:fade={{ duration: 200 }}>
-        <ExamRoomLobby
-          onStartGame={handleRoomStart}
-          onBack={() => setView(AppView.SUBJECT_SELECTION)}
-        />
-      </div>
     {:else if view === AppView.EXAM}
       <div in:fly={{ x: 50, duration: 500 }} out:fade={{ duration: 200 }}>
         <ExamView
@@ -1486,6 +1311,8 @@
           timeLimitSeconds={examConfig?.timeLimitSeconds}
           startedAt={examConfig?.startedAt}
           totalQuestions={examConfig?.count || 0}
+          isAdaptiveMode={isAdaptiveMode}
+          adaptivePool={adaptivePool}
         />
       </div>
     {:else if view === AppView.LEADERBOARD}
@@ -1516,7 +1343,7 @@
           initialSubjectFilter={blogSubjectFilter}
           isLoading={isNavigatingToBlog}
           onGradeChange={async (grade) => {
-            const { fetchQuestionsForGrade, fetchBulkQuestions } = await import('../lib/api-service');
+            const { fetchBulkQuestions } = await import('../lib/api-service');
 
             // 🆕 Always show spinner for feedback (prevents "blocked" feel)
             isNavigatingToBlog = true;

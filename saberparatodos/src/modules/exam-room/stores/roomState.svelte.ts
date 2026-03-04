@@ -19,7 +19,8 @@ import type {
   SubscriptionPlan,
 } from '../types';
 import { PLAN_LIMITS } from '../types';
-import { fetchAllQuestionsForGrade, fetchBulkQuestions, type AppQuestion } from '../../../lib/api-service';
+import type { AppQuestion } from '../../../lib/api-service';
+import { defaultQuestionRepository, prepareStopModeQuestions } from '../../../lib/questions';
 
 class RoomState {
   // State primitivo
@@ -131,29 +132,18 @@ class RoomState {
       // --- STOP MODE LOGIC ---
       try {
           console.log('[Room] Fetching questions for Stop Mode from Weekly Pack...');
-          // Fetch from Weekly Pack (fetchBulkQuestions hits current.json rotating pack)
-          let pool = await fetchBulkQuestions([11], 300);
+          const selected = await prepareStopModeQuestions({
+            repository: defaultQuestionRepository,
+            totalQuestions: this.config.totalQuestions,
+            includeEnglish: Boolean(this.config.stopConfig.includeEnglish),
+            difficulty: this.config.stopConfig.difficulty
+          });
 
-          // 1. Filter English
-          if (!this.config.stopConfig.includeEnglish) {
-            pool = pool.filter(q => !q.category.toLowerCase().includes('inglés') && !q.category.toLowerCase().includes('ingles'));
-          }
-
-          // 2. Filter Difficulty
-          const diffMap: Record<string, number[]> = {
-            'easy': [1, 2],
-            'medium': [3],
-            'hard': [4, 5]
-          };
-          const allowedDiff = diffMap[this.config.stopConfig.difficulty] || [1, 2, 3, 4, 5];
-          pool = pool.filter(q => allowedDiff.includes(q.difficulty));
-
-          // 3. Shuffle & Slice
-          if (pool.length > 0) {
-              this.questions = pool.sort(() => Math.random() - 0.5).slice(0, this.config.totalQuestions);
-              console.log(`[Room] Generated ${this.questions.length} questions for Stop Mode`);
+          if (selected.length > 0) {
+            this.questions = selected;
+            console.log(`[Room] Generated ${this.questions.length} questions for Stop Mode`);
           } else {
-              throw new Error('No questions found in pool');
+            throw new Error('No questions found in pool');
           }
       } catch (err) {
           console.error('[Room] Error fetching questions for Stop Mode, using placeholders:', err);

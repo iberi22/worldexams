@@ -2,8 +2,10 @@
   import { onMount } from 'svelte';
   import ScoreDisplay from './ScoreDisplay.svelte';
   import AdBanner from './AdBanner.svelte';
+  import MathRenderer from './MathRenderer.svelte';
   import { supabase } from '../lib/supabase';
   import { calculateExamScore, type ExamResult } from '../lib/scoring';
+  import { loadVideoManifest, type VideoManifestEntry } from '../lib/video-manifest';
 
   export let token: string;
 
@@ -43,6 +45,7 @@
   let questions: ReportQuestion[] = [];
 
   let examScore: any = null;
+  let videoByQuestionId: Record<string, { availability: 'available' | 'pending' | 'missing'; entry?: VideoManifestEntry }> = {};
 
   function computeScore() {
     if (!session) return;
@@ -82,12 +85,48 @@
       questions = (data.questions || []) as ReportQuestion[];
 
       computeScore();
+      await hydrateVideoMetadata();
     } catch (e: any) {
       error = e?.message || 'No se pudo cargar el informe.';
     } finally {
       loading = false;
     }
   });
+
+  function normalizeQuestionId(questionId: string): string {
+    return String(questionId || '').trim().toLowerCase();
+  }
+
+  function getVideoForQuestion(questionId: string): { availability: 'available' | 'pending' | 'missing'; entry?: VideoManifestEntry } {
+    const key = normalizeQuestionId(questionId);
+    return videoByQuestionId[key] || { availability: 'missing' };
+  }
+
+  function getYouTubeEmbedUrl(entry?: VideoManifestEntry): string | null {
+    if (!entry) return null;
+    const id = entry.shorts_youtube_id || entry.youtube_id;
+    if (id) return `https://www.youtube.com/embed/${id}`;
+    return null;
+  }
+
+  async function hydrateVideoMetadata() {
+    const manifest = await loadVideoManifest();
+    const map: Record<string, { availability: 'available' | 'pending' | 'missing'; entry?: VideoManifestEntry }> = {};
+
+    for (const q of questions || []) {
+      const key = normalizeQuestionId(q.id);
+      if (!key) continue;
+      const entry = manifest.get(key);
+      const hasVideo = !!(entry?.shorts_youtube_id || entry?.youtube_id || entry?.youtube_url);
+      const status = String(entry?.status || '').toLowerCase();
+      map[key] = {
+        availability: hasVideo ? 'available' : (status.includes('pending') || status.includes('generat') ? 'pending' : 'missing'),
+        entry
+      };
+    }
+
+    videoByQuestionId = map;
+  }
 
   function correctCount() {
     if (!session?.answers) return 0;
@@ -135,6 +174,7 @@
         {#each questions as q, idx}
           {@const a = session?.answers?.find((x) => x.question_id === q.id)}
           {@const ok = a?.is_correct}
+          {@const videoMeta = getVideoForQuestion(q.id)}
           <div class={`p-4 rounded-xl border bg-white/5 ${ok ? 'border-emerald-500/20' : 'border-red-500/20'}`}>
             <div class="flex items-center justify-between mb-2">
               <span class="text-xs uppercase tracking-widest text-white/50">Pregunta {idx + 1}</span>
@@ -143,7 +183,39 @@
               </span>
             </div>
 
-            <p class="text-white/90 text-sm leading-relaxed">{q.enunciado}</p>
+            <div class="text-white/90 text-sm leading-relaxed"><MathRenderer content={q.enunciado} /></div>
+
+            {#if q.explicacion}
+              <div class="mt-3 p-3 rounded-lg border border-white/10 bg-black/20">
+                <span class="block text-[10px] uppercase tracking-widest text-white/50 mb-2">Explicación</span>
+                <div class="text-xs sm:text-sm text-white/85 leading-relaxed">
+                  <MathRenderer content={q.explicacion} />
+                </div>
+              </div>
+            {/if}
+
+            {#if videoMeta.availability === 'available'}
+              {@const embedUrl = getYouTubeEmbedUrl(videoMeta.entry)}
+              {#if embedUrl}
+                <div class="mt-3 space-y-2">
+                  <span class="block text-[10px] uppercase tracking-widest text-white/50">Explicación en video</span>
+                  <div class="relative w-full aspect-video rounded-lg overflow-hidden border border-white/10 bg-black">
+                    <iframe
+                      src={embedUrl}
+                      class="absolute inset-0 w-full h-full"
+                      title={`Explicación ${q.id}`}
+                      loading="lazy"
+                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                      allowfullscreen
+                    ></iframe>
+                  </div>
+                </div>
+              {/if}
+            {:else if videoMeta.availability === 'pending'}
+              <div class="mt-3 p-3 rounded-lg border border-amber-500/25 bg-amber-500/10 text-amber-200 text-xs">
+                Video en generación para esta pregunta.
+              </div>
+            {/if}
           </div>
         {/each}
       </div>
