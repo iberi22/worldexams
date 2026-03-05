@@ -5,7 +5,6 @@
  * 🆕 Now supports Rotating Packs system for anti-scraping protection
  */
 
-import { supabase } from './supabase';
 import {
   getQuestionPool
 } from './pack-storage';
@@ -26,8 +25,7 @@ import {
   generateStudyPlan
 } from './notebooklm/curriculum-service';
 
-const IS_DEV_MODE = typeof window !== 'undefined' &&
-  (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1');
+
 
 export interface APIQuestion {
   id: string;

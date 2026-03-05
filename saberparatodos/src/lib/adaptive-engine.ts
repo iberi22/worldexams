@@ -38,11 +38,34 @@ export function getNextAdaptiveQuestion(
   const finalConfig = { ...DEFAULT_CONFIG, ...config };
 
   // Filter out already used questions
-  const availablePool = pool.filter(q => !usedQuestionIds.has(q.id));
+  let availablePool = pool.filter(q => !usedQuestionIds.has(q.id));
 
   if (availablePool.length === 0) {
     return null; // No more questions available
   }
+
+  // --- 🆕 3-Strike Protocol Logic ---
+  // If the user fails the first 3 questions (calibration-like phase),
+  // we shift them away from the "New Protocol" (v4+) to traditional content.
+  const isProtocolV4 = (q: AppQuestion) => q.protocol_version?.startsWith('4') || false;
+
+  const firstThreeResults = answeredResults.slice(0, 3);
+  const hasThreeStrikes = firstThreeResults.length >= 3 && firstThreeResults.every(r => !r.isCorrect);
+
+  if (hasThreeStrikes) {
+    // 🛑 Strike Out: Exclude New Protocol questions
+    const traditionalOnly = availablePool.filter(q => !isProtocolV4(q));
+    if (traditionalOnly.length > 0) {
+      availablePool = traditionalOnly;
+    }
+  } else {
+    // 🌟 Normal/Initial: Prioritize New Protocol questions if available
+    const protocolOnly = availablePool.filter(q => isProtocolV4(q));
+    if (protocolOnly.length > 0) {
+      availablePool = protocolOnly;
+    }
+  }
+  // ----------------------------------
 
   // Phase 1: Calibration (Not enough data to adapt accurately yet)
   if (answeredResults.length < finalConfig.calibrationQuestions) {

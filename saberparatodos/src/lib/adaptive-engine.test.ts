@@ -8,7 +8,7 @@ describe('Adaptive Testing Engine', () => {
   // Mock a diverse question pool (A1 to C1)
   const mockPool: AppQuestion[] = [
     { id: 'q1', text: 'A1-Easy', cefr_level: 'A1', difficulty: 2, options: [], correctOptionId: 'A', category: 'ingles', grade: 11 },
-    { id: 'q2', text: 'A2-Medium', cefr_level: 'A2', difficulty: 4, options: [], correctOptionId: 'A', category: 'ingles', grade: 11 },
+    { id: 'q2', text: 'A2-Medium', cefr_level: 'A2', difficulty: 5, options: [], correctOptionId: 'A', category: 'ingles', grade: 11 },
     { id: 'q3', text: 'B1-Medium', cefr_level: 'B1', difficulty: 6, options: [], correctOptionId: 'A', category: 'ingles', grade: 11 },
     { id: 'q4', text: 'B2-Hard', cefr_level: 'B2', difficulty: 8, options: [], correctOptionId: 'A', category: 'ingles', grade: 11 },
     { id: 'q5', text: 'C1-Expert', cefr_level: 'C1', difficulty: 10, options: [], correctOptionId: 'A', category: 'ingles', grade: 11 },
@@ -58,5 +58,41 @@ describe('Adaptive Testing Engine', () => {
     const usedIds = new Set<string>(mockPool.map(q => q.id));
     const nextQ = getNextAdaptiveQuestion(mockPool, [], usedIds);
     expect(nextQ).toBeNull();
+  });
+
+  describe('3-Strike Protocol Logic', () => {
+    const protocolPool: AppQuestion[] = [
+      { id: 'v4-1', text: 'V4 Question 1', protocol_version: '4.0', options: [], correctOptionId: 'A', category: 'ingles', grade: 11, difficulty: 3 },
+      { id: 'v4-2', text: 'V4 Question 2', protocol_version: '4.0', options: [], correctOptionId: 'A', category: 'ingles', grade: 11, difficulty: 3 },
+      { id: 'trad-1', text: 'Traditional 1', options: [], correctOptionId: 'A', category: 'ingles', grade: 11, difficulty: 3 },
+      { id: 'trad-2', text: 'Traditional 2', options: [], correctOptionId: 'A', category: 'ingles', grade: 11, difficulty: 3 },
+    ];
+
+    it('should prioritize Protocol v4 questions on start', () => {
+      const nextQ = getNextAdaptiveQuestion(protocolPool, [], new Set());
+      expect(nextQ?.protocol_version).toBe('4.0');
+    });
+
+    it('should switch to traditional questions after 3 incorrect answers', () => {
+      const results: QuestionResult[] = [
+        { questionId: 'any1', isCorrect: false, cefrLevel: 'B1' },
+        { questionId: 'any2', isCorrect: false, cefrLevel: 'B1' },
+        { questionId: 'any3', isCorrect: false, cefrLevel: 'B1' },
+      ];
+      const nextQ = getNextAdaptiveQuestion(protocolPool, results, new Set(['any1', 'any2', 'any3']));
+      // Should not be v4
+      expect(nextQ?.protocol_version).toBeUndefined();
+      expect(nextQ?.id).toMatch(/trad/);
+    });
+
+    it('should keep Protocol v4 if at least one of the first 3 is correct', () => {
+       const results: QuestionResult[] = [
+        { questionId: 'any1', isCorrect: false, cefrLevel: 'B1' },
+        { questionId: 'any2', isCorrect: true, cefrLevel: 'B1' },
+        { questionId: 'any3', isCorrect: false, cefrLevel: 'B1' },
+      ];
+      const nextQ = getNextAdaptiveQuestion(protocolPool, results, new Set(['any1', 'any2', 'any3', 'v4-1']));
+      expect(nextQ?.protocol_version).toBe('4.0');
+    });
   });
 });

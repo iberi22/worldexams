@@ -4,7 +4,7 @@ import { supabase } from '../../lib/supabase';
 /**
  * Handle fetching and posting question comments
  */
-export const GET: APIRoute = async ({ request, url }) => {
+export const GET: APIRoute = async ({ url }) => {
   const questionId = url.searchParams.get('questionId');
 
   if (!questionId) {
