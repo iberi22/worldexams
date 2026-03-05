@@ -1,0 +1,65 @@
+{
+  "protocol_version": "4.1",
+  "country": "co",
+  "grade": 11,
+  "period": 1,
+  "subject": "matematicas",
+  "topic": "Funciones: Composición, Dominio, Rango e Inversas",
+  "bundle_file": "CO-MAT-11-functions-001-PRO-v4-bundle.md",
+  "bundle_assets_dir": "src/content/questions/colombia/matematicas/grado-11/periodo-1/CO-MAT-11-functions-001-PRO-v4-bundle.md.assets",
+  "question_id": "CO-MAT-11-functions-001-PRO-v20",
+  "question_type": "weighted",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "total_seconds": 15,
+    "intro_seconds": 3,
+    "explanation_seconds": 9,
+    "outro_seconds": 3
+  },
+  "branding": {
+    "intro": [
+      "worldexams",
+      "saberparatodos"
+    ],
+    "outro": [
+      "worldexams",
+      "saberparatodos"
+    ]
+  },
+  "content": {
+    "statement": "En mecánica cuántica, la probabilidad de encontrar una partícula en una caja de longitud $L$ viene dada por una función de densidad de probabilidad $P(x) = A \\sin^2(\\frac{n\\pi x}{L})$ en el intervalo $[0, L]$. Para que el área total bajo la curva sea 1 (condición de normalización), ¿cuál debe ser el valor de la constante de amplitud $A$? (Use la identidad $\\sin^2\\theta = \\frac{1 - \\cos 2\\theta}{2}$).",
+    "explanation": "Buscamos $A$ tal que $\\int_{0}^{L} A \\sin^2(\\frac{n\\pi x}{L}) dx = 1$.\r\nUsando la identidad: $A \\int_{0}^{L} \\frac{1 - \\cos(\\frac{2n\\pi x}{L})}{2} dx = \\frac{A}{2} [x - \\frac{L}{2n\\pi}\\sin(\\frac{2n\\pi x}{L})]_0^L$\r\nEvaluando en los límites: $\\frac{A}{2} [(L - 0) - (0 - 0)] = \\frac{AL}{2}$.\r\nPara que $\\frac{AL}{2} = 1$, entonces $A = 2/L$.\r\nEste problema integra trigonometría, cálculo integral básico (traspasado a funciones) y modelado físico avanzado.",
+    "narration_script": "Vamos a resolver esta pregunta en tres pasos. Paso uno, identifica los datos del enunciado. Paso dos, plantea la operación o ecuación correcta. Paso tres, verifica el resultado y confirma la opción final. Buscamos $A$ tal que $\\int_{0}^{L} A \\sin^2(\\frac{n\\pi x}{L}) dx = 1$.\r\nUsando la identidad: $A \\int_{0}^{L} \\frac{1 - \\cos(\\frac{2n\\pi x}{L})}{2} dx = \\frac{A}{2} [x - \\frac{L}{2n\\pi}\\sin(\\frac{2n\\pi x}{L})]_0^L$\r\nEvaluando en los límites: $\\frac{A}{2} [(L - 0) - (0 - 0)] = \\frac{AL}{2}$.\r\nPara que $\\frac{AL}{2} = 1$, entonces $A = 2/L$.\r\nEste problema integra trigonometría, cálculo integral básico (traspasado a funciones) y modelado físico avanzado."
+  },
+  "audio": {
+    "tts_engine": "xtts-v2-local",
+    "align_engine": "whisperx",
+    "fallback_engine": "piper"
+  },
+  "outputs": {
+    "final_video_path": "renders/CO-MAT-11-functions-001-PRO-v20.mp4",
+    "audio_path": "audio/CO-MAT-11-functions-001-PRO-v20.mp3",
+    "timings_path": "timings/CO-MAT-11-functions-001-PRO-v20.json",
+    "subtitles_path": "subtitles/CO-MAT-11-functions-001-PRO-v20.srt"
+  },
+  "social": {
+    "youtube": {
+      "mode": "auto",
+      "status": "pending"
+    },
+    "instagram": {
+      "mode": "auto",
+      "status": "pending"
+    },
+    "tiktok": {
+      "mode": "manual_queue",
+      "status": "pending"
+    }
+  },
+  "status": "generated",
+  "created_at": "2026-03-04T17:50:17.569Z",
+  "generated_at": "2026-03-04T19:11:13.715435Z",
+  "updated_at": "2026-03-04T19:11:13.715450Z"
+}

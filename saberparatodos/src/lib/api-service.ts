@@ -267,7 +267,7 @@ export function getGradesForCEFRLevel(levelNum: number, range: number = 1): numb
   return levels.slice(Math.max(0, idx - range), Math.min(levels.length, idx + range + 1));
 }
 
-export async function fetchEnglishQuestionsAllGrades(limit: number = 30, balanced: boolean = true): Promise<AppQuestion[]> {
+export async function fetchEnglishQuestionsAllGrades(limit: number = 30): Promise<AppQuestion[]> {
   const ALL_GRADES = [3, 5, 6, 7, 8, 9, 10, 11];
   const answeredIds = await getAnsweredQuestionIds(14, false);
   const gradeResults = await Promise.all(ALL_GRADES.map(async (grade) => {

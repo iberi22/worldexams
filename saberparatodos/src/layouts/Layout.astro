@@ -12,6 +12,7 @@ import criticalCSS from '../styles/critical.css?raw';
 interface Props {
 	title?: string;
 	description?: string;
+  keywords?: string;
 	image?: string;
 	type?: 'website' | 'article';
   noindex?: boolean;
@@ -24,7 +25,8 @@ import { countryConfig } from '../config';
 const {
   title = `${countryConfig.name} - Banco de Preguntas`,
   description = `Practica con el mejor banco de preguntas open source para ${countryConfig.name}. ${Object.keys(countryConfig.exams).join(', ')}.`,
-  image = "/og-image.png",
+  keywords = 'simulacro icfes, simulacro saber 11, preicfes gratis, banco de preguntas icfes, pruebas saber colombia',
+  image = "/logo.png",
   type = "website",
   noindex = false,
   showNavbar = true,
@@ -32,6 +34,8 @@ const {
 } = Astro.props;
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const ogImageURL = new URL(image, canonicalURL);
+const ogLocale = (countryConfig.language || 'es-CO').replace('-', '_');
 const enableAuxClientWidgets = import.meta.env.PROD;
 ---
 
@@ -97,22 +101,27 @@ const enableAuxClientWidgets = import.meta.env.PROD;
     <!-- SEO -->
 		<title>{title}</title>
 		<meta name="description" content={description} />
+    <meta name="keywords" content={keywords} />
     <link rel="canonical" href={canonicalURL} />
-    {noindex && <meta name="robots" content="noindex, nofollow" />}
+    {noindex
+      ? <meta name="robots" content="noindex, nofollow" />
+      : <meta name="robots" content="index, follow, max-image-preview:large" />}
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content={type} />
-    <meta property="og:url" content={Astro.url} />
+    <meta property="og:url" content={canonicalURL} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
-    <meta property="og:image" content={new URL(image, Astro.url)} />
+    <meta property="og:image" content={ogImageURL} />
+    <meta property="og:site_name" content="SaberParaTodos" />
+    <meta property="og:locale" content={ogLocale} />
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image" />
-    <meta property="twitter:url" content={Astro.url} />
+    <meta property="twitter:url" content={canonicalURL} />
     <meta property="twitter:title" content={title} />
     <meta property="twitter:description" content={description} />
-    <meta property="twitter:image" content={new URL(image, Astro.url)} />
+    <meta property="twitter:image" content={ogImageURL} />
 
     <!-- DNS Prefetch para recursos externos -->
     <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
@@ -148,27 +157,6 @@ const enableAuxClientWidgets = import.meta.env.PROD;
       } else {
         // Fallback para navegadores sin Font Loading API
         document.documentElement.classList.remove('fonts-loading');
-      }
-
-      // Cargar AdSense después de que la página sea interactiva
-      if ('requestIdleCallback' in window) {
-        requestIdleCallback(() => {
-          const script = document.createElement('script');
-          script.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876';
-          script.async = true;
-          script.crossOrigin = 'anonymous';
-          document.head.appendChild(script);
-        });
-      } else {
-        window.addEventListener('load', () => {
-          setTimeout(() => {
-            const script = document.createElement('script');
-            script.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876';
-            script.async = true;
-            script.crossOrigin = 'anonymous';
-            document.head.appendChild(script);
-          }, 2000);
-        });
       }
     </script>
 	</head>

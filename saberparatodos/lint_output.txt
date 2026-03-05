@@ -1,0 +1,141 @@
+
+> saberparatodos@0.3.0 lint
+> astro check && tsc --noEmit
+
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2m13:39:43[22m [34m[@astrojs/cloudflare][39m Enabling sessions with Cloudflare KV with the "SESSION" KV binding.
+[2m13:39:43[22m [34m[@astrojs/cloudflare][39m If you see the error "Invalid binding `SESSION`" in your build output, you need to add the binding to your wrangler config file.
+[33m[1m13:39:43[22m [WARN] [adapter][39m Cloudflare does not support sharp at runtime. However, you can configure `imageService: "compile"` to optimize images with sharp on prerendered pages during build time.
+
+Auto-generating collections for folders in "src/content/" that are not defined as collections.
+This is deprecated, so you should define these collections yourself in "src/content.config.ts".
+The following collections have been auto-generated: video
+
+[2m13:39:44[22m [34m[content][39m Syncing content
+[33m[1m13:39:44[22m [WARN] [glob-loader][39m No files found matching "**/*.md,!**/_*/**/*.md,!**/_*.md" in directory "src\content\video"
+[2m13:39:44[22m [34m[content][39m Synced content
+[2m13:39:44[22m [34m[types][39m Generated [2m578ms[22m
+[2m13:39:44[22m [34m[check][39m Getting diagnostics for Astro files in E:\scripts-python\worldexams\saberparatodos...
+[96msrc/components/Footer.astro[0m:[93m162[0m:[93m53[0m - [91merror[0m[90m ts(2339): [0mProperty 'institucion' does not exist on type 'CountryConfig'.
+
+[7m162[0m         No afiliado oficialmente con {countryConfig.institucion}. Contenido educativo basado en
+[7m   [0m [91m                                                    ~~~~~~~~~~~[0m
+
+[96msrc/config/tenants/co.ts[0m:[93m43[0m:[93m3[0m - [91merror[0m[90m ts(2353): [0mObject literal may only specify known properties, and 'institucion' does not exist in type 'CountryConfig'.
+
+[7m43[0m   institucion: 'ICFES - Instituto Colombiano para la Evaluaci├│n de la Educaci├│n',
+[7m  [0m [91m  ~~~~~~~~~~~[0m
+
+[96msrc/config/tenants/mx.ts[0m:[93m55[0m:[93m3[0m - [91merror[0m[90m ts(2353): [0mObject literal may only specify known properties, and 'institucion' does not exist in type 'CountryConfig'.
+
+[7m55[0m   institucion: 'CENEVAL - Centro Nacional de Evaluaci├│n para la Educaci├│n Superior',
+[7m  [0m [91m  ~~~~~~~~~~~[0m
+
+[96msrc/layouts/Layout.astro[0m:[93m140[0m:[93m20[0m - [93mwarning[0m[90m ts(6133): [0m'media' is declared but its value is never read.
+
+[7m140[0m       onload="this.media='all'; /* loaded */"
+[7m   [0m [93m                   ~~~~~[0m
+
+[96msrc/lib/adaptive-engine.test.ts[0m:[93m14[0m:[93m5[0m - [91merror[0m[90m ts(2739): [0mType '{ id: string; text: string; cefr_level: string; difficulty: number; options: never[]; correctOptionId: string; }' is missing the following properties from type 'AppQuestion': category, grade
+
+[7m14[0m     { id: 'q5', text: 'C1-Expert', cefr_level: 'C1', difficulty: 10, options: [], correctOptionId: 'A' },
+[7m  [0m [91m    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/lib/adaptive-engine.test.ts[0m:[93m13[0m:[93m5[0m - [91merror[0m[90m ts(2739): [0mType '{ id: string; text: string; cefr_level: string; difficulty: number; options: never[]; correctOptionId: string; }' is missing the following properties from type 'AppQuestion': category, grade
+
+[7m13[0m     { id: 'q4', text: 'B2-Hard', cefr_level: 'B2', difficulty: 8, options: [], correctOptionId: 'A' },
+[7m  [0m [91m    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/lib/adaptive-engine.test.ts[0m:[93m12[0m:[93m5[0m - [91merror[0m[90m ts(2739): [0mType '{ id: string; text: string; cefr_level: string; difficulty: number; options: never[]; correctOptionId: string; }' is missing the following properties from type 'AppQuestion': category, grade
+
+[7m12[0m     { id: 'q3', text: 'B1-Medium', cefr_level: 'B1', difficulty: 6, options: [], correctOptionId: 'A' },
+[7m  [0m [91m    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/lib/adaptive-engine.test.ts[0m:[93m11[0m:[93m5[0m - [91merror[0m[90m ts(2739): [0mType '{ id: string; text: string; cefr_level: string; difficulty: number; options: never[]; correctOptionId: string; }' is missing the following properties from type 'AppQuestion': category, grade
+
+[7m11[0m     { id: 'q2', text: 'A2-Medium', cefr_level: 'A2', difficulty: 4, options: [], correctOptionId: 'A' },
+[7m  [0m [91m    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/lib/adaptive-engine.test.ts[0m:[93m10[0m:[93m5[0m - [91merror[0m[90m ts(2739): [0mType '{ id: string; text: string; cefr_level: string; difficulty: number; options: never[]; correctOptionId: string; }' is missing the following properties from type 'AppQuestion': category, grade
+
+[7m10[0m     { id: 'q1', text: 'A1-Easy', cefr_level: 'A1', difficulty: 2, options: [], correctOptionId: 'A' },
+[7m  [0m [91m    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96msrc/lib/adaptive-engine.ts[0m:[93m100[0m:[93m17[0m - [91merror[0m[90m ts(2339): [0mProperty 'meta' does not exist on type 'AppQuestion'.
+
+[7m100[0m       qDiff = q.meta.difficulty;
+[7m   [0m [91m                ~~~~[0m
+[96msrc/lib/adaptive-engine.ts[0m:[93m99[0m:[93m35[0m - [91merror[0m[90m ts(2339): [0mProperty 'meta' does not exist on type 'AppQuestion'.
+
+[7m99[0m     } else if (q.meta && typeof q.meta.difficulty === 'number') {
+[7m  [0m [91m                                  ~~~~[0m
+[96msrc/lib/adaptive-engine.ts[0m:[93m99[0m:[93m18[0m - [91merror[0m[90m ts(2339): [0mProperty 'meta' does not exist on type 'AppQuestion'.
+
+[7m99[0m     } else if (q.meta && typeof q.meta.difficulty === 'number') {
+[7m  [0m [91m                 ~~~~[0m
+[96msrc/lib/adaptive-engine.ts[0m:[93m90[0m:[93m40[0m - [91merror[0m[90m ts(2339): [0mProperty 'meta' does not exist on type 'AppQuestion'.
+
+[7m90[0m       cefrRaw = q.meta.cefr_level || q.meta.cefrLevel;
+[7m  [0m [91m                                       ~~~~[0m
+[96msrc/lib/adaptive-engine.ts[0m:[93m90[0m:[93m19[0m - [91merror[0m[90m ts(2339): [0mProperty 'meta' does not exist on type 'AppQuestion'.
+
+[7m90[0m       cefrRaw = q.meta.cefr_level || q.meta.cefrLevel;
+[7m  [0m [91m                  ~~~~[0m
+[96msrc/lib/adaptive-engine.ts[0m:[93m89[0m:[93m55[0m - [91merror[0m[90m ts(2339): [0mProperty 'meta' does not exist on type 'AppQuestion'.
+
+[7m89[0m     if (!cefrRaw && q.meta && (q.meta.cefr_level || q.meta.cefrLevel)) {
+[7m  [0m [91m                                                      ~~~~[0m
+[96msrc/lib/adaptive-engine.ts[0m:[93m89[0m:[93m34[0m - [91merror[0m[90m ts(2339): [0mProperty 'meta' does not exist on type 'AppQuestion'.
+
+[7m89[0m     if (!cefrRaw && q.meta && (q.meta.cefr_level || q.meta.cefrLevel)) {
+[7m  [0m [91m                                 ~~~~[0m
+[96msrc/lib/adaptive-engine.ts[0m:[93m89[0m:[93m23[0m - [91merror[0m[90m ts(2339): [0mProperty 'meta' does not exist on type 'AppQuestion'.
+
+[7m89[0m     if (!cefrRaw && q.meta && (q.meta.cefr_level || q.meta.cefrLevel)) {
+[7m  [0m [91m                      ~~~~[0m
+[96msrc/lib/adaptive-engine.ts[0m:[93m88[0m:[93m37[0m - [91merror[0m[90m ts(2551): [0mProperty 'cefrLevel' does not exist on type 'AppQuestion'. Did you mean 'cefr_level'?
+
+[7m88[0m     let cefrRaw = q.cefr_level || q.cefrLevel;
+[7m  [0m [91m                                    ~~~~~~~~~[0m
+
+[96msrc/lib/api-service.ts[0m:[93m270[0m:[93m74[0m - [93mwarning[0m[90m ts(6133): [0m'balanced' is declared but its value is never read.
+
+[7m270[0m export async function fetchEnglishQuestionsAllGrades(limit: number = 30, balanced: boolean = true): Promise<AppQuestion[]> {
+[7m   [0m [93m                                                                         ~~~~~~~~[0m
+[96msrc/lib/api-service.ts[0m:[93m29[0m:[93m7[0m - [93mwarning[0m[90m ts(6133): [0m'IS_DEV_MODE' is declared but its value is never read.
+
+[7m29[0m const IS_DEV_MODE = typeof window !== 'undefined' &&
+[7m  [0m [93m      ~~~~~~~~~~~[0m
+[96msrc/lib/api-service.ts[0m:[93m8[0m:[93m1[0m - [93mwarning[0m[90m ts(6133): [0m'supabase' is declared but its value is never read.
+
+[7m8[0m import { supabase } from './supabase';
+[7m [0m [93m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96msrc/pages/api/comments.ts[0m:[93m52[0m:[93m8[0m - [91merror[0m[90m ts(2769): [0mNo overload matches this call.
+  Overload 1 of 2, '(values: never, options?: { count?: "exact" | "planned" | "estimated" | undefined; } | undefined): PostgrestFilterBuilder<{ PostgrestVersion: "12"; }, never, never, null, "question_comments", never, "POST">', gave the following error.
+    Argument of type '{ question_id: any; content: any; user_name: any; user_id: any; }[]' is not assignable to parameter of type 'never'.
+  Overload 2 of 2, '(values: never[], options?: { count?: "exact" | "planned" | "estimated" | undefined; defaultToNull?: boolean | undefined; } | undefined): PostgrestFilterBuilder<{ PostgrestVersion: "12"; }, never, never, null, "question_comments", never, "POST">', gave the following error.
+    Type '{ question_id: any; content: any; user_name: any; user_id: any; }' is not assignable to type 'never'.
+
+[7m52[0m       .insert([
+[7m  [0m [91m       ~~~~~~[0m
+[96msrc/pages/api/comments.ts[0m:[93m7[0m:[93m39[0m - [93mwarning[0m[90m ts(6133): [0m'request' is declared but its value is never read.
+
+[7m7[0m export const GET: APIRoute = async ({ request, url }) => {
+[7m [0m [93m                                      ~~~~~~~[0m
+
+[96msrc/pages/api/report_problem.ts[0m:[93m28[0m:[93m8[0m - [91merror[0m[90m ts(2769): [0mNo overload matches this call.
+  Overload 1 of 2, '(values: never, options?: { count?: "exact" | "planned" | "estimated" | undefined; } | undefined): PostgrestFilterBuilder<{ PostgrestVersion: "12"; }, never, never, null, "user_reports", never, "POST">', gave the following error.
+    Argument of type '{ report_type: string; question_id: string | null; message: string; user_context: string | undefined; }[]' is not assignable to parameter of type 'never'.
+  Overload 2 of 2, '(values: never[], options?: { count?: "exact" | "planned" | "estimated" | undefined; defaultToNull?: boolean | undefined; } | undefined): PostgrestFilterBuilder<{ PostgrestVersion: "12"; }, never, never, null, "user_reports", never, "POST">', gave the following error.
+    Type '{ report_type: string; question_id: string | null; message: string; user_context: string | undefined; }' is not assignable to type 'never'.
+
+[7m28[0m       .insert([
+[7m  [0m [91m       ~~~~~~[0m
+
+[96msrc/pages/developers/video-review.astro[0m:[93m179[0m:[93m11[0m - [91merror[0m[90m ts(18047): [0m'summary' is possibly 'null'.
+
+[7m179[0m           summary.textContent = `No se pudo cargar manifest para run=${runParam}`;
+[7m   [0m [91m          ~~~~~~~[0m
+
+Result (171 files): 
+- 20 errors
+- 0 warnings
+- 5 hints
+

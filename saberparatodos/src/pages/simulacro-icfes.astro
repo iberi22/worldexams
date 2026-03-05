@@ -1,0 +1,66 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+const title = 'Simulacro ICFES Saber 11 Gratis en Colombia | SaberParaTodos';
+const description = 'Haz tu simulacro ICFES Saber 11 gratis. Practica por áreas, revisa resultados y mejora tu puntaje con entrenamiento constante.';
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: [
+    {
+      '@type': 'Question',
+      name: 'Como practicar un simulacro ICFES gratis?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Puedes practicar en linea por areas (lectura critica, matematicas, sociales, ciencias e ingles) y revisar retroalimentacion al finalizar.'
+      }
+    },
+    {
+      '@type': 'Question',
+      name: 'Este simulacro sirve para Saber 11 en Colombia?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Si. Esta enfocado en estudiantes de Colombia que se preparan para las Pruebas Saber 11 e ICFES.'
+      }
+    },
+    {
+      '@type': 'Question',
+      name: 'Simulacro o similacro ICFES: cual es correcto?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'La forma correcta es simulacro ICFES. Muchas personas buscan similacro y llegan al mismo objetivo de practica.'
+      }
+    }
+  ]
+};
+---
+
+<Layout title={title} description={description} keywords="simulacro icfes, similacro icfes, simulacro saber 11, preicfes gratis, icfes colombia">
+  <section class="mx-auto max-w-4xl px-4 py-12">
+    <h1 class="text-3xl font-bold text-[#F5F5DC] md:text-4xl">Simulacro ICFES Saber 11 Gratis</h1>
+    <p class="mt-4 text-lg text-white/80">
+      Entrena para las Pruebas Saber 11 en Colombia con practica por competencias y sesiones de estudio constantes.
+    </p>
+
+    <div class="mt-8 rounded-xl border border-white/15 bg-white/5 p-6">
+      <h2 class="text-xl font-semibold text-[#FCD116]">Que incluye este simulacro?</h2>
+      <ul class="mt-3 list-disc space-y-2 pl-6 text-white/80">
+        <li>Preguntas por area y nivel.</li>
+        <li>Practica continua para mejorar lectura critica y matematicas.</li>
+        <li>Retroalimentacion para detectar temas por reforzar.</li>
+      </ul>
+    </div>
+
+    <div class="mt-8 flex flex-wrap gap-3">
+      <a href="/" class="rounded-lg bg-[#FCD116] px-5 py-3 font-semibold text-black hover:bg-[#ffe06a]">
+        Empezar simulacro
+      </a>
+      <a href="/guia-examen" class="rounded-lg border border-white/20 px-5 py-3 font-semibold text-white hover:bg-white/10">
+        Ver estructura ICFES
+      </a>
+    </div>
+  </section>
+
+  <script is:inline type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+</Layout>

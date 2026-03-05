@@ -22,6 +22,7 @@
   let {
     subject: initialSubject,
     currentGrade: initialGrade = 11,
+    isLoggedIn = false,
     onStart,
     onCancel,
     availableQuestions = [],
@@ -75,6 +76,7 @@
   let selectedPeriod = $state(1); // 🆕 1, 2, 3, 4
   let useDiagnostic = $state(false);
   let diagnosticMixPercent = $state(20); // % de preguntas de grados inferiores
+  let effectiveUseDiagnostic = $derived(isLoggedIn && useDiagnostic);
   let showResetConfirm = $state(false);
   let roomEnabled = $state(false);
   let roomTab = $state('crear'); // 'crear' or 'unirse'
@@ -228,6 +230,12 @@
   let memoryStats = $derived(getSubjectMemoryStats(availableQuestions, selectedSubject));
   let shareUrl = $derived(roomCode ? `${typeof window !== 'undefined' ? window.location.origin : ''}/sala-examenes?join=${roomCode}` : '');
   let configLocked = $derived(roomEnabled && roomCode && !isHost);
+
+  $effect(() => {
+    if (!isLoggedIn && useDiagnostic) {
+      useDiagnostic = false;
+    }
+  });
 
   // 🆕 Debounce timeouts for P2P and DB broadcasts
   let broadcastTimeout = null;
@@ -473,7 +481,7 @@
                  if (msg.payload.grade) selectedGrade = msg.payload.grade;
                  if (msg.payload.examMode) examMode = msg.payload.examMode; // 🆕 Sync exam mode
                  if (msg.payload.period) selectedPeriod = msg.payload.period; // 🆕 Sync period
-                 if (msg.payload.useDiagnostic !== undefined) useDiagnostic = Boolean(msg.payload.useDiagnostic);
+                  if (msg.payload.useDiagnostic !== undefined) useDiagnostic = isLoggedIn && Boolean(msg.payload.useDiagnostic);
                  if (msg.payload.diagnosticMixPercent !== undefined) diagnosticMixPercent = Number(msg.payload.diagnosticMixPercent) || 20;
                  if (msg.payload.questions) {
                      const validQuestions = sanitizeIncomingQuestions(msg.payload.questions);
@@ -530,7 +538,7 @@
                      }
                      console.log('🆕 English Diagnostic Mode (START):', startConfig.isEnglishDiagnostic);
                  }
-                 if (startConfig.useDiagnostic !== undefined) useDiagnostic = Boolean(startConfig.useDiagnostic);
+                  if (startConfig.useDiagnostic !== undefined) useDiagnostic = isLoggedIn && Boolean(startConfig.useDiagnostic);
                  if (startConfig.diagnosticMixPercent !== undefined) diagnosticMixPercent = Number(startConfig.diagnosticMixPercent) || 20;
                  // Force start logic with synced config
                  handleStart(startConfig);
@@ -562,7 +570,7 @@
          time_option: timeOption,
          questions: syncedQuestions, // 🔥 Always include questions
          isEnglishDiagnostic: isEnglishDiagnosticMode, // 🆕 Sync English Diagnostic mode to guests
-         useDiagnostic: useDiagnostic,
+         useDiagnostic: effectiveUseDiagnostic,
          diagnosticMixPercent: diagnosticMixPercent,
          examMode: examMode, // 🆕 Sync Mode
          period: selectedPeriod // 🆕 Sync Period
@@ -607,7 +615,7 @@
                    questions: syncedQuestions,
                    host_peer_id: p2pService.isConnected() ? 'connected' : null,
                    isEnglishDiagnostic: isEnglishDiagnosticMode, // 🆕 Sync to DB for Realtime fallback
-                   useDiagnostic: useDiagnostic,
+                    useDiagnostic: effectiveUseDiagnostic,
                    diagnosticMixPercent: diagnosticMixPercent,
                    examMode: examMode,
                    period: selectedPeriod
@@ -658,7 +666,7 @@
           grade: selectedGrade || 11,
           subject: selectedSubject,
           count: questionCount,
-          useDiagnostic: useDiagnostic,
+          useDiagnostic: effectiveUseDiagnostic,
           diagnosticMixPercent: diagnosticMixPercent,
           examMode: examMode,
           period: selectedPeriod,
@@ -702,7 +710,7 @@
           time_option: timeOption,
           exam_mode: examMode, // 🆕
           period: selectedPeriod, // 🆕
-          useDiagnostic: useDiagnostic,
+          useDiagnostic: effectiveUseDiagnostic,
           diagnosticMixPercent: diagnosticMixPercent,
           difficulty: 'NORMAL',
           questions: syncedQuestions, // 🔥 FIX: Use validated questions
@@ -866,7 +874,7 @@
       }
       if (config.exam_mode) examMode = config.exam_mode; // 🆕
       if (config.period) selectedPeriod = config.period; // 🆕
-      if (config.useDiagnostic !== undefined) useDiagnostic = Boolean(config.useDiagnostic);
+      if (config.useDiagnostic !== undefined) useDiagnostic = isLoggedIn && Boolean(config.useDiagnostic);
       if (config.diagnosticMixPercent !== undefined) diagnosticMixPercent = Number(config.diagnosticMixPercent) || 20;
 
       console.log('🔄 Configuración inicial sincronizada:', {
@@ -938,7 +946,7 @@
             questions: finalQuestions,
             timeLimitSeconds: finalTimeLimit,
             isEnglishDiagnostic: isEnglishDiagnosticMode, // 🆕 Sync to guests
-            useDiagnostic: useDiagnostic,
+      useDiagnostic: effectiveUseDiagnostic,
             diagnosticMixPercent: diagnosticMixPercent
         });
     }
@@ -952,7 +960,7 @@
             grade: selectedGrade || 11,
             subject: selectedSubject,
             count: questionCount,
-            useDiagnostic: useDiagnostic,
+            useDiagnostic: effectiveUseDiagnostic,
             diagnosticMixPercent: diagnosticMixPercent,
             examMode: examMode,
             period: selectedPeriod,
@@ -977,7 +985,7 @@
     onStart({
       count: soloQuestions ? soloQuestions.length : (finalQuestions.length || questionCount),
       mode: roomEnabled ? 'ROOM' : 'SOLO',
-      useDiagnostic: useDiagnostic,
+            useDiagnostic: effectiveUseDiagnostic,
       diagnosticMixPercent: diagnosticMixPercent,
       roomCode: roomCode,
       isHost: isHost,
@@ -1037,7 +1045,7 @@
           }
           if (config.exam_mode) examMode = config.exam_mode; // 🆕
           if (config.period) selectedPeriod = config.period; // 🆕
-          if (config.useDiagnostic !== undefined) useDiagnostic = Boolean(config.useDiagnostic);
+          if (config.useDiagnostic !== undefined) useDiagnostic = isLoggedIn && Boolean(config.useDiagnostic);
           if (config.diagnosticMixPercent !== undefined) diagnosticMixPercent = Number(config.diagnosticMixPercent) || 20;
           if (config.time_option !== undefined) {
             timeOption = config.time_option;
@@ -1663,10 +1671,13 @@
           <div class="relative z-10">
             <div class="flex items-center gap-3 mb-2">
               <button
-                class="relative inline-flex h-6 w-11 flex-shrink-0 cursor-pointer rounded-full border-2 border-transparent transition-colors duration-200 ease-in-out focus:outline-none {useDiagnostic ? 'bg-emerald-500' : 'bg-white/20'}"
+                class="relative inline-flex h-6 w-11 flex-shrink-0 rounded-full border-2 border-transparent transition-colors duration-200 ease-in-out focus:outline-none {(!isLoggedIn || configLocked) ? 'cursor-not-allowed opacity-60' : 'cursor-pointer'} {effectiveUseDiagnostic ? 'bg-emerald-500' : 'bg-white/20'}"
                 role="switch"
-                aria-checked={useDiagnostic}
+                aria-checked={effectiveUseDiagnostic}
+                aria-disabled={!isLoggedIn || configLocked}
+                disabled={!isLoggedIn || configLocked}
                 onclick={() => {
+                  if (!isLoggedIn || configLocked) return;
                   useDiagnostic = !useDiagnostic;
                   if (useDiagnostic) {
                     questionCount = 30;
@@ -1679,14 +1690,14 @@
               >
                 <span
                   aria-hidden="true"
-                  class="pointer-events-none inline-block h-5 w-5 transform rounded-full bg-white shadow ring-0 transition duration-200 ease-in-out {useDiagnostic ? 'translate-x-5' : 'translate-x-0'}"
+                  class="pointer-events-none inline-block h-5 w-5 transform rounded-full bg-white shadow ring-0 transition duration-200 ease-in-out {effectiveUseDiagnostic ? 'translate-x-5' : 'translate-x-0'}"
                 ></span>
               </button>
               <div>
                 <h4 class="text-sm font-bold text-emerald-500 uppercase tracking-widest">
                   Panel de Diagnóstico
-                  <span class="ml-2 text-[10px] {useDiagnostic ? 'text-emerald-400' : 'text-white/30'}">
-                    {useDiagnostic ? 'ACTIVADO' : 'DESACTIVADO'}
+                  <span class="ml-2 text-[10px] {effectiveUseDiagnostic ? 'text-emerald-400' : 'text-white/30'}">
+                    {effectiveUseDiagnostic ? 'ACTIVADO' : 'DESACTIVADO'}
                   </span>
                 </h4>
               </div>
@@ -1695,8 +1706,13 @@
             <p class="text-xs opacity-70 leading-relaxed max-w-[90%]">
               Detecta vacíos fundamentales con preguntas de grados anteriores.
             </p>
+            {#if !isLoggedIn}
+              <p class="mt-2 text-[11px] text-amber-300/90">
+                Inicia sesión para activar el modo diagnóstico y la mezcla de grados.
+              </p>
+            {/if}
 
-            {#if useDiagnostic && diagnosticGrades.length > 0}
+            {#if effectiveUseDiagnostic && diagnosticGrades.length > 0}
               <div class="mt-3 flex gap-2 flex-wrap" transition:fade>
                 {#each diagnosticGrades as g}
                   <span class="px-2 py-1.5 rounded-md bg-[#001e10] text-emerald-500 border border-emerald-500/20 text-[10px] font-bold font-mono">G{g}</span>

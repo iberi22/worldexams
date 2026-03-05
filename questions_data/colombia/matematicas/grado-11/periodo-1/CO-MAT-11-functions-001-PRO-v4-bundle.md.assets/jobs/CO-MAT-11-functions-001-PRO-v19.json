@@ -1,0 +1,65 @@
+{
+  "protocol_version": "4.1",
+  "country": "co",
+  "grade": 11,
+  "period": 1,
+  "subject": "matematicas",
+  "topic": "Funciones: Composición, Dominio, Rango e Inversas",
+  "bundle_file": "CO-MAT-11-functions-001-PRO-v4-bundle.md",
+  "bundle_assets_dir": "src/content/questions/colombia/matematicas/grado-11/periodo-1/CO-MAT-11-functions-001-PRO-v4-bundle.md.assets",
+  "question_id": "CO-MAT-11-functions-001-PRO-v19",
+  "question_type": "single",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "total_seconds": 15,
+    "intro_seconds": 3,
+    "explanation_seconds": 9,
+    "outro_seconds": 3
+  },
+  "branding": {
+    "intro": [
+      "worldexams",
+      "saberparatodos"
+    ],
+    "outro": [
+      "worldexams",
+      "saberparatodos"
+    ]
+  },
+  "content": {
+    "statement": "Una ventana tiene forma de rectángulo coronado por un semicírculo. Si el perímetro total de la ventana es de 10 metros, exprese el área $A$ de la ventana en función del radio $r$ del semicírculo.",
+    "explanation": "1. Base del rectángulo = $2r$. Altura = $h$.\r\n2. Perímetro: Base ($2r$) + 2 lados ($2h$) + arco ($\\pi r$) $= 10$.\r\n   $2r + 2h + \\pi r = 10 \\rightarrow 2h = 10 - r(2 + \\pi) \\rightarrow h = 5 - r(1 + \\pi/2)$.\r\n3. Área total: Área rectángulo ($2rh$) + Área semicírculo ($\\pi r^2/2$).\r\n   $A = 2r(5 - r(1 + \\pi/2)) + \\pi r^2/2$\r\n   $A = 10r - 2r^2 - \\pi r^2 + \\pi r^2/2 = 10r - 2r^2 - \\pi r^2/2$.\r\nLa opción B es la correcta.",
+    "narration_script": "Vamos a resolver esta pregunta en tres pasos. Paso uno, identifica los datos del enunciado. Paso dos, plantea la operación o ecuación correcta. Paso tres, verifica el resultado y confirma la opción final. 1. Base del rectángulo = $2r$. Altura = $h$.\r\n2. Perímetro: Base ($2r$) + 2 lados ($2h$) + arco ($\\pi r$) $= 10$.\r\n   $2r + 2h + \\pi r = 10 \\rightarrow 2h = 10 - r(2 + \\pi) \\rightarrow h = 5 - r(1 + \\pi/2)$.\r\n3. Área total: Área rectángulo ($2rh$) + Área semicírculo ($\\pi r^2/2$).\r\n   $A = 2r(5 - r(1 + \\pi/2)) + \\pi r^2/2$\r\n   $A = 10r - 2r^2 - \\pi r^2 + \\pi r^2/2 = 10r - 2r^2 - \\pi r^2/2$.\r\nLa opción B es la correcta."
+  },
+  "audio": {
+    "tts_engine": "xtts-v2-local",
+    "align_engine": "whisperx",
+    "fallback_engine": "piper"
+  },
+  "outputs": {
+    "final_video_path": "renders/CO-MAT-11-functions-001-PRO-v19.mp4",
+    "audio_path": "audio/CO-MAT-11-functions-001-PRO-v19.mp3",
+    "timings_path": "timings/CO-MAT-11-functions-001-PRO-v19.json",
+    "subtitles_path": "subtitles/CO-MAT-11-functions-001-PRO-v19.srt"
+  },
+  "social": {
+    "youtube": {
+      "mode": "auto",
+      "status": "pending"
+    },
+    "instagram": {
+      "mode": "auto",
+      "status": "pending"
+    },
+    "tiktok": {
+      "mode": "manual_queue",
+      "status": "pending"
+    }
+  },
+  "status": "generated",
+  "created_at": "2026-03-04T17:50:17.569Z",
+  "generated_at": "2026-03-04T19:07:20.817643Z",
+  "updated_at": "2026-03-04T19:07:20.817662Z"
+}

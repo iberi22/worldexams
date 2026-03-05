@@ -7,10 +7,11 @@
 
 import { defineCollection, z } from 'astro:content';
 
-const questionsCollection = defineCollection({
-  type: 'content',
-  schema: z.any(),
-});
+// const questionsCollection = defineCollection({
+//   type: 'content',
+//   schema: z.any(),
+// });
+
 
 const changelogCollection = defineCollection({
   type: 'content',
@@ -24,6 +25,6 @@ const changelogCollection = defineCollection({
 });
 
 export const collections = {
-  questions: questionsCollection,
+  // questions: questionsCollection,
   changelog: changelogCollection,
 };

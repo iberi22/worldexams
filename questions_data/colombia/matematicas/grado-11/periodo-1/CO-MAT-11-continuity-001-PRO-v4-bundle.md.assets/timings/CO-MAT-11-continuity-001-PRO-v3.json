@@ -1,0 +1,536 @@
+{
+  "question_id": "CO-MAT-11-continuity-001-PRO-v3",
+  "duration_seconds": 76.32390022675737,
+  "words": [
+    {
+      "word": "Reto",
+      "start": 0.0,
+      "end": 0.415
+    },
+    {
+      "word": "de",
+      "start": 0.415,
+      "end": 0.83
+    },
+    {
+      "word": "matematicas.",
+      "start": 0.83,
+      "end": 1.245
+    },
+    {
+      "word": "Resolvamos",
+      "start": 1.245,
+      "end": 1.66
+    },
+    {
+      "word": "en",
+      "start": 1.66,
+      "end": 2.075
+    },
+    {
+      "word": "tres",
+      "start": 2.075,
+      "end": 2.491
+    },
+    {
+      "word": "pasos.",
+      "start": 2.491,
+      "end": 2.906
+    },
+    {
+      "word": "Analice",
+      "start": 2.906,
+      "end": 3.321
+    },
+    {
+      "word": "la",
+      "start": 3.321,
+      "end": 3.736
+    },
+    {
+      "word": "función",
+      "start": 3.736,
+      "end": 4.151
+    },
+    {
+      "word": "g(x)",
+      "start": 4.151,
+      "end": 4.566
+    },
+    {
+      "word": "=",
+      "start": 4.566,
+      "end": 4.981
+    },
+    {
+      "word": "(x^2",
+      "start": 4.981,
+      "end": 5.396
+    },
+    {
+      "word": "-",
+      "start": 5.396,
+      "end": 5.811
+    },
+    {
+      "word": "16)/(x",
+      "start": 5.811,
+      "end": 6.226
+    },
+    {
+      "word": "-",
+      "start": 6.226,
+      "end": 6.642
+    },
+    {
+      "word": "4).",
+      "start": 6.642,
+      "end": 7.057
+    },
+    {
+      "word": "Seleccione",
+      "start": 7.057,
+      "end": 7.472
+    },
+    {
+      "word": "TODAS",
+      "start": 7.472,
+      "end": 7.887
+    },
+    {
+      "word": "las",
+      "start": 7.887,
+      "end": 8.302
+    },
+    {
+      "word": "afirmaciones",
+      "start": 8.302,
+      "end": 8.717
+    },
+    {
+      "word": "correctas",
+      "start": 8.717,
+      "end": 9.132
+    },
+    {
+      "word": "sobre",
+      "start": 9.132,
+      "end": 9.547
+    },
+    {
+      "word": "su",
+      "start": 9.547,
+      "end": 9.962
+    },
+    {
+      "word": "continuidad..",
+      "start": 9.962,
+      "end": 10.377
+    },
+    {
+      "word": "Paso",
+      "start": 10.377,
+      "end": 10.792
+    },
+    {
+      "word": "uno:",
+      "start": 10.792,
+      "end": 11.208
+    },
+    {
+      "word": "datos",
+      "start": 11.208,
+      "end": 11.623
+    },
+    {
+      "word": "clave.",
+      "start": 11.623,
+      "end": 12.038
+    },
+    {
+      "word": "Paso",
+      "start": 12.038,
+      "end": 12.453
+    },
+    {
+      "word": "dos:",
+      "start": 12.453,
+      "end": 12.868
+    },
+    {
+      "word": "operacion",
+      "start": 12.868,
+      "end": 13.283
+    },
+    {
+      "word": "correcta.",
+      "start": 13.283,
+      "end": 13.698
+    },
+    {
+      "word": "Paso",
+      "start": 13.698,
+      "end": 14.113
+    },
+    {
+      "word": "tres:",
+      "start": 14.113,
+      "end": 14.528
+    },
+    {
+      "word": "validacion",
+      "start": 14.528,
+      "end": 14.943
+    },
+    {
+      "word": "final.",
+      "start": 14.943,
+      "end": 15.358
+    },
+    {
+      "word": "Factorizando:",
+      "start": 15.358,
+      "end": 15.774
+    },
+    {
+      "word": "((x-4)(x+4))/(x-4)",
+      "start": 15.774,
+      "end": 16.189
+    },
+    {
+      "word": "=",
+      "start": 16.189,
+      "end": 16.604
+    },
+    {
+      "word": "x+4",
+      "start": 16.604,
+      "end": 17.019
+    },
+    {
+      "word": "para",
+      "start": 17.019,
+      "end": 17.434
+    },
+    {
+      "word": "x",
+      "start": 17.434,
+      "end": 17.849
+    },
+    {
+      "word": "!=",
+      "start": 17.849,
+      "end": 18.264
+    },
+    {
+      "word": "4.",
+      "start": 18.264,
+      "end": 18.679
+    },
+    {
+      "word": "A,",
+      "start": 18.679,
+      "end": 19.094
+    },
+    {
+      "word": "D)",
+      "start": 19.094,
+      "end": 19.509
+    },
+    {
+      "word": "Como",
+      "start": 19.509,
+      "end": 19.925
+    },
+    {
+      "word": "el",
+      "start": 19.925,
+      "end": 20.34
+    },
+    {
+      "word": "término",
+      "start": 20.34,
+      "end": 20.755
+    },
+    {
+      "word": "(x-4)",
+      "start": 20.755,
+      "end": 21.17
+    },
+    {
+      "word": "se",
+      "start": 21.17,
+      "end": 21.585
+    },
+    {
+      "word": "cancela,",
+      "start": 21.585,
+      "end": 22.0
+    },
+    {
+      "word": "el",
+      "start": 22.0,
+      "end": 22.415
+    },
+    {
+      "word": "límite",
+      "start": 22.415,
+      "end": 22.83
+    },
+    {
+      "word": "existe:",
+      "start": 22.83,
+      "end": 23.245
+    },
+    {
+      "word": "4+4=8.",
+      "start": 23.245,
+      "end": 23.66
+    },
+    {
+      "word": "Como",
+      "start": 23.66,
+      "end": 24.075
+    },
+    {
+      "word": "el",
+      "start": 24.075,
+      "end": 24.491
+    },
+    {
+      "word": "límite",
+      "start": 24.491,
+      "end": 24.906
+    },
+    {
+      "word": "existe",
+      "start": 24.906,
+      "end": 25.321
+    },
+    {
+      "word": "pero",
+      "start": 25.321,
+      "end": 25.736
+    },
+    {
+      "word": "g(4)",
+      "start": 25.736,
+      "end": 26.151
+    },
+    {
+      "word": "no",
+      "start": 26.151,
+      "end": 26.566
+    },
+    {
+      "word": "está",
+      "start": 26.566,
+      "end": 26.981
+    },
+    {
+      "word": "definido,",
+      "start": 26.981,
+      "end": 27.396
+    },
+    {
+      "word": "la",
+      "start": 27.396,
+      "end": 27.811
+    },
+    {
+      "word": "discontinuidad",
+      "start": 27.811,
+      "end": 28.226
+    },
+    {
+      "word": "es",
+      "start": 28.226,
+      "end": 28.642
+    },
+    {
+      "word": "\"evitable\"",
+      "start": 28.642,
+      "end": 29.057
+    },
+    {
+      "word": "(solo",
+      "start": 29.057,
+      "end": 29.472
+    },
+    {
+      "word": "falta",
+      "start": 29.472,
+      "end": 29.887
+    },
+    {
+      "word": "un",
+      "start": 29.887,
+      "end": 30.302
+    },
+    {
+      "word": "punto).",
+      "start": 30.302,
+      "end": 30.717
+    },
+    {
+      "word": "B",
+      "start": 30.717,
+      "end": 31.132
+    },
+    {
+      "word": "es",
+      "start": 31.132,
+      "end": 31.547
+    },
+    {
+      "word": "falso",
+      "start": 31.547,
+      "end": 31.962
+    },
+    {
+      "word": "porque",
+      "start": 31.962,
+      "end": 32.377
+    },
+    {
+      "word": "para",
+      "start": 32.377,
+      "end": 32.792
+    },
+    {
+      "word": "haber",
+      "start": 32.792,
+      "end": 33.208
+    },
+    {
+      "word": "asíntota",
+      "start": 33.208,
+      "end": 33.623
+    },
+    {
+      "word": "el",
+      "start": 33.623,
+      "end": 34.038
+    },
+    {
+      "word": "límite",
+      "start": 34.038,
+      "end": 34.453
+    },
+    {
+      "word": "debería",
+      "start": 34.453,
+      "end": 34.868
+    },
+    {
+      "word": "ser",
+      "start": 34.868,
+      "end": 35.283
+    },
+    {
+      "word": ".",
+      "start": 35.283,
+      "end": 35.698
+    },
+    {
+      "word": "C)",
+      "start": 35.698,
+      "end": 36.113
+    },
+    {
+      "word": "Redefiniendo",
+      "start": 36.113,
+      "end": 36.528
+    },
+    {
+      "word": "g(x)",
+      "start": 36.528,
+      "end": 36.943
+    },
+    {
+      "word": "para",
+      "start": 36.943,
+      "end": 37.358
+    },
+    {
+      "word": "que",
+      "start": 37.358,
+      "end": 37.774
+    },
+    {
+      "word": "valga",
+      "start": 37.774,
+      "end": 38.189
+    },
+    {
+      "word": "8",
+      "start": 38.189,
+      "end": 38.604
+    },
+    {
+      "word": "en",
+      "start": 38.604,
+      "end": 39.019
+    },
+    {
+      "word": "4,",
+      "start": 39.019,
+      "end": 39.434
+    },
+    {
+      "word": "tapamos",
+      "start": 39.434,
+      "end": 39.849
+    },
+    {
+      "word": "el",
+      "start": 39.849,
+      "end": 40.264
+    },
+    {
+      "word": "hueco..",
+      "start": 40.264,
+      "end": 40.679
+    },
+    {
+      "word": "Compara",
+      "start": 40.679,
+      "end": 41.094
+    },
+    {
+      "word": "con",
+      "start": 41.094,
+      "end": 41.509
+    },
+    {
+      "word": "tus",
+      "start": 41.509,
+      "end": 41.925
+    },
+    {
+      "word": "opciones",
+      "start": 41.925,
+      "end": 42.34
+    },
+    {
+      "word": "y",
+      "start": 42.34,
+      "end": 42.755
+    },
+    {
+      "word": "confirma",
+      "start": 42.755,
+      "end": 43.17
+    },
+    {
+      "word": "la",
+      "start": 43.17,
+      "end": 43.585
+    },
+    {
+      "word": "respuesta.",
+      "start": 43.585,
+      "end": 44.0
+    }
+  ]
+}

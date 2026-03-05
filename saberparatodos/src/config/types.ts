@@ -31,5 +31,15 @@ export interface CountryConfig {
   subjectAliases?: Record<string, string>;
   theme: ThemeConfig;
   cultural: CulturalContext;
-  institucion: string;
+  institucion?: string;
+  features?: {
+    blog?: boolean;
+    [key: string]: boolean | undefined;
+  };
+  giscus?: {
+    repo: string;
+    repoId: string;
+    category: string;
+    categoryId: string;
+  };
 }

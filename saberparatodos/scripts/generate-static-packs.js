@@ -7,7 +7,7 @@ import matter from 'gray-matter';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const CONTENT_DIR = path.join(__dirname, '../src/content/questions');
+const CONTENT_DIR = path.join(__dirname, '../../questions_data');
 const PUBLIC_PACKS_DIR = path.join(__dirname, '../public/api/packs');
 
 // --- CONFIGURATION ---

@@ -1,0 +1,65 @@
+{
+  "protocol_version": "4.1",
+  "country": "co",
+  "grade": 11,
+  "period": 1,
+  "subject": "matematicas",
+  "topic": "Funciones: Composición, Dominio, Rango e Inversas",
+  "bundle_file": "CO-MAT-11-functions-001-PRO-v4-bundle.md",
+  "bundle_assets_dir": "src/content/questions/colombia/matematicas/grado-11/periodo-1/CO-MAT-11-functions-001-PRO-v4-bundle.md.assets",
+  "question_id": "CO-MAT-11-functions-001-PRO-v16",
+  "question_type": "single",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "total_seconds": 15,
+    "intro_seconds": 3,
+    "explanation_seconds": 9,
+    "outro_seconds": 3
+  },
+  "branding": {
+    "intro": [
+      "worldexams",
+      "saberparatodos"
+    ],
+    "outro": [
+      "worldexams",
+      "saberparatodos"
+    ]
+  },
+  "content": {
+    "statement": "Se dice que una función es \"periódica\" si existe un $T$ tal que $f(x+T) = f(x)$. Si $f(x)$ es periódica con periodo $T$, ¿qué se puede afirmar de la función $h(x) = f(ax + b)$ con $a > 0$?",
+    "explanation": "Buscamos $T'$ tal que $h(x+T') = h(x)$.\r\n$f(a(x+T') + b) = f(ax + b)$\r\n$f(ax + aT' + b) = f(ax + b)$\r\nPara que esto se cumpla según la periodicidad de $f$, el término adicional debe ser el periodo $T$:\r\n$aT' = T \\rightarrow T' = T/a$.\r\nEsto demuestra que multiplicar la variable independiente por una constante \"comprime\" o \"estira\" el periodo de la función.",
+    "narration_script": "Vamos a resolver esta pregunta en tres pasos. Paso uno, identifica los datos del enunciado. Paso dos, plantea la operación o ecuación correcta. Paso tres, verifica el resultado y confirma la opción final. Buscamos $T'$ tal que $h(x+T') = h(x)$.\r\n$f(a(x+T') + b) = f(ax + b)$\r\n$f(ax + aT' + b) = f(ax + b)$\r\nPara que esto se cumpla según la periodicidad de $f$, el término adicional debe ser el periodo $T$:\r\n$aT' = T \\rightarrow T' = T/a$.\r\nEsto demuestra que multiplicar la variable independiente por una constante \"comprime\" o \"estira\" el periodo de la función."
+  },
+  "audio": {
+    "tts_engine": "xtts-v2-local",
+    "align_engine": "whisperx",
+    "fallback_engine": "piper"
+  },
+  "outputs": {
+    "final_video_path": "renders/CO-MAT-11-functions-001-PRO-v16.mp4",
+    "audio_path": "audio/CO-MAT-11-functions-001-PRO-v16.mp3",
+    "timings_path": "timings/CO-MAT-11-functions-001-PRO-v16.json",
+    "subtitles_path": "subtitles/CO-MAT-11-functions-001-PRO-v16.srt"
+  },
+  "social": {
+    "youtube": {
+      "mode": "auto",
+      "status": "pending"
+    },
+    "instagram": {
+      "mode": "auto",
+      "status": "pending"
+    },
+    "tiktok": {
+      "mode": "manual_queue",
+      "status": "pending"
+    }
+  },
+  "status": "generated",
+  "created_at": "2026-03-04T17:50:17.568Z",
+  "generated_at": "2026-03-04T19:01:21.619199Z",
+  "updated_at": "2026-03-04T19:01:21.619226Z"
+}

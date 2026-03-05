@@ -40,5 +40,18 @@ export const coConfig: CountryConfig = {
   },
 
   // Institución oficial
-  institucion: 'ICFES - Instituto Colombiano para la Evaluación de la Educación'
+  institucion: 'ICFES - Instituto Colombiano para la Evaluación de la Educación',
+
+  // Características activas
+  features: {
+    blog: false
+  },
+
+  // Configuración de Giscus para comentarios
+  giscus: {
+    repo: 'worldexams/worldexams',
+    repoId: 'R_kgDONXw98Q',
+    category: 'Announcements',
+    categoryId: 'DIC_kwDONXw98c4Ckz9-'
+  }
 };

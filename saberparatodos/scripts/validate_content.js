@@ -6,7 +6,7 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const ROOT = path.join(__dirname, '..');
-const QUESTIONS_DIR = path.join(ROOT, 'src', 'content', 'questions');
+const QUESTIONS_DIR = path.join(ROOT, '..', 'questions_data');
 
 const args = process.argv.slice(2);
 const strictV3 = args.includes('--strict-v3');

@@ -1,4 +1,5 @@
 import type { APIRoute } from 'astro';
+import { supabase } from '../../lib/supabase';
 
 interface ReportBody {
   reportType: string;
@@ -7,13 +8,12 @@ interface ReportBody {
   userContext?: string;
 }
 
-export const POST: APIRoute = async (context) => {
-  const { request, locals } = context;
+export const POST: APIRoute = async ({ request, locals }) => {
   try {
     const body = await request.json() as ReportBody;
     const { questionId, reportType, message, userContext } = body;
 
-    // Validation
+    // 1. Validation
     if (!reportType || !message) {
       return new Response(JSON.stringify({ error: 'Faltan campos requeridos' }), {
         status: 400,
@@ -21,10 +21,29 @@ export const POST: APIRoute = async (context) => {
       });
     }
 
-    // Access environment (Cloudflare runtime env takes precedence over build-time env)
-    const env = (locals as any).runtime?.env || import.meta.env;
+    // 2. Save to Database (Primary)
+    // This ensures we never lose a report even if Telegram fails
+    const { data: dbData, error: dbError } = await (supabase
+      .from('user_reports') as any)
+      .insert([
+        {
+          report_type: reportType,
+          question_id: questionId,
+          message: message,
+          user_context: userContext
+        }
+      ])
+      .select()
+      .single();
 
-    // Helper to clean environment variables (removing leading =, quotes, etc.)
+    if (dbError) {
+      console.error('❌ [REPORT] Database Error:', dbError);
+      // We continue to try Telegram even if DB fails, but we should log it
+    }
+
+    // 3. Telegram Notification (Secondary)
+    const env = (locals as any).runtime?.env || (import.meta as any).env || {};
+
     const cleanEnvVar = (val: any) => {
       if (!val || typeof val !== 'string') return '';
       let cleaned = val.trim();
@@ -35,122 +54,61 @@ export const POST: APIRoute = async (context) => {
       return cleaned;
     };
 
-    const privateBotToken = cleanEnvVar(env.TELEGRAM_BOT_TOKEN);
-    const privateChatId = cleanEnvVar(env.TELEGRAM_CHAT_ID);
-    const communityBotToken = cleanEnvVar(env.COMMUNITY_BOT_TOKEN);
-    const communityChatId = cleanEnvVar(env.COMMUNITY_CHAT_ID);
+    const botToken = cleanEnvVar(env.TELEGRAM_BOT_TOKEN);
+    const chatId = cleanEnvVar(env.TELEGRAM_CHAT_ID);
 
-    const isPlaceholder = (val: string) => !val || val.includes('tu_token_aqui') || val.includes('tu_id_de_grupo_aqui') || val === '';
+    const isPlaceholder = (val: string) => !val || val.includes('tu_token_aqui') || val === '';
 
-    // Determine destination
-    const isSuggestion = (reportType || '').toLowerCase().includes('feedback') ||
-                        (reportType || '').toLowerCase().includes('sugerencia') ||
-                        (reportType || '').toLowerCase().includes('mejora') ||
-                        (reportType || '').toLowerCase().includes('propuesta');
+    let telegramSuccess = false;
+    let telegramError = '';
 
-    let botToken = privateBotToken;
-    let chatId = privateChatId;
-    let destinationLabel = 'Private';
-
-    if (isSuggestion) {
-      if (!isPlaceholder(communityBotToken) && !isPlaceholder(communityChatId)) {
-        botToken = communityBotToken;
-        chatId = communityChatId;
-        destinationLabel = 'Community';
-      } else {
-        console.log('⚠️ [REPORT] Community tokens are missing or placeholders. Falling back to Private Telegram bot.');
-        destinationLabel = 'Private (Fallback)';
-      }
-    }
-
-    // Final check for the selected tokens
-    if (isPlaceholder(botToken) || isPlaceholder(chatId)) {
-      const logMsg = `📩 [REPORT] Received (${destinationLabel}): Type=${reportType}, Msg=${message.substring(0, 50)}...`;
-      console.log(logMsg);
-      console.error(`❌ [REPORT] Selected tokens for ${destinationLabel} are invalid or placeholders.`);
-
-      // If we are in production and tokens are missing, it's a configuration error
-      const isProd = import.meta.env.PROD;
-      if (isProd) {
-        return new Response(JSON.stringify({
-          error: 'Configuración de Telegram incompleta en el servidor.',
-          details: `Missing valid tokens for destination: ${destinationLabel}. Please check TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID.`
-        }), {
-          status: 500,
-          headers: { 'Content-Type': 'application/json' }
-        });
-      }
-
-      return new Response(JSON.stringify({
-        success: true,
-        dev: true,
-        message: 'Reporte simulado (tokens no configurados o placeholders)'
-      }), {
-        headers: { 'Content-Type': 'application/json' }
-      });
-    }
-
-    // Send to Telegram
-    const headerEmoji = isSuggestion ? '💡 SUGERENCIA / FEEDBACK' : '🚨 REPORTE DE ERROR';
-    const text = `
+    if (!isPlaceholder(botToken) && !isPlaceholder(chatId)) {
+      try {
+        const headerEmoji = reportType.toLowerCase().includes('feedback') ? '💡 FEEDBACK' : '🚨 ERROR';
+        const text = `
 *${headerEmoji}*
-
 📌 *Tipo:* ${reportType}
 🆔 *ID Pregunta:* \`${questionId || 'N/A'}\`
 👤 *Contexto:* ${userContext || 'Anónimo'}
-
 📝 *Mensaje:*
 ${message}
-    `.trim();
+        `.trim();
 
-    const telegramUrl = `https://api.telegram.org/bot${botToken}/sendMessage`;
+        const response = await fetch(`https://api.telegram.org/bot${botToken}/sendMessage`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            chat_id: chatId,
+            text,
+            parse_mode: 'Markdown'
+          })
+        });
 
-    // Prepare message payload
-    const payload: any = {
-      chat_id: chatId,
-      text: text,
-      parse_mode: 'Markdown'
-    };
-
-    // Add voting buttons if it's a community suggestion (specifically for COMMUNITY destination)
-    if (destinationLabel === 'Community') {
-      payload.reply_markup = {
-        inline_keyboard: [
-          [
-            { text: '⭐ Útil', callback_data: 'vote_up' },
-            { text: '❌ No prioritario', callback_data: 'vote_down' }
-          ],
-          [
-            { text: '💬 Abrir Debate', url: `https://t.me/WorldExams` }
-          ]
-        ]
-      };
+        const result = await response.json() as { ok: boolean, description?: string };
+        telegramSuccess = !!result.ok;
+        if (!result.ok) telegramError = result.description || 'Unknown error';
+      } catch (e: any) {
+        telegramError = e.message;
+      }
+    } else {
+      telegramError = 'Telegram tokens not configured';
     }
 
-    const response = await fetch(telegramUrl, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(payload)
-    });
-
-    const result = await response.json() as { ok: boolean, description?: string };
-
-    if (!result.ok) {
-      console.error(`Telegram API Error (${destinationLabel}):`, result);
-      throw new Error(`Telegram API (${destinationLabel}): ${result.description || 'Unknown error'}`);
-    }
-
-    console.log(`✅ [REPORT] Successfully sent to ${destinationLabel} Telegram.`);
-    return new Response(JSON.stringify({ success: true, destination: destinationLabel }), {
+    return new Response(JSON.stringify({
+      success: true,
+      db: !!dbData,
+      telegram: telegramSuccess,
+      telegramError: telegramError || undefined
+    }), {
+      status: 200,
       headers: { 'Content-Type': 'application/json' }
     });
 
   } catch (err: unknown) {
     const errorMessage = err instanceof Error ? err.message : 'Unknown error';
-    console.error('Report API 500:', errorMessage);
     return new Response(JSON.stringify({
       error: 'Error interno al procesar el reporte.',
-      message: errorMessage
+      details: errorMessage
     }), {
       status: 500,
       headers: { 'Content-Type': 'application/json' }

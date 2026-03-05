@@ -52,5 +52,10 @@ export const mxConfig: CountryConfig = {
   },
 
   // Institución oficial
-  institucion: 'CENEVAL - Centro Nacional de Evaluación para la Educación Superior'
+  institucion: 'CENEVAL - Centro Nacional de Evaluación para la Educación Superior',
+
+  // Características activas
+  features: {
+    blog: false
+  }
 };

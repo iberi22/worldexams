@@ -21,11 +21,6 @@ Disallow: /
 User-agent: *
 Allow: /
 
-# Real Simple Licensing (RSL)
-# This repository and its content are available for non-commercial use.
-# For commercial scraping, AI training, or high-volume API access,
-# you must obtain a license.
-#
-# License-Page: https://worldexams.github.io/saber-co/developers/license
-# Payment-Info: https://worldexams.github.io/saber-co/developers/pricing
-# Sitemap: https://worldexams.github.io/saber-co/sitemap-index.xml
+# Sitemap (primary + fallback)
+Sitemap: https://saberparatodos.space/sitemap-index.xml
+Sitemap: https://saberparatodos.pages.dev/sitemap-index.xml

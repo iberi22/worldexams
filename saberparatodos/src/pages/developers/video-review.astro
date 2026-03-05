@@ -1,0 +1,183 @@
+---
+import Layout from '../../layouts/Layout.astro';
+---
+
+<Layout title="Video Review QA | World Exams">
+  <main class="min-h-screen bg-[#0f1117] text-white p-6">
+    <section class="max-w-6xl mx-auto space-y-6">
+      <header class="border border-white/10 bg-[#141824] rounded-2xl p-6">
+        <h1 class="text-3xl font-bold text-[#FCD116]">Video Frame Review</h1>
+        <p class="text-white/70 mt-2">
+          Carga videos MP4 y genera capturas de frames para revisión visual y análisis por LLM.
+        </p>
+      </header>
+
+      <section class="border border-white/10 bg-[#141824] rounded-2xl p-6 space-y-4">
+        <label class="text-sm uppercase tracking-wider text-white/60" for="video-input">Videos MP4</label>
+        <input id="video-input" type="file" accept="video/mp4" multiple class="block w-full text-sm" />
+        <div class="flex items-center gap-4 text-xs text-white/60">
+          <span id="summary">Sin procesar</span>
+          <button id="analyze-btn" class="px-4 py-2 rounded-lg bg-[#003893] hover:bg-[#0350cc] transition-colors font-bold">
+            Generar Frames
+          </button>
+        </div>
+      </section>
+
+      <section id="results" class="space-y-8"></section>
+    </section>
+  </main>
+
+  <script>
+    const input = document.getElementById('video-input');
+    const analyzeBtn = document.getElementById('analyze-btn');
+    const results = document.getElementById('results');
+    const summary = document.getElementById('summary');
+    const runParam = new URLSearchParams(window.location.search).get('run');
+
+    const percents = [0.05, 0.25, 0.5, 0.75, 0.95];
+
+    const toDataUrl = (video: HTMLVideoElement) => {
+      const canvas = document.createElement('canvas');
+      canvas.width = video.videoWidth;
+      canvas.height = video.videoHeight;
+      const ctx = canvas.getContext('2d');
+      if (ctx) ctx.drawImage(video, 0, 0, canvas.width, canvas.height);
+      return canvas.toDataURL('image/png');
+    };
+
+    const seekTo = (video: HTMLVideoElement, time: number) =>
+      new Promise<void>((resolve) => {
+        video.currentTime = time;
+        video.onseeked = () => resolve();
+      });
+
+    const buildFrameCard = (src: string, title: string, videoName: string, frameIdx: number, ts: string) => {
+      const card = document.createElement('article');
+      card.className = 'rounded-xl border border-white/10 overflow-hidden bg-black/30';
+      card.setAttribute('data-testid', 'frame-thumb');
+      card.setAttribute('data-video-name', videoName);
+      card.setAttribute('data-frame-index', String(frameIdx));
+      card.setAttribute('data-timestamp', String(ts));
+
+      const img = document.createElement('img');
+      img.src = src;
+      img.alt = `${videoName} frame ${frameIdx}`;
+      img.className = 'w-full h-auto';
+
+      const meta = document.createElement('div');
+      meta.className = 'p-2 text-xs text-white/70';
+      meta.textContent = title;
+
+      card.appendChild(img);
+      card.appendChild(meta);
+      return card;
+    };
+
+    const processVideoFile = async (file: File) => {
+      const wrapper = document.createElement('section');
+      wrapper.className = 'border border-white/10 bg-[#141824] rounded-2xl p-4 space-y-3';
+      wrapper.setAttribute('data-testid', 'video-review-block');
+      wrapper.setAttribute('data-video-name', file.name);
+
+      const title = document.createElement('h2');
+      title.className = 'text-lg font-semibold text-[#FCD116]';
+      title.textContent = file.name;
+      wrapper.appendChild(title);
+
+      const grid = document.createElement('div');
+      grid.className = 'grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4';
+      wrapper.appendChild(grid);
+      if (results) results.appendChild(wrapper);
+
+      const video = document.createElement('video');
+      video.preload = 'metadata';
+      video.muted = true;
+      video.src = URL.createObjectURL(file);
+
+      await new Promise<void>((resolve, reject) => {
+        video.onloadedmetadata = () => resolve();
+        video.onerror = () => reject(new Error(`No se pudo cargar ${file.name}`));
+      });
+
+      for (let i = 0; i < percents.length; i++) {
+        const p = percents[i];
+        const ts = video.duration * p;
+        await seekTo(video, ts);
+        const dataUrl = toDataUrl(video);
+        const card = buildFrameCard(dataUrl, `Frame ${i + 1} @ ${ts.toFixed(2)}s`, file.name, i + 1, ts.toFixed(2));
+        grid.appendChild(card);
+      }
+
+      URL.revokeObjectURL(video.src);
+      return { name: file.name, duration: Number(video.duration.toFixed(2)), frames: percents.length };
+    };
+
+    const renderFromManifest = (manifest: any, runFolder: string) => {
+      if (results) results.innerHTML = '';
+      let totalFrames = 0;
+      for (const item of manifest.items || []) {
+        const wrapper = document.createElement('section');
+        wrapper.className = 'border border-white/10 bg-[#141824] rounded-2xl p-4 space-y-3';
+        wrapper.setAttribute('data-testid', 'video-review-block');
+        wrapper.setAttribute('data-video-name', item.video);
+
+        const title = document.createElement('h2');
+        title.className = 'text-lg font-semibold text-[#FCD116]';
+        title.textContent = `${item.video} (${item.duration_seconds || 0}s)`;
+        wrapper.appendChild(title);
+
+        const grid = document.createElement('div');
+        grid.className = 'grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4';
+        wrapper.appendChild(grid);
+
+        for (const f of item.frames || []) {
+          if (!f.path) continue;
+          const src = `/video-frame-analysis/${runFolder}/${f.path}`;
+          const card = buildFrameCard(src, `Frame ${f.index} @ ${f.timestamp_seconds}s`, item.video, f.index, f.timestamp_seconds);
+          grid.appendChild(card);
+          totalFrames += 1;
+        }
+
+        if (results) results.appendChild(wrapper);
+      }
+      (window as any).__videoFrameReview = manifest;
+      if (summary) summary.textContent = `Listo: ${manifest.count || 0} videos, ${totalFrames} frames`;
+    };
+
+    analyzeBtn?.addEventListener('click', async () => {
+      const files = Array.from((input as HTMLInputElement)?.files || []);
+      if (results) results.innerHTML = '';
+      if (!files.length) {
+        if (summary) summary.textContent = 'Selecciona al menos un video.';
+        return;
+      }
+
+      if (summary) summary.textContent = `Procesando ${files.length} video(s)...`;
+      const meta: any[] = [];
+      for (const file of files) {
+        try {
+          meta.push(await processVideoFile(file));
+        } catch (err) {
+          meta.push({ name: file.name, error: String(err) });
+        }
+      }
+
+      const totalFrames = meta.reduce((acc, m) => acc + (m.frames || 0), 0);
+      (window as any).__videoFrameReview = {
+        generated_at: new Date().toISOString(),
+        files: meta,
+        total_frames: totalFrames,
+      };
+      if (summary) summary.textContent = `Listo: ${meta.length} videos, ${totalFrames} frames`;
+    });
+
+    if (runParam) {
+      fetch(`/video-frame-analysis/${runParam}/manifest.json`)
+        .then((r) => r.json())
+        .then((manifest) => renderFromManifest(manifest, runParam))
+        .catch(() => {
+          if (summary) summary.textContent = `No se pudo cargar manifest para run=${runParam}`;
+        });
+    }
+  </script>
+</Layout>

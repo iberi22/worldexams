@@ -1,0 +1,65 @@
+{
+  "protocol_version": "4.1",
+  "country": "co",
+  "grade": 11,
+  "period": 1,
+  "subject": "matematicas",
+  "topic": "Funciones: Composición, Dominio, Rango e Inversas",
+  "bundle_file": "CO-MAT-11-functions-001-PRO-v4-bundle.md",
+  "bundle_assets_dir": "src/content/questions/colombia/matematicas/grado-11/periodo-1/CO-MAT-11-functions-001-PRO-v4-bundle.md.assets",
+  "question_id": "CO-MAT-11-functions-001-PRO-v5",
+  "question_type": "weighted",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "total_seconds": 15,
+    "intro_seconds": 3,
+    "explanation_seconds": 9,
+    "outro_seconds": 3
+  },
+  "branding": {
+    "intro": [
+      "worldexams",
+      "saberparatodos"
+    ],
+    "outro": [
+      "worldexams",
+      "saberparatodos"
+    ]
+  },
+  "content": {
+    "statement": "Determine el dominio de la función compuesta $h(x) = (g \\circ f)(x)$, donde $f(x) = \\sqrt{\\frac{x-3}{x+2}}$ y $g(x) = \\ln(x-16)$. (Note el cambio en $g(x)$ para mayor complejidad).",
+    "explanation": "Para que $g(f(x))$ exista, $f(x)$ debe estar en el dominio de $g$. El dominio de $g(x)=\\ln(x-16)$ es $x > 16$.\r\nPor tanto, necesitamos que $\\sqrt{\\frac{x-3}{x+2}} > 16$.\r\nElevando al cuadrado: $\\frac{x-3}{x+2} > 256$.\r\n$\\frac{x-3 - 256(x+2)}{x+2} > 0 \\rightarrow \\frac{-255x - 515}{x+2} > 0$.\r\nEsto solo ocurre en un intervalo muy pequeño cerca de $x=-2$ por la izquierda. Sin embargo, para la mayoría de los valores estándar y viendo que el valor máximo de la fracción se acerca a 1 cuando $x \\to \\infty$, se requiere un análisis muy fino. La opción A sugiere que en rangos normales no hay solución, pero técnicamente existe una solución cerca de la asíntota. *Corrección*: Si analizamos $\\frac{x-3}{x+2}$ cerca de $x=-2$, el valor puede ser arbitrariamente grande. Por tanto, la opción A es un distractor que evalúa si el estudiante cree que el rango de una función racional está limitado. La respuesta correcta real requiere resolver la inecuación.",
+    "narration_script": "Vamos a resolver esta pregunta en tres pasos. Paso uno, identifica los datos del enunciado. Paso dos, plantea la operación o ecuación correcta. Paso tres, verifica el resultado y confirma la opción final. Para que $g(f(x))$ exista, $f(x)$ debe estar en el dominio de $g$. El dominio de $g(x)=\\ln(x-16)$ es $x > 16$.\r\nPor tanto, necesitamos que $\\sqrt{\\frac{x-3}{x+2}} > 16$.\r\nElevando al cuadrado: $\\frac{x-3}{x+2} > 256$.\r\n$\\frac{x-3 - 256(x+2)}{x+2} > 0 \\rightarrow \\frac{-255x - 515}{x+2} > 0$.\r\nEsto solo ocurre en un intervalo muy pequeño cerca de $x=-2$ por la izquierda. Sin embargo, para la mayoría de los valores estándar y viendo que el valor máximo de la fracción se acerca a 1 cuando $x \\to \\infty$, se requiere un análisis muy fino. La opción A sugiere que en rangos normales no hay solución, pero técnicamente existe una solución cerca de la asíntota. *Corrección*: Si analizamos $\\frac{x-3}{x+2}$ cerca de $x=-2$, el valor puede ser arbitrariamente grande. Por tanto, la opción A es un distractor que evalúa si el estudiante cree que el rango de una función racional está limitado. La respuesta correcta real requiere resolver la inecuación."
+  },
+  "audio": {
+    "tts_engine": "xtts-v2-local",
+    "align_engine": "whisperx",
+    "fallback_engine": "piper"
+  },
+  "outputs": {
+    "final_video_path": "renders/CO-MAT-11-functions-001-PRO-v5.mp4",
+    "audio_path": "audio/CO-MAT-11-functions-001-PRO-v5.mp3",
+    "timings_path": "timings/CO-MAT-11-functions-001-PRO-v5.json",
+    "subtitles_path": "subtitles/CO-MAT-11-functions-001-PRO-v5.srt"
+  },
+  "social": {
+    "youtube": {
+      "mode": "auto",
+      "status": "pending"
+    },
+    "instagram": {
+      "mode": "auto",
+      "status": "pending"
+    },
+    "tiktok": {
+      "mode": "manual_queue",
+      "status": "pending"
+    }
+  },
+  "status": "generated",
+  "created_at": "2026-03-04T17:50:17.563Z",
+  "generated_at": "2026-03-04T19:19:43.506547Z",
+  "updated_at": "2026-03-04T19:19:43.506563Z"
+}

@@ -15,6 +15,7 @@ const heroSubtitle = isMX ? 'Examen Nacional de Ingreso a la Educación Superior
 const heroDesc = isMX
   ? 'Domina la estructura del CENEVAL EXANI-II. Conoce las áreas transversales, módulos específicos y asegura tu lugar.'
   : 'Conoce la estructura de las pruebas de estado colombianas, las competencias evaluadas y las mejores estrategias.';
+const siteUrl = Astro.site ? Astro.site.toString() : 'https://saberparatodos.space';
 
 // Schema.org structured data for SEO
 const schema = {
@@ -25,7 +26,7 @@ const schema = {
   "provider": {
     "@type": "Organization",
     "name": "World Exams",
-    "url": `https://${countryConfig.domain}`
+    "url": siteUrl
   },
   "about": {
     "@type": "EducationalOccupationalCredential",

@@ -12,7 +12,7 @@ import Layout from '../../layouts/Layout.astro';
         </p>
       </header>
 
-      <div class="grid md:grid-cols-2 gap-8">
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
         <!-- API Keys Section -->
         <div class="bg-[#1A1A1A] p-6 rounded-lg border border-[#333]">
           <h2 class="text-2xl font-bold mb-4 flex items-center gap-2">
@@ -42,6 +42,22 @@ import Layout from '../../layouts/Layout.astro';
             class="inline-block bg-[#1A1A1A] border border-[#A0A0A0] hover:border-white text-white px-6 py-3 rounded-lg font-bold transition-colors"
           >
             Read Docs
+          </a>
+        </div>
+
+        <!-- Video QA Section -->
+        <div class="bg-[#1A1A1A] p-6 rounded-lg border border-[#333]">
+          <h2 class="text-2xl font-bold mb-4 flex items-center gap-2">
+            <span class="text-[#FCD116]">🎞️</span> Video QA
+          </h2>
+          <p class="text-[#A0A0A0] mb-6">
+            Revisión de frames para validar calidad visual y claridad pedagógica.
+          </p>
+          <a
+            href="/developers/video-review"
+            class="inline-block bg-[#CE1126] hover:bg-[#b30f21] text-white px-6 py-3 rounded-lg font-bold transition-colors"
+          >
+            Abrir Revisor
           </a>
         </div>
       </div>

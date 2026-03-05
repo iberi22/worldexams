@@ -27,8 +27,19 @@ Crear la plataforma de preparación para pruebas de estado (Saber 3° a 11°) m�
 
 ## 4. Estrategia de Monetización
 
-### A. Modelo Institucional (SaaS B2B)
-Venta de suscripciones anuales a **Colegios y Preicfes**:
+### A. Modelo Institucional (SaaS B2B - Enfoque Colombia)
+Venta de suscripciones anuales a **Colegios y Preicfes** basadas en tiers por volumen de estudiantes:
+
+*   **Pricing por Volumen (Tiers Anuales - COP Estimado):**
+    *   **Tier 1 (Micro):** Hasta 50 estudiantes (~$500,000 COP/año). Ideal para academias pequeñas o grados únicos.
+    *   **Tier 2 (Pyme):** 51 - 200 estudiantes (~$1,500,000 COP/año).
+    *   **Tier 3 (Macro):** 201 - 500 estudiantes (~$3,000,000 COP/año).
+    *   **Tier 4 (Enterprise):** 500+ estudiantes (Precio a medida).
+*   **Gestión y Vinculación de Cuentas (Technical Flow):**
+    *   **Base de Datos Oficial:** El colegio se registra seleccionando su institución de nuestra tabla `colleges` (precargada con 50k+ registros del DANE).
+    *   **Self-Join (Vinculación):** Un colegio con suscripción activa genera **Códigos de Invitación** o **Magic Links Grupales** (ej. `saberparatodos.space/join/ABC-123`).
+    *   Los estudiantes existentes inician sesión y al usar el código, la Edge Function `join-organization` valida el cupo (`max_students` vs count actual) y crea el registro en `organization_students`.
+    *   Si el usuario no tiene cuenta, el Magic Link lo lleva por onboarding y lo auto-asigna al grupo.
 *   **Dashboard del Rector/Profesor:** Ver progreso detallado por estudiante y grupo.
 *   **Simulacros Programados:** El colegio define fecha y hora, y el sistema abre el examen.
 *   **Comparativas:** Ranking interno del colegio vs promedio nacional.
@@ -41,7 +52,14 @@ Exponer el banco de preguntas vía REST API (`api.worldexams.org`):
 
 ### C. Usuarios Finales (B2C)
 *   **Gratis:** Acceso total a preguntas, con publicidad y funcionalidades básicas.
-*   **Premium:** Sin publicidad, estadísticas avanzadas, modo "Sala de Exámenes" ilimitado.
+*   **Premium Pro:** Sin publicidad, estadísticas avanzadas, modo "Sala de Exámenes" ilimitado.
+*   **Simulacros Profundos:** Simulacros cerrados con la misma estructura y tiempos reales de los exámenes oficiales (ej. Saber 11) y control anti-cheat básico.
+*   **Planes de Mejora IA:** Al terminar un simulacro, un análisis detallado diagnostica debilidades y genera recomendaciones de estudio enlazando bundles específicos.
+
+### D. Marketplace de Tutorías Online (B2C-to-C)
+*   **Registro de Tutores:** Profesores aplican, establecen tarifas (hora), materias y horarios.
+*   **Reservas (Booking):** Estudiantes agendan módulos. La plataforma retiene comisión.
+*   **Aula Virtual Integrada:** Videollamada (WebRTC via Trystero/Realtime) + Pizarra Interactiva (tldraw/Excalidraw) + Inyección de preguntas directo del banco de WorldExams al canvas.
 
 ## 5. Roadmap
 
@@ -350,7 +368,7 @@ El sistema institucional permite a colegios y academias gestionar estudiantes y 
 | **Edge Function `create-group`** | Crear grupos nuevos | ✅ |
 | **Frontend Register** | Selector de colegio en registro | ✅ |
 
-### Schema SQL
+### Schema SQL (Existente & Extensiones)
 
 ```sql
 -- Colleges (imported from Datos Abiertos Colombia)
@@ -364,10 +382,19 @@ CREATE TABLE colleges (
   zona VARCHAR(20)
 );
 
--- Organization Students
+-- Extensiones de la Organizacion para Pagos
+-- (Se asume tabla organizations existente)
+ALTER TABLE organizations
+ADD COLUMN plan_type VARCHAR(50) DEFAULT 'free', -- 'free', 'micro', 'pyme', 'macro', 'enterprise'
+ADD COLUMN max_students INT DEFAULT 0,
+ADD COLUMN subscription_status VARCHAR(50) DEFAULT 'inactive',
+ADD COLUMN stripe_customer_id VARCHAR(255);
+
+-- Organization Students (Cuentas Vinculadas)
 CREATE TABLE organization_students (
   id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
   organization_id UUID REFERENCES organizations(id),
+  user_id UUID REFERENCES auth.users(id), -- Vinculación con cuenta real del estudiante
   student_name VARCHAR(255),
   email VARCHAR(255),
   grade_level INTEGER,
@@ -379,8 +406,9 @@ CREATE TABLE organization_students (
 CREATE TABLE organization_groups (
   id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
   organization_id UUID REFERENCES organizations(id),
-  name VARCHAR(100),
+  name VARCHAR(100), -- ej. '11-A', 'Sabatino'
   grade_level INTEGER,
+  invite_code VARCHAR(20) UNIQUE, -- Código para self-join
   created_at TIMESTAMPTZ DEFAULT now()
 );
 ```

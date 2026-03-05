@@ -42,6 +42,7 @@
   import IntegrityIntro from './IntegrityIntro.svelte'; // New Component
   import { getPWAStatus, getRecommendedCacheSize, getCacheExpiryHours } from '../lib/pwa-detector'; // PWA Detection
   import packageInfo from '../../package.json';
+  import { countryConfig } from '../config';
   // Removed static import to avoid Vite warning
   import LocalModeNotice from './LocalModeNotice.svelte';
   import OfflineProfile from './OfflineProfile.svelte';
@@ -1174,6 +1175,7 @@
           </div>
           -->
 
+          {#if countryConfig.features?.blog}
           <FlashlightCard
             onClick={async () => {
               isNavigatingToBlog = true;
@@ -1211,6 +1213,7 @@
             <h3 class="text-xl font-bold uppercase tracking-widest mb-2">Blog / Artículos</h3>
             <p class="text-xs opacity-40">Explorar banco de preguntas</p>
           </FlashlightCard>
+          {/if}
         </div>
 
         <!-- CTA Button -->
@@ -1414,6 +1417,7 @@
     <ExamConfigModal
       subject={selectedSubject}
       currentGrade={selectedGrade || 11}
+      isLoggedIn={Boolean(user)}
       availableQuestions={loadedQuestions}
       initialRoomCode={initialRoomCode}
       onStart={handleExamConfigStart}

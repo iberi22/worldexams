@@ -8,6 +8,7 @@
   import type { AppQuestion } from '../lib/api-service';
   import { defaultQuestionRepository, findQuestionById } from '../lib/questions';
   import ReportModal from './ReportModal.svelte';
+  import { countryConfig } from '../config';
   import RadarChart from './RadarChart.svelte'; // 🆕
 
   // Define interface locally with details support
@@ -1049,7 +1050,8 @@
                     </button>
                   </div>
 
-                  <!-- Blog Links for each weak area -->
+                                    {#if countryConfig.features?.blog}
+<!-- Blog Links for each weak area -->
                   <div class="mt-4 flex flex-wrap justify-center gap-2 relative z-10">
                     {#each weakAreas as area}
                       <button
@@ -1066,7 +1068,8 @@
                       </button>
                     {/each}
                   </div>
-                {:else}
+                                  {/if}
+{:else}
                   <div class="text-center py-8 text-white/30 text-sm relative z-10">
                     Completa más exámenes para generar tu plan de mejora personalizado
                   </div>

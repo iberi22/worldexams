@@ -8,7 +8,7 @@ $targets = @(
   '/',
   '/ranking',
   '/dashboard',
-  '/api/CO/icfes/11/matematicas/index.json'
+  '/api/packs/week-9-grade-11-subject-matematicas.json'
 )
 
 Write-Host "[verify] Base URL: $BaseUrl" -ForegroundColor Cyan

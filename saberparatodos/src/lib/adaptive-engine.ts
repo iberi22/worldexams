@@ -83,26 +83,23 @@ function getClosestQuestion(pool: AppQuestion[], targetCEFR: CEFRLevel, targetDi
   const targetCEFRNum = CEFR_LEVEL_NUM[targetCEFR] || 1;
 
   // Map to calculate a "distance" score for each question
-  const scoredQuestions = pool.map(q => {
-    // Attempt to extract CEFR from various possible fields
-    let cefrRaw = q.cefr_level || q.cefrLevel;
-    if (!cefrRaw && q.meta && (q.meta.cefr_level || q.meta.cefrLevel)) {
-      cefrRaw = q.meta.cefr_level || q.meta.cefrLevel;
-    }
-    const qCEFR = parseCEFRLevel((cefrRaw as string) || undefined, q.grade);
-    const qCEFRNum = CEFR_LEVEL_NUM[qCEFR] || 1;
+    const scoredQuestions = pool.map(q => {
+      // Attempt to extract CEFR from various possible fields
+      const cefrRaw = (q as any).cefr_level || (q as any).cefrLevel || ((q as any).meta && ((q as any).meta.cefr_level || (q as any).meta.cefrLevel));
+      const qCEFR = parseCEFRLevel((cefrRaw as string) || undefined, q.grade);
+      const qCEFRNum = CEFR_LEVEL_NUM[qCEFR] || 1;
 
-    // Extract difficulty
-    let qDiff = 3;
-    if (typeof q.difficulty === 'number') {
-      qDiff = q.difficulty;
-    } else if (q.meta && typeof q.meta.difficulty === 'number') {
-      qDiff = q.meta.difficulty;
-    }
+      // Extract difficulty
+      let qDiff = 3;
+      if (typeof q.difficulty === 'number') {
+        qDiff = q.difficulty;
+      } else if ((q as any).meta && typeof (q as any).meta.difficulty === 'number') {
+        qDiff = (q as any).meta.difficulty;
+      }
 
-    // Weight difference in CEFR more heavily than difference in relative difficulty
-    const cefrDistance = Math.abs(qCEFRNum - targetCEFRNum) * 10;
-    const diffDistance = Math.abs(qDiff - targetDifficulty);
+      // Weight difference in CEFR more heavily than difference in relative difficulty
+      const cefrDistance = Math.abs(qCEFRNum - targetCEFRNum) * 10;
+      const diffDistance = Math.abs(qDiff - targetDifficulty);
 
     // Total distance score (lower is better)
     const distanceScore = cefrDistance + diffDistance;

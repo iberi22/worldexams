@@ -7,11 +7,11 @@ describe('Adaptive Testing Engine', () => {
 
   // Mock a diverse question pool (A1 to C1)
   const mockPool: AppQuestion[] = [
-    { id: 'q1', text: 'A1-Easy', cefr_level: 'A1', difficulty: 2, options: [], correctOptionId: 'A' },
-    { id: 'q2', text: 'A2-Medium', cefr_level: 'A2', difficulty: 4, options: [], correctOptionId: 'A' },
-    { id: 'q3', text: 'B1-Medium', cefr_level: 'B1', difficulty: 6, options: [], correctOptionId: 'A' },
-    { id: 'q4', text: 'B2-Hard', cefr_level: 'B2', difficulty: 8, options: [], correctOptionId: 'A' },
-    { id: 'q5', text: 'C1-Expert', cefr_level: 'C1', difficulty: 10, options: [], correctOptionId: 'A' },
+    { id: 'q1', text: 'A1-Easy', cefr_level: 'A1', difficulty: 2, options: [], correctOptionId: 'A', category: 'ingles', grade: 11 },
+    { id: 'q2', text: 'A2-Medium', cefr_level: 'A2', difficulty: 4, options: [], correctOptionId: 'A', category: 'ingles', grade: 11 },
+    { id: 'q3', text: 'B1-Medium', cefr_level: 'B1', difficulty: 6, options: [], correctOptionId: 'A', category: 'ingles', grade: 11 },
+    { id: 'q4', text: 'B2-Hard', cefr_level: 'B2', difficulty: 8, options: [], correctOptionId: 'A', category: 'ingles', grade: 11 },
+    { id: 'q5', text: 'C1-Expert', cefr_level: 'C1', difficulty: 10, options: [], correctOptionId: 'A', category: 'ingles', grade: 11 },
   ];
 
   it('should return a calibration question when answered count is low', () => {
