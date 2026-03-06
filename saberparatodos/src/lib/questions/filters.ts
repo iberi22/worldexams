@@ -20,7 +20,24 @@ export function filterByGradeAndDiagnostic(
   }
 
   const lowerGrades = [3, 5, 7, 9].filter((g) => g < grade);
-  return questions.filter((q) => q.grade === grade || (q.grade < grade && lowerGrades.includes(q.grade)));
+  let result = questions.filter((q) => q.grade === grade || (q.grade < grade && lowerGrades.includes(q.grade)));
+
+  return result;
+}
+
+const CEFR_ORDER = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
+
+export function filterByCefrLevel(questions: AppQuestion[], minCefrLevel?: string): AppQuestion[] {
+  if (!minCefrLevel) return questions;
+
+  const minIndex = CEFR_ORDER.indexOf(minCefrLevel);
+  if (minIndex === -1) return questions; // Invalid cefr level, do not filter
+
+  return questions.filter((q) => {
+    if (!q.cefr_level) return true; // If no level is specified, assume it's valid
+    const qIndex = CEFR_ORDER.indexOf(q.cefr_level);
+    return qIndex === -1 || qIndex >= minIndex;
+  });
 }
 
 function getPeriodTopics(subject: string | null, grade: number, period: number): string[] {

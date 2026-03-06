@@ -1,6 +1,6 @@
 <script lang="ts">
   import { fade, fly, slide } from 'svelte/transition';
-  import { onDestroy } from 'svelte';
+  import { onDestroy, onMount } from 'svelte';
   import FlashlightCard from './FlashlightCard.svelte';
   import { getSubjectMemoryStats, clearAnsweredQuestionsOnly } from '../lib/question-memory';
   import { supabase } from '../lib/supabase';
@@ -74,6 +74,7 @@
   let mode = $state('SOLO'); // 'SOLO' or 'ROOM'
   let examMode = $state('simulacro'); // 🆕 'simulacro' | 'period'
   let selectedPeriod = $state(1); // 🆕 1, 2, 3, 4
+  let selectedEnglishLevel = $state(''); // 🆕 '' = Todos, A1, B1, C1
   let useDiagnostic = $state(false);
   let diagnosticMixPercent = $state(20); // % de preguntas de grados inferiores
   let effectiveUseDiagnostic = $derived(isLoggedIn && useDiagnostic);
@@ -136,59 +137,6 @@
       examMode = 'simulacro';
     }
   });
-
-  // ... (lines 119-208 unchanged, omitted for brevity) ...
-
-  // 🆕 Refined filtering logic for Create Party
-  // ... (inside createParty function, replacing filtering block) ...
-
-        // 🆕 Filter by Period if enabled
-        if (examMode === 'period') {
-             const periodConfig = currentPeriods.find(p => p.id === selectedPeriod);
-             if (periodConfig) {
-                 // 🆕 Resolve topics: If specific subject, use config. If Simulacro, aggregate ALL subjects for this period.
-                 let periodTopics = periodConfig.topics || [];
-                 const isGlobalSimulacro = normalizeTopic(selectedSubject) === 'simulacrocompleto';
-
-                 if (isGlobalSimulacro) {
-                    // Aggregate topics from ALL subjects for this grade/period
-                    const gradeCurr = CURRICULUM_CO[selectedGrade];
-                    if (gradeCurr) {
-                        Object.values(gradeCurr).forEach(subj => {
-                            const p = subj.periods.find(peri => peri.id === selectedPeriod);
-                            if (p && p.topics) {
-                                periodTopics = [...periodTopics, ...p.topics];
-                            }
-                        });
-                    }
-                    console.log(`🌐 Global Period ${selectedPeriod} topics:`, periodTopics.length);
-                 }
-
-                 const previousCount = filteredPool.length;
-
-                     filteredPool = filteredPool.filter(q => {
-                         // 🆕 Use q.topics array
-                         const topics = q.topics || [];
-                         if (topics.length === 0) {
-                             // Fallback to bundle ID in category
-                             const bundleId = q.category ? q.category.split(' :: ')[1] : '';
-                             if (bundleId) topics.push(bundleId);
-                         }
-
-                         // Check if ANY question topic matches ANY period topic
-                         return topics.some(qTopicRaw => {
-                             const qTopic = normalizeTopic(qTopicRaw);
-                             return periodTopics.some(t => {
-                                 const normalizedT = normalizeTopic(t);
-                                 return qTopic.includes(normalizedT) || normalizedT.includes(qTopic);
-                             });
-                         });
-                     });
-
-                 console.log(`📅 Filtered by Period ${selectedPeriod} (${isGlobalSimulacro ? 'Global' : periodConfig.name}): ${filteredPool.length}/${previousCount} questions`);
-             }
-        }
-
 
   let syncMethodClass = $derived(!roomEnabled || !roomCode
     ? 'text-white/40'
@@ -271,7 +219,6 @@
   }
 
   // 🆕 Auto-handle Join Code
-  import { onMount } from 'svelte';
   onMount(() => {
     try {
       isOnline = navigator.onLine;
@@ -481,6 +428,7 @@
                  if (msg.payload.grade) selectedGrade = msg.payload.grade;
                  if (msg.payload.examMode) examMode = msg.payload.examMode; // 🆕 Sync exam mode
                  if (msg.payload.period) selectedPeriod = msg.payload.period; // 🆕 Sync period
+                 if (msg.payload.minCefrLevel !== undefined) selectedEnglishLevel = msg.payload.minCefrLevel || ''; // 🆕 Sync English Level
                   if (msg.payload.useDiagnostic !== undefined) useDiagnostic = isLoggedIn && Boolean(msg.payload.useDiagnostic);
                  if (msg.payload.diagnosticMixPercent !== undefined) diagnosticMixPercent = Number(msg.payload.diagnosticMixPercent) || 20;
                  if (msg.payload.questions) {
@@ -573,7 +521,8 @@
          useDiagnostic: effectiveUseDiagnostic,
          diagnosticMixPercent: diagnosticMixPercent,
          examMode: examMode, // 🆕 Sync Mode
-         period: selectedPeriod // 🆕 Sync Period
+         period: selectedPeriod, // 🆕 Sync Period
+         minCefrLevel: selectedEnglishLevel || undefined // 🆕 Sync English Level
      };
 
      // 🆕 Skip if payload hasn't changed (prevents duplicate broadcasts)
@@ -582,7 +531,13 @@
        time: payload.time_option,
        grade: payload.grade,
        subject: payload.subject,
-       qCount: payload.questions?.length || 0
+       qCount: payload.questions?.length || 0,
+       isEnglishDiagnostic: payload.isEnglishDiagnostic,
+       useDiagnostic: payload.useDiagnostic,
+       diagnosticMixPercent: payload.diagnosticMixPercent,
+       examMode: payload.examMode,
+       period: payload.period,
+       minCefrLevel: payload.minCefrLevel
      });
 
      if (payloadHash === lastBroadcastPayload) {
@@ -615,10 +570,11 @@
                    questions: syncedQuestions,
                    host_peer_id: p2pService.isConnected() ? 'connected' : null,
                    isEnglishDiagnostic: isEnglishDiagnosticMode, // 🆕 Sync to DB for Realtime fallback
-                    useDiagnostic: effectiveUseDiagnostic,
+                   useDiagnostic: effectiveUseDiagnostic,
                    diagnosticMixPercent: diagnosticMixPercent,
                    examMode: examMode,
-                   period: selectedPeriod
+                   period: selectedPeriod,
+                   minCefrLevel: selectedEnglishLevel || undefined
                  }
                })
                .eq('party_code', roomCode);
@@ -670,7 +626,8 @@
           diagnosticMixPercent: diagnosticMixPercent,
           examMode: examMode,
           period: selectedPeriod,
-          englishDiagnostic: isEnglishDiagnosticMode
+          englishDiagnostic: isEnglishDiagnosticMode,
+          minCefrLevel: selectedEnglishLevel || undefined
         },
         {
           repository: defaultQuestionRepository,
@@ -710,6 +667,7 @@
           time_option: timeOption,
           exam_mode: examMode, // 🆕
           period: selectedPeriod, // 🆕
+          minCefrLevel: selectedEnglishLevel || undefined,
           useDiagnostic: effectiveUseDiagnostic,
           diagnosticMixPercent: diagnosticMixPercent,
           difficulty: 'NORMAL',
@@ -874,11 +832,8 @@
       }
       if (config.exam_mode) examMode = config.exam_mode; // 🆕
       if (config.period) selectedPeriod = config.period; // 🆕
+      if (config.minCefrLevel !== undefined) selectedEnglishLevel = config.minCefrLevel || ''; // 🆕
       if (config.useDiagnostic !== undefined) useDiagnostic = isLoggedIn && Boolean(config.useDiagnostic);
-      if (config.diagnosticMixPercent !== undefined) diagnosticMixPercent = Number(config.diagnosticMixPercent) || 20;
-
-      console.log('🔄 Configuración inicial sincronizada:', {
-        subject: config.subject,
         grade: config.grade,
         num_questions: questionCount,
         time_option: timeOption,
@@ -965,6 +920,7 @@
             examMode: examMode,
             period: selectedPeriod,
             englishDiagnostic: isEnglishDiagnosticMode,
+            minCefrLevel: selectedEnglishLevel || undefined,
             strictPeriod: true
           },
           {
@@ -1045,6 +1001,7 @@
           }
           if (config.exam_mode) examMode = config.exam_mode; // 🆕
           if (config.period) selectedPeriod = config.period; // 🆕
+          if (config.minCefrLevel !== undefined) selectedEnglishLevel = config.minCefrLevel || ''; // 🆕
           if (config.useDiagnostic !== undefined) useDiagnostic = isLoggedIn && Boolean(config.useDiagnostic);
           if (config.diagnosticMixPercent !== undefined) diagnosticMixPercent = Number(config.diagnosticMixPercent) || 20;
           if (config.time_option !== undefined) {
@@ -1231,6 +1188,24 @@
                 {/each}
               </select>
             </div>
+
+            <!-- 🆕 English Level Selector -->
+            {#if selectedSubject === 'Inglés' || selectedSubject === 'INGLÉS' || selectedSubject === 'Inglés Diagnóstico'}
+              <div class="mt-4" transition:slide>
+                <label class="block text-xs uppercase tracking-widest text-[#FCD116] mb-2 font-bold">Nivel de Inglés Base</label>
+                <select
+                  bind:value={selectedEnglishLevel}
+                  disabled={configLocked}
+                  class="w-full px-4 py-3 bg-gray-900/90 border border-white/10 rounded-lg text-white font-medium focus:outline-none focus:border-emerald-500 focus:ring-2 focus:ring-emerald-500/20 transition-all cursor-pointer hover:bg-gray-900 {configLocked ? 'opacity-50 cursor-not-allowed' : ''}"
+                >
+                  <option value="" class="bg-gray-900 text-white py-2">No sabe / Desde A1</option>
+                  <option value="A1" class="bg-gray-900 text-white py-2">Bajo (Desde A1)</option>
+                  <option value="B1" class="bg-gray-900 text-white py-2">Bajo-Medio (Desde B1)</option>
+                  <option value="C1" class="bg-gray-900 text-white py-2">Medio-Alto (Desde C1)</option>
+                </select>
+                <p class="text-[10px] text-white/50 mt-2">Evaluaremos este nivel y superiores, incluyendo balance de dificultad.</p>
+              </div>
+            {/if}
 
             <!-- 🆕 Period Mode Selector -->
 

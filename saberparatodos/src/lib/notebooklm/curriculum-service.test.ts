@@ -18,7 +18,8 @@ describe('generateStudyPlan', () => {
       overallAccuracy: 50,
       recommendation: 'Study harder',
       strengthLevels: ['A1'],
-      weaknessLevels: ['A2', 'B1']
+      weaknessLevels: ['A2', 'B1'],
+      failedTopics: []
     };
 
     const plan = generateStudyPlan(mockResult);
@@ -45,14 +46,15 @@ describe('generateStudyPlan', () => {
       overallAccuracy: 80,
       recommendation: 'Good job',
       strengthLevels: ['A1', 'A2', 'B1'],
-      weaknessLevels: []
+      weaknessLevels: [],
+      failedTopics: []
     };
 
     const plan = generateStudyPlan(mockResult);
 
     // Should have specific modules
     expect(plan.modules.some(m => m.title.includes('Consolidación del Nivel B1'))).toBe(true);
-    expect(plan.modules.some(m => m.title.includes('Reto'))).toBe(true);
+    expect(plan.modules.some(m => m.title.includes('Desafío'))).toBe(true);
 
     // Should have source content
     expect(plan.sourceContent).toContain('# 🎓 Plan de Estudio Personalizado');
@@ -71,7 +73,8 @@ describe('generateStudyPlan', () => {
       overallAccuracy: 50,
       recommendation: 'Study',
       strengthLevels: [],
-      weaknessLevels: []
+      weaknessLevels: [],
+      failedTopics: []
     };
 
     const plan = generateStudyPlan(mockResult);

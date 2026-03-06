@@ -10,6 +10,7 @@ export interface QuestionSelectionRequest {
   period?: number;
   englishDiagnostic?: boolean;
   strictPeriod?: boolean;
+  minCefrLevel?: string;
 }
 
 export interface QuestionSelectionResult {

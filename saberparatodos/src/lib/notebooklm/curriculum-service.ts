@@ -47,7 +47,7 @@ export function generateStudyPlan(
 
   // 1. Module based on Weaknesses (Immediate Priorities)
   // Identify weakness levels from result
-  if (result.weaknessLevels.length > 0) {
+  if (result.weaknessLevels.length > 0 || (result.failedTopics && result.failedTopics.length > 0)) {
     const weaknessTopics: StudyTopic[] = [];
 
     // Collect topics for each weakness level
@@ -58,19 +58,25 @@ export function generateStudyPlan(
       }
     }
 
-    if (weaknessTopics.length > 0) {
+    const hasSpecificFailed = result.failedTopics && result.failedTopics.length > 0;
+    const specificFailedSnippet = hasSpecificFailed ? `\n\n**🎯 ATENCIÓN ESPECIAL**: El historial indica errores frecuentes en estos temas específicos: **${result.failedTopics.join(', ')}**.` : '';
+    const errorFocus = hasSpecificFailed ? ` (Foco en: ${result.failedTopics.slice(0,2).join(', ')})` : '';
+
+    if (weaknessTopics.length > 0 || hasSpecificFailed) {
       // Limit to 3 priority topics per module to avoid overwhelming
       const selectedTopics = weaknessTopics.slice(0, 3);
+      const cefrTopicsText = selectedTopics.length > 0 ? `los conceptos de **${selectedTopics.map(t => t.title).join(', ')}**` : `los temas base`;
 
       modules.push({
         week: weekCounter++,
-        title: 'Módulo de Recuperación y Refuerzo',
-        focus: `Fortalecer bases de nivel ${result.weaknessLevels.join(', ')}`,
+        title: 'Módulo de Recuperación y Refuerzo' + errorFocus,
+        focus: `Fortalecer bases de nivel ${result.weaknessLevels.join(', ') || 'Actual'}.`,
         topics: selectedTopics,
         notebookPrompt: `[ROL: Experto en Remediación de Inglés]
-El estudiante tiene dificultades específicas en el nivel **${result.weaknessLevels.join(', ')}**.
+El estudiante tiene dificultades específicas en el nivel **${result.weaknessLevels.join(', ') || currentLevel}**.${specificFailedSnippet}
+
 Tus objetivos son:
-1. Explicar los conceptos de **${selectedTopics.map(t => t.title).join(', ')}** usando analogías simples.
+1. Explicar ${cefrTopicsText} usando analogías simples.
 2. Identificar por qué el estudiante suele fallar en estos temas (errores comunes).
 3. Generar 3 ejercicios de práctica intensiva para estos temas específicos.
 Sé motivador pero riguroso con la corrección de errores.`
@@ -146,6 +152,7 @@ function formatMarkdownSource(
 
 Según tu reciente diagnóstico, tienes un dominio sólido en niveles **${result.strengthLevels.join(', ') || 'Iniciales'}**, pero necesitas reforzar áreas en **${result.weaknessLevels.join(', ') || 'Niveles superiores'}**.
 Tu precisión general fue del **${result.overallAccuracy}%**.
+${result.failedTopics && result.failedTopics.length > 0 ? `\n**Temas Críticos a Mejorar**: ${result.failedTopics.join(', ')}` : ''}
 
 ---
 

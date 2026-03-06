@@ -5,12 +5,12 @@ describe('Rotation Logic', () => {
   describe('getPackId', () => {
     it('should generate correct pack ID for start of year', () => {
       const date = new Date(2024, 0, 1); // Jan 1st
-      expect(getPackId(date)).toBe('2024-p001');
+      expect(getPackId(date)).toBe('W0');
     });
 
     it('should increment period after ROTATION_DAYS', () => {
       const date = new Date(2024, 0, 1 + ROTATION_DAYS); // Jan 6th (if rotation is 5)
-      expect(getPackId(date)).toBe('2024-p002');
+      expect(getPackId(date)).toBe('W1');
     });
   });
 

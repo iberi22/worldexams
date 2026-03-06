@@ -291,7 +291,13 @@ export async function generateHistoricalEnglishProficiency(): Promise<any> {
             const q = qMap.get(String(d.questionId));
             const cefr = d.cefrLevel || q?.periodo; // Use periodo as fallback for level if needed or just skip
             if (cefr || exam.subject?.toLowerCase().includes('ingl')) {
-                accumulated.push({ id: d.questionId, userAnswer: d.isCorrect ? 'MATCH' : 'MISMATCH', correctOptionId: 'MATCH', cefrLevel: cefr });
+                accumulated.push({
+                    id: d.questionId,
+                    userAnswer: d.isCorrect ? 'MATCH' : 'MISMATCH',
+                    correctOptionId: 'MATCH',
+                    cefrLevel: cefr,
+                    topics: q?.topics || (q?.category ? [q.category.split(' :: ')[1]] : undefined) // 🆕 Top failed topics sync
+                });
             }
         });
     });

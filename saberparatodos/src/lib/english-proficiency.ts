@@ -47,6 +47,7 @@ export interface QuestionResult {
   cefrLevel: CEFRLevel;    // From question metadata
   sourceGrade?: number;    // Original grade
   difficulty?: number;     // 1-5 difficulty rating if available
+  topics?: string[];       // 🆕 Granular topics for NotebookLM
 }
 
 /**
@@ -92,6 +93,7 @@ export interface EnglishProficiencyResult {
     cognitiveAccuracy: number;     // %
     label: string;                 // "Logical Thinker", "Critical Analyst", etc.
   };
+  failedTopics: string[]; // 🆕
 }
 
 /**
@@ -323,12 +325,14 @@ export function calculateEnglishProficiencyV2(
       overallAccuracy: 0,
       recommendation: 'Completa al menos un examen diagnóstico para ver tu nivel de inglés.',
       strengthLevels: [],
-      weaknessLevels: []
+      weaknessLevels: [],
+      failedTopics: []
     };
   }
 
-  // 1. Group results by CEFR level
+  // 1. Group results by CEFR level and track topics
   const levelMap = new Map<CEFRLevel, { correct: number; total: number }>();
+  const failedTopicsTracker = new Map<string, number>();
 
   for (const result of results) {
     const level = result.cefrLevel;
@@ -336,9 +340,23 @@ export function calculateEnglishProficiencyV2(
     current.total++;
     if (result.isCorrect) {
       current.correct++;
+    } else if (result.topics) {
+      // Track failed topics 🆕
+      for (const t of result.topics) {
+        if (t && t.trim()) {
+           const norm = t.trim().toLowerCase();
+           failedTopicsTracker.set(norm, (failedTopicsTracker.get(norm) || 0) + 1);
+        }
+      }
     }
     levelMap.set(level, current);
   }
+
+  // Get Top failed topics 🆕
+  const failedTopics = Array.from(failedTopicsTracker.entries())
+    .sort((a, b) => b[1] - a[1]) // Sort by frequency descending
+    .slice(0, 5) // Top 5
+    .map(entry => entry[0]);
 
   // 2. Build breakdown with stats
   const breakdown: LevelStats[] = [];
@@ -405,7 +423,8 @@ export function calculateEnglishProficiencyV2(
     recommendation,
     strengthLevels: strengths,
     weaknessLevels: weaknesses,
-    cognitiveStats
+    cognitiveStats,
+    failedTopics
   };
 }
 
@@ -424,6 +443,7 @@ export function examResultsToQuestionResults(
     sourceGrade?: number;
     difficulty?: number;
     meta?: { difficulty?: number; };
+    topics?: string[];
   }>
 ): QuestionResult[] {
   return examQuestions.map(q => ({
@@ -434,6 +454,7 @@ export function examResultsToQuestionResults(
       q.grade || q.sourceGrade
     ),
     sourceGrade: q.grade || q.sourceGrade,
-    difficulty: q.difficulty || q.meta?.difficulty // Try top-level or meta
+    difficulty: q.difficulty || q.meta?.difficulty, // Try top-level or meta
+    topics: q.topics // 🆕
   }));
 }

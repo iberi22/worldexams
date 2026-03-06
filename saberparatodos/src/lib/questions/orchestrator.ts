@@ -1,5 +1,5 @@
 import type { AppQuestion } from '../api-service';
-import { filterByGradeAndDiagnostic, filterByPeriod, filterBySubject, filterValidQuestions } from './filters';
+import { filterByGradeAndDiagnostic, filterByPeriod, filterBySubject, filterValidQuestions, filterByCefrLevel } from './filters';
 import { ensureBasePool, deepSearchPool, dedupeById } from './pool';
 import { buildDiagnosticMixPool, selectExamQuestions } from './selection';
 import type { QuestionSelectionDeps, QuestionSelectionRequest, QuestionSelectionResult } from './types';
@@ -47,6 +47,7 @@ export async function prepareSoloExamQuestions(
     Boolean(request.useDiagnostic),
     Boolean(request.englishDiagnostic)
   );
+  filtered = filterByCefrLevel(filtered, request.minCefrLevel);
   filtered = filterByPeriod(filtered, {
     examMode: request.examMode,
     period: request.period,
@@ -72,6 +73,7 @@ export async function prepareSoloExamQuestions(
       Boolean(request.useDiagnostic),
       Boolean(request.englishDiagnostic)
     );
+    filtered = filterByCefrLevel(filtered, request.minCefrLevel);
     filtered = filterByPeriod(filtered, {
       examMode: request.examMode,
       period: request.period,
