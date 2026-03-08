@@ -798,7 +798,7 @@ Para delegar nuevas tareas a Jules:
 
 ## 📞 Recursos
 
-- **Organización:** [github.com/worldexams](https://github.com/worldexams)
+- **Organización:** [github.com/world-exams](https://github.com/world-exams)
 - **PLANNING.md:** Consultar en cada repo para arquitectura detallada
 - **TASK.md:** Consultar en cada repo para tareas actuales
 - **AGENTS.md:** Consultar para roles de IA detallados

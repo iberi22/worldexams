@@ -11,7 +11,13 @@
 
   // All available grades with bundles (3-12)
   // Ideally this should come from API or config, but we'll expand the range for now to cover MX
-  const grades = [3, 5, 6, 7, 8, 9, 10, 11, 12];
+  // Only show main Saber (ICFES) grades initially: 3, 5, 9, 11
+  const defaultGrades = [3, 5, 9, 11];
+  const extraGrades = [4, 6, 7, 8, 10, 12];
+
+  let showAllGrades = $state(false);
+
+  let displayedGrades = $derived(showAllGrades ? [...defaultGrades, ...extraGrades] : defaultGrades);
 
   function getGradeLabel(grade: number) {
      if (countryConfig.gradeNames && countryConfig.gradeNames[grade]) {
@@ -20,14 +26,13 @@
      return `${grade}° Grado`;
   }
 
-  // Pre-calculate labels to avoid doing it in the loop repeatedly if complex
-  const gradeLabels = grades.map(g => ({
+  const gradeLabels = $derived(displayedGrades.map(g => ({
       grade: g,
       label: getGradeLabel(g),
       // Split label if it has a space (e.g. "3° Primaria" -> "3°", "Primaria")
       topLine: getGradeLabel(g).split(' ')[0], // "3°"
       bottomLine: getGradeLabel(g).split(' ').slice(1).join(' ') || 'Grado' // "Primaria" or "Grado"
-  }));
+  })));
 </script>
 
 <div class="flex flex-col items-center justify-center min-h-[80vh] space-y-12 animate-fade-in-up">
@@ -55,6 +60,15 @@
       </FlashlightCard>
     {/each}
   </div>
+
+  {#if extraGrades.length > 0 && !showAllGrades}
+    <button
+      onclick={() => showAllGrades = true}
+      class="px-6 py-2 mt-4 text-emerald-400 hover:text-emerald-300 transition-colors uppercase text-sm tracking-widest font-semibold"
+    >
+      Ver más exámenes
+    </button>
+  {/if}
 
   <button
     onclick={onBack}

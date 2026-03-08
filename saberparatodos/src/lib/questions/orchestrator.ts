@@ -103,7 +103,8 @@ export async function prepareSoloExamQuestions(
     grade: request.grade,
     useDiagnostic: Boolean(request.useDiagnostic),
     diagnosticMixPercent: request.diagnosticMixPercent,
-    count: request.count
+    count: request.count,
+    minCefrLevel: request.minCefrLevel // 🆕
   });
 
   const { selectedQuestions, hadToRepeat } = selectExamQuestions(mixPool, request.count, deps.filterUnansweredQuestions);

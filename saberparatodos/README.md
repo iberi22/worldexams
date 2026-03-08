@@ -197,7 +197,7 @@ Las preguntas tienen licencias duales según variante:
 Si usas estas preguntas, debes dar crédito apropiado:
 
 ```markdown
-Preguntas adaptadas de SaberParaTodos (https://github.com/worldexams/saberparatodos)
+Preguntas adaptadas de SaberParaTodos (https://github.com/world-exams/saberparatodos)
 Fuente original: OpenTDB (CC BY-SA 4.0)
 Licencia: CC BY-NC-SA 4.0
 ```

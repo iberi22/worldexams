@@ -241,7 +241,7 @@ Untuk menyelesaikan sistem persamaan ini:
 Jawaban yang benar adalah C) 4.
 ```
 
-**Importante:** 
+**Importante:**
 - ID con código del país: `[COUNTRY]-[SUBJ]-[GRADE]-[TOPIC]-[###]`
 - Idioma local en enunciado, opciones y explicación
 - Contexto cultural apropiado (moneda, nombres, ciudades)
@@ -336,7 +336,7 @@ Jawaban yang benar adalah C) 4.
 ### Paso 1: Clonar el Repo
 ```bash
 cd E:\scripts-python\worldexams
-git clone https://github.com/worldexams/[repo-name].git
+git clone https://github.com/world-exams/[repo-name].git
 cd [repo-name]
 ```
 

@@ -367,7 +367,7 @@ chmod +x party-server-linux-x64
 **Opción 2: Compilar desde fuente**
 ```bash
 # Requiere Rust 1.75+
-git clone https://github.com/worldexams/party-server-rust
+git clone https://github.com/world-exams/party-server-rust
 cd party-server-rust
 cargo build --release
 ./target/release/party-server
@@ -425,12 +425,12 @@ No requiere instalación. Solo visitar https://app.saberparatodos.com
 
 **Frontend Svelte:**
 - **Licencia:** MIT
-- **Repositorio:** https://github.com/worldexams/saberparatodos
+- **Repositorio:** https://github.com/world-exams/saberparatodos
 - **Permite:** Uso comercial, modificación, distribución
 
 **Backend Rust (local):**
 - **Licencia:** AGPL-3.0
-- **Repositorio:** https://github.com/worldexams/party-server-rust
+- **Repositorio:** https://github.com/world-exams/party-server-rust
 - **Requiere:** Si ofreces servicio web, debes publicar tu código
 
 ### Código Privado
@@ -486,7 +486,7 @@ No requiere instalación. Solo visitar https://app.saberparatodos.com
 
 **Para el código abierto:**
 ```bash
-git clone https://github.com/worldexams/saberparatodos
+git clone https://github.com/world-exams/saberparatodos
 cd saberparatodos
 npm install
 npm run dev
@@ -495,7 +495,7 @@ npm run dev
 Ver `CONTRIBUTING.md` para guía completa.
 
 **Para reportar bugs:**
-https://github.com/worldexams/saberparatodos/issues
+https://github.com/world-exams/saberparatodos/issues
 
 ---
 

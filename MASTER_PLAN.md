@@ -24,7 +24,7 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                      ORGANIZACIÓN: github.com/worldexams                     │
+│                      ORGANIZACIÓN: github.com/world-exams                     │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │                                                                              │
 │  ┌────────────┐  ┌────────────┐  ┌────────────┐  ┌────────────┐            │
@@ -433,9 +433,9 @@ saber-[pais]/
 
 ## 📞 Contacto y Contribución
 
-- **Organización:** [github.com/worldexams](https://github.com/worldexams)
-- **Proyecto Principal:** [saber-co](https://github.com/worldexams/saber-co)
-- **Sincronización:** [question-sync](https://github.com/worldexams/question-sync)
+- **Organización:** [github.com/world-exams](https://github.com/world-exams)
+- **Proyecto Principal:** [saber-co](https://github.com/world-exams/saber-co)
+- **Sincronización:** [question-sync](https://github.com/world-exams/question-sync)
 
 Para contribuir a un país específico, abre un issue en el repo correspondiente.
 

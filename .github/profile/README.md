@@ -12,21 +12,21 @@ Democratizar el acceso a la preparación de exámenes de estado en todo el mundo
 
 | País | Repo | Examen | Estado | Web |
 |------|------|--------|--------|-----|
-| 🇨🇴 Colombia | [`saber-co`](https://github.com/worldexams/saber-co) | ICFES Saber | ✅ Activo | [saber-co.github.io](https://worldexams.github.io/saber-co) |
-| 🇲🇽 México | [`saber-mx`](https://github.com/worldexams/saber-mx) | PLANEA | 🔄 En desarrollo | - |
-| 🇦🇷 Argentina | [`saber-ar`](https://github.com/worldexams/saber-ar) | APRENDER | 📋 Planeado | - |
-| 🇨🇱 Chile | [`saber-cl`](https://github.com/worldexams/saber-cl) | SIMCE | 📋 Planeado | - |
-| 🇵🇪 Perú | [`saber-pe`](https://github.com/worldexams/saber-pe) | ECE | 📋 Planeado | - |
-| 🇧🇷 Brasil | [`saber-br`](https://github.com/worldexams/saber-br) | ENEM | 📋 Planeado | - |
-| 🇺🇸 USA | [`saber-us`](https://github.com/worldexams/saber-us) | SAT | 📋 Planeado | - |
+| 🇨🇴 Colombia | [`saber-co`](https://github.com/world-exams/saber-co) | ICFES Saber | ✅ Activo | [saber-co.github.io](https://worldexams.github.io/saber-co) |
+| 🇲🇽 México | [`saber-mx`](https://github.com/world-exams/saber-mx) | PLANEA | 🔄 En desarrollo | - |
+| 🇦🇷 Argentina | [`saber-ar`](https://github.com/world-exams/saber-ar) | APRENDER | 📋 Planeado | - |
+| 🇨🇱 Chile | [`saber-cl`](https://github.com/world-exams/saber-cl) | SIMCE | 📋 Planeado | - |
+| 🇵🇪 Perú | [`saber-pe`](https://github.com/world-exams/saber-pe) | ECE | 📋 Planeado | - |
+| 🇧🇷 Brasil | [`saber-br`](https://github.com/world-exams/saber-br) | ENEM | 📋 Planeado | - |
+| 🇺🇸 USA | [`saber-us`](https://github.com/world-exams/saber-us) | SAT | 📋 Planeado | - |
 
 ## 🔧 Repositorios de Infraestructura
 
 | Repo | Descripción |
 |------|-------------|
-| [`question-sync`](https://github.com/worldexams/question-sync) | Sincronización y traducción automática de preguntas |
-| [`shared-components`](https://github.com/worldexams/shared-components) | Componentes UI compartidos (Svelte) |
-| [`.github`](https://github.com/worldexams/.github) | Templates y configuración de organización |
+| [`question-sync`](https://github.com/world-exams/question-sync) | Sincronización y traducción automática de preguntas |
+| [`shared-components`](https://github.com/world-exams/shared-components) | Componentes UI compartidos (Svelte) |
+| [`.github`](https://github.com/world-exams/.github) | Templates y configuración de organización |
 
 ## ⚡ Stack Tecnológico
 

@@ -197,7 +197,7 @@
             <div class="flex justify-between items-center">
               <span class="text-white/50">Commit</span>
               <a
-                href="https://github.com/worldexams/saberparatodos/commit/{buildInfo.commit}"
+                href="https://github.com/world-exams/saberparatodos/commit/{buildInfo.commit}"
                 target="_blank"
                 rel="noopener noreferrer"
                 class="text-emerald-400 hover:text-emerald-300 hover:underline"

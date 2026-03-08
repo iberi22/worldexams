@@ -36,8 +36,9 @@
 
   let availableGrades = $state([3, 4, 5, 6, 7, 8, 9, 10, 11]);
 
-  // 🆕 Detect English Diagnostic Mode (grade = 0 means cross-grade English assessment)
-  let isEnglishDiagnosticMode = $derived(initialGrade === 0 || selectedSubject?.includes('Diagnóstico'));
+  // 🆕 Detect English Related (grade = 0 or English subject)
+  let isEnglishRelated = $derived(selectedGrade === 0 || selectedSubject?.toLowerCase().includes('inglés') || selectedSubject?.toLowerCase().includes('ingles'));
+  let isEnglishDiagnosticMode = $derived(selectedGrade === 0 || selectedSubject?.includes('Diagnóstico'));
 
   // 🆕 Proficiency State
   let englishStats: { level: string; confidence: number; count: number } | null = $state(null);
@@ -47,27 +48,44 @@
       getEffectiveEnglishLevel().then(async stats => {
         if (stats) englishStats = stats;
 
-        // 🆕 Check pool size on load - subtract answered questions
-        const cached = await getCachedEnglishQuestions();
-        const answeredIds = await getAnsweredQuestionIds(14, false);
+        // Calculate fresh (unanswered) questions with grade/protocol filtering
+        const filteredCached = cached.filter((q: any) => {
+          const g = q.grade || q.grado;
+          if (g === 9) return true;
+          if (g === 10 || g === 11) {
+            return q.protocol_version === '4.0' || q.protocol_version === '4.1';
+          }
+          return false;
+        });
 
-        // Calculate fresh (unanswered) questions
-        const freshQuestions = cached.filter((q: any) => !answeredIds.has(q.id));
+        const freshQuestions = filteredCached.filter((q: any) => !answeredIds.has(q.id));
         poolSize = freshQuestions.length;
+        totalPoolSize = filteredCached.length; // 🆕 Track total valid questions
 
         // Auto-prefetch if low
-        if (cached.length < 400 && !isPrefetching) {
+        if (filteredCached.length < 400 && !isPrefetching) {
              isPrefetching = true;
              prefetchEnglishPool().then(async () => {
                  const updated = await getCachedEnglishQuestions();
-                 const freshUpdated = updated.filter((q: any) => !answeredIds.has(q.id));
+                 const filteredUpdated = updated.filter((q: any) => {
+                   const g = q.grade || q.grado;
+                   if (g === 9) return true;
+                   if (g === 10 || g === 11) {
+                     return q.protocol_version === '4.0' || q.protocol_version === '4.1';
+                   }
+                   return false;
+                 });
+                 const freshUpdated = filteredUpdated.filter((q: any) => !answeredIds.has(q.id));
                  poolSize = freshUpdated.length;
+                 totalPoolSize = filteredUpdated.length;
                  isPrefetching = false;
              });
         }
       });
     }
   });
+
+  let totalPoolSize = $state(0); // 🆕 For diagnostic mode
 
   let questionCount = $state(10);
   let timeOption = $state(0); // 🆕 0 = unlimited, >0 = seconds per question
@@ -76,6 +94,26 @@
   let selectedPeriod = $state(1); // 🆕 1, 2, 3, 4
   let selectedEnglishLevel = $state(''); // 🆕 '' = Todos, A1, B1, C1
   let useDiagnostic = $state(false);
+
+  // 🆕 Level Selection State
+  let savedLevel = typeof localStorage !== 'undefined' ? localStorage.getItem('worldexams_user_level') : null;
+  let showLevelSelection = $state(isEnglishDiagnosticMode && !savedLevel);
+
+  // Update selectedEnglishLevel if savedLevel exists
+  $effect(() => {
+    if (savedLevel && !selectedEnglishLevel) {
+      selectedEnglishLevel = savedLevel;
+    }
+  });
+
+  function saveUserLevel(level: string) {
+    if (typeof localStorage !== 'undefined') {
+      localStorage.setItem('worldexams_user_level', level);
+    }
+    selectedEnglishLevel = level;
+    showLevelSelection = false;
+  }
+
   let diagnosticMixPercent = $state(20); // % de preguntas de grados inferiores
   let effectiveUseDiagnostic = $derived(isLoggedIn && useDiagnostic);
   let showResetConfirm = $state(false);
@@ -175,7 +213,17 @@
   let isPrefetching = $state(false); // 🆕
 
   let diagnosticGrades = $derived([3, 5, 7, 9].filter(g => g < selectedGrade));
-  let memoryStats = $derived(getSubjectMemoryStats(availableQuestions, selectedSubject));
+  let memoryStats = $derived.by(() => {
+    if (isEnglishDiagnosticMode) {
+      return {
+        totalForSubject: totalPoolSize,
+        answeredCount: totalPoolSize - poolSize,
+        availableCount: poolSize,
+        percentUsed: totalPoolSize > 0 ? ((totalPoolSize - poolSize) / totalPoolSize) * 100 : 0
+      };
+    }
+    return getSubjectMemoryStats(availableQuestions, selectedSubject);
+  });
   let shareUrl = $derived(roomCode ? `${typeof window !== 'undefined' ? window.location.origin : ''}/sala-examenes?join=${roomCode}` : '');
   let configLocked = $derived(roomEnabled && roomCode && !isHost);
 
@@ -834,12 +882,12 @@
       if (config.period) selectedPeriod = config.period; // 🆕
       if (config.minCefrLevel !== undefined) selectedEnglishLevel = config.minCefrLevel || ''; // 🆕
       if (config.useDiagnostic !== undefined) useDiagnostic = isLoggedIn && Boolean(config.useDiagnostic);
+      console.log('🔗 Guest config sync:', {
         grade: config.grade,
         num_questions: questionCount,
         time_option: timeOption,
         questions_synced: syncedQuestions.length
       });
-
       // 🎯 CRITICAL: Try P2P FIRST (primary), then fallback to Realtime
       let p2pConnectedSuccess = false;
       if (data.exam_config?.host_peer_id) {
@@ -950,6 +998,7 @@
       startedAt: overrideConfig?.startedAt, // 🆕 Pass fixed start time if Guest
       subject: selectedSubject,
       grade: selectedGrade,
+      minCefrLevel: selectedEnglishLevel, // 🆕 Pass selected level
       questions: roomEnabled && finalQuestions.length > 0 ? finalQuestions : soloQuestions // 🆕 Pass solo questions if period mode
     });
    } finally {
@@ -1086,85 +1135,98 @@
 
     <div class="space-y-6 relative z-10">
       <!-- 🆕 Grade and Subject Selection (Host only, before creating room) -->
-      {#if !roomCode || isHost}
-        {#if isEnglishDiagnosticMode}
-          <!-- 🇬🇧 English Diagnostic Mode Header -->
-          <div class="p-5 bg-gradient-to-r from-blue-900/30 via-purple-900/20 to-blue-900/30 border border-blue-500/30 rounded-xl">
-            <div class="flex items-center gap-4 mb-3">
-              <div class="w-14 h-14 rounded-xl bg-gradient-to-br from-blue-500/30 to-purple-500/30 flex items-center justify-center shadow-lg text-2xl">
-                🇺🇸
+        <!-- 🆕 English Header for all English subjects -->
+        {#if isEnglishRelated}
+          {#if showLevelSelection}
+            <!-- 🆕 One-time Level Selector -->
+            <div class="p-6 bg-blue-900/20 border border-blue-500/30 rounded-2xl" transition:fade>
+              <div class="text-center mb-6">
+                <span class="inline-block px-3 py-1 bg-blue-500/20 text-blue-400 text-[10px] font-bold uppercase tracking-widest rounded-full border border-blue-500/20 mb-3">Paso 1/1</span>
+                <h3 class="text-xl font-bold text-[#F5F5DC] uppercase tracking-wider">¿Cuál es tu nivel?</h3>
+                <p class="text-[11px] text-white/50 mt-2 leading-relaxed">Mostraremos preguntas de este nivel y superiores, con balance dinámico de dificultad.</p>
               </div>
-              <div>
-                <h3 class="text-lg font-bold text-blue-400 uppercase tracking-wider flex items-center gap-2">
-                  {#if englishStats}
-                    Mejorar Nivel
-                  {:else}
-                    Inglés Diagnóstico
-                  {/if}
-                  <span class="px-2 py-0.5 {englishStats?.confidence >= 80 ? 'bg-emerald-500/30 text-emerald-300' : 'bg-purple-500/30 text-purple-300'} text-[9px] font-bold uppercase tracking-widest rounded">
-                    {#if englishStats}
-                      Nivel {englishStats.level}
-                      {#if englishStats.confidence < 80}
-                        (Preliminar)
-                      {/if}
-                    {:else}
-                      Evaluación
-                    {/if}
-                  </span>
-                </h3>
-                <p class="text-xs text-white/60 mt-0.5 flex items-center gap-2">
-                  {#if englishStats}
-                    {#if englishStats.count < 60}
-                       Diagnóstico en curso: <strong class="text-white">{englishStats.count}/60</strong> preguntas
-                    {:else}
-                       Nivel validado con {englishStats.count} preguntas
-                    {/if}
-                  {:else}
-                    Niveles A1 a C1 • Grados 3 al 12
-                  {/if}
-                </p>
-              </div>
-            </div>
 
-            <div class="bg-white/5 rounded-lg p-3 space-y-2">
-              <div class="flex items-start gap-2">
-                <span class="text-blue-400 text-sm">📊</span>
-                <p class="text-xs text-white/70">
-                  {#if englishStats}
-                    Tu nivel actual es <strong class="{englishStats.count >= 60 ? 'text-emerald-400' : 'text-purple-400'}">{englishStats.level}</strong>.
-                    {#if englishStats.count < 60}
-                      Responde más preguntas para un diagnóstico <strong class="text-blue-400">casi exacto</strong> (60 preguntas).
-                    {:else}
-                      Tu nivel ha sido <strong class="text-emerald-400">validado</strong>. Seguiremos refinando según tus progresos.
-                    {/if}
-                    <!-- 🆕 Pool Indicator -->
-                    <div class="mt-2 text-[10px] text-white/50 flex items-center gap-1.5 bg-black/20 py-1 px-2 rounded-lg w-fit cursor-help" title="Preguntas frescas (no respondidas) guardadas en tu dispositivo. El sistema descarga más automáticamente si bajas de 400.">
-                      <span class:animate-spin={isPrefetching}>{isPrefetching ? '⏳' : '💾'}</span>
-                      <span>Banco Offline: <strong class="{poolSize >= 400 ? 'text-emerald-400' : 'text-yellow-400'}">{poolSize}/400</strong></span>
-                      {#if poolSize >= 240}
-                         <span class="text-emerald-500/80 ml-1 font-bold">✓ {Math.floor(poolSize / 60)} Exámenes Listos</span>
-                      {/if}
+              <div class="space-y-3">
+                {#each [
+                  { id: 'A1', title: 'A1 - Principiante', desc: 'Entiendo frases y expresiones básicas.' },
+                  { id: 'A2', title: 'A2 - Elemental', desc: 'Me comunico en tareas simples y cotidianas.' },
+                  { id: 'B1', title: 'B1 - Intermedio', desc: 'Entiendo lo esencial en temas conocidos.' },
+                  { id: 'B2', title: 'B2 - Intermedio Alto', desc: 'Hablo con fluidez sobre temas diversos.' },
+                  { id: 'C1', title: 'C1 - Avanzado', desc: 'Domino el idioma en contextos complejos.' }
+                ] as level}
+                  <button
+                    onclick={() => saveUserLevel(level.id)}
+                    class="w-full p-4 bg-black/40 border border-white/10 rounded-xl hover:bg-emerald-500/10 hover:border-emerald-500/30 transition-all text-left flex items-center gap-4 group relative overflow-hidden"
+                  >
+                    <div class="absolute inset-y-0 left-0 w-1 bg-emerald-500 transform -translate-x-full group-hover:translate-x-0 transition-transform"></div>
+                    <div class="w-10 h-10 min-w-[2.5rem] rounded-lg bg-gradient-to-br from-blue-500/20 to-purple-500/20 flex items-center justify-center text-lg font-black text-emerald-400 group-hover:scale-105 transition-transform">
+                      {level.id}
                     </div>
-                  {:else}
-                    Este examen evaluará tu <strong class="text-blue-400">nivel real de inglés</strong> usando preguntas de todos los grados.
-                  {/if}
-                </p>
-              </div>
-              <div class="flex items-start gap-2">
-                <span class="text-emerald-400 text-sm">🎯</span>
-                <p class="text-xs text-white/70">
-                  Al terminar, recibirás tu <strong class="text-emerald-400">nivel CEFR estimado</strong> (A1-B2+) y recomendaciones personalizadas.
-                </p>
-              </div>
-              <div class="flex items-start gap-2">
-                <span class="text-purple-400 text-sm">📈</span>
-                <p class="text-xs text-white/70">
-                  Los siguientes exámenes se <strong class="text-purple-400">adaptarán a tu nivel</strong> para maximizar tu aprendizaje.
-                </p>
+                    <div>
+                      <h4 class="font-bold text-white text-[13px]">{level.title}</h4>
+                      <p class="text-[10px] text-white/50 leading-tight">{level.desc}</p>
+                    </div>
+                  </button>
+                {/each}
               </div>
             </div>
-          </div>
-        {:else}
+          {:else}
+            <!-- 🇬🇧 English Diagnostic Mode Header -->
+            <div class="p-5 bg-gradient-to-r from-blue-900/30 via-purple-900/20 to-blue-900/30 border border-blue-500/30 rounded-xl">
+              <div class="flex items-center gap-4">
+                <div class="w-14 h-14 rounded-xl bg-gradient-to-br from-blue-500/30 to-purple-500/30 flex items-center justify-center shadow-lg text-2xl">
+                  🇺🇸
+                </div>
+                <div>
+                  <h3 class="text-lg font-bold text-blue-400 uppercase tracking-wider flex items-center gap-2">
+                    {#if englishStats}
+                      Mejorar Nivel
+                    {:else}
+                      Inglés Diagnóstico
+                    {/if}
+                    <span class="px-2 py-0.5 {englishStats?.confidence >= 80 ? 'bg-emerald-500/30 text-emerald-300' : 'bg-purple-500/30 text-purple-300'} text-[9px] font-bold uppercase tracking-widest rounded border border-white/5">
+                      {#if englishStats}
+                        Nivel {englishStats.level}
+                      {:else if selectedEnglishLevel}
+                        Plan {selectedEnglishLevel}
+                      {:else}
+                        Evaluación
+                      {/if}
+                    </span>
+                  </h3>
+                  <p class="text-xs text-white/60 mt-0.5 flex items-center gap-2">
+                    {#if englishStats}
+                      Nivel estimado según tu historial
+                    {:else}
+                      Preguntas adaptativas según tu base
+                    {/if}
+                  </p>
+                </div>
+              </div>
+
+              <!-- 🆕 Compact Status (Post-Selection) -->
+              <div class="mt-4 flex items-center justify-between text-[10px] text-white/40 uppercase tracking-widest bg-black/20 p-2 rounded-lg border border-white/5">
+                <div class="flex items-center gap-1.5">
+                  <span class="text-blue-400">🎯</span>
+                  Base: <strong class="text-white">{selectedEnglishLevel || 'A1'}</strong>
+                </div>
+                <div class="flex items-center gap-1.5">
+                  <span class:animate-spin={isPrefetching}>{isPrefetching ? '⏳' : '💾'}</span>
+                  Pool: <strong class="text-white">{poolSize}</strong>
+                </div>
+                <button
+                  onclick={() => showLevelSelection = true}
+                  class="text-[9px] font-bold text-blue-400 hover:text-blue-300 underline underline-offset-2"
+                >
+                  Cambiar
+                </button>
+              </div>
+            </div>
+          {/if}
+        {/if}
+
+        {#if !roomCode || isHost}
+          {#if !isEnglishDiagnosticMode}
           <!-- Normal Grade and Subject Selection -->
           <div class="space-y-4 p-4 bg-white/5 border border-white/10 rounded-lg">
             <h3 class="text-xs uppercase tracking-widest text-emerald-400 font-bold">📚 Configuración del Examen</h3>
@@ -1189,23 +1251,6 @@
               </select>
             </div>
 
-            <!-- 🆕 English Level Selector -->
-            {#if selectedSubject === 'Inglés' || selectedSubject === 'INGLÉS' || selectedSubject === 'Inglés Diagnóstico'}
-              <div class="mt-4" transition:slide>
-                <label class="block text-xs uppercase tracking-widest text-[#FCD116] mb-2 font-bold">Nivel de Inglés Base</label>
-                <select
-                  bind:value={selectedEnglishLevel}
-                  disabled={configLocked}
-                  class="w-full px-4 py-3 bg-gray-900/90 border border-white/10 rounded-lg text-white font-medium focus:outline-none focus:border-emerald-500 focus:ring-2 focus:ring-emerald-500/20 transition-all cursor-pointer hover:bg-gray-900 {configLocked ? 'opacity-50 cursor-not-allowed' : ''}"
-                >
-                  <option value="" class="bg-gray-900 text-white py-2">No sabe / Desde A1</option>
-                  <option value="A1" class="bg-gray-900 text-white py-2">Bajo (Desde A1)</option>
-                  <option value="B1" class="bg-gray-900 text-white py-2">Bajo-Medio (Desde B1)</option>
-                  <option value="C1" class="bg-gray-900 text-white py-2">Medio-Alto (Desde C1)</option>
-                </select>
-                <p class="text-[10px] text-white/50 mt-2">Evaluaremos este nivel y superiores, incluyendo balance de dificultad.</p>
-              </div>
-            {/if}
 
             <!-- 🆕 Period Mode Selector -->
 
@@ -1386,27 +1431,35 @@
       <div class="p-4 bg-purple-500/10 border border-purple-500/30 rounded-lg">
         <div class="flex items-center gap-3 mb-2">
           <button
-            class="relative inline-flex h-6 w-11 flex-shrink-0 cursor-pointer rounded-full border-2 border-transparent transition-colors duration-200 ease-in-out focus:outline-none {roomEnabled ? 'bg-purple-500' : 'bg-white/20'}"
+            class="relative inline-flex h-6 w-11 flex-shrink-0 rounded-full border-2 border-transparent transition-colors duration-200 ease-in-out focus:outline-none {!isLoggedIn ? 'cursor-not-allowed opacity-50' : 'cursor-pointer'} {roomEnabled ? 'bg-purple-500' : 'bg-white/20'}"
             role="switch"
             aria-checked={roomEnabled}
-            onclick={() => { roomEnabled = !roomEnabled; if (!roomEnabled) { roomCode = ''; connectedUsers = []; } }}
+            disabled={!isLoggedIn}
+            onclick={() => {
+              if (!isLoggedIn) return;
+              roomEnabled = !roomEnabled;
+              if (!roomEnabled) { roomCode = ''; connectedUsers = []; }
+            }}
           >
             <span
               aria-hidden="true"
               class="pointer-events-none inline-block h-5 w-5 transform rounded-full bg-white shadow ring-0 transition duration-200 ease-in-out {roomEnabled ? 'translate-x-5' : 'translate-x-0'}"
             ></span>
           </button>
-          <div>
-            <h4 class="text-sm font-bold text-purple-400 uppercase tracking-widest">
+          <div class="flex flex-col">
+            <h4 class="text-sm font-bold text-purple-400 uppercase tracking-widest flex items-center gap-2">
               👥 Sala de Exámenes
-              <span class="ml-2 text-[10px] {roomEnabled ? 'text-purple-300' : 'text-white/30'}">
-                {roomEnabled ? 'ACTIVADA' : 'DESACTIVADA'}
-              </span>
+              {#if !isLoggedIn}
+                <span class="text-[9px] text-white/40 bg-white/10 px-1.5 py-0.5 rounded border border-white/10 uppercase tracking-widest">Requiere Login</span>
+              {/if}
             </h4>
+            <span class="text-[10px] {roomEnabled ? 'text-purple-300' : 'text-white/30'} uppercase tracking-widest mt-0.5">
+              {roomEnabled ? 'ACTIVADA' : 'DESACTIVADA'}
+            </span>
           </div>
         </div>
 
-        {#if roomEnabled}
+        {#if roomEnabled && isLoggedIn}
           <div class="mt-4 space-y-4" transition:fade>
             <!-- Tabs -->
             <div class="flex gap-2">

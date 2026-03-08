@@ -232,7 +232,7 @@ Issues are automatically triaged and assigned to the appropriate country reposit
 - **GitHub Issues:** [github.com/world-exams/world-exams/issues](https://github.com/world-exams/world-exams/issues)
 - **Telegram:** [@sabercol_bot](https://t.me/sabercol_bot)
 - **Discord:** [Join our community](https://discord.gg/worldexams)
-- **Twitter/X:** [@worldexams_org](https://twitter.com/worldexams_org)
+- **Twitter/X:** [@worldexams_org](https://twitter.com/world-exams_org)
 
 ---
 

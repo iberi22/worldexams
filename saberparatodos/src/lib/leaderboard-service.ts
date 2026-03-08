@@ -154,7 +154,7 @@ export interface ScoreSubmissionInput {
  * Generates the GitHub Issue URL for manual submission
  */
 export function getSubmissionUrl(input: ScoreSubmissionInput): string {
-  const baseUrl = 'https://github.com/worldexams/saberparatodos/issues/new';
+  const baseUrl = 'https://github.com/world-exams/saberparatodos/issues/new';
   const params = new URLSearchParams({
     template: 'score_submission.yml',
     title: `Score: ${input.displayName} - ${input.totalPoints}`,

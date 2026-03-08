@@ -97,6 +97,7 @@
   let showRegistrationModal = $state(false);
   let lastExamData = $state(null);
   let userAnswers = $state({});
+  let showAllLandingGrades = $state(false); // 🆕 Control for landing grid expansion
 
   function setView(newView) {
     view = newView;
@@ -333,7 +334,8 @@
           diagnosticMixPercent: config.diagnosticMixPercent ?? 20,
           examMode: config.examMode || 'simulacro',
           period: config.period,
-          englishDiagnostic: selectedGrade === 0
+          englishDiagnostic: selectedGrade === 0,
+          minCefrLevel: config.minCefrLevel // 🆕
         },
         {
           repository: defaultQuestionRepository,
@@ -440,7 +442,8 @@
               diagnosticMixPercent: examConfig.diagnosticMixPercent ?? 20,
               examMode: examConfig.examMode || 'simulacro',
               period: examConfig.period,
-              englishDiagnostic: selectedGrade === 0
+              englishDiagnostic: selectedGrade === 0,
+              minCefrLevel: examConfig.minCefrLevel // 🆕
             },
             {
               repository: defaultQuestionRepository,
@@ -876,6 +879,16 @@
             <span class="text-white/50">{new Date(buildInfo.buildTime).toLocaleDateString('es-CO', { month: 'short', day: 'numeric' })}</span>
           {/if}
         </div>
+
+        <a
+          href="/guia-examen"
+          class="hidden md:flex ml-4 px-3 py-1.5 text-[10px] font-bold uppercase tracking-widest border border-emerald-500/50 text-emerald-500 hover:bg-emerald-500/10 transition-colors rounded items-center gap-1"
+        >
+          <span>📚</span> Volver a la Guía Principal
+        </a>
+        <a href="/guia-examen" class="md:hidden ml-2 px-2 py-1 text-[10px] font-bold uppercase tracking-widest border border-emerald-500/50 text-emerald-500 rounded">
+          📚 Guía
+        </a>
       </div>
       <div class="flex items-center gap-4">
         {#if user}
@@ -1068,13 +1081,13 @@
                   isLoadingQuestions = false;
                 }
               }}
-              className="p-4 flex items-center justify-center gap-4 group hover:border-blue-500/50 transition-transform duration-300 hover:scale-[1.02] bg-gradient-to-r from-blue-900/20 via-purple-900/10 to-blue-900/20 border border-blue-500/20"
+              className="p-4 flex flex-col items-center justify-center gap-3 group hover:border-blue-500/50 transition-transform duration-300 hover:scale-[1.02] bg-gradient-to-r from-blue-900/20 via-purple-900/10 to-blue-900/20 border border-blue-500/20"
             >
-              <div class="w-14 h-14 rounded-xl bg-gradient-to-br from-blue-500/30 to-purple-500/30 flex items-center justify-center group-hover:scale-110 transition-transform shadow-lg shadow-blue-500/10">
+              <div class="w-14 h-14 rounded-xl bg-gradient-to-br from-blue-500/30 to-purple-500/30 flex items-center justify-center group-hover:scale-110 transition-transform shadow-lg shadow-blue-500/10 mb-2">
                 <img src="/favicon.png" alt="SaberParaTodos" class="w-9 h-9 object-contain" />
               </div>
-              <div class="text-left flex-1">
-                <div class="text-xl font-bold text-blue-400 group-hover:text-blue-300 transition-colors uppercase tracking-wider flex items-center gap-2">
+              <div class="text-center flex-1 w-full">
+                <div class="text-xl font-bold text-blue-400 group-hover:text-blue-300 transition-colors uppercase tracking-wider flex items-center justify-center gap-2">
                   Inglés
                   <span class="px-1.5 py-0.5 bg-purple-500/20 text-purple-400 text-[8px] font-bold uppercase tracking-widest rounded">
                     Diagnóstico
@@ -1084,13 +1097,13 @@
                   Niveles A1 a B2+ • Evalúa tu nivel real
                 </div>
               </div>
-              <div class="flex flex-col items-end gap-1">
+              <div class="flex flex-col items-center gap-1 w-full mt-2">
                 <div class="flex items-center gap-1.5">
                   <span class="px-2 py-0.5 bg-blue-500/20 text-blue-400 text-[9px] font-bold uppercase tracking-widest rounded-full">
                     Sala ✓
                   </span>
                 </div>
-                <div class="flex items-center gap-1 text-[9px] text-white/30">
+                <div class="flex items-center justify-center gap-1 text-[9px] text-white/30">
                   <span>Grados 3-11</span>
                   <svg class="w-4 h-4 text-white/30 group-hover:text-blue-400 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
@@ -1101,8 +1114,8 @@
           </div>
 
           <!-- Grade Cards Grid -->
-          <div class="grid grid-cols-4 sm:grid-cols-4 md:grid-cols-8 gap-3">
-            {#each [3, 5, 6, 7, 8, 9, 10, 11] as grade}
+          <div class="grid grid-cols-4 sm:grid-cols-4 md:grid-cols-4 lg:grid-cols-4 gap-4 max-w-2xl mx-auto">
+            {#each (showAllLandingGrades ? [3, 4, 5, 6, 7, 8, 9, 10, 11] : [3, 5, 9, 11]) as grade}
               <FlashlightCard
                 onClick={() => {
                   selectedGrade = grade;
@@ -1119,11 +1132,23 @@
               </FlashlightCard>
             {/each}
           </div>
+
+          {#if !showAllLandingGrades}
+            <div class="mt-6 flex justify-center">
+              <button
+                onclick={() => showAllLandingGrades = true}
+                class="px-6 py-2 text-[10px] font-bold uppercase tracking-widest text-emerald-500/60 hover:text-emerald-400 border border-white/5 hover:border-emerald-500/20 rounded-full transition-all"
+              >
+                Ver más exámenes (4°, 6°, 7°, 8°, 10°)
+              </button>
+            </div>
+          {/if}
         </div>
 
         <!-- Action Cards Grid -->
         <div class="flex flex-col items-center justify-center gap-6 w-full max-w-2xl relative z-10 mt-8">
 
+          {#if false}
           <FlashlightCard
             onClick={() => showLocalReports = true}
             className="p-8 flex flex-col items-center justify-center group h-48 hover:border-emerald-500/50 transition-transform duration-300 hover:scale-105"
@@ -1138,6 +1163,7 @@
             <h3 class="text-xl font-bold uppercase tracking-widest mb-2">Mis Métricas</h3>
             <p class="text-xs opacity-40">Ver rendimiento local</p>
           </FlashlightCard>
+          {/if}
 
           <!-- Stop Mode Section (Comentado por ahora)
           <div class="w-full flex flex-col sm:flex-row gap-6">
@@ -1232,10 +1258,9 @@
         <!-- Footer - Fixed at Bottom -->
         <footer class="fixed bottom-0 left-0 right-0 bg-[#0a0a0a]/95 backdrop-blur-sm border-t border-white/5 z-50">
           <div class="max-w-6xl mx-auto px-4 py-3 flex flex-col sm:flex-row items-center justify-center gap-3 sm:gap-6 text-[10px] sm:text-xs">
-            <!-- Left: Made in Colombia -->
+            <!-- Left: Country Flag -->
             <span class="flex items-center gap-1 text-white/40">
               <span>🇨🇴</span>
-              <span class="text-[#FCD116]">Hecho en Colombia</span>
             </span>
 
             <!-- Center/Middle Links -->

@@ -44,3 +44,19 @@ Ship a stable code-first production release focused on authentication, instituti
 1. Product remains Magic Link oriented auth flow.
 2. Deployment target is Cloudflare Pages project `saberparatodos`.
 3. Public API artifacts are generated from local scripts before build.
+
+## 7. Preuniversitario Program
+1. `Preuniversitario` ships as a dedicated Colombia route, not as a fake school grade.
+2. Institutional metadata, calendars, fees, and source documents must live in a separate operational model from school question packs.
+3. Admission mocks follow `PREUNIVERSITARIO_PROTOCOL_V4PLUS.md`.
+4. The Top 10 pipeline starts from ICFES Saber Pro aggregates and only publishes entries with official admissions evidence.
+5. Active production order: `UNAL -> UdeA -> auditoria UIS/UTP -> siguiente universidad realmente exam-first -> resto del top 10`.
+6. Current ready states:
+   - `UNAL`: institution profile + core blueprint
+   - `UdeA`: institution profile + core blueprint + pack scaffolds
+7. Immediate pending tasks:
+   - author real packs for `UNAL` and `UdeA`
+   - resolve current conflict for `UniCauca`
+   - open `UniAtlantico Medicina` as first `overlay-first` case
+8. Operational source of truth for this stream: `docs/preuniversitario/top-10/ROADMAP.md`.
+9. Eligibility and classification source of truth: `docs/preuniversitario/top-10/ELIGIBILITY_MATRIX.md`.

@@ -294,7 +294,7 @@ Cuando el usuario solicite una tarea:
 
 - [MASTER_PLAN.md](docs/specs/MASTER_PLAN.md) - Plan general de la organización
 - [Schema SQL](./supabase/schema-global.sql) - Base de datos unificada
-- [question-sync](https://github.com/worldexams/question-sync) - Repo de sincronización
+- [question-sync](https://github.com/world-exams/question-sync) - Repo de sincronización
 
 ---
 

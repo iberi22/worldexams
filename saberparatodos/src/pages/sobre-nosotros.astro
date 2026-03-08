@@ -1,5 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import FeedbackTrigger from '../components/FeedbackTrigger.svelte';
 
 // Schema.org structured data
 const schema = {
@@ -16,7 +17,7 @@ const schema = {
     "name": "World Exams Organization"
   }],
   "sameAs": [
-    "https://github.com/worldexams",
+    "https://github.com/world-exams",
     "https://twitter.com/saberparatodos"
   ]
 };
@@ -171,7 +172,7 @@ const features = [
         </p>
         <div class="flex flex-wrap gap-4 justify-center">
           <a
-            href="https://github.com/worldexams"
+            href="https://github.com/world-exams"
             target="_blank"
             rel="noopener noreferrer"
             class="inline-flex items-center gap-2 px-6 py-3 bg-[#F5F5DC] text-[#121212] font-semibold rounded-lg hover:bg-white transition-colors"
@@ -181,14 +182,12 @@ const features = [
             </svg>
             Ver en GitHub
           </a>
-          <a
-            href="https://github.com/worldexams/saberparatodos/issues"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="inline-flex items-center gap-2 px-6 py-3 border border-white/20 text-[#F5F5DC] font-semibold rounded-lg hover:bg-white/5 transition-colors"
-          >
-            Reportar Problema
-          </a>
+          <FeedbackTrigger
+            client:load
+            label="Reportar Problema"
+            icon="🚩"
+            userContext="SobreNosotros_Hero"
+          />
         </div>
       </div>
     </section>
@@ -219,29 +218,44 @@ const features = [
       </div>
     </section>
 
-    <!-- CTA Section -->
-    <section class="py-16 px-4 border-t border-white/10">
-      <div class="max-w-2xl mx-auto text-center">
-        <h2 class="text-2xl font-bold mb-4">¿Quieres contribuir?</h2>
-        <p class="text-white/70 mb-8">
-          Ya seas desarrollador, educador, o simplemente alguien que quiere ayudar,
-          hay muchas formas de contribuir al proyecto.
-        </p>
-        <div class="flex flex-wrap gap-4 justify-center">
-          <a
-            href="https://github.com/worldexams/saberparatodos#contributing"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="inline-block px-6 py-3 bg-[#F5F5DC] text-[#121212] font-semibold rounded-lg hover:bg-white transition-colors"
-          >
-            Guía de Contribución →
-          </a>
-          <a
-            href="/"
-            class="inline-block px-6 py-3 border border-white/20 text-[#F5F5DC] font-semibold rounded-lg hover:bg-white/5 transition-colors"
-          >
-            Comenzar a Practicar
-          </a>
+    <!-- Feedback & Community Section -->
+    <section class="py-20 px-4 border-t border-white/10 bg-gradient-to-b from-transparent to-emerald-500/[0.02]">
+      <div class="max-w-4xl mx-auto">
+        <div class="grid md:grid-cols-2 gap-8">
+          <div data-sr="fade-right">
+            <h2 class="text-3xl font-bold mb-6">Tu Feedback es Clave</h2>
+            <p class="text-white/70 mb-8 leading-relaxed">
+              SaberParaTodos es un proyecto vivo que mejora cada día gracias a los reportes y sugerencias de la comunidad.
+              Si encuentras un error, tienes una idea o quieres proponer contenido, ¡háznoslo saber!
+            </p>
+            <div class="flex flex-wrap gap-4">
+              <a
+                href="https://github.com/world-exams/saberparatodos#contributing"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="inline-block px-6 py-3 bg-[#F5F5DC] text-[#121212] font-semibold rounded-lg hover:bg-white transition-colors"
+              >
+                Guía de Contribución →
+              </a>
+              <a
+                href="/"
+                class="inline-block px-6 py-3 border border-white/20 text-[#F5F5DC] font-semibold rounded-lg hover:bg-white/5 transition-colors"
+              >
+                Comenzar a Practicar
+              </a>
+            </div>
+          </div>
+
+          <div data-sr="fade-left">
+            <FeedbackTrigger
+              client:visible
+              variant="card"
+              label="Buzón de Sugerencias"
+              description="Envía tus comentarios directamente a nuestro equipo de desarrollo. No necesitas cuenta de GitHub."
+              icon="💡"
+              userContext="SobreNosotros_Card"
+            />
+          </div>
         </div>
       </div>
     </section>

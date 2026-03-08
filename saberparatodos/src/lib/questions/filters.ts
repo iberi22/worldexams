@@ -36,7 +36,8 @@ export function filterByCefrLevel(questions: AppQuestion[], minCefrLevel?: strin
   return questions.filter((q) => {
     if (!q.cefr_level) return true; // If no level is specified, assume it's valid
     const qIndex = CEFR_ORDER.indexOf(q.cefr_level);
-    return qIndex === -1 || qIndex >= minIndex;
+    // 🆕 Allow one level below for "balanced" diagnostic mixes
+    return qIndex === -1 || qIndex >= Math.max(0, minIndex - 1);
   });
 }
 

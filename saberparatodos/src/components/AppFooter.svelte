@@ -21,10 +21,6 @@
           Plataforma open source de práctica para las pruebas ICFES Saber.
           Contenido gratuito para todos los estudiantes colombianos.
         </p>
-        <div class="flex items-center gap-2">
-          <span class="text-xl">🇨🇴</span>
-          <span class="text-xs text-[#FCD116] font-medium uppercase tracking-widest">Hecho en Colombia</span>
-        </div>
       </div>
 
       <!-- Quick Links -->

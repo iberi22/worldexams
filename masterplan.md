@@ -191,7 +191,7 @@ name: nombre del repo
 base: /[repo-name]
 🔧 Comandos Útiles
 # Clonar repo
-git clone https://github.com/worldexams/[repo].git
+git clone https://github.com/world-exams/[repo].git
 
 # Copiar template
 Copy-Item -Path "..\exani-mx\*" -Destination "." -Recurse -Exclude ".git","node_modules","dist",".astro" -Force

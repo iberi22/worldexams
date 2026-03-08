@@ -266,16 +266,26 @@ export function getGradesForCEFRLevel(levelNum: number, range: number = 1): numb
 }
 
 export async function fetchEnglishQuestionsAllGrades(limit: number = 30): Promise<AppQuestion[]> {
-  const ALL_GRADES = [3, 5, 6, 7, 8, 9, 10, 11];
+  // 🆕 Diagnostic restricted to latest bundles for higher grades
+  const ALL_GRADES = [9, 10, 11];
   const answeredIds = await getAnsweredQuestionIds(14, false);
+
   const gradeResults = await Promise.all(ALL_GRADES.map(async (grade) => {
     const questions = await fetchQuestionsFromPacks(grade, 'ingles');
-    return questions.filter(q => !answeredIds.has(q.id)).map(q => ({
+    return questions.filter(q => {
+      const isNotAnswered = !answeredIds.has(q.id);
+      if (grade === 9) return isNotAnswered; // Grade 9 includes all periods
+
+      // For 10 and 11, only include V4+ protocol questions (higher quality bundles)
+      const isNewProtocol = q.protocol_version === '4.0' || q.protocol_version === '4.1';
+      return isNotAnswered && isNewProtocol;
+    }).map(q => ({
       ...q,
       sourceGrade: grade,
       category: `INGLÉS :: ${q.bundleId || 'general'}`
     }));
   }));
+
   let unique = Array.from(new Map(gradeResults.flat().map(q => [q.id, q])).values());
   unique = unique.sort(() => Math.random() - 0.5);
   return limit > 0 ? unique.slice(0, limit) : unique;

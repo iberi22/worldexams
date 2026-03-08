@@ -17,6 +17,7 @@ export default defineConfig({
   // 🆕 Enable SSR for Cloudflare Workers
   output: 'server',
   adapter: cloudflare({
+    imageService: 'compile',
     platformProxy: {
       enabled: true
     }

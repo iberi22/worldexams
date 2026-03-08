@@ -8,6 +8,16 @@ export default {
         surface: '#1E1E1E',
         foreground: '#F5F5DC',
         muted: '#E8E8C0',
+        primary: {
+          DEFAULT: '#10b981', // emerald-500
+          dark: '#059669',
+          light: '#34d399',
+        },
+        accent: {
+          yellow: '#FCD116',
+          blue: '#003893',
+          red: '#CE1126',
+        }
       },
       fontFamily: {
         mono: ['"Fira Code"', 'monospace'],

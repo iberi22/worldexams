@@ -40,17 +40,20 @@ const schema = {
   title={`${heroTitle} | ${countryConfig.name}`}
   description={heroDesc}
 >
-  <div class="min-h-screen bg-[#121212] text-[#F5F5DC]">
+  <div class="min-h-screen background text-foreground relative overflow-hidden">
+    <div class="hero-gradient"></div>
+
     <!-- Hero Section -->
-    <section class="py-16 px-4 border-b border-white/10">
+    <section class="py-24 px-4 relative z-10">
       <div class="max-w-4xl mx-auto text-center">
-        <span class="inline-block px-3 py-1 text-xs font-mono bg-white/5 border border-white/10 rounded-full mb-4 animate-fade-in-up">
-          📚 Guía Oficial {new Date().getFullYear()}
+        <span class="inline-block px-3 py-1 text-[10px] font-mono tracking-widest uppercase bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 rounded-full mb-8 animate-fade-in-up">
+          📚 Guía verificada con fuentes ICFES
         </span>
-        <h1 class="text-4xl md:text-5xl font-bold mb-6 animate-fade-in-up animate-fade-in-up-delay-1">
-          {heroTitle} <span class="text-white/60">{heroSubtitle}</span>
+        <h1 class="text-4xl md:text-6xl font-black mb-8 animate-fade-in-up animate-fade-in-up-delay-1 tracking-tight">
+          {heroTitle} <br/>
+          <span class="text-white/40 font-bold text-3xl md:text-4xl">{heroSubtitle}</span>
         </h1>
-        <p class="text-lg text-white/70 max-w-2xl mx-auto animate-fade-in-up animate-fade-in-up-delay-2">
+        <p class="text-lg md:text-xl text-white/60 max-w-2xl mx-auto animate-fade-in-up animate-fade-in-up-delay-2 leading-relaxed">
           {heroDesc}
         </p>
       </div>
@@ -62,73 +65,187 @@ const schema = {
     {isCO && (
       <>
         <!-- Main Infographic -->
-        <section class="py-12 px-4" data-sr="fade-up">
+        <section class="py-16 px-4 relative z-10" data-sr="fade-up">
           <div class="max-w-6xl mx-auto">
-            <h2 class="text-2xl font-bold mb-8 text-center">Estructura del Sistema de Pruebas de Estado</h2>
-            <ExamInfographic />
+            <h2 class="text-3xl font-bold mb-12 text-center">Estructura del Sistema de Pruebas de Estado</h2>
+            <div class="glass p-8 rounded-3xl">
+              <ExamInfographic />
+            </div>
           </div>
         </section>
 
         <!-- Grade Cards -->
-        <section class="py-12 px-4 border-t border-white/10">
+        <section class="py-20 px-4 border-t border-white/5 relative z-10">
           <div class="max-w-6xl mx-auto">
-            <h2 class="text-2xl font-bold mb-8 text-center" data-sr="fade-up">Pruebas por Grado</h2>
-            <div class="grid md:grid-cols-2 gap-6">
+            <h2 class="text-3xl font-bold mb-12 text-center" data-sr="fade-up">Pruebas por Grado</h2>
+            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
               <div data-sr="fade-up" data-sr-delay="0">
                 <GradeCard
                   grade="3°"
                   title="Saber 3°"
-                  description="Evaluación diagnóstica para estudiantes de tercer grado de primaria."
+                  description="Evaluación del sistema para seguimiento de aprendizajes en primaria."
                   subjects={["Matemáticas", "Lenguaje"]}
-                  duration="2-3 horas"
-                  questions="~54 preguntas"
+                  duration="Aplicación según convocatoria"
+                  questions="Consulta oficial por convocatoria"
                 />
               </div>
               <div data-sr="fade-up" data-sr-delay="100">
                 <GradeCard
                   grade="5°"
                   title="Saber 5°"
-                  description="Evaluación al finalizar la básica primaria. Incluye competencias ciudadanas."
-                  subjects={["Matemáticas", "Lenguaje", "Ciencias Naturales", "Competencias Ciudadanas"]}
-                  duration="4-5 horas"
-                  questions="~100 preguntas"
+                  description="Seguimiento de competencias al cierre de primaria dentro del sistema de evaluación."
+                  subjects={["Matemáticas", "Lenguaje", "Cuestionarios auxiliares"]}
+                  duration="Aplicación según convocatoria"
+                  questions="Consulta oficial por convocatoria"
                 />
               </div>
               <div data-sr="fade-up" data-sr-delay="200">
                 <GradeCard
-                  grade="9°"
-                  title="Saber 9°"
-                  description="Evaluación al finalizar la educación básica secundaria."
-                  subjects={["Matemáticas", "Lenguaje", "Ciencias Naturales", "Competencias Ciudadanas"]}
-                  duration="4-5 horas"
-                  questions="~100 preguntas"
+                  grade="7°"
+                  title="Saber 7°"
+                  description="Punto de seguimiento de básica secundaria incluido en el sistema ICFES."
+                  subjects={["Matemáticas", "Lectura", "Cuestionarios auxiliares"]}
+                  duration="Aplicación según convocatoria"
+                  questions="Consulta oficial por convocatoria"
                 />
               </div>
               <div data-sr="fade-up" data-sr-delay="300">
                 <GradeCard
+                  grade="9°"
+                  title="Saber 9°"
+                  description="Referencia de cierre de básica secundaria dentro del sistema de evaluación."
+                  subjects={["Matemáticas", "Lectura", "Cuestionarios auxiliares"]}
+                  duration="Aplicación según convocatoria"
+                  questions="Consulta oficial por convocatoria"
+                />
+              </div>
+              <div data-sr="fade-up" data-sr-delay="400">
+                <GradeCard
                   grade="11°"
                   title="Saber 11°"
-                  description="Examen de Estado obligatorio para acceder a la educación superior."
+                  description="Examen de Estado que presentan quienes finalizan grado 11.º y población habilitada por el ICFES."
                   subjects={["Lectura Crítica", "Matemáticas", "Sociales y Ciudadanas", "Ciencias Naturales", "Inglés"]}
                   duration="9 horas (2 sesiones)"
-                  questions="~230 preguntas"
+                  questions="230 calificables / 278 con cuestionario"
                   highlight={true}
                 />
+              </div>
+              <div data-sr="fade-up" data-sr-delay="500">
+                <a href="/preuniversitario" class="block rounded-lg focus:outline-none focus-visible:ring-2 focus-visible:ring-[#FCD116]">
+                  <GradeCard
+                    grade="PreU"
+                    title="Preuniversitario"
+                    description="Modulo para simular examenes de admision universitarios y auditar componentes, costos, fechas y fuentes oficiales."
+                    subjects={["Top 10 pipeline", "Blueprint institucional", "Protocol v4+", "Overlays por carrera"]}
+                    duration="Variable por universidad"
+                    questions="20 reactivos base por mock"
+                    highlight={true}
+                  />
+                </a>
               </div>
             </div>
           </div>
         </section>
 
-        <!-- Statistics Section -->
-        <section class="py-12 px-4 border-t border-white/10 bg-gradient-to-b from-transparent to-white/[0.02]">
+        <!-- 2025 Official Calendar -->
+        <section class="py-20 px-4 border-t border-white/5 relative z-10" id="calendario-2025">
           <div class="max-w-6xl mx-auto">
-            <h2 class="text-2xl font-bold mb-2 text-center" data-sr="fade-up">
+            <h2 class="text-3xl font-bold mb-4 text-center" data-sr="fade-up">
+              📅 Calendario Oficial ICFES 2025
+            </h2>
+            <p class="text-white/40 text-center mb-12 text-sm uppercase tracking-widest" data-sr="fade-up" data-sr-delay="100">
+              Fechas clave para Calendario A y B según Resoluciones 2024-2025
+            </p>
+
+            <div class="grid md:grid-cols-2 gap-8">
+              <!-- Calendario B 2025 -->
+              <div class="glass p-8 rounded-3xl border-l-4 border-blue-500" data-sr="fade-right">
+                <h3 class="text-2xl font-bold mb-6 flex items-center gap-3 text-blue-400">
+                  <span class="px-2 py-0.5 bg-blue-500/10 border border-blue-500/20 rounded text-xs uppercase tracking-tighter">Cat B</span>
+                  Calendario B 2025
+                </h3>
+                <ul class="space-y-4">
+                  <li class="flex justify-between items-center border-b border-white/5 pb-2">
+                    <span class="text-white/60 text-sm">Registro y recaudo (Ord)</span>
+                    <span class="text-[#F5F5DC] font-mono text-xs">4 Dic 2024 - 17 Ene 2025</span>
+                  </li>
+                  <li class="flex justify-between items-center border-b border-white/5 pb-2">
+                    <span class="text-white/60 text-sm">Publicación citaciones</span>
+                    <span class="text-[#F5F5DC] font-mono text-xs">7 Mar 2025</span>
+                  </li>
+                  <li class="flex justify-between items-center border-b border-white/5 pb-2 bg-emerald-500/5 -mx-2 px-2 rounded">
+                    <span class="text-emerald-400 text-sm font-bold">Aplicación Examen</span>
+                    <span class="text-emerald-400 font-mono text-xs font-bold">23 Mar 2025</span>
+                  </li>
+                  <li class="flex justify-between items-center border-b border-white/5 pb-2">
+                    <span class="text-white/60 text-sm">Resultados individuales</span>
+                    <span class="text-[#F5F5DC] font-mono text-xs">23 May 2025</span>
+                  </li>
+                </ul>
+              </div>
+
+              <!-- Calendario A 2025 -->
+              <div class="glass p-8 rounded-3xl border-l-4 border-emerald-500" data-sr="fade-left">
+                <h3 class="text-2xl font-bold mb-6 flex items-center gap-3 text-emerald-400">
+                  <span class="px-2 py-0.5 bg-emerald-500/10 border border-emerald-500/20 rounded text-xs uppercase tracking-tighter">Cat A</span>
+                  Calendario A 2025
+                </h3>
+                <ul class="space-y-4">
+                  <li class="flex justify-between items-center border-b border-white/5 pb-2">
+                    <span class="text-white/60 text-sm">Registro y recaudo (Ord)</span>
+                    <span class="text-[#F5F5DC] font-mono text-xs">31 Mar - 9 May 2025</span>
+                  </li>
+                  <li class="flex justify-between items-center border-b border-white/5 pb-2">
+                    <span class="text-white/60 text-sm">Publicación citaciones</span>
+                    <span class="text-[#F5F5DC] font-mono text-xs">25 Jul 2025</span>
+                  </li>
+                  <li class="flex justify-between items-center border-b border-white/5 pb-2 bg-emerald-500/5 -mx-2 px-2 rounded">
+                    <span class="text-emerald-400 text-sm font-bold">Aplicación Examen</span>
+                    <span class="text-emerald-400 font-mono text-xs font-bold">10 Ago 2025</span>
+                  </li>
+                  <li class="flex justify-between items-center border-b border-white/5 pb-2">
+                    <span class="text-white/60 text-sm">Resultados individuales</span>
+                    <span class="text-[#F5F5DC] font-mono text-xs">1 Nov 2025</span>
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="mt-12 p-6 glass rounded-2xl border-dashed border-white/10" data-sr="fade-up">
+              <h4 class="text-sm font-bold text-white/40 uppercase tracking-widest mb-4">Fuentes de Información Oficial</h4>
+              <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
+                <a href="https://www.icfes.gov.co/cronograma-de-examenes" target="_blank" class="flex items-center gap-3 p-3 bg-white/5 rounded-lg border border-white/10 hover:bg-white/10 transition-colors group">
+                  <div class="p-2 bg-white/5 rounded group-hover:text-emerald-400 transition-colors">🔗</div>
+                  <div class="text-[11px] font-bold text-white/70 uppercase">Cronograma ICFES</div>
+                </a>
+                <a href="https://www.icfes.gov.co/evaluaciones-icfes/saber-11/guia-de-orientacion-examen-saber-11/" target="_blank" class="flex items-center gap-3 p-3 bg-white/5 rounded-lg border border-white/10 hover:bg-white/10 transition-colors group">
+                  <div class="p-2 bg-white/5 rounded group-hover:text-emerald-400 transition-colors">📄</div>
+                  <div class="text-[11px] font-bold text-white/70 uppercase">Guía Orientación 2025</div>
+                </a>
+                <a href="https://www.icfes.gov.co/comunicados-de-prensa" target="_blank" class="flex items-center gap-3 p-3 bg-white/5 rounded-lg border border-white/10 hover:bg-white/10 transition-colors group">
+                  <div class="p-2 bg-white/5 rounded group-hover:text-emerald-400 transition-colors">📰</div>
+                  <div class="text-[11px] font-bold text-white/70 uppercase">Salas de Prensa</div>
+                </a>
+              </div>
+              <p class="text-[10px] text-white/30 mt-6 leading-relaxed">
+                * Las fechas pueden ser modificadas por el ICFES mediante resoluciones extraordinarias. Se recomienda validar siempre en icfes.gov.co antes de realizar el recaudo.
+              </p>
+            </div>
+          </div>
+        </section>
+
+        <!-- Statistics Section -->
+        <section class="py-20 px-4 border-t border-white/5 bg-gradient-to-b from-transparent to-emerald-500/[0.02] relative z-10">
+          <div class="max-w-6xl mx-auto">
+            <h2 class="text-3xl font-bold mb-4 text-center" data-sr="fade-up">
               📊 Estadísticas Pruebas de Estado
             </h2>
-            <p class="text-white/60 text-center mb-8 text-sm" data-sr="fade-up" data-sr-delay="100">
-              Datos reales de los resultados nacionales
+            <p class="text-white/40 text-center mb-12 text-sm uppercase tracking-widest" data-sr="fade-up" data-sr-delay="100">
+              Resumen basado en la guía de orientación oficial
             </p>
-            <StatsIcfes />
+            <div class="glass p-8 rounded-3xl">
+              <StatsIcfes />
+            </div>
           </div>
         </section>
       </>
@@ -140,10 +257,10 @@ const schema = {
     {isMX && (
       <>
         <!-- Structure Overview -->
-        <section class="py-12 px-4" data-sr="fade-up">
+        <section class="py-20 px-4 relative z-10" data-sr="fade-up">
           <div class="max-w-6xl mx-auto">
-            <h2 class="text-2xl font-bold mb-8 text-center text-[#F5F5DC]">Estructura General del Examen</h2>
-            <div class="grid md:grid-cols-3 gap-6">
+            <h2 class="text-3xl font-bold mb-12 text-center text-[#F5F5DC]">Estructura General del Examen</h2>
+            <div class="grid md:grid-cols-3 gap-8">
               <GradeCard
                 grade="A"
                 title="Transversales"
@@ -174,43 +291,43 @@ const schema = {
         </section>
 
         <!-- Detailed Breakdown Charts for MX -->
-        <section class="py-12 px-4 border-t border-white/10 bg-white/5">
+        <section class="py-20 px-4 border-t border-white/5 bg-white/[0.01] relative z-10">
           <div class="max-w-4xl mx-auto">
-            <h2 class="text-2xl font-bold mb-8 text-center" data-sr="fade-up">EL EXANI-II en Detalle</h2>
+            <h2 class="text-3xl font-bold mb-12 text-center" data-sr="fade-up">EL EXANI-II en Detalle</h2>
             <div class="mb-12" data-sr="zoom-in" data-sr-delay="100">
-              <h3 class="text-lg font-semibold mb-6 text-center text-white/70">Composición de Reactivos</h3>
-              <div class="bg-[#1a1a1a] border border-white/10 rounded-lg p-6 flex flex-col items-center">
-                 <div class="w-full max-w-lg space-y-4">
+              <h3 class="text-lg font-bold mb-8 text-center text-white/40 uppercase tracking-widest">Composición de Reactivos</h3>
+              <div class="glass p-8 rounded-3xl flex flex-col items-center">
+                 <div class="w-full max-w-lg space-y-6">
                     <div>
-                      <div class="flex justify-between text-xs mb-1">
+                      <div class="flex justify-between text-[10px] uppercase tracking-widest mb-2 text-white/60">
                         <span>Habilidades Transversales</span>
-                        <span class="font-bold">54%</span>
+                        <span class="font-bold text-emerald-400">54%</span>
                       </div>
-                      <div class="w-full bg-white/10 rounded-full h-4 overflow-hidden">
-                        <div class="bg-[#006847] h-full rounded-full" style="width: 54%"></div>
+                      <div class="w-full bg-white/5 rounded-full h-3 overflow-hidden border border-white/5">
+                        <div class="bg-gradient-to-r from-emerald-600 to-emerald-400 h-full rounded-full" style="width: 54%"></div>
                       </div>
                     </div>
                     <div>
-                      <div class="flex justify-between text-xs mb-1">
+                      <div class="flex justify-between text-[10px] uppercase tracking-widest mb-2 text-white/60">
                         <span>Módulos Específicos</span>
-                        <span class="font-bold">28%</span>
+                        <span class="font-bold text-blue-400">28%</span>
                       </div>
-                      <div class="w-full bg-white/10 rounded-full h-4 overflow-hidden">
-                        <div class="bg-[#CE1126] h-full rounded-full" style="width: 28%"></div>
+                      <div class="w-full bg-white/5 rounded-full h-3 overflow-hidden border border-white/5">
+                        <div class="bg-gradient-to-r from-blue-600 to-blue-400 h-full rounded-full" style="width: 28%"></div>
                       </div>
                     </div>
                     <div>
-                      <div class="flex justify-between text-xs mb-1">
+                      <div class="flex justify-between text-[10px] uppercase tracking-widest mb-2 text-white/60">
                         <span>Inglés (Diagnóstico)</span>
-                        <span class="font-bold">18%</span>
+                        <span class="font-bold text-purple-400">18%</span>
                       </div>
-                      <div class="w-full bg-white/10 rounded-full h-4 overflow-hidden">
-                        <div class="bg-white/60 h-full rounded-full" style="width: 18%"></div>
+                      <div class="w-full bg-white/5 rounded-full h-3 overflow-hidden border border-white/5">
+                        <div class="bg-gradient-to-r from-purple-600 to-purple-400 h-full rounded-full" style="width: 18%"></div>
                       </div>
                     </div>
                  </div>
-                 <p class="text-center text-white/60 text-sm mt-8">
-                   Total: <strong>168 Preguntas</strong> | Duración: <strong>4.5 Horas</strong> (Sesión Única)
+                 <p class="text-center text-white/40 text-xs mt-10 uppercase tracking-widest">
+                   Total: <strong class="text-white">168 Preguntas</strong> • Duración: <strong class="text-white">4.5 Horas</strong>
                  </p>
               </div>
             </div>
@@ -223,10 +340,10 @@ const schema = {
         SHARED CONTENT (Tips, Competencies, CTA)
        ========================================= */}
 
-    <!-- Competencies (Generic enough) -->
-    <section class="py-12 px-4 border-t border-white/10">
+    <!-- Competencies -->
+    <section class="py-20 px-4 border-t border-white/5 relative z-10">
       <div class="max-w-6xl mx-auto">
-        <h2 class="text-2xl font-bold mb-8 text-center" data-sr="fade-up">Competencias Clave</h2>
+        <h2 class="text-3xl font-bold mb-12 text-center" data-sr="fade-up">Competencias Clave</h2>
         <div data-sr="fade-up" data-sr-delay="100">
           <CompetencyList />
         </div>
@@ -234,9 +351,9 @@ const schema = {
     </section>
 
     <!-- Tips Section -->
-    <section class="py-12 px-4 border-t border-white/10">
+    <section class="py-20 px-4 border-t border-white/5 bg-gradient-to-t from-emerald-500/[0.02] to-transparent relative z-10">
       <div class="max-w-6xl mx-auto">
-        <h2 class="text-2xl font-bold mb-8 text-center" data-sr="fade-up">Consejos para el Éxito</h2>
+        <h2 class="text-3xl font-bold mb-12 text-center" data-sr="fade-up">Estrategias y Recomendaciones</h2>
         <div data-sr="fade-up" data-sr-delay="100">
           <TipsSection />
         </div>
@@ -244,17 +361,18 @@ const schema = {
     </section>
 
     <!-- CTA Section -->
-    <section class="py-16 px-4 border-t border-white/10">
-      <div class="max-w-2xl mx-auto text-center" data-sr="zoom-in">
-        <h2 class="text-2xl font-bold mb-4">¿Listo para practicar?</h2>
-        <p class="text-white/70 mb-8">
-          Accede a nuestro banco de preguntas gratuito y comienza a prepararte hoy.
+    <section class="py-24 px-4 border-t border-white/5 relative z-10 overflow-hidden">
+      <div class="absolute inset-0 bg-emerald-500/[0.03] animate-pulse-slow"></div>
+      <div class="max-w-2xl mx-auto text-center relative z-10" data-sr="zoom-in">
+        <h2 class="text-4xl font-black mb-6 tracking-tight">¿Listo para practicar?</h2>
+        <p class="text-white/60 mb-10 text-lg leading-relaxed">
+          Accede a más de 4,000 preguntas verificadas y mejora tu nivel hoy mismo.
         </p>
         <a
           href="/"
-          class="inline-block px-8 py-3 bg-[#F5F5DC] text-[#121212] font-semibold rounded-lg hover:bg-white transition-colors"
+          class="inline-block px-10 py-4 bg-emerald-500 text-black font-black uppercase tracking-widest text-sm rounded-xl hover:bg-emerald-400 hover:scale-105 transition-all shadow-xl shadow-emerald-500/20"
         >
-          Comenzar Práctica →
+          Iniciar Simulacro Gratuito →
         </a>
       </div>
     </section>

@@ -10,6 +10,7 @@ const footerLinks = {
   recursos: [
     { href: "/", label: "Practicar" },
     { href: "/guia-examen", label: `Guía ${countryConfig.code === 'MX' ? 'EXANI' : 'ICFES'}` },
+    { href: "/changelog", label: "Changelog & Versiones" },
     { href: "/sobre-nosotros", label: "Sobre Nosotros" },
     { href: "/contacto", label: "Contacto" },
   ],
@@ -21,7 +22,7 @@ const footerLinks = {
   social: [
     { href: "https://github.com/world-exams", label: "GitHub", icon: "github" },
     {
-      href: "https://twitter.com/worldexams",
+      href: "https://twitter.com/world-exams",
       label: "Twitter",
       icon: "twitter",
     },
@@ -117,7 +118,7 @@ const getCountryCode = () => countryConfig.code;
         <h3 class="section-title">Comunidad</h3>
         <div class="social-links">
           <a
-            href="https://github.com/worldexams"
+            href="https://github.com/world-exams"
             target="_blank"
             rel="noopener noreferrer"
             class="social-link"
@@ -130,7 +131,7 @@ const getCountryCode = () => countryConfig.code;
             </svg>
           </a>
           <a
-            href="https://twitter.com/worldexams"
+            href="https://twitter.com/world-exams"
             target="_blank"
             rel="noopener noreferrer"
             class="social-link"
@@ -153,7 +154,7 @@ const getCountryCode = () => countryConfig.code;
     <div class="footer-bottom">
       <p class="copyright">
         © {currentYear} {countryConfig.name}. Powered by <a
-          href="https://github.com/worldexams"
+          href="https://github.com/world-exams"
           target="_blank"
           rel="noopener noreferrer">World Exams Organization</a
         >

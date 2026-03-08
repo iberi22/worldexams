@@ -421,7 +421,7 @@ git log -1 --stat | grep api/v1/
 
 ```bash
 # Ver logs de GitHub Action
-# Ir a: https://github.com/worldexams/worldexams/actions
+# Ir a: https://github.com/world-exams/worldexams/actions
 
 # Ver logs de Cloudflare
 # Ir a: https://dash.cloudflare.com → Pages → worldexams-api → Deployments
