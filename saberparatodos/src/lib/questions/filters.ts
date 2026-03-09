@@ -25,7 +25,7 @@ export function filterByGradeAndDiagnostic(
   return result;
 }
 
-const CEFR_ORDER = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
+const CEFR_ORDER = ['A1', 'A1+', 'A2', 'A2+', 'B1', 'B1+', 'B2', 'B2+', 'C1'];
 
 export function filterByCefrLevel(questions: AppQuestion[], minCefrLevel?: string): AppQuestion[] {
   if (!minCefrLevel) return questions;

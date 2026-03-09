@@ -6,9 +6,10 @@ import type { QuestionSelectionDeps, QuestionSelectionRequest, QuestionSelection
 
 export async function loadEnglishDiagnosticPool(
   deps: QuestionSelectionDeps,
-  limit: number = 100
+  limit: number = 100,
+  cefrLevelNum?: number
 ): Promise<AppQuestion[]> {
-  return deps.repository.fetchEnglishQuestionsAllGrades(limit, true);
+  return deps.repository.fetchEnglishQuestionsAllGrades(limit, true, cefrLevelNum);
 }
 
 export async function prepareSoloExamQuestions(
@@ -41,6 +42,16 @@ export async function prepareSoloExamQuestions(
   }
 
   let filtered = filterBySubject(pool, request.subject);
+
+  // 🆕 For English Diagnostic, if pool is empty, fetch it with level awareness
+  if (request.englishDiagnostic && filtered.length === 0) {
+    const { CEFR_LEVEL_NUM } = await import('../english-proficiency');
+    const cefrNum = request.minCefrLevel ? (CEFR_LEVEL_NUM as any)[request.minCefrLevel] : undefined;
+    const diagnosticPool = await deps.repository.fetchEnglishQuestionsAllGrades(100, true, cefrNum);
+    pool = dedupeById([...pool, ...diagnosticPool]);
+    filtered = filterBySubject(pool, request.subject);
+  }
+
   filtered = filterByGradeAndDiagnostic(
     filtered,
     request.grade,

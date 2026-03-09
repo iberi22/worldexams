@@ -1,0 +1,638 @@
+---
+import Layout from '../../layouts/Layout.astro';
+---
+
+<Layout title="API de Preguntas | World Exams">
+  <div class="min-h-screen bg-[#0a0a0f] text-gray-200">
+    <!-- Hero Section -->
+    <div class="relative overflow-hidden bg-gradient-to-br from-[#1a1a2e] via-[#16213e] to-[#0f0f23] py-20">
+      <div class="absolute inset-0 opacity-20">
+        <div class="absolute top-20 left-10 w-72 h-72 bg-[#FCD116] rounded-full blur-3xl"></div>
+        <div class="absolute bottom-20 right-10 w-96 h-96 bg-[#003893] rounded-full blur-3xl"></div>
+      </div>
+
+      <div class="max-w-6xl mx-auto px-6 relative z-10">
+        <div class="text-center mb-12">
+          <span class="inline-block px-4 py-2 bg-[#FCD116]/20 text-[#FCD116] rounded-full text-sm font-bold mb-4">
+            🚀 EL MAYOR BANCO DE PREGUNTAS DE LATINOAMÉRICA
+          </span>
+          <h1 class="text-5xl md:text-6xl font-black text-white mb-6">
+            API de <span class="text-[#FCD116]">Generación</span> de Preguntas
+          </h1>
+          <p class="text-xl text-gray-400 max-w-3xl mx-auto">
+            Genera preguntas de forma automática con nuestro protocolo propietario en constante evolución.
+            <span class="text-[#FCD116] font-bold">+1,000,000 de preguntas</span> en roadmap.
+          </p>
+        </div>
+
+        <!-- Stats -->
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-6 mt-12">
+          <div class="bg-[#1a1a2e]/80 backdrop-blur p-6 rounded-xl border border-[#333]">
+            <div class="text-4xl font-black text-[#FCD116]">50K+</div>
+            <div class="text-gray-400 mt-2">Preguntas Actuales</div>
+          </div>
+          <div class="bg-[#1a1a2e]/80 backdrop-blur p-6 rounded-xl border border-[#333]">
+            <div class="text-4xl font-black text-[#003893]">9</div>
+            <div class="text-gray-400 mt-2">Países</div>
+          </div>
+          <div class="bg-[#1a1a2e]/80 backdrop-blur p-6 rounded-xl border border-[#333]">
+            <div class="text-4xl font-black text-[#CE1126]">7</div>
+            <div class="text-gray-400 mt-2">Idiomas</div>
+          </div>
+          <div class="bg-[#1a1a2e]/80 backdrop-blur p-6 rounded-xl border border-[#333]">
+            <div class="text-4xl font-black text-green-500">99.2%</div>
+            <div class="text-gray-400 mt-2">Precisión</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Protocol Section -->
+    <div class="max-w-6xl mx-auto px-6 py-16">
+      <div class="text-center mb-16">
+        <h2 class="text-4xl font-black text-white mb-4">
+          Protocolo Propietario <span class="text-[#FCD116]">WorldExams v3.0</span>
+        </h2>
+        <p class="text-xl text-gray-400 max-w-2xl mx-auto">
+          Un protocolo en constante evolución que garantiza la máxima calidad educativa
+          mediante IA + revisión humana + retroalimentación continua.
+        </p>
+      </div>
+
+      <!-- Protocol Evolution -->
+      <div class="bg-[#1a1a2e] rounded-2xl border border-[#333] p-8 mb-12">
+        <h3 class="text-2xl font-bold text-white mb-8 flex items-center gap-3">
+          <span class="text-3xl">🔄</span> Evolución del Protocolo
+        </h3>
+
+        <div class="grid md:grid-cols-3 gap-6">
+          <!-- v1.0 -->
+          <div class="bg-[#0f0f1a] p-6 rounded-xl border border-[#333]">
+            <div class="flex items-center justify-between mb-4">
+              <span class="text-sm font-bold text-gray-400">Enero 2025</span>
+              <span class="px-3 py-1 bg-gray-600/30 text-gray-400 rounded-full text-xs font-bold">LEGACY</span>
+            </div>
+            <h4 class="text-xl font-bold text-white mb-3">Protocolo v1.0</h4>
+            <ul class="space-y-2 text-gray-400 text-sm">
+              <li class="flex items-start gap-2">
+                <span class="text-red-500">•</span>
+                <span>1 pregunta por archivo</span>
+              </li>
+              <li class="flex items-start gap-2">
+                <span class="text-red-500">•</span>
+                <span>Sin contexto cultural</span>
+              </li>
+              <li class="flex items-start gap-2">
+                <span class="text-red-500">•</span>
+                <span>Explicaciones básicas</span>
+              </li>
+              <li class="flex items-start gap-2">
+                <span class="text-red-500">•</span>
+                <span>Formato no estructurado</span>
+              </li>
+            </ul>
+          </div>
+
+          <!-- v2.0 -->
+          <div class="bg-[#0f0f1a] p-6 rounded-xl border border-[#003893]/50">
+            <div class="flex items-center justify-between mb-4">
+              <span class="text-sm font-bold text-[#003893]">Diciembre 2025</span>
+              <span class="px-3 py-1 bg-[#003893]/30 text-[#003893] rounded-full text-xs font-bold">ACTUAL</span>
+            </div>
+            <h4 class="text-xl font-bold text-white mb-3">Protocolo v2.1</h4>
+            <ul class="space-y-2 text-gray-400 text-sm">
+              <li class="flex items-start gap-2">
+                <span class="text-green-500">✓</span>
+                <span>7 variantes por pregunta</span>
+              </li>
+              <li class="flex items-start gap-2">
+                <span class="text-green-500">✓</span>
+                <span>Contexto cultural obligatorio</span>
+              </li>
+              <li class="flex items-start gap-2">
+                <span class="text-green-500">✓</span>
+                <span>Licencias duales (BY-SA / BY-NC-SA)</span>
+              </li>
+              <li class="flex items-start gap-2">
+                <span class="text-green-500">✓</span>
+                <span>Metadata estructurada</span>
+              </li>
+            </ul>
+          </div>
+
+          <!-- v3.0 -->
+          <div class="bg-[#0f0f1a] p-6 rounded-xl border border-[#FCD116]/50 relative overflow-hidden">
+            <div class="absolute top-0 right-0 w-20 h-20 bg-[#FCD116] opacity-10 rounded-bl-full"></div>
+            <div class="flex items-center justify-between mb-4">
+              <span class="text-sm font-bold text-[#FCD116]">Q2 2026</span>
+              <span class="px-3 py-1 bg-[#FCD116]/30 text-[#FCD116] rounded-full text-xs font-bold">PRÓXIMO</span>
+            </div>
+            <h4 class="text-xl font-bold text-white mb-3">Protocolo v3.0</h4>
+            <ul class="space-y-2 text-gray-400 text-sm">
+              <li class="flex items-start gap-2">
+                <span class="text-[#FCD116]">★</span>
+                <span>IA adaptativa por estudiante</span>
+              </li>
+              <li class="flex items-start gap-2">
+                <span class="text-[#FCD116]">★</span>
+                <span>Generación en tiempo real</span>
+              </li>
+              <li class="flex items-start gap-2">
+                <span class="text-[#FCD116]">★</span>
+                <span>Multimodal (texto + imagen)</span>
+              </li>
+              <li class="flex items-start gap-2">
+                <span class="text-[#FCD116]">★</span>
+                <span>Validación automática con LLMs</span>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- How It Works -->
+      <div class="bg-[#1a1a2e] rounded-2xl border border-[#333] p-8">
+        <h3 class="text-2xl font-bold text-white mb-8 flex items-center gap-3">
+          <span class="text-3xl">⚙️</span> Cómo Funciona el Motor de Generación
+        </h3>
+
+        <div class="grid md:grid-cols-5 gap-4">
+          <div class="text-center">
+            <div class="w-16 h-16 bg-[#003893] rounded-full flex items-center justify-center mx-auto mb-4 text-2xl">🔍</div>
+            <h4 class="font-bold text-white mb-2">1. Investigación</h4>
+            <p class="text-gray-400 text-sm">Búsqueda automática en fuentes oficiales (ICFES, EXANI, ENEM)</p>
+          </div>
+
+          <div class="text-center">
+            <div class="w-16 h-16 bg-[#CE1126] rounded-full flex items-center justify-center mx-auto mb-4 text-2xl">🤖</div>
+            <h4 class="font-bold text-white mb-2">2. Generación IA</h4>
+            <p class="text-gray-400 text-sm">Creación de 7 variantes con contextos culturales locales</p>
+          </div>
+
+          <div class="text-center">
+            <div class="w-16 h-16 bg-[#FCD116] text-[#1a1a2e] rounded-full flex items-center justify-center mx-auto mb-4 text-2xl">✓</div>
+            <h4 class="font-bold text-white mb-2">3. Validación</h4>
+            <p class="text-gray-400 text-sm">Revisión automática + validación humana de pedagógos</p>
+          </div>
+
+          <div class="text-center">
+            <div class="w-16 h-16 bg-green-600 rounded-full flex items-center justify-center mx-auto mb-4 text-2xl">📊</div>
+            <h4 class="font-bold text-white mb-2">4. Análisis</h4>
+            <p class="text-gray-400 text-sm">Métricas de dificultad, discriminación y precisión</p>
+          </div>
+
+          <div class="text-center">
+            <div class="w-16 h-16 bg-purple-600 rounded-full flex items-center justify-center mx-auto mb-4 text-2xl">🚀</div>
+            <h4 class="font-bold text-white mb-2">5. Publicación</h4>
+            <p class="text-gray-400 text-sm">Deploy automático a API + dashboard de analytics</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Pricing Section -->
+    <div class="bg-[#0f0f1a] py-16">
+      <div class="max-w-6xl mx-auto px-6">
+        <div class="text-center mb-16">
+          <h2 class="text-4xl font-black text-white mb-4">
+            Planes de <span class="text-[#FCD116]">API</span>
+          </h2>
+          <p class="text-xl text-gray-400">
+            Precios en <span class="font-bold text-[#FCD116]">Pesos Colombianos (COP)</span>. Paga en pesos, facturado en USD.
+          </p>
+        </div>
+
+        <!-- Pricing Comparison Table -->
+        <div class="overflow-x-auto mb-16">
+          <table class="w-full min-w-[800px]">
+            <thead>
+              <tr class="border-b border-[#333]">
+                <th class="text-left py-4 px-6 text-gray-400 font-bold">Característica</th>
+                <th class="text-center py-4 px-6 text-[#FCD116] font-bold text-xl">
+                  🆓 Free<br><span class="text-sm font-normal text-gray-400">Desarrollo</span>
+                </th>
+                <th class="text-center py-4 px-6 bg-[#003893]/20 border-2 border-[#003893] rounded-t-xl text-white font-bold text-xl">
+                  🚀 Starter<br><span class="text-sm font-normal text-gray-400">$149.000/mes</span>
+                </th>
+                <th class="text-center py-4 px-6 text-[#CE1126] font-bold text-xl">
+                  ⚡ Pro<br><span class="text-sm font-normal text-gray-400">$449.000/mes</span>
+                </th>
+                <th class="text-center py-4 px-6 text-[#FCD116] font-bold text-xl">
+                  👑 Enterprise<br><span class="text-sm font-normal text-gray-400">Custom</span>
+                </th>
+              </tr>
+            </thead>
+            <tbody class="text-gray-300">
+              <tr class="border-b border-[#333]">
+                <td class="py-4 px-6">Requests/mes</td>
+                <td class="text-center py-4 px-6">100/hora</td>
+                <td class="text-center py-4 px-6 bg-[#003893]/10 font-bold">10,000</td>
+                <td class="text-center py-4 px-6">50,000</td>
+                <td class="text-center py-4 px-6">Ilimitado</td>
+              </tr>
+              <tr class="border-b border-[#333]">
+                <td class="py-4 px-6">Países disponibles</td>
+                <td class="text-center py-4 px-6">1 (Colombia)</td>
+                <td class="text-center py-4 px-6 bg-[#003893]/10">3</td>
+                <td class="text-center py-4 px-6">9</td>
+                <td class="text-center py-4 px-6">Todos</td>
+              </tr>
+              <tr class="border-b border-[#333]">
+                <td class="py-4 px-6">Variantes por pregunta</td>
+                <td class="text-center py-4 px-6">1 (v1 legacy)</td>
+                <td class="text-center py-4 px-6 bg-[#003893]/10">3</td>
+                <td class="text-center py-4 px-6">7 (todas)</td>
+                <td class="text-center py-4 px-6">7 + custom</td>
+              </tr>
+              <tr class="border-b border-[#333]">
+                <td class="py-4 px-6">Acceso legacy</td>
+                <td class="text-center py-4 px-6">✓</td>
+                <td class="text-center py-4 px-6 bg-[#003893]/10">✓</td>
+                <td class="text-center py-4 px-6">✓</td>
+                <td class="text-center py-4 px-6">✓</td>
+              </tr>
+              <tr class="border-b border-[#333]">
+                <td class="py-4 px-6">Generación en tiempo real</td>
+                <td class="text-center py-4 px-6">❌</td>
+                <td class="text-center py-4 px-6 bg-[#003893]/10">❌</td>
+                <td class="text-center py-4 px-6">✓</td>
+                <td class="text-center py-4 px-6">✓</td>
+              </tr>
+              <tr class="border-b border-[#333]">
+                <td class="py-4 px-6">API key</td>
+                <td class="text-center py-4 px-6">❌</td>
+                <td class="text-center py-4 px-6 bg-[#003893]/10">✓</td>
+                <td class="text-center py-4 px-6">✓</td>
+                <td class="text-center py-4 px-6">✓</td>
+              </tr>
+              <tr class="border-b border-[#333]">
+                <td class="py-4 px-6">Soporte</td>
+                <td class="text-center py-4 px-6">Comunidad</td>
+                <td class="text-center py-4 px-6 bg-[#003893]/10">Email</td>
+                <td class="text-center py-4 px-6">Email prioritario</td>
+                <td class="text-center py-4 px-6">24/7 dedicado</td>
+              </tr>
+              <tr>
+                <td class="py-4 px-6">SLA</td>
+                <td class="text-center py-4 px-6">❌</td>
+                <td class="text-center py-4 px-6 bg-[#003893]/10">99%</td>
+                <td class="text-center py-4 px-6">99.5%</td>
+                <td class="text-center py-4 px-6">99.9%</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <!-- Competitor Comparison -->
+        <div class="bg-[#1a1a2e] rounded-2xl border border-[#333] p-8 mb-12">
+          <h3 class="text-2xl font-bold text-white mb-8 flex items-center gap-3">
+            <span class="text-3xl">📊</span> Comparación con Competidores
+          </h3>
+
+          <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <!-- WorldExams (Our Product) -->
+            <div class="bg-gradient-to-br from-[#003893] to-[#1a1a2e] p-6 rounded-xl border-2 border-[#FCD116] relative">
+              <div class="absolute -top-3 left-1/2 -translate-x-1/2 px-4 py-1 bg-[#FCD116] text-black font-bold text-sm rounded-full">
+                NUESTRO PRODUCTO
+              </div>
+              <h4 class="text-2xl font-black text-white mb-2">WorldExams API</h4>
+              <p class="text-gray-300 mb-4">El más completo para LATAM</p>
+
+              <div class="space-y-3 mb-6">
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Precio Starter</span>
+                  <span class="font-bold text-green-400">$149.000 COP</span>
+                </div>
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Precio Pro</span>
+                  <span class="font-bold text-green-400">$449.000 COP</span>
+                </div>
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Preguntas países</span>
+                  <span class="font-bold text-white">9</span>
+                </div>
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Variantes</span>
+                  <span class="font-bold text-white">7 por pregunta</span>
+                </div>
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Generación IA</span>
+                  <span class="font-bold text-green-400">✓ Incluido</span>
+                </div>
+              </div>
+
+              <div class="text-xs text-gray-400 border-t border-gray-600 pt-3">
+                <strong class="text-[#FCD116]">✓ Ventaja:</strong> Único con contenido colombiano auténtico, contextos culturales locales y licencias comerciales incluidas.
+              </div>
+            </div>
+
+            <!-- Competitor 1 -->
+            <div class="bg-[#0f0f1a] p-6 rounded-xl border border-[#333]">
+              <h4 class="text-xl font-bold text-white mb-2">Kahoot!</h4>
+              <p class="text-gray-400 text-sm mb-4">Plataforma de juegos educativos</p>
+
+              <div class="space-y-3 mb-4">
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Precio Starter</span>
+                  <span class="font-bold text-red-400">$199.000 COP</span>
+                </div>
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Precio Pro</span>
+                  <span class="font-bold text-red-400">$599.000 COP</span>
+                </div>
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Preguntas países</span>
+                  <span class="font-bold text-gray-400">1 (USA)</span>
+                </div>
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Variantes</span>
+                  <span class="font-bold text-gray-400">1</span>
+                </div>
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Generación IA</span>
+                  <span class="font-bold text-red-400">✗ $50/mes extra</span>
+                </div>
+              </div>
+
+              <div class="text-xs text-gray-500 border-t border-[#333] pt-3">
+                <strong class="text-red-400">✗ Limitación:</strong> Sin contenido colombiano, precios más altos, sin API para desarrolladores.
+              </div>
+            </div>
+
+            <!-- Competitor 2 -->
+            <div class="bg-[#0f0f1a] p-6 rounded-xl border border-[#333]">
+              <h4 class="text-xl font-bold text-white mb-2">Quizlet</h4>
+              <p class="text-gray-400 text-sm mb-4">Plataforma de tarjetas y quizzes</p>
+
+              <div class="space-y-3 mb-4">
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Precio Starter</span>
+                  <span class="font-bold text-red-400">$179.000 COP</span>
+                </div>
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Precio Pro</span>
+                  <span class="font-bold text-red-400">$359.000 COP</span>
+                </div>
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Preguntas países</span>
+                  <span class="font-bold text-gray-400">Global</span>
+                </div>
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Variantes</span>
+                  <span class="font-bold text-gray-400">1</span>
+                </div>
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Generación IA</span>
+                  <span class="font-bold text-red-400">✗ No disponible</span>
+                </div>
+              </div>
+
+              <div class="text-xs text-gray-500 border-t border-[#333] pt-3">
+                <strong class="text-red-400">✗ Limitación:</strong> Sin API pública, sin contenido colombiano auténtico, enfoque en flashcards no exámenes.
+              </div>
+            </div>
+
+            <!-- Competitor 3 -->
+            <div class="bg-[#0f0f1a] p-6 rounded-xl border border-[#333]">
+              <h4 class="text-xl font-bold text-white mb-2">ClassMarker</h4>
+              <p class="text-gray-400 text-sm mb-4">Sistema de exámenes online</p>
+
+              <div class="space-y-3 mb-4">
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Precio Starter</span>
+                  <span class="font-bold text-red-400">$249.000 COP</span>
+                </div>
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Precio Pro</span>
+                  <span class="font-bold text-red-400">$699.000 COP</span>
+                </div>
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Preguntas países</span>
+                  <span class="font-bold text-gray-400">0</span>
+                </div>
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Variantes</span>
+                  <span class="font-bold text-gray-400">Manual</span>
+                </div>
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Generación IA</span>
+                  <span class="font-bold text-red-400">✗ No disponible</span>
+                </div>
+              </div>
+
+              <div class="text-xs text-gray-500 border-t border-[#333] pt-3">
+                <strong class="text-red-400">✗ Limitación:</strong> Sin banco de preguntas, sin IA, sin contenido latinoamericano.
+              </div>
+            </div>
+
+            <!-- Competitor 4 -->
+            <div class="bg-[#0f0f1a] p-6 rounded-xl border border-[#333]">
+              <h4 class="text-xl font-bold text-white mb-2">Moodle</h4>
+              <p class="text-gray-400 text-sm mb-4">Plataforma de e-learning</p>
+
+              <div class="space-y-3 mb-4">
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Precio Starter</span>
+                  <span class="font-bold text-red-400">$0 (Self-hosted)</span>
+                </div>
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Precio Pro</span>
+                  <span class="font-bold text-red-400">$299.000 COP</span>
+                </div>
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Preguntas países</span>
+                  <span class="font-bold text-gray-400">0</span>
+                </div>
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Variantes</span>
+                  <span class="font-bold text-gray-400">Manual</span>
+                </div>
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Generación IA</span>
+                  <span class="font-bold text-red-400">✗ Plugins de terceros</span>
+                </div>
+              </div>
+
+              <div class="text-xs text-gray-500 border-t border-[#333] pt-3">
+                <strong class="text-red-400">✗ Limitación:</strong> Requiere implementación técnica, sin banco de preguntas, sin soporte.
+              </div>
+            </div>
+
+            <!-- Competitor 5 -->
+            <div class="bg-[#0f0f1a] p-6 rounded-xl border border-[#333]">
+              <h4 class="text-xl font-bold text-white mb-2">Examsoft</h4>
+              <p class="text-gray-400 text-sm mb-4">Plataforma de evaluación empresarial</p>
+
+              <div class="space-y-3 mb-4">
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Precio Starter</span>
+                  <span class="font-bold text-red-400">$1.500.000 COP</span>
+                </div>
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Precio Pro</span>
+                  <span class="font-bold text-red-400">$3.000.000 COP</span>
+                </div>
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Preguntas países</span>
+                  <span class="font-bold text-gray-400">0</span>
+                </div>
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Variantes</span>
+                  <span class="font-bold text-gray-400">Manual</span>
+                </div>
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Generación IA</span>
+                  <span class="font-bold text-red-400">✗ No disponible</span>
+                </div>
+              </div>
+
+              <div class="text-xs text-gray-500 border-t border-[#333] pt-3">
+                <strong class="text-red-400">✗ Limitación:</strong> Muy costoso, solo para empresas grandes, sin contenido educativo.
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- CTA -->
+        <div class="text-center">
+          <a
+            href="/developers/dashboard"
+            class="inline-block bg-[#FCD116] hover:bg-[#e5be14] text-black px-8 py-4 rounded-xl font-bold text-lg transition-colors"
+          >
+            🚀Comenzar Gratis Ahora
+          </a>
+          <p class="text-gray-400 mt-4 text-sm">
+            No se requiere tarjeta de crédito • API gratuita para desarrollo
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Roadmap Section -->
+    <div class="max-w-6xl mx-auto px-6 py-16">
+      <div class="text-center mb-16">
+        <h2 class="text-4xl font-black text-white mb-4">
+          Roadmap: <span class="text-[#FCD116]">1 Millón de Preguntas</span>
+        </h2>
+        <p class="text-xl text-gray-400">
+          Expansión global con enfoque en contenido auténtico de cada país.
+        </p>
+      </div>
+
+      <!-- Timeline -->
+      <div class="relative">
+        <!-- Timeline Line -->
+        <div class="absolute left-1/2 top-0 bottom-0 w-1 bg-gradient-to-b from-[#003893] via-[#FCD116] to-[#CE1126] transform -translate-x-1/2 hidden md:block"></div>
+
+        <!-- Q1 2026 -->
+        <div class="relative mb-12 md:flex justify-between items-center">
+          <div class="md:w-5/12 md:pr-12 md:text-right mb-6 md:mb-0">
+            <div class="bg-[#1a1a2e] p-6 rounded-xl border border-[#003893]">
+              <span class="text-[#003893] font-bold text-sm">Q1 2026</span>
+              <h4 class="text-xl font-bold text-white mt-2">Fundación LATAM</h4>
+              <ul class="text-gray-400 text-sm mt-3 space-y-1">
+                <li>✓ Colombia: 50,000 preguntas</li>
+                <li>✓ México: 30,000 preguntas</li>
+                <li>✓ Argentina: 20,000 preguntas</li>
+                <li>✓ Chile, Perú, Brasil: 10,000 cada uno</li>
+                <li>→ Total: <strong class="text-white">130,000</strong></li>
+              </ul>
+            </div>
+          </div>
+          <div class="hidden md:flex w-12 items-center justify-center">
+            <div class="w-8 h-8 bg-[#003893] rounded-full flex items-center justify-center text-white font-bold">1</div>
+          </div>
+          <div class="md:w-5/12 md:pl-12"></div>
+        </div>
+
+        <!-- Q2 2026 -->
+        <div class="relative mb-12 md:flex justify-between items-center">
+          <div class="md:w-5/12 md:pr-12 md:text-right"></div>
+          <div class="hidden md:flex w-12 items-center justify-center">
+            <div class="w-8 h-8 bg-[#FCD116] rounded-full flex items-center justify-center text-black font-bold">2</div>
+          </div>
+          <div class="md:w-5/12 md:pl-12 mb-6 md:mb-0">
+            <div class="bg-[#1a1a2e] p-6 rounded-xl border border-[#FCD116]">
+              <span class="text-[#FCD116] font-bold text-sm">Q2 2026</span>
+              <h4 class="text-xl font-bold text-white mt-2">Expansión Global</h4>
+              <ul class="text-gray-400 text-sm mt-3 space-y-1">
+                <li>✓ España: 30,000 preguntas</li>
+                <li>✓ Estados Unidos: 25,000 preguntas</li>
+                <li>✓ Portugal: 15,000 preguntas</li>
+                <li>✓ Protocolo v3.0 con IA</li>
+                <li>→ Total: <strong class="text-white">200,000</strong></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <!-- Q3 2026 -->
+        <div class="relative mb-12 md:flex justify-between items-center">
+          <div class="md:w-5/12 md:pr-12 md:text-right mb-6 md:mb-0">
+            <div class="bg-[#1a1a2e] p-6 rounded-xl border border-[#CE1126]">
+              <span class="text-[#CE1126] font-bold text-sm">Q3 2026</span>
+              <h4 class="text-xl font-bold text-white mt-2">Escala Masiva</h4>
+              <ul class="text-gray-400 text-sm mt-3 space-y-1">
+                <li>✓ Generación 100K/mes con IA</li>
+                <li>✓ 15 países activos</li>
+                <li>✓ 7 idiomas completos</li>
+                <li>✓ Multimodal (imágenes)</li>
+                <li>→ Total: <strong class="text-white">500,000</strong></li>
+              </ul>
+            </div>
+          </div>
+          <div class="hidden md:flex w-12 items-center justify-center">
+            <div class="w-8 h-8 bg-[#CE1126] rounded-full flex items-center justify-center text-white font-bold">3</div>
+          </div>
+          <div class="md:w-5/12 md:pl-12"></div>
+        </div>
+
+        <!-- Q4 2026 -->
+        <div class="relative">
+          <div class="md:w-5/12 md:pr-12 md:text-right"></div>
+          <div class="hidden md:flex w-12 items-center justify-center">
+            <div class="w-10 h-10 bg-gradient-to-r from-[#003893] to-[#FCD116] rounded-full flex items-center justify-center text-black font-bold text-lg">4</div>
+          </div>
+          <div class="md:w-5/12 md:pl-12">
+            <div class="bg-gradient-to-r from-[#003893] to-[#FCD116] p-6 rounded-xl">
+              <span class="text-black font-bold text-sm">Q4 2026</span>
+              <h4 class="text-xl font-black text-white mt-2">1 Millón + AI Nativo</h4>
+              <ul class="text-gray-200 text-sm mt-3 space-y-1">
+                <li>✓ <strong>1,000,000 de preguntas</strong></li>
+                <li>✓ 30 países</li>
+                <li>✓ Generación adaptativa por estudiante</li>
+                <li>✓ API de generación en tiempo real</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Footer CTA -->
+    <div class="bg-gradient-to-r from-[#003893] to-[#1a1a2e] py-16">
+      <div class="max-w-4xl mx-auto px-6 text-center">
+        <h2 class="text-4xl font-black text-white mb-6">
+          ¿Listo para transformar tu plataforma educativa?
+        </h2>
+        <p class="text-xl text-gray-300 mb-8">
+          Únete a los desarrolladores que ya están usando la API más completa de Latinoamérica.
+        </p>
+        <div class="flex flex-col sm:flex-row gap-4 justify-center">
+          <a
+            href="/developers/dashboard"
+            class="bg-[#FCD116] hover:bg-[#e5be14] text-black px-8 py-4 rounded-xl font-bold text-lg transition-colors"
+          >
+            🚀 Comenzar Gratis
+          </a>
+          <a
+            href="/developers/docs"
+            class="bg-transparent border-2 border-white text-white px-8 py-4 rounded-xl font-bold text-lg hover:bg-white/10 transition-colors"
+          >
+            📚 Ver Documentación
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</Layout>

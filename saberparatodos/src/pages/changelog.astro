@@ -12,6 +12,19 @@ const description = "Registro ordenado de versiones, cambios y actualizaciones d
 // Definición estática del historial de versiones principal
 const releases = [
   {
+    version: "v0.3.1",
+    date: "2026-03-09",
+    status: "Mejora Continua",
+    statusColor: "bg-emerald-500/20 text-emerald-400 border-emerald-500/20",
+    summary: "Refinamiento de Inglés y comunidad interactiva.",
+    changes: [
+      { type: "Mejora", text: "Filtrado avanzado de preguntas de Inglés basado en niveles CEFR." },
+      { type: "Nuevo", text: "Sistema de comentarios tipo foro con respuestas (hilos) en novedades." },
+      { type: "Fix", text: "Corrección de errores de tipado y linting en el motor de selección." }
+    ],
+    postSlug: "2026-03-09-filtrado-ingles-y-comentarios"
+  },
+  {
     version: "v0.3.0",
     date: "2026-03-06",
     status: "Beta Abierta",

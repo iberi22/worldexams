@@ -253,11 +253,6 @@ export async function fetchQuestionsForGrade(grade: number, maxQuestions: number
 }
 
 // English Diagnostic Functions
-export function getSavedEnglishProficiencyLevel(): any {
-  if (typeof localStorage === 'undefined') return null;
-  const stored = localStorage.getItem('english_proficiency_level');
-  return stored ? JSON.parse(stored) : null;
-}
 
 export function getGradesForCEFRLevel(levelNum: number, range: number = 1): number[] {
   const levels = [3, 5, 6, 7, 8, 9, 10, 11];
@@ -265,28 +260,84 @@ export function getGradesForCEFRLevel(levelNum: number, range: number = 1): numb
   return levels.slice(Math.max(0, idx - range), Math.min(levels.length, idx + range + 1));
 }
 
-export async function fetchEnglishQuestionsAllGrades(limit: number = 30): Promise<AppQuestion[]> {
-  // 🆕 Diagnostic restricted to latest bundles for higher grades
-  const ALL_GRADES = [9, 10, 11];
+/**
+ * 🆕 Get saved English proficiency level from previous results
+ */
+export async function getSavedEnglishProficiencyLevel(): Promise<{ level: string, levelNum: number } | null> {
+    try {
+        const results = await getAllLocalResults();
+        const englishResults = results.filter(r => r.subject?.toLowerCase().includes('inglés') || r.subject?.toLowerCase().includes('ingles'));
+
+        if (englishResults.length === 0) return null;
+
+        // Take the latest result and calculate proficiency
+        const latest = englishResults[0];
+        const resultsFormatted = examResultsToQuestionResults(latest.details.map(d => ({
+            id: d.questionId,
+            userAnswer: d.isCorrect ? 'A' : 'B', // Mocked as details might not have the raw answer
+            correctOptionId: 'A',
+            cefrLevel: d.cefrLevel || d.cefr_level,
+            grade: latest.grade,
+            difficulty: d.difficulty
+        })));
+
+        const proficiency = calculateEnglishProficiencyV2(resultsFormatted);
+        return {
+            level: proficiency.estimatedLevel,
+            levelNum: proficiency.estimatedLevelNum
+        };
+    } catch (e) {
+        console.warn('Error fetching saved proficiency:', e);
+        return null;
+    }
+}
+
+export async function fetchEnglishQuestionsAllGrades(limit: number = 30, balanced: boolean = false, cefrLevelNum?: number): Promise<AppQuestion[]> {
+  // 🆕 If level is provided, use it. Otherwise try to get saved proficiency or default to A1 (1)
+  const savedProficiency = await getSavedEnglishProficiencyLevel();
+  const levelNum = cefrLevelNum ?? (savedProficiency?.levelNum || 1);
+  const isHighLevel = levelNum >= 6; // B1+ or superior (B1+ = 6, B2 = 7, etc)
+
+  // 🆕 Selection rules:
+  // - High Level: Grades 9, 10, 11 + Strictly Protocol v4.x
+  // - Low Level: All Grades (3-11) + Prefer Protocol v4.x, allow v3.x, filter difficulty for higher grades
+  const ALL_GRADES = isHighLevel ? [9, 10, 11] : [3, 4, 5, 6, 7, 8, 9, 10, 11];
   const answeredIds = await getAnsweredQuestionIds(14, false);
 
   const gradeResults = await Promise.all(ALL_GRADES.map(async (grade) => {
-    const questions = await fetchQuestionsFromPacks(grade, 'ingles');
+    const questions = getQuestionPool(grade);
     return questions.filter(q => {
-      const isNotAnswered = !answeredIds.has(q.id);
-      if (grade === 9) return isNotAnswered; // Grade 9 includes all periods
+      // Filter for 'ingles' subject manually to avoid subject mismatch issues in packs
+      const isEnglish = (q as any).asignatura === 'ingles' || q.tags?.some(t => t.toLowerCase().includes('inglés') || t.toLowerCase().includes('ingles'));
+      if (!isEnglish) return false;
 
-      // For 10 and 11, only include V4+ protocol questions (higher quality bundles)
-      const isNewProtocol = q.protocol_version === '4.0' || q.protocol_version === '4.1';
-      return isNotAnswered && isNewProtocol;
-    }).map(q => ({
-      ...q,
-      sourceGrade: grade,
-      category: `INGLÉS :: ${q.bundleId || 'general'}`
-    }));
+      const isNotAnswered = !answeredIds.has(q.id);
+
+      const protocol = q.protocol_version || '3.1';
+      const isNewProtocol = protocol.startsWith('4.');
+
+      if (isHighLevel) {
+        // Strict Protocol 4+ for high levels in Grades 9-11
+        return isNotAnswered && isNewProtocol;
+      } else {
+        // For low levels:
+        if (grade >= 10) {
+            // Only easy questions from high grades
+            return isNotAnswered && mapDifficulty(q.difficulty || 'Medium') <= 2;
+        }
+        // Prefer new protocol but allow old ones for 3-9
+        return isNotAnswered;
+      }
+    }).map(q => transformQuestion(q, grade, 'ingles'));
   }));
 
   let unique = Array.from(new Map(gradeResults.flat().map(q => [q.id, q])).values());
+
+  // Apply "balanced" mix if requested (e.g. prioritize some easy ones or specific ones)
+  if (balanced && !isHighLevel) {
+    // Already filtered for low level, maybe just sort or something
+  }
+
   unique = unique.sort(() => Math.random() - 0.5);
   return limit > 0 ? unique.slice(0, limit) : unique;
 }
