@@ -7,7 +7,7 @@ import type { CountryConfig } from '../types';
 export const coConfig: CountryConfig = {
   code: 'CO',
   name: 'Colombia',
-  domain: 'worldexams.github.io/saber-co',
+  domain: 'saberparatodos.space',
   language: 'es-CO',
   currency: 'COP',
 

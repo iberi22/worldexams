@@ -1,0 +1,60 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+const title = 'Preguntas ICFES Gratis por Áreas | SaberParaTodos';
+const description = 'Practica preguntas ICFES de lectura crítica, matemáticas, ciencias, sociales e inglés. Entrena gratis por áreas y mejora tu preparación.';
+---
+
+<Layout title={title} description={description} keywords="preguntas icfes gratis, banco de preguntas icfes, preguntas saber 11">
+  <section class="wrapper">
+    <div class="container">
+      <p class="eyebrow">Banco de preguntas</p>
+      <h1>Preguntas ICFES gratis para practicar por áreas</h1>
+      <p class="lead">
+        Esta página reúne la intención de quienes buscan <strong>preguntas ICFES</strong>,
+        <strong>banco de preguntas</strong> y práctica gratuita para Saber 11 en Colombia.
+      </p>
+
+      <div class="cards">
+        <article>
+          <h2>Lectura crítica</h2>
+          <p>Fortalece comprensión, inferencia, estructura textual y análisis de argumentos.</p>
+        </article>
+        <article>
+          <h2>Matemáticas</h2>
+          <p>Practica resolución de problemas, álgebra, funciones, gráficos y razonamiento cuantitativo.</p>
+        </article>
+        <article>
+          <h2>Ciencias naturales</h2>
+          <p>Entrena interpretación de fenómenos, análisis experimental y aplicación de conceptos.</p>
+        </article>
+        <article>
+          <h2>Sociales e inglés</h2>
+          <p>Refuerza competencias ciudadanas, análisis social y lectura en inglés con ejercicios guiados.</p>
+        </article>
+      </div>
+
+      <div class="cta-row">
+        <a href="/practica" class="btn btn-primary">Ir a la práctica</a>
+        <a href="/simulacro-icfes" class="btn btn-secondary">Ver simulacro ICFES</a>
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .wrapper { padding: 4rem 1rem; }
+  .container { max-width: 1000px; margin: 0 auto; }
+  .eyebrow { color: #fcd116; text-transform: uppercase; letter-spacing: 0.12em; font: 0.75rem 'Fira Code', monospace; }
+  h1, h2 { color: #f5f5dc; }
+  h1 { font-size: clamp(2.25rem, 5vw, 4rem); margin: 1rem 0; max-width: 12ch; }
+  p { color: rgba(245, 245, 220, 0.78); line-height: 1.7; }
+  .lead { max-width: 60ch; }
+  .cards { display: grid; gap: 1rem; margin: 2rem 0; }
+  .cards article { padding: 1.5rem; border-radius: 1.25rem; background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.1); }
+  .cta-row { display: flex; flex-wrap: wrap; gap: 1rem; }
+  .btn { display: inline-flex; align-items: center; justify-content: center; padding: 0.9rem 1.25rem; border-radius: 999px; text-decoration: none; font-weight: 700; }
+  .btn-primary { background: linear-gradient(135deg, #fcd116, #ffe06a); color: #111827; }
+  .btn-secondary { border: 1px solid rgba(255,255,255,0.18); color: #f5f5dc; }
+  @media (min-width: 900px) { .cards { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+</style>

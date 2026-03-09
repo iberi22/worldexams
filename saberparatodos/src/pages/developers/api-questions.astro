@@ -47,6 +47,28 @@ import Layout from '../../layouts/Layout.astro';
       </div>
     </div>
 
+    <!-- Quick CTA -->
+    <div class="bg-gradient-to-r from-[#003893] to-[#1a1a2e] py-12">
+      <div class="max-w-6xl mx-auto px-6 text-center">
+        <h2 class="text-3xl font-black text-white mb-4">🎯 ¿Listo para empezar?</h2>
+        <p class="text-xl text-gray-300 mb-8">Comienza gratis con 100 preguntas/hora. Sin tarjeta de crédito.</p>
+        <div class="flex flex-col sm:flex-row gap-4 justify-center">
+          <a
+            href="/developers/dashboard"
+            class="bg-[#FCD116] hover:bg-[#e5be14] text-black px-8 py-4 rounded-xl font-bold text-lg transition-colors"
+          >
+            🚀 Crear Cuenta Gratis
+          </a>
+          <a
+            href="/developers/docs"
+            class="bg-transparent border-2 border-white text-white px-8 py-4 rounded-xl font-bold text-lg hover:bg-white/10 transition-colors"
+          >
+            📚 Ver Documentación
+          </a>
+        </div>
+      </div>
+    </div>
+
     <!-- Protocol Section -->
     <div class="max-w-6xl mx-auto px-6 py-16">
       <div class="text-center mb-16">
@@ -146,6 +168,151 @@ import Layout from '../../layouts/Layout.astro';
                 <span>Validación automática con LLMs</span>
               </li>
             </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- Protocol Rigor Section -->
+      <div class="bg-[#0f0f1a] py-16">
+        <div class="max-w-6xl mx-auto px-6">
+          <div class="text-center mb-16">
+            <h2 class="text-4xl font-black text-white mb-4">
+              🔬 Rigor del <span class="text-[#FCD116]">Protocolo de Generación</span>
+            </h2>
+            <p class="text-xl text-gray-400 max-w-2xl mx-auto">
+              Cada pregunta pasa por un proceso de validación de 5 etapas para garantizar
+              la máxima calidad educativa.
+            </p>
+          </div>
+
+          <!-- The 5 Stages -->
+          <div class="grid md:grid-cols-5 gap-4 mb-12">
+            <!-- Stage 1 -->
+            <div class="bg-[#1a1a2e] p-6 rounded-xl border border-[#333] text-center">
+              <div class="w-12 h-12 bg-[#003893] rounded-full flex items-center justify-center mx-auto mb-4 text-xl font-bold">1</div>
+              <h4 class="font-bold text-white mb-2">Investigación</h4>
+              <p class="text-gray-400 text-xs">Búsqueda en fuentes oficiales: ICFES, EXANI, ENEM, bancos de preguntas universitarios</p>
+            </div>
+
+            <!-- Stage 2 -->
+            <div class="bg-[#1a1a2e] p-6 rounded-xl border border-[#333] text-center">
+              <div class="w-12 h-12 bg-[#CE1126] rounded-full flex items-center justify-center mx-auto mb-4 text-xl font-bold">2</div>
+              <h4 class="font-bold text-white mb-2">Adaptación</h4>
+              <p class="text-gray-400 text-xs">Contextualización cultural local: moneda, ciudades, personajes, situaciones reales del país</p>
+            </div>
+
+            <!-- Stage 3 -->
+            <div class="bg-[#1a1a2e] p-6 rounded-xl border border-[#333] text-center">
+              <div class="w-12 h-12 bg-[#FCD116] text-black rounded-full flex items-center justify-center mx-auto mb-4 text-xl font-bold">3</div>
+              <h4 class="font-bold text-white mb-2">Validación IA</h4>
+              <p class="text-gray-400 text-xs">Verificación automática: gramática, coherencia, dificultad, distractores válidos</p>
+            </div>
+
+            <!-- Stage 4 -->
+            <div class="bg-[#1a1a2e] p-6 rounded-xl border border-[#333] text-center">
+              <div class="w-12 h-12 bg-green-600 rounded-full flex items-center justify-center mx-auto mb-4 text-xl font-bold">4</div>
+              <h4 class="font-bold text-white mb-2">Revisión Humana</h4>
+              <p class="text-gray-400 text-xs">Pedagogos validan: precisión académica, pedagogía, apropiado para la edad</p>
+            </div>
+
+            <!-- Stage 5 -->
+            <div class="bg-[#1a1a2e] p-6 rounded-xl border border-[#333] text-center">
+              <div class="w-12 h-12 bg-purple-600 rounded-full flex items-center justify-center mx-auto mb-4 text-xl font-bold">5</div>
+              <h4 class="font-bold text-white mb-2">Estadísticas</h4>
+              <p class="text-gray-400 text-xs">Métricas en producción: tasa de acierto, tiempo de respuesta, retroalimentación</p>
+            </div>
+          </div>
+
+          <!-- Quality Metrics -->
+          <div class="bg-[#1a1a2e] rounded-2xl border border-[#333] p-8">
+            <h3 class="text-2xl font-bold text-white mb-6 flex items-center gap-3">
+              <span class="text-3xl">📐</span> Estándares de Calidad por Pregunta
+            </h3>
+
+            <div class="grid md:grid-cols-2 gap-8">
+              <div>
+                <h4 class="font-bold text-[#FCD116] mb-4">Estructura Obligatoria</h4>
+                <ul class="space-y-3 text-gray-300">
+                  <li class="flex items-start gap-3">
+                    <span class="text-green-500 text-xl">✓</span>
+                    <div>
+                      <strong class="text-white">Enunciado claro</strong>
+                      <p class="text-sm text-gray-500">Sin ambigüedades, una sola interpretación posible</p>
+                    </div>
+                  </li>
+                  <li class="flex items-start gap-3">
+                    <span class="text-green-500 text-xl">✓</span>
+                    <div>
+                      <strong class="text-white">4 opciones (A-D)</strong>
+                      <p class="text-sm text-gray-500">1 correcta, 3 distractores con lógica</p>
+                    </div>
+                  </li>
+                  <li class="flex items-start gap-3">
+                    <span class="text-green-500 text-xl">✓</span>
+                    <div>
+                      <strong class="text-white">Explicación pedagógica</strong>
+                      <p class="text-sm text-gray-500">Por qué la respuesta es correcta y por qué las otras no</p>
+                    </div>
+                  </li>
+                  <li class="flex items-start gap-3">
+                    <span class="text-green-500 text-xl">✓</span>
+                    <div>
+                      <strong class="text-white">Competencia evaluada</strong>
+                      <p class="text-sm text-gray-500">Etiqueta con estándar curricular específico</p>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+
+              <div>
+                <h4 class="font-bold text-[#FCD116] mb-4">Distractores de Calidad</h4>
+                <ul class="space-y-3 text-gray-300">
+                  <li class="flex items-start gap-3">
+                    <span class="text-green-500 text-xl">✓</span>
+                    <div>
+                      <strong class="text-white">Errores comunes reales</strong>
+                      <p class="text-sm text-gray-500">Basados en errores típicos de estudiantes</p>
+                    </div>
+                  </li>
+                  <li class="flex items-start gap-3">
+                    <span class="text-green-500 text-xl">✓</span>
+                    <div>
+                      <strong class="text-white">Plausibles pero incorrectos</strong>
+                      <p class="text-sm text-gray-500">No obviously wrong, requieren análisis</p>
+                    </div>
+                  </li>
+                  <li class="flex items-start gap-3">
+                    <span class="text-green-500 text-xl">✓</span>
+                    <div>
+                      <strong class="text-white">Variados en dificultad</strong>
+                      <p class="text-sm text-gray-500">NO distractores que son "todos igual de malos"</p>
+                    </div>
+                  </li>
+                  <li class="flex items-start gap-3">
+                    <span class="text-green-500 text-xl">✓</span>
+                    <div>
+                      <strong class="text-white">Independientes entre sí</strong>
+                      <p class="text-sm text-gray-500">Ninguna opción es subclase de otra</p>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+            <!-- Example -->
+            <div class="mt-8 p-6 bg-[#0f0f1a] rounded-xl border border-green-500/30">
+              <h4 class="font-bold text-green-400 mb-3">📝 Ejemplo de Pregunta de Calidad (Protocolo v2.1)</h4>
+              <div class="font-mono text-sm text-gray-300 bg-black/50 p-4 rounded-lg overflow-x-auto">
+                <p class="text-[#FCD116] mb-2">// ID: CO-MAT-11-algebra-001-v1</p>
+                <p class="mb-2"><strong>Enunciado:</strong> En una librería de Bogotá, un cuaderno cuesta $x. Si pagas $25,000 COP y recibes $7,000 de cambio, ¿cuánto cuesta el cuaderno?</p>
+                <p class="mb-2"><strong>Opciones:</strong></p>
+                <p class="ml-4 text-green-400">A) $18,000 COP ← Correcta</p>
+                <p class="ml-4 text-red-400">B) $32,000 COP ← Error: sumar en lugar de restar</p>
+                <p class="ml-4 text-red-400">C) $7,000 COP ← Error: confundir cambio con precio</p>
+                <p class="ml-4 text-red-400">D) $25,000 COP ← Error: ignorar el cambio</p>
+                <p class="mt-2"><strong>Competencia:</strong> Razonamiento cuantitativo - Sistemas algebraicos</p>
+              </div>
+            </div>
           </div>
         </div>
       </div>

@@ -17,4 +17,4 @@ vars = { PUBLIC_API_BASE_URL = "https://worldexams.pages.dev/api/v1", PUBLIC_SIT
 
 # Preview/staging environment
 [env.preview]
-vars = { PUBLIC_API_BASE_URL = "https://worldexams.pages.dev/api/v1" }
+vars = { PUBLIC_API_BASE_URL = "https://worldexams.pages.dev/api/v1", PUBLIC_SITE_URL = "https://saberparatodos.space" }

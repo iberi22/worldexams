@@ -21,6 +21,5 @@ Disallow: /
 User-agent: *
 Allow: /
 
-# Sitemap (primary + fallback)
+# Sitemap
 Sitemap: https://saberparatodos.space/sitemap-index.xml
-Sitemap: https://saberparatodos.pages.dev/sitemap-index.xml

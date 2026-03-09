@@ -96,7 +96,7 @@
           <p>Las funcionalidades de IA y el seguimiento de progreso requieren una cuenta.</p>
         </div>
       </div>
-      <button class="auth-button" on:click={() => window.location.href = '/'}>
+      <button class="auth-button" on:click={() => window.location.href = '/practica'}>
         Volver al inicio
       </button>
     </div>

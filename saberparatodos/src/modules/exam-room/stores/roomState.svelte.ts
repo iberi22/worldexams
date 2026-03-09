@@ -573,7 +573,7 @@ class RoomState {
         if (this.currentPlayer && this.currentPlayer.id === message.playerId) {
             alert('Has sido expulsado de la sala por el anfitrión.');
             this.leaveRoom();
-            window.location.href = '/';
+            window.location.href = '/practica';
         } else {
             this.players = this.players.filter((p) => p.id !== message.playerId);
         }

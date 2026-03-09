@@ -33,10 +33,38 @@ const {
   showFooter = true
 } = Astro.props;
 
-const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const siteUrl = Astro.site ? Astro.site.toString().replace(/\/$/, '') : 'https://saberparatodos.space';
+const canonicalURL = new URL(Astro.url.pathname, `${siteUrl}/`);
 const ogImageURL = new URL(image, canonicalURL);
 const ogLocale = (countryConfig.language || 'es-CO').replace('-', '_');
 const enableAuxClientWidgets = true; // Enabled in all environments for better UX/testing
+const organizationSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: 'SaberParaTodos',
+  url: siteUrl,
+  logo: `${siteUrl}/logo.png`,
+  email: 'mailto:contacto@saberparatodos.space',
+  contactPoint: {
+    '@type': 'ContactPoint',
+    contactType: 'customer support',
+    email: 'contacto@saberparatodos.space',
+    availableLanguage: ['es-CO']
+  },
+  sameAs: ['https://github.com/world-exams']
+};
+const websiteSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'SaberParaTodos',
+  url: siteUrl,
+  inLanguage: countryConfig.language || 'es-CO',
+  publisher: {
+    '@type': 'Organization',
+    name: 'SaberParaTodos',
+    url: siteUrl
+  }
+};
 ---
 
 <!doctype html>
@@ -103,9 +131,10 @@ const enableAuxClientWidgets = true; // Enabled in all environments for better U
 		<meta name="description" content={description} />
     <meta name="keywords" content={keywords} />
     <link rel="canonical" href={canonicalURL} />
+    <link rel="alternate" hreflang="es-CO" href={canonicalURL} />
     {noindex
       ? <meta name="robots" content="noindex, nofollow" />
-      : <meta name="robots" content="index, follow, max-image-preview:large" />}
+      : <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />}
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content={type} />
@@ -126,7 +155,6 @@ const enableAuxClientWidgets = true; // Enabled in all environments for better U
     <!-- DNS Prefetch para recursos externos -->
     <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
     <link rel="dns-prefetch" href="https://fonts.gstatic.com" />
-    <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
 
     <!-- Preconnect para fuentes (crítico para LCP) -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -143,10 +171,6 @@ const enableAuxClientWidgets = true; // Enabled in all environments for better U
       <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
     </noscript>
 
-    <!-- Google AdSense -->
-    <meta name="google-adsense-account" content="ca-pub-7015371704987876" />
-    <script is:inline async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7015371704987876" crossorigin="anonymous"></script>
-
     <script is:inline>
       // Detectar cuando las fuentes están listas (reduce CLS)
       if ('fonts' in document) {
@@ -159,6 +183,10 @@ const enableAuxClientWidgets = true; // Enabled in all environments for better U
         document.documentElement.classList.remove('fonts-loading');
       }
     </script>
+
+    <script is:inline type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
+    <script is:inline type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
+    <slot name="head" />
 	</head>
 	<body class="min-h-screen flex flex-col">
     <!-- Noise Filter SVG Definition -->

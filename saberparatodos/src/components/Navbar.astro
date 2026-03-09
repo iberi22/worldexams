@@ -14,10 +14,11 @@ import packageInfo from '../../package.json';
 const version = packageInfo.version;
 
 const navLinks = [
-  { href: '/', label: 'Practicar', icon: 'practice' },
+  { href: '/', label: 'Inicio', icon: 'home' },
+  { href: '/practica', label: 'Practicar', icon: 'practice' },
   { href: '/simulacro-icfes', label: 'Simulacro', icon: 'target' },
   { href: '/preparacion', label: 'Preparación', icon: 'guide' },
-  { href: '/guia-examen', label: 'Guía 2025', icon: 'structure' },
+  { href: '/guia-examen', label: 'Guía 2026', icon: 'structure' },
   { href: '/resultados-2025', label: 'Resultados', icon: 'stats' },
   { href: '/novedades', label: 'Novedades', icon: 'news' },
   { href: '/instituciones', label: 'Instituciones', icon: 'building' },
@@ -62,7 +63,7 @@ const isActive = (href: string) => {
 
     <!-- CTA Button -->
     <div class="nav-cta desktop-only">
-      <a href="/" class="cta-button">
+      <a href="/practica" class="cta-button">
         Comenzar →
       </a>
     </div>
@@ -106,7 +107,7 @@ const isActive = (href: string) => {
           </a>
         ))}
 
-        <a href="/" class="mobile-cta-button">
+        <a href="/practica" class="mobile-cta-button">
           Comenzar Práctica →
         </a>
       </div>
