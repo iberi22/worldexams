@@ -202,6 +202,114 @@ import Layout from '../../layouts/Layout.astro';
           </p>
         </div>
 
+        <!-- Cost Analysis Section -->
+        <div class="bg-[#1a1a2e] rounded-2xl border border-[#333] p-8 mb-12">
+          <h3 class="text-2xl font-bold text-white mb-6 flex items-center gap-3">
+            <span class="text-3xl">💰</span> Análisis de Costos y Rentabilidad
+          </h3>
+
+          <div class="grid md:grid-cols-2 gap-8">
+            <!-- Costos de Generación por IA -->
+            <div class="bg-[#0f0f1a] p-6 rounded-xl border border-[#333]">
+              <h4 class="text-lg font-bold text-white mb-4">🤖 Costo de Generar Preguntas con IA</h4>
+              <div class="space-y-3 text-sm">
+                <div class="flex justify-between items-center py-2 border-b border-[#333]">
+                  <span class="text-gray-400">OpenAI GPT-4o (por pregunta)</span>
+                  <span class="font-bold text-red-400">~$0.01 USD</span>
+                </div>
+                <div class="flex justify-between items-center py-2 border-b border-[#333]">
+                  <span class="text-gray-400">Claude Sonnet 4 (por pregunta)</span>
+                  <span class="font-bold text-red-400">~$0.015 USD</span>
+                </div>
+                <div class="flex justify-between items-center py-2 border-b border-[#333]">
+                  <span class="text-gray-400">Generar 10K preguntas (manual)</span>
+                  <span class="font-bold text-red-400">~$100-500 USD</span>
+                </div>
+                <div class="bg-[#CE1126]/20 p-3 rounded-lg mt-4">
+                  <p class="text-white font-bold text-sm">
+                    ⚠️ <strong>Nuestro diferencial:</strong> Con nuestro banco ya generado,
+                    el costo marginal por pregunta es <span class="text-green-400">casi $0</span>
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Costos de Pasarela -->
+            <div class="bg-[#0f0f1a] p-6 rounded-xl border border-[#333]">
+              <h4 class="text-lg font-bold text-white mb-4">💳 Comisiones de Pasarela (Colombia)</h4>
+              <div class="space-y-3 text-sm">
+                <div class="flex justify-between items-center py-2 border-b border-[#333]">
+                  <span class="text-gray-400">Wompi (BBVA)</span>
+                  <span class="font-bold text-yellow-400">2.9% + $100 COP</span>
+                </div>
+                <div class="flex justify-between items-center py-2 border-b border-[#333]">
+                  <span class="text-gray-400">MercadoPago</span>
+                  <span class="font-bold text-yellow-400">4.99% + $500 COP</span>
+                </div>
+                <div class="flex justify-between items-center py-2 border-b border-[#333]">
+                  <span class="text-gray-400">PayU</span>
+                  <span class="font-bold text-yellow-400">3.5% + $200 COP</span>
+                </div>
+                <div class="flex justify-between items-center py-2 border-b border-[#333]">
+                  <span class="text-gray-400">Stripe (USD)</span>
+                  <span class="font-bold text-yellow-400">2.9% + $0.30 USD</span>
+                </div>
+                <div class="bg-[#003893]/20 p-3 rounded-lg mt-4">
+                  <p class="text-white font-bold text-sm">
+                    📌 <strong>Selected:</strong> Wompi - Mejor tasa para Colombia,
+                    integrado con bancos locales
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Rentabilidad por Plan -->
+          <div class="mt-8">
+            <h4 class="text-lg font-bold text-white mb-4">📊 Margen de Ganancia por Plan (con Wompi 3%)</h4>
+            <div class="overflow-x-auto">
+              <table class="w-full text-sm">
+                <thead>
+                  <tr class="border-b border-[#333]">
+                    <th class="text-left py-3 px-4 text-gray-400">Plan</th>
+                    <th class="text-right py-3 px-4 text-gray-400">Ingreso</th>
+                    <th class="text-right py-3 px-4 text-gray-400">-Pasarela (3%)</th>
+                    <th class="text-right py-3 px-4 text-gray-400">-Costos Variables</th>
+                    <th class="text-right py-3 px-4 text-gray-400">=Margen</th>
+                    <th class="text-right py-3 px-4 text-gray-400">% Margen</th>
+                  </tr>
+                </thead>
+                <tbody class="text-gray-300">
+                  <tr class="border-b border-[#333]">
+                    <td class="py-3 px-4">Starter ($79.000)</td>
+                    <td class="text-right py-3 px-4">$79.000</td>
+                    <td class="text-right py-3 px-4 text-red-400">-$2.370</td>
+                    <td class="text-right py-3 px-4 text-red-400">~$500</td>
+                    <td class="text-right py-3 px-4 font-bold text-green-400">$76.130</td>
+                    <td class="text-right py-3 px-4 font-bold text-green-400">96%</td>
+                  </tr>
+                  <tr class="border-b border-[#333]">
+                    <td class="py-3 px-4">Pro ($199.000)</td>
+                    <td class="text-right py-3 px-4">$199.000</td>
+                    <td class="text-right py-3 px-4 text-red-400">-$5.970</td>
+                    <td class="text-right py-3 px-4 text-red-400">~$2.000</td>
+                    <td class="text-right py-3 px-4 font-bold text-green-400">$191.030</td>
+                    <td class="text-right py-3 px-4 font-bold text-green-400">96%</td>
+                  </tr>
+                  <tr>
+                    <td class="py-3 px-4">Enterprise ($499.000)</td>
+                    <td class="text-right py-3 px-4">$499.000</td>
+                    <td class="text-right py-3 px-4 text-red-400">-$14.970</td>
+                    <td class="text-right py-3 px-4 text-red-400">~$5.000</td>
+                    <td class="text-right py-3 px-4 font-bold text-green-400">$479.030</td>
+                    <td class="text-right py-3 px-4 font-bold text-green-400">96%</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+
         <!-- Pricing Comparison Table -->
         <div class="overflow-x-auto mb-16">
           <table class="w-full min-w-[800px]">
@@ -212,13 +320,13 @@ import Layout from '../../layouts/Layout.astro';
                   🆓 Free<br><span class="text-sm font-normal text-gray-400">Desarrollo</span>
                 </th>
                 <th class="text-center py-4 px-6 bg-[#003893]/20 border-2 border-[#003893] rounded-t-xl text-white font-bold text-xl">
-                  🚀 Starter<br><span class="text-sm font-normal text-gray-400">$149.000/mes</span>
+                  🚀 Starter<br><span class="text-sm font-normal text-gray-400">$79.000/mes</span>
                 </th>
                 <th class="text-center py-4 px-6 text-[#CE1126] font-bold text-xl">
-                  ⚡ Pro<br><span class="text-sm font-normal text-gray-400">$449.000/mes</span>
+                  ⚡ Pro<br><span class="text-sm font-normal text-gray-400">$199.000/mes</span>
                 </th>
                 <th class="text-center py-4 px-6 text-[#FCD116] font-bold text-xl">
-                  👑 Enterprise<br><span class="text-sm font-normal text-gray-400">Custom</span>
+                  👑 Enterprise<br><span class="text-sm font-normal text-gray-400">$499.000/mes</span>
                 </th>
               </tr>
             </thead>
@@ -226,9 +334,9 @@ import Layout from '../../layouts/Layout.astro';
               <tr class="border-b border-[#333]">
                 <td class="py-4 px-6">Requests/mes</td>
                 <td class="text-center py-4 px-6">100/hora</td>
-                <td class="text-center py-4 px-6 bg-[#003893]/10 font-bold">10,000</td>
-                <td class="text-center py-4 px-6">50,000</td>
-                <td class="text-center py-4 px-6">Ilimitado</td>
+                <td class="text-center py-4 px-6 bg-[#003893]/10 font-bold">5,000</td>
+                <td class="text-center py-4 px-6">25,000</td>
+                <td class="text-center py-4 px-6">100,000</td>
               </tr>
               <tr class="border-b border-[#333]">
                 <td class="py-4 px-6">Países disponibles</td>
@@ -286,8 +394,33 @@ import Layout from '../../layouts/Layout.astro';
         <!-- Competitor Comparison -->
         <div class="bg-[#1a1a2e] rounded-2xl border border-[#333] p-8 mb-12">
           <h3 class="text-2xl font-bold text-white mb-8 flex items-center gap-3">
-            <span class="text-3xl">📊</span> Comparación con Competidores
+            <span class="text-3xl">📊</span> Comparación de Precios
           </h3>
+
+          <!-- ROI Calculator -->
+          <div class="bg-gradient-to-r from-green-900/30 to-[#003893]/30 p-6 rounded-xl border border-green-500/30 mb-8">
+            <h4 class="text-xl font-bold text-white mb-4 flex items-center gap-2">
+              <span class="text-2xl">🧮</span> Calculadora de Ahorro
+            </h4>
+            <div class="grid md:grid-cols-3 gap-6">
+              <div class="text-center">
+                <div class="text-3xl font-black text-red-400 line-through">$40.000</div>
+                <div class="text-gray-400 text-sm">Costo de generar 1K preguntas con ChatGPT</div>
+              </div>
+              <div class="text-center">
+                <div class="text-3xl font-black text-white">$16</div>
+                <div class="text-gray-400 text-sm">Costo con nuestra API</div>
+              </div>
+              <div class="text-center">
+                <div class="text-4xl font-black text-green-400">99.96%</div>
+                <div class="text-gray-400 text-sm">Ahorro vs generar con IA</div>
+              </div>
+            </div>
+            <p class="text-center text-gray-300 mt-4 text-sm">
+              <strong>Nota:</strong> Generar 1,000 preguntas con IA costing ~$10 USD (~$40,000 COP),
+              incluyendo revisión humana. Nuestra API sirve preguntas pre-generadas a costo marginal ~$0.
+            </p>
+          </div>
 
           <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
             <!-- WorldExams (Our Product) -->
@@ -296,24 +429,24 @@ import Layout from '../../layouts/Layout.astro';
                 NUESTRO PRODUCTO
               </div>
               <h4 class="text-2xl font-black text-white mb-2">WorldExams API</h4>
-              <p class="text-gray-300 mb-4">El más completo para LATAM</p>
+              <p class="text-gray-300 mb-4">El más económico para LATAM</p>
 
               <div class="space-y-3 mb-6">
                 <div class="flex justify-between text-sm">
                   <span class="text-gray-400">Precio Starter</span>
-                  <span class="font-bold text-green-400">$149.000 COP</span>
+                  <span class="font-bold text-green-400">$79.000 COP</span>
                 </div>
                 <div class="flex justify-between text-sm">
                   <span class="text-gray-400">Precio Pro</span>
-                  <span class="font-bold text-green-400">$449.000 COP</span>
+                  <span class="font-bold text-green-400">$199.000 COP</span>
+                </div>
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Costo por 1K preguntas</span>
+                  <span class="font-bold text-green-400">~$16 COP</span>
                 </div>
                 <div class="flex justify-between text-sm">
                   <span class="text-gray-400">Preguntas países</span>
                   <span class="font-bold text-white">9</span>
-                </div>
-                <div class="flex justify-between text-sm">
-                  <span class="text-gray-400">Variantes</span>
-                  <span class="font-bold text-white">7 por pregunta</span>
                 </div>
                 <div class="flex justify-between text-sm">
                   <span class="text-gray-400">Generación IA</span>
@@ -322,7 +455,45 @@ import Layout from '../../layouts/Layout.astro';
               </div>
 
               <div class="text-xs text-gray-400 border-t border-gray-600 pt-3">
-                <strong class="text-[#FCD116]">✓ Ventaja:</strong> Único con contenido colombiano auténtico, contextos culturales locales y licencias comerciales incluidas.
+                <strong class="text-green-400">✓ 60% más económico:</strong> Que generar con IA directamente.
+                Banco pre-generado = costo marginal casi $0.
+              </div>
+            </div>
+
+            <!-- Competitor: Generar con IA -->
+            <div class="bg-[#0f0f1a] p-6 rounded-xl border border-orange-500/50 relative">
+              <div class="absolute -top-3 left-1/2 -translate-x-1/2 px-4 py-1 bg-orange-500 text-black font-bold text-sm rounded-full">
+                ALTERNATIVA COSTOSA
+              </div>
+              <h4 class="text-xl font-bold text-white mb-2">🤖 Generar con ChatGPT</h4>
+              <p class="text-gray-400 text-sm mb-4">Generación manual con IA</p>
+
+              <div class="space-y-3 mb-4">
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Costo por 1K preguntas</span>
+                  <span class="font-bold text-red-400">~$40.000 COP</span>
+                </div>
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Tiempo (1K preguntas)</span>
+                  <span class="font-bold text-red-400">~20 horas</span>
+                </div>
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Calidad</span>
+                  <span class="font-bold text-yellow-400">Variable</span>
+                </div>
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Contexto local</span>
+                  <span class="font-bold text-red-400">✗ No incluido</span>
+                </div>
+                <div class="flex justify-between text-sm">
+                  <span class="text-gray-400">Revisión necesaria</span>
+                  <span class="font-bold text-red-400">✓ Siempre</span>
+                </div>
+              </div>
+
+              <div class="text-xs text-gray-500 border-t border-[#333] pt-3">
+                <strong class="text-orange-400">⚠️ Cuidado:</strong> Generar 1K preguntas con IA cuesta ~$40K COP,
+                sin garantía de calidad ni contexto colombiano.
               </div>
             </div>
 
@@ -341,21 +512,13 @@ import Layout from '../../layouts/Layout.astro';
                   <span class="font-bold text-red-400">$599.000 COP</span>
                 </div>
                 <div class="flex justify-between text-sm">
-                  <span class="text-gray-400">Preguntas países</span>
-                  <span class="font-bold text-gray-400">1 (USA)</span>
-                </div>
-                <div class="flex justify-between text-sm">
-                  <span class="text-gray-400">Variantes</span>
-                  <span class="font-bold text-gray-400">1</span>
-                </div>
-                <div class="flex justify-between text-sm">
-                  <span class="text-gray-400">Generación IA</span>
-                  <span class="font-bold text-red-400">✗ $50/mes extra</span>
+                  <span class="text-gray-400">Costo por 1K preguntas</span>
+                  <span class="font-bold text-red-400">~$20-60K COP</span>
                 </div>
               </div>
 
               <div class="text-xs text-gray-500 border-t border-[#333] pt-3">
-                <strong class="text-red-400">✗ Limitación:</strong> Sin contenido colombiano, precios más altos, sin API para desarrolladores.
+                <strong class="text-red-400">✗ 2-3x más caro:</strong> Sin contenido colombiano, sin API.
               </div>
             </div>
 
@@ -374,21 +537,13 @@ import Layout from '../../layouts/Layout.astro';
                   <span class="font-bold text-red-400">$359.000 COP</span>
                 </div>
                 <div class="flex justify-between text-sm">
-                  <span class="text-gray-400">Preguntas países</span>
-                  <span class="font-bold text-gray-400">Global</span>
-                </div>
-                <div class="flex justify-between text-sm">
-                  <span class="text-gray-400">Variantes</span>
-                  <span class="font-bold text-gray-400">1</span>
-                </div>
-                <div class="flex justify-between text-sm">
-                  <span class="text-gray-400">Generación IA</span>
+                  <span class="text-gray-400">API</span>
                   <span class="font-bold text-red-400">✗ No disponible</span>
                 </div>
               </div>
 
               <div class="text-xs text-gray-500 border-t border-[#333] pt-3">
-                <strong class="text-red-400">✗ Limitación:</strong> Sin API pública, sin contenido colombiano auténtico, enfoque en flashcards no exámenes.
+                <strong class="text-red-400">✗ Sin API:</strong> No integrable en tu app.
               </div>
             </div>
 
@@ -407,21 +562,13 @@ import Layout from '../../layouts/Layout.astro';
                   <span class="font-bold text-red-400">$699.000 COP</span>
                 </div>
                 <div class="flex justify-between text-sm">
-                  <span class="text-gray-400">Preguntas países</span>
-                  <span class="font-bold text-gray-400">0</span>
-                </div>
-                <div class="flex justify-between text-sm">
-                  <span class="text-gray-400">Variantes</span>
-                  <span class="font-bold text-gray-400">Manual</span>
-                </div>
-                <div class="flex justify-between text-sm">
-                  <span class="text-gray-400">Generación IA</span>
-                  <span class="font-bold text-red-400">✗ No disponible</span>
+                  <span class="text-gray-400">Banco preguntas</span>
+                  <span class="font-bold text-red-400">✗ No incluido</span>
                 </div>
               </div>
 
               <div class="text-xs text-gray-500 border-t border-[#333] pt-3">
-                <strong class="text-red-400">✗ Limitación:</strong> Sin banco de preguntas, sin IA, sin contenido latinoamericano.
+                <strong class="text-red-400">✗ Sin contenido:</strong> Tienes que crear todo manualmente.
               </div>
             </div>
 
@@ -433,35 +580,27 @@ import Layout from '../../layouts/Layout.astro';
               <div class="space-y-3 mb-4">
                 <div class="flex justify-between text-sm">
                   <span class="text-gray-400">Precio Starter</span>
-                  <span class="font-bold text-red-400">$0 (Self-hosted)</span>
+                  <span class="font-bold text-yellow-400">$0 (Self-hosted)</span>
                 </div>
                 <div class="flex justify-between text-sm">
-                  <span class="text-gray-400">Precio Pro</span>
-                  <span class="font-bold text-red-400">$299.000 COP</span>
+                  <span class="text-gray-400">Costo implementación</span>
+                  <span class="font-bold text-red-400">$2-10M COP</span>
                 </div>
                 <div class="flex justify-between text-sm">
-                  <span class="text-gray-400">Preguntas países</span>
-                  <span class="font-bold text-gray-400">0</span>
-                </div>
-                <div class="flex justify-between text-sm">
-                  <span class="text-gray-400">Variantes</span>
-                  <span class="font-bold text-gray-400">Manual</span>
-                </div>
-                <div class="flex justify-between text-sm">
-                  <span class="text-gray-400">Generación IA</span>
-                  <span class="font-bold text-red-400">✗ Plugins de terceros</span>
+                  <span class="text-gray-400">Banco preguntas</span>
+                  <span class="font-bold text-red-400">✗ No incluido</span>
                 </div>
               </div>
 
               <div class="text-xs text-gray-500 border-t border-[#333] pt-3">
-                <strong class="text-red-400">✗ Limitación:</strong> Requiere implementación técnica, sin banco de preguntas, sin soporte.
+                <strong class="text-yellow-400">⚠️ Oculto:</strong> Requiere servidor, desarrollo, mantenimiento.
               </div>
             </div>
 
             <!-- Competitor 5 -->
             <div class="bg-[#0f0f1a] p-6 rounded-xl border border-[#333]">
               <h4 class="text-xl font-bold text-white mb-2">Examsoft</h4>
-              <p class="text-gray-400 text-sm mb-4">Plataforma de evaluación empresarial</p>
+              <p class="text-gray-400 text-sm mb-4">Plataforma empresarial</p>
 
               <div class="space-y-3 mb-4">
                 <div class="flex justify-between text-sm">
@@ -473,21 +612,13 @@ import Layout from '../../layouts/Layout.astro';
                   <span class="font-bold text-red-400">$3.000.000 COP</span>
                 </div>
                 <div class="flex justify-between text-sm">
-                  <span class="text-gray-400">Preguntas países</span>
-                  <span class="font-bold text-gray-400">0</span>
-                </div>
-                <div class="flex justify-between text-sm">
-                  <span class="text-gray-400">Variantes</span>
-                  <span class="font-bold text-gray-400">Manual</span>
-                </div>
-                <div class="flex justify-between text-sm">
-                  <span class="text-gray-400">Generación IA</span>
-                  <span class="font-bold text-red-400">✗ No disponible</span>
+                  <span class="text-gray-400">Colombia</span>
+                  <span class="font-bold text-red-400">✗ No soportado</span>
                 </div>
               </div>
 
               <div class="text-xs text-gray-500 border-t border-[#333] pt-3">
-                <strong class="text-red-400">✗ Limitación:</strong> Muy costoso, solo para empresas grandes, sin contenido educativo.
+                <strong class="text-red-400">✗ Enterprise only:</strong> Solo para grandes empresas.
               </div>
             </div>
           </div>

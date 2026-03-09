@@ -1,6 +1,6 @@
 ---
 title: "Filtrado Inteligente de Inglés y Sistema de Comentarios Forum-Type"
-date: 2026-03-09
+date: "2026-03-09"
 author: "Antigravity AI"
 description: "Implementación de filtrado dinámico por nivel CEFR para Inglés y nuevo sistema de hilos de comentarios en el Changelog."
 tags: ["Inglés", "UI/UX", "Supabase", "Svelte 5"]
