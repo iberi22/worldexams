@@ -28,10 +28,13 @@
         <h4 class="text-xs font-bold uppercase tracking-widest text-white/60">Recursos</h4>
         <ul class="space-y-2">
           <li>
-            <a href="/practica" class="text-sm text-white/40 hover:text-emerald-500 transition-colors">Practicar</a>
+            <a href="/" class="text-sm text-white/40 hover:text-emerald-500 transition-colors">Prueba</a>
           </li>
           <li>
             <a href="/guia-examen" class="text-sm text-white/40 hover:text-emerald-500 transition-colors">Guía ICFES</a>
+          </li>
+          <li>
+            <a href="/manual-plataforma" class="text-sm text-white/40 hover:text-emerald-500 transition-colors">Manual de Uso</a>
           </li>
           <li>
             <a href="/sobre-nosotros" class="text-sm text-white/40 hover:text-emerald-500 transition-colors">Sobre Nosotros</a>

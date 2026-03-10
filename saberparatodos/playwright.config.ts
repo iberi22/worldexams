@@ -20,7 +20,7 @@ export default defineConfig({
   webServer: process.env.CI ? undefined : {
     command: 'powershell -NoProfile -Command "Remove-Item -Recurse -Force node_modules/.vite -ErrorAction SilentlyContinue; npm run dev -- --port 4321 --force"',
     port: 4321,
-    reuseExistingServer: false,
+    reuseExistingServer: true,
     timeout: 120000,
   },
   outputDir: 'test-results',

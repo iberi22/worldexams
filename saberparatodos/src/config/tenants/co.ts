@@ -44,7 +44,7 @@ export const coConfig: CountryConfig = {
 
   // Características activas
   features: {
-    blog: false
+    blog: true
   },
 
   // Configuración de Giscus para comentarios

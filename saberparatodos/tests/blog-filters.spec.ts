@@ -21,17 +21,22 @@ test.describe('Blog Filters - Subject, Grade, Difficulty', () => {
     // Wait for initial load
     await page.waitForTimeout(3000);
 
-    // Click on Blog/Artículos link
-    console.log('📝 Buscando enlace a Blog...');
-    const blogLink = page.locator('text=/blog|artículos/i').first();
+    // Click on Practice button first
+    const startPracticeBtn = page.locator('text=Empezar Práctica').first();
+    await expect(startPracticeBtn).toBeVisible({ timeout: 15000 });
+    await startPracticeBtn.click();
+    await page.waitForLoadState('networkidle');
+    await page.waitForTimeout(3000);
 
-    if (await blogLink.count() > 0) {
-      await blogLink.click();
-      console.log('✅ Click en Blog');
+    // Click on Blog/Artículos card
+    console.log('📝 Buscando tarjeta de Blog...');
+    const blogCard = page.locator('text=Blog / Artículos').first();
+    if (await blogCard.isVisible()) {
+      await blogCard.click({ force: true });
+      console.log('✅ Click en tarjeta de Blog');
     } else {
-      // Try direct navigation
-      console.log('⚠️ No se encontró enlace, navegando directamente...');
-      await page.goto('/#blog');
+      console.log('⚠️ No se encontró tarjeta, navegando directamente...');
+      await page.goto('/practica'); // Already there, but safe
     }
 
     await page.waitForTimeout(5000);
@@ -39,7 +44,7 @@ test.describe('Blog Filters - Subject, Grade, Difficulty', () => {
 
     // Check for subject dropdown
     console.log('\n📝 Verificando dropdown de asignaturas...');
-    const subjectDropdown = page.locator('select').first();
+    const subjectDropdown = page.locator('#subject-select').first();
 
     if (await subjectDropdown.count() > 0) {
       const options = await subjectDropdown.locator('option').allTextContents();
@@ -81,15 +86,19 @@ test.describe('Blog Filters - Subject, Grade, Difficulty', () => {
     await page.goto('/');
     await page.waitForTimeout(3000);
 
-    // Navigate to blog
-    const blogLink = page.locator('text=/blog|artículos/i').first();
-    if (await blogLink.count() > 0) {
-      await blogLink.click();
-    }
+    // Navigate to blog via Practice
+    const startPracticeBtn = page.locator('text=Empezar Práctica').first();
+    await expect(startPracticeBtn).toBeVisible({ timeout: 15000 });
+    await startPracticeBtn.click();
+    await page.waitForLoadState('networkidle');
+
+    const blogCard = page.locator('text=Blog / Artículos').first();
+    await expect(blogCard).toBeVisible({ timeout: 15000 });
+    await blogCard.click({ force: true });
     await page.waitForTimeout(5000);
 
     // Find and interact with subject dropdown
-    const subjectDropdown = page.locator('select').first();
+    const subjectDropdown = page.locator('#subject-select').first();
 
     if (await subjectDropdown.count() > 0) {
       // Get all options
@@ -97,15 +106,16 @@ test.describe('Blog Filters - Subject, Grade, Difficulty', () => {
       console.log(`📋 Total opciones: ${options.length}`);
 
       // Try selecting each subject and verify questions change
+      // Skip "Todas las asignaturas" (index 0)
       for (let i = 1; i < Math.min(options.length, 4); i++) {
         const optionText = await options[i].textContent();
         console.log(`\n📝 Seleccionando: ${optionText}`);
 
         await subjectDropdown.selectOption({ index: i });
-        await page.waitForTimeout(2000);
+        await page.waitForTimeout(3000); // Wait for filter application
 
         // Count visible questions
-        const questionCards = page.locator('[class*="card"], [class*="Card"]');
+        const questionCards = page.locator('[class*="group"], [class*="Card"], article').filter({ has: page.locator('text=Nivel') });
         const count = await questionCards.count();
         console.log(`📊 Preguntas visibles: ${count}`);
 
@@ -130,11 +140,15 @@ test.describe('Blog Filters - Subject, Grade, Difficulty', () => {
     await page.goto('/');
     await page.waitForTimeout(3000);
 
-    // Navigate to blog
-    const blogLink = page.locator('text=/blog|artículos/i').first();
-    if (await blogLink.count() > 0) {
-      await blogLink.click();
-    }
+    // Navigate to blog via Practice
+    const startPracticeBtn = page.locator('text=Empezar Práctica').first();
+    await expect(startPracticeBtn).toBeVisible({ timeout: 15000 });
+    await startPracticeBtn.click();
+    await page.waitForLoadState('networkidle');
+
+    const blogCard = page.locator('text=Blog / Artículos').first();
+    await expect(blogCard).toBeVisible({ timeout: 15000 });
+    await blogCard.click({ force: true });
     await page.waitForTimeout(5000);
 
     // Find grade buttons (they show 3°, 5°, 7°, 9°, 11°)
@@ -180,11 +194,15 @@ test.describe('Blog Filters - Subject, Grade, Difficulty', () => {
     await page.goto('/');
     await page.waitForTimeout(3000);
 
-    // Navigate to blog
-    const blogLink = page.locator('text=/blog|artículos/i').first();
-    if (await blogLink.count() > 0) {
-      await blogLink.click();
-    }
+    // Navigate to blog via Practice
+    const startPracticeBtn = page.locator('text=Empezar Práctica').first();
+    await expect(startPracticeBtn).toBeVisible({ timeout: 15000 });
+    await startPracticeBtn.click();
+    await page.waitForLoadState('networkidle');
+
+    const blogCard = page.locator('text=Blog / Artículos').first();
+    await expect(blogCard).toBeVisible({ timeout: 15000 });
+    await blogCard.click({ force: true });
     await page.waitForTimeout(5000);
 
     // Find difficulty buttons (1-5)

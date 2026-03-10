@@ -117,7 +117,7 @@ serve(async (req: Request) => {
     // 7. Rate Limiting - Check requests in last minute
     const oneMinuteAgo = new Date(Date.now() - 60000).toISOString()
     const { count: recentRequests } = await supabase
-      .from('api_logs')
+      .from('usage_logs')
       .select('*', { count: 'exact', head: true })
       .eq('api_key_id', apiKey.id)
       .gte('created_at', oneMinuteAgo)
@@ -150,7 +150,7 @@ serve(async (req: Request) => {
     monthStart.setHours(0, 0, 0, 0)
 
     const { count: monthRequests } = await supabase
-      .from('api_logs')
+      .from('usage_logs')
       .select('*', { count: 'exact', head: true })
       .eq('api_key_id', apiKey.id)
       .gte('created_at', monthStart.toISOString())
@@ -170,10 +170,9 @@ serve(async (req: Request) => {
     }
 
     // 9. Log this request
-    await supabase.from('api_logs').insert({
+    await supabase.from('usage_logs').insert({
       api_key_id: apiKey.id,
       endpoint: '/api/questions',
-      method: req.method,
       status_code: 200,
       ip_address: req.headers.get('cf-connecting-ip') || req.headers.get('x-forwarded-for')?.split(',')[0] || 'unknown',
       user_agent: req.headers.get('user-agent') || 'unknown'

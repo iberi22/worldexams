@@ -14,8 +14,7 @@ import packageInfo from '../../package.json';
 const version = packageInfo.version;
 
 const navLinks = [
-  { href: '/', label: 'Inicio', icon: 'home' },
-  { href: '/practica', label: 'Practicar', icon: 'practice' },
+  { href: '/', label: 'Prueba', icon: 'practice' },
   { href: '/simulacro-icfes', label: 'Simulacro', icon: 'target' },
   { href: '/preparacion', label: 'Preparación', icon: 'guide' },
   { href: '/guia-examen', label: 'Guía 2026', icon: 'structure' },
@@ -41,7 +40,7 @@ const isActive = (href: string) => {
 
   <div class="navbar-container">
     <!-- Logo -->
-    <a href="/" class="logo" aria-label="SaberParaTodos - Inicio">
+    <a href="/" class="logo" aria-label="SaberParaTodos - Prueba">
       <img src="/logo.png" alt="SaberParaTodos Logo" width="32" height="32" class="w-8 h-8 rounded" />
       <div class="flex flex-col">
         <span class="logo-text">SaberParaTodos</span>
@@ -59,13 +58,6 @@ const isActive = (href: string) => {
           {link.label}
         </a>
       ))}
-    </div>
-
-    <!-- CTA Button -->
-    <div class="nav-cta desktop-only">
-      <a href="/practica" class="cta-button">
-        Comenzar →
-      </a>
     </div>
 
     <!-- Mobile Menu Button -->
@@ -108,10 +100,6 @@ const isActive = (href: string) => {
             </a>
           ))}
         </nav>
-
-        <a href="/practica" class="mobile-cta-button">
-          Comenzar Práctica →
-        </a>
       </div>
     </div>
   </div>
@@ -190,6 +178,7 @@ const isActive = (href: string) => {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    gap: 1.25rem;
     height: var(--navbar-height);
   }
 
@@ -198,6 +187,7 @@ const isActive = (href: string) => {
     display: flex;
     align-items: center;
     gap: 0.75rem;
+    flex-shrink: 0;
     text-decoration: none;
     color: #F5F5DC;
     transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
@@ -216,9 +206,16 @@ const isActive = (href: string) => {
   /* Desktop Navigation */
   .nav-links {
     display: flex;
-    gap: 0.5rem;
+    flex: 1;
+    min-width: 0;
+    gap: 0.35rem;
     align-items: center;
+    justify-content: center;
+    overflow-x: auto;
+    scrollbar-width: none;
   }
+
+  .nav-links::-webkit-scrollbar { display: none; }
 
   .nav-link {
     font-family: 'Inter', sans-serif;
@@ -226,30 +223,16 @@ const isActive = (href: string) => {
     font-weight: 500;
     color: rgba(245, 245, 220, 0.6);
     text-decoration: none;
-    padding: 0.5rem 0.75rem;
+    padding: 0.5rem 0.65rem;
     border-radius: 6px;
     transition: all 0.2s ease;
     text-transform: uppercase;
     letter-spacing: 0.025em;
+    white-space: nowrap;
   }
 
   .nav-link:hover { color: #10b981; background: rgba(255, 255, 255, 0.03); }
   .nav-link.active { color: #F5F5DC; background: rgba(255, 255, 255, 0.05); }
-
-  /* CTA Button */
-  .cta-button {
-    font-family: 'Fira Code', monospace;
-    font-size: 0.75rem;
-    font-weight: 600;
-    padding: 0.6rem 1.25rem;
-    background-color: #10b981;
-    color: #121212;
-    text-decoration: none;
-    border-radius: 6px;
-    transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
-    text-transform: uppercase;
-    box-shadow: 0 4px 12px rgba(16, 185, 129, 0.2);
-  }
 
   /* Mobile Menu Container */
   .mobile-menu {
@@ -343,19 +326,6 @@ const isActive = (href: string) => {
   .mobile-nav-link:hover, .mobile-nav-link.active {
     color: #10b981;
     background: rgba(16, 185, 129, 0.05);
-  }
-
-  .mobile-cta-button {
-    margin-top: auto;
-    background: #10b981;
-    color: #000;
-    text-align: center;
-    padding: 1rem;
-    border-radius: 12px;
-    font-weight: 800;
-    text-transform: uppercase;
-    text-decoration: none;
-    font-family: 'Fira Code', monospace;
   }
 
   .mobile-menu-btn {

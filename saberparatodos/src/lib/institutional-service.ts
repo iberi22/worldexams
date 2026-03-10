@@ -22,18 +22,23 @@ export const institutionalService = {
    * Create a new organization
    */
   async createOrganization(name: string, slug: string, billingEmail: string) {
+    const { data: userData } = await supabase.auth.getUser();
+    const ownerUserId = userData?.user?.id;
+
     const { data, error } = await supabase
       .from('organizations')
-      .insert({ name, slug, billing_email: billingEmail } as any)
+      .insert({
+        name,
+        slug,
+        billing_email: billingEmail,
+        owner_user_id: ownerUserId
+      } as any)
       .select()
       .single() as any;
 
     if (error) throw error;
 
-    // Auto-add creator as owner (Trigger should handle this, or we do it manual)
-    // For now, let's do it manually if trigger doesn't exist.
-    // Ideally, we have a trigger or RPC. Let's try manual insert for now.
-    const { data: userData } = await supabase.auth.getUser();
+    // Bootstrap owner membership for the newly created organization.
     if (userData?.user) {
         await supabase.from('organization_members').insert({
             organization_id: data.id,

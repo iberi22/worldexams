@@ -19,14 +19,14 @@ vi.mock('../question-memory', () => ({
 describe('fetchEnglishQuestionsAllGrades filtering', () => {
   it('strictly filters for Protocol 4 in Grades 9-11 for High Levels (B1+)', async () => {
     const mockQuestions = [
-      { id: 'v3-q1', protocol_version: '3.1', difficulty: 3, category: 'ingles' },
-      { id: 'v4-q2', protocol_version: '4.0', difficulty: 3, category: 'ingles' },
-      { id: 'v4-q3', protocol_version: '4.1', difficulty: 5, category: 'ingles' }
+      { id: 'v3-q1', protocol_version: '3.1', difficulty: 3, asignatura: 'ingles' },
+      { id: 'v4-q2', protocol_version: '4.0', difficulty: 3, asignatura: 'ingles' },
+      { id: 'v4-q3', protocol_version: '4.1', difficulty: 5, asignatura: 'ingles' }
     ];
 
     (packStorage.getQuestionPool as any).mockImplementation((grade: number) => {
-      if ([9, 10, 11].includes(grade)) return Promise.resolve(mockQuestions);
-      return Promise.resolve([]);
+      if ([9, 10, 11].includes(grade)) return mockQuestions;
+      return [];
     });
 
     // B1+ = level 6
@@ -39,17 +39,17 @@ describe('fetchEnglishQuestionsAllGrades filtering', () => {
 
   it('allows mixed protocols and filters difficulty for higher grades for Low Levels (A2)', async () => {
     const mockHighQuestions = [
-      { id: 'high-hard', difficulty: 5, protocol_version: '4.0', category: 'ingles' },
-      { id: 'high-easy', difficulty: 2, protocol_version: '4.0', category: 'ingles' }
+      { id: 'high-hard', difficulty: 5, protocol_version: '4.0', asignatura: 'ingles' },
+      { id: 'high-easy', difficulty: 2, protocol_version: '4.0', asignatura: 'ingles' }
     ];
     const mockLowQuestions = [
-      { id: 'low-q1', difficulty: 1, protocol_version: '3.1', category: 'ingles' }
+      { id: 'low-q1', difficulty: 1, protocol_version: '3.1', asignatura: 'ingles' }
     ];
 
     (packStorage.getQuestionPool as any).mockImplementation((grade: number) => {
-      if (grade >= 10) return Promise.resolve(mockHighQuestions);
-      if (grade === 3) return Promise.resolve(mockLowQuestions);
-      return Promise.resolve([]);
+      if (grade >= 10) return mockHighQuestions;
+      if (grade === 3) return mockLowQuestions;
+      return [];
     });
 
     // A2 = level 3

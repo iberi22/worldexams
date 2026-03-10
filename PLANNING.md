@@ -1,5 +1,183 @@
 # PLANNING.md -
 
+## 0. Launch Reality Check (2026-03-09)
+
+This document now serves two purposes:
+
+1. product planning for World Exams
+2. public-repository launch planning for `world-exams/saberparatodos`
+
+### Current Reality
+
+- The public GitHub organization exists at `https://github.com/world-exams`.
+- The expected public product repository `world-exams/saberparatodos` does not exist yet.
+- The local workspace contains both organization-level material and product-level implementation.
+- The current repository story is inconsistent:
+  - the root `README.md` describes a broader Rust/social-orchestrator system
+  - `saberparatodos/README.md` describes the Astro/Supabase product
+  - several docs still assume a private-only operating model
+- Documentation language is mixed. A public launch requires English-first docs for architecture, setup, routes, functions, backlog, and contribution flow.
+- Question content should remain in a private repository, but the public/open-source boundary is not yet documented clearly enough.
+
+### Launch Goal for Today
+
+Ship a public-ready version of the project that is:
+
+- understandable from GitHub without private context
+- safe to expose
+- documented in English
+- honest about what is production-ready vs experimental
+
+### Critical Gaps Found
+
+#### A. Repository Structure
+
+- Root repo and product repo are not cleanly separated.
+- There are duplicate planning artifacts (`MASTER_PLAN.md`, `masterplan.md`, `PLANNING.md`) with overlapping authority.
+- There are internal/AI/operator files that are not public-facing documentation.
+
+#### B. Public Documentation
+
+- Missing single documentation index for:
+  - routes
+  - Astro pages
+  - Svelte components
+  - Supabase tables
+  - Edge Functions
+  - scripts
+- Missing English backlog and release-status document for launch day.
+- Missing clear public explanation of what stays private:
+  - question banks
+  - operational secrets
+  - internal generation workflows
+
+#### C. Product Readiness
+
+- Developer API docs were stale and have been updated locally during this session.
+- First API key creation was blocked by organization bootstrap; this has been fixed locally.
+- `api-gateway` was not deployed; it has now been deployed.
+- News/changelog discoverability was weak; `/novedades` has been improved locally.
+- Social/video features exist, but they are not documented as a public product surface yet.
+
+#### D. Open-Source Hygiene
+
+- `.env.example` still includes server-only variables and should be split into public setup vs internal operator setup.
+- Some docs explicitly frame the repo as private/manual-only, which conflicts with a public launch narrative.
+- `.github/workflows/` exists in the root repo even though parts of the current operating model reject GitHub Actions for production deployment.
+
+## 0.1 Public Repository Target Model
+
+### Recommended Split
+
+#### `world-exams/world-exams`
+
+Purpose:
+- organization-level documentation
+- architecture standards
+- multi-country protocols
+- public roadmap
+- contributor onboarding
+
+Should contain:
+- global README
+- public docs index
+- product matrix by country
+- protocols/specs that are safe to publish
+
+Should not contain:
+- product-specific production app code as the main entry point
+- private question banks
+- environment-specific secrets/setup notes
+
+#### `world-exams/saberparatodos`
+
+Purpose:
+- public application code for the Colombia product
+- Astro frontend
+- public-safe Supabase schema/migrations/functions
+- tests
+- product-specific docs in English
+
+Should contain:
+- component inventory
+- route inventory
+- Supabase table/function inventory
+- launch backlog
+- deployment guide
+
+Should not contain:
+- private question source repository
+- internal-only ops playbooks with secrets or unreleased commercial logic
+
+#### Private Question Repository
+
+Purpose:
+- private question content
+- generation inputs
+- source materials and content QA
+- sync/export pipeline to the public app/API
+
+## 0.2 Launch Workstreams for Today
+
+### Workstream 1: Public Narrative Cleanup
+
+Deliverables:
+- one authoritative root README in English
+- one authoritative product README in English
+- clear explanation of repo boundaries and private question storage
+
+### Workstream 2: Documentation Minimum Viable Set
+
+Deliverables:
+- architecture overview
+- route map
+- component map
+- Supabase map
+- edge-function map
+- backlog
+- launch-status report
+
+### Workstream 3: Product Surface Validation
+
+Deliverables:
+- practice entry route validated
+- developer dashboard validated
+- API docs validated
+- changelog/news validated
+- platform manual validated
+
+### Workstream 4: Social and Video Feature Positioning
+
+Deliverables:
+- document current status of video pipeline
+- document current status of social publishing
+- label incomplete areas as experimental or internal
+- avoid presenting unfinished automation as launch-ready
+
+## 0.3 Source Path Inventory To Document Publicly
+
+These are the implementation areas that should be indexed in the public docs:
+
+- Frontend app: `saberparatodos/src/components/`
+- Routes/pages: `saberparatodos/src/pages/`
+- Developer portal: `saberparatodos/src/pages/developers/`
+- Content collections: `saberparatodos/src/content/`
+- Supabase schema/migrations/functions: `saberparatodos/supabase/`
+- Build/deploy scripts: `saberparatodos/scripts/`
+- Video pipeline: `saberparatodos/scripts/video/` and `saberparatodos/video-pipeline/`
+- Org-level docs/specs: `docs/`
+
+## 0.4 Launch Exit Criteria
+
+Today’s public launch should only happen if all of the following are true:
+
+- The public repo structure is explicit and intentional.
+- English documentation exists for setup, architecture, routes, functions, and backlog.
+- No real secrets or operator-only instructions are exposed.
+- The public app flow is understandable from the repo alone.
+- Experimental systems are labeled honestly.
+- The private question-bank boundary is documented clearly.
+
 ## 1. Visión del Proyecto
 
 Crear la plataforma de preparación para pruebas de estado (Saber 3° a 11°) más accesible, transparente y eficiente de Colombia.

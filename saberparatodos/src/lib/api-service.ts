@@ -118,8 +118,29 @@ function formatSubjectName(subject: string): string {
 }
 
 export function normalizeSubjectKey(subject: string): string {
-  const normalized = String(subject || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[\s-]+/g, '_').replace(/[^a-z0-9_]/g, '').trim();
-  const aliasMap: Record<string, string> = { socialesyciudadanas: 'sociales_y_ciudadanas', sociales_ciudadanas: 'sociales_y_ciudadanas', cienciasnaturales: 'ciencias_naturales', lectura_critica: 'lectura_critica', lecturacritica: 'lectura_critica', tecnologiaeinformatica: 'tecnologia_informatica', tecnologiainformatica: 'tecnologia_informatica' };
+  const normalized = String(subject || '')
+    .trim()
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/[\s-]+/g, '_')
+    .replace(/[^a-z0-9_]/g, '')
+    .replace(/^_+|_+$/g, '');
+
+  const aliasMap: Record<string, string> = {
+    socialesyciudadanas: 'sociales_y_ciudadanas',
+    sociales_ciudadanas: 'sociales_y_ciudadanas',
+    sociales: 'sociales_y_ciudadanas',
+    cienciasnaturales: 'ciencias_naturales',
+    ciencias: 'ciencias_naturales',
+    lectura_critica: 'lectura_critica',
+    lecturacritica: 'lectura_critica',
+    lenguaje: 'lectura_critica',
+    tecnologiaeinformatica: 'tecnologia_informatica',
+    tecnologiainformatica: 'tecnologia_informatica',
+    english: 'ingles',
+    matematica: 'matematicas'
+  };
   return aliasMap[normalized] || normalized;
 }
 
@@ -177,24 +198,74 @@ export async function fetchQuestionsFromPacks(grade: number, subject?: string): 
   const ANCHOR_DATE = new Date('2025-01-01T00:00:00Z').getTime();
   const ONE_WEEK_MS = 7 * 24 * 60 * 60 * 1000;
   const currentWeek = Math.max(1, Math.ceil((Date.now() - ANCHOR_DATE) / ONE_WEEK_MS) % 52 || 52);
+  const isJsdom = typeof navigator !== 'undefined' && /jsdom/i.test(navigator.userAgent || '');
+  const baseOrigin =
+    !isJsdom
+    && typeof window !== 'undefined'
+    && typeof window.location !== 'undefined'
+    && /^https?:/i.test(window.location.origin)
+      ? window.location.origin
+      : '';
+  const canUseRelativeFetch = Boolean(baseOrigin);
+  const resolvePackUrl = (path: string) => baseOrigin ? new URL(path, baseOrigin).toString() : path;
 
   try {
     const normalizedSubject = normalizeSubjectKey(subject || '');
-    const subjectPackUrl = normalizedSubject ? `/api/packs/week-${currentWeek}-grade-${grade}-subject-${normalizedSubject}.json` : '';
-    const legacyPackUrl = `/api/packs/week-${currentWeek}-grade-${grade}.json`;
+
+    // List of candidate URLs to try for subject-specific packs
+    const subjectCandidatePaths: string[] = [];
+    if (normalizedSubject) {
+      subjectCandidatePaths.push(`/api/packs/week-${currentWeek}-grade-${grade}-subject-${normalizedSubject}.json`);
+      // Try variations if the primary one fails
+      if (normalizedSubject === 'ingles') {
+        subjectCandidatePaths.push(`/api/packs/week-${currentWeek}-grade-${grade}-subject-english.json`);
+      }
+      // Fallback to week 1 for development/snapshots
+      subjectCandidatePaths.push(`/api/packs/week-1-grade-${grade}-subject-${normalizedSubject}.json`);
+    }
+
+    // List of candidate URLs for legacy grade packs
+    const legacyCandidatePaths = [
+      `/api/packs/week-${currentWeek}-grade-${grade}.json`,
+      `/api/packs/week-1-grade-${grade}.json`
+    ];
+
+    if (!canUseRelativeFetch) {
+      const fallback = getQuestionPool(grade).map((q: any) => transformQuestion(q, grade, normalizeSubjectKey(q.subject || subject || 'unknown')));
+      return normalizedSubject ? fallback.filter(q => normalizeSubjectKey(q.category.split(' :: ')[0]) === normalizedSubject) : fallback;
+    }
 
     let response: Response | null = null;
-    if (subjectPackUrl) {
-      const subjectResponse = await fetch(subjectPackUrl);
-      if (subjectResponse.ok) response = subjectResponse;
+    let usedSubjectPack = false;
+
+    // Try subject-specific candidates first
+    for (const path of subjectCandidatePaths) {
+      try {
+        const res = await fetch(resolvePackUrl(path));
+        if (res.ok) {
+          response = res;
+          usedSubjectPack = true;
+          break;
+        }
+      } catch (e) { /* continue */ }
     }
+
+    // Try legacy candidates if no subject-specific pack was found
     if (!response) {
-      const legacyResponse = await fetch(legacyPackUrl);
-      if (!legacyResponse.ok) {
-        const fallback = getQuestionPool(grade).map((q: any) => transformQuestion(q, grade, normalizeSubjectKey(q.subject || subject || 'unknown')));
-        return normalizedSubject ? fallback.filter(q => normalizeSubjectKey(q.category.split(' :: ')[0]) === normalizedSubject) : fallback;
+      for (const path of legacyCandidatePaths) {
+        try {
+          const res = await fetch(resolvePackUrl(path));
+          if (res.ok) {
+            response = res;
+            break;
+          }
+        } catch (e) { /* continue */ }
       }
-      response = legacyResponse;
+    }
+
+    if (!response) {
+      const fallback = getQuestionPool(grade).map((q: any) => transformQuestion(q, grade, normalizeSubjectKey(q.subject || subject || 'unknown')));
+      return normalizedSubject ? fallback.filter(q => normalizeSubjectKey(q.category.split(' :: ')[0]) === normalizedSubject) : fallback;
     }
 
     const packData = await response.json();
@@ -208,7 +279,11 @@ export async function fetchQuestionsFromPacks(grade: number, subject?: string): 
         return transformQuestion(q, grade, qSubject);
     });
 
-    return normalizedSubject ? appQuestions.filter(q => normalizeSubjectKey(q.category.split(' :: ')[0]) === normalizedSubject) : appQuestions;
+    // If we loaded a subject pack, we usually don't need to filter, but let's be safe.
+    // If we loaded a legacy grade pack, filtering is MANDATORY.
+    return normalizedSubject
+      ? appQuestions.filter(q => normalizeSubjectKey(q.category.split(' :: ')[0]) === normalizedSubject)
+      : appQuestions;
   } catch (err) {
     console.error(`❌ Error fetching pack:`, err);
     return [];
@@ -305,15 +380,37 @@ export async function fetchEnglishQuestionsAllGrades(limit: number = 30, balance
   const answeredIds = await getAnsweredQuestionIds(14, false);
 
   const gradeResults = await Promise.all(ALL_GRADES.map(async (grade) => {
-    const questions = getQuestionPool(grade);
+    // 🆕 Check if the local pool already has English questions
+    const localPool = getQuestionPool(grade);
+    const hasEnglishInPool = localPool.some(q => {
+      const rawSubject = String((q as any).asignatura || (q as any).subject || (q as any).category?.split('::')[0] || '');
+      return normalizeSubjectKey(rawSubject) === 'ingles';
+    });
+
+    // 🆕 Only skip network fetch if we actually HAVE English questions in the local pool
+    const questions = hasEnglishInPool
+      ? localPool
+      : await fetchQuestionsFromPacks(grade, 'ingles');
+
+    if (!Array.isArray(questions) || questions.length === 0) return [];
+
     return questions.filter(q => {
-      // Filter for 'ingles' subject manually to avoid subject mismatch issues in packs
-      const isEnglish = (q as any).asignatura === 'ingles' || q.tags?.some(t => t.toLowerCase().includes('inglés') || t.toLowerCase().includes('ingles'));
+      const rawSubject = String((q as any).asignatura || (q as any).subject || (q as any).category?.split('::')[0] || '');
+      const normalizedSubject = normalizeSubjectKey(rawSubject);
+      const tags = Array.isArray((q as any).tags)
+        ? (q as any).tags
+        : Array.isArray((q as any).topics)
+          ? (q as any).topics
+          : [];
+
+      // Filter for English manually to tolerate raw API questions and transformed app questions
+      const isEnglish = normalizedSubject === 'ingles'
+        || tags.some((t: string) => t.toLowerCase().includes('inglés') || t.toLowerCase().includes('ingles'));
       if (!isEnglish) return false;
 
       const isNotAnswered = !answeredIds.has(q.id);
 
-      const protocol = q.protocol_version || '3.1';
+      const protocol = String(q.protocol_version || '3.1');
       const isNewProtocol = protocol.startsWith('4.');
 
       if (isHighLevel) {
@@ -328,7 +425,12 @@ export async function fetchEnglishQuestionsAllGrades(limit: number = 30, balance
         // Prefer new protocol but allow old ones for 3-9
         return isNotAnswered;
       }
-    }).map(q => transformQuestion(q, grade, 'ingles'));
+    }).map(q => {
+      if ('correctOptionId' in (q as any) && 'text' in (q as any)) {
+        return q as AppQuestion;
+      }
+      return transformQuestion(q, grade, 'ingles');
+    });
   }));
 
   let unique = Array.from(new Map(gradeResults.flat().map(q => [q.id, q])).values());
