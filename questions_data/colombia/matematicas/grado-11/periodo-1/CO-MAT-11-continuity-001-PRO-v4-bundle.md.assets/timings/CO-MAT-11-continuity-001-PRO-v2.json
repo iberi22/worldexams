@@ -1,0 +1,586 @@
+{
+  "question_id": "CO-MAT-11-continuity-001-PRO-v2",
+  "duration_seconds": 67.65750566893423,
+  "words": [
+    {
+      "word": "Reto",
+      "start": 0.0,
+      "end": 0.44
+    },
+    {
+      "word": "de",
+      "start": 0.44,
+      "end": 0.879
+    },
+    {
+      "word": "matematicas.",
+      "start": 0.879,
+      "end": 1.319
+    },
+    {
+      "word": "Resolvamos",
+      "start": 1.319,
+      "end": 1.759
+    },
+    {
+      "word": "en",
+      "start": 1.759,
+      "end": 2.198
+    },
+    {
+      "word": "tres",
+      "start": 2.198,
+      "end": 2.638
+    },
+    {
+      "word": "pasos.",
+      "start": 2.638,
+      "end": 3.078
+    },
+    {
+      "word": "Dada",
+      "start": 3.078,
+      "end": 3.517
+    },
+    {
+      "word": "la",
+      "start": 3.517,
+      "end": 3.957
+    },
+    {
+      "word": "función",
+      "start": 3.957,
+      "end": 4.397
+    },
+    {
+      "word": "f(x)",
+      "start": 4.397,
+      "end": 4.836
+    },
+    {
+      "word": "=",
+      "start": 4.836,
+      "end": 5.276
+    },
+    {
+      "word": "cases",
+      "start": 5.276,
+      "end": 5.716
+    },
+    {
+      "word": "x^2",
+      "start": 5.716,
+      "end": 6.155
+    },
+    {
+      "word": "+",
+      "start": 6.155,
+      "end": 6.595
+    },
+    {
+      "word": "1",
+      "start": 6.595,
+      "end": 7.034
+    },
+    {
+      "word": "&",
+      "start": 7.034,
+      "end": 7.474
+    },
+    {
+      "word": "x",
+      "start": 7.474,
+      "end": 7.914
+    },
+    {
+      "word": "<=",
+      "start": 7.914,
+      "end": 8.353
+    },
+    {
+      "word": "2",
+      "start": 8.353,
+      "end": 8.793
+    },
+    {
+      "word": "\\\\",
+      "start": 8.793,
+      "end": 9.233
+    },
+    {
+      "word": "2x",
+      "start": 9.233,
+      "end": 9.672
+    },
+    {
+      "word": "+",
+      "start": 9.672,
+      "end": 10.112
+    },
+    {
+      "word": "k",
+      "start": 10.112,
+      "end": 10.552
+    },
+    {
+      "word": "&",
+      "start": 10.552,
+      "end": 10.991
+    },
+    {
+      "word": "x",
+      "start": 10.991,
+      "end": 11.431
+    },
+    {
+      "word": ">",
+      "start": 11.431,
+      "end": 11.871
+    },
+    {
+      "word": "2",
+      "start": 11.871,
+      "end": 12.31
+    },
+    {
+      "word": "cases..",
+      "start": 12.31,
+      "end": 12.75
+    },
+    {
+      "word": "Paso",
+      "start": 12.75,
+      "end": 13.19
+    },
+    {
+      "word": "uno:",
+      "start": 13.19,
+      "end": 13.629
+    },
+    {
+      "word": "datos",
+      "start": 13.629,
+      "end": 14.069
+    },
+    {
+      "word": "clave.",
+      "start": 14.069,
+      "end": 14.509
+    },
+    {
+      "word": "Paso",
+      "start": 14.509,
+      "end": 14.948
+    },
+    {
+      "word": "dos:",
+      "start": 14.948,
+      "end": 15.388
+    },
+    {
+      "word": "operacion",
+      "start": 15.388,
+      "end": 15.828
+    },
+    {
+      "word": "correcta.",
+      "start": 15.828,
+      "end": 16.267
+    },
+    {
+      "word": "Paso",
+      "start": 16.267,
+      "end": 16.707
+    },
+    {
+      "word": "tres:",
+      "start": 16.707,
+      "end": 17.147
+    },
+    {
+      "word": "validacion",
+      "start": 17.147,
+      "end": 17.586
+    },
+    {
+      "word": "final.",
+      "start": 17.586,
+      "end": 18.026
+    },
+    {
+      "word": "Para",
+      "start": 18.026,
+      "end": 18.466
+    },
+    {
+      "word": "que",
+      "start": 18.466,
+      "end": 18.905
+    },
+    {
+      "word": "sea",
+      "start": 18.905,
+      "end": 19.345
+    },
+    {
+      "word": "continua",
+      "start": 19.345,
+      "end": 19.784
+    },
+    {
+      "word": "en",
+      "start": 19.784,
+      "end": 20.224
+    },
+    {
+      "word": "el",
+      "start": 20.224,
+      "end": 20.664
+    },
+    {
+      "word": "punto",
+      "start": 20.664,
+      "end": 21.103
+    },
+    {
+      "word": "de",
+      "start": 21.103,
+      "end": 21.543
+    },
+    {
+      "word": "unión",
+      "start": 21.543,
+      "end": 21.983
+    },
+    {
+      "word": "(x=2),",
+      "start": 21.983,
+      "end": 22.422
+    },
+    {
+      "word": "el",
+      "start": 22.422,
+      "end": 22.862
+    },
+    {
+      "word": "valor",
+      "start": 22.862,
+      "end": 23.302
+    },
+    {
+      "word": "por",
+      "start": 23.302,
+      "end": 23.741
+    },
+    {
+      "word": "la",
+      "start": 23.741,
+      "end": 24.181
+    },
+    {
+      "word": "izquierda",
+      "start": 24.181,
+      "end": 24.621
+    },
+    {
+      "word": "(primer",
+      "start": 24.621,
+      "end": 25.06
+    },
+    {
+      "word": "tramo)",
+      "start": 25.06,
+      "end": 25.5
+    },
+    {
+      "word": "debe",
+      "start": 25.5,
+      "end": 25.94
+    },
+    {
+      "word": "ser",
+      "start": 25.94,
+      "end": 26.379
+    },
+    {
+      "word": "igual",
+      "start": 26.379,
+      "end": 26.819
+    },
+    {
+      "word": "al",
+      "start": 26.819,
+      "end": 27.259
+    },
+    {
+      "word": "valor",
+      "start": 27.259,
+      "end": 27.698
+    },
+    {
+      "word": "por",
+      "start": 27.698,
+      "end": 28.138
+    },
+    {
+      "word": "la",
+      "start": 28.138,
+      "end": 28.578
+    },
+    {
+      "word": "derecha",
+      "start": 28.578,
+      "end": 29.017
+    },
+    {
+      "word": "(segundo",
+      "start": 29.017,
+      "end": 29.457
+    },
+    {
+      "word": "tramo).",
+      "start": 29.457,
+      "end": 29.897
+    },
+    {
+      "word": "f(2)_izq",
+      "start": 29.897,
+      "end": 30.336
+    },
+    {
+      "word": "=",
+      "start": 30.336,
+      "end": 30.776
+    },
+    {
+      "word": "2^2",
+      "start": 30.776,
+      "end": 31.216
+    },
+    {
+      "word": "+",
+      "start": 31.216,
+      "end": 31.655
+    },
+    {
+      "word": "1",
+      "start": 31.655,
+      "end": 32.095
+    },
+    {
+      "word": "=",
+      "start": 32.095,
+      "end": 32.534
+    },
+    {
+      "word": "5.",
+      "start": 32.534,
+      "end": 32.974
+    },
+    {
+      "word": "f(2)_der",
+      "start": 32.974,
+      "end": 33.414
+    },
+    {
+      "word": "=",
+      "start": 33.414,
+      "end": 33.853
+    },
+    {
+      "word": "2(2)",
+      "start": 33.853,
+      "end": 34.293
+    },
+    {
+      "word": "+",
+      "start": 34.293,
+      "end": 34.733
+    },
+    {
+      "word": "k",
+      "start": 34.733,
+      "end": 35.172
+    },
+    {
+      "word": "=",
+      "start": 35.172,
+      "end": 35.612
+    },
+    {
+      "word": "4",
+      "start": 35.612,
+      "end": 36.052
+    },
+    {
+      "word": "+",
+      "start": 36.052,
+      "end": 36.491
+    },
+    {
+      "word": "k.",
+      "start": 36.491,
+      "end": 36.931
+    },
+    {
+      "word": "Igualamos:",
+      "start": 36.931,
+      "end": 37.371
+    },
+    {
+      "word": "5",
+      "start": 37.371,
+      "end": 37.81
+    },
+    {
+      "word": "=",
+      "start": 37.81,
+      "end": 38.25
+    },
+    {
+      "word": "4",
+      "start": 38.25,
+      "end": 38.69
+    },
+    {
+      "word": "+",
+      "start": 38.69,
+      "end": 39.129
+    },
+    {
+      "word": "k",
+      "start": 39.129,
+      "end": 39.569
+    },
+    {
+      "word": "k",
+      "start": 39.569,
+      "end": 40.009
+    },
+    {
+      "word": "=",
+      "start": 40.009,
+      "end": 40.448
+    },
+    {
+      "word": "1.",
+      "start": 40.448,
+      "end": 40.888
+    },
+    {
+      "word": "Con",
+      "start": 40.888,
+      "end": 41.328
+    },
+    {
+      "word": "este",
+      "start": 41.328,
+      "end": 41.767
+    },
+    {
+      "word": "valor,",
+      "start": 41.767,
+      "end": 42.207
+    },
+    {
+      "word": "los",
+      "start": 42.207,
+      "end": 42.647
+    },
+    {
+      "word": "dos",
+      "start": 42.647,
+      "end": 43.086
+    },
+    {
+      "word": "trozos",
+      "start": 43.086,
+      "end": 43.526
+    },
+    {
+      "word": "de",
+      "start": 43.526,
+      "end": 43.966
+    },
+    {
+      "word": "la",
+      "start": 43.966,
+      "end": 44.405
+    },
+    {
+      "word": "gráfica",
+      "start": 44.405,
+      "end": 44.845
+    },
+    {
+      "word": "se",
+      "start": 44.845,
+      "end": 45.284
+    },
+    {
+      "word": "\"pegan\"",
+      "start": 45.284,
+      "end": 45.724
+    },
+    {
+      "word": "perfectamente",
+      "start": 45.724,
+      "end": 46.164
+    },
+    {
+      "word": "sin",
+      "start": 46.164,
+      "end": 46.603
+    },
+    {
+      "word": "dejar",
+      "start": 46.603,
+      "end": 47.043
+    },
+    {
+      "word": "saltos..",
+      "start": 47.043,
+      "end": 47.483
+    },
+    {
+      "word": "Compara",
+      "start": 47.483,
+      "end": 47.922
+    },
+    {
+      "word": "con",
+      "start": 47.922,
+      "end": 48.362
+    },
+    {
+      "word": "tus",
+      "start": 48.362,
+      "end": 48.802
+    },
+    {
+      "word": "opciones",
+      "start": 48.802,
+      "end": 49.241
+    },
+    {
+      "word": "y",
+      "start": 49.241,
+      "end": 49.681
+    },
+    {
+      "word": "confirma",
+      "start": 49.681,
+      "end": 50.121
+    },
+    {
+      "word": "la",
+      "start": 50.121,
+      "end": 50.56
+    },
+    {
+      "word": "respuesta.",
+      "start": 50.56,
+      "end": 51.0
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Sin Conexión | SaberParaTodos">
+  <div class="min-h-screen flex flex-col items-center justify-center bg-[#121212] text-[#F5F5DC] p-4 text-center">
+    <div class="mb-8 text-emerald-500 opacity-80">
+      <svg class="w-24 h-24 mx-auto" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 15a4 4 0 004 4h9a5 5 0 10-.1-9.999 5.002 5.002 0 10-9.78 2.096A4.001 4.001 0 003 15z" />
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 12l4 4m0-4l-4 4" />
+      </svg>
+    </div>
+
+    <h1 class="text-4xl font-bold uppercase tracking-widest mb-4">Sin Conexión</h1>
+    <p class="text-lg opacity-60 max-w-md mx-auto mb-8">
+      Parece que no tienes acceso a internet. Revisa tu conexión e intenta nuevamente.
+    </p>
+
+    <a
+      href="/practica"
+      class="px-6 py-3 bg-emerald-500/10 border border-emerald-500/50 text-emerald-500 font-bold uppercase tracking-widest text-sm rounded hover:bg-emerald-500/20 transition-colors"
+    >
+      Reintentar
+    </a>
+  </div>
+</Layout>

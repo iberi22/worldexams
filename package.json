@@ -1,0 +1,34 @@
+{
+  "name": "worldexams",
+  "private": true,
+  "type": "module",
+  "version": "0.10.0",
+  "description": "WorldExams private prelaunch monorepo",
+  "workspaces": [
+    "apps/worldexams-site",
+    "saberparatodos",
+    "apps/worldexams-api",
+    "tests"
+  ],
+  "scripts": {
+    "dev": "npm run dev:worldexams-site",
+    "dev:worldexams-site": "npm run dev -w @worldexams/worldexams-site",
+    "dev:saberparatodos": "npm run dev -w saberparatodos",
+    "dev:worldexams-api": "npm run dev -w @worldexams/worldexams-api",
+    "start": "npm run dev:worldexams-site",
+    "build": "npm run build:worldexams-site",
+    "build:worldexams-site": "npm run build -w @worldexams/worldexams-site",
+    "build:saberparatodos": "npm run build -w saberparatodos",
+    "build:worldexams-api": "npm run build -w @worldexams/worldexams-api",
+    "build:workspaces": "npm run build:worldexams-site && npm run build:saberparatodos && npm run build:worldexams-api",
+    "generate-api": "powershell -File scripts/generate-questions-api.ps1",
+    "preview": "npm run preview -w @worldexams/worldexams-site",
+    "test:e2e": "npm run test -w worldexams-e2e-tests",
+    "astro": "npm run astro -w @worldexams/worldexams-site"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^20.10.0",
+    "typescript": "^5.9.3"
+  }
+}

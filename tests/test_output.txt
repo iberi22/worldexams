@@ -1,0 +1,321 @@
+
+Running 24 tests using 1 worker
+
+  Ô£ÿ   1 [chromium] ÔÇ║ e2e-security-performance.test.ts:25:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 1.1 - Guest access sin JWT debe funcionar (2.0s)
+  Ô£ÿ   2 [chromium] ÔÇ║ e2e-security-performance.test.ts:43:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 1.2 - Guest debe recibir m├íximo 10 preguntas (665ms)
+  Ô£ÿ   3 [chromium] ÔÇ║ e2e-security-performance.test.ts:60:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 1.3 - Respuesta debe incluir campo is_guest (606ms)
+  Ô£ÿ   4 [chromium] ÔÇ║ e2e-security-performance.test.ts:78:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 2.1 - Bulk endpoint debe retornar m├║ltiples grados (2.1s)
+  Ô£ô   5 [chromium] ÔÇ║ e2e-security-performance.test.ts:99:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 2.2 - Bulk endpoint debe respetar l├¡mite (1.2s)
+  Ô£ÿ   6 [chromium] ÔÇ║ e2e-security-performance.test.ts:113:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 2.3 - Bulk endpoint debe incluir metadata correcta (782ms)
+  Ô£ÿ   7 [chromium] ÔÇ║ e2e-security-performance.test.ts:135:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 3.1 - M├║ltiples requests dentro del l├¡mite deben funcionar (760ms)
+  -   8 [chromium] ÔÇ║ e2e-security-performance.test.ts:154:8 ÔÇ║ Security & Performance Improvements ÔÇ║ 3.2 - Request 101 debe retornar 429 (Too Many Requests)
+  Ô£ô   9 [chromium] ÔÇ║ e2e-security-performance.test.ts:178:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 4.1 - Guest requests deben tener cache p├║blico (1.1s)
+  Ô£ÿ  10 [chromium] ÔÇ║ e2e-security-performance.test.ts:189:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 4.2 - Headers de seguridad CSP deben estar presentes (2.7s)
+  Ô£ô  11 [chromium] ÔÇ║ e2e-security-performance.test.ts:210:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 5.1 - Par├ímetros inv├ílidos deben retornar error 400 (418ms)
+  Ô£ô  12 [chromium] ÔÇ║ e2e-security-performance.test.ts:222:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 5.2 - Country code inv├ílido debe retornar error (434ms)
+  Ô£ÿ  13 [chromium] ÔÇ║ e2e-security-performance.test.ts:234:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 5.3 - Subject vac├¡o debe retornar error (389ms)
+  Ô£ÿ  14 [chromium] ÔÇ║ e2e-security-performance.test.ts:250:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 6.1 - Blog View debe cargar en menos de 3 segundos (30.4s)
+  Ô£ÿ  15 [chromium] ÔÇ║ e2e-security-performance.test.ts:268:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 6.2 - Blog View debe hacer solo 1 request al backend (30.4s)
+  Ô£ÿ  16 [chromium] ÔÇ║ e2e-security-performance.test.ts:297:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 7.1 - Edge Function debe responder en menos de 500ms (p95) (9.4s)
+  Ô£ÿ  17 [chromium] ÔÇ║ e2e-security-performance.test.ts:314:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 7.2 - Bulk endpoint debe responder en menos de 1 segundo (4.2s)
+  Ô£ô  18 [chromium] ÔÇ║ e2e-security-performance.test.ts:335:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 8.1 - Edge Function debe manejar errores gracefully (359ms)
+  Ô£ô  19 [chromium] ÔÇ║ e2e-security-performance.test.ts:348:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 8.2 - Respuestas de error deben incluir mensaje descriptivo (187ms)
+  -  20 [chromium] ÔÇ║ e2e-security-performance.test.ts:369:8 ÔÇ║ Security & Performance Improvements ÔÇ║ 9.1 - Static API debe retornar 410 (Gone)
+  Ô£ÿ  21 [chromium] ÔÇ║ e2e-security-performance.test.ts:384:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 10.1 - Guest requests deben registrarse en rate_limits table (401ms)
+  Ô£ÿ  22 [chromium] ÔÇ║ e2e-security-performance.test.ts:404:7 ÔÇ║ Regression Tests - No Breaking Changes ÔÇ║ REG-1: Exam submission sigue funcionando (30.4s)
+  Ô£ô  23 [chromium] ÔÇ║ e2e-security-performance.test.ts:415:7 ÔÇ║ Regression Tests - No Breaking Changes ÔÇ║ REG-2: Party Mode sigue funcionando (1.8s)
+  Ô£ô  24 [chromium] ÔÇ║ e2e-security-performance.test.ts:429:7 ÔÇ║ Regression Tests - No Breaking Changes ÔÇ║ REG-3: Leaderboard sigue funcionando (1.8s)
+
+
+  1) [chromium] ÔÇ║ e2e-security-performance.test.ts:25:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 1.1 - Guest access sin JWT debe funcionar 
+
+    Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+    Expected: [32m200[39m
+    Received: [31m404[39m
+
+      33 |     });
+      34 |
+    > 35 |     expect(response.status()).toBe(200);
+         |                               ^
+      36 |
+      37 |     const data = await response.json();
+      38 |     expect(data.is_guest).toBe(true);
+        at E:\scripts-python\worldexams\tests\e2e-security-performance.test.ts:35:31
+
+  2) [chromium] ÔÇ║ e2e-security-performance.test.ts:43:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 1.2 - Guest debe recibir m├íximo 10 preguntas 
+
+    Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+    Expected: [32m200[39m
+    Received: [31m404[39m
+
+      51 |     });
+      52 |
+    > 53 |     expect(response.status()).toBe(200);
+         |                               ^
+      54 |
+      55 |     const data = await response.json();
+      56 |     expect(data.is_guest).toBe(true);
+        at E:\scripts-python\worldexams\tests\e2e-security-performance.test.ts:53:31
+
+  3) [chromium] ÔÇ║ e2e-security-performance.test.ts:60:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 1.3 - Respuesta debe incluir campo is_guest 
+
+    Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoHaveProperty[2m([22m[32mpath[39m[2m)[22m
+
+    Expected path: [32m"is_guest"[39m
+    Received path: [31m[][39m
+
+    Received value: [31m{"details": "{}", "error": "Questions not found", "message": "No se encontraron preguntas para: matematicas grado 5, p├ígina 1"}[39m
+
+      68 |
+      69 |     const data = await response.json();
+    > 70 |     expect(data).toHaveProperty('is_guest');
+         |                  ^
+      71 |     expect(typeof data.is_guest).toBe('boolean');
+      72 |   });
+      73 |
+        at E:\scripts-python\worldexams\tests\e2e-security-performance.test.ts:70:18
+
+  4) [chromium] ÔÇ║ e2e-security-performance.test.ts:78:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 2.1 - Bulk endpoint debe retornar m├║ltiples grados 
+
+    Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoBeGreaterThanOrEqual[2m([22m[32mexpected[39m[2m)[22m
+
+    Expected: >= [32m50[39m
+    Received:    [31m0[39m
+
+      89 |
+      90 |     const data = await response.json();
+    > 91 |     expect(data.total_questions).toBeGreaterThanOrEqual(50);
+         |                                  ^
+      92 |     expect(data.questions).toBeInstanceOf(Array);
+      93 |
+      94 |     // Verificar que hay preguntas de diferentes grados
+        at E:\scripts-python\worldexams\tests\e2e-security-performance.test.ts:91:34
+
+  5) [chromium] ÔÇ║ e2e-security-performance.test.ts:113:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 2.3 - Bulk endpoint debe incluir metadata correcta 
+
+    Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoHaveProperty[2m([22m[32mpath[39m[2m)[22m
+
+    Expected path: [32m"grades"[39m
+    Received path: [31m[][39m
+
+    Received value: [31m{"is_guest": true, "meta": {"cached_until": "2025-12-18T18:47:53.716Z", "country": "co", "exam_type": "icfes", "grades": ["11"], "limit": 50}, "mode": "sample", "questions": [], "success": true, "total_questions": 0}[39m
+
+      123 |     const data = await response.json();
+      124 |     expect(data).toHaveProperty('total_questions');
+    > 125 |     expect(data).toHaveProperty('grades');
+          |                  ^
+      126 |     expect(data).toHaveProperty('subjects');
+      127 |     expect(data).toHaveProperty('country');
+      128 |     expect(data.country).toBe('CO');
+        at E:\scripts-python\worldexams\tests\e2e-security-performance.test.ts:125:18
+
+  6) [chromium] ÔÇ║ e2e-security-performance.test.ts:135:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 3.1 - M├║ltiples requests dentro del l├¡mite deben funcionar 
+
+    Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoContain[2m([22m[32mexpected[39m[2m) // indexOf[22m
+
+    Expected value: [32m404[39m
+    Received array: [31m[200, 429][39m
+
+      148 |     // Todos deben ser 200 (a├║n dentro del l├¡mite de 100/hr)
+      149 |     responses.forEach(response => {
+    > 150 |       expect([200, 429]).toContain(response.status());
+          |                          ^
+      151 |     });
+      152 |   });
+      153 |
+        at forEach (E:\scripts-python\worldexams\tests\e2e-security-performance.test.ts:150:26)
+        at E:\scripts-python\worldexams\tests\e2e-security-performance.test.ts:149:15
+
+  7) [chromium] ÔÇ║ e2e-security-performance.test.ts:189:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 4.2 - Headers de seguridad CSP deben estar presentes 
+
+    Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+    Expected: [32m"DENY"[39m
+    Received: [31mundefined[39m
+
+      201 |     // Verificar otros headers de seguridad
+      202 |     expect(headers['x-content-type-options']).toBe('nosniff');
+    > 203 |     expect(headers['x-frame-options']).toBe('DENY');
+          |                                        ^
+      204 |   });
+      205 |
+      206 |   // ============================================
+        at E:\scripts-python\worldexams\tests\e2e-security-performance.test.ts:203:40
+
+    attachment #1: screenshot (image/png) ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇ
+    test-results\e2e-security-performance-S-caf65-d-CSP-deben-estar-presentes-chromium\test-failed-1.png
+    ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇ
+
+    attachment #2: video (video/webm) ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇ
+    test-results\e2e-security-performance-S-caf65-d-CSP-deben-estar-presentes-chromium\video.webm
+    ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇ
+
+    Error Context: test-results\e2e-security-performance-S-caf65-d-CSP-deben-estar-presentes-chromium\error-context.md
+
+  8) [chromium] ÔÇ║ e2e-security-performance.test.ts:234:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 5.3 - Subject vac├¡o debe retornar error 
+
+    Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoContain[2m([22m[32mexpected[39m[2m) // indexOf[22m
+
+    Expected value: [32m404[39m
+    Received array: [31m[400, 422][39m
+
+      241 |     });
+      242 |
+    > 243 |     expect([400, 422]).toContain(response.status());
+          |                        ^
+      244 |   });
+      245 |
+      246 |   // ============================================
+        at E:\scripts-python\worldexams\tests\e2e-security-performance.test.ts:243:24
+
+  9) [chromium] ÔÇ║ e2e-security-performance.test.ts:250:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 6.1 - Blog View debe cargar en menos de 3 segundos 
+
+    [31mTest timeout of 30000ms exceeded.[39m
+
+    Error: locator.click: Test timeout of 30000ms exceeded.
+    Call log:
+    [2m  - waiting for locator('button:has-text("Blog")').or(locator('a:has-text("Blog")'))[22m
+
+
+      255 |     // Click en bot├│n Blog
+      256 |     const blogButton = page.locator('button:has-text("Blog")').or(page.locator('a:has-text("Blog")'));
+    > 257 |     await blogButton.click();
+          |                      ^
+      258 |
+      259 |     // Esperar a que carguen las preguntas
+      260 |     await page.waitForSelector('[data-testid="blog-questions"], .question-card', { timeout: 5000 });
+        at E:\scripts-python\worldexams\tests\e2e-security-performance.test.ts:257:22
+
+    attachment #1: screenshot (image/png) ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇ
+    test-results\e2e-security-performance-S-30be0-rgar-en-menos-de-3-segundos-chromium\test-failed-1.png
+    ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇ
+
+    attachment #2: video (video/webm) ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇ
+    test-results\e2e-security-performance-S-30be0-rgar-en-menos-de-3-segundos-chromium\video.webm
+    ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇ
+
+    Error Context: test-results\e2e-security-performance-S-30be0-rgar-en-menos-de-3-segundos-chromium\error-context.md
+
+  10) [chromium] ÔÇ║ e2e-security-performance.test.ts:268:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 6.2 - Blog View debe hacer solo 1 request al backend 
+
+    [31mTest timeout of 30000ms exceeded.[39m
+
+    Error: locator.click: Test timeout of 30000ms exceeded.
+    Call log:
+    [2m  - waiting for locator('button:has-text("Blog")').or(locator('a:has-text("Blog")'))[22m
+
+
+      280 |     // Click en Blog
+      281 |     const blogButton = page.locator('button:has-text("Blog")').or(page.locator('a:has-text("Blog")'));
+    > 282 |     await blogButton.click();
+          |                      ^
+      283 |
+      284 |     await page.waitForTimeout(2000);
+      285 |
+        at E:\scripts-python\worldexams\tests\e2e-security-performance.test.ts:282:22
+
+    attachment #1: screenshot (image/png) ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇ
+    test-results\e2e-security-performance-S-7a462-r-solo-1-request-al-backend-chromium\test-failed-1.png
+    ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇ
+
+    attachment #2: video (video/webm) ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇ
+    test-results\e2e-security-performance-S-7a462-r-solo-1-request-al-backend-chromium\video.webm
+    ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇ
+
+    Error Context: test-results\e2e-security-performance-S-7a462-r-solo-1-request-al-backend-chromium\error-context.md
+
+  11) [chromium] ÔÇ║ e2e-security-performance.test.ts:297:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 7.1 - Edge Function debe responder en menos de 500ms (p95) 
+
+    Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoBeLessThan[2m([22m[32mexpected[39m[2m)[22m
+
+    Expected: < [32m500[39m
+    Received:   [31m732[39m
+
+      309 |     const p95 = times[Math.floor(times.length * 0.95)];
+      310 |
+    > 311 |     expect(p95).toBeLessThan(500);
+          |                 ^
+      312 |   });
+      313 |
+      314 |   test('7.2 - Bulk endpoint debe responder en menos de 1 segundo', async ({ request }) => {
+        at E:\scripts-python\worldexams\tests\e2e-security-performance.test.ts:311:17
+
+  12) [chromium] ÔÇ║ e2e-security-performance.test.ts:314:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 7.2 - Bulk endpoint debe responder en menos de 1 segundo 
+
+    Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoBeLessThan[2m([22m[32mexpected[39m[2m)[22m
+
+    Expected: < [32m1000[39m
+    Received:   [31m4170[39m
+
+      326 |     const responseTime = Date.now() - start;
+      327 |
+    > 328 |     expect(responseTime).toBeLessThan(1000);
+          |                          ^
+      329 |   });
+      330 |
+      331 |   // ============================================
+        at E:\scripts-python\worldexams\tests\e2e-security-performance.test.ts:328:26
+
+  13) [chromium] ÔÇ║ e2e-security-performance.test.ts:384:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 10.1 - Guest requests deben registrarse en rate_limits table 
+
+    Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+    Expected: [32m200[39m
+    Received: [31m404[39m
+
+      388 |     });
+      389 |
+    > 390 |     expect(response.status()).toBe(200);
+          |                               ^
+      391 |
+      392 |     // NOTA: Verificaci├│n de DB requiere acceso directo a Supabase
+      393 |     // Este test solo confirma que el request fue exitoso
+        at E:\scripts-python\worldexams\tests\e2e-security-performance.test.ts:390:31
+
+  14) [chromium] ÔÇ║ e2e-security-performance.test.ts:404:7 ÔÇ║ Regression Tests - No Breaking Changes ÔÇ║ REG-1: Exam submission sigue funcionando 
+
+    [31mTest timeout of 30000ms exceeded.[39m
+
+    Error: locator.click: Test timeout of 30000ms exceeded.
+    Call log:
+    [2m  - waiting for locator('button:has-text("Comenzar")').first()[22m
+
+
+      407 |     // Iniciar examen
+      408 |     const startButton = page.locator('button:has-text("Comenzar")').first();
+    > 409 |     await startButton.click();
+          |                       ^
+      410 |
+      411 |     // Debe cargar preguntas
+      412 |     await page.waitForSelector('[data-testid="question"], .question-container', { timeout: 5000 });
+        at E:\scripts-python\worldexams\tests\e2e-security-performance.test.ts:409:23
+
+    attachment #1: screenshot (image/png) ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇ
+    test-results\e2e-security-performance-R-cd24b-ubmission-sigue-funcionando-chromium\test-failed-1.png
+    ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇ
+
+    attachment #2: video (video/webm) ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇ
+    test-results\e2e-security-performance-R-cd24b-ubmission-sigue-funcionando-chromium\video.webm
+    ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇ
+
+    Error Context: test-results\e2e-security-performance-R-cd24b-ubmission-sigue-funcionando-chromium\error-context.md
+
+  14 failed
+    [chromium] ÔÇ║ e2e-security-performance.test.ts:25:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 1.1 - Guest access sin JWT debe funcionar 
+    [chromium] ÔÇ║ e2e-security-performance.test.ts:43:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 1.2 - Guest debe recibir m├íximo 10 preguntas 
+    [chromium] ÔÇ║ e2e-security-performance.test.ts:60:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 1.3 - Respuesta debe incluir campo is_guest 
+    [chromium] ÔÇ║ e2e-security-performance.test.ts:78:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 2.1 - Bulk endpoint debe retornar m├║ltiples grados 
+    [chromium] ÔÇ║ e2e-security-performance.test.ts:113:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 2.3 - Bulk endpoint debe incluir metadata correcta 
+    [chromium] ÔÇ║ e2e-security-performance.test.ts:135:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 3.1 - M├║ltiples requests dentro del l├¡mite deben funcionar 
+    [chromium] ÔÇ║ e2e-security-performance.test.ts:189:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 4.2 - Headers de seguridad CSP deben estar presentes 
+    [chromium] ÔÇ║ e2e-security-performance.test.ts:234:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 5.3 - Subject vac├¡o debe retornar error 
+    [chromium] ÔÇ║ e2e-security-performance.test.ts:250:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 6.1 - Blog View debe cargar en menos de 3 segundos 
+    [chromium] ÔÇ║ e2e-security-performance.test.ts:268:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 6.2 - Blog View debe hacer solo 1 request al backend 
+    [chromium] ÔÇ║ e2e-security-performance.test.ts:297:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 7.1 - Edge Function debe responder en menos de 500ms (p95) 
+    [chromium] ÔÇ║ e2e-security-performance.test.ts:314:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 7.2 - Bulk endpoint debe responder en menos de 1 segundo 
+    [chromium] ÔÇ║ e2e-security-performance.test.ts:384:7 ÔÇ║ Security & Performance Improvements ÔÇ║ 10.1 - Guest requests deben registrarse en rate_limits table 
+    [chromium] ÔÇ║ e2e-security-performance.test.ts:404:7 ÔÇ║ Regression Tests - No Breaking Changes ÔÇ║ REG-1: Exam submission sigue funcionando 
+  2 skipped
+  8 passed (2.3m)

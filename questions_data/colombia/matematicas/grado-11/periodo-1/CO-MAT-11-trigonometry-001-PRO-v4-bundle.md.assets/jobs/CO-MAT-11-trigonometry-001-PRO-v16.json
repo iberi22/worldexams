@@ -1,0 +1,63 @@
+{
+  "protocol_version": "4.1",
+  "country": "co",
+  "grade": 11,
+  "period": 1,
+  "subject": "matematicas",
+  "topic": "Trigonometría Avanzada e Identidades Fundamentales",
+  "bundle_file": "CO-MAT-11-trigonometry-001-PRO-v4-bundle.md",
+  "bundle_assets_dir": "src/content/questions/colombia/matematicas/grado-11/periodo-1/CO-MAT-11-trigonometry-001-PRO-v4-bundle.md.assets",
+  "question_id": "CO-MAT-11-trigonometry-001-PRO-v16",
+  "question_type": "single",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "total_seconds": 15,
+    "intro_seconds": 3,
+    "explanation_seconds": 9,
+    "outro_seconds": 3
+  },
+  "branding": {
+    "intro": [
+      "worldexams",
+      "saberparatodos"
+    ],
+    "outro": [
+      "worldexams",
+      "saberparatodos"
+    ]
+  },
+  "content": {
+    "statement": "Dos ondas sonoras interfieren según la expresión $y = \\sin(x) + \\cos(x)$. Use identidades para expresar esta suma como una única función seno con un desfase.",
+    "explanation": "Usamos la forma $A \\sin(x + \\phi)$.\r\n$A = \\sqrt{1^2 + 1^2} = \\sqrt{2}$.\r\n$\\tan\\phi = \\frac{coef\\ cos}{coef\\ sin} = 1/1 = 1 \\to \\phi = \\pi/4$.\r\nSoberia: $y = \\sqrt{2}\\sin(x + \\pi/4)$. Esto explica por qué el volumen de dos altavoces no es simplemente el doble, sino que depende de la fase.",
+    "narration_script": "Vamos a resolver esta pregunta en tres pasos. Paso uno, identifica los datos del enunciado. Paso dos, plantea la operación o ecuación correcta. Paso tres, verifica el resultado y confirma la opción final. Usamos la forma $A \\sin(x + \\phi)$.\r\n$A = \\sqrt{1^2 + 1^2} = \\sqrt{2}$.\r\n$\\tan\\phi = \\frac{coef\\ cos}{coef\\ sin} = 1/1 = 1 \\to \\phi = \\pi/4$.\r\nSoberia: $y = \\sqrt{2}\\sin(x + \\pi/4)$. Esto explica por qué el volumen de dos altavoces no es simplemente el doble, sino que depende de la fase."
+  },
+  "audio": {
+    "tts_engine": "xtts-v2-local",
+    "align_engine": "whisperx",
+    "fallback_engine": "piper"
+  },
+  "outputs": {
+    "final_video_path": "renders/CO-MAT-11-trigonometry-001-PRO-v16.mp4",
+    "audio_path": "audio/CO-MAT-11-trigonometry-001-PRO-v16.mp3",
+    "timings_path": "timings/CO-MAT-11-trigonometry-001-PRO-v16.json",
+    "subtitles_path": "subtitles/CO-MAT-11-trigonometry-001-PRO-v16.srt"
+  },
+  "social": {
+    "youtube": {
+      "mode": "auto",
+      "status": "pending"
+    },
+    "instagram": {
+      "mode": "auto",
+      "status": "pending"
+    },
+    "tiktok": {
+      "mode": "manual_queue",
+      "status": "pending"
+    }
+  },
+  "status": "pending_generation",
+  "created_at": "2026-03-04T17:50:17.592Z"
+}

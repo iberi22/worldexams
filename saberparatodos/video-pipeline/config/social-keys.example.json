@@ -1,0 +1,21 @@
+{
+  "youtube": {
+    "enabled": true,
+    "client_id": "YOUR_CLIENT_ID",
+    "client_secret": "YOUR_CLIENT_SECRET",
+    "refresh_token": "YOUR_REFRESH_TOKEN",
+    "channel_id": "YOUR_CHANNEL_ID"
+  },
+  "instagram": {
+    "enabled": true,
+    "access_token": "YOUR_LONG_LIVED_TOKEN",
+    "ig_user_id": "YOUR_IG_USER_ID"
+  },
+  "tiktok": {
+    "enabled": true,
+    "client_key": "YOUR_CLIENT_KEY",
+    "client_secret": "YOUR_CLIENT_SECRET",
+    "access_token": "YOUR_ACCESS_TOKEN",
+    "mode": "manual_queue"
+  }
+}

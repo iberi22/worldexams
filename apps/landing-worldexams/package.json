@@ -1,0 +1,30 @@
+{
+  "name": "worldexams",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "World Exams - Practice exams for every nation",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "postbuild": "powershell -Command \"if (Test-Path api) { Copy-Item -Path api/* -Destination dist/api -Recurse -Force }\"",
+    "generate-api": "powershell -File scripts/generate-questions-api.ps1",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.9.6",
+    "@astrojs/sitemap": "^3.6.0",
+    "@astrojs/svelte": "^7.0.0",
+    "@astrojs/tailwind": "^6.0.0",
+    "astro": "^5.0.0",
+    "cobe": "^0.6.3",
+    "svelte": "^5.0.0",
+    "tailwindcss": "^3.4.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^20.10.0",
+    "typescript": "^5.9.3"
+  }
+}

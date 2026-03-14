@@ -1,0 +1,132 @@
+# ============================================
+# World Exams - Multi-Repo Architecture
+# ============================================
+# Estructura:
+#   - Raíz: Organización con múltiples plataformas de examen
+#   - saberparatodos/: Plataforma principal (Colombia Saber 11)
+#   - [otros-exams]/: Cada país/examen tiene su carpeta
+#   - src/content/questions/: Preguntas centralizadas (compartidas)
+# Deployment: Cloudflare Pages (cada plataforma por separado)
+# Protocol: v2.0 (bundles de 7 preguntas)
+# ============================================
+
+# Node
+node_modules/
+
+# Build
+dist/
+.astro/
+**/test-results/
+**/playwright-report/
+**/.wrangler/
+**/.claude/
+**/tests/evidence/
+
+# Large files
+*.zip
+*.png
+*.jpg
+*.mp4
+*.mov
+*.wav
+*.flac
+
+# Env
+.env
+.env.*
+!.env.example
+.mcp.json
+# config
+.vscode/
+# Saberparatodos Secrets
+saberparatodos/.env
+saberparatodos/.env.*
+saberparatodos/supabase/functions/.env
+saberparatodos/template-openicfes/.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Planning documents (hide from public)
+
+
+# ============================================
+# DOCUMENTOS INTERNOS (Privados)
+# Razón: Información estratégica, planificación, pricing
+# Fecha: 2025-12-12
+# ============================================
+
+# Documentos de planificación (sensibles)
+
+
+# Documentos de negocio (pricing, proyecciones)
+
+
+# Specs privadas (arquitectura interna)
+
+
+# Reportes internos
+audit_log.txt
+*.log
+**/lint_errors.txt
+**/anomaly_log.csv
+**/grade*.json
+colleges.csv
+16-octubre-cuadernillo-ingles-saber-11-2024.pdf
+
+
+
+# ============================================
+# DEPRECATED: Host App (Android Tauri) + Party Server Rust
+# Razón: Reemplazado por arquitectura 100% web (PWA)
+# Fecha: 2025-12-11
+# Ver: docs/PARTY_MODE_WEB_ARCHITECTURE.md
+# FASE FINAL: Desarrollo nativo Android/iOS (futuro)
+# ============================================
+host-app/
+party-server-rust/
+party-server-cloud/
+
+# GitHub Actions para builds Rust (deprecated)
+# .github/workflows/build-party-server.yml
+
+# Submodules (will manage separately)
+# worldexams.github.io/
+# question-bank/
+# question-sync/
+#🔒 PRIVADO repo aparte privado
+
+# ============================================
+# PREMIUM CONTENT (Repositorio Privado)
+# Razón: Contenido comercial v2-v7 en repo separado
+# Fecha: 2025-12-12
+# ============================================
+
+# Preguntas premium (v2-v7) están en submodule privado
+# Repo: iberi22/worldexams-premium
+# src/content/
+# **/questions-premium/
+# temp/premium-questions/
+
+# Bundles completos (v1-v7) - Solo versiones PUBLIC se commitean
+
+
+# Solo archivos PUBLIC se incluyen en repo público
+!*-PUBLIC.md
+
+# ============================================
+# INTELLECTUAL PROPERTY PROTECTION
+# ============================================
+# Question Bank (Source of Truth)
+
+
+# Generated API Data (JSONs)
+saberparatodos/public
+
+# Video pipeline assets (keep metadata, ignore heavy media binaries)
+saberparatodos/src/content/questions/**/*.md.assets/renders/*.mp4
+saberparatodos/src/content/questions/**/*.md.assets/audio/*.mp3
+saberparatodos/src/content/questions/**/*.md.assets/audio/*.wav
+saberparatodos/video-pipeline/config/social-keys.local.json
+saberparatodos/video-pipeline/config/local-engines.local.json

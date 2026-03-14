@@ -1,0 +1,565 @@
+---
+import Layout from '../layouts/Layout.astro';
+import CreditBalance from '../components/CreditBalance.svelte';
+
+const title = 'Sala de Entrenamiento | Saber Para Todos';
+const description = 'Entrena con IA adaptativa y contenido personalizado';
+---
+
+<Layout title={title} description={description}>
+  <!-- Background Elements (Same as Index) -->
+  <div class="bg-noise"></div>
+  <div class="hero-gradient"></div>
+  <div class="particles">
+    <div class="particle particle-1"></div>
+    <div class="particle particle-2"></div>
+    <div class="particle particle-3"></div>
+  </div>
+
+  <div class="training-container relative z-10">
+    <header class="training-header">
+      <h1>🎯 Sala de Entrenamiento</h1>
+      <p class="subtitle">Aprendizaje adaptativo impulsado por IA</p>
+
+      <CreditBalance client:load />
+    </header>
+
+    <div class="training-grid">
+      <!-- Topic Selector -->
+      <section class="selector-card">
+        <h2>📚 Elige tu tema</h2>
+        <p class="hint">Basado en tus debilidades detectadas</p>
+
+        <div class="topic-list" id="topic-selector">
+          <button class="topic-btn recommended active" data-topic="algebra">
+            <span class="icon">⚠️</span>
+            <div>
+              <strong>Álgebra Lineal</strong>
+              <small>Rendimiento: 45%</small>
+            </div>
+          </button>
+
+          <button class="topic-btn" data-topic="estadistica">
+            <span class="icon">📊</span>
+            <div>
+              <strong>Estadística</strong>
+              <small>Rendimiento: 67%</small>
+            </div>
+          </button>
+
+          <button class="topic-btn" data-topic="geometria">
+            <span class="icon">🔺</span>
+            <div>
+              <strong>Geometría</strong>
+              <small>Rendimiento: 78%</small>
+            </div>
+          </button>
+
+          <button class="topic-btn" data-topic="lectura-critica">
+            <span class="icon">📖</span>
+            <div>
+              <strong>Lectura Crítica</strong>
+              <small>Rendimiento: 52%</small>
+            </div>
+          </button>
+        </div>
+      </section>
+
+      <!-- Style Selector -->
+      <section class="selector-card">
+        <h2>🎨 Estilo Visual</h2>
+        <p class="hint">Personaliza cómo se ve tu contenido</p>
+
+        <div class="style-grid">
+          <button class="style-btn" data-style="cyberpunk">
+            <div class="preview cyberpunk-preview"></div>
+            <span>Cyberpunk</span>
+          </button>
+
+          <button class="style-btn active" data-style="minimalist">
+            <div class="preview minimalist-preview"></div>
+            <span>Minimalista</span>
+          </button>
+
+          <button class="style-btn" data-style="anime">
+            <div class="preview anime-preview"></div>
+            <span>Anime</span>
+          </button>
+
+          <button class="style-btn" data-style="default">
+            <div class="preview default-preview"></div>
+            <span>Clásico</span>
+          </button>
+        </div>
+      </section>
+    </div>
+
+    <!-- Start Button -->
+    <div class="start-section">
+      <button class="start-btn" id="start-training">
+        🚀 Comenzar Entrenamiento
+      </button>
+      <p class="cost-info">Costo: 5 créditos por infografía generada</p>
+    </div>
+
+    <!-- Training Feed (Hidden initially) -->
+    <div class="training-feed" id="training-feed" style="display: none;">
+      <div class="feed-header">
+        <h3>📖 Sesión de Entrenamiento</h3>
+        <button class="end-btn" id="end-training">Finalizar</button>
+      </div>
+
+      <div class="messages" id="messages">
+        <!-- Messages will be inserted here dynamically -->
+      </div>
+
+      <div class="input-area">
+        <input
+          type="text"
+          placeholder="Pregunta algo o pide una explicación..."
+          id="user-input"
+        />
+        <button id="send-btn">Enviar</button>
+      </div>
+    </div>
+  </div>
+</Layout>
+
+<style>
+  .training-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+    color: #f5f5dc;
+  }
+
+  .training-header {
+    text-align: center;
+    margin-bottom: 3rem;
+  }
+
+  .training-header h1 {
+    font-size: 2.5rem;
+    font-family: 'Fira Code', monospace;
+    margin-bottom: 0.5rem;
+  }
+
+  .subtitle {
+    color: #a0a0a0;
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+  }
+
+  .training-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  .selector-card {
+    background: #1a1a1a;
+    border: 1px solid #333;
+    border-radius: 12px;
+    padding: 1.5rem;
+  }
+
+  .selector-card h2 {
+    font-size: 1.3rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .hint {
+    color: #a0a0a0;
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+  }
+
+  .topic-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .topic-btn {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem;
+    background: #222;
+    border: 1px solid #333;
+    border-radius: 8px;
+    color: #f5f5dc;
+    font-family: inherit;
+    cursor: pointer;
+    transition: all 0.2s;
+    text-align: left;
+  }
+
+  .topic-btn:hover,
+  .topic-btn.active {
+    background: #2a2a2a;
+    border-color: #fcd116;
+  }
+
+  .topic-btn.recommended {
+    border-color: #ff6b6b;
+    background: rgba(255, 107, 107, 0.1);
+  }
+
+  .topic-btn.recommended.active {
+    border-color: #fcd116;
+  }
+
+  .icon {
+    font-size: 1.5rem;
+  }
+
+  .topic-btn small {
+    display: block;
+    color: #a0a0a0;
+    font-size: 0.85rem;
+  }
+
+  .style-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+
+  .style-btn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 1rem;
+    background: #222;
+    border: 2px solid #333;
+    border-radius: 8px;
+    color: #f5f5dc;
+    font-family: inherit;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+
+  .style-btn:hover,
+  .style-btn.active {
+    border-color: #fcd116;
+  }
+
+  .preview {
+    width: 100%;
+    height: 60px;
+    border-radius: 6px;
+  }
+
+  .cyberpunk-preview {
+    background: linear-gradient(135deg, #0ff, #f0f);
+  }
+
+  .minimalist-preview {
+    background: #fff;
+  }
+
+  .anime-preview {
+    background: linear-gradient(135deg, #ff6b9d, #c44569);
+  }
+
+  .default-preview {
+    background: linear-gradient(135deg, #667eea, #764ba2);
+  }
+
+  .start-section {
+    text-align: center;
+    margin: 3rem 0;
+  }
+
+  .start-btn {
+    background: linear-gradient(135deg, #fcd116, #ff6b6b);
+    color: #000;
+    border: none;
+    padding: 1rem 3rem;
+    border-radius: 12px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    font-family: 'Fira Code', monospace;
+    cursor: pointer;
+    transition: transform 0.2s;
+  }
+
+  .start-btn:hover {
+    transform: scale(1.05);
+  }
+
+  .cost-info {
+    margin-top: 1rem;
+    color: #a0a0a0;
+    font-size: 0.9rem;
+  }
+
+  .training-feed {
+    background: #1a1a1a;
+    border: 1px solid #333;
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin-top: 2rem;
+  }
+
+  .feed-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #333;
+  }
+
+  .end-btn {
+    background: #ce1126;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+
+  .messages {
+    min-height: 300px;
+    max-height: 500px;
+    overflow-y: auto;
+    margin-bottom: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .message {
+    padding: 0.75rem 1rem;
+    border-radius: 8px;
+    max-width: 80%;
+  }
+
+  .message-system {
+    background: #2a2a2a;
+    color: #a0a0a0;
+    align-self: flex-start;
+  }
+
+  .message-user {
+    background: #003893;
+    color: white;
+    align-self: flex-end;
+  }
+
+  .message-question {
+    background: #1a1a1a;
+    border: 1px solid #fcd116;
+    color: #f5f5dc;
+    align-self: flex-start;
+  }
+
+  .message-error {
+    background: rgba(206, 17, 38, 0.2);
+    border: 1px solid #ce1126;
+    color: #ff6b6b;
+    align-self: flex-start;
+  }
+
+  .message-image {
+    background: transparent;
+    padding: 0;
+    align-self: center;
+    max-width: 100%;
+  }
+
+  .input-area {
+    display: flex;
+    gap: 0.5rem;
+  }
+
+  .input-area input {
+    flex: 1;
+    background: #222;
+    border: 1px solid #333;
+    border-radius: 8px;
+    padding: 0.75rem;
+    color: #f5f5dc;
+    font-family: inherit;
+  }
+
+  .input-area button {
+    background: #003893;
+    color: white;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+</style>
+
+<script>
+  import { startTrainingSession, generateInfographic } from '$lib/supabase';
+
+  // Client-side interactivity
+  document.addEventListener('DOMContentLoaded', () => {
+    const startBtn = document.getElementById('start-training') as HTMLButtonElement | null;
+    const trainingFeed = document.getElementById('training-feed') as HTMLDivElement | null;
+    const messagesDiv = document.getElementById('messages') as HTMLDivElement | null;
+    const endBtn = document.getElementById('end-training') as HTMLButtonElement | null;
+    const sendBtn = document.getElementById('send-btn') as HTMLButtonElement | null;
+    const userInput = document.getElementById('user-input') as HTMLInputElement | null;
+
+    interface TrainingSession {
+      session_id: string;
+      starting_difficulty: number;
+      recommended_topic: string;
+      performance_analysis: {
+        exams_analyzed: number;
+        avg_percentage: number;
+      };
+      initial_questions?: Array<{
+        enunciado?: string;
+        question_text?: string;
+      }>;
+    }
+
+    let currentSession: TrainingSession | null = null;
+    let selectedTopic = 'algebra'; // Default from UI
+    let selectedStyle = 'minimalist'; // Default from UI
+
+    // Topic selection
+    document.querySelectorAll('.topic-btn').forEach(btn => {
+      btn.addEventListener('click', (e: Event) => {
+        const target = e.currentTarget as HTMLButtonElement;
+        if (!target) return;
+
+        document.querySelectorAll('.topic-btn').forEach(b => b.classList.remove('active'));
+        target.classList.add('active');
+        selectedTopic = target.dataset.topic || 'algebra';
+      });
+    });
+
+    // Style selection
+    document.querySelectorAll('.style-btn').forEach(btn => {
+      btn.addEventListener('click', (e: Event) => {
+        const target = e.currentTarget as HTMLButtonElement;
+        if (!target) return;
+
+        document.querySelectorAll('.style-btn').forEach(b => b.classList.remove('active'));
+        target.classList.add('active');
+        selectedStyle = target.dataset.style || 'minimalist';
+      });
+    });
+
+    startBtn?.addEventListener('click', async () => {
+      if (!startBtn) return;
+
+      try {
+        startBtn.disabled = true;
+        startBtn.textContent = '⏳ Iniciando...';
+
+        // Call backend to start session
+        const response = await startTrainingSession('matematicas', selectedTopic) as TrainingSession;
+        currentSession = response;
+
+        // Show feed
+        if (trainingFeed) {
+          trainingFeed.style.display = 'block';
+        }
+
+        // Add welcome message
+        addMessage('system', `¡Sesión iniciada! 📊 Nivel de dificultad: ${response.starting_difficulty}/5. Tema recomendado: ${response.recommended_topic}. Has respondido ${response.performance_analysis.exams_analyzed} exámenes con un promedio de ${response.performance_analysis.avg_percentage}%.`);
+
+        // Show initial questions
+        if (response.initial_questions && response.initial_questions.length > 0) {
+          addMessage('system', `Aquí tienes ${response.initial_questions.length} preguntas para comenzar:`);
+          response.initial_questions.forEach((q, index) => {
+            addMessage('question', `${index + 1}. ${q.enunciado || q.question_text}`);
+          });
+        }
+
+        startBtn.textContent = '✅ Sesión Iniciada';
+      } catch (error: unknown) {
+        console.error('Error starting session:', error);
+        const errorMessage = error instanceof Error ? error.message : 'Error al iniciar sesión. Verifica que estés autenticado.';
+        alert(errorMessage);
+        if (startBtn) {
+          startBtn.disabled = false;
+          startBtn.textContent = '🚀 Comenzar Entrenamiento';
+        }
+      }
+    });
+
+    endBtn?.addEventListener('click', () => {
+      if (trainingFeed) {
+        trainingFeed.style.display = 'none';
+      }
+      if (messagesDiv) {
+        messagesDiv.innerHTML = '';
+      }
+      currentSession = null;
+      if (startBtn) {
+        startBtn.disabled = false;
+        startBtn.textContent = '🚀 Comenzar Entrenamiento';
+      }
+    });
+
+    sendBtn?.addEventListener('click', async () => {
+      if (!userInput || !sendBtn) return;
+
+      const message = userInput.value.trim();
+      if (!message || !currentSession) return;
+
+      // Add user message
+      addMessage('user', message);
+      userInput.value = '';
+
+      // Check if user requested infographic
+      if (message.toLowerCase().includes('infografía') || message.toLowerCase().includes('visual')) {
+        try {
+          sendBtn.disabled = true;
+          sendBtn.textContent = '⏳';
+
+          addMessage('system', '🎨 Generando infografía... (esto puede tomar 20-30 segundos)');
+
+          const result = await generateInfographic(
+            selectedTopic,
+            selectedStyle,
+            currentSession.session_id
+          ) as { image_url: string };
+
+          addMessage('system', `✅ ¡Infografía generada!`);
+          addMessage('image', result.image_url);
+
+          sendBtn.disabled = false;
+          sendBtn.textContent = 'Enviar';
+        } catch (error: unknown) {
+          console.error('Error generating infographic:', error);
+          const errorMessage = error instanceof Error ? error.message : 'Error al generar infografía. Verifica que tengas suficientes créditos.';
+          addMessage('error', errorMessage);
+          sendBtn.disabled = false;
+          sendBtn.textContent = 'Enviar';
+        }
+      } else {
+        // Simple echo for now (could integrate with Gemini later)
+        addMessage('system', `Recibido: "${message}". Función de chat avanzada próximamente.`);
+      }
+    });
+
+    function addMessage(type: string, content: string): void {
+      if (!messagesDiv) return;
+
+      const msgDiv = document.createElement('div');
+      msgDiv.className = `message message-${type}`;
+
+      if (type === 'image') {
+        msgDiv.innerHTML = `<img src="${content}" alt="Generated infographic" style="max-width: 100%; border-radius: 8px;" />`;
+      } else {
+        msgDiv.textContent = content;
+      }
+
+      messagesDiv.appendChild(msgDiv);
+      messagesDiv.scrollTop = messagesDiv.scrollHeight;
+    }
+  });
+</script>

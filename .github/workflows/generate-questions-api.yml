@@ -1,0 +1,55 @@
+name: Generate Questions API
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'src/content/questions/**'
+      - 'scripts/generate-questions-api.ps1'
+      - '.github/workflows/generate-questions-api.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  build-and-deploy:
+    runs-on: windows-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Questions JSON
+        shell: powershell
+        run: |
+          scripts/generate-questions-api.ps1
+
+      - name: Verify JSON Generation
+        shell: powershell
+        run: |
+          if (Test-Path "api/questions.json") {
+            Write-Host "JSON generated successfully."
+            Get-Content "api/questions.json" | Select-Object -First 20
+          } else {
+            Write-Error "Failed to generate api/questions.json"
+            exit 1
+          }
+
+      - name: Upload Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: api
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build-and-deploy
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

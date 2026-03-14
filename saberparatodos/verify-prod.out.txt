@@ -1,0 +1,15 @@
+[verify] Base URL: https://saberparatodos.space
+
+[32;1mUrl                                                                            [0m[32;1m Sta[0m
+[32;1m                                                                               [0m[32;1m tus[0m
+[32;1m                                                                               [0m[32;1m Cod[0m
+[32;1m                                                                               [0m[32;1m   e[0m
+[32;1m---                                                                            [0m [32;1m---[0m
+https://saberparatodos.space/                                                   200
+https://saberparatodos.space/novedades                                          200
+https://saberparatodos.space/novedades/2026-03-09-filtrado-ingles-y-comentarios 200
+https://saberparatodos.space/ranking                                            200
+https://saberparatodos.space/dashboard                                          200
+https://saberparatodos.space/api/packs/week-9-grade-11-subject-matematicas.json 200
+
+[verify] Deployment verification passed.

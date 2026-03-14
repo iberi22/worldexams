@@ -1,0 +1,145 @@
+
+> saberparatodos@0.10.0 deploy:manual
+> pwsh -File scripts/deploy-manual.ps1 -ProjectName saberparatodos -BaseUrl https://saberparatodos.space -Force
+
+[deploy] Current branch: chore/safe-checkpoint-2026-03-10
+[deploy] Target Project: saberparatodos
+[deploy] Target URL:     https://saberparatodos.space
+[deploy] Copying API artifacts...
+[copy-api] Preparing static API artifacts...
+node:internal/modules/cjs/loader:1386
+  throw err;
+  ^
+
+Error: Cannot find module 'E:\scripts-python\worldexams\saberparatodos\scripts\generate-static-packs.js'
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+    at node:internal/main/run_main_module:36:49 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v22.19.0
+Exception: E:\scripts-python\worldexams\saberparatodos\scripts\copy-api.ps1:14:5
+Line |
+  14 |      throw '[copy-api] generate-static-packs failed.'
+     |      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     | [copy-api] generate-static-packs failed.
+[deploy] Running validation...
+
+> saberparatodos@0.10.0 validate:strict
+> node scripts/validate_content.js --strict-v3 --fail-on-error
+
+
+🧪 Content Validation Report
+- Archivos analizados: 1568
+- Modo estricto v3: ON
+- Fail on error: ON
+- Errores: 48
+- Warnings: 125
+
+Detalles (máx 80):
+ERROR   ../questions_data/colombia/ciencias-naturales/grado-11/periodo-1/fisica-cinematica/CO-CN-11-P1-fisica-cinematica-002-MASTERY-bundle.md -> Falta frontmatter obligatorio: "grado"
+ERROR   ../questions_data/colombia/ciencias-naturales/grado-11/periodo-1/fisica-cinematica/CO-CN-11-P1-fisica-cinematica-002-MASTERY-bundle.md -> Falta frontmatter obligatorio: "asignatura"
+ERROR   ../questions_data/colombia/ciencias-naturales/grado-11/periodo-1/fisica-cinematica/CO-CN-11-P1-fisica-cinematica-002-MASTERY-bundle.md -> Falta frontmatter obligatorio: "tema"
+ERROR   ../questions_data/colombia/ciencias-naturales/grado-11/periodo-1/fisica-dinamica/CO-CN-11-P1-fisica-dinamica-001-MASTERY-bundle.md -> Falta frontmatter obligatorio: "grado"
+ERROR   ../questions_data/colombia/ciencias-naturales/grado-11/periodo-1/fisica-dinamica/CO-CN-11-P1-fisica-dinamica-001-MASTERY-bundle.md -> Falta frontmatter obligatorio: "asignatura"
+ERROR   ../questions_data/colombia/ciencias-naturales/grado-11/periodo-1/fisica-dinamica/CO-CN-11-P1-fisica-dinamica-001-MASTERY-bundle.md -> Falta frontmatter obligatorio: "tema"
+ERROR   ../questions_data/colombia/ciencias-naturales/grado-11/periodo-1/quimica-carbono/CO-CN-11-P1-quimica-carbono-001-MASTERY-bundle.md -> Falta frontmatter obligatorio: "grado"
+ERROR   ../questions_data/colombia/ciencias-naturales/grado-11/periodo-1/quimica-carbono/CO-CN-11-P1-quimica-carbono-001-MASTERY-bundle.md -> Falta frontmatter obligatorio: "asignatura"
+ERROR   ../questions_data/colombia/ciencias-naturales/grado-11/periodo-1/quimica-carbono/CO-CN-11-P1-quimica-carbono-001-MASTERY-bundle.md -> Falta frontmatter obligatorio: "tema"
+ERROR   ../questions_data/colombia/ciencias-naturales/grado-11/periodo-1/quimica-organica/CO-CN-11-P1-quimica-organica-002-MASTERY-bundle.md -> Falta frontmatter obligatorio: "grado"
+ERROR   ../questions_data/colombia/ciencias-naturales/grado-11/periodo-1/quimica-organica/CO-CN-11-P1-quimica-organica-002-MASTERY-bundle.md -> Falta frontmatter obligatorio: "asignatura"
+ERROR   ../questions_data/colombia/ciencias-naturales/grado-11/periodo-1/quimica-organica/CO-CN-11-P1-quimica-organica-002-MASTERY-bundle.md -> Falta frontmatter obligatorio: "tema"
+ERROR   ../questions_data/colombia/lectura-critica/grado-11/periodo-1/textos-continuos/CO-LC-11-P1-continuos-001-MASTERY-bundle.md -> Falta frontmatter obligatorio: "grado"
+ERROR   ../questions_data/colombia/lectura-critica/grado-11/periodo-1/textos-continuos/CO-LC-11-P1-continuos-001-MASTERY-bundle.md -> Falta frontmatter obligatorio: "asignatura"
+ERROR   ../questions_data/colombia/lectura-critica/grado-11/periodo-1/textos-continuos/CO-LC-11-P1-continuos-001-MASTERY-bundle.md -> Falta frontmatter obligatorio: "tema"
+ERROR   ../questions_data/colombia/lectura-critica/grado-11/periodo-1/textos-continuos/CO-LC-11-P1-continuos-002-MASTERY-bundle.md -> Falta frontmatter obligatorio: "grado"
+ERROR   ../questions_data/colombia/lectura-critica/grado-11/periodo-1/textos-continuos/CO-LC-11-P1-continuos-002-MASTERY-bundle.md -> Falta frontmatter obligatorio: "asignatura"
+ERROR   ../questions_data/colombia/lectura-critica/grado-11/periodo-1/textos-continuos/CO-LC-11-P1-continuos-002-MASTERY-bundle.md -> Falta frontmatter obligatorio: "tema"
+ERROR   ../questions_data/colombia/lectura-critica/grado-11/periodo-1/textos-discontinuos/CO-LC-11-P1-discontinuos-001-MASTERY-bundle.md -> Falta frontmatter obligatorio: "grado"
+ERROR   ../questions_data/colombia/lectura-critica/grado-11/periodo-1/textos-discontinuos/CO-LC-11-P1-discontinuos-001-MASTERY-bundle.md -> Falta frontmatter obligatorio: "asignatura"
+ERROR   ../questions_data/colombia/lectura-critica/grado-11/periodo-1/textos-discontinuos/CO-LC-11-P1-discontinuos-001-MASTERY-bundle.md -> Falta frontmatter obligatorio: "tema"
+ERROR   ../questions_data/colombia/lectura-critica/grado-11/periodo-1/textos-discontinuos/CO-LC-11-P1-discontinuos-002-MASTERY-bundle.md -> Falta frontmatter obligatorio: "grado"
+ERROR   ../questions_data/colombia/lectura-critica/grado-11/periodo-1/textos-discontinuos/CO-LC-11-P1-discontinuos-002-MASTERY-bundle.md -> Falta frontmatter obligatorio: "asignatura"
+ERROR   ../questions_data/colombia/lectura-critica/grado-11/periodo-1/textos-discontinuos/CO-LC-11-P1-discontinuos-002-MASTERY-bundle.md -> Falta frontmatter obligatorio: "tema"
+ERROR   ../questions_data/colombia/matematicas/grado-11/periodo-1/continuidad/CO-MAT-11-P1-continuidad-002-MASTERY-bundle.md -> Falta frontmatter obligatorio: "grado"
+ERROR   ../questions_data/colombia/matematicas/grado-11/periodo-1/continuidad/CO-MAT-11-P1-continuidad-002-MASTERY-bundle.md -> Falta frontmatter obligatorio: "asignatura"
+ERROR   ../questions_data/colombia/matematicas/grado-11/periodo-1/continuidad/CO-MAT-11-P1-continuidad-002-MASTERY-bundle.md -> Falta frontmatter obligatorio: "tema"
+ERROR   ../questions_data/colombia/matematicas/grado-11/periodo-1/funciones/CO-MAT-11-P1-funciones-002-MASTERY-bundle.md -> Falta frontmatter obligatorio: "grado"
+ERROR   ../questions_data/colombia/matematicas/grado-11/periodo-1/funciones/CO-MAT-11-P1-funciones-002-MASTERY-bundle.md -> Falta frontmatter obligatorio: "asignatura"
+ERROR   ../questions_data/colombia/matematicas/grado-11/periodo-1/funciones/CO-MAT-11-P1-funciones-002-MASTERY-bundle.md -> Falta frontmatter obligatorio: "tema"
+ERROR   ../questions_data/colombia/matematicas/grado-11/periodo-1/inecuaciones/CO-MAT-11-P1-inecuaciones-002-MASTERY-bundle.md -> Falta frontmatter obligatorio: "grado"
+ERROR   ../questions_data/colombia/matematicas/grado-11/periodo-1/inecuaciones/CO-MAT-11-P1-inecuaciones-002-MASTERY-bundle.md -> Falta frontmatter obligatorio: "asignatura"
+ERROR   ../questions_data/colombia/matematicas/grado-11/periodo-1/inecuaciones/CO-MAT-11-P1-inecuaciones-002-MASTERY-bundle.md -> Falta frontmatter obligatorio: "tema"
+ERROR   ../questions_data/colombia/matematicas/grado-11/periodo-1/limites/CO-MAT-11-P1-limites-002-MASTERY-bundle.md -> Falta frontmatter obligatorio: "grado"
+ERROR   ../questions_data/colombia/matematicas/grado-11/periodo-1/limites/CO-MAT-11-P1-limites-002-MASTERY-bundle.md -> Falta frontmatter obligatorio: "asignatura"
+ERROR   ../questions_data/colombia/matematicas/grado-11/periodo-1/limites/CO-MAT-11-P1-limites-002-MASTERY-bundle.md -> Falta frontmatter obligatorio: "tema"
+ERROR   ../questions_data/colombia/sociales-ciudadanas/grado-11/periodo-1/multiperspectivismo/CO-SC-11-P1-multi-001-MASTERY-bundle.md -> Falta frontmatter obligatorio: "grado"
+ERROR   ../questions_data/colombia/sociales-ciudadanas/grado-11/periodo-1/multiperspectivismo/CO-SC-11-P1-multi-001-MASTERY-bundle.md -> Falta frontmatter obligatorio: "asignatura"
+ERROR   ../questions_data/colombia/sociales-ciudadanas/grado-11/periodo-1/multiperspectivismo/CO-SC-11-P1-multi-001-MASTERY-bundle.md -> Falta frontmatter obligatorio: "tema"
+ERROR   ../questions_data/colombia/sociales-ciudadanas/grado-11/periodo-1/multiperspectivismo/CO-SC-11-P1-multi-002-MASTERY-bundle.md -> Falta frontmatter obligatorio: "grado"
+ERROR   ../questions_data/colombia/sociales-ciudadanas/grado-11/periodo-1/multiperspectivismo/CO-SC-11-P1-multi-002-MASTERY-bundle.md -> Falta frontmatter obligatorio: "asignatura"
+ERROR   ../questions_data/colombia/sociales-ciudadanas/grado-11/periodo-1/multiperspectivismo/CO-SC-11-P1-multi-002-MASTERY-bundle.md -> Falta frontmatter obligatorio: "tema"
+ERROR   ../questions_data/colombia/sociales-ciudadanas/grado-11/periodo-1/pensamiento-social/CO-SC-11-P1-psoc-001-MASTERY-bundle.md -> Falta frontmatter obligatorio: "grado"
+ERROR   ../questions_data/colombia/sociales-ciudadanas/grado-11/periodo-1/pensamiento-social/CO-SC-11-P1-psoc-001-MASTERY-bundle.md -> Falta frontmatter obligatorio: "asignatura"
+ERROR   ../questions_data/colombia/sociales-ciudadanas/grado-11/periodo-1/pensamiento-social/CO-SC-11-P1-psoc-001-MASTERY-bundle.md -> Falta frontmatter obligatorio: "tema"
+ERROR   ../questions_data/colombia/sociales-ciudadanas/grado-11/periodo-1/pensamiento-social/CO-SC-11-P1-psoc-002-MASTERY-bundle.md -> Falta frontmatter obligatorio: "grado"
+ERROR   ../questions_data/colombia/sociales-ciudadanas/grado-11/periodo-1/pensamiento-social/CO-SC-11-P1-psoc-002-MASTERY-bundle.md -> Falta frontmatter obligatorio: "asignatura"
+ERROR   ../questions_data/colombia/sociales-ciudadanas/grado-11/periodo-1/pensamiento-social/CO-SC-11-P1-psoc-002-MASTERY-bundle.md -> Falta frontmatter obligatorio: "tema"
+WARNING ../questions_data/colombia/ciencias-naturales/grado-10/periodo-1/CO-CN-10-cell-biotech-001-PRO-v4-bundle.md -> total_questions=20 no coincide con preguntas detectadas=9
+WARNING ../questions_data/colombia/ciencias-naturales/grado-10/periodo-2/CO-CN-10-inorganic-reactions-001-PRO-v4-bundle.md -> total_questions=20 no coincide con preguntas detectadas=9
+WARNING ../questions_data/colombia/ciencias-naturales/grado-10/periodo-3/CO-CN-10-newton-laws-001-PRO-v4-bundle.md -> total_questions=20 no coincide con preguntas detectadas=9
+WARNING ../questions_data/colombia/ciencias-naturales/grado-10/periodo-4/CO-CN-10-ecology-thermo-001-PRO-v4-bundle.md -> total_questions=20 no coincide con preguntas detectadas=9
+WARNING ../questions_data/colombia/ciencias-naturales/grado-10/periodo-4/CO-CN-10-integration-001-PRO-v4-bundle.md -> total_questions=20 no coincide con preguntas detectadas=7
+WARNING ../questions_data/colombia/ciencias-naturales/grado-11/periodo-1/CO-CIE-11-physics-002-PRO-v4-bundle.md -> total_questions=20 no coincide con preguntas detectadas=4
+WARNING ../questions_data/colombia/ciencias-naturales/grado-11/periodo-2/CO-CIE-11-biomolecules-001-PRO-v4-bundle.md -> total_questions=20 no coincide con preguntas detectadas=2
+WARNING ../questions_data/colombia/ciencias-naturales/grado-11/periodo-2/CO-CN-11-organic-chemistry-001-PRO-v4-bundle.md -> total_questions=20 no coincide con preguntas detectadas=9
+WARNING ../questions_data/colombia/ciencias-naturales/grado-11/periodo-3/CO-CN-11-electromagnetism-001-PRO-v4-bundle.md -> total_questions=20 no coincide con preguntas detectadas=9
+WARNING ../questions_data/colombia/ciencias-naturales/grado-11/periodo-4/CO-CN-11-solutions-equilibrium-001-PRO-v4-bundle.md -> total_questions=20 no coincide con preguntas detectadas=9
+WARNING ../questions_data/colombia/ciencias-naturales/grado-11/periodo-4/CO-CN-11-waves-optics-001-PRO-v4-bundle.md -> total_questions=20 no coincide con preguntas detectadas=9
+WARNING ../questions_data/colombia/ingles/grado-10/periodo-4/CO-ENG-10-identity-001-PRO-v4-bundle.md -> total_questions=20 no coincide con preguntas detectadas=21
+WARNING ../questions_data/colombia/ingles/grado-11/periodo-1/CO-ENG-11-lexical-001-PRO-v4-bundle.md -> total_questions=20 no coincide con preguntas detectadas=2
+WARNING ../questions_data/colombia/ingles/grado-11/periodo-3/CO-ENG-11-space-reading-001-PRO-v4-bundle.md -> total_questions=20 no coincide con preguntas detectadas=15
+WARNING ../questions_data/colombia/ingles/grado-11/periodo-4/CO-ENG-11-philosophy-001-CEFR-v4-bundle.md -> Pregunta #1 sin bloque "**ID:** `...`".
+WARNING ../questions_data/colombia/ingles/grado-11/periodo-4/CO-ENG-11-philosophy-001-CEFR-v4-bundle.md -> Pregunta #2 sin bloque "**ID:** `...`".
+WARNING ../questions_data/colombia/ingles/grado-11/periodo-4/CO-ENG-11-philosophy-001-CEFR-v4-bundle.md -> Pregunta #3 sin bloque "**ID:** `...`".
+WARNING ../questions_data/colombia/ingles/grado-11/periodo-4/CO-ENG-11-philosophy-001-CEFR-v4-bundle.md -> Pregunta #4 sin bloque "**ID:** `...`".
+WARNING ../questions_data/colombia/ingles/grado-11/periodo-4/CO-ENG-11-philosophy-001-CEFR-v4-bundle.md -> Pregunta #5 sin bloque "**ID:** `...`".
+WARNING ../questions_data/colombia/ingles/grado-11/periodo-4/CO-ENG-11-philosophy-001-CEFR-v4-bundle.md -> Pregunta #6 sin bloque "**ID:** `...`".
+WARNING ../questions_data/colombia/ingles/grado-11/periodo-4/CO-ENG-11-philosophy-001-CEFR-v4-bundle.md -> Pregunta #7 sin bloque "**ID:** `...`".
+WARNING ../questions_data/colombia/ingles/grado-11/periodo-4/CO-ENG-11-philosophy-001-CEFR-v4-bundle.md -> Pregunta #8 sin bloque "**ID:** `...`".
+WARNING ../questions_data/colombia/ingles/grado-11/periodo-4/CO-ENG-11-philosophy-001-CEFR-v4-bundle.md -> Pregunta #9 sin bloque "**ID:** `...`".
+WARNING ../questions_data/colombia/ingles/grado-11/periodo-4/CO-ENG-11-philosophy-001-CEFR-v4-bundle.md -> Pregunta #10 sin bloque "**ID:** `...`".
+WARNING ../questions_data/colombia/ingles/grado-11/periodo-4/CO-ENG-11-philosophy-001-CEFR-v4-bundle.md -> Pregunta #11 sin bloque "**ID:** `...`".
+WARNING ../questions_data/colombia/ingles/grado-11/periodo-4/CO-ENG-11-philosophy-001-CEFR-v4-bundle.md -> Pregunta #12 sin bloque "**ID:** `...`".
+WARNING ../questions_data/colombia/ingles/grado-11/periodo-4/CO-ENG-11-philosophy-001-CEFR-v4-bundle.md -> Pregunta #13 sin bloque "**ID:** `...`".
+WARNING ../questions_data/colombia/ingles/grado-11/periodo-4/CO-ENG-11-philosophy-001-CEFR-v4-bundle.md -> Pregunta #14 sin bloque "**ID:** `...`".
+WARNING ../questions_data/colombia/ingles/grado-11/periodo-4/CO-ENG-11-philosophy-001-CEFR-v4-bundle.md -> Pregunta #15 sin bloque "**ID:** `...`".
+WARNING ../questions_data/colombia/ingles/grado-11/periodo-4/CO-ENG-11-philosophy-001-CEFR-v4-bundle.md -> Pregunta #16 sin bloque "**ID:** `...`".
+WARNING ../questions_data/colombia/ingles/grado-11/periodo-4/CO-ENG-11-philosophy-001-CEFR-v4-bundle.md -> Pregunta #17 sin bloque "**ID:** `...`".
+WARNING ../questions_data/colombia/ingles/grado-11/periodo-4/CO-ENG-11-philosophy-001-CEFR-v4-bundle.md -> Pregunta #18 sin bloque "**ID:** `...`".
+npm error Lifecycle script `validate:strict` failed with error:
+npm error code 1
+npm error path E:\scripts-python\worldexams\saberparatodos
+npm error workspace saberparatodos@0.10.0
+npm error location E:\scripts-python\worldexams\saberparatodos
+npm error command failed
+npm error command C:\WINDOWS\system32\cmd.exe /d /s /c node scripts/validate_content.js --strict-v3 --fail-on-error
+Exception: E:\scripts-python\worldexams\saberparatodos\scripts\deploy-manual.ps1:55:7
+Line |
+  55 |        throw '[deploy] validate:strict failed.'
+     |        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     | [deploy] validate:strict failed.
+npm error Lifecycle script `deploy:manual` failed with error:
+npm error code 1
+npm error path E:\scripts-python\worldexams\saberparatodos
+npm error workspace saberparatodos@0.10.0
+npm error location E:\scripts-python\worldexams\saberparatodos
+npm error command failed
+npm error command C:\WINDOWS\system32\cmd.exe /d /s /c pwsh -File scripts/deploy-manual.ps1 -ProjectName saberparatodos -BaseUrl https://saberparatodos.space -Force

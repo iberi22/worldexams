@@ -1,0 +1,342 @@
+---
+import '../styles/global.css';
+import Navbar from '../components/Navbar.astro';
+import Footer from '../components/Footer.astro';
+import CookieConsent from '../components/CookieConsent.svelte';
+import VersionBadge from '../components/VersionBadge.svelte';
+import GlobalFeedbackButton from '../components/GlobalFeedbackButton.svelte';
+import packageInfo from '../../package.json';
+
+// Import critical CSS for inlining
+import criticalCSS from '../styles/critical.css?raw';
+
+interface Props {
+	title?: string;
+	description?: string;
+  keywords?: string;
+	image?: string;
+	type?: 'website' | 'article';
+  noindex?: boolean;
+  showNavbar?: boolean;
+  showFooter?: boolean;
+}
+
+import { countryConfig } from '../config';
+
+const {
+  title = `${countryConfig.name} - Banco de Preguntas`,
+  description = `Practica con el mejor banco de preguntas open source para ${countryConfig.name}. ${Object.keys(countryConfig.exams).join(', ')}.`,
+  keywords = 'simulacro icfes, simulacro saber 11, preicfes gratis, banco de preguntas icfes, pruebas saber colombia',
+  image = "/logo.png",
+  type = "website",
+  noindex = false,
+  showNavbar = true,
+  showFooter = true
+} = Astro.props;
+
+const siteUrl = Astro.site ? Astro.site.toString().replace(/\/$/, '') : 'https://saberparatodos.space';
+const canonicalURL = new URL(Astro.url.pathname, `${siteUrl}/`);
+const ogImageURL = new URL(image, canonicalURL);
+const ogLocale = (countryConfig.language || 'es-CO').replace('-', '_');
+const enableAuxClientWidgets = true; // Enabled in all environments for better UX/testing
+const appVersion = packageInfo.version;
+const organizationSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: 'SaberParaTodos',
+  url: siteUrl,
+  logo: `${siteUrl}/logo.png`,
+  email: 'mailto:contacto@saberparatodos.space',
+  contactPoint: {
+    '@type': 'ContactPoint',
+    contactType: 'customer support',
+    email: 'contacto@saberparatodos.space',
+    availableLanguage: ['es-CO']
+  },
+  sameAs: ['https://github.com/world-exams']
+};
+const websiteSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'SaberParaTodos',
+  url: siteUrl,
+  inLanguage: countryConfig.language || 'es-CO',
+  publisher: {
+    '@type': 'Organization',
+    name: 'SaberParaTodos',
+    url: siteUrl
+  }
+};
+---
+
+<!doctype html>
+<html lang="es" class="fonts-loading no-js">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- 🛡️ Global Error Guard & JS Detection -->
+    <script is:inline>
+      // 1. Mark JS as available immediately
+      document.documentElement.classList.remove('no-js');
+
+      // 2. Global Error Guard: If app crashes, force show content
+      window.onerror = function(msg, _url, _line, _col, error) {
+        console.error('🚨 Global Error:', msg, error);
+        // Force remove loading states
+        document.documentElement.classList.remove('fonts-loading');
+        // Force show all scroll-reveal elements
+        const hiddenElements = document.querySelectorAll('[data-sr]');
+        hiddenElements.forEach(el => el.classList.add('sr-visible'));
+        return false; // Let default handler run too
+      };
+
+      // 3. Safety Timeout for Fonts (3s max)
+      setTimeout(function() {
+        if (document.documentElement.classList.contains('fonts-loading')) {
+          console.warn('⚠️ Fonts loading timed out - forcing visible');
+          document.documentElement.classList.remove('fonts-loading');
+        }
+      }, 3000);
+    </script>
+
+    <!-- 🔇 Production Log Silencer - Must be FIRST script -->
+    <script is:inline define:vars={{ isProd: import.meta.env.PROD }}>
+      if (isProd) {
+        // Silence console in production
+        console.log = function() {};
+        console.info = function() {};
+        console.debug = function() {};
+        // Keep warn and error for critical issues
+      }
+    </script>
+
+		<link rel="icon" type="image/png" href="/favicon.png" />
+		<link rel="apple-touch-icon" href="/logo.png" />
+		<meta name="generator" content={Astro.generator} />
+    <meta name="version" content={appVersion} />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+
+    <!-- PWA Manifest -->
+    <link rel="manifest" href="/manifest.json" />
+    <meta name="theme-color" content="#1a1a2e" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="SaberParaTodos" />
+
+    <!-- Critical CSS (inline para evitar render-blocking) -->
+    <style set:html={criticalCSS}></style>
+
+    <!-- SEO -->
+		<title>{title}</title>
+		<meta name="description" content={description} />
+    <meta name="keywords" content={keywords} />
+    <meta name="author" content="World Exams Pedagogy Team" />
+    <meta name="publisher" content="World Exams" />
+    <link rel="canonical" href={canonicalURL} />
+    <link rel="alternate" hreflang="es-CO" href={canonicalURL} />
+    {noindex
+      ? <meta name="robots" content="noindex, nofollow" />
+      : <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />}
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content={type} />
+    <meta property="og:url" content={canonicalURL} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={ogImageURL} />
+    <meta property="og:site_name" content="SaberParaTodos" />
+    <meta property="og:locale" content={ogLocale} />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content={canonicalURL} />
+    <meta property="twitter:title" content={title} />
+    <meta property="twitter:description" content={description} />
+    <meta property="twitter:image" content={ogImageURL} />
+
+    <!-- DNS Prefetch para recursos externos -->
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
+    <link rel="dns-prefetch" href="https://fonts.gstatic.com" />
+
+    <!-- Preconnect para fuentes (crítico para LCP) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <!-- Cargar fuentes con display=swap para evitar FOIT -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+      media="print"
+      onload="this.setAttribute('media', 'all')"
+    />
+    <noscript>
+      <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    </noscript>
+
+    <script is:inline>
+      // Detectar cuando las fuentes están listas (reduce CLS)
+      if ('fonts' in document) {
+        document.fonts.ready.then(function() {
+          document.documentElement.classList.remove('fonts-loading');
+          document.documentElement.classList.add('fonts-loaded');
+        });
+      } else {
+        // Fallback para navegadores sin Font Loading API
+        document.documentElement.classList.remove('fonts-loading');
+      }
+    </script>
+
+    <script is:inline type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
+    <script is:inline type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
+    <!-- 2026 SEO: INP (Interaction to Next Paint) Optimization -->
+    <script is:inline>
+      // Lightweight yield pattern for high-priority interactions
+      window.yieldToMain = async () => {
+        return new Promise(resolve => {
+          if (window.requestIdleCallback) {
+            window.requestIdleCallback(() => resolve());
+          } else {
+            setTimeout(resolve, 0);
+          }
+        });
+      };
+
+      // Faster tap response (INP)
+      document.addEventListener('touchstart', function() {}, {passive: true});
+    </script>
+    <slot name="head" />
+	</head>
+	<body class="min-h-screen flex flex-col">
+    <!-- Noise Filter SVG Definition -->
+    <svg style="position: absolute; width: 0; height: 0; overflow: hidden;" aria-hidden="true">
+      <filter id="noiseFilter">
+        <feTurbulence type="fractalNoise" baseFrequency="0.80" numOctaves="3" stitchTiles="stitch" />
+        <feColorMatrix type="saturate" values="0" />
+      </filter>
+    </svg>
+
+    {showNavbar && <Navbar />}
+
+    <main class="flex-1">
+		  <slot />
+    </main>
+
+    {showFooter && <Footer />}
+
+    {enableAuxClientWidgets && (
+      <>
+        <!-- Cookie Consent Banner (GDPR/AdSense Compliance) -->
+        <CookieConsent client:only="svelte" />
+
+        <!-- Version Badge with Update Notifications -->
+        <VersionBadge client:only="svelte" position="bottom-left" showOnlyOnUpdate={import.meta.env.PROD} />
+
+        <!-- Global Feedback Button -->
+        <GlobalFeedbackButton client:idle />
+      </>
+    )}
+
+    <!-- Scroll Reveal Script -->
+    <script>
+      function initScrollReveal() {
+        // Safety: If no JS or error, CSS handles visibility via .no-js
+
+        const elements = document.querySelectorAll('[data-sr]');
+
+        if (!elements.length) return;
+
+        // Check reduced motion preference
+        const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+        if (prefersReducedMotion) {
+          elements.forEach(el => el.classList.add('sr-visible'));
+          return;
+        }
+
+        const observer = new IntersectionObserver(
+          (entries) => {
+            entries.forEach(entry => {
+              if (entry.isIntersecting) {
+                entry.target.classList.add('sr-visible');
+                observer.unobserve(entry.target);
+              }
+            });
+          },
+          { threshold: 0.1, rootMargin: '0px 0px -50px 0px' }
+        );
+
+        elements.forEach(el => {
+          const animation = el.getAttribute('data-sr') || 'fade-up';
+          const delay = el.getAttribute('data-sr-delay') || '0';
+
+          el.classList.add('sr-init', `sr-${animation}`);
+          (el as HTMLElement).style.transitionDelay = `${delay}ms`;
+
+          observer.observe(el);
+        });
+
+        // 🛡️ Safety Timeout: Force visible after 2.5s if observer fails (common in some iOS webviews)
+        setTimeout(() => {
+          const stuckElements = document.querySelectorAll('[data-sr]:not(.sr-visible)');
+          if (stuckElements.length > 0) {
+            console.warn(`⚠️ Force revealing ${stuckElements.length} stuck elements`);
+            stuckElements.forEach(el => el.classList.add('sr-visible'));
+          }
+        }, 2500);
+      }
+
+      // Initialize on DOM ready
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', initScrollReveal);
+      } else {
+        initScrollReveal();
+      }
+
+      // Re-initialize on Astro page transitions
+      document.addEventListener('astro:page-load', initScrollReveal);
+    </script>
+
+    <!-- Register Service Worker for PWA -->
+    <script is:inline define:vars={{ IS_DEV: import.meta.env.DEV }}>
+
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', async () => {
+          // In dev, we aggressively disable SW + caches to avoid serving stale HTML/CSP.
+          // This prevents CSP mismatches like missing PeerJS domains.
+          if (IS_DEV) {
+            try {
+              const registrations = await navigator.serviceWorker.getRegistrations();
+              await Promise.all(registrations.map((r) => r.unregister()));
+              console.log('[PWA] Dev mode: Service Workers unregistered');
+            } catch (error) {
+              console.warn('[PWA] Dev mode: Failed to unregister SW:', error);
+            }
+
+            try {
+              if ('caches' in window) {
+                const cacheNames = await caches.keys();
+                await Promise.all(cacheNames.map((name) => caches.delete(name)));
+                console.log('[PWA] Dev mode: Caches cleared');
+              }
+            } catch (error) {
+              console.warn('[PWA] Dev mode: Failed to clear caches:', error);
+            }
+
+            return;
+          }
+
+          navigator.serviceWorker
+            .register('/sw.js')
+            .then((registration) => {
+              console.log('[PWA] Service Worker registered:', registration.scope);
+            })
+            .catch((error) => {
+              console.error('[PWA] Service Worker registration failed:', error);
+            });
+        });
+      }
+    </script>
+	</body>
+</html>

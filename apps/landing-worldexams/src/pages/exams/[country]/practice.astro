@@ -1,0 +1,76 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import ExamView from '../../../components/ExamView.svelte';
+import { countries } from '../../../data/countries';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  return countries
+    .filter(c => c.status === 'live')
+    .map(country => ({
+      params: { country: country.code.toLowerCase() },
+      props: { countryData: country },
+    }));
+}
+
+import { parseQuestionsFromBundle } from '../../../lib/bundleParser';
+// ... (imports)
+
+// ... (getStaticPaths)
+
+const { country } = Astro.params;
+const { countryData } = Astro.props;
+
+// Get the folder name for questions (may differ from country code)
+const countryFolder = countryData.folder || country;
+
+// Get all questions for this country
+const allQuestions = await getCollection('questions');
+
+// Filter: _shared + country specific
+const countryQuestions = allQuestions.filter(q => {
+  const questionPath = q.id.split('/')[0];
+  return questionPath === '_shared' || questionPath === countryFolder;
+});
+
+// Shuffle and take bundles (not questions directly, but bundles)
+// Note: Each bundle has 7 questions. If we want 10 questions total,
+// we should take 2 bundles (14 qs) and slice, or take more.
+const shuffledBundles = countryQuestions.sort(() => Math.random() - 0.5);
+const selectedBundles = shuffledBundles.slice(0, 5); // Take top 5 bundles -> ~35 questions
+
+// Parse and flatten
+const parsedBundles = selectedBundles.map(parseQuestionsFromBundle);
+const allParsedQuestions = parsedBundles.flat();
+
+// Now slice to 10 for the quiz
+const questions = allParsedQuestions.slice(0, 10);
+
+---
+
+<Layout title={`Práctica - ${countryData.name}`}>
+  <section class="min-h-screen py-24 px-4">
+    <div class="max-w-4xl mx-auto">
+      <!-- Header -->
+      <div class="text-center mb-12">
+        <a href={`/exams/${country}`} class="text-text-secondary hover:text-accent-cyan transition-colors mb-4 inline-block">
+          ← Volver a {countryData.name}
+        </a>
+        <div class="flex items-center justify-center gap-4 mt-4">
+          <span class="text-4xl">{countryData.flag}</span>
+          <h1 class="text-3xl font-bold">Examen de Práctica</h1>
+        </div>
+        <p class="text-text-secondary mt-2">{countryData.exam}</p>
+      </div>
+
+      <!-- Exam Component -->
+      <ExamView
+        client:load
+        questions={questions}
+        countryName={countryData.name}
+        countryFlag={countryData.flag}
+        countryCode={country}
+      />
+    </div>
+  </section>
+</Layout>

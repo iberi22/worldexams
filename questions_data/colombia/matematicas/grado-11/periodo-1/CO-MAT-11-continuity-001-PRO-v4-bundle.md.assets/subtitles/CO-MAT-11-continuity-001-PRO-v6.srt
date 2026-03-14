@@ -1,0 +1,51 @@
+1
+00:00:00,000 --> 00:00:01,176
+Resolvamos en tres pasos.
+
+2
+00:00:01,176 --> 00:00:02,353
+Dada la función continua
+
+3
+00:00:02,353 --> 00:00:03,529
+$f(x) = x^3 +
+
+4
+00:00:03,529 --> 00:00:04,706
+x - 1$. Sabiendo
+
+5
+00:00:04,706 --> 00:00:05,882
+que $f(0). Aplicamos la
+
+6
+00:00:05,882 --> 00:00:07,059
+operación clave y verificamos
+
+7
+00:00:07,059 --> 00:00:08,235
+el resultado. Como la
+
+8
+00:00:08,235 --> 00:00:09,412
+función pasa de ser
+
+9
+00:00:09,412 --> 00:00:10,588
+negativa ($f(0)=-1$) a positiva
+
+10
+00:00:10,588 --> 00:00:11,765
+($f(1)=1$) y es continua
+
+11
+00:00:11,765 --> 00:00:12,941
+(no hay saltos), "obligatoriamente"
+
+12
+00:00:12,941 --> 00:00:14,118
+debe cruzar el eje.
+
+13
+00:00:14,118 --> 00:00:15,000
+Respuesta final confirmada.

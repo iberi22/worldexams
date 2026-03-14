@@ -1,0 +1,308 @@
+---
+import Layout from '../layouts/Layout.astro';
+import FeedbackTrigger from '../components/FeedbackTrigger.svelte';
+
+// Schema.org structured data
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "SaberParaTodos",
+  "alternateName": "World Exams Organization",
+  "url": "https://saberparatodos.space",
+  "logo": "https://saberparatodos.space/logo.png",
+  "description": "Plataforma open source de práctica para las Pruebas de Estado Saber en Colombia.",
+  "foundingDate": "2024",
+  "founders": [{
+    "@type": "Organization",
+    "name": "World Exams Organization"
+  }],
+  "sameAs": [
+    "https://github.com/world-exams"
+  ]
+};
+
+const features = [
+  {
+    icon: '📚',
+    title: 'Banco de Preguntas',
+    description: 'Miles de preguntas organizadas por grado, asignatura y tema, siguiendo el currículo oficial de las Pruebas de Estado.'
+  },
+  {
+    icon: '🤖',
+    title: 'Contenido Generado por IA',
+    description: 'Preguntas creadas y validadas con inteligencia artificial, manteniendo estándares pedagógicos.'
+  },
+  {
+    icon: '🌍',
+    title: 'Open Source',
+    description: 'Todo nuestro código es público y cualquiera puede contribuir. Transparencia total.'
+  },
+  {
+    icon: '💰',
+    title: '100% Gratuito',
+    description: 'Sin suscripciones, sin pagos. Educación de calidad accesible para todos los colombianos.'
+  },
+  {
+    icon: '📊',
+    title: 'Seguimiento de Progreso',
+    description: 'Estadísticas detalladas de tu rendimiento por área y tema.'
+  },
+  {
+    icon: '🇨🇴',
+    title: 'Hecho para Colombia',
+    description: 'Contenido contextualizado con la cultura y realidad colombiana.'
+  }
+];
+---
+
+<Layout
+  title="Sobre Nosotros | SaberParaTodos"
+  description="Conoce la misión de SaberParaTodos: democratizar el acceso a material de práctica para las Pruebas de Estado Saber en Colombia."
+>
+  <div class="min-h-screen bg-[#121212] text-[#F5F5DC]">
+    <!-- Hero Section -->
+    <section class="py-16 px-4 border-b border-white/10">
+      <div class="max-w-4xl mx-auto text-center">
+        <span class="inline-block px-3 py-1 text-xs font-mono bg-white/5 border border-white/10 rounded-full mb-4">
+          🌍 World Exams Organization
+        </span>
+        <h1 class="text-4xl md:text-5xl font-bold mb-6">
+          Sobre <span class="text-white/60">SaberParaTodos</span>
+        </h1>
+        <p class="text-lg text-white/70 max-w-2xl mx-auto leading-relaxed">
+          Democratizamos el acceso a material de práctica para las Pruebas de Estado Saber,
+          porque creemos que la preparación de calidad no debería depender de cuánto puedas pagar.
+        </p>
+      </div>
+    </section>
+
+    <!-- Mission Section -->
+    <section class="py-16 px-4">
+      <div class="max-w-6xl mx-auto">
+        <div class="grid md:grid-cols-2 gap-12 items-center">
+          <div>
+            <h2 class="text-3xl font-bold mb-6">Nuestra Misión</h2>
+            <p class="text-white/70 mb-4 leading-relaxed">
+              En Colombia, el acceso a material de preparación para las pruebas Saber 11
+              puede ser costoso. Los cursos preparatorios, los libros y las plataformas
+              premium están fuera del alcance de muchas familias.
+            </p>
+            <p class="text-white/70 mb-4 leading-relaxed">
+              SaberParaTodos nació para cambiar eso. Utilizamos tecnología de punta, incluyendo
+              inteligencia artificial, para crear un banco de preguntas de alta calidad
+              que cualquier estudiante colombiano pueda usar sin costo alguno.
+            </p>
+            <p class="text-white/70 leading-relaxed">
+              Somos parte de <strong>World Exams Organization</strong>, un proyecto open source
+              global que replica este modelo en más de 20 países, adaptando el contenido a
+              cada examen nacional.
+            </p>
+          </div>
+
+          <!-- Mission Visual -->
+          <div class="bg-gradient-to-tr from-[#1a1a1a] to-[#252525] border border-white/10 rounded-3xl p-8 shadow-2xl relative overflow-hidden group">
+            <div class="absolute inset-0 bg-emerald-500/5 opacity-0 group-hover:opacity-100 transition-opacity duration-700"></div>
+            <svg viewBox="0 0 400 300" class="w-full relative z-10" aria-labelledby="mission-svg-title">
+              <title id="mission-svg-title">Ilustración de la misión de SaberParaTodos</title>
+
+              <!-- Globe outline -->
+              <circle cx="200" cy="150" r="80" fill="none" stroke="#F5F5DC" stroke-width="0.5" opacity="0.2"/>
+              <ellipse cx="200" cy="150" rx="80" ry="30" fill="none" stroke="#F5F5DC" stroke-width="0.5" opacity="0.2"/>
+              <ellipse cx="200" cy="150" rx="30" ry="80" fill="none" stroke="#F5F5DC" stroke-width="0.5" opacity="0.2"/>
+
+              <!-- Colombia marker -->
+              <circle cx="175" cy="140" r="8" fill="#FCD116" class="animate-pulse shadow-[0_0_15px_rgba(252,209,22,0.5)]"/>
+              <circle cx="175" cy="140" r="12" fill="none" stroke="#FCD116" stroke-width="1" opacity="0.5">
+                <animate attributeName="r" values="12;25;12" dur="3s" repeatCount="indefinite"/>
+                <animate attributeName="opacity" values="0.5;0;0.5" dur="3s" repeatCount="indefinite"/>
+              </circle>
+
+              <!-- Text labels -->
+              <text x="200" y="260" fill="#F5F5DC" font-size="12" text-anchor="middle" font-family="monospace" font-weight="bold" opacity="0.8">
+                20+ países | 1 misión
+              </text>
+              <text x="200" y="280" fill="#FCD116" font-size="10" text-anchor="middle" font-family="monospace" font-weight="black" class="tracking-widest uppercase">
+                Educación gratuita para todos
+              </text>
+            </svg>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- AI Ecosystem Section -->
+    <section class="py-24 px-4 relative overflow-hidden">
+      <div class="absolute top-0 left-1/2 -translate-x-1/2 w-full h-px bg-gradient-to-r from-transparent via-emerald-500/50 to-transparent"></div>
+      <div class="max-w-6xl mx-auto">
+        <div class="text-center mb-16">
+          <h2 class="text-4xl font-black mb-4 bg-clip-text text-transparent bg-gradient-to-b from-white to-white/60">
+            Ecosistema de Estudio IA
+          </h2>
+          <p class="text-white/50 max-w-2xl mx-auto text-lg">
+            No solo te damos preguntas; te conectamos con las herramientas de estudio más avanzadas del mundo.
+          </p>
+        </div>
+
+        <div class="grid md:grid-cols-2 gap-8">
+          <!-- NotebookLM Card -->
+          <div class="bg-[#1a1a1a] border border-amber-500/20 rounded-[2.5rem] p-10 hover:border-amber-500/40 transition-all duration-500 group relative overflow-hidden hover:-translate-y-2 shadow-xl hover:shadow-amber-500/5">
+            <div class="absolute -right-20 -top-20 w-64 h-64 bg-amber-500/5 rounded-full blur-[80px] group-hover:bg-amber-500/10 transition-colors"></div>
+            <div class="flex items-center gap-4 mb-8">
+              <div class="w-16 h-16 bg-amber-500/10 rounded-2xl flex items-center justify-center text-3xl group-hover:scale-110 transition-transform duration-500 ring-1 ring-amber-500/20">
+                📓
+              </div>
+              <div>
+                <h3 class="text-2xl font-black text-amber-400 tracking-tight">NotebookLM</h3>
+                <span class="text-[10px] bg-amber-500 text-black px-2 py-0.5 rounded font-black uppercase tracking-tighter">Gold Standard</span>
+              </div>
+            </div>
+            <p class="text-white/70 leading-relaxed">
+              Utilizamos <strong>Google NotebookLM</strong> para procesar nuestro currículo. Es la inteligencia más avanzada para organizar material de estudio, generando guías automáticas que se adaptan a tu ritmo de aprendizaje.
+            </p>
+          </div>
+
+          <!-- ChatGPT Card -->
+          <div class="bg-[#1a1a1a] border border-emerald-500/20 rounded-[2.5rem] p-10 hover:border-emerald-500/40 transition-all duration-500 group relative overflow-hidden hover:-translate-y-2 shadow-xl hover:shadow-emerald-500/5">
+            <div class="absolute -right-20 -top-20 w-64 h-64 bg-emerald-500/5 rounded-full blur-[80px] group-hover:bg-emerald-500/10 transition-colors"></div>
+            <div class="flex items-center gap-4 mb-8">
+              <div class="w-16 h-16 bg-emerald-500/10 rounded-2xl flex items-center justify-center text-3xl group-hover:scale-110 transition-transform duration-500 shadow-[0_0_20px_rgba(16,185,129,0.1)] ring-1 ring-emerald-500/20">
+                💬
+              </div>
+              <div>
+                <h3 class="text-2xl font-black text-emerald-400 tracking-tight">Elite Study Mode</h3>
+                <span class="text-[10px] bg-emerald-500 text-black px-2 py-0.5 rounded font-black uppercase tracking-tighter">Socratic Tutor</span>
+              </div>
+            </div>
+            <p class="text-white/70 leading-relaxed">
+              Nuestra tecnología genera <strong>prompts maestros</strong> que activan perfiles de tutoría de élite en ChatGPT. No te da las respuestas, te enseña a razonar como un estudiante exitoso.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Features Grid -->
+    <section class="py-16 px-4 border-t border-white/10 bg-white/[0.02]">
+      <div class="max-w-6xl mx-auto">
+        <h2 class="text-3xl font-bold mb-12 text-center">¿Qué ofrecemos?</h2>
+        
+        <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+          {features.map(feature => (
+            <div class="p-8 bg-[#1a1a1a] border border-white/5 rounded-2xl hover:border-white/20 transition-all duration-300">
+              <div class="text-3xl mb-4">{feature.icon}</div>
+              <h3 class="text-xl font-bold mb-3">{feature.title}</h3>
+              <p class="text-white/60 text-sm leading-relaxed">{feature.description}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <!-- Open Source Section -->
+    <section class="py-16 px-4 border-t border-white/10">
+      <div class="max-w-4xl mx-auto text-center">
+        <div class="inline-block p-4 bg-white/5 rounded-full mb-6">
+          <svg width="48" height="48" viewBox="0 0 24 24" fill="currentColor" class="text-[#F5F5DC]">
+            <path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/>
+          </svg>
+        </div>
+        <h2 class="text-3xl font-bold mb-6">100% Open Source</h2>
+        <p class="text-lg text-white/70 mb-8 max-w-2xl mx-auto">
+          Todo nuestro código está disponible públicamente en GitHub.
+          Puedes ver exactamente cómo funciona, reportar errores, sugerir mejoras,
+          o incluso contribuir con código o contenido.
+        </p>
+        <div class="flex flex-wrap gap-4 justify-center">
+          <a
+            href="https://github.com/world-exams"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="inline-flex items-center gap-2 px-6 py-3 bg-[#F5F5DC] text-[#121212] font-semibold rounded-lg hover:bg-white transition-colors"
+          >
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/>
+            </svg>
+            Ver en GitHub
+          </a>
+          <FeedbackTrigger
+            client:load
+            label="Reportar Problema"
+            icon="🚩"
+            userContext="SobreNosotros_Hero"
+          />
+        </div>
+      </div>
+    </section>
+
+    <!-- Stats Section -->
+    <section class="py-16 px-4 border-t border-white/10 bg-white/[0.02]">
+      <div class="max-w-4xl mx-auto">
+        <h2 class="text-3xl font-bold mb-12 text-center">En Números</h2>
+
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
+          <div class="p-6">
+            <div class="text-4xl font-bold text-[#FCD116] mb-2">24/7</div>
+            <div class="text-sm text-white/60">Práctica Disponible</div>
+          </div>
+          <div class="p-6">
+            <div class="text-4xl font-bold text-[#FCD116] mb-2">10</div>
+            <div class="text-sm text-white/60">Asignaturas</div>
+          </div>
+          <div class="p-6">
+            <div class="text-4xl font-bold text-[#FCD116] mb-2">4</div>
+            <div class="text-sm text-white/60">Grados Saber</div>
+          </div>
+          <div class="p-6">
+            <div class="text-4xl font-bold text-[#FCD116] mb-2">∞</div>
+            <div class="text-sm text-white/60">Potencial</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Feedback & Community Section -->
+    <section class="py-20 px-4 border-t border-white/10 bg-gradient-to-b from-transparent to-emerald-500/[0.02]">
+      <div class="max-w-4xl mx-auto">
+        <div class="grid md:grid-cols-2 gap-8">
+          <div data-sr="fade-right">
+            <h2 class="text-3xl font-bold mb-6">Tu Feedback es Clave</h2>
+            <p class="text-white/70 mb-8 leading-relaxed">
+              SaberParaTodos es un proyecto vivo que mejora cada día gracias a los reportes y sugerencias de la comunidad.
+              Si encuentras un error, tienes una idea o quieres proponer contenido, ¡háznoslo saber!
+            </p>
+            <div class="flex flex-wrap gap-4">
+              <a
+                href="https://github.com/world-exams/saberparatodos#contributing"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="inline-block px-6 py-3 bg-[#F5F5DC] text-[#121212] font-semibold rounded-lg hover:bg-white transition-colors"
+              >
+                Guía de Contribución →
+              </a>
+              <a
+                href="/practica"
+                class="inline-block px-6 py-3 border border-white/20 text-[#F5F5DC] font-semibold rounded-lg hover:bg-white/5 transition-colors"
+              >
+                Comenzar a Practicar
+              </a>
+            </div>
+          </div>
+
+          <div data-sr="fade-left">
+            <FeedbackTrigger
+              client:visible
+              variant="card"
+              label="Buzón de Sugerencias"
+              description="Envía tus comentarios directamente a nuestro equipo de desarrollo. No necesitas cuenta de GitHub."
+              icon="💡"
+              userContext="SobreNosotros_Card"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <!-- Schema.org JSON-LD -->
+  <script is:inline type="application/ld+json" set:html={JSON.stringify(schema)} />
+</Layout>

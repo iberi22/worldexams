@@ -1,0 +1,68 @@
+{
+  "project": "worldexams",
+  "release": {
+    "version": "0.11.0",
+    "date": "2026-03-13",
+    "status": "private-prelaunch",
+    "changelog_path": "docs/CHANGELOG.md"
+  },
+  "tracking": {
+    "source_of_truth": ".gitcore/features.json",
+    "architecture_path": ".gitcore/ARCHITECTURE.md",
+    "planning_path": ".gitcore/planning/PLANNING.md",
+    "taskboard_path": ".gitcore/planning/TASK.md",
+    "changelog_path": "docs/CHANGELOG.md",
+    "visible_app_version_source": "package.json + saberparatodos/package.json",
+    "site_boundary_doc": "docs/monorepo/SITE_BOUNDARIES.md"
+  },
+  "features": [
+    {
+      "id": "monorepo-governance",
+      "name": "Monorepo governance and documentation authority",
+      "status": "active",
+      "tracked_in_changelog": true
+    },
+    {
+      "id": "gitcore-adapted-protocol",
+      "name": "GitCore-adapted project protocol",
+      "status": "active",
+      "tracked_in_changelog": true
+    },
+    {
+      "id": "shared-multicountry-architecture",
+      "name": "Shared multi-country architecture",
+      "status": "active",
+      "tracked_in_changelog": true
+    },
+    {
+      "id": "root-site-vs-product-runtime-boundary",
+      "name": "Root site versus reusable product runtime boundary",
+      "status": "active",
+      "tracked_in_changelog": true
+    },
+    {
+      "id": "gitcore-planning-layer",
+      "name": "GitCore planning layer inside .gitcore/planning",
+      "status": "active",
+      "tracked_in_changelog": true
+    },
+    {
+      "id": "worldexams-site-workspace",
+      "name": "Dedicated worldexams-site workspace under apps/",
+      "status": "active",
+      "tracked_in_changelog": true
+    },
+    {
+      "id": "manual-cli-deploy",
+      "name": "Manual CLI deploy workflow",
+      "status": "active",
+      "tracked_in_changelog": true
+    },
+    {
+      "id": "developer-api-and-worker-gateway",
+      "name": "Developer API and worker gateway",
+      "status": "active",
+      "tracked_in_changelog": true
+    }
+  ]
+}

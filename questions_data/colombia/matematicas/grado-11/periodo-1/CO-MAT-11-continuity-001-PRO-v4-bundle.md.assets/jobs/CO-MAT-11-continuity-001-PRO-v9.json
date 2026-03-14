@@ -1,0 +1,65 @@
+{
+  "protocol_version": "4.1",
+  "country": "co",
+  "grade": 11,
+  "period": 1,
+  "subject": "matematicas",
+  "topic": "Continuidad en un punto y en intervalos",
+  "bundle_file": "CO-MAT-11-continuity-001-PRO-v4-bundle.md",
+  "bundle_assets_dir": "src/content/questions/colombia/matematicas/grado-11/periodo-1/CO-MAT-11-continuity-001-PRO-v4-bundle.md.assets",
+  "question_id": "CO-MAT-11-continuity-001-PRO-v9",
+  "question_type": "single",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "total_seconds": 15,
+    "intro_seconds": 3,
+    "explanation_seconds": 9,
+    "outro_seconds": 3
+  },
+  "branding": {
+    "intro": [
+      "worldexams",
+      "saberparatodos"
+    ],
+    "outro": [
+      "worldexams",
+      "saberparatodos"
+    ]
+  },
+  "content": {
+    "statement": "Halle los valores de $a$ y $b$ para que $f(x)$ sea continua en todas partes:\r\n$f(x) = \\begin{cases} \\frac{x^2 - 4}{x - 2} & x < 2 \\\\ ax^2 - bx + 3 & 2 \\le x < 3 \\\\ 2x - a + b & x \\ge 3 \\end{cases}$",
+    "explanation": "1. En $x=2$: Límite izquierdo = $\\frac{(x-2)(x+2)}{x-2} \\to 4$. Límite derecho = $a(2^2) - b(2) + 3 = 4a - 2b + 3$.\r\n   Ecuación 1: $4a - 2b + 3 = 4 \\to 4a - 2b = 1$.\r\n2. En $x=3$: Límite izquierdo = $a(3^2) - b(3) + 3 = 9a - 3b + 3$. Límite derecho = $2(3) - a + b = 6 - a + b$.\r\n   Ecuación 2: $9a - 3b + 3 = 6 - a + b \\to 10a - 4b = 3$.\r\n3. Resolviendo el sistema: Multiplicamos Eq1 por 2: $8a - 4b = 2$.\r\n   Restamos de Eq2: $(10a - 8a) = 3 - 2 \\to 2a = 1 \\to a = 1/2$.\r\n   Sustituimos $a$: $4(1/2) - 2b = 1 \\to 2 - 2b = 1 \\to 1 = 2b \\to b = 1/2$.\r\n*Nota*: He recalculado y la opción A del distractor original no coincidía con este razonamiento. Usaré los valores $a=1/2, b=1/2$.",
+    "narration_script": "Vamos a resolver esta pregunta en tres pasos. Paso uno, identifica los datos del enunciado. Paso dos, plantea la operación o ecuación correcta. Paso tres, verifica el resultado y confirma la opción final. 1. En $x=2$: Límite izquierdo = $\\frac{(x-2)(x+2)}{x-2} \\to 4$. Límite derecho = $a(2^2) - b(2) + 3 = 4a - 2b + 3$.\r\n   Ecuación 1: $4a - 2b + 3 = 4 \\to 4a - 2b = 1$.\r\n2. En $x=3$: Límite izquierdo = $a(3^2) - b(3) + 3 = 9a - 3b + 3$. Límite derecho = $2(3) - a + b = 6 - a + b$.\r\n   Ecuación 2: $9a - 3b + 3 = 6 - a + b \\to 10a - 4b = 3$.\r\n3. Resolviendo el sistema: Multiplicamos Eq1 por 2: $8a - 4b = 2$.\r\n   Restamos de Eq2: $(10a - 8a) = 3 - 2 \\to 2a = 1 \\to a = 1/2$.\r\n   Sustituimos $a$: $4(1/2) - 2b = 1 \\to 2 - 2b = 1 \\to 1 = 2b \\to b = 1/2$.\r\n*Nota*: He recalculado y la opción A del distractor original no coincidía con este razonamiento. Usaré los valores $a=1/2, b=1/2$."
+  },
+  "audio": {
+    "tts_engine": "xtts-v2-local",
+    "align_engine": "whisperx",
+    "fallback_engine": "piper"
+  },
+  "outputs": {
+    "final_video_path": "renders/CO-MAT-11-continuity-001-PRO-v9.mp4",
+    "audio_path": "audio/CO-MAT-11-continuity-001-PRO-v9.mp3",
+    "timings_path": "timings/CO-MAT-11-continuity-001-PRO-v9.json",
+    "subtitles_path": "subtitles/CO-MAT-11-continuity-001-PRO-v9.srt"
+  },
+  "social": {
+    "youtube": {
+      "mode": "auto",
+      "status": "pending"
+    },
+    "instagram": {
+      "mode": "auto",
+      "status": "pending"
+    },
+    "tiktok": {
+      "mode": "manual_queue",
+      "status": "pending"
+    }
+  },
+  "status": "generated",
+  "created_at": "2026-03-04T17:50:17.555Z",
+  "generated_at": "2026-03-04T18:44:46.125607Z",
+  "updated_at": "2026-03-04T18:44:46.125656Z"
+}

@@ -1,0 +1,24 @@
+---
+// Client-side redirect to main app
+---
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Redirigiendo a SaberParaTodos...</title>
+  <script is:inline>
+    // Redirect /sala-examenes?join=CODE -> /practica?join=CODE
+    const url = new URL(window.location.href);
+    const joinCode = url.searchParams.get('join');
+    if (joinCode) {
+      window.location.href = `/practica?join=${joinCode}`;
+    } else {
+      window.location.href = '/practica';
+    }
+  </script>
+</head>
+<body>
+  <p>Redirigiendo...</p>
+</body>
+</html>

@@ -1,0 +1,105 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import { getCountryByCode, countries } from '../../../data/countries';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  return countries
+    .filter(c => c.status === 'live')
+    .map(country => ({
+      params: { country: country.code.toLowerCase() },
+      props: { countryData: country },
+    }));
+}
+
+const { country } = Astro.params;
+const { countryData } = Astro.props;
+
+// Get the folder name for questions (may differ from country code)
+const countryFolder = countryData.folder || country;
+
+// Get questions for this country
+const allQuestions = await getCollection('questions');
+
+// Filter: _shared + country specific
+const countryQuestions = allQuestions.filter(q => {
+  const questionPath = q.id.split('/')[0];
+  return questionPath === '_shared' || questionPath === countryFolder;
+});
+
+// Group by asignatura
+const bySubject: Record<string, typeof countryQuestions> = {};
+countryQuestions.forEach(q => {
+  const subject = q.data.asignatura;
+  if (!bySubject[subject]) bySubject[subject] = [];
+  bySubject[subject].push(q);
+});
+
+const subjects = Object.keys(bySubject);
+---
+
+<Layout title={countryData.name}>
+  <section class="min-h-screen py-24 px-4">
+    <div class="max-w-6xl mx-auto">
+      <!-- Header -->
+      <div class="text-center mb-16">
+        <div class="text-6xl mb-4">{countryData.flag}</div>
+        <h1 class="text-4xl md:text-5xl font-bold mb-4">{countryData.name}</h1>
+        <p class="text-xl text-text-secondary">{countryData.exam}</p>
+        <div class="mt-4">
+          <span class="badge-live">Live</span>
+          <span class="ml-4 text-text-secondary">
+            📝 {countryQuestions.length} preguntas disponibles
+          </span>
+        </div>
+      </div>
+
+      <!-- Subjects Grid -->
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {subjects.map(subject => {
+          const questions = bySubject[subject];
+          const grades = [...new Set(questions.map(q => q.data.grado))].sort();
+
+          return (
+            <a
+              href={`/exams/${country}/${subject.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\s+/g, '-')}`}
+              class="country-card group"
+              style={`--flag-stripe: ${countryData.flagStripe};`}
+            >
+              <h3 class="text-xl font-semibold mb-2">{subject}</h3>
+              <p class="text-text-secondary text-sm mb-4">
+                {questions.length} preguntas
+              </p>
+              <div class="flex flex-wrap gap-2">
+                {grades.map(grade => (
+                  <span class="px-2 py-1 text-xs bg-accent-cyan/10 text-accent-cyan rounded">
+                    Grado {grade}
+                  </span>
+                ))}
+              </div>
+            </a>
+          );
+        })}
+      </div>
+
+      <!-- Quick Practice -->
+      <div class="mt-16 text-center">
+        <h2 class="text-2xl font-bold mb-6">Práctica Rápida</h2>
+        <a
+          href={`/exams/${country}/practice`}
+          class="btn-primary inline-flex items-center gap-2 text-lg"
+        >
+          🎯 Iniciar Examen de Práctica
+        </a>
+        <p class="text-text-secondary mt-4">10 preguntas aleatorias de todas las materias</p>
+      </div>
+
+      <!-- Back Link -->
+      <div class="mt-16 text-center">
+        <a href="/" class="text-text-secondary hover:text-accent-cyan transition-colors">
+          ← Volver a todos los países
+        </a>
+      </div>
+    </div>
+  </section>
+</Layout>

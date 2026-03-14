@@ -1,0 +1,203 @@
+name: Research Questions
+
+on:
+  workflow_dispatch:
+    inputs:
+      country:
+        description: 'Target country code'
+        required: true
+        type: choice
+        options:
+          - CO
+          - MX
+          - BR
+          - US
+      category:
+        description: 'Question category'
+        required: true
+        type: choice
+        options:
+          - science
+          - mathematics
+          - history
+          - geography
+          - general_knowledge
+          - computers
+      num_questions:
+        description: 'Number of source questions'
+        required: false
+        type: number
+        default: 3
+      language:
+        description: 'Output language'
+        required: true
+        type: choice
+        options:
+          - es
+          - pt
+          - en
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    name: Research Questions
+    outputs:
+      num_questions: ${{ steps.fetch.outputs.num_questions }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch questions from OpenTDB
+        id: fetch
+        run: |
+          CATEGORY="${{ inputs.category }}"
+          NUM="${{ inputs.num_questions }}"
+
+          case "$CATEGORY" in
+            "science") CAT_ID=17 ;;
+            "mathematics") CAT_ID=19 ;;
+            "history") CAT_ID=23 ;;
+            "geography") CAT_ID=22 ;;
+            "general_knowledge") CAT_ID=9 ;;
+            "computers") CAT_ID=18 ;;
+            *) CAT_ID=9 ;;
+          esac
+
+          echo "Fetching from OpenTDB (Category: $CATEGORY, ID: $CAT_ID)..."
+
+          curl -s "https://opentdb.com/api.php?amount=${NUM}&category=${CAT_ID}&type=multiple&encode=url3986" \
+            -o /tmp/opentdb_raw.json
+
+          node << 'SCRIPT'
+          const fs = require('fs');
+          const data = JSON.parse(fs.readFileSync('/tmp/opentdb_raw.json', 'utf8'));
+
+          if (data.response_code !== 0) {
+            console.error('API Error:', data);
+            process.exit(1);
+          }
+
+          const questions = data.results.map((q, i) => ({
+            id: i + 1,
+            source: 'OpenTDB',
+            source_url: 'https://opentdb.com',
+            license: 'CC BY-SA 4.0',
+            category: decodeURIComponent(q.category),
+            difficulty: q.difficulty,
+            question: decodeURIComponent(q.question),
+            correct_answer: decodeURIComponent(q.correct_answer),
+            incorrect_answers: q.incorrect_answers.map(a => decodeURIComponent(a)),
+            original_language: 'en'
+          }));
+
+          fs.writeFileSync('/tmp/researched_questions.json', JSON.stringify(questions, null, 2));
+          console.log('Fetched ' + questions.length + ' questions');
+          SCRIPT
+
+          echo "num_questions=$(cat /tmp/researched_questions.json | node -e "console.log(JSON.parse(require('fs').readFileSync('/dev/stdin','utf8')).length)")" >> $GITHUB_OUTPUT
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: researched-questions
+          path: /tmp/researched_questions.json
+          retention-days: 1
+
+  create-issue:
+    runs-on: ubuntu-latest
+    name: Create Issue
+    needs: research
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: researched-questions
+          path: /tmp
+
+      - name: Create Issue for Copilot
+        id: create_issue
+        env:
+          COUNTRY: ${{ inputs.country }}
+          LANGUAGE: ${{ inputs.language }}
+          CATEGORY: ${{ inputs.category }}
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const questions = JSON.parse(fs.readFileSync('/tmp/researched_questions.json', 'utf8'));
+            const country = process.env.COUNTRY;
+            const language = process.env.LANGUAGE;
+            const category = process.env.CATEGORY;
+            const countryMap = {
+              'CO': { folder: 'colombia', lang: 'es', exam: 'Saber 11' },
+              'MX': { folder: 'mexico', lang: 'es', exam: 'EXANI-II' },
+              'BR': { folder: 'brasil', lang: 'pt', exam: 'ENEM' },
+              'US': { folder: 'usa', lang: 'en', exam: 'SAT' }
+            };
+            const config = countryMap[country] || countryMap['CO'];
+            let body = '## Task: Generate Question Variations\n\n';
+            body += 'Country: ' + country + ' (' + config.exam + ')\n';
+            body += 'Language: ' + config.lang + '\n';
+            body += 'Category: ' + category + '\n';
+            body += 'Target folder: src/content/questions/' + config.folder + '/\n\n';
+            body += '---\n\n';
+            body += '## Instructions for Copilot\n\n';
+            body += 'For EACH source question below, generate 6 variations.\n\n';
+            body += '## Source Questions\n\n';
+            questions.forEach((q, i) => {
+              body += '### Source ' + (i + 1) + ': ' + q.category + '\n\n';
+              body += '- Original: ' + q.question + '\n';
+              body += '- Correct: ' + q.correct_answer + '\n';
+              body += '- Wrong: ' + q.incorrect_answers.join(', ') + '\n';
+              body += '- Source: ' + q.source + ' (' + q.source_url + ')\n';
+              body += '- License: ' + q.license + '\n\n';
+            });
+            const issue = await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: 'Generate ' + (questions.length * 6) + ' questions for ' + country + ' - ' + category,
+              body: body,
+              labels: ['copilot', 'questions', 'automated']
+            });
+            console.log('Created issue #' + issue.data.number);
+            core.setOutput('issue_number', issue.data.number);
+
+      - name: Trigger Copilot
+        env:
+          ISSUE_NUMBER: ${{ steps.create_issue.outputs.issue_number }}
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issueNumber = parseInt(process.env.ISSUE_NUMBER);
+            try {
+              await github.rest.issues.addAssignees({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issueNumber,
+                assignees: ['copilot']
+              });
+              console.log('Assigned Copilot to issue');
+            } catch (error) {
+              console.log('Could not assign Copilot: ' + error.message);
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issueNumber,
+                body: '@github-copilot Please help generate the question variations described above.'
+              });
+              console.log('Added comment to trigger Copilot');
+            }

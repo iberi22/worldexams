@@ -1,0 +1,308 @@
+
+> saberparatodos@0.10.0 test:unit
+> vitest run
+
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2m20:19:08[22m [34m[@astrojs/cloudflare][39m Enabling sessions with Cloudflare KV with the "SESSION" KV binding.
+[2m20:19:08[22m [34m[@astrojs/cloudflare][39m If you see the error "Invalid binding `SESSION`" in your build output, you need to add the binding to your wrangler config file.
+Using vars defined in .env
+
+[1m[46m RUN [49m[22m [36mv4.0.16 [39m[90mE:/scripts-python/worldexams/saberparatodos[39m
+
+ [32m✓[39m src/lib/scoring.test.ts [2m([22m[2m18 tests[22m[2m)[22m[32m 48[2mms[22m[39m
+[90mstdout[2m | src/lib/english-proficiency.test.ts[2m > [22m[2m60-Question Proficiency Scenarios[2m > [22m[2mSCENARIO 1: 60 questions ALL CORRECT → Should estimate C1 (highest level)
+[22m[39m
+📊 SCENARIO 1: ALL CORRECT
+  Total questions: [33m60[39m
+  Estimated Level: C1
+  Confidence: [33m100[39m %
+  Overall Accuracy: [33m100[39m %
+  Breakdown:
+    A1: 100% (6/6)
+    A1+: 100% (6/6)
+    A2: 100% (6/6)
+    A2+: 100% (6/6)
+    B1: 100% (12/12)
+    B1+: 100% (6/6)
+    B2: 100% (6/6)
+    B2+: 100% (6/6)
+    C1: 100% (6/6)
+
+[90mstdout[2m | src/lib/english-proficiency.test.ts[2m > [22m[2m60-Question Proficiency Scenarios[2m > [22m[2mSCENARIO 2: 60 questions ALL INCORRECT → Should estimate A1 (lowest level)
+[22m[39m
+📊 SCENARIO 2: ALL INCORRECT
+  Total questions: [33m60[39m
+  Estimated Level: A1
+  Confidence: [33m100[39m %
+  Overall Accuracy: [33m0[39m %
+  Breakdown:
+    A1: 0% (0/6)
+    A1+: 0% (0/6)
+    A2: 0% (0/6)
+    A2+: 0% (0/6)
+    B1: 0% (0/12)
+    B1+: 0% (0/6)
+    B2: 0% (0/6)
+    B2+: 0% (0/6)
+    C1: 0% (0/6)
+
+[90mstdout[2m | src/lib/english-proficiency.test.ts[2m > [22m[2m60-Question Proficiency Scenarios[2m > [22m[2mSCENARIO 3: 60 questions 50% CORRECT → Should estimate mid-level (A2+ to B1)
+[22m[39m
+📊 SCENARIO 3: 50% CORRECT
+  Total questions: [33m60[39m
+  Estimated Level: A2
+  Confidence: [33m100[39m %
+  Overall Accuracy: [33m50[39m %
+  Breakdown:
+    A1: 50% (3/6)
+    A1+: 50% (3/6)
+    A2: 50% (3/6)
+    A2+: 50% (3/6)
+    B1: 50% (6/12)
+    B1+: 50% (3/6)
+    B2: 50% (3/6)
+    B2+: 50% (3/6)
+    C1: 50% (3/6)
+  Expected: A1 (no level passes 80% threshold)
+
+[90mstdout[2m | src/lib/english-proficiency.test.ts[2m > [22m[2m60-Question Proficiency Scenarios[2m > [22m[2mSCENARIO 4: Strong at lower levels, weak at higher → Should detect ceiling correctly
+[22m[39m
+📊 SCENARIO 4: REALISTIC CEILING
+  Total questions: [33m60[39m
+  Estimated Level: A2+
+  Confidence: [33m100[39m %
+  Strengths: A1, A1+, A2, A2+
+  Weaknesses: B2, B2+, C1
+  Breakdown:
+    A1: 100% (6/6)
+    A1+: 100% (6/6)
+    A2: 100% (6/6)
+    A2+: 100% (6/6)
+    B1: 50% (6/12)
+    B1+: 50% (3/6)
+    B2: 0% (0/6)
+    B2+: 0% (0/6)
+    C1: 0% (0/6)
+
+ [31m❯[39m src/lib/questions/policy.test.ts [2m([22m[2m3 tests[22m[2m | [22m[31m2 failed[39m[2m)[22m[32m 21[2mms[22m[39m
+     [32m✓[39m infers protocol from bundle fingerprints when frontmatter is absent[32m 3[2mms[22m[39m
+[31m     [31m×[31m rejects old protocols and low difficulty for grade 11[39m[32m 11[2mms[22m[39m
+[31m     [31m×[31m filters only grade 11 questions and leaves other grades untouched[39m[32m 4[2mms[22m[39m
+ [32m✓[39m src/lib/english-proficiency.test.ts [2m([22m[2m17 tests[22m[2m)[22m[32m 23[2mms[22m[39m
+ [32m✓[39m src/utils/rotation-logic.test.ts [2m([22m[2m6 tests[22m[2m)[22m[32m 13[2mms[22m[39m
+ [32m✓[39m src/utils/questionParser.test.ts [2m([22m[2m11 tests[22m[2m)[22m[32m 15[2mms[22m[39m
+ [32m✓[39m src/lib/adaptive-engine.test.ts [2m([22m[2m7 tests[22m[2m)[22m[32m 11[2mms[22m[39m
+ [32m✓[39m src/lib/questions/filters.test.ts [2m([22m[2m2 tests[22m[2m)[22m[32m 8[2mms[22m[39m
+ [32m✓[39m src/lib/mmr-system.test.ts [2m([22m[2m13 tests[22m[2m)[22m[32m 13[2mms[22m[39m
+stderr | src/lib/questions/english_selection.test.ts > fetchEnglishQuestionsAllGrades filtering > allows mixed protocols and filters difficulty for higher grades for Low Levels (A2)
+Falling back to local packs: TypeError: Failed to parse URL from /api/questions?country=co&exam=icfes&grade=4&page=1&subject=ingles
+    at node:internal/deps/undici/undici:13510:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at fetchQuestionsFromPacks (E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:243:27)
+    at E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:461:9
+    at async Promise.all (index 1)
+    at Module.fetchEnglishQuestionsAllGrades (E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:452:24)
+    at E:/scripts-python/worldexams/saberparatodos/src/lib/questions/english_selection.test.ts:56:21
+    at file:///E:/scripts-python/worldexams/saberparatodos/node_modules/@vitest/runner/dist/index.js:915:20 {
+  [cause]: TypeError: Invalid URL
+      at new URL (node:internal/url:825:25)
+      at new URL$1 (file:///E:/scripts-python/worldexams/saberparatodos/node_modules/vitest/dist/chunks/index.BspFP3mn.js:556:9)
+      at new Request (node:internal/deps/undici/undici:9586:25)
+      at fetch (node:internal/deps/undici/undici:10315:25)
+      at fetch (node:internal/deps/undici/undici:13508:10)
+      at fetch (node:internal/bootstrap/web/exposed-window-or-worker:75:12)
+      at fetchQuestionsFromPacks (E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:243:33)
+      at E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:461:15
+      at Array.map (<anonymous>)
+      at Module.fetchEnglishQuestionsAllGrades (E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:452:53) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/questions?country=co&exam=icfes&grade=4&page=1&subject=ingles'
+  }
+}
+Falling back to local packs: TypeError: Failed to parse URL from /api/questions?country=co&exam=icfes&grade=5&page=1&subject=ingles
+    at node:internal/deps/undici/undici:13510:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at fetchQuestionsFromPacks (E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:243:27)
+    at E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:461:9
+    at async Promise.all (index 2)
+    at Module.fetchEnglishQuestionsAllGrades (E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:452:24)
+    at E:/scripts-python/worldexams/saberparatodos/src/lib/questions/english_selection.test.ts:56:21
+    at file:///E:/scripts-python/worldexams/saberparatodos/node_modules/@vitest/runner/dist/index.js:915:20 {
+  [cause]: TypeError: Invalid URL
+      at new URL (node:internal/url:825:25)
+      at new URL$1 (file:///E:/scripts-python/worldexams/saberparatodos/node_modules/vitest/dist/chunks/index.BspFP3mn.js:556:9)
+      at new Request (node:internal/deps/undici/undici:9586:25)
+      at fetch (node:internal/deps/undici/undici:10315:25)
+      at fetch (node:internal/deps/undici/undici:13508:10)
+      at fetch (node:internal/bootstrap/web/exposed-window-or-worker:75:12)
+      at fetchQuestionsFromPacks (E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:243:33)
+      at E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:461:15
+      at Array.map (<anonymous>)
+      at Module.fetchEnglishQuestionsAllGrades (E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:452:53) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/questions?country=co&exam=icfes&grade=5&page=1&subject=ingles'
+  }
+}
+Falling back to local packs: TypeError: Failed to parse URL from /api/questions?country=co&exam=icfes&grade=6&page=1&subject=ingles
+    at node:internal/deps/undici/undici:13510:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at fetchQuestionsFromPacks (E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:243:27)
+    at E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:461:9
+    at async Promise.all (index 3)
+    at Module.fetchEnglishQuestionsAllGrades (E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:452:24)
+    at E:/scripts-python/worldexams/saberparatodos/src/lib/questions/english_selection.test.ts:56:21
+    at file:///E:/scripts-python/worldexams/saberparatodos/node_modules/@vitest/runner/dist/index.js:915:20 {
+  [cause]: TypeError: Invalid URL
+      at new URL (node:internal/url:825:25)
+      at new URL$1 (file:///E:/scripts-python/worldexams/saberparatodos/node_modules/vitest/dist/chunks/index.BspFP3mn.js:556:9)
+      at new Request (node:internal/deps/undici/undici:9586:25)
+      at fetch (node:internal/deps/undici/undici:10315:25)
+      at fetch (node:internal/deps/undici/undici:13508:10)
+      at fetch (node:internal/bootstrap/web/exposed-window-or-worker:75:12)
+      at fetchQuestionsFromPacks (E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:243:33)
+      at E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:461:15
+      at Array.map (<anonymous>)
+      at Module.fetchEnglishQuestionsAllGrades (E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:452:53) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/questions?country=co&exam=icfes&grade=6&page=1&subject=ingles'
+  }
+}
+Falling back to local packs: TypeError: Failed to parse URL from /api/questions?country=co&exam=icfes&grade=7&page=1&subject=ingles
+    at node:internal/deps/undici/undici:13510:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at fetchQuestionsFromPacks (E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:243:27)
+    at E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:461:9
+    at async Promise.all (index 4)
+    at Module.fetchEnglishQuestionsAllGrades (E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:452:24)
+    at E:/scripts-python/worldexams/saberparatodos/src/lib/questions/english_selection.test.ts:56:21
+    at file:///E:/scripts-python/worldexams/saberparatodos/node_modules/@vitest/runner/dist/index.js:915:20 {
+  [cause]: TypeError: Invalid URL
+      at new URL (node:internal/url:825:25)
+      at new URL$1 (file:///E:/scripts-python/worldexams/saberparatodos/node_modules/vitest/dist/chunks/index.BspFP3mn.js:556:9)
+      at new Request (node:internal/deps/undici/undici:9586:25)
+      at fetch (node:internal/deps/undici/undici:10315:25)
+      at fetch (node:internal/deps/undici/undici:13508:10)
+      at fetch (node:internal/bootstrap/web/exposed-window-or-worker:75:12)
+      at fetchQuestionsFromPacks (E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:243:33)
+      at E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:461:15
+      at Array.map (<anonymous>)
+      at Module.fetchEnglishQuestionsAllGrades (E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:452:53) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/questions?country=co&exam=icfes&grade=7&page=1&subject=ingles'
+  }
+}
+Falling back to local packs: TypeError: Failed to parse URL from /api/questions?country=co&exam=icfes&grade=8&page=1&subject=ingles
+    at node:internal/deps/undici/undici:13510:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at fetchQuestionsFromPacks (E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:243:27)
+    at E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:461:9
+    at async Promise.all (index 5)
+    at Module.fetchEnglishQuestionsAllGrades (E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:452:24)
+    at E:/scripts-python/worldexams/saberparatodos/src/lib/questions/english_selection.test.ts:56:21
+    at file:///E:/scripts-python/worldexams/saberparatodos/node_modules/@vitest/runner/dist/index.js:915:20 {
+  [cause]: TypeError: Invalid URL
+      at new URL (node:internal/url:825:25)
+      at new URL$1 (file:///E:/scripts-python/worldexams/saberparatodos/node_modules/vitest/dist/chunks/index.BspFP3mn.js:556:9)
+      at new Request (node:internal/deps/undici/undici:9586:25)
+      at fetch (node:internal/deps/undici/undici:10315:25)
+      at fetch (node:internal/deps/undici/undici:13508:10)
+      at fetch (node:internal/bootstrap/web/exposed-window-or-worker:75:12)
+      at fetchQuestionsFromPacks (E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:243:33)
+      at E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:461:15
+      at Array.map (<anonymous>)
+      at Module.fetchEnglishQuestionsAllGrades (E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:452:53) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/questions?country=co&exam=icfes&grade=8&page=1&subject=ingles'
+  }
+}
+Falling back to local packs: TypeError: Failed to parse URL from /api/questions?country=co&exam=icfes&grade=9&page=1&subject=ingles
+    at node:internal/deps/undici/undici:13510:13
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at fetchQuestionsFromPacks (E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:243:27)
+    at E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:461:9
+    at async Promise.all (index 6)
+    at Module.fetchEnglishQuestionsAllGrades (E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:452:24)
+    at E:/scripts-python/worldexams/saberparatodos/src/lib/questions/english_selection.test.ts:56:21
+    at file:///E:/scripts-python/worldexams/saberparatodos/node_modules/@vitest/runner/dist/index.js:915:20 {
+  [cause]: TypeError: Invalid URL
+      at new URL (node:internal/url:825:25)
+      at new URL$1 (file:///E:/scripts-python/worldexams/saberparatodos/node_modules/vitest/dist/chunks/index.BspFP3mn.js:556:9)
+      at new Request (node:internal/deps/undici/undici:9586:25)
+      at fetch (node:internal/deps/undici/undici:10315:25)
+      at fetch (node:internal/deps/undici/undici:13508:10)
+      at fetch (node:internal/bootstrap/web/exposed-window-or-worker:75:12)
+      at fetchQuestionsFromPacks (E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:243:33)
+      at E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:461:15
+      at Array.map (<anonymous>)
+      at Module.fetchEnglishQuestionsAllGrades (E:/scripts-python/worldexams/saberparatodos/src/lib/api-service.ts:452:53) {
+    code: 'ERR_INVALID_URL',
+    input: '/api/questions?country=co&exam=icfes&grade=9&page=1&subject=ingles'
+  }
+}
+
+ [32m✓[39m src/lib/questions/english_selection.test.ts [2m([22m[2m2 tests[22m[2m)[22m[32m 37[2mms[22m[39m
+ [32m✓[39m src/lib/notebooklm/curriculum-service.test.ts [2m([22m[2m3 tests[22m[2m)[22m[32m 37[2mms[22m[39m
+ [32m✓[39m src/lib/preuniversitario/exam-pool.test.ts [2m([22m[2m3 tests[22m[2m)[22m[32m 9[2mms[22m[39m
+ [32m✓[39m src/lib/questions/sync.test.ts [2m([22m[2m1 test[22m[2m)[22m[32m 6[2mms[22m[39m
+ [32m✓[39m src/lib/questions/lookup.test.ts [2m([22m[2m2 tests[22m[2m)[22m[32m 5[2mms[22m[39m
+ [32m✓[39m src/lib/questions/subject.test.ts [2m([22m[2m3 tests[22m[2m)[22m[32m 6[2mms[22m[39m
+ [32m✓[39m src/lib/questions/stop-mode.test.ts [2m([22m[2m1 test[22m[2m)[22m[32m 6[2mms[22m[39m
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 2 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  src/lib/questions/policy.test.ts > grade 11 preicfes policy > rejects old protocols and low difficulty for grade 11
+AssertionError: expected false to be true // Object.is equality
+
+- Expected
++ Received
+
+- true
++ false
+
+ ❯ src/lib/questions/policy.test.ts:29:95
+     27|     expect(passesGrade11PreicfesPolicy(question({ protocol_version: '2…
+     28|     expect(passesGrade11PreicfesPolicy(question({ protocol_version: '4…
+     29|     expect(passesGrade11PreicfesPolicy(question({ protocol_version: '4…
+       |                                                                                               ^
+     30|   });
+     31| 
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/2]⎯
+
+ FAIL  src/lib/questions/policy.test.ts > grade 11 preicfes policy > filters only grade 11 questions and leaves other grades untouched
+AssertionError: expected [ 'grade10-ok' ] to deeply equal [ 'good-g11', 'grade10-ok' ]
+
+- Expected
++ Received
+
+  [
+-   "good-g11",
+    "grade10-ok",
+  ]
+
+ ❯ src/lib/questions/policy.test.ts:40:44
+     38|     ]);
+     39| 
+     40|     expect(results.map((item) => item.id)).toEqual(['good-g11', 'grade…
+       |                                            ^
+     41|   });
+     42| });
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[2/2]⎯
+
+
+[2m Test Files [22m [1m[31m1 failed[39m[22m[2m | [22m[1m[32m14 passed[39m[22m[90m (15)[39m
+[2m      Tests [22m [1m[31m2 failed[39m[22m[2m | [22m[1m[32m90 passed[39m[22m[90m (92)[39m
+[2m   Start at [22m 20:19:08
+[2m   Duration [22m 4.37s[2m (transform 2.79s, setup 0ms, import 3.61s, tests 256ms, environment 25.06s)[22m
+
+close timed out after 10000ms
+Tests closed successfully but something prevents Vite server from exiting
+You can try to identify the cause by enabling "hanging-process" reporter. See https://vitest.dev/config/#reporters
+npm error Lifecycle script `test:unit` failed with error:
+npm error code 1
+npm error path E:\scripts-python\worldexams\saberparatodos
+npm error workspace saberparatodos@0.10.0
+npm error location E:\scripts-python\worldexams\saberparatodos
+npm error command failed
+npm error command C:\WINDOWS\system32\cmd.exe /d /s /c vitest run

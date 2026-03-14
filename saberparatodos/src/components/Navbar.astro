@@ -1,0 +1,383 @@
+---
+/**
+ * Global Navbar Component
+ * Estilo minimalista con navegación responsive
+ */
+
+interface Props {
+  currentPath?: string;
+}
+
+const { currentPath = Astro.url.pathname } = Astro.props;
+
+import packageInfo from '../../package.json';
+const version = packageInfo.version;
+
+const navLinks = [
+  { href: '/', label: 'Prueba', icon: 'practice' },
+  { href: '/preparacion', label: 'Preparación', icon: 'guide' },
+  { href: '/guia-examen', label: 'Guía 2026', icon: 'structure' },
+  { href: '/resultados-2025', label: 'Resultados', icon: 'stats' },
+  { href: '/novedades', label: 'Novedades', icon: 'news' },
+  { href: '/instituciones', label: 'Instituciones', icon: 'building' },
+  { href: '/sobre-nosotros', label: 'Nosotros', icon: 'about' },
+];
+
+const isActive = (href: string) => {
+  if (href === '/') return currentPath === '/';
+  return currentPath.startsWith(href);
+};
+---
+
+<div class="navbar-wrapper">
+  <nav class="navbar" id="main-navbar">
+    <!-- Navbar Visual Background (With filter) -->
+    <div class="navbar-bg" aria-hidden="true"></div>
+
+    <!-- Flag Stripe Colombia -->
+    <div class="flag-stripe" aria-hidden="true">
+      <div class="stripe stripe-yellow"></div>
+      <div class="stripe stripe-blue"></div>
+      <div class="stripe stripe-red"></div>
+    </div>
+
+    <div class="navbar-container">
+      <!-- Logo -->
+      <a href="/" class="logo" aria-label="SaberParaTodos - Prueba">
+        <img src="/logo.png" alt="SaberParaTodos Logo" width="32" height="32" class="w-8 h-8 rounded" />
+        <div class="flex flex-col">
+          <span class="logo-text">SaberParaTodos</span>
+          <span class="text-[10px] text-gray-400 font-mono leading-none">v{version}</span>
+        </div>
+      </a>
+
+      <!-- Desktop Navigation -->
+      <div class="nav-links desktop-only">
+        {navLinks.map(link => (
+          <a
+            href={link.href}
+            class:list={['nav-link', { active: isActive(link.href) }]}
+          >
+            {link.label}
+          </a>
+        ))}
+      </div>
+
+      <!-- Mobile Menu Button -->
+      <button
+        class="mobile-menu-btn mobile-only"
+        aria-label="Abrir menú"
+        aria-expanded="false"
+        aria-controls="mobile-menu"
+      >
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <line x1="3" y1="6" x2="21" y2="6" class="menu-line top"/>
+          <line x1="3" y1="12" x2="21" y2="12" class="menu-line middle"/>
+          <line x1="3" y1="18" x2="21" y2="18" class="menu-line bottom"/>
+        </svg>
+      </button>
+    </div>
+  </nav>
+
+  <!-- Mobile Menu Overlay (Outside nav to escape stacking context constraints) -->
+  <div id="mobile-menu" class="mobile-menu mobile-only" aria-hidden="true">
+    <button
+      class="mobile-menu-backdrop"
+      aria-label="Cerrar menú"
+      type="button"
+    ></button>
+
+    <div class="mobile-menu-panel" role="dialog" aria-modal="true" aria-label="Menú principal">
+      <div class="mobile-menu-content">
+        <div class="mobile-menu-header">
+          <span class="mobile-menu-eyebrow">Navegación</span>
+          <p class="mobile-menu-title">Explora SaberParaTodos</p>
+        </div>
+
+        <nav class="mobile-nav-list">
+          {navLinks.map(link => (
+            <a
+              href={link.href}
+              class:list={['mobile-nav-link', { active: isActive(link.href) }]}
+            >
+              {link.label}
+            </a>
+          ))}
+        </nav>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  // Mobile menu toggle
+  const menuBtn = document.querySelector('.mobile-menu-btn');
+  const mobileMenu = document.getElementById('mobile-menu');
+  const mobileMenuBackdrop = mobileMenu?.querySelector('.mobile-menu-backdrop');
+
+  if (menuBtn && mobileMenu) {
+    const setMenuOpen = (open: boolean) => {
+      menuBtn.setAttribute('aria-expanded', open.toString());
+      mobileMenu.setAttribute('aria-hidden', (!open).toString());
+      mobileMenu.classList.toggle('open', open);
+      document.body.classList.toggle('menu-open', open);
+    };
+
+    menuBtn.addEventListener('click', () => {
+      const isOpen = menuBtn.getAttribute('aria-expanded') === 'true';
+      setMenuOpen(!isOpen);
+    });
+
+    mobileMenuBackdrop?.addEventListener('click', () => {
+      setMenuOpen(false);
+    });
+
+    // Close menu when clicking a link
+    mobileMenu.querySelectorAll('a').forEach(link => {
+      link.addEventListener('click', () => {
+        setMenuOpen(false);
+      });
+    });
+
+    document.addEventListener('keydown', (event) => {
+      if (event.key === 'Escape') {
+        setMenuOpen(false);
+      }
+    });
+  }
+</script>
+
+<style>
+  .navbar {
+    --navbar-height: 4.75rem;
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+    height: var(--navbar-height);
+  }
+
+  .navbar-bg {
+    position: absolute;
+    inset: 0;
+    background-color: rgba(18, 18, 18, 0.75);
+    backdrop-filter: blur(12px) saturate(180%);
+    -webkit-backdrop-filter: blur(12px) saturate(180%);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+    pointer-events: none;
+    z-index: -1;
+  }
+
+  /* Flag Stripe */
+  .flag-stripe {
+    display: flex;
+    height: 3px;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 10;
+  }
+
+  .stripe { flex: 1; }
+  .stripe-yellow { background-color: #FCD116; flex: 2; }
+  .stripe-blue { background-color: #003893; flex: 1; }
+  .stripe-red { background-color: #CE1126; flex: 1; }
+
+  .navbar-container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1.25rem;
+    height: var(--navbar-height);
+  }
+
+  /* Logo */
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    flex-shrink: 0;
+    text-decoration: none;
+    color: #F5F5DC;
+    transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+    z-index: 20;
+  }
+
+  .logo-text {
+    font-family: 'Fira Code', monospace;
+    font-weight: 700;
+    font-size: 1.25rem;
+    background: linear-gradient(135deg, #F5F5DC 0%, rgba(245, 245, 220, 0.7) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  /* Desktop Navigation */
+  .nav-links {
+    display: flex;
+    flex: 1;
+    min-width: 0;
+    gap: 0.35rem;
+    align-items: center;
+    justify-content: center;
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+
+  .nav-links::-webkit-scrollbar { display: none; }
+
+  .nav-link {
+    font-family: 'Inter', sans-serif;
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: rgba(245, 245, 220, 0.6);
+    text-decoration: none;
+    padding: 0.5rem 0.65rem;
+    border-radius: 6px;
+    transition: all 0.2s ease;
+    text-transform: uppercase;
+    letter-spacing: 0.025em;
+    white-space: nowrap;
+  }
+
+  .nav-link:hover { color: #10b981; background: rgba(255, 255, 255, 0.03); }
+  .nav-link.active { color: #F5F5DC; background: rgba(255, 255, 255, 0.05); }
+
+  /* Mobile Menu Container */
+  .mobile-menu {
+    position: fixed;
+    inset: 0;
+    z-index: 100000;
+    display: flex;
+    align-items: stretch;
+    justify-content: flex-end;
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    transition: all 0.3s ease;
+    overflow-x: hidden; /* Prevent panel leak */
+  }
+
+  .mobile-menu.open {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+  }
+
+  .mobile-menu-backdrop {
+    position: absolute;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.8);
+    backdrop-filter: blur(8px);
+    border: none;
+    cursor: pointer;
+  }
+
+  .mobile-menu-panel {
+    position: relative;
+    width: min(100%, 22rem);
+    background-color: #0a0a0f;
+    border-left: 1px solid rgba(16, 185, 129, 0.1);
+    box-shadow: -20px 0 60px rgba(0, 0, 0, 0.9);
+    transform: translateX(100%);
+    transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+    display: flex;
+    flex-direction: column;
+  }
+
+  .mobile-menu.open .mobile-menu-panel {
+    transform: translateX(0);
+  }
+
+  .mobile-menu-content {
+    padding: 3.5rem 1.75rem;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    overflow-y: auto;
+  }
+
+  .mobile-menu-header {
+    margin-bottom: 2rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  }
+
+  .mobile-menu-eyebrow {
+    font-family: 'Fira Code', monospace;
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    color: #10b981;
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+
+  .mobile-menu-title {
+    font-size: 1.5rem;
+    font-weight: 800;
+    color: #F5F5DC;
+    line-height: 1.2;
+    letter-spacing: -0.02em;
+  }
+
+  .mobile-nav-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .mobile-nav-link {
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: rgba(245, 245, 220, 0.6);
+    text-decoration: none;
+    padding: 1rem 1.25rem;
+    border-radius: 12px;
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    border: 1px solid transparent;
+  }
+
+  .mobile-nav-link:hover {
+    color: #F5F5DC;
+    background: rgba(255, 255, 255, 0.03);
+    border-color: rgba(255, 255, 255, 0.05);
+    transform: translateX(4px);
+  }
+
+  .mobile-nav-link.active {
+    color: #10b981;
+    background: rgba(16, 185, 129, 0.08);
+    border-color: rgba(16, 185, 129, 0.2);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  }
+
+  .mobile-menu-btn {
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    color: #F5F5DC;
+    width: 44px;
+    height: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    z-index: 20;
+  }
+
+  /* Responsive Display */
+  .desktop-only { display: none; }
+  .mobile-only { display: flex; }
+
+  @media (min-width: 1100px) {
+    .desktop-only { display: flex; }
+    .mobile-only { display: none; }
+  }
+
+  :global(body.menu-open) {
+    overflow: hidden;
+  }
+</style>

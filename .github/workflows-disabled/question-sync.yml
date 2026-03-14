@@ -1,0 +1,65 @@
+name: Question Sync
+
+on:
+  repository_dispatch:
+    types: [question_created, question_updated]
+
+  workflow_dispatch:
+    inputs:
+      source_repo:
+        description: 'Source repo (e.g., saber-co)'
+        required: false
+        type: string
+      sync_all:
+        description: 'Sync all pending questions'
+        type: boolean
+        default: false
+
+env:
+  SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+  SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+
+jobs:
+  process_event:
+    if: github.event_name == 'repository_dispatch'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Log event info
+        run: |
+          echo "Event Type: ${{ github.event.action }}"
+          echo "Source Repo: ${{ github.event.client_payload.source_repo }}"
+          echo "Question ID: ${{ github.event.client_payload.question_id }}"
+
+      - name: Process question
+        run: |
+          echo "Processing question from webhook..."
+          echo "This is a placeholder - implement processing here"
+
+  sync_pending:
+    if: github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Sync pending questions
+        run: |
+          echo "Syncing pending questions..."
+          echo "Source repo: ${{ inputs.source_repo }}"
+          echo "Sync all: ${{ inputs.sync_all }}"
+          echo "This is a placeholder - implement sync here"

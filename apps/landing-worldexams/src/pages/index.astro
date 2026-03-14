@@ -1,0 +1,191 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Globe from '../components/Globe.svelte';
+import CountryCard from '../components/CountryCard.astro';
+import { countries, getCountriesByRegion } from '../data/countries';
+
+import { getCollection } from 'astro:content';
+
+const featured = countries.filter(c => c.status === 'live');
+const latam = getCountriesByRegion('latam').filter(c => c.status !== 'live');
+const top10 = getCountriesByRegion('top10');
+const europe = getCountriesByRegion('europe');
+const asia = getCountriesByRegion('asia');
+
+// Dynamic Question Counting
+const allQuestions = await getCollection('questions');
+
+// Count questions per country
+const countryCounts: Record<string, number> = {};
+allQuestions.forEach(q => {
+  if (q.data.country) {
+    const code = q.data.country.toUpperCase();
+    countryCounts[code] = (countryCounts[code] || 0) + 1;
+  } else if (q.id) {
+    // Fallback: try to extract from ID (e.g., CO-MAT-...)
+    const parts = q.id.split('-');
+    if (parts.length > 0 && parts[0].length === 2) {
+       const code = parts[0].toUpperCase();
+       countryCounts[code] = (countryCounts[code] || 0) + 1;
+    }
+  }
+});
+
+// Update countries with dynamic counts
+countries.forEach(c => {
+  c.questionCount = countryCounts[c.code] || 0;
+});
+
+// Stats
+const totalCountries = countries.length;
+const totalQuestions = allQuestions.length; // Real total
+const liveCountries = countries.filter(c => c.status === 'live').length;
+---
+
+<Layout title="Home">
+  <!-- Hero Section -->
+  <section class="min-h-screen flex flex-col items-center justify-center relative px-4 py-8 bg-bg-dark">
+    <div class="flex flex-col lg:flex-row items-center gap-8 max-w-7xl w-full">
+
+      <!-- Hero Text -->
+      <div class="flex-1 text-center lg:text-left z-10">
+        <h1 class="gradient-title text-4xl md:text-6xl lg:text-7xl font-bold leading-tight mb-6">
+          World Exams
+        </h1>
+        <p class="text-lg md:text-xl text-text-secondary mb-8 max-w-xl mx-auto lg:mx-0">
+          Free, AI-powered exam preparation for students in <span class="text-accent-cyan font-semibold">{totalCountries}+ countries</span>.
+          Practice real exam questions, track your progress, and join a global community.
+        </p>
+
+        <div class="flex flex-wrap gap-4 justify-center lg:justify-start">
+          <a href="#countries" class="btn-primary inline-flex items-center gap-2">
+            🌍 Explore Countries
+          </a>
+          <a href="https://github.com/world-exams" target="_blank" class="btn-secondary inline-flex items-center gap-2">
+            ⭐ Star on GitHub
+          </a>
+        </div>
+
+        <!-- Stats -->
+        <div class="flex flex-wrap gap-8 justify-center lg:justify-start mt-12 p-6 bg-white/[0.02] rounded-2xl border border-white/5">
+          <div class="text-center">
+            <div class="text-3xl font-bold text-accent-cyan">{totalCountries}+</div>
+            <div class="text-sm text-text-secondary mt-1">Countries</div>
+          </div>
+          <div class="text-center">
+            <div class="text-3xl font-bold text-accent-cyan">{totalQuestions}+</div>
+            <div class="text-sm text-text-secondary mt-1">Questions</div>
+          </div>
+          <div class="text-center">
+            <div class="text-3xl font-bold text-accent-cyan">{liveCountries}</div>
+            <div class="text-sm text-text-secondary mt-1">Live Exams</div>
+          </div>
+          <div class="text-center">
+            <div class="text-3xl font-bold text-accent-cyan">100%</div>
+            <div class="text-sm text-text-secondary mt-1">Free</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Globe -->
+      <div class="flex-1 w-full max-w-lg lg:max-w-xl">
+        <Globe client:load />
+      </div>
+    </div>
+
+    <!-- Scroll Indicator -->
+    <div class="absolute bottom-8 left-1/2 -translate-x-1/2 animate-bounce opacity-50">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <path d="M12 5v14M5 12l7 7 7-7"/>
+      </svg>
+    </div>
+  </section>
+
+  <!-- Countries Section -->
+  <section id="countries" class="py-24 px-4 bg-bg-dark">
+    <div class="max-w-7xl mx-auto">
+      <h2 class="text-3xl md:text-4xl font-bold text-center mb-4 text-text-primary">Choose Your Country</h2>
+      <p class="text-text-secondary text-center mb-16 text-lg">Select your nation to access localized exam preparation</p>
+
+      <!-- FEATURED / LIVE -->
+      {featured.length > 0 && (
+        <div class="mb-16">
+          <h3 class="flex items-center gap-2 text-accent-gold font-semibold mb-6 text-sm uppercase tracking-wider">
+            ⭐ LIVE NOW
+          </h3>
+          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+            {featured.map(country => (
+              <CountryCard country={country} />
+            ))}
+          </div>
+        </div>
+      )}
+
+      <!-- LATIN AMERICA -->
+      {latam.length > 0 && (
+        <div class="mb-16">
+          <h3 class="flex items-center gap-2 text-accent-gold font-semibold mb-6 text-sm uppercase tracking-wider">
+            🌎 LATIN AMERICA (ESPAÑOL)
+          </h3>
+          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+            {latam.map(country => (
+              <CountryCard country={country} />
+            ))}
+          </div>
+        </div>
+      )}
+
+      <!-- EUROPE -->
+      <div class="mb-16">
+        <h3 class="flex items-center gap-2 text-accent-gold font-semibold mb-6 text-sm uppercase tracking-wider">
+          🇪🇺 EUROPE
+        </h3>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+          {europe.map(country => (
+            <CountryCard country={country} />
+          ))}
+        </div>
+      </div>
+
+      <!-- ASIA-PACIFIC -->
+      <div class="mb-16">
+        <h3 class="flex items-center gap-2 text-accent-gold font-semibold mb-6 text-sm uppercase tracking-wider">
+          🌏 ASIA-PACIFIC
+        </h3>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 gap-4">
+          {asia.map(country => (
+            <CountryCard country={country} />
+          ))}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Features Section -->
+  <section class="py-24 px-4 bg-bg-dark">
+    <div class="max-w-6xl mx-auto">
+      <h2 class="text-3xl md:text-4xl font-bold text-center mb-4 text-text-primary">Why World Exams?</h2>
+      <p class="text-text-secondary text-center mb-16 text-lg">Built for students, by AI technology</p>
+
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div class="bg-bg-card p-8 rounded-2xl border border-white/5 text-center">
+          <div class="text-5xl mb-4">🤖</div>
+          <h3 class="text-xl font-semibold mb-2">AI-Powered</h3>
+          <p class="text-text-secondary">Questions generated and verified using advanced AI models trained on official exam patterns.</p>
+        </div>
+
+        <div class="bg-bg-card p-8 rounded-2xl border border-white/5 text-center">
+          <div class="text-5xl mb-4">🌍</div>
+          <h3 class="text-xl font-semibold mb-2">Culturally Adapted</h3>
+          <p class="text-text-secondary">Content localized for each country with proper language, context, and exam format.</p>
+        </div>
+
+        <div class="bg-bg-card p-8 rounded-2xl border border-white/5 text-center">
+          <div class="text-5xl mb-4">♾️</div>
+          <h3 class="text-xl font-semibold mb-2">Unlimited & Free</h3>
+          <p class="text-text-secondary">Create unlimited practice exams. Completely free to use. No subscriptions, no paywalls. Ad-free during exams.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+</Layout>

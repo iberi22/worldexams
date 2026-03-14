@@ -1,0 +1,71 @@
+{
+  "protocol_version": "4.1",
+  "country": "co",
+  "grade": 11,
+  "period": 1,
+  "subject": "matematicas",
+  "topic": "Continuidad en un punto y en intervalos",
+  "bundle_file": "CO-MAT-11-continuity-001-PRO-v4-bundle.md",
+  "bundle_assets_dir": "src/content/questions/colombia/matematicas/grado-11/periodo-1/CO-MAT-11-continuity-001-PRO-v4-bundle.md.assets",
+  "question_id": "CO-MAT-11-continuity-001-PRO-v5",
+  "question_type": "weighted",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "total_seconds": 15,
+    "intro_seconds": 3,
+    "explanation_seconds": 9,
+    "outro_seconds": 3
+  },
+  "branding": {
+    "intro": [
+      "worldexams",
+      "saberparatodos"
+    ],
+    "outro": [
+      "worldexams",
+      "saberparatodos"
+    ]
+  },
+  "content": {
+    "statement": "Considere la función $h(x) = \\frac{\\sin x}{x}$ para $x \\neq 0$. Si queremos que $h(x)$ sea continua en $x = 0$, ¿qué valor debemos asignarle a $h(0)$?",
+    "explanation": "El límite notable $\\lim_{x \\to 0} \\frac{\\sin x}{x} = 1$ nos dice que la función se acerca al valor 1 desde ambos lados. Originalmente, no está definida en 0 (división por cero). Al asignar el valor del límite al punto faltante ($h(0)=1$), cumplimos la tercera condición de continuidad y eliminamos el hueco.",
+    "narration_script": "Vamos a resolver esta pregunta en tres pasos. Paso uno, identifica los datos del enunciado. Paso dos, plantea la operación o ecuación correcta. Paso tres, verifica el resultado y confirma la opción final. El límite notable $\\lim_{x \\to 0} \\frac{\\sin x}{x} = 1$ nos dice que la función se acerca al valor 1 desde ambos lados. Originalmente, no está definida en 0 (división por cero). Al asignar el valor del límite al punto faltante ($h(0)=1$), cumplimos la tercera condición de continuidad y eliminamos el hueco."
+  },
+  "audio": {
+    "tts_engine": "xtts-v2-local",
+    "align_engine": "whisperx",
+    "fallback_engine": "piper"
+  },
+  "outputs": {
+    "final_video_path": "renders/CO-MAT-11-continuity-001-PRO-v5.mp4",
+    "audio_path": "audio/CO-MAT-11-continuity-001-PRO-v5.mp3",
+    "timings_path": "timings/CO-MAT-11-continuity-001-PRO-v5.json",
+    "subtitles_path": "subtitles/CO-MAT-11-continuity-001-PRO-v5.srt"
+  },
+  "social": {
+    "youtube": {
+      "mode": "auto",
+      "status": "pending"
+    },
+    "instagram": {
+      "mode": "auto",
+      "status": "pending"
+    },
+    "tiktok": {
+      "mode": "manual_queue",
+      "status": "pending"
+    }
+  },
+  "status": "generated",
+  "created_at": "2026-03-04T17:50:17.554Z",
+  "generated_at": "2026-03-05T00:34:52.041207Z",
+  "updated_at": "2026-03-05T00:34:52.041230Z",
+  "render_runtime_seconds": 43,
+  "segments_seconds": {
+    "intro": 4,
+    "explanation": 34,
+    "outro": 5
+  }
+}

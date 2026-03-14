@@ -1,0 +1,443 @@
+---
+import Layout from '../layouts/Layout.astro';
+import ExamInfographic from '../components/guia/ExamInfographic.astro';
+import GradeCard from '../components/guia/GradeCard.astro';
+import CompetencyList from '../components/guia/CompetencyList.astro';
+import TipsSection from '../components/guia/TipsSection.astro';
+import StatsIcfes from '../components/guia/StatsIcfes.astro';
+import { countryConfig } from '../config';
+
+const isMX = countryConfig.code === 'MX';
+const isCO = countryConfig.code === 'CO';
+
+const heroTitle = isMX ? 'Guía Completa EXANI-II' : 'Guía Pruebas Saber';
+const heroSubtitle = isMX ? 'Examen Nacional de Ingreso a la Educación Superior' : 'Pruebas de Estado Saber';
+const heroDesc = isMX
+  ? 'Domina la estructura del CENEVAL EXANI-II. Conoce las áreas transversales, módulos específicos y asegura tu lugar.'
+  : 'Conoce la estructura de las pruebas de estado colombianas, las competencias evaluadas y las mejores estrategias.';
+const siteUrl = Astro.site ? Astro.site.toString() : 'https://saberparatodos.space';
+
+// FAQ Schema for SEO (Merged from redundant simulacro-icfes page)
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "¿Cómo practicar un simulacro ICFES gratis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Puedes practicar en línea por áreas (Lectura Crítica, Matemáticas, Sociales, Ciencias e Inglés) y revisar retroalimentación al finalizar en nuestra sección de práctica."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Este simulacro sirve para Saber 11 en Colombia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sí. Está enfocado en estudiantes de Colombia que se preparan para las Pruebas Saber 11 e ICFES siguiendo los estándares oficiales."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Simulacro o 'similacro' ICFES: ¿cuál es correcto?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La forma correcta es 'simulacro ICFES'. Nuestro portal ayuda a quienes buscan entrenamiento de alta calidad para las pruebas de estado."
+      }
+    }
+  ]
+};
+
+// Schema.org structured data for SEO
+const schema = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "name": `${heroTitle} - ${countryConfig.name}`,
+      "description": heroDesc,
+      "provider": {
+        "@type": "Organization",
+        "name": "World Exams",
+        "url": siteUrl
+      },
+      "about": {
+        "@type": "EducationalOccupationalCredential",
+        "name": isMX ? "EXANI-II" : "Pruebas Saber",
+        "credentialCategory": "Examen de Admisión"
+      }
+    },
+    faqSchema
+  ]
+};
+---
+
+<Layout
+  title={`${heroTitle} | ${countryConfig.name}`}
+  description={heroDesc}
+  keywords="simulacro icfes, simulacro saber 11, preicfes gratis, estructura icfes 2026, competencias icfes, guía saber 11, similacro icfes"
+>
+  <div class="min-h-screen background text-foreground relative overflow-hidden">
+    <div class="hero-gradient"></div>
+
+    <!-- Hero Section -->
+    <section class="py-24 px-4 relative z-10">
+      <div class="max-w-4xl mx-auto text-center">
+        <span class="inline-block px-3 py-1 text-[10px] font-mono tracking-widest uppercase bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 rounded-full mb-8 animate-fade-in-up">
+          📚 Guía verificada con fuentes ICFES
+        </span>
+        <h1 class="text-4xl md:text-6xl font-black mb-8 animate-fade-in-up animate-fade-in-up-delay-1 tracking-tight">
+          {heroTitle} <br/>
+          <span class="text-white/40 font-bold text-3xl md:text-4xl">{heroSubtitle}</span>
+        </h1>
+        <p class="text-lg md:text-xl text-white/60 max-w-2xl mx-auto animate-fade-in-up animate-fade-in-up-delay-2 leading-relaxed">
+          {heroDesc}
+        </p>
+      </div>
+    </section>
+
+    {/* =========================================
+        COLOMBIA SPECIFIC CONTENT (Saber 11)
+       ========================================= */}
+    {isCO && (
+      <>
+        <!-- Main Infographic -->
+        <section class="py-16 px-4 relative z-10" data-sr="fade-up">
+          <div class="max-w-6xl mx-auto">
+            <h2 class="text-3xl font-bold mb-12 text-center">¿Cómo es el Sistema de Evaluación en Colombia?</h2>
+            <div class="glass p-8 rounded-3xl">
+              <ExamInfographic />
+            </div>
+          </div>
+        </section>
+
+        <!-- Grade Cards -->
+        <section class="py-20 px-4 border-t border-white/5 relative z-10">
+          <div class="max-w-6xl mx-auto">
+            <h2 class="text-3xl font-bold mb-12 text-center" data-sr="fade-up">¿Qué evalúa el ICFES en cada grado escolar?</h2>
+            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+              <div data-sr="fade-up" data-sr-delay="0">
+                <GradeCard
+                  grade="3°"
+                  title="Saber 3°"
+                  description="Evaluación diseñada para monitorear el desarrollo de aprendizajes fundamentales en los primeros años de primaria."
+                  subjects={["Matemáticas", "Lenguaje"]}
+                  duration="Variable según programación oficial"
+                  questions="80 a 100 reactivos aproximados"
+                />
+              </div>
+              <div data-sr="fade-up" data-sr-delay="100">
+                <GradeCard
+                  grade="5°"
+                  title="Saber 5°"
+                  description="Seguimiento de competencias básicas al finalizar el ciclo de educación primaria."
+                  subjects={["Matemáticas", "Lenguaje", "Ciencias Naturales"]}
+                  duration="Sesión única según calendario"
+                  questions="Según diseño de la convocatoria"
+                />
+              </div>
+              <div data-sr="fade-up" data-sr-delay="200">
+                <GradeCard
+                  grade="7°"
+                  title="Saber 7°"
+                  description="Punto de control intermedio para evaluar el progreso académico en la educación básica secundaria."
+                  subjects={["Matemáticas", "Lectura Crítica", "Habilidades Ciudadanas"]}
+                  duration="Jornada de aplicación oficial"
+                  questions="Estructura variable por año"
+                />
+              </div>
+              <div data-sr="fade-up" data-sr-delay="300">
+                <GradeCard
+                  grade="9°"
+                  title="Saber 9°"
+                  description="Evaluación de cierre de la formación secundaria obligatoria antes de iniciar la media."
+                  subjects={["Matemáticas", "Lenguaje", "Ciencias", "Habilidades Ciudadanas"]}
+                  duration="Aplicación según convocatoria ICFES"
+                  questions="Consulta oficial vigente"
+                />
+              </div>
+              <div data-sr="fade-up" data-sr-delay="400">
+                <GradeCard
+                  grade="11°"
+                  title="Saber 11°"
+                  description="Examen de Estado que presentan quienes finalizan grado 11.º y población habilitada por el ICFES."
+                  subjects={["Lectura Crítica", "Matemáticas", "Sociales y Ciudadanas", "Ciencias Naturales", "Inglés"]}
+                  duration="9 horas (2 sesiones)"
+                  questions="230 calificables / 278 con cuestionario"
+                  highlight={true}
+                />
+              </div>
+              <div data-sr="fade-up" data-sr-delay="500">
+                <a href="/?subject=Preuniversitario&grade=11" class="block rounded-lg focus:outline-none focus-visible:ring-2 focus-visible:ring-[#FCD116]">
+                  <GradeCard
+                  grade="PreU"
+                  title="Preuniversitario"
+                  description="Entrénate para los retos de admisión más exigentes con simulacros adaptados a cada institución."
+                  subjects={["Admisión Universidad Nacional", "Estructura por Universidad", "Simulado de Alta Complejidad", "Enfoque por facultades"]}
+                  duration="Simulacros de tiempo real"
+                  questions="Módulos de 20 a 120 preguntas"
+                  highlight={true}
+                />
+                </a>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Historical official calendar -->
+        <section class="py-20 px-4 border-t border-white/5 relative z-10" id="calendario-referencia">
+          <div class="max-w-6xl mx-auto">
+            <h2 class="text-3xl font-bold mb-4 text-center" data-sr="fade-up">
+              ¿Cuándo son las Pruebas Saber? Calendario de Referencia
+            </h2>
+            <p class="text-white/40 text-center mb-12 text-sm uppercase tracking-widest" data-sr="fade-up" data-sr-delay="100">
+              Fechas históricas de convocatoria para entender el ciclo de registro y resultados
+            </p>
+
+            <div class="grid md:grid-cols-2 gap-8">
+              <!-- Calendario B de referencia -->
+              <div class="glass p-8 rounded-3xl border-l-4 border-blue-500" data-sr="fade-right">
+                <h3 class="text-2xl font-bold mb-6 flex items-center gap-3 text-blue-400">
+                  <span class="px-2 py-0.5 bg-blue-500/10 border border-blue-500/20 rounded text-xs uppercase tracking-tighter">Cat B</span>
+                  Referencia Calendario B 2025
+                </h3>
+                <ul class="space-y-4">
+                  <li class="flex justify-between items-center border-b border-white/5 pb-2">
+                    <span class="text-white/60 text-sm">Registro y recaudo (Ord)</span>
+                    <span class="text-[#F5F5DC] font-mono text-xs">4 Dic 2024 - 17 Ene 2025</span>
+                  </li>
+                  <li class="flex justify-between items-center border-b border-white/5 pb-2">
+                    <span class="text-white/60 text-sm">Publicación citaciones</span>
+                    <span class="text-[#F5F5DC] font-mono text-xs">7 Mar 2025</span>
+                  </li>
+                  <li class="flex justify-between items-center border-b border-white/5 pb-2 bg-emerald-500/5 -mx-2 px-2 rounded">
+                    <span class="text-emerald-400 text-sm font-bold">Aplicación Examen</span>
+                    <span class="text-emerald-400 font-mono text-xs font-bold">23 Mar 2025</span>
+                  </li>
+                  <li class="flex justify-between items-center border-b border-white/5 pb-2">
+                    <span class="text-white/60 text-sm">Resultados individuales</span>
+                    <span class="text-[#F5F5DC] font-mono text-xs">23 May 2025</span>
+                  </li>
+                </ul>
+              </div>
+
+              <!-- Calendario A de referencia -->
+              <div class="glass p-8 rounded-3xl border-l-4 border-emerald-500" data-sr="fade-left">
+                <h3 class="text-2xl font-bold mb-6 flex items-center gap-3 text-emerald-400">
+                  <span class="px-2 py-0.5 bg-emerald-500/10 border border-emerald-500/20 rounded text-xs uppercase tracking-tighter">Cat A</span>
+                  Referencia Calendario A 2025
+                </h3>
+                <ul class="space-y-4">
+                  <li class="flex justify-between items-center border-b border-white/5 pb-2">
+                    <span class="text-white/60 text-sm">Registro y recaudo (Ord)</span>
+                    <span class="text-[#F5F5DC] font-mono text-xs">31 Mar - 9 May 2025</span>
+                  </li>
+                  <li class="flex justify-between items-center border-b border-white/5 pb-2">
+                    <span class="text-white/60 text-sm">Publicación citaciones</span>
+                    <span class="text-[#F5F5DC] font-mono text-xs">25 Jul 2025</span>
+                  </li>
+                  <li class="flex justify-between items-center border-b border-white/5 pb-2 bg-emerald-500/5 -mx-2 px-2 rounded">
+                    <span class="text-emerald-400 text-sm font-bold">Aplicación Examen</span>
+                    <span class="text-emerald-400 font-mono text-xs font-bold">10 Ago 2025</span>
+                  </li>
+                  <li class="flex justify-between items-center border-b border-white/5 pb-2">
+                    <span class="text-white/60 text-sm">Resultados individuales</span>
+                    <span class="text-[#F5F5DC] font-mono text-xs">1 Nov 2025</span>
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="mt-12 p-6 glass rounded-2xl border-dashed border-white/10" data-sr="fade-up">
+              <h4 class="text-sm font-bold text-white/40 uppercase tracking-widest mb-4">Fuentes de Información Oficial</h4>
+              <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
+                <a href="https://www.icfes.gov.co/cronograma-de-examenes" target="_blank" class="flex items-center gap-3 p-3 bg-white/5 rounded-lg border border-white/10 hover:bg-white/10 transition-colors group">
+                  <div class="p-2 bg-white/5 rounded group-hover:text-emerald-400 transition-colors">🔗</div>
+                  <div class="text-[11px] font-bold text-white/70 uppercase">Cronograma ICFES</div>
+                </a>
+                <a href="https://www.icfes.gov.co/evaluaciones-icfes/saber-11/guia-de-orientacion-examen-saber-11/" target="_blank" class="flex items-center gap-3 p-3 bg-white/5 rounded-lg border border-white/10 hover:bg-white/10 transition-colors group">
+                  <div class="p-2 bg-white/5 rounded group-hover:text-emerald-400 transition-colors">📄</div>
+                  <div class="text-[11px] font-bold text-white/70 uppercase">Guía oficial de orientación</div>
+                </a>
+                <a href="https://www.icfes.gov.co/comunicados-de-prensa" target="_blank" class="flex items-center gap-3 p-3 bg-white/5 rounded-lg border border-white/10 hover:bg-white/10 transition-colors group">
+                  <div class="p-2 bg-white/5 rounded group-hover:text-emerald-400 transition-colors">📰</div>
+                  <div class="text-[11px] font-bold text-white/70 uppercase">Salas de Prensa</div>
+                </a>
+              </div>
+              <p class="text-[10px] text-white/30 mt-6 leading-relaxed">
+                * Este bloque es solo una referencia histórica. Antes de registrarte o pagar, valida siempre la convocatoria vigente directamente en icfes.gov.co.
+              </p>
+            </div>
+          </div>
+        </section>
+
+        <!-- Statistics Section -->
+        <section class="py-20 px-4 border-t border-white/5 bg-gradient-to-b from-transparent to-emerald-500/[0.02] relative z-10">
+          <div class="max-w-6xl mx-auto">
+            <h2 class="text-3xl font-bold mb-4 text-center" data-sr="fade-up">
+              📊 Estadísticas Pruebas de Estado
+            </h2>
+            <p class="text-white/40 text-center mb-12 text-sm uppercase tracking-widest" data-sr="fade-up" data-sr-delay="100">
+              Resumen basado en la guía de orientación oficial
+            </p>
+            <div class="glass p-8 rounded-3xl">
+              <StatsIcfes />
+            </div>
+          </div>
+        </section>
+      </>
+    )}
+
+    {/* =========================================
+        MEXICO SPECIFIC CONTENT (EXANI-II)
+       ========================================= */}
+    {isMX && (
+      <>
+        <!-- Structure Overview -->
+        <section class="py-20 px-4 relative z-10" data-sr="fade-up">
+          <div class="max-w-6xl mx-auto">
+            <h2 class="text-3xl font-bold mb-12 text-center text-[#F5F5DC]">Estructura General del Examen</h2>
+            <div class="grid md:grid-cols-3 gap-8">
+              <GradeCard
+                grade="A"
+                title="Transversales"
+                description="Habilidades fundamentales para todos los aspirantes."
+                subjects={["Comprensión Lectora (30)", "Redacción Indirecta (30)", "Pensamiento Matemático (30)"]}
+                duration="Base del examen"
+                questions="90 preguntas"
+                highlight={true}
+              />
+              <GradeCard
+                grade="B"
+                title="Módulos Específicos"
+                description="Conocimientos relacionados con la carrera de ingreso."
+                subjects={["Módulo 1 (24 preguntas)", "Módulo 2 (24 preguntas)", "Ej: Derecho, Salud, Ingenierías"]}
+                duration="Varía según carrera"
+                questions="48 preguntas"
+              />
+              <GradeCard
+                grade="C"
+                title="Diagnóstico"
+                description="Información diagnóstica no considerada en el puntaje global."
+                subjects={["Inglés (30 preguntas)", "Reactivos Piloto"]}
+                duration="Sección final"
+                questions="30 preguntas"
+              />
+            </div>
+          </div>
+        </section>
+
+        <!-- Detailed Breakdown Charts for MX -->
+        <section class="py-20 px-4 border-t border-white/5 bg-white/[0.01] relative z-10">
+          <div class="max-w-4xl mx-auto">
+            <h2 class="text-3xl font-bold mb-12 text-center" data-sr="fade-up">EL EXANI-II en Detalle</h2>
+            <div class="mb-12" data-sr="zoom-in" data-sr-delay="100">
+              <h3 class="text-lg font-bold mb-8 text-center text-white/40 uppercase tracking-widest">Composición de Reactivos</h3>
+              <div class="glass p-8 rounded-3xl flex flex-col items-center">
+                 <div class="w-full max-w-lg space-y-6">
+                    <div>
+                      <div class="flex justify-between text-[10px] uppercase tracking-widest mb-2 text-white/60">
+                        <span>Habilidades Transversales</span>
+                        <span class="font-bold text-emerald-400">54%</span>
+                      </div>
+                      <div class="w-full bg-white/5 rounded-full h-3 overflow-hidden border border-white/5">
+                        <div class="bg-gradient-to-r from-emerald-600 to-emerald-400 h-full rounded-full" style="width: 54%"></div>
+                      </div>
+                    </div>
+                    <div>
+                      <div class="flex justify-between text-[10px] uppercase tracking-widest mb-2 text-white/60">
+                        <span>Módulos Específicos</span>
+                        <span class="font-bold text-blue-400">28%</span>
+                      </div>
+                      <div class="w-full bg-white/5 rounded-full h-3 overflow-hidden border border-white/5">
+                        <div class="bg-gradient-to-r from-blue-600 to-blue-400 h-full rounded-full" style="width: 28%"></div>
+                      </div>
+                    </div>
+                    <div>
+                      <div class="flex justify-between text-[10px] uppercase tracking-widest mb-2 text-white/60">
+                        <span>Inglés (Diagnóstico)</span>
+                        <span class="font-bold text-purple-400">18%</span>
+                      </div>
+                      <div class="w-full bg-white/5 rounded-full h-3 overflow-hidden border border-white/5">
+                        <div class="bg-gradient-to-r from-purple-600 to-purple-400 h-full rounded-full" style="width: 18%"></div>
+                      </div>
+                    </div>
+                 </div>
+                 <p class="text-center text-white/40 text-xs mt-10 uppercase tracking-widest">
+                   Total: <strong class="text-white">168 Preguntas</strong> • Duración: <strong class="text-white">4.5 Horas</strong>
+                 </p>
+              </div>
+            </div>
+          </div>
+        </section>
+      </>
+    )}
+
+    {/* =========================================
+        SHARED CONTENT (Tips, Competencies, CTA)
+       ========================================= */}
+
+    <!-- Competencies -->
+    <section class="py-20 px-4 border-t border-white/5 relative z-10">
+      <div class="max-w-6xl mx-auto">
+        <h2 class="text-3xl font-bold mb-12 text-center" data-sr="fade-up">Competencias Clave</h2>
+        <div data-sr="fade-up" data-sr-delay="100">
+          <CompetencyList />
+        </div>
+      </div>
+    </section>
+
+    <!-- Tips Section -->
+    <section class="py-20 px-4 border-t border-white/5 bg-gradient-to-t from-emerald-500/[0.02] to-transparent relative z-10">
+      <div class="max-w-6xl mx-auto">
+        <h2 class="text-3xl font-bold mb-12 text-center" data-sr="fade-up">Estrategias y Recomendaciones</h2>
+        <div data-sr="fade-up" data-sr-delay="100">
+          <TipsSection />
+        </div>
+      </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="py-24 px-4 border-t border-white/5 relative z-10 overflow-hidden">
+      <div class="absolute inset-0 bg-emerald-500/[0.03] animate-pulse-slow"></div>
+      <div class="max-w-2xl mx-auto text-center relative z-10" data-sr="zoom-in">
+        <h2 class="text-4xl font-black mb-6 tracking-tight">¿Listo para practicar?</h2>
+        <p class="text-white/60 mb-10 text-lg leading-relaxed">
+          Accede a más de 4,000 preguntas verificadas y mejora tu nivel hoy mismo.
+        </p>
+        <a
+          href="/practica"
+          class="inline-block px-10 py-4 bg-emerald-500 text-black font-black uppercase tracking-widest text-sm rounded-xl hover:bg-emerald-400 hover:scale-105 transition-all shadow-xl shadow-emerald-500/20"
+        >
+          Iniciar Simulacro Gratuito →
+        </a>
+      </div>
+    </section>
+
+    <!-- EEAT: Author/Expertise Section -->
+    <section class="py-16 px-4 border-t border-white/5 bg-white/[0.01] relative z-10">
+      <div class="max-w-3xl mx-auto">
+        <div class="glass p-8 rounded-2xl flex flex-col md:flex-row items-center gap-8 border-dashed border-white/10" data-sr="fade-up">
+          <div class="w-24 h-24 rounded-full bg-gradient-to-br from-emerald-500 to-blue-600 flex items-center justify-center text-3xl shrink-0 shadow-lg shadow-emerald-500/20">
+            📊
+          </div>
+          <div class="text-center md:text-left">
+            <span class="text-[10px] font-mono uppercase tracking-[0.2em] text-emerald-400 mb-2 block">Autoridad Pedagógica</span>
+            <h3 class="text-xl font-bold mb-3">Equipo de Investigación World Exams</h3>
+            <p class="text-white/50 text-sm leading-relaxed mb-4">
+              Esta guía ha sido redactada y curada por especialistas en métricas educativas, analizando los marcos de referencia oficiales del ICFES y CENEVAL para garantizar la mayor fidelidad técnica en nuestros simulacros.
+            </p>
+            <div class="flex flex-wrap justify-center md:justify-start gap-4">
+              <span class="text-[9px] bg-white/5 px-2 py-1 rounded border border-white/10 text-white/40 uppercase">Metodología Basada en Evidencia</span>
+              <span class="text-[9px] bg-white/5 px-2 py-1 rounded border border-white/10 text-white/40 uppercase">Actualizado marzo 2026</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <!-- Schema.org JSON-LD -->
+  <script is:inline type="application/ld+json" set:html={JSON.stringify(schema)} />
+</Layout>
