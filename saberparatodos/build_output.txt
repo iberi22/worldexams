@@ -1,0 +1,21 @@
+
+> saberparatodos@0.3.0 build
+> astro build
+
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2m15:43:10[22m [34m[@astrojs/cloudflare][39m Enabling sessions with Cloudflare KV with the "SESSION" KV binding.
+[2m15:43:10[22m [34m[@astrojs/cloudflare][39m If you see the error "Invalid binding `SESSION`" in your build output, you need to add the binding to your wrangler config file.
+[2m15:43:10[22m [34m[content][39m Syncing content
+[InvalidContentEntryDataError] changelog ÔåÆ 2026-03-09-filtrado-ingles-y-comentarios data does not match collection schema.
+
+  date**: **date: Expected type `"string"`, received `"date"`
+
+  Hint:
+    See https://docs.astro.build/en/guides/content-collections/ for more information on content schemas.
+  Error reference:
+    https://docs.astro.build/en/reference/errors/invalid-content-entry-data-error/
+  Location:
+    E:\scripts-python\worldexams\saberparatodos\src\content\changelog\2026-03-09-filtrado-ingles-y-comentarios.md:0:0
+  Stack trace:
+    at getEntryDataAndImages (file:///E:/scripts-python/worldexams/saberparatodos/node_modules/astro/dist/content/utils.js:161:26)
+    at async syncData (file:///E:/scripts-python/worldexams/saberparatodos/node_modules/astro/dist/content/loaders/glob.js:94:28)

@@ -1,0 +1,21 @@
+
+> saberparatodos@0.10.0 test:unit
+> vitest run src/lib/questions/policy.test.ts
+
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2m20:47:03[22m [34m[@astrojs/cloudflare][39m Enabling sessions with Cloudflare KV with the "SESSION" KV binding.
+[2m20:47:03[22m [34m[@astrojs/cloudflare][39m If you see the error "Invalid binding `SESSION`" in your build output, you need to add the binding to your wrangler config file.
+Using vars defined in .env
+
+[1m[46m RUN [49m[22m [36mv4.0.16 [39m[90mE:/scripts-python/worldexams/saberparatodos[39m
+
+ [32m✓[39m src/lib/questions/policy.test.ts [2m([22m[2m3 tests[22m[2m)[22m[32m 9[2mms[22m[39m
+
+[2m Test Files [22m [1m[32m1 passed[39m[22m[90m (1)[39m
+[2m      Tests [22m [1m[32m3 passed[39m[22m[90m (3)[39m
+[2m   Start at [22m 20:47:04
+[2m   Duration [22m 1.52s[2m (transform 83ms, setup 0ms, import 109ms, tests 9ms, environment 1.08s)[22m
+
+close timed out after 10000ms
+Tests closed successfully but something prevents Vite server from exiting
+You can try to identify the cause by enabling "hanging-process" reporter. See https://vitest.dev/config/#reporters

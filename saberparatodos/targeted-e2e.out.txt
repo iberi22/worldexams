@@ -1,0 +1,11 @@
+
+Running 6 tests using 1 worker
+
+  ✓  1 [chromium] › tests\auth-leaderboard-smoke.spec.ts:4:3 › Auth + Leaderboard Smoke › register page is disabled during prelaunch and redirects home (1.0s)
+  ✓  2 [chromium] › tests\auth-leaderboard-smoke.spec.ts:10:3 › Auth + Leaderboard Smoke › dashboard requires institutional membership (544ms)
+  ✓  3 [chromium] › tests\auth-leaderboard-smoke.spec.ts:16:3 › Auth + Leaderboard Smoke › leaderboard alias redirects to ranking page (548ms)
+  ✓  4 [chromium] › tests\blog-filters.spec.ts:4:3 › Prelaunch Practice Shell › home loads the current practice shell (937ms)
+  ✓  5 [chromium] › tests\blog-filters.spec.ts:10:3 › Prelaunch Practice Shell › blog entry point is not exposed in the current shell (928ms)
+  ✓  6 [chromium] › tests\blog-filters.spec.ts:15:3 › Prelaunch Practice Shell › legacy practica route redirects to home (879ms)
+
+  6 passed (6.2s)

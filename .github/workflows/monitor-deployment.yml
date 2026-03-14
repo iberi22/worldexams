@@ -1,0 +1,41 @@
+name: Monitor Deployment Failures
+
+on:
+  deployment_status:
+
+jobs:
+  notify-failure:
+    if: github.event.deployment_status.state == 'failure' || github.event.deployment_status.state == 'error'
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Create Incident Issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const deployment = context.payload.deployment;
+            const status = context.payload.deployment_status;
+
+            // Evitar duplicados recientes podría ser complejo, pero por ahora crearemos uno por fallo.
+
+            const body = `
+            ### 🚨 Despliegue Fallido Detectado
+
+            **Entorno:** ${deployment.environment}
+            **Estado:** ${status.state}
+            **Commit:** ${deployment.sha}
+            **Descripción:** ${status.description || 'Sin descripción'}
+
+            [Ver Logs en Cloudflare](${status.target_url})
+
+            Se requiere revisión manual inmediata.
+            `;
+
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `🔥 Deployment Failed: ${deployment.environment} (${new Date().toISOString().split('T')[0]})`,
+              body: body,
+              labels: ['deployment-failure', 'urgent']
+            });

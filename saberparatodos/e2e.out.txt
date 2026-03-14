@@ -1,0 +1,21 @@
+
+> saberparatodos@0.10.0 test
+> playwright test
+
+
+Running 60 tests using 1 worker
+
+  ✘   1 [chromium] › tests\auth-leaderboard-smoke.spec.ts:4:3 › Auth + Leaderboard Smoke › register page renders magic link form (30.9s)
+  ✓   2 [chromium] › tests\auth-leaderboard-smoke.spec.ts:11:3 › Auth + Leaderboard Smoke › dashboard requires institutional membership (656ms)
+  ✓   3 [chromium] › tests\auth-leaderboard-smoke.spec.ts:17:3 › Auth + Leaderboard Smoke › leaderboard alias redirects to ranking page (735ms)
+
+📝 TEST: Navegando a página principal...
+  ✘   4 [chromium] › tests\blog-filters.spec.ts:5:3 › Blog Filters - Subject, Grade, Difficulty › Blog page loads and shows questions from multiple subjects (19.5s)
+
+📝 TEST: Verificando filtro de asignaturas...
+  ✘   5 [chromium] › tests\blog-filters.spec.ts:75:3 › Blog Filters - Subject, Grade, Difficulty › Subject filter works - can select different subjects (19.1s)
+
+📝 TEST: Verificando filtro de grados...
+  ✘   6 [chromium] › tests\blog-filters.spec.ts:136:3 › Blog Filters - Subject, Grade, Difficulty › Grade filter works - can select different grades (18.8s)
+
+📝 TEST: Verificando filtro de dificultad...

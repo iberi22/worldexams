@@ -1,0 +1,114 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout
+  title="Términos de Uso | SaberParaTodos"
+  description="Términos y condiciones de uso de la plataforma SaberParaTodos. Reglas de uso, propiedad intelectual y exención de responsabilidad."
+>
+  <div class="min-h-screen bg-gradient-to-b from-gray-900 to-black py-16 px-4">
+    <div class="max-w-4xl mx-auto">
+      <article class="prose prose-invert prose-yellow max-w-none">
+        <h1 class="text-4xl md:text-5xl font-bold text-white mb-4">
+          Términos de Uso
+        </h1>
+        <p class="text-gray-400 mb-8">
+          Última actualización: {new Date().toLocaleDateString('es-CO', {
+            year: 'numeric',
+            month: 'long',
+            day: 'numeric'
+          })}
+        </p>
+
+        <div class="bg-gray-800/50 rounded-xl p-6 border border-gray-700 mb-8">
+          <p class="text-gray-300 text-lg leading-relaxed">
+            Bienvenido a <strong class="text-yellow-400">SaberParaTodos</strong>. Al acceder y utilizar nuestra plataforma, aceptas cumplir con los siguientes términos y condiciones.
+            Si no estás de acuerdo con alguna parte de estos términos, te recomendamos no utilizar nuestros servicios.
+          </p>
+        </div>
+
+        <h2 class="text-3xl font-bold text-white mt-12 mb-4">
+          1. Propósito Educativo
+        </h2>
+        <div class="bg-gray-800/30 rounded-lg p-6 border-l-4 border-yellow-400">
+          <p class="text-gray-300 mb-4">
+            SaberParaTodos es una plataforma de práctica independiente desarrollada por <strong>World Exams Organization</strong>.
+          </p>
+          <ul class="text-gray-300 space-y-2">
+            <li><strong>No afiliación:</strong> No estamos afiliados, asociados, autorizados, respaldados ni conectados oficialmente con ninguna entidad gubernamental encargada de las Pruebas de Estado en Colombia.</li>
+            <li><strong>Carácter informativo:</strong> El contenido se proporciona únicamente con fines educativos y de práctica.</li>
+            <li><strong>Sin garantías:</strong> El uso de esta plataforma no garantiza resultados específicos en las pruebas oficiales del estado.</li>
+          </ul>
+        </div>
+
+        <h2 class="text-3xl font-bold text-white mt-12 mb-4">
+          2. Uso de la Plataforma
+        </h2>
+        <div class="grid gap-6">
+          <div class="bg-gray-800/30 rounded-lg p-6 border-l-4 border-blue-400">
+            <h3 class="text-xl font-semibold text-blue-400 mb-2">
+              ✅ Uso Permitido
+            </h3>
+            <ul class="text-gray-300 list-disc pl-4 space-y-1">
+              <li>Acceso personal y gratuito para estudiantes y docentes.</li>
+              <li>Uso de las herramientas de simulación y práctica.</li>
+              <li>Compartir enlaces a nuestro contenido educativo.</li>
+            </ul>
+          </div>
+
+          <div class="bg-gray-800/30 rounded-lg p-6 border-l-4 border-red-400">
+            <h3 class="text-xl font-semibold text-red-400 mb-2">
+              🚫 Uso Prohibido
+            </h3>
+            <ul class="text-gray-300 list-disc pl-4 space-y-1">
+              <li>Intentar dañar, deshabilitar o sobrecargar nuestros servidores.</li>
+              <li>Realizar scraping masivo o automatizado que afecte el rendimiento.</li>
+              <li>Usar la plataforma para actividades ilegales o fraudulentas.</li>
+              <li>Vender o comercializar el acceso a nuestra plataforma gratuita.</li>
+            </ul>
+          </div>
+        </div>
+
+        <h2 class="text-3xl font-bold text-white mt-12 mb-4">
+          3. Propiedad Intelectual
+        </h2>
+        <div class="bg-gray-800/30 rounded-lg p-6">
+          <p class="text-gray-300 mb-4">
+            <strong>Código Fuente:</strong> El código de SaberParaTodos es Open Source y está disponible bajo la licencia MIT en nuestro repositorio de GitHub.
+          </p>
+          <p class="text-gray-300 mb-4">
+            <strong>Contenido:</strong> Las preguntas y materiales educativos son generados por nuestra organización o recopilados de fuentes públicas bajo licencias abiertas (CC BY-SA 4.0).
+          </p>
+          <p class="text-gray-300">
+            <strong>Marcas:</strong> "SaberParaTodos", "World Exams" y nuestros logotipos son marcas de nuestra organización. Las marcas de terceros pertenecen a sus respectivos dueños y se usan solo con fines descriptivos.
+          </p>
+        </div>
+
+        <h2 class="text-3xl font-bold text-white mt-12 mb-4">
+          4. Limitación de Responsabilidad
+        </h2>
+        <div class="bg-gray-800/30 rounded-lg p-6 border-l-4 border-purple-400">
+          <p class="text-gray-300">
+            La plataforma se proporciona "tal cual" y "según disponibilidad". World Exams Organization no se hace responsable de errores u omisiones en el contenido, ni de interrupciones en el servicio. No asumimos responsabilidad por decisiones tomadas basándose en la información de este sitio.
+          </p>
+        </div>
+
+        <h2 class="text-3xl font-bold text-white mt-12 mb-4">
+          5. Modificaciones
+        </h2>
+        <div class="bg-gray-800/30 rounded-lg p-6">
+          <p class="text-gray-300">
+            Nos reservamos el derecho de modificar estos términos en cualquier momento. Los cambios entrarán en vigor inmediatamente después de su publicación en esta página. Te recomendamos revisar estos términos periódicamente.
+          </p>
+        </div>
+
+        <div class="mt-12 pt-8 border-t border-gray-800 text-center">
+          <p class="text-gray-400">
+            Si tienes preguntas sobre estos términos, contáctanos a través de <a href="/contacto" class="text-yellow-400 hover:text-yellow-300 transition-colors">nuestra página de contacto</a>.
+          </p>
+        </div>
+
+      </article>
+    </div>
+  </div>
+</Layout>

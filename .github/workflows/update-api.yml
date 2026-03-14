@@ -1,0 +1,46 @@
+name: Update Questions API
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'src/content/questions/**'
+      - 'scripts/generate-questions-api.ps1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-api:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate API
+        shell: pwsh
+        run: |
+          ./scripts/generate-questions-api.ps1 -QuestionsPath "./src/content/questions" -OutputPath "./api"
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if [[ -n $(git status --porcelain api/) ]]; then
+            echo "changes_detected=true" >> $GITHUB_OUTPUT
+            echo "Changes detected in API directory."
+          else
+            echo "changes_detected=false" >> $GITHUB_OUTPUT
+            echo "No changes detected."
+          fi
+
+      - name: Commit and Push changes
+        if: steps.check_changes.outputs.changes_detected == 'true'
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add api/
+          git commit -m "🤖 Auto-update Questions API [skip ci]"
+          git push

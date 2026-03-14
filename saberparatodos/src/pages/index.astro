@@ -1,0 +1,52 @@
+---
+import Layout from '../layouts/Layout.astro';
+import App from '../components/App.svelte';
+
+const API_BASE_URL = '/api';
+---
+
+<Layout
+  title="Zona de Práctica ICFES | SaberParaTodos"
+  description="Accede a la app de práctica de SaberParaTodos para crear simulacros, entrenar por áreas y revisar resultados."
+  keywords="practicar icfes, app icfes, simulacro saber 11, preguntas icfes"
+  showNavbar={false}
+  showFooter={false}
+>
+  <script is:inline type="application/json" id="api-config" set:html={JSON.stringify({ apiBaseUrl: API_BASE_URL })} />
+
+  <!-- 🚀 SSR Static Hero (Visible to bots and while Svelte loads) -->
+  <div class="static-content">
+    <section class="min-h-[70vh] flex flex-col items-center justify-center px-4 relative overflow-hidden">
+      <!-- Background elements similar to the app for visual continuity -->
+      <div class="absolute inset-0 bg-[#0A0A0B] -z-10"></div>
+      <div class="absolute top-0 left-1/2 -translate-x-1/2 w-full max-w-6xl h-full bg-emerald-500/5 blur-[120px] rounded-full -z-10"></div>
+
+      <div class="max-w-4xl mx-auto text-center">
+        <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-emerald-400 text-xs font-mono mb-8 uppercase tracking-widest">
+          Simulacros 2026 • gratis
+        </div>
+
+        <h1 class="text-4xl md:text-7xl font-black text-[#F5F5DC] mb-6 tracking-tight">
+          Domina el ICFES con <span class="text-emerald-500">Inteligencia</span>
+        </h1>
+
+        <p class="text-lg md:text-xl text-white/50 mb-12 max-w-2xl mx-auto leading-relaxed">
+          La plataforma gratuita y de código abierto para estudiantes de Colombia. Crea simulacros personalizados, entrena por áreas y prepárate para los mejores resultados.
+        </p>
+      </div>
+    </section>
+
+    <!-- Noscript fallback for AdSense compliance -->
+    <noscript>
+      <div class="p-8 text-center bg-red-500/10 border border-red-500/20 rounded-xl my-4 mx-auto max-w-xl text-red-400">
+        Esta aplicación requiere JavaScript para funcionar. Por favor, actívalo en tu navegador para realizar tus simulacros.
+      </div>
+    </noscript>
+  </div>
+
+  <App
+    client:only="svelte"
+    questions={[]}
+    universalPool={null}
+  />
+</Layout>

@@ -1,0 +1,87 @@
+---
+const areas = [
+  {
+    title: 'Matemáticas',
+    description: 'La guía del ICFES indica tres competencias: interpretación y representación, formulación y ejecución, y argumentación.',
+    meta: 'Distribución oficial 2025-2: 34 %, 43 % y 23 %.'
+  },
+  {
+    title: 'Lectura Crítica',
+    description: 'Evalúa identificar y entender contenidos locales, comprender articulaciones y reflexionar sobre forma y contenido del texto.',
+    meta: 'Distribución oficial 2025-2: 25 %, 42 % y 33 %.'
+  },
+  {
+    title: 'Sociales y Ciudadanas',
+    description: 'Evalúa pensamiento social, interpretación y análisis de perspectivas, y pensamiento reflexivo y sistémico.',
+    meta: 'Las preguntas exigen análisis del contexto y uso de información, no opinión libre.'
+  },
+  {
+    title: 'Ciencias Naturales',
+    description: 'Evalúa explicación de fenómenos, uso comprensivo del conocimiento científico e indagación.',
+    meta: 'La guía oficial presenta la ciencia como práctica social y proceso de validación.'
+  },
+  {
+    title: 'Inglés',
+    description: 'La prueba está organizada en siete partes y evalúa comprensión lectora y uso del inglés en contexto.',
+    meta: 'El reporte se interpreta con niveles de desempeño alineados con el MCER.'
+  }
+];
+
+const resultNotes = [
+  'El puntaje global y los percentiles aparecen en el informe individual de resultados.',
+  'Los niveles de desempeño se reportan por prueba; no existe una escala porcentual única para todo Saber 11.',
+  'En Inglés, el ICFES reporta niveles alineados con el Marco Común Europeo de Referencia.'
+];
+---
+
+<div class="competency-section">
+  <div class="grid md:grid-cols-2 xl:grid-cols-3 gap-6 mb-12">
+    {areas.map((area) => (
+      <div class="competency-card bg-[#1a1a1a] border border-white/10 rounded-lg p-6 hover:border-white/20 transition-all duration-300 group">
+        <div class="text-[10px] uppercase tracking-[0.25em] text-[#FCD116] mb-3">ICFES Saber 11.º</div>
+        <h3 class="text-lg font-bold mb-3 border-l-2 border-[#003893] pl-3">{area.title}</h3>
+        <p class="text-sm text-white/60 mb-4">{area.description}</p>
+        <p class="text-xs text-white/40">{area.meta}</p>
+      </div>
+    ))}
+  </div>
+
+  <div class="bg-[#1a1a1a] border border-white/10 rounded-lg p-6">
+    <h3 class="text-lg font-bold mb-6 text-center">Cómo reporta resultados el ICFES</h3>
+
+    <div class="grid md:grid-cols-3 gap-4">
+      {resultNotes.map((note) => (
+        <div class="rounded border border-white/10 bg-white/[0.02] p-4 text-sm text-white/60">
+          {note}
+        </div>
+      ))}
+    </div>
+  </div>
+</div>
+
+<style>
+  .competency-section {
+    font-family: 'Fira Code', monospace;
+  }
+
+  .competency-card {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .competency-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: linear-gradient(90deg, #FCD116, #003893, #CE1126);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+
+  .competency-card:hover::before {
+    opacity: 1;
+  }
+</style>

@@ -1,0 +1,65 @@
+{
+  "protocol_version": "4.1",
+  "country": "co",
+  "grade": 11,
+  "period": 1,
+  "subject": "matematicas",
+  "topic": "Funciones: Composición, Dominio, Rango e Inversas",
+  "bundle_file": "CO-MAT-11-functions-001-PRO-v4-bundle.md",
+  "bundle_assets_dir": "src/content/questions/colombia/matematicas/grado-11/periodo-1/CO-MAT-11-functions-001-PRO-v4-bundle.md.assets",
+  "question_id": "CO-ENG-11-functions-001-PRO-v9",
+  "question_type": "single",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "total_seconds": 15,
+    "intro_seconds": 3,
+    "explanation_seconds": 9,
+    "outro_seconds": 3
+  },
+  "branding": {
+    "intro": [
+      "worldexams",
+      "saberparatodos"
+    ],
+    "outro": [
+      "worldexams",
+      "saberparatodos"
+    ]
+  },
+  "content": {
+    "statement": "¿Es la función de costo $C(w)$ continua en el punto crítico $w = 5$?",
+    "explanation": "Para que sea continua en $w=5$, el límite por la izquierda debe ser igual al límite por la derecha e igual al valor de la función.\r\nLímite izquierdo ($\\le 5$): $5(5) + 10 = 35$.\r\nLímite derecho ($> 5$): $4(5) + 15 = 20 + 15 = 35$.\r\nComo $35 = 35$, la función es continua. No hay saltos en el precio al pasar de 5 kg.",
+    "narration_script": "Vamos a resolver esta pregunta en tres pasos. Paso uno, identifica los datos del enunciado. Paso dos, plantea la operación o ecuación correcta. Paso tres, verifica el resultado y confirma la opción final. Para que sea continua en $w=5$, el límite por la izquierda debe ser igual al límite por la derecha e igual al valor de la función.\r\nLímite izquierdo ($\\le 5$): $5(5) + 10 = 35$.\r\nLímite derecho ($> 5$): $4(5) + 15 = 20 + 15 = 35$.\r\nComo $35 = 35$, la función es continua. No hay saltos en el precio al pasar de 5 kg."
+  },
+  "audio": {
+    "tts_engine": "xtts-v2-local",
+    "align_engine": "whisperx",
+    "fallback_engine": "piper"
+  },
+  "outputs": {
+    "final_video_path": "renders/CO-ENG-11-functions-001-PRO-v9.mp4",
+    "audio_path": "audio/CO-ENG-11-functions-001-PRO-v9.mp3",
+    "timings_path": "timings/CO-ENG-11-functions-001-PRO-v9.json",
+    "subtitles_path": "subtitles/CO-ENG-11-functions-001-PRO-v9.srt"
+  },
+  "social": {
+    "youtube": {
+      "mode": "auto",
+      "status": "pending"
+    },
+    "instagram": {
+      "mode": "auto",
+      "status": "pending"
+    },
+    "tiktok": {
+      "mode": "manual_queue",
+      "status": "pending"
+    }
+  },
+  "status": "generated",
+  "created_at": "2026-03-04T17:50:17.565Z",
+  "generated_at": "2026-03-04T18:46:36.204924Z",
+  "updated_at": "2026-03-04T18:46:36.204946Z"
+}

@@ -1,0 +1,326 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { countryConfig } from '../config';
+import { preuCatalogEntries, preuMethodologySources, preuStatusLabels } from '../lib/preuniversitario/catalog';
+
+const isCO = countryConfig.code === 'CO';
+const siteUrl = Astro.site ? Astro.site.toString() : 'https://saberparatodos.space';
+
+const statusSummary = {
+  verified: preuCatalogEntries.filter((entry) => entry.researchStatus === 'verified').length,
+  inResearch: preuCatalogEntries.filter((entry) => entry.researchStatus === 'in_research').length,
+  queued: preuCatalogEntries.filter((entry) => entry.researchStatus === 'queued').length
+};
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: 'Preuniversitario Colombia',
+  description: 'Modulo para investigar y simular examenes de admision universitarios en Colombia.',
+  url: `${siteUrl.replace(/\/$/, '')}/preuniversitario`
+};
+---
+
+<Layout
+  title="Preuniversitario Colombia | Simulacros de admision y protocolo v4+"
+  description="Modulo preuniversitario para Colombia: top 10 pipeline, fichas institucionales, blueprint de admision y protocolo v4+ para crear simulacros."
+  keywords="preuniversitario colombia, examen de admision, universidades colombia, simulacros de admision, protocolo v4"
+>
+  <script is:inline type="application/ld+json" set:html={JSON.stringify(schema)} />
+
+  <div class="min-h-screen background text-foreground relative overflow-hidden">
+    <div class="hero-gradient"></div>
+
+    <section class="py-24 px-4 relative z-10">
+      <div class="max-w-6xl mx-auto">
+        <div class="max-w-4xl">
+          <span class="inline-flex items-center gap-2 px-3 py-1 text-[10px] font-mono tracking-widest uppercase bg-[#FCD116]/10 text-[#FCD116] border border-[#FCD116]/20 rounded-full mb-8">
+            Colombia · Preuniversitario · Protocol v4+
+          </span>
+          <h1 class="text-4xl md:text-6xl font-black tracking-tight mb-6">
+            Simulacros de admision para
+            <span class="block text-white/45">universidades colombianas</span>
+          </h1>
+          <p class="text-lg md:text-xl text-white/65 max-w-3xl leading-relaxed">
+            Este modulo separa investigacion institucional, calendario 2026 y banco de reactivos <strong class="text-white">v4+</strong>.
+            El objetivo actual es llegar a <strong class="text-white">10 universidades</strong> trazables por fuente oficial, con un mock troncal por institucion y overlays por carrera como capa posterior, no dentro del conteo principal.
+          </p>
+        </div>
+
+        <div class="grid md:grid-cols-3 gap-4 mt-12">
+          <div class="glass rounded-3xl p-6">
+            <p class="text-xs uppercase tracking-[0.28em] text-white/35 mb-2">Entradas planeadas</p>
+            <p class="text-4xl font-black text-[#F5F5DC]">{preuCatalogEntries.length}</p>
+            <p class="text-sm text-white/55 mt-2">Catalogo objetivo para 2026 con ranking reproducible por Saber Pro.</p>
+          </div>
+          <div class="glass rounded-3xl p-6">
+            <p class="text-xs uppercase tracking-[0.28em] text-white/35 mb-2">Fuentes verificadas</p>
+            <p class="text-4xl font-black text-emerald-400">{statusSummary.verified}</p>
+            <p class="text-sm text-white/55 mt-2">Instituciones con portal oficial de admision ya conectado al pipeline.</p>
+          </div>
+          <div class="glass rounded-3xl p-6">
+            <p class="text-xs uppercase tracking-[0.28em] text-white/35 mb-2">En levantamiento</p>
+            <p class="text-4xl font-black text-sky-300">{statusSummary.inResearch + statusSummary.queued}</p>
+            <p class="text-sm text-white/55 mt-2">Candidatas mientras se normaliza el ranking ICFES y la evidencia 2026.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="py-8 px-4 relative z-10">
+      <div class="max-w-6xl mx-auto glass rounded-[2rem] p-8">
+        <div class="grid lg:grid-cols-[1.1fr_0.9fr] gap-8">
+          <div>
+            <p class="text-xs uppercase tracking-[0.28em] text-white/35 mb-4">Metodologia operativa</p>
+            <ol class="space-y-3 text-white/70 leading-relaxed">
+              <li>1. Construir shortlist con agregados anuales de Saber Pro y mantener trazabilidad del criterio de inclusion.</li>
+              <li>2. Levantar por cada universidad un dossier con examen, costos, fechas, documentacion y componentes.</li>
+              <li>3. Traducir el dossier a un blueprint con secciones, pesos, tipos de reactivo y overlays por carrera.</li>
+              <li>4. Publicar simulacros v4+ solo cuando haya evidencia oficial suficiente y scoring compatible.</li>
+            </ol>
+          </div>
+          <div>
+            <p class="text-xs uppercase tracking-[0.28em] text-white/35 mb-4">Fuentes base</p>
+            <div class="space-y-3">
+              {preuMethodologySources.map((source) => (
+                <a href={source.url} target="_blank" rel="noreferrer" class="block rounded-2xl border border-white/10 bg-white/[0.03] p-4 hover:border-white/25 transition-colors">
+                  <p class="text-sm font-semibold text-white">{source.title}</p>
+                  <p class="text-xs text-white/45 mt-1">Verificada {source.lastVerifiedAt}</p>
+                </a>
+              ))}
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="py-8 px-4 relative z-10">
+      <div class="max-w-6xl mx-auto">
+        <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-4 mb-10">
+          <div>
+            <p class="text-xs uppercase tracking-[0.28em] text-white/35 mb-3">Presentacion recomendada</p>
+            <h2 class="text-3xl md:text-4xl font-black tracking-tight">Como deberiamos mostrar los examenes</h2>
+          </div>
+          <p class="max-w-xl text-sm text-white/55">
+            Para que esto sea util de verdad, el estudiante no debe entrar directo a “un examen”.
+            Debe entrar a una <strong class="text-white">ruta para pasar a una universidad especifica</strong>.
+          </p>
+        </div>
+
+        <div class="grid md:grid-cols-2 xl:grid-cols-4 gap-6">
+          <article class="glass rounded-[1.75rem] p-6">
+            <p class="text-xs uppercase tracking-[0.24em] text-white/35 mb-3">Paso 1</p>
+            <h3 class="text-xl font-bold text-[#F5F5DC] mb-3">Elegir universidad</h3>
+            <p class="text-sm text-white/65 leading-relaxed">
+              La puerta de entrada debe ser la universidad objetivo, no la materia. Primero se elige institucion y luego se ve su examen, componentes, fechas y documentos.
+            </p>
+          </article>
+          <article class="glass rounded-[1.75rem] p-6">
+            <p class="text-xs uppercase tracking-[0.24em] text-white/35 mb-3">Paso 2</p>
+            <h3 class="text-xl font-bold text-[#F5F5DC] mb-3">Ver huella del examen</h3>
+            <p class="text-sm text-white/65 leading-relaxed">
+              Antes del simulacro debe verse un resumen corto: que evalua, cuanto dura, como se pesa y cuales carreras son las mas competitivas.
+            </p>
+          </article>
+          <article class="glass rounded-[1.75rem] p-6">
+            <p class="text-xs uppercase tracking-[0.24em] text-white/35 mb-3">Paso 3</p>
+            <h3 class="text-xl font-bold text-[#F5F5DC] mb-3">Escoger modo</h3>
+            <p class="text-sm text-white/65 leading-relaxed">
+              El estudiante deberia poder elegir entre diagnostico rapido, practica por componente, simulacro realista completo y luego overlays por carrera.
+            </p>
+          </article>
+          <article class="glass rounded-[1.75rem] p-6">
+            <p class="text-xs uppercase tracking-[0.24em] text-white/35 mb-3">Paso 4</p>
+            <h3 class="text-xl font-bold text-[#F5F5DC] mb-3">Plan de cierre</h3>
+            <p class="text-sm text-white/65 leading-relaxed">
+              El resultado debe devolver brechas por componente, prioridad de estudio y recomendacion concreta para volver a intentar el examen.
+            </p>
+          </article>
+        </div>
+
+        <div class="grid lg:grid-cols-3 gap-6 mt-6">
+          <div class="glass rounded-[1.75rem] p-6">
+            <p class="text-xs uppercase tracking-[0.24em] text-white/35 mb-3">Modo A</p>
+            <h3 class="text-lg font-bold mb-2">Diagnostico de ingreso</h3>
+            <p class="text-sm text-white/60 leading-relaxed">8 a 12 preguntas para detectar si el estudiante ya esta cerca del perfil de la universidad o si necesita cerrar bases primero.</p>
+          </div>
+          <div class="glass rounded-[1.75rem] p-6">
+            <p class="text-xs uppercase tracking-[0.24em] text-white/35 mb-3">Modo B</p>
+            <h3 class="text-lg font-bold mb-2">Practica por componente</h3>
+            <p class="text-sm text-white/60 leading-relaxed">Sesiones cortas por lectura, razonamiento, ciencias o logica segun el blueprint real del examen de la universidad. Este modo debe vivir en packs de 5 reactivos por enfoque.</p>
+          </div>
+          <div class="glass rounded-[1.75rem] p-6">
+            <p class="text-xs uppercase tracking-[0.24em] text-white/35 mb-3">Modo C</p>
+            <h3 class="text-lg font-bold mb-2">Simulacro realista</h3>
+            <p class="text-sm text-white/60 leading-relaxed">Examen cronometrado con estructura y pesos parecidos al proceso de admision real. Este debe ser el CTA principal de cada universidad.</p>
+          </div>
+        </div>
+
+        <div class="glass rounded-[1.75rem] p-8 mt-6">
+          <p class="text-xs uppercase tracking-[0.28em] text-white/35 mb-4">Packs de enfoque</p>
+          <h3 class="text-2xl font-black mb-4">Regla editorial recomendada</h3>
+          <div class="grid md:grid-cols-5 gap-3">
+            <div class="rounded-2xl bg-white/[0.03] p-4">
+              <p class="text-[11px] uppercase tracking-[0.18em] text-white/35 mb-2">Pack 1</p>
+              <p class="text-sm text-white/70">Fundamentos</p>
+            </div>
+            <div class="rounded-2xl bg-white/[0.03] p-4">
+              <p class="text-[11px] uppercase tracking-[0.18em] text-white/35 mb-2">Pack 2</p>
+              <p class="text-sm text-white/70">Patrones</p>
+            </div>
+            <div class="rounded-2xl bg-white/[0.03] p-4">
+              <p class="text-[11px] uppercase tracking-[0.18em] text-white/35 mb-2">Pack 3</p>
+              <p class="text-sm text-white/70">Nivel medio</p>
+            </div>
+            <div class="rounded-2xl bg-white/[0.03] p-4">
+              <p class="text-[11px] uppercase tracking-[0.18em] text-white/35 mb-2">Pack 4</p>
+              <p class="text-sm text-white/70">Nivel alto</p>
+            </div>
+            <div class="rounded-2xl bg-white/[0.03] p-4">
+              <p class="text-[11px] uppercase tracking-[0.18em] text-white/35 mb-2">Pack 5</p>
+              <p class="text-sm text-white/70">Transferencia</p>
+            </div>
+          </div>
+          <p class="text-sm text-white/55 mt-5 leading-relaxed">
+            Cada pack debe nacer de un patron observado en material publico u oficial, pero con reactivos nuevos y alineados al blueprint de la universidad.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="py-20 px-4 relative z-10">
+      <div class="max-w-6xl mx-auto">
+        <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-4 mb-10">
+          <div>
+            <p class="text-xs uppercase tracking-[0.28em] text-white/35 mb-3">Pipeline Top 10</p>
+            <h2 class="text-3xl md:text-4xl font-black tracking-tight">Catalogo institucional y overlays</h2>
+          </div>
+          <p class="max-w-xl text-sm text-white/55">
+            La lista de abajo es un pipeline operativo. Solo las entradas <strong class="text-white">verificadas</strong> tienen fuente oficial enlazada;
+            el orden definitivo se recalculara cuando se cierre la normalizacion ICFES 2024 por institucion y programa.
+          </p>
+        </div>
+
+        <div class="grid lg:grid-cols-2 gap-6">
+          {preuCatalogEntries.map((entry, index) => (
+            <article class="glass rounded-[1.75rem] p-6 border border-white/8">
+              <div class="flex items-start justify-between gap-4">
+                <div>
+                  <p class="text-xs uppercase tracking-[0.26em] text-white/35 mb-2">Slot {String(index + 1).padStart(2, '0')}</p>
+                  <h3 class="text-xl font-bold text-[#F5F5DC]">{entry.displayName}</h3>
+                  <p class="text-sm text-white/50 mt-1">{entry.institutionName} · {entry.city}</p>
+                </div>
+                <span class:list={[
+                  'inline-flex items-center rounded-full px-3 py-1 text-[11px] uppercase tracking-[0.18em] border',
+                  entry.researchStatus === 'verified' && 'border-emerald-400/35 bg-emerald-500/10 text-emerald-300',
+                  entry.researchStatus === 'in_research' && 'border-sky-400/35 bg-sky-500/10 text-sky-200',
+                  entry.researchStatus === 'queued' && 'border-white/15 bg-white/[0.04] text-white/55'
+                ]}>
+                  {preuStatusLabels[entry.researchStatus]}
+                </span>
+              </div>
+
+              <p class="text-sm text-white/65 leading-relaxed mt-5">{entry.summary}</p>
+
+              <div class="grid sm:grid-cols-2 gap-3 mt-4">
+                <div class="rounded-2xl bg-emerald-500/[0.06] p-4 border border-emerald-500/10">
+                  <p class="text-[11px] uppercase tracking-[0.22em] text-emerald-200/70 mb-2">Mejor forma de usarlo</p>
+                  <p class="text-sm text-white/70 leading-relaxed">Empezar con diagnostico corto, seguir con practica por componente y cerrar con simulacro completo de esta universidad.</p>
+                </div>
+                <div class="rounded-2xl bg-[#003893]/10 p-4 border border-[#003893]/20">
+                  <p class="text-[11px] uppercase tracking-[0.22em] text-sky-200/70 mb-2">CTA ideal</p>
+                  <p class="text-sm text-white/70 leading-relaxed">“Quiero entrar a {entry.institutionName}” debe abrir el resumen del examen y luego el simulacro realista.</p>
+                </div>
+              </div>
+
+              <div class="grid sm:grid-cols-2 gap-4 mt-6">
+                <div class="rounded-2xl bg-white/[0.03] p-4">
+                  <p class="text-[11px] uppercase tracking-[0.22em] text-white/35 mb-3">Componentes</p>
+                  <div class="flex flex-wrap gap-2">
+                    {entry.components.map((component) => (
+                      <span class="px-2 py-1 rounded-md bg-black/20 text-xs text-white/75">{component}</span>
+                    ))}
+                  </div>
+                </div>
+                <div class="rounded-2xl bg-white/[0.03] p-4">
+                  <p class="text-[11px] uppercase tracking-[0.22em] text-white/35 mb-3">Carreras overlay</p>
+                  <div class="flex flex-wrap gap-2">
+                    {entry.targetPrograms.map((program) => (
+                      <span class="px-2 py-1 rounded-md bg-[#003893]/20 text-xs text-white/80">{program}</span>
+                    ))}
+                  </div>
+                </div>
+              </div>
+
+              <div class="grid sm:grid-cols-2 gap-4 mt-4">
+                <div class="rounded-2xl bg-white/[0.03] p-4">
+                  <p class="text-[11px] uppercase tracking-[0.22em] text-white/35 mb-3">Ciclo 2026</p>
+                  {entry.cycle ? (
+                    <>
+                      <p class="text-sm text-white">{entry.cycle.label}</p>
+                      <p class="text-xs text-white/45 mt-1">Estado: {entry.cycle.status}</p>
+                      {entry.cycle.registrationWindow && <p class="text-xs text-white/55 mt-2">Inscripciones: {entry.cycle.registrationWindow}</p>}
+                      {entry.cycle.examWindow && <p class="text-xs text-white/55 mt-1">Prueba: {entry.cycle.examWindow}</p>}
+                    </>
+                  ) : (
+                    <p class="text-sm text-white/45">Pendiente de consolidar en el dossier.</p>
+                  )}
+                </div>
+                <div class="rounded-2xl bg-white/[0.03] p-4">
+                  <p class="text-[11px] uppercase tracking-[0.22em] text-white/35 mb-3">Notas</p>
+                  <p class="text-sm text-white/60 leading-relaxed">{entry.researchNotes}</p>
+                </div>
+              </div>
+
+              <div class="flex flex-wrap gap-3 mt-6">
+                {entry.officialAdmissionsUrl && (
+                  <a href={entry.officialAdmissionsUrl} target="_blank" rel="noreferrer" class="inline-flex items-center rounded-full border border-[#FCD116]/25 bg-[#FCD116]/10 px-4 py-2 text-xs uppercase tracking-[0.2em] text-[#F5F5DC] hover:bg-[#FCD116]/15 transition-colors">
+                    Portal de admision
+                  </a>
+                )}
+                {entry.documentationUrl && (
+                  <a href={entry.documentationUrl} target="_blank" rel="noreferrer" class="inline-flex items-center rounded-full border border-white/15 px-4 py-2 text-xs uppercase tracking-[0.2em] text-white/70 hover:border-white/30 transition-colors">
+                    Documentacion oficial
+                  </a>
+                )}
+              </div>
+            </article>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <section class="py-8 px-4 pb-24 relative z-10">
+      <div class="max-w-6xl mx-auto grid lg:grid-cols-2 gap-6">
+        <div class="glass rounded-[1.75rem] p-8">
+          <p class="text-xs uppercase tracking-[0.28em] text-white/35 mb-4">Protocol v4+</p>
+          <h2 class="text-2xl font-black mb-4">Especificacion base de reactivos</h2>
+          <ul class="space-y-3 text-sm text-white/70 leading-relaxed">
+            <li>`protocol_version: "4.1+"` con 20 preguntas por bundle.</li>
+            <li>Distribucion por defecto: 15 `single`, 2 `multi-correct`, 3 `weighted`.</li>
+            <li>Metadatos obligatorios: institucion, overlay, componentes, scoring profile, fuentes y fecha de verificacion.</li>
+            <li>No se publica un simulacro si su dossier o su blueprint siguen en `pending_verification`.</li>
+          </ul>
+        </div>
+
+        <div class="glass rounded-[1.75rem] p-8">
+          <p class="text-xs uppercase tracking-[0.28em] text-white/35 mb-4">Estado del modulo</p>
+          {isCO ? (
+            <>
+              <h2 class="text-2xl font-black mb-4">Corte implementado</h2>
+              <ul class="space-y-3 text-sm text-white/70 leading-relaxed">
+                <li>Tarjeta `Preuniversitario` conectada en la guia.</li>
+                <li>Ruta dedicada con pipeline Top 10 y enlaces a fuentes base.</li>
+                <li>Presentacion recomendada orientada por universidad objetivo y no por materia suelta.</li>
+                <li>Dominio tipado para catalogo, ciclos, fuentes y estados de auditoria.</li>
+                <li>Documentacion `v4+` y esquema Supabase listos para siguiente ola.</li>
+              </ul>
+            </>
+          ) : (
+            <p class="text-white/65">Este modulo esta activado solo para Colombia en este tenant.</p>
+          )}
+        </div>
+      </div>
+    </section>
+  </div>
+</Layout>

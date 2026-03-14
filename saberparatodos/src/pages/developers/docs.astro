@@ -1,0 +1,180 @@
+---
+import Layout from '../../layouts/Layout.astro';
+---
+
+<Layout title="Docs | SaberParaTodos API">
+  <div class="min-h-screen bg-[#07101d] text-white">
+    <section class="border-b border-white/10 bg-[linear-gradient(135deg,#0a1321_0%,#11213f_55%,#0b1424_100%)] px-6 py-14">
+      <div class="mx-auto max-w-6xl">
+        <p class="text-xs font-black uppercase tracking-[0.35em] text-[#FCD116]">Referencia pública</p>
+        <h1 class="mt-4 text-5xl font-black">SaberParaTodos API</h1>
+        <p class="mt-5 max-w-3xl text-lg text-white/70">
+          Contrato público para consumir preguntas desde <code>api.saberparatodos.space</code>.
+          El acceso premium usa <code>/v1/premium/questions</code> y el acceso público usa <code>/v1/questions</code>.
+        </p>
+        <div class="mt-8 flex flex-wrap gap-3">
+          <a href="/developers/dashboard" class="rounded-xl bg-[#FCD116] px-5 py-3 font-bold text-black transition hover:bg-[#ffe27a]">Generar API key</a>
+          <a href="/developers/api-questions" class="rounded-xl border border-white/15 px-5 py-3 font-bold text-white/90 transition hover:border-[#FCD116]/40 hover:text-white">Ver planes</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="mx-auto max-w-6xl px-6 py-12">
+      <div class="grid gap-6 lg:grid-cols-[0.95fr_1.05fr]">
+        <div class="space-y-6">
+          <div class="rounded-[24px] border border-white/10 bg-white/5 p-6">
+            <h2 class="text-2xl font-black">Autorización</h2>
+            <p class="mt-4 text-sm leading-6 text-white/70">
+              El endpoint premium acepta <code>Authorization: Bearer YOUR_API_KEY</code> o <code>x-api-key</code>.
+              La clave se genera desde el dashboard y solo se muestra una vez.
+            </p>
+            <pre class="mt-5 overflow-x-auto rounded-2xl border border-white/10 bg-[#09111e] p-4 text-xs text-white/85"><code>Authorization: Bearer YOUR_API_KEY
+x-api-key: YOUR_API_KEY</code></pre>
+          </div>
+
+          <div class="rounded-[24px] border border-white/10 bg-white/5 p-6">
+            <h2 class="text-2xl font-black">Endpoints</h2>
+            <div class="mt-5 space-y-4 text-sm">
+              <div class="rounded-2xl border border-[#FCD116]/20 bg-[#0b1526] p-4">
+                <div class="text-xs font-black uppercase tracking-[0.25em] text-[#FCD116]">Premium</div>
+                <div class="mt-2 font-mono text-white">GET /v1/premium/questions</div>
+                <p class="mt-2 text-white/65">Respuesta autenticada con control de volumen y cuota.</p>
+              </div>
+              <div class="rounded-2xl border border-white/10 bg-[#0b1526] p-4">
+                <div class="text-xs font-black uppercase tracking-[0.25em] text-[#FCD116]">Público</div>
+                <div class="mt-2 font-mono text-white">GET /v1/questions</div>
+                <p class="mt-2 text-white/65">Uso sin API key para prototipos, portales y pruebas públicas.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="rounded-[24px] border border-white/10 bg-white/5 p-6">
+            <h2 class="text-2xl font-black">Parámetros</h2>
+            <ul class="mt-5 space-y-3 text-sm text-white/72">
+              <li><code>country</code>: <code>co</code>, <code>mx</code>, <code>ar</code>, <code>cl</code>, <code>pe</code>, <code>br</code>, <code>us</code>, <code>cn</code>, <code>in</code>.</li>
+              <li><code>exam</code>: <code>icfes</code> por defecto en la operación actual.</li>
+              <li><code>grade</code>: <code>3</code>, <code>5</code>, <code>7</code>, <code>9</code>, <code>11</code>.</li>
+              <li><code>subject</code>: <code>matematicas</code>, <code>lectura_critica</code>, <code>ingles</code>, <code>ciencias_naturales</code>, <code>sociales_y_ciudadanas</code>.</li>
+              <li><code>page</code>: página lógica del lote de preguntas.</li>
+              <li><code>limit</code>: solo aplica al endpoint premium; el máximo depende del plan.</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="space-y-6">
+          <div class="rounded-[24px] border border-[#003893]/30 bg-[#09111d] p-6">
+            <h2 class="text-2xl font-black">Ejemplo cURL</h2>
+            <pre class="mt-5 overflow-x-auto rounded-2xl border border-white/10 bg-black/30 p-4 text-xs text-white/85"><code>curl -X GET \
+  "https://api.saberparatodos.space/v1/premium/questions?country=co&amp;exam=icfes&amp;grade=11&amp;subject=matematicas&amp;page=1&amp;limit=5" \
+  -H "Authorization: Bearer YOUR_API_KEY"</code></pre>
+          </div>
+
+          <div class="rounded-[24px] border border-[#CE1126]/25 bg-[#09111d] p-6">
+            <h2 class="text-2xl font-black">Respuesta de ejemplo</h2>
+            <pre class="mt-5 overflow-x-auto rounded-2xl border border-white/10 bg-black/30 p-4 text-xs text-white/85"><code>{`{
+  "success": true,
+  "questions": [
+    {
+      "id": "CO-MAT-11-probability-advanced-001-PRO-v15",
+      "statement": "...",
+      "subject": "matematicas",
+      "grade": 11,
+      "options": [
+        { "id": "A", "text": "...", "isCorrect": false, "weight": 0 }
+      ],
+      "correctOptionId": "C",
+      "bundleId": "CO-MAT-11-probability-advanced-001-PRO",
+      "protocol_version": "4.1"
+    }
+  ],
+  "meta": {
+    "total": 5,
+    "country": "co",
+    "grade": 11,
+    "subject": "matematicas",
+    "page": 1,
+    "rate_limit": 60,
+    "quota_remaining": 9995
+  }
+}`}</code></pre>
+          </div>
+
+          <div class="rounded-[24px] border border-white/10 bg-white/5 p-6">
+            <h2 class="text-2xl font-black">Notas de integración</h2>
+            <ul class="mt-5 space-y-3 text-sm text-white/72">
+              <li>Usa siempre <code>api.saberparatodos.space</code> como base pública.</li>
+              <li>El endpoint público es útil para validaciones iniciales y experiencias abiertas.</li>
+              <li>El endpoint premium es el contrato recomendado para integraciones de producción.</li>
+              <li>La especificación OpenAPI está embebida abajo para pruebas rápidas y validación manual.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="border-t border-white/10 bg-[#0b1424] px-6 py-12">
+      <div class="mx-auto max-w-6xl">
+        <h2 class="text-3xl font-black">OpenAPI</h2>
+        <p class="mt-3 max-w-2xl text-sm text-white/65">
+          Explora el contrato público, parámetros y respuestas directamente desde esta referencia.
+        </p>
+      </div>
+      <div id="swagger-ui" class="mx-auto mt-8 max-w-6xl"></div>
+    </section>
+  </div>
+
+  <link rel="stylesheet" href="https://unpkg.com/swagger-ui-dist@5.11.0/swagger-ui.css" />
+  <script is:inline src="https://unpkg.com/swagger-ui-dist@5.11.0/swagger-ui-bundle.js"></script>
+  <script is:inline>
+    window.onload = () => {
+      window.ui = SwaggerUIBundle({
+        url: '/openapi.yaml',
+        dom_id: '#swagger-ui',
+        presets: [SwaggerUIBundle.presets.apis, SwaggerUIBundle.SwaggerUIStandalonePreset],
+        layout: 'BaseLayout',
+        docExpansion: 'list'
+      });
+    };
+  </script>
+
+  <style is:global>
+    .swagger-ui {
+      background: transparent;
+      color: #f8f8f8;
+      padding-inline: 1.5rem;
+      padding-bottom: 3rem;
+    }
+    .swagger-ui .info .title,
+    .swagger-ui .info h1,
+    .swagger-ui .info h2,
+    .swagger-ui .info h3,
+    .swagger-ui .opblock .opblock-summary-path,
+    .swagger-ui .opblock .opblock-summary-operation-id,
+    .swagger-ui .opblock .opblock-section-header h4,
+    .swagger-ui table thead tr td,
+    .swagger-ui table thead tr th,
+    .swagger-ui label {
+      color: #f5f5dc;
+    }
+    .swagger-ui .scheme-container,
+    .swagger-ui .opblock,
+    .swagger-ui .responses-inner,
+    .swagger-ui .response-col_description__inner div.markdown,
+    .swagger-ui .model-box,
+    .swagger-ui .tab {
+      background: #0f1726;
+      box-shadow: none;
+    }
+    .swagger-ui .btn,
+    .swagger-ui input,
+    .swagger-ui textarea,
+    .swagger-ui select {
+      border-color: #314158;
+    }
+    .swagger-ui input,
+    .swagger-ui textarea {
+      background: #08111f;
+      color: #f5f5dc;
+    }
+  </style>
+</Layout>

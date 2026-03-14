@@ -1,0 +1,156 @@
+
+> saberparatodos@0.10.0 test
+> playwright test
+
+
+Running 58 tests using 1 worker
+
+  ✓   1 [chromium] › tests\auth-leaderboard-smoke.spec.ts:4:3 › Auth + Leaderboard Smoke › register page is disabled during prelaunch and redirects home (833ms)
+  ✓   2 [chromium] › tests\auth-leaderboard-smoke.spec.ts:10:3 › Auth + Leaderboard Smoke › dashboard requires institutional membership (602ms)
+  ✓   3 [chromium] › tests\auth-leaderboard-smoke.spec.ts:16:3 › Auth + Leaderboard Smoke › leaderboard alias redirects to ranking page (547ms)
+  ✓   4 [chromium] › tests\blog-filters.spec.ts:4:3 › Prelaunch Practice Shell › home loads the current practice shell (768ms)
+  ✓   5 [chromium] › tests\blog-filters.spec.ts:10:3 › Prelaunch Practice Shell › blog entry point is not exposed in the current shell (975ms)
+  ✓   6 [chromium] › tests\blog-filters.spec.ts:15:3 › Prelaunch Practice Shell › legacy practica route redirects to home (923ms)
+[P1] 🌍 Navigating to home...
+[P1] 🔘 Clicking Grade 3...
+[P1] ⚙️ Waiting for Config Modal...
+[P1] ✅ Subject Selected: Matemáticas
+[P1] 🔘 Mode "Por Periodo" selected
+[P1] ✅ Period 1 Selected
+[P1] 🚀 Starting Exam...
+[P1] ⏳ Waiting for modal to close...
+  ✘   7 [chromium] › tests\e2e-grade3-periods.spec.ts:19:9 › E2E Grade 3 Period Functionality › Grade 3 Math - Period 1 Exam Generation (33.5s)
+[P2] 🌍 Navigating to home...
+[P2] 🔘 Clicking Grade 3...
+[P2] ⚙️ Waiting for Config Modal...
+[P2] ✅ Subject Selected: Matemáticas
+[P2] 🔘 Mode "Por Periodo" selected
+[P2] ✅ Period 2 Selected
+[P2] 🚀 Starting Exam...
+[P2] ⏳ Waiting for modal to close...
+  ✘   8 [chromium] › tests\e2e-grade3-periods.spec.ts:19:9 › E2E Grade 3 Period Functionality › Grade 3 Math - Period 2 Exam Generation (33.7s)
+[P3] 🌍 Navigating to home...
+[P3] 🔘 Clicking Grade 3...
+[P3] ⚙️ Waiting for Config Modal...
+[P3] ✅ Subject Selected: Matemáticas
+[P3] 🔘 Mode "Por Periodo" selected
+[P3] ✅ Period 3 Selected
+[P3] 🚀 Starting Exam...
+[P3] ⏳ Waiting for modal to close...
+  ✘   9 [chromium] › tests\e2e-grade3-periods.spec.ts:19:9 › E2E Grade 3 Period Functionality › Grade 3 Math - Period 3 Exam Generation (34.6s)
+[P4] 🌍 Navigating to home...
+[P4] 🔘 Clicking Grade 3...
+[P4] ⚙️ Waiting for Config Modal...
+[P4] ✅ Subject Selected: Matemáticas
+[P4] 🔘 Mode "Por Periodo" selected
+[P4] ✅ Period 4 Selected
+[P4] 🚀 Starting Exam...
+[P4] ⏳ Waiting for modal to close...
+[P4] ✅ Modal closed
+[P4] 📸 Screenshot taken
+[P4] ✅ Questions loaded - options grid visible
+[P4] ✅ Test Passed (verification complete)
+  ✓  10 [chromium] › tests\e2e-grade3-periods.spec.ts:19:9 › E2E Grade 3 Period Functionality › Grade 3 Math - Period 4 Exam Generation (10.7s)
+
+🔎 Checking Grade 11 Period 1...
+Step 1: Clicking Grade 11° Grado
+Step 2: Waiting for Exam Config Modal (can take long due to pool fetch)...
+✅ Modal visible
+  ✘  11 [chromium] › tests\e2e-matrix.spec.ts:12:13 › E2E Matrix Coverage (Post-Fix) › Grade 11 Period 1 - Feasibility Check (1.8s)
+
+🔎 Checking Grade 11 Period 2...
+Step 1: Clicking Grade 11° Grado
+Step 2: Waiting for Exam Config Modal (can take long due to pool fetch)...
+✅ Modal visible
+  ✘  12 [chromium] › tests\e2e-matrix.spec.ts:12:13 › E2E Matrix Coverage (Post-Fix) › Grade 11 Period 2 - Feasibility Check (1.7s)
+
+🔎 Checking Grade 11 Period 3...
+Step 1: Clicking Grade 11° Grado
+Step 2: Waiting for Exam Config Modal (can take long due to pool fetch)...
+✅ Modal visible
+  ✘  13 [chromium] › tests\e2e-matrix.spec.ts:12:13 › E2E Matrix Coverage (Post-Fix) › Grade 11 Period 3 - Feasibility Check (1.7s)
+
+🔎 Checking Grade 11 Period 4...
+Step 1: Clicking Grade 11° Grado
+Step 2: Waiting for Exam Config Modal (can take long due to pool fetch)...
+✅ Modal visible
+  ✘  14 [chromium] › tests\e2e-matrix.spec.ts:12:13 › E2E Matrix Coverage (Post-Fix) › Grade 11 Period 4 - Feasibility Check (1.7s)
+🌍 Navigating to home...
+BROWSER: [vite] connecting...
+BROWSER: [vite] connected.
+🔘 Clicking Grade 11...
+BROWSER: [PWA] Dev mode: Service Workers unregistered
+BROWSER: [PWA] Dev mode: Caches cleared
+BROWSER: [Config] Loaded configuration for: Colombia (CO)
+BROWSER: App received questions: 0
+BROWSER: App received universalPool: 0
+⚙️ Waiting for Config Modal...
+❌ TEST FAILED: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator: getByText('Configurar Examen')
+Expected: visible
+Timeout: 30000ms
+Error: element(s) not found
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 30000ms[22m
+[2m  - waiting for getByText('Configurar Examen')[22m
+
+Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator: getByText('Configurar Examen')
+Expected: visible
+Timeout: 30000ms
+Error: element(s) not found
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 30000ms[22m
+[2m  - waiting for getByText('Configurar Examen')[22m
+
+    at E:\scripts-python\worldexams\saberparatodos\tests\e2e-period-selector.spec.ts:39:63
+  ✘  15 [chromium] › tests\e2e-period-selector.spec.ts:15:5 › E2E Period Selector & Content Validation › Should select Grade 11, Configure Period 1, and capture 10 questions (31.5s)
+🚀 Starting Smoke Test...
+BROWSER LOG: [vite] connecting...
+BROWSER LOG: [vite] connected.
+Searching for Grade 11 button...
+BROWSER LOG: [PWA] Dev mode: Service Workers unregistered
+BROWSER LOG: [PWA] Dev mode: Caches cleared
+BROWSER LOG: [Config] Loaded configuration for: Colombia (CO)
+BROWSER LOG: App received questions: 0
+BROWSER LOG: App received universalPool: 0
+Clicking Grade 11 button...
+HTML of button: <div class="flashlight-effect pointer-events-none absolute -inset-px opacity-0 transition duration-300 group-hover:opacity-100 svelte-99envo" style="background: radial-gradient(600px at 0px 0px, rgba(16, 185, 129, 0.1), transparent 40%); opacity: 0;"></div> <div class="relative z-10 w-full h-full"><div class="font-bold text-emerald-500 group-hover:text-emerald-400 transition-all duration-300 text-5xl drop-shadow-[0_0_10px_rgba(16,185,129,0.3)]">11°</div> <div class="uppercase tracking-wider text-white/40 group-hover:text-white/60 mt-1 transition-all duration-300 text-xs">Grado</div> <div class="mt-2 px-2 py-0.5 bg-emerald-500/20 rounded-full border border-emerald-500/30"><span class="text-[8px] text-emerald-400 font-bold uppercase tracking-widest animate-pulse">Examen Principal</span></div><!----></div>
+Waiting for Config Modal (loading questions)...
+Modal visible!
+Selecting Sociales y Ciudadanas...
+BROWSER LOG: 🔍 [ExamConfigModal] Derived currentPeriods for socialesyciudadanas (Grade 11): 4
+Selecting Por Periodo -> Periodo 3...
+Selecting 5 questions...
+Clicking Comenzar...
+Waiting for questions to load...
+BROWSER LOG: 📦 Stored new pack: api-week-11-11-ciencias_naturales with 10 questions
+BROWSER LOG: 📦 Stored new pack: api-week-11-11-matematicas with 10 questions
+BROWSER LOG: 📦 Stored new pack: api-week-11-11-lectura_critica with 10 questions
+BROWSER LOG: 📦 Stored new pack: api-week-11-11-ingles with 10 questions
+BROWSER LOG: 📦 Stored new pack: api-week-11-11-sociales_y_ciudadanas with 10 questions
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-sociales_y_ciudadanas
+BROWSER LOG: Error fetching period questions: Error: No hay preguntas disponibles para esta configuración.
+    at prepareSoloExamQuestions (http://localhost:4321/src/lib/questions/orchestrator.ts:105:11)
+    at async Module.track_reactivity_loss (http://localhost:4321/node_modules/.vite/deps/chunk-6THLNGU6.js?v=f1399020:1962:15)
+    at async handleStart (http://localhost:4321/src/components/ExamConfigModal.svelte:1417:26)
+BROWSER LOG: [vite] connecting...
+BROWSER LOG: [PWA] Dev mode: Service Workers unregistered
+BROWSER LOG: [vite] connected.
+BROWSER LOG: [PWA] Dev mode: Caches cleared
+BROWSER LOG: [Config] Loaded configuration for: Colombia (CO)
+BROWSER LOG: App received questions: 0
+BROWSER LOG: App received universalPool: 0
+BROWSER LOG: [vite] connecting...
+BROWSER LOG: [PWA] Dev mode: Service Workers unregistered
+BROWSER LOG: [vite] connected.
+BROWSER LOG: [PWA] Dev mode: Caches cleared
+BROWSER LOG: [Config] Loaded configuration for: Colombia (CO)
+BROWSER LOG: App received questions: 0
+BROWSER LOG: App received universalPool: 0
+BROWSER LOG: [vite] connecting...
+  ✘  16 [chromium] › tests\e2e-smoke-tag.spec.ts:3:1 › Smoke Test: Grade 11 Period 3 (Sociales) - Tag Verification (32.5s)

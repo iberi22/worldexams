@@ -1,0 +1,197 @@
+{
+  "version": "1.0",
+  "last_updated": "2025-12-11",
+  "total_packs": 8,
+  "total_questions": 56,
+  "sources_summary": {
+    "OpenTDB": 2,
+    "Custom (AI)": 2,
+    "ICFES": 1
+  },
+  "questions": [
+    {
+      "pack_id": "CO-MAT-09-ecuaciones-001",
+      "source": "ICFES",
+      "source_url": "https://www.icfes.gov.co/ejemplos-publicos",
+      "source_id": "icfes:mat-09-001",
+      "original_question_hash": null,
+      "used_date": "2025-12-09",
+      "country": "CO",
+      "grado": 9,
+      "asignatura": "Matemáticas",
+      "tema": "Ecuaciones lineales",
+      "pack_file": "api/v1/CO/icfes/9/matematicas/1.json",
+      "question_ids": [
+        "CO-MAT-09-ecuaciones-001-v1",
+        "CO-MAT-09-ecuaciones-001-v2",
+        "CO-MAT-09-ecuaciones-001-v3",
+        "CO-MAT-09-ecuaciones-001-v4",
+        "CO-MAT-09-ecuaciones-001-v5",
+        "CO-MAT-09-ecuaciones-001-v6",
+        "CO-MAT-09-ecuaciones-001-v7"
+      ],
+      "notes": "Pack existente del inventario original"
+    },
+    {
+      "pack_id": "CO-MAT-09-ecuaciones-002",
+      "source": "OpenTDB",
+      "source_url": "https://opentdb.com",
+      "source_id": "opentdb:custom-adaptation-001",
+      "original_question_hash": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "used_date": "2025-12-09",
+      "country": "CO",
+      "grado": 9,
+      "asignatura": "Matemáticas",
+      "tema": "Ecuaciones lineales",
+      "pack_file": "api/v1/CO/icfes/9/matematicas/2.json",
+      "question_ids": [
+        "CO-MAT-09-ecuaciones-002-v1",
+        "CO-MAT-09-ecuaciones-002-v2",
+        "CO-MAT-09-ecuaciones-002-v3",
+        "CO-MAT-09-ecuaciones-002-v4",
+        "CO-MAT-09-ecuaciones-002-v5",
+        "CO-MAT-09-ecuaciones-002-v6",
+        "CO-MAT-09-ecuaciones-002-v7"
+      ],
+      "notes": "Ejemplo generado - Contexto colombiano (Éxito Medellín, Parque Explora, Cartagena)"
+    },
+    {
+      "pack_id": "CO-CIU-09-derechos-001",
+      "source": "Custom (AI)",
+      "source_url": null,
+      "source_id": "custom:copilot-2025-12-09-001",
+      "original_question_hash": "sha256:8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "used_date": "2025-12-09",
+      "country": "CO",
+      "grado": 9,
+      "asignatura": "Competencias Ciudadanas",
+      "tema": "Derechos fundamentales",
+      "pack_file": "api/v1/CO/icfes/9/competencias_ciudadanas/1.json",
+      "question_ids": [
+        "CO-CIU-09-derechos-001-v1",
+        "CO-CIU-09-derechos-001-v2",
+        "CO-CIU-09-derechos-001-v3",
+        "CO-CIU-09-derechos-001-v4",
+        "CO-CIU-09-derechos-001-v5",
+        "CO-CIU-09-derechos-001-v6",
+        "CO-CIU-09-derechos-001-v7"
+      ],
+      "notes": "Ejemplo generado - Constitución 1991, jurisprudencia Corte Constitucional"
+    },
+    {
+      "pack_id": "CO-LEN-09-comprension-001",
+      "source": "ICFES",
+      "source_url": "https://www.icfes.gov.co/ejemplos-publicos",
+      "source_id": "icfes:len-09-001",
+      "original_question_hash": null,
+      "used_date": "2025-12-09",
+      "country": "CO",
+      "grado": 9,
+      "asignatura": "Lenguaje",
+      "tema": "Comprensión lectora",
+      "pack_file": "api/v1/CO/icfes/9/lenguaje/1.json",
+      "question_ids": [
+        "CO-LEN-09-comprension-001-v1",
+        "CO-LEN-09-comprension-001-v2",
+        "CO-LEN-09-comprension-001-v3",
+        "CO-LEN-09-comprension-001-v4",
+        "CO-LEN-09-comprension-001-v5",
+        "CO-LEN-09-comprension-001-v6",
+        "CO-LEN-09-comprension-001-v7"
+      ],
+      "notes": "Pack existente del inventario original"
+    },
+    {
+      "pack_id": "CO-CNA-09-ecosistemas-001",
+      "source": "ICFES",
+      "source_url": "https://www.icfes.gov.co/ejemplos-publicos",
+      "source_id": "icfes:cna-09-001",
+      "original_question_hash": null,
+      "used_date": "2025-12-09",
+      "country": "CO",
+      "grado": 9,
+      "asignatura": "Ciencias Naturales",
+      "tema": "Ecosistemas",
+      "pack_file": "api/v1/CO/icfes/9/ciencias_naturales/1.json",
+      "question_ids": [
+        "CO-CNA-09-ecosistemas-001-v1",
+        "CO-CNA-09-ecosistemas-001-v2",
+        "CO-CNA-09-ecosistemas-001-v3",
+        "CO-CNA-09-ecosistemas-001-v4",
+        "CO-CNA-09-ecosistemas-001-v5",
+        "CO-CNA-09-ecosistemas-001-v6",
+        "CO-CNA-09-ecosistemas-001-v7"
+      ],
+      "notes": "Pack existente del inventario original"
+    },
+    {
+      "grado": 11,
+      "original_question_hash": "sha256:generated-by-jules-pr1",
+      "tema": "Trigonometría",
+      "pack_id": "CO-MAT-11-trigonometria-005",
+      "asignatura": "Matemáticas",
+      "source_url": "https://www.khanacademy.org/math/trigonometry",
+      "source": "Khan Academy",
+      "pack_file": "api/v1/CO/icfes/11/matematicas/5.json",
+      "used_date": "2025-12-11",
+      "question_ids": [
+        "CO-MAT-11-trigonometria-005-v1",
+        "CO-MAT-11-trigonometria-005-v2",
+        "CO-MAT-11-trigonometria-005-v3",
+        "CO-MAT-11-trigonometria-005-v4",
+        "CO-MAT-11-trigonometria-005-v5",
+        "CO-MAT-11-trigonometria-005-v6",
+        "CO-MAT-11-trigonometria-005-v7"
+      ],
+      "source_id": "khan:trig-005",
+      "country": "CO",
+      "notes": "PR #1 - Jules"
+    },
+    {
+      "grado": 11,
+      "original_question_hash": "sha256:generated-by-jules-pr1",
+      "tema": "Probabilidad",
+      "pack_id": "CO-MAT-11-probabilidad-006",
+      "asignatura": "Matemáticas",
+      "source_url": "https://opentdb.com",
+      "source": "OpenTDB",
+      "pack_file": "api/v1/CO/icfes/11/matematicas/6.json",
+      "used_date": "2025-12-11",
+      "question_ids": [
+        "CO-MAT-11-probabilidad-006-v1",
+        "CO-MAT-11-probabilidad-006-v2",
+        "CO-MAT-11-probabilidad-006-v3",
+        "CO-MAT-11-probabilidad-006-v4",
+        "CO-MAT-11-probabilidad-006-v5",
+        "CO-MAT-11-probabilidad-006-v6",
+        "CO-MAT-11-probabilidad-006-v7"
+      ],
+      "source_id": "opentdb:prob-006",
+      "country": "CO",
+      "notes": "PR #1 - Jules"
+    },
+    {
+      "grado": 11,
+      "original_question_hash": "sha256:generated-by-jules-pr1",
+      "tema": "Cálculo",
+      "pack_id": "CO-MAT-11-calculo-007",
+      "asignatura": "Matemáticas",
+      "source_url": "https://www.khanacademy.org/math/differential-calculus",
+      "source": "Khan Academy",
+      "pack_file": "api/v1/CO/icfes/11/matematicas/7.json",
+      "used_date": "2025-12-11",
+      "question_ids": [
+        "CO-MAT-11-calculo-007-v1",
+        "CO-MAT-11-calculo-007-v2",
+        "CO-MAT-11-calculo-007-v3",
+        "CO-MAT-11-calculo-007-v4",
+        "CO-MAT-11-calculo-007-v5",
+        "CO-MAT-11-calculo-007-v6",
+        "CO-MAT-11-calculo-007-v7"
+      ],
+      "source_id": "khan:calc-007",
+      "country": "CO",
+      "notes": "PR #1 - Jules"
+    }
+  ]
+}

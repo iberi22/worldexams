@@ -1,0 +1,71 @@
+{
+  "protocol_version": "4.1",
+  "country": "co",
+  "grade": 11,
+  "period": 1,
+  "subject": "matematicas",
+  "topic": "Continuidad en un punto y en intervalos",
+  "bundle_file": "CO-MAT-11-continuity-001-PRO-v4-bundle.md",
+  "bundle_assets_dir": "src/content/questions/colombia/matematicas/grado-11/periodo-1/CO-MAT-11-continuity-001-PRO-v4-bundle.md.assets",
+  "question_id": "CO-MAT-11-continuity-001-PRO-v10",
+  "question_type": "weighted",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "total_seconds": 15,
+    "intro_seconds": 3,
+    "explanation_seconds": 9,
+    "outro_seconds": 3
+  },
+  "branding": {
+    "intro": [
+      "worldexams",
+      "saberparatodos"
+    ],
+    "outro": [
+      "worldexams",
+      "saberparatodos"
+    ]
+  },
+  "content": {
+    "statement": "¿Cuál de las siguientes es una consecuencia directa del Teorema de Weierstrass (Teorema de los Valores Extremos) para funciones continuas?",
+    "explanation": "El Teorema de Weierstrass es fundamental: la continuidad en un conjunto compacto (cerrado y acotado) asegura que la función no puede \"escapar\" al infinito ni dejar de alcanzar sus picos más altos y bajos. Si el intervalo fuera abierto, la función podría tender a un valor sin alcanzarlo (ej. $1/x$ en $(0, 1)$), fallando en tener un máximo.",
+    "narration_script": "Vamos a resolver esta pregunta en tres pasos. Paso uno, identifica los datos del enunciado. Paso dos, plantea la operación o ecuación correcta. Paso tres, verifica el resultado y confirma la opción final. El Teorema de Weierstrass es fundamental: la continuidad en un conjunto compacto (cerrado y acotado) asegura que la función no puede \"escapar\" al infinito ni dejar de alcanzar sus picos más altos y bajos. Si el intervalo fuera abierto, la función podría tender a un valor sin alcanzarlo (ej. $1/x$ en $(0, 1)$), fallando en tener un máximo."
+  },
+  "audio": {
+    "tts_engine": "xtts-v2-local",
+    "align_engine": "whisperx",
+    "fallback_engine": "piper"
+  },
+  "outputs": {
+    "final_video_path": "renders/CO-MAT-11-continuity-001-PRO-v10.mp4",
+    "audio_path": "audio/CO-MAT-11-continuity-001-PRO-v10.mp3",
+    "timings_path": "timings/CO-MAT-11-continuity-001-PRO-v10.json",
+    "subtitles_path": "subtitles/CO-MAT-11-continuity-001-PRO-v10.srt"
+  },
+  "social": {
+    "youtube": {
+      "mode": "auto",
+      "status": "pending"
+    },
+    "instagram": {
+      "mode": "auto",
+      "status": "pending"
+    },
+    "tiktok": {
+      "mode": "manual_queue",
+      "status": "pending"
+    }
+  },
+  "status": "generated",
+  "created_at": "2026-03-04T17:50:17.556Z",
+  "generated_at": "2026-03-04T23:14:10.622805Z",
+  "updated_at": "2026-03-04T23:14:10.622828Z",
+  "render_runtime_seconds": 43,
+  "segments_seconds": {
+    "intro": 4,
+    "explanation": 34,
+    "outro": 5
+  }
+}

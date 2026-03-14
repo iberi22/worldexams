@@ -1,0 +1,21 @@
+
+> saberparatodos@0.10.0 lint
+> astro check && tsc --noEmit
+
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2m20:52:48[22m [34m[@astrojs/cloudflare][39m Enabling sessions with Cloudflare KV with the "SESSION" KV binding.
+[2m20:52:48[22m [34m[@astrojs/cloudflare][39m If you see the error "Invalid binding `SESSION`" in your build output, you need to add the binding to your wrangler config file.
+[2m20:52:49[22m [34m[content][39m Syncing content
+[2m20:52:49[22m [34m[content][39m Synced content
+[2m20:52:49[22m [34m[types][39m Generated [2m694ms[22m
+[2m20:52:49[22m [34m[check][39m Getting diagnostics for Astro files in E:\scripts-python\worldexams\saberparatodos...
+[96msrc/lib/api-service.ts[0m:[93m447[0m:[93m74[0m - [93mwarning[0m[90m ts(6133): [0m'balanced' is declared but its value is never read.
+
+[7m447[0m export async function fetchEnglishQuestionsAllGrades(limit: number = 30, balanced: boolean = false, cefrLevelNum?: number): Promise<AppQuestion[]> {
+[7m   [0m [93m                                                                         ~~~~~~~~[0m
+
+Result (190 files): 
+- 0 errors
+- 0 warnings
+- 1 hint
+

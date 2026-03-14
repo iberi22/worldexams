@@ -1,0 +1,8 @@
+{
+  "voice_ref": "C:/models/voices/worldexams-speaker.wav",
+  "commands": {
+    "tts": "python tools/xtts_infer.py --text \"{{NARRATION_SCRIPT}}\" --voice \"{{VOICE_REF}}\" --out \"{{AUDIO_PATH}}\" --lang es",
+    "align": "python tools/whisperx_align.py --audio \"{{AUDIO_PATH}}\" --text \"{{NARRATION_SCRIPT}}\" --json \"{{TIMINGS_PATH}}\" --srt \"{{SUBTITLES_PATH}}\"",
+    "render": "npm --prefix video-pipeline/remotion run render:job -- --job \"{{JOB_PATH}}\" --audio \"{{AUDIO_PATH}}\" --timings \"{{TIMINGS_PATH}}\" --out \"{{VIDEO_PATH}}\""
+  }
+}

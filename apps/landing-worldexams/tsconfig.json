@@ -1,0 +1,22 @@
+{
+  "extends": "astro/tsconfigs/strict",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"],
+      "@components/*": ["src/components/*"],
+      "@layouts/*": ["src/layouts/*"],
+      "@lib/*": ["src/lib/*"]
+    }
+  },
+  "exclude": [
+    "node_modules",
+    "dist",
+    "supabase",
+    "**/supabase",
+    "saberparatodos/template-openicfes",
+    "party-server-rust",
+    "saberparatodos/functions",
+    "functions"
+  ]
+}

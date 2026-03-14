@@ -1,0 +1,241 @@
+{
+  "question_id": "CO-MAT-11-functions-001-PRO-v6",
+  "duration_seconds": 38.96775510204082,
+  "words": [
+    {
+      "word": "Resolvamos",
+      "start": 0.0,
+      "end": 0.319
+    },
+    {
+      "word": "en",
+      "start": 0.319,
+      "end": 0.638
+    },
+    {
+      "word": "tres",
+      "start": 0.638,
+      "end": 0.957
+    },
+    {
+      "word": "pasos.",
+      "start": 0.957,
+      "end": 1.277
+    },
+    {
+      "word": "¿Cuál",
+      "start": 1.277,
+      "end": 1.596
+    },
+    {
+      "word": "es",
+      "start": 1.596,
+      "end": 1.915
+    },
+    {
+      "word": "la",
+      "start": 1.915,
+      "end": 2.234
+    },
+    {
+      "word": "expresión",
+      "start": 2.234,
+      "end": 2.553
+    },
+    {
+      "word": "analítica",
+      "start": 2.553,
+      "end": 2.872
+    },
+    {
+      "word": "de",
+      "start": 2.872,
+      "end": 3.191
+    },
+    {
+      "word": "la",
+      "start": 3.191,
+      "end": 3.511
+    },
+    {
+      "word": "función",
+      "start": 3.511,
+      "end": 3.83
+    },
+    {
+      "word": "inversa",
+      "start": 3.83,
+      "end": 4.149
+    },
+    {
+      "word": "$f^{-1}(x)$?.",
+      "start": 4.149,
+      "end": 4.468
+    },
+    {
+      "word": "Aplicamos",
+      "start": 4.468,
+      "end": 4.787
+    },
+    {
+      "word": "la",
+      "start": 4.787,
+      "end": 5.106
+    },
+    {
+      "word": "operación",
+      "start": 5.106,
+      "end": 5.426
+    },
+    {
+      "word": "clave",
+      "start": 5.426,
+      "end": 5.745
+    },
+    {
+      "word": "y",
+      "start": 5.745,
+      "end": 6.064
+    },
+    {
+      "word": "verificamos",
+      "start": 6.064,
+      "end": 6.383
+    },
+    {
+      "word": "el",
+      "start": 6.383,
+      "end": 6.702
+    },
+    {
+      "word": "resultado.",
+      "start": 6.702,
+      "end": 7.021
+    },
+    {
+      "word": "Para",
+      "start": 7.021,
+      "end": 7.34
+    },
+    {
+      "word": "hallar",
+      "start": 7.34,
+      "end": 7.66
+    },
+    {
+      "word": "la",
+      "start": 7.66,
+      "end": 7.979
+    },
+    {
+      "word": "inversa:",
+      "start": 7.979,
+      "end": 8.298
+    },
+    {
+      "word": "1.",
+      "start": 8.298,
+      "end": 8.617
+    },
+    {
+      "word": "$y",
+      "start": 8.617,
+      "end": 8.936
+    },
+    {
+      "word": "=",
+      "start": 8.936,
+      "end": 9.255
+    },
+    {
+      "word": "2^{x-1}",
+      "start": 9.255,
+      "end": 9.574
+    },
+    {
+      "word": "+",
+      "start": 9.574,
+      "end": 9.894
+    },
+    {
+      "word": "3$",
+      "start": 9.894,
+      "end": 10.213
+    },
+    {
+      "word": "2.",
+      "start": 10.213,
+      "end": 10.532
+    },
+    {
+      "word": "Intercambiamos",
+      "start": 10.532,
+      "end": 10.851
+    },
+    {
+      "word": "variables:",
+      "start": 10.851,
+      "end": 11.17
+    },
+    {
+      "word": "$x",
+      "start": 11.17,
+      "end": 11.489
+    },
+    {
+      "word": "=",
+      "start": 11.489,
+      "end": 11.809
+    },
+    {
+      "word": "2^{y-1}",
+      "start": 11.809,
+      "end": 12.128
+    },
+    {
+      "word": "+",
+      "start": 12.128,
+      "end": 12.447
+    },
+    {
+      "word": "3$",
+      "start": 12.447,
+      "end": 12.766
+    },
+    {
+      "word": "3.",
+      "start": 12.766,
+      "end": 13.085
+    },
+    {
+      "word": "Despejamos",
+      "start": 13.085,
+      "end": 13.404
+    },
+    {
+      "word": "$y$:",
+      "start": 13.404,
+      "end": 13.723
+    },
+    {
+      "word": "$x.",
+      "start": 13.723,
+      "end": 14.043
+    },
+    {
+      "word": "Respuesta",
+      "start": 14.043,
+      "end": 14.362
+    },
+    {
+      "word": "final",
+      "start": 14.362,
+      "end": 14.681
+    },
+    {
+      "word": "confirmada.",
+      "start": 14.681,
+      "end": 15.0
+    }
+  ]
+}

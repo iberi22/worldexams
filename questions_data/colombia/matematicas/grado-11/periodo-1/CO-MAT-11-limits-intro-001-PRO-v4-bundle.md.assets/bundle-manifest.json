@@ -1,0 +1,133 @@
+{
+  "bundle_file": "src/content/questions/colombia/matematicas/grado-11/periodo-1/CO-MAT-11-limits-intro-001-PRO-v4-bundle.md",
+  "bundle_assets_path": "src/content/questions/colombia/matematicas/grado-11/periodo-1/CO-MAT-11-limits-intro-001-PRO-v4-bundle.md.assets",
+  "protocol_version": "4.1",
+  "grade": 11,
+  "period": 1,
+  "subject": "matematicas",
+  "topic": "Límites: Concepto Intuitivo e Indeterminaciones Básicas",
+  "total_questions": 20,
+  "generated_jobs_at": "2026-03-04T17:50:17.586Z",
+  "questions": [
+    {
+      "question_id": "CO-MAT-11-limits-intro-001-PRO-v1",
+      "type": "single",
+      "job_file": "jobs/CO-MAT-11-limits-intro-001-PRO-v1.json",
+      "output_video": "renders/CO-MAT-11-limits-intro-001-PRO-v1.mp4"
+    },
+    {
+      "question_id": "CO-MAT-11-limits-intro-001-PRO-v2",
+      "type": "single",
+      "job_file": "jobs/CO-MAT-11-limits-intro-001-PRO-v2.json",
+      "output_video": "renders/CO-MAT-11-limits-intro-001-PRO-v2.mp4"
+    },
+    {
+      "question_id": "CO-MAT-11-limits-intro-001-PRO-v3",
+      "type": "multi-correct",
+      "job_file": "jobs/CO-MAT-11-limits-intro-001-PRO-v3.json",
+      "output_video": "renders/CO-MAT-11-limits-intro-001-PRO-v3.mp4"
+    },
+    {
+      "question_id": "CO-MAT-11-limits-intro-001-PRO-v4",
+      "type": "single",
+      "job_file": "jobs/CO-MAT-11-limits-intro-001-PRO-v4.json",
+      "output_video": "renders/CO-MAT-11-limits-intro-001-PRO-v4.mp4"
+    },
+    {
+      "question_id": "CO-MAT-11-limits-intro-001-PRO-v5",
+      "type": "weighted",
+      "job_file": "jobs/CO-MAT-11-limits-intro-001-PRO-v5.json",
+      "output_video": "renders/CO-MAT-11-limits-intro-001-PRO-v5.mp4"
+    },
+    {
+      "question_id": "CO-MAT-11-limits-intro-001-PRO-v6",
+      "type": "single",
+      "job_file": "jobs/CO-MAT-11-limits-intro-001-PRO-v6.json",
+      "output_video": "renders/CO-MAT-11-limits-intro-001-PRO-v6.mp4"
+    },
+    {
+      "question_id": "CO-MAT-11-limits-intro-001-PRO-v7",
+      "type": "single",
+      "job_file": "jobs/CO-MAT-11-limits-intro-001-PRO-v7.json",
+      "output_video": "renders/CO-MAT-11-limits-intro-001-PRO-v7.mp4"
+    },
+    {
+      "question_id": "CO-MAT-11-limits-intro-001-PRO-v8",
+      "type": "single",
+      "job_file": "jobs/CO-MAT-11-limits-intro-001-PRO-v8.json",
+      "output_video": "renders/CO-MAT-11-limits-intro-001-PRO-v8.mp4"
+    },
+    {
+      "question_id": "CO-MAT-11-limits-intro-001-PRO-v9",
+      "type": "single",
+      "job_file": "jobs/CO-MAT-11-limits-intro-001-PRO-v9.json",
+      "output_video": "renders/CO-MAT-11-limits-intro-001-PRO-v9.mp4"
+    },
+    {
+      "question_id": "CO-MAT-11-limits-intro-001-PRO-v10",
+      "type": "multi-correct",
+      "job_file": "jobs/CO-MAT-11-limits-intro-001-PRO-v10.json",
+      "output_video": "renders/CO-MAT-11-limits-intro-001-PRO-v10.mp4"
+    },
+    {
+      "question_id": "CO-MAT-11-limits-intro-001-PRO-v11",
+      "type": "single",
+      "job_file": "jobs/CO-MAT-11-limits-intro-001-PRO-v11.json",
+      "output_video": "renders/CO-MAT-11-limits-intro-001-PRO-v11.mp4"
+    },
+    {
+      "question_id": "CO-MAT-11-limits-intro-001-PRO-v12",
+      "type": "single",
+      "job_file": "jobs/CO-MAT-11-limits-intro-001-PRO-v12.json",
+      "output_video": "renders/CO-MAT-11-limits-intro-001-PRO-v12.mp4"
+    },
+    {
+      "question_id": "CO-MAT-11-limits-intro-001-PRO-v13",
+      "type": "weighted",
+      "job_file": "jobs/CO-MAT-11-limits-intro-001-PRO-v13.json",
+      "output_video": "renders/CO-MAT-11-limits-intro-001-PRO-v13.mp4"
+    },
+    {
+      "question_id": "CO-MAT-11-limits-intro-001-PRO-v14",
+      "type": "single",
+      "job_file": "jobs/CO-MAT-11-limits-intro-001-PRO-v14.json",
+      "output_video": "renders/CO-MAT-11-limits-intro-001-PRO-v14.mp4"
+    },
+    {
+      "question_id": "CO-MAT-11-limits-intro-001-PRO-v15",
+      "type": "single",
+      "job_file": "jobs/CO-MAT-11-limits-intro-001-PRO-v15.json",
+      "output_video": "renders/CO-MAT-11-limits-intro-001-PRO-v15.mp4"
+    },
+    {
+      "question_id": "CO-MAT-11-limits-intro-001-PRO-v16",
+      "type": "single",
+      "job_file": "jobs/CO-MAT-11-limits-intro-001-PRO-v16.json",
+      "output_video": "renders/CO-MAT-11-limits-intro-001-PRO-v16.mp4"
+    },
+    {
+      "question_id": "CO-MAT-11-limits-intro-001-PRO-v17",
+      "type": "single",
+      "job_file": "jobs/CO-MAT-11-limits-intro-001-PRO-v17.json",
+      "output_video": "renders/CO-MAT-11-limits-intro-001-PRO-v17.mp4"
+    },
+    {
+      "question_id": "CO-MAT-11-limits-intro-001-PRO-v18",
+      "type": "multi-correct",
+      "job_file": "jobs/CO-MAT-11-limits-intro-001-PRO-v18.json",
+      "output_video": "renders/CO-MAT-11-limits-intro-001-PRO-v18.mp4"
+    },
+    {
+      "question_id": "CO-MAT-11-limits-intro-001-PRO-v19",
+      "type": "single",
+      "job_file": "jobs/CO-MAT-11-limits-intro-001-PRO-v19.json",
+      "output_video": "renders/CO-MAT-11-limits-intro-001-PRO-v19.mp4"
+    },
+    {
+      "question_id": "CO-MAT-11-limits-intro-001-PRO-v20",
+      "type": "weighted",
+      "job_file": "jobs/CO-MAT-11-limits-intro-001-PRO-v20.json",
+      "output_video": "renders/CO-MAT-11-limits-intro-001-PRO-v20.mp4"
+    }
+  ]
+}

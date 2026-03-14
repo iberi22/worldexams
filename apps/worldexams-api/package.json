@@ -1,0 +1,21 @@
+{
+  "name": "@worldexams/worldexams-api",
+  "version": "0.10.0",
+  "description": "WorldExams Cloudflare Worker gateway",
+  "main": "index.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "build": "tsc --noEmit",
+    "check": "tsc --noEmit",
+    "deploy": "wrangler deploy",
+    "test": "npm run check"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20260124.0",
+    "typescript": "^5.9.3",
+    "wrangler": "^4.60.0"
+  }
+}

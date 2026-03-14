@@ -1,0 +1,20 @@
+# Cloudflare Pages configuration for saberparatodos
+name = "saberparatodos"
+compatibility_date = "2024-01-01"
+pages_build_output_dir = "dist"
+
+# Enable Node.js compatibility for crypto and other modules
+compatibility_flags = ["nodejs_compat"]
+
+# Environment variables (non-sensitive)
+[vars]
+PUBLIC_API_BASE_URL = "/api"  # Local API - same domain, no CORS issues
+PUBLIC_SITE_URL = "https://saberparatodos.space"
+
+# Production environment
+[env.production]
+vars = { PUBLIC_API_BASE_URL = "/api", PUBLIC_SITE_URL = "https://saberparatodos.space" }
+
+# Preview/staging environment
+[env.preview]
+vars = { PUBLIC_API_BASE_URL = "/api", PUBLIC_SITE_URL = "https://saberparatodos.space" }

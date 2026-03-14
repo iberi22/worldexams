@@ -1,0 +1,167 @@
+---
+const officialFacts = [
+  {
+    value: '5',
+    label: 'Pruebas calificables',
+    note: 'Matemáticas, Lectura Crítica, Sociales y Ciudadanas, Ciencias Naturales e Inglés.'
+  },
+  {
+    value: '230',
+    label: 'Preguntas calificables',
+    note: 'Cuadernillo estándar Saber 11.º.'
+  },
+  {
+    value: '278',
+    label: 'Total con cuestionario',
+    note: 'Incluye 48 preguntas del cuestionario socioeconómico.'
+  },
+  {
+    value: '2 x 4h30',
+    label: 'Duración oficial',
+    note: 'Dos sesiones de 4 horas y 30 minutos.'
+  }
+];
+
+const resultFacts = [
+  {
+    title: 'Resultados agregados publicados',
+    text: 'El ICFES publicó los resultados agregados 2024-1 y 2024-2 el 13 de febrero de 2025.'
+  },
+  {
+    title: 'Resultados individuales 2024 calendario A',
+    text: 'El ICFES informó que el promedio del puntaje global subió de 257 a 259 frente a 2023.'
+  },
+  {
+    title: 'Cobertura reportada en 2024',
+    text: 'En la aplicación Saber 11 calendario A 2024 el ICFES reportó más de 640 mil estudiantes en más de 540 municipios.'
+  }
+];
+
+const officialLinks = [
+  {
+    label: 'Guía de orientación Saber 11.º 2025',
+    href: 'https://www.icfes.gov.co/evaluaciones-icfes/saber-11/guia-de-orientacion-examen-saber-11/'
+  },
+  {
+    label: 'Agregados Saber 11',
+    href: 'https://www.icfes.gov.co/evaluaciones-icfes/saber-11/agregados-saber-11/'
+  },
+  {
+    label: 'Comunicado resultados Saber 11 calendario A 2024',
+    href: 'https://www.icfes.gov.co/aumento-el-puntaje-global-de-los-resultados-individuales-de-saber-11-calendario-a/'
+  }
+];
+---
+
+<div class="space-y-8">
+  <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+    {officialFacts.map((fact, index) => (
+      <div class="bg-[#1a1a1a] border border-white/10 rounded-lg p-4 text-center" data-sr="fade-up" data-sr-delay={String(index * 100)}>
+        <p class="text-3xl font-bold text-[#FCD116]">{fact.value}</p>
+        <p class="text-xs text-white/70 mt-1">{fact.label}</p>
+        <p class="text-[11px] text-white/40 mt-2">{fact.note}</p>
+      </div>
+    ))}
+  </div>
+
+  <div class="bg-[#1a1a1a] border border-white/10 rounded-lg p-6" data-sr="fade-up">
+    <h3 class="text-lg font-semibold mb-4 flex items-center gap-2">
+      <span class="text-xl">📊</span>
+      Estructura oficial del cuadernillo estándar
+    </h3>
+
+    <div class="space-y-3">
+      <div class="flex items-center gap-3">
+        <span class="text-xs text-white/60 w-32">Sesión 1</span>
+        <div class="flex-1 bg-white/10 rounded-full h-6 overflow-hidden">
+          <div class="h-full bg-[#003893]/80 rounded-full flex items-center justify-end pr-2" style="width: 47%">
+            <span class="text-xs font-bold">131 preguntas</span>
+          </div>
+        </div>
+      </div>
+      <div class="flex items-center gap-3">
+        <span class="text-xs text-white/60 w-32">Sesión 2</span>
+        <div class="flex-1 bg-white/10 rounded-full h-6 overflow-hidden">
+          <div class="h-full bg-[#FCD116]/80 rounded-full flex items-center justify-end pr-2 text-[#121212]" style="width: 53%">
+            <span class="text-xs font-bold">147 preguntas</span>
+          </div>
+        </div>
+      </div>
+      <div class="flex items-center gap-3">
+        <span class="text-xs text-white/60 w-32">Lectura Crítica</span>
+        <div class="flex-1 bg-white/10 rounded-full h-6 overflow-hidden">
+          <div class="h-full bg-white/50 rounded-full flex items-center justify-end pr-2" style="width: 15%">
+            <span class="text-xs font-bold">41</span>
+          </div>
+        </div>
+      </div>
+      <div class="flex items-center gap-3">
+        <span class="text-xs text-white/60 w-32">Inglés</span>
+        <div class="flex-1 bg-white/10 rounded-full h-6 overflow-hidden">
+          <div class="h-full bg-emerald-500/70 rounded-full flex items-center justify-end pr-2" style="width: 20%">
+            <span class="text-xs font-bold">55</span>
+          </div>
+        </div>
+      </div>
+      <div class="flex items-center gap-3">
+        <span class="text-xs text-white/60 w-32">Mat, Soc, Cien</span>
+        <div class="flex-1 bg-white/10 rounded-full h-6 overflow-hidden">
+          <div class="h-full bg-[#CE1126]/75 rounded-full flex items-center justify-end pr-2" style="width: 49%">
+            <span class="text-xs font-bold">134</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <p class="text-xs text-white/40 mt-4">
+      Cifras tomadas de la guía de orientación Saber 11.º 2025-2 del ICFES para el cuadernillo estándar.
+    </p>
+  </div>
+
+  <div class="grid md:grid-cols-2 gap-6">
+    <div class="bg-[#1a1a1a] border border-white/10 rounded-lg p-6" data-sr="fade-left">
+      <h3 class="text-lg font-semibold mb-4 flex items-center gap-2">
+        <span class="text-xl">📈</span>
+        Resultados oficiales que sí están publicados
+      </h3>
+
+      <div class="space-y-4">
+        {resultFacts.map((fact) => (
+          <div class="border border-white/10 rounded-lg p-4 bg-white/[0.02]">
+            <div class="text-sm font-semibold text-[#F5F5DC] mb-1">{fact.title}</div>
+            <p class="text-sm text-white/60">{fact.text}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+
+    <div class="bg-[#1a1a1a] border border-white/10 rounded-lg p-6" data-sr="fade-right">
+      <h3 class="text-lg font-semibold mb-4 flex items-center gap-2">
+        <span class="text-xl">🔗</span>
+        Consulta directa en ICFES
+      </h3>
+
+      <div class="space-y-3">
+        {officialLinks.map((link) => (
+          <a
+            href={link.href}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="block border border-white/10 rounded-lg p-4 hover:border-white/20 transition-colors bg-white/[0.02]"
+          >
+            <div class="text-sm font-semibold text-[#F5F5DC]">{link.label}</div>
+            <div class="text-xs text-white/40 mt-1">{link.href.replace('https://', '')}</div>
+          </a>
+        ))}
+      </div>
+
+      <p class="text-xs text-white/40 mt-4">
+        Cuando una cifra depende del calendario, cohorte o base agregada, conviene consultarla en la fuente original del ICFES.
+      </p>
+    </div>
+  </div>
+
+  <p class="text-xs text-white/30 text-center">
+    Fuente: guía de orientación Saber 11.º 2025, página de agregados Saber 11 y comunicado oficial de resultados calendario A 2024 del ICFES.
+  </p>
+</div>

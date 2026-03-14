@@ -1,0 +1,50 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+const title = 'Pruebas Saber Gratis en Colombia | SaberParaTodos';
+const description = 'Encuentra práctica gratuita para Pruebas Saber, simulacros y guías de preparación en Colombia. Conoce áreas, competencias y recursos.';
+---
+
+<Layout title={title} description={description} keywords="pruebas saber gratis, saber 11 gratis, examenes gratis colombia, icfes gratis">
+  <section class="wrapper">
+    <div class="container">
+      <p class="eyebrow">Preparación Colombia</p>
+      <h1>Pruebas Saber gratis para practicar mejor en Colombia</h1>
+      <p class="lead">
+        Si llegaste buscando <strong>pruebas Saber gratis</strong>, <strong>ICFES gratis</strong> o
+        <strong>exámenes gratis en Colombia</strong>, aquí encontrarás una ruta clara hacia práctica, guía y simulacro.
+      </p>
+
+      <div class="panel">
+        <h2>Qué puedes hacer en SaberParaTodos</h2>
+        <ul>
+          <li>Practicar por áreas en una app de estudio gratuita.</li>
+          <li>Entrar a una landing especializada de simulacro ICFES.</li>
+          <li>Consultar guías de estructura del examen y materiales de apoyo.</li>
+          <li>Reforzar competencias antes de presentar Saber 11.</li>
+        </ul>
+      </div>
+
+      <div class="cta-row">
+        <a href="/practica" class="btn btn-primary">Comenzar práctica</a>
+        <a href="/guia-examen" class="btn btn-secondary">Leer la guía</a>
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .wrapper { padding: 4rem 1rem; }
+  .container { max-width: 960px; margin: 0 auto; }
+  .eyebrow { color: #fcd116; text-transform: uppercase; letter-spacing: 0.12em; font: 0.75rem 'Fira Code', monospace; }
+  h1, h2 { color: #f5f5dc; }
+  h1 { font-size: clamp(2.25rem, 5vw, 4rem); margin: 1rem 0; max-width: 13ch; }
+  p, li { color: rgba(245, 245, 220, 0.78); line-height: 1.7; }
+  .lead { max-width: 60ch; }
+  .panel { margin: 2rem 0; padding: 1.5rem; border-radius: 1.5rem; background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.1); }
+  .panel ul { padding-left: 1.25rem; }
+  .cta-row { display: flex; flex-wrap: wrap; gap: 1rem; }
+  .btn { display: inline-flex; align-items: center; justify-content: center; padding: 0.9rem 1.25rem; border-radius: 999px; text-decoration: none; font-weight: 700; }
+  .btn-primary { background: linear-gradient(135deg, #fcd116, #ffe06a); color: #111827; }
+  .btn-secondary { border: 1px solid rgba(255,255,255,0.18); color: #f5f5dc; }
+</style>

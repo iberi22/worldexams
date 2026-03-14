@@ -1,0 +1,65 @@
+{
+  "protocol_version": "4.1",
+  "country": "co",
+  "grade": 11,
+  "period": 1,
+  "subject": "matematicas",
+  "topic": "Continuidad en un punto y en intervalos",
+  "bundle_file": "CO-MAT-11-continuity-001-PRO-v4-bundle.md",
+  "bundle_assets_dir": "src/content/questions/colombia/matematicas/grado-11/periodo-1/CO-MAT-11-continuity-001-PRO-v4-bundle.md.assets",
+  "question_id": "CO-MAT-11-continuity-001-PRO-v17",
+  "question_type": "single",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "total_seconds": 15,
+    "intro_seconds": 3,
+    "explanation_seconds": 9,
+    "outro_seconds": 3
+  },
+  "branding": {
+    "intro": [
+      "worldexams",
+      "saberparatodos"
+    ],
+    "outro": [
+      "worldexams",
+      "saberparatodos"
+    ]
+  },
+  "content": {
+    "statement": "Para $f(x) = \\begin{cases} \\frac{\\sin(2x)}{x} & x \\neq 0 \\\\ A & x = 0 \\end{cases}$. ¿Qué valor de $A$ hace a $f$ continua?",
+    "explanation": "$\\lim_{x \\to 0} \\frac{\\sin(2x)}{x} = 2 \\cdot \\lim_{x \\to 0} \\frac{\\sin(2x)}{2x} = 2 \\cdot 1 = 2$.\r\nPara que sea continua, $f(0)$ debe ser igual al límite, por lo que $A = 2$.",
+    "narration_script": "Vamos a resolver esta pregunta en tres pasos. Paso uno, identifica los datos del enunciado. Paso dos, plantea la operación o ecuación correcta. Paso tres, verifica el resultado y confirma la opción final. $\\lim_{x \\to 0} \\frac{\\sin(2x)}{x} = 2 \\cdot \\lim_{x \\to 0} \\frac{\\sin(2x)}{2x} = 2 \\cdot 1 = 2$.\r\nPara que sea continua, $f(0)$ debe ser igual al límite, por lo que $A = 2$."
+  },
+  "audio": {
+    "tts_engine": "xtts-v2-local",
+    "align_engine": "whisperx",
+    "fallback_engine": "piper"
+  },
+  "outputs": {
+    "final_video_path": "renders/CO-MAT-11-continuity-001-PRO-v17.mp4",
+    "audio_path": "audio/CO-MAT-11-continuity-001-PRO-v17.mp3",
+    "timings_path": "timings/CO-MAT-11-continuity-001-PRO-v17.json",
+    "subtitles_path": "subtitles/CO-MAT-11-continuity-001-PRO-v17.srt"
+  },
+  "social": {
+    "youtube": {
+      "mode": "auto",
+      "status": "pending"
+    },
+    "instagram": {
+      "mode": "auto",
+      "status": "pending"
+    },
+    "tiktok": {
+      "mode": "manual_queue",
+      "status": "pending"
+    }
+  },
+  "status": "generated",
+  "created_at": "2026-03-04T17:50:17.558Z",
+  "generated_at": "2026-03-04T18:24:51.973077Z",
+  "updated_at": "2026-03-04T18:24:51.973095Z"
+}

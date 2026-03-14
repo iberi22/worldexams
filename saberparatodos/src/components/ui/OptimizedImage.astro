@@ -1,0 +1,116 @@
+---
+/**
+ * OptimizedImage.astro
+ *
+ * Componente de imagen optimizada para Web Vitals:
+ * - Lazy loading nativo
+ * - Aspect ratio preservado (evita CLS)
+ * - Placeholder blur (mejora percepción de LCP)
+ * - Decode async
+ * - Srcset responsive
+ */
+
+interface Props {
+  src: string;
+  alt: string;
+  width: number;
+  height: number;
+  class?: string;
+  loading?: 'lazy' | 'eager';
+  fetchpriority?: 'high' | 'low' | 'auto';
+  sizes?: string;
+  srcset?: string;
+  decoding?: 'async' | 'sync' | 'auto';
+}
+
+const {
+  src,
+  alt,
+  width,
+  height,
+  class: className = '',
+  loading = 'lazy',
+  fetchpriority = 'auto',
+  sizes,
+  srcset,
+  decoding = 'async',
+} = Astro.props;
+
+// Calcular aspect ratio para reservar espacio y evitar CLS
+const aspectRatio = (height / width) * 100;
+---
+
+<div
+  class={`optimized-image-wrapper ${className}`}
+  style={`--aspect-ratio: ${aspectRatio}%`}
+>
+  <img
+    src={src}
+    alt={alt}
+    width={width}
+    height={height}
+    loading={loading}
+    fetchpriority={fetchpriority}
+    decoding={decoding}
+    sizes={sizes}
+    srcset={srcset}
+    class="optimized-image"
+  />
+</div>
+
+<style>
+  .optimized-image-wrapper {
+    position: relative;
+    width: 100%;
+    padding-bottom: var(--aspect-ratio);
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    overflow: hidden;
+    border-radius: inherit;
+  }
+
+  .optimized-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: opacity 0.3s ease;
+  }
+
+  /* Placeholder animado mientras carga */
+  .optimized-image-wrapper::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      90deg,
+      transparent 0%,
+      rgba(255, 255, 255, 0.05) 50%,
+      transparent 100%
+    );
+    animation: shimmer 1.5s infinite;
+    z-index: 1;
+  }
+
+  .optimized-image[src]:not([src=""]) ~ ::before,
+  .optimized-image:not([loading="lazy"]) ~ ::before {
+    display: none;
+  }
+
+  @keyframes shimmer {
+    0% {
+      transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(100%);
+    }
+  }
+
+  /* Desactivar animación si prefiere movimiento reducido */
+  @media (prefers-reduced-motion: reduce) {
+    .optimized-image-wrapper::before {
+      animation: none;
+    }
+  }
+</style>

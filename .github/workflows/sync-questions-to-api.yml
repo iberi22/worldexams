@@ -1,0 +1,75 @@
+name: Sync Questions to API
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'src/content/questions/**'
+      - 'scripts/sync-questions-to-api.py'
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  sync:
+    name: Sync Questions to API
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Run sync script
+        run: |
+          echo "🔄 Starting questions sync..."
+          python scripts/sync-questions-to-api.py
+          echo "✅ Sync completed!"
+
+      - name: Build API
+        run: |
+          cd api
+          npm install
+          npm run build
+          echo "✅ API build completed!"
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            git diff --stat
+          fi
+
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add -A
+          git commit -m "sync: update API questions from content [skip ci]" || echo "No changes to commit"
+          git push
+
+      - name: Deploy API to Cloudflare Pages
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          cd api
+          npm install -g wrangler
+          npx wrangler pages deploy dist --project-name=worldexams-api --commit-dirty=true
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+
+      - name: Post sync status
+        if: always()
+        run: |
+          echo "## 📊 Sync Status" >> $GITHUB_STEP_SUMMARY
+          echo "- **Questions Synced**: $(git log -1 --pretty=%B | grep -o '[0-9]* archivos' || echo 'See logs')" >> $GITHUB_STEP_SUMMARY
+          echo "- **API URL**: https://worldexams-api.pages.dev" >> $GITHUB_STEP_SUMMARY

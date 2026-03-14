@@ -1,0 +1,149 @@
+---
+/**
+ * Subject Practice Page
+ *
+ * Dynamic route: /exams/[country]/[subject]
+ * Filters questions by country and subject for focused practice.
+ */
+import Layout from '../../../../layouts/Layout.astro';
+import ExamView from '../../../../components/ExamView.svelte';
+import { countries } from '../../../../data/countries';
+import { getCollection } from 'astro:content';
+import { parseQuestionsFromBundle } from '../../../../lib/bundleParser';
+
+export async function getStaticPaths() {
+  const allQuestions = await getCollection('questions');
+
+  // Build paths for each country + subject combination
+  const paths: Array<{
+    params: { country: string; subject: string };
+    props: { countryData: typeof countries[0]; subjectName: string; countryFolder: string };
+  }> = [];
+
+  for (const country of countries.filter(c => c.status === 'live')) {
+    const countryCode = country.code.toLowerCase();
+    const countryFolder = country.folder || countryCode;
+
+    // Get questions for this country (using folder name)
+    const countryQuestions = allQuestions.filter(q => {
+      const questionPath = q.id.split('/')[0];
+      return questionPath === '_shared' || questionPath === countryFolder;
+    });
+
+    // Get unique subjects
+    const subjects = [...new Set(countryQuestions.map(q => q.data.asignatura))];
+
+    for (const subject of subjects) {
+      paths.push({
+        params: {
+          country: countryCode,
+          subject: subject.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\s+/g, '-'),
+        },
+        props: {
+          countryData: country,
+          subjectName: subject,
+          countryFolder,
+        },
+      });
+    }
+  }
+
+  return paths;
+}
+
+// ... (imports moved to top)
+
+const { country, subject } = Astro.params;
+const { countryData, subjectName, countryFolder } = Astro.props;
+
+// Get all questions for this country + subject
+const allQuestions = await getCollection('questions');
+
+const subjectQuestions = allQuestions.filter(q => {
+  const questionPath = q.id.split('/')[0];
+  const isCountryMatch = questionPath === '_shared' || questionPath === countryFolder;
+  // Handle cases where asignatura might be undefined if schema validation failed (shouldn't happen with strict schema)
+  if (!q.data.asignatura) return false;
+  const subjectSlug = q.data.asignatura.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\s+/g, '-');
+  return isCountryMatch && subjectSlug === subject;
+});
+
+// Get available grades for filtering (from bundles)
+const availableGrades = [...new Set(subjectQuestions.map(q => q.data.grado))].sort((a, b) => a - b);
+
+// Parse all bundles and flatten into questions
+// Randomize bundles first
+const shuffledBundles = subjectQuestions.sort(() => Math.random() - 0.5);
+const parsedBundles = shuffledBundles.map(parseQuestionsFromBundle);
+const questions = parsedBundles.flat();
+
+---
+
+<Layout title={`${subjectName} - ${countryData.name}`}>
+  <section class="min-h-screen py-24 px-4">
+    <div class="max-w-4xl mx-auto">
+      <!-- Header -->
+      <div class="text-center mb-12">
+        <a href={`/exams/${country}`} class="text-text-secondary hover:text-accent-cyan transition-colors mb-4 inline-block">
+          ← Volver a {countryData.name}
+        </a>
+        <div class="flex items-center justify-center gap-4 mt-4">
+          <span class="text-4xl">{countryData.flag}</span>
+          <div>
+            <h1 class="text-3xl font-bold">{subjectName}</h1>
+            <p class="text-text-secondary">{countryData.exam}</p>
+          </div>
+        </div>
+
+        <!-- Stats -->
+        <div class="flex justify-center gap-6 mt-6">
+          <div class="text-center">
+            <div class="text-2xl font-bold text-accent-cyan">{subjectQuestions.length}</div>
+            <div class="text-xs text-text-secondary uppercase tracking-widest">Preguntas</div>
+          </div>
+          <div class="text-center">
+            <div class="text-2xl font-bold text-accent-gold">
+              {availableGrades.length > 1
+                ? `${Math.min(...availableGrades)}-${Math.max(...availableGrades)}`
+                : availableGrades[0] || '-'}
+            </div>
+            <div class="text-xs text-text-secondary uppercase tracking-widest">Grados</div>
+          </div>
+        </div>
+      </div>
+
+      {questions.length > 0 ? (
+        <!-- Exam Component -->
+        <ExamView
+          client:load
+          questions={questions}
+          countryName={countryData.name}
+          countryFlag={countryData.flag}
+          countryCode={country}
+        />
+      ) : (
+        <!-- No Questions -->
+        <div class="bg-bg-card rounded-2xl p-8 border border-white/5 text-center">
+          <div class="text-6xl mb-4">📚</div>
+          <h2 class="text-2xl font-bold mb-2">No hay preguntas disponibles</h2>
+          <p class="text-text-secondary mb-6">
+            Esta asignatura aún no tiene preguntas cargadas para {countryData.name}.
+          </p>
+          <a href={`/exams/${country}`} class="btn-primary inline-block">
+            ← Volver al Portal
+          </a>
+        </div>
+      )}
+
+      <!-- Navigation Links -->
+      <div class="mt-12 flex flex-wrap justify-center gap-4">
+        <a href={`/exams/${country}/practice`} class="btn-secondary">
+          🎯 Práctica Mixta
+        </a>
+        <a href={`/exams/${country}`} class="text-text-secondary hover:text-accent-cyan transition-colors px-4 py-2">
+          📋 Ver todas las materias
+        </a>
+      </div>
+    </div>
+  </section>
+</Layout>

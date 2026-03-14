@@ -1,0 +1,63 @@
+{
+  "protocol_version": "4.1",
+  "country": "co",
+  "grade": 11,
+  "period": 1,
+  "subject": "matematicas",
+  "topic": "Límites: Concepto Intuitivo e Indeterminaciones Básicas",
+  "bundle_file": "CO-MAT-11-limits-intro-001-PRO-v4-bundle.md",
+  "bundle_assets_dir": "src/content/questions/colombia/matematicas/grado-11/periodo-1/CO-MAT-11-limits-intro-001-PRO-v4-bundle.md.assets",
+  "question_id": "CO-MAT-11-limits-intro-001-PRO-v13",
+  "question_type": "weighted",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "total_seconds": 15,
+    "intro_seconds": 3,
+    "explanation_seconds": 9,
+    "outro_seconds": 3
+  },
+  "branding": {
+    "intro": [
+      "worldexams",
+      "saberparatodos"
+    ],
+    "outro": [
+      "worldexams",
+      "saberparatodos"
+    ]
+  },
+  "content": {
+    "statement": "En la teoría de la relatividad especial, la masa de un objeto aumenta con su velocidad $v$ según: $m(v) = \\frac{m_0}{\\sqrt{1 - (v/c)^2}}$, donde $c$ es la velocidad de la luz. ¿Cuál es el límite de la masa cuando la velocidad del objeto se aproxima a la velocidad de la luz ($\\lim_{v \\to c^-} m(v)$)?",
+    "explanation": "A medida que $v \\to c$, $(v/c)^2 \\to 1$.\r\nEl radical $\\sqrt{1 - (v/c)^2} \\to 0$.\r\nDividir la masa en reposo $m_0$ por un número infinitesimalmente pequeño hace que el resultado tienda a infinito. Esta es la razón física por la cual ningún objeto con masa puede viajar a la velocidad de la luz.",
+    "narration_script": "Vamos a resolver esta pregunta en tres pasos. Paso uno, identifica los datos del enunciado. Paso dos, plantea la operación o ecuación correcta. Paso tres, verifica el resultado y confirma la opción final. A medida que $v \\to c$, $(v/c)^2 \\to 1$.\r\nEl radical $\\sqrt{1 - (v/c)^2} \\to 0$.\r\nDividir la masa en reposo $m_0$ por un número infinitesimalmente pequeño hace que el resultado tienda a infinito. Esta es la razón física por la cual ningún objeto con masa puede viajar a la velocidad de la luz."
+  },
+  "audio": {
+    "tts_engine": "xtts-v2-local",
+    "align_engine": "whisperx",
+    "fallback_engine": "piper"
+  },
+  "outputs": {
+    "final_video_path": "renders/CO-MAT-11-limits-intro-001-PRO-v13.mp4",
+    "audio_path": "audio/CO-MAT-11-limits-intro-001-PRO-v13.mp3",
+    "timings_path": "timings/CO-MAT-11-limits-intro-001-PRO-v13.json",
+    "subtitles_path": "subtitles/CO-MAT-11-limits-intro-001-PRO-v13.srt"
+  },
+  "social": {
+    "youtube": {
+      "mode": "auto",
+      "status": "pending"
+    },
+    "instagram": {
+      "mode": "auto",
+      "status": "pending"
+    },
+    "tiktok": {
+      "mode": "manual_queue",
+      "status": "pending"
+    }
+  },
+  "status": "pending_generation",
+  "created_at": "2026-03-04T17:50:17.584Z"
+}

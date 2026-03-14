@@ -1,0 +1,356 @@
+
+Running 10 tests using 1 worker
+
+[P1] 🌍 Navigating to home...
+[P1] 🔘 Clicking Grade 3...
+[P1] ⚙️ Waiting for Config Modal...
+[P1] ✅ Subject Selected: Matemáticas
+[P1] 🔘 Mode "Por Periodo" selected
+[P1] ✅ Period 1 Selected
+[P1] 🚀 Starting Exam...
+[P1] ⏳ Waiting for modal to close...
+[P1] ✅ Modal closed
+[P1] 📸 Screenshot taken
+[P1] ✅ Questions loaded - options grid visible
+[P1] ✅ Test Passed (verification complete)
+  ✓   1 [chromium] › tests\e2e-grade3-periods.spec.ts:19:9 › E2E Grade 3 Period Functionality › Grade 3 Math - Period 1 Exam Generation (26.5s)
+[P2] 🌍 Navigating to home...
+[P2] 🔘 Clicking Grade 3...
+[P2] ⚙️ Waiting for Config Modal...
+[P2] ✅ Subject Selected: Matemáticas
+[P2] 🔘 Mode "Por Periodo" selected
+[P2] ✅ Period 2 Selected
+[P2] 🚀 Starting Exam...
+[P2] ⏳ Waiting for modal to close...
+[P2] ✅ Modal closed
+[P2] 📸 Screenshot taken
+[P2] ✅ Questions loaded - options grid visible
+[P2] ✅ Test Passed (verification complete)
+  ✓   2 [chromium] › tests\e2e-grade3-periods.spec.ts:19:9 › E2E Grade 3 Period Functionality › Grade 3 Math - Period 2 Exam Generation (26.8s)
+[P3] 🌍 Navigating to home...
+[P3] 🔘 Clicking Grade 3...
+[P3] ⚙️ Waiting for Config Modal...
+[P3] ✅ Subject Selected: Matemáticas
+[P3] 🔘 Mode "Por Periodo" selected
+[P3] ✅ Period 3 Selected
+[P3] 🚀 Starting Exam...
+[P3] ⏳ Waiting for modal to close...
+[P3] ✅ Modal closed
+[P3] 📸 Screenshot taken
+[P3] ✅ Questions loaded - options grid visible
+[P3] ✅ Test Passed (verification complete)
+  ✓   3 [chromium] › tests\e2e-grade3-periods.spec.ts:19:9 › E2E Grade 3 Period Functionality › Grade 3 Math - Period 3 Exam Generation (24.9s)
+[P4] 🌍 Navigating to home...
+[P4] 🔘 Clicking Grade 3...
+[P4] ⚙️ Waiting for Config Modal...
+[P4] ✅ Subject Selected: Matemáticas
+[P4] 🔘 Mode "Por Periodo" selected
+[P4] ✅ Period 4 Selected
+[P4] 🚀 Starting Exam...
+[P4] ⏳ Waiting for modal to close...
+[P4] ✅ Modal closed
+[P4] 📸 Screenshot taken
+[P4] ✅ Questions loaded - options grid visible
+[P4] ✅ Test Passed (verification complete)
+  ✓   4 [chromium] › tests\e2e-grade3-periods.spec.ts:19:9 › E2E Grade 3 Period Functionality › Grade 3 Math - Period 4 Exam Generation (27.9s)
+
+🔎 Checking Grade 11 Period 1...
+Step 1: Clicking Grade 11° Grado
+Step 2: Waiting for Exam Config Modal (can take long due to pool fetch)...
+✅ Modal visible
+  ✘   5 [chromium] › tests\e2e-matrix.spec.ts:12:13 › E2E Matrix Coverage (Post-Fix) › Grade 11 Period 1 - Feasibility Check (1.6s)
+
+🔎 Checking Grade 11 Period 2...
+Step 1: Clicking Grade 11° Grado
+Step 2: Waiting for Exam Config Modal (can take long due to pool fetch)...
+✅ Modal visible
+  ✘   6 [chromium] › tests\e2e-matrix.spec.ts:12:13 › E2E Matrix Coverage (Post-Fix) › Grade 11 Period 2 - Feasibility Check (1.6s)
+
+🔎 Checking Grade 11 Period 3...
+Step 1: Clicking Grade 11° Grado
+Step 2: Waiting for Exam Config Modal (can take long due to pool fetch)...
+✅ Modal visible
+  ✘   7 [chromium] › tests\e2e-matrix.spec.ts:12:13 › E2E Matrix Coverage (Post-Fix) › Grade 11 Period 3 - Feasibility Check (1.7s)
+
+🔎 Checking Grade 11 Period 4...
+Step 1: Clicking Grade 11° Grado
+Step 2: Waiting for Exam Config Modal (can take long due to pool fetch)...
+✅ Modal visible
+  ✘   8 [chromium] › tests\e2e-matrix.spec.ts:12:13 › E2E Matrix Coverage (Post-Fix) › Grade 11 Period 4 - Feasibility Check (1.6s)
+🌍 Navigating to home...
+BROWSER: [vite] connecting...
+BROWSER: [vite] connected.
+🔘 Clicking Grade 11...
+BROWSER: [PWA] Dev mode: Service Workers unregistered
+BROWSER: [PWA] Dev mode: Caches cleared
+BROWSER: [Config] Loaded configuration for: Colombia (CO)
+BROWSER: App received questions: 0
+BROWSER: App received universalPool: 0
+⚙️ Waiting for Config Modal...
+❌ TEST FAILED: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator: getByText('Configurar Examen')
+Expected: visible
+Timeout: 30000ms
+Error: element(s) not found
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 30000ms[22m
+[2m  - waiting for getByText('Configurar Examen')[22m
+
+Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+Locator: getByText('Configurar Examen')
+Expected: visible
+Timeout: 30000ms
+Error: element(s) not found
+
+Call log:
+[2m  - Expect "toBeVisible" with timeout 30000ms[22m
+[2m  - waiting for getByText('Configurar Examen')[22m
+
+    at E:\scripts-python\worldexams\saberparatodos\tests\e2e-period-selector.spec.ts:39:63
+  ✘   9 [chromium] › tests\e2e-period-selector.spec.ts:15:5 › E2E Period Selector & Content Validation › Should select Grade 11, Configure Period 1, and capture 10 questions (31.4s)
+🚀 Starting Smoke Test...
+BROWSER LOG: [vite] connecting...
+BROWSER LOG: [vite] connected.
+Searching for Grade 11 button...
+BROWSER LOG: [PWA] Dev mode: Service Workers unregistered
+BROWSER LOG: [PWA] Dev mode: Caches cleared
+BROWSER LOG: [Config] Loaded configuration for: Colombia (CO)
+BROWSER LOG: App received questions: 0
+BROWSER LOG: App received universalPool: 0
+Clicking Grade 11 button...
+HTML of button: <div class="flashlight-effect pointer-events-none absolute -inset-px opacity-0 transition duration-300 group-hover:opacity-100 svelte-99envo" style="background: radial-gradient(600px at 0px 0px, rgba(16, 185, 129, 0.1), transparent 40%); opacity: 0;"></div> <div class="relative z-10 w-full h-full"><div class="font-bold text-emerald-500 group-hover:text-emerald-400 transition-all duration-300 text-5xl drop-shadow-[0_0_10px_rgba(16,185,129,0.3)]">11°</div> <div class="uppercase tracking-wider text-white/40 group-hover:text-white/60 mt-1 transition-all duration-300 text-xs">Grado</div> <div class="mt-2 px-2 py-0.5 bg-emerald-500/20 rounded-full border border-emerald-500/30"><span class="text-[8px] text-emerald-400 font-bold uppercase tracking-widest animate-pulse">Examen Principal</span></div><!----></div>
+Waiting for Config Modal (loading questions)...
+Modal visible!
+Selecting Sociales y Ciudadanas...
+BROWSER LOG: 🔍 [ExamConfigModal] Derived currentPeriods for socialesyciudadanas (Grade 11): 4
+Selecting Por Periodo -> Periodo 3...
+Selecting 5 questions...
+Clicking Comenzar...
+Waiting for questions to load...
+BROWSER LOG: 📦 Stored new pack: api-week-11-11-matematicas with 10 questions
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-matematicas
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-matematicas
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-matematicas
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-matematicas
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-matematicas
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-matematicas
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-matematicas
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-matematicas
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-matematicas
+BROWSER LOG: 📦 Stored new pack: api-week-11-11-lectura_critica with 10 questions
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-lectura_critica
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-lectura_critica
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-lectura_critica
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-lectura_critica
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-lectura_critica
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-lectura_critica
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-lectura_critica
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-lectura_critica
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-lectura_critica
+BROWSER LOG: 📦 Stored new pack: api-week-11-11-ciencias_naturales with 10 questions
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-ciencias_naturales
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-ciencias_naturales
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-ciencias_naturales
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-ciencias_naturales
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-ciencias_naturales
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-ciencias_naturales
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-ciencias_naturales
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-ciencias_naturales
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-ciencias_naturales
+BROWSER LOG: 📦 Stored new pack: api-week-11-11-sociales_y_ciudadanas with 10 questions
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-sociales_y_ciudadanas
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-sociales_y_ciudadanas
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-sociales_y_ciudadanas
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-sociales_y_ciudadanas
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-sociales_y_ciudadanas
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-sociales_y_ciudadanas
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-sociales_y_ciudadanas
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-sociales_y_ciudadanas
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-sociales_y_ciudadanas
+BROWSER LOG: 📦 Stored new pack: api-week-11-11-ingles with 10 questions
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-ingles
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-ingles
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-ingles
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-ingles
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-ingles
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-ingles
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-ingles
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-ingles
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-ingles
+BROWSER LOG: 📦 Pack already stored: api-week-11-11-sociales_y_ciudadanas
+BROWSER LOG: Error fetching period questions: Error: No hay preguntas disponibles para esta configuración.
+    at prepareSoloExamQuestions (http://localhost:4321/src/lib/questions/orchestrator.ts?t=1773278335905:105:11)
+    at async Module.track_reactivity_loss (http://localhost:4321/node_modules/.vite/deps/chunk-6THLNGU6.js?v=f1399020:1962:15)
+    at async handleStart (http://localhost:4321/src/components/ExamConfigModal.svelte?t=1773278335905:1417:26)
+  ✘  10 [chromium] › tests\e2e-smoke-tag.spec.ts:3:1 › Smoke Test: Grade 11 Period 3 (Sociales) - Tag Verification (32.4s)
+
+
+  1) [chromium] › tests\e2e-matrix.spec.ts:12:13 › E2E Matrix Coverage (Post-Fix) › Grade 11 Period 1 - Feasibility Check 
+
+    Error: locator.selectOption: Error: strict mode violation: locator('select') resolved to 2 elements:
+        1) <select class="w-full px-4 py-3 bg-gray-900/90 border border-white/10 rounded-lg text-white font-medium focus:outline-none focus:border-emerald-500 focus:ring-2 focus:ring-emerald-500/20 transition-all cursor-pointer hover:bg-gray-900  ">…</select> aka getByRole('combobox')
+        2) <select name="dev-toolbar-select">…</select> aka locator('select[name="dev-toolbar-select"]')
+
+    Call log:
+    [2m  - waiting for locator('select')[22m
+
+
+      28 |
+      29 |                 const dropdown = page.locator('select');
+    > 30 |                 await dropdown.selectOption('Sociales y Ciudadanas');
+         |                                ^
+      31 |                 console.log('✅ Subject selected');
+      32 |
+      33 |                 // 3. Select "Por Periodo" mode
+        at E:\scripts-python\worldexams\saberparatodos\tests\e2e-matrix.spec.ts:30:32
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results\e2e-matrix-E2E-Matrix-Cove-8e6f8-eriod-1---Feasibility-Check-chromium\test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results\e2e-matrix-E2E-Matrix-Cove-8e6f8-eriod-1---Feasibility-Check-chromium\error-context.md
+
+  2) [chromium] › tests\e2e-matrix.spec.ts:12:13 › E2E Matrix Coverage (Post-Fix) › Grade 11 Period 2 - Feasibility Check 
+
+    Error: locator.selectOption: Error: strict mode violation: locator('select') resolved to 2 elements:
+        1) <select class="w-full px-4 py-3 bg-gray-900/90 border border-white/10 rounded-lg text-white font-medium focus:outline-none focus:border-emerald-500 focus:ring-2 focus:ring-emerald-500/20 transition-all cursor-pointer hover:bg-gray-900  ">…</select> aka getByRole('combobox')
+        2) <select name="dev-toolbar-select">…</select> aka locator('select[name="dev-toolbar-select"]')
+
+    Call log:
+    [2m  - waiting for locator('select')[22m
+
+
+      28 |
+      29 |                 const dropdown = page.locator('select');
+    > 30 |                 await dropdown.selectOption('Sociales y Ciudadanas');
+         |                                ^
+      31 |                 console.log('✅ Subject selected');
+      32 |
+      33 |                 // 3. Select "Por Periodo" mode
+        at E:\scripts-python\worldexams\saberparatodos\tests\e2e-matrix.spec.ts:30:32
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results\e2e-matrix-E2E-Matrix-Cove-66fe9-eriod-2---Feasibility-Check-chromium\test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results\e2e-matrix-E2E-Matrix-Cove-66fe9-eriod-2---Feasibility-Check-chromium\error-context.md
+
+  3) [chromium] › tests\e2e-matrix.spec.ts:12:13 › E2E Matrix Coverage (Post-Fix) › Grade 11 Period 3 - Feasibility Check 
+
+    Error: locator.selectOption: Error: strict mode violation: locator('select') resolved to 2 elements:
+        1) <select class="w-full px-4 py-3 bg-gray-900/90 border border-white/10 rounded-lg text-white font-medium focus:outline-none focus:border-emerald-500 focus:ring-2 focus:ring-emerald-500/20 transition-all cursor-pointer hover:bg-gray-900  ">…</select> aka getByRole('combobox')
+        2) <select name="dev-toolbar-select">…</select> aka locator('select[name="dev-toolbar-select"]')
+
+    Call log:
+    [2m  - waiting for locator('select')[22m
+
+
+      28 |
+      29 |                 const dropdown = page.locator('select');
+    > 30 |                 await dropdown.selectOption('Sociales y Ciudadanas');
+         |                                ^
+      31 |                 console.log('✅ Subject selected');
+      32 |
+      33 |                 // 3. Select "Por Periodo" mode
+        at E:\scripts-python\worldexams\saberparatodos\tests\e2e-matrix.spec.ts:30:32
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results\e2e-matrix-E2E-Matrix-Cove-7bedf-eriod-3---Feasibility-Check-chromium\test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results\e2e-matrix-E2E-Matrix-Cove-7bedf-eriod-3---Feasibility-Check-chromium\error-context.md
+
+  4) [chromium] › tests\e2e-matrix.spec.ts:12:13 › E2E Matrix Coverage (Post-Fix) › Grade 11 Period 4 - Feasibility Check 
+
+    Error: locator.selectOption: Error: strict mode violation: locator('select') resolved to 2 elements:
+        1) <select class="w-full px-4 py-3 bg-gray-900/90 border border-white/10 rounded-lg text-white font-medium focus:outline-none focus:border-emerald-500 focus:ring-2 focus:ring-emerald-500/20 transition-all cursor-pointer hover:bg-gray-900  ">…</select> aka getByRole('combobox')
+        2) <select name="dev-toolbar-select">…</select> aka locator('select[name="dev-toolbar-select"]')
+
+    Call log:
+    [2m  - waiting for locator('select')[22m
+
+
+      28 |
+      29 |                 const dropdown = page.locator('select');
+    > 30 |                 await dropdown.selectOption('Sociales y Ciudadanas');
+         |                                ^
+      31 |                 console.log('✅ Subject selected');
+      32 |
+      33 |                 // 3. Select "Por Periodo" mode
+        at E:\scripts-python\worldexams\saberparatodos\tests\e2e-matrix.spec.ts:30:32
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results\e2e-matrix-E2E-Matrix-Cove-3e205-eriod-4---Feasibility-Check-chromium\test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results\e2e-matrix-E2E-Matrix-Cove-3e205-eriod-4---Feasibility-Check-chromium\error-context.md
+
+  5) [chromium] › tests\e2e-period-selector.spec.ts:15:5 › E2E Period Selector & Content Validation › Should select Grade 11, Configure Period 1, and capture 10 questions 
+
+    Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+    Locator: getByText('Configurar Examen')
+    Expected: visible
+    Timeout: 30000ms
+    Error: element(s) not found
+
+    Call log:
+    [2m  - Expect "toBeVisible" with timeout 30000ms[22m
+    [2m  - waiting for getByText('Configurar Examen')[22m
+
+
+      37 |             // 2. Exam Configuration
+      38 |             log('⚙️ Waiting for Config Modal...');
+    > 39 |             await expect(page.getByText('Configurar Examen')).toBeVisible({ timeout: 30000 });
+         |                                                               ^
+      40 |
+      41 |             // Select Subject
+      42 |             // Try selecting by value if label fails or loop options to debug
+        at E:\scripts-python\worldexams\saberparatodos\tests\e2e-period-selector.spec.ts:39:63
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results\e2e-period-selector-E2E-Pe-8071f--1-and-capture-10-questions-chromium\test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results\e2e-period-selector-E2E-Pe-8071f--1-and-capture-10-questions-chromium\error-context.md
+
+  6) [chromium] › tests\e2e-smoke-tag.spec.ts:3:1 › Smoke Test: Grade 11 Period 3 (Sociales) - Tag Verification 
+
+    Error: [2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m([22m[2m)[22m failed
+
+    Locator: getByTestId('options-grid')
+    Expected: visible
+    Timeout: 30000ms
+    Error: element(s) not found
+
+    Call log:
+    [2m  - Expect "toBeVisible" with timeout 30000ms[22m
+    [2m  - waiting for getByTestId('options-grid')[22m
+
+
+      45 |     // 7. Validate questions
+      46 |     console.log('Waiting for questions to load...');
+    > 47 |     await expect(page.getByTestId('options-grid')).toBeVisible({ timeout: 30000 });
+         |                                                    ^
+      48 |     console.log('✅ SUCCESS: Questions loaded for Period 3!');
+      49 | });
+      50 |
+        at E:\scripts-python\worldexams\saberparatodos\tests\e2e-smoke-tag.spec.ts:47:52
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results\e2e-smoke-tag-Smoke-Test-G-7c34d-Sociales---Tag-Verification-chromium\test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: test-results\e2e-smoke-tag-Smoke-Test-G-7c34d-Sociales---Tag-Verification-chromium\error-context.md
+
+  6 failed
+    [chromium] › tests\e2e-matrix.spec.ts:12:13 › E2E Matrix Coverage (Post-Fix) › Grade 11 Period 1 - Feasibility Check 
+    [chromium] › tests\e2e-matrix.spec.ts:12:13 › E2E Matrix Coverage (Post-Fix) › Grade 11 Period 2 - Feasibility Check 
+    [chromium] › tests\e2e-matrix.spec.ts:12:13 › E2E Matrix Coverage (Post-Fix) › Grade 11 Period 3 - Feasibility Check 
+    [chromium] › tests\e2e-matrix.spec.ts:12:13 › E2E Matrix Coverage (Post-Fix) › Grade 11 Period 4 - Feasibility Check 
+    [chromium] › tests\e2e-period-selector.spec.ts:15:5 › E2E Period Selector & Content Validation › Should select Grade 11, Configure Period 1, and capture 10 questions 
+    [chromium] › tests\e2e-smoke-tag.spec.ts:3:1 › Smoke Test: Grade 11 Period 3 (Sociales) - Tag Verification 
+  4 passed (3.1m)
