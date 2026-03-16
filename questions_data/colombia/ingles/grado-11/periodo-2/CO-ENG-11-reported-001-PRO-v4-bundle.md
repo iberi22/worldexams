@@ -25,10 +25,10 @@ source_license: "CC BY-SA 4.0"
 **ICFES:** Gramatical
 **Bloom:** Apply
 
-### Contexto
-The professor told the class, "The final exam will cover all the material we have discussed this semester."
-
 ### Enunciado
+**[CORREGIDA v2]** Read the following context:
+*The professor told the class, "The final exam will cover all the material we have discussed this semester."*
+
 Choose the correct reported speech transformation:
 
 ### Options
@@ -49,10 +49,10 @@ When changing from direct to reported speech after a past tense reporting verb (
 **ICFES:** Gramatical
 **Bloom:** Apply
 
-### Contexto
-The interviewer asked the candidate, "Why did you leave your previous job?"
-
 ### Enunciado
+**[CORREGIDA v2]** Read the following context:
+*The interviewer asked the candidate, "Why did you leave your previous job?"*
+
 Select the correct reporting of the interviewer's question:
 
 ### Options
@@ -73,10 +73,10 @@ In reported questions, the word order changes from question word order (verb-sub
 **ICFES:** Gramatical
 **Bloom:** Apply
 
-### Contexto
-The doctor advised the patient, "You must reduce your sugar intake immediately."
-
 ### Enunciado
+**[CORREGIDA v2]** Read the following context:
+*The doctor advised the patient, "You must reduce your sugar intake immediately."*
+
 Which reporting sentence accurately conveys the doctor's advice?
 
 ### Options
@@ -97,10 +97,10 @@ Imperatives and strong advice using verbs like "advise", "tell", or "ask" follow
 **ICFES:** Gramatical
 **Bloom:** Apply
 
-### Contexto
-Sarah said, "I am considering applying for the scholarship next year."
-
 ### Enunciado
+**[CORREGIDA v2]** Read the following context:
+*Sarah said, "I am considering applying for the scholarship next year."*
+
 Identify the correct reported speech version of Sarah's statement:
 
 ### Options
@@ -129,10 +129,10 @@ Present continuous ("am considering") backshifts to past continuous ("was consid
 **ICFES:** Lexical + Gramatical
 **Bloom:** Analyze
 
-### Contexto
-"I will definitely have the report ready by tomorrow morning," the manager promised.
-
 ### Enunciado
+**[CORREGIDA v2]** Read the following context:
+*"I will definitely have the report ready by tomorrow morning," the manager promised.*
+
 Choose the sentence that best reports the manager's statement using an appropriate reporting verb:
 
 ### Options
@@ -153,10 +153,10 @@ The verb "promise" can be followed directly by an infinitive clause ("promise to
 **ICFES:** Gramatical + Comunicativa
 **Bloom:** Analyze
 
-### Contexto
-The scientist declared, "The laws of physics do not change over time."
-
 ### Enunciado
+**[CORREGIDA v2]** Read the following context:
+*The scientist declared, "The laws of physics do not change over time."*
+
 Which reported sentence is the most accurate representation of the statement?
 
 ### Options
@@ -177,10 +177,10 @@ When reporting a statement that represents a universal truth, a general fact, or
 **ICFES:** Gramatical + Pragmática
 **Bloom:** Analyze
 
-### Contexto
-"Don't forget to submit your assignments before midnight," the teacher reminded the students.
-
 ### Enunciado
+**[CORREGIDA v2]** Read the following context:
+*"Don't forget to submit your assignments before midnight," the teacher reminded the students.*
+
 Select the grammatical conversion that most appropriately captures the pragmatic intent of the speaker:
 
 ### Options
@@ -201,10 +201,10 @@ The reporting verb "remind" takes an object followed by a "to-infinitive". When 
 **ICFES:** Gramatical
 **Bloom:** Analyze
 
-### Contexto
-"Had you ever experienced such severe weather before you moved to the coast?" she asked him.
-
 ### Enunciado
+**[CORREGIDA v2]** Read the following context:
+*"Had you ever experienced such severe weather before you moved to the coast?" she asked him.*
+
 Identify the correct reported version of the yes/no question in the past perfect:
 
 ### Options
@@ -225,10 +225,10 @@ Reported yes/no questions introduced by a past tense reporting verb require "if"
 **ICFES:** Lexical + Comunicativa
 **Bloom:** Analyze
 
-### Contexto
-"You really should read this article on climate change; it's fascinating," John said to me.
-
 ### Enunciado
+**[CORREGIDA v2]** Read the following context:
+*"You really should read this article on climate change; it's fascinating," John said to me.*
+
 Choose the most concise and accurate way to report John's statement using a summarizing reporting verb:
 
 ### Options
@@ -249,10 +249,10 @@ The phrase "You really should read" serves as a strong recommendation. The verb 
 **ICFES:** Gramatical + Pragmática
 **Bloom:** Evaluate
 
-### Contexto
-The prime minister stated: "We must ensure that the economic recovery reaches all citizens, and we will not rest until poverty is eradicated."
-
 ### Enunciado
+**[CORREGIDA v2]** Read the following context:
+*The prime minister stated: "We must ensure that the economic recovery reaches all citizens, and we will not rest until poverty is eradicated."*
+
 Select ALL the grammatically accurate and pragmatically sound ways to report the prime minister's statement. (Partial credit applies)
 
 ### Options
@@ -279,10 +279,10 @@ Option A correctly backshifts the tenses ("must" -> "had to", "reaches" -> "reac
 **ICFES:** Gramatical
 **Bloom:** Evaluate
 
-### Contexto
-"I wish I had studied harder for the entrance exam," he muttered.
-
 ### Enunciado
+**[CORREGIDA v2]** Read the following context:
+*"I wish I had studied harder for the entrance exam," he muttered.*
+
 Select ALL the grammatically correct reports of the speaker's regret.
 
 ### Options
@@ -309,10 +309,10 @@ When reporting "wish" constructions regulating past situations (unreal past), th
 **ICFES:** Gramatical + Lexical
 **Bloom:** Evaluate
 
-### Contexto
-"Let's not jump to conclusions before all the data has been analyzed," the lead researcher suggested.
-
 ### Enunciado
+**[CORREGIDA v2]** Read the following context:
+*"Let's not jump to conclusions before all the data has been analyzed," the lead researcher suggested.*
+
 Identify the most formally appropriate reporting of the researcher's suggestion:
 
 ### Options
@@ -333,10 +333,10 @@ The verb "suggest" is followed by either a gerund ("suggested not jumping") or a
 **ICFES:** Gramatical
 **Bloom:** Evaluate
 
-### Contexto
-"If I were the CEO, I would restructure the entire department," the consultant claimed.
-
 ### Enunciado
+**[CORREGIDA v2]** Read the following context:
+*"If I were the CEO, I would restructure the entire department," the consultant claimed.*
+
 What is the correct way to report this second conditional sentence?
 
 ### Options
@@ -357,10 +357,10 @@ In reported speech, second conditional sentences (hypothetical present/future) t
 **ICFES:** Gramatical + Pragmática
 **Bloom:** Evaluate
 
-### Contexto
-"Why on earth did you approve that budget without consulting me?" the director yelled at the manager.
-
 ### Enunciado
+**[CORREGIDA v2]** Read the following context:
+*"Why on earth did you approve that budget without consulting me?" the director yelled at the manager.*
+
 Select ALL the sentences that effectively and accurately report the director's furious question.
 
 ### Options
@@ -387,10 +387,10 @@ Options A, C, and E accurately reflect the pragmatic tone (anger/fury) using adv
 **ICFES:** Lexical + Comunicativa
 **Bloom:** Evaluate
 
-### Contexto
-"I am terribly sorry that I missed the crucial strategy meeting," the analyst said.
-
 ### Enunciado
+**[CORREGIDA v2]** Read the following context:
+*"I am terribly sorry that I missed the crucial strategy meeting," the analyst said.*
+
 Which reporting sentence best condenses the apology using a specialized reporting verb?
 
 ### Options
@@ -411,12 +411,12 @@ The verb "apologize" requires the preposition "for" when followed by an action, 
 **ICFES:** Pragmática + Gramatical
 **Bloom:** Analysis
 
-### Contexto
-In investigative journalism, the transition from direct quoting to reported speech serves a dual purpose. Consider a source who says: "I might have seen the defendant near the warehouse around 10 PM."
-Reported version A: *The source claimed to have seen the defendant near the warehouse around 10 PM.*
-Reported version B: *The source cautiously mentioned that they might have seen the defendant near the warehouse around 10 PM.*
-
 ### Enunciado
+**[CORREGIDA v2]** Read the following context:
+*In investigative journalism, the transition from direct quoting to reported speech serves a dual purpose. Consider a source who says: "I might have seen the defendant near the warehouse around 10 PM."
+Reported version A: *The source claimed to have seen the defendant near the warehouse around 10 PM.*
+Reported version B: *The source cautiously mentioned that they might have seen the defendant near the warehouse around 10 PM.**
+
 Select ALL valid critical analyses comparing versions A and B in an investigative context.
 
 ### Options
@@ -443,12 +443,12 @@ The analysis centers on epistemic modality—the degree of certainty expressed. 
 **ICFES:** Pragmática + Lexical
 **Bloom:** Evaluate
 
-### Contexto
-During a heated political debate, Candidate X stated: "The current administration has categorically failed to secure our borders."
-Later, a biased news outlet reported the event as follows: "Candidate X *alleged* that the administration had failed to secure the borders."
-A supportive news outlet reported it as: "Candidate X *pointed out* that the administration had failed to secure the borders."
-
 ### Enunciado
+**[CORREGIDA v2]** Read the following context:
+*During a heated political debate, Candidate X stated: "The current administration has categorically failed to secure our borders."
+Later, a biased news outlet reported the event as follows: "Candidate X *alleged* that the administration had failed to secure the borders."
+A supportive news outlet reported it as: "Candidate X *pointed out* that the administration had failed to secure the borders."*
+
 Rank the critical explanations regarding the ideological impact of the reporting verbs "alleged" vs. "pointed out", from MOST nuanced to LEAST nuanced:
 
 ### Options
@@ -475,10 +475,10 @@ Option A provides the deepest linguistic analysis, correctly identifying "point 
 **ICFES:** Gramatical + Lexical
 **Bloom:** Synthesis
 
-### Contexto
-In historical linguistics, the "sequence of tenses" (consecutio temporum) rule in English requires tense backshifting in subordinate clauses when the main reporting verb is in the past. However, this rule is frequently violated in native discourse for pragmatic reasons.
-
 ### Enunciado
+**[CORREGIDA v2]** Read the following context:
+*In historical linguistics, the "sequence of tenses" (consecutio temporum) rule in English requires tense backshifting in subordinate clauses when the main reporting verb is in the past. However, this rule is frequently violated in native discourse for pragmatic reasons.*
+
 Rank the examples below according to how justifiable their violation of the "sequence of tenses" rule is (from MOST justifiable/standard to LEAST justifiable/non-standard).
 
 ### Options
@@ -505,10 +505,10 @@ Not backshifting a tense is most heavily favored for universal truths (Option A)
 **ICFES:** Gramatical + Comunicativa
 **Bloom:** Analysis
 
-### Contexto
-When transforming sentences involving modal verbs into reported speech, certain modals shift while others remain static due to the lack of an equivalent past form or due to their inherent semantic scope.
-
 ### Enunciado
+**[CORREGIDA v2]** Read the following context:
+*When transforming sentences involving modal verbs into reported speech, certain modals shift while others remain static due to the lack of an equivalent past form or due to their inherent semantic scope.*
+
 Select ALL sentences where the modal verb transformation rules have been applied FLAWLESSLY in the reported speech context.
 
 ### Options
@@ -535,11 +535,11 @@ Select ALL sentences where the modal verb transformation rules have been applied
 **ICFES:** Pragmática + Comunicativa + Lexical
 **Bloom:** Transfer
 
-### Contexto
-Free Indirect Discourse (FID) is a literary technique that blends a third-person narrative with the first-person perspective of a character, blurring the lines between the narrator's voice and the character's internal thoughts. It often retains the tense shifts of reported speech while eliminating the reporting clause (e.g., "he thought").
-*Text:* John stared at the letter. Why had she rejected him? He would never find peace again.
-
 ### Enunciado
+**[CORREGIDA v2]** Read the following context:
+*Free Indirect Discourse (FID) is a literary technique that blends a third-person narrative with the first-person perspective of a character, blurring the lines between the narrator's voice and the character's internal thoughts. It often retains the tense shifts of reported speech while eliminating the reporting clause (e.g., "he thought").
+*Text:* John stared at the letter. Why had she rejected him? He would never find peace again.*
+
 Rank the analytical statements regarding how the grammar of reported speech operates within the Free Indirect Discourse of the text, from MOST accurate to LEAST accurate:
 
 ### Options
