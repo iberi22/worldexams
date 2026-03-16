@@ -77,6 +77,9 @@
     "typescript": "^5.9.3",
     "vitest": "^4.0.16"
   },
+  "overrides": {
+    "rollup": "^4.59.0"
+  },
   "lint-staged": {
     "src/content/questions/**/*.md": [
       "node scripts/validate_content.js"
