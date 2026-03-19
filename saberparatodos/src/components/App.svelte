@@ -893,7 +893,7 @@
       <div
         in:fly={{ y: 20, duration: 500, delay: 200 }}
         out:fade={{ duration: 200 }}
-        class="flex flex-col items-center min-h-screen text-center px-4 pt-8 pb-32 w-full overflow-hidden relative"
+        class="flex flex-col items-center min-h-screen text-center px-4 pt-8 pb-20 sm:pb-24 w-full overflow-hidden relative"
       >
         <!-- Colombia Flag Gradient Background -->
         <div class="hero-gradient"></div>
@@ -920,9 +920,9 @@
           </p>
           <h1 class="text-6xl md:text-8xl font-bold tracking-tighter uppercase text-[#F5F5DC] relative">
             Saber <span class="text-white/20">Para Todos</span>
-            <span class="absolute -bottom-2 left-1/2 -translate-x-1/2 w-32 h-1 bg-gradient-to-r from-[#FCD116] via-[#003893] to-[#CE1126] rounded-full"></span>
+            <span class="absolute bottom-1 left-1/2 -translate-x-1/2 w-32 h-1 bg-gradient-to-r from-[#FCD116] via-[#003893] to-[#CE1126] rounded-full"></span>
           </h1>
-          <p class="max-w-md mx-auto text-sm font-light leading-relaxed opacity-60 mt-6">
+          <p class="max-w-md mx-auto text-sm font-light leading-relaxed opacity-60 mt-4 relative z-20">
             Interfaz preparatoria avanzada para pruebas estandarizadas.
             Entorno minimalista optimizado para enfoque y eficiencia.
           </p>
@@ -1176,7 +1176,7 @@
           </div>
           -->
 
-          <!-- 
+          <!--
           {#if countryConfig.features?.blog}
           <FlashlightCard
             onClick={async () => {
@@ -1233,7 +1233,7 @@
         </div>
         <!-- Footer - Fixed at Bottom -->
         <footer class="fixed bottom-0 left-0 right-0 bg-[#0a0a0a]/95 backdrop-blur-sm border-t border-white/5 z-50">
-          <div class="max-w-6xl mx-auto px-4 py-3 flex flex-col sm:flex-row items-center justify-center gap-3 sm:gap-6 text-[10px] sm:text-xs">
+          <div class="max-w-6xl mx-auto px-4 py-1.5 sm:py-2 flex flex-row items-center justify-center gap-3 sm:gap-5 text-[10px] sm:text-xs leading-none whitespace-nowrap">
             <!-- Left: Country Flag -->
             <span class="flex items-center gap-1 text-white/40">
               <span>🇨🇴</span>

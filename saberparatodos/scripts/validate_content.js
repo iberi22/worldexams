@@ -158,6 +158,12 @@ function normalizeBundlePathForDuplicate(relPath) {
     .replace(/\\/g, '/');
 }
 
+function isQuarantinedBundle(frontmatter) {
+  const quarantine = String(frontmatter.quarantine || '').trim().toLowerCase();
+  const bundleStatus = String(frontmatter.bundle_status || '').trim().toLowerCase();
+  return quarantine === 'true' || bundleStatus === 'quarantined';
+}
+
 function validateFile(filePath) {
   const relFile = relative(filePath);
   const relFileLower = relFile.toLowerCase();
@@ -175,6 +181,7 @@ function validateFile(filePath) {
   const { data, content } = parsed;
 
   if (shouldSkipByScope(filePath, data)) return;
+  if (isQuarantinedBundle(data)) return;
 
   const requiredFrontmatter = ['id', 'grado', 'asignatura', 'tema'];
   for (const key of requiredFrontmatter) {
