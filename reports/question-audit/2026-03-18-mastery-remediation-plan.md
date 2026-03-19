@@ -6,7 +6,7 @@ Scope: `questions_data/colombia/**/grado-11/**/*MASTERY-bundle.md`
 ## Summary
 
 - Total bundles reviewed: `49`
-- Replace whole bundle: `10` pending + `5` completed
+- Replace whole bundle: `6` pending + `9` completed
 - Targeted fixes: `7`
 - Keep for now: `27`
 
@@ -19,11 +19,6 @@ These bundles show systemic contamination or are too incomplete to salvage safel
 ### Mathematics
 
 ### Ciencias Naturales
-
-- `questions_data/colombia/ciencias-naturales/grado-11/periodo-1/fisicoquimica-genetica/CO-CIE-11-P1-fisicoquimica-001-MASTERY-bundle.md`
-- `questions_data/colombia/ciencias-naturales/grado-11/periodo-2/termodinamica/CO-CN-11-P2-termodinamica-001-MASTERY-bundle.md`
-- `questions_data/colombia/ciencias-naturales/grado-11/periodo-2/trabajo-energia/CO-CN-11-P2-trabajo-001-MASTERY-bundle.md`
-- `questions_data/colombia/ciencias-naturales/grado-11/periodo-3/ondas-y-sonido/CO-CN-11-P3-ondas-001-MASTERY-bundle.md`
 
 ### Lectura Crítica
 
@@ -56,14 +51,18 @@ These bundles appear mostly usable but contain one or a few defective questions.
 - `questions_data/colombia/matematicas/grado-11/periodo-2/estadistica-y-probabilidad/CO-MAT-11-P2-estadistica-probabilidad-001-MASTERY-bundle.md`
 - `questions_data/colombia/matematicas/grado-11/periodo-2/probabilidad/CO-MAT-11-P2-probabilidad-001-MASTERY-bundle.md`
 - `questions_data/colombia/matematicas/grado-11/periodo-3/calculo-derivadas/CO-MAT-11-P3-calculo-derivadas-001-MASTERY-bundle.md`
+- `questions_data/colombia/ciencias-naturales/grado-11/periodo-1/fisicoquimica-genetica/CO-CIE-11-P1-fisicoquimica-001-MASTERY-bundle.md`
+- `questions_data/colombia/ciencias-naturales/grado-11/periodo-2/termodinamica/CO-CN-11-P2-termodinamica-001-MASTERY-bundle.md`
+- `questions_data/colombia/ciencias-naturales/grado-11/periodo-2/trabajo-energia/CO-CN-11-P2-trabajo-001-MASTERY-bundle.md`
+- `questions_data/colombia/ciencias-naturales/grado-11/periodo-3/ondas-y-sonido/CO-CN-11-P3-ondas-001-MASTERY-bundle.md`
 
 Notes:
 
-- both bundles were fully rewritten;
+- all nine completed bundles were fully rewritten;
 - contamination was removed;
-- the latest three math rewrites regenerated bundle/question IDs where needed to remove naming collisions and align filenames with active topics;
-- frontmatter was normalized to the active baseline;
-- all five completed math files passed local structural verification (`20` questions, `4` options each, `1` correct each).
+- frontmatter was normalized to the active `v5.1` baseline;
+- the four new science rewrites replaced systemic pseudo-tecnicismo, placeholder sections and incomplete tails with full 20-question bundles aligned to the active skill;
+- the nine completed files passed local structural verification (`20` preguntas, `4` opciones por pregunta, `1` correcta por pregunta).
 
 ## Quarantine Runtime Enforcement
 
@@ -181,10 +180,12 @@ These topics currently do not have a clean and sufficient base, so they should b
 
 The next immediate replacement target should be:
 
-- `questions_data/colombia/ciencias-naturales/grado-11/periodo-1/fisicoquimica-genetica/CO-CIE-11-P1-fisicoquimica-001-MASTERY-bundle.md`
+- `questions_data/colombia/lectura-critica/grado-11/periodo-1/ensayo-filosofico/CO-LEC-11-P1-ensayo-001-MASTERY-bundle.md`
 
 Then continue with:
 
-- `questions_data/colombia/ciencias-naturales/grado-11/periodo-2/termodinamica/CO-CN-11-P2-termodinamica-001-MASTERY-bundle.md`
-- `questions_data/colombia/ciencias-naturales/grado-11/periodo-2/trabajo-energia/CO-CN-11-P2-trabajo-001-MASTERY-bundle.md`
-- `questions_data/colombia/ciencias-naturales/grado-11/periodo-3/ondas-y-sonido/CO-CN-11-P3-ondas-001-MASTERY-bundle.md`
+- `questions_data/colombia/lectura-critica/grado-11/periodo-2/textos-literarios/CO-LEC-11-P2-literario-001-MASTERY-bundle.md`
+- `questions_data/colombia/lectura-critica/grado-11/periodo-3/medios-grafica/CO-LEC-11-P3-medios-001-MASTERY-bundle.md`
+- `questions_data/colombia/sociales-ciudadanas/grado-11/periodo-1/geopolitica-contemporanea/CO-SOC-11-P1-geopolitica-001-MASTERY-bundle.md`
+- `questions_data/colombia/sociales-ciudadanas/grado-11/periodo-2/economia-desarrollo/CO-SOC-11-P2-economia-001-MASTERY-bundle.md`
+- `questions_data/colombia/sociales-ciudadanas/grado-11/periodo-3/constitucion-democracia/CO-SOC-11-P3-constitucion-001-MASTERY-bundle.md`
