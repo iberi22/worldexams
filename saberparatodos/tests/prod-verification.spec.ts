@@ -1,13 +1,13 @@
 import { test, expect } from '@playwright/test';
 
 test.describe('Production Verification', () => {
-    test.use({ baseURL: 'https://f1e968cf.saberparatodos.pages.dev' });
-
     test('Production Health Check and Version Verification', async ({ page }) => {
+        console.log(`Base URL: ${test.info().project.use.baseURL}`);
+
         // 1. Basic Health Check
         console.log('Navigating to Production...');
         await page.goto('/');
-        await expect(page).toHaveTitle(/Colombia/);
+        await expect(page).toHaveTitle(/SaberParaTodos|ICFES/);
         console.log('✅ Homepage loaded');
 
         // 2. Check for Stop Mode presence (Existing Feature)
@@ -24,35 +24,29 @@ test.describe('Production Verification', () => {
              console.log('❌ "Crear Desafío" NOT found in text');
         }
 
-        // 3. Version Verification (Checking if NEW features are deployed)
-        console.log('--- Verifying New Features (Expect Fail if not deployed) ---');
+        // 3. Current landing verification
+        console.log('--- Verifying Current Production Entry Flow ---');
+        const grade11Btn = page.getByRole('button', { name: '11° Grado' });
+        await expect(grade11Btn).toBeVisible({ timeout: 15000 });
+        console.log('✅ Grade 11 entry point visible');
 
-        // Check for Stop Mode Setup Button Text Change
-        // Local: "CREAR SALA STOP"
-        // Probable Prod: "Crear Sala"
-        await page.click('text=Crear Desafío');
-        await page.fill('input[type="text"]', 'ProdTest');
+        await grade11Btn.click();
+        await expect(page.getByTestId('modal-content')).toBeVisible({ timeout: 30000 });
+        console.log('✅ Exam configuration modal opened');
 
-        const newButton = page.locator('button:has-text("CREAR SALA STOP")');
-        const oldButton = page.locator('button:has-text("Crear Sala")');
-
-        if (await newButton.isVisible()) {
-            console.log('🚀 NEW VERSION DETECTED: "CREAR SALA STOP" button found.');
-        } else if (await oldButton.isVisible()) {
-            console.log('⚠️ OLD VERSION DETECTED: "Crear Sala" button found.');
+        const challengeButton = page.getByText('Crear Desafío');
+        if (await challengeButton.isVisible().catch(() => false)) {
+            console.log('ℹ️ "Crear Desafío" is still present in production.');
         } else {
-            console.log('❓ UNKNOWN STATE: Neither button found or different text.');
+            console.log('ℹ️ Party challenge CTA is not present on the current production landing.');
         }
 
-        // Close modal (if possible) or reload
-        await page.reload();
-
-        // Check for Name Prompt in Lobby Browser
-        await page.click('text=Ver Partidas');
-
-        // We might not find a room, but we can check if the logic *would* trigger
-        // This is harder to test without an active room.
-        // But we can check if the deployed JS has the changes? No, minified.
+        const roomBrowserButton = page.getByText('Ver Partidas');
+        if (await roomBrowserButton.isVisible().catch(() => false)) {
+            console.log('ℹ️ "Ver Partidas" is present in production.');
+        } else {
+            console.log('ℹ️ Lobby browser CTA is not present on the current production landing.');
+        }
 
         console.log('--- End Verification ---');
     });
