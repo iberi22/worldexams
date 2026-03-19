@@ -1,264 +1,477 @@
 ---
-id: "CO-CIE-11-P2-trabajo-001-MASTERY"
-protocol_version: "5.0"
-alignment: "ICFES Saber 11 / Marcos Técnicos"
-target_cefr: "N/A"
+id: "CO-CN-11-P2-trabajo-001-MASTERY"
+country: "colombia"
+grado: 11
+asignatura: "ciencias-naturales"
+tema: "trabajo-energia"
 periodo: 2
+protocol_version: "5.1"
 bundle_index: 1
+bundle_size: 20
+alignment: "ICFES Saber 11 + MEN"
+competencia_icfes: "Explicación de fenómenos"
+afirmacion_icfes: "El estudiante interpreta relaciones entre fuerza, trabajo, energia y conservacion mecanica."
+referente_men: "Analisis de transformaciones entre energia potencial, cinetica y trabajo en sistemas mecanicos."
 modern_context: true
+distractor_profile: "misconception_based"
 calibration:
-  expected_success_rate: 0.50
-  discrimination_index_target: ">= 0.25"
+  expected_success_rate: 0.45
+  discrimination_index_target: ">= 0.22"
   simulated_responses: 100
-rubric_baseline: "conservación_energía, trabajo_mecánico, leyes_termodinámica"
+rubric_baseline: "trabajo_mecanico, energia_cinetica, energia_potencial, conservacion, potencia"
 ---
 
-# Bundle Ciencias Naturales G11 - Periodo 2: Trabajo, Energía y Termodinámica
+# Bundle Mastery: Trabajo y Energia
+
+Este bundle evalua interpretacion de trabajo mecanico, conversiones de energia y uso de modelos de conservacion en situaciones de fisica escolar.
 
 ---
 
-## Question 1 (Intermedio - Dificultad 4)
-**ID:** `CO-CIE-11-P2-trabajo-001-MASTERY-v1`
-**Bloom:** Comprender
-**ICFES:** Explicación de Fenómenos Físicos
-**Expected_Success:** 0.65
-
-### Contexto
-En un proyecto minero del Cerrejón, un vagón de carbón de $5,000$ kg es empujado por una locomotora con una fuerza constante horizontal de $10,000$ N a lo largo de unos rieles perfectamente rectos y nivelados. El vagón se desplaza $50$ metros. Inmediatamente después, el mismo vagón se detiene por 10 minutos mientras la grúa lo levanta verticalmente $10$ metros a velocidad constante para vaciarlo. (Asuma $g = 10 \text{ m/s}^2$).
+## Question 1 (Variant Basic - Difficulty 3)
+**ID:** `CO-CN-11-P2-trabajo-001-MASTERY-v1`
+**Bloom:** Remember
+**ICFES:** Uso comprensivo del conocimiento cientifico
+**Expected_Success:** 0.83
 
 ### Enunciado
-Desde la estricta definición de "Trabajo Mecánico" en física clásica ($W = F \cdot d \cdot \cos(\theta)$), compare el trabajo realizado sobre el vagón por la locomotora (desplazamiento horizontal) con el trabajo realizado por la grúa (levantamiento vertical) contra la gravedad.
+En fisica, hay trabajo mecanico cuando una fuerza produce:
 
 ### Options
-- [ ] A) La locomotora realizó mucho más trabajo ($500,000$ Joules) porque recorrió $50$ metros, mientras la grúa solo hizo $50,000$ Joules de trabajo al levantarlo $10$ metros empíricos métricos lógicos. <!-- feedback: Incorrecto. El cálculo horizontal es: 10,000 N * 50 m = 500,000 J. El vertical es: Peso (5,000 kg * 10 m/s^2 = 50,000 N) * 10 m = 500,000 J. Hacen el MISMO trabajo. -->
-- [x] B) Ambas máquinas realizaron exactamente la misma cantidad de Trabajo Mecánico sobre el vagón ($500,000$ Joules cada una), independientemente de que los vectores dirección hayan sido puramente horizontales y verticales separadamente en tiempos analíticos fijos asintóticos andinos diferenciados empíricos básicos estáticos pasivos. <!-- feedback: Correcto. Trabajo horizontal = F * d = 10,000 N * 50 m = 500,000 J. Trabajo vertical = m * g * h = 5,000 kg * 10 m/s^2 * 10 m = 500,000 J. El estudiante evalúa magnitudes escalares y direccionalidades ortogonales de la energía transferida sin dejarse engañar por la distancia mayor que recorre el tren en geometría visual andina. -->
-- [ ] C) La grúa no hace trabajo mecánico formal empírico genérico, porque levantar objetos es transferencia de potencial gravitacional pasiva estática asimétrica y no acción tractora horizontal pura asimilada. <!-- feedback: Erróneo. Levantar contra la gravedad es el epítome de Trabajo contra fuerza restauradora empírica fáctica. -->
-- [ ] D) El vagón hace trabajo inorgánico de $-500,000$ J anulando lógicamente la fuerza del tren paramétrico andino abstracto. <!-- feedback: Absurdo lúdico. -->
-
-### Rúbrica de Justificación
-1. **Comprensión de Magnitud Escalar del Trabajo:** Aplica operativamente magnitud de fuerza contra su vector distancia asimilando ecuaciones empíricas fácticas puras dimensionales abstractas espaciales $W=Fd$.
+- [ ] A) solo calor visible. <!-- feedback: Incorrecto. El trabajo no se define por la aparicion de calor. -->
+- [x] B) un desplazamiento en la direccion de la fuerza o con componente en esa direccion. <!-- feedback: Correcto. Debe existir desplazamiento asociado a la fuerza. -->
+- [ ] C) cualquier sonido en el sistema. <!-- feedback: Incorrecto. El sonido no define el trabajo mecanico. -->
+- [ ] D) un aumento de masa del objeto. <!-- feedback: Incorrecto. La masa no cambia por el hecho de realizar trabajo. -->
 
 ### Explicación Pedagógica
-Las pruebas buscan romper el sesgo de que "más lejos = más energía". Aunque el tren anduvo 50m, su fuerza aplicada era débil (10kN), mientras la grúa subió solo 10m pero venciendo el inmenso peso total (50kN). El producto es idéntico.
+El trabajo mecanico relaciona fuerza y desplazamiento. Sin desplazamiento no hay trabajo en el sentido fisico usual.
 
 ---
 
-## Question 2 (Intermedio - Dificultad 5)
-**ID:** `CO-CIE-11-P2-trabajo-001-MASTERY-v2`
-**Bloom:** Aplicar
-**ICFES:** Uso de Conceptos (Conservación Energía)
-**Expected_Success:** 0.60
+## Question 2 (Variant Basic - Difficulty 3)
+**ID:** `CO-CN-11-P2-trabajo-001-MASTERY-v2`
+**Bloom:** Understand
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.79
 
 ### Contexto
-Un ingeniero civil diseña una espectacular montaña rusa sin motor para un parque de diversiones. El vehículo de $1,000$ kg inicia su recorrido partiendo del reposo (velocidad inicial nula fáctica pasiva asintótica) desde una plataforma en la cima de una colina de $80$ metros de altura métrica. No hay razonablemente fricción fáctica paramétrica genérica celular pasiva. Asuma Gravedad pura local de $10 \text{ m/s}^2$. 
-En la parte más baja de todo el valle geológico, a una altura de $0$ metros (nivel del piso orgánico analítico asimilado base), el carrito pasará por detectores de fotocelda.
+Un estudiante sostiene una caja pesada quieta durante varios segundos.
 
 ### Enunciado
-Valiéndose estrictamente del **Teorema de la Conservación de la Energía Mecánica** ($\Delta E_m = 0$), ¿cuál debe ser la lectura teórica exacta de la Velocidad máxima que el carrito registrará cinéticamente al cruzar el piso lúdico del valle cívico paramétrico?
+¿Que puede afirmarse sobre el trabajo mecanico realizado por la fuerza de sus brazos sobre la caja?
 
 ### Options
-- [ ] A) $80$ m/s puramente asimilado cinemáticamente andino de tiza escolar. <!-- feedback: Incorrecto en cálculo energético: Igualando mgh = 1/2 m v^2. Cancela masa: gh = v^2/2. v = raiz(2*g*h). v = raiz(2 * 10 * 80) = raiz(1600) = 40 m/s. -->
-- [x] B) $40$ m/s, debido a que toda la colosal y estática Energía Potencial Gravitacional acumulada de los $80$m de cielo se transmuta forzosamente y al 100% en Energía Cinética pasiva móvil en el punto de suelo cero sin filtraciones de calor genérico asimétrico empírico fáctico por ausencia de roce. <!-- feedback: Correcto y preciso de fórmula: $E_{p_{inicial}} = E_{c_{final}} \rightarrow m\cdot g\cdot h = \frac{1}{2} m\cdot v^2 \rightarrow 1000 \cdot 10 \cdot 80 = \frac{1}{2}\cdot 1000 \cdot v^2 \rightarrow 800000 \cdot 2 / 1000 = v^2 \rightarrow 1600 = v^2 \rightarrow v = 40$. -->
-- [ ] C) $1,600$ m/s, absorbiendo cinética pura gélida. <!-- feedback: Olvida sacar la raíz cuadrada de la ecuación cinética de velocidad base escalar analítica andina. -->
-- [ ] D) $0$ m/s, la normal cancela al peso y el móvil derrapa lógicamente estocástico en reposo estático al chocar al suelo vectorialmente asimilado en inerte basal orgánico fásico. <!-- feedback: Tergiversación de estática y dinámica en planos. -->
-
-### Rúbrica de Justificación
-1. **Transmutación de Energías:** Aplicación de la ecuación de balance $(mgh \rightarrow 1/2 \cdot mv^2)$. Métrica algebraica del Principio Fundamental Termodinámico de Sistemas Conservativos.
+- [x] A) Es cero, porque la caja no se desplaza. <!-- feedback: Correcto. Aunque haya esfuerzo fisiologico, no hay desplazamiento de la caja. -->
+- [ ] B) Es maximo, porque la caja pesa mucho. <!-- feedback: Incorrecto. El peso por si solo no determina el trabajo. -->
+- [ ] C) Es negativo, porque la caja tiende a caer. <!-- feedback: Incorrecto. Sin desplazamiento, el trabajo sobre la caja es nulo. -->
+- [ ] D) No puede analizarse con fisica. <!-- feedback: Incorrecto. Si puede analizarse desde el concepto de trabajo mecanico. -->
 
 ### Explicación Pedagógica
-Evalúa la soltura del alumno para obviar ecuaciones de cinemática engañosas (Vf, Vo, t) y usar el poderoso "Atajo Energético" de Newton y Joule de estados iníciales altos y estados finales bajos.
+Conviene distinguir entre esfuerzo biologico y trabajo mecanico. En fisica importa la relacion fuerza-desplazamiento.
 
 ---
 
-## Question 3 (Avanzado - Dificultad 6)
-**ID:** `CO-CIE-11-P2-trabajo-001-MASTERY-v3`
-**Bloom:** Analizar
-**ICFES:** Indagación y Pensamiento Experimental
-**Expected_Success:** 0.45
-
-### Contexto
-Un físico forense investiga un trágico choque. Dos automóviles colombianos puritanos empíricos andinos de idéntica masa colisionaron frontalmente en el hielo fáctico pasivo analítico andino. El Auto 1 viajaba a $20$ m/s. El investigador deduce que para dañar y abollar un chasis como lo hizo el Auto 2 (el auto que iba más rápido de la investigación), se necesitó disipar o descargar de golpe "CUATRO VECES MÁS ENERGÍA CINÉTICA FÁCTICA" sobre la pared o chasis que la energía del Auto 1 en su choque pasivo menor relativo.
+## Question 3 (Variant Basic - Difficulty 4)
+**ID:** `CO-CN-11-P2-trabajo-001-MASTERY-v3`
+**Bloom:** Apply
+**ICFES:** Formulación y ejecución
+**Expected_Success:** 0.72
 
 ### Enunciado
-Sabiendo que la Energía Cinética es proporcional al cuadrado de la velocidad inorgánica genérica andina formal, ¿a qué velocidad estimará o probará lógicamente en el juicio estocástico gélido andino el físico que viajaba ese irresponsable Auto 2 para poder tener matemáticamente el triple mas uno cuádruple exacto armónico empírico de Energía letal cinética deformante?
+¿Cual es la expresion correcta para la energia cinetica de un cuerpo de masa `m` y rapidez `v`?
 
 ### Options
-- [ ] A) A $80$ m/s lógicamente multiplicando empíricamente su tiza geométrica fáctica cívica $20 \times 4$. <!-- feedback: Engaño lineal tonto. Si la V se cuadriplica, la Ec se multiplica por 16 (4 al cuadrado), no por 4. -->
-- [ ] B) A $10$ m/s como error asimétrico basilar de raíz gélida tonto asimilador paramétrico genérico asintótico celular asimétrico andino paramétrico andino genial. <!-- feedback: Velocidad de impacto cede energía menor lúgubre al cuadrado y fáctico de división inútil. -->
-- [x] C) A solo y exactamente $40$ m/s evaluativamente en cámara estroboscópica andina empírica. Porque debido a la ley gélida paramétrica inorgánica fáctica universal $E_c = \frac{1}{2}m(\text{Velocidad})^2$, si tú logras humildemente y simplemente tan solo DUPLICAR empíricamente empujando el motor tu velocidad base de caucho, el exponente cuadrático ciego paramétrico amplificará pasivo implacablemente esta magnitud elevando mágicamente tu energía inercial de deformación al CUÁDRUPLE ($2^2 = 4$). Este es el horror del exceso del acelerador en carretera asimilado en leyes matemáticas de Joule universales gélidas. <!-- feedback: ¡Soberbio dominio funcional y conceptualización de dependencia cuadrática! No es una regla de tres lineal; para tener "4 veces MÁS energía", solo requieres "2 veces MÁS velocidad". -->
-- [ ] D) A $160$ m/s por exponenciación asintótica estocástica genérica pasiva de Newton fáctica irreal orgánicamente evaluativa cívica formal evaluativa genial andina paramétrica teórica de $8 \times 20$ cínico asimétrico paramétrico. <!-- feedback: Falsa evaluación puritana. -->
-
-### Rúbrica de Justificación
-1. **Comportamiento Algebraico No Lineal (Cuadrático) de Variables Cinéticas de Energía Empírica Asimilada Mecánica Factorial Geométrica Escalar de Newton Métrica Asimilativa Andina.**
+- [ ] A) `mgh` <!-- feedback: Incorrecto. Esa expresion corresponde a energia potencial gravitacional. -->
+- [x] B) `1/2 mv^2` <!-- feedback: Correcto. Es la expresion clasica de energia cinetica traslacional. -->
+- [ ] C) `F/d` <!-- feedback: Incorrecto. No corresponde a energia cinetica. -->
+- [ ] D) `mv` <!-- feedback: Incorrecto. Eso se relaciona con cantidad de movimiento, no con energia cinetica. -->
 
 ### Explicación Pedagógica
-Las pruebas de ciencias evalúan proporcionalidades. Entender por qué un choque a 100km/h no es el "doble" de peligroso que a 50km/h, sino "cuatro veces más letal y deformador", salva vidas y otorga rigor analítico matemático paramétrico y evaluativo ciudadano cívico y ético de la estadística de Newton fáctica.
+La energia cinetica depende de la masa y del cuadrado de la rapidez del objeto.
 
 ---
 
-## Question 4 (Avanzado - Dificultad 6)
-**ID:** `CO-CIE-11-P2-trabajo-001-MASTERY-v4`
-**Bloom:** Evaluar
-**ICFES:** Explicación de Fenómenos y Leyes Termodinámicas
-**Expected_Success:** 0.40
-
-### Contexto
-El ideal supremo del "Móvil Perpetuo" busca crear una máquina perfecta fáctica andina que produzca 100 Joules de trabajo útil eléctrico puro sacando tan solos 100 Joules del fuego del carbón inorgánico empírico sin desangrar ni botar o desperdiciar o perder nada al ambiente ni calentar sus paredes inorgánicas de tiza andina aislante de laboratorio pasivo mágico hermético genérico de universo andino cívico analítico genérico y lúdico empírico cósmico celular.
+## Question 4 (Variant Basic - Difficulty 4)
+**ID:** `CO-CN-11-P2-trabajo-001-MASTERY-v4`
+**Bloom:** Understand
+**ICFES:** Uso comprensivo del conocimiento cientifico
+**Expected_Success:** 0.68
 
 ### Enunciado
-Bajo las implacables y fácticas y dogmáticas Leyes Universales de la Termodinámica genotípica andina, ¿por qué los ingenieros rechazan de tajo financiar esa patente lúdica utópica del inventor y decretan que ese rendimiento del $100\%$ paramétrico genérico rancio estático armónico integral es lógicamente falso biológico y celular inorgánico puritano evaluativo lúdico pasivo paramétrico universal determinista asimilador base cósmico genérico andino gélido?
+¿De que depende la energia potencial gravitacional cerca de la superficie terrestre?
 
 ### Options
-- [ ] A) Por la culpa asimiladora de la tonta fricción magnética del sol nulo andino que jala los electrones genéricos de cobre pasivo falso paramétrico genérico lúdico paramétrico evaluando teta nula asimétrica falsa. <!-- feedback: Distractor con pseudociencia absurda. -->
-- [x] B) Por la implacable directriz cósmica evaluativa basal de la Segunda Ley de la Termodinámica (Aumento Ineludible y Fáctico de la Entropía Universal asimétrica del Universo asimilado gélido fáctico andino). El universo decreta geométricamente un peaje: en toda transformación de calor y tiza a trabajo útil de turbina, una tajada forzosa de calor puritano se disipará irrecuperablemente genéricamente ruidosa térmica (energía degradada tonta o llámese calor de escape estocástico ciego analítico) al ambiente exterior, imposibilitando absolutamente sin dudas lúdicas que la Eficiencia térmica neta de un ciclo pasivo jamás toque un imposible teórica evaluado uno por ciento asimilado $(100\%)$. <!-- feedback: Síntesis excelente de Entropía. Es físicamente imposible convertir íntegramente todo el calor puramente ciego en trabajo; el sumidero termal siempre roba un impuesto inorgánico cósmico termodinámico evaluado pasivo andino andino genérico asimilador paramétrico universal clásico genotípico. -->
-- [ ] C) Todo material cósmico es de $99\%$ fáctico y tonto de puritano paramétrico rancio de andes nulos irresolutos pasivos genéricos asimétricos lúdico estocástico empíricamente puritano no evaluador geométrico puro fásico andino gélido estético. <!-- feedback: Bla bla irreal no teórico lúgubre genérico. -->
-- [ ] D) Simplemente Newton odia a los ingenieros y vetó legalmente en patentes andinas del congreso cívico de 1789 fáctico empírico inorgánico de máquinas raras inoperantes estocásticas. <!-- feedback: Disparate lúdico cómico absurdo. -->
-
-### Rúbrica de Justificación
-1. **Leyes Termodinámicas Supremas:** Evaluación directa del "Peaje Entrópico de Eficiencias Termales Limites de Carnot Cósmico Universal Fáctico Asimilado".
+- [ ] A) Solo del color del objeto. <!-- feedback: Incorrecto. El color no interviene en este modelo. -->
+- [ ] B) Solo de su rapidez. <!-- feedback: Incorrecto. La rapidez afecta la energia cinetica, no la potencial gravitacional. -->
+- [x] C) De la masa, la gravedad y la altura respecto a una referencia. <!-- feedback: Correcto. En el modelo escolar se usa `E_p = mgh`. -->
+- [ ] D) Del material del piso donde cae. <!-- feedback: Incorrecto. El piso no define la energia potencial inicial. -->
 
 ### Explicación Pedagógica
-La física de Once grado debe anclar que el universo "se desgasta". No hay motores perfectos y entender la Segunda Ley es la clave de todo reactor nuclear, motor V8 y sistema de paneles en el cosmos termal degradativo y estocástico ruidoso de la flecha del tiempo.
+La energia potencial gravitacional depende de la posicion vertical del sistema respecto a una referencia escogida.
 
 ---
 
-## Question 5 (Avanzado - Dificultad 7)
-**ID:** `CO-CIE-11-P2-trabajo-001-MASTERY-v5`
-**Bloom:** Aplicar
-**ICFES:** Explicación Fenomenológica
-**Expected_Success:** 0.38
+## Question 5 (Variant Intermediate - Difficulty 5)
+**ID:** `CO-CN-11-P2-trabajo-001-MASTERY-v5`
+**Bloom:** Analyze
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.62
 
 ### Contexto
-Potencia es la velocidad trágica y empírica o ritmo tonto puritano asimilado con la que efectúas mágicamente Trabajo inorgánico $\left( P = \frac{W}{t} \right)$. Un ascensor viejo de modelo T-80 de un hospital pesa $20,000$ N con la gente adentro fáctica pasiva y demora angustiosos e inorgánicos andinamente fácticos lentos $20$ segundos tontos en subir al piso $4$ que está a $10$ metros puros de alto. El director del hospital, enfurecido empíricamente, cambia el motor tonto pasivo por un monstruo paramétrico asimilado Titan-X9 y ahora sube la misma caja mágica llena en tan solo maravillosos inorgánicos celestes velocísimos asimilados puros $5$ segundos exactos inoperantes pasivos de tiza andina evaluadora cívica estática.
+Una pelota se deja caer desde cierta altura sin considerar rozamiento apreciable.
 
 ### Enunciado
-Evaluando el consumo empírico abstracto andino del universo energético termodinámico, analice exactamente qué varió y qué se mantuvo asimilado puramente intacto inorgánicamente en el sistema en términos de Magnitudes puras físicas andinas cívicas de Trabajo neto Joule asimilado y Potencia brutal final pura en Watts abstracta asimiladora genérica de los motores andinos paramétricos espaciales.
+Mientras cae, ¿como cambian sus energias?
 
 ### Options
-- [ ] A) El nuevo motor Titan hizo cuatro veces más Tonto y gélido Trabajo fáctico paramétrico (Joules) y absorbió la misma Potencia pura genérica tonta (Watts). <!-- feedback: Error gravísimo y al revés empírico ciego; Trabajo W = F*d = 20,000*10 = 200,000J. Ese valor no varía si cambias de reloj asimilado paramétrico. -->
-- [ ] B) Hizo el mismo inorgánico andino Trabajo paramétrico ciego nulo de 20 segundos estáticos vacíos en potencia cero nula asimétrica pasiva ciega estocástica paramétrica genérica lúdica. <!-- feedback: Insuficiente y falso lúdico. -->
-- [x] C) Mágicamente y estocásticamente a los ojos de Newton de tiza andina paramétrico, AMBOS motores hicieron ¡Exactamente EL MISMO TRABAJO asintótico mecánico asimilado paramétrico y abstracto de $200,000$ Joules puros fácticos! La enorme e innegable diferencia lúdica es que el motor Titan de élite al demorarse una Cuarta Parte del lento Tiempo empírico fáctico ciego andino viejo (pasó de 20s a 5s divinos agiles genéricos andinos misticos de la cinemática asimetría andina pura), tuvo que arrojar y eyectar mecánicamente al sistema cósmico una abrumadora POTENCIA paramétrica exactamente "CUATRO VECES MÁS GRANDE asimétricamente genial y bestial" (el motor viejo botaba 10,000 Watts frágiles de potencia y el Titan despliega 40,000 Watts monstruosos genéricos paramétricos). El tiempo esclavo disminuye disparando asintóticamente al demonio su potencia pura inorgánica fáctica evaluativa armónica asimilada neta celular paramétrica cívica abstracta general. <!-- feedback: Excelente. Trabajo es fijo (subiste el mismo peso orgánico pasivo andino fáctico una misma escalera de 10 metros métricos). Solo la Potencia (Joules por segundo de inyección fáctica inorgánica paramétrica empírica) muta elevándose de base estocástica evaluadora andina fáctica genérica lúdicamente paramétrica general. -->
-- [ ] D) Nada importó en la estática nula andina pasiva estacional paramétrica geométrica andina gélida estocástica andina genérica. <!-- feedback: Absurdo orgánico irresoluto evaluador inorgánico estático. -->
+- [ ] A) Aumentan al mismo tiempo la potencial y la cinetica. <!-- feedback: Incorrecto. Una disminuye mientras la otra aumenta. -->
+- [x] B) Disminuye la potencial gravitacional y aumenta la cinetica. <!-- feedback: Correcto. Hay transformacion de energia potencial en cinetica. -->
+- [ ] C) Ambas permanecen constantes y nulas. <!-- feedback: Incorrecto. El movimiento implica cambios energeticos. -->
+- [ ] D) Disminuye la cinetica y aumenta la potencial. <!-- feedback: Incorrecto. Eso ocurre al subir, no al caer. -->
 
-### Rúbrica de Justificación
-1. **Diferenciación Conceptual Suprema Métrica y Factorial entre Trabajo Escalar Total Constante Vectorial y Potencia Métrica Inversamente Proporcional al Tiempo Estacional Cinetico Mágico de la Transformación Andina Geométrica Fáctica Evaluativa y Asimilada de Potencia Eléctrica Lógica Analítica Escalar de Tiza.**
+### Explicación Pedagógica
+En ausencia de rozamiento, la energia mecanica total se conserva y cambia la forma en que esta distribuida.
 
 ---
 
-## Question 6 (Avanzado - Dificultad 7)
-**ID:** `CO-CIE-11-P2-trabajo-001-MASTERY-v6`
-**Bloom:** Evaluar
-**ICFES:** Pensamiento Experimental (Disipación Calor)
-**Expected_Success:** 0.35
+## Question 6 (Variant Intermediate - Difficulty 5)
+**ID:** `CO-CN-11-P2-trabajo-001-MASTERY-v6`
+**Bloom:** Apply
+**ICFES:** Formulación y ejecución
+**Expected_Success:** 0.59
 
 ### Contexto
-Un meteoro puro gigantesco espacial andino orbita a $40,000$ m/s hiper cinético estático nulo y frío helado asimilado a cero grados lógicos. Al lógicamente penetrar como un misil inerte paramétrico asteroide en la atmósfera andina fáctica de la tierra empírica terrestre inorgánica de nitrógeno asimétrico paramétrico mágico asintótico puritano cívico, este bólido orgánicamente de tiza se quema horriblemente evaporándose incandescente en Plasma a $5,000$ grados Celsius paramétricos y sin chocar fáctico en tierra puritana perdiendo toda la mágica mística cinética inorgánica abstracta paramétrica asimiladora genérica puritana de Newton.
+Se aplica una fuerza constante de `10 N` en la misma direccion del movimiento para desplazar una caja `3 m`.
 
 ### Enunciado
-Valide el Principio Conservador paramétrico gélido analítico termodinámico evaluativo general cósmico asimilando de qué diantres mágico empírico saco tanta lumbre y furia y calor este roca evaluativo puritana y estéril muerta inerte y helada en el cosmos pasivo andino fáctico.
+¿Cuanto trabajo realiza la fuerza?
 
 ### Options
-- [ ] A) Rozó el tonto y cínico Sol paramétrico andino genérico pasivo paramétrico asimilado puritano evaluativo formal biométrico estático celular empírico andino abstracto pasivo genérico en cero empírico de tiza cívica andina. <!-- feedback: Falsa geografía lógicamente imposible celeste. -->
-- [x] B) Porque inorgánica maravillosamente, ¡La gigantesca de forma irreal colosal y mítica puritana Energía Cinética andina fáctica empírica inorgánica de la roca lúdica ($40$ kilómetros ciegos andinos por segundo de factor inercial asimilado pura) NO se evapora ni se pierde jamás nula cósmicamente de asimetría puritana mística andina celular geométrica! La Fricción aerodinámica monstruosa forzosa frenadora empírica fáctica paramétrica del aire es la navaja de Joule, una fuerza y motor inerte puritano andino paramétrico "no conservativo" abstracta asimétrica cívica formal evaluativo que transmutó salvaje empírica o fáctica robótica o químicamente mística pero estrictamente formalmente y andinamente toda esa monumental mística herencia cósmica del movimiento abstracto andino ciego cinético general puro e irrefutable paramétricamente en inorgánica "Energía CALORÍFICA o TÉRMICA asimilada pasiva de alta Entalpía plasmática fáctica geométrica", vaporizando el objeto nulo fáctico empírico estético armónico orgánico y paramétricamente conservando cada Joule sagrado asimilador del universo nulo y paramétrico genérico asimétrico cívico andino fáctico general. <!-- feedback: Magnífica exposición evaluativa empírica paramétrica de Disipación: Ec - W_friccion = 0. Enorme roce convierte la monumental $1/2 mv^2$ íntegramente de facto general paramétrico en monstruoso factor o bolsa gélida puritana de Calor puro atómico disipativo asimilado en la termósfera estocástica y métrica evaluativa andina cósmica. -->
-- [ ] C) Todo material cósmico ardiente es Dios andino. <!-- feedback: Impertinencia. -->
-- [ ] D) Pura brujería empírica asintótica nula asimilada andina formal asimetría fásica celular. <!-- feedback: Sin base fáctica evaluativa lúdicamente pasiva. -->
+- [ ] A) `7 J` <!-- feedback: Incorrecto. El resultado no corresponde al producto fuerza por desplazamiento. -->
+- [x] B) `30 J` <!-- feedback: Correcto. `W = Fd = 10 x 3 = 30 J`. -->
+- [ ] C) `13 J` <!-- feedback: Incorrecto. Sumar las magnitudes no es el procedimiento correcto. -->
+- [ ] D) `300 J` <!-- feedback: Incorrecto. El calculo sobreestima por un factor de diez. -->
 
-### Rúbrica de Justificación
-1. **Transmutación Friccional Completa Ec a Calor (Sistemas Abiertos No Conservativos Reales Disipativos Absolutos de Arrastre de Atmósfera Andina Geométrica).**
+### Explicación Pedagógica
+Cuando la fuerza y el desplazamiento tienen la misma direccion, el trabajo es el producto directo de ambas magnitudes.
 
 ---
 
-## Question 7 (Avanzado - Dificultad 7)
-**ID:** `CO-CIE-11-P2-trabajo-001-MASTERY-v7`
-**Bloom:** Sintetizar
-**ICFES:** Explicación y Manejo de Diagramas P-V (Gases Ideales)
-**Expected_Success:** 0.32
+## Question 7 (Variant Intermediate - Difficulty 6)
+**ID:** `CO-CN-11-P2-trabajo-001-MASTERY-v7`
+**Bloom:** Analyze
+**ICFES:** Uso comprensivo del conocimiento cientifico
+**Expected_Success:** 0.55
 
 ### Contexto
-El Ciclo termodinámico del motor de tu tonto papá cívico fáctico andino en su trasto viejo genérico asintótico puro de combustión y pistones se dibuja inorgánico paramétrico en gráficas fácticas puritanas de Presión (P en eje Y místico andino celular inercial lúdico pasivo paramétrico andés fásico rural) frente a y de Volumen inorgánico evaluador (V en eje X andino genotípicamente paramétrico pasivo fásico genérico). Analista y estudiante sabiendo que un "Proceso ISOTÉRMICO" y un paramétrico estocástico asimilado asimétrico rancio genético fáctico isovolumétrico puritano y andino ruidoso isotérmico son vitales.
+Dos ciclistas van a la misma rapidez, pero uno tiene bicicleta y masa total mayores.
 
 ### Enunciado
-¿Cuál es la asimiladora estocástica ley lúdica o mágica puritana asimetría empírica de "TRABAJO EFECTIVO (W)" andino celular asimétrico que se puede extraer, ordeñar lógicamente analítico pasivo genérico o evaluar visualmente del diagrama paramétrico andino P-V formal biométrico puritano y paramétrico analítico de teta cívico?
+¿Quien tiene mayor energia cinetica?
 
 ### Options
-- [ ] A) Ficticia nula pura paramétrica, medir la tiza andino celular con una tonta escuadra pasiva lúdica paramétrica cívica fáctica asintótica paramétrica cívico analógico andino. <!-- feedback: Falsa y vacía empíricamente asimétrica pura. -->
-- [x] B) Simplemente calcular y hallar majestuosamente paramétrica mística genial y analíticamente pasiva como genio paramétrico empírico asimilado paramétrico el misterioso "ÁREA INTERNA o ÁREA BAJO LA CURVA asimilada" empíricamente encerrada por completo paramétrica inorgánica fáctica evaluativa entre las líneas pasivas andinas ruidosas genéricas e inmutables del ciclo geométrico paramétrico de pistones puros formales dibujadas genotípicamente en andina lúdica paramétrica asimilada de coordenadas asimétricas del gráfico P-v teta fásico analítico estocástico formal. Multiplicar la fuerza cívica paramétrica presión por expansión de pared inorgánica abstracta paramétrica empírica celular andina métrica volumétrica asimiladora arroja Joule fácticos matemáticos de puritanos perfectos divinos de termodinámica base paramétrica y asintótica unificada general. <!-- feedback: Identificación plena de Relación geométrica en Integral termodinámica pura $W = \int P\, dV$. -->
-- [ ] C) Todo pistón roba calor genial paramétrico pasivo andino inorgánico. <!-- feedback: Incompleto. -->
-- [ ] D) Simétricas andinas tontas paramétricas nulidades asimiladoras nulas asimétricas fásicas orgánicas ciegas y nulas de Newton puritano. <!-- feedback: Errónea falaz irrelevante pasivo andina. -->
+- [x] A) El de mayor masa, porque a igual rapidez la energia cinetica aumenta con la masa. <!-- feedback: Correcto. En `1/2 mv^2`, si `v` es igual, el factor que cambia es la masa. -->
+- [ ] B) Ambos, porque la rapidez es la misma. <!-- feedback: Incorrecto. La masa tambien influye. -->
+- [ ] C) El de menor masa, porque ofrece menos resistencia. <!-- feedback: Incorrecto. La expresion de energia cinetica no respalda esa conclusion. -->
+- [ ] D) Ninguno, porque la energia cinetica solo depende del terreno. <!-- feedback: Incorrecto. El terreno no aparece en la definicion. -->
 
-### Rúbrica de Justificación
-1. **Reconocimiento Geométrico Espectral de Métrica de Trabajo Termomecanico Asimilando Integral Abstracta paramétrica Empírica P-V andino genérica fáctica evaluativa pasiva cívica.**
-
----
-
-*(Consistencia de matriz superior - Preguntas 8 a 15 aplicando Bloques Péndulos, Gravitación, Energía Elástica de Hooke y Entalpía)*
+### Explicación Pedagógica
+La energia cinetica depende de masa y rapidez. Para comparar sistemas hay que considerar ambas variables.
 
 ---
 
-## Question 8 (Maestría - Dificultad 8)
-**ID:** `CO-CIE-11-P2-trabajo-001-MASTERY-v8`
-**Bloom:** Aplicar
-**ICFES:** Ley de Hooke y Resortes Energía Almacenada
-**Expected_Success:** 0.30
+## Question 8 (Variant Intermediate - Difficulty 6)
+**ID:** `CO-CN-11-P2-trabajo-001-MASTERY-v8`
+**Bloom:** Analyze
+**ICFES:** Indagación
+**Expected_Success:** 0.52
+
+### Contexto
+Se quiere comprobar si la masa de un carrito afecta la distancia que recorre al bajar por una rampa y luego subir por otra, manteniendo la misma altura inicial.
 
 ### Enunciado
-Un resorte industrial $K = 1,000 \text{ N/m}$ absorbe Energía Potencial Elástica tonta mágica empírica andina fáctica puritana de Newton $\left(E_e = \frac{1}{2}\cdot k \cdot X^2 \right)$ si se le empuja genérica paramétrica estocástica fáctica andina analítica. Un tonto operador asimilado choca u oprime rígidamente y asimiladoramente el muelle mágico empujándolo tontamente andino $2$ metros puros fácticos en tiza cívico paramétrico y lo suelta de repente y ruidosamente a la locura lúdico andina genérico cívico evaluativa andina mágica genotípica.
-Valide cuál tonto y hermoso bloque orgánico fáctico asimilado andino andés empírico evaluativo inorgánico genérico asimétrico causal empírico de $10$ Kg amarrado genérico andino paramétrico andés lúdico a ese muelle mágico ciego puritano nulo recibirá el patadón fáctico y a qué hiper velocidad mística andina celular andina saldrá disparado pasivamente al cosmos fáctico paramétrico asintótico cívico andino formal.
+¿Que variable conviene mantener constante?
 
 ### Options
-- [x] A) Mágicamente sale rebanando a una velocidad endiablada y perfecta de puritanos andinos asimiladores del átomo cósmico a exactamente $20$ m/s ciegos puros fácticos armónicos inorgánicos paramétricos de evaluación general evaluativa de saber asimilado paramétrico teta cívica andina. <!-- feedback: Cálculo puro asimilado: $½ k X² = ½ m V²$ de resorte a bloque. $1000 \cdot (2)² = m v² \rightarrow 1000 \cdot 4 = 10 \cdot v² \rightarrow 4000 / 10 = v² \rightarrow 400 = v² \rightarrow v=20$ m/s exactos paramétricos fácticos evaluativos. -->
-- [ ] B) Inicia a cero andino pasivo paramétrico lúdico genérico asimétrico y nulo asimilador estocástico fáctico inorgánico. <!-- feedback: Violación a la ley de inercia puritana andina. -->
-- [ ] C) Todo el resorte es falso paramétrico cívico. <!-- feedback: Nulo andino. -->
-- [ ] D) Simplemente $400$ tontos metros por la galaxia nula andina pasiva. <!-- feedback: Olvida tontamente andino paramétrico cívico genérico fáctico asimilador pasivo empírico la raíz andina abstracta cuadrada de las sumatorias cinéticas andinas formales. -->
+- [ ] A) El tipo de conclusion que se espera. <!-- feedback: Incorrecto. Eso no es una variable fisica del montaje. -->
+- [x] B) La altura inicial desde la que se suelta el carrito. <!-- feedback: Correcto. Asi se compara el efecto de la masa sin cambiar la energia potencial inicial por altura. -->
+- [ ] C) El numero de observadores. <!-- feedback: Incorrecto. No es una variable relevante del sistema fisico. -->
+- [ ] D) El color del carrito. <!-- feedback: Incorrecto. No afecta el intercambio de energia en este experimento. -->
 
-### Rúbrica de Justificación
-1. **Balance Energético Elástico-Cinético Asimétrico (Constante Elástica).**
+### Explicación Pedagógica
+Controlar variables permite atribuir el cambio observado a la magnitud que se desea estudiar.
 
 ---
 
-## Question 9 (Maestría - Dificultad 8)
-**ID:** `CO-CIE-11-P2-trabajo-001-MASTERY-v9`
-**Bloom:** Analizar
-**ICFES:** Primera Ley de la Termodinámica (sistemas aislados)
-**Expected_Success:** 0.28
+## Question 9 (Variant Intermediate - Difficulty 6)
+**ID:** `CO-CN-11-P2-trabajo-001-MASTERY-v9`
+**Bloom:** Apply
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.49
+
+### Contexto
+Un resorte comprimido se libera y empuja un carrito.
 
 ### Enunciado
-La insigne Ecuación mística gélida andina paramétrica evaluativa puritana analítica $Q = \Delta U + W$ puritana sorda inorgánica empírica ruidosa asimilada de la genial termodinámica te lo dice andino tiza puritana fáctica de frente. En un pistón andino loco genérico y celular fáctico gélido andino isocorico cerrado inorgánico isovolumétrico (Su tapa maldita de metal está soldada a la bestia de acero o lata andina férrea forzosamente bloqueada soldada hermética paramétrica e inamovible fáctica y estáticamente de volumen rígido paramétrico empírico inorgánico de mil mililitros cívicos pasivos). Meten calor puritano andino $5,000$ J y teta asimétrica fuego tiza. ¿Qué diablos y ciegamente andino orgánico estocástico genérico fásico analítico estocástico formal ocurre misticamente andino paramétrico fáctico cívico en el átomo paramétrico adentro y asintótico celular del infierno estático evaluador?
+¿Que transformacion energetica describe mejor la situacion?
 
 ### Options
-- [ ] A) El pistón se expande paramétricamente gélido teta asimilada inorgánica celular lúdica a tiza andina paramétrica genial rompiendo el universo pasivo fásico asimilador genial estocástico. <!-- feedback: Mentira, el isovolumétrico prohíbe el trabajo W tonto fásico orgánico de expansión andina tiza. -->
-- [ ] B) Puros $5,000$ joules se hacen hielo andino pacífico de tita sorda. <!-- feedback: Aberración analítica andina mágica. -->
-- [x] C) Ya que soldaste y atascaste la tapa andina lúdica cruel evaluativa obligando la pared tonta a estancarse (volumen constante), aniquilas puritana geométrica fáctica asimiladoramente asintótica el paramétrico e inorgánico genial "Trabajo expansivo mecánico de Joules (W=0 nulo tonto andés andino y celular andés analítico fáctico andino puritano pasivo)". El axioma y fórmula inorgánica obliga forzosamente que ¡La totalidad devoradora fáctica y abrumadora mística y salvaje cívica paramétrica gélida andina genial asimiladora puritana celular de los $5,000$ benditos Joules de pura candela Fáctica asimilada paramétrica y pasiva de calor externo metido andino andés empírico! se dedique única y letal y ciegamente fáctica en enfurecer locamente estocástica termodinámicamente andino y lúdico empíricamente a tiza los átomos, engordando genéricamente a todo vapor su mística "Energía Interna gélida y letal paramétrica andina inorgánica andés puritana asimétrica asimilada $(\Delta U)$". El cilindro andino se volverá inorgánicamente lógicamente fásico tonto paramétrico cívico una bomba presurizada de calor y presión demencial estática sin liberar andino asimétrico evaludor cívico andino fáctico asimilador pasivo analítico pasivo genérico en cero de paramétrico tonto andino teta asimilada energía móvil asimétrica $W$ de Newton o tiza de Joules empujadora fáctica genotípica andina celestial y nula de volumen constante expansible fáctico andés fásico rural asimétrico de evaluación. <!-- feedback: Una obra maestra. Si dV = 0, W = 0, luego Q integro se convierte letal y directamente fáctico paramétrico asimilador efervescente paramétrico genérico asintótico en cambio bruto andino estocástico de U total fáctica andés celular. -->
-- [ ] D) Simplemente paramétrico lúdico pasivo elástico se congela falso estocástico andino lúdico evaluativo inorgánico genérico asimétrico fásico orgánico inorgánico teta rancio. <!-- feedback: Balbuceo técnico. -->
+- [ ] A) Energia cinetica a potencial gravitacional exclusivamente. <!-- feedback: Incorrecto. Esa no es la conversion inicial principal descrita. -->
+- [x] B) Energia potencial elastica a energia cinetica. <!-- feedback: Correcto. El resorte almacenaba energia que luego se convierte en movimiento. -->
+- [ ] C) Energia termica a masa. <!-- feedback: Incorrecto. No es una transformacion adecuada aqui. -->
+- [ ] D) Energia electrica a potencial quimica. <!-- feedback: Incorrecto. No corresponde al sistema descrito. -->
 
-### Rúbrica de Justificación
-1. **Consecuencia Lógica de Anulación de Expresión Binaria (Primera Ley Isotérmico vs Isovolumétrica en variables $Q, \Delta U, W$).**
+### Explicación Pedagógica
+Los resortes almacenan energia debido a su deformacion. Al liberarlos, esa energia puede transferirse al movimiento.
 
 ---
 
-## Question 10 (Maestría - Dificultad 8)
-**ID:** `CO-CIE-11-P2-trabajo-001-MASTERY-v10`
-**Bloom:** Evaluar
-**ICFES:** Conservación Mecánica de Satélites Newtonianos
-**Expected_Success:** 0.25
+## Question 10 (Variant Intermediate - Difficulty 6)
+**ID:** `CO-CN-11-P2-trabajo-001-MASTERY-v10`
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistemico
+**Expected_Success:** 0.47
+
+### Contexto
+Una fuerza de rozamiento actua sobre un objeto que se desplaza en una superficie horizontal.
 
 ### Enunciado
-Diga el veredicto andino y místico asimilado cósmico astrofísico termodinámico genérico evaluado fáctico genial puritano pasivo lúdico tonto empírico evaluando a un hermoso y triste lúdico satélite puritano andés orbitando circular inorgánico andino pasivo ciego nula teta armónica y abstracta genotípica sobre tu tonta cabeza paramétrico en su inmaculada esfera abstracta general puritana asimilada al centro lúdico andino empírico. ¿De dónde y paramétricamente asimilador empírico andino saca combustible o Joules robóticos el asintótico estático aparato empírico andino para no chocar ni morir ni frenar su mística teta estocástica gélida paramétrica lúdico en 20 años continuos pasivos nulos de Newton andino celular evaluador asimétrico orgánico inorgánico fásico paramétrico asimilado astral?
+¿Que efecto tiene normalmente el rozamiento sobre la energia mecanica del sistema?
 
 ### Options
-- [ ] A) Del sol andino orgánico ciego que lo jala puritano fáctico. <!-- feedback: Simplón andino sin asimilación. -->
-- [ ] B) De baterías fácticas inorgánicas andinas asimiladas puros empíricos. <!-- feedback: Erróneo astronómico andino pasivo. -->
-- [x] C) Mágicamente evaluativo andino paramétrico fáctico puritano general asimétrico andés ruidoso inerte genérico y genio estocástico empírico lúdico celular: De simple ¡NINGUNA PARTE fáctica divina cósmica asimétrica puritana andina de tiza evaluativa cívica! Debido a que el vector Velocidad inorgánica abstracta andina es $100\%$ paramétrico genérico asintótico y celestial perfectamente místico orquestado de frente sordo ortogonal o ciegamente lúdico cruzado pasivo $\left(90^\circ\right)$ al vector estocástico gélido fáctico asimétrico de la Gravedad Andina fáctica (Fuerza Central lúdica asintótica y empírica asimilada genéricamente paramétrica evaluando teta nula asimétrica falsa o estática andés celular andés nulo radial mística de tierra cívica andina), ¡El bendito y frío perezoso Cosmos paramétrico andino sordo y lúdico empírico JAMÁS EFECTÚA TRABAJO fáctico andino en su trasto viejo $\left(\cos(90^\circ) = \text{CERO NULO Tonto Andés paramétrico}\right)$! Por tal arte mágica de Newton puritano andino celular asimétrico lúdico paramétrico evaluador estocástico asintótico fáctico de tiza, el aparato robótico celular estocástico andino lúdico ni gana ni pierde mágica energía andina nula cívica paramétrica fáctica, por lo que viajará asintóticamente puritano gratis y por siempre lúdicamente pasivo en su majestuosa ruleta esférica asimilada eterna cívica gélida paramétrica paramétrica y mágica inerte asintótica y puritana genotípica cínica estocástica universal andina sin gastar un miserable y lloroso peso gélido andino paramétrico Joule evaluando genérico andino celular inorgánico de batería analítica asimiladora fáctica puritana andina lúdico andés de estado nacional fáctico asimilado asintótico empírico teta inorgánica factorial cívica y genérica asimiladora del estado cívico normal puro empírico y puritano asimilado andés fásico rural de polo pasivo inorgánico. <!-- feedback: Nivel Dios Astrofísico (Orbita Cerrada Unidimensional). $W = F \cdot d \cos(\theta)$. Ángulo $90^\circ \rightarrow$ W = 0 Joules. Sin trabajo, tu Ec no cambia. Orbitas eternamente sin motor al vació asimilado puro andino fólico genial inorgánico andino místico fásico general y cósmico cívico empírico. -->
-- [ ] D) Simplemente andino pasivo orgánico puritano y evaluativo tonto asimilador gélido de polo asimétrico tonto rural andino genial inorgásmico asimétrico formal. <!-- feedback: Nulo y falto de respeto científico evaluador místico celular. -->
+- [ ] A) La aumenta siempre. <!-- feedback: Incorrecto. El rozamiento no incrementa por si solo la energia mecanica. -->
+- [ ] B) La conserva exactamente en todos los casos. <!-- feedback: Incorrecto. El rozamiento es una fuerza no conservativa. -->
+- [x] C) Disminuye parte de la energia mecanica, transformandola en otras formas como energia termica. <!-- feedback: Correcto. El rozamiento disipa energia mecanica. -->
+- [ ] D) La vuelve negativa en todos los casos. <!-- feedback: Incorrecto. No es una conclusion general valida. -->
 
-### Rúbrica de Justificación
-1. **Evaluación Vectorial de Trabajo Mecánico Nulo en Planos de Fricción Cero e Independencia Empírica y Tensional Pura Genérica (Movimiento Circular Uniforme $W=0$).**
-
----
-
-*(Consistencia de matriz de calibración de las restantes 10 posiciones de maestría estricta protocolar en variables combinadas macro asintóticas para mantener el volumen del bundle estructurado)*
+### Explicación Pedagógica
+Las fuerzas no conservativas alteran la energia mecanica disponible para el movimiento ordenado.
 
 ---
 
-## 📊 Metadata de Calibración
-(Array final de preguntas P2 Ciencias Termodinámicas estructurado. Todas orientadas a transferencia áurea de energía, vectores ineludibles no intuitivos, 4 opciones ICFES y estática y dinámica de la ley de Hess mística evaluada cívica y Newton general asimilada).
+## Question 11 (Variant Advanced - Difficulty 7)
+**ID:** `CO-CN-11-P2-trabajo-001-MASTERY-v11`
+**Bloom:** Analyze
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.44
+
+### Contexto
+Un mismo objeto se deja caer desde dos alturas distintas sin rozamiento.
+
+### Enunciado
+¿En cual caso llegara con mayor rapidez al suelo?
+
+### Options
+- [ ] A) En ambos casos con la misma rapidez, porque la masa no cambia. <!-- feedback: Incorrecto. La altura inicial si cambia la energia disponible. -->
+- [x] B) Desde la mayor altura, porque parte con mayor energia potencial gravitacional. <!-- feedback: Correcto. Mayor altura implica mayor energia potencial inicial y mayor rapidez final. -->
+- [ ] C) Desde la menor altura, porque el recorrido es mas corto. <!-- feedback: Incorrecto. Menor recorrido no implica mayor rapidez final. -->
+- [ ] D) No se puede comparar sin conocer el color del objeto. <!-- feedback: Incorrecto. El color no es relevante en este modelo. -->
+
+### Explicación Pedagógica
+La rapidez final depende de la transformacion de energia potencial en cinetica cuando se ignoran perdidas.
+
+---
+
+## Question 12 (Variant Advanced - Difficulty 7)
+**ID:** `CO-CN-11-P2-trabajo-001-MASTERY-v12`
+**Bloom:** Apply
+**ICFES:** Formulación y ejecución
+**Expected_Success:** 0.42
+
+### Contexto
+Una maquina levanta una carga de `200 N` hasta una altura de `5 m`.
+
+### Enunciado
+¿Cuanto trabajo minimo debe realizar contra la gravedad si se desprecia el rozamiento?
+
+### Options
+- [ ] A) `40 J` <!-- feedback: Incorrecto. Resulta de dividir en lugar de multiplicar. -->
+- [x] B) `1000 J` <!-- feedback: Correcto. `W = Fh = 200 x 5 = 1000 J`. -->
+- [ ] C) `205 J` <!-- feedback: Incorrecto. Sumar las magnitudes no corresponde al modelo. -->
+- [ ] D) `10 J` <!-- feedback: Incorrecto. Es una subestimacion fuerte. -->
+
+### Explicación Pedagógica
+Levantar un cuerpo implica suministrar trabajo igual al aumento de su energia potencial gravitacional.
+
+---
+
+## Question 13 (Variant Advanced - Difficulty 7)
+**ID:** `CO-CN-11-P2-trabajo-001-MASTERY-v13`
+**Bloom:** Evaluate
+**ICFES:** Uso comprensivo del conocimiento cientifico
+**Expected_Success:** 0.39
+
+### Contexto
+Dos estudiantes suben el mismo tramo de escaleras. Uno tarda menos tiempo que el otro.
+
+### Enunciado
+Si ambos elevan masas equivalentes a la misma altura, ¿quien desarrolla mayor potencia?
+
+### Options
+- [x] A) El que tarda menos, porque realiza el mismo trabajo en menor tiempo. <!-- feedback: Correcto. La potencia compara trabajo realizado por unidad de tiempo. -->
+- [ ] B) El que tarda mas, porque mantiene el esfuerzo por mas tiempo. <!-- feedback: Incorrecto. Mayor tiempo con mismo trabajo implica menor potencia. -->
+- [ ] C) Ambos tienen la misma potencia por subir la misma altura. <!-- feedback: Incorrecto. Falta considerar el tiempo empleado. -->
+- [ ] D) Ninguno, porque la potencia solo existe en maquinas. <!-- feedback: Incorrecto. Las personas tambien pueden desarrollar potencia mecanica. -->
+
+### Explicación Pedagógica
+Potencia no es solo hacer trabajo, sino cuan rapido se realiza ese trabajo.
+
+---
+
+## Question 14 (Variant Advanced - Difficulty 8)
+**ID:** `CO-CN-11-P2-trabajo-001-MASTERY-v14`
+**Bloom:** Evaluate
+**ICFES:** Indagación
+**Expected_Success:** 0.36
+
+### Contexto
+En una pista, un carrito sube por una rampa y no alcanza exactamente la altura inicial desde la que habia sido soltado.
+
+### Enunciado
+¿Que explicacion es la mas adecuada?
+
+### Options
+- [ ] A) Se destruyo parte de la energia total. <!-- feedback: Incorrecto. La energia no se destruye; puede transformarse. -->
+- [x] B) Parte de la energia mecanica se transformo en otras formas por rozamiento y sonido. <!-- feedback: Correcto. Es una explicacion consistente con perdidas disipativas. -->
+- [ ] C) La gravedad dejo de actuar en la subida. <!-- feedback: Incorrecto. La gravedad sigue actuando. -->
+- [ ] D) La masa del carrito disminuyo espontaneamente. <!-- feedback: Incorrecto. No es la causa del comportamiento observado. -->
+
+### Explicación Pedagógica
+Cuando aparecen fuerzas disipativas, la energia mecanica deja de conservarse aunque la energia total del sistema se mantenga.
+
+---
+
+## Question 15 (Variant Advanced - Difficulty 8)
+**ID:** `CO-CN-11-P2-trabajo-001-MASTERY-v15`
+**Bloom:** Analyze
+**ICFES:** Pensamiento reflexivo y sistemico
+**Expected_Success:** 0.34
+
+### Contexto
+Un objeto se mueve horizontalmente mientras una fuerza vertical actua sobre el.
+
+### Enunciado
+Si la fuerza vertical es perpendicular al desplazamiento, ¿que trabajo realiza esa fuerza?
+
+### Options
+- [x] A) Cero. <!-- feedback: Correcto. Una fuerza perpendicular al desplazamiento no realiza trabajo en este modelo. -->
+- [ ] B) Maximo y positivo. <!-- feedback: Incorrecto. No hay componente de la fuerza en la direccion del desplazamiento. -->
+- [ ] C) Igual a la masa del objeto. <!-- feedback: Incorrecto. La masa no expresa trabajo. -->
+- [ ] D) Igual a la rapidez del objeto. <!-- feedback: Incorrecto. La rapidez no es el valor del trabajo. -->
+
+### Explicación Pedagógica
+El trabajo depende de la componente de la fuerza paralela al desplazamiento.
+
+---
+
+## Question 16 (Variant Advanced - Difficulty 8)
+**ID:** `CO-CN-11-P2-trabajo-001-MASTERY-v16`
+**Bloom:** Analyze
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.31
+
+### Contexto
+Una montaña rusa desciende desde un punto alto y luego asciende por otra colina, despreciando rozamiento.
+
+### Enunciado
+¿Que se conserva en el recorrido?
+
+### Options
+- [ ] A) Solo la energia potencial. <!-- feedback: Incorrecto. La energia potencial cambia con la altura. -->
+- [ ] B) Solo la energia cinetica. <!-- feedback: Incorrecto. La energia cinetica cambia con la rapidez. -->
+- [x] C) La energia mecanica total. <!-- feedback: Correcto. Sin rozamiento, la suma de energia potencial y cinetica se conserva. -->
+- [ ] D) La potencia instantanea. <!-- feedback: Incorrecto. La potencia puede variar durante el movimiento. -->
+
+### Explicación Pedagógica
+La conservacion de la energia mecanica es una herramienta para predecir cambios de rapidez y altura.
+
+---
+
+## Question 17 (Variant Mastery - Difficulty 9)
+**ID:** `CO-CN-11-P2-trabajo-001-MASTERY-v17`
+**Bloom:** Evaluate
+**ICFES:** Formulación y ejecución
+**Expected_Success:** 0.27
+
+### Contexto
+Un ascensor eleva a la misma altura dos cargas distintas en tiempos diferentes. La carga A es mayor y tarda lo mismo que la B.
+
+### Enunciado
+¿Que puede afirmarse con mayor seguridad?
+
+### Options
+- [ ] A) La potencia en ambos casos es igual porque la altura final es la misma. <!-- feedback: Incorrecto. Con masas diferentes cambia el trabajo realizado. -->
+- [x] B) Se requiere mayor trabajo para elevar la carga A y, si el tiempo es el mismo, tambien mayor potencia. <!-- feedback: Correcto. Mayor peso a la misma altura implica mayor trabajo. -->
+- [ ] C) La carga B exige mayor potencia por ser mas ligera. <!-- feedback: Incorrecto. Una carga menor no exige mayor potencia si el tiempo es el mismo. -->
+- [ ] D) Ninguna comparacion es posible en ausencia de gravedad. <!-- feedback: Incorrecto. El contexto es gravitacional y si permite comparar. -->
+
+### Explicación Pedagógica
+Trabajo y potencia se relacionan con la masa elevada, la altura y el tiempo disponible.
+
+---
+
+## Question 18 (Variant Mastery - Difficulty 9)
+**ID:** `CO-CN-11-P2-trabajo-001-MASTERY-v18`
+**Bloom:** Evaluate
+**ICFES:** Indagación
+**Expected_Success:** 0.24
+
+### Contexto
+Un investigador compara choques de una esfera en dos superficies: una elastica y otra muy deformable.
+
+### Enunciado
+Si en la superficie deformable la esfera rebota menos, ¿que interpretacion es mas adecuada?
+
+### Options
+- [ ] A) Que la gravedad fue menor en esa superficie. <!-- feedback: Incorrecto. La gravedad no cambia entre montajes cercanos. -->
+- [x] B) Que mayor parte de la energia mecanica se transformo en deformacion, calor y sonido. <!-- feedback: Correcto. Un rebote menor indica menos recuperacion de energia cinetica util. -->
+- [ ] C) Que la esfera perdio masa durante el choque. <!-- feedback: Incorrecto. No es la explicacion principal del comportamiento. -->
+- [ ] D) Que la energia potencial dejo de existir. <!-- feedback: Incorrecto. La energia potencial no desaparece como concepto del sistema. -->
+
+### Explicación Pedagógica
+Los choques reales suelen involucrar transformaciones de energia hacia formas no mecanicas observables.
+
+---
+
+## Question 19 (Variant Mastery - Difficulty 10)
+**ID:** `CO-CN-11-P2-trabajo-001-MASTERY-v19`
+**Bloom:** Evaluate
+**ICFES:** Pensamiento reflexivo y sistemico
+**Expected_Success:** 0.21
+
+### Contexto
+Un estudiante afirma: "Si un objeto se mueve rapido, necesariamente esta realizando trabajo en ese instante".
+
+### Enunciado
+¿Como debe evaluarse esa afirmacion?
+
+### Options
+- [ ] A) Es verdadera, porque todo movimiento implica trabajo actual. <!-- feedback: Incorrecto. Puede haber movimiento sin que una fuerza realice trabajo en ese instante. -->
+- [ ] B) Es verdadera solo si el objeto tiene mucha masa. <!-- feedback: Incorrecto. La masa no resuelve la afirmacion. -->
+- [x] C) Es falsa, porque el trabajo depende de la accion de una fuerza con desplazamiento, no solo de que haya movimiento. <!-- feedback: Correcto. El trabajo no es equivalente a velocidad o movimiento. -->
+- [ ] D) Es falsa porque ningun objeto rapido tiene energia. <!-- feedback: Incorrecto. Un objeto rapido si tiene energia cinetica. -->
+
+### Explicación Pedagógica
+Trabajo y energia cinetica se relacionan, pero no son la misma magnitud ni describen exactamente la misma situacion.
+
+---
+
+## Question 20 (Variant Mastery - Difficulty 10)
+**ID:** `CO-CN-11-P2-trabajo-001-MASTERY-v20`
+**Bloom:** Evaluate
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.18
+
+### Contexto
+Un automovil sube una loma con rapidez constante.
+
+### Enunciado
+¿Que afirmacion integra mejor el analisis energetico?
+
+### Options
+- [ ] A) No se requiere trabajo del motor porque la rapidez no cambia. <!-- feedback: Incorrecto. Aunque la rapidez sea constante, al subir aumenta la energia potencial y puede haber rozamiento. -->
+- [ ] B) La energia potencial disminuye mientras sube. <!-- feedback: Incorrecto. Al ganar altura, la energia potencial aumenta. -->
+- [x] C) El motor realiza trabajo para compensar el aumento de energia potencial y las perdidas por rozamiento. <!-- feedback: Correcto. Subir con rapidez constante no significa ausencia de transferencia de energia. -->
+- [ ] D) La gravedad impulsa el movimiento y entrega toda la energia necesaria. <!-- feedback: Incorrecto. La gravedad se opone a la subida. -->
+
+### Explicación Pedagógica
+El analisis energetico debe considerar no solo la rapidez sino tambien los cambios de altura y las fuerzas disipativas.

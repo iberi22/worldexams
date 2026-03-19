@@ -36,10 +36,10 @@ function parseProtocol(frontmatter, filePath) {
 }
 
 function parseDifficulties(body) {
-  const matches = body.matchAll(/##\s+Pregunta\s+\d+(?:-\d+)?\s*\(([^)]*)\)/gi);
+  const matches = body.matchAll(/##\s+(?:Pregunta|Question)\s+\d+(?:-\d+)?\s*\(([^)]*)\)/gi);
   const difficulties = [];
   for (const match of matches) {
-    const level = match[1].match(/(?:Nivel|Dificultad):?\s*(\d+)/i);
+    const level = match[1].match(/(?:Nivel|Dificultad|Difficulty):?\s*(\d+)/i);
     if (level) difficulties.push(Number(level[1]));
   }
   return difficulties;
