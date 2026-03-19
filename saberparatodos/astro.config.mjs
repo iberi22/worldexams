@@ -1,6 +1,6 @@
 import { defineConfig } from 'astro/config';
 import svelte from '@astrojs/svelte';
-import tailwind from '@astrojs/tailwind';
+import tailwindcss from '@tailwindcss/vite';
 import sitemap from '@astrojs/sitemap';
 import cloudflare from '@astrojs/cloudflare';
 
@@ -9,10 +9,7 @@ export default defineConfig({
   // Site configuration for standalone deployment
   site: import.meta.env.PUBLIC_SITE_URL || 'https://saberparatodos.space',
 
-  // No base path needed - this is root level deployment
-  // base: '/saber-co', // Remove this for standalone deployment
-
-  integrations: [svelte(), tailwind(), sitemap()],
+  integrations: [svelte(), sitemap()],
 
   // 🆕 Enable SSR for Cloudflare Workers
   output: 'server',
@@ -58,9 +55,6 @@ export default defineConfig({
         '$lib': '/src/lib'
       }
     },
-    ssr: {
-      external: ['node:async_hooks']
-    },
     define: {
       // Removed hardcoded API URL to allow .env loading
     },
@@ -70,7 +64,8 @@ export default defineConfig({
     },
     build: {
       cssMinify: false
-    }
+    },
+    plugins: [tailwindcss()]
   },
 
   // Build optimizations

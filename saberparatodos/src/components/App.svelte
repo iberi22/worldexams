@@ -789,7 +789,7 @@
 
   <!-- Global Header -->
   {#if view !== AppView.EXAM && view !== AppView.RESULTS}
-  <header class="fixed top-0 left-0 right-0 z-50 border-b border-white/5">
+  <header class="app-header fixed top-0 left-0 right-0 z-50 border-b border-white/5">
     <!-- Header Background with Blur -->
     <div class="absolute inset-0 bg-[#121212]/80 backdrop-blur-sm pointer-events-none"></div>
 
