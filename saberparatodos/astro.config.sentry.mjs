@@ -1,6 +1,6 @@
 import { defineConfig } from 'astro/config';
 import svelte from '@astrojs/svelte';
-import tailwind from '@astrojs/tailwind';
+import tailwindcss from '@tailwindcss/vite';
 import sitemap from '@astrojs/sitemap';
 import sentry from '@sentry/astro';
 
@@ -9,7 +9,6 @@ export default defineConfig({
   site: 'https://saberparatodos.pages.dev',
   integrations: [
     svelte(),
-    tailwind(),
     sitemap(),
     sentry({
       dsn: process.env.PUBLIC_SENTRY_DSN,
@@ -40,6 +39,7 @@ export default defineConfig({
   ],
 
   vite: {
+    plugins: [tailwindcss()],
     build: {
       sourcemap: true, // Importante para Sentry
     },

@@ -1,18 +1,17 @@
 ---
-import { getCollection } from 'astro:content';
+import { getEntry, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import Reactions from '../../components/changelog/Reactions.svelte';
 import Comments from '../../components/changelog/Comments.svelte';
 
 const slug = Astro.params.slug || '';
-const posts = await getCollection('changelog');
-const post = posts.find((entry) => entry.slug === slug);
+const post = slug ? await getEntry('changelog', slug) : undefined;
 
 if (!post) {
   return Astro.redirect('/novedades');
 }
 
-const { Content } = await post.render();
+const { Content } = await render(post);
 ---
 
 <Layout
@@ -68,12 +67,12 @@ const { Content } = await post.render();
         data-sr="fade-up"
         data-sr-delay="150"
       >
-        <Reactions postSlug={post.slug} client:visible />
+        <Reactions postSlug={post.id} client:visible />
       </div>
 
       <!-- Comments -->
       <div data-sr="fade-up" data-sr-delay="200">
-        <Comments postSlug={post.slug} client:visible />
+        <Comments postSlug={post.id} client:visible />
       </div>
 
     </div>

@@ -20,6 +20,9 @@
     "validate": "node scripts/validate_content.js",
     "validate:strict": "node scripts/validate_content.js --strict-v3 --fail-on-error",
     "validate:g11": "node scripts/validate_content.js --grade=11 --country=colombia",
+    "audit:quality": "node scripts/audit_question_quality.js --scope=colombia,ingles --grade-min=3 --grade-max=11 --write-report",
+    "audit:quality:g11": "node scripts/audit_question_quality.js --scope=colombia,ingles --grade-min=11 --grade-max=11 --write-report",
+    "coverage:questions": "node scripts/analyze_question_coverage.js --scope=colombia,ingles --grade-min=3 --grade-max=11",
     "verify:grade11-preicfes": "node scripts/verify-grade11-preicfes-policy.js",
     "validate:full": "node scripts/validate_content.js && astro check && astro build",
     "video:queue:v41": "node scripts/video/build-video-queue.js",
@@ -44,22 +47,22 @@
     "test:coverage": "vitest run --coverage"
   },
   "dependencies": {
-    "@astrojs/cloudflare": "^12.6.12",
+    "@astrojs/cloudflare": "^13.1.2",
     "@astrojs/sitemap": "^3.6.0",
-    "@astrojs/svelte": "^7.2.2",
-    "@astrojs/tailwind": "^5.0.0",
+    "@astrojs/svelte": "^8.0.2",
     "@cloudflare/workers-types": "^4.20240529.0",
     "@sentry/astro": "^8.40.0",
     "@sentry/svelte": "^8.40.0",
     "@supabase/supabase-js": "^2.86.0",
-    "astro": "^5.16.0",
+    "@tailwindcss/vite": "^4.2.2",
+    "astro": "^6.0.6",
     "chart.js": "^4.5.1",
     "html2canvas": "^1.4.1",
     "jspdf": "^3.0.4",
     "katex": "^0.16.27",
     "peerjs": "^1.5.5",
-    "svelte": "^5.44.1",
-    "tailwindcss": "^3.0.0",
+    "svelte": "^5.54.0",
+    "tailwindcss": "^4.2.2",
     "trystero": "^0.22.0"
   },
   "devDependencies": {
@@ -82,7 +85,7 @@
     "rollup": "^4.59.0"
   },
   "lint-staged": {
-    "src/content/questions/**/*.md": [
+    "../questions_data/**/*.md": [
       "node scripts/validate_content.js"
     ],
     "*.{js,ts,astro,svelte}": [
