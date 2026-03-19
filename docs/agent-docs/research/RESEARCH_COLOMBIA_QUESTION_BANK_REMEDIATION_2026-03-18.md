@@ -26,12 +26,12 @@ This document exists so another agent can continue the Colombia question-bank cl
 
 ## Progress Estimate
 
-Estimated implementation progress for the broader remediation task: `60%`.
+Estimated implementation progress for the broader remediation task: `68%`.
 
 Interpretation:
 
 - completed: skill hardening, audit hardening, Grade 11 `MASTERY` triage, backlog documentation;
-- not completed: full rewrite of quarantined bundles, targeted fixes, extension of the same process to grades `3` to `10`.
+- not completed: remaining rewrite of quarantined lectura/sociales bundles, targeted fixes, extension of the same process to grades `3` to `10`.
 
 ## Completed Work
 
@@ -93,7 +93,7 @@ Status: `done`
 Current numbers:
 
 - total reviewed: `49`
-- replace whole bundle: `15` originally identified, `5` already completed, `10` still pending
+- replace whole bundle: `15` originally identified, `9` already completed, `6` still pending
 - targeted fixes: `7`
 - keep as clean base: `27`
 
@@ -106,6 +106,10 @@ Files:
 - `questions_data/colombia/matematicas/grado-11/periodo-2/estadistica-y-probabilidad/CO-MAT-11-P2-estadistica-probabilidad-001-MASTERY-bundle.md`
 - `questions_data/colombia/matematicas/grado-11/periodo-2/probabilidad/CO-MAT-11-P2-probabilidad-001-MASTERY-bundle.md`
 - `questions_data/colombia/matematicas/grado-11/periodo-3/calculo-derivadas/CO-MAT-11-P3-calculo-derivadas-001-MASTERY-bundle.md`
+- `questions_data/colombia/ciencias-naturales/grado-11/periodo-1/fisicoquimica-genetica/CO-CIE-11-P1-fisicoquimica-001-MASTERY-bundle.md`
+- `questions_data/colombia/ciencias-naturales/grado-11/periodo-2/termodinamica/CO-CN-11-P2-termodinamica-001-MASTERY-bundle.md`
+- `questions_data/colombia/ciencias-naturales/grado-11/periodo-2/trabajo-energia/CO-CN-11-P2-trabajo-001-MASTERY-bundle.md`
+- `questions_data/colombia/ciencias-naturales/grado-11/periodo-3/ondas-y-sonido/CO-CN-11-P3-ondas-001-MASTERY-bundle.md`
 
 Status: `done`
 
@@ -118,7 +122,7 @@ What changed:
   - `20` questions
   - `4` options per question
   - `1` correct option per question
-- repeated the same full rewrite and local structural verification for the additional statistics, probability and calculus bundles.
+- repeated the same full rewrite and local structural verification for the additional statistics, probability, calculus and four science bundles.
 
 ### 5. Quarantine enforcement implemented in runtime
 
@@ -170,10 +174,6 @@ Resolution:
 
 These should be treated as full regeneration targets:
 
-- `ciencias-naturales / periodo-1 / fisicoquimica-genetica` (`001`)
-- `ciencias-naturales / periodo-2 / termodinamica`
-- `ciencias-naturales / periodo-2 / trabajo-energia`
-- `ciencias-naturales / periodo-3 / ondas-y-sonido`
 - `lectura-critica / periodo-1 / ensayo-filosofico` (`001`)
 - `lectura-critica / periodo-2 / textos-literarios`
 - `lectura-critica / periodo-3 / medios-grafica`
@@ -244,13 +244,16 @@ If another agent resumes this work, the safest next sequence is:
 
 1. open `skills/create_bundles_manually/SKILL.md`
 2. open `reports/question-audit/2026-03-18-mastery-remediation-plan.md`
-3. rewrite the next highest-risk science bundles:
-- `CO-CIE-11-P1-fisicoquimica-001-MASTERY-bundle.md`
-- `CO-CN-11-P2-termodinamica-001-MASTERY-bundle.md`
-- `CO-CN-11-P2-trabajo-001-MASTERY-bundle.md`
-- `CO-CN-11-P3-ondas-001-MASTERY-bundle.md`
-4. re-run validators
-5. then expand the same workflow to lower grades
+3. rewrite the remaining lectura/sociales priority-0 bundles:
+- `CO-LEC-11-P1-ensayo-001-MASTERY-bundle.md`
+- `CO-LEC-11-P2-literario-001-MASTERY-bundle.md`
+- `CO-LEC-11-P3-medios-001-MASTERY-bundle.md`
+- `CO-SOC-11-P1-geopolitica-001-MASTERY-bundle.md`
+- `CO-SOC-11-P2-economia-001-MASTERY-bundle.md`
+- `CO-SOC-11-P3-constitucion-001-MASTERY-bundle.md`
+4. re-run validators and the quality audit with report output
+5. sync the quarantine manifest if the audit summary changes
+6. then close the targeted fixes
 
 ## Important Constraints
 
