@@ -1,8 +1,14 @@
 /// <reference types="vitest" />
-import { getViteConfig } from 'astro/config';
+import { defineConfig } from 'vitest/config';
+import { fileURLToPath } from 'node:url';
 
-export default getViteConfig({
-  // @ts-expect-error - Astro's getViteConfig type doesn't include vitest options yet
+export default defineConfig({
+  resolve: {
+    alias: {
+      '@': fileURLToPath(new URL('./src', import.meta.url)),
+      '$lib': fileURLToPath(new URL('./src/lib', import.meta.url)),
+    },
+  },
   test: {
     globals: true,
     environment: 'jsdom',
@@ -12,7 +18,6 @@ export default getViteConfig({
       reporter: ['text', 'json', 'html'],
       include: ['src/lib/**/*.ts', 'src/utils/**/*.ts'],
       exclude: ['src/env.d.ts', 'src/**/*.d.ts'],
-      all: true,
     },
   },
 });

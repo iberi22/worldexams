@@ -3,7 +3,7 @@ import { createClient } from '@supabase/supabase-js';
 const SESSION_COOKIE = 'we_dev_session';
 const SESSION_MAX_AGE = 60 * 60 * 24 * 7;
 
-type RuntimeLocals = {
+export type RuntimeLocals = App.Locals & {
   runtime?: {
     env?: Record<string, string | undefined>;
   };

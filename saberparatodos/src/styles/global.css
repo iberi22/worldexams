@@ -1,12 +1,33 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+
+/* Tailwind v4: explicit source scanning for all component files */
+@source "../components/**/*.svelte";
+@source "../modules/**/*.svelte";
+@source "../pages/**/*.astro";
+@source "../layouts/**/*.astro";
+
+/* Custom theme extensions for Tailwind v4 */
+@theme {
+  --color-co-yellow: #FCD116;
+  --color-co-blue: #003893;
+  --color-co-red: #CE1126;
+  --animate-pulse-slow: pulse-slow 3s ease-in-out infinite;
+}
+
 
 body {
   background-color: #121212;
   color: #F5F5DC;
   font-family: 'Fira Code', monospace;
   overflow-x: hidden;
+}
+
+header.app-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 50;
 }
 
 /* Custom Scrollbar */
