@@ -17,6 +17,8 @@ source: "Mineducacion Colombia - DBA"
 source_url: "https://www.mineducacion.gov.co/portal/men/Publicaciones/Guias/340021:Derechos-Basicos-de-Aprendizaje-DBA"
 source_license: "CC BY-SA 4.0"
 search_query: "DBA ciencias sociales grado 5 colombia hidrografia relieve cordilleras rios"
+quarantine: true
+bundle_status: "quarantined"
 ---
 
 # Pregunta Base: Las Montañas y el Agua: Relieve e Hidrografía

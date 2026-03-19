@@ -16,6 +16,8 @@ creador: "Antigravity (Protocol v4.1)"
 generation_date: "2026-03-03"
 source: "Saber 11 - Mathematics Framework"
 source_license: "CC BY-SA 4.0"
+quarantine: true
+bundle_status: "quarantined"
 ---
 
 ## Contexto 1: La Continuidad en los Procesos Industriales

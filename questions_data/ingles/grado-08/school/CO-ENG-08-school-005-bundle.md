@@ -12,7 +12,6 @@ international_focus: Cambridge PET & Academic English
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
-
 ---
 # Topic: School & Education (B1)
 

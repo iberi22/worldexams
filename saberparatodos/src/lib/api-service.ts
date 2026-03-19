@@ -25,6 +25,7 @@ import {
 import {
   generateStudyPlan
 } from './notebooklm/curriculum-service';
+import { filterQuarantinedQuestions, isQuestionQuarantined } from './questions/quarantine-registry';
 
 
 
@@ -86,6 +87,15 @@ export interface AppQuestion {
 }
 
 const questionCache: Map<string, AppQuestion[]> = new Map();
+
+function filterSubject(questions: AppQuestion[], normalizedSubject: string): AppQuestion[] {
+  if (!normalizedSubject) return questions;
+  return questions.filter((question) => normalizeSubjectKey(question.category.split(' :: ')[0]) === normalizedSubject);
+}
+
+function excludeQuarantinedAppQuestions(questions: AppQuestion[]): AppQuestion[] {
+  return filterQuarantinedQuestions(questions);
+}
 
 function getConfiguredApiBaseUrl(): string {
   if (typeof document !== 'undefined') {
@@ -264,9 +274,7 @@ export async function fetchQuestionsFromPacks(grade: number, subject?: string, p
             return transformQuestion(q, grade, qSubject);
           });
 
-          return normalizedSubject
-            ? appQuestions.filter(q => normalizeSubjectKey(q.category.split(' :: ')[0]) === normalizedSubject)
-            : appQuestions;
+          return filterSubject(excludeQuarantinedAppQuestions(appQuestions), normalizedSubject);
         }
       }
     } catch (apiError) {
@@ -287,7 +295,7 @@ export async function fetchQuestionsFromPacks(grade: number, subject?: string, p
 
     if (!canUseRelativeFetch) {
       const fallback = getQuestionPool(grade).map((q: any) => transformQuestion(q, grade, normalizeSubjectKey(q.subject || subject || 'unknown')));
-      return normalizedSubject ? fallback.filter(q => normalizeSubjectKey(q.category.split(' :: ')[0]) === normalizedSubject) : fallback;
+      return filterSubject(excludeQuarantinedAppQuestions(fallback), normalizedSubject);
     }
 
     let response: Response | null = null;
@@ -328,7 +336,7 @@ export async function fetchQuestionsFromPacks(grade: number, subject?: string, p
 
     if (!response) {
       const fallback = getQuestionPool(grade).map((q: any) => transformQuestion(q, grade, normalizeSubjectKey(q.subject || subject || 'unknown')));
-      const questions = normalizedSubject ? fallback.filter(q => normalizeSubjectKey(q.category.split(' :: ')[0]) === normalizedSubject) : fallback;
+      const questions = filterSubject(excludeQuarantinedAppQuestions(fallback), normalizedSubject);
       if (questions.length === 0) {
         console.warn(`[API] No remote or local questions for Grade ${grade}${subject ? ` -> ${subject}` : ''}`);
       }
@@ -346,9 +354,7 @@ export async function fetchQuestionsFromPacks(grade: number, subject?: string, p
         return transformQuestion(q, grade, qSubject);
     });
 
-    return normalizedSubject
-      ? appQuestions.filter(q => normalizeSubjectKey(q.category.split(' :: ')[0]) === normalizedSubject)
-      : appQuestions;
+    return filterSubject(excludeQuarantinedAppQuestions(appQuestions), normalizedSubject);
   } catch (err) {
     console.error(`❌ Fatal error in pack service:`, err);
     return [];
@@ -396,7 +402,7 @@ export async function fetchAllQuestionsForGrade(grade: number, isGuest: boolean 
 
   const dedup = new Map<string, AppQuestion>();
   results.flat().forEach(q => { if (q?.id && !dedup.has(q.id)) dedup.set(q.id, q); });
-  const final = Array.from(dedup.values());
+  const final = excludeQuarantinedAppQuestions(Array.from(dedup.values()));
   return final.sort(() => Math.random() - 0.5).slice(0, isGuest ? maxQuestions : Infinity);
 }
 
@@ -465,6 +471,14 @@ export async function fetchEnglishQuestionsAllGrades(limit: number = 30, _balanc
     if (!Array.isArray(questions) || questions.length === 0) return [];
 
     return questions.filter(q => {
+      if (isQuestionQuarantined({
+        questionId: (q as any).id,
+        bundleId: (q as any).bundleId,
+        bundle_id: (q as any).bundle_id,
+        quarantine: (q as any).quarantine,
+        bundleStatus: (q as any).bundleStatus,
+      })) return false;
+
       const rawSubject = String((q as any).asignatura || (q as any).subject || (q as any).category?.split('::')[0] || '');
       const normalizedSubject = normalizeSubjectKey(rawSubject);
       const tags = Array.isArray((q as any).tags) ? (q as any).tags : Array.isArray((q as any).topics) ? (q as any).topics : [];
@@ -491,6 +505,7 @@ export async function fetchEnglishQuestionsAllGrades(limit: number = 30, _balanc
   }));
 
   let unique = Array.from(new Map(gradeResults.flat().map(q => [q.id, q])).values());
+  unique = excludeQuarantinedAppQuestions(unique);
   unique = unique.sort(() => Math.random() - 0.5);
   return limit > 0 ? unique.slice(0, limit) : unique;
 }
@@ -534,7 +549,7 @@ export async function fetchBulkQuestions(grades: number[], limit: number = 300):
   const results = await Promise.all(grades.map(g => fetchQuestionsFromPacks(g)));
   const dedup = new Map<string, AppQuestion>();
   results.flat().forEach(q => { if (q?.id && !dedup.has(q.id)) dedup.set(q.id, q); });
-  let final = Array.from(dedup.values());
+  let final = excludeQuarantinedAppQuestions(Array.from(dedup.values()));
   if (limit && final.length > limit) final = final.sort(() => Math.random() - 0.5).slice(0, limit);
   questionCache.set(cacheKey, final);
   saveKnownQuestions(final).catch(() => {});

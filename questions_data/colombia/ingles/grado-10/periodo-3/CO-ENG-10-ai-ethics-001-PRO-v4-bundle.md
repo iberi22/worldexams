@@ -16,6 +16,8 @@ creador: "Antigravity (Protocol v4.1 - Enfoque 2026)"
 generation_date: "2026-03-03"
 source: "AI Ethics Reports / ICFES 2026"
 source_license: "CC BY-SA 4.0"
+quarantine: true
+bundle_status: "quarantined"
 ---
 
 # Bundle: AI Ethics & Decision-Making (ICFES Part 6 - Inferential Reading)

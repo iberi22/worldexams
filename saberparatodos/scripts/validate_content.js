@@ -13,8 +13,18 @@ const strictV3 = args.includes('--strict-v3');
 const failOnError = args.includes('--fail-on-error') || strictV3;
 const onlyGradeArg = args.find((a) => a.startsWith('--grade='));
 const onlyCountryArg = args.find((a) => a.startsWith('--country='));
+const onlyScopeArg = args.find((a) => a.startsWith('--scope='));
 const onlyGrade = onlyGradeArg ? Number(onlyGradeArg.split('=')[1]) : null;
 const onlyCountry = onlyCountryArg ? onlyCountryArg.split('=')[1].toLowerCase() : null;
+const onlyScopes = onlyScopeArg
+  ? new Set(
+      onlyScopeArg
+        .split('=')[1]
+        .split(',')
+        .map((item) => item.trim().toLowerCase())
+        .filter(Boolean)
+    )
+  : null;
 
 const findings = [];
 const questionIdSeen = new Map();
@@ -29,6 +39,7 @@ function walkMarkdownFiles(dir, acc = []) {
     const fullPath = path.join(dir, entry.name);
     if (entry.isDirectory()) {
       if (entry.name.endsWith('.assets')) continue;
+      if (fullPath.includes('questions_data_quarantine')) continue;
       walkMarkdownFiles(fullPath, acc);
     } else if (entry.isFile() && entry.name.endsWith('.md')) {
       if (entry.name.toLowerCase() === 'readme.md') continue;
@@ -124,12 +135,17 @@ function isPlaceholderSection(section) {
 function shouldSkipByScope(filePath, frontmatter) {
   if (onlyGrade !== null && Number(frontmatter.grado) !== onlyGrade) return true;
 
+  if (onlyScopes) {
+    const rel = relative(filePath).toLowerCase();
+    const scope = rel.split('/')[2] || '';
+    if (!onlyScopes.has(scope)) return true;
+  }
+
   if (onlyCountry) {
     const rel = relative(filePath).toLowerCase();
-    // src/content/questions/{country}/...
     const parts = rel.split('/');
-    const country = parts.length >= 4 ? parts[3] : '';
-    if (country !== onlyCountry) return true;
+    const scope = parts.length >= 3 ? parts[2] : '';
+    if (scope !== onlyCountry) return true;
   }
 
   return false;
@@ -182,6 +198,8 @@ function validateFile(filePath) {
 
   const v3 = isV3Bundle(data, filePath);
   const v4 = isV4Bundle(data, filePath);
+  const protocolVersion = String(data.protocol_version || data.bundle_version || '').trim();
+  const v5 = protocolVersion.startsWith('5') || path.basename(filePath).toLowerCase().includes('mastery-bundle');
 
   if (data.total_questions !== undefined && Number(data.total_questions) !== inferredQuestionCount) {
     const msg = `total_questions=${data.total_questions} no coincide con preguntas detectadas=${inferredQuestionCount}`;
@@ -203,6 +221,27 @@ function validateFile(filePath) {
     if (inferredQuestionCount !== 10) {
       const msg = `Bundle v3 debe contener 10 preguntas (detectadas=${inferredQuestionCount})`;
       addFinding(strictScopeV3 ? 'error' : 'warning', relFile, msg);
+    }
+  }
+
+  if (v5) {
+    const requiredV5 = ['country', 'grado', 'asignatura', 'tema', 'periodo', 'bundle_index'];
+    for (const key of requiredV5) {
+      if (data[key] === undefined || data[key] === null || String(data[key]).trim() === '') {
+        addFinding('error', relFile, `Bundle v5 sin frontmatter obligatorio: "${key}"`);
+      }
+    }
+
+    if (![1, 2, 3, 4].includes(Number(data.periodo))) {
+      addFinding('error', relFile, 'Bundle v5 sin "periodo" válido (1-4).');
+    }
+
+    if (!String(data.alignment || '').trim()) {
+      addFinding('warning', relFile, 'Bundle v5 sin campo recomendado "alignment".');
+    }
+
+    if (data.calibration === undefined) {
+      addFinding('warning', relFile, 'Bundle v5 sin bloque recomendado "calibration".');
     }
   }
 
@@ -282,6 +321,7 @@ function main() {
   console.log(`- Archivos analizados: ${files.length}`);
   if (onlyGrade !== null) console.log(`- Filtro grado: ${onlyGrade}`);
   if (onlyCountry) console.log(`- Filtro país: ${onlyCountry}`);
+  if (onlyScopes) console.log(`- Filtro scope: ${[...onlyScopes].join(', ')}`);
   console.log(`- Modo estricto v3: ${strictV3 ? 'ON' : 'OFF'}`);
   console.log(`- Fail on error: ${failOnError ? 'ON' : 'OFF'}`);
   console.log(`- Errores: ${errors.length}`);

@@ -10,7 +10,7 @@
 | **Tipo** | Monorepo SaaS Educativo |
 | **Descripción** | Plataforma educativa para Colombia - Producto "SaberParaTodos" |
 | **Stack** | TypeScript, Node.js, Supabase, Rust |
-| **Último análisis** | 2026-03-16 |
+| **Último análisis** | 2026-03-17 |
 
 ## Estructura
 
@@ -26,6 +26,12 @@ worldexams/
 ├── skills/          # Skills de agentes
 └── AGENTS.md         # Definición de agentes
 ```
+
+## Módulos Detectados
+
+- lib
+- middleware
+- question-generator
 
 ## Productos/Servicios
 

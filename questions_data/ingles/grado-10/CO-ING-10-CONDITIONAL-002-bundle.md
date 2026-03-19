@@ -23,7 +23,6 @@ bundle_version: '2.0'
 dificultad: 3
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
-
 ---
 
 # Pregunta Base: The Lottery

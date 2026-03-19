@@ -130,7 +130,7 @@
         >
           <span
             class={`inline-block h-3.5 w-3.5 transform rounded-full bg-white transition-transform ${includeEnglish ? 'translate-x-5' : 'translate-x-1'}`}
-          />
+          ></span>
         </button>
       </div>
 

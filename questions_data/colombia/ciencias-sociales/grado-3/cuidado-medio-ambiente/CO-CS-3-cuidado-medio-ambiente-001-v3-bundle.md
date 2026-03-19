@@ -17,6 +17,8 @@ source: "Mineducacion Colombia - DBA"
 source_url: "https://www.mineducacion.gov.co/portal/men/Publicaciones/Guias/340021:Derechos-Basicos-de-Aprendizaje-DBA"
 source_license: "CC BY-SA 4.0"
 search_query: "DBA ciencias sociales grado 3 colombia cuidado medio ambiente reciclaje"
+quarantine: true
+bundle_status: "quarantined"
 ---
 
 # Pregunta Base: El cuidado de nuestro entorno

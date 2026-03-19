@@ -1,10 +1,10 @@
 # Cloudflare Pages configuration for saberparatodos
 name = "saberparatodos"
-compatibility_date = "2024-01-01"
+compatibility_date = "2025-01-01"
 pages_build_output_dir = "dist"
 
-# Enable Node.js compatibility for crypto and other modules
-compatibility_flags = ["nodejs_compat"]
+# Enable Node.js compatibility v2 (required for @astrojs/cloudflare v13+)
+compatibility_flags = ["nodejs_compat_v2"]
 
 # Environment variables (non-sensitive)
 [vars]

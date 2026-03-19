@@ -16,6 +16,8 @@ creador: "Antigravity (Protocol v4.1 - Enfoque 2026)"
 generation_date: "2026-03-03"
 source: "Wellness Integration / ICFES 2026"
 source_license: "CC BY-SA 4.0"
+quarantine: true
+bundle_status: "quarantined"
 ---
 
 # Bundle: Sustainable Habits (Integrated Part 2 & 3)

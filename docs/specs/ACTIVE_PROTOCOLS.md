@@ -1,6 +1,6 @@
 # Active Protocols
 
-Last updated: 2026-03-10
+Last updated: 2026-03-17
 
 ## Purpose
 
@@ -11,7 +11,7 @@ If another protocol document conflicts with this file, validate against the root
 
 | Area | Default authority | Notes |
 |---|---|---|
-| Question generation | `docs/QUESTION_GENERATION_PROTOCOL_V3.md` | Default for new bundle generation |
+| Question generation | `docs/QUESTION_GENERATION_PROTOCOL_V5.md` | Default for new Grade 11 `MASTERY` generation in `questions_data/`; v3 remains historical for legacy bundles |
 | Country onboarding | `docs/specs/REPLICACION.md` | New countries should reuse shared logic/UI |
 | Product deploy | `saberparatodos/PROTOCOLO_DEPLOY_CLI.md` | Manual CLI deploy path |
 | Repo governance | `README.md`, `AGENTS.md`, `.gitcore/ARCHITECTURE.md` | Root layer wins |
@@ -21,6 +21,7 @@ If another protocol document conflicts with this file, validate against the root
 | File | Current role | Rule |
 |---|---|---|
 | `docs/QUESTION_GENERATION_PROTOCOL_V2.md` | historical migration reference for v2.x bundles | Do not use as the default for new generation work |
+| `docs/QUESTION_GENERATION_PROTOCOL_V3.md` | legacy default for older 10-question bundles | Use only for maintaining legacy v3 content; do not use for new Grade 11 mastery work |
 | `docs/MODERN_QUESTIONS_PROTOCOL.md` | specialized style overlay | Use only if explicitly requested and reconcile with v3 first |
 | `docs/API_REAL_SETUP.md` | historical API setup snapshot | Validate runtime/package paths before using it |
 

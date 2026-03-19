@@ -11,7 +11,6 @@ total_questions: 10
 international_focus: TOEFL Reading & Arts
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
-
 ---
 # Topic: Arts & Culture (B2)
 

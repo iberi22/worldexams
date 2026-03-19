@@ -1,3 +1,5 @@
+import { isBundleQuarantined } from './quarantine-registry';
+
 type LocalBankQuestion = {
   id: string;
   statement: string;
@@ -11,6 +13,8 @@ type LocalBankQuestion = {
   tema?: string;
   periodo?: number;
   protocol_version?: string;
+  quarantine?: boolean;
+  bundleStatus?: string;
 };
 
 const rawGrade11Bundles = import.meta.glob('../../../../questions_data/colombia/{matematicas,lectura-critica,ciencias-naturales,sociales-ciudadanas,ingles}/grado-11/**/*.md', {
@@ -107,6 +111,20 @@ function parseLocalBundle(filePath: string, raw: string): LocalBankQuestion[] {
   const period = Number(frontmatter.periodo || 0) || undefined;
   const bundleId = String(frontmatter.id || '').trim() || filePath.split('/').pop()?.replace(/\.md$/i, '') || '';
   const topic = String(frontmatter.tema || '').trim() || undefined;
+  const quarantine = String(frontmatter.quarantine || '').trim().toLowerCase() === 'true';
+  const bundleStatus = String(frontmatter.bundle_status || '').trim() || undefined;
+  const relativeBundlePath = filePath.split('/questions_data/')[1]
+    ? `questions_data/${filePath.split('/questions_data/')[1]}`
+    : filePath;
+
+  if (isBundleQuarantined({
+    bundleId,
+    filePath: relativeBundlePath,
+    quarantine,
+    bundleStatus,
+  })) {
+    return [];
+  }
 
   return parseQuestionSections(body)
     .map((section) => {
@@ -135,6 +153,8 @@ function parseLocalBundle(filePath: string, raw: string): LocalBankQuestion[] {
         tema: topic,
         periodo: period,
         protocol_version: frontmatter.protocol_version || undefined,
+        quarantine,
+        bundleStatus,
       } satisfies LocalBankQuestion;
     })
     .filter((question): question is NonNullable<typeof question> => question !== null);

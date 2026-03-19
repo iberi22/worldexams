@@ -16,6 +16,8 @@ creador: "Antigravity (Protocol v4.1)"
 generation_date: "2026-03-10"
 source: "Ministerio de Educación - Lineamientos 2026"
 source_license: "CC BY-SA 4.0"
+quarantine: true
+bundle_status: "quarantined"
 ---
 
 # Bundle Ciencias Naturales G11 - Periodo 2: Biomoléculas y Energía

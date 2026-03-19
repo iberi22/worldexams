@@ -1,0 +1,12 @@
+[2m20:36:17[22m [34m[@astrojs/cloudflare][39m Enabling compile-time image optimization. Images will be pre-optimized at build time.
+[2m20:36:17[22m [34m[@astrojs/cloudflare][39m Enabling sessions with Cloudflare KV with the "SESSION" KV binding.
+8:36:17 p.m. [vite-plugin-svelte] no Svelte config found at E:/scripts-python/worldexams/saberparatodos - using default configuration.
+Unsupported Node.js compat mode (v1). Only the v2 mode is supported, either change your compat date to "2024-09-23" or later, or set the "nodejs_compat_v2" compatibility flag
+  Location:
+    E:\scripts-python\worldexams\saberparatodos\node_modules\@astrojs\cloudflare\node_modules\@cloudflare\vite-plugin\dist\index.mjs:14256:37
+  Stack trace:
+    at hasNodeJsCompat (file:///E:/scripts-python/worldexams/saberparatodos/node_modules/@astrojs/cloudflare/node_modules/@cloudflare/vite-plugin/dist/index.mjs:14256:37)
+    at resolvePluginConfig (file:///E:/scripts-python/worldexams/saberparatodos/node_modules/@astrojs/cloudflare/node_modules/@cloudflare/vite-plugin/dist/index.mjs:14643:61)
+    at runConfigHook (file:///E:/scripts-python/worldexams/saberparatodos/node_modules/astro/node_modules/vite/dist/node/chunks/config.js:35936:42)
+    at async _createServer (file:///E:/scripts-python/worldexams/saberparatodos/node_modules/astro/node_modules/vite/dist/node/chunks/config.js:25362:67)
+    at async createContainerWithAutomaticRestart (file:///E:/scripts-python/worldexams/saberparatodos/node_modules/astro/dist/core/dev/restart.js:108:28)

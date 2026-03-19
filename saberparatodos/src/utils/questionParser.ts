@@ -1,4 +1,5 @@
 import type { Question, Option } from '../types';
+import { isBundleQuarantined } from '../lib/questions/quarantine-registry';
 
 /**
  * Legacy type for compatibility with old question parser code
@@ -21,8 +22,18 @@ export type QuestionEntry = {
     dificultad?: number;
     cefr_level?: string;
     cefrLevel?: string;
+    quarantine?: boolean | string;
+    bundle_status?: string;
   };
 };
+
+export function isEntryQuarantined(entry: QuestionEntry): boolean {
+  return isBundleQuarantined({
+    bundleId: entry.data.id,
+    quarantine: entry.data.quarantine,
+    bundleStatus: entry.data.bundle_status,
+  });
+}
 
 /**
  * Clean metadata from explanation text
@@ -120,6 +131,10 @@ export function normalizeDifficulty(difficulty: number | string | undefined): nu
  * Parse a legacy single-question format (# Pregunta, # Opciones, # Explicación)
  */
 export function parseQuestion(entry: QuestionEntry): Question {
+  if (isEntryQuarantined(entry)) {
+    throw new Error(`Quarantined bundle cannot be parsed: ${entry.data.id}`);
+  }
+
   const body = entry.body;
   const frontmatter = entry.data;
 
@@ -176,6 +191,8 @@ export function parseQuestion(entry: QuestionEntry): Question {
  * Parse all questions from a V2.1 bundle format
  */
 export function parseBundleQuestions(entry: QuestionEntry): ParsedBundleQuestion[] {
+  if (isEntryQuarantined(entry)) return [];
+
   const body = entry.body;
   const questions: ParsedBundleQuestion[] = [];
 
@@ -416,6 +433,7 @@ function convertBundleQuestionToQuestion(
  * Get a random question from a bundle
  */
 export function getRandomQuestionFromBundle(entry: QuestionEntry): Question | null {
+  if (isEntryQuarantined(entry)) return null;
   const questions = parseBundleQuestions(entry);
 
   if (questions.length === 0) {
@@ -434,6 +452,7 @@ export function getQuestionByDifficulty(
   entry: QuestionEntry,
   targetDifficulty: number
 ): Question | null {
+  if (isEntryQuarantined(entry)) return null;
   const questions = parseBundleQuestions(entry);
 
   const matching = questions.filter(q => q.difficulty === targetDifficulty);
@@ -456,6 +475,7 @@ export function getQuestionByDifficulty(
  * Get all questions from a bundle as Question[] for ExamView
  */
 export function getAllQuestionsFromBundle(entry: QuestionEntry): Question[] {
+  if (isEntryQuarantined(entry)) return [];
   const bundleQuestions = parseBundleQuestions(entry);
   return bundleQuestions.map(bq => convertBundleQuestionToQuestion(bq, entry.data));
 }
@@ -464,6 +484,7 @@ export function getAllQuestionsFromBundle(entry: QuestionEntry): Question[] {
  * Check if an entry is a bundle (V2.1 format)
  */
 export function isBundle(entry: QuestionEntry): boolean {
+  if (isEntryQuarantined(entry)) return false;
   return (
     (entry.data.total_questions !== undefined && entry.data.total_questions > 1) ||
     entry.body.includes('## Pregunta') ||
@@ -497,6 +518,8 @@ export function filterUniversalQuestions(
 ): QuestionEntry[] {
   return entries.filter(entry => {
     const data = entry.data;
+
+    if (isEntryQuarantined(entry)) return false;
 
     // Must be marked as universal
     if (!data.universal_question) return false;

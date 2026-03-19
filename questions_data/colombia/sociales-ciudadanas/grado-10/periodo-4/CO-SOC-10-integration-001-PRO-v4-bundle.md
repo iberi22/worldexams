@@ -12,6 +12,8 @@ question_types: ["single", "multi-correct", "weighted"]
 estado: "draft"
 creador: "Antigravity (Protocol v4.1)"
 generation_date: "2026-03-03"
+quarantine: true
+bundle_status: "quarantined"
 ---
 
 ## Hoja de Simulacro — Sociales y Ciudadanas G10

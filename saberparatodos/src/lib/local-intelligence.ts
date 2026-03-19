@@ -1,6 +1,7 @@
 
 import { getAllLocalResults } from './idb-storage'; // Fix import path if needed (idb-storage is in same folder)
 import { calculateNewMMR, BASE_MMR, getRankTitle, getSimulatedIcfesScore } from './mmr-system';
+import { generatePrompt, type UserProfileData } from './prompt-service';
 
 export interface CompetencyStats {
   id: string;
@@ -227,32 +228,7 @@ export async function generateUserProfile(): Promise<UserProfile> {
  * Generate a smart prompt for External AI (NotebookLM/ChatGPT)
  */
 export function generateAIAnalysisPrompt(profile: UserProfile): string {
-  const score = profile.simulatedIcfesScore;
-  const weakTopics = profile.advancedMetrics.worstTopics.map(t => `- ${t.name} (Acc: ${Math.round(t.accuracy * 100)}%)`).join('\n');
-  const speedDiff = profile.advancedMetrics.avgTimeIncorrect - profile.advancedMetrics.avgTimeCorrect;
-
-  let speedProfile = "Balanced pace.";
-  if (profile.advancedMetrics.avgTimeCorrect > 0) {
-    if (speedDiff < -5000) speedProfile = "Impulsive thinker (Answers incorrect questions much faster). needs to slow down.";
-    if (speedDiff > 5000) speedProfile = "Overthinker on wrong answers (Spends too much time being stuck).";
-  }
-
-  return `
-Role: Expert Academic Tutor for Colombia's Pruebas de Estado Saber 11.
-Student Profile:
-- Current Score: ${score}/500 (${profile.rankTitle})
-- Consistency: ${profile.advancedMetrics.consistencyScore}/100
-- Speed Profile: ${speedProfile}
-
-Critical Weaknesses to Address:
-${weakTopics || "None detected yet."}
-
-Task:
-Generate a 3-day personalized intensive study plan.
-1. Focus specifically on the weaknesses listed above.
-2. Provide 2 specific "Drill Exercises" for each weak topic.
-3. Suggest a mental strategy based on the Speed Profile.
-`.trim();
+  return "Análisis deshabilitado temporalmente para debugging.";
 }
 
 /**

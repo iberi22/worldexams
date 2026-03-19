@@ -16,6 +16,8 @@ creador: "Antigravity (Protocol v4.0)"
 generation_date: "2026-03-03"
 source: "Colombia Aprende / DBA Inglés / ICFES"
 source_license: "CC BY-SA 4.0"
+quarantine: true
+bundle_status: "quarantined"
 ---
 
 # Bundle: Literal Reading Comprehension (ICFES Parts 1 & 5)

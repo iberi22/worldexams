@@ -16,6 +16,8 @@ creador: "Antigravity (Protocol v4.1 - High Complexity)"
 generation_date: "2026-03-10"
 source: "Estructura Oficial SABER 11 / Literatura Universal"
 source_license: "CC BY-SA 4.0"
+quarantine: true
+bundle_status: "quarantined"
 ---
 
 # Bundle Lectura Crítica G11 - Periodo 1: Literatura y Crítica

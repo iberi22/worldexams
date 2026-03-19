@@ -17,6 +17,8 @@ source: "Mineducacion Colombia - DBA"
 source_url: "https://www.mineducacion.gov.co/portal/men/Publicaciones/Guias/340021:Derechos-Basicos-de-Aprendizaje-DBA"
 source_license: "CC BY-SA 4.0"
 search_query: "DBA ciencias naturales quimica grado 10 colombia materia propiedades intrinsecas extrinsecas densidad cambios fisicos quimicos"
+quarantine: true
+bundle_status: "quarantined"
 ---
 
 # Pregunta Base: ¿De qué está hecho todo?

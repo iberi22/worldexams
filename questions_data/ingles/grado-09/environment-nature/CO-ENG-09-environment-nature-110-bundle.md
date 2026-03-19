@@ -11,7 +11,6 @@ total_questions: 10
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
-
 ---
 # TOPIC: Environment & Nature Conservation (B1+)
 

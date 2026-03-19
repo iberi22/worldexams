@@ -1,0 +1,3246 @@
+{
+  "summary": {
+    "generated_at": "2026-03-17T16:07:23.018Z",
+    "scope": [
+      "colombia",
+      "ingles"
+    ],
+    "grades": {
+      "min": 3,
+      "max": 11
+    },
+    "totals": {
+      "bundles_scanned": 1523,
+      "bundles_quarantine": 168,
+      "questions_scanned": 15802,
+      "questions_flagged": 9327
+    },
+    "by_severity": {
+      "critical": 141,
+      "high": 79,
+      "medium": 1197,
+      "low": 106
+    },
+    "by_scope": {
+      "colombia": {
+        "bundles": 1268,
+        "quarantine": 155,
+        "questions": 13425
+      },
+      "ingles": {
+        "bundles": 255,
+        "quarantine": 13,
+        "questions": 2377
+      }
+    },
+    "by_grade_subject": {
+      "3": {
+        "ciencias naturales": {
+          "bundles": 21,
+          "quarantine": 2
+        },
+        "ciencias sociales": {
+          "bundles": 16,
+          "quarantine": 1
+        },
+        "ingles": {
+          "bundles": 62,
+          "quarantine": 0
+        },
+        "sociales ciudadanas": {
+          "bundles": 5,
+          "quarantine": 0
+        },
+        "matematicas": {
+          "bundles": 62,
+          "quarantine": 0
+        },
+        "lectura critica": {
+          "bundles": 10,
+          "quarantine": 0
+        },
+        "tecnologia informatica": {
+          "bundles": 1,
+          "quarantine": 0
+        }
+      },
+      "4": {
+        "ciencias sociales": {
+          "bundles": 16,
+          "quarantine": 1
+        },
+        "ciencias naturales": {
+          "bundles": 16,
+          "quarantine": 1
+        },
+        "ingles": {
+          "bundles": 23,
+          "quarantine": 0
+        },
+        "matematicas": {
+          "bundles": 56,
+          "quarantine": 0
+        }
+      },
+      "5": {
+        "sociales": {
+          "bundles": 16,
+          "quarantine": 1
+        },
+        "ciencias naturales": {
+          "bundles": 16,
+          "quarantine": 0
+        },
+        "ingles": {
+          "bundles": 24,
+          "quarantine": 0
+        },
+        "matematicas": {
+          "bundles": 16,
+          "quarantine": 0
+        }
+      },
+      "6": {
+        "ciencias naturales": {
+          "bundles": 16,
+          "quarantine": 2
+        },
+        "sociales": {
+          "bundles": 16,
+          "quarantine": 0
+        },
+        "ingles": {
+          "bundles": 56,
+          "quarantine": 0
+        },
+        "matematicas": {
+          "bundles": 16,
+          "quarantine": 0
+        }
+      },
+      "7": {
+        "ciencias naturales": {
+          "bundles": 16,
+          "quarantine": 0
+        },
+        "sociales": {
+          "bundles": 16,
+          "quarantine": 0
+        },
+        "ingles": {
+          "bundles": 64,
+          "quarantine": 0
+        },
+        "matematicas": {
+          "bundles": 16,
+          "quarantine": 0
+        },
+        "tecnologia e informatica": {
+          "bundles": 1,
+          "quarantine": 0
+        }
+      },
+      "8": {
+        "ingles": {
+          "bundles": 67,
+          "quarantine": 2
+        },
+        "sociales": {
+          "bundles": 16,
+          "quarantine": 0
+        },
+        "ciencias naturales": {
+          "bundles": 16,
+          "quarantine": 1
+        },
+        "matematicas": {
+          "bundles": 16,
+          "quarantine": 0
+        }
+      },
+      "9": {
+        "ingles": {
+          "bundles": 48,
+          "quarantine": 23
+        },
+        "matematicas": {
+          "bundles": 22,
+          "quarantine": 5
+        },
+        "ciencias naturales": {
+          "bundles": 16,
+          "quarantine": 1
+        },
+        "sociales": {
+          "bundles": 16,
+          "quarantine": 0
+        }
+      },
+      "10": {
+        "ingles": {
+          "bundles": 63,
+          "quarantine": 22
+        },
+        "lectura critica": {
+          "bundles": 5,
+          "quarantine": 5
+        },
+        "ciencias naturales": {
+          "bundles": 70,
+          "quarantine": 6
+        },
+        "sociales ciudadanas": {
+          "bundles": 5,
+          "quarantine": 5
+        },
+        "matematicas": {
+          "bundles": 57,
+          "quarantine": 5
+        },
+        "sociales": {
+          "bundles": 31,
+          "quarantine": 0
+        },
+        "ciencias sociales": {
+          "bundles": 16,
+          "quarantine": 0
+        },
+        "filosofia": {
+          "bundles": 16,
+          "quarantine": 0
+        }
+      },
+      "11": {
+        "preuniversitario": {
+          "bundles": 10,
+          "quarantine": 10
+        },
+        "ciencias naturales": {
+          "bundles": 71,
+          "quarantine": 8
+        },
+        "sociales ciudadanas": {
+          "bundles": 7,
+          "quarantine": 7
+        },
+        "matematicas": {
+          "bundles": 127,
+          "quarantine": 23
+        },
+        "ingles": {
+          "bundles": 140,
+          "quarantine": 29
+        },
+        "lectura critica": {
+          "bundles": 42,
+          "quarantine": 8
+        },
+        "sociales": {
+          "bundles": 24,
+          "quarantine": 0
+        },
+        "ciencias sociales": {
+          "bundles": 16,
+          "quarantine": 0
+        },
+        "filosofia": {
+          "bundles": 16,
+          "quarantine": 0
+        },
+        "sociales y ciudadanas": {
+          "bundles": 13,
+          "quarantine": 0
+        }
+      }
+    },
+    "reason_codes": {
+      "multiple-correct-options": 518,
+      "option-length-imbalance": 5963,
+      "option-category-mismatch": 1627,
+      "english-pos-outlier": 22,
+      "invalid-option-count": 713,
+      "correct-shape-outlier": 5606,
+      "grammatical-outlier": 790,
+      "missing-id": 50,
+      "missing-correct-option": 22,
+      "absurd-distractor": 58,
+      "english-register-outlier": 412,
+      "thin-statement": 2885,
+      "weak-distractor-pair": 5,
+      "lexical-isolation": 66,
+      "all-or-none-option": 3
+    }
+  },
+  "bundles": [
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-10/periodo-4/CO-ENG-10-identity-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "ingles",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 45,
+      "structural_issues": [],
+      "reason_codes": [
+        "multiple-correct-options",
+        "option-length-imbalance",
+        "option-category-mismatch",
+        "english-pos-outlier",
+        "invalid-option-count",
+        "correct-shape-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/preuniversitario/ucaldas/general/simulacro/CO-PREU-UCALDAS-001-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "Preuniversitario",
+      "period": null,
+      "protocol": 2,
+      "severity": "critical",
+      "score": 50,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-category-mismatch",
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "grammatical-outlier",
+        "missing-id",
+        "invalid-option-count",
+        "missing-correct-option"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/lectura-critica/grado-10/periodo-3/CO-LEC-10-multimodal-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "lectura-critica",
+      "period": 3,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 51,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "grammatical-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ciencias-naturales/grado-10/periodo-4/CO-CN-10-integration-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "ciencias-naturales",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 52,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "multiple-correct-options",
+        "grammatical-outlier",
+        "invalid-option-count"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ciencias-naturales/grado-11/periodo-4/CO-CN-11-solutions-equilibrium-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "ciencias-naturales",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 52,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "option-category-mismatch",
+        "absurd-distractor",
+        "grammatical-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/sociales-ciudadanas/grado-11/periodo-3/CO-SOC-11-constitution-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "sociales-ciudadanas",
+      "period": 3,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 53,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-category-mismatch",
+        "multiple-correct-options",
+        "correct-shape-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ciencias-naturales/grado-11/periodo-1/CO-CIE-11-physics-002-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "ciencias-naturales",
+      "period": 1,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 54,
+      "structural_issues": [],
+      "reason_codes": [
+        "multiple-correct-options",
+        "correct-shape-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/matematicas/grado-11/periodo-1/CO-MAT-11-calculus-002-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "matematicas",
+      "period": 1,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 54,
+      "structural_issues": [],
+      "reason_codes": [
+        "multiple-correct-options",
+        "correct-shape-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-9/periodo-2/CO-ENG-09-conversations-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 9,
+      "subject": "ingles",
+      "period": 2,
+      "protocol": 4,
+      "severity": "critical",
+      "score": 55,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "option-category-mismatch",
+        "english-register-outlier",
+        "multiple-correct-options",
+        "correct-shape-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ciencias-naturales/grado-10/quimica-materia-propiedades/CO-CN-10-quimica-materia-propiedades-001-v3-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "ciencias-naturales",
+      "period": 1,
+      "protocol": 3,
+      "severity": "critical",
+      "score": 56,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "thin-statement",
+        "grammatical-outlier",
+        "absurd-distractor",
+        "weak-distractor-pair",
+        "option-category-mismatch"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/matematicas/grado-11/periodo-2/CO-MAT-11-applications-derivatives-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "matematicas",
+      "period": 2,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 56,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "option-category-mismatch",
+        "lexical-isolation",
+        "grammatical-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/sociales-ciudadanas/grado-10/periodo-4/CO-SOC-10-political-science-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "sociales-ciudadanas",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 56,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "option-category-mismatch",
+        "grammatical-outlier",
+        "multiple-correct-options"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ciencias-naturales/grado-11/periodo-3/CO-CN-11-electromagnetism-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "ciencias-naturales",
+      "period": 3,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 57,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "option-category-mismatch"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/matematicas/grado-10/periodo-4/CO-MAT-10-integration-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "matematicas",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 57,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "option-category-mismatch",
+        "correct-shape-outlier",
+        "grammatical-outlier",
+        "multiple-correct-options",
+        "invalid-option-count"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ciencias-naturales/grado-11/periodo-2/CO-CIE-11-biomolecules-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "ciencias-naturales",
+      "period": 2,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 58,
+      "structural_issues": [],
+      "reason_codes": [
+        "multiple-correct-options",
+        "option-category-mismatch",
+        "correct-shape-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-11/periodo-1/CO-ENG-11-lexical-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "ingles",
+      "period": 1,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 58,
+      "structural_issues": [],
+      "reason_codes": [
+        "english-register-outlier",
+        "multiple-correct-options",
+        "correct-shape-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-9/periodo-4/CO-ENG-09-artistic-004-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 9,
+      "subject": "ingles",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 58,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "english-register-outlier",
+        "multiple-correct-options",
+        "correct-shape-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/lectura-critica/grado-11/periodo-1/CO-LEC-11-rhetoric-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "lectura-critica",
+      "period": 1,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 58,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-category-mismatch",
+        "multiple-correct-options",
+        "correct-shape-outlier",
+        "option-length-imbalance",
+        "grammatical-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/lectura-critica/grado-11/periodo-4/CO-LEC-11-simulation-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "lectura-critica",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 58,
+      "structural_issues": [],
+      "reason_codes": [
+        "multiple-correct-options",
+        "option-category-mismatch",
+        "correct-shape-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/matematicas/grado-11/periodo-1/CO-MAT-11-functions-002-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "matematicas",
+      "period": 1,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 58,
+      "structural_issues": [],
+      "reason_codes": [
+        "multiple-correct-options",
+        "option-length-imbalance",
+        "correct-shape-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/matematicas/grado-11/periodo-3/CO-MAT-11-conics-002-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "matematicas",
+      "period": 3,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 58,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "grammatical-outlier",
+        "option-category-mismatch",
+        "lexical-isolation"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/matematicas/grado-11/periodo-3/CO-MAT-11-definite-integrals-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "matematicas",
+      "period": 3,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 58,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "grammatical-outlier",
+        "thin-statement",
+        "option-category-mismatch"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/matematicas/grado-11/periodo-4/CO-MAT-11-probability-advanced-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "matematicas",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 58,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "grammatical-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ciencias-naturales/grado-10/periodo-4/CO-CN-10-ecology-thermo-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "ciencias-naturales",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 59,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "grammatical-outlier",
+        "multiple-correct-options",
+        "option-category-mismatch"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ciencias-naturales/grado-11/periodo-2/CO-CN-11-organic-chemistry-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "ciencias-naturales",
+      "period": 2,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 59,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "grammatical-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/lectura-critica/grado-10/periodo-2/CO-LEC-10-expository-argumentative-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "lectura-critica",
+      "period": 2,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 59,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "option-category-mismatch",
+        "correct-shape-outlier",
+        "grammatical-outlier",
+        "multiple-correct-options"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/lectura-critica/grado-10/periodo-4/CO-LEC-10-integration-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "lectura-critica",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 59,
+      "structural_issues": [],
+      "reason_codes": [
+        "correct-shape-outlier",
+        "grammatical-outlier",
+        "option-length-imbalance",
+        "option-category-mismatch",
+        "multiple-correct-options"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/matematicas/grado-11/periodo-2/CO-MAT-11-differential-integration-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "matematicas",
+      "period": 2,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 59,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "grammatical-outlier",
+        "option-category-mismatch"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/matematicas/grado-11/periodo-4/CO-MAT-11-counting-techniques-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "matematicas",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 59,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "grammatical-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ciencias-naturales/grado-11/periodo-1/CO-CIE-11-physics-003-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "ciencias-naturales",
+      "period": 1,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 60,
+      "structural_issues": [],
+      "reason_codes": [
+        "correct-shape-outlier",
+        "multiple-correct-options",
+        "option-category-mismatch",
+        "option-length-imbalance",
+        "grammatical-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/matematicas/grado-11/periodo-4/CO-MAT-11-integration-math-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "matematicas",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 60,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "grammatical-outlier",
+        "invalid-option-count",
+        "multiple-correct-options"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/matematicas/grado-11/periodo-4/CO-MAT-11-sampling-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "matematicas",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 60,
+      "structural_issues": [],
+      "reason_codes": [
+        "correct-shape-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "option-length-imbalance",
+        "option-category-mismatch",
+        "grammatical-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/preuniversitario/udea/general/simulacro/CO-PREU-UDEA-001-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "Preuniversitario",
+      "period": null,
+      "protocol": 2,
+      "severity": "critical",
+      "score": 60,
+      "structural_issues": [],
+      "reason_codes": [
+        "all-or-none-option",
+        "missing-id",
+        "invalid-option-count",
+        "missing-correct-option"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/sociales-ciudadanas/grado-11/periodo-1/CO-SOC-11-historical-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "sociales-ciudadanas",
+      "period": 1,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 60,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-category-mismatch",
+        "multiple-correct-options",
+        "correct-shape-outlier",
+        "grammatical-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ciencias-naturales/grado-11/periodo-4/CO-CN-11-waves-optics-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "ciencias-naturales",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 61,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "grammatical-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-11/periodo-1/CO-ENG-11-proficiency-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "ingles",
+      "period": 1,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 61,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "multiple-correct-options",
+        "english-register-outlier",
+        "option-category-mismatch",
+        "grammatical-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/lectura-critica/grado-11/periodo-1/CO-LEC-11-narrative-texts-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "lectura-critica",
+      "period": 1,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 61,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "invalid-option-count",
+        "multiple-correct-options"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/lectura-critica/grado-11/periodo-4/CO-LEC-11-philosophical-texts-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "lectura-critica",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 61,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-category-mismatch",
+        "correct-shape-outlier",
+        "grammatical-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "option-length-imbalance"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/matematicas/grado-11/periodo-3/CO-MAT-11-analytic-geometry-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "matematicas",
+      "period": 3,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 61,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "grammatical-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/sociales-ciudadanas/grado-10/periodo-4/CO-SOC-10-integration-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "sociales-ciudadanas",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 61,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "option-category-mismatch",
+        "multiple-correct-options",
+        "grammatical-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/sociales-ciudadanas/grado-11/periodo-1/CO-SOC-11-colombia-20th-century-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "sociales-ciudadanas",
+      "period": 1,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 61,
+      "structural_issues": [],
+      "reason_codes": [
+        "correct-shape-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "option-category-mismatch",
+        "grammatical-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ciencias-naturales/grado-11/periodo-1/CO-CN-11-genetics-molecular-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "ciencias-naturales",
+      "period": 1,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 62,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "grammatical-outlier",
+        "option-category-mismatch"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-11/periodo-2/CO-ENG-11-reported-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "ingles",
+      "period": 2,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 62,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/matematicas/grado-11/periodo-3/CO-MAT-11-conics-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "matematicas",
+      "period": 3,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 62,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "lexical-isolation",
+        "grammatical-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ciencias-naturales/grado-10/periodo-3/CO-CN-10-newton-laws-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "ciencias-naturales",
+      "period": 3,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 63,
+      "structural_issues": [],
+      "reason_codes": [
+        "correct-shape-outlier",
+        "option-length-imbalance",
+        "lexical-isolation",
+        "multiple-correct-options",
+        "grammatical-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-10/periodo-1/CO-ENG-10-climate-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "ingles",
+      "period": 1,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 63,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "multiple-correct-options",
+        "option-length-imbalance",
+        "option-category-mismatch"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-10/periodo-2/CO-ENG-10-mental-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "ingles",
+      "period": 2,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 63,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/lectura-critica/grado-11/periodo-2/CO-LEC-11-argumentative-essays-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "lectura-critica",
+      "period": 2,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 63,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier",
+        "option-length-imbalance",
+        "option-category-mismatch"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/lectura-critica/grado-11/periodo-3/CO-LEC-11-infographics-discontinuous-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "lectura-critica",
+      "period": 3,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 63,
+      "structural_issues": [],
+      "reason_codes": [
+        "correct-shape-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "option-length-imbalance"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/matematicas/grado-11/periodo-1/CO-MAT-11-limits-advanced-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "matematicas",
+      "period": 1,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 63,
+      "structural_issues": [],
+      "reason_codes": [
+        "grammatical-outlier",
+        "option-length-imbalance",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier",
+        "lexical-isolation",
+        "option-category-mismatch"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/matematicas/grado-11/periodo-1/CO-MAT-11-limits-intro-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "matematicas",
+      "period": 1,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 63,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "grammatical-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier",
+        "option-category-mismatch"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/matematicas/grado-11/periodo-4/CO-MAT-11-data-analysis-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "matematicas",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 63,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "grammatical-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/sociales-ciudadanas/grado-11/periodo-2/CO-SOC-11-constitution-participation-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "sociales-ciudadanas",
+      "period": 2,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 63,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier",
+        "option-length-imbalance",
+        "grammatical-outlier",
+        "option-category-mismatch"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/sociales-ciudadanas/grado-11/periodo-4/CO-SOC-11-human-rights-conflict-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "sociales-ciudadanas",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 63,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "grammatical-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-11/periodo-2/CO-ENG-11-integration-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "ingles",
+      "period": 2,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 64,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier",
+        "option-length-imbalance",
+        "english-register-outlier",
+        "grammatical-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-11/periodo-4/CO-ENG-11-ethics-reading-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "ingles",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 64,
+      "structural_issues": [],
+      "reason_codes": [
+        "correct-shape-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "grammatical-outlier",
+        "english-register-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-11/periodo-4/CO-ENG-11-integration-003-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "ingles",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 64,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier",
+        "english-register-outlier",
+        "option-length-imbalance",
+        "option-category-mismatch",
+        "english-pos-outlier",
+        "grammatical-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-11/periodo-4/CO-ENG-11-poetry-reading-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "ingles",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 64,
+      "structural_issues": [],
+      "reason_codes": [
+        "correct-shape-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "grammatical-outlier",
+        "option-length-imbalance",
+        "english-register-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/matematicas/grado-11/periodo-1/CO-MAT-11-calculus-003-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "matematicas",
+      "period": 1,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 64,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "multiple-correct-options",
+        "correct-shape-outlier",
+        "grammatical-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/sociales-ciudadanas/grado-11/periodo-4/CO-SOC-11-geopolitics-environment-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "sociales-ciudadanas",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 64,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "grammatical-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-11/periodo-2/CO-ENG-11-conditionals-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "ingles",
+      "period": 2,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 65,
+      "structural_issues": [],
+      "reason_codes": [
+        "english-register-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-11/periodo-2/CO-ENG-11-relative-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "ingles",
+      "period": 2,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 65,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier",
+        "option-length-imbalance"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-11/periodo-4/CO-ENG-11-critique-reading-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "ingles",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 65,
+      "structural_issues": [],
+      "reason_codes": [
+        "english-register-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier",
+        "option-category-mismatch"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/lectura-critica/grado-11/periodo-1/CO-LEC-11-literature-002-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "lectura-critica",
+      "period": 1,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 65,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-category-mismatch",
+        "multiple-correct-options",
+        "correct-shape-outlier",
+        "invalid-option-count"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/matematicas/grado-11/periodo-2/CO-MAT-11-graphing-functions-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "matematicas",
+      "period": 2,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 65,
+      "structural_issues": [],
+      "reason_codes": [
+        "grammatical-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "option-category-mismatch"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ciencias-naturales/grado-10/periodo-1/CO-CN-10-cell-biotech-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "ciencias-naturales",
+      "period": 1,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 66,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "grammatical-outlier",
+        "multiple-correct-options",
+        "option-category-mismatch"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ciencias-naturales/grado-3/necesidades-basicas/CO-CN-3-necesidades-basicas-001-v3-bundle.md",
+      "scope": "colombia",
+      "grade": 3,
+      "subject": "ciencias-naturales",
+      "period": 1,
+      "protocol": 3,
+      "severity": "critical",
+      "score": 66,
+      "structural_issues": [],
+      "reason_codes": [
+        "absurd-distractor",
+        "weak-distractor-pair",
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "grammatical-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-11/periodo-2/CO-ENG-11-passive-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "ingles",
+      "period": 2,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 66,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier",
+        "option-category-mismatch",
+        "english-register-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-11/periodo-3/CO-ENG-11-future-reading-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "ingles",
+      "period": 3,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 66,
+      "structural_issues": [],
+      "reason_codes": [
+        "english-register-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier",
+        "option-category-mismatch"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/lectura-critica/grado-10/periodo-4/CO-LEC-10-latinamerican-lit-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "lectura-critica",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 66,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "grammatical-outlier",
+        "option-category-mismatch",
+        "multiple-correct-options"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-11/periodo-3/CO-ENG-11-integration-002-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "ingles",
+      "period": 3,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 67,
+      "structural_issues": [],
+      "reason_codes": [
+        "english-register-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier",
+        "option-category-mismatch"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-11/periodo-3/CO-ENG-11-space-reading-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "ingles",
+      "period": 3,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 67,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier",
+        "english-register-outlier",
+        "option-category-mismatch"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-11/periodo-4/CO-ENG-11-philosophy-reading-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "ingles",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 67,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier",
+        "option-category-mismatch"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/matematicas/grado-10/periodo-3/CO-MAT-10-conics-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "matematicas",
+      "period": 3,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 67,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "option-category-mismatch",
+        "multiple-correct-options",
+        "grammatical-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/matematicas/grado-11/periodo-2/CO-MAT-11-derivative-concept-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "matematicas",
+      "period": 2,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 67,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "grammatical-outlier",
+        "correct-shape-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/preuniversitario/uis/general/simulacro/CO-PREU-UIS-001-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "Preuniversitario",
+      "period": null,
+      "protocol": 2,
+      "severity": "critical",
+      "score": 67,
+      "structural_issues": [],
+      "reason_codes": [
+        "missing-id",
+        "invalid-option-count",
+        "missing-correct-option"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/preuniversitario/uniatlantico/general/simulacro/CO-PREU-UNIATLANTICO-001-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "Preuniversitario",
+      "period": null,
+      "protocol": 2,
+      "severity": "critical",
+      "score": 67,
+      "structural_issues": [],
+      "reason_codes": [
+        "missing-id",
+        "invalid-option-count",
+        "missing-correct-option"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/preuniversitario/unicartagena/general/simulacro/CO-PREU-UNICARTAGENA-001-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "Preuniversitario",
+      "period": null,
+      "protocol": 2,
+      "severity": "critical",
+      "score": 67,
+      "structural_issues": [],
+      "reason_codes": [
+        "missing-id",
+        "invalid-option-count",
+        "missing-correct-option"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/preuniversitario/unicauca/general/simulacro/CO-PREU-UNICAUCA-001-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "Preuniversitario",
+      "period": null,
+      "protocol": 2,
+      "severity": "critical",
+      "score": 67,
+      "structural_issues": [],
+      "reason_codes": [
+        "missing-id",
+        "invalid-option-count",
+        "missing-correct-option"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/preuniversitario/univalle/general/simulacro/CO-PREU-UNIVALLE-001-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "Preuniversitario",
+      "period": null,
+      "protocol": 2,
+      "severity": "critical",
+      "score": 67,
+      "structural_issues": [],
+      "reason_codes": [
+        "missing-id",
+        "invalid-option-count",
+        "missing-correct-option"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/preuniversitario/uptc/general/simulacro/CO-PREU-UPTC-001-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "Preuniversitario",
+      "period": null,
+      "protocol": 2,
+      "severity": "critical",
+      "score": 67,
+      "structural_issues": [],
+      "reason_codes": [
+        "missing-id",
+        "invalid-option-count",
+        "missing-correct-option"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/preuniversitario/utp/general/simulacro/CO-PREU-UTP-001-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "Preuniversitario",
+      "period": null,
+      "protocol": 2,
+      "severity": "critical",
+      "score": 67,
+      "structural_issues": [],
+      "reason_codes": [
+        "missing-id",
+        "invalid-option-count",
+        "missing-correct-option"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/sociales-ciudadanas/grado-10/periodo-1/CO-SOC-10-colombia-19th-century-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "sociales-ciudadanas",
+      "period": 1,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 67,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "grammatical-outlier",
+        "option-category-mismatch",
+        "multiple-correct-options"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/sociales-ciudadanas/grado-10/periodo-2/CO-SOC-10-basic-economics-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "sociales-ciudadanas",
+      "period": 2,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 67,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "multiple-correct-options",
+        "grammatical-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/sociales-ciudadanas/grado-11/periodo-3/CO-SOC-11-global-economy-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "sociales-ciudadanas",
+      "period": 3,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 67,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "grammatical-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-11/periodo-3/CO-ENG-11-ai-reading-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "ingles",
+      "period": 3,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 68,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier",
+        "english-register-outlier",
+        "option-category-mismatch",
+        "english-pos-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-11/periodo-3/CO-ENG-11-sci-reading-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "ingles",
+      "period": 3,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 68,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "multiple-correct-options",
+        "english-register-outlier",
+        "option-category-mismatch",
+        "correct-shape-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-11/periodo-4/CO-ENG-11-lit-reading-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "ingles",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 68,
+      "structural_issues": [],
+      "reason_codes": [
+        "english-register-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/matematicas/grado-10/periodo-4/CO-MAT-10-statistics-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "matematicas",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 68,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "multiple-correct-options"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/matematicas/grado-11/periodo-2/CO-MAT-11-derivation-rules-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "matematicas",
+      "period": 2,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 68,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier",
+        "option-category-mismatch",
+        "grammatical-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/preuniversitario/unal/general/simulacro/CO-PREU-UNAL-001-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "Preuniversitario",
+      "period": null,
+      "protocol": 2,
+      "severity": "critical",
+      "score": 68,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-category-mismatch",
+        "correct-shape-outlier",
+        "missing-id",
+        "invalid-option-count",
+        "missing-correct-option"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/matematicas/grado-11/periodo-1/CO-MAT-11-continuity-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "matematicas",
+      "period": 1,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 69,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "grammatical-outlier",
+        "option-category-mismatch"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/matematicas/grado-11/periodo-1/CO-MAT-11-trigonometry-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "matematicas",
+      "period": 1,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 69,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "thin-statement",
+        "grammatical-outlier",
+        "correct-shape-outlier",
+        "lexical-isolation"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/matematicas/grado-11/periodo-3/CO-MAT-11-antiderivatives-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "matematicas",
+      "period": 3,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 69,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "multiple-correct-options",
+        "option-length-imbalance",
+        "grammatical-outlier",
+        "thin-statement",
+        "correct-shape-outlier",
+        "lexical-isolation",
+        "option-category-mismatch"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-11/periodo-3/CO-ENG-11-tech-reading-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "ingles",
+      "period": 3,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 70,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier",
+        "english-register-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/matematicas/grado-11/periodo-1/CO-MAT-11-functions-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "matematicas",
+      "period": 1,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 70,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "grammatical-outlier",
+        "option-category-mismatch"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/matematicas/grado-9/periodo-1/CO-MAT-09-avanzado-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 9,
+      "subject": "matematicas",
+      "period": 1,
+      "protocol": 4,
+      "severity": "critical",
+      "score": 70,
+      "structural_issues": [],
+      "reason_codes": [
+        "correct-shape-outlier",
+        "option-category-mismatch",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "option-length-imbalance",
+        "grammatical-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/matematicas/grado-9/periodo-1/CO-MAT-09-reduccion-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 9,
+      "subject": "matematicas",
+      "period": 1,
+      "protocol": 4,
+      "severity": "critical",
+      "score": 70,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "option-category-mismatch",
+        "grammatical-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/sociales-ciudadanas/grado-10/periodo-3/CO-SOC-10-geography-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "sociales-ciudadanas",
+      "period": 3,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 70,
+      "structural_issues": [],
+      "reason_codes": [
+        "correct-shape-outlier",
+        "option-length-imbalance",
+        "multiple-correct-options",
+        "grammatical-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-11/periodo-2/CO-ENG-11-cloze-002-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "ingles",
+      "period": 2,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 71,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-category-mismatch",
+        "option-length-imbalance",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier",
+        "english-register-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-11/periodo-4/CO-ENG-11-arts-cloze-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "ingles",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 71,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "multiple-correct-options",
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "english-register-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/lectura-critica/grado-10/periodo-1/CO-LEC-10-narrative-literary-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "lectura-critica",
+      "period": 1,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 71,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "grammatical-outlier",
+        "multiple-correct-options"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/matematicas/grado-9/periodo-1/CO-MAT-09-problemas-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 9,
+      "subject": "matematicas",
+      "period": 1,
+      "protocol": 4,
+      "severity": "critical",
+      "score": 72,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-9/periodo-1/CO-ENG-09-frequency-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 9,
+      "subject": "ingles",
+      "period": 1,
+      "protocol": 4,
+      "severity": "critical",
+      "score": 73,
+      "structural_issues": [],
+      "reason_codes": [
+        "correct-shape-outlier",
+        "option-length-imbalance",
+        "option-category-mismatch",
+        "english-register-outlier",
+        "invalid-option-count",
+        "multiple-correct-options"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-9/periodo-1/CO-ENG-09-places-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 9,
+      "subject": "ingles",
+      "period": 1,
+      "protocol": 4,
+      "severity": "critical",
+      "score": 74,
+      "structural_issues": [],
+      "reason_codes": [
+        "thin-statement",
+        "english-register-outlier",
+        "option-category-mismatch",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier",
+        "option-length-imbalance"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/matematicas/grado-10/periodo-2/CO-MAT-10-trigonometry-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "matematicas",
+      "period": 2,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 74,
+      "structural_issues": [],
+      "reason_codes": [
+        "thin-statement",
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "multiple-correct-options",
+        "invalid-option-count"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/ingles/grado-08/environment/CO-ENG-08-environment-002-bundle.md",
+      "scope": "ingles",
+      "grade": 8,
+      "subject": "ingles",
+      "period": 1,
+      "protocol": 3,
+      "severity": "critical",
+      "score": 74,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "absurd-distractor",
+        "weak-distractor-pair",
+        "option-category-mismatch",
+        "english-register-outlier",
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "grammatical-outlier",
+        "thin-statement"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/ingles/grado-09/environment/CO-ENG-09-environment-002-bundle.md",
+      "scope": "ingles",
+      "grade": 9,
+      "subject": "ingles",
+      "period": 1,
+      "protocol": 3,
+      "severity": "critical",
+      "score": 74,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "missing-correct-option",
+        "correct-shape-outlier",
+        "english-register-outlier",
+        "option-length-imbalance",
+        "option-category-mismatch",
+        "thin-statement"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-9/periodo-3/CO-ENG-09-literalread-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 9,
+      "subject": "ingles",
+      "period": 3,
+      "protocol": 4,
+      "severity": "critical",
+      "score": 75,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/matematicas/grado-10/periodo-1/CO-MAT-10-real-numbers-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "matematicas",
+      "period": 1,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 75,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "multiple-correct-options",
+        "option-length-imbalance",
+        "option-category-mismatch",
+        "correct-shape-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/matematicas/grado-9/periodo-1/CO-MAT-09-sustitucion-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 9,
+      "subject": "matematicas",
+      "period": 1,
+      "protocol": 4,
+      "severity": "critical",
+      "score": 75,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-category-mismatch",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ciencias-naturales/grado-10/periodo-2/CO-CN-10-inorganic-reactions-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "ciencias-naturales",
+      "period": 2,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 76,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "multiple-correct-options"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-9/periodo-2/CO-ENG-09-goingto-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 9,
+      "subject": "ingles",
+      "period": 2,
+      "protocol": 4,
+      "severity": "critical",
+      "score": 77,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "english-register-outlier",
+        "invalid-option-count",
+        "multiple-correct-options"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-9/periodo-3/CO-ENG-09-prepositions-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 9,
+      "subject": "ingles",
+      "period": 3,
+      "protocol": 4,
+      "severity": "critical",
+      "score": 77,
+      "structural_issues": [],
+      "reason_codes": [
+        "thin-statement",
+        "option-length-imbalance",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier",
+        "english-register-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-9/periodo-4/CO-ENG-09-history-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 9,
+      "subject": "ingles",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 77,
+      "structural_issues": [],
+      "reason_codes": [
+        "english-register-outlier",
+        "option-category-mismatch",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/matematicas/grado-9/periodo-1/CO-MAT-09-solucion-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 9,
+      "subject": "matematicas",
+      "period": 1,
+      "protocol": 4,
+      "severity": "critical",
+      "score": 77,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/ingles/grado-10/history/CO-ENG-10-history-009-bundle.md",
+      "scope": "ingles",
+      "grade": 10,
+      "subject": "ingles",
+      "period": 1,
+      "protocol": 3,
+      "severity": "critical",
+      "score": 77,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "missing-correct-option",
+        "option-length-imbalance",
+        "option-category-mismatch",
+        "correct-shape-outlier",
+        "english-register-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-9/periodo-1/CO-ENG-09-pastlife-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 9,
+      "subject": "ingles",
+      "period": 1,
+      "protocol": 4,
+      "severity": "critical",
+      "score": 78,
+      "structural_issues": [],
+      "reason_codes": [
+        "thin-statement",
+        "option-length-imbalance",
+        "option-category-mismatch",
+        "english-register-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-9/periodo-2/CO-ENG-09-will-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 9,
+      "subject": "ingles",
+      "period": 2,
+      "protocol": 4,
+      "severity": "critical",
+      "score": 78,
+      "structural_issues": [],
+      "reason_codes": [
+        "lexical-isolation",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier",
+        "option-category-mismatch",
+        "english-register-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/ingles/grado-09/social-media/CO-ENG-09-social-media-001-bundle.md",
+      "scope": "ingles",
+      "grade": 9,
+      "subject": "ingles",
+      "period": 1,
+      "protocol": 3,
+      "severity": "critical",
+      "score": 78,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "missing-correct-option",
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "thin-statement",
+        "english-register-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-9/periodo-2/CO-ENG-09-professions-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 9,
+      "subject": "ingles",
+      "period": 2,
+      "protocol": 4,
+      "severity": "critical",
+      "score": 79,
+      "structural_issues": [],
+      "reason_codes": [
+        "english-register-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-9/periodo-1/CO-ENG-09-routines-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 9,
+      "subject": "ingles",
+      "period": 1,
+      "protocol": 4,
+      "severity": "critical",
+      "score": 80,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-category-mismatch",
+        "english-register-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-9/periodo-2/CO-ENG-09-dreams-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 9,
+      "subject": "ingles",
+      "period": 2,
+      "protocol": 4,
+      "severity": "critical",
+      "score": 80,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-category-mismatch",
+        "english-register-outlier",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-9/periodo-3/CO-ENG-09-cloze-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 9,
+      "subject": "ingles",
+      "period": 3,
+      "protocol": 4,
+      "severity": "critical",
+      "score": 80,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier",
+        "english-register-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-9/periodo-1/CO-ENG-09-cloze-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 9,
+      "subject": "ingles",
+      "period": 1,
+      "protocol": 4,
+      "severity": "critical",
+      "score": 81,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-category-mismatch",
+        "multiple-correct-options",
+        "correct-shape-outlier",
+        "option-length-imbalance",
+        "english-register-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-9/periodo-3/CO-ENG-09-environment-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 9,
+      "subject": "ingles",
+      "period": 3,
+      "protocol": 4,
+      "severity": "critical",
+      "score": 81,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier",
+        "english-register-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-9/periodo-3/CO-ENG-09-society-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 9,
+      "subject": "ingles",
+      "period": 3,
+      "protocol": 4,
+      "severity": "critical",
+      "score": 81,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "multiple-correct-options",
+        "correct-shape-outlier",
+        "english-register-outlier",
+        "option-length-imbalance"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/lectura-critica/grado-11/periodo-4/CO-LEC-11-integration-mock-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "lectura-critica",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 81,
+      "structural_issues": [],
+      "reason_codes": [
+        "correct-shape-outlier",
+        "multiple-correct-options",
+        "option-length-imbalance",
+        "option-category-mismatch"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/ingles/grado-10/crime-justice/CO-ENG-10-crime-justice-006-bundle.md",
+      "scope": "ingles",
+      "grade": 10,
+      "subject": "ingles",
+      "period": 1,
+      "protocol": 3,
+      "severity": "critical",
+      "score": 81,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "missing-correct-option",
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "option-category-mismatch",
+        "english-register-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/ingles/grado-08/sports/CO-ENG-08-sports-003-bundle.md",
+      "scope": "ingles",
+      "grade": 8,
+      "subject": "ingles",
+      "period": 1,
+      "protocol": 3,
+      "severity": "critical",
+      "score": 83,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "missing-correct-option",
+        "option-length-imbalance",
+        "option-category-mismatch",
+        "correct-shape-outlier",
+        "grammatical-outlier",
+        "english-register-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/ingles/grado-09/health-wellness/CO-ENG-09-health-wellness-003-bundle.md",
+      "scope": "ingles",
+      "grade": 9,
+      "subject": "ingles",
+      "period": 1,
+      "protocol": 3,
+      "severity": "critical",
+      "score": 83,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "missing-correct-option",
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "thin-statement"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/ingles/grado-10/social-media/CO-ENG-10-social-media-001-bundle.md",
+      "scope": "ingles",
+      "grade": 10,
+      "subject": "ingles",
+      "period": 1,
+      "protocol": 3,
+      "severity": "critical",
+      "score": 83,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "missing-correct-option",
+        "correct-shape-outlier",
+        "option-length-imbalance",
+        "english-register-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/ingles/grado-11/literature-analysis/CO-ENG-11-literature-010-bundle.md",
+      "scope": "ingles",
+      "grade": 11,
+      "subject": "ingles",
+      "period": 1,
+      "protocol": 3,
+      "severity": "critical",
+      "score": 84,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "missing-correct-option",
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "english-register-outlier",
+        "thin-statement"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/ingles/grado-11/entrepreneurship/CO-ENG-11-entrepreneurship-008-bundle.md",
+      "scope": "ingles",
+      "grade": 11,
+      "subject": "ingles",
+      "period": 1,
+      "protocol": 3,
+      "severity": "critical",
+      "score": 85,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "missing-correct-option",
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "english-register-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/ingles/grado-11/globalization/CO-ENG-11-globalization-005-bundle.md",
+      "scope": "ingles",
+      "grade": 11,
+      "subject": "ingles",
+      "period": 1,
+      "protocol": 3,
+      "severity": "critical",
+      "score": 85,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "missing-correct-option",
+        "correct-shape-outlier",
+        "option-length-imbalance",
+        "grammatical-outlier",
+        "english-register-outlier",
+        "thin-statement"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ciencias-sociales/grado-3/cuidado-medio-ambiente/CO-CS-3-cuidado-medio-ambiente-001-v3-bundle.md",
+      "scope": "colombia",
+      "grade": 3,
+      "subject": "ciencias-sociales",
+      "period": 4,
+      "protocol": 3,
+      "severity": "critical",
+      "score": 86,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "grammatical-outlier",
+        "absurd-distractor",
+        "weak-distractor-pair",
+        "option-category-mismatch"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/ingles/grado-11/artificial-intelligence/CO-ENG-11-artificial-intelligence-002-bundle.md",
+      "scope": "ingles",
+      "grade": 11,
+      "subject": "ingles",
+      "period": 1,
+      "protocol": 3,
+      "severity": "critical",
+      "score": 88,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "missing-correct-option",
+        "english-register-outlier",
+        "option-category-mismatch"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/ingles/grado-11/human-rights/CO-ENG-11-human-rights-006-bundle.md",
+      "scope": "ingles",
+      "grade": 11,
+      "subject": "ingles",
+      "period": 1,
+      "protocol": 3,
+      "severity": "critical",
+      "score": 88,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "missing-correct-option",
+        "option-length-imbalance",
+        "correct-shape-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-10/periodo-1/CO-ENG-10-pollution-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "ingles",
+      "period": 1,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 93,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "multiple-correct-options",
+        "option-length-imbalance",
+        "english-register-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-10/periodo-1/CO-ENG-10-consumption-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "ingles",
+      "period": 1,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 94,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "invalid-option-count",
+        "multiple-correct-options",
+        "option-category-mismatch",
+        "correct-shape-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-9/periodo-4/CO-ENG-09-indigenous-005-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 9,
+      "subject": "ingles",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "critical",
+      "score": 94,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "multiple-correct-options",
+        "option-category-mismatch",
+        "correct-shape-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-10/periodo-4/CO-ENG-10-afro-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "ingles",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "high",
+      "score": 51,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "correct-shape-outlier",
+        "option-length-imbalance"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ciencias-naturales/grado-9/soluciones-quimicas-concentracion/CO-CN-9-soluciones-quimicas-concentracion-001-v3-bundle.md",
+      "scope": "colombia",
+      "grade": 9,
+      "subject": "ciencias-naturales",
+      "period": 3,
+      "protocol": 3,
+      "severity": "high",
+      "score": 53,
+      "structural_issues": [],
+      "reason_codes": [
+        "absurd-distractor",
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "option-category-mismatch",
+        "grammatical-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-10/periodo-4/CO-ENG-10-world-cultures-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "ingles",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "high",
+      "score": 55,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "option-category-mismatch",
+        "english-register-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-10/periodo-2/CO-ENG-10-physical-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "ingles",
+      "period": 2,
+      "protocol": 4.1,
+      "severity": "high",
+      "score": 60,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "english-register-outlier",
+        "option-category-mismatch",
+        "correct-shape-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-10/periodo-2/CO-ENG-10-lifestyle-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "ingles",
+      "period": 2,
+      "protocol": 4.1,
+      "severity": "high",
+      "score": 62,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "option-category-mismatch",
+        "correct-shape-outlier",
+        "english-register-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-10/periodo-3/CO-ENG-10-digital-citizenship-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "ingles",
+      "period": 3,
+      "protocol": 4.1,
+      "severity": "high",
+      "score": 62,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "english-register-outlier",
+        "option-category-mismatch"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-10/periodo-2/CO-ENG-10-habit-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "ingles",
+      "period": 2,
+      "protocol": 4.1,
+      "severity": "high",
+      "score": 63,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "correct-shape-outlier",
+        "option-category-mismatch",
+        "english-register-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-10/periodo-3/CO-ENG-10-algorithms-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "ingles",
+      "period": 3,
+      "protocol": 4.1,
+      "severity": "high",
+      "score": 63,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "english-register-outlier",
+        "option-category-mismatch"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-10/periodo-3/CO-ENG-10-privacy-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "ingles",
+      "period": 3,
+      "protocol": 4.1,
+      "severity": "high",
+      "score": 63,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "english-register-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-10/periodo-3/CO-ENG-10-social-media-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "ingles",
+      "period": 3,
+      "protocol": 4.1,
+      "severity": "high",
+      "score": 63,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "option-category-mismatch",
+        "english-register-outlier",
+        "correct-shape-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-10/periodo-3/CO-ENG-10-ai-ethics-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "ingles",
+      "period": 3,
+      "protocol": 4.1,
+      "severity": "high",
+      "score": 64,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "option-category-mismatch",
+        "english-register-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-11/periodo-1/CO-ENG-11-humanrights-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "ingles",
+      "period": 1,
+      "protocol": 4.1,
+      "severity": "high",
+      "score": 64,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "english-register-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-10/periodo-1/CO-ENG-10-environment-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "ingles",
+      "period": 1,
+      "protocol": 4.1,
+      "severity": "high",
+      "score": 65,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-10/periodo-1/CO-ENG-10-renewable-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "ingles",
+      "period": 1,
+      "protocol": 4.1,
+      "severity": "high",
+      "score": 65,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "option-length-imbalance"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-10/periodo-2/CO-ENG-10-nutrition-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "ingles",
+      "period": 2,
+      "protocol": 4.1,
+      "severity": "high",
+      "score": 65,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-10/periodo-4/CO-ENG-10-plurinational-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 10,
+      "subject": "ingles",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "high",
+      "score": 65,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-11/periodo-1/CO-ENG-11-environment-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "ingles",
+      "period": 1,
+      "protocol": 4.1,
+      "severity": "high",
+      "score": 65,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-9/periodo-4/CO-ENG-09-digital-003-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 9,
+      "subject": "ingles",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "high",
+      "score": 65,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-9/periodo-4/CO-ENG-09-heritage-002-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 9,
+      "subject": "ingles",
+      "period": 4,
+      "protocol": 4.1,
+      "severity": "high",
+      "score": 65,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ciencias-naturales/grado-8/soluciones-concentracion/CO-CN-8-soluciones-concentracion-001-v3-bundle.md",
+      "scope": "colombia",
+      "grade": 8,
+      "subject": "ciencias-naturales",
+      "period": 3,
+      "protocol": 3,
+      "severity": "high",
+      "score": 69,
+      "structural_issues": [],
+      "reason_codes": [
+        "absurd-distractor",
+        "option-length-imbalance",
+        "correct-shape-outlier",
+        "grammatical-outlier",
+        "thin-statement",
+        "option-category-mismatch"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ciencias-naturales/grado-6/recursos-naturales-colombia/CO-CN-6-recursos-naturales-colombia-001-v3-bundle.md",
+      "scope": "colombia",
+      "grade": 6,
+      "subject": "ciencias-naturales",
+      "period": 3,
+      "protocol": 3,
+      "severity": "high",
+      "score": 73,
+      "structural_issues": [],
+      "reason_codes": [
+        "correct-shape-outlier",
+        "option-length-imbalance",
+        "grammatical-outlier",
+        "absurd-distractor",
+        "option-category-mismatch"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ingles/grado-11/periodo-1/CO-ENG-11-globalization-001-PRO-v4-bundle.md",
+      "scope": "colombia",
+      "grade": 11,
+      "subject": "ingles",
+      "period": 1,
+      "protocol": 4.1,
+      "severity": "high",
+      "score": 75,
+      "structural_issues": [],
+      "reason_codes": [
+        "invalid-option-count",
+        "english-register-outlier",
+        "option-length-imbalance",
+        "grammatical-outlier",
+        "correct-shape-outlier",
+        "option-category-mismatch"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ciencias-naturales/grado-6/suelo-formacion-conservacion/CO-CN-6-suelo-formacion-conservacion-001-v3-bundle.md",
+      "scope": "colombia",
+      "grade": 6,
+      "subject": "ciencias-naturales",
+      "period": 3,
+      "protocol": 3,
+      "severity": "high",
+      "score": 76,
+      "structural_issues": [],
+      "reason_codes": [
+        "thin-statement",
+        "correct-shape-outlier",
+        "absurd-distractor",
+        "option-length-imbalance",
+        "grammatical-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/sociales/grado-5/hidrografia-relieve/CO-SOC-5-hidrografia-relieve-001-v3-bundle.md",
+      "scope": "colombia",
+      "grade": 5,
+      "subject": "sociales",
+      "period": 3,
+      "protocol": 3,
+      "severity": "high",
+      "score": 79,
+      "structural_issues": [],
+      "reason_codes": [
+        "absurd-distractor",
+        "option-length-imbalance",
+        "correct-shape-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ciencias-sociales/grado-4/simbolos-patrios/CO-CS-4-simbolos-patrios-001-v3-bundle.md",
+      "scope": "colombia",
+      "grade": 4,
+      "subject": "ciencias-sociales",
+      "period": 1,
+      "protocol": 3,
+      "severity": "high",
+      "score": 82,
+      "structural_issues": [],
+      "reason_codes": [
+        "absurd-distractor",
+        "option-length-imbalance",
+        "correct-shape-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ciencias-naturales/grado-3/el-suelo/CO-CN-3-el-suelo-001-v3-bundle.md",
+      "scope": "colombia",
+      "grade": 3,
+      "subject": "ciencias-naturales",
+      "period": 3,
+      "protocol": 3,
+      "severity": "high",
+      "score": 86,
+      "structural_issues": [],
+      "reason_codes": [
+        "option-length-imbalance",
+        "option-category-mismatch",
+        "absurd-distractor",
+        "correct-shape-outlier"
+      ]
+    },
+    {
+      "bundle_path": "questions_data/colombia/ciencias-naturales/grado-4/energia-luminica/CO-CN-4-energia-luminica-001-v3-bundle.md",
+      "scope": "colombia",
+      "grade": 4,
+      "subject": "ciencias-naturales",
+      "period": 4,
+      "protocol": 3,
+      "severity": "high",
+      "score": 91,
+      "structural_issues": [],
+      "reason_codes": [
+        "absurd-distractor",
+        "correct-shape-outlier"
+      ]
+    }
+  ]
+}
