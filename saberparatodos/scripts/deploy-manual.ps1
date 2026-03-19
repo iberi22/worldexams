@@ -1,8 +1,10 @@
 param(
   [string]$ProjectName,
   [string]$BaseUrl,
+  [string]$RemoteName = 'iberi22',
   [switch]$SkipValidate,
   [switch]$SkipVerify,
+  [switch]$SkipTag,
   [switch]$Fast,
   [switch]$Force
 )
@@ -44,6 +46,15 @@ if ($ProjectName -eq 'saberparatodos' -and $currentBranch -ne 'main' -and -not $
 Write-Host "[deploy] Target Project: $ProjectName" -ForegroundColor Cyan
 Write-Host "[deploy] Target URL:     $BaseUrl" -ForegroundColor Cyan
 
+$isProductionDeploy = $ProjectName -eq 'saberparatodos' -and $currentBranch -eq 'main'
+
+if ($isProductionDeploy) {
+  $workingTreeDirty = [bool](git status --porcelain)
+  if ($workingTreeDirty -and -not $Force) {
+    throw '[deploy] ABORT: Production deploy requires a clean working tree so the deploy tag maps to an exact commit. Commit or stash changes, or use -Force if you intentionally want to bypass this guard.'
+  }
+}
+
 if (-not $Fast) {
   Write-Host '[deploy] Copying API artifacts...' -ForegroundColor Gray
   pwsh -File scripts/copy-api.ps1
@@ -72,6 +83,14 @@ if ($LASTEXITCODE -ne 0) {
 if (-not $SkipVerify) {
   Write-Host "[deploy] Verifying deployment at $BaseUrl..." -ForegroundColor Gray
   pwsh -File scripts/verify-deployment.ps1 -BaseUrl $BaseUrl
+}
+
+if ($isProductionDeploy -and -not $SkipTag) {
+  Write-Host "[deploy] Creating deploy tag..." -ForegroundColor Gray
+  pwsh -File scripts/create-deploy-tag.ps1 -ProjectName $ProjectName -RemoteName $RemoteName -Push
+  if ($LASTEXITCODE -ne 0) {
+    throw '[deploy] create-deploy-tag failed.'
+  }
 }
 
 Write-Host "[deploy] Manual deployment to $currentBranch finished successfully." -ForegroundColor Green
