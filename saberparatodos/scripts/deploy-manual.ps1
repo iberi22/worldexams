@@ -74,8 +74,8 @@ if ($LASTEXITCODE -ne 0) {
   throw '[deploy] build failed.'
 }
 
-Write-Host "[deploy] Deploying to Cloudflare Pages (Project: $ProjectName)..." -ForegroundColor Gray
-npx wrangler pages deploy dist --project-name=$ProjectName
+Write-Host "[deploy] Deploying Cloudflare Worker (Name: $ProjectName)..." -ForegroundColor Gray
+npx wrangler deploy --config dist/server/wrangler.json --name=$ProjectName
 if ($LASTEXITCODE -ne 0) {
   throw '[deploy] wrangler deploy failed.'
 }
