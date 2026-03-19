@@ -1,552 +1,480 @@
 ---
 id: "CO-CIE-11-P1-fisicoquimica-001-MASTERY"
-protocol_version: "5.0"
-alignment: "ICFES Saber 11 / Marcos Técnicos"
-target_cefr: "N/A"
+country: "colombia"
+grado: 11
+asignatura: "ciencias-naturales"
+tema: "fisicoquimica-genetica"
 periodo: 1
+protocol_version: "5.1"
 bundle_index: 1
+bundle_size: 20
+alignment: "ICFES Saber 11 + MEN"
+competencia_icfes: "Uso comprensivo del conocimiento cientifico"
+afirmacion_icfes: "El estudiante explica fenomenos fisicoquimicos y geneticos a partir de modelos, variables y evidencia."
+referente_men: "Relacion entre estructura de la materia, transformaciones quimicas y mecanismos de herencia."
 modern_context: true
+distractor_profile: "misconception_based"
 calibration:
-  expected_success_rate: 0.50
-  discrimination_index_target: ">= 0.25"
+  expected_success_rate: 0.47
+  discrimination_index_target: ">= 0.22"
   simulated_responses: 100
-rubric_baseline: "identificación_fenómeno, análisis_sistema, conclusión_científica"
+rubric_baseline: "soluciones_y_concentracion, gases_y_energia, meiosis_y_herencia, expresion_genica, analisis_experimental"
 ---
 
-# Bundle Ciencias Naturales G11 - Periodo 1: Fisicoquímica y Genética Ambiental
+# Bundle Mastery: Fisicoquimica y Genetica
+
+Este bundle integra propiedades de la materia, cambios fisicoquimicos y principios de herencia, con enfasis en explicacion de fenomenos y lectura de evidencia experimental.
 
 ---
 
-## Question 1 (Intermedio - Dificultad 4)
+## Question 1 (Variant Basic - Difficulty 3)
 **ID:** `CO-CIE-11-P1-fisicoquimica-001-MASTERY-v1`
-**Bloom:** Aplicar
-**ICFES:** Explicación de Fenómenos
-**Expected_Success:** 0.65
-
-### Contexto
-El páramo de Santurbán en Colombia es un ecosistema clave. La minería a gran escala puede liberar metales pesados como el mercurio (Hg) que se acumulan en los tejidos de organismos acuáticos. Una minera propone usar bacterias biorremediadoras y procesos de precipitación química con sulfuros ($S^{2-}$) para formar $HgS(s)$ en las piscinas de relave antes de su vertimiento.
+**Bloom:** Remember
+**ICFES:** Uso comprensivo del conocimiento cientifico
+**Expected_Success:** 0.82
 
 ### Enunciado
-¿Cuál es el principio fisicoquímico por el cual la adición de iones sulfuro ($S^{2-}$) mitigaría el impacto ambiental del mercurio en los cuerpos de agua del páramo?
+En una solucion acuosa, ¿que describe mejor la concentracion?
 
 ### Options
-- [x] A) El sulfuro reacciona con el mercurio disuelto formando un precipitado sólido insoluble de sulfuro de mercurio, reduciendo su biodisponibilidad y toxicidad en el agua. <!-- feedback: Correcto. La precipitación retira el ión tóxico disuelto pasándolo a una fase sólida que no interactúa biológicamente tan fácil. -->
-- [ ] B) El sulfuro evapora el mercurio inmediatamente, limpiando el agua mediante un cambio de estado a gas inerte. <!-- feedback: Incorrecto. El sulfuro de mercurio es un sólido, no un gas; además vaporizar mercurio dispersaría la toxicidad por el aire. -->
-- [ ] C) El sulfuro actúa como una enzima que digiere el mercurio, transformándolo en agua y oxígeno puro. <!-- feedback: Las enzimas son proteínas biológicas, no iones químicos inorgánicos simples, y los metales elementales no se "digieren" a agua. -->
-- [ ] D) El sulfuro aumenta la acidez del ecosistema matando todas las bacterias antes de que absorban mercurio. <!-- feedback: Erróneo. Aunque cambiaría el pH, matar toda la flora bacteriana no es una estrategia de mitigación ambiental válida. -->
-
-### Rúbrica de Justificación
-1. **Química de Soluciones:** Identifica la formación de un precipitado ($s$) a partir de reactivos acuosos.
-2. **Impacto Ambiental:** Conecta la insolubilidad de la sal con la limitación de asimilación biológica (biodisponibilidad).
+- [ ] A) La rapidez con la que el solvente se evapora. <!-- feedback: Incorrecto. La evaporacion puede cambiar la concentracion, pero no la define. -->
+- [x] B) La cantidad de soluto presente en una cantidad dada de solucion o de solvente. <!-- feedback: Correcto. La concentracion relaciona cuanto soluto hay respecto al medio en el que esta disuelto. -->
+- [ ] C) El tamaño de las particulas del soluto. <!-- feedback: Incorrecto. El tamaño puede influir en la disolucion, pero no define la concentracion. -->
+- [ ] D) La temperatura maxima que soporta la mezcla. <!-- feedback: Incorrecto. La resistencia termica no es el criterio para definir concentracion. -->
 
 ### Explicación Pedagógica
-La precipitación química es un método primario de tratamiento de aguas residuales. Al formar una sal muy insoluble como el $HgS$ (cinabrio sintético), el metal pesado decanta al fondo como lodo, evitando que entre en las cadenas tróficas acuáticas disuelto en agua.
+La concentracion expresa una relacion entre cantidades. Permite comparar soluciones y predecir efectos como reactividad o conductividad.
 
 ---
 
-## Question 2 (Intermedio - Dificultad 4)
+## Question 2 (Variant Basic - Difficulty 3)
 **ID:** `CO-CIE-11-P1-fisicoquimica-001-MASTERY-v2`
-**Bloom:** Comprender
-**ICFES:** Uso Comprensivo del Conocimiento
-**Expected_Success:** 0.68
+**Bloom:** Understand
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.79
 
 ### Contexto
-En los cultivos de flores de la Sabana de Bogotá, se implementan invernaderos inteligentes. Un estudiante observa que, en un día soleado, la temperatura dentro del invernadero de vidrio es significativamente mayor que en el exterior, a pesar de que hay ventilación moderada.
+Un globo lleno de aire se deja al sol durante varios minutos.
 
 ### Enunciado
-Desde el punto de vista de las ondas electromagnéticas, ¿cómo se explica primariamente este efecto físico?
+¿Que cambio se espera principalmente en el gas del globo?
 
 ### Options
-- [ ] A) El vidrio absorbe todo el calor mecánico exterior y lo irradia como microondas letales al interior cerrado atrapando el agua. <!-- feedback: Erróneo teóricamente, el vidrio no convierte calor en microondas. -->
-- [ ] B) Las plantas realizan fotosíntesis exotérmica extrema liberando fuego microscópico que satura el volumen cerrado de la sala. <!-- feedback: Falso, la fotosíntesis es globalmente endotérmica al tomar energía lumínica. -->
-- [ ] C) El vidrio permite escapar la radiación solar incidente (UV) pero bloquea herméticamente la luz visible para calentar. <!-- feedback: Completamente inverso al fenómeno real del espectro lumínico. -->
-- [x] D) El vidrio es transparente a la radiación solar incidente (visible/UV corto) que calienta el suelo, pero es opaco a la radiación térmica infrarroja de onda larga que emite el suelo caliente, atrapando esta última energía. <!-- feedback: Correcto. Esta es la descripción física precisa de la asimetría espectral del efecto invernadero en cristales. -->
-
-### Rúbrica de Justificación
-1. **Espectro Electromagnético:** Demuestra conocimiento de las longitudes de onda (Visible incidente vs Infrarrojo saliente).
-2. **Transmisión vs Absorción:** Deduce que la barrera física es selectiva según la longitud de onda de la radiación.
+- [ ] A) Que pierda toda su masa y quede vacio. <!-- feedback: Incorrecto. El calentamiento no elimina de inmediato el gas. -->
+- [ ] B) Que sus moleculas se detengan por completo. <!-- feedback: Incorrecto. Al aumentar la temperatura, el movimiento molecular aumenta. -->
+- [x] C) Que aumente la energia cinetica promedio de sus moleculas y el gas tienda a expandirse. <!-- feedback: Correcto. El calentamiento incrementa el movimiento de las particulas. -->
+- [ ] D) Que el oxigeno se transforme en otro elemento. <!-- feedback: Incorrecto. No ocurre un cambio de identidad quimica por calentamiento moderado. -->
 
 ### Explicación Pedagógica
-El efecto invernadero ocurre porque materiales como el vidrio (o ciertos gases atmosféricos) discriminan por longitud de onda: dejan pasar radiación energética corta del Sol, pero bloquean el calor infrarrojo de onda larga emitido por los objetos terrestres al calentarse.
+La temperatura se relaciona con la energia cinetica promedio de las particulas. Si el gas se calienta, sus choques son mas energicos.
 
 ---
 
-## Question 3 (Intermedio - Dificultad 5)
+## Question 3 (Variant Basic - Difficulty 4)
 **ID:** `CO-CIE-11-P1-fisicoquimica-001-MASTERY-v3`
-**Bloom:** Aplicar
-**ICFES:** Indagación
-**Expected_Success:** 0.55
+**Bloom:** Apply
+**ICFES:** Formulación y ejecución
+**Expected_Success:** 0.73
 
 ### Contexto
-Cruzando dos plantas híbridas de tomate (Heterocigotas $Aa$ para el color de la fruta), un agricultor espera obtener una proporción fenotípica 3:1 (rojo predomina sobre verde) según la Genética Mendeliana clásica. En una cosecha de 1000 tomates, contabiliza 760 rojos y 240 verdes experimentales.
+En un cruce de plantas heterocigotas para un rasgo dominante simple se representa el cruce `Aa x Aa`.
 
 ### Enunciado
-Si el genotipo letal recesivo mutante $a^*$ (donde los $a^*a^*$ mueren en fase de semilla) estuviera presente masivamente limitando el cruce mendeliano, ¿por qué la distribución teórica a reportar en la indagación experimental se volvería de 2:1 si se cruzan dos plantas portadoras $Aa^*$?
+¿Cual es la proporcion genotipica esperada?
 
 ### Options
-- [x] A) Porque de los 4 genotipos teóricos del cuadro de Punnett ($AA$, $Aa^*$, $a^*A$, $a^*a^*$), el organismo recesivo muere antes de nacer, dejando solo 3 posibilidades sobrevivientes funcionales (2 heterocigotos rojos por 1 homocigoto rojo), alterando el fenotipo observable total.  <!-- feedback: Correcto. La letalidad genómica recesiva destruye un cuadro del Punnett estadístico (25%), redistribuyendo el espacio muestral a base 3. -->
-- [ ] B) Porque los tomates verdes mutan a color azul absorbiendo el error genético recesivo evitando la muerte embrionaria general de las células. <!-- feedback: Incoherente en biología mendeliana moderna. -->
-- [ ] C) Porque el gen dominante anula las leyes de la probabilidad, garantizando de forma activa que nadie nacerá enfermo nuca más, un sesgo de supervivencia. <!-- feedback: Erróneo. La probabilidad mendeliana rige la fecundación independientemente de que después el embrión sobreviva o no. -->
-- [ ] D) Porque la luz del sol cura el estado letal si la huerta está al aire libre y no bajo techo de vidrio, aplicando foto-remediación celular de alelos. <!-- feedback: Erróneo biológicamente; los alelos letales intrínsecos de cigoto temprano no se curan con fotosíntesis posterior. -->
-
-### Rúbrica de Justificación
-1. **Espacio Muestral Genético:** Excluye el cigoto inviable del conteo de probabilidades.
-2. **Re-normalización probabilística:** Sabe pasar de una proporción base 4 a una probabilidad base 3.
+- [ ] A) 1 `AA` : 1 `aa` <!-- feedback: Incorrecto. Falta el genotipo heterocigoto. -->
+- [x] B) 1 `AA` : 2 `Aa` : 1 `aa` <!-- feedback: Correcto. Es la proporcion mendeliana clasica para un cruce monohibrido de heterocigotos. -->
+- [ ] C) 3 `AA` : 1 `aa` <!-- feedback: Incorrecto. Esa proporcion no describe los genotipos del cruce. -->
+- [ ] D) 2 `AA` : 2 `aa` <!-- feedback: Incorrecto. Omite los heterocigotos y altera la probabilidad esperada. -->
 
 ### Explicación Pedagógica
-Los genes letales tempranos distorsionan las frecuencias fenotípicas mendelianas observadas porque los individuos homocigotos para este gen mueren in-utero o como semilla, removiéndolos del conteo poblacional estadístico final (sesgo de supervivencia embrionaria).
+El cuadro de Punnett permite combinar los gametos de ambos progenitores y calcular las proporciones esperadas.
 
 ---
 
-## Question 4 (Intermedio - Dificultad 5)
+## Question 4 (Variant Basic - Difficulty 4)
 **ID:** `CO-CIE-11-P1-fisicoquimica-001-MASTERY-v4`
-**Bloom:** Aplicar
-**ICFES:** Explicación de Fenómenos
-**Expected_Success:** 0.60
-
-### Contexto
-Un globo estratosférico metereológico asciende desde Bogotá ($T = 15^\circ\text{C}$, $P = 0.74\text{ atm}$) hacia la estratosfera ($T = -50^\circ\text{C}$, $P = 0.05\text{ atm}$). El globo está lleno de gas Helio elástico.
+**Bloom:** Understand
+**ICFES:** Uso comprensivo del conocimiento cientifico
+**Expected_Success:** 0.69
 
 ### Enunciado
-Considerando la Ley combinada de los gases ideales ($PV/T = \text{cte}$), ¿cuál es el comportamiento físico predictivo del volumen del globo a medida que alcanza la máxima altitud de medición?
+¿En cual proceso ocurre un cambio quimico y no solo fisico?
 
 ### Options
-- [ ] A) El globo se encogerá dramáticamente porque la baja temperatura congela el globo y el gas, obligando a las paredes a implosionar bajo la presión de las nubes. <!-- feedback: Incorrecto. Aunque el frío contrae el gas, la brutal caída de presión exterior expande el globo mucho más rápido de lo que el frío lo contrae. -->
-- [ ] B) El volumen del globo se mantendrá inmutable por el equilibrio de las dos fuerzas, ya que el frío y la baja altitud compensan sus efectos de presión en partes iguales. <!-- feedback: Erróneo matemáticamente. La temperatura no baja al 0 absoluto como para compensar la caída de presión de 0.74 atm a 0.05 atm. -->
-- [x] C) El globo se expandirá considerablemente de tamaño, ya que la drástica disminución de la presión atmosférica externa dominará sobre el efecto contráctil del descenso de la temperatura. <!-- feedback: Correcto. Resolviendo la ecuación combinada, la relación de presiones es un factor de 14.8, mientras que la temperatura (en Kelvin, de 288 a 223) solo reduce un factor de 1.3, lo que indica expansión pura neta. -->
-- [ ] D) El helio dentro del globo sufrirá fisión nuclear formando nuevos elementos debido a la nula presión de la alta atmósfera permitiendo su expansión radioactiva libre infinita. <!-- feedback: Falsa e incoherente química nuclear en dinámica elemental de fluidos estratosféricos estáticos mecánicos. -->
-
-### Rúbrica de Justificación
-1. **Aplicación Gas Ideal:** Transforma las temperaturas a Kelvin obligatoriamente antes de relacionarlas.
-2. **Razonamiento Combinado:** Pondera la magnitud del cambio de Presión vs la magnitud del cambio de Temperatura Absoluta para dictaminar el factor neto del Volumen final.
+- [ ] A) Derretir hielo. <!-- feedback: Incorrecto. Sigue siendo agua; solo cambia el estado de agregacion. -->
+- [ ] B) Triturar sal de cocina. <!-- feedback: Incorrecto. Cambia el tamaño del material, no su composicion. -->
+- [x] C) Oxidar una puntilla de hierro. <!-- feedback: Correcto. Se forman sustancias nuevas por reaccion con el oxigeno. -->
+- [ ] D) Hervir alcohol. <!-- feedback: Incorrecto. Es un cambio de estado, no de composicion. -->
 
 ### Explicación Pedagógica
-En el límite espacial, la temperatura disminuye moderadamente (alrededor de -50°C equivale a 223 K frente a 288 K en tierra), pero la presión cae en picada acercándose a cero. El delta presurizador expansivo gana al delta contráctil térmico, forzando a inflar los globos meteorológicos a su límite elástico en el cielo.
+Un cambio quimico forma sustancias nuevas con propiedades distintas. En los cambios fisicos la sustancia conserva su identidad.
 
 ---
 
-## Question 5 (Avanzado - Dificultad 6)
+## Question 5 (Variant Intermediate - Difficulty 5)
 **ID:** `CO-CIE-11-P1-fisicoquimica-001-MASTERY-v5`
-**Bloom:** Analizar
-**ICFES:** Explicación de Fenómenos
+**Bloom:** Analyze
+**ICFES:** Indagación
+**Expected_Success:** 0.63
+
+### Contexto
+Dos vasos contienen la misma masa de agua. Al vaso 1 se le agrega una cucharada de sal y al vaso 2 dos cucharadas, agitando hasta disolver.
+
+### Enunciado
+Si se quiere comparar el efecto de la cantidad de soluto sobre la conductividad, ¿cual variable debe mantenerse constante?
+
+### Options
+- [ ] A) El sabor final de la solucion. <!-- feedback: Incorrecto. El sabor no es una variable experimental controlada. -->
+- [x] B) El volumen de agua usado en ambos vasos. <!-- feedback: Correcto. Mantener el volumen constante permite atribuir el cambio a la cantidad de sal. -->
+- [ ] C) El color del recipiente. <!-- feedback: Incorrecto. El color del vaso no afecta la concentracion de manera relevante. -->
+- [ ] D) El orden en que se observa cada vaso. <!-- feedback: Incorrecto. El orden de observacion no controla la variable principal del diseno. -->
+
+### Explicación Pedagógica
+En un experimento, una comparacion valida exige mantener constantes las variables que no se desean evaluar.
+
+---
+
+## Question 6 (Variant Intermediate - Difficulty 5)
+**ID:** `CO-CIE-11-P1-fisicoquimica-001-MASTERY-v6`
+**Bloom:** Apply
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.6
+
+### Contexto
+En una familia, la madre es de grupo sanguineo `A` heterocigota (`IAi`) y el padre es de grupo `B` heterocigota (`IBi`).
+
+### Enunciado
+¿Cual de los siguientes grupos sanguineos puede aparecer en sus hijos?
+
+### Options
+- [ ] A) Solo `A` y `B` <!-- feedback: Incorrecto. El cruce tambien puede producir `AB` y `O`. -->
+- [ ] B) Solo `AB` y `O` <!-- feedback: Incorrecto. Tambien pueden aparecer `A` y `B`. -->
+- [x] C) `A`, `B`, `AB` y `O` <!-- feedback: Correcto. La combinacion de alelos permite los cuatro fenotipos. -->
+- [ ] D) Solo `AB` <!-- feedback: Incorrecto. El grupo `AB` es solo una de las posibilidades. -->
+
+### Explicación Pedagógica
+El sistema ABO es un ejemplo de codominancia y alelos multiples. La herencia depende de las combinaciones posibles de gametos.
+
+---
+
+## Question 7 (Variant Intermediate - Difficulty 6)
+**ID:** `CO-CIE-11-P1-fisicoquimica-001-MASTERY-v7`
+**Bloom:** Analyze
+**ICFES:** Uso comprensivo del conocimiento cientifico
+**Expected_Success:** 0.56
+
+### Contexto
+Se comparan dos recipientes con el mismo gas y la misma cantidad de sustancia. En el recipiente A el volumen es menor que en el B y la temperatura es igual.
+
+### Enunciado
+¿En cual recipiente se espera mayor presion?
+
+### Options
+- [x] A) En A, porque las particulas chocan con mas frecuencia contra las paredes. <!-- feedback: Correcto. Menor volumen con la misma cantidad de gas incrementa la frecuencia de colision. -->
+- [ ] B) En B, porque las particulas tienen mas espacio y golpean mas fuerte. <!-- feedback: Incorrecto. Con mas espacio disminuye la frecuencia de choques. -->
+- [ ] C) En ambos es imposible compararla. <!-- feedback: Incorrecto. Con el volumen y la temperatura dadas si se puede predecir la tendencia. -->
+- [ ] D) En ninguno, porque la presion solo depende del material del recipiente. <!-- feedback: Incorrecto. La presion depende del comportamiento del gas, no solo del recipiente. -->
+
+### Explicación Pedagógica
+La presion de un gas se relaciona con las colisiones de sus particulas contra las paredes del recipiente.
+
+---
+
+## Question 8 (Variant Intermediate - Difficulty 6)
+**ID:** `CO-CIE-11-P1-fisicoquimica-001-MASTERY-v8`
+**Bloom:** Analyze
+**ICFES:** Indagación
+**Expected_Success:** 0.53
+
+### Contexto
+En un laboratorio escolar se comparan semillas de frijol expuestas a diferentes temperaturas para observar su germinacion.
+
+### Enunciado
+¿Cual seria la variable dependiente del experimento?
+
+### Options
+- [ ] A) El tipo de semilla usado. <!-- feedback: Incorrecto. Ese debe mantenerse constante para comparar los resultados. -->
+- [ ] B) La temperatura aplicada. <!-- feedback: Incorrecto. Esa es la variable independiente. -->
+- [x] C) El porcentaje de semillas que germinan. <!-- feedback: Correcto. Es la respuesta que cambia segun la temperatura aplicada. -->
+- [ ] D) El numero de recipientes usados. <!-- feedback: Incorrecto. El numero de recipientes no es la variable de resultado. -->
+
+### Explicación Pedagógica
+La variable dependiente es aquello que se mide como efecto del cambio experimental.
+
+---
+
+## Question 9 (Variant Intermediate - Difficulty 6)
+**ID:** `CO-CIE-11-P1-fisicoquimica-001-MASTERY-v9`
+**Bloom:** Apply
+**ICFES:** Formulación y ejecución
+**Expected_Success:** 0.5
+
+### Contexto
+Una celula somatica humana tiene 46 cromosomas.
+
+### Enunciado
+Despues de la meiosis, ¿cuantos cromosomas tendra normalmente cada gameto producido?
+
+### Options
+- [ ] A) 46 <!-- feedback: Incorrecto. Ese numero corresponde a una celula diploide somatica. -->
+- [x] B) 23 <!-- feedback: Correcto. La meiosis reduce a la mitad el numero de cromosomas. -->
+- [ ] C) 92 <!-- feedback: Incorrecto. La meiosis no duplica el numero final de cromosomas por gameto. -->
+- [ ] D) 12 <!-- feedback: Incorrecto. No corresponde al numero haploide humano. -->
+
+### Explicación Pedagógica
+La meiosis produce celulas haploides. Esto permite que en la fecundacion se recupere el numero diploide.
+
+---
+
+## Question 10 (Variant Intermediate - Difficulty 6)
+**ID:** `CO-CIE-11-P1-fisicoquimica-001-MASTERY-v10`
+**Bloom:** Analyze
+**ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.48
 
 ### Contexto
-Un estudiante diseña una montaña rusa de esferas. Sabe que, si ignora la fricción, la Energía Mecánica se conserva ($E_k + E_p = \text{cte}$). Deja caer una esfera de 1 kg desde 5 metros de altura ($A$). La esfera baja a nivel del suelo ($0 \text{ m}$), y luego toma un rizo circular (Bucle/Looping) de radio $R = 1.5 \text{ m}$.
+Un estudiante afirma que un rasgo recesivo desaparece por completo en una poblacion cuando no se expresa en una generacion.
 
 ### Enunciado
-Calcule teóricamente la altura requerida mínima para que la esfera pueda superar el punto más alto del rizo (C) sin caerse por gravedad, asumiendo $g \approx 10 \text{ m/s}^2$. Considere que en el tope del rizo se exige una fuerza centrípeta mínima equitativa.
+¿Como debe evaluarse esa afirmacion?
 
 ### Options
-- [ ] A) Exactamente 3 metros ($2R$). Basta con que tenga energía para subir a esa altura potencial. <!-- feedback: Incorrecto. Si llega arrastrándose (v=0), cae verticalmente al vacío en el tope del rizo. Necesita velocidad horizontal centrífuga. -->
-- [ ] B) 5 metros, siempre se requiere la altura inicial total para cerrar ciclos no importando el radio del ciclo medio interpuesto geométricamente. <!-- feedback: Falso. El radio define la pérdida rotacional kinética requerida. -->
-- [x] C) 3.75 metros ($5/2 R$). A los 3 metros de altura potencial térmica en la cima, debe conservar al menos kinética crítica para la inercia centrípeta segura. <!-- feedback: Correcto. $m \cdot g \cdot h = m \cdot g(2R) + 1/2 m v^2$. Sabiendo que $mv^2/R = mg$ para giro crítico, $v^2 = Rg$. Se sustituye y $h = 2R + 0.5R = 2.5(1.5) = 3.75$m. -->
-- [ ] D) 1.5 metros, porque al bajar y subir la energía kinética se neutraliza anulando la gravedad con las fuerzas centrífugas puras de diseño e interconectando gravedad nula rotatoria. <!-- feedback: Deducción fallida; la energía kinética requiere altura potencial remanente transformada. -->
-
-### Rúbrica de Justificación
-1. **Conservación de Energía:** Formula $E_{\text{m_inicial}} = E_{\text{p_tope}} + E_{\text{k_tope}}$.
-2. **Dinámica Circular:** Integra el concepto de velocidad crítica para circular boca-abajo estructuralmente.
+- [ ] A) Es correcta, porque todo alelo no visible deja de existir. <!-- feedback: Incorrecto. Un alelo recesivo puede permanecer oculto en heterocigotos. -->
+- [ ] B) Es correcta solo si el rasgo es dominante. <!-- feedback: Incorrecto. La visibilidad del rasgo no determina por si sola la permanencia del alelo. -->
+- [x] C) Es falsa, porque el alelo puede mantenerse en individuos portadores sin expresarse fenotipicamente. <!-- feedback: Correcto. La ausencia del fenotipo no implica desaparicion del alelo. -->
+- [ ] D) Es falsa porque todos los alelos recesivos se vuelven dominantes con el tiempo. <!-- feedback: Incorrecto. La dominancia no cambia de esa manera. -->
 
 ### Explicación Pedagógica
-En un rizo estructural, no basta con llegar al punto máximo con velocidad cero (se caería). Se requiere una velocidad lateral ligada a $mv^2/r$ que genere "fuerza centrífuga" presurizante a las pistas ($F_c=mg$).
+El fenotipo visible no siempre revela todos los alelos presentes. Los portadores pueden transmitir un rasgo recesivo.
 
 ---
 
-## Question 6 (Avanzado - Dificultad 6)
-**ID:** `CO-CIE-11-P1-fisicoquimica-001-MASTERY-v6`
-**Bloom:** Evaluar
-**ICFES:** Indagación
-**Expected_Success:** 0.44
-
-### Contexto
-Para neutralizar aguas industriales de minería muy básicas (pH 12) antes de enviarlas al río Cauca se usa goteo de ácido clorhídrico ($HCl$) concentrado al $1.0\text{ M}$. Un operador propone cambiar a un ácido "débil" y barato, como ácido acético al $1.0\text{ M}$, creyendo que al tener igual molaridad tendrá igual de poder neutralizante estequiométrico idéntico y parejo.
-
-### Enunciado
-Evalúe la viabilidad de la propuesta del operador a nivel de indagación y neutralización química.
-
-### Options
-- [x] A) Es estequiométricamente válido usar ácido débil, consumirá un volumen equivalente de $1.0\text{ M}$ para lograr equivalencia analítica arrastrando hidoxilos base fuerte, aunque dejará una solución resultante de pH ligeramente básico por sal resultante. <!-- feedback: Correcto. Un ácido débil extrae su disociación pasivamente consumiéndose a la par frente a bases fuertes por Le Chatelier iterativo. -->
-- [ ] B) Es completamente inválido. Al ser débil nunca bajará el pH porque le ganan los hidróxilos bloqueándole todo el disociado impidiendo su quiebre iónico disolto acuoso molecular base del ion en el tanque. <!-- feedback: Incorrecto. Los ácidos débiles sí pueden reaccionar con bases fuertes y neutralizar hasta el último ion. -->
-- [ ] C) Es peligroso, los ácidos débiles estallan inyectados sobre líquidos orgánicos básicos generando cloro gaseoso tóxico sin purificar en minas a río abierto rural. <!-- feedback: Reacción inorgánica errónea. -->
-- [ ] D) La propuesta es idéntica en resultados que usar $HCl$, porque dañar el pH será a 7.0 exactos porque $1 M = 1 M$ equitativamente matemáticamente lineal. <!-- feedback: Falso. El HCl crea cloruro (pH 7), el Acético crea Acetato (básico, pH ~8-9) tras la titulación final. -->
-
-### Rúbrica de Justificación
-1. **Titulación Base Fuerte - Ácido Débil:** Relaciona disociación iterativa completa estequiométrica a fuerza neutralizadora por consumo químico empujado.
-2. **Punto de Equivalencia Asimétrico:** Anticipa la sal resultante y su hidrólisis residual.
-
-### Explicación Pedagógica
-Un ácido orgánico "débil" reacciona mol a mol igual que uno inorgánico fuerte frente a una base extrema porque al consumirse sus pocos protones activos, se fuerza químicamente a ionizar más protones de reserva para compensar el déficit del agua (Le Chatelier), neutralizando estequiométricamente toda la base fuerte en tanque, pero dejando sal débil hidrolizada.
-
----
-
-## Question 7 (Avanzado - Dificultad 6)
-**ID:** `CO-CIE-11-P1-fisicoquimica-001-MASTERY-v7`
-**Bloom:** Analizar
-**ICFES:** Uso Comprensivo del Conocimiento
-**Expected_Success:** 0.45
-
-### Contexto
-Un agricultor abona su cafetal con nitrato de amonio ($NH_4NO_3$). Tras fuertes aguaceros típicos (lixiviación pluvial), nota que los mantos freáticos de sus nacederos subterráneos empiezan a sufrir crecimiento algal excesivo (eutrofización in-situ) tapando las cuencas de captación de acueducto rural.
-
-### Enunciado
-Cuál es el rol geoquímico fundamental de los aguaceros colombianos sobre el abono nitrogenado sólido en este problema ecosistémico transitorio regional.
-
-### Options
-- [ ] A) Promueven evaporación iónica del fosfato disuelto en el nitrato generando precipitación azul letal en los acuíferos secando raíces a corto plazo y matando animales bénticos algales orgánicos. <!-- feedback: Falso químicamente y biológicamente. -->
-- [ ] B) Reestructuran el ADN de los peces por acción electromagnética del rayo, acelerando fotosíntesis de lagunas subterráneas orgánicas sin luz de amonio mineralizado estanco e hidrógeno inyectado puramente isotópico reactivo artificial agrícola base fertilizante inerte estéril. <!-- feedback: Completamente incoherente y ridículo a las leyes biológicas lumínicas. -->
-- [x] C) La lluvia ejerce de solvente perenne lixiviando (lavando y disolviendo) el nitrato granulado muy soluble del suelo arenoso arrastrándolo a las corrientes en subsuelo como supernutriente que hiper-estimula la proliferación algal perjudicial de humedales o nacederos cerrados que ahogan los cuerpos de agua cerrados rurales sin desfogue. <!-- feedback: Correcto. Modela excelentemente la química de lixiviados eutróficos de cuenca pluvial agrónoma regional de ecosistema fluvial transitorio de acuíferos o humedales base nitrógeno elemental mineralizado. -->
-- [ ] D) Transformar al amonio en ácido nítrico gaseoso que quema la raíz cafetera y pudre la cosecha, lo cual engendra algas como parásito por necrosis foliar exógena superior al suelo con pudrición micelial sistémica arbusto a planta basal inferior muerta sin riego adicional hidrodinámico lixiviado general de aguas bajas pluviales. <!-- feedback: Narrativa hiperbólica falsa, no describe la causa de las algas en acuíferos ajenos al cafetal. -->
-
-### Rúbrica de Justificación
-1. **Solubilidad Química Ambiental:** Evalúa la interacción Nitratos Acuosidad en suelos agrícolas como principal vector hidrodinámico inter-capa (lixiviación de fertilizantes).
-2. **Eutrofización:** Conecta químico nitrógeno arrastrado a boom biológico perjudicial sistémico de flora inferior algosa que compite ecológicamente oxigenadamente por hábitat lacustre cerrado hidrológico regional base hidrosfera dulce paramo andina en bosque primario cafetero andino hídrico tropical suramericano real fáctico de ecosistemas acuáticos colombianos limnícolas regionales o lenticos en cuencas de escorrentía freáticas lixiviables por agricultura irrestricta minero química inerte de nitrogenados alométricos y macronutrientes masivos dispersos solubles sintéticos NPK comunes comerciales orgánico inorgánicos.
-
-### Explicación Pedagógica
-La lixiviación es clave en Colombia. Al ser el ión nitrato soluble al agua, las tormentas lo sepultan en el acuífero, dopando de fertilizante ecosistemas acuáticos lenticos y forzando Eutrofización extrema.
-
----
-
-## Question 8 (Avanzado - Dificultad 7)
-**ID:** `CO-CIE-11-P1-fisicoquimica-001-MASTERY-v8`
-**Bloom:** Sintetizar
-**ICFES:** Indagación
-**Expected_Success:** 0.40
-
-### Contexto
-Durante el Fenómeno de La Niña, el exceso hídrico en áreas arroceras inunda suelos durante prolongados meses anóxicos. La materia orgánica subterránea comienza fermentación sin oxígeno radical liberando biogás ambiental hacia la biósfera regional andina superior de modo globalizado sistemático geolocalizado en planicies húmedas.
-
-### Enunciado
-Determine qué comunidad microbiana metabólicamente se estabiliza de modo dominante anóxico, y qué gas alterador atmosférico principal se inyecta desde esta síntesis anaeróbica al cielo andino inundado regional.
-
-### Options
-- [ ] A) Algas verdes fotosintéticas liberando vapor oxigenado al aire fotorreparando la anoxia del fango. <!-- feedback: Las algas requieren luz e hidro-aerobiosis foliar en pantanos superficiales, el fango subterráneo sin luz muere aeróbicamente. -->
-- [x] B) Arqueas metanogénicas inorgánicas bióticas en la fosa profunda, forzando la fermentación final estructural del detrito y expulsando gas Metano inerte potente gas invernadero regional al aire global. <!-- feedback: Correcto. En lodos asfixiados sin fotosíntesis ni oxígeno, los organismos finales arqueales imperan liberando CH4. -->
-- [ ] C) Rizobacterias productoras de Dióxido de Azufre acidificando el metano puramente por la lluvia oxidante de nitrógeno de capa ininterrumpida rural base fúngica arbustiva micro-bacteriana bi-polar a nivel atómico en ecosistema inundado fluvial anaeróbico tropical basal. <!-- feedback: Falsa quimiología de humedales arroceros comunes. -->
-- [ ] D) Macro-hongos saprófitos respirando todo el $CO_2$ libre y sacando Nitrógeno puro de vuelta licuado como base freática líquida lloviznante ambiental generalizada sobre la cordillera central fúngica continental ecuatorial estancada biótica pantanosa lodazal de ciénaga lítica continental hídrica basal asfixiada anaeróbica total. <!-- feedback: Conceptos aleatorios carentes de ecología. -->
-
-### Rúbrica de Justificación
-1. **Quimio-microbiología Anóxica:** Deduce la metanogénesis como desenlace terminal fáctico del ciclo de carbono anaerobio.
-
-### Explicación Pedagógica
-Los lodos arroceros o humedales profundos bloquean contacto atmosférico oxigenante. La respiración aeróbica pausa, operando allí microorganismos primitivos arcaicos que emiten $CH_4$, impactando agresivamente el efecto invernadero.
-
----
-
-## Question 9 (Avanzado - Dificultad 7)
-**ID:** `CO-CIE-11-P1-fisicoquimica-001-MASTERY-v9`
-**Bloom:** Evaluar
-**ICFES:** Uso Comprensivo del Conocimiento
-**Expected_Success:** 0.38
-
-### Contexto
-Un paciente ingresa a urgencias con alcalosis respiratoria severa al hiperventilar por ataque de pánico (expulsando brutalmente reservas arteriales de Dióxido de Carbono pulmonar molecular exhalatorio veloz por vías altas respiratorias rápidas). La sangre depende del tampón iónico vital: $CO_2 + H_2O \rightleftharpoons H_2CO_3 \rightleftharpoons H^+ + HCO_3^-$.
-
-### Enunciado
-Calcule la disrupción aplicando el Principio Químico de equilibrio molecular reversible Le Chatelier, para evaluar qué le ocurre al pH torrencial de la sangre fisiológica global e indicar cómo se revierte el ataque con métodos empíricos caseros de enfermería pre-hospitalaria (bolsar respiratoria).
-
-### Options
-- [ ] A) El sistema se va a la derecha inyectando más $H^+$ fatalmente hiper-acidificando al individuo fundiéndole venas. El tratamiento es hacerlo hiperventilar aún más forzosamente para inyectar oxígeno sanador curativo estéril por aire purificador externo sin bolsa biológica en hiperventilación controlada a cielo abierto exógeno mecánico asistido sin máscara cerrada. <!-- feedback: Falso. Perder CO2 quita reactivo, desplaza la química a reagruparse y extraer la acidez al revés causando la alcalosis primaria indicada. -->
-- [x] B) Perder mucho gas reactivo $CO_2$ obliga a la química corporal a retroceder compensatoriamente la reacción molecular hacia la izquierda absorbiendo los valiosos H+ disociados, esto alcaliniza letalmente el pH. Respirar en una bolsa de papel obliga al paciente a re-inhalar el CO2 previamente exhalado, devolviendo el reactivo e impulsando el sistema a acidificarse y salvando el pH neutral fisiológico del umbral tóxico neurológico fatal biológico interno celular base arterial buffer carbonato en el cuerpo humano clínico globalizado y vital de UCI médica de paro cerebral orgánico en urgencias químicas toxicológicas. <!-- feedback: Totalmente preciso. Analiza el arrastre iónico de Le Chatelier en tampón y propone el choque terapéutico restaurando el gas fugado base a una reabsorción en bucle curativa física simple médica. -->
-- [ ] C) Al espirar veloz no sufre alteraciones, porque el pH se rige solo por potasio y sodio orgánico, no gases inorgánicos de desecho residual torrencial base a aire inerte sin cationes libres medibles sistémicamente circulantes en glóbulos rojos por enzima hemoglobinal oxigenada de los endotelios base biológicos mamíferos celulares basales del metabolismo glicolisado aéreo respiratorio capilar de base fisiológica macro general del corazón alvéolo alveolar respiratoria celular aeróbico vital fisiológico general biológico metabólico general clínico global asimilado estándar médico fisiológico integral sistémico circulatorio basal pulmonar alveolar oxigenante estocástico aéreo del ser humano estándar base de modelo anatómico biológico normal sistémico integral orgánico fisiológico base metabólico. <!-- feedback: Erróneo. -->
-- [ ] D) Simplemente requiere hielo y agua helada para frenar el metabolismo acelerado reduciendo a su vez la fiebre alcalina biológica corporal. <!-- feedback: Incoherente tratamiento empírico físico. -->
-
-### Rúbrica de Justificación
-1. **Equilibrio Buffer Dinámico Fisiológico Clínico:** Modeliza pérdida reactiva a corrimiento compensatorio.
-
-### Explicación Pedagógica
-Restaurar gas $CO_2$ con bolsas previene paros cerebrales causados por alcalosis en hiperventilados recuperando los protones ($H^+$) del tampón.
-
----
-
-## Question 10 (Maestría - Dificultad 8)
-**ID:** `CO-CIE-11-P1-fisicoquimica-001-MASTERY-v10`
-**Bloom:** Sintetizar
-**ICFES:** Explicación de Fenómenos
-**Expected_Success:** 0.35
-
-### Contexto
-Una termoeléctrica usa carbón logrando un ciclo Carnot teórico propuesto de eficacia calórica mecánica a la turbina estipulada como e = 1 - ($T_c / T_h$) por manual de operario general.
-
-### Enunciado
-Bajo la estructura termodinámica universal fundamental fáctica del Cosmos aplicable mecánicamente, ¿qué límite imposibilita estrictamente una central térmica comercial empírica rotativa unificadora del 100% perfecto energético termodinámico en Colombia industrial?
-
-### Options
-- [x] A) Obligaría que el sumidero refrigerante ambiental externo lograse exactamente Cero Absoluto Estructural (-273 °C), contraviniendo la inviabilidad teórica global mecánica termodinámica entropía del modelo natural estocástico unificado biológico material geológico mundial astrofísico termodinámico clásico de Planck y Nernst básico analítico teórico o escalar la chispa infinita y lograr temperaturas lumínicas infinitas estelares dentro del caldero industrial en factor de turbina limitante estructural material metalúrgico de diseño civil mecánico. <!-- feedback: Correcto. Si Tc no es cero y Th no es infinito, la eficiencia siempre tiene tope menor a 1 (100%). -->
-- [ ] B) Es posible lograr 100% con mantenimientos finos eliminando de tajo toda fricción rotórica magnética del cojinete hidráulico base de turbina termal al vapor puro súper crítico acoplado lógicamente por levitación y aislando al vacío tubular de forma óptima pura el entorno del escape de la combustión. <!-- feedback: Incorrecto. Desconoce la naturaleza implícita de la pérdida termodinámica obligatoria más allá del mero roce físico analítico empírico macro limitante termal de entropía basal termodinámica irreversible cósmica básica macro fáctica técnica clásica isocórica adiabática isobárica elemental de termodinámica aplicada al ser humano mecánico teórico estocástico integral moderno industrial acoplado modelar ICFES genérico mecánico base física termodinámica clásica. -->
-- [ ] C) Jamás opera térmicamente con gas. <!-- feedback: Incorrecto -->
-- [ ] D) Falso limitante. <!-- feedback: Incorrecto. -->
-
-### Rúbrica de Justificación
-1. **Leyes Carnotanas Inflexibles Universales Limitantes Mecánicas:** Detecta base subyacente de temperaturas absolutas asimiladas en eficiencia termo calorífica estática real no ideal límite mecánico estricto empírico fáctico físico teórico macro ICFES.
-
-### Explicación Pedagógica
-La energía útil es solo una fracción delta térmica; siempre existirán colisiones moleculares residuales re-emitiendo calor vibracional al sumidero, impidiendo el uso pleno de toda la calidez desprendida inicial rotativa en la turbina base empírica mecatrónica del ciclo ideal físico.
-
----
-
-## Question 11 (Maestría - Dificultad 8)
+## Question 11 (Variant Advanced - Difficulty 7)
 **ID:** `CO-CIE-11-P1-fisicoquimica-001-MASTERY-v11`
-**Bloom:** Evaluar
-**ICFES:** Indagación
-**Expected_Success:** 0.30
+**Bloom:** Analyze
+**ICFES:** Uso comprensivo del conocimiento cientifico
+**Expected_Success:** 0.43
 
 ### Contexto
-En un cruce de codominancia floral biológica mendeliana atípica en orquídeas in vitro cruzadas genéticamente por hibridación, rojo puro (RR) y blanco puro (BB) germinan en orquídea a manchas (RB) de dos tonos fenotípicos expresos al tiempo. El biólogo a cargo alega dominancia incompleta pura molecular visual estructural estática del citoplasma basal orgánico.
+En una reaccion quimica dentro de un recipiente cerrado se mide la masa total antes y despues del proceso.
 
 ### Enunciado
-Refute analíticamente por qué la mezcla manchada NO puede encasillarse como factor biológico general incompleto o intermedio (rosado) bajo leyes mendelianas empíricas biológicas cromosómicas clásicas básicas evaluatorias.
+¿Que resultado se espera si no hubo perdida de materia al exterior?
 
 ### Options
-- [ ] A) Porque el gen no colorea las flores sino muta el fenotipo celular al color ambiental. <!-- feedback: Incoherente. -->
-- [ ] B) Porque la orquídea se enfermó con virus colorífico de mosaico foliar in vitro. <!-- feedback: Incoherente. -->
-- [x] C) La dominancia incompleta formaría coloración diluida fusionada intermedia equitativa fenotípica genérica uniforme rosada por co-expresión difusa citoplasmática; pero codominancia asegura la expresión neta dura intacta al 100% local fragmentada de AMBOS parentales heterocigotos a la par visibles estructuralmente de modo heterogéneo visual físico, como parches bicolor inalterables funcionales expresados estocásticamente en cromosomas. <!-- feedback: Correcto. Define con excelencia teórica la divergencia de conceptos, manchas intactas son codominancia al expresar genes íntegros no fusionados difusos. -->
-- [ ] D) Ambas son sinónimos científicos en botánica molecular general fáctica hibridadora. <!-- feedback: Inválido teóricamente mendeliano. -->
-
-### Rúbrica de Justificación
-1. **Divergencias Herencia Mendeliana Extendida Floral Genética Molecular:**
+- [ ] A) Que la masa final sea siempre mayor, porque se formaron productos nuevos. <!-- feedback: Incorrecto. Los productos provienen de los reactivos ya presentes. -->
+- [x] B) Que la masa total se conserve, aunque cambie la naturaleza de las sustancias. <!-- feedback: Correcto. En un sistema cerrado se cumple la conservacion de la masa. -->
+- [ ] C) Que la masa final sea cero, porque la energia reemplaza la materia. <!-- feedback: Incorrecto. No es una interpretacion adecuada para estas reacciones escolares. -->
+- [ ] D) Que la masa dependa solo del color observado al final. <!-- feedback: Incorrecto. El color no determina la masa total del sistema. -->
 
 ### Explicación Pedagógica
-La mancha representa el producto de la célula que alzó copias rojas intactas conviviendo con células de copias blancas intactas de factor paralelo sin fusionar citológicamente a medias; codominancia plena pura genética alélica de loci genómico híbrido.
+La ley de conservacion de la masa indica que, en un sistema cerrado, la cantidad total de materia permanece constante.
 
 ---
 
-## Question 12 (Maestría - Dificultad 9)
+## Question 12 (Variant Advanced - Difficulty 7)
 **ID:** `CO-CIE-11-P1-fisicoquimica-001-MASTERY-v12`
-**Bloom:** Transferir
-**ICFES:** Explicación de Fenómenos
+**Bloom:** Analyze
+**ICFES:** Indagación
+**Expected_Success:** 0.41
+
+### Contexto
+Se cultivan bacterias identicas en dos cajas de Petri. La caja A recibe un antibiotico y la caja B no.
+
+### Enunciado
+¿Cual es la funcion de la caja B en este diseno?
+
+### Options
+- [ ] A) Aumentar el numero de bacterias por azar. <!-- feedback: Incorrecto. Su funcion no es aumentar la muestra de forma aleatoria. -->
+- [ ] B) Servir como variable dependiente. <!-- feedback: Incorrecto. La variable dependiente es el crecimiento bacteriano observado. -->
+- [x] C) Actuar como control para comparar el efecto del antibiotico. <!-- feedback: Correcto. El control permite atribuir diferencias al tratamiento aplicado. -->
+- [ ] D) Reemplazar la necesidad de medir resultados. <!-- feedback: Incorrecto. Un control no elimina la necesidad de observar y medir. -->
+
+### Explicación Pedagógica
+Los grupos de control son claves en el diseno experimental porque permiten comparar lo que ocurre con y sin tratamiento.
+
+---
+
+## Question 13 (Variant Advanced - Difficulty 7)
+**ID:** `CO-CIE-11-P1-fisicoquimica-001-MASTERY-v13`
+**Bloom:** Apply
+**ICFES:** Formulación y ejecución
+**Expected_Success:** 0.39
+
+### Contexto
+En una molecula de ADN, una cadena presenta la secuencia `A - G - C - T`.
+
+### Enunciado
+¿Cual es la secuencia complementaria correcta?
+
+### Options
+- [ ] A) `A - C - G - T` <!-- feedback: Incorrecto. No respeta el apareamiento especifico de bases. -->
+- [ ] B) `T - G - C - A` <!-- feedback: Incorrecto. Solo dos bases quedaron emparejadas de forma adecuada. -->
+- [x] C) `T - C - G - A` <!-- feedback: Correcto. Adenina se une con timina y citosina con guanina. -->
+- [ ] D) `U - C - G - A` <!-- feedback: Incorrecto. El uracilo pertenece al ARN, no al ADN. -->
+
+### Explicación Pedagógica
+La complementariedad de bases es fundamental para la replicacion y la transcripcion de la informacion genetica.
+
+---
+
+## Question 14 (Variant Advanced - Difficulty 8)
+**ID:** `CO-CIE-11-P1-fisicoquimica-001-MASTERY-v14`
+**Bloom:** Evaluate
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.36
+
+### Contexto
+Una planta muestra hojas amarillas y poco crecimiento. Un analisis indica baja produccion de clorofila.
+
+### Enunciado
+¿Cual consecuencia directa es la mas probable?
+
+### Options
+- [ ] A) Mayor captacion de energia luminosa para producir glucosa. <!-- feedback: Incorrecto. Menos clorofila disminuye la capacidad de captar luz. -->
+- [ ] B) Aumento inmediato del numero de cromosomas. <!-- feedback: Incorrecto. La baja clorofila no cambia el numero cromosomico. -->
+- [x] C) Disminucion de la fotosintesis y de la produccion de materia organica. <!-- feedback: Correcto. La clorofila es esencial para captar energia luminosa. -->
+- [ ] D) Transformacion del ADN en ARN dentro del nucleo. <!-- feedback: Incorrecto. No es una consecuencia directa de la deficiencia observada. -->
+
+### Explicación Pedagógica
+La clorofila participa en la captura de energia necesaria para la fotosintesis. Si disminuye, la produccion de glucosa tambien se afecta.
+
+---
+
+## Question 15 (Variant Advanced - Difficulty 8)
+**ID:** `CO-CIE-11-P1-fisicoquimica-001-MASTERY-v15`
+**Bloom:** Evaluate
+**ICFES:** Uso comprensivo del conocimiento cientifico
+**Expected_Success:** 0.34
+
+### Contexto
+Dos sustancias incoloras se mezclan y la temperatura del recipiente aumenta sin calentamiento externo.
+
+### Enunciado
+¿Que conclusion es la mas sustentable con esa observacion?
+
+### Options
+- [ ] A) Que necesariamente ocurrio un cambio de estado y no una reaccion. <!-- feedback: Incorrecto. El aumento de temperatura no permite afirmar eso. -->
+- [x] B) Que es probable que la reaccion haya liberado energia al entorno inmediato. <!-- feedback: Correcto. El incremento de temperatura sugiere un proceso exotermico. -->
+- [ ] C) Que la masa total del sistema desaparecio parcialmente. <!-- feedback: Incorrecto. El calentamiento no implica perdida de masa. -->
+- [ ] D) Que la mezcla se volvio menos concentrada por definicion. <!-- feedback: Incorrecto. La concentracion no se deduce solo del cambio termico. -->
+
+### Explicación Pedagógica
+En una reaccion exotermica parte de la energia quimica se transfiere al entorno, lo que puede evidenciarse como aumento de temperatura.
+
+---
+
+## Question 16 (Variant Advanced - Difficulty 8)
+**ID:** `CO-CIE-11-P1-fisicoquimica-001-MASTERY-v16`
+**Bloom:** Analyze
+**ICFES:** Indagación
+**Expected_Success:** 0.31
+
+### Contexto
+En una poblacion de insectos aparece resistencia a un insecticida despues de varias generaciones de uso continuo.
+
+### Enunciado
+¿Que explicacion cientifica es mas adecuada?
+
+### Options
+- [ ] A) El insecticida creo intencionalmente genes nuevos y exactos en todos los individuos. <!-- feedback: Incorrecto. La resistencia no surge porque todos cambien de forma dirigida al mismo tiempo. -->
+- [ ] B) Los individuos decidieron adaptarse para sobrevivir. <!-- feedback: Incorrecto. La adaptacion no ocurre por decision consciente. -->
+- [x] C) Los individuos con variantes favorables sobrevivieron y dejaron mas descendencia que los susceptibles. <!-- feedback: Correcto. La seleccion natural favorece los rasgos heredables que aumentan la supervivencia. -->
+- [ ] D) El ambiente elimino por completo la herencia genetica. <!-- feedback: Incorrecto. La herencia sigue siendo la base de la transmision del rasgo. -->
+
+### Explicación Pedagógica
+La seleccion natural actua sobre variaciones heredables. El ambiente no diseña el rasgo, sino que favorece ciertas variantes.
+
+---
+
+## Question 17 (Variant Mastery - Difficulty 9)
+**ID:** `CO-CIE-11-P1-fisicoquimica-001-MASTERY-v17`
+**Bloom:** Evaluate
+**ICFES:** Pensamiento reflexivo y sistemico
+**Expected_Success:** 0.28
+
+### Contexto
+Un grupo de estudiantes quiere saber si una bebida isotónica conduce mejor la electricidad que el agua destilada.
+
+### Enunciado
+¿Que resultado apoyaria mejor la idea de que la bebida tiene mayor cantidad de iones disueltos?
+
+### Options
+- [ ] A) Que ambos liquidos hiervan al mismo tiempo. <!-- feedback: Incorrecto. El punto de ebullicion no es aqui la evidencia principal de conductividad. -->
+- [x] B) Que el circuito cierre con mayor facilidad cuando se usa la bebida que cuando se usa agua destilada. <!-- feedback: Correcto. Una mayor conductividad indica mayor presencia de especies cargadas en solucion. -->
+- [ ] C) Que la bebida tenga color mas intenso. <!-- feedback: Incorrecto. El color no basta para inferir cantidad de iones. -->
+- [ ] D) Que el recipiente de la bebida sea metalico. <!-- feedback: Incorrecto. La conductividad del recipiente no demuestra la del liquido. -->
+
+### Explicación Pedagógica
+Las soluciones con mas iones libres conducen mejor la corriente. La observacion del circuito permite inferir ese comportamiento.
+
+---
+
+## Question 18 (Variant Mastery - Difficulty 9)
+**ID:** `CO-CIE-11-P1-fisicoquimica-001-MASTERY-v18`
+**Bloom:** Evaluate
+**ICFES:** Formulación y ejecución
 **Expected_Success:** 0.25
 
 ### Contexto
-Estabilidad atmosférica: Si un bloque de aire caliente asciende (expande adiabáticamente y enfría), y su temperatura permanece más cálida y densamente volátil ligera que el techo colindante externo de su misma cota, continuará acelerando al infinito convectivo generando un tornado.
+En una especie vegetal, el alelo `R` produce semillas rojas y domina sobre `r`, que produce semillas blancas. Un investigador observa que una planta con semillas rojas, al autofecundarse, produce descendencia roja y blanca.
 
 ### Enunciado
-Un globo termodinámico es rodeado de una "inversión térmica" (aire externo estratificado caluroso sobre aire denso invernal del trópico andino interandino paramuno bajo de valle). Aplique hidrostática dinámica para predecir si estalla el clima.
+¿Que se concluye con mayor respaldo?
 
 ### Options
-- [x] A) Quedará estancado o bloqueado en capa límite descendente sin ascensión, acumulando smog letal regional local. Es atmósfera híper-estable taponadora adiabática base de clima invernal valle andino no-convectivo pesado nublado smog estancado límite invernal tropical clásico. <!-- feedback: Correcto. Transferencia macro a microclimas. -->
-- [ ] B) Inicia huracanes por inestabilidad perpetua del giro andino sobre sí. <!-- feedback: Inverso a la ley convectiva basal. -->
-- [ ] C) Provoca nieve. <!-- feedback: Incorrecto. -->
-- [ ] D) Gira rebotando reventando la cuenca térmica. <!-- feedback: Incorrecto. -->
-
-### Rúbrica de Justificación
-1. **Gradientes Atmosféricos Transferencia Adicional Térmica Cota Isocórica Isobárica Fáctica Mecánica Atmosférica.**
+- [ ] A) Que la planta parental era `RR`. <!-- feedback: Incorrecto. Un homocigoto dominante no produciria descendencia blanca al autofecundarse. -->
+- [x] B) Que la planta parental era `Rr`. <!-- feedback: Correcto. Solo un heterocigoto puede generar descendientes con fenotipo recesivo en ese cruce. -->
+- [ ] C) Que el color blanco es dominante. <!-- feedback: Incorrecto. La informacion dada indica lo contrario. -->
+- [ ] D) Que el rasgo no depende de genes. <!-- feedback: Incorrecto. El patron observado es compatible con herencia mendeliana. -->
 
 ### Explicación Pedagógica
-Topar aire frío denso encapsulado por sábana caliente superior interandina paraliza los motores convectivos que dependen de que suba el calor. Se sofoca la cuenca acumulando aerosoles locales y formando smog invernoso valle cerrado estático.
+La aparicion del fenotipo recesivo en la descendencia revela la presencia del alelo recesivo en el progenitor de fenotipo dominante.
 
 ---
 
-## Question 13 (Maestría - Dificultad 9)
-**ID:** `CO-CIE-11-P1-fisicoquimica-001-MASTERY-v13`
-**Bloom:** Evaluar
-**ICFES:** Uso Comprensivo del Conocimiento
-**Expected_Success:** 0.22
+## Question 19 (Variant Mastery - Difficulty 10)
+**ID:** `CO-CIE-11-P1-fisicoquimica-001-MASTERY-v19`
+**Bloom:** Evaluate
+**ICFES:** Indagación
+**Expected_Success:** 0.21
 
 ### Contexto
-Un atleta olímpico requiere máxima perfusión oxigenativa muscular base mio-fibra durante sprint ATP celular intensivo glucolítico límite estricto de vía anaerobia láctica final terminal en meta.
+Se comparan dos hipotesis sobre el crecimiento de una levadura: H1 propone que aumenta con mas azucar disponible; H2 propone que depende solo de la temperatura. Se diseña un experimento con la misma temperatura en todos los montajes y distintas concentraciones de azucar.
 
 ### Enunciado
-Evalúe cómo el "Efecto Bohr" empodera a su hemoglobina estocástica orgánica a priorizar molecularmente a la pierna acalambrada frente a otros tejidos pasivos.
+Si el crecimiento aumenta a medida que sube la concentracion de azucar, ¿que inferencia es la mas valida?
 
 ### Options
-- [ ] A) La hemoglobina viaja a todas partes igual oxigenando generalizadamente sin poder discriminar biológicamente zonas base miofibrilares capilares celulares anaerobias de zonas pasivas en atletismo general base hemodinámica circulatoria fisiológica. <!-- feedback: Erróneo. Olvida que la hemoglobina reacciona bioquímicamente. -->
-- [x] B) El ácido láctico y gas CO2 inyectan de la pierna al capilar, disminuyendo violentamente el pH puntual local de esa zona tisular muscular. La hemoglobina resiente químicamente la acidez protónica y desestabiliza orgánicamente sus enlaces moleculares en cascada biótica, soltando feroz e íntegramente todo el $O_2$ acurrucado precisamente allí como aluvión oxigenante curativo bioquímico de auxilio focal adaptativo corporal automático genéticamente forzado base evolutiva de transporte gas adaptativo. <!-- feedback: Excelente. El efecto químico físico de soltar gases ligandos selectivamente donde hay estrés de ph de bióxido de carbono sistémico general hipercapnia orgánica base metabólica muscular profunda. -->
-- [ ] C) Porque el corazón la dirige de modo mental bombeando allí no más a la zona dolorida conscientemente limitando válvulas internas venosas musculares directas capilares de flujo de pierna selectivo neural vascularizado consciente puro. <!-- feedback: Funcionalidad neurológica absurda anatómica vasomotora vascular hemodinámica sanguínea del torrente global del humano. -->
-- [ ] D) Por magnetismo óseo base celular cálcico molecular limitante focal estocástico férrico sanguíneo que atrae magnetos. <!-- feedback: Increíble invención alquímica férrica no base al fenómeno buffer Bohr. -->
-
-### Rúbrica de Justificación
-1. **Desplazamiento Ligando Hemoglobínico Bioquímico Sanguíneo Base Ph Bohr Efecto Capilar.**
+- [ ] A) Que H2 queda confirmada y H1 descartada. <!-- feedback: Incorrecto. El resultado favorece la explicacion basada en azucar, no la de temperatura constante. -->
+- [ ] B) Que no se puede inferir nada porque toda observacion experimental es subjetiva. <!-- feedback: Incorrecto. Un diseno controlado si permite sacar inferencias respaldadas. -->
+- [x] C) Que la evidencia apoya H1 bajo las condiciones del experimento, aunque no excluye estudiar otras variables en trabajos posteriores. <!-- feedback: Correcto. La conclusion debe ajustarse a la evidencia y al alcance del diseno. -->
+- [ ] D) Que la azucar deja de ser una variable y pasa a ser constante. <!-- feedback: Incorrecto. Justamente la azucar fue la variable manipulada. -->
 
 ### Explicación Pedagógica
-La sangre entrega oxígeno fácilmente en tejidos que presenten acidez y bióxido de carbono altos. Es un termostato natural porque el tejido que más trabaja suda metabólicamente ácido, alertando a las proteínas eritrocitarias de entregar sus valiosos globos de aire salvavidas base biología celular.
+Una conclusion cientifica valida reconoce lo que la evidencia respalda y tambien los limites del experimento realizado.
 
 ---
 
-## Question 14 (Maestría - Dificultad 9)
-**ID:** `CO-CIE-11-P1-fisicoquimica-001-MASTERY-v14`
-**Bloom:** Sintetizar
-**ICFES:** Indagación
+## Question 20 (Variant Mastery - Difficulty 10)
+**ID:** `CO-CIE-11-P1-fisicoquimica-001-MASTERY-v20`
+**Bloom:** Evaluate
+**ICFES:** Pensamiento reflexivo y sistemico
 **Expected_Success:** 0.18
 
 ### Contexto
-Pila Galvánica de Zinc Ánodo sumergido acoplado y Cátodo Cobre.
+Una mutacion cambia la secuencia de un gen estructural en una bacteria. Como consecuencia, la proteina producida pierde su forma activa.
 
 ### Enunciado
-Redacte qué fenómeno interconecta el puente salino inyectando iones $K^+$ orgánicos para salvar el colapso electro-motriz celular voltaico limitante experimental.
+¿Cual cadena causal describe mejor el efecto observado?
 
 ### Options
-- [ ] A) Dar voltaje directo y potenciar a 220 Voltios la máquina como batería turbo forzada y energizar. <!-- feedback: Incoherente voltaje. -->
-- [x] B) Neutralizar asimétricamente los desbalances de polaridad de carga del electrolito. El Cátodo que acumula electronegatividad mortal que detendría electrones entrantes, es bañándolo curativamente con los potasios ($K^+$) contrarrestantes salinos puros aniónicos disociados, habilitando fluidez sostenida circuital eléctrica continua sin paro químico limitante repulsivo biológico metalúrgico voltaico sistémico base general celda de energía básica. <!-- feedback: Perfecta síntesis analítica de química galvánica polar buffer buffer polaridad electrostática química disolución acuosa iónica salina acoplada de metales disociados. -->
-- [ ] C) Pintar el líquido reactivo y limpiarlo purificando corrosión férrica con base potásica limpiadora buffer salina base. <!-- feedback: Incorrecto. -->
-- [ ] D) Lubricante capilar del cobre por abrasión de ánodo electroestático friccional termal base molecular cinética del electrón rodando inorgánico cableado conductivo grueso magnético. <!-- feedback: Inventado. -->
-
-### Rúbrica de Justificación
-1. **Electro-cinética Buffer Iónico Voltaico Redox General Celda Iones Clásica.**
+- [ ] A) Cambio en el gen -> cambio inmediato del numero de organelos -> nueva especie. <!-- feedback: Incorrecto. Ese encadenamiento no explica la perdida funcional de la proteina. -->
+- [ ] B) Cambio en el gen -> aumento obligatorio de energia -> desaparicion del ADN. <!-- feedback: Incorrecto. La mutacion no implica esa secuencia de eventos. -->
+- [x] C) Cambio en la secuencia de ADN -> cambio en el ARN mensajero -> cambio en la secuencia de aminoacidos -> alteracion de la forma y funcion proteica. <!-- feedback: Correcto. Resume de forma coherente el flujo de informacion genetica y su efecto funcional. -->
+- [ ] D) Cambio en el gen -> desaparicion de la membrana celular -> perdida de herencia. <!-- feedback: Incorrecto. No es la consecuencia directa descrita por la situacion. -->
 
 ### Explicación Pedagógica
-Las pilas mueren de inmediato si una piscina se satura de carga positiva empujadora repulsiva a nuevos electrones. El puente tira cargas inversas neutralizantes que invisibilizan los átomos de residuo protegiendo el viaje de carga eléctrica general base voltaica.
-
----
-
-## Question 15 (Transferencia Áurea - Dificultad 10)
-**ID:** `CO-CIE-11-P1-fisicoquimica-001-MASTERY-v15`
-**Bloom:** Transferir
-**ICFES:** Formulación y Ejecución
-**Expected_Success:** 0.12
-
-### Contexto
-En astrobiología en Marte (1% atmósfera de presión), astronautas pretenden cocinar huevo duro pero el agua a $5^\circ C$ superficial y presiones infimas de 600 Pascales en el cráter de Jezero entra en ebullición explosiva fría antes de poder aplicar fuego real del quemador propano asimilador exotérmico a la estufa química.
-
-### Enunciado
-¿Cuál es la transferencia termodinámica causal crítica de la transición de fase (Diagrama PT) que frustra al explorador estelar?
-
-### Options
-- [ ] A) Gravedad menor altera estructura atómica del hidrógeno disociando moléculas base de agua líquida inestable interespacial flotante marciana cósmica gaseosa evaporatoria inducida nuclear. <!-- feedback: Pseudo-ciencia cuántica inoperante al caso termodinámico expuesto general de ebullición simple límite de presión atmosférica ambiental física estándar cósmica molecular. -->
-- [x] B) Ebullir no implica calentarse obligatoriamente de modo directo calórico; ebullir es que el vapor interno logre igualar la presión ambiental y superarla empujando. En la pálida atmósfera marciana casi al vacío interespacial, la presión es tan infinitamente baja que el agua no necesita excitar sus moléculas calóricamente (energía kinética termal) para desatar la burbuja; a 5 grados rompe la tensión y escapa al aire libre, hirviendo helado letalmente inviabilizando cocciones térmicas basales nutricionales de misión tripulada aerospacial base hidrostática ebullitiva termodinámica base PT diagrama clásico de fases estándar elemental astrofísico planetario base gas ideal. <!-- feedback: Majestuoso. Relaja la ebullición no al límite de 100 grados terrestre, sino al cruce de curvas de tensión de vapor p vs Presión externa barométrica limitante de fase fáctica estructural límite cosmológico andino interplanetario simulable en laboratorio escolar al vacío hiperbárico negativo inverso físico elemental. -->
-- [ ] C) El dióxido marciano quema el hielo con acidez y burbujea químico estéril venenoso corrosivo atmosférico asimilándose en niebla de evaporación seca mineral falsa de sublimación térmica. <!-- feedback: Alucinación reactiva falsa y limitante fáctica general química base inorgánica elemental estocástica de simulación astrobiológica falsa ICFES. -->
-- [ ] D) Simplemente se congela al entrar en fase sólida y miente el explorador empírico falseando termodinámica intercontinental de cráteres de basalto marciano superficial. <!-- feedback: Errónea de base. -->
-
-### Rúbrica de Justificación
-1. **Dependencia Ebullición vs Presión Barométrica Ambientales (Equilibrio de Gases Fase PT General Diag)**
-
-### Explicación Pedagógica
-Hervir es un equilibrio de fuerzas: Presión de vapor molecular vs Capa presurizadora aplastante del aire atmosférico de la burbuja. En el vacío hiperbárico bajo cero planetario andino extremo asimilado, cualquier líquido explota en vapor hirviente porque cesa la mano titánica del aire terrícola general bloqueador líquido, obligando uso indispensable ineludible humano de olla de presurización hiperbárica astronáutica tripulada.
-
----
-
-*(Debido a la densidad técnica maestría estricta protocolar, las siguientes 5 mantienen estructura simplificada y sintetizada para lograr consistencia con los esquemas de tiempo real acotado del framework API sin disrumpir taxonomía cognitiva del simulador de evaluación analítico).*
-
----
-
-## Question 16 (Intermedio - Dificultad 5)
-**ID:** `CO-CIE-11-P1-fisicoquimica-001-MASTERY-v16`
-**Bloom:** Aplicar
-**ICFES:** Modelación
-**Expected_Success:** 0.60
-
-### Contexto
-Un rayo de luz pasa del aire (n=1) al agua (n=1.33).
-
-### Enunciado
-¿Cuál modelo predice el cambio y por qué se acerca a la normal?
-
-### Options
-- [ ] A) Rebote total. <!-- feedback: Es refracción, no reflexión total. -->
-- [ ] B) Ley empuje. <!-- feedback: Arquímedes. -->
-- [x] C) Ley de Snell. Entra a medio de mayor índice y su velocidad se retrasa encogiéndose en ángulo inclinado. <!-- feedback: Correcto. Snell predice índices y cierre de ángulos. -->
-- [ ] D) Fotones ganan masa g cayendo a fondo marino en declive visual de flexión. <!-- feedback: Absurdo en materia lumínica. -->
-
-### Rúbrica de Justificación
-1. **Óptica Refraccional.**
-
-### Explicación Pedagógica
-Luz rápida en lento decae angulo isocórico.
-
----
-
-## Question 17 (Avanzado - Dificultad 6)
-**ID:** `CO-CIE-11-P1-fisicoquimica-001-MASTERY-v17`
-**Bloom:** Evaluar
-**ICFES:** Conocimiento
-**Expected_Success:** 0.50
-
-### Contexto
-Proteínas se desnaturalizan al aumentar el pH a base límite corrosiva alcalina tisular en estómago (ej. 13 alcalinidad).
-
-### Enunciado
-¿A nivel de interacciones bio-moleculares, qué nexos decaen?
-
-### Options
-- [ ] A) Peptídicos primarios atómicos asediados fuertes. <!-- feedback: No corta el collar primario. -->
-- [x] B) Destruye puentes de hidrógeno 3D desacomodando cargas secundarias reticulares desenrollando el origami orgánico. <!-- feedback: Correcto. -->
-- [ ] C) Disuelve átomos. <!-- feedback: Invalido. -->
-- [ ] D) Electromagnetismo. <!-- feedback: Invalido. -->
-
-### Rúbrica de Justificación
-1. **Macromolécula Conformación Bioquímica:** pH vs Puentes H 3D funcionales del plegamiento cuaternario/secundario frágil covalente falso de interacciones de VanDerWaals bio limitantes acuosas ácidas asimiladas.
-
-### Explicación Pedagógica
-pH altera iones circundantes que sostenían fuerzas de puente H en las hélices proteicas celulares alterando forma desnaturalizándola asimilando calor extremo también molecular inorgánico celular metabólico.
-
----
-
-## Question 18 (Avanzado - Dificultad 7)
-**ID:** `CO-CIE-11-P1-fisicoquimica-001-MASTERY-v18`
-**Bloom:** Analizar
-**ICFES:** Indagación
-**Expected_Success:** 0.45
-
-### Contexto
-Árbol filogenético general muestra rama larga del Homo sapiens alejado de Neandertales pero compartiendo nudo antiguo general base de primate africano fósil basal divergente paleolítico ancestral antropológico molecular filético.
-
-### Enunciado
-Cuál conclusión es correcta evolutivamente.
-
-### Options
-- [ ] A) Homo Sapiens evolucionó del Neandertal europeo primigenio superior puro biótico orgánico celular lineal fáctico sin saltos especiación divergente gradual. <!-- feedback: Son primos hermanos, sin decencia directa fáctica fósil genómica mitocondrial lineal pura cruzada estricta global humana sapiens neandertal cruz natural basal humana africana extinta de Europa glaciar asimilada actual fáctica empírica basal real simulación icfes paleo biología molecular. -->
-- [ ] B) Crecimos de gorilas. <!-- feedback: Primos de base ancestral no descendencia directa filial en filogenia moderna biológica evolutiva fáctica teórica analítica icfes general integral. -->
-- [x] C) Compartimos un ancestro común hipotético del que irradiamos paralelamente de modo arbustivo divergente filéticamente sin ser línea base inorgánica estéril sin descendencia final. <!-- feedback: Correcto. Entiende nudo cladístico. -->
-- [ ] D) Aves al espacio andino global biológico fósil estocástico fractal orgánico inorgánico fáctico asimilable cósmico natural intergaláctico de meteorito celular. <!-- feedback: Mágico inventado y descartable. -->
-
-### Rúbrica de Justificación
-1. **Trazado Cladogramas:** Analítica de nodos arbol-filogenético común ancestro darwiniano especiación hibridadora cladística fósil moderna genética y analítica filogenética cruzada icfes genérica biológica macro estructural empírica biológica ICFES estándar regional.
-
-### Explicación Pedagógica
-Nodos definen antepasados base teórica evolutiva biológica, ramas de vida actual simulan irradiación paralela no lineal humana fáctica general icfes regional colombiana biológica molecular filética base de ecología y evolución cruzada sistémica.
-
----
-
-## Question 19 (Maestría - Dificultad 8)
-**ID:** `CO-CIE-11-P1-fisicoquimica-001-MASTERY-v19`
-**Bloom:** Transferir
-**ICFES:** Formulación
-**Expected_Success:** 0.35
-
-### Contexto
-Sinergia hormonal antagónica en hígado hepático biológico insulínico y glucagón limitante del páncreas humano asimilando metabolismo glucógeno intercelular orgánico metabólico fáctico fisiológico general en mamífero superior biológico ICFES genérico anatomía.
-
-### Enunciado
-Definir rol del páncreas basal si alguien pasa 48hr en ayunas en bosque perdido.
-
-### Options
-- [x] A) Apaga insulina, secreta brutal glucagón que rompe hígado exiliando azúcar al torrente en rescate al cerebro moribundo isquémico basal neuro-glúcido basal puro limitador de muerte celular anóxica cerebral base asimilada de coma hipoglicémico inorgánico. <!-- feedback: Correcto. Antagonista para proteger órganos neurovitales rompiendo el glucógeno de reserva hepática muscular base hormonal humana fisiológica integral unificadora endocrina basal anatómica del paciente inorgánico ayuno hipoglicemia aguda. -->
-- [ ] B) Inyecta insulina masiva para guardar azúcar extra de la grasa que derroca al intestino grueso linfático basal hormonal humano biológico general de paciente andino selvático perdido general. <!-- feedback: Eso hipoglicemia rápida estandar induciendo coma basal. -->
-- [ ] C) Nada metabólico, el cuerpo asimila aire y agua fotosintetizando clorofíticomente el plasma plasmático rojo del pulmón limitador aeróbico asimilando energía infinita estocástica celular. <!-- feedback: Humanos no son plantas. -->
-- [ ] D) El páncreas muere a las 2 hrs asfixiado de carbohidratos base orgánicos lípidos moleculares grasos basal fácticos endocrinos renales circulatorios asimilador genérico gástricos base anatómica. <!-- feedback: Error fisiológico genérico fáctico biológico anatómico inventado aleatorio endocrinológico basal icfes genérico irreal irrisorio basal de sistema humano. -->
-
-### Rúbrica de Justificación
-1. **Glándulas y Homeostasis Base Anatómica Hormonal Glúcido Biológico Fáctico.**
-
-### Explicación Pedagógica
-Glucagón eleva azúcar en sangre, insulina baja. Antagonistas clave de homeostasis.
-
----
-
-## Question 20 (Transferencia Áurea - Dificultad 10)
-**ID:** `CO-CIE-11-P1-fisicoquimica-001-MASTERY-v20`
-**Bloom:** Crear
-**ICFES:** Modelación Estructural
-**Expected_Success:** 0.15
-
-### Contexto
-Transición de matriz energética eólica y su impacto de aspas biótico ecosistémico regional migratorio andino volador asimilando la física eléctrica electromotriz Faraday y Maxwell aplicable a la interconexión andina regional de Guajira costera norteamericana sudamericana regional basal biológica estocástica migratoria animal marina macroestructural ICFES.
-
-### Enunciado
-Evaluar propuesta de reducir daño de pájaros usando torres más altas pintadas ultravioleta biológicamente y qué factor físico magnético termo cinético detiene la turbina de lograr ebullición letal friccional giratoria cósmica andina.
-
-### Options
-- [x] A) El UV aleja a las aves repulsivamente, y el motor no explota porque usa engranajes planetarios reductores de fricción fluida hidrostática asimilados al viento térmico que roba calor disipando al sumidero de aire abierto global biótico y magnético inductivo puro de freno electrostático por ley de Lenz de generador rotórico basal inorgánico en cortocircuito interconector regulador base asimilatorio cósmica mecatrónica andina. <!-- feedback: Correcto estructuralmente técnico. -->
-- [ ] B) No fáctico. <!-- feedback: Erróneo teóricamente evaluatorio genérico. -->
-- [ ] C) Ultravioleta atrae a la muerte y los frena. <!-- feedback: Falso UV ornitológico base. -->
-- [ ] D) Aleatoria fáctica básica sin justificación. <!-- feedback: Irresuelto fáctico base asimilador. -->
-
-### Rúbrica de Justificación
-1. **Integral Macro: Biología Visión Ultravioleta Evolutiva vs Magnetismo Faraday Inducción Lenz de Freno Electro Mecánico Aplicado Estructural General ICFES Genérico Total Unificador de Trama Evaluativa ICFES Saber 11 Integrado.**
-
-### Explicación Pedagógica
-Sinergia maestro. Lenz frena rotación y UV salva ave. Ciencias fusionadas.
-
----
-
-## 📊 Metadata de Calibración
-(Las 20 preguntas calibradas cumplen el espectro de Dificultad 4 a 10 de Protocolo 5).
+La informacion genetica se expresa a traves de la sintesis de proteinas. Una alteracion en la secuencia puede modificar la estructura y la funcion final.
