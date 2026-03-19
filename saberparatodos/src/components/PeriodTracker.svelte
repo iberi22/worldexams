@@ -31,10 +31,10 @@
   ];
 
   // Logic to find the NEXT upcoming exam
-  let nextExam = ALL_EXAMS.find(e => today <= e.date) || ALL_EXAMS[0];
-  if (!ALL_EXAMS.find(e => today <= e.date)) {
-      nextExam = { ...ALL_EXAMS[0], date: new Date(currentYear + 1, 2, 15) };
-  }
+  let nextExam = $state(
+    ALL_EXAMS.find(e => today <= e.date) ??
+    { ...ALL_EXAMS[0], date: new Date(currentYear + 1, 2, 15) }
+  );
 
   // Calculate days remaining
   function getDaysDiff(target) {

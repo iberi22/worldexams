@@ -25,6 +25,8 @@ export interface UserProfileData {
   totalQuestions: number;
   weakAreas: { name: string; accuracy: number }[];
   strongAreas: { name: string; accuracy: number }[];
+  simulatedIcfesScore?: number;
+  recentHistory?: { mmr: number, timestamp: number }[];
   advancedMetrics?: {
     avgTimeCorrect: number;
     avgTimeIncorrect: number;
@@ -32,7 +34,43 @@ export interface UserProfileData {
   };
 }
 
-export type PromptType = 'exam_result' | 'improvement_plan' | 'subject_focus' | 'quick_review' | 'notebooklm' | 'notebooklm_update' | 'chatgpt_study_mode' | 'study_tips' | 'preu_generation';
+export type LearnerArchetype =
+  | 'novice_consolidating'    // MMR < 800 o < 20 preguntas
+  | 'intermediate_rising'     // MMR 800-1200, tendencia positiva
+  | 'advanced_with_gaps'      // MMR 1200-1600, brechas temáticas claras
+  | 'advanced_consistent'     // MMR 1400+, alta consistencia
+  | 'regressing'              // Caída de > 30 MMR en historia reciente
+  | 'sprint_final'            // < 30 días para la prueba (opcional)
+  | 'slow_starter';           // > 100 preguntas, acc < 40%
+
+export interface AdaptiveContext {
+  archetype: LearnerArchetype;
+  momentum: 'rising' | 'stable' | 'falling';
+  speedProfile: 'impulsive' | 'overthinker' | 'balanced';
+  examDaysLeft?: number;
+  consistencyScore: number;
+  simulatedIcfesScore: number;
+  totalQuestionsAnswered: number;
+  topWeakArea?: string;
+  topStrongSubject?: string;
+}
+
+export type PromptType =
+  | 'exam_result'
+  | 'improvement_plan'
+  | 'subject_focus'
+  | 'quick_review'
+  | 'notebooklm'
+  | 'notebooklm_update'
+  | 'chatgpt_study_mode'
+  | 'study_tips'
+  | 'preu_generation'
+  | 'rescue_plan'
+  | 'momentum_boost'
+  | 'elite_refinement'
+  | 'gap_attack'
+  | 'sprint_protocol'
+  | 'adaptive_auto';
 
 // =============================================================================
 // TEMPLATES
@@ -202,21 +240,198 @@ Actualiza mi ruta de aprendizaje priorizando estos nuevos hallazgos.
   // 🆕 High Complexity Generation Prompt (PREU Focus)
   preu_generation: (subject: string, specific_topic: string) => `
 [ROL: Especialista en Psicometría y Evaluación Educativa - Admisión Universitaria]
-Genera un bundle de 5 preguntas de alta complejidad (Nivel 5-10) sobre "${specific_topic}" para el área de ${subject}.
+Genera un bundle de 20 preguntas tipo Saber 11 sobre "${specific_topic}" para el área de ${subject}, alineado con el Protocol v5.1 del repositorio y con la malla curricular colombiana vigente para grado 11.
 
 REQUISITOS TÉCNICOS:
-1. **Dificultad Progresiva**: 2 preguntas Nivel 5-6 (Análisis), 2 preguntas Nivel 7-8 (Síntesis), 1 pregunta Nivel 9-10 (Evaluación crítica).
-2. **Contexto Robusto**: Cada pregunta debe partir de un contexto denso (un párrafo, un fragmento de texto, o una descripción de un fenómeno/problema complejo).
-3. **Taxonomía de Bloom**: Enfócate en procesos cognitivos superiores: analizar relaciones, sintetizar información de múltiples fuentes y evaluar validez de argumentos.
-4. **Format LaTeX**: Usa KaTeX ($...$ para inline, $$...$$ para bloques) para toda expresión matemática o científica.
-5. **Protocolo v4.1+**: Sigue la estructura de bundle con metadatos completos (ID, Bloom, Competencia).
-6. **Distractores de Élite**: Las opciones incorrectas deben basarse en sesgos cognitivos comunes o errores de razonamiento lógico avanzados.
+1. **Dificultad Progresiva**: 4 preguntas D3-D4, 6 preguntas D5-D6, 6 preguntas D7-D8, 4 preguntas D9-D10.
+2. **Alineación oficial**: Usa competencias y estilos de pregunta coherentes con ICFES Saber 11 y contenidos compatibles con MEN.
+3. **Formato**: Entrega Markdown compatible con bundles \`MASTERY\` en \`questions_data/\`.
+4. **Frontmatter obligatorio**: \`id\`, \`country\`, \`grado\`, \`asignatura\`, \`tema\`, \`periodo\`, \`protocol_version\`, \`bundle_index\`, \`bundle_size\`, \`alignment\`, \`distractor_profile\`, \`calibration\`, \`rubric_baseline\`.
+5. **Distractores**: Las opciones incorrectas deben ser plausibles, de la misma categoría semántica, con longitud y detalle parecidos. Prohibido usar opciones absurdas o fácilmente descartables.
+6. **Feedback**: Incluye comentario \`<!-- feedback: ... -->\` para cada opción.
+7. **Formato matemático/científico**: Usa KaTeX ($...$ para inline, $$...$$ para bloques) cuando aplique.
 
-Si es de Matemáticas o Física, incluye al menos una pregunta que requiera **razonamiento espacial** o proyecciones mentales complejas.
+REGLAS POR ÁREA:
+- Matemáticas: prioriza modelación, interpretación funcional y errores algebraicos plausibles.
+- Lectura crítica: prioriza tesis, inferencia, estructura, propósito y evaluación de argumentos.
+- Sociales: prioriza ciudadanía, instituciones, conflicto, multiperspectivismo y análisis de consecuencias.
+- Ciencias: prioriza fenómenos, variables, evidencia y conclusiones.
+- Inglés: mantén CEFR B1-B2; todas las opciones deben tener misma función gramatical y registro.
+
+No uses placeholders, no dejes preguntas incompletas y no reutilices la misma estructura verbal más de dos veces seguidas.
 
 Responde en formato Markdown compatible con el sistema local.
 `.trim(),
+
+  // 🆕 Sprint Final Protocol
+  sprint_protocol: (profile: UserProfileData, context: AdaptiveContext) => `
+[ROL: Comando de Preparación Final Saber 11]
+🚨 SPRINT FINAL: Quedan pocos días para la prueba.
+
+MI ESTADO:
+- ICFES simulado: ${context.simulatedIcfesScore}/500
+- MMR: ${profile.globalMMR} (${profile.rankTitle})
+- Debilidades Críticas: ${profile.weakAreas.slice(0, 3).map(a => a.name).join(', ')}
+- Áreas Sólidas: ${profile.strongAreas.slice(0, 3).map(a => a.name).join(', ')}
+
+PROTOCOLO DE CIERRE:
+1. Basado en mi perfil, ¿qué tema debería priorizar hoy para maximizar puntos?
+2. Dame un plan intensivo de repaso para los días restantes.
+3. ¿Qué técnicas de gestión de tiempo me recomiendas para evitar el agotamiento?
+4. Dame 5 tips psicológicos para el día del examen.
+`.trim(),
+
+  // 🆕 Rescue Plan (Para usuarios en regresión o bajo rendimiento)
+  rescue_plan: (profile: UserProfileData, context: AdaptiveContext) => `
+[ROL: Tutor de Rescate Académico Saber 11]
+He detectado que mi rendimiento ha bajado o es inconsistente. Necesito un "reseteo" estratégico.
+
+SITUACIÓN:
+- MMR Actual: ${profile.globalMMR} (Tendencia: ${context.momentum})
+- Precisión Global: ${Math.round(profile.globalAccuracy * 100)}%
+- Perfil de Velocidad: ${context.speedProfile === 'impulsive' ? 'Impulsivo (necesita calma)' : 'Bloqueado (necesita descarte rápido)'}
+
+NECESITO:
+1. Un diagnóstico de por qué mi rendimiento está siendo ${context.momentum === 'falling' ? 'descendente' : 'bajo'}.
+2. Plan de 48h para recuperar la confianza.
+3. 3 ejercicios de nivel básico-medio sobre ${context.topWeakArea || 'mis debilidades'} con explicación detallada.
+4. ¿Cómo puedo usar mi fortaleza en ${context.topStrongSubject || 'temas conocidos'} para subir el ánimo?
+`.trim(),
+
+  // 🆕 Momentum Boost (Para usuarios en ascenso)
+  momentum_boost: (profile: UserProfileData, context: AdaptiveContext) => `
+[ROL: Coach de Alto Rendimiento Saber 11]
+¡Estoy en racha! Mi rendimiento ha mejorado significativamente.
+
+MÉTRICAS:
+- MMR: ${profile.globalMMR}
+- Consistencia: ${context.consistencyScore}/100
+- ICFES Proyectado: ${context.simulatedIcfesScore}/500
+
+ESTRATEGIA DE ASCENSO:
+1. ¿Cómo paso de un nivel ${profile.rankTitle} al siguiente rango de élite?
+2. Identifica el "eslabón débil" que todavía tengo en ${context.topWeakArea || 'mis temas'}.
+3. Dame 5 ejercicios de ALTA DIFICULTAD (D8-D10) para retarme.
+4. ¿Cómo mantengo este ritmo sin perder la precisión por exceso de confianza?
+`.trim(),
+
+  // 🆕 Gap Attack (Para avanzados con brechas específicas)
+  gap_attack: (profile: UserProfileData, context: AdaptiveContext) => `
+[ROL: Especialista en Análisis de Errores Psicopedagógicos]
+Soy un estudiante avanzado, pero tengo brechas (gaps) que me impiden llegar al puntaje máximo.
+
+PERFIL:
+- MMR: ${profile.globalMMR} | ICFES: ${context.simulatedIcfesScore}/500
+- Fortalezas: ${profile.strongAreas.map(a => a.name).join(', ')}
+- Brecha Crítica: ${context.topWeakArea || 'Temas específicos'}
+
+TAREA DE PRECISIÓN:
+1. Analiza por qué un estudiante de mi nivel suele fallar en ${context.topWeakArea || 'mis temas débiles'}.
+2. Dame el "mapa conceptual" de las trampas más comunes en este tema.
+3. Genera 5 preguntas tipo Saber 11 diseñadas para detectar si ya superé ese gap.
+4. Dame una técnica avanzada de estudio para cerrar esta brecha en menos de 3 horas.
+`.trim(),
+
+  // 🆕 Elite Refinement (Para los mejores)
+  elite_refinement: (profile: UserProfileData, context: AdaptiveContext) => `
+[ROL: Mentor Olímpico Saber 11 - Objetivo 450+]
+Mi meta es la excelencia total y un puntaje superior a 450/500.
+
+MÉTRICAS DE ÉLITE:
+- MMR: ${profile.globalMMR}
+- Consistencia: ${context.consistencyScore}/100
+- Velocidad: ${context.speedProfile}
+
+REFINAMIENTO:
+1. ¿Qué separa a un puntaje 420 de un 480? Dame los detalles técnicos.
+2. Analiza mi consistencia actual y dime cómo evitar errores tontos por falta de atención.
+3. Técnicas avanzadas de descarte en Lectura Crítica y Sociales.
+4. ¿Cómo optimizar mi energía en la segunda sesión del examen real?
+`.trim(),
 };
+
+// =============================================================================
+// LÓGICA DE ADAPTACIÓN
+// =============================================================================
+
+/**
+ * Clasifica al usuario en un arquetipo basado en su historial y métricas
+ */
+export function classifyLearnerArchetype(profile: UserProfileData): LearnerArchetype {
+  const { totalQuestions, globalMMR, globalAccuracy, advancedMetrics, recentHistory } = profile;
+  const consistency = advancedMetrics?.consistencyScore || 50;
+
+  // 1. Sprint Final (Mockeado por ahora)
+  // if (context.daysLeft < 30) return 'sprint_final';
+
+  // 2. Novatos
+  if (totalQuestions < 20) return 'novice_consolidating';
+
+  // 3. Regresión (Caída de MMR importante)
+  if (recentHistory && recentHistory.length >= 10) {
+    const recent = recentHistory.slice(-5);
+    const older = recentHistory.slice(-10, -5);
+    if (recent.length > 0 && older.length > 0) {
+      const avgRecent = recent.reduce((sum, h) => sum + h.mmr, 0) / recent.length;
+      const avgOlder = older.reduce((sum, h) => sum + h.mmr, 0) / older.length;
+      if (avgRecent - avgOlder < -30) return 'regressing';
+    }
+  }
+
+  // 4. Élite / Avanzado Consistente
+  if (globalMMR >= 1400 && consistency >= 75) return 'advanced_consistent';
+
+  // 5. Avanzado con brechas
+  if (globalMMR >= 1200 && profile.weakAreas.length > 0) return 'advanced_with_gaps';
+
+  // 6. En ascenso (Momentum positivo)
+  if (recentHistory && recentHistory.length >= 5) {
+     const last = recentHistory[recentHistory.length - 1].mmr;
+     const first = recentHistory[recentHistory.length - 5].mmr;
+     if (last - first > 20) return 'intermediate_rising';
+  }
+
+  // 7. Slow Starter (Mucho volumen, baja precisión)
+  if (totalQuestions > 100 && globalAccuracy < 0.45) return 'slow_starter';
+
+  return 'intermediate_rising'; // Default
+}
+
+/**
+ * Calcula el contexto adaptativo completo para la generación de prompts
+ */
+export function computeAdaptiveContext(profile: UserProfileData): AdaptiveContext {
+  const archetype = classifyLearnerArchetype(profile);
+
+  // Calcular Momentum
+  let momentum: 'rising' | 'stable' | 'falling' = 'stable';
+  if (profile.recentHistory && profile.recentHistory.length >= 6) {
+    const last3 = profile.recentHistory.slice(-3).reduce((s, h) => s + h.mmr, 0) / 3;
+    const prev3 = profile.recentHistory.slice(-6, -3).reduce((s, h) => s + h.mmr, 0) / 3;
+    const diff = last3 - prev3;
+    if (diff > 15) momentum = 'rising';
+    else if (diff < -15) momentum = 'falling';
+  }
+
+  // Calcular Perfil de Velocidad
+  let speedProfile: 'balanced' | 'impulsive' | 'overthinker' = 'balanced';
+  if (profile.advancedMetrics) {
+    const diff = profile.advancedMetrics.avgTimeIncorrect - profile.advancedMetrics.avgTimeCorrect;
+    if (diff < -5000) speedProfile = 'impulsive';
+    if (diff > 10000) speedProfile = 'overthinker';
+  }
+
+  return {
+    archetype,
+    momentum,
+    speedProfile,
+    consistencyScore: profile.advancedMetrics?.consistencyScore || 0,
+    simulatedIcfesScore: profile.simulatedIcfesScore || Math.round(profile.globalMMR / 4),
+    totalQuestionsAnswered: profile.totalQuestions,
+    topWeakArea: profile.weakAreas[0]?.name,
+    topStrongSubject: profile.strongAreas[0]?.name
+  };
+}
 
 // =============================================================================
 // FUNCIONES PRINCIPALES
@@ -279,25 +494,66 @@ export function generateStudyTipsPrompt(profile: UserProfileData): string {
 }
 
 /**
+ * Genera el prompt más adecuado según el contexto adaptativo del usuario
+ */
+export function generateAdaptiveAutoPrompt(profile: UserProfileData): string {
+  const context = computeAdaptiveContext(profile);
+  
+  switch (context.archetype) {
+    case 'regressing':
+    case 'slow_starter':
+      return PROMPT_TEMPLATES.rescue_plan(profile, context);
+    case 'intermediate_rising':
+      return PROMPT_TEMPLATES.momentum_boost(profile, context);
+    case 'advanced_with_gaps':
+      return PROMPT_TEMPLATES.gap_attack(profile, context);
+    case 'advanced_consistent':
+      return PROMPT_TEMPLATES.elite_refinement(profile, context);
+    case 'sprint_final':
+      return PROMPT_TEMPLATES.sprint_protocol(profile, context);
+    case 'novice_consolidating':
+    default:
+      return PROMPT_TEMPLATES.improvement_plan(profile);
+  }
+}
+
+/**
  * Genera un prompt genérico por tipo
  */
 export function generatePrompt(
   type: PromptType,
   data: ExamResultData | UserProfileData | { subject: string; accuracy: number; topics?: string[] }
 ): string {
+  const profile = data as UserProfileData;
+  const context = (type !== 'exam_result' && type !== 'subject_focus' && type !== 'quick_review' && type !== 'preu_generation') 
+    ? computeAdaptiveContext(profile) 
+    : null;
+
   switch (type) {
     case 'exam_result':
       return PROMPT_TEMPLATES.exam_result(data as ExamResultData);
     case 'improvement_plan':
-      return PROMPT_TEMPLATES.improvement_plan(data as UserProfileData);
+      return PROMPT_TEMPLATES.improvement_plan(profile);
     case 'notebooklm':
-      return PROMPT_TEMPLATES.notebooklm(data as UserProfileData);
+      return PROMPT_TEMPLATES.notebooklm(profile);
     case 'notebooklm_update':
-      return PROMPT_TEMPLATES.notebooklm_update(data as UserProfileData);
+      return PROMPT_TEMPLATES.notebooklm_update(profile);
     case 'chatgpt_study_mode':
-      return PROMPT_TEMPLATES.chatgpt_study_mode(data as UserProfileData);
+      return PROMPT_TEMPLATES.chatgpt_study_mode(profile);
     case 'study_tips':
-      return PROMPT_TEMPLATES.study_tips(data as UserProfileData);
+      return PROMPT_TEMPLATES.study_tips(profile);
+    case 'adaptive_auto':
+      return generateAdaptiveAutoPrompt(profile);
+    case 'rescue_plan':
+      return context ? PROMPT_TEMPLATES.rescue_plan(profile, context) : '';
+    case 'momentum_boost':
+      return context ? PROMPT_TEMPLATES.momentum_boost(profile, context) : '';
+    case 'gap_attack':
+      return context ? PROMPT_TEMPLATES.gap_attack(profile, context) : '';
+    case 'elite_refinement':
+      return context ? PROMPT_TEMPLATES.elite_refinement(profile, context) : '';
+    case 'sprint_protocol':
+      return context ? PROMPT_TEMPLATES.sprint_protocol(profile, context) : '';
     case 'preu_generation': {
       const d = data as unknown as { subject: string; specific_topic: string };
       return PROMPT_TEMPLATES.preu_generation(d.subject, d.specific_topic);
@@ -324,8 +580,11 @@ export function generatePrompt(
  */
 export async function copyPromptToClipboard(prompt: string): Promise<boolean> {
   try {
-    await navigator.clipboard.writeText(prompt);
-    return true;
+    if (typeof navigator !== 'undefined' && navigator.clipboard) {
+      await navigator.clipboard.writeText(prompt);
+      return true;
+    }
+    return false;
   } catch (err) {
     console.error('Failed to copy prompt:', err);
     return false;

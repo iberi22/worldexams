@@ -16,6 +16,8 @@ creador: "Antigravity (Full Protocol v4.1)"
 generation_date: "2026-03-10"
 source: "CEFR C1-C2 Framework / Academic IELTS High Level"
 source_license: "CC BY-SA 4.0"
+quarantine: true
+bundle_status: "quarantined"
 ---
 
 # Bundle Inglés G11 - Periodo 1: Advanced English Mastery

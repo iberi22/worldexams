@@ -55,7 +55,7 @@
           </div>
 
           <p class="text-[10px] text-white/60 leading-tight mb-3">
-             Your progress is currently stored in the browser during private testing. Cloud login and registration stay disabled until the production launch, while the local flow remains available under the <a href="/terminos" class="text-white/40 hover:text-white underline">terms</a>.
+             Tu progreso se guarda actualmente en el navegador durante las pruebas privadas. El registro e inicio de sesión en la nube permanecerán desactivados hasta el lanzamiento oficial, mientras que el flujo local sigue disponible bajo los <a href="/terminos" class="text-white/40 hover:text-white underline">términos</a>.
           </p>
 
           <button

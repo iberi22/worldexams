@@ -16,7 +16,6 @@ generation_date: '2026-01-10'
 source: World Exams Original
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
-
 ---
 # Topic: Digital Safety (Grade 6)
 

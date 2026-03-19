@@ -1,10 +1,16 @@
 ---
 id: "CO-IN-11-P1-gram-002-MASTERY"
-protocol_version: "5.0"
-alignment: "ICFES Saber 11 / Common European Framework (CEFR B1-B2)"
+country: "colombia"
+grado: 11
+asignatura: "ingles"
+tema: "uso-del-lenguaje"
+protocol_version: "5.1"
+bundle_size: 20
+alignment: "ICFES Saber 11 + MEN"
 periodo: 1
 bundle_index: 2
 modern_context: true
+distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.60
   discrimination_index_target: ">= 0.18"
@@ -200,3 +206,269 @@ Sociolinguistic competence. Evaluating the appropriacy of language registers and
 2. **Contextual Inference:** Decodes signs using social and cultural knowledge, not just literal translation.
 3. **Register Awareness:** Identifies the appropriate level of formality for different social scenarios.
 4. **Error Correction Ability:** Analyzes why certain distractors are wrong based on logical or linguistic inconsistencies.
+
+---
+
+## Question 7 (Variant Advanced - Difficulty 7)
+
+**ID:** `CO-IN-11-P1-gram-002-MASTERY-v7`
+**Bloom:** Analyze
+**ICFES:** Part 1 - Vocabulary
+
+### Enunciado
+Description (3): A place where scientific experiments and research are conducted.
+
+### Options
+- [ ] A) Museum <!-- feedback: A museum displays objects, but it is not primarily a place for experiments. -->
+- [x] B) Laboratory <!-- feedback: Correct. A laboratory is used for scientific tests and research. -->
+- [ ] C) Stadium <!-- feedback: A stadium is for sports or large events. -->
+- [ ] D) Gallery <!-- feedback: A gallery is associated with art exhibitions. -->
+
+### Explicación Pedagógica
+This item checks precise vocabulary for academic and scientific places.
+
+---
+
+## Question 8 (Variant Advanced - Difficulty 7)
+
+**ID:** `CO-IN-11-P1-gram-002-MASTERY-v8`
+**Bloom:** Analyze
+**ICFES:** Part 1 - Vocabulary
+
+### Enunciado
+Description (5): A building used for the burial of dead people.
+
+### Options
+- [ ] A) Cathedral <!-- feedback: A cathedral is a place of worship, not specifically for burials. -->
+- [ ] B) Pharmacy <!-- feedback: This word belongs to a completely different category. -->
+- [x] C) Cemetery <!-- feedback: Correct. A cemetery is the place where people are buried. -->
+- [ ] D) Nursery <!-- feedback: A nursery is for children or plants, not burials. -->
+
+### Explicación Pedagógica
+All options refer to places, but only one matches the definition exactly.
+
+---
+
+## Question 9 (Variant Advanced - Difficulty 8)
+
+**ID:** `CO-IN-11-P1-gram-002-MASTERY-v9`
+**Bloom:** Analyze
+**ICFES:** Part 2 - Pragmatics
+
+### Enunciado
+Where would you most likely see the sign "STAFF ONLY"?
+
+### Options
+- [ ] A) In a public classroom during an open lecture. <!-- feedback: The sign is more restricted than that setting suggests. -->
+- [x] B) On a door leading to an employees' work area. <!-- feedback: Correct. The phrase signals restricted access for workers only. -->
+- [ ] C) On a city monument in a park. <!-- feedback: That setting does not match workplace access control. -->
+- [ ] D) On a school bus route map. <!-- feedback: The phrase does not fit that kind of information display. -->
+
+### Explicación Pedagógica
+This item tests whether the learner can infer the practical use of a short institutional notice.
+
+---
+
+## Question 11 (Variant Mastery - Difficulty 8)
+
+**ID:** `CO-IN-11-P1-gram-002-MASTERY-v11`
+**Bloom:** Evaluate
+**ICFES:** Part 2 - Pragmatics
+
+### Enunciado
+What does the notice "Handle with care" mainly tell the reader to do?
+
+### Options
+- [ ] A) Open the package immediately. <!-- feedback: The notice says nothing about opening it. -->
+- [ ] B) Move the package quickly before it breaks. <!-- feedback: Speed is not the main message. -->
+- [x] C) Treat the object carefully because it may be fragile. <!-- feedback: Correct. The warning asks for cautious handling. -->
+- [ ] D) Keep the object away from cold temperatures only. <!-- feedback: The instruction is about careful treatment, not temperature. -->
+
+### Explicación Pedagógica
+The correct answer must preserve the meaning of the warning without adding unrelated details.
+
+---
+
+## Question 12 (Variant Mastery - Difficulty 8)
+
+**ID:** `CO-IN-11-P1-gram-002-MASTERY-v12`
+**Bloom:** Evaluate
+**ICFES:** Part 2 - Pragmatics
+
+### Enunciado
+Where would you most likely read "Please remain seated until the doors open"?
+
+### Options
+- [ ] A) In a sports clothing store. <!-- feedback: Customers there are not typically asked to remain seated. -->
+- [x] B) On a plane or another form of passenger transport. <!-- feedback: Correct. The instruction is common during landing or stops. -->
+- [ ] C) In an outdoor market. <!-- feedback: The context does not fit controlled seating and doors. -->
+- [ ] D) In a public library. <!-- feedback: Libraries use different types of notices. -->
+
+### Explicación Pedagógica
+Short travel instructions often depend on recognizing the action and the physical setting together.
+
+---
+
+## Question 13 (Variant Mastery - Difficulty 8)
+
+**ID:** `CO-IN-11-P1-gram-002-MASTERY-v13`
+**Bloom:** Evaluate
+**ICFES:** Part 1 - Vocabulary
+
+### Enunciado
+Choose the word that best completes the sentence:
+"The walls of the old house are made of a very ______ material, so they do not break easily."
+
+### Options
+- [ ] A) narrow <!-- feedback: "Narrow" describes width, not resistance. -->
+- [x] B) solid <!-- feedback: Correct. "Solid" matches the idea of strength and resistance. -->
+- [ ] C) noisy <!-- feedback: This adjective belongs to a different semantic field. -->
+- [ ] D) polite <!-- feedback: This describes behavior, not materials. -->
+
+### Explicación Pedagógica
+Good distractors stay in the adjective category, but only one matches the physical property described.
+
+---
+
+## Question 14 (Variant Mastery - Difficulty 8)
+
+**ID:** `CO-IN-11-P1-gram-002-MASTERY-v14`
+**Bloom:** Evaluate
+**ICFES:** Part 1 - Vocabulary
+
+### Enunciado
+Choose the best option:
+"A person who repairs water pipes and sinks is a ______."
+
+### Options
+- [ ] A) tailor <!-- feedback: A tailor works with clothes. -->
+- [ ] B) baker <!-- feedback: A baker works with bread and pastries. -->
+- [x] C) plumber <!-- feedback: Correct. A plumber repairs pipes and water systems. -->
+- [ ] D) painter <!-- feedback: A painter works with surfaces and colors, not pipes. -->
+
+### Explicación Pedagógica
+The item tests job vocabulary through a short functional definition.
+
+---
+
+## Question 15 (Variant Mastery - Difficulty 9)
+
+**ID:** `CO-IN-11-P1-gram-002-MASTERY-v15`
+**Bloom:** Evaluate
+**ICFES:** Part 2 - Pragmatics
+
+### Enunciado
+What is the purpose of the notice "Keep off the grass"?
+
+### Options
+- [ ] A) To invite people to play sports on the lawn. <!-- feedback: The notice actually restricts that behavior. -->
+- [x] B) To prevent people from walking on a protected grassy area. <!-- feedback: Correct. The message is a prohibition meant to protect the grass. -->
+- [ ] C) To tell visitors where to water the plants. <!-- feedback: The wording does not refer to watering. -->
+- [ ] D) To suggest sitting down for a picnic. <!-- feedback: That would contradict the notice. -->
+
+### Explicación Pedagógica
+Many public signs rely on short imperative structures that indicate prohibition or obligation.
+
+---
+
+## Question 16 (Variant Mastery - Difficulty 9)
+
+**ID:** `CO-IN-11-P1-gram-002-MASTERY-v16`
+**Bloom:** Evaluate
+**ICFES:** Part 2 - Pragmatics
+
+### Enunciado
+Which place best matches the message "Visitors must wear protective glasses beyond this point"?
+
+### Options
+- [ ] A) A cinema entrance <!-- feedback: Protective glasses are not a standard safety requirement there. -->
+- [x] B) A laboratory or industrial zone <!-- feedback: Correct. The message belongs to a controlled safety environment. -->
+- [ ] C) A bookstore for second-hand novels <!-- feedback: The setting does not require protective equipment. -->
+- [ ] D) A public swimming pool <!-- feedback: Protective glasses in this sense do not fit the context. -->
+
+### Explicación Pedagógica
+The key clue is not only the object mentioned, but the type of controlled space where such protection is required.
+
+---
+
+## Question 17 (Variant Mastery - Difficulty 9)
+
+**ID:** `CO-IN-11-P1-gram-002-MASTERY-v17`
+**Bloom:** Evaluate
+**ICFES:** Part 1 - Vocabulary
+
+### Enunciado
+Choose the best word:
+"The documentary gave a very ______ explanation of how coral reefs are being affected by pollution."
+
+### Options
+- [ ] A) careless <!-- feedback: That adjective contradicts the idea of a good explanation. -->
+- [x] B) detailed <!-- feedback: Correct. A detailed explanation gives a lot of relevant information. -->
+- [ ] C) silent <!-- feedback: An explanation cannot meaningfully be described this way here. -->
+- [ ] D) ordinary <!-- feedback: This does not match the information-rich quality implied. -->
+
+### Explicación Pedagógica
+The sentence asks for an adjective related to quality and depth of explanation.
+
+---
+
+## Question 18 (Variant Mastery - Difficulty 9)
+
+**ID:** `CO-IN-11-P1-gram-002-MASTERY-v18`
+**Bloom:** Evaluate
+**ICFES:** Part 2 - Pragmatics
+
+### Enunciado
+If a museum sign says "Flash photography prohibited", what is the most reasonable interpretation?
+
+### Options
+- [ ] A) Visitors may take pictures only at night. <!-- feedback: The sign refers to flash use, not time of day. -->
+- [ ] B) Cameras are forbidden in the entire city. <!-- feedback: The restriction is local and specific. -->
+- [x] C) Visitors may be allowed to take photos, but not with the flash on. <!-- feedback: Correct. The notice restricts one feature of photography. -->
+- [ ] D) Only museum staff may use mobile phones. <!-- feedback: The sign does not mention staff or phones. -->
+
+### Explicación Pedagógica
+Advanced pragmatic reading often depends on identifying exactly what is restricted and what is not.
+
+---
+
+## Question 19 (Variant Mastery - Difficulty 10)
+
+**ID:** `CO-IN-11-P1-gram-002-MASTERY-v19`
+**Bloom:** Create
+**ICFES:** Part 2 - Pragmatics (Advanced Situations)
+
+### Contexto
+You borrowed a classmate's laptop charger and accidentally damaged it.
+
+### Enunciado
+Which response is the most appropriate in a formal and responsible context?
+
+### Options
+- [ ] A) "It stopped working, but these things happen. Use someone else's." <!-- feedback: This response avoids responsibility. -->
+- [ ] B) "Sorry, maybe it was broken already." <!-- feedback: The apology is weak and shifts blame. -->
+- [x] C) "I'm really sorry. I damaged your charger, and I'll replace it as soon as possible." <!-- feedback: Correct. It includes apology, responsibility, and a concrete solution. -->
+- [ ] D) "Don't worry, chargers are cheap anyway." <!-- feedback: This minimizes the problem and sounds impolite. -->
+
+### Explicación Pedagógica
+At higher levels, pragmatics involves tone, responsibility, and appropriateness, not just literal grammar.
+
+---
+
+## Question 20 (Variant Mastery - Difficulty 10)
+
+**ID:** `CO-IN-11-P1-gram-002-MASTERY-v20`
+**Bloom:** Evaluate
+**ICFES:** Part 2 - Pragmatics
+
+### Enunciado
+Which option best explains the notice "No re-entry after 10:00 p.m."?
+
+### Options
+- [ ] A) People may leave and return whenever they want after 10:00 p.m. <!-- feedback: That is the opposite of the notice. -->
+- [ ] B) The place opens for the first time at 10:00 p.m. <!-- feedback: The message refers to returning, not opening time. -->
+- [x] C) If visitors leave the place after that time, they will not be allowed to enter again. <!-- feedback: Correct. This is the direct meaning of "no re-entry". -->
+- [ ] D) Only staff members can enter before 10:00 p.m. <!-- feedback: The notice does not make that distinction. -->
+
+### Explicación Pedagógica
+The phrase `re-entry` refers specifically to entering again after leaving, a common point of confusion.

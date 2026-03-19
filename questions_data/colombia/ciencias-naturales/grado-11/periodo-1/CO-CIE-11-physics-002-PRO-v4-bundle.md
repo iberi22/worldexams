@@ -16,6 +16,8 @@ creador: "Antigravity (Protocol v4.1 - High Complexity)"
 generation_date: "2026-03-10"
 source: "Ministerio de Educación - Lineamientos 2026 / Física Universitaria Sears-Zemansky"
 source_license: "CC BY-SA 4.0"
+quarantine: true
+bundle_status: "quarantined"
 ---
 
 # Bundle Ciencias Naturales G11 - Periodo 1: Mecánica Avanzada

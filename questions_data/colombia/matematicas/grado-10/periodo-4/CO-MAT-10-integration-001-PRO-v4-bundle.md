@@ -14,6 +14,8 @@ cognitive_levels: ["Identify", "Use", "Analyze", "Evaluate", "Create"]
 estado: "draft"
 creador: "Antigravity (Protocol v4.1)"
 generation_date: "2026-03-03"
+quarantine: true
+bundle_status: "quarantined"
 ---
 
 ## Contexto 1: Simulacro Integrado — Todos los Ejes G10

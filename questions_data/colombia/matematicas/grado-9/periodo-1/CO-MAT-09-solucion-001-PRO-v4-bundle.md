@@ -16,6 +16,8 @@ creador: "Antigravity (Protocol v4.0)"
 generation_date: "2026-03-03"
 source: "MEN DBA / ICFES Matemáticas"
 source_license: "CC BY-SA 4.0"
+quarantine: true
+bundle_status: "quarantined"
 ---
 
 # Bundle: Sistemas de Ecuaciones Lineales 2x2

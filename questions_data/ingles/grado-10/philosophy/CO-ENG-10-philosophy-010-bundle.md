@@ -11,7 +11,6 @@ total_questions: 10
 international_focus: TOEFL Reading & Philosophy
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
-
 ---
 # Topic: Philosophy & Ethics (B2)
 

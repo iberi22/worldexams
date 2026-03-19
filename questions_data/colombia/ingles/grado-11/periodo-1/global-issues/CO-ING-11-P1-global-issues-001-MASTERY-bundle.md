@@ -1,11 +1,17 @@
 ---
 id: "CO-ING-11-P1-global-issues-001-MASTERY"
-protocol_version: "5.0"
-alignment: "ICFES Saber 11 / Marcos Técnicos"
+country: "colombia"
+grado: 11
+asignatura: "ingles"
+tema: "global-issues"
+protocol_version: "5.1"
+bundle_size: 20
+alignment: "ICFES Saber 11 + MEN"
 target_cefr: "B1-B2"
 periodo: 1
 bundle_index: 1
 modern_context: true
+distractor_profile: "plausible_peer_set"
 calibration:
   expected_success_rate: 0.55
   discrimination_index_target: ">= 0.25"

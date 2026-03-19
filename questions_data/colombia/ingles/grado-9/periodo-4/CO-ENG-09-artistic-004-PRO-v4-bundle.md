@@ -16,6 +16,8 @@ creador: "Antigravity (Protocol v4.1 - Enfoque 2026)"
 generation_date: "2026-03-03"
 source: "Global Art History Library / ICFES 2026 Focus"
 source_license: "CC BY-SA 4.0"
+quarantine: true
+bundle_status: "quarantined"
 ---
 
 # Bundle: Artistic Movements & Resistance (ICFES Part 5 - Literal)

@@ -16,6 +16,8 @@ creador: "Antigravity (Full Protocol v4.1)"
 generation_date: "2026-03-10"
 source: "Comisión de la Verdad / Ministerio de Educación"
 source_license: "CC BY-SA 4.0"
+quarantine: true
+bundle_status: "quarantined"
 ---
 
 # Bundle Sociales G11 - Periodo 1: Historia y Conflicto
