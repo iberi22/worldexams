@@ -12,7 +12,7 @@
     "preview": "astro preview",
     "sync:api": "pwsh -File scripts/copy-api.ps1",
     "predeploy": "npm run lint && npm run test:unit && npm run build",
-    "deploy": "npx wrangler pages deploy dist --project-name=saberparatodos --branch=main",
+    "deploy": "npx wrangler deploy --config dist/server/wrangler.json --name=saberparatodos",
     "deploy:manual": "pwsh -File scripts/deploy-manual.ps1",
     "tag:deploy": "pwsh -File scripts/create-deploy-tag.ps1",
     "deploy:fast": "pwsh -File scripts/deploy-manual.ps1 -Fast",
