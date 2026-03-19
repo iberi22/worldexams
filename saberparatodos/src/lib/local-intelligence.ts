@@ -227,7 +227,7 @@ export async function generateUserProfile(): Promise<UserProfile> {
 /**
  * Generate a smart prompt for External AI (NotebookLM/ChatGPT)
  */
-export function generateAIAnalysisPrompt(profile: UserProfile): string {
+export function generateAIAnalysisPrompt(_profile: UserProfile): string {
   return "Análisis deshabilitado temporalmente para debugging.";
 }
 

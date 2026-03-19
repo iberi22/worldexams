@@ -1418,7 +1418,7 @@
           {#each questionOptions as count}
             <button
               disabled={configLocked}
-              class="py-2 px-4 rounded border transition-all duration-200 font-bold {configLocked ? 'opacity-50 cursor-not-allowed' : ''} {questionCount === count ? 'bg-emerald-500 text-white border-emerald-500' : 'bg-white/5 border-white/10 hover:bg-white/10 text-white/60'}"
+              class="py-2 px-4 rounded border transition-all duration-200 font-bold {configLocked ? 'opacity-50 cursor-not-allowed' : ''} {questionCount === count ? 'bg-emerald-500 text-white border-emerald-500' : 'bg-white/5 border-white/20 hover:border-white/40 hover:bg-white/10 text-white/60'}"
               onclick={() => questionCount = count}
             >
               {count}
@@ -1434,7 +1434,7 @@
         <div class="grid grid-cols-3 gap-3">
           <button
             disabled={configLocked}
-            class="py-2 px-2 rounded border transition-all duration-200 text-[10px] font-bold uppercase {configLocked ? 'opacity-50 cursor-not-allowed' : ''} {timeOption === 0 ? 'bg-emerald-500 text-white border-emerald-500' : 'bg-white/5 border-white/10 hover:bg-white/10 text-white/60'}"
+            class="py-2 px-2 rounded border transition-all duration-200 text-[10px] font-bold uppercase {configLocked ? 'opacity-50 cursor-not-allowed' : ''} {timeOption === 0 ? 'bg-emerald-500 text-white border-emerald-500' : 'bg-white/5 border-white/20 hover:border-white/40 hover:bg-white/10 text-white/60'}"
             onclick={() => timeOption = 0}
           >
             Sin Límite
@@ -1475,7 +1475,7 @@
       {/if}
 
       <!-- Room Mode Toggle -->
-      <div class="p-4 bg-purple-500/10 border border-purple-500/30 rounded-lg">
+      <div class="p-4 bg-purple-500/10 border border-purple-500/40 rounded-lg">
         <div class="flex items-center gap-3 mb-2">
           <button
             class="relative inline-flex h-6 w-11 flex-shrink-0 rounded-full border-2 border-transparent transition-colors duration-200 ease-in-out focus:outline-none {!isLoggedIn ? 'cursor-not-allowed opacity-50' : 'cursor-pointer'} {roomEnabled ? 'bg-purple-500' : 'bg-white/20'}"
@@ -1511,7 +1511,7 @@
             <!-- Tabs -->
             <div class="flex gap-2">
               <button
-                class="flex-1 py-2 text-xs font-bold uppercase tracking-widest rounded transition-all {roomTab === 'crear' ? 'bg-purple-500 text-white' : 'bg-white/10 text-white/60 hover:bg-white/20'}"
+                class="flex-1 py-2 text-xs font-bold uppercase tracking-widest rounded transition-all {roomTab === 'crear' ? 'bg-purple-500 text-white' : 'bg-white/10 border border-white/20 text-white/60 hover:bg-white/20'}"
                 onclick={() => roomTab = 'crear'}
               >
                 Crear Sala
@@ -1707,14 +1707,14 @@
                   bind:value={playerName}
                   placeholder="Tu nombre"
                   maxlength="30"
-                  class="w-full px-4 py-3 bg-black/50 border border-white/10 rounded text-center text-sm uppercase tracking-widest focus:outline-none focus:border-purple-500"
+                  class="w-full px-4 py-3 bg-black/50 border border-white/20 rounded text-center text-sm uppercase tracking-widest focus:outline-none focus:border-purple-500"
                 />
               <input
                   type="text"
                   bind:value={joinCode}
                   placeholder="Código de 6 caracteres"
                   maxlength="6"
-                  class="w-full px-4 py-3 bg-black/50 border border-white/10 rounded text-center text-2xl font-mono tracking-[0.3em] uppercase focus:outline-none focus:border-purple-500"
+                  class="w-full px-4 py-3 bg-black/50 border border-white/20 rounded text-center text-2xl font-mono tracking-[0.3em] uppercase focus:outline-none focus:border-purple-500"
                 />
                 <button
                   onclick={joinRoom}
@@ -1736,7 +1736,7 @@
 
       <!-- Diagnostic Toggle (Only for SOLO without Room AND not in English diagnostic mode) -->
       {#if !roomEnabled && !isEnglishDiagnosticMode}
-        <div class="p-4 bg-[#121212]/50 border border-emerald-500/30 rounded-lg relative overflow-hidden group" transition:fade>
+        <div class="p-4 bg-[#121212]/50 border border-emerald-500/40 rounded-lg relative overflow-hidden group" transition:fade>
           <div class="absolute top-0 right-0 p-2 opacity-20 group-hover:opacity-40 transition-opacity">
             <svg class="w-12 h-12 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
@@ -1801,7 +1801,7 @@
                   {#each [10, 20, 30] as pct}
                     <button
                       type="button"
-                      class="px-3 py-1 rounded border text-[10px] font-bold transition-all {diagnosticMixPercent === pct ? 'bg-emerald-500 text-black border-emerald-500' : 'bg-white/5 text-white/70 border-white/20 hover:bg-white/10'}"
+                      class="px-3 py-1 rounded border text-[10px] font-bold transition-all {diagnosticMixPercent === pct ? 'bg-emerald-500 text-black border-emerald-500' : 'bg-white/5 text-white/70 border-white/30 hover:border-white/50 hover:bg-white/10'}"
                       onclick={() => diagnosticMixPercent = pct}
                     >
                       {pct}%
@@ -1826,7 +1826,7 @@
           </button>
         {:else}
           <button
-            class="flex-1 py-3 border border-white/20 rounded hover:bg-white/10 transition-colors uppercase text-xs tracking-widest opacity-60 hover:opacity-100"
+            class="flex-1 py-3 border border-white/30 rounded hover:bg-white/10 hover:border-white/50 transition-colors uppercase text-xs tracking-widest opacity-70 hover:opacity-100"
             onclick={onCancel}
           >
             Cancelar
