@@ -3,12 +3,14 @@
 ## Project Overview
 
 **Location:** `E:/scripts-python/worldexams`
-**Last Analyzed:** 2026-03-17
-**Status:** Pending
+**Last Analyzed:** 2026-03-18
+**Status:** Active
 
 ## Source Modules
 
-*No src/ directory found*
+- `lib/`
+- `middleware/`
+- `question-generator/`
 
 ## GitCore Files
 

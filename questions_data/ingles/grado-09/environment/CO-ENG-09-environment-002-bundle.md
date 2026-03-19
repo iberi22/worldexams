@@ -12,6 +12,8 @@ international_focus: Cambridge PET & Environmental Science
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
 
+quarantine: true
+bundle_status: "quarantined"
 ---
 # Topic: Environment & Sustainability (B1+)
 

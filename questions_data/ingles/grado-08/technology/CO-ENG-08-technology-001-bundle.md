@@ -12,7 +12,6 @@ international_focus: Cambridge PET & Digital Skills
 bilingual_support: true
 dba_id: DBA-TODO
 creation_date: '2026-01-31'
-
 ---
 # Topic: Technology in Daily Life (B1)
 

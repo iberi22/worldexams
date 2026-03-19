@@ -23,7 +23,7 @@
  * - Currency or measurement systems specific to a country
  */
 
-import { isBundle, getAllQuestionsFromBundle } from './questionParser';
+import { isBundle, getAllQuestionsFromBundle, isEntryQuarantined } from './questionParser';
 import type { Question } from '../types';
 import type { QuestionEntry } from './questionParser';
 
@@ -216,6 +216,8 @@ export function buildUniversalQuestionPool(
 
   for (const entry of entries) {
     const data = entry.data;
+
+    if (isEntryQuarantined(entry)) continue;
 
     // FILTER 1: Must be marked as universal
     if (!data.universal_question) continue;
@@ -471,6 +473,7 @@ export function analyzeUniversalQuestions(
   };
 
   for (const entry of entries) {
+    if (isEntryQuarantined(entry)) continue;
     if (!isBundle(entry)) continue;
 
     stats.totalBundles++;
@@ -504,6 +507,7 @@ export function suggestUniversalCandidates(
   const candidates: QuestionEntry[] = [];
 
   for (const entry of entries) {
+    if (isEntryQuarantined(entry)) continue;
     if (!isBundle(entry)) continue;
     const data = entry.data;
 

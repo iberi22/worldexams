@@ -1,92 +1,361 @@
 ---
-name: create-bundles-manually
-description: Use when manually creating or correcting question bundles under the WorldExams question protocol and curriculum alignment rules.
+name: colombia-assessment-protocol-v6
+description: Usar cuando se deban crear, corregir, regenerar o auditar bundles manuales de preguntas de Colombia para grados 3 a 11, alineados al MEN y al ICFES, con reglas duras contra word salad, distractores absurdos, contexto decorativo y desalineación curricular.
 ---
 
-# 🛠️ Skill: Manual Question Bundle Creation
+# Skill: Colombia Assessment Protocol v6
 
-This guide details the process of creating question bundles manually, ensuring high pedagogical quality and compliance with **Protocol v3.0**. This process does **NOT** use automation scripts for content generation, relying instead on human (or agent) research and expertise.
+Este skill sirve para dos trabajos:
 
-## 📋 Prerequisites
+- creación manual de bundles nuevos;
+- revisión, saneamiento o regeneración de bundles existentes.
 
-1.  **DBA Standards**: Access to [Derechos Básicos de Aprendizaje (Mineducación)](https://www.mineducacion.gov.co/portal/men/Publicaciones/Guias/340021:Derechos-Basicos-de-Aprendizaje-DBA).
-2.  **Protocol v3.0**: Understanding of the 10-question structure and metadata.
-3.  **Topic Assignment**: A clear topic from the curriculum matrix or `task.md`.
+## Autoridad y alcance
 
+Respetar siempre esta jerarquía:
+
+- `AGENTS.md`
+- `docs/specs/ACTIVE_PROTOCOLS.md`
+- `docs/QUESTION_GENERATION_PROTOCOL_V5.md`
+- `.gitcore/ARCHITECTURE.md` si aplica
+
+Interpretación operativa:
+
+- `v6` es la guía local de trabajo manual.
+- `v5.1` sigue siendo el baseline estructural y de validación activa del repo para bundles `MASTERY` donde aplique.
+- Si una instrucción local contradice la capa raíz, gana la capa raíz.
+
+Este skill aplica a contenido Colombia para grados `3` a `11`.
+
+## Objetivo
+
+Producir preguntas que:
+
+- estén alineadas a la malla curricular del MEN y al estilo de evaluación ICFES;
+- sean claras, medibles y psicométricamente defensables;
+- usen distractores plausibles basados en errores reales;
+- puedan auditarse y regenerarse sin ambigüedad;
+- mantengan formato estable para los scripts del repo.
+
+## Principio rector
+
+Cada pregunta debe poder responder estas seis preguntas antes de aceptarse:
+
+1. ¿Qué competencia específica evalúa?
+2. ¿Qué evidencia observable espera ver?
+3. ¿Qué error plausible captura cada distractor?
+4. ¿El contexto ayuda a resolver o solo adorna?
+5. ¿El lenguaje corresponde al grado?
+6. ¿La respuesta correcta sigue siendo única bajo una lectura razonable?
+
+Si alguna respuesta no está clara, la pregunta no está lista.
+
+## Marco metodológico obligatorio
+
+Todo bundle debe construirse o revisarse con esta cadena:
+
+1. **Grado y periodo**
+2. **Referente MEN**
+3. **Competencia ICFES**
+4. **Afirmación**
+5. **Evidencia**
+6. **Tema**
+7. **Pregunta**
+
+No se escribe primero la pregunta y luego se “acomoda” el currículo.
+
+## Fase 0: Descubrimiento obligatorio
+
+Antes de generar o corregir:
+
+1. Identificar país, grado, asignatura, periodo y tema.
+2. Confirmar la ruta real del bundle.
+3. Revisar si el archivo ya existe y si está sano, parcialmente dañado o contaminado.
+4. Validar el protocolo activo del repo para esa familia de bundles.
+5. Revisar el estándar MEN o DBA pertinente.
+6. Revisar el marco de referencia ICFES del área.
+
+## Mapeo curricular obligatorio
+
+Antes de redactar, fijar explícitamente:
+
+- `grado`
+- `periodo`
+- `asignatura`
+- `tema`
+- `referente_men`
+- `competencia_icfes`
+- `afirmacion_icfes`
+- `evidencia`
+
+Si el agente no puede nombrar esos campos de forma concreta, no debe generar todavía.
+
+## Estructura de archivo
+
+Usar la ruta activa del repo. Para bundles `MASTERY` de Colombia grado 11, la forma esperada es:
+
+`questions_data/colombia/[asignatura]/grado-11/periodo-[N]/[tema]/[ID]-MASTERY-bundle.md`
+
+Para otros grados, seguir la estructura activa existente del repo y no inventar rutas nuevas sin evidencia local.
+
+## Frontmatter base
+
+Cuando el bundle sea `MASTERY`, usar como baseline:
+
+```yaml
 ---
-
-## 🚀 Step-by-Step Creation Process
-
-### 1. Select Topic & DBA Alignment
-Identify the specific **DBA (Derecho Básico de Aprendizaje)** that corresponds to the grade and subject.
-*Example: For Grade 4 Science, if the topic is "Force", look for the DBA related to "Physical forces and machines".*
-
-### 2. Research Base Question (v1)
-The first question (v1) must be based on a **real, high-quality source**.
-- **Search**: Look for finding from ICFES, Saber 11, or reputable educational textbooks.
-- **Criteria**: Must challenge the student at a level appropriate for the grade.
-- **Attribution**: You MUST record the source URL and license.
-
-### 3. Setup File Structure
-Create a new `.md` file in the correct directory following this path pattern:
-`src/content/questions/[country]/[subject]/grado-[N]/[topic]/[ID]-v3-bundle.md`
-
-**Metadata Template:**
-```markdown
----
-id: "[COUNTRY]-[SUBJ]-[GRADE]-[TOPIC]-[001]"
-country: "[iso-code]"
-grado: [number]
-asignatura: "[subject]"
-tema: "[Topic Name]"
+id: "CO-[AREA]-[GRADO]-P[PERIODO]-[TOPIC]-[001]-MASTERY"
+country: "colombia"
+grado: [3-11]
+asignatura: "[subject-kebab-case]"
+tema: "[topic-kebab-case]"
 periodo: [1-4]
-protocol_version: "3.0"
-total_questions: 10
-estado: "approved"
-creador: "Manual-Creation"
-generation_date: "YYYY-MM-DD"
-licenses:
-  v1: "CC BY-SA 4.0"
-  v2-v10: "CC BY-NC-SA 4.0"
-source: "Mineducacion Colombia - DBA"
-source_url: "[URL]"
-source_license: "CC BY-SA 4.0"
-search_query: "[Research terms used]"
+protocol_version: "5.1"
+bundle_index: [1-3]
+bundle_size: 20
+alignment: "ICFES Saber 11 + MEN"
+competencia_icfes: "[Nombre de la competencia]"
+afirmacion_icfes: "[Afirmación a evaluar]"
+referente_men: "[DBA o estándar]"
+target_cefr: "A1-B1"
+modern_context: true
+distractor_profile: "misconception_based"
+calibration:
+  expected_success_rate: 0.45
+  discrimination_index_target: ">= 0.22"
+  simulated_responses: 100
+rubric_baseline: "campo_1, campo_2, campo_3"
 ---
 ```
 
-### 4. Pedagogical Development (The 10 Variations)
-Develop 10 variations of the question, covering specific difficulty levels. **Do not copy-paste**. Each variation must teach or test a specific angle of the topic.
+Notas:
 
-| ID Suffix | Difficulty | Type | Goal |
-| :--- | :---: | :--- | :--- |
-| **-v1** | 1 | Base Question | Definition / Basic Recognition |
-| **-v2** | 1 | Context Variation | Recognition in a different context |
-| **-v3** | 2 | Understanding | Explaining "Why" or "How" |
-| **-v4** | 2 | Local Context | Applying concept to local culture/geography |
-| **-v5** | 3 | Application | Solving a standard problem |
-| **-v6** | 3 | Real World | Application in daily life scenarios |
-| **-v7** | 4 | Analysis | Breaking down a complex problem |
-| **-v8** | 4 | Comparison | Comparing two concepts or analyzing errors |
-| **-v9** | 5 | Synthesis | Combining multiple concepts to solve a problem |
-| **-v10** | 5 | Evaluation | Judging the value or validity of an idea |
+- `target_cefr` solo aplica a inglés.
+- Si la familia del bundle usa otra metadata activa del repo, respetarla.
+- El skill sigue siendo `v6`, aunque el `protocol_version` del bundle use el baseline activo del repo.
 
-### 5. Writing Rules (Strict)
-- **Distractors**: Must be plausible errors, not random wrong answers.
-- **Explanations**: Must be pedagogical (teaching *why* the answer is correct), not just stating the answer.
-- **Language**: Use neutral Spanish appropriate for the region (e.g., Colombia).
-- **Formatting**: Use standard Markdown headers (`#`, `##`, `###`).
+## Formato mínimo por pregunta
 
-### 6. Manual Validation
-Before saving, check:
-- [ ] Are there exactly 10 questions?
-- [ ] Are IDs unique (`-v1` to `-v10`)?
-- [ ] Is the `periodo` field correct?
-- [ ] do the questions actually align with the DBA?
+Cada pregunta debe incluir, como mínimo:
 
-### 7. Save & Commit
-Save the file. No build script is needed to generate the file, but you should run the validation script `npm run validate` if available to check formatting.
+- `ID`
+- `Bloom`
+- `ICFES`
+- `Expected_Success`
+- `Contexto` cuando realmente aporte
+- `Enunciado`
+- 4 opciones
+- una sola respuesta correcta
+- comentario `<!-- feedback: ... -->` por opción
+- `Explicación Pedagógica`
 
----
+## Distribución de dificultad
 
-> **Note:** This manual process ensures that every bundle is crafted with educational intent, avoiding the pitfalls of low-quality automated generation.
+Para bundles de 20 preguntas:
+
+- `v1-v4`: dificultad 3-4
+- `v5-v10`: dificultad 5-6
+- `v11-v16`: dificultad 7-8
+- `v17-v20`: dificultad 9-10
+
+Objetivo por tramo:
+
+- inicio: reconocimiento, lectura literal, aplicación directa;
+- medio: traducción entre representaciones, inferencia, procedimiento;
+- alto: razonamiento de varios pasos, integración de evidencia;
+- cierre: evaluación, transferencia, dominio del tema.
+
+## Reglas duras de redacción
+
+- El enunciado debe formular una sola tarea cognitiva principal.
+- La pregunta debe entenderse sin releer tres veces.
+- El contexto debe ser útil y suficiente.
+- Las opciones deben ser homogéneas en categoría y registro.
+- La correcta no debe “brillar” por precisión o estilo.
+- La explicación debe enseñar el error, no adornar la respuesta.
+
+## Prohibiciones absolutas
+
+Marcar como `[FALLA CRÍTICA]` y reescribir de inmediato si aparece cualquiera de estas:
+
+- word salad
+- pseudo-tecnicismo
+- jerga grandilocuente o burocrática sin función evaluativa
+- palabras repetidas artificialmente
+- distractores absurdos, chistosos o decorativos
+- “todas las anteriores”, “ninguna de las anteriores”, “A y B”
+- contexto morboso, sensacionalista o violento sin necesidad pedagógica clara
+- explicación barroca, insultante o teatral
+- opción correcta única por claridad gramatical
+- contexto que puede borrarse sin afectar la resolución
+
+## Heurísticas de rechazo inmediato
+
+Rechazar el ítem si ocurre al menos una de estas:
+
+- dos opciones dicen casi lo mismo;
+- la correcta es la única técnicamente seria;
+- el distractor no representa un error plausible;
+- el vocabulario no corresponde al grado;
+- el constructo evaluado no coincide con la competencia declarada;
+- la clave correcta depende de interpretar una ambigüedad del texto;
+- el agente no puede explicar por qué cada distractor es incorrecto.
+
+## Ingeniería del distractor
+
+Cada distractor debe mapearse a un error concreto. Usar solo estas familias:
+
+- error procedimental;
+- error conceptual;
+- lectura parcial;
+- sobregeneralización;
+- confusión de categorías;
+- confusión de registro o gramática en inglés.
+
+No usar distractores “de relleno”.
+
+### Plantilla mental de distractores
+
+- `A`: error procedimental frecuente
+- `B`: error conceptual
+- `C`: clave correcta
+- `D`: lectura incompleta, inferencia inválida o error visual
+
+La distribución puede variar, pero cada opción debe tener justificación.
+
+## Reglas por área
+
+### Matemáticas
+
+- Priorizar interpretación, modelación, formulación y argumentación.
+- Evitar aritmética desnuda salvo grados bajos.
+- Usar contexto solo si agrega estructura al problema.
+- Distractores típicos: signo, operación equivocada, lectura incorrecta de gráfica, mal despeje, confusión entre representaciones.
+
+### Lectura crítica / lenguaje
+
+- Alternar texto continuo y discontinuo cuando aplique.
+- Evaluar lectura literal, inferencial y crítica.
+- Distractores típicos: sobregeneralización, información cierta pero no apoyada por el texto, tesis confundida con evidencia.
+
+### Ciencias naturales
+
+- Priorizar fenómenos, variables, hipótesis, experimentos e interpretación de resultados.
+- Evitar definiciones memorizadas sin situación.
+- Distractores típicos: correlación por causalidad, variable mal identificada, explicación pseudocientífica.
+
+### Sociales y ciudadanas
+
+- Priorizar pensamiento social, análisis de perspectivas y pensamiento sistémico.
+- Evitar moralizar la respuesta.
+- Distractores típicos: anacronismo, institución equivocada, simplificación utópica, confusión entre derechos, mecanismos y actores.
+
+### Inglés
+
+- Ajustar CEFR al grado.
+- Mantener opciones en la misma parte del habla y mismo registro.
+- En grado 11, parecerse a tareas Saber 11: avisos, diálogos, cloze, reading comprehension.
+- Distractores típicos: falso amigo, tiempo verbal incorrecto, opción de registro equivocado, palabra de misma categoría pero sentido incompatible.
+
+## Workflow de creación
+
+1. Fijar grado, periodo, asignatura, tema y ruta.
+2. Identificar referente MEN.
+3. Identificar competencia, afirmación y evidencia ICFES.
+4. Definir mapa de 20 preguntas con dificultad progresiva.
+5. Definir misconception map por pregunta antes de redactar opciones.
+6. Redactar enunciados claros.
+7. Redactar distractores homogéneos y plausibles.
+8. Redactar feedback corto por opción.
+9. Redactar explicación pedagógica breve.
+10. Hacer revisión psicométrica interna.
+11. Correr validadores del repo.
+
+## Workflow de revisión y auditoría
+
+Aplicar esta secuencia en cada bundle existente:
+
+1. **Alineación curricular**
+   - ¿El tema sí corresponde al grado y periodo?
+   - ¿La pregunta sí evalúa el referente MEN y la competencia ICFES declarada?
+
+2. **Validez del constructo**
+   - ¿La tarea evaluada coincide con lo que el ítem dice medir?
+   - ¿El contexto ayuda a resolver?
+
+3. **Revisión técnica**
+   - una sola correcta;
+   - cuatro opciones;
+   - homogeneidad;
+   - sin solapamientos;
+   - sin pistas gramaticales;
+   - sin distractores absurdos.
+
+4. **Revisión de claridad**
+   - lenguaje adecuado al grado;
+   - sin word salad;
+   - sin inflación léxica;
+   - sin teatralidad.
+
+5. **Decisión**
+   - `aceptar`;
+   - `corregir pregunta puntual`;
+   - `regenerar bundle completo`.
+
+## Política de regeneración
+
+Regenerar el bundle completo si ocurre cualquiera de estas:
+
+- 2 o más preguntas con contaminación estilística;
+- 2 o más preguntas con clave ambigua o no única;
+- patrón sistemático de distractores absurdos;
+- desalineación curricular amplia;
+- estructura del bundle inconsistente o incompleta.
+
+Preservar `bundle id` y `question ids` cuando el tema y el propósito del bundle no cambien.
+
+## Checklist de aceptación de pregunta
+
+- competencia definida
+- evidencia definida
+- alineación MEN definida
+- enunciado claro
+- contexto útil
+- 4 opciones homogéneas
+- 1 sola correcta
+- distractores plausibles
+- feedback útil
+- explicación pedagógica breve
+- sin word salad
+- sin contexto impropio
+
+## Checklist de aceptación de bundle
+
+- ruta correcta
+- frontmatter válido
+- IDs únicos
+- progresión de dificultad coherente
+- todas las preguntas auditadas
+- sin flags críticas
+- listo para validación automática
+
+## Validación final
+
+Ejecutar siempre:
+
+```bash
+node saberparatodos/scripts/validate_content.js --scope=colombia --grade=[N]
+node saberparatodos/scripts/audit_question_quality.js --scope=colombia --grade-min=[N] --grade-max=[N]
+```
+
+Si el bundle falla el auditor por causas críticas, no se entrega como terminado.
+
+## Instrucciones de comportamiento para el agente
+
+- Actuar como psicómetra y revisor curricular MEN/ICFES.
+- No improvisar temas fuera de la malla activa.
+- No inventar contextos colombianos falsos.
+- No priorizar “sonar sofisticado” sobre medir bien.
+- Si falta grado, periodo, asignatura o tema, primero resolver ese hueco con evidencia del repo o con una pregunta breve al usuario.
+- En revisión, explicar qué regla violaba cada pregunta defectuosa.
+- Si el contenido existente está contaminado, no maquillarlo: corregirlo o regenerarlo.

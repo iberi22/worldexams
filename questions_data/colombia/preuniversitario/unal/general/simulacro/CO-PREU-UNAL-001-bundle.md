@@ -10,6 +10,8 @@ estado: "draft"
 creador: "AI-WorldExams"
 generation_date: "2026-03-10"
 source: "Institutional Blueprint"
+quarantine: true
+bundle_status: "quarantined"
 ---
 
 # Pregunta Base: Proyecciones e Isometrías UNAL (Nivel Avanzado)

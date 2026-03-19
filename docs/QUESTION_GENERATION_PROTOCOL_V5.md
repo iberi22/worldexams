@@ -1,129 +1,175 @@
-# Protocol v5.0 — Maestría ICFES: Arquitectura del Éxito (Mastery)
+# Protocol v5.1 - Mastery Bundles
 
-> **Versión:** 5.0 | **Fecha:** 2026-03-10 | **Estado:** Activo 🚀
-> **Objetivo:** Generar ítems de alta fidelidad alineados con los Marcos de Referencia Saber (ICFES), integrando taxonomía de Bloom, rúbricas de evaluación y simulacros de calibración.
+Last updated: 2026-03-17
+Status: active for Saber 11 generation in `questions_data/`
 
----
+## Purpose
 
-## 1. Distribución de Complejidad (20 Preguntas/Bundle)
+This protocol governs new Grade 11 bundle generation for the active Colombia bank.
+It replaces ad hoc v5.0 notes with a repo-valid version aligned to:
 
-Cada bundle debe seguir una progresión de dificultad 3-10, asegurando que los niveles superiores (D8-10) exijan síntesis y transferencia extraordinaria.
+- ICFES Saber 11 reference frameworks updated in March 2025
+- MEN standards and DBA guidance used as curriculum floor
+- the active runtime and validators in this repository
 
-| Nivel | Habilidad Bloom | Dificultad | Tipo | Crédito |
-|-------|-----------------|------------|------|---------|
-| **Básico** | Recordar / Comprender | 3-4 | single | 100% |
-| **Intermedio** | Aplicar / Analizar | 5-6 | single / multi | 100% / Partial |
-| **Avanzado** | Evaluar / Sintetizar | 7-8 | multi-correct | Partial / Weighted |
-| **Maestría** | Crear / Transferir | 9-10 | weighted / complex | Weighted |
+## Official Alignment Baseline
 
----
+New bundles must align with both layers:
 
-## 2. Metadatos Técnicos Obligatorios (Frontmatter)
+1. Curriculum floor
+- MEN Basic Competency Standards
+- MEN DBA or equivalent curricular guidance when available for the area
+- institutional period/topic planning already reflected in `questions_data/colombia/**/grado-11/periodo-[1-4]/`
 
-Cada bundle debe incluir en su metadata global:
+2. Assessment target
+- ICFES Saber 11 reference frameworks by test area
+- competency wording and cognitive demand should resemble Saber 11, not textbook trivia
+
+## Storage Rule
+
+All new active bundles must be created under:
+
+```text
+questions_data/colombia/[asignatura]/grado-11/periodo-[N]/[tema]/[ID]-MASTERY-bundle.md
+```
+
+Do not create new Grade 11 bundles under `src/content/questions/`.
+
+## Bundle Size
+
+- Grade 11 uses 20 questions per bundle
+- `single` answer by default
+- difficulty progression: 3 to 10
+- bundle density target: 3 bundles per topic-period when the topic is active
+
+## Required Frontmatter
 
 ```yaml
 ---
-id: "CO-[ASIGNATURA]-[GRADO]-[PERIODO]-[TEMA]-[INDEX]-MASTERY"
-protocol_version: "5.0"
-alignment: "ICFES Saber 11 / Marcos Técnicos"
-target_cefr: "B2-C1 (Inglés)"
----
-
-## 1. Organización de Directorios (Optimal Hierarchy)
-Para resolver el desajuste de versiones anteriores, el almacenamiento OBLIGATORIO en `questions_data/colombia/` sigue este orden:
-`[Asignatura]/grado-[N]/periodo-[P]/[tema-kebab-case]/[archivo]-MASTERY-bundle.md`
-
-**Ejemplo:**
-`matematicas/grado-11/periodo-2/derivadas/CO-MAT-11-P2-derivadas-001-MASTERY-bundle.md`
-
----
-
-## 2. Metadatos Técnicos Obligatorios (Frontmatter)
-```yaml
-periodo: [1-4]                      # OBLIGATORIO: Según malla curricular
-bundle_index: [1-3]                 # OBLIGATORIO: 3 bundles por tema/periodo
+id: "CO-[AREA]-11-P[PERIODO]-[TOPIC]-[INDEX]-MASTERY"
+country: "colombia"
+grado: 11
+asignatura: "[asignatura-kebab-case]"
+tema: "[tema-kebab-case]"
+periodo: [1-4]
+protocol_version: "5.1"
+bundle_index: [1-3]
+bundle_size: 20
+alignment: "ICFES Saber 11 + MEN"
+target_cefr: "B1-B2" # only for ingles
 modern_context: true
+distractor_profile: "plausible_peer_set"
 calibration:
-  expected_success_rate: 0.65
-  discrimination_index_target: ">= 0.2"
+  expected_success_rate: 0.45-0.65
+  discrimination_index_target: ">= 0.22"
   simulated_responses: 100
-rubric_baseline: "identificación_conflicto, ponderación_precedente, claridad_argumental"
+rubric_baseline: "campo_1, campo_2, campo_3"
 ---
-
-## 2. Regla de Densidad (3 Bundles por Tema)
-Para asegurar una base de preguntas robusta (Mastery), cada tema dentro de un periodo académico DEBE contar con **3 bundles distintos**:
-- **Bundle 1:** Conceptos núcleo y aplicaciones estándar.
-- **Bundle 2:** Casos de borde, excepciones y análisis sistémico.
-- **Bundle 3:** Transferencia extraordinaria y retos de alta complejidad (D7-10).
-
----
-
-## 3. Metadatos Técnicos Obligatorios (Frontmatter)
 ```
 
----
+## Question Structure
 
-## 3. Estructura de Ítem - Requisitos de "Maestría"
+Each question must include:
 
-Cada pregunta dentro del bundle debe contener los siguientes elementos enriquecidos:
+- `ID`
+- `Bloom`
+- `ICFES`
+- `Expected_Success`
+- optional `Contexto` when needed
+- `Enunciado`
+- 4 options
+- feedback comment per option
+- short pedagogical explanation
 
-### 3.1 Componentes del Ítem
-- **ID Único:** `[ID]-vN`
-- **Bloom Objective:** Objetivo específico del nivel (Ej: "Evaluar la validez de un argumento jurídico").
-- **Competencia:** Referencia directa al marco ICFES (Ej: "Pensamiento Reflexivo y Sistémico").
-- **Dificultad:** Escala 1-10.
-- **Contexto Factual:** Máximo 120 palabras; debe incluir hechos reales, normas o fallos (si aplica).
-- **Enunciado:** Claro y directo.
+## Distractor Rules
 
-### 3.2 Reglas de Generación (Hard Constraints)
-1. **Distractores Defendibles:** No generar opciones absurdas. Cada distractor debe ser defendible con un argumento jurídico, factual o conceptual (para inducir análisis profundo).
-2. **Opciones Condicionales:** Incluir al menos una opción que use estructuras como "siempre que...", "solo cuando...", "a menos que...".
-3. **Variación Aleatoria:** Cambiar hechos críticos en variantes (ej: montos, tipos de cargo, cláusulas, duración de contratos).
-4. **Retroalimentación Específica:** Generar 1-2 líneas de feedback por CADA opción incorrecta.
-5. **Rúbrica Corta:** Definir criterios de evaluación para la justificación (2-3 frases requeridas en simulacros).
+Distractors must be:
 
----
+- same semantic category as the correct answer
+- same grammatical role in English
+- close in length and specificity
+- based on plausible student errors
+- defensible from partial reading, incomplete procedure, or common misconception
 
-## 4. Ejemplo de Pregunta Mastery (Dificultad 7+)
+Distractors must not be:
 
-```markdown
-## Question 18 (Variant High - Difficulty 9)
+- absurd, comic, decorative, or category-breaking
+- the only technical or only precise option in the set
+- eliminated by obvious unit mismatch or register mismatch
+- visibly wrong because of tense, number, or syntax alone unless grammar is the exact construct being tested
 
-**ID:** `CO-LEN-11-critico-005-MASTERY-v18`
-**Bloom:** Evaluate
-**ICFES:** Reflexionar y evaluar
-**Expected_Success:** 0.35
+## Grade 11 Subject Guidance for Period 1
 
-### Contexto
-Un columnista afirma que "la libertad de expresión en redes sociales es un derecho absoluto que prima sobre el buen nombre, ya que el espacio digital es por definición la plaza pública moderna".
+Use the active period-1 folders as topic anchors:
 
-### Enunciado
-Considerando la jurisprudencia de la Corte Constitucional colombiana (Sentencia T-030/20), ¿cuál de las siguientes opciones representa la ponderación correcta del caso?
+- `matematicas`
+  - `funciones`
+  - `continuidad`
+  - `limites`
+  - `inecuaciones`
+- `lectura-critica`
+  - `textos-continuos`
+  - `textos-discontinuos`
+  - `ensayo-filosofico`
+- `ciencias-naturales`
+  - `fisicoquimica-genetica`
+- `sociales-ciudadanas`
+  - `pensamiento-social`
+  - `multiperspectivismo`
+  - `geopolitica-contemporanea`
+- `ingles`
+  - `uso-del-lenguaje`
+  - `global-issues`
 
-### Options
-- [ ] A) El derecho es absoluto siempre que no se use lenguaje soez. <!-- feedback: La jurisprudencia aclara que NINGÚN derecho es absoluto. -->
-- [x] B) El derecho prima solo cuando el contenido es de interés público, incluso si afecta el buen nombre, siempre que no sea difamación malintencionada. <!-- feedback: Correcto. La ponderación depende de la relevancia pública y la veracidad. -->
-- [ ] C) El buen nombre siempre prevalece sobre la libertad de expresión en espacios privados como Facebook. <!-- feedback: Incorrecto. Facebook es considerado espacio de relevancia pública según la Corte. -->
-- [ ] D) La libertad de expresión nunca puede ser limitada por algoritmos de moderación. <!-- feedback: Abstracto e incorrecto legalmente. -->
+## Difficulty Distribution
 
-### Rúbrica de Justificación
-1. **Identificación de la limitación:** Reconoce que el derecho no es absoluto.
-2. **Uso de precedente:** Cita la necesidad de interés público.
-3. **Claridad:** Redacción técnica y lógica.
+Recommended 20-question spread:
 
-### Explicación Pedagógica
-La opción B es la única defendible jurídicamente en Colombia, basándose en el test de proporcionalidad. Las redes sociales no son "zonas de impunidad", pero el interés público protege el discurso crítico.
-```
+- 4 questions: D3-D4
+- 6 questions: D5-D6
+- 6 questions: D7-D8
+- 4 questions: D9-D10
 
----
+The last quarter of the bundle should require evidence integration, conditional reasoning, or multi-step evaluation.
 
-## 5. Validación mediante Simulación
+## Area Notes
 
-Si se actúa bajo el rol de @jules, se debe realizar una validación interna:
-- **Simulación:** Evaluar cómo responderían 100 perfiles (Bajo/Medio/Alto).
-- **Ajuste:** Si la discriminación es < 0.2, reformular distractores para que no sean "trucos" sino análisis genuinos.
+### Matematicas
 
----
+- prioritize modeling, interpretation, and functional reasoning
+- distractors should come from real algebraic or graphical errors
+- avoid pure symbol manipulation with no context unless the topic requires it
 
-*Protocolo Maestro v5.0 | World Exams Organization | 2026*
+### Lectura Critica
+
+- use short texts or fragments with a clear argumentative task
+- wrong answers should reflect partial interpretation, overgeneralization, or confusion of thesis/evidence
+
+### Ciencias Naturales
+
+- ask about phenomena, models, variables, evidence, and conclusions
+- avoid sci-fi distractors or inflated pseudo-technical options
+
+### Sociales Ciudadanas
+
+- connect constitutional, historical, political, and civic reasoning
+- distractors should reflect realistic confusions between institutions, mechanisms, rights, and perspectives
+
+### Ingles
+
+- keep CEFR target between B1 and B2 for Grade 11
+- options must share part of speech, register, and sentence role
+- reading tasks must resemble Saber 11 style: main idea, inference, reference, vocabulary in context, organization, author purpose
+
+## Validation Gate
+
+Before accepting a new bundle:
+
+1. It must pass `validate_content.js`
+2. It must avoid `critical` flags in `audit_question_quality.js`
+3. It must not contain placeholder text, unfinished numbering, or partial bundles
+
+## Migration Rule
+
+- New generation for Grade 11 should use `protocol_version: "5.1"`
+- Existing v5.0 bundles may remain active, but when they are rewritten they must be normalized to v5.1 frontmatter and distractor rules

@@ -17,6 +17,8 @@ creador: "Antigravity (Protocol v4.1 - Enfoque 2026)"
 generation_date: "2026-03-03"
 source: "International Human Rights Law / ICFES 2026"
 source_license: "CC BY-SA 4.0"
+quarantine: true
+bundle_status: "quarantined"
 ---
 
 # Bundle: Human Rights Advocacy (ICFES Part 5 - Literal Reading)

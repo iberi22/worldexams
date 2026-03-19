@@ -17,6 +17,8 @@ source: "Mineducacion Colombia - DBA"
 source_url: "https://www.mineducacion.gov.co/portal/men/Publicaciones/Guias/340021:Derechos-Basicos-de-Aprendizaje-DBA"
 source_license: "CC BY-SA 4.0"
 search_query: "DBA ciencias naturales grado 6 colombia recursos naturales renovables no renovables biodiversidad mineria"
+quarantine: true
+bundle_status: "quarantined"
 ---
 
 # Pregunta Base: La Riqueza del Territorio: Recursos Naturales de Colombia

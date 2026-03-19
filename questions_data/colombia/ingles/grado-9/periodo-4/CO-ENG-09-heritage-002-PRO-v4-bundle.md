@@ -16,6 +16,8 @@ creador: "Antigravity (Protocol v4.1 - Enfoque 2026)"
 generation_date: "2026-03-03"
 source: "Ministry of Culture / ICFES 2026 Focus"
 source_license: "CC BY-SA 4.0"
+quarantine: true
+bundle_status: "quarantined"
 ---
 
 # Bundle: Colombian Heritage & Identity (ICFES Part 1 - Matching)

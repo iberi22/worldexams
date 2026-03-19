@@ -7,23 +7,29 @@
   import { onMount } from 'svelte';
   import type { RankChange } from '../lib/rank-notifications';
 
-  export let notification: RankChange | null = null;
-  export let onDismiss: () => void = () => {};
-  export let autoDismissMs: number = 8000;
-
-  let visible = false;
-  let dismissTimeout: ReturnType<typeof setTimeout> | null = null;
-
-  $: if (notification) {
-    visible = true;
-
-    // Auto-dismiss after delay
-    if (dismissTimeout) clearTimeout(dismissTimeout);
-    dismissTimeout = setTimeout(() => {
-      visible = false;
-      setTimeout(onDismiss, 300); // Wait for animation
-    }, autoDismissMs);
+  interface Props {
+    notification: RankChange | null;
+    onDismiss?: () => void;
+    autoDismissMs?: number;
   }
+
+  let { notification, onDismiss = () => {}, autoDismissMs = 8000 }: Props = $props();
+
+  let visible = $state(false);
+  let dismissTimeout = $state<ReturnType<typeof setTimeout> | null>(null);
+
+  $effect(() => {
+    if (notification) {
+      visible = true;
+
+      // Auto-dismiss after delay
+      if (dismissTimeout) clearTimeout(dismissTimeout);
+      dismissTimeout = setTimeout(() => {
+        visible = false;
+        setTimeout(onDismiss, 300); // Wait for animation
+      }, autoDismissMs);
+    }
+  });
 
   function dismiss() {
     visible = false;
@@ -96,7 +102,7 @@
       </div>
 
       <button
-        on:click={dismiss}
+        onclick={dismiss}
         class="shrink-0 w-6 h-6 flex items-center justify-center
                text-white/40 hover:text-white/80 transition-colors"
         aria-label="Cerrar notificación"
@@ -110,7 +116,7 @@
       <div
         class="h-full bg-white/30 animate-shrink"
         style={`animation-duration: ${autoDismissMs}ms`}
-      />
+      ></div>
     </div>
   </div>
 {/if}

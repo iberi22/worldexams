@@ -1,0 +1,404 @@
+[2m21:52:54[22m [34m[@astrojs/cloudflare][39m Enabling compile-time image optimization. Images will be pre-optimized at build time.
+[2m21:52:54[22m [34m[@astrojs/cloudflare][39m Enabling sessions with Cloudflare KV with the "SESSION" KV binding.
+9:52:54 p.m. [vite-plugin-svelte] no Svelte config found at E:/scripts-python/worldexams/saberparatodos - using default configuration.
+[33m[1m21:52:54[22m [WARN] [vite][39m [2mDefault inspector port 9229 not available, using 9230 instead
+[22m
+Using secrets defined in .env
+[2m21:52:57[22m [34m[types][39m Generated [2m3ms[22m
+[vite] connected.
+[2m21:52:58[22m [34m[content][39m Syncing content
+[2m21:52:58[22m [34m[content][39m Synced content
+[2m21:52:58[22m [34m[vite][39m Re-optimizing dependencies because vite config has changed
+[2m21:52:58[22m [34m[vite][39m Re-optimizing dependencies because vite config has changed
+[2m21:52:59[22m [34m[vite][39m Port 4321 is in use, trying another one...
+[42m[1m astro [22m[49m [32mv6.0.6[39m [2mready in[22m 7228 [2mms[22m
+[2mÔöâ[22m Local    [36mhttp://localhost:4322/[39m
+[2mÔöâ[22m Network  [2muse --host to expose[22m
+[2m21:52:59[22m [32mwatching for file changes...[39m
+[2m21:53:51[22m [34m[vite][39m [Config] Loaded configuration for: Colombia (CO)
+9:53:51 p.m. [vite-plugin-svelte] src/components/ReportModal.svelte:97:8 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+9:53:51 p.m. [vite-plugin-svelte] src/components/ReportModal.svelte:125:12 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:53:51 p.m. [vite-plugin-svelte] src/components/ReportModal.svelte:146:12 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:53:51 p.m. [vite-plugin-svelte] src/components/ReportModal.svelte:8:13 Component has unused export property 'questionData'. If it is for external reference only, please consider using `export const questionData`
+https://svelte.dev/e/export_let_unused
+[2m21:53:51[22m [34m[vite][39m 21:53:51 [200] / 170ms
+9:53:52 p.m. [vite-plugin-svelte] src/components/VersionBadge.svelte:18:26 This reference only captures the initial value of `showOnlyOnUpdate`. Did you mean to reference it inside a derived instead?
+https://svelte.dev/e/state_referenced_locally
+9:53:52 p.m. [vite-plugin-svelte] src/components/App.svelte:61:31 This reference only captures the initial value of `questions`. Did you mean to reference it inside a derived instead?
+https://svelte.dev/e/state_referenced_locally
+9:53:52 p.m. [vite-plugin-svelte] src/components/App.svelte:126:41 This reference only captures the initial value of `questions`. Did you mean to reference it inside a closure instead?
+https://svelte.dev/e/state_referenced_locally
+9:53:52 p.m. [vite-plugin-svelte] src/components/App.svelte:127:45 This reference only captures the initial value of `universalPool`. Did you mean to reference it inside a closure instead?
+https://svelte.dev/e/state_referenced_locally
+9:53:52 p.m. [vite-plugin-svelte] src/components/App.svelte:1452:10 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:53:52 p.m. [vite-plugin-svelte] src/components/App.svelte:1460:12 Avoid using autofocus
+https://svelte.dev/e/a11y_autofocus
+[2m21:53:52[22m [34m[vite][39m [vite] program reload
+9:53:52 p.m. [vite-plugin-svelte] src/components/IdentityRegistration.svelte:104:8 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:53:52 p.m. [vite-plugin-svelte] src/components/IdentityRegistration.svelte:120:8 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:53:52 p.m. [vite-plugin-svelte] src/components/IdentityRegistration.svelte:139:8 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:53:52 p.m. [vite-plugin-svelte] src/components/IdentityRegistration.svelte:155:8 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:53:52 p.m. [vite-plugin-svelte] src/components/IdentityRegistration.svelte:18:13 Component has unused export property 'onCancel'. If it is for external reference only, please consider using `export const onCancel`
+https://svelte.dev/e/export_let_unused
+9:53:52 p.m. [vite-plugin-svelte] src/components/FlashlightCard.svelte:81:2 Self-closing HTML tags for non-void elements are ambiguous ÔÇö use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+9:53:53 p.m. [vite-plugin-svelte] src/components/AdvancedSearch.svelte:200:4 Elements with the 'dialog' interactive role must have a tabindex value
+https://svelte.dev/e/a11y_interactive_supports_focus
+9:53:53 p.m. [vite-plugin-svelte] src/components/AdvancedSearch.svelte:200:4 Visible, non-interactive elements with a click event must be accompanied by a keyboard event handler. Consider whether an interactive element such as `<button type="button">` or `<a>` might be more appropriate
+https://svelte.dev/e/a11y_click_events_have_key_events
+9:53:53 p.m. [vite-plugin-svelte] src/components/AdvancedSearch.svelte:259:16 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:53:53 p.m. [vite-plugin-svelte] src/components/AdvancedSearch.svelte:273:16 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:53:53 p.m. [vite-plugin-svelte] src/components/AdvancedSearch.svelte:287:16 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:53:53 p.m. [vite-plugin-svelte] src/components/AdvancedSearch.svelte:301:16 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:53:53 p.m. [vite-plugin-svelte] src/components/LocalReportsView.svelte:577:24 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+9:53:53 p.m. [vite-plugin-svelte] src/components/LocalReportsView.svelte:1384:4 `<div>` with a click handler must have an ARIA role
+https://svelte.dev/e/a11y_no_static_element_interactions
+9:53:53 p.m. [vite-plugin-svelte] src/components/LocalReportsView.svelte:1547:4 `<div>` with a click handler must have an ARIA role
+https://svelte.dev/e/a11y_no_static_element_interactions
+9:53:53 p.m. [vite-plugin-svelte] src/components/LocalReportsView.svelte:1712:4 `<div>` with a click handler must have an ARIA role
+https://svelte.dev/e/a11y_no_static_element_interactions
+9:53:53 p.m. [vite-plugin-svelte] src/components/LocalReportsView.svelte:1948:8 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+9:53:53 p.m. [vite-plugin-svelte] src/components/BlogView.svelte:344:8 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:53:53 p.m. [vite-plugin-svelte] src/components/BlogView.svelte:379:8 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:53:53 p.m. [vite-plugin-svelte] src/components/BlogView.svelte:402:8 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:53:53 p.m. [vite-plugin-svelte] src/components/ExamConfigModal.svelte:33:31 This reference only captures the initial value of `initialSubject`. Did you mean to reference it inside a derived instead?
+https://svelte.dev/e/state_referenced_locally
+9:53:53 p.m. [vite-plugin-svelte] src/components/ExamConfigModal.svelte:34:29 This reference only captures the initial value of `initialGrade`. Did you mean to reference it inside a closure instead?
+https://svelte.dev/e/state_referenced_locally
+9:53:53 p.m. [vite-plugin-svelte] src/components/ExamConfigModal.svelte:104:34 This reference only captures the initial value of `isEnglishDiagnosticMode`. Did you mean to reference it inside a derived instead?
+https://svelte.dev/e/state_referenced_locally
+9:53:53 p.m. [vite-plugin-svelte] src/components/ExamConfigModal.svelte:1254:14 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:53:53 p.m. [vite-plugin-svelte] src/components/ExamConfigModal.svelte:1270:16 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:53:53 p.m. [vite-plugin-svelte] src/components/ExamConfigModal.svelte:1308:16 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:53:53 p.m. [vite-plugin-svelte] src/components/ExamConfigModal.svelte:1416:8 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:53:53 p.m. [vite-plugin-svelte] src/components/ExamConfigModal.svelte:1433:8 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:53:53 p.m. [vite-plugin-svelte] src/components/ExamConfigModal.svelte:1480:10 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+9:53:53 p.m. [vite-plugin-svelte] src/components/ExamConfigModal.svelte:1748:14 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+9:53:53 p.m. [vite-plugin-svelte] src/components/ExamConfigModal.svelte:1797:16 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:53:53 p.m. [vite-plugin-svelte] src/components/OfflineProfile.svelte:63:6 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+9:53:53 p.m. [vite-plugin-svelte] src/modules/exam-room/components/SpeedChallengeSetup.svelte:60:8 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:53:53 p.m. [vite-plugin-svelte] src/modules/exam-room/components/SpeedChallengeSetup.svelte:71:8 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:53:53 p.m. [vite-plugin-svelte] src/modules/exam-room/components/SpeedChallengeSetup.svelte:83:12 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:53:53 p.m. [vite-plugin-svelte] src/modules/exam-room/components/SpeedChallengeSetup.svelte:98:12 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:53:53 p.m. [vite-plugin-svelte] src/modules/exam-room/components/SpeedChallengeSetup.svelte:127:8 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+9:53:53 p.m. [vite-plugin-svelte] src/modules/exam-room/components/SpeedChallengeSetup.svelte:131:10 Self-closing HTML tags for non-void elements are ambiguous ÔÇö use `<span ...></span>` rather than `<span ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+9:53:53 p.m. [vite-plugin-svelte] src/modules/exam-room/components/LobbyBrowser.svelte:212:16 Avoid using autofocus
+https://svelte.dev/e/a11y_autofocus
+9:53:53 p.m. [vite-plugin-svelte] src/components/PeriodTracker.svelte:34:6 `nextExam` is updated, but is not declared with `$state(...)`. Changing its value will not correctly trigger updates
+https://svelte.dev/e/non_reactive_update
+9:53:53 p.m. [vite-plugin-svelte] src/components/ReportModal.svelte:97:8 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+9:53:53 p.m. [vite-plugin-svelte] src/components/ReportModal.svelte:125:12 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:53:53 p.m. [vite-plugin-svelte] src/components/ReportModal.svelte:146:12 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+9:53:53 p.m. [vite-plugin-svelte] src/components/ReportModal.svelte:8:13 Component has unused export property 'questionData'. If it is for external reference only, please consider using `export const questionData`
+https://svelte.dev/e/export_let_unused
+9:53:53 p.m. [vite-plugin-svelte] src/components/RankNotificationToast.svelte:110:6 Self-closing HTML tags for non-void elements are ambiguous ÔÇö use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+9:53:53 p.m. [vite-plugin-svelte] src/components/CommentsSection.svelte:30:29 This reference only captures the initial value of `questionId`. Did you mean to reference it inside a closure instead?
+https://svelte.dev/e/state_referenced_locally
+9:53:53 p.m. [vite-plugin-svelte] src/components/QuestionFeedback.svelte:160:2 Visible, non-interactive elements with a click event must be accompanied by a keyboard event handler. Consider whether an interactive element such as `<button type="button">` or `<a>` might be more appropriate
+https://svelte.dev/e/a11y_click_events_have_key_events
+9:53:53 p.m. [vite-plugin-svelte] src/components/QuestionFeedback.svelte:160:2 `<div>` with a click handler must have an ARIA role
+https://svelte.dev/e/a11y_no_static_element_interactions
+9:53:53 p.m. [vite-plugin-svelte] src/components/QuestionFeedback.svelte:175:10 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+9:53:53 p.m. [vite-plugin-svelte] src/components/QuestionFeedback.svelte:221:14 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+[2m21:54:29[22m [34m[vite][39m [vite] program reload
+[2m21:54:29[22m [34m[vite][39m [vite] program reload
+21:54:29 [ERROR] [vite] Internal server error: Module "E:/scripts-python/worldexams/saberparatodos/node_modules/.vite/deps_ssr/@astrojs_cloudflare_entrypoints_server.js?v=0d8d1d13" is undefined
+      at CustomModuleRunner.cachedModule (workers/runner-worker/index.js:102:22)
+      at request (workers/runner-worker/vite/module-runner:1161:83)
+      at null.<anonymous> ( virtual:cloudflare/worker-entry:7:31)
+      at Object.runInlinedModule (workers/runner-worker/index.js:218:4)
+      at CustomModuleRunner.directRequest (workers/runner-worker/vite/module-runner:1204:59)
+      at CustomModuleRunner.cachedRequest (workers/runner-worker/vite/module-runner:1111:73)
+      at CustomModuleRunner.import (workers/runner-worker/vite/module-runner:1061:10)
+      at getWorkerEntryExport (workers/runner-worker/index.js:244:17)
+      at null.<anonymous> (workers/runner-worker/index.js:375:24)
+      at maybeCaptureError (workers/runner-worker/index.js:50:10)
+[2m21:54:30[22m [34m[vite][39m [Config] Loaded configuration for: Colombia (CO)
+[2m21:54:30[22m [34m[vite][39m [vite] program reload
+21:54:30 [ERROR] [vite] 21:54:30 [ERROR] Error: Module "E:/scripts-python/worldexams/saberparatodos/node_modules/.vite/deps_ssr/chunk-EGRHWZRV.js?v=0d8d1d13" is undefined
+    at CustomModuleRunner.cachedModule (workers/runner-worker/index.js:102:22)
+    at request (workers/runner-worker/vite/module-runner:1161:83)
+    at E:/scripts-python/worldexams/saberparatodos/node_modules/.vite/deps_ssr/astro_virtual-modules_middleware__js.js?v=0d8d1d13:42:32
+    at Object.runInlinedModule (workers/runner-worker/index.js:218:4)
+    at CustomModuleRunner.directRequest (workers/runner-worker/vite/module-runner:1204:59)
+    at CustomModuleRunner.cachedRequest (workers/runner-worker/vite/module-runner:1111:73)
+    at E:/scripts-python/worldexams/saberparatodos/src/middleware.ts:2:31
+    at Object.runInlinedModule (workers/runner-worker/index.js:218:4)
+    at CustomModuleRunner.directRequest (workers/runner-worker/vite/module-runner:1204:59)
+    at CustomModuleRunner.cachedRequest (workers/runner-worker/vite/module-runner:1111:73)
+[2m21:54:31[22m [34m[vite][39m [Config] Loaded configuration for: Colombia (CO)
+[2m21:54:31[22m [34m[vite][39m 21:54:31 [200] / 25ms
+[2m21:54:31[22m [34m[vite][39m [vite] program reload
+[2m21:54:39[22m [34m[vite][39m [vite] program reload
+[2m21:54:40[22m [34m[vite][39m [vite] program reload
+[2m21:54:40[22m [34m[vite][39m Warning: A promise was resolved or rejected from a different request context than the one it was created in. However, the creating request has already been completed or canceled. Continuations for that request are unlikely to run safely and have been canceled. If this behavior breaks your worker, consider setting the `no_handle_cross_request_promise_resolution` compatibility flag for your worker.
+[2m21:54:40[22m [34m[vite][39m     at E:/scripts-python/worldexams/saberparatodos/node_modules/.vite/deps_ssr/astro_app_entrypoint_dev.js?v=0d8d1d13:508:1
+[2m21:54:40[22m [34m[vite][39m [Config] Loaded configuration for: Colombia (CO)
+[2m21:54:41[22m [34m[vite][39m 21:54:41 [200] / 295ms
+[2m21:54:41[22m [34m[vite][39m [vite] program reload
+[2m21:54:41[22m [34m[vite][39m [Config] Loaded configuration for: Colombia (CO)
+[2m21:54:41[22m [34m[vite][39m 21:54:41 [200] / 283ms
+[2m21:54:42[22m [34m[vite][39m [vite] program reload
+[2m21:54:42[22m [34m[vite][39m [vite] program reload
+[2m21:54:42[22m [34m[vite][39m [vite] program reload
+[2m21:54:43[22m [34m[vite][39m [vite] program reload
+[2m21:54:43[22m [34m[vite][39m [vite] program reload
+[2m21:54:43[22m [34m[vite][39m [vite] program reload
+[2m21:54:44[22m [34m[vite][39m [vite] program reload
+[2m21:54:44[22m [34m[vite][39m [vite] program reload
+[2m21:54:45[22m [34m[vite][39m [vite] program reload
+[2m21:54:45[22m [34m[vite][39m [vite] program reload
+[2m21:54:45[22m [34m[vite][39m [vite] program reload
+[2m21:54:46[22m [34m[vite][39m [vite] program reload
+[2m21:54:46[22m [34m[vite][39m [vite] program reload
+[2m21:54:47[22m [34m[vite][39m Warning: A promise was resolved or rejected from a different request context than the one it was created in. However, the creating request has already been completed or canceled. Continuations for that request are unlikely to run safely and have been canceled. If this behavior breaks your worker, consider setting the `no_handle_cross_request_promise_resolution` compatibility flag for your worker.
+[2m21:54:47[22m [34m[vite][39m     at CustomModuleRunner.import (workers/runner-worker/vite/module-runner:1061:10)
+[2m21:54:47[22m [34m[vite][39m [vite] program reload
+[2m21:54:47[22m [34m[vite][39m [vite] program reload
+[2m21:54:48[22m [34m[vite][39m [vite] program reload
+[2m21:54:48[22m [34m[vite][39m [vite] program reload
+[2m21:54:48[22m [34m[vite][39m [vite] program reload
+[2m21:54:49[22m [34m[vite][39m [vite] program reload
+[2m21:54:49[22m [34m[vite][39m [vite] program reload
+[2m21:54:50[22m [34m[vite][39m [vite] program reload
+[2m21:54:50[22m [34m[vite][39m [vite] program reload
+[2m21:54:50[22m [34m[vite][39m [vite] program reload
+[2m21:54:51[22m [34m[vite][39m [vite] program reload
+[2m21:54:51[22m [34m[vite][39m [vite] program reload
+[2m21:54:52[22m [34m[vite][39m [vite] program reload
+[2m21:54:52[22m [34m[vite][39m [vite] program reload
+[2m21:54:53[22m [34m[vite][39m [vite] program reload
+[2m21:54:53[22m [34m[vite][39m [vite] program reload
+[2m21:54:53[22m [34m[vite][39m [vite] program reload
+[2m21:54:54[22m [34m[vite][39m [vite] program reload
+[2m21:54:54[22m [34m[vite][39m [vite] program reload
+[2m21:54:55[22m [34m[vite][39m [vite] program reload
+[2m21:54:55[22m [34m[vite][39m [vite] program reload
+[2m21:54:55[22m [34m[vite][39m [vite] program reload
+[2m21:54:56[22m [34m[vite][39m [vite] program reload
+[2m21:54:56[22m [34m[vite][39m [vite] program reload
+[2m21:54:56[22m [34m[vite][39m [vite] program reload
+[2m21:54:57[22m [34m[vite][39m [vite] program reload
+[2m21:54:57[22m [34m[vite][39m [vite] program reload
+[2m21:54:57[22m [34m[vite][39m [vite] program reload
+[2m21:54:58[22m [34m[vite][39m [vite] program reload
+[2m21:54:58[22m [34m[vite][39m [vite] program reload
+[2m21:54:58[22m [34m[vite][39m [vite] program reload
+[2m21:54:59[22m [34m[vite][39m [vite] program reload
+[2m21:54:59[22m [34m[vite][39m [vite] program reload
+[2m21:54:59[22m [34m[vite][39m [vite] program reload
+[2m21:55:00[22m [34m[vite][39m [vite] program reload
+[2m21:55:00[22m [34m[vite][39m [vite] program reload
+[2m21:55:01[22m [34m[vite][39m [vite] program reload
+[2m21:55:01[22m [34m[vite][39m [vite] program reload
+[2m21:55:01[22m [34m[vite][39m [vite] program reload
+[2m21:55:02[22m [34m[vite][39m [vite] program reload
+[2m21:55:02[22m [34m[vite][39m [vite] program reload
+[2m21:55:03[22m [34m[vite][39m [vite] program reload
+[2m21:55:03[22m [34m[vite][39m [vite] program reload
+[2m21:55:04[22m [34m[vite][39m [vite] program reload
+[2m21:55:04[22m [34m[vite][39m [vite] program reload
+[2m21:55:04[22m [34m[vite][39m [vite] program reload
+[2m21:55:05[22m [34m[vite][39m [vite] program reload
+[2m21:55:05[22m [34m[vite][39m [vite] program reload
+[2m21:55:05[22m [34m[vite][39m [vite] program reload
+[2m21:55:06[22m [34m[vite][39m [vite] program reload
+[2m21:55:06[22m [34m[vite][39m [vite] program reload
+[2m21:55:06[22m [34m[vite][39m [vite] program reload
+[2m21:55:07[22m [34m[vite][39m [vite] program reload
+[2m21:55:07[22m [34m[vite][39m [vite] program reload
+[2m21:55:08[22m [34m[vite][39m [vite] program reload
+[2m21:55:08[22m [34m[vite][39m [vite] program reload
+[2m21:55:08[22m [34m[vite][39m [vite] program reload
+[2m21:55:09[22m [34m[vite][39m [vite] program reload
+[2m21:55:09[22m [34m[vite][39m [vite] program reload
+[2m21:55:10[22m [34m[vite][39m [vite] program reload
+[2m21:55:10[22m [34m[vite][39m [vite] program reload
+[2m21:55:10[22m [34m[vite][39m [vite] program reload
+[2m21:55:11[22m [34m[vite][39m [vite] program reload
+[2m21:55:11[22m [34m[vite][39m [vite] program reload
+[2m21:55:12[22m [34m[vite][39m [vite] program reload
+[2m21:55:12[22m [34m[vite][39m [vite] program reload
+[2m21:55:12[22m [34m[vite][39m [vite] program reload
+[2m21:55:13[22m [34m[vite][39m [vite] program reload
+[2m21:55:13[22m [34m[vite][39m [vite] program reload
+[2m21:55:14[22m [34m[vite][39m [vite] program reload
+[2m21:55:14[22m [34m[vite][39m [vite] program reload
+[2m21:55:15[22m [34m[vite][39m [vite] program reload
+[2m21:55:15[22m [34m[vite][39m [vite] program reload
+[2m21:55:15[22m [34m[vite][39m [vite] program reload
+[2m21:55:16[22m [34m[vite][39m [vite] program reload
+[2m21:55:16[22m [34m[vite][39m [vite] program reload
+[2m21:55:17[22m [34m[vite][39m [vite] program reload
+[2m21:55:17[22m [34m[vite][39m [vite] program reload
+[2m21:55:17[22m [34m[vite][39m [vite] program reload
+[2m21:55:18[22m [34m[vite][39m [vite] program reload
+[2m21:55:18[22m [34m[vite][39m [vite] program reload
+[2m21:55:19[22m [34m[vite][39m [vite] program reload
+[2m21:55:19[22m [34m[vite][39m [vite] program reload
+[2m21:55:20[22m [34m[vite][39m [vite] program reload
+[2m21:55:20[22m [34m[vite][39m [vite] program reload
+[2m21:55:21[22m [34m[vite][39m [vite] program reload
+[2m21:55:21[22m [34m[vite][39m [vite] program reload
+[2m21:55:21[22m [34m[vite][39m [vite] program reload
+[2m21:55:22[22m [34m[vite][39m [vite] program reload
+[2m21:55:22[22m [34m[vite][39m [vite] program reload
+[2m21:55:23[22m [34m[vite][39m [vite] program reload
+[2m21:55:23[22m [34m[vite][39m [vite] program reload
+[2m21:55:23[22m [34m[vite][39m [vite] program reload
+[2m21:55:24[22m [34m[vite][39m [vite] program reload
+[2m21:55:24[22m [34m[vite][39m [vite] program reload
+[2m21:55:25[22m [34m[vite][39m [vite] program reload
+[2m21:55:25[22m [34m[vite][39m [vite] program reload
+[2m21:55:25[22m [34m[vite][39m [vite] program reload
+[2m21:55:26[22m [34m[vite][39m [vite] program reload
+[2m21:55:26[22m [34m[vite][39m [vite] program reload
+[2m21:55:27[22m [34m[vite][39m [vite] program reload
+[2m21:55:27[22m [34m[vite][39m [vite] program reload
+[2m21:55:27[22m [34m[vite][39m [vite] program reload
+[2m21:55:28[22m [34m[vite][39m [vite] program reload
+[2m21:55:28[22m [34m[vite][39m [vite] program reload
+[2m21:55:29[22m [34m[vite][39m [vite] program reload
+[2m21:55:29[22m [34m[vite][39m [vite] program reload
+[2m21:55:29[22m [34m[vite][39m [vite] program reload
+[2m21:55:30[22m [34m[vite][39m [vite] program reload
+[2m21:55:30[22m [34m[vite][39m [vite] program reload
+[2m21:55:31[22m [34m[vite][39m [vite] program reload
+[2m21:55:31[22m [34m[vite][39m [vite] program reload
+[2m21:55:32[22m [34m[vite][39m [vite] program reload
+[2m21:55:32[22m [34m[vite][39m Warning: A promise was resolved or rejected from a different request context than the one it was created in. However, the creating request has already been completed or canceled. Continuations for that request are unlikely to run safely and have been canceled. If this behavior breaks your worker, consider setting the `no_handle_cross_request_promise_resolution` compatibility flag for your worker.
+[2m21:55:32[22m [34m[vite][39m     at CustomModuleRunner.import (workers/runner-worker/vite/module-runner:1061:10)
+[2m21:55:32[22m [34m[vite][39m [vite] program reload
+[2m21:55:40[22m [34m[vite][39m [vite] program reload
+[2m21:55:40[22m [34m[vite][39m [Config] Loaded configuration for: Colombia (CO)
+[2m21:55:41[22m [34m[vite][39m 21:55:41 [200] / 344ms
+[2m21:55:41[22m [34m[vite][39m [vite] program reload
+[2m21:55:41[22m [34m[vite][39m Warning: A promise was resolved or rejected from a different request context than the one it was created in. However, the creating request has already been completed or canceled. Continuations for that request are unlikely to run safely and have been canceled. If this behavior breaks your worker, consider setting the `no_handle_cross_request_promise_resolution` compatibility flag for your worker.
+[2m21:55:41[22m [34m[vite][39m     at E:/scripts-python/worldexams/saberparatodos/node_modules/.vite/deps_ssr/astro_app_entrypoint_dev.js?v=0d8d1d13:508:1
+[2m21:56:01[22m [34m[vite][39m [Config] Loaded configuration for: Colombia (CO)
+[2m21:56:01[22m [34m[vite][39m 21:56:01 [200] / 88ms
+[2m21:56:42[22m [34m[vite][39m 21:56:42 [200] /guia-examen 96ms
+[2m21:56:45[22m [34m[vite][39m 21:56:45 [200] / 10ms
+[2m21:58:06[22m [34m[vite][39m 21:58:06 [200] / 8ms
+[2m21:59:21[22m [34m[vite][39m 21:59:21 [200] / 16ms
+[2m22:30:48[22m [34m[watch][39m /src/styles/global.css
+[2m22:30:48[22m [34m[watch][39m /src/styles/global.css
+[2m22:30:56[22m [34m[watch][39m /src/styles/global.css
+[2m22:30:56[22m [34m[watch][39m /src/styles/global.css
+[2m22:31:35[22m [34m[watch][39m /src/styles/global.css
+[2m22:31:35[22m [34m[watch][39m /src/components/PeriodTracker.svelte, /src/styles/global.css
+10:32:07 p.m. [vite-plugin-svelte] src/components/RankNotificationToast.svelte:110:6 Self-closing HTML tags for non-void elements are ambiguous ÔÇö use `<div ...></div>` rather than `<div ... />`
+https://svelte.dev/e/element_invalid_self_closing_tag
+[2m22:32:07[22m [34m[watch][39m /src/styles/global.css
+[2m22:32:07[22m [34m[watch][39m /src/components/RankNotificationToast.svelte, /src/styles/global.css
+[2m22:32:52[22m [34m[watch][39m /src/styles/global.css
+[2m22:32:52[22m [34m[watch][39m /src/components/RankNotificationToast.svelte, /src/styles/global.css
+10:33:28 p.m. [vite-plugin-svelte] src/modules/exam-room/components/SpeedChallengeSetup.svelte:60:8 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+10:33:28 p.m. [vite-plugin-svelte] src/modules/exam-room/components/SpeedChallengeSetup.svelte:71:8 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+10:33:28 p.m. [vite-plugin-svelte] src/modules/exam-room/components/SpeedChallengeSetup.svelte:83:12 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+10:33:28 p.m. [vite-plugin-svelte] src/modules/exam-room/components/SpeedChallengeSetup.svelte:98:12 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+10:33:28 p.m. [vite-plugin-svelte] src/modules/exam-room/components/SpeedChallengeSetup.svelte:127:8 Buttons and links should either contain text or have an `aria-label`, `aria-labelledby` or `title` attribute
+https://svelte.dev/e/a11y_consider_explicit_label
+[2m22:33:28[22m [34m[watch][39m /src/styles/global.css
+[2m22:33:28[22m [34m[watch][39m /src/styles/global.css
+10:34:11 p.m. [vite-plugin-svelte] src/components/RankNotificationToast.svelte:105:8 Using `on:click` to listen to the click event is deprecated. Use the event attribute `onclick` instead
+https://svelte.dev/e/event_directive_deprecated
+[2m22:34:11[22m [34m[watch][39m /src/styles/global.css
+[2m22:34:11[22m [34m[watch][39m /src/components/RankNotificationToast.svelte, /src/styles/global.css
+[2m22:34:46[22m [34m[watch][39m /src/styles/global.css
+[2m22:34:46[22m [34m[watch][39m /src/components/RankNotificationToast.svelte, /src/styles/global.css
+[2m22:50:01[22m [34m[watch][39m src/content.config.ts
+[vite] program reload
+[2m22:50:01[22m [34m[watch][39m /src/styles/global.css
+[2m22:50:01[22m [34m[watch][39m /src/styles/global.css
+[2m22:50:03[22m [34m[content][39m Syncing content
+[2m22:50:03[22m [34m[content][39m Content config changed
+[2m22:50:03[22m [34m[content][39m Clearing content store
+[2m22:50:03[22m [34m[content][39m Synced content
+[2m23:58:11[22m [34m[watch][39m /src/styles/global.css
+[2m23:58:11[22m [34m[watch][39m /src/styles/global.css
+[2m23:58:11[22m Configuration file updated. Restarting...
+[2m23:58:11[22m [34m[watch][39m /@id/virtual:cloudflare/worker-entry, /src/styles/global.css
+[2m23:58:11[22m [34m[watch][39m /src/styles/global.css, /@id/E:/scripts-python/worldexams/saberparatodos/src/components/VersionBadge.svelte, /@id/E:/scripts-python/worldexams/saberparatodos/src/components/App.svelte
+11:58:11 p.m. [vite-plugin-svelte] src/components/App.svelte:61:31 This reference only captures the initial value of `questions`. Did you mean to reference it inside a derived instead?
+https://svelte.dev/e/state_referenced_locally
+11:58:11 p.m. [vite-plugin-svelte] src/components/App.svelte:126:41 This reference only captures the initial value of `questions`. Did you mean to reference it inside a closure instead?
+https://svelte.dev/e/state_referenced_locally
+11:58:11 p.m. [vite-plugin-svelte] src/components/App.svelte:127:45 This reference only captures the initial value of `universalPool`. Did you mean to reference it inside a closure instead?
+https://svelte.dev/e/state_referenced_locally
+11:58:11 p.m. [vite-plugin-svelte] src/components/App.svelte:1452:10 A form label must be associated with a control
+https://svelte.dev/e/a11y_label_has_associated_control
+11:58:11 p.m. [vite-plugin-svelte] src/components/App.svelte:1460:12 Avoid using autofocus
+https://svelte.dev/e/a11y_autofocus
+[2m23:58:11[22m [34m[watch][39m /src/styles/global.css
+[2m23:58:11[22m [34m[watch][39m /@id/E:/scripts-python/worldexams/saberparatodos/src/components/App.svelte, /src/styles/global.css
+[2m23:58:13[22m [34m[@astrojs/cloudflare][39m Enabling compile-time image optimization. Images will be pre-optimized at build time.
+[2m23:58:13[22m [34m[@astrojs/cloudflare][39m Enabling sessions with Cloudflare KV with the "SESSION" KV binding.
+11:58:13 p.m. [vite-plugin-svelte] no Svelte config found at E:/scripts-python/worldexams/saberparatodos - using default configuration.
+[33m[1m23:58:13[22m [WARN] [vite][39m [2mDefault inspector port 9229 not available, using 9231 instead
+[22m
+Using secrets defined in .env
+[2m23:58:19[22m [34m[vite][39m Re-optimizing dependencies because vite config has changed
+Using secrets defined in .env
+[2m23:58:28[22m [34m[vite][39m Re-optimizing dependencies because vite config has changed
+[2m23:58:28[22m [34m[vite][39m Re-optimizing dependencies because vite config has changed
+23:58:31 [ERROR] [config] [GenerateContentTypesError] `astro sync` command failed to generate content collection types: Cannot split a chunk that has already been edited (0:76 ÔÇô "import.meta")
+  Hint:
+    This error is often caused by a syntax error inside your content, or your content configuration file. Check your src/content.config.ts file for typos.
+  Error reference:
+    https://docs.astro.build/en/reference/errors/generate-content-types-error/
+  Stack trace:
+    at E:\scripts-python\worldexams\saberparatodos\node_modules\astro\dist\core\sync\index.js:240:11
+    [...] See full stack trace in the browser, or rerun with --verbose.
+  Caused by:
+  Cannot split a chunk that has already been edited (0:76 ÔÇô "import.meta")
+    at MagicString._splitChunk (file:///E:/scripts-python/worldexams/saberparatodos/node_modules/astro/node_modules/vite/dist/node/chunks/config.js:3587:10)
+    at MagicString.update (file:///E:/scripts-python/worldexams/saberparatodos/node_modules/astro/node_modules/vite/dist/node/chunks/config.js:3402:8)
+    at file:///E:/scripts-python/worldexams/saberparatodos/node_modules/astro/node_modules/vite/dist/node/chunks/config.js:15615:37
+    at walk$1 (file:///E:/scripts-python/worldexams/saberparatodos/node_modules/astro/node_modules/vite/dist/node/chunks/config.js:15614:14)
+    at async loadAndTransform (file:///E:/scripts-python/worldexams/saberparatodos/node_modules/astro/node_modules/vite/dist/node/chunks/config.js:22701:64)
+
+23:58:31 [ERROR] Continuing with previous valid configuration
+

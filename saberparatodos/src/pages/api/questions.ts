@@ -1,5 +1,6 @@
 import type { APIRoute } from 'astro';
 import { getLocalGrade11Questions } from '../../lib/questions/grade11-local-bank';
+import { filterQuarantinedQuestions } from '../../lib/questions/quarantine-registry';
 
 type RuntimeLocals = {
   runtime?: {
@@ -68,10 +69,11 @@ export const GET: APIRoute = async ({ request, locals }) => {
       if (country === 'co' && exam === 'icfes') {
         const localQuestions = getLocalGrade11Questions(subject);
         if (localQuestions.length > 0) {
+          const visibleLocalQuestions = filterQuarantinedQuestions(localQuestions);
           return buildJsonResponse({
             success: true,
-            questions: localQuestions,
-            total_questions: localQuestions.length,
+            questions: visibleLocalQuestions,
+            total_questions: visibleLocalQuestions.length,
             grade: 11,
             subject: subject || null,
             country: 'co',
@@ -117,9 +119,9 @@ export const GET: APIRoute = async ({ request, locals }) => {
         if (pageQuestions.length < 10) break;
       }
 
-      const uniqueQuestions = Array.from(
+      const uniqueQuestions = filterQuarantinedQuestions(Array.from(
         new Map(aggregatedQuestions.map((question) => [String(question?.id || ''), question])).values()
-      ).filter((question) => Boolean(question?.id));
+      )).filter((question) => Boolean(question?.id));
 
       return buildJsonResponse({
         success: true,
@@ -138,15 +140,26 @@ export const GET: APIRoute = async ({ request, locals }) => {
     }
 
     const upstreamResponse = await fetchUpstreamJson(upstreamUrl, headers);
+    if (!upstreamResponse.ok) {
+      return new Response(upstreamResponse.body, {
+        status: upstreamResponse.status,
+        statusText: upstreamResponse.statusText,
+        headers: {
+          'Content-Type': upstreamResponse.headers.get('content-type') || 'application/json',
+          'Cache-Control': upstreamResponse.headers.get('cache-control') || 'public, max-age=60',
+        },
+      });
+    }
 
-    return new Response(upstreamResponse.body, {
-      status: upstreamResponse.status,
-      statusText: upstreamResponse.statusText,
-      headers: {
-        'Content-Type': upstreamResponse.headers.get('content-type') || 'application/json',
-        'Cache-Control': upstreamResponse.headers.get('cache-control') || 'public, max-age=60',
-      },
-    });
+    const upstreamPayload = await upstreamResponse.json();
+    const upstreamQuestions = Array.isArray(upstreamPayload?.questions) ? upstreamPayload.questions : [];
+    const visibleQuestions = filterQuarantinedQuestions(upstreamQuestions);
+
+    return buildJsonResponse({
+      ...upstreamPayload,
+      questions: visibleQuestions,
+      total_questions: visibleQuestions.length,
+    }, upstreamResponse);
   } catch (error) {
     console.error('[api/questions] upstream error', error);
     return new Response(
