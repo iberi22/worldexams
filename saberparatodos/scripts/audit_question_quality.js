@@ -399,7 +399,6 @@ function analyzeQuestion(question, bundle) {
   const minLength = Math.min(...lengths);
   if (maxLength / minLength >= 3) flags.push('option-length-imbalance');
 
-  const categories = new Set(question.options.map((option) => inferCategory(option.text)));
   const categoryCounts = question.options.reduce((acc, option) => {
     const category = inferCategory(option.text);
     acc[category] = (acc[category] || 0) + 1;

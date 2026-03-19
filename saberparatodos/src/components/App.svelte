@@ -315,8 +315,8 @@
     // Note: isLoadingQuestions is managed by loadQuestionsForExam internally
     generatedExamQuestions = null; // Reset
 
-    // Minimum time for animation (3.5s to read messages)
-    const minTimePromise = new Promise(resolve => setTimeout(resolve, 3500));
+    // Minimum time for animation (3s to read messages)
+    const minTimePromise = new Promise(resolve => setTimeout(resolve, 3000));
 
     // 🆕 Use pre-filtered questions if provided (e.g. Period Mode)
     if (config.questions && config.questions.length > 0) {
