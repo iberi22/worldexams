@@ -27,7 +27,10 @@
   import { clearPackStorage } from '../lib/pack-storage'; // Clear pack storage
   import { generateExamPerformanceSnapshot } from '../lib/local-intelligence';
   import { getExamLaunchOverlayHidden, setExamLaunchOverlayHidden } from '../lib/exam-launch-preferences';
-  import { examLaunchOverlayActive } from '../lib/exam-launch-ui-state';
+  import {
+    activateExamLaunchOverlayUi,
+    releaseExamLaunchOverlayUi
+  } from '../lib/exam-launch-ui-state';
 
   import BlogView from './BlogView.svelte';
   import ArticleView from './ArticleView.svelte';
@@ -126,6 +129,7 @@
   function closeExamLaunchOverlay() {
     showExamLaunchOverlay = false;
     examLaunchCountdown = 3;
+    releaseExamLaunchOverlayUi();
     if (examLaunchOverlayTimer) {
       clearInterval(examLaunchOverlayTimer);
       examLaunchOverlayTimer = null;
@@ -165,6 +169,7 @@
     }
 
     showExamLaunchOverlay = true;
+    activateExamLaunchOverlayUi();
     examLaunchCountdown = 3;
     examLaunchOverlayTimer = setInterval(() => {
       if (examLaunchCountdown <= 1) {
@@ -194,10 +199,6 @@
 
   // Derived: Exam questions based on generatedExamQuestions or filtered
   let examQuestions = $derived(generatedExamQuestions || filteredLocalQuestions);
-
-  $effect(() => {
-    examLaunchOverlayActive.set(showExamLaunchOverlay);
-  });
 
   console.log('App received questions:', questions?.length || 0);
   console.log('App received universalPool:', universalPool?.totalQuestions || 0);
@@ -307,7 +308,7 @@
     });
 
     return () => {
-      examLaunchOverlayActive.set(false);
+      releaseExamLaunchOverlayUi();
       subscription.unsubscribe();
     };
   });
