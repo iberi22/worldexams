@@ -403,3 +403,11 @@ Using secrets defined in .env
 23:58:31 [ERROR] Continuing with previous valid configuration
 
 [vite] connected.
+[2m03:20:46[22m [34m[vite][39m Re-optimizing dependencies because vite config has changed
+[33m[1m03:20:47[22m [WARN] [vite][39m [2mDefault inspector port 9229 not available, using 9232 instead
+[22m
+Using secrets defined in .env
+[vite] connected.
+[2m03:21:03[22m [34m[vite][39m Port 5173 is in use, trying another one...
+[2m03:21:03[22m [34m[vite][39m server restarted.
+[2m04:10:13[22m [34m[watch][39m tests/evidence/debug_failure_body_v5.html

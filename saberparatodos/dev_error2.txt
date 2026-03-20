@@ -191,3 +191,34 @@ Using secrets defined in .env
 [2m23:58:11[22m [34m[content][39m Content config changed
 [2m23:58:11[22m [34m[content][39m Clearing content store
 [2m23:58:11[22m [34m[content][39m Synced content
+[2m03:20:46[22m [34m[vite][39m Re-optimizing dependencies because vite config has changed
+[33m[1m03:20:47[22m [WARN] [vite][39m [2mDefault inspector port 9229 not available, using 9231 instead
+[22m
+Using secrets defined in .env
+[vite] connected.
+[2m03:20:59[22m [34m[vite][39m Re-optimizing dependencies because vite config has changed
+[2m03:20:59[22m [34m[vite][39m Re-optimizing dependencies because vite config has changed
+[2m03:21:02[22m [34m[vite][39m server restarted.
+[2m04:10:13[22m [34m[watch][39m tests/evidence/debug_failure_body_v5.html
+node:fs:1739
+  const stats = binding.stat(
+                        ^
+
+Error: ENOENT: no such file or directory, stat 'E:\scripts-python\worldexams\saberparatodos\src\pages\api\report_problem.ts'
+    at Object.statSync (node:fs:1739:25)
+    at walk (file:///E:/scripts-python/worldexams/saberparatodos/node_modules/astro/dist/core/routing/create-manifest.js:88:24)
+    at walk (file:///E:/scripts-python/worldexams/saberparatodos/node_modules/astro/dist/core/routing/create-manifest.js:156:9)
+    at createFileBasedRoutes (file:///E:/scripts-python/worldexams/saberparatodos/node_modules/astro/dist/core/routing/create-manifest.js:180:3)
+    at createRoutesList (file:///E:/scripts-python/worldexams/saberparatodos/node_modules/astro/dist/core/routing/create-manifest.js:446:27)
+    at rebuildRoutes (file:///E:/scripts-python/worldexams/saberparatodos/node_modules/astro/dist/vite-plugin-routes/index.js:63:35)
+    at FSWatcher.<anonymous> (file:///E:/scripts-python/worldexams/saberparatodos/node_modules/astro/dist/vite-plugin-routes/index.js:109:45)
+    at FSWatcher.emit (node:events:531:35)
+    at FSWatcher.emit (node:domain:489:12)
+    at FSWatcher.emitWithAll (file:///E:/scripts-python/worldexams/saberparatodos/node_modules/astro/node_modules/vite/dist/node/chunks/config.js:14034:9) {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: 'E:\\scripts-python\\worldexams\\saberparatodos\\src\\pages\\api\\report_problem.ts'
+}
+
+Node.js v22.19.0
