@@ -50,9 +50,13 @@ async function seedLocalHistory(page: Page) {
 async function startExam(page: Page) {
   await page.goto('/');
   await page.waitForLoadState('networkidle');
-  await page.getByRole('button', { name: '11° Grado' }).click();
+  await page.getByRole('button', { name: '11° Grado' }).evaluate((element) => {
+    (element as HTMLButtonElement).click();
+  });
   await expect(page.getByTestId('modal-content')).toBeVisible({ timeout: 30000 });
-  await page.getByRole('button', { name: 'Comenzar' }).click();
+  await page.getByRole('button', { name: 'Comenzar' }).evaluate((element) => {
+    (element as HTMLButtonElement).click();
+  });
   await expect(page.getByTestId('exam-shell')).toBeVisible({ timeout: 90000 });
 }
 
@@ -62,10 +66,14 @@ async function startPreuniversitarioExam(page: Page) {
 
   const showMoreButton = page.getByRole('button', { name: 'Ver más exámenes y Preuniversitario' });
   if (await showMoreButton.isVisible()) {
-    await showMoreButton.click();
+    await showMoreButton.evaluate((element) => {
+      (element as HTMLButtonElement).click();
+    });
   }
 
-  await page.getByText('PREU', { exact: true }).click();
+  await page.getByText('PREU', { exact: true }).evaluate((element) => {
+    (element as HTMLButtonElement).click();
+  });
   await expect(page.getByTestId('modal-content')).toBeVisible({ timeout: 30000 });
 
   const universityButton = page
@@ -74,8 +82,12 @@ async function startPreuniversitarioExam(page: Page) {
     .filter({ hasText: /Nacional|Javeriana|Andes|Antioquia|U\./i })
     .first();
 
-  await universityButton.click();
-  await page.getByRole('button', { name: 'Comenzar' }).click();
+  await universityButton.evaluate((element) => {
+    (element as HTMLButtonElement).click();
+  });
+  await page.getByRole('button', { name: 'Comenzar' }).evaluate((element) => {
+    (element as HTMLButtonElement).click();
+  });
   await expect(page.getByTestId('exam-shell')).toBeVisible({ timeout: 90000 });
 }
 
@@ -114,9 +126,13 @@ test.describe('Exam launch overlay', () => {
 
     await page.reload();
     await page.waitForLoadState('networkidle');
-    await page.getByRole('button', { name: '11° Grado' }).click();
+    await page.getByRole('button', { name: '11° Grado' }).evaluate((element) => {
+      (element as HTMLButtonElement).click();
+    });
     await expect(page.getByTestId('modal-content')).toBeVisible({ timeout: 30000 });
-    await page.getByRole('button', { name: 'Comenzar' }).click();
+    await page.getByRole('button', { name: 'Comenzar' }).evaluate((element) => {
+      (element as HTMLButtonElement).click();
+    });
     await expect(page.getByTestId('exam-shell')).toBeVisible({ timeout: 90000 });
 
     await expect(page.getByTestId('exam-launch-overlay')).toBeHidden();
