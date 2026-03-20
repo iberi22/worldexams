@@ -14,6 +14,7 @@
   import SimpleChart from './SimpleChart.svelte';
   import PerformanceLevels from './dashboard/PerformanceLevels.svelte';
   import PercentileRank from './dashboard/PercentileRank.svelte';
+  import { CO_ICFES_2026_BENCHMARK } from '../config/icfes-benchmarks';
 
   // Define interface locally with details support
   interface QuestionDetail {
@@ -614,6 +615,9 @@
                     </div>
                     <div class="text-[10px] text-white/40 font-medium uppercase tracking-[0.1em] leading-relaxed">
                       El puntaje simulado se basa en tu MMR actual ({userProfile.globalMMR}) y precisión global.
+                    </div>
+                    <div class="mt-2 text-[10px] text-white/30 font-medium uppercase tracking-[0.1em] leading-relaxed">
+                      Benchmark local activo: {CO_ICFES_2026_BENCHMARK.label} {CO_ICFES_2026_BENCHMARK.benchmarkScore}/500.
                     </div>
                   </div>
 

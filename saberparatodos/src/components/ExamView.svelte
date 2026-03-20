@@ -516,7 +516,7 @@
   }
 </script>
 
-<div class="w-full h-screen flex flex-col animate-fade-in-up">
+<div class="w-full h-screen flex flex-col animate-fade-in-up" data-testid="exam-shell">
   <!-- 🆕 Focus Lost Warning Banner (Exam Room Mode) -->
   {#if focusWarningVisible && roomCode}
     <div class="fixed top-0 left-0 right-0 z-50 bg-red-600 text-white py-3 px-4 text-center animate-pulse shadow-lg">
