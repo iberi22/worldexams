@@ -8,6 +8,7 @@ const __dirname = path.dirname(__filename);
 const ROOT = path.join(__dirname, '..');
 const QUESTIONS_DATA = path.join(ROOT, '..', 'questions_data', 'colombia');
 const OUTPUT_DIR = path.join(ROOT, 'public', 'api', 'packs');
+const PACK_ID = 'week-1'; // Default pack ID
 
 if (!fs.existsSync(OUTPUT_DIR)) {
   fs.mkdirSync(OUTPUT_DIR, { recursive: true });
@@ -127,7 +128,7 @@ for (const subject of subjects) {
         if (questions.length === 0) continue;
 
         const period = data.periodo || 1;
-        const packKey = `week-1-grade-${grade}-subject-${subject.replace(/-/g, '_')}`;
+        const packKey = `${PACK_ID}-grade-${grade}-subject-${subject.replace(/-/g, '_')}`;
         
         if (!packs[packKey]) {
           packs[packKey] = {
