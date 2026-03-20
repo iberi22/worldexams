@@ -1,15 +1,10 @@
 import type { APIRoute } from 'astro';
 import { getLocalGrade11Questions } from '../../lib/questions/grade11-local-bank';
 import { filterQuarantinedQuestions } from '../../lib/questions/quarantine-registry';
-
-type RuntimeLocals = {
-  runtime?: {
-    env?: Record<string, string | undefined>;
-  };
-};
+import { getRuntimeEnvObject, type RuntimeLocals } from '../../lib/server-runtime';
 
 function getEnv(locals?: RuntimeLocals) {
-  const runtimeEnv = locals?.runtime?.env ?? {};
+  const runtimeEnv = getRuntimeEnvObject(locals);
   const defaultUpstreamBaseUrl = 'https://api.saberparatodos.space';
 
   const publicApiBaseUrl =

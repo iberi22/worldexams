@@ -1,4 +1,5 @@
 import { createClient } from '@supabase/supabase-js';
+import { getRuntimeEnvObject } from './server-runtime';
 
 const SESSION_COOKIE = 'we_dev_session';
 const SESSION_MAX_AGE = 60 * 60 * 24 * 7;
@@ -15,7 +16,7 @@ type DeveloperSessionPayload = {
 };
 
 function getEnv(locals?: RuntimeLocals) {
-  const runtimeEnv = locals?.runtime?.env ?? {};
+  const runtimeEnv = getRuntimeEnvObject(locals);
   const supabaseUrl = runtimeEnv.PUBLIC_SUPABASE_URL || import.meta.env.PUBLIC_SUPABASE_URL;
   const supabaseAnonKey = runtimeEnv.PUBLIC_SUPABASE_ANON_KEY || import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
 

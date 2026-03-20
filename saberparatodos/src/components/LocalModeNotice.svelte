@@ -1,6 +1,7 @@
 <script lang="ts">
   import { onMount } from 'svelte';
   import { fade, fly } from 'svelte/transition';
+  import { examLaunchOverlayActive } from '../lib/exam-launch-ui-state';
 
   let visible = $state(false);
 
@@ -21,11 +22,12 @@
   }
 </script>
 
-{#if visible}
+{#if visible && !$examLaunchOverlayActive}
   <div
     class="fixed bottom-6 right-6 z-[200] max-w-[320px]"
     role="alert"
     transition:fly={{ y: 20, duration: 400 }}
+    data-testid="local-mode-notice"
   >
     <div
       class="relative overflow-hidden bg-black/40 backdrop-blur-md border border-yellow-500/20 rounded-xl shadow-2xl p-4 group"

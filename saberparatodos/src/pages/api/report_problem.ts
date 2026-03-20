@@ -1,5 +1,6 @@
 import type { APIRoute } from 'astro';
 import { createClient } from '@supabase/supabase-js';
+import { cleanEnvVar, getRuntimeEnvObject, type RuntimeLocals } from '../../lib/server-runtime';
 
 interface ReportBody {
   reportType: string;
@@ -8,31 +9,8 @@ interface ReportBody {
   userContext?: string;
 }
 
-type RuntimeLocals = {
-  runtime?: {
-    env?: Record<string, string | undefined>;
-  };
-};
-
-function cleanEnvVar(val: unknown) {
-  if (!val || typeof val !== 'string') return '';
-
-  let cleaned = val.trim();
-
-  if (cleaned.startsWith('=')) cleaned = cleaned.substring(1).trim();
-
-  if (
-    (cleaned.startsWith('"') && cleaned.endsWith('"')) ||
-    (cleaned.startsWith("'") && cleaned.endsWith("'"))
-  ) {
-    cleaned = cleaned.substring(1, cleaned.length - 1).trim();
-  }
-
-  return cleaned;
-}
-
 function getRuntimeEnv(locals: RuntimeLocals) {
-  const runtimeEnv = locals.runtime?.env ?? {};
+  const runtimeEnv = getRuntimeEnvObject(locals);
 
   return {
     supabaseUrl: cleanEnvVar(

@@ -1,7 +1,7 @@
 
-import { getAllLocalResults } from './idb-storage'; // Fix import path if needed (idb-storage is in same folder)
+import { getAllLocalResults, type ExamResultRecord } from './idb-storage'; // Fix import path if needed (idb-storage is in same folder)
 import { calculateNewMMR, BASE_MMR, getRankTitle, getSimulatedIcfesScore } from './mmr-system';
-import { generatePrompt, type UserProfileData } from './prompt-service';
+import { CO_ICFES_2026_BENCHMARK, type IcfesBenchmarkConfig } from '../config/icfes-benchmarks';
 
 export interface CompetencyStats {
   id: string;
@@ -44,6 +44,19 @@ export interface UserProfile {
   dailyActivity: Record<string, number>;
   recentHistory: { mmr: number, timestamp: number }[];
   advancedMetrics: AdvancedMetrics; // 🆕 Added field
+}
+
+export interface ExamPerformanceSnapshot {
+  hasHistory: boolean;
+  latestSessionAt: number | null;
+  latestScore: number | null;
+  simulatedIcfesScore: number | null;
+  benchmarkScore: number;
+  benchmarkDelta: number | null;
+  goalScore: number;
+  goalDelta: number | null;
+  rankTitle: string | null;
+  latestSubject: string | null;
 }
 
 /**
@@ -287,4 +300,52 @@ export function generateInsights(profile: UserProfile): string[] {
 export async function getLatestMMR(): Promise<number> {
   const profile = await generateUserProfile();
   return profile.globalMMR;
+}
+
+export function buildExamPerformanceSnapshot(
+  results: ExamResultRecord[],
+  profile: UserProfile,
+  benchmark: IcfesBenchmarkConfig = CO_ICFES_2026_BENCHMARK
+): ExamPerformanceSnapshot {
+  const latestResult: ExamResultRecord | undefined = results[0];
+  if (!latestResult) {
+    return {
+      hasHistory: false,
+      latestSessionAt: null,
+      latestScore: null,
+      simulatedIcfesScore: null,
+      benchmarkScore: benchmark.benchmarkScore,
+      benchmarkDelta: null,
+      goalScore: benchmark.goalScore,
+      goalDelta: null,
+      rankTitle: null,
+      latestSubject: null
+    };
+  }
+
+  const simulatedScore = profile.simulatedIcfesScore;
+
+  return {
+    hasHistory: true,
+    latestSessionAt: latestResult.timestamp,
+    latestScore: latestResult.score,
+    simulatedIcfesScore: simulatedScore,
+    benchmarkScore: benchmark.benchmarkScore,
+    benchmarkDelta: simulatedScore - benchmark.benchmarkScore,
+    goalScore: benchmark.goalScore,
+    goalDelta: simulatedScore - benchmark.goalScore,
+    rankTitle: profile.rankTitle,
+    latestSubject: latestResult.subject || null
+  };
+}
+
+export async function generateExamPerformanceSnapshot(
+  benchmark: IcfesBenchmarkConfig = CO_ICFES_2026_BENCHMARK
+): Promise<ExamPerformanceSnapshot> {
+  const [results, profile] = await Promise.all([
+    getAllLocalResults(),
+    generateUserProfile()
+  ]);
+
+  return buildExamPerformanceSnapshot(results, profile, benchmark);
 }
