@@ -5,6 +5,7 @@
 -->
 <script>
   import { onMount } from 'svelte';
+  import { examLaunchOverlayActive } from '../lib/exam-launch-ui-state';
 
   let showBanner = $state(false);
   let isLoading = $state(true);
@@ -50,13 +51,14 @@
   }
 </script>
 
-{#if showBanner && !isLoading}
+{#if showBanner && !isLoading && !$examLaunchOverlayActive}
   <div
     class="fixed bottom-0 left-0 right-0 z-50 bg-gradient-to-r from-gray-900 to-gray-800
            border-t-2 border-yellow-400 shadow-2xl animate-slide-up"
     role="dialog"
     aria-labelledby="consent-title"
     aria-describedby="consent-description"
+    data-testid="cookie-consent-banner"
   >
     <div class="container mx-auto px-4 py-6 md:py-4">
       <div class="flex flex-col md:flex-row items-start md:items-center justify-between gap-4">

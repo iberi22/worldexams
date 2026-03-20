@@ -34,8 +34,20 @@ export function cleanEnvVar(val: unknown) {
   return cleaned;
 }
 
+export function getRuntimeEnvObject(locals?: RuntimeLocals): Record<string, string | undefined> {
+  if (!locals || typeof locals !== 'object') return {};
+
+  try {
+    const runtime = (locals as RuntimeLocals).runtime;
+    if (!runtime || typeof runtime !== 'object') return {};
+    return runtime.env ?? {};
+  } catch {
+    return {};
+  }
+}
+
 export function getServerRuntimeEnv(locals?: RuntimeLocals): ServerRuntimeEnv {
-  const runtimeEnv = locals?.runtime?.env ?? {};
+  const runtimeEnv = getRuntimeEnvObject(locals);
 
   return {
     siteUrl: cleanEnvVar(runtimeEnv.PUBLIC_SITE_URL || import.meta.env.PUBLIC_SITE_URL || '') || 'https://saberparatodos.space',
