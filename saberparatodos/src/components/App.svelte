@@ -61,6 +61,13 @@
 
   // Internal state that can be updated
   let loadedQuestions = $state(questions || []); // Safety check
+
+  // Sync with props if they change
+  $effect(() => {
+    if (questions && questions.length > 0 && loadedQuestions.length === 0) {
+      loadedQuestions = questions;
+    }
+  });
   let availableSubjects = $state([]); // New state
   let isLoadingQuestions = $state(false);
   let loadError = $state(null);
@@ -129,8 +136,10 @@
   // Derived: Exam questions based on generatedExamQuestions or filtered
   let examQuestions = $derived(generatedExamQuestions || filteredLocalQuestions);
 
-  console.log('App received questions:', questions?.length || 0);
-  console.log('App received universalPool:', universalPool?.totalQuestions || 0);
+  $effect(() => {
+    console.log('App received questions:', questions?.length || 0);
+    console.log('App received universalPool:', universalPool?.totalQuestions || 0);
+  });
 
 
   // Auth & Lifecycle
@@ -1458,15 +1467,15 @@
         </div>
 
         <div class="mb-6">
-          <label class="block text-xs uppercase tracking-widest text-white/60 mb-2">Tu Nombre o Apodo</label>
+          <label for="nickname-input" class="block text-xs uppercase tracking-widest text-white/60 mb-2">Tu Nombre o Apodo</label>
           <input
+            id="nickname-input"
             type="text"
             bind:value={nicknameInput}
             placeholder="Ej: Juan, Campeón, Pro Player..."
             maxlength="20"
             class="w-full px-4 py-3 bg-white/5 border border-white/10 rounded-lg text-white placeholder-white/30 focus:outline-none focus:border-emerald-500 focus:ring-2 focus:ring-emerald-500/20 transition-all"
             onkeydown={(e) => { if (e.key === 'Enter') handleNicknameSubmit(); }}
-            autofocus
           />
           <div class="text-xs text-white/40 mt-1">
             {nicknameInput.length}/20 caracteres
