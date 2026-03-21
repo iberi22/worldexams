@@ -5,6 +5,14 @@ All notable changes to this workspace are documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project follows a pragmatic release flow while repository boundaries are still being finalized.
 
+## [0.12.1] - 2026-03-21
+
+### Changed
+- Updated core frontend dependencies to latest major versions (Sentry v10, types/node v25)
+- Verified compatibility of Sentry Svelte SDK v10 with existing tracing integrations
+- Configured `.gitignore` to prevent test `coverage` pollution
+- Consolidated and committed dependency lockfile bumps
+
 ## [0.12.0] - 2026-03-19
 
 ### Changed
