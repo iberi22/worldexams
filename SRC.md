@@ -1,52 +1,96 @@
 # SRC.md - WorldExams
 
-> Documentación de análisis de estructura de proyecto
+> Plataforma de exámenes y evaluaciones para Colombia (producto SaberParaTodos).
 
-## Información General
+## Proyecto
 
-| Campo | Valor |
-|-------|-------|
-| **Nombre** | worldexams |
-| **Tipo** | Monorepo SaaS Educativo |
-| **Descripción** | Plataforma educativa para Colombia - Producto "SaberParaTodos" |
-| **Stack** | TypeScript, Node.js, Supabase, Rust |
-| **Último análisis** | 2026-03-17 |
+- **Nombre:** WorldExams
+- **Tipo:** Monorepo full-stack (Node.js + React + Supabase)
+- **Descripción:** Plataforma educativa monorepo para evaluaciones tipo Saber Pro/ParaTodos en Colombia. Incluye landing, apps de estudiante, backend API, y automatización de reportes.
+- **Tech Stack:** Node.js, React, Astro, Supabase, TypeScript, Playwright
 
 ## Estructura
 
 ```
 worldexams/
-├── apps/              # Aplicaciones principales
-├── services/         # Servicios Rust
-├── saberparatodos/   # Producto Colombia
-├── supabase/         # Configuración Supabase
-├── scripts/          # Scripts de automatización
-├── docs/             # Documentación
-├── config/           # Configuración
-├── skills/          # Skills de agentes
-└── AGENTS.md         # Definición de agentes
+├── apps/                   # Aplicaciones (workspace npm)
+│   └── ...                 # Apps del monorepo
+├── config/                  # Configuraciones compartidas
+├── docs/                    # Documentación
+│   ├── monorepo/           # Docs de migración monorepo
+│   └── agent-docs/        # Docs para agentes
+├── saberparatodos/         # Producto Saber Para Todos
+├── sociales/               # Scripts de redes sociales
+├── services/               # Microservicios
+├── skills/                 # Skills de agente
+├── src/                    # Código fuente principal
+├── tools/                  # Herramientas CLI
+├── supabase/               # Assets de Supabase
+├── scripts/                 # Scripts de automatización
+├── questions_data/         # Banco de preguntas
+├── reports/                 # Reportes generados
+├── test-results/           # Resultados de tests
+├── tests/                  # Tests
+├── node_modules/
+├── .env
+├── .mcp.json
+├── package.json
+├── AGENTS.md
+├── LICENSE.md
+├── README.md
+└── topics_report.txt
 ```
 
-## Módulos Detectados
+## Productos y Componentes
 
-- lib
-- middleware
-- question-generator
+| Componente | Descripción |
+|------------|-------------|
+| **saberparatodos/** | App principal de evaluaciones |
+| **landing** | Landing page Astro |
+| **apps/** | Aplicaciones del workspace |
+| **services/** | Microservicios API |
+| **supabase/** | Schema y assets de base de datos |
+| **questions_data/** | Banco de preguntas |
+| **reports/** | Generación de reportes |
 
-## Productos/Servicios
+## Gobernanza
 
-- **SaberParaTodos**: Producto educativo Colombia
-- **WorldExams Landing**: Sitio web principal
-- **Servicios API**: Backend en Rust
+Proyecto con GitCore-inspired governance:
+- `.gitcore/ARCHITECTURE.md`
+- `.gitcore/AGENT_INDEX.md`
+- `.gitcore/features.json`
+- `.gitcore/planning/PLANNING.md`
+- `.gitcore/planning/TASK.md`
+- `AGENTS.md`
+- `docs/monorepo/REPO_AUTHORITY_MATRIX.md`
 
-## Características
+## Monorepo Transition
 
-- Monorepo con npm workspaces
-- Supabase para backend (Auth, DB, Realtime)
-- Integración con agentes AI
-- Migración activa a estructura monorepo
+Estado: **En transición activa**
+- `npm workspaces` bootstrapped
+- Root site y Worker en `apps/`
+- Rust service en `services/`
+- Pending: mover `saberparatodos/`
+
+Docs: `docs/monorepo/MONOREPO_MIGRATION_PLAN.md`
+
+## Tech Stack
+
+| Capa | Tecnología |
+|------|------------|
+| Frontend | React, Astro |
+| Backend | Node.js services |
+| Database | Supabase (PostgreSQL) |
+| Auth | Supabase Auth |
+| Tests | Playwright |
+| CI/CD | GitHub Actions |
 
 ## Estado
 
-🔒 Proyecto privado - Pre-lanzamiento
-⚙️ En transición activa a monorepo
+- ✅ Activo (prelaunch privado)
+- 🏛️ Monorepo en transición
+- 📚 Producto Colombia: SaberParaTodos
+- 🔐 private prelaunch workspace
+- 🔧 Última comisión: 2026-03-20 (GitCore monitor update)
+
+*Última actualización: 2026-03-20*

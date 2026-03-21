@@ -42,10 +42,12 @@ Usar este skill cuando una tarea incluya:
 - Trabajar solo con un lote pequeno inicial (`3` videos, max `5`) hasta aprobar calidad.
 - No escalar lotes sin validacion visual.
 
-2. `Generacion`
-- Mantener formato vertical y branding WorldExams/SaberParaTodos.
-- Explicacion en pasos (no bloque unico de texto).
-- Duracion dinamica pedagogica `< 60s`.
+2. `Generacion (Calidad y Animacion)`
+- **Script (Guion)**: No concatenar texto tal cual. Usar un LLM (Gemini/Deepseek) con el siguiente prompt maestro para generar el guion conversacional:
+  > `"Actua como un tutor experto de TikTok. Reescribe este problema de [ASIGNATURA] y su explicacion en un guion estructurado y dinamico de 35 a 55 segundos. Usa un gancho inicial (hook), divide la explicacion en 3 pasos visuales claros, y termina con un CTA (Call to Action). Evita lenguaje robotico, usa un tono natural, amistoso y pedagogico."`
+- **Voz (TTS)**: ❌ PROHIBIDO usar síntesis robótica del sistema (como `System.Speech`). ✅ OBLIGATORIO usar motores neuronales como **Coqui XTTS v2**, **ElevenLabs**, o la API TTS de **OpenAI** para un tono natural, conversacional y pausas pedagogicas.
+- **Visuales**: Olvidar frames estaticos basicos. Generar animaciones fluidas, destacando palabras clave mediante cambios de color o escala, y usar transiciones suaves entre pasos. Si se usa código, favorecer frameworks web orientados a animación como **Remotion** sobre composiciones basicas estáticas.
+- Mantener formato vertical (`1080x1920`) y branding WorldExams/SaberParaTodos con margen seguro.
 
 3. `QA visual por frames`
 - Ejecutar E2E de frames con Playwright.
@@ -56,14 +58,19 @@ Usar este skill cuando una tarea incluya:
 - Si falla legibilidad o continuidad, refinar plantilla y regenerar solo lote pequeno.
 - Publicar/encolar solo cuando el gate sea aprobado.
 
-## Criterios de aceptacion de video
+## Criterios de Aceptacion de Video (Gate de Calidad)
 
-Un video pasa si cumple todo:
-- Texto legible en mobile (sin simbolos corruptos, sin recorte de lineas criticas).
-- Estructura clara: intro -> pasos -> verificacion -> CTA.
-- Consistencia visual de marca (color, tipografia, layout).
-- Subtitulos/timing alineados de forma razonable.
-- Duracion entre `35s` y `55s` (si el problema es simple, minimo `30s`).
+Un video pasa y es considerado de **Alta Calidad** si cumple TODO lo siguiente:
+1. **Calidad Narrativa (Script y TTS)**:
+   - El audio suena como un humano real (no robotico), con inflexiones y pausas adecuadas (XTTS/ElevenLabs).
+   - El guion adapta el problema matematico/texto a un tono ameno y de plataforma social (hook -> pasos -> CTA). No es una lectura lineal plana.
+2. **Calidad Visual (Animacion y Diseño)**:
+   - **Dinamismo**: El texto no aparece como un bloque gigante. Hay micro-animaciones (fade, slide, pop) para cada linea de texto o paso. Elementos visuales (barras de progreso, avatares) acompañan el flujo.
+   - **Legibilidad**: El texto principal es grande (`>50px`), usa fuentes sans-serif legibles con buen contraste (ej. texto blanco sobre fondo oscuro con sombra) y respeta las zonas seguras de TikTok/Reels/Shorts (sin tapar los botones al borde).
+   - **Alineacion Musical**: Si hay B-Roll o logotipos, tienen coherencia y buen timing visual con la palabra hablada (usando `WhisperX` para alineacion word-level).
+3. **Estructura y Duracion base**:
+   - Duracion estricta entre `35s` y `55s` para asegurar el ritmo pedagogico.
+   - Formato estructurado en: Introduccion (Gancho) -> Problema -> Resolucion paso a paso -> Verificacion -> Call to Action.
 
 ## Norma de reportes tecnicos
 

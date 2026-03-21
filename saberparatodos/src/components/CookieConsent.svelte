@@ -5,7 +5,6 @@
 -->
 <script>
   import { onMount } from 'svelte';
-  import { examLaunchFloatingUiBlocked } from '../lib/exam-launch-ui-state';
 
   let showBanner = $state(false);
   let isLoading = $state(true);
@@ -51,7 +50,7 @@
   }
 </script>
 
-{#if showBanner && !isLoading && !$examLaunchFloatingUiBlocked}
+{#if showBanner && !isLoading}
   <div
     class="fixed bottom-0 left-0 right-0 z-50 bg-gradient-to-r from-gray-900 to-gray-800
            border-t-2 border-yellow-400 shadow-2xl animate-slide-up"

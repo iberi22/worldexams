@@ -1,7 +1,6 @@
 <script lang="ts">
   import { onMount } from 'svelte';
   import { fade, fly } from 'svelte/transition';
-  import { examLaunchFloatingUiBlocked } from '../lib/exam-launch-ui-state';
 
   let visible = $state(false);
 
@@ -22,7 +21,7 @@
   }
 </script>
 
-{#if visible && !$examLaunchFloatingUiBlocked}
+{#if visible}
   <div
     class="fixed bottom-6 right-6 z-[200] max-w-[320px]"
     role="alert"

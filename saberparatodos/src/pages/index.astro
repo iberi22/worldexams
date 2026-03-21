@@ -15,9 +15,9 @@ const API_BASE_URL = '/api';
   <script is:inline type="application/json" id="api-config" set:html={JSON.stringify({ apiBaseUrl: API_BASE_URL })} />
 
   <!-- 🚀 SSR Static Hero (Visible to bots and while Svelte loads) -->
-  <div id="mobile-hero" class="static-content group/hero fixed inset-0 z-[100] bg-[#0A0A0B]/95 backdrop-blur-md flex flex-col justify-center items-center transition-opacity duration-1000 md:static md:bg-transparent md:block md:z-auto">
-    <!-- Botón Cerrar (Solo en móvil) -->
-    <button id="close-hero" class="md:hidden absolute top-6 right-6 w-10 h-10 flex items-center justify-center bg-white/10 rounded-full text-white/70 hover:text-white transition-colors border border-white/20 shadow-lg z-50">
+  <div id="mobile-hero" class="static-content group/hero fixed inset-0 z-[100] bg-[#0A0A0B]/95 backdrop-blur-md flex flex-col justify-center items-center transition-opacity duration-1000">
+    <!-- Botón Cerrar (Habilitado en todas las vistas) -->
+    <button id="close-hero" class="absolute top-6 right-6 w-10 h-10 flex items-center justify-center bg-white/10 rounded-full text-white/70 hover:text-white transition-colors border border-white/20 shadow-lg z-50">
       <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
       </svg>
@@ -41,14 +41,22 @@ const API_BASE_URL = '/api';
           La plataforma gratuita y de código abierto para estudiantes de Colombia. Crea simulacros personalizados, entrena por áreas y prepárate para los mejores resultados.
         </p>
 
-        <!-- Indicador de tiempo para móvil -->
-        <div class="md:hidden flex items-center justify-center gap-2 text-xs font-mono text-emerald-500/50 uppercase tracking-widest mt-8 animate-pulse">
-          <span>Iniciando plataforma</span>
-          <span class="flex space-x-1">
-            <span class="w-1 h-1 bg-emerald-500 rounded-full animate-bounce" style="animation-delay: 0ms"></span>
-            <span class="w-1 h-1 bg-emerald-500 rounded-full animate-bounce" style="animation-delay: 150ms"></span>
-            <span class="w-1 h-1 bg-emerald-500 rounded-full animate-bounce" style="animation-delay: 300ms"></span>
-          </span>
+        <!-- Indicador de tiempo y checkbox -->
+        <div class="flex flex-col items-center justify-center gap-4 mt-8">
+          <div class="flex items-center justify-center gap-2 text-xs font-mono text-emerald-500/50 uppercase tracking-widest animate-pulse">
+            <span>Iniciando plataforma</span>
+            <span id="countdown-timer" class="text-white font-bold ml-1">4s</span>
+            <span class="flex space-x-1 ml-1">
+              <span class="w-1 h-1 bg-emerald-500 rounded-full animate-bounce" style="animation-delay: 0ms"></span>
+              <span class="w-1 h-1 bg-emerald-500 rounded-full animate-bounce" style="animation-delay: 150ms"></span>
+              <span class="w-1 h-1 bg-emerald-500 rounded-full animate-bounce" style="animation-delay: 300ms"></span>
+            </span>
+          </div>
+          
+          <label class="flex items-center gap-2 text-xs text-white/40 hover:text-white/80 cursor-pointer transition-colors mt-2 bg-white/5 px-3 py-1.5 rounded-full border border-white/10">
+            <input type="checkbox" id="dont-show-hero" class="rounded bg-black/50 border-white/20 text-emerald-500 focus:ring-emerald-500/30">
+            <span>No volver a mostrar</span>
+          </label>
         </div>
       </div>
     </section>
@@ -77,24 +85,43 @@ const API_BASE_URL = '/api';
   <script>
     document.addEventListener("DOMContentLoaded", () => {
       const hero = document.getElementById("mobile-hero");
-      const closeBtn = document.getElementById("close-hero");
+      const countdownEl = document.getElementById("countdown-timer");
+      const dontShowCheckbox = document.getElementById("dont-show-hero");
       
       if (!hero) return;
 
-      const isMobile = window.innerWidth < 768; // `md` breakpoint en Tailwind
-      
+      // Desactivar si el usuario eligió "No volver a mostrar"
+      if (localStorage.getItem("spt_hide_hero") === "true") {
+        hero.style.display = "none";
+        return;
+      }
+
+      let timeLeft = 4;
+      let timerId;
+
       const hideHero = () => {
+        if (dontShowCheckbox && dontShowCheckbox.checked) {
+          localStorage.setItem("spt_hide_hero", "true");
+        }
+        clearInterval(timerId);
         hero.style.opacity = "0";
+        hero.style.pointerEvents = "none";
         setTimeout(() => {
           hero.style.display = "none";
         }, 1000); // 1s wait para la transición css
       };
 
-      if (isMobile) {
-        // En móvil, desaparece auto después de 4s o con botón
-        if (closeBtn) closeBtn.addEventListener("click", hideHero);
-        setTimeout(hideHero, 4000); // 4 segundos
-      }
+      if (closeBtn) closeBtn.addEventListener("click", hideHero);
+      
+      timerId = setInterval(() => {
+        timeLeft -= 1;
+        if (countdownEl) {
+          countdownEl.textContent = timeLeft + "s";
+        }
+        if (timeLeft <= 0) {
+          hideHero();
+        }
+      }, 1000);
     });
   </script>
 
