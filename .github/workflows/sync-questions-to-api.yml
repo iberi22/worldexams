@@ -1,12 +1,6 @@
 name: Sync Questions to API
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - 'src/content/questions/**'
-      - 'scripts/sync-questions-to-api.py'
   workflow_dispatch:  # Allow manual trigger
 
 jobs:

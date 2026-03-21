@@ -1,13 +1,6 @@
 name: Generate Questions API
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - 'src/content/questions/**'
-      - 'scripts/generate-questions-api.ps1'
-      - '.github/workflows/generate-questions-api.yml'
   workflow_dispatch:
 
 permissions:

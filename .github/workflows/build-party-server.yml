@@ -1,14 +1,6 @@
 name: Build Party Server
 
 on:
-  push:
-    branches: [ "main" ]
-    paths:
-      - 'party-server-rust/**'
-  pull_request:
-    branches: [ "main" ]
-    paths:
-      - 'party-server-rust/**'
   workflow_dispatch:
 
 env:
