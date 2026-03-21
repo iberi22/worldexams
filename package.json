@@ -24,7 +24,8 @@
     "generate-api": "powershell -File scripts/generate-questions-api.ps1",
     "preview": "npm run preview -w @worldexams/worldexams-site",
     "test:e2e": "npm run test -w worldexams-e2e-tests",
-    "astro": "npm run astro -w @worldexams/worldexams-site"
+    "astro": "npm run astro -w @worldexams/worldexams-site",
+    "lint": "eslint src/"
   },
   "devDependencies": {
     "@playwright/test": "^1.57.0",
