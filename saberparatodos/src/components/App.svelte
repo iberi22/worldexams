@@ -14,7 +14,6 @@
   import LocalReportsView from './LocalReportsView.svelte';
   import Login from './Login.svelte';
   import ExamConfigModal from './ExamConfigModal.svelte'; // New import
-  import ExamLaunchOverlay from './ExamLaunchOverlay.svelte';
 
   import { supabase } from '../lib/supabase';
   import { getLocalIdentity } from '../lib/identity';
@@ -26,11 +25,6 @@
   import { saveExamResultLocal } from '../lib/idb-storage'; // Persist local results
   import { clearPackStorage } from '../lib/pack-storage'; // Clear pack storage
   import { generateExamPerformanceSnapshot } from '../lib/local-intelligence';
-  import { getExamLaunchOverlayHidden, setExamLaunchOverlayHidden } from '../lib/exam-launch-preferences';
-  import {
-    activateExamLaunchOverlayUi,
-    releaseExamLaunchOverlayUi
-  } from '../lib/exam-launch-ui-state';
 
   import BlogView from './BlogView.svelte';
   import ArticleView from './ArticleView.svelte';
@@ -86,13 +80,6 @@
   let showSpeedChallengeSetup = $state(false); // Controls Speed Challenge Setup visibility
   let showPeriodTrackerModal = $state(false); // 🆕 Controls Period Tracker Modal visibility
   let periodTrackerData = $state(null); // 🆕 Data passed to the modal
-  let showExamLaunchOverlay = $state(false);
-  let examLaunchCountdown = $state(3);
-  let examLaunchDontShowAgain = $state(false);
-  let examLaunchSnapshot = $state(null);
-  let examLaunchOverlayTimer = null;
-  let examLaunchSnapshotPromise = null;
-  const examLaunchBenchmark = CO_ICFES_2026_BENCHMARK;
 
   // Adaptive Testing State
   let isAdaptiveMode = $state(false);
@@ -117,72 +104,14 @@
 
   function setView(newView) {
     view = newView;
-    if (newView !== AppView.EXAM) {
-      closeExamLaunchOverlay();
-    }
     // Clear exam cache when going back to landing or selection to avoid stale results
     if (newView === AppView.LANDING || newView === AppView.SUBJECT_SELECTION) {
       generatedExamQuestions = null;
     }
   }
 
-  function closeExamLaunchOverlay() {
-    showExamLaunchOverlay = false;
-    examLaunchCountdown = 3;
-    releaseExamLaunchOverlayUi();
-    if (examLaunchOverlayTimer) {
-      clearInterval(examLaunchOverlayTimer);
-      examLaunchOverlayTimer = null;
-    }
-  }
-
-  function handleExamLaunchPreferenceChange(checked) {
-    examLaunchDontShowAgain = checked;
-    setExamLaunchOverlayHidden(checked);
-  }
-
-  function preloadExamLaunchSnapshot() {
-    examLaunchSnapshot = null;
-    const nextPromise = generateExamPerformanceSnapshot(examLaunchBenchmark)
-      .then((snapshot) => {
-        if (examLaunchSnapshotPromise === nextPromise) {
-          examLaunchSnapshot = snapshot;
-        }
-        return snapshot;
-      })
-      .catch((error) => {
-        console.warn('Could not generate exam launch snapshot', error);
-        if (examLaunchSnapshotPromise === nextPromise) {
-          examLaunchSnapshot = null;
-        }
-        return null;
-      });
-
-    examLaunchSnapshotPromise = nextPromise;
-    return nextPromise;
-  }
-
-  function openExamLaunchOverlay() {
-    closeExamLaunchOverlay();
-    if (examLaunchDontShowAgain) {
-      return;
-    }
-
-    showExamLaunchOverlay = true;
-    activateExamLaunchOverlayUi();
-    examLaunchCountdown = 3;
-    examLaunchOverlayTimer = setInterval(() => {
-      if (examLaunchCountdown <= 1) {
-        closeExamLaunchOverlay();
-        return;
-      }
-      examLaunchCountdown -= 1;
-    }, 1000);
-  }
-
   function enterExamView() {
     setView(AppView.EXAM);
-    openExamLaunchOverlay();
   }
 
   // 🔄 Notify other components about view changes (e.g. to hide global buttons)
@@ -206,7 +135,6 @@
 
   // Auth & Lifecycle
   onMount(async () => {
-    examLaunchDontShowAgain = getExamLaunchOverlayHidden();
     // Fetch build info dynamically
     try {
       const res = await fetch('/build-info.json?t=' + Date.now());
@@ -308,7 +236,6 @@
     });
 
     return () => {
-      releaseExamLaunchOverlayUi();
       subscription.unsubscribe();
     };
   });
@@ -326,7 +253,6 @@
     showExamConfigModal = false;
     examConfig = config;
     MAX_EXAM_QUESTIONS = config.count;
-    preloadExamLaunchSnapshot();
 
     // 🎯 Update App state with values from modal (important!)
     if (config.subject) selectedSubject = config.subject;
@@ -1391,15 +1317,7 @@
           isAdaptiveMode={isAdaptiveMode}
           adaptivePool={adaptivePool}
         />
-        <ExamLaunchOverlay
-          open={showExamLaunchOverlay}
-          countdown={examLaunchCountdown}
-          dontShowAgain={examLaunchDontShowAgain}
-          snapshot={examLaunchSnapshot}
-          benchmark={examLaunchBenchmark}
-          onClose={closeExamLaunchOverlay}
-          onToggleDontShow={handleExamLaunchPreferenceChange}
-        />
+
       </div>
     {:else if view === AppView.LEADERBOARD}
       <div in:fly={{ x: -50, duration: 500 }} out:fade={{ duration: 200 }}>
