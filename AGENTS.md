@@ -72,6 +72,22 @@ Reglas:
 - `apps/worldexams-site/` solo debe resolver marketing global, directorio de países, navegación institucional y routing hacia productos.
 - Si aparece código reusable entre root site y producto, documentarlo y evaluar moverlo a un paquete compartido; no duplicarlo silenciosamente.
 
+## Boundary Rule: Supabase Function Trees
+
+Este repo todavía contiene dos árboles locales de Supabase Functions:
+
+- `saberparatodos/supabase/functions/` → fuente canónica para el producto activo
+- `supabase/functions/` → árbol legacy / histórico / migratorio
+
+Reglas:
+
+- Para trabajo activo de Edge Functions del producto, usar `saberparatodos/supabase/functions/`.
+- No asumir que `supabase/functions/` está sincronizado con producción.
+- No desplegar desde `supabase/functions/` por defecto.
+- Antes de afirmar paridad entre local y remoto, ejecutar `pwsh -File scripts/audit-supabase-functions.ps1`.
+- Si una función existe en remoto pero no en el árbol canónico, tratarlo como drift y documentarlo antes de tocar producción.
+- Si una función existe en ambos árboles locales, tratarlo como ownership conflict hasta que se consolide.
+
 ---
 
 ## 🎭 Roles Principales
@@ -270,13 +286,21 @@ saberparatodos/src/content/questions/colombia/matematicas/grado-11/algebra/CO-MA
 - Asegura que los cambios se propaguen correctamente
 - Usa Wrangler CLI para todos los deploys
 
+**Regla canónica para `saberparatodos/`:**
+
+- `saberparatodos/` corre en Astro SSR sobre Cloudflare Workers, no en Cloudflare Pages como runtime productivo.
+- Para este paquete, el publish correcto es `wrangler deploy --config dist/server/wrangler.json --name=saberparatodos`.
+- El dominio productivo debe quedar servido por Worker routes sobre `saberparatodos.space/*` y `www.saberparatodos.space/*`.
+- Antes de deployar, normalizar `dist/server/wrangler.json` con `node scripts/normalize-wrangler-config.mjs`.
+- Si una instrucción histórica menciona `wrangler pages deploy` para `saberparatodos/`, tratarla como obsoleta y corregirla contra la capa canónica.
+
 **Flujos principales:**
 
 1. **Push de pregunta** → Regenerar API → Sync local → Build → Deploy CLI
 2. **Pull de traducciones** → Validación → Commit local
 3. **Deploy** → Build local + Wrangler CLI (NO GitHub Actions)
 4. **Build** → `npm run build` en cada plataforma
-5. **Publish** → `wrangler pages deploy` vía CLI
+5. **Publish en `saberparatodos/`** → `wrangler deploy --config dist/server/wrangler.json --name=saberparatodos`
 
 **Reglas CRÍTICAS:**
 
@@ -284,6 +308,10 @@ saberparatodos/src/content/questions/colombia/matematicas/grado-11/algebra/CO-MA
 - ❌ **NUNCA** usar GitHub Actions (consume créditos)
 - ✅ **SIEMPRE** usar `wrangler` CLI para deploy
 - ✅ **SIEMPRE** ejecutar `copy-api.ps1` antes de build
+- ✅ **SIEMPRE** verificar si el paquete usa Pages estático o Worker SSR antes de elegir el comando
+- ❌ **NUNCA** usar `wrangler pages deploy` para `saberparatodos/` mientras siga en SSR sobre Workers
+- ❌ **NUNCA** publicar `custom_domain = true` con patrones tipo `dominio/*`
+- ✅ **SIEMPRE** revisar `docs/agent-docs/specs/SPEC_CLOUDFLARE_SABERPARATODOS_DEPLOY.md` si el trabajo toca dominio, routing o deploy productivo de `saberparatodos/`
 - 📖 **Protocolo:** Ver `PROTOCOLO_DEPLOY_CLI.md`
 
 **Comandos estándar:**
@@ -293,10 +321,13 @@ saberparatodos/src/content/questions/colombia/matematicas/grado-11/algebra/CO-MA
 cd saberparatodos
 pwsh -File scripts\copy-api.ps1
 npm run build
-npx wrangler pages deploy dist --project-name=saberparatodos
+node scripts\normalize-wrangler-config.mjs
+npx wrangler deploy --config dist/server/wrangler.json --name=saberparatodos
 
 # Deploy rápido (sin API sync)
-npm run build && npx wrangler pages deploy dist --project-name=saberparatodos
+npm run build
+node scripts\normalize-wrangler-config.mjs
+npx wrangler deploy --config dist/server/wrangler.json --name=saberparatodos
 ```
 
 ---
