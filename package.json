@@ -22,6 +22,7 @@
     "build:worldexams-api": "npm run build -w @worldexams/worldexams-api",
     "build:workspaces": "npm run build:worldexams-site && npm run build:saberparatodos && npm run build:worldexams-api",
     "generate-api": "powershell -File scripts/generate-questions-api.ps1",
+    "audit:supabase:functions": "powershell -File scripts/audit-supabase-functions.ps1",
     "preview": "npm run preview -w @worldexams/worldexams-site",
     "test:e2e": "npm run test -w worldexams-e2e-tests",
     "astro": "npm run astro -w @worldexams/worldexams-site",

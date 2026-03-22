@@ -30,6 +30,8 @@ It follows the GitCore naming and frontmatter conventions, adapted to the curren
 
 ## Current Documents
 
+- `specs/SPEC_CLOUDFLARE_SABERPARATODOS_DEPLOY.md`
+- `specs/SPEC_SUPABASE_EDGE_FUNCTIONS_SOURCE_OF_TRUTH.md`
 - `specs/SPEC_GITCORE_MONOREPO_GOVERNANCE.md`
 - `research/RESEARCH_GITCORE_LOCAL_ADAPTATION.md`
 

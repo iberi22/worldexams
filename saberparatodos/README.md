@@ -22,7 +22,7 @@ Question banks are intended to live in a private repository. This package is par
 - Svelte 5
 - TailwindCSS
 - Supabase
-- Cloudflare Pages
+- Cloudflare Workers SSR
 - Playwright
 - Vitest
 
@@ -57,7 +57,7 @@ Question banks are intended to live in a private repository. This package is par
 
 - Supabase auth and RLS-backed data model
 - Edge Functions for questions, exam submission, AI tutor, Telegram bot, and organization flows
-- Manual deploy scripts for Cloudflare Pages
+- Manual deploy scripts for Cloudflare Workers SSR
 - Validation, build, and E2E test commands
 
 ## Local Development
@@ -122,6 +122,8 @@ npm run sync:api
 npm run build
 npm run deploy:manual
 ```
+
+Canonical production deploy uses Wrangler Worker deploy, not `wrangler pages deploy`.
 
 See `PROTOCOLO_DEPLOY_CLI.md` for the operational flow.
 
