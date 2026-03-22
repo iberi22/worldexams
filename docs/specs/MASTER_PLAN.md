@@ -42,7 +42,7 @@ Ship a stable code-first production release focused on authentication, instituti
 
 ## 6. Critical Assumptions
 1. Product remains Magic Link oriented auth flow.
-2. Deployment target is Cloudflare Pages project `saberparatodos`.
+2. Deployment target is the Cloudflare Worker runtime for `saberparatodos`, attached to `saberparatodos.space` and `www.saberparatodos.space` through Worker routes.
 3. Public API artifacts are generated from local scripts before build.
 
 ## 7. Preuniversitario Program

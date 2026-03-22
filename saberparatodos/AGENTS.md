@@ -16,7 +16,7 @@ Este archivo ya no redefine las reglas globales del repositorio.
 ## Contexto Local
 
 - Producto: Colombia / ICFES / `SaberParaTodos`
-- Stack: Astro 5 + Svelte 5 + TailwindCSS + Supabase + Cloudflare Pages
+- Stack: Astro 5 + Svelte 5 + TailwindCSS + Supabase + Cloudflare Workers SSR
 - Deploy: manual por CLI
 
 ## Reglas Locales
@@ -38,8 +38,16 @@ Este archivo ya no redefine las reglas globales del repositorio.
 - Nunca exponer `SUPABASE_SERVICE_ROLE_KEY` al cliente.
 - Solo variables públicas seguras en frontend.
 - Validar inputs antes de insertar o mutar datos.
+- Tratar `supabase/functions/` dentro de este paquete como el árbol canónico para Edge Functions del producto.
+- Tratar `../supabase/functions/` como legacy salvo instrucción explícita de migración o recuperación.
+- Antes de deploys o auditorías de funciones, correr `pwsh -File ../scripts/audit-supabase-functions.ps1`.
 
 ### Deploy
 
 - No crear flujos nuevos de GitHub Actions para deploy productivo.
 - Preferir deploy manual por CLI y scripts del paquete.
+- No usar `wrangler pages deploy` para producción de `saberparatodos`.
+- El comando canónico es `npx wrangler deploy --config dist/server/wrangler.json --name=saberparatodos`.
+- Antes de deployar, ejecutar `node scripts/normalize-wrangler-config.mjs`.
+- El routing productivo esperado es por Worker routes en `saberparatodos.space/*` y `www.saberparatodos.space/*`.
+- Si una doc histórica contradice esto, manda `../AGENTS.md` y `PROTOCOLO_DEPLOY_CLI.md`.

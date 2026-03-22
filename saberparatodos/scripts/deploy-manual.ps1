@@ -74,6 +74,12 @@ if ($LASTEXITCODE -ne 0) {
   throw '[deploy] build failed.'
 }
 
+Write-Host '[deploy] Normalizing Wrangler custom domains...' -ForegroundColor Gray
+node scripts/normalize-wrangler-config.mjs
+if ($LASTEXITCODE -ne 0) {
+  throw '[deploy] normalize-wrangler-config failed.'
+}
+
 Write-Host "[deploy] Deploying Cloudflare Worker (Name: $ProjectName)..." -ForegroundColor Gray
 npx wrangler deploy --config dist/server/wrangler.json --name=$ProjectName
 if ($LASTEXITCODE -ne 0) {

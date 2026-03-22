@@ -1,0 +1,62 @@
+# PROTOCOLO_DEPLOY_CLI.md
+
+Last updated: 2026-03-21
+Scope: manual production deploy for `saberparatodos/`.
+
+## Runtime Canonical
+
+`saberparatodos/` is deployed as an Astro SSR application on Cloudflare Workers.
+Production is not published with `wrangler pages deploy`.
+
+## Mandatory Rules
+
+1. Use Wrangler Worker deploy only.
+2. Use the package scripts before touching Cloudflare manually.
+3. Normalize `dist/server/wrangler.json` before deploy.
+4. Deploy production from `main` only unless the operator explicitly overrides the guard.
+5. Verify the live domain after deployment.
+
+## Standard Flow
+
+```powershell
+cd saberparatodos
+pwsh -File scripts\copy-api.ps1
+npm run build
+node scripts\normalize-wrangler-config.mjs
+npx wrangler deploy --config dist/server/wrangler.json --name=saberparatodos
+pwsh -File scripts\verify-deployment.ps1 -BaseUrl https://saberparatodos.space
+```
+
+## Preferred Shortcut
+
+```powershell
+cd saberparatodos
+npm run deploy:manual
+```
+
+## Expected Cloudflare Routing
+
+The Worker must attach these production routes:
+
+- `saberparatodos.space/*`
+- `www.saberparatodos.space/*`
+
+They must be deployed as Worker routes with `zone_name = "saberparatodos.space"`.
+
+## Do Not Use
+
+```powershell
+npx wrangler pages deploy dist --project-name=saberparatodos
+```
+
+Do not use Pages deploy for this app unless the architecture is explicitly changed and the canonical docs are updated first.
+
+## Failure Pattern
+
+If `saberparatodos.space` returns `404` after deploy:
+
+1. Inspect the latest Worker deploy in Wrangler.
+2. Confirm Worker routes are active on both hostnames.
+3. Confirm `dist/server/wrangler.json` was normalized.
+4. Confirm no one used `wrangler pages deploy` for the production app.
+

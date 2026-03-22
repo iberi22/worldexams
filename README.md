@@ -60,7 +60,7 @@ The repository still contains historical planning and implementation docs.
 - Root app surface: `apps/worldexams-site/` is the organization-level `worldexams` site
 - Frontend stack: Astro + Svelte
 - Backend stack: Supabase Auth / DB / Edge Functions
-- Hosting: Cloudflare Pages
+- Hosting: Cloudflare Workers SSR for `saberparatodos`, Cloudflare Pages may still exist as legacy/account surface
 - API access: developer portal + API key flow
 - Content strategy: keep question banks and unreleased operational material private
 
@@ -165,7 +165,8 @@ worldexams/
 - Pages: `saberparatodos/src/pages/`
 - Components: `saberparatodos/src/components/`
 - Developer portal: `saberparatodos/src/pages/developers/`
-- Supabase functions: `saberparatodos/supabase/functions/`
+- Supabase functions (canonical product tree): `saberparatodos/supabase/functions/`
+- Supabase functions (legacy root tree): `supabase/functions/`
 - Supabase migrations: `saberparatodos/supabase/migrations/`
 - Scripts: `saberparatodos/scripts/`
 - Video pipeline: `saberparatodos/video-pipeline/`
