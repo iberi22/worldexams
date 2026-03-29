@@ -97,13 +97,13 @@ const API_BASE_URL = '/api';
       }
 
       let timeLeft = 4;
-      let timerId;
+      let timerId: ReturnType<typeof setInterval> | undefined;
 
       const hideHero = () => {
-        if (dontShowCheckbox && dontShowCheckbox.checked) {
+        if (dontShowCheckbox && (dontShowCheckbox as HTMLInputElement).checked) {
           localStorage.setItem("spt_hide_hero", "true");
         }
-        clearInterval(timerId);
+        if (timerId) clearInterval(timerId);
         hero.style.opacity = "0";
         hero.style.pointerEvents = "none";
         setTimeout(() => {
@@ -111,6 +111,7 @@ const API_BASE_URL = '/api';
         }, 1000); // 1s wait para la transición css
       };
 
+      const closeBtn = document.getElementById("hero-close-btn");
       if (closeBtn) closeBtn.addEventListener("click", hideHero);
       
       timerId = setInterval(() => {
