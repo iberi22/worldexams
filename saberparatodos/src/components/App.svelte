@@ -343,6 +343,7 @@
          } catch (e) { /* ignore */ }
          generatedExamQuestions = sanitizeIncomingQuestions(config.questions);
          isPreparingExam = false;
+         enterExamView(); // FIX: Must transition to exam view!
          return;
     }
 
