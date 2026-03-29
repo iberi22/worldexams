@@ -1414,11 +1414,14 @@
       <!-- Question Count -->
       <div class="space-y-3">
         <label class="text-xs uppercase tracking-widest opacity-60 block">Cantidad de Preguntas</label>
-        <div class="grid grid-cols-3 gap-3">
+        <div class="grid grid-cols-5 gap-2">
           {#each questionOptions as count}
+            {@const isSelected = questionCount === count}
+            {@const isDisabled = configLocked}
             <button
-              disabled={configLocked}
-              class="py-2 px-4 rounded border transition-all duration-200 font-bold {configLocked ? 'opacity-50 cursor-not-allowed' : ''} {questionCount === count ? 'bg-emerald-500 text-white border-emerald-500' : 'bg-white/5 border-white/20 hover:border-white/40 hover:bg-white/10 text-white/60'}"
+              type="button"
+              disabled={isDisabled}
+              class="py-2 px-1 rounded border transition-all duration-200 font-bold text-sm {isDisabled ? 'opacity-40 cursor-not-allowed border-white/10 bg-transparent text-white/30' : isSelected ? 'bg-emerald-500 text-white border-emerald-500 cursor-pointer' : 'bg-white/5 border-white/20 hover:border-white/40 hover:bg-white/10 text-white/60 cursor-pointer'}"
               onclick={() => questionCount = count}
             >
               {count}
