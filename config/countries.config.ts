@@ -61,6 +61,33 @@ export interface CulturalContext {
   languageVariant?: string; // e.g., "voseo" for Argentina
 }
 
+export interface ProductFeatures {
+  blog?: boolean;
+  preuniversitario?: boolean;
+  developerPortal?: boolean;
+  comments?: boolean;
+}
+
+export interface GiscusConfig {
+  repo: string;
+  repoId: string;
+  category: string;
+  categoryId: string;
+  lang?: string;
+}
+
+export interface ProductConfig {
+  siteName: string;
+  siteUrl: string;
+  contactEmail: string;
+  guideLabel: string;
+  guideYear: number;
+  seoKeywords: string[];
+  defaultDescription: string;
+  features?: ProductFeatures;
+  giscus?: GiscusConfig;
+}
+
 /**
  * Complete country configuration
  */
@@ -93,6 +120,9 @@ export interface CountryConfig {
   // URLs
   domain?: string;
   githubRepo: string;
+
+  // Product runtime metadata
+  product: ProductConfig;
 }
 
 // =============================================================================
@@ -153,6 +183,34 @@ export const colombiaConfig: CountryConfig = {
   },
 
   githubRepo: 'worldexams/saber-co',
+  product: {
+    siteName: 'SaberParaTodos',
+    siteUrl: 'https://saberparatodos.space',
+    contactEmail: 'contacto@saberparatodos.space',
+    guideLabel: 'ICFES',
+    guideYear: 2026,
+    seoKeywords: [
+      'simulacro icfes',
+      'simulacro saber 11',
+      'preicfes gratis',
+      'banco de preguntas icfes',
+      'pruebas saber colombia'
+    ],
+    defaultDescription: 'Practica con simulacros, guias y banco de preguntas para las pruebas Saber en Colombia.',
+    features: {
+      blog: false,
+      preuniversitario: true,
+      developerPortal: true,
+      comments: true,
+    },
+    giscus: {
+      repo: 'worldexams/worldexams',
+      repoId: 'R_kgDONXw98Q',
+      category: 'Announcements',
+      categoryId: 'DIC_kwDONXw98c4Ckz9-',
+      lang: 'es',
+    },
+  },
 };
 
 /**
@@ -207,6 +265,27 @@ export const mexicoConfig: CountryConfig = {
   },
 
   githubRepo: 'worldexams/saber-mx',
+  product: {
+    siteName: 'WorldExams Mexico',
+    siteUrl: 'https://worldexams.github.io/saber-mx',
+    contactEmail: 'contacto@worldexams.app',
+    guideLabel: 'EXANI',
+    guideYear: 2026,
+    seoKeywords: [
+      'guia exani',
+      'simulacro exani',
+      'planea mexico',
+      'admision universitaria mexico',
+      'practica ceneval'
+    ],
+    defaultDescription: 'Practica con simulacros y guias para EXANI y otras pruebas de admision en Mexico.',
+    features: {
+      blog: false,
+      preuniversitario: false,
+      developerPortal: true,
+      comments: true,
+    },
+  },
 };
 
 /**
@@ -261,6 +340,21 @@ export const argentinaConfig: CountryConfig = {
   },
 
   githubRepo: 'worldexams/saber-ar',
+  product: {
+    siteName: 'WorldExams Argentina',
+    siteUrl: 'https://worldexams.app/ar',
+    contactEmail: 'contacto@worldexams.app',
+    guideLabel: 'APRENDER',
+    guideYear: 2026,
+    seoKeywords: ['aprender argentina', 'simulacro aprender', 'practica escolar argentina'],
+    defaultDescription: 'Plantilla de producto para practica y preparacion de evaluaciones nacionales en Argentina.',
+    features: {
+      blog: false,
+      preuniversitario: false,
+      developerPortal: true,
+      comments: true,
+    },
+  },
 };
 
 /**
@@ -314,6 +408,21 @@ export const chileConfig: CountryConfig = {
   },
 
   githubRepo: 'worldexams/saber-cl',
+  product: {
+    siteName: 'WorldExams Chile',
+    siteUrl: 'https://worldexams.app/cl',
+    contactEmail: 'contacto@worldexams.app',
+    guideLabel: 'SIMCE',
+    guideYear: 2026,
+    seoKeywords: ['simce chile', 'practica simce', 'evaluacion escolar chile'],
+    defaultDescription: 'Plantilla de producto para practica y preparacion de evaluaciones nacionales en Chile.',
+    features: {
+      blog: false,
+      preuniversitario: false,
+      developerPortal: true,
+      comments: true,
+    },
+  },
 };
 
 /**
@@ -368,6 +477,21 @@ export const peruConfig: CountryConfig = {
   },
 
   githubRepo: 'worldexams/saber-pe',
+  product: {
+    siteName: 'WorldExams Peru',
+    siteUrl: 'https://worldexams.app/pe',
+    contactEmail: 'contacto@worldexams.app',
+    guideLabel: 'ECE',
+    guideYear: 2026,
+    seoKeywords: ['ece peru', 'simulacro ece', 'evaluacion censal estudiantes'],
+    defaultDescription: 'Plantilla de producto para practica y preparacion de evaluaciones nacionales en Peru.',
+    features: {
+      blog: false,
+      preuniversitario: false,
+      developerPortal: true,
+      comments: true,
+    },
+  },
 };
 
 /**
@@ -421,6 +545,28 @@ export const brasilConfig: CountryConfig = {
   },
 
   githubRepo: 'worldexams/saber-br',
+  product: {
+    siteName: 'WorldExams Brasil',
+    siteUrl: 'https://worldexams.app/br',
+    contactEmail: 'contato@worldexams.app',
+    guideLabel: 'ENEM',
+    guideYear: 2026,
+    seoKeywords: ['enem brasil', 'simulado enem', 'pratica enem'],
+    defaultDescription: 'Modelo de produto para pratica e preparacao de avaliacoes nacionais no Brasil.',
+    features: {
+      blog: false,
+      preuniversitario: false,
+      developerPortal: true,
+      comments: true,
+    },
+    giscus: {
+      repo: 'worldexams/worldexams',
+      repoId: 'R_kgDONXw98Q',
+      category: 'Announcements',
+      categoryId: 'DIC_kwDONXw98c4Ckz9-',
+      lang: 'pt',
+    },
+  },
 };
 
 /**
@@ -475,6 +621,28 @@ export const usaConfig: CountryConfig = {
   },
 
   githubRepo: 'worldexams/saber-us',
+  product: {
+    siteName: 'WorldExams US',
+    siteUrl: 'https://worldexams.app/us',
+    contactEmail: 'support@worldexams.app',
+    guideLabel: 'SAT',
+    guideYear: 2026,
+    seoKeywords: ['sat practice', 'exam prep usa', 'high school assessment practice'],
+    defaultDescription: 'Shared product runtime for practice and preparation around US academic assessments.',
+    features: {
+      blog: false,
+      preuniversitario: false,
+      developerPortal: true,
+      comments: true,
+    },
+    giscus: {
+      repo: 'worldexams/worldexams',
+      repoId: 'R_kgDONXw98Q',
+      category: 'Announcements',
+      categoryId: 'DIC_kwDONXw98c4Ckz9-',
+      lang: 'en',
+    },
+  },
 };
 
 // =============================================================================

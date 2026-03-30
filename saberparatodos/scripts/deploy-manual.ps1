@@ -1,6 +1,9 @@
 param(
+  [ValidateSet('production', 'preview')]
+  [string]$Target,
   [string]$ProjectName,
   [string]$BaseUrl,
+  [string]$WorkersDevSubdomain = $env:CLOUDFLARE_WORKERS_SUBDOMAIN,
   [string]$RemoteName = 'iberi22',
   [switch]$SkipValidate,
   [switch]$SkipVerify,
@@ -13,45 +16,67 @@ $ErrorActionPreference = 'Stop'
 $repoRoot = Split-Path -Parent $PSScriptRoot
 Set-Location $repoRoot
 
-# Detect branch
+function Resolve-PreviewBaseUrl {
+  param(
+    [string]$Name,
+    [string]$WorkersSubdomain
+  )
+
+  if ($WorkersSubdomain) {
+    return "https://$Name.$WorkersSubdomain.workers.dev"
+  }
+
+  throw "[deploy] ABORT: Preview deploy requires -BaseUrl or CLOUDFLARE_WORKERS_SUBDOMAIN so verification and PUBLIC_SITE_URL do not fall back to production."
+}
+
 $currentBranch = (git rev-parse --abbrev-ref HEAD).Trim()
 Write-Host "[deploy] Current branch: $currentBranch" -ForegroundColor Gray
 
-# Intelligent defaults based on branch
+if (-not $Target) {
+  if ($currentBranch -eq 'main') {
+    $Target = 'production'
+  } else {
+    $Target = 'preview'
+  }
+}
+
 if (-not $ProjectName) {
-    if ($currentBranch -eq 'main') {
-        $ProjectName = 'saberparatodos'
-    } elseif ($currentBranch -eq 'develop') {
-        $ProjectName = 'saberparatodos-dev'
-    } else {
-        $ProjectName = 'saberparatodos-preview'
-    }
+  if ($Target -eq 'production') {
+    $ProjectName = 'saberparatodos'
+  } elseif ($currentBranch -eq 'develop') {
+    $ProjectName = 'saberparatodos-develop'
+  } else {
+    $ProjectName = 'saberparatodos-preview'
+  }
 }
 
 if (-not $BaseUrl) {
-    if ($currentBranch -eq 'main') {
-        $BaseUrl = 'https://saberparatodos.space'
-    } elseif ($currentBranch -eq 'develop') {
-        $BaseUrl = 'https://saberparatodos.pages.dev'
-    } else {
-        $BaseUrl = 'https://saberparatodos.pages.dev'
-    }
+  if ($Target -eq 'production') {
+    $BaseUrl = 'https://saberparatodos.space'
+  } else {
+    $BaseUrl = Resolve-PreviewBaseUrl -Name $ProjectName -WorkersSubdomain $WorkersDevSubdomain
+  }
 }
 
-# Production Safety Check
-if ($ProjectName -eq 'saberparatodos' -and $currentBranch -ne 'main' -and -not $Force) {
-    throw "[deploy] ABORT: Attempting to deploy to production project from branch '$currentBranch'. Use -Force if you are sure."
-}
-
+Write-Host "[deploy] Target Mode:    $Target" -ForegroundColor Cyan
 Write-Host "[deploy] Target Project: $ProjectName" -ForegroundColor Cyan
 Write-Host "[deploy] Target URL:     $BaseUrl" -ForegroundColor Cyan
 
-$isProductionDeploy = $ProjectName -eq 'saberparatodos' -and $currentBranch -eq 'main'
+$isProductionDeploy = $Target -eq 'production'
+$isPreviewDeploy = $Target -eq 'preview'
+
+if ($isProductionDeploy -and $currentBranch -ne 'main' -and -not $Force) {
+  throw "[deploy] ABORT: Production deploy requires branch 'main'. Current branch: '$currentBranch'."
+}
+
+if ($isPreviewDeploy -and $BaseUrl -match 'saberparatodos\.space' -and -not $Force) {
+  throw '[deploy] ABORT: Preview deploy cannot target saberparatodos.space. Use a workers.dev URL or pass -Force intentionally.'
+}
 
 if ($isProductionDeploy) {
   $workingTreeDirty = [bool](git status --porcelain)
   if ($workingTreeDirty -and -not $Force) {
-    throw '[deploy] ABORT: Production deploy requires a clean working tree so the deploy tag maps to an exact commit. Commit or stash changes, or use -Force if you intentionally want to bypass this guard.'
+    throw '[deploy] ABORT: Production deploy requires a clean working tree so the deploy tag maps to an exact commit.'
   }
 }
 
@@ -68,14 +93,14 @@ if (-not $Fast) {
   }
 }
 
-Write-Host '[deploy] Building production bundle...' -ForegroundColor Gray
+Write-Host '[deploy] Building bundle...' -ForegroundColor Gray
 npm run build
 if ($LASTEXITCODE -ne 0) {
   throw '[deploy] build failed.'
 }
 
-Write-Host '[deploy] Normalizing Wrangler custom domains...' -ForegroundColor Gray
-node scripts/normalize-wrangler-config.mjs
+Write-Host '[deploy] Normalizing Wrangler config...' -ForegroundColor Gray
+node scripts/normalize-wrangler-config.mjs --target $Target --public-site-url $BaseUrl --name $ProjectName
 if ($LASTEXITCODE -ne 0) {
   throw '[deploy] normalize-wrangler-config failed.'
 }
@@ -88,7 +113,7 @@ if ($LASTEXITCODE -ne 0) {
 
 if (-not $SkipVerify) {
   Write-Host "[deploy] Verifying deployment at $BaseUrl..." -ForegroundColor Gray
-  pwsh -File scripts/verify-deployment.ps1 -BaseUrl $BaseUrl
+  pwsh -File scripts/verify-deployment.ps1 -BaseUrl $BaseUrl -Mode $Target
 }
 
 if ($isProductionDeploy -and -not $SkipTag) {
@@ -99,4 +124,4 @@ if ($isProductionDeploy -and -not $SkipTag) {
   }
 }
 
-Write-Host "[deploy] Manual deployment to $currentBranch finished successfully." -ForegroundColor Green
+Write-Host "[deploy] Manual deployment to $Target finished successfully." -ForegroundColor Green

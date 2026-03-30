@@ -24,9 +24,9 @@ interface Props {
 import { countryConfig } from '../config';
 
 const {
-  title = `${countryConfig.name} - Banco de Preguntas`,
-  description = `Practica con el mejor banco de preguntas open source para ${countryConfig.name}. ${Object.keys(countryConfig.exams).join(', ')}.`,
-  keywords = 'simulacro icfes, simulacro saber 11, preicfes gratis, banco de preguntas icfes, pruebas saber colombia',
+  title = `${countryConfig.product.siteName} | ${countryConfig.examName}`,
+  description = countryConfig.product.defaultDescription,
+  keywords = countryConfig.product.seoKeywords.join(', '),
   image = "/logo.png",
   type = "website",
   noindex = false,
@@ -34,7 +34,7 @@ const {
   showFooter = true
 } = Astro.props;
 
-const siteUrl = Astro.site ? Astro.site.toString().replace(/\/$/, '') : 'https://saberparatodos.space';
+const siteUrl = Astro.site ? Astro.site.toString().replace(/\/$/, '') : countryConfig.product.siteUrl.replace(/\/$/, '');
 const canonicalURL = new URL(Astro.url.pathname, `${siteUrl}/`);
 const ogImageURL = new URL(image, canonicalURL);
 const ogLocale = (countryConfig.language || 'es-CO').replace('-', '_');
@@ -43,34 +43,34 @@ const appVersion = packageInfo.version;
 const organizationSchema = {
   '@context': 'https://schema.org',
   '@type': 'Organization',
-  name: 'SaberParaTodos',
+  name: countryConfig.product.siteName,
   url: siteUrl,
   logo: `${siteUrl}/logo.png`,
-  email: 'mailto:contacto@saberparatodos.space',
+  email: `mailto:${countryConfig.product.contactEmail}`,
   contactPoint: {
     '@type': 'ContactPoint',
     contactType: 'customer support',
-    email: 'contacto@saberparatodos.space',
-    availableLanguage: ['es-CO']
+    email: countryConfig.product.contactEmail,
+    availableLanguage: [countryConfig.language]
   },
   sameAs: ['https://github.com/world-exams']
 };
 const websiteSchema = {
   '@context': 'https://schema.org',
   '@type': 'WebSite',
-  name: 'SaberParaTodos',
+  name: countryConfig.product.siteName,
   url: siteUrl,
   inLanguage: countryConfig.language || 'es-CO',
   publisher: {
     '@type': 'Organization',
-    name: 'SaberParaTodos',
+    name: countryConfig.product.siteName,
     url: siteUrl
   }
 };
 ---
 
 <!doctype html>
-<html lang="es" class="fonts-loading no-js">
+	<html lang={countryConfig.language} class="fonts-loading no-js">
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -123,7 +123,7 @@ const websiteSchema = {
     <meta name="mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-    <meta name="apple-mobile-web-app-title" content="SaberParaTodos" />
+    <meta name="apple-mobile-web-app-title" content={countryConfig.product.siteName} />
 
     <!-- Critical CSS (inline para evitar render-blocking) -->
     <style set:html={criticalCSS}></style>
@@ -132,10 +132,10 @@ const websiteSchema = {
 		<title>{title}</title>
 		<meta name="description" content={description} />
     <meta name="keywords" content={keywords} />
-    <meta name="author" content="World Exams Pedagogy Team" />
+    <meta name="author" content="World Exams Product Team" />
     <meta name="publisher" content="World Exams" />
     <link rel="canonical" href={canonicalURL} />
-    <link rel="alternate" hreflang="es-CO" href={canonicalURL} />
+    <link rel="alternate" hreflang={countryConfig.language} href={canonicalURL} />
     {noindex
       ? <meta name="robots" content="noindex, nofollow" />
       : <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />}
@@ -146,7 +146,7 @@ const websiteSchema = {
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:image" content={ogImageURL} />
-    <meta property="og:site_name" content="SaberParaTodos" />
+    <meta property="og:site_name" content={countryConfig.product.siteName} />
     <meta property="og:locale" content={ogLocale} />
 
     <!-- Twitter -->

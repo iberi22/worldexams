@@ -5,27 +5,27 @@
   "version": "0.12.0",
   "description": "WorldExams private prelaunch monorepo",
   "workspaces": [
-    "apps/worldexams-site",
+    "apps/landing-worldexams",
     "saberparatodos",
     "apps/worldexams-api",
     "tests"
   ],
   "scripts": {
-    "dev": "npm run dev:worldexams-site",
-    "dev:worldexams-site": "npm run dev -w @worldexams/worldexams-site",
+    "dev": "npm run dev:landing-worldexams",
+    "dev:landing-worldexams": "npm run dev -w @worldexams/landing-worldexams",
     "dev:saberparatodos": "npm run dev -w saberparatodos",
     "dev:worldexams-api": "npm run dev -w @worldexams/worldexams-api",
-    "start": "npm run dev:worldexams-site",
-    "build": "npm run build:worldexams-site",
-    "build:worldexams-site": "npm run build -w @worldexams/worldexams-site",
+    "start": "npm run dev:landing-worldexams",
+    "build": "npm run build:landing-worldexams",
+    "build:landing-worldexams": "npm run build -w @worldexams/landing-worldexams",
     "build:saberparatodos": "npm run build -w saberparatodos",
     "build:worldexams-api": "npm run build -w @worldexams/worldexams-api",
-    "build:workspaces": "npm run build:worldexams-site && npm run build:saberparatodos && npm run build:worldexams-api",
+    "build:workspaces": "npm run build:landing-worldexams && npm run build:saberparatodos && npm run build:worldexams-api",
     "generate-api": "powershell -File scripts/generate-questions-api.ps1",
     "audit:supabase:functions": "powershell -File scripts/audit-supabase-functions.ps1",
-    "preview": "npm run preview -w @worldexams/worldexams-site",
+    "preview": "npm run preview -w @worldexams/landing-worldexams",
     "test:e2e": "npm run test -w worldexams-e2e-tests",
-    "astro": "npm run astro -w @worldexams/worldexams-site",
+    "astro": "npm run astro -w @worldexams/landing-worldexams",
     "lint": "eslint src/"
   },
   "devDependencies": {
@@ -40,6 +40,7 @@
     "typescript": "^5.9.3"
   },
   "overrides": {
-    "rollup": "^4.59.0"
+    "rollup": "^4.59.0",
+    "yaml": "^2.8.3"
   }
 }

@@ -19,9 +19,9 @@ If a file is listed as legacy or overlapping, it must not silently compete with 
 | Monorepo migration plan | `docs/monorepo/MONOREPO_MIGRATION_PLAN.md` | whole repo | Execution plan for safe-branch reorganization |
 | Current vs target layout | `docs/monorepo/REPO_MAP.md` | whole repo | Path inventory and destination map |
 | Authority/deprecation map | `docs/monorepo/REPO_AUTHORITY_MATRIX.md` | whole repo | This file |
-| Root site vs product runtime boundary | `docs/monorepo/SITE_BOUNDARIES.md` | whole repo | Use before editing `apps/worldexams-site/` or `saberparatodos/src/` |
-| Root site package docs | `apps/worldexams-site/README.md` | package-local | Site-only scope |
-| Root site package agent deltas | `apps/worldexams-site/AGENTS.md` | package-local | Site-only delta rules |
+| Root site vs product runtime boundary | `docs/monorepo/SITE_BOUNDARIES.md` | whole repo | Use before editing `apps/landing-worldexams/` or `saberparatodos/src/` |
+| Root site package docs | `apps/landing-worldexams/README.md` | package-local | Site-only scope |
+| Root site package agent deltas | `apps/landing-worldexams/AGENTS.md` | package-local | Site-only delta rules |
 | API worker package docs | `apps/worldexams-api/README.md` | package-local | Worker-only scope |
 | API worker agent deltas | `apps/worldexams-api/AGENTS.md` | package-local | Worker-only delta rules |
 | Product overview | `saberparatodos/README.md` | package-local | Product-specific only |

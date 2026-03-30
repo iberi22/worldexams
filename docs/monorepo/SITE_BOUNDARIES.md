@@ -10,7 +10,7 @@ Prevent agents from mixing the root `worldexams` site with the shared exam-produ
 
 | Path | Current meaning | Ownership |
 |---|---|---|
-| `apps/worldexams-site/` | `worldexams` organization/site layer | global brand, country discovery, institutional navigation |
+| `apps/landing-worldexams/` | `worldexams` organization/site layer | global brand, country discovery, institutional navigation |
 | `saberparatodos/src/` | shared exam-product runtime and current Colombia implementation | reusable product logic, tenants, exam UX, auth, content runtime |
 
 ## Root Site Rules
@@ -58,11 +58,11 @@ Target interpretation:
 
 ```text
 worldexams/
-├── apps/worldexams-site/
+├── apps/landing-worldexams/
 ├── saberparatodos/
 ```
 
 Agents must treat:
 
-- `apps/worldexams-site/src/` as the site layer
+- `apps/landing-worldexams/src/` as the site layer
 - `saberparatodos/src/` as the product runtime layer

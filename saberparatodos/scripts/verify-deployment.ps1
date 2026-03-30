@@ -1,19 +1,31 @@
 param(
-  [string]$BaseUrl = 'https://saberparatodos.space'
+  [string]$BaseUrl = 'https://saberparatodos.space',
+  [ValidateSet('production', 'preview')]
+  [string]$Mode = 'production'
 )
 
 $ErrorActionPreference = 'Stop'
 
-$targets = @(
-  '/',
-  '/novedades',
-  '/novedades/2026-03-09-filtrado-ingles-y-comentarios',
-  '/ranking',
-  '/dashboard',
-  '/api/packs/week-9-grade-11-subject-matematicas.json'
-)
+if ($Mode -eq 'preview') {
+  $targets = @(
+    '/',
+    '/guia-examen',
+    '/sobre-nosotros',
+    '/contacto'
+  )
+} else {
+  $targets = @(
+    '/',
+    '/novedades',
+    '/novedades/2026-03-09-filtrado-ingles-y-comentarios',
+    '/ranking',
+    '/dashboard',
+    '/api/packs/week-9-grade-11-subject-matematicas.json'
+  )
+}
 
 Write-Host "[verify] Base URL: $BaseUrl" -ForegroundColor Cyan
+Write-Host "[verify] Mode:     $Mode" -ForegroundColor Cyan
 
 $results = @()
 foreach ($path in $targets) {

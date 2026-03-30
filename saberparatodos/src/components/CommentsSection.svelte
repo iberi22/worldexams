@@ -25,6 +25,7 @@
     categoryId: 'DIC_kwDONXw98c4Ckz9-',
     ...countryConfig?.giscus
   };
+  const giscusLang = countryConfig.giscus?.lang || countryConfig.language.split('-')[0] || 'es';
 
   // Unique ID for this component instance
   const uniqueId = `giscus-${questionId}-${Math.random().toString(36).substring(2, 9)}`;
@@ -100,7 +101,7 @@
       script.setAttribute('data-emit-metadata', '0');
       script.setAttribute('data-input-position', 'top');
       script.setAttribute('data-theme', 'dark');
-      script.setAttribute('data-lang', 'es');
+      script.setAttribute('data-lang', giscusLang);
       script.setAttribute('data-loading', 'lazy');
       script.crossOrigin = 'anonymous';
       script.async = true;
