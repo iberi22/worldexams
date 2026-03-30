@@ -1,5 +1,7 @@
 # 📊 Estado de Packs de Preguntas - Colombia (ICFES)
 
+> Historical context only. Para trabajo nuevo valida `docs/specs/ACTIVE_PROTOCOLS.md`; la configuración país vigente vive en `config/countries.config.ts`.
+
 > **Fecha de análisis:** 9 de diciembre de 2025
 > **Protocolo:** v2.0 (7 preguntas por pack)
 > **País:** 🇨🇴 Colombia
@@ -289,7 +291,7 @@ CO-[ASIGNATURA]-[GRADO]-[TEMA]-[###]-v[1-7]
 ## 📎 Referencias
 
 - [Protocolo v2.0](../QUESTION_GENERATION_PROTOCOL_V2.md)
-- [Configuración Colombia](../../saberparatodos/config/country.ts)
+- [Configuracion Colombia vigente](../../config/countries.config.ts)
 - [Estructura ICFES oficial](https://www.icfes.gov.co)
 
 ---

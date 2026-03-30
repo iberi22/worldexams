@@ -1,5 +1,7 @@
 # 🎯 [ASIGNACIÓN @jules] Generar 8 Packs de Preguntas para Colombia Grado 9°
 
+> Historical context only. Antes de usar este template para trabajo nuevo valida `docs/specs/ACTIVE_PROTOCOLS.md`; la configuración país vigente vive en `config/countries.config.ts`.
+
 ## 📋 Contexto
 
 Colombia Grado 9° necesita urgentemente más contenido. Actualmente tiene solo **3 packs** (1 por asignatura) y le falta completamente la asignatura **Competencias Ciudadanas**.
@@ -181,7 +183,7 @@ feat(colombia): Agregar 6 packs Grado 9 - Fase 1 by @jules
 - [Protocolo v2.0](./docs/QUESTION_GENERATION_PROTOCOL_V2.md)
 - [Análisis de packs](./docs/reports/colombia-packs-status.md)
 - [Instrucciones completas](./docs/reports/jules-instructions-colombia.md)
-- [Configuración Colombia](./saberparatodos/config/country.ts)
+- [Configuracion Colombia vigente](./config/countries.config.ts)
 
 ---
 
@@ -189,7 +191,7 @@ feat(colombia): Agregar 6 packs Grado 9 - Fase 1 by @jules
 
 Si tienes dudas sobre:
 - **Protocolo v2.0:** Revisa ejemplos en `matematicas/2.json` y `competencias_ciudadanas/1.json`
-- **Contexto cultural:** Consulta `saberparatodos/config/country.ts`
+- **Contexto cultural:** Consulta `config/countries.config.ts`
 - **Temas específicos:** Ve sección completa en `jules-instructions-colombia.md`
 
 Deja comentarios en este issue y te responderemos.

@@ -4,7 +4,7 @@
 > **ESTA GUÍA ESTÁ DEPRECADA.**
 > Ya no se deben crear forks por país como estrategia por defecto.
 > Este documento conserva la intención funcional, pero la implementación correcta es monorepo + lógica compartida + configuración por país.
-> La plantilla base operativa vive en `saberparatodos/`; `apps/worldexams-site/` es solo el sitio principal de `worldexams`.
+> La plantilla base operativa vive en `saberparatodos/`; `apps/landing-worldexams/` es solo el sitio principal de `worldexams`.
 
 Este documento explica cómo añadir un país nuevo sin duplicar la lógica de aplicación.
 
@@ -25,13 +25,13 @@ Antes de añadir un país nuevo:
 
 Antes de cualquier onboarding:
 
-- no usar `apps/worldexams-site/` como base de producto;
+- no usar `apps/landing-worldexams/` como base de producto;
 - usar `saberparatodos/src/` como runtime compartido;
 - tratar el sitio raíz como superficie institucional/global.
 
 ### Paso 1: Crear Configuración del País
 
-Crear archivo `config/country.ts`:
+Extender `config/countries.config.ts`:
 
 ```typescript
 export const countryConfig = {
@@ -140,7 +140,7 @@ Duplicar solo si cambia el runtime o el contrato de negocio.
 
 ### Configuración Inicial
 
-- [ ] `config/country.ts` configurado
+- [ ] `config/countries.config.ts` extendido para el nuevo pais
 - [ ] Estructura de carpetas adaptada
 - [ ] README actualizado
 - [ ] Supabase configurado

@@ -16,4 +16,5 @@ vars = { PUBLIC_API_BASE_URL = "/api", PUBLIC_SITE_URL = "https://saberparatodos
 
 # Preview/staging environment
 [env.preview]
-vars = { PUBLIC_API_BASE_URL = "/api", PUBLIC_SITE_URL = "https://saberparatodos.space" }
+workers_dev = true
+vars = { PUBLIC_API_BASE_URL = "/api", PUBLIC_SITE_URL = "https://preview.workers.dev" }

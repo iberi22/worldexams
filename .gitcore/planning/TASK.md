@@ -4,7 +4,7 @@ Last updated: 2026-03-11
 
 ## In Progress
 
-- [x] Establish `apps/worldexams-site/` as the dedicated workspace for the root site
+- [x] Establish `apps/landing-worldexams/` as the dedicated workspace for the root site
 - [x] Normalize root docs around the site/runtime boundary
 - [x] Create `.gitcore/planning/` as the active planning layer
 - [x] Move `worldexams-api/` to `apps/worldexams-api/`
@@ -14,7 +14,7 @@ Last updated: 2026-03-11
 
 ## Next
 
-- [ ] Decide timing for moving `saberparatodos/` into `apps/saberparatodos/`
+- [ ] Decide later whether `saberparatodos/` should move into `apps/`; current canonical state keeps it in place
 - [ ] Update all package-local READMEs and AGENTS deltas after the remaining moves
 - [ ] Archive or retire legacy planning files once the migration is complete
 

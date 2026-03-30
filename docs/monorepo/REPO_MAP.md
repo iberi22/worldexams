@@ -12,7 +12,7 @@ worldexams/
 ├── masterplan.md
 ├── PLANNING.md
 ├── apps/
-│   ├── worldexams-site/
+│   ├── landing-worldexams/
 │   └── worldexams-api/
 ├── docs/
 ├── supabase/
@@ -29,8 +29,8 @@ worldexams/
 
 | Path | Current role | Target classification |
 |---|---|---|
-| `apps/worldexams-site/` | current `worldexams` organization/site runtime | keep as app package |
-| `saberparatodos/` | main Colombia product | `apps/saberparatodos/` |
+| `apps/landing-worldexams/` | current `worldexams` organization/site runtime | keep as app package |
+| `saberparatodos/` | shared product runtime template | keep at top level until an explicit package move is approved |
 | `apps/worldexams-api/` | Cloudflare Worker/API package | keep as app package |
 | `services/social-orchestrator/` | auxiliary automation service | keep as service package |
 | `docs/` | shared documentation | keep at root |
@@ -44,7 +44,7 @@ worldexams/
 ```text
 worldexams/
 ├── apps/
-│   ├── worldexams-site/
+│   ├── landing-worldexams/
 │   └── worldexams-api/
 ├── saberparatodos/
 ├── services/
@@ -57,7 +57,7 @@ worldexams/
 
 ## Package Boundaries to Preserve
 
-- `apps/worldexams-site`
+- `apps/landing-worldexams`
   - organization-level site
   - country directory and top-level navigation
   - no exam runtime ownership
@@ -89,14 +89,14 @@ Countries should not be added by copying the whole application package unless a 
 
 Interpret paths like this:
 
-- `apps/worldexams-site/src/` = current organization/site frontend
+- `apps/landing-worldexams/src/` = current organization/site frontend
 - `saberparatodos/src/` = current reusable exam-product frontend
 
 This means:
 
 - root site owns organization pages and cross-country discovery
 - `saberparatodos` owns the reusable exam experience
-- exam/runtime features should not be implemented in `apps/worldexams-site/`
+- exam/runtime features should not be implemented in `apps/landing-worldexams/`
 
 ## Files That Must Be Audited During the Move
 
