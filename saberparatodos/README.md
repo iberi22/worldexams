@@ -1,26 +1,19 @@
 # SaberParaTodos
 
-Colombia-focused exam practice platform built by World Exams.
+Shared exam-product runtime for WorldExams. Colombia is the most complete tenant today, but this package is intended to serve as the reusable template for future country products.
 
-SaberParaTodos is the active Colombia application layer for practice, diagnostics, guides, changelog/news, developer API access, and institutional features around ICFES-style exam preparation.
+## Role In The Monorepo
 
-## Product Scope
-
-- Student practice and simulation flows
-- Adaptive English diagnostic
-- Results and local reports
-- Exam guides and preparation pages
-- Developer portal with API keys and API docs
-- Institutional dashboards and group flows
-- Supporting video/social tooling in progress
-
-Question banks are intended to live in a private repository. This package is part of a private prelaunch workspace and should not be treated as a published public product repository yet.
+- Owns the tenant-aware product runtime.
+- Hosts exam UX, guides, diagnostics, results, developer portal, and product-local integrations.
+- Provides the canonical product-side Supabase Functions tree at `saberparatodos/supabase/functions/`.
+- Must stay reusable across countries through configuration, localization, branding, and content layers rather than app forks.
 
 ## Stack
 
-- Astro 5
+- Astro 6
 - Svelte 5
-- TailwindCSS
+- TailwindCSS 4
 - Supabase
 - Cloudflare Workers SSR
 - Playwright
@@ -29,7 +22,7 @@ Question banks are intended to live in a private repository. This package is par
 ## Main Routes
 
 - `/` main practice experience
-- `/guia-examen` exam guide
+- `/guia-examen` tenant-aware exam guide
 - `/preparacion` preparation and registration guide
 - `/manual-plataforma` platform usage manual
 - `/novedades` news and release posts
@@ -37,85 +30,39 @@ Question banks are intended to live in a private repository. This package is par
 - `/developers/dashboard` API key management
 - `/developers/docs` API reference
 
-## Notable Implemented Features
+## Tenanting Model
 
-### Learning Experience
-
-- Multi-subject practice flows
-- English diagnostic with fallback pack resolution
-- Results view with export/download support
-- News, changelog, and platform guidance surfaces
-
-### Developer API
-
-- API key generation via developer dashboard
-- Personal organization bootstrap for first-time developers
-- Bearer-token API gateway
-- OpenAPI reference page
-
-### Platform Infrastructure
-
-- Supabase auth and RLS-backed data model
-- Edge Functions for questions, exam submission, AI tutor, Telegram bot, and organization flows
-- Manual deploy scripts for Cloudflare Workers SSR
-- Validation, build, and E2E test commands
-
-## Local Development
-
-```bash
-npm install
-npm run dev
-```
-
-Build:
-
-```bash
-npm run build
-```
-
-Preview:
-
-```bash
-npm run preview
-```
+- Shared country metadata lives in `../config/countries.config.ts`.
+- `src/config/index.ts` adapts that shared catalog for runtime consumption via `PUBLIC_COUNTRY`.
+- Runtime UI, theming, SEO, and product labels must derive from shared config or explicit tenant content modules.
+- Country onboarding should extend config/content layers instead of duplicating the app.
 
 ## Useful Commands
 
 ```bash
+npm run dev
 npm run build
 npm run lint
 npm run test
 npm run test:unit
 npm run validate:strict
 npm run deploy:manual
+npm run deploy:preview
 ```
 
 ## Project Areas
 
 - UI components: `src/components/`
 - Routes: `src/pages/`
-- Content: `src/content/`
+- Runtime config: `src/config/`
 - Public assets: `public/`
-- Supabase product backend: `supabase/`
-- Scripts: `scripts/`
+- Product backend: `supabase/`
+- Product scripts: `scripts/`
 - Video pipeline: `video-pipeline/`
-
-## Environment
-
-Use `.env.example` as the starting point, but keep server-only secrets out of any client/runtime exposure.
-
-Public-safe variables:
-
-- `PUBLIC_SUPABASE_URL`
-- `PUBLIC_SUPABASE_ANON_KEY`
-- `PUBLIC_SITE_URL`
-- `PUBLIC_API_BASE_URL`
-
-Server/operator secrets must remain private.
 
 ## Deployment
 
-This product is deployed manually via CLI.
+This product deploys manually through Wrangler Workers, not Cloudflare Pages:
 
 ```bash
 npm run sync:api
@@ -123,20 +70,24 @@ npm run build
 npm run deploy:manual
 ```
 
-Canonical production deploy uses Wrangler Worker deploy, not `wrangler pages deploy`.
+Canonical production deploy uses `wrangler deploy --config dist/server/wrangler.json --name=saberparatodos`.
+Preview deploys should use a separate Worker name and `*.workers.dev`, not `page.dev` and not `saberparatodos.space`.
 
-See `PROTOCOLO_DEPLOY_CLI.md` for the operational flow.
-
-## Documentation
-
-Current important docs:
+## Docs
 
 - `../docs/specs/ACTIVE_PROTOCOLS.md`
-- `../docs/specs/MASTER_PLAN.md`
+- `../docs/specs/REPLICACION.md`
 - `PROTOCOLO_DEPLOY_CLI.md`
-- `src/pages/manual-plataforma.astro`
-- `public/openapi.yaml`
+- `../docs/agent-docs/specs/SPEC_CLOUDFLARE_SABERPARATODOS_DEPLOY.md`
 
-## License
+## Environment
 
-See the workspace-level `LICENSE.md`.
+Public-safe variables:
+
+- `PUBLIC_SUPABASE_URL`
+- `PUBLIC_SUPABASE_ANON_KEY`
+- `PUBLIC_SITE_URL`
+- `PUBLIC_API_BASE_URL`
+- `PUBLIC_COUNTRY`
+
+Keep server-only secrets private.

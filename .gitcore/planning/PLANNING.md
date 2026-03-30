@@ -9,7 +9,7 @@ Use this file instead of root-level legacy planning notes.
 
 ## Current Repo Shape
 
-- `apps/worldexams-site/` is the organization/site layer.
+- `apps/landing-worldexams/` is the organization/site layer.
 - `saberparatodos/` is the reusable exam-product runtime and current Colombia implementation.
 - `apps/worldexams-api/` is now the Cloudflare Worker package.
 - `services/social-orchestrator/` is now the Rust service package.

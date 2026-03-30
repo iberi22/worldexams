@@ -4,6 +4,19 @@ import path from 'node:path';
 const repoRoot = process.cwd();
 const wranglerConfigPath = path.join(repoRoot, 'dist', 'server', 'wrangler.json');
 
+function readArg(flag) {
+  const index = process.argv.indexOf(flag);
+  if (index === -1) {
+    return null;
+  }
+
+  return process.argv[index + 1] ?? null;
+}
+
+const target = readArg('--target') || 'production';
+const publicSiteUrlOverride = readArg('--public-site-url');
+const workerNameOverride = readArg('--name');
+
 function extractHostname(value) {
   if (typeof value !== 'string' || value.trim().length === 0) {
     return null;
@@ -21,7 +34,7 @@ function extractHostname(value) {
   }
 }
 
-function normalizeRoutes(config) {
+function normalizeProductionRoutes(config) {
   const candidates = new Set();
 
   for (const route of config.routes ?? []) {
@@ -49,18 +62,53 @@ function normalizeRoutes(config) {
     }));
 }
 
+function normalizeForPreview(config) {
+  delete config.route;
+  delete config.routes;
+  config.workers_dev = true;
+
+  if (publicSiteUrlOverride) {
+    config.vars = {
+      ...(config.vars ?? {}),
+      PUBLIC_SITE_URL: publicSiteUrlOverride,
+    };
+  }
+
+  return config;
+}
+
+function normalizeForProduction(config) {
+  config.workers_dev = false;
+  config.routes = normalizeProductionRoutes(config);
+  return config;
+}
+
 async function main() {
+  if (!['production', 'preview'].includes(target)) {
+    throw new Error(`Unsupported target "${target}". Use production or preview.`);
+  }
+
   const rawConfig = await fs.readFile(wranglerConfigPath, 'utf8');
   const config = JSON.parse(rawConfig);
 
-  config.routes = normalizeRoutes(config);
+  if (workerNameOverride) {
+    config.name = workerNameOverride;
+  }
+
+  if (target === 'preview') {
+    normalizeForPreview(config);
+  } else {
+    normalizeForProduction(config);
+  }
 
   await fs.writeFile(wranglerConfigPath, `${JSON.stringify(config, null, 2)}\n`);
 
+  const routeSummary = Array.isArray(config.routes) && config.routes.length > 0
+    ? config.routes.map((route) => route.pattern).join(', ')
+    : 'none';
+
   process.stdout.write(
-    `[normalize-wrangler-config] Normalized worker routes: ${config.routes
-      .map((route) => route.pattern)
-      .join(', ')}\n`,
+    `[normalize-wrangler-config] target=${target} name=${config.name} publicSite=${config?.vars?.PUBLIC_SITE_URL ?? 'unset'} routes=${routeSummary}\n`,
   );
 }
 
