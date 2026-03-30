@@ -16,6 +16,32 @@ $ErrorActionPreference = 'Stop'
 $repoRoot = Split-Path -Parent $PSScriptRoot
 Set-Location $repoRoot
 
+function Get-PowerShellHost {
+  $pwsh = Get-Command pwsh -ErrorAction SilentlyContinue
+  if ($pwsh) {
+    return $pwsh.Source
+  }
+
+  $powershell = Get-Command powershell.exe -ErrorAction SilentlyContinue
+  if ($powershell) {
+    return $powershell.Source
+  }
+
+  throw '[deploy] ABORT: No PowerShell host found. Install pwsh or ensure powershell.exe is available.'
+}
+
+function Invoke-RepoScript {
+  param(
+    [string[]]$Arguments
+  )
+
+  $shellHost = Get-PowerShellHost
+  & $shellHost -NoProfile -ExecutionPolicy Bypass @Arguments
+  if ($LASTEXITCODE -ne 0) {
+    throw "[deploy] Script failed: $($Arguments -join ' ')"
+  }
+}
+
 function Resolve-PreviewBaseUrl {
   param(
     [string]$Name,
@@ -82,7 +108,7 @@ if ($isProductionDeploy) {
 
 if (-not $Fast) {
   Write-Host '[deploy] Copying API artifacts...' -ForegroundColor Gray
-  pwsh -File scripts/copy-api.ps1
+  Invoke-RepoScript -Arguments @('-File', 'scripts/copy-api.ps1')
 
   if (-not $SkipValidate) {
     Write-Host '[deploy] Running validation...' -ForegroundColor Gray
@@ -113,15 +139,12 @@ if ($LASTEXITCODE -ne 0) {
 
 if (-not $SkipVerify) {
   Write-Host "[deploy] Verifying deployment at $BaseUrl..." -ForegroundColor Gray
-  pwsh -File scripts/verify-deployment.ps1 -BaseUrl $BaseUrl -Mode $Target
+  Invoke-RepoScript -Arguments @('-File', 'scripts/verify-deployment.ps1', '-BaseUrl', $BaseUrl, '-Mode', $Target)
 }
 
 if ($isProductionDeploy -and -not $SkipTag) {
   Write-Host "[deploy] Creating deploy tag..." -ForegroundColor Gray
-  pwsh -File scripts/create-deploy-tag.ps1 -ProjectName $ProjectName -RemoteName $RemoteName -Push
-  if ($LASTEXITCODE -ne 0) {
-    throw '[deploy] create-deploy-tag failed.'
-  }
+  Invoke-RepoScript -Arguments @('-File', 'scripts/create-deploy-tag.ps1', '-ProjectName', $ProjectName, '-RemoteName', $RemoteName, '-Push')
 }
 
 Write-Host "[deploy] Manual deployment to $Target finished successfully." -ForegroundColor Green
