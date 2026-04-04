@@ -185,7 +185,7 @@ Para la función $f(x)=\frac{1}{x}$ se sabe que:
 
 ### Options
 - [ ] A) Existe y vale $0$. <!-- feedback: Incorrecto. Los límites laterales no se acercan a cero ni coinciden entre sí. -->
-- [ ] B) Existe y vale infinito. <!-- feedback: Incorrecto. Decir simplemente “infinito” no resuelve la diferencia entre los laterales. -->
+- [ ] B) Existe y vale infinito. <!-- feedback: Incorrecto. Decir simplemente infinito no resuelve la diferencia entre los laterales. -->
 - [x] C) No existe como límite bilateral porque los laterales no coinciden. <!-- feedback: Correcto. Para que exista el límite bilateral, ambos laterales deben tender al mismo comportamiento. -->
 - [ ] D) Existe solo porque la función está definida para x distinta de 0. <!-- feedback: Incorrecto. Estar definida alrededor del punto no garantiza la existencia del límite. -->
 
@@ -214,7 +214,7 @@ Se analiza la función $f(x)=|x|$ en $x=0$.
 - [ ] D) Porque la gráfica corta al eje x. <!-- feedback: Incorrecto. Cortar el eje x no impide derivar una función. -->
 
 ### Explicación Pedagógica
-Una función puede ser continua y aun así no ser derivable. En el valor absoluto aparece una “punta” donde las pendientes laterales no coinciden.
+Una función puede ser continua y aun así no ser derivable. En el valor absoluto aparece una punta donde las pendientes laterales no coinciden.
 
 ---
 
@@ -262,7 +262,7 @@ Se estudia la función compuesta $H(x)=(4x^2-7)^5$.
 - [ ] D) $20x(4x^2-7)^4$ <!-- feedback: Incorrecto. Falta un factor 2 al multiplicar 5 por 8x. -->
 
 ### Explicación Pedagógica
-La regla de la cadena dice que se deriva la “función de afuera” y luego se multiplica por la derivada de la “función de adentro”.
+La regla de la cadena dice que se deriva la función de afuera y luego se multiplica por la derivada de la función de adentro.
 
 ---
 
@@ -322,7 +322,7 @@ La velocidad es la derivada de la posición respecto al tiempo. Cuando la veloci
 **Expected_Success:** 0.4
 
 ### Contexto
-Un estudiante afirma: “Si la derivada de una función es cero en un punto, entonces allí siempre hay un máximo”.
+Un estudiante afirma: Si la derivada de una función es cero en un punto, entonces allí siempre hay un máximo.
 
 ### Enunciado
 ¿Cuál es la mejor evaluación de esa afirmación?
@@ -490,7 +490,7 @@ La optimización con derivadas busca puntos críticos y luego interpreta el mode
 **Expected_Success:** 0.18
 
 ### Contexto
-Un estudiante afirma: “Si una función es derivable en un punto, entonces automáticamente es continua en ese punto”.
+Un estudiante afirma: Si una función es derivable en un punto, entonces automáticamente es continua en ese punto.
 
 ### Enunciado
 ¿Cómo debe evaluarse esa afirmación?
