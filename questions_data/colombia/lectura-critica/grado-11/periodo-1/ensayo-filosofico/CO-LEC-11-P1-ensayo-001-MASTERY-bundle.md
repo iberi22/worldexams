@@ -18,7 +18,7 @@ rubric_baseline: "comprensión_literal, inferencia_crítica, evaluación_postura
 ---
 
 ## TEXTO 1: Sobre la modernidad líquida (Adaptación de Zygmunt Bauman)
-*“La modernidad líquida es una figura de cambio y de constante transitoriedad. Los sólidos conservan su forma y persisten en el tiempo: duran. Los líquidos son informes y se transforman constantemente. A diferencia del ayer, en la era contemporánea las estructuras sociales ya no tienen tiempo de solidificarse y no pueden servir como marcos de referencia para entender la verdad sostenida a largo plazo. En esta etapa, los logros individuales no pueden solidificarse en bienes duraderos. Hoy el éxito es eludir el compromiso, mantenerse siempre en movimiento. En el amor, en el trabajo, nos aterra atarnos a algo que podría volverse obsoleto mañana.”*
+*La modernidad líquida es una figura de cambio y de constante transitoriedad. Los sólidos conservan su forma y persisten en el tiempo: duran. Los líquidos son informes y se transforman constantemente. A diferencia del ayer, en la era contemporánea las estructuras sociales ya no tienen tiempo de solidificarse y no pueden servir como marcos de referencia para entender la verdad sostenida a largo plazo. En esta etapa, los logros individuales no pueden solidificarse en bienes duraderos. Hoy el éxito es eludir el compromiso, mantenerse siempre en movimiento. En el amor, en el trabajo, nos aterra atarnos a algo que podría volverse obsoleto mañana.*
 
 ---
 
@@ -138,7 +138,7 @@ Las palabras en la lectura crítica tienen cargas filosóficas pesadas. "Obsolet
 ---
 
 ## TEXTO 2: La caverna digital (Por José Carlos Ruiz, adaptado)
-*“Platón diseñó el mito de la caverna para mostrar a unos prisioneros atados, observando sombras que creían ser la única realidad. Hoy, hemos perfeccionado la caverna. Los prisioneros actuales no necesitan cadenas de hierro; llevan las pantallas en sus bolsillos. Entran voluntariamente. El algoritmo de la caverna digital no proyecta sombras al azar, sino las sombras exactas que cada prisionero desea ver, reforzando sus sesgos cognitivos. Al ofrecer un confort adictivo de validación constante, el exterior de la cueva —el mundo real, que exige debate, disenso y esfuerzo— se vuelve hostil. La peor condena del prisionero contemporáneo es su convicción total de que es un hombre absolutamente libre.”*
+*Platón diseñó el mito de la caverna para mostrar a unos prisioneros atados, observando sombras que creían ser la única realidad. Hoy, hemos perfeccionado la caverna. Los prisioneros actuales no necesitan cadenas de hierro; llevan las pantallas en sus bolsillos. Entran voluntariamente. El algoritmo de la caverna digital no proyecta sombras al azar, sino las sombras exactas que cada prisionero desea ver, reforzando sus sesgos cognitivos. Al ofrecer un confort adictivo de validación constante, el exterior de la cueva —el mundo real, que exige debate, disenso y esfuerzo— se vuelve hostil. La peor condena del prisionero contemporáneo es su convicción total de que es un hombre absolutamente libre.*
 
 ---
 
@@ -258,7 +258,7 @@ El nivel superior de Pensamiento Crítico (Competencia evaluadora ICFES) no solo
 ---
 
 ## TEXTO 3: Sobre la Post-Verdad (Ensayo Político Breve)
-*“La post-verdad no implica que los hechos objetivos no existan, sino que se han vuelto secundarios. En la plaza pública contemporánea, una emoción bien articulada y compartida por una masa enojada tiene más peso que una estadística verificable y aburrida producida por expertos. El ciudadano de la post-verdad no busca ser informado; busca ser confirmado en su ira. Así, el político exitoso ya no es el arquitecto prudente de la polis de Aristóteles que educa argumentando lógicamente hacia el bien común, sino el actor dramático que sabe tocar la tecla del resentimiento identitario instintivo de sus votantes alienados, construyendo enemigos invisibles y murallas retóricas infalibles de pura narrativa tribal.”*
+*La post-verdad no implica que los hechos objetivos no existan, sino que se han vuelto secundarios. En la plaza pública contemporánea, una emoción bien articulada y compartida por una masa enojada tiene más peso que una estadística verificable y aburrida producida por expertos. El ciudadano de la post-verdad no busca ser informado; busca ser confirmado en su ira. Así, el político exitoso ya no es el arquitecto prudente de la polis de Aristóteles que educa argumentando lógicamente hacia el bien común, sino el actor dramático que sabe tocar la tecla del resentimiento identitario instintivo de sus votantes alienados, construyendo enemigos invisibles y murallas retóricas infalibles de pura narrativa tribal.*
 
 ---
 
@@ -496,5 +496,5 @@ Si el problema es la inmadurez adictiva para enfrentar un mundo sólido con dive
 
 ---
 
-## 📊 Metadata de Calibración
+##  Metadata de Calibración
 (El espectro evaluado domina hermenéuticamente inter-textos filosóficos contemporáneos aplicando niveles Cognitivos Bloom avanzados cumpliendo las 20 iteraciones del Protocolo 5 Mastery de Lectura Crítica).

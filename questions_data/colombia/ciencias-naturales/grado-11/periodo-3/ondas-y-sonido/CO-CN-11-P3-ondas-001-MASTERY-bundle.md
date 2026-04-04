@@ -344,7 +344,7 @@ Frecuencia y longitud de onda cambian de manera inversa cuando la velocidad en e
 **Expected_Success:** 0.34
 
 ### Contexto
-Un musicо afina una cuerda de guitarra aumentando su tension.
+Un music afina una cuerda de guitarra aumentando su tension.
 
 ### Enunciado
 ¿Que efecto se espera sobre el sonido producido, si las demas condiciones se mantienen?

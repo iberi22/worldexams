@@ -557,5 +557,5 @@ Diseñar políticas tarifables exige manejar funciones inversamente proporcional
 
 ---
 
-## 📊 Metadata de Calibración
+##  Metadata de Calibración
 (Las 20 preguntas calibradas cumplen el espectro analítico desde modelación económica sencilla de dificultad 4, hasta proyecciones trigonométricas y límites macroeconómicos en infinito de dificultad 10, validando la Maestría Total del Protocolo 5 en estudiantes C2-Genio Matemático de la red general colombiana ICFES Saber 11).
