@@ -25,7 +25,7 @@ Este bundle trabaja lectura de ensayos, identificación de tesis, inferencias, r
 ---
 
 ## TEXTO 1
-*“La hiperconexión promete acercarnos, pero también reorganiza nuestra atención. Cada notificación interrumpe una tarea y reordena prioridades sin que lo notemos. Por eso el problema no es solo cuántas horas pasamos frente a una pantalla, sino quién decide qué merece nuestra concentración. Una sociedad incapaz de sostener la atención crítica termina aceptando opiniones instantáneas como si fueran juicios maduros.”*
+*La hiperconexión promete acercarnos, pero también reorganiza nuestra atención. Cada notificación interrumpe una tarea y reordena prioridades sin que lo notemos. Por eso el problema no es solo cuántas horas pasamos frente a una pantalla, sino quién decide qué merece nuestra concentración. Una sociedad incapaz de sostener la atención crítica termina aceptando opiniones instantáneas como si fueran juicios maduros.*
 
 ---
 
@@ -150,7 +150,7 @@ Una buena síntesis conserva el núcleo argumentativo sin exagerarlo ni reducirl
 ---
 
 ## TEXTO 2
-*“La tolerancia no consiste en dejar de juzgar. Consiste, más bien, en aceptar que el juicio propio debe convivir con la posibilidad de estar incompleto. En una sociedad plural, escuchar al otro no es un gesto de cortesía sino una disciplina intelectual. Quien convierte toda discrepancia en amenaza termina confundiendo convicción con cerrazón.”*
+*La tolerancia no consiste en dejar de juzgar. Consiste, más bien, en aceptar que el juicio propio debe convivir con la posibilidad de estar incompleto. En una sociedad plural, escuchar al otro no es un gesto de cortesía sino una disciplina intelectual. Quien convierte toda discrepancia en amenaza termina confundiendo convicción con cerrazón.*
 
 ---
 
@@ -275,7 +275,7 @@ La integración entre textos exige encontrar el problema común que los articula
 ---
 
 ## TEXTO 3
-*“El progreso técnico suele presentarse como un avance neutral. Sin embargo, toda innovación altera relaciones de poder: distribuye ventajas, redefine trabajos posibles y decide qué habilidades valen más en un momento histórico. Por eso una sociedad democrática no debería preguntarse solo qué tan rápido adopta una tecnología, sino bajo qué criterios la orienta y quién participa en esa decisión.”*
+*El progreso técnico suele presentarse como un avance neutral. Sin embargo, toda innovación altera relaciones de poder: distribuye ventajas, redefine trabajos posibles y decide qué habilidades valen más en un momento histórico. Por eso una sociedad democrática no debería preguntarse solo qué tan rápido adopta una tecnología, sino bajo qué criterios la orienta y quién participa en esa decisión.*
 
 ---
 

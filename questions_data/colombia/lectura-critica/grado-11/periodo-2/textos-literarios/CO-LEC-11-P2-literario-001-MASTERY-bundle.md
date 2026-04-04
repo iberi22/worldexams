@@ -148,5 +148,5 @@ En la intrincada cosmología literaria del escritor argentino, las direcciones e
 
 ---
 
-## 📊 Metadata de Calibración
+##  Metadata de Calibración
 (15 ítems condensados del Bloque de Lectura Crítica II. Orientados a transferencia de exégesis, simbolismo literario paramétrico, figuras andinas paramétricas asimiladas lúdicas fácticas de tiza mística empírica andés paramétrico andino genérico asimilador pasivo andino fáctico y semiótica pura lúdica de textos densos).
