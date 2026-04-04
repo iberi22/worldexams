@@ -3,6 +3,7 @@ import Layout from '../../../layouts/Layout.astro';
 import ExamView from '../../../components/ExamView.svelte';
 import { countries } from '../../../data/countries';
 import { getCollection } from 'astro:content';
+import { parseQuestionsFromBundle } from '../../../lib/bundleParser';
 
 export async function getStaticPaths() {
   return countries
@@ -12,11 +13,6 @@ export async function getStaticPaths() {
       props: { countryData: country },
     }));
 }
-
-import { parseQuestionsFromBundle } from '../../../lib/bundleParser';
-// ... (imports)
-
-// ... (getStaticPaths)
 
 const { country } = Astro.params;
 const { countryData } = Astro.props;
@@ -33,26 +29,35 @@ const countryQuestions = allQuestions.filter(q => {
   return questionPath === '_shared' || questionPath === countryFolder;
 });
 
-// Shuffle and take bundles (not questions directly, but bundles)
-// Note: Each bundle has 7 questions. If we want 10 questions total,
-// we should take 2 bundles (14 qs) and slice, or take more.
-const shuffledBundles = countryQuestions.sort(() => Math.random() - 0.5);
-const selectedBundles = shuffledBundles.slice(0, 5); // Take top 5 bundles -> ~35 questions
+// Parse all bundles with their quality status
+const bundlesWithQuality = countryQuestions.map(q => ({
+  id: q.id,
+  quality_status: (q.data as any).quality_status || 'UNREVISED',
+  parsed: parseQuestionsFromBundle(q)
+}));
 
-// Parse and flatten
-const parsedBundles = selectedBundles.map(parseQuestionsFromBundle);
-const allParsedQuestions = parsedBundles.flat();
+const allParsedQuestions = bundlesWithQuality.flatMap(b => 
+  b.parsed.map(q => ({
+    ...q,
+    bundleId: b.id,
+    quality_status: b.quality_status
+  }))
+);
 
-// Now slice to 10 for the quiz
-const questions = allParsedQuestions.slice(0, 10);
+// Count by quality status for filter UI
+const countReviewed = countryQuestions.filter(q => (q.data as any).quality_status === 'REVIEWED').length;
+const countUnreviewed = countryQuestions.filter(q => (q.data as any).quality_status !== 'REVIEWED').length;
+const countAll = countryQuestions.length;
 
+// Initial questions (will be replaced by client-side filtering)
+const initialQuestions = allParsedQuestions.slice(0, 10);
 ---
 
 <Layout title={`Práctica - ${countryData.name}`}>
   <section class="min-h-screen py-24 px-4">
     <div class="max-w-4xl mx-auto">
       <!-- Header -->
-      <div class="text-center mb-12">
+      <div class="text-center mb-8">
         <a href={`/exams/${country}`} class="text-text-secondary hover:text-accent-cyan transition-colors mb-4 inline-block">
           ← Volver a {countryData.name}
         </a>
@@ -63,14 +68,120 @@ const questions = allParsedQuestions.slice(0, 10);
         <p class="text-text-secondary mt-2">{countryData.exam}</p>
       </div>
 
-      <!-- Exam Component -->
-      <ExamView
-        client:load
-        questions={questions}
-        countryName={countryData.name}
-        countryFlag={countryData.flag}
-        countryCode={country}
-      />
+      <!-- Quality Filter Selector -->
+      <div class="mb-8 p-4 bg-dark-200 rounded-lg">
+        <p class="text-text-secondary text-sm mb-3">Filtrar por estado de revisión:</p>
+        <div class="flex flex-wrap gap-3" id="filter-buttons">
+          <button
+            data-filter="all"
+            class="filter-btn active px-4 py-2 rounded-lg font-medium transition-all bg-accent-cyan text-white"
+          >
+            Todas ({countAll})
+          </button>
+          <button
+            data-filter="reviewed"
+            class="filter-btn px-4 py-2 rounded-lg font-medium transition-all bg-dark-100 text-text-secondary hover:bg-dark-300"
+          >
+            ✅ Revisadas ({countReviewed})
+          </button>
+          <button
+            data-filter="unreviewed"
+            class="filter-btn px-4 py-2 rounded-lg font-medium transition-all bg-dark-100 text-text-secondary hover:bg-dark-300"
+          >
+            ⏳ Sin revisar ({countUnreviewed})
+          </button>
+        </div>
+        <p class="text-text-secondary text-xs mt-3" id="filter-status">
+          Mostrando 10 preguntas aleatorias de {countAll} bundles disponibles.
+        </p>
+      </div>
+
+      <!-- Exam Component Container -->
+      <div id="exam-container">
+        <ExamView
+          client:load
+          questions={initialQuestions}
+          countryName={countryData.name}
+          countryFlag={countryData.flag}
+          countryCode={country}
+        />
+      </div>
     </div>
   </section>
 </Layout>
+
+<script define:vars={{ allParsedQuestions, countAll, countReviewed, countUnreviewed }}>
+  // Client-side filtering - completely handles filtering without page reload
+  const filterButtons = document.querySelectorAll('.filter-btn');
+  const filterStatus = document.getElementById('filter-status');
+  const examContainer = document.getElementById('exam-container');
+  
+  let currentFilter = 'all';
+
+  function shuffleArray(array) {
+    const shuffled = [...array];
+    for (let i = shuffled.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    }
+    return shuffled;
+  }
+
+  function applyFilter(filter) {
+    currentFilter = filter;
+    
+    // Update button styles
+    filterButtons.forEach(btn => {
+      const btnFilter = btn.getAttribute('data-filter');
+      if (btnFilter === filter) {
+        btn.classList.remove('bg-dark-100', 'text-text-secondary', 'hover:bg-dark-300');
+        btn.classList.add('bg-accent-cyan', 'text-white', 'active');
+      } else {
+        btn.classList.add('bg-dark-100', 'text-text-secondary', 'hover:bg-dark-300');
+        btn.classList.remove('bg-accent-cyan', 'text-white', 'active');
+      }
+    });
+
+    // Filter questions
+    let filteredQuestions = allParsedQuestions;
+    if (filter === 'reviewed') {
+      filteredQuestions = allParsedQuestions.filter(q => q.quality_status === 'REVIEWED');
+    } else if (filter === 'unreviewed') {
+      filteredQuestions = allParsedQuestions.filter(q => q.quality_status !== 'REVIEWED');
+    }
+
+    // Update status
+    const counts = { all: countAll, reviewed: countReviewed, unreviewed: countUnreviewed };
+    const count = counts[filter];
+    filterStatus.textContent = `Mostrando 10 preguntas aleatorias de ${count} bundles ${filter === 'all' ? 'disponibles' : filter === 'reviewed' ? 'revisados' : 'sin revisar'}.`;
+
+    // Take 10 random questions
+    const selectedQuestions = shuffleArray(filteredQuestions).slice(0, 10);
+
+    // Find and re-render ExamView component
+    // We need to trigger a re-render of the Svelte component
+    const examViewElement = document.querySelector('ExamView');
+    if (examViewElement && examViewElement.onFilterChange) {
+      examViewElement.onFilterChange(selectedQuestions);
+    } else {
+      // Fallback: reload the component by recreating the element
+      // The ExamView component should handle question updates via props
+      window.location.reload();
+    }
+  }
+
+  filterButtons.forEach(btn => {
+    btn.addEventListener('click', () => {
+      const filter = btn.getAttribute('data-filter');
+      if (filter) applyFilter(filter);
+    });
+  });
+
+  // Check URL for initial filter on page load
+  const urlParams = new URLSearchParams(window.location.search);
+  const urlFilter = urlParams.get('filter');
+  if (urlFilter && ['all', 'reviewed', 'unreviewed'].includes(urlFilter)) {
+    // Delay to ensure component is mounted
+    setTimeout(() => applyFilter(urlFilter), 100);
+  }
+</script>
