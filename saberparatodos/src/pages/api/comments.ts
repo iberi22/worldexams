@@ -23,11 +23,12 @@ export const GET: APIRoute = async ({ url, locals }) => {
   try {
     const env = getServerRuntimeEnv(locals as RuntimeLocals);
     const supabase = createServerSupabaseClient(env);
-    // Show all comments (approved and pending) - pending visible for admin review
+    // Only show approved comments to public
     const { data, error } = await supabase
       .from('question_comments')
       .select('*')
       .eq('question_id', questionId)
+      .eq('is_approved', true)
       .order('created_at', { ascending: true });
 
     if (error) throw error;
