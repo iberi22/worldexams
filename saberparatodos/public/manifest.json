@@ -1,0 +1,46 @@
+{
+  "name": "SaberParaTodos - Banco de Preguntas ICFES",
+  "short_name": "SaberParaTodos",
+  "description": "Practica con el mejor banco de preguntas open source para Colombia. Simulacros ICFES, Saber 11, Preicfes y más.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#1a1a2e",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "es-CO",
+  "categories": ["education", "books"],
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Practicar",
+      "short_name": "Practicar",
+      "description": "Ir a practicar preguntas",
+      "url": "/practica",
+      "icons": [{ "src": "/favicon.png", "sizes": "any" }]
+    },
+    {
+      "name": "Pruebas Gratis",
+      "short_name": "Pruebas",
+      "description": "Realizar simulacros gratis",
+      "url": "/pruebas-saber-gratis",
+      "icons": [{ "src": "/favicon.png", "sizes": "any" }]
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false
+}
