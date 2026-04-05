@@ -1421,8 +1421,9 @@
             <button
               type="button"
               disabled={isDisabled}
-              class="py-2 px-1 rounded border transition-all duration-200 font-bold text-sm {isDisabled ? 'opacity-40 cursor-not-allowed border-white/10 bg-transparent text-white/30' : isSelected ? 'bg-emerald-500 text-white border-emerald-500 cursor-pointer' : 'bg-white/5 border-white/20 hover:border-white/40 hover:bg-white/10 text-white/60 cursor-pointer'}"
+              class="py-2 px-1 rounded-lg border-2 transition-all duration-200 font-bold text-sm {isDisabled ? 'opacity-40 cursor-not-allowed border-white/10 bg-transparent text-white/30' : isSelected ? 'bg-emerald-500/20 text-emerald-400 border-emerald-400 cursor-pointer shadow-[0_0_12px_rgba(52,211,153,0.4)]' : 'bg-white/5 border-white/20 hover:border-white/40 hover:bg-white/10 text-white/60 cursor-pointer'}"
               onclick={() => questionCount = count}
+              style="min-width: 44px; min-height: 44px;"
             >
               {count}
             </button>
