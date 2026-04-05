@@ -267,13 +267,17 @@ async function handleCommentModerationCallback(ctx: any, action: string, comment
     .single();
 
   if (action === "app") {
-    // Update comment as approved
+    // NOTE: Comment stays in pending state (is_approved: false)
+    // This allows admin review before the comment becomes visible
+    // The GitHub issue is still created for tracking
+    /*
     const { error } = await supabaseAdmin
       .from("question_comments")
       .update({ is_approved: true })
       .eq("id", commentId);
 
     if (error) throw error;
+    */
 
     // Create GitHub issue for the user report
     const questionId = commentData?.question_id || commentData?.questions?.id || "unknown";
