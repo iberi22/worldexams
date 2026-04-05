@@ -1,7 +1,7 @@
 <script lang="ts">
   import { onMount } from 'svelte';
   import FlashlightCard from './FlashlightCard.svelte';
-  import PartyPlayer from './PartyPlayer.svelte';
+  // import PartyPlayer from './PartyPlayer.svelte'; // TODO: Implement PartyPlayer component
 
   let viewState = $state<'input' | 'playing'>('input');
   let partyCode = $state<string>('');
@@ -62,6 +62,9 @@
       </div>
     </div>
   {:else}
-    <PartyPlayer {partyCode} />
+    <div class="text-center p-8">
+      <p class="text-emerald-400 text-xl">Party Mode coming soon...</p>
+      <p class="opacity-60 mt-2">Código: {partyCode}</p>
+    </div>
   {/if}
 </div>
