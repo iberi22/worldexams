@@ -9,6 +9,47 @@ const SUPABASE_SERVICE_ROLE_KEY = Deno.env.get("SUPABASE_SERVICE_ROLE_KEY") || "
 const DEEPSEEK_API_KEY = Deno.env.get("DEEPSEEK_API_KEY") || "";
 const LINK_TELEGRAM_URL = Deno.env.get("LINK_TELEGRAM_URL") || "https://saberparatodos.co/vincular-telegram";
 const REPORT_BASE_URL = Deno.env.get("REPORT_BASE_URL") || "https://saberparatodos.co/informes/bot/";
+const GITHUB_TOKEN = Deno.env.get("GITHUB_TOKEN") || "";
+const GITHUB_REPO = Deno.env.get("GITHUB_REPO") || "iberi22/worldexams";
+
+// GitHub Issue creation for approved comments
+async function createGitHubIssue(questionId: string, comment: string, userName: string): Promise<string | null> {
+  if (!GITHUB_TOKEN) {
+    console.warn("GITHUB_TOKEN not configured, skipping issue creation");
+    return null;
+  }
+  
+  const issueTitle = `[User Report] Question: ${questionId}`;
+  const issueBody = `## User Report\n\n**Question ID:** ${questionId}\n**Reported by:** ${userName}\n\n---\n\n## User Comment:\n${comment}\n\n---\n\n**Status:** Needs Review\n\n---\n*This issue was automatically created from a user report on WorldExams.*`;
+  
+  try {
+    const response = await fetch(`https://api.github.com/repos/${GITHUB_REPO}/issues`, {
+      method: "POST",
+      headers: {
+        "Authorization": `token ${GITHUB_TOKEN}`,
+        "Accept": "application/vnd.github.v3+json",
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        title: issueTitle,
+        body: issueBody,
+        labels: ["user-report", "question-issue"]
+      })
+    });
+    
+    if (response.ok) {
+      const data = await response.json();
+      console.log(`GitHub issue created: ${data.html_url}`);
+      return data.html_url;
+    } else {
+      console.error("Failed to create GitHub issue:", response.status, await response.text());
+      return null;
+    }
+  } catch (error) {
+    console.error("Error creating GitHub issue:", error);
+    return null;
+  }
+}
 
 if (!TELEGRAM_BOT_TOKEN) throw new Error("TELEGRAM_BOT_TOKEN is required");
 if (!SUPABASE_URL) throw new Error("SUPABASE_URL is required");
@@ -218,7 +259,15 @@ async function sendCommentModerationMessage(comment: CommentModerationPayload) {
 }
 
 async function handleCommentModerationCallback(ctx: any, action: string, commentId: string) {
+  // Fetch comment details first for GitHub issue creation
+  const { data: commentData, error: fetchError } = await supabaseAdmin
+    .from("question_comments")
+    .select("*, questions(id)")
+    .eq("id", commentId)
+    .single();
+
   if (action === "app") {
+    // Update comment as approved
     const { error } = await supabaseAdmin
       .from("question_comments")
       .update({ is_approved: true })
@@ -226,13 +275,30 @@ async function handleCommentModerationCallback(ctx: any, action: string, comment
 
     if (error) throw error;
 
+    // Create GitHub issue for the user report
+    const questionId = commentData?.question_id || commentData?.questions?.id || "unknown";
+    const issueUrl = await createGitHubIssue(
+      questionId,
+      commentData?.content || "",
+      commentData?.user_name || "Anonymous"
+    );
+
+    // Update comment with GitHub issue URL if created
+    if (issueUrl) {
+      await supabaseAdmin
+        .from("question_comments")
+        .update({ github_issue_url: issueUrl })
+        .eq("id", commentId);
+    }
+
     try {
-      await ctx.answerCallbackQuery({ text: "✅ Comentario aprobado" });
+      const issueText = issueUrl ? `\n\n🔗 Issue: ${issueUrl}` : "";
+      await ctx.answerCallbackQuery({ text: "✅ Comentario aprobado" + (issueUrl ? " Issue creado" : "") });
       if (ctx.callbackQuery.message?.chat?.id && ctx.callbackQuery.message?.message_id) {
         await bot.api.editMessageText(
           ctx.callbackQuery.message.chat.id,
           ctx.callbackQuery.message.message_id,
-          `✅ <b>Comentario Aprobado</b>\n\n${ctx.callbackQuery.message.text || ""}`,
+          `✅ <b>Comentario Aprobado</b>${issueText}\n\n${ctx.callbackQuery.message.text || ""}`,
           {
             parse_mode: "HTML",
             reply_markup: { inline_keyboard: [] },
