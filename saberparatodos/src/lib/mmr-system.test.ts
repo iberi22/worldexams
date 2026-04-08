@@ -4,6 +4,7 @@ import {
   getExpectedScore,
   difficultyToRating,
   getGradeMultiplier,
+  estimateIcfesScore,
   getSimulatedIcfesScore,
   getRankTitle,
 } from './mmr-system';
@@ -76,13 +77,45 @@ describe('MMR System', () => {
     });
   });
 
-  describe('getSimulatedIcfesScore', () => {
-    it('should map 1000 MMR to 250 ICFES', () => {
-      expect(getSimulatedIcfesScore(1000)).toBe(250);
+  describe('estimateIcfesScore', () => {
+    it('should stay conservative with low evidence', () => {
+      const estimate = estimateIcfesScore({
+        mmr: 1300,
+        accuracy: 0.9,
+        evidenceCount: 10,
+        averageDifficulty: 4.5,
+        consistencyScore: 85,
+        subjectCoverage: 1
+      });
+
+      expect(estimate.score).toBeLessThan(300);
+      expect(estimate.confidence).toBe('low');
+      expect(estimate.minimumEvidenceMet).toBe(false);
     });
 
-    it('should cap at 500', () => {
-      expect(getSimulatedIcfesScore(3000)).toBe(500);
+    it('should scale up with broad evidence and consistency', () => {
+      const estimate = estimateIcfesScore({
+        mmr: 1450,
+        accuracy: 0.82,
+        evidenceCount: 120,
+        averageDifficulty: 3.8,
+        consistencyScore: 82,
+        subjectCoverage: 4
+      });
+
+      expect(estimate.score).toBeGreaterThan(320);
+      expect(estimate.confidence).toBe('high');
+      expect(estimate.minimumEvidenceMet).toBe(true);
+    });
+  });
+
+  describe('getSimulatedIcfesScore (deprecated)', () => {
+    it('should delegate to the proxy estimator for compatibility', () => {
+      expect(getSimulatedIcfesScore(1000)).toBeLessThan(250);
+    });
+
+    it('should still cap at 500', () => {
+      expect(getSimulatedIcfesScore(3000, { evidenceCount: 200, accuracy: 1, subjectCoverage: 4, consistencyScore: 100, averageDifficulty: 5 })).toBe(500);
     });
   });
 

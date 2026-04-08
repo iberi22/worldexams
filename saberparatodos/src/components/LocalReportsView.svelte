@@ -573,14 +573,14 @@
                   <div class="absolute -top-10 -right-10 w-40 h-40 bg-emerald-500/5 rounded-full blur-[60px] group-hover:bg-emerald-500/10 transition-colors"></div>
 
                   <div class="flex items-center justify-between mb-8">
-                    <div class="text-[10px] font-black uppercase tracking-[0.2em] text-white/40">SIMULADO ICFES</div>
+                    <div class="text-[10px] font-black uppercase tracking-[0.2em] text-white/40">ESTIMADO ICFES</div>
                     <div class="flex gap-2">
                         <button
                           class="p-2.5 bg-white/5 hover:bg-white/10 rounded-xl transition-all text-white/10 hover:text-emerald-400 border border-white/5"
                           onclick={(e) => {
                             e.stopPropagation();
-                            const score = userProfile?.simulatedIcfesScore || 0;
-                            const text = `¡Mi Puntaje Simulado ICFES es ${score}/500 en SaberParaTodos! 🚀`;
+                            const score = userProfile?.icfesEstimate?.score || 0;
+                            const text = `Mi puntaje estimado de practica es ${score}/500 (metodo proxy, no oficial ICFES) en SaberParaTodos.`;
                             navigator.clipboard.writeText(text);
                           }}
                         >
@@ -602,30 +602,25 @@
                   </div>
 
                   <div class="flex items-end gap-3 mb-2">
-                    <div class={`text-7xl font-black tracking-tighter ${getRankColor(userProfile.globalMMR)} drop-shadow-2xl`}>
-                      {userProfile.simulatedIcfesScore}
+                    <div class="text-7xl font-black tracking-tighter text-white drop-shadow-2xl">
+                      {userProfile.icfesEstimate.score}
                     </div>
                     <div class="text-xl font-black text-white/20 mb-3 tracking-widest">/500</div>
                   </div>
 
                   <div class="mb-8">
-                    <div class="text-xl font-black text-white tracking-tight flex items-center gap-2 mb-2">
-                      {userProfile.rankTitle}
-                      <span class="w-2 h-2 bg-emerald-500 rounded-full"></span>
-                    </div>
                     <div class="text-[10px] text-white/40 font-medium uppercase tracking-[0.1em] leading-relaxed">
-                      El puntaje simulado se basa en tu MMR actual ({userProfile.globalMMR}) y precisión global.
+                      Lectura proxy con precision {Math.round(userProfile.globalAccuracy * 100)}% y {userProfile.icfesEstimate.evidenceCount} preguntas observadas.
                     </div>
                     <div class="mt-2 text-[10px] text-white/30 font-medium uppercase tracking-[0.1em] leading-relaxed">
                       Benchmark local activo: {CO_ICFES_2026_BENCHMARK.label} {CO_ICFES_2026_BENCHMARK.benchmarkScore}/500.
                     </div>
+                    <div class="mt-2 text-[10px] text-amber-200/70 font-medium uppercase tracking-[0.1em] leading-relaxed">
+                      {userProfile.icfesEstimate.disclaimer} Confianza: {userProfile.icfesEstimate.label}. Metodo: {userProfile.icfesEstimate.methodologyVersion}.
+                    </div>
                   </div>
 
                   <div class="space-y-4 pt-6 border-t border-white/5">
-                     <div class="flex justify-between items-center group/item">
-                       <span class="text-[10px] font-bold text-white/30 uppercase tracking-[0.1em]">Technical Rating</span>
-                       <span class="text-sm font-black text-emerald-400">{userProfile.globalMMR} <span class="text-[10px] opacity-40">MMR</span></span>
-                     </div>
                      <div class="flex justify-between items-center group/item">
                        <span class="text-[10px] font-bold text-white/30 uppercase tracking-[0.1em]">Knowledge Base</span>
                        <span class="text-sm font-black text-white">{userProfile.totalQuestions} <span class="text-[10px] opacity-40">Q</span></span>
@@ -633,6 +628,10 @@
                      <div class="flex justify-between items-center group/item">
                         <span class="text-[10px] font-bold text-white/30 uppercase tracking-[0.1em]">Global Accuracy</span>
                         <span class="text-sm font-black text-white">{Math.round(userProfile.globalAccuracy * 100)}%</span>
+                      </div>
+                     <div class="flex justify-between items-center group/item">
+                        <span class="text-[10px] font-bold text-white/30 uppercase tracking-[0.1em]">Consistencia</span>
+                        <span class="text-sm font-black text-white">{userProfile.advancedMetrics.consistencyScore}<span class="text-[10px] opacity-40">/100</span></span>
                       </div>
                   </div>
 
@@ -1972,9 +1971,12 @@
         </section>
 
         <section class="space-y-3">
-          <h4 class="text-xs font-black text-emerald-400 uppercase tracking-tighter">Puntaje Simulado ICFES</h4>
+          <h4 class="text-xs font-black text-emerald-400 uppercase tracking-tighter">Estimado ICFES Proxy</h4>
+          <p class="text-xs text-amber-200/80 leading-relaxed">
+            {userProfile?.icfesEstimate?.disclaimer || 'Estimacion de practica; no reemplaza el reporte oficial del ICFES.'}
+          </p>
           <p class="text-sm text-white/70 leading-relaxed">
-            Convertimos tu MMR a una escala de <span class="text-white font-bold">0 a 500 puntos</span> equivalente al examen real. Es una estimación estadística basada en tu desempeño actual.
+            Usamos una metodologia proxy en escala <span class="text-white font-bold">0 a 500 puntos</span> para orientar tu practica. No reemplaza el reporte oficial del ICFES ni replica su metodologia psicometrica.
           </p>
         </section>
 

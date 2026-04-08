@@ -53,13 +53,18 @@
         <div class="flex items-baseline justify-between gap-3">
           <div>
             <div class="text-[10px] font-bold uppercase tracking-[0.24em] text-emerald-200/70">{benchmark.label}</div>
-            <div class="mt-1 text-2xl font-black tracking-tight text-white">{snapshot.simulatedIcfesScore ?? '--'}<span class="ml-1 text-sm text-white/45">/500</span></div>
+            <div class="mt-1 text-2xl font-black tracking-tight text-white">{snapshot.icfesEstimate?.score ?? '--'}<span class="ml-1 text-sm text-white/45">/500</span></div>
           </div>
           <div class={`text-sm font-bold ${getDeltaTone(snapshot.benchmarkDelta)}`}>
             {formatDelta(snapshot.benchmarkDelta)}
           </div>
         </div>
-        <div class="mt-1 text-xs text-white/60">Versus benchmark {benchmark.benchmarkScore}/500</div>
+        <div class="mt-1 text-xs text-white/60">
+          {snapshot.icfesEstimate?.label || 'Resultado provisional'} · benchmark editorial {benchmark.benchmarkScore}/500
+        </div>
+        <div class="mt-1 text-[10px] text-amber-200/60">
+          {snapshot.icfesEstimate?.disclaimer || 'Estimacion de practica; no reemplaza el reporte oficial del ICFES.'}
+        </div>
       </div>
 
       <div class="rounded-2xl border border-amber-400/20 bg-amber-400/[0.08] px-4 py-3">
@@ -81,7 +86,7 @@
     <div class="text-[10px] font-bold uppercase tracking-[0.24em] text-white/45">Primer arranque</div>
     <div class="mt-2 text-lg font-bold tracking-tight text-white">Todavia no hay historial local.</div>
     <p class="mt-2 max-w-md text-sm leading-relaxed text-white/60">
-      Este examen arrancara igual. Cuando termines tus primeras sesiones, aqui veras tu ultimo puntaje, tu estimado ICFES y la distancia hacia la meta.
+      Este examen arrancara igual. Cuando termines tus primeras sesiones, aqui veras tu ultimo puntaje, tu estimado proxy y la distancia hacia la meta.
     </p>
   </div>
 {/if}

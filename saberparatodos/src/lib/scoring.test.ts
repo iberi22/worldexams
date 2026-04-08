@@ -120,10 +120,36 @@ describe('Scoring System', () => {
 
       // Total: 315 + 40 + 100 = 455
       expect(score.totalScore).toBe(455);
+      expect(score.practiceScore).toBe(455);
       expect(score.stats.accuracy).toBe(1.0);
       expect(score.scoreRange.minScore).toBe(0);
       expect(score.scoreRange.maxScore).toBe(518);
       expect(score.scoreRange.scaleLabel).toBe('Puntos WorldExams');
+      expect(score.icfesEstimate.score).toBeLessThan(300);
+      expect(score.icfesEstimate.confidence).toBe('low');
+    });
+
+    it('should keep ICFES proxy conservative for short sessions with strong practice score', () => {
+      const questions: QuestionResult[] = Array.from({ length: 10 }, (_, index) => ({
+        questionId: `q${index + 1}`,
+        difficulty: 5,
+        isCorrect: index < 9,
+        timeSeconds: 5,
+        currentStreak: index
+      }));
+
+      const exam: ExamResult = {
+        questions,
+        totalTimeSeconds: 50,
+        startedAt: new Date().toISOString(),
+        completedAt: new Date().toISOString()
+      };
+
+      const score = calculateExamScore(exam);
+
+      expect(score.practiceScore).toBeGreaterThan(2000);
+      expect(score.icfesEstimate.score).toBeLessThan(300);
+      expect(score.icfesEstimate.minimumEvidenceMet).toBe(false);
     });
   });
 

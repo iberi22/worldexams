@@ -17,11 +17,6 @@
   export let examScore: ExamScore;
   export let showBreakdown = false;
 
-  const displayScore = tweened(0, {
-    duration: 1500,
-    easing: cubicOut
-  });
-
   const displayAccuracy = tweened(0, {
     duration: 1200,
     easing: cubicOut
@@ -31,7 +26,6 @@
   let showScoreHelp = false;
 
   onMount(() => {
-    displayScore.set(examScore.totalScore);
     displayAccuracy.set(examScore.stats.accuracy * 100);
   });
 
@@ -55,20 +49,18 @@
   }
 
   $: grade = getGrade(examScore.stats.accuracy);
+  $: practiceScore = examScore.practiceScore ?? examScore.totalScore;
+  $: icfesEstimate = examScore.icfesEstimate;
   $: scoreRange = examScore.scoreRange;
-  $: visibleRangeLabel = `${formatScore(scoreRange.minScore)} a ${formatScore(scoreRange.maxScore)}`;
-  $: currentRangeProgress = scoreRange.maxScore > scoreRange.minScore
-    ? Math.max(
-        0,
-        Math.min(
-          100,
-          ((examScore.totalScore - scoreRange.minScore) / (scoreRange.maxScore - scoreRange.minScore)) * 100
-        )
-      )
-    : 0;
   $: questionImpactCopy = examScore.stats.correctAnswers > 0
     ? `Tus aciertos pueden sumar bastante porque cada correcta parte desde 100 puntos y luego sube por dificultad, velocidad y racha.`
     : 'En esta sesion no hubo respuestas correctas, asi que solo se aplicaron penalizaciones y bonos de cierre si correspondian.';
+
+  function getConfidenceTone(confidence: string): string {
+    if (confidence === 'high') return 'text-emerald-300 border-emerald-400/25 bg-emerald-400/10';
+    if (confidence === 'medium') return 'text-amber-200 border-amber-300/25 bg-amber-300/10';
+    return 'text-sky-200 border-sky-300/25 bg-sky-300/10';
+  }
 </script>
 
 <svelte:window on:keydown={handleKeydown} />
@@ -92,8 +84,8 @@
       </p>
 
       <div class="text-center mb-6">
-        <div class="flex items-center justify-center gap-3 mb-2">
-          <p class="text-xs text-cyan-300/90 uppercase tracking-[0.35em]">Puntos WorldExams</p>
+        <div class="flex flex-wrap items-center justify-center gap-3 mb-2">
+          <p class="text-xs text-cyan-300/90 uppercase tracking-[0.35em]">Puntaje estimado ICFES</p>
           <button
             type="button"
             on:click={() => showScoreHelp = true}
@@ -107,31 +99,34 @@
               <path d="M12 17h.01"></path>
             </svg>
           </button>
+          <span class={`px-3 py-1 rounded-full border text-[10px] uppercase tracking-[0.22em] ${getConfidenceTone(icfesEstimate.confidence)}`}>
+            {icfesEstimate.label}
+          </span>
         </div>
 
         <p class="text-5xl sm:text-6xl font-black text-[#F5F5DC] tabular-nums">
-          {Math.round($displayScore).toLocaleString('es-CO')}
+          {icfesEstimate.score.toLocaleString('es-CO')}
+          <span class="ml-1 text-lg sm:text-xl text-white/45">/500</span>
         </p>
         <p class="text-sm text-white/45 uppercase tracking-widest mt-1">
-          Puntaje interno de practica, no equivalente al ICFES oficial
+          {icfesEstimate.disclaimer}
         </p>
       </div>
 
       <div class="mb-7 p-4 rounded-2xl border border-cyan-400/15 bg-black/15">
         <div class="flex items-center justify-between gap-4 text-xs uppercase tracking-[0.28em] text-white/45">
-          <span>Rango visible de esta sesion</span>
-          <span>{visibleRangeLabel}</span>
+          <span>Estado de esta estimacion</span>
+          <span>{icfesEstimate.evidenceCount} preguntas observadas</span>
         </div>
         <div class="mt-3 h-2 rounded-full bg-white/8 overflow-hidden">
           <div
             class="h-full rounded-full bg-gradient-to-r from-emerald-400 via-blue-400 to-cyan-300 transition-all duration-700"
-            style={`width: ${currentRangeProgress}%`}
+            style={`width: ${Math.min(100, (icfesEstimate.evidenceCount / 80) * 100)}%`}
           ></div>
         </div>
         <p class="mt-3 text-sm text-white/65 leading-relaxed">
-          Este examen podia terminar entre <strong class="text-white">{formatScore(scoreRange.minScore)}</strong> y
-          <strong class="text-white">{formatScore(scoreRange.maxScore)}</strong> puntos. Tu resultado se calcula con
-          aciertos, errores, dificultad, velocidad, racha y bonus de cierre.
+          Esta lectura usa una metodologia proxy en escala ICFES 0-500. Combina rendimiento, dificultad,
+          consistencia y volumen de evidencia. El puntaje de practica se conserva aparte para ranking interno.
         </p>
       </div>
 
@@ -162,10 +157,10 @@
     <div class="flex items-start justify-between gap-4 mb-4">
       <div>
         <h3 class="text-sm font-bold uppercase tracking-widest text-white/60">
-          Desglose del puntaje
+          Metrica interna de practica
         </h3>
         <p class="mt-1 text-xs text-white/45 leading-relaxed">
-          {questionImpactCopy}
+          {questionImpactCopy} Esta metrica sigue activa para feedback de sesion, tuning y ranking interno.
         </p>
       </div>
       <button
@@ -208,9 +203,9 @@
 
       <div class="border-t border-white/10 pt-3 mt-3">
         <div class="flex justify-between items-center gap-4">
-          <span class="font-bold text-white">Total de practica</span>
+          <span class="font-bold text-white">Puntaje WorldExams</span>
           <span class="font-mono font-bold text-xl text-[#F5F5DC]">
-            {formatScore(examScore.totalScore)}
+            {formatScore(practiceScore)}
           </span>
         </div>
       </div>
@@ -311,25 +306,25 @@
       <div class="px-6 py-6 space-y-6 text-sm text-white/75">
         <div class="p-4 rounded-2xl border border-amber-400/15 bg-amber-400/10">
           <p class="font-semibold text-amber-100">
-            Este numero no es un puntaje ICFES oficial ni una conversion 0-500.
+            Esta estimacion no es un puntaje ICFES oficial.
           </p>
           <p class="mt-2 leading-relaxed">
-            Es una escala interna de practica pensada para motivacion, progreso y ranking.
-            Por eso puedes ver casos como <strong class="text-white">3/10 correctas y 415 puntos</strong>.
+            Usa una escala 0-500 solo para acercarse al formato de reporte del ICFES, pero no replica su
+            metodologia psicometrica oficial ni reemplaza el reporte real.
           </p>
         </div>
 
         <div class="grid gap-3 sm:grid-cols-2">
           <div class="p-4 rounded-2xl border border-white/10 bg-white/5">
-            <p class="text-xs uppercase tracking-[0.25em] text-white/45">Rango de esta sesion</p>
-            <p class="mt-2 text-2xl font-black text-white">{visibleRangeLabel}</p>
+            <p class="text-xs uppercase tracking-[0.25em] text-white/45">Evidencia acumulada</p>
+            <p class="mt-2 text-2xl font-black text-white">{icfesEstimate.evidenceCount} preguntas</p>
             <p class="mt-2 leading-relaxed">
-              El sistema nunca baja de 0 puntos visibles, aunque las penalizaciones internas si restan.
+              Menos de 20 preguntas deja la lectura como provisional. Con mas volumen y mas areas, la confianza sube.
             </p>
           </div>
           <div class="p-4 rounded-2xl border border-white/10 bg-white/5">
-            <p class="text-xs uppercase tracking-[0.25em] text-white/45">Tu caso actual</p>
-            <p class="mt-2 text-2xl font-black text-cyan-300">{formatScore(examScore.totalScore)}</p>
+            <p class="text-xs uppercase tracking-[0.25em] text-white/45">Tu lectura actual</p>
+            <p class="mt-2 text-2xl font-black text-cyan-300">{icfesEstimate.score}/500</p>
             <p class="mt-2 leading-relaxed">
               Precisión: {Math.round(examScore.stats.accuracy * 100)}%. Correctas: {examScore.stats.correctAnswers}/{examScore.stats.questionsAnswered}.
             </p>
@@ -337,17 +332,16 @@
         </div>
 
         <div class="space-y-3">
-          <h4 class="text-base font-bold text-white">Que suma y que resta</h4>
+          <h4 class="text-base font-bold text-white">Como se usa cada escala</h4>
           <div class="p-4 rounded-2xl border border-white/10 bg-white/5 leading-relaxed">
-            <p>Cada respuesta correcta empieza en <strong class="text-white">100 puntos</strong>.</p>
-            <p class="mt-2">Luego sube por tres factores: <strong class="text-white">dificultad</strong>, <strong class="text-white">velocidad</strong> y <strong class="text-white">racha</strong>.</p>
-            <p class="mt-2">Cada error resta poco en comparacion con una correcta: entre <strong class="text-white">16 y 32 puntos</strong> segun dificultad.</p>
-            <p class="mt-2">Si completas una sesion de al menos 7 preguntas recibes <strong class="text-white">+{formatScore(scoreRange.completionBonus)}</strong> por cierre.</p>
+            <p>La escala <strong class="text-white">ICFES proxy</strong> prioriza rendimiento, dificultad, consistencia y evidencia acumulada.</p>
+            <p class="mt-2">La escala <strong class="text-white">WorldExams</strong> sigue usando dificultad, velocidad, racha y bonus para gamificar la practica.</p>
+            <p class="mt-2">Por eso ambas escalas pueden moverse distinto en una misma sesion.</p>
           </div>
         </div>
 
         <div class="space-y-3">
-          <h4 class="text-base font-bold text-white">Formula resumida</h4>
+          <h4 class="text-base font-bold text-white">Formula resumida de practica</h4>
           <div class="p-4 rounded-2xl border border-white/10 bg-[#0b1220] font-mono text-xs text-cyan-200 overflow-x-auto">
             <p>Puntos correcta = 100 x dificultad x velocidad x racha</p>
             <p class="mt-2">Puntos incorrecta = -20 x dificultad</p>
@@ -376,9 +370,8 @@
         <div class="p-4 rounded-2xl border border-emerald-400/15 bg-emerald-400/10">
           <h4 class="text-base font-bold text-emerald-100">Recomendacion de claridad</h4>
           <p class="mt-2 leading-relaxed">
-            Para no confundir a estudiantes y familias, esta pantalla ya trata este numero como
-            <strong class="text-white"> puntos de practica</strong>. Si mas adelante quieren un indicador parecido al ICFES,
-            conviene mostrarlo en otro bloque separado con una metodologia propia y documentada.
+            Esta pantalla ya separa la lectura <strong class="text-white">ICFES proxy</strong> de los
+            <strong class="text-white"> puntos de practica</strong>. La primera orienta al estudiante; la segunda sirve al sistema.
           </p>
         </div>
       </div>

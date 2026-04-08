@@ -569,6 +569,65 @@ function validateSubmission(data: ScoreSubmission): boolean {
 
 ---
 
+## 📊 Estimacion ICFES Proxy
+
+> **Nota critica:** Este sistema produce una *estimacion de practica* en escala 0-500 que se aproxima al formato de reporte del ICFES. **No reemplaza el reporte oficial del ICFES** ni replica su metodologia psicometrica.
+
+### Formula
+
+La estimacion ICFES proxy se calcula en `src/lib/mmr-system.ts` usando la funcion `estimateIcfesScore()`:
+
+```
+normalizedMMR = clamp((mmr - 700) / 900, 0, 1)
+mmrBaseScore = 130 + normalizedMMR * 250
+accuracyAdjustment = (accuracy - 0.5) * 140
+difficultyAdjustment = (averageDifficulty - 3) * 18
+consistencyAdjustment = ((consistencyScore - 50) / 50) * 30
+
+rawScore = mmrBaseScore + accuracyAdjustment + difficultyAdjustment + consistencyAdjustment
+evidenceFactor = 0.55 + crecimiento segun volumen de preguntas (max 1.0)
+coverageFactor = 0.90 a 1.0 segun areas cubiertas
+
+scaledScore = rawScore * evidenceFactor * coverageFactor
+score = clamp(round(scaledScore), 0, 500)
+```
+
+### Senales que usa
+
+| Senal | Origen | Rango tipico | Impacto |
+|-------|--------|-------------|---------|
+| `mmr` | Motor MMR ELO | 0-3000 | Base principal |
+| `accuracy` | Historial global | 0-1 | Ajuste +- 70 pts |
+| `evidenceCount` | Preguntas respondidas | 0-N | Factor 0.55-1.0 |
+| `averageDifficulty` | Promedio preguntas | 1-5 | Ajuste +- 36 pts |
+| `consistencyScore` | Varianza de examenes | 0-100 | Ajuste +- 30 pts |
+| `subjectCoverage` | Areas con datos | 1-5 | Factor 0.90-1.0 |
+
+### Niveles de confianza
+
+| Nivel | Condiciones | Label UI |
+|-------|------------|----------|
+| **low** | < 20 preguntas o < 3 areas | "Resultado provisional" |
+| **medium** | >= 20 preguntas | "Confianza media" |
+| **high** | >= 80 preguntas y >= 3 areas | "Alta confianza" |
+
+### Disclaimer canonico
+
+```
+Estimacion de practica; no reemplaza el reporte oficial del ICFES.
+```
+
+Version de metodologia: `icfes-proxy-v1`
+
+### Relacion con Puntaje WorldExams
+
+El **puntaje WorldExams** (`practiceScore`) es una escala interna separada que usa dificultad, velocidad, racha y bonus para gamificar la practica. Ambas escalas pueden moverse distinto en una misma sesion porque miden cosas distintas:
+
+- **ICFES proxy**: orientacion al estudiante en escala familiar 0-500
+- **WorldExams**: metrica interna para feedback de sesion, tuning y ranking
+
+---
+
 ## 🚀 Plan de Implementación
 
 ### Fase 1: Core (Semana 1)
