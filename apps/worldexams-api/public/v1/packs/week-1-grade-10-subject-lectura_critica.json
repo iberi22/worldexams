@@ -1,0 +1,1224 @@
+{
+  "metadata": {
+    "grade": 10,
+    "subject": "lectura-critica",
+    "pack_id": "week-1-grade-10-subject-lectura_critica",
+    "generated_at": "2026-03-16T18:04:21.246Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEC-10-narrative-literary-001-PRO-v1",
+      "statement": "**ID:** `CO-LEC-10-narrative-literary-001-PRO-v1`\r\n**Type:** `single`\r\n**ICFES:** Identificar contenidos locales\r\n\r\n### Enunciado\r\n¿Cuántos días caminó el personaje hasta regresar al pueblo?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diecisiete días.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Siete días.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "No se especifica.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Cuarenta días.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nLectura literal: la información está explícita en el texto. \"Caminó durante diecisiete días\". Este tipo de pregunta evalúa la atención al detalle y la comprensión básica del texto.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-narrative-literary-001-PRO-v4-bundle",
+      "periodo": 1,
+      "protocol_version": "4.1"
+    },
+    {
+      "id": "CO-LEC-10-narrative-literary-001-PRO-v2",
+      "statement": "**ID:** `CO-LEC-10-narrative-literary-001-PRO-v2`\r\n**Type:** `single`\r\n**ICFES:** Comprender la articulación de las partes\r\n\r\n### Enunciado\r\n¿Qué quiere decir el narrador con la frase \"el mismo pueblo pero con el tiempo encima\"?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el pueblo había crecido y construido edificios nuevos.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Que el pueblo físicamente seguía igual, pero los años habían pasado y cambiado a sus habitantes: para ellos, Aureliano ya era un desconocido.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Que el pueblo tenía mucho polvo de los años.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Que los muros eran muy viejos y estaban en mal estado.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\nLa inferencia requiere ir más allá de las palabras. \"El tiempo encima\" no es una descripción física del pueblo sino del olvido que el tiempo construye sobre las personas. El pueblo espacialmente no cambió; cambió el tiempo humano que lo habitó.\r\n\r\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-narrative-literary-001-PRO-v4-bundle",
+      "periodo": 1,
+      "protocol_version": "4.1"
+    },
+    {
+      "id": "CO-LEC-10-narrative-literary-001-PRO-v3",
+      "statement": "**ID:** `CO-LEC-10-narrative-literary-001-PRO-v3`\r\n**Type:** `single`\r\n**ICFES:** Reflexionar y evaluar el contenido\r\n\r\n### Enunciado\r\nLa frase final: *\"el exilio no es una distancia sino una dimensión del tiempo\"* redefine el concepto de exilio. ¿Cuál es la contribución filosófica de esta idea?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el exilio solo ocurre cuando se viaja muy lejos.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El exilio es, fundamentalmente, una ruptura con el **tiempo compartido** con los demás: puedes volver al mismo lugar geográfico y aún sentirte exiliado porque la dimensión temporal (los recuerdos, el reconocimiento) ya no existe.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Que el tiempo siempre borra el exilio.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Que los pueblos pequeños siempre olvidan a sus emigrantes.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\nLa lectura crítica de nivel 5 requiere evaluar la propuesta conceptual del autor. Aureliano redefinió el exilio de una categoría espacial (lejanía) a una temporal (desconexión de la historia compartida). Esta capacidad de establecer nuevas categorías conceptuales es la máxima forma del pensamiento abstracto literario.\r\n\r\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-narrative-literary-001-PRO-v4-bundle",
+      "periodo": 1,
+      "protocol_version": "4.1"
+    },
+    {
+      "id": "CO-LEC-10-narrative-literary-001-PRO-v4",
+      "statement": "**ID:** `CO-LEC-10-narrative-literary-001-PRO-v4`\r\n### Enunciado\r\n¿Cuál es el tema central de este micro-cuento?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los peligros de quedarse dormido escribiendo.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La frontera difusa entre la identidad consciente y el inconsciente, o entre la realidad y el sueño.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Una historia de robo y plagio literario.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La importancia de guardar bien los cuadernos.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-narrative-literary-001-PRO-v4-bundle",
+      "periodo": 1,
+      "protocol_version": "4.1"
+    },
+    {
+      "id": "CO-LEC-10-narrative-literary-001-PRO-v5",
+      "statement": "**ID:** `CO-LEC-10-narrative-literary-001-PRO-v5`\r\n**Type:** `single`\r\n\r\n### Enunciado\r\nEl narrador del micro-cuento es omnisciente. ¿Qué indicio del texto confirma esta conclusión?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El narrador revela información que el personaje **no** sabe: que él mismo escribió la historia. Los lectores lo saben, pero el personaje no.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El narrador usa la primera persona (\"yo\").",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El narrador solo describe lo que el personaje ve externamente.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El narrador es uno de los personajes de la historia.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-narrative-literary-001-PRO-v4-bundle",
+      "periodo": 1,
+      "protocol_version": "4.1"
+    },
+    {
+      "id": "CO-LEC-10-narrative-literary-001-PRO-v13",
+      "statement": "**ID:** `CO-LEC-10-narrative-literary-001-PRO-v13`\r\n**Type:** `weighted`\r\n\r\n### Enunciado\r\nLos dos fragmentos presentados (El Exilio y El Cuaderno) comparten un elemento narrativo. ¿Cuál?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos tienen personajes que descubren algo sobre sí mismos que no comprendían al principio. <!-- weight: 1.0 -->",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "En ambos textos la revelación final redefine todo el significado de la historia anterior. <!-- weight: 1.0 -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Ambos cuentan historias de viaje físico hacia lugares lejanos. <!-- weight: 0.0 -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Ambos fueron escritos por el mismo autor latinoamericano. <!-- weight: 0.0 -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-narrative-literary-001-PRO-v4-bundle",
+      "periodo": 1,
+      "protocol_version": "4.1"
+    },
+    {
+      "id": "CO-LEC-10-narrative-literary-001-PRO-v20",
+      "statement": "**ID:** `CO-LEC-10-narrative-literary-001-PRO-v20`\r\n\r\n### Enunciado\r\nLa literatura latinoamericana del **Realismo Mágico** (García Márquez, Rulfo, Allende) mezcla lo real y lo sobrenatural como si fueran igualmente válidos. ¿Cuál es el efecto narrativo más importante de esta técnica?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacer que el lector acepte lo imposible como parte de la cotidianidad del mundo latinoamericano, revelando una realidad social y cultural que el realismo convencional no puede capturar.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Entretener al lector con magia y fantasía para que no se aburra.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Demostrar que los escritores latinoamericanos no conocen la ciencia.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Crear una distinción clara entre los mundos reales e imaginarios.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-narrative-literary-001-PRO-v4-bundle",
+      "periodo": 1,
+      "protocol_version": "4.1"
+    },
+    {
+      "id": "CO-LEC-10-expository-argumentative-001-PRO-v1",
+      "statement": "**ID:** `CO-LEC-10-expository-argumentative-001-PRO-v1`\r\n**ICFES:** Identificar contenidos locales\r\n\r\n### Enunciado\r\nSegún el texto, ¿en qué año formuló Chalmers el \"problema difícil de la conciencia\"?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1995.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "2005.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "2023.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El texto no lo menciona.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-expository-argumentative-001-PRO-v4-bundle",
+      "periodo": 2,
+      "protocol_version": "4.1"
+    },
+    {
+      "id": "CO-LEC-10-expository-argumentative-001-PRO-v2",
+      "statement": "**ID:** `CO-LEC-10-expository-argumentative-001-PRO-v2`\r\n**ICFES:** Comprender la articulación de las partes\r\n\r\n### Enunciado\r\n¿Cuál es la **Tesis** del texto expositivo sobre la conciencia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La neurociencia ya ha resuelto el problema de la conciencia.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "A pesar de los avances científicos, explicar los procesos físicos del cerebro no responde aún por qué existe la experiencia subjetiva de estar vivo: el problema difícil permanece sin resolver.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "La conciencia no es un tema científico, sino solo filosófico.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "David Chalmers demostró que el cerebro produce conciencia mediante la materia.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-expository-argumentative-001-PRO-v4-bundle",
+      "periodo": 2,
+      "protocol_version": "4.1"
+    },
+    {
+      "id": "CO-LEC-10-expository-argumentative-001-PRO-v3",
+      "statement": "**ID:** `CO-LEC-10-expository-argumentative-001-PRO-v3`\r\n\r\n### Enunciado\r\n*\"El problema difícil de la conciencia establece que explicar los procesos neurales aún no explica por qué hay una 'experiencia' de esos procesos\"*. Esta distinción implica que:\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incluso si pudiéramos mapear completamente el cerebro, no sabríamos por qué hay algo que \"se siente\" tenerlo: la descripción funcional del cerebro no agota la realidad de la experiencia subjetiva.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El cerebro no funciona con procesos neurales sino con algo completamente diferente.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Es imposible estudiar la conciencia desde la neurociencia.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Los procesos neurales y la experiencia subjetiva son exactamente lo mismo.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-expository-argumentative-001-PRO-v4-bundle",
+      "periodo": 2,
+      "protocol_version": "4.1"
+    },
+    {
+      "id": "CO-LEC-10-expository-argumentative-001-PRO-v4",
+      "statement": "**ID:** `CO-LEC-10-expository-argumentative-001-PRO-v4`\r\n\r\n### Enunciado\r\n¿Cuál es la **evidencia** que el autor usa para sustentar su argumento sobre la Generación Z y el pensamiento?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Datos estadísticos sobre el coeficiente intelectual de los jóvenes.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Una comparación cualitativa entre el formato del video corto (30 seg) versus el artículo largo (10 pág) para argumentar que el primero limita la comprensión de lo complejo.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Citando estudios científicos revisados por pares.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Testimonios de estudiantes de secundaria.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-expository-argumentative-001-PRO-v4-bundle",
+      "periodo": 2,
+      "protocol_version": "4.1"
+    },
+    {
+      "id": "CO-LEC-10-expository-argumentative-001-PRO-v5",
+      "statement": "**ID:** `CO-LEC-10-expository-argumentative-001-PRO-v5`\r\n**Type:** `single`\r\n\r\n### Enunciado\r\nEl argumento \"Se les llama la generación más informada de la historia, y quizás lo son\" para luego refutarles su capacidad de pensar profundamente. ¿Qué estrategia retórica usa el autor?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "**Concesión y refutación**: cede un punto al adversario (sí tienen mucha info) para luego mostrar que ese punto no es suficiente (sin herramientas, la info es ruido).",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Ad hominem: ataca a la persona, no al argumento.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Apelación a la autoridad: cita expertos.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Generalización apresurada: juzga a todos los jóvenes igual.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-expository-argumentative-001-PRO-v4-bundle",
+      "periodo": 2,
+      "protocol_version": "4.1"
+    },
+    {
+      "id": "CO-LEC-10-expository-argumentative-001-PRO-v13",
+      "statement": "**ID:** `CO-LEC-10-expository-argumentative-001-PRO-v13`\r\n**Type:** `multi-correct`\r\n\r\n### Enunciado\r\nSeleccione TODOS los argumentos que podrías usar para **refutar** la carta del Contexto 2 sin negar que exista un problema de atención.\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Generación Z tiene acceso a herramientas de verificación más sofisticadas que las generaciones anteriores (fact-checkers, algoritmos de detección de fake news). <!-- weight: 1.0 -->",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Los textos cortos han existido siempre (el haiku, el aforismo, el titular); la brevedad no implica ausencia de pensamiento profundo. <!-- weight: 1.0 -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "La Generación Z no lee nada en absoluto. <!-- weight: 0.0 -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El autor no presenta datos empíricos que demuestren que la productividad intelectual o la capacidad crítica han disminuido; su argumento es más retórico que empírico. <!-- weight: 1.0 -->",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-expository-argumentative-001-PRO-v4-bundle",
+      "periodo": 2,
+      "protocol_version": "4.1"
+    },
+    {
+      "id": "CO-LEC-10-expository-argumentative-001-PRO-v20",
+      "statement": "**ID:** `CO-LEC-10-expository-argumentative-001-PRO-v20`\r\n\r\n### Enunciado\r\nLos dos textos (sobre la conciencia y la Generación Z) son de géneros diferentes (expositivo y argumentativo). ¿Cuál es la diferencia fundamental en sus **intenciones comunicativas**?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto expositivo usa ficción y el argumentativo usa datos reales.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El texto expositivo pretende informar y explicar un fenómeno (la conciencia). El argumentativo pretende convencer al lector de una postura (los jóvenes piensan mal). La finalidad es diferente: informar vs. persuadir.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Ambos textos intentan entretener con historias interesantes.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El texto argumentativo es más objetivo que el expositivo porque tiene una tesis clara.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-expository-argumentative-001-PRO-v4-bundle",
+      "periodo": 2,
+      "protocol_version": "4.1"
+    },
+    {
+      "id": "CO-LEC-10-multimodal-001-PRO-v1",
+      "statement": "**ID:** `CO-LEC-10-multimodal-001-PRO-v1`\r\n**ICFES:** Identificar contenidos locales\r\n\r\n### Enunciado\r\n¿Cuál es la primera señal de alerta para sospechar que esta noticia es **falsa o no verificable**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fuente es desconocida (\"notasaludiaria.xyz\"), no tiene fecha ni autor firmado: criterios básicos de credibilidad ausentes.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El chocolate sabe muy bien y no puede curar enfermedades.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La noticia es muy corta para ser un estudio científico.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Que pide que se comparta.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-multimodal-001-PRO-v4-bundle",
+      "periodo": 3,
+      "protocol_version": "4.1"
+    },
+    {
+      "id": "CO-LEC-10-multimodal-001-PRO-v2",
+      "statement": "**ID:** `CO-LEC-10-multimodal-001-PRO-v2`\r\n**ICFES:** Comprender la articulación de las partes\r\n\r\n### Enunciado\r\nLa noticia dice que el estudio se hizo \"en 2 ratones\". ¿Qué problema tiene esta evidencia para hacer la afirmación de que \"cura el cáncer\"?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los ratones no comen chocolate.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Una muestra de 2 sujetos es estadísticamente insignificante. Para llegar a conclusiones generalizables en humanos se necesitan ensayos clínicos con cientos o miles de participantes humanos, con grupos de control y revisión por pares.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "El cáncer no existe en ratones.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El estudio fallido no había sido publicado aún.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-multimodal-001-PRO-v4-bundle",
+      "periodo": 3,
+      "protocol_version": "4.1"
+    },
+    {
+      "id": "CO-LEC-10-multimodal-001-PRO-v3",
+      "statement": "**ID:** `CO-LEC-10-multimodal-001-PRO-v3`\r\n\r\n### Enunciado\r\nEl texto combina un **titular**, un **cuerpo** y una **fuente**. ¿Qué tipo de texto multimodal está simulando ser?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una noticia periodística, que sigue la estructura de pirámide invertida (información más importante primero).",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un ensayo filosófico sobre la medicina.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una carta personal de un científico.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un anuncio publicitario de chocolate.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-multimodal-001-PRO-v4-bundle",
+      "periodo": 3,
+      "protocol_version": "4.1"
+    },
+    {
+      "id": "CO-LEC-10-multimodal-001-PRO-v4",
+      "statement": "**ID:** `CO-LEC-10-multimodal-001-PRO-v4`\r\n\r\n### Enunciado\r\n¿Qué estrategia persuasiva utiliza principalmente la imagen de la familia feliz en este anuncio?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "**Asociación emocional**: vincula el producto (pizza) con una emoción positiva y universal (felicidad familiar) para que el consumidor transfiera inconscientemente ese sentimiento al producto.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "**Argumentación lógica**: presenta datos nutricionales de la pizza.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "**Testimonio de experto**: un nutricionista recomienda el producto.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "**Demostración**: muestra el proceso de elaboración de la pizza.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-multimodal-001-PRO-v4-bundle",
+      "periodo": 3,
+      "protocol_version": "4.1"
+    },
+    {
+      "id": "CO-LEC-10-multimodal-001-PRO-v5",
+      "statement": "**ID:** `CO-LEC-10-multimodal-001-PRO-v5`\r\n**Type:** `weighted`\r\n\r\n### Enunciado\r\n¿Qué tensión existe entre el mensaje principal del aviso y el texto en letra pequeña?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El anuncio promueve \"felicidad\" y consumo, mientras que el texto pequeño advierte posibles daños para la salud: son mensajes contradictorios. <!-- weight: 1.0 -->",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El texto pequeño cumple una función legal (advertencia obligatoria) pero está diseñado para no ser leído: tipografía mínima en zona de baja atención visual. <!-- weight: 1.0 -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "No hay tensión: el producto es completamente saludable y el texto es solo una formalidad. <!-- weight: 0.0 -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-multimodal-001-PRO-v4-bundle",
+      "periodo": 3,
+      "protocol_version": "4.1"
+    },
+    {
+      "id": "CO-LEC-10-multimodal-001-PRO-v13",
+      "statement": "**ID:** `CO-LEC-10-multimodal-001-PRO-v13`\r\n**Type:** `multi-correct`\r\n\r\n### Enunciado\r\nSeleccione TODOS los criterios que debe verificar un lector crítico antes de compartir una noticia en redes sociales.\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Verificar que la fuente sea una organización periodística reconocida con estándares editoriales. <!-- weight: 1.0 -->",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Buscar la misma información en al menos otras dos fuentes independientes. <!-- weight: 1.0 -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Comprobar si la fecha de publicación es reciente o si se trata de una noticia antigua presentada como nueva. <!-- weight: 1.0 -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Compartirla inmediatamente si la titular menciona una cifra (\"100% probado\").",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-multimodal-001-PRO-v4-bundle",
+      "periodo": 3,
+      "protocol_version": "4.1"
+    },
+    {
+      "id": "CO-LEC-10-multimodal-001-PRO-v20",
+      "statement": "**ID:** `CO-LEC-10-multimodal-001-PRO-v20`\r\n\r\n### Enunciado\r\nEl término **\"Death by Information\"** (Muerte por Información) describe la paradoja de que más información no siempre genera más conocimiento. ¿Cómo se relaciona este concepto con los textos analizados en este bundle?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La abundancia de noticias sin estructura de verificación (como la del chocolate), publicidad con mensajes contradictorios y el scroll infinito crean una saturación que dificulta distinguir lo verdadero de lo falso, entumeciendo la capacidad crítica del lector.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El concepto solo aplica a las personas mayores que no saben usar internet.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Tener más información siempre facilita tomar mejores decisiones, sin importar la calidad.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-multimodal-001-PRO-v4-bundle",
+      "periodo": 3,
+      "protocol_version": "4.1"
+    },
+    {
+      "id": "CO-LEC-10-integration-001-PRO-v1",
+      "statement": "**ID:** `CO-LEC-10-integration-001-PRO-v1`\r\n\r\n### Enunciado\r\n¿Qué revela la protagonista sobre sí misma al leer la decisión del personaje del libro?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La lectura actúa como un espejo: la historia ficticia le revela una verdad que ella ya tenía dentro pero no había verbalizado.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Que le gustó tanto el libro que quiere imitarlo al pie de la letra.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Que ya había leído ese libro antes y recordó el final.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Que estaba cansada de leer y quería descansar.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-integration-001-PRO-v4-bundle",
+      "periodo": 4,
+      "protocol_version": "4.1"
+    },
+    {
+      "id": "CO-LEC-10-integration-001-PRO-v2",
+      "statement": "**ID:** `CO-LEC-10-integration-001-PRO-v2`\r\n\r\n### Enunciado\r\n¿Cuál es la **idea central** del texto sobre la neuroplasticidad?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cerebro humano fue siempre flexible y esto siempre fue conocido.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El descubrimiento de que el cerebro puede reorganizarse (neuroplasticidad) cambió el paradigma científico y tiene profundas implicaciones prácticas en educación y salud.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "La educación ya no es necesaria porque el cerebro aprende solo.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Los cerebros más viejos no pueden hacer nuevas conexiones.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-integration-001-PRO-v4-bundle",
+      "periodo": 4,
+      "protocol_version": "4.1"
+    },
+    {
+      "id": "CO-LEC-10-integration-001-PRO-v3",
+      "statement": "**ID:** `CO-LEC-10-integration-001-PRO-v3`\r\n\r\n### Enunciado\r\nAntes de compartir esta foto, ¿cuál sería el paso más crítico para verificar su veracidad?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Buscar el origen de la foto: quién la tomó, cuándo, dónde y si existen otras fuentes independientes que confirmen la situación en esos comedores escolares.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Compartirla inmediatamente porque el plato vacío es una prueba evidente.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "No verificar nada, pues si muchas personas la comparten debe ser verdad.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Ignorarla porque las fotos nunca son confiables.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-integration-001-PRO-v4-bundle",
+      "periodo": 4,
+      "protocol_version": "4.1"
+    },
+    {
+      "id": "CO-LEC-10-integration-001-PRO-v4",
+      "statement": "**ID:** `CO-LEC-10-integration-001-PRO-v4`\r\n\r\n### Enunciado\r\n¿Cuál es el elemento que distingue fundamentalmente el Contexto 1 (literario), el Contexto 2 (expositivo) y el Contexto 3 (noticia) en términos de sus **intenciones comunicativas**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto literario busca generar una experiencia estética/emocional. El expositivo busca informar y explicar. La noticia busca informar un hecho concreto verificable. Las tres requieren lectura crítica pero con distintas herramientas.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Los tres textos tienen exactamente la misma intención: entretener al lector.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El texto literario es el más confiable porque fue editado por expertos.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La noticia es siempre el texto más importante porque tiene consecuencias políticas.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-integration-001-PRO-v4-bundle",
+      "periodo": 4,
+      "protocol_version": "4.1"
+    },
+    {
+      "id": "CO-LEC-10-integration-001-PRO-v5",
+      "statement": "**ID:** `CO-LEC-10-integration-001-PRO-v5`\r\n**Type:** `multi-correct`\r\n\r\n### Enunciado\r\nSeleccione TODAS las habilidades que demuestran que un estudiante es un lector crítico maduro (nivel 4-5 en ICFES).\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diferenciar la opinión del autor de los hechos presentados en el texto. <!-- weight: 1.0 -->",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Identificar el contexto de producción de un texto (quién lo escribió, para quién, cuándo y con qué propósito). <!-- weight: 1.0 -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Establecer relaciones entre textos de diferentes géneros y épocas para construir una visión más amplia de un tema. <!-- weight: 1.0 -->",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Memorizar los nombres de los autores y sus fechas de nacimiento.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-integration-001-PRO-v4-bundle",
+      "periodo": 4,
+      "protocol_version": "4.1"
+    },
+    {
+      "id": "CO-LEC-10-integration-001-PRO-v13",
+      "statement": "**ID:** `CO-LEC-10-integration-001-PRO-v13`\r\n**Type:** `weighted`\r\n\r\n### Enunciado\r\nUn poeta latino americano escribe: *\"El río no sabe que es frontera\"*. Seleccione TODAS las interpretaciones válidas de este verso.\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Critica la convención humana de dividir la naturaleza con fronteras políticas que son artificiales desde el punto de vista del mundo natural. <!-- weight: 1.0 -->",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El verse sugiere que las divisiones entre naciones son construcciones culturales, no realidades objetivas del mundo físico. <!-- weight: 1.0 -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "El río no puede aprender geografía porque no tiene cerebro y eso es un defecto. <!-- weight: 0.0 -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El poeta propone eliminar todos los ríos del mundo. <!-- weight: 0.0 -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-integration-001-PRO-v4-bundle",
+      "periodo": 4,
+      "protocol_version": "4.1"
+    },
+    {
+      "id": "CO-LEC-10-integration-001-PRO-v20",
+      "statement": "**ID:** `CO-LEC-10-integration-001-PRO-v20`\r\n\r\n### Enunciado\r\nDespués de trabajar textos literarios, expositivos, argumentativos, multimodales y noticias a lo largo de este año, ¿cuál es la meta final de la **Lectura Crítica** como área del conocimiento?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Formar ciudadanos capaces de navegar el ecosistema informativo moderno con autonomía intelectual: comprendiendo lo que se dice, cómo se dice, con qué intención y qué efectos tiene en la sociedad.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Aprender a leer muy rápido para responder más preguntas en el examen.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Identificar y memorizar todas las figuras retóricas de la lengua española.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Solo entender los textos literarios colombianos del Boom.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-integration-001-PRO-v4-bundle",
+      "periodo": 4,
+      "protocol_version": "4.1"
+    },
+    {
+      "id": "CO-LEC-10-latinamerican-lit-001-PRO-v1",
+      "statement": "**ID:** `CO-LEC-10-latinamerican-lit-001-PRO-v1`\r\n**ICFES:** Identificar contenidos locales\r\n\r\n### Enunciado\r\n¿Qué revelan los detalles sobre el café (\"una cucharadita\", \"raspó el interior del tarro\") sobre la situación del coronel?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El coronel vive en una situación de pobreza o escasez extrema: no puede permitirse más café y trata de aprovechar hasta la última partícula.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El coronel es muy cuidadoso con el café porque lo importa de otro país.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El coronel cocina el café de esta manera porque así tradición familiar.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El coronel tiene mucho café pero prefiere gastar poco.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-latinamerican-lit-001-PRO-v4-bundle",
+      "periodo": 4,
+      "protocol_version": "4.1"
+    },
+    {
+      "id": "CO-LEC-10-latinamerican-lit-001-PRO-v2",
+      "statement": "**ID:** `CO-LEC-10-latinamerican-lit-001-PRO-v2`\r\n**ICFES:** Comprender la articulación de las partes\r\n\r\n### Enunciado\r\nEl narrador dice que el coronel ha esperado \"veintiún años\". ¿Cómo contribuye este dato al efecto narrativo principal del fragmento?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Da información histórica precisa sobre cuándo ocurrió la historia.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Crea una dimensión de tiempo **colosal**: una espera de más de dos décadas transforma al personaje en símbolo de la **resistencia estoica**, una vida entera suspendida en expectativa.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Indica que el coronel es viejo y ya no puede trabajar.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Es un número aleatorio sin significado especial en el texto.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-latinamerican-lit-001-PRO-v4-bundle",
+      "periodo": 4,
+      "protocol_version": "4.1"
+    },
+    {
+      "id": "CO-LEC-10-latinamerican-lit-001-PRO-v3",
+      "statement": "**ID:** `CO-LEC-10-latinamerican-lit-001-PRO-v3`\r\n\r\n### Enunciado\r\nGarcía Márquez describe el estado de ánimo del coronel como \"acompasado al del tiempo gris y glacial\". ¿Cómo se llama esta figura literaria que fusiona el estado interno del personaje con el ambiente externo?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metáfora pura (solo relaciona una cosa con otra).",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "**Patetic Fallacy** (Falacia Patética) o Correlato Objetivo: el entorno natural refleja y amplifica el estado emocional del personaje. El clima gris *representa* la grisura interior del coronel.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Hipérbole: exageración del frío para efectos cómicos.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Aliteración: repetición de sonidos.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-latinamerican-lit-001-PRO-v4-bundle",
+      "periodo": 4,
+      "protocol_version": "4.1"
+    },
+    {
+      "id": "CO-LEC-10-latinamerican-lit-001-PRO-v4",
+      "statement": "**ID:** `CO-LEC-10-latinamerican-lit-001-PRO-v4`\r\n### Enunciado\r\nEl **Coronel No Tiene Quien Le Escriba** de García Márquez tiene paralelos con **Don Quijote** de Cervantes: dos hombres que esperan algo que quizás nunca llegará (la carta de la pensión / la dama Dulcinea) y viven inmersos en una idea que los separa de la realidad. ¿Qué relación intertextual se establece entre las obras?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas tienen los mismos personajes y la misma época, por lo que son la misma historia.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Ambas exploran el **tema del idealismo y la dignidad frente a la desilusión**: el personaje mantiene una idea o esperanza irreal que le da sentido a su vida aunque la realidad cotidiana lo contradiga.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "García Márquez copió directamente la trama de Cervantes.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Son intertextuales porque ambos autores son de habla hispana.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-latinamerican-lit-001-PRO-v4-bundle",
+      "periodo": 4,
+      "protocol_version": "4.1"
+    },
+    {
+      "id": "CO-LEC-10-latinamerican-lit-001-PRO-v5",
+      "statement": "**ID:** `CO-LEC-10-latinamerican-lit-001-PRO-v5`\r\n**Type:** `weighted`\r\n\r\n### Enunciado\r\nLa obra de García Márquez está ambientada durante el período post-guerra civil colombiana y el bipartidismo. Seleccione TODAS las formas en que este contexto histórico se refleja en el fragmento.\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La \"espera de 21 años\" por una carta de la pensión del gobierno alude a la burocracia y la promesa incumplida del Estado a sus veteranos de guerra. <!-- weight: 1.0 -->",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La pobreza extrema del coronel refleja el abandono estatal de quienes participaron en los conflictos armados colombianos. <!-- weight: 1.0 -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "El café es una metáfora de la paz entre los partidos políticos. <!-- weight: 0.0 -->",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El ambiente gris representa la prosperidad económica de la época. <!-- weight: 0.0 -->",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-latinamerican-lit-001-PRO-v4-bundle",
+      "periodo": 4,
+      "protocol_version": "4.1"
+    },
+    {
+      "id": "CO-LEC-10-latinamerican-lit-001-PRO-v7",
+      "statement": "**ID:** `CO-LEC-10-latinamerican-lit-001-PRO-v7`\r\n\r\n### Enunciado\r\n¿Cuál de estas obras pertenece a la corriente del **Boom Latinoamericano**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Don Quijote de la Mancha\" de Cervantes.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "\"Cien Años de Soledad\" de García Márquez (Premio Nobel 1982).",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "\"Romeo y Julieta\" de Shakespeare.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "\"La Odisea\" de Homero.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Pedagógica\r\nEl Boom Latinoamericano (años 60-70) fue un movimiento literario que catapultó la literatura de América Latina al escenario mundial con autores como García Márquez (Colombia), Vargas Llosa (Perú), Cortázar (Argentina) y Fuentes (México). Sus obras mezclaban realismo mágico, experimentación formal y crítica política.\r\n\r\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-latinamerican-lit-001-PRO-v4-bundle",
+      "periodo": 4,
+      "protocol_version": "4.1"
+    },
+    {
+      "id": "CO-LEC-10-latinamerican-lit-001-PRO-v13",
+      "statement": "**ID:** `CO-LEC-10-latinamerican-lit-001-PRO-v13`\r\n**Type:** `multi-correct`\r\n\r\n### Enunciado\r\nSeleccione TODOS los elementos que caracterizan al **Realismo Mágico** latinoamericano.\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Integración de elementos sobrenaturales o maravillosos en una narración realista sin que los personajes los cuestionen. <!-- weight: 1.0 -->",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Anclaje en la realidad latinoamericana: su historia, sus conflictos políticos, su sincretismo cultural. <!-- weight: 1.0 -->",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Ruptura total con la realidad: los hechos siempre son imposibles y claramente fantásticos.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un lenguaje de gran riqueza poética y sensorial que crea \"mundos\" verosímiles donde lo mágico y lo cotidiano coexisten. <!-- weight: 1.0 -->",
+          "is_correct": true
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-latinamerican-lit-001-PRO-v4-bundle",
+      "periodo": 4,
+      "protocol_version": "4.1"
+    },
+    {
+      "id": "CO-LEC-10-latinamerican-lit-001-PRO-v20",
+      "statement": "**ID:** `CO-LEC-10-latinamerican-lit-001-PRO-v20`\r\n\r\n### Enunciado\r\nSegún la crítica literaria, García Márquez no habría escrito \"Cien Años de Soledad\" sin las influencias de **Faulkner** (el flujo de consciencia), **Kafka** (lo absurdo cotidiano) y la **mitología yoruba** (a través de los esclavos africanos traídos a Colombia). ¿Qué revela este proceso sobre la naturaleza de la creación literaria?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que García Márquez plagió a otros autores.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Que ninguna obra literaria nace en el vacío: toda creación es un **diálogo intertextual** con las lecturas, las tradiciones culturales y el contexto histórico del autor. La originalidad no es la ausencia de influencias sino la síntesis única de ellas.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Que la literatura latinoamericana no tiene identidad propia.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Que Faulkner y Kafka eran colombianos.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "9",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-LEC-10-latinamerican-lit-001-PRO-v4-bundle",
+      "periodo": 4,
+      "protocol_version": "4.1"
+    }
+  ]
+}

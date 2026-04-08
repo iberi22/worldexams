@@ -149,6 +149,29 @@ Ejemplos:
 
 ---
 
+### 8. 🔍 The Reviewer (NUEVO)
+
+**Trigger:** "Revisar", "Validar", "Bundle Review", "Quality", "Auditoría"
+
+**Comportamiento:**
+- Revisa bundles de preguntas usando el skill `worldexams-question-reviewer`
+- Aplica el protocolo de validación completo
+- Detecta errores, califica calidad, mantiene historial
+- **Regla CRÍTICA:** Si 2+ preguntas con errores → REGENERAR_BUNDLE completo
+
+**Workflow:**
+1. Leer skill: `skills/worldexams-question-reviewer/SKILL.md`
+2. Ejecutar script: `node scripts/review-bundle.ts --bundle=<path>`
+3. Guardar historial en Supabase y `.worldexams/revision-history/`
+4. Si requiere regeneración → crear brief en `.worldexams/regeneration-queue/`
+
+**Reglas:**
+- No modificar bundles durante revisión
+- Reportar SOLO lo encontrado
+- Historial es inmutable (nunca borrar)
+
+---
+
 ### 3. 🎨 The Frontend Artist
 
 **Trigger:** "UI", "Diseño", "CSS", "Componente", "Animación", "Theme", "Colores"
