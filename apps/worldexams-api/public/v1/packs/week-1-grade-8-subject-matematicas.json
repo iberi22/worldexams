@@ -1,0 +1,5450 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "matematicas",
+    "pack_id": "week-1-grade-8-subject-matematicas",
+    "generated_at": "2026-03-16T18:04:21.567Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-8-analisis-datos-graficos-001-v1",
+      "statement": "**ID:** `CO-MAT-8-analisis-datos-graficos-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Para qué sirve principalmente un **Gráfico Circular** (o de Torta)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para mostrar porcentajes o proporciones de un total (ej: qué porcentaje de alumnos prefiere fútbol, basket, etc.)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Para ver el cambio en el tiempo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Para ver la dispersión",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Para sumar números",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa torta completa representa el $100\\%$.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-analisis-datos-graficos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-analisis-datos-graficos-001-v2",
+      "statement": "**ID:** `CO-MAT-8-analisis-datos-graficos-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Moda** en un conjunto de datos?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El dato que más se repite (el más frecuente)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El promedio",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El dato del medio",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El dato más grande",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs como la moda en la ropa: lo que \"todo el mundo usa\".\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-analisis-datos-graficos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-analisis-datos-graficos-001-v3",
+      "statement": "**ID:** `CO-MAT-8-analisis-datos-graficos-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un **Histograma**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un gráfico de barras unidas (pegadas) que se usa para representar datos agrupados en intervalos continuos (ej: estaturas)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un gráfico de líneas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un mapa",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una tabla",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nA diferencia del gráfico de barras normal (para categorías), aquí no hay espacio entre las barras porque los intervalos son continuos.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-analisis-datos-graficos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-analisis-datos-graficos-001-v4",
+      "statement": "**ID:** `CO-MAT-8-analisis-datos-graficos-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se calcula el **Promedio** (Media Aritmética) de las notas: 3, 4 y 5?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sumando todo y dividiendo por el número de datos: $(3+4+5)/3 = 4$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Tomando el dato del medio (4)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Multiplicando todo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Restando el menor al mayor",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs el valor que tendrían todos los datos si se repartieran equitativamente.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-analisis-datos-graficos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-analisis-datos-graficos-001-v5",
+      "statement": "**ID:** `CO-MAT-8-analisis-datos-graficos-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Mediana** de un conjunto de datos ordenados?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El valor central que divide al conjunto de datos en dos partes iguales ($50\\%$ menores y $50\\%$ mayores)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El promedio",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La moda",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La mitad de la suma",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSi tienes 5 datos ordenados, la mediana es el tercero.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-analisis-datos-graficos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-analisis-datos-graficos-001-v6",
+      "statement": "**ID:** `CO-MAT-8-analisis-datos-graficos-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué gráfico es mejor para mostrar la evolución de la temperatura a lo largo de los meses del año (cambio en el tiempo)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gráfico de Líneas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Gráfico Circular",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Diagrama de Tallo y Hojas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Pictograma",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa línea permite ver claramente las subidas y bajadas (tendencias).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-analisis-datos-graficos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-analisis-datos-graficos-001-v7",
+      "statement": "**ID:** `CO-MAT-8-analisis-datos-graficos-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **Rango** (en estadística descriptiva)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La diferencia entre el valor máximo y el valor mínimo de los datos (indica qué tan dispersos están)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El promedio",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El total de datos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La suma de todo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSi las notas van de 1 a 5, el rango es $5 - 1 = 4$.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-analisis-datos-graficos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-analisis-datos-graficos-001-v8",
+      "statement": "**ID:** `CO-MAT-8-analisis-datos-graficos-001-v8`\r\n\r\n### Enunciado\r\n\r\nSi en un gráfico de barras la altura de la barra A es el doble de la barra B, ¿qué significa?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la frecuencia de A es el doble que la de B",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Que A es más ancho",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Que A es más importante",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Que B es la mitad de ancho",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa altura es proporcional a la cantidad.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-analisis-datos-graficos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-analisis-datos-graficos-001-v9",
+      "statement": "**ID:** `CO-MAT-8-analisis-datos-graficos-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué medida de tendencia central es más adecuada si hay **datos atípicos** muy extremos (ej: sueldos: \\$1M, \\$1M, \\$1M, \\$100M)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Mediana (porque no se deja afectar por los extremos)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Promedio (Media)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Rango",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La Varianza",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl promedio se dispararía por culpa de los \\$100M, dando una falsa idea de riqueza. La mediana seguiría siendo \\$1M.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-analisis-datos-graficos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-analisis-datos-graficos-001-v10",
+      "statement": "**ID:** `CO-MAT-8-analisis-datos-graficos-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un **Polígono de Frecuencias**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una línea que une los puntos medios de las cimas de las barras de un histograma",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un polígono regular",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un círculo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una tabla",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAyuda a visualizar la forma de la distribución de los datos.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-analisis-datos-graficos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-desigualdades-inecuaciones-001-v1",
+      "statement": "**ID:** `CO-MAT-8-desigualdades-inecuaciones-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué símbolo representa \"Mayor o igual que\"?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\geq$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$>$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$\\leq$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$=$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa rayita abajo significa que el número también puede ser igual.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-desigualdades-inecuaciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-desigualdades-inecuaciones-001-v2",
+      "statement": "**ID:** `CO-MAT-8-desigualdades-inecuaciones-001-v2`\r\n\r\n### Enunciado\r\n\r\nSi $x > 5$, ¿cuál de estos valores puede tomar $x$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$6$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$5$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$4$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$0$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nComo es estrictamente \"mayor que 5\", el 5 no está incluido.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-desigualdades-inecuaciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-desigualdades-inecuaciones-001-v3",
+      "statement": "**ID:** `CO-MAT-8-desigualdades-inecuaciones-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué pasa con el sentido de la desigualdad si multiplicas o divides ambos lados por un **número negativo**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se invierte el sentido (de mayor a menor, o viceversa)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Se mantiene igual",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Se vuelve igual a",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Desaparece",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEjemplo: $2 < 4$. Si multiplicas por $-1$, queda $-2 > -4$ (que es verdad). Si no invirtieras, quedaría $-2 < -4$ (falso).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-desigualdades-inecuaciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-desigualdades-inecuaciones-001-v4",
+      "statement": "**ID:** `CO-MAT-8-desigualdades-inecuaciones-001-v4`\r\n\r\n### Enunciado\r\n\r\nResuelve la inecuación lineal: $x + 3 < 10$.\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x < 7$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$x > 7$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$x < 13$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$x = 7$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nRestamos 3 a ambos lados: $x < 10 - 3 \\rightarrow x < 7$.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-desigualdades-inecuaciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-desigualdades-inecuaciones-001-v5",
+      "statement": "**ID:** `CO-MAT-8-desigualdades-inecuaciones-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se escribe el intervalo que representa la desigualdad $x \\geq 2$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$[2, \\infty)$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$(2, \\infty)$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$(2, \\infty]$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$(-\\infty, 2]$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl corchete $[$ indica que el 2 está incluido (cerrado). El paréntesis $)$ siempre va con el infinito.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-desigualdades-inecuaciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-desigualdades-inecuaciones-001-v6",
+      "statement": "**ID:** `CO-MAT-8-desigualdades-inecuaciones-001-v6`\r\n\r\n### Enunciado\r\n\r\nResuelve: $-2x < 8$.\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x > -4$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$x < -4$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$x > 4$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$x < 4$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAl dividir por $-2$, invertimos el signo: $x > 8/(-2) \\rightarrow x > -4$.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-desigualdades-inecuaciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-desigualdades-inecuaciones-001-v7",
+      "statement": "**ID:** `CO-MAT-8-desigualdades-inecuaciones-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué intervalo representa la intersección de $x > 3$ y $x \\leq 8$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(3, 8]$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$[3, 8]$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$(3, 8)$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$[3, 8)$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSon los números mayores que 3 PERO menores o iguales a 8. Abierto en 3, cerrado en 8.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-desigualdades-inecuaciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-desigualdades-inecuaciones-001-v8",
+      "statement": "**ID:** `CO-MAT-8-desigualdades-inecuaciones-001-v8`\r\n\r\n### Enunciado\r\n\r\nResuelve la inecuación compuesta: $4 \\leq 2x < 10$.\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2 \\leq x < 5$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$2 < x \\leq 5$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$2 \\leq x \\leq 5$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$4 \\leq x < 5$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nDividimos todo por 2:\r\n$4/2 \\leq x < 10/2$\r\n$2 \\leq x < 5$.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-desigualdades-inecuaciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-desigualdades-inecuaciones-001-v9",
+      "statement": "**ID:** `CO-MAT-8-desigualdades-inecuaciones-001-v9`\r\n\r\n### Enunciado\r\n\r\nUn ascensor soporta máximo 400 kg. Si ya hay 2 personas que pesan 150 kg en total, ¿cuántos paquetes de 25 kg ($p$) se pueden subir? Plantea la inecuación.\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$150 + 25p \\leq 400$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$150 + 25p > 400$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$25p < 400$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$150p + 25 \\leq 400$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl peso total debe ser menor o igual a 400. Al resolver: $25p \\leq 250 \\rightarrow p \\leq 10$.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-desigualdades-inecuaciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-desigualdades-inecuaciones-001-v10",
+      "statement": "**ID:** `CO-MAT-8-desigualdades-inecuaciones-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la solución gráfica en la recta numérica de $|x| < 3$ (Valor absoluto de x es menor que 3)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números entre -3 y 3 (sin incluirlos)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números mayores que 3",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Todos los números menores que -3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Solo el 0, 1 y 2",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSignifica que la distancia al cero es menor que 3. O sea, $(-3, 3)$.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-desigualdades-inecuaciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-diagramas-arbol-conteo-001-v1",
+      "statement": "**ID:** `CO-MAT-8-diagramas-arbol-conteo-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un **Diagrama de Árbol**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un gráfico con ramas que muestra todos los resultados posibles de una secuencia de eventos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un dibujo de la naturaleza",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un mapa conceptual",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un tipo de planta",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSirve para no olvidar ninguna combinación posible.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-diagramas-arbol-conteo-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-diagramas-arbol-conteo-001-v2",
+      "statement": "**ID:** `CO-MAT-8-diagramas-arbol-conteo-001-v2`\r\n\r\n### Enunciado\r\n\r\nTienes 2 camisas (Roja, Azul) y 2 pantalones (Negro, Blanco). ¿Cuántas combinaciones de ropa puedes armar?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$2 \\times 2 = 4$ (R-N, R-B, A-N, A-B).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-diagramas-arbol-conteo-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-diagramas-arbol-conteo-001-v3",
+      "statement": "**ID:** `CO-MAT-8-diagramas-arbol-conteo-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué dice el **Principio Multiplicativo**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Si un evento A puede ocurrir de $m$ formas y un evento B de $n$ formas, entonces juntos pueden ocurrir de $m \\times n$ formas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Que se deben sumar las opciones",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Que se dividen las opciones",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Que siempre da 10",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs la regla de oro del conteo.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-diagramas-arbol-conteo-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-diagramas-arbol-conteo-001-v4",
+      "statement": "**ID:** `CO-MAT-8-diagramas-arbol-conteo-001-v4`\r\n\r\n### Enunciado\r\n\r\nPara ir de la ciudad A a la B hay 3 caminos. De la B a la C hay 4 caminos. ¿De cuántas formas puedes ir de A a C pasando por B?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 formas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "7 formas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "4 formas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "3 formas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$3 \\times 4 = 12$ rutas posibles.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-diagramas-arbol-conteo-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-diagramas-arbol-conteo-001-v5",
+      "statement": "**ID:** `CO-MAT-8-diagramas-arbol-conteo-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **Factorial** de un número $n!$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El producto de todos los números enteros positivos desde 1 hasta $n$ (ej: $3! = 3 \\times 2 \\times 1 = 6$)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El número sumado consigo mismo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El número al cuadrado",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El número dividido por 2",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSe usa mucho en permutaciones.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-diagramas-arbol-conteo-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-diagramas-arbol-conteo-001-v6",
+      "statement": "**ID:** `CO-MAT-8-diagramas-arbol-conteo-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿De cuántas formas se pueden ordenar 5 libros diferentes en una repisa? (Permutación).\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$120$ ($5!$)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$25$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$10$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$5$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$5 \\times 4 \\times 3 \\times 2 \\times 1 = 120$.\r\nPara el primer lugar tienes 5 opciones, para el segundo 4, etc.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-diagramas-arbol-conteo-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-diagramas-arbol-conteo-001-v7",
+      "statement": "**ID:** `CO-MAT-8-diagramas-arbol-conteo-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la diferencia clave entre **Permutación** y **Combinación**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la Permutación EL ORDEN IMPORTA (ej: clave secreta); en la Combinación NO IMPORTA (ej: ensalada de frutas)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Son lo mismo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La combinación es más difícil",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La permutación usa sumas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSi cambias el orden y es algo distinto (123 vs 321), es permutación.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-diagramas-arbol-conteo-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-diagramas-arbol-conteo-001-v8",
+      "statement": "**ID:** `CO-MAT-8-diagramas-arbol-conteo-001-v8`\r\n\r\n### Enunciado\r\n\r\nEn una carrera de 8 corredores, ¿de cuántas formas se pueden repartir las medallas de Oro, Plata y Bronce?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$336$ ($8 \\times 7 \\times 6$)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$56$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$24$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$512$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs una variación donde importa el orden. $8 \\times 7 \\times 6 = 336$.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-diagramas-arbol-conteo-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-diagramas-arbol-conteo-001-v9",
+      "statement": "**ID:** `CO-MAT-8-diagramas-arbol-conteo-001-v9`\r\n\r\n### Enunciado\r\n\r\nQuieres elegir un comité de 3 estudiantes de un grupo de 10. ¿Cuántos comités diferentes puedes formar? (Combinación: el orden no importa).\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$120$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$720$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$30$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$1000$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nFórmula: $\\frac{10!}{3!(10-3)!} = \\frac{10 \\times 9 \\times 8}{3 \\times 2 \\times 1} = \\frac{720}{6} = 120$.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-diagramas-arbol-conteo-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-diagramas-arbol-conteo-001-v10",
+      "statement": "**ID:** `CO-MAT-8-diagramas-arbol-conteo-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Cuántos números de 3 cifras distintos se pueden formar con los dígitos 1, 2, 3, 4, 5 si se permite repetir dígitos?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$125$ ($5^3$)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$60$ ($5 \\times 4 \\times 3$)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$15$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$120$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nTienes 5 opciones para la primera cifra, 5 para la segunda y 5 para la tercera. $5 \\times 5 \\times 5 = 125$.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-diagramas-arbol-conteo-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-ecuaciones-lineales-sistemas-001-v1",
+      "statement": "**ID:** `CO-MAT-8-ecuaciones-lineales-sistemas-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un **Sistema de Ecuaciones Lineales $2 \\times 2$**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un conjunto de dos ecuaciones con dos incógnitas (generalmente $x$ y $y$) que deben cumplirse al mismo tiempo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una ecuación muy larga",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Dos sumas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una multiplicación",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nBuscamos el punto donde dos líneas rectas se cruzan.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-ecuaciones-lineales-sistemas-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-ecuaciones-lineales-sistemas-001-v2",
+      "statement": "**ID:** `CO-MAT-8-ecuaciones-lineales-sistemas-001-v2`\r\n\r\n### Enunciado\r\n\r\nSi $x + y = 10$ y $x - y = 2$, ¿cuáles son los valores de $x$ y $y$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 6$, $y = 4$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$x = 5$, $y = 5$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$x = 8$, $y = 2$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$x = 10$, $y = 0$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$6+4=10$ y $6-4=2$. ¡Correcto!\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-ecuaciones-lineales-sistemas-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-ecuaciones-lineales-sistemas-001-v3",
+      "statement": "**ID:** `CO-MAT-8-ecuaciones-lineales-sistemas-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿En qué consiste el **Método de Sustitución**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Despejar una variable en una ecuación y reemplazarla en la otra",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Sumar las dos ecuaciones",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Dibujar las gráficas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Adivinar los números",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs como reemplazar un jugador por otro en un partido de fútbol.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-ecuaciones-lineales-sistemas-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-ecuaciones-lineales-sistemas-001-v4",
+      "statement": "**ID:** `CO-MAT-8-ecuaciones-lineales-sistemas-001-v4`\r\n\r\n### Enunciado\r\n\r\nResuelve usando el método que prefieras:\r\n1) $2x + y = 7$\r\n2) $y = 3$\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 2$, $y = 3$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$x = 3$, $y = 3$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$x = 1$, $y = 3$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$x = 0$, $y = 3$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nReemplazamos $y$ por 3 en la primera ecuación: $2x + 3 = 7 \\rightarrow 2x = 4 \\rightarrow x = 2$.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-ecuaciones-lineales-sistemas-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-ecuaciones-lineales-sistemas-001-v5",
+      "statement": "**ID:** `CO-MAT-8-ecuaciones-lineales-sistemas-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿En qué consiste el **Método de Reducción** (o Eliminación)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sumar o restar las ecuaciones (multiplicando a veces por un número) para eliminar una de las incógnitas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Borrar una incógnita con el borrador",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Hacer la ecuación más pequeña",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Dividir todo por cero",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSi tienes $x$ arriba y $-x$ abajo, al sumar se cancelan y desaparecen.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-ecuaciones-lineales-sistemas-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-ecuaciones-lineales-sistemas-001-v6",
+      "statement": "**ID:** `CO-MAT-8-ecuaciones-lineales-sistemas-001-v6`\r\n\r\n### Enunciado\r\n\r\nResuelve por Reducción:\r\n1) $x + y = 5$\r\n2) $x - y = 1$\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 3$, $y = 2$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$x = 4$, $y = 1$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$x = 2$, $y = 3$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$x = 5$, $y = 0$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSumamos las dos ecuaciones: $2x = 6 \\rightarrow x = 3$.\r\nLuego sustituimos: $3 + y = 5 \\rightarrow y = 2$.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-ecuaciones-lineales-sistemas-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-ecuaciones-lineales-sistemas-001-v7",
+      "statement": "**ID:** `CO-MAT-8-ecuaciones-lineales-sistemas-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué significa gráficamente que un sistema **NO** tiene solución?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las dos rectas son paralelas y nunca se cruzan",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Que las rectas son iguales (coincidentes)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Que las rectas se cruzan en un punto",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Que son curvas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLas líneas paralelas van en la misma dirección pero nunca se tocan, como los rieles de un tren.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-ecuaciones-lineales-sistemas-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-ecuaciones-lineales-sistemas-001-v8",
+      "statement": "**ID:** `CO-MAT-8-ecuaciones-lineales-sistemas-001-v8`\r\n\r\n### Enunciado\r\n\r\nDos manzanas y tres peras cuestan \\$800 pesos.\r\nDos manzanas y una pera cuestan \\$400 pesos.\r\n¿Cuánto cuesta cada pera?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\\$200 pesos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "\\$100 pesos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "\\$300 pesos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "\\$400 pesos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa diferencia entre las dos compras son 2 peras, y la diferencia de precio es \\$400. Así que 2 peras valen \\$400.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-ecuaciones-lineales-sistemas-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-ecuaciones-lineales-sistemas-001-v9",
+      "statement": "**ID:** `CO-MAT-8-ecuaciones-lineales-sistemas-001-v9`\r\n\r\n### Enunciado\r\n\r\nResuelve el sistema:\r\n1) $3x + 2y = 12$\r\n2) $5x - y = 7$\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x = 2$, $y = 3$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$x = 1$, $y = 4$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$x = 3$, $y = 1$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$x = 4$, $y = 0$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nMultiplica la segunda ecuación por 2: $10x - 2y = 14$.\r\nSuma con la primera: $13x = 26 \\rightarrow x = 2$.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-ecuaciones-lineales-sistemas-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-ecuaciones-lineales-sistemas-001-v10",
+      "statement": "**ID:** `CO-MAT-8-ecuaciones-lineales-sistemas-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Cuántas soluciones tiene un sistema de ecuaciones donde las dos ecuaciones representan **la misma recta** (ej: $x+y=2$ y $2x+2y=4$)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Infinitas soluciones (todos los puntos de la recta)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una única solución",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Ninguna solución",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Dos soluciones",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs como si preguntaras: \"¿Dónde se toca una línea consigo misma?\". En todas partes.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-ecuaciones-lineales-sistemas-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-estadistica-bivariada-001-v1",
+      "statement": "**ID:** `CO-MAT-8-estadistica-bivariada-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué estudia la **Estadística Bivariada**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La relación entre dos variables en un mismo conjunto de datos (ej: estatura y peso de un grupo de estudiantes)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una sola variable",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Tres variables",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna variable",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n\"Bi\" significa dos. Buscamos ver si una cosa depende de la otra.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-estadistica-bivariada-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-estadistica-bivariada-001-v2",
+      "statement": "**ID:** `CO-MAT-8-estadistica-bivariada-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Qué gráfico se usa comúnmente para representar datos bivariados (dos variables cuantitativas)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diagrama de Dispersión (Nube de Puntos)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Diagrama de Torta",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Histograma",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Pictograma",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nCada punto representa un par de datos $(x, y)$.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-estadistica-bivariada-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-estadistica-bivariada-001-v3",
+      "statement": "**ID:** `CO-MAT-8-estadistica-bivariada-001-v3`\r\n\r\n### Enunciado\r\n\r\nEn un diagrama de dispersión, si los puntos suben de izquierda a derecha (como una recta inclinada hacia arriba), ¿qué tipo de **Correlación** existe?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Correlación Positiva (Directa)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Correlación Negativa (Inversa)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Correlación Nula",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No hay correlación",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSignifica que si una variable aumenta, la otra también aumenta (ej: más estudio, mejor nota).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-estadistica-bivariada-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-estadistica-bivariada-001-v4",
+      "statement": "**ID:** `CO-MAT-8-estadistica-bivariada-001-v4`\r\n\r\n### Enunciado\r\n\r\nSi al graficar los puntos parecen una nube sin forma ni dirección clara, ¿qué tipo de correlación es?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Correlación Nula (No hay relación)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Correlación Positiva",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Correlación Negativa",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Correlación Perfecta",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSignifica que una variable no tiene nada que ver con la otra (ej: talla de zapato e inteligencia).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-estadistica-bivariada-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-estadistica-bivariada-001-v5",
+      "statement": "**ID:** `CO-MAT-8-estadistica-bivariada-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué significa una **Correlación Negativa** (Inversa) entre dos variables?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que cuando una variable aumenta, la otra disminuye (ej: a mayor velocidad, menor tiempo de viaje)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Que ambas aumentan",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Que ambas disminuyen",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Que son malas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos puntos bajan de izquierda a derecha.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-estadistica-bivariada-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-estadistica-bivariada-001-v6",
+      "statement": "**ID:** `CO-MAT-8-estadistica-bivariada-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Tabla de Contingencia** (o Tabla Cruzada)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una tabla que muestra la frecuencia de dos variables cualitativas (categóricas) simultáneamente (ej: Hombres/Mujeres vs. Fuman/No Fuman)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una tabla de multiplicar",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una lista de precios",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un horario de clases",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSirve para ver si hay relación entre dos características no numéricas.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-estadistica-bivariada-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-estadistica-bivariada-001-v7",
+      "statement": "**ID:** `CO-MAT-8-estadistica-bivariada-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué indica un coeficiente de correlación $r = 1$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Correlación Positiva Perfecta (los puntos forman una línea recta perfecta subiendo)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Correlación Nula",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Correlación Negativa Perfecta",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Error de cálculo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs el valor máximo posible de relación lineal.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-estadistica-bivariada-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-estadistica-bivariada-001-v8",
+      "statement": "**ID:** `CO-MAT-8-estadistica-bivariada-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué indica un coeficiente de correlación $r = -0,9$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una Correlación Negativa muy fuerte (casi perfecta)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una Correlación Positiva",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Correlación Nula",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Correlación débil",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl signo menos indica que es inversa, y el 0,9 que están muy alineados.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-estadistica-bivariada-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-estadistica-bivariada-001-v9",
+      "statement": "**ID:** `CO-MAT-8-estadistica-bivariada-001-v9`\r\n\r\n### Enunciado\r\n\r\nSi encontramos una correlación fuerte entre dos variables (ej: venta de helados y ataques de tiburones), ¿significa necesariamente que una causa la otra (**Causalidad**)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, correlación no implica causalidad (puede haber una tercera variable oculta, como el clima caluroso, que cause ambas cosas)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Sí, siempre",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Sí, los helados atraen tiburones",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Depende del sabor del helado",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEste es el error más común en estadística. ¡Cuidado!\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-estadistica-bivariada-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-estadistica-bivariada-001-v10",
+      "statement": "**ID:** `CO-MAT-8-estadistica-bivariada-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Línea de Tendencia** (o Recta de Regresión) en un diagrama de dispersión?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una línea recta que pasa \"por el medio\" de la nube de puntos y sirve para predecir valores",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una línea que une todos los puntos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El eje X",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El margen de la hoja",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs el mejor resumen lineal del comportamiento de los datos.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-estadistica-bivariada-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-factorizacion-algebraica-001-v1",
+      "statement": "**ID:** `CO-MAT-8-factorizacion-algebraica-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué significa **Factorizar** una expresión algebraica?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escribirla como una multiplicación de sus factores más simples (lo contrario de multiplicar)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Sumar sus términos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Restarle cero",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Dividirla por dos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nIgual que $15$ se factoriza en $3 \\times 5$, $x^2 + x$ se factoriza en $x(x+1)$.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-factorizacion-algebraica-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-factorizacion-algebraica-001-v2",
+      "statement": "**ID:** `CO-MAT-8-factorizacion-algebraica-001-v2`\r\n\r\n### Enunciado\r\n\r\nEn la expresión $3x + 3y$, ¿cuál es el **Factor Común**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$x$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$y$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$xy$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl número $3$ está presente en ambos términos, así que lo \"sacamos\" fuera del paréntesis: $3(x+y)$.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-factorizacion-algebraica-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-factorizacion-algebraica-001-v3",
+      "statement": "**ID:** `CO-MAT-8-factorizacion-algebraica-001-v3`\r\n\r\n### Enunciado\r\n\r\nFactoriza por **Factor Común**: $5x^2 - 10x$.\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$5x(x - 2)$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$5(x^2 - 2)$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$x(5x - 10)$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$5x(x - 5)$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nDividimos ambos términos por el máximo factor común ($5x$):\r\n$5x^2/5x = x$\r\n$-10x/5x = -2$.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-factorizacion-algebraica-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-factorizacion-algebraica-001-v4",
+      "statement": "**ID:** `CO-MAT-8-factorizacion-algebraica-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se factoriza una **Diferencia de Cuadrados** como $x^2 - 9$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x + 3)(x - 3)$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$(x - 3)(x - 3)$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$(x + 9)(x - 9)$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$(x + 3)(x + 3)$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa fórmula es $a^2 - b^2 = (a+b)(a-b)$. Aquí la raíz cuadrada de 9 es 3.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-factorizacion-algebraica-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-factorizacion-algebraica-001-v5",
+      "statement": "**ID:** `CO-MAT-8-factorizacion-algebraica-001-v5`\r\n\r\n### Enunciado\r\n\r\nFactoriza el **Trinomio Cuadrado Perfecto**: $x^2 + 6x + 9$.\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x + 3)^2$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$(x - 3)^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$(x + 9)^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$(x + 1)(x + 9)$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs perfecto porque los extremos tienen raíz exacta ($x$ y $3$) y el centro es el doble de su producto ($2 \\cdot x \\cdot 3 = 6x$).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-factorizacion-algebraica-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-factorizacion-algebraica-001-v6",
+      "statement": "**ID:** `CO-MAT-8-factorizacion-algebraica-001-v6`\r\n\r\n### Enunciado\r\n\r\nFactoriza el trinomio de la forma $x^2 + bx + c$:\r\n$x^2 + 5x + 6$.\r\n(Busca dos números que multiplicados den 6 y sumados den 5).\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x + 3)(x + 2)$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$(x + 6)(x + 1)$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$(x - 3)(x - 2)$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$(x + 5)(x + 1)$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$3 \\times 2 = 6$\r\n$3 + 2 = 5$\r\n¡Correcto!\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-factorizacion-algebraica-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-factorizacion-algebraica-001-v7",
+      "statement": "**ID:** `CO-MAT-8-factorizacion-algebraica-001-v7`\r\n\r\n### Enunciado\r\n\r\nFactoriza la expresión $4x^2 - 25$.\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(2x + 5)(2x - 5)$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$(2x - 5)(2x - 5)$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$(4x + 5)(x - 5)$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$(2x - 25)(2x + 1)$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs una diferencia de cuadrados.\r\n$\\sqrt{4x^2} = 2x$\r\n$\\sqrt{25} = 5$.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-factorizacion-algebraica-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-factorizacion-algebraica-001-v8",
+      "statement": "**ID:** `CO-MAT-8-factorizacion-algebraica-001-v8`\r\n\r\n### Enunciado\r\n\r\nFactoriza por **Agrupación de Términos**: $ax + ay + bx + by$.\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(a + b)(x + y)$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$(a + x)(b + y)$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$ab(x + y)$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$xy(a + b)$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAgrupamos los dos primeros: $a(x+y)$ y los dos últimos: $b(x+y)$. Luego sacamos el paréntesis común.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-factorizacion-algebraica-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-factorizacion-algebraica-001-v9",
+      "statement": "**ID:** `CO-MAT-8-factorizacion-algebraica-001-v9`\r\n\r\n### Enunciado\r\n\r\nFactoriza el trinomio $2x^2 + 7x + 3$. (Método de la tijera o trinomio $ax^2+bx+c$).\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(2x + 1)(x + 3)$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$(2x + 3)(x + 1)$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$(2x - 1)(x - 3)$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$(x + 7)(2x + 3)$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nProbamos:\\\r\n$(2x \\cdot x) = 2x^2$\\\r\n$(1 \\cdot 3) = 3$\\\r\nCruzado: $(2x \\cdot 3) + (x \\cdot 1) = 6x + x = 7x$. ¡Coincide!\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-factorizacion-algebraica-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-factorizacion-algebraica-001-v10",
+      "statement": "**ID:** `CO-MAT-8-factorizacion-algebraica-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la factorización completa de $x^4 - 16$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(x^2 + 4)(x + 2)(x - 2)$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$(x^2 - 4)(x^2 + 4)$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$(x - 2)^4$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$(x^2 + 4)^2$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPrimero aplicas diferencia de cuadrados: $(x^2+4)(x^2-4)$.\r\nPero $x^2-4$ se puede volver a factorizar en $(x+2)(x-2)$.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-factorizacion-algebraica-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-figuras-planas-area-perimetro-001-v1",
+      "statement": "**ID:** `CO-MAT-8-figuras-planas-area-perimetro-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **Perímetro** de una figura plana?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La suma de las longitudes de todos sus lados (el contorno)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El espacio que ocupa adentro",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La diagonal",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El número de esquinas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs como medir cuánta cerca necesitas para rodear un terreno.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-figuras-planas-area-perimetro-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-figuras-planas-area-perimetro-001-v2",
+      "statement": "**ID:** `CO-MAT-8-figuras-planas-area-perimetro-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la fórmula para el área de un **Triángulo** de base $b$ y altura $h$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$A = \\frac{b \\cdot h}{2}$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$A = b \\cdot h$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$A = b + h$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$A = b^2$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs la mitad del área de un rectángulo.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-figuras-planas-area-perimetro-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-figuras-planas-area-perimetro-001-v3",
+      "statement": "**ID:** `CO-MAT-8-figuras-planas-area-perimetro-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el perímetro de un cuadrado de lado $5$ cm?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$20$ cm",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$25$ cm",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$10$ cm",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$15$ cm",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl cuadrado tiene 4 lados iguales. $5 + 5 + 5 + 5 = 20$.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-figuras-planas-area-perimetro-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-figuras-planas-area-perimetro-001-v4",
+      "statement": "**ID:** `CO-MAT-8-figuras-planas-area-perimetro-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el área de un **Rectángulo** de base $6$~m y altura $4$~m?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$24 \\text{ m}^2$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$20 \\text{ m}^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$10 \\text{ m}^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$12 \\text{ m}^2$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSolo multiplicas base por altura. $6 \\times 4 = 24$.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-figuras-planas-area-perimetro-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-figuras-planas-area-perimetro-001-v5",
+      "statement": "**ID:** `CO-MAT-8-figuras-planas-area-perimetro-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la fórmula para calcular la longitud de la circunferencia (perímetro del círculo) de radio $r$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$C = 2 \\cdot \\pi \\cdot r$ (o $\\pi \\cdot \\text{diámetro}$)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$C = \\pi \\cdot r^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$C = r^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$C = \\pi + r$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nRecuerda: $2 \\pi r$ es el borde, $\\pi r^2$ es el relleno (área).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-figuras-planas-area-perimetro-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-figuras-planas-area-perimetro-001-v6",
+      "statement": "**ID:** `CO-MAT-8-figuras-planas-area-perimetro-001-v6`\r\n\r\n### Enunciado\r\n\r\nCalcula el área de un **Círculo** de radio $3$ cm (usa $\\pi \\approx 3,14$).\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$28,26 \\text{ cm}^2$ ($9\\pi$)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$18,84 \\text{ cm}^2$ ($6\\pi$)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$9 \\text{ cm}^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$6 \\text{ cm}^2$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$A = \\pi \\cdot r^2 = 3,14 \\cdot (3)^2 = 3,14 \\cdot 9 = 28,26$.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-figuras-planas-area-perimetro-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-figuras-planas-area-perimetro-001-v7",
+      "statement": "**ID:** `CO-MAT-8-figuras-planas-area-perimetro-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se calcula el área de un **Trapecio** de bases $B$ y $b$, y altura $h$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$A = \\frac{(B + b) \\cdot h}{2}$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$A = B \\cdot b \\cdot h$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$A = (B + b) \\cdot h$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$A = \\frac{B \\cdot h}{2}$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPromedias las bases y multiplicas por la altura.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-figuras-planas-area-perimetro-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-figuras-planas-area-perimetro-001-v8",
+      "statement": "**ID:** `CO-MAT-8-figuras-planas-area-perimetro-001-v8`\r\n\r\n### Enunciado\r\n\r\nUn hexágono regular tiene lado $4$ cm y apotema $3,5$ cm. ¿Cuál es su área?\r\n(Fórmula: $\\text{Perímetro} \\cdot \\text{Apotema} / 2$).\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$42 \\text{ cm}^2$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$24 \\text{ cm}^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$14 \\text{ cm}^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$84 \\text{ cm}^2$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPerímetro = $6 \\times 4 = 24$.\r\nÁrea = $(24 \\times 3,5) / 2 = 84 / 2 = 42$.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-figuras-planas-area-perimetro-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-figuras-planas-area-perimetro-001-v9",
+      "statement": "**ID:** `CO-MAT-8-figuras-planas-area-perimetro-001-v9`\r\n\r\n### Enunciado\r\n\r\nSi el área de un cuadrado es $144 \\text{ m}^2$, ¿cuánto mide su lado?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12$ m",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$72$ m",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$10$ m",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$14$ m",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nDebes buscar la raíz cuadrada de 144. $12 \\times 12 = 144$.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-figuras-planas-area-perimetro-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-figuras-planas-area-perimetro-001-v10",
+      "statement": "**ID:** `CO-MAT-8-figuras-planas-area-perimetro-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué pasa con el área de un rectángulo si duplicas tanto su base como su altura?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El área se cuadruplica (se multiplica por 4)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El área se duplica",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El área sigue igual",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El área se triplica",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSi antes era $b \\cdot h$, ahora es $(2b) \\cdot (2h) = 4bh$.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-figuras-planas-area-perimetro-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-fracciones-algebraicas-001-v1",
+      "statement": "**ID:** `CO-MAT-8-fracciones-algebraicas-001-v1`\r\n\r\n### Enunciado\r\n\r\nSimplifica la fracción algebraica $\\frac{x^2}{x}$.\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$1$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$x^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$0$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAl dividir potencias de la misma base, se restan los exponentes ($2 - 1 = 1$).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-fracciones-algebraicas-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-fracciones-algebraicas-001-v2",
+      "statement": "**ID:** `CO-MAT-8-fracciones-algebraicas-001-v2`\r\n\r\n### Enunciado\r\n\r\nSimplifica $\\frac{2x}{2y}$.\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{x}{y}$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$xy$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$2$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$4xy$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nCancelamos el 2 de arriba con el 2 de abajo.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-fracciones-algebraicas-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-fracciones-algebraicas-001-v3",
+      "statement": "**ID:** `CO-MAT-8-fracciones-algebraicas-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se simplifica $\\frac{x+1}{x+1}$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$0$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$x+1$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$2$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nCualquier número (excepto cero) dividido por sí mismo es igual a 1 (ej: $5/5 = 1$).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-fracciones-algebraicas-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-fracciones-algebraicas-001-v4",
+      "statement": "**ID:** `CO-MAT-8-fracciones-algebraicas-001-v4`\r\n\r\n### Enunciado\r\n\r\nRealiza la multiplicación: $\\frac{2}{x} \\cdot \\frac{3}{y}$.\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{6}{xy}$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{5}{x+y}$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{6}{x+y}$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{5}{xy}$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSe multiplica numerador con numerador ($2 \\times 3$) y denominador con denominador ($x \\times y$).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-fracciones-algebraicas-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-fracciones-algebraicas-001-v5",
+      "statement": "**ID:** `CO-MAT-8-fracciones-algebraicas-001-v5`\r\n\r\n### Enunciado\r\n\r\nSimplifica $\\frac{x^2 - 9}{x + 3}$.\r\n(Pista: Factoriza el numerador primero).\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x - 3$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$x + 3$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$x - 9$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$x^2 - 3$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$x^2 - 9 = (x + 3)(x - 3)$.\r\nEntonces $\\frac{(x+3)(x-3)}{x+3} = x-3$.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-fracciones-algebraicas-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-fracciones-algebraicas-001-v6",
+      "statement": "**ID:** `CO-MAT-8-fracciones-algebraicas-001-v6`\r\n\r\n### Enunciado\r\n\r\nSuma las fracciones homogéneas: $\\frac{3x}{5} + \\frac{x}{5}$.\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{4x}{5}$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{4x}{10}$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{2x}{5}$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$4x$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAl tener el mismo denominador, solo sumas los numeradores ($3x + x = 4x$).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-fracciones-algebraicas-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-fracciones-algebraicas-001-v7",
+      "statement": "**ID:** `CO-MAT-8-fracciones-algebraicas-001-v7`\r\n\r\n### Enunciado\r\n\r\nSimplifica $\\frac{x^2 + 5x + 6}{x + 2}$.\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x + 3$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$x + 2$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$x + 6$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$x - 3$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nFactorizamos el trinomio: $(x + 3)(x + 2)$.\r\nAl dividir por $(x + 2)$, nos queda $(x + 3)$.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-fracciones-algebraicas-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-fracciones-algebraicas-001-v8",
+      "statement": "**ID:** `CO-MAT-8-fracciones-algebraicas-001-v8`\r\n\r\n### Enunciado\r\n\r\nResta las fracciones heterogéneas: $\\frac{2}{x} - \\frac{1}{2x}$.\r\n(Busca el mínimo común múltiplo de los denominadores).\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{3}{2x}$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{1}{2x}$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{x}$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{3}{x}$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl común denominador es $2x$.\r\nAmplificamos la primera fracción por 2: $\\frac{4}{2x} - \\frac{1}{2x} = \\frac{3}{2x}$.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-fracciones-algebraicas-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-fracciones-algebraicas-001-v9",
+      "statement": "**ID:** `CO-MAT-8-fracciones-algebraicas-001-v9`\r\n\r\n### Enunciado\r\n\r\nDivide: $\\frac{x^2}{y} \\div \\frac{x}{y^2}$.\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$xy$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{x}{y}$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{x^3}{y^3}$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$1$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nMultiplicamos en cruz: $x^2 \\cdot y^2$ dividido por $y \\cdot x$.\r\nSimplificamos: $xy$.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-fracciones-algebraicas-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-fracciones-algebraicas-001-v10",
+      "statement": "**ID:** `CO-MAT-8-fracciones-algebraicas-001-v10`\r\n\r\n### Enunciado\r\n\r\nSimplifica $\\frac{1}{x} + \\frac{1}{y}$.\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{x + y}{xy}$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{2}{x+y}$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{xy}$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{xy}{x+y}$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs la suma clásica de fracciones heterogéneas: \"Carita feliz\" $(y + x) / (xy)$.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-fracciones-algebraicas-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-funciones-lineales-graficas-001-v1",
+      "statement": "**ID:** `CO-MAT-8-funciones-lineales-graficas-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la forma general de una **Ecuación Lineal** (recta) en el plano cartesiano?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = mx + b$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$y = x^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$y = \\sqrt{x}$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$y = 1/x$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nDonde $m$ es la pendiente y $b$ es el punto de corte con el eje $y$.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-funciones-lineales-graficas-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-funciones-lineales-graficas-001-v2",
+      "statement": "**ID:** `CO-MAT-8-funciones-lineales-graficas-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Qué representa la letra **$m$** en la ecuación $y = mx + b$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Pendiente (inclinación de la recta)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El intercepto",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El eje X",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El eje Y",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSi es positiva, la recta sube; si es negativa, la recta baja.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-funciones-lineales-graficas-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-funciones-lineales-graficas-001-v3",
+      "statement": "**ID:** `CO-MAT-8-funciones-lineales-graficas-001-v3`\r\n\r\n### Enunciado\r\n\r\nSi la pendiente ($m$) es cero, ¿cómo es la gráfica de la recta?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una línea horizontal (plana)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Es una línea vertical",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Sube hacia la derecha",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Baja hacia la derecha",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSignifica que no hay cambio en $y$ cuando $x$ cambia. Es como caminar por un piso plano.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-funciones-lineales-graficas-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-funciones-lineales-graficas-001-v4",
+      "statement": "**ID:** `CO-MAT-8-funciones-lineales-graficas-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿En qué punto corta al eje $Y$ la recta $y = 2x + 5$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En $y = 5$ (punto $(0, 5)$)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "En $y = 2$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "En $y = 0$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "En $y = -5$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nCuando $x=0$, $y=5$. Ese es el intercepto ($b$).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-funciones-lineales-graficas-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-funciones-lineales-graficas-001-v5",
+      "statement": "**ID:** `CO-MAT-8-funciones-lineales-graficas-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la diferencia entre una **Función Lineal** ($y=mx$) y una **Función Afín** ($y=mx+b$)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La función Lineal siempre pasa por el origen $(0,0)$, mientras que la Afín no necesariamente",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La Lineal es curva y la Afín es recta",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La Afín siempre es negativa",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSi $b=0$, la recta pasa por el centro del plano.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-funciones-lineales-graficas-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-funciones-lineales-graficas-001-v6",
+      "statement": "**ID:** `CO-MAT-8-funciones-lineales-graficas-001-v6`\r\n\r\n### Enunciado\r\n\r\nCalcula la pendiente de la recta que pasa por los puntos $(1, 2)$ y $(3, 6)$.\r\nFórmula: $m = (y_2 - y_1) / (x_2 - x_1)$.\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$m = 2$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$m = 3$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$m = 4$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$m = 1$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$(6 - 2) / (3 - 1) = 4 / 2 = 2$.\r\nPor cada paso a la derecha, sube 2.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-funciones-lineales-graficas-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-funciones-lineales-graficas-001-v7",
+      "statement": "**ID:** `CO-MAT-8-funciones-lineales-graficas-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Cómo son las pendientes de dos rectas que son **Paralelas** entre sí?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son iguales ($m_1 = m_2$)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Son opuestas ($m_1 = -m_2$)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Su producto es -1",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una es cero y la otra infinito",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nTienen la misma inclinación, por eso nunca se chocan.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-funciones-lineales-graficas-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-funciones-lineales-graficas-001-v8",
+      "statement": "**ID:** `CO-MAT-8-funciones-lineales-graficas-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Cómo son las pendientes de dos rectas que son **Perpendiculares** (forman 90 grados)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Su producto es -1 (son recíprocas y de signo contrario, $m_1 \\cdot m_2 = -1$)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Son iguales",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Suman 0",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Suman 180",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSi una tiene pendiente 2, la otra debe ser $-1/2$.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-funciones-lineales-graficas-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-funciones-lineales-graficas-001-v9",
+      "statement": "**ID:** `CO-MAT-8-funciones-lineales-graficas-001-v9`\r\n\r\n### Enunciado\r\n\r\nEncuentra la ecuación de la recta que pasa por $(0, 3)$ y tiene pendiente $-1$.\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = -x + 3$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$y = x + 3$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$y = -x - 3$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$y = 3x - 1$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nUsamos $y = mx + b$.\r\n$m = -1$\r\n$b = 3$.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-funciones-lineales-graficas-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-funciones-lineales-graficas-001-v10",
+      "statement": "**ID:** `CO-MAT-8-funciones-lineales-graficas-001-v10`\r\n\r\n### Enunciado\r\n\r\nUn taxi cobra \\$5.000 por el \"banderazo\" (arranque) y \\$200 por cada minuto ($x$). ¿Qué función representa el costo total ($y$)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$y = 200x + 5000$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$y = 5000x + 200$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$y = 5200x$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$y = 200x$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl costo variable ($200x$) depende del tiempo, y el costo fijo ($5000$) es el intercepto.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-funciones-lineales-graficas-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-numeros-reales-irracionales-001-v1",
+      "statement": "**ID:** `CO-MAT-8-numeros-reales-irracionales-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Cuál de los siguientes es un ejemplo clásico de **Número Irracional** (no se puede escribir como fracción)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\pi$ (Pi)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$0,5$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{3}$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$-2$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSus decimales son infinitos y no siguen ningún patrón repetitivo.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-numeros-reales-irracionales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-numeros-reales-irracionales-001-v2",
+      "statement": "**ID:** `CO-MAT-8-numeros-reales-irracionales-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Qué conjunto numérico incluye a los Racionales (Q) y a los Irracionales (I)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los Números Reales ($\\mathbb{R}$)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Los Números Naturales ($\\mathbb{N}$)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los Números Enteros ($\\mathbb{Z}$)",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Los Números Imaginarios",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSon todos los números que pueden representarse en la recta numérica.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-numeros-reales-irracionales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-numeros-reales-irracionales-001-v3",
+      "statement": "**ID:** `CO-MAT-8-numeros-reales-irracionales-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se clasifica el número $\\sqrt{4}$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un número Racional (porque es igual a 2)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Es un número Irracional",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "No es un número real",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Es un número negativo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n¡Cuidado! No todas las raíces son irracionales. Solo las que no son exactas.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-numeros-reales-irracionales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-numeros-reales-irracionales-001-v4",
+      "statement": "**ID:** `CO-MAT-8-numeros-reales-irracionales-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Cuál de estos números es **Irracional**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sqrt{2} \\approx 1,4142...$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$3,5$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$2/5$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$0$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa raíz cuadrada de 2 es la longitud de la diagonal de un cuadrado de lado 1.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-numeros-reales-irracionales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-numeros-reales-irracionales-001-v5",
+      "statement": "**ID:** `CO-MAT-8-numeros-reales-irracionales-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Por qué el número $0,33333...$ (con infinitos 3) **NO** es irracional?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque es un decimal periódico y se puede escribir como la fracción $1/3$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Porque tiene infinitos decimales",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Porque es pequeño",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Porque es positivo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPara ser irracional, los decimales no deben tener periodo (no deben repetirse en patrón).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-numeros-reales-irracionales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-numeros-reales-irracionales-001-v6",
+      "statement": "**ID:** `CO-MAT-8-numeros-reales-irracionales-001-v6`\r\n\r\n### Enunciado\r\n\r\nSi aproximas $\\pi$ a $3,14$, ¿estás usando un número racional o irracional?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Racional ($3,14 = 314/100$)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Irracional",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Imaginario",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Entero",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$3,14$ es solo una aproximación racional de $\\pi$. El verdadero $\\pi$ tiene infinitos decimales.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-numeros-reales-irracionales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-numeros-reales-irracionales-001-v7",
+      "statement": "**ID:** `CO-MAT-8-numeros-reales-irracionales-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué propiedad de los números reales dice que entre dos números reales cualesquiera (por ejemplo, 1 y 2) existen infinitos números reales?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Propiedad de Densidad",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Propiedad Conmutativa",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Propiedad Asociativa",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Propiedad Distributiva",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa recta numérica no tiene huecos.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-numeros-reales-irracionales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-numeros-reales-irracionales-001-v8",
+      "statement": "**ID:** `CO-MAT-8-numeros-reales-irracionales-001-v8`\r\n\r\n### Enunciado\r\n\r\nCalcula una aproximación de $\\sqrt{20}$ sabiendo que $\\sqrt{16}=4$ y $\\sqrt{25}=5$.\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entre $4$ y $5$ (aprox. $4,47$)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Entre $3$ y $4$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Exactamente $4,5$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$10$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nComo $20$ está casi en la mitad entre $16$ y $25$, su raíz estará entre $4$ y $5$.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-numeros-reales-irracionales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-numeros-reales-irracionales-001-v9",
+      "statement": "**ID:** `CO-MAT-8-numeros-reales-irracionales-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el resultado de $(\\sqrt{3})^2$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$\\sqrt{9}$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$9$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{3}$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nElevar al cuadrado es la operación inversa de la raíz cuadrada. Se \"cancelan\" si el número es positivo.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-numeros-reales-irracionales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-numeros-reales-irracionales-001-v10",
+      "statement": "**ID:** `CO-MAT-8-numeros-reales-irracionales-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué número Irracional famoso se representa con la letra $\\phi$ (Phi) y se asocia con la belleza y la naturaleza?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Número de Oro (Áureo) $\\approx 1,618...$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$\\pi$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$e$ (Número de Euler)",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$\\sqrt{2}$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAparece en las espirales de los girasoles, las conchas de caracol y el Partenón.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-numeros-reales-irracionales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-probabilidad-compuesta-001-v1",
+      "statement": "**ID:** `CO-MAT-8-probabilidad-compuesta-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué estudia la **Probabilidad Compuesta**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La probabilidad de que ocurran dos o más eventos juntos o uno después del otro (ej: lanzar una moneda Y un dado)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La probabilidad de un solo evento",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La suma",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La resta",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs cuando combinamos dos experimentos aleatorios.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-probabilidad-compuesta-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-probabilidad-compuesta-001-v2",
+      "statement": "**ID:** `CO-MAT-8-probabilidad-compuesta-001-v2`\r\n\r\n### Enunciado\r\n\r\nSi lanzas una moneda y un dado al mismo tiempo, ¿cuántos resultados posibles hay en el espacio muestral?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 (2 caras $\\times$ 6 números)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPrincipio Multiplicativo: $2 \\times 6 = 12$. (Cara-1, Cara-2... Cruz-6).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-probabilidad-compuesta-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-probabilidad-compuesta-001-v3",
+      "statement": "**ID:** `CO-MAT-8-probabilidad-compuesta-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué son los **Eventos Independientes**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aquellos donde el resultado del primero NO afecta al segundo (ej: lanzar dos monedas)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Aquellos donde el primero afecta al segundo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los que no ocurren nunca",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Los que siempre ocurren",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa moneda \"no tiene memoria\". Lo que salió antes no importa ahora.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-probabilidad-compuesta-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-probabilidad-compuesta-001-v4",
+      "statement": "**ID:** `CO-MAT-8-probabilidad-compuesta-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la probabilidad de sacar Cara en una moneda Y sacar un 6 en un dado (eventos independientes)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1/12$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$1/2$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$1/6$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$1/8$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nMultiplicas las probabilidades individuales: $(1/2) \\times (1/6) = 1/12$.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-probabilidad-compuesta-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-probabilidad-compuesta-001-v5",
+      "statement": "**ID:** `CO-MAT-8-probabilidad-compuesta-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué son los **Eventos Dependientes**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aquellos donde el resultado del primero SÍ afecta la probabilidad del segundo (ej: sacar balotas de una urna SIN devolverlas)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Aquellos independientes",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los imposibles",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Los seguros",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSi te comes el chocolate que sacaste, ya no está en la caja para la próxima vez.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-probabilidad-compuesta-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-probabilidad-compuesta-001-v6",
+      "statement": "**ID:** `CO-MAT-8-probabilidad-compuesta-001-v6`\r\n\r\n### Enunciado\r\n\r\nEn una urna hay 3 bolas rojas y 2 azules. Sacas una roja y **NO** la devuelves. ¿Cuál es la probabilidad de sacar otra roja ahora?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2/4$ (o $1/2$)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$3/5$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$2/5$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$1/5$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nQuedan 4 bolas en total, y solo 2 rojas.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-probabilidad-compuesta-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-probabilidad-compuesta-001-v7",
+      "statement": "**ID:** `CO-MAT-8-probabilidad-compuesta-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la probabilidad de sacar dos bolas rojas seguidas **SIN** reposición, si hay 3 rojas y 2 azules?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3/10$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$9/25$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$1/5$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$3/5$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$(3/5) \\times (2/4) = 6/20 = 3/10$.\r\nLa primera probabilidad cambia la segunda.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-probabilidad-compuesta-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-probabilidad-compuesta-001-v8",
+      "statement": "**ID:** `CO-MAT-8-probabilidad-compuesta-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la probabilidad de sacar dos caras seguidas al lanzar una moneda dos veces?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1/4$ ($25\\%$)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$1/2$ ($50\\%$)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$1/3$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$3/4$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$(1/2) \\times (1/2) = 1/4$.\r\nLos casos son: CC, CS, SC, SS. Solo uno nos sirve.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-probabilidad-compuesta-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-probabilidad-compuesta-001-v9",
+      "statement": "**ID:** `CO-MAT-8-probabilidad-compuesta-001-v9`\r\n\r\n### Enunciado\r\n\r\nSi la probabilidad de que llueva hoy es $0,4$ y la probabilidad de que llueva mañana es $0,5$ (independientes). ¿Cuál es la probabilidad de que llueva AMBOS días?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0,2$ ($20\\%$)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$0,9$ ($90\\%$)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$0,5$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$0,1$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$0,4 \\times 0,5 = 0,20$.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-probabilidad-compuesta-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-probabilidad-compuesta-001-v10",
+      "statement": "**ID:** `CO-MAT-8-probabilidad-compuesta-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué regla se usa para calcular la probabilidad de la **unión** de dos eventos mutuamente excluyentes (P de A o B)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Regla de la Suma: $P(A \\cup B) = P(A) + P(B)$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Regla de la Multiplicación",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Resta",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "División",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSi no pueden pasar al tiempo (ej: sacar par o impar), solo sumas sus probabilidades.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-probabilidad-compuesta-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-productos-notables-001-v1",
+      "statement": "**ID:** `CO-MAT-8-productos-notables-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la fórmula correcta para el **Cuadrado de un Binomio** $(a + b)^2$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a^2 + 2ab + b^2$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$a^2 + b^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$a^2 - 2ab + b^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$2a + 2b$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nRecuerda la canción: \"El primero al cuadrado, más dos veces el primero por el segundo, más el segundo al cuadrado\".\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-productos-notables-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-productos-notables-001-v2",
+      "statement": "**ID:** `CO-MAT-8-productos-notables-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿A qué es igual $(x + 3)^2$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 + 6x + 9$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 + 9$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 + 3x + 9$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$2x + 6$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl término del medio es $2 \\cdot x \\cdot 3 = 6x$.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-productos-notables-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-productos-notables-001-v3",
+      "statement": "**ID:** `CO-MAT-8-productos-notables-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el resultado de la **Suma por Diferencia** $(a + b)(a - b)$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a^2 - b^2$ (Diferencia de Cuadrados)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$a^2 + b^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$a^2 - 2ab + b^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$a - b$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos términos del medio ($+ab$ y $-ab$) se cancelan.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-productos-notables-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-productos-notables-001-v4",
+      "statement": "**ID:** `CO-MAT-8-productos-notables-001-v4`\r\n\r\n### Enunciado\r\n\r\nCalcula $(x + 5)(x - 5)$.\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 - 25$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 + 25$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 - 10$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$x - 25$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs el cuadrado del primero menos el cuadrado del segundo.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-productos-notables-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-productos-notables-001-v5",
+      "statement": "**ID:** `CO-MAT-8-productos-notables-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la fórmula para el **Cubo de un Binomio** $(a + b)^3$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$a^3 + 3a^2b + 3ab^2 + b^3$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$a^3 + b^3$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$a^3 - 3a^2b + 3ab^2 - b^3$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$3a + 3b$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos coeficientes 1, 3, 3, 1 vienen del Triángulo de Pascal.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-productos-notables-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-productos-notables-001-v6",
+      "statement": "**ID:** `CO-MAT-8-productos-notables-001-v6`\r\n\r\n### Enunciado\r\n\r\nDesarrolla $(x - 2)^3$.\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^3 - 6x^2 + 12x - 8$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$x^3 - 8$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$x^3 + 6x^2 + 12x + 8$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$x^3 - 2x^2 + 4x - 8$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$(x)^3 - 3(x)^2(2) + 3(x)(2)^2 - (2)^3$\r\n$= x^3 - 6x^2 + 12x - 8$.\r\n¡Ojo con los signos!\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-productos-notables-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-productos-notables-001-v7",
+      "statement": "**ID:** `CO-MAT-8-productos-notables-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿A qué es igual el producto de la forma $(x + a)(x + b)$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 + (a+b)x + ab$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 + ab$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 + (a-b)x + ab$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$x^2 + ax + b$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSumas los números para el término lineal y los multiplicas para el término independiente.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-productos-notables-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-productos-notables-001-v8",
+      "statement": "**ID:** `CO-MAT-8-productos-notables-001-v8`\r\n\r\n### Enunciado\r\n\r\nResuelve $(x + 4)(x + 7)$.\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x^2 + 11x + 28$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$x^2 + 28x + 11$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$x^2 + 3x + 28$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$x^2 + 11x + 11$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSuma: $4+7=11$\r\nMultiplicación: $4 \\times 7 = 28$.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-productos-notables-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-productos-notables-001-v9",
+      "statement": "**ID:** `CO-MAT-8-productos-notables-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la fórmula para la **Suma de Cubos** $a^3 + b^3$ (¡no confundir con el cubo de la suma!)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$(a + b)(a^2 - ab + b^2)$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$(a - b)(a^2 + ab + b^2)$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$(a + b)^3$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$(a + b)(a^2 + 2ab + b^2)$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs una de las factorizaciones más difíciles de recordar. Observa que el segundo paréntesis NO es un trinomio cuadrado perfecto (falta el 2).\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-productos-notables-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-productos-notables-001-v10",
+      "statement": "**ID:** `CO-MAT-8-productos-notables-001-v10`\r\n\r\n### Enunciado\r\n\r\nCalcula $(2x - 3y)^2$.\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4x^2 - 12xy + 9y^2$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$4x^2 + 9y^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$2x^2 - 6xy + 3y^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$4x^2 - 6xy + 9y^2$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$(2x)^2 - 2(2x)(3y) + (3y)^2$\r\n$= 4x^2 - 12xy + 9y^2$.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-productos-notables-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-relaciones-funciones-001-v1",
+      "statement": "**ID:** `CO-MAT-8-relaciones-funciones-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué condición debe cumplir una relación para ser considerada una **Función**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A cada elemento del conjunto de entrada (Dominio) le corresponde UNO y SOLO UN elemento del conjunto de salida (Codominio o Rango)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Puede tener muchas salidas para una sola entrada",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "No tiene reglas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Todos los elementos son iguales",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs como una máquina: si metes una moneda, sale un producto específico. No pueden salir dos cosas distintas con la misma moneda.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-relaciones-funciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-relaciones-funciones-001-v2",
+      "statement": "**ID:** `CO-MAT-8-relaciones-funciones-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuál de los siguientes ejemplos es una función en la vida real? (Entrada $\\rightarrow$ Salida)\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cada persona $\\rightarrow$ su número de cédula (o documento de identidad)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Cada madre $\\rightarrow$ sus hijos (puede tener varios)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Cada profesor $\\rightarrow$ sus alumnos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un número $\\rightarrow$ sus factores",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nNadie tiene dos números de cédula diferentes.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-relaciones-funciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-relaciones-funciones-001-v3",
+      "statement": "**ID:** `CO-MAT-8-relaciones-funciones-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **Dominio** de una función?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El conjunto de todos los valores de entrada posibles ($x$) para los cuales la función está definida",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El conjunto de salida",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El eje Y",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El título de la función",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSon los \"ingredientes\" que puedes meter en la máquina.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-relaciones-funciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-relaciones-funciones-001-v4",
+      "statement": "**ID:** `CO-MAT-8-relaciones-funciones-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **Rango** (o Recorrido) de una función?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El conjunto de todos los valores de salida reales ($y$) que toma la función",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El conjunto de entrada",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El eje X",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El infinito",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSon los \"productos\" que salen de la máquina.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-relaciones-funciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-relaciones-funciones-001-v5",
+      "statement": "**ID:** `CO-MAT-8-relaciones-funciones-001-v5`\r\n\r\n### Enunciado\r\n\r\nSi $f(x) = 2x + 1$, ¿cuál es el valor de $f(3)$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$7$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$6$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$4$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$3$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nReemplazamos $x$ por 3: $2(3) + 1 = 6 + 1 = 7$.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-relaciones-funciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-relaciones-funciones-001-v6",
+      "statement": "**ID:** `CO-MAT-8-relaciones-funciones-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la única prueba gráfica (Test de la Línea Vertical) para saber si una curva es una función?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Si trazas una línea vertical en cualquier parte y corta la gráfica en más de un punto, NO es función",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Si trazas una línea horizontal",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Si la gráfica toca el eje X",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Si es de color rojo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSi toca dos veces, significa que para una $x$ hay dos $y$, lo cual está prohibido en una función.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-relaciones-funciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-relaciones-funciones-001-v7",
+      "statement": "**ID:** `CO-MAT-8-relaciones-funciones-001-v7`\r\n\r\n### Enunciado\r\n\r\nDada la función $f(x) = x^2$, ¿cuál es su rango? (Piensa en qué valores puede tomar $x^2$).\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los números reales mayores o iguales a cero ($[0, \\infty)$)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Todos los números reales ($\\mathbb{R}$)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Solo los negativos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Solo el 1",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nCualquier número (positivo o negativo) elevado al cuadrado siempre da positivo o cero. Nunca negativo.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-relaciones-funciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-relaciones-funciones-001-v8",
+      "statement": "**ID:** `CO-MAT-8-relaciones-funciones-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el dominio de la función $f(x) = 1/x$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los reales excepto el cero ($\\mathbb{R} - \\{0\\}$)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Todos los reales",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Solo los positivos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Solo el 1",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nNo se puede dividir por cero. ¡Es una operación ilegal en matemáticas!\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-relaciones-funciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-relaciones-funciones-001-v9",
+      "statement": "**ID:** `CO-MAT-8-relaciones-funciones-001-v9`\r\n\r\n### Enunciado\r\n\r\nSi $f(x) = 3x$ y $g(x) = x + 2$, ¿cuánto es $f(g(2))$? (Función Compuesta).\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$8$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$6$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$10$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPrimero hallamos $g(2) = 2+2=4$.\r\nLuego hallamos $f(4) = 3(4) = 12$.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-relaciones-funciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-relaciones-funciones-001-v10",
+      "statement": "**ID:** `CO-MAT-8-relaciones-funciones-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué tipo de función es $f(x) = 5$ (para cualquier valor de $x$)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Función Constante",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Función Lineal Creciente",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Función Cuadrática",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No es función",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSu gráfica es una línea horizontal. Siempre vale 5, sin importar cuánto valga $x$.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-relaciones-funciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-solidos-volumen-superficie-001-v1",
+      "statement": "**ID:** `CO-MAT-8-solidos-volumen-superficie-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué mide el **Volumen** de un cuerpo geométrico (sólido)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El espacio tridimensional que ocupa",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Cuánto mide su borde",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Cuánto pesa",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Cuánta pintura se necesita para cubrirlo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs la cantidad de \"liquido\" que le cabe adentro.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-solidos-volumen-superficie-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-solidos-volumen-superficie-001-v2",
+      "statement": "**ID:** `CO-MAT-8-solidos-volumen-superficie-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la unidad básica de medida para el volumen en el Sistema Internacional?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Metro Cúbico ($m^3$)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Metro Cuadrado ($m^2$)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Metro ($m$)",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Kilogramo ($kg$)",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl 3 indica las tres dimensiones: largo, ancho y alto.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-solidos-volumen-superficie-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-solidos-volumen-superficie-001-v3",
+      "statement": "**ID:** `CO-MAT-8-solidos-volumen-superficie-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la fórmula para el volumen de un **Cubo** de lado $L$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$V = L^3$ ($L \\cdot L \\cdot L$)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$V = L^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$V = 3L$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$V = 6L^2$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nMultiplicas las tres dimensiones, que son iguales.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-solidos-volumen-superficie-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-solidos-volumen-superficie-001-v4",
+      "statement": "**ID:** `CO-MAT-8-solidos-volumen-superficie-001-v4`\r\n\r\n### Enunciado\r\n\r\nCalcula el volumen de una caja (Prisma Rectangular) de largo 4 cm, ancho 3 cm y alto 2 cm.\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$24 \\text{ cm}^3$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$9 \\text{ cm}^3$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$12 \\text{ cm}^3$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$20 \\text{ cm}^3$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$V = \\text{base} \\times \\text{altura} \\times \\text{fondo} = 4 \\times 3 \\times 2 = 24$.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-solidos-volumen-superficie-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-solidos-volumen-superficie-001-v5",
+      "statement": "**ID:** `CO-MAT-8-solidos-volumen-superficie-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la fórmula para el volumen de un **Cilindro** de radio $r$ y altura $h$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$V = \\pi \\cdot r^2 \\cdot h$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$V = 2 \\pi r \\cdot h$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$V = \\pi r^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$V = r^2 \\cdot h$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs el área de la base (círculo) multiplicada por la altura.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-solidos-volumen-superficie-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-solidos-volumen-superficie-001-v6",
+      "statement": "**ID:** `CO-MAT-8-solidos-volumen-superficie-001-v6`\r\n\r\n### Enunciado\r\n\r\nCalcula el **Área Superficial** (total) de un cubo de lado 2 cm. (Suma del área de todas sus caras).\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$24 \\text{ cm}^2$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$8 \\text{ cm}^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$12 \\text{ cm}^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$4 \\text{ cm}^2$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nUn cubo tiene 6 caras cuadradas. El área de una cara es $2 \\times 2 = 4$. Total: $6 \\times 4 = 24$.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-solidos-volumen-superficie-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-solidos-volumen-superficie-001-v7",
+      "statement": "**ID:** `CO-MAT-8-solidos-volumen-superficie-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el volumen de una **Esfera** de radio $r$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$V = \\frac{4}{3} \\cdot \\pi \\cdot r^3$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$V = 4 \\pi r^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$V = \\pi r^3$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$V = \\frac{1}{3} \\pi r^2 h$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs una de las fórmulas más famosas de Arquímedes.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-solidos-volumen-superficie-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-solidos-volumen-superficie-001-v8",
+      "statement": "**ID:** `CO-MAT-8-solidos-volumen-superficie-001-v8`\r\n\r\n### Enunciado\r\n\r\nSi un cilindro tiene volumen de $100\\pi \\text{ cm}^3$ y su altura es 4 cm, ¿cuánto vale el área de su base?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$25\\pi \\text{ cm}^2$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$100\\pi \\text{ cm}^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$50\\pi \\text{ cm}^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$400\\pi \\text{ cm}^2$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$V = \\text{Base} \\times h$.\r\n$100\\pi = \\text{Base} \\times 4$.\r\nBase $ = 100\\pi / 4 = 25\\pi$.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-solidos-volumen-superficie-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-solidos-volumen-superficie-001-v9",
+      "statement": "**ID:** `CO-MAT-8-solidos-volumen-superficie-001-v9`\r\n\r\n### Enunciado\r\n\r\nTienes un tanque cilíndrico de 1 metro de radio y 2 metros de altura lleno de agua. ¿Cuántos metros cúbicos de agua tiene?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2\\pi \\text{ m}^3$ (aprox. 6,28 $m^3$)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$4\\pi \\text{ m}^3$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$1\\pi \\text{ m}^3$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$2 \\text{ m}^3$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$V = \\pi(1)^2(2) = 2\\pi$.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-solidos-volumen-superficie-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-solidos-volumen-superficie-001-v10",
+      "statement": "**ID:** `CO-MAT-8-solidos-volumen-superficie-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué pasa con el volumen de un cubo si duplicas la longitud de su lado?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El volumen se multiplica por 8 (se octuplica)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El volumen se duplica",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El volumen se cuadruplica",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El volumen sigue igual",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$(2L)^3 = 8L^3$. Crece muchísimo más rápido que el lado.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-solidos-volumen-superficie-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-teorema-pitagoras-001-v1",
+      "statement": "**ID:** `CO-MAT-8-teorema-pitagoras-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿En qué tipo de triángulo se puede aplicar el **Teorema de Pitágoras**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Únicamente en Triángulos Rectángulos (los que tienen un ángulo de 90 grados)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "En cualquier triángulo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "En triángulos equiláteros",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "En círculos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa \"L\" perfecta es la clave.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-teorema-pitagoras-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-teorema-pitagoras-001-v2",
+      "statement": "**ID:** `CO-MAT-8-teorema-pitagoras-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el lado más largo de un triángulo rectángulo, opuesto al ángulo recto?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Hipotenusa",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Cateto Adyacente",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Cateto Opuesto",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La Altura",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSiempre es el lado inclinado, como un tobogán.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-teorema-pitagoras-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-teorema-pitagoras-001-v3",
+      "statement": "**ID:** `CO-MAT-8-teorema-pitagoras-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué dice la fórmula del Teorema de Pitágoras? ($c$ = hipotenusa, $a$ y $b$ = catetos).\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$c^2 = a^2 + b^2$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$c = a + b$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$c^2 = a^2 - b^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$a^2 = b^2 + c^2$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa suma de los cuadrados de los catetos es igual al cuadrado de la hipotenusa.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-teorema-pitagoras-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-teorema-pitagoras-001-v4",
+      "statement": "**ID:** `CO-MAT-8-teorema-pitagoras-001-v4`\r\n\r\n### Enunciado\r\n\r\nSi los catetos miden 3 y 4, ¿cuánto mide la hipotenusa?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "25",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "12",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$3^2 + 4^2 = 9 + 16 = 25$.\r\n$\\sqrt{25} = 5$.\r\nEs el famoso triángulo 3-4-5.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-teorema-pitagoras-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-teorema-pitagoras-001-v5",
+      "statement": "**ID:** `CO-MAT-8-teorema-pitagoras-001-v5`\r\n\r\n### Enunciado\r\n\r\nSi la hipotenusa mide 10 y un cateto mide 6, ¿cuánto mide el otro cateto?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "16",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "64",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$a^2 = c^2 - b^2$.\r\n$100 - 36 = 64$.\r\n$\\sqrt{64} = 8$.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-teorema-pitagoras-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-teorema-pitagoras-001-v6",
+      "statement": "**ID:** `CO-MAT-8-teorema-pitagoras-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Por qué es útil el Teorema de Pitágoras en la construcción?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite verificar si una esquina (como la de una pared) está perfectamente a escuadra (90 grados)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Para medir la temperatura",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Para pintar",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Para contar ladrillos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos albañiles usan la regla \"3-4-5\" para escuadrar muros.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-teorema-pitagoras-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-teorema-pitagoras-001-v7",
+      "statement": "**ID:** `CO-MAT-8-teorema-pitagoras-001-v7`\r\n\r\n### Enunciado\r\n\r\nUna escalera de 5 metros se apoya en una pared a 3 metros de la base. ¿A qué altura llega la escalera?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 metros",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "2 metros",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "8 metros",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "3 metros",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa escalera es la hipotenusa.\r\n$5^2 - 3^2 = 25 - 9 = 16$.\r\n$\\sqrt{16} = 4$.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-teorema-pitagoras-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-teorema-pitagoras-001-v8",
+      "statement": "**ID:** `CO-MAT-8-teorema-pitagoras-001-v8`\r\n\r\n### Enunciado\r\n\r\nCalcula la diagonal de un rectángulo de 6 cm de base y 8 cm de altura.\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 cm",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "14 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "48 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "12 cm",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa diagonal divide al rectángulo en dos triángulos rectángulos.\r\n$6^2 + 8^2 = 36 + 64 = 100$.\r\n$\\sqrt{100} = 10$.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-teorema-pitagoras-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-teorema-pitagoras-001-v9",
+      "statement": "**ID:** `CO-MAT-8-teorema-pitagoras-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la distancia entre los puntos $(0,0)$ y $(3,4)$ en el plano cartesiano?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 unidades",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "7 unidades",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "1 unidad",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "25 unidades",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa distancia es la hipotenusa. $\\Delta x = 3$, $\\Delta y = 4$.\r\n$\\sqrt{3^2 + 4^2} = 5$.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-teorema-pitagoras-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-teorema-pitagoras-001-v10",
+      "statement": "**ID:** `CO-MAT-8-teorema-pitagoras-001-v10`\r\n\r\n### Enunciado\r\n\r\nUn triángulo tiene lados 5, 12 y 13. ¿Es un triángulo rectángulo?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque cumple que $5^2 + 12^2 = 13^2$ ($25 + 144 = 169$)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "No, porque no suman 180",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "No, porque tiene un lado muy largo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque tiene tres lados",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs una \"Terna Pitagórica\". Si cumple la fórmula, garantiza que el ángulo es de 90 grados.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-teorema-pitagoras-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-trigonometria-introductoria-001-v1",
+      "statement": "**ID:** `CO-MAT-8-trigonometria-introductoria-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué estudia la **Trigonometría**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las relaciones entre los lados y los ángulos de los triángulos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Los círculos solamente",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La suma",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Los planetas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nViene del griego \"trigonon\" (triángulo) y \"metron\" (medida).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-trigonometria-introductoria-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-trigonometria-introductoria-001-v2",
+      "statement": "**ID:** `CO-MAT-8-trigonometria-introductoria-001-v2`\r\n\r\n### Enunciado\r\n\r\nEn un triángulo rectángulo, ¿cómo se llama el lado opuesto al ángulo recto ($90^\\circ$)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hipotenusa",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Cateto Adyacente",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Cateto Opuesto",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Altura",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs siempre el lado más largo.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-trigonometria-introductoria-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-trigonometria-introductoria-001-v3",
+      "statement": "**ID:** `CO-MAT-8-trigonometria-introductoria-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se define la razón trigonométrica **Seno** ($\\sin$) de un ángulo $\\alpha$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{\\text{Cateto Opuesto}}{\\text{Hipotenusa}}$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{\\text{Cateto Adyacente}}{\\text{Hipotenusa}}$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{\\text{Cateto Opuesto}}{\\text{Cateto Adyacente}}$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{\\text{Hipotenusa}}{\\text{Cateto Opuesto}}$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nRecuerda **SOH**: Seno = Opuesto / Hipotenusa.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-trigonometria-introductoria-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-trigonometria-introductoria-001-v4",
+      "statement": "**ID:** `CO-MAT-8-trigonometria-introductoria-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se define la razón trigonométrica **Coseno** ($\\cos$) de un ángulo $\\alpha$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{\\text{Cateto Adyacente}}{\\text{Hipotenusa}}$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{\\text{Cateto Opuesto}}{\\text{Hipotenusa}}$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{\\text{Cateto Opuesto}}{\\text{Cateto Adyacente}}$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{\\text{Hipotenusa}}{\\text{Cateto Adyacente}}$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nRecuerda **CAH**: Coseno = Adyacente / Hipotenusa.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-trigonometria-introductoria-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-trigonometria-introductoria-001-v5",
+      "statement": "**ID:** `CO-MAT-8-trigonometria-introductoria-001-v5`\r\n\r\n### Enunciado\r\n\r\nSi en un triángulo rectángulo el cateto opuesto al ángulo $A$ mide 3 y la hipotenusa mide 5, ¿cuánto vale $\\sin(A)$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3/5$ (o $0,6$)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$4/5$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$5/3$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$3/4$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSolo aplicamos la fórmula: $O / H = 3 / 5$.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-trigonometria-introductoria-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-trigonometria-introductoria-001-v6",
+      "statement": "**ID:** `CO-MAT-8-trigonometria-introductoria-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se define la **Tangente** ($\\tan$) de un ángulo?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{\\text{Cateto Opuesto}}{\\text{Cateto Adyacente}}$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{\\text{Hipotenusa}}{\\text{Cateto Opuesto}}$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{\\text{Cateto Adyacente}}{\\text{Hipotenusa}}$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{\\text{Hipotenusa}}{\\text{Hipotenusa}}$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nRecuerda **TOA**: Tangente = Opuesto / Adyacente.\r\n¡SOH-CAH-TOA!\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-trigonometria-introductoria-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-trigonometria-introductoria-001-v7",
+      "statement": "**ID:** `CO-MAT-8-trigonometria-introductoria-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el valor de $\\sin(30^\\circ)$? (Es un ángulo notable).\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$0,5$ (o $1/2$)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$1$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$0$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{\\sqrt{3}}{2}$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEn un triángulo equilátero partido a la mitad, el lado opuesto es la mitad de la hipotenusa.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-trigonometria-introductoria-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-trigonometria-introductoria-001-v8",
+      "statement": "**ID:** `CO-MAT-8-trigonometria-introductoria-001-v8`\r\n\r\n### Enunciado\r\n\r\nSi $\\tan(\\alpha) = 1$, ¿cuánto mide el ángulo $\\alpha$ (en el primer cuadrante)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$45^\\circ$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$30^\\circ$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$60^\\circ$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$90^\\circ$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSi la tangente es 1, significa que el cateto opuesto es igual al adyacente. Es un triángulo isósceles.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-trigonometria-introductoria-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-trigonometria-introductoria-001-v9",
+      "statement": "**ID:** `CO-MAT-8-trigonometria-introductoria-001-v9`\r\n\r\n### Enunciado\r\n\r\nUn árbol proyecta una sombra de 10 m cuando el sol está a $45^\\circ$ sobre el horizonte. ¿Cuál es la altura del árbol?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 m",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "5 m",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "20 m",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "15 m",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$\\tan(45) = 1 = \\text{Opuesto} / \\text{Adyacente}$.\r\n$1 = h / 10 \\rightarrow h = 10$.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-trigonometria-introductoria-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-8-trigonometria-introductoria-001-v10",
+      "statement": "**ID:** `CO-MAT-8-trigonometria-introductoria-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la relación fundamental de la trigonometría (Identidad Pitagórica)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\sin^2(x) + \\cos^2(x) = 1$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$\\sin(x) + \\cos(x) = 1$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$\\tan^2(x) + 1 = \\sin^2(x)$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$\\sin(x) = \\cos(x)$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs el Teorema de Pitágoras disfrazado: $a^2 + b^2 = c^2$, dividido por $c^2$.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-8-trigonometria-introductoria-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    }
+  ]
+}
