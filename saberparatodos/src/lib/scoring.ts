@@ -8,6 +8,8 @@
  * - Precisión general
  */
 
+import { estimateIcfesScore, type IcfesEstimate } from './mmr-system';
+
 // ============================================================================
 // TIPOS
 // ============================================================================
@@ -55,12 +57,14 @@ export interface ExamResult {
 }
 
 export interface ExamScore {
+  practiceScore: number;
   questionScores: QuestionScore[];
   subtotal: number;
   completionBonus: number;
   accuracyBonus: number;
   perfectBonus: number;
   totalScore: number;
+  icfesEstimate: IcfesEstimate;
   stats: ExamStats;
   scoreRange: ExamScoreRange;
 }
@@ -286,14 +290,34 @@ export function calculateExamScore(
   // Total final
   const totalScore = Math.max(0, subtotal + completionBonus + accuracyBonus + perfectBonus);
   const scoreRange = calculateExamScoreRange(exam, config);
+  const averageDifficulty = stats.averageDifficulty || 3;
+  const consistencyScore = Math.max(
+    0,
+    Math.min(100, 35 + (stats.accuracy * 45) + (Math.min(stats.longestStreak, 6) * 3))
+  );
+  const mmrApproximation =
+    850 +
+    (stats.accuracy * 450) +
+    ((averageDifficulty - 3) * 70) +
+    (Math.min(stats.questionsAnswered, 40) * 2);
+  const icfesEstimate = estimateIcfesScore({
+    mmr: Math.round(mmrApproximation),
+    accuracy: stats.accuracy,
+    evidenceCount: stats.questionsAnswered,
+    averageDifficulty,
+    consistencyScore,
+    subjectCoverage: 1
+  });
 
   return {
+    practiceScore: totalScore,
     questionScores,
     subtotal,
     completionBonus,
     accuracyBonus,
     perfectBonus,
     totalScore,
+    icfesEstimate,
     stats,
     scoreRange
   };

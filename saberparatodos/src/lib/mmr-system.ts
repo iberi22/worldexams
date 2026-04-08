@@ -11,13 +11,119 @@
 export const BASE_MMR = 1000;
 const K_FACTOR = 40; // Volatility factor (higher = faster changes)
 
+export const ICFES_PROXY_METHODOLOGY_VERSION = 'icfes-proxy-v1';
+export const ICFES_PROXY_DISCLAIMER =
+  'Estimacion de practica; no reemplaza el reporte oficial del ICFES.';
+
+export type IcfesEstimateConfidence = 'low' | 'medium' | 'high';
+
+export interface IcfesModuleScores {
+  lectura?: number;
+  matematicas?: number;
+  sociales?: number;
+  ciencias?: number;
+  ingles?: number;
+}
+
+export interface IcfesEstimate {
+  score: number;
+  confidence: IcfesEstimateConfidence;
+  label: string;
+  evidenceCount: number;
+  methodologyVersion: string;
+  minimumEvidenceMet: boolean;
+  disclaimer: string;
+  estimatedModuleScores?: IcfesModuleScores;
+}
+
+export interface IcfesProxySignals {
+  mmr: number;
+  accuracy?: number;
+  evidenceCount?: number;
+  averageDifficulty?: number;
+  consistencyScore?: number;
+  subjectCoverage?: number;
+  estimatedModuleScores?: IcfesModuleScores;
+}
+
+function clamp(value: number, min: number, max: number): number {
+  return Math.min(max, Math.max(min, value));
+}
+
+function confidenceFromEvidence(
+  evidenceCount: number,
+  subjectCoverage: number
+): IcfesEstimateConfidence {
+  if (evidenceCount >= 80 && subjectCoverage >= 3) return 'high';
+  if (evidenceCount >= 20) return 'medium';
+  return 'low';
+}
+
+function confidenceLabel(confidence: IcfesEstimateConfidence): string {
+  if (confidence === 'high') return 'Alta confianza';
+  if (confidence === 'medium') return 'Confianza media';
+  return 'Resultado provisional';
+}
+
+function evidenceFactor(evidenceCount: number): number {
+  if (evidenceCount <= 0) return 0.55;
+  if (evidenceCount < 20) return 0.55 + (evidenceCount / 20) * 0.15;
+  if (evidenceCount < 80) return 0.7 + ((evidenceCount - 20) / 60) * 0.22;
+  return Math.min(1, 0.92 + ((evidenceCount - 80) / 120) * 0.08);
+}
+
+function subjectCoverageFactor(subjectCoverage: number): number {
+  if (subjectCoverage >= 4) return 1.0;
+  if (subjectCoverage === 3) return 0.97;
+  if (subjectCoverage === 2) return 0.94;
+  return 0.9;
+}
+
+export function estimateIcfesScore(signals: IcfesProxySignals): IcfesEstimate {
+  const accuracy = clamp(signals.accuracy ?? 0.5, 0, 1);
+  const evidenceCount = Math.max(0, Math.round(signals.evidenceCount ?? 0));
+  const averageDifficulty = clamp(signals.averageDifficulty ?? 3, 1, 5);
+  const consistencyScore = clamp(signals.consistencyScore ?? 50, 0, 100);
+  const subjectCoverage = Math.max(1, Math.round(signals.subjectCoverage ?? 1));
+
+  const normalizedMMR = clamp((signals.mmr - 700) / 900, 0, 1);
+  const mmrBaseScore = 130 + normalizedMMR * 250;
+  const accuracyAdjustment = (accuracy - 0.5) * 140;
+  const difficultyAdjustment = (averageDifficulty - 3) * 18;
+  const consistencyAdjustment = ((consistencyScore - 50) / 50) * 30;
+
+  const rawScore = mmrBaseScore + accuracyAdjustment + difficultyAdjustment + consistencyAdjustment;
+  const scaledScore = rawScore * evidenceFactor(evidenceCount) * subjectCoverageFactor(subjectCoverage);
+  const score = clamp(Math.round(scaledScore), 0, 500);
+  const confidence = confidenceFromEvidence(evidenceCount, subjectCoverage);
+
+  return {
+    score,
+    confidence,
+    label: confidenceLabel(confidence),
+    evidenceCount,
+    methodologyVersion: ICFES_PROXY_METHODOLOGY_VERSION,
+    minimumEvidenceMet: evidenceCount >= 20,
+    disclaimer: ICFES_PROXY_DISCLAIMER,
+    estimatedModuleScores: signals.estimatedModuleScores
+  };
+}
+
 /**
  * Convert internal MMR to simulated ICFES Score (0-500)
- * Logic: MMR 1000 (Avg) -> 250 (ICFES Avg)
- * Factor: 4
+ * @deprecated Use `estimateIcfesScore` instead to get a full `IcfesEstimate` object.
+ * Public-facing features should consume `estimateIcfesScore`.
  */
-export function getSimulatedIcfesScore(mmr: number): number {
-  return Math.min(500, Math.max(0, Math.round(mmr / 4)));
+export function getSimulatedIcfesScore(mmr: number, signals: Partial<IcfesProxySignals> = {}): number {
+  return estimateIcfesScore({
+    mmr,
+    accuracy: signals.accuracy,
+    evidenceCount: signals.evidenceCount,
+    averageDifficulty: signals.averageDifficulty,
+    consistencyScore: signals.consistencyScore,
+    subjectCoverage: signals.subjectCoverage,
+    estimatedModuleScores: signals.estimatedModuleScores
+  }).score;
 }
 
 /**
