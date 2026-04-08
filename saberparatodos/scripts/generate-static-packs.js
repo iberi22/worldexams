@@ -27,6 +27,11 @@ function parseProtocol(frontmatter, filePath) {
   return null;
 }
 
+function hasDuplicatedPeriodSegment(filePath) {
+  const normalized = filePath.split(path.sep).join('/');
+  return /\/periodo-\d+\/periodo-\d+\//i.test(normalized);
+}
+
 function parseQuestions(body) {
   const sections = [];
   const headerRegex = /^##\s+(?:Pregunta|Question)\s+\d+.*$/gim;
@@ -120,6 +125,10 @@ for (const subject of subjects) {
     
     for (const file of files) {
       try {
+        if (hasDuplicatedPeriodSegment(file)) {
+          continue;
+        }
+
         const { data, content } = matter.read(file);
         const protocol = parseProtocol(data, file);
         if (!protocol || protocol < 3) continue;
