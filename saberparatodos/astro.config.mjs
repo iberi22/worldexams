@@ -63,7 +63,8 @@ export default defineConfig({
       include: ['katex']
     },
     build: {
-      cssMinify: false
+      cssMinify: false,
+      chunkSizeWarningLimit: 1500
     },
     plugins: [tailwindcss()]
   },
