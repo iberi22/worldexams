@@ -1,5 +1,4 @@
 import type { APIRoute } from 'astro';
-import { createClient } from '@supabase/supabase-js';
 import { getServerRuntimeEnv, type RuntimeLocals } from '../../lib/server-runtime';
 
 interface ReportBody {
@@ -9,15 +8,10 @@ interface ReportBody {
   userContext?: string;
 }
 
-function isPlaceholder(val: string) {
-  return !val || val.includes('tu_token_aqui');
-}
-
 export const POST: APIRoute = async ({ request, locals }) => {
   try {
     const body = (await request.json()) as ReportBody;
-    const { questionId, reportType, message, userContext } = body;
-    const env = getServerRuntimeEnv(locals as RuntimeLocals);
+    const { reportType, message } = body;
 
     if (!reportType || !message) {
       return new Response(JSON.stringify({ error: 'Faltan campos requeridos' }), {
@@ -26,93 +20,39 @@ export const POST: APIRoute = async ({ request, locals }) => {
       });
     }
 
-    let dbSuccess = false;
-
-    // Use service role key if available, fall back to anon key for user_reports inserts
-    const supabaseKey = env.serviceRoleKey || env.anonKey;
-
-    if (env.supabaseUrl && supabaseKey) {
-      const adminSupabase = createClient(env.supabaseUrl, supabaseKey, {
-        auth: { persistSession: false, autoRefreshToken: false },
+    const env = getServerRuntimeEnv(locals as RuntimeLocals);
+    if (!env.supabaseUrl) {
+      return new Response(JSON.stringify({ error: 'Supabase runtime no configurado' }), {
+        status: 500,
+        headers: { 'Content-Type': 'application/json' },
       });
-
-      const { error: dbError } = await adminSupabase.from('user_reports').insert([
-        {
-          report_type: reportType,
-          question_id: questionId,
-          message,
-          user_context: userContext,
-        },
-      ]);
-
-      if (dbError) {
-        console.error('❌ [REPORT] Database Error:', dbError);
-      } else {
-        dbSuccess = true;
-      }
-    } else {
-      console.error('❌ [REPORT] Missing PUBLIC_SUPABASE_URL or API key in runtime');
     }
 
-    let telegramSuccess = false;
-    let telegramError = '';
+    const response = await fetch(`${env.supabaseUrl}/functions/v1/report-problem`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify(body),
+    });
 
-    if (!isPlaceholder(env.telegramBotToken) && !isPlaceholder(env.telegramChatId)) {
-      try {
-        const headerEmoji = reportType.toLowerCase().includes('feedback') ? '💡 FEEDBACK' : '🚨 ERROR';
-        const text = [
-          headerEmoji,
-          `Tipo: ${reportType}`,
-          `Pregunta: ${questionId || 'N/A'}`,
-          `Contexto: ${userContext || 'Anonimo'}`,
-          'Mensaje:',
-          message,
-        ].join('\n');
+    const responseText = await response.text();
 
-        const response = await fetch(`https://api.telegram.org/bot${env.telegramBotToken}/sendMessage`, {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
-            chat_id: env.telegramChatId,
-            text,
-          }),
-        });
-
-        const result = (await response.json()) as { ok: boolean; description?: string };
-        telegramSuccess = !!result.ok;
-        if (!result.ok) telegramError = result.description || 'Unknown error';
-      } catch (e: any) {
-        telegramError = e.message;
-      }
-    } else {
-      telegramError = 'Telegram tokens not configured';
-    }
-
-    const success = dbSuccess && telegramSuccess;
-    const status = success ? 200 : dbSuccess || telegramSuccess ? 207 : 500;
-
+    return new Response(responseText, {
+      status: response.status,
+      headers: { 'Content-Type': 'application/json' },
+    });
+  } catch (err: unknown) {
+    const errorMessage = err instanceof Error ? err.message : 'Unknown error';
     return new Response(
       JSON.stringify({
-        success,
-        db: dbSuccess,
-        telegram: telegramSuccess,
-        telegramError: telegramError || undefined,
+        error: 'Error interno al procesar el reporte.',
+        details: errorMessage,
       }),
       {
-        status,
+        status: 500,
         headers: { 'Content-Type': 'application/json' },
       }
     );
-
-  } catch (err: unknown) {
-    const errorMessage = err instanceof Error ? err.message : 'Unknown error';
-    return new Response(JSON.stringify({
-      error: 'Error interno al procesar el reporte.',
-      details: errorMessage,
-    }), {
-      status: 500,
-      headers: { 'Content-Type': 'application/json' },
-    });
   }
 };
-
