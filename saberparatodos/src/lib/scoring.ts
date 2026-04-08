@@ -62,6 +62,7 @@ export interface ExamScore {
   perfectBonus: number;
   totalScore: number;
   stats: ExamStats;
+  scoreRange: ExamScoreRange;
 }
 
 export interface ExamStats {
@@ -73,6 +74,17 @@ export interface ExamStats {
   averageTimePerQuestion: number;
   longestStreak: number;
   totalTimeSeconds: number;
+}
+
+export interface ExamScoreRange {
+  minSubtotal: number;
+  maxSubtotal: number;
+  minScore: number;
+  maxScore: number;
+  completionBonus: number;
+  maxAccuracyBonus: number;
+  perfectBonus: number;
+  scaleLabel: string;
 }
 
 // ============================================================================
@@ -273,6 +285,7 @@ export function calculateExamScore(
 
   // Total final
   const totalScore = Math.max(0, subtotal + completionBonus + accuracyBonus + perfectBonus);
+  const scoreRange = calculateExamScoreRange(exam, config);
 
   return {
     questionScores,
@@ -281,7 +294,51 @@ export function calculateExamScore(
     accuracyBonus,
     perfectBonus,
     totalScore,
-    stats
+    stats,
+    scoreRange
+  };
+}
+
+/**
+ * Calcula el rango teorico de puntaje para el mismo examen.
+ * Sirve para explicar al usuario que esta escala es interna y no equivale a ICFES.
+ */
+export function calculateExamScoreRange(
+  exam: ExamResult,
+  config: ScoringConfig = DEFAULT_SCORING_CONFIG
+): ExamScoreRange {
+  const completionBonus = exam.questions.length >= 7 ? config.completionBonus : 0;
+
+  const minSubtotal = exam.questions.reduce((sum, question) => {
+    const penalty = config.incorrectPenalty * getDifficultyMultiplier(question.difficulty, config);
+    return sum + Math.round(penalty);
+  }, 0);
+
+  const maxSubtotal = exam.questions.reduce((sum, question, index) => {
+    const difficultyMultiplier = getDifficultyMultiplier(question.difficulty, config);
+    const maxTimeBonus = config.timeBonus.maxMultiplier;
+    const maxStreakMultiplier = getStreakMultiplier(index, config);
+
+    return sum + Math.round(
+      config.basePoints * difficultyMultiplier * maxTimeBonus * maxStreakMultiplier
+    );
+  }, 0);
+
+  const maxAccuracyBonus = exam.questions.length > 0
+    ? Math.round((1 - config.accuracyBonusThreshold) * config.accuracyBonusMultiplier)
+    : 0;
+
+  const perfectBonus = exam.questions.length > 0 ? config.perfectBonus : 0;
+
+  return {
+    minSubtotal,
+    maxSubtotal,
+    minScore: Math.max(0, minSubtotal + completionBonus),
+    maxScore: Math.max(0, maxSubtotal + completionBonus + maxAccuracyBonus + perfectBonus),
+    completionBonus,
+    maxAccuracyBonus,
+    perfectBonus,
+    scaleLabel: 'Puntos WorldExams'
   };
 }
 
