@@ -176,13 +176,13 @@ El puntaje (0-500) es crucial para ingresar a universidades y obtener becas.
       initialScore: 1000,
 
       ranks: [
-        { name: "Iniciado", minMMR: 0, maxMMR: 999, emoji: "🔰", icfesEquivalent: "0-200" },
-        { name: "Aprendiz", minMMR: 1000, maxMMR: 1199, emoji: "📗", icfesEquivalent: "200-280" },
-        { name: "Estudiante", minMMR: 1200, maxMMR: 1399, emoji: "📘", icfesEquivalent: "280-340" },
-        { name: "Avanzado", minMMR: 1400, maxMMR: 1599, emoji: "📙", icfesEquivalent: "340-400" },
-        { name: "Experto", minMMR: 1600, maxMMR: 1799, emoji: "📕", icfesEquivalent: "400-450" },
-        { name: "Maestro", minMMR: 1800, maxMMR: 1999, emoji: "⭐", icfesEquivalent: "450-480" },
-        { name: "Gran Maestro", minMMR: 2000, maxMMR: 9999, emoji: "👑", icfesEquivalent: "480-500" }
+        { name: "Iniciado", minMMR: 0, maxMMR: 599, emoji: "🔰", proxyEstimateRange: "0-200" },
+        { name: "Aprendiz", minMMR: 600, maxMMR: 799, emoji: "📗", proxyEstimateRange: "200-280" },
+        { name: "Estudiante", minMMR: 800, maxMMR: 999, emoji: "📘", proxyEstimateRange: "280-340" },
+        { name: "Avanzado", minMMR: 1000, maxMMR: 1199, emoji: "📙", proxyEstimateRange: "340-400" },
+        { name: "Experto", minMMR: 1200, maxMMR: 1399, emoji: "📕", proxyEstimateRange: "400-450" },
+        { name: "Maestro", minMMR: 1400, maxMMR: 1599, emoji: "⭐", proxyEstimateRange: "450-480" },
+        { name: "Gran Maestro", minMMR: 1600, maxMMR: 9999, emoji: "👑", proxyEstimateRange: "480-500" }
       ],
 
       howItWorks: {
@@ -190,7 +190,8 @@ El puntaje (0-500) es crucial para ingresar a universidades y obtener becas.
         losingPoints: "Respuestas incorrectas restan puntos. Preguntas fáciles quitan más si fallas.",
         timeBonus: "Respuestas rápidas y correctas dan bonus adicional.",
         stabilization: "El sistema se estabiliza después de 20-30 preguntas."
-      }
+      },
+      proxyNote: "Los rangos proxyEstimateRange son orientativos en escala 0-500. No equivalen a puntajes ICFES oficiales ni replican su metodologia psicometrica."
     },
 
     // Tips de estudio

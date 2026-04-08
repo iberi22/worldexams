@@ -1,11 +1,4 @@
-/**
- * Local Prompt Service
- * Sistema simple de generación de prompts basado en resultados
- */
-
-// =============================================================================
-// TIPOS
-// =============================================================================
+import type { IcfesEstimate } from './mmr-system';
 
 export interface ExamResultData {
   grade: number;
@@ -25,7 +18,7 @@ export interface UserProfileData {
   totalQuestions: number;
   weakAreas: { name: string; accuracy: number }[];
   strongAreas: { name: string; accuracy: number }[];
-  simulatedIcfesScore?: number;
+  icfesEstimate?: IcfesEstimate;
   recentHistory?: { mmr: number, timestamp: number }[];
   advancedMetrics?: {
     avgTimeCorrect: number;
@@ -49,7 +42,7 @@ export interface AdaptiveContext {
   speedProfile: 'impulsive' | 'overthinker' | 'balanced';
   examDaysLeft?: number;
   consistencyScore: number;
-  simulatedIcfesScore: number;
+  icfesEstimate: IcfesEstimate;
   totalQuestionsAnswered: number;
   topWeakArea?: string;
   topStrongSubject?: string;
@@ -269,7 +262,7 @@ Responde en formato Markdown compatible con el sistema local.
 🚨 SPRINT FINAL: Quedan pocos días para la prueba.
 
 MI ESTADO:
-- ICFES simulado: ${context.simulatedIcfesScore}/500
+- Estimado de practica (Proxy): ${context.icfesEstimate.score}/500
 - MMR: ${profile.globalMMR} (${profile.rankTitle})
 - Debilidades Críticas: ${profile.weakAreas.slice(0, 3).map(a => a.name).join(', ')}
 - Áreas Sólidas: ${profile.strongAreas.slice(0, 3).map(a => a.name).join(', ')}
@@ -306,7 +299,7 @@ NECESITO:
 MÉTRICAS:
 - MMR: ${profile.globalMMR}
 - Consistencia: ${context.consistencyScore}/100
-- ICFES Proyectado: ${context.simulatedIcfesScore}/500
+- Estimado de practica (Proxy): ${context.icfesEstimate.score}/500
 
 ESTRATEGIA DE ASCENSO:
 1. ¿Cómo paso de un nivel ${profile.rankTitle} al siguiente rango de élite?
@@ -321,7 +314,7 @@ ESTRATEGIA DE ASCENSO:
 Soy un estudiante avanzado, pero tengo brechas (gaps) que me impiden llegar al puntaje máximo.
 
 PERFIL:
-- MMR: ${profile.globalMMR} | ICFES: ${context.simulatedIcfesScore}/500
+- MMR: ${profile.globalMMR} | Estimado de practica: ${context.icfesEstimate.score}/500
 - Fortalezas: ${profile.strongAreas.map(a => a.name).join(', ')}
 - Brecha Crítica: ${context.topWeakArea || 'Temas específicos'}
 
@@ -426,7 +419,7 @@ export function computeAdaptiveContext(profile: UserProfileData): AdaptiveContex
     momentum,
     speedProfile,
     consistencyScore: profile.advancedMetrics?.consistencyScore || 0,
-    simulatedIcfesScore: profile.simulatedIcfesScore || Math.round(profile.globalMMR / 4),
+    icfesEstimate: profile.icfesEstimate || ({ score: Math.round(170 + (profile.globalAccuracy * 180)), label: 'Resultado provisional', confidence: 'low', evidenceCount: profile.totalQuestions, methodologyVersion: 'fallback', minimumEvidenceMet: false, disclaimer: '' } as IcfesEstimate),
     totalQuestionsAnswered: profile.totalQuestions,
     topWeakArea: profile.weakAreas[0]?.name,
     topStrongSubject: profile.strongAreas[0]?.name

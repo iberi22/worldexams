@@ -1,6 +1,13 @@
 
 import { getAllLocalResults, type ExamResultRecord } from './idb-storage'; // Fix import path if needed (idb-storage is in same folder)
-import { calculateNewMMR, BASE_MMR, getRankTitle, getSimulatedIcfesScore } from './mmr-system';
+import {
+  calculateNewMMR,
+  BASE_MMR,
+  getRankTitle,
+  estimateIcfesScore,
+  type IcfesEstimate,
+  type IcfesModuleScores
+} from './mmr-system';
 import { CO_ICFES_2026_BENCHMARK, type IcfesBenchmarkConfig } from '../config/icfes-benchmarks';
 
 export interface CompetencyStats {
@@ -34,7 +41,7 @@ export interface AdvancedMetrics {
 
 export interface UserProfile {
   globalMMR: number;
-  simulatedIcfesScore: number;
+  icfesEstimate: IcfesEstimate;
   rankTitle: string;
   totalQuestions: number;
   globalAccuracy: number;
@@ -50,13 +57,57 @@ export interface ExamPerformanceSnapshot {
   hasHistory: boolean;
   latestSessionAt: number | null;
   latestScore: number | null;
-  simulatedIcfesScore: number | null;
+  icfesEstimate: IcfesEstimate | null;
   benchmarkScore: number;
   benchmarkDelta: number | null;
   goalScore: number;
   goalDelta: number | null;
   rankTitle: string | null;
   latestSubject: string | null;
+}
+
+function normalizeIcfesSubjectKey(subject: string | undefined | null): keyof IcfesModuleScores | null {
+  const normalized = String(subject || '')
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/[_-]/g, ' ')
+    .trim();
+
+  if (!normalized) return null;
+  if (normalized.includes('lect') || normalized.includes('leng') || normalized.includes('espa')) return 'lectura';
+  if (normalized.includes('mat')) return 'matematicas';
+  if (normalized.includes('soci') || normalized.includes('ciudad') || normalized.includes('hist')) return 'sociales';
+  if (normalized.includes('cien') || normalized.includes('biolog') || normalized.includes('quim') || normalized.includes('fis')) return 'ciencias';
+  if (normalized.includes('ing')) return 'ingles';
+  return null;
+}
+
+function buildSubjectModuleEstimates(
+  subjects: Record<string, SubjectStats>
+): { moduleScores: IcfesModuleScores; subjectCoverage: number } {
+  const moduleScores: IcfesModuleScores = {};
+
+  for (const subject of Object.values(subjects)) {
+    const moduleKey = normalizeIcfesSubjectKey(subject.name);
+    if (!moduleKey || subject.questionsAnswered < 10) continue;
+
+    moduleScores[moduleKey] = estimateIcfesScore({
+      mmr: subject.mmr,
+      accuracy: subject.accuracy,
+      evidenceCount: subject.questionsAnswered,
+      averageDifficulty: 3,
+      consistencyScore: 60,
+      subjectCoverage: 1
+    }).score / 5;
+
+    moduleScores[moduleKey] = Math.round(Math.min(100, Math.max(0, moduleScores[moduleKey] || 0)));
+  }
+
+  return {
+    moduleScores,
+    subjectCoverage: Object.keys(moduleScores).length
+  };
 }
 
 /**
@@ -222,9 +273,22 @@ export async function generateUserProfile(): Promise<UserProfile> {
     worstTopics
   };
 
+  const { moduleScores, subjectCoverage } = buildSubjectModuleEstimates(subjects);
+  const icfesEstimate = estimateIcfesScore({
+    mmr: globalMMR,
+    accuracy: attempts.length > 0 ? correctCount / attempts.length : 0,
+    evidenceCount: attempts.length,
+    averageDifficulty: attempts.length > 0
+      ? attempts.reduce((sum, attempt) => sum + (attempt.difficulty || 3), 0) / attempts.length
+      : 3,
+    consistencyScore: advancedMetrics.consistencyScore,
+    subjectCoverage,
+    estimatedModuleScores: subjectCoverage > 0 ? moduleScores : undefined
+  });
+
   return {
     globalMMR: Math.round(globalMMR),
-    simulatedIcfesScore: getSimulatedIcfesScore(globalMMR),
+    icfesEstimate,
     rankTitle: getRankTitle(globalMMR),
     totalQuestions: attempts.length,
     globalAccuracy: attempts.length > 0 ? correctCount / attempts.length : 0,
@@ -313,7 +377,7 @@ export function buildExamPerformanceSnapshot(
       hasHistory: false,
       latestSessionAt: null,
       latestScore: null,
-      simulatedIcfesScore: null,
+      icfesEstimate: null,
       benchmarkScore: benchmark.benchmarkScore,
       benchmarkDelta: null,
       goalScore: benchmark.goalScore,
@@ -323,13 +387,13 @@ export function buildExamPerformanceSnapshot(
     };
   }
 
-  const simulatedScore = profile.simulatedIcfesScore;
+  const simulatedScore = profile.icfesEstimate.score;
 
   return {
     hasHistory: true,
     latestSessionAt: latestResult.timestamp,
     latestScore: latestResult.score,
-    simulatedIcfesScore: simulatedScore,
+    icfesEstimate: profile.icfesEstimate,
     benchmarkScore: benchmark.benchmarkScore,
     benchmarkDelta: simulatedScore - benchmark.benchmarkScore,
     goalScore: benchmark.goalScore,
