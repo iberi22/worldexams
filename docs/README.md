@@ -60,7 +60,7 @@ New countries should normally require configuration, localization, SEO, branding
 
 This repo currently has:
 
-- `apps/worldexams-site/` as the `worldexams` organization/site layer
+- `apps/landing-worldexams/` as the `worldexams` organization/site layer
 - `saberparatodos/src/` as the shared exam-product runtime
 
 Use the root site for:

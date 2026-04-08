@@ -1,6 +1,7 @@
 # 📊 Resumen de Trabajo Completado - Análisis de Packs Colombia
 
 > Historical context only. Este resumen conserva contexto de implementación, pero no redefine la gobernanza ni el flujo operativo actual.
+> Para trabajo nuevo, la autoridad funcional de protocolos vive en `docs/specs/ACTIVE_PROTOCOLS.md` y la configuración país en `config/countries.config.ts`.
 
 > **Fecha:** 9 de diciembre de 2025
 > **Solicitado por:** Usuario
@@ -302,7 +303,7 @@ Según `AGENTS.md`, @jules es:
 ### Documentos Clave
 
 1. **Protocolo v2.0:** `docs/QUESTION_GENERATION_PROTOCOL_V2.md`
-2. **Configuración Colombia:** `saberparatodos/config/country.ts`
+2. **Configuracion Colombia vigente:** `config/countries.config.ts`
 3. **Análisis de packs:** `docs/reports/colombia-packs-status.md`
 4. **Instrucciones Jules:** `docs/reports/jules-instructions-colombia.md`
 5. **AGENTS.md:** `AGENTS.md`

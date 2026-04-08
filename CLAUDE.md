@@ -18,7 +18,7 @@
 npm test
 
 # Ejecutar / Build / Dev server
-npm run dev || npm run dev:worldexams-site
+npm run dev || npm run dev:landing-worldexams
 
 # Tests
 {TEST_COMMAND}

@@ -1,55 +1,41 @@
-<script>
+<script lang="ts">
+  import { countryConfig } from '../config';
+  import { getSiteShellContent } from '../config/site-shell-content';
+
   const currentYear = new Date().getFullYear();
+  const shellContent = getSiteShellContent(countryConfig);
 </script>
 
 <footer class="w-full border-t border-white/10 bg-[#0a0a0a]/80 backdrop-blur-sm mt-auto">
-  <!-- Main Footer Content -->
   <div class="max-w-6xl mx-auto px-4 py-8">
     <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
-      <!-- Brand -->
       <div class="space-y-4 md:col-span-2">
         <div class="flex items-center gap-3">
           <div class="w-10 h-10 rounded-lg bg-gradient-to-br from-emerald-500/20 to-emerald-500/5 border border-emerald-500/30 flex items-center justify-center">
-            <span class="text-emerald-500 font-bold text-lg">ST</span>
+            <span class="text-emerald-500 font-bold text-lg">WE</span>
           </div>
           <div>
-            <h3 class="font-bold text-lg text-[#F5F5DC]">SaberParaTodos</h3>
-            <p class="text-xs text-white/40">by SaberParaTodos</p>
+            <h3 class="font-bold text-lg text-[#F5F5DC]">{countryConfig.product.siteName}</h3>
+            <p class="text-xs text-white/40">{countryConfig.flag} {countryConfig.name}</p>
           </div>
         </div>
-        <p class="text-sm text-white/50 max-w-sm leading-relaxed">
-          Plataforma open source de práctica para las pruebas ICFES Saber.
-          Contenido gratuito para todos los estudiantes colombianos.
-        </p>
+        <p class="text-sm text-white/50 max-w-sm leading-relaxed">{shellContent.footerDescription}</p>
       </div>
 
-      <!-- Quick Links -->
       <div class="space-y-4">
         <h4 class="text-xs font-bold uppercase tracking-widest text-white/60">Recursos</h4>
         <ul class="space-y-2">
-          <li>
-            <a href="/" class="text-sm text-white/40 hover:text-emerald-500 transition-colors">Prueba</a>
-          </li>
-          <li>
-            <a href="/guia-examen" class="text-sm text-white/40 hover:text-emerald-500 transition-colors">Guía ICFES</a>
-          </li>
-          <li>
-            <a href="/manual-plataforma" class="text-sm text-white/40 hover:text-emerald-500 transition-colors">Manual de Uso</a>
-          </li>
-          <li>
-            <a href="/sobre-nosotros" class="text-sm text-white/40 hover:text-emerald-500 transition-colors">Sobre Nosotros</a>
-          </li>
-          <li>
-            <a href="/contacto" class="text-sm text-white/40 hover:text-emerald-500 transition-colors">Contacto</a>
-          </li>
+          <li><a href="/" class="text-sm text-white/40 hover:text-emerald-500 transition-colors">Inicio</a></li>
+          <li><a href="/guia-examen" class="text-sm text-white/40 hover:text-emerald-500 transition-colors">Guia {countryConfig.product.guideLabel}</a></li>
+          <li><a href="/manual-plataforma" class="text-sm text-white/40 hover:text-emerald-500 transition-colors">Manual de uso</a></li>
+          <li><a href="/sobre-nosotros" class="text-sm text-white/40 hover:text-emerald-500 transition-colors">Sobre nosotros</a></li>
+          <li><a href="/contacto" class="text-sm text-white/40 hover:text-emerald-500 transition-colors">Contacto</a></li>
         </ul>
       </div>
 
-      <!-- Community -->
       <div class="space-y-4">
         <h4 class="text-xs font-bold uppercase tracking-widest text-white/60">Comunidad</h4>
         <div class="flex gap-3">
-          <!-- GitHub -->
           <a
             href="https://github.com/world-exams"
             target="_blank"
@@ -66,29 +52,24 @@
     </div>
   </div>
 
-  <!-- Divider -->
   <div class="w-full h-px bg-gradient-to-r from-transparent via-white/10 to-transparent"></div>
 
-  <!-- Bottom Bar -->
   <div class="max-w-6xl mx-auto px-4 py-4">
     <div class="flex flex-col md:flex-row items-center justify-between gap-4 text-xs text-white/40">
       <p>
-        © {currentYear} SaberParaTodos. Proyecto de
+        © {currentYear} {countryConfig.product.siteName}. Proyecto de
         <a href="https://github.com/world-exams" target="_blank" rel="noopener noreferrer" class="text-white/60 hover:text-emerald-500 transition-colors">
           World Exams Organization
         </a>
       </p>
-      <p class="text-center md:text-right">
-        No afiliado oficialmente con el ICFES. Contenido educativo basado en información pública.
-      </p>
+      <p class="text-center md:text-right">{shellContent.footerDisclaimer}</p>
     </div>
   </div>
 
-  <!-- Colombian Flag Stripe -->
   <div class="w-full h-1 flex">
-    <div class="flex-[2] bg-[#FCD116]"></div>
-    <div class="flex-1 bg-[#003893]"></div>
-    <div class="flex-1 bg-[#CE1126]"></div>
+    <div class="flex-[2]" style={`background-color: ${countryConfig.theme.primary};`}></div>
+    <div class="flex-1" style={`background-color: ${countryConfig.theme.secondary};`}></div>
+    <div class="flex-1" style={`background-color: ${countryConfig.theme.accent};`}></div>
   </div>
 </footer>
 

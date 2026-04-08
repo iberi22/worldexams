@@ -4,7 +4,7 @@ import { countryConfig } from '../config';
 import { preuCatalogEntries, preuMethodologySources, preuStatusLabels } from '../lib/preuniversitario/catalog';
 
 const isCO = countryConfig.code === 'CO';
-const siteUrl = Astro.site ? Astro.site.toString() : 'https://saberparatodos.space';
+const siteUrl = Astro.site ? Astro.site.toString() : countryConfig.product.siteUrl;
 
 const statusSummary = {
   verified: preuCatalogEntries.filter((entry) => entry.researchStatus === 'verified').length,
@@ -15,16 +15,16 @@ const statusSummary = {
 const schema = {
   '@context': 'https://schema.org',
   '@type': 'CollectionPage',
-  name: 'Preuniversitario Colombia',
-  description: 'Modulo para investigar y simular examenes de admision universitarios en Colombia.',
+  name: `Preuniversitario ${countryConfig.name}`,
+  description: `Modulo para investigar y simular examenes de admision universitarios en ${countryConfig.name}.`,
   url: `${siteUrl.replace(/\/$/, '')}/preuniversitario`
 };
 ---
 
 <Layout
-  title="Preuniversitario Colombia | Simulacros de admision y protocolo v4+"
-  description="Modulo preuniversitario para Colombia: top 10 pipeline, fichas institucionales, blueprint de admision y protocolo v4+ para crear simulacros."
-  keywords="preuniversitario colombia, examen de admision, universidades colombia, simulacros de admision, protocolo v4"
+  title={`Preuniversitario ${countryConfig.name} | Simulacros de admision y protocolo v4+`}
+  description={`Modulo preuniversitario para ${countryConfig.name}: pipeline, fichas institucionales y blueprint de admision para nuevos simulacros.`}
+  keywords={`preuniversitario ${countryConfig.name.toLowerCase()}, examen de admision, simulacros de admision, protocolo v4`}
 >
   <script is:inline type="application/ld+json" set:html={JSON.stringify(schema)} />
 
@@ -305,7 +305,7 @@ const schema = {
 
         <div class="glass rounded-[1.75rem] p-8">
           <p class="text-xs uppercase tracking-[0.28em] text-white/35 mb-4">Estado del modulo</p>
-          {isCO ? (
+          {countryConfig.features.preuniversitario && isCO ? (
             <>
               <h2 class="text-2xl font-black mb-4">Corte implementado</h2>
               <ul class="space-y-3 text-sm text-white/70 leading-relaxed">
@@ -317,7 +317,7 @@ const schema = {
               </ul>
             </>
           ) : (
-            <p class="text-white/65">Este modulo esta activado solo para Colombia en este tenant.</p>
+            <p class="text-white/65">Este modulo todavia no esta activado para {countryConfig.name}. La plantilla ya soporta tenanting, pero la capa editorial sigue pendiente.</p>
           )}
         </div>
       </div>

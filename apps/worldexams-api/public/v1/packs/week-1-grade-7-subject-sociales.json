@@ -1,0 +1,5450 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "sociales",
+    "pack_id": "week-1-grade-7-subject-sociales",
+    "generated_at": "2026-03-16T18:04:21.657Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-7-ciudadania-convivencia-001-v1",
+      "statement": "**ID:** `CO-SOC-7-ciudadania-convivencia-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un **Ciudadano**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una persona que pertenece a una comunidad política (país), con derechos y deberes reconocidos por la ley",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Alguien que vive en la ciudad",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Alguien que tiene carro",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Alguien mayor de edad",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSer ciudadano implica participar activamente en la construcción de una sociedad mejor.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-ciudadania-convivencia-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-ciudadania-convivencia-001-v2",
+      "statement": "**ID:** `CO-SOC-7-ciudadania-convivencia-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el documento más importante de Colombia (\"Norma de Normas\"), que establece los derechos y deberes de todos los ciudadanos?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Constitución Política de 1991",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Código de Policía",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La Biblia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Manual de Convivencia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nNinguna ley puede ir en contra de lo que dice la Constitución.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-ciudadania-convivencia-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-ciudadania-convivencia-001-v3",
+      "statement": "**ID:** `CO-SOC-7-ciudadania-convivencia-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué son los **Derechos Humanos**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Derechos inherentes a todos los seres humanos, sin distinción alguna de nacionalidad, lugar de residencia, sexo, origen nacional o étnico, color, religión o lengua",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Derechos solo para los ricos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Derechos solo para los adultos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Derechos que se compran",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSon universales, inalienables (nadie te los puede quitar) e indivisibles.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-ciudadania-convivencia-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-ciudadania-convivencia-001-v4",
+      "statement": "**ID:** `CO-SOC-7-ciudadania-convivencia-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué mecanismo de participación ciudadana permite a los estudiantes elegir a su Personero Estudiantil?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Voto",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La Tutela",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Paro",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La Rifa",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl voto es la herramienta fundamental de la democracia representativa.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-ciudadania-convivencia-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-ciudadania-convivencia-001-v5",
+      "statement": "**ID:** `CO-SOC-7-ciudadania-convivencia-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Discriminación**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El trato desigual e injusto hacia una persona o grupo por motivos de raza, religión, género, orientación sexual u opinión política",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Elegir la mejor fruta",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Tener gustos diferentes",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Jugar en equipos distintos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa discriminación viola el derecho fundamental a la igualdad y dignidad.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-ciudadania-convivencia-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-ciudadania-convivencia-001-v6",
+      "statement": "**ID:** `CO-SOC-7-ciudadania-convivencia-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **Bullying** o Acoso Escolar?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una conducta agresiva, intencional y repetida de una persona o grupo contra otra que tiene dificultades para defenderse (desequilibrio de poder)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una pelea de un día",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una broma entre amigos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un juego brusco",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nNo es \"cosas de niños\". Deja heridas emocionales profundas y debe ser denunciado.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-ciudadania-convivencia-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-ciudadania-convivencia-001-v7",
+      "statement": "**ID:** `CO-SOC-7-ciudadania-convivencia-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **Mecanismo de Tutela** en Colombia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una herramienta judicial rápida y sencilla para proteger los derechos fundamentales cuando estos son vulnerados o amenazados",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un examen de admisión",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un impuesto",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un permiso de construcción",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nCualquier persona puede poner una tutela sin necesidad de abogado. Los jueces deben responder en 10 días.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-ciudadania-convivencia-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-ciudadania-convivencia-001-v8",
+      "statement": "**ID:** `CO-SOC-7-ciudadania-convivencia-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué significa que Colombia es un **Estado Social de Derecho**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el Estado debe garantizar no solo el orden, sino también la justicia social, la dignidad humana y los derechos básicos (salud, educación, vivienda) de todos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Que es socialista",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Que solo importan las leyes",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Que es una dictadura",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl estado está al servicio de la gente, especialmente de los más vulnerables.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-ciudadania-convivencia-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-ciudadania-convivencia-001-v9",
+      "statement": "**ID:** `CO-SOC-7-ciudadania-convivencia-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la función del **Personero Estudiantil**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Promover el cumplimiento de los derechos y deberes de los estudiantes consagrados en el Manual de Convivencia y la Constitución",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Organizar fiestas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Poner las notas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Castigar a los estudiantes",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs el defensor del pueblo en la escuela.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-ciudadania-convivencia-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-ciudadania-convivencia-001-v10",
+      "statement": "**ID:** `CO-SOC-7-ciudadania-convivencia-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Resolución Pacífica de Conflictos**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Buscar soluciones a los problemas mediante el diálogo, la negociación y la mediación, sin usar la violencia física o verbal",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Ignorar los problemas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Ganar la pelea a golpes",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Llamar a la policía siempre",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl conflicto es natural en la vida, lo importante es cómo lo manejamos.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-ciudadania-convivencia-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-civilizaciones-fluviales-001-v1",
+      "statement": "**ID:** `CO-SOC-7-civilizaciones-fluviales-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué característica geográfica compartían las primeras grandes civilizaciones (Mesopotamia, Egipto, India y China)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todas se desarrollaron a orillas de grandes ríos que fertilizaban la tierra para la agricultura",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Todas estaban en islas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Todas vivían en la selva",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Todas estaban en montañas nevadas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPor eso se les llama \"Civilizaciones Hidráulicas\". Sin riego, no había comida, ni ciudades.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-civilizaciones-fluviales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-civilizaciones-fluviales-001-v2",
+      "statement": "**ID:** `CO-SOC-7-civilizaciones-fluviales-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Entre qué dos ríos se desarrolló la civilización de **Mesopotamia** (cuyo nombre significa \"tierra entre ríos\")?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tigris y Éufrates",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Nilo y Amazonas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Amarillo y Azul",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Magdalena y Cauca",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs la cuna de la civilización, ubicada en el actual Irak.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-civilizaciones-fluviales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-civilizaciones-fluviales-001-v3",
+      "statement": "**ID:** `CO-SOC-7-civilizaciones-fluviales-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué río fue fundamental para el desarrollo del Antiguo **Egipto**, considerado un \"regalo\" de los dioses?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Río Nilo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Río Jordán",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Río Misisipi",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Río Ganges",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSus crecidas anuales dejaban un barro fértil llamado \"limo\" que permitía sembrar en medio del desierto.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-civilizaciones-fluviales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-civilizaciones-fluviales-001-v4",
+      "statement": "**ID:** `CO-SOC-7-civilizaciones-fluviales-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué importante invento desarrollaron los sumerios en Mesopotamia, marcando el inicio de la Historia escrita?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Escritura Cuneiforme (en forma de cuña sobre tablillas de arcilla)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El papel moneda",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La imprenta",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El alfabeto latino",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAl principio la usaban para llevar las cuentas de los granos y el ganado.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-civilizaciones-fluviales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-civilizaciones-fluviales-001-v5",
+      "statement": "**ID:** `CO-SOC-7-civilizaciones-fluviales-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **Código de Hammurabi**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uno de los primeros conjuntos de leyes escritas de la historia, famoso por el principio de \"Ojo por ojo, diente por diente\"",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un libro de cocina",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un mapa del tesoro",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una oración religiosa",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl rey Hammurabi mandó tallar las leyes en piedra para que nadie pudiera decir que no las conocía.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-civilizaciones-fluviales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-civilizaciones-fluviales-001-v6",
+      "statement": "**ID:** `CO-SOC-7-civilizaciones-fluviales-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué gigantesca construcción funeraria caracteriza a los faraones del Antiguo Egipto?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las Pirámides",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Los Zigurat",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La Muralla China",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Coliseo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nServían como tumbas y máquinas de resurrección para el faraón en su viaje al más allá.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-civilizaciones-fluviales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-civilizaciones-fluviales-001-v7",
+      "statement": "**ID:** `CO-SOC-7-civilizaciones-fluviales-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿En torno a qué ríos floreció la antigua civilización **China**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Río Amarillo (Hoang-Ho) y Río Azul (Yangtsé)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Indo y Ganges",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Danubio y Rin",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Amazonas y Orinoco",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nChina desarrolló tecnologías como la seda, la pólvora y el papel mucho antes que Europa.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-civilizaciones-fluviales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-civilizaciones-fluviales-001-v8",
+      "statement": "**ID:** `CO-SOC-7-civilizaciones-fluviales-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué sistema social rígido (castas) caracterizó a la antigua civilización de la **India**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un sistema donde las personas nacían en una clase social determinada (Brahmanes, Chatrias, etc.) y no podían cambiar ni mezclarse",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una democracia donde todos votaban",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una sociedad sin clases",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un sistema matriarcal",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nCreían que tu casta dependía del karma de tus vidas pasadas.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-civilizaciones-fluviales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-civilizaciones-fluviales-001-v9",
+      "statement": "**ID:** `CO-SOC-7-civilizaciones-fluviales-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué era un **Zigurat** en la antigua Mesopotamia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un templo en forma de torre escalonada o pirámide truncada, considerado la morada de los dioses y centro administrativo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una tumba subterránea",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un mercado",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un tipo de barco",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nA diferencia de las pirámides egipcias (tumbas), los zigurats eran templos activos. Se cree que inspiraron la Torre de Babel.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-civilizaciones-fluviales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-civilizaciones-fluviales-001-v10",
+      "statement": "**ID:** `CO-SOC-7-civilizaciones-fluviales-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Teocracia**, forma de gobierno común en estas civilizaciones?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un sistema donde el líder político es considerado un dios o su representante en la tierra (como el Faraón), uniendo poder religioso y político",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El gobierno del pueblo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El gobierno de los militares",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El gobierno de los ricos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nDesobedecer al rey no era solo un delito, era un pecado contra los dioses.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-civilizaciones-fluviales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-civilizaciones-mediterraneo-001-v1",
+      "statement": "**ID:** `CO-SOC-7-civilizaciones-mediterraneo-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué mar fue el centro de comercio y cultura para las civilizaciones de Grecia y Roma (llamado \"Mare Nostrum\" por los romanos)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Mar Mediterráneo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Mar Caribe",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Océano Pacífico",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Mar Muerto",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nFacilitó el intercambio de mercancías (vino, aceite, trigo) y de ideas entre tres continentes.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-civilizaciones-mediterraneo-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-civilizaciones-mediterraneo-001-v2",
+      "statement": "**ID:** `CO-SOC-7-civilizaciones-mediterraneo-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿En qué ciudad-estado griega nació la **Democracia** (gobierno del pueblo)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Atenas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Esparta",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Roma",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Troya",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAllí, los ciudadanos se reunían en la plaza (Ágora) para votar las leyes a mano alzada.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-civilizaciones-mediterraneo-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-civilizaciones-mediterraneo-001-v3",
+      "statement": "**ID:** `CO-SOC-7-civilizaciones-mediterraneo-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué civilización griega famosa por su disciplina militar y sus guerreros se enfrentó a Atenas en la Guerra del Peloponeso?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Esparta",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Creta",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Egipto",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Persia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nA los niños espartanos se les entrenaba para ser soldados desde los 7 años.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-civilizaciones-mediterraneo-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-civilizaciones-mediterraneo-001-v4",
+      "statement": "**ID:** `CO-SOC-7-civilizaciones-mediterraneo-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué idioma hablaban los antiguos romanos, que es la madre del español, francés, italiano y portugués?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Latín",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Griego",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Inglés",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Árabe",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPor eso a estos idiomas se les llama \"lenguas romances\".\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-civilizaciones-mediterraneo-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-civilizaciones-mediterraneo-001-v5",
+      "statement": "**ID:** `CO-SOC-7-civilizaciones-mediterraneo-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la diferencia entre la **Democracia Ateniense** y la actual?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En Atenas era directa (los ciudadanos votaban las leyes) pero excluyente (mujeres, esclavos y extranjeros no votaban); hoy es representativa (elegimos a otros para que hagan las leyes)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "En Atenas votaban las mujeres",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "En Atenas votaban los niños",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSolo una pequeña parte de la población era considerada \"ciudadana\".\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-civilizaciones-mediterraneo-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-civilizaciones-mediterraneo-001-v6",
+      "statement": "**ID:** `CO-SOC-7-civilizaciones-mediterraneo-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué sistema de gobierno tuvo Roma antes de convertirse en un Imperio gobernado por un Emperador?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La República (gobernada por el Senado y dos Cónsules)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La Democracia pura",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La Anarquía",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Comunismo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n\"Res Publica\" significa \"cosa pública\". Duró casi 500 años hasta que llegó Julio César y luego Augusto.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-civilizaciones-mediterraneo-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-civilizaciones-mediterraneo-001-v7",
+      "statement": "**ID:** `CO-SOC-7-civilizaciones-mediterraneo-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué legado importante nos dejó el **Derecho Romano**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las bases de nuestro sistema legal actual (leyes escritas, jueces, abogados, presunción de inocencia)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La religión cristiana",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La filosofía",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La medicina",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nCasi todos los códigos civiles de occidente se basan en el derecho romano.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-civilizaciones-mediterraneo-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-civilizaciones-mediterraneo-001-v8",
+      "statement": "**ID:** `CO-SOC-7-civilizaciones-mediterraneo-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Quién fue Alejandro Magno y qué logró?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un rey de Macedonia que conquistó el Imperio Persa y extendió la cultura griega (Helenismo) hasta la India",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un filósofo romano",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un emperador chino",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El primer papa",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nFundó más de 70 ciudades llamadas Alejandría y murió muy joven, a los 32 años.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-civilizaciones-mediterraneo-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-civilizaciones-mediterraneo-001-v9",
+      "statement": "**ID:** `CO-SOC-7-civilizaciones-mediterraneo-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué era la **Pax Romana**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un largo periodo de relativa calma, estabilidad y prosperidad en el Imperio Romano (siglos I y II d.C.) que facilitó el comercio y la expansión cultural",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una guerra civil",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un tratado de paz con los bárbaros",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una religión",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nFue la época dorada del Imperio, donde \"todos los caminos llevaban a Roma\" y eran seguros para transitar.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-civilizaciones-mediterraneo-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-civilizaciones-mediterraneo-001-v10",
+      "statement": "**ID:** `CO-SOC-7-civilizaciones-mediterraneo-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué significa el término **Polis** en la antigua Grecia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ciudad-Estado independiente, con sus propias leyes, ejército y gobierno (como Atenas, Esparta, Corinto)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Policía",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Política",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Pueblo pequeño",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nDe ahí vienen palabras como **polí**tica (asuntos de la polis) y metró**polis**.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-civilizaciones-mediterraneo-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-demografia-migraciones-001-v1",
+      "statement": "**ID:** `CO-SOC-7-demografia-migraciones-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué ciencia estudia estadísticamente las poblaciones humanas, su tamaño, distribución y cambios?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Demografía",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La Geología",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La Historia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La Biología",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nViene del griego \"demos\" (pueblo) y \"grafía\" (descripción).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-demografia-migraciones-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-demografia-migraciones-001-v2",
+      "statement": "**ID:** `CO-SOC-7-demografia-migraciones-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un **Censo de Población**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un recuento oficial y periódico de todos los habitantes de un país, recogiendo datos como edad, sexo y nivel educativo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una encuesta sobre deportes",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una lista de animales",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una votación",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSirve para que el gobierno sepa cuántas escuelas y hospitales se necesitan.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-demografia-migraciones-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-demografia-migraciones-001-v3",
+      "statement": "**ID:** `CO-SOC-7-demografia-migraciones-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué significa el término **Densidad de Población**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El número promedio de habitantes por kilómetro cuadrado (habitantes/$km^2$)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El peso total de la gente",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El número de casas en una ciudad",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La altura de las personas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nBogotá tiene alta densidad (mucha gente apiñada), el Amazonas tiene baja densidad (mucha selva, poca gente).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-demografia-migraciones-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-demografia-migraciones-001-v4",
+      "statement": "**ID:** `CO-SOC-7-demografia-migraciones-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la diferencia entre **Natalidad** y **Mortalidad**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Natalidad es el número de nacimientos; Mortalidad es el número de defunciones (muertes)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Son lo mismo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Natalidad es morir y Mortalidad es nacer",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Natalidad es viajar",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSi nacen más de los que mueren, la población crece.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-demografia-migraciones-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-demografia-migraciones-001-v5",
+      "statement": "**ID:** `CO-SOC-7-demografia-migraciones-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Esperanza de Vida** al nacer?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El número promedio de años que se espera que viva una persona en un lugar determinado",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El número de hijos que va a tener",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La edad para jubilarse",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La edad de matrimonio",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEn Colombia ha aumentado mucho gracias a las vacunas y el agua potable.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-demografia-migraciones-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-demografia-migraciones-001-v6",
+      "statement": "**ID:** `CO-SOC-7-demografia-migraciones-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué diferencia hay entre **Inmigrante** y **Emigrante**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inmigrante es el que llega a un país extranjero; Emigrante es el que se va de su propio país",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Inmigrante se va y Emigrante llega",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "No hay diferencia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Son turistas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs la misma persona vista desde dos lugares distintos. (Sale de Colombia = Emigrante. Llega a España = Inmigrante).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-demografia-migraciones-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-demografia-migraciones-001-v7",
+      "statement": "**ID:** `CO-SOC-7-demografia-migraciones-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un **Desplazado Interno** (muy común en el conflicto armado colombiano)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una persona forzada a huir de su hogar por violencia o desastres, pero que se queda dentro de las fronteras de su propio país",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un refugiado en otro país",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un turista",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un trabajador temporal",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nA diferencia del refugiado, el desplazado no cruza fronteras internacionales.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-demografia-migraciones-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-demografia-migraciones-001-v8",
+      "statement": "**ID:** `CO-SOC-7-demografia-migraciones-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Explosión Demográfica**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un crecimiento acelerado y masivo de la población mundial ocurrido en el último siglo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una bomba",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La extinción de la humanidad",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una fiesta grande",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPasamos de 1.000 millones en 1800 a 8.000 millones hoy.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-demografia-migraciones-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-demografia-migraciones-001-v9",
+      "statement": "**ID:** `CO-SOC-7-demografia-migraciones-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Xenofobia**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El rechazo, odio u hostilidad hacia los extranjeros o inmigrantes",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El miedo a las alturas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El amor por otras culturas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El miedo a los perros",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs una actitud peligrosa que va en contra de los derechos humanos y la convivencia.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-demografia-migraciones-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-demografia-migraciones-001-v10",
+      "statement": "**ID:** `CO-SOC-7-demografia-migraciones-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué es una **Pirámide de Población**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un gráfico que muestra la estructura de la población por edad y sexo (hombres a un lado, mujeres al otro, edades en el eje vertical)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un monumento egipcio",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una montaña",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un edificio triangular",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSi la base es ancha, hay muchos niños (país joven). Si la cima es ancha, hay muchos ancianos (país viejo).",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-demografia-migraciones-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-edad-media-feudalismo-001-v1",
+      "statement": "**ID:** `CO-SOC-7-edad-media-feudalismo-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué evento marca el inicio de la Edad Media en el año 476 d.C.?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La caída del Imperio Romano de Occidente",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El descubrimiento de América",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El nacimiento de Jesús",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La invención de la imprenta",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nRoma cayó ante las invasiones bárbaras, y Europa se fragmentó en mil pedazos.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-edad-media-feudalismo-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-edad-media-feudalismo-001-v2",
+      "statement": "**ID:** `CO-SOC-7-edad-media-feudalismo-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Quiénes eran los **Caballeros** medievales?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Guerreros a caballo que servían a un señor feudal y seguían un código de honor",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Campesinos pobres",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Monjes que rezaban",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Comerciantes",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSu armadura costaba una fortuna, por lo que solo los nobles podían permitírselo.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-edad-media-feudalismo-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-edad-media-feudalismo-001-v3",
+      "statement": "**ID:** `CO-SOC-7-edad-media-feudalismo-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué era el **Feudo**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una gran extensión de tierra que el rey le daba a un noble para que la gobernara y protegiera a cambio de lealtad",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un tipo de impuesto",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un castillo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una espada mágica",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa tierra era la principal fuente de riqueza y poder.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-edad-media-feudalismo-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-edad-media-feudalismo-001-v4",
+      "statement": "**ID:** `CO-SOC-7-edad-media-feudalismo-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Quiénes eran los **Siervos de la Gleba**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Campesinos que trabajaban la tierra y no eran libres de irse (estaban \"atados\" al feudo), pero tampoco eran esclavos que se pudieran vender",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Los reyes",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los sacerdotes",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Los soldados",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nDaban parte de su cosecha al señor a cambio de protección dentro de las murallas del castillo.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-edad-media-feudalismo-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-edad-media-feudalismo-001-v5",
+      "statement": "**ID:** `CO-SOC-7-edad-media-feudalismo-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué fueron las **Cruzadas**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Expediciones militares religiosas organizadas por los cristianos europeos para recuperar Tierra Santa (Jerusalén) de manos de los musulmanes",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Viajes de turismo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Competencias deportivas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Rutas comerciales",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAunque motivadas por la fe, también sirvieron para abrir rutas comerciales con Oriente.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-edad-media-feudalismo-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-edad-media-feudalismo-001-v6",
+      "statement": "**ID:** `CO-SOC-7-edad-media-feudalismo-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué religión dominó la vida, la cultura y la política en la Europa Medieval?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Cristianismo (Iglesia Católica)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Islam",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Budismo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Politeísmo romano",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa Iglesia era la única institución organizada que unía a todos los reinos. El Papa tenía más poder que muchos reyes.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-edad-media-feudalismo-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-edad-media-feudalismo-001-v7",
+      "statement": "**ID:** `CO-SOC-7-edad-media-feudalismo-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué era el **Vasallaje**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un pacto o contrato de fidelidad entre dos hombres libres: el vasallo prometía ayuda militar y consejo, y el señor prometía protección y tierras",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un matrimonio",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una guerra",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un tipo de cultivo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n\"Señor, me hago vuestro hombre\". Era la base política del feudalismo.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-edad-media-feudalismo-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-edad-media-feudalismo-001-v8",
+      "statement": "**ID:** `CO-SOC-7-edad-media-feudalismo-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué fue la **Peste Negra** (1347-1351) y qué impacto tuvo?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una pandemia devastadora que mató a cerca de un tercio de la población europea, provocando crisis económica y social",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una plaga de langostas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una guerra mundial",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una sequía",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAl morir tantos trabajadores, los que quedaron pudieron exigir mejores salarios, debilitando el feudalismo.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-edad-media-feudalismo-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-edad-media-feudalismo-001-v9",
+      "statement": "**ID:** `CO-SOC-7-edad-media-feudalismo-001-v9`\r\n\r\n### Enunciado\r\n\r\nMientras Europa vivía la \"Edad Oscura\", ¿qué ocurría en el mundo **Islámico**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vivía una Edad de Oro, con grandes avances en medicina, matemáticas (álgebra), astronomía y la preservación de los textos griegos antiguos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Estaban en guerra civil permanente",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "No existían aún",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Vivían en cavernas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nGracias a los árabes, el conocimiento de Aristóteles y Platón regresó a Europa.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-edad-media-feudalismo-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-edad-media-feudalismo-001-v10",
+      "statement": "**ID:** `CO-SOC-7-edad-media-feudalismo-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué era el **Imperio Bizantino**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La continuación del Imperio Romano en el Oriente, con capital en Constantinopla, que sobrevivió mil años más que el de Occidente",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un imperio vikingo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un reino africano",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El imperio de Carlomagno",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nConstantinopla (hoy Estambul) fue la ciudad más rica y grande de la Edad Media cristiana.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-edad-media-feudalismo-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-encuentro-dos-mundos-001-v1",
+      "statement": "**ID:** `CO-SOC-7-encuentro-dos-mundos-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿En qué fecha llegó Cristóbal Colón a América (Guanahaní), creyendo que había llegado a las Indias (Asia)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El 12 de octubre de 1492",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El 20 de julio de 1810",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El 1 de enero de 2000",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El 7 de agosto de 1819",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEste evento marca el fin de la Edad Media y el inicio de la Edad Moderna.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-encuentro-dos-mundos-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-encuentro-dos-mundos-001-v2",
+      "statement": "**ID:** `CO-SOC-7-encuentro-dos-mundos-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Qué buscaba Colón originalmente cuando zarpó de España con tres carabelas?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una nueva ruta comercial hacia las Indias (Asia) navegando hacia el oeste, para evitar a los turcos y conseguir especias (Pimienta, canela)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Demonstrar que la tierra era plana",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Buscar dinosaurios",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Ir de vacaciones",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLas especias valían su peso en oro porque conservaban la carne y le daban sabor.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-encuentro-dos-mundos-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-encuentro-dos-mundos-001-v3",
+      "statement": "**ID:** `CO-SOC-7-encuentro-dos-mundos-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué reyes financiaron la expedición de Cristóbal Colón?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los Reyes Católicos (Isabel de Castilla y Fernando de Aragón)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Los Reyes Magos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Rey de Inglaterra",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Emperador de China",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa reina Isabel incluso empeñó sus joyas (según la leyenda) para pagar las carabelas: La Niña, la Pinta y la Santa María.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-encuentro-dos-mundos-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-encuentro-dos-mundos-001-v4",
+      "statement": "**ID:** `CO-SOC-7-encuentro-dos-mundos-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué gran imperio indígena en México fue conquistado por Hernán Cortés con ayuda de pueblos enemigos de los aztecas?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Imperio Azteca (Mexica)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Imperio Inca",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los Muiscas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Los Mayas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa viruela traída por los europeos mató a más guerreros aztecas que las espadas españolas.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-encuentro-dos-mundos-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-encuentro-dos-mundos-001-v5",
+      "statement": "**ID:** `CO-SOC-7-encuentro-dos-mundos-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué conquistador español sometió al Imperio Inca en el actual Perú, capturando al Inca Atahualpa?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Francisco Pizarro",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Cristóbal Colón",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Sebastián de Belalcázar",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Simón Bolívar",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAprovechó una guerra civil entre dos hermanos incas (Atahualpa y Huáscar) para tomar el poder.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-encuentro-dos-mundos-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-encuentro-dos-mundos-001-v6",
+      "statement": "**ID:** `CO-SOC-7-encuentro-dos-mundos-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué consecuencia biológica trajo el descubrimiento de América para la población indígena?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un colapso demográfico masivo (muerte de millones) debido a enfermedades europeas como la viruela, sarampión y gripe para las cuales no tenían defensas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Los indígenas se volvieron inmortales",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Aumentó la población indígena",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No pasó nada",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSe estima que murió hasta el 90% de la población nativa en el primer siglo de conquista.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-encuentro-dos-mundos-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-encuentro-dos-mundos-001-v7",
+      "statement": "**ID:** `CO-SOC-7-encuentro-dos-mundos-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué fue el **Tratado de Tordesillas** (1494)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un acuerdo entre España y Portugal, mediado por el Papa, para dividirse las tierras descubiertas trazando una línea imaginaria en el Atlántico",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un tratado de paz con los indígenas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La independencia de Colombia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La fundación de Bogotá",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPor este tratado, Brasil quedó en la zona de Portugal (por eso hablan portugués) y el resto en la de España.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-encuentro-dos-mundos-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-encuentro-dos-mundos-001-v8",
+      "statement": "**ID:** `CO-SOC-7-encuentro-dos-mundos-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **Intercambio Colombino**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La transferencia masiva de plantas, animales, cultura, población y enfermedades entre América y el Viejo Mundo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un banco",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un mercado en Colombia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El cambio de moneda",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAmérica dio: papa, maíz, tomate, cacao. Europa trajo: caballo, vaca, trigo, café, caña de azúcar.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-encuentro-dos-mundos-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-encuentro-dos-mundos-001-v9",
+      "statement": "**ID:** `CO-SOC-7-encuentro-dos-mundos-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué mito impulsó la exploración del interior de Colombia y la fundación de ciudades como Bogotá?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Leyenda de El Dorado (un rey indígena que se cubría de oro en una laguna)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La Fuente de la Eterna Juventud",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Las Siete Ciudades de Cíbola",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La Atlántida",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nJiménez de Quesada subió por el río Magdalena buscando este tesoro y encontró la sabana de los Muiscas.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-encuentro-dos-mundos-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-encuentro-dos-mundos-001-v10",
+      "statement": "**ID:** `CO-SOC-7-encuentro-dos-mundos-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué institución jurídica española permitía a los encomenderos cobrar tributo a los indígenas a cambio de \"protegerlos\" y evangelizarlos?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Encomienda (que en la práctica se convirtió en un sistema de abuso y servidumbre)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La Mita (trabajo minero forzado)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Resguardo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La Esclavitud",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nFue tan criticada por frailes como Bartolomé de las Casas que la Corona intentó abolirla con las Leyes Nuevas de 1542.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-encuentro-dos-mundos-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-fisica-africa-001-v1",
+      "statement": "**ID:** `CO-SOC-7-geografia-fisica-africa-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el desierto cálido más grande del mundo, que ocupa casi todo el norte de África?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Desierto del Sahara",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Desierto de Atacama",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Desierto de Gobi",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Desierto de la Guajira",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs casi del tamaño de Estados Unidos.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-fisica-africa-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-fisica-africa-001-v2",
+      "statement": "**ID:** `CO-SOC-7-geografia-fisica-africa-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el río más largo de África (y durante mucho tiempo considerado el más largo del mundo), que fluye hacia el norte y desemboca en el Mediterráneo?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Río Nilo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Río Amazonas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Río Congo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Río Níger",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAtraviesa el desierto dando vida a Egipto y Sudán.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-fisica-africa-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-fisica-africa-001-v3",
+      "statement": "**ID:** `CO-SOC-7-geografia-fisica-africa-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se llama el ecosistema africano caracterizado por pastizales altos y árboles dispersos (acacias), hogar de grandes animales como leones, elefantes y jirafas?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Sabana",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La Tundra",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Manglar",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Páramo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs famosa por \"El Rey León\" y por las grandes migraciones de ñus.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-fisica-africa-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-fisica-africa-001-v4",
+      "statement": "**ID:** `CO-SOC-7-geografia-fisica-africa-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué mar separa a África de la Península Arábiga (Asia)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Mar Rojo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Mar Negro",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Mar Caribe",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Mar Caspio",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs una de las vías marítimas más importantes del mundo gracias al Canal de Suez.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-fisica-africa-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-fisica-africa-001-v5",
+      "statement": "**ID:** `CO-SOC-7-geografia-fisica-africa-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué selva tropical africana es la segunda más grande del mundo después de la Amazonía?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Selva del Congo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La Selva Negra",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La Selva de Borneo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Bosque Seco",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs el hogar de los gorilas y chimpancés.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-fisica-africa-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-fisica-africa-001-v6",
+      "statement": "**ID:** `CO-SOC-7-geografia-fisica-africa-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la montaña más alta de África, un volcán inactivo con nieves perpetuas en su cima, ubicado en Tanzania?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Monte Kilimanjaro ($5.895$ m)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Monte Everest",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Monte Kenia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Monte Atlas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSus nieves están desapareciendo rápidamente debido al cambio climático.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-fisica-africa-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-fisica-africa-001-v7",
+      "statement": "**ID:** `CO-SOC-7-geografia-fisica-africa-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **Gran Valle del Rift**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una gran fractura geológica que recorre el este de África de norte a sur, donde el continente se está separando y se han formado grandes lagos y volcanes",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un río",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un desierto",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una ciudad perdida",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAllí se encontraron los restos de nuestros antepasados más antiguos.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-fisica-africa-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-fisica-africa-001-v8",
+      "statement": "**ID:** `CO-SOC-7-geografia-fisica-africa-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **Sahel**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una zona de transición semiárida entre el desierto del Sahara (al norte) y la sabana sudanesa (al sur), que sufre graves problemas de sequía y desertificación",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un tipo de comida",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una montaña",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una isla",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs una de las regiones más pobres y vulnerables al cambio climático del mundo.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-fisica-africa-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-fisica-africa-001-v9",
+      "statement": "**ID:** `CO-SOC-7-geografia-fisica-africa-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué isla africana, ubicada en el Océano Índico, es famosa por su biodiversidad única y endemismos (especies que solo existen allí, como los lémures)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Madagascar",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Canarias",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Sicilia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Cuba",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSe separó del continente hace millones de años, permitiendo una evolución aislada.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-fisica-africa-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-fisica-africa-001-v10",
+      "statement": "**ID:** `CO-SOC-7-geografia-fisica-africa-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué cadena montañosa recorre el noroeste de África (Marruecos, Argelia, Túnez)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Cordillera del Atlas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Los Andes",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los Alpes",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Los Pirineos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSepara el desierto del Sahara de la costa mediterránea. De ahí viene el nombre \"Océano Atlántico\".",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-fisica-africa-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-fisica-asia-001-v1",
+      "statement": "**ID:** `CO-SOC-7-geografia-fisica-asia-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el continente más grande y poblado del planeta?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Asia",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "África",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "América",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Europa",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nOcupa casi un tercio de la tierra firme y alberga a más de la mitad de la población mundial.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-fisica-asia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-fisica-asia-001-v2",
+      "statement": "**ID:** `CO-SOC-7-geografia-fisica-asia-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se llama la montaña más alta del mundo, ubicada en la cordillera del Himalaya, en la frontera entre Nepal y China?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Monte Everest ($8.848$ m)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Aconcagua",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Kilimanjaro",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El K2",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos tibetanos la llaman Chomolungma (\"Diosa madre del mundo\").\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-fisica-asia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-fisica-asia-001-v3",
+      "statement": "**ID:** `CO-SOC-7-geografia-fisica-asia-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué fenómeno climático estacional (vientos que traen lluvias torrenciales en verano y sequía en invierno) es vital para la agricultura en India y el Sudeste Asiático?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los Monzones",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Los Huracanes",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los Tornados",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Las Nevadas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSin el monzón, el cultivo de arroz colapsaría y habría hambruna.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-fisica-asia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-fisica-asia-001-v4",
+      "statement": "**ID:** `CO-SOC-7-geografia-fisica-asia-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué mar interior, que en realidad es el lago más grande del mundo por superficie, se encuentra entre Europa y Asia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Mar Caspio",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Mar Muerto",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Lago Baikal",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Mar Negro",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs salado porque no tiene salida al océano, pero es un lago.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-fisica-asia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-fisica-asia-001-v5",
+      "statement": "**ID:** `CO-SOC-7-geografia-fisica-asia-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué meseta, conocida como el \"Techo del Mundo\", es la más alta y extensa del planeta?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Meseta del Tíbet",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La Meseta de Anatolia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Altiplano Andino",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La Meseta del Decán",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nTiene una altura media de más de $4.500$ metros. De allí nacen los grandes ríos de Asia.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-fisica-asia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-fisica-asia-001-v6",
+      "statement": "**ID:** `CO-SOC-7-geografia-fisica-asia-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el río más largo de Asia y el tercero del mundo, vital para la economía de China?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Río Yangtsé (Azul)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Río Amarillo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Río Ganges",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Río Mekong",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEn él se construyó la Presa de las Tres Gargantas, la hidroeléctrica más grande del mundo.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-fisica-asia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-fisica-asia-001-v7",
+      "statement": "**ID:** `CO-SOC-7-geografia-fisica-asia-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué archipiélago asiático es el más grande del mundo y tiene la mayor cantidad de islas volcánicas activas?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indonesia",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Japón",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Filipinas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Maldivas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEstá ubicado en el \"Cinturón de Fuego del Pacífico\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-fisica-asia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-fisica-asia-001-v8",
+      "statement": "**ID:** `CO-SOC-7-geografia-fisica-asia-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué desierto frío se extiende por el norte de China y el sur de Mongolia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Desierto de Gobi",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Desierto de Arabia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Sahara",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Kalahari",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs famoso por sus fósiles de dinosaurios y porque allí nieva en invierno.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-fisica-asia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-fisica-asia-001-v9",
+      "statement": "**ID:** `CO-SOC-7-geografia-fisica-asia-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **Mar de Aral** y qué desastre ecológico sufrió?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un antiguo mar interior que se secó casi por completo debido al desvío de sus ríos tributarios para el riego de algodón en la era soviética",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un mar que se congeló",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un mar que se desbordó",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un mar nuevo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nHoy es un desierto tóxico con barcos oxidados en la arena. Uno de los mayores desastres ambientales causados por el hombre.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-fisica-asia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-fisica-asia-001-v10",
+      "statement": "**ID:** `CO-SOC-7-geografia-fisica-asia-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué río es considerado sagrado por los hindúes, quienes se bañan en él para purificar sus pecados, a pesar de estar muy contaminado?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Río Ganges",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Río Indo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Río Brahmaputra",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Río Jordán",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nNace en el Himalaya y desemboca en el Golfo de Bengala.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-fisica-asia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-fisica-europa-001-v1",
+      "statement": "**ID:** `CO-SOC-7-geografia-fisica-europa-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué característica geográfica define a Europa respecto a Asia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una gran península de Eurasia, separada de Asia por los Montes Urales y el Río Ural",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Es una isla gigante",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Está en el Polo Sur",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Es un desierto",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nTiene mucha costa y mares interiores, lo que facilita el clima y el comercio.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-fisica-europa-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-fisica-europa-001-v2",
+      "statement": "**ID:** `CO-SOC-7-geografia-fisica-europa-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la cadena montañosa más famosa de Europa Central, que atraviesa países como Suiza, Francia, Italia y Austria?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los Alpes",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Los Andes",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Himalaya",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Las Rocosas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSon montañas jóvenes y altas, famosas por el esquí y sus paisajes.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-fisica-europa-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-fisica-europa-001-v3",
+      "statement": "**ID:** `CO-SOC-7-geografia-fisica-europa-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué río atraviesa 10 países europeos (desde Alemania hasta el Mar Negro), siendo una vía de transporte vital?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Río Danubio",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Río Amazonas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Río Nilo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Río Misisipi",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs el río más internacional del mundo. Pasa por capitales como Viena, Budapest y Belgrado.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-fisica-europa-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-fisica-europa-001-v4",
+      "statement": "**ID:** `CO-SOC-7-geografia-fisica-europa-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué mar separa a Europa de África?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Mar Mediterráneo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Mar Caribe",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Mar Rojo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Mar Báltico",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nHa sido el escenario de gran parte de la historia occidental.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-fisica-europa-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-fisica-europa-001-v5",
+      "statement": "**ID:** `CO-SOC-7-geografia-fisica-europa-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Por qué el clima de Europa Occidental es más suave de lo que le correspondería por su latitud (no hace tanto frío como en Canadá)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por la influencia de la Corriente del Golfo (agua cálida que viene desde el Caribe)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Porque hay muchos volcanes",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Porque el sol brilla más",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Porque usan mucha calefacción",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEsta corriente funciona como un radiador gigante para países como Reino Unido y Noruega.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-fisica-europa-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-fisica-europa-001-v6",
+      "statement": "**ID:** `CO-SOC-7-geografia-fisica-europa-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué península ocupan España y Portugal?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Península Ibérica",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La Península Itálica",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La Península de los Balcanes",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La Península Escandinava",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEstá separada del resto de Europa por los Pirineos y de África por el Estrecho de Gibraltar.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-fisica-europa-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-fisica-europa-001-v7",
+      "statement": "**ID:** `CO-SOC-7-geografia-fisica-europa-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué son los **Fiordos**, característicos de Noruega?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entradas de mar profundas y estrechas formadas por la erosión de antiguos glaciares",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Volcanes activos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Desiertos de arena",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Bosques tropicales",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSon valles inundados espectaculares, donde el mar se mete dentro de las montañas.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-fisica-europa-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-fisica-europa-001-v8",
+      "statement": "**ID:** `CO-SOC-7-geografia-fisica-europa-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué llanura se extiende desde Francia hasta Rusia, siendo la principal zona agrícola (\"granero\") de Europa?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Gran Llanura Europea",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La Pampa",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Sahara",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La Sabana",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs tan plana que ha facilitado históricamente tanto el cultivo como las invasiones militares.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-fisica-europa-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-fisica-europa-001-v9",
+      "statement": "**ID:** `CO-SOC-7-geografia-fisica-europa-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué isla europea es conocida como la \"tierra de hielo y fuego\" por tener glaciares y volcanes activos al mismo tiempo?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Islandia",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Irlanda",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Sicilia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Córcega",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAprovechan el calor de la tierra (energía geotérmica) para producir electricidad y calentarse gratis.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-fisica-europa-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-fisica-europa-001-v10",
+      "statement": "**ID:** `CO-SOC-7-geografia-fisica-europa-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué río atraviesa Londres y desemboca en el Mar del Norte?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Río Támesis",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Río Sena (París)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Río Rin",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Río Tíber (Roma)",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs vital para el comercio y el transporte en el Reino Unido.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-fisica-europa-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-humana-africa-001-v1",
+      "statement": "**ID:** `CO-SOC-7-geografia-humana-africa-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué proceso histórico del siglo XIX dividió a África con reglas y fronteras trazadas por potencias europeas sin respetar a las etnias locales?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Colonización o Reparto de África (Conferencia de Berlín)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La Independencia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Descubrimiento de América",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La Revolución Industrial",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEsto ha causado muchas guerras civiles modernas, porque pueblos enemigos quedaron encerrados en el mismo país.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-humana-africa-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-humana-africa-001-v2",
+      "statement": "**ID:** `CO-SOC-7-geografia-humana-africa-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el país más poblado y la economía más grande de África, famoso por su industria petrolera y cinematográfica (Nollywood)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nigeria",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Egipto",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Sudáfrica",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Kenia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSe prepara para ser el tercer país más poblado del mundo en 2050.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-humana-africa-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-humana-africa-001-v3",
+      "statement": "**ID:** `CO-SOC-7-geografia-humana-africa-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué sistema de segregación racial oficial existió en **Sudáfrica** hasta los años 90, separando a blancos y negros?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Apartheid",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La Esclavitud",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Feudalismo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Comunismo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nNelson Mandela pasó 27 años en la cárcel por luchar contra este sistema injusto y luego fue presidente.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-humana-africa-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-humana-africa-001-v4",
+      "statement": "**ID:** `CO-SOC-7-geografia-humana-africa-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué religión es mayoritaria en el norte de África (países como Egipto, Marruecos, Argelia)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Islam",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Cristianismo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Hinduismo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Budismo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nCulturalmente son parte del mundo árabe.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-humana-africa-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-humana-africa-001-v5",
+      "statement": "**ID:** `CO-SOC-7-geografia-humana-africa-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué caracteriza a la **población** africana actual en términos de edad?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es el continente más joven del mundo, con una alta tasa de natalidad y una gran proporción de niños y jóvenes",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Es el continente más viejo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Nadie tiene hijos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Es igual a Europa",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs un \"bono demográfico\" (mucha mano de obra futura), pero un reto para la educación y el empleo.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-humana-africa-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-humana-africa-001-v6",
+      "statement": "**ID:** `CO-SOC-7-geografia-humana-africa-001-v6`\r\n\r\n### Enunciado\r\n\r\nA pesar de ser el continente más rico en recursos naturales (oro, diamantes, cobalto), ¿por qué África sigue siendo el más pobre?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por la herencia colonial, la corrupción, los conflictos armados y la explotación de sus recursos por empresas extranjeras sin beneficio local",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Porque no tienen recursos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Porque hace mucho calor",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Porque no les gusta trabajar",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs la \"maldición de los recursos\": tener riqueza natural a veces trae guerra y pobreza.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-humana-africa-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-humana-africa-001-v7",
+      "statement": "**ID:** `CO-SOC-7-geografia-humana-africa-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **Cuerno de África** y qué problemas enfrenta?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una región en el este (Somalia, Etiopía) que sufre de sequías recurrentes, hambrunas y piratería marítima",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una montaña con forma de cuerno",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un instrumento musical",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un tipo de animal",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs una zona geopolítica clave por su cercanía al Mar Rojo.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-humana-africa-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-humana-africa-001-v8",
+      "statement": "**ID:** `CO-SOC-7-geografia-humana-africa-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Unión Africana** (UA)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una organización que agrupa a los 55 estados africanos para promover la unidad, la paz y el desarrollo del continente",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un equipo de fútbol",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un banco",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una religión",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nBusca soluciones africanas para problemas africanos, inspirada en la Unión Europea.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-humana-africa-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-humana-africa-001-v9",
+      "statement": "**ID:** `CO-SOC-7-geografia-humana-africa-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué ciudad es la capital de Egipto y una de las más grandes y caóticas de África?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Cairo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Lagos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Nairobi",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Ciudad del Cabo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEstá cerca de las pirámides de Giza y es el corazón cultural del mundo árabe.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-humana-africa-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-humana-africa-001-v10",
+      "statement": "**ID:** `CO-SOC-7-geografia-humana-africa-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **Swahili**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una lengua franca hablada en gran parte de África Oriental (Tanzania, Kenia), mezcla de lenguas bantúes y árabe",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un baile tradicional",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una comida picante",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una tribu guerrera",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n\"Hakuna Matata\" es una frase en Swahili que significa \"no hay problema\".",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-humana-africa-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-humana-asia-001-v1",
+      "statement": "**ID:** `CO-SOC-7-geografia-humana-asia-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Cuáles son los dos países más poblados del mundo, ubicados ambos en Asia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "India y China (suman cerca de 2.800 millones de habitantes)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Japón y Corea",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Rusia y Tailandia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Vietnam y Pakistán",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nRecientemente India superó a China en población.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-humana-asia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-humana-asia-001-v2",
+      "statement": "**ID:** `CO-SOC-7-geografia-humana-asia-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Qué religión mayoritaria nació en la India y cree en la reencarnación y el karma?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Hinduismo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Islam",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Cristianismo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Judaísmo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs una de las religiones más antiguas del mundo, con millones de dioses.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-humana-asia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-humana-asia-001-v3",
+      "statement": "**ID:** `CO-SOC-7-geografia-humana-asia-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué política implementó China durante décadas para intentar controlar su explosión demográfica?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Política del Hijo Único (las parejas solo podían tener un hijo), que ya fue abolida",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Prohibir los matrimonios",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Expulsar gente del país",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Pagar por no tener hijos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEsto causó problemas sociales graves, como el envejecimiento de la población y el desequilibrio entre hombres y mujeres.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-humana-asia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-humana-asia-001-v4",
+      "statement": "**ID:** `CO-SOC-7-geografia-humana-asia-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué país asiático es conocido por su tecnología avanzada, anime, manga y una cultura que mezcla tradición y modernidad?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Japón",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Mongolia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Laos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Afganistán",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs la tercera economía más grande del mundo, a pesar de tener pocos recursos naturales.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-humana-asia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-humana-asia-001-v5",
+      "statement": "**ID:** `CO-SOC-7-geografia-humana-asia-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Meca** y por qué es importante en Asia Occidental (Medio Oriente)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es la ciudad sagrada del Islam en Arabia Saudita, hacia donde todos los musulmanes rezan y deben peregrinar una vez en la vida",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una ciudad turística",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una capital petrolera",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un templo budista",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa Kaaba, una estructura cúbica negra, está en el centro de la gran mezquita.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-humana-asia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-humana-asia-001-v6",
+      "statement": "**ID:** `CO-SOC-7-geografia-humana-asia-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué caracteriza a los llamados **\"Tigres Asiáticos\"** (Corea del Sur, Taiwán, Singapur, Hong Kong)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Su rápido crecimiento económico e industrialización en la segunda mitad del siglo XX, pasando de la pobreza a ser potencias tecnológicas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Tienen muchos tigres salvajes",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Son países muy guerreros",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Son países agrícolas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLo lograron invirtiendo masivamente en educación y tecnología.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-humana-asia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-humana-asia-001-v7",
+      "statement": "**ID:** `CO-SOC-7-geografia-humana-asia-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué conflicto geopolítico mantiene dividida a la península de Corea desde la Guerra Fría?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La división entre Corea del Norte (comunista, dictadura) y Corea del Sur (capitalista, democracia), separadas por una zona desmilitarizada",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una guerra religiosa",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una disputa por el mar",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No hay conflicto",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nTécnicamente siguen en guerra, ya que solo firmaron un armisticio en 1953, no un tratado de paz.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-humana-asia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-humana-asia-001-v8",
+      "statement": "**ID:** `CO-SOC-7-geografia-humana-asia-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué recurso natural ha transformado la economía de los países del Golfo Pérsico (como Emiratos Árabes, Qatar, Arabia Saudita)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Petróleo y el Gas Natural",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Oro",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Agua",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Los Diamantes",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nHan pasado de ser tribus nómadas del desierto a construir las ciudades más futuristas del mundo (ej: Dubái).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-humana-asia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-humana-asia-001-v9",
+      "statement": "**ID:** `CO-SOC-7-geografia-humana-asia-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Franja y la Ruta** (Nueva Ruta de la Seda)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un gigantesco proyecto de infraestructura global impulsado por China para conectar Asia con Europa y África mediante puertos, trenes y carreteras",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una carrera de autos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un festival de moda",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una muralla nueva",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nBusca revivir la antigua ruta comercial y expandir la influencia china en el mundo.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-humana-asia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-humana-asia-001-v10",
+      "statement": "**ID:** `CO-SOC-7-geografia-humana-asia-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué problema enfrenta la población de **Japón**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un envejecimiento extremo y disminución de la población, lo que amenaza su economía y sistema de pensiones",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Tienen demasiados jóvenes",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Hay mucha inmigración",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La gente vive poco",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nTienen la esperanza de vida más alta del mundo, pero la gente tiene muy pocos hijos.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-humana-asia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-humana-europa-001-v1",
+      "statement": "**ID:** `CO-SOC-7-geografia-humana-europa-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué organización política y económica une a 27 países europeos, facilitando el libre comercio y la circulación de personas?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Unión Europea (UE)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Las Naciones Unidas (ONU)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La OTAN",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La FIFA",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSu bandera es azul con 12 estrellas doradas en círculo.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-humana-europa-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-humana-europa-001-v2",
+      "statement": "**ID:** `CO-SOC-7-geografia-humana-europa-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la moneda común que usan la mayoría de los países de la Unión Europea (Zona Euro)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Euro (€)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Dólar",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La Libra Esterlina",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Peso",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nFacilita mucho viajar y hacer negocios entre países vecinos.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-humana-europa-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-humana-europa-001-v3",
+      "statement": "**ID:** `CO-SOC-7-geografia-humana-europa-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué caracteriza a la **Población** europea actual?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una población envejecida (muchos ancianos, pocos niños) con baja natalidad y alta esperanza de vida",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Es una población muy joven",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Tiene muchos niños",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La gente vive poco tiempo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPor eso necesitan inmigrantes para trabajar y sostener las pensiones.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-humana-europa-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-humana-europa-001-v4",
+      "statement": "**ID:** `CO-SOC-7-geografia-humana-europa-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué religión es mayoritaria históricamente en Europa, dividida en Católicos, Protestantes y Ortodoxos?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Cristianismo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Islam",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Judaísmo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Budismo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLas catedrales góticas son el símbolo de esta herencia cultural común.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-humana-europa-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-humana-europa-001-v5",
+      "statement": "**ID:** `CO-SOC-7-geografia-humana-europa-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué país decidió salir de la Unión Europea en un proceso conocido como **Brexit**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Reino Unido",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Francia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Alemania",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "España",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nFue el primer (y único hasta ahora) país en abandonar el club.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-humana-europa-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-humana-europa-001-v6",
+      "statement": "**ID:** `CO-SOC-7-geografia-humana-europa-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la ciudad más poblada de Europa (teniendo en cuenta todo el continente geográfico)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Moscú (Rusia)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "París",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Londres",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Berlín",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAunque Estambul (Turquía) tiene más habitantes, parte de ella está en Asia. Moscú es enteramente europea.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-humana-europa-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-humana-europa-001-v7",
+      "statement": "**ID:** `CO-SOC-7-geografia-humana-europa-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué son las **Lenguas Romances** y dónde se hablan principalmente?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lenguas derivadas del latín (español, francés, italiano, portugués, rumano), habladas principalmente en el sur de Europa",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Lenguas germánicas del norte",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Lenguas eslavas del este",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Lenguas celtas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSon hermanas lingüísticas. Por eso es fácil entender italiano si hablas español.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-humana-europa-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-humana-europa-001-v8",
+      "statement": "**ID:** `CO-SOC-7-geografia-humana-europa-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué conflicto bélico reciente (iniciado en 2022) ha provocado una gran crisis de refugiados en Europa del Este?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La invasión de Rusia a Ucrania",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La guerra de los Balcanes",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La Segunda Guerra Mundial",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La Guerra Fría",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nHa recordado a los europeos que la paz no está garantizada para siempre.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-humana-europa-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-humana-europa-001-v9",
+      "statement": "**ID:** `CO-SOC-7-geografia-humana-europa-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **Espacio Schengen**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un área que comprende a 27 países europeos que han abolido los controles fronterizos en las fronteras comunes (puedes viajar de Portugal a Polonia sin mostrar pasaporte)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una zona de guerra",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un acuerdo espacial",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un tipo de visa",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nNo es lo mismo que la Unión Europea (algunos países están en uno pero no en otro, como Suiza).\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-humana-europa-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-humana-europa-001-v10",
+      "statement": "**ID:** `CO-SOC-7-geografia-humana-europa-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el motor económico de Europa, siendo la economía más grande y fuerte del continente?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alemania",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Grecia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Portugal",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Irlanda",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs famosa por su industria automotriz y su ingeniería de alta calidad.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-humana-europa-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-oceania-polar-001-v1",
+      "statement": "**ID:** `CO-SOC-7-geografia-oceania-polar-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el país más grande de Oceanía, que ocupa casi todo el continente?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Australia",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Nueva Zelanda",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Fiyi",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Papúa Nueva Guinea",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs tan grande que es un país, una isla y un continente al mismo tiempo.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-oceania-polar-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-oceania-polar-001-v2",
+      "statement": "**ID:** `CO-SOC-7-geografia-oceania-polar-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el continente más frío, seco y ventoso del planeta, ubicado en el Polo Sur?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Antártida",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Ártico",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Groenlandia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Islandia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nNo pertenece a ningún país y está reservado para la ciencia y la paz.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-oceania-polar-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-oceania-polar-001-v3",
+      "statement": "**ID:** `CO-SOC-7-geografia-oceania-polar-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué animal marsupial es el símbolo nacional de Australia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Canguro",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El León",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Oso Polar",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Panda",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLlevan a sus crías en una bolsa (marsupio) porque nacen muy inmaduras.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-oceania-polar-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-oceania-polar-001-v4",
+      "statement": "**ID:** `CO-SOC-7-geografia-oceania-polar-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué diferencia principal hay entre el Ártico (Polo Norte) y la Antártida (Polo Sur)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Ártico es un océano congelado rodeado de tierra; la Antártida es un continente de tierra cubierto de hielo y rodeado de mar",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "En el Ártico hay pingüinos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "En la Antártida hay osos polares",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Son iguales",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPor eso en el Polo Norte puedes ir en submarino por debajo del hielo.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-oceania-polar-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-oceania-polar-001-v5",
+      "statement": "**ID:** `CO-SOC-7-geografia-oceania-polar-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Gran Barrera de Coral**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El sistema de arrecifes de coral más grande del mundo, ubicado frente a la costa de Australia, visible incluso desde el espacio",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una muralla de piedra",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un volcán submarino",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un bosque de algas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEstá amenazada por el blanqueamiento debido al calentamiento de los océanos.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-oceania-polar-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-oceania-polar-001-v6",
+      "statement": "**ID:** `CO-SOC-7-geografia-oceania-polar-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Quiénes son los **Maoríes**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El pueblo indígena polinesio de Nueva Zelanda, famoso por sus tatuajes y la danza de guerra \"Haka\"",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Los habitantes de Australia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los esquimales",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Los vikingos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSon conocidos por su espíritu guerrero y su profunda conexión con la naturaleza.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-oceania-polar-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-oceania-polar-001-v7",
+      "statement": "**ID:** `CO-SOC-7-geografia-oceania-polar-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué amenaza enfrentan las pequeñas islas de Oceanía (como Tuvalu o Kiribati) debido al Cambio Climático?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desaparecer bajo el mar debido al aumento del nivel del océano, ya que son atolones muy bajos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Congelarse",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Quedarse sin peces",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Volverse desiertos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSus habitantes podrían convertirse en los primeros refugiados climáticos de naciones enteras.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-oceania-polar-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-oceania-polar-001-v8",
+      "statement": "**ID:** `CO-SOC-7-geografia-oceania-polar-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué son los **Icebergs**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Grandes bloques de hielo dulce que se desprenden de los glaciares y flotan en el mar (solo se ve el 10% de su tamaño en la superficie)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Montañas de sal",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Barcos congelados",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Islas de plástico",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSon peligrosos para la navegación (recuerda al Titanic).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-oceania-polar-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-oceania-polar-001-v9",
+      "statement": "**ID:** `CO-SOC-7-geografia-oceania-polar-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **Tratado Antártico**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un acuerdo internacional que establece que la Antártida se utilizará exclusivamente para fines pacíficos y de investigación científica, prohibiendo la explotación minera y militar",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un acuerdo para repartirse la Antártida",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un tratado de comercio",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un acuerdo de pesca",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs un ejemplo único de cooperación mundial para proteger un bien común.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-oceania-polar-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-geografia-oceania-polar-001-v10",
+      "statement": "**ID:** `CO-SOC-7-geografia-oceania-polar-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **Outback** australiano?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El interior remoto y semiárido de Australia, escasamente poblado y con un paisaje rojizo característico (donde está el monte Uluru)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La zona de playas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La selva tropical",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La capital de Australia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs el corazón espiritual de Australia, un lugar duro pero hermoso.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-geografia-oceania-polar-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-origen-hombre-primeras-civilizaciones-001-v1",
+      "statement": "**ID:** `CO-SOC-7-origen-hombre-primeras-civilizaciones-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿En qué continente se cree que aparecieron los primeros ancestros del ser humano (África es la cuna de la humanidad)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "África",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Europa",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "América",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Antártida",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAllí se han encontrado los fósiles de homínidos más antiguos, como Lucy.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-origen-hombre-primeras-civilizaciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-origen-hombre-primeras-civilizaciones-001-v2",
+      "statement": "**ID:** `CO-SOC-7-origen-hombre-primeras-civilizaciones-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se llamaba el estilo de vida de los primeros humanos que no tenían casa fija y viajaban buscando comida?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nómadas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Sedentarios",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Agricultores",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Ciudadanos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nComían lo que encontraban (caza y recolección) y cuando se acababa, se mudaban.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-origen-hombre-primeras-civilizaciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-origen-hombre-primeras-civilizaciones-001-v3",
+      "statement": "**ID:** `CO-SOC-7-origen-hombre-primeras-civilizaciones-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué gran descubrimiento marcó el fin del Paleolítico (piedra antigua) y el inicio del Neolítico (piedra nueva)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La invención de la Agricultura y la Ganadería",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El descubrimiento del fuego",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La invención de internet",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La llegada a la Luna",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPoder cultivar su propia comida permitió a los humanos quedarse en un solo lugar y fundar las primeras aldeas (sedentarismo).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-origen-hombre-primeras-civilizaciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-origen-hombre-primeras-civilizaciones-001-v4",
+      "statement": "**ID:** `CO-SOC-7-origen-hombre-primeras-civilizaciones-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué significa la palabra **\"Hominización\"**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El largo proceso evolutivo mediante el cual los antiguos primates se transformaron gradualmente en humanos modernos (Homo sapiens)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Convertirse en hombre lobo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Aprender a hablar",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Vestirse con ropa",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nIncluye cambios como caminar erguidos (bipedismo), el aumento del cerebro y el uso de herramientas.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-origen-hombre-primeras-civilizaciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-origen-hombre-primeras-civilizaciones-001-v5",
+      "statement": "**ID:** `CO-SOC-7-origen-hombre-primeras-civilizaciones-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Cuál fue una de las primeras especies del género Homo capaz de fabricar herramientas de piedra toscas?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Homo habilis (\"Hombre hábil\")",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Australopithecus",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Homo sapiens",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Gorila",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAntes de él, usaban piedras tal como las encontraban. Él las golpeaba para sacarles filo.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-origen-hombre-primeras-civilizaciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-origen-hombre-primeras-civilizaciones-001-v6",
+      "statement": "**ID:** `CO-SOC-7-origen-hombre-primeras-civilizaciones-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué importancia tuvo el descubrimiento y control del **Fuego** para los primeros humanos?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Les permitió cocinar alimentos (mejorando la dieta y el cerebro), protegerse del frío y de los depredadores, y socializar alrededor de la fogata",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Solo servía para quemar bosques",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "No fue importante",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Les permitió fundir hierro inmediatamente",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nCocinar la carne facilitó la digestión y liberó energía para el desarrollo cerebral.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-origen-hombre-primeras-civilizaciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-origen-hombre-primeras-civilizaciones-001-v7",
+      "statement": "**ID:** `CO-SOC-7-origen-hombre-primeras-civilizaciones-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué metal marcó el final de la Edad de Piedra y el comienzo de la Edad de los Metales?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Cobre, seguido por el Bronce y luego el Hierro",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Aluminio",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Plástico",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Oro",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPrimero usaron metales blandos que encontraban puros, luego aprendieron a hacer aleaciones (Bronce = Cobre + Estaño).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-origen-hombre-primeras-civilizaciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-origen-hombre-primeras-civilizaciones-001-v8",
+      "statement": "**ID:** `CO-SOC-7-origen-hombre-primeras-civilizaciones-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Dónde surgieron las primeras grandes civilizaciones (como Mesopotamia y Egipto)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cerca de grandes ríos (civilizaciones fluviales), donde la tierra era fértil para la agricultura",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "En la cima de las montañas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "En medio del desierto sin agua",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "En el polo norte",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAgua = Vida = Agricultura = Excedentes de comida = Ciudades.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-origen-hombre-primeras-civilizaciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-origen-hombre-primeras-civilizaciones-001-v9",
+      "statement": "**ID:** `CO-SOC-7-origen-hombre-primeras-civilizaciones-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Revolución Neolítica** y por qué se llama \"revolución\"?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fue el cambio radical del modo de vida humano: de depredadores a productores, lo que permitió el crecimiento de la población, la especialización del trabajo y el surgimiento del estado",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Fue una guerra civil",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Fue cuando inventaron la rueda",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Fue una revuelta contra los dinosaurios",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nCambió para siempre la historia. Dejamos de ser parte del paisaje para empezar a modificarlo.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-origen-hombre-primeras-civilizaciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-origen-hombre-primeras-civilizaciones-001-v10",
+      "statement": "**ID:** `CO-SOC-7-origen-hombre-primeras-civilizaciones-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué característica define al **Homo sapiens** (nosotros) frente a otras especies de homínidos extintas como los Neandertales?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una capacidad superior para el pensamiento abstracto, el lenguaje complejo y la creación de arte y cultura simbólica",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Ser más fuertes físicamente",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Tener más pelo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Correr más rápido",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAunque convivimos con ellos, nuestra capacidad de \"chismear\", imaginar y planear en grupo nos dio la ventaja.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-origen-hombre-primeras-civilizaciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-periodo-colonial-america-001-v1",
+      "statement": "**ID:** `CO-SOC-7-periodo-colonial-america-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué significa que Colombia fue una **Colonia** de España durante 300 años?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que éramos gobernados por el Rey de España, nuestras leyes se hacían allá y nuestras riquezas (oro y plata) se enviaban a Europa",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Que éramos amigos de España",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Que éramos un país independiente",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Que España nos pagaba arriendo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nNo podíamos comerciar con nadie más (Monopolio Comercial).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-periodo-colonial-america-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-periodo-colonial-america-001-v2",
+      "statement": "**ID:** `CO-SOC-7-periodo-colonial-america-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Quién era la máxima autoridad en América, representante directo del Rey?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Virrey",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Alcalde",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Presidente",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Cacique",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl Virreinato de la Nueva Granada (Colombia, Venezuela, Ecuador, Panamá) tenía su capital en Santa Fe de Bogotá.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-periodo-colonial-america-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-periodo-colonial-america-001-v3",
+      "statement": "**ID:** `CO-SOC-7-periodo-colonial-america-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué mezcla racial dio origen a la mayoría de la población colombiana actual (Mestizaje)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mezcla entre Indígenas, Blancos Europeos y Negros Africanos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Solo blancos e indígenas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Solo negros y blancos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No hubo mezcla",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nMestizo (blanco+indio), Mulato (blanco+negro), Zambo (negro+indio).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-periodo-colonial-america-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-periodo-colonial-america-001-v4",
+      "statement": "**ID:** `CO-SOC-7-periodo-colonial-america-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Por qué trajeron los españoles a miles de personas esclavizadas desde **África**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para reemplazar la mano de obra indígena que había muerto por las enfermedades y el maltrato, especialmente en las minas y plantaciones",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Porque los africanos querían venir",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Para enseñarles español",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Para que fueran soldados",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nCartagena de Indias fue el principal puerto de entrada de esclavos en Sudamérica.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-periodo-colonial-america-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-periodo-colonial-america-001-v5",
+      "statement": "**ID:** `CO-SOC-7-periodo-colonial-america-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué era la **Mita** Minera?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un sistema de trabajo forzado por turnos donde los indígenas debían ir a trabajar a las minas de oro y plata durante meses, a menudo muriendo allí",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una fiesta religiosa",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un tipo de baile",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un mercado",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nFue adaptada de un sistema inca, pero los españoles lo hicieron mucho más cruel.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-periodo-colonial-america-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-periodo-colonial-america-001-v6",
+      "statement": "**ID:** `CO-SOC-7-periodo-colonial-america-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué papel jugó la **Iglesia Católica** durante la Colonia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Controlaba la educación, la moral, el registro de nacimientos y defunciones, y tenía un gran poder económico y cultural",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Solo rezaba",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "No tenía poder",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Estaba prohibida",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa Evangelización fue la justificación espiritual de la conquista.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-periodo-colonial-america-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-periodo-colonial-america-001-v7",
+      "statement": "**ID:** `CO-SOC-7-periodo-colonial-america-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Quiénes eran los **Criollos** y por qué estaban descontentos?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hijos de españoles nacidos en América; tenían dinero y tierras, pero no podían ocupar los cargos más altos del gobierno (reservados a los peninsulares)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Hijos de indígenas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Esclavos liberados",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Comerciantes extranjeros",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEste descontento fue la semilla de la Independencia. \"Mismos padres, distinta tierra, menos derechos\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-periodo-colonial-america-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-periodo-colonial-america-001-v8",
+      "statement": "**ID:** `CO-SOC-7-periodo-colonial-america-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué eran los **Palenques**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pueblos fortificados fundados por esclavos fugitivos (cimarrones) en lugares de difícil acceso para vivir en libertad y conservar su cultura africana",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Plazas de mercado",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Cárceles",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Puertos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSan Basilio de Palenque fue el primer pueblo libre de América.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-periodo-colonial-america-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-periodo-colonial-america-001-v9",
+      "statement": "**ID:** `CO-SOC-7-periodo-colonial-america-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué fue la **Expedición Botánica** (1783)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un proyecto científico liderado por José Celestino Mutis para clasificar y dibujar la flora de la Nueva Granada, que despertó el orgullo nacional y formó a futuros próceres",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una expedición militar",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un viaje a la luna",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una búsqueda de oro",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nDescubrieron que éramos ricos en naturaleza, no solo en oro.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-periodo-colonial-america-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-periodo-colonial-america-001-v10",
+      "statement": "**ID:** `CO-SOC-7-periodo-colonial-america-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué estilo artístico predominó en las iglesias y pinturas coloniales (muy recargado, dorado y religioso)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Barroco",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Minimalismo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Abstracto",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Cubismo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl objetivo era impresionar a los fieles con la grandeza de Dios (y de la Iglesia).",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-periodo-colonial-america-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-renacimiento-reforma-001-v1",
+      "statement": "**ID:** `CO-SOC-7-renacimiento-reforma-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué significa la palabra **Renacimiento**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Volver a nacer; se refiere al renacer del interés por la cultura, el arte y la ciencia de la antigua Grecia y Roma (mundo clásico) después de la Edad Media",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Que la gente moría y revivía",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El nacimiento de nuevos países",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El crecimiento de las plantas en primavera",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa gente empezó a pensar más en el ser humano y menos en el más allá.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-renacimiento-reforma-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-renacimiento-reforma-001-v2",
+      "statement": "**ID:** `CO-SOC-7-renacimiento-reforma-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Quién pintó la famosa **Mona Lisa** y diseñó inventos futuristas como el helicóptero, siendo el modelo del \"Hombre del Renacimiento\"?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Leonardo da Vinci",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Miguel Ángel",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Rafael",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Donatello",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEra pintor, escultor, ingeniero, anatomista... ¡lo hacía todo!\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-renacimiento-reforma-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-renacimiento-reforma-001-v3",
+      "statement": "**ID:** `CO-SOC-7-renacimiento-reforma-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué invento de Johannes Gutenberg (hacia 1440) permitió que los libros se produjeran rápido y barato, difundiendo el conocimiento por toda Europa?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Imprenta de tipos móviles",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La máquina de escribir",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El internet",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El telégrafo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAntes, los monjes copiaban los libros a mano, uno por uno. Un libro podía costar lo mismo que una casa.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-renacimiento-reforma-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-renacimiento-reforma-001-v4",
+      "statement": "**ID:** `CO-SOC-7-renacimiento-reforma-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué movimiento intelectual puso al ser humano en el centro del universo (**Antropocentrismo**) en lugar de a Dios (Teocentrismo)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Humanismo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Comunismo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Feudalismo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Ateaísmo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nNo dejaron de creer en Dios, pero empezaron a creer más en la capacidad humana para razonar y crear.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-renacimiento-reforma-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-renacimiento-reforma-001-v5",
+      "statement": "**ID:** `CO-SOC-7-renacimiento-reforma-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Quién inició la **Reforma Protestante** al clavar sus 95 Tesis en la puerta de una iglesia en Alemania en 1517?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Martín Lutero",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Papa",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Enrique VIII",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Juan Calvino",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nProtestaba contra la venta de \"Indulgencias\" (perdón de los pecados por dinero) y la corrupción de la Iglesia Católica.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-renacimiento-reforma-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-renacimiento-reforma-001-v6",
+      "statement": "**ID:** `CO-SOC-7-renacimiento-reforma-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué teoría científica propuso **Nicolás Copérnico**, desafiando la creencia de que la Tierra era el centro del universo?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Teoría Heliocéntrica (el Sol está en el centro y la Tierra gira a su alrededor)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Teoría Geocéntrica",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Teoría del Big Bang",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Teoría de la Gravedad",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nFue tan revolucionario que la Iglesia prohibió su libro por mucho tiempo. Galileo luego probó que tenía razón.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-renacimiento-reforma-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-renacimiento-reforma-001-v7",
+      "statement": "**ID:** `CO-SOC-7-renacimiento-reforma-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Cómo respondió la Iglesia Católica al avance del Protestantismo?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con la Contrarreforma (Concilio de Trento), reafirmando sus doctrinas, creando la Compañía de Jesús (Jesuitas) y reformando sus propias costumbres",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Aceptando todas las críticas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Rindiéndose",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Creando una nueva Biblia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nFue un periodo de renovación espiritual pero también de mucha intolerancia y guerras de religión.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-renacimiento-reforma-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-renacimiento-reforma-001-v8",
+      "statement": "**ID:** `CO-SOC-7-renacimiento-reforma-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué familia de banqueros en Florencia fue la gran mecenas (patrocinadora) de artistas como Miguel Ángel y Botticelli?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los Médici",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Los Borgia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los Tudor",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Los Habsburgo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSin el dinero de los mecenas, el Renacimiento artístico no habría sido posible.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-renacimiento-reforma-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-renacimiento-reforma-001-v9",
+      "statement": "**ID:** `CO-SOC-7-renacimiento-reforma-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué consecuencia política tuvo la Reforma Protestante en Europa?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La fragmentación de la unidad cristiana en Europa, dando lugar a guerras de religión y al fortalecimiento de las monarquías nacionales independientes del Papa",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La unión de todos los países",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La paz mundial",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La caída del Imperio Romano",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nReyes como Enrique VIII de Inglaterra aprovecharon para romper con Roma y quedarse con las tierras de la Iglesia.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-renacimiento-reforma-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-SOC-7-renacimiento-reforma-001-v10",
+      "statement": "**ID:** `CO-SOC-7-renacimiento-reforma-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **Mecenazgo**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El patrocinio financiero que ricos comerciantes, príncipes o papas daban a los artistas y científicos para que pudieran dedicarse a crear obras",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El arte de pintar",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un tipo de gobierno",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una técnica de escultura",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl arte se convirtió en una forma de demostrar poder y prestigio político.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-SOC-7-renacimiento-reforma-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    }
+  ]
+}

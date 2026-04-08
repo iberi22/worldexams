@@ -1,0 +1,3750 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "ingles",
+    "pack_id": "week-1-grade-4-subject-ingles",
+    "generated_at": "2026-04-07T06:06:06.422Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ENG-04-animals-001-v1",
+      "statement": "**ID:** `CO-ENG-04-animals-001-v1`\r\n\r\n### Contexto\r\nA common pet that barks.\r\n\r\n### Enunciado\r\nWhat animal says \"Woof woof\"?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dog",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Cat",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Cow",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Bird",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nA **dog** (perro) is known for the sound \"Woof woof\".\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-animals-001-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-animals-001-v2",
+      "statement": "**ID:** `CO-ENG-04-animals-001-v2`\r\n\r\n### Contexto\r\nA big animal that gives milk.\r\n\r\n### Enunciado\r\nWhat animal says \"Moo\"?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cow",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Pig",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Chicken",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Horse",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nA **cow** (vaca) makes the \"Moo\" sound and gives milk.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-animals-001-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-animals-001-v3",
+      "statement": "**ID:** `CO-ENG-04-animals-001-v3`\r\n\r\n### Contexto\r\nDescribing animal movements.\r\n\r\n### Enunciado\r\nWhich animal can **fly** in the sky?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bird",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Fish",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Rabbit",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Elephant",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**Birds** (pájaros/aves) have wings and can fly.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-animals-001-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-animals-001-v4",
+      "statement": "**ID:** `CO-ENG-04-animals-001-v4`\r\n\r\n### Contexto\r\nAnimal habitats.\r\n\r\n### Enunciado\r\nWhere does a **Fish** live?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "In the water",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "In a house",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "In a tree",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "In the desert",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**Fish** (peces) live in water (oceans, rivers, lakes).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-animals-001-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-animals-001-v5",
+      "statement": "**ID:** `CO-ENG-04-animals-001-v5`\r\n\r\n### Contexto\r\nCategorizing animals.\r\n\r\n### Enunciado\r\nWhich of these is a **Farm Animal** (animal de granja)?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pig",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Lion",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Shark",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Monkey",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nA **pig** (cerdo) is commonly found on farms. Lions and monkeys are wild animals.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-animals-001-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-animals-001-v6",
+      "statement": "**ID:** `CO-ENG-04-animals-001-v6`\r\n\r\n### Contexto\r\nIdentifying animals by characteristics.\r\n\r\n### Enunciado\r\nI have long ears and I like to hop (saltar). I love carrots. What am I?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A rabbit",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "A horse",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "A snake",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "A tiger",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**Rabbits** (conejos) have long ears and eat carrots.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-animals-001-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-animals-001-v7",
+      "statement": "**ID:** `CO-ENG-04-animals-001-v7`\r\n\r\n### Contexto\r\nPlurals of animals.\r\n\r\n### Enunciado\r\nWhat is the correct plural of **Mouse**?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mice",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Mouses",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Mices",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Mousies",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\"Mouse\" (ratón) has an irregular plural: **mice** (ratones).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-animals-001-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-animals-001-v8",
+      "statement": "**ID:** `CO-ENG-04-animals-001-v8`\r\n\r\n### Contexto\r\nBody parts of animals.\r\n\r\n### Enunciado\r\nWhich animal has a **long trunk** (trompa larga)?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elephant",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Giraffe",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Crocodile",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Zebra",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nThe **elephant** (elefante) uses its long trunk to breathe, drink, and grab things.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-animals-001-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-animals-001-v9",
+      "statement": "**ID:** `CO-ENG-04-animals-001-v9`\r\n\r\n### Contexto\r\nAnalyzing diet.\r\n\r\n### Enunciado\r\nAn animal that eats **only meat** is called a ________.\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carnivore",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Herbivore",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Omnivore",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Vegetarian",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nA **carnivore** (carnívoro) is an animal that feeds on meat.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-animals-001-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-animals-001-v10",
+      "statement": "**ID:** `CO-ENG-04-animals-001-v10`\r\n\r\n### Contexto\r\nLife cycles (simple).\r\n\r\n### Enunciado\r\nA **Caterpillar** changes into a ________.\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Butterfly",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Spider",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Frog",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Bee",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nA caterpillar (oruga) undergoes metamorphosis to become a **butterfly** (mariposa).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-animals-001-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-body-001-v1",
+      "statement": "**ID:** `CO-ENG-04-body-001-v1`\r\n\r\n### Contexto\r\nThe part of the body you use to see.\r\n\r\n### Enunciado\r\nWhich part of your body do you use to **look** at a beautiful flower?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eyes",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Ears",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Nose",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Hands",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nWe use our **eyes** (ojos) for seeing.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-body-001-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-body-001-v2",
+      "statement": "**ID:** `CO-ENG-04-body-001-v2`\r\n\r\n### Contexto\r\nThe part of the body you use to hear music.\r\n\r\n### Enunciado\r\nWhich part of your body do you use to **listen** to your teacher?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ears",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Mouth",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Feet",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Stomach",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nWe use our **ears** (orejas/oídos) for hearing.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-body-001-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-body-001-v3",
+      "statement": "**ID:** `CO-ENG-04-body-001-v3`\r\n\r\n### Contexto\r\nParts of the face.\r\n\r\n### Enunciado\r\nWhere is your **Nose** located?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "On your face",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "On your feet",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "On your hands",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Under your knees",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nThe **nose** (nariz) is in the center of the face.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-body-001-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-body-001-v4",
+      "statement": "**ID:** `CO-ENG-04-body-001-v4`\r\n\r\n### Contexto\r\nMovement and exercise.\r\n\r\n### Enunciado\r\nWhat part of your body do you use to **kick** a football?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Foot",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Hand",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Head",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Elbow",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nYou use your **foot** (pie) to kick a ball.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-body-001-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-body-001-v5",
+      "statement": "**ID:** `CO-ENG-04-body-001-v5`\r\n\r\n### Contexto\r\nSentence completion.\r\n\r\n### Enunciado\r\nI have two ________ and two ________ to walk and run.\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "legs / feet",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "arms / hands",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "eyes / ears",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "fingers / toes",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nWe use **legs** (piernas) and **feet** (pies) for locomotion like walking and running.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-body-001-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-body-001-v6",
+      "statement": "**ID:** `CO-ENG-04-body-001-v6`\r\n\r\n### Contexto\r\nIdentifying body functions.\r\n\"I use my ________ to taste (saborear) my delicious lunch.\"\r\n\r\n### Enunciado\r\nChoose the correct part of the body.\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mouth",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Shoulder",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Neck",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Back",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nWe use our **mouth** (boca) and tongue to eat and taste food.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-body-001-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-body-001-v7",
+      "statement": "**ID:** `CO-ENG-04-body-001-v7`\r\n\r\n### Contexto\r\nSpecific parts of the limbs.\r\n\r\n### Enunciado\r\nIn my hands, I have ten ________. In my feet, I have ten ________.\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "fingers / toes",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "toes / fingers",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "hands / feet",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "arms / legs",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nIn English, \"fingers\" (dedos de la mano) and \"toes\" (dedos del pie) are different words.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-body-001-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-body-001-v8",
+      "statement": "**ID:** `CO-ENG-04-body-001-v8`\r\n\r\n### Contexto\r\nPhysical descriptions.\r\n\"The boy has long ________ and big ________.\"\r\n\r\n### Enunciado\r\nWhich option best completes a description of hair and ears?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "hair / ears",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "teeth / nose",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "arms / legs",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "head / mouth",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\"Hair\" (cabello) can be long, and \"ears\" (orejas) can be big.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-body-001-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-body-001-v9",
+      "statement": "**ID:** `CO-ENG-04-body-001-v9`\r\n\r\n### Contexto\r\nHygiene and health.\r\n\"I use my ________ to brush my teeth.\"\r\n\r\n### Enunciado\r\nWait, what do you use to **hold** the toothbrush?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hand",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Knee",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Tongue",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Eye",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nWe use our **hand** (mano) to grasp and use tools like a toothbrush.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-body-001-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-body-001-v10",
+      "statement": "**ID:** `CO-ENG-04-body-001-v10`\r\n\r\n### Contexto\r\nLogical associations.\r\n\r\n### Enunciado\r\nWhich of these is NOT on your **Head**?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Knee",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Hair",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Forehead",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Chin",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nThe **knee** (rodilla) is part of the leg. Hair, forehead (frente), and chin (mentón) are on the head.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-body-001-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-clothes-001-v1",
+      "statement": "**ID:** `CO-ENG-04-clothes-001-v1`\r\n\r\n### Contexto\r\nWhat you wear on your torso (tronco).\r\n\r\n### Enunciado\r\nWhat do you call the piece of clothing you wear on your upper body?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "T-shirt",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Shoes",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Socks",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Cap",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nA **T-shirt** (camiseta) is worn on the upper part of the body.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-clothes-001-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-clothes-001-v2",
+      "statement": "**ID:** `CO-ENG-04-clothes-001-v2`\r\n\r\n### Contexto\r\nWhat you wear on your legs.\r\n\r\n### Enunciado\r\nI have two long legs. What should I wear?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pants",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Hat",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Scarf",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Gloves",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**Pants** (pantalones) are worn to cover the legs.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-clothes-001-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-clothes-001-v3",
+      "statement": "**ID:** `CO-ENG-04-clothes-001-v3`\r\n\r\n### Contexto\r\nClothing for your feet.\r\n\r\n### Enunciado\r\nBefore you put on your **Shoes**, you put on your ________.\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Socks",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Belt",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Jacket",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Glasses",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nWe wear **socks** (medias/calcetines) inside our shoes.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-clothes-001-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-clothes-001-v4",
+      "statement": "**ID:** `CO-ENG-04-clothes-001-v4`\r\n\r\n### Contexto\r\nAccessories.\r\n\r\n### Enunciado\r\nWhat do you wear on your **Head** to protect you from the sun?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cap",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Shoes",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Dress",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Skirt",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nA **cap** (gorra) or hat is worn on the head.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-clothes-001-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-clothes-001-v5",
+      "statement": "**ID:** `CO-ENG-04-clothes-001-v5`\r\n\r\n### Contexto\r\nMatching clothes with weather.\r\n\"It is a very **Sunny** day at the beach.\"\r\n\r\n### Enunciado\r\nWhat is the best thing to wear?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Swimsuit",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Winter coat",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Scarf",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Boots",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nA **swimsuit** (traje de baño) is appropriate for sunny days at the beach.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-clothes-001-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-clothes-001-v6",
+      "statement": "**ID:** `CO-ENG-04-clothes-001-v6`\r\n\r\n### Contexto\r\nClothes for girls.\r\n\r\n### Enunciado\r\nWhich piece of clothing is typically worn as one single piece by girls and women?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dress",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Tie",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Belt",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Shirt",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nA **dress** (vestido) is a one-piece garment.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-clothes-001-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-clothes-001-v7",
+      "statement": "**ID:** `CO-ENG-04-clothes-001-v7`\r\n\r\n### Contexto\r\nIdentifying pairs.\r\n\r\n### Enunciado\r\nWhich of these items do you usually wear in **Pairs** (two)?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Shoes and Socks",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Hat and Cap",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Belt and Tie",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Dress and Skirt",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nWe have two feet, so we use **shoes** and **socks** in pairs.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-clothes-001-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-clothes-001-v8",
+      "statement": "**ID:** `CO-ENG-04-clothes-001-v8`\r\n\r\n### Contexto\r\nCompound nouns/Descriptions.\r\n\"In the winter, I wear a **Heavy Jacket**.\"\r\n\r\n### Enunciado\r\nWhy do people wear a jacket?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To stay warm (mantenerse caliente).",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "To go swimming.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "To sleep better.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Because it is very hot.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nA **jacket** (chaqueta) is used for protection against the cold.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-clothes-001-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-clothes-001-v9",
+      "statement": "**ID:** `CO-ENG-04-clothes-001-v9`\r\n\r\n### Contexto\r\nColor and Clothing adjectives.\r\n\"The girl is wearing a **blue skirt** and a **white blouse**.\"\r\n\r\n### Enunciado\r\nWhat color is the skirt?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Blue",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "White",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Yellow",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Red",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nThe description says \"blue skirt\" (falda azul).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-clothes-001-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-clothes-001-v10",
+      "statement": "**ID:** `CO-ENG-04-clothes-001-v10`\r\n\r\n### Contexto\r\nFormal vs. Casual.\r\n\r\n### Enunciado\r\nWhich item is usually part of a **School Uniform**?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Shirt with a collar",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Pajamas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Superhero costume",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Swimming goggles",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nA **shirt** (camisa) is a standard part of school uniforms.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-clothes-001-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-colors-001-v1",
+      "statement": "**ID:** `CO-ENG-04-colors-001-v1`\r\n\r\n### Contexto\r\nLook at the fruit: **Apple**.\r\n\r\n### Enunciado\r\nWhat color is a typical ripe apple?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Red",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Blue",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Black",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Pink",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nRed (rojo) is the primary color associated with apples.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-colors-001-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-colors-001-v2",
+      "statement": "**ID:** `CO-ENG-04-colors-001-v2`\r\n\r\n### Contexto\r\nLook at the sky on a sunny day.\r\n\r\n### Enunciado\r\nWhat color is the sky?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Blue",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Green",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Yellow",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Orange",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nBlue (azul) is the color of a clear sky.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-colors-001-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-colors-001-v3",
+      "statement": "**ID:** `CO-ENG-04-colors-001-v3`\r\n\r\n### Contexto\r\nThe Colombian flag has three colors.\r\n\r\n### Enunciado\r\nWhich color is at the top of the Colombian flag?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yellow",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Red",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Blue",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Green",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nThe Colombian flag colors are Yellow (amarillo), Blue, and Red. Yellow is on top.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-colors-001-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-colors-001-v4",
+      "statement": "**ID:** `CO-ENG-04-colors-001-v4`\r\n\r\n### Contexto\r\nMixing colors.\r\n\r\n### Enunciado\r\nIf you mix **Blue** and **Yellow**, what color do you get?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Green",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Purple",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Orange",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Brown",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nBlue + Yellow = Green (verde).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-colors-001-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-colors-001-v5",
+      "statement": "**ID:** `CO-ENG-04-colors-001-v5`\r\n\r\n### Contexto\r\nSentence completion.\r\n\r\n### Enunciado\r\nThe grass is ________ and the sun is ________.\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "green / yellow",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "red / blue",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "black / white",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "purple / orange",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nGrass is green (hierba verde) and the sun is usually depicted as yellow (sol amarillo).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-colors-001-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-colors-001-v6",
+      "statement": "**ID:** `CO-ENG-04-colors-001-v6`\r\n\r\n### Contexto\r\nIdentify the object by color.\r\n\r\n### Enunciado\r\nI am a fruit. I am small, round, and my color is **Orange**. What am I?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "An orange",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "A banana",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "A grape",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "A strawberry",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nThe fruit \"Orange\" (naranja) has the same name as its color.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-colors-001-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-colors-001-v7",
+      "statement": "**ID:** `CO-ENG-04-colors-001-v7`\r\n\r\n### Contexto\r\nReading a short description.\r\n\"My dog is **White** with **Black** spots. He has a **Brown** collar.\"\r\n\r\n### Enunciado\r\nWhat colors is the dog?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "White and Black",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Brown and White",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Black and Brown",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Only White",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nThe dog is \"White with Black spots\". Brown is the color of the collar, not the dog.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-colors-001-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-colors-001-v8",
+      "statement": "**ID:** `CO-ENG-04-colors-001-v8`\r\n\r\n### Contexto\r\nLogical grouping.\r\n\r\n### Enunciado\r\nWhich group contains only **Primary Colors**?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Red, Blue, Yellow",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Green, Purple, Orange",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Black, White, Grey",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Pink, Brown, Gold",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nThe primary colors (colores primarios) are Red, Blue, and Yellow.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-colors-001-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-colors-001-v9",
+      "statement": "**ID:** `CO-ENG-04-colors-001-v9`\r\n\r\n### Contexto\r\nCompleting a sequence or pattern.\r\n\"Red, Apple; Yellow, Banana; Green, ________; Purple, Grape.\"\r\n\r\n### Enunciado\r\nChoose the best word to complete the sequence.\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pear",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Tomato",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Blueberry",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Carrot",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nThe sequence matches a color with a fruit of that color. Green matches with \"Pear\" (pera).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-colors-001-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-colors-001-v10",
+      "statement": "**ID:** `CO-ENG-04-colors-001-v10`\r\n\r\n### Contexto\r\nAnalyzing a Rainbow.\r\n\r\n### Enunciado\r\nHow many colors are traditionally found in a rainbow?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seven",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Three",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Ten",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Five",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nA rainbow (arcoíris) is traditionally said to have seven colors (Red, Orange, Yellow, Green, Blue, Indigo, Violet).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-colors-001-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-commands-001-v1",
+      "statement": "**ID:** `CO-ENG-04-commands-001-v1`\r\n\r\n### Contexto\r\nThe teacher wants the students to stop standing.\r\n\r\n### Enunciado\r\nWhat does the teacher say when it's time to work at your desk?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sit down, please",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Stand up",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Run fast",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Sleep now",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\"Sit down\" (siéntate/siéntense) is the command used to ask students to take their seats.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-commands-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-commands-001-v2",
+      "statement": "**ID:** `CO-ENG-04-commands-001-v2`\r\n\r\n### Contexto\r\nThe teacher wants the students to rise from their chairs.\r\n\r\n### Enunciado\r\nWhat is the command to get up from your seat?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stand up",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Sit down",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Close your eyes",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Be quiet",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\"Stand up\" (ponte de pie / pónganse de pie) is the opposite of sit down.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-commands-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-commands-001-v3",
+      "statement": "**ID:** `CO-ENG-04-commands-001-v3`\r\n\r\n### Contexto\r\nStarting a reading activity.\r\n\r\n### Enunciado\r\nThe teacher says: \"________ your books to page ten.\"\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Open",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Close",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Eat",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Throw",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\"Open your books\" (abran sus libros) is the instruction to start using the book.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-commands-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-commands-001-v4",
+      "statement": "**ID:** `CO-ENG-04-commands-001-v4`\r\n\r\n### Contexto\r\nFinishing a lesson.\r\n\r\n### Enunciado\r\nWhen the class is over, the teacher says: \"________ your books, please.\"\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Close",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Color",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Open",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Draw",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\"Close your books\" (cierren sus libros) is the instruction when finishing an activity or the lesson.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-commands-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-commands-001-v5",
+      "statement": "**ID:** `CO-ENG-04-commands-001-v5`\r\n\r\n### Contexto\r\nRequesting attention/silence.\r\n\"Students are talking too much.\"\r\n\r\n### Enunciado\r\nWhat does the teacher say to ask for silence?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Be quiet, please",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Speak louder",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Sing a song",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Jump high",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\"Be quiet\" (silencio / guarda silencio) is used to manage classroom noise.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-commands-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-commands-001-v6",
+      "statement": "**ID:** `CO-ENG-04-commands-001-v6`\r\n\r\n### Contexto\r\nFollowing multi-step instructions.\r\n\"First, **Listen**. Second, **Repeat**.\"\r\n\r\n### Enunciado\r\nWhat should you do after the teacher speaks if they say \"Repeat\"?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Say the same words as the teacher",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Write in the notebook",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Draw a picture",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Close the door",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\"Repeat\" (repite / repitan) means to say again what has been heard.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-commands-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-commands-001-v7",
+      "statement": "**ID:** `CO-ENG-04-commands-001-v7`\r\n\r\n### Contexto\r\nInstructions for written work.\r\n\r\n### Enunciado\r\nIf the teacher says \"________ your name at the top of the paper\", what should you do?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Write",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Cut",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Color",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Eraser",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\"Write your name\" (escribe tu nombre) is a common instruction for identification of work.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-commands-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-commands-001-v8",
+      "statement": "**ID:** `CO-ENG-04-commands-001-v8`\r\n\r\n### Contexto\r\nInteractive classroom actions.\r\n\r\n### Enunciado\r\n\"Please, ________ to the board and draw a circle.\"\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "come",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "sit",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "sleep",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "look",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\"Come to the board\" (ven al tablero) is the invitation for a student to participate at the front of the room.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-commands-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-commands-001-v9",
+      "statement": "**ID:** `CO-ENG-04-commands-001-v9`\r\n\r\n### Contexto\r\nComprehending negative commands.\r\n\r\n### Enunciado\r\n\"Do **not** run in the classroom.\" This means:\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You must walk slowly and carefully.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "You must run very fast.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "You must jump on the desks.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "You can play football inside.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\"Do not run\" (no corras) prohibits running for safety reasons, implying one should walk.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-commands-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-commands-001-v10",
+      "statement": "**ID:** `CO-ENG-04-commands-001-v10`\r\n\r\n### Contexto\r\nIdentifying correct responses to instructions.\r\nTeacher: \"Raise your hand if you have a question.\"\r\n\r\n### Enunciado\r\nWhat is the student doing?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lifting their arm to get the teacher's attention.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Closing their eyes and sleeping.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Speaking without permission.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Running to the door.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\"Raise your hand\" (levanta la mano) is the standard way to ask permission to speak in a classroom.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-commands-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-family-001-v1",
+      "statement": "**ID:** `CO-ENG-04-family-001-v1`\r\n\r\n### Contexto\r\nThe person who gave birth to you.\r\n\r\n### Enunciado\r\nWho is the female parent in a family?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mother",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Father",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Brother",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Sister",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nThe female parent is called the **mother** (madre).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-family-001-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-family-001-v2",
+      "statement": "**ID:** `CO-ENG-04-family-001-v2`\r\n\r\n### Contexto\r\nA male sibling.\r\n\r\n### Enunciado\r\nYour parents' son is your ________.\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Brother",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Sister",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Uncle",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Grandfather",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nA male sibling is called a **brother** (hermano).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-family-001-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-family-001-v3",
+      "statement": "**ID:** `CO-ENG-04-family-001-v3`\r\n\r\n### Contexto\r\nThe father of your father.\r\n\r\n### Enunciado\r\nWho is your father's father?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Grandfather",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Grandmother",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Cousin",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Uncle",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nYour parent's father is your **grandfather** (abuelo).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-family-001-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-family-001-v4",
+      "statement": "**ID:** `CO-ENG-04-family-001-v4`\r\n\r\n### Contexto\r\nIdentifying family roles.\r\n\r\n### Enunciado\r\nMy mother's sister is my ________.\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aunt",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Uncle",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Niece",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Daughter",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nThe sister of your parent is your **aunt** (tía).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-family-001-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-family-001-v5",
+      "statement": "**ID:** `CO-ENG-04-family-001-v5`\r\n\r\n### Contexto\r\nPossessive adjectives and family.\r\n\"This is Maria. She is my father's sister.\"\r\n\r\n### Enunciado\r\nComplete the sentence: Maria is my ________.\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "aunt",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "daughter",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "grandmother",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "niece",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\"Father's sister\" equals **aunt** (tía).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-family-001-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-family-001-v6",
+      "statement": "**ID:** `CO-ENG-04-family-001-v6`\r\n\r\n### Contexto\r\nSentence reconstruction.\r\n\"son / my / is / He / brother / my\"\r\n\r\n### Enunciado\r\nIdentify the correct meaning of this relationship: \"He is my parents' son.\"\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He is my brother.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "He is my sister.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "He is my father.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "He is my uncle.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nThe son of your parents is your **brother** (hermano).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-family-001-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-family-001-v7",
+      "statement": "**ID:** `CO-ENG-04-family-001-v7`\r\n\r\n### Contexto\r\nUnderstanding extended family.\r\n\"My aunt's son is playing with me.\"\r\n\r\n### Enunciado\r\nThe son of your aunt is your ________.\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cousin",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Nephew",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Step-brother",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Son-in-law",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nAn aunt's or uncle's child is called a **cousin** (primo/prima).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-family-001-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-family-001-v8",
+      "statement": "**ID:** `CO-ENG-04-family-001-v8`\r\n\r\n### Contexto\r\nFamily trees.\r\n\"My mother's mother has a birthday today.\"\r\n\r\n### Enunciado\r\nWho is having a birthday?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "My grandmother",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "My grandfather",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "My sister",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "My mother",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nThe mother of your mother is your **grandmother** (abuela).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-family-001-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-family-001-v9",
+      "statement": "**ID:** `CO-ENG-04-family-001-v9`\r\n\r\n### Contexto\r\nPlurals and family groups.\r\n\r\n### Enunciado\r\nWhat is the correct way to refer to your **Mother** and **Father** together as one word?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parents",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Relatives",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Families",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Children",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nIn English, \"Mother and Father\" are collectively called **parents** (padres). Note that \"relatives\" includes uncles, aunts, etc.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-family-001-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-family-001-v10",
+      "statement": "**ID:** `CO-ENG-04-family-001-v10`\r\n\r\n### Contexto\r\nComplex relationships.\r\n\"If I am a girl, I am my parents' ________.\"\r\n\r\n### Enunciado\r\nChoose the correct word.\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Daughter",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Son",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Sister",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Childish",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nA female child is the **daughter** (hija) of her parents.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-family-001-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-feelings-001-v1",
+      "statement": "**ID:** `CO-ENG-04-feelings-001-v1`\r\n\r\n### Contexto\r\nYou have a big smile on your face because you got a new toy!\r\n\r\n### Enunciado\r\nHow do you feel?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Happy",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Sad",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Tired",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nA smile is a sign of being **happy** (feliz/contento).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-feelings-001-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-feelings-001-v2",
+      "statement": "**ID:** `CO-ENG-04-feelings-001-v2`\r\n\r\n### Contexto\r\nYou lost your favorite pencil and you want to cry.\r\n\r\n### Enunciado\r\nHow do you feel?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sad",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Happy",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Bored",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Excited",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nWanting to cry because of a loss is a sign of being **sad** (triste).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-feelings-001-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-feelings-001-v3",
+      "statement": "**ID:** `CO-ENG-04-feelings-001-v3`\r\n\r\n### Contexto\r\nYou didn't sleep well last night.\r\n\r\n### Enunciado\r\n\"I am yawning (bostezando) a lot. I feel ________.\"\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "tired",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "thirsty",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "hungry",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "angry",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nYawning is a sign of being **tired** (cansado).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-feelings-001-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-feelings-001-v4",
+      "statement": "**ID:** `CO-ENG-04-feelings-001-v4`\r\n\r\n### Contexto\r\nYou see a big, scary spider.\r\n\r\n### Enunciado\r\nHow do you feel?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Scared",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Happy",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Sleepy",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Hungry",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nSeeing something scary makes you feel **scared** (asustado).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-feelings-001-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-feelings-001-v5",
+      "statement": "**ID:** `CO-ENG-04-feelings-001-v5`\r\n\r\n### Contexto\r\nPhysical feelings.\r\n\"I want to drink a big glass of water.\"\r\n\r\n### Enunciado\r\nI am ________.\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "thirsty",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "hungry",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "cold",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "hot",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nA desire to drink water means you are **thirsty** (sediento/con sed).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-feelings-001-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-feelings-001-v6",
+      "statement": "**ID:** `CO-ENG-04-feelings-001-v6`\r\n\r\n### Contexto\r\nUnderstanding emotions from situations.\r\n\"It is my birthday party today!\"\r\n\r\n### Enunciado\r\n\"I feel very ________!\"\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "excited",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "angry",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "bored",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "sad",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nA birthday party makes someone feel **excited** (emocionado).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-feelings-001-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-feelings-001-v7",
+      "statement": "**ID:** `CO-ENG-04-feelings-001-v7`\r\n\r\n### Contexto\r\nIdentifying opposites.\r\n\r\n### Enunciado\r\nWhat is the opposite of **Happy**?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sad",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Angry",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Excited",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Fine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**Sad** (triste) is the most direct opposite of **Happy** (feliz).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-feelings-001-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-feelings-001-v8",
+      "statement": "**ID:** `CO-ENG-04-feelings-001-v8`\r\n\r\n### Contexto\r\nPhysical temperature feelings.\r\n\"The weather is snowy (nevando) and the wind is freezing.\"\r\n\r\n### Enunciado\r\nHow does the person feel?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cold",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Hot",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Hungry",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Tired",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nSnow and freezing wind cause someone to feel **cold** (con frío).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-feelings-001-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-feelings-001-v9",
+      "statement": "**ID:** `CO-ENG-04-feelings-001-v9`\r\n\r\n### Contexto\r\nComplex social feelings.\r\n\"I have nothing to do. No TV, no games, no books.\"\r\n\r\n### Enunciado\r\nI feel ________.\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "bored",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "angry",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "scared",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "happy",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nHaving nothing interesting to do leads to feeling **bored** (aburrido).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-feelings-001-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-feelings-001-v10",
+      "statement": "**ID:** `CO-ENG-04-feelings-001-v10`\r\n\r\n### Contexto\r\nAnalyzing physical needs.\r\n\"My stomach is making noise and I am thinking about pizza.\"\r\n\r\n### Enunciado\r\nI am ________.\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "hungry",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "thirsty",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "tired",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "excited",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nStomach noises and thinking about food mean you are **hungry** (hambriento).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-feelings-001-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-food-001-v1",
+      "statement": "**ID:** `CO-ENG-04-food-001-v1`\r\n\r\n### Contexto\r\nA common yellow fruit.\r\n\r\n### Enunciado\r\nWhat fruit is long, yellow, and monkeys love it?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Banana",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Apple",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Watermelon",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Grapes",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nA **banana** (banano/plátano) is yellow and often associated with monkeys.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-food-001-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-food-001-v2",
+      "statement": "**ID:** `CO-ENG-04-food-001-v2`\r\n\r\n### Contexto\r\nA white drink from cows.\r\n\r\n### Enunciado\r\nWhat do we call the white liquid we drink or put in cereal?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Milk",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Juice",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Soda",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Coffee",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**Milk** (leche) is white and comes from cows.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-food-001-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-food-001-v3",
+      "statement": "**ID:** `CO-ENG-04-food-001-v3`\r\n\r\n### Contexto\r\nIdentifying vegetables.\r\n\r\n### Enunciado\r\nWhich of these is a **Vegetable** (verdura)?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carrot",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Strawberry",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Cookie",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Bread",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nA **carrot** (zanahoria) is a vegetable. Strawberries are fruit, and cookies are snacks.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-food-001-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-food-001-v4",
+      "statement": "**ID:** `CO-ENG-04-food-001-v4`\r\n\r\n### Contexto\r\nExpressing likes. (I like / I don't like).\r\n\"I love sweet things. My favorite dessert is ________.\"\r\n\r\n### Enunciado\r\nChoose the best option for a sweet dessert.\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ice cream",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Rice",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Soup",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Fish",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**Ice cream** (helado) is a common sweet dessert.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-food-001-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-food-001-v5",
+      "statement": "**ID:** `CO-ENG-04-food-001-v5`\r\n\r\n### Contexto\r\nCategorizing food groups (Healthy vs. Unhealthy).\r\n\r\n### Enunciado\r\nWhich group contains only **Healthy Food** (comida saludable)?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apples, Carrots, Water",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Pizza, Soda, Candy",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Burgers, Fries, Cake",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Ice cream, Chocolate, Cookies",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nApples, carrots, and water are healthy options compared to fast food or sweets.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-food-001-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-food-001-v6",
+      "statement": "**ID:** `CO-ENG-04-food-001-v6`\r\n\r\n### Contexto\r\nBreakfast vocabulary.\r\n\"In the morning, I eat egg and ________ for breakfast.\"\r\n\r\n### Enunciado\r\nChoose the most common breakfast item.\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "bread",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "pizza",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "salad",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "popcorn",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**Bread** (pan) is a staple breakfast item in many cultures.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-food-001-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-food-001-v7",
+      "statement": "**ID:** `CO-ENG-04-food-001-v7`\r\n\r\n### Contexto\r\nMeals of the day.\r\n\r\n### Enunciado\r\nWe eat **Breakfast** in the morning. When do we eat **Dinner**?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "At night",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "At noon",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "At 7:00 AM",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "In the afternoon",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nDinner (cena) is the meal typically eaten at night.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-food-001-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-food-001-v8",
+      "statement": "**ID:** `CO-ENG-04-food-001-v8`\r\n\r\n### Contexto\r\nUnderstanding ingredients.\r\n\"To make a **Sandwich**, you usually need ________.\"\r\n\r\n### Enunciado\r\nWhich ingredients are essential for a sandwich?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bread, ham, and cheese",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Water, salt, and sugar",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Milk, cereal, and fruit",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Soup, spoons, and napkins",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nA sandwich is primarily made with **bread** and fillings like ham and cheese.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-food-001-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-food-001-v9",
+      "statement": "**ID:** `CO-ENG-04-food-001-v9`\r\n\r\n### Contexto\r\nFood origins.\r\n\r\n### Enunciado\r\nWhere does **Bread** come from?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is made from flour (wheat) in a bakery.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "It grows on trees in the forest.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "It is found under the ground like carrots.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Animals like cows give us bread.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nBread is a processed food made from flour (harina), which comes from grains like wheat (trigo).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-food-001-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-food-001-v10",
+      "statement": "**ID:** `CO-ENG-04-food-001-v10`\r\n\r\n### Contexto\r\nAnalyzing physical responses.\r\n\"My mouth is watering because I see a delicious pizza.\"\r\n\r\n### Enunciado\r\nThis means I am ________.\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "hungry",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "thirsty",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "tired",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "scared",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nWanting to eat something delicious means you are **hungry** (hambriento / con hambre).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-food-001-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-greetings-001-v1",
+      "statement": "**ID:** `CO-ENG-04-greetings-001-v1`\r\n\r\n### Contexto\r\nWaking up in the morning.\r\n\r\n### Enunciado\r\nWhat do you say to your teacher when you arrive at school at 7:00 AM?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Good morning",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Good night",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Good afternoon",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Goodbye",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\"Good morning\" (buenos días) is used from sunrise until noon.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-greetings-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-greetings-001-v2",
+      "statement": "**ID:** `CO-ENG-04-greetings-001-v2`\r\n\r\n### Contexto\r\nSaying goodbye.\r\n\r\n### Enunciado\r\nWhen you go home after school, what do you say to your friends?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Goodbye",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Hello",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Hi",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Good morning",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\"Goodbye\" (adiós) or \"Bye\" is used when leaving a place or person.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-greetings-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-greetings-001-v3",
+      "statement": "**ID:** `CO-ENG-04-greetings-001-v3`\r\n\r\n### Contexto\r\nMeeting someone for the first time.\r\n\r\n### Enunciado\r\nWhat is the correct question to ask a new student about their **name**?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "What is your name?",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "How are you?",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "How old are you?",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Where do you live?",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\"What is your name?\" (¿Cómo te llamas?) is the standard way to ask for someone's identity.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-greetings-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-greetings-001-v4",
+      "statement": "**ID:** `CO-ENG-04-greetings-001-v4`\n\r\n### Contexto\r\nAsking about well-being.\r\n\r\n### Enunciado\r\nIf a friend asks \"How are you?\", what is a good answer?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "I am fine, thank you.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "My name is Alex.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "I am ten years old.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Goodbye!",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\"I am fine, thank you\" (Estoy bien, gracias) is a polite response to being asked how you are.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-greetings-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-greetings-001-v5",
+      "statement": "**ID:** `CO-ENG-04-greetings-001-v5`\r\n\r\n### Contexto\r\nPolite request (Magic words).\r\n\"Can you give me a pencil, ________?\"\r\n\r\n### Enunciado\r\nChoose the most polite word to complete the sentence.\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "please",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "now",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "fast",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "okay",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\"Please\" (por favor) is the polite word used when asking for something.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-greetings-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-greetings-001-v6",
+      "statement": "**ID:** `CO-ENG-04-greetings-001-v6`\r\n\r\n### Contexto\r\nReceiving something.\r\n\"Here is your notebook.\"\r\n\"________.\"\r\n\r\n### Enunciado\r\nWhat should you say after receiving your notebook?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Thank you",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "You're welcome",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Please",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Hello",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\"Thank you\" (gracias) is used to express gratitude.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-greetings-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-greetings-001-v7",
+      "statement": "**ID:** `CO-ENG-04-greetings-001-v7`\r\n\r\n### Contexto\r\nIntroduction sequence.\r\nA: \"Hello! I am Maria.\"\r\nB: \"Hi Maria! I am Juan. ________.\"\r\n\r\n### Enunciado\r\nWhat is a polite phrase to finish this introduction?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nice to meet you",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "What is your name?",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Sit down, please",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Open your book",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\"Nice to meet you\" (mucho gusto / encantado de conocerte) is used after being introduced to someone.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-greetings-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-greetings-001-v8",
+      "statement": "**ID:** `CO-ENG-04-greetings-001-v8`\r\n\r\n### Contexto\r\nTime of day greetings.\r\nIt is **3:00 PM** and you see your neighbor.\r\n\r\n### Enunciado\r\nWhat is the best greeting for this time?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Good afternoon",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Good morning",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Good night",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Hello morning",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\"Good afternoon\" (buenas tardes) is used from noon until early evening (around 5:00-6:00 PM).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-greetings-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-greetings-001-v9",
+      "statement": "**ID:** `CO-ENG-04-greetings-001-v9`\r\n\r\n### Contexto\r\nSocial etiquette at night.\r\nYou are leaving a party at 9:00 PM to go to sleep.\r\n\r\n### Enunciado\r\nWhat is the correct way to say goodbye at night before sleeping?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Good night",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Good evening",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Good morning",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Hello",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\"Good night\" (feliz noche / que descanses) is used specifically when leaving or going to bed at night. \"Good evening\" is for arriving.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-greetings-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-greetings-001-v10",
+      "statement": "**ID:** `CO-ENG-04-greetings-001-v10`\r\n\r\n### Contexto\r\nReplying to thanks.\r\nA: \"Thank you for the marker!\"\r\nB: \"________.\"\r\n\r\n### Enunciado\r\nChoose the correct polite response.\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "You're welcome",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Please",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Thank you too",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Hello there",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\"You're welcome\" (de nada / con gusto) is the standard response to \"Thank you\".\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-greetings-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-numbers-001-v1",
+      "statement": "**ID:** `CO-ENG-04-numbers-001-v1`\r\n\r\n### Contexto\r\nCounting fingers on one hand.\r\n\r\n### Enunciado\r\nHow many fingers do you have on one hand?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Five",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Ten",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "One",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Seven",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nOne hand has **five** (cinco) fingers.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-numbers-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-numbers-001-v2",
+      "statement": "**ID:** `CO-ENG-04-numbers-001-v2`\r\n\r\n### Contexto\r\nNumber sequence.\r\n\"1, 2, 3, ____, 5\"\r\n\r\n### Enunciado\r\nWhat is the missing number?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Four",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Six",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Zero",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Three",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nThe sequence follows the order of numbers: 1, 2, 3, **four** (cuatro), 5.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-numbers-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-numbers-001-v3",
+      "statement": "**ID:** `CO-ENG-04-numbers-001-v3`\r\n\r\n### Contexto\r\nAddition (Sumas simples).\r\n\"Ten plus two equals ________\"\r\n\r\n### Enunciado\r\nWhat is 10 + 2?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Twelve",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Eleven",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Twenty",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Two",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n10 + 2 = **twelve** (doce).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-numbers-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-numbers-001-v4",
+      "statement": "**ID:** `CO-ENG-04-numbers-001-v4`\r\n\r\n### Contexto\r\nSpelling numbers.\r\n\r\n### Enunciado\r\nWhich is the correct spelling for the number **15**?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fifteen",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Fiveteen",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Fifty",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Fiftin",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nThe correct spelling for 15 is **fifteen**. Note how it changes from \"five\".\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-numbers-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-numbers-001-v5",
+      "statement": "**ID:** `CO-ENG-04-numbers-001-v5`\r\n\r\n### Contexto\r\nAge and social conversation.\r\n\"I am **9** years old. My sister is **7**.\"\r\n\r\n### Enunciado\r\nWhat is the total age of both siblings added together?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sixteen",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Fifteen",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Two",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Sixty-three",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n9 + 7 = **sixteen** (dieciséis).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-numbers-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-numbers-001-v6",
+      "statement": "**ID:** `CO-ENG-04-numbers-001-v6`\r\n\r\n### Contexto\r\nCount the animals.\r\n\"There are **eight** cats and **three** dogs in the park.\"\r\n\r\n### Enunciado\r\nHow many animals are there in total?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eleven",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Eighteen",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Thirteen",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Five",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n8 + 3 = **eleven** (once).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-numbers-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-numbers-001-v7",
+      "statement": "**ID:** `CO-ENG-04-numbers-001-v7`\r\n\r\n### Contexto\r\nCounting objects in categories.\r\n\"Maria has **six** red pencils, **four** blue pencils, and **seven** yellow pencils.\"\r\n\r\n### Enunciado\r\nHow many pencils does Maria have in total?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seventeen",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Sixteen",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Ten",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Seven",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n6 + 4 + 7 = **seventeen** (diecisiete).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-numbers-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-numbers-001-v8",
+      "statement": "**ID:** `CO-ENG-04-numbers-001-v8`\r\n\r\n### Contexto\r\nComparing numbers.\r\n\r\n### Enunciado\r\nWhich number is **greater than** (más grande que) thirteen and **less than** (menor que) fifteen?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fourteen",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Twelve",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Sixteen",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Eleven",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nThe number between 13 (thirteen) and 15 (fifteen) is **fourteen** (catorce).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-numbers-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-numbers-001-v9",
+      "statement": "**ID:** `CO-ENG-04-numbers-001-v9`\r\n\r\n### Contexto\r\nMultiplication (multiplicación básica) / Pattern.\r\n\"Two, Four, Six, Eight, ________\"\r\n\r\n### Enunciado\r\nWhat number completes the sequence?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ten",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Nine",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Twelve",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Zero",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nThe sequence increases by 2 each time (even numbers). After 8 comes **ten** (diez).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-numbers-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-numbers-001-v10",
+      "statement": "**ID:** `CO-ENG-04-numbers-001-v10`\r\n\r\n### Contexto\r\nUnderstanding time/calendar.\r\n\r\n### Enunciado\r\nHow many months are in **one year**?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Twelve",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Ten",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Twenty",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Eleven",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nThere are **twelve** (doce) months in a year.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-numbers-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-school-001-v1",
+      "statement": "**ID:** `CO-ENG-04-school-001-v1`\r\n\r\n### Contexto\r\nThe object you use to write.\r\n\r\n### Enunciado\r\nWhat object do you use to write with lead (grafito)?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pencil",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Eraser",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Ruler",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Chair",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nA **pencil** (lápiz) is used for writing or drawing.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-school-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-school-001-v2",
+      "statement": "**ID:** `CO-ENG-04-school-001-v2`\r\n\r\n### Contexto\r\nThe object you use to fix mistakes.\r\n\r\n### Enunciado\r\nIf you make a mistake with a pencil, you use a ________.\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eraser",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Sharpener",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Notebook",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nAn **eraser** (borrador) is used to remove pencil marks.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-school-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-school-001-v3",
+      "statement": "**ID:** `CO-ENG-04-school-001-v3`\r\n\r\n### Contexto\r\nCarrying your supplies.\r\n\r\n### Enunciado\r\nWhere do you keep your books and notebooks when you go to school?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Backpack",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Pencil case",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Desk",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Lunchbox",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nA **backpack** (mochila/morral) is used to carry school supplies.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-school-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-school-001-v4",
+      "statement": "**ID:** `CO-ENG-04-school-001-v4`\r\n\r\n### Contexto\r\nUsing a ruler.\r\n\r\n### Enunciado\r\nWhat do you use to draw a straight line?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ruler",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Glue",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Scissors",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Crayon",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nA **ruler** (regla) is used to measure and draw lines.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-school-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-school-001-v5",
+      "statement": "**ID:** `CO-ENG-04-school-001-v5`\r\n\r\n### Contexto\r\nMatching actions with objects.\r\n\"I need to cut this paper for my project.\"\r\n\r\n### Enunciado\r\nWhich tool do I need?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Scissors",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Glue stick",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Marker",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Paper clip",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n**Scissors** (tijeras) are used for cutting materials like paper.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-school-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-school-001-v6",
+      "statement": "**ID:** `CO-ENG-04-school-001-v6`\r\n\r\n### Contexto\r\nIdentifying furniture in the classroom.\r\n\r\n### Enunciado\r\nYou sit on a ________ and you write on a ________.\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "chair / desk",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "desk / book",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "floor / wall",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "window / door",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nIn a classroom, students sit on **chairs** (sillas) and use **desks** (pupitres/escritorios) to work.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-school-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-school-001-v7",
+      "statement": "**ID:** `CO-ENG-04-school-001-v7`\r\n\r\n### Contexto\r\nCategorizing supplies.\r\n\r\n### Enunciado\r\nWhich object is NOT used for writing or coloring?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sharpener",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Crayon",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Pen",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Colored pencil",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nA **sharpener** (sacapuntas) is used to sharpen pencils, but you cannot write with it directly.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-school-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-school-001-v8",
+      "statement": "**ID:** `CO-ENG-04-school-001-v8`\r\n\r\n### Contexto\r\nVocabulary in context.\r\n\"Teacher: Please open your ________ to page twenty.\"\r\n\r\n### Enunciado\r\nComplete the teacher's instruction.\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Books",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Pencils",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Backpacks",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Erasers",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nInstructing students to \"open to a page\" refers to using a **book** (libro).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-school-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-school-001-v9",
+      "statement": "**ID:** `CO-ENG-04-school-001-v9`\r\n\r\n### Contexto\r\nProblem solving.\r\n\"Your pencil is broken and the tip (punta) is short.\"\r\n\r\n### Enunciado\r\nWhat do you need to do?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Use a sharpener",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Use an eraser",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Buy a new backpack",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Ask for a ruler",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nWhen a pencil tip breaks, you use a **sharpener** to make it functional again.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-school-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-ENG-04-school-001-v10",
+      "statement": "**ID:** `CO-ENG-04-school-001-v10`\r\n\r\n### Contexto\r\nClassroom locations.\r\n\r\n### Enunciado\r\nWhere does the teacher usually write for everyone to see?\r\n\r\n### Options",
+      "options": [
+        {
+          "letter": "A",
+          "text": "On the board",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "In a notebook",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "On the desk",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Under the chair",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\nThe **board** (tablero/pizarra) is the central place where teachers write for the class.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-ENG-04-school-001-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    }
+  ]
+}

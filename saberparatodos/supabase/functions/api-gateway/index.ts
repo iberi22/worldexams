@@ -10,7 +10,7 @@ const corsHeaders = {
 const QUESTIONS_BASE_URL =
   Deno.env.get("QUESTIONS_API_BASE_URL") ||
   Deno.env.get("STATIC_API_BASE_URL") ||
-  "https://saberparatodos.pages.dev/api"
+  "https://saberparatodos.space/api"
 const ANCHOR_DATE_MS = Date.parse("2025-01-01T00:00:00Z")
 const ONE_WEEK_MS = 7 * 24 * 60 * 60 * 1000
 

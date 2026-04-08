@@ -6,14 +6,14 @@ import sentry from '@sentry/astro';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://saberparatodos.pages.dev',
+  site: process.env.PUBLIC_SITE_URL || 'https://saberparatodos.space',
   integrations: [
     svelte(),
     sitemap(),
     sentry({
       dsn: process.env.PUBLIC_SENTRY_DSN,
       environment: process.env.NODE_ENV || 'development',
-      release: process.env.VERCEL_GIT_COMMIT_SHA || 'dev',
+      release: process.env.CF_PAGES_COMMIT_SHA || process.env.VERCEL_GIT_COMMIT_SHA || 'dev',
       enabled: process.env.NODE_ENV === 'production',
 
       // Configuración de sampling

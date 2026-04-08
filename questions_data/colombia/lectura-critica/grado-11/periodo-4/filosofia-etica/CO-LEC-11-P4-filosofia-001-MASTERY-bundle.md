@@ -45,5 +45,5 @@ De acuerdo con la estructuración epistemológica de Platón en esta famosa Aleg
 
 ---
 
-## 📊 Metadata de Calibración
+##  Metadata de Calibración
 (15 The ).

@@ -68,7 +68,7 @@ En un punto crítico de una función se sabe que $f''(c)<0$.
 - [ ] D) La función es lineal en $c$. <!-- feedback: Incorrecto. La linealidad no se deduce de la segunda derivada negativa. -->
 
 ### Explicación Pedagógica
-El criterio de la segunda derivada relaciona la concavidad con la clasificación del punto crítico. Concavidad hacia abajo significa “cima”.
+El criterio de la segunda derivada relaciona la concavidad con la clasificación del punto crítico. Concavidad hacia abajo significa cima.
 
 ---
 
@@ -272,7 +272,7 @@ Para hallar cuándo una magnitud marginal vale cero se deriva el modelo total y 
 **Expected_Success:** 0.4
 
 ### Contexto
-Un estudiante afirma: “Si $f'(c)=0$, entonces en $c$ siempre hay un máximo o un mínimo”.
+Un estudiante afirma: Si $f'(c)=0$, entonces en $c$ siempre hay un máximo o un mínimo.
 
 ### Enunciado
 ¿Cómo debe evaluarse esa afirmación?

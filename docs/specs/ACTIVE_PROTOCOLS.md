@@ -12,6 +12,8 @@ If another protocol document conflicts with this file, validate against the root
 | Area | Default authority | Notes |
 |---|---|---|
 | Question generation | `docs/QUESTION_GENERATION_PROTOCOL_V5.md` | Default for new Grade 11 `MASTERY` generation in `questions_data/`; v3 remains historical for legacy bundles |
+| Colombia assessment | `skills/colombia-assessment-protocol-v6/SKILL.md` | Protocolo v6 para generación manual de bundles Colombia |
+| Question review | `skills/worldexams-question-reviewer/SKILL.md` | Sistema de validación automática - REGLA: 2+ errores = REGENERAR |
 | Country onboarding | `docs/specs/REPLICACION.md` | New countries should reuse shared logic/UI |
 | Product deploy | `saberparatodos/PROTOCOLO_DEPLOY_CLI.md` | Manual CLI deploy path |
 | Repo governance | `README.md`, `AGENTS.md`, `.gitcore/ARCHITECTURE.md` | Root layer wins |

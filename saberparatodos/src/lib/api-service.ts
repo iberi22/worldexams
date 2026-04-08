@@ -27,8 +27,6 @@ import {
 } from './notebooklm/curriculum-service';
 import { filterQuarantinedQuestions, isQuestionQuarantined } from './questions/quarantine-registry';
 
-
-
 export interface APIQuestion {
   id: string;
   number: number;
@@ -58,7 +56,7 @@ export interface APIQuestion {
 export interface AppQuestion {
   id: string;
   text: string;
-  options: { id: string; text: string }[];
+  options: { id: string; text: string; feedback?: string }[];
   correctOptionId: string;
   correctOptionIds?: string[];
   optionWeights?: Record<string, number>;
@@ -105,12 +103,14 @@ function getConfiguredApiBaseUrl(): string {
         const parsed = JSON.parse(config.textContent);
         if (parsed?.apiBaseUrl) return String(parsed.apiBaseUrl);
       } catch {
-        // Fall through to defaults.
+        // Fall through to other sources.
       }
     }
   }
 
-  return '/api';
+  // Use environment variable if available during SSR or build
+  const envUrl = typeof import.meta !== 'undefined' ? import.meta.env?.PUBLIC_API_BASE_URL : undefined;
+  return envUrl || '/api';
 }
 
 function mapDifficulty(difficulty: string | number): number {
@@ -126,6 +126,58 @@ function cleanExplanation(explanation: string | undefined): string | undefined {
   cleaned = cleaned.replace(/^\|.*\|$/gm, '').replace(/^\|[-:\s|]+\|$/gm, '');
   cleaned = cleaned.replace(/^Source ID:.*$/gm, '').replace(/^Fecha de creación:.*$/gm, '').replace(/^Contexto cultural:.*$/gm, '');
   return cleaned.replace(/\n{3,}/g, '\n\n').trim() || undefined;
+}
+
+function parseOptionContent(rawText: string | undefined): { text: string; feedback?: string } {
+  const source = String(rawText || '');
+  const feedbackMatch = source.match(/<!--\s*feedback:\s*([\s\S]*?)\s*-->/i);
+  const cleanText = source.replace(/<!--[\s\S]*?-->/g, '').trim();
+  const feedback = feedbackMatch?.[1]?.trim();
+
+  return {
+    text: cleanText,
+    feedback: feedback || undefined
+  };
+}
+
+function deriveOptionsFromStatement(
+  statement: string | undefined,
+  fallbackCorrectAnswer?: string
+): {
+  text: string;
+  options: { id: string; text: string; feedback?: string }[];
+  correctOptionId?: string;
+} {
+  const source = String(statement || '');
+  const optionRegex = /(?:^|\n)\s*([A-D])\)\s*([\s\S]*?)(?=(?:\n\s*[A-D]\))|(?:\n\s*\*\*Respuesta:)|(?:\n\s*---)|$)/g;
+  const options: { id: string; text: string; feedback?: string }[] = [];
+  let match: RegExpExecArray | null;
+
+  while ((match = optionRegex.exec(source)) !== null) {
+    const parsedOption = parseOptionContent(match[2]);
+    options.push({
+      id: match[1],
+      text: parsedOption.text.replace(/\n+/g, ' ').trim(),
+      feedback: parsedOption.feedback
+    });
+  }
+
+  const embeddedCorrectAnswer =
+    source.match(/\*\*Respuesta:\s*([A-D])\*\*/i)?.[1]?.toUpperCase() ||
+    source.match(/respuesta:\s*([A-D])/i)?.[1]?.toUpperCase();
+
+  const cleanText = source
+    .replace(optionRegex, '')
+    .replace(/\n\s*\*\*Respuesta:[\s\S]*$/i, '')
+    .replace(/\n\s*---[\s\S]*$/, '')
+    .replace(/\n{3,}/g, '\n\n')
+    .trim();
+
+  return {
+    text: cleanText || source,
+    options,
+    correctOptionId: embeddedCorrectAnswer || String(fallbackCorrectAnswer || '').trim().toUpperCase() || undefined
+  };
 }
 
 function formatSubjectName(subject: string): string {
@@ -171,12 +223,41 @@ export function normalizeSubjectKey(subject: string): string {
   return aliasMap[normalized] || normalized;
 }
 
+function getPackSubjectAliases(subject: string): string[] {
+  const normalized = normalizeSubjectKey(subject);
+  switch (normalized) {
+    case 'sociales_y_ciudadanas':
+      return ['sociales', 'sociales_ciudadanas', 'ciencias_sociales', 'sociales_y_ciudadanas'];
+    case 'lectura_critica':
+      return ['lectura_critica', 'lectura-critica', 'lenguaje'];
+    case 'lenguaje':
+      return ['lenguaje', 'lectura_critica', 'lectura-critica'];
+    case 'tecnologia_informatica':
+      return ['tecnologia_informatica', 'tecnologia_e_informatica'];
+    default:
+      return [normalized];
+  }
+}
+
 export function transformQuestion(apiQuestion: any, grade: number, subject: string): AppQuestion {
   const rawOptions = apiQuestion.options || apiQuestion.opciones || [];
-  const options = rawOptions.map((opt: any, index: number) => {
+  const parsedFromStatement = rawOptions.length === 0
+    ? deriveOptionsFromStatement(
+        apiQuestion.statement || apiQuestion.text || apiQuestion.question || apiQuestion.enunciado || '',
+        apiQuestion.correctOptionId || apiQuestion.correct_answer || apiQuestion.correctAnswer || apiQuestion.respuesta_correcta
+      )
+    : null;
+
+  const normalizedOptionsSource = rawOptions.length > 0 ? rawOptions : parsedFromStatement?.options || [];
+  const options = normalizedOptionsSource.map((opt: any, index: number) => {
     let id = opt.letter || opt.label || opt.letra || String.fromCharCode(65 + index);
     if (typeof id === 'string') id = id.replace(/\)\s*$/, '').trim();
-    return { id, text: opt.text || opt.texto || '' };
+    const parsedOption = parseOptionContent(opt.text || opt.texto || '');
+    return {
+      id,
+      text: parsedOption.text,
+      feedback: parsedOption.feedback
+    };
   });
 
   const correctOptionIds = Array.isArray(apiQuestion.correctOptionIds)
@@ -184,6 +265,9 @@ export function transformQuestion(apiQuestion: any, grade: number, subject: stri
     : [];
 
   let correctOptionId = apiQuestion.correctOptionId || apiQuestion.correct_answer || apiQuestion.correctAnswer || apiQuestion.respuesta_correcta;
+  if (!correctOptionId && parsedFromStatement?.correctOptionId) {
+    correctOptionId = parsedFromStatement.correctOptionId;
+  }
   if (!correctOptionId && correctOptionIds.length > 0) {
     correctOptionId = correctOptionIds[0];
   }
@@ -198,7 +282,7 @@ export function transformQuestion(apiQuestion: any, grade: number, subject: stri
 
   return {
     id: apiQuestion.id || '',
-    text: apiQuestion.statement || apiQuestion.text || apiQuestion.question || apiQuestion.enunciado || '',
+    text: parsedFromStatement?.text || apiQuestion.statement || apiQuestion.text || apiQuestion.question || apiQuestion.enunciado || '',
     options,
     correctOptionId,
     category: `${formatSubjectName(subject)} :: ${bundleId}`,
@@ -225,6 +309,7 @@ export async function fetchQuestionsFromPacks(grade: number, subject?: string, p
   const ANCHOR_DATE = new Date('2025-01-01T00:00:00Z').getTime();
   const ONE_WEEK_MS = 7 * 24 * 60 * 60 * 1000;
   const currentWeek = Math.max(1, Math.ceil((Date.now() - ANCHOR_DATE) / ONE_WEEK_MS) % 52 || 52);
+  const isDevRuntime = typeof import.meta !== 'undefined' && Boolean(import.meta.env?.DEV);
   const isJsdom = typeof navigator !== 'undefined' && /jsdom/i.test(navigator.userAgent || '');
   const baseOrigin =
     !isJsdom
@@ -239,6 +324,71 @@ export async function fetchQuestionsFromPacks(grade: number, subject?: string, p
   try {
     const normalizedSubject = normalizeSubjectKey(subject || '');
     const apiBaseUrl = getConfiguredApiBaseUrl().replace(/\/+$/, '');
+    const shouldPreferStaticPacks =
+      isDevRuntime ||
+      (typeof window !== 'undefined' && /^(localhost|127\.0\.0\.1)$/i.test(window.location.hostname));
+
+    const tryStaticPackCandidates = async (): Promise<Response | null> => {
+      // Prefer subject-specific packs first, then generic grade packs.
+      const subjectCandidatePaths: string[] = [];
+      if (normalizedSubject) {
+        for (const subjectAlias of getPackSubjectAliases(normalizedSubject)) {
+          if (!shouldPreferStaticPacks) {
+            subjectCandidatePaths.push(`${apiBaseUrl}/packs/week-${currentWeek}-grade-${grade}-subject-${subjectAlias}.json`);
+          }
+          subjectCandidatePaths.push(`${apiBaseUrl}/packs/week-1-grade-${grade}-subject-${subjectAlias}.json`);
+        }
+      }
+
+      const legacyCandidatePaths = shouldPreferStaticPacks
+        ? [`${apiBaseUrl}/packs/week-1-grade-${grade}.json`]
+        : [
+            `${apiBaseUrl}/packs/week-${currentWeek}-grade-${grade}.json`,
+            `${apiBaseUrl}/packs/week-1-grade-${grade}.json`
+          ];
+
+      const allCandidatePaths = [...subjectCandidatePaths, ...legacyCandidatePaths];
+      if (!canUseRelativeFetch) return null;
+
+      for (const path of allCandidatePaths) {
+        try {
+          // If the path is already an absolute URL (starts with http), use it directly
+          const url = path.startsWith('http') ? path : resolvePackUrl(path);
+          const headResponse = await fetch(url, { method: 'HEAD' });
+          if (!headResponse.ok) continue;
+
+          const getResponse = await fetch(url);
+          if (getResponse.ok) return getResponse;
+        } catch {
+          // Continue trying the next local pack candidate.
+        }
+      }
+
+      return null;
+    };
+
+    if (shouldPreferStaticPacks) {
+      const localPackResponse = await tryStaticPackCandidates();
+      if (localPackResponse) {
+        const packData = await localPackResponse.json();
+        if (Array.isArray(packData?.questions)) {
+          const packSubject =
+            packData.subject ||
+            packData.metadata?.subject ||
+            subject ||
+            'unknown';
+          const appQuestions: AppQuestion[] = packData.questions.map((q: any) => {
+            const qSubject = normalizeSubjectKey(q.subject || packSubject);
+            if (q.options?.length && !q.options[0].id) {
+              q.options = q.options.map((o: any, i: number) => ({ ...o, id: ['A', 'B', 'C', 'D', 'E'][i] || String(i) }));
+            }
+            return transformQuestion(q, grade, qSubject);
+          });
+
+          return filterSubject(excludeQuarantinedAppQuestions(appQuestions), normalizedSubject);
+        }
+      }
+    }
 
     try {
       const query = new URLSearchParams({
@@ -281,58 +431,12 @@ export async function fetchQuestionsFromPacks(grade: number, subject?: string, p
       console.warn('Falling back to local packs:', apiError);
     }
 
-    // List of candidate URLs to try for subject-specific packs
-    const subjectCandidatePaths: string[] = [];
-    if (normalizedSubject) {
-      subjectCandidatePaths.push(`/api/packs/week-${currentWeek}-grade-${grade}-subject-${normalizedSubject}.json`);
-    }
-
-    // List of candidate URLs for legacy grade packs
-    const legacyCandidatePaths = [
-      `/api/packs/week-${currentWeek}-grade-${grade}.json`,
-      `/api/packs/week-1-grade-${grade}.json`
-    ];
-
     if (!canUseRelativeFetch) {
       const fallback = getQuestionPool(grade).map((q: any) => transformQuestion(q, grade, normalizeSubjectKey(q.subject || subject || 'unknown')));
       return filterSubject(excludeQuarantinedAppQuestions(fallback), normalizedSubject);
     }
 
-    let response: Response | null = null;
-
-    // Try subject-specific candidates first
-    for (const path of subjectCandidatePaths) {
-      try {
-        const url = resolvePackUrl(path);
-        // Silent check with HEAD if possible, though not all servers support it for static files.
-        // We use a regular fetch but the goal is to stop the console from being flooded.
-        const res = await fetch(url, { method: 'HEAD' });
-        if (res.ok) {
-           const actualRes = await fetch(url);
-           if (actualRes.ok) {
-             response = actualRes;
-             break;
-           }
-        }
-      } catch (e) { /* continue */ }
-    }
-
-    // Try legacy candidates if no subject-specific pack was found
-    if (!response) {
-      for (const path of legacyCandidatePaths) {
-        try {
-          const url = resolvePackUrl(path);
-          const res = await fetch(url, { method: 'HEAD' });
-          if (res.ok) {
-            const actualRes = await fetch(url);
-            if (actualRes.ok) {
-              response = actualRes;
-              break;
-            }
-          }
-        } catch (e) { /* continue */ }
-      }
-    }
+    const response = await tryStaticPackCandidates();
 
     if (!response) {
       const fallback = getQuestionPool(grade).map((q: any) => transformQuestion(q, grade, normalizeSubjectKey(q.subject || subject || 'unknown')));
@@ -345,9 +449,14 @@ export async function fetchQuestionsFromPacks(grade: number, subject?: string, p
 
     const packData = await response.json();
     if (!packData?.questions) return [];
+    const packSubject =
+      packData.subject ||
+      packData.metadata?.subject ||
+      subject ||
+      'unknown';
 
     const appQuestions: AppQuestion[] = packData.questions.map((q: any) => {
-        const qSubject = normalizeSubjectKey(q.subject || packData.subject || subject || 'unknown');
+        const qSubject = normalizeSubjectKey(q.subject || packSubject);
         if (q.options?.length && !q.options[0].id) {
             q.options = q.options.map((o: any, i: number) => ({ ...o, id: ['A','B','C','D','E'][i] || String(i) }));
         }
@@ -453,7 +562,7 @@ export async function getSavedEnglishProficiencyLevel(): Promise<{ level: string
 export async function fetchEnglishQuestionsAllGrades(limit: number = 30, _balanced: boolean = false, cefrLevelNum?: number): Promise<AppQuestion[]> {
   const savedProficiency = await getSavedEnglishProficiencyLevel();
   const levelNum = cefrLevelNum ?? (savedProficiency?.levelNum || 1);
-  const isHighLevel = levelNum >= 6; 
+  const isHighLevel = levelNum >= 6;
   const ALL_GRADES = isHighLevel ? [9, 10, 11] : [3, 4, 5, 6, 7, 8, 9, 10, 11];
   const answeredIds = await getAnsweredQuestionIds(14, false);
 
@@ -518,7 +627,7 @@ export async function generateHistoricalEnglishProficiency(): Promise<any> {
     results.forEach(exam => {
         exam.details?.forEach((d: any) => {
             const q = qMap.get(String(d.questionId));
-            const cefr = d.cefrLevel || q?.periodo; 
+            const cefr = d.cefrLevel || q?.periodo;
             if (cefr || exam.subject?.toLowerCase().includes('ingl')) {
                 accumulated.push({
                     id: d.questionId,

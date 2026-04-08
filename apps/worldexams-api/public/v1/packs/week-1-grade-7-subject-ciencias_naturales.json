@@ -1,0 +1,5450 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "ciencias-naturales",
+    "pack_id": "week-1-grade-7-subject-ciencias_naturales",
+    "generated_at": "2026-03-16T18:04:20.951Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-7-cadenas-redes-troficas-001-v1",
+      "statement": "**ID:** `CO-CN-7-cadenas-redes-troficas-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Quiénes ocupan siempre el **Primer Nivel Trófico** (la base) de una cadena alimenticia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los Productores (plantas, algas), que fabrican su propio alimento con la luz del sol",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Los leones",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los hongos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Los humanos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSin ellos, nadie más podría comer. Son la fuente de energía de todo el ecosistema.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-cadenas-redes-troficas-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-cadenas-redes-troficas-001-v2",
+      "statement": "**ID:** `CO-CN-7-cadenas-redes-troficas-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se llaman los animales que comen plantas (Productores)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consumidores Primarios (o Herbívoros)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Carnívoros",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Carroñeros",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Descomponedores",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa vaca que come pasto es un consumidor primario.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-cadenas-redes-troficas-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-cadenas-redes-troficas-001-v3",
+      "statement": "**ID:** `CO-CN-7-cadenas-redes-troficas-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un **Consumidor Secundario**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un animal carnívoro u omnívoro que se alimenta de los herbívoros (consumidores primarios)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una planta",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una bacteria",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un animal que come piedras",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl zorro que se come al conejo.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-cadenas-redes-troficas-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-cadenas-redes-troficas-001-v4",
+      "statement": "**ID:** `CO-CN-7-cadenas-redes-troficas-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué función cumplen los **Descomponedores** (hongos y bacterias) en la red trófica?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transforman la materia orgánica muerta en sustancias simples que vuelven al suelo fertilizándolo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Cazan animales vivos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Hacen fotosíntesis",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No hacen nada",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nCierran el ciclo de la materia, limpiando el ecosistema y reciclando nutrientes.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-cadenas-redes-troficas-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-cadenas-redes-troficas-001-v5",
+      "statement": "**ID:** `CO-CN-7-cadenas-redes-troficas-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la diferencia entre una **Cadena Trófica** y una **Red Trófica**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cadena es una línea simple (Pasto $\\to$ Vaca $\\to$ Humano); la red es un conjunto complejo de muchas cadenas interconectadas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La cadena es de metal y la red de cuerda",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La cadena ocurre en el agua y la red en la tierra",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Son lo mismo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEn la naturaleza, un animal suele comer más de una cosa, por lo que las cadenas se cruzan formando una red.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-cadenas-redes-troficas-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-cadenas-redes-troficas-001-v6",
+      "statement": "**ID:** `CO-CN-7-cadenas-redes-troficas-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué ocurre con la **Energía** a medida que pasamos de un nivel trófico al siguiente (de planta a herbívoro a carnívoro)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disminuye drásticamente (solo pasa el 10%), ya que la mayoría se pierde como calor o se usa para vivir",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Aumenta al doble",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Se mantiene igual",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Se convierte en masa",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs la \"Ley del Diez por Ciento\". Por eso hay muchas plantas, menos cebras y muy pocos leones.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-cadenas-redes-troficas-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-cadenas-redes-troficas-001-v7",
+      "statement": "**ID:** `CO-CN-7-cadenas-redes-troficas-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un **Depredador Tope** o Superdepredador?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El animal que está en la cima de la cadena alimenticia y no tiene depredadores naturales (ej: Jaguar, Águila Real, Orca)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un animal que come de todo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un animal herbívoro muy grande",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una planta venenosa",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSu presencia es indicador de buena salud del ecosistema, porque controla la población de los niveles inferiores.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-cadenas-redes-troficas-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-cadenas-redes-troficas-001-v8",
+      "statement": "**ID:** `CO-CN-7-cadenas-redes-troficas-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué sucedería en un ecosistema si desaparecieran repentinamente los **Consumidores Secundarios** (carnívoros que comen herbívoros)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los herbívoros se reproducirían sin control (plaga), acabando con toda la vegetación y colapsando el ecosistema",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Las plantas crecerían más felices",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "No pasaría nada",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Los herbívoros se morirían de hambre inmediatamente",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs el efecto cascada trófica. El equilibrio es delicado.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-cadenas-redes-troficas-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-cadenas-redes-troficas-001-v9",
+      "statement": "**ID:** `CO-CN-7-cadenas-redes-troficas-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Bioacumulación** de toxinas en la cadena alimenticia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuando sustancias tóxicas (como el mercurio) se acumulan en el cuerpo de los seres vivos y su concentración aumenta al subir de nivel trófico (los depredadores tope tienen más veneno)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Cuando las plantas acumulan azúcar",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Cuando los animales engordan",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Cuando hay mucha basura en el suelo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSi un pez pequeño come plancton contaminado, y un atún come 100 peces pequeños, el atún tendrá 100 veces más mercurio.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-cadenas-redes-troficas-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-cadenas-redes-troficas-001-v10",
+      "statement": "**ID:** `CO-CN-7-cadenas-redes-troficas-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Por qué se dice que el flujo de **Materia** es cíclico y el de **Energía** es lineal?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la materia se recicla (los átomos de carbono vuelven al suelo y aire); la energía entra del sol, fluye y se disipa como calor, nunca regresa al sol",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Porque la energía da vueltas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Porque la materia se acaba y la energía es infinita",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Es al revés",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa Tierra es un sistema cerrado para la materia, pero abierto para la energía.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-cadenas-redes-troficas-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-celula-organelos-funciones-001-v1",
+      "statement": "**ID:** `CO-CN-7-celula-organelos-funciones-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Célula**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La unidad estructural y funcional básica de todos los seres vivos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un hueso del cuerpo humano",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una parte del cerebro",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un tipo de átomo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nTodos los organismos, desde las bacterias hasta las ballenas, están hechos de células.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-celula-organelos-funciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-celula-organelos-funciones-001-v2",
+      "statement": "**ID:** `CO-CN-7-celula-organelos-funciones-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la función principal del **Núcleo** celular?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Controlar las actividades de la célula y guardar el material genético (ADN)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Producir energía",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Digerir los alimentos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Mover la célula",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl núcleo es como el \"cerebro\" o el \"director\" de la célula.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-celula-organelos-funciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-celula-organelos-funciones-001-v3",
+      "statement": "**ID:** `CO-CN-7-celula-organelos-funciones-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué organelo es conocido como la \"central eléctrica\" de la célula porque produce energía?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mitocondria",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Ribosoma",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Lisosoma",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Vacuola",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLas mitocondrias realizan la respiración celular para obtener energía (ATP) a partir de los nutrientes.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-celula-organelos-funciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-celula-organelos-funciones-001-v4",
+      "statement": "**ID:** `CO-CN-7-celula-organelos-funciones-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué diferencia principal hay entre una **Célula Vegetal** y una **Animal**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La vegetal tiene cloroplastos y pared celular; la animal no",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La animal es verde y la vegetal roja",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La vegetal no tiene núcleo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La animal tiene pared de ladrillo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa pared celular le da rigidez a las plantas y los cloroplastos les permiten hacer fotosíntesis.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-celula-organelos-funciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-celula-organelos-funciones-001-v5",
+      "statement": "**ID:** `CO-CN-7-celula-organelos-funciones-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la función de los **Ribosomas**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sintetizar (fabricar) proteínas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Almacenar agua",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Proteger el ADN",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Eliminar desechos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos ribosomas leen las instrucciones del ARN para ensamblar aminoácidos y formar proteínas.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-celula-organelos-funciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-celula-organelos-funciones-001-v6",
+      "statement": "**ID:** `CO-CN-7-celula-organelos-funciones-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué estructura rodea a la célula, protegiéndola y controlando lo que entra y sale de ella?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Membrana Celular (o plasmática)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Citoplasma",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Pared Celular (en animales)",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Núcleo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa membrana es semipermeable: deja pasar cosas buenas (nutrientes) y saca las malas (desechos).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-celula-organelos-funciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-celula-organelos-funciones-001-v7",
+      "statement": "**ID:** `CO-CN-7-celula-organelos-funciones-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la función de los **Lisosomas**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La digestión celular y el reciclaje de organelos viejos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La fotosíntesis",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El transporte de proteínas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La reproducción celular",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos lisosomas contienen enzimas digestivas que rompen moléculas grandes. Son como el \"estómago\" y el \"basurero\" de la célula.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-celula-organelos-funciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-celula-organelos-funciones-001-v8",
+      "statement": "**ID:** `CO-CN-7-celula-organelos-funciones-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué hace el **Aparato de Golgi**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Modifica, empaqueta y distribuye proteínas y lípidos dentro o fuera de la célula",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Fabrica el ADN",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Produce energía solar",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Sostiene los organelos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs como la oficina de correos o el centro de logística de la célula: recibe paquetes, les pone etiquetas y los envía a su destino.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-celula-organelos-funciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-celula-organelos-funciones-001-v9",
+      "statement": "**ID:** `CO-CN-7-celula-organelos-funciones-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **Retículo Endoplasmático Rugoso (RER)** y por qué se llama así?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una red de membranas con ribosomas adheridos (por eso se ve rugoso) que participa en la síntesis y transporte de proteínas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Es una parte del núcleo que está arrugada",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Es un organelo que solo tienen las células viejas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Es el lugar donde se guarda la grasa",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos ribosomas pegados a sus paredes fabrican proteínas que luego viajan por dentro del retículo.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-celula-organelos-funciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-celula-organelos-funciones-001-v10",
+      "statement": "**ID:** `CO-CN-7-celula-organelos-funciones-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué función cumplen los **Centriolos** en las células animales?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Organizan los microtúbulos durante la división celular (mitosis) para separar los cromosomas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Dan color a la célula",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Almacenan agua en grandes cantidades",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Absorben la luz del sol",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSon fundamentales para que la célula pueda dividirse correctamente en dos células hijas.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-celula-organelos-funciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-ciclos-biogeoquimicos-001-v1",
+      "statement": "**ID:** `CO-CN-7-ciclos-biogeoquimicos-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un **Ciclo Biogeoquímico**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El movimiento constante de un nutriente (como agua, carbono, oxígeno) entre los seres vivos y el ambiente (aire, suelo, agua)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una vuelta en bicicleta",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El ciclo de vida de una mariposa",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El movimiento de la Tierra",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nBio (vida), Geo (tierra), Químico (elementos). Los átomos de tu cuerpo fueron alguna vez parte de una estrella o de un dinosaurio.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-ciclos-biogeoquimicos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-ciclos-biogeoquimicos-001-v2",
+      "statement": "**ID:** `CO-CN-7-ciclos-biogeoquimicos-001-v2`\r\n\r\n### Enunciado\r\n\r\nEn el **Ciclo del Agua**, ¿cómo se llama el proceso por el cual el agua de los mares se convierte en vapor y sube a las nubes?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evaporación",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Precipitación",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Condensación",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Filtración",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs causado por el calor del sol.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-ciclos-biogeoquimicos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-ciclos-biogeoquimicos-001-v3",
+      "statement": "**ID:** `CO-CN-7-ciclos-biogeoquimicos-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué proceso del **Ciclo del Carbono** retira dióxido de carbono ($CO_2$) de la atmósfera y lo convierte en materia orgánica (troncos, hojas)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Fotosíntesis",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La Respiración",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La Combustión",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La Descomposición",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLas plantas son las encargadas de \"secuestrar\" el carbono del aire.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-ciclos-biogeoquimicos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-ciclos-biogeoquimicos-001-v4",
+      "statement": "**ID:** `CO-CN-7-ciclos-biogeoquimicos-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué proceso del **Ciclo del Agua** ocurre cuando las nubes liberan el agua en forma de lluvia, nieve o granizo?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Precipitación",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Evaporación",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Transpiración",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Infiltración",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs la forma en que el agua dulce regresa a la tierra para llenar ríos y lagos.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-ciclos-biogeoquimicos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-ciclos-biogeoquimicos-001-v5",
+      "statement": "**ID:** `CO-CN-7-ciclos-biogeoquimicos-001-v5`\r\n\r\n### Enunciado\r\n\r\nEn el **Ciclo del Nitrógeno**, ¿quiénes son los responsables de \"fijar\" el nitrógeno del aire (que las plantas no pueden usar directamente) y convertirlo en nitratos útiles en el suelo?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bacterias fijadoras de nitrógeno (que viven en las raíces de plantas leguminosas como el frijol)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Los gusanos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los hongos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Las aves",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSin estas bacterias, no podríamos fabricar proteínas ni ADN, porque el nitrógeno es fundamental para ello.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-ciclos-biogeoquimicos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-ciclos-biogeoquimicos-001-v6",
+      "statement": "**ID:** `CO-CN-7-ciclos-biogeoquimicos-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Cómo devuelven los animales el Carbono a la atmósfera?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mediante la Respiración (exhalando $CO_2$) y la descomposición al morir",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Mediante la Fotosíntesis",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Comiendo carbono",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Bebiendo agua",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nInhalamos oxígeno, exhalamos dióxido de carbono. Es el reverso de la fotosíntesis.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-ciclos-biogeoquimicos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-ciclos-biogeoquimicos-001-v7",
+      "statement": "**ID:** `CO-CN-7-ciclos-biogeoquimicos-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Por qué se llama **Ciclo Hidrológico** y no ciclo del agua? (Es lo mismo, pero para sonar más científico). ¿Qué es la **Transpiración** vegetal?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La pérdida de agua en forma de vapor a través de las hojas de las plantas, que contribuye a la humedad del aire",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Cuando las plantas sudan gotas líquidas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La absorción de agua por la raíz",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La lluvia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos bosques tropicales generan su propia lluvia gracias a la inmensa transpiración de sus árboles.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-ciclos-biogeoquimicos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-ciclos-biogeoquimicos-001-v8",
+      "statement": "**ID:** `CO-CN-7-ciclos-biogeoquimicos-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Cómo afecta la quema de **Combustibles Fósiles** (petróleo, carbón) al ciclo del carbono?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Libera rápidamente grandes cantidades de $CO_2$ almacenado durante millones de años, causando el aumento del efecto invernadero y el cambio climático",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Ayuda a limpiar el aire",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Enfría el planeta",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No afecta en nada",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEstamos sacando carbono \"viejo\" del subsuelo y lanzándolo al aire más rápido de lo que las plantas pueden absorberlo.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-ciclos-biogeoquimicos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-ciclos-biogeoquimicos-001-v9",
+      "statement": "**ID:** `CO-CN-7-ciclos-biogeoquimicos-001-v9`\r\n\r\n### Enunciado\r\n\r\nEl **Fósforo** es un nutriente esencial. ¿Qué diferencia importante tiene su ciclo comparado con el del agua, carbono o nitrógeno?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tiene una fase gaseosa significativa (no va al aire); es un ciclo sedimentario que ocurre principalmente en rocas, suelo y agua",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Es muy rápido",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Solo ocurre en el mar",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El fósforo no se recicla",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPor eso es el nutriente que más limita el crecimiento de las plantas y se usa mucho en fertilizantes.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-ciclos-biogeoquimicos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-ciclos-biogeoquimicos-001-v10",
+      "statement": "**ID:** `CO-CN-7-ciclos-biogeoquimicos-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Eutrofización** de un cuerpo de agua?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El exceso de nutrientes (nitrógeno y fósforo, por fertilizantes o desagües) que causa un crecimiento explosivo de algas, agotando el oxígeno y matando a los peces",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Cuando el agua se vuelve muy transparente y limpia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Cuando el agua se congela",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La evaporación rápida del agua",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs cuando un lago se pone verde y huele mal. Es contaminación por exceso de \"comida\" para las algas.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-ciclos-biogeoquimicos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-ecosistemas-biomas-colombia-001-v1",
+      "statement": "**ID:** `CO-CN-7-ecosistemas-biomas-colombia-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un **Ecosistema**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un sistema formado por la interacción entre seres vivos (bióticos) y su medio físico (abiótico)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un parque zoológico",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un bosque sin animales",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un grupo de piedras",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs como una comunidad donde todos dependen los unos de los otros y del lugar donde viven.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-ecosistemas-biomas-colombia-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-ecosistemas-biomas-colombia-001-v2",
+      "statement": "**ID:** `CO-CN-7-ecosistemas-biomas-colombia-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuál de los siguientes es un **Factor Abiótico** (sin vida) de un ecosistema?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La luz solar, la temperatura y el agua",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Los árboles",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Las bacterias",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Los pájaros",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSon las condiciones físicas que permiten que la vida exista.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-ecosistemas-biomas-colombia-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-ecosistemas-biomas-colombia-001-v3",
+      "statement": "**ID:** `CO-CN-7-ecosistemas-biomas-colombia-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un **Páramo**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un ecosistema de alta montaña, frío y húmedo, fundamental para la producción y regulación de agua en Colombia (fábricas de agua)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un desierto caliente",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una selva tropical",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una playa",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nColombia tiene cerca del 50% de los páramos del mundo. Son el hogar del frailejón y el oso de anteojos.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-ecosistemas-biomas-colombia-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-ecosistemas-biomas-colombia-001-v4",
+      "statement": "**ID:** `CO-CN-7-ecosistemas-biomas-colombia-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué caracteriza a la **Selva Húmeda Tropical** (como el Amazonas)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Altas temperaturas, lluvias abundantes todo el año y una enorme biodiversidad de plantas y animales",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Pocas lluvias y mucho frío",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Solo hay pasto",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No hay árboles",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs el pulmón del mundo y el lugar con más especies por metro cuadrado.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-ecosistemas-biomas-colombia-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-ecosistemas-biomas-colombia-001-v5",
+      "statement": "**ID:** `CO-CN-7-ecosistemas-biomas-colombia-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un **Manglar**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un ecosistema costero formado por árboles adaptados al agua salada (mangle), vital para proteger las costas y como guardería de peces",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un cultivo de mangos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una montaña rocosa",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un río congelado",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSus raíces salen del agua como zancos para respirar.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-ecosistemas-biomas-colombia-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-ecosistemas-biomas-colombia-001-v6",
+      "statement": "**ID:** `CO-CN-7-ecosistemas-biomas-colombia-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la importancia de los **Humedales**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Actúan como esponjas naturales que absorben el exceso de agua (evitando inundaciones) y la liberan en sequía, además de filtrar contaminantes",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Son terrenos inútiles y sucios",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Son buenos para construir edificios",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Producen petróleo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSon ecosistemas de transición entre el agua y la tierra, llenos de vida.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-ecosistemas-biomas-colombia-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-ecosistemas-biomas-colombia-001-v7",
+      "statement": "**ID:** `CO-CN-7-ecosistemas-biomas-colombia-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un **Bioma**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una gran región geográfica que comparte clima, flora y fauna características (como el desierto, la tundra o la selva)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un pequeño jardín",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un solo árbol",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un tipo de bacteria",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs un conjunto de ecosistemas similares a gran escala.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-ecosistemas-biomas-colombia-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-ecosistemas-biomas-colombia-001-v8",
+      "statement": "**ID:** `CO-CN-7-ecosistemas-biomas-colombia-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué adaptación tienen las plantas del **Bosque Seco Tropical** para sobrevivir a la sequía?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pierden sus hojas (caducifolias) para no gastar agua durante la época seca",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Tienen hojas gigantes todo el año",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Crecen bajo el agua",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Comen insectos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs uno de los ecosistemas más amenazados de Colombia.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-ecosistemas-biomas-colombia-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-ecosistemas-biomas-colombia-001-v9",
+      "statement": "**ID:** `CO-CN-7-ecosistemas-biomas-colombia-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué relación ecológica es el **Mutualismo**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una interacción donde dos especies diferentes se ayudan y ambas se benefician (ej: abeja y flor)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una especie se come a la otra",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una especie vive a expensas de la otra haciéndole daño (parásito)",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Ambas especies compiten y pierden",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs un \"yo te ayudo, tú me ayudas\".\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-ecosistemas-biomas-colombia-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-ecosistemas-biomas-colombia-001-v10",
+      "statement": "**ID:** `CO-CN-7-ecosistemas-biomas-colombia-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Sucesión Ecológica**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El proceso natural de cambio y reemplazo de las comunidades de un ecosistema a lo largo del tiempo (ej: de un campo quemado a un bosque maduro)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La extinción de todos los animales",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El cambio de estaciones",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La migración de las aves",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa naturaleza sana sus heridas. Primero llegan hierbas, luego arbustos y finalmente árboles grandes.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-ecosistemas-biomas-colombia-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-enlaces-quimicos-basicos-001-v1",
+      "statement": "**ID:** `CO-CN-7-enlaces-quimicos-basicos-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Por qué los átomos forman **Enlaces Químicos**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para volverse más estables (parecerse a los gases nobles), completando su capa de valencia con 8 electrones (Regla del Octeto)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Porque les gusta explotar",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Para aumentar su peso",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Para cambiar de color",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos átomos solteros (excepto los nobles) son infelices e inestables. Al unirse, encuentran la paz energética.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-enlaces-quimicos-basicos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-enlaces-quimicos-basicos-001-v2",
+      "statement": "**ID:** `CO-CN-7-enlaces-quimicos-basicos-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Qué ocurre con los electrones en un **Enlace Iónico**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un átomo (metal) le entrega o regala electrones a otro (no metal)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Los átomos comparten electrones",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los electrones desaparecen",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Los átomos se rompen",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs como un regalo. El Sodio le da un electrón al Cloro y se vuelven amigos inseparables (Sal).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-enlaces-quimicos-basicos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-enlaces-quimicos-basicos-001-v3",
+      "statement": "**ID:** `CO-CN-7-enlaces-quimicos-basicos-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué ocurre con los electrones en un **Enlace Covalente**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dos átomos (no metales) comparten pares de electrones para completar su octeto",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un átomo roba electrones",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los protones se comparten",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Se forma un gas noble",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs como compartir un paraguas. El agua ($H_2O$) es el mejor ejemplo de amistad covalente.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-enlaces-quimicos-basicos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-enlaces-quimicos-basicos-001-v4",
+      "statement": "**ID:** `CO-CN-7-enlaces-quimicos-basicos-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se llama la fuerza que mantiene unidos a los iones en un enlace iónico?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Atracción Electrostática (cargas opuestas se atraen: positivo con negativo)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Gravedad",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Magnetismo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Pegamento atómico",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl positivo (catión) ama al negativo (anión).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-enlaces-quimicos-basicos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-enlaces-quimicos-basicos-001-v5",
+      "statement": "**ID:** `CO-CN-7-enlaces-quimicos-basicos-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué tipo de enlace se forma entre dos átomos de Cloro ($Cl_2$)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Covalente Apolar (comparten electrones equitativamente porque tienen la misma fuerza)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Iónico",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Metálico",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Covalente Polar",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nComo son \"gemelos\", ninguno es más fuerte que el otro, así que comparten por igual.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-enlaces-quimicos-basicos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-enlaces-quimicos-basicos-001-v6",
+      "statement": "**ID:** `CO-CN-7-enlaces-quimicos-basicos-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un **Catión**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un átomo que ha perdido electrones y queda con carga positiva (+)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un átomo que ha ganado electrones y queda negativo (-)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un átomo neutro",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un tipo de gato",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSi pierdes negatividad (electrones), te vuelves positivo.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-enlaces-quimicos-basicos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-enlaces-quimicos-basicos-001-v7",
+      "statement": "**ID:** `CO-CN-7-enlaces-quimicos-basicos-001-v7`\r\n\r\n### Enunciado\r\n\r\nDescribe el **Enlace Metálico**.\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los átomos metálicos liberan sus electrones formando una \"nube\" o \"mar de electrones\" que mantiene unidos a los núcleos positivos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Los metales se unen con pegante",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los metales roban electrones a los no metales",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Es igual al enlace iónico",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEsta \"nube\" libre es la razón por la que los metales conducen tan bien la electricidad.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-enlaces-quimicos-basicos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-enlaces-quimicos-basicos-001-v8",
+      "statement": "**ID:** `CO-CN-7-enlaces-quimicos-basicos-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué tipo de enlace tiene la molécula de **Agua** ($H_2O$), sabiendo que el oxígeno atrae los electrones más fuerte que el hidrógeno?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Covalente Polar (los electrones pasan más tiempo cerca del oxígeno)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Covalente Apolar",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Iónico",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Metálico",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl oxígeno es un poco \"egoísta\", creando polos positivos y negativos (dipolo).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-enlaces-quimicos-basicos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-enlaces-quimicos-basicos-001-v9",
+      "statement": "**ID:** `CO-CN-7-enlaces-quimicos-basicos-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Por qué los compuestos iónicos (como la sal) son sólidos cristalinos y tienen altos puntos de fusión?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la atracción electrostática entre los iones es muy fuerte y forma redes tridimensionales difíciles de romper",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Porque son metales",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Porque tienen enlaces débiles",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Porque están hechos de hielo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPara fundir sal de cocina necesitas calentarla a más de $800^\\circ C$.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-enlaces-quimicos-basicos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-enlaces-quimicos-basicos-001-v10",
+      "statement": "**ID:** `CO-CN-7-enlaces-quimicos-basicos-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué es una **Estructura de Lewis**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una representación gráfica donde el símbolo del elemento está rodeado por puntos que representan sus electrones de valencia",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un dibujo del núcleo del átomo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una ecuación matemática",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una foto del átomo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nNos ayuda a visualizar cómo se comparten o transfieren los electrones para formar enlaces.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-enlaces-quimicos-basicos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-impacto-ambiental-sostenibilidad-001-v1",
+      "statement": "**ID:** `CO-CN-7-impacto-ambiental-sostenibilidad-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Contaminación Ambiental**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La presencia en el ambiente de sustancias dañinas (tóxicas) que afectan negativamente a los seres vivos y ecosistemas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Plantar árboles",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Reciclar papel",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Limpiar la casa",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPuede ser del aire (humo), del agua (basura y químicos) o del suelo (pesticidas).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-impacto-ambiental-sostenibilidad-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-impacto-ambiental-sostenibilidad-001-v2",
+      "statement": "**ID:** `CO-CN-7-impacto-ambiental-sostenibilidad-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Qué significan las **3 R** del reciclaje?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reducir (usar menos), Reutilizar (usar de nuevo) y Reciclar (transformar en algo nuevo)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Romper, Rasgar y Rallar",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Rápido, Rico y Rojo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Respirar, Reír y Rodar",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl orden importa: lo mejor es NO generar basura (Reducir).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-impacto-ambiental-sostenibilidad-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-impacto-ambiental-sostenibilidad-001-v3",
+      "statement": "**ID:** `CO-CN-7-impacto-ambiental-sostenibilidad-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **Desarrollo Sostenible**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Satisfacer nuestras necesidades actuales sin comprometer la capacidad de las futuras generaciones (hijos y nietos) para satisfacer las suyas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Gastar todos los recursos ya",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "No usar ningún recurso nunca",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Hacer edificios muy altos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs vivir sin destruir el planeta que le vamos a dejar a los demás.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-impacto-ambiental-sostenibilidad-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-impacto-ambiental-sostenibilidad-001-v4",
+      "statement": "**ID:** `CO-CN-7-impacto-ambiental-sostenibilidad-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué causa el **Calentamiento Global**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El aumento de Gases de Efecto Invernadero (como el $CO_2$ y metano) en la atmósfera debido a actividades humanas como la quema de combustibles fósiles y la deforestación",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El sol se está acercando a la Tierra",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los volcanes",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El uso de neveras",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa atmósfera actúa como una cobija térmica. Si le ponemos más \"capas\" de gases, nos acaloramos demasiado.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-impacto-ambiental-sostenibilidad-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-impacto-ambiental-sostenibilidad-001-v5",
+      "statement": "**ID:** `CO-CN-7-impacto-ambiental-sostenibilidad-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Huella de Carbono**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una medida de la cantidad total de gases de efecto invernadero emitidos directa o indirectamente por una persona, organización o producto",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una marca de zapato sucia en el piso",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El rastro de un animal",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El carbono que tenemos en el cuerpo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nHasta mandar un correo electrónico tiene una pequeña huella de carbono.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-impacto-ambiental-sostenibilidad-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-impacto-ambiental-sostenibilidad-001-v6",
+      "statement": "**ID:** `CO-CN-7-impacto-ambiental-sostenibilidad-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Por qué es problemática la **Deforestación** masiva?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque destruye el hábitat de muchas especies, reduce la producción de oxígeno, altera el ciclo del agua y aumenta la erosión del suelo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Porque se acaba la madera para muebles",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Porque hay mucho espacio vacío",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Porque llueve más",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos bosques son los \"aires acondicionados\" y \"esponjas\" del planeta.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-impacto-ambiental-sostenibilidad-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-impacto-ambiental-sostenibilidad-001-v7",
+      "statement": "**ID:** `CO-CN-7-impacto-ambiental-sostenibilidad-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué son los **Recursos No Renovables**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recursos que existen en cantidades limitadas y que tardan millones de años en formarse, por lo que se pueden agotar (petróleo, carbón, gas natural)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Recursos como el sol y el viento",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Recursos que se pueden fabricar en fábricas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Recursos infinitos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nUna vez se acabe el último barril de petróleo, no habrá más en nuestra escala de tiempo.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-impacto-ambiental-sostenibilidad-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-impacto-ambiental-sostenibilidad-001-v8",
+      "statement": "**ID:** `CO-CN-7-impacto-ambiental-sostenibilidad-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Lluvia Ácida**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Precipitación contaminada con ácidos (sulfúrico y nítrico) formados por la reacción de gases industriales con el vapor de agua de las nubes",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Lluvia con limón",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Lluvia muy caliente",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Lluvia de granizo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPuede quemar las hojas de los árboles, acidificar lagos matando peces y corroer estatuas de mármol.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-impacto-ambiental-sostenibilidad-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-impacto-ambiental-sostenibilidad-001-v9",
+      "statement": "**ID:** `CO-CN-7-impacto-ambiental-sostenibilidad-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué son los **Servicios Ecosistémicos**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los beneficios que los ecosistemas brindan gratuitamente a la humanidad (agua limpia, polinización de cultivos, regulación del clima, recreación)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Lo que pagamos por entrar a un parque nacional",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los servicios de recolección de basura",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Los hoteles en la naturaleza",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSi tuviéramos que pagar a las abejas por polinizar cada fruta que comemos, la comida sería impagable.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-impacto-ambiental-sostenibilidad-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-impacto-ambiental-sostenibilidad-001-v10",
+      "statement": "**ID:** `CO-CN-7-impacto-ambiental-sostenibilidad-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el problema principal de los **Plásticos de un solo uso**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se usan por minutos pero tardan siglos en degradarse, fragmentándose en microplásticos que contaminan toda la cadena alimenticia",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Son muy caros",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Son difíciles de fabricar",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Se derriten con el sol",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl pitillo que usas 5 minutos vivirá más que tus tataranietos.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-impacto-ambiental-sostenibilidad-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-microorganismos-bacterias-virus-001-v1",
+      "statement": "**ID:** `CO-CN-7-microorganismos-bacterias-virus-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué significa que un organismo sea **Microscópico**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que es tan pequeño que no puede verse a simple vista y se necesita un microscopio",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Que vive en el micrófono",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Que es muy grande como una ballena",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Que tiene color verde",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa mayoría de la vida en la Tierra es invisible para nosotros sin ayuda tecnológica.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-microorganismos-bacterias-virus-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-microorganismos-bacterias-virus-001-v2",
+      "statement": "**ID:** `CO-CN-7-microorganismos-bacterias-virus-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es una diferencia clave entre una **Bacteria** y un **Virus**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La bacteria es un ser vivo (célula) que puede reproducirse por sí misma; el virus no es una célula y necesita invadir a otro ser vivo para replicarse",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Las bacterias son malas y los virus son buenos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los virus son más grandes que las bacterias",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Las bacterias vuelan y los virus nadan",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos biólogos aún debaten si los virus están vivos o no, porque no cumplen todas las funciones vitales por sí solos.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-microorganismos-bacterias-virus-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-microorganismos-bacterias-virus-001-v3",
+      "statement": "**ID:** `CO-CN-7-microorganismos-bacterias-virus-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se llaman los medicamentos diseñados específicamente para matar **bacterias**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Antibióticos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Antivirales",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Vitaminas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Analgésicos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n¡Ojo! Los antibióticos NO sirven para curar la gripa, porque la gripa es causada por un virus.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-microorganismos-bacterias-virus-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-microorganismos-bacterias-virus-001-v4",
+      "statement": "**ID:** `CO-CN-7-microorganismos-bacterias-virus-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Son todas las bacterias dañinas para el ser humano?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, muchas son beneficiosas, como las que viven en nuestro intestino (flora intestinal) o las que hacen el yogur",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Sí, todas causan enfermedades graves",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "No existen bacterias en el cuerpo humano",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Sí, por eso hay que usar jabón antibacterial todo el tiempo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nDe hecho, sin bacterias, no podríamos digerir bien los alimentos ni producir ciertas vitaminas.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-microorganismos-bacterias-virus-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-microorganismos-bacterias-virus-001-v5",
+      "statement": "**ID:** `CO-CN-7-microorganismos-bacterias-virus-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿A qué reino de la naturaleza pertenecen las bacterias?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reino Mórera (o Bacteria y Archaea)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Reino Protista",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Reino Fungi (Hongos)",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Reino Animal",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSon organismos procariotas, es decir, sus células no tienen un núcleo definido.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-microorganismos-bacterias-virus-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-microorganismos-bacterias-virus-001-v6",
+      "statement": "**ID:** `CO-CN-7-microorganismos-bacterias-virus-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué es una **Vacuna**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una preparación que enseña al sistema inmunológico a reconocer y combatir un virus o bacteria antes de que nos enfermemos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un medicamento que mata las bacterias al instante",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un jarabe para la tos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una vitamina para crecer",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs como un \"entrenamiento\" para las defensas del cuerpo, usando una versión debilitada o partes del microbio.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-microorganismos-bacterias-virus-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-microorganismos-bacterias-virus-001-v7",
+      "statement": "**ID:** `CO-CN-7-microorganismos-bacterias-virus-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué son los **Hongos** microscópicos como las levaduras y los mohos?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Organismos eucariotas que descomponen materia orgánica y son útiles para hacer pan y cerveza",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Son tipos de plantas verdes",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Son virus grandes",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Son bacterias con núcleo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLas levaduras fermentan el azúcar produciendo gas (que infla el pan) y alcohol.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-microorganismos-bacterias-virus-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-microorganismos-bacterias-virus-001-v8",
+      "statement": "**ID:** `CO-CN-7-microorganismos-bacterias-virus-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Resistencia a los Antibióticos**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuando las bacterias mutan y se vuelven inmunes a los medicamentos, haciendo que las infecciones sean difíciles de curar",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Cuando el cuerpo humano se acostumbra a la medicina",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Cuando las bacterias se mueren muy rápido",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La capacidad de los antibióticos de durar mucho tiempo en el frasco",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs un problema grave causado por automedicarse o no terminar los tratamientos recetados por el médico.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-microorganismos-bacterias-virus-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-microorganismos-bacterias-virus-001-v9",
+      "statement": "**ID:** `CO-CN-7-microorganismos-bacterias-virus-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se reproducen principalmente las bacterias?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por Fisión Binaria (una célula se divide en dos idénticas)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Poniendo huevos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Por semillas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Por unión sexual de dos bacterias",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs una reproducción asexual muy rápida. En condiciones ideales, una bacteria puede convertirse en millones en pocas horas.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-microorganismos-bacterias-virus-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-microorganismos-bacterias-virus-001-v10",
+      "statement": "**ID:** `CO-CN-7-microorganismos-bacterias-virus-001-v10`\r\n\r\n### Enunciado\r\n\r\nAdemás de causar enfermedades, ¿qué papel ecológico fundamental cumplen los microorganismos descomponedores?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reciclan los nutrientes de los organismos muertos, devolviéndolos al suelo para que las plantas los usen",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Se comen a todos los animales vivos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Producen oxígeno para el agua",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Evitan que llueva",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSin descomponedores, la Tierra estaría cubierta de cadáveres y basura orgánica que nunca desaparece.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-microorganismos-bacterias-virus-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-microscopio-tecnicas-observacion-001-v1",
+      "statement": "**ID:** `CO-CN-7-microscopio-tecnicas-observacion-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué instrumento nos permite ver objetos o seres vivos que son invisibles a simple vista, como las bacterias?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Microscopio",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Telescopio",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los anteojos de sol",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El periscopio",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n\"Micro\" significa pequeño y \"scopio\" significa observar.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-microscopio-tecnicas-observacion-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-microscopio-tecnicas-observacion-001-v2",
+      "statement": "**ID:** `CO-CN-7-microscopio-tecnicas-observacion-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Quién es considerado el padre de la microbiología por haber perfeccionado el microscopio y observado \"animalículos\" por primera vez?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anton van Leeuwenhoek",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Cristóbal Colón",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Isaac Newton",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLeeuwenhoek era un comerciante de telas que pulía lentes como afición y descubrió un mundo nuevo en una gota de agua.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-microscopio-tecnicas-observacion-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-microscopio-tecnicas-observacion-001-v3",
+      "statement": "**ID:** `CO-CN-7-microscopio-tecnicas-observacion-001-v3`\r\n\r\n### Enunciado\r\n\r\nEn el microscopio óptico, ¿cuáles son las lentes donde pones los ojos para mirar?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oculares",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Objetivos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Condensador",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Espejo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSe llaman oculares porque están cerca del ojo (óculus en latín). Generalmente tienen un aumento de 10x.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-microscopio-tecnicas-observacion-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-microscopio-tecnicas-observacion-001-v4",
+      "statement": "**ID:** `CO-CN-7-microscopio-tecnicas-observacion-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se llaman las lentes que están cerca de la muestra (preparación) y que suelen venir en un revólver giratorio (4x, 10x, 40x)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Objetivos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Oculares",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Binoculares",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Lentes de contacto",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSon los responsables del aumento principal de la imagen.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-microscopio-tecnicas-observacion-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-microscopio-tecnicas-observacion-001-v5",
+      "statement": "**ID:** `CO-CN-7-microscopio-tecnicas-observacion-001-v5`\r\n\r\n### Enunciado\r\n\r\nSi el ocular tiene un aumento de $10x$ y usas el objetivo de $40x$, ¿cuántas veces más grande estás viendo el objeto?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$400$ veces",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$50$ veces",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$40$ veces",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$4$ veces",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl aumento total es la multiplicación de los aumentos individuales: $10 \\times 40 = 400$.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-microscopio-tecnicas-observacion-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-microscopio-tecnicas-observacion-001-v6",
+      "statement": "**ID:** `CO-CN-7-microscopio-tecnicas-observacion-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Para qué sirve el tornillo **Micrométrico** del microscopio?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para enfocar la imagen con mucha precisión y nitidez (movimientos muy finos)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Para mover la platina rápidamente arriba y abajo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Para encender la luz",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Para cambiar los objetivos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl macrométrico acerca la muestra rápidamente; el micrométrico define los detalles.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-microscopio-tecnicas-observacion-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-microscopio-tecnicas-observacion-001-v7",
+      "statement": "**ID:** `CO-CN-7-microscopio-tecnicas-observacion-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un **Microscopio Electrónico**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un tipo avanzado de microscopio que usa haces de electrones en lugar de luz visible, permitiendo ver virus y estructuras muy pequeñas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un microscopio que se enchufa para encender un bombillo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un microscopio digital que se conecta al celular",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una lupa muy potente",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl electrónico puede aumentar millones de veces, mientras que el óptico llega máximo a 1000x o 1500x.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-microscopio-tecnicas-observacion-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-microscopio-tecnicas-observacion-001-v8",
+      "statement": "**ID:** `CO-CN-7-microscopio-tecnicas-observacion-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Para qué se usan los **Colorantes** (como el azul de metileno o el lugol) en las preparaciones microscópicas?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para resaltar ciertas estructuras (como el núcleo o la pared celular) que son transparentes y difíciles de ver",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Para que la muestra se vea bonita",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Para matar las bacterias",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Para pegar el cubreobjetos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSin tinción, la mayoría de las células se ven transparentes y sin contraste.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-microscopio-tecnicas-observacion-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-microscopio-tecnicas-observacion-001-v9",
+      "statement": "**ID:** `CO-CN-7-microscopio-tecnicas-observacion-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué función cumple el **Condensador** y el **Diafragma** en el sistema de iluminación?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Concentrar los rayos de luz sobre la muestra y regular la cantidad de luz que pasa para mejorar el contraste",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Enfriar el bombillo para que no queme la muestra",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Filtrar los colores para ver en blanco y negro",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Magnificar la imagen antes de llegar al objetivo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nUn buen manejo de la luz es clave para obtener una imagen nítida, especialmente a grandes aumentos.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-microscopio-tecnicas-observacion-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-microscopio-tecnicas-observacion-001-v10",
+      "statement": "**ID:** `CO-CN-7-microscopio-tecnicas-observacion-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **Poder de Resolución** de un microscopio?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La capacidad de distinguir dos puntos muy cercanos como separados (nitidez del detalle)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El número máximo de aumentos que tiene",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La potencia del bombillo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El precio del equipo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nMás aumento no siempre significa mejor imagen. El límite lo pone la resolución; si aumentas más allá de la resolución, solo ves una mancha borrosa \"grande\".",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-microscopio-tecnicas-observacion-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-propiedades-materia-cambios-001-v1",
+      "statement": "**ID:** `CO-CN-7-propiedades-materia-cambios-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se define la **Materia**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todo aquello que tiene masa y ocupa un lugar en el espacio (volumen)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Solo lo que podemos ver",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Todo lo que brilla",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Solo lo que es sólido",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl aire que respiras, aunque no lo veas, es materia porque tiene masa y ocupa volumen. La luz no es materia, es energía.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-propiedades-materia-cambios-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-propiedades-materia-cambios-001-v2",
+      "statement": "**ID:** `CO-CN-7-propiedades-materia-cambios-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuáles son los tres estados fundamentales de agregación de la materia más comunes en la Tierra?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sólido, Líquido y Gaseoso",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Duro, Blando y Mojado",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Frío, Caliente y Tibio",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Rojo, Azul y Amarillo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl agua es el mejor ejemplo: hielo (sólido), agua (líquido) y vapor (gas).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-propiedades-materia-cambios-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-propiedades-materia-cambios-001-v3",
+      "statement": "**ID:** `CO-CN-7-propiedades-materia-cambios-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Densidad**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La relación entre la masa y el volumen de un cuerpo ($D = m/v$)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El peso de un objeto",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Qué tan duro es algo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El tamaño de un objeto",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl aceite flota en el agua porque es menos denso, no porque pese menos en total.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-propiedades-materia-cambios-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-propiedades-materia-cambios-001-v4",
+      "statement": "**ID:** `CO-CN-7-propiedades-materia-cambios-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se llama el cambio de estado de **Líquido a Gaseoso**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evaporación (o Ebullición)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Fusión",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Solidificación",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Condensación",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPasa cuando hervimos agua para hacer café.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-propiedades-materia-cambios-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-propiedades-materia-cambios-001-v5",
+      "statement": "**ID:** `CO-CN-7-propiedades-materia-cambios-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la diferencia entre una **Propiedad Física** y una **Propiedad Química**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La física se puede medir sin cambiar la identidad de la sustancia (color, densidad); la química describe cómo reacciona y se transforma en otra sustancia (inflamabilidad, oxidación)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La física es difícil y la química fácil",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La física usa números y la química letras",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nRomper un papel es un cambio físico. Quemar un papel es un cambio químico (se vuelve ceniza).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-propiedades-materia-cambios-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-propiedades-materia-cambios-001-v6",
+      "statement": "**ID:** `CO-CN-7-propiedades-materia-cambios-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Sublimación**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El paso directo de estado Sólido a Gaseoso sin pasar por líquido",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El paso de gas a líquido",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El paso de sólido a líquido",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Congelar el agua",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl hielo seco ($CO_2$ sólido) \"humea\" y desaparece sin dejar charco de agua. Eso es sublimación.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-propiedades-materia-cambios-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-propiedades-materia-cambios-001-v7",
+      "statement": "**ID:** `CO-CN-7-propiedades-materia-cambios-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué son las **Propiedades Extrínsecas** (o Generales) de la materia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aquellas que dependen de la cantidad de materia, como la masa, el peso y el volumen, y no sirven para diferenciar sustancias",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Aquellas que sirven para identificar sustancias",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El color y el sabor",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La densidad y el punto de fusión",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nUn litro de agua y un litro de leche tienen el mismo volumen (propiedad general), pero diferente sabor y densidad (propiedades específicas).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-propiedades-materia-cambios-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-propiedades-materia-cambios-001-v8",
+      "statement": "**ID:** `CO-CN-7-propiedades-materia-cambios-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué ocurre con las partículas de una sustancia cuando aumenta la temperatura?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se mueven más rápido (aumenta su energía cinética) y tienden a separarse",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Se quedan quietas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Se hacen más grandes",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Desaparecen",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPor eso los sólidos se funden (se vuelven líquidos) y los líquidos se evaporan al calentarlos.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-propiedades-materia-cambios-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-propiedades-materia-cambios-001-v9",
+      "statement": "**ID:** `CO-CN-7-propiedades-materia-cambios-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **Plasma** (cuarto estado de la materia)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un gas ionizado (hecho de átomos que han perdido electrones) que conduce electricidad, común en las estrellas y los rayos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un líquido pegajoso como la sangre",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un plástico derretido",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El estado más frío de la materia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs el estado más abundante del universo visible (las estrellas son bolas de plasma), aunque raro en la Tierra.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-propiedades-materia-cambios-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-propiedades-materia-cambios-001-v10",
+      "statement": "**ID:** `CO-CN-7-propiedades-materia-cambios-001-v10`\r\n\r\n### Enunciado\r\n\r\nSi tengo un bloque de hierro y un bloque de madera del mismo tamaño (volumen), ¿por qué el de hierro pesa más?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el hierro tiene mayor densidad (sus átomos están más apiñados y son más pesados)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Porque el hierro es magnético",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Porque la madera tiene aire por fuera",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Porque el hierro es más viejo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nA igual volumen, mayor densidad implica mayor masa.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-propiedades-materia-cambios-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-reacciones-quimicas-intro-001-v1",
+      "statement": "**ID:** `CO-CN-7-reacciones-quimicas-intro-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué ocurre en una **Reacción Química**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las sustancias iniciales (reactivos) se transforman en sustancias nuevas (productos) con propiedades diferentes",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Las sustancias solo cambian de forma o estado (hielo a agua)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Las sustancias desaparecen",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Se mezclan colores",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nQuemar un papel crea ceniza y humo, que ya no son papel. Eso es química.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-reacciones-quimicas-intro-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-reacciones-quimicas-intro-001-v2",
+      "statement": "**ID:** `CO-CN-7-reacciones-quimicas-intro-001-v2`\r\n\r\n### Enunciado\r\n\r\nEn una Ecuación Química (como $2H_2 + O_2 \\to 2H_2O$), ¿cómo se llaman las sustancias que están a la **izquierda** de la flecha?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reactivos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Productos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Ingredientes",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Sobrantes",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSon los materiales con los que empezamos la reacción.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-reacciones-quimicas-intro-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-reacciones-quimicas-intro-001-v3",
+      "statement": "**ID:** `CO-CN-7-reacciones-quimicas-intro-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué dice la **Ley de Conservación de la Masa** (de Lavoisier)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La materia no se crea ni se destruye, solo se transforma (la masa total de los reactivos es igual a la masa total de los productos)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La masa siempre disminuye en una reacción",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La masa aumenta al calentar",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Todo se convierte en humo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n\"Nada se pierde, todo se transforma\". Si quemas leña, la masa de la ceniza + humo es igual a la masa de la leña + oxígeno.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-reacciones-quimicas-intro-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-reacciones-quimicas-intro-001-v4",
+      "statement": "**ID:** `CO-CN-7-reacciones-quimicas-intro-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Cómo sabemos que ha ocurrido una reacción química? (Evidencias observables).\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cambio de color, liberación de gas (burbujas), cambio de temperatura o formación de un precipitado (sólido)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Cambio de tamaño",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Cambio de lugar",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Cambio de precio",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSi mezclas dos líquidos transparentes y se vuelven amarillos o calientes, ¡hubo reacción!\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-reacciones-quimicas-intro-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-reacciones-quimicas-intro-001-v5",
+      "statement": "**ID:** `CO-CN-7-reacciones-quimicas-intro-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué significa que una reacción sea **Exotérmica**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que libera energía en forma de calor o luz hacia el entorno (se siente caliente)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Que absorbe calor y enfría el entorno",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Que ocurre fuera del termo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Que es explosiva",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl fuego es el ejemplo clásico de reacción exotérmica. Exos = fuera; Thermos = calor.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-reacciones-quimicas-intro-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-reacciones-quimicas-intro-001-v6",
+      "statement": "**ID:** `CO-CN-7-reacciones-quimicas-intro-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un **Catalizador**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una sustancia que acelera la velocidad de una reacción química sin consumirse ni alterarse ella misma",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un reactivo que explota",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un producto de desecho",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un tipo de tubo de ensayo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLas enzimas de nuestro cuerpo son catalizadores biológicos: hacen que las reacciones vitales ocurran rápido.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-reacciones-quimicas-intro-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-reacciones-quimicas-intro-001-v7",
+      "statement": "**ID:** `CO-CN-7-reacciones-quimicas-intro-001-v7`\r\n\r\n### Enunciado\r\n\r\nEn la ecuación $N_2 + 3H_2 \\to 2NH_3$, ¿qué significan los números grandes (coeficientes) delante de las fórmulas?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indican la proporción o cantidad de moléculas (moles) de cada sustancia para balancear la ecuación",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Indican el número de átomos en cada molécula",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Indican la temperatura",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Son números al azar",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSignifica que 1 molécula de Nitrógeno reacciona con 3 de Hidrógeno para producir 2 de Amoníaco.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-reacciones-quimicas-intro-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-reacciones-quimicas-intro-001-v8",
+      "statement": "**ID:** `CO-CN-7-reacciones-quimicas-intro-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué tipo de reacción es: $AB \\to A + B$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Descomposición (una sustancia compleja se rompe en otras más simples)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Síntesis (dos simples forman una compleja)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Combustión",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Neutralización",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs como desarmar un lego.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-reacciones-quimicas-intro-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-reacciones-quimicas-intro-001-v9",
+      "statement": "**ID:** `CO-CN-7-reacciones-quimicas-intro-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué ocurre en una reacción de **Combustión**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un combustible reacciona rápidamente con oxígeno, liberando gran cantidad de energía (luz y calor), dióxido de carbono y agua",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Se forma óxido lentamente",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Se congela el agua",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Se mezclan aceite y agua",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs lo que pasa en el motor de un carro o en una fogata.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-reacciones-quimicas-intro-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-reacciones-quimicas-intro-001-v10",
+      "statement": "**ID:** `CO-CN-7-reacciones-quimicas-intro-001-v10`\r\n\r\n### Enunciado\r\n\r\nBalancea la siguiente ecuación por tanteo: $CH_4 + O_2 \\to CO_2 + H_2O$. (Pista: cuenta los hidrógenos y oxígenos).\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$CH_4 + 2O_2 \\to CO_2 + 2H_2O$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$CH_4 + O_2 \\to CO_2 + H_2O$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$2CH_4 + O_2 \\to 2CO_2 + H_2O$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$CH_4 + 3O_2 \\to CO_2 + 3H_2O$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEntran 4 hidrógenos ($CH_4$), deben salir 4 hidrógenos ($2H_2O$). Al poner el 2 al agua, salen 4 oxígenos en total, así que necesitamos $2O_2$ al inicio.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-reacciones-quimicas-intro-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-circulatorio-respiratorio-001-v1",
+      "statement": "**ID:** `CO-CN-7-sistema-circulatorio-respiratorio-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el órgano principal del **Sistema Circulatorio** que actúa como una bomba?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Corazón",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Cerebro",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Hígado",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Riñón",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl corazón late unas $100.000$ veces al día para impulsar la sangre a todo el cuerpo.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-circulatorio-respiratorio-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-circulatorio-respiratorio-001-v2",
+      "statement": "**ID:** `CO-CN-7-sistema-circulatorio-respiratorio-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Qué gas vital tomamos del aire cuando inhalamos (respiramos)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oxígeno ($O_2$)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Dióxido de Carbono ($CO_2$)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Helio",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Metano",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nNuestras células necesitan oxígeno para producir energía. Sin él, mueren en minutos.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-circulatorio-respiratorio-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-circulatorio-respiratorio-001-v3",
+      "statement": "**ID:** `CO-CN-7-sistema-circulatorio-respiratorio-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la diferencia entre **Arterias** y **Venas**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las arterias sacan sangre del corazón (generalmente oxigenada); las venas traen sangre de regreso al corazón (generalmente con poco oxígeno)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Las arterias son azules y las venas rojas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Las arterias llevan aire y las venas sangre",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nRegla mnemotécnica: **A**rteria = **A**leja (del corazón). **V**ena = **V**uelve (al corazón).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-circulatorio-respiratorio-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-circulatorio-respiratorio-001-v4",
+      "statement": "**ID:** `CO-CN-7-sistema-circulatorio-respiratorio-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Dónde ocurre realmente el **Intercambio Gaseoso** (entra oxígeno, sale dióxido de carbono) en los pulmones?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En los Alvéolos (pequeños sacos de aire)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "En la nariz",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "En la tráquea",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "En los bronquios",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos alvéolos están rodeados de capilares sanguíneos muy finos para facilitar el paso de los gases.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-circulatorio-respiratorio-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-circulatorio-respiratorio-001-v5",
+      "statement": "**ID:** `CO-CN-7-sistema-circulatorio-respiratorio-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué componente de la sangre es el encargado de transportar el oxígeno?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Glóbulos Rojos (Eritrocitos)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Glóbulos Blancos (Leucocitos)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Plaquetas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Plasma",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nContienen una proteína llamada hemoglobina (rica en hierro) que se une al oxígeno como un imán.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-circulatorio-respiratorio-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-circulatorio-respiratorio-001-v6",
+      "statement": "**ID:** `CO-CN-7-sistema-circulatorio-respiratorio-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la función del **Diafragma** en la respiración?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un músculo que al contraerse baja, ampliando el tórax para que entre aire en los pulmones",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Filtra el aire en la nariz",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Protege al corazón",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Produce la voz",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs el principal músculo de la respiración. Separa el pecho del abdomen.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-circulatorio-respiratorio-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-circulatorio-respiratorio-001-v7",
+      "statement": "**ID:** `CO-CN-7-sistema-circulatorio-respiratorio-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Circulación Menor** (o Pulmonar)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El circuito que lleva sangre desoxigenada del corazón a los pulmones y la devuelve oxigenada al corazón",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El circuito que lleva sangre a todo el cuerpo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La circulación en los bebés",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La circulación en las piernas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSu único objetivo es recargar la sangre de oxígeno. La Mayor (Sistémica) es la que reparte ese oxígeno.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-circulatorio-respiratorio-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-circulatorio-respiratorio-001-v8",
+      "statement": "**ID:** `CO-CN-7-sistema-circulatorio-respiratorio-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué función cumplen las **Plaquetas**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Coagular la sangre para detener hemorragias cuando nos cortamos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Combatir infecciones",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Transportar nutrientes",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Dar color rojo a la sangre",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nForman un tapón o costra para cerrar las heridas.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-circulatorio-respiratorio-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-circulatorio-respiratorio-001-v9",
+      "statement": "**ID:** `CO-CN-7-sistema-circulatorio-respiratorio-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Cómo afecta el **Tabaquismo** (fumar) al sistema respiratorio, específicamente a los cilios y alvéolos?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Paraliza los cilios (que limpian el moco) y destruye las paredes de los alvéolos (enfisema), reduciendo la capacidad de respirar",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Fortalece los pulmones haciéndolos trabajar más duro",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "No tiene ningún efecto grave",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Limpia los bronquios",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl daño del cigarrillo es acumulativo e irreversible en muchos casos.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-circulatorio-respiratorio-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-circulatorio-respiratorio-001-v10",
+      "statement": "**ID:** `CO-CN-7-sistema-circulatorio-respiratorio-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué son las **Válvulas Cardíacas** y por qué son importantes?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son compuertas que aseguran que la sangre fluya en una sola dirección, evitando que se devuelva",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Son los tubos por donde sale la sangre",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Son los nervios que estimulan el corazón",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Son músculos que bombean sangre",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl sonido \"lub-dup\" del corazón es el ruido que hacen estas válvulas al cerrarse.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-circulatorio-respiratorio-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-digestivo-nutricion-001-v1",
+      "statement": "**ID:** `CO-CN-7-sistema-digestivo-nutricion-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Dónde comienza el proceso de la **Digestión**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la boca, con la masticación y la acción de la saliva",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "En el estómago",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "En el intestino",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "En el esófago",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos dientes trituran la comida y la saliva comienza a romper los azúcares.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-digestivo-nutricion-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-digestivo-nutricion-001-v2",
+      "statement": "**ID:** `CO-CN-7-sistema-digestivo-nutricion-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se llama el tubo muscular que lleva el bolo alimenticio desde la garganta hasta el estómago?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Esófago",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Tráquea",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Intestino Delgado",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Aorta",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nUsa unos movimientos ondulatorios llamados \"peristaltismo\" para empujar la comida hacia abajo.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-digestivo-nutricion-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-digestivo-nutricion-001-v3",
+      "statement": "**ID:** `CO-CN-7-sistema-digestivo-nutricion-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la función principal del **Estómago** en la digestión?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mezclar los alimentos con ácido clorhídrico y enzimas para descomponer las proteínas y matar bacterias",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Absorber todos los nutrientes de una vez",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Producir saliva",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Almacenar la comida para el invierno",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl estómago funciona como una licuadora química, convirtiendo la comida en una pasta llamada quimo.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-digestivo-nutricion-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-digestivo-nutricion-001-v4",
+      "statement": "**ID:** `CO-CN-7-sistema-digestivo-nutricion-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Dónde ocurre la mayor parte de la **absorción de nutrientes** hacia la sangre?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Intestino Delgado",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Intestino Grueso",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Estómago",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Hígado",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nTiene millones de vellosidades que actúan como una toalla absorbente gigante para capturar los nutrientes.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-digestivo-nutricion-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-digestivo-nutricion-001-v5",
+      "statement": "**ID:** `CO-CN-7-sistema-digestivo-nutricion-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué líquido produce el **Hígado** para ayudar a digerir las grasas?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bilis",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Insulina",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Saliva",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Jugo gástrico",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa bilis es como un jabón o detergente: rompe las gotas grandes de grasa en gotas pequeñitas para que puedan digerirse.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-digestivo-nutricion-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-digestivo-nutricion-001-v6",
+      "statement": "**ID:** `CO-CN-7-sistema-digestivo-nutricion-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la función principal del **Intestino Grueso** (Colon)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Absorber agua y sales minerales de los desechos, formando las heces",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Absorber proteínas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Producir ácido",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Masticar la comida",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSi no absorbe bien el agua, nos da diarrea. Si absorbe demasiada, nos da estreñimiento.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-digestivo-nutricion-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-digestivo-nutricion-001-v7",
+      "statement": "**ID:** `CO-CN-7-sistema-digestivo-nutricion-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué son las **Enzimas Digestivas**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Proteínas especiales que actúan como \"tijeras químicas\" para romper las moléculas grandes de comida en partes pequeñas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un tipo de bacteria del estómago",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Células de la sangre",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Vitaminas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPor ejemplo, la amilasa rompe el almidón, y la pepsina rompe las proteínas.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-digestivo-nutricion-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-digestivo-nutricion-001-v8",
+      "statement": "**ID:** `CO-CN-7-sistema-digestivo-nutricion-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Por qué es importante la **Fibra** en la nutrición aunque el cuerpo no pueda digerirla?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ayuda a mover los alimentos a través del sistema digestivo, previniendo el estreñimiento y protegiendo el colon",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Aporta mucha energía",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Construye músculos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Se convierte en grasa",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs como una escoba que limpia el intestino. Se encuentra en frutas, verduras y granos integrales.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-digestivo-nutricion-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-digestivo-nutricion-001-v9",
+      "statement": "**ID:** `CO-CN-7-sistema-digestivo-nutricion-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué hace el **Páncreas** en la digestión (función exocrina)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Libera un jugo rico en enzimas y bicarbonato hacia el intestino delgado para neutralizar el ácido del estómago y completar la digestión",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Almacena la bilis",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Absorbe el agua",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Produce la voz",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSin el jugo pancreático, el ácido quemaría el intestino y no podríamos digerir ni carbohidratos, ni grasas ni proteínas.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-digestivo-nutricion-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-digestivo-nutricion-001-v10",
+      "statement": "**ID:** `CO-CN-7-sistema-digestivo-nutricion-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿En qué se diferencian la **Nutrición Autótrofa** y la **Heterótrofa**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los autótrofos (plantas) fabrican su propio alimento; los heterótrofos (animales) deben comer a otros seres vivos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Los autótrofos comen carne y los heterótrofos comen plantas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los autótrofos viven en el agua y los heterótrofos en la tierra",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa base de la cadena alimenticia son los autótrofos fotosintéticos.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-digestivo-nutricion-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-excretor-homeostasis-001-v1",
+      "statement": "**ID:** `CO-CN-7-sistema-excretor-homeostasis-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la función principal del **Sistema Excretor** (o Urinario)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Filtrar la sangre para eliminar los desechos y el exceso de agua en forma de orina",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Eliminar las heces sólidas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Respirar",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Sudar para enfriar el cuerpo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa excreción es la eliminación de desechos metabólicos celulares (como la urea), diferente a la defecación.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-excretor-homeostasis-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-excretor-homeostasis-001-v2",
+      "statement": "**ID:** `CO-CN-7-sistema-excretor-homeostasis-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuáles son los órganos principales encargados de filtrar la sangre y producir la orina?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los Riñones",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Los Pulmones",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Hígado",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Corazón",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nTenemos dos riñones en forma de frijol ubicados en la parte baja de la espalda.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-excretor-homeostasis-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-excretor-homeostasis-001-v3",
+      "statement": "**ID:** `CO-CN-7-sistema-excretor-homeostasis-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Homeostasis**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El equilibrio interno del cuerpo para mantener condiciones estables (como la temperatura, el agua y las sales)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una enfermedad de los huesos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El proceso de digestión",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El nombre científico de la sangre",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSi hace calor, sudamos. Si falta agua, nos da sed. El cuerpo siempre busca su equilibrio.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-excretor-homeostasis-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-excretor-homeostasis-001-v4",
+      "statement": "**ID:** `CO-CN-7-sistema-excretor-homeostasis-001-v4`\r\n\r\n### Enunciado\r\n\r\nAdemás de los riñones, ¿qué otro órgano ayuda en la excreción eliminando agua y sales a través del sudor?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Piel (Glándulas Sudoríparas)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Cerebro",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Ojo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Páncreas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl sudor tiene una composición similar a la orina diluida, pero su función principal es refrescar.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-excretor-homeostasis-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-excretor-homeostasis-001-v5",
+      "statement": "**ID:** `CO-CN-7-sistema-excretor-homeostasis-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se llama el conducto que lleva la orina desde la vejiga hacia el exterior del cuerpo?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uretra",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Uréter",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Arteria Renal",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Intestino",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos **uréteres** bajan del riñón a la vejiga. La **uretra** sale de la vejiga hacia afuera.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-excretor-homeostasis-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-excretor-homeostasis-001-v6",
+      "statement": "**ID:** `CO-CN-7-sistema-excretor-homeostasis-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué sustancia tóxica producida por el hígado debe ser eliminada rápidamente por los riñones?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Urea (producto de la degradación de proteínas)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Glucosa",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Oxígeno",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Vitaminas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSi la urea se acumula en la sangre, nos intoxicamos (uremia).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-excretor-homeostasis-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-excretor-homeostasis-001-v7",
+      "statement": "**ID:** `CO-CN-7-sistema-excretor-homeostasis-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Nefrona**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La unidad funcional microscópica del riñón donde ocurre realmente la filtración de la sangre",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una hormona",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una enfermedad renal",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una parte de la vejiga",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nCada riñón tiene alrededor de un millón de nefronas trabajando sin descanso.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-excretor-homeostasis-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-excretor-homeostasis-001-v8",
+      "statement": "**ID:** `CO-CN-7-sistema-excretor-homeostasis-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Por qué la orina es más oscura y concentrada cuando bebemos poca agua?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los riñones reabsorben la mayor cantidad de agua posible para evitar la deshidratación del cuerpo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Porque la vejiga está sucia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Porque el cuerpo produce más desechos en la sequía",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Es solo una coincidencia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs un mecanismo de supervivencia y homeostasis: ahorrar agua.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-excretor-homeostasis-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-excretor-homeostasis-001-v9",
+      "statement": "**ID:** `CO-CN-7-sistema-excretor-homeostasis-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué ocurre en la **Insuficiencia Renal**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los riñones pierden la capacidad de filtrar la sangre, por lo que el paciente necesita Diálisis o un trasplante",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La persona orina demasiado",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Se forman cálculos renales (piedras)",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La vejiga se rompe",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa diálisis es una máquina que hace el trabajo del riñón artificialmente.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-excretor-homeostasis-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-excretor-homeostasis-001-v10",
+      "statement": "**ID:** `CO-CN-7-sistema-excretor-homeostasis-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Cómo participan los **Pulmones** en el sistema excretor?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eliminando el Dióxido de Carbono ($CO_2$) que es un desecho tóxico del metabolismo celular",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Eliminando orina en forma de vapor",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "No participan en la excreción",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Eliminando el exceso de azúcar",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAunque no eliminan orina, el $CO_2$ es un residuo metabólico que debemos expulsar constantemente.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-excretor-homeostasis-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-oseo-muscular-001-v1",
+      "statement": "**ID:** `CO-CN-7-sistema-oseo-muscular-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la función principal del **Sistema Óseo** (esqueleto)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sostener el cuerpo, proteger los órganos vitales y permitir el movimiento",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Digerir la comida",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Pensar y recordar cosas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Transportar la sangre",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSin el esqueleto, seríamos como una gelatina en el suelo. Además, protege órganos delicados como el cerebro y el corazón.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-oseo-muscular-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-oseo-muscular-001-v2",
+      "statement": "**ID:** `CO-CN-7-sistema-oseo-muscular-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se llama el hueso más largo del cuerpo humano, ubicado en el muslo?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fémur",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Húmero",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Radio",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Tibia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl fémur soporta gran parte de nuestro peso al caminar.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-oseo-muscular-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-oseo-muscular-001-v3",
+      "statement": "**ID:** `CO-CN-7-sistema-oseo-muscular-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué son las **Articulaciones**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los puntos de unión entre dos o más huesos que permiten el movimiento (como el codo o la rodilla)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Los músculos de la cara",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Las venas de las piernas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Los huesos de los dedos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSin articulaciones, nuestro esqueleto sería rígido como una estatua y no podríamos movernos.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-oseo-muscular-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-oseo-muscular-001-v4",
+      "statement": "**ID:** `CO-CN-7-sistema-oseo-muscular-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué función tienen los **Tendones**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Unir los músculos a los huesos para transmitir la fuerza y generar movimiento",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Unir hueso con hueso",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Producir sangre",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Cubrir la piel",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSon como cuerdas resistentes. Si se rompen (como el tendón de Aquiles), el músculo no puede mover el hueso.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-oseo-muscular-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-oseo-muscular-001-v5",
+      "statement": "**ID:** `CO-CN-7-sistema-oseo-muscular-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Cómo trabajan los músculos en pares **Antagónicos** (por ejemplo, bíceps y tríceps)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mientras uno se contrae (se acorta), el otro se relaja (se estira) para mover el hueso en direcciones opuestas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Ambos se contraen al mismo tiempo siempre",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Trabajan de forma independiente sin relacionarse",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Solo funciona uno a la vez, el otro descansa para siempre",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPara doblar el brazo, el bíceps se contrae. Para estirarlo, el tríceps se contrae y el bíceps se relaja.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-oseo-muscular-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-oseo-muscular-001-v6",
+      "statement": "**ID:** `CO-CN-7-sistema-oseo-muscular-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué sustancia mineral principalmente hace que los huesos sean duros y resistentes?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Calcio",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Hierro",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Vitamina C",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Azúcar",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPor eso es importante tomar leche y comer alimentos ricos en calcio durante el crecimiento.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-oseo-muscular-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-oseo-muscular-001-v7",
+      "statement": "**ID:** `CO-CN-7-sistema-oseo-muscular-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué son los **Ligamentos** y en qué se diferencian de los tendones?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son bandas elásticas que unen hueso con hueso en las articulaciones para dar estabilidad; los tendones unen músculo con hueso",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Son los músculos de la espalda",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Son nervios que llevan señales",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Son lo mismo que los cartílagos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos ligamentos evitan que los huesos se separen o se luxen durante el movimiento.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-oseo-muscular-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-oseo-muscular-001-v8",
+      "statement": "**ID:** `CO-CN-7-sistema-oseo-muscular-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿A qué nos referimos cuando decimos que el Sistema Muscular ayuda a mantener la **Homeostasis** térmica?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al contraerse, los músculos generan calor (como cuando tiritamos de frío) ayudando a mantener la temperatura corporal",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Los músculos producen sudor",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los músculos almacenan agua fría",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Los huesos absorben el calor del sol",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl tiritar son contracciones musculares rápidas e involuntarias diseñadas específicamente para calentarnos.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-oseo-muscular-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-oseo-muscular-001-v9",
+      "statement": "**ID:** `CO-CN-7-sistema-oseo-muscular-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué ocurre en la enfermedad llamada **Osteoporosis**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los huesos pierden densidad y se vuelven porosos y frágiles, aumentando el riesgo de fracturas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Los huesos crecen demasiado",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los músculos se vuelven muy grandes",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Las articulaciones se bloquean",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs común en personas mayores. El hueso se vuelve como una esponja débil por falta de calcio.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-oseo-muscular-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-sistema-oseo-muscular-001-v10",
+      "statement": "**ID:** `CO-CN-7-sistema-oseo-muscular-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Columna Vertebral** y por qué es tan especial?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es el eje central del esqueleto, formado por vértebras apiladas que protegen la médula espinal y permiten la flexibilidad del tronco",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Es un solo hueso largo y rígido en la espalda",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Es un músculo muy fuerte",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Es el hueso que protege el corazón",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nGracias a los discos entre las vértebras, podemos agacharnos y girar, a pesar de tener un eje óseo.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-sistema-oseo-muscular-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-tabla-periodica-elementos-001-v1",
+      "statement": "**ID:** `CO-CN-7-tabla-periodica-elementos-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué organiza la **Tabla Periódica**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los elementos químicos conocidos, ordenados por su número atómico y propiedades",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Los planetas del sistema solar",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Las reglas de ortografía",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Los tipos de rocas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs como el mapa o el abecedario de la química. Todo lo que existe está hecho de combinaciones de estos elementos.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-tabla-periodica-elementos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-tabla-periodica-elementos-001-v2",
+      "statement": "**ID:** `CO-CN-7-tabla-periodica-elementos-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el símbolo químico del **Oxígeno**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Ox",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Og",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "X",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos símbolos suelen ser la primera letra del nombre (a veces en latín).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-tabla-periodica-elementos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-tabla-periodica-elementos-001-v3",
+      "statement": "**ID:** `CO-CN-7-tabla-periodica-elementos-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Quién es conocido como el creador de la primera versión útil de la Tabla Periódica?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dmitri Mendeléyev",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Albert Einstein",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Isaac Newton",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Marie Curie",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nMendeléyev fue tan genial que dejó huecos vacíos prediciendo elementos que aún no se habían descubierto.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-tabla-periodica-elementos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-tabla-periodica-elementos-001-v4",
+      "statement": "**ID:** `CO-CN-7-tabla-periodica-elementos-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué información nos da el **Número Atómico** (Z) de un elemento?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El número de protones que tiene en su núcleo (y de electrones si es neutro)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Su peso en kilos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Su precio en el mercado",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Su color",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl Hidrógeno tiene Z=1 (1 protón). El Helio Z=2 (2 protones). El número atómico es como el DNI del elemento.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-tabla-periodica-elementos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-tabla-periodica-elementos-001-v5",
+      "statement": "**ID:** `CO-CN-7-tabla-periodica-elementos-001-v5`\r\n\r\n### Enunciado\r\n\r\nEn la Tabla Periódica, ¿qué son los **Grupos** (columnas verticales)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Familias de elementos que tienen propiedades químicas similares y el mismo número de electrones de valencia",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Elementos que empiezan por la misma letra",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Elementos descubiertos el mismo año",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Elementos del mismo color",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPor ejemplo, los gases nobles están todos en el Grupo 18 y todos son inertes (no reaccionan).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-tabla-periodica-elementos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-tabla-periodica-elementos-001-v6",
+      "statement": "**ID:** `CO-CN-7-tabla-periodica-elementos-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué característica principal tienen los **Metales**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son buenos conductores de calor y electricidad, suelen ser brillantes y maleables",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Son gases a temperatura ambiente",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Se rompen fácilmente (frágiles)",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Son opacos y aislantes",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPor eso los cables eléctricos son de cobre (metal) y no de azufre (no metal).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-tabla-periodica-elementos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-tabla-periodica-elementos-001-v7",
+      "statement": "**ID:** `CO-CN-7-tabla-periodica-elementos-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué son los **Electrones de Valencia**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los electrones que están en la capa más externa del átomo y participan en la formación de enlaces químicos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Los electrones que están más cerca del núcleo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los electrones que no se mueven",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Los protones del núcleo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSon los \"electrones sociales\" que se dan la mano con otros átomos para formar moléculas.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-tabla-periodica-elementos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-tabla-periodica-elementos-001-v8",
+      "statement": "**ID:** `CO-CN-7-tabla-periodica-elementos-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un **Isótopo**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Átomos del mismo elemento (mismo número de protones) pero con diferente número de neutrones (diferente masa)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Átomos de diferentes elementos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Átomos sin electrones",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Átomos radiactivos siempre",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nComo gemelos que pesan distinto. Carbono-12 y Carbono-14 son el mismo elemento, pero uno es más \"gordo\" que el otro.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-tabla-periodica-elementos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-tabla-periodica-elementos-001-v9",
+      "statement": "**ID:** `CO-CN-7-tabla-periodica-elementos-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué tendencia periódica indica la **Electronegatividad**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La capacidad de un átomo para atraer electrones hacia sí mismo cuando forma un enlace químico",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La capacidad de expulsar protones",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El tamaño del átomo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La velocidad del átomo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl Flúor es el elemento más \"egoísta\" (electronegativo) de la tabla: atrae los electrones con mucha fuerza.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-tabla-periodica-elementos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-tabla-periodica-elementos-001-v10",
+      "statement": "**ID:** `CO-CN-7-tabla-periodica-elementos-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué diferencia a los **Gases Nobles** (Grupo 18) de los demás elementos?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tienen su capa de valencia completa (8 electrones, regla del octeto), por lo que son muy estables y casi no reaccionan con nadie",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Son muy explosivos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Son metales líquidos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Brillan en la oscuridad",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSon los \"aristócratas\" de la tabla: tan completos y felices que no necesitan unirse a la \"plebe\" (otros átomos).",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-tabla-periodica-elementos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-tejidos-vegetales-animales-001-v1",
+      "statement": "**ID:** `CO-CN-7-tejidos-vegetales-animales-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un **Tejido** en biología?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un grupo de células similares que trabajan juntas para cumplir una función específica",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una tela hecha de algodón",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un órgano completo como el corazón",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un grupo de huesos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLas células no trabajan solas; se agrupan como en un equipo para formar tejidos, que a su vez forman órganos.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-tejidos-vegetales-animales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-tejidos-vegetales-animales-001-v2",
+      "statement": "**ID:** `CO-CN-7-tejidos-vegetales-animales-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Qué tejido animal recubre la superficie del cuerpo (piel) y los órganos internos?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tejido Epitelial",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Tejido Nervioso",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Tejido Muscular",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Tejido Óseo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl epitelio es como el \"empapelado\" o la \"pintura\" que protege y cubre las estructuras.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-tejidos-vegetales-animales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-tejidos-vegetales-animales-001-v3",
+      "statement": "**ID:** `CO-CN-7-tejidos-vegetales-animales-001-v3`\r\n\r\n### Enunciado\r\n\r\nEn las plantas, ¿cuál es la función de los **Tejidos Meristemáticos**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permitir el crecimiento de la planta (en altura y grosor) mediante la división celular continua",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Hacer la fotosíntesis",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Transportar agua",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Proteger contra insectos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSe encuentran en las puntas de las raíces y los tallos. Son las \"células madre\" de las plantas.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-tejidos-vegetales-animales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-tejidos-vegetales-animales-001-v4",
+      "statement": "**ID:** `CO-CN-7-tejidos-vegetales-animales-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué tejido animal es responsable del movimiento del cuerpo?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tejido Muscular",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Tejido Adiposo (grasa)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Tejido Sanguíneo (sangre)",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Tejido Cartilaginoso",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSus células son capaces de contraerse y relajarse.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-tejidos-vegetales-animales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-tejidos-vegetales-animales-001-v5",
+      "statement": "**ID:** `CO-CN-7-tejidos-vegetales-animales-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Cuáles son los dos tejidos conductores (vasculares) de las plantas y qué transportan?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "**Xilema** (savia bruta: agua y sales) y **Floema** (savia elaborada: azúcares)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Xilema (azúcar) y Floema (agua)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Arterias y Venas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Raíz y Tallo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl Xilema sube (de la raíz a las hojas) y el Floema distribuye el alimento producido en las hojas a toda la planta.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-tejidos-vegetales-animales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-tejidos-vegetales-animales-001-v6",
+      "statement": "**ID:** `CO-CN-7-tejidos-vegetales-animales-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué tipo de **Tejido Conectivo** líquido transporta oxígeno y nutrientes por todo el cuerpo animal?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Sangre",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La Linfa",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Sudor",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La Saliva",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAunque es líquida, la sangre se considera un tejido porque tiene células (glóbulos) suspendidas en una matriz (plasma).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-tejidos-vegetales-animales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-tejidos-vegetales-animales-001-v7",
+      "statement": "**ID:** `CO-CN-7-tejidos-vegetales-animales-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué función cumple el **Tejido Parénquima** en las plantas?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Realizar la fotosíntesis (clorénquima) y almacenar reservas (almidón, agua)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Dar soporte rígido como la madera",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Cubrir la hoja como una piel",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Absorber agua del suelo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs el tejido \"de relleno\" y metabólicamente más activo. La parte carnosa de una fruta es parénquima.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-tejidos-vegetales-animales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-tejidos-vegetales-animales-001-v8",
+      "statement": "**ID:** `CO-CN-7-tejidos-vegetales-animales-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la diferencia entre el **Músculo Esquelético** y el **Músculo Liso**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El esquelético es voluntario (lo movemos cuando queremos) y estriado; el liso es involuntario (mueve los intestinos)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El esquelético es rojo y el liso es azul",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El esquelético está en el corazón y el liso en los brazos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No hay diferencia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nNo tienes que pensar para que tu estómago digiera la comida (músculo liso), pero sí para levantar el brazo (esquelético).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-tejidos-vegetales-animales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-tejidos-vegetales-animales-001-v9",
+      "statement": "**ID:** `CO-CN-7-tejidos-vegetales-animales-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Neurona** y a qué tejido pertenece?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es la célula principal del Tejido Nervioso, especializada en transmitir impulsos eléctricos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Es una célula de la piel",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Es una célula del hueso",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Es una célula de la sangre",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nGracias a las neuronas podemos pensar, sentir y coordinar todas las funciones del cuerpo.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-tejidos-vegetales-animales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CN-7-tejidos-vegetales-animales-001-v10",
+      "statement": "**ID:** `CO-CN-7-tejidos-vegetales-animales-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué función cumplen el **Colénquima** y el **Esclerénquima** vegetal?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son tejidos de sostén: el colénquima da flexibilidad a partes jóvenes y el esclerénquima da dureza y rigidez (como en las nueces)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Son tejidos de reproducción",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Son tejidos de transporte",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Son tejidos de protección contra el frío",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSon el \"esqueleto\" de la planta.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CN-7-tejidos-vegetales-animales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    }
+  ]
+}
