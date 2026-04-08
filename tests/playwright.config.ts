@@ -1,5 +1,10 @@
 import { defineConfig, devices } from '@playwright/test';
 
+const baseURL =
+  process.env.PLAYWRIGHT_BASE_URL ||
+  process.env.API_BASE_URL ||
+  'http://127.0.0.1:8791';
+
 export default defineConfig({
   testDir: '.',
   testMatch: '**/*.test.ts',
@@ -30,7 +35,7 @@ export default defineConfig({
   /* Shared settings for all the projects below */
   use: {
     /* Base URL to use in actions like `await page.goto('/')` */
-    baseURL: 'https://d12a4b18.saberparatodos.pages.dev',
+    baseURL,
 
     /* Collect trace when retrying the failed test */
     trace: 'on-first-retry',

@@ -1,0 +1,5450 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "matematicas",
+    "pack_id": "week-1-grade-6-subject-matematicas",
+    "generated_at": "2026-03-16T18:04:21.544Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-6-estadistica-frecuencias-graficos-001-v1",
+      "statement": "**ID:** `CO-MAT-6-estadistica-frecuencias-graficos-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **frecuencia absoluta** en un conjunto de datos?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El número de veces que se repite un dato específico",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El promedio de todos los datos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El dato más pequeño",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La resta entre el mayor y el menor dato",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa frecuencia absoluta nos dice qué tan común es un valor dentro de la muestra.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-estadistica-frecuencias-graficos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-estadistica-frecuencias-graficos-001-v2",
+      "statement": "**ID:** `CO-MAT-6-estadistica-frecuencias-graficos-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se llama el gráfico estadístico que utiliza rectángulos (barras) para representar las frecuencias de diferentes categorías?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gráfico de Barras",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Gráfico Circular (o de Torta)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Histograma",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Pictograma",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos gráficos de barras son ideales para comparar categorías, como los deportes favoritos de un grupo de estudiantes.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-estadistica-frecuencias-graficos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-estadistica-frecuencias-graficos-001-v3",
+      "statement": "**ID:** `CO-MAT-6-estadistica-frecuencias-graficos-001-v3`\r\n\r\n### Enunciado\r\n\r\nEn un estudio sobre colores favoritos: Azul (10 personas), Rojo (8 personas) y Verde (12 personas). ¿Cuál es el tamaño de la **muestra** (total de personas encuestadas)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 personas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "12 personas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "3 personas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "10 personas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa muestra es la suma de todas las frecuencias: $10 + 8 + 12 = 30$.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-estadistica-frecuencias-graficos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-estadistica-frecuencias-graficos-001-v4",
+      "statement": "**ID:** `CO-MAT-6-estadistica-frecuencias-graficos-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la **Moda** en el siguiente conjunto de notas: {3, 4, 4, 5, 2, 4, 3}?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "25 (la suma)",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa moda es el dato que más se repite. En este caso, el número 4 aparece tres veces.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-estadistica-frecuencias-graficos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-estadistica-frecuencias-graficos-001-v5",
+      "statement": "**ID:** `CO-MAT-6-estadistica-frecuencias-graficos-001-v5`\r\n\r\n### Enunciado\r\n\r\nCalcula el **Promedio (Media Aritmética)** de las siguientes temperaturas: 20 °C, 25 °C y 30 °C.\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25 °C",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "75 °C",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "30 °C",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "20 °C",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSumamos los datos y dividimos por la cantidad: $(20 + 25 + 30) \\div 3 = 75 \\div 3 = 25$.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-estadistica-frecuencias-graficos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-estadistica-frecuencias-graficos-001-v6",
+      "statement": "**ID:** `CO-MAT-6-estadistica-frecuencias-graficos-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Para qué tipo de datos es más útil un **gráfico circular (o de torta)**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para mostrar la parte que representa cada categoría respecto al total (porcentajes)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Para ver cómo cambia un dato a través del tiempo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Para ver la relación entre la altura y el peso de las personas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Para mostrar solo el dato más grande",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl círculo representa el 100% y las \"tajadas\" muestran la proporción de cada parte.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-estadistica-frecuencias-graficos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-estadistica-frecuencias-graficos-001-v7",
+      "statement": "**ID:** `CO-MAT-6-estadistica-frecuencias-graficos-001-v7`\r\n\r\n### Enunciado\r\n\r\nEn una tabla de frecuencia, la **frecuencia relativa** de la categoría \"Fútbol\" es 0,25. Si el total de encuestados es 40, ¿cuántas personas eligieron fútbol?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 personas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "4 personas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "25 personas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "15 personas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nFrecuencia absoluta = Frecuencia relativa $\\times$ Total = $0,25 \\times 40 = 10$.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-estadistica-frecuencias-graficos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-estadistica-frecuencias-graficos-001-v8",
+      "statement": "**ID:** `CO-MAT-6-estadistica-frecuencias-graficos-001-v8`\r\n\r\n### Enunciado\r\n\r\nSi ordenamos los datos {10, 12, 15, 18, 20}, ¿cuál es la **Mediana**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "18",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "75",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa mediana es el valor que queda justo en el centro cuando los datos están ordenados de menor a mayor.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-estadistica-frecuencias-graficos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-estadistica-frecuencias-graficos-001-v10",
+      "statement": "**ID:** `CO-MAT-6-estadistica-frecuencias-graficos-001-v10`\r\n\r\n### Enunciado\r\n\r\nSi en un gráfico de barras la escala del eje vertical (frecuencia) va de 5 en 5, y una barra llega a la mitad entre el 15 y el 20, ¿cuál es la frecuencia de esa categoría?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "17,5",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "16",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "18",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa mitad exacta entre 15 y 20 es $(15 + 20) \\div 2 = 17,5$.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-estadistica-frecuencias-graficos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-estadistica-frecuencias-graficos-001-v9",
+      "statement": "**ID:** `CO-MAT-6-estadistica-frecuencias-graficos-001-v9`\r\n\r\n### Enunciado\r\n\r\nEn un gráfico de sectores (circular), si una categoría representa el **25%** del total, ¿cuántos grados medirá su ángulo en el círculo?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "90°",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "45°",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "100°",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "25°",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nUn círculo completo tiene 360°. El 25% ($\\frac{1}{4}$) de 360° es 90°. (He intercambiado el orden de v9/v10 para mantener coherencia).",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-estadistica-frecuencias-graficos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-fracciones-operaciones-001-v1",
+      "statement": "**ID:** `CO-MAT-6-fracciones-operaciones-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se llama el número de arriba en una fracción, que indica cuántas partes tomamos de la unidad?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Numerador",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Denominador",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Cociente",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Factor",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEn una fracción $\\frac{a}{b}$, $a$ es el numerador y $b$ es el denominador.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-fracciones-operaciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-fracciones-operaciones-001-v2",
+      "statement": "**ID:** `CO-MAT-6-fracciones-operaciones-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el resultado de sumar $\\frac{3}{7} + \\frac{2}{7}$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{5}{7}$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{5}{14}$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{7}$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{6}{7}$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nCuando las fracciones tienen el mismo denominador, se suman los numeradores y se deja el mismo denominador.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-fracciones-operaciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-fracciones-operaciones-001-v3",
+      "statement": "**ID:** `CO-MAT-6-fracciones-operaciones-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el resultado de multiplicar $\\frac{2}{3} \\times \\frac{4}{5}$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{8}{15}$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{6}{8}$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{10}{12}$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{8}{5}$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPara multiplicar fracciones se multiplica numerador por numerador ($2 \\times 4 = 8$) y denominador por denominador ($3 \\times 5 = 15$).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-fracciones-operaciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-fracciones-operaciones-001-v4",
+      "statement": "**ID:** `CO-MAT-6-fracciones-operaciones-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué fracción representa la mitad de $\\frac{1}{4}$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{1}{8}$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{2}{4}$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{6}$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$\\frac{1}{4} \\div 2 = \\frac{1}{4} \\times \\frac{1}{2} = \\frac{1}{8}$.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-fracciones-operaciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-fracciones-operaciones-001-v5",
+      "statement": "**ID:** `CO-MAT-6-fracciones-operaciones-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el resultado de sumar $\\frac{1}{2} + \\frac{1}{3}$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{5}{6}$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{2}{5}$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{5}$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{2}{6}$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nBuscamos común denominador ($mcm(2,3)=6$): $\\frac{3}{6} + \\frac{2}{6} = \\frac{5}{6}$.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-fracciones-operaciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-fracciones-operaciones-001-v6",
+      "statement": "**ID:** `CO-MAT-6-fracciones-operaciones-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el resultado de dividir $\\frac{3}{4} \\div \\frac{2}{5}$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{15}{8}$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{6}{20}$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{5}{9}$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{8}{15}$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSe multiplica por la fracción inversa: $\\frac{3}{4} \\times \\frac{5}{2} = \\frac{15}{8}$.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-fracciones-operaciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-fracciones-operaciones-001-v7",
+      "statement": "**ID:** `CO-MAT-6-fracciones-operaciones-001-v7`\r\n\r\n### Enunciado\r\n\r\nUn tanque de gasolina tiene $\\frac{3}{4}$ de su capacidad llena. Si se gasta $\\frac{1}{3}$ del total del tanque, ¿cuánta gasolina queda respecto a la capacidad total?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{5}{12}$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{2}{12}$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{4}$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{3}$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$\\frac{3}{4} - \\frac{1}{3}$. Común denominador 12: $\\frac{9}{12} - \\frac{4}{12} = \\frac{5}{12}$.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-fracciones-operaciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-fracciones-operaciones-001-v8",
+      "statement": "**ID:** `CO-MAT-6-fracciones-operaciones-001-v8`\r\n\r\n### Enunciado\r\n\r\nSimplifica a su mínima expresión la fracción $\\frac{12}{18}$.\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{2}{3}$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{6}{9}$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{3}{2}$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nDividimos numerador y denominador por su mcd (6): $12 \\div 6 = 2$ y $18 \\div 6 = 3$.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-fracciones-operaciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-fracciones-operaciones-001-v9",
+      "statement": "**ID:** `CO-MAT-6-fracciones-operaciones-001-v9`\r\n\r\n### Enunciado\r\n\r\nEn una receta de cocina dice que por cada $\\frac{1}{2}$ taza de azúcar se necesitan $\\frac{3}{4}$ de taza de harina. Si quieres usar 2 tazas de azúcar, ¿cuánta harina debes usar?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 tazas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$1 \\frac{1}{2}$ tazas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "4 tazas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$2 \\frac{1}{4}$ tazas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSi $\\frac{1}{2}$ equivale a 2 tazas (por 4), multiplicamos $\\frac{3}{4} \\times 4 = 3$.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-fracciones-operaciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-fracciones-operaciones-001-v10",
+      "statement": "**ID:** `CO-MAT-6-fracciones-operaciones-001-v10`\r\n\r\n### Enunciado\r\n\r\nResuelve siguiendo la jerarquía de operaciones: $\\frac{1}{2} + \\frac{3}{4} \\times \\frac{2}{3}$\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{5}{6}$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{4}{5}$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{7}{12}$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n1. Multiplicación: $\\frac{3}{4} \\times \\frac{2}{3} = \\frac{6}{12} = \\frac{1}{2}$.\r\n2. Suma: $\\frac{1}{2} + \\frac{1}{2} = 1$.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-fracciones-operaciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-geometria-angulos-triangulos-001-v1",
+      "statement": "**ID:** `CO-MAT-6-geometria-angulos-triangulos-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se llama el instrumento que se utiliza para medir la amplitud de los ángulos en grados?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transportador",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Compás",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Regla",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Escuadra",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl transportador es una herramienta semicircular o circular graduada en grados (0° a 180° o 360°).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-geometria-angulos-triangulos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-geometria-angulos-triangulos-001-v2",
+      "statement": "**ID:** `CO-MAT-6-geometria-angulos-triangulos-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la medida exacta de un **ángulo recto**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "90°",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "180°",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "45°",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "360°",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nUn ángulo recto se forma cuando dos líneas son perpendiculares, como la esquina de una hoja de papel.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-geometria-angulos-triangulos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-geometria-angulos-triangulos-001-v3",
+      "statement": "**ID:** `CO-MAT-6-geometria-angulos-triangulos-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se clasifican los ángulos que miden **más de 90° pero menos de 180°**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ángulos Obtusos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Ángulos Agudos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Ángulos Llanos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Ángulos Rectos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos ángulos menores de 90° son agudos; los mayores de 90° se llaman obtusos.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-geometria-angulos-triangulos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-geometria-angulos-triangulos-001-v4",
+      "statement": "**ID:** `CO-MAT-6-geometria-angulos-triangulos-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se llama el triángulo que tiene **sus tres lados iguales**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Triángulo Equilátero",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Triángulo Isósceles",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Triángulo Escaleno",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Triángulo Rectángulo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n\"Equi\" significa igual y \"látero\" lado. Tiene lados y ángulos internos iguales (de 60° cada uno).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-geometria-angulos-triangulos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-geometria-angulos-triangulos-001-v5",
+      "statement": "**ID:** `CO-MAT-6-geometria-angulos-triangulos-001-v5`\r\n\r\n### Enunciado\r\n\r\nEn cualquier triángulo, ¿cuánto debe sumar siempre la medida de sus **tres ángulos internos**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Siempre suman 180°",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Siempre suman 360°",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Depende del tamaño del triángulo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Suman 90°",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs una propiedad fundamental de la geometría plana: los ángulos internos de un triángulo siempre cierran en 180°.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-geometria-angulos-triangulos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-geometria-angulos-triangulos-001-v6",
+      "statement": "**ID:** `CO-MAT-6-geometria-angulos-triangulos-001-v6`\r\n\r\n### Enunciado\r\n\r\nSi un triángulo tiene un ángulo que mide **90°**, ¿cómo se clasifica según sus ángulos?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Triángulo Rectángulo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Triángulo Acutángulo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Triángulo Obtusángulo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Triángulo Equilátero",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa presencia de un ángulo recto define al triángulo como rectángulo. El lado opuesto al ángulo recto es la hipotenusa.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-geometria-angulos-triangulos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-geometria-angulos-triangulos-001-v7",
+      "statement": "**ID:** `CO-MAT-6-geometria-angulos-triangulos-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se llama el triángulo que tiene **dos lados iguales y uno diferente**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Triángulo Isósceles",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Triángulo Escaleno",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Triángulo Equilátero",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Triángulo Rectángulo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl triángulo isósceles tiene la curiosidad de que al tener dos lados iguales, también tiene dos ángulos iguales en su base.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-geometria-angulos-triangulos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-geometria-angulos-triangulos-001-v8",
+      "statement": "**ID:** `CO-MAT-6-geometria-angulos-triangulos-001-v8`\r\n\r\n### Enunciado\r\n\r\nSi dos de los ángulos de un triángulo miden 45° y 65°, ¿cuánto mide el tercer ángulo?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "70°",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "110°",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "80°",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "90°",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$180 - (45 + 65) = 180 - 110 = 70$.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-geometria-angulos-triangulos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-geometria-angulos-triangulos-001-v9",
+      "statement": "**ID:** `CO-MAT-6-geometria-angulos-triangulos-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué nombre reciben dos ángulos que al sumarse dan una amplitud exacta de **90°**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ángulos Complementarios",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Ángulos Suplementarios",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Ángulos Opuestos por el vértice",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Ángulos Adyacentes",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nComplementarios suman 90°; Suplementarios suman 180°.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-geometria-angulos-triangulos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-geometria-angulos-triangulos-001-v10",
+      "statement": "**ID:** `CO-MAT-6-geometria-angulos-triangulos-001-v10`\r\n\r\n### Enunciado\r\n\r\nEn un triángulo isósceles, si el ángulo diferente (el del vértice superior) mide 40°, ¿cuánto mide cada uno de los otros dos ángulos iguales de la base?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "70°",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "140°",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "40°",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "60°",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$(180 - 40) \\div 2 = 140 \\div 2 = 70$. Cada ángulo de la base mide 70°.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-geometria-angulos-triangulos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-introduccion-algebra-variables-001-v1",
+      "statement": "**ID:** `CO-MAT-6-introduccion-algebra-variables-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué representa una **variable** (como la letra $x$) en una expresión matemática?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una cantidad desconocida o que puede cambiar su valor",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Siempre el número 0",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una marca de error",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El nombre del matemático que inventó el ejercicio",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLas variables nos permiten generalizar situaciones y representar números que aún no conocemos.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-introduccion-algebra-variables-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-introduccion-algebra-variables-001-v2",
+      "statement": "**ID:** `CO-MAT-6-introduccion-algebra-variables-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se escribe en lenguaje algebraico la expresión: \"**El doble de un número**\"?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2x$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$x + 2$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$x^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$x - 2$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl \"doble\" indica una multiplicación por 2. Como el número es desconocido, usamos una letra ($x$).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-introduccion-algebra-variables-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-introduccion-algebra-variables-001-v3",
+      "statement": "**ID:** `CO-MAT-6-introduccion-algebra-variables-001-v3`\r\n\r\n### Enunciado\r\n\r\nSi $x = 5$, ¿cuál es el valor de la expresión $3x + 4$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "19",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "15",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "27",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nReemplazamos $x$ por 5: $3(5) + 4 = 15 + 4 = 19$.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-introduccion-algebra-variables-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-introduccion-algebra-variables-001-v4",
+      "statement": "**ID:** `CO-MAT-6-introduccion-algebra-variables-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la expresión algebraica para: \"**Un número aumentado en 10**\"?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x + 10$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$10x$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$x - 10$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$x/10$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n\"Aumentado\" es una palabra clave que indica una operación de suma (+).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-introduccion-algebra-variables-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-introduccion-algebra-variables-001-v5",
+      "statement": "**ID:** `CO-MAT-6-introduccion-algebra-variables-001-v5`\r\n\r\n### Enunciado\r\n\r\nResuelve la siguiente ecuación sencilla: $x - 8 = 12$. ¿Cuál es el valor de $x$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "96",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "-4",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPara despejar $x$, el -8 pasa al otro lado a sumar: $x = 12 + 8 = 20$.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-introduccion-algebra-variables-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-introduccion-algebra-variables-001-v6",
+      "statement": "**ID:** `CO-MAT-6-introduccion-algebra-variables-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se representa en lenguaje matemático el perímetro de un cuadrado de lado $a$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4a$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$a^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$a + 4$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$4 - a$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nComo el cuadrado tiene 4 lados iguales, el perímetro es la suma de esos 4 lados: $a+a+a+a = 4a$.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-introduccion-algebra-variables-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-introduccion-algebra-variables-001-v7",
+      "statement": "**ID:** `CO-MAT-6-introduccion-algebra-variables-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el valor de $x$ en la ecuación $2x + 10 = 30$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "20",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n1. Restamos 10 a ambos lados: $2x = 20$.\r\n2. Dividimos por 2: $x = 10$.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-introduccion-algebra-variables-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-introduccion-algebra-variables-001-v8",
+      "statement": "**ID:** `CO-MAT-6-introduccion-algebra-variables-001-v8`\r\n\r\n### Enunciado\r\n\r\nExpresa algebraicamente la frase: \"**La mitad dún número disminuida en 5**\".\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$x/2 - 5$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$(x - 5)/2$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$2x - 5$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$x - 5/2$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n\"La mitad\" es $x/2$. Luego se le resta (\"disminuida\") 5.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-introduccion-algebra-variables-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-introduccion-algebra-variables-001-v9",
+      "statement": "**ID:** `CO-MAT-6-introduccion-algebra-variables-001-v9`\r\n\r\n### Enunciado\r\n\r\nSi la edad de Juan es $x$ y su hermano mayor tiene el triple de la edad de Juan disminuida en 2 años, ¿cuál es la expresión para la edad del hermano?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3x - 2$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$3(x - 2)$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$x/3 - 2$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$x^3 - 2$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl triple de la edad es $3x$. Luego restamos los 2 años: $3x - 2$.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-introduccion-algebra-variables-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-introduccion-algebra-variables-001-v10",
+      "statement": "**ID:** `CO-MAT-6-introduccion-algebra-variables-001-v10`\r\n\r\n### Enunciado\r\n\r\nEn una tienda, cada manzana cuesta $m$ y cada naranja cuesta $n$. Si compras 5 manzanas y 3 naranjas, y pagas con un billete de $20.000, ¿cuál es la expresión de tu **vuelto** (cambio)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$20.000 - (5m + 3n)$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$5m + 3n - 20.000$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$20.000 - 5m - 3n$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Ambas A y C son correctas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl costo total es $5m + 3n$. El cambio es lo que diste menos el costo total. Al quitar el paréntesis en la opción A, obtenemos la opción C.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-introduccion-algebra-variables-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-multiplos-divisores-mcm-mcd-001-v1",
+      "statement": "**ID:** `CO-MAT-6-multiplos-divisores-mcm-mcd-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Cuál de los siguientes números es un múltiplo del número 8?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "24",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "18",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nUn número es múltiplo de 8 si está en su tabla de multiplicar: $8 \\times 3 = 24$.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-multiplos-divisores-mcm-mcd-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-multiplos-divisores-mcm-mcd-001-v2",
+      "statement": "**ID:** `CO-MAT-6-multiplos-divisores-mcm-mcd-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuáles son los divisores del número 10?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1, 2, 5, 10",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "10, 20, 30, 40",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "2, 5",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "1, 10",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos divisores son los números que dividen exactamente a 10 (con residuo cero).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-multiplos-divisores-mcm-mcd-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-multiplos-divisores-mcm-mcd-001-v3",
+      "statement": "**ID:** `CO-MAT-6-multiplos-divisores-mcm-mcd-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué nombre reciben los números que solo tienen dos divisores (el 1 y ellos mismos)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Números Primos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Números Compuestos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Números Pares",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Números Decimales",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEjemplos de números primos son 2, 3, 5, 7, 11, etc.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-multiplos-divisores-mcm-mcd-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-multiplos-divisores-mcm-mcd-001-v4",
+      "statement": "**ID:** `CO-MAT-6-multiplos-divisores-mcm-mcd-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la descomposición del número 30 en sus factores primos?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2 \\times 3 \\times 5$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$6 \\times 5$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$2 \\times 15$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$3 \\times 10$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n30 es par ($2 \\times 15$), 15 es divisible por 3 ($3 \\times 5$), y 5 es primo.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-multiplos-divisores-mcm-mcd-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-multiplos-divisores-mcm-mcd-001-v5",
+      "statement": "**ID:** `CO-MAT-6-multiplos-divisores-mcm-mcd-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el **Mínimo Común Múltiplo (mcm)** de los números 4 y 6?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "24",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nMúltiplos de 4: {4, 8, **12**, 16...}. Múltiplos de 6: {6, **12**, 18...}. El menor múltiplo común es 12.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-multiplos-divisores-mcm-mcd-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-multiplos-divisores-mcm-mcd-001-v6",
+      "statement": "**ID:** `CO-MAT-6-multiplos-divisores-mcm-mcd-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el **Máximo Común Divisor (mcd)** de los números 12 y 18?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "36",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nDivisores de 12: {1, 2, 3, 4, **6**, 12}. Divisores de 18: {1, 2, 3, **6**, 9, 18}. El mayor común es 6.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-multiplos-divisores-mcm-mcd-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-multiplos-divisores-mcm-mcd-001-v7",
+      "statement": "**ID:** `CO-MAT-6-multiplos-divisores-mcm-mcd-001-v7`\r\n\r\n### Enunciado\r\n\r\nEn el paradero, el bus A pasa cada 10 minutos y el bus B cada 15 minutos. Si acaban de salir juntos a las 8:00 AM, ¿a qué hora volverán a coincidir en la salida?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8:30 AM",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "8:15 AM",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "8:25 AM",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "9:00 AM",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSe calcula el mcm de 10 y 15. mcm(10, 15) = 30. Volverán a coincidir en 30 minutos.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-multiplos-divisores-mcm-mcd-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-multiplos-divisores-mcm-mcd-001-v8",
+      "statement": "**ID:** `CO-MAT-6-multiplos-divisores-mcm-mcd-001-v8`\r\n\r\n### Enunciado\r\n\r\nSe desean repartir 20 naranjas y 30 manzanas en canastas iguales que contengan la mayor cantidad de frutas posible, sin que sobre ninguna. ¿Cuántas frutas irán en cada canasta?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 frutas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "5 frutas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "2 frutas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "60 frutas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSe calcula el mcd de 20 y 30. mcd(20, 30) = 10. Se harán canastas de 10 frutas.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-multiplos-divisores-mcm-mcd-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-multiplos-divisores-mcm-mcd-001-v9",
+      "statement": "**ID:** `CO-MAT-6-multiplos-divisores-mcm-mcd-001-v9`\r\n\r\n### Enunciado\r\n\r\nSi un número es divisible por 2 y por 3 al mismo tiempo, ¿por qué otro número es necesariamente divisible?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por 6",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Por 5",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Por 1",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Por 9",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSi un número cumple el criterio de divisibilidad del 2 (par) y del 3 (suma de cifras múltiplo de 3), es divisible por su producto (6).\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-multiplos-divisores-mcm-mcd-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-multiplos-divisores-mcm-mcd-001-v10",
+      "statement": "**ID:** `CO-MAT-6-multiplos-divisores-mcm-mcd-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el valor del mcm de tres números primos diferentes, por ejemplo 2, 3 y 5?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Su producto (30)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Su suma (10)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El mayor de ellos (5)",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nComo los números primos no tienen factores comunes entre sí, el mcm es simplemente la multiplicación de todos ellos.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-multiplos-divisores-mcm-mcd-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-numeros-decimales-operaciones-001-v1",
+      "statement": "**ID:** `CO-MAT-6-numeros-decimales-operaciones-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se lee correctamente el número decimal **3,45**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tres enteros y cuarenta y cinco centésimas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Trescientos cuarenta y cinco",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Tres enteros y cuarenta y cinco décimas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Tres punto cuarenta y cinco milésimas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa primera cifra después de la coma son décimas y la segunda centésimas.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-numeros-decimales-operaciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-numeros-decimales-operaciones-001-v2",
+      "statement": "**ID:** `CO-MAT-6-numeros-decimales-operaciones-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el resultado de sumar **0,5 + 0,25**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,75",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "0,30",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "0,525",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "1,0",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAlinear las comas: 0,50 + 0,25 = 0,75.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-numeros-decimales-operaciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-numeros-decimales-operaciones-001-v3",
+      "statement": "**ID:** `CO-MAT-6-numeros-decimales-operaciones-001-v3`\r\n\r\n### Enunciado\r\n\r\nAl multiplicar un número decimal por 10, ¿hacia dónde se desplaza la coma?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una posición hacia la derecha",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una posición hacia la izquierda",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Dos posiciones hacia la derecha",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La coma desaparece",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nMultiplicar por potencias de 10 hace que el número sea más grande, desplazando la coma a la derecha.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-numeros-decimales-operaciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-numeros-decimales-operaciones-001-v4",
+      "statement": "**ID:** `CO-MAT-6-numeros-decimales-operaciones-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el resultado de **1,2 \\times 0,3**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,36",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "3,6",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "0,036",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "1,5",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$12 \\times 3 = 36$. Como hay dos cifras decimales en total (una en cada factor), el resultado es 0,36.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-numeros-decimales-operaciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-numeros-decimales-operaciones-001-v5",
+      "statement": "**ID:** `CO-MAT-6-numeros-decimales-operaciones-001-v5`\r\n\r\n### Enunciado\r\n\r\nSi compras 3 cuadernos a $2.450,5 por unidad, ¿cuánto pagas en total?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$7.351,5",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$7.350,5",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$6.450,5",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$7.000",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$2.450,5 \\times 3 = 7.351,5$.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-numeros-decimales-operaciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-numeros-decimales-operaciones-001-v6",
+      "statement": "**ID:** `CO-MAT-6-numeros-decimales-operaciones-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el resultado de dividir **4,5 \\div 2**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2,25",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "2,5",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "9,0",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "2,2",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa mitad de 4 es 2 y la mitad de 0,5 es 0,25. Total: 2,25.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-numeros-decimales-operaciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-numeros-decimales-operaciones-001-v7",
+      "statement": "**ID:** `CO-MAT-6-numeros-decimales-operaciones-001-v7`\r\n\r\n### Enunciado\r\n\r\nOrdena los siguientes decimales de menor a mayor: **0,105; 0,15; 0,09 ; 0,1**\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,09 < 0,1 < 0,105 < 0,15",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "0,1 < 0,15 < 0,105 < 0,09",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "0,15 < 0,105 < 0,1 < 0,09",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "0,09 < 0,105 < 0,1 < 0,15",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nIgualando cifras decimales (milésimas): 0,090 < 0,100 < 0,105 < 0,150.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-numeros-decimales-operaciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-numeros-decimales-operaciones-001-v8",
+      "statement": "**ID:** `CO-MAT-6-numeros-decimales-operaciones-001-v8`\r\n\r\n### Enunciado\r\n\r\nUn atleta recorre 10,5 km el lunes, 8,25 km el martes y 12,4 km el miércoles. ¿Cuál es el promedio de kilómetros recorridos por día?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10,38 km",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "31,15 km",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "10,5 km",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "9,8 km",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSuma total: $10,5 + 8,25 + 12,4 = 31,15$. Promedio: $31,15 \\div 3 = 10,3833... \\approx 10,38$.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-numeros-decimales-operaciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-numeros-decimales-operaciones-001-v9",
+      "statement": "**ID:** `CO-MAT-6-numeros-decimales-operaciones-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el resultado de **0,25 \\div 0,05**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "0,5",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "50",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "0,005",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nConvertimos a enteros multiplicando ambos por 100: $25 \\div 5 = 5$.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-numeros-decimales-operaciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-numeros-decimales-operaciones-001-v10",
+      "statement": "**ID:** `CO-MAT-6-numeros-decimales-operaciones-001-v10`\r\n\r\n### Enunciado\r\n\r\nSi un dólar equivale a $4.150,75 pesos colombianos, ¿cuántos pesos recibes por 12,5 dólares?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$51.884,375",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$51.875,00",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$41.507,50",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$50.000,00",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$4.150,75 \\times 12,5$. Multiplicación de decimales considerando todas las posiciones decimales resultantes.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-numeros-decimales-operaciones-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-numeros-enteros-001-v1",
+      "statement": "**ID:** `CO-MAT-6-numeros-enteros-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Cuál de los siguientes números es un número entero negativo?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-5",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{1}{2}$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos números enteros negativos van precedidos por el signo menos (-) y están a la izquierda del cero en la recta numérica.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-numeros-enteros-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-numeros-enteros-001-v2",
+      "statement": "**ID:** `CO-MAT-6-numeros-enteros-001-v2`\r\n\r\n### Enunciado\r\n\r\nEn la recta numérica, ¿cuál es el número opuesto de **+7**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-7",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "+7",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nDos números son opuestos si están a la misma distancia del cero pero en sentidos contrarios.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-numeros-enteros-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-numeros-enteros-001-v3",
+      "statement": "**ID:** `CO-MAT-6-numeros-enteros-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Cómo representarías con un número entero la situación: \"Un submarino se encuentra a **200 metros bajo el nivel del mar**\"?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-200",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "+200",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "-2",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl nivel del mar se toma como punto de referencia cero. Lo que está por debajo se representa con números negativos.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-numeros-enteros-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-numeros-enteros-001-v4",
+      "statement": "**ID:** `CO-MAT-6-numeros-enteros-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el **valor absoluto** del número -15, representado como $|-15|$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "-15",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl valor absoluto es la distancia de un número al cero, y las distancias siempre son positivas.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-numeros-enteros-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-numeros-enteros-001-v5",
+      "statement": "**ID:** `CO-MAT-6-numeros-enteros-001-v5`\r\n\r\n### Enunciado\r\n\r\nOrdena los siguientes números de menor a mayor: **-3, 5, 0, -8, 2**\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-8, -3, 0, 2, 5",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "0, 2, -3, 5, -8",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "-3, -8, 0, 2, 5",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "5, 2, 0, -3, -8",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEn los números negativos, es menor el que esté más lejos del cero (el que tenga mayor valor absoluto).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-numeros-enteros-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-numeros-enteros-001-v6",
+      "statement": "**ID:** `CO-MAT-6-numeros-enteros-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el resultado de la operación **-5 + 8**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "+3",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "-13",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "-3",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "+13",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAl sumar números con distinto signo, se restan sus valores absolutos ($8 - 5 = 3$) y se deja el signo del mayor (+).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-numeros-enteros-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-numeros-enteros-001-v7",
+      "statement": "**ID:** `CO-MAT-6-numeros-enteros-001-v7`\r\n\r\n### Enunciado\r\n\r\nSi la temperatura en una ciudad de Alaska es de -12 °C y sube 7 °C, ¿cuál es la nueva temperatura?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-5 °C",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "-19 °C",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "+5 °C",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "+19 °C",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$-12 + 7 = -5$. Como sube, nos movemos hacia la derecha en la recta numérica.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-numeros-enteros-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-numeros-enteros-001-v8",
+      "statement": "**ID:** `CO-MAT-6-numeros-enteros-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el resultado de la resta **-4 - (-6)**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "+2",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "-10",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "-2",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "+10",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nRestar un número es lo mismo que sumar su opuesto: $-4 + (+6) = +2$.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-numeros-enteros-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-numeros-enteros-001-v9",
+      "statement": "**ID:** `CO-MAT-6-numeros-enteros-001-v9`\r\n\r\n### Enunciado\r\n\r\nUn ascensor está en el sótano 2 (-2). Sube 5 pisos, luego baja 3 y finalmente sube 10. ¿En qué piso quedó el ascensor?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Piso 10",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Piso 8",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Piso 12",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Piso 14",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nOperación: $-2 + 5 - 3 + 10 = 3 - 3 + 10 = 10$.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-numeros-enteros-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-numeros-enteros-001-v10",
+      "statement": "**ID:** `CO-MAT-6-numeros-enteros-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Cuál de las siguientes afirmaciones es CORRECTA sobre los números enteros?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cualquier número positivo es mayor que cualquier número negativo.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El cero es un número positivo.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El número -100 es mayor que -1.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El valor absoluto de un número puede ser negativo.",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEn la recta numérica, todos los números a la derecha (positivos) siempre son mayores que los de la izquierda (negativos).",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-numeros-enteros-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-numeros-naturales-potencias-001-v1",
+      "statement": "**ID:** `CO-MAT-6-numeros-naturales-potencias-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Cuál de las siguientes expresiones representa el número \"cinco mil ochenta y dos\" en cifras?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5.082",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "5.820",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "50.820",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "5.000.82",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl número tiene 5 unidades de mil, 0 centenas, 8 decenas y 2 unidades.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-numeros-naturales-potencias-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-numeros-naturales-potencias-001-v2",
+      "statement": "**ID:** `CO-MAT-6-numeros-naturales-potencias-001-v2`\r\n\r\n### Enunciado\r\n\r\nEn la potencia $2^3$, ¿cuál es el nombre que recibe el número 3?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exponente",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Base",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Producto",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Factor",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEn la potenciación, el número de abajo es la base y el pequeño de arriba es el exponente.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-numeros-naturales-potencias-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-numeros-naturales-potencias-001-v3",
+      "statement": "**ID:** `CO-MAT-6-numeros-naturales-potencias-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el valor del número romano **LXXIV** en el sistema decimal?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "74",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "54",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "124",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "64",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nL (50) + XX (20) + IV (4) = 74.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-numeros-naturales-potencias-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-numeros-naturales-potencias-001-v4",
+      "statement": "**ID:** `CO-MAT-6-numeros-naturales-potencias-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el resultado de la potencia $5^3$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "125",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "15",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "25",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "75",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$5^3 = 5 \\times 5 \\times 5 = 25 \\times 5 = 125$.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-numeros-naturales-potencias-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-numeros-naturales-potencias-001-v5",
+      "statement": "**ID:** `CO-MAT-6-numeros-naturales-potencias-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la propiedad de los números naturales que dice que $a + b = b + a$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Propiedad Conmutativa",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Propiedad Asociativa",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Propiedad Distributiva",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Propiedad Modulativa",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa propiedad conmutativa indica que el orden de los sumandos no altera el resultado.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-numeros-naturales-potencias-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-numeros-naturales-potencias-001-v6",
+      "statement": "**ID:** `CO-MAT-6-numeros-naturales-potencias-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se expresa como una sola potencia el producto $4^2 \\times 4^3$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$4^5$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$4^6$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$16^5$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$4^1$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAl multiplicar potencias de igual base, se deja la misma base y se suman los exponentes ($2 + 3 = 5$).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-numeros-naturales-potencias-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-numeros-naturales-potencias-001-v7",
+      "statement": "**ID:** `CO-MAT-6-numeros-naturales-potencias-001-v7`\r\n\r\n### Enunciado\r\n\r\nResuelve la siguiente operación combinada respetando la jerarquía: $15 + 2 \\times 3^2 - 4$\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "29",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "149",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "31",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "21",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n1. Potencias: $3^2 = 9$.\r\n2. Multiplicaciones: $2 \\times 9 = 18$.\r\n3. Sumas y restas: $15 + 18 - 4 = 33 - 4 = 29$.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-numeros-naturales-potencias-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-numeros-naturales-potencias-001-v8",
+      "statement": "**ID:** `CO-MAT-6-numeros-naturales-potencias-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el valor de $x$ en la ecuación $2^x = 64$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "32",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$2 \\times 2 \\times 2 \\times 2 \\times 2 \\times 2 = 64$. Se multiplica el 2 seis veces.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-numeros-naturales-potencias-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-numeros-naturales-potencias-001-v9",
+      "statement": "**ID:** `CO-MAT-6-numeros-naturales-potencias-001-v9`\r\n\r\n### Enunciado\r\n\r\nSi en un cultivo de bacterias la población se triplica cada hora, y al iniciar hay 1 bacteria, ¿cuántas bacterias habrá después de 5 horas? Expresa el resultado como potencia y su valor.\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3^5 = 243$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$3^4 = 81$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$5^3 = 125$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$1 \\times 3 \\times 5 = 15$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs un crecimiento exponencial: Hora 0: 1, Hora 1: 3 ($3^1$), Hora 2: 9 ($3^2$), ..., Hora 5: $3^5$.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-numeros-naturales-potencias-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-numeros-naturales-potencias-001-v10",
+      "statement": "**ID:** `CO-MAT-6-numeros-naturales-potencias-001-v10`\r\n\r\n### Enunciado\r\n\r\nAplica la propiedad distributiva para calcular mentalmente $12 \\times 105$. ¿Cuál es el procedimiento correcto?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$12 \\times (100 + 5) = 1.200 + 60 = 1.260$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$(10 + 2) \\times (100 \\times 5) = 12 \\times 500 = 6.000$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$12 \\times 100 \\times 5 = 6.000$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$12 + 100 + 5 = 117$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nDescomponemos 105 en 100 + 5 para multiplicar más fácilmente cada parte y luego sumar los resultados.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-numeros-naturales-potencias-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-pensamiento-aleatorio-datos-001-v1",
+      "statement": "**ID:** `CO-MAT-6-pensamiento-aleatorio-datos-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se llama un experimento cuyo resultado no se puede predecir con exactitud antes de realizarlo, como lanzar un dado?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Experimento Aleatorio",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Experimento Determinista",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Experimento Científico",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Experimento de Control",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEn el azar, aunque conozcamos las opciones, no sabemos cuál saldrá en un intento específico.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-pensamiento-aleatorio-datos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-pensamiento-aleatorio-datos-001-v2",
+      "statement": "**ID:** `CO-MAT-6-pensamiento-aleatorio-datos-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **espacio muestral** de un experimento?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El conjunto de todos los resultados posibles del experimento",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El lugar donde se hace la encuesta",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El resultado que yo quiero que salga",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La cantidad de personas que no respondieron",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPor ejemplo, el espacio muestral de lanzar una moneda es {Cara, Sello}.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-pensamiento-aleatorio-datos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-pensamiento-aleatorio-datos-001-v3",
+      "statement": "**ID:** `CO-MAT-6-pensamiento-aleatorio-datos-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el espacio muestral al lanzar un dado de 6 caras?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "{1, 2, 3, 4, 5, 6}",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "{Cara, Sello}",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "{Par, Impar}",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "{1, 6}",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSon todos los números que pueden aparecer en la cara superior del dado.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-pensamiento-aleatorio-datos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-pensamiento-aleatorio-datos-001-v4",
+      "statement": "**ID:** `CO-MAT-6-pensamiento-aleatorio-datos-001-v4`\r\n\r\n### Enunciado\r\n\r\nSi en un experimento todos los resultados tienen la misma probabilidad de salir, se dice que son:\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Equiprobables",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Imposibles",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Aleatorios",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Progresivos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nUn dado normal es equiprobable porque cada número tiene $1/6$ de probabilidad.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-pensamiento-aleatorio-datos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-pensamiento-aleatorio-datos-001-v5",
+      "statement": "**ID:** `CO-MAT-6-pensamiento-aleatorio-datos-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Para qué sirve recolectar una gran cantidad de datos en un experimento aleatorio?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que la frecuencia relativa se acerque más a la probabilidad teórica (Ley de los grandes números)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Para perder más tiempo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Para que el experimento deje de ser aleatorio",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No sirve para nada",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEntre más veces lancemos una moneda, el porcentaje de caras estará más cerca del 50%.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-pensamiento-aleatorio-datos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-pensamiento-aleatorio-datos-001-v6",
+      "statement": "**ID:** `CO-MAT-6-pensamiento-aleatorio-datos-001-v6`\r\n\r\n### Enunciado\r\n\r\nEn un grupo de 20 estudiantes, 12 prefieren el helado de chocolate y 8 el de vainilla. Si elegimos uno al azar, ¿es más probable que prefiera vainilla?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No, es más probable que prefiera chocolate porque tiene mayor frecuencia",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Sí, es muy probable",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Tienen la misma probabilidad",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Depende del clima",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa probabilidad está ligada a la frecuencia: Chocolate (12/20 = 60%) > Vainilla (8/20 = 40%).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-pensamiento-aleatorio-datos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-pensamiento-aleatorio-datos-001-v7",
+      "statement": "**ID:** `CO-MAT-6-pensamiento-aleatorio-datos-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se representa gráficamente la distribución de los resultados de un experimento aleatorio con muchas repeticiones?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mediante un Histograma o un polígono de frecuencias",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Con un dibujo libre",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Con una tabla de multiplicar",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Con un mapa geográfico",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEstos gráficos permiten visualizar tendencias y comportamientos de los datos aleatorios.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-pensamiento-aleatorio-datos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-pensamiento-aleatorio-datos-001-v8",
+      "statement": "**ID:** `CO-MAT-6-pensamiento-aleatorio-datos-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la probabilidad de que una pareja tenga **tres hijos** y todos sean hombres? (Suponiendo que hombre/mujer es 50% cada uno).\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1/8$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$1/3$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$1/6$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$1/2$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$1/2 \\times 1/2 \\times 1/2 = 1/8$. Hay 8 combinaciones posibles de hijos.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-pensamiento-aleatorio-datos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-pensamiento-aleatorio-datos-001-v9",
+      "statement": "**ID:** `CO-MAT-6-pensamiento-aleatorio-datos-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué significa que dos eventos sean **independientes** en probabilidad?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el resultado del primer evento no afecta para nada el resultado del segundo evento",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Que los dos eventos ocurren al mismo tiempo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Que un evento obliga a que el otro ocurra",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Que no se pueden medir",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLanzar una moneda dos veces son eventos independientes: lo que salga en la primera no cambia lo que saldrá en la segunda.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-pensamiento-aleatorio-datos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-pensamiento-aleatorio-datos-001-v10",
+      "statement": "**ID:** `CO-MAT-6-pensamiento-aleatorio-datos-001-v10`\r\n\r\n### Enunciado\r\n\r\nSi en una bolsa hay bolas numeradas del 1 al 10, ¿cuál es la probabilidad de sacar un número que sea **primo o par**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$8/10$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$5/10$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$10/10$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$7/10$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPrimos: {2, 3, 5, 7}. Pares: {2, 4, 6, 8, 10}. Unión sin repetir: {2, 3, 4, 5, 6, 7, 8, 10} = 8 casos.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-pensamiento-aleatorio-datos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-perimetro-area-poligonos-001-v1",
+      "statement": "**ID:** `CO-MAT-6-perimetro-area-poligonos-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **perímetro** de una figura geométrica?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La suma de las longitudes de todos los lados de la figura",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El espacio que ocupa la figura por dentro",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El número de vértices que tiene",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La medida de sus ángulos internos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl perímetro es la medida del contorno o borde de una figura cerrada.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-perimetro-area-poligonos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-perimetro-area-poligonos-001-v2",
+      "statement": "**ID:** `CO-MAT-6-perimetro-area-poligonos-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la fórmula para calcular el **área de un rectángulo**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Base $\\times$ Altura",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Lado $+$ Lado $+$ Lado $+$ Lado",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(Base $\\times$ Altura) $\\div$ 2",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Lado $\\times$ Lado $\\times$ Lado",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl área del rectángulo representa cuántos cuadrados de una unidad caben en su superficie, multiplicando el largo por el ancho.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-perimetro-area-poligonos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-perimetro-area-poligonos-001-v3",
+      "statement": "**ID:** `CO-MAT-6-perimetro-area-poligonos-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el perímetro de un **cuadrado** que mide 6 cm de lado?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "24 cm",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "36 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "12 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "18 cm",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$P = 4 \\times \\text{lado} = 4 \\times 6 = 24$.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-perimetro-area-poligonos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-perimetro-area-poligonos-001-v4",
+      "statement": "**ID:** `CO-MAT-6-perimetro-area-poligonos-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el área de un **triángulo** que tiene una base de 8 cm y una altura de 5 cm?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 $cm^2$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "40 $cm^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "13 $cm^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "26 $cm^2$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$Área = (Base \\times Altura) \\div 2 = (8 \\times 5) \\div 2 = 40 \\div 2 = 20$.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-perimetro-area-poligonos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-perimetro-area-poligonos-001-v5",
+      "statement": "**ID:** `CO-MAT-6-perimetro-area-poligonos-001-v5`\r\n\r\n### Enunciado\r\n\r\nSi un rectángulo tiene un área de 50 $cm^2$ y su base mide 10 cm, ¿cuánto mide su altura?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 cm",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "40 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "10 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "15 cm",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$Área = Base \\times Altura$ $\\rightarrow$ $50 = 10 \\times h$ $\\rightarrow$ $h = 50 \\div 10 = 5$.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-perimetro-area-poligonos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-perimetro-area-poligonos-001-v6",
+      "statement": "**ID:** `CO-MAT-6-perimetro-area-poligonos-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el perímetro de un hexágono regular (6 lados iguales) si cada uno de sus lados mide 4 metros?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "24 metros",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "10 metros",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "36 metros",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "48 metros",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$P = 6 \\times \\text{lado} = 6 \\times 4 = 24$.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-perimetro-area-poligonos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-perimetro-area-poligonos-001-v7",
+      "statement": "**ID:** `CO-MAT-6-perimetro-area-poligonos-001-v7`\r\n\r\n### Enunciado\r\n\r\nSe tiene un patio cuadrado de 8 metros de lado. Se quiere poner una baldosa que cuesta $15.000 el metro cuadrado. ¿Cuánto cuesta embaldosar todo el patio?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$960.000",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$120.000",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$480.000",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$1.200.000",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n1. Área del patio: $8 \\times 8 = 64$ $m^2$.\r\n2. Costo: $64 \\times 15.000 = 960.000$.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-perimetro-area-poligonos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-perimetro-area-poligonos-001-v8",
+      "statement": "**ID:** `CO-MAT-6-perimetro-area-poligonos-001-v8`\r\n\r\n### Enunciado\r\n\r\nUn rectángulo y un cuadrado tienen el mismo perímetro de 20 cm. Si la base del rectángulo mide 7 cm, ¿cuál de las dos figuras tiene mayor área?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cuadrado (Área = 25 $cm^2$)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El rectángulo (Área = 21 $cm^2$)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Ambas tienen la misma área",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El rectángulo (Área = 25 $cm^2$)",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nCuadrado: Lado = $20 \\div 4 = 5$, Área = $5 \\times 5 = 25$. Rectángulo: $2(7 + h) = 20 \\rightarrow 7 + h = 10 \\rightarrow h = 3$, Área = $7 \\times 3 = 21$.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-perimetro-area-poligonos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-perimetro-area-poligonos-001-v9",
+      "statement": "**ID:** `CO-MAT-6-perimetro-area-poligonos-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el **área de un trapecio** que tiene una base mayor de 10 cm, una base menor de 6 cm y una altura de 4 cm?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "32 $cm^2$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "64 $cm^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "30 $cm^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "16 $cm^2$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$Área = \\frac{(B + b) \\times h}{2} = \\frac{(10 + 6) \\times 4}{2} = \\frac{16 \\times 4}{2} = \\frac{64}{2} = 32$.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-perimetro-area-poligonos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-perimetro-area-poligonos-001-v10",
+      "statement": "**ID:** `CO-MAT-6-perimetro-area-poligonos-001-v10`\r\n\r\n### Enunciado\r\n\r\nUn jardín tiene forma de L, compuesto por dos rectángulos unidos. El primero mide 4m $\\times$ 2m y el segundo 6m $\\times$ 3m. Si se quiere cercar con una malla, ¿cuántos metros de malla se necesitan? (Considera que comparten un lado de 2m que no se cerca).\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "22 metros",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "30 metros",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "26 metros",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "18 metros",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPerímetro total externo: Suma de todos los lados exteriores. $4+2+(6-4)+3+6+(3+2)$ es un ejemplo de cálculo de bordes. (El cálculo detallado de los lados exteriores da 22m).",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-perimetro-area-poligonos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-plano-cartesiano-001-v1",
+      "statement": "**ID:** `CO-MAT-6-plano-cartesiano-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se llama la línea horizontal en un plano cartesiano?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eje X (Eje de las Abscisas)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Eje Y (Eje de las Ordenadas)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Punto de Origen",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Cuadrante",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl plano se forma por dos rectas perpendiculares. La horizontal es la de las abscisas o eje X.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-plano-cartesiano-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-plano-cartesiano-001-v2",
+      "statement": "**ID:** `CO-MAT-6-plano-cartesiano-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuáles son las coordenadas del **Origen** del plano cartesiano?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(0, 0)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(1, 1)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(0, 1)",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(1, 0)",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl origen es el punto exacto donde las dos rectas se cruzan.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-plano-cartesiano-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-plano-cartesiano-001-v3",
+      "statement": "**ID:** `CO-MAT-6-plano-cartesiano-001-v3`\r\n\r\n### Enunciado\r\n\r\nEn la pareja ordenada **(4, -2)**, ¿cuál de los números representa la posición en el **Eje Y**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "-2",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El paréntesis",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEn una pareja $(x, y)$, el primer número corresponde al eje X y el segundo al eje Y.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-plano-cartesiano-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-plano-cartesiano-001-v4",
+      "statement": "**ID:** `CO-MAT-6-plano-cartesiano-001-v4`\r\n\r\n### Enunciado\r\n\r\nSi un punto tiene coordenadas **(-3, 5)**, ¿en qué cuadrante se encuentra ubicado?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Segundo Cuadrante (x negativo, y positivo)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Primer Cuadrante",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Tercer Cuadrante",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Cuarto Cuadrante",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl segundo cuadrante es el que está arriba a la izquierda.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-plano-cartesiano-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-plano-cartesiano-001-v5",
+      "statement": "**ID:** `CO-MAT-6-plano-cartesiano-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el resultado de mover el punto **(2, 3)** cuatro unidades hacia la izquierda?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(-2, 3)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(6, 3)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(2, -1)",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(-2, -1)",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nMover a la izquierda significa restar al eje X: $2 - 4 = -2$. El eje Y no cambia.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-plano-cartesiano-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-plano-cartesiano-001-v6",
+      "statement": "**ID:** `CO-MAT-6-plano-cartesiano-001-v6`\r\n\r\n### Enunciado\r\n\r\nSi un punto se encuentra sobre el **Eje Y**, ¿cuál es el valor de su coordenada **x**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Siempre es 0",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Siempre es 1",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Puede ser cualquier número",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Es un número negativo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nCualquier punto que no se mueva ni a la derecha ni a la izquierda (x=0) está sobre el eje vertical.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-plano-cartesiano-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-plano-cartesiano-001-v7",
+      "statement": "**ID:** `CO-MAT-6-plano-cartesiano-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué figura geométrica se forma al unir los puntos **A(0,0), B(4,0) y C(0,3)**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un triángulo rectángulo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un cuadrado",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un círculo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un rombo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos puntos forman un ángulo recto en el origen (0,0) al unir los catetos de longitud 4 (eje X) y 3 (eje Y).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-plano-cartesiano-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-plano-cartesiano-001-v8",
+      "statement": "**ID:** `CO-MAT-6-plano-cartesiano-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la distancia entre el punto **P(2, 3)** y el punto **Q(2, -5)**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 unidades",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "2 unidades",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "-2 unidades",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "3 unidades",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nComo tienen la misma coordenada x, la distancia es la resta de las y: $|3 - (-5)| = |3 + 5| = 8$.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-plano-cartesiano-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-plano-cartesiano-001-v9",
+      "statement": "**ID:** `CO-MAT-6-plano-cartesiano-001-v9`\r\n\r\n### Enunciado\r\n\r\nSi el punto **M** es el punto medio entre **A(1, 2) y B(5, 8)**, ¿cuáles son las coordenadas de **M**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(3, 5)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(4, 6)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(6, 10)",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(2, 3)",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPunto medio: $(\\frac{1+5}{2}, \\frac{2+8}{2}) = (3, 5)$.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-plano-cartesiano-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-plano-cartesiano-001-v10",
+      "statement": "**ID:** `CO-MAT-6-plano-cartesiano-001-v10`\r\n\r\n### Enunciado\r\n\r\nSe tiene un cuadrado cuyos vértices son **(1,1), (4,1), (4,4) y (1,4)**. Si movemos todo el cuadrado 3 unidades hacia abajo, ¿cuál será el nuevo vértice que corresponde a (4,4)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(4, 1)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(1, 4)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(7, 4)",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(4, 7)",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nMover hacia abajo significa restar 3 a la coordenada y: $(4, 4-3) = (4, 1)$.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-plano-cartesiano-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-probabilidad-basica-001-v1",
+      "statement": "**ID:** `CO-MAT-6-probabilidad-basica-001-v1`\r\n\r\n### Enunciado\r\n\r\nAl lanzar un dado normal de 6 caras, ¿cómo se clasifica el evento: \"Obtener un número entre 1 y 6\"?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evento Seguro",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Evento Posible",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Evento Imposible",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Evento Poco probable",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nUn evento es seguro cuando sucederá sin ninguna duda, pues abarca todas las opciones disponibles.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-probabilidad-basica-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-probabilidad-basica-001-v2",
+      "statement": "**ID:** `CO-MAT-6-probabilidad-basica-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuál de los siguientes eventos es **imposible** al lanzar una moneda?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que caiga el número 5",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Que caiga Cara",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Que caiga Sello",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Que se caiga al piso o la atrape alguien",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAl lanzar una moneda solo existen dos opciones lógicas (cara o sello). Obtener un número es imposible porque no está entre las posibilidades.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-probabilidad-basica-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-probabilidad-basica-001-v3",
+      "statement": "**ID:** `CO-MAT-6-probabilidad-basica-001-v3`\r\n\r\n### Enunciado\r\n\r\nSi lanzas una moneda, ¿cuál es la probabilidad de obtener **Sello**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1/2$ (o el 50%)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$1/4$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nHay 1 opción favorable (Sello) entre 2 opciones totales (Cara y Sello).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-probabilidad-basica-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-probabilidad-basica-001-v4",
+      "statement": "**ID:** `CO-MAT-6-probabilidad-basica-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la probabilidad de que mañana salga el Sol por el Oriente?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "0,5",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No se puede saber",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nUn evento seguro tiene una probabilidad de 1 (o 100%).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-probabilidad-basica-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-probabilidad-basica-001-v5",
+      "statement": "**ID:** `CO-MAT-6-probabilidad-basica-001-v5`\r\n\r\n### Enunciado\r\n\r\nEn una bolsa hay 3 bolas rojas y 7 bolas azules. Si sacas una bola sin mirar, ¿cuál es la probabilidad de que sea **roja**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3/10$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$3/7$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$7/10$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$1/3$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa probabilidad es el número de casos favorables (3 rojas) dividido por el total de casos posibles ($3+7=10$).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-probabilidad-basica-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-probabilidad-basica-001-v6",
+      "statement": "**ID:** `CO-MAT-6-probabilidad-basica-001-v6`\r\n\r\n### Enunciado\r\n\r\nAl lanzar un dado de 6 caras, ¿cuál es la probabilidad de obtener un **número par**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3/6$ (o $1/2$)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$1/6$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$2/6$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$5/6$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nCasos favorables: {2, 4, 6} = 3 casos. Casos totales: {1, 2, 3, 4, 5, 6} = 6 casos.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-probabilidad-basica-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-probabilidad-basica-001-v7",
+      "statement": "**ID:** `CO-MAT-6-probabilidad-basica-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la probabilidad de que al lanzar un dado obtengas un número **mayor que 4**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2/6$ (o $1/3$)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$4/6$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$1/6$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$2/4$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nCasos favorables: {5, 6} = 2 casos. Casos totales: 6. Simplificando: $1/3$.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-probabilidad-basica-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-probabilidad-basica-001-v8",
+      "statement": "**ID:** `CO-MAT-6-probabilidad-basica-001-v8`\r\n\r\n### Enunciado\r\n\r\nSi se lanzan **dos monedas** al mismo tiempo, ¿cuál es la probabilidad de que en ambas caiga Cara?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1/4$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$1/2$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$2/4$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$1/3$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nOpciones totales: {(C,C), (C,S), (S,C), (S,S)} = 4 casos. Solo 1 es (Cara, Cara).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-probabilidad-basica-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-probabilidad-basica-001-v9",
+      "statement": "**ID:** `CO-MAT-6-probabilidad-basica-001-v9`\r\n\r\n### Enunciado\r\n\r\nEn una rifa de 100 boletas, tú compraste 5 boletas. ¿Qué probabilidad tienes de ganar expresada en porcentaje?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5%",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "0,5%",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "50%",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "1/5",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$5/100 = 0,05$. Para pasar a porcentaje multiplicamos por 100: $0,05 \\times 100 = 5\\%$.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-probabilidad-basica-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-probabilidad-basica-001-v10",
+      "statement": "**ID:** `CO-MAT-6-probabilidad-basica-001-v10`\r\n\r\n### Enunciado\r\n\r\nSi la probabilidad de que llueva mañana es de $2/5$, ¿cuál es la probabilidad de que **no llueva**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3/5$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$1/5$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$5/2$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa suma de la probabilidad de que un evento ocurra y de que no ocurra siempre debe ser igual a 1. $1 - 2/5 = 3/5$.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-probabilidad-basica-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-problemas-numeros-naturales-001-v1",
+      "statement": "**ID:** `CO-MAT-6-problemas-numeros-naturales-001-v1`\r\n\r\n### Enunciado\r\n\r\nUn camión transporta 120 cajas de manzanas. Si cada caja tiene 25 manzanas, ¿cuántas manzanas lleva el camión en total?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3.000",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "1.200",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "2.500",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "300",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPara hallar el total se debe multiplicar la cantidad de cajas por las manzanas de cada caja: $120 \\times 25 = 3.000$.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-problemas-numeros-naturales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-problemas-numeros-naturales-001-v2",
+      "statement": "**ID:** `CO-MAT-6-problemas-numeros-naturales-001-v2`\r\n\r\n### Enunciado\r\n\r\nMaría tenía $50.000. Compró un libro de $12.500 y una libreta de $4.200. ¿Cuánto dinero le queda?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$33.300",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$16.700",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$37.500",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$40.000",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nRestamos los gastos del total: $50.000 - (12.500 + 4.200) = 50.000 - 16.700 = 33.300$.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-problemas-numeros-naturales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-problemas-numeros-naturales-001-v3",
+      "statement": "**ID:** `CO-MAT-6-problemas-numeros-naturales-001-v3`\r\n\r\n### Enunciado\r\n\r\nEn una panadería se hornean 480 panes diariamente. Si se reparten en paquetes de 12 panes cada uno, ¿cuántos paquetes salen al día?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "40",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "30",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "48",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSe divide el total de panes entre la cantidad por paquete: $480 \\div 12 = 40$.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-problemas-numeros-naturales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-problemas-numeros-naturales-001-v4",
+      "statement": "**ID:** `CO-MAT-6-problemas-numeros-naturales-001-v4`\r\n\r\n### Enunciado\r\n\r\nUn ciclista recorre 15 km en una hora. Si mantiene el mismo ritmo, ¿cuántos kilómetros recorrerá en 4 horas?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "60 km",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "45 km",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "75 km",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "30 km",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nMultiplicamos la distancia por hora por el número de horas: $15 \\times 4 = 60$.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-problemas-numeros-naturales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-problemas-numeros-naturales-001-v5",
+      "statement": "**ID:** `CO-MAT-6-problemas-numeros-naturales-001-v5`\r\n\r\n### Enunciado\r\n\r\nSe quieren repartir $240.000 entre 8 empleados por partes iguales. Pero antes de pagar, se debe descontar $5.000 a cada uno por un seguro de salud. ¿Cuánto recibe cada empleado finalmente?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$25.000",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$30.000",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$35.000",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$20.000",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$240.000 \\div 8 = 30.000$. A cada uno se le resta el seguro: $30.000 - 5.000 = 25.000$.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-problemas-numeros-naturales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-problemas-numeros-naturales-001-v6",
+      "statement": "**ID:** `CO-MAT-6-problemas-numeros-naturales-001-v6`\r\n\r\n### Enunciado\r\n\r\nEn un cine hay 15 filas con 20 asientos cada una. Para una función se vendieron 285 entradas. ¿Cuántos asientos quedaron vacíos?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "300",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "25",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nTotal de asientos: $15 \\times 20 = 300$. Asientos vacíos: $300 - 285 = 15$.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-problemas-numeros-naturales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-problemas-numeros-naturales-001-v7",
+      "statement": "**ID:** `CO-MAT-6-problemas-numeros-naturales-001-v7`\r\n\r\n### Enunciado\r\n\r\nUn tanque de agua tiene 5.000 litros. Se consume la mitad del agua por la mañana y 750 litros por la tarde. ¿Cuánta agua queda en el tanque?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.750 litros",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "2.500 litros",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "1.500 litros",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "3.250 litros",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nQueda la mitad por la mañana: $5.000 / 2 = 2.500$. Por la tarde se restan 750: $2.500 - 750 = 1.750$.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-problemas-numeros-naturales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-problemas-numeros-naturales-001-v8",
+      "statement": "**ID:** `CO-MAT-6-problemas-numeros-naturales-001-v8`\r\n\r\n### Enunciado\r\n\r\nTres amigos ganaron un premio de $1.200.000. Decidieron comprar un televisor de $840.000 y repartir el resto en partes iguales. ¿Cuánto le corresponde a cada uno?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$120.000",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$360.000",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$400.000",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$150.000",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSobrante: $1.200.000 - 840.000 = 360.000$. División entre tres amigos: $360.000 \\div 3 = 120.000$.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-problemas-numeros-naturales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-problemas-numeros-naturales-001-v9",
+      "statement": "**ID:** `CO-MAT-6-problemas-numeros-naturales-001-v9`\r\n\r\n### Enunciado\r\n\r\nUn comerciante compra 10 docenas de huevos a $5.000 la docena. Si se le rompen 12 huevos y vende el resto a $600 cada uno, ¿qué beneficio obtiene?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$14.800",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$10.000",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$50.000",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$64.800",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nCoste: $5.000 \\times 10 = 50.000$. Huevos totales: $10 \\times 12 = 120$. Huevos sanos: $120 - 12 = 108$. Venta: $108 \\times 600 = 64.800$. Beneficio: $64.800 - 50.000 = 14.800$.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-problemas-numeros-naturales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-problemas-numeros-naturales-001-v10",
+      "statement": "**ID:** `CO-MAT-6-problemas-numeros-naturales-001-v10`\r\n\r\n### Enunciado\r\n\r\nSe quiere organizar un torneo de fútbol. Hay 18 equipos con 11 jugadores cada uno. Si cada jugador debe pagar $15.000 de inscripción y el alquiler de la cancha cuesta $800.000, ¿cuánto dinero queda para premios?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$2.170.000",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$2.970.000",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$2.000.000",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$3.770.000",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nTotal jugadores: $18 \\times 11 = 198$. Recaudación: $198 \\times 15.000 = 2.970.000$. Para premios: $2.970.000 - 800.000 = 2.170.000$.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-problemas-numeros-naturales-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-razones-proporciones-001-v1",
+      "statement": "**ID:** `CO-MAT-6-razones-proporciones-001-v1`\r\n\r\n### Enunciado\r\n\r\nEn un salón de clase hay 12 niñas y 15 niños. ¿Cuál es la **razón** entre el número de niñas y el número de niños?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 : 15 (o $\\frac{12}{15}$)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "15 : 12",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "12 + 15",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "27",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa razón es la comparación de dos cantidades mediante un cociente. Se escribe el primer número nombrado arriba y el segundo abajo.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-razones-proporciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-razones-proporciones-001-v2",
+      "statement": "**ID:** `CO-MAT-6-razones-proporciones-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Qué es una **proporción**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una igualdad entre dos razones",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El resultado de una resta",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una forma de multiplicar números grandes",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El nombre de las fracciones impropias",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nCuando dos razones son iguales (por ejemplo $\\frac{1}{2} = \\frac{2}{4}$), forman una proporción.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-razones-proporciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-razones-proporciones-001-v3",
+      "statement": "**ID:** `CO-MAT-6-razones-proporciones-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el valor de $x$ en la proporción $\\frac{2}{5} = \\frac{4}{x}$?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "20",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nUsamos la propiedad fundamental: producto de medios es igual a producto de extremos ($2 \\times x = 5 \\times 4$ $\\rightarrow$ $2x = 20$ $\\rightarrow$ $x = 10$).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-razones-proporciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-razones-proporciones-001-v4",
+      "statement": "**ID:** `CO-MAT-6-razones-proporciones-001-v4`\r\n\r\n### Enunciado\r\n\r\nSi 3 camisas cuestan $45.000, ¿cuánto cuestan 6 camisas iguales?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$90.000",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$60.000",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$135.000",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$15.000",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs una proporción directa: si la cantidad de camisas se duplica ($\\times 2$), el precio también se duplica.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-razones-proporciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-razones-proporciones-001-v5",
+      "statement": "**ID:** `CO-MAT-6-razones-proporciones-001-v5`\r\n\r\n### Enunciado\r\n\r\nEn una receta para hacer pan se usan 5 tazas de harina por cada 2 tazas de leche. Si vas a usar 6 tazas de leche, ¿cuánta harina necesitas?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15 tazas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "10 tazas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "12 tazas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "7 tazas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa razón es $\\frac{5}{2}$. Si la leche pasa de 2 a 6 (se triplica), la harina también se triplica ($5 \\times 3 = 15$).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-razones-proporciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-razones-proporciones-001-v6",
+      "statement": "**ID:** `CO-MAT-6-razones-proporciones-001-v6`\r\n\r\n### Enunciado\r\n\r\nUn carro recorre 180 km con 4 galones de gasolina. ¿Cuál es la razón de kilómetros por galón?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "45 km/galón",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "40 km/galón",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "720 km/galón",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "0,022 galones/km",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nCalculamos la razón unitaria dividiendo la distancia entre el combustible: $180 \\div 4 = 45$.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-razones-proporciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-razones-proporciones-001-v7",
+      "statement": "**ID:** `CO-MAT-6-razones-proporciones-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Cuál de los siguientes pares de razones forman una proporción verdadera?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$\\frac{10}{15}$ y $\\frac{2}{3}$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$\\frac{3}{4}$ y $\\frac{5}{6}$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$\\frac{1}{2}$ y $\\frac{1}{3}$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$\\frac{4}{8}$ y $\\frac{8}{4}$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$\\frac{10}{15}$ simplificado por 5 es $\\frac{2}{3}$. También se verifica multiplicando en cruz: $10 \\times 3 = 30$ y $15 \\times 2 = 30$.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-razones-proporciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-razones-proporciones-001-v8",
+      "statement": "**ID:** `CO-MAT-6-razones-proporciones-001-v8`\r\n\r\n### Enunciado\r\n\r\nEn un mapa, la escala es 1 : 100.000. Si en el mapa dos ciudades están a 5 cm de distancia, ¿a qué distancia real se encuentran?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 km",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "500 m",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "50 km",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "500 km",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n$5 \\times 100.000 = 500.000$ cm. Convertimos a metros ($\\div 100$) = 5.000 m. Convertimos a km ($\\div 1.000$) = 5 km.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-razones-proporciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-razones-proporciones-001-v9",
+      "statement": "**ID:** `CO-MAT-6-razones-proporciones-001-v9`\r\n\r\n### Enunciado\r\n\r\nLa razón entre el largo y el ancho de una fotografía es 4:3. Si el perímetro de la foto es 70 cm, ¿cuáles son sus dimensiones?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Largo 20 cm, Ancho 15 cm",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Largo 40 cm, Ancho 30 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Largo 16 cm, Ancho 12 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Largo 24 cm, Ancho 18 cm",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLargo = 4k, Ancho = 3k. Perímetro: $2(4k + 3k) = 70$ $\\rightarrow$ $14k = 70$ $\\rightarrow$ $k = 5$. Largo = $4 \\times 5 = 20$, Ancho = $3 \\times 5 = 15$.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-razones-proporciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-razones-proporciones-001-v10",
+      "statement": "**ID:** `CO-MAT-6-razones-proporciones-001-v10`\r\n\r\n### Enunciado\r\n\r\nTres personas se reparten un premio de $900.000 en la razón 2 : 3 : 4. ¿Cuánto dinero recibe la persona que recibe más?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$400.000",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "$300.000",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "$200.000",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "$450.000",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSuma de partes: $2+3+4 = 9$. Valor de cada parte: $900.000 \\div 9 = 100.000$. La persona mayor recibe 4 partes: $4 \\times 100.000 = 400.000$.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-razones-proporciones-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-transformaciones-geometricas-001-v1",
+      "statement": "**ID:** `CO-MAT-6-transformaciones-geometricas-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se llama la transformación que consiste en deslizar una figura sin cambiar su forma ni su tamaño?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Traslación",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Rotación",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Simetría",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Reflexión",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa traslación desplaza todos los puntos de la figura en la misma dirección y distancia.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-transformaciones-geometricas-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-transformaciones-geometricas-001-v2",
+      "statement": "**ID:** `CO-MAT-6-transformaciones-geometricas-001-v2`\r\n\r\n### Enunciado\r\n\r\nCuando te miras en un espejo, ¿qué tipo de transformación geométrica estás observando respecto a tu imagen?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reflexión (Simetría)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Rotación",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Traslación",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Proyección",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa reflexión crea una imagen invertida respecto a un eje, manteniendo las distancias.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-transformaciones-geometricas-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-transformaciones-geometricas-001-v3",
+      "statement": "**ID:** `CO-MAT-6-transformaciones-geometricas-001-v3`\r\n\r\n### Enunciado\r\n\r\nSi giras la manecilla de un reloj, ¿qué tipo de movimiento geométrico está realizando?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rotación",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Traslación",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Simetría axial",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Desplazamiento lineal",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa rotación es el giro de una figura alrededor de un punto fijo llamado centro de giro.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-transformaciones-geometricas-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-transformaciones-geometricas-001-v4",
+      "statement": "**ID:** `CO-MAT-6-transformaciones-geometricas-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se llama la línea imaginaria que divide una figura en dos partes idénticas pero invertidas?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eje de Simetría",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Eje de Traslación",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Centro de Rotación",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Línea de Horizonte",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAl doblar una figura por su eje de simetría, ambas mitades coinciden perfectamente.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-transformaciones-geometricas-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-transformaciones-geometricas-001-v5",
+      "statement": "**ID:** `CO-MAT-6-transformaciones-geometricas-001-v5`\r\n\r\n### Enunciado\r\n\r\nAl realizar una **traslación**, ¿qué ocurre con los ángulos y el área de la figura original?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se mantienen exactamente iguales (son figuras congruentes)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El área aumenta",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los ángulos cambian",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La figura se deforma",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLas transformaciones rígidas (traslación, rotación, reflexión) no alteran las dimensiones ni los ángulos de las figuras.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-transformaciones-geometricas-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-transformaciones-geometricas-001-v6",
+      "statement": "**ID:** `CO-MAT-6-transformaciones-geometricas-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el ángulo de giro si una figura da una **vuelta completa** sobre su centro de rotación?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "360°",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "180°",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "90°",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "0°",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nUna vuelta completa equivale a 360 grados, regresando la figura a su posición inicial.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-transformaciones-geometricas-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-transformaciones-geometricas-001-v7",
+      "statement": "**ID:** `CO-MAT-6-transformaciones-geometricas-001-v7`\r\n\r\n### Enunciado\r\n\r\nSi realizas una **reflexión** de un triángulo situado en el primer cuadrante respecto al **Eje Y**, ¿en qué cuadrante aparecerá la imagen?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Segundo Cuadrante",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Tercer Cuadrante",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Cuarto Cuadrante",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Permanece en el Primer Cuadrante",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAl reflejar sobre el eje vertical Y, el valor de x cambia de signo (pasa de positivo a negativo), lo que nos lleva al segundo cuadrante.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-transformaciones-geometricas-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-transformaciones-geometricas-001-v8",
+      "statement": "**ID:** `CO-MAT-6-transformaciones-geometricas-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Cuántos **ejes de simetría** tiene un cuadrado?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Infinitos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nTiene dos ejes que pasan por los puntos medios de los lados y dos ejes que pasan por las diagonales.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-transformaciones-geometricas-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-transformaciones-geometricas-001-v9",
+      "statement": "**ID:** `CO-MAT-6-transformaciones-geometricas-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿En cuál de las siguientes letras del abecedario se puede encontrar una **simetría central** (que al girarla 180° se ve igual)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La letra S",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La letra A",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La letra M",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La letra E",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa letra S tiene simetría de rotación de 180°: si la pones \"patas arriba\", sigue pareciendo una S.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-transformaciones-geometricas-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-transformaciones-geometricas-001-v10",
+      "statement": "**ID:** `CO-MAT-6-transformaciones-geometricas-001-v10`\r\n\r\n### Enunciado\r\n\r\nSi rotas el punto **(3, 0)** 90° en sentido antihorario alrededor del origen (0,0), ¿cuáles son las nuevas coordenadas?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "(0, 3)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "(-3, 0)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "(0, -3)",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "(3, 3)",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nUn giro de 90° antihorario transforma $(x, y)$ en $(-y, x)$. Entonces $(3, 0)$ pasa a ser $(0, 3)$.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-transformaciones-geometricas-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-unidades-medida-conversion-001-v1",
+      "statement": "**ID:** `CO-MAT-6-unidades-medida-conversion-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la unidad básica de **longitud** en el Sistema Internacional de Unidades (SI)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Metro (m)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Kilómetro (km)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Gramo (g)",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Litro (L)",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl metro es la unidad patrón para medir distancias y longitudes.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-unidades-medida-conversion-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-unidades-medida-conversion-001-v2",
+      "statement": "**ID:** `CO-MAT-6-unidades-medida-conversion-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuántos **centímetros** hay en un metro?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 cm",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "10 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "1.000 cm",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "60 cm",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl prefijo \"centi\" significa centésima parte. Hay 100 centímetros en 1 metro.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-unidades-medida-conversion-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-unidades-medida-conversion-001-v3",
+      "statement": "**ID:** `CO-MAT-6-unidades-medida-conversion-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Cuántos **minutos** hay en 2 horas y media?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "150 minutos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "120 minutos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "250 minutos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "100 minutos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n2 horas son $2 \\times 60 = 120$ minutos. Media hora son 30 minutos. Total: $120 + 30 = 150$.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-unidades-medida-conversion-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-unidades-medida-conversion-001-v4",
+      "statement": "**ID:** `CO-MAT-6-unidades-medida-conversion-001-v4`\r\n\r\n### Enunciado\r\n\r\nSi una bolsa de arroz pesa **500 gramos**, ¿a cuántos kilogramos equivale?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,5 kg",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "5 kg",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "50 kg",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "0,05 kg",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n1 kg tiene 1.000 g. Entonces 500 g es la mitad de un kilo ($\\frac{500}{1000} = 0,5$).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-unidades-medida-conversion-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-unidades-medida-conversion-001-v5",
+      "statement": "**ID:** `CO-MAT-6-unidades-medida-conversion-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Cuántos **metros** recorre un auto que viaja una distancia de 4,5 kilómetros?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4.500 metros",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "450 metros",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "45 metros",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "45.000 metros",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPara pasar de km a m se multiplica por 1.000: $4,5 \\times 1.000 = 4.500$.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-unidades-medida-conversion-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-unidades-medida-conversion-001-v6",
+      "statement": "**ID:** `CO-MAT-6-unidades-medida-conversion-001-v6`\r\n\r\n### Enunciado\r\n\r\nUn atleta corre durante 1 hora y 15 minutos. ¿Cuántos **segundos** duró su entrenamiento?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4.500 segundos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "3.600 segundos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "75 segundos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "5.400 segundos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n1 hora = 3.600 s. 15 min = $15 \\times 60 = 900$ s. Total: $3.600 + 900 = 4.500$.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-unidades-medida-conversion-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-unidades-medida-conversion-001-v7",
+      "statement": "**ID:** `CO-MAT-6-unidades-medida-conversion-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿A cuántos **litros** equivalen 2.500 mililitros (ml)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2,5 litros",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "25 litros",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "0,25 litros",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "250 litros",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nDe ml a litros dividimos por 1.000: $2.500 \\div 1.000 = 2,5$.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-unidades-medida-conversion-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-unidades-medida-conversion-001-v8",
+      "statement": "**ID:** `CO-MAT-6-unidades-medida-conversion-001-v8`\r\n\r\n### Enunciado\r\n\r\nSe tiene un terreno rectangular que mide 0,2 km de largo y 50 m de ancho. ¿Cuál es su área en **metros cuadrados**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10.000 $m^2$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "10 $m^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "1.000 $m^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "100 $m^2$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n1. Convertimos km a m: $0,2 \\times 1.000 = 200$ m.\r\n2. Calculamos área: $200 \\times 50 = 10.000$ $m^2$.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-unidades-medida-conversion-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-unidades-medida-conversion-001-v9",
+      "statement": "**ID:** `CO-MAT-6-unidades-medida-conversion-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Cuántos **milímetros cuadrados ($mm^2$)** hay en un centímetro cuadrado ($cm^2$)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 $mm^2$",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "10 $mm^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "1.000 $mm^2$",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "1 $mm^2$",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEn unidades de área, cada salto es de 100 en 100. Como 1 cm = 10 mm, entonces $1 cm^2 = 10 mm \\times 10 mm = 100 mm^2$.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-unidades-medida-conversion-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-MAT-6-unidades-medida-conversion-001-v10",
+      "statement": "**ID:** `CO-MAT-6-unidades-medida-conversion-001-v10`\r\n\r\n### Enunciado\r\n\r\nUna botella de agua de 1,5 litros se reparte en vasos de 200 ml cada uno. ¿Cuántos vasos se pueden llenar completamente?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7 vasos (sobran 100 ml)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "6 vasos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "8 vasos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "10 vasos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n1,5 litros = 1.500 ml. $1.500 \\div 200 = 7,5$. Se llenan 7 vasos completos.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-MAT-6-unidades-medida-conversion-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    }
+  ]
+}

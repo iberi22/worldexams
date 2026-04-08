@@ -1,0 +1,5450 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias-sociales",
+    "pack_id": "week-1-grade-3-subject-ciencias_sociales",
+    "generated_at": "2026-03-16T18:04:21.003Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CS-3-ahorro-y-consumo-001-v1",
+      "statement": "**ID:** `CO-CS-3-ahorro-y-consumo-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **Ahorro**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Guardar una parte del dinero para usarla en el futuro",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Gastar todo el dinero en dulces inmediatamente",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Pedir dinero prestado a todos los amigos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Perder el dinero en la calle",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl ahorro nos permite tener una reserva para emergencias o para comprar algo importante más adelante.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-ahorro-y-consumo-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-ahorro-y-consumo-001-v2",
+      "statement": "**ID:** `CO-CS-3-ahorro-y-consumo-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es un ejemplo de un gasto necesario (una necesidad biológica)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comprar comida saludable para la familia",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Comprar el videojuego más caro del momento",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Comprar un helado gigante todos los días",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Comprar zapatos con luces aunque ya tengas otros",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLas necesidades son cosas indispensables para vivir, como el alimento, la salud y la vivienda.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-ahorro-y-consumo-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-ahorro-y-consumo-001-v3",
+      "statement": "**ID:** `CO-CS-3-ahorro-y-consumo-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el nombre de la moneda oficial de Colombia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Peso Colombiano",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Dólar",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Euro",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Oro real",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl peso es el medio de intercambio legal que usamos los colombianos para comprar bienes y servicios.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-ahorro-y-consumo-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-ahorro-y-consumo-001-v4",
+      "statement": "**ID:** `CO-CS-3-ahorro-y-consumo-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un **Presupuesto**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una lista de cuánto dinero recibimos y en qué planeamos gastarlo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un regalo que nos dan en el cumpleaños",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La tarea de matemáticas más difícil",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un tipo de banco secreto",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl presupuesto nos ayuda a organizar nuestras finanzas para que el dinero alcance para lo importante.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-ahorro-y-consumo-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-ahorro-y-consumo-001-v5",
+      "statement": "**ID:** `CO-CS-3-ahorro-y-consumo-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la diferencia entre una **Necesidad** y un **Deseo**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La necesidad es indispensable para vivir y el deseo es algo que queremos por gusto",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Son exactamente lo mismo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El deseo es más importante que la alimentación",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Las necesidades son solo para los adultos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAprender a distinguir entre lo que necesitamos (como agua) y lo que deseamos (como un juguete) es clave para el consumo responsable.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-ahorro-y-consumo-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-ahorro-y-consumo-001-v6",
+      "statement": "**ID:** `CO-CS-3-ahorro-y-consumo-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué significa ser un \"Consumidor Responsable\"?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comprar solo lo necesario, pensando en el precio, la calidad y el impacto ambiental",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Comprar todo lo que sale en la televisión por publicidad",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Comprar lo más barato aunque se rompa rápido",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No comprar nunca nada",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl consumo responsable ayuda a la economía familiar y protege al planeta de desperdicios innecesarios.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-ahorro-y-consumo-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-ahorro-y-consumo-001-v7",
+      "statement": "**ID:** `CO-CS-3-ahorro-y-consumo-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Cómo afecta la **Publicidad** nuestras decisiones de compra?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Intenta convencernos de que necesitamos cosas que tal vez solo deseamos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Nos ayuda a no gastar nada de dinero",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Siempre nos dice la verdad absoluta sobre los productos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No tiene ningún efecto en lo que compramos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nDebemos ser analíticos con los anuncios para no caer en compras impulsivas de cosas que no necesitamos.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-ahorro-y-consumo-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-ahorro-y-consumo-001-v8",
+      "statement": "**ID:** `CO-CS-3-ahorro-y-consumo-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la ventaja de ahorrar dinero en una alcancía o en un banco?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nos permite alcanzar metas a largo plazo, como comprar una bicicleta o ir de viaje",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Hace que el dinero desaparezca si no lo usamos pronto",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Sirve para presumir con los amigos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Nos obliga a no comer nunca",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl ahorro es una disciplina que construye seguridad y permite cumplir sueños con esfuerzo propio.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-ahorro-y-consumo-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-ahorro-y-consumo-001-v9",
+      "statement": "**ID:** `CO-CS-3-ahorro-y-consumo-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué ocurre si una persona gasta más dinero del que recibe como sueldo o ganancias?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se genera una deuda que puede traer problemas económicos graves",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Se vuelve más rica porque circula más dinero",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El banco le regala el doble de dinero",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No pasa nada, el dinero es infinito",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAprender a vivir con lo que uno tiene es fundamental. Las deudas sin control afectan la tranquilidad y el futuro de las familias.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-ahorro-y-consumo-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-ahorro-y-consumo-001-v10",
+      "statement": "**ID:** `CO-CS-3-ahorro-y-consumo-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Cómo podemos ahorrar recursos naturales (como el agua) para ahorrar también dinero en la casa?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cerrando las llaves y apagando luces, así la factura llega por menos valor",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Botando el agua a la calle para que el medidor no la cuente",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "No bañándose nunca para ganar dinero",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El ahorro de recursos no tiene relación con el dinero",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl ahorro ambiental y el ahorro económico van de la mano: si cuidamos los recursos, gastamos menos dinero en servicios públicos.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-ahorro-y-consumo-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-colombia-mi-pais-001-v1",
+      "statement": "**ID:** `CO-CS-3-colombia-mi-pais-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿En qué continente se encuentra ubicada Colombia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "América (específicamente en América del Sur)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Europa",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "África",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Asia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nColombia está situada en la esquina noroccidental de América del Sur, siendo el único país de la región con costas en dos océanos.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-colombia-mi-pais-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-colombia-mi-pais-001-v2",
+      "statement": "**ID:** `CO-CS-3-colombia-mi-pais-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la capital de Colombia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bogotá D.C.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Medellín",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Cali",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Barranquilla",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nBogotá es la sede del gobierno nacional y la ciudad más grande del país, ubicada en el centro del territorio.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-colombia-mi-pais-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-colombia-mi-pais-001-v3",
+      "statement": "**ID:** `CO-CS-3-colombia-mi-pais-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Cuáles son los dos océanos que bañan las costas de Colombia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Océano Atlántico (Mar Caribe) y Océano Pacífico",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Océano Índico y Océano Ártico",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Mar Rojo y Mar Muerto",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Solo tiene costa en el Océano Pacífico",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa ubicación privilegiada de Colombia le permite tener acceso comercial y natural a los dos océanos más grandes del mundo.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-colombia-mi-pais-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-colombia-mi-pais-001-v4",
+      "statement": "**ID:** `CO-CS-3-colombia-mi-pais-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se organiza el territorio de Colombia para su administración?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En 32 Departamentos y un Distrito Capital",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "En 50 Estados independientes",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "En una sola ciudad gigante",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "En pequeñas islas únicamente",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPara facilitar el gobierno y la atención a los ciudadanos, el país se divide en departamentos, cada uno con su propio gobernador y capital.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-colombia-mi-pais-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-colombia-mi-pais-001-v5",
+      "statement": "**ID:** `CO-CS-3-colombia-mi-pais-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Cuál de los siguientes países NO es un vecino terrestre de Colombia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Argentina",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Venezuela",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Brasil",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Ecuador",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nColombia limita por tierra con Venezuela, Brasil, Perú, Ecuador y Panamá. Argentina se encuentra mucho más al sur.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-colombia-mi-pais-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-colombia-mi-pais-001-v6",
+      "statement": "**ID:** `CO-CS-3-colombia-mi-pais-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué significa que Colombia sea un país \"Megadiverso\"?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que posee una de las variedades más grandes de plantas y animales en el mundo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Que tiene muchas fábricas de carros",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Que todas las personas son exactamente iguales",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Que solo tiene un tipo de clima",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nDebido a su geografía y ubicación tropical, Colombia es el segundo país con mayor biodiversidad por kilómetro cuadrado.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-colombia-mi-pais-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-colombia-mi-pais-001-v7",
+      "statement": "**ID:** `CO-CS-3-colombia-mi-pais-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Por qué es importante la Constitución Política de 1991 para los colombianos?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque es la \"norma de normas\" que define nuestros derechos y deberes",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Porque es un libro de historia antigua",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Porque enseña cómo cocinar platos típicos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo sirve para los abogados",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa Constitución organiza al Estado colombiano como una república democrática y pluriétnica, protegiendo las libertades de todos.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-colombia-mi-pais-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-colombia-mi-pais-001-v8",
+      "statement": "**ID:** `CO-CS-3-colombia-mi-pais-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la principal cordillera que atraviesa a Colombia de sur a norte, dividiéndose en tres ramas?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cordillera de los Andes",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Montes Himalaya",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Cordillera de los Alpes",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Macizo Guayanés",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos Andes son la cadena montañosa más larga de América del Sur y en Colombia se dividen en las cordilleras Occidental, Central y Oriental.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-colombia-mi-pais-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-colombia-mi-pais-001-v9",
+      "statement": "**ID:** `CO-CS-3-colombia-mi-pais-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la soberanía nacional?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El poder que tiene el pueblo para decidir sobre su propio territorio y gobierno",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La capacidad de comprar cosas en otros países",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El nombre de la moneda colombiana",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La altura de las montañas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa soberanía reside en el pueblo, quien a través del voto y la participación, decide el rumbo del país.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-colombia-mi-pais-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-colombia-mi-pais-001-v10",
+      "statement": "**ID:** `CO-CS-3-colombia-mi-pais-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la importancia estratégica de que Colombia tenga fronteras con cinco países?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Facilita el comercio, el intercambio cultural y la integración regional",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Que podemos ir a pie a cualquier lugar del mundo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Que no necesitamos fronteras ni pasaportes",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Permite que el país sea más pequeño",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLas fronteras son espacios de contacto con otras naciones, lo que permite acuerdos económicos y sociales para el beneficio mutuo.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-colombia-mi-pais-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-cuidado-medio-ambiente-001-v1",
+      "statement": "**ID:** `CO-CS-3-cuidado-medio-ambiente-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué debemos hacer con la basura cuando estamos en un parque o en la calle?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Buscar una caneca de basura y depositarla allí",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Tirarla al suelo total alguien la recogerá",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Esconderla debajo de una piedra o arbusto",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Tirarla al río más cercano",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nArrojar la basura en los lugares adecuados evita la contaminación visual y ambiental, y previene que los desechos lleguen a los ecosistemas.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-cuidado-medio-ambiente-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-cuidado-medio-ambiente-001-v2",
+      "statement": "**ID:** `CO-CS-3-cuidado-medio-ambiente-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuál de estas acciones ayuda a cuidar el medio ambiente desde casa?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apagar las luces de las habitaciones que no estamos usando",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Dejar todas las luces prendidas toda la noche",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Dejar el televisor encendido aunque nadie lo esté viendo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Usar bombillos que gasten mucha energía",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAhorrar energía eléctrica reduce la necesidad de explotar recursos naturales y disminuye la contaminación.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-cuidado-medio-ambiente-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-cuidado-medio-ambiente-001-v3",
+      "statement": "**ID:** `CO-CS-3-cuidado-medio-ambiente-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué significan las tres \"R\" de la ecología?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reducir, Reutilizar y Reciclar",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Reír, Romper y Regalar",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Rapidez, Rayos y Ruido",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Radio, Reloj y Regla",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEstas tres palabras son la base del cuidado ambiental: comprar menos, darle más uso a los objetos y transformar los desechos.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-cuidado-medio-ambiente-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-cuidado-medio-ambiente-001-v4",
+      "statement": "**ID:** `CO-CS-3-cuidado-medio-ambiente-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Cómo podemos **Reducir** el consumo de plástico en nuestras compras?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Llevando una bolsa de tela reutilizable al mercado",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Pidiendo muchas bolsas plásticas para cada cosa",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Usando solo pitillos de plástico para beber",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Comprando todo en empaques que no se puedan reciclar",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAl evitar las bolsas de un solo uso, disminuimos la cantidad de plástico que termina contaminando los océanos y la tierra por cientos de años.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-cuidado-medio-ambiente-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-cuidado-medio-ambiente-001-v5",
+      "statement": "**ID:** `CO-CS-3-cuidado-medio-ambiente-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué material se debe depositar en la caneca de color **blanco** según la norma colombiana de reciclaje?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Residuos aprovechables limpios y secos (plástico, vidrio, papel, metal)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Restos de comida y cáscaras",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Papel higiénico usado",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Pilas y baterías gastadas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl nuevo código de colores en Colombia facilita que los recicladores de oficio encuentren materiales que pueden ser transformados nuevamente.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-cuidado-medio-ambiente-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-cuidado-medio-ambiente-001-v6",
+      "statement": "**ID:** `CO-CS-3-cuidado-medio-ambiente-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Por qué es importante plantar árboles para cuidar el medio ambiente?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque producen oxígeno, limpian el aire y dan hogar a los animales",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Porque tienen hojas verdes que combinan con el césped",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Porque así no tenemos que ver el sol",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No es importante, es mejor tener puro cemento",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos árboles son los \"pulmones\" del planeta; regulan la temperatura y filtran los contaminantes del aire que respiramos.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-cuidado-medio-ambiente-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-cuidado-medio-ambiente-001-v7",
+      "statement": "**ID:** `CO-CS-3-cuidado-medio-ambiente-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la \"Contaminación por Ruido\" y cómo afecta la convivencia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es el exceso de sonido que molesta y daña la salud mental y física de los vecinos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Es cuando la gente habla mucho en voz baja",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Es el sonido de los pájaros en la mañana",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No existe, el ruido no contamina",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl ruido excesivo de música, pitos de carros o fábricas es un tipo de contaminación que genera estrés y afecta el derecho al descanso.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-cuidado-medio-ambiente-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-cuidado-medio-ambiente-001-v8",
+      "statement": "**ID:** `CO-CS-3-cuidado-medio-ambiente-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Cómo le afecta al agua de los ríos que tiremos aceite usado de cocina por el sifón?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una sola gota de aceite contamina miles de litros de agua y mata a los peces",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El aceite limpia las tuberías y los ríos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El aceite se convierte en agua dulce",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El aceite no llega a los ríos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl aceite forma una capa sobre el agua que impide el paso del oxígeno, asfixiando la vida acuática. Se debe guardar en botellas y llevar a puntos de recolección.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-cuidado-medio-ambiente-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-cuidado-medio-ambiente-001-v9",
+      "statement": "**ID:** `CO-CS-3-cuidado-medio-ambiente-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el \"Calentamiento Global\"?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El aumento de la temperatura de la Tierra por el exceso de gases contaminantes en la atmósfera",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Cuando hace mucho calor en verano en la playa",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Cuando el sol brilla más fuerte solo en Colombia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una técnica para calentar la comida más rápido",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nDebido a la quema de combustibles y la tala de bosques, el calor del sol se queda atrapado en la atmósfera (Efecto Invernadero), cambiando el clima del mundo.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-cuidado-medio-ambiente-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-cuidado-medio-ambiente-001-v10",
+      "statement": "**ID:** `CO-CS-3-cuidado-medio-ambiente-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el beneficio de separar los residuos orgánicos (cáscaras y restos de comida) en la caneca verde?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite crear abono natural (compost) para mejorar el suelo y las plantas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Hace que la basura huela mejor",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Solo sirve para que la bolsa sea más pesada",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Los residuos orgánicos no sirven para nada",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAl transformar la materia orgánica en abono, devolvemos nutrientes a la tierra y evitamos que se generen gases peligrosos en los rellenos sanitarios.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-cuidado-medio-ambiente-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-cultura-colombiana-001-v1",
+      "statement": "**ID:** `CO-CS-3-cultura-colombiana-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Cómo llamamos a las costumbres, música, comidas y fiestas que se transmiten de padres a hijos en nuestro país?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cultura y tradiciones",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Tareas escolares",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Compras del mercado",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Noticias del mundo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa cultura es la forma de vivir y sentir de un pueblo, lo que nos da identidad y nos hace sentir parte de Colombia.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-cultura-colombiana-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-cultura-colombiana-001-v2",
+      "statement": "**ID:** `CO-CS-3-cultura-colombiana-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el plato típico más famoso de la región de Antioquia (Medellín)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bandeja Paisa",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Ajiaco Santafereño",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Pescado Frito con Arroz con Coco",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Cuy Asado",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nCada región de Colombia tiene ingredientes y recetas únicas que representan su historia y la riqueza de su suelo.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-cultura-colombiana-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-cultura-colombiana-001-v3",
+      "statement": "**ID:** `CO-CS-3-cultura-colombiana-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿En qué ciudad de Colombia se celebra el Carnaval de Barranquilla, Patrimonio de la Humanidad?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Barranquilla (Región Caribe)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Bogotá (Región Andina)",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Pasto (Región Pacífica)",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Villavicencio (Región Orinoquía)",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl Carnaval de Barranquilla es una de las fiestas más grandes del país, donde se mezclan tradiciones indígenas, africanas y españolas.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-cultura-colombiana-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-cultura-colombiana-001-v4",
+      "statement": "**ID:** `CO-CS-3-cultura-colombiana-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué música y danza es representativa de la Región Caribe y usa instrumentos como la tambora y la flauta de millo?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Cumbia",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Bambuco",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Joropo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Vals",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa cumbia es considerada por muchos como \"el alma musical de Colombia\", naciendo de la mezcla cultural en las riberas del río Magdalena.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-cultura-colombiana-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-cultura-colombiana-001-v5",
+      "statement": "**ID:** `CO-CS-3-cultura-colombiana-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la fiesta más importante de los Llanos Orientales donde se baila zapateando al ritmo del arpa?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Festival de la Leyenda Vallenata",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Torneo Internacional del Joropo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La Feria de las Flores",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Carnaval de Blancos y Negros",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl Joropo es el ritmo que identifica a los llaneros colombianos y venezolanos, reflejando la vida del campo y las faenas con el ganado.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-cultura-colombiana-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-cultura-colombiana-001-v6",
+      "statement": "**ID:** `CO-CS-3-cultura-colombiana-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué región de Colombia es famosa por la Feria de Cali y la música Salsa?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Región del Pacífico (Valle del Cauca)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Región de la Amazonía",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Región Insular",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Región de los Santanderes",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nCali es conocida como la \"Sucursal del Cielo\" y la capital mundial de la salsa, un ritmo que la comunidad adoptó y transformó con un estilo propio.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-cultura-colombiana-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-cultura-colombiana-001-v7",
+      "statement": "**ID:** `CO-CS-3-cultura-colombiana-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué representa el \"Sombrero Vueltiao\" para la cultura colombiana?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un símbolo de la identidad de la costa caribe y de Colombia entera, hecho con fibra de caña flecha",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Es solo una protección para el sol que usan los turistas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Es un tipo de casco de seguridad para la industria",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Es un objeto traído recientemente de otro país",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl sombrero vueltiao es una pieza de artesanía indígena Zenú que se ha convertido en el símbolo cultural nacional más reconocido en el mundo.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-cultura-colombiana-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-cultura-colombiana-001-v8",
+      "statement": "**ID:** `CO-CS-3-cultura-colombiana-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la importancia de las \"Leyendas\" (como la Llorona o el Mohan) en la cultura de los pueblos?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Explican miedos, valores o fenómenos naturales a través de la fantasía y la tradición oral",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Son noticias reales que salen en el periódico todos los días",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Solo sirven para asustar a los niños y que no jueguen",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No tienen ninguna importancia en la cultura actual",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLas leyendas forman parte de la riqueza narrativa de las regiones y ayudan a conservar las enseñanzas y advertencias de los antepasados.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-cultura-colombiana-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-cultura-colombiana-001-v9",
+      "statement": "**ID:** `CO-CS-3-cultura-colombiana-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué significa que Colombia sea un país \"Multicultural\"?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que dentro de una misma nación conviven y se respetan diversas formas de ver el mundo, lenguas y tradiciones",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Que todos debemos tener la misma cultura obligatoriamente",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Que tenemos muchas culturas pero una sola es la que vale para todos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Que no tenemos ninguna cultura definida",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa multiculturalidad reconocida en la Constitución obliga a que el Estado y los ciudadanos protejan y valoren la herencia indígena, afro, gitana y mestiza.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-cultura-colombiana-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-cultura-colombiana-001-v10",
+      "statement": "**ID:** `CO-CS-3-cultura-colombiana-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Por qué se celebra el Festival de Blancos y Negros en Pasto (Nariño)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para celebrar la hermandad, la igualdad y la riqueza cultural entre todas las razas y personas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Solo para pintarse la cara sin ningún motivo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Para hacer una pelea gigante en la calle",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Para celebrar el fin de las clases en el colegio",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEsta fiesta es Patrimonio Cultural de la Humanidad y enseña el valor de la convivencia pacífica y el respeto por la diversidad étnica del país.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-cultura-colombiana-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-democracia-escolar-001-v1",
+      "statement": "**ID:** `CO-CS-3-democracia-escolar-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se llama el proceso por el cual los estudiantes eligen a sus representantes en el colegio?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gobierno Escolar (Elecciones)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Examen final",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Sorteo de premios",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Juego de roles",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa democracia escolar permite que los estudiantes participen activamente en las decisiones que afectan su vida en la institución.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-democracia-escolar-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-democracia-escolar-001-v2",
+      "statement": "**ID:** `CO-CS-3-democracia-escolar-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el valor que practicamos cuando votamos por el compañero que creemos que hará las mejores propuestas?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Responsabilidad ciudadana",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Egoísmo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Distracción",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Enojo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nVotar no es solo un derecho, es un deber que requiere pensar en el bienestar de toda la comunidad escolar.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-democracia-escolar-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-democracia-escolar-001-v3",
+      "statement": "**ID:** `CO-CS-3-democracia-escolar-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Quién es el estudiante de último grado encargado de promover los derechos y deberes de sus compañeros?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Personero Estudiantil",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Rector",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Celador",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El profesor de educación física",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl Personero es el vocero de los estudiantes ante las directivas del colegio para asegurar que sus derechos sean respetados.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-democracia-escolar-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-democracia-escolar-001-v4",
+      "statement": "**ID:** `CO-CS-3-democracia-escolar-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el \"Voto Secreto\"?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La libertad de votar sin que nadie más sepa por quién lo hiciste",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un voto que se escribe con tinta invisible",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una trampa para ganar las elecciones",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Votar sin conocer a los candidatos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl secreto del voto garantiza que cada persona elija libremente, sin presiones ni miedo a ser juzgada por otros.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-democracia-escolar-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-democracia-escolar-001-v5",
+      "statement": "**ID:** `CO-CS-3-democracia-escolar-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la función del **Consejo Estudiantil** en el colegio?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representar a todos los cursos y proponer actividades para mejorar la convivencia",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Poner las notas de los exámenes",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Vender comida en el descanso",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Decidir cuándo no hay clases",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl Consejo Estudiantil es el órgano donde se escuchan las voces de todos los grados (desde preescolar o primaria hasta bachillerato).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-democracia-escolar-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-democracia-escolar-001-v6",
+      "statement": "**ID:** `CO-CS-3-democracia-escolar-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué debemos hacer antes de votar en las elecciones escolares?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escuchar y analizar las propuestas de los candidatos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Votar por el que me regale más dulces",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Votar por el más popular aunque no tenga propuestas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Rayar el tarjetón con dibujos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nUn voto informado es la base de una democracia sana. Debemos elegir a quien busque soluciones reales a los problemas del colegio.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-democracia-escolar-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-democracia-escolar-001-v7",
+      "statement": "**ID:** `CO-CS-3-democracia-escolar-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Quiénes conforman la \"Comunidad Educativa\" que participa en el Gobierno Escolar?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estudiantes, padres de familia, docentes, directivos y egresados",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Solo los estudiantes y los profesores",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Solo el rector y su secretaria",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Las personas que viven cerca del colegio",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa participación de todos los sectores asegura que el colegio sea un lugar democrático y transparente.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-democracia-escolar-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-democracia-escolar-001-v8",
+      "statement": "**ID:** `CO-CS-3-democracia-escolar-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es un derecho fundamental de los niños en el ambiente escolar según la ley colombiana?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ser tratados con respeto y no ser discriminados por ninguna razón",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Poder faltar al colegio cuando quieran",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "No tener que estudiar nunca",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Poder dañar los objetos de los demás",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl respeto a la dignidad y a la diferencia es la base de los derechos humanos en el colegio y en la sociedad.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-democracia-escolar-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-democracia-escolar-001-v9",
+      "statement": "**ID:** `CO-CS-3-democracia-escolar-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué sucede si un representante estudiantil no cumple con sus propuestas o rompe el manual de convivencia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Puede perder su cargo mediante un proceso democrático o sanción",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "No pasa nada, puede hacer lo que quiera",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Se le perdona todo por ser representante",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Se cierra el colegio",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLiderar implica responsabilidad. Quien es elegido debe ser un ejemplo de cumplimiento de los deberes y de servicio a los demás.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-democracia-escolar-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-democracia-escolar-001-v10",
+      "statement": "**ID:** `CO-CS-3-democracia-escolar-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Por qué se dice que el colegio es un \"laboratorio de democracia\"?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque allí practicamos cómo ser ciudadanos responsables antes de ser adultos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Porque se usan tubos de ensayo para votar",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Porque es un lugar peligroso y experimental",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo los científicos pueden votar",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAprendiendo a elegir y ser elegidos en el colegio, los niños se preparan para participar conscientemente en la vida democrática del país.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-democracia-escolar-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-grupos-etnicos-001-v1",
+      "statement": "**ID:** `CO-CS-3-grupos-etnicos-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Cómo llamamos al grupo de personas que descienden de los primeros habitantes de América, antes de que llegaran los españoles?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indígenas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Europeos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Africanos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Asiáticos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos pueblos indígenas son los habitantes originarios del territorio colombiano y conservan tradiciones milenarias.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-grupos-etnicos-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-grupos-etnicos-001-v2",
+      "statement": "**ID:** `CO-CS-3-grupos-etnicos-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se llama el grupo descendiente de personas traídas de África durante la época de la colonia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Afrocolombianos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Mestizos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Gitanos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Indígenas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa población afrocolombiana ha aportado enormemente a la cultura, la música y la historia de nuestra nación.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-grupos-etnicos-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-grupos-etnicos-001-v3",
+      "statement": "**ID:** `CO-CS-3-grupos-etnicos-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué significa que Colombia sea un país **Pluriétnico** y **Multicultural**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que en él conviven muchas etnias y culturas con diferentes costumbres",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Que todos hablamos el mismo idioma y vestimos igual",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Que solo existen dos razas de personas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Que no tenemos cultura propia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa Constitución de 1991 reconoce que la riqueza de Colombia está en la variedad de sus gentes y tradiciones.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-grupos-etnicos-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-grupos-etnicos-001-v4",
+      "statement": "**ID:** `CO-CS-3-grupos-etnicos-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el grupo étnico formado por la mezcla entre españoles, indígenas y africanos, al cual pertenece la mayoría de la población colombiana?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mestizos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Gitanos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Árabes",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Palenqueros",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl mestizaje es el proceso de unión biológica y cultural que dio origen a la gran mayoría de los colombianos actuales.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-grupos-etnicos-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-grupos-etnicos-001-v5",
+      "statement": "**ID:** `CO-CS-3-grupos-etnicos-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿En qué región de Colombia es más numerosa la población afrocolombiana?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Región del Pacífico y región del Caribe",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "En los picos más altos de los Andes",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "En el centro de Bogotá únicamente",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "En los llanos orientales",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nHistóricamente, las comunidades negras se asentaron en las costas, donde desarrollaron culturas únicas ligadas al mar y los ríos.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-grupos-etnicos-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-grupos-etnicos-001-v6",
+      "statement": "**ID:** `CO-CS-3-grupos-etnicos-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un **Resguardo** indígena?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un territorio reconocido por la ley que pertenece a una comunidad indígena de forma colectiva",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un tipo de comida tradicional",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una cárcel para personas diferentes",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un museo de historia antigua",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos resguardos permiten que las comunidades indígenas conserven su autonomía, su gobierno propio y su entorno natural.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-grupos-etnicos-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-grupos-etnicos-001-v7",
+      "statement": "**ID:** `CO-CS-3-grupos-etnicos-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el nombre de la comunidad afrodescendiente de San Basilio, famosa por ser el primer pueblo libre de América?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Palenqueros",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Wayúu",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Embera",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Gitanos (Rom)",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSan Basilio de Palenque conservó su propia lengua (el palenquero) y su historia de resistencia contra la esclavitud.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-grupos-etnicos-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-grupos-etnicos-001-v8",
+      "statement": "**ID:** `CO-CS-3-grupos-etnicos-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Quiénes son el pueblo **Rom** en Colombia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los Gitanos, una etnia con costumbres nómadas (viajeras) y lengua propia",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Los habitantes de la isla de San Andrés",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los descendientes directos de los Incas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Los navegantes del río Magdalena",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl pueblo Rom es reconocido como una etnia nacional que aporta diversidad con su cultura, música y tradiciones milenarias de origen europeo/asiático.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-grupos-etnicos-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-grupos-etnicos-001-v9",
+      "statement": "**ID:** `CO-CS-3-grupos-etnicos-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Cómo protege la Constitución de Colombia las lenguas de los grupos étnicos?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Declarándolas oficiales en sus territorios junto con el castellano",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Prohibiendo que se hablen fuera de su casa",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Obligando a todos a aprender solo inglés",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Las lenguas indígenas no tienen protección legal",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nColombia tiene más de 65 lenguas indígenas, además del palenquero y el creole (San Andrés), que son parte del patrimonio cultural nacional.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-grupos-etnicos-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-grupos-etnicos-001-v10",
+      "statement": "**ID:** `CO-CS-3-grupos-etnicos-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la importancia de celebrar el Día de la Afrocolombianidad o el Día del Indígena?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reconocer sus derechos, valorar sus aportes a la nación y combatir la discriminación",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Solo para tener un día festivo más en el calendario",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Para que dejen de usar sus ropas tradicionales",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Para obligarlos a vivir en las ciudades",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEstas celebraciones fomentan el respeto por la diferencia y nos recuerdan que todos somos iguales ante la ley, sin importar nuestra etnia.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-grupos-etnicos-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-la-historia-001-v1",
+      "statement": "**ID:** `CO-CS-3-la-historia-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Cómo llamamos a la ciencia que estudia los hechos y acontecimientos ocurridos en el pasado?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Historia",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Geografía",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Matemáticas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Música",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa historia nos permite conocer cómo vivían las personas antes, qué decisiones tomaron y cómo esas acciones influyen en nuestro presente.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-la-historia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-la-historia-001-v2",
+      "statement": "**ID:** `CO-CS-3-la-historia-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuáles son las tres etapas del tiempo en las que organizamos nuestra vida?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pasado, Presente y Futuro",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Lunes, Martes y Miércoles",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Mañana, Tarde y Noche",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Arriba, Abajo y Al lado",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl tiempo es una línea continua; el pasado ya ocurrió, el presente está pasando ahora y el futuro es lo que vendrá.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-la-historia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-la-historia-001-v3",
+      "statement": "**ID:** `CO-CS-3-la-historia-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué herramienta utilizamos para organizar fechas e hitos históricos de forma ordenada y visual?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Línea de tiempo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una balanza",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un microscopio",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un mapa de carreteras",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa línea de tiempo ayuda a entender el orden cronológico de los sucesos, viendo qué pasó antes y qué pasó después.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-la-historia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-la-historia-001-v4",
+      "statement": "**ID:** `CO-CS-3-la-historia-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Cómo llamamos a los relatos que se transmiten de padres a hijos a través de la palabra y que cuentan historias del pasado?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tradición oral",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Libros de texto",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Mensajes de texto (WhatsApp)",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Radio noticias",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAntes de que existiera la escritura en muchas comunidades, la historia se guardaba en la memoria y se contaba de generación en generación.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-la-historia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-la-historia-001-v5",
+      "statement": "**ID:** `CO-CS-3-la-historia-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué son las \"fuentes históricas\"?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Todos los objetos, documentos o relatos que nos dan información sobre el pasado",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Fuentes de agua donde se bañaban los antiguos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los nombres de los historiadores famosos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Las historias que nos inventamos para divertirnos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos historiadores usan cartas, fotos, herramientas antiguas, edificios y relatos para \"armar el rompecabezas\" de la historia.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-la-historia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-la-historia-001-v6",
+      "statement": "**ID:** `CO-CS-3-la-historia-001-v6`\r\n\r\n### Enunciado\r\n\r\nSi encuentras una vasija de barro muy antigua enterrada en un campo, ¿qué tipo de fuente histórica es?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fuente material (Arqueológica)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Fuente escrita",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Fuente oral",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Fuente digital",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos objetos físicos (vasijas, herramientas, joyas) son pruebas materiales de cómo era la tecnología y la vida de los antepasados.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-la-historia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-la-historia-001-v7",
+      "statement": "**ID:** `CO-CS-3-la-historia-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Por qué se dice que el estudio de la historia nos ayuda a no cometer los mismos errores en el futuro?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque aprendemos de las consecuencias de las acciones de las personas del pasado",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Porque la historia nos da poderes mágicos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Porque el pasado siempre se repite exactamente igual cada año",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Porque así no tenemos que estudiar más",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAl analizar qué decisiones llevaron a conflictos o a progresos, los ciudadanos pueden tomar mejores decisiones para su sociedad hoy.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-la-historia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-la-historia-001-v8",
+      "statement": "**ID:** `CO-CS-3-la-historia-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿A cuántos años equivale una **Década** y un **Siglo**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una década son 10 años y un siglo son 100 años",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una década son 5 años y un siglo son 50 años",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una década son 100 años y un siglo son 1.000 años",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Ambas valen el mismo tiempo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEn historia usamos unidades de medida de tiempo más grandes que los meses o los días para agrupar épocas o reinados.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-la-historia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-la-historia-001-v9",
+      "statement": "**ID:** `CO-CS-3-la-historia-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un **Archivo Histórico**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un lugar donde se guardan y protegen documentos antiguos importantes para la memoria de un país",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una carpeta de dibujos del colegio",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una caja donde se guardan juguetes rotos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un tipo de computadora muy rápida",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nInstituciones como el Archivo General de la Nación en Colombia protegen el patrimonio documental para que cualquier persona pueda investigar la historia oficial.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-la-historia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-la-historia-001-v10",
+      "statement": "**ID:** `CO-CS-3-la-historia-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Cómo puede cambiar la historia de un pueblo si se descubre un nuevo documento o fuente que no se conocía?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los historiadores pueden corregir o ampliar lo que sabíamos sobre ese pasado",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "No cambia nada, lo que ya está en los libros es la verdad absoluta",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Se borran todas las fotos de hoy",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La historia desaparece para siempre",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa historia es una ciencia en constante construcción; nuevos hallazgos permiten ver el pasado desde otras perspectivas y con mayor precisión.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-la-historia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-mi-barrio-001-v1",
+      "statement": "**ID:** `CO-CS-3-mi-barrio-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un barrio?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una parte de la ciudad o pueblo formada por casas y calles cercanas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un país completo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una habitación de la casa",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un tipo de carro",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl barrio es la unidad básica de organización urbana o rural donde conviven familias en una zona específica.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-mi-barrio-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-mi-barrio-001-v2",
+      "statement": "**ID:** `CO-CS-3-mi-barrio-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuál de los siguientes lugares suele encontrarse en un barrio?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tienda de la esquina o el parque",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Palacio de Justicia de la nación",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una mina de oro gigante",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El océano pacífico",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos barrios cuentan con servicios y lugares de encuentro cercanos como tiendas, parques, iglesias o puestos de salud.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-mi-barrio-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-mi-barrio-001-v3",
+      "statement": "**ID:** `CO-CS-3-mi-barrio-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Cómo podemos saber la historia de nuestro barrio?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entrevistando a los vecinos más antiguos (fundadores)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Inventándonos cuentos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Viendo videos de otros países",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No se puede saber la historia de un barrio",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa historia oral es fundamental en los barrios; los adultos mayores conocen cómo se formaron las calles y quiénes llegaron primero.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-mi-barrio-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-mi-barrio-001-v4",
+      "statement": "**ID:** `CO-CS-3-mi-barrio-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué nombre recibe la división de la ciudad que agrupa a varios barrios cercanos?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comuna o Localidad",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Vereda",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Departamento",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Caserío",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEn las grandes ciudades de Colombia (como Medellín o Bogotá), los barrios se organizan en comunas o localidades para una mejor administración.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-mi-barrio-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-mi-barrio-001-v5",
+      "statement": "**ID:** `CO-CS-3-mi-barrio-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es una característica de un barrio bien planeado?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tener vías de acceso, andenes y zonas verdes",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "No tener luz eléctrica",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Que las casas estén amontonadas sin calles",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Estar lejos de cualquier hospital",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa planeación urbana busca que los habitantes tengan una buena calidad de vida con movilidad y servicios seguros.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-mi-barrio-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-mi-barrio-001-v6",
+      "statement": "**ID:** `CO-CS-3-mi-barrio-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿A quién debemos acudir en el barrio si hay un problema con el alumbrado público o la basura?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A la Junta de Acción Comunal o a la Alcaldía",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Al profesor de matemáticas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Al vendedor de helados",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Nadie tiene esa responsabilidad",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nExisten líderes comunitarios y entidades municipales encargadas del mantenimiento de los servicios públicos en el barrio.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-mi-barrio-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-mi-barrio-001-v7",
+      "statement": "**ID:** `CO-CS-3-mi-barrio-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un \"asentamiento informal\" en el contexto de los barrios?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un barrio que se formó sin permisos legales ni planeación previa",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un barrio donde todos usan uniforme",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un parque donde se juega fútbol",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una casa muy lujosa",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nMuchos barrios en Colombia nacen de invasiones o loteos ilegales, lo que dificulta que tengan servicios públicos al principio.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-mi-barrio-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-mi-barrio-001-v8",
+      "statement": "**ID:** `CO-CS-3-mi-barrio-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el beneficio de vivir en un barrio con diversidad de usos (residencial, comercial y parques)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite encontrar lo necesario cerca de casa y fomenta el encuentro social",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Hace que la gente se canse más caminando",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Que no se pueda dormir por el ruido de las tiendas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Que el barrio sea más peligroso",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos barrios de uso mixto son más dinámicos y seguros porque siempre hay gente transitando y servicios a la mano.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-mi-barrio-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-mi-barrio-001-v9",
+      "statement": "**ID:** `CO-CS-3-mi-barrio-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Cómo influye la ubicación del barrio (cerca de un río, una montaña o el centro) en la vida de las personas?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Determina los riesgos naturales, el clima local y el tiempo de transporte",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "No influye en nada, todos los barrios son iguales",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Solo influye en el color de las casas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Determina qué idioma se habla en el barrio",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa geografía del barrio afecta desde la seguridad (riesgo de inundación) hasta el costo de los servicios y la facilidad para llegar al trabajo.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-mi-barrio-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-mi-barrio-001-v10",
+      "statement": "**ID:** `CO-CS-3-mi-barrio-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué significa que un barrio sea \"predominantemente residencial\"?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la mayoría de las edificaciones son viviendas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Que solo hay fábricas y humo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Que no vive nadie allí",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Que es un barrio secreto",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nUn barrio residencial es aquel destinado principalmente a la vivienda, buscando tranquilidad y pocos ruidos comerciales o industriales.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-mi-barrio-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-mi-comunidad-001-v1",
+      "statement": "**ID:** `CO-CS-3-mi-comunidad-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el primer grupo social al que pertenecemos desde que nacemos?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La familia",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El colegio",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El equipo de fútbol",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El barrio",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa familia es la base de la sociedad y el primer grupo donde aprendemos valores y normas de convivencia.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-mi-comunidad-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-mi-comunidad-001-v2",
+      "statement": "**ID:** `CO-CS-3-mi-comunidad-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Qué actividad realizamos en la comunidad escolar?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aprender y compartir con compañeros y profesores",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Solo dormir y descansar",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Comprar mercado para la casa",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Pasear a las mascotas únicamente",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa escuela es una comunidad donde se busca el desarrollo intelectual y social de los niños.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-mi-comunidad-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-mi-comunidad-001-v3",
+      "statement": "**ID:** `CO-CS-3-mi-comunidad-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Cómo llamamos al grupo de personas que viven en un mismo lugar y comparten intereses o normas?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comunidad",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Desconocidos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Equipo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Turistas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nUna comunidad es un conjunto de individuos que interactúan y tienen elementos en común, como el territorio o la cultura.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-mi-comunidad-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-mi-comunidad-001-v4",
+      "statement": "**ID:** `CO-CS-3-mi-comunidad-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es una forma de colaborar en nuestra comunidad vecinal?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mantener limpias las zonas comunes y el frente de la casa",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Hacer ruido a altas horas de la noche",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Arrojar basura a la calle",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Discutir con los vecinos por cualquier motivo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa colaboración y el respeto por el espacio compartido fortalecen los vínculos comunitarios.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-mi-comunidad-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-mi-comunidad-001-v5",
+      "statement": "**ID:** `CO-CS-3-mi-comunidad-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el Manual de Convivencia en un colegio?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un documento con las normas y acuerdos de la comunidad educativa",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un libro de cuentos para la biblioteca",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El menú del restaurante escolar",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El horario de las rutas de bus",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl manual de convivencia establece los derechos y deberes para garantizar un ambiente de respeto en la institución.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-mi-comunidad-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-mi-comunidad-001-v6",
+      "statement": "**ID:** `CO-CS-3-mi-comunidad-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Por qué es importante que existan normas en una comunidad?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para organizar la convivencia y evitar conflictos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Para que nadie pueda salir de su casa",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Porque a los adultos les gusta mandar",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Porque las normas no sirven para nada",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLas normas ayudan a regular el comportamiento humano para que todos puedan disfrutar de sus derechos en paz.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-mi-comunidad-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-mi-comunidad-001-v7",
+      "statement": "**ID:** `CO-CS-3-mi-comunidad-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la función de una Junta de Acción Comunal (JAC) en Colombia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Organizar a los vecinos para buscar soluciones a los problemas del barrio",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Solo organizar fiestas y bazares",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Cobrar impuestos a las personas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Gobernar todo el país",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLas JAC son organizaciones civiles que permiten la participación ciudadana para mejorar el entorno local.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-mi-comunidad-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-mi-comunidad-001-v8",
+      "statement": "**ID:** `CO-CS-3-mi-comunidad-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué significa tener \"pertenencia\" a una comunidad?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sentirse parte de ella, valorarla y comprometerse con su bienestar",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Creer que uno es el dueño de todo el barrio",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Saberse el nombre de todas las calles",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Vivir allí pero no hablar con nadie",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl sentido de pertenencia motiva a las personas a cuidar su entorno y a participar activamente en su mejoramiento.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-mi-comunidad-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-mi-comunidad-001-v9",
+      "statement": "**ID:** `CO-CS-3-mi-comunidad-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Cómo puede una comunidad diversa (con personas de diferentes regiones o culturas) ser más fuerte?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aceptando y valorando las diferencias a través del respeto y el diálogo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Obligando a todos a pensar de la misma manera",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Ignorando a quienes son diferentes",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Creando grupos separados para cada tipo de persona",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa diversidad cultural enriquece a la comunidad al aportar diferentes perspectivas y conocimientos.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-mi-comunidad-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-mi-comunidad-001-v10",
+      "statement": "**ID:** `CO-CS-3-mi-comunidad-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el principal reto de vivir en comunidad en las grandes ciudades de Colombia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aprender a convivir con muchas personas diferentes en espacios reducidos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Conseguir transporte público siempre vacío",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Que no haya ningún tipo de ruido nunca",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Que todos tengan el mismo carro",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa urbanización requiere un alto grado de tolerancia, respeto por las normas de ruido y cuidado de los bienes públicos para una sana convivencia.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-mi-comunidad-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-normas-convivencia-001-v1",
+      "statement": "**ID:** `CO-CS-3-normas-convivencia-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Cuál de las siguientes es una norma básica de cortesía en cualquier lugar?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Saludar al llegar y dar las gracias",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Gritar para que todos nos escuchen",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Ignorar a las personas que nos hablan",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Arrebatar los objetos de los demás",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLas palabras mágicas (saludo, por favor, gracias) son la base de un trato digno y respetuoso entre las personas.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-normas-convivencia-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-normas-convivencia-001-v2",
+      "statement": "**ID:** `CO-CS-3-normas-convivencia-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Qué debemos hacer si queremos hablar mientras el profesor o un compañero está explicando algo?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pedir el turno subiendo la mano y esperar en silencio",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Hablar más fuerte que la otra persona",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Empezar a silbar",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Salir corriendo del salón",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEscuchar con respeto es una norma fundamental para que la comunicación y el aprendizaje sean posibles.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-normas-convivencia-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-normas-convivencia-001-v3",
+      "statement": "**ID:** `CO-CS-3-normas-convivencia-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el valor que consiste en ponerse en el lugar de la otra persona para entender cómo se siente?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Empatía",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Egoísmo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Rapidez",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Curiosidad",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa empatía nos ayuda a ser solidarios y a tratar a los demás como nos gustaría que nos trataran a nosotros.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-normas-convivencia-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-normas-convivencia-001-v4",
+      "statement": "**ID:** `CO-CS-3-normas-convivencia-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la forma más pacífica de resolver un conflicto o pelea con un amigo?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dialogar para llegar a un acuerdo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Dejar de hablarse para siempre",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Buscar quién pega más fuerte",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Decir mentiras sobre la otra persona",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl diálogo es la herramienta principal de la paz; permite entender los diferentes puntos de vista sin necesidad de violencia.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-normas-convivencia-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-normas-convivencia-001-v5",
+      "statement": "**ID:** `CO-CS-3-normas-convivencia-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un \"Manual de Convivencia\"?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un conjunto de reglas aceptadas por un grupo para vivir en armonía",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un libro que enseña a cocinar",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El periódico de la ciudad",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una colección de chistes",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nTanto en los colegios como en las unidades residenciales, los manuales de convivencia sirven de guía para los derechos y deberes de todos.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-normas-convivencia-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-normas-convivencia-001-v6",
+      "statement": "**ID:** `CO-CS-3-normas-convivencia-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué valor practicamos cuando cuidamos los parques, las sillas del colegio y las paredes de la ciudad?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Respeto por el bien común",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Ambición personal",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Distracción",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Pereza",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nCuidar lo que es de todos asegura que podamos seguir disfrutando de esos espacios y servicios en el futuro.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-normas-convivencia-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-normas-convivencia-001-v7",
+      "statement": "**ID:** `CO-CS-3-normas-convivencia-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la consecuencia de que una persona rompa constantemente las normas de tránsito (como pasarse un semáforo en rojo)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pone en riesgo la vida de los demás y puede recibir una sanción o multa",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Lo premian por llegar más rápido",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "No pasa nada, las normas son opcionales",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Le regalan un carro nuevo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLas normas existen para proteger valores superiores como la vida y la integridad física de las personas.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-normas-convivencia-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-normas-convivencia-001-v8",
+      "statement": "**ID:** `CO-CS-3-normas-convivencia-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Cómo contribuye el cumplimiento de las normas ambientales a la convivencia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Asegura un entorno limpio y saludable para todos los vecinos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Hace que la gente no tenga nada que hacer",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Solo beneficia a los animales",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Hace que llueva más",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nVivir en un ambiente sano es un derecho coral; por eso, no arrojar basura ni contaminar el agua son normas de convivencia ciudadana.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-normas-convivencia-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-normas-convivencia-001-v9",
+      "statement": "**ID:** `CO-CS-3-normas-convivencia-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Cuál de estas situaciones es un ejemplo de **Tolerancia**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aceptar que mi compañero tiene una religión o cultura diferente a la mía",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Obligar a todos a jugar lo que yo quiero",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Reírse de los errores de los demás",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Dejar que otros rompan las leyes sin decir nada",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa tolerancia no es indiferencia, es el respeto activo por la diversidad de ideas y formas de vida en una sociedad democrática.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-normas-convivencia-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-normas-convivencia-001-v10",
+      "statement": "**ID:** `CO-CS-3-normas-convivencia-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Por qué se dice que \"mis derechos terminan donde comienzan los derechos de los demás\"?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la libertad individual tiene el límite de no dañar a otra persona",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Porque no tenemos derechos de verdad",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Porque los derechos desaparecen al salir de casa",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Porque los demás siempre tienen la razón",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa convivencia armónica se basa en el equilibrio: puedo ser libre siempre y cuando mis acciones no vulneren la libertad o el bienestar de mi prójimo.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-normas-convivencia-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-paisaje-rural-y-urbano-001-v1",
+      "statement": "**ID:** `CO-CS-3-paisaje-rural-y-urbano-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el elemento principal que vemos en un **Paisaje Urbano** (la ciudad)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Grandes edificios, calles pavimentadas y muchos carros",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Cultivos de papa y vacas pastando",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Selva virgen sin ninguna persona",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Solo playas de arena blanca",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl paisaje urbano es aquel que ha sido transformado por el hombre con construcciones densas, infraestructura y servicios.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-paisaje-rural-y-urbano-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-paisaje-rural-y-urbano-001-v2",
+      "statement": "**ID:** `CO-CS-3-paisaje-rural-y-urbano-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Qué actividad es más común en el **Paisaje Rural** (el campo)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La agricultura y la ganadería",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Construir centros comerciales gigantes",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Trabajar en un banco del centro",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Ir al cine todos los días",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEn las zonas rurales, las personas aprovechan el suelo para cultivar alimentos y criar animales de granja.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-paisaje-rural-y-urbano-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-paisaje-rural-y-urbano-001-v3",
+      "statement": "**ID:** `CO-CS-3-paisaje-rural-y-urbano-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Cómo son las casas en el sector rural en comparación con el urbano?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Están más alejadas unas de otras y rodeadas de naturaleza",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Están pegadas unas tras otras en edificios de 20 pisos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Siempre son de cristal",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No existen las casas en el campo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nDebido a que hay más espacio y menos gente, las viviendas rurales suelen tener amplios terrenos y estar separadas por fincas.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-paisaje-rural-y-urbano-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-paisaje-rural-y-urbano-001-v4",
+      "statement": "**ID:** `CO-CS-3-paisaje-rural-y-urbano-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es una ventaja de vivir en la ciudad (sector urbano)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tener hospitales, cines y colegios muy cerca",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Respirar aire puro sin nada de humo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Escuchar solo el canto de los pájaros todo el día",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No tener que usar zapatos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLas ciudades concentran la mayor cantidad de servicios, comercios y opciones de entretenimiento.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-paisaje-rural-y-urbano-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-paisaje-rural-y-urbano-001-v5",
+      "statement": "**ID:** `CO-CS-3-paisaje-rural-y-urbano-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué elemento natural es fundamental en el paisaje rural para la vida de las personas?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fuentes de agua como ríos, quebradas o pozos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El alumbrado público eléctrico",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Las señales de tránsito",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El internet de fibra óptica",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEn el campo, el agua es vital no solo para las personas sino para el riego de los cultivos y el ganado.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-paisaje-rural-y-urbano-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-paisaje-rural-y-urbano-001-v6",
+      "statement": "**ID:** `CO-CS-3-paisaje-rural-y-urbano-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿A qué nos referimos cuando decimos que un paisaje es \"Cultural\" o \"Humano\"?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un paisaje natural que ha sido modificado por el ser humano",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un paisaje que solo existe en los libros de historia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un paisaje de otro planeta",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un paisaje donde no hay ninguna planta",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nTanto el campo (con sus cercas y cultivos) como la ciudad son paisajes culturales porque el hombre los ha cambiado para beneficio propio.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-paisaje-rural-y-urbano-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-paisaje-rural-y-urbano-001-v7",
+      "statement": "**ID:** `CO-CS-3-paisaje-rural-y-urbano-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el principal problema ambiental relacionado con el crecimiento de las ciudades?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La contaminación del aire y la acumulación de basura",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Que hay demasiadas flores en los parques",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Que los ríos están demasiado limpios",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La falta de cemento",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa alta densidad de población y de carros en la ciudad genera residuos y gases que pueden dañar el entorno y la salud.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-paisaje-rural-y-urbano-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-paisaje-rural-y-urbano-001-v8",
+      "statement": "**ID:** `CO-CS-3-paisaje-rural-y-urbano-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué importancia tiene el campo para los que viven en la ciudad?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el campo se producen los alimentos que comemos en la ciudad",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "En el campo se fabrican los celulares y computadores",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El campo no tiene ninguna importancia para la ciudad",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Es donde se arroja toda la basura de la ciudad",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nExiste una interdependencia: el campo provee comida (frutas, verduras, carne) y la ciudad provee tecnología y servicios especializados.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-paisaje-rural-y-urbano-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-paisaje-rural-y-urbano-001-v9",
+      "statement": "**ID:** `CO-CS-3-paisaje-rural-y-urbano-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se llama la zona que se encuentra en el límite de la ciudad con el campo?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Periurbana o Rural-Urbana",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Centro comercial",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Selva tropical",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Polo norte",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEn esta zona intermedia se mezclan características de ambos paisajes, con casas de campo y algunos servicios de ciudad.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-paisaje-rural-y-urbano-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-paisaje-rural-y-urbano-001-v10",
+      "statement": "**ID:** `CO-CS-3-paisaje-rural-y-urbano-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué significa que una zona sea de \"Protección Ambiental\"?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que no se puede construir ni cultivar para cuidar el agua y la naturaleza",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Que es un lugar para botar escombros",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Que allí solo pueden vivir personas muy ricas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Que es un parque de diversiones mecánico",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLas leyes protegen ciertas áreas (como páramos) tanto en el sector rural como urbano para asegurar recursos como el agua para el futuro.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-paisaje-rural-y-urbano-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-personajes-historicos-001-v1",
+      "statement": "**ID:** `CO-CS-3-personajes-historicos-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Quién es conocido como \"El Libertador\" de Colombia y otras naciones suramericanas?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Simón Bolívar",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Cristóbal Colón",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Chapulín Colorado",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Falcao García",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSimón Bolívar lideró las campañas militares que permitieron la independencia de Colombia, Venezuela, Ecuador, Perú y Bolivia.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-personajes-historicos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-personajes-historicos-001-v2",
+      "statement": "**ID:** `CO-CS-3-personajes-historicos-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuál de estos personajes históricos aparece en un billete de Colombia y fue un militar y político clave en la independencia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Francisco de Paula Santander",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Juanes",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Pibe Valderrama",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Manuel Elkin Patarroyo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSantander es conocido como \"El Hombre de las Leyes\" por su labor en la organización de la República después de la independencia.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-personajes-historicos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-personajes-historicos-001-v3",
+      "statement": "**ID:** `CO-CS-3-personajes-historicos-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Quién fue Policarpa Salavarrieta, conocida como \"La Pola\"?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una heroína y espía que ayudó a las fuerzas patriotas durante la independencia",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una reina de belleza antigua",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La primera profesora de matemáticas del país",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una atleta olímpica",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa Pola puso su vida en riesgo para llevar información a los ejércitos libertadores, convirtiéndose en símbolo del valor de las mujeres colombianas.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-personajes-historicos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-personajes-historicos-001-v4",
+      "statement": "**ID:** `CO-CS-3-personajes-historicos-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué personaje histórico de la ciencia colombiana descubrió la primera vacuna sintética contra el paludismo (malaria)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Manuel Elkin Patarroyo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Antonia Santos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Camilo Torres",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Jorge Eliécer Gaitán",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPatarroyo es un reconocido científico cuyos aportes a la salud mundial han puesto en alto el nombre de la ciencia en Colombia.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-personajes-historicos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-personajes-historicos-001-v5",
+      "statement": "**ID:** `CO-CS-3-personajes-historicos-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Quién fue Gabriel García Márquez y por qué es un personaje histórico para Colombia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un gran escritor que ganó el Premio Nobel de Literatura",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El primer presidente que tuvo Colombia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un famoso pintor de figuras gordas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Quien descubrió el río Magdalena",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n\"Gabo\" hizo famosa la literatura colombiana en todo el mundo con sus obras, especialmente \"Cien años de soledad\".\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-personajes-historicos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-personajes-historicos-001-v6",
+      "statement": "**ID:** `CO-CS-3-personajes-historicos-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Cuál fue la labor principal de Antonio Nariño en la historia de la independencia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Traducir y publicar los Derechos del Hombre y del Ciudadano",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Inventar la bandera de Colombia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Ser el primer alcalde de Medellín",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Descubrir América",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nNariño trajo las ideas de libertad y derechos desde Europa, lo que inspiró a los colombianos a buscar su propia independencia.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-personajes-historicos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-personajes-historicos-001-v7",
+      "statement": "**ID:** `CO-CS-3-personajes-historicos-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Quién fue la Madre Laura Montoya, importante personaje histórico de la religión y la cultura?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La única santa colombiana que dedicó su vida a ayudar a las comunidades indígenas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una famosa cantante de ópera antigua",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La esposa de Simón Bolívar",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Quien fundó la ciudad de Bogotá",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa Santa Madre Laura trabajó en las zonas más apartadas de la selva colombiana para proteger y educar a los pueblos indígenas.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-personajes-historicos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-personajes-historicos-001-v8",
+      "statement": "**ID:** `CO-CS-3-personajes-historicos-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Quién fue Antonia Santos y cuál fue su sacrificio por la patria?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Organizó grupos de rebeldes en Santander y dio su vida por la causa libertadora",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Fue una famosa cocinera que alimentó al ejército de Bolívar",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Fue la primera fotógrafa de la historia de Colombia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Fue quien diseñó el uniforme del ejército patriota",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAntonia Santos lideró la \"Guerrilla de Coromoro\", fundamental para debilitar a los españoles antes de la Batalla de Boyacá.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-personajes-historicos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-personajes-historicos-001-v9",
+      "statement": "**ID:** `CO-CS-3-personajes-historicos-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Por qué Jorge Eliécer Gaitán es considerado un personaje histórico, aunque no fue presidente?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque fue un líder que defendía a las clases populares y su muerte cambió la historia del siglo XX",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Porque inventó el primer radio del país",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Porque fue el mejor jugador de fútbol de su época",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Porque descubrió minas de esmeraldas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl asesinato de Gaitán el 9 de abril de 1948 (El Bogotazo) es un hecho que marcó un antes y un después en la convivencia de Colombia.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-personajes-historicos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-personajes-historicos-001-v10",
+      "statement": "**ID:** `CO-CS-3-personajes-historicos-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué caracteriza a un \"Personaje Histórico\"?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sus acciones e ideas tuvieron un impacto positivo o negativo que cambió el rumbo de la sociedad",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Solo ser una persona muy famosa en la televisión",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Ser alguien que vivió hace más de mil años obligatoriamente",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Tener mucho dinero y vivir en un palacio",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos personajes históricos son hombres y mujeres cuyas huellas permanecen en la memoria colectiva por lo que hicieron por los demás o por sus ideas.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-personajes-historicos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-recursos-naturales-001-v1",
+      "statement": "**ID:** `CO-CS-3-recursos-naturales-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué son los recursos naturales?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los elementos de la naturaleza que los seres humanos usamos para satisfacer nuestras necesidades",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Los juguetes que compramos en la tienda",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Las tareas que hacemos para el colegio",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Los edificios construidos en la ciudad",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa naturaleza nos ofrece materiales (agua, madera, minerales) que transformamos para alimentarnos, vestirnos o construir nuestras casas.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-recursos-naturales-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-recursos-naturales-001-v2",
+      "statement": "**ID:** `CO-CS-3-recursos-naturales-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuál de los siguientes es un recurso natural vital para la supervivencia de todos los seres vivos?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La televisión",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El cemento",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El plástico",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl agua es indispensable para la vida. Es un recurso que se renueva pero que debemos cuidar para no contaminarlo.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-recursos-naturales-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-recursos-naturales-001-v3",
+      "statement": "**ID:** `CO-CS-3-recursos-naturales-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es un recurso natural **Renovable** (que se regenera rápidamente)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El viento y la luz del sol",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El petróleo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El carbón",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El oro",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos recursos renovables son aquellos que no se agotan con su uso, como la energía solar o la fuerza del viento (energía eólica).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-recursos-naturales-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-recursos-naturales-001-v4",
+      "statement": "**ID:** `CO-CS-3-recursos-naturales-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué recurso natural obtenemos de los bosques y selvas para fabricar papel y muebles?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Madera",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Hierro",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Petróleo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Vidrio",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos árboles son un recurso renovable si se siembran de nuevo (reforestación) después de ser aprovechados.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-recursos-naturales-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-recursos-naturales-001-v5",
+      "statement": "**ID:** `CO-CS-3-recursos-naturales-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Por qué se dice que el petróleo y el oro son recursos **No Renovables**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque existen en cantidades limitadas y tardan millones de años en volver a formarse",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Porque se pueden fabricar en una fábrica hoy mismo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Porque crecen en los árboles frutales",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Porque nunca se acaban sin importar cuánto gastemos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nUna vez que extraemos y gastamos los minerales de la tierra, la naturaleza no puede reponerlos a la velocidad del consumo humano.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-recursos-naturales-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-recursos-naturales-001-v6",
+      "statement": "**ID:** `CO-CS-3-recursos-naturales-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué recurso extraído del suelo de Colombia es famoso en todo el mundo por ser una piedra preciosa de color verde?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La esmeralda",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El carbón",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El diamante",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La arena",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nColombia es el principal productor mundial de esmeraldas de alta calidad, un recurso mineral muy valioso.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-recursos-naturales-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-recursos-naturales-001-v7",
+      "statement": "**ID:** `CO-CS-3-recursos-naturales-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se llama la actividad económica que se encarga de extraer los minerales y el petróleo del suelo?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Minería",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Agricultura",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Pesca",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Turismo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa minería es fundamental para la economía de Colombia, pero debe hacerse con cuidado para no dañar el medio ambiente.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-recursos-naturales-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-recursos-naturales-001-v8",
+      "statement": "**ID:** `CO-CS-3-recursos-naturales-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la consecuencia de gastar los recursos naturales sin control (sobreexplotación)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los recursos se agotan y las futuras generaciones no tendrán cómo vivir bien",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La naturaleza se vuelve más fuerte y produce más rápido",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los recursos se vuelven más baratos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No pasa nada serio",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl desarrollo sostenible busca usar los recursos necesarios hoy sin poner en peligro los recursos del mañana.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-recursos-naturales-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-recursos-naturales-001-v9",
+      "statement": "**ID:** `CO-CS-3-recursos-naturales-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un **Ecosistema** en relación con los recursos naturales?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un conjunto de seres vivos y el medio físico donde interactúan y comparten recursos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una máquina que limpia el agua sucia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El nombre de una ley que protege el oro",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un tipo de planta que solo crece en el desierto",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos recursos naturales forman parte de equilibrios delicados. Si dañamos un río, afectamos a los peces, las plantas y a las personas que dependen de él.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-recursos-naturales-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-recursos-naturales-001-v10",
+      "statement": "**ID:** `CO-CS-3-recursos-naturales-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Cómo ayuda la tecnología a proteger los recursos naturales?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Creando formas de energía limpia (como paneles solares) y procesos de reciclaje más eficientes",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Inventando máquinas para talar bosques más rápido",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Haciendo que gastemos más energía eléctrica cada día",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La tecnología solo sirve para contaminar",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa innovación permite que dependamos menos de recursos no renovables y que aprendamos a reutilizar lo que ya hemos extraído.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-recursos-naturales-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-relieve-colombia-001-v1",
+      "statement": "**ID:** `CO-CS-3-relieve-colombia-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Cómo llamamos a las grandes elevaciones de tierra que terminan en punta?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Montañas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Llanuras",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Valles",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Islas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLas montañas son las formas más altas del relieve. Un grupo de montañas seguidas forma una cordillera.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-relieve-colombia-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-relieve-colombia-001-v2",
+      "statement": "**ID:** `CO-CS-3-relieve-colombia-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la forma de relieve plana y extensa donde se encuentran los Llanos Orientales de Colombia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Llanuras",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Cordilleras",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Nevados",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Volcanes",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLas llanuras son terrenos planos que se encuentran a poca altura sobre el nivel del mar, ideales para la ganadería.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-relieve-colombia-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-relieve-colombia-001-v3",
+      "statement": "**ID:** `CO-CS-3-relieve-colombia-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Cómo llamamos a las zonas planas que quedan en medio de dos montañas y por donde suele pasar un río?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Valles",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Mesetas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Picos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Playas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos valles son terrenos muy fértiles debido a la presencia de los ríos, como el valle del río Cauca o el del Magdalena.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-relieve-colombia-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-relieve-colombia-001-v4",
+      "statement": "**ID:** `CO-CS-3-relieve-colombia-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Cuántas cordilleras principales atraviesan el territorio colombiano?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tres (Occidental, Central y Oriental)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Solo una",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Cinco",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nColombia es un país montañoso porque la cordillera de los Andes se divide en tres ramas al entrar a nuestro territorio.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-relieve-colombia-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-relieve-colombia-001-v5",
+      "statement": "**ID:** `CO-CS-3-relieve-colombia-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se llama el punto más alto de una montaña donde hace tanto frío que el agua se convierte en hielo permanente?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nevado",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Playa",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Meseta",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Desierto",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos nevados son montañas de gran altura que conservan nieve en sus cumbres, como el Nevado del Ruiz o la Sierra Nevada de Santa Marta.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-relieve-colombia-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-relieve-colombia-001-v6",
+      "statement": "**ID:** `CO-CS-3-relieve-colombia-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el nombre de la formación montañosa más alta de Colombia que se encuentra muy cerca del Mar Caribe?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sierra Nevada de Santa Marta",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Cordillera Oriental",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Nudo de los Pastos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Serranía de la Macarena",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa Sierra Nevada de Santa Marta es la montaña costera más alta del mundo y es independiente de la cordillera de los Andes.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-relieve-colombia-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-relieve-colombia-001-v7",
+      "statement": "**ID:** `CO-CS-3-relieve-colombia-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un **Archipiélago**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un conjunto de islas agrupadas en el mar",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una montaña submarina que no sale a la superficie",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El lugar donde nacen los ríos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una cueva muy profunda",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nColombia tiene territorios insulares como el Archipiélago de San Andrés, Providencia y Santa Catalina en el Mar Caribe.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-relieve-colombia-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-relieve-colombia-001-v8",
+      "statement": "**ID:** `CO-CS-3-relieve-colombia-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se llama el lugar donde las cordilleras se unen o se dividen en el sur de Colombia (límite con Ecuador)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nudo de los Pastos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Golfo de Urabá",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Desierto de la Tatacoa",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Amazonía",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEn el departamento de Nariño, el Nudo de los Pastos es el punto donde la gran cordillera de los Andes entra a Colombia y empieza su división.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-relieve-colombia-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-relieve-colombia-001-v9",
+      "statement": "**ID:** `CO-CS-3-relieve-colombia-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué es una **Meseta**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una montaña que tiene la parte superior plana como una mesa",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un hueco profundo en la tierra",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El fondo del mar",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una isla que se hunde",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLas mesetas son relieves altos pero planos. Un ejemplo en Colombia es la mesa de los Santos en Santander.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-relieve-colombia-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-relieve-colombia-001-v10",
+      "statement": "**ID:** `CO-CS-3-relieve-colombia-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Cómo influye el relieve en el clima de las diferentes regiones de Colombia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A mayor altura sobre las montañas hace más frío (Pisos térmicos)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El relieve no tiene nada que ver con la temperatura",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "En las montañas siempre hace el mismo calor que en la costa",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Solo influye en la cantidad de lluvia, no en el calor",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nDebido a las montañas, Colombia tiene diversidad de climas que van desde el calor de la llanura hasta el frío extremo de los páramos y nevados.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-relieve-colombia-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-servicios-publicos-001-v1",
+      "statement": "**ID:** `CO-CS-3-servicios-publicos-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Cómo llamamos al servicio que nos permite tener luz en la casa para conectar el televisor o la nevera?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energía eléctrica",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Agua potable",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Gas natural",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Recolección de basura",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa electricidad es fundamental para las actividades modernas, permitiendo iluminar y hacer funcionar electrodomésticos.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-servicios-publicos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-servicios-publicos-001-v2",
+      "statement": "**ID:** `CO-CS-3-servicios-publicos-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el servicio público que llega por tuberías para que podamos bañarnos y cocinar?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acueducto (Agua potable)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Internet",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Teléfono",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Alumbrado público",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl acueducto suministra agua tratada y limpia para el consumo humano y el aseo personal.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-servicios-publicos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-servicios-publicos-001-v3",
+      "statement": "**ID:** `CO-CS-3-servicios-publicos-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Cómo llamamos al servicio encargado de llevarse el agua sucia de las casas a través de desagües?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alcantarillado",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Gas domiciliario",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Correo postal",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Energía solar",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl alcantarillado evita que las aguas sucias contaminen las calles y los hogares, protegiendo la salud de todos.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-servicios-publicos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-servicios-publicos-001-v4",
+      "statement": "**ID:** `CO-CS-3-servicios-publicos-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el servicio público que nos permite comunicarnos con personas en todo el mundo y estudiar desde el computador?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Internet y Telecomunicaciones",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Recolección de escombros",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Gas natural",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Transporte masivo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nHoy en día, el acceso a internet se considera un servicio esencial para la educación y el trabajo.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-servicios-publicos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-servicios-publicos-001-v5",
+      "statement": "**ID:** `CO-CS-3-servicios-publicos-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Para qué sirve el servicio de **Aseo y Recolección de Basura**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para mantener las calles limpias y evitar enfermedades causadas por desechos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Para que los camiones hagan ruido por la calle",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Para llevarle regalos a los vecinos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Para limpiar solo las cananchas de fútbol",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEste servicio garantiza la higiene urbana, retirando los residuos hacia lugares especializados llamados rellenos sanitarios.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-servicios-publicos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-servicios-publicos-001-v6",
+      "statement": "**ID:** `CO-CS-3-servicios-publicos-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se pagan normalmente los servicios públicos en Colombia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A través de una factura mensual que llega a la casa según lo que hayamos consumido",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Son totalmente gratis para todas las personas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Se pagan con trueque de comida",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Solo los paga el alcalde con su dinero",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl pago puntual de los servicios permite que las empresas sigan manteniendo los tubos, cables y plantas de tratamiento funcionando bien.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-servicios-publicos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-servicios-publicos-001-v7",
+      "statement": "**ID:** `CO-CS-3-servicios-publicos-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Por qué es importante el **Alumbrado Público** en las calles de nuestro barrio?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mejora la seguridad y permite que las personas caminen tranquilas de noche",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Sirve para que los pájaros no se pierdan",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Es para que la ciudad se vea brillante desde un avión",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El alumbrado público no sirve para nada",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLas luces en las calles y parques ayudan a prevenir accidentes de tránsito y delitos, creando entornos más habitables.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-servicios-publicos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-servicios-publicos-001-v8",
+      "statement": "**ID:** `CO-CS-3-servicios-publicos-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **Gas Natural** domiciliario?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un combustible que llega por tuberías para cocinar o calentar el agua",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El humo que sale de las fogatas en el bosque",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Aire con aroma a fresas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El vapor de agua que sale de la ducha",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs una fuente de energía más barata y limpia que el carbón o la leña, y es muy segura si se usa correctamente en estufas y calentadores.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-servicios-publicos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-servicios-publicos-001-v9",
+      "statement": "**ID:** `CO-CS-3-servicios-publicos-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué ocurre en una comunidad cuando faltan los servicios públicos básicos (como el agua o la luz)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La calidad de vida disminuye, hay mayor riesgo de enfermedades y se dificulta el estudio y el trabajo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La gente es más feliz porque no tiene que pagar facturas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los niños juegan más tiempo fuera de casa",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No pasa nada, la vida sigue igual que siempre",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl acceso a los servicios públicos es un derecho que garantiza una vida digna y el progreso de las comunidades.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-servicios-publicos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-servicios-publicos-001-v10",
+      "statement": "**ID:** `CO-CS-3-servicios-publicos-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es nuestra responsabilidad como usuarios de los servicios públicos?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usarlos con ahorro, no desperdiciar y pagar la factura a tiempo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Gastar toda el agua posible porque para eso se paga",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Romper los medidores de luz para que no marquen nada",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Dejar que otros paguen por nosotros",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl uso responsable asegura que el servicio llegue a todos y que los recursos naturales no se desperdicien innecesariamente.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-servicios-publicos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-simbolos-patrios-001-v1",
+      "statement": "**ID:** `CO-CS-3-simbolos-patrios-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Cuáles son los tres colores de la bandera de Colombia en orden de arriba hacia abajo?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Amarillo, Azul y Rojo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Rojo, Blanco y Azul",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Verde, Amarillo y Rojo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Amarillo, Rojo y Azul",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa bandera nacional de Colombia consta de tres franjas horizontales: amarillo (el doble de ancho), azul y rojo.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-simbolos-patrios-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-simbolos-patrios-001-v2",
+      "statement": "**ID:** `CO-CS-3-simbolos-patrios-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Qué animal aparece en la parte superior del Escudo Nacional de Colombia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Cóndor de los Andes",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un Águila Real",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un León",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un Colibrí",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl Cóndor representa la libertad y la soberanía del pueblo colombiano, y es el ave nacional del país.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-simbolos-patrios-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-simbolos-patrios-001-v3",
+      "statement": "**ID:** `CO-CS-3-simbolos-patrios-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué significa el color **Amarillo** en nuestra bandera?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las riquezas del suelo, la luz del sol y la soberanía",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La sangre derramada por los héroes",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los dos océanos que nos bañan",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La esperanza del pueblo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl amarillo simboliza la abundancia de recursos naturales y el oro que caracterizó al territorio.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-simbolos-patrios-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-simbolos-patrios-001-v4",
+      "statement": "**ID:** `CO-CS-3-simbolos-patrios-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el canto patriótico que representa la historia y los valores de todos los colombianos?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Himno Nacional de Colombia",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La canción \"La Pollera Colorá\"",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Himno de la Alegría",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una ranchera famosa",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl Himno Nacional, escrito por Rafael Núñez y musicalizado por Oreste Síndici, narra gestas libertadoras y valores patrios.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-simbolos-patrios-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-simbolos-patrios-001-v5",
+      "statement": "**ID:** `CO-CS-3-simbolos-patrios-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la orquídea considerada como la flor nacional de Colombia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Cattleya trianae",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Girasol",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La Rosa Roja",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La Margarita",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa especie Cattleya trianae fue elegida por sus colores y belleza para representar la riqueza botánica del país.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-simbolos-patrios-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-simbolos-patrios-001-v6",
+      "statement": "**ID:** `CO-CS-3-simbolos-patrios-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿En qué fechas patrias es obligatorio y una señal de respeto izar la bandera en las casas y edificios?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El 20 de Julio y el 7 de Agosto",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "En Navidad y Año Nuevo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El día de los niños",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Todos los domingos del año",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl 20 de Julio (Independencia) y el 7 de Agosto (Batalla de Boyacá) son las fiestas nacionales más importantes de Colombia.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-simbolos-patrios-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-simbolos-patrios-001-v7",
+      "statement": "**ID:** `CO-CS-3-simbolos-patrios-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué representan los dos cuernos (cornucopias) que aparecen en el escudo de Colombia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La abundancia de oro, frutos y riquezas de la tierra",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El poder del ejército",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La división de las cordilleras",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Los dos océanos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLas cornucopias se desbordan de monedas de oro y frutas tropicales, simbolizando la prosperidad del territorio colombiano.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-simbolos-patrios-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-simbolos-patrios-001-v8",
+      "statement": "**ID:** `CO-CS-3-simbolos-patrios-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el árbol nacional de Colombia, que se encuentra principalmente en el departamento del Quindío?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Palma de Cera del Quindío",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Roble",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Pino",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Eucalipto",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa Palma de Cera es la palma más alta del mundo y un símbolo de la biodiversidad de los Andes colombianos.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-simbolos-patrios-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-simbolos-patrios-001-v9",
+      "statement": "**ID:** `CO-CS-3-simbolos-patrios-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué palabras aparecen en la cinta dorada que sostiene el cóndor en el escudo nacional?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Libertad y Orden",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Paz y Justicia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Democracia y Trabajo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Soberanía y Éxito",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n\"Libertad y Orden\" es el lema nacional; indica que el país busca la libertad individual guiada por el respeto a las leyes.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-simbolos-patrios-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-3-simbolos-patrios-001-v10",
+      "statement": "**ID:** `CO-CS-3-simbolos-patrios-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Por qué es importante respetar y cuidar los símbolos patrios?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque representan nuestra identidad, historia y orgullo como colombianos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Porque son dibujos muy caros",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Porque si no lo hacemos, nos ponen una multa de tránsito",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Solo para que se vean bonitos en las fiestas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos símbolos patrios nos unen como nación y nos recuerdan el esfuerzo de quienes construyeron el país, fortaleciendo nuestra identidad cultural.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-3-simbolos-patrios-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    }
+  ]
+}

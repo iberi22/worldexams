@@ -1,0 +1,5450 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "sociales",
+    "pack_id": "week-1-grade-8-subject-sociales",
+    "generated_at": "2026-03-16T18:04:21.668Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CS-8-cambio-climatico-conciencia-001-v1",
+      "statement": "**ID:** `CO-CS-8-cambio-climatico-conciencia-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la diferencia entre **Tiempo Atmosférico** y **Clima**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Tiempo es el estado actual (llueve hoy); el Clima es el promedio a largo plazo (en Bogotá hace frío generalmente)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Son lo mismo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Clima cambia cada hora",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Tiempo es para años",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n\"El clima es lo que esperas, el tiempo es lo que tienes\".\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-cambio-climatico-conciencia-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-cambio-climatico-conciencia-001-v2",
+      "statement": "**ID:** `CO-CS-8-cambio-climatico-conciencia-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **Efecto Invernadero**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un fenómeno natural donde ciertos gases retienen el calor del sol en la atmósfera para mantener la Tierra cálida (sin él, nos congelaríamos)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un sistema de cultivo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un problema causado solo por el hombre",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El frío extremo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl problema no es que exista, sino que lo hemos aumentado demasiado, convirtiendo la Tierra en un horno.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-cambio-climatico-conciencia-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-cambio-climatico-conciencia-001-v3",
+      "statement": "**ID:** `CO-CS-8-cambio-climatico-conciencia-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **Calentamiento Global**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El aumento gradual de la temperatura promedio del planeta debido al exceso de gases de efecto invernadero (como CO2 y metano)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El verano",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un incendio forestal",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El sol brillando más",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs la causa principal del Cambio Climático.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-cambio-climatico-conciencia-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-cambio-climatico-conciencia-001-v4",
+      "statement": "**ID:** `CO-CS-8-cambio-climatico-conciencia-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es una consecuencia directa del **Deshielo de los Polos**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El aumento del nivel del mar, amenazando ciudades costeras como Cartagena o Miami",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Más agua potable",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Enfriamiento global",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Más osos polares",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl hielo refleja la luz del sol; el agua oscura la absorbe, calentando más el planeta.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-cambio-climatico-conciencia-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-cambio-climatico-conciencia-001-v5",
+      "statement": "**ID:** `CO-CS-8-cambio-climatico-conciencia-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **Acuerdo de París** (2015)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un tratado internacional vinculante donde casi todos los países se comprometieron a reducir emisiones para evitar que la temperatura suba más de 2°C",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un tratado de paz",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un acuerdo comercial",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un festival de cine",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs el esfuerzo global más importante hasta ahora, aunque muchos países no están cumpliendo sus metas.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-cambio-climatico-conciencia-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-cambio-climatico-conciencia-001-v6",
+      "statement": "**ID:** `CO-CS-8-cambio-climatico-conciencia-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué son las **Energías Renovables**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fuentes de energía limpia e inagotable que no producen gases de efecto invernadero (Solar, Eólica, Hidráulica, Geotérmica)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Petróleo y Carbón",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Gas Natural",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Energía nuclear",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSon la clave para dejar de depender de los combustibles fósiles.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-cambio-climatico-conciencia-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-cambio-climatico-conciencia-001-v7",
+      "statement": "**ID:** `CO-CS-8-cambio-climatico-conciencia-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Mitigación** del cambio climático?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las acciones para reducir las causas (bajar emisiones, reforestar) y evitar que empeore",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Adaptarse a vivir con calor",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Ignorar el problema",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Mudarse a Marte",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs tratar de \"apagar el incendio\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-cambio-climatico-conciencia-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-cambio-climatico-conciencia-001-v8",
+      "statement": "**ID:** `CO-CS-8-cambio-climatico-conciencia-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Adaptación** al cambio climático?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las acciones para sobrevivir a los efectos que ya son inevitables (construir muros contra el mar, cultivos resistentes a sequías)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Reducir emisiones",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Protestar",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Quejarse",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs \"aprender a vivir en la casa quemada\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-cambio-climatico-conciencia-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-cambio-climatico-conciencia-001-v9",
+      "statement": "**ID:** `CO-CS-8-cambio-climatico-conciencia-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué significa llegar a **Cero Neto** (Carbon Neutrality) para 2050?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que un país o empresa elimine tantas emisiones de CO2 de la atmósfera como las que produce (equilibrio total)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "No emitir nada de CO2",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "No usar carros",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Cerrar todas las fábricas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nNo significa dejar de emitir por completo (es imposible), sino compensar lo que se emite (sembrando árboles, capturando carbono).\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-cambio-climatico-conciencia-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-cambio-climatico-conciencia-001-v10",
+      "statement": "**ID:** `CO-CS-8-cambio-climatico-conciencia-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Justicia Climática**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reconocer que los países ricos causaron el problema, pero los países pobres sufren las peores consecuencias, y exigir que los ricos paguen por ello",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Meter a la cárcel a los contaminadores",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Que todos sufran igual",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Juicios por el clima",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos 10 países más ricos emiten el 70% del CO2 histórico.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-cambio-climatico-conciencia-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-constitucion-1886-regeneracion-001-v1",
+      "statement": "**ID:** `CO-CS-8-constitucion-1886-regeneracion-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué nombre recibió el movimiento político liderado por Rafael Núñez para poner fin al caos federalista y \"regenerar\" al país?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Regeneración",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La Revolución",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Renacimiento",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La Independencia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSu lema era \"Regeneración administrativa fundamental o catástrofe\".\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-constitucion-1886-regeneracion-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-constitucion-1886-regeneracion-001-v2",
+      "statement": "**ID:** `CO-CS-8-constitucion-1886-regeneracion-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Qué Constitución se redactó en 1886 como resultado de la Regeneración, permaneciendo vigente durante más de 100 años (hasta 1991)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Constitución de 1886",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La Constitución de Cúcuta",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La Constitución de Rionegro",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La Constitución de Cádiz",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs la constitución que más ha durado en nuestra historia.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-constitucion-1886-regeneracion-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-constitucion-1886-regeneracion-001-v3",
+      "statement": "**ID:** `CO-CS-8-constitucion-1886-regeneracion-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué tipo de estado estableció la Constitución de 1886 (todo lo contrario a la de Rionegro)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un Estado Centralista (República de Colombia), con un presidente fuerte en Bogotá que nombraba a los gobernadores",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un Estado Federal",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una Monarquía",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una Confederación",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n\"Centralización política y descentralización administrativa\" era la fórmula de Núñez.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-constitucion-1886-regeneracion-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-constitucion-1886-regeneracion-001-v4",
+      "statement": "**ID:** `CO-CS-8-constitucion-1886-regeneracion-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué papel le dio la Constitución de 1886 a la **Iglesia Católica**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La declaró religión oficial de la nación y le devolvió el control absoluto de la educación pública (Concordato de 1887)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La expulsó",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La ignoró",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Le quitó tierras",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nDios era reconocido como \"Fuente suprema de toda autoridad\".\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-constitucion-1886-regeneracion-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-constitucion-1886-regeneracion-001-v5",
+      "statement": "**ID:** `CO-CS-8-constitucion-1886-regeneracion-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Quién fue el cartagenero, autor de la letra del Himno Nacional, que fue presidente cuatro veces y líder máximo de la Regeneración?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rafael Núñez",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Miguel Antonio Caro",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "José Hilario López",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Tomás Cipriano de Mosquera",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEra liberal, pero se alió con los conservadores al ver el desorden del federalismo. \"O cambiamos o nos hundimos\".\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-constitucion-1886-regeneracion-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-constitucion-1886-regeneracion-001-v6",
+      "statement": "**ID:** `CO-CS-8-constitucion-1886-regeneracion-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué era el \"Papel Moneda\" de curso forzoso que impuso Núñez?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un billete nacional obligatorio (Banco Nacional) para reemplazar las monedas de oro y plata y las monedas locales de cada estado",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un periódico",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un impuesto",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un bono de regalo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEsto permitió financiar al Estado, pero generó mucha inflación.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-constitucion-1886-regeneracion-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-constitucion-1886-regeneracion-001-v7",
+      "statement": "**ID:** `CO-CS-8-constitucion-1886-regeneracion-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué derechos restringió severamente la Constitución de 1886 para mantener el orden?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La libertad de prensa (censura estricta) y la libertad de oposición política (pena de muerte para delitos políticos graves en ciertos casos)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El derecho a comer",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El derecho a dormir",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La libertad de culto",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nDecían que la prensa libre era \"una antorcha en manos de un loco\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-constitucion-1886-regeneracion-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-constitucion-1886-regeneracion-001-v8",
+      "statement": "**ID:** `CO-CS-8-constitucion-1886-regeneracion-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Quién fue el gramático conservador que redactó el texto final de la Constitución de 1886, dándole un tono muy autoritario y clerical?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Miguel Antonio Caro",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Jorge Isaacs",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Rufino José Cuervo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "José Eustasio Rivera",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nGobernó como vicepresidente encargado durante años porque Núñez prefería quedarse en Cartagena (El Cabrero).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-constitucion-1886-regeneracion-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-constitucion-1886-regeneracion-001-v9",
+      "statement": "**ID:** `CO-CS-8-constitucion-1886-regeneracion-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué era la **Hegemonía Conservadora** que comenzó con la Regeneración?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un periodo de 44 años (hasta 1930) donde el Partido Conservador gobernó sin interrupción, excluyendo casi totalmente a los liberales del poder",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un baile",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un partido de fútbol",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una guerra",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEsta exclusión política fue una de las causas de la Guerra de los Mil Días.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-constitucion-1886-regeneracion-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-constitucion-1886-regeneracion-001-v10",
+      "statement": "**ID:** `CO-CS-8-constitucion-1886-regeneracion-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Cuál fue el cambio territorial más importante de la Constitución de 1886?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los antiguos \"Estados Soberanos\" (con sus propios ejércitos y leyes) pasaron a ser \"Departamentos\" administrados por gobernadores nombrados por el Presidente",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Se crearon nuevos países",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Se vendió Panamá",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Se regaló el Amazonas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSe acabó el \"país de países\". Colombia volvió a ser una sola.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-constitucion-1886-regeneracion-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-derechos-humanos-proteccion-001-v1",
+      "statement": "**ID:** `CO-CS-8-derechos-humanos-proteccion-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué son los **Derechos Humanos**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son derechos inherentes a todos los seres humanos, sin distinción de raza, sexo, nacionalidad o religión (los tenemos por el simple hecho de ser personas)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Los derechos de los animales",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los derechos de los ricos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Reglas de la escuela",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nNacen contigo y mueren contigo. Nadie te los puede quitar.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-derechos-humanos-proteccion-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-derechos-humanos-proteccion-001-v2",
+      "statement": "**ID:** `CO-CS-8-derechos-humanos-proteccion-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Qué documento histórico fue proclamado por la ONU en 1948 después de los horrores de la Segunda Guerra Mundial?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Declaración Universal de los Derechos Humanos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La Constitución de Colombia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La Biblia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Código de Policía",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPara que \"nunca más\" ocurriera un Holocausto.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-derechos-humanos-proteccion-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-derechos-humanos-proteccion-001-v3",
+      "statement": "**ID:** `CO-CS-8-derechos-humanos-proteccion-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué son los derechos de **Primera Generación** (Civiles y Políticos)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los más antiguos (Revolución Francesa): derecho a la vida, a la libertad, a votar y a no ser torturado",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Derecho a internet",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Derecho al deporte",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Derecho a vacaciones",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nProtegen al individuo frente al poder del Estado.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-derechos-humanos-proteccion-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-derechos-humanos-proteccion-001-v4",
+      "statement": "**ID:** `CO-CS-8-derechos-humanos-proteccion-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué son los derechos de **Segunda Generación** (Económicos, Sociales y Culturales - DESC)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los que garantizan condiciones de vida digna: salud, educación, trabajo, vivienda y cultura",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Derecho a la vida",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Derecho al voto",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Derecho a la libertad",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nDe nada sirve ser \"libre\" si te mueres de hambre.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-derechos-humanos-proteccion-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-derechos-humanos-proteccion-001-v5",
+      "statement": "**ID:** `CO-CS-8-derechos-humanos-proteccion-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la diferencia entre los **Derechos Humanos** (DDHH) y el **Derecho Internacional Humanitario** (DIH)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los DDHH aplican siempre (paz y guerra); el DIH solo aplica durante conflictos armados para proteger a los que no combaten (civiles, heridos, prisioneros)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Son lo mismo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El DIH es para animales",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Los DDHH son solo para la paz",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl DIH son las \"reglas de la guerra\" (Convenios de Ginebra).\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-derechos-humanos-proteccion-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-derechos-humanos-proteccion-001-v6",
+      "statement": "**ID:** `CO-CS-8-derechos-humanos-proteccion-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué institución en Colombia tiene como función principal la promoción, el ejercicio y la divulgación de los derechos humanos?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Defensoría del Pueblo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La Policía",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Ejército",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La DIAN",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl Defensor del Pueblo es el abogado de la sociedad.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-derechos-humanos-proteccion-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-derechos-humanos-proteccion-001-v7",
+      "statement": "**ID:** `CO-CS-8-derechos-humanos-proteccion-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un **Delito de Lesa Humanidad**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un crimen tan grave (como genocidio, tortura sistemática o desaparición forzada) que ofende a toda la humanidad y NO prescribe (se puede juzgar 50 años después)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Robar un celular",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Pasarse un semáforo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Insultar a alguien",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nNo se pueden perdonar ni olvidar.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-derechos-humanos-proteccion-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-derechos-humanos-proteccion-001-v8",
+      "statement": "**ID:** `CO-CS-8-derechos-humanos-proteccion-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Corte Penal Internacional** (CPI)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un tribunal permanente en La Haya que juzga a personas (no a países) acusadas de cometer crímenes de guerra, genocidio y lesa humanidad",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La Corte Suprema de Colombia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un equipo de fútbol",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una cárcel",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nActúa cuando la justicia de un país no puede o no quiere juzgar a los criminales.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-derechos-humanos-proteccion-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-derechos-humanos-proteccion-001-v9",
+      "statement": "**ID:** `CO-CS-8-derechos-humanos-proteccion-001-v9`\r\n\r\n### Enunciado\r\n\r\nEn Colombia, ¿qué es la **Acción de Grupo**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un mecanismo jurídico para pedir indemnización (dinero) cuando un grupo de personas (mínimo 20) ha sufrido el mismo daño por la misma causa",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una reunión de amigos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una protesta",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una tutela",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEjemplo: si un puente se cae y daña 50 casas, todos demandan juntos.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-derechos-humanos-proteccion-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-derechos-humanos-proteccion-001-v10",
+      "statement": "**ID:** `CO-CS-8-derechos-humanos-proteccion-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué son los **Derechos Colectivos y del Ambiente** (Tercera Generación)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Derechos que pertenecen a todos como comunidad, como el derecho a un ambiente sano, al espacio público y a la moralidad administrativa",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Derecho a la salud",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Derecho al voto",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Derecho a la vida",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSi contaminan un río, nos afectan a todos, no a un solo individuo.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-derechos-humanos-proteccion-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-diversidad-etnica-cultural-colombia-001-v1",
+      "statement": "**ID:** `CO-CS-8-diversidad-etnica-cultural-colombia-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué significa que Colombia sea un país **Pluriétnico y Multicultural** (Constitución de 1991)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que reconoce y protege la diversidad de etnias y culturas que conviven en el territorio (indígenas, afro, rom, raizales, mestizos)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Que todos somos iguales y hablamos inglés",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Que solo existen los blancos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Que todos somos mestizos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAntes de 1991, se intentaba \"blanquear\" a la nación. Ahora celebramos nuestras diferencias.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-diversidad-etnica-cultural-colombia-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-diversidad-etnica-cultural-colombia-001-v2",
+      "statement": "**ID:** `CO-CS-8-diversidad-etnica-cultural-colombia-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Quiénes son los **Afrocolombianos**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los descendientes de africanos traídos como esclavos durante la colonia, que hoy tienen una gran riqueza cultural en el Pacífico, el Caribe y todo el país",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Turistas de África",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Gente de Bogotá",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Indígenas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAportan música, gastronomía, deporte y sabiduría ancestral.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-diversidad-etnica-cultural-colombia-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-diversidad-etnica-cultural-colombia-001-v3",
+      "statement": "**ID:** `CO-CS-8-diversidad-etnica-cultural-colombia-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Quiénes son los **Raizales** del Archipiélago de San Andrés, Providencia y Santa Catalina?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una comunidad étnica única, mezcla de herencia africana y británica, que habla Creole (inglés criollo) y es protestante (bautista)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Turistas europeos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Gente de Cartagena",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Pescadores",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nTienen una cultura diferente a la del continente \"paña\".\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-diversidad-etnica-cultural-colombia-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-diversidad-etnica-cultural-colombia-001-v4",
+      "statement": "**ID:** `CO-CS-8-diversidad-etnica-cultural-colombia-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Quiénes son los **Pueblos Indígenas**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los habitantes originarios del continente antes de la llegada de los europeos (como los Wayuu, Embera, Nasa), que conservan sus lenguas y tradiciones",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Campesinos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Extranjeros",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Mestizos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nHay más de 100 pueblos indígenas distintos en Colombia, cada uno con su cosmovisión.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-diversidad-etnica-cultural-colombia-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-diversidad-etnica-cultural-colombia-001-v5",
+      "statement": "**ID:** `CO-CS-8-diversidad-etnica-cultural-colombia-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué son los **Resguardos Indígenas**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Territorios de propiedad colectiva (no se pueden vender) gobernados por autoridades tradicionales (Cabildos) según sus propias leyes y costumbres",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Cárceles",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Parques naturales",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Ciudades",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs un reconocimiento a que esa tierra fue suya primero.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-diversidad-etnica-cultural-colombia-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-diversidad-etnica-cultural-colombia-001-v6",
+      "statement": "**ID:** `CO-CS-8-diversidad-etnica-cultural-colombia-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Quiénes son el pueblo **Rrom** (Gitanos)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una etnia nómada de origen indio que llegó a América hace siglos, conocida por su idioma (romaní), sus leyes propias (kris) y oficios tradicionales",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un circo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Músicos callejeros",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Adivinos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSon ciudadanos colombianos con plenos derechos, aunque no tengan un territorio fijo.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-diversidad-etnica-cultural-colombia-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-diversidad-etnica-cultural-colombia-001-v7",
+      "statement": "**ID:** `CO-CS-8-diversidad-etnica-cultural-colombia-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Consulta Previa**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El derecho fundamental de los grupos étnicos a ser consultados antes de que se realice cualquier proyecto (minería, carreteras) en sus territorios que pueda afectarlos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una encuesta",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un permiso del alcalde",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un aviso en el periódico",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n\"Nada sobre nosotros sin nosotros\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-diversidad-etnica-cultural-colombia-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-diversidad-etnica-cultural-colombia-001-v8",
+      "statement": "**ID:** `CO-CS-8-diversidad-etnica-cultural-colombia-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué fueron los **Palenques** en la época colonial?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pueblos fortificados fundados por esclavos cimarrones (fugitivos) donde vivían en libertad y mantenían sus tradiciones africanas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Mercados de esclavos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Haciendas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Barcos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSan Basilio de Palenque fue el \"primer pueblo libre de América\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-diversidad-etnica-cultural-colombia-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-diversidad-etnica-cultural-colombia-001-v9",
+      "statement": "**ID:** `CO-CS-8-diversidad-etnica-cultural-colombia-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Jurisdicción Especial Indígena**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La facultad que tienen las autoridades indígenas para ejercer justicia dentro de su territorio según sus propios usos y costumbres (siempre que no violen la Constitución y los DDHH)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una cárcel especial",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Que no los pueden juzgar",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Que pueden hacer lo que quieran",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPor eso a veces aplican castigos como el cepo o fuete, en lugar de cárcel.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-diversidad-etnica-cultural-colombia-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-diversidad-etnica-cultural-colombia-001-v10",
+      "statement": "**ID:** `CO-CS-8-diversidad-etnica-cultural-colombia-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Etnoeducación**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un modelo educativo que respeta y promueve la identidad cultural de los grupos étnicos, enseñando en su propia lengua y valorando sus conocimientos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Aprender inglés",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Clases de religión",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Educación física",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPara que un niño Wayuu aprenda a leer en Wayuunaiki y se sienta orgulloso de ser quien es.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-diversidad-etnica-cultural-colombia-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-geografia-humana-demografia-001-v1",
+      "statement": "**ID:** `CO-CS-8-geografia-humana-demografia-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué estudia la **Demografía**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El estudio estadístico de las poblaciones humanas (cuántos somos, dónde, nacimientos, muertes)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El estudio de los mapas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El estudio de la Tierra",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El estudio de los animales",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nViene de \"Demos\" (pueblo) y \"Grafía\" (descripción).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-geografia-humana-demografia-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-geografia-humana-demografia-001-v2",
+      "statement": "**ID:** `CO-CS-8-geografia-humana-demografia-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un **Censo** de población?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El conteo oficial de todas las personas que viven en un país en un momento determinado (lo hace el DANE en Colombia)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una elección presidencial",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una lista de mercados",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una vacuna",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSirve para saber cuántas escuelas y hospitales se necesitan.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-geografia-humana-demografia-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-geografia-humana-demografia-001-v3",
+      "statement": "**ID:** `CO-CS-8-geografia-humana-demografia-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué mide la **Tasa de Natalidad**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El número de nacimientos vivos por cada 1.000 habitantes en un año",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El número de muertes",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El número de inmigrantes",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El número de niños en el colegio",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nIndica qué tanto está creciendo la población por nacimientos.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-geografia-humana-demografia-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-geografia-humana-demografia-001-v4",
+      "statement": "**ID:** `CO-CS-8-geografia-humana-demografia-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué mide la **Esperanza de Vida** al nacer?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El promedio de años que se espera que viva una persona en un país determinado (según las condiciones de salud, higiene, etc.)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Cuánto quieres vivir",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La edad de jubilación",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La edad para votar",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nHa aumentado mucho en el último siglo gracias a las medicinas.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-geografia-humana-demografia-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-geografia-humana-demografia-001-v5",
+      "statement": "**ID:** `CO-CS-8-geografia-humana-demografia-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Densidad de Población**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El número de habitantes por kilómetro cuadrado (hab/km²), indica qué tan \"apretada\" vive la gente",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El peso de la gente",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La altura de los edificios",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El número total de personas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nBogotá tiene alta densidad; el Amazonas tiene baja densidad.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-geografia-humana-demografia-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-geografia-humana-demografia-001-v6",
+      "statement": "**ID:** `CO-CS-8-geografia-humana-demografia-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Explosión Demográfica**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un crecimiento acelerado y descontrolado de la población mundial en poco tiempo (ocurrió en el siglo XX)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una bomba",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una guerra",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una epidemia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPasamos de 1.000 millones a 8.000 millones muy rápido.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-geografia-humana-demografia-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-geografia-humana-demografia-001-v7",
+      "statement": "**ID:** `CO-CS-8-geografia-humana-demografia-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué muestra una **Pirámide Poblacional**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La estructura de la población por edad y sexo (hombres a un lado, mujeres al otro, divididos por rangos de edad)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La riqueza del país",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La altura de las montañas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La comida",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSi la base es ancha, hay muchos niños (país joven). Si la cima es ancha, hay muchos ancianos (país envejecido).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-geografia-humana-demografia-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-geografia-humana-demografia-001-v8",
+      "statement": "**ID:** `CO-CS-8-geografia-humana-demografia-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Transición Demográfica**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La teoría que explica cómo los países pasan de tener muchas muertes y nacimientos (antiguo) a tener pocas muertes y pocos nacimientos (moderno)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Cambiar de casa",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Cambiar de gobierno",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una guerra civil",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPrimero baja la mortalidad, luego baja la natalidad.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-geografia-humana-demografia-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-geografia-humana-demografia-001-v9",
+      "statement": "**ID:** `CO-CS-8-geografia-humana-demografia-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es el principal reto de un país con **Población Envejecida** (como Japón o Europa)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sostener el sistema de pensiones y salud, ya que hay pocos jóvenes trabajando para mantener a muchos ancianos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Construir más escuelas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Falta de espacio",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Mucha delincuencia juvenil",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa \"pirámide\" se invierte y se vuelve insostenible económicamente.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-geografia-humana-demografia-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-geografia-humana-demografia-001-v10",
+      "statement": "**ID:** `CO-CS-8-geografia-humana-demografia-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **Bono Demográfico**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un periodo favorable donde la población en edad de trabajar es mayor que la población dependiente (niños y ancianos), ideal para el crecimiento económico",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un dinero que regala el gobierno",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un premio",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un descuento",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs una oportunidad única que dura unas pocas décadas antes de que la población envejezca.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-geografia-humana-demografia-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-gran-colombia-disolucion-001-v1",
+      "statement": "**ID:** `CO-CS-8-gran-colombia-disolucion-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué países actuales conformaban la **Gran Colombia** (el sueño de Bolívar)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Colombia, Venezuela, Ecuador y Panamá",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Colombia, Perú y Chile",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Colombia y Brasil",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Todos los países de Suramérica",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEra un país enorme y poderoso, pero difícil de gobernar.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-gran-colombia-disolucion-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-gran-colombia-disolucion-001-v2",
+      "statement": "**ID:** `CO-CS-8-gran-colombia-disolucion-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuál fue la capital de la Gran Colombia, elegida en el Congreso de Cúcuta de 1821?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bogotá",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Caracas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Quito",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Panamá",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEsto molestó mucho a venezolanos y ecuatorianos, que se sentían lejos del poder.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-gran-colombia-disolucion-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-gran-colombia-disolucion-001-v3",
+      "statement": "**ID:** `CO-CS-8-gran-colombia-disolucion-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué diferencias ideológicas separaban a **Simón Bolívar** y a **Francisco de Paula Santander**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bolívar quería un gobierno central muy fuerte (casi dictatorial) para mantener el orden; Santander defendía las leyes, la constitución y el federalismo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Bolívar era español",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Santander quería volver con España",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No tenían diferencias",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSantander es llamado \"El hombre de las leyes\". Bolívar creía que América no estaba lista para tanta democracia.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-gran-colombia-disolucion-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-gran-colombia-disolucion-001-v4",
+      "statement": "**ID:** `CO-CS-8-gran-colombia-disolucion-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué evento marcó el intento de asesinato contra Simón Bolívar en 1828 (Conspiración Septembrina)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La noche en que Manuela Sáenz lo salvó ayudándolo a escapar por una ventana del Palacio de San Carlos en Bogotá",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una batalla",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un envenenamiento",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un duelo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPor eso a Manuela Sáenz la llamaron \"La Libertadora del Libertador\".\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-gran-colombia-disolucion-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-gran-colombia-disolucion-001-v5",
+      "statement": "**ID:** `CO-CS-8-gran-colombia-disolucion-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Por qué se disolvió la Gran Colombia en 1830?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por las rivalidades regionales (caudillismo) entre venezolanos, granadinos y quiteños, las deudas de guerra y la dificultad de comunicarse en un territorio tan grande",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Porque España volvió",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Porque no tenían dinero",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Porque Bolívar murió",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl sueño de unidad se rompió en tres pedazos.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-gran-colombia-disolucion-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-gran-colombia-disolucion-001-v6",
+      "statement": "**ID:** `CO-CS-8-gran-colombia-disolucion-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué líder venezolano impulsó la separación de Venezuela de la Gran Colombia (La Cosiata)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "José Antonio Páez",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Antonio José de Sucre",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Francisco de Miranda",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Carlos Soublette",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPáez era un caudillo llanero muy popular que no quería obedecer órdenes desde Bogotá.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-gran-colombia-disolucion-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-gran-colombia-disolucion-001-v7",
+      "statement": "**ID:** `CO-CS-8-gran-colombia-disolucion-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué famosa frase dijo Bolívar poco antes de morir, decepcionado por el fracaso de su proyecto político?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"He arado en el mar\"",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "\"Volveré y seré millones\"",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "\"La historia me absolverá\"",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "\"El fin justifica los medios\"",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSentía que todo su esfuerzo había sido inútil ante las ambiciones locales.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-gran-colombia-disolucion-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-gran-colombia-disolucion-001-v8",
+      "statement": "**ID:** `CO-CS-8-gran-colombia-disolucion-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué asesinato en 1830 dolió profundamente a Bolívar y eliminó al posible sucesor capaz de mantener la unión?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El asesinato del Mariscal Antonio José de Sucre en las montañas de Berruecos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La muerte de Santander",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La muerte de Nariño",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La muerte de Córdova",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSucre era el \"Gran Mariscal de Ayacucho\", leal y brillante.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-gran-colombia-disolucion-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-gran-colombia-disolucion-001-v9",
+      "statement": "**ID:** `CO-CS-8-gran-colombia-disolucion-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué nombre adoptó nuestro país inmediatamente después de la disolución de la Gran Colombia (1832)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "República de la Nueva Granada",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Estados Unidos de Colombia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Virreinato",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Confederación Granadina",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nVolvimos a ser un país más pequeño, sin Venezuela ni Ecuador.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-gran-colombia-disolucion-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-gran-colombia-disolucion-001-v10",
+      "statement": "**ID:** `CO-CS-8-gran-colombia-disolucion-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué fue la **Dictadura de Bolívar** (1828-1830)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un intento desesperado de Bolívar por salvar la unidad, asumiendo poderes absolutos y suspendiendo la Constitución, lo que aumentó el odio de sus opositores (como Santander)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un gobierno democrático",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una monarquía",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una presidencia normal",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPara muchos, el Libertador se había convertido en un Tirano.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-gran-colombia-disolucion-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-guerras-civiles-siglo-xix-colombia-001-v1",
+      "statement": "**ID:** `CO-CS-8-guerras-civiles-siglo-xix-colombia-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Cuáles fueron los dos partidos políticos tradicionales que se formaron a mediados del siglo XIX y protagonizaron numerosas guerras civiles?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Partido Liberal (fundado por Ezequiel Rojas) y el Partido Conservador (fundado por Mariano Ospina Rodríguez)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Partido Verde y el Polo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Partido Comunista y el Socialista",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Republicanos y Demócratas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLiteralmente se mataban por el color de la bandera (trapo rojo vs trapo azul).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-guerras-civiles-siglo-xix-colombia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-guerras-civiles-siglo-xix-colombia-001-v2",
+      "statement": "**ID:** `CO-CS-8-guerras-civiles-siglo-xix-colombia-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuál fue la causa principal de la mayoría de las guerras civiles en el siglo XIX?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La disputa entre el modelo de Estado Centralista (defendido por conservadores) y el Federalista (defendido por liberales), y el papel de la Iglesia en la educación",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Peleas por tierras",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Invasiones extranjeras",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Peleas de fútbol",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nUnos querían que la Iglesia mandara, otros querían un Estado laico.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-guerras-civiles-siglo-xix-colombia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-guerras-civiles-siglo-xix-colombia-001-v3",
+      "statement": "**ID:** `CO-CS-8-guerras-civiles-siglo-xix-colombia-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué nombre recibió el periodo radical (1863-1886) donde gobernaron los Liberales con una constitución federalista y le quitaron poder a la Iglesia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Olimpo Radical",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La Patria Boba",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La Regeneración",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La Conquista",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSe llamaba así porque sus líderes se creían \"dioses\" intelectuales (como en el Olimpo griego).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-guerras-civiles-siglo-xix-colombia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-guerras-civiles-siglo-xix-colombia-001-v4",
+      "statement": "**ID:** `CO-CS-8-guerras-civiles-siglo-xix-colombia-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué constitución (escrita en Rionegro en 1863) le dio tanta libertad a los estados que parecía que Colombia eran 9 países distintos?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Constitución de Rionegro (Estados Unidos de Colombia)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La Constitución de Cúcuta",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La Constitución de 1991",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La Constitución de 1886",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nVíctor Hugo la llamó \"una constitución para ángeles\" porque daba demasiadas libertades.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-guerras-civiles-siglo-xix-colombia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-guerras-civiles-siglo-xix-colombia-001-v5",
+      "statement": "**ID:** `CO-CS-8-guerras-civiles-siglo-xix-colombia-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué guerra civil (la más sangrienta del siglo XIX) estalló en 1899 y duró tres años, dejando al país en la ruina total?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Guerra de los Mil Días",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La Guerra de Independencia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La Guerra del Perú",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La Guerra de los Supremos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nMurieron cerca de 100.000 colombianos y facilitó la pérdida de Panamá.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-guerras-civiles-siglo-xix-colombia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-guerras-civiles-siglo-xix-colombia-001-v6",
+      "statement": "**ID:** `CO-CS-8-guerras-civiles-siglo-xix-colombia-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué consecuencia territorial terrible tuvo la Guerra de los Mil Días para Colombia en 1903?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Separación de Panamá (con ayuda de EE.UU. que quería construir el Canal)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La pérdida de Venezuela",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La pérdida de Ecuador",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La pérdida del Amazonas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPanamá estaba abandonado y la guerra impidió que el gobierno enviara tropas para defenderlo.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-guerras-civiles-siglo-xix-colombia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-guerras-civiles-siglo-xix-colombia-001-v7",
+      "statement": "**ID:** `CO-CS-8-guerras-civiles-siglo-xix-colombia-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué fue la **Guerra de los Supremos** (1839-1841)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La primera guerra civil después de la independencia, iniciada por el cierre de unos conventos menores en Pasto (motivo religioso)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una guerra contra España",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una guerra de dioses supremos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una pelea de vecinos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos caudillos regionales (llamados \"Supremos\" en sus provincias) se rebelaron contra el gobierno central.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-guerras-civiles-siglo-xix-colombia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-guerras-civiles-siglo-xix-colombia-001-v8",
+      "statement": "**ID:** `CO-CS-8-guerras-civiles-siglo-xix-colombia-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué era la **Manos Muertas** de la Iglesia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tierras y propiedades inmensas que pertenecían a la Iglesia Católica, no se podían vender ni producir, y que los liberales expropiaron (Desamortización)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Unos zombies",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un cementerio",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una enfermedad",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos liberales querían poner esas tierras a producir para desarrollar la economía.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-guerras-civiles-siglo-xix-colombia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-guerras-civiles-siglo-xix-colombia-001-v9",
+      "statement": "**ID:** `CO-CS-8-guerras-civiles-siglo-xix-colombia-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué papel jugaron los **Artesanos** en las guerras civiles de mitad de siglo XIX?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apoyaron al general José María Melo en un golpe de estado (1854) porque querían protección contra los productos extranjeros baratos (proteccionismo)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Eran neutrales",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Apoyaron a los conservadores",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No hicieron nada",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nFue la única vez que un gobierno \"socialista\" artesanal tomó el poder brevemente.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-guerras-civiles-siglo-xix-colombia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-guerras-civiles-siglo-xix-colombia-001-v10",
+      "statement": "**ID:** `CO-CS-8-guerras-civiles-siglo-xix-colombia-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué tratado puso \"fin\" a la Guerra de los Mil Días a bordo de un barco estadounidense?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Tratado de Wisconsin (firmado por los liberales derrotados y el gobierno conservador)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Tratado de Versalles",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Tratado de Bogotá",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Tratado de Paz",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLos liberales generales (Uribe Uribe) aceptaron la derrota: \"La paz la quieren todos, menos los que lucran con la guerra\".",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-guerras-civiles-siglo-xix-colombia-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-impacto-ambiental-actividades-humanas-001-v1",
+      "statement": "**ID:** `CO-CS-8-impacto-ambiental-actividades-humanas-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un **Recurso Natural Renovable**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aquel que puede regenerarse en un tiempo corto si se usa responsablemente (ej: agua, sol, viento, madera)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El petróleo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El oro",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El plástico",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSi talas un bosque y siembras de nuevo, vuelve a crecer. El petróleo, una vez gastado, no vuelve.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-impacto-ambiental-actividades-humanas-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-impacto-ambiental-actividades-humanas-001-v2",
+      "statement": "**ID:** `CO-CS-8-impacto-ambiental-actividades-humanas-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Deforestación**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tala masiva de árboles para usar la madera o usar la tierra para agricultura y ganadería, destruyendo el bosque",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Sembrar árboles",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Regar las plantas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Cuidar los animales",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs el principal problema ambiental en la Amazonía colombiana.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-impacto-ambiental-actividades-humanas-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-impacto-ambiental-actividades-humanas-001-v3",
+      "statement": "**ID:** `CO-CS-8-impacto-ambiental-actividades-humanas-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué impacto negativo tiene la **Minería Ilegal** en los ríos de Colombia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contamina el agua con mercurio y cianuro (tóxicos mortales) y destruye el cauce del río con dragas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Limpia el agua",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Trae peces",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No hace nada",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl mercurio se queda en los peces y envenena a las personas que los comen.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-impacto-ambiental-actividades-humanas-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-impacto-ambiental-actividades-humanas-001-v4",
+      "statement": "**ID:** `CO-CS-8-impacto-ambiental-actividades-humanas-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **Desarrollo Sostenible**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Satisfacer las necesidades del presente sin comprometer la capacidad de las futuras generaciones para satisfacer las suyas (crecer sin destruir el planeta)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Gastar todo ya",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "No usar nada",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Volver a las cavernas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs el equilibrio entre economía, sociedad y medio ambiente.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-impacto-ambiental-actividades-humanas-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-impacto-ambiental-actividades-humanas-001-v5",
+      "statement": "**ID:** `CO-CS-8-impacto-ambiental-actividades-humanas-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la principal fuente de **Gases de Efecto Invernadero** (CO2) producida por el hombre?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La quema de combustibles fósiles (carbón, petróleo, gas) para transporte, industria y electricidad",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La respiración humana",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los volcanes",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El sol",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAl sacar el carbono enterrado y quemarlo, calentamos la atmósfera.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-impacto-ambiental-actividades-humanas-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-impacto-ambiental-actividades-humanas-001-v6",
+      "statement": "**ID:** `CO-CS-8-impacto-ambiental-actividades-humanas-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Huella Ecológica**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un indicador que mide la cantidad de tierra y agua necesarias para producir lo que consumimos y absorber nuestros residuos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La marca del zapato",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La huella de un oso",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un mapa",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSi todos vivieran como un estadounidense promedio, necesitaríamos 5 planetas Tierra.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-impacto-ambiental-actividades-humanas-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-impacto-ambiental-actividades-humanas-001-v7",
+      "statement": "**ID:** `CO-CS-8-impacto-ambiental-actividades-humanas-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el fenómeno de la **Eutrofización** en lagos y embalses?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El exceso de nutrientes (nitrógeno y fósforo de fertilizantes o jabones) que causa el crecimiento explosivo de algas, agotando el oxígeno y matando a los peces",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La sequía",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La contaminación por petróleo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La pesca excesiva",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl agua se pone verde y huele mal. Es \"muerte por exceso de comida\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-impacto-ambiental-actividades-humanas-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-impacto-ambiental-actividades-humanas-001-v8",
+      "statement": "**ID:** `CO-CS-8-impacto-ambiental-actividades-humanas-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Obsolescencia Programada**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuando los fabricantes diseñan productos (celulares, bombillos) para que se dañen rápido y tengas que comprar otro, generando mucha basura",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un programa de computador",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Cuando algo pasa de moda",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Reciclar",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n\"Comprar, tirar, comprar\". Es el motor del consumo, pero un desastre ambiental.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-impacto-ambiental-actividades-humanas-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-impacto-ambiental-actividades-humanas-001-v9",
+      "statement": "**ID:** `CO-CS-8-impacto-ambiental-actividades-humanas-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué problema ambiental genera la **Ganadería Extensiva** a gran escala?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Deforestación (para potreros), emisión de metano (gas de efecto invernadero potente) y compactación del suelo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Ninguno, es natural",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Ayuda a los bosques",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Limpia el aire",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLas vacas \"eructan\" metano, que calienta el planeta más que el CO2.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-impacto-ambiental-actividades-humanas-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-impacto-ambiental-actividades-humanas-001-v10",
+      "statement": "**ID:** `CO-CS-8-impacto-ambiental-actividades-humanas-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué son los **Microplásticos** y por qué son peligrosos?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fragmentos diminutos de plástico (menos de 5mm) que entran en la cadena alimenticia (los comen los peces, y nosotros a los peces)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Juguetes pequeños",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Plásticos biodegradables",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No son peligrosos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nYa se han encontrado microplásticos en la sangre humana y la leche materna.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-impacto-ambiental-actividades-humanas-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-imperialismo-colonialismo-siglo-xix-001-v1",
+      "statement": "**ID:** `CO-CS-8-imperialismo-colonialismo-siglo-xix-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué fue el **Imperialismo** del siglo XIX?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La expansión de las potencias industriales europeas (como Inglaterra y Francia) para dominar territorios en África, Asia y Oceanía buscando materias primas y mercados",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una guerra entre vecinos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un intercambio cultural",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Viajes de turismo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nQuerían recursos baratos para sus fábricas y gente a quien venderle sus productos.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-imperialismo-colonialismo-siglo-xix-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-imperialismo-colonialismo-siglo-xix-001-v2",
+      "statement": "**ID:** `CO-CS-8-imperialismo-colonialismo-siglo-xix-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Qué continente fue el más afectado por el \"Reparto\" colonial, siendo dividido casi por completo entre países europeos?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "África",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Europa",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Antártida",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "América del Norte",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nTrazaron líneas rectas en el mapa sin importar las etnias ni las fronteras naturales.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-imperialismo-colonialismo-siglo-xix-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-imperialismo-colonialismo-siglo-xix-001-v3",
+      "statement": "**ID:** `CO-CS-8-imperialismo-colonialismo-siglo-xix-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Cuál fue la justificación ideológica (excusa racista) que usaron los europeos para colonizar?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La \"Carga del Hombre Blanco\" (la misión civilizadora), creyendo que eran superiores y debían educar a los \"salvajes\"",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Que querían aprender",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Que los invitaron",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Que buscaban amigos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nCreían que llevar el cristianismo y la cultura europea era un favor, aunque explotaran y mataran.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-imperialismo-colonialismo-siglo-xix-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-imperialismo-colonialismo-siglo-xix-001-v4",
+      "statement": "**ID:** `CO-CS-8-imperialismo-colonialismo-siglo-xix-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué conferencia internacional (1884-1885) organizó el reparto de África entre las potencias europeas SIN invitar a ningún africano?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Conferencia de Berlín",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Congreso de Viena",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La ONU",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Tratado de Versalles",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSe repartieron el continente como si fuera un pastel.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-imperialismo-colonialismo-siglo-xix-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-imperialismo-colonialismo-siglo-xix-001-v5",
+      "statement": "**ID:** `CO-CS-8-imperialismo-colonialismo-siglo-xix-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué potencia colonial tenía el imperio más grande del mundo (\"donde nunca se ponía el sol\")?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Imperio Británico (Reino Unido)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "España",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Portugal",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Bélgica",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nControlaban la India, Canadá, Australia, gran parte de África y muchas islas.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-imperialismo-colonialismo-siglo-xix-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-imperialismo-colonialismo-siglo-xix-001-v6",
+      "statement": "**ID:** `CO-CS-8-imperialismo-colonialismo-siglo-xix-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué recurso natural (tristemente famoso) explotó cruelmente el Rey Leopoldo II de Bélgica en el Congo?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Caucho (para llantas de carros y bicicletas)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Oro",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Petróleo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Algodón",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nFue uno de los genocidios más terribles de la historia. Cortaban las manos a los esclavos que no cumplían la cuota.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-imperialismo-colonialismo-siglo-xix-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-imperialismo-colonialismo-siglo-xix-001-v7",
+      "statement": "**ID:** `CO-CS-8-imperialismo-colonialismo-siglo-xix-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué país asiático evitó ser colonizado modernizándose rápidamente (Revolución Meiji) y convirtiéndose en una potencia imperialista?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Japón",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "China",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "India",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Vietnam",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nDijeron: \"Si no puedes contra ellos, únete a ellos\" y copiaron la industria occidental.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-imperialismo-colonialismo-siglo-xix-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-imperialismo-colonialismo-siglo-xix-001-v8",
+      "statement": "**ID:** `CO-CS-8-imperialismo-colonialismo-siglo-xix-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Cuál fue una consecuencia cultural del Imperialismo en los países colonizados?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Aculturación (pérdida de identidad, imposición del idioma y religión del colonizador)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Se hicieron más ricos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Se volvieron europeos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No pasó nada",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPor eso en África hablan francés, inglés o portugués.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-imperialismo-colonialismo-siglo-xix-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-imperialismo-colonialismo-siglo-xix-001-v9",
+      "statement": "**ID:** `CO-CS-8-imperialismo-colonialismo-siglo-xix-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Cómo influyó el Imperialismo en el estallido de la **Primera Guerra Mundial**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Generó rivalidades y tensiones entre las potencias europeas que competían por tener más colonias y recursos (especialmente Alemania que llegó tarde al reparto)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Trajo la paz",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Unió a todos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No tuvo nada que ver",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nYa no había más mundo para repartir, así que empezaron a pelear entre ellos por lo que ya tenían.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-imperialismo-colonialismo-siglo-xix-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-imperialismo-colonialismo-siglo-xix-001-v10",
+      "statement": "**ID:** `CO-CS-8-imperialismo-colonialismo-siglo-xix-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **Neocolonialismo**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El dominio económico y cultural que ejercen las potencias sobre países teóricamente independientes (a través de deuda externa, empresas multinacionales, etc.)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Volver a ser colonia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una moda nueva",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un tipo de arte",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n\"Ya no te mando el ejército, te mando el banco\".",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-imperialismo-colonialismo-siglo-xix-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-independencia-colombia-procesos-001-v1",
+      "statement": "**ID:** `CO-CS-8-independencia-colombia-procesos-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué evento se celebra el **20 de Julio de 1810** en Colombia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Grito de Independencia (iniciado por la pelea del florero de Llorente en Santa Fe)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La Batalla de Boyacá",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El descubrimiento de América",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La fundación de Bogotá",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nFue la primera vez que se formó una junta de gobierno local, aunque aún juraban fidelidad al Rey Fernando VII.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-independencia-colombia-procesos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-independencia-colombia-procesos-001-v2",
+      "statement": "**ID:** `CO-CS-8-independencia-colombia-procesos-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Qué batalla selló definitivamente la independencia de Colombia el **7 de Agosto de 1819**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Batalla de Boyacá",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La Batalla de Carabobo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La Batalla de Pichincha",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La Batalla de Ayacucho",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl ejército libertador derrotó a las tropas realistas cerca de Tunja.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-independencia-colombia-procesos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-independencia-colombia-procesos-001-v3",
+      "statement": "**ID:** `CO-CS-8-independencia-colombia-procesos-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Cómo se llamó al periodo de caos y guerras civiles entre 1810 y 1816, donde las provincias peleaban entre sí (centralistas vs federalistas) en lugar de unirse contra España?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Patria Boba",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La Patria Grande",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Terror",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La Colonia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nNos peleamos entre hermanos y eso facilitó que los españoles nos reconquistaran.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-independencia-colombia-procesos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-independencia-colombia-procesos-001-v4",
+      "statement": "**ID:** `CO-CS-8-independencia-colombia-procesos-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Quién fue el líder militar y político conocido como \"El Libertador\", principal artífice de la independencia de Colombia, Venezuela, Ecuador, Perú y Bolivia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Simón Bolívar",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Francisco de Paula Santander",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Antonio Nariño",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Camilo Torres",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSu sueño era unir a todos estos países en una sola nación fuerte.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-independencia-colombia-procesos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-independencia-colombia-procesos-001-v5",
+      "statement": "**ID:** `CO-CS-8-independencia-colombia-procesos-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué fue el **Régimen del Terror** (1816-1819) liderado por Pablo Morillo \"El Pacificador\"?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Reconquista española, donde ejecutaron a la mayoría de los líderes patriotas (Caldas, Torres, Policarpa) para escarmentar al pueblo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una fiesta",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un gobierno democrático",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una epidemia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nFusilaron a la generación más brillante de intelectuales de la época.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-independencia-colombia-procesos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-independencia-colombia-procesos-001-v6",
+      "statement": "**ID:** `CO-CS-8-independencia-colombia-procesos-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué papel jugó **Policarpa Salavarrieta** (\"La Pola\") en la independencia?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fue una espía de los patriotas que enviaba información sobre los movimientos de las tropas españolas; fue fusilada por ello",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Fue una general",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Fue la esposa de Bolívar",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Fue una reina",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSus últimas palabras fueron: \"¡Pueblo indolente! ¡Cuán distinta sería hoy vuestra suerte si conocierais el precio de la libertad!\".\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-independencia-colombia-procesos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-independencia-colombia-procesos-001-v7",
+      "statement": "**ID:** `CO-CS-8-independencia-colombia-procesos-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué establecía el **Memorial de Agravios** escrito por Camilo Torres en 1809?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reclamaba igualdad de derechos políticos entre los españoles nacidos en España (peninsulares) y los españoles nacidos en América (criollos)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Declaraba la guerra a España",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Pedía dinero",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Pedía la libertad de los esclavos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nDecía: \"No somos extranjeros en nuestra propia tierra\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-independencia-colombia-procesos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-independencia-colombia-procesos-001-v8",
+      "statement": "**ID:** `CO-CS-8-independencia-colombia-procesos-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué influencia tuvieron la **Independencia de EE.UU.** (1776) y la **Revolución Francesa** (1789) en nuestro proceso?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sirvieron de inspiración ideológica (democracia, república, derechos) demostrando que era posible derrotar a una monarquía europea",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Nos enviaron armas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Nos invadieron",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No tuvieron nada que ver",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLas ideas de libertad viajaron en libros prohibidos.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-independencia-colombia-procesos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-independencia-colombia-procesos-001-v9",
+      "statement": "**ID:** `CO-CS-8-independencia-colombia-procesos-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Cuál fue la diferencia principal entre **Centralistas** (liderados por Nariño) y **Federalistas** (liderados por Camilo Torres) en la Patria Boba?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los Centralistas querían un gobierno fuerte y único desde Santa Fe para defenderse mejor; los Federalistas querían autonomía para cada provincia (como en EE.UU.)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Unos querían rey y otros no",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Unos eran ricos y otros pobres",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Unos eran católicos y otros no",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEsta disputa (centro vs regiones) ha marcado toda nuestra historia.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-independencia-colombia-procesos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-independencia-colombia-procesos-001-v10",
+      "statement": "**ID:** `CO-CS-8-independencia-colombia-procesos-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué fue la **Campaña Libertadora** de 1819?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La estrategia militar de Bolívar de cruzar los Andes por el Páramo de Pisba para sorprender a los españoles en el centro del país (Boyacá)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una elección",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un viaje turístico",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un tratado de paz",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nFue una hazaña casi suicida. Muchos soldados murieron de frío, pero lograron la sorpresa estratégica.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-independencia-colombia-procesos-001-v3-bundle",
+      "periodo": 3,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-mecanismos-participacion-ciudadana-001-v1",
+      "statement": "**ID:** `CO-CS-8-mecanismos-participacion-ciudadana-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **Voto** (sufragio)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El mecanismo de participación más común, mediante el cual los ciudadanos eligen a sus representantes (alcaldes, concejales, presidentes)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una encuesta",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un examen",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Pagar impuestos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs un derecho y un deber ciudadano. En Colombia es voluntario.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-mecanismos-participacion-ciudadana-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-mecanismos-participacion-ciudadana-001-v2",
+      "statement": "**ID:** `CO-CS-8-mecanismos-participacion-ciudadana-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Qué mecanismo de participación permite a los ciudadanos aprobar o rechazar una decisión del Presidente de la República (como el Acuerdo de Paz)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Plebiscito",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Referendo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La Tutela",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Cabildo Abierto",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl Presidente pregunta: \"¿Están de acuerdo con esto SÍ o NO?\".\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-mecanismos-participacion-ciudadana-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-mecanismos-participacion-ciudadana-001-v3",
+      "statement": "**ID:** `CO-CS-8-mecanismos-participacion-ciudadana-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un **Referendo**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La convocatoria al pueblo para que apruebe o rechace un proyecto de norma jurídica o derogue una norma ya vigente (puede reformar la Constitución)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una fiesta",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una reunión de amigos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una carta al alcalde",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nA diferencia del plebiscito (que es sobre una decisión política), el referendo es sobre leyes específicas.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-mecanismos-participacion-ciudadana-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-mecanismos-participacion-ciudadana-001-v4",
+      "statement": "**ID:** `CO-CS-8-mecanismos-participacion-ciudadana-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué mecanismo permite a los ciudadanos reunirse públicamente con los concejos municipales o juntas administradoras locales para discutir asuntos de interés común?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Cabildo Abierto",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La Tutela",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Voto",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La Consulta Popular",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs como una asamblea de vecinos, pero oficial y con las autoridades.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-mecanismos-participacion-ciudadana-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-mecanismos-participacion-ciudadana-001-v5",
+      "statement": "**ID:** `CO-CS-8-mecanismos-participacion-ciudadana-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Revocatoria del Mandato**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El derecho de los ciudadanos a dar por terminado el mandato de un gobernador o alcalde si este ha incumplido su programa de gobierno",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Echar al presidente",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Echar a un profesor",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Renunciar al trabajo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSolo aplica para Alcaldes y Gobernadores, NO para el Presidente ni congresistas.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-mecanismos-participacion-ciudadana-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-mecanismos-participacion-ciudadana-001-v6",
+      "statement": "**ID:** `CO-CS-8-mecanismos-participacion-ciudadana-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Consulta Popular**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una pregunta de carácter general sobre un asunto de trascendencia nacional o local (ej: ¿quieren minería en su municipio?) sometida a consideración del pueblo",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una encuesta de satisfacción",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Preguntar la hora",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Buscar en Google",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl resultado es obligatorio si gana el umbral.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-mecanismos-participacion-ciudadana-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-mecanismos-participacion-ciudadana-001-v7",
+      "statement": "**ID:** `CO-CS-8-mecanismos-participacion-ciudadana-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Iniciativa Legislativa** Popular?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El derecho de un grupo de ciudadanos a presentar proyectos de ley ante el Congreso o de ordenanza ante el Concejo (si recogen suficientes firmas)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Escribir en Facebook",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Hacer una huelga",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Pedir dinero",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nNo solo los congresistas pueden proponer leyes; ¡tú también puedes! (si consigues muchas firmas).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-mecanismos-participacion-ciudadana-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-mecanismos-participacion-ciudadana-001-v8",
+      "statement": "**ID:** `CO-CS-8-mecanismos-participacion-ciudadana-001-v8`\r\n\r\n### Enunciado\r\n\r\nAunque no es un mecanismo de participación \"política\" (voto), ¿qué herramienta es fundamental para proteger los Derechos Fundamentales cuando son vulnerados?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Acción de Tutela (Artículo 86 de la Constitución)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Derecho de Petición",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La Denuncia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La Queja",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs la herramienta \"estrella\" de la Constitución del 91. Cualquier persona puede ponerla sin abogado.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-mecanismos-participacion-ciudadana-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-mecanismos-participacion-ciudadana-001-v9",
+      "statement": "**ID:** `CO-CS-8-mecanismos-participacion-ciudadana-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **Voto Programático** (obligatorio para Alcaldes y Gobernadores)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El principio que obliga a los candidatos a inscribir un programa de gobierno; si ganan, están obligados legalmente a cumplirlo (o los pueden revocar)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Votar por un programa de TV",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Votar por computador",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Prometer cosas falsas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n\"El que promete y promete... y no cumple, se va\".\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-mecanismos-participacion-ciudadana-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-mecanismos-participacion-ciudadana-001-v10",
+      "statement": "**ID:** `CO-CS-8-mecanismos-participacion-ciudadana-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Veeduría Ciudadana**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un mecanismo democrático que permite a los ciudadanos ejercer control y vigilancia sobre la gestión pública (gasto de dinero, obras, contratos)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Mirar por la ventana",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Ser policía",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Ser juez",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs el \"ojo\" de la ciudadanía para que no se roben la plata.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-mecanismos-participacion-ciudadana-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-migraciones-causas-consecuencias-001-v1",
+      "statement": "**ID:** `CO-CS-8-migraciones-causas-consecuencias-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la diferencia básica entre **Emigración** e **Inmigración**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Emigración es SALIR de tu país (vas para afuera); Inmigración es ENTRAR a un nuevo país (vienes de afuera)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Emigración es viajar por turismo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Son lo mismo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Inmigración es salir",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPara Colombia eres emigrante si te vas; para España eres inmigrante si llegas.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-migraciones-causas-consecuencias-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-migraciones-causas-consecuencias-001-v2",
+      "statement": "**ID:** `CO-CS-8-migraciones-causas-consecuencias-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un **Desplazado Interno**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alguien que se ve obligado a huir de su hogar por violencia o desastres, pero se queda DENTRO de las fronteras de su propio país",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un turista",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Alguien que viaja al extranjero",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un estudiante de intercambio",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nColombia tiene uno de los números más altos de desplazados internos del mundo.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-migraciones-causas-consecuencias-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-migraciones-causas-consecuencias-001-v3",
+      "statement": "**ID:** `CO-CS-8-migraciones-causas-consecuencias-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es una causa **Económica** común de la migración?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Buscar empleo y mejores salarios (el \"Sueño Americano\" o europeo)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Huir de la guerra",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Persecución religiosa",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Cambio climático",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLa gente se va donde hay plata y oportunidades.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-migraciones-causas-consecuencias-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-migraciones-causas-consecuencias-001-v4",
+      "statement": "**ID:** `CO-CS-8-migraciones-causas-consecuencias-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un **Refugiado** según el derecho internacional?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alguien que huye de su país por temos fundado de persecución (raza, religión, política) y no puede regresar, por lo que pide protección a otro estado",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un inmigrante ilegal",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un viajero",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un trabajador temporal",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nTienen derechos especiales de protección (no pueden ser devueltos a la fuerza).\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-migraciones-causas-consecuencias-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-migraciones-causas-consecuencias-001-v5",
+      "statement": "**ID:** `CO-CS-8-migraciones-causas-consecuencias-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué son las **Remesas**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El dinero que los inmigrantes envían a sus familias en su país de origen",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Impuestos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Regalos de navidad",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Deudas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs una fuente enorme de ingresos para países como México, Colombia o Filipinas.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-migraciones-causas-consecuencias-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-migraciones-causas-consecuencias-001-v6",
+      "statement": "**ID:** `CO-CS-8-migraciones-causas-consecuencias-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Fuga de Cerebros**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuando los profesionales más educados (médicos, ingenieros) emigran a países ricos, dejando a su país de origen sin talento calificado",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Cuando se escapan los presos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un dolor de cabeza",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Cuando se olvidan las cosas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl país pobre invierte en su educación, pero el país rico se queda con los beneficios.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-migraciones-causas-consecuencias-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-migraciones-causas-consecuencias-001-v7",
+      "statement": "**ID:** `CO-CS-8-migraciones-causas-consecuencias-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué impacto tiene la migración masiva en los países de **Recepción** (los que reciben)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Puede generar crecimiento económico (mano de obra), diversidad cultural, pero también tensiones sociales (xenofobia) y presión sobre servicios públicos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Solo cosas malas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Solo cosas buenas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "No pasa nada",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs un fenómeno complejo con dos caras.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-migraciones-causas-consecuencias-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-migraciones-causas-consecuencias-001-v8",
+      "statement": "**ID:** `CO-CS-8-migraciones-causas-consecuencias-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Xenofobia**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El miedo, rechazo u odio irracional hacia los extranjeros o inmigrantes",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Miedo a las alturas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Amor por los extranjeros",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Miedo a los payasos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nViene del griego \"Xenos\" (extranjero) y \"Fobos\" (miedo).\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-migraciones-causas-consecuencias-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-migraciones-causas-consecuencias-001-v9",
+      "statement": "**ID:** `CO-CS-8-migraciones-causas-consecuencias-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un **Migrante Climático**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alguien obligado a migrar debido a cambios ambientales extremos (sequías, inundaciones, aumento del nivel del mar) que hacen inhabitable su hogar",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Alguien que viaja en verano",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un meteorólogo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un pájaro",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSerá la principal causa de migración en el futuro.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-migraciones-causas-consecuencias-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-migraciones-causas-consecuencias-001-v10",
+      "statement": "**ID:** `CO-CS-8-migraciones-causas-consecuencias-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la migración **Pendular** o Transfronteriza (común en la frontera con Venezuela)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El movimiento diario o periódico de personas que cruzan la frontera para trabajar, estudiar o comprar y regresan a su país el mismo día",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Mudarse para siempre",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Viajar en avión",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Migrar en barco",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nVan y vienen como un péndulo.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-migraciones-causas-consecuencias-001-v3-bundle",
+      "periodo": 1,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-movimiento-obrero-sindicatos-001-v1",
+      "statement": "**ID:** `CO-CS-8-movimiento-obrero-sindicatos-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un **Sindicato**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una asociación de trabajadores formada para defender sus derechos laborales (salarios, jornadas, seguridad) frente a los dueños de las fábricas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una fábrica",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una iglesia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un club deportivo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n\"La unión hace la fuerza\". Un obrero solo es débil; unidos son fuertes.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-movimiento-obrero-sindicatos-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-movimiento-obrero-sindicatos-001-v2",
+      "statement": "**ID:** `CO-CS-8-movimiento-obrero-sindicatos-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Cuál es la herramienta de protesta más poderosa de los trabajadores cuando no se escuchan sus peticiones?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Huelga (parar la producción)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Trabajar más",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Irse a casa",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Escribir cartas",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSi las máquinas paran, el dueño pierde plata y se ve obligado a negociar.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-movimiento-obrero-sindicatos-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-movimiento-obrero-sindicatos-001-v3",
+      "statement": "**ID:** `CO-CS-8-movimiento-obrero-sindicatos-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué fue el **Ludismo** (principios del siglo XIX)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un movimiento de obreros que destruía las máquinas porque creían que estas les robaban el trabajo y causaban su pobreza",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un baile",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una religión",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un deporte",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSe llamaban así por su líder mítico, Ned Ludd. Pero el problema no eran las máquinas, sino los dueños.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-movimiento-obrero-sindicatos-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-movimiento-obrero-sindicatos-001-v4",
+      "statement": "**ID:** `CO-CS-8-movimiento-obrero-sindicatos-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué fecha se conmemora el 1 de Mayo en casi todo el mundo como el **Día del Trabajador**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La masacre de los Mártires de Chicago (1886) que murieron luchando por la jornada de 8 horas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El cumpleaños del Rey",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El inicio de la primavera",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El fin de la guerra",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAntes se trabajaba hasta 16 horas. La consigna era: \"8 horas de trabajo, 8 de sueño, 8 de ocio\".\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-movimiento-obrero-sindicatos-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-movimiento-obrero-sindicatos-001-v5",
+      "statement": "**ID:** `CO-CS-8-movimiento-obrero-sindicatos-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **Socialismo Utópico**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las primeras ideas (antes de Marx) que proponían crear comunidades ideales y armónicas donde dueños y obreros compartieran la riqueza voluntariamente",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un sueño",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una dictadura",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El capitalismo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nFracasaron porque dependían de la buena voluntad de los ricos.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-movimiento-obrero-sindicatos-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-movimiento-obrero-sindicatos-001-v6",
+      "statement": "**ID:** `CO-CS-8-movimiento-obrero-sindicatos-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Quiénes escribieron el \"Manifiesto Comunista\" (1848), base del **Socialismo Científico**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Karl Marx y Friedrich Engels",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Adam Smith y David Ricardo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Voltaire y Rousseau",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "John Lennon y Paul McCartney",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nProponían que los obreros (proletarios) debían tomar el poder mediante una revolución y abolir la propiedad privada.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-movimiento-obrero-sindicatos-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-movimiento-obrero-sindicatos-001-v7",
+      "statement": "**ID:** `CO-CS-8-movimiento-obrero-sindicatos-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **Anarquismo**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una ideología que rechaza toda forma de autoridad impuesta (Estado, Iglesia, Patrones) y propone la autogestión y libertad absoluta",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El caos total",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una monarquía",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un partido político",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n\"Ni Dios, ni Patria, ni Amo\". Creían que el hombre es bueno por naturaleza y el Estado lo corrompe.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-movimiento-obrero-sindicatos-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-movimiento-obrero-sindicatos-001-v8",
+      "statement": "**ID:** `CO-CS-8-movimiento-obrero-sindicatos-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué fueron las **Internacionales Obreras**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Organizaciones que intentaron unir a los sindicatos y partidos obreros de todos los países (\"¡Proletarios de todos los países, uníos!\")",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Equipos de fútbol",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Empresas multinacionales",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Guerras mundiales",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nFracasaron cuando estalló la Primera Guerra Mundial y los obreros prefirieron defender a sus países que a su clase social.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-movimiento-obrero-sindicatos-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-movimiento-obrero-sindicatos-001-v9",
+      "statement": "**ID:** `CO-CS-8-movimiento-obrero-sindicatos-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué evento trágico en Colombia (1928) es un ejemplo de la represión violenta contra el movimiento obrero bananero?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Masacre de las Bananeras (Ciénaga, Magdalena) contra trabajadores de la United Fruit Company",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La Guerra de los Mil Días",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Bogotazo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La Independencia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nCien años de Soledad narra este evento. Pedían cosas básicas como botas y pago en dinero, no en vales.\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-movimiento-obrero-sindicatos-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-movimiento-obrero-sindicatos-001-v10",
+      "statement": "**ID:** `CO-CS-8-movimiento-obrero-sindicatos-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un **Pliego de Peticiones**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El documento formal donde el sindicato presenta al empleador sus exigencias para mejorar las condiciones laborales",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una carta de renuncia",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una demanda judicial",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una lista de mercado",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs el inicio de la negociación colectiva.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-movimiento-obrero-sindicatos-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-resolucion-pacifica-conflictos-001-v1",
+      "statement": "**ID:** `CO-CS-8-resolucion-pacifica-conflictos-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué es un **Conflicto**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una situación de desacuerdo o intereses opuestos entre dos o más partes que es natural e inevitable en la conviviencia humana (no siempre es violencia)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una guerra",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un problema matemático",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un partido de fútbol",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl problema no es tener conflictos, sino cómo los resolvemos (a golpes o hablando).\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-resolucion-pacifica-conflictos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-resolucion-pacifica-conflictos-001-v2",
+      "statement": "**ID:** `CO-CS-8-resolucion-pacifica-conflictos-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Negociación** directa?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuando las partes involucradas dialogan directamente (cara a cara) buscando un acuerdo mutuamente beneficioso sin necesidad de que intervenga un tercero",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Pelear",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Llamar a la policía",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Ignorarse",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs la forma más rápida y madura de resolver un problema.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-resolucion-pacifica-conflictos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-resolucion-pacifica-conflictos-001-v3",
+      "statement": "**ID:** `CO-CS-8-resolucion-pacifica-conflictos-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Mediación**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuando un tercero neutral (el mediador) ayuda a las partes a comunicarse y encontrar su propia solución, pero NO decide por ellas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un juicio",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una apuesta",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una pelea",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl mediador es como un \"traductor\" de emociones. Ayuda a bajar la rabia.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-resolucion-pacifica-conflictos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-resolucion-pacifica-conflictos-001-v4",
+      "statement": "**ID:** `CO-CS-8-resolucion-pacifica-conflictos-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Empatía**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La capacidad de \"ponerse en los zapatos del otro\", entendiendo sus sentimientos y puntos de vista, fundamental para resolver conflictos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Tener lástima",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Ser simpático",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Estar de acuerdo en todo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nSi entiendes por qué el otro está bravo, es más fácil llegar a un acuerdo.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-resolucion-pacifica-conflictos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-resolucion-pacifica-conflictos-001-v5",
+      "statement": "**ID:** `CO-CS-8-resolucion-pacifica-conflictos-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Conciliación** en Derecho?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un mecanismo formal donde un tercero autorizado (el conciliador) puede proponer soluciones, y si hay acuerdo, este tiene validez legal (como una sentencia)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Pedir perdón",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Darse la mano",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Olvidar",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n\"Más vale un mal arreglo que un buen pleito\". Ahorra años de juicios.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-resolucion-pacifica-conflictos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-resolucion-pacifica-conflictos-001-v6",
+      "statement": "**ID:** `CO-CS-8-resolucion-pacifica-conflictos-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Resiliencia**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La capacidad de sobreponerse a situaciones traumáticas o difíciles y salir fortalecido de ellas (esencial para las víctimas del conflicto armado)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Ser fuerte físicamente",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "No sentir dolor",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Vengarse",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs como un resorte: te estiran o te golpean, pero vuelves a tu forma original.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-resolucion-pacifica-conflictos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-resolucion-pacifica-conflictos-001-v7",
+      "statement": "**ID:** `CO-CS-8-resolucion-pacifica-conflictos-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Justicia Restaurativa**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un enfoque de justicia que busca reparar el daño causado a la víctima y restaurar la relación social, en lugar de solo castigar al culpable con cárcel",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La pena de muerte",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La venganza",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Olvidar todo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLe pregunta a la víctima: \"¿Qué necesitas para sanar?\" y al agresor: \"¿Cómo vas a reparar el daño?\".\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-resolucion-pacifica-conflictos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-resolucion-pacifica-conflictos-001-v8",
+      "statement": "**ID:** `CO-CS-8-resolucion-pacifica-conflictos-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué es el **Arbitraje**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuando las partes acuerdan dejar la decisión final en manos de un tercero experto (el árbitro), cuya decisión es obligatoria (laudo arbitral)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un partido de fútbol",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una rifa",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Tirar una moneda",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs como en el fútbol: el árbitro decide y no se puede discutir.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-resolucion-pacifica-conflictos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-resolucion-pacifica-conflictos-001-v9",
+      "statement": "**ID:** `CO-CS-8-resolucion-pacifica-conflictos-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Memoria Histórica** en el contexto del conflicto armado colombiano?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El deber de recordar y documentar lo que pasó (las masacres, los secuestros) para dignificar a las víctimas y garantizar que los hechos no se repitan",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Estudiar fechas",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Olvidar el pasado",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Hacer monumentos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n\"Quien no conoce su historia está condenado a repetirla\".\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-resolucion-pacifica-conflictos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-resolucion-pacifica-conflictos-001-v10",
+      "statement": "**ID:** `CO-CS-8-resolucion-pacifica-conflictos-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué son los **Mecanismos Alternativos de Solución de Conflictos** (MASC)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Herramientas legales (como mediación, conciliación, jueces de paz) que permiten resolver problemas sin tener que ir a un juicio largo y costoso ante un juez",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Pelear en la calle",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Hacer justicia por propia mano",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Contratar matones",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nDescongestionan los juzgados y empoderan a la gente para resolver sus líos.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-resolucion-pacifica-conflictos-001-v3-bundle",
+      "periodo": 4,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-revolucion-francesa-causas-001-v1",
+      "statement": "**ID:** `CO-CS-8-revolucion-francesa-causas-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué evento marcó el inicio simbólico de la **Revolución Francesa** el 14 de julio de 1789?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Toma de la Bastilla (una prisión real que simbolizaba la tiranía del rey)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La muerte del Rey",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una fiesta",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La invención de la guillotina",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl pueblo de París se levantó en armas buscando pólvora.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-revolucion-francesa-causas-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-revolucion-francesa-causas-001-v2",
+      "statement": "**ID:** `CO-CS-8-revolucion-francesa-causas-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿Quiénes eran los **Reyes de Francia** cuando estalló la revolución?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Luis XVI y María Antonieta",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Napoleón y Josefina",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Isabel y Fernando",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Romeo y Julieta",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAmbos terminaron guillotinados por \"traición\".\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-revolucion-francesa-causas-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-revolucion-francesa-causas-001-v3",
+      "statement": "**ID:** `CO-CS-8-revolucion-francesa-causas-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué movimiento intelectual inspiró a los revolucionarios con ideas de libertad y razón?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Ilustración (el \"Siglo de las Luces\")",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Renacimiento",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La Reforma",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Romanticismo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPensadores como Voltaire, Rousseau y Montesquieu dijeron que el poder no viene de Dios al Rey, sino del pueblo.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-revolucion-francesa-causas-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-revolucion-francesa-causas-001-v4",
+      "statement": "**ID:** `CO-CS-8-revolucion-francesa-causas-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Cuáles eran los tres **Estados** (clases sociales) en la Francia prerrevolucionaria?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1° Clero (iglesia), 2° Nobleza (ricos), 3° Estado Llano (campesinos, burgueses y artesanos)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Ricos, medios y pobres",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Reyes, militares y esclavos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Hombres, mujeres y niños",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl problema era que el 1° y 2° no pagaban impuestos, y el 3° (el 97% de la gente) pagaba todo.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-revolucion-francesa-causas-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-revolucion-francesa-causas-001-v5",
+      "statement": "**ID:** `CO-CS-8-revolucion-francesa-causas-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué documento fundamental se proclamó en 1789 declarando que \"los hombres nacen y permanecen libres e iguales en derechos\"?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Declaración de los Derechos del Hombre y del Ciudadano",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La Constitución de EE.UU.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La Carta Magna",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La Biblia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nFue traducida al español por Antonio Nariño, inspirando nuestra independencia.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-revolucion-francesa-causas-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-revolucion-francesa-causas-001-v6",
+      "statement": "**ID:** `CO-CS-8-revolucion-francesa-causas-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué fue el **Régimen del Terror** (1793-1794)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un periodo sangriento liderado por Robespierre donde miles de personas fueron guillotinadas por ser sospechosas de estar contra la revolución",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una película de miedo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una guerra contra Inglaterra",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Una epidemia",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\n\"La revolución devora a sus propios hijos\". Hasta Robespierre terminó en la guillotina.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-revolucion-francesa-causas-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-revolucion-francesa-causas-001-v7",
+      "statement": "**ID:** `CO-CS-8-revolucion-francesa-causas-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué grupo social lideró la Revolución Francesa (aunque usaron al pueblo para pelear)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Burguesía (comerciantes, profesionales ricos que no eran nobles)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Los Campesinos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los Nobles",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Clero",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nQuerían poder político porque ya tenían poder económico.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-revolucion-francesa-causas-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-revolucion-francesa-causas-001-v8",
+      "statement": "**ID:** `CO-CS-8-revolucion-francesa-causas-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Quién dio un golpe de estado el 18 de Brumario (1799), poniendo fin a la revolución y comenzando el Imperio?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Napoleón Bonaparte",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Simón Bolívar",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Luis XIV",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Carlomagno",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nOrdenó el caos, pero se coronó Emperador, volviendo a una especie de monarquía.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-revolucion-francesa-causas-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-revolucion-francesa-causas-001-v9",
+      "statement": "**ID:** `CO-CS-8-revolucion-francesa-causas-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Por qué la Revolución Francesa es considerada el inicio de la **Edad Contemporánea**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque rompió con el Antiguo Régimen (monarquía absoluta y feudalismo) y sentó las bases de la democracia moderna, la república y los derechos ciudadanos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Porque inventaron la máquina de vapor",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Porque descubrieron América",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Porque se acabó la guerra",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPasamos de ser súbditos (propiedad del rey) a ser ciudadanos (con derechos y deberes).\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-revolucion-francesa-causas-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-revolucion-francesa-causas-001-v10",
+      "statement": "**ID:** `CO-CS-8-revolucion-francesa-causas-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿Qué eran los **Estados Generales**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una asamblea convocada por el rey (que no se reunía hacía 150 años) donde se reunían representantes de los tres estados para discutir la crisis financiera",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un ejército",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un mapa de Francia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Los bancos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEl Rey la convocó para pedir más plata, pero se le salió de las manos y terminó perdiendo la cabeza.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-revolucion-francesa-causas-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-revolucion-industrial-fases-001-v1",
+      "statement": "**ID:** `CO-CS-8-revolucion-industrial-fases-001-v1`\r\n\r\n### Enunciado\r\n\r\n¿Qué fue la **Revolución Industrial**?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El proceso de transformación económica y tecnológica donde se pasó de la producción manual (artesanal) a la producción con máquinas en fábricas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Una guerra con armas industriales",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Una revolución política",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un invento agrícola",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nCambió para siempre la forma en que los humanos producimos cosas.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-revolucion-industrial-fases-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-revolucion-industrial-fases-001-v2",
+      "statement": "**ID:** `CO-CS-8-revolucion-industrial-fases-001-v2`\r\n\r\n### Enunciado\r\n\r\n¿En qué país comenzó la **Primera** Revolución Industrial a finales del siglo XVIII?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inglaterra (Gran Bretaña)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Estados Unidos",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Francia",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "China",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nTenían mucho carbón, hierro y capital para invertir.\r\n\r\n---",
+      "difficulty": "1",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-revolucion-industrial-fases-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-revolucion-industrial-fases-001-v3",
+      "statement": "**ID:** `CO-CS-8-revolucion-industrial-fases-001-v3`\r\n\r\n### Enunciado\r\n\r\n¿Qué invento, perfeccionado por James Watt, fue el motor principal de la **Primera Fase** de la Revolución Industrial?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Máquina de Vapor",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La Electricidad",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La Computadora",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Internet",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPermitió mover trenes, barcos y máquinas textiles sin depender del viento o fuerza animal.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-revolucion-industrial-fases-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-revolucion-industrial-fases-001-v4",
+      "statement": "**ID:** `CO-CS-8-revolucion-industrial-fases-001-v4`\r\n\r\n### Enunciado\r\n\r\n¿Qué fuentes de energía caracterizaron la **Segunda Fase** de la Revolución Industrial (finales del siglo XIX)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Petróleo y la Electricidad",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Carbón y el Vapor",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La Energía Nuclear",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La Energía Solar",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAparecieron el bombillo, el automóvil, el teléfono y el cine.\r\n\r\n---",
+      "difficulty": "2",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-revolucion-industrial-fases-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-revolucion-industrial-fases-001-v5",
+      "statement": "**ID:** `CO-CS-8-revolucion-industrial-fases-001-v5`\r\n\r\n### Enunciado\r\n\r\n¿Qué nueva clase social surgió como resultado del trabajo en las fábricas?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Proletariado (clase obrera), que vendía su fuerza de trabajo a cambio de un salario",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La Nobleza",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los Esclavos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Los Campesinos",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nVivían en condiciones miserables, cerca de las fábricas llenas de humo.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-revolucion-industrial-fases-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-revolucion-industrial-fases-001-v6",
+      "statement": "**ID:** `CO-CS-8-revolucion-industrial-fases-001-v6`\r\n\r\n### Enunciado\r\n\r\n¿Qué impacto tuvo la Revolución Industrial en las ciudades (**Urbanización**)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crecieron desordenadamente y muy rápido debido a la migración masiva de campesinos que buscaban trabajo en las fábricas",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Se volvieron más limpias",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Se achicaron",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Desaparecieron",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nLondres y Manchester se llenaron de gente, enfermedades y contaminación.\r\n\r\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-revolucion-industrial-fases-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-revolucion-industrial-fases-001-v7",
+      "statement": "**ID:** `CO-CS-8-revolucion-industrial-fases-001-v7`\r\n\r\n### Enunciado\r\n\r\n¿Qué es la **Producción en Cadena** (o Fordismo), introducida por Henry Ford a principios del siglo XX?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un sistema donde cada obrero hace una sola tarea repetitiva mientras el producto se mueve en una cinta transportadora, reduciendo costos y tiempos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Hacer todo a mano",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Hacer productos únicos",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Trabajar desde casa",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nPermitió producir el Modelo T, el primer carro barato para las masas.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-revolucion-industrial-fases-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-revolucion-industrial-fases-001-v8",
+      "statement": "**ID:** `CO-CS-8-revolucion-industrial-fases-001-v8`\r\n\r\n### Enunciado\r\n\r\n¿Qué problema social grave caracterizó los inicios de la Revolución Industrial?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La explotación laboral infantil y jornadas de trabajo de 14 a 16 horas sin seguridad ni derechos",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El desempleo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La falta de máquinas",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El exceso de vacaciones",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nNiños de 6 años trabajaban en minas de carbón porque cabían en huecos pequeños.\r\n\r\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-revolucion-industrial-fases-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-revolucion-industrial-fases-001-v9",
+      "statement": "**ID:** `CO-CS-8-revolucion-industrial-fases-001-v9`\r\n\r\n### Enunciado\r\n\r\n¿Qué ideología económica impulsó la Revolución Industrial defendiendo la propiedad privada y el libre mercado?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Capitalismo (Liberalismo Económico)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "El Socialismo",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El Feudalismo",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El Comunismo",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nAdam Smith decía que el estado no debía intervenir (\"la mano invisible\").\r\n\r\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-revolucion-industrial-fases-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    },
+    {
+      "id": "CO-CS-8-revolucion-industrial-fases-001-v10",
+      "statement": "**ID:** `CO-CS-8-revolucion-industrial-fases-001-v10`\r\n\r\n### Enunciado\r\n\r\n¿En qué consiste la **Tercera Revolución Industrial** (segunda mitad del siglo XX)?\r\n\r\n### Opciones",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la automatización, la computación, el internet y las energías renovables (Era de la Información)",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "En el vapor",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "En la electricidad",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "En la inteligencia artificial (esa es la Cuarta)",
+          "is_correct": false
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Pedagógica\r\n\r\nEs la era digital en la que nacieron sus padres. La de ustedes es la Cuarta (IA, robots).",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bundle_id": "CO-CS-8-revolucion-industrial-fases-001-v3-bundle",
+      "periodo": 2,
+      "protocol_version": "3"
+    }
+  ]
+}
