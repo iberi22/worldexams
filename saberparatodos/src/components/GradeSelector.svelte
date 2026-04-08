@@ -9,39 +9,46 @@
 
   let { onSelect, onBack }: Props = $props();
 
-  // All available grades with bundles (3-12)
-  // Ideally this should come from API or config, but we'll expand the range for now to cover MX
-  // Only show main Saber (ICFES) grades initially: 3, 5, 9, 11
-  const defaultGrades = [11, 3, 5, 9];
-  const extraGrades = [4, 6, 7, 8, 10, 12];
+  const configuredGrades = [...new Set(countryConfig.grades.map((grade) => grade.id))].sort((a, b) => a - b);
+  const defaultGrades = configuredGrades
+    .slice()
+    .sort((a, b) => {
+      if (a === 11) return -1;
+      if (b === 11) return 1;
+      return a - b;
+    })
+    .slice(0, 4);
+  const extraGrades = configuredGrades.filter((grade) => !defaultGrades.includes(grade));
 
   let showAllGrades = $state(false);
 
   let displayedGrades = $derived(showAllGrades ? [...defaultGrades, ...extraGrades] : defaultGrades);
 
   function getGradeLabel(grade: number) {
-     if (countryConfig.gradeNames && countryConfig.gradeNames[grade]) {
-         return countryConfig.gradeNames[grade];
-     }
-     return `${grade}° Grado`;
+    return countryConfig.gradeNames[grade] || `${grade}°`;
   }
 
-  const gradeLabels = $derived(displayedGrades.map(g => ({
-      grade: g,
-      label: getGradeLabel(g),
-      // Split label if it has a space (e.g. "3° Primaria" -> "3°", "Primaria")
-      topLine: getGradeLabel(g).split(' ')[0], // "3°"
-      bottomLine: getGradeLabel(g).split(' ').slice(1).join(' ') || 'Grado' // "Primaria" or "Grado"
-  })));
+  const gradeLabels = $derived(
+    displayedGrades.map((grade) => {
+      const label = getGradeLabel(grade);
+      const [topLine, ...rest] = label.split(' ');
+
+      return {
+        grade,
+        topLine,
+        bottomLine: rest.join(' ') || countryConfig.examName,
+      };
+    })
+  );
 </script>
 
 <div class="flex flex-col items-center justify-center min-h-[80vh] space-y-12 animate-fade-in-up">
   <div class="space-y-4 text-center">
     <h2 class="text-4xl font-bold uppercase tracking-tighter text-[#F5F5DC]">
-      Exámenes <span class="text-emerald-500">tipo saber</span>
+      Examenes <span class="text-emerald-500">{countryConfig.product.guideLabel.toLowerCase()}</span>
     </h2>
     <p class="max-w-md mx-auto text-sm font-light leading-relaxed opacity-60">
-      Elige el nivel académico para tu evaluación.
+      Elige el nivel academico para tu evaluacion.
     </p>
   </div>
 
@@ -57,10 +64,10 @@
         <h3 class={`font-bold uppercase tracking-widest text-center group-hover:opacity-100 transition-all duration-300 ${grade === 11 ? 'text-sm opacity-100' : 'text-xs opacity-60'}`}>
           {bottomLine}
         </h3>
-        
+
         {#if grade === 11}
           <div class="mt-4 px-3 py-1 bg-emerald-500/10 rounded-full border border-emerald-500/20">
-            <span class="text-[10px] text-emerald-400 font-bold uppercase tracking-widest animate-pulse">Examen Principal</span>
+            <span class="text-[10px] text-emerald-400 font-bold uppercase tracking-widest animate-pulse">Ruta destacada</span>
           </div>
         {/if}
       </FlashlightCard>
@@ -69,10 +76,10 @@
 
   {#if extraGrades.length > 0 && !showAllGrades}
     <button
-      onclick={() => showAllGrades = true}
+      onclick={() => (showAllGrades = true)}
       class="px-6 py-2 mt-4 text-emerald-400 hover:text-emerald-300 transition-colors uppercase text-sm tracking-widest font-semibold"
     >
-      Ver más exámenes
+      Ver mas examenes
     </button>
   {/if}
 

@@ -30,10 +30,12 @@ It exists because the product currently runs as an Astro SSR application on Clou
 - Production hostname is `saberparatodos.space`.
 - Secondary hostname is `www.saberparatodos.space`.
 - The default Pages project may still exist in the account, but it is not the canonical production runtime for the app.
+- Non-production preview should use a separate Worker on `*.workers.dev`.
 
 ## Hard Rules
 
 - Do not use `wrangler pages deploy` for `saberparatodos/` production deploys.
+- Do not use `page.dev` as the default preview target while `saberparatodos/` remains Worker SSR.
 - Do not describe the production target as a Pages deploy when editing docs or agent rules.
 - Do not use `custom_domain = true` bindings for `saberparatodos.space/*` style patterns.
 - Do not publish invalid Worker routes such as:
@@ -55,6 +57,16 @@ Preferred shortcut:
 
 - `npm run deploy:manual`
 
+## Preview Deploy Path
+
+Use a separate Worker name and a `workers.dev` URL:
+
+1. `pwsh -File scripts/copy-api.ps1`
+2. `npm run build`
+3. `node scripts/normalize-wrangler-config.mjs --target preview --public-site-url <workers.dev-url> --name <preview-worker-name>`
+4. `npx wrangler deploy --config dist/server/wrangler.json --name=<preview-worker-name>`
+5. `pwsh -File scripts/verify-deployment.ps1 -BaseUrl <workers.dev-url> -Mode preview`
+
 ## Route Strategy
 
 The production Worker must deploy with Worker routes, not Pages publish commands.
@@ -67,6 +79,12 @@ Expected route shape:
 Each route must be attached with the zone name:
 
 - `zone_name = "saberparatodos.space"`
+
+Preview Worker rules:
+
+- no production routes
+- `workers_dev = true`
+- non-production `PUBLIC_SITE_URL`
 
 ## Route Normalization
 
@@ -83,7 +101,7 @@ If production suddenly returns `404` on:
 
 - `https://saberparatodos.space`
 - `https://www.saberparatodos.space`
-- `https://saberparatodos.pages.dev`
+- preview URLs that were expected to stay on `workers.dev`
 
 then check these first:
 
@@ -110,9 +128,10 @@ When updating deploy instructions for `saberparatodos/`, use this terminology:
 - "Cloudflare Worker deploy"
 - "Worker routes"
 - "Wrangler Worker SSR deploy"
+- "workers.dev preview deploy"
 
 Avoid these outdated phrases unless clearly labeled as historical:
 
 - "Cloudflare Pages production deploy"
 - "`wrangler pages deploy dist --project-name=saberparatodos`"
-
+- "`page.dev` preview as the default runtime for saberparatodos"

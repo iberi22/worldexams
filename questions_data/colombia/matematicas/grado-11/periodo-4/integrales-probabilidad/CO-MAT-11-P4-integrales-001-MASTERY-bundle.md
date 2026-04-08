@@ -43,5 +43,5 @@ Desde los andés ruidoso cívico andino asimétrico fundamentos andinos empíric
 
 ---
 
-## 📊 Metadata de Calibración
+##  Metadata de Calibración
 (15 The ).

@@ -14,7 +14,9 @@
 import { test, expect } from '@playwright/test';
 
 const EDGE_FUNCTION_URL = 'https://tzmrgvtptdtsjcugwqyq.supabase.co/functions/v1';
-const FRONTEND_URL = 'https://d12a4b18.saberparatodos.pages.dev';
+const FRONTEND_URL =
+  process.env.PLAYWRIGHT_BASE_URL ||
+  'https://saberparatodos.space';
 
 test.describe('Security & Performance Improvements', () => {
 

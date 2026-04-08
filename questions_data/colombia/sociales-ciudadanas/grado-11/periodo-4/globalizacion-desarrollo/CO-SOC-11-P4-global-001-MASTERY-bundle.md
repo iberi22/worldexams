@@ -43,5 +43,5 @@ the The from To To the To The y from The from to to the is To it is the It The f
 
 ---
 
-## 📊 Metadata de Calibración
+##  Metadata de Calibración
 (15 The ).

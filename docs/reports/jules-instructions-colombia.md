@@ -1,5 +1,7 @@
 # 🎯 Instrucciones para @jules - Generación de Packs Colombia
 
+> Historical context only. Para trabajo nuevo valida primero `docs/specs/ACTIVE_PROTOCOLS.md`; `docs/QUESTION_GENERATION_PROTOCOL_V2.md` y las instrucciones de este archivo solo sirven para mantenimiento legacy. La configuración país vigente vive en `config/countries.config.ts`.
+
 > **Asignación:** Generar packs de preguntas para Colombia (ICFES)
 > **Protocolo:** v2.0 (7 preguntas por pack)
 > **Prioridad:** Grado 11° - Plan 105 Preguntas
@@ -782,7 +784,7 @@ Por favor revisar:
 
 - [Protocolo v2.0](../../docs/QUESTION_GENERATION_PROTOCOL_V2.md)
 - [Análisis de packs](../../docs/reports/colombia-packs-status.md)
-- [Configuración Colombia](../../saberparatodos/config/country.ts)
+- [Configuracion Colombia vigente](../../config/countries.config.ts)
 
 ---
 
@@ -820,7 +822,7 @@ cat api/v1/CO/icfes/9/matematicas/2.json | jq '.questions[].id'
 
 Si tienes dudas o necesitas clarificación:
 1. **Revisa el [Protocolo v2.0](../QUESTION_GENERATION_PROTOCOL_V2.md)** completo
-2. **Consulta el [análisis de packs](./colombia-packs-status.md)**
+2. **Consulta el [analisis de packs](./colombia-packs-status.md)**
 3. **Pregunta en el PR** o issue correspondiente
 
 ---

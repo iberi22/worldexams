@@ -8,7 +8,7 @@ This document defines the controlled migration of `worldexams` into an explicit 
 It is intentionally written so another agent or engineer can execute the reorganization in a safe branch without making structural decisions on the fly.
 
 This plan started as documentation-first, but the safe branch has already executed part of the physical reorganization.
-`apps/worldexams-site/`, `apps/worldexams-api/`, and `services/social-orchestrator/` now exist as real package locations.
+`apps/landing-worldexams/`, `apps/worldexams-api/`, and `services/social-orchestrator/` now exist as real package locations.
 The remaining major package move is `saberparatodos/`.
 
 ## Strategic Constraint
@@ -58,7 +58,7 @@ worldexams/
 
 ### Initial Package Mapping
 
-- `saberparatodos/` -> `apps/saberparatodos/`
+- `saberparatodos/` -> remain in place until a later explicit move is approved
 - `apps/worldexams-api/` -> already moved
 - `services/social-orchestrator/` -> already moved
 - current root executable app code -> classify during migration as:
