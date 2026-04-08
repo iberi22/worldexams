@@ -8,6 +8,13 @@ import { Question, QuestionGenerationRequest, QuestionDifficulty } from '../type
 
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY || '');
 
+type GeneratedQuestionPayload = Pick<
+  Question,
+  'text' | 'options' | 'correctAnswerId' | 'explanation' | 'topic' | 'category'
+> & {
+  difficulty?: string;
+};
+
 export class QuestionGeneratorService {
   private model = genAI.getGenerativeModel({ model: 'gemini-2.0-flash' });
 
@@ -86,7 +93,7 @@ IMPORTANT: Return ONLY valid JSON array, no markdown, no explanation outside JSO
    * Create a Question object with all required fields
    */
   private createQuestion(
-    data: any,
+    data: Partial<GeneratedQuestionPayload>,
     topic: string,
     difficulty: string,
     category: string | undefined,

@@ -3,7 +3,7 @@
  * Evaluates question quality using algorithms and AI
  */
 
-import { Question, QuestionMetrics, QuestionEvaluationRequest } from '../types/question.types';
+import { Question, QuestionMetrics } from '../types/question.types';
 
 export class QuestionEvaluationService {
   /**
