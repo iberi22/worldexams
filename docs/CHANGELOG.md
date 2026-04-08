@@ -42,7 +42,7 @@ and this project follows a pragmatic release flow while repository boundaries ar
 - Explicit linkage between architecture, changelog, and visible project version
 - Canonical protocol mapping for active features and release follow-up
 - `.gitcore/planning/PLANNING.md` and `.gitcore/planning/TASK.md` as the active planning layer
-- `apps/worldexams-site/` as a dedicated workspace for the organization/site surface
+- `apps/landing-worldexams/` as a dedicated workspace for the organization/site surface
 - `apps/worldexams-api/` and `services/social-orchestrator/` as normalized package locations
 
 ### Changed

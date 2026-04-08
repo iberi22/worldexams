@@ -1,6 +1,6 @@
 ---
-// Importar Sentry en el layout principal
 import '../lib/sentry';
+import { countryConfig } from '../config';
 
 interface Props {
   title?: string;
@@ -8,13 +8,13 @@ interface Props {
 }
 
 const {
-  title = 'SaberParaTodos - Practica ICFES Gratis',
-  description = 'Plataforma gratuita para practicar exámenes ICFES de Colombia'
+  title = `${countryConfig.product.siteName} | Practica ${countryConfig.examName}`,
+  description = countryConfig.product.defaultDescription
 } = Astro.props;
 ---
 
 <!doctype html>
-<html lang="es">
+<html lang={countryConfig.language}>
   <head>
     <meta charset="UTF-8" />
     <meta name="description" content={description} />
@@ -23,7 +23,6 @@ const {
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
 
-    <!-- Sentry Error Tracking -->
     {import.meta.env.PROD && (
       <script is:inline>
         window.addEventListener('error', function(event) {

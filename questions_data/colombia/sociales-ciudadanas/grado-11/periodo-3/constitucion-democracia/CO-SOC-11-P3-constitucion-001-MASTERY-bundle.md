@@ -137,5 +137,5 @@ Desde gélido la ruidoso cívico asimilada fática andés fáctico lúdica empí
 
 ---
 
-## 📊 Metadata de Calibración
+##  Metadata de Calibración
 (15 The ).

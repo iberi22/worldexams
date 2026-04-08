@@ -53,7 +53,7 @@
   // Handles ALL variants: "lectura-critica", "lectura_critica", "lectura crítica"
   function normalizeSubject(subject: string): string {
     if (!subject) return '';
-    let norm = subject
+    let norm = String(subject || '')
       .toUpperCase()
       .normalize('NFD')
       .replace(/[\u0300-\u036f]/g, '') // Remove accents
@@ -137,8 +137,11 @@
   }
 
   // Extract unique subjects with display names (filter out invalid questions first)
-  $: rawSubjects = [...new Set(questions.filter(q => q && q.category).map(q => q.category.split('::')[0].trim()))];
-  $: subjects = [...new Map(rawSubjects.map(s => [normalizeSubject(s), s])).values()].sort();
+  $: rawSubjects = [...new Set(questions
+    .filter(q => q && q.category && typeof q.category === 'string')
+    .map(q => q.category.split('::')[0].trim())
+  )];
+  $: subjects = [...new Map(rawSubjects.map(s => [normalizeSubject(String(s)), String(s)])).values()].sort();
 
   // 🆕 Map initialSubjectFilter to a valid subject once subjects are available
   let hasAppliedInitialFilter = false;
@@ -169,8 +172,8 @@
   function subjectsMatch(category: string | undefined, selected: string | null): boolean {
     if (!selected) return true;
     if (!category) return false;
-    const categorySubject = category.split('::')[0].trim();
-    return normalizeSubject(categorySubject) === normalizeSubject(selected);
+    const categorySubject = String(category || '').split('::')[0].trim();
+    return normalizeSubject(categorySubject) === normalizeSubject(String(selected || ''));
   }
 
   // Normalize string for search (remove accents, lowercase)

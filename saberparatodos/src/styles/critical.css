@@ -150,8 +150,9 @@ a {
 button, .btn {
   font-family: inherit;
   cursor: pointer;
-  border: none;
-  background: none;
+  border: 0;
+  appearance: none;
+  -webkit-appearance: none;
 }
 
 /* ========================================

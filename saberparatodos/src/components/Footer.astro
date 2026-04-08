@@ -1,42 +1,31 @@
 ---
-/**
- * Global Footer Component
- * Estilo minimalista con enlaces y créditos
- */
+import { countryConfig } from '../config';
 
 const currentYear = new Date().getFullYear();
 
 const footerLinks = {
   recursos: [
-    { href: "/", label: "Inicio" },
-    { href: "/manual-plataforma", label: "Manual de Uso" },
-    { href: "/guia-examen", label: `Guía ${countryConfig.code === 'MX' ? 'EXANI' : 'ICFES'} 2026` },
-    { href: "/changelog", label: "Changelog & Versiones" },
-    { href: "/sobre-nosotros", label: "Sobre Nosotros" },
-    { href: "/contacto", label: "Contacto" },
+    { href: '/', label: 'Inicio' },
+    { href: '/manual-plataforma', label: 'Manual de Uso' },
+    { href: '/guia-examen', label: `Guia ${countryConfig.product.guideLabel} ${countryConfig.product.guideYear}` },
+    { href: '/changelog', label: 'Changelog & Versiones' },
+    { href: '/sobre-nosotros', label: 'Sobre Nosotros' },
+    { href: '/contacto', label: 'Contacto' },
   ],
   legal: [
-    { href: "/terminos", label: "Términos de Uso" },
-    { href: "/privacy", label: "Política de Privacidad" },
-    { href: "/developers", label: "Developer API" },
+    { href: '/terminos', label: 'Terminos de Uso' },
+    { href: '/privacy', label: 'Politica de Privacidad' },
+    { href: '/developers', label: 'Developer API' },
   ],
   social: [
-    { href: "https://github.com/world-exams", label: "GitHub", icon: "github" },
+    { href: 'https://github.com/world-exams', label: 'GitHub', icon: 'github' },
   ],
 };
-
-import { countryConfig } from '../config';
-
-// Helper for dynamic badge logic needs to be available in template
-const configs = { 'MX': { code: 'MX' }, 'CO': { code: 'CO' } }; // Simplified for template access logic
-const getCountryCode = () => countryConfig.code;
 ---
 
 <footer class="footer">
   <div class="footer-container">
-    <!-- Main Footer Content -->
     <div class="footer-grid">
-      <!-- Brand Section -->
       <div class="footer-brand">
         <div class="brand-logo">
           <svg
@@ -64,20 +53,19 @@ const getCountryCode = () => countryConfig.code;
               font-family="monospace">WE</text
             >
           </svg>
-          <span class="brand-name">World Exams</span>
+          <span class="brand-name">{countryConfig.product.siteName}</span>
         </div>
         <p class="brand-description">
-          Plataforma open source de práctica para {countryConfig.name}.
-          Contenido gratuito para todos los estudiantes.
+          Runtime compartido de practica para {countryConfig.name}.
+          Branding, SEO y contenido curricular se localizan por tenant.
         </p>
         <div class="brand-badge">
           <span class="badge" style={`color: ${countryConfig.theme.primary}; border-color: ${countryConfig.theme.primary}`}>
-            {configs[getCountryCode() as keyof typeof configs].code === 'MX' ? '🇲🇽' : '🇨🇴'} Versión {countryConfig.name}
+            {countryConfig.flag} Version {countryConfig.name}
           </span>
         </div>
       </div>
 
-      <!-- Resources Links -->
       <div class="footer-section">
         <h3 class="section-title">Recursos</h3>
         <ul class="link-list">
@@ -93,7 +81,6 @@ const getCountryCode = () => countryConfig.code;
         </ul>
       </div>
 
-      <!-- Legal Links -->
       <div class="footer-section">
         <h3 class="section-title">Legal</h3>
         <ul class="link-list">
@@ -109,7 +96,6 @@ const getCountryCode = () => countryConfig.code;
         </ul>
       </div>
 
-      <!-- Social Links -->
       <div class="footer-section">
         <h3 class="section-title">Comunidad</h3>
         <div class="social-links">
@@ -130,26 +116,22 @@ const getCountryCode = () => countryConfig.code;
       </div>
     </div>
 
-    <!-- Divider -->
     <div class="footer-divider"></div>
 
-    <!-- Bottom Bar -->
     <div class="footer-bottom">
       <p class="copyright">
-        © {currentYear} {countryConfig.name}. Powered by <a
+        © {currentYear} {countryConfig.product.siteName}. Powered by <a
           href="https://github.com/world-exams"
           target="_blank"
           rel="noopener noreferrer">World Exams Organization</a
         >
       </p>
       <p class="disclaimer">
-        No afiliado oficialmente con {countryConfig.institucion}. Contenido educativo basado en
-        información pública.
+        No afiliado oficialmente con {countryConfig.institutionName}. Contenido educativo basado en informacion publica.
       </p>
     </div>
   </div>
 
-  <!-- Flag Stripe Bottom -->
   <div class="flag-stripe" aria-hidden="true">
     <div class="stripe" style={`background-color: ${countryConfig.theme.primary}; flex: 2`}></div>
     <div class="stripe" style={`background-color: ${countryConfig.theme.secondary}; flex: 1`}></div>
@@ -188,7 +170,6 @@ const getCountryCode = () => countryConfig.code;
     }
   }
 
-  /* Brand Section */
   .footer-brand {
     display: flex;
     flex-direction: column;
@@ -202,32 +183,30 @@ const getCountryCode = () => countryConfig.code;
   }
 
   .brand-name {
-    font-family: "Fira Code", monospace;
+    font-family: 'Fira Code', monospace;
     font-size: 1.25rem;
     font-weight: 600;
     color: #f5f5dc;
   }
 
   .brand-description {
-    font-family: "Inter", sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 0.875rem;
     color: rgba(245, 245, 220, 0.6);
     line-height: 1.6;
-    max-width: 300px;
+    max-width: 340px;
   }
 
   .badge {
     display: inline-block;
-    font-family: "Fira Code", monospace;
+    font-family: 'Fira Code', monospace;
     font-size: 0.75rem;
     padding: 0.25rem 0.5rem;
     background-color: rgba(252, 209, 22, 0.1);
     border: 1px solid rgba(252, 209, 22, 0.3);
     border-radius: 4px;
-    color: #fcd116;
   }
 
-  /* Footer Sections */
   .footer-section {
     display: flex;
     flex-direction: column;
@@ -235,7 +214,7 @@ const getCountryCode = () => countryConfig.code;
   }
 
   .section-title {
-    font-family: "Fira Code", monospace;
+    font-family: 'Fira Code', monospace;
     font-size: 0.875rem;
     font-weight: 600;
     color: #f5f5dc;
@@ -253,7 +232,7 @@ const getCountryCode = () => countryConfig.code;
   }
 
   .footer-link {
-    font-family: "Inter", sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 0.875rem;
     color: rgba(245, 245, 220, 0.6);
     text-decoration: none;
@@ -264,7 +243,6 @@ const getCountryCode = () => countryConfig.code;
     color: #f5f5dc;
   }
 
-  /* Social Links */
   .social-links {
     display: flex;
     gap: 1rem;
@@ -289,7 +267,6 @@ const getCountryCode = () => countryConfig.code;
     border-color: rgba(255, 255, 255, 0.2);
   }
 
-  /* Divider */
   .footer-divider {
     height: 1px;
     background: linear-gradient(
@@ -301,7 +278,6 @@ const getCountryCode = () => countryConfig.code;
     margin: 2rem 0 1rem;
   }
 
-  /* Bottom Bar */
   .footer-bottom {
     display: flex;
     flex-direction: column;
@@ -318,7 +294,7 @@ const getCountryCode = () => countryConfig.code;
   }
 
   .copyright {
-    font-family: "Inter", sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 0.75rem;
     color: rgba(245, 245, 220, 0.5);
   }
@@ -333,12 +309,11 @@ const getCountryCode = () => countryConfig.code;
   }
 
   .disclaimer {
-    font-family: "Inter", sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 0.75rem;
     color: rgba(245, 245, 220, 0.4);
   }
 
-  /* Flag Stripe */
   .flag-stripe {
     display: flex;
     height: 4px;
@@ -346,21 +321,6 @@ const getCountryCode = () => countryConfig.code;
   }
 
   .stripe {
-    flex: 1;
-  }
-
-  .stripe-yellow {
-    background-color: #fcd116;
-    flex: 2;
-  }
-
-  .stripe-blue {
-    background-color: #003893;
-    flex: 1;
-  }
-
-  .stripe-red {
-    background-color: #ce1126;
     flex: 1;
   }
 </style>

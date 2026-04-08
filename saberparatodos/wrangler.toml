@@ -5,15 +5,23 @@ compatibility_date = "2025-01-01"
 # Enable Node.js compatibility v2 (required for @astrojs/cloudflare v13+)
 compatibility_flags = ["nodejs_compat_v2"]
 
+# Explicit assets configuration for SSR
+[assets]
+directory = "./dist/client"
+binding = "ASSETS"
+
 # Environment variables (non-sensitive)
 [vars]
-PUBLIC_API_BASE_URL = "/api"  # Local API - same domain, no CORS issues
+PUBLIC_API_BASE_URL = "/api"
 PUBLIC_SITE_URL = "https://saberparatodos.space"
+PUBLIC_SUPABASE_URL = "https://tzmrgvtptdtsjcugwqyq.supabase.co"
+PUBLIC_SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InR6bXJndnRwdGR0c2pjdWd3cXlxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjQxMTc0NDYsImV4cCI6MjA3OTY5MzQ0Nn0.sPtxeTyDlF9sdQVrfM1wLp_RLKhI1sFk0W-h8Mc_VIc"
 
 # Production environment
 [env.production]
-vars = { PUBLIC_API_BASE_URL = "/api", PUBLIC_SITE_URL = "https://saberparatodos.space" }
+vars = { PUBLIC_API_BASE_URL = "/api", PUBLIC_SITE_URL = "https://saberparatodos.space", PUBLIC_SUPABASE_URL = "https://tzmrgvtptdtsjcugwqyq.supabase.co", PUBLIC_SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InR6bXJndnRwdGR0c2pjdWd3cXlxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjQxMTc0NDYsImV4cCI6MjA3OTY5MzQ0Nn0.sPtxeTyDlF9sdQVrfM1wLp_RLKhI1sFk0W-h8Mc_VIc" }
 
 # Preview/staging environment
 [env.preview]
-vars = { PUBLIC_API_BASE_URL = "/api", PUBLIC_SITE_URL = "https://saberparatodos.space" }
+workers_dev = true
+vars = { PUBLIC_API_BASE_URL = "/api", PUBLIC_SITE_URL = "https://preview.workers.dev" }

@@ -1,53 +1,50 @@
-# 🤖 SaberParaTodos Agent Deltas
+# SaberParaTodos Agent Deltas
 
-Este archivo ya no redefine las reglas globales del repositorio.
+This file adds package-local rules only. Root governance still lives in `../AGENTS.md`.
 
-## Autoridad
+## Local Context
 
-- La autoridad global vive en `../AGENTS.md`.
-- La arquitectura global vive en `../.gitcore/ARCHITECTURE.md`.
-- El routing global de agentes vive en `../.gitcore/AGENT_INDEX.md`.
-- La estructura objetivo del repo y la migración a monorepo viven en:
-  - `../docs/monorepo/MONOREPO_MIGRATION_PLAN.md`
-  - `../docs/monorepo/REPO_MAP.md`
-  - `../docs/monorepo/REPO_AUTHORITY_MATRIX.md`
-- Este archivo solo agrega restricciones locales de `saberparatodos`.
+- Package role: shared exam-product runtime template
+- Most complete tenant today: Colombia / ICFES
+- Stack: Astro 6 + Svelte 5 + TailwindCSS 4 + Supabase + Cloudflare Workers SSR
+- Deploy model: manual CLI deploy
 
-## Contexto Local
-
-- Producto: Colombia / ICFES / `SaberParaTodos`
-- Stack: Astro 5 + Svelte 5 + TailwindCSS + Supabase + Cloudflare Workers SSR
-- Deploy: manual por CLI
-
-## Reglas Locales
+## Package Rules
 
 ### Frontend
 
-- Respetar el lenguaje visual existente del producto.
-- No usar `shared-components` como área editable si se declaran como inmutables en documentación futura.
-- Mantener compatibilidad con mobile-first y accesibilidad.
+- Preserve the product/runtime boundary: product UX belongs here, not in `apps/landing-worldexams/`.
+- Keep runtime changes tenant-aware through shared config and explicit tenant content modules.
+- Do not create country forks of the app when config, content, SEO, or theming is sufficient.
+- Maintain mobile-first behavior, accessibility, and the existing product visual language.
 
-### Preguntas y Contenido
+### Tenanting
 
-- La estructura vigente de preguntas para Colombia sigue siendo la referencia operativa local.
-- Mantener naming normalizado: minúsculas, sin tildes, con guiones.
-- Aplicar contexto colombiano cuando la tarea toque contenido, UI o copy del producto.
+- Shared country metadata comes from `../config/countries.config.ts`.
+- `src/config/` may contain runtime adapters, but it must not become a second competing source of truth for countries.
+- New tenant behavior should prefer config-driven branching over duplicated page/component trees.
 
-### Supabase y Seguridad
+### Questions And Content
 
-- Nunca exponer `SUPABASE_SERVICE_ROLE_KEY` al cliente.
-- Solo variables públicas seguras en frontend.
-- Validar inputs antes de insertar o mutar datos.
-- Tratar `supabase/functions/` dentro de este paquete como el árbol canónico para Edge Functions del producto.
-- Tratar `../supabase/functions/` como legacy salvo instrucción explícita de migración o recuperación.
-- Antes de deploys o auditorías de funciones, correr `pwsh -File ../scripts/audit-supabase-functions.ps1`.
+- Colombia content remains the most complete operational baseline, but runtime code must stay reusable for other countries.
+- Keep naming normalized: lowercase, no accents in slugs, hyphen-separated.
+- Treat new country rollout as onboarding of config/content unless the runtime contract truly changes.
+
+### Supabase And Security
+
+- Never expose `SUPABASE_SERVICE_ROLE_KEY` to the client.
+- Only public-safe environment variables belong in frontend/runtime exposure.
+- Validate inputs before insert/update paths.
+- Treat `supabase/functions/` inside this package as the canonical product Edge Functions tree.
+- Treat `../supabase/functions/` as legacy/shared unless a migration task says otherwise.
+- Before deploy audits or parity claims, run `powershell -File ../scripts/audit-supabase-functions.ps1`.
 
 ### Deploy
 
-- No crear flujos nuevos de GitHub Actions para deploy productivo.
-- Preferir deploy manual por CLI y scripts del paquete.
-- No usar `wrangler pages deploy` para producción de `saberparatodos`.
-- El comando canónico es `npx wrangler deploy --config dist/server/wrangler.json --name=saberparatodos`.
-- Antes de deployar, ejecutar `node scripts/normalize-wrangler-config.mjs`.
-- El routing productivo esperado es por Worker routes en `saberparatodos.space/*` y `www.saberparatodos.space/*`.
-- Si una doc histórica contradice esto, manda `../AGENTS.md` y `PROTOCOLO_DEPLOY_CLI.md`.
+- Do not add GitHub Actions for product deploys.
+- Use manual CLI deploys and package-local scripts.
+- Do not use `wrangler pages deploy` for production.
+- Canonical deploy command: `npx wrangler deploy --config dist/server/wrangler.json --name=saberparatodos`.
+- Normalize `dist/server/wrangler.json` before deploy with `node scripts/normalize-wrangler-config.mjs`.
+- Preview deploys must use a separate Worker name on `*.workers.dev`, never `saberparatodos.space`.
+- `page.dev` is not the default preview surface for this package while the runtime remains Cloudflare Worker SSR.

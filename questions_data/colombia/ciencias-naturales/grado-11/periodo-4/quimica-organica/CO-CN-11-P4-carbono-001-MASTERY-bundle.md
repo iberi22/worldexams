@@ -43,5 +43,5 @@ El asombroso andino y mágico paramétrico andés puritano de fásico andino asi
 
 ---
 
-## 📊 Metadata de Calibración
+##  Metadata de Calibración
 (15 The ).

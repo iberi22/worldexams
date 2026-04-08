@@ -1,27 +1,21 @@
 <script lang="ts">
   /**
    * ScoreDisplay.svelte
-   * Componente para mostrar el desglose de puntos al finalizar un examen
-   * Colombia - saberparatodos
+   * Explica y muestra el puntaje de practica al finalizar un examen.
    */
 
-  import type { ExamScore, QuestionScore } from '../lib/scoring';
+  import type { ExamScore } from '../lib/scoring';
   import {
-    formatScore,
     formatAccuracy,
-    formatTime,
-    getDifficultyName,
-    getDifficultyColor
+    formatScore,
+    formatTime
   } from '../lib/scoring';
-
-  // Props
-  export let examScore: ExamScore;
-  export let showBreakdown = false;
-
-  // Animación de contador
   import { onMount } from 'svelte';
   import { tweened } from 'svelte/motion';
   import { cubicOut } from 'svelte/easing';
+
+  export let examScore: ExamScore;
+  export let showBreakdown = false;
 
   const displayScore = tweened(0, {
     duration: 1500,
@@ -33,68 +27,120 @@
     easing: cubicOut
   });
 
+  let showDetails = false;
+  let showScoreHelp = false;
+
   onMount(() => {
     displayScore.set(examScore.totalScore);
     displayAccuracy.set(examScore.stats.accuracy * 100);
   });
 
-  // Toggle breakdown
-  let showDetails = false;
-
-  // Calificación según porcentaje
   function getGrade(accuracy: number): { letter: string; color: string; message: string } {
-    if (accuracy >= 0.95) return { letter: 'S', color: 'text-purple-400', message: '¡Extraordinario!' };
-    if (accuracy >= 0.90) return { letter: 'A+', color: 'text-emerald-400', message: '¡Excelente!' };
-    if (accuracy >= 0.80) return { letter: 'A', color: 'text-green-400', message: '¡Muy bien!' };
+    if (accuracy >= 0.95) return { letter: 'S', color: 'text-purple-400', message: 'Extraordinario' };
+    if (accuracy >= 0.90) return { letter: 'A+', color: 'text-emerald-400', message: 'Excelente' };
+    if (accuracy >= 0.80) return { letter: 'A', color: 'text-green-400', message: 'Muy bien' };
     if (accuracy >= 0.70) return { letter: 'B', color: 'text-yellow-400', message: 'Buen trabajo' };
     if (accuracy >= 0.60) return { letter: 'C', color: 'text-orange-400', message: 'Puedes mejorar' };
     return { letter: 'D', color: 'text-red-400', message: 'Sigue practicando' };
   }
 
+  function closeScoreHelp() {
+    showScoreHelp = false;
+  }
+
+  function handleKeydown(event: KeyboardEvent) {
+    if (event.key === 'Escape' && showScoreHelp) {
+      closeScoreHelp();
+    }
+  }
+
   $: grade = getGrade(examScore.stats.accuracy);
+  $: scoreRange = examScore.scoreRange;
+  $: visibleRangeLabel = `${formatScore(scoreRange.minScore)} a ${formatScore(scoreRange.maxScore)}`;
+  $: currentRangeProgress = scoreRange.maxScore > scoreRange.minScore
+    ? Math.max(
+        0,
+        Math.min(
+          100,
+          ((examScore.totalScore - scoreRange.minScore) / (scoreRange.maxScore - scoreRange.minScore)) * 100
+        )
+      )
+    : 0;
+  $: questionImpactCopy = examScore.stats.correctAnswers > 0
+    ? `Tus aciertos pueden sumar bastante porque cada correcta parte desde 100 puntos y luego sube por dificultad, velocidad y racha.`
+    : 'En esta sesion no hubo respuestas correctas, asi que solo se aplicaron penalizaciones y bonos de cierre si correspondian.';
 </script>
 
+<svelte:window on:keydown={handleKeydown} />
+
 <div class="w-full max-w-2xl mx-auto space-y-6 animate-fade-in-up">
-  <!-- Main Score Card -->
-  <div class="relative p-6 sm:p-8 bg-gradient-to-br from-[#1a1a2e] to-[#16213e]
-              border border-white/10 rounded-2xl overflow-hidden">
-    <!-- Decorative elements -->
-    <div class="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-emerald-500 via-blue-500 to-purple-500"></div>
-    <div class="absolute -top-20 -right-20 w-40 h-40 bg-emerald-500/10 rounded-full blur-3xl"></div>
+  <div class="relative p-6 sm:p-8 bg-gradient-to-br from-[#1a1a2e] to-[#16213e] border border-white/10 rounded-2xl overflow-hidden">
+    <div class="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-emerald-500 via-blue-500 to-cyan-400"></div>
+    <div class="absolute -top-20 -right-20 w-40 h-40 bg-cyan-500/10 rounded-full blur-3xl"></div>
 
     <div class="relative z-10">
-      <!-- Grade Badge -->
       <div class="flex justify-center mb-6">
-        <div class={`
-          w-24 h-24 sm:w-28 sm:h-28 rounded-full border-4
-          flex items-center justify-center
-          ${grade.color} border-current bg-current/10
-          animate-pulse-slow
-        `}>
+        <div
+          class={`w-24 h-24 sm:w-28 sm:h-28 rounded-full border-4 flex items-center justify-center ${grade.color} border-current bg-current/10 animate-pulse-slow`}
+        >
           <span class="text-4xl sm:text-5xl font-black">{grade.letter}</span>
         </div>
       </div>
 
-      <!-- Message -->
       <p class={`text-center text-xl sm:text-2xl font-bold mb-2 ${grade.color}`}>
         {grade.message}
       </p>
 
-      <!-- Total Score -->
-      <div class="text-center mb-8">
+      <div class="text-center mb-6">
+        <div class="flex items-center justify-center gap-3 mb-2">
+          <p class="text-xs text-cyan-300/90 uppercase tracking-[0.35em]">Puntos WorldExams</p>
+          <button
+            type="button"
+            on:click={() => showScoreHelp = true}
+            class="w-8 h-8 rounded-full border border-cyan-400/30 bg-cyan-400/10 text-cyan-300 hover:bg-cyan-400/20 transition-colors flex items-center justify-center"
+            aria-label="Explicar como funciona el puntaje"
+            title="Como funciona este puntaje"
+          >
+            <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="12" cy="12" r="9"></circle>
+              <path d="M9.1 9a3 3 0 0 1 5.8 1c0 2-3 2-3 4"></path>
+              <path d="M12 17h.01"></path>
+            </svg>
+          </button>
+        </div>
+
         <p class="text-5xl sm:text-6xl font-black text-[#F5F5DC] tabular-nums">
           {Math.round($displayScore).toLocaleString('es-CO')}
         </p>
-        <p class="text-sm text-white/40 uppercase tracking-widest mt-1">puntos totales</p>
+        <p class="text-sm text-white/45 uppercase tracking-widest mt-1">
+          Puntaje interno de practica, no equivalente al ICFES oficial
+        </p>
       </div>
 
-      <!-- Stats Grid -->
+      <div class="mb-7 p-4 rounded-2xl border border-cyan-400/15 bg-black/15">
+        <div class="flex items-center justify-between gap-4 text-xs uppercase tracking-[0.28em] text-white/45">
+          <span>Rango visible de esta sesion</span>
+          <span>{visibleRangeLabel}</span>
+        </div>
+        <div class="mt-3 h-2 rounded-full bg-white/8 overflow-hidden">
+          <div
+            class="h-full rounded-full bg-gradient-to-r from-emerald-400 via-blue-400 to-cyan-300 transition-all duration-700"
+            style={`width: ${currentRangeProgress}%`}
+          ></div>
+        </div>
+        <p class="mt-3 text-sm text-white/65 leading-relaxed">
+          Este examen podia terminar entre <strong class="text-white">{formatScore(scoreRange.minScore)}</strong> y
+          <strong class="text-white">{formatScore(scoreRange.maxScore)}</strong> puntos. Tu resultado se calcula con
+          aciertos, errores, dificultad, velocidad, racha y bonus de cierre.
+        </p>
+      </div>
+
       <div class="grid grid-cols-3 gap-4 text-center">
         <div>
           <p class="text-2xl sm:text-3xl font-bold text-emerald-400">
             {Math.round($displayAccuracy)}%
           </p>
-          <p class="text-[10px] uppercase tracking-widest text-white/40">Precisión</p>
+          <p class="text-[10px] uppercase tracking-widest text-white/40">Precision</p>
         </div>
         <div>
           <p class="text-2xl sm:text-3xl font-bold text-blue-400">
@@ -112,53 +158,57 @@
     </div>
   </div>
 
-  <!-- Bonus Breakdown -->
   <div class="p-4 bg-white/5 border border-white/10 rounded-xl">
-    <h3 class="text-sm font-bold uppercase tracking-widest text-white/60 mb-4">
-      Desglose de bonificaciones
-    </h3>
+    <div class="flex items-start justify-between gap-4 mb-4">
+      <div>
+        <h3 class="text-sm font-bold uppercase tracking-widest text-white/60">
+          Desglose del puntaje
+        </h3>
+        <p class="mt-1 text-xs text-white/45 leading-relaxed">
+          {questionImpactCopy}
+        </p>
+      </div>
+      <button
+        type="button"
+        on:click={() => showScoreHelp = true}
+        class="shrink-0 text-[11px] uppercase tracking-[0.2em] text-cyan-300/85 hover:text-cyan-200 transition-colors"
+      >
+        Ver formula
+      </button>
+    </div>
 
     <div class="space-y-3">
-      <!-- Subtotal preguntas -->
-      <div class="flex justify-between items-center">
-        <span class="text-sm text-white/80">Puntos por preguntas</span>
-        <span class="font-mono text-emerald-400">+{formatScore(examScore.subtotal)}</span>
+      <div class="flex justify-between items-center gap-4">
+        <span class="text-sm text-white/80">Puntos netos por preguntas</span>
+        <span class={`font-mono ${examScore.subtotal >= 0 ? 'text-emerald-400' : 'text-red-400'}`}>
+          {examScore.subtotal > 0 ? '+' : ''}{formatScore(examScore.subtotal)}
+        </span>
       </div>
 
-      <!-- Completion Bonus -->
       {#if examScore.completionBonus > 0}
-        <div class="flex justify-between items-center">
-          <span class="text-sm text-white/80">
-            <span class="mr-2">🎯</span>Bonus por completar
-          </span>
+        <div class="flex justify-between items-center gap-4">
+          <span class="text-sm text-white/80">Bonus por completar la sesion</span>
           <span class="font-mono text-blue-400">+{formatScore(examScore.completionBonus)}</span>
         </div>
       {/if}
 
-      <!-- Accuracy Bonus -->
       {#if examScore.accuracyBonus > 0}
-        <div class="flex justify-between items-center">
-          <span class="text-sm text-white/80">
-            <span class="mr-2">🎖️</span>Bonus precisión ({formatAccuracy(examScore.stats.accuracy)})
-          </span>
+        <div class="flex justify-between items-center gap-4">
+          <span class="text-sm text-white/80">Bonus por precision alta ({formatAccuracy(examScore.stats.accuracy)})</span>
           <span class="font-mono text-yellow-400">+{formatScore(examScore.accuracyBonus)}</span>
         </div>
       {/if}
 
-      <!-- Perfect Bonus -->
       {#if examScore.perfectBonus > 0}
-        <div class="flex justify-between items-center">
-          <span class="text-sm text-white/80">
-            <span class="mr-2">⭐</span>¡Puntaje perfecto!
-          </span>
+        <div class="flex justify-between items-center gap-4">
+          <span class="text-sm text-white/80">Bonus por puntaje perfecto</span>
           <span class="font-mono text-purple-400">+{formatScore(examScore.perfectBonus)}</span>
         </div>
       {/if}
 
-      <!-- Divider -->
       <div class="border-t border-white/10 pt-3 mt-3">
-        <div class="flex justify-between items-center">
-          <span class="font-bold text-white">Total</span>
+        <div class="flex justify-between items-center gap-4">
+          <span class="font-bold text-white">Total de practica</span>
           <span class="font-mono font-bold text-xl text-[#F5F5DC]">
             {formatScore(examScore.totalScore)}
           </span>
@@ -167,29 +217,24 @@
     </div>
   </div>
 
-  <!-- Detailed Breakdown Toggle -->
   {#if showBreakdown}
     <button
       on:click={() => showDetails = !showDetails}
-      class="w-full py-3 text-xs uppercase tracking-widest text-white/40
-             hover:text-white/80 transition-colors flex items-center justify-center gap-2"
+      class="w-full py-3 text-xs uppercase tracking-widest text-white/40 hover:text-white/80 transition-colors flex items-center justify-center gap-2"
     >
-      {showDetails ? '▼ Ocultar' : '▶ Ver'} detalle por pregunta
+      {showDetails ? 'Ocultar' : 'Ver'} detalle por pregunta
     </button>
 
     {#if showDetails}
       <div class="space-y-2 max-h-64 overflow-y-auto">
         {#each examScore.questionScores as qs, index}
-          <div class={`
-            p-3 rounded-lg border text-sm
-            ${qs.totalScore > 0
+          <div
+            class={`p-3 rounded-lg border text-sm ${qs.totalScore > 0
               ? 'bg-emerald-500/5 border-emerald-500/20'
-              : 'bg-red-500/5 border-red-500/20'}
-          `}>
+              : 'bg-red-500/5 border-red-500/20'}`}
+          >
             <div class="flex justify-between items-center">
-              <span class="font-mono text-white/60">
-                Pregunta {index + 1}
-              </span>
+              <span class="font-mono text-white/60">Pregunta {index + 1}</span>
               <span class={`font-mono font-bold ${qs.totalScore > 0 ? 'text-emerald-400' : 'text-red-400'}`}>
                 {qs.totalScore > 0 ? '+' : ''}{qs.totalScore}
               </span>
@@ -205,7 +250,6 @@
     {/if}
   {/if}
 
-  <!-- Additional Stats -->
   <div class="grid grid-cols-2 gap-3">
     <div class="p-3 bg-white/5 border border-white/10 rounded-lg">
       <p class="text-xs text-white/40 uppercase tracking-widest mb-1">Tiempo total</p>
@@ -233,6 +277,114 @@
     </div>
   </div>
 </div>
+
+{#if showScoreHelp}
+  <div
+    class="fixed inset-0 z-[90] bg-black/70 backdrop-blur-sm px-4 py-8 overflow-y-auto"
+    role="dialog"
+    aria-modal="true"
+    aria-labelledby="score-help-title"
+    on:click={(event) => {
+      if (event.currentTarget === event.target) {
+        closeScoreHelp();
+      }
+    }}
+  >
+    <div class="max-w-2xl mx-auto rounded-2xl border border-cyan-400/20 bg-[#111827] shadow-2xl overflow-hidden">
+      <div class="px-6 py-5 border-b border-white/10 flex items-start justify-between gap-4">
+        <div>
+          <p class="text-[11px] uppercase tracking-[0.3em] text-cyan-300/80">Guia de puntaje</p>
+          <h3 id="score-help-title" class="mt-2 text-xl font-black text-white">
+            Como funciona tu puntaje de practica
+          </h3>
+        </div>
+        <button
+          type="button"
+          on:click={closeScoreHelp}
+          class="w-10 h-10 rounded-full border border-white/10 bg-white/5 text-white/70 hover:text-white hover:bg-white/10 transition-colors"
+          aria-label="Cerrar explicacion del puntaje"
+        >
+          ✕
+        </button>
+      </div>
+
+      <div class="px-6 py-6 space-y-6 text-sm text-white/75">
+        <div class="p-4 rounded-2xl border border-amber-400/15 bg-amber-400/10">
+          <p class="font-semibold text-amber-100">
+            Este numero no es un puntaje ICFES oficial ni una conversion 0-500.
+          </p>
+          <p class="mt-2 leading-relaxed">
+            Es una escala interna de practica pensada para motivacion, progreso y ranking.
+            Por eso puedes ver casos como <strong class="text-white">3/10 correctas y 415 puntos</strong>.
+          </p>
+        </div>
+
+        <div class="grid gap-3 sm:grid-cols-2">
+          <div class="p-4 rounded-2xl border border-white/10 bg-white/5">
+            <p class="text-xs uppercase tracking-[0.25em] text-white/45">Rango de esta sesion</p>
+            <p class="mt-2 text-2xl font-black text-white">{visibleRangeLabel}</p>
+            <p class="mt-2 leading-relaxed">
+              El sistema nunca baja de 0 puntos visibles, aunque las penalizaciones internas si restan.
+            </p>
+          </div>
+          <div class="p-4 rounded-2xl border border-white/10 bg-white/5">
+            <p class="text-xs uppercase tracking-[0.25em] text-white/45">Tu caso actual</p>
+            <p class="mt-2 text-2xl font-black text-cyan-300">{formatScore(examScore.totalScore)}</p>
+            <p class="mt-2 leading-relaxed">
+              Precisión: {Math.round(examScore.stats.accuracy * 100)}%. Correctas: {examScore.stats.correctAnswers}/{examScore.stats.questionsAnswered}.
+            </p>
+          </div>
+        </div>
+
+        <div class="space-y-3">
+          <h4 class="text-base font-bold text-white">Que suma y que resta</h4>
+          <div class="p-4 rounded-2xl border border-white/10 bg-white/5 leading-relaxed">
+            <p>Cada respuesta correcta empieza en <strong class="text-white">100 puntos</strong>.</p>
+            <p class="mt-2">Luego sube por tres factores: <strong class="text-white">dificultad</strong>, <strong class="text-white">velocidad</strong> y <strong class="text-white">racha</strong>.</p>
+            <p class="mt-2">Cada error resta poco en comparacion con una correcta: entre <strong class="text-white">16 y 32 puntos</strong> segun dificultad.</p>
+            <p class="mt-2">Si completas una sesion de al menos 7 preguntas recibes <strong class="text-white">+{formatScore(scoreRange.completionBonus)}</strong> por cierre.</p>
+          </div>
+        </div>
+
+        <div class="space-y-3">
+          <h4 class="text-base font-bold text-white">Formula resumida</h4>
+          <div class="p-4 rounded-2xl border border-white/10 bg-[#0b1220] font-mono text-xs text-cyan-200 overflow-x-auto">
+            <p>Puntos correcta = 100 x dificultad x velocidad x racha</p>
+            <p class="mt-2">Puntos incorrecta = -20 x dificultad</p>
+            <p class="mt-2">Total = preguntas + bonus por completar + bonus por precision + bonus perfecto</p>
+          </div>
+        </div>
+
+        <div class="space-y-3">
+          <h4 class="text-base font-bold text-white">Bonos maximos de esta sesion</h4>
+          <div class="grid gap-3 sm:grid-cols-3">
+            <div class="p-4 rounded-2xl border border-white/10 bg-white/5">
+              <p class="text-xs uppercase tracking-[0.25em] text-white/45">Completar</p>
+              <p class="mt-2 text-xl font-black text-blue-300">+{formatScore(scoreRange.completionBonus)}</p>
+            </div>
+            <div class="p-4 rounded-2xl border border-white/10 bg-white/5">
+              <p class="text-xs uppercase tracking-[0.25em] text-white/45">Precision alta</p>
+              <p class="mt-2 text-xl font-black text-yellow-300">+{formatScore(scoreRange.maxAccuracyBonus)}</p>
+            </div>
+            <div class="p-4 rounded-2xl border border-white/10 bg-white/5">
+              <p class="text-xs uppercase tracking-[0.25em] text-white/45">Perfecto</p>
+              <p class="mt-2 text-xl font-black text-purple-300">+{formatScore(scoreRange.perfectBonus)}</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="p-4 rounded-2xl border border-emerald-400/15 bg-emerald-400/10">
+          <h4 class="text-base font-bold text-emerald-100">Recomendacion de claridad</h4>
+          <p class="mt-2 leading-relaxed">
+            Para no confundir a estudiantes y familias, esta pantalla ya trata este numero como
+            <strong class="text-white"> puntos de practica</strong>. Si mas adelante quieren un indicador parecido al ICFES,
+            conviene mostrarlo en otro bloque separado con una metodologia propia y documentada.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+{/if}
 
 <style>
   @keyframes pulse-slow {

@@ -1,30 +1,64 @@
-/**
- * Global Configuration Loader
- * Selects the appropriate tenant config based on environment variable PUBLIC_COUNTRY
- */
+import {
+  allCountries,
+  colombiaConfig,
+  getCountryConfig,
+  type CountryCode,
+  type CountryConfig as SharedCountryConfig,
+  type GiscusConfig,
+  type ProductFeatures,
+} from '../../../config/countries.config';
 
-import { coConfig } from './tenants/co';
-import { mxConfig } from './tenants/mx';
-import type { CountryConfig } from './types';
+export interface RuntimeCountryConfig extends SharedCountryConfig {
+  locale: SharedCountryConfig['locale'];
+  language: SharedCountryConfig['locale'];
+  currencyCode: string;
+  institutionName: string;
+  gradeNames: Record<number, string>;
+  subjectAliases: Record<string, string>;
+  features: ProductFeatures;
+  giscus?: GiscusConfig;
+}
 
-// Default to Colombia if not specified
-const DEFAULT_COUNTRY_CODE = 'CO';
+const DEFAULT_COUNTRY_CODE: CountryCode = 'CO';
 
-const configs: Record<string, CountryConfig> = {
-  CO: coConfig,
-  MX: mxConfig,
-};
+function getCountryCode(): CountryCode {
+  // PUBLIC_* variables are replaced at build time by Astro/Vite.
+  const envCode = import.meta.env.PUBLIC_COUNTRY?.toUpperCase();
+  const resolved = getCountryConfig((envCode || DEFAULT_COUNTRY_CODE) as CountryCode);
+  return resolved?.code || DEFAULT_COUNTRY_CODE;
+}
 
-const getCountryCode = (): string => {
-  // In Vite/Astro, import.meta.env.PUBLIC_* variables are replaced at build time
-  // @ts-ignore
-  return import.meta.env.PUBLIC_COUNTRY || DEFAULT_COUNTRY_CODE;
-};
+function buildGradeNames(config: SharedCountryConfig): Record<number, string> {
+  return config.grades.reduce<Record<number, string>>((acc, grade) => {
+    acc[grade.id] = grade.name;
+    return acc;
+  }, {});
+}
 
-const currentCode = getCountryCode().toUpperCase();
-export const countryConfig = configs[currentCode] || configs[DEFAULT_COUNTRY_CODE];
+function buildSubjectAliases(config: SharedCountryConfig): Record<string, string> {
+  return config.subjects.reduce<Record<string, string>>((acc, subject) => {
+    acc[subject.globalId] = subject.name;
+    acc[subject.id] = subject.name;
+    return acc;
+  }, {});
+}
 
-console.log(`[Config] Loaded configuration for: ${countryConfig.name} (${countryConfig.code})`);
+function toRuntimeCountryConfig(config: SharedCountryConfig): RuntimeCountryConfig {
+  return {
+    ...config,
+    language: config.locale,
+    currencyCode: config.culture.currency.code,
+    institutionName: config.examAuthority,
+    gradeNames: buildGradeNames(config),
+    subjectAliases: buildSubjectAliases(config),
+    features: config.product.features || {},
+    giscus: config.product.giscus,
+  };
+}
 
-// Re-export type for consumers
-export type { CountryConfig };
+const currentCountryCode = getCountryCode();
+const sharedCountryConfig = getCountryConfig(currentCountryCode) || colombiaConfig;
+
+export const countryConfig = toRuntimeCountryConfig(sharedCountryConfig);
+export const supportedCountries = allCountries.map(toRuntimeCountryConfig);
+export type CountryConfig = RuntimeCountryConfig;

@@ -27,7 +27,7 @@ If multiple roles apply, prefer the smallest set that can complete the task safe
 | Domain | Primary package/path | Use when task touches |
 |---|---|---|
 | Monorepo governance | `docs/monorepo/`, root config | workspace layout, repo rules, authority cleanup |
-| Root site | `apps/worldexams-site/` | organization pages, country directory, brand-level UX |
+| Root site | `apps/landing-worldexams/` | organization pages, country directory, brand-level UX |
 | Product app | `saberparatodos/` | Astro app, UX, routes, product docs |
 | API worker | `apps/worldexams-api/` | Cloudflare Worker, gateway routing, API docs |
 | Shared/backend infra | `supabase/`, `saberparatodos/supabase/` | schema, migrations, edge functions |
@@ -59,9 +59,9 @@ If multiple roles apply, prefer the smallest set that can complete the task safe
 
 Before editing frontend code:
 
-- use `apps/worldexams-site/` only for the `worldexams` organization/site layer
+- use `apps/landing-worldexams/` only for the `worldexams` organization/site layer
 - use `saberparatodos/` for reusable exam-product work
-- do not treat `apps/worldexams-site/` as the template for future countries
+- do not treat `apps/landing-worldexams/` as the template for future countries
 
 ## Escalation Cases
 

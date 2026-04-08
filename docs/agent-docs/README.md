@@ -27,13 +27,17 @@ It follows the GitCore naming and frontmatter conventions, adapted to the curren
   - durable technical specifications and operating rules
 - `research/`
   - source-backed analysis and adoption notes
+- `prompts/`
+  - reusable prompt assets for durable agent workflows when explicitly requested
 
 ## Current Documents
 
 - `specs/SPEC_CLOUDFLARE_SABERPARATODOS_DEPLOY.md`
 - `specs/SPEC_SUPABASE_EDGE_FUNCTIONS_SOURCE_OF_TRUTH.md`
 - `specs/SPEC_GITCORE_MONOREPO_GOVERNANCE.md`
+- `specs/SPEC_PRODUCT_TEMPLATE_BOUNDARY.md`
 - `research/RESEARCH_GITCORE_LOCAL_ADAPTATION.md`
+- `prompts/PROMPT_WORLDEXAMS_STACK_ROUTER_IMPLEMENTER.md`
 
 ## Local Rule
 

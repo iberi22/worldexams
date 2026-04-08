@@ -61,15 +61,15 @@ World Exams debe escalar como un monorepo multi-país con lógica compartida. Lo
 
 Este repo contiene dos superficies distintas y los agentes deben tratarlas como dominios separados:
 
-- `apps/worldexams-site/` es el sitio principal de `worldexams`.
+- `apps/landing-worldexams/` es el sitio principal de `worldexams`.
 - `saberparatodos/src/` es la plantilla base y runtime del producto de exámenes reutilizable para otros países.
 
 Reglas:
 
-- No meter lógica de examen, auth de producto, selección de preguntas, tenants o flujos multi-país dentro de `apps/worldexams-site/`.
-- No usar `apps/worldexams-site/` como plantilla para lanzar otros países.
+- No meter lógica de examen, auth de producto, selección de preguntas, tenants o flujos multi-país dentro de `apps/landing-worldexams/`.
+- No usar `apps/landing-worldexams/` como plantilla para lanzar otros países.
 - Para nuevos países, partir de la arquitectura/configuración de `saberparatodos/`.
-- `apps/worldexams-site/` solo debe resolver marketing global, directorio de países, navegación institucional y routing hacia productos.
+- `apps/landing-worldexams/` solo debe resolver marketing global, directorio de países, navegación institucional y routing hacia productos.
 - Si aparece código reusable entre root site y producto, documentarlo y evaluar moverlo a un paquete compartido; no duplicarlo silenciosamente.
 
 ## Boundary Rule: Supabase Function Trees
@@ -129,10 +129,11 @@ Reglas:
 - Contextualizar ejemplos a la cultura local
 - Usar moneda, ciudades, y referencias locales
 - Mantener el formato de pregunta estándar global
-- **OBLIGATORIO:** Seguir Protocol v3.0 (bundles de 10 preguntas)
+- **OBLIGATORIO:** Validar primero `docs/specs/ACTIVE_PROTOCOLS.md` y usar el protocolo vigente para la familia de contenido correspondiente.
 - Validar el protocolo vigente en `docs/specs/ACTIVE_PROTOCOLS.md` antes de reutilizar instrucciones históricas
+- Si `AGENTS.md` o un documento histórico mencionan v2 o v3 como default, trátalos como legacy salvo que `docs/specs/ACTIVE_PROTOCOLS.md` indique explícitamente que esa familia sigue activa para mantenimiento.
 
-**Formato de ID (Protocol v3.0):** `[COUNTRY]-[SUBJECT]-[GRADE]-[TOPIC]-[###]` (sufijos `-v1` a `-v10` para preguntas individuales)
+**Formato de ID para bundles legacy v3.0:** `[COUNTRY]-[SUBJECT]-[GRADE]-[TOPIC]-[###]` (sufijos `-v1` a `-v10` para preguntas individuales)
 
 Ejemplos:
 - `CO-MAT-11-algebra-001-v1` (Colombia, Original)
@@ -144,7 +145,30 @@ Ejemplos:
 - Archivo: `[COUNTRY]-[SUBJ]-[GRADE]-[TOPIC]-[###]-v3-bundle.md`
 - Contiene: 10 preguntas con progresión de dificultad (v1-v10)
 - Ubicación: `saberparatodos/src/content/questions/[country]/[asignatura]/grado-[N]/[tema]/`
-- Referencia: `docs/QUESTION_GENERATION_PROTOCOL_V3.md` y `docs/specs/ACTIVE_PROTOCOLS.md`
+- Referencia: `docs/specs/ACTIVE_PROTOCOLS.md` y el protocolo activo que esta apunte para esa familia de bundles.
+
+---
+
+### 8. 🔍 The Reviewer (NUEVO)
+
+**Trigger:** "Revisar", "Validar", "Bundle Review", "Quality", "Auditoría"
+
+**Comportamiento:**
+- Revisa bundles de preguntas usando el skill `worldexams-question-reviewer`
+- Aplica el protocolo de validación completo
+- Detecta errores, califica calidad, mantiene historial
+- **Regla CRÍTICA:** Si 2+ preguntas con errores → REGENERAR_BUNDLE completo
+
+**Workflow:**
+1. Leer skill: `skills/worldexams-question-reviewer/SKILL.md`
+2. Ejecutar script: `node scripts/review-bundle.ts --bundle=<path>`
+3. Guardar historial en Supabase y `.worldexams/revision-history/`
+4. Si requiere regeneración → crear brief en `.worldexams/regeneration-queue/`
+
+**Reglas:**
+- No modificar bundles durante revisión
+- Reportar SOLO lo encontrado
+- Historial es inmutable (nunca borrar)
 
 ---
 
@@ -162,7 +186,7 @@ Ejemplos:
 
 **Reglas por país:**
 
-- Aplicar la paleta de colores definida en `config/country.ts`
+- Aplicar la paleta de colores y metadata del pais definidas en `config/countries.config.ts`
 - Respetar elementos culturales del país
 - Mantener consistencia con la arquitectura de componentes global
 - Los componentes en `shared-components` son inmutables
@@ -233,7 +257,7 @@ saberparatodos/src/content/questions/colombia/matematicas/grado-11/algebra/CO-MA
 | Tema | `kebab-case` | `algebra`, `revolucion-industrial` |
 | Archivo | `[COUNTRY]-[SUBJ]-[GRADE]-[TOPIC]-[###]-bundle.md` | `CO-MAT-11-algebra-001-bundle.md` |
 
-**Protocol v3.0:** Cada archivo bundle contiene 10 preguntas (v1-v10) con IDs únicos y metadato `periodo` obligatorio.
+**Bundles legacy v3.0:** Cada archivo bundle contiene 10 preguntas (v1-v10) con IDs únicos y metadato `periodo` obligatorio cuando aplique esa familia histórica.
 
 ---
 
@@ -357,15 +381,15 @@ Cuando el usuario solicite una tarea:
 
 ### Al generar preguntas:
 
-- [ ] Validar en `docs/specs/ACTIVE_PROTOCOLS.md` que el protocolo correcto sea v3.0
-- [ ] Usar frontmatter y metadata de `docs/QUESTION_GENERATION_PROTOCOL_V3.md`
+- [ ] Validar en `docs/specs/ACTIVE_PROTOCOLS.md` cual es el protocolo activo para ese trabajo
+- [ ] Usar frontmatter y metadata del protocolo vigente
 - [ ] Archivo bundle con 10 preguntas (`-v3-bundle.md`)
 - [ ] IDs con prefijo de país y sufijo de versión (`CO-MAT-11-algebra-001-v1` a `-v10`)
 - [ ] Distribución de dificultad alineada a v3.0
 - [ ] Contexto cultural apropiado para cada país
 - [ ] Distractores plausibles (errores comunes)
 - [ ] Ubicación correcta: `saberparatodos/src/content/questions/[country]/[asignatura]/grado-[N]/[tema]/`
-- [ ] Referencia a `docs/QUESTION_GENERATION_PROTOCOL_V3.md`
+- [ ] Referencia al protocolo activo correspondiente
 
 ### Al modificar UI:
 
@@ -388,7 +412,7 @@ Cuando el usuario solicite una tarea:
 - [ACTIVE_PROTOCOLS.md](docs/specs/ACTIVE_PROTOCOLS.md) - Protocolos funcionales vigentes
 - [MASTER_PLAN.md](docs/specs/MASTER_PLAN.md) - Plan general de la organización
 - [Schema SQL](./supabase/schema-global.sql) - Base de datos unificada
-- [QUESTION_GENERATION_PROTOCOL_V3.md](docs/QUESTION_GENERATION_PROTOCOL_V3.md) - Protocolo activo por defecto para nuevas preguntas
+- [ACTIVE_PROTOCOLS.md](docs/specs/ACTIVE_PROTOCOLS.md) - Capa de verdad para el protocolo funcional vigente
 
 ---
 
