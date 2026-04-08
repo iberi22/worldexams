@@ -1,34 +1,12 @@
 import type { APIRoute } from 'astro';
 import { createClient } from '@supabase/supabase-js';
-import { cleanEnvVar, getRuntimeEnvObject, type RuntimeLocals } from '../../lib/server-runtime';
+import { getServerRuntimeEnv, type RuntimeLocals } from '../../lib/server-runtime';
 
 interface ReportBody {
   reportType: string;
   questionId: string | null;
   message: string;
   userContext?: string;
-}
-
-function getRuntimeEnv(locals: RuntimeLocals) {
-  const runtimeEnv = getRuntimeEnvObject(locals);
-
-  return {
-    supabaseUrl: cleanEnvVar(
-      runtimeEnv.PUBLIC_SUPABASE_URL || import.meta.env.PUBLIC_SUPABASE_URL || ''
-    ),
-    serviceRoleKey: cleanEnvVar(
-      runtimeEnv.SUPABASE_SERVICE_ROLE_KEY || import.meta.env.SUPABASE_SERVICE_ROLE_KEY || ''
-    ),
-    anonKey: cleanEnvVar(
-      runtimeEnv.PUBLIC_SUPABASE_ANON_KEY || import.meta.env.PUBLIC_SUPABASE_ANON_KEY || ''
-    ),
-    telegramBotToken: cleanEnvVar(
-      runtimeEnv.TELEGRAM_BOT_TOKEN || import.meta.env.TELEGRAM_BOT_TOKEN || ''
-    ),
-    telegramChatId: cleanEnvVar(
-      runtimeEnv.TELEGRAM_CHAT_ID || import.meta.env.TELEGRAM_CHAT_ID || ''
-    ),
-  };
 }
 
 function isPlaceholder(val: string) {
@@ -39,7 +17,7 @@ export const POST: APIRoute = async ({ request, locals }) => {
   try {
     const body = (await request.json()) as ReportBody;
     const { questionId, reportType, message, userContext } = body;
-    const env = getRuntimeEnv(locals as RuntimeLocals);
+    const env = getServerRuntimeEnv(locals as RuntimeLocals);
 
     if (!reportType || !message) {
       return new Response(JSON.stringify({ error: 'Faltan campos requeridos' }), {
@@ -110,15 +88,21 @@ export const POST: APIRoute = async ({ request, locals }) => {
       telegramError = 'Telegram tokens not configured';
     }
 
-    return new Response(JSON.stringify({
-      success: true,
-      db: dbSuccess,
-      telegram: telegramSuccess,
-      telegramError: telegramError || undefined,
-    }), {
-      status: 200,
-      headers: { 'Content-Type': 'application/json' },
-    });
+    const success = dbSuccess && telegramSuccess;
+    const status = success ? 200 : dbSuccess || telegramSuccess ? 207 : 500;
+
+    return new Response(
+      JSON.stringify({
+        success,
+        db: dbSuccess,
+        telegram: telegramSuccess,
+        telegramError: telegramError || undefined,
+      }),
+      {
+        status,
+        headers: { 'Content-Type': 'application/json' },
+      }
+    );
 
   } catch (err: unknown) {
     const errorMessage = err instanceof Error ? err.message : 'Unknown error';
