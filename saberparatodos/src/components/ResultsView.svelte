@@ -198,6 +198,19 @@
     return opt ? opt.text : 'Sin respuesta';
   }
 
+  function getOptionFeedback(q: any, optionId: string): string | undefined {
+    const opt = q.options.find((o: any) => o.id === optionId);
+    return typeof opt?.feedback === 'string' && opt.feedback.trim().length > 0
+      ? opt.feedback.trim()
+      : undefined;
+  }
+
+  function hasOptionFeedback(q: any): boolean {
+    return Array.isArray(q?.options) && q.options.some((option: any) =>
+      typeof option?.feedback === 'string' && option.feedback.trim().length > 0
+    );
+  }
+
   function normalizeQuestionId(questionId: string): string {
     return String(questionId || '').trim().toLowerCase();
   }
@@ -549,6 +562,76 @@
                 {/if}
               </div>
 
+              {#if hasOptionFeedback(q)}
+                <div class="pt-4 border-t border-white/5 space-y-3">
+                  <div class="flex items-center justify-between gap-3">
+                    <span class="block text-[10px] sm:text-xs uppercase tracking-widest opacity-50">
+                      Analisis de opciones
+                    </span>
+                    <span class="text-[10px] sm:text-xs text-white/35">
+                      Explicacion por respuesta segun el bundle
+                    </span>
+                  </div>
+
+                  <div class="grid grid-cols-1 xl:grid-cols-2 gap-3">
+                    {#each q.options as option, optionIndex (option.id ?? `feedback-${optionIndex}`)}
+                      {@const isOptionCorrect = option.id === q.correctOptionId}
+                      {@const isSelectedOption = String(userAnswer || '').trim().toLowerCase() === String(option.id || '').trim().toLowerCase()}
+                      {@const optionFeedback = getOptionFeedback(q, option.id)}
+
+                      <div class={`rounded-xl border p-3 sm:p-4 ${
+                        isOptionCorrect
+                          ? 'border-emerald-500/30 bg-emerald-500/10'
+                          : isSelectedOption
+                            ? 'border-red-500/25 bg-red-500/10'
+                            : 'border-white/8 bg-white/5'
+                      }`}>
+                        <div class="flex items-start gap-3">
+                          <div class={`mt-0.5 w-8 h-8 rounded-full border flex items-center justify-center text-sm font-black shrink-0 ${
+                            isOptionCorrect
+                              ? 'border-emerald-400/40 text-emerald-300 bg-emerald-400/10'
+                              : isSelectedOption
+                                ? 'border-red-400/40 text-red-300 bg-red-400/10'
+                                : 'border-white/10 text-white/60 bg-white/5'
+                          }`}>
+                            {option.id}
+                          </div>
+                          <div class="min-w-0 flex-1 space-y-2">
+                            <div class="flex flex-wrap items-center gap-2">
+                              {#if isOptionCorrect}
+                                <span class="text-[10px] uppercase tracking-widest text-emerald-300">Respuesta correcta</span>
+                              {:else if isSelectedOption}
+                                <span class="text-[10px] uppercase tracking-widest text-red-300">Tu eleccion</span>
+                              {:else}
+                                <span class="text-[10px] uppercase tracking-widest text-white/35">Distractor</span>
+                              {/if}
+                            </div>
+
+                            <div class={`text-sm sm:text-[15px] leading-relaxed ${
+                              isOptionCorrect ? 'text-emerald-100' : 'text-white/85'
+                            }`}>
+                              <MathRenderer content={option.text || ''} />
+                            </div>
+
+                            {#if optionFeedback}
+                              <div class={`rounded-lg border px-3 py-2 text-xs sm:text-sm leading-relaxed ${
+                                isOptionCorrect
+                                  ? 'border-emerald-400/20 bg-emerald-950/30 text-emerald-100'
+                                  : isSelectedOption
+                                    ? 'border-red-400/15 bg-red-950/25 text-red-100'
+                                    : 'border-white/8 bg-black/10 text-white/65'
+                              }`}>
+                                <MathRenderer content={optionFeedback} />
+                              </div>
+                            {/if}
+                          </div>
+                        </div>
+                      </div>
+                    {/each}
+                  </div>
+                </div>
+              {/if}
+
               {#if videoMeta.availability === 'available'}
                 {@const embedUrl = getYouTubeEmbedUrl(videoMeta.entry)}
                 {#if embedUrl}
@@ -604,7 +687,7 @@
                     Tu Plan de Estudio Personalizado
                   </h3>
                   <p class="text-sm text-white/50 max-w-lg">
-                    Sigue estos 3 pasos para convertir tus resultados en un tutor personal con NotebookLM de Google.
+                    Sigue estos 3 pasos para convertir tus resultados en un tutor de IA gratuito con tu cuenta de Google usando NotebookLM.
                   </p>
                </div>
 
@@ -647,7 +730,7 @@
                       <h4 class="text-xs font-bold text-emerald-400 uppercase tracking-widest mb-1">Paso 2</h4>
                       <p class="text-sm font-bold text-white mb-2">Abrir NotebookLM</p>
                       <p class="text-[11px] text-white/40 leading-relaxed max-w-[150px]">
-                        Ve a la plataforma de Google para cargar tu documento.
+                        Entra gratis con tu cuenta de Google para cargar tu documento.
                       </p>
                     </div>
                     <a
@@ -672,7 +755,7 @@
                       </p>
                     </div>
                     <div class="w-full py-2.5 bg-emerald-500/5 text-emerald-500/60 font-black uppercase tracking-widest text-[10px] rounded-lg border border-emerald-500/10 flex items-center justify-center">
-                       ✨ Tutor Listo
+                       ✨ Tutor IA Gratis
                     </div>
                  </div>
                </div>

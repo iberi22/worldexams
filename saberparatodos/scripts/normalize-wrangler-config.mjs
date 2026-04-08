@@ -101,6 +101,11 @@ async function main() {
     normalizeForProduction(config);
   }
 
+  // Ensure assets directory uses forward slashes for Cloudflare compatibility
+  if (config.assets && config.assets.directory) {
+    config.assets.directory = config.assets.directory.replace(/\\/g, '/');
+  }
+
   await fs.writeFile(wranglerConfigPath, `${JSON.stringify(config, null, 2)}\n`);
 
   const routeSummary = Array.isArray(config.routes) && config.routes.length > 0

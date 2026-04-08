@@ -2,6 +2,7 @@ import { describe, it, expect } from 'vitest';
 import {
   calculateQuestionScore,
   calculateExamScore,
+  calculateExamScoreRange,
   validateExamResult,
   formatScore,
   formatAccuracy,
@@ -120,6 +121,30 @@ describe('Scoring System', () => {
       // Total: 315 + 40 + 100 = 455
       expect(score.totalScore).toBe(455);
       expect(score.stats.accuracy).toBe(1.0);
+      expect(score.scoreRange.minScore).toBe(0);
+      expect(score.scoreRange.maxScore).toBe(518);
+      expect(score.scoreRange.scaleLabel).toBe('Puntos WorldExams');
+    });
+  });
+
+  describe('calculateExamScoreRange', () => {
+    it('should expose the visible min and max range for the same exam', () => {
+      const exam: ExamResult = {
+        questions: [
+          { questionId: 'q1', difficulty: 3, isCorrect: false, timeSeconds: 50, currentStreak: 0 },
+          { questionId: 'q2', difficulty: 3, isCorrect: false, timeSeconds: 50, currentStreak: 0 }
+        ],
+        totalTimeSeconds: 100,
+        startedAt: new Date().toISOString(),
+        completedAt: new Date().toISOString()
+      };
+
+      const range = calculateExamScoreRange(exam);
+
+      expect(range.minSubtotal).toBe(-48);
+      expect(range.minScore).toBe(0);
+      expect(range.maxSubtotal).toBe(378);
+      expect(range.maxScore).toBe(518);
     });
   });
 
