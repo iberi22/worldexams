@@ -8,24 +8,42 @@ interface ReportBody {
   userContext?: string;
 }
 
-export const POST: APIRoute = async ({ request, locals }) => {
+const corsHeaders = {
+  'Access-Control-Allow-Origin': '*',
+  'Access-Control-Allow-Methods': 'POST, OPTIONS',
+  'Access-Control-Allow-Headers': 'authorization, x-client-info, apikey, content-type',
+};
+
+function jsonResponse(body: Record<string, unknown>, status: number) {
+  return new Response(JSON.stringify(body), {
+    status,
+    headers: { ...corsHeaders, 'Content-Type': 'application/json' },
+  });
+}
+
+export const ALL: APIRoute = async ({ request, locals }) => {
+  if (request.method === 'OPTIONS') {
+    return new Response(null, {
+      status: 204,
+      headers: corsHeaders,
+    });
+  }
+
+  if (request.method !== 'POST') {
+    return jsonResponse({ error: 'Method not allowed' }, 405);
+  }
+
   try {
     const body = (await request.json()) as ReportBody;
     const { reportType, message } = body;
 
     if (!reportType || !message) {
-      return new Response(JSON.stringify({ error: 'Faltan campos requeridos' }), {
-        status: 400,
-        headers: { 'Content-Type': 'application/json' },
-      });
+      return jsonResponse({ error: 'Faltan campos requeridos' }, 400);
     }
 
     const env = getServerRuntimeEnv(locals as RuntimeLocals);
     if (!env.supabaseUrl) {
-      return new Response(JSON.stringify({ error: 'Supabase runtime no configurado' }), {
-        status: 500,
-        headers: { 'Content-Type': 'application/json' },
-      });
+      return jsonResponse({ error: 'Supabase runtime no configurado' }, 500);
     }
 
     const response = await fetch(`${env.supabaseUrl}/functions/v1/report-problem`, {
@@ -40,19 +58,16 @@ export const POST: APIRoute = async ({ request, locals }) => {
 
     return new Response(responseText, {
       status: response.status,
-      headers: { 'Content-Type': 'application/json' },
+      headers: { ...corsHeaders, 'Content-Type': 'application/json' },
     });
   } catch (err: unknown) {
     const errorMessage = err instanceof Error ? err.message : 'Unknown error';
-    return new Response(
-      JSON.stringify({
+    return jsonResponse(
+      {
         error: 'Error interno al procesar el reporte.',
         details: errorMessage,
-      }),
-      {
-        status: 500,
-        headers: { 'Content-Type': 'application/json' },
-      }
+      },
+      500
     );
   }
 };
