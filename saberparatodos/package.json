@@ -11,7 +11,7 @@
     "postbuild": "echo 'Build complete'",
     "preview": "astro preview",
     "sync:api": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/copy-api.ps1",
-    "predeploy": "npm run lint && npm run test:unit && npm run build",
+    "predeploy": "npm run lint && npm run test:unit && npm run build && node scripts/pre-deploy-check.js",
     "deploy": "node scripts/normalize-wrangler-config.mjs --target production && npx wrangler deploy --config dist/server/wrangler.json --name=saberparatodos",
     "deploy:manual": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/deploy-manual.ps1",
     "deploy:production": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/deploy-manual.ps1 -Target production",
@@ -73,6 +73,7 @@
   "devDependencies": {
     "@astrojs/check": "^0.9.8",
     "@playwright/test": "^1.57.0",
+    "@supabase/mcp-server-supabase": "^0.7.0",
     "@types/html2canvas": "^0.5.35",
     "@types/node": "^25.5.0",
     "@vitest/coverage-v8": "^4.0.16",

@@ -2,7 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 import App from '../components/App.svelte';
 
-const API_BASE_URL = '/api';
+const API_BASE_URL = import.meta.env.PUBLIC_API_BASE_URL || '/api';
 ---
 
 <Layout
