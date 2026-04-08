@@ -106,6 +106,13 @@ async function main() {
     config.assets.directory = config.assets.directory.replace(/\\/g, '/');
   }
 
+  if (
+    Array.isArray(config.compatibility_flags) &&
+    config.compatibility_flags.includes('nodejs_compat_v2')
+  ) {
+    delete config.no_bundle;
+  }
+
   await fs.writeFile(wranglerConfigPath, `${JSON.stringify(config, null, 2)}\n`);
 
   const routeSummary = Array.isArray(config.routes) && config.routes.length > 0
