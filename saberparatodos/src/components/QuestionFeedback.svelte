@@ -85,8 +85,14 @@
         })
       });
 
-      if (!res.ok) {
-        throw new Error('Error al enviar el reporte');
+      const data = await res.json();
+
+      if (!res.ok || !data.success) {
+        if (data.db && !data.telegram) {
+          throw new Error('El reporte se guardó, pero la notificación a Telegram no está disponible ahora mismo.');
+        }
+
+        throw new Error(data.error || data.telegramError || 'Error al enviar el reporte');
       }
 
       submitted = true;

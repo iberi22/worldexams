@@ -54,8 +54,12 @@
 
       const data = await res.json();
 
-      if (!res.ok) {
-        throw new Error(data.error || 'Error al enviar reporte');
+      if (!res.ok || !data.success) {
+        if (data.db && !data.telegram) {
+          throw new Error('El reporte se guardó, pero la notificación a Telegram no está disponible ahora mismo.');
+        }
+
+        throw new Error(data.error || data.telegramError || 'Error al enviar reporte');
       }
 
       success = true;
