@@ -45,7 +45,8 @@ if ($Mode -eq 'preview') {
     '/novedades/2026-03-09-filtrado-ingles-y-comentarios',
     '/ranking',
     '/dashboard',
-    '/api/packs/week-9-grade-11-subject-matematicas.json'
+    '/api/packs/current.json',
+    '/api/packs/week-1-grade-11-subject-matematicas.json'
   )
 }
 
