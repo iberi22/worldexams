@@ -34,7 +34,8 @@ const {
   showFooter = true
 } = Astro.props;
 
-const siteUrl = Astro.site ? Astro.site.toString().replace(/\/$/, '') : countryConfig.product.siteUrl.replace(/\/$/, '');
+const productionSiteUrl = countryConfig.product.siteUrl.replace(/\/$/, '');
+const siteUrl = productionSiteUrl; // Always canonical to production — prevents pages.dev indexing
 const canonicalURL = new URL(Astro.url.pathname, `${siteUrl}/`);
 const ogImageURL = new URL(image, canonicalURL);
 const ogLocale = (countryConfig.language || 'es-CO').replace('-', '_');
@@ -65,6 +66,25 @@ const websiteSchema = {
     '@type': 'Organization',
     name: countryConfig.product.siteName,
     url: siteUrl
+  },
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: `${siteUrl}/?q={search_term_string}`,
+    'query-input': 'required name=search_term_string'
+  }
+};
+const webAppSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebApplication',
+  name: countryConfig.product.siteName,
+  url: siteUrl,
+  applicationCategory: 'EducationalApplication',
+  operatingSystem: 'All',
+  inLanguage: countryConfig.language || 'es-CO',
+  offers: {
+    '@type': 'Offer',
+    price: '0',
+    priceCurrency: countryConfig.currencyCode || 'COP'
   }
 };
 ---
@@ -146,6 +166,9 @@ const websiteSchema = {
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:image" content={ogImageURL} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content={title} />
     <meta property="og:site_name" content={countryConfig.product.siteName} />
     <meta property="og:locale" content={ogLocale} />
 
@@ -155,6 +178,7 @@ const websiteSchema = {
     <meta property="twitter:title" content={title} />
     <meta property="twitter:description" content={description} />
     <meta property="twitter:image" content={ogImageURL} />
+    <meta property="twitter:image:alt" content={title} />
 
     <!-- DNS Prefetch para recursos externos -->
     <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
@@ -190,6 +214,7 @@ const websiteSchema = {
 
     <script is:inline type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
     <script is:inline type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
+    <script is:inline type="application/ld+json" set:html={JSON.stringify(webAppSchema)} />
     <!-- 2026 SEO: INP (Interaction to Next Paint) Optimization -->
     <script is:inline>
       // Lightweight yield pattern for high-priority interactions

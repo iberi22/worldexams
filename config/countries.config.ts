@@ -190,13 +190,18 @@ export const colombiaConfig: CountryConfig = {
     guideLabel: 'ICFES',
     guideYear: 2026,
     seoKeywords: [
-      'simulacro icfes',
+      'simulacro icfes gratis',
       'simulacro saber 11',
       'preicfes gratis',
       'banco de preguntas icfes',
-      'pruebas saber colombia'
+      'pruebas saber colombia',
+      'practicar icfes online',
+      'preguntas icfes matematicas',
+      'preguntas icfes lectura critica',
+      'guia saber 11',
+      'examen icfes online',
     ],
-    defaultDescription: 'Practica con simulacros, guias y banco de preguntas para las pruebas Saber en Colombia.',
+    defaultDescription: 'Practica gratis para el ICFES Saber 11 con simulacros, banco de preguntas y guías por área. Matemáticas, Lectura Crítica, Inglés, Ciencias y más.',
     features: {
       blog: false,
       preuniversitario: true,
