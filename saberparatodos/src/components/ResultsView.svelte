@@ -35,6 +35,7 @@
     generateHistoricalEnglishProficiency,
     type EnglishProficiencyResult
   } from '../lib/api-service';
+  import { getDomainStatus, VALIDATION_STATUSES } from '../lib/questions/validation-registry';
 
   // Props (Svelte 5 Runes)
   interface Props {
@@ -428,25 +429,36 @@
           userName: user?.email?.split('@')[0] || 'Tú',
           grade: examData.grade,
           subject: examData.subject,
-          startedAt: 0,
-          questions: [],
-          answers: {},
-          focusEvents: examData.focusEvents || [],
-          focusViolations: examData.focusViolations,
-          score: examScore ? Math.round(examScore.stats.accuracy * 100) : 0,
+          score: examScore ? Math.round(examScore.stats.accuracy * 100) : 0,
           synced: true
         }}
         externalResults={roomResults}
         onClose={() => activeTab = 'individual'}
       />
   {:else}
+      {@const domainStatus = getDomainStatus(examData.grade, examData.subject || '')}
+      {@const statusMeta = VALIDATION_STATUSES[domainStatus]}
       <!-- Main Content (Individual Results) -->
       <div class="flex-1 overflow-y-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-8 lg:py-12">
         <div class="max-w-6xl mx-auto space-y-8 sm:space-y-10 lg:space-y-12 pb-24">
 
       <!-- Header Score -->
-      <div class="text-center space-y-6">
-        <h2 class="text-3xl sm:text-4xl lg:text-5xl font-bold uppercase tracking-tighter">Resultados</h2>
+      <div class="text-center space-y-4">
+          <div class="flex flex-col items-center gap-2">
+            <h2 class="text-3xl sm:text-4xl lg:text-5xl font-bold uppercase tracking-tighter">Resultados</h2>
+            
+            <!-- Validation Status Badge -->
+            <div 
+              class="flex items-center gap-1.5 px-3 py-1 rounded-full border bg-black/40 backdrop-blur-sm transition-all animate-pulse"
+              style="border-color: {statusMeta.color}33;"
+              title={statusMeta.description}
+            >
+              <span class="text-xs">{statusMeta.icon}</span>
+              <span class="text-[9px] font-black uppercase tracking-[0.2em]" style="color: {statusMeta.color}">
+                {statusMeta.label}
+              </span>
+            </div>
+          </div>
 
         <div class="relative w-40 h-40 sm:w-48 sm:h-48 lg:w-56 lg:h-56 mx-auto">
           <svg class="w-full h-full transform -rotate-90" viewBox="0 0 100 100">

@@ -77,9 +77,36 @@ Each question must include:
 - `Expected_Success`
 - optional `Contexto` when needed
 - `Enunciado`
-- 4 options
-- feedback comment per option
+- 4 options (A, B, C, D)
+- **mandatory** feedback comment per option (ALL 4 options, not just the correct one)
 - short pedagogical explanation
+
+### Feedback Format (MANDATORY for ALL options)
+
+Each option text must embed a feedback comment using this exact syntax:
+
+```
+Option text <!-- feedback: Explanation of why this option is correct or incorrect. -->
+```
+
+#### Example (complete set):
+
+```
+A) sustainable <!-- feedback: Correct. "Sustainable" means meeting present needs without compromising future generations, exactly describing food produced without harming the environment. -->
+B) organic <!-- feedback: Incorrect. "Organic" refers to production methods avoiding synthetic chemicals, but does not specifically address environmental impact as broadly as "sustainable." -->
+C) natural <!-- feedback: Incorrect. "Natural" is a general descriptor for minimally processed food, but does not imply environmental consideration in production. -->
+D) local <!-- feedback: Incorrect. "Local" refers to the proximity of production, not whether it protects the environment. -->
+```
+
+#### Rules for feedback text:
+
+- **Correct option**: start with "Correct." then explain WHY it is the best answer.
+- **Incorrect options**: start with "Incorrect." then explain the specific reason this option fails — the misconception it exploits, the semantic overlap that makes it plausible, or the conceptual difference from the correct answer.
+- Feedback must be educational, not trivial ("this is wrong because it is wrong" is not acceptable).
+- Feedback must be in the same language as the question (Spanish for most subjects; English for Inglés questions).
+- Length: 1–3 sentences per option. Concise but meaningful.
+
+> ⚠️ **HARD RULE**: Any bundle missing `<!-- feedback: ... -->` on any option MUST be regenerated or patched before deployment. The UI depends on this field to display per-option explanations in the results screen.
 
 ## Distractor Rules
 
