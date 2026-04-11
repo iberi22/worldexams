@@ -18,6 +18,7 @@
   } from '../lib/questions';
   import { getCachedEnglishQuestions, getAnsweredQuestionIds } from '../lib/idb-storage'; // 🆕
   import { CURRICULUM_CO, normalizeTopic } from '../config/curriculum'; // 🆕 Import Curriculum Logic
+import { getDomainStatus, VALIDATION_STATUSES } from '../lib/questions/validation-registry';
 
   let {
     subject: initialSubject,
@@ -32,7 +33,7 @@
   // 🆕 Make subject and grade editable
   let selectedSubject = $state(initialSubject || 'Simulacro Completo');
   let selectedGrade = $state(initialGrade);
-  let availableSubjects = $state(['Simulacro Completo', 'Matemáticas', 'Lectura Crítica', 'Ciencias Naturales', 'Sociales y Ciudadanas', 'Preuniversitario']);
+  let availableSubjects = $state(['Simulacro Completo', 'Matemáticas', 'Lectura Crítica', 'Ciencias Naturales', 'Sociales y Ciudadanas', 'Inglés', 'Preuniversitario']);
 
   let availableGrades = $state([3, 4, 5, 6, 7, 8, 9, 10, 11]);
 
@@ -1249,19 +1250,59 @@
                <span class="text-xs font-bold text-white/40 bg-white/5 px-2 py-1 rounded">Grado {selectedGrade}°</span>
             </div>
 
-            <!-- Subject Selector -->
-            <div>
-              <label class="block text-xs uppercase tracking-widest opacity-60 mb-2">Materia</label>
-              <select
-                bind:value={selectedSubject}
-                disabled={configLocked}
-                class="w-full px-4 py-3 bg-gray-900/90 border border-white/10 rounded-lg text-white font-medium focus:outline-none focus:border-emerald-500 focus:ring-2 focus:ring-emerald-500/20 transition-all cursor-pointer hover:bg-gray-900 {configLocked ? 'opacity-50 cursor-not-allowed' : ''} {isPreuMode ? 'border-[#FCD116]/30 text-[#FCD116]' : ''}"
-                style="background-color: rgb(17 24 39 / 0.9);"
-              >
+            <!-- Subject Selector Grid (Premium Upgrade) -->
+            <div class="space-y-4">
+              <label class="block text-xs uppercase tracking-widest opacity-60">Materia</label>
+              <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
                 {#each availableSubjects as subj}
-                  <option value={subj} class="bg-gray-900 text-white py-2">{subj}</option>
+                  {@const domainStatus = getDomainStatus(selectedGrade, subj)}
+                  {@const statusMeta = VALIDATION_STATUSES[domainStatus]}
+                  {@const isActive = selectedSubject === subj}
+                  <FlashlightCard
+                    {isActive}
+                    onClick={() => { if (!configLocked) selectedSubject = subj }}
+                    className={`p-3 relative group transition-all duration-300 ${configLocked ? 'opacity-50 cursor-not-allowed' : 'hover:scale-[1.02]'} ${isActive ? 'ring-2 ring-emerald-500/50 shadow-lg shadow-emerald-500/10' : 'hover:border-white/20'}`}
+                  >
+                    <div class="flex flex-col gap-2">
+                      <div class="flex items-center justify-between pointer-events-none">
+                        <span class={`text-[11px] font-black uppercase tracking-widest ${isActive ? 'text-emerald-400' : 'text-white/70 group-hover:text-white'}`}>
+                          {subj}
+                        </span>
+                        <div class="flex items-center gap-1.5">
+                           {#if domainStatus === 'verified'}
+                             <span class="text-emerald-400 text-sm drop-shadow-[0_0_8px_rgba(16,185,129,0.5)]">✓</span>
+                           {:else if domainStatus === 'in_review'}
+                             <span class="text-amber-400 text-sm">⚠️</span>
+                           {:else}
+                             <span class="text-white/30 text-xs">⏳</span>
+                           {/if}
+                        </div>
+                      </div>
+                      
+                      <!-- Status Label -->
+                      <div class="flex items-center gap-1.5 pointer-events-none">
+                        <span class="w-1 h-1 rounded-full" style="background-color: {statusMeta.color}"></span>
+                        <span class="text-[8px] uppercase tracking-widest opacity-40 font-bold group-hover:opacity-60">
+                          {statusMeta.label}
+                        </span>
+                      </div>
+                    </div>
+                  </FlashlightCard>
                 {/each}
-              </select>
+              </div>
+
+              <!-- Status Legend -->
+              <div class="mt-4 p-3 bg-black/40 border border-white/5 rounded-xl space-y-2">
+                <p class="text-[9px] uppercase tracking-widest text-white/40 font-bold text-center mb-1">Guía de Calidad</p>
+                <div class="flex flex-wrap justify-center gap-x-4 gap-y-2">
+                  {#each Object.values(VALIDATION_STATUSES) as s}
+                    <div class="flex items-center gap-1.5" title={s.description}>
+                      <span class="text-[10px]">{s.icon}</span>
+                      <span class="text-[8px] uppercase tracking-widest font-bold" style="color: {s.color}">{s.label}</span>
+                    </div>
+                  {/each}
+                </div>
+              </div>
             </div>
 
             <!-- 🎓 Preuniversitario University Selector -->

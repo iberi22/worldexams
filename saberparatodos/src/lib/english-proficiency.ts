@@ -100,14 +100,14 @@ export interface EnglishProficiencyResult {
  * Parse CEFR level from question metadata
  * Handles various formats: "A2", "A2+", "B2/C1", etc.
  */
-export function parseCEFRLevel(cefrString: string | undefined, fallbackGrade?: number): CEFRLevel {
+export function parseCEFRLevel(cefrString: any, fallbackGrade?: number): CEFRLevel {
   if (!cefrString && fallbackGrade) {
     return GRADE_TO_CEFR[fallbackGrade] || 'A2';
   }
 
   if (!cefrString) return 'A2';
 
-  const normalized = cefrString.trim().toUpperCase();
+  const normalized = String(cefrString).trim().toUpperCase();
 
   // Handle compound levels like "B2/C1" - take the lower one
   if (normalized.includes('/')) {
