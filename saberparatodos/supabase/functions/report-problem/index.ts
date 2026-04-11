@@ -1,5 +1,6 @@
 import { serve } from "https://deno.land/std@0.168.0/http/server.ts";
 import { createClient } from "https://esm.sh/@supabase/supabase-js@2";
+import { getAuthenticatedCorsHeaders } from "../_shared/cors.ts";
 
 type ReportBody = {
   reportType?: string;
@@ -16,14 +17,8 @@ const telegramChatIds = [
   Deno.env.get("TELEGRAM_MODERATOR_CHAT_ID") || "",
 ].filter((value, index, list) => value && list.indexOf(value) === index);
 
-const corsHeaders = {
-  "Access-Control-Allow-Origin": "*",
-  "Access-Control-Allow-Methods": "POST, OPTIONS",
-  "Access-Control-Allow-Headers":
-    "authorization, x-client-info, apikey, content-type",
-};
 
-function jsonResponse(body: Record<string, unknown>, status = 200) {
+function jsonResponse(body: Record<string, unknown>, status = 200, corsHeaders: Record<string, string> = {}) {
   return new Response(JSON.stringify(body), {
     status,
     headers: { ...corsHeaders, "Content-Type": "application/json" },
@@ -47,12 +42,14 @@ function toTelegramMessage(body: Required<Pick<ReportBody, "reportType" | "messa
 }
 
 serve(async (req) => {
+  const corsHeaders = getAuthenticatedCorsHeaders(req.headers.get("origin"));
+
   if (req.method === "OPTIONS") {
     return new Response("ok", { headers: corsHeaders });
   }
 
   if (req.method !== "POST") {
-    return jsonResponse({ error: "Method not allowed" }, 405);
+    return jsonResponse({ error: "Method not allowed" }, 405, corsHeaders);
   }
 
   try {
@@ -63,7 +60,7 @@ serve(async (req) => {
     const userContext = body.userContext ? String(body.userContext).trim() : "";
 
     if (!reportType || !message) {
-      return jsonResponse({ error: "reportType and message are required" }, 400);
+      return jsonResponse({ error: "reportType and message are required" }, 400, corsHeaders);
     }
 
     let dbSuccess = false;
@@ -147,6 +144,7 @@ serve(async (req) => {
         telegramError: telegramError || undefined,
       },
       status,
+      corsHeaders,
     );
   } catch (error) {
     console.error("[report-problem] Unexpected error:", error);
@@ -155,6 +153,7 @@ serve(async (req) => {
         error: error instanceof Error ? error.message : "Internal server error",
       },
       500,
+      corsHeaders,
     );
   }
 });

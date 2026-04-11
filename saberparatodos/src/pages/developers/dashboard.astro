@@ -168,6 +168,17 @@ import Layout from '../../layouts/Layout.astro';
       if (monthlyLimit) monthlyLimit.textContent = Number(stats?.monthly_limit || 0).toLocaleString();
     }
 
+    /** Prevent XSS: escape DB-sourced strings before inserting into innerHTML */
+    function escapeHtml(str: unknown): string {
+      const s = String(str ?? '');
+      return s
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#039;');
+    }
+
     function renderKeys(keys: DashboardKey[]) {
       if (!keysList) return;
 
@@ -179,10 +190,10 @@ import Layout from '../../layouts/Layout.astro';
       keysList.innerHTML = keys.map((key) => `
         <div class="mb-3 flex flex-col items-center justify-between rounded border border-[#333] bg-[#121212] p-4 md:flex-row">
           <div class="mb-3 w-full md:mb-0">
-            <p class="mb-1 font-mono font-bold text-[#FCD116]">${key.name || 'Clave sin nombre'}</p>
+            <p class="mb-1 font-mono font-bold text-[#FCD116]">${escapeHtml(key.name || 'Clave sin nombre')}</p>
             <div class="flex items-center gap-2">
-              <span class="rounded bg-[#333] px-2 py-0.5 text-xs text-[#A0A0A0]">${key.organizations?.name || 'Cuenta'}</span>
-              <p class="font-mono text-sm text-[#A0A0A0]">${key.key_prefix}****</p>
+              <span class="rounded bg-[#333] px-2 py-0.5 text-xs text-[#A0A0A0]">${escapeHtml(key.organizations?.name || 'Cuenta')}</span>
+              <p class="font-mono text-sm text-[#A0A0A0]">${escapeHtml(key.key_prefix)}****</p>
             </div>
           </div>
           <div class="w-full border-t border-[#333] pt-3 text-right md:w-auto md:border-t-0 md:pt-0">
