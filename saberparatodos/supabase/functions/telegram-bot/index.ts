@@ -1,12 +1,10 @@
 import { Bot, webhookCallback, InlineKeyboard } from "https://deno.land/x/grammy@v1.34.0/mod.ts";
 import { createClient } from "https://esm.sh/@supabase/supabase-js@2.39.3";
-import { getTutorResponse } from "../_shared/deepseek.ts";
 
 // Environment variables
 const TELEGRAM_BOT_TOKEN = Deno.env.get("TELEGRAM_BOT_TOKEN");
 const SUPABASE_URL = Deno.env.get("SUPABASE_URL") || "";
 const SUPABASE_SERVICE_ROLE_KEY = Deno.env.get("SUPABASE_SERVICE_ROLE_KEY") || "";
-const DEEPSEEK_API_KEY = Deno.env.get("DEEPSEEK_API_KEY") || "";
 const LINK_TELEGRAM_URL = Deno.env.get("LINK_TELEGRAM_URL") || "https://saberparatodos.co/vincular-telegram";
 const REPORT_BASE_URL = Deno.env.get("REPORT_BASE_URL") || "https://saberparatodos.co/informes/bot/";
 const GITHUB_TOKEN = Deno.env.get("GITHUB_TOKEN") || "";
@@ -762,34 +760,35 @@ function getFAQResponse(text: string): string | null {
 bot.on("message:text", async (ctx) => {
   const text = ctx.message.text;
   const profile = ctx.session?.profile;
+  const lowerText = text.toLowerCase();
 
-  // If user is NOT linked, respond with predefined messages
-  if (!profile) {
-    const faqResponse = getFAQResponse(text);
-
-    if (faqResponse) {
-      await ctx.reply(faqResponse);
-    } else {
-      await ctx.reply(
-        `⚠️ <b>Para usar el tutor IA, necesitas crear una cuenta.</b>\n\n` +
-        `🎓 Con tu cuenta puedes:\n` +
-        `• Hablar con SaberBot sin límites\n` +
-        `• Practicar con miles de preguntas\n` +
-        `• Ver tu progreso y estadísticas\n\n` +
-        `👉 <a href="${LINK_TELEGRAM_URL}">Vincula tu cuenta aquí</a> (genera un código y vuelve)\n\n` +
-        `Luego envíame <code>/start CODIGO</code> y quedará vinculado. 🚀`,
-        { parse_mode: "HTML" }
-      );
-    }
+  const faqResponse = getFAQResponse(lowerText);
+  if (faqResponse) {
+    await ctx.reply(faqResponse);
     return;
   }
 
-  // User is linked - use AI (consume credits)
-  await ctx.replyWithChatAction("typing");
+  if (!profile) {
+    await ctx.reply(
+      `⚠️ <b>Para recibir ayuda personalizada, vincula tu cuenta.</b>\n\n` +
+      `🎓 Con tu cuenta puedes:\n` +
+      `• Practicar con miles de preguntas\n` +
+      `• Ver tu progreso y estadísticas\n\n` +
+      `👉 <a href="${LINK_TELEGRAM_URL}">Vincula tu cuenta aquí</a> (genera un código y vuelve)\n\n` +
+      `Luego envíame <code>/start CODIGO</code> y quedará vinculado. 🚀`,
+      { parse_mode: "HTML" }
+    );
+    return;
+  }
 
-  const context = `Usuario vinculado. Créditos: ${profile.credits}.`;
-  const response = await getTutorResponse(text, DEEPSEEK_API_KEY, context);
-  await ctx.reply(response || "Lo siento, me quedé sin palabras.");
+  // Linked user — guide them to practice commands
+  await ctx.reply(
+    `👋 <b>Hola parcero!</b> Usa los comandos para practicar:\n\n` +
+    `/practicar - Empieza una sesión de práctica\n` +
+    `/perfil - Ve tus créditos y estadísticas\n` +
+    `/ayuda - Más información`,
+    { parse_mode: "HTML" }
+  );
 });
 
 // ─────────────────────────────────────────────────────────────────────────────
