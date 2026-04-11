@@ -1,0 +1,4 @@
+/v1/*
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET, HEAD, POST, OPTIONS
+  Access-Control-Allow-Headers: authorization, content-type, x-api-key
