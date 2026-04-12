@@ -244,10 +244,10 @@
   }
 
   function getRankColor(mmr: number): string {
-    if (mmr < 800) return 'text-gray-400';
-    if (mmr < 1000) return 'text-emerald-400';
-    if (mmr < 1200) return 'text-blue-400';
-    if (mmr < 1400) return 'text-purple-400';
+    if (mmr < 150) return 'text-gray-400';
+    if (mmr < 250) return 'text-emerald-400';
+    if (mmr < 350) return 'text-blue-400';
+    if (mmr < 450) return 'text-purple-400';
     return 'text-yellow-400'; // GM
   }
 
@@ -260,7 +260,7 @@
 
   // Derived data for charts
   let mmrHistory = $derived(historyResults.length >= 2
-    ? historyResults.slice(0, 10).reverse().map((r, i) => 1000 + (i * 20) + (r.score - 50) * 2)
+    ? historyResults.slice(0, 10).reverse().map((r, i) => 250 + (i * 5) + (r.correctCount / r.totalQuestions * 100 - 50) * 0.5)
     : []);
 
   let accuracyHistory = $derived(historyResults.length >= 2
