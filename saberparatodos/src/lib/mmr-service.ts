@@ -13,12 +13,13 @@ export interface MMRStats {
 }
 
 const RANKS = [
-  { name: 'Novato', min: 0, color: 'text-gray-400' },
-  { name: 'Aprendiz', min: 500, color: 'text-emerald-400' },
-  { name: 'Competente', min: 1000, color: 'text-blue-400' },
-  { name: 'Avanzado', min: 1500, color: 'text-purple-400' },
-  { name: 'Maestro', min: 2000, color: 'text-yellow-400' },
-  { name: 'Leyenda', min: 2500, color: 'text-red-500' }
+  { name: 'Iniciado', min: 0, color: 'text-gray-400' },
+  { name: 'Aprendiz', min: 150, color: 'text-emerald-400' },
+  { name: 'Estudiante', min: 220, color: 'text-blue-400' },
+  { name: 'Avanzado', min: 280, color: 'text-indigo-400' },
+  { name: 'Experto', min: 340, color: 'text-purple-400' },
+  { name: 'Maestro', min: 400, color: 'text-yellow-400' },
+  { name: 'Gran Maestro', min: 460, color: 'text-red-500' }
 ];
 
 /**
@@ -77,12 +78,12 @@ export async function calculateLocalMMR(): Promise<MMRStats> {
     const baseAvg = weightTotal > 0 ? weightedSum / weightTotal : 0;
 
     // Volume Bonus: Reward consistent practice (capped at 50 exams)
-    // Up to 500 points just for having played a lot recently
-    const volumeBonus = Math.min(recentHistory.length * 10, 500);
+    // Up to 50 points just for having played a lot recently
+    const volumeBonus = Math.min(recentHistory.length * 1, 50);
 
-    // Scale up to 0-3000 range
-    // baseAvg is roughly 0-150. * 15 -> 0-2250. + volumeBonus -> 0-2750+
-    const mmr = Math.round((baseAvg * 15) + volumeBonus);
+    // Scale up to 0-500 range
+    // baseAvg is roughly 0-150. * 3 -> 0-450. + volumeBonus -> 0-500
+    const mmr = Math.round((baseAvg * 2.8) + volumeBonus);
 
     // 4. Determine Rank
     const currentRankIdx = RANKS.findIndex((r, i) => {
@@ -136,7 +137,7 @@ function getEmptyStats(): MMRStats {
 }
 
 export function generateShareText(stats: MMRStats): string {
-  return `🏆 Mi Rango WorldExams: ${stats.rank} (MMR: ${stats.mmr})
+  return `🏆 Mi Nivel WorldExams: ${stats.rank} (Puntaje: ${stats.mmr})
 📊 Precisión: ${stats.avgAccuracy}% | 🧠 Fuerte: ${stats.strongestSubject}
 🚀 Prepárate gratis en saberparatodos.space`;
 }

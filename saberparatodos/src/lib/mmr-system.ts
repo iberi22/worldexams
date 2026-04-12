@@ -3,13 +3,13 @@
  * MMR (Matchmaking Rating) System
  * Uses a modified ELO rating system to track student skill levels.
  *
- * Base MMR: 1000 (Average Student)
+ * Base MMR: 250 (Average Student in 0-500 scale)
  * Min MMR: 0
- * Max MMR: 3000
+ * Max MMR: 500
  */
 
-export const BASE_MMR = 1000;
-const K_FACTOR = 40; // Volatility factor (higher = faster changes)
+export const BASE_MMR = 250;
+const K_FACTOR = 16; // Adjusted for 0-500 range (was 40 for 0-3000)
 
 export const ICFES_PROXY_METHODOLOGY_VERSION = 'icfes-proxy-v1';
 export const ICFES_PROXY_DISCLAIMER =
@@ -86,13 +86,7 @@ export function estimateIcfesScore(signals: IcfesProxySignals): IcfesEstimate {
   const consistencyScore = clamp(signals.consistencyScore ?? 50, 0, 100);
   const subjectCoverage = Math.max(1, Math.round(signals.subjectCoverage ?? 1));
 
-  const normalizedMMR = clamp((signals.mmr - 700) / 900, 0, 1);
-  const mmrBaseScore = 130 + normalizedMMR * 250;
-  const accuracyAdjustment = (accuracy - 0.5) * 140;
-  const difficultyAdjustment = (averageDifficulty - 3) * 18;
-  const consistencyAdjustment = ((consistencyScore - 50) / 50) * 30;
-
-  const rawScore = mmrBaseScore + accuracyAdjustment + difficultyAdjustment + consistencyAdjustment;
+  const rawScore = clamp(signals.mmr, 0, 500);
   const scaledScore = rawScore * evidenceFactor(evidenceCount) * subjectCoverageFactor(subjectCoverage);
   const score = clamp(Math.round(scaledScore), 0, 500);
   const confidence = confidenceFromEvidence(evidenceCount, subjectCoverage);
@@ -128,20 +122,21 @@ export function getSimulatedIcfesScore(mmr: number, signals: Partial<IcfesProxyS
 
 /**
  * Calculate expected score (probability of winning)
- * Formula: 1 / (1 + 10^((RatingB - RatingA) / 400))
+ * Formula: 1 / (1 + 10^((RatingB - RatingA) / 100))
  */
 export function getExpectedScore(playerRating: number, difficultyRating: number): number {
-  return 1 / (1 + Math.pow(10, (difficultyRating - playerRating) / 400));
+  return 1 / (1 + Math.pow(10, (difficultyRating - playerRating) / 100));
 }
 
 /**
- * Convert difficulty (1-5) to Rating (600-1400)
+ * Convert difficulty (1-5) to Rating (150-350)
  */
 export function difficultyToRating(difficulty: number): number {
-  // Diff 1: 600 (Easy)
-  // Diff 3: 1000 (Medium)
-  // Diff 5: 1400 (Hard)
-  return 400 + (difficulty * 200);
+  // Scale (1-5) mapped to (150-350)
+  // Diff 1: 150
+  // Diff 3: 250
+  // Diff 5: 350
+  return 100 + (difficulty * 50);
 }
 
 /**
@@ -168,7 +163,7 @@ export function getGradeMultiplier(userGrade: number, questionGrade: number): nu
 
 /**
  * Calculate new MMR after a question attempt
- * @param currentMMR Current player rating (default 1000)
+ * @param currentMMR Current player rating (default 250)
  * @param questionDifficulty Difficulty 1-5
  * @param isCorrect Whether the answer was correct
  * @param userGrade Optional: The grade the user is studying for
@@ -199,6 +194,8 @@ export function calculateNewMMR(
 
   // Prevent negative MMR
   if (newRating < 0) newRating = 0;
+  // Cap at 500
+  if (newRating > 500) newRating = 500;
 
   return { newRating, delta, expected, gradeMultiplier };
 }
@@ -207,11 +204,11 @@ export function calculateNewMMR(
  * Get rank title based on MMR
  */
 export function getRankTitle(mmr: number): string {
-  if (mmr < 600) return 'Iniciado';
-  if (mmr < 800) return 'Aprendiz';
-  if (mmr < 1000) return 'Estudiante';
-  if (mmr < 1200) return 'Avanzado';
-  if (mmr < 1400) return 'Experto';
-  if (mmr < 1600) return 'Maestro';
+  if (mmr < 150) return 'Iniciado';
+  if (mmr < 220) return 'Aprendiz';
+  if (mmr < 280) return 'Estudiante';
+  if (mmr < 340) return 'Avanzado';
+  if (mmr < 400) return 'Experto';
+  if (mmr < 460) return 'Maestro';
   return 'Gran Maestro';
 }

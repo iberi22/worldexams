@@ -169,29 +169,29 @@ El puntaje (0-500) es crucial para ingresar a universidades y obtener becas.
       ]
     },
 
-    // Sistema de calificación MMR
+    // Sistema de calificación (Puntaje)
     scoringSystem: {
-      name: "MMR (Matchmaking Rating)",
-      description: "Sistema de puntuación dinámico estilo ELO que mide habilidad real",
-      initialScore: 1000,
+      name: "Puntaje WorldExams",
+      description: "Sistema de puntuación dinámico integrado y equivalente a la escala ICFES 0-500",
+      initialScore: 250,
 
       ranks: [
-        { name: "Iniciado", minMMR: 0, maxMMR: 599, emoji: "🔰", proxyEstimateRange: "0-200" },
-        { name: "Aprendiz", minMMR: 600, maxMMR: 799, emoji: "📗", proxyEstimateRange: "200-280" },
-        { name: "Estudiante", minMMR: 800, maxMMR: 999, emoji: "📘", proxyEstimateRange: "280-340" },
-        { name: "Avanzado", minMMR: 1000, maxMMR: 1199, emoji: "📙", proxyEstimateRange: "340-400" },
-        { name: "Experto", minMMR: 1200, maxMMR: 1399, emoji: "📕", proxyEstimateRange: "400-450" },
-        { name: "Maestro", minMMR: 1400, maxMMR: 1599, emoji: "⭐", proxyEstimateRange: "450-480" },
-        { name: "Gran Maestro", minMMR: 1600, maxMMR: 9999, emoji: "👑", proxyEstimateRange: "480-500" }
+        { name: "Iniciado", min: 0, max: 149, emoji: "🔰" },
+        { name: "Aprendiz", min: 150, max: 219, emoji: "📗" },
+        { name: "Estudiante", min: 220, max: 279, emoji: "📘" },
+        { name: "Avanzado", min: 280, max: 339, emoji: "📙" },
+        { name: "Experto", min: 340, max: 399, emoji: "📕" },
+        { name: "Maestro", min: 400, max: 459, emoji: "⭐" },
+        { name: "Gran Maestro", min: 460, max: 500, emoji: "👑" }
       ],
 
       howItWorks: {
         gainingPoints: "Responder correctamente suma puntos. Preguntas más difíciles dan más puntos.",
         losingPoints: "Respuestas incorrectas restan puntos. Preguntas fáciles quitan más si fallas.",
         timeBonus: "Respuestas rápidas y correctas dan bonus adicional.",
-        stabilization: "El sistema se estabiliza después de 20-30 preguntas."
+        stabilization: "El sistema se estabiliza después de 20-30 preguntas permitiendo una lectura ICFES confiable."
       },
-      proxyNote: "Los rangos proxyEstimateRange son orientativos en escala 0-500. No equivalen a puntajes ICFES oficiales ni replican su metodologia psicometrica."
+      proxyNote: "El puntaje local es la estimación aproximada a la prueba de estado en la escala real de 0 a 500."
     },
 
     // Tips de estudio
