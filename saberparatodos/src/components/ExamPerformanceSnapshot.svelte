@@ -43,7 +43,7 @@
 
       <div class="rounded-2xl border border-white/10 bg-white/[0.04] px-4 py-3">
         <div class="text-[10px] font-bold uppercase tracking-[0.24em] text-white/45">Ultimo puntaje</div>
-        <div class="mt-1 text-2xl font-black tracking-tight text-white">{snapshot.latestScore ?? '--'}<span class="ml-1 text-sm text-white/45">/100</span></div>
+        <div class="mt-1 text-2xl font-black tracking-tight text-white">{snapshot.latestScore ?? '--'}</div>
         <div class="mt-1 text-xs text-white/55">{snapshot.rankTitle || 'Perfil local activo'}</div>
       </div>
     </div>

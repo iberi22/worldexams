@@ -91,7 +91,7 @@
           </h2>
           <div class="flex justify-center items-center gap-2 opacity-60">
             <span class="text-xl font-mono">{stats.mmr}</span>
-            <span class="text-xs uppercase tracking-widest">MMR</span>
+            <span class="text-xs uppercase tracking-widest">Puntos</span>
           </div>
         </div>
 

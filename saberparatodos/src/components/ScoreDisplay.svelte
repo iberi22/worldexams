@@ -154,22 +154,15 @@
   </div>
 
   <div class="p-4 bg-white/5 border border-white/10 rounded-xl">
-    <div class="flex items-start justify-between gap-4 mb-4">
+    <div class="flex items-start justify-between gap-4">
       <div>
         <h3 class="text-sm font-bold uppercase tracking-widest text-white/60">
-          Metrica interna de practica
+          Desempeño de la sesion
         </h3>
         <p class="mt-1 text-xs text-white/45 leading-relaxed">
-          {questionImpactCopy} Esta metrica sigue activa para feedback de sesion, tuning y ranking interno.
+          {questionImpactCopy} Estas metricas ayudan a calcular tu estimado ICFES.
         </p>
       </div>
-      <button
-        type="button"
-        on:click={() => showScoreHelp = true}
-        class="shrink-0 text-[11px] uppercase tracking-[0.2em] text-cyan-300/85 hover:text-cyan-200 transition-colors"
-      >
-        Ver formula
-      </button>
     </div>
 
     <div class="space-y-3">
@@ -203,8 +196,8 @@
 
       <div class="border-t border-white/10 pt-3 mt-3">
         <div class="flex justify-between items-center gap-4">
-          <span class="font-bold text-white">Puntaje WorldExams</span>
-          <span class="font-mono font-bold text-xl text-[#F5F5DC]">
+          <span class="font-bold text-white/60 uppercase text-[10px] tracking-widest">Puntaje por sesion</span>
+          <span class="font-mono font-bold text-lg text-white/40">
             {formatScore(practiceScore)}
           </span>
         </div>
@@ -368,10 +361,10 @@
         </div>
 
         <div class="p-4 rounded-2xl border border-emerald-400/15 bg-emerald-400/10">
-          <h4 class="text-base font-bold text-emerald-100">Recomendacion de claridad</h4>
+          <h4 class="text-base font-bold text-emerald-100">Transparencia de Escala</h4>
           <p class="mt-2 leading-relaxed">
-            Esta pantalla ya separa la lectura <strong class="text-white">ICFES proxy</strong> de los
-            <strong class="text-white"> puntos de practica</strong>. La primera orienta al estudiante; la segunda sirve al sistema.
+            Hemos alineado el sistema de nivel (MMR) a la escala <strong class="text-white">ICFES 0-500</strong>. 
+            El puntaje de sesion es solo una metrica de apoyo para el calculo del progreso.
           </p>
         </div>
       </div>
