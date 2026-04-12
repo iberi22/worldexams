@@ -296,10 +296,10 @@ export function calculateExamScore(
     Math.min(100, 35 + (stats.accuracy * 45) + (Math.min(stats.longestStreak, 6) * 3))
   );
   const mmrApproximation =
-    850 +
-    (stats.accuracy * 450) +
-    ((averageDifficulty - 3) * 70) +
-    (Math.min(stats.questionsAnswered, 40) * 2);
+    150 +
+    (stats.accuracy * 250) +
+    ((averageDifficulty - 3) * 30) +
+    (Math.min(stats.questionsAnswered, 20) * 2);
   const icfesEstimate = estimateIcfesScore({
     mmr: Math.round(mmrApproximation),
     accuracy: stats.accuracy,

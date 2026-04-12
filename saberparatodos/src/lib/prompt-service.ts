@@ -367,21 +367,21 @@ export function classifyLearnerArchetype(profile: UserProfileData): LearnerArche
     if (recent.length > 0 && older.length > 0) {
       const avgRecent = recent.reduce((sum, h) => sum + h.mmr, 0) / recent.length;
       const avgOlder = older.reduce((sum, h) => sum + h.mmr, 0) / older.length;
-      if (avgRecent - avgOlder < -30) return 'regressing';
+      if (avgRecent - avgOlder < -10) return 'regressing';
     }
   }
 
   // 4. Élite / Avanzado Consistente
-  if (globalMMR >= 1400 && consistency >= 75) return 'advanced_consistent';
+  if (globalMMR >= 420 && consistency >= 75) return 'advanced_consistent';
 
   // 5. Avanzado con brechas
-  if (globalMMR >= 1200 && profile.weakAreas.length > 0) return 'advanced_with_gaps';
+  if (globalMMR >= 340 && profile.weakAreas.length > 0) return 'advanced_with_gaps';
 
   // 6. En ascenso (Momentum positivo)
   if (recentHistory && recentHistory.length >= 5) {
      const last = recentHistory[recentHistory.length - 1].mmr;
      const first = recentHistory[recentHistory.length - 5].mmr;
-     if (last - first > 20) return 'intermediate_rising';
+     if (last - first > 7) return 'intermediate_rising';
   }
 
   // 7. Slow Starter (Mucho volumen, baja precisión)
@@ -402,8 +402,8 @@ export function computeAdaptiveContext(profile: UserProfileData): AdaptiveContex
     const last3 = profile.recentHistory.slice(-3).reduce((s, h) => s + h.mmr, 0) / 3;
     const prev3 = profile.recentHistory.slice(-6, -3).reduce((s, h) => s + h.mmr, 0) / 3;
     const diff = last3 - prev3;
-    if (diff > 15) momentum = 'rising';
-    else if (diff < -15) momentum = 'falling';
+    if (diff > 7) momentum = 'rising';
+    else if (diff < -7) momentum = 'falling';
   }
 
   // Calcular Perfil de Velocidad
