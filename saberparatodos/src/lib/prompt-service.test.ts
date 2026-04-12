@@ -3,7 +3,7 @@ import { classifyLearnerArchetype, computeAdaptiveContext, generatePrompt, type 
 
 describe('Prompt Service - Adaptive Logic', () => {
   const baseProfile: UserProfileData = {
-    globalMMR: 1000,
+    globalMMR: 250,
     rankTitle: 'Estudiante',
     globalAccuracy: 0.5,
     totalQuestions: 50,
@@ -27,8 +27,8 @@ describe('Prompt Service - Adaptive Logic', () => {
       ...baseProfile, 
       totalQuestions: 40,
       recentHistory: [
-        { mmr: 1100, timestamp: 1 }, { mmr: 1100, timestamp: 2 }, { mmr: 1100, timestamp: 3 }, { mmr: 1100, timestamp: 4 }, { mmr: 1100, timestamp: 5 },
-        { mmr: 1000, timestamp: 6 }, { mmr: 1000, timestamp: 7 }, { mmr: 1000, timestamp: 8 }, { mmr: 1000, timestamp: 9 }, { mmr: 1000, timestamp: 10 },
+        { mmr: 300, timestamp: 1 }, { mmr: 300, timestamp: 2 }, { mmr: 300, timestamp: 3 }, { mmr: 300, timestamp: 4 }, { mmr: 300, timestamp: 5 },
+        { mmr: 250, timestamp: 6 }, { mmr: 250, timestamp: 7 }, { mmr: 250, timestamp: 8 }, { mmr: 250, timestamp: 9 }, { mmr: 250, timestamp: 10 },
       ]
     };
     expect(classifyLearnerArchetype(profile)).toBe('regressing');
@@ -37,7 +37,7 @@ describe('Prompt Service - Adaptive Logic', () => {
   it('should classify as advanced_consistent for high MMR and high consistency', () => {
     const profile = { 
       ...baseProfile, 
-      globalMMR: 1500, 
+      globalMMR: 450, 
       advancedMetrics: { ...baseProfile.advancedMetrics!, consistencyScore: 85 } 
     };
     expect(classifyLearnerArchetype(profile)).toBe('advanced_consistent');
@@ -55,7 +55,7 @@ describe('Prompt Service - Adaptive Logic', () => {
   it('should route to the correct prompt template in adaptive_auto', () => {
     const profile = { 
       ...baseProfile, 
-      globalMMR: 1500, 
+      globalMMR: 450, 
       advancedMetrics: { ...baseProfile.advancedMetrics!, consistencyScore: 85 } 
     };
     const prompt = generatePrompt('adaptive_auto', profile);
@@ -67,7 +67,7 @@ describe('Prompt Service - Adaptive Logic', () => {
     const profile = { 
         ...baseProfile, 
         totalQuestions: 40,
-        recentHistory: Array(10).fill(0).map((_, i) => ({ mmr: i < 5 ? 1200 : 1000, timestamp: i }))
+        recentHistory: Array(10).fill(0).map((_, i) => ({ mmr: i < 5 ? 350 : 250, timestamp: i }))
       };
       const prompt = generatePrompt('adaptive_auto', profile);
       expect(prompt).toContain('Tutor de Rescate Académico');
