@@ -161,13 +161,9 @@ const TOPICS: Record<string, Record<number, string[]>> = {
   }
 };
 
-// Available agents - ordered by capability (newest/most capable first)
-// NOTE: minimax-m2.5-hs removed - use minimax-m2.7 instead
+// Available agents - minimax only
 const AGENTS = [
   { name: 'minimax-m2.7', model: 'minimax/MiniMax-M2.7', provider: 'minimax' },
-  { name: 'kimi-k2-thinking', model: 'google-vertex/moonshotai/kimi-k2-thinking-maas', provider: 'google-vertex' },
-  { name: 'glm-5', model: 'google-vertex/zai-org/glm-5-maas', provider: 'google-vertex' },
-  { name: 'gemini-3.1-pro', model: 'google/gemini-3.1-pro-preview', provider: 'google' },
 ];
 
 // Queue of generation tasks
@@ -395,31 +391,13 @@ async function runAgent(task: GenerationTask): Promise<{ success: boolean; outpu
   }
 }
 
-// Get agent command based on available agents (most capable models)
+// Get agent command - minimax only, no --headless flag
 function getAgentCommand(agentName: string, prompt: string, subject: string): string {
   const promptFile = path.join(GENERATION_DIR, `prompt-${Date.now()}.txt`);
   fs.writeFileSync(promptFile, prompt);
-  
-  // Map agent names to commands
-  switch (agentName) {
-    case 'minimax-m2.7':
-      return `opencode run --headless --model opencode-go/minimax-m2.7 -y "Execute the prompt in ${promptFile}"`;
-    
-    case 'kimi-k2-thinking':
-      return `opencode run --headless --model google-vertex/moonshotai/kimi-k2-thinking-maas -y "Execute the prompt in ${promptFile}"`;
-    
-    case 'glm-5':
-      return `opencode run --headless --model google-vertex/zai-org/glm-5-maas -y "Execute the prompt in ${promptFile}"`;
-    
-    case 'gemini-3.1-pro':
-      return `gemini -m google/gemini-3.1-pro-preview -p "Execute the instructions in ${promptFile}" -y`;
-    
-    case 'minimax-m2.5-hs':
-      return `opencode run --headless --model minimax/MiniMax-M2.5-highspeed -y "Execute the prompt in ${promptFile}"`;
-    
-    default:
-      return `opencode run --headless --model minimax/MiniMax-M2.7 -y "Execute the prompt in ${promptFile}"`;
-  }
+
+  // Always use minimax/MiniMax-M2.7 without --headless flag
+  return `opencode run --model minimax/MiniMax-M2.7 "Execute the prompt in ${promptFile}"`;
 }
 
 // Main generation loop
