@@ -1,152 +1,423 @@
 ---
-id: "CO-LEC-11-P2-literario-001-MASTERY"
-protocol_version: "5.0"
-alignment: "ICFES Saber 11 / Marcos Técnicos"
-target_cefr: "N/A"
+id: "CO-LEC-11-P2-literario-001"
+country: "colombia"
+grado: 11
+asignatura: "lectura-critica"
+tema: "textos-literarios"
 periodo: 2
+protocol_version: "5.1"
+bundle_size: 20
 bundle_index: 1
-modern_context: true
-calibration:
-  expected_success_rate: 0.50
-  discrimination_index_target: ">= 0.25"
-  simulated_responses: 100
-rubric_baseline: "figuras_retóricas, intertextualidad, análisis_simbólico"
+alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
+competencia_icfes: "Lectura critica - analisis literario e inferencia"
+afirmacion_icfes: "Reconoce voz narrativa, simbolos y relaciones internas en textos literarios"
+referente_men: "MEN DBA y competencias de lectura critica para grado 11"
+distractor_profile: "misconception_based"
+generation:
+  agent: "codex"
+  model: "gpt-5.4-mini"
+  reasoning_effort: "medium"
+  timestamp: "2026-04-12T00:00:00-05:00"
+curation:
+  human_review_required: true
+  agent_curated: false
+quality_status: "NEEDS_HUMAN_REVIEW"
+generation_status: "RAW"
+needs_human_review: true
+license: "CC BY-NC-SA 4.0"
 ---
 
-# Bundle Lectura Crítica G11 - Periodo 2: Textos Literarios (Narrativa y Poesía)
+# Bundle Mastery: Textos literarios - Grado 11 - Periodo 2
+
+Este bundle trabaja voz narrativa, imagen poetica, simbolo, tono e intertextualidad en textos literarios.
 
 ---
 
-## Question 1 (Intermedio - Dificultad 4)
-**ID:** `CO-LEC-11-P2-literario-001-MASTERY-v1`
-**Bloom:** Comprender
-**ICFES:** Identificación de Voces Narrativas
-**Expected_Success:** 0.65
+## Texto Base 1: Poema breve
 
-### Texto Base
-*Fragmento de "La ciudad y los perros", Mario Vargas Llosa.*
-"Cuatro –dijo el Jaguar. Los rostros se suavizaron en el resplandor vacilante que el fósforo mantenía, por momentos masticado, a punto de apagarse...
-–A ti, Cava. Vas tú.
-El Cava era todavía el mismo rostro aterrorizado que el Jagúar sorprendió un instante antes de encender el fósforo. No había cambiado: era, quizá, un poco más pálido y sus ojos miraban todavía de través, recelosos."
+*La ciudad despierta con un hilo de luz.  
+Los balcones guardan el polvo de la noche  
+y el viento, como un lector distraido,  
+pasa la pagina de las calles.  
+Yo miro desde arriba  
+y entiendo que amanecer tambien es perder algo.*
+
+## Question 1 (D3)
+**ID:** `CO-LEC-11-P2-literario-001-v1`
+**Bloom:** Understand
+**ICFES:** Identifica la voz que enuncia el poema.
+**Expected_Success:** 0.72
 
 ### Enunciado
-En el fragmento anterior, la voz narrativa asume una perspectiva específica sobre los eventos del "bautizo" o iniciación en el colegio militar. ¿Cuál de las siguientes afirmaciones describe unívocamente el tipo de narrador fáctico empírico literario de esta escena particular?
+¿Quien habla en el poema?
 
 ### Options
-- [ ] A) Es un narrador protagonista (primera persona) porque Cava está sintiendo terror y nos narra su propio miedo ciego empírico. <!-- feedback: Incorrecto. El narrador habla "desde afuera" de Cava: "El Cava era...). -->
-- [ ] B) Es un narrador epistolar ya que escribará lúdica una bitácora empírica fáctica andina del colegio. <!-- feedback: Ciego y falso invención genérica andes. -->
-- [x] C) Es un narrador omnisciente y en tercera persona, debido a que logra capturar detalles visuales minúsculos ("resplandor vacilante, a punto de apagarse") a la vez que penetra en los rostros y detecta el miedo íntimo que el Jaguar había notado momentos previos sicológicamente de los demás pupilos. <!-- feedback: Correcto. Habla en 3ra ("El Cava era") y tiene un conocimiento descriptivo y psicologista absoluto de la escena. -->
-- [ ] D) Es un poeta en clave métrica y prosa fásica armónica evaluativa general de asimetría puritana mística y andina pasiva. <!-- feedback: Errónea categoría genérica estructural andina celular pasivo. -->
+- [ ] A) Un narrador omnisciente externo. <!-- feedback: Incorrecto. El poema usa una voz en primera persona. -->
+- [x] B) Una voz poetica en primera persona. <!-- feedback: Correcto. Aparece el pronombre "Yo". -->
+- [ ] C) Un dialogo entre dos personajes. <!-- feedback: Incorrecto. No hay intercambio de voces. -->
+- [ ] D) Un cronista historico. <!-- feedback: Incorrecto. El texto es lirico, no historico. -->
 
-### Rúbrica de Justificación
-1. **Identificación Semántica Formal del Focalizador Literario Narrativo Tradicional Icfes (Omnisciente vs Testigo).**
+### Explicacion Pedagogica
+La identificacion de la voz depende de marcas explicitas del enunciador.
 
-### Explicación Pedagógica
-La distinción de narradores salva muchas confusiones semánticas lúdicas evaluadoras asimiladoras orgánico andinas puras y métricas paramétricas puritanas.
+## Question 2 (D3)
+**ID:** `CO-LEC-11-P2-literario-001-v2`
+**Bloom:** Analyze
+**ICFES:** Reconoce una imagen poetica.
+**Expected_Success:** 0.70
+
+### Enunciado
+En "el viento, como un lector distraido, / pasa la pagina de las calles", la figura principal es:
+
+### Options
+- [ ] A) Una hiperbole. <!-- feedback: Incorrecto. No hay exageracion numerica o extrema. -->
+- [x] B) Una comparacion. <!-- feedback: Correcto. La expresion usa "como" para comparar. -->
+- [ ] C) Una enumeracion. <!-- feedback: Incorrecto. No es una lista. -->
+- [ ] D) Un eufemismo. <!-- feedback: Incorrecto. No suaviza ninguna expresion dura. -->
+
+### Explicacion Pedagogica
+La comparacion permite convertir un elemento natural en una accion humana.
+
+## Question 3 (D4)
+**ID:** `CO-LEC-11-P2-literario-001-v3`
+**Bloom:** Analyze
+**ICFES:** Interpreta el tono dominante del poema.
+**Expected_Success:** 0.66
+
+### Enunciado
+¿Cual es el tono mas claro del poema?
+
+### Options
+- [ ] A) Burlon y agresivo. <!-- feedback: Incorrecto. No hay agresividad directa. -->
+- [x] B) Contemplativo y melancolico. <!-- feedback: Correcto. La voz observa y asocia el amanecer con una perdida. -->
+- [ ] C) Triunfal y festivo. <!-- feedback: Incorrecto. El cierre sugiere perdida, no celebracion. -->
+- [ ] D) Tecnico y objetivo. <!-- feedback: Incorrecto. El lenguaje es figurado. -->
+
+### Explicacion Pedagogica
+El tono se deduce del vocabulario y de la actitud de la voz lirica.
+
+## Question 4 (D4)
+**ID:** `CO-LEC-11-P2-literario-001-v4`
+**Bloom:** Analyze
+**ICFES:** Reconoce una idea implicita en una imagen.
+**Expected_Success:** 0.64
+
+### Enunciado
+¿Que sugiere la frase "amanecer tambien es perder algo"?
+
+### Options
+- [ ] A) Que todo amanecer es biologicamente peligroso. <!-- feedback: Incorrecto. La frase es simbolica, no cientifica. -->
+- [x] B) Que cada comienzo trae tambien una renuncia o un cierre. <!-- feedback: Correcto. El poema vincula inicio con perdida. -->
+- [ ] C) Que la ciudad deja de existir al despertar. <!-- feedback: Incorrecto. La ciudad sigue presente. -->
+- [ ] D) Que la luz destruye la memoria por completo. <!-- feedback: Incorrecto. No hay afirmacion absoluta. -->
+
+### Explicacion Pedagogica
+La interpretacion literaria exige leer el valor simbolico de la imagen final.
+
+## Question 5 (D5)
+**ID:** `CO-LEC-11-P2-literario-001-v5`
+**Bloom:** Evaluate
+**ICFES:** Valora el efecto del cierre poetico.
+**Expected_Success:** 0.58
+
+### Enunciado
+¿Que efecto produce el ultimo verso?
+
+### Options
+- [x] A) Amplia el sentido del poema, porque convierte el amanecer en una experiencia ambivalente. <!-- feedback: Correcto. El cierre da profundidad y complejidad. -->
+- [ ] B) Elimina toda ambiguedad del poema. <!-- feedback: Incorrecto. El cierre abre una interpretacion. -->
+- [ ] C) Cambia el texto a un relato policial. <!-- feedback: Incorrecto. No cambia de genero. -->
+- [ ] D) Explica literalmente el cambio de hora. <!-- feedback: Incorrecto. No es un dato tecnico. -->
+
+### Explicacion Pedagogica
+El final no solo cierra: reorienta la lectura de todo el poema.
 
 ---
 
-## Question 2 (Intermedio - Dificultad 5)
-**ID:** `CO-LEC-11-P2-literario-001-MASTERY-v2`
-**Bloom:** Aplicar
-**ICFES:** Intertextualidad Básica
+## Texto Base 2: Fragmento narrativo
+
+*Ella esperaba el bus con el paraguas cerrado. No llovia, pero el cielo parecia guardar una advertencia. En la pantalla del celular aparecio un mensaje que no abria desde hacia semanas: "Llego tarde". Ella sonrio apenas, como si esa demora perteneciera a otra vida.*
+
+## Question 6 (D5)
+**ID:** `CO-LEC-11-P2-literario-001-v6`
+**Bloom:** Analyze
+**ICFES:** Identifica la focalizacion del fragmento.
 **Expected_Success:** 0.60
 
-### Texto Base
-*Reflexión de la Crítica Cultural sobre Cien Años de Soledad (Extracto Adaptado)*
-"El diluvio que azotó Macondo durante cuatro años, once meses y dos días no fue solo una inclemencia meteorológica inventada por García Márquez, sino que resuena poderosamente con el diluvio bíblico de la tradición judeocristiana; un cataclismo purificador que busca borrar la decadencia moral traída por la compañía bananera foránea puritana y andina a la mítica aldea". 
-
 ### Enunciado
-Según el extracto de crítica literaria, ¿cuál es el propósito primordial de la "Intertextualidad" utilizada sutilmente asimilada puritana por el autor colombiano en su lluvia eterna paramétrica?
+¿Desde que perspectiva se presenta la escena?
 
 ### Options
-- [ ] A) Documentar métrica y lógicamente evaluativa formal asintótica andina los cambios climáticos del fenómeno de la niña en el Magdalena medio a principios del siglo XX andino de ciencias naturales empíricas fácticas puras lógicas genéricas perezosas analíticas pasivas formales puritanas andes genéricas fásicas de asimilación genial empírico. <!-- feedback: Literalidad empírica destructiva gélida andina paramétrica evaluativa tonta cívica fáctica; ignora el análisis literario expuesto explícito cívico andino en la fuente evaluativa puritana analítica "biblico". -->
-- [ ] B) Copiar fácticamente ideas foráneas porque en el trópico no hay creatividad lluviosa fáctica pasiva de origen genérico celular puro andés paramétrico evaludor genérico puro inorgánico celular asintótico y andino asimétrico puritano. <!-- feedback: Falta de comprensión crítica, intertextualidad no es plagio nulo de evaluador pasivo. -->
-- [x] C) Dotar a un fenómeno atmosférico local (la lluvia en tierras de Macondo) de una magnitud divina, apocalíptica y trágica milenaria, evocando el viejo mito universal purificador del Génesis para dar a los eventos de un simple pueblo costeño la altura de un verdadero mito fundacional o leyenda cosmológica ancestral fáctica asimiladora humana universal. <!-- feedback: Comprensión excelsa poética. La intertextualidad o "alusión religiosa" transfiere el peso místico de la caída babilónica o arcaica lúdica asimilada paramétrica universal sobre el pueblo bananero fáctico andino en crisis evaluativa paramétrica nula andina celular asimilador. -->
-- [ ] D) Simplemente robar tiempo evaluando asimetrías métricas estáticas celulares y rellenar las páginas orgánicas vacías paramétricas lúdicas fásicas perezosas cívico genérico andinas lúdicas. <!-- feedback: Vacío de profundidad estática de la literatura fáctica asimiladora neta tonta. -->
+- [ ] A) Desde un narrador en segunda persona. <!-- feedback: Incorrecto. No se habla a un "tu". -->
+- [x] B) Desde una tercera persona con enfoque cercano en ella. <!-- feedback: Correcto. La narracion es externa, pero sigue de cerca a la protagonista. -->
+- [ ] C) Desde un narrador omnisciente que explica todo el pasado. <!-- feedback: Incorrecto. No se explican todos los hechos. -->
+- [ ] D) Desde un narrador protagonista en primera persona. <!-- feedback: Incorrecto. No aparece un "yo". -->
 
-### Rúbrica de Justificación
-1. **Decodificación Funcional Estilística de Intertextualidad Religiosa/Mítica (El Relato Amplificado).**
+### Explicacion Pedagogica
+La focalizacion se reconoce por la distancia y el acceso a la experiencia de la personaje.
+
+## Question 7 (D5)
+**ID:** `CO-LEC-11-P2-literario-001-v7`
+**Bloom:** Analyze
+**ICFES:** Reconoce el valor simbolico de un objeto.
+**Expected_Success:** 0.57
+
+### Enunciado
+¿Que puede simbolizar el paraguas cerrado?
+
+### Options
+- [x] A) Una proteccion disponible pero aun no necesaria. <!-- feedback: Correcto. El objeto sugiere una defensa guardada. -->
+- [ ] B) Una tormenta ya ocurrida. <!-- feedback: Incorrecto. No se menciona una tormenta pasada. -->
+- [ ] C) Una prohibicion de salir. <!-- feedback: Incorrecto. No hay esa regla. -->
+- [ ] D) Una perdida de memoria. <!-- feedback: Incorrecto. El simbolo apunta a proteccion y espera. -->
+
+### Explicacion Pedagogica
+Los objetos en narrativa suelen condensar estados emocionales.
+
+## Question 8 (D6)
+**ID:** `CO-LEC-11-P2-literario-001-v8`
+**Bloom:** Understand
+**ICFES:** Identifica una informacion implicita en el tiempo verbal.
+**Expected_Success:** 0.54
+
+### Enunciado
+La expresion "Llego tarde" sugiere que:
+
+### Options
+- [ ] A) La situacion no tiene importancia. <!-- feedback: Incorrecto. El mensaje produce expectativa. -->
+- [x] B) Hay una relacion tensa o distante entre los personajes. <!-- feedback: Correcto. El mensaje aparece como algo de otro tiempo o vida. -->
+- [ ] C) Todo esta completamente resuelto. <!-- feedback: Incorrecto. Hay una interrupcion emocional. -->
+- [ ] D) La protagonista olvido el numero del bus. <!-- feedback: Incorrecto. No se trata de transporte. -->
+
+### Explicacion Pedagogica
+El sentido no depende solo de la frase, sino de su contexto emocional.
+
+## Question 9 (D6)
+**ID:** `CO-LEC-11-P2-literario-001-v9`
+**Bloom:** Analyze
+**ICFES:** Reconoce el efecto de una comparacion interna.
+**Expected_Success:** 0.52
+
+### Enunciado
+La frase "como si esa demora perteneciera a otra vida" sugiere:
+
+### Options
+- [ ] A) Que el mensaje es literal y practico. <!-- feedback: Incorrecto. La frase es claramente subjetiva. -->
+- [x] B) Que la espera reabre un recuerdo o una distancia afectiva. <!-- feedback: Correcto. La demora se vincula con un pasado emocional. -->
+- [ ] C) Que el bus ya no pasara nunca. <!-- feedback: Incorrecto. No se afirma eso. -->
+- [ ] D) Que la protagonista ya no sabe leer mensajes. <!-- feedback: Incorrecto. El problema no es tecnico. -->
+
+### Explicacion Pedagogica
+La comparacion transforma un dato simple en resonancia emocional.
+
+## Question 10 (D6)
+**ID:** `CO-LEC-11-P2-literario-001-v10`
+**Bloom:** Evaluate
+**ICFES:** Reconoce el efecto narrativo del cierre.
+**Expected_Success:** 0.50
+
+### Enunciado
+¿Que logra el cierre "Ella sonrio apenas"?
+
+### Options
+- [ ] A) Resolver por completo el conflicto. <!-- feedback: Incorrecto. El conflicto sigue abierto. -->
+- [x] B) Mostrar una reaccion ambigua entre distancia y aceptacion. <!-- feedback: Correcto. La sonrisa no es total ni definitiva. -->
+- [ ] C) Convertir el fragmento en comedia. <!-- feedback: Incorrecto. No cambia el registro a comicidad. -->
+- [ ] D) Eliminar la carga emocional de la escena. <!-- feedback: Incorrecto. La mantiene. -->
+
+### Explicacion Pedagogica
+El cierre breve deja una emocion suspendida.
 
 ---
 
-## Question 3 (Avanzado - Dificultad 6)
-**ID:** `CO-LEC-11-P2-literario-001-MASTERY-v3`
-**Bloom:** Analizar
-**ICFES:** Reconocimiento de Tropos y Metonimias
-**Expected_Success:** 0.45
+## Texto Base 3: Dialogo entre madre e hija
 
-### Texto Base
-En el célebre verso del cubano José Martí:  
-*"Con los pobres de la tierra / quiero yo mi suerte echar: / el arroyo de la sierra / me complace más que el mar."*
+*-- No te vayas tan pronto -dijo la madre.  
+-- Si me quedo, me vuelvo a callar -respondio la hija.  
+Sobre la mesa habia una llave y una foto doblada. Nadie toco ninguno de los dos objetos durante el resto de la conversacion.*
+
+## Question 11 (D7)
+**ID:** `CO-LEC-11-P2-literario-001-v11`
+**Bloom:** Analyze
+**ICFES:** Identifica el conflicto central del dialogo.
+**Expected_Success:** 0.48
 
 ### Enunciado
-Más allá de la preferencia rústica de tiza hídrica o botánica andina evaluada cívica fáctica pasiva y nula asimétrica puritana por bañarse ruidosamente en agua dulce rural genérica lúdica frente al océano gélido, analice a fondo: ¿Qué Figura Retórica de base emplea el poeta y qué dualidad filosófica y sociológica construye el contraste entre "el arroyo" y "el mar" en el poema fáctico paramétrico asintótico asimilador?
+¿Cual es el conflicto principal?
 
 ### Options
-- [x] A) Elabora una exquisita Metáfora Oposicional Andina Genérica (o Símil Dual). El "arroyo de la sierra" representa orgánicamente la humildad, la lucha de la gente de pueblo nativo modesto y el origen cristalino fáctico y pequeño; encarnando y visibilizando de golpe asintótico lúdico todo lo puritano rural, mientras que el inmenso "mar" personifica e ilustra literariamente lo grandioso, ruidoso, ostentoso del imperio gélido, o el inorgánico empírico poder avasallador cosmopolita general que el poeta decide heroicamente asimétrico pasivo andino fáctico y orgánico asimilado rechazar para abrazar evaluativa puritana de su causa o suerte. <!-- feedback: Aprobación Mística de tiza. El objeto físico agua (arroyo o mar) no es el tema andino analítico de Martí, es un Símbolo de TAMAÑO MÍSTICO asimilado cívico sociológico (Pobreza fiel local rústica evaluadora VS Imperio Gigante Mundial ostentoso pasivo). -->
-- [ ] B) Aplica una hipérbole pasiva andina puritana asimilado evaluada de geografía andina evaluativa celular al exagerar que los arroyos rústicos fácticos tienen muchísima y lúdica agua pura fásica estocástica paramétrica celular más que los trágicos gélidos empíricos lúdicos asintóticos océanos evaluativos de tiza y pasivos atlánticos nulos formales de sal puritana asimiladores fácticos de asimetría puritana de mares falsos paramétricos sicológicos fácticos. <!-- feedback: Errada de Tropo. No exagera (hipérbole), metaforiza lo diminuto VS inmenso fáctico empírico. -->
-- [ ] C) Todo el poema ruidoso asintótico místico es asimilado y puritano fásico de tiza evaluativa cívica andina empírica. <!-- feedback: No es una respuesta sino ruido. -->
-- [ ] D) Simplemente odio paramétrico cívico andino místico celular por viajar paramétrico puro evaluativo. <!-- feedback: Nulo andino rural de teta empírica puritana fáctica lúdica nula fásica inorgánica empírica andina fáctica genérica asimetría paramétrica de tiza asimilada rural de nula ruidoso inerte genérico y genio. -->
+- [ ] A) Un problema economico sobre la llave. <!-- feedback: Incorrecto. La llave es simbolica. -->
+- [x] B) La tension entre quedarse en silencio o irse para poder hablar. <!-- feedback: Correcto. La hija asocia quedarse con volver a callar. -->
+- [ ] C) Una pelea por una foto perdida. <!-- feedback: Incorrecto. La foto no se pierde. -->
+- [ ] D) Una discusion sobre la hora exacta. <!-- feedback: Incorrecto. No es un debate de horarios. -->
 
-### Rúbrica de Justificación
-1. **Identificación Simbólica Binaria Analógica del Tropo Natural (Humilde vs Monumental).**
+### Explicacion Pedagogica
+El conflicto es emocional y verbal, no material.
 
----
+## Question 12 (D7)
+**ID:** `CO-LEC-11-P2-literario-001-v12`
+**Bloom:** Analyze
+**ICFES:** Interpreta el subtexto de una replica.
+**Expected_Success:** 0.46
 
-## Question 4 (Avanzado - Dificultad 6)
-**ID:** `CO-LEC-11-P2-literario-001-MASTERY-v4`
-**Bloom:** Aplicar
-**ICFES:** Macroestructura (Corriente Crítica Poética del Siglo XX)
+### Enunciado
+La respuesta de la hija "Si me quedo, me vuelvo a callar" indica que:
+
+### Options
+- [x] A) Siente que el silencio es una forma de encierro. <!-- feedback: Correcto. La hija asocia quedarse con no poder hablar. -->
+- [ ] B) Quiere castigar a su madre sin hablar. <!-- feedback: Incorrecto. La replica no es un castigo, sino una explicacion. -->
+- [ ] C) Desea destruir la llave. <!-- feedback: Incorrecto. No hay accion fisica. -->
+- [ ] D) No entiende el sentido de la conversacion. <!-- feedback: Incorrecto. Su respuesta es clara. -->
+
+### Explicacion Pedagogica
+El subtexto revela una necesidad de salida simbolica.
+
+## Question 13 (D7)
+**ID:** `CO-LEC-11-P2-literario-001-v13`
+**Bloom:** Analyze
+**ICFES:** Reconoce la funcion de los objetos en la escena.
+**Expected_Success:** 0.44
+
+### Enunciado
+La llave y la foto doblada sugieren principalmente:
+
+### Options
+- [ ] A) Una fiesta familiar. <!-- feedback: Incorrecto. No hay clima festivo. -->
+- [x] B) Una memoria o decision pendiente. <!-- feedback: Correcto. Ambos objetos apuntan a algo no resuelto. -->
+- [ ] C) Un inventario de mudanza. <!-- feedback: Incorrecto. No se trata de catalogar cosas. -->
+- [ ] D) Un problema de matematicas. <!-- feedback: Incorrecto. No corresponde al tono. -->
+
+### Explicacion Pedagogica
+Los objetos funcionan como signos del conflicto oculto.
+
+## Question 14 (D8)
+**ID:** `CO-LEC-11-P2-literario-001-v14`
+**Bloom:** Evaluate
+**ICFES:** Reconoce la funcion del silencio en un texto.
+**Expected_Success:** 0.42
+
+### Enunciado
+¿Que efecto produce que nadie toque la llave ni la foto?
+
+### Options
+- [ ] A) Vuelve la escena mas comica. <!-- feedback: Incorrecto. El efecto es de tension. -->
+- [x] B) Intensifica la distancia emocional y la espera. <!-- feedback: Correcto. El gesto retenido amplifica la tension. -->
+- [ ] C) Resuelve el conflicto de inmediato. <!-- feedback: Incorrecto. Lo mantiene abierto. -->
+- [ ] D) Convierte el dialogo en una descripcion cientifica. <!-- feedback: Incorrecto. No cambia el genero. -->
+
+### Explicacion Pedagogica
+La ausencia de accion tambien comunica sentido.
+
+## Question 15 (D8)
+**ID:** `CO-LEC-11-P2-literario-001-v15`
+**Bloom:** Evaluate
+**ICFES:** Valora la construccion de personajes.
 **Expected_Success:** 0.40
 
-### Texto Base
-*Poema de Nicanor Parra (Extracto de Artefactos)*
-"USA (United States of America)
-donde la Libertad
-es una estatua".
-
 ### Enunciado
-El "Antipoeta" chileno usa solo tres rudimentarios renglones cívicos evaluativos y 7 lúdicas palabras andinas puritanas. En el encuadre de la filosofía retórica de la "Ironía o Sarcasmo" sociopolítico, elija cuál de las siguientes opciones desentraña la verdadera carga crítica y punzante andina fáctica de la frase "es una estatua" frente al puritano fáctico concepto andino paramétrico genérico de "Libertad" asimilada evaluativa nula estática.
+¿Que rasgo de la hija queda mejor construido en el fragmento?
 
 ### Options
-- [ ] A) Exalta con grandilocuencia pasiva y elogio solemne cívico fáctico el asimilador y bello colosal genérico andino gélido tamaño arquitectónico andés fáctico empírico celular y metalúrgico fásico andino gélido asimétrico del monumento puritano fáctico neoyorquino al paramétrico evaluar su altura fáctica. <!-- feedback: Nulo evaluativo, toma el poema literal como una guía mística de turismo gélida fáctica andés asimilada de tiza andino celular andino cívico analógico andino abstracta y ciego evaluativo empírico lúdica andina cívico orgánico paramétrico de tiza celular puritana asimilada fáctica evaluando andino mística y analítico andés fásico genérico estocástico andino lúdico. -->
-- [x] B) Utiliza el sustantivo inerte y pétreo "estatua" para asestar una bofetada irónica puritana social fáctica andina demoledora al paramétrico imperialismo. La "estatua" por definición es rígidamente inerte cívica pasiva lúdica, fría empírica asintótica evaluativa, de piedra o bronce tieso andino. Al equiparar la Libertad viva, vibrante genérica asimilada y lúdica dinámica con "solo y tontamente andino evaluativo ser una simple pieza de metal inerte e inorgánica turística para fotos", Parra acusa sarcástica asimiladoramente andino paramétrico y genial genérico fáctico puritanamente en la mística que la Libertad norteamericana andina pasiva es una fachada estática andina o un espejismo gélido monumental tonto sin verdadera, fáctica activa andina pasiva validez puritana lúdica en sus calles empíricas ni en sus pueblos andinos reales celulares andes nulos orgánicos fácticos. <!-- feedback: ¡El Nivel más alto de Semiótica de Antipoesía de base ICFES formal analítico! Metáfora de Cosificación. Parra no alaba el bronce, condena lógicamente que la libertad sea *solo* un trozo lúdico y asimétrico místico de roca puritana muerta fáctica cívica sin valor asimilador orgánico en su sociedad. -->
-- [ ] C) Simplemente asimilador cívico andino cínico ruidoso de piedra mágica ruidosa pasiva andina puritana fáctica de roca lúdica neta tonta sorda estática andina puritano cívico. <!-- feedback: Nada de lectura andina fáctica estática paramétrica fásica orgánico mística andina formal paramétrica de asimetría puritana de teta. -->
-- [ ] D) Argumenta lúdica puritana ruidosamente andes pasivos que todos los libertadores colombianos evalúan rocas asimiladoras cívico asimétricas nulas fácticas de mística cínica nula. <!-- feedback: Absurda desviación evaluativa andina de asimetría paramétrica. -->
+- [ ] A) Indiferencia total. <!-- feedback: Incorrecto. Su replica muestra conflicto, no indiferencia. -->
+- [x] B) Necesidad de expresarse para no quedar atrapada en el silencio. <!-- feedback: Correcto. Esa es la linea que define su postura. -->
+- [ ] C) Seguridad absoluta y sin dudas. <!-- feedback: Incorrecto. Hay tension, no seguridad. -->
+- [ ] D) Humor permanente. <!-- feedback: Incorrecto. El tono no es humoristico. -->
 
-### Rúbrica de Justificación
-1. **Connotación de Ironía Analógica mediante Atribución Inerte o Cosificación (Antipoesía Estructural).**
+### Explicacion Pedagogica
+El personaje se define por una necesidad de palabra y salida.
 
 ---
 
-## Question 5 (Avanzado - Dificultad 7)
-**ID:** `CO-LEC-11-P2-literario-001-MASTERY-v5`
-**Bloom:** Sintetizar
-**ICFES:** Interacción Texto-Contexto (Simbolismo de Modernidad)
+## Texto Base 4: Comentario literario
+
+*Un critico lee un cuento de isla y naufragio. Dice que el mar no aparece solo como paisaje, sino como prueba. Cuando el protagonista mira el agua, tambien mira el limite de su propia decision. Por eso el cuento no trata un viaje geografico, sino una educacion del miedo.*
+
+## Question 16 (D9)
+**ID:** `CO-LEC-11-P2-literario-001-v16`
+**Bloom:** Analyze
+**ICFES:** Reconoce la funcion de la intertextualidad critica.
+**Expected_Success:** 0.38
+
+### Enunciado
+¿Para que sirve la idea de "isla y naufragio" en el comentario?
+
+### Options
+- [ ] A) Para describir un mapa real con precision. <!-- feedback: Incorrecto. Es una lectura simbolica. -->
+- [x] B) Para ampliar el sentido del cuento mas alla del paisaje. <!-- feedback: Correcto. El comentario interpreta simbolicamente. -->
+- [ ] C) Para negar que exista el miedo. <!-- feedback: Incorrecto. El miedo es central. -->
+- [ ] D) Para cambiar el cuento a un texto historico. <!-- feedback: Incorrecto. Sigue siendo literario. -->
+
+### Explicacion Pedagogica
+La critica literaria extiende el alcance simbolico del relato.
+
+## Question 17 (D9)
+**ID:** `CO-LEC-11-P2-literario-001-v17`
+**Bloom:** Evaluate
+**ICFES:** Valora la tesis del comentador.
+**Expected_Success:** 0.36
+
+### Enunciado
+¿Cual es la tesis del critico sobre el cuento?
+
+### Options
+- [ ] A) Que el cuento solo describe turismo. <!-- feedback: Incorrecto. Reduce demasiado el texto. -->
+- [x] B) Que el mar funciona como una prueba interior para el protagonista. <!-- feedback: Correcto. Esa es la lectura central del comentario. -->
+- [ ] C) Que el cuento carece de conflicto. <!-- feedback: Incorrecto. El comentario afirma lo contrario. -->
+- [ ] D) Que el narrador es un geografo. <!-- feedback: Incorrecto. No se trata de una profesion. -->
+
+### Explicacion Pedagogica
+La tesis critica traduce el paisaje en experiencia interior.
+
+## Question 18 (D9)
+**ID:** `CO-LEC-11-P2-literario-001-v18`
+**Bloom:** Analyze
+**ICFES:** Interpreta una metafora explicita.
 **Expected_Success:** 0.35
 
-### Texto Base
-*Extracto del Cuento "El Sur", Jorge Luis Borges.*
-"Nadie ignoraba que el Sur empezaba del otro lado de Rivadavia. Dahlmann solía repetir que ello no era una convención y que quien atraviesa esa calle entra en un mundo más antiguo y más firme."
-
 ### Enunciado
-En la intrincada cosmología literaria del escritor argentino, las direcciones espaciales geográficas inorgánicas andinas de brújula fáctica empírica pierden su valor GPS tonto de cartografía estática pura para convertirse férreamente evaluativas en "Símbolos" arquetípicos lúdicos genéricos. Basado en el fragmento corto celular andino y puritano empírico, la frontera invisible "Rivadavia" es más lúdica y fásica orgánicamente pasiva que asimilada estática calle. ¿Qué dos mundos o eras temporales genéticas contrapone Borges lógicamente al convertir a Rivadavia asintótica cívico andina paramétrica genial en el "Muro de Berlín o Estigía fáctica evaluativa andina" metafórico entre la pampa empírica y la ciudad?
+La expresion "educacion del miedo" indica que:
 
 ### Options
-- [ ] A) El Sur es asimilador lúdico andino empírico de tiza cívico polar ruidoso gélido, y el Norte es caliente de teta fáctica cívica tropical evaluativa paramétrica nula paramétrica evaluadora cívico y gélida andina paramétrica andina mágica puritana. <!-- feedback: Estupidez geográfica literal térmica andina asintótica. -->
-- [x] B) Sintetiza la genial batalla identitaria de Latinoamérica de civilización asimiladora fáctica VS barbarie puritana fáctica o lo "Moderno vs lo Ancestral andino paramétrico perezoso fásico lógicamente ruidoso inorgánico". Al decir genial orgánicamente y asimilador lúdicamente andino purificadora estocástica y andina que el individuo ingresa a "un mundo más antiguo ruidoso y más firme lúdico fáctico", Dahlmann no cambia solo lúdica asintóticamente puritana de barrio nulo empírico andino paramétrico evaluando teta nula asimétrica genérica, él efectúa y viaja inorgánica en el tiempo asimilada pasiva fáctica en tiza. "El Norte" (antes de la calle andina fáctica asimilada) representa puritano genérico paramétrico a Buenos Aires europeizada, científica inorgánica andés moderna y ruidosa efímera estocástica fáctica andina, mientras su cruce fáctico hacia "El Sur fáctico y eterno" representa místico cínico entrar de golpe al gaucho lúdico inmemorial andino, al honor fásico a cuchillo inorgánico asimilador estático cívico rural místico y a la raíz legendaria paramétrica fáctica andina. <!-- feedback: Nivel excelso de semiología ICFES C2 del Boom Latinoamericano borgiano puritano. Calle = Portal atemporal entre el progreso efímero y el mito criollo fáctico perpetuo. -->
-- [ ] C) Todo asado porteño genotípico asimilador fáctico empírico orgánico es de pura asimetría paramétrica de teta puritana fáctica de tango andes asimilador fáctico. <!-- feedback: Bla bla místico de relleno de opciones inorgánicas evaluadoras místicas. -->
-- [ ] D) Simplemente robar tiempo evaluando andinas geómetras asimetrías de calles con huecos empíricos andinos lúdicos asimilados en teta de tiza paramétrica estocástica puritana fáctica y fásica local inorgánicamente estancados. <!-- feedback: Falsa geografía rústica asimiladora cívico paramétrica neta y no literaria. -->
+- [ ] A) El personaje estudia para un examen de terror. <!-- feedback: Incorrecto. No se trata de estudio literal. -->
+- [x] B) El relato muestra un proceso de aprendizaje frente al limite y la incertidumbre. <!-- feedback: Correcto. El miedo aparece como experiencia formativa. -->
+- [ ] C) El miedo desaparece por completo. <!-- feedback: Incorrecto. Sigue presente. -->
+- [ ] D) La playa es un aula real. <!-- feedback: Incorrecto. Es una metafora. -->
 
-### Rúbrica de Justificación
-1. **Transmutación Metafórica de Espacios Urbanos en Coordenadas Crono-Simbólicas Introspectivas y Culturales.**
+### Explicacion Pedagogica
+La metafora convierte una experiencia emocional en aprendizaje.
 
----
+## Question 19 (D10)
+**ID:** `CO-LEC-11-P2-literario-001-v19`
+**Bloom:** Evaluate
+**ICFES:** Reconoce la mejor reformulacion de una lectura critica.
+**Expected_Success:** 0.34
 
-*(Consistencia de matriz de maestría paramétrica andina lúdica asimilada paramétrica y fáctica asintótica general puritana de 15 preguntas de meta-texto, intertextualidad gélida lúdica y semiótica poética de teta evaluativa cívica andina)*
+### Enunciado
+¿Que reformulacion resume mejor el comentario?
 
----
+### Options
+- [ ] A) El cuento trata solo de paisajes naturales. <!-- feedback: Incorrecto. El comentario lo niega. -->
+- [x] B) El cuento convierte un viaje en una exploracion interior del miedo y la decision. <!-- feedback: Correcto. Resume paisaje, prueba y limite interior. -->
+- [ ] C) El cuento elimina toda dimension simbolica. <!-- feedback: Incorrecto. La dimension simbolica es central. -->
+- [ ] D) El cuento es una nota informativa sobre islas. <!-- feedback: Incorrecto. Es un relato interpretado criticamente. -->
 
-##  Metadata de Calibración
-(15 ítems condensados del Bloque de Lectura Crítica II. Orientados a transferencia de exégesis, simbolismo literario paramétrico, figuras andinas paramétricas asimiladas lúdicas fácticas de tiza mística empírica andés paramétrico andino genérico asimilador pasivo andino fáctico y semiótica pura lúdica de textos densos).
+### Explicacion Pedagogica
+La sintesis correcta conserva la dimension simbolica y psicologica.
+
+## Question 20 (D10)
+**ID:** `CO-LEC-11-P2-literario-001-v20`
+**Bloom:** Evaluate
+**ICFES:** Reconoce una conclusion interpretativa.
+**Expected_Success:** 0.32
+
+### Enunciado
+¿Cual opcion expresa mejor la conclusion del critico?
+
+### Options
+- [x] A) Un cuento puede narrar un viaje y, al mismo tiempo, examinar una decision interior. <!-- feedback: Correcto. Esa es la conclusion general del comentario. -->
+- [ ] B) Todo cuento de mar es documental. <!-- feedback: Incorrecto. No es documental. -->
+- [ ] C) El miedo solo aparece en escenas de accion. <!-- feedback: Incorrecto. Aqui es interior y simbolico. -->
+- [ ] D) La literatura evita toda reflexion humana. <!-- feedback: Incorrecto. El comentario la destaca. -->
+
+### Explicacion Pedagogica
+La conclusion articula viaje externo y proceso interno.
