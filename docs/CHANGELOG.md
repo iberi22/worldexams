@@ -5,6 +5,17 @@ All notable changes to this workspace are documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project follows a pragmatic release flow while repository boundaries are still being finalized.
 
+## [0.13.1] - 2026-04-15
+
+### Changed
+- Aligned the root workspace version with the visible SaberParaTodos app version at `0.13.1`
+- Updated the MEN guidelines experience with verified references, an expandable resource list, and a contextual anomaly report flag
+- Refined the changelog surface so `/changelog` reflects the latest release and links to a dedicated release post
+- Added user-facing copy for the new MEN/Colombia reference bundle workflow and current content sourcing guidance
+
+### Fixed
+- Removed the empty-state mismatch for `Simulacro Completo` by providing a global coverage summary instead of a missing-DBA warning
+
 ## [0.12.1] - 2026-03-21
 
 ### Changed
