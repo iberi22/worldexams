@@ -12,6 +12,20 @@ const description = "Registro ordenado de versiones, cambios y actualizaciones d
 // Definición estática del historial de versiones principal
 const releases = [
   {
+    version: "v0.13.1",
+    date: "2026-04-15",
+    status: "MEN Release",
+    statusColor: "bg-yellow-500/20 text-yellow-300 border-yellow-500/30",
+    summary: "Lineamientos M.E.N. Colombia con fuentes verificadas, flujo de reporte contextual y una lectura mas clara para crear bundles.",
+    changes: [
+      { type: "Nuevo", text: "Referencias oficiales convertidas en grupos desplegables con enlaces a DBA, lineamientos, blogs y cuentas institucionales." },
+      { type: "Mejora", text: "Tarjeta de lineamientos reordenada para priorizar el modo de examen y un acceso de ayuda con icono de interrogacion." },
+      { type: "Mejora", text: "Banderin amarillo de reporte agregado con tooltip para reportar una anomalia directamente desde la guia." },
+      { type: "Fix", text: "Estado vacio de Simulacro Completo sustituido por un resumen global de cobertura Saber 11." }
+    ],
+    postSlug: "2026-04-15-lineamientos-men-colombia"
+  },
+  {
     version: "v0.10.0",
     date: "2026-03-10",
     status: "Protocol Update",
