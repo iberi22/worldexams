@@ -12,7 +12,7 @@
     : `Estás en el percentil <span class="text-white font-black">${Math.round(percentile)}</span>.`;
 </script>
 
-<div class="bg-gradient-to-br from-emerald-500/10 to-transparent border border-emerald-500/20 rounded-3xl p-6 relative overflow-hidden group">
+<div class="bg-gradient-to-br from-emerald-500/10 to-transparent border border-emerald-500/20 rounded-3xl p-6 relative overflow-hidden group text-center">
   <div class="absolute -top-10 -right-10 w-24 h-24 bg-emerald-500/5 rounded-full blur-[40px]"></div>
   
   <h3 class="text-[10px] font-black uppercase tracking-[0.2em] text-emerald-500 mb-4 flex items-center gap-2">
@@ -22,7 +22,7 @@
     Posición Nacional
   </h3>
 
-  <div class="flex items-end gap-3 mb-4">
+  <div class="flex items-center justify-center gap-3 mb-4">
     <div class="text-5xl font-black text-white drop-shadow-2xl">
       {Math.round(percentile)}
     </div>
