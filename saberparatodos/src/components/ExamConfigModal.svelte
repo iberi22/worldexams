@@ -1239,7 +1239,6 @@
             </div>
           {/if}
         {/if}
-
         {#if !roomCode || isHost}
           {#if !isEnglishDiagnosticMode}
           <!-- Normal Grade and Subject Selection -->
@@ -1282,18 +1281,20 @@
                   {/each}
                 </div>
                 {#if selectedUniversity}
-                  <div class="flex items-center justify-center gap-2 py-1">
-                    <span class="w-1.5 h-1.5 bg-[#FCD116] rounded-full animate-ping"></span>
-                    <p class="text-[9px] text-[#FCD116]/80 uppercase tracking-widest font-black">
-                      Módulo {selectedUniversity.toUpperCase()} Activo
+                  <div class="flex flex-col items-center gap-2 py-3 px-4 bg-orange-500/10 border border-orange-500/20 rounded-xl mt-2" transition:slide>
+                    <div class="flex items-center gap-2">
+                      <span class="w-1.5 h-1.5 bg-orange-500 rounded-full animate-pulse"></span>
+                      <p class="text-[9px] text-orange-400 uppercase tracking-widest font-black">
+                        ⚠️ Módulo Experimental
+                      </p>
+                    </div>
+                    <p class="text-[8px] text-orange-200/60 text-center leading-tight">
+                      Estamos curando la base de 1000 preguntas institucionales. Contenido limitado durante el prelaunch.
                     </p>
                   </div>
                 {/if}
               </div>
             {/if}
-
-
-            <!-- 🆕 Period Mode Selector -->
 
             {#if currentPeriods.length > 0}
 

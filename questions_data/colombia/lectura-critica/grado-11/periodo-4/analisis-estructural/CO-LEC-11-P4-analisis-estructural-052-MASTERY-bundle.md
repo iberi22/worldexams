@@ -1,28 +1,56 @@
 <think>
-The user wants me to generate exactly 20 multiple-choice questions in the style of ICFES Saber 11 exam for Colombian state exams. The topic is "analisis-estructural" (structural analysis) for Critical Reading (Lectura Crítica), grade 11, period 4.
+The user wants me to generate exactly 20 ICFES-style multiple choice questions for Critical Reading (Lectura Crítica), topic "analisis-estructural" (structural analysis), grade 11, period 4.
 
-Let me follow the format exactly as specified:
+Let me follow the exact format requested:
 
-1. I need to include the YAML frontmatter
-2. Then 20 questions with progressive difficulty (D3-D4 for 1-4, D5-D6 for 5-10, D7-D8 for 11-16, D9-D10 for 17-20)
-3. Each question needs: ID, Bloom level, ICFES competency, Context, Enunciado, Options (A, B, C, D with [x] on correct), Explicación Pedagógica
-4. The correct answer should be marked with [x]
-5. Include feedback for why distractors are plausible/errors
+1. First, I need to output the YAML frontmatter
+2. Then 20 questions in the specified format
 
-Let me create these 20 questions focusing on structural analysis in critical reading - this typically involves understanding text organization, coherence devices, discourse markers, paragraph structure, thesis-antecedent relationships, etc.
+The questions should be progressive in difficulty:
+- Questions 1-4: D3-D4 (basic)
+- Questions 5-10: D5-D6 (medium)
+- Questions 11-16: D7-D8 (advanced)
+- Questions 17-20: D9-D10 (complex)
 
-I need to make sure:
-- Each question has unique ID with v1, v2, etc.
-- Difficulty levels progress
-- Colombian contexts
-- Realistic student errors as distractors
-- ICFES-style wording
-- No "todas las anteriores" or "ninguna de las anteriores"
+Topic: structural analysis (analisis-estructural)
+- This involves understanding how texts are organized
+- Identifying organizational structures (narrative, descriptive, argumentative, etc.)
+- Analyzing how structure supports meaning
+- Understanding transitions and connections between ideas
+- Recognizing cause-effect, comparison-contrast, problem-solution, etc.
 
-Let me generate these questions:
+Let me create 20 questions with authentic Colombian contexts, plausible distractors based on common student errors, and proper ICFES style.
+
+Let me draft these carefully:
+
+1. Basic - D3/D4 - identifying basic text structure
+2. Basic - D3/D4 - recognizing transitions
+3. Basic - D3/D4 - identifying narrative structure
+4. Basic - D3/D4 - recognizing descriptive organization
+5. Medium - D5/D6 - analyzing cause-effect structure
+6. Medium - D5/D6 - understanding argumentative structure
+7. Medium - D5/D6 - comparing text organizations
+8. Medium - D5/D6 - analyzing section function
+9. Medium - D5/D6 - understanding problem-solution structure
+10. Medium - D5/D6 - analyzing author's organizational choices
+11. Advanced - D7/D8 - evaluating structural effectiveness
+12. Advanced - D7/D8 - complex organizational analysis
+
+
+13. Advanced - D7/D8 - how structure creates meaning
+14. Advanced - D7/D8 - analyzing multiple structures
+15. Advanced - D7/D8 - structural manipulation effects
+16. Advanced - D7/D8 - critical analysis of organization
+17. Complex - D9/D10 - synthesizing structural analysis
+18. Complex - D9/D10 - evaluating complex organizational strategies
+19. Complex - D9/D10 - sophisticated structural critique
+20. Complex - D9/D10 - integrating structural analysis with meaning
+
+I'll now generate each question with Colombian contexts and proper ICFES formatting.
 
 </think>
 
+```markdown
 ---
 id: "CO-LEC-11-P4-analisis-estructural-052-MASTERY"
 country: "colombia"
@@ -37,7 +65,7 @@ alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
 generation:
   agent: "minimax-m2.7"
   model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T17:59:39.849460"
+  timestamp: "2026-04-16T02:22:39.874613"
   prompt_version: "v2-direct"
 quality_status: "UNREVISED"
 generation_status: "RAW"
@@ -52,390 +80,342 @@ license: "CC BY-NC-SA 4.0"
 open_source: false
 ---
 
-## Question 1 (Variant Basic - Difficulty 3)
+## Question 1 (Variant Basic - Difficulty D3)
 
 **ID:** `CO-LEC-11-P4-analisis-estructural-052-MASTERY-v1`
 **Bloom:** Understand
-**ICFES:** Interpretar señales linguísticas en la organización textual
-**Context:** Análisis de columnas de opinión en medios colombianos
+**ICFES:** Comprende estrategias de organización textual
+**Context:** Artículo sobre educación virtual en Colombia
 
 ### Enunciado
-En el siguiente fragmento de una columna de opinión aparecida en El Tiempo, la expresión "Por otro lado" cumple la función de:
-
-"La economía colombiana ha mostrado signos de recuperación tras la pandemia. Sin embargo, persisten las desigualdades regionales. **Por otro lado**, el sector tecnológico ha experimentado un crecimiento sostenido."
+En un texto que presenta primero los problemas de la conectividad rural, luego las iniciativas del gobierno para abordarlos y finalmente los resultados obtenidos, el tipo de organización predominante es:
 
 ### Options
-- [ ] A) Introducir un ejemplo que confirma la tesis principal <!-- feedback: "Por otro lado" no introduce ejemplos, sino ideas que contrastan o complementan -->
-- [ ] B) Conectar dos ideas que presentan una relación de contraste o adición <!-- feedback: Correcto, pero se debe reconocer que la relación específica es de adición de información complementaria -->
-- [x] C) Señalar una relación de adición complementaria entre la situación económica y el auge tecnológico <!-- feedback: La expresión funciona como marcador discursivo que introduce una información que complementa o suma a lo anterior -->
-- [ ] D) Indicar una relación de causa-efecto entre ambos apartados <!-- feedback: No hay relación causal explícita; el marcador indica adición, no causalidad -->
+- [ ] A) Descriptiva, porque detalla las características de la conectividad rural
+- [ ] B) Cronológica, porque sigue un orden temporal de eventos
+- [x] C) Problema-solución, porque presenta una dificultad y luego las alternativas para resolverla <!-- feedback: La estructura explícitamente sigue el patrón dificultad-iniciativa-resultado, lo cual es característico del esquema problema-solución -->
+- [ ] D) Comparativa, porque contrasta dos situaciones diferentes <!-- feedback: No hay contraste explícito entre dos situaciones, sino una secuencia de dificultad hacia resolución -->
 
 ### Explicación Pedagógica
-El marcador discursivo "Por otro lado" funciona como elemento de cohesión textual que señala adición de información complementaria o contrastante. Los estudiantes frecuentemente confunden su función con la de introducir ejemplos o relaciones causales. La comprensión de marcadores es fundamental para el análisis estructural de textos argumentativos.
+La estructura problema-solución es reconocible cuando un texto presenta primero una dificultad o necesidad (conectividad rural) y luego las acciones o alternativas para atenderla (iniciativas gubernamentales). El estudiante debe identificar que el texto no describe simplemente características ni sigue un orden temporal, sino que sigue un patrón retórico específico de dificultad-acción-resultado.
 
 ---
 
-## Question 2 (Variant Basic - Difficulty 3)
+## Question 2 (Variant Basic - Difficulty D3)
 
 **ID:** `CO-LEC-11-P4-analisis-estructural-052-MASTERY-v2`
-**Bloom:** Understand
-**ICFES:** Identificar la organización explícita de la información en un texto
-**Context:** Editoriales de prensa colombiana sobre políticas públicas
+**Bloom:** Remember
+**ICFES:** Identifica marcadores discursivos y su función estructural
+**Context:** Editorial de periódico bogotano
 
 ### Enunciado
-En el siguiente texto, ¿qué función cumple la primera oración del tercer párrafo?
-
-"El cambio climático representa uno de los desafíos más urgentes para Colombia. El gobierno ha implementado nuevas políticas de reforestación. **Estas medidas han sido cuestionadas por expertos del sector ambiental, quienes argumentan que los recursos asignados son insuficientes.** Sin embargo, el Ministerio de Ambiente defiende su gestión."
+En el siguiente fragmento: "En primer lugar, es necesario reconocer el problema. En segundo lugar, debemos analizar sus causas. Por consiguiente, las soluciones propuestas son...", los marcadores "En primer lugar", "En segundo lugar" y "Por consiguiente" cumplen la función de:
 
 ### Options
-- [ ] A) Presentar la tesis principal del texto completo <!-- feedback: La tesis se enunció en el primer párrafo -->
-- [x] B) Introducir un contraargumento que será refutado posteriormente <!-- feedback: El párrafo presenta una postura contraria (cuestionamiento de expertos) que el texto se dispône a refutar con la última oración -->
-- [ ] C) Concluir el argumento desarrollado en los párrafos anteriores <!-- feedback: La conclusión aparece en la última oración del párrafo -->
-- [ ] D) Ilustrar con un ejemplo la tesis inicial sobre el cambio climático <!-- feedback: No es un ejemplo, sino una presentación de posiciones contrapuestas -->
+- [ ] A) Crear un ambiente de tensión narrativa para el lector
+- [x] B) Establecer una secuencia ordenada de ideas en el texto <!-- feedback: Estos marcadores son conectores de adición y consecuencia que organizan linealmente los argumentos, indicando orden y progresión lógica -->
+- [ ] C) Introducir elementos sorpresa en el desarrollo del tema
+- [ ] D) Relacionar el texto con eventos históricos específicos <!-- feedback: No hay referencia histórica, son marcadores de secuencia lógica -->
 
 ### Explicación Pedagógica
-La estructura argumentativa típica presenta primero una tesis, luego contraargumentos y finalmente una refutación.识别 esta estructura permite comprender la postura del autor. El error común es no distinguir entre contraargumentos y conclusiones, o confundir ejemplos con contraargumentos.
+Los conectores "En primer lugar", "En segundo lugar" y "Por consiguiente" son marcadores discursivos de adición y consecuencia que establecen una estructura secuencial clara. Los estudiantes frecuentemente confunden marcadores de organización textual con recursos estilísticos o narrativos; esta pregunta evalúa el reconocimiento de la función organizadora de los conectores.
 
 ---
 
-## Question 3 (Variant Basic - Difficulty 4)
+## Question 3 (Variant Basic - Difficulty D4)
 
 **ID:** `CO-LEC-11-P4-analisis-estructural-052-MASTERY-v3`
 **Bloom:** Understand
-**ICFES:** Reconocer la estructura subyacente en textos de diferente naturaleza
-**Context:** Artículo de divulgación científica en revista Semana
+**ICFES:** Reconoce la estructura de un texto narrativo
+**Context:** Cuento sobre la migración venezolana en Cúcuta
 
 ### Enunciado
-La siguiente información aparece en un artículo sobre inteligencia artificial en Colombia:
-
-"Los departamentos de Antioquia y Valle del Cauca concentran el 65% de las startups de tecnología del país. Bogotá representa el 40% restante. Esta concentración geográfica plantea interrogantes sobre equidad en el acceso a oportunidades."
-
-La oración final mantiene relación estructural con las anteriores mediante:
+En un relato curto se presenta primero la situación inicial de una familia que debe abandonar Venezuela, luego el conflicto que enfrentan en el camino y finalmente la resolución al llegar a Colombia. La estructura básica identificable es:
 
 ### Options
-- [ ] A) Un conector causal ("por lo tanto") aunque no esté explícito <!-- feedback: La conclusión no se deriva causalmente de los datos, sino que plantea una reflexión -->
-- [ ] B) Un conector adversativo ("sin embargo") aunque no esté explícito <!-- feedback: No hay relación de contraste, sino de consecuencia interpretativa -->
-- [x] C) Una relación de premisa a conclusión inferida <!-- feedback: Los datos numéricos sirven como premisa y la pregunta final es una conclusión que se infiere de ellos -->
-- [ ] D) Una relación de ejemplo a regla general <!-- feedback: Los datos no ejemplifican una regla, sino que constituyen la evidencia para una inferencia -->
+- [ ] A) Descripción-causa-efecto-comparación
+- [x] B) Planteamiento-nudo-desenlace <!-- feedback: Esta es la estructura clásica del esquema narrativo: situación inicial (planteamiento), desarrollo del conflicto (nudo) y resolución (desenlace) -->
+- [ ] C) Problema-hipótesis-experimentación-conclusión
+- [ ] D) Tesis-antítesis-síntesis <!-- feedback: Esta es una estructura argumentativa, no narrativa -->
 
 ### Explicación Pedagógica
-La estructura lógica de Premisa-Conclusión no siempre requiere conectores explícitos. Los estudiantes deben inferir las relaciones semánticas basadas en el contenido. Este tipo de pregunta evalúa la capacidad de reconocer relaciones argumentativas implícitas.
+El esquema plante-nudo-desenlace es la estructura básica de todo texto narrativo. Los estudiantes suelen confundir estructuras narrativas con argumentativas o científicas. En este caso, la familia como protagonista, el viaje como conflicto y la llegada como resolución siguen exactamente el modelo clásico narrativo de tres partes.
 
 ---
 
-## Question 4 (Variant Basic - Difficulty 4)
+## Question 4 (Variant Basic - Difficulty D4)
 
 **ID:** `CO-LEC-11-P4-analisis-estructural-052-MASTERY-v4`
-**Bloom:** Understand
-**ICFES:** Deducir relaciones entre partes de un texto mediante la organización explícita
-**Context:** Ensayo académico sobre educación en Colombia
+**Bloom:** Apply
+**ICFES:** Diferencia tipos de párrafos según su función estructural
+**Context:** Artículo de revista sobre conservación del páramo
 
 ### Enunciado
-En un ensayo sobre la crisis de la educación pública, el autor presenta la siguiente secuencia de argumentos:
-
-1. "Los indicadores de calidad educativa han disminuido en los últimos cinco años."
-2. "El gasto público por estudiante se ha reducido en un 15%."
-3. "La carrera docente ha perdido atractivo para nuevos profesionales."
-
-La relación lógica entre estas tres afirmaciones es de:
+En un artículo sobre los páramos colombianos, el autor dedica varios párrafos a describir en detalle la vegetación, el clima y la fauna de este ecosistema. Estos párrafos corresponden a una estructura de tipo:
 
 ### Options
-- [ ] A) Independencia, ya que cada afirmación presenta datos no relacionados entre sí
-- [ ] B) Contraste, porque los datos muestran situaciones opuestas <!-- feedback: No hay oposición entre los datos, sino una cadena lógica de causalidad -->
-- [x] C) Causa-efecto encadenado, donde la reducción del gasto explica la pérdida de atractivo y ambos factores contribuyen a la disminución de indicadores <!-- feedback: Hay una cadena causal implícita: menos gasto → menos atractivo profesional → peor calidad -->
-- [ ] D) Complementariedad simple, donde cada dato suma información sin relación causal <!-- feedback: Existe una relación causal evidente que los estudiantes no suelen identificar -->
+- [ ] A) Argumentativo, porque busca convencer al lector
+- [ ] B) Comparativo, porque contrasta el páramo con otros ecosistemas
+- [x] C) Descriptivo, porque detalla las características de un objeto o fenómeno <!-- feedback: La descripción exhaustiva de características (vegetación, clima, fauna) corresponde a una organización descriptiva cuya función es informar con detalle -->
+- [ ] D) Narrativo, porque presenta eventos en secuencia temporal <!-- feedback: No hay eventos ni secuencia temporal, solo caracterización de un lugar -->
 
 ### Explicación Pedagógica
-El reconocimiento de cadenas causales implícitas es esencial para la comprensión de textos argumentativos. Frecuentemente, los estudiantes no logran conectar información que tiene relaciones causales no explícitas con conectores.
+La función primordial de los párrafos descriptivos es caracterizar事物 con detalle, sea un lugar, objeto o fenómeno. Cuando el texto se enfoca en especificar atributos y características sin развивать una argumentación ni contar eventos, la estructura es fundamentalmente descriptiva. Los estudiantes tienden a clasificar cualquier texto informativo como "descriptivo" sin considerar si hay desarrollo de argumentos o eventos.
 
 ---
 
-## Question 5 (Variant Medium - Difficulty 5)
+## Question 5 (Variant Medium - Difficulty D5)
 
 **ID:** `CO-LEC-11-P4-analisis-estructural-052-MASTERY-v5`
-**Bloom:** Apply
-**ICFES:** Evaluar la coherencia y cohesión en textos de mediana complejidad
-**Context:** Carta al director en El Espectador sobre política habitacional
+**Bloom:** Analyze
+**ICFES:** Identifica relaciones de causa-efecto en textos argumentativos
+**Context:** Reportaje sobre la economía naranja en Colombia
 
 ### Enunciado
-Una lectora escribe al periódico:
-
-"He observado con preocupación cómo el programa de vivienda social en Medellín ha dejado de lado a miles de familias de estratos 2 y 3. **En primer lugar**, los criterios de selección no son transparentes. **Además**, los tiempos de espera se han extendido a más de cinco años. **En consecuencia**, muchas familias han recurrido a soluciones informales que aumentan el riesgo de asentamientos irregulares. **Por todo lo anterior**, solicito al gobierno municipal una revisión profunda de los criterios de asignación."
-
-La fuerza argumentativa del texto depende principalmente de:
+El autor presenta primero el crecimiento del sector creativo en Bogotá, luego menciona las políticas de apoyo gubernamental y finalmente muestra las cifras de empleo generado. La relación estructural entre estas partes es:
 
 ### Options
-- [ ] A) La cantidad de datos estadísticos presentados <!-- feedback: El texto no presenta datos numéricos, sino testimonios y afirmaciones -->
-- [ ] B) La progresión lógica que construye un caso acumulado contra la política actual <!-- feedback: Correcto, pero incomplete; falta identificar el recurso específico de construcción -->
-- [x] C) El uso de marcadores discursivos que crean una progresión acumulativa de evidencias <!-- feedback: Los marcadores "en primer lugar", "además", "en consecuencia" y "por todo lo anterior" construyen una escalada argumentativa -->
-- [ ] D) El tono emotivo que busca generar compasión en el lector <!-- feedback: El texto tiene un tono principalmente racional y demandas concretas, no emotivo -->
+- [ ] A) Simple yuxtaposición de datos sin conexión causal
+- [ ] B) Contraste entre dos realidades económicas diferentes
+- [x] C) Relación causal donde las políticas explican el crecimiento y sus consecuencias <!-- feedback: La secuencia plantea una relación de causa (políticas) - efecto (crecimiento) - consecuencia (empleo), estableciendo una cadena causal -->
+- [ ] D) Descripción cronológica de eventos históricos del sector <!-- feedback: No hay indicación temporal, sino una relación lógica de причины y следствия -->
 
 ### Explicación Pedagógica
-La fuerza argumentativa se construye mediante marcadores discursivos que señalizan la progresión del razonamiento.识别 esta técnica permite evaluar la solidez de los argumentos. Los estudiantes tienden a enfocarse en datos o emociones, pasando por alto la arquitectura discursiva.
+La estructura causa-efecto se reconoce cuando un texto presenta последовательность donde un elemento lógico o históricamente provoca otro. En este caso, las políticas (causa) generan crecimiento (efecto directo) y este a su vez produce empleo (efecto secundario). Los estudiantes frecuentementeconfunden relaciones causales con temporalidad o simple coexistencia de datos.
 
 ---
 
-## Question 6 (Variant Medium - Difficulty 5)
+## Question 6 (Variant Medium - Difficulty D5)
 
 **ID:** `CO-LEC-11-P4-analisis-estructural-052-MASTERY-v6`
-**Bloom:** Apply
-**ICFES:** Identificar la intención comunicativa a partir de la organización textual
-**Context:** Entrevista en revista Cambio sobre problemática minera en Cesar
+**Bloom:** Analyze
+**ICFES:** Evalúa la coherencia entre las partes de un texto argumentativo
+**Context:** Ensayo sobre la Reforma Rural Integral
 
 ### Enunciado
-En una entrevista sobre el impacto ambiental de la minería de carbón en el Cesar, el entrevistado afirma:
-
-"Yo no soy antimina, pero los efectos sobre las fuentes de agua de los campesinos de la región han sido devastadores. **Primero**, las empresas desviaron los causes naturales. **Segundo**, la disposición de residuos tóxicos ha contaminado suelos. **Y tercero**, las comunidades han perdido sus medios de subsistencia sin compensación adecuada."
-
-La estructura del discurso del entrevistado evidencia una intención de:
+En un ensayo, el autor presenta su tesis sobre la necesidad de la Reforma Rural, desarrolla tres argumentos con evidencia estadística, refuta las posiciones opuestas y cierra con una síntesis que retoma los argumentos principales. La estructura que mejor describe este texto es:
 
 ### Options
-- [ ] A) Presentar una postura equilibrada que valide la actividad minera <!-- feedback: Aunque dice "no soy antimina", la estructura后半 es claramente crítica -->
-- [ ] B) Atacar directamente a las empresas mineras sin procurar objetividad <!-- feedback: El lenguaje no es atacante, sino documental y acumulativo -->
-- [x] C) Construir una argumentación aparentemente objetiva que desmiente su posición inicial de equilibrio <!-- feedback: La estructura de lista (primero, segundo, tercero) presenta evidencias que contradicen la apariencia de neutralidad inicial -->
-- [ ] D) Sugerir alternativas sin criticar la actividad extractiva <!-- feedback: No hay propuesta de alternativas en el discurso -->
+- [ ] A) Descripción-causa-efecto-comparación
+- [x] B) Tesis-argumentación-antítesis-síntesis <!-- feedback: La secuencia tesis inicial, desarrollo argumentativo, refutación de contradictores y síntesis final corresponde estructuralmente al esquema dialéctico completo -->
+- [ ] C) Planteamiento-nudo-desenlace
+- [ ] D) Problema-solución-comparación-evaluación <!-- feedback: Falta el componente comparativo explícito en el texto -->
 
 ### Explicación Pedagógica
-La técnica de "análisis estructural de la discrepancia" permite identificar cómo la organización discursiva puede contradecir las intenciones declaradas. La acumulación de evidencias en formato de lista crea un efecto retórico de objetividad que refuerza la crítica implícita.
+El esquema dialéctico (tesis-argumentación-antítesis-síntesis) es característico de los ensayos académicos y argumentativos serios. Cuando un texto presenta una posición, la desarrolla con argumentos, considera y refutaobjeciones y luego integra todo en una conclusión, está usando esta estructura. Los estudiantes a menudo no reconocen la refutación como parte integral de la estructura argumentativa.
 
 ---
 
-## Question 7 (Variant Medium - Difficulty 6)
+## Question 7 (Variant Medium - Difficulty D5)
 
 **ID:** `CO-LEC-11-P4-analisis-estructural-052-MASTERY-v7`
-**Bloom:** Apply
-**ICFES:** Analizar la relación entre estructura formal y propósito comunicativo
-**Context:** Artículo de investigación en revista Cienciay Nación sobre violencia electoral
+**Bloom:** Understand
+**ICFES:** Compara estructuras textuales diferentes
+**Context:** Comparación entre artículo informativo y columna de opinión
 
 ### Enunciado
-En un artículo académico sobre violencia electoral en regiones de Colombia, el autor utiliza la siguiente estructura: Introducción → Contexto histórico → Evidencias empíricas → Análisis de causas → Conclusiones → Recomendaciones de política pública.
-
-Esta organización estructurada indica que el propósito del texto es:
+Un artículo informativo sobre la crisis del agua en La Guajira presenta datos, fuentes oficiales y resultados de estudios. Una columna de opinión sobre el mismo tema desarrolla una tesis personal con argumentos y contraargumentos. La diferencia estructural fundamental es:
 
 ### Options
-- [ ] A) Narrar una historia de eventos violentos para generar indignación <!-- feedback: La estructura no es narrativa, sino analítica -->
-- [ ] B) Defender una única postura política sobre el tema <!-- feedback: La estructura incluye recomendación pero no defendimiento de una postura única -->
-- [x] C) Presentar un análisis sistemático que busca fundamentar recomendaciones de política pública basadas en evidencia <!-- feedback: La progresión lógica de evidencia a recomendaciones indica un propósito propositivo y fundamentado -->
-- [ ] D) Comparar diferentes estudios sobre el tema sin emitir juicio <!-- feedback: El texto presenta análisis propio, no comparación de estudios -->
+- [ ] A) El artículo usa datos y la columna usa opiniones, por lo tanto tienen estructuras diferentes
+- [x] B) El artículo presenta información sin立场 personal mientras la columna estructura argumentos para defender una posición <!-- feedback: La diferencia esencial radica en la intención comunicativa: informar objetivamente vs. argumentar para persuadir, lo cual determina estructuras diferentes -->
+- [ ] C) Los dos textos son iguales porque hablan del mismo tema
+- [ ] D) El artículo es más corto y la columna más larga por necesidad temática <!-- feedback: La diferencia no es cuantitativa sino cualitativa en la organización del discurso -->
 
 ### Explicación Pedagógica
-La estructura de un texto académico refleja su propósito comunicativo. Una progresión de contexto a evidencia a recomendaciones indica un texto con propósito propositivo. Los estudiantes deben vincular forma y función comunicativa.
+La diferencia estructural entre textos informativos y argumentativos reside en su propósito comunicativo. El texto informativo organiza datos de manera neutral y secuencial; el texto argumentativo estructura razones y evidencias para sostener una posición. Los estudiantes frecuentemente confunden diferencias temáticas con diferencias estructurales.
 
 ---
 
-## Question 8 (Variant Medium - Difficulty 6)
+## Question 8 (Variant Medium - Difficulty D6)
 
 **ID:** `CO-LEC-11-P4-analisis-estructural-052-MASTERY-v8`
-**Bloom:** Apply
-**ICFES:** Evaluar la efectividad estructural de textos argumentativos
-**Context:** Editorial de El Colombiano sobre educación ambiental en colegios
+**Bloom:** Analyze
+**ICFES:** Identifica la función de secciones textuales
+**Context:** Reporte de investigación sobre violencia intrafamiliar
 
 ### Enunciado
-Considere el siguiente fragmento de un editorial:
-
-"Los jóvenes de hoy serán los encargados de enfrentar las consecuencias del cambio climático. **Por lo tanto**, es urgente que los colegios incluyan la educación ambiental como eje transversal del currículo. **De hecho**, países como Finlandia y Japón ya han implementado programas exitosos de este tipo. **Sin embargo**, algunos críticos argumentan que agregar más contenido al currículo sobrecargará a los estudiantes."
-
-El editorial presenta una debilidad argumentativa en su estructura porque:
+En un reporte de investigación, después de presentar los datos de una encuesta sobre violencia intrafamiliar, los autores incluyen una sección titled "Análisis de contexto" donde describen las condiciones socioeconómicas de las familias participantes. La función de esta sección dentro del texto es:
 
 ### Options
-- [ ] A) Utiliza ejemplos internacionales que no son aplicables al contexto colombiano
-- [x] B) El conectivo "sin embargo" introduce un contraargumento que debilita la urgencia sin refutarlo adecuadamente <!-- feedback: El texto presenta un contraargumento pero no ofrece una respuesta convincente, dejando la impresión de que la urgencia es cuestionable -->
-- [ ] C) El razonamiento "por lo tanto" no se deriva lógicamente de la premisa sobre los jóvenes <!-- feedback: La inferencia sí es válida: si los jóvenes enfrentarán las consecuencias, entonces deben prepararse -->
-- [ ] D) Los ejemplos de Finlandia y Japón no constituyen evidencia suficiente <!-- feedback: Los ejemplos son ilustrativos, no la base del argumento; el problema es la falta de refutación del contraargumento -->
+- [ ] A) Proporcionar entretenimiento antes de los resultados finales
+- [ ] B) Repetir la información de la encuesta en otro formato
+- [x] C) Contextualizar los datos ofreciendo el marco situacional donde estos se inscriben <!-- feedback: La sección de contexto tiene la función retórica de提供给 los datos un marco interpretativo que permite comprender su significado y alcances -->
+- [ ] D) Presentar las conclusiones anticipadas del estudio <!-- feedback: Las conclusiones vendrían al final, no como contextualización de datos -->
 
 ### Explicación Pedagógica
-Una debilidad estructural común en textos argumentativos es abandonar el contraargumento sin refutación, lo que genera una impresión de incompletitud. Los estudiantes deben identificar no solo qué se argumenta, sino qué falta en la argumentación.
+Las secciones de contexto en textos investigativos cumplen la función de establecer el marco donde los datos adquieren sentido. Sin contexto, las cifras permanecen abstractas; con él, se vuelven comprensibles y significativas. Esta pregunta evalúa si el estudiante comprende que cada sección de un texto tiene una función retórica específica dentro del conjunto.
 
 ---
 
-## Question 9 (Variant Medium - Difficulty 6)
+## Question 9 (Variant Medium - Difficulty D6)
 
 **ID:** `CO-LEC-11-P4-analisis-estructural-052-MASTERY-v9`
-**Bloom:** Analyze
-**ICFES:** Describir la estructura subyacente en textos que combinan elementos narrativos y argumentativos
-**Context:** Crónica en El País de Cali sobre violencia juvenil
+**Bloom:** Understand
+**ICFES:** Reconoce estructuras problem-solution en contexto
+**Context:** Artículo sobre educación financiera en Colombia
 
 ### Enunciado
-En una crónica sobre la violencia juvenil en Cali, el periodista estructura el texto así:
-
-- Parágrafo 1: Descripción de un incidente específico de violencia
-- Parágrafo 2: Contexto del barrio donde ocurrió el incidente
-- Parágrafo 3: Datos estadísticos sobre violencia juvenil en la ciudad
-- Parágrafo 4: Entrevista con un exintegrante de pandilla que narra su historia
-- Parágrafo 5: Reflexión del periodista sobre las causas estructurales del problema
-
-Esta estructura combina elementos narrativos y argumentativos para:
+El texto presenta la situación: "Según datos del Dane, el 65% de los hogares colombianos no tiene ningún tipo de ahorro". Luego explica: "Esta situación se explica por los bajos ingresos y la falta de educación financiera desde la escuela". Finalmente propone: "Por esto, el Ministerio de Educación ha implementado nuevos lineamientos para la educación financiera en colegios públicos". La estructura predominante es:
 
 ### Options
-- [ ] A) Presentar información objetiva sin intervención del autor en el análisis <!-- feedback: Hay reflexión personal en el último párrafo, lo cual contradice la objetividad -->
-- [ ] B) Entretener al lector con historias personales antes de presentar datos <!-- feedback: El propósito no es entretener, sino contextualizar datos con historias -->
-- [x] C) Humanizar el problema estadístico mediante casos particulares que ilustran las estadísticas <!-- feedback: La estructura permite que las estadísticas y la historia personal se iluminen mutuamente, creando un argumento más potente -->
-- [ ] D) Desviar la responsabilidad del Estado hacia factores individuales <!-- feedback: La reflexión final apunta a causas estructurales, no individuales -->
+- [ ] A) Narrativa, porque cuenta una historia de transformación económica
+- [ ] B) Descriptiva, porque detalla las características de los hogares colombianos
+- [x] C) Problema-causa-solución <!-- feedback: El texto sigue exactamente el patrón retórico: presentación de una dificultad (datos), análisis de razones (causas) y propuesta de acción (solución) -->
+- [ ] D) Comparativa, porque contrasta hogares con y sin ahorro <!-- feedback: No hay contraste explícito, hay una secuencia problemática -->
 
 ### Explicación Pedagógica
-La combinación de narrativa y argumentación es una técnica retórica que busca generar tanto comprensión intelectual como empatía emocional. El análisis estructural debe identificar cómo ambas dimensiones se complementan para fortalecer el mensaje.
+La estructura problema-causa-solución es una variante del esquema problema-solución donde se añade el análisis de las razones del problema antes de presentar la solución. Los estudiantes deben distinguir que cuando hay tres componentes (situación problemática, explicación causal, alternativa de mejora), la estructura es problem-solution con análisis causal.
 
 ---
 
-## Question 10 (Variant Medium - Difficulty 6)
+## Question 10 (Variant Medium - Difficulty D6)
 
 **ID:** `CO-LEC-11-P4-analisis-estructural-052-MASTERY-v10`
-**Bloom:** Analyze
-**ICFES:** Identificar las funciones discursivas de los elementos paratextuales
-**Context:** Artículo de divulgación en portafolio sobre economía naranja
+**Bloom:** Evaluate
+**ICFES:** Evalúa la pertinencia de decisiones organizativas del autor
+**Context:** Artículo de divulgación científica sobre energía solar
 
 ### Enunciado
-En un artículo sobre la economía naranja en Colombia, el autor incluye el siguiente recuadro al margen del texto principal:
-
-**Datos clave:**
-- El sector cultural aporta el 3.2% del PIB nacional
-- Employ more than 600,000 direct jobs
-- Crecimiento del 7% anual en los últimos tres años
-
-Este elemento paratextual cumple la función de:
+Un artículo sobre energía solar en Colombia inicia con una anécdita personal de un investigador, luego presenta datos técnicos sobre paneles solares, después incluye testimonios de agricultores y finalmente concluye con proyecciones económicas. El lector puede inferir que el autor ha elegido una estructura:
 
 ### Options
-- [ ] A) Resumir la conclusión final del artículo <!-- feedback: El recuadro presenta datos, no conclusiones -->
-- [x] B) Evidencia cuantitativa que respalda los argumentos presentados en el cuerpo del texto <!-- feedback: Los datos funcionan como evidencia de soporte para las afirmaciones del texto principal -->
-- [ ] C) Contraargumento a la postura del autor del artículo <!-- feedback: Los datos son positivos, no contradictorios con el argumento del autor -->
-- [ ] D) Introduce un tema nuevo que el texto principal no aborda <!-- feedback: El recuadro amplía datos sobre el mismo tema del artículo -->
+- [ ] A) Estrictamente lógica, porque sigue el orden de descubrimiento científico
+- [x] B) Mixta que alterna lo técnico con lo humano para alcanzar diferentes tipos de lectores <!-- feedback: La combinación de anécdota personal, datos técnicos, testimonios y proyecciones sugiere una estrategia deliberada de alcanzar tanto lectores racionales como emocionales -->
+- [ ] C) Caótica, porque no sigue ningún patrón reconocible
+- [ ] D) Cronológica, porque sigue el orden de desarrollo de la tecnología solar <!-- feedback: No hay secuencia temporal, hay alternancia de registros -->
 
 ### Explicación Pedagógica
-Los elementos paratextuales (recuadros, gráficos, citas destacadas) cumplen funciones discursivas específicas. El reconocimiento de su propósito permite una comprensión más profunda del texto. Los estudiantes frecuentemente ignoran estos elementos al analizar la estructura argumentativa.
+Los autores experimentados combinan registros y tipos de contenido para ampliar su audiencia. Al alternar lo técnico-científico con lo humanístico-anecdótico, buscan mantener el interés de lectores diversos. Los estudiantes frecuentemente consideran "estructura mixta" como estructural weakness, cuando en realidad puede ser una estrategia retórica deliberada y efectiva.
 
 ---
 
-## Question 11 (Variant Advanced - Difficulty 7)
+## Question 11 (Variant Advanced - Difficulty D7)
 
 **ID:** `CO-LEC-11-P4-analisis-estructural-052-MASTERY-v11`
 **Bloom:** Analyze
-**ICFES:** Evaluar la coherencia global de un texto complejo
-**Context:** Editorial de El Tiempo sobre reforma a la salud
+**ICFES:** Evalúa cómo la estructura contribuye al propósito del texto
+**Context:** Discurso político sobre paz territorial
 
 ### Enunciado
-Considere la siguiente estructura de un editorial sobre la reforma al sistema de salud colombiano:
-
-I. Se presenta una tesis: "La reforma proposed by el gobierno presenta fallas estructurales"
-II. Se presentan tres evidencias de las fallas
-III. Se presentan dos counterarguments de quienes defienden la reforma
-IV. Se responde a los counterarguments
-V. Se reitera la tesis inicial con mayor fuerza
-
-Esta estructura corresponde a un patrón argumentativo clásico de:
+En un discurso sobre la implementación del Acuerdo de Paz, el presidente estructura su argumento así: 1) reconocimiento de los logros alcanzados, 2) identificación honesta de las dificultades, 3) propuesta de nuevas estrategias y 4) llamado a la unitat nacional. Esta organización structuring likely busca:
 
 ### Options
-- [ ] A) Silogismo deductivo donde la tesis se demuestra mediante premisas <!-- feedback: No hay deducción, hay un proceso de verificación y confirmación de la tesis -->
-- [x] B) Tesis-antítesis-síntesis que busca validar la tesis inicial tras considerar objeciones <!-- feedback: El movimiento de tesis → evidencias → contraargumentos → refutación → reafirmación corresponde al modelo hegeliano de tesis-antítesis-síntesis -->
-- [ ] C) Argumentación por autoridad que cita fuentes expertas <!-- feedback: No hay cite de autoridades, hay análisis de evidencias y refutación de objeciones -->
-- [ ] D) Razonamiento inductivo que parte de casos particulares hacia una generalización <!-- feedback: El texto parte de una tesis general y la confirma, no induce desde casos -->
+- [ ] A) Demostrar que todos los problemas han sido resueltos completamente
+- [x] B) Proyectar honestidad y confiabilidad mientras mantiene la esperanza en el proceso <!-- feedback: La estructura permite al autor ser veraz sobre las dificultades (honestidad) mientras presenta soluciones y unidad (esperanza), equilibrando credibilidad con optimismo -->
+- [ ] C) Culpar exclusivamente al gobierno anterior por los fracasos
+- [ ] D) Desmotivar a la audiencia presentando solo problemas sin soluciones <!-- feedback: La estructura incluye soluciones y llamado a la acción, no es desmotivante -->
 
 ### Explicación Pedagógica
-El modelo de tesis-antítesis-síntesis es fundamental en la comprensión de textos argumentativos académicos y de opinión. La estructura permite presentar una postura de manera sólida al anticipar y refutar objeciones. Los estudiantes deben reconocer este patrón para evaluar la solidez de los argumentos.
+La estructura de un discurso tiene purposes rhetóricos que van más allá de la simple organización de información. En discursos políticos, el orden de los componentes comuncia mensagens específicas. El estudiante debe analisar cómo la secuencia logro-dificultad-solución-llamado funciona retóricamente para crear un efeito particular en la audiencia. Esta pregunta evalúa la capacidad de связывать estructura con propósito comunicativo.
 
 ---
 
-## Question 12 (Variant Advanced - Difficulty 7)
+## Question 12 (Variant Advanced - Difficulty D7)
 
 **ID:** `CO-LEC-11-P4-analisis-estructural-052-MASTERY-v12`
 **Bloom:** Analyze
-**ICFES:** Juzgar la pertinencia y suficiencia de las evidencias presentadas en un texto
-**Context:** Artículo de investigación en Bulletin de la Academia de Medicina sobre telemedicina
+**ICFES:** Identifica relaciones entre las partes de un texto complejo
+**Context:** Reportaje sobre explotación minera en el Chocó
 
 ### Enunciado
-En un artículo académico sobre la implementación de la telemedicina en zonas rurales de Colombia, el autor presenta:
-
-1. Datos de 15 centros de salud que implementaron telemedicina
-2. Encuestas a 200 pacientes sobre satisfacción con el servicio
-3. Entrevistas a 30 profesionales de la salud
-4. Comparación con datos de países similares en Latinoamérica
-
-El artículo presenta una debilidad en la estructura argumentativa porque:
+Un reportaje presenta la siguiente secuencia: A) datos sobre la deforestación causada por minería ilegal, B) testimonios de comunidades indígenas afectadas, C) explicación del marco legal existente, D) entrevista con un funcionario sobre las dificultades de enforcement. La relación estructural entre A y B es:
 
 ### Options
-- [ ] A) Utiliza demasiados tipos de evidencia, lo que confunde al lector <!-- feedback: La diversidad de evidencia es generalmente un punto fuerte, no una debilidad -->
-- [ ] B) Omite completamente datos cuantitativos sobre resultados de salud <!-- feedback: Los datos de los centros y las encuestas son cuantitativos -->
-- [ ] C) Presenta evidencia cuantitativa y cualitativa insuficiente para generalizar sobre todo el país sin reconocer las limitaciones del estudio <!-- feedback: Con 15 centros y 200 pacientes, más una comparación internacional, el estudio tiene limitaciones que deben reconocerse explícitamente para no sobregeneralizar -->
-- [ ] D) No incluye la perspectiva de los pacientes rurales que reciben el servicio <!-- feedback: Las encuestas a 200 pacientes precisamente dan esa perspectiva -->
+- [ ] A) Contraste porque los datos son objetivos y los testimonios subjetivos
+- [x] B) Complementariedad donde los datos validan la experiencia relatada <!-- feedback: Los datos técnicos y los testimonios человеческие se complementan: los primeros proporcionan evidencia cuantitativa, los segundos dan voz a las víctimas, ambos apuntan al mismo problema -->
+- [ ] C) Independencia total ya que son dos tipos de información diferentes
+- [ ] D) Redundancia porque dicen lo mismo de formas diferentes <!-- feedback: Cada tipo aporta维度 diferente: uno cuantitativo, otro cualitativo -->
 
 ### Explicación Pedagógica
-El análisis estructural debe evaluar si la evidencia presentada es suficiente y pertinente para las conclusiones alcanzadas. Un estudio con muestra limitada no puede generalizar sin reconocer sus alcances. Esta habilidad es fundamental para la evaluación crítica de textos académicos.
+En el jornalismo de profundidad, la combinación de datos статистические y testimonios personales tiene propósito structurante: la evidencia empírica valida la experiencia viss experiência humana, y viceversa. Esta complementariedad es una estrategia organizativa deliberada. Los estudiantes frecuentemente ven los datos y los testimonios como "independientes" sin captar su función estructurante mutua.
 
 ---
 
-## Question 13 (Variant Advanced - Difficulty 7)
+## Question 13 (Variant Advanced - Difficulty D7)
 
 **ID:** `CO-LEC-11-P4-analisis-estructural-052-MASTERY-v13`
-**Bloom:** Analyze
-**ICFES:** Examinar las estrategias discursivas en textos multimodales
-**Context:** Reportaje multimedia sobre violencia de género publicado por El Espectador
+**Bloom:** Evaluate
+**ICFES:** Analiza cómo la estructura construye el significado
+**Context:** Crónica sobre el comercio informal en Guayaquil
 
 ### Enunciado
-En un reportaje digital sobre violencia de género en Colombia, el periodista complementa el texto escrito con:
-
-- Videos de témoignages de víctimas
-- Infografía con datos de violencia por departamento
-- Línea de tiempo interactiva de hitos legislativos
-- Audio de declaraciones de funcionarios públicos
-
-La estructura multimodal del reportaje busca principalmente:
+Una crónica sobre el comercio informal inicia describiendo la热闹 de un mercado, luego presenta la história de una vendedora específica, continúa con datos económicos sobre el sector informal y cierra con reflexiones sobre la dignidad del trabajo. ¿Cómo contribuye la estructura choisie al mensaje del texto?
 
 ### Options
-- [ ] A) Diversificar el contenido para atraer más publicidad <!-- feedback: El propósito comunicativo es periodístico, no comercial -->
-- [ ] B) Presentar únicamente evidencia emocional para generar compasión <!-- feedback: También hay datos objetivos (infografía, línea de tiempo) -->
-- [x] C) Combinar evidencia emocional y objetiva para generar tanto empatía como comprensión racional del problema <!-- feedback: Los vídeos generan empatía, mientras que la infografía y datos proporcionan comprensión racional; la multimodalidad sirve para atacar ambos frentes -->
-- [ ] D) Cumplir con los estándares de redacción digital sin añadir valor real <!-- feedback: La estructura multimodal tiene un propósito comunicativo claro -->
+- [x] A) Permite pasar de lo particular a lo general para demostrar que la experiencia individual ejemplifica un fenómeno coletivo <!-- feedback: La estructura mueve del caso конкретное (vendedora individual) al fenómeno abstracto (sector informal), permitiendo que lo personal ilustre lo structural -->
+- [ ] B) Busca confundir al lector con demasiadas perspectivas diferentes
+- [ ] C) Presenta los datos al inicio para establecer neutralidad перед las emociones
+- [ ] D) Termina con emociones para evitar apresentar datos fríos que alienen al lector <!-- feedback: La estructura no evita datos, los incluye con propósito -->
 
 ### Explicación Pedagógica
-Los textos multimodales combinan diferentes recursos semióticos para cumplir propósitos comunicativos complejos. El análisis estructural en estos casos debe considerar cómo los diferentes elementos se complementan para crear un efecto comunicativo particular.
+La progresión particular → general es una estrategia estructural que permite humanizar datos abstractos. Al comenzar con lo concreto y visible (el mercado, la vendedora) y avanzar hacia lo abstracto (datos económicos, reflexiones), el texto logra que el lector connecte emocionalmente antes de comprender intelectualmente. Esta pregunta requiere evaluar cómo la organización textual construye significado más allá del contenido individual de cada parte.
 
 ---
 
-## Question 14 (Variant Advanced - Difficulty 8)
+## Question 14 (Variant Advanced - Difficulty D7)
 
 **ID:** `CO-LEC-11-P4-analisis-estructural-052-MASTERY-v14`
-**Bloom:** Evaluate
-**ICFES:** Formular juicios críticos sobre la organización textual y sus efectos
-**Context:** Ensayo en revista dinero sobre desigualdad económica
+**Bloom:** Analyze
+**ICFES:** Identifica estructuras dentro de textos híbridos
+**Context:** Artículo de revisión sobre留守儿童留守儿童现象
 
 ### Enunciado
-En un ensayo sobre desigualdad económica en Colombia, el autor estructura el texto en cinco secciones sin subtítulos:
-
-Sección 1: Contextualiza el problema históricamente (párrafos 1-3)
-Sección 2: Presenta datos estadísticos sobre la desigualdad (párrafos 4-6)
-Sección 3: Narra tres historias de familias afectadas (parrés 7-10)
-Sección 4: Analiza las causas estructurales (párrafos 11-13)
-Sección 5: Proponer soluciones políticas (párrafos 14-16)
-
-La ausencia de subtítulos y la fusión de secciones en un texto continuo representa:
+El artículo comienza con una pregunta retórica sobre los efectos psicológicos de la migración parental, presenta revisiones de estudios previos, incluye la descripción de casos clínicos, desarrolla una discusión teórica y formula recomendaciones para política pública. La estructura del artículo corresponde a un patrón académico conocido como:
 
 ### Options
-- [ ] A) Un error de edición que dificulta la lectura del texto <!-- feedback: La falta de subtítulos puede ser una decisión estilística deliberada -->
-- [ ] B) Una estrategia para que el lector descubra la progresión argumentativa por sí mismo <!-- feedback: Puede ser parte de la estrategia, pero no es lo más notable -->
-- [ ] C) Una decisión estilística que busca crear un flujo discursivo continuo que refuerza la conexión entre problemas históricos, datos, historias humanas, análisis y propuestas <!-- feedback: La estructura sin interrupciones busca crear una narrativa fluida donde las transiciones entre contexto, evidencia, historias y propuestas se perciban como parte de un continuum inseparable -->
-- [ ] D) Una omisión grave que impide al lector identificar las partes clave del argumento <!-- feedback: La estructura es identificable aunque no tenga subtítulos -->
+- [ ] A) Narrative descriptivo básico con ejemplos ilustrativos
+- [x] B) Estructura IMRAD (Introducción-Métodos-Resultados-Discusión) adaptada <!-- feedback: La secuencia pregunta-antecedentesliterarios-casos-materialesanáliticos-discusión-recomendaciones corresponde a una variante de IMRAD con componente aplic小雨 -->
+- [ ] C) Ensayo argumentativo con estructura tesis-antítesis-síntesis
+- [ ] D) Reporte descriptivo sin análisis interpretativo <!-- feedback: Hay jelas discusión teórica y recomendaciones, lo cual implica análisis -->
 
 ### Explicación Pedagógica
-Las decisiones formales en la presentación de un texto (uso o ausencia de subtítulos, разделов) son estrategias comunicativas que afectan la experiencia de lectura y la recepción del mensaje. El análisis debe considerar estas decisiones como parte integral del propósito comunicativo.
+La estructura IMRAD (Introducción, Métodos, Resultados y Discusión) es el formato estándar de la escritura científica académica. Una variante común incluye recomendaciones de política pública como sección final. Los estudiantes frecuentemente no reconocen variantes de IMRAD en artículos de revisión, confundiéndolos con ensayos o reportajes. Esta pregunta evalúa el conocimiento de estructuras disciplinares específicas.
 
 ---
 
-## Question 15 (Variant Advanced - Difficulty 8)
+## Question 15 (Variant Advanced - Difficulty D8)
 
 **ID:** `CO-LEC-11-P4-analisis-estructural-052-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Evaluar la efectividad de las estrategias persuasivas en textos de opinión
-**Context:** Columna de opinión en El Colombiano sobre política educativa
+**ICFES:** Evalúa efectos del orden estructural en la recepción del texto
+**Context:** Editorial sobre la situación de los adultos mayores en Colombia
 
 ### Enunciado
-En una columna sobre la falta de docentes en áreas rurales, el columnista utiliza la siguiente estructura:
-
-1. Anécdota personal de su experiencia como docente rural hace 20 años
-2. Datos sobre la actual escasez de docentes en zonas rurales
-3. Comparación con la situación de otros países de la región
-4. Entrevista con un docente actual que narra sus dificultades
-5. Llamado a la acción para mejorar las condiciones laborales docentes
-
-El columnista inicia con una anécdota personal en lugar de presentar directamente los datos. Esta decisión estructural tiene como propósito:
+Un editorial presenta primero un caso конкретное de un anciano abandonado, luego datos статистические sobre el envejecimiento poblacional y finalmente предложения de política pública. Si el editor hubiera posto los datos primero y el caso al final, el efecto comunicativo habría cambiado porque:
 
 ### Options
-- [x] A) Establecer credibilidad y conexión emocional con el lector antes de presentar evidencia racional <!-- feedback: La
+- [ ] A) Los datos всегда son más importantes que las histórias personales para establecer credibilidad
+- [x] B) El caso concreto humaniza los datos y crea empatía inicial que los datos por sí solos no generarían <!-- feedback: Al iniciar con lo humano concreto, el texto apela a la empatía antes derazón, mientras que iniciar con datos apela primero a lo rational y puede resultar más distante -->
+- [ ] C) El cambio no alteraría en nada la efectividad del mensaje
+- [ ] D) Los datos presentarían mejor el problema si van al final como conclusión <!-- feedback: Los datos al inicio tienden a establecer el problema, no a concluir -->
+
+### Explicación Pedagógica
+El orden estructural en textos persuasivos tiene consequences directas para la recepción. Comenzar con un caso humano activa la empatía del lector, mientras que comenzar con datos apela a su racionalidad. Esta pregunta evalúa la comprensión de que la organización textual no es neutral sino estratégicamente diseñada para producir efectos específicos en el lector. El cambio de orden altera la secuencia de respuestas emocionales y racionales del lector.
+
+---
+
+## Question 16 (Variant Advanced - Difficulty D8)
+
+**ID:** `CO-LEC-11-P4-analisis-estructural-052-MASTERY-v16`
+**Bloom:** Analyze
+**ICFES:** Analiza decisiones organizativas en textos multimodalales
+**Context:** Reportaje digital sobre economia colaborativa en Medellín
+
+### Enunciado
+En un reportaje digital sobre economía colaborativa, el journalist incluye: un mapa interactivo de puntos de trueque, videos de testimonios de participantes, gráficos animados de crecimiento del sector y un artículo de fondo explicativo. La organización de estos elementos sugiere que el periodista предпочитает:
+
+### Options
+- [ ] A) Priorizar la profundidad teórica sobre la accesibilidad visual
+- [ ] B) Permitir que el lector construya su propia ruta de lectura según sus intereses <!-- feedback: La combinación de múltiples formatos sin secuencia lineal prescrita permite que el lector navegue según su preferencia, leyendo lo que más le interese en el orden que elija -->
+- [ ] C) Saturar al lector con demasiadas herramientas para perdeu el enfoque temático
+- [ ] D) Imponer una lectura secuencial obligatoria donde cada elemento depende del anterior <!-- feedback: Los elementos multimodales no secuenciales dan autonomía al lector -->
+
+### Explicación Pedagógica
+Los textos multimodales digitales ofrecen posibilidades estructurales que los impresos no tienen. La inclusion de múltiples formatos independientes (mapa, video, gráficos, texto) sin orden prescrito es una estrategia que pone al lector en control de su trayectoria. Esta pregunta evalúa la comprensión de que la estructura textual también implica decisiones sobre la relación autor-lector y la agency del consumidor de texto.
+
+---
+
+## Question 17 (Variant Complex - Difficulty D9)
+
+**ID:** `CO-LEC-11-P4-analisis-estructural-052-MASTERY

@@ -1,20 +1,10 @@
 <think>
-Necesito generar 20 preguntas tipo ICFES para Lectura Crítica sobre vocabulario en contexto, grado 11, período 2. Debo seguir exactamente el formato especificado.
+The user wants me to generate exactly 20 ICFES-style multiple choice questions for Colombian Saber 11 exam (Lectura Crítica - vocabulary in context). They want difficulty progression D3-D10 across the 20 questions, with specific format and Colombian contexts.
 
-Características importantes:
-- Dificultad progresiva: D3-D4 (1-4), D5-D6 (5-10), D7-D8 (11-16), D9-D10 (17-20)
-- 4 opciones obligatorias con [x] en la correcta
-- Contexto colombiano moderno
-- Sin "todas las anteriores" o "ninguna de las anteriores"
-- Distractores plausibles basados en errores comunes de estudiantes colombianos
-
-Voy a crear preguntas sobre inferencia de significado de palabras a partir del contexto,识别 palabras polisémicas, antónimos en contexto, sinónimos contextualizados, etc.
-
-Empezaré con las preguntas de dificultad D3-D4 (1-4):
+Let me create this properly with the YAML frontmatter and 20 questions in the exact format specified.
 
 </think>
 
-```yaml
 ---
 id: "CO-LEC-11-P2-vocabulario-contexto-044-MASTERY"
 country: "colombia"
@@ -29,7 +19,7 @@ alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
 generation:
   agent: "minimax-m2.7"
   model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T17:30:28.452291"
+  timestamp: "2026-04-16T01:55:51.502853"
   prompt_version: "v2-direct"
 quality_status: "UNREVISED"
 generation_status: "RAW"
@@ -47,315 +37,414 @@ open_source: false
 ## Question 1 (Variant Basic - Difficulty D3)
 
 **ID:** `CO-LEC-11-P2-vocabulario-contexto-044-MASTERY-v1`
-**Bloom:** Understand
-**ICFES:** Interpretación del significado de palabras o expresiones según el contexto
-**Context:** Noticia sobre problemáticas ambientales en la Sierra Nevada de Santa Marta
+**Bloom:** [Understand]
+**ICFES:** [Interpretar el sentido global de un texto - identificación de significado contextual]
+**Context:** [Educación y vida cotidiana]
 
 ### Enunciado
-En el siguiente fragmento, ¿qué significado adquiere la palabra "sostenibilidad" en el contexto presentado?
-
-"El gobierno departamental anunció nuevas políticas de sostenibilidad ambiental para proteger los páramos del Magdalena, asegurando que las generaciones futuras podrán disfrutar de estos ecosistemas únicos."
+En el siguiente fragmento: "La resolución del Consejo de Estado fue tajante; el municipio deberá pagar la indemnización completa a la víctima del accidente." La palabra "tajante" significa:
 
 ### Options
-- [ ] A) La capacidad de mantener un ritmo de desarrollo económico sin interrupciones <!-- feedback: confunde sostenibilidad con crecimiento económico continuo -->
-- [ ] B) La capacidad de mantener un equilibrio entre las necesidades actuales y la conservación del medio ambiente para las generaciones futuras <!-- feedback: esta es la acepción correcta en el contexto ambiental -->
-- [ ] C) El conjunto de normas jurídicas que regulan la protección del entorno natural <!-- feedback: confunde sostenibilidad con legislación ambiental -->
-- [ ] D) La obligación de las empresas de reportar su impacto ecológico ante las autoridades <!-- feedback: confunde sostenibilidad con rendición de cuentas corporativa -->
+- [ ] A) Confusa o ambigua
+- [ ] B) Firme y contundente <!-- feedback: "Tajante" implica algo que corta o decide de forma definitiva, sin ambigüedad. Esta opción captura la firmeza de la palabra -->
+- [x] C) Suave y conciliadora <!-- feedback: Incorrecto. "Tajante" no significa suave; al contrario, implica decisión firme -->
+- [ ] D) Indecisa y dubitativa <!-- feedback: Incorrecto. Una persona tajante no muestra duda -->
 
 ### Explicación Pedagógica
-En el contexto de una noticia sobre políticas ambientales, la palabra "sostenibilidad" se refiere a la capacidad de mantener un equilibrio entre las actividades humanas y la conservación del medio ambiente. El fragmento indica explícitamente "generaciones futuras", lo que refuerza el significado de uso responsable de recursos. El distractor A es común porque muchos estudiantes asocian sostenibilidad con desarrollo económico continuo. El distractor C confunde el término con el marco legal. El distractor D lo limita a obligaciones empresariales.
+La palabra "tajante" en español proviene de "tajar" (cortar). En contexto jurídico, significa una decisión que no admite debate ni matices. Los estudiantes frecuentemente confunden "tajante" con "agresivo" o "duro", sin comprender que su sentido esencial es la firmeza decisiva. El distractor A y D son semánticamente opuestos al significado real.
 
 ---
 
 ## Question 2 (Variant Basic - Difficulty D3)
 
 **ID:** `CO-LEC-11-P2-vocabulario-contexto-044-MASTERY-v2`
-**Bloom:** Understand
-**ICFES:** Establecer relaciones de significado entre palabras según el contexto
-**Context:** Columna de opinión sobre educación universitaria en Colombia
+**Bloom:** [Understand]
+**ICFES:** [Interpretar el sentido global de un texto - identificación de significado contextual]
+**Context:** [Tecnología y redes sociales]
 
 ### Enunciado
-En el texto, el autor utiliza la expresión "brecha educativa" para referirse a:
-
-"La persistente brecha educativa entre las zonas urbanas y rurales de Colombia continúa siendo uno de los mayores desafíos para el sistema educativo nacional, donde los estudiantes rurales obtienen en promedio 120 puntos menos en las pruebas estandarizadas."
+En la oración: "El algoritmo de la plataforma filtró contenido mientras procesaba los datos de millones de usuarios." La palabra "algoritmo" se refiere a:
 
 ### Options
-- [ ] A) La distancia física que deben recorrer los estudiantes rurales para llegar a los centros educativos <!-- feedback: interpreta "brecha" literalmente como distancia -->
-- [ ] B) La diferencia significativa en acceso y calidad educativa entre diferentes regiones del país <!-- feedback: es el significado correcto en el contexto educativo -->
-- [ ] C) El presupuesto insuficiente que destinan las entidades territoriales a la educación rural <!-- feedback: confunde el efecto (presupuesto) con el concepto (diferencia) -->
-- [ ] D) La falta de capacitación de los docentes que trabajan en zonas apartadas <!-- feedback: señala una causa específica sin capturar el significado general del término -->
+- [ ] A) Un tipo de virus informatique
+- [x] B) Un conjunto ordenado de instrucciones para procesar información <!-- feedback: Correcto. Un algoritmo es una secuencia lógica de pasos para resolver problemas o procesar datos automáticamente -->
+- [ ] C) Una red social
+- [ ] D) Un dispositivo electrónico <!-- feedback: Incorrecto. Aunque relacionado con tecnología, un algoritmo no es un objeto físico -->
 
 ### Explicación Pedagógica
-La expresión "brecha educativa" en el contexto del texto se refiere a la diferencia o desigualdad en oportunidades educativas entre zonas urbanas y rurales. El fragmento lo demuestra con datos estadísticos (120 puntos de diferencia). El distractor A es un error literal, interpretando "brecha" como distancia física. El distractor C confunde el concepto con una de sus posibles causas. El distractor D también reduce la complejidad a un solo factor causal.
+El término "algoritmo" es fundamental en la era digital. Los estudiantes conocen la palabra pero muchos no logran definirla con precisión. El distractor A confunde algoritmo con malware. El distractor C lo asocia erradamente con plataformas. El distractor D lo materializa incorrectamente.
 
 ---
 
 ## Question 3 (Variant Basic - Difficulty D4)
 
 **ID:** `CO-LEC-11-P2-vocabulario-contexto-044-MASTERY-v3`
-**Bloom:** Apply
-**ICFES:** Analizar el sentido figurado de expresiones según el contexto comunicativo
-**Context:** Artículo sobre emprendimiento juvenil en Medellín
+**Bloom:** [Understand]
+**ICFES:** [Interpretar el sentido global de un texto - identificación de significado contextual]
+**Context:** [Ambiente y cambio climático]
 
 ### Enunciado
-En el siguiente párrafo, ¿qué sentido adquiere la expresión "dar el salto"?
-
-"En los últimos cinco años, más de trescientos jóvenes paisas han decidido dar el salto del emprendimiento informal al sector tecnológico formal, transformando sus ideas en startups reconocidas nacionalmente."
+"La eutrofización de los cuerpos de agua en la región已经把 el ecosistema acuático en riesgo." Considerando el contexto, la palabra "eutrofización" se relaciona con:
 
 ### Options
-- [ ] A) Realizar un cambio radical o avance significativo de una situación a otra mejor <!-- feedback: captura correctamente el sentido figurado de la expresión en contexto empresarial -->
-- [ ] B) Tomar un riesgo financiero importante sin garantías de retorno <!-- feedback: enfoca únicamente en el aspecto de riesgo, ignorando el componente de progreso -->
-- [ ] C) Invertir capital en empresas del sector tecnológico únicamente <!-- feedback: interpreta mal la expresión como sinónimo de invertir -->
-- [ ] D) Abandonar completamente el trabajo informal para iniciar un nuevo proyecto <!-- feedback: se acerca pero no captura el sentido de avance o progreso implícito en "dar el salto" -->
+- [ ] A) Contaminación por plásticos
+- [ ] B) Agotamiento de la capa de ozono
+- [x] C) Exceso de nutrientes que genera proliferación de algas <!-- feedback: Correcto. La eutrofización ocurre cuando exceso de nitrógeno y fósforo causa crecimiento excesivo de vegetación acuática -->
+- [ ] D) Aumento de la temperatura del agua <!-- feedback: Incorrecto. Aunque relacionado con problemas ambientales, esto describe "calentamiento", no eutrofización -->
 
 ### Explicación Pedagógica
-La expresión "dar el salto" en contexto empresarial significa realizar un cambio significativo o avance de una situación a otra, generalmente de menor a mayor complejidad o formalidad. El texto indica claramente la transición de "emprendimiento informal" a "sector tecnológico formal", lo que implica progreso y formalización. El distractor B exagera el componente de riesgo. El distractor C limita la expresión a invertir dinero. El distractor D se queda en el aspecto de abandono sin destacar el avance.
+La eutrofización es un fenómeno ambiental cada vez más relevante en Colombia, especialmente en lagos y embalses. El distractor A es un error conceptual (confunde con otra forma de contaminación). El distractor B se refiere a otro problema ambiental diferente. El distractor D describe un fenómeno térmido, no químico-biológico.
 
 ---
 
 ## Question 4 (Variant Basic - Difficulty D4)
 
 **ID:** `CO-LEC-11-P2-vocabulario-contexto-044-MASTERY-v4`
-**Bloom:** Understand
-**ICFES:** Inferir el significado de palabras desconocidas a partir del contexto
-**Context:** Reportaje sobre el arte rupestre en la Serranía de la Lindosa, Amazonas
+**Bloom:** [Apply]
+**ICFES:** [Identificar el sentido de palabras o expresiones según el contexto]
+**Context:** [Política y gobierno]
 
 ### Enunciado
-Según el contexto, ¿qué significa la palabra "pictografías" en el siguiente fragmento?
-
-"Las pictografías encontradas en los abrigos rocosos de la Serranía de la Lindosa representan escenas de caza, danzas rituales y figuras zoomorfas, constituyendo un invaluable legado de las culturas prehispánicas amazónicas."
+En el titular: "El presidente vetó la iniciativa legislativa sobre reformas pensionales." La expresión "vetó" indica que el presidente:
 
 ### Options
-- [ ] A) Escrituras alfabéticas talladas en piedra por civilizaciones antiguas <!-- feedback: confunde pictografías con escritura alfabética, que requiere un sistema de signos más complejo -->
-- [ ] B) Representaciones gráficas figurativas pintadas o dibujadas sobre superficies rocosas <!-- feedback: es la definición correcta que se infiere del contexto y los ejemplos dados -->
-- [ ] C) Esculturas tridimensionales de animales talladas en roca <!-- feedback: confunde pictografías (bidimensionales) con esculturas (tridimensionales) -->
-- [ ] D) Mapas geográficos que indican la ubicación de asentamientos humanos prehispánicos <!-- feedback: interpreta incorrectamente el propósito comunicativo de las pictografías -->
+- [ ] A) Aprobó la ley para su ejecución
+- [ ] B) Envió el proyecto al Congreso para debate
+- [x] C) Rechazó o invalidó la iniciativa <!-- feedback: Correcto. Veto significa impedir que algo prospere, rechazando su aprobación -->
+- [ ] D) Modificó parcialmente el proyecto <!-- feedback: Incorrecto. Eso sería "enmendar" o "suavizar", no veto total -->
 
 ### Explicación Pedagógica
-Las "pictografías" son representaciones gráficas figurativas (dibujos o pinturas) realizadas sobre superficies rocosas. El contexto lo confirma al mencionar "escenas de caza, danzas rituales y figuras zoomorfas", todas descripciones de imágenes figurativas. El distractor A es común porque muchos estudiantes asocian cualquier escritura antigua con sistemas alfabéticos. El distractor C confunde la bidimensionalidad de las pictografías con la tridimensionalidad de las esculturas. El distractor D reduce el significado a una función cartográfica que no corresponde.
+El concepto de "veto" es central en el sistema de pesos y contrapesos democratico. Muchos estudiantes confunden "vetar" con otras acciones ejecutivas. El distractor A es exactamente lo opuesto. El distractor B describe una prerrogativa diferente. El distractor D se aproximaría a un "poder de amendación" o modificación parcial.
 
 ---
 
-## Question 5 (Variant Medium - Difficulty D5)
+## Question 5 (Variant Basic - Difficulty D5)
 
 **ID:** `CO-LEC-11-P2-vocabulario-contexto-044-MASTERY-v5`
-**Bloom:** Understand
-**ICFES:** Interpretar el uso de marcadores discursivos según el contexto argumentativo
-**Context:** Editorial de un diario bogotano sobre la reforma a la salud
+**Bloom:** [Understand]
+**ICFES:** [Interpretar el sentido global de un texto - identificación de significado contextual]
+**Context:** [Salud pública y pandemia]
 
 ### Enunciado
-En el siguiente fragmento, ¿qué función cumple la expresión "sin embargo" en la estructura argumentativa del texto?
-
-"La reforma a la salud propuesta por el Ministerio busca ampliar la cobertura en zonas rurales alejadas. Sin embargo, varios gremios médicos han expresado preocupación sobre la viabilidad de implementación."
+En el contexto de la pandemia, un infectólogo explicó: "El virus presenta mutaciones divergentes que complican la eficacia de las vacunas." La palabra "divergentes" indica que las mutaciones:
 
 ### Options
-- [ ] A) Introducir un argumento de apoyo que fortalece la tesis principal del texto <!-- feedback: confunde la función de "sin embargo" con marcadores de adición o afirmación -->
-- [ ] B) Presentar un contraargumento u objeción a la postura presentada anteriormente <!-- feedback: es la función correct a de este marcador adversativo en contexto argumentativo -->
-- [ ] C) Expresar una duda temporal del autor sobre la efectividad de la reforma <!-- feedback: interpreta "sin embargo" como expresión de incertidumbre personal del autor -->
-- [ ] D) Conectar dos ideas que proponen soluciones alternativas al mismo problema <!-- feedback: confunde marcadores adversativos con marcadores disyuntivos o de alternativa -->
+- [ ] A) Son idénticas entre sí
+- [x] B) Se separan y diferencian en múltiples direcciones <!-- feedback: Correcto. "Divergente" proviene del latín y significa apartarse de un punto común, diversificándose -->
+- [ ] C) Convergen hacia una sola variante
+- [ ] D) Desaparecen rápidamente <!-- feedback: Incorrecto. Divergente no implica desaparición, sino multiplicación direccional -->
 
 ### Explicación Pedagógica
-En el texto argumentativo, "sin embargo" funciona como un marcador discursivo adversativo que introduce un contraargumento u objeción a la afirmación inmediatamente anterior. La primera oración presenta una propuesta positiva del gobierno; la segunda, mediante "sin embargo", presenta la reacción crítica de los gremios médicos. El distractor A es frecuente porque confunde marcadores de adición (además, también) con adversativos. El distractor C confunde el marcador con una expresión de duda epistémica. El distractor D confunde adversatividad con disyunción.
+El vocabulario científico se ha vuelto esencial tras la pandemia. "Divergente" es frecuentemente mal interpretado. Los estudiantes tienden a confundirlo con "diferente" sin entender la dirección del cambio. El distractor A es antonímico. El distractor C describe "convergente", concepto opuesto. El distractor D añade una cualidad temporal no presente.
 
 ---
 
-## Question 6 (Variant Medium - Difficulty D5)
+## Question 6 (Variant Basic - Difficulty D5)
 
 **ID:** `CO-LEC-11-P2-vocabulario-contexto-044-MASTERY-v6`
-**Bloom:** Understand
-**ICFES:** Identificar el significado denotativo y connotativo de palabras según el contexto
-**Context:** Crónica literaria sobre la violencia en Medellín durante los años 80
+**Bloom:** [Apply]
+**ICFES:** [Identificar el sentido de palabras o expresiones según el contexto]
+**Context:** [Economía y empleo]
 
 ### Enunciado
-En el siguiente fragmento, la palabra "sombras" adquiere un significado:
-
-"Los murales del Museo de la Memoria ilustran las historias de quienes fueron silenciados por la violencia, dejando sombras que aún hoy recorren las calles del centro de la ciudad."
+En un artículo sobre el mercado laboral colombiano se lee: "La terciarización de la economía ha generado empleo pero también precariedad." La palabra "terciarización" hace referencia a:
 
 ### Options
-- [ ] A) Un significado literal, referring to the absence of light in specific areas of the city <!-- feedback: confunde el significado connotativo con el denotativo-literal de la palabra -->
-- [ ] B) Un significado simbólico que evoca ausencias, presencias traumáticas o huellas del pasado violento <!-- feedback: es el significado correcto en el contexto literario y de memoria histórica -->
-- [ ] C) Un significado religioso связанный con la creencia en fantasmas o almas en pena <!-- feedback: lleva el símbolo a un plano religioso que el texto no sugiere -->
-- [ ] D) Un significado jurídico relacionado con las investigaciones pendientes sobre crímenes de esa época <!-- feedback: confunde "sombras" como metáfora con "casos pendientes" o procesos judiciales -->
+- [ ] A) Crecimiento del sector primario (agricultura, minería)
+- [ ] B) Desarrollo de la industria manufacturera
+- [x] C) Predominio del sector servicios sobre la producción de bienes <!-- feedback: Correcto. La terciarización implica el crecimiento del sector servicios (comercio, finanzas, educación, salud) como motor económico principal -->
+- [ ] D) Aumento del empleo público governmental
 
 ### Explicación Pedagógica
-En el contexto de una crónica sobre memoria histórica y violencia, la palabra "sombras" adquiere un significado simbólico o connotativo que evoca presencias ausentes, huellas traumáticas del pasado violento. El texto utiliza la metáfora para referirse a las víctimas que fueron "silenciadas". El distractor A es común en estudiantes que no distinguen significado literal de figurado. El distractor C lleva la metáfora a un terreno religioso que el texto no sugiere. El distractor D confunde símbolo con proceso legal.
+La terciarización es un fenómeno económico central en Colombia y América Latina. El distractor A describe el sector primario. El B se refiere a industrialización (sector secundario). El D es demasiado específico y no captura la transformación estructural de la economía. La terciarización implica una transición hacia economías basadas en servicios.
 
 ---
 
-## Question 7 (Variant Medium - Difficulty D5)
+## Question 7 (Variant Basic - Difficulty D5)
 
 **ID:** `CO-LEC-11-P2-vocabulario-contexto-044-MASTERY-v7`
-**Bloom:** Apply
-**ICFES:** Analizar el sentido figurado de expresiones según el contexto comunicativo
-**Context:** Artículo sobre desigualdad social en Bogotá
+**Bloom:** [Understand]
+**ICFES:** [Interpretar el sentido global de un texto - identificación de significado contextual]
+**Context:** [Historia y patrimonio]
 
 ### Enunciado
-En el texto, la expresión "cascada burocrática" se refiere a:
-
-"Desde la reestructuración ministerial hasta los niveles operativos en las localidades, la cascada burocrática de requisitos y trámites ha sido identificada como uno de los principales obstáculos para el emprendimiento en la capital."
+En un texto sobre el patrimonio arquitectónico de Cartagena: "Las murallas colonialesson un vestigio tangible de la arquitectura militar española." La palabra "vestigio" en este contexto significa:
 
 ### Options
-- [ ] A) El sonido metálico que producen los sistemas de información gubernamental al colapsar <!-- feedback: interpreta la metáfora como descripción literal de un sonido -->
-- [ ] B) Una secuencia descendente y累加atoria de trámites y procedimientos administrativos que se multiplican en cada nivel <!-- feedback: es la acepción correcta que se infiere del contexto administrativo -->
-- [ ] C) Los fallos en cascada que han recibido sanciones por irregularidades contractuales <!-- feedback: confunde "cascada burocrática" con el término jurídico "fallos en cascada" -->
-- [ ] D) Un tipo específico de contrato público caracterizado por su larga duración temporal <!-- feedback: interpreta "cascada" como sinónimo de extensión temporal -->
+- [ ] A) Una copia moderna
+- [x] B) Un rastro o huella que permanece como evidencia del pasado <!-- feedback: Correcto. "Vestigio" se refiere a lo que queda como testimonio de algo que desapareció o cambió -->
+- [ ] C) Una construcción nueva
+- [ ] D) Un error histórico
 
 ### Explicación Pedagógica
-La expresión "cascada burocrática" utiliza una metáfora hídrica para describir cómo los requisitos y trámites se multiplican o acumulan descendiendo por los diferentes niveles de la estructura administrativa. El contexto lo indica con "desde la reestructuración ministerial hasta los niveles operativos", sugiriendo una secuencia descendente. El distractor A es literal e incorrecto. El distractor C confunde con terminología jurídica específica. El distractor D malinterpreta la metáfora como referencia temporal.
+"Vestigio" proviene del latín "vestigium" (huella). En contexto patrimonial, denota las remainders de una época que resisten el paso del tiempo. Los estudiantes frecuentemente confunden "vestigio" con "obstáculo" (similar fonéticamente). El distractor A es contrario al sentido histórico. El C es contradictorio con la idea de algo antiguo. El D no corresponde al significado.
 
 ---
 
-## Question 8 (Variant Medium - Difficulty D6)
+## Question 8 (Variant Basic - Difficulty D6)
 
 **ID:** `CO-LEC-11-P2-vocabulario-contexto-044-MASTERY-v8`
-**Bloom:** Analyze
-**ICFES:** Establecer relaciones de sinonimia y antonimia según el contexto
-**Context:** Reportaje sobre innovación tecnológica en empresas caleñas
+**Bloom:** [Analyze]
+**ICFES:** [Evaluar estrategias argumentativas - análisis de recursos retóricos]
+**Context:** [Medio ambiente y conflictos sociales]
 
 ### Enunciado
-En el fragmento, la palabra "obsoletos" mantiene una relación de antonimia contextual con:
-
-"El programa de reconversión laboral impulsado por la Cámara de Comercio de Cali busca capacitar a empleados de empresas que aún utilizan equipos obsoletos, mientras las corporaciones líderes del sector ya han adoptado tecnologías de inteligencia artificial."
+En una negociación entre comunidades indígenas y empresas mineras, el líder comunitario manifestó: "No podemos seguir siendo cómplices de la depredación de nuestras tierras." La expresión "cómplices" sugiere:
 
 ### Options
-- [ ] A) "empresas" <!-- feedback: no hay relación antonímica; el texto usa "empresas" como contexto, no como elemento opuesto -->
-- [ ] B) "líderes" <!-- feedback: se acerca, pero la antonimia contextual se establece entre estados tecnológicos, no entre tipos de empresas -->
-- [ ] C) "adoptado" y el concepto implícito de "tecnologías modernas" <!-- feedback: es la relación antonímica correcta; "obsoletos" se opone a tecnologías modernas que han sido adoptadas por las corporaciones líderes -->
-- [ ] D) "empleados" <!-- feedback: no existe relación antonímica entre equipos y empleados en este contexto -->
+- [ ] A) Indiferencia absoluta
+- [ ] B) Oposición activa y manifiesta
+- [x] C) Participación involuntaria o pasiva en un daño <!-- feedback: Correcto. "Cómplice" implica participación, aunque sea por omisión o silencio, en una acción que se considera negativa -->
+- [ ] D) Acuerdo voluntario con la empresa
 
 ### Explicación Pedagógica
-La palabra "obsoletos" se relaciona antonímicamente con el concepto implícito de tecnologías modernas o de punta, que las corporaciones líderes "han adoptado". El texto establece esta oposición entre dos estados tecnológicos: equipos anticuados versus tecnologías de inteligencia artificial. El distractor B es cercano pero no captura completamente la relación porque "líderes" califica a las empresas, no a las tecnologías. El distractor A y D no establecen relaciones antonímicas en el contexto del texto.
+El uso de "cómplices" en este contexto es argumentativamente poderoso porque sugiere que el silencio o la inacción implica responsabilidad. El distractor B describe antagonismo activo, lo opuesto. El distractor A subestima la gravedad de la acusación retórica. El distractor D invierte completamente el sentido peyorativo de la palabra.
 
 ---
 
-## Question 9 (Variant Medium - Difficulty D6)
+## Question 9 (Variant Basic - Difficulty D6)
 
 **ID:** `CO-LEC-11-P2-vocabulario-contexto-044-MASTERY-v9`
-**Bloom:** Apply
-**ICFES:** Inferir el significado de regionalismos colombianos según el contexto
-**Context:** Entrevista a un artista vallenato sobre tradición musical
+**Bloom:** [Understand]
+**ICFES:** [Interpretar el sentido global de un texto - identificación de significado contextual]
+**Context:** [Ciencia y tecnología]
 
 ### Enunciado
-En el siguiente fragmento, ¿qué significa la expresión "secar el joche" en el contexto de la música vallenata?
-
-"El compositor nos contó que antes de que existieran las grabadoras, los acordeoneros tenían que secar el joche: memorizar cada verso mientras el accordion sonaba en las fiestas, para depois regresar a casa y reconstruir la canción."
+En un artículo sobre inteligencia artificial se afirma: "Los sistemas de aprendizaje automático pueden perpetuar sesgos algorítmicos si los datos de entrenamiento son discriminatorios." La palabra "sesgos" significa:
 
 ### Options
-- [ ] A) Dejar de tocar el acordeón por falta de dinero para comprar instrumentos <!-- feedback: confunde el significado cultural del término con una situación económica -->
-- [ ] B) Asistir a múltiples fiestas para escuchar diferentes acordeoneros y estudiar sus estilos <!-- feedback: se acerca al contexto musical pero no captura el significado específico de memorización -->
-- [ ] C) Memorizar letras y melodías mediante la repetición auditiva sin posibilidad de grabación <!-- feedback: es el significado correcto del regionalismo en el contexto de preservación musical tradicional -->
-- [ ] D) Abandonar el aprendizaje formal para dedicarse al arte popular callejero <!-- feedback: confunde "secar" con abandono y "joche" con un espacio físico -->
+- [ ] A) Errores técnicos aleatorios
+- [ ] B) Programas mal diseñados
+- [ ] C) Lentitud en el procesamiento
+- [x] D) Prejuicios o inclinaciones injustas incorporadas en los datos <!-- feedback: Correcto. En contexto de IA, "sesgo" se refiere a preferencias o perjuicios sistemáticos que se reflejan en los resultados algorítmicos -->
 
 ### Explicación Pedagógica
-"Sequiar el joche" es un regionalismo del contexto vallenato que significa memorizar o guardar en la memoria letras y melodías a través de la escucha repetida. El texto lo explica como el proceso de "memorizar cada verso mientras el acordeón sonaba" y luego "reconstruir la canción". El distractor A introduce una interpretación económica inexistente. El distractor B se queda en una idea superficial de asistencia a fiestas. El distractor D confunde completamente los componentes léxicos del regionalismo.
+El concepto de "sesgo algorítmico" es crucial en la alfabetización digital contemporánea. Los estudiantes tienden a interpretar "sesgo" de manera coloquial como "error" sin captar la dimensión de injusticia sistemática. El distractor A reduce el problema a casualidad. El B confunde causa con efecto. El C es completamente irrelevante al significado.
 
 ---
 
-## Question 10 (Variant Medium - Difficulty D6)
+## Question 10 (Variant Basic - Difficulty D6)
 
 **ID:** `CO-LEC-11-P2-vocabulario-contexto-044-MASTERY-v10`
-**Bloom:** Understand
-**ICFES:** Identificar el campo semántico de palabras según el contexto discursivo
-**Context:** Artículo científico sobre investigación del cacao en Santander
+**Bloom:** [Apply]
+**ICFES:** [Identificar el sentido de palabras o expresiones según el contexto]
+**Context:** [Literatura y cultura]
 
 ### Enunciado
-En el texto científico, la palabra "territorio" pertenece al campo semántico de:
-
-"Las comunidades agrícolas de Girón y San Vicente de Chucurí han solicitado que sus territorios ancestrales sean reconocidos dentro del programa de Denominación de Origen del cacao santandereano, argumentando que el terroir específico de la región define las características únicas del producto."
+En una reseña literaria se lee: "La prosa de García Márquez es deliberadamente digresiva; el lector debe perderse en sus laberintos narrativos para encontrar el sentido." La palabra "digresiva" indica que el texto:
 
 ### Options
-- [ ] A) Espacio geográfico y culturalmente definido donde comunidades mantienen prácticas tradicionales <!-- feedback: es el campo semántico correcto que surge del contexto de comunidades agrícolas y territorio ancestral -->
-- [ ] B) Propiedad legal individuales sobre tierras de cultivo registradas ante el INCODER <!-- feedback: se enfoca en el aspecto jurídico individual, no en el comunitario y ancestral del texto -->
-- [ ] C) Producto agrícola específico con registro de marca comercial protected por ley <!-- feedback: confunde "territorio" con "denominación de origen" que es el producto, no el espacio -->
-- [ ]D) Documento oficial que certifica la autenticidad de productos agrícolas tradicionales <!-- feedback: confunde el sustantivo "territorio" con el documento de certificación -->
+- [ ] A) Sigue una línea recta y predecible
+- [ ] B) Es breve y conciso
+- [x] C) Se desvía del tema principal para explorar ramas narrativas <!-- feedback: Correcto. "Digresión" implica apartarse temporalmente del hilo principal para desarrollar ideas secundarias -->
+- [ ] D) Utiliza diálogos exclusivamente
 
 ### Explicación Pedagógica
-En el contexto del artículo científico y la figura de Denominación de Origen, la palabra "territorio" se enmarca en un campo semántico de geografía cultural y producción agrícola tradicional, relacionado con espacios donde comunidades mantienen prácticas ancestrales. El texto lo refuerza con "territorios ancestrales" y "región". El distractor B se enfoca en lo jurídico individual. El distractor C confunde territorio con producto. El distractor D confunde el sustantivo con un documento certificador.
+La digresión es una técnica literaria característica del realismo mágico y la narrativa latinoamericana. El distractor A es antonímico. El B describe el efecto opuesto. El D es una interpretación reduccionista que no captura la naturaleza estructural de la digresión como estrategia narrativa.
 
 ---
 
-## Question 11 (Variant Advanced - Difficulty D7)
+## Question 11 (Variant Basic - Difficulty D7)
 
 **ID:** `CO-LEC-11-P2-vocabulario-contexto-044-MASTERY-v11`
-**Bloom:** Analyze
-**ICFES:** Evaluar el uso estratégico de palabras para construir argumentos según el contexto
-**Context:** Debate legislativo sobre la reforma laboral en el Congreso de la República
+**Bloom:** [Analyze]
+**ICFES:** [Evaluar estrategias argumentativas - análisis de recursos retóricos]
+**Context:** [Sociedad y desigualdad]
 
 ### Enunciado
-En el siguiente fragmento, ¿qué efecto persuasivo busca el autor al utilizar la palabra " flexibilización"?
-
-"Los proponentes de la reforma defienden que la flexibilización laboral permitirá crear más empleos formales, mientras los sindicatos aseguran que es un eufemismo para justificar la precarización del trabajo."
+En una columna de opinión sobre la inequidad educativa se lee: "La brecha digital no es un problema tecnológico, sino un problema de justicia social." La palabra "brecha" en este contexto refiere a:
 
 ### Options
-- [ ] A) Presentar un tecnicismo neutral que hace referencia precisa a un concepto jurídico-laboral establecido <!-- feedback: subestima el carácter estratégicamente cargado del término en debates legislativos -->
-- [ ] B) Enmascarar una propuesta impopular mediante un término que suena positivo pero tiene efectos negativos <!-- feedback: es la lectura crítica correcta; "flexibilización" en contexto laboral suele connotar precariedad disfrazada de modernidad -->
-- [ ] C) Demostrar dominio técnico del tema mediante el uso de vocabulario especializado del derecho laboral <!-- feedback: interpreta el uso retórico como muestra de competencia comunicativa -->
-- [ ] D) Simplificar un concepto complejo para que los ciudadanos comunes puedan comprender la reforma <!-- feedback: confunde "flexibilización" con estrategias de claridad expositiva -->
+- [ ] A) Un fallo técnico temporal
+- [ ] B) Un abismo geográfico infranqueable
+- [x] C) Una desigualdad estructural que separa a quienes acceden a la tecnología de quienes no <!-- feedback: Correcto. "Brecha digital" describe laGap en acceso y uso de tecnologías entre diferentes grupos socioeconómicos -->
+- [ ] D) Un conflicto generacional
 
 ### Explicación Pedagógica
-En el contexto del debate legislativo, la palabra "flexibilización" es estratégica porque su connotación positiva (modernidad, adaptabilidad) contrasta con los efectos negativos que señalan los sindicatos ("precarización"). El texto mismo introduce la sospecha al afirmar que los sindicatos la consideran un "eufemismo". El distractor A subestima la carga valorativa del término. El distractor C lo reduce a炫耀 de conocimiento técnico. El distractor D no reconoce el uso retórico-manipulativo.
+El concepto de "brecha" en ciencias sociales denota desigualdad sistemática, no un espacio físico. El distractor A trivializa el problema tecnológico. El B toma la acepción literal de manera simplista. El D reduce la complejidad a un tema generacional, excluyendo los factores económico-estructurales.
 
 ---
 
-## Question 12 (Variant Advanced - Difficulty D7)
+## Question 12 (Variant Basic - Difficulty D7)
 
 **ID:** `CO-LEC-11-P2-vocabulario-contexto-044-MASTERY-v12`
-**Bloom:** Analyze
-**ICFES:** Interpretar múltiples significados de palabras polisémicas según el contexto
-**Context:** Crónica sobre el conflicto armado en el Chocó biogeográfico
+**Bloom:** [Understand]
+**ICFES:** [Interpretar el sentido global de un texto - identificación de significado contextual]
+**Context:** [Política internacional]
 
 ### Enunciado
-En el fragmento, la palabra "conflicto" se refiere a tres acepciones diferentes. Identifique la que NO corresponde al contexto:
-
-"Tras más de cinco décadas de conflicto armado, las comunidades negras del Chocó biogeográfico siguen enfrentando多重 conflicts: el extractivismo illegal de oro que contamina sus ríos, la ausência del Estado en servicios básicos, y la violencia residual de grupos armados."
+En una crónica sobre relaciones internacionales se menciona: "Las sanciones económicas impuestas por la Unión Europea fueron insuficientes para تغيير el comportamiento del gobierno autoritario." La palabra "sanciones" en este contexto significa:
 
 ### Options
-- [ ] A) El enfrentamiento violento entre grupos armados legales e ilegales que ha dejado desplazados <!-- feedback: acepción correctamente presente en el contexto: "conflicto armado" -->
-- [ ] B) La contaminación ambiental causada por la minería ilegal que afecta la salud de las comunidades <!-- feedback: acepción presente: "conflicto" como problema ambiental generado por actividades extractivas -->
-- [ ] C) La ausENCIa institucional del Estado en la provisión de servicios de salud y educación <!-- feedback: acepción presente: "conflicto" como falla o carencia institucional que genera sufrimiento -->
-- [ ] D) El litigio judicial entre empresas mineras y comunidades por tierras ancestrales <!-- feedback: NO corresponde; "conflicto" en el texto no se refiere a disputas jurídicas formales sobre tierras -->
+- [ ] A) Premios o incentivos por buen comportamiento
+- [x] B) Medidas punitivas económicas o políticas como consecuencia de una falta <!-- feedback: Correcto. Las sanciones internacionales son restricciones económicas, diplomáticas o políticas impuestas como castigo por conductas inaceptables -->
+- [ ] C) Negociaciones pacíficas entre partes
+- [ ] D) Intervenciones militares directas
 
 ### Explicación Pedagógica
-En el texto, la palabra "conflicto" se usa con tres acepciones: bélica (conflicto armado), ambiental (contaminación por minería ilegal), e institucional (ausencia del Estado). El distractor D introduce una acepción jurídica-legal de litigio judicial que el texto no menciona ni sugiere. El texto habla de problemas causados por extractivismo ilegal y ausencia estatal, no de disputas legales formales. Esta pregunta evalúa la capacidad de distinguir qué acepciones son pertinentes según las señales contextuales.
+El vocabulario del derecho internacional y la geopolítica es esencial para comprender las noticias mundiales. "Sanciones" es frecuentemente malinterpretado por estudiantes que confunden el sentido punitivo con el sentido religioso o el sentido de aprobación social. El distractor A es antonímico. El C describe "diplomacia" o "negociación". El D es una escalada más allá de las sanciones.
 
 ---
 
-## Question 13 (Variant Advanced - Difficulty D7)
+## Question 13 (Variant Basic - Difficulty D7)
 
 **ID:** `CO-LEC-11-P2-vocabulario-contexto-044-MASTERY-v13`
-**Bloom:** Analyze
-**ICFES:** Inferir significados de tecnicismos según el campo disciplinar del texto
-**Context:** Artículo de divulgación científica sobre matemáticas financieras aplicadas al ahorro pensiona
+**Bloom:** [Apply]
+**ICFES:** [Identificar el sentido de palabras o expresiones según el contexto]
+**Context:** [Derecho y justicia]
 
 ### Enunciado
-En el siguiente fragmento, ¿qué significa el término "tasa de reemplazo" para alguien que consulta información sobre pensiones?
-
-"Los economistas recomiendan que los trabajadores independientes calculen su tasa de reemplazo antes de pensionarse, ya que el sistema solo garantiza aproximadamente el 40% del ingreso promedio de cotización."
+En un fallo judicial se establece: "El principio de presunción de inocencia no admite excepciones en un estado de derecho." La expresión "presunción de inocencia" implica que:
 
 ### Options
-- [ ] A) El porcentaje del salario que un trabajador puede retirar anticipadamente de su fondo de pensiones <!-- feedback: confunde "tasa de reemplazo" con retiros anticipados, figura inexistente en sistemas de pensiones colombianas -->
-- [ ] B) La proporción entre la pensión que recibirá el afiliado y el último salario devengado antes de pensionarse <!-- feedback: es la definición correcta del tecnicismo en el contexto de finanzas pensionarias -->
-- [ ] C) El número de años que debe cotizar un trabajador para alcanzar el derecho a pensionarse plenamente <!-- feedback: confunde "tasa" (proporción/porcentaje) con "período" (tiempo), alterando la categoría gramatical del término -->
-- [ ] D) La edad específica a partir de la cual el sistema reconoce el status de pensionado del afiliado <!-- feedback: confunde "tasa de reemplazo" con la edad mínima de pensionamiento -->
+- [ ] A) Toda persona es culpable hasta que se demuestre lo contrario
+- [x] B) Una persona es considerada inocente mientras no se compruebe su culpabilidad <!-- feedback: Correcto. Es un principio jurídico fundamental que protege a los ciudadanos de condenas sin prueba -->
+- [ ] C) Los jueces deben asumir que todos mienten
+- [ ] D) Solo aplica en casos menores
 
 ### Explicación Pedagógica
-La "tasa de reemplazo" es un tecnicismo de las finanzas pensionarias que se refiere a la proporción o porcentaje entre la pensión que recibirá el afiliado y su último salario o ingreso promedio de cotización. En Colombia, esta tasa suele estar alrededor del 40-80% dependiendo del sistema. El distractor A introduce una figura inexistente. El distractor C confunde la categoría gramatical (tasa = proporción, no tiempo). El distractor D confunde con la edad de pensionamiento. Esta pregunta evalúa el conocimiento de tecnicismos financieros.
+La presunción de inocencia es un pilar del derecho penal moderno. Un error común es invertir la carga de la prueba. El distractor A es exactamente la inversión del principio. El C confunde el concepto con escepticismo judicial. El D resta universalidad al principio, limitándolo incorrectamente.
 
 ---
 
-## Question 14 (Variant Advanced - Difficulty D8)
+## Question 14 (Variant Basic - Difficulty D8)
 
 **ID:** `CO-LEC-11-P2-vocabulario-contexto-044-MASTERY-v14`
-**Bloom:** Evaluate
-**ICFES:** Evaluar la precisión léxica de un autor según el propósito comunicativo del texto
-**Context:** Carta abierta de organizaciones ambientales al Presidente sobre política climática
+**Bloom:** [Analyze]
+**ICFES:** [Evaluar estrategias argumentativas - análisis de recursos retóricos]
+**Context:** [Filosofía y ética]
 
 ### Enunciado
-En la carta abierta, el uso de la expresión "capitalismo verde" entre comillas sugiere que las organizaciones ambientales:
-
-"Los grupos ambientalistas señalan que el llamado 'capitalismo verde' promoted por alcune companies multinacionales no ha logrado reduzir las emisiones de carbono de manera significativa."
+En un ensayo sobre ética del consumo se lee: "La publicidad manipula los deseos de los jóvenes, transformándolos en súbditos del mercado." La palabra "súbditos" tiene una connotación:
 
 ### Options
-- [ ] A) Adoptan el término tal como lo usan las corporaciones, sin añadir matices valorativos <!-- feedback: el uso de comillas indica distancia crítica, no adopción neutral del término -->
-- [ ] B) Reconocen la existencia del concepto pero lo cuestionan o critican por su efectividad real <!-- feedback: las comillas cumplen función de distancia crítica, indicando escepticismo sobre la efectividad del concepto -->
-- [ ] C) Solicitan que el gobierno regule estrictamente el uso publicitario de esta expresión comercial <!-- feedback: las comillas no cumplen
+- [ ] A) Neutral y descriptiva
+- [ ] B) Positiva, de lealtad al sistema
+- [x] C) Crítica y peyorativa, comparando a los consumidores con subordinados de un reino <!-- feedback: Correcto. "Súbditos" evoca la sumisión política monárquica; usarla para consumidores implica una crítica al dominio del mercado sobre las personas -->
+- [ ] D) Solo económica, sin carga valorativa
+
+### Explicación Pedagógica
+El uso de "súbditos" es una metáfora deliberadamente política con carga crítica fuerte. Implica que los consumidores están sujetos a un poder que no eligen. El distractor A ignora la intención retórica. El B malinterpreta el tono. El D subestima la dimensión política de la palabra. El análisis debe captar la ironía y la crítica implícita.
+
+---
+
+## Question 15 (Variant Basic - Difficulty D8)
+
+**ID:** `CO-LEC-11-P2-vocabulario-contexto-044-MASTERY-v15`
+**Bloom:** [Understand]
+**ICFES:** [Interpretar el sentido global de un texto - identificación de significado contextual]
+**Context:** [Cultura y arte]
+
+### Enunciado
+En una crítica de cine se afirma: "La película logra una sutileza narrativa que obliga al espectador a rellenar los vacíos de la historia." La palabra "sutileza" aquí se refiere a:
+
+### Options
+- [ ] A) Exageración dramática excesiva
+- [ ] B) Violenciagraphic explícita
+- [x] C) Elegancia compleja en el tratamiento de los temas que requiere participación activa del espectador <!-- feedback: Correcto. La sutileza narrativa implica economía de medios expresivos y confianza en la capacidad del espectador para inferir -->
+- [ ] D) Falta de coherencia argumental
+
+### Explicación Pedagógica
+La sutileza en narrativa es un concepto estético que puede ser malinterpretado. Los estudiantes frecuentemente confunden "sutil" con "vago" o "incomprensible". El distractor A describe lo opuesto (exceso). El B es irrelevante al concepto. El D confunde sutileza con error estructural. La verdadera sutileza es una forma sofisticada de comunicación que deja espacio para la interpretación.
+
+---
+
+## Question 16 (Variant Basic - Difficulty D8)
+
+**ID:** `CO-LEC-11-P2-vocabulario-contexto-044-MASTERY-v16`
+**Bloom:** [Apply]
+**ICFES:** [Identificar el sentido de palabras o expresiones según el contexto]
+**Context:** [Comunicación y medios]
+
+### Enunciado
+En una noticia sobre medios de comunicación se lee: "El corporativismo mediático ha configurado un ecosistema informativo donde la diversidad es solo apariencia." La palabra "corporativismo" en este contexto se refiere a:
+
+### Options
+- [ ] A) Defensa de los derechos de los trabajadores
+- [x] B) Control de los medios por grandes corporaciones que priorizan el beneficio sobre la diversidad <!-- feedback: Correcto. El corporativismo mediático describe la concentración de medios enfew grandes grupos económicos que homogeneízan el discurso -->
+- [ ] C) Regulaciones estatales sobre noticias
+- [ ] D) Pluralismo ideológico en la radio
+
+### Explicación Pedagógica
+El corporativismo mediático es un concepto crítico en los estudios de comunicación. Los estudiantes pueden confundirlo con "corporativismo" sindical o político. El distractor A lo asocia con derechos laborales. El C lo confunde con regulación estatal. El D es contradictorio con la idea de concentración. La respuesta correcta implica comprender la tensión entre mercado y pluralismo informativo.
+
+---
+
+## Question 17 (Variant Basic - Difficulty D9)
+
+**ID:** `CO-LEC-11-P2-vocabulario-contexto-044-MASTERY-v17`
+**Bloom:** [Evaluate]
+**ICFES:** [Evaluar estrategias argumentativas - análisis de recursos retóricos]
+**Context:** [Educación y reformas]
+
+### Enunciado
+En un debate sobre la reforma educativa, un educator comentou: "Laisser-faire en política educativa ha permitido que la calidad se deteriore progresivamente." El término "laisser-faire" significa:
+
+### Options
+- [ ] A) Intervención estatal masiva en la educación
+- [ ] B) Planificación centralizada del currículo
+- [x] C) No intervención del Estado, dejando que el mercado y la oferta educativa se regulen solos <!-- feedback: Correcto. "Laissez-faire" es un princípio económico de no intervención que, aplicado a educación, implica retiro del Estado de la regulación y supervisión -->
+- [ ] D) Huelga de profesores
+
+### Explicación Pedagógica
+El "laisez-faire" es un concepto importado de la economía clásica que usado en educación implica minimalismo estatal. Los estudiantes frecuentemente no conocen el término o lo confunden. El distractor A es la antítesis. El B describe algo diferente (centralismo). El D reduce la complejidad a un fenómeno laboral. Comprender este término implica capacidad de análisis crítico sobre modelos de políticas públicas.
+
+---
+
+## Question 18 (Variant Basic - Difficulty D9)
+
+**ID:** `CO-LEC-11-P2-vocabulario-contexto-044-MASTERY-v18`
+**Bloom:** [Analyze]
+**ICFES:** [Evaluar estrategias argumentativas - análisis de recursos retóricos]
+**Context:** [Ciencia y controversia]
+
+### Enunciado
+En un artículo sobre alimentos genéticamente modificados se lee: "El principio de precaución no debe ser un pretexto para el Ludditaismo científico." La palabra "Ludditaismo" se usa en sentido figurado para referirse a:
+
+### Options
+- [ ] A) Fanatismo religioso contra la ciencia
+- [x] B) Rechazo irracional al progreso tecnológico sin considerar sus beneficios <!-- feedback: Correcto. El luddismo original fue un movimiento obrero que destruía máquinas; hoy se usa metafóricamente para describir rechazo visceral a la innovación -->
+- [ ] C) Estudio profundo de los riesgos tecnológicos
+- [ ] D) Aprobación acrítica de toda tecnología nueva
+
+### Explicación Pedagógica
+El uso figurado de "luddismo" requiere comprensión de su origen histórico y su aplicación moderna en debates tecnológicos. Los estudiantes deben inferir el sentido a partir del contexto. El distractor A introduce un elemento religioso ausente. El C le da una dimensión racional que contradice el sentido peyorativo. El D es lo opuesto al significado.
+
+---
+
+## Question 19 (Variant Basic - Difficulty D10)
+
+**ID:** `CO-LEC-11-P2-vocabulario-contexto-044-MASTERY-v19`
+**Bloom:** [Create]
+**ICFES:** [Producir inferencias a partir del texto - construcción de hipótesis interpretativas]
+**Context:** [Filosofía política y ciudadanía]
+
+### Enunciado
+En un ensayo sobre democracia participativa se afirma: "La apatía ciudadana es el síntoma de una franquicia democrática vacía de contenido sustancial." La palabra "franquicia" en este contexto significa:
+
+### Options
+- [ ] A) Un local comercial
+- [ ] B) Un premio o reconocimiento
+- [ ] C) Una franquició determination electoral automática
+- [x] D) El derecho formal a participar que existe en la ley pero que no se convierte en participación real <!-- feedback: Correcto. En sentido político, "franquicia" proviene de "franchise" (derecho, privilegio). La expresión "franquicia vacía" critica que los derechos ciudadanos existen nominalmente pero no se traducen en participación sustantiva -->
+
+### Explicación Pedagógica
+El uso de "franquicia" en sentido político-democrático es un anglicismo jurídico. La metáfora de "vacía" sugiere que el derecho existe formalmente pero no tiene contenido real. Los estudiantes pueden confundir con el sentido comercial. El distractor A es literal-comercial. El B es另外一个 dominio semántico. El C mezcla sentidos y crea una expresión híbrida inexistente.
+
+---
+
+## Question 20 (Variant Basic - Difficulty D10)
+
+**ID:** `CO-LEC-11-P2-vocabulario-contexto-044-MASTERY-v20`
+**Bloom:** [Evaluate]
+**ICFES:** [Evaluar estrategias argumentativas - análisis de recursos retóricos]
+**Context:** [Medio ambiente y activismo]
+
+### Enunciado
+En una columna sobre el cambio climático se lee: "El negacionismo climático de ciertos sectores empresariales es una forma de obfuscación deliberada que busca ganar tiempo." La palabra "obfuscación" significa:
+
+### Options
+- [ ] A) Aceptación clara y transparente
+- [ ] B) Investigación científica exhaustiva
+- [x] C) Ofuscamiento o confusión deliberada para ocultar la verdad y dificultar la comprensión <!-- feedback: Correcto. "Obfuscación" proviene del latín y significa oscurecer, confundir, hacer difícil de percibir. Implica una estrategia consciente de desinformación -->
+- [ ] D)

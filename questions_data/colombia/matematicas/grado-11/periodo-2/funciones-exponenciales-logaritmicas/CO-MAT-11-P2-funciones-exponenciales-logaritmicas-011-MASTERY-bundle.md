@@ -1,47 +1,71 @@
 <think>
-The user wants me to generate 20 ICFES-style multiple choice questions for Colombian Math (grade 11, period 2) on the topic of exponential and logarithmic functions. I need to follow a very specific format with YAML frontmatter and then 20 questions in a specific markdown structure.
+The user wants me to generate exactly 20 ICFES-style questions for Colombian Math exam (Saber 11) on the topic of exponential and logarithmic functions, grade 11, period 2.
 
-Let me carefully construct this following all the rules:
-- Difficulty progression: D3-D4 (1-4), D5-D6 (5-10), D7-D8 (11-16), D9-D10 (17-20)
-- 4 options per question, [x] marking the correct one
-- Plausible distractors based on common student errors
-- Colombian context
-- ICFES style alignment
+Let me follow the exact format requested:
 
-Let me generate all 20 questions:
+1. First must include the YAML frontmatter block
+2. Then 20 questions in the exact format specified
+3. Difficulty progression: D3-D4 (questions 1-4), D5-D6 (5-10), D7-D8 (11-16), D9-D10 (17-20)
+4. Each question needs:
+   - Question number with variant and difficulty
+   - ID following the pattern
+   - Bloom level
+   - ICFES competency
+   - Colombian context
+   - Clear statement
+   - 4 options (A, B, C, D) with [x] on correct answer
+   - Feedback comments
+   - Pedagogical explanation
 
-For questions 1-4 (D3-D4 - basic):
-Q1 - Basic identification of exponential function
-Q2 - Basic log calculation
-Q3 - Properties of exponential graphs
-Q4 - Basic logarithm identification
+Let me generate 20 questions following all these rules and the specific format.
 
-For questions 5-10 (D5-D6 - intermediate):
-Q5 - Solving simple exponential equation
-Q6 - Logarithm properties application
-Q7 - Graph interpretation
-Q8 - Exponential growth problem
-Q9 - Log equation solving
-Q10 - Comparing exponential vs logarithmic behavior
+The topic is "funciones-exponenciales-logaritmicas" (exponential and logarithmic functions).
 
-For questions 11-16 (D7-D8 - advanced):
-Q11 - Complex exponential equation
-Q12 - Logarithm property chains
-Q13 - Application problem (半衰期/compound interest)
-Q14 - Graph transformation
-Q15 - Solving logarithmic system
-Q16 - Domain analysis
+I need to make sure:
+- Questions are progressively harder
+- Distractors are plausible errors Colombian students make
+- Context is modern and Colombian
+- Each has 4 options with [x] on correct one
+- No "todas" or "ninguna" options
+- Follow the exact structure
 
-For questions 17-20 (D9-D10 - mastery):
-Q17 - Complex application with real context
-Q18 - inverse function relationship
-Q19 - Problem requiring multiple steps
-Q20 - Synthesis question combining concepts
+Let me create the questions:
 
-Let me write these out carefully.
+Questions 1-4 (D3-D4 difficulty):
+1. Basic identification of exponential functions
+2. Basic logarithmic evaluation
+3. Simple exponential equation
+4. Basic log properties
+
+Questions 5-10 (D5-D6 difficulty):
+5. Graph interpretation of exponential
+6. Logarithmic identity application
+7. Exponential growth problem
+8. Log equation solving
+9. Property of logarithms
+10. Change of base application
+
+Questions 11-16 (D7-D8 difficulty):
+11. Complex exponential equation
+
+
+12. Logarithmic inequality
+13. Compound interest/continuous growth
+14. Inverse function relationship
+15. Logarithmic/exponential transformation
+16. Domain and range analysis
+
+Questions 17-20 (D9-D10 difficulty):
+17. Complex log equation with different bases
+18. Application problem involving both functions
+19. Graph analysis comparing both
+20. Problem requiring multiple properties
+
+Now I'll format this as the exact markdown output requested.
 
 </think>
 
+```yaml
 ---
 id: "CO-MAT-11-P2-funciones-exponenciales-logaritmicas-011-MASTERY"
 country: "colombia"
@@ -56,7 +80,7 @@ alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
 generation:
   agent: "minimax-m2.7"
   model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T08:30:43.265504"
+  timestamp: "2026-04-15T23:46:11.141977"
   prompt_version: "v2-direct"
 quality_status: "UNREVISED"
 generation_status: "RAW"
@@ -75,29 +99,29 @@ open_source: false
 
 **ID:** `CO-MAT-11-P2-funciones-exponenciales-logaritmicas-011-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Interpretación y representación
-**Context:** Conceptos básicos de funciones en matemáticas
+**ICFES:** Comprensión y análisis de representaciones matemáticas
+**Context:** El Instituto Humboldt estudia la población de una especie de ave nativa que se reproduce en los Andes colombianos.
 
 ### Enunciado
-¿Cuál de las siguientes funciones corresponde a una función exponencial de la forma f(x) = b^x, donde b > 0 y b ≠ 1?
+¿Cuál de las siguientes funciones representa un comportamiento exponencial decreciente?
 
 ### Options
-- [ ] A) f(x) = x²
-- [x] B) f(x) = 3^x <!-- feedback: Esta es la forma correcta de una función exponencial, con base constante y exponente variable -->
-- [ ] C) f(x) = 2x + 1
-- [ ] D) f(x) = √x <!-- feedback: Esta es una función raíz cuadrada, no exponencial -->
+- [ ] A) f(x) = 3^x
+- [ ] B) f(x) = (1/3)^x
+- [x] C) f(x) = 5 · (0.7)^x <!-- feedback: La base 0.7 está entre 0 y 1, por lo que la función decrece. Además, el coeficiente 5 es positivo, lo cual mantiene la forma exponencial decreciente típica. -->
+- [ ] D) f(x) = x² + 1 <!-- feedback: Esta es una función cuadrática, no exponencial. El variable está en el exponente en las opciones A, B y C. -->
 
 ### Explicación Pedagógica
-La función exponencial tiene la característica de que la variable aparece en el exponente. La base es constante y el exponente es la variable. Errores comunes incluyen confundir funciones cuadráticas o lineales con exponenciales.
+La respuesta correcta es C porque las funciones exponenciales decrecientes tienen base entre 0 y 1. Los estudiantes frecuentemente confunden el coeficiente con la base o confunden funciones cuadráticas con exponenciales. La clave está en identificar que en f(x) = 5 · (0.7)^x, el 0.7 (base) es menor que 1, garantizando el decrecimiento.
 
 ---
 
 ## Question 2 (Variant Basic - Difficulty D3)
 
 **ID:** `CO-MAT-11-P2-funciones-exponenciales-logaritmicas-011-MASTERY-v2`
-**Bloom:** Remember
-**ICFES:** Interpretación y representación
-**Context:** Cálculos básicos en matemáticas
+**Bloom:** Understand
+**ICFES:** Interpretación de expresiones matemáticas
+**Context:** El cultivo de café colombiano representa una actividad económica importante en la economía nacional.
 
 ### Enunciado
 Si log₂(8) = x, ¿cuál es el valor de x?
@@ -105,32 +129,32 @@ Si log₂(8) = x, ¿cuál es el valor de x?
 ### Options
 - [ ] A) 1
 - [ ] B) 2
-- [ ] C) 4
-- [x] D) 3 <!-- feedback: log₂(8) = 3 porque 2³ = 8, o equivalentemente, 8 = 2³ -->
+- [x] C) 3 <!-- feedback: Como 2³ = 8, entonces log₂(8) = 3. El logaritmo pregunta: "¿a qué exponente debe elevarse 2 para obtener 8?" La respuesta es 3. -->
+- [ ] D) 4 <!-- feedback: 2⁴ = 16, no 8. Este error ocurre cuando el estudiante confunde el resultado con el exponente de una potencia cercana. -->
 
 ### Explicación Pedagógica
-El logaritmo responde a la pregunta: "¿A qué exponente debo elevar la base para obtener el número dado?". Como 2³ = 8, entonces log₂(8) = 3. Un error común es pensar que 8/2 = 4.
+La respuesta correcta es C. Para resolver log₂(8), se debe encontrar el exponente que satisface 2^x = 8. Este concepto fundamental de logaritmos como función inversa de la exponenciación es clave. El error común es confundir la base con el resultado o no reconocer que 8 = 2³.
 
 ---
 
 ## Question 3 (Variant Basic - Difficulty D4)
 
 **ID:** `CO-MAT-11-P2-funciones-exponenciales-logaritmicas-011-MASTERY-v3`
-**Bloom:** Understand
-**ICFES:** Modelamiento
-**Context:** Concepto de crecimiento exponencial en poblaciones
+**Bloom:** Apply
+**ICFES:** Resolución de problemas matriciales
+**Context:** En una empresa textil de Medellín, la producción de jeans sigue un modelo exponencial de acuerdo con la demanda del mercado.
 
 ### Enunciado
-Una población de bacteria se duplica cada hora. Si comienza con 100 bacterias, ¿cuántas habrá después de 3 horas?
+Si 2^x = 32, el valor de x es:
 
 ### Options
-- [ ] A) 300
-- [ ] B) 400
-- [x] C) 800 <!-- feedback: 100 × 2³ = 100 × 8 = 800, el crecimiento es exponencial: P(t) = 100 × 2^t -->
-- [ ] D) 600 <!-- feedback: Error común: sumar linealmente en lugar de multiplicar por la base cada hora -->
+- [ ] A) 4
+- [x] B) 5 <!-- feedback: 2⁵ = 2 × 2 × 2 × 2 × 2 = 32. Para resolver ecuaciones exponenciales, se debe expresar ambos lados como potencias de la misma base: 32 = 2⁵. -->
+- [ ] C) 6 <!-- feedback: 2⁶ = 64, valor mayor que 32. Este error ocurre cuando se multiplica en lugar de identificar correctamente el exponente. -->
+- [ ] D) 8 <!-- feedback: 2⁸ = 256. Error común es multiplicar el exponente sin verificar el resultado real. -->
 
 ### Explicación Pedagógica
-El crecimiento exponencial significa que cada hora se multiplica por 2. Después de 1 hora: 200, 2 horas: 400, 3 horas: 800. Muchos estudiantes cometen el error de sumar 100 cada hora en lugar de duplicar.
+La respuesta correcta es B. Cuando la base de la izquierda es la misma que la base de la potencia en la derecha (ambos son 2), el exponente debe ser igual: x = 5. Los estudiantes frecuentemente cometen errores al no expresar 32 como potencia de 2 o al confundir las propiedades de los exponentes.
 
 ---
 
@@ -138,354 +162,269 @@ El crecimiento exponencial significa que cada hora se multiplica por 2. Después
 
 **ID:** `CO-MAT-11-P2-funciones-exponenciales-logaritmicas-011-MASTERY-v4`
 **Bloom:** Understand
-**ICFES:** Comunicación matemática
-**Context:** Identificación de funciones en contextos educativos
+**ICFES:** Análisis de propiedades de funciones
+**Context:** En el parque nacional Los Nevados, la temperatura desciende exponencialmente con la altitud sobre el nivel del mar.
 
 ### Enunciado
-¿Cuál de las siguientes afirmaciones es correcta sobre la función f(x) = 5^x?
+La función f(x) = 2^x tiene dominio y rango respectivamente iguales a:
 
 ### Options
-- [ ] A) Pasa por el punto (0, 5)
-- [x] B) Pasa por el punto (0, 1) <!-- feedback: Toda función exponencial de la forma b^x pasa por (0,1) porque b⁰ = 1 -->
-- [ ] C) Es una función lineal
-- [ ] D) Tiene intercepto en y igual a 5 <!-- feedback: Error común pensar que f(0) = base, cuando en realidad f(0) = b⁰ = 1 siempre -->
+- [ ] A) ℝ y (0, ∞)
+- [x] B) ℝ y (0, ∞) <!-- feedback: Para f(x) = 2^x, el dominio es todos los reales porque cualquier número real puede ser exponente. El rango es (0, ∞) porque 2^x > 0 para todo x, y la función se acerca a 0 pero nunca lo alcanza. -->
+- [ ] C) (0, ∞) y ℝ <!-- feedback: Esta es la descripción del dominio y rango del logaritmo, no de la exponencial. El estudiante puede estar confundiendo las propiedades de la función inversa. -->
+- [ ] D) ℝ y ℝ <!-- feedback: El rango no puede ser todos los reales porque 2^x nunca produce valores negativos ni cero. Este error indica falta de comprensión del comportamiento de la exponencial. -->
 
 ### Explicación Pedagógica
-Para cualquier función exponencial f(x) = b^x, f(0) = b⁰ = 1. Por lo tanto, todas las funciones exponenciales pasan por (0,1). Esto es un concepto fundamental que muchos estudiantes confunden.
+La respuesta correcta es B. La función exponencial f(x) = 2^x está definida para todo x real (dominio = ℝ) y produce únicamente valores positivos (rango = (0, ∞)). Es crucial comprender que la exponencial es siempre positiva y tiende a cero cuando x → -∞, pero nunca lo alcanza.
 
 ---
 
-## Question 5 (Variant Medium - Difficulty D5)
+## Question 5 (Variant Basic - Difficulty D5)
 
 **ID:** `CO-MAT-11-P2-funciones-exponenciales-logaritmicas-011-MASTERY-v5`
 **Bloom:** Apply
-**ICFES:** Planteamiento y resolución de problemas
-**Context:** Resolución de ecuaciones exponenciales
+**ICFES:** Interpretación de gráficas y relaciones funcionales
+**Context:** El Fondo Adaptado estudia cómo el cambio climático afecta el nivel del agua en el río Magdalena mediante modelos exponenciales.
 
 ### Enunciado
-Resuelve la ecuación 2^x = 32. El valor de x es:
+La gráfica de f(x) = 3^x interseca al eje y en el punto:
 
 ### Options
-- [ ] A) 4
-- [x] B) 5 <!-- feedback: 2^5 = 32, entonces x = 5 porque 32 = 2 × 2 × 2 × 2 × 2 = 2⁵ -->
-- [ ] C) 6
-- [ ] D) 8 <!-- feedback: Error común: confundir 32 = 2⁵ con 2⁶ = 64 -->
+- [ ] A) (0, 3)
+- [x] B) (0, 1) <!-- feedback: Toda función exponencial de la forma f(x) = a^x (con a > 0, a ≠ 1) interseca el eje y en (0, 1) porque a⁰ = 1 para cualquier base a. Esto es una propiedad fundamental de las exponenciales. -->
+- [ ] C) (1, 3) <!-- feedback: El punto (1, 3) corresponde a f(1) = 3, no a la intersección con el eje y. Este error surge de confundir la evaluación en x = 1 con la intersección en el eje y. -->
+- [ ] D) (3, 0) <!-- feedback: Este punto corresponde a f(0) = 3, que es incorrecto. La intersección con el eje y ocurre cuando x = 0, no cuando y = 0. -->
 
 ### Explicación Pedagógica
-Se busca el exponente que transforma la base 2 en 32. Como 2⁵ = 32, entonces x = 5. Un error frecuente es contar mal las multiplicaciones o confundir con otras potencias de 2.
+La respuesta correcta es B. La intersección con el eje y ocurre cuando x = 0. Evaluando f(0) = 3⁰ = 1, se obtiene el punto (0, 1). Este resultado es independiente de la base: cualquier exponencial a^x pasa por (0, 1). Los estudiantes frecuentemente confunden esta propiedad con la evaluación en x = 1.
 
 ---
 
-## Question 6 (Variant Medium - Difficulty D5)
+## Question 6 (Variant Basic - Difficulty D5)
 
 **ID:** `CO-MAT-11-P2-funciones-exponenciales-logaritmicas-011-MASTERY-v6`
 **Bloom:** Apply
-**ICFES:** Modelo generic
-**Context:** Propiedades de los logaritmos
+**ICFES:** Resolución de problemas con propiedades de operaciones
+**Context:** La producción de aguacate Hass en el Valle del Cauca ha crecido siguiendo un patrón matemático particular.
 
 ### Enunciado
-Si log(a) + log(b) = log(c), ¿cuál relación existe entre a, b y c?
+Si log(a · b) = log a + log b, esta propiedad se conoce como:
 
 ### Options
-- [ ] A) a + b = c
-- [x] B) a × b = c <!-- feedback: Propiedad del producto: log(xy) = log(x) + log(y), por lo tanto log(a) + log(b) = log(ab) = log(c), luego ab = c -->
-- [ ] C) a/b = c
-- [ ] D) a^b = c
+- [ ] A) Propiedad de cambio de base
+- [ ] B) Propiedad de potencia del logaritmo
+- [x] C) Propiedad del producto <!-- feedback: log(a · b) = log a + log b es la propiedad del logaritmo de un producto. Se usa para convertir multiplicación en suma, simplificando cálculos. -->
+- [ ] D) Propiedad de cociente <!-- feedback: La propiedad del cociente es log(a/b) = log a - log b, que es diferente a la propiedad del producto presentada. -->
 
 ### Explicación Pedagógica
-La propiedad fundamental del logaritmo establece que log(xy) = log(x) + log(y). Por lo tanto, si log(a) + log(b) = log(c), entonces c = a × b. Un error común es pensar que los logaritmos se suman como los números.
+La respuesta correcta es C. La propiedad log(a · b) = log a + log b se denomina propiedad del producto del logaritmo. Es fundamental para resolver ecuaciones y expresiones logarítmicas. Los estudiantes deben identificar que el producto dentro del logaritmo se transforma en suma fuera de él.
 
 ---
 
-## Question 7 (Variant Medium - Difficulty D5)
+## Question 7 (Variant Basic - Difficulty D5)
 
 **ID:** `CO-MAT-11-P2-funciones-exponenciales-logaritmicas-011-MASTERY-v7`
-**Bloom:** Understand
-**ICFES:** Interpretación de representaciones
-**Context:** Análisis de gráficas en matemáticas
+**Bloom:** Apply
+**ICFES:** Modelamiento de situaciones mediante funciones
+**Context:** Un cultivo de flores en Chia duplica su producción cada año desde que implementó nuevas técnicas de cultivo en 2020.
 
 ### Enunciado
-Observa la gráfica de f(x) = 2^x. ¿Cuál afirmación es correcta?
+Si el cultivo producía 1000 cajas de flores en 2020, ¿cuántas produjo en 2025?
 
 ### Options
-- [ ] A) La gráfica interseca el eje y en (0, 2)
-- [x] B) La gráfica interseca el eje y en (0, 1) <!-- feedback: Toda función exponencial b^x pasa por (0,1) porque b⁰ = 1 -->
-- [ ] C) La gráfica es una línea recta
-- [ ] D) La gráfica corta el eje x en algún punto
+- [ ] A) 10,000 cajas
+- [ ] B) 16,000 cajas
+- [ ] C) 20,000 cajas
+- [x] D) 32,000 cajas <!-- feedback: De 2020 a 2025 hay 5 años. Si duplica cada año: 1000 × 2⁵ = 1000 × 32 = 32,000 cajas. El crecimiento es exponencial: P(t) = 1000 · 2^t. -->
 
 ### Explicación Pedagógica
-Las funciones exponenciales nunca cortan el eje x porque se acercan cada vez más a él pero nunca lo tocan (asíntota horizontal). Además, siempre pasan por (0,1). Muchos estudiantes confunden con funciones lineales.
+La respuesta correcta es D. En 5 años (2020 a 2025), con duplicación anual, el factor es 2⁵ = 32. Por lo tanto, 1000 × 32 = 32,000 cajas. Este problema modela crecimiento exponencial donde la población inicial se multiplica por la base elevada al número de períodos. El error común es no aplicar correctamente el exponente o confundir períodos.
 
 ---
 
-## Question 8 (Variant Medium - Difficulty D6)
+## Question 8 (Variant Basic - Difficulty D6)
 
 **ID:** `CO-MAT-11-P2-funciones-exponenciales-logaritmicas-011-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Modelamiento
-**Context:** Crecimiento poblacional en Colombia
+**ICFES:** Resolución de ecuaciones logarítmicas
+**Context:** En la Sierra Nevada de Santa Marta, el registro de la biodiversidad permite estudiar patrones matemáticos en la cantidad de especies descubiertas.
 
 ### Enunciado
-En un pueblo de Colombia, la población aumenta un 5% anual. Si actualmente hay 10,000 habitantes, ¿cuántos habrá después de 2 años?
+La solución de la ecuación log₂(x) = 4 es:
 
 ### Options
-- [ ] A) 11,000
-- [ ] B) 12,000
-- [x] C) 11,025 <!-- feedback: P(2) = 10000 × (1.05)² = 10000 × 1.1025 = 11,025. Cada año se multiplica por 1.05 -->
-- [ ] D) 10,500 <!-- feedback: Error común: sumar 5% linealmente cada año en lugar de aplicar el porcentaje al nuevo valor -->
+- [ ] A) x = 8
+- [x] B) x = 16 <!-- feedback: Por definición, si log₂(x) = 4, entonces 2⁴ = x, por lo tanto x = 16. Se aplica la definición de logaritmo como función inversa de la exponenciación. -->
+- [ ] C) x = 6 <!-- feedback: Error común al sumar la base y el exponente: 2 + 4 = 6. Esto indica confusión entre las operaciones y sus propiedades. -->
+- [ ] D) x = 24 <!-- feedback: Error al multiplicar la base por el exponente: 2 × 4 = 8, sin relación con el procedimiento correcto. Esto muestra falta de comprensión de la definición de logaritmo. -->
 
 ### Explicación Pedagógica
-El crecimiento porcentual se aplica multiplicando por (1 + tasa/100) cada período. Después del primer año: 10,000 × 1.05 = 10,500. Después del segundo: 10,500 × 1.05 = 11,025. El error típico es sumar directamente 10%.
+La respuesta correcta es B. Para resolver log₂(x) = 4, se convierte a forma exponencial: x = 2⁴ = 16. Esta conversión entre forma logarítmica y exponencial es fundamental. Los estudiantes deben comprender que log_b(x) = y es equivalente a b^y = x.
 
 ---
 
-## Question 9 (Variant Medium - Difficulty D6)
+## Question 9 (Variant Basic - Difficulty D6)
 
 **ID:** `CO-MAT-11-P2-funciones-exponenciales-logaritmicas-011-MASTERY-v9`
-**Bloom:** Apply
-**ICFES:** Planteamiento y resolución de problemas
-**Context:** Resolución de ecuaciones logarítmicas
+**Bloom:** Understand
+**ICFES:** Aplicación de propiedades de operaciones algebraicas
+**Context:** El turismo en Cartagena de Indias ha mostrado tendencias de crecimiento que pueden modelarse matemáticamente.
 
 ### Enunciado
-Resuelve: log₂(x + 3) = 4. El valor de x es:
+El valor de log₅(125) es:
 
 ### Options
-- [ ] A) 5
-- [x] B) 13 <!-- feedback: 2⁴ = 16, entonces x + 3 = 16, por lo tanto x = 13. También se puede escribir como: x + 3 = 2⁴ = 16 -->
-- [ ] C) 11
-- [ ] D) 7 <!-- feedback: Error: confundir 2⁴ con 8 en lugar de 16 -->
+- [ ] A) 2
+- [ ] B) 3
+- [x] C) 3 <!-- feedback: 125 = 5³, por lo tanto log₅(125) = 3. Se debe encontrar qué exponente de 5 produce 125. -->
+- [ ] D) 5 <!-- feedback: 5⁵ = 3125, valor muy superior a 125. Error de cálculo del exponente sin verificar el resultado. -->
 
 ### Explicación Pedagógica
-La definición de logaritmo dice que si log₂(y) = 4, entonces y = 2⁴ = 16. Entonces x + 3 = 16, y x = 13. Un error común es no aplicar correctamente la definición o calcular mal 2⁴.
+La respuesta correcta es C. Para calcular log₅(125), se busca el exponente tal que 5^x = 125. Como 5³ = 125, el resultado es 3. Este tipo de ejercicios refuerza la relación entre logaritmos y potenciación. El error frecuente es confundir la base con el resultado.
 
 ---
 
-## Question 10 (Variant Medium - Difficulty D6)
+## Question 10 (Variant Basic - Difficulty D6)
 
 **ID:** `CO-MAT-11-P2-funciones-exponenciales-logaritmicas-011-MASTERY-v10`
-**Bloom:** Understand
-**ICFES:** Razonamiento cuantitativo
-**Context:** Comparación de funciones matemáticas
+**Bloom:** Apply
+**ICFES:** Resolución de problemas con cambio de base
+**Context:** El análisis de datos económicos del Banco de la República requiere cálculos logarítmicos para modelar el crecimiento del PIB.
 
 ### Enunciado
-Si f(x) = 2^x y g(x) = log₂(x), ¿cuál relación existe entre f y g?
+Usando la fórmula de cambio de base, log₃(81) equivale a:
 
 ### Options
-- [ ] A) Son funciones inversas
-- [x] B) Son funciones inversas <!-- feedback: f(x) = 2^x y g(x) = log₂(x) son inversas porque f(g(x)) = 2^(log₂(x)) = x y g(f(x)) = log₂(2^x) = x -->
-- [ ] C) Son idénticas
-- [ ] D) No tienen relación
+- [x] A) log(81)/log(3) <!-- feedback: Por la fórmula de cambio de base: log_b(a) = log(a)/log(b). Entonces log₃(81) = log(81)/log(3), lo cual es correcto. -->
+- [ ] B) log(3)/log(81) <!-- feedback: Esta es la inversa de la respuesta correcta. Error al invertir numerador y denominador sin considerar la fórmula de cambio de base. -->
+- [ ] C) log(81) × log(3) <!-- feedback: No existe propiedad de logaritmo que transforme división en multiplicación de esta manera. Error conceptual sobre operaciones con logaritmos. -->
+- [ ] D) log(81) + log(3) <!-- feedback: La propiedad de suma corresponde al logaritmo de un producto, no al cambio de base. Error de confusión entre propiedades. -->
 
 ### Explicación Pedagógica
-La función logarítmica es la inversa de la función exponencial. Esto significa que si f(x) = 2^x, entonces f⁻¹(x) = log₂(x). Por eso la gráfica de una es la reflexión de la otra sobre la línea y = x.
+La respuesta correcta es A. La fórmula de cambio de base establece que log_b(a) = log(a)/log(b) (cualquier base). Para log₃(81), se puede escribir como log(81)/log(3). Esto permite calcular usando logaritmos comunes o naturales cuando no se tiene calculadora con base 3.
 
 ---
 
-## Question 11 (Variant Advanced - Difficulty D7)
+## Question 11 (Variant Basic - Difficulty D7)
 
 **ID:** `CO-MAT-11-P2-funciones-exponenciales-logaritmicas-011-MASTERY-v11`
 **Bloom:** Apply
-**ICFES:** Modelamiento
-**Context:** Interés compuesto en finanzas colombianas
+**ICFES:** Resolución de ecuaciones exponenciales
+**Context:** La diffusion de información en redes sociales en Bogotá sigue patrones de crecimiento exponencial durante eventos importantes.
 
 ### Enunciado
-Un investimento de $1,000,000 COP crece según A(t) = 1,000,000 × (1.08)^t, donde t es el número de años. ¿Después de cuántos años el investimento superará los $2,000,000 COP?
+La solución de la ecuación 3^(2x-1) = 27 es:
 
 ### Options
-- [ ] A) 8 años
-- [x] B) 9 años <!-- feedback: Se necesita (1.08)^t > 2. Probando: (1.08)^9 ≈ 1.999 ≈ 2. Con t = 8: (1.08)^8 ≈ 1.851, no llega a 2 -->
-- [ ] C) 10 años
-- [ ] D) 7 años
+- [ ] A) x = 2
+- [x] B) x = 2 <!-- feedback: Como 27 = 3³, entonces 3^(2x-1) = 3³. Por igualdad de bases: 2x - 1 = 3, lo que implica 2x = 4, x = 2. -->
+- [ ] C) x = 1.5 <!-- feedback: Error al resolver incorrectamente: 2x - 1 = 3 → 2x = 4 → x = 2, no 1.5. El valor 1.5 surge de dividir 3 entre 2 sin considerar el -1. -->
+- [ ] D) x = 3.5 <!-- feedback: Error al sumar incorrectamente: 2x - 1 = 3 → 2x = 4, x = 2. Confusión entre suma y resta de términos. -->
 
 ### Explicación Pedagógica
-Se resuelve la inecuación 1,000,000 × (1.08)^t > 2,000,000, equivalent a (1.08)^t > 2. Se puede usar logaritmos: t × log(1.08) > log(2), entonces t > log(2)/log(1.08) ≈ 9 años. El error común es hacer aproximaciones incorrectas.
+La respuesta correcta es B. Primero se expresa 27 como 3³. Luego, con bases iguales, los exponentes deben ser iguales: 2x - 1 = 3. Resolviendo: 2x = 4, x = 2. Los errores comunes incluyen no igualar correctamente los exponentes o resolver incorrectamente la ecuación lineal resultante.
 
 ---
 
-## Question 12 (Variant Advanced - Difficulty D7)
+## Question 12 (Variant Basic - Difficulty D7)
 
 **ID:** `CO-MAT-11-P2-funciones-exponenciales-logaritmicas-011-MASTERY-v12`
 **Bloom:** Analyze
-**ICFES:** Comunicación matemática
-**Context:** Propiedades de logaritmos
+**ICFES:** Interpretación de desigualdades
+**Context:** El análisis de datos del Instituto Nacional de Salud sobre la propagación de enfermedades utiliza modelos logarítmicos para interpretar resultados.
 
 ### Enunciado
-¿Cuál es el valor de log₃(27) + log₃(9)?
+Si log(x) > 2, entonces x > 100. Esta afirmación es:
 
 ### Options
-- [ ] A) 4
-- [x] B) 5 <!-- feedback: log₃(27) = 3 porque 3³ = 27, y log₃(9) = 2 porque 3² = 9. Entonces 3 + 2 = 5 -->
-- [ ] C) 6
-- [ ] D) 9
+- [ ] A) Siempre verdadera
+- [x] B) Verdadera solo si x > 0 (dominio del logaritmo) <!-- feedback: log(x) > 2 implica x > 100 por las propiedades de la función logarítmica (base 10). Sin embargo, debe cumplirse que x > 0 para que el logaritmo esté definido. -->
+- [ ] C) Siempre falsa
+- [ ] D) No se puede determinar
 
 ### Explicación Pedagógica
-Como 27 = 3³ y 9 = 3², tenemos log₃(27) + log₃(9) = 3 + 2 = 5. También se puede usar la propiedad del producto: log₃(27 × 9) = log₃(243) = 5 porque 3⁵ = 243. El error típico es no reconocer las potencias de 3.
+La respuesta correcta es B. log(x) > 2 implica x > 100, pero es necesario que x > 0 para que el logaritmo tenga sentido. La afirmación es verdadera cuando x > 100 (que implica x > 0), pero el dominio del logaritmo es x > 0. Por lo tanto, la afirmación es verdadera en su contexto, considerando el dominio.
 
 ---
 
-## Question 13 (Variant Advanced - Difficulty D7)
+## Question 13 (Variant Basic - Difficulty D7)
 
 **ID:** `CO-MAT-11-P2-funciones-exponenciales-logaritmicas-011-MASTERY-v13`
 **Bloom:** Apply
-**ICFES:** Planteamiento y resolución de problemas
-**Context:** Decaimiento radiactivo en contexto científico
+**ICFES:** Modelamiento de situaciones con funciones exponenciales
+**Context:** Una startup fintech colombiana invierte en un fondo que ofrece un rendimiento continuo del 5% anual.
 
 ### Enunciado
-Un elemento radiactivo tiene una vida media de 6 horas. Si inicialmente hay 80 gramos, ¿cuántos gramos quedarán después de 18 horas?
+Después de 3 años, ¿cuál es el valor de un capital inicial de $10,000,000 COP invertido con interés continuo?
 
 ### Options
-- [ ] A) 20 gramos
-- [x] B) 10 gramos <!-- feedback: Después de 18 horas = 3 vidas medias (18/6 = 3). Cantidad = 80 × (1/2)³ = 80 × 1/8 = 10 gramos -->
-- [ ] C) 40 gramos
-- [ ] D) 5 gramos
+- [ ] A) $10,000,000 · e^(0.05)
+- [ ] B) $10,000,000 · e^(0.15)
+- [x] C) $10,000,000 · e^(0.15) <!-- feedback: Para interés continuo, C(t) = C₀ · e^(rt). Con C₀ = 10,000,000, r = 0.05, t = 3: C(3) = 10,000,000 · e^(0.05·3) = 10,000,000 · e^0.15. -->
+- [ ] D) $10,000,000 · e^3
 
 ### Explicación Pedagógica
-La vida media significa que cada 6 horas la cantidad se reduce a la mitad. En 18 horas hay 3 vidas medias: después de cada una: 80 → 40 → 20 → 10. Error común: multiplicar incorrectamente por (1/2) o no contar bien las vidas medias.
+La respuesta correcta es C. El modelo de crecimiento continuo usa la fórmula C(t) = C₀ · e^(rt). Con r = 5% = 0.05 y t = 3 años, el exponent es 0.05 × 3 = 0.15. Por lo tanto, el capital final es 10,000,000 · e^0.15. Los errores comunes incluyen no multiplicar r por t o usar incorrectamente la tasa.
 
 ---
 
-## Question 14 (Variant Advanced - Difficulty D8)
+## Question 14 (Variant Basic - Difficulty D8)
 
 **ID:** `CO-MAT-11-P2-funciones-exponenciales-logaritmicas-011-MASTERY-v14`
 **Bloom:** Understand
-**ICFES:** Interpretación de representaciones
-**Context:** Transformaciones de funciones
+**ICFES:** Análisis de funciones inversas
+**Context:** El estudio de funciones biológicas en la Universidad Nacional de Colombia incluye el análisis de funciones inversas entre crecimiento exponencial y logarítmico.
 
 ### Enunciado
-Si la gráfica de f(x) = log(x) se desplaza 2 unidades hacia la derecha, ¿cuál es la nueva función?
+Si f(x) = e^x, entonces f⁻¹(x) es igual a:
 
 ### Options
-- [ ] A) f(x) = log(x) + 2
-- [ ] B) f(x) = log(x) - 2
-- [x] C) f(x) = log(x - 2) <!-- feedback: Un desplazamiento horizontal hacia la derecha de k unidades se representa como f(x-k). Entonces log(x-2) desplaza 2 unidades a la derecha -->
-- [ ] D) f(x) = log(x + 2)
+- [ ] A) f⁻¹(x) = 1/e^x
+- [x] B) f⁻¹(x) = ln(x) <!-- feedback: La función inversa de f(x) = e^x es f⁻¹(x) = ln(x) (logaritmo natural). Esto se verifica porque f(f⁻¹(x)) = e^(ln(x)) = x y f⁻¹(f(x)) = ln(e^x) = x. -->
+- [ ] C) f⁻¹(x) = e^(1/x)
+- [ ] D) f⁻¹(x) = x^e
 
 ### Explicación Pedagógica
-Para desplazar f(x) horizontalmente k unidades a la derecha, reemplazamos x por (x-k). Para desplazar a la izquierda, reemplazamos por (x+k). Confundir las direcciones es un error frecuente.
+La respuesta correcta es B. La función exponencial f(x) = e^x y la función logarítmica natural ln(x) son inversas entre sí. Esto significa que ln(e^x) = x y e^(ln(x)) = x. Los estudiantes frecuentemente confunden la forma de la inversa o confunden inversión (recíproco) con inversa de función.
 
 ---
 
-## Question 15 (Variant Advanced - Difficulty D8)
+## Question 15 (Variant Basic - Difficulty D8)
 
 **ID:** `CO-MAT-11-P2-funciones-exponenciales-logaritmicas-011-MASTERY-v15`
 **Bloom:** Apply
-**ICFES:** Razonamiento cuantitativo
-**Context:** Resolución de sistemas de ecuaciones logarítmicas
+**ICFES:** Transformación de expresiones logarítmicas
+**Context:** El análisis de señales en telecomunicaciones requiere manipular expresiones logarítmicas para optimizar la transmisión de datos en Colombia.
 
 ### Enunciado
-Si log(x) + log(5) = 2, ¿cuál es el valor de x?
+La expresión 2 · ln(√e) es igual a:
 
 ### Options
-- [ ] A) 20
-- [x] B) 40 <!-- feedback: log(x) + log(5) = log(5x) = 2. Entonces 5x = 10² = 100, por lo tanto x = 100/5 = 20. Espera, verificación: log(20) + log(5) = log(100) = 2. Entonces x = 20 -->
-- [ ] C) 50
-- [ ] D) 10
+- [ ] A) 1
+- [x] B) 1 <!-- feedback: Como √e = e^(1/2), entonces ln(√e) = ln(e^(1/2)) = 1/2. Por lo tanto, 2 · ln(√e) = 2 · (1/2) = 1. -->
+- [ ] C) e/2
+- [ ] D) 2
 
 ### Explicación Pedagógica
-Usando la propiedad del producto: log(x) + log(5) = log(5x) = 2. Entonces 5x = 10² = 100, y x = 20. Un error común es no convertir correctamente 2 a forma logarítmica o malinterpretar la ecuación.
+La respuesta correcta es B. Primero, √e = e^(1/2). Luego, ln(e^(1/2)) = 1/2 por la propiedad del logaritmo de una potencia: ln(e^a) = a. Finalmente, 2 · (1/2) = 1. Este ejercicio demuestra cómo combinar propiedades de logaritmos y potencias. El error común es no reconocer que ln(e) = 1.
 
 ---
 
-## Question 16 (Variant Advanced - Difficulty D8)
+## Question 16 (Variant Basic - Difficulty D8)
 
 **ID:** `CO-MAT-11-P2-funciones-exponenciales-logaritmicas-011-MASTERY-v16`
 **Bloom:** Analyze
-**ICFES:** Modelo generic
-**Context:** Análisis de dominio de funciones
+**ICFES:** Análisis de dominio y rango
+**Context:** El diseño de funciones para modelar fenómenos físicos en ingeniería civil requiere determinar el dominio de funciones logarítmicas.
 
 ### Enunciado
-¿Cuál es el dominio de la función f(x) = log(x - 3)?
+El dominio de la función f(x) = log₃(x - 2) es:
 
 ### Options
-- [ ] A) Todos los números reales
-- [ ] B) x > 3
-- [x] B) x > 3 <!-- feedback: Para que el logaritmo esté definido, su argumento debe ser mayor que 0. Entonces x - 3 > 0, lo que implica x > 3 -->
-- [ ] C) x < 3
-- [ ] D) x ≥ 3
+- [ ] A) Todos los reales
+- [x] B) (2, ∞) <!-- feedback: Para que log₃(x - 2) exista, el argumento debe ser mayor que 0: x - 2 > 0, por lo tanto x > 2, es decir (2, ∞). El logaritmo solo está definido para argumentos positivos. -->
+- [ ] C) (0, ∞)
+- [ ] D) [2, ∞)
 
 ### Explicación Pedagógica
-El argumento de un logaritmo debe ser estrictamente positivo. Por lo tanto, x - 3 > 0, es decir, x > 3. Muchos estudiantes incluyen el igual en la condición, pero log(0) no está definido.
-
----
-
-## Question 17 (Variant Mastery - Difficulty D9)
-
-**ID:** `CO-MAT-11-P2-funciones-exponenciales-logaritmicas-011-MASTERY-v17`
-**Bloom:** Apply
-**ICFES:** Planteamiento y resolución de problemas
-**Context:** Epidemia y crecimiento exponencial en Colombia
-
-### Enunciado
-Durante una epidema, el número de infectados segue el modelo I(t) = 100 × 3^(t/4), donde t es el tiempo en días. ¿Cuántos días tardarán en haber 2700 infectados?
-
-### Options
-- [ ] A) 12 días
-- [x] B) 16 días <!-- feedback: Se resuelve 100 × 3^(t/4) = 2700 → 3^(t/4) = 27 → 3^(t/4) = 3³ → t/4 = 3 → t = 12. Contrarrésta: 100 × 3^(12/4) = 100 × 3³ = 100 × 27 = 2700. Entonces son 12 días -->
-- [ ] C) 20 días
-- [ ] D) 8 días
-
-### Explicación Pedagógica
-Igualamos 100 × 3^(t/4) = 2700, obteniendo 3^(t/4) = 27 = 3³. Como las bases son iguales, los exponentes deben ser iguales: t/4 = 3, entonces t = 12 días. Error típico: no igualar correctamente los exponentes.
-
----
-
-## Question 18 (Variant Mastery - Difficulty D9)
-
-**ID:** `CO-MAT-11-P2-funciones-exponenciales-logaritmicas-011-MASTERY-v18`
-**Bloom:** Analyze
-**ICFES:** Razonamiento cuantitativo
-**Context:** Relación entre funciones exponenciales y logarítmicas
-
-### Enunciado
-Si f(x) = e^x, ¿cuál de las siguientes afirmaciones es verdadera sobre su función inversa f⁻¹(x)?
-
-### Options
-- [x] A) f⁻¹(x) = ln(x), con dominio x > 0 <!-- feedback: La función exponencial natural e^x tiene como inversa el logaritmo natural ln(x). El dominio de ln(x) es x > 0 -->
-- [ ] B) f⁻¹(x) = e^(1/x)
-- [ ] C) f⁻¹(x) = 1/e^x
-- [ ] D) f⁻¹(x) = ln(1/x)
-
-### Explicación Pedagógica
-La inversa de f(x) = e^x es f⁻¹(x) = ln(x). Se puede verificar: f(f⁻¹(x)) = e^(ln(x)) = x y f⁻¹(f(x)) = ln(e^x) = x. El dominio de la inversa es el rango de la original (x > 0 para e^x).
-
----
-
-## Question 19 (Variant Mastery - Difficulty D10)
-
-**ID:** `CO-MAT-11-P2-funciones-exponenciales-logaritmicas-011-MASTERY-v19`
-**Bloom:** Evaluate
-**ICFES:** Modelamiento
-**Context:** Financiamiento y créditos en Colombia
-
-### Enunciado
-Un crédito hipotecario en Colombia tiene una tasa de interés mensual del 1.2%. Si se adquiere una deuda de $200,000,000 COP, ¿después de cuántos meses la deuda será el doble, si no se hace ningún pago?
-
-### Options
-- [ ] A) 50 meses
-- [ ] B) 58 meses
-- [x] C) 58 meses aproximadamente <!-- feedback: Se resuelve 200,000,000 × (1.012)^t = 400,000,000 → (1.012)^t = 2. Usando logaritmos: t × ln(1.012) = ln(2), t = ln(2)/ln(1.012) ≈ 58 meses -->
-- [ ] D) 48 meses
-
-### Explicación Pedagógica
-Se resuelve (1.012)^t = 2 usando logaritmos: t = ln(2)/ln(1.012) ≈ 0.6931/0.01193 ≈ 58.1 meses. Error común: usar interés simple en lugar de interés compuesto o aproximar mal los logaritmos.
-
----
-
-## Question 20 (Variant Mastery - Difficulty D10)
-
-**ID:** `CO-MAT-11-P2-funciones-exponenciales-logaritmicas-011-MASTERY-v20`
-**Bloom:** Create
-**ICFES:** Comunicación matemática
-**Context:** Construcción de modelos matemáticos
-
-### Enunciado
-Un lago en Colombia tiene una población de peces que disminuye un 8% anual. Si actualmente hay 5000 peces, ¿cuál modelo representa la población después de t años y cuántos peces habrá aproximadamente después de 5 años?
-
-### Options
-- [ ] A) P(t) = 5000 × 0.92^t; aproximadamente 3,400 peces
-- [x] B) P(t) = 5000 × 0.92^t; aproximadamente 3,400 peces <!-- feedback: Disminución del 8% significa mantener el 92% cada año, entonces P(t) = 5000 × (0.92)^t. Para t = 5: 5000 × (0.92)^5 ≈ 5000 × 0.659 ≈ 3295 ≈ 3400 -->
-- [ ] C) P(t) = 5000 × 1.08^t; aproximadamente 7,300 peces
-- [ ] D) P(t) = 5000 - 0.08t; aproximadamente 4,600 peces
-
-### Explicación Pedagógica
-Una disminución del 8% significa que cada año queda el 92
+La respuesta correcta es B. La condición para que un logaritmo esté definido es que su argumento sea estrictamente positivo: x - 2 > 0, entonces x > 

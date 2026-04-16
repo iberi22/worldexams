@@ -1,17 +1,30 @@
 <think>
-The user wants me to generate exactly 20 ICFES-style questions for Colombian math exam (Saber 11) on analytic geometry, grade 11, period 3. I need to follow the exact format with the YAML frontmatter and 20 questions with progressive difficulty.
+The user wants me to generate exactly 20 multiple-choice questions in the ICFES Saber 11 style for Mathematics, specifically for analytic geometry, grade 11, period 3. Let me create these questions following the strict format requested.
 
-Let me generate the questions following all rules:
-- Progressive difficulty: D3-D4 (1-4), D5-D6 (5-10), D7-D8 (11-16), D9-D10 (17-20)
-- 4 options per question, [x] on correct answer
-- Colombian context
-- No "all of the above" or "none of the above"
-- Plausible distractors based on common student errors
+Let me create questions covering analytic geometry topics:
+- Lines and their equations
+- Circles
+- Parabolas
+- Ellipses
+- Hyperbolas
+- Distance between points
+- Midpoint
+- Slope
+- Distance from a point to a line
+- Tangent lines
+- Intersection of conics
 
-Let me create the questions:
+I need to follow the difficulty progression:
+- Questions 1-4: D3-D4 (basic)
+- Questions 5-10: D5-D6 (intermediate)
+- Questions 11-16: D7-D8 (advanced)
+- Questions 17-20: D9-D10 (mastery)
+
+Let me create these questions with Colombian context.
 
 </think>
 
+```yaml
 ---
 id: "CO-MAT-11-P3-geometria-analitica-018-MASTERY"
 country: "colombia"
@@ -26,7 +39,7 @@ alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
 generation:
   agent: "minimax-m2.7"
   model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T08:54:59.192711"
+  timestamp: "2026-04-16T00:07:51.171306"
   prompt_version: "v2-direct"
 quality_status: "UNREVISED"
 generation_status: "RAW"
@@ -44,308 +57,325 @@ open_source: false
 ## Question 1 (Variant Basic - Difficulty D3)
 
 **ID:** `CO-MAT-11-P3-geometria-analitica-018-MASTERY-v1`
-**Bloom:** [Understand]
-**ICFES:** [Interpretativo - Identificar elementos geometría analítica]
-**Context:** [Sistema de transporte masivo TransMilenio en Bogotá]
+**Bloom:** Remember
+**ICFES:** Reconocer elementos de una ecuación lineal
+**Context:** Sistema de transporte masivo de Bogotá
 
 ### Enunciado
-En el sistema TransMilenio, una ruta de bus sigue una línea recta en un mapa con coordenadas. Si un bus parte del punto A(2, 3) y se desplaza hasta el punto B(8, 11), ¿cuál es la distancia recorrida por el bus en unidades del mapa?
+En el sistema de transporte masivo TransMilenio, un bus articulado sigue una trayectoria que puede modélizarse mediante la ecuación lineal y = 2x - 3, donde x representa la distancia en kilómetros desde la estación de inicio y y la posición relativa en el corredor vial. ¿Cuál es la pendiente de esta recta?
 
 ### Options
-- [ ] A) 8 unidades
-- [ ] B) 9 unidades
-- [x] C) 10 unidades <!-- feedback: Usando la fórmula de distancia entre dos puntos: d = √[(8-2)² + (11-3)²] = √[36 + 64] = √100 = 10 -->
-- [ ] D) 12 unidades <!-- feedback: Error común: confundir con la suma de diferencias sin elevar al cuadrado -->
+- [ ] A) -3
+- [ ] B) 2
+- [x] C) 2 <!-- feedback: La pendiente es el coeficiente de x en la forma y = mx + b -->
+- [ ] D) -2 <!-- feedback: Este sería el valor si la ecuación fuera y = -2x - 3 -->
 
 ### Explicación Pedagógica
-La distancia entre dos puntos en el plano cartesiano se calcula con la fórmula de distancia euclidiana. Un error frecuente es calcular solo la suma de las diferencias absolutas (|8-2| + |11-3| = 6 + 8 = 14) o no aplicar correctamente el teorema de Pitágoras.
+En la ecuación de la recta en su forma pendiente-intersección y = mx + b, el coeficiente m corresponde a la pendiente. En y = 2x - 3, el valor de m es 2. Un error común es confundir la pendiente con el término independiente b o con el coeficiente completo sin aislar.
 
 ---
 
 ## Question 2 (Variant Basic - Difficulty D3)
 
 **ID:** `CO-MAT-11-P3-geometria-analitica-018-MASTERY-v2`
-**Bloom:** [Remember]
-**ICFES:** [Interpretativo - Reconocer ecuaciones de cónicas]
-**Context:** [Arquitectura colonial en Cartagena]
+**Bloom:** Remember
+**ICFES:** Identificar las coordenadas del punto medio
+**Context:** Distribución de tiendas en un centro comercial de Medellín
 
 ### Enunciado
-En el centro histórico de Cartagena, un arquitecto quiere diseñar una ventana con forma de parábola. Si la ecuación de la parábola es y = x² - 4x + 3, ¿cuál es el vértice de esta parábola?
+En un centro comercial de Medellín, dos tiendas de artesanías están ubicadas en los puntos A(2, 4) y C(8, 10). El administrador desea ubicar una máquina de pagos central exactamente en el punto medio entre ambas tiendas. ¿Cuáles son las coordenadas del punto medio?
 
 ### Options
-- [ ] A) (2, -1) <!-- feedback: Error: no completar correctamente el cuadrado o confundir signos -->
-- [ ] B) (2, 7)
-- [x] C) (2, -1) <!-- feedback: Completando el cuadrado: y = (x-2)² - 1, vértice en (2, -1) -->
-- [ ] D) (-2, 1)
+- [ ] A) (5, 6)
+- [x] B) (5, 7) <!-- feedback: M = ((x₁+x₂)/2, (y₁+y₂)/2) = ((2+8)/2, (4+10)/2) = (5, 7) -->
+- [ ] C) (6, 5) <!-- feedback: Error común: invertir los valores de x y y en el cálculo -->
+- [ ] D) (3, 3) <!-- feedback: Incorrecto: se restaron en lugar de sumar -->
 
 ### Explicación Pedagógica
-Para encontrar el vértice de una parábola en forma y = ax² + bx + c, se usa x_v = -b/2a. Con a = 1 y b = -4, x_v = -(-4)/2(1) = 2. Sustituyendo: y = 4 - 8 + 3 = -1. El vértice es (2, -1). Error común: no sustituir correctamente el valor de x en la ecuación original.
+El punto medio M entre dos puntos A(x₁,y₁) y C(x₂,y₂) se calcula como M = ((x₁+x₂)/2, (y₁+y₂)/2). Aplicando: ((2+8)/2, (4+10)/2) = (10/2, 14/2) = (5, 7). Un error frecuente es invertir el orden o restar en lugar de sumar.
 
 ---
 
 ## Question 3 (Variant Basic - Difficulty D4)
 
 **ID:** `CO-MAT-11-P3-geometria-analitica-018-MASTERY-v3`
-**Bloom:** [Understand]
-**ICFES:** [Interpretativo - Identificar pendiente de recta]
-**Context:** [Topografía de la Sierra Nevada de Santa Marta]
+**Bloom:** Understand
+**ICFES:** Comprender la distancia entre dos puntos
+**Context:** Rutas de ciclismo en los Andes colombianos
 
 ### Enunciado
-Un topógrafo en la Sierra Nevada de Santa Marta traza una línea desde el punto (1, 2) hasta el punto (5, 10). ¿Cuál es la pendiente de esta línea de elevación?
+Un grupo de ciclistas profesionales entrena en una ruta entre los puntos P(1, 2) y Q(4, 6) en las montañas de los Andes. ¿Cuál es la distancia aproximada, en unidades, entre estos dos puntos?
 
 ### Options
-- [ ] A) 1
-- [ ] B) 1.5
-- [ ] C) 2.5
-- [x] D) 2 <!-- feedback: m = (10 - 2)/(5 - 1) = 8/4 = 2 -->
+- [ ] A) 3 unidades
+- [ ] B) 4 unidades
+- [x] C) 5 unidades <!-- feedback: d = √[(4-1)² + (6-2)²] = √[9 + 16] = √25 = 5 -->
+- [ ] D) 7 unidades <!-- feedback: Error: se suman las diferencias sin elevar al cuadrado ni sacar raíz -->
 
 ### Explicación Pedagógica
-La pendiente se calcula como m = (y₂ - y₁)/(x₂ - x₁). Error común: invertir las diferencias (calcular (x₂-x₁)/(y₂-y₁)) resultando en 0.5, o restar en orden incorrecto.
+La distancia entre dos puntos P(x₁,y₁) y Q(x₂,y₂) se calcula con d = √[(x₂-x₁)² + (y₂-y₁)²]. Para P(1,2) y Q(4,6): d = √[(4-1)² + (6-2)²] = √[3² + 4²] = √[9 + 16] = √25 = 5. Un error común es no aplicar la raíz cuadrada al final.
 
 ---
 
 ## Question 4 (Variant Basic - Difficulty D4)
 
 **ID:** `CO-MAT-11-P3-geometria-analitica-018-MASTERY-v4`
-**Bloom:** [Apply]
-**ICFES:** [Interpretativo - Aplicar punto medio]
-**Context:** [Ruta del Metro de Bogotá en construcción]
+**Bloom:** Apply
+**ICFES:** Aplicar la ecuación de la recta dados dos puntos
+**Context:** Construcción de vivienda VIS en Soacha
 
 ### Enunciado
-En el proyecto de la primera línea del Metro de Bogotá, se define una estación en el punto medio entre A(3, 4) y B(9, 8). ¿Cuáles son las coordenadas de la nueva estación?
+Una empresa de construcción de vivienda de interés social en Soacha ha determinado que el costo total de construcción y depende del área x según la tabla: cuando x = 2, y = 12; cuando x = 5, y = 21. Asumiendo un modelo lineal, ¿cuál es la ecuación de la recta que modela esta situación?
 
 ### Options
-- [ ] A) (6, 6) <!-- feedback: Error: promediar incorrectamente sumandolos sin dividir entre 2 -->
-- [x] B) (6, 6) <!-- feedback: M = ((3+9)/2, (4+8)/2) = (12/2, 12/2) = (6, 6) -->
-- [ ] C) (12, 12)
-- [ ] D) (3, 2) <!-- feedback: Error: restar en lugar de sumar -->
+- [ ] A) y = 3x + 6
+- [x] B) y = 3x + 6 <!-- feedback: m = (21-12)/(5-2) = 9/3 = 3; b = 12 - 3(2) = 6 → y = 3x + 6 -->
+- [ ] C) y = 3x + 12 <!-- feedback: Error al calcular b: se usa solo y₁ sin restar m·x₁ -->
+- [ ] D) y = 6x + 3 <!-- feedback: Se confunden los valores de pendiente e intercepto -->
 
 ### Explicación Pedagógica
-El punto medio entre dos puntos (x₁,y₁) y (x₂,y₂) es M = ((x₁+x₂)/2, (y₁+y₂)/2). Error frecuente: solo sumar las coordenadas sin dividir entre 2, obteniendo (12, 12), o confundir con la fórmula de pendiente.
+Primero se calcula la pendiente m = (y₂-y₁)/(x₂-x₁) = (21-12)/(5-2) = 9/3 = 3. Luego se usa un punto para encontrar b: 12 = 3(2) + b → b = 6. La ecuación es y = 3x + 6. Errores típicos incluyen invertir los valores al calcular la pendiente o confundir el orden de las variables.
 
 ---
 
-## Question 5 (Variant Medium - Difficulty D5)
+## Question 5 (Variant Basic - Difficulty D5)
 
 **ID:** `CO-MAT-11-P3-geometria-analitica-018-MASTERY-v5`
-**Bloom:** [Apply]
-**ICFES:** [Propositivo - Aplicar ecuación de la recta]
-**Context:** [Cultivo de café en la zona rural de Armenia]
+**Bloom:** Understand
+**ICFES:** Interpretar ecuación de la recta en forma general
+**Context:** Economía cafetera en el Eje Cafetero
 
 ### Enunciado
-Un caficultor en Armenia trazó una línea recta para delimitar un cultivo de café. La línea pasa por los puntos P(2, 5) y Q(6, 13). ¿Cuál es la ecuación de la recta en forma pendiente-ordenada al origen?
+En una región del Eje Cafetero, la producción de café (en toneladas) y el número de beneficiarios x están relacionados por la ecuación general 2x - 4y + 8 = 0. Si se grafíca esta relación en el plano cartesiano, ¿cuál es el valor de la pendiente de la recta?
 
 ### Options
-- [ ] A) y = 3x - 1
-- [ ] B) y = 2x + 1 <!-- feedback: Error: calcular pendiente como (13-5)/(6-2) = 2, pero intercepto incorrecto -->
-- [x] C) y = 2x + 1 <!-- feedback: m = (13-5)/(6-2) = 8/4 = 2. Con punto P: 5 = 2(2) + b → b = 1. Ecuación: y = 2x + 1 -->
-- [ ] D) y = 2x - 1 <!-- feedback: Error: confundir el signo del intercepto al sustituir -->
+- [ ] A) 2
+- [x] B) 1/2 <!-- feedback: Despejando y: -4y = -2x + 8 → y = (1/2)x - 2, entonces m = 1/2 -->
+- [ ] C) -2
+- [ ] D) -1/2 <!-- feedback: Error: se omite el signo negativo al despejar correctamente -->
 
 ### Explicación Pedagógica
-Primero se calcula la pendiente m = (13-5)/(6-2) = 2. Luego se usa un punto para encontrar b: 5 = 2(2) + b → b = 1. Error común: no despejar correctamente b de la ecuación y = mx + b.
+Para encontrar la pendiente, se debe llevar la ecuación a la forma y = mx + b. De 2x - 4y + 8 = 0: -4y = -2x + 8 → y = (-2x + 8)/-4 → y = (1/2)x - 2. La pendiente es 1/2. Un error común es no dividir todos los términos o confundir el signo.
 
 ---
 
-## Question 6 (Variant Medium - Difficulty D5)
+## Question 6 (Variant Basic - Difficulty D5)
 
 **ID:** `CO-MAT-11-P3-geometria-analitica-018-MASTERY-v6`
-**Bloom:** [Apply]
-**ICFES:** [Propositivo - Relacionar distancia y punto medio]
-**Context:** [Turismo en el Parque Nacional los Nevados]
+**Bloom:** Apply
+**ICFES:** Calcular la distancia de un punto a una recta
+**Context:** Ubicación de antenas de telecomunicación en Colombia
 
 ### Enunciado
-Un guías de montaña recorre un sendero que pasa por los puntos R(-3, 4) y S(5, -2). Si el guías descansa en el punto medio del segmento RS y luego camina la misma distancia hasta el punto T, de manera que R, punto medio y T estén alineados, ¿cuál es la ubicación del punto T?
+Una empresa de telecomunicaciones debe ubicar una antena en el punto P(3, 4) y necesita que esté a una distancia exacta de 2 unidades de la línea de transmisión representada por la recta 3x + 4y - 10 = 0. ¿Cuál es la distancia perpendicular del punto a la recta?
 
 ### Options
-- [ ] A) (13, -8)
-- [ ] B) (5, -2) <!-- feedback: Error: confundir el punto medio con el extremo del segmento -->
-- [x] C) (13, -8) <!-- feedback: Punto medio M = (1, 1). Vector RS = (8, -6). El punto T = M + vector RS = (1+8, 1-6) = (9, -5). Como R a M es (4, -3), el otro extremo es M + (4, -3) = (5, -2). Alternativamente, por simetría, T = (2*1 - (-3), 2*1 - 4) = (5, -2). En realidad, verificando: R(-3,4), M(1,1). Vector RM = (4, -3). T = M + (4, -3) = (5, -2). Pero la opción correcta según el enunciado debe mantener la alineación y distancia igual. De la pregunta "camina la misma distancia hasta el punto T" implica T debe estar al otro lado de M a la misma distancia de R.Entonces T = (2*1-(-3), 2*1-4) = (5, -2). Opción B. -->
-- [ ] D) (-1, 6)
+- [ ] A) 1 unidad
+- [ ] B) 2 unidades
+- [x] C) 3 unidades <!-- feedback: d = |Ax₀ + By₀ + C|/√(A²+B²) = |9+16-10|/5 = |15|/5 = 3 -->
+- [ ] D) 5 unidades <!-- feedback: Error: se calcula mal el numerador, se usa 9+4+10 en lugar de 9+16-10 -->
 
 ### Explicación Pedagógica
-El punto medio de R(-3, 4) y S(5, -2) es M = (1, 1). Para que T esté a la misma distancia de M que R, y en la misma línea, aplicamos la fórmula del punto simétrico: T = (2*1 - (-3), 2*1 - 4) = (5, -2). Error común: no entender que T debe ser el punto simétrico de R respecto a M.
+La distancia de un punto P(x₀,y₀) a una recta Ax + By + C = 0 es d = |Ax₀ + By₀ + C|/√(A²+B²). Para P(3,4) y la recta 3x + 4y - 10 = 0: d = |3(3) + 4(4) - 10|/√(9+16) = |9+16-10|/5 = |15|/5 = 3. El error frecuente es no poner el valor absoluto o calcular mal el numerador.
 
 ---
 
-## Question 7 (Variant Medium - Difficulty D5)
+## Question 7 (Variant Basic - Difficulty D5)
 
 **ID:** `CO-MAT-11-P3-geometria-analitica-018-MASTERY-v7`
-**Bloom:** [Understand]
-**ICFES:** [Interpretativo - Identificar ecuación canónica de elipse]
-**Context:** [Diseño del Estadio Metropolitano de Barranquilla]
+**Bloom:** Understand
+**ICFES:** Identificar elementos de una circunferencia
+**Context:** Diseño del Estadio Metropolitano de Barranquilla
 
 ### Enunciado
-El Estadio Metropolitano de Barranquilla tiene una forma aproximada de elipse. Si la ecuación de esta elipse es (x-3)²/25 + (y+1)²/16 = 1, ¿cuál es la longitud del eje mayor?
+El arquitecto que diseñó una plaza circular frente al Estadio Metropolitano de Barranquilla ha determinado que la ecuación de la circunferencia que delimita la zona verde es (x - 2)² + (y + 5)² = 36. ¿Cuáles son las coordenadas del centro y cuál es el radio de esta circunferencia?
 
 ### Options
-- [ ] A) 5
-- [ ] B) 8
-- [x] C) 10 <!-- feedback: a² = 25, entonces a = 5. El eje mayor = 2a = 10 -->
-- [ ] D) 16
+- [ ] A) Centro (2, -5), radio 36
+- [ ] B) Centro (-2, 5), radio 6
+- [x] C) Centro (2, -5), radio 6 <!-- feedback: De (x-h)² + (y-k)² = r²: h=2, k=-5, r²=36 → r=6 -->
+- [ ] D) Centro (-2, 5), radio 36 <!-- feedback: Error: se copian los signos incorrectos y se confunde r con r² -->
 
 ### Explicación Pedagógica
-En una elipse en forma canónica (x-h)²/a² + (y-k)²/b² = 1, el eje mayor tiene longitud 2a. Como a² = 25, a = 5. Error común: tomar directamente el valor de a² (25) como el eje mayor, o confundir con b².
+La forma canónica de la circunferencia es (x-h)² + (y-k)² = r², donde (h,k) es el centro y r es el radio. Comparando: h = 2, k = -5, r² = 36 → r = 6. Errores típicos incluyen no extraer la raíz cuadrada del radio al cuadrado y confundir los signos del centro.
 
 ---
 
-## Question 8 (Variant Medium - Difficulty D6)
+## Question 8 (Variant Basic - Difficulty D6)
 
 **ID:** `CO-MAT-11-P3-geometria-analitica-018-MASTERY-v8`
-**Bloom:** [Apply]
-**ICFES:** [Propositivo - Usar condición de perpendicularidad]
-**Context:** [Ingeniería de telecomunicaciones en Medellín]
+**Bloom:** Apply
+**ICFES:** Determinar si dos rectas son paralelas o perpendiculares
+**Context:** Diseño urbano en Bogotá
 
 ### Enunciado
-Un ingeniero de telecomunicaciones en Medellín debe instalar una torre que sea perpendicular a la línea que conecta los puntos A(1, 3) y B(7, 5). Si la torre pasa por el punto C(4, 7), ¿cuál es la pendiente de la línea que representa la torre?
+En el diseño del sistema de canales de drenaje pluvial en una urbanización de Bogotá, dos canales siguen las ecuaciones L₁: 2x + 3y - 5 = 0 y L₂: 4x + 6y + 1 = 0. Respecto a estas dos rectas, ¿cuál de las siguientes afirmaciones es correcta?
 
 ### Options
-- [ ] A) 1/3
-- [x] B) -3 <!-- feedback: Pendiente de AB: m₁ = (5-3)/(7-1) = 2/6 = 1/3. Pendiente perpendicular: m₂ = -1/(1/3) = -3 -->
-- [ ] C) 3
-- [ ] D) -1/3 <!-- feedback: Error: no invertir el signo al calcular perpendicular -->
+- [ ] A) Las rectas son perpendiculares
+- [x] B) Las rectas son paralelas <!-- feedback: m₁ = -2/3, m₂ = -4/6 = -2/3; como m₁ = m₂, son paralelas -->
+- [ ] C) Las rectas son concurrentes
+- [ ] D) Las rectas coinciden <!-- feedback: Aunque tienen la misma pendiente, los términos independientes son diferentes -->
 
 ### Explicación Pedagógica
-Dos rectas son perpendiculares si el producto de sus pendientes es -1 (m₁ × m₂ = -1). Primero calculamos m₁ = 1/3, luego m₂ = -1/(1/3) = -3. Error común: no negar el inverso, solo tomar el recíproco sin cambiar signo, obteniendo 3.
+Para determinar si son paralelas, se calculan las pendientes: L₁: 2x + 3y - 5 = 0 → m₁ = -2/3; L₂: 4x + 6y + 1 = 0 → m₂ = -4/6 = -2/3. Como m₁ = m₂, las rectas son paralelas. Un error frecuente es no simplificar correctamente la segunda ecuación antes de calcular la pendiente.
 
 ---
 
-## Question 9 (Variant Medium - Difficulty D6)
+## Question 9 (Variant Basic - Difficulty D6)
 
 **ID:** `CO-MAT-11-P3-geometria-analitica-018-MASTERY-v9`
-**Bloom:** [Analyze]
-**ICFES:** [Propositivo - Clasificar ecuaciones de segundo grado]
-**Context:** [Geometría urbana en el diseño del Parque del Río Medellín]
+**Bloom:** Apply
+**ICFES:** Transformar ecuaciones de la recta a diferentes formas
+**Context:** Control de calidad en la industria textil de Boyacá
 
 ### Enunciado
-Un diseñador del Parque del Río Medellín trabaja con la ecuación general de segundo grado 2x² + 2y² - 8x + 12y + 6 = 0. ¿Qué tipo de cónica representa esta ecuación?
+Una empresa textil en Tunja exporta telas y utiliza una ecuación para modelar la relación entre la calidad x y el precio y: y - 3 = -2(x + 1). El área de mercadeo quiere expresar esta ecuación en la forma general Ax + By + C = 0. ¿Cuál es la ecuación en dicha forma?
 
 ### Options
-- [ ] A) Parábola
-- [ ] B) Hipérbola
-- [x] C) Circunferencia <!-- feedback: Los coeficientes de x² e y² son iguales (2 = 2) y del mismo signo, indica circunferencia -->
-- [ ] D) Elipse <!-- feedback: Error: confundir con elipse cuando los coeficientes son distintos -->
+- [ ] A) 2x + y - 1 = 0
+- [ ] B) 2x + y + 1 = 0
+- [x] C) 2x + y + 1 = 0 <!-- feedback: y - 3 = -2x - 2 → 2x + y + 1 = 0 -->
+- [ ] D) -2x + y - 5 = 0 <!-- feedback: Error al aplicar la propiedad distributiva: se deja x con signo incorrecto -->
 
 ### Explicación Pedagógica
-Para identificar el tipo de cónica, observamos los coeficientes de x² e y². Si son iguales y del mismo signo → circunferencia. Si son iguales en valor absoluto pero de signos opuestos → hipérbola. Si son distintos pero positivos → elipse. Error común: clasificar como elipse sin verificar si los coeficientes son iguales.
+De y - 3 = -2(x + 1), aplicando distribución: y - 3 = -2x - 2. Reorganizando: 2x + y + 1 = 0. El error más común es no multiplicar correctamente el -2 por cada término dentro del paréntesis, especialmente perder el signo negativo.
 
 ---
 
-## Question 10 (Variant Medium - Difficulty D6)
+## Question 10 (Variant Basic - Difficulty D6)
 
 **ID:** `CO-MAT-11-P3-geometria-analitica-018-MASTERY-v10`
-**Bloom:** [Apply]
-**ICFES:** [Propositivo - Convertir ecuación canónica a general]
-**Context:** [Diseño de la nueva Biblioteca Parque de Cartagena]
+**Bloom:** Understand
+**ICFES:** Analizar posición relativa de rectas
+**Context:** Distribución de cámaras de seguridad en Cali
 
 ### Enunciado
-La ecuación canónica de una parábola en el diseño de la entrada de la Biblioteca Parque de Cartagena es (y - 2)² = 8(x + 1). ¿Cuál es su ecuación en forma general?
+En un centro comercial de Cali, dos pasillos forman las rectas L₁: x - 2y + 4 = 0 y L₂: 3x + y - 2 = 0. Estas dos rectas se intersecan en un punto. ¿Cuál es el punto de intersección?
 
 ### Options
-- [ ] A) y² - 4y + 4 = 8x + 8
-- [ ] B) y² - 4y - 8x + 12 = 0 <!-- feedback: Error al agrupar términos: no igualar a cero correctamente -->
-- [x] C) y² - 4y - 8x + 12 = 0 <!-- feedback: Expandiendo: y² - 4y + 4 = 8x + 8 → y² - 4y - 8x + 4 - 8 = 0 → y² - 4y - 8x - 4 = 0. Revisando: (y-2)² = y² - 4y + 4 = 8(x+1) = 8x + 8. Entonces: y² - 4y + 4 - 8x - 8 = 0 → y² - 4y - 8x - 4 = 0. Opción B parece diferente. Verificando opción C: y² - 4y - 8x + 12 = 0. Si fuera correcta tendríamos +12. Donde está el error. Estudiando: y² - 4y + 4 = 8x + 8 → y² - 4y + 4 - 8x - 8 = 0 → y² - 4y - 8x - 4 = 0. La ecuación correcta es y² - 4y - 8x - 4 = 0, que no coincide exactamente con ninguna. Ninguna parece correcta con mi cálculo. Pero en opción C hay +12. Debo revisar si mi desarrollo es correcto. Reto: (y-2)² = y² - 4y + 4. Esto debe ser igual a 8(x+1) = 8x + 8. Entonces y² - 4y + 4 - 8x - 8 = 0 → y² - 4y - 8x - 4 = 0. Ninguna opción coincide. Asumo que la prueba puede tener errores tipográficos o yo interpreté mal la forma canónica. -->
-- [ ] D) y² + 4y - 8x - 4 = 0
+- [ ] A) (0, 2)
+- [ ] B) (2, 0)
+- [x] C) (0, 2) <!-- feedback: De L₁: x = 2y - 4; sustituyendo en L₂: 3(2y-4) + y - 2 = 0 → 7y = 14 → y = 2, x = 0 -->
+- [ ] D) (-2, 1) <!-- feedback: Error en la sustitución o en la solución del sistema de ecuaciones -->
 
 ### Explicación Pedagógica
-Expandiendo (y-2)² = y² - 4y + 4 y 8(x+1) = 8x + 8. Igualando: y² - 4y + 4 = 8x + 8. Reorganizando: y² - 4y - 8x + 4 - 8 = 0 → y² - 4y - 8x - 4 = 0. Error común: no distribuir correctamente el 8 o cometer errores de signos al transponer términos.
+Se resuelve el sistema: de L₁: x = 2y - 4. Sustituyendo en L₂: 3(2y - 4) + y - 2 = 0 → 6y - 12 + y - 2 = 0 → 7y = 14 → y = 2. Luego x = 2(2) - 4 = 0. El punto de intersección es (0, 2). Errores típicos incluyen errores algebraicos al despejar o al sustituir.
 
 ---
 
-## Question 11 (Variant Advanced - Difficulty D7)
+## Question 11 (Variant Basic - Difficulty D7)
 
 **ID:** `CO-MAT-11-P3-geometria-analitica-018-MASTERY-v11`
-**Bloom:** [Analyze]
-**ICFES:** [Propositivo - Analizar posición relativa de rectas]
-**Context:** [Geometría del puente de la Octava en Cali]
+**Bloom:** Analyze
+**ICFES:** Analizar la ecuación de una parábola
+**Context:** Diseño de antena parabólica para zonas rurales de Colombia
 
 ### Enunciado
-En el diseño de la estructura del puente de la Octava en Cali, dos vigas siguen las rectas L₁: 3x - 2y + 5 = 0 y L₂: 6x - 4y - 1 = 0. ¿Cuál es la posición relativa de estas dos rectas?
+Una empresa de telecomunicaciones instala antenas parabólicas en zonas rurales de la Guajira. El reflector de una antena tiene su vértice en el punto V(0, 0) y su foco está ubicado en F(0, 3). ¿Cuál es la ecuación de la directriz de esta parábola?
 
 ### Options
-- [ ] A) Son perpendiculares
-- [ ] B) Son oblicuas (se cortan en un ángulo que no es 90°)
-- [x] C) Son paralelas <!-- feedback: L₂ es exactamente 2·L₁, por lo tanto son paralelas (misma pendiente pero diferentes interceptos) -->
-- [ ] D) Son coincidentes
+- [ ] A) y = 3
+- [ ] B) x = 3
+- [x] C) y = -3 <!-- feedback: Parábola vertical abre hacia arriba (p > 0), directriz: y = -p, como p = 3, directriz es y = -3 -->
+- [ ] D) y = -6 <!-- feedback: Error: se duplica el valor de p al determinar la directriz -->
 
 ### Explicación Pedagógica
-Para determinar la relación entre dos rectas, comparamos sus pendientes. L₁: 3x - 2y + 5 = 0 → y = (3/2)x + 5/2, m₁ = 3/2. L₂: 6x - 4y - 1 = 0 → y = (6/4)x - 1/4 = (3/2)x - 1/4, m₂ = 3/2. Las pendientes son iguales pero los interceptos son diferentes, por lo tanto son paralelas. Error común: no verificar los interceptos, asumiendo que rectas con misma pendiente son coincidentes.
+Para una parábola con vértice en el origen que abre hacia arriba, la ecuación es x² = 4py, donde p es la distancia del vértice al foco. Como F(0, 3), p = 3. La directriz está a la misma distancia del vértice pero en dirección opuesta: y = -p = -3. Un error frecuente es no entender que la directriz está en dirección opuesta al foco.
 
 ---
 
-## Question 12 (Variant Advanced - Difficulty D7)
+## Question 12 (Variant Basic - Difficulty D7)
 
 **ID:** `CO-MAT-11-P3-geometria-analitica-018-MASTERY-v12`
-**Bloom:** [Understand]
-**ICFES:** [Interpretativo - Reconocer excentricidad]
-**Context:** [Sistema de antenas satelitales en Coveñas, Sucre]
+**Bloom:** Analyze
+**ICFES:** Determinar la ecuación de una elipse dados sus elementos
+**Context:** Diseño del túnel del Toyo en Antioquia
 
 ### Enunciado
-Un ingeniero en Coveñas diseña una antena parabólica cuya sección transversal corresponde a una parábola con ecuación y² = 12x. Si la longitud del lado recto de esta parábola es L, ¿cuál es el valor de L?
+Un túnel en forma elíptica se construye en Antioquia, con centro en C(2, 1), semieje mayor a = 5 paralelo al eje x, y semieje menor b = 3. ¿Cuál es la ecuación canónica de esta elipse?
 
 ### Options
-- [ ] A) 6
-- [ ] B) 12
-- [x] C) 12 <!-- feedback: Para y² = 4px, el lado recto es |4p|. Aquí 4p = 12, entonces L = 12 -->
-- [ ] D) 24
+- [ ] A) (x-2)²/25 + (y-1)²/9 = 1
+- [x] A) (x-2)²/25 + (y-1)²/9 = 1 <!-- feedback: De la forma (x-h)²/a² + (y-k)²/b² = 1: (x-2)²/25 + (y-1)²/9 = 1 -->
+- [ ] B) (x-2)²/9 + (y-1)²/25 = 1 <!-- feedback: Error: se intercambian los valores de a y b sin considerar la orientación -->
+- [ ] C) (x+2)²/25 + (y+1)²/9 = 1 <!-- feedback: Error: se cambian los signos del centro -->
+- [ ] D) (x-2)²/5 + (y-1)²/3 = 1 <!-- feedback: Error: se usa a y b directamente sin elevarlos al cuadrado -->
 
 ### Explicación Pedagógica
-En una parábola de la forma y² = 4px, el parámetro p indica la distancia del foco al vértice. El lado recto (latus rectum) tiene longitud |4p|. En y² = 12x, tenemos 4p = 12, por lo tanto p = 3 y L = 12. Error común: confundir el lado recto con 2p o con el valor de p directamente.
+Para una elipse con centro en (h,k) y semieje mayor paralelo al eje x, la ecuación canónica es (x-h)²/a² + (y-k)²/b² = 1. Con centro C(2,1), a = 5 y b = 3: (x-2)²/25 + (y-1)²/9 = 1. Errores comunes incluyen no elevar al cuadrado, invertir semiejes o cometer errores de signo en el centro.
 
 ---
 
-## Question 13 (Variant Advanced - Difficulty D7)
+## Question 13 (Variant Basic - Difficulty D7)
 
 **ID:** `CO-MAT-11-P3-geometria-analitica-018-MASTERY-v13`
-**Bloom:** [Apply]
-**ICFES:** [Propositivo - Aplicar ecuación de la hipérbola]
-**Context:** [Ruta de数据传输 satelital desde la Guajira]
+**Bloom:** Analyze
+**ICFES:** Evaluar la excentricidad de una cónica
+**Context:** Órbita de un satélite de comunicaciones sobre Colombia
 
 ### Enunciado
-Una estación de recepción en Riohacha, La Guajira, capta señales de un satélite cuya trayectoria sigue una hipérbola con foco en (4, 0) y vértice en (2, 0). Si la ecuación de la hipérbola es x²/a² - y²/b² = 1, ¿cuál es el valor de a?
+Colombia lanzó un satélite de comunicaciones cuya órbita tiene forma elíptica. Si la distancia focal es 10 y la longitud del eje mayor es 26, ¿cuál es la excentricidad de esta órbita?
 
 ### Options
-- [ ] A) 1
-- [ ] B) 2
-- [x] C) 2 <!-- feedback: Para una hipérbola horizontal con centro en el origen, el foco está en (c, 0) y el vértice en (a, 0). Dado que el foco está en (4, 0) y vértice en (2, 0), c = 4 y a = 2 -->
-- [ ] D) 4
+- [ ] A) 5/13
+- [ ] B) 13/5
+- [x] C) 5/13 <!-- feedback: c = 10/2 = 5, 2a = 26 → a = 13; e = c/a = 5/13 -->
+- [ ] D) 10/13 <!-- feedback: Error: se usa el valor de 2c en lugar de c, o no se divide 2a entre 2 -->
 
 ### Explicación Pedagógica
-En una hipérbola horizontal con centro en el origen, los vértices están en (±a, 0) y los focos en (±c, 0). Si el foco已知 es (4, 0), entonces c = 4. Si el vértice已知 es (2, 0), entonces a = 2. Error común: confundir a y c, usando c = 2 y a = 4.
+Para una elipse: 2c es la distancia focal, entonces c = 10/2 = 5. La longitud del eje mayor es 2a = 26, entonces a = 13. La excentricidad e = c/a = 5/13 ≈ 0.38. Errores típicos incluyen usar la distancia focal completa como c o no dividir la longitud del eje mayor entre 2.
 
 ---
 
-## Question 14 (Variant Advanced - Difficulty D8)
+## Question 14 (Variant Basic - Difficulty D7)
 
 **ID:** `CO-MAT-11-P3-geometria-analitica-018-MASTERY-v14`
-**Bloom:** [Analyze]
-**ICFES:** [Propositivo - Analizar distancia de punto a recta]
-**Context:** [Delimitación de zona protegida en el PNN Chiribiquete]
+**Bloom:** Apply
+**ICFES:** Calcular la ecuación de la recta tangente a una circunferencia
+**Context:** Fabricación de ruedas para la industria automotriz en Medellín
 
 ### Enunciado
-En el Parque Nacional Natural Chiribiquete, los guardaparques delimitan una zona circular de protección. Si la ecuación de la recta que define un límite es 4x + 3y - 12 = 0 y el punto de entrada del guardaparque está en (2, 4), ¿cuál es la distancia perpendicular del punto a la recta?
+Una empresa metalmecánica en Medellín fabrica ruedas donde el borde exterior sigue la circunferencia x² + y² = 25. Un cliente solicita cortar la rueda en un punto P(3, 4) para insertar un eje. ¿Cuál es la ecuación de la recta tangente a la circunferencia en el punto P?
 
 ### Options
-- [ ] A) 2 unidades
-- [x] B) 4 unidades <!-- feedback: d = |4(2) + 3(4) - 12| / √(4² + 3²) = |8 + 12 - 12| / 5 = |8| / 5 = 8/5 = 1.6. Pero el resultado correcto debería verificarse. Recalculando: |Ax₀ + By₀ + C| / √(A²+B²) = |4(2) + 3(4) - 12| / √(16+9) = |8+12-12|/5 = |8|/5 = 1.6. Sin embargo, ninguna opción es 1.6. Si la respuesta correcta es 4, hay inconsistencia. Asumo que puede haber un error tipográfico en las opciones o en los datos del problema. Para que d = 4, tendríamos |8|/√25 = |8|/5 = 1.6 ≠ 4. Para d = 4, el numerador debería ser 20. Con los datos originales, d = 1.6. No hay coincidencia con las opciones. -->
-- [ ] C) 8/5 unidades
-- [ ] D) 16/5 unidades
+- [ ] A) 3x + 4y = 25
+- [x] C) 3x + 4y = 25 <!-- feedback: Recta que pasa por (3,4) con pendiente m = -3/4: y - 4 = (-3/4)(x - 3) → 3x + 4y = 25 -->
+- [ ] B) 4x + 3y = 25
+- [ ] D) 3x - 4y = 25
 
 ### Explicación Pedagógica
-La distancia de un punto (x₀, y₀) a una recta Ax + By + C = 0 está dada por d = |Ax₀ + By₀ + C| / √(A² + B²). Sustituyendo: d = |4(2) + 3(4) - 12| / √(16 + 9) = |8 + 12 - 12| / 5 = 8/5 = 1.6 unidades. Error común: olvidar el valor absoluto o no dividir entre la raíz de la suma de cuadrados de los coeficientes.
+El radio en P es perpendicular a la tangente. El radio tiene pendiente m_rad = 4/3, entonces la tangente tiene pendiente m_tan = -3/4. Usando punto-pendiente: y - 4 = (-3/4)(x - 3) → multiplicando por 4: 4y - 16 = -3x + 9 → 3x + 4y = 25. El error más común es no recordar que la tangente es perpendicular al radio o invertir el signo.
 
 ---
 
-## Question 15 (Variant Advanced - Difficulty D8)
+## Question 15 (Variant Basic - Difficulty D8)
 
 **ID:** `CO-MAT-11-P3-geometria-analitica-018-MASTERY-v15`
-**Bloom:** [Evaluate]
-**ICFES:** [Propositivo - Evaluar condición de pertenencia a cónica]
-**Context:** [Geometría del莲花 Estadio de fútbol en Colombia]
+**Bloom:** Analyze
+**ICFES:** Identificar elementos de una hipérbola
+**Context:** Sistema de navegación GPS en las montañas de Santander
 
 ### Enunciado
-El diseño del estadio El Campín en Bogotá tiene una sección transversal elíptica con ecuación x²/36 + y²/16 = 1. Un arquitecto quiere verificar si el punto P(3, √7) pertenece a esta elipse. ¿Pertenece el punto P a la elipse?
+En el sistema de navegación GPS instalado en vehículos de carga en Santander, la señal se modela mediante una hipérbola con ecuación x²/16 - y²/9 = 1. ¿Cuáles son las coordenadas de los vértices y la distancia focal de esta hipérbola?
 
 ### Options
-- [ ] A) Sí, porque 9/36 + 7/16 = 1
-- [ ] B) No, porque 9/36 + 7/16 ≠ 1
-- [x] C) Sí, porque 9/36 + 7/16 = 1 <!-- feedback: Sustituyendo: (3)²/36 +
+- [ ] A) Vértices: (4, 0) y (-4, 0); distancia focal = 10
+- [ ] B) Vértices: (0, 3) y (0, -3); distancia focal = 8
+- [x] C) Vértices: (4, 0) y (-4, 0); distancia focal = 10 <!-- feedback: a² = 16 → a = 4; c² = a² + b² = 16 + 9 = 25 → c = 5; 2c = 10 -->
+- [ ] D) Vértices: (4, 0) y (-4, 0); distancia focal = 8 <!-- feedback: Error: se calcula c = √(a²+b²) pero se usa mal la fórmula de distancia focal -->
+
+### Explicación Pedagógica
+Para la hipérbola x²/a² - y²/b² = 1: a² = 16 → a = 4, entonces los vértices están en (±4, 0). La distancia focal es 2c, donde c² = a² + b² = 16 + 9 = 25 → c = 5. La distancia focal es 2c = 10. Errores comunes incluyen no sumar a² y b² para encontrar c, o no duplicar c.
+
+---
+
+## Question 16 (Variant Basic - Difficulty D8)
+
+**ID:** `CO-MAT-11-P3-geometria-analitica-018-MASTERY-v16`
+**Bloom:** Understand
+**ICFES:** Determinar la ecuación de una recta perpendicular a otra
+**Context:** Instalación de tuberías de agua en Cartagena
+
+### Enunciado
+Un ingeniero civil en Cartagena debe diseñar una tubería de alcantarillado que pase por el punto P(2, 3) y sea perpendicular a la tubería principal dada por la ecuación 2x + y - 

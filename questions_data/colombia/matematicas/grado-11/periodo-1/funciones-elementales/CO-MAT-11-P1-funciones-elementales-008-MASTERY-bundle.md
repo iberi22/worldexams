@@ -1,47 +1,50 @@
 <think>
-The user wants me to generate exactly 20 multiple choice questions in the ICFES Saber 11 style for Colombian mathematics, specifically on the topic of elementary functions (funciones-elementales), grade 11, period 1.
+The user wants me to generate exactly 20 ICFES-style multiple choice questions for Colombian Mathematics exam (Saber 11), specifically on the topic of "funciones-elementales" (elementary functions), for grade 11, period 1.
 
-Let me follow the format exactly:
+Let me follow the strict format requirements:
 
-1. First comes the YAML frontmatter block
-2. Then 20 questions with the exact structure provided
+1. Need to include YAML frontmatter with specific fields
+2. 20 questions with progressive difficulty:
+   - Questions 1-4: D3-D4 (Basic)
+   - Questions 5-10: D5-D6 (Medium)
+   - Questions 11-16: D7-D8 (Advanced)
+   - Questions 17-20: D9-D10 (Mastery)
+3. Each question needs:
+   - Specific ID format
+   - Bloom taxonomy level
+   - ICFES competency
+   - Modern Colombian context
+   - Clear statement
+   - 4 options (A, B, C, D) with exactly one marked as correct [x]
+   - Explanatory pedagogy section
+4. Plausible distractors based on common Colombian student errors
+5. No "all of the above" or "none of the above"
+6. No additional text before or after
 
-The difficulty progression should be:
-- Questions 1-4: D3-D4 (basic understanding)
-- Questions 5-10: D5-D6 (application)
-- Questions 11-16: D7-D8 (analysis)
-- Questions 17-20: D9-D10 (evaluation/synthesis)
-
-Let me create 20 questions about elementary functions including:
+Let me create these questions covering elementary functions:
 - Linear functions
 - Quadratic functions
-- Polynomial functions
 - Rational functions
 - Exponential functions
 - Logarithmic functions
-- Trigonometric functions
+- Absolute value functions
+- Piecewise functions
 
-Context should be modern and relevant to Colombia.
+I'll make sure to include Colombian contexts like:
+- Colombian peso exchange rates
+- Population growth in Colombian cities
+- Cricket populations
+- Telecommunications plans
+- Transportation costs
+- Agricultural production
+- Sports statistics
+- Educational statistics
 
-Let me generate these carefully:
-
-1. Question about identifying a linear function from a table of values
-2. Question about domain and range of a quadratic function
-3. Question about finding zeros of a polynomial
-4. Question about asymptotes of rational functions
-5. Question about exponential growth/decay
-6. Question about logarithmic properties
-7. Question about function composition
-8. Question about inverse functions
-9. Question about transformations of functions
-10. Question about periodic functions
-... and so on up to 20.
-
-Let me write these in Spanish with Colombian context.
+Let me generate each question carefully with proper distractors.
 
 </think>
 
-```yaml
+```markdown
 ---
 id: "CO-MAT-11-P1-funciones-elementales-008-MASTERY"
 country: "colombia"
@@ -56,7 +59,7 @@ alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
 generation:
   agent: "minimax-m2.7"
   model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T08:21:21.870826"
+  timestamp: "2026-04-15T23:30:04.381326"
   prompt_version: "v2-direct"
 quality_status: "UNREVISED"
 generation_status: "RAW"
@@ -71,375 +74,394 @@ license: "CC BY-NC-SA 4.0"
 open_source: false
 ---
 
-## Question 1 (Variant Basic - Difficulty 3)
+## Question 1 (Variant Basic - Difficulty D3)
 
 **ID:** `CO-MAT-11-P1-funciones-elementales-008-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Interpretación y representación
-**Context:** Datos de ventas de una empresa colombiana de confites en los últimos 6 meses.
+**ICFES:** Interpretación de expresiones matemáticas
+**Context:** Precios en supermercados de Bogotá
 
 ### Enunciado
-La tabla muestra las ganancias (en millones de pesos) de una empresa de confites durante seis meses:
+En un supermercado de Bogotá, el precio de un kilogramo de arroz viene dado por la expresión f(x) = 3.500x, donde x representa los kilogramos comprados y f(x) el precio en pesos colombianos. ¿Cuál es el precio de 4 kilogramos de arroz?
 
-| Mes | 1 | 2 | 3 | 4 | 5 | 6 |
-|-----|-------|-------|-------|-------|-------|-------|
-| Ganancia | 10 | 15 | 20 | 25 | 30 | 35 |
-
-¿Cuál de las siguientes funciones describe correctamente la relación entre el número del mes (x) y la ganancia (y)?
-
-### Options
-- [ ] A) y = 5x + 5
-- [ ] B) y = 10x
-- [x] C) y = 5x + 5
-- [ ] D) y = 5x
+- [ ] A) 3.504 pesos
+- [ ] B) 14.000 pesos
+- [x] C) 14.000 pesos
+- [ ] D) 7.000 pesos
 
 ### Explicación Pedagógica
-La respuesta correcta es A) y = 5x + 5. Observando la tabla, cuando x=1, y=10, y cuando x=2, y=15. La diferencia es 5, lo que indica que la pendiente es 5. Reemplazando: y = 5(1) + b = 10 → b = 5. El error común es confundir la pendiente con el intercepto; en B) y = 10x, cuando x=1 resulta y=10 pero para x=3 da 30, no 20. D) y = 5x da valores de 5, 10, 15... sin intercepto correcto.
+La función f(x) = 3.500x es una función lineal donde 3.500 es la constante de proporcionalidad (precio por kilogramo). Al reemplazar x = 4: f(4) = 3.500 × 4 = 14.000. El distractor A) es incorrecto porque suma 3.500 + 4 en lugar de multiplicar. El distractor D) es incorrecto porque divide 3.500 entre 2 (error común en operaciones con variable).
 
 ---
 
-## Question 2 (Variant Basic - Difficulty 3)
+## Question 2 (Variant Basic - Difficulty D3)
 
 **ID:** `CO-MAT-11-P1-funciones-elementales-008-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Modelamiento
-**Context:** Altura de un drone que despega desde el techo de un edificio en Bogotá.
+**ICFES:** Modelo matemático de situaciones reales
+**Context:** Viaje en taxi en Medellín
 
 ### Enunciado
-Un drone de reparto parte desde el techo de un edificio de 20 metros de altura y asciende a razón constante de 3 metros por segundo. ¿Cuál expresión representa la altura h(t) del drone respecto al suelo después de t segundos?
+Un servicio de taxi en Medellín cobra $4.200 de banderazo más $280 por cada 100 metros recorridos. Si f(d) representa el costo total en función de la distancia d (en hectómetros), ¿cuál es la expresión correcta?
 
-### Options
-- [ ] A) h(t) = 20 + 3t
-- [ ] B) h(t) = 23t
-- [ ] C) h(t) = 3t - 20
-- [ ] D) h(t) = 20t + 3
+- [ ] A) f(d) = 280d + 4.200
+- [x] B) f(d) = 280d + 4.200
+- [ ] C) f(d) = 4.200d + 280
+- [ ] D) f(d) = 280d - 4.200
 
 ### Explicación Pedagógica
-La respuesta correcta es A) h(t) = 20 + 3t. La altura inicial es 20 metros y asciende 3 metros por segundo. En t=0, h(0)=20. En t=5, h(5)=20+15=35m. Un error frecuente es restar la altura inicial (opción C), lo cual daría altura negativa al inicio. La opción B) solo tiene sentido si partiera del suelo y sin altura inicial.
+La función tiene la forma f(d) = md + b, donde m es la tarifa variable (280 por hectómetro) y b es el banderazo (4.200). El distractor C) invierte los coeficientes, asignando el valor fijo a la variable y viceversa. El distractor D) resta el banderazo, lo cual no tiene sentido en un contexto de cobro mínimo.
 
 ---
 
-## Question 3 (Variant Basic - Difficulty 4)
+## Question 3 (Variant Basic - Difficulty D4)
 
 **ID:** `CO-MAT-11-P1-funciones-elementales-008-MASTERY-v3`
 **Bloom:** Understand
-**ICFES:** Formulación y ejecución
-**Context:** Crecimiento poblacional en un municipio del Valle del Cauca.
+**ICFES:** Análisis de gráficas
+**Context:** Temperatura en la Sierra Nevada de Santa Marta
 
 ### Enunciado
-La población de un municipio del Valle del Cauca crece según la función P(t) = 50000(1.02)^t, donde t son años transcurridos desde hoy. ¿Cuál es el dominio y el rango de esta función?
+En la Sierra Nevada de Santa Marta, la temperatura (en °C) a distintas alturas sobre el nivel del mar viene dada por T(h) = 25 - 0.006h, donde h es la altura en metros. ¿Qué representa el número 0.006 en este contexto?
 
-### Options
-- [ ] A) Dominio: [0, ∞); Rango: [50000, ∞)
-- [ ] B) Dominio: (-∞, ∞); Rango: (0, ∞)
-- [x] C) Dominio: [0, ∞); Rango: [50000, ∞)
-- [ ] D) Dominio: (-∞, ∞); Rango: (-∞, ∞)
+- [ ] A) La temperatura máxima registrada
+- [ ] B) La altura sobre el nivel del mar
+- [x] C) El descenso promedio de temperatura por cada metro de ascenso
+- [ ] D) El valor inicial de la temperatura
 
 ### Explicación Pedagógica
-La respuesta correcta es C). La función exponencial P(t) = 50000(1.02)^t tiene como base 1.02 > 0, por lo que está definida para todo número real t. Sin embargo, en este contexto poblacional, t representa años desde hoy, por lo tanto t ≥ 0. El rango es [50000, ∞) porque el factor multiplicativo 50000 es el valor inicial y la función siempre será mayor o igual a este valor. Un error común es considerar el dominio como todos los reales sin considerar el contexto del problema.
+En la función lineal T(h) = 25 - 0.006h, el coeficiente de h (-0.006) indica la tasa de cambio o pendiente. En este contexto, significa que por cada metro que se asciende, la temperatura disminuye aproximadamente 0.006°C. El número 25 es la temperatura a nivel del mar (intercepto). Los distractores A) y D) confunden intercepto con pendiente.
 
 ---
 
-## Question 4 (Variant Basic - Difficulty 4)
+## Question 4 (Variant Basic - Difficulty D4)
 
 **ID:** `CO-MAT-11-P1-funciones-elementales-008-MASTERY-v4`
 **Bloom:** Apply
-**ICFES:** Interpretación y representación
-**Context:** Temperatura en una journée fría en Medellín.
+**ICFES:** Resolución de problemas
+**Context:** Plan de datos móviles en Colombia
 
 ### Enunciado
-La temperatura en Medellín durante un día de enero varía según la función T(h) = -2h² + 12h + 18, donde h representa la hora del día (0 ≤ h ≤ 12). ¿A qué hora se alcanza la temperatura máxima?
+Una compañía de telefonía celular ofrece un plan definido por la función C(x) = 25.000 + 120x, donde x son los gigabytes consumidos y C(x) el costo total mensual. Si un usuario tiene un presupuesto máximo de $85.000, ¿cuántos gigabytes puede consumir como máximo?
 
-### Options
-- [ ] A) h = 0
-- [ ] B) h = 3
-- [ ] C) h = 6
-- [ ] D) h = 18
+- [ ] A) 500 GB
+- [ ] B) 600 GB
+- [x] C) 500 GB
+- [ ] D) 708,3 GB
 
 ### Explicación Pedagógica
-La respuesta correcta es B) h = 3. La función T(h) = -2h² + 12h + 18 es una parábola con coeficiente a = -2 < 0, por lo que tiene un máximo en su vértice. La coordenada h del vértice es h = -b/(2a) = -12/(2·-2) = -12/(-4) = 3. Reemplazando: T(3) = -2(9) + 12(3) + 18 = -18 + 36 + 18 = 36°C. Un error común es evaluar en los extremos del intervalo sin encontrar el vértice.
+Se resuelve la inecuación: 25.000 + 120x ≤ 85.000 → 120x ≤ 60.000 → x ≤ 500. El distractor B) resulta de dividir 85.000 entre 120 olvidando restar el costo fijo. El distractor D) usa la expresión 85.000/120 sin restar 25.000, error frecuente en problemas de optimización.
 
 ---
 
-## Question 5 (Variant Medium - Difficulty 5)
+## Question 5 (Variant Medium - Difficulty D5)
 
 **ID:** `CO-MAT-11-P1-funciones-elementales-008-MASTERY-v5`
 **Bloom:** Apply
-**ICFES:** Formulación y ejecución
-**Context:** Costo de producción de camisetas artesanales en Medellín.
+**ICFES:** Interpretación de relaciones funcionales
+**Context:** Producción de café en el Eje Cafetero
 
 ### Enunciado
-El costo total C(x) en miles de pesos para producir x camisetas artesanales está dado por C(x) = x² - 20x + 150. ¿Cuántas camisetas se deben producir para minimizar el costo?
+La producción de café en una finca del Eje Cafetero (en quintales) está modelada por P(t) = 50 + 8t - 0.5t², donde t es el tiempo en años desde el inicio del cultivo. ¿En qué año la producción alcanza su máximo?
 
-### Options
-- [ ] A) 5
-- [ ] B) 10
-- [ ] C) 15
-- [ ] D) 20
+- [ ] A) En el año 0
+- [x] B) En el año 8
+- [ ] C) En el año 50
+- [ ] D) En el año 0,5
 
 ### Explicación Pedagógica
-La respuesta correcta es B) 10. Como C(x) es una función cuadrática con coeficiente a = 1 > 0, tiene un mínimo en el vértice. x_vértice = -b/(2a) = -(-20)/(2·1) = 20/2 = 10. Para 10 camisetas, C(10) = 100 - 200 + 150 = 50 mil pesos. Un error frecuente es elegir 5 (evaluando el lado izquierdo del vértice) sin verificar matemáticamente dónde está el mínimo.
+Como P(t) es una función cuadrática con coeficiente a = -0.5 < 0 (cóncava hacia abajo), el vértice representa el máximo. El tiempo del vértice es t = -b/(2a) = -8/(2×-0.5) = -8/-1 = 8. El distractor A) confunde el valor inicial con el máximo. El distractor C) usa el término constante (50) como variable. El distractor D) calcula el inverso del coeficiente.
 
 ---
 
-## Question 6 (Variant Medium - Difficulty 5)
+## Question 6 (Variant Medium - Difficulty D5)
 
 **ID:** `CO-MAT-11-P1-funciones-elementales-008-MASTERY-v6`
-**Bloom:** Apply
-**ICFES:** Modelamiento
-**Context:** Distancia de un taxi en Cartagena desde el centro histórico.
+**Bloom:** Understand
+**ICFES:** Análisis de funciones
+**Context:** Distancia de frenado en carreteras colombianas
 
 ### Enunciado
-Un taxi cobra $4.500 de bandera y $2.200 por cada kilómetro recorrido. Si x representa los kilómetros recorridos, ¿cuál es la función costo C(x) que modela el costo del recorrido desde el centro histórico de Cartagena?
+La distancia de frenado D (en metros) de un vehículo que viaja a velocidad v (en km/h) en una carretera seca de Colombia se aproxima por D(v) = 0.005v² + 0.8v. ¿Cuál es la distancia de frenado cuando el vehículo circula a 60 km/h?
 
-### Options
-- [ ] A) C(x) = 4500x + 2200
-- [ ] B) C(x) = 2200x
-- [ ] C) C(x) = 4500 + 2200x
-- [ ] D) C(x) = 6700x
+- [ ] A) 24,8 m
+- [ ] B) 48,8 m
+- [x] C) 48 m
+- [ ] D) 36,8 m
 
 ### Explicación Pedagógica
-La respuesta correcta es C) C(x) = 4500 + 2200x. El costo fijo de bandera es $4.500 y se suma el costo por kilómetro ($2.200 por cada x kilómetros). Para x = 3 km: C(3) = 4500 + 2200(3) = 4500 + 6600 = 11100 pesos. Un error común es multiplicar la bandera por x (opción A) cuando no hay razón para hacerlo, o excluir la bandera (opción B).
+Se evalúa: D(60) = 0.005(60)² + 0.8(60) = 0.005(3600) + 48 = 18 + 48 = 66 m. El distractor B) calcula 0.005×60² + 60 sin el 0.8. El distractor A) obtiene 0.8×60 + 0.005, invirtiendo los términos. El distractor D) usa solo 0.005v.
 
 ---
 
-## Question 7 (Variant Medium - Difficulty 5)
+## Question 7 (Variant Medium - Difficulty D5)
 
 **ID:** `CO-MAT-11-P1-funciones-elementales-008-MASTERY-v7`
 **Bloom:** Apply
-**ICFES:** Interpretación y representación
-**Context:** Inversión bancaria en una cuenta de ahorros en Colombia.
+**ICFES:** Resolución de problemas
+**Context:** Venta de artesanías en Villa de Leyva
 
 ### Enunciado
-¿Hace cuántos años un capital de $5.000.000 se transformó en $6.500.000 si la tasa de interés compuestos anual es del 8%?
+Un artesano de Villa de Leyva vende sus productos con la función ingreso I(x) = -5x² + 200x, donde x es el número de piezas vendidas. ¿Cuántas piezas debe vender para maximizar su ingreso?
 
-### Options
-- [ ] A) 1 año
-- [ ] B) 2 años
-- [x] C) 3 años
-- [ ] D) 4 años
+- [ ] A) 200 piezas
+- [x] B) 20 piezas
+- [ ] C) 40 piezas
+- [ ] D) 10 piezas
 
 ### Explicación Pedagógica
-La respuesta correcta es C) 3 años. Usando la fórmula de interés compuesto: 6500000 = 5000000(1.08)^t. Dividiendo: 6500000/5000000 = 1.3 = (1.08)^t. Evaluando: (1.08)² = 1.1664, (1.08)³ ≈ 1.2597, (1.08)⁴ ≈ 1.3605. El más cercano es 3 años. Un error común es usar la fórmula de interés simple: 6500000 = 5000000(1 + 0.08t), lo que da t = 3.75 años.
+Para una parábola que abre hacia abajo (a = -5 < 0), el vértice da el máximo. x = -b/(2a) = -200/(2×-5) = -200/-10 = 20. El distractor A) usa el coeficiente lineal. El distractor C) calcula -b/a (omitiendo el 2). El distractor D) usa b/(2a) positivo sin el signo de a.
 
 ---
 
-## Question 8 (Variant Medium - Difficulty 6)
+## Question 8 (Variant Medium - Difficulty D6)
 
 **ID:** `CO-MAT-11-P1-funciones-elementales-008-MASTERY-v8`
-**Bloom:** Apply
-**ICFES:** Formulación y ejecución
-**Context:** Altura de un balón de fútbol en un partido en Barranquilla.
+**Bloom:** Analyze
+**ICFES:** Comparación de funciones
+**Context:** Comparación de planes de telefonía en Colombia
 
 ### Enunciado
-Un guardameta patea un balón desde el suelo con una velocidad inicial de 20 m/s formando un ángulo de 45° con la horizontal. La altura h(t) del balón está dada por h(t) = -5t² + 14.14t. ¿Cuál es la altura máxima aproximada que alcanza el balón?
+Dos empresas de telefonía ofrecen los siguientes planes:
+- Empresa A: C₁(x) = 35.000 + 80x
+- Empresa B: C₂(x) = 20.000 + 150x
+donde x son los minutos consumidos. ¿A partir de cuántos minutos es más económico el plan B?
 
-### Options
-- [ ] A) 10 m
-- [ ] B) 14.14 m
-- [ ] C) 20 m
-- [ ] D) 28.28 m
+- [ ] A) Menos de 150 minutos
+- [ ] B) Exactamente 150 minutos
+- [x] C) Más de 150 minutos
+- [ ] D) Nunca es más económico
 
 ### Explicación Pedagógica
-La respuesta correcta es A) 10 m. La altura máxima está en el vértice de la parábola: t_v = -b/(2a) = -14.14/(2·-5) = -14.14/-10 = 1.414 segundos. h(1.414) = -5(1.414)² + 14.14(1.414) = -5(2) + 20 ≈ -10 + 20 = 10 m. Un error común es tomar el valor de b = 14.14 como la altura máxima, sin calcular el vértice.
+Se resuelve C₁(x) = C₂(x): 35.000 + 80x = 20.000 + 150x → 15.000 = 70x → x ≈ 214,3 minutos. Para x > 214,3, el plan B es más económico. El distractor A) invierte la desigualdad. El distractor B) confunde el punto de equilibrio con la solución. El distractor D) ignora que las funciones son lineales con diferentes pendientes.
 
 ---
 
-## Question 9 (Variant Medium - Difficulty 6)
+## Question 9 (Variant Medium - Difficulty D6)
 
 **ID:** `CO-MAT-11-P1-funciones-elementales-008-MASTERY-v9`
 **Bloom:** Understand
-**ICFES:** Interpretación y representación
-**Context:** Ventas mensuales de una empresa de empanadas en Cali.
+**ICFES:** Identificación de características de funciones
+**Context:** Crecimiento poblacional en Barranquilla
 
 ### Enunciado
-La función f(x) = 2x + 3 representa las ventas semanales (en miles de pesos) de empanadas, y g(x) = x² - 4 representa el costo semanal. Si la ganancia semanal es G(x) = f(x) - g(x), ¿cuál es la expresión de G(x)?
+La población P(t) de Barranquilla (en miles de habitantes) está modelada por P(t) = 500 · 2^(t/20), donde t es el tiempo en años desde 2020. ¿Cuál es la interpretación correcta del número 20 en la función?
 
-### Options
-- [ ] A) G(x) = x² + 2x + 7
-- [ ] B) G(x) = -x² + 2x + 7
-- [ ] C) G(x) = -x² + 2x - 1
-- [ ] D) G(x) = x² - 2x - 1
+- [ ] A) La población inicial
+- [x] B) El tiempo en años para que la población se duplique
+- [ ] C) El crecimiento anual en miles de habitantes
+- [ ] D) El factor multiplicativo de la población
 
 ### Explicación Pedagógica
-La respuesta correcta es B) G(x) = -x² + 2x + 7. Calculando: G(x) = (2x + 3) - (x² - 4) = 2x + 3 - x² + 4 = -x² + 2x + 7. Un error común es olvidar el paréntesis y restar incorrectamente: 2x + 3 - x² - 4 = -x² + 2x - 1 (opción C).
+En P(t) = 500 · 2^(t/20), cuando t = 20: P(20) = 500 · 2^(20/20) = 500 · 2 = 1000, exactamente el doble de la población inicial. Por lo tanto, 20 representa el tiempo de duplicación. El distractor A) confunde con la población inicial (500). El distractor C) no tiene relación con el modelo exponencial. El distractor D) confunde con la base 2.
 
 ---
 
-## Question 10 (Variant Medium - Difficulty 6)
+## Question 10 (Variant Medium - Difficulty D6)
 
 **ID:** `CO-MAT-11-P1-funciones-elementales-008-MASTERY-v10`
 **Bloom:** Apply
-**ICFES:** Modelamiento
-**Context:** pH de una solución en un laboratorio de química en la Universidad Nacional.
+**ICFES:** Modelamiento matemático
+**Context:** Radio de cobertura de una estación de radio en Colombia
 
 ### Enunciado
-La concentración de iones hidrógeno [H⁺] en una solución es 3.2 × 10⁻⁵ moles por litro. ¿Cuál es el pH de la solución? (Nota: pH = -log₁₀[H⁺])
+El área de cobertura A(r) de una estación de radio en Colombia viene dada por A(r) = πr², donde r es el radio de cobertura en kilómetros. Si el radio aumenta de 10 km a 20 km, ¿en qué factor aumenta el área?
 
-### Options
-- [ ] A) 4.5
-- [ ] B) 5.2
-- [ ] C) 4.5
-- [ ] D) 3.2
+- [ ] A) 2
+- [ ] B) π
+- [x] C) 4
+- [ ] D) 10
 
 ### Explicación Pedagógica
-La respuesta correcta es A) 4.5. Calculando: pH = -log₁₀(3.2 × 10⁻⁵) = -[log₁₀(3.2) + log₁₀(10⁻⁵)] = -[0.505 + (-5)] = -[0.505 - 5] = -(-4.495) = 4.495 ≈ 4.5. Un error común es usar log natural en lugar de log base 10, o simplemente copiar el exponente -5 como respuesta.
+A₁ = π(10)² = 100π; A₂ = π(20)² = 400π. El factor de aumento es 400π/100π = 4. Este resultado ilustra que el área aumenta con el cuadrado del radio (relación cuadrática). El distractor A) sería correcto si fuera una relación lineal. El distractor B) confunde con π. El distractor D) es el factor de aumento del radio.
 
 ---
 
-## Question 11 (Variant Advanced - Difficulty 7)
+## Question 11 (Variant Advanced - Difficulty D7)
 
 **ID:** `CO-MAT-11-P1-funciones-elementales-008-MASTERY-v11`
 **Bloom:** Analyze
-**ICFES:** Formulación y ejecución
-**Context:** Producción de café en una finca en Armenia, Quindío.
+**ICFES:** Análisis de gráficas
+**Context:** Funciones definidas por tramos en tarifas de servicios públicos
 
 ### Enunciado
-Una finca cafetera en Armenia produce P(t) = 1000 + 500t - 50t² kilogramos de café verde al año, donde t es el número de años desde 2020. ¿En qué año la producción alcanzará su máximo?
+La tarifa de energía eléctrica en cierto estrato está definida por:
+f(x) = { 150x, si 0 ≤ x ≤ 200; 30.000 + 200(x-200), si x > 200 }
+donde x es el consumo en kWh y f(x) el costo en pesos. Si el consumo fue de 350 kWh, ¿cuál es el valor a pagar?
 
-### Options
-- [ ] A) 2020
-- [ ] B) 2023
-- [ ] C) 2025
-- [ ] D) 2028
+- [ ] A) 52.500 pesos
+- [ ] B) 45.000 pesos
+- [x] C) 60.000 pesos
+- [ ] D) 73.000 pesos
 
 ### Explicación Pedagógica
-La respuesta correcta es C) 2025. El vértice de la parábola P(t) = -50t² + 500t + 1000 está en t = -b/(2a) = -500/(2·-50) = -500/-100 = 5 años después de 2020. t = 5 corresponde al año 2025. P(5) = 1000 + 2500 - 1250 = 2250 kg. El error común es no aplicar la fórmula del vértice y solo evaluar en los extremos o valores arbitrarios.
+Como 350 > 200, se usa la segunda expresión: f(350) = 30.000 + 200(350-200) = 30.000 + 200(150) = 30.000 + 30.000 = 60.000. El distractor A) usa f(x) = 150x para todo el consumo. El distractor B) calcula 30.000 + 150(350-200). El distractor D) aplica 200x sin ajustar los 200 kWh iniciales.
 
 ---
 
-## Question 12 (Variant Advanced - Difficulty 7)
+## Question 12 (Variant Advanced - Difficulty D7)
 
 **ID:** `CO-MAT-11-P1-funciones-elementales-008-MASTERY-v12`
 **Bloom:** Analyze
-**ICFES:** Interpretación y representación
-**Context:** Evolución del coronavirus en Colombia durante 2020.
+**ICFES:** Interpretación de funciones inversas
+**Context:** Equivalencia de temperatura entre escalas Celsius y Fahrenheit en Bogotá
 
 ### Enunciado
-El número de casos confirmados de COVID-19 en Colombia durante 2020 siguió aproximadamente la función C(d) = 100 · 2^(d/30), donde d es el número de días desde el 1 de marzo. ¿Cuántos días tardó aproximadamente en duplicarse el número de casos?
+La relación entre la temperatura en °C (C) y en °F (F) viene dada por F(C) = (9/5)C + 32. Si la temperatura en Bogotá es de 20°C, ¿cuál temperatura en Fahrenheit corresponde a esta medida?
 
-### Options
-- [ ] A) 15 días
-- [ ] B) 30 días
-- [ ] C) 60 días
-- [ ] D) 90 días
+- [ ] A) 68°F
+- [ ] B) 36°F
+- [x] C) 68°F
+- [ ] D) 52°F
 
 ### Explicación Pedagógica
-La respuesta correcta es B) 30 días. En una función exponencial de la forma C(d) = 100 · 2^(d/30), cuando d = 30, el exponente es 1, entonces C(30) = 100 · 2¹ = 200, exactamente el doble de C(0) = 100. Un error común es pensar que se duplica cuando el exponente es 2 (d = 60) sin analizar la estructura de la función.
+Se evalúa F(20) = (9/5)(20) + 32 = 9×4 + 32 = 36 + 32 = 68°F. El distractor B) obtiene (5/9)(20) + 32, usando incorrectamente la inversa. El distractor D) calcula (9/5)(20-32) = (9/5)(-12) = -21.6, error en la estructura algebraica.
 
 ---
 
-## Question 13 (Variant Advanced - Difficulty 7)
+## Question 13 (Variant Advanced - Difficulty D7)
 
 **ID:** `CO-MAT-11-P1-funciones-elementales-008-MASTERY-v13`
 **Bloom:** Analyze
-**ICFES:** Modelamiento
-**Context:** Crecimiento de bacterias en un cultivo de yogurt Artesanal en Nariño.
+**ICFES:** Análisis de funciones
+**Context:** Concentración de contaminante en el Río Magdalena
 
 ### Enunciado
-Un cultivo de bacterias lácticas inicia con 500 unidades y crece según la función N(t) = 500 · e^(0.3t). ¿Después de cuántas horas el cultivo alcanzará 2000 unidades?
+La concentración C(t) de un contaminante (en ppm) en el Río Magdalena está modelada por C(t) = 100/(t+1), donde t es el tiempo en días después de un derrame. ¿Qué sucede con la concentración a medida que pasan los días?
 
-### Options
-- [ ] A) 2.3 horas
-- [ ] B) 4.6 horas
-- [ ] C) 6.9 horas
-- [ ] D) 9.2 horas
+- [ ] A) Aumenta indefinidamente
+- [x] B) Disminuye y se acerca a cero sin alcanzarlo
+- [ ] C) Permanece constante
+- [ ] D) Disminuye hasta llegar a cero exactamente
 
 ### Explicación Pedagógica
-La respuesta correcta es B) 4.6 horas. Resolviendo: 2000 = 500 · e^(0.3t) → 4 = e^(0.3t) → ln(4) = 0.3t → t = ln(4)/0.3 ≈ 1.386/0.3 ≈ 4.62 horas. Un error frecuente es usar el logaritmo base 10 en lugar de ln, o no despejar correctamente el exponente.
+Como C(t) es una función racional decreciente con asíntota horizontal y = 0, los valores siempre son positivos y se acercan a cero sin alcanzarlo jamás (t > 0 siempre da C > 0). El distractor A) describe comportamiento opuesto. El distractor C) no corresponde a la función. El distractor D) confunde "acercarse" con "alcanzar" la asíntota.
 
 ---
 
-## Question 14 (Variant Advanced - Difficulty 7)
+## Question 14 (Variant Advanced - Difficulty D7)
 
 **ID:** `CO-MAT-11-P1-funciones-elementales-008-MASTERY-v14`
-**Bloom:** Analyze
-**ICFES:** Interpretación y representación
-**Context:** Temperatura de una arepa en el centro de Bogotá.
+**Bloom:** Understand
+**ICFES:** Reconocimiento de operaciones
+**Context:** Degradación de medicamento en el cuerpo humano
 
 ### Enunciado
-Una arepa se saca del horno a 180°C y se enfría en un cuarto a 20°C. Su temperatura T(t) sigue la ley de enfriamiento de Newton: T(t) = 20 + 160·e^(-0.1t). ¿Cuál es la temperatura después de 10 minutos?
+La cantidad Q(t) de un medicamento (en mg) en el torrente sanguíneo se modela por Q(t) = 80 · (1/2)^(t/4), donde t es el tiempo en horas. ¿Después de cuántas horas la cantidad del medicamento se reduce a la mitad de la dosis inicial?
 
-### Options
-- [ ] A) 35°C
-- [ ] B) 50°C
-- [ ] C) 65°C
-- [ ] D) 80°C
+- [ ] A) 4 horas
+- [x] B) 4 horas
+- [ ] C) 8 horas
+- [ ] D) 2 horas
 
 ### Explicación Pedagógica
-La respuesta correcta es C) 65°C. Evaluando: T(10) = 20 + 160·e^(-0.1·10) = 20 + 160·e^(-1) = 20 + 160·0.3679 ≈ 20 + 58.9 = 78.9°C. Esperaba 79°C pero como opción está 80°C. Verificando con más precisión: e^(-1) ≈ 0.3679, 160·0.3679 = 58.86, T(10) = 78.86 ≈ 79°C. Ninguna coincide exactamente; reconsiderando, quizás la respuesta correcta sería 80°C si se aproximó. Pero revisando mis cálculos, none of the options match exactly. Let me reconsider: T(10) = 20 + 160/e ≈ 20 + 160/2.718 ≈ 20 + 58.9 = 78.9°C. La opción más cercana es 80°C. Sin embargo, evaluando la opción B) 50°C: 20 + 160·e^(-1) = 78.9°C, no 50°C. Revisando el enunciado, tal vez hay un error de cálculo en la opciones o debo recalcular. T(10) = 20 + 160·e^(-1) ≈ 78.86°C ≈ 79°C. Opción D) 80°C sería la más cercana. Aunque no es exacta, es la mejor aproximación.
+La vida media del medicamento es 4 horas: cuando t = 4, Q(4) = 80 · (1/2)^(4/4) = 80 · (1/2)¹ = 40 mg, exactamente la mitad. El distractor C) corresponde a una reducción a un cuarto. El distractor D) calcula la reducción después de 2 horas: Q(2) = 80 · (1/2)^(0.5) ≈ 56.6 mg.
 
 ---
 
-## Question 15 (Variant Advanced - Difficulty 8)
+## Question 15 (Variant Advanced - Difficulty D8)
 
 **ID:** `CO-MAT-11-P1-funciones-elementales-008-MASTERY-v15`
-**Bloom:** Evaluate
-**ICFES:** Formulación y ejecución
-**Context:** Señal de internet en un apartamento en Medellín.
+**Bloom:** Analyze
+**ICFES:** Análisis de funciones
+**Context:** Altura de un proyectil lanzado desde el Cañón del Chicamocha
 
 ### Enunciado
-La intensidad de la señal WiFi en un apartamento está modelada por I(d) = 100 · (0.5)^d, donde d es la distancia en metros desde el router. Si un usuario necesita al menos el 25% de la intensidad original para tener buena conexión, ¿cuál es la distancia máxima desde el router?
+La altura h(t) (en metros) de un proyectil lanzado desde el Cañón del Chicamocha está dada por h(t) = -5t² + 40t + 15. ¿Cuál es la altura máxima que alcanza el proyectil?
 
-### Options
-- [ ] A) 1 m
-- [ ] B) 2 m
-- [ ] C) 3 m
-- [ ] D) 4 m
+- [ ] A) 40 m
+- [ ] B) 55 m
+- [x] C) 95 m
+- [ ] D) 15 m
 
 ### Explicación Pedagógica
-La respuesta correcta es B) 2 m. Resolviendo: 25 = 100 · (0.5)^d → 0.25 = (0.5)^d → (0.5)^2 = 0.25 → d = 2 metros. Un error común es no convertir el 25% a decimal 0.25, o pensar que 0.5^1 = 0.25 cuando en realidad 0.5^1 = 0.5.
+El vértice de la parábola está en t = -b/(2a) = -40/(2×-5) = 4 segundos. La altura máxima es h(4) = -5(16) + 40(4) + 15 = -80 + 160 + 15 = 95 m. El distractor A) confunde la velocidad inicial con la altura. El distractor B) calcula h(2) en lugar del vértice. El distractor D) toma solo la altura inicial.
 
 ---
 
-## Question 16 (Variant Advanced - Difficulty 8)
+## Question 16 (Variant Advanced - Difficulty D8)
 
 **ID:** `CO-MAT-11-P1-funciones-elementales-008-MASTERY-v16`
-**Bloom:** Evaluate
-**ICFES:** Modelamiento
-**Context:** Degradación de un antibiótico en el cuerpo humano.
+**Bloom:** Analyze
+**ICFES:** Composición de funciones
+**Context:** Transformación del valor del dólar en Colombia
 
 ### Enunciado
-Un antibiótico se elimina del cuerpo con una vida media de 4 horas. Si se administran 200 mg y la concentración C(t) sigue C(t) = 200 · (0.5)^(t/4), ¿después de cuántas horas quedan aproximadamente 50 mg en el cuerpo?
+Si f(x) = 2x + 500 representa el valor del dólar en pesos hace x meses, y g(y) = 1.05y representa el efecto de una devaluación sobre un valor en pesos, ¿cuál expresión representa el valor del dólar después de la devaluación?
 
-### Options
-- [ ] A) 4 horas
-- [ ] B) 8 horas
-- [ ] C) 12 horas
-- [ ] D) 16 horas
+- [ ] A) f(g(x)) = 2x + 525
+- [ ] B) g(f(x)) = 2.1x + 525
+- [x] C) g(f(x)) = 2.1x + 1.025
+- [ ] D) f(f(x)) = 4x + 1.500
 
 ### Explicación Pedagógica
-La respuesta correcta es C) 12 horas. Resolviendo: 50 = 200 · (0.5)^(t/4) → 0.25 = (0.5)^(t/4) → (0.5)^2 = 0.25 → t/4 = 2 → t = 8 horas. Un error común es no dividir el exponente entre 4 y directamente igualar t a 2, obteniendo 2 horas (opción no disponible) o malinterpretar la vida media como multiplicador directo.
+g(f(x)) = 1.05(2x + 500) = 1.05×2x + 1.05×500 = 2.1x + 525. Es importante notar que la composicion g∘f es diferente de f∘g. El distractor A) aplica g solo a la constante. El distractor B) calcula mal 1.05×500 = 525 correcto pero 1.05×2 = 2.05 incorrecto. El distractor D) aplica f dos veces, confusión entre composición e iteración.
 
 ---
 
-## Question 17 (Variant Advanced - Difficulty 9)
+## Question 17 (Variant Mastery - Difficulty D9)
 
 **ID:** `CO-MAT-11-P1-funciones-elementales-008-MASTERY-v17`
-**Bloom:** Analyze
-**ICFES:** Interpretación y representación
-**Context:** Vibración de una cuerda de tiple en un conjunto vallenato en Valledupar.
+**Bloom:** Evaluate
+**ICFES:** Evaluación de modelos
+**Context:** Análisis de préstamos bancarios en Colombia
 
 ### Enunciado
-La posición y(t) de un punto en una cuerda de tiple está dada por y(t) = 3·sen(100πt) centímetros. ¿Cuál es la frecuencia fundamental de vibración en Hz?
+Un banco ofrece un préstamo con la función monto M(t) = 1.000.000 · (1.02)^t, donde t son los años. ¿Cuál afirmación es correcta sobre este modelo?
 
-### Options
-- [ ] A) 50 Hz
-- [ ] B) 100 Hz
-- [ ] C) 200 Hz
-- [ ] D) 314 Hz
+- [ ] A) El préstamo se duplica cada año
+- [x] B) La tasa de interés efectiva anual es 2%
+- [ ] C) El interés se calcula solo sobre el capital inicial
+- [ ] D) Después de 10 años el monto es 1.200.000 pesos
 
 ### Explicación Pedagógica
-La respuesta correcta es A) 50 Hz. La forma general es y(t) = A·sen(ωt), donde ω = 100π rad/s. La frecuencia es f = ω/(2π) = 100π/(2π) = 50 Hz. Un error común es confundir ω con la frecuencia y直接把 100π como respuesta (opción D), o dividir incorrectamente entre π nomás.
+La función M(t) = P(1+i)^t modela interés compuesto. El factor (1.02) indica i = 0.02 = 2%. El distractor A) sería verdadero si fuera 2^t. El distractor C) describe interés simple, no compuesto. El distractor D) calcula 1.000.000 + 10×20.000 = 1.200.000, confundiendo interés simple con compuesto.
 
 ---
 
-## Question 18 (Variant Advanced - Difficulty 9)
+## Question 18 (Variant Mastery - Difficulty D9)
 
 **ID:** `CO-MAT-11-P1-funciones-elementales-008-MASTERY-v18`
-**Bloom:** Apply
-**ICFES:** Formulación y ejecución
-**Context:** Altura del nivel del agua en un tanque durante una分为lluvia en Bucaramanga.
+**Bloom:** Create
+**ICFES:** Modelamiento y predicción
+**Context:** Propagación de información en redes sociales en Colombia
 
 ### Enunciado
-El nivel de agua h(t) en un tanque durante una tormenta sigue la función h(t) = 5 + 2·cos(πt/6
+El número de usuarios N(t) que ven una publicación viral en Twitter/X en Colombia sigue N(t) = 1.000 · (1 - 0.1)^t. ¿Cuál es el dominio apropiado para este modelo?
+
+- [ ] A) Todos los números reales
+- [x] B) t ≥ 0, t entero
+- [ ] C) 0 < t ≤ 10
+- [ ] D) t > 1
+
+### Explicación Pedagógica
+En el contexto de redes sociales, t representa tiempo (medido en períodos como horas o días) desde la publicación. Solo tiene sentido t ≥ 0. Además, como modela personas, t debe ser entero. El distractor A) incluye valores negativos de tiempo, sin sentido en el contexto. El distractor C) limita artificialmente. El distractor D) excluye t = 0.
+
+---
+
+## Question 19 (Variant Mastery - Difficulty D10)
+
+**ID:** `CO-MAT-11-P1-funciones-elementales-008-MASTERY-v19`
+**Bloom:** Evaluate
+**ICFES:** Análisis crítico de modelos
+**Context:** Efectividad de campaña de vacunación contra el dengue en Cartagena
+
+### Enunciado
+La cantidad de personas inmunizadas I(p) después de aplicar una campaña está modelada por I(p) = 500.000 · log(p) + 50.000, donde p es el presupuesto en millones de pesos. Si se invierten 10 millones, ¿cuántas personas se inmunizan?
+
+- [ ] A) 500.000
+- [ ] B) 500.010
+- [x] C) 550.000
+- [ ] D) 550.010
+
+### Explicación Pedagógica
+I(10) = 500.000 · log(10) + 50.000 = 500.000 · 1 + 50.000 = 550.000 personas. El distractor A) ignora el término constante. El distractor B) suma log(10) = 1 incorrectamente a 500.000. El distractor D) calcula log(10) + 50.010, error en la operación de logaritmo.
+
+---
+
+## Question 20 (Variant Mastery - Difficulty D10)
+
+**ID:** `CO-MAT-11-P1-funciones-elementales-008-MASTERY-v20`
+**Bloom:** Create
+**ICFES:** Síntesis y evaluación
+**Context:** Análisis integral de funciones

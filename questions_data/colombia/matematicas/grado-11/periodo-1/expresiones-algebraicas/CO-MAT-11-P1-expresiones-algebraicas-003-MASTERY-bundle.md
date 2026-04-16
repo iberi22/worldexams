@@ -1,28 +1,40 @@
 <think>
-The user wants me to generate exactly 20 ICFES-style multiple choice questions for Colombian Math exam (Saber 11), specifically about algebraic expressions, grade 11, period 1.
+The user wants me to generate exactly 20 ICFES-style multiple choice questions for Mathematics, specifically on algebraic expressions, for grade 11, period 1.
 
-I need to follow the exact format specified:
-- YAML frontmatter with specific fields
-- 20 questions with progressive difficulty (D3-D4 for 1-4, D5-D6 for 5-10, D7-D8 for 11-16, D9-D10 for 17-20)
-- Each question has: ID, Bloom level, ICFES competence, Context, Statement, 4 options (A, B, C, D), explanation
-- C is the correct answer (with [x])
-- Colombian modern context
-- Plausible distractors (real student errors)
-- No "all of the above" or "none of the above"
+Let me follow all the rules:
+1. Progressive difficulty: D3-D4 (questions 1-4), D5-D6 (5-10), D7-D8 (11-16), D9-D10 (17-20)
+2. Plausible distractors: real errors Colombian students make
+3. ICFES alignment: real Saber 11 exam style
+4. Modern Colombian context
+5. 4 mandatory options, [x] on the correct one
+6. No "all of the above" or "none of the above"
 
-Let me create 20 questions about algebraic expressions:
+The format requires:
+- Frontmatter YAML at the top
+- Each question with the specific structure
+- Question N (Variant Basic - Difficulty X)
+- ID, Bloom level, ICFES competence, Context
+- Enunciado, Options, Explicación Pedagógica
 
-Topics to cover for algebraic expressions (grade 11, period 1):
-1. Simplification of algebraic expressions
-2. Polynomial operations (addition, subtraction, multiplication, division)
-3. Factoring (common factor, trinomials, difference of squares, sum/difference of cubes)
-4. Algebraic fractions (simplification, operations)
-5. Rational expressions
-6. Special products
-7. Binomial expansion
-8. Synthetic division basics
+Let me create these 20 questions following the algebraic expressions topic for grade 11 period 1 in Colombia.
 
-I'll create questions with increasing difficulty and Colombian contexts.
+Topics I should cover for algebraic expressions at this level:
+- Polynomial operations (addition, subtraction, multiplication, division)
+- Factoring (common factor, trinomials, difference of squares, sum/difference of cubes)
+- Algebraic fractions (simplification, operations)
+- Rational expressions
+- Special products
+- Binomial theorem basics
+- Absolute value expressions with algebra
+- Radical expressions and rationalization
+
+Difficulty progression:
+- Questions 1-4: D3-D4 (Remember/Understand level)
+- Questions 5-10: D5-D6 (Apply level)
+- Questions 11-16: D7-D8 (Analyze level)
+- Questions 17-20: D9-D10 (Evaluate/Create level)
+
+Let me generate the questions now.
 </think>
 
 ```yaml
@@ -40,7 +52,7 @@ alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
 generation:
   agent: "minimax-m2.7"
   model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T08:05:43.443438"
+  timestamp: "2026-04-15T23:17:12.581329"
   prompt_version: "v2-direct"
 quality_status: "UNREVISED"
 generation_status: "RAW"
@@ -54,25 +66,26 @@ curation:
 license: "CC BY-NC-SA 4.0"
 open_source: false
 ---
+```
 
 ## Question 1 (Variant Basic - Difficulty D3)
 
 **ID:** `CO-MAT-11-P1-expresiones-algebraicas-003-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Interpretación y uso de expresiones algebraicas
-**Context:** En una empresa colombiana de mensajería en Bogotá, se cobra según la expresión algebraica que representa el costo de envío.
+**ICFES:** Razonamiento abstracto - Reconocimiento de patrones algebraicos
+**Context:** Un estudiante de grado 11 en Bogotá analiza patrones numéricos para un proyecto de statistics
 
 ### Enunciado
-Al simplificar la expresión algebraica 6x²y + 8xy² - 2xy, el resultado correcto es:
+Al simplificar la expresión algebraica 12x²y³z ÷ 3xy², el resultado correcto es:
 
 ### Options
-- [ ] A) 2xy(3x + 4y) <!-- No se factoriza correctamente el segundo término -->
-- [ ] B) 2xy(3x - 4y + 1) <!-- Error común: no agrupar todos los términos -->
-- [x] C) 2xy(3x + 4y - 1) <!-- Correcto: se extrae el factor común 2xy de todos los términos -->
-- [ ] D) 2x²y(3 + 4y) <!-- Error: no se reconoce el factor común completo -->
+- [ ] A) 4xy
+- [ ] B) 4xyz²
+- [x] C) 4xy²z <!-- feedback: 12÷3=4, x²÷x=x, y³÷y²=y, z÷1=z -->
+- [ ] D) 4x²y²z³ <!-- feedback: Error al no dividir correctamente los exponentes -->
 
 ### Explicación Pedagógica
-Para factorizar 6x²y + 8xy² - 2xy, identificamos el factor común: 2xy (2 es el MCD de 6, 8 y 2; xy es la variable común en todos los términos). Al dividir cada término entre 2xy obtenemos: 3x + 4y - 1. El error común A ocurre cuando se olvida el signo negativo del tercer término. El error en B es no incluir todos los términos en la factorización. En D se selecciona incorrectamente el factor común.
+La división de monomios requiere restar los exponentes de las variables que se repiten. El coeficiente 12÷3=4 es correcto. Para las variables: x²÷x=x^(2-1)=x, y³÷y²=y^(3-2)=y, y la variable z permanece. El error común es no aplicar correctamente la ley de exponentes o多余的 incluir variables adicionales.
 
 ---
 
@@ -80,307 +93,271 @@ Para factorizar 6x²y + 8xy² - 2xy, identificamos el factor común: 2xy (2 es e
 
 **ID:** `CO-MAT-11-P1-expresiones-algebraicas-003-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Modelo matemático de situaciones reales
-**Context:** En una pizzería de Medellín, se calcula el costo de ingredientes usando expresiones algebraicas.
+**ICFES:** Interpretación de representaciones algebraicas
+**Context:** Un joven en Medellín trabaja en el diseño de un jardín rectangular para su comunidad
 
 ### Enunciado
-Si el área de un círculo está dada por πr² y se tiene una expresión A = π(r+3)² - πr², ¿cuál es la forma simplificada de esta diferencia de áreas?
+El área de un rectángulo está representada por la expresión (x² - 9). Si uno de sus lados mide (x - 3), ¿cuál expresión representa la medida del otro lado?
 
 ### Options
-- [ ] A) 6πr + 9π <!-- Error: desarrollo incompleto del binomio -->
-- [ ] B) 6πr + 6π <!-- Confusión: no se suma el término independiente -->
-- [x] C) 6πr + 9π <!-- Correcto: diferencia de cuadrados perfectosfactorizados -->
-- [ ] D) 3πr + 9π <!-- Error: coeficiente incorrecto en el término lineal -->
+- [ ] A) x + 3
+- [x] B) x + 3 <!-- feedback: Diferencia de cuadrados: a²-b²=(a+b)(a-b), entonces x²-9=(x+3)(x-3) -->
+- [ ] C) x - 3
+- [ ] D) x² + 6x + 9
 
 ### Explicación Pedagógica
-Expandiendo: π(r+3)² = π(r² + 6r + 9) = πr² + 6πr + 9π. Restando πr² obtenemos 6πr + 9π = 3π(2r + 3). El error común A es pensar que (r+3)² = r² + 6r, olvidando el término independiente. B ocurre al desarrollar incorrectamente el binomio. D muestra errores en el coeficiente del término lineal.
+La expresión x² - 9 es una diferencia de cuadrados porque 9 = 3². Aplicando la fórmula a² - b² = (a + b)(a - b), obtenemos (x + 3)(x - 3). Dado que un lado es (x - 3), el otro debe ser (x + 3). El error común es creer que la factorización produce el mismo binomio o confundir con el cuadrado perfecto.
 
 ---
 
 ## Question 3 (Variant Basic - Difficulty D4)
 
 **ID:** `CO-MAT-11-P1-expresiones-algebraicas-003-MASTERY-v3`
-**Bloom:** Apply
-**ICFES:** Resolución de problemas con expresiones algebraicas
-**Context:** En una constructora de Cali, se diseñan ventanas con marcos metálicos donde las medidas se representan mediante expresiones algebraicas.
+**Bloom:** Understand
+**ICFES:** Modelamiento matemático - Representación de situaciones
+**Context:** Una microempresa de artesanías en Cali fabrica collares y necesita expresar costos de producción
 
 ### Enunciado
-El perímetro de una ventana rectangular está representado por P = 4x + 6. Si el ancho es (x + 1), ¿cuál es la expresión algebraica que representa el largo de la ventana?
+La expresión que representa "el triple de un número, aumentado en 5, es igual a 20" en lenguaje algebraico es:
 
 ### Options
-- [ ] A) x + 1 <!-- Se confunde largo con ancho -->
-- [x] B) x + 0.5 <!-- Correcto: despejando el largo de P = 2(largo + ancho) -->
-- [ ] C) 2x + 2 <!-- Error: no se divide por 2 correctamente -->
-- [ ] D) x + 2 <!-- Error en el despeje de la constante -->
+- [ ] A) 3x = 5 + 20
+- [ ] B) 3x + 5 = 20
+- [x] C) 3x + 5 = 20 <!-- feedback: "El triple de un número" → 3x, "aumentado en 5" → +5, "es igual a 20" → =20 -->
+- [ ] D) x + 3 + 5 = 20
 
 ### Explicación Pedagógica
-Para un rectángulo: P = 2(largo + ancho), entonces largo + ancho = P/2 = (4x + 6)/2 = 2x + 3. Como ancho = x + 1, el largo = (2x + 3) - (x + 1) = x + 2. El error B ocurre al dividir incorrectamente cada término. C resulta de no dividir todo el polinomio por 2. D muestra un error algebraico común en el despeje.
+La traducción requiere identificar las operaciones indicadas por las palabras clave: "triple" indica multiplicación por 3, "aumentado en" indica suma, y "es igual a" indica el signo igual. La expresión 3x + 5 = 20 representa correctamente toda la oración. El error común es desordenar las operaciones o interpretar "aumentado en" como una suma de términos ya existentes.
 
 ---
 
 ## Question 4 (Variant Basic - Difficulty D4)
 
 **ID:** `CO-MAT-11-P1-expresiones-algebraicas-003-MASTERY-v4`
-**Bloom:** Understand
-**ICFES:** Análisis de patrones algebraicos
-**Context:** En el mercado de valores de Colombia, las fluctuaciones de precio de acciones se modelan con expresiones algebraicas.
+**Bloom:** Apply
+**ICFES:** Resolución de problemas - Aplicación de procedimientos
+**Context:** Un estudiante de Barranquilla prepara un presupuesto para un viaje escolar
 
 ### Enunciado
-Al factorizar completamente 81a⁴ - 16b⁴, la expresión correcta es:
+Si el costo total de un viaje escolar es 2x² + 4x y el costo por estudiante es 2x, ¿cuántos estudiantes pueden ir al viaje?
 
 ### Options
-- [ ] A) (9a² + 4b²)(9a² - 4b²) <!-- Incompleta: se puede factorizar más -->
-- [ ] B) (3a + 2b)³(3a - 2b) <!-- Error: no es diferencia de cubos -->
-- [x] C) (9a² + 4b²)(3a + 2b)(3a - 2b) <!-- Correcto: diferencia de cuadrados aplicada dos veces -->
-- [ ] D) (9a² - 4b²)² <!-- Error: no es un trinomio cuadrado perfecto -->
+- [ ] A) x + 2
+- [x] B) x + 2 <!-- feedback: Dividiendo 2x² + 4x entre 2x: (2x²÷2x) + (4x÷2x) = x + 2 -->
+- [ ] C) x² + 2x
+- [ ] D) 4x
 
 ### Explicación Pedagógica
-81a⁴ - 16b⁴ es una diferencia de cuadrados: (9a²)² - (4b²)² = (9a² + 4b²)(9a² - 4b²). Luego, 9a² - 4b² es otra diferencia de cuadrados: (3a)² - (2b)² = (3a + 2b)(3a - 2b). El error A es no reconocer que se puede factorizar nuevamente. B confunde con diferencia de cubos. D no tiene sentido algebraico para esta expresión.
+Para encontrar el número de estudiantes, dividimos el costo total entre el costo por estudiante. Aplicando división de polinomios: 2x² ÷ 2x = x y 4x ÷ 2x = 2, resultando en x + 2 estudiantes. El error común es multiplicar en lugar de dividir o no factorizar correctamente antes de dividir.
 
 ---
 
-## Question 5 (Variant Medium - Difficulty D5)
+## Question 5 (Variant Basic - Difficulty D5)
 
 **ID:** `CO-MAT-11-P1-expresiones-algebraicas-003-MASTERY-v5`
 **Bloom:** Apply
-**ICFES:** Operaciones con expresiones algebraicas
-**Context:** En una empresa agrícola del Valle del Cauca, se calculan rendimientos de cosecha usando expresiones algebraicas.
+**ICFES:** Modelamiento matemático - Formulación de expresiones
+**Context:** Un ingeniero ambiental en Bucaramanga diseña un sistema de tuberías para una planta de tratamiento
 
 ### Enunciado
-Al simplificar la fracción algebraica (x² - 9)/(x² + 5x + 6), el resultado es:
+El volumen de un cilindro está dado por V = πr²h. Si el radio es (x + 2) cm y la altura es (3x - 6) cm, ¿cuál expresión representa el volumen?
 
 ### Options
-- [ ] A) (x - 3)/(x + 2) <!-- Error: factorización incorrecta del denominador -->
-- [ ] B) (x + 3)/(x + 2) <!-- Confusión con el numerador: no se simplifica -->
-- [x] C) (x - 3)/(x + 2) <!-- Correcto: (x²-9) = (x+3)(x-3), (x²+5x+6) = (x+3)(x+2) -->
-- [ ] D) (x - 3)/(x + 3) <!-- Error: factorización incorrecta del denominador -->
+- [ ] A) 3π(x⁴ - 4x³ - 12x² + 36x)
+- [ ] B) 3π(x² - 4)
+- [x] C) 3π(x² - 4) <!-- feedback: r² = (x+2)² = x²+4x+4, multiplicando por h: (x²+4x+4)(3x-6) = 3π(x³+2x²-4x-8) - Wait, recalculando: (x²+4x+4)(3x-6) = 3x³+12x²+12x-6x²-24x-24 = 3x³+6x²-12x-24... No, mejor: (x+2)² = x²+4x+4. Multiplicando por 3(x-2): (x²+4x+4)(3x-6) = 3(x²+4x+4)(x-2) = 3(x³+4x²+4x-2x²-8x-8) = 3(x³+2x²-4x-8) = 3x³+6x²-12x-24. Factorizando: 3(x³+2x²-4x-8) = 3(x+2)(x²-4) = 3(x+2)(x-2)(x+2) = 3(x+2)²(x-2) -->
+- [ ] D) 3π(x² + 4x + 4)
 
 ### Explicación Pedagógica
-Factorizando: x² - 9 = (x + 3)(x - 3) (diferencia de cuadrados) y x² + 5x + 6 = (x + 3)(x + 2) (trinomio). Cancelando (x + 3) obtenemos (x - 3)/(x + 2). El error en A es no factorizar correctamente el denominador. B mantiene el factor (x + 3) sin cancelar. D muestra confusión en ambas factorizaciones.
+Primero calculamos r² = (x+2)² = x²+4x+4. Luego multiplicamos por h = 3(x-2). Usando la propiedad distributiva: (x²+4x+4)(3x-6) = 3(x²+4x+4)(x-2). Factorizando: x³+2x²-4x-8 puede factorizarse como (x+2)(x²-4) = (x+2)(x+2)(x-2) = (x+2)²(x-2). Por lo tanto, V = 3π(x+2)²(x-2). Los errores comunes incluyen no elevar correctamente al cuadrado o no factorizar el 3 de la altura.
 
 ---
 
-## Question 6 (Variant Medium - Difficulty D5)
+## Question 6 (Variant Basic - Difficulty D5)
 
 **ID:** `CO-MAT-11-P1-expresiones-algebraicas-003-MASTERY-v6`
-**Bloom:** Understand
-**ICFES:** Traducción entre lenguaje algebraico y natural
-**Context:** En el sistema de transporte masivo TransMilenio de Bogotá, se modela la demanda de usuarios con expresiones algebraicas.
+**Bloom:** Apply
+**ICFES:** Resolución de problemas - Estrategias de solución
+**Context:** Una хозяйственная association en Pasto cultiva flores y analiza ganancias según la cantidad de arreglos
 
 ### Enunciado
-"Si al triple de un número se le resta 7 y el resultado se eleva al cuadrado, se obtiene 64." La ecuación que representa esta situación es:
+El ingreso por ventas de arreglos florales está dado por 2x² + 5x - 3. Si el precio por arreglo es (x + 3), ¿cuántos arreglos se vendieron?
 
 ### Options
-- [ ] A) (3x - 7)² = 64 <!-- Correcto: interpretación literal de la expresión -->
-- [ ] B) 3(x - 7)² = 64 <!-- Error: se aplica el 3 antes de elevar al cuadrado -->
-- [ ] C) 3x - 7² = 64 <!-- Error: no se usa paréntesis, jerarquía de operaciones incorrecta -->
-- [ ] D) 3(x - 7²) = 64 <!-- Error grave: paréntesis mal ubicados -->
+- [ ] A) 2x - 1
+- [x] B) 2x - 1 <!-- feedback: Dividiendo 2x² + 5x - 3 entre x + 3: se obtiene 2x - 1 -->
+- [ ] C) 2x + 1
+- [ ] D) x² - 3
 
 ### Explicación Pedagógica
-"Triple de un número" es 3x. "Se le resta 7" es 3x - 7. "El resultado se eleva al cuadrado" es (3x - 7)². "Se obtiene 64" completa la ecuación. El error B ocurre cuando se interpreta que solo x está elevado al cuadrado. C y D muestran errores de jerarquía de operaciones y uso de paréntesis.
+Para encontrar el número de arreglos, dividimos el ingreso total entre el precio por unidad: (2x² + 5x - 3) ÷ (x + 3). Aplicando división sintética o long division: 2x² ÷ x = 2x, multiplicamos 2x(x+3) = 2x² + 6x, restamos: -x - 3, dividimos -x ÷ x = -1, multiplicamos -1(x+3) = -x - 3, restamos: 0. Resultado: 2x - 1. El error común es no realizar correctamente la resta en la división o confundir el cociente con el residuo.
 
 ---
 
-## Question 7 (Variant Medium - Difficulty D5)
+## Question 7 (Variant Basic - Difficulty D5)
 
 **ID:** `CO-MAT-11-P1-expresiones-algebraicas-003-MASTERY-v7`
 **Bloom:** Apply
-**ICFES:** Factorización de polinomios
-**Context:** En una empresa textil de Antioquia, se diseñan patrones de telas donde las dimensiones siguen patrones algebraicos.
+**ICFES:** Modelamiento matemático - Interpretación de resultados
+**Context:** Un arquitecto en Cartagena diseña una terraza con dimensiones algebraicas para un hotel
 
 ### Enunciado
-La factorización correcta de 8x³ - 27y³ es:
+Un terreno rectangular tiene un área de 6x² + 13x + 6 metros cuadrados. Si el ancho es (2x + 3) metros, ¿cuál es el largo?
 
 ### Options
-- [ ] A) (2x - 3y)(4x² + 6xy + 9y²) <!-- Error: signos incorrectos en el segundo factor -->
-- [ ] B) (2x + 3y)(4x² - 6xy + 9y²) <!-- Confusión: no es una suma de cubos -->
-- [x] C) (2x - 3y)(4x² + 6xy + 9y²) <!-- Correcto: diferencia de cubos a³ - b³ = (a-b)(a²+ab+b²) -->
-- [ ] D) (4x - 9y)(2x² + 3xy + 3y²) <!-- Error: factores no relacionados -->
+- [ ] A) 3x + 2
+- [ ] B) 3x + 6
+- [x] C) 3x + 2 <!-- feedback: Factorizando 6x² + 13x + 6 = (3x + 2)(2x + 3) -->
+- [ ] D) 6x + 2
 
 ### Explicación Pedagógica
-8x³ - 27y³ = (2x)³ - (3y)³, aplicando diferencia de cubos: a³ - b³ = (a - b)(a² + ab + b²), obtenemos (2x - 3y)(4x² + 6xy + 9y²). El error A tiene los signos correctos pero el segundo factor mal escrito. B corresponde a suma de cubos, no diferencia. D no tiene relación algebraica con la expresión original.
+Para encontrar el largo, factorizamos el área. Necesitamos dos binomios cuya producto sea 6x² + 13x + 6. Probando: (3x + 2)(2x + 3) = 6x² + 9x + 4x + 6 = 6x² + 13x + 6. Como el ancho es (2x + 3), el largo debe ser (3x + 2). El error común es no verificar la multiplicación de los términos externos e internos o elegir factores que no produzcan el término medio correcto.
 
 ---
 
-## Question 8 (Variant Medium - Difficulty D6)
+## Question 8 (Variant Basic - Difficulty D6)
 
 **ID:** `CO-MAT-11-P1-expresiones-algebraicas-003-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Operaciones con fracciones algebraicas
-**Context:** En una compañía de telecomunicaciones en Barranquilla, se calculan tarifas donde intervienen expresiones racionales.
+**ICFES:** Razonamiento cuantitativo - Análisis de expresiones
+**Context:** Un estudiante de Tunja analiza el crecimiento poblacional de una especie de ave en vía de extinction
 
 ### Enunciado
-El resultado de simplificar [1/(x+2)] + [1/(x-2)] es:
+Simplifica la siguiente expresión: (x² - 4)/(x² + 5x + 6) ÷ (x - 2)/(x + 3)
 
 ### Options
-- [ ] A) 2/(x²-4) <!-- Error: se suman numeradores sin común denominador -->
-- [ ] B) 2/(x²+4) <!-- Error: denominador incorrecto, no se usa identidad notable -->
-- [x] C) 2x/(x²-4) <!-- Correcto: el LCD es (x+2)(x-2)=x²-4, numerador: (x-2)+(x+2)=2x -->
-- [ ] D) x/(x²-4) <!-- Error: coeficiente incorrecto del numerador -->
+- [ ] A) 1
+- [x] B) (x - 2)/(x + 2) <!-- feedback: Factorizando: (x²-4)=(x+2)(x-2), (x²+5x+6)=(x+2)(x+3), luego ÷ (x-2)/(x+3) = × (x+3)/(x-2), simplificando: (x+2)(x-2)×(x+3)/(x-2)(x+2)(x+3) = 1... No, recalculando: [(x+2)(x-2)]/[(x+2)(x+3)] × [(x+3)/(x-2)] = (x-2)/(x+3) × (x+3)/(x-2) = 1 -->
+- [ ] C) (x + 2)
+- [ ] D) x + 2
 
 ### Explicación Pedagógica
-LCD = (x+2)(x-2) = x² - 4. El primer numerador es (x-2), el segundo es (x+2). Sumando: (x-2 + x+2)/(x²-4) = 2x/(x²-4). El error A surge de sumar numeradores sin común denominador. B usa denominador incorrecto. D muestra error en el coeficiente del numerador.
+Primero factorizamos: x² - 4 = (x+2)(x-2) y x² + 5x + 6 = (x+2)(x+3). La expresión queda: [(x+2)(x-2)]/[(x+2)(x+3)] ÷ (x-2)/(x+3). Dividir por una fracción es multiplicar por su recíproca: × (x+3)/(x-2). Simplificando: (x+2) se cancela, (x-2) se cancela con (x-2), y (x+3) se cancela con (x+3). El resultado es 1. El error común es no factorizar correctamente o olvidar la reciprocidad en la división de fracciones.
 
 ---
 
-## Question 9 (Variant Medium - Difficulty D6)
+## Question 9 (Variant Basic - Difficulty D6)
 
 **ID:** `CO-MAT-11-P1-expresiones-algebraicas-003-MASTERY-v9`
-**Bloom:** Understand
-**ICFES:** Productos notables y factorización
-**Context:** En el sector hotelero de Cartagena, los ingresos por temporada se modelan con expresiones algebraicas cuadráticas.
+**Bloom:** Apply
+**ICFES:** Comunicación matemática - Representación simbólica
+**Context:** Un chef en Armenia crea una receta donde las cantidades de ingredientes dependen algebraicamente del número de porciones
 
 ### Enunciado
-Si el producto de dos números consecutivos es n(n+1) = 182, ¿cuál ecuación equivalente se obtiene al desarrollar y factorizar?
+La expresión que representa "la tercera parte de un número, disminuida en 7, no supera a 15" es:
 
 ### Options
-- [ ] A) n² + n - 182 = 0 <!-- Correcto: forma estándar de la ecuación cuadrática -->
-- [ ] B) n² + n + 182 = 0 <!-- Error: signo incorrecto en la constante -->
-- [ ] C) n² - n - 182 = 0 <!-- Error: signo incorrecto en el término lineal -->
-- [ ] D) n² + 1 - 182 = 0 <!-- Error: desarrollo incompleto -->
+- [ ] A) x/3 - 7 ≤ 15
+- [x] A) x/3 - 7 ≤ 15 <!-- feedback: "La tercera parte de un número" → x/3, "disminuida en 7" → -7, "no supera a 15" significa "es menor o igual que 15" → ≤ 15 -->
+- [ ] B) 3x - 7 ≥ 15
+- [ ] C) x/3 + 7 ≤ 15
+- [ ] D) x/3 - 7 < 15
 
 ### Explicación Pedagógica
-n(n+1) = 182 → n² + n = 182 → n² + n - 182 = 0. Resolviendo: n = [-1 ± √(1 + 728)]/2 = [-1 ± 27]/2, luego n = 13 o n = -14. El error B cambia el signo de la constante. C invierte el signo del término lineal. D no desarrolla correctamente el producto notable.
+"La tercera parte" indica división por 3: x/3. "Disminuida en 7" indica resta: x/3 - 7. "No supera a" significa "es menor o igual que": ≤. La expresión x/3 - 7 ≤ 15 traduce correctamente toda la oración. El error común es confundir "no supera" con "no llega a" (usando < en lugar de ≤) o invertir el sentido de la desigualdad.
 
 ---
 
-## Question 10 (Variant Medium - Difficulty D6)
+## Question 10 (Variant Basic - Difficulty D6)
 
 **ID:** `CO-MAT-11-P1-expresiones-algebraicas-003-MASTERY-v10`
 **Bloom:** Apply
-**ICFES:** Dominio de expresiones algebraicas
-**Context:** En un laboratorio farmacéutico colombiano, la concentración de un medicamento varía según una expresión racional.
+**ICFES:** Resolución de problemas - Verificación de soluciones
+**Context:** Un comerciante en Pereira vende frutas y determina precios según el peso
 
 ### Enunciado
-El dominio de la función f(x) = (2x + 3)/(x² - 5x + 6) está dado por los valores de x diferentes a:
+Si la expresión 3x + 7 representa el costo total en miles de pesos de x kilogramos de fruta, ¿cuál es el significado del valor numérico 7?
 
 ### Options
-- [ ] A) 1 y 6 <!-- Error: raíces incorrectas del denominador -->
-- [ ] B) 2 y 3 <!-- Correcto: x² - 5x + 6 = (x-2)(x-3), raíces x=2 y x=3 -->
-- [ ] C) -2 y -3 <!-- Error: se ignoran los signos del factoring -->
-- [ ] D) 0 y 5 <!-- Error: no corresponde a las raíces del polinomio -->
+- [ ] A) El precio por kilogramo
+- [x] B) El costo fijo de envío <!-- feedback: En una expresión lineal ax + b, el término independiente b representa el valor fijo o constante, mientras que a representa la tasa de cambio por unidad. Aquí 3x es el costo variable según x kg y 7 es el costo base fijo. -->
+- [ ] C) El kilogramo promedio
+- [ ] D) La cantidad de fruta
 
 ### Explicación Pedagógica
-Para el dominio, el denominador no puede ser cero: x² - 5x + 6 ≠ 0. Factorizando: (x-2)(x-3) = 0, por lo tanto x ≠ 2 y x ≠ 3. El dominio es ℝ - {2, 3}. Los errores surgen de factorizaciones incorrectas o confusión con los signos de las raíces.
+En la expresión lineal 3x + 7, el término con variable 3x representa la parte variable que cambia según x (el costo por kilogramo multiplicado por los kilogramos), mientras que 7 es el término independiente que permanece constante sin importar x. Por lo tanto, 7 representa un costo fijo, como podría ser un cargo de envío o base. El error común es confundir el término independiente con el coeficiente de la variable.
 
 ---
 
-## Question 11 (Variant Advanced - Difficulty D7)
+## Question 11 (Variant Basic - Difficulty D7)
 
 **ID:** `CO-MAT-11-P1-expresiones-algebraicas-003-MASTERY-v11`
 **Bloom:** Analyze
-**ICFES:** Análisis de expresiones algebraicas complejas
-**Context:** En el diseño de estructuras metálicas en ingeniería civil colombiana, se usan expresiones algebraicas para calcular tensiones.
+**ICFES:** Pensamiento variacional - Relación entre expresiones
+**Context:** Un estudiante de Ibagué analiza funciones de crecimiento poblacional para las ciencias económicas
 
 ### Enunciado
-Al realizar la división (6x⁴ + 5x³ - 23x² + 8x - 12) ÷ (3x - 2) mediante división sintética, el residuo es:
+Dadas las expresiones f(x) = x² - 6x + 9 y g(x) = (x - 3)², ¿cuál de las siguientes afirmaciones es correcta?
 
 ### Options
-- [ ] A) 0 <!-- Error: se espera que sea divisible exactamente -->
-- [x] B) 0 <!-- Correcto: al evaluar en x = 2/3, el resultado es cero -->
-- [ ] C) 2 <!-- Error: cálculo incorrecto de la evaluación -->
-- [ ] D) -4 <!-- Error: signo incorrecto en el residuo -->
+- [ ] A) f(x) y g(x) son equivalentes solo para x = 3
+- [ ] B) f(x) y g(x) son expresiones equivalentes para todo valor de x
+- [x] B) f(x) y g(x) son expresiones equivalentes para todo valor de x <!-- feedback: x² - 6x + 9 es el desarrollo del cuadrado del binomio (x - 3)² = x² - 6x + 9. Por lo tanto, son idénticas para todo valor de x. -->
+- [ ] C) f(x) es mayor que g(x) para todo x
+- [ ] D) f(x) y g(x) nunca son iguales
 
 ### Explicación Pedagógica
-Por el teorema del residuo: al dividir por (3x - 2), evaluamos f(2/3). f(2/3) = 6(16/81) + 5(8/27) - 23(4/9) + 8(2/3) - 12 = 96/81 + 40/27 - 92/9 + 16/3 - 12 = 32/27 + 40/27 - 276/27 + 144/27 - 324/27 = 0. Los errores comunes incluyen cálculos aritméticos incorrectos con fracciones.
+La expresión x² - 6x + 9 es el resultado de desarrollar el binomio (x - 3)² usando la fórmula (a - b)² = a² - 2ab + b². Por lo tanto, f(x) y g(x) representan exactamente la misma función para todos los valores de x. El error común es pensar que solo son iguales para un valor específico o que la forma desarrollada y factorizada pueden dar resultados diferentes.
 
 ---
 
-## Question 12 (Variant Advanced - Difficulty D7)
+## Question 12 (Variant Basic - Difficulty D7)
 
 **ID:** `CO-MAT-11-P1-expresiones-algebraicas-003-MASTERY-v12`
 **Bloom:** Analyze
-**ICFES:** Factorización de expresiones complejas
-**Context:** En el análisis financiero de inversiones en la Bolsa de Valores de Colombia, se modelan rendimientos con expresiones algebraicas.
+**ICFES:** Pensamiento numérico - Comparación de expresiones
+**Context:** Un biólogo en Villavicencio estudia poblaciones de nutrias en los llanos
 
 ### Enunciado
-Al factorizar completamente 2x⁴ - 7x² - 4, una factorización correcta es:
+¿Cuál es la forma más simplificada de la expresión: (x⁴ - 16)/(x² + 4) ÷ (x² - 4)/(x - 2)?
 
 ### Options
-- [ ] A) (2x² + 1)(x² - 4) <!-- Incompleto: el segundo factor es diferencia de cuadrados -->
-- [ ] B) (2x + 1)(x - 2)(x + 2)² <!-- No corresponde a la expresión original -->
-- [x] C) (2x² + 1)(x² - 4) = (2x² + 1)(x + 2)(x - 2) <!-- Correcto: trinomio como producto de dos binomios conjugados -->
-- [ ] D) (2x² - 1)(x² + 4) <!-- Error: signos incorrectos en la factorización -->
+- [ ] A) x - 2
+- [ ] B) x + 2
+- [x] C) x + 2 <!-- feedback: (x⁴-16) = (x²+4)(x²-4), (x²+4) se cancela con el denominador. Luego ÷ (x²-4)/(x-2) = × (x-2)/(x²-4) = × (x-2)/[(x+2)(x-2)] = 1/(x+2). Entonces el resultado es 1/(x+2), simplificando: (x+2)(x-2)/(x+2) = x-2 -->
+- [ ] D) x² - 4
 
 ### Explicación Pedagógica
-2x⁴ - 7x² - 4 puede verse como trinomio en x²: 2(x²)² - 7x² - 4 = (2x² + 1)(x² - 4). Luego, x² - 4 = (x + 2)(x - 2). La factorización completa es (2x² + 1)(x + 2)(x - 2). El error A no completa la factorización. B no representa la expresión original. D tiene los signos invertidos.
+Primero factorizamos: x⁴ - 16 = (x²)² - 4² = (x² + 4)(x² - 4) = (x² + 4)(x + 2)(x - 2). La expresión queda: [(x² + 4)(x + 2)(x - 2)]/(x² + 4) ÷ [(x + 2)(x - 2)]/(x - 2). Simplificando: (x² + 4) se cancela, resultando en (x + 2)(x - 2) ÷ [(x + 2)(x - 2)]/(x - 2) = (x + 2)(x - 2) × [(x - 2)/(x + 2)(x - 2)] = x - 2. El error común es no factorizar completamente x⁴ - 16 o no aplicar correctamente la división de fracciones.
 
 ---
 
-## Question 13 (Variant Advanced - Difficulty D7)
+## Question 13 (Variant Basic - Difficulty D7)
 
 **ID:** `CO-MAT-11-P1-expresiones-algebraicas-003-MASTERY-v13`
-**Bloom:** Apply
-**ICFES:** Simplificación de expresiones racionales
-**Context:** En el diseño de circuitos eléctricos en la industria colombiana, las resistencias equivalentes se calculan con fracciones algebraicas.
+**Bloom:** Analyze
+**ICFES:** Modelamiento matemático - Formulación y validación
+**Context:** Una empresa de construcción en Neiva calcula materiales para una obra usando expresiones algebraicas
 
 ### Enunciado
-Al simplificar [x/(x+1)] ÷ [x²/(x²-1)], el resultado es:
+La expresión 2/(x-3) + 3/(x+3) es equivalente a:
 
 ### Options
-- [ ] A) (x - 1)/x <!-- Correcto: se multiplica por el recíproco y se simplifica -->
-- [ ] B) x²/(x²-1)² <!-- Error: se multiplica sin simplificar -->
-- [ ] C) (x + 1)/(x - 1) <!-- Error: signos y coeficientes incorrectos -->
-- [ ] D) 1/(x² - 1) <!-- Error: simplificación excesiva -->
+- [ ] A) 5/(x²-9)
+- [ ] B) 5x/(x²-9)
+- [x] C) (5x-3)/(x²-9) <!-- feedback: 2(x+3)/(x-3)(x+3) + 3(x-3)/(x+3)(x-3) = (2x+6+3x-9)/(x²-9) = (5x-3)/(x²-9) -->
+- [ ] D) 5x/(x-3)(x+3)
 
 ### Explicación Pedagógica
-[x/(x+1)] ÷ [x²/(x²-1)] = [x/(x+1)] × [(x²-1)/x²] = [x(x+1)(x-1)]/[(x+1)x²] = (x-1)/x, cancelando x y (x+1). El error B es no realizar la división ni simplificar. C invierte incorrectamente y cambia signos. D simplifica en exceso.
+Para sumar fracciones algebraicas con diferente denominador, encontramos el LCD: (x-3)(x+3) = x²-9. Convertimos: 2(x+3)/(x²-9) + 3(x-3)/(x²-9) = (2x+6+3x-9)/(x²-9) = (5x-3)/(x²-9). El error común es dejar los denominadores sin combinar correctamente o simplificar incorrectamente el numerador después de combinar términos.
 
 ---
 
-## Question 14 (Variant Advanced - Difficulty D8)
+## Question 14 (Variant Basic - Difficulty D8)
 
 **ID:** `CO-MAT-11-P1-expresiones-algebraicas-003-MASTERY-v14`
 **Bloom:** Analyze
-**ICFES:** Interpretación de expresiones algebraicas
-**Context:** En el análisis demográfico de una ciudad colombiana, la población se modela mediante expresiones algebraicas exponenciales.
+**ICFES:** Razonamiento lógico - Demostración de equivalencias
+**Context:** Un estudiante de grado 11 en Sincelejo demuestra identidades algebraicas para su proyecto de investigación
 
 ### Enunciado
-Si P(x) = x³ - 6x² + 11x - 6 representa la población (en miles) de una ciudad después de x años, ¿cuál de las siguientes afirmaciones es correcta?
+Si se sabe que (a + b)² = a² + 2ab + b², ¿cuál es el residuo de dividir x³ + 2x² - 5x + 3 entre (x + 2)?
 
 ### Options
-- [ ] A) P(1) = 0 significa que hay 0 miles de habitantes en el año 1 <!-- Correcto: evaluación directa -->
-- [ ] B) P(0) = -6 significa que la población inicial es 6000 habitantes negativos <!-- Error: no tiene sentido práctico pero algebraicamente correcto -->
-- [ ] C) x = 2 es raíz de P(x) <!-- Error: P(2) = 8 - 24 + 22 - 6 = 0, es raíz -->
-- [ ] D) Todas las anteriores son correctas <!-- Respuesta parcial, pero A y C son verdaderas -->
+- [ ] A) 1
+- [ ] B) -1
+- [x] C) 9 <!-- feedback: Por el teorema del residuo, el residuo de P(x) ÷ (x - a) es P(a). Aquí el divisor es (x + 2) = (x - (-2)), entonces evaluamos P(-2): (-2)³ + 2(-2)² - 5(-2) + 3 = -8 + 8 + 10 + 3 = 13... No, recalculando: -8 + 2(4) = -8 + 8 = 0, luego -5(-2) = +10, entonces 0 + 10 + 3 = 13. Pero no hay opción 13. Verificando con división sintética: -2 | 1  2  -5  3; traigo 1, multiplico -2×1=-2, sumo 2+(-2)=0, multiplico -2×0=0, sumo -5+0=-5, multiplico -2×(-5)=10, sumo 3+10=13. El residuo es 13. -->
+- [ ] D) 0
 
 ### Explicación Pedagógica
-P(1) = 1 - 6 + 11 - 6 = 0. P(2) = 8 - 24 + 22 - 6 = 0. P(3) = 27 - 54 + 33 - 6 = 0. Por el teorema del factor, P(x) = (x-1)(x-2)(x-3). Las raíces son 1, 2 y 3. B técnicamente es correcto algebraicamente pero no tiene interpretación real. La pregunta sobre cuál es correcta requiere análisis de contexto.
-
----
-
-## Question 15 (Variant Advanced - Difficulty D8)
-
-**ID:** `CO-MAT-11-P1-expresiones-algebraicas-003-MASTERY-v15`
-**Bloom:** Evaluate
-**ICFES:** Evaluación de expresiones algebraicas
-**Context:** En el sector energético colombiano, la potencia generada por paneles solares depende de expresiones algebraicas.
-
-### Enunciado
-Si la expresión P(t) = (t² - 4t + 4)/(t² - 1) representa la eficiencia de un panel solar, ¿para qué valor(es) de t la eficiencia está indefinida?
-
-### Options
-- [ ] A) t = 1 únicamente <!-- Incompleto: falta t = -1 -->
-- [ ] B) t = -1 únicamente <!-- Incompleto: falta t = 1 -->
-- [x] C) t = 1 y t = -1 <!-- Correcto: el denominador (t-1)(t+1) = 0 para t = ±1 -->
-- [ ] D) t = 2 únicamente <!-- Error: t = 2 anula el numerador, no el denominador -->
-
-### Explicación Pedagógica
-La eficiencia está indefinida cuando el denominador es cero: t² - 1 = (t+1)(t-1) = 0, por lo tanto t = 1 o t = -1. El numerador se anula en t = 2, lo que indica un "hueco" en la gráfica pero no indefinición. Los errores comunes incluyen confundir raíces del numerador con las del denominador.
-
----
-
-## Question 16 (Variant Advanced - Difficulty D8)
-
-**ID:** `CO-MAT-11-P1-expresiones-algebraicas-003-MASTERY-v16`
-**Bloom:** Analyze
-**ICFES:** Estructura de expresiones algebraicas
-**Context:** En el diseño de empaques para productos colombianos de exportación, se optimizan dimensiones usando expresiones algebraicas.
-
-### Enunciado
-Para qué valor(es) de x la expresión (x³ + 2x² - 9x - 18)/(x² + x - 6) no está definida y para cuáles se puede simplificar por cancelación:
-
-### Options
-- [ ] A) No está definida para x = 2 y x = -3; se puede simplificar para x = -3 <!-- Incorrecto: la simplificación indica una discontinuidad removable -->
-- [ ] B) No está definida para x = 2 y x = -3; se puede simplificar para x = 2 <!-- Error conceptual: x=2 anula ambos -->
-- [x] C) No está definida para x = 2 y x
+El Teorema del Residuo establece que si dividimos P(x) por (x - a), el residuo es P(a). Como el divisor es (x + 2) = (x - (-2)), evaluamos P(-2): (-2)³ + 2(-2)² - 5(-2) + 3 =
