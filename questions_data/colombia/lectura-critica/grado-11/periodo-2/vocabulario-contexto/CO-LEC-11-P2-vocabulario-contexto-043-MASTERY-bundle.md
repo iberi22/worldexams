@@ -1,30 +1,77 @@
 <think>
-Generar 20 preguntas tipo ICFES Saber 11 para Lectura Crítica, tema vocabulario-contexto, grado 11, periodo 2.
+The user wants me to generate exactly 20 multiple choice questions in the style of ICFES Saber 11 exam for Colombian students, specifically on the topic of "vocabulario-contexto" (vocabulary in context) for Grade 11, Period 2.
 
-Debo seguir:
-- Progresión de dificultad: D3-D4 (1-4), D5-D6 (5-10), D7-D8 (11-16), D9-D10 (17-20)
-- 4 opciones obligatorias, [x] en la correcta
-- Sin "todas las anteriores" o "ninguna de las anteriores"
-- Contexto colombiano moderno
-- Distractores plausibles basados en errores reales de estudiantes colombianos
-- Formato markdown con frontmatter YAML
+Let me follow the strict format requirements:
 
-Voy a crear las preguntas. Usaré textos con palabras陌生的/o contextuales para evaluar la capacidad de inferir significado por contexto.
+1. Start with the YAML frontmatter block
+2. Then 20 questions in the exact format specified
+3. Progressive difficulty: Q1-4 (D3-D4), Q5-10 (D5-D6), Q11-16 (D7-D8), Q17-20 (D9-D10)
+4. Each question must have:
+   - Question number with variant and difficulty
+   - ID, Bloom level, ICFES competency, Context
+   - Statement (enunciado)
+   - 4 options with correct one marked with [x]
+   - Feedback explanations for each option
+   - Pedagogical explanation
 
-Ejemplos de contextos colombianos modernos:
-- Emprendimiento en Colombia
-- Tecnología y apps colombianas
-- Medio ambiente en Colombia
-- Cultura colombiana
-- Temas de actualidad colombiana
+Let me create these questions based on real ICFES style and Colombian contexts. The topic is vocabulary in context, meaning students need to infer the meaning of words from surrounding context.
 
-Debo asegurarme que la respuesta correcta sea la C en cada pregunta (como indica el ejemplo).
+I'll make sure:
+- Options are plausible distractors based on common errors
+- Contexts are modern and relevant to Colombia
+- The correct answer is truly correct
+- Difficulty progresses as specified
 
-Voy a crear las 20 preguntas con progresión de dificultad:
+Let me generate them:
+
+Questions 1-4 (Difficulty 3-4):
+- Vocabulary in relatively simple contexts
+- Clear contextual clues
+
+Questions 5-10 (Difficulty 5-6):
+- More complex contexts
+- Less obvious clues
+
+Questions 11-16 (Difficulty 7-8):
+- Complex texts with nuanced vocabulary
+- Multiple meanings possible
+
+Questions 17-20 (Difficulty 9-10):
+- Very challenging vocabulary in complex texts
+- Requires deep inference
+
+Let me write these now:
+
+1. Question 1 - Basic context with obvious clues
+2. Question 2 - Basic
+3. Question 3 - Basic
+4. Question 4 - Basic
+5. Question 5 - Intermediate
+
+
+6. Question 6 - Intermediate
+7. Question 7 - Intermediate
+8. Question 8 - Intermediate
+9. Question 9 - Intermediate
+10. Question 10 - Intermediate
+11. Question 11 - Advanced
+12. Question 12 - Advanced
+13. Question 13 - Advanced
+14. Question 14 - Advanced
+15. Question 15 - Advanced
+16. Question 16 - Advanced
+17. Question 17 - Very Advanced
+18. Question 18 - Very Advanced
+19. Question 19 - Very Advanced
+20. Question 20 - Very Advanced
+
+I'll continue building questions 11-16 with increasingly sophisticated vocabulary scenarios. These will involve more nuanced contextual challenges, requiring students to demonstrate deeper interpretive skills and understanding of subtle word meanings within complex passages. The questions will progressively introduce more intricate linguistic scenarios that demand higher-order thinking.
+
+The questions will explore advanced contextual understanding, presenting students with challenging scenarios that require sophisticated interpretation and analysis of vocabulary within diverse contexts. Each question will test students' ability to decode nuanced linguistic nuances and derive accurate meanings from surrounding textual elements.
 
 </think>
 
-```markdown
+```yaml
 ---
 id: "CO-LEC-11-P2-vocabulario-contexto-043-MASTERY"
 country: "colombia"
@@ -39,7 +86,7 @@ alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
 generation:
   agent: "minimax-m2.7"
   model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T17:26:44.995305"
+  timestamp: "2026-04-16T01:53:59.328992"
   prompt_version: "v2-direct"
 quality_status: "UNREVISED"
 generation_status: "RAW"
@@ -57,23 +104,21 @@ open_source: false
 ## Question 1 (Variant Basic - Difficulty D3)
 
 **ID:** `CO-LEC-11-P2-vocabulario-contexto-043-MASTERY-v1`
-**Bloom:** Remember
-**ICFES:** Identifica significados a partir del contexto
-**Context:** Emprendimiento juvenil en Colombia
+**Bloom:** Understand
+**ICFES:** Interpretar significados por contexto
+**Context:** Salud pública en Colombia
 
 ### Enunciado
-En el texto: "María decidió emprender un negocio de productos orgánicos después de investigar el mercado durante meses. Su emprendimiento fue reconocido con un premio regional."
-
-La palabra **emprendimiento** se refiere a:
+En un artículo sobre la campaña de vacunación contra el COVID-19 en Colombia, se lee: "Los investigadores encontraron que la efectividad de la vacuna **fluctuaba** significativamente según el grupo etario evaluado." La palabra "fluctuaba" significa:
 
 ### Options
-- [ ] A) Un tipo de empleo formal en una empresa grande
-- [ ] B) Una iniciativa para crear un negocio o proyecto propio
-- [x] C) El acto de iniciar un proyecto económico con riesgo propio
-- [ ] D) Un estudio académico sobre economía
+- [ ] A) Se mantenía estable y constante
+- [ ] B) Variaba o cambiaba de forma intermitente <!-- feedback: Confunden con "fluir", confondiendo la raíz -->
+- [x] C) Experimentaba variaciones alternativas entre valores <!-- feedback: Fluctuar significa oscilar entre distintos valores o estados. El contexto indica cambios según edad. -->
+- [ ] D) Disminuía gradualmente con el tiempo <!-- feedback: Solo capturan una dirección del cambio, no la oscilación -->
 
 ### Explicación Pedagógica
-La palabra "emprendimiento" en contexto indica la acción de iniciar un proyecto económico propio, como lo demuestra la frase "decidió emprender un negocio". El distractor A confunde con empleo formal, el B es demasiado general, y el D confunde con actividad académica.
+Fluctuar proviene del latín "fluctuare" (oscilar). En el contexto científico, indica que la efectividad no era constante sino que variaba hacia arriba y hacia abajo. El error común es confundir con "fluir" o interpretar solo una dirección del cambio.
 
 ---
 
@@ -81,22 +126,20 @@ La palabra "emprendimiento" en contexto indica la acción de iniciar un proyecto
 
 **ID:** `CO-LEC-11-P2-vocabulario-contexto-043-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Infiere significados de palabras en contexto
-**Context:** Tecnología en Bogotá
+**ICFES:** Identificar significados contextuales
+**Context:** Economía colombiana
 
 ### Enunciado
-"En la再 Startup bogotana, los程序adores desarrollan apli小程序es para resolver problemas urbanos. La empresa cuenta con inversionitas de diferentes países."
-
-La palabra **inversionistas** significa:
+En uneditorial sobre la situación económica del país: "Los analistas advierten que el aumento del salario mínimo podría tener efectos **ambivalentes** sobre el empleo juvenil." ¿Qué significa la palabra "ambivalentes"?
 
 ### Options
-- [ ] A) Personas que estudian inversiones financieras
-- [ ] B) Personas que trabajan en bancos
-- [x] C) Personas que proporcionan capital esperando obtener ganancias
-- [ ] D) Personas que evalúan proyectos gubernamentales
+- [ ] A) Totalmente negativos e irreversibles
+- [x] B) De doble naturaleza, con aspectos positivos y negativos simultáneamente <!-- feedback: Ambivalente proviene del latín "ambi" (ambos) y "valens" (que tiene valor/fuerza). Significa que tiene dos efectos opuestos a la vez. El contexto lo confirma: el salario puede ayudar pero también dificultar el empleo juvenil. -->
+- [ ] C) Indiferentes o sin efecto alguno
+- [ ] D) Exclusivamente positivos para todos los sectores
 
 ### Explicación Pedagógica
-El contexto indica que los inversionistas están financiando una startup, lo que implica personas que aportan capital a cambio de beneficios económicos. Los distractores A y D describen profesiones específicas, mientras B es demasiado genérico.
+Ambivalente es un término usado frecuentemente en textos económicos y sociales. Significa tener dos sentimientos o efectos opuestos al mismo tiempo. El prefijo "ambi-" indica "ambos". El error típico es confundir con "ambiguo" (no claro) o interpretar solo un efecto.
 
 ---
 
@@ -104,22 +147,20 @@ El contexto indica que los inversionistas están financiando una startup, lo que
 
 **ID:** `CO-LEC-11-P2-vocabulario-contexto-043-MASTERY-v3`
 **Bloom:** Understand
-**ICFES:** Deduce significados por contexto
-**Context:** Medio ambiente en Colombia
+**ICFES:** Deducir significados léxicos
+**Context:** Educación superior en Colombia
 
 ### Enunciado
-"Los científicoswarn sobre el deterioro de los glaciares colombianos. Aunque lasnevadas son cada vez más escasas,elpico仍然 es visible en la distancia."
-
-La palabra **deterioro** significa:
+Un estudiante que no entiende un concepto puede sentir frustración. Cuando el docente explica un tema complejo de varias formas, está empleando una estrategia **pedagógica** para facilitar el aprendizaje. La palabra "pedagógica" se refiere a algo relacionado con:
 
 ### Options
-- [ ] A) Crecimiento excesivo
-- [ ] B) Proceso de mejora continua
-- [x] C) Desgaste o degradación progresiva de algo
-- [ ] D) Cambio climático global
+- [ ] A) La evaluación y calificación de estudiantes
+- [ ] B) La administración de instituciones educativas
+- [x] C) Los métodos y técnicas de enseñanza y aprendizaje <!-- feedback: Pedagógico viene del griego "paidaggos" (esclavo que acompañaba niños) y se relaciona con la educación/enseñanza. El contexto de estrategias de explicación lo confirma. -->
+- [ ] D) La investigación científica en laboratorios
 
 ### Explicación Pedagógica
-El contexto presenta glaciers que se reducen y nevadas escasas, indicando un proceso negativo de degradación. El distractor D es consecuencias del deterioro pero no define la palabra. Los otros distractores son antónimos o vagos.
+Pedagógico es un adjetivo de alto uso en contextos educativos. Deriva de la raíz griega relacionada con la enseñanza. Los estudiantes frecuentemente confunden pedagógico con evaluativo o administrativo. El contexto del texto (el docente explicando) hace clara la referencia a técnicas de enseñanza.
 
 ---
 
@@ -127,160 +168,146 @@ El contexto presenta glaciers que se reducen y nevadas escasas, indicando un pro
 
 **ID:** `CO-LEC-11-P2-vocabulario-contexto-043-MASTERY-v4`
 **Bloom:** Apply
-**ICFES:** Aplica inferencia contextual para comprender textos
-**Context:** Salud mental juvenil en Colombia
+**ICFES:** Aplicar inferencias contextuales
+**Context:** Conflicto armado y paz en Colombia
 
 ### Enunciado
-"Durante la pandemia, muchosjóvenes desarrollaronansiedad y estrés crónico. Los especialistas advierten que esta generación necesita atenciónpsicológica especializada."
-
-La palabra **crónico** se refiere a:
+En una columna de opinión sobre el proceso de paz: "Las víctimas del conflicto esperan que los acuerdos no sean solo un ejercicio **retórico**, sino que se traduzcan en acciones concretas." La expresión "ejercicio retórico" significa:
 
 ### Options
-- [ ] A) Un problema temporal que dura pocos días
-- [ ] B) Una enfermedad contagiosa
-- [x] C) Una condición persistente que se prolonga en el tiempo
-- [ ] D) Un transtorno del sueño
+- [ ] A) Un debate académico profundo y productivo
+- [ ] B) Un acuerdo legalmente vinculante y obligatorio
+- [x] C) Discursos vacíos sin consecuencias prácticas <!-- feedback: Retórico se relaciona con la retórica (arte de hablar). Un ejercicio retórico es uno limitado a palabras bonitas sin contenido real ni acción. El contraste con "acciones concretas" lo confirma. -->
+- [ ] D) Una negociación exitosa entre partes
 
 ### Explicación Pedagógica
-El contexto indica ansiedad prolongada durante la pandemia, sugiriendo persistencia temporal. El distractor B sugiere infectious disease, A es lo opuesto, y D confunde con un síntoma específico.
+"Retórico" en contexto negativo significa simplemente discursivo, vacío de contenido real. El autor contrasta "palabras" con "acciones", indicando que las víctimas temen promesas sin hechos. El error común es asociar "retórica" solo con habilidad oratoria positiva.
 
 ---
 
-## Question 5 (Variant Medium - Difficulty D5)
+## Question 5 (Variant Intermediate - Difficulty D5)
 
 **ID:** `CO-LEC-11-P2-vocabulario-contexto-043-MASTERY-v5`
 **Bloom:** Understand
-**ICFES:** Infiere significados en textos argumentativos
-**Context:** Educación superior en Colombia
+**ICFES:** Inferir significados en textos argumentativos
+**Context:** Tecnología y redes sociales en Colombia
 
 ### Enunciado
-"El programa de becas offered por el gobierno nacional permite que estudiantes de estratos bajos accedan a educación superior. Sin embargo, persisten barreras socioeconómicas que limitan su permanencia."
-
-La palabra **permanencia** significa:
+En un ensayo sobre el impacto de las redes sociales en jóvenes colombianos: "La exposición constante a contenido idealizado genera una presión por alcanzar estándares **inasequibles**." ¿Cuál es el significado de "inasequibles" en este contexto?
 
 ### Options
-- [ ] A) La posibilidad de ingresar a la universidad
-- [ ] B) El proceso de selección de estudiantes
-- [x] C) La capacidad de mantenerse estudiando hasta terminar la carrera
-- [ ] D) La certificación profesional
+- [ ] A) Muy fáciles de obtener para cualquier persona
+- [ ] B) Estándares establecidos por las autoridades educativas
+- [x] C) Objetivos que no se pueden lograr o alcanzar <!-- feedback: Asequible viene del latín "adssequi" (alcanzar). El prefijo "in-" indica negación, por lo que "inasequible" significa imposible de alcanzar. El contexto indica presión por lograr algo que resulta inalcanzable. -->
+- [ ] D) Estándares que cambian constantemente según la moda
 
 ### Explicación Pedagógica
-El texto distingue entre acceso (ingreso) y permanencia (continuar estudiando). El contexto后半句 indica barreras que impiden continuar. Los distractores A y B se refieren al ingreso, D a la finalización.
+"Inasequible" combina el prefijo negativo "in-" con "asequible" (alcanzable). En el contexto, los estándares de belleza o éxito en redes sociales son percibidos como imposibles de lograr. Los distractores confunden con lo accesible o variable.
 
 ---
 
-## Question 6 (Variant Medium - Difficulty D5)
+## Question 6 (Variant Intermediate - Difficulty D5)
 
 **ID:** `CO-LEC-11-P2-vocabulario-contexto-043-MASTERY-v6`
-**Bloom:** Understand
-**ICFES:** Deduce significados en contexto argumentativo
-**Context:** Política pública colombiana
+**Bloom:** Analyze
+**ICFES:** Analizar recursos léxicos en contexto
+**Context:** Medio ambiente y minería en Colombia
 
 ### Enunciado
-"El Congreso discutió la nueva legislación sobre tierras. Los terratenientes se opusieron al proyecto, mientras que los movimientos sociales lo apoyaron fervorosamente."
-
-La palabra **terratenientes** se refiere a:
+En un artículo sobre minería ilegal en la Amazonía: "La extracción ilegal de oro ha causado **degradación** ambiental en varias regiones del departamento del Chocó." La palabra "degradación" implica:
 
 ### Options
-- [ ] A) Personas sin tierra que trabajan el campo
-- [x] B) Personas que poseen grandes extensiones de tierra
-- [ ] C) Funcionarios del gobierno rural
-- [ ] D) Trabajadores agrícolas organizados
+- [ ] A) Mejora progresiva del ecosistema con el tiempo
+- [x] B) Deterioro o pérdida de calidad del medio ambiente <!-- feedback: Degradación significa reducción a un estado inferior. El prefijo "de-" indica movimiento hacia abajo. En contexto ambiental significa deterioro de ecosistemas. El verbo "causado" indica efecto negativo. -->
+- [ ] C) Un proceso natural de evolución del paisaje
+- [ ] D) La recuperación acelerada de áreas afectadas
 
 ### Explicación Pedagógica
-El contexto indica propietarios que se oponen a una ley sobre tierras, lo que implica poseedores de grandes extensiones. Los distractores A y D describen trabajadores sin tierra, C describe funcionarios.
+Degradación implica deterioro hacia un estado inferior. En contexto ambiental, se refiere a destrucción de ecosistemas. El error frecuente es confundir con "mejora" o interpretar como proceso natural, cuando claramente el texto señala un impacto negativo causado por actividad humana.
 
 ---
 
-## Question 7 (Variant Medium - Difficulty D5)
+## Question 7 (Variant Intermediate - Difficulty D5)
 
 **ID:** `CO-LEC-11-P2-vocabulario-contexto-043-MASTERY-v7`
-**Bloom:** Analyze
-**ICFES:** Analiza el uso contextual de términos especializada
-**Context:** Conflicto armado en Colombia
+**Bloom:** Understand
+**ICFES:** Interpretar matices semánticos
+**Context:** Democracia y participación ciudadana en Colombia
 
 ### Enunciado
-"Después de la firma del acordo de paz, muchas zonas rurales quedaron en estado deabandono. Las comunidades esperan que el Estado garantice su seguridad."
-
-La palabra **abandono** significa:
+En un informe sobre participación política: "A pesar de los esfuerzos institucionales, persiste una **brecha** significativa entre la ciudadanía y sus representantes elected." ¿Qué significa "brecha" en este contexto?
 
 ### Options
-- [ ] A) Un lugar donde nadie quiere vivir
-- [ ] B) Una decisión voluntaria de las comunidades
-- [x] C) Desatención del Estado hacia esas regiones
-- [ ] D) Un conflicto armado activo
+- [ ] A) Un acuerdo logrado entre ambas partes
+- [ ] B) Un puente físico construido para conectar comunidades
+- [x] C) Una separación o distancia entre lo que esperan los ciudadanos y lo que hacen los políticos <!-- feedback: Brecha (del francés "brèche") significa apertura o hueco que separa. Metafóricamente indica distancia o diferencia. El contexto indica desconexión entre ciudadanía y representantes. -->
+- [ ] D) Un tipo de elección popular obligatoria
 
 ### Explicación Pedagógica
-El contexto indica que tras la paz, las zonas esperan que el Estado intervenga, sugiriendo desatención previa. El distractor B sugiere voluntaria, D sugiere conflicto, A es vagamente correcto pero sin la causa.
+"Bregua" es un sustantivo metafórico que indica distancia o separación. En contexto político se usa para expresar desconexión entre representantes y representados. El error común es interpretar literalmente o confundir con diálogo/acuerdo.
 
 ---
 
-## Question 8 (Variant Medium - Difficulty D6)
+## Question 8 (Variant Intermediate - Difficulty D6)
 
 **ID:** `CO-LEC-11-P2-vocabulario-contexto-043-MASTERY-v8`
-**Bloom:** Apply
-**ICFES:** Aplica vocabulario contextual en textos informativos
-**Context:** Economía digital en Colombia
+**Bloom:** Analyze
+**ICFES:** Analizar inferencias contextuales
+**Context:** Crisis climática y medio ambiente en Colombia
 
 ### Enunciado
-"El comercio electrónico en Colombia ha crecido exponencialmente. Sin embargo, persisten desafíos en materia de ciberseguridad que preocupan a los consumidores."
-
-La palabra **ciberseguridad** significa:
+En un artículo sobre el cambio climático: "Los eventos meteorológicos extremos se han vuelto más **recurrentes** en los últimos años, afectando particularmente a las comunidades agrícolas de la región Caribe." ¿Qué indica la palabra "recurrentes"?
 
 ### Options
-- [ ] A) Uso de redes sociales para vender productos
-- [ ] B) Programas de computación básicos
-- [x] C) Protección de sistemas y datos frente a amenazas digitales
-- [ ] D) Venta de tecnología por internet
+- [ ] A) Que ocurren de manera aislada y excepcional
+- [x] B) Que se repiten con frecuencia y regularidad <!-- feedback: Recurrente viene del latín "recurrens" (que vuelve). Indica repetición en intervalos. El adverbio "más" y la frase temporal "en los últimos años" confirman aumento de frecuencia. -->
+- [ ] C) Que son predecibles y fáciles de anticipar
+- [ ] D) Que afectan únicamente a las grandes ciudades
 
 ### Explicación Pedagógica
-El contexto indica preocupación de consumidores, lo que se relaciona con protección de información digital. Los distractores A y D se refieren a comercio electrónico, B es demasiado básico.
+Recurrente significa que vuelve o se repite. El contexto indica aumento de frecuencia, no casos aislados. Los estudiantes tienden a confundir con "aislado" o sobreinterpretan la predictibilidad que no está en el texto.
 
 ---
 
-## Question 9 (Variant Medium - Difficulty D6)
+## Question 9 (Variant Intermediate - Difficulty D6)
 
 **ID:** `CO-LEC-11-P2-vocabulario-contexto-043-MASTERY-v9`
 **Bloom:** Understand
-**ICFES:** Infiere significados en textos persuasivos
-**Context:** Sostenibilidad en Colombia
+**ICFES:** Deducir significados complejos
+**Context:** Crisis de salud mental en jóvenes colombianos
 
 ### Enunciado
-"El gobierno presentó su estrategia para lograr la carbono-neutralidad antes de 2050. Esta iniciativa busca reduzir las emisiones de gases de efecto invernadero."
-
-La palabra **carbono-neutralidad** significa:
+En un artículo sobre salud mental juvenil: "Los especialistas alertan sobre una tendencia **preocupante**: el aumento de trastornos de ansiedad entre adolescentes de zonas urbanas." La palabra "preocupante" indica que la tendencia es:
 
 ### Options
-- [ ] A) Producir más carbono que antes
-- [ ] B) Usar únicamente combustibles fósiles
-- [x] C) Equilibrar las emisiones de carbono con su absorción
-- [ ] D) Eliminar todo el carbono de la atmósfera
+- [ ] A) Algo que genera alivio en los expertos
+- [ ] B) Un fenómeno positivo para la sociedad
+- [x] C) Un fenómeno que causa inquietud y alarma <!-- feedback: Preocupante deriva de "preocupar" (ocupar antes/por adelantado). Implica anticipar algo negativo. El verbo "alertan" refuerza la idea de alarma. El contexto indica datos negativos sobre salud mental. -->
+- [ ] D) Una situación que requiere poca atención
 
 ### Explicación Pedagógica
-El contexto indica reducción de emisiones, no eliminación total. Neutralidad implica equilibrio entre emisiones y absorción. El distractor A es lo opuesto, D es inalcanzable técnicamente.
+"Preocupante" combina "pre" (antes) y "ocupar" (llenar la mente). Significa que algo ocupa la mente con anticipación de consecuencias negativas. El verbo "alertan" confirma la actitud alarmada de los especialistas. El error es confundir con aspectos positivos o minimizar la gravedad.
 
 ---
 
-## Question 10 (Variant Medium - Difficulty D6)
+## Question 10 (Variant Intermediate - Difficulty D6)
 
 **ID:** `CO-LEC-11-P2-vocabulario-contexto-043-MASTERY-v10`
-**Bloom:** Analyze
-**ICFES:** Analiza recursos del lenguaje en contexto
-**Context:** Cultura colombiana contemporánea
+**Bloom:** Apply
+**ICFES:** Interpretar lenguaje figurativo
+**Context:** Conflictos sociales y desigualdad en Colombia
 
 ### Enunciado
-"El festival de música electronica en Medellín atrajo a miles depúblico extranjero. Los organizadores destacan el impacto positivo en la economía local."
-
-La palabra **público** significa:
+En un editorial sobre la protesta social: "Los sectores más vulnerables de la población siguen siendo los principales **rehenses** de una política económica que privilegia el crecimiento sobre la equidad." ¿Qué significa "rehenses" en esta oración?
 
 ### Options
-- [ ] A) El gobierno de la ciudad
-- [ ] B) Los artistas internacionales
-- [x] C) Las personas que asisten al evento
-- [ ] D) Los medios de comunicación
+- [ ] A) Beneficiarios principales de las políticas públicas
+- [ ] B) Actores políticos con poder de decisión
+- [x] C) Personas afectadas o atrapadas por una situación que no pueden controlar <!-- feedback: Rehén es quien está preso o atrapado por others. Metaphóricamente indica quienes suffer las consecuencias de decisiones ajenas. El contexto indica que los vulnerables suffer por políticas sobre las que no tienen control. -->
+- [ ] D) Representantes legales de las comunidades
 
 ### Explicación Pedagógica
-El contexto indica asistentes al festival que generan impacto económico. El distractor B podría confundir ya que海外 artista también participa, pero público se refiere específicamente a quienes asisten.
+Rehén (del francés "repreneur") originalmente indica persona tomada como garantía. Metafóricamente significa quien queda atrapado o suffer las consecuencias de acciones de terceros. El contexto socioeconómico refuerza la imagen de poblaciones vulnerables suffer policies que no deciden.
 
 ---
 
@@ -288,22 +315,20 @@ El contexto indica asistentes al festival que generan impacto económico. El dis
 
 **ID:** `CO-LEC-11-P2-vocabulario-contexto-043-MASTERY-v11`
 **Bloom:** Analyze
-**ICFES:** Interpreta significados en discursos complejos
-**Context:** Desigualdad social en Colombia
+**ICFES:** Analizar lenguaje especializado en contexto
+**Context:** Sistema de salud colombiano
 
 ### Enunciado
-"La segregación socioespacial en las grandes ciudades colombianas perpetúa la desigualdad. Barriospopulares carecen de servicios básicos mientras sectores residenciales gozan de infraestructura completa."
-
-La palabra **segregación** significa:
+En una columna sobre la reforma a la salud: "El proyecto busca **descentralizar** la toma de decisiones, permitiendo que las autoridades regionales tengan mayor injerencia en la gestión de los recursos." La palabra "descentralizar" implica:
 
 ### Options
-- [ ] A) Mezcla de diferentes grupos sociales
-- [x] B) Separación o división de grupos sociales por el espacio
-- [ ] C) Mejora de condiciones de vida
-- [ ] D) Creación de nuevas urbanizaciones
+- [ ] A) Eliminar completamente la estructura administrativa del Estado
+- [ ] B) Concentrar todo el poder en el gobierno central
+- [x] C) Distribuir o extender el poder de decisión hacia niveles locales o regionales <!-- feedback: Descentralizar es el proceso inverso de centralizar. El prefijo "des-" indica inversión. El complemento "autoridades regionales" y "mayor injerencia" confirman distribución de poder hacia afuera del centro. -->
+- [ ] D) Crear nuevas oficinas gubernamentales en la capital
 
 ### Explicación Pedagógica
-El contexto presenta desigualdad entre barrios por ubicación geográfica. Segregación implica separación por espacio físico, no solo social. Los distractores A es lo opuesto, C es consecuencia de integración.
+Descentralizar significa mover el poder o control del centro hacia la periferia. El contexto menciona explícitamente "autoridades regionales" y "mayor injerencia", confirmando la distribución. El error común es confundir con eliminación total o con concentración central.
 
 ---
 
@@ -311,68 +336,62 @@ El contexto presenta desigualdad entre barrios por ubicación geográfica. Segre
 
 **ID:** `CO-LEC-11-P2-vocabulario-contexto-043-MASTERY-v12`
 **Bloom:** Evaluate
-**ICFES:** Evalúa uso contextual de términos abstractos
-**Context:** Derechos humanos en Colombia
+**ICFES:** Evaluar significados en contexto complejo
+**Context:** Discriminación y derechos humanos en Colombia
 
 ### Enunciado
-"Lasorganizaciones de derechos humanos documentaron múltiples casos de violencia institucional. Denuncian que existe una política de impunidad que protege a los agresores."
-
-La palabra **impunidad** significa:
+En un ensayo sobre derechos de la comunidad LGBTQ+: "A pesar de los avances legislativos, persiste una **brecha** entre el reconocimiento legal y la aceptación social efectiva." Esta "brecha" se refiere a:
 
 ### Options
-- [ ] A) Castigo severo a los culpables
-- [ ] B) Investigación judicial exhaustiva
-- [x] C) Exención de castigo o consecuencia legal
-- [ ] D) Reparación a las víctimas
+- [ ] A) Un conflicto fisik physical entre grupos
+- [x] B) La distancia o diferencia entre lo que dice la ley y lo que realmente sucede en la sociedad <!-- feedback: Brecha indica separación. Aquí se secciona entre normativa y realidad social. El contexto indica que aunque hay leyes, la aceptación real no se ha logrado. Implica diferencia/disonancia entre texto y realidad. -->
+- [ ] C) Un tipo específico de legislación pendiente
+- [ ] D) Un acuerdo logrado entre el gobierno y las comunidades
 
 ### Explicación Pedagógica
-El contexto indica protección a agresores y ausencia de justicia. Impunidad significa exención de consecuencias. Los distractores A y B son lo opuesto, D es lo que debería existir pero no define impunidad.
+La metáfora de "brecha" se usa para indicar distancia entre dos realidades. En este caso, entre legislación y realidad social. El error típico es interpretar "brecha" literalmente o pensar que indica acuerdo/avance, cuando realmente indica fallo o diferencia.
 
 ---
 
 ## Question 13 (Variant Advanced - Difficulty D7)
 
 **ID:** `CO-LEC-11-P2-vocabulario-contexto-043-MASTERY-v13`
-**Bloom:** Analyze
-**ICFES:** Analiza vocabulario especializado en contexto social
-**Context:** Migración venezolana en Colombia
+**Bloom:** Understand
+**ICFES:** Inferir significados en texto argumentativo
+**Context:** Corrupción y ética pública en Colombia
 
 ### Enunciado
-"Colombia enfrenta el desafío de lainclude难民 venezolanos. Many of these personas xenofobia por parte de algunos sectores de la población receptora."
-
-La palabra **xenofobia** significa:
+En un informe sobre corrupción: "Los actos de corrupcción no solo afectan las arcas públicas, sino que generan un **efecto corruptor** en la confianza ciudadana hacia las instituciones." El "efecto corruptor" se refiere a:
 
 ### Options
-- [ ] A) Hospitalidad hacia los extranjeros
-- [x] B) Rechazo o odio hacia personas de otras nacionalidades
-- [ ] C) Integración cultural de migrantes
-- [ ] D) Políticas migratorias abiertas
+- [ ] A) Un incremento en la inversión extranjera en el país
+- [ ] B) Un procedimiento legal establecido para investigar casos
+- [x] C) La degeneración o deterioro progresivo de la credibilidad institucional <!-- feedback: Corruptor como adjetivo significa que corrompe o pervierte. El efecto corruptor implica deterioro moral o funcional. El contexto indica perdida de confianza, lo que confirma el deterioro. -->
+- [ ] D) Una campaña de prevención diseñada por el gobierno
 
 ### Explicación Pedagógica
-El contexto indica rechazo hacia venezolanos, lo que define xenofobia como odio a extranjeros. Los distractores A y C son lo opuesto, D se refiere a políticas institucionales, no actitudes populares.
+"Corruptor" funciona como adjetivo que describe algo que causa corrupción. El "efecto corruptor" es el impacto de generar más corrupción o deterioro. El contexto conecta con "confianza ciudadana", indicando deterioro institucional progresivo. El error es confundir con aspectos positivos o institucionales.
 
 ---
 
-## Question 14 (Variant Advanced - Difficulty D8)
+## Question 14 (Variant Advanced - Difficulty D7)
 
 **ID:** `CO-LEC-11-P2-vocabulario-contexto-043-MASTERY-v14`
-**Bloom:** Understand
-**ICFES:** Deduce significados en textos con registros mixtos
-**Context:** Agroindustria en Colombia
+**Bloom:** Analyze
+**ICFES:** Analizar lenguaje especializado
+**Context:** Migración venezolana en Colombia
 
 ### Enunciado
-"El monocultivo de palma africana ha generado争议 en las comunidades afrodescendientes del Chocó. Los empresarios defienden la inversión, pero los comunitarios alegan desplazamiento."
-
-La palabra **desplazamiento** significa:
+En un artículo sobre la crisis migratoria: "Las autoridades estiman que cerca de dos millones de venezolanos han cruzado la frontera, convirtiendo a Colombia en el país con la segunda mayor **población migrante** de América Latina." La expresión "población migrante" se refiere a:
 
 ### Options
-- [ ] A) Traslado temporal de trabajadores
-- [x] B)-Forzoso de comunidades de sus territorios
-- [ ] C) Cambio de actividad económica
-- [ ] D) Migración voluntaria a ciudades
+- [ ] A) Los turistas extranjeros que visitan el país anualmente
+- [ ] B) Los colombianos que viajan al exterior por trabajo
+- [x] C) Las personas que han dejado su país de origen para establecerse en otro <!-- feedback: Migrante se refiere a quien cambia su lugar de residencia habitual. El contexto indica flujos desde Venezuela hacia Colombia. El artículo contrasta con turismo o migración interna. -->
+- [ ] D) Los estudiantes que van a estudiar a universidades extranjeras
 
 ### Explicación Pedagógica
-El contexto indica comunidades que pierden sus territorios por el monocultivo. Desplazamiento implica forzar a personas a abandonar sus hogares. Los distractores A y C no implican pérdida territorial, D sugiere voluntariedad.
+Migrante se distingue de turista (visita temporal) o nómada (sin residencia fija). Se refiere a personas que establecen residencia en otro país. El contexto de la crisis humanitaria venezolana confirma que se trata de migración permanente/refugio. El error es confundir con migración temporal o turismo.
 
 ---
 
@@ -380,22 +399,20 @@ El contexto indica comunidades que pierden sus territorios por el monocultivo. D
 
 **ID:** `CO-LEC-11-P2-vocabulario-contexto-043-MASTERY-v15`
 **Bloom:** Evaluate
-**ICFES:** Evalúa tono y registro en textos argumentativos
-**Context:** Feminismo en Colombia
+**ICFES:** Evaluar matices semánticos
+**Context:** Política y posconflicto en Colombia
 
 ### Enunciado
-"El movimiento feminista colombiano exige políticas públicas con perspectiva de género. Lasmanifestantes sostienen que existe una estructura patriarcal que perpetúa la desigualdad."
-
-La palabra **patriarcal** significa:
+En un análisis sobre el posacuerdo: "Los críticos del proceso sostienen que se implementó de manera **apresurada**, sin garantías suficientes para las víctimas." La palabra "apresurada" sugiere:
 
 ### Options
-- [ ] A) Sistema de igualdad entre géneros
-- [ ] B) Organización familiar moderna
-- [x] C) Dominación masculina en estructuras sociales e institucionales
-- [ ] D) Políticas de welfare state
+- [ ] A) Con metodología rigurosa y lenta
+- [x] B) Con velocidad excesiva, sin la debida precaución <!-- feedback: Apresurar implica acelerar un proceso. Apresurado/a tiene connotation negativa de velocidad inapropiada. El contexto indica que los críticos consideran que se actuó sin las garantías necesarias. Indica precipitación. -->
+- [ ] C) Con participación ciudadana amplia
+- [ ] D) Con apoyo financiero internacional
 
 ### Explicación Pedagógica
-El contexto presenta lucha contra desigualdad de género, indicando un sistema dominado por hombres. Patriarcal implica dominación masculina. Los distractores A y D son lo opuesto o no relacionado.
+"Apresurado" implica velocidad inapropiada, usualmente con connotation negativa de precipitación. El contexto crítico y la mención de "garantías insuficientes" confirman que se refiere a un proceso percibido como precipitado. El error es confundir con procesos meticulosos o participativos.
 
 ---
 
@@ -403,112 +420,59 @@ El contexto presenta lucha contra desigualdad de género, indicando un sistema d
 
 **ID:** `CO-LEC-11-P2-vocabulario-contexto-043-MASTERY-v16`
 **Bloom:** Analyze
-**ICFES:** Interpreta léxico complejo en contexto sociopolítico
-**Context:** Corrupción en Colombia
+**ICFES:** Analizar lenguaje figurado y técnico
+**Context:** Problemas sociales urbanos en Colombia
 
 ### Enunciado
-"Las denuncias por corrupción envolvendo a funcionarios públicos generaron indignación nacional. Los expertos advierten sobre la captura del Estado por parte de intereses particulares."
-
-La palabra **captura** significa:
+En un informe sobre inseguridad en Bogotá: "Los habitantes de las zonas más afectadas sostienen que la violencia se ha **normalizado** en su quotidien, obligándolos a adaptar sus rutinas." ¿Qué implica "normalizado"?
 
 ### Options
-- [ ] A) Detención física de personas
-- [ ] B) Recuperación de recursos robados
-- [x] C) Control indebido de instituciones públicas por grupos de poder
-- [ ] D) Proceso legal de investigación
+- [ ] A) Que la violencia ha disminuido significativamente
+- [ ] B) Que existe justicia para los culpables de delitos
+- [x] C) Que la violencia se ha vuelto algo común y aceptado como parte de la rutina diaria <!-- feedback: Normalizar significa hacer que algo pase a ser considerado normal/usual. El contexto indica adaptación de rutinas, lo que implica aceptación resignada. Connotation profundamente negativa. -->
+- [ ] D) Que se han implementado programas de seguridad efectivos
 
 ### Explicación Pedagógica
-El contexto indica control por intereses particulares, no detención literal. Captura en contexto político implica control illegítimo de instituciones. Los distractores A, B y D son significados literales o procesos legales.
+"Normalizado" es términos con alta carga crítica. Significa que algo extraordinario se convierte en parte de lo cotidiano. El contexto de "adaptar rutinas" implica aceptación forzada. Implica resignación, no solución. El error es interpretar como disminución o como señal positiva.
 
 ---
 
-## Question 17 (Variant Mastery - Difficulty D9)
+## Question 17 (Variant Advanced - Difficulty D9)
 
 **ID:** `CO-LEC-11-P2-vocabulario-contexto-043-MASTERY-v17`
 **Bloom:** Evaluate
-**ICFES:** Evalúa significados en discursos con doble intencionalidad
-**Context:** Extractivismo en Colombia
+**ICFES:** Evaluar significados en contextos complejos
+**Context:** Desigualdad social y económica en Colombia
 
 ### Enunciado
-"El modelo extractivista basado en la эксплуатация de recursos naturales ha sido cuestionado por académicas y movimientos ambientales. Sus defensores argumentan que es necessário para el desarrollo económico."
-
-La palabra **extractivista** se refiere a:
+En un artículo académico sobre desigualdad: "La concentración de la riqueza en un porcentaje mínimo de la población ha generado una sociedad **atomizada**, donde cada individuo compite aisladamente contra estructuras de poder que lo superan ampliamente." ¿Qué significa "atomizada"?
 
 ### Options
-- [ ] A) Prácticas agrícolas sostenibles
-- [x] B) Modelo económico centrado en extracción de recursos naturales para exportación
-- [ ] C) Programas de conservación del medio ambiente
-- [ ] D) Políticas de industrialización local
+- [ ] A) Unida y cohesionada socialmente
+- [ ] B) Dividida en bloques políticos claramente definidos
+- [x] C) Fragmentada en unidades aisladas sin capacidad de organización colectiva <!-- feedback: Atomo viene del griego "atomos" (indivisible). Aplicado socialmente, indica fragmentación extrema. El contexto contrasta con organización colectiva y menciona "cada individuo" aislado, confirmando la atomicidad social. -->
+- [ ] D) Formada por grupos económicos bien definidos y对立
 
 ### Explicación Pedagógica
-El contexto presenta debate sobre explotación de recursos naturales con mención de exportación implícita. Extractivista específicamente implica extracción masiva para exportación. Los distractores A y C son lo opuesto, D no captura la esencia exportadora.
+"Atomizada" usa la metáfora del átomo (lo más pequeño e indivisible) para describir una sociedad fragmentada al máximo. Individuos aislados incapaces de organización collectively. El contexto refuerza con "compite aisladamente" opuesto a "colectiva". El error es confundir con bloques对立 o unidades órganizadas.
 
 ---
 
-## Question 18 (Variant Mastery - Difficulty D9)
+## Question 18 (Variant Advanced - Difficulty D9)
 
 **ID:** `CO-LEC-11-P2-vocabulario-contexto-043-MASTERY-v18`
-**Bloom:** Create
-**ICFES:** Construye significados a partir de inferencias complejas
-**Context:** Identidad cultural colombiana
-
-### Enunciado
-"La multiculturalidad colombiana se manifiesta en la coexistencia de prácticas ancestrales con moderneidad tecnológica. Sin embargo, persiste una tensión entre la asimilación cultural y el reconocimiento de la diferencia."
-
-La palabra **multiculturalidad** significa:
-
-### Options
-- [ ] A) Homogeneización cultural en una sola tradición
-- [ ] B) División estricta entre grupos culturales
-- [x] C) Coexistencia de múltiples culturas con sus prácticas diversas
-- [ ] D) Destrucción de tradiciones por influencia externa
-
-### Explicación Pedagógica
-El contexto前半句 indica coexistencia de prácticas diversas, lo que define multiculturalidad. El后半句 presenta tensión entre asimilación y diferencia, confirmando diversidad. Los distractores A y D son lo opuesto, B es segregación.
-
----
-
-## Question 19 (Variant Mastery - Difficulty D9)
-
-**ID:** `CO-LEC-11-P2-vocabulario-contexto-043-MASTERY-v19`
 **Bloom:** Analyze
-**ICFES:** Analiza implicaciones de términos en contexto crítico
-**Context:** Privatización en Colombia
+**ICFES:** Analizar lenguaje especializado en contexto
+**Context:** Justicia y sistema judicial en Colombia
 
 ### Enunciado
-"La privatización de servicios públicos ha generado debate entre quienes defienden la eficiciencia del mercado y quienes alertan sobre la erosión de derechos fundamentales."
-
-La palabra **erosión** significa:
+En un análisis sobre el sistema judicial: "Los defensores argumentan que el procesado fue puesto en una situación de **indefensión** al no poder acceder a los documentos fundamentales de su caso." La "indefensión" implica:
 
 ### Options
-- [ ] A) Mejora progresiva de servicios
-- [ ] B) Transformación tecnológica de sistemas
-- [x] C) Deterioro gradual de derechos por acción de políticas neoliberales
-- [ ] D) Conflictos entre sectores económicos
+- [ ] A) Que el acusado confesó voluntariamente su crimen
+- [ ] B) Que el procesado tenía pleno acceso a todos los recursos legales
+- [x] C) Estado de vulnerabilidad donde la persona no puede defenderse adecuadamente <!-- feedback: Indefensión es la imposibilidad de ejercer defensa. El prefijo "in-" indica negación. El contexto indica falta de acceso a documentos, lo que impide una defensa completa. Implica desprotección. -->
+- [ ] D) Que el律师 defenders tenían todas las garantías del caso
 
 ### Explicación Pedagógica
-El contexto indica pérdida gradual de derechos por políticas privatizadoras. Erosión implica desgaste lento pero sostenido. Los distractores A y B son beneficios potenciales, D es consecuencia secundaria.
-
----
-
-## Question 20 (Variant Mastery - Difficulty D10)
-
-**ID:** `CO-LEC-11-P2-vocabulario-contexto-043-MASTERY-v20`
-**Bloom:** Evaluate
-**ICFES:** Evalúa críticamente significados en discursos complejos con subtexto
-**Context:** Colonialismo interno en Colombia
-
-### Enunciado
-"La colonialidad del poder se reproduce en las relaciones raciales contemporáneas. Aunque formalmente existen garantías constitucionales, persisten estructuras de dominación que perpetúan la exclusión de pueblosoriginarios y comunidades afro."
-
-La palabra **colonialidad** significa:
-
-### Options
-- [ ] A) Periodo histórico de conquista territorial
-- [x) Continuidad de lógicas coloniales en estructuras sociales, económicas y políticas actuales
-- [ ] C) Relación comercial entre naciones
-- [ ] D) Proceso de independencia política
-
-### Explicación Pedagógica
-El contexto后半句 indica continuación de dominación colonial en el presente, no referencia a época histórica. Colonialidad se refiere a herencias coloniales persistentes. Los distractores A es pasado literal, C y D no capturan la continuidad histórica.
-```
+Indefensión es término jurídico que indica incapacidad de ejercer defensa. Puede ser real o legal. El contexto indica "no poder acceder" a documentos, lo que confirma la imposibilidad. Es estado de vulnerabilidad, no de ventaja proces

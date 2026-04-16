@@ -1,34 +1,31 @@
 <think>
-The user wants me to generate exactly 20 multiple-choice questions in ICFES Saber 11 style for "Lectura Crítica" (Critical Reading), specifically on "interpretación-figuras" (interpretation of figures/imagery). 
+The user wants me to generate exactly 20 multiple-choice questions in ICFES Saber 11 format for Critical Reading (Lectura Crítica), topic "interpretacion-figuras" (interpretation of figures/visual elements), grade 11, period 4.
 
-Let me carefully follow the requirements:
-- Topic: interpretacion-figuras
-- Grade: 11
-- Period: 4
-- Exactly 20 questions
-- Progressive difficulty: D3-D4 (1-4), D5-D6 (5-10), D7-D8 (11-16), D9-D10 (17-20)
-- ICFES style
-- Colombian modern context
-- 4 options with [x] on correct answer
-- No "all of the above" or "none of the above"
-- Output as a markdown file with the YAML frontmatter
+Let me follow the exact format specified:
 
-"Interpretación-figuras" refers to interpretation of figurative language, metaphors, similes, imagery, figures of speech, etc. in literary texts.
+1. First, the YAML frontmatter block
+2. Then 20 questions with the specified structure
+3. Each question has a variant and difficulty level
+4. Progressive difficulty: D3-D4 (questions 1-4), D5-D6 (5-10), D7-D8 (11-16), D9-D10 (17-20)
+5. Each question has 4 options with [x] on the correct one
+6. Context must be modern and relevant to Colombia
+7. Distractors should be plausible errors Colombian students make
 
-Let me generate 20 questions covering various aspects of figurative interpretation in critical reading contexts.
+Let me generate 20 questions about interpreting figures (charts, graphs, infographics, diagrams, etc.) in critical reading contexts.
 
-I need to make sure:
-- Each question has a clear context
-- Options are plausible distractors (real errors Colombian students make)
-- Correct answer is marked with [x]
-- Feedback comments after each option
-- Pedagogical explanation at the end
-- Bloom taxonomy level and ICFES competency specified
+Topics for "interpretacion-figuras" could include:
+- Interpreting bar charts, line graphs, pie charts
+- Reading infographics
+- Analyzing diagrams
+- Understanding statistical figures
+- Interpreting maps
+- Analyzing visual data representations
 
-Let me create this bundle:
+Let me create 20 questions with progressive difficulty.
 
 </think>
 
+```yaml
 ---
 id: "CO-LEC-11-P4-interpretacion-figuras-054-MASTERY"
 country: "colombia"
@@ -43,7 +40,7 @@ alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
 generation:
   agent: "minimax-m2.7"
   model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T18:09:17.902336"
+  timestamp: "2026-04-16T02:26:49.123957"
   prompt_version: "v2-direct"
 quality_status: "UNREVISED"
 generation_status: "RAW"
@@ -61,21 +58,23 @@ open_source: false
 ## Question 1 (Variant Basic - Difficulty D3)
 
 **ID:** `CO-LEC-11-P4-interpretacion-figuras-054-MASTERY-v1`
-**Bloom:** Understand
-**ICFES:** Interpretativa
-**Context:** Poemas contemporáneos colombianos
+**Bloom:** Remember
+**ICFES:** Identificación de información explícita en textos y gráficos
+**Context:** Encuesta sobre consumo de medios digitales en jóvenes colombianos
 
 ### Enunciado
-En el poema "Bogotá dormida" de Jorge Rojas, el verso "la ciudad se acuesta temprano" presenta una figura literaria que consiste en:
+Según el gráfico de barras que muestra el porcentaje de jóvenes colombianos entre 15 y 24 años que usan diferentes redes sociales, ¿cuál es la red social con mayor porcentaje de uso?
+
+(Gráfico想象: Instagram 78%, Facebook 65%, TikTok 82%, Twitter 34%)
 
 ### Options
-- [ ] A) Una metáfora que personifica la ciudad atribuyéndole características humanas <!-- feedback: Esta opción confunde el tipo de figura, no es una metáfora simple -->
-- [x] B) Una personificación que atribuyen acciones humanas a la ciudad <!-- feedback: Correcta. La ciudad "se acuesta", verbo propio de seres vivos, atribuyéndole características humanas -->
-- [ ] C) Una hipérbole que exagera la hora en que dormiran los bogotanos <!-- feedback: Incorrecto. No hay exageración temporal en el verso -->
-- [ ] D) Un símil que compara la ciudad con una persona dormida usando "como" <!-- feedback: Incorrecto. No existe la palabra "como" ni comparación explícita -->
+- [ ] A) Facebook <!-- feedback: Esta es la segunda red con mayor uso, con 65% -->
+- [ ] B) Twitter <!-- feedback: Tiene el menor porcentaje con 34% -->
+- [x] C) TikTok <!-- feedback: Correcto. TikTok tiene el mayor porcentaje con 82% según los datos del gráfico -->
+- [ ] D) Instagram <!-- feedback:Tiene 78%, que es alto pero no es el mayor -->
 
 ### Explicación Pedagógica
-La personificación es una figura que atribuye cualidades o acciones humanas a seres no humanos o a conceptos abstractos. En este verso, "se acuesta" es una acción exclusivamente humana que se aplica a la ciudad, creando una imagen poética que humaniza el espacio urbano.
+La respuesta correcta es C. Para interpretar un gráfico de barras se debe identificar cuál barra tiene la mayor altura o extensión. TikTok con 82% supera a Instagram (78%), Facebook (65%) y Twitter (34%). Un error común es confundir el orden cuando las diferencias son cercanas.
 
 ---
 
@@ -83,20 +82,22 @@ La personificación es una figura que atribuye cualidades o acciones humanas a s
 
 **ID:** `CO-LEC-11-P4-interpretacion-figuras-054-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Interpretativa
-**Context:** Narrativa colombiana contemporánea
+**ICFES:** Interpretación de relaciones causa-efecto en textos y gráficos
+**Context:** Estadísticas de exportación de café colombiano
 
 ### Enunciado
-En el fragmento "Sus ojos eran dos carbones encendido que atravesaban la oscuridad", el recurso figurativo principal es:
+En un gráfico de líneas que muestra las exportaciones de café colombiano entre 2018 y 2023, ¿qué tendencia general observa?
+
+(想象折线图: 2018-2019上升, 2019-2020下降, 2020-2023持续上升至新高)
 
 ### Options
-- [x] A) Una símil que establece comparación explícita con elementos naturales <!-- feedback: Correcta. Se usa "eran como" implícito y se comparan los ojos con carbones encendidos -->
-- [ ] B) Una metáfora que identifica directamente los ojos con brasas <!-- feedback: Incorrecto. La forma "eran dos carbones" con "como" implícito indica símil, no identificación directa -->
-- [ ] C) Una hipérbole que exagera el brillo de los ojos <!-- feedback: Incorrecto. No hay exageración, sino comparación figurada -->
-- [ ] D) Una metonimia que replacement una parte por el todo <!-- feedback: Incorrecto. No hay sustitución metonímica, es comparación figurada -->
+- [ ] A) Decreciente durante todo el período <!-- feedback: No corresponde con los datos, hubo recuperación después de 2020 -->
+- [ ] B) Estable con variaciones mínimas <!-- feedback: Los datos muestran cambios significativos -->
+- [x] C) Creciente con una caída temporal en 2020 <!-- feedback: Correcto. Hay crecimiento general con caída en 2020 debido a la pandemia y posterior recuperación -->
+- [ ] D) cíclica sin tendencia clara <!-- feedback: Los datos muestran una tendencia clara al alza -->
 
 ### Explicación Pedagógica
-El símil se reconoce por el uso de conectores comparativos (como, parecía, etc.) aunque estén implícitos. "Eran dos carbones encendidos" establece una comparación donde los ojos se asemejan a carbones que emiten luz, sin identificar completamente ambas realidades.
+La respuesta correcta es C. Al interpretar gráficos de líneas se debe identificar tanto la tendencia general como los puntos de cambio. La pandemia de 2020 causó una caída temporal, seguida de recuperación y crecimiento hasta superar los niveles previos.
 
 ---
 
@@ -104,125 +105,127 @@ El símil se reconoce por el uso de conectores comparativos (como, parecía, etc
 
 **ID:** `CO-LEC-11-P4-interpretacion-figuras-054-MASTERY-v3`
 **Bloom:** Understand
-**ICFES:** Interpretativa
-**Context:** Artículo de opinión sobre educación
+**ICFES:** Análisis de información cuantitativa en gráficos
+**Context:** Encuesta sobre hábitos de estudio de estudiantes colombianos
 
 ### Enunciado
-En el texto "La corrupción es un monstruo que devora las esperanzas del pueblo", el tipo de figura literaria empleada es:
+Según el diagrama de torta que muestra cómo los estudiantes de grado 11 distribuyen su tiempo de estudio, ¿qué porcentaje aproximado corresponde a matemáticas?
+
+(想象饼图: Matemáticas 30%, Ciencias 25%, Lengua 20%, Sociales 15%, Otros 10%)
 
 ### Options
-- [ ] A) Una metonimia donde la corrupción representa la sociedad corrupta <!-- feedback: Incorrecto. La corrupción no representa la sociedad, sino que se personifica -->
-- [ ] B) Un símil que compara la corrupción con un animal feroz <!-- feedback: Incorrecto. No hay marcador comparativo, es una personificación directa -->
-- [x] C) Una personificación que otorga características de ser vivo al concepto abstracto de corrupción <!-- feedback: Correcta. "Devora" es acción de seres vivos, otorgando vida a la corrupción -->
-- [ ] D) Una hipérbole que exagera el impacto negativo de la corrupción <!-- feedback: Incorrecto. No hay exageración cuantitativa, sino asignación de acciones humanas -->
+- [ ] A) 15% <!-- feedback: Ese porcentaje corresponde a Ciencias Sociales -->
+- [x] B) 30% <!-- feedback: Correcto. El sector de matemáticas ocupa aproximadamente 30% del diagrama -->
+- [ ] C) 20% <!-- feedback: Ese porcentaje corresponde a Lengua -->
+- [ ] D) 25% <!-- feedback: Ese porcentaje corresponde a Ciencias -->
 
 ### Explicación Pedagógica
-Al atribuir a la corrupción la capacidad de "devorar", se le confieren cualidades de ser vivo, especificamente de bestia o monstruo. Esta personificación serve para generar un impacto emocional en el lector y crear una imagen vívida del problema social.
+La respuesta correcta es B. En un diagrama de torta, cada sector representa una proporción del total. El sector de matemáticas es el más grande con 30%, seguido por Ciencias (25%), Lengua (20%), Sociales (15%) y Otros (10%). Un error frecuente es confundir sectores cercanos en tamaño.
 
 ---
 
 ## Question 4 (Variant Basic - Difficulty D4)
 
 **ID:** `CO-LEC-11-P4-interpretacion-figuras-054-MASTERY-v4`
-**Bloom:** Understand
-**ICFES:** Interpretativa
-**Context:** Editorial de periódico bogotano
+**Bloom:** Apply
+**ICFES:** Extrapolación de información de gráficos a nuevos contextos
+**Context:** Comparación de rendimiento académico entre regiones colombianas
 
 ### Enunciado
-La frase "El río Cauca lleva siglos gritando la desesperación de las comunidades", contiene una figura que busca:
+Si en un gráfico de barras comparativo, Bogotá supera a Medellín en lectura crítica y matemáticas, pero Medellín supera a Bogotá en ciencias naturales, ¿cuál afirmación es correcta?
 
 ### Options
-- [ ] A) Describir geográficamente el sonido del río Cauca <!-- feedback: Incorrecto. No es descripción literal, es atribución figurada -->
-- [x] B) Personificar el río para expresar el sufrimiento ambiental de la región <!-- feedback: Correcta. El río "grita" y tiene "desesperación", características humanas que expresan la crisis ambiental -->
-- [ ] C) Comparar el ruido del río con el de una persona gritando <!-- feedback: Incorrecto. No hay comparación explícita con conector -->
-- [ ] D) Exagerar la contaminación del río usando la hipérbole <!-- feedback: Incorrecto. El recurso no es exageración, sino atribución de cualidades humanas -->
+- [ ] A) Bogotá tiene mejor rendimiento en todas las áreas <!-- feedback: Contradice los datos del gráfico -->
+- [ ] B) Medellín tiene mejor rendimiento en todas las áreas <!-- feedback: Contradice los datos del gráfico -->
+- [x] C) El rendimiento depende del área evaluada <!-- feedback: Correcto. Los datos muestran fortalezas diferentes en cada ciudad -->
+- [ ] D) Las dos ciudades tienen rendimiento idéntico <!-- feedback: Contradice explícitamente los datos -->
 
 ### Explicación Pedagógica
-Esta personificación del río Cauca sirve para crear una imagen emotiva que evidencia la crisis ambiental. Al decir que el río "grita", se transforma un fenómeno natural en testigo y víctima del deterioro ambiental, generando empatía en el lector.
+La respuesta correcta es C. Cuando un gráfico muestra resultados comparativos por categorías, se debe reconocer que los resultados varían según el área. Bogotá es mejor en algunas áreas y Medellín en otras, sin que una ciudad domine completamente.
 
 ---
 
 ## Question 5 (Variant Medium - Difficulty D5)
 
 **ID:** `CO-LEC-11-P4-interpretacion-figuras-054-MASTERY-v5`
-**Bloom:** Apply
-**ICFES:** Interpretativa
-**Context:** Crónica sobre migración venezolana
+**Bloom:** Analyze
+**ICFES:** Análisis crítico de fuentes de información gráfica
+**Context:** Informe del DANE sobre niveles de pobreza en Colombia
 
 ### Enunciado
-En la frase "Los pasos de los migrantes留下一串串印记 en la arena", la imagen busca representar:
+Un gráfico de barras apiladas muestra la composición del ingreso familiar por deciles en Colombia. Si el decil 1 (más pobre) muestra que el 60% de su ingreso proviene de transferencias del gobierno, mientras el decil 10 (más rico) muestra que solo el 5% proviene de transferencias, ¿qué inferencia es más válida?
 
 ### Options
-- [ ] A) El peso físico de las personas sobre la tierra <!-- feedback: Incorrecto. La metáfora trasciende lo físico para expresar，留下痕迹huella dejada -->
-- [ ] B) La imposibilidad de borrar la historia de la migración <!-- feedback: Correcta. La metáfora indica que así como las huellas permanecen en la arena, la experiencia migratoria deja marca permanente -->
-- [ ] C) El número exacto de personas que cruzan la frontera <!-- feedback: Incorrecto. No hay dato numérico en la figura -->
-- [ ] D) La comparación entre pasos humanos y pisadas de animales <!-- feedback: Incorrecto. No hay símil, hay metáfora sobre el impacto histórico -->
+- [ ] A) Los ricos pagan más impuestos que los pobres <!-- feedback: Este dato no permite inferir eso directamente -->
+- [ ] B) El sistema de transferencias es regressivo <!-- feedback: El hecho de que los pobres reciban más transferencias indica lo contrario -->
+- [x] C) Las transferencias del gobierno representan una fuente crucial de ingreso para los hogares más pobres <!-- feedback: Correcto. El dato muestra que las transferencias son fundamentales para el decil inferior -->
+- [ ] D) Los ricos ahorran más que los pobres <!-- feedback: Este dato no se relaciona con patrones de ahorro -->
 
 ### Explicación Pedagógica
-La metáfora de las huellas en la arena sugiere permanencia e irrecuperabilidad. assim como las huellas se borran con el viento, pero simultáneamente dejan evidencia de paso, la migración deja marcas en la memoria colectiva y en la historia de las naciones.
+La respuesta correcta es C. Al analizar gráficos de barras apiladas se debe identificar qué representa cada segmento y comparar entre categorías. El 60% vs 5% muestra claramente la importancia relativa de las transferencias para cada grupo.
 
 ---
 
 ## Question 6 (Variant Medium - Difficulty D5)
 
 **ID:** `CO-LEC-11-P4-interpretacion-figuras-054-MASTERY-v6`
-**Bloom:** Apply
-**ICFES:** Argumentativa
-**Context:** Ensayo sobre violencia en el conflicto colombiano
+**Bloom:** Analyze
+**ICFES:** Evaluación de sesgos en presentación de datos gráficos
+**Context:** Comparación de tarifas de servicios públicos entre ciudades colombianas
 
 ### Enunciado
-En el texto "La violencia es un fuego que nunca se apaga", la figura cumple la función de:
+Un periódico bogotano publica un gráfico de barras que compara tarifas de agua entre ciudades, mostrando a Bogotá con la tarifa más alta. Sin embargo, el gráfico no menciona que Bogotá tiene el menor consumo per cápita del país. ¿Cuál es la intención más probable de esta presentación?
 
 ### Options
-- [ ] A) Definir científicamente el concepto de violencia <!-- feedback: Incorrecto. No es definición, sino comparación figurada -->
-- [ ] B) Crear una imagen sensorial que evoca la destrucción y persistencia del conflicto <!-- feedback: Correcta. El fuego como imagen sensorial transmite destrucción, calor intenso y dificultad para extinguir -->
-- [ ] C) Comparar llanamente la violencia con un fenómeno meteorológico <!-- feedback: Incorrecto. El fuego no es meteorológico, es símbolo de destrucción -->
-- [ ] D) Exagerar el número de afectados por la violencia <!-- feedback: Incorrecto. No hay dato numérico ni cuantificación -->
+- [ ] A) Informar objetivamente sobre tarifas de agua <!-- feedback: La omisión de información relevante sugiere otra intención -->
+- [x] B) Presentar una imagen desfavorable de la tarifa bogotana sin contexto <!-- feedback: Correcto. Omitir el contexto del menor consumo manipular la percepción -->
+- [ ] C) Celebrar la eficiencia del consumo en Bogotá <!-- feedback: No hay evidencia de esa intención en la presentación -->
+- [ ] D) Comparar la calidad del servicio entre ciudades <!-- feedback: El gráfico solo muestra tarifas, no calidad -->
 
 ### Explicación Pedagógica
-La metáfora del fuego sirve para crear una imagen sensorial poderosa. El fuego connota destrucción, imposibilidad de control, y persistencia destructiva. Esta figura busca que el lector experimente emocionalmente la naturaleza del conflicto armado colombiano.
+La respuesta correcta es B. La omisión de información crucial (menor consumo per cápita, que justificaría tarifa más alta) indica una presentación sesgada. En lectura crítica, se debe evaluar no solo lo que muestra el gráfico, sino lo que oculta.
 
 ---
 
 ## Question 7 (Variant Medium - Difficulty D5)
 
 **ID:** `CO-LEC-11-P4-interpretacion-figuras-054-MASTERY-v7`
-**Bloom:** Analyze
-**ICFES:** Interpretativa
-**Context:** Reseña literaria sobre novela colombiana
+**Bloom:** Understand
+**ICFES:** Relación entre texto explicativo y datos gráficos
+**Context:** Estudio sobre contaminación del río Magdalena
 
 ### Enunciado
-Cuando en una novela se escribe "Su sonrisa era un amanecer sobre el Valle del Cauca", el efecto buscaba es:
+Un informe sobre contaminación del río Magdalena incluye un gráfico que muestra el nivel de COLI (coliformes) en diferentes puntos del río, seguido de un párrafo que afirma: "Los niveles de contaminación han mejorado significativamente en los últimos cinco años." Si el gráfico muestra niveles que siguen siendo 20 veces superiores al máximo permitido, ¿qué relación existe entre el texto y el gráfico?
 
 ### Options
-- [x] A) Generar una imagen visual donde la sonrisa ilumina el rostro como el sol al valle <!-- feedback: Correcta. El amanecer connota luz gradual, calidez y renovación, creando imagen visual asociada a la sonrisa -->
-- [ ] B) Indicar que el personaje vivía en el Valle del Cauca al amanecer <!-- feedback: Incorrecto. La ubicación geográfica es irrelevante, es imagen figurativa -->
-- [ ] C) Comparar la hora en que sonreía con el amanecer vallecaucano <!-- feedback: Incorrecto. No hay relación temporal literal -->
-- [ ] D) Describir literalmente el color de los dientes del personaje <!-- feedback: Incorrecto. Es figura poética, no descripción dental -->
+- [ ] A) El gráfico contradice la afirmación del texto <!-- feedback: Contradice no, pero si matiza significativamente -->
+- [ ] B) El gráfico respalda completamente la afirmación <!-- feedback: El gráfico no muestra mejora "significativa" si sigue muy alto -->
+- [x] C) El gráfico contradice la interpretación excesiva del texto <!-- feedback: Correcto. Los datos muestran que sigue超标, el texto califica de "significativa" una mejora que no alcanza estándares -->
+- [ ] D) No hay relación entre el texto y el gráfico <!-- feedback: Hay una relación, el texto describe lo que muestra el gráfico -->
 
 ### Explicación Pedagógica
-Esta metáfora crea una imagen sinestésica donde la sonrisa (visual/expresión facial) se asocia con el amanecer (fenómeno visual y temporal). La sonrisa "ilumina" como el sol, sugiriendo calidez, esperanza y renovación emocional en el personaje.
+La respuesta correcta es C. El gráfico muestra mejora (niveles más bajos que antes) pero aún超标20倍. La palabra "significativamente" es exagerada. El gráfico matiza la afirmación del texto, mostrando que la interpretación es demasiado positiva.
 
 ---
 
 ## Question 8 (Variant Medium - Difficulty D6)
 
 **ID:** `CO-LEC-11-P4-interpretacion-figuras-054-MASTERY-v8`
-**Bloom:** Analyze
-**ICFES:** Interpretativa
-**Context:** Artículo sobre desigualdad social en Medellín
+**Bloom:** Apply
+**ICFES:** Cálculo e interpretación de tendencias a partir de gráficos
+**Context:** Economía colombiana y producción de flores
 
 ### Enunciado
-La frase "Las comunas de Medellín son cicatrices en el mapa de la ciudad" construye su sentido mediante:
+Según un gráfico de líneas que muestra las exportaciones de flores colombianas en millones de dólares desde 2015 hasta 2023, donde 2015 = 100, 2018 = 115, 2020 = 108, 2023 = 130, ¿cuál fue el crecimiento promedio anual aproximado?
 
 ### Options
-- [ ] A) Un símil que establece relación de comparación entre heridas y territorios <!-- feedback: Incorrecto. No hay partícula comparativa, es identificación metafórica directa -->
-- [x] B) Una metáfora que equipara las zonas marginadas a marcas de dolor geográfico <!-- feedback: Correcta. La metáfora establece equivalencia entre cicatrices (heridas sanadas pero visibles) y comunas, connotando sufrimiento histórico y persistencia de la desigualdad -->
-- [ ] C) Una hipérbole que exagera el dolor de los habitantes de las comunas <!-- feedback: Incorrecto. No hay cuantificación ni exageración numérica -->
-- [ ] D) Una personificación que da voz a los territorios marginados <!-- feedback: Incorrecto. Las cicatrices no hablan ni actúan, solo significan marcas -->
+- [ ] A) 1.5% anual <!-- feedback: Este cálculo subestima el crecimiento total -->
+- [ ] B) 2.5% anual <!-- feedback: Cerca, pero no exactamente el crecimiento total del 30% en 8 años -->
+- [x] C) 3.3% anual <!-- feedback: Correcto. (130-100)/100 = 30% en 8 años ≈ 3.3% anual acumulativo -->
+- [ ] D) 5% anual <!-- feedback: Sobreestimaría el crecimiento -->
 
 ### Explicación Pedagógica
-La metáfora de las cicatrices sugiere territorios que han sufrido heridas profundas (violencia, pobreza) que, aunque pueden haber sanado superficialmente, dejan marcas permanentes visibles en la configuración urbana. Las cicatrices connotan historias de sufrimiento y sobreviviencia.
+La respuesta correcta es C. Para calcular crecimiento promedio anual se debe considerar el crecimiento total (de 100 a 130 = 30%) en el período de 8 años. Usando la fórmula de tasa compuesta: (130/100)^(1/8) - 1 ≈ 3.3%. Errores comunes incluyen dividir simplemente 30/8.
 
 ---
 
@@ -230,62 +233,62 @@ La metáfora de las cicatrices sugiere territorios que han sufrido heridas profu
 
 **ID:** `CO-LEC-11-P4-interpretacion-figuras-054-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Interpretativa
-**Context:** Poema sobre el río Magdalena
+**ICFES:** Identificación de factores que afectan la interpretación de gráficos
+**Context:** Comparación de resultados Saber 11 entre departamentos
 
 ### Enunciado
-En el verso "El Magdalena nos susurra secretos de祖先", la figura literaria permite:
+Un gráfico de barras muestra la puntuación promedio en Lectura Crítica por departamento, donde Vaupés tiene 42 puntos y Bogotá 52 puntos. Sin embargo, Vaupés tiene solo 120 estudiantes presentando el examen mientras Bogotá tiene 85,000. ¿Qué factor debe considerarse al interpretar este gráfico?
 
 ### Options
-- [ ] A) Conocer información histórica sobre la cultura ancestral colombiana <!-- feedback: Incorrecto. El río no transmite información literal, es imagen poética -->
-- [x] B) Atribuir al río una voz humana que evoca memoria histórica y conexión con antepasados <!-- feedback: Correcta. El susurro humaniza el río, sugiriendo que este guarda y transmite memorias ancestrales, conectando naturaleza e historia -->
-- [ ] C) Comparar el sonido del agua con el de una persona hablando bajo <!-- feedback: Incorrecto. Es personificación, no símil comparativo -->
-- [ ] D) Describir el caudal del río en horas de la mañana <!-- feedback: Incorrecto. No hay dato temporal ni descripción hidráulica -->
+- [ ] A) La puntuación de Vaupés es más confiable por tener menos estudiantes <!-- feedback: Menor muestra = menos confiabilidad, no más -->
+- [x] B) Las diferencias en tamaño de muestra afectan la representatividad de los datos <!-- feedback: Correcto. Muestras muy diferentes tienen poderes estadísticos distintos -->
+- [ ] C) Los datos de Bogotá son incorrectos por la cantidad de estudiantes <!-- feedback: No hay razón para pensar que los datos son incorrectos -->
+- [ ] D) El gráfico debe mostrar solo departamentos con más de 10,000 estudiantes <!-- feedback: No hay norma que excluya departamentos pequeños -->
 
 ### Explicación Pedagógica
-La personificación del Magdalena como susurrante conecta el río con la tradición oral y la memoria colectiva. El "susurro" sugiere intimidad, conocimiento guardado y transmisión de cultura entre generaciones, reforzando el vínculo entre territorio y identidad colombiana.
+La respuesta correcta es B. En interpretación de figuras estadísticas, el tamaño de la muestra es crucial. Con 120 estudiantes, la puntuación de Vaupés puede variar significativamente con cambios mínimos en el desempeño de unos pocos estudiantes.
 
 ---
 
 ## Question 10 (Variant Medium - Difficulty D6)
 
 **ID:** `CO-LEC-11-P4-interpretacion-figuras-054-MASTERY-v10`
-**Bloom:** Analyze
-**ICFES:** Argumentativa
-**Context:** Columna de opinión sobre paz en Colombia
+**Bloom:** Evaluate
+**ICFES:** Evaluación de conclusiones basadas en evidencia gráfica
+**Context:** Estudios sobre cambio climático en la zona Andina colombiana
 
 ### Enunciado
-La expresión "El posconflicto es una semilla que necesita tiempo para germinar" funciona como:
+Un gráfico muestra que la extensión del glaciar Cone Sur en Colombia se redujo de 100 km² en 1990 a 45 km² en 2023. Un investigador concluye que "en 30 años el glaciar perderá la mitad de su extensión". ¿Cuál evaluación es más crítica?
 
 ### Options
-- [ ] A) Descripción literal del proceso agrícola en comunidades rurales <!-- feedback: Incorrecto. Es metáfora, no descripción agrícola -->
-- [ ] B) Metonimia donde la semilla representa el proceso completo de reconciliación <!-- feedback: Incorrecto. No hay sustitución de causa por efecto, hay comparación implícita -->
-- [x] C) Metáfora que compara el proceso de paz con el desarrollo natural lento de una semilla <!-- feedback: Correcta. La semilla connota potencial, vulnerabilidad inicial, crecimiento gradual y resultados futuros, reflejando las características del posconflicto -->
-- [ ] D) Símil que requiere la palabra "como" para establecer comparación <!-- feedback: Incorrecto. No hay partícula comparativa, es metáfora directa -->
+- [ ] A) La conclusión es correcta porque los datos lo muestran <!-- feedback: La proyección lineal no considera factores que pueden cambiar la tendencia -->
+- [x] B) La proyección lineal no considera posibles aceleraciones o deceleraciones en la pérdida <!-- feedback: Correcto. Extrapolar tendencias linealmente sin considerar factores complejos es cuestionable -->
+- [ ] C) El gráfico debería mostrar datos de más años atrás <!-- feedback: El período 1990-2023 es adecuado para tendencias -->
+- [ ] D) Los datos son falsos porque el glaciar no desapareció completamente <!-- feedback: No hay evidencia de falsificación -->
 
 ### Explicación Pedagógica
-La metáfora de la semilla germinando transmite que el posconflicto requiere cuidado, tiempo y condiciones adecuadas para desarrollarse. También sugiere fragilidad inicial del proceso y la necesidad de paciencia colectiva antes de ver resultados tangibles.
+La respuesta correcta es B. En lectura crítica, se debe evaluar si las conclusiones están justificadas por los datos. Una reducción del 55% no garantiza que el siguiente 55% ocurra en el mismo período. Factores como políticas ambientales o cambios económicos pueden alterar la tendencia.
 
 ---
 
 ## Question 11 (Variant Advanced - Difficulty D7)
 
 **ID:** `CO-LEC-11-P4-interpretacion-figuras-054-MASTERY-v11`
-**Bloom:** Evaluate
-**ICFES:** Interpretativa
-**Context:** Crónica sobre indígenas en la Sierra Nevada
+**Bloom:** Analyze
+**ICFES:** Análisis comparativo de múltiples fuentes gráficas
+**Context:** Comparación del IDEI (Índice de Desigualdad de Género) entre países latinoamericanos
 
 ### Enunciado
-Cuando el autor escribe "LosWiwa hanno smesso di credere che le montagne hablaran", utiliza una prosopopeya para:
+Se presentan dos gráficos: uno de barras con el puntaje IDEI de cinco países sudamericanos y otro de líneas mostrando la evolución del IDEI de Colombia entre 2010-2023. Colombia tiene el tercer puntaje más alto del grupo, pero su tendencia es ligeramente decreciente. ¿Cuál análisis integra correctamente ambos gráficos?
 
 ### Options
-- [x] A) Atribuir capacidad de habla a las montañas, representando la voz de la naturaleza ancestral <!-- feedback: Correcta. La prosopopeya (figura donde se atribuye voz a lo inanimado o abstracto) busca empoderar la relación sagrada entre indigenous pueblos y su territorio -->
-- [ ] B) Describir literalmente cómo los Wiwa interpretaban el sonido del viento en las montañas <!-- feedback: Incorrecto. No hay descripción onomatopéyica ni análisis de sonido -->
-- [ ] C) Comparar la comunicación Wiwa con sistemas de comunicación montañas-bosques <!-- feedback: Incorrecto. No hay símil, hay atribución directa de habla -->
-- [ ] D) Exagerar la importancia de las montañas en la cosmovisión Wiwa mediante hipérbole <!-- feedback: Incorrecto. No hay exageración numérica ni cuantitativa -->
+- [ ] A) Colombia tiene el peor desempeño en igualdad de género de la región <!-- feedback: No corresponde con ser tercero de cinco -->
+- [x] B) Colombia mantiene una posición intermedia en la región, con avances graduales hacia mayor igualdad <!-- feedback: Correcto. Tercer lugar = posición intermedia; tendencia decreciente del IDEI indica más igualdad -->
+- [ ] C) Colombia debería copiar las políticas de los países con mejor puntaje <!-- feedback: No se puede inferir políticas específicas de los gráficos -->
+- [ ] D) La tendencia decreciente de Colombia indica que pronto será el país con mejor puntaje <!-- feedback: Extrapolación no justificada de una tendencia leve -->
 
 ### Explicación Pedagógica
-La prosopopeya en este contexto busca devolver la voz a elementos naturales que han sido silenciados. Al atribuirles habla, se resalta la cosmovisión donde montañas y humanos mantienen diálogo, desafiando lógicas occidentales que separan naturaleza de humanidad.
+La respuesta correcta es B. La lectura crítica de múltiples gráficos requiere integrar información sin sobreinterpretar. "Tercer lugar de cinco" significa posición intermedia (no peor, no mejor). La tendencia decreciente del IDEI (donde menor = mejor) indica avances graduale.
 
 ---
 
@@ -293,20 +296,20 @@ La prosopopeya en este contexto busca devolver la voz a elementos naturales que 
 
 **ID:** `CO-LEC-11-P4-interpretacion-figuras-054-MASTERY-v12`
 **Bloom:** Evaluate
-**ICFES:** Interpretativa
-**Context:** Ensayo sobre extractivismo en el Chocó
+**ICFES:** Evaluación de la validez de información en gráficos
+**Context:** Campaña publicitaria sobre productos agotados en tiendas colombianas
 
 ### Enunciado
-El enunciado "La tierra llora cuando lo extractionale牛仔裤le牛仔裤" utiliza el lloro de la tierra para:
+Un anuncio publicitario afirma "9 de cada 10 colombianos prefieren nuestra marca" y muestra una "encuesta" sin fuente, método ni tamaño de muestra. El gráfico asociado solo muestra un icono de carrito de compras concheck verde. ¿Cuál es la evaluación correcta de esta evidencia?
 
 ### Options
-- [ ] A) Describir literalmente los efectos de la erosión hídrica en el territorio Chocó <!-- feedback: Incorrecto. Es personificación poética, no descripción científica -->
-- [x] B) Personificar la tierra como víctima del extractivismo, generando empatía con el lector <!-- feedback: Correcta. La tierra que llora connota sufrimiento, vulnerabilidad y agencia propia frente a la destrucción caused by extractivismo -->
-- [ ] C) Comparar el sonido de la maquinaria con el sonido de personas llorando <!-- feedback: Incorrecto. No hay símil, hay atribución emocional directa -->
-- [ ] D) Exagerar el impacto ambiental mediante hipérbole sensorial <!-- feedback: Incorrecto. La personificación no busca exagerar sino humanizar -->
+- [ ] A) La afirmación es creíble porque muchos anuncios la usan <!-- feedback: Popularidad no equivale a validez -->
+- [ ] B) La afirmación es falsos porque los anuncios siempre mienten <!-- feedback: No toda información en anuncios es falsa, pero esta care de rigor -->
+- [x] C) La evidencia gráfica es insuficiente para verificar la afirmación <!-- feedback: Correcto. Ausencia de metodología, fuente y tamaño de muestra impide verificar la confiabilidad -->
+- [ ] D) El gráfico es confiable porque es visualmente atractivo <!-- feedback: Atractivo visual no equivale a confiabilidad estadística -->
 
 ### Explicación Pedagógica
-La personificación de la tierra llorando transforma el territorio en sujeto victimizado, dotándolo de sensibilidad y derechos. Esta figura invita al lector a relacionarse emocionalmente con el problema, trascendiendo argumentos puramente racionales sobre daño ambiental.
+La respuesta correcta es C. En lectura crítica, se debe evaluar la calidad de la evidencia. Una afirmación sin fuente, sin método de recolección de datos y sin tamaño de muestra es estadísticamente inválida. El gráfico iconográfico no representa datos reales.
 
 ---
 
@@ -314,62 +317,62 @@ La personificación de la tierra llorando transforma el territorio en sujeto vic
 
 **ID:** `CO-LEC-11-P4-interpretacion-figuras-054-MASTERY-v13`
 **Bloom:** Analyze
-**ICFES:** Interpretativa
-**Context:** Artículo sobre memoria histórica en el Museo de la Memoria
+**ICFES:** Identificación de falacias en representaciones gráficas
+**Context:** Debate sobre légalización de vehículos eléctricos en Colombia
 
 ### Enunciado
-En la frase "Los muros del museo son testimonios que no hablan pero gritan", la tensión entre "no hablan" y "gritan" produce:
+Un político muestra un gráfico donde la ventas de vehículos eléctricos en Colombia subió de 500 unidades en 2019 a 2,500 en 2023, y argumenta: "Las ventas se quintuplicaron,证明 nuestro plan de incentivo funcionó." Sin embargo, no menciona que los vehículos eléctricos siguen representando solo el 0.5% del total de ventas de vehículos en el país. ¿Cuál es la falacia en su argumento?
 
 ### Options
-- [ ] A) Un oxímoron que evidencia la contradicción de la memoria institucional <!-- feedback: Incorrecto. El contraste no es contradictorio sino complementario, buscando efecto expresivo -->
-- [ ] B) Una paradoja que enfatiza la imposibilidad de expresar el dolor <!-- feedback: Incorrecto. La frase no propone imposibilidad, sino capacidad diferenciada de expresión -->
-- [x] C) Un contraste expresivo que sugiere que el silencio tiene capacidad de denuncia mayor que la palabra <!-- feedback: Correcta. La paradoja aparente sugiere que los objetos "testimonian" sin palabras, generando denuncia más poderosa que cualquier discurso -->
-- [ ] D) Una hipérbole que exagera el impacto visual de los muros del museo <!-- feedback: Incorrecto. No hay cuantificación ni exageración -->
+- [ ] A) No hay falacia, los datos demuestran su punto <!-- feedback: Los datos muestran crecimiento pero no el contexto del mercado total -->
+- [ ] B) Confundir crecimiento absoluto con relevancia en el mercado total <!-- feedback: No hay confundiendo, hay omisión deliberada -->
+- [x] C) Usar crecimiento porcentual impresionante sin considerar la proporción real en el mercado total <!-- feedback: Correcto. 500% de crecimiento sobre base muy pequeña sigue siendo insignificante -->
+- [ ] D) Inventar datos sobre las ventas de vehículos eléctricos <!-- feedback: Los datos pueden ser ciertos, el problema es la interpretación -->
 
 ### Explicación Pedagógica
-Este contraste crea una paradoja expresiva donde el silencio (no hablan) se convierte en voz más potente (gritan). La figura sugiere que los objetos y espacios pueden ser vehículo de memoria histórica sin necesidad de palabras, potenciando el valor testimonial de los espacios de memoria.
+La respuesta correcta es C. El político usa un dato técnicamente correcto (quintuplicación) para sugerir éxito rotundo, pero omite que el punto de partida era mínimo y la proporción sigue siendo insignificante (0.5%). Esto es una falacia de escala.
 
 ---
 
 ## Question 14 (Variant Advanced - Difficulty D8)
 
 **ID:** `CO-LEC-11-P4-interpretacion-figuras-054-MASTERY-v14`
-**Bloom:** Evaluate
-**ICFES:** Interpretativa
-**Context:** Poema sobre el Pacífico colombiano
+**Bloom:** Analyze
+**ICFES:** Análisis crítico de metodologías de encuestas presentadas en gráficos
+**Context:** Encuesta sobre percepción de seguridad ciudadana en Medellín
 
 ### Enunciado
-La expresión "El Pacífico es una olla donde se cocina la historia" funciona como:
+Una firma de investigación presenta los resultados de su "Encuesta de Seguridad" en Medellín con el siguiente gráfico: una barra muestra que "78% de los ciudadanos se sienten seguros". En letra muy pequeña se lee: "Encuesta realizada vía WhatsApp a contactos de la firma". ¿Cuál es la principal debilidad metodológica?
 
 ### Options
-- [ ] A) Metáfora que identifica al océano con un recipiente doméstico <!-- feedback: Incorrecto. La metáfora trasciende la identificación simple; busca representar el cruzamiento cultural y la mezcla -->
-- [x] B) Metáfora que representa el crisol de culturas, tradiciones y pueblos que confluyen en el Pacífico <!-- feedback: Correcta. La olla como imagen de cocina sugiere mestizaje, mezcla, transformación y confluencia de ingredientes diversos -->
-- [ ] C) Sí mil que compara el calor del océano con el vapor de una olla <!-- feedback: Incorrecto. No hay partícula comparativa, es metáfora directa -->
-- [ ] D) Metonimia donde la olla replacement el concepto de cocina tradicional pacífica <!-- feedback: Incorrecto. No hay sustitución metonímica -->
+- [x] A) La muestra por WhatsApp no representa la población general de Medellín <!-- feedback: Correcto. Contactos de una firma tienen sesgo de selección enorme -->
+- [ ] B) El número 78% es demasiado alto para ser creíble <!-- feedback: No se puede evaluar por su valor, sino por cómo se obtuvo -->
+- [ ] C) La firma de investigación no tiene legitimidad para hacer encuestas <!-- feedback: No hay evidencia de falta de legitimidad -->
+- [ ] D) WhatsApp no es una plataforma confiable para encuestas <!-- feedback: La plataforma es neutral, el método de selección de contactos es el problema -->
 
 ### Explicación Pedagógica
-La metáfora de la olla sugiere que en el Pacífico colombiano se "cocinan" (mezclan, transforman) diversos ingredientes culturales: indigenous, afrodescendientes, mestizas. Esta imagen evoca riqueza culinaria y cultural, resaltando la diversidad del territorio太平洋.
+La respuesta correcta es A. En lectura crítica, se debe cuestionar cómo se obtuvo la muestra. Contactos de una firma de investigación constituyen un grupo muy sesgado (personas con acceso a tecnología, posiblemente con perfil específico). Una muestra representativa requiere selección aleatoria de la población.
 
 ---
 
 ## Question 15 (Variant Advanced - Difficulty D8)
 
 **ID:** `CO-LEC-11-P4-interpretacion-figuras-054-MASTERY-v15`
-**Bloom:** Analyze
-**ICFES:** Interpretativa
-**Context:** Artículo sobre desplazamiento forzado
+**Bloom:** Create
+**ICFES:** Síntesis de información de múltiples figuras para construir argumentos
+**Context:** Informe del PNUD sobre desarrollo humano y pobreza multidimensional en Colombia
 
 ### Enunciado
-En el texto "Los desplazados son sombras que caminan entre nosotros sin ser vistos", las sombras funcionan como:
+Un informe del PNUD presenta: 1) un mapa de Colombia con色调 que muestra el Índice de Pobreza Multidimensional (IPM) por departamentos, donde los colores más oscuros indican mayor pobreza; 2) una gráfica que muestra la correlación positiva entre IPM y tasa de deserción escolar por departamento. Según estos datos, ¿qué política sería más consistente?
 
 ### Options
-- [ ] A) Descripción literal del estado físico demacrado de los desplazados <!-- feedback: Incorrecto. Es metáfora, no descripción clínica -->
-- [ ] B) Metonimia donde las sombras representan la oscuridad de la situación <!-- feedback: Incorrecto. No hay relación de sustitución causa-efecto -->
-- [x] C) Metáfora que representa la invisibilidad social y la condición de desvanecimiento identitario de los desplazados <!-- feedback: Correcta. La sombra connota invisibilidad, falta de corpulencia identitaria y presencia simultáneamente efímera, reflejando la condición del desplazado -->
-- [ ] D) Hipérbole que exagera la delgadez de las personas desplazadas <!-- feedback: Incorrecto. No hay cuantificación física -->
+- [ ] A) Reducir el número de liceales en departamentos con alto IPM para bajar la deserción <!-- feedback: Esto empeoraría la situación -->
+- [x] B) Implementar programas de retención escolar focalizados en departamentos con alto IPM <!-- feedback: Correcto. La correlación indica que combatir la deserción ayudaría a reducir la pobreza multidimensional -->
+- [ ] C) Mover estudiantes de departamentos con alto IPM a instituciones con bajo IPM <!-- feedback: Esto no aborda la causa -->
+- [ ] D) Eliminar los programas de apoyo alimentario en escuelas con bajo IPM <!-- feedback: Esto afectaría a quienes menos lo necesitan -->
 
 ### Explicación Pedagógica
-La metáfora de las sombras expresa la paradoja de la presencia-ausencia: los desplazados existen físicamente pero son socialmente invisibles. La sombra también connotafragilidad, falta de arraigo y dependencia de la luz ajena, reflejando la condición de vulnerabilidad del desplazado.
+La respuesta correcta es B. La información mostrada indica que donde hay mayor pobreza multidimensional, hay mayor deserción escolar. Una intervención coherente sería atacar la causa (pobreza) y el efecto (deserción) mediante programas focalizados de retención.
 
 ---
 
@@ -377,55 +380,38 @@ La metáfora de las sombras expresa la paradoja de la presencia-ausencia: los de
 
 **ID:** `CO-LEC-11-P4-interpretacion-figuras-054-MASTERY-v16`
 **Bloom:** Evaluate
-**ICFES:** Argumentativa
-**Context:** Editorial sobre educación rural en Nariño
+**ICFES:** Evaluación de la calidad de fuentes y datos presentados en gráficos
+**Context:** Comparación de ingresos de profesores en países de la OCDE vs Colombia
 
 ### Enunciado
-La frase "La educación en Nariño es una luz que apenas alumbra el camino de los jóvenes" utiliza la figura para:
+Un politician colombiano muestra un gráfico comparativo que indica que el salario promedio de un profesor en Colombia es 40% del salario promedio de un profesor en la OCDE. El gráfico no especifica: el año de los datos, cómo se calcularon los promedios (pueden incluir salarios diferentes), ni qué países de la OCDE se incluyeron. ¿Cuál es la interpretación más cautelosa?
 
 ### Options
-- [ ] A) Describir literalmente la falta de infraestructura eléctrica en escuelas rurales <!-- feedback: Incorrecto. Es metáfora sobre acceso a educación, no sobre energía eléctrica -->
-- [ ] B) Comparar el sistema educativo con el servicio de alumbrado público <!-- feedback: Incorrecto. No hay símil, hay metáfora de luz como conocimiento -->
-- [x] C) Metáfora que expresa cómo la educación rural apenas satisface las necesidades formativas de los jóvenes nariñenses <!-- feedback: Correcta. La luz tenue y apenas iluminadora connota insuficiencia, fragilidad y capacidad limitada del sistema educativo rural para guiar a los jóvenes -->
-- [ ] D) Personificar la educación dotándola de capacidad de emitir luz <!-- feedback: Incorrecto. La personificación requeriría acciones humanas específicas; aquí es metáfora de cualidad -->
+- [ ] A) Colombia paga mucho menos que los países desarrollados a sus profesores <!-- feedback: Sin más contexto, no se puede afirmar eso -->
+- [ ] B) Los datos demuestran inequívocamente que los profesores colombianos están peorpagados <!-- feedback: Las omisiones metodológicas impiden certeza -->
+- [x] C) Los datos sugieren una brecha significativa, pero requieren verificación metodológica más detallada <!-- feedback: Correcto. Se puede reconocer un problema señaladdo sin confirmar la exactitud de los números -->
+- [ ] D) Los datos son falsos porque omiten información importante <!-- feedback: No hay evidencia de falsificación, solo de incompletitud -->
 
 ### Explicación Pedagógica
-La luz tenue como metáfora educativa expresa la insuficiencia del sistema educativo rural sin demonizarlo. Sugiere que donde hay algo de educación, esta es frágil e insuficiente para iluminar completamente el futuro de los jóvenes, evidenciando brechas de inversión pública.
+La respuesta correcta es C. En lectura crítica, se debe evaluar tanto el contenido como la presentación. Una brecha del 40% vs 100% puede ser significativa, pero sin metodología clara (año, países incluidos, tipo de profesor, horas laboradas) no se puede confirmar la exactitud.
 
 ---
 
 ## Question 17 (Variant Expert - Difficulty D9)
 
 **ID:** `CO-LEC-11-P4-interpretacion-figuras-054-MASTERY-v17`
-**Bloom:** Create
-**ICFES:** Interpretativa
-**Context:** Novela histórica sobre el conflicto colombiano
+**Bloom:** Analyze
+**ICFES:** Análisis de gráficos múltiples para identificar tendencias contradictorias
+**Context:** Economía colombiana: Sector de tecnologías y empleo informal
 
 ### Enunciado
-En el fragmento "Los cuerpos de los desaparecidos no están mortos, sino suspendidos en un limbo temporal", la imagen del limbo temporal funciona para:
+Se presentan dos gráficos: 1) Gráfico de líneas mostrando cómo el sector de tecnologías de la información en Colombia creció un 200% en exportaciones entre 2015 y 2023; 2) Gráfico de barras mostrando cómo la tasa de empleo informal en Colombia aumentó del 47% al 49% en el mismo período. ¿Cuál análisis integra mejor ambos gráficos?
 
 ### Options
-- [ ] A) Describir el estado clínico de personas en coma <!-- feedback: Incorrecto. No hay referencia médica, es concepto filosófico -->
-- [ ] B) Metonimia donde el limbo representa la司法 investigacón pendiente <!-- feedback: Incorrecto. No hay sustitución de conceptos -->
-- [x] C) Metáfora que expresa la condición de los desaparecidos como seres fuera del tiempo, sin muerte ni vida definida, cuestionando los linderos entre presencia y ausencia <!-- feedback: Correcta. El limbo temporal crea una categoría ontológica especial donde los desaparecidos no están muertos (no hay closure) ni vivos (no hay presencia), creando un estado intermedio de indeterminación -->
-- [ ] D) Hipérbole que exagera la duración de los procesos de investigación de失踪案 <!-- feedback: Incorrecto. No hay cuantificación temporal -->
+- [ ] A) El crecimiento tecnológico creó más empleo informal, lo causando aumento en ambas métricas <!-- feedback: No hay información de causalidad en los gráficos -->
+- [ ] B) Los gráficos se contradicen y por lo tanto uno de los dos debe estar错误 <!-- feedback: Métricas diferentes no se contradicen, pueden coexistir -->
+- [x] C) El crecimiento de un sector no implica necesariamente reducción del empleo informal en otros sectores <!-- feedback: Correcto. Son métricas independientes que no tienen relación causal directa sin más información -->
+- [ ] D) El sector tecnológico está inflando las cifras de empleo informal <!-- feedback: No hay evidencia de eso -->
 
 ### Explicación Pedagógica
-El "limbo temporal" crea una categoría ontológica para los desaparecidos que trasciende la dicotomía vida-muerte. Esta figura responde a la impossibility de cierre que genera la desaparición forzada: ni los familiares pueden hacer duelo ni los herramientales pueden cerrar casos. El limbo表征 la indeterminación estructural del fenómeno.
-
----
-
-## Question 18 (Variant Expert - Difficulty D9)
-
-**ID:** `CO-LEC-11-P4-interpretacion-figuras-054-MASTERY-v18`
-**Bloom:** Evaluate
-**ICFES:** Interpretativa
-**Context:** Crónica sobre el comercio en Bogotá
-
-### Enunciado
-La expresión "Los vendedores informales son hormigas que rebuilden la ciudad setiap hari" crea una imagen donde las hormigas representan:
-
-### Options
-- [ ] A) La organización espontánea de los vendedores en clusters específicos <!-- feedback: Incorrecto. Las hormigas no representan organización, sino trabajo constante y sistemático -->
-- [x] B) El trabajo constante, invisible y estructurado que sostiene la economía urbana Bogotana <!-- feedback: Correcta. Las hormigas connotan laboriosidad, trabajo en equipo, desplazamiento constante y estructuras que solo se notan cuando desaparecen. Los vendedores informales, como las hormigas, sostienen el funcionamiento urbano siendo casi invisibles -->
--
+La respuesta correcta es C

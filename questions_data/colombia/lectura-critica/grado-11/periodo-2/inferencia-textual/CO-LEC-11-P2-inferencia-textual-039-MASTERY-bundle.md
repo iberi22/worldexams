@@ -1,38 +1,27 @@
 <think>
-Voy a generar 20 preguntas tipo ICFES para Lectura Crítica, tema inferencia-textual, grado 11, periodo 2, con dificultad progresiva (D3-D10), distractores plausibles y contexto colombiano moderno.
+The user wants me to generate exactly 20 ICFES-style multiple choice questions for "Lectura Crítica" (Critical Reading) on the topic "inferencia-textual" (textual inference), for grade 11, period 2. They want a specific markdown format with YAML frontmatter and 20 questions following a progressive difficulty structure.
 
-Necesito asegurarme de que:
-1. Las preguntas sean de opción múltiple (A, B, C, D)
-2. Haya progresión de dificultad: D3-D4 (1-4), D5-D6 (5-10), D7-D8 (11-16), D9-D10 (17-20)
-3. Los distractores sean errores reales de estudiantes
-4. Haya inferencia textual (sacar conclusiones no explícitas del texto)
-5. Contexto colombiano moderno
+Let me create this content following the rules:
+1. Difficulty progression: D3-D4 (questions 1-4), D5-D6 (5-10), D7-D8 (11-16), D9-D10 (17-20)
+2. Plausible distractors that represent real Colombian student errors
+3. ICFES alignment with real Saber 11 exam style
+4. Modern Colombian context
+5. Exactly 4 options, [x] on the correct one
+6. No "all of the above" or "none of the above"
 
-Para inferencia textual, los estudiantes deben:
-- Identificar información implícita
-- Deducir intenciones del autor
-- Interpretar tono y actitud
-- Sacar conclusiones basadas en evidencia textual
-- Reconocer presupuestos no expresados
+I need to create 20 questions about textual inference (inferencia textual) for critical reading. This involves:
+- Drawing conclusions from textual evidence
+- Implicit information identification
+- Making deductions based on context
+- Understanding unstated implications
+- Pragmatic inference
 
-Voy a crear textos breves (párrafos cortos) con preguntas que requieran inferir.
+Let me create diverse questions with Colombian contexts and modern scenarios.
 
-Textos potenciales:
-1. Sobre migración venezolana en Colombia
-2. Sobre conservación ambiental en la Amazonía
-3. Sobre tecnología en educación colombiana
-4. Sobre desigualdad económica
-5. Sobre patrimonio cultural colombiano
-6. Sobre salud mental juvenil
-7. Sobre violencia de género
-8. Sobre economía naranja
-9. Sobre paz y posconflicto
-10. Sobre cambio climático en Colombia
+I need to output only the markdown content with the YAML frontmatter followed by the 20 questions. No additional text before or after.
 
-Empiezo a generar las preguntas con la estructura solicitada.
 </think>
 
-```markdown
 ---
 id: "CO-LEC-11-P2-inferencia-textual-039-MASTERY"
 country: "colombia"
@@ -47,7 +36,7 @@ alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
 generation:
   agent: "minimax-m2.7"
   model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T17:12:43.905394"
+  timestamp: "2026-04-16T01:39:00.140674"
   prompt_version: "v2-direct"
 quality_status: "UNREVISED"
 generation_status: "RAW"
@@ -66,21 +55,20 @@ open_source: false
 
 **ID:** `CO-LEC-11-P2-inferencia-textual-039-MASTERY-v1`
 **Bloom:** Understand
-**ICFES:** Infiere información implícita en textos argumentativos
-**Context:** Crisis humanitaria en la frontera colombo-venezolana
+**ICFES:** Comprende información implícita en textos informativos
+**Context:** Noticia sobre conservación ambiental en el Amazonas colombiano
 
 ### Enunciado
-El artículo describe cómo familias completas cruzan el puente internacional de Cúcuta con maletas pequeñas y documentos desgastados. Los niños cargan botellas de agua y las madres organizan la fila con precisión. Al llegar al punto de control colombiano, varios miembros de las familias se miran entre sí con expresiones de uncertainty antes de mostrar sus documentos.
+En un artículo sobre la deforestación en la Amazonía colombiana, el periodista señala: "Las comunidades indígenas del Vaupés han implementado sistemas de vigilancia con drones para detectar taladores ilegales. Según el capitán Mendoza, esta tecnología ha reducido las alertas de alarma en un 70%". De esta información se puede inferir que:
 
-Según el texto, se puede inferir que estas familias
-
-- [ ] A) Ya han cruzado antes la frontera y conocen el procedimiento
-- [ ] B) Desean regresar pronto a Venezuela una vez pasen el control
-- [x] C) Experimentan preocupación por las condiciones del cruce fronterizo <!-- feedback: La referencia a "expresiones de incertidumbre" y el hecho de que revisen documentos antes de mostrarlos sugiere nerviosismo ante un proceso que no controlan -->
-- [ ] D) Prefieren cruzar de noche para evitar el calor
+### Options
+- [ ] A) Los indígenas del Vaupés aprendieron a construir drones por su cuenta <!-- feedback: El texto no indica que los construyeran, solo que los usan -->
+- [ ] B) La tecnología militar se está implementando en la selva colombiana <!-- feedback: No se menciona específicamente tecnología militar -->
+- [x] C) Las comunidades indígenas reciben apoyo tecnológico externo para proteger sus territorios <!-- feedback: La existencia de drones implica acceso a tecnología y conocimientos externos -->
+- [ ] D) El capitán Mendoza es parte de la comunidad indígena del Vaupés <!-- feedback: No hay evidencia de esto; Mendoza es identificado como capitán -->
 
 ### Explicación Pedagógica
-La inferencia textual requiere identificar información que no está explícitamente dicha. El texto menciona "expresiones de incertidumbre" y la acción de mirarse entre sí antes de mostrar documentos. Esto permite inferir un estado emocional de preocupación o ansiedad. El distractor A es incorrecto porque si conocieran bien el procedimiento, no mostrarían incertidumbre. El B es una suposición sin base textual. El D introduce información externa (noche/calor) que no aparece en el texto.
+La inferencia textual permite identificar información que no está explícita pero se deduce del contexto. En este caso, el uso de "drones" implica tecnología sofisticada que difícilmente las comunidades desarrollaron de forma aislada, sugiriendo apoyo externo. El error común es sobreinterpretar detalles no presentes o asumir información que no se puede concluir del texto.
 
 ---
 
@@ -88,21 +76,20 @@ La inferencia textual requiere identificar información que no está explícitam
 
 **ID:** `CO-LEC-11-P2-inferencia-textual-039-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Identifica presupuestos implícitos en discursos cotidianos
-**Context:** Política educativa colombiana sobre bilingüismo
+**ICFES:** Identifica premisas y conclusiones en textos argumentativos
+**Context:** Editorial sobre educación virtual en Colombia
 
 ### Enunciado
-El Ministerio de Educación anunció que a partir del próximo año, todas las instituciones educativas oficiales deberán implementar mínimo 5 horas semanales de inglés como segunda lengua. El informe añade que se proveerá capacitación docente durante los meses de vacaciones y que se evaluará a los profesores cada semestre.
+En el editorial de un diario bogotano se lee: "Las universidades públicas colombianas enfrentan una crisis financiera sin precedentes. El presupuesto para investigación se redujo en un 40% este año, mientras los costos de matrícula en instituciones privadas siguen en aumento. Esta situación favorece únicamente a quienes pueden pagar educación superior costosa". Del fragmento se puede inferir que el autor considera que:
 
-Se puede inferir del texto que el Ministerio asume que
-
-- [ ] A) Los docentes actuales no tienen ningún conocimiento de inglés
-- [ ] B) Los estudiantes de colegios públicos ya hablan inglés fluidamente
-- [ ] C) Los profesores necesitan formación adicional para enseñar inglés eficazmente <!-- feedback: La decisión de "proveer capacitación docente" implica que el Ministerio reconoce que los docentes actuales requieren formación específica para cumplir con el nuevo requisito -->
-- [ ] D) Los padres de familia apoyan la enseñanza del inglés en colegios públicos
+### Options
+- [ ] A) La educación pública es mejor que la privada <!-- feedback: No hace comparación de calidad, solo de acceso -->
+- [ ] B) Todas las universidades públicas deberán cerrar pronto <!-- feedback: No se puede inferir una predicción tan extrema -->
+- [x] C) Existe una desigualdad creciente en el acceso a la educación superior <!-- feedback: La reducción presupuestal y el aumento de costos sugiere que solo quienes pueden pagar acceden -->
+- [ ] D) Los estudiantes de universidades públicas tienen mejores notas <!-- feedback: No hay relación entre costos y rendimiento académico -->
 
 ### Explicación Pedagógica
-Este ejercicio evalúa la capacidad de identificar presupuestos, es decir, ideas que el emisor asume como verdaderas sin demostrar. La inferencia surge del hecho de que se ofrecerán cursos de capacitación: si los docentes ya estuvieran preparados, no sería necesario capacitarlos. Los distractores A y B son demasiado extremos y no se derivan del texto. El D introduce información externa no mencionada.
+La inferencia válida requiere extraer consecuencias lógicas del texto sin añadir información externa. El estudiante debe identificar que el desequilibrio financiero públicos-privados implica un problema de inequidad. El error frecuente es crear conclusiones que van más allá de lo sustentado o añadir juicios de valor no presentes.
 
 ---
 
@@ -110,43 +97,41 @@ Este ejercicio evalúa la capacidad de identificar presupuestos, es decir, ideas
 
 **ID:** `CO-LEC-11-P2-inferencia-textual-039-MASTERY-v3`
 **Bloom:** Apply
-**ICFES:** Infiere intenciones del autor en textos periodísticos
-**Context:** Problemática ambiental en la Sierra Nevada de Santa Marta
+**ICFES:** Deduce relaciones causa-consecuencia a partir de información textual
+**Context:** Reportaje sobre problemáticas sociales en Medellín
 
 ### Enunciado
-Las comunidades indígenas de la Sierra Nevada de Santa Marta han solicitado durante los últimos quince años al gobierno nacional la creación de un programa de protección ambiental exclusivo para su territorio sagrado. Los documentos entregados por los líderes Wiwa, Kogui, Arhuaco y Wayúu demuestran el avance acelerado de la deforestación y el desplazamiento de especies endémicas. El artículo finaliza mencionando que "los pueblos ancestrales han cuidado estos territorios durante milenios y son los únicos que pueden garantizar su supervivencia".
+Un reportaje de Medellín presenta el caso de los adultos mayores que viven en situación de calle: "En el barrio Manrique, la Fundación 'Nuevo Amanecer' ofrece almuerzo caliente a personas mayores de 65 años. Sin embargo, solo el 30% de los adultos mayores en condición de calle acceden a este servicio. Los directivos de la fundación señalan que muchos no se enteran de su existencia". Según esta información, ¿cuál es la inferencia más válida?
 
-Según la intención del autor del artículo, se puede concluir que
-
-- [ ] A) Los indígenas deberían abandonar sus territorios sagrados para proteger el medio ambiente
-- [ ] B) Los wiwa son más importantes que los arhuacos en la lucha ambiental
-- [x] C) El conocimiento ancestral de los pueblos indígenas debe considerarse clave en estrategias de conservación ambiental <!-- feedback: La mención de "milenios", la solicitud de 15 años y la frase final sugieren que el autor propone que el gobierno reconozca el rol de los indígenas como guardianes ancestrales del territorio -->
-- [ ] D) El gobierno debe negar la petición de los indígenas para evitar conflictos
+### Options
+- [ ] A) La fundación decide intencionalmente a quién alimenta <!-- feedback: No hay indicación de discriminación en el texto -->
+- [ ] B) La mayoría de adultos mayores en calle no quieren comer en la fundación <!-- feedback: Se indica que no se enteran, no que no quieran -->
+- [ ] C) Falta de difusión sobre los servicios disponibles para adultos mayores vulnerables <!-- feedback: El texto indica que muchos no se enteran, lo cual confirma este problema comunicacional -->
+- [ ] D) Los adultos mayores de Manrique son más vulnerables que en otros barrios <!-- feedback: No hay comparación con otros barrios en el texto -->
 
 ### Explicación Pedagógica
-La inferencia sobre la intención del autor requiere analizar el tono y la selección de información. El artículo destaca que los indígenas han protegido estos territorios durante "milenios" y enfatiza su conocimiento. Esto permite inferir que el autor apoya la petición indígena. Los distractores A y D contradicen el sentido global del texto. El B es una lectura superficial que fragmenta la información.
+Este ejercicio evalúa la capacidad de identificar causas no explícitas. La clave está en notar que "no se enteran" implica una falla en comunicación o difusión. Los errores típicos incluyen asumir motivaciones no mencionadas o hacer comparaciones no soportadas por el texto.
 
 ---
 
 ## Question 4 (Variant Basic - Difficulty D4)
 
 **ID:** `CO-LEC-11-P2-inferencia-textual-039-MASTERY-v4`
-**Bloom:** Understand
-**ICFES:** Deduce relaciones causa-consecuencia implícitas en textos expositivos
-**Context:** Economía circular y reciclaje en empresas colombianas
+**Bloom:** Apply
+**ICFES:** Interpreta información implícita en textos narrativos
+**Context:** Cuento contemporáneo colombiano sobre migración venezolana
 
 ### Enunciado
-En el centro de Bogotá, una empresa textil pequeña ha transformado completamente su modelo de producción. La gerente explica que hace tres años iniciaron un programa de economía circular que consiste en recolectar prendas usadas de otras marcas, desarmarlas y crear nuevos textiles. Los costos de materia prima se redujeron en un 60% y la empresa contrató 15 empleados adicionales. El artículo señala que "la sostenibilidad dejó de ser un gasto y se convirtió en ventaja competitiva".
+En un relato corto ambientado en Cúcuta, la protagonista es una niña venezolana de 10 años que trabaja vendiendo flores en el puente internacional. El narrador describe: "Cada vez que un colombiano le compraba flores, Mamá le decía que sonriera más fuerte. Pero cuando una mujer uniformada se acercaba, Mamá la escondía detrás del puesto de frutas". De este fragmento se puede inferir que:
 
-A partir del texto, se puede inferir que la empresa textil
-
-- [ ] A) Tuvo pérdidas económicas en los primeros años de operación
-- [ ] B) Eliminó completamente el uso de materiales nuevos en su producción
-- [x] C) Descubrió que las prácticas ambientalmente responsables pueden generar beneficios económicos <!-- feedback: La reducción del 60% en costos, la contratación de empleados adicionales y la frase final permiten inferir que la empresa encontró una correlación positiva entre sostenibilidad y rentabilidad -->
-- [ ] D) Produjo 15 nuevas colecciones en tres años
+### Options
+- [ ] A) La mujer uniformada es un familiar de la niña <!-- feedback: No hay evidencia de parentesco en el texto -->
+- [x] B) La madre teme que las autoridades separen a su hija de ella <!-- feedback: La reacción de esconder a la niña ante la presencia de alguien uniformado sugiere temor a una autoridad -->
+- [ ] C) La niña prefiere esconderse cuando ve mujeres uniformadas <!-- feedback: Es la madre quien la esconde, no se indica deseo de la niña -->
+- [ ] D) Los colombianos que compran flores son más amables que las autoridades <!-- feedback: No se hace comparación directa de trato entre grupos -->
 
 ### Explicación Pedagógica
-La inferencia textual aquí se centra en conectar información dispersa para llegar a una conclusión global. La gerente afirma que la sostenibilidad "dejó de ser un gasto y se convirtió en ventaja competitiva", lo que permite inferir directamente que las prácticas ambientales generaron beneficios económicos. El distractor A no tiene soporte textual. El B es exagerado ("completamente"). El D es información cuantitativa no presente en el texto.
+La inferencia narrativa requiere identificar comportamientos implícitos. El gesto de "esconder" sugiere un temor específico y fundamentado, posiblemente por experiencias previas con autoridades migratorias. El error común es confundir acciones de personajes con deseos o preferencias no stated.
 
 ---
 
@@ -154,65 +139,62 @@ La inferencia textual aquí se centra en conectar información dispersa para lle
 
 **ID:** `CO-LEC-11-P2-inferencia-textual-039-MASTERY-v5`
 **Bloom:** Analyze
-**ICFES:** Evalúa argumentos implícitos en textos críticos
-**Context:** Desigualdad de género en el mercado laboral colombiano
+**ICFES:** Identifica tonos y posturas ideológicas en textos periodísticos
+**Context:** Artículo de investigación sobre economía naranja en Colombia
 
 ### Enunciado
-Un estudio del DANE reveló que las mujeres profesionales en Colombia ganan en promedio un 22% menos que los hombres en posiciones similares. La investigación señala que el 68% de las mujeres consultadas declararon haber recibido propuestas salariales por debajo de su formación durante procesos de selección. Una participante del estudio indicó: "Cuando mencioné que tenía hijos pequeños, el reclutador cambió de tema y me preguntó si estaba segura de poder dedicarme tiempo completo al trabajo". El informe concluye que persisten "brechas estructurales" en el mercado laboral colombiano.
+En un artículo sobre la economía creativa en Colombia, la periodista escribe: "Bogotá recibió más del 55% de las inversiones en industrias creativas durante 2023, mientras departamentos como Chocó, Cauca y Nariño apenas representan el 2%. Expertos como la Dra. Valeria Mendoza, docente de la Universidad de los Andes, señalan que 'sin políticas públicas diferenciadas, la brecha regional se profundizará'. El Ministerio de Cultura aún no ha respondido nuestras solicitudes de comentario". La postura del artículo hacia el tema es:
 
-Del texto se puede inferir que el reclutador mencionado en la cita
-
-- [ ] A) Quería contratar a la mujer pero no tenía presupuesto para su salario esperado
-- [x] B) Asumió que las responsabilidades familiares de la mujer afectarían su rendimiento laboral <!-- feedback: El cambio de tema al mencionar los hijos y la pregunta sobre disponibilidad "tiempo completo" revelan un sesgo implícito que relaciona género con disponibilidad laboral, un argumento típico de la brecha estructural -->
-- [ ] C) Prefería contratar hombres con hijos porque ganan menos
-- [ ] D) Tenía miedo de ser demandado por discriminación laboral
+### Options
+- [ ] A) Celebrar el éxito de Bogotá como hub creativo regional <!-- feedback: El artículo muestra preocupación por inequidad, no celebración -->
+- [x] B) Evidenciar una desigualdad regional en el sector creativo que requiere atención del Estado <!-- feedback: Los datos y las citas expertas apuntan a una crítica de la inequidad y llamado a políticas -->
+- [ ] C) Promover inversiones en departamentos marginados para beneficiar a los expertos <!-- feedback: No hay intención promocional en el texto -->
+- [ ] D) Criticar al Ministerio de Cultura por negligencia <!-- feedback: Se menciona falta de respuesta, pero no hay crítica explícita -->
 
 ### Explicación Pedagógica
-Este ejercicio requiere identificar un sesgo implícito. El comportamiento del reclutador (cambiar de tema, preguntar por disponibilidad) revela una suposición estereotipada sobre las mujeres con hijos. La inferencia va más allá de lo explícito para revelar un prejudice laboral. Los distractores A y D son suposiciones sin base textual. El C es una generalización extrema no sostenida por el texto.
+La identificación de postura ideológica requiere analizar datos, citas y estructura del texto. La combinación de cifras desiguales, expertos que critican y la ausencia de respuesta oficial crea un tono crítico hacia la inequidad. Los distractores incluyen interpretaciones parciales o extremistas de la postura del texto.
 
 ---
 
 ## Question 6 (Variant Medium - Difficulty D5)
 
 **ID:** `CO-LEC-11-P2-inferencia-textual-039-MASTERY-v6`
-**Bloom:** Understand
-**ICFES:** Interpreta tono y actitud del autor en textos argumentativos
-**Context:** Legalización del cannabis medicinal en Colombia
+**Bloom:** Analyze
+**ICFES:** Evalúa argumentos y reconoce falacias en textos argumentativos
+**Context:** Carta al director sobre inseguridad ciudadana en Cali
 
 ### Enunciado
-El Congreso de la República discutió esta semana el proyecto de ley para regular el uso medicinal del cannabis. Los defensores del proyecto argumentaron que "Colombia pierde millones de dólares anuales que podrían destinarse a la salud pública, mientras pacientes con epilepsia refractaria siguen esperando tratamientos efectivos". Por su parte, los opponents del proyecto warning que "una puerta abierta al uso medicinal puede convertirse en un pretexto para la legalización recreativa". El artículo no incluye fuentes médicas especializadas ni testimonios de pacientes.
+En una carta al director publicada en El País de Cali, un ciudadano escribe: "La inseguridad en Cali ha empeorado dramáticamente. Mi vecino fue robarado frente al CC San Andreas, un familiar sufrió un atraco en la Calle 5, y yo mismo fui víctima de extorción el mes pasado. El gobierno actual no ha hecho nada para proteger a los caleños. Necesitamos un cambio de alcalde urgentemente". ¿Cuál falacia presenta este argumento?
 
-Considerando la estructura del texto, se puede inferir que el autor
-
-- [ ] A) Favorece abiertamente la legalización del cannabis medicinal
-- [ ] B) Se opone completamente al proyecto de ley
-- [x] C) Presentó un panorama equilibrado pero dejó fuera evidencia médica que enriquecería el debate <!-- feedback: El autor presenta ambas posiciones sin tomar partido explícito, pero la omisión de fuentes médicas y testimonios de pacientes (quienes serían directamente afectados) sugiere un enfoque incompleto que puede influir sutilmente en el lector -->
-- [ ] D) Es periodista de un medio sensacionalista especializado en drogas
+### Options
+- [ ] A) Generalización apresurada - deduce política de ciudad de casos personales <!-- feedback: Esta es la falacia presente: casos aislados se generalizan como evidencia de problemática general -->
+- [ ] B) Ataque personal al alcalde actual sin argumentos <!-- feedback: No hay ataque directo a la persona, solo crítica a su gestión -->
+- [x] C) Uso de experiencias personales como evidencia estadística de la inseguridad <!-- feedback: Tres casos individuales no prueban un deterioro general de la seguridad -->
+- [ ] D) Petición de regreso al pasado sin justificación <!-- feedback: No se menciona una administración anterior ni se pide volver a ella -->
 
 ### Explicación Pedagógica
-La inferencia sobre la actitud del autor requiere analizar lo que NO dice el texto tanto como lo que SÍ dice. El autor no toma partido, pero tampoco incluye información crucial (testimonios de pacientes). Esta omisión puede interpretarse como un enfoque que, aunque equilibrado en apariencia, resulta superficial. Los distractores A y B atribuyen una posición explícita que el texto no confirma. El D es información externa sin base textual.
+La falacia de generalización apresurada ocurre cuando casos aislados se usan para respaldar conclusiones generales. El error frecuente es no distinguir entre experiencias personales (anécdota) y evidencia estadística o estudios. Los estudiantes deben aprender a evaluar si la muestra presentada es representativa.
 
 ---
 
-## Question 7 (Variant Medium - Difficulty D6)
+## Question 7 (Variant Medium - Difficulty D5)
 
 **ID:** `CO-LEC-11-P2-inferencia-textual-039-MASTERY-v7`
-**Bloom:** Analyze
-**ICFES:** Deduce conclusiones no explícitas a partir de evidencia textual
-**Context:** Impacto del internet en comunidades rurales colombianas
+**Bloom:** Understand
+**ICFES:** Interpreta información implícita en textos científicos
+**Context:** Artículo sobre cambio climático en la Sierra Nevada de Santa Marta
 
 ### Enunciado
-El programa "Computadores para Educar" del Ministerio de Tecnologías de la Información y las Comunicaciones entregó 50.000 portátiles a escuelas rurales en los departamentos de Chocó, La Guajira y Vaupés. Sin embargo, una evaluación posterior reveló que solo el 15% de los equipos están en funcionamiento. Los docentes reportan que "no hay conectividad en la zona" y que "los técnicos para reparaciones tardan meses en llegar". Un profesor wayuu explicó: "Los niños ven la tecnología como algo mágico que viene de otro mundo, porque nunca pueden practicarla".
+Un artículo científico reporta: "Los glaciares de la Sierra Nevada de Santa Marta, que alguna vez cubrían más de 100 km², ahora ocupan menos de 2 km². Investigadores de la Universidad Nacional encontraron que las temperaturas en la zona han aumentado 1.5°C desde 1980. La画家 de los picos más altos muestra evidencia de estrés hídrico en la vegetación endémica". Según esta información, ¿qué se puede inferer sobre las comunidades que dependen de estos ecosistemas?
 
-A partir del texto, ¿qué inferencia es válida?
-
-- [ ] A) Los docentes rurales no saben usar computadores
-- [ ] B) Los niños de las zonas rurales no están interesados en la tecnología
-- [x] C) La entrega de equipos tecnológicos sin infraestructura de soporte técnico resulta ineffective para comunidades apartadas <!-- feedback: El contraste entre los 50.000 portátiles entregados y solo el 15% en funcionamiento, combinado con la falta de conectividad y técnicos, permite inferir que la política pública fue diseñada sin considerar las condiciones reales de las comunidades receptoras -->
-- [ ] D) El programa "Computadores para Educar" fue un fracaso total
+### Options
+- [ ] A) Tendrán acceso a más agua por el deshielo <!-- feedback: Contradice la información: menos hielo y estrés hídrico sugieren escasez -->
+- [x] B) Enfrentan una crisis de acceso al agua que se profundizará <!-- feedback: El deshielo reduce reservas y el estrés hídrico indica problemas actuales de disponibilidad -->
+- [ ] C) Probablemente emigrarán a zonas costeras temporalmente <!-- feedback: No hay información sobre planes de migración en el texto -->
+- [ ] D) Podrán cultivar en altitudes más altas por el calor <!-- feedback: El estrés hídrico contradice la posibilidad de mayor agriculturalidad -->
 
 ### Explicación Pedagógica
-Este ejercicio evalúa la capacidad de sintetizar información dispersa para llegar a una conclusión. El texto presenta evidencia suficiente para inferir que el problema no es la falta de equipos, sino la ausencia de condiciones necesarias para su uso. El distractor A es una generalización injusta sobre los docentes. El B contradice la cita del profesor. El D es una evaluación absoluta que no se corresponde con la evidencia matizada del texto.
+La inferencia científica requiere conectar datos para proyectar consecuencias. En este caso, el deshielo progresivo + estrés hídrico = crisis de agua. El error común es interpretar datos opuestos ( deshielo = más agua) sin considerar que la pérdida de glaciares es un proceso de disminución de reservas.
 
 ---
 
@@ -220,74 +202,158 @@ Este ejercicio evalúa la capacidad de sintetizar información dispersa para lle
 
 **ID:** `CO-LEC-11-P2-inferencia-textual-039-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Infiere significado de expresiones figuradas en contextos específicos
-**Context:** Crisis de salud mental juvenil en Colombia post-pandemia
+**ICFES:** Relaciona información de diferentes partes de un texto para construir inferencias
+**Context:** Entrevista sobre trabajo infantil en Bucaramanga
 
 ### Enunciado
-En Colombia, las líneas de atención psicológica para jóvenes reportaron un incremento del 300% en llamadas durante los dos años de pandemia. Psicólogos del Hospital Universitario de Medellín señalan que "los adolescentes llegan con síntomas de agotamiento emocional que antes asociábamos exclusivamente con adultos laboralmente activos". Una adolescente de 16 años que asistió a terapia grupal expresó: "Me siento como si estuviera corriendo una maratón invisible, nadie me ve fatigada, pero yo ya no puedo más".
+En una entrevista, una trabajadora social que atiende menores en situación de calle en Bucaramanga afirma: "El 65% de los niños que atendemos provienen de hogares donde ambos padres trabajan. El 80% de estos padres ganan menos de un salario mínimo. Además, el 90% de los niños abandonó la escuela para trabajar". Si la trabajadora social quisiera fundamentar una propuesta para luchar contra el trabajo infantil, ¿cuál inferencia de las siguientes sería la más consistente con los datos?
 
-La expresión "maratón invisible" en contexto permite inferir que la joven
-
-- [ ] A) Entrena deportivamente sin que su familia lo sepa
-- [ ] B) Participa en competencias escolares ocultas
-- [x] C) Experimenta una sobrecarga emocional sostenida que no es visible para otros pero que la agota profundamente <!-- feedback: La "maratón" representa un esfuerzo continuo y prolongado; "invisible" indica que el agotamiento no es aparente para quienes la rodean, lo cual es coherente con el contexto de salud mental adolescente donde el sufrimiento psicológico suele ser difícil de detectar -->
-- [ ] D) Tiene problemas cardíacos que le producen fatiga constante
+### Options
+- [x] A) Los programas de apoyo económico a familias vulnerables reducirían el trabajo infantil <!-- feedback: Combina la pobreza familiar (menos de 1 SM) con la necesidad de los niños de trabajar, sugiriendo que缓解 la necesidad económica reduciría el trabajo -->
+- [ ] B) Las familias numerosas son la causa principal del trabajo infantil <!-- feedback: No hay datos sobre número de hijos en la información -->
+- [ ] C) Los niños no quieren estudiar y prefieren trabajar <!-- feedback: Se dice que abandonaron la escuela, no que eligieran trabajar sobre estudiar -->
+- [ ] D) Las escuelas de Bucaramanga no aceptan niños que trabajan <!-- feedback: No hay información sobre políticas escolares en la entrevista -->
 
 ### Explicación Pedagógica
-La inferencia textual exige interpretar expresiones figurativas en su contexto específico. "Maratón invisible" combina dos conceptos: la carrera (esfuerzo prolongado) y la invisibilidad (no perceptible externamente). Esta combinación permite inferir un sufrimiento psicológico oculto. Los distractores A y B son lecturas literales incompatibles con el contexto. El D es una enfermedad orgánica sin relación con el tema de salud mental del texto.
+Construir inferencias complejas requiere integrar múltiples datos. Los datos juntos sugieren que la pobreza familiar obliga a los niños a trabajar, lo que lleva a abandonar la escuela. La inferencia lógica es que atacar la pobreza reduciría el trabajo infantil. El error frecuente es crear conexiones no presentes en los datos.
 
 ---
 
 ## Question 9 (Variant Medium - Difficulty D6)
 
 **ID:** `CO-LEC-11-P2-inferencia-textual-039-MASTERY-v9`
-**Bloom:** Understand
-**ICFES:** Identifica valores implícitos en discursos públicos
-**Context:** Patrimonio cultural afrocolombiano en el Pacífico
+**Bloom:** Analyze
+**ICFES:** Reconoce información no dicha pero implícita en textos informativos
+**Context:** Reporte sobre vivienda en Colombia
 
 ### Enunciado
-El Consejo Comunitario del Litoral Baudó recibió la declaratoria como Patrimonio Inmaterial de la Humanidad por parte de la UNESCO. El acta reconoce "las prácticas tradicionales de caza, pesca y recolección que han garantizado la seguridad alimentaria de las comunidades durante generaciones". El texto de la declaratoria enfatiza que "estas comunidades representan un ejemplo vivo de coexistencia armónica entre el ser humano y los ecosistemas tropicales". Sin embargo, el artículo menciona que las tierras ancestrales del consejo siguen en litigio legal con empresas mineras.
+El Dane publicó un informe sobre déficit de vivienda en Colombia stating: "En 2023, el déficit habitacional alcanzó las 2.3 millones de viviendas, afectando principalmente a hogares en estratos 1 y 2. El programa 'Mi Casa Ya' benefició a 45.000 familias el año pasado, muy por debajo de la meta gubernamentales de 80.000". Del texto se puede inferir implícitamente que:
 
-Del texto se puede inferir que la declaratoria de la UNESCO
-
-- [ ] A) Resuelve automáticamente el conflicto legal con las empresas mineras
-- [ ] B) Tiene carácter vinculante para el gobierno colombiano
-- [x] C) Representa un reconocimiento simbólico que no garantiza la protección efectiva de los territorios afrodescendientes <!-- feedback: Aunque la declaratoria reconoce el valor cultural de las prácticas, el hecho de que se mencione el litigio pendiente con empresas mineras sugiere una brecha entre el reconocimiento internacional y la realidad legal de las tierras ancestrales -->
-- [ ] D) Es irrelevante para las comunidades del Pacífico
+### Options
+- [ ] A) Los estratos 3 y 4 no tienen problemas de vivienda <!-- feedback: El texto solo menciona que los estratos 1 y 2 son los más afectados, no que otros no tengan problemas -->
+- [x] B) El gobierno no ha cumplido su meta en política de vivienda para sectores vulnerables <!-- feedback: La diferencia entre 45.000 beneficiarios y la meta de 80.000 implica incumplimiento -->
+- [ ] C) El programa Mi Casa Ya solo funciona en ciertas regiones del país <!-- feedback: No se menciona distribución geográfica del programa -->
+- [ ] D) El déficit habitacional disminuyó comparado con años anteriores <!-- feedback: No hay comparación temporal en el informe -->
 
 ### Explicación Pedagógica
-Este ejercicio requiere inferir las limitaciones de un reconocimiento institucional. El texto proporciona evidencia contradictoria: celebra la declaratoria pero inmediatamente señala el litigio con empresas mineras. Esta yuxtaposición permite inferir que el reconocimiento simbólico no necessarily implica protección legal efectiva. Los distractores A y B sobrestiman el poder de la declaratoria. El D contradice la importancia atribuida por el texto.
+La inferencia textual reconoce lo no-dicho. Cuando hay una meta y un resultado inferior, se infiere incumplimiento. El error común es sobreinterpretar aspectos no mencionados (geografía, estratos sin problemas). Los estudiantes deben limitar sus inferencias a lo estrictamente deducible del texto.
 
 ---
 
 ## Question 10 (Variant Medium - Difficulty D6)
 
 **ID:** `CO-LEC-11-P2-inferencia-textual-039-MASTERY-v10`
-**Bloom:** Analyze
-**ICFES:** Evalúa presuposiciones en textos argumentativos
-**Context:** Financiamiento de universidades públicas colombianas
+**Bloom:** Evaluate
+**ICFES:** Evalúa la coherencia entre datos y conclusiones propuestas
+**Context:** columnista sobre política educativa
 
 ### Enunciado
-El gobierno nacional propuso un modelo de financiamiento universitario basado en resultados académicos, donde las instituciones que mejoren sus indicadores de investigación recibirán mayor presupuesto. El Ministerio argumentó que "el Estado debe premiar la excelencia para garantir que los recursos públicos generen retornos sociales medibles". Rectores de universidades públicas critican la medida argumentando que "las universidades con menor producción científica no necesariamente son de menor calidad, sino que enfrentan condiciones de base desiguales como mayor pobreza en sus regiones".
+Una columnista de El Espectador escribe: "Las pruebas Pisa de 2022 mostraron que Colombia baixó 12 puntos en matemáticas respecto a 2018. Simultaneously, el gobierno redujo en un 25% los recursos para formación docente en educación básica. Sin embargo, el ministro de Educación claims que la calidad educativa ha mejorado. Claramente, los datos y las palabras del ministro no coinciden". ¿Cuál es la inferencia más válido que hace la columnista?
 
-¿Cuál de las siguientes presuposiciones subyacen en la propuesta del gobierno?
-
-- [ ] A) Todas las universidades tienen igual acceso a recursos y personal investigador
-- [ ] B) Los indicadores bibliométricos son el único factor que define la calidad educativa
-- [x] C) La calidad de una institución educativa puede medirse principalmente a través de resultados cuantificables de investigación <!-- feedback: La propuesta de vincular presupuesto a "resultados académicos" implica que la calidad educativa es medible objetivamente mediante indicadores específicos, lo cual es una presuposición que ignora dimensiones cualitativas y contextuales de la educación superior -->
-- [ ] D) Las universidades públicas deben ser eliminadas por ineficientes
+### Options
+- [ ] A) Los docentes colombianos son menos competentes que antes <!-- feedback: No se puede inferir incompetencia; la causa podría ser presupuestal -->
+- [x] B) La reducción de recursos para formación docente puede explicar el deterioro en matemáticas <!-- feedback: Conecta dos datos (menos recursos, peor desempeño) para sugerir causalidad -->
+- [ ] C) Las pruebas Pisa no son confiables para medir educación colombiana <!-- feedback: La columnista no cuestiona la validez de las pruebas, usa sus resultados -->
+- [ ] D) El ministro miente al público sobre la calidad educativa <!-- feedback: No se puede inferir intencionalidad de engaño, solo una contradicción entre datos y afirmación -->
 
 ### Explicación Pedagógica
-La identificación de presuposiciones requiere cuestionar las premisas implícitas del emisor. La propuesta gubernamental presupone que la calidad puede cuantificarse y que mayor producción científica equivale a mayor calidad educativa. El distractor A es una lectura extrema de la presuposición. El B es parcialmente correcta pero incompleta. El D es una conclusión extrema no sostenida por el texto.
+La evaluación de argumentos requiere identificar conexiones causales plausibles. La columnista sugiere que la reducción presupuestal explica (parcialmente) el deterioro. El error frecuente es añadir interpretaciones morales ("mentira") sin base en el texto, o desviar la atención hacia factores no mencionados.
 
 ---
 
 ## Question 11 (Variant Advanced - Difficulty D7)
 
 **ID:** `CO-LEC-11-P2-inferencia-textual-039-MASTERY-v11`
-**Bloom:** Evaluate
-**ICFES:** Contrasta información implícita con evidencia textual para validar inferencias
-**Context:** Corrupción en la contratación pública colombiana
+**Bloom:** Analyze
+**ICFES:** Reconoce supuestos implícitos en argumentos textuales
+**Context:** Ensayo sobre justicia transicional en Colombia
 
 ### Enunciado
-Una auditoría de la Contral fung发现自己发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现
+En un ensayo sobre la justicia transicional colombiana pos-acuerdo de paz, el autor sostiene: "El paramilitarismo nunca desapareció realmente de Colombia; solo cambió de forma. Lo que hoy conocemos como 'bandas criminales' o ' grupos armados ilegales' en regiones como el Catatumbo son, en esencia, la stessa estructura paramilitar reorganizada. Por lo tanto, el proceso de paz de 2016 no logró desarmar efectivamente a estos grupos". ¿Cuál supuesto implícito sostiene este argumento?
+
+### Options
+- [ ] A) Todos los paramilitares se convierten en bandas criminales <!-- feedback: No hay cuantificación en el texto que soporte este absoluto -->
+- [ ] B) Las bandas criminales actuales cometen los mismos crímenes que los paramilitares <!-- feedback: No hay comparación de modus operandi en el texto -->
+- [x] C) Los grupos armados ilegales actuales tienen continuidad histórica con el paramilitarismo <!-- feedback: El argumento completo se basa en asumir que son "la stessa estructura" re-organizada, lo cual es un supuesto no demostrado -->
+- [ ] D) El Estado colombiano tolera la existencia de grupos paramilitares <!-- feedback: No se hace ninguna acusación contra el Estado en el texto -->
+
+### Explicación Pedagógica
+Identificar supuestos implícitos es fundamental para evaluar argumentos. El texto asume continuidad organizacional sin evidencia directa. El error común es aceptar el supuesto como hecho probado, cuando en realidad es la base no comprobada del argumento. Un lector crítico debe cuestionar esta premisa no examinada.
+
+---
+
+## Question 12 (Variant Advanced - Difficulty D7)
+
+**ID:** `CO-LEC-11-P2-inferencia-textual-039-MASTERY-v12`
+**Bloom:** Evaluate
+**ICFES:** Evalúa la validez de inferencias basadas en evidencia textual
+**Context:** Artículo de divulgación científica sobre lentes de contacto
+
+### Enunciado
+Un artículo de salud pública advierte: "El uso prolongado de lentes de contacto durante más de 8 horas diarias aumenta el riesgo de infecciones corneales en un 60%. Investigadores del Instituto Nacional de Salud encontraron que el 75% de los usuarios de lentes de contacto en Colombia no siguen adecuadamente las instrucciones de limpieza". Un lector concluye que: "Si todos los colombianos que usan lentes de contacto limpiaran adecuadamente sus lentes, se reducirían drásticamente las infecciones corneales en el país". ¿Esta inferencia es válida?
+
+### Options
+- [ ] A) Sí, porque el artículo demuestra que la mala limpieza causa infecciones <!-- feedback: El artículo solo correlaciona tiempo de uso con riesgo, no limpieza con infecciones -->
+- [x] B) Parcialmente válida, porque se asume una relación causal entre limpieza y riesgo que el artículo no demuestra directamente <!-- feedback: El artículo no estudia la limpieza como variable independiente; solo reporta que la mayoria no limpia bien y que el riesgo existe. No prueba que limpiar bien reduzca infecciones -->
+- [ ] C) Sí, porque el 75% de usuarios no limpia bien y eso causa infecciones <!-- feedback: No hay dato que связывает limpiar mal con infections específicas en el artículo -->
+- [ ] D) No, porque el artículo solo habla de tiempo de uso, no de limpieza <!-- feedback: El artículo menciona ambos datos pero no establece relación causal entre ellos -->
+
+### Explicación Pedagógica
+Distinguir correlación de causalidad es esencial. El artículo presenta dos datos separados (riesgo por tiempo prolongado + mala limpieza generalizada) pero no los vincula causalmente. El lector hace una inferencia plausible pero no sustentada directamente por la evidencia presentada. Esta es una falacia frecuente en interpretación de estudios médicos.
+
+---
+
+## Question 13 (Variant Advanced - Difficulty D7)
+
+**ID:** `CO-LEC-11-P2-inferencia-textual-039-MASTERY-v13`
+**Bloom:** Create
+**ICFES:** Genera inferencias complejas basadas en múltiples textos
+**Context:** Ensayo académico sobre identidad cultural en el Chocó
+
+### Enunciado
+En un ensayo sobre la identidad cultural del Chocó biogeográfico, la autora escribe: "Los procesos de minería ilegal han tenido un impacto devastador en los territorios colectivos de las comunidades afrochocoanas. Según el censimento del DANE de 2018, el 34% de la población del Chocó vive en condiciones de pobreza multidimensional, la più alta del país. Sin embargo, el potencial turístico del territorio, con más de 300 km de coastline y biodiversidad única, permanece casi inexplotado". ¿Cuál inferencia holística se puede construir a partir de estas premisas?
+
+### Options
+- [ ] A) El turismo puede resolver la pobreza en el Chocó de forma inmediata <!-- feedback: Ninguna inferencia puede garantizar solución inmediata; el texto no lo sugiere -->
+- [ ] B) La pobreza del Chocó se explica principalmente por la minería ilegal <!-- feedback: El texto no establece relación causal directa entre minería y pobreza -->
+- [x] C) Existe una contradicción entre la riqueza natural del Chocó y las condiciones de vida de su población <!-- feedback: El contraste entre potencial turístico inexplotado y pobreza extrema genera esta inferencia: los recursos no se traducen en bienestar -->
+- [ ] D) Las comunidades afrochocoanas prefieren la minería al turismo <!-- feedback: No hay información sobre preferencias de las comunidades en el texto -->
+
+### Explicación Pedagógica
+La inferencia holística requiere contrastar múltiples datos para identificar contradicciones sistémicas. El texto presenta simultáneamente riqueza natural y pobreza extrema, sugiriendo un problema de distribución o gestión de recursos. El error frecuente es salto a soluciones o culpar a comunidades sin base textual.
+
+---
+
+## Question 14 (Variant Advanced - Difficulty D7)
+
+**ID:** `CO-LEC-11-P2-inferencia-textual-039-MASTERY-v14`
+**Bloom:** Analyze
+**ICFES:** Identifica sesgos implícitos en textos informativos
+**Context:** Reportaje sobre emprendimiento femenino en Bogotá
+
+### Enunciado
+Un reportaje del portal Las2Orillas presenta la historia de María, "una emprendedora caleña que logró triplicar sus ventas gracias al marketing digital". El artículo menciona que María tomó un curso "ofrecido por una plataforma internacional" y que ahora "ayuda a otras mujeres a emprender". Al final, se incluye un link al curso de María. En el texto no se menciona que María ha pagado por promoción en redes sociales, aunque sus publicaciones muestran sponsored posts. ¿Cuál sesgo implícito se puede inferir de este reportaje?
+
+### Options
+- [ ] A) El periodista tiene acciones en la plataforma de cursos <!-- feedback: No hay información que sustente este conflicto de interés -->
+- [x] B) El reportaje promociona间接amente el curso de María sin transparenciar su naturaleza comercial <!-- feedback: La combinación de historia exitosa + link al curso + no mencionar publicidad paga sugiere promoción enmascarada -->
+- [ ] C) María miente sobre el éxito de su negocio <!-- feedback: No hay base para cuestionar la veracidad de sus afirmaciones de negocio -->
+- [ ] D) Las2Orillas recibe dinero del gobierno para promover emprendimiento <!-- feedback: No hay información sobre financiamiento del portal -->
+
+### Explicación Pedagógica
+Identificar sesgos implícitos requiere analizar qué información falta y por qué podría omitirse. La falta de transparencia sobre patrocinio, combinada con el enlace comercial, sugiere contenido patrocinado no identificado. Los estudiantes deben preguntarse siempre: "¿Qué información falta y por qué?"
+
+---
+
+## Question 15 (Variant Advanced - Difficulty D8)
+
+**ID:** `CO-LEC-11-P2-inferencia-textual-039-MASTERY-v15`
+**Bloom:** Evaluate
+**ICFES:** Evalúa la solidez de argumentos basándose en información implícita
+**Context:** Columna de opinión sobre regulación de plataformas digitales en Colombia
+
+### Enunciado
+Un columnista de El Tiempo argumenta: "Las plataformas de ridesharing como Uber deben pagar impuestos como cualquier empresa de transporte. Si los taxis tradicionales pagan IVA, retención en la fuente y contribuciones especiales, ¿por qué las plataformas digitales pagan muy pocos impuestos en Colombia? El año pasado, Uber declaró ingresos en el país por más de $180.000 millones de pesos, pero pagó menos de $2.000 millones en impuestos. Esto es una evasión fiscal que el gobierno debe combatir". La solidez del argumento depende de que:
+
+### Options
+- [ ] A) Uber sea la única plataforma de ridesharing en Colombia <!-- feedback: La cantidad de competencia no

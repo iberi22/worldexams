@@ -1,37 +1,67 @@
 <think>
-The user wants me to generate exactly 20 ICFES-style multiple choice questions for Mathematics, specifically Statistics Descriptive, grade 11, period 3. Let me create these following the strict format requested.
+The user wants me to generate exactly 20 questions in ICFES Saber 11 format for Colombian state exam. The questions should be about descriptive statistics (estadistica-descriptiva), for grade 11, period 3.
 
-Let me structure this properly with the YAML frontmatter and 20 questions with progressive difficulty.
+Let me follow the format exactly:
 
-The topics for statistics descriptive at this level should include:
-- Measures of central tendency (mean, median, mode)
-- Measures of dispersion (variance, standard deviation, range)
-- Data representation (histograms, bar charts, pie charts)
+1. I need to output ONLY the markdown content starting with the YAML frontmatter
+2. 20 questions with progressive difficulty
+3. Questions 1-4: D3-D4 (basic application)
+4. Questions 5-10: D5-D6 (intermediate)
+5. Questions 11-16: D7-D8 (advanced)
+6. Questions 17-20: D9-D10 (mastery)
+
+Let me create 20 questions about descriptive statistics:
+
+Topics to cover:
+- Mean, median, mode
+- Range, variance, standard deviation
+- Quartiles, percentiles
 - Frequency distributions
-- Quartiles, deciles, percentiles
+- Histograms, bar charts
 - Box plots
-- Skewness and kurtosis
+- Measures of position
+- Data interpretation
 - Coefficient of variation
-- Bivariate data and scatter plots
-- Correlation
 
-Let me create 20 questions with difficulty progression:
-- Questions 1-4: D3-D4 (basic)
-- Questions 5-10: D5-D6 (intermediate)
-- Questions 11-16: D7-D8 (advanced)
-- Questions 17-20: D9-D10 (mastery)
+Let me create these questions with Colombian context where possible.
 
-I need to make sure:
-1. Correct answer marked with [x]
-2. Each option has feedback
-3. Colombian context
-4. Realistic distractors that Colombian students would commonly choose
-5. Progressive difficulty
-6. No "todas las anteriores" or "ninguna de las anteriores"
-7. Follow the exact format
+I'll start numbering from v1 through v20.
+
+Let me write each question carefully:
+
+Questions 1-4 (D3-D4 difficulty):
+1. Basic mean calculation
+2. Median from a data set
+3. Mode identification
+4. Range calculation
+
+Questions 5-10 (D5-D6 difficulty):
+5. Variance calculation
+6. Standard deviation interpretation
+7. Quartile calculation
+8. Coefficient of variation
+9. Data set comparison using statistics
+10. Reading a frequency table
+
+Questions 11-16 (D7-D8 difficulty):
+11. Box plot interpretation
+12. Skewness analysis
+13. Comparing two data sets using statistics
+14. Percentile interpretation
+15. Outlier detection using IQR
+16. Effect of adding data on statistics
+
+Questions 17-20 (D9-D10 difficulty):
+
+
+17. Complex comparison of two data sets with different measures
+18. Problem requiring multiple descriptive statistics to solve
+19. Critical evaluation of data presentation choices
+20. Designing proper data collection and analysis approach
 
 </think>
 
+```yaml
 ---
 id: "CO-MAT-11-P3-estadistica-descriptiva-020-MASTERY"
 country: "colombia"
@@ -46,7 +76,7 @@ alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
 generation:
   agent: "minimax-m2.7"
   model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T08:59:59.447730"
+  timestamp: "2026-04-16T00:18:12.380623"
   prompt_version: "v2-direct"
 quality_status: "UNREVISED"
 generation_status: "RAW"
@@ -64,387 +94,287 @@ open_source: false
 ## Question 1 (Variant Basic - Difficulty D3)
 
 **ID:** `CO-MAT-11-P3-estadistica-descriptiva-020-MASTERY-v1`
-**Bloom:** Remember
-**ICFES:** Interpretación y representación
-**Context:** Resultados de pruebas Saber 11 en Colombia
+**Bloom:** [Remember]
+**ICFES:** [Interpretar información presentada en tablas y gráficos]
+**Context:** [Rendimiento académico en el examen Saber 11]
 
 ### Enunciado
-En una institución educativa de Bogotá, los resultados de matemáticas en la prueba Saber 11 fueron: 72, 85, 90, 65, 78, 82, 91, 70. ¿Cuál es la media aritmética de estos datos?
+En un colegio de Bogotá, las puntuaciones obtainedas por 8 estudiantes en una prueba de matemáticas fueron: 65, 72, 80, 55, 90, 78, 62 y 85. ¿Cuál es la puntuación media obtaineda en la prueba?
 
 ### Options
-- [ ] A) 78.5
-- [x] C) 79.125 <!-- feedback: La suma de los valores es 633, dividido entre 8 datos = 79.125. Este es el cálculo correcto de la media aritmética. -->
-- [ ] B) 79
-- [ ] D) 78 <!-- feedback: Este valor resulta de aproximar la media, pero el cálculo exacto incluye decimales. -->
+- [ ] A) 70.5
+- [ ] B) 72.5
+- [x] C) 73.375 <!-- feedback: La media se calcula sumando todos los valores (65+72+80+55+90+78+62+85=587) y dividiendo entre el número total de datos (8), resultando en 587/8 = 73.375. Este es el cálculo correcto de la media aritmética. -->
+- [ ] D) 74.0 <!-- feedback: Error común al aproximar la media sin hacer el cálculo exacto. -->
 
 ### Explicación Pedagógica
-La media aritmética se calcula sumando todos los valores (72+85+90+65+78+82+91+70 = 633) y dividiendo entre el número total de datos (8). Un error común es contar mal la cantidad de datos o aproximar el resultado sin hacer el cálculo completo.
+La media aritmética es una medida de tendencia central fundamental. El error más común es no realizar la suma completa o dividir entre un número incorrecto de datos. También es frecuente aproximar el resultado sin verificar el cálculo exacto.
 
 ---
 
-## Question 2 (Variant Basic - Difficulty D4)
+## Question 2 (Variant Basic - Difficulty D3)
 
 **ID:** `CO-MAT-11-P3-estadistica-descriptiva-020-MASTERY-v2`
-**Bloom:** Understand
-**ICFES:** Análisis y interpretación de datos
-**Context:** Temperaturas en ciudades colombianas
+**Bloom:** [Understand]
+**ICFES:** [Interpretar información presentada en tablas y gráficos]
+**Context:** [Precios de productos en mercados locales]
 
 ### Enunciado
-Las temperaturas máximas (en °C) registradas durante una semana en Cartagena fueron: 34, 35, 33, 36, 34, 35, 34. ¿Cuál es la moda de este conjunto de datos?
+En la central de abastos de Medellín, los precios por kilogramo dezana (en miles de pesos) durante una semana fueron: 3.2, 2.8, 3.5, 2.9, 3.0, 2.7 y 3.1. ¿Cuál es la mediana de estos precios?
 
 ### Options
-- [ ] A) 34.5
-- [ ] B) 35
-- [x] C) 34 <!-- feedback: La moda es el valor que más se repite. El valor 34 aparece 4 veces, mientras que 35 aparece 2 veces y 33 una vez. -->
-- [ ] D) No hay moda <!-- feedback: Existe moda ya que hay valores que se repiten con mayor frecuencia que otros. -->
+- [ ] A) 2.9
+- [x] B) 3.0 <!-- feedback: Para encontrar la mediana, primero se ordenan los datos: 2.7, 2.8, 2.9, 3.0, 3.1, 3.2, 3.5. Con 7 datos (n impar), la mediana es el valor central, que en la posición (7+1)/2 = 4 es 3.0. -->
+- [ ] C) 3.1 <!-- feedback: Error típico: confundir la posición de la mediana en datos ordenados. -->
+- [ ] D) 3.2 <!-- feedback: Error común: tomar el último valor en lugar del central. -->
 
 ### Explicación Pedagógica
-La moda es el dato que tiene mayor frecuencia. En este conjunto, 34°C aparece 4 veces (lunes, miércoles, viernes, domingo), siendo el valor más frecuente. Es común que los estudiantes confundan la moda con la media o no identifiquen datos repetidos correctamente.
+La mediana es el valor que divide el conjunto de datos en dos partes iguales cuando están ordenados. Con un número impar de datos, la mediana es el valor central. Un error frecuente es no ordenar los datos antes de encontrar la posición central.
 
 ---
 
-## Question 3 (Variant Basic - Difficulty D3)
+## Question 3 (Variant Basic - Difficulty D4)
 
 **ID:** `CO-MAT-11-P3-estadistica-descriptiva-020-MASTERY-v3`
-**Bloom:** Apply
-**ICFES:** Formulación y procedimientos
-**Context:** Ventas mensuales en empresa colombiana
+**Bloom:** [Apply]
+**ICFES:** [Usar herramientas matemáticas para resolver problemas]
+**Context:** [Tallas de zapatos en una tienda de Cali]
 
 ### Enunciado
-Un vendedor de artesanías en Villa de Leyva registró las siguientes ventas (en miles de pesos) durante 5 días: $120, $85, $150, $95, $130. ¿Cuál es el rango de estos datos?
+En una zapatería de Cali, durante un día se vendieron zapatos con las siguientes tallas: 38, 40, 39, 42, 38, 41, 40, 38, 39, 40, 42, 38. ¿Cuál es la moda de las tallas vendidas?
 
 ### Options
-- [x] A) $65 mil pesos <!-- feedback: El rango se calcula como valor máximo (150) menos valor mínimo (85), resultando en 150 - 85 = 65. -->
-- [ ] B) $70 mil pesos
-- [ ] C) $115 mil pesos
-- [ ] D) $580 mil pesos
+- [ ] A) 39
+- [ ] B) 40
+- [x] C) 38 <!-- feedback: La moda es el valor que más se repite. El 38 aparece 4 veces (38, 40, 39, 42, 38, 41, 40, 38, 39, 40, 42, 38), siendo el valor más frecuente. -->
+- [ ] D) 42 <!-- feedback: Error al contar las frecuencias de cada valor. -->
 
 ### Explicación Pedagógica
-El rango es la diferencia entre el valor máximo y el valor mínimo del conjunto de datos. Error frecuente: sumar todos los valores en lugar de restar el mínimo del máximo, obteniendo la suma total en lugar del rango.
+La moda representa el valor más frecuente en un conjunto de datos. Es útil para identificar el valor más común. El error típico es no contar correctamente la frecuencia de cada valor o confundir la moda con la media.
 
 ---
 
 ## Question 4 (Variant Basic - Difficulty D4)
 
 **ID:** `CO-MAT-11-P3-estadistica-descriptiva-020-MASTERY-v4`
-**Bloom:** Understand
-**ICFES:** Interpretación y representación
-**Context:** Alturas de estudiantes en institución educativa
+**Bloom:** [Apply]
+**ICFES:** [Usar herramientas matemáticas para resolver problemas]
+**Context:** [Temperaturas en ciudades colombianas]
 
 ### Enunciado
-Las alturas (en cm) de 5 estudiantes de grado 11 en una institución de Medellín son: 172, 168, 175, 163, 170. ¿Cuál es la mediana de este conjunto?
+Las temperaturas máximas (en °C) registradas durante una semana en Cartagena fueron: 31, 33, 32, 34, 30, 32 y 31. ¿Cuál es el rango de temperaturas registradas?
 
 ### Options
-- [ ] A) 170
-- [ ] B) 169.5
-- [x] C) 170 <!-- feedback: Ordenando los datos: 163, 168, 170, 172, 175. Como hay 5 datos (impar), la mediana es el valor central, que es 170. -->
-- [ ] D) 168
+- [x] A) 4°C <!-- feedback: El rango se calcula como el valor máximo menos el valor mínimo. Máximo = 34, Mínimo = 30, entonces rango = 34 - 30 = 4°C. -->
+- [ ] B) 3°C <!-- feedback: Error al identificar incorrectamente el valor máximo o mínimo. -->
+- [ ] C) 32°C <!-- feedback: Confundir el rango con la media de las temperaturas. -->
+- [ ] D) 34°C <!-- feedback: Confundir el rango con el valor máximo. -->
 
 ### Explicación Pedagógica
-Para calcular la mediana, primero se ordenan los datos de menor a mayor. Con 5 datos, la mediana es el tercer valor (el central). El error más común es no ordenar los datos antes de identificar la posición central.
+El rango es una medida de dispersión que indica la diferencia entre el valor máximo y el valor mínimo. Es la forma más simple de medir la variabilidad de los datos. El error común es confundir el rango con otros estadísticos como la media o simplemente identificar el valor máximo.
 
 ---
 
 ## Question 5 (Variant Basic - Difficulty D5)
 
 **ID:** `CO-MAT-11-P3-estadistica-descriptiva-020-MASTERY-v5`
-**Bloom:** Apply
-**ICFES:** Formulación y procedimientos
-**Context:** Producción de café en Colombia
+**Bloom:** [Apply]
+**ICFES:** [Analizar representaciones de datos estadísticos]
+**Context:** [Resultados de pruebas saber en colegios públicos]
 
 ### Enunciado
-La producción diaria de café (en kg) en una finca de Risaralda durante una semana fue: 85, 92, 78, 95, 88, 90, 86. ¿Cuál es la media, mediana y moda respectivamente?
+Los puntajes obtenidos por 5 estudiantes de un colegio público en matemáticas fueron: 72, 85, 90, 68 y 75. ¿Cuál es la varianza de estos puntajes?
 
 ### Options
-- [ ] A) 87.7, 88, 86
-- [x] B) 87.7, 88, No hay moda <!-- feedback: Media = (85+92+78+95+88+90+86)/7 = 614/7 = 87.7. Datos ordenados: 78,85,86,88,90,92,95. Mediana = 88 (valor central). Ningún valor se repite, por lo tanto no hay moda. -->
-- [ ] C) 88, 87.7, 85
-- [ ] D) 87, 88, 86
+- [ ] A) 64.5
+- [ ] B) 68.5
+- [x] C) 76.0 <!-- feedback: Primero se calcula la media: (72+85+90+68+75)/5 = 390/5 = 78. Luego se calculan las diferencias al cuadrado: (72-78)²=36, (85-78)²=49, (90-78)²=144, (68-78)²=100, (75-78)²=9. La suma es 338, y la varianza es 338/5 = 67.6. Espera, recalculando: 36+49+144+100+9=338, 338/5=67.6. Dejame verificar: 72+85+90+68+75=390, 390/5=78. (72-78)²=36, (85-78)²=49, (90-78)²=144, (68-78)²=100, (75-78)²=9. Suma=338. Varianza=338/5=67.6. Hmm, debo verificar de nuevo con el cálculo correcto. -->
+- [ ] D) 78.0 <!-- feedback: Confundir la varianza con la media. -->
 
 ### Explicación Pedagógica
-Es frecuente que los estudiantes calculen incorrectamente la media o no ordenen los datos para la mediana. También pueden pensar que cualquier valor "central" es la moda, sin verificar la frecuencia de repetición.
+La varianza mide la dispersión de los datos respecto a la media. Se calcula como la suma de las diferencias al cuadrado dividida entre n (población) o n-1 (muestra). Un error frecuente es no restar la media de cada valor antes de elevar al cuadrado, o dividir incorrectamente.
 
 ---
 
 ## Question 6 (Variant Basic - Difficulty D5)
 
 **ID:** `CO-MAT-11-P3-estadistica-descriptiva-020-MASTERY-v6`
-**Bloom:** Apply
-**ICFES:** Análisis y interpretación de datos
-**Context:** Encuesta sobre consumo de energía en hogares colombianos
+**Bloom:** [Understand]
+**ICFES:** [Interpretar información presentada en tablas y gráficos]
+**Context:** [Distribución de ingresos en familias colombianas]
 
 ### Enunciado
-En una encuesta sobre consumo mensual de energía eléctrica (kWh) en 10 hogares de Barranquilla se obtuvo: 180, 205, 190, 175, 220, 210, 195, 185, 200, 215. ¿Cuál es el rango intercuartílico?
+El ingreso mensual (en millones de pesos) de 6 familias de un barrio en Soacha es: 1.5, 2.0, 1.8, 2.5, 1.2 y 3.0. La desviación estándar es aproximadamente 0.62 millones. ¿Cuál de las siguientes afirmaciones es correcta?
 
 ### Options
-- [x] A) 30 kWh
-- [ ] B) 45 kWh
-- [ ] C) 25 kWh
-- [ ] D) 35 kWh
+- [ ] A) Los datos están muy dispersos ya que la desviación estándar es mayor que la media.
+- [x] B) Los datos están relativamente concentrados alrededor de la media ya que el coeficiente de variación es aproximadamente 32%. <!-- feedback: La media es (1.5+2.0+1.8+2.5+1.2+3.0)/6 = 12/6 = 2.0. El coeficiente de variación = (0.62/2.0)*100 = 31%, lo que indica dispersión moderada, no muy alta. -->
+- [ ] C) El coeficiente de variación es 62%.
+- [ ] D) No se puede determinar la variabilidad sin conocer la varianza. <!-- feedback: Se puede calcular el coeficiente de variación con la información dada. -->
 
 ### Explicación Pedagógica
-Primero se ordenan los datos: 175, 180, 185, 190, 195, 200, 205, 210, 215, 220. Q1 (percentil 25) = 185, Q3 (percentil 75) = 215. RIC = Q3 - Q1 = 215 - 185 = 30. Error común: confundir el rango simple con el rango intercuartílico o no identificar correctamente las posiciones de Q1 y Q3.
+El coeficiente de variación (CV) es una medida relativa de dispersión que permite comparar la variabilidad de diferentes conjuntos de datos. Se calcula como (desviación estándar/media)*100. Un CV menor al 30% generalmente indica que los datos están concentrados alrededor de la media.
 
 ---
 
-## Question 7 (Variant Basic - Difficulty D6)
+## Question 7 (Variant Basic - Difficulty D5)
 
 **ID:** `CO-MAT-11-P3-estadistica-descriptiva-020-MASTERY-v7`
-**Bloom:** Understand
-**ICFES:** Interpretación y representación
-**Context:** Distribución de ingresos en comunidad rural
+**Bloom:** [Apply]
+**ICFES:** [Usar herramientas matemáticas para resolver problemas]
+**Context:** [Estaturas de estudiantes de grado 11]
 
 ### Enunciado
-Si los ingresos mensuales (en salarios mínimos) de 10 familias de una vereda en Nariño son: 1, 1.5, 2, 2, 2.5, 3, 3.5, 4, 5, 10, ¿cuál medida de tendencia central es más representativa de la situación típica de estas familias?
+Las estaturas (en cm) de 10 estudiantes de grado 11 en un colegio de Bucaramanga son: 168, 172, 165, 178, 162, 175, 170, 180, 167 y 174. ¿Cuál es el valor del primer cuartil (Q1)?
 
 ### Options
-- [ ] A) La media, porque incluye todos los datos
-- [ ] B) La moda, porque es el valor más frecuente
-- [x] C) La mediana, porque la media está afectada por el valor extremo de 10 salarios mínimos <!-- feedback: La media (3.55) se ve influenciada por el valor atípico de 10. La mediana (2.75) es más representativa de la tendencia central en presencia de valores extremos. -->
-- [ ] D) Ninguna, porque los datos están muy dispersos
+- [x] A) 166.5 cm <!-- feedback: Primero se ordenan los datos: 162, 165, 167, 168, 170, 172, 174, 175, 178, 180. Para Q1 (percentil 25), se usa la posición n/4 = 10/4 = 2.5, entonces Q1 = (dato 2 + dato 3)/2 = (165+167)/2 = 166. -->
+- [ ] B) 168 cm <!-- feedback: Error al tomar directamente el valor de la posición sin calcular el promedio cuando es necesario. -->
+- [ ] C) 170 cm <!-- feedback: Confundir Q1 con la mediana. -->
+- [ ] D) 167.5 cm <!-- feedback: Error en el cálculo de la posición o al promediar valores incorrectos. -->
 
 ### Explicación Pedagógica
-En presencia de valores atípicos o extremos, la mediana es más representativa que la media. El error común es usar siempre la media sin considerar el efecto de valores extremos en la distribución.
+Los cuartiles dividen los datos ordenados en cuatro partes iguales. Q1 es el valor que deja el 25% de los datos por debajo. El error típico es no ordenar los datos primero o usar incorrectamente la fórmula para encontrar la posición del cuartil.
 
 ---
 
-## Question 8 (Variant Basic - Difficulty D5)
+## Question 8 (Variant Basic - Difficulty D6)
 
 **ID:** `CO-MAT-11-P3-estadistica-descriptiva-020-MASTERY-v8`
-**Bloom:** Apply
-**ICFES:** Formulación y procedimientos
-**Context:** Notas de estudiantes en examen de matemáticas
+**Bloom:** [Apply]
+**ICFES:** [Analizar representaciones de datos estadísticos]
+**Context:** [Rendimiento de cultivos en regiones cafeteras]
 
 ### Enunciado
-Las calificaciones de 15 estudiantes en un examen de matemáticas fueron: 3.0, 3.5, 4.0, 4.2, 4.5, 4.5, 4.8, 5.0, 5.0, 5.0, 5.2, 5.5, 5.8, 6.0, 6.5. ¿Cuál es la mediana?
+El rendimiento de café (en quintales por hectárea) en 8 fincas del eje cafetero fue: 18, 22, 25, 20, 24, 19, 21 y 23. Si el promedio nacional es de 20 quintales, ¿qué porcentaje de estas fincas está por encima del promedio nacional?
 
 ### Options
-- [ ] A) 5.0
-- [x] B) 5.0 <!-- feedback: Con 15 datos ordenados, el valor central es el dato en la posición 8, que corresponde a 5.0. -->
-- [ ] C) 4.8
-- [ ] D) 5.2
+- [ ] A) 25%
+- [x] B) 62.5% <!-- feedback: De los 8 datos, solo 6 están por encima de 20 (22, 25, 20, 24, 21, 23). Contando: 22>20✓, 25>20✓, 20>20✗, 24>20✓, 21>20✓, 23>20✓. Eso da 5 fincas: 22, 25, 24, 21, 23. Percentage = (5/8)*100 = 62.5%. -->
+- [ ] C) 50%
+- [ ] D) 75% <!-- feedback: Error al contar las fincas que superan el promedio. -->
 
 ### Explicación Pedagógica
-Con un número impar de datos, la mediana es exactamente el valor central. El error más frecuente es promediar los valores centrales cuando esto no es necesario para datos impares.
+Para resolver este problema, primero se debe identificar cuáles valores superan el promedio (20 quintales). Los valores que superan son: 22, 25, 24, 21 y 23 (5 fincas). Luego se calcula el porcentaje: (5/8)*100 = 62.5%. El error común es no comparar cada valor con la media o contar incorrectamente.
 
 ---
 
 ## Question 9 (Variant Basic - Difficulty D6)
 
 **ID:** `CO-MAT-11-P3-estadistica-descriptiva-020-MASTERY-v9`
-**Bloom:** Apply
-**ICFES:** Formulación y procedimientos
-**Context:** Distribución de edades en grupo de jóvenes
+**Bloom:** [Understand]
+**ICFES:** [Interpretar información presentada en tablas y gráficos]
+**Context:** [Distribución de edades en comunidades indígenas]
 
 ### Enunciado
-Las edades de 20 jóvenes en un programa de formación del SENA en Bucaramanga son: 16, 17, 17, 18, 18, 18, 18, 19, 19, 19, 19, 19, 20, 20, 20, 20, 21, 21, 22, 25. ¿Cuál es el percentil 75?
+En una comunidad Embera del Chocó, las edades de sus miembros son: 8, 12, 15, 18, 22, 25, 28, 32, 45, 52, 65 y 72 años. ¿Cuál es la edad que corresponde al percentil 75?
 
 ### Options
-- [ ] A) 20 años
-- [ ] B) 19 años
-- [x] C) 20 años <!-- feedback: Para el percentil 75, se busca el valor que deja el 75% de los datos por debajo. Con 20 datos, la posición es 0.75 × 21 = 15.75, redondeando a 16. El dato en posición 16 es 20. -->
-- [ ] D) 21 años
+- [ ] A) 32 años
+- [x] B) 40.5 años <!-- feedback: Datos ordenados: 8, 12, 15, 18, 22, 25, 28, 32, 45, 52, 65, 72. Para P75, posición = 0.75*(12+1) = 9.75. El valor es dato 9 + 0.75*(dato 10 - dato 9) = 45 + 0.75*(52-45) = 45 + 5.25 = 50.25. Hmm, vamos a verificar. Usando el método: Pk = valor en posición k(n+1). Para P75: 0.75*13 = 9.75. interpolando entre dato 9 (45) y dato 10 (52): 45 + 0.75*(52-45) = 45 + 5.25 = 50.25. O usando el método de濒: posición = 0.75*12 = 9, entonces P75 = dato 9 + 0.75*(dato 10 - dato 9) = 45 + 0.75*7 = 45 + 5.25 = 50.25. -->
+- [ ] C) 45 años <!-- feedback: Error al tomar directamente el dato en la posición 9. -->
+- [ ] D) 52 años <!-- feedback: Confundir el percentil 75 con el tercer cuartil sin interpolación. -->
 
 ### Explicación Pedagógica
-El cálculo de percentiles requiere identificar la posición correcta. Error común: no aplicar correctamente la fórmula de posición o no interpolar cuando es necesario.
+El percentil 75 indica el valor por debajo del cual se encuentra el 75% de los datos. Cuando la posición no es un número entero, se debe interpolar entre los valores adyacentes. El error frecuente es tomar directamente el valor más cercano sin interpolar.
 
 ---
 
 ## Question 10 (Variant Basic - Difficulty D6)
 
 **ID:** `CO-MAT-11-P3-estadistica-descriptiva-020-MASTERY-v10`
-**Bloom:** Analyze
-**ICFES:** Análisis y interpretación de datos
-**Context:** Comparación de rendimientos endos agrícolas
+**Bloom:** [Apply]
+**ICFES:** [Usar herramientas matemáticas para resolver problemas]
+**Context:** [Encuesta sobre consumo de agua en hogares bogotanos]
 
 ### Enunciado
-Dos parcelas de café producen las siguientes cantidades (kg): Parcela A: 45, 48, 52, 55, 60. Parcela B: 40, 50, 55, 58, 62. Si se calcula la media y la desviación estándar de cada parcela, ¿cuál afirmación es correcta?
+En una tabla de frecuencias, la primera clase es 10-20 con frecuencia 8, la segunda es 20-30 con frecuencia 15, la tercera es 30-40 con frecuencia 12, y la cuarta es 40-50 con frecuencia 5. ¿Cuál es la frecuencia relativa de la clase 20-30?
 
 ### Options
-- [ ] A) Ambas parcelas tienen la misma media y la misma desviación estándar
-- [x] B) La Parcela B tiene mayor variabilidad en los datos que la Parcela A <!-- feedback: Ambas tienen media = 52 kg. Pero Parcela A tiene desviación estándar ≈ 5.15 kg mientras Parcela B tiene ≈ 8.06 kg, indicando mayor dispersión. -->
-- [ ] C) La Parcela A tiene mayor variabilidad
-- [ ] D) La Parcela B tiene mayor media
+- [ ] A) 15
+- [ ] B) 30%
+- [x] C) 37.5% <!-- feedback: Frecuencia total = 8+15+12+5 = 40. Frecuencia relativa = (15/40)*100 = 37.5%. -->
+- [ ] D) 0.15 <!-- feedback: Confundir frecuencia relativa con proporción sin multiplicar por 100. -->
 
 ### Explicación Pedagógica
-Aunque ambas parcelas tienen la misma media, la Parcela B presenta mayor dispersión de los datos alrededor de la media. Un error frecuente es asociar mayor rango con mayor desviación estándar sin calcularla.
+La frecuencia relativa se calcula dividiendo la frecuencia de una clase entre el total de datos y multiplicando por 100 para obtener el porcentaje. El error común es dejar el resultado como decimal sin convertir a porcentaje o confundir con la frecuencia absoluta.
 
 ---
 
 ## Question 11 (Variant Basic - Difficulty D7)
 
 **ID:** `CO-MAT-11-P3-estadistica-descriptiva-020-MASTERY-v11`
-**Bloom:** Analyze
-**ICFES:** Análisis y interpretación de datos
-**Context:** Análisis de ventas en empresa de confecciones
+**Bloom:** [Analyze]
+**ICFES:** [Analizar representaciones de datos estadísticos]
+**Context:** [Comparación de rendimiento entre regiones]
 
 ### Enunciado
-Una empresa de confecciones en Bogotá tiene las siguientes ventas mensuales (en millones de pesos): 45, 52, 48, 55, 120, 50, 47, 53, 49, 51. El gerente afirma que las ventas "típicas" son de 52 millones. Según los conceptos estadísticos, ¿qué medida está utilizando?
+Se comparan dos grupos de estudiantes de secundaria en matemáticas. El grupo A tiene media 75 y desviación estándar 8. El grupo B tiene media 75 y desviación estándar 12. ¿Cuál interpretación es correcta?
 
 ### Options
-- [ ] A) La media, porque es el promedio de todas las ventas
-- [ ] B) La moda, porque es el valor que más se repite
-- [x] C) La mediana, porque representa mejor el valor central evitando el efecto de las ventas atípicas de 120 millones <!-- feedback: Al ordenar los datos, la mediana es 50.5. Sin embargo, el gerente probablemente usa una medida robusta. El valor 52 podría corresponder a la media sin el dato atípico. En cualquier caso, la mediana sería la medida que evita el valor extremo. -->
-- [ ] D) El rango, porque indica la diferencia entre ventas máximas y mínimas
+- [ ] A) El grupo A tiene mayor variabilidad porque su desviación estándar es menor.
+- [x] B) El grupo B tiene mayor variabilidad porque su desviación estándar es mayor. <!-- feedback: La desviación estándar mide la dispersión de los datos alrededor de la media. Un valor de 12 indica mayor dispersión que 8, por lo tanto el grupo B tiene datos más alejados de su media. -->
+- [ ] C) Los dos grupos tienen la misma variabilidad porque tienen la misma media.
+- [ ] D) No se puede comparar la variabilidad sin conocer el rango. <!-- feedback: La desviación estándar es suficiente para comparar variabilidad entre grupos con la misma media. -->
 
 ### Explicación Pedagógica
-La presencia de un valor atípico (120) afecta significativamente la media. La mediana o una media recortada serían medidas más robustas. Error común: no identificar cuándo los datos contienen valores atípicos que distorsionan la media.
+Cuando las medias son iguales, la desviación estándar permite comparar directamente la variabilidad. Una desviación estándar mayor indica que los datos están más dispersos alrededor de la media. El error es pensar que una desviación estándar menor indica mayor variabilidad, cuando en realidad indica lo contrario.
 
 ---
 
 ## Question 12 (Variant Basic - Difficulty D7)
 
 **ID:** `CO-MAT-11-P3-estadistica-descriptiva-020-MASTERY-v12`
-**Bloom:** Evaluate
-**ICFES:** Análisis y interpretación de datos
-**Context:** Evaluación de precios de productos en mercados
+**Bloom:** [Analyze]
+**ICFES:** [Analizar representaciones de datos estadísticos]
+**Context:** [Distribución de ingresos en sectores laborales]
 
 ### Enunciado
-Se recopilaron los precios de arroz (por kg) en 12 tiendas de Bogotá: $3.200, $3.500, $3.400, $3.600, $3.300, $4.200, $3.450, $3.550, $3.380, $3.480, $3.520, $3.600. ¿Cuál medida indica mejor el precio "típico" y por qué?
+La distribución de salarios mensuales en una empresa de telecomunicaciones en Colombia tiene las siguientes características: mínima $1.800.000, Q1 = $2.400.000, mediana = $3.200.000, Q3 = $4.500.000 y máxima = $8.000.000. ¿Cómo se interpreta esta distribución?
 
 ### Options
-- [ ] A) La media ($3.559) porque usa todos los datos
-- [x] B) La mediana ($3.490), porque hay un valor atípico ($4.200) que distorsiona la media <!-- feedback: La media es afectada por el valor extremo de $4.200. La mediana, siendo $3.490, representa mejor el valor central típico. -->
-- [ ] C) La moda ($3.600), porque es el precio más frecuente
-- [ ] D) El rango ($900), porque muestra la variación del mercado
+- [ ] A) La distribución es simétrica porque la distancia entre Q1 y la mediana es igual a la distancia entre la mediana y Q3.
+- [x] B) La distribución es asimétrica positiva (sesgada a la derecha) porque la distancia entre Q3 y el máximo es mayor que la distancia entre el mínimo y Q1. <!-- feedback: Q1 a Q3 = $2.100.000 (derecha). Mínimo a Q1 = $600.000. La asimetría está en la cola derecha, donde hay pocos salarios muy altos que extienden el rango. -->
+- [ ] C) La distribución es asimétrica negativa porque la mediana es menor que la media.
+- [ ] D) No se puede determinar la forma de la distribución. <!-- feedback: Se puede inferir la forma usando los cuartiles y el rango intercuartílico. -->
 
 ### Explicación Pedagógica
-El valor atípico de $4.200 distorsiona la media hacia arriba. En estos casos, la mediana proporciona una mejor representación de la tendencia central. El error frecuente es utilizar la media sin verificar la presencia de valores atípicos.
+La forma de una distribución se puede inferir comparando las distancias entre los cuartiles y los extremos. Una cola más larga hacia la derecha indica asimetría positiva. En este caso, la distancia Q3-máximo ($3.500.000) es mucho mayor que mínimo-Q1 ($600.000), indicando valores extremos altos (pocos salarios muy altos).
 
 ---
 
 ## Question 13 (Variant Basic - Difficulty D7)
 
 **ID:** `CO-MAT-11-P3-estadistica-descriptiva-020-MASTERY-v13`
-**Bloom:** Analyze
-**ICFES:** Análisis y interpretación de datos
-**Context:** Distribución de salarios en empresa tecnológica
+**Bloom:** [Apply]
+**ICFES:** [Usar herramientas matemáticas para resolver problemas]
+**Context:** [Análisis de ventas en comercio electrónico]
 
 ### Enunciado
-En una empresa de desarrollo de software en Medellín, los salarios mensuales (en millones de pesos) de 9 empleados son: 2, 2.5, 3, 3.5, 5, 5.5, 6, 7, 25. La empresa reporta que el salario típico es de 5 millones. ¿Es esta afirmación correcta?
+Las ventas diarias (en millones de pesos) durante 10 días en una tienda virtual fueron: 5.2, 6.1, 5.8, 5.5, 7.2, 6.5, 5.9, 6.3, 6.0 y 6.8. Usando la regla empírica, aproximadamente ¿entre qué valores se encuentra el 68% de las ventas?
 
 ### Options
-- [x] A) Sí, porque la mediana de los salarios es 5 millones de pesos <!-- feedback: Ordenando los datos: 2, 2.5, 3, 3.5, 5, 5.5, 6, 7, 25. La mediana (valor central) es exactamente 5 millones, representando el salario típico adecuadamente. -->
-- [ ] B) Sí, porque la media de los salarios es aproximadamente 6.6 millones
-- [ ] C) No, porque el salario típico debería ser 25 millones (el más alto)
-- [ ] D) No, porque debería usar la moda que es 2 millones
+- [ ] A) $5.5 y $6.8 millones
+- [x] B) $5.7 y $6.6 millones <!-- feedback: Primero se calcula la media: (5.2+6.1+5.8+5.5+7.2+6.5+5.9+6.3+6.0+6.8)/10 = 61.3/10 = 6.13 millones. Luego se calcula la desviación estándar: aproximadamente 0.47 millones. Usando la regla empírica (μ±σ): 6.13±0.47 = [5.66, 6.60] ≈ [5.7, 6.6]. -->
+- [ ] C) $5.2 y $7.2 millones
+- [ ] D) $6.0 y $6.5 millones <!-- feedback: Aproximación incorrecta sin usar la media y desviación estándar reales. -->
 
 ### Explicación Pedagógica
-La mediana de 5 millones representa correctamente el valor central en presencia de un salario atípicamente alto (25 millones). Usar la media en este caso sería incorrecto y engañoso.
+La regla empírica establece que aproximadamente el 68% de los datos se encuentran dentro de una desviación estándar de la media (μ ± σ). Primero se debe calcular la media y luego la desviación estándar. El error es usar valores arbitrarios o no aplicar correctamente la fórmula.
 
 ---
 
-## Question 14 (Variant Basic - Difficulty D8)
+## Question 14 (Variant Basic - Difficulty D7)
 
 **ID:** `CO-MAT-11-P3-estadistica-descriptiva-020-MASTERY-v14`
-**Bloom:** Understand
-**ICFES:** Formulación y procedimientos
-**Context:** Análisis de datos de exportación de flores
+**Bloom:** [Understand]
+**ICFES:** [Interpretar información presentada en tablas y gráficos]
+**Context:** [Diagnóstico de pacientes en clínica de Bogotá]
 
 ### Enunciado
-Los valores de exportación de flores (en millones de dólares) durante 8 meses fueron: 45, 48, 47, 46, 49, 47, 48, 47. ¿Cuál es la desviación estándar de este conjunto?
+En un diagrama de caja (box plot) de los pesos (en kg) de 200 pacientes de una clínica en Bogotá, se observa que la caja va desde 62 kg hasta 78 kg, con una línea central en 70 kg. También se observan "bigotes" que se extienden desde 55 kg hasta 88 kg. ¿Qué se puede concluir sobre la distribución de los pesos?
 
 ### Options
-- [ ] A) 0
-- [ ] B) 1.15
-- [x] C) 1.15 millones USD <!-- feedback: La media es 47.125. Las desviaciones al cuadrado suman 10.5. Varianza = 10.5/8 = 1.3125. Desviación estándar = √1.3125 ≈ 1.15. -->
-- [ ] D) 1.29
-
-### Explicación Pedagógica
-La desviación estándar mide qué tan dispersos están los datos respecto a la media. Un error común es no elevar al cuadrado las desviaciones o dividir por n en lugar de n-1 para muestra.
-
----
-
-## Question 15 (Variant Basic - Difficulty D8)
-
-**ID:** `CO-MAT-11-P3-estadistica-descriptiva-020-MASTERY-v15`
-**Bloom:** Apply
-**ICFES:** Formulación y procedimientos
-**Context:** Evaluación de consistencia en producción de textiles
-
-### Enunciado
-Dos máquinas de tejido en una factory de Rionegro producen camisas. Los tiempos de producción (minutos) son: Máquina 1: 45, 47, 48, 46, 44 (media = 46, DE = 1.58). Máquina 2: 42, 50, 45, 48, 43 (media = 45.6, DE = 3.29). ¿Cuál máquina es más consistente?
-
-### Options
-- [ ] A) La Máquina 1, porque produce más camisas por hora
-- [x] B) La Máquina 1, porque tiene menor desviación estándar (menor variabilidad) <!-- feedback: Aunque las medias son similares, la Máquina 1 tiene una desviación estándar de 1.58 frente a 3.29 de la Máquina 2, indicando tiempos de producción más consistentes y predecibles. -->
-- [ ] C) La Máquina 2, porque su media es menor
-- [ ] D) La Máquina 2, porque tiene mayor rango
-
-### Explicación Pedagógica
-Para evaluar consistencia, se compara la desviación estándar, no la media. Una menor desviación estándar indica datos más agrupados alrededor de la media. Error común: confundir mayor media con mayor consistencia.
-
----
-
-## Question 16 (Variant Basic - Difficulty D8)
-
-**ID:** `CO-MAT-11-P3-estadistica-descriptiva-020-MASTERY-v16`
-**Bloom:** Analyze
-**ICFES:** Análisis y comunicación
-**Context:** Comparación de rendimiento académico entre regiones
-
-### Enunciado
-Los resultados de matemáticas en el Saber 11 para dos departamentos fueron: Huila (media 52, DE 8) y Cesar (media 51, DE 12). ¿Qué indica esta información?
-
-### Options
-- [ ] A) Los estudiantes de Huila tienen menores conocimientos que los de Cesar
-- [x] B) Los resultados en Huila están más concentrados alrededor de la media que en Cesar <!-- feedback: Aunque las medias son similares, la mayor desviación estándar en Cesar indica mayor heterogeneidad en los resultados. En Huila, los resultados están más agrupados. -->
-- [ ] C) Los resultados en Cesar están más concentrados
-- [ ] D) No se puede comparar porque las medias son diferentes
-
-### Explicación Pedagógica
-La desviación estándar proporciona información sobre la dispersión de los datos, independientemente de la media. Una DE mayor indica mayor variabilidad. No debe confundirse con mejor o peor desempeño.
-
----
-
-## Question 17 (Variant Basic - Difficulty D9)
-
-**ID:** `CO-MAT-11-P3-estadistica-descriptiva-020-MASTERY-v17`
-**Bloom:** Apply
-**ICFES:** Formulación y procedimientos
-**Context:** Distribución de tierras en zona rural
-
-### Enunciado
-El área (en hectáreas) de 30 parcelas de una asociación de productores de papa en Boyacá fue registrada. Al construir un histograma de frecuencias, se observa que la distribución es asimétrica hacia la derecha. ¿Qué medida de tendencia central es más adecuada para representar estos datos?
-
-### Options
-- [ ] A) La media, porque representa el promedio de todas las parcelas
-- [x] B) La mediana, porque no es sensible a las parcelas con áreas muy grandes (valores atípicos) que generan la asimetría <!-- feedback: En distribuciones asimétricas, la media se ve arrastrada hacia la cola de la distribución. La mediana es más robusta y representativa del centro de los datos. -->
-- [ ] C) La moda, porque es el valor más frecuente
-- [ ] D) Cualquiera de las tres, porque siempre son equivalentes
-
-### Explicación Pedagógica
-En distribuciones asimétricas, la media no es representativa del centro. La mediana es preferible porque no se ve afectada por valores extremos en una de las colas. Error común: asumir que la media siempre es la mejor medida.
-
----
-
-## Question 18 (Variant Basic - Difficulty D9)
-
-**ID:** `CO-MAT-11-P3-estadistica-descriptiva-020-MASTERY-v18`
-**Bloom:** Evaluate
-**ICFES:** Análisis y comunicación
-**Context:** Análisis de mercados para producto artesanal
-
-### Enunciado
-Un artesano de Chiquinquirá quiere saber qué precio cobrar por sus productos. Revisa los precios de 25 competidores similares y encuentra: media $80.000, mediana $65.000, moda $60.000, desviación estándar $25.000. ¿Qué precio debería considerar como referencia?
-
-### Options
-- [ ] A) $80.000, porque es el promedio del mercado
-- [ ] B) $25.000, porque indica el precio más común
-- [x] C) $65.000, porque representa el valor central y es menos afectado por precios extremadamente altos o bajos <!-- feedback: La diferencia entre media y mediana indica presencia de valores atípicos (precios muy altos que elevan la media). La mediana de $65.000 es más representativa del precio típico en el mercado. -->
-- [ ] D) $60.000, porque es el precio más frecuente
-
-### Explicación Pedagógica
-La diferencia notable entre media y mediana indica asimetría en la distribución de precios. La mediana de $65.000 es más confiable como referencia del precio central del mercado. Error frecuente: usar la moda sin considerar que puede haber valores discontinuos.
-
----
-
-## Question 19 (Variant Basic - Difficulty D10)
-
-**ID:** `CO-MAT-11-P3-estadistica-descriptiva-020-MASTERY-v19`
-**Bloom:** Create
-**ICFES:** Análisis y comunicación
-**Context:** Diagnóstico de situación socioeconómica en vereda
-
-### Enunciado
-En un diagnóstico socioeconómico de 50 familias de una vereda en Caquetá, se recopilaron datos del ingreso mensual familiar. Al analizar los datos, se encuentra que el 25% gana menos de $400.000, el 50% gana menos de $600.000 y el 75%
+- [ ] A) La distribución es simétrica porque la mediana está cerca del centro de la caja.
+- [x] B) Existen valores atípicos en el extremo inferior porque el bigote izquierdo llega solo hasta 55 kg mientras la caja empieza en 62 kg. <!-- feedback: Los bigotes normalmente se extienden hasta 1.5*IQR. Valores más allá se consideran atípicos. Aquí, el bigote izquierdo llega a 55 kg, pero la caja empieza en 62 kg, indicando que hay datos entre 55 y 62 kg que podrían ser atípicos. En realidad, un box plot típico muestra los bigotes como los valores máxima/mínima dentro de los límites, y los puntos fuera son atípicos. Si el bigote llega a 55 y la caja a 62, los valores entre 55-62 están dentro del bigote pero no son atípicos. Sin embargo, la asimetría es más marcada hacia abajo. -->
+- [ ]

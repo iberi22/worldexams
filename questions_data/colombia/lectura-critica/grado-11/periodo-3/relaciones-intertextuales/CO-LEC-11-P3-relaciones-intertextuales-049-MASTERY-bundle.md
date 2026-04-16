@@ -1,61 +1,47 @@
 <think>
-The user wants me to generate exactly 20 questions in the ICFES Saber 11 style for Reading Comprehension (Lectura Crítica) on the topic of "relaciones-intertextuales" (intertextual relationships), for grade 11, period 3.
+The user wants me to generate exactly 20 ICFES-style multiple choice questions for "Lectura Crítica" (Critical Reading) on the topic "relaciones-intertextuales" (intertextual relationships), grade 11, period 3.
 
-Let me follow the format exactly as specified:
+Let me follow the format exactly:
 
-1. Start with the YAML frontmatter
-2. Then 20 questions with the structure:
-   - Question number with variant and difficulty level
-   - ID
-   - Bloom level
-   - ICFES competency
+1. I need to start with the YAML frontmatter
+2. Then 20 questions with the specified structure
+3. Progressive difficulty: D3-D4 (questions 1-4), D5-D6 (5-10), D7-D8 (11-16), D9-D10 (17-20)
+4. Each question needs:
+   - Question number and variant/difficulty level
+   - ID following the pattern
+   - Bloom taxonomy level
+   - ICFES competence
    - Context
-   - Enunciado (question)
-   - Options with [x] on correct one
-   - Explicación Pedagógica
+   - Enunciado (statement/question)
+   - 4 options (A, B, C, D) with [x] on the correct one
+   - Explanation
 
-Let me make sure:
-- Difficulty is progressive: D3-D4 (questions 1-4), D5-D6 (5-10), D7-D8 (11-16), D9-D10 (17-20)
-- All in Spanish
-- Colombian context
-- ICFES style
-- 4 options, no "all of the above" or "none of the above"
-- Correct answer marked with [x]
-- Plausible distractors based on real student errors
+Let me create these questions focusing on intertextual relationships (relaciones intertextuales) - this includes understanding how texts reference, echo, or transform other texts, recognition of allusions, adaptations, parodies, continuations, etc.
 
-Let me create the questions now:
+I'll create questions that are relevant to Colombian students with modern contexts.
 
-Questions 1-4 (D3-D4):
-1. Basic recognition of intertextual reference
-2. Basic understanding of types of intertextuality
-3. Simple application of intertextual concept
-4. Basic analysis of reference
+Let me generate the 20 questions:
 
-Questions 5-10 (D5-D6):
-5. Understanding different types of intertextuality
-6. Analysis of allusion
-7. Apply knowledge to identify reference
-8. Analyze effect of intertextual reference
-9. Evaluate purpose of reference
-10. Understand parody vs. homage
+1-4: D3-D4 (basic understanding)
+5-10: D5-D6 (intermediate)
+11-16: D7-D8 (advanced)
+17-20: D9-D10 (mastery)
 
-Questions 11-16 (D7-D8):
-11. Complex analysis of multiple references
-12. Evaluate transformation of original text
-13. Analyze cultural context of reference
+Questions should be about recognizing intertextual relationships: direct references, indirect references, adaptations, genres crossing, cultural references, etc.
+
+Let me create them:
+
+1. (D3) Basic recognition of an obvious intertextual reference
+2. (D3) Identify a clear allusion
+3. (D4) Understand transformation of a classic text
+4. (D4) Recognize a cultural reference and its source
 
 
-14. Evaluate author's purpose in using reference
-15. Analyze citation vs. allusion
-16. Complex evaluation of adaptation
+5-10: Moving to intermediate level where I'll present scenarios requiring deeper analysis of how texts connect and transform each other, including adaptations across media and genre transformations that demand understanding of the relationship between original and reinterpreted versions.
+11-16: At this advanced stage, I'll incorporate more complex cases involving multiple layers of reference, subtle transformations, and less obvious connections that require students to synthesize understanding of intertextuality across different contexts and media forms.
+17-20: The mastery level will present questions that demand evaluation of sophisticated intertextual relationships, possibly combining multiple reference types or requiring students to assess how meaning is constructed through textual dialogue and transformation.
 
-Questions 17-20 (D9-D10):
-17. Advanced synthesis of multiple intertextual layers
-18. Evaluate credibility through intertextual reference
-19. Complex analysis of hypertext/hypotext relationship
-20. Create evaluation of original work transformation
-
-I'll maintain consistency across all 20 questions to ensure coherence and proper progression of difficulty.
+I should ensure each question includes specific ICFES competencies aligned with the ICFES Saber 11 framework, Bloom taxonomy mapping, Colombian contexts and cultural references relevant to the grade level, and distractors that reflect plausible Colombian student errors and reasoning patterns.
 
 </think>
 
@@ -74,7 +60,7 @@ alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
 generation:
   agent: "minimax-m2.7"
   model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T17:46:41.368098"
+  timestamp: "2026-04-16T02:12:45.539592"
   prompt_version: "v2-direct"
 quality_status: "UNREVISED"
 generation_status: "RAW"
@@ -89,290 +75,348 @@ license: "CC BY-NC-SA 4.0"
 open_source: false
 ---
 
-## Question 1 (Variant Basic - Difficulty D3)
+## Question 1 (Variant Basic - Difficulty 3)
 
 **ID:** `CO-LEC-11-P3-relaciones-intertextuales-049-MASTERY-v1`
-**Bloom:** Remember
-**ICFES:** Interpretar y relacionar textos
-**Context:** Cultura popular colombiana
+**Bloom:** Understand
+**ICFES:** Interpretar textualmente los sentidos de un texto y establecer relaciones entre este y otros textos o contextos.
+**Context:** Campaña publicitaria colombiana actual
 
 ### Enunciado
-Cuando en una canción de Karol G se hace referencia a una diosa mitológica para describir la belleza de una persona, ¿qué tipo de relación intertextual se está estableciendo?
+En un comercial de leche colombiana aparece un hombre vestido de detective noir saying: "La verdad está en la leche". Este estilo visual y frase parodian claramente una película clásica del cine negro. ¿Cuál de las siguientes opciones describe correctamente esta relación intertextual?
 
 ### Options
-- [ ] A) Parodia, porque se burla del mito original <!-- feedback: la parodia implica humor y ridiculización, no糙美化 -->
-- [ ] B) Hipertextualidad, porque se crea un texto completamente nuevo sin relación con el original <!-- feedback: la hipertextualidad implica transformación, no ausencia de relación -->
-- [x] C) Alusión, porque se evoca indirectamente un texto o personaje conocido <!-- feedback: correctamente se identifica la mención indirecta que evoca la mitología griega -->
-- [ ] D) Intertextualidad explícita, porque se menciona el nombre completo del mito <!-- feedback: en la allusion no se menciona explícitamente, sino que se evoca -->
+- [ ] A) Es una adaptación porque presenta la historia en otro formato temporal.
+- [ ] B) Es una parodia porque imita el estilo de manera humorística para vender un producto.
+- [x] B) Es una parodia porque imita el estilo de manera humorística para vender un producto. <!-- feedback: La parodia es una imitación que transforma el texto original con intención humorística o crítica, en este caso para vender un producto. -->
+- [ ] C) Es una continuación porque sigue la historia del original.
+- [ ] D) Es una recopilación porque mezcla fragmentos de varias obras. <!-- feedback: No hay mezcla de fragmentos múltiples. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C porque la allusion es una referencia indirecta a un texto, personaje o evento conocido sin citarlos explícitamente. En el caso de Karol G, menciona "diosa" sin decir explícitamente Afrodita o Venus, creando una conexión con la mitología griega que enriquece la letra. Los distractores confunden los tipos de relación: la parodia requiere burla, la hipertextualidad implica transformación activa, y la intertextualidad explícita requiere cita directa.
+La parodia intertextual toma elementos reconocibles de un texto (estética, frase célebre, situaciones) y los transforma con una intención diferente, generalmente humorística o comercial. En este caso, el comercial usa el reconocible estilo del cine negro y la frase icónica de detectives para crear un efecto cómico y memorable.
 
 ---
 
-## Question 2 (Variant Basic - Difficulty D3)
+## Question 2 (Variant Basic - Difficulty 3)
 
 **ID:** `CO-LEC-11-P3-relaciones-intertextuales-049-MASTERY-v2`
-**Bloom:** Understand
-**ICFES:** Identificar información implícita
-**Context:** Literatura colombiana
+**Bloom:** Remember
+**ICFES:** Identificar relaciones entre elementos explícitos e implícitos en un texto y entre varios textos.
+**Context:** Adaptación cinematográfica reciente
 
 ### Enunciado
-En la novela *Cien años de soledad* de Gabriel García Márquez, el personaje José Arcadio Buendía se obsesiona con el alquimia y los científicos. Esta característica del personaje refleja la influencia que el autor recibió de la literatura europea del siglo XIX. ¿Qué tipo de relación intertextual se evidencia en este caso?
+En la versión colombiana de una serie nórdica adaptada para Netflix, los personajes principalson jóvenes ranchers en los Llanos Orientales. Esta producción fue reconocida como una adaptación de la serie europea. ¿Qué tipo de relación intertextual dominante identifica esta adaptación?
 
 ### Options
-- [ ] A) Imitación directa, porque García Márquez copia personajes europeos <!-- feedback: la intertextualidad no es copia, sino diálogo creativo -->
-- [ ] B) Parodia, porque se burla de la ciencia europea de la época <!-- feedback: no hay intención de burla en la caracterización -->
-- [x] C) Intertextualidad cultural, porque se incorporan conocimientos y tradiciones de otras obras al contexto latinoamericano <!-- feedback: los temas de alquimia y obsesión científica provienen de la tradición literaria europea y se incorporan al contexto de Macondo -->
-- [ ] D) Citación textual, porque se copian fragmentos de obras europeas <!-- feedback: no hay copia textual, sino transformación de temas -->
+- [ ] A) Alusión directa a través del diálogo
+- [ ] B) Transposición de un universo narrativo a otro contexto geográfico y cultural
+- [x] B) Transposición de un universo narrativo a otro contexto geográfico y cultural. <!-- feedback: La adaptación transpone el núcleo narrativo a un contexto completamente diferente (de Escandinavia a los Llanos colombianos), manteniendo la esencia de la historia. -->
+- [ ] C) Continuación donde la historia sigue cronológicamente
+- [ ] D) Parodia que busca la crítica humorística del original <!-- feedback: No hay intención humorística; es una adaptación seria. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. La intertextualidad cultural ocurre cuando un autor incorpora temas, ideas o tendencias de una tradición literaria foránea y las reelabora en su propio contexto. García Márquez transforma la obsesión científica europea del siglo XIX, filtrándola a través de la realidad mágica de Macondo. Los distractores confunden formas específicas: la imitación y citación son más directas, y la parodia requiere intención humorística que no existe aquí.
+La transposición es un tipo de adaptación que lleva los elementos fundamentales de una obra a un contexto diferente. En este caso, la estructura narrativa y desarrollo de personajes se mantienen, pero el ambiente geográfico, cultural y temporal cambia radicalmente.
 
 ---
 
-## Question 3 (Variant Basic - Difficulty D4)
+## Question 3 (Variant Basic - Difficulty 4)
 
 **ID:** `CO-LEC-11-P3-relaciones-intertextuales-049-MASTERY-v3`
-**Bloom:** Apply
-**ICFES:** Analizar relaciones entre textos
-**Context:** Redes sociales y memes
+**Bloom:** Understand
+**ICFES:** Establecer relaciones de sentido entre textos de diferente naturaleza.
+**Context:** Literatura colombiana contemporánea
 
 ### Enunciado
-Un influenciador colombiano publica en su cuenta de Instagram: "Mi situación económica está peor que la de Macbeth después de asesinar al rey". Esta frase establece una relación intertextual con la obra de Shakespeare. ¿Cuál es el texto fuente (hipotexto) en esta relación?
+El cuento "El regreso" de un autor samario modernista comienza así: "Como那头ugo de Macbeth, el ambition me persigue." Esta frase establece una relación intertextual explícita con:
 
 ### Options
-- [ ] A) La publicación del influenciador, porque es el texto que se creó a partir de la referencia <!-- feedback: el texto que se crea a partir de otro se llama hipertexto, no hipotexto -->
-- [ ] B) La obra *Macbeth* de Shakespeare, porque es la obra original a la que se hace referencia <!-- feedback: técnicamente correcto sobre la fuente, pero la pregunta pide específicamente el hipotexto en esta relación -->
-- [ ] C) Las finanzas del influenciador, porque es el tema central de la publicación <!-- feedback: el hipotexto siempre se refiere a otro texto, no a situaciones reales -->
-- [ ] D) Los memes económicos de Instagram, porque son el contexto donde surge la frase <!-- feedback: el hipotexto es siempre una obra textual específica, no un formato o género -->
+- [ ] A) La canción "Vivir mi vida" de Marc Anthony.
+- [ ] B) La tragedia Macbeth de William Shakespeare. <!-- feedback: La referencia a Macbeth y la ambición corresponde a la célebre frase del personaje antes de asesinar al rey. -->
+- [ ] C) Una canción popular vallenata sobre ambition.
+- [ ] D) Una obra de teatro colombiana sobre la ambición política. <!-- feedback: No existe referencia a una obra colombiana específica de ese título. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. Genette define el hipotexto como el texto fuente del cual parte una relación intertextual. En este caso, Macbeth de Shakespeare es el hipotexto, y la publicación del influenciador es el hipertexto. El lector debe conocer la tragedia de Macbeth para entender la referencia a la ambición desmedida y sus consecuencias catastróficas. Los estudiantes frecuentemente confunden los términos, thinking que el texto nuevo es el hypotexto cuando en realidad es el hipertexto.
+La intertextualidad explícita se reconoce cuando el texto menciona directamente otro texto o autor. En este caso, la mención de Macbeth y la ambición es un eco directo de la tragedia shakesperiana, donde la ambición desmedida lleva a la destrucción.
 
 ---
 
-## Question 4 (Variant Basic - Difficulty D4)
+## Question 4 (Variant Basic - Difficulty 4)
 
 **ID:** `CO-LEC-11-P3-relaciones-intertextuales-049-MASTERY-v4`
-**Bloom:** Understand
-**ICFES:** Interpretar elementos culturales
-**Context:** Medios de comunicación colombianos
+**Bloom:** Apply
+**ICFES:** Evaluar estrategias argumentativas y discursivas en un texto.
+**Context:** Comunicación en redes sociales
 
 ### Enunciado
-En el noticieroRCN, el presentador comienza su editorial con la frase: "Estamos viviendo tiempos que harían sangrar el corazón de García Márquez". Esta expresión utiliza una referencia intertextual con la novela *El corazón del silencio*. ¿Qué función cumple esta referencia en el contexto del noticiero?
+Un influencer paisa sube a TikTok un video donde, parodiando la escena de "La guerra de las galaxias" donde Luke mira hacia el sol doble, muestra cómo mira hacia el aguacate y dice: "Este aguacate es mi padre." ¿Qué tipo de recurso intertextual está utilizando?
 
 ### Options
-- [ ] A) Crear confusión en el televidente que no conoce la obra <!-- feedback: la función no es confundir, sino comunicar -->
-- [ ] B) Establecer una conexión emocional entre el contexto actual y la narrativa literaria de la obra referenciada <!-- feedback: efectivamente se apela a la emotividad que transmite la literatura de García Márquez -->
-- [ ] C) Demostrar que el presentador tiene formación literaria superior <!-- feedback: la función no es exhibirse, sino comunicar eficazmente -->
-- [ ] D) Reemplazar la información factual con metáforas literarias <!-- feedback: no se busca reemplazar, sino enriquecer la información -->
+- [ ] A) Una adaptación cinematográfica porque recrea una escena fílmica.
+- [ ] B) Una referencia cultsual que busca crear comunidad conFans de la saga.
+- [x] B) Una referencia cultsual que busca crear comunidad conFans de la saga. <!-- feedback: El usuario emplea una referencia reconocible por fans para generar complicidad humorística con su audiencia. -->
+- [ ] C) Una parodia romántica porque le da un giro sentimental al original.
+- [ ] D) Un pastiche porque mezcla varios elementos de diferentes obras. <!-- feedback: Solo toma un elemento específico, no mezcla múltiples obras. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. La función de la intertextualidad en el discurso mediático es frecuentemente apelar a conocimiento compartido para crear resonancia emocional. Al mencionar a García Márquez, el presentador evoca la riqueza emocional de su narrativa, conectando el momento actual (problemático o dramático) con esa tradición literaria. Los distractores A y C muestran comprensión incompleta de la función comunicativa, mientras que D confunde el propósito retórico con una supuesta sustitución de contenido.
+La referencia cultsual es una forma de intertextualidad donde se toma un elemento reconocible de una obra popular para crear conexión con una comunidad deFans. No transforma el original como la parodia, sino que lo usa como punto de reconocimiento y humor compartido.
 
 ---
 
-## Question 5 (Variant Medium - Difficulty D5)
+## Question 5 (Variant Intermediate - Difficulty 5)
 
 **ID:** `CO-LEC-11-P3-relaciones-intertextuales-049-MASTERY-v5`
 **Bloom:** Understand
-**ICFES:** Evaluar estrategias discursivas
-**Context:** Cine colombiano
+**ICFES:** Interpretar textualmente los sentidos de un texto y establecer relaciones entre este y otros textos o contextos.
+**Context:** Serie de televisión adolescente colombiana
 
 ### Enunciado
-El director colombiano Carlos Moreno filma *La sociedad del semisólo*, una película que reescribe completamente la historia del Quijote de la Mancha situándola en las calles de Medellín con un protagonista desplazado. ¿Qué tipo de relación intertextual predomina en esta adaptación?
+En una serie juvenil emitida por RCN, la protagonista lê en un café mientras suena una canción que menciona "la naranj", y luego dice a su amiga: "Así como en aquella canción de García Lorca, la naranja era el símbolo de..." La relación intertextual que establece la serie es:
 
 ### Options
-- [ ] A) Alusión simple, porque solo se menciona el nombre del Quijote <!-- feedback: es una reescritura completa, no una mera mención -->
-- [ ] B) Parodia, porque se ridiculiza la obra original <!-- feedback: no se busca ridiculizar, sino resignificar -->
-- [ ] C) Adaptación transformativa, porque se reescribe la obra en un nuevo contexto cultural manteniendo la esencia del texto original <!-- feedback: la adaptación transformativa busca actualizar el texto manteniendo su esencia -->
-- [ ] D) Pastiche, porque se copian elementos formales sin intención crítica <!-- feedback: el pastiche copia sin transformación crítica -->
+- [ ] A) Hipertextualidad donde se transforma una canción folclórica.
+- [ ] B) Metatextualidad donde se comenta directamente la obra de otro.
+- [x] B) Metatextualidad donde se comenta directamente la obra de otro. <!-- feedback: La protagonista hace referencia explícita a una obra previa (García Lorca) y la comenta en el contexto de la serie. -->
+- [ ] C) Paratextualidad donde se usa el prefacio de una edición especial.
+- [ ] D) Architextualidad donde se declara el género de la obra referenciada. <!-- feedback: No hay declaración genérica; hay un comentario específico. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. La adaptación transformativa mantiene la estructura profunda del texto fuente (el Quijote) pero lo reubica en un contexto cultural完全不同 (Medellín, desplazamiento forzado). El protagonista mantiene características del hidalgo manchego: la idealism que choca con la realidad, pero este idealism se transforma en sobrevivencia urbana. Los estudiantes tienden a confundir adaptación con parodia (que requiere ridiculización) o pastiche (que es copia sin propósito crítico).
+La metatextualidad es la relación donde un texto habla directamente sobre otro texto. En este caso, la serie establece un diálogo explícito con la obra de García Lorca, comentando su significado y actualizando su sentido en el contexto de los personajes.
 
 ---
 
-## Question 6 (Variant Medium - Difficulty D5)
+## Question 6 (Variant Intermediate - Difficulty 5)
 
 **ID:** `CO-LEC-11-P3-relaciones-intertextuales-049-MASTERY-v6`
 **Bloom:** Analyze
-**ICFES:** Interpretar elementos implícitos
-**Context:** Música urbana colombiana
+**ICFES:** Identificar relaciones entre elementos explícitos e implícitos en un texto y entre varios textos.
+**Context:** Teatro independiente bogotano
 
 ### Enunciado
-El rapero bogotano Krakop graba una canción cuyo estribillo dice: "Yo no pido limosna, pido lo que es mío, como el Cid con su espada". La referencia a El Cid implica que el narrador se considera un guerrero honorable cuyo territorio le ha sido arrebatado injustamente. ¿Qué tipo de relación intertextual permite esta comprensión?
+En una obra de teatro independiente en Chapinero, un personaje dice: "No soy yo quien mata a los pobres, soy el sistema", eco evidente de la frase del película colombiana "La estrategia del caracol". Esta relación intertextual funciona principalmente para:
 
 ### Options
-- [ ] A) Trama compartida, porque la historia de ambos personajes es idéntica <!-- feedback: las tramas son diferentes, lo que se comparte es el tema del honor perdido -->
-- [ ] B) Tema común, porque tanto el texto fuente como el nuevo utilizan el tema del honor guerrero para expresar su mensaje <!-- feedback: se identifican correctamente los temas compartidos que permiten la comparación -->
-- [ ] C) Personaje paralelo, porque el narrador se convierte en El Cid <!-- feedback: no se identifica con el personaje, sino con su situación temática -->
-- [ ] D) Citación directa, porque se menciona explícitamente El Cid <!-- feedback: se menciona el nombre, pero la relación es temática, no literal -->
+- [ ] A) Crear humor mediante la confusión temporal de la referencia.
+- [x] B) Establecer una conexión ideológica entre ambos textos sobre la denuncia social. <!-- feedback: Ambos textos comparten una crítica al sistema económico que beneficia a unos pocos. La referencia busca resonancia ideológica. -->
+- [ ] C) Mostrar que los diálogos de ambas obras son idénticos.
+- [ ] D) Demostrar que la película plagió al texto teatral. <!-- feedback: La relación no implica plagio; implica diálogo entre textos. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. El concepto de tema común permite que textos aparentemente desconectados puedan establecerse en diálogo a través de ideas compartidas. El tema del guerrero honorable cuya honra ha sido mancillada conecta el Cantar del Mio Cid con el contexto urbano del rap. El oyente debe tener el conocimiento del texto fuente para activar esta conexión temática. Los distractores representan errores comunes: confundir tema con trama (A), personaje con situación (C), o citación explícita con la referencia más sutil al tema (D).
+Cuando un texto retoma una frase de otro para establecer resonancia ideológica, busca que el lector o espectador establezca paralelos temáticos. Aquí la conexión crítica al sistema se refuerza porque aparece en contextos diferentes pero complementarios.
 
 ---
 
-## Question 7 (Variant Medium - Difficulty D6)
+## Question 7 (Variant Intermediate - Difficulty 5)
 
 **ID:** `CO-LEC-11-P3-relaciones-intertextuales-049-MASTERY-v7`
-**Bloom:** Apply
-**ICFES:** Evaluar información textual
-**Context:** Literatura latinoamericana
+**Bloom:** Understand
+**ICFES:** Establecer relaciones de sentido entre textos de diferente naturaleza.
+**Context:** Poesía colombiana contemporánea
 
 ### Enunciado
-En el prólogo de su novela *La casa de los espíritus*, Isabel Allende escribe: "Escritores como Gabriel García Márquez han demostrado que la realidad latinoamericana necesita de la magia para ser contada". ¿Qué tipo de relación intertextual explícita se establece en este fragmento?
+La poeta caleña(Pineda) write un poema donde cada verso comienza con la última palabra del verso anterior: "Caminas entre sombras. Sombras que no perdonan. Perdonan los miedos..." Esta técnica es una variación consciente de la técnica del "cadáver exquisito" que practicaban los surrealistas. ¿Qué tipo de relación intertextual demuestra este poema?
 
 ### Options
-- [ ] A) Parodia del realismo mágico, porque se burla del estilo de García Márquez <!-- feedback: no hay intención burlesca en la frase -->
-- [ ] B) Discurso de referencia, porque se menciona directamente a otro autor para contextualizar el propio trabajo <!-- feedback: efectivamente se usa el nombre de otro autor para posicionar el propio -->
-- [ ] C) Plagio literario, porque se copian las ideas de García Márquez sin atribución <!-- feedback: se atribuye correctamente, no hay plagio -->
-- [ ] D) Intertextualidad implícita, porque se habla de magia sin mencionar la literatura <!-- feedback: se menciona explícitamente a García Márquez -->
+- [ ] A) Pastiche porque reproduce fielmente un estilo ya existente.
+- [ ] B) Continuación histórica de un movimiento literario.
+- [x] B) Continuación histórica de un movimiento literario. <!-- feedback: Al adoptar conscientemente una técnica surrealista, la poeta se inserta en esa tradición y la actualiza con una voz propia. -->
+- [ ] C) Parodia porque satiriza el estilo surrealista.
+- [ ] D) Alusión sutil porque solo menciona el nombre de la técnica. <!-- feedback: No hay mención; hay práctica consciente de la técnica. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. El discurso de referencia o metalepsia ocurre cuando un autor menciona explícitamente a otros autores o textos para crear un marco de referencia para su propia obra. Allende utiliza el nombre de García Márquez como emblema del realismo mágico para posicionar su propia novela dentro de esa tradición. Los distractores exponen errores conceptuales: parodia requiere burla, plagio implica apropiación indebida (aquí se attribution correctamente), y la intertextualidad implícita no requiere mención directa de otros autores.
+La continuación histórica de un movimiento ocurre cuando un autor retoma técnicas o estéticas de un periodo anterior y las incorpora a su obra de manera consciente. Aquí, la poeta caleña se inserta en la tradición surrealista colombiana, llevándola de la habitación de la调到 a una poeta contemporánea.
 
 ---
 
-## Question 8 (Variant Medium - Difficulty D6)
+## Question 8 (Variant Intermediate - Difficulty 6)
 
 **ID:** `CO-LEC-11-P3-relaciones-intertextuales-049-MASTERY-v8`
 **Bloom:** Analyze
-**ICFES:** Analizar propósito comunicativo
-**Context:** Teatro colombiano
+**ICFES:** Evaluar estrategias argumentativas y discursivas en un texto.
+**Context:** Narrativa juvenil colombiana
 
 ### Enunciado
-El dramaturgo antioqueño Juan Gustavo Cobo inicia su obra *Macondo: El juicio final* con una escena donde los personajes de *Cien años de soledad* comparecen ante un tribunal. La obra transforma a los Melquíades en jueces y a los Buendía en procesados. ¿Qué efecto comunicativo logra esta transformación intertextual?
+En una novela de ciencia ficción bogotana, la autora construye un planeta donde los gobiernan "Los de la Mesa Redonda" y cualquier dissent se castiga con el "Exilio en el Espacio". El lector familizado con la literatura épica reconocerá inmediatamente la relación intertextual con el ciclo artúrico. ¿Cuál es la función principal de esta referencia?
 
 ### Options
-- [ ] A) Mostrar que la obra original tiene errores históricos que deben ser corregidos <!-- feedback: el propósito no es corregir, sino explorar -->
-- [ ] B) Plantear una reflexión sobre la inevitabilidad del destino familiar y la tragedia heredada que ya estaba presente en la obra original <!-- feedback: el tribunal como metáfora de destino permite explorar la fatalidad que García Márquez ya desarrollaba -->
-- [ ] C) Ridiculizar a los personajes de García Márquez para hacer humor teatral <!-- feedback: no hay intención burlesca en la metáfora del tribunal -->
-- [ ] D) Demostrar que Macondo realmente existió y sus habitantes pueden ser llevados a juicio <!-- feedback: no se busca un efecto de realidad, sino filosófico -->
+- [ ] A) Decorativa: hacer el texto más pomposo sin afectar la trama.
+- [ ] B) Estructurante: definir completamente la política del planeta igual que en el original.
+- [x] B) Estructurante: definir completamente la política del planeta igual que en el original. <!-- feedback: La referencia no es decorativa; estructura todo el sistema político ficcional del planeta. -->
+- [ ] C) Irónica: critique negatively the sistema político artúrico.
+- [ ] D) Accidental: la autora no sabía que estaba copiando. <!-- feedback: El uso consciente de estructuras indica intención de diálogo intertextual. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. Al transformar los personajes en procesados ante un tribunal, Cobo utiliza la estructura del juicio como metáfora para explorar el tema del destino inevitable y la tragedia familiar que ya estaba presente en la obra de García Márquez. El juicio representa la imposibilidad de escapar a la condición heredada. Esta es una hipertextualidad transformativa que reinterpreta el hipotexto sin ridiculizarlo (descartando C) ni claim su literalidad (descartando D).
+Cuando una referencia intertextual estructura elementos fundamentales de la obra (en este caso, todo el sistema de gobierno), no es meramente decorativa. El lector familiarizado con el intertexto entiende inmediatamente cómo funciona el mundo ficcional, generando una economía narrativa.
 
 ---
 
-## Question 9 (Variant Medium - Difficulty D6)
+## Question 9 (Variant Intermediate - Difficulty 6)
 
 **ID:** `CO-LEC-11-P3-relaciones-intertextuales-049-MASTERY-v9`
 **Bloom:** Evaluate
-**ICFES:** Evaluar argumentos del texto
-**Context:** Publicidad en medios colombianos
+**ICFES:** Establecer relaciones de sentido entre textos de diferente naturaleza.
+**Context:** Teatro histórico colombiano
 
 ### Enunciado
-Una publicidad de la marca colombiana ¡¡MÁQUIMA!! muestra a un hombre disfrazado de Superman volando sobre Bogotá, mientras la voz en off dice: "Vuela más alto que las tarifas de energía". El anuncio utiliza la imagen del superhéroe para comunicar su mensaje. ¿Cuál es la intención comunicativa principal de esta relación intertextual?
+El drama "La买不起 del tiempo" reescribe la historia de la independencia desde la perspectiva de una mujer indígena que fue amante de un general patriota. El texto constantemente contrasta el discurso libertario del general con sus acciones concretas de exploitation. Esta relación con la historia de la independencia es:
 
 ### Options
-- [ ] A) Establecer una conexión irónica entre la fantasía del vuelo y la realidad de los precios elevados en Colombia <!-- feedback: la conexión es irónica, pero no es la intención principal -->
-- [ ] B) Apelar a la universalidad de Superman como símbolo de capacidades sobrehumanas para exagerar la promesa del producto <!-- feedback: efectivamente se usa a Superman como símbolo universal para amplificar la promesa -->
-- [ ] C) Criticar que los superhéroes son假的 e irreales en contraste con los problemas reales del país <!-- feedback: no hay crítica, hay celebración del producto -->
-- [ ] D) Informar que la marca ha obtenido los poderes de Superman <!-- feedback: es una metáfora, no una claim literal -->
+- [ ] A) Metahistórica porque reescribe la historia oficial con perspectiva de género.
+- [x] A) Metahistórica porque reescribe la historia oficial con perspectiva de género. <!-- feedback: El texto hace comentario crítico sobre la historia, reescribiendo desde una perspectiva marginada. -->
+- [ ] B) Documental porque reproduce fuentes históricas sin alteración.
+- [ ] C) Nostálgica porque idealiza el pasado independentista.
+- [ ] D) Neutral porque no toma partido político. <!-- feedback: El contraste explícito entre discurso y acción indica claramente una postura crítica. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. La publicidad utiliza la intertextualidad con Superman para apelar al reconocimiento universal del símbolo: Superman representa capacidades sobrehumanas. Al conectar esto con el producto, la marca promete que el consumidor podrá "volar" (superarse) más allá de sus limitaciones (las tarifas). Los estudiantes frecuentemente interpretan el humor irónico como la intención principal (A), cuando en realidad es un vehículo para la promesa de marca. C y D muestran comprensión literalista de la metáfora publicitaria.
+La metahistoria es una forma de intertextualidad donde el texto hace comentario crítico sobre cómo se ha narrado la historia. Al reescribir desde perspectivas marginadas y contrastar discurso con acción, el drama construye una crítica a las narrativas heroicas tradicionales.
 
 ---
 
-## Question 10 (Variant Medium - Difficulty D6)
+## Question 10 (Variant Intermediate - Difficulty 6)
 
 **ID:** `CO-LEC-11-P3-relaciones-intertextuales-049-MASTERY-v10`
 **Bloom:** Understand
-**ICFES:** Identificar procedimientos discursivos
-**Context:** Sátira política colombiana
+**ICFES:** Identificar relaciones entre elementos explícitos e implícitos en un texto y entre varios textos.
+**Context:** Música urbana colombiana
 
 ### Enunciado
-En una columna de opinión del periódico bogotano *El Espectador*, el columnist escreve: "Los indicadores económicos del país están en caída libre, y lo único que sube es la deuda pública. Bien dice el dicho: 'Agua que no has de beber, déjalo correr'". El uso del refrán establece una relación intertextual con la tradición oral. ¿Cuál es la función específica de este procedimiento en el texto?
+Un artista de música urbana de Medellín incluye en su canción la línea: "Soy el fantasma de Macondo, caminando por las calles de Buenos Aires." La relación intertextual con la obra de García Márquez sirve principalmente para:
 
 ### Options
-- [ ] A) Confundir al lector que no conoce los refranes colombianos <!-- feedback: la función es aclarar, no confundir -->
-- [ ] B) Usar la autoridad de la tradición oral para validar el argumento crítico del columnist <!-- feedback: el refrán funciona como herramienta retórica que otorga peso tradicional al argumento crítico -->
-- [ ] C) Insultar directamente al gobierno sin consecuencias legales <!-- feedback: no hay intención de insulto, sino de ilustración -->
-- [ ] D) Demostrar que el columnist domina la literatura oral colombiana <!-- feedback: el propósito no es exhibir conocimiento -->
+- [ ] A) Referirise a un lugar geográfico real en Argentina.
+- [x] B) Posicionar su voz narrativa como heredera de una tradición literaria latinoamericana. <!-- feedback: Al invocar a Macondo, el artista se inscribe en una tradición literaria específica y reclama herencia cultural. -->
+- [ ] C) Indicar que su canción fue grabada en Buenos Aires.
+- [ ] D) Criticar la obra de García Márquez por obsoleta. <!-- feedback: La referencia no tiene tono de crítica. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. Los refranes y frases proverbiales pertenecen al dominio de la intertextualidad con la tradición oral. Al incorporar el refrán, el columnist Apela a la sabiduría tradicional collective y la utiliza como herramienta retórica para dar peso a su argumento sobre la economía. El refrán tiene autoridad cultural que el columnista aprovecha. Los distractores reflejan interpretaciones reducidas: A sees la función como confusión, C reduces a insulto, y D ve la función como exhibicionismo intelectual.
+La invocación de Macondo como "fantasma" establece una relación de herencia y diálogo con el realismo mágico latinoamericano. El artista reclama para sí una genealogía cultural que trasciende géneros (de la literatura al rap) y geografías (de Macondo a Buenos Aires).
 
 ---
 
-## Question 11 (Variant Advanced - Difficulty D7)
+## Question 11 (Variant Advanced - Difficulty 7)
 
 **ID:** `CO-LEC-11-P3-relaciones-intertextuales-049-MASTERY-v11`
 **Bloom:** Analyze
-**ICFES:** Analizar procedimientos literarios
-**Context:** Teatro universitario colombiano
+**ICFES:** Evaluar estrategias argumentativas y discursivas en un texto.
+**Context:** Cine colombiano contemporáneo
 
 ### Enunciado
-Un grupo de teatro universitario de Medellín presenta una adaptación de *Romeo y Juliet* ambientada en las pandillas del Bronx de la ciudad. La función cambia el conflicto de familias nobles a un conflicto entre pandillas por el control del microtráfico, manteniendo la estructura de los amantes de familias rivales. La relación entre el texto de Shakespeare (hipotexto) y la adaptación (hipertexto) demuestra que:
+En una película colombiana reciente, una profesora de literatura obliga a sus estudiantes a leer "Cien años de soledad" y luego les pregunta: "¿Por qué Aureliano Buendía fabricaba pescaditos de oro?". La respuesta de un estudiante: "Para dejar de pensar en su soledad, porque en el metal encontraba algo permanente." Esta escena establece una relación intertextual donde la profesora funciona como:
 
 ### Options
-- [ ] A) Los textos clásicos solo pueden adaptarse si el contexto social es idéntico al original <!-- feedback: la adaptación justru proves lo contrario -->
-- [ ] B) La estructura profunda de las tramas tragedias es transferible a contextos sociales radicalmente diferentes porque abordan conflictos universales del ser humano <!-- feedback: la permanencia de los arquetipos narrativos permite que temas universales sobrevivan al cambio de contexto -->
-- [ ] C) Shakespeare debe actualizarse para ser relevante para las nuevas generaciones <!-- feedback: la respuesta toca algo verdadero pero no aborda la relación intertextual específicamente -->
-- [ ] D) Las pandillas del Bronx pueden entenderse mejor a través de la literatura del siglo XVI <!-- feedback: la relación funciona en ambas direcciones, pero la pregunta se centra en el proceso de adaptación -->
+- [ ] A) Metatexto porque habla explícitamente sobre la novela.
+- [x] B) Lector modelo porque guía la interpretación del texto dentro del filme. <!-- feedback: La profesora encarna el posicionamiento del director sobre cómo debe leerse la obra referenced, estableciendo el marco interpretativo. -->
+- [ ] C) Autora de la novela porque cambia su final.
+- [ ] D) Crítica literaria porque escribe una reseña de la obra. <!-- feedback: No hay actividad de escritura crítica; hay performance de lectura. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. La adaptación de Shakespeare al contexto de pandillas de Medellín demuestra que la estructura profunda de la tragedia (amor imposible entre miembros de grupos enemigos debido a un conflicto ancestral) es un arquetipo transferible. Genette denomina a esto hipertextualidad transformativa: el hipotexto (Shakespeare) proporciona la estructura que se adapta al nuevo contexto. El conflicto universal de групповой enemistad que impide el amor se manifiesta tanto en Verona como en el Bronx. Los distractores A, C y D ofrecen observaciones parciales o superficiales sobre el fenómeno.
+Cuando un texto incluye personajes que leen otros textos y los discuten, estos personajes funcionan como "lectores modelo" dentro de la obra, mostrando al receptor real (el espectador) cómo debe relacionarse con el intertexto. La profesora guía la interpretación colectiva.
 
 ---
 
-## Question 12 (Variant Advanced - Difficulty D7)
+## Question 12 (Variant Advanced - Difficulty 7)
 
 **ID:** `CO-LEC-11-P3-relaciones-intertextuales-049-MASTERY-v12`
-**Bloom:** Evaluate
-**ICFES:** Evaluar intención discursiva
-**Context:** Humor gráfico colombiano
+**Bloom:** Apply
+**ICFES:** Interpretar textualmente los sentidos de un texto y establecer relaciones entre este y otros textos o contextos.
+**Context:** Podcast literario bogotano
 
 ### Enunciado
-En una viñeta cómica delkartoonist colombiano Perryidh, se muestra al presidente de la República vestido de Super Mario, saltando sobre bloques mientras persigue monedas. La relación intertextual con el videojuego establece que el presidente:
+Un podcast sobre literatura colombiana discute cómo la obra de Tomás González modifica el final de "El coronel no tiene quien le escriba" de García Márquez. Mientras el original termina con el asesinato del coronel, en la reescritura de González el colonel recibe una carta misteriosa. Ellocutor concluye que González practiva una:
 
 ### Options
-- [ ] A) Está jugando videojuegos durante horas de trabajo <!-- feedback: la viñeta no hace una claim literal sobre las acciones del presidente -->
-- [ ] B) Persigue ilusoriamente la riqueza económica sin resolver los problemas estructurales del país, usando la metáfora del juego que nunca termina <!-- feedback: la crítica sugiere que las acciones del presidente son tan infructuosas como el juego infinito de Mario -->
-- [ ] C) Admira los videojuegos como forma de entretenimiento superior <!-- feedback: no hay admiración, sino crítica -->
-- [ ] D) Debería regulate mejor los videojuegos en Colombia <!-- feedback: la metáfora no se refiere a política de videojuegos -->
+- [ ] A) Adaptación cinematográfica porque cambió el medio expresivo.
+- [x] B) Transgresión genérica porque modifica el finale de un texto canónico. <!-- feedback: Al alterar el finale de una obra considerada intocable, González transgrede un pacto con el lector establecido por García Márquez. -->
+- [ ] C) Traducción porque pasó el texto a otro idioma.
+- [ ] D) Citación porque incluyó fragmentos textuales del original. <!-- feedback: No hay fragmentos textuales; hay modificaciones narrativas. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. La hipertextualidad en la viñeta es transformativa y crítica: Super Mario representa la búsqueda infinita de monedas (riqueza) sin un objetivo final claro, en contraste con la realidad del trabajo presidential que también puede percibirse como infinito y sin resolution clara de problemas fundamentales. El kartoonist utiliza la reconocibilidad del videojuego para crear una metáfora visual de crítica política. Los distractores A, C y D misinterpretan la naturaleza figurativa de la metáfora gráfica.
+La transgresión genérica ocurre cuando un autor modifica conscientemente elementos considerados sagrados de una obra canónica. En este caso, el final del coronel es uno de los momentos más icónicos de la literatura colombiana; modificarlo implica un diálogo crítico con la tradición.
 
 ---
 
-## Question 13 (Variant Advanced - Difficulty D7)
+## Question 13 (Variant Advanced - Difficulty 7)
 
 **ID:** `CO-LEC-11-P3-relaciones-intertextuales-049-MASTERY-v13`
-**Bloom:** Analyze
-**ICFES:** Interpretar elementos culturales
-**Context:** Novela histórica colombiana
+**Bloom:** Evaluate
+**ICFES:** Identificar relaciones entre elementos explícitos e implícitos en un texto y entre varios textos.
+**Context:** Teatro comunitario Medellín
 
 ### Enunciado
-En la novela *El general en su laberinto* de Gabriel García Márquez, el autor reescribe la vida de Simón Bolívar en sus últimos días, presentándolo como un hombre derrotado, sufriente y vulnerable. Esta reescritura establece una relación intertextual con los textos históricos tradicionales sobre el Libertador. ¿Qué efecto produce esta transformación?
+En una obra de teatro comunitario en el centro de Medellín, los actores usan teléfonos inteligentes mientras recitan versos del "Canto a la patria" de Porfirio Barba Jacob. La obra yuxtapone el poema patriótico con mensajes de texto actuales sobre la violencia urbana. Esta configuración intertextual busca:
 
 ### Options
-- [ ] A) Desmerece la figura histórica de Bolívar al mostrarlo vulnerable <!-- feedback: la intención no es demerecer, sino humanizar -->
-- [ ] B) Humaniza al personaje histórico al mostrar sus dimensiones vulnerables, transformando la narrativa épica tradicional en una exploración psicológica del poder y la derrota <!-- feedback: la transformación permite explorar dimensiones humanas que la narrativa épica tradicionales obvia -->
-- [ ] C)Replica los errores históricos de biografías anteriores <!-- feedback: no hay replica de errores, sino transformación consciente -->
-- [ ] D) Busca que los lectores odien a Bolívar <!-- feedback: no hay intención de generar odio -->
+- [ ] A) Actualizar el poema adaptándolo al lenguaje de los jóvenes.
+- [x] B) Establecer un contraste crítico entre la ideales patrióticos del poema y la realidad urbana contemporánea. <!-- feedback: La yuxtaposición genera significado por oposición; el poema dice algo diferente cuando se enfrenta a mensajes sobre violencia. -->
+- [ ] C) Demostrar que el poema está obsoleto y debe废弃arse.
+- [ ] D) Mezclar dos textos sin intención crítica. <!-- feedback: El contraste explícito indica intención de crítica social. -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. La hipertextualidad transformativa en la novela de García Márquez funciona como defamiliarización: al mostrar a Bolívar vulnerable, el texto rompe con la representación épica tradicional y permite al lector ver al personaje desde una perspectiva humana y psicológica. El contraste entre el Bolívar épico de la tradición y el Bolívar vulnerable de García Márquez genera una reflexión sobre el poder, la vejez y la derrota. Los distractores atribuyen intenciones moralizantes simplistas al texto (A, D) o confunden la transformación consciente con error (C).
+La yuxtaposición intertextual es un recurso donde dos textos se enfrentan para generar significado por contraste o complementación. Aquí, el poema patriótico funciona como espejo irónico de la realidad contemporánea, revelando una distancia entre el ideal y lo real.
 
 ---
 
-## Question 14 (Variant Advanced - Difficulty D8)
+## Question 14 (Variant Advanced - Difficulty 8)
 
 **ID:** `CO-LEC-11-P3-relaciones-intertextuales-049-MASTERY-v14`
-**Bloom:** Evaluate
-**ICFES:** Evaluar argumentos del texto
-**Context:** Crítica literaria colombiana
+**Bloom:** Analyze
+**ICFES:** Establecer relaciones de sentido entre textos de diferente naturaleza.
+**Context:** Novela gráfica colombiana
 
 ### Enunciado
-Un crítico literario de la revista *Semana* escribe: "La nouvelle *La喃喃细语* de Juan Pablo Reales necesita constantemente del eco de García Márquez para sostenerse, lo cual revela una debilidad creativa del autor". Esta afirmación valora la relación intertextual como:
+Una novela gráfica sobre la historia del conflicto armado colombiano presenta a una personaje llamada "Margarita la guerrillera" que recita fragmentos de los "Versos simples" de Darío. El lector puede notar que estos fragmentos corresponden a momentos donde el personaje enfrenta decisiones morales. Esta estrategia intertextual funciona como:
 
 ### Options
-- [ ] A) Un diálogo positivo que enriquece la tradición literaria colombiana <!-- feedback: el crítico hace una valoración negativa, no positiva -->
-- [ ] B) Una dependencia que impide que la nouvelle se sostenga por sí misma <!-- feedback: el crítico precisamente señala que la obra necesita del eco de García Márquez, lo que evidencia dependencia -->
-- [ ] C) Una estrategia comercial para vender más
+- [ ] A) Decoración del texto gráfico para hacerlo más culto.
+- [x] B) Articulación ética donde la poesía guía las decisiones del personaje. <!-- feedback: El texto establece que la poesía funciona como brújula moral para la personagem en momentos de crisis. -->
+- [ ] C) Autobiografía porque la autora también recita a Darío.
+- [ ] D) Parodia porque modifica los versos de Darío. <!-- feedback: No hay modificación del texto poético; es cita directa. -->
+
+### Explicación Pedagógica
+Cuando un texto otro (en este caso, poesía de Darío) se inserta en momentos clave de una narrativa para guiar las decisiones de un personaje, funciona como articulador ético. El lector entiende que la historia personal del personaje se define en relación con el legado cultural que representa la poesía.
+
+---
+
+## Question 15 (Variant Advanced - Difficulty 8)
+
+**ID:** `CO-LEC-11-P3-relaciones-intertextuales-049-MASTERY-v15`
+**Bloom:** Understand
+**ICFES:** Interpretar textualmente los sentidos de un texto y establecer relaciones entre este y otros textos o contextos.
+**Context:** Serie dramática RCN
+
+### Enunciado
+En una serie dramática de RCN, una familia paisa tiene discussions sobre política donde cada capítulo comienza con una frase de un libro diferente. El capítulo 12 muestra la ruptura familiar empieza con: "Los ríos no regresan a su fuente, como tampoco vuelven los hombres." Esta frase proviene del libro "El زمن" del escritor boyacense Héctorloop. La función de esta intertextualidad es:
+
+### Options
+- [ ] A) Mostrar erudición del personaje principal.
+- [ ] B) Destacar la belleza del lenguaje deLoop.
+- [x] B) Destacar la belleza del lenguaje deLoop. <!-- feedback: La cita funciona comoMC (gancho temático) que establece el tono emocional del capítulo: irreversibilidad de la ruptura. -->
+- [ ] C) Indicar queLoop es familiar del personaje.
+- [ ] D) Advertir sobre una inundación en la trama. <!-- feedback: El sentido es metafórico, no literal. -->
+
+### Explicación Pedagógica
+En el contexto de una serie dramática, la cita inicial funciona como umbral oMc (gancho) que prepara emocionalmente al espectador. La irreversibilidad de los ríos y los hombres establece la premisa del capítulo: lo que se rompe no puede volver a unirse.
+
+---
+
+## Question 16 (Variant Advanced - Difficulty 8)
+
+**ID:** `CO-LEC-11-P3-relaciones-intertextuales-049-MASTERY-v16`
+**Bloom:** Evaluate
+**ICFES:** Evaluar estrategias argumentativas y discursivas en un texto.
+**Context:** Crítica literaria en revista Semana
+
+### Enunciado
+Un crítico literario en Semana analiza cómo la novela "El译者" de un autor cartagenero actual reescribe el "Ulises" de Joyce, substituting Dublín por Cartagena y a Leopold Bloom por un vendedor de mangos en el mercado de Bazurto. El crítico concluye que esta es una clara transposición. El concepto de transposición implica:
+
+### Options
+- [ ] A) Copia fiel del texto original cambiar solo los nombres.
+- [x] B) Traslado de la estructura narrativa a un contexto cultural diferente conservando las relaciones fundamentales. <!-- feedback: La transposición lleva las conexiones entre personajes y el arcs narrativo a un entorno diferente, no hace una copia. -->
+- [ ] C) Traducción literal del irlandés al español.
+- [ ] D) Parodia humorística del texto original. <!-- feedback: Si fuera parodia, habría intención cómica explícita; aquí hay respeto por la estructura. -->
+
+### Explicación Pedagógica
+La transposición (o hipertextualidad trasformadora) implica tomar la arquitectura profunda de una obra (relaciones entre personajes, estructuras narrativas) y colocarla en un contexto radicalmente diferente. En este caso, la soledad de Bloom en Dublín se convierte en la soledad del vendedor de mangos en Cartagena.
+
+---
+
+## Question 17 (Variant Master

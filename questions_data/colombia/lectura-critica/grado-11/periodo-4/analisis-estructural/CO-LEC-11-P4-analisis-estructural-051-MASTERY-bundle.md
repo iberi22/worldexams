@@ -1,28 +1,80 @@
 <think>
-The user wants me to generate exactly 20 ICFES-style multiple choice questions for Colombian Saber 11 exam, specifically for "Lectura Crítica" (Critical Reading), topic "análisis-estructural" (structural analysis), grade 11, period 4.
+The user wants me to generate exactly 20 multiple-choice questions in ICFES Saber 11 format for Colombian state exam, specifically for "Lectura Crítica" (Critical Reading) on the topic "análisis-estructural" (structural analysis), grade 11, period 4.
 
-Let me follow the exact format requested:
+I need to follow these rules:
+1. Progressive difficulty: D3-D4 (questions 1-4), D5-D6 (5-10), D7-D8 (11-16), D9-D10 (17-20)
+2. Plausible distractors: real errors Colombian students make
+3. ICFES alignment: real Saber 11 exam style
+4. Modern Colombian context
+5. 4 mandatory options, [x] on the correct one
+6. No "all of the above" or "none of the above"
 
-1. First, a YAML frontmatter with metadata
-2. Then 20 questions, each with:
-   - Question number with variant and difficulty level
-   - ID
-   - Bloom level
-   - ICFES competency
-   - Context
-   - Statement (enunciado)
-   - 4 options (A, B, C, D) with [x] on correct answer
-   - Explanation (explicación pedagógica)
+I need to output ONLY the markdown content (YAML frontmatter + 20 questions), no additional text before or after.
 
-Difficulty progression:
-- Questions 1-4: D3-D4 (basic)
-- Questions 5-10: D5-D6 (intermediate)
-- Questions 11-16: D7-D8 (advanced)
-- Questions 17-20: D9-D10 (mastery)
+Let me create this bundle starting from bundle_index 51.
 
-Topic: Structural Analysis (Análisis-estructural) - This involves understanding how texts are organized, how arguments are built, identifying narrative structures, cause-effect relationships, compare-contrast structures, problem-solution, etc.
+For Critical Reading - Structural Analysis, I need to focus on:
+- Identifying text structure (narrative, argumentative, descriptive, expositive, dialogical)
+- Recognizing organizational patterns (cause-effect, problem-solution, chronological, compare-contrast)
+- Analyzing how structure contributes to meaning
+- Identifying cohesive devices and their function
+- Recognizing narrative techniques (flashback, foreshadowing, in medias res)
+- Analyzing discourse markers and their role in coherence
 
-Let me create 20 questions following all the rules and making them culturally relevant to Colombia.
+Let me create 20 questions with the proper format:
+
+Format:
+---
+id: "CO-LEC-11-P4-analisis-estructural-051-MASTERY"
+country: "colombia"
+grado: 11
+asignatura: "lectura-critica"
+tema: "analisis-estructural"
+periodo: 4
+protocol_version: "5.1"
+bundle_size: 20
+bundle_index: 51
+alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
+
+
+generation:
+  agent: "minimax-m2.7"
+  model: "minimax/MiniMax-M2.7"
+  timestamp: "2026-04-16T02:20:24.948122"
+  prompt_version: "v2-direct"
+quality_status: "UNREVISED"
+generation_status: "RAW"
+needs_human_review: true
+curation:
+  human_review_required: true
+  human_reviewed: false
+  agent_curated: false
+  community_curated: false
+  community_curation_count: 0
+license: "CC BY-NC-SA 4.0"
+open_source: false
+---
+
+## Question N (Variant Basic - Difficulty X)
+
+**ID:** `CO-LEC-11-P4-analisis-estructural-051-MASTERY-vN`
+**Bloom:** [Remember|Understand|Apply|Analyze|Evaluate|Create]
+**ICFES:** [Competencia ICFES específica]
+**Context:** [Contexto moderno relevante para Colombia]
+
+### Enunciado
+[Pregunta clara y completa]
+
+### Options
+- [ ] A) [Opción incorrecta]
+- [ ] B) [Opción incorrecta]
+- [x] C) [Opción CORRECTA] <!-- feedback: razón por la cual es correcta -->
+- [ ] D) [Opción incorrecta] <!-- feedback: razón por la cual es incorrecta -->
+
+### Explicación Pedagógica
+[Explicación de por qué la respuesta es correcta y por qué los distractores son plausibles]
+
+Now I'll structure the questions with appropriate difficulty progression and authentic ICFES styling, ensuring each has clear pedagogical rationale and plausible distractors based on common Colombian student errors.
 
 </think>
 
@@ -40,7 +92,7 @@ alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
 generation:
   agent: "minimax-m2.7"
   model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T17:57:49.309633"
+  timestamp: "2026-04-16T02:20:24.948122"
   prompt_version: "v2-direct"
 quality_status: "UNREVISED"
 generation_status: "RAW"
@@ -59,20 +111,21 @@ open_source: false
 
 **ID:** `CO-LEC-11-P4-analisis-estructural-051-MASTERY-v1`
 **Bloom:** Understand
-**ICFES:** Identifica estructuras textuales básicas
-**Context:** Artículo sobre economía naranja en Colombia
+**ICFES:** Comprensión textual - Identificación de estructuras básicas
+**Context:** Contexto cultural colombiano - Lectura sobre tradiciones vallenatas
 
 ### Enunciado
-En el texto se presenta una estructura donde primero se define qué es la economía naranja, luego se列举an ejemplos de industrias que la conforman y finalmente se mencionan datos de crecimiento. ¿Qué tipo de estructura textual predomina en el fragmento?
+El siguiente texto presenta una estructura narrativa. Identifique el elemento que define esta organización:
 
-### Options
-- [ ] A) Problema-solución, porque presenta una situación y luego su respuesta
-- [ ] B) Secuencial-temporal, porque sigue un orden cronológico de eventos
-- [x] C) Definición-ejemplificación, porque parte de un concepto general y lo ilustra con casos <!-- feedback: La estructura presenta primero una definición seguida de ejemplos concretos que la respaldan -->
-- [ ] D) Comparación-contraste, porque analiza similitudes y diferencias entre conceptos
+"En el pueblo de Valledupar, los grandparents mantenían viva la tradición del vallenato. Cada diciembre, los acordeones salían de sus cajas mientras las historias de los mayores se tejían con las melodías."
+
+- [ ] A) Predominio de funciones del lenguaje centradas en el emisor
+- [x] B) Secuencia temporal que sigue un orden cronológico de datos <!-- feedback: La estructura presenta una organización cronológica/simple secuencial donde los eventos se desarrollan en un orden natural desde el pueblo hasta la tradición y luego la práctica mensual -->
+- [ ] C) Exposición de argumentos que defienden una tesis central
+- [ ] D) Descripción detallada de características sin relación jerárquica
 
 ### Explicación Pedagógica
-La respuesta correcta es C porque el texto sigue el patrón de introducir un concepto (economía naranja) y luego reforzarlo con ejemplos específicos (industrias creativas, artesanías, diseño). El error común es confundir ejemplificación con secuencialidad temporal, ya que los ejemplos no representan eventos cronológicos sino instancias de un mismo concepto.
+La respuesta correcta es B porque el texto presenta una organización secuencial simple donde se expone una situación inicial (el pueblo), una tradición (los grandparents), y una práctica cíclica (cada diciembre). Esta estructura es típica de textos narrativos-descriptivos. Los distractores A y C corresponden a funciones del lenguaje y estructuras argumentativas respectivamente, categorías no aplicables a este texto. El distractor D podría confundirse con una descripción, pero la presencia de verbos en pasado indica secuencia temporal.
 
 ---
 
@@ -80,104 +133,105 @@ La respuesta correcta es C porque el texto sigue el patrón de introducir un con
 
 **ID:** `CO-LEC-11-P4-analisis-estructural-051-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Reconoce la intención comunicativa según la estructura del texto
-**Context:** Editorial de un periódico bogotano sobre migración venezolana
+**ICFES:** Comprensión textual - Reconocimiento de marcadores discursivos
+**Context:** Contexto educativo colombiano - Artículo sobre educación rural
 
 ### Enunciado
-El siguiente fragmento corresponde a la sección de opinión de un diario nacional: "Los flujos migratorios no son un fenómeno nuevo en nuestra historia. Desde los conflictos armados de los años cincuenta hasta la crisis centroamericana de los años noventa, Colombia ha sido receptora y emissora de poblaciones desplazadas." ¿Qué estructura predomina en este párrafo inicial?
+En el texto: "Los estudiantes del Chocó primero aprenden sobre los ecosistemas acuáticos; **además**, estudian los terrestres; **finalmente**, realizan trabajo de campo", ¿qué función cumple el marcador "además"?
 
-### Options
-- [ ] A) Descripción, porque detalla características de un fenómeno
-- [ ] B) Narración, porque cuenta eventos en orden cronológico
-- [x] C) Contextualización histórica, porque utiliza hitos temporales para situar el problema <!-- feedback: Los referentes temporales (años cincuenta, años noventa) funcionan como marcadores que anclan el tema en la historia colombiana -->
-- [ ] D) Argumentación, porque presenta una tesis con evidencias
+- [ ] A) Establece una relación de contraste entre las ideas
+- [x] B) Indica adición y progresión en el desarrollo temático <!-- feedback: El marcador "además" funciona como conectivo aditivo que suma información y establece progresión en la exposición de temas educativos -->
+- [ ] C) Introduce una idea que contradice lo anterior
+- [ ] D) Señala una relación de causa-consecuencia
 
 ### Explicación Pedagógica
-La respuesta correcta es C. El párrafo utiliza marcadores temporales específicos para establecer un marco histórico antes de desarrollar el tema central. Muchos estudiantes confunden esta estructura con narración simple, pero la diferencia radica en que aquí los eventos históricos sirven como antecedentes contextualizadores, no como el contenido principal del texto.
+La respuesta correcta es B. El marcador "además" cumple una función aditiva en la estructura del texto, agregando información que se suma a lo ya presentado (ecosistemas acuáticos) y avanzando hacia el siguiente elemento (terrestres). Los estudiantes frecuentemente confunden los marcadores aditivos con otros tipos de relaciones: el distractor A corresponde a marcadores de contraste (pero, sin embargo), el C a adversativos, y D a marcadores causales (porque, por lo tanto).
 
 ---
 
 ## Question 3 (Variant Basic - Difficulty D4)
 
 **ID:** `CO-LEC-11-P4-analisis-estructural-051-MASTERY-v3`
-**Bloom:** Understand
-**ICFES:** Identifica relaciones causales explícitas en textos informativos
-**Context:** Reportaje sobre erosión costera en el Caribe colombiano
+**Bloom:** Apply
+**ICFES:** Comprensión textual - Clasificación de estructuras textuales
+**Context:** Contexto social colombiano - Editorial sobre migración venezolana
 
 ### Enunciado
-En un reportaje sobre la erosión en el Caribe colombiano, el periodista escribe: "Las construcciones ilegales en la zona de dunas han acelerado el proceso de erosión costera en Santa Marta. Como consecuencia, las playas que antes medían cincuenta metros hoy apenas alcanzan quince." ¿Qué relación estructural establece el autor entre las oraciones?
+Identifique el tipo de estructura textual que predomina en el siguiente fragmento:
 
-### Options
-- [ ] A) Contraste, porque oposición entre el pasado y el presente
-- [ ] B) Agregación, porque suma información sin relación jerárquica
-- [x] C) Causalidad, porque establece que las construcciones son la causa de la erosión <!-- feedback: La expresión "como consecuencia" explicitly link the constructions to the erosion, establishing a cause-effect relationship -->
-- [ ] D) Secuencialidad, porque enumera eventos en orden cronológico
+"**Por un lado**, la migración venezolana ha generado presiones sobre los servicios de salud en Cúcuta. **Por otro lado**, muchos profesionales venezolanos han contribué a fortalecer el tejido económico de la ciudad. **En conclusión**, se requiere una política integral que contemple ambos aspectos."
+
+- [ ] A) Narrativa
+- [ ] B) Descriptiva
+- [x] C) Argumentativa con estructura contrastiva <!-- feedback: El texto presenta una estructura argumentativa que utiliza marcadores de contraste (por un lado/por otro lado) para exponer dos perspectivas opuestas antes de llegar a una conclusión -->
+- [ ] D) Expositiva secuencial
 
 ### Explicación Pedagógica
-La respuesta correcta es C. El conector "como consecuencia" es un marcador explícito de relación causal. El error frecuente es seleccionar Agregación, ya que los estudiantes tienden a interpretar cualquier conexión entre oraciones como simple adición de información, sin distinguir jerarquías causales.
+La respuesta correcta es C. El texto utiliza una estructura argumentativa contrastiva, presentando dos posiciones opuestas (presiones vs. beneficios) mediante marcadores discursivos específicos. El uso de "por un lado/por otro lado" indica la intención del autor decontrastar ideas antes de ofrecer una síntesis en la conclusión. Los estudiantes frecuentemente confunden esta estructura con la expositiva simple, pero la presencia de marcadores contrastivos y una tesis de cierre diferencian la estructura argumentativa.
 
 ---
 
 ## Question 4 (Variant Basic - Difficulty D4)
 
 **ID:** `CO-LEC-11-P4-analisis-estructural-051-MASTERY-v4`
-**Bloom:** Apply
-**ICFES:** Reconoce la función de los conectores en la organización textual
-**Context:** Artículo académico sobre educación bilingüe en哥伦比亚
+**Bloom:** Analyze
+**ICFES:** Pensamiento variacional - Análisis de organización textual
+**Context:** Contexto tecnológico colombiano - Artículo sobre trabajo remoto
 
 ### Enunciado
-En el artículo: "Si bien los programas de educación bilingüe han mostrado resultados positivos en zonas urbanas, **por otro lado**, en áreas rurales los indicadores de calidad siguen siendo preocupantes." ¿Qué función cumple el conector "por otro lado" en la estructura argumentativa?
+En el texto: "El trabajo remoto en Bogotá presenta ventajas como la flexibilidad horaria. **Sin embargo**, también implica desafíos como el aislamiento profesional. **No obstante**, estas dificultades pueden mitigarse con políticas adecuadas.", ¿qué tipo de relación textual predomina?
 
-### Options
-- [ ] A) Introducir un ejemplo que confirma la idea anterior
-- [x] B) Presentar un contraargumento o perspectiva opuesta <!-- feedback: "Por otro lado" funciona como marcador de contraste que introduce una perspectiva opuesta al argumento inicial -->
-- [ ] C) Agregar información que refuerza la misma tesis
-- [ ] D) Concluir el argumento presentado anteriormente
+- [ ] A) Aditiva
+- [x] B) Adversativa con potencial resolución <!-- feedback: Los marcadores "sin embargo" y "no obstante" establecen relaciones adversativas donde se presenta un problema seguido de una posible solución, estructurando el texto de manera problemática-resolutiva -->
+- [ ] C) Causal
+- [ ] D) Temporal
 
 ### Explicación Pedagógica
-La respuesta correcta es B. El conector "por otro lado" indica que el autor cambiará de perspectiva o presentará un aspecto contrastante. En estructuras argumentativas, esto típicamente introduce un contraargumento. El error común es confundirlo con un conectivo de adición, pero su función específica es señalar cambio de perspectiva.
+La respuesta correcta es B. La secuencia "sin embargo" (presenta problema) + "no obstante" (sugiere solución) conforma una estructura adversativa con resolución progresiva. Los marcadores adversativos indican que el autor está contrapunteando perspectivas: mientras la estructura adversativa simple solo presentaría la tensión, aquí se añade un movimiento hacia la resolución. Los distractores: A corresponde a marcadores como "además", C a "porque/por lo tanto", y D a "primero/luego/entonces".
 
 ---
 
 ## Question 5 (Variant Basic - Difficulty D5)
 
 **ID:** `CO-LEC-11-P4-analisis-estructural-051-MASTERY-v5`
-**Bloom:** Apply
-**ICFES:** Analiza cómo la organización textual apoya la intención del autor
-**Context:** Ensayo sobre留守儿童现象 en zonas mineras de Antioquia
+**Bloom:** Understand
+**ICFES:** Comprensión textual - Análisis de elementos cohesivos
+**Context:** Contexto económico colombiano - Reportaje sobre emprendimiento en Medellín
 
 ### Enunciado
-El siguiente texto presenta primero testimonios de niños que quedaron al cuidado de abuelos, luego datos estadísticos sobre rendimiento escolar, y finalmente la opinión de expertos en desarrollo infantil. Si la intención del autor fuera minimizar el impacto del fenómeno, ¿qué cambio estructural sería más efectivo?
+En el siguiente fragmento, identifique la función del conector resaltado:
 
-### Options
-- [ ] A) Invertir el orden para comenzar con los datos estadísticos
-- [ ] B) Eliminar los testimonios y dejar solo los datos
-- [x] C) Situar los testimonios al final y los datos estadísticos al inicio <!-- feedback: Al colocar los datos objetivos primero se crea una impresión de objetividad que contextualiza los testimonios personales, reduciendo su impacto emocional -->
-- [ ] D) Mantener la estructura actual porque es la más efectiva
+"Los jóvenes paisas han desarrollado iniciativas de emprendimiento tecnológico. **Este fenómeno** se explica por la presencia de incubadoras y la cultura empresarial de la región."
+
+- [ ] A) Conectar dos oraciones sin relación semántica
+- [x] B) Establecer cohesión mediante referencia anafórica <!-- feedback: "Este fenómeno" funciona como elemento catafórico que retoma y sintetiza el contenido del primer enunciado (iniciativas de emprendimiento), estableciendo cohesión текстовая -->
+- [ ] C) Introducir una idea nueva completamente desconectada
+- [ ] D) Indicar una relación de subordinación entre oraciones
 
 ### Explicación Pedagógica
-La respuesta correcta es C. En una estructura persuasiva, el orden influye en la percepción del lector. Comenzar con datos "objetivos" (estadísticas) crea un marco interpretativo que contextualiza los testimonios posteriores, haciendo que estos parezcan ilustraciones de un problema ya demostrado estadísticamente, en lugar de testimonios que revelen el problema. Muchos estudiantes no consideran cómo la posición de los elementos afecta el impacto persuasivo.
+La respuesta correcta es B. El término "Este fenómeno" cumple una función cohesiva anafórica (desde el final hacia el inicio del texto) al referirse al contenido del enunciado anterior. Este tipo de mecanismo de cohesión es fundamental en textos argumentativos y expositivos para mantener coherencia. Los estudiantes frecuentemente no identifican las referencias catafóricas/anafóricas como mecanismos de cohesión, confundiéndolas con conectores de otro tipo.
 
 ---
 
 ## Question 6 (Variant Basic - Difficulty D5)
 
 **ID:** `CO-LEC-11-P4-analisis-estructural-051-MASTERY-v6`
-**Bloom:** Analyze
-**ICFES:** Evalúa la coherencia estructural de un texto argumentativo
-**Context:** Carta al director sobre política habitacional en Medellín
+**Bloom:** Apply
+**ICFES:** Pensamiento sistémico - Identificación de patrones estructurales
+**Context:** Contexto ambiental colombiano - Informe sobre deforestación en la Amazonía
 
 ### Enunciado
-En una carta al director de un periódico de Medellín, el ciudadano escribe: 1) Los megaproyectos habitacionales han generado desplazamiento de comunidades tradicionales. 2) Es necesario construir más vivienda de interés social. 3) Los arquitectos deben priorizar el diseño bioclimático. 4) El modelo actual de desarrollo urbano beneficia solo a constructoras extranjeras. ¿Cuál es el problema estructural principal de esta secuencia argumentativa?
+¿Qué tipo de estructura predomina en el siguiente texto?
 
-### Options
-- [ ] A) Las afirmaciones son contradictorias entre sí
-- [ ] B) Faltan conectores de causa y efecto entre las ideas
-- [x] C) No hay progresión clara: salta de diagnóstico a soluciones sin establecer la conexión causal <!-- feedback: El texto pasa de un diagnóstico (desplazamiento) a propuestas inconexas (vivienda social, diseño bioclimático) sin establecer cómo esas soluciones abordan específicamente el problema mencionado -->
-- [ ] D) El orden cronológico no es el adecuado para el tipo de texto
+"**Primero**, la expansión de la frontera agrícola ha reducido la cobertura boscosa. **En segundo lugar**, la minería ilegal acelera la degradación de los suelos. **Como consecuencia**, la Biodiversidad disminuye exponencialmente. **Por lo tanto**, se requieren estrategias de conservación urgentes."
+
+- [ ] A) Descriptive并列
+- [x] B) Secuencial-causal con cierre resolutivo <!-- feedback: La estructura presenta una secuencia de causas que progresan hacia una consecuencia final, y termina con una propuesta de solución, lo cual corresponde a una estructura causal-resolutiva -->
+- [ ] C) Narrativa con protagonist
+- [ ] D) Comparativa entre dos fenómenos
 
 ### Explicación Pedagógica
-La respuesta correcta es C. El problema no es la contradicción (las ideas podrían ser compatibles) sino la falta de tránsito lógico. Para que haya coherencia argumentativa, el autor debería explicar cómo la vivienda social o el diseño bioclimático解决 el desplazamiento. Un error frecuente es identificar solo la falta de conectores como problema, sin considerar la necesidad de progresión lógica entre problema y solución.
+La respuesta correcta es B. El texto sigue un patrón secuencial-causal donde se enumerate multiple causes (expansión agrícola, minería) que llevan a una consecuencia (pérdida de biodiversidad), culminating in a resolutive proposal (estrategias de conservación). Esta estructura es común en informes técnicos y textos de opinión. El distractor A podría confundir porque hay enumeración, pero esta no es arbitraria sino causalmente concatenada. La estructura narrativa (C) requiere personajes y eventos, y la comparativa (D) necesita al menos dos elementos enfrentados.
 
 ---
 
@@ -185,20 +239,19 @@ La respuesta correcta es C. El problema no es la contradicción (las ideas podr�
 
 **ID:** `CO-LEC-11-P4-analisis-estructural-051-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Identifica marcadores discursivos y su función estructural
-**Context:** Entrevista sobre crecimiento del turismo en Cartagena
+**ICFES:** Comprensión textual - Análisis de señales discursivas
+**Context:** Contexto urbano colombiano - Artículo sobre movilidad en Cartagena
 
 ### Enunciado
-En una entrevista sobre el impacto del turismo en Cartagena, la periodista utiliza marcadores como "en primer lugar", "posteriormente", "finalmente" y "en conclusión". ¿Qué tipo de estructura está siguiendo la entrevista?
+En el texto sobre movilidad en Cartagena, el autor emplea la siguiente organización: presentación del problema, causas identificadas, consecuencias descritas y posibles soluciones. ¿Qué tipo de estructura es esta?
 
-### Options
-- [ ] A) Comparativa, porque establecio similitudes entre situaciones
-- [x] B) Secuencial-expositiva, porque organiza la información en pasos ordenados <!-- feedback: Los marcadores temporales y de cierre indican una estructura que sigue un orden lógico de exposición, típico de textos que explican procesos o desarrollan argumentos de manera escalonada -->
-- [ ] C) Descriptiva, porque enumera características sin jerarquía
-- [ ] D) Dialógica, porque presenta diferentes perspectivas en conversación
+- [ ] A) Inductiva
+- [x] B) Problema-solución (problemática-resolutiva) <!-- feedback: La secuencia problema→causas→consecuencias→soluciones corresponde a la estructura problem-solution, común en textos periodísticos de análisis -->
+- [ ] C) Deductiva
+- [ ] D) Lineal simple
 
 ### Explicación Pedagógica
-La respuesta correcta es B. Los marcadores "en primer lugar", "posteriormente" y "finalmente" señalan una estructura secuencial, mientras que "en conclusión" indica cierre. Esta combinación es típica de exposiciones que siguen un orden lógico-progresivo. El error común es confundir estructura secuencial con estructura narrativa; en la exposición, la secuencia sigue una lógica argumentativa, no temporal.
+La respuesta correcta es B. La estructura problema-solución se caracteriza por identificar una situación problemática, analizar sus causas y consecuencias, y proponer alternativas de solución. Esta organización es frecuente en textos periodísticos de análisis social. Los estudiantes frecuentemente confunden las estructuras deductiva e inductiva: la deductiva parte de la tesis general hacia ejemplos particulares, mientras que la inductiva hace el proceso inverso.
 
 ---
 
@@ -206,20 +259,19 @@ La respuesta correcta es B. Los marcadores "en primer lugar", "posteriormente" y
 
 **ID:** `CO-LEC-11-P4-analisis-estructural-051-MASTERY-v8`
 **Bloom:** Analyze
-**ICFES:** Evalúa la función del subtítulo en la organización del texto
-**Context:** Reportaje sobre pesca artesanal en el Pacífico chocoano
+**ICFES:** Comprensión textual - Evaluación de coherencia textual
+**Context:** Contexto cultural colombiano - Reseña sobre teatro en Cali
 
 ### Enunciado
-Un reportaje sobre pesca artesanal en el Chocó tiene la siguiente estructura: Introducción con dati del IDEAM sobre sobrepesca, Sección 1: "Los rostros de la crisis" con testimonios de pescadores, Sección 2: "Alternativas de supervivencia" con historias de reconversión laboral, Conclusión: "Un futuro incierto" sin datos nuevos. ¿Cuál es la principal debilidad estructural del reportaje?
+En el texto: "La obra 'La Gota de Oro' comienza con los actores en silencio. **A continuación**, se escuchan los primeros acordes de música salsa. **Seguidamente**, el escenario se ilumina con tonos cálidos. **Este inicio** establece el ambiente festivo de la obra.", ¿qué tipo de marcadorpredomina y qué función cumple?
 
-### Options
-- [ ] A) La introducción debería incluir testimonios en lugar de datos
-- [x] B) La conclusión no ofrece cierre ni síntesis porque solo expresa incertidumbre sin proponer rutas de solución <!-- feedback: Una conclusión efectiva debería sintetizar los hallazgos y ofrecer perspectivas, no simplemente expresar estado emocional sin resolución -->
-- [ ] C) Las secciones están equilibradas en extensión y contenido
-- [ ] D) El orden de las secciones refleja una progresión lógica de diagnóstico a solución
+- [ ] A) Marcador adversativo - genera tensión argumentativa
+- [ ] B) Marcador causal - explica las razones del fenómeno descrito
+- [x] C) Marcador顺序 temporal - indica progresión cronológica de la secuencia dramática <!-- feedback: Los marcadores "a continuación", "seguidamente" y "este inicio" establecen una secuencia temporal que estructura el relato de los eventos en orden cronológico, creando cohesión narrativa -->
+- [ ] D) Marcador condicional - establece una hipótesis sobre la obra
 
 ### Explicación Pedagógica
-La respuesta correcta es B. Aunque la estructura tiene un orden (diagnóstico-testimonios-alternativas), la conclusión funciona solo como cierre emocional sin ofrecer síntesis ni perspectivas, lo cual debilita el texto periodístico. Un error frecuente es considerar que "un futuro incierto" es una conclusión válida cuando en realidad expresa ambigüedad sin resolver la pregunta planteada en la introducción.
+La respuesta correcta es C. Los marcadores "a continuación" y "seguidamente" son marcadores temporales que indican el orden cronológico de los eventos en la narrativa teatral. Además, "este inicio" funciona como referencia anafórica que sintetiza lo descrito. Los estudiantes frecuentemente confunden los marcadores temporales con los causales cuando hay relación semántica, pero la función primaria de estos conectores es ordenar temporalmente los eventos.
 
 ---
 
@@ -227,20 +279,19 @@ La respuesta correcta es B. Aunque la estructura tiene un orden (diagnóstico-te
 
 **ID:** `CO-LEC-11-P4-analisis-estructural-051-MASTERY-v9`
 **Bloom:** Analyze
-**ICFES:** Identifica抛掷结构 en textos informativos
-**Context:** Infografía sobre economia popular en Colombia
+**ICFES:** Pensamiento variacional - Interpretación de señales cohesionadoras
+**Context:** Contexto deportivo colombiano - Entrevista sobre el自行车 en Colombia
 
 ### Enunciado
-Una infografía del Dane presenta los siguientes datos: 1) Colombia tiene 2.7 millones de unidades de economía popular. 2) Estas generan el 40% del empleo nacional. 3) Solo el 15% accede a servicios financieros formales. 4) El gobierno lanzó un programa de inclusión financiera. ¿Qué estructura de información predomina en la infografía?
+En el texto: "Los recorridos por la Vía Parque los realizan tanto ciclistas profesionales **como** aficionados. **De hecho**, muchos de estos aficionados han desarrollado habilidades que los llevan a competir en categoria profesional. **Así**, el amateurismo se convierte en semillero de talentos.", ¿qué relación existe entre las ideas?
 
-### Options
-- [ ] A) Problema-solución, porque presenta datos del problema y luego la iniciativa del gobierno
-- [x] B) Presentación de datos con impacto diferenciado, porque los números no siguen un patrón cause-effect obvious <!-- feedback: Los datos se presentan como datos aislados que el lector debe interpretar, mientras que la mención del programa government parece añadida al final sin conexión directa con los datos previos -->
-- [ ] C) Secuencial cronológica, porque los datos representan evolución temporal
-- [ ] D) Comparación, porque contrapone sectores formales e informales
+- [ ] A) Relación de negación entre los elementos
+- [ ] B) Relación de duda o hipótesis sobre lo expuesto
+- [x] C) Relación de reafirmación y consecuencia progresiva <!-- feedback: "De hecho" reitera y refuerza lo presentado en la primera oración, mientras "así" introduce una consecuencia que resulta de la situación descrita, estableciendo una progresión argumentativa -->
+- [ ] D) Relación de temporalidad cronológica pura
 
 ### Explicación Pedagógica
-La respuesta correcta es B. La infografía presenta datos descriptivos sin establecer explícitamente relaciones causales entre ellos. La mención del programa gubernamental aparece como un añadido sin que se explique cómo解决ará específicamente los problemas mencionados (solo 15% acceso financiero). El error común es forzar una interpretación de problema-solución donde no existe suficiente conexión textual.
+La respuesta correcta es C. La estructura muestra cómo "de hecho" funciona como reafirmador que intensifica lo expuesto, mientras "así" introduce una consecuencia lógica que se deriva de la situ described. Esta combinación de reafirmación y progresión causal es común en textos argumentativos. Los estudiantes frecuentemente no reconocen los matices entre marcadores de énfasis y los clasifican como meros aditivos, perdiendo la riqueza argumentativa del texto.
 
 ---
 
@@ -248,20 +299,19 @@ La respuesta correcta es B. La infografía presenta datos descriptivos sin estab
 
 **ID:** `CO-LEC-11-P4-analisis-estructural-051-MASTERY-v10`
 **Bloom:** Evaluate
-**ICFES:** Evalúa la efectividad de estrategias textuales para persuade
-**Context:** Editorial sobre fracking en la Orinoquía
+**ICFES:** Comprensión textual - Evaluación de estructuras textuales
+**Context:** Contexto histórico colombiano - Texto sobre la independencia en Cartagena
 
 ### Enunciado
-Un editorial que busca detener el fracking en la Orinoquía presenta la siguiente secuencia: A) Datos de sismos en Estados Unidos vinculados a fracturación hidráulica. B) Testimonio de agricultor que perdió sembradio por temblor. C) Entrevista a geólogo que explica mecanismo de los sismos. D) Información sobre licencias ambientales otorgadas. E) Cierre emotivo: "El territorio está temblando, literalmente." ¿Cuál es el principal recurso estructural utilizado?
+El texto presenta la siguiente organización: primero se describe el contexto colonial de Cartagena; luego se explican las tensiones internas entre criollos y españoles peninsulares; después se narran los eventos del 11 de noviembre de 1810; finalmente se evalúan las consecuencias del movimiento independentista. ¿Cuál es la estructura predominante?
 
-### Options
-- [ ] A) estructuración lógica, porque presenta evidencias científicas
-- [ ] B) estructuración cronológica, porque sigue el orden de descubrimiento del problema
-- [x] C) estructuración emocional, porque acumula testimonios y datos hacia un cierre emotivo <!-- feedback: El texto construye un crescendo emocional que culmina en el juego de palabras del cierre, apelando más a la emoción que a la razón -->
-- [ ] D) estructuración comparativa, porque contrapone dos modelos de desarrollo
+- [x] A) Cronológica con reflexión analítica al cierre <!-- feedback: La estructura sigue un orden cronológico (contexto→tensiones→evento→consecuencias) pero incorpora un elemento analítico-reflexivo en la evaluación final, lo que la convierte en una estructura mixta cronológico-analítica -->
+- [ ] B) Puramente cronológica sin análisis
+- [ ] C) Argumentativa con tesis central explícita
+- [ ] D) Descriptiva con enumeración de características
 
 ### Explicación Pedagógica
-La respuesta correcta es C. El editorial acumula recursos (datos, testimonio, experto, información legal) hacia un cierre que utiliza un juego de palabras ("temblando literalmente" vs "temblando figurativamente") para generar impacto emocional. Esta es una estructura de acumulación persuasiva. El error frecuente es confundir la presencia de datos técnicos con estructuración lógica; aquí los datos sirven al propósito emocional, no al相反.
+La respuesta correcta es A. La presencia del orden cronológico es evidente, pero la inclusión de la evaluación final (analizar consecuencias) introduce un componente reflexivo que transforma la estructura de meramente cronológica a cronológico-analítica. Esta estructura mixta es común en textos históricos académicos. Los estudiantes tienden a encasillar las estructuras en categorías puras, sin reconocer los textos que combinan elementos de diferentes tipos.
 
 ---
 
@@ -269,83 +319,84 @@ La respuesta correcta es C. El editorial acumula recursos (datos, testimonio, ex
 
 **ID:** `CO-LEC-11-P4-analisis-estructural-051-MASTERY-v11`
 **Bloom:** Analyze
-**ICFES:** Analiza cómo la estructura desarrolla el propósito comunicativo
-**Context:** Crítica de cine sobre nueva película colombiana
+**ICFES:** Pensamiento sistémico - Análisis de coherencia global
+**Context:** Contexto social colombiano - Artículo de opinión sobre violencia en Buenaventura
 
 ### Enunciado
-Una crítica cinematográfica sobre una película colombiana de suspenso presenta primero la sinopsis del filme, luego un resumen de la trayectoria del director, después un análisis de las técnicas cinematográficas utilizadas, y finalmente una comparación con otras películas del género en Latinoamérica. ¿Qué estructura predomina y con qué propósito?
+En el siguiente texto, identifique la estrategia estructural que permite al autor establecer su posición:
 
-### Options
-- [ ] A) Estructura descriptiva, para informar al lector sobre los elementos del filme
-- [ ] B) Estructura narrativa, para contar la historia del cine colombiano
-- [x] C) Estructura analítica con propósito evaluativo, porque examina componentes para formular un juicio de valor <!-- feedback: La presencia de análisis técnico y comparación con otras películas indica que el propósito va más allá de describir: busca evaluar y posicionar la obra -->
-- [ ] D) Estructura persuasiva, porque busca que el lector asista a la película
+"**Si bien** la violencia en Buenaventura ha disminuido un 15% según estadísticas oficiales, **es necesario reconocer** que muchas comunidades siguen afectadas por el conflicto. **Frente a este panorama**, las autoridades deben implementar programas de reconciliación comunitaria. **De lo contrario**, los avances将被摧毁."
+
+- [ ] A) Estructura meramente expositiva sin postura clara
+- [x] B) Estructura argumentativa con marcador de oposición y propuesta resolutiva <!-- feedback: El texto utiliza "si bien" para introducir un reconocimiento parcial (disminución), seguido de una oposición mediante "es necesario reconocer", y cierra con una propuesta ("frente a este panorama") y una advertencia condicional ("de lo contrario"), configurando una estructura argumentativa completa -->
+- [ ] C) Estructura descriptiva organizada por áreas geográficas
+- [ ] D) Estructura narrativa con protagonista colectivo
 
 ### Explicación Pedagógica
-La respuesta correcta es C. Aunque la sinopsis es descriptiva, la inclusión de análisis técnico y comparaciones revela un propósito evaluativo. La estructura no es meramente descriptiva porque no se limita a enumerar características, sino que establece criterios (comparación con otras películas) para formular un juicio. Un error común es clasificar cualquier texto crítico como "persuasivo" sin reconocer la diferencia entre evaluar y persuadir.
+La respuesta correcta es B. La estructura argumentativa se identifica por: 1) reconocimiento parcial del adversario (si bien), 2) establecimiento de la postura del autor (es necesario reconocer), 3) propuesta de acción (frente a este panorama), y 4) consecuencia de no actuar (de lo contrario). Esta secuencia constituye un esquema argumentativo completo con premisa, tesis, propuesta y advertencia. Los estudiantes frecuentemente confunden la estructura argumentativa con la expositiva cuando no identifican los marcadores valorativos.
 
 ---
 
 ## Question 12 (Variant Basic - Difficulty D7)
 
 **ID:** `CO-LEC-11-P4-analisis-estructural-051-MASTERY-v12`
-**Bloom:** Evaluate
-**ICFES:** Evalúa la coherencia entre estructura y propósito comunicativo
-**Context:** Ensayo académico sobre cambio climático en los Andes
+**Bloom:** Analyze
+**ICFES:** Comprensión textual - Análisis de funciones discursivas
+**Context:** Contexto económico colombiano - Editorial sobre economía naranja en Barranquilla
 
 ### Enunciado
-Un ensayo académico sobre el impacto del cambio climático en los glaciares andinos presenta: 1) Revisión de literatura científica sobre retroceso glacial. 2) Metodología del estudio realizado por el autor. 3) Resultados propios con datos originales. 4) Conclusiones que incluyen propuestas de política pública. ¿Cuál es la debilidad estructural más notable?
+En el texto: "La economía creativa en Barranquilla ha generado 50.000 empleos en el último año. **Esta cifra** representa un aumento del 20% respecto a la vigencia anterior. **Tal crecimiento** se atribuye principalmente al impulso del sector audiovisual y las artesanías.",
+¿qué tipo de recurso cohesionador predomina y qué función tiene?
 
-### Options
-- [x] A) Las conclusiones saltan de lo académico (resultados) a lo político (propuestas de política) sin establecer puente argumentativo <!-- feedback: Mientras que es válido que un ensayo tenga recomendaciones, estas deben derivarse lógicamente de los resultados; aquí no hay conexión explícita entre datos y propuestas -->
-- [ ] B) El orden de las secciones no sigue el formato IMRyD establecido
-- [ ] C) Falta una sección de discusión que interprete los resultados
-- [ ] D) La revisión de literatura debería estar al final para contrastar con las conclusiones
+- [ ] A) Conector lógico que establece relación de causa-efecto
+- [x] B) Referencia dêctica/anafórica que sintetiza información previa <!-- feedback: Las expresiones "esta cifra" y "tal crecimiento" funcionan como elementos dêicticos-anfóricos que retoman y sintetizan la información cuantitativa del enunciado anterior, funcion作為 cohesionante textual -->
+- [ ] C) Marcador temporal que indica sucesión de eventos
+- [ ] D) Recurso estilístico sin función textual cohesiva
 
 ### Explicación Pedagógica
-La respuesta correcta es A. Aunque las propuestas de política pública pueden ser parte de un ensayo, la transición de resultados empíricos a recomendaciones de política requiere un puente argumentativo explícito. Sin este, las propuestas parecen forzadas o desconectadas de la evidencia presentada. El error frecuente es aceptar recomendaciones sin evaluar si están fundamentadas en los datos del trabajo.
+La respuesta correcta es B. Las expresiones "esta cifra" y "tal crecimiento" funcionan como elementos dêicticos contextuales que retoman y sintetizan los datos numéricos anteriores, sirviendo como mecanismo de cohesión. Este tipo de recurso es típico en textos informativos y académicos donde se manejan datos específicos. Los estudiantes frecuentemente no identifican estos elementos como mecanismos cohesivos porque no son conectores en sentido estricto, sino sustituciones léxicas que permiten evitar repeticiones.
 
 ---
 
 ## Question 13 (Variant Basic - Difficulty D7)
 
 **ID:** `CO-LEC-11-P4-analisis-estructural-051-MASTERY-v13`
-**Bloom:** Apply
-**ICFES:** Identifica estrategias de骗子 en textos argumentativos
-**Context:** Articulo de opinión sobre reformas a la salud en Colombia
+**Bloom:** Evaluate
+**ICFES:** Pensamiento crítico - Evaluación de organización textual
+**Context:** Contexto político colombiano - Artículo sobre descentralización en municipios de Nariño
 
 ### Enunciado
-En un artículo de opinión sobre la reforma a la salud, el autor presenta: primero, datos sobre mortalidad infantil en Colombia comparados con países de la Ocde; segundo, testimonios de pacientes que no recibieron atención oportuna; tercero, una explicación del modelo de salud vigente; y cuarto, la afirmación "esto demuestra que el sistema está fallando". ¿Qué estrategia estructural utiliza el autor para construir su argumento?
+El autor de un texto sobre descentralización municipal presenta primero los argumentos a favor de la autonomía local, luego presenta los argumentos en contra, y finalmente expone su propia posición equilibrando ambos lados. ¿Qué estructura sigue este texto?
 
-### Options
-- [ ] A) Construcción de premisas independientes que se acumulan sin relación
-- [x] B) Establecimiento de un marco de referencia sesgado que condiciona la interpretación de los testimonios <!-- feedback: Los datos comparativos funcionan como marco evaluativo que establece un estándar contra el cual se juzga la realidad colombiana, condicionando la lectura de los testimonios posteriores -->
-- [ ] C) Secuencia lógica que parte de lo particular a lo general
-- [ ] D) Estructura circular que retorna al punto inicial
+- [x] A) Estructura dialógica con cierre epistémico <!-- feedback: La organización presenta dos perspectivas opuestas (a favor/en contra) en diálogo, y concluye con una posición que surge del contraste, lo que constituye una estructura dialógica con resolución epistémica del autor -->
+- [ ] B) Estructura inductiva que parte de casos hacia la conclusión
+- [ ] C) Estructura deductiva que parte de la tesis hacia los ejemplos
+- [ ] D) Estructura cronológica que sigue el orden de los eventos históricos
 
 ### Explicación Pedagógica
-La respuesta correcta es B. El autor utiliza los datos comparativos como un "marco" que establece qué es "normal" o "aceptable", y luego utiliza los testimonios para ilustrar cómo Colombia no cumple ese estándar. El problema es que la comparación puede ser sesgada (países de la Ocde tienen contextos muy diferentes). Un error frecuente es creer que acumular datos y testimonios automáticamente construye un argumento lógico, sin considerar cómo el orden crea marcos interpretativos.
+La respuesta correcta es A. La estructura dialógica se caracteriza por presentar dos o más posiciones en contraste, creando un espacio de debate argumentativo. El cierre epistémico ocurre cuando el autor construye su propia posición a partir del análisis de las perspectivas enfrentadas. Este tipo de estructura es común en textos académicos y de opinión. Los estudiantes frecuentemente confunden la estructura dialógica con la argumentativa simple, sin reconocer que en la dialógica hay una interacción real entre perspectivas opuestas.
 
 ---
 
 ## Question 14 (Variant Basic - Difficulty D8)
 
 **ID:** `CO-LEC-11-P4-analisis-estructural-051-MASTERY-v14`
-**Bloom:** Evaluate
-**ICFES:** Evalúa la validez de las conexiones causales en textos expositivos
-**Context:** Artículo sobre inseguridad alimentaria en La Guajira
+**Bloom:** Create
+**ICFES:** Pensamiento sistémico - Síntesis de patrones estructurales
+**Context:** Contexto científico colombiano - Artículo sobre investigación en la Universidad Nacional
 
 ### Enunciado
-Un artículo sobre inseguridad alimentaria en La Guajira afirma: "El cambio climático ha causado migraciones desde zonas rurales a Riohacha, lo cual ha aumentado la demanda de alimentos, por lo tanto, los precios han subido, y como resultado las familias más pobres sufren hambre." ¿Cuál es el problema estructural en esta cadena causal?
+Analice el siguiente texto y determine qué tipo de estructura predomina:
 
-### Options
-- [x] A) Cada eslabón de la cadena requiere justificación independiente; el texto asume conexiones sin demostrararlas <!-- feedback: La cadena causal salta de migración a precios sin explicar el mecanismo (¿por qué aumenta la demanda?, ¿no hay oferta?), ni por qué prices lead to hunger for specific families -->
-- [ ] B) Faltan conectores de adición entre las oraciones
-- [ ] C) El cambio climático no puede vincularse a la migración
-- [ ] D) La estructura因果al es correcta pero los datos son falsos
+"La investigación sobre secuestro de carbono en los páramos de Boyacá arroja resultados significativos. **En efecto**, los ecosistemas de alta montaña almacenan mayores cantidades de CO2 que los bosques tropicales. **No obstante**, estos resultados deben interpretarse con cautela porque **por un lado** la muestra analizada es limitada, **por otro lado** las condiciones climáticas están cambiando rápidamente."
+
+- [ ] A) Estructura expositiva lineal sin matices
+- [x] B) Estructura argumentativa con matiz precaución epistémica <!-- feedback: El texto presenta una утверждение inicial (resultados significativos), lo refuerza con evidencia (en efecto), pero luego introduce matices cautelares usando marcadores de oposición y contraste (no obstante, por un lado, por otro lado), mostrando una estructura argumentativa con gestión de incertidumbre -->
+- [ ] C) Estructura narrativa de proceso investigativo
+- [ ] D) Estructura descriptiva de características del ecosistema
 
 ### Explicación Pedagógica
-La respuesta correcta es A. Cada conexión en una cadena causal debe ser justificada: ¿cómo exactamente el cambio climático causa migración? ¿Por qué la migración aumenta la demanda de alimentos en Riohacha? ¿Por qué prices subirían? ¿Por qué especificamente las familias más pobres suffer? El error frecuente es aceptar cadenas causales por tener muchos eslabones, sin evaluar si cada uno está fundamentado.
+La respuesta correcta es B. La estructura argumentativa con matiz precaución epistémica se caracteriza por presentar una утверждение backed by evidence, pero inmediatamente introducir cautelas y limitaciones mediante marcadores de oposición. Este tipo de estructura es típico en textos científicos donde se reconoce la complejidad de los fenómenos. Los estudiantes frecuentemente no reconocen las estructuras argumentativas complejas que incluyen matices y cautelas, clasificándolas erroneous como expositivas.
 
 ---
 
@@ -353,42 +404,12 @@ La respuesta correcta es A. Cada conexión en una cadena causal debe ser justifi
 
 **ID:** `CO-LEC-11-P4-analisis-estructural-051-MASTERY-v15`
 **Bloom:** Analyze
-**ICFES:** Analiza la función de los espacios textuales en la construcción de significado
-**Context:** Crónica sobre vida en la calle en Bogotá
+**ICFES:** Comprensión textual - Análisis de funciones textuales
+**Context:** Contexto filosófico colombiano - Ensayo sobre el pensamiento de Estanislao Zuleta
 
 ### Enunciado
-Una crónica sobre personas en situación de calle en Bogotá tiene la siguiente estructura: Primero, un párrafo extenso que describe un día en la vida de una mujer(vendedora informal; después, un segundo párrafo breve que presenta datos de laids sobre habitantes de calle en la capital; después, otro párrafo extenso con el testimonio de la misma mujer; y cierra con un párrafo de solo dos líneas: "Los números son fríaos. Ella lo sabe." ¿Qué efecto busca la estructura con los espacios (extensión de párrafos)?
+En el siguiente fragmento, identifique la relación estructural entre las premisas y la conclusión:
 
-### Options
-- [ ] A) Equilibrar la información emocional con datos objetivos para dar objectivity
-- [x] B) Crear un contraste donde los datos parezcan insuficientes frente a la vida contada, y la frase final funcione como讽喻 de la objetividad冷淡 <!-- feedback: Los párrafos extensos dan profundidad humana mientras los datos quedan reducidos a un espacio breve, y la frase final sugiere que la mujer es consciente de ser un número más -->
-- [ ] C) Mostrar que los testimonios son más importantes que las estadísticas
-- [ ] D) Generar confusión en el lector para producir reflexión
+"Para Estanislao Zuleta, el pensamiento crítico requiere la capacidad de tolerate la incertidumbre. **En primer lugar**, cuestionarse las certezas propias es fundamental. **En segundo lugar**, escuchar al diferente permite ampliar la perspectiva. **Por lo tanto**, la formación del pensamiento crítico implica reconocer los límites del conocimiento."
 
-### Explicación Pedagógica
-La respuesta correcta es B. La estructura deliberada de espacios (extenso-breve-extenso-breve) no es arbitraria: el espacio reducido para los datos crea una jerarquía implícita donde la vida de la persona ocupa más "espacio textual" que las estadísticas. La frase final actúa como讽喻: la mujer sabe que para el sistema ella es solo un número frío. Un error frecuente es pensar que la diferencia de extensión es descuido del autor, cuando en textos literarios es recurso deliberado.
-
----
-
-## Question 16 (Variant Basic - Difficulty D8)
-
-**ID:** `CO-LEC-11-P4-analisis-estructural-051-MASTERY-v16`
-**Bloom:** Evaluate
-**ICFES:** Evalúa la efectividad estructural de textos argumentativos
-**Context:** Debate sobre implementación de 5G en Colombia
-
-### Enunciado
-En un debate sobre la implementación de tecnología 5G en Colombia, un panelista sostiene: "Nosotros no podemos rechazar la tecnología porque eso sería volver al siglo XIX. Nuestra sociedad necesita avanzar con la innovación digital para ser competitiva." ¿Qué tipo de falacia estructural presenta este argumento?
-
-### Options
-- [ ] A) Falacia del hombre de paja, porque atribuyen al oponente una posición que no sostienen
-- [x] B) Falso dilema, porque presenta solo dos opciones (retroceso o avance tecnológico) sin considerar alternativas intermedias <!-- feedback: El argumento fuerza una disyuntiva que simplifica la realidad: acepta tecnología 5G o vuelve al siglo XIX. Omite opciones como regulación, implementación gradual, o evaluación de impactos -->
-- [ ] C) Apelación a la tradición, porque justifica el avance por ser moderno
-- [ ] D) Argumento circular, porque repite la misma idea con diferentes palabras
-
-### Explicación Pedagógica
-La respuesta correcta es B. El argumento establece un falso dilema: o se acepta el 5G sin más ("avanzar") o se rechaza la tecnología ("volver al siglo XIX"). Esta estructura omite deliberadamente alternativas como una implementación regulada, estudios de impacto, o fases de prueba. El error frecuente es confundir esta falacia con apelación a la modernidad, pero el problema estructural específico es la limitación artificial de opciones.
-
----
-
-## Question 17
+- [x] A) Relación deductiva donde las premisas sostienen la conclusión <!-- feedback: La estructura sigue un patrón deductivo donde las premisas (cuestionarse, escuchar) funcionan como fundamentos que sostienen logically la conclusión (formación del pensamiento crítico), estableciendo una

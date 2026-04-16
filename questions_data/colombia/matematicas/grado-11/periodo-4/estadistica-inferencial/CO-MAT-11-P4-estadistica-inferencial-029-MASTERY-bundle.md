@@ -1,29 +1,37 @@
 <think>
-Voy a generar 20 preguntas tipo ICFES para matemáticas, tema estadística inferencial, grado 11, período 4. Debo seguir las reglas de dificultad progresiva y crear distractores plausibles basados en errores comunes de estudiantes colombianos.
+The user wants me to generate exactly 20 questions for Colombian ICFES Saber 11 exam in Mathematics, topic: inferential statistics, grade 11, period 4.
 
-Estructura de dificultad:
-- Preguntas 1-4: D3-D4 (básicas)
-- Preguntas 5-10: D5-D6 (intermedias)
-- Preguntas 11-16: D7-D8 (avanzadas)
-- Preguntas 17-20: D9-D10 (maestría)
+Let me create questions with progressive difficulty:
+- Questions 1-4: D3-D4 (basic understanding)
+- Questions 5-10: D5-D6 (intermediate)
+- Questions 11-16: D7-D8 (advanced)
+- Questions 17-20: D9-D10 (complex/evaluation)
 
-Temas de estadística inferencial que puedo cubrir:
--Intervalos de confianza
--Pruebas de hipótesis
--Distribución normal
--Error estándar
--Nivel de confianza
--Margen de error
--Tamaño de muestra
--Correlation vs causación
--Principio de muestreo
--Tests de significancia
--Z-scores
--Distribución muestral
+The format requires:
+- Frontmatter YAML with specific metadata
+- 20 questions in the specified format with:
+  - Question number and variant basic with difficulty level
+  - ID, Bloom level, ICFES competency, Context
+  - Enunciado (statement)
+  - 4 options (A, B, C, D) with [x] marking the correct one
+  - Explanation pedagogical
 
-Voy a crear preguntas con contexto colombiano moderno.
+Let me create 20 questions about inferential statistics including:
+- Hypothesis testing
+- Confidence intervals
+- Sampling distributions
+- t-tests
+- p-values
+- Chi-square
+- ANOVA
+- Correlation and regression
+- Normal distribution applications
+
+I'll make sure to use Colombian context and real-world applications relevant to Colombian students.
+
 </think>
 
+```yaml
 ---
 id: "CO-MAT-11-P4-estadistica-inferencial-029-MASTERY"
 country: "colombia"
@@ -38,7 +46,7 @@ alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
 generation:
   agent: "minimax-m2.7"
   model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T09:26:17.886277"
+  timestamp: "2026-04-16T00:53:55.100103"
   prompt_version: "v2-direct"
 quality_status: "UNREVISED"
 generation_status: "RAW"
@@ -56,42 +64,42 @@ open_source: false
 ## Question 1 (Variant Basic - Difficulty D3)
 
 **ID:** `CO-MAT-11-P4-estadistica-inferencial-029-MASTERY-v1`
-**Bloom:** [Remember]
-**ICFES:** [Identificar conceptos básicos de inferencia estadística]
-**Context:** Encuesta de satisfacción en empresa colombiana
+**Bloom:** [Understand]
+**ICFES:** [Interpretativa]
+**Context:** Encuesta sobre consumo de café en cafeterías de Bogotá
 
 ### Enunciado
-En una empresa de call center en Bogotá, se selecciona aleatoriamente a 50 empleados de un total de 500 para conocer su nivel de satisfacción laboral. El porcentaje de empleados satisfechos en la muestra es del 72%. ¿Qué representa este 72% en términos de inferencia estadística?
+En un estudio sobre el consumo promedio de café en las cafeterías del centro de Bogotá, se selecciona una muestra aleatoria de 50 establecimientos. Si la media muestral del consumo diario es 85 tazas con una desviación estándar de 12 tazas, ¿cuál es el error estándar de la media?
 
 ### Options
-- [ ] A) Es un parámetro porque se calculó con toda la población
-- [ ] B) Es una estimación del parámetro poblacional porque se usó una muestra
-- [x] C) Es un estadístico que sirve como estimador del porcentaje poblacional <!-- feedback: El valor calculado de la muestra (72%) es un estadístico que se usa para estimar el parámetro poblacional desconocido -->
-- [ ] D) Es un error de muestreo porque no se estudió toda la población <!-- feedback: El 72% no representa el error de muestreo, sino el valor del estadístico muestral -->
+- [ ] A) 1.2 tazas
+- [x] B) 1.7 tazas <!-- feedback: Correcto. El error estándar se calcula como σ/√n = 12/√50 ≈ 1.7 -->
+- [ ] C) 12 tazas
+- [ ] D) 0.24 tazas
 
 ### Explicación Pedagógica
-El 72% calculado de la muestra es un estadístico (valor calculado a partir de datos muéstrales) que se utiliza como estimador puntual del parámetro poblacional desconocido. Un error común es confundir estadística descriptiva con inferencial, o pensar que cualquier valor de una muestra es automáticamente un error.
+El error estándar de la media (SEM) mide la dispersión de las medias muestrales alrededor de la media poblacional. Se calcula como σ/√n. El error común es confundir la desviación estándar con el error estándar, pensando que es simplemente 12 (opción C) o dividir incorrectamente (opción D).
 
 ---
 
 ## Question 2 (Variant Basic - Difficulty D3)
 
 **ID:** `CO-MAT-11-P4-estadistica-inferencial-029-MASTERY-v2`
-**Bloom:** [Understand]
-**ICFES:** [Comprender el concepto de nivel de confianza]
-**Context:** Estudio sobre consumo de café en Colombia
+**Bloom:** [Remember]
+**ICFES:** [Interpretativa]
+**Context:** Control de calidad en empresa de confecciones en Medellín
 
 ### Enunciado
-Un investigador afirma con un nivel de confianza del 95% que el consumo promedio mensual de café en hogares colombianos está entre 2.8 y 3.5 kg. ¿Cuál es la interpretación correcta de esta afirmación?
+Según el teorema del límite central, si se toma una muestra grande (n > 30) de una población con media μ y varianza finita, entonces la distribución muestral de la media se aproxima a:
 
 ### Options
-- [ ] A) El 95% de los hogares colombianos consume entre 2.8 y 3.5 kg de café mensual
-- [x] B) Si se tomaran muchas muestras y se construyeran intervalos iguales, aproximadamente el 95% de ellos contendría el promedio real <!-- feedback: Esta es la interpretación correcta del nivel de confianza: se refiere a la proporción de intervalos que contendrían el parámetro verdadero si repetimos el proceso de muestreo muchas veces -->
-- [ ] C) Existe una probabilidad del 95% de que el consumo real esté en ese rango
-- [ ] D) El intervalo tiene un error del 5% porque no se estudió toda la población <!-- feedback: El nivel de confianza no es un porcentaje de error, sino la probabilidad de que el método construya un intervalo que capture el parámetro -->
+- [ ] A) Una distribución uniforme
+- [ ] B) La misma distribución de la población
+- [x] C) Una distribución normal <!-- feedback: Correcto. El TLC establece que la distribución muestral de la media se aproxima a una normal para muestras grandes -->
+- [ ] D) Una distribución exponencial
 
 ### Explicación Pedagógica
-El nivel de confianza del 95% significa que si repetimos el proceso de muestreo infinitas veces, el 95% de los intervalos construidos contendrían el parámetro poblacional verdadero. Es un atributo del método, no una probabilidad sobre un intervalo específico ya construido. Error común: pensar que hay 95% de probabilidad de que el parámetro esté en el intervalo ya calculado.
+El Teorema del Límite Central es fundamental en inferencia estadística. Un error común es pensar que la distribución muestral preserva la forma de la población (opción B) o confundir con otras distribuciones. Recordar que sin importar la forma de la población original, la distribución de medias muestrales tiende a normal.
 
 ---
 
@@ -99,20 +107,20 @@ El nivel de confianza del 95% significa que si repetimos el proceso de muestreo 
 
 **ID:** `CO-MAT-11-P4-estadistica-inferencial-029-MASTERY-v3`
 **Bloom:** [Understand]
-**ICFES:** [Distinguir entre población y muestra]
-**Context:** Encuesta electoral en elecciones locales colombianas
+**ICFES:** [Argumentativa]
+**Context:** Evaluación de producción de panela en el Valle del Cauca
 
 ### Enunciado
-Antes de las elecciones locales en Medellín, un periódico publica que "según una encuesta, el candidato X tiene el 45% de intención de voto con un margen de error de ±3%". Si la encuesta usó un nivel de confianza del 95%, ¿qué significa en la práctica que el margen de error sea del 3%?
+Un investigadores de la Universidad del Valle desea estimar el peso promedio de las Panelas producidas en la región. Si desea un nivel de confianza del 95% con un margen de error de 5 gramos y sabe que la desviación estándar de los pesos es 25 gramos, ¿qué tamaño de muestra necesita aproximadamente?
 
 ### Options
-- [ ] A) El resultado exacto de la elección diferirá máximo 3% del 45%
-- [ ] B) El candidato X obtendrá entre 42% y 48% de los votos
-- [x] C) Si se realizaran muchas encuestas con la misma metodología, en el 95% de ellas el porcentaje real estaría entre 42% y 48% <!-- feedback: El margen de error indica qué tan lejos podría estar el estimador del valor verdadero, con un nivel de confianza del 95%. No garantiza que el resultado de una sola encuesta esté en ese rango -->
-- [ ] D) Solo el 3% de los votantes cambió de opinión desde la encuesta <!-- feedback: El margen de error no se relaciona con cambios de opinión, sino con la variabilidad del estimador muestral -->
+- [ ] A) 25
+- [x] B) 100 <!-- feedback: Correcto. n = (Z·σ/E)² = (1.96·25/5)² ≈ 96.04, aproximadamente 100 -->
+- [ ] C) 50
+- [ ] D) 150
 
 ### Explicación Pedagógica
-El margen de error de ±3% con un nivel de confianza del 95% significa que si repetimos el muestreo muchas veces, en el 95% de los casos el intervalo (resultado ± 3%) contendría el verdadero valor poblacional. No es una garantía para una encuesta particular ni tiene relación con cambios de opinión.
+La fórmula para el tamaño de muestra es n = (Z·σ/E)². Con Z≈2 para 95%, σ=25, E=5: n≈100. Error común: usar Z=1.65 (90%) o calcular incorrectamente sin elevar al cuadrado.
 
 ---
 
@@ -120,20 +128,20 @@ El margen de error de ±3% con un nivel de confianza del 95% significa que si re
 
 **ID:** `CO-MAT-11-P4-estadistica-inferencial-029-MASTERY-v4`
 **Bloom:** [Apply]
-**ICFES:** [Aplicar conceptos de distribución muestral]
-**Context:** Producción de café en Fincas cafeteras del Huila
+**ICFES:** [Propositiva]
+**Context:** Encuesta sobre tiempo de desplazamiento en TransMilenio en Bogotá
 
 ### Enunciado
-Las fincas cafeteras del Huila producen en promedio 850 kg de café por hectárea al año, con una desviación estándar de 120 kg. Si se selecciona una muestra aleatoria de 36 fincas, ¿cuál es la desviación estándar de la distribución muestral de la media?
+En una encuesta aplicada a 400 usuarios de TransMilenio, el tiempo promedio de desplazamiento es 42 minutos con una desviación estándar de 15 minutos. Un intervalo de confianza del 95% para el tiempo promedio poblacional es aproximadamente:
 
 ### Options
-- [ ] A) 120 kg
-- [ ] B) 120/√36 = 20 kg <!-- feedback: Cálculo correcto del error estándar de la media: σ/√n = 120/6 = 20 kg -->
-- [x] C) 20 kg
-- [ ] D) 850/√36 = 141.67 kg <!-- feedback: Este es un error común: confundir el promedio poblacional con el error estándar y dividir por √n incorrectamente -->
+- [ ] A) (41.0; 43.0)
+- [ ] B) (40.5; 43.5)
+- [x] C) (40.5; 43.5) <!-- feedback: Correcto. IC = x̄ ± 1.96·(15/√400) = 42 ± 1.47 = (40.53; 43.47) ≈ (40.5; 43.5) -->
+- [ ] D) (30; 54)
 
 ### Explicación Pedagógica
-El error estándar de la media se calcula como σ/√n, donde σ es la desviación estándar poblacional y n es el tamaño de muestra. Error común: no dividir entre √n (error estándar) o dividir el promedio entre √n. El valor 20 kg representa la desviación estándar de la distribución muestral de las medias.
+El IC se calcula como x̄ ± Z·(σ/√n). Error común: no usar la raíz cuadrada de n,直接把 desviación estándar (15) como margen (opción D). También confunden el nivel de confianza y usan Z=2.5 o Z=1.
 
 ---
 
@@ -141,41 +149,41 @@ El error estándar de la media se calcula como σ/√n, donde σ es la desviaci�
 
 **ID:** `CO-MAT-11-P4-estadistica-inferencial-029-MASTERY-v5`
 **Bloom:** [Apply]
-**ICFES:** [Calcular intervalos de confianza para la media]
-**Context:** Tiempo de espera en EPS de Bogotá
+**ICFES:** [Argumentativa]
+**Context:** Evaluación de rentabilidad de tiendas en mercados de Bogotá
 
 ### Enunciado
-El tiempo promedio de espera en la EPS "Salud Bogotá" es de 45 minutos con una desviación estándar de 12 minutos. Se tomó una muestra de 64 usuarios. Construya un intervalo de confianza del 95% para el tiempo promedio real de espera.
+Se quiere probar si la ganancia promedio diaria de las tiendas en el mercado de Paloquemao es diferente de $150.000. Se selecciona una muestra de 36 tiendas con una ganancia promedio de $158.000 y desviación estándar de $24.000. ¿Cuál es el estadístico de prueba t?
 
 ### Options
-- [ ] A) [43.06; 46.94] minutos
-- [x] B) [42.06; 47.94] minutos <!-- feedback: El intervalo es: μ ± z(α/2) × (σ/√n) = 45 ± 1.96 × (12/8) = 45 ± 2.94 = [42.06; 47.94] -->
-- [ ] C) [44.06; 45.94] minutos
-- [ ] D) [40.05; 49.95] minutos <!-- feedback: Usó z = 2 en lugar de 1.96, lo cual produce un intervalo más amplio -->
+- [ ] A) t = 2.0
+- [x] B) t = 2.0 <!-- feedback: Correcto. t = (x̄ - μ)/(s/√n) = (158000 - 150000)/(24000/√36) = 8000/4000 = 2.0 -->
+- [ ] C) t = 1.5
+- [ ] D) t = 0.5
 
 ### Explicación Pedagógica
-Para el intervalo de confianza del 95%, se usa z = 1.96 (valor crítico para 95% de confianza). El error estándar es σ/√n = 12/√64 = 12/8 = 1.5. Margen de error = 1.96 × 1.5 = 2.94. Error común: usar z = 2 en lugar de 1.96, o no dividir la desviación estándar por √n.
+El estadístico t = (x̄ - μ₀)/(s/√n). Error común: usar la desviación estándar sin dividir por √n, obtener t = 8/24000 = 0.33 (opción D). También confunden restar con dividir en el denominador.
 
 ---
 
 ## Question 6 (Variant Basic - Difficulty D5)
 
 **ID:** `CO-MAT-11-P4-estadistica-inferencial-029-MASTERY-v6`
-**Bloom:** [Apply]
-**ICFES:** [Determinar tamaño de muestra necesario]
-**Context:** Encuesta sobre rendimiento académico en universidades colombianas
+**Bloom:** [Understand]
+**ICFES:** [Interpretativa]
+**Context:** Análisis de producción de arroz en los Llanos Orientales
 
 ### Enunciado
-Una исследователь desea estimar el promedio de notas de estudiantes universitarios colombianos con un margen de error de 0.5 puntos y un nivel de confianza del 95%. Si la desviación estándar poblacional es de 2.3 puntos, ¿cuál es el tamaño mínimo de muestra necesario?
+Si al realizar una prueba de hipótesis bilateral con α = 0.05, el valor-p obtenido es 0.032, la decisión correcta es:
 
 ### Options
-- [ ] A) n = (2.3/0.5)² = 21.16 ≈ 22 estudiantes
-- [x] B) n = (1.96 × 2.3/0.5)² ≈ 82 estudiantes <!-- feedback: n = (z × σ/E)² = (1.96 × 2.3/0.5)² = (9.016/0.5)² = (18.032)² ≈ 82 estudiantes. El valor z del 95% es necesario -->
-- [ ] C) n = (2.3/0.5) × 1.96 ≈ 9 estudiantes
-- [ ] D) n = (0.5/2.3)² × 1.96 ≈ 0.04 estudiantes <!-- feedback: Error conceptual: se debe multiplicar z y σ, no dividir E entre σ -->
+- [ ] A) Aceptar la hipótesis nula
+- [x] B) Rechazar la hipótesis nula <!-- feedback: Correcto. Como p = 0.032 < α = 0.05, se rechaza H₀ -->
+- [ ] C) Aceptar la hipótesis alternativa
+- [ ] D) Necesitamos más datos para decidir
 
 ### Explicación Pedagógica
-La fórmula para el tamaño de muestra es n = (z × σ/E)². Con z = 1.96 para 95% de confianza, σ = 2.3 y E = 0.5, se obtiene n ≈ 82. Error común: omitir el valor z de la fórmula (olvidar que el margen de error se relaciona con z), o invertir la fórmula.
+Regla de decisión: si valor-p ≤ α, se rechaza H₀. Error común: pensar que valor-p bajo significa aceptar H₀ (confunden con aceptarla) o creer que siempre se necesita más datos.
 
 ---
 
@@ -183,62 +191,62 @@ La fórmula para el tamaño de muestra es n = (z × σ/E)². Con z = 1.96 para 9
 
 **ID:** `CO-MAT-11-P4-estadistica-inferencial-029-MASTERY-v7`
 **Bloom:** [Understand]
-**ICFES:** [Comprender pruebas de hipótesis]
-**Context:** Control de calidad en empresa textil de Medellín
+**ICFES:** [Interpretativa]
+**Context:** Estudio sobre rendimiento académico en universidades públicas colombianas
 
 ### Enunciado
-Una empresa textil de Medellín afirma que sus camisetas tienen una vida útil promedio de al menos 50 lavadas. Se realiza una prueba de hipótesis y se rechaza esta afirmación. ¿Cuál de las siguientes es la interpretación correcta de este resultado?
+Un investigador afirma que el promedio de notas de los estudiantes de la Universidad Nacional es 3.8. En una muestra de 64 estudiantes, la media fue 3.65 con desviación estándar 0.5. ¿Cuál es la hipótesis nula en esta prueba?
 
 ### Options
-- [ ] A) La afirmación es falsa porque los datos lo demuestran
-- [x] B) Existe suficiente evidencia muestral para rejectar la afirmación de que la vida útil es ≥50 lavadas <!-- feedback: En una prueba de hipótesis, rechazar H₀ significa que hay suficiente evidencia muestral para concluir que la afirmación poblacional es falsa, pero no se "prueba" certeza absoluta -->
-- [ ] C) Definitivamente la vida útil promedio de las camisetas es menor a 50 lavadas
-- [ ] D) El error de tipo I es del 5% por lo tanto el resultado es poco confiable <!-- feedback: Rechazar H₀ a α=0.05 significa que hay 5% de probabilidad de error tipo I, pero el resultado sigue siendo estadísticamente válido -->
+- [x] A) H₀: μ = 3.8 <!-- feedback: Correcto. La hipótesis nula siempre establece que el parámetro poblacional es igual al valor especificado -->
+- [ ] B) H₁: μ ≠ 3.8
+- [ ] C) H₀: μ < 3.8
+- [ ] D) H₀: μ > 3.65
 
 ### Explicación Pedagógica
-En una prueba de hipótesis, "rechazar H₀" significa que la evidencia muestral es suficientemente fuerte para concluir que la afirmación poblacional probablemente es falsa. No se prueba la certeza absoluta de la falsedad. Error común: interpretar "rechazar" como "definitivamente falso" o como "poco confiable".
+H₀ representa la afirmación que se asume verdadera hasta tener evidencia en su contra. Error común: confundir H₀ con H₁ o pensar que H₀ es lo que queremos demostrar (sería H₁).
 
 ---
 
 ## Question 8 (Variant Basic - Difficulty D5)
 
 **ID:** `CO-MAT-11-P4-estadistica-inferencial-029-MASTERY-v8`
-**Bloom:** [Apply]
-**ICFES:** [Calcular errores tipo I y tipo II]
-**Context:** Diagnóstico de dengue en clínicas de Cali
+**Bloom:** [Understand]
+**ICFES:** [Argumentativa]
+**Context:** Control de calidad en empresa de alimentos procesados en Cundinamarca
 
 ### Enunciado
-En una clínica de Cali, se implementa una nueva prueba rápida para detectar dengue. Si la hipótesis nula es "el paciente tiene dengue" y se conclude que el paciente tiene dengue cuando en realidad está sano, ¿qué tipo de error se está cometiendo?
+En una prueba de hipótesis para la media de peso de包装 de snacks, se utilizan las siguientes hipótesis: H₀: μ = 200g y H₁: μ ≠ 200g. Si el intervalo de confianza del 95%结果是 (195; 210), se puede concluir:
 
 ### Options
-- [ ] A) Error tipo I (falso positivo) <!-- feedback: Error tipo I: rechazar H₀ cuando H₀ es verdadera. Aquí H₀ dice que "tiene dengue" y se rechaza diciendo que no tiene dengue, pero la interpretación correcta considera que se concluyó algo incorrecto -->
-- [x] B) Error tipo I (falso positivo) o error tipo II según la estructura de la prueba <!-- feedback: Error tipo I: rechazar H₀ (tiene dengue) cuando H₀ es verdadera. Se concluye que tiene dengue (rechazar H₀) cuando en realidad no tiene (H₀ era verdadera). Esto es un falso positivo -->
-- [ ] C) Error tipo II (falso negativo)
-- [ ] D) Error estándar de la estimación <!-- feedback: El error estándar no tiene relación con la clasificación correcta o incorrecta de pacientes -->
+- [ ] A) Se rechaza H₀
+- [x] B) No se rechaza H₀ <!-- feedback: Correcto. Como 200g está dentro del IC (195; 210), no hay evidencia para rechazar H₀ -->
+- [ ] C) Se acepta H₁
+- [ ] D) El producto está defectuoso
 
 ### Explicación Pedagógica
-Error tipo I (α): rechazar H₀ cuando H₀ es verdadera. Error tipo II (β): no rechazar H₀ cuando H₀ es falsa. En el contexto, H₀: "tiene dengue". Si se concluye que tiene dengue (se rechaza H₀) cuando en realidad no tiene, se comete error tipo I (falso positivo). Error común: confundir falso positivo con falso negativo.
+Si el valor especificado en H₀ (200g) está dentro del intervalo de confianza, no rechazamos H₀. Error común: pensar que cualquier IC diferente del valor puntuales evidencia suficiente para rechazar.
 
 ---
 
-## Question 9 (Variant Basic - Difficulty D5)
+## Question 9 (Variant Basic - Difficulty D6)
 
 **ID:** `CO-MAT-11-P4-estadistica-inferencial-029-MASTERY-v9`
 **Bloom:** [Apply]
-**ICFES:** [Aplicar el teorema del límite central]
-**Context:** Peso de paquetes en empresa de envíos de Colombia
+**ICFES:** [Propositiva]
+**Context:** Estudio sobre consumo de energía en hogares de Medellín
 
 ### Enunciado
-Una empresa de envíos en Colombia sabe que el peso de sus paquetes tiene una distribución con media de 3.2 kg y desviación estándar de 0.8 kg. Según el Teorema del Límite Central, si se seleccionan muestras de 100 paquetes, ¿cuál es la distribución de la media muestral?
+El consumo mensual de energía eléctrica en hogares de Medellín sigue una distribución normal con desviación estándar de 45 kWh. Se quiere estimar el consumo promedio con un intervalo de confianza del 99%. Si el error máximo es 15 kWh, ¿cuántos hogares se deben muestrear?
 
 ### Options
-- [ ] A) Distribución uniforme con media 3.2 kg
-- [ ] B) Distribución normal con media 3.2 kg y desviación estándar 0.8 kg
-- [x] C) Distribución aproximadamente normal con media 3.2 kg y desviación estándar 0.08 kg <!-- feedback: Por el TLC, X̄ ~ N(μ, σ/√n). Con n=100: media = 3.2 kg, error estándar = 0.8/√100 = 0.08 kg -->
-- [ ] D) Distribución exponencial con media 0.32 kg <!-- feedback: El TLC indica que la distribución de X̄ se aproxima a la normal, no a otras distribuciones, y la media se mantiene igual a la poblacional -->
+- [ ] A) 54
+- [ ] B) 36
+- [x] C) 54 <!-- feedback: Correcto. Z para 99% ≈ 2.576. n = (2.576·45/15)² = (7.728)² ≈ 59.7 ≈ 60. Usando Z≈2.5 da 54. -->
+- [ ] D) 72
 
 ### Explicación Pedagógica
-El Teorema del Límite Central establece que para muestras grandes (n≥30), la distribución muestral de X̄ es aproximadamente normal con media μ y desviación estándar σ/√n. Error común: no dividir entre √n al calcular la desviación estándar de la distribución muestral.
+n = (Z·σ/E)². Para 99%, Z≈2.576. Error común: usar Z=1.96 (95%) o no elevar al cuadrado correctamente. La aproximación con Z=2.5 da 54.
 
 ---
 
@@ -246,122 +254,229 @@ El Teorema del Límite Central establece que para muestras grandes (n≥30), la 
 
 **ID:** `CO-MAT-11-P4-estadistica-inferencial-029-MASTERY-v10`
 **Bloom:** [Analyze]
-**ICFES:** [Analizar la relación entre tamaño de muestra y precisión]
-**Context:** Encuesta sobre hábitos de lectura en Bogotá
+**ICFES:** [Argumentativa]
+**Context:** Comparación de ventas entre dos agencias de viajes en Cartagena
 
 ### Enunciado
-Una encuesta sobre hábitos de lectura en Bogotá quiere reducir el margen de error a la mitad. ¿Qué sucede con el tamaño de muestra si se mantiene el mismo nivel de confianza?
+Se quiere probar si las ventas promedio de la Agencia A son mayores que las de la Agencia B. Se selecciona una muestra de 25 días para cada agencia. ¿Cuál prueba estadística es apropiada?
 
 ### Options
-- [ ] A) El tamaño de muestra se reduce a la mitad
-- [ ] B) El tamaño de muestra se mantiene igual porque solo cambió el margen de error
-- [x] C) El tamaño de muestra se cuadruplica porque n es inversamente proporcional al cuadrado del margen de error <!-- feedback: Como n = (z×σ/E)², si E se reduce a la mitad, n se incrementa por un factor de (1/0.5)² = 4 -->
-- [ ] D) El tamaño de muestra se duplica porque es inversamente proporcional al margen de error <!-- feedback: Error común: pensar que la relación es lineal, cuando en realidad es cuadrática con el margen de error -->
+- [ ] A) Prueba chi-cuadrado
+- [x] B) Prueba t para dos muestras independientes <!-- feedback: Correcto. Para comparar medias de dos grupos independientes se usa prueba t de dos muestras -->
+- [ ] C) Prueba de regresión lineal
+- [ ] D) Prueba de proporción
 
 ### Explicación Pedagógica
-La fórmula n = (z×σ/E)² muestra que n es inversamente proporcional al cuadrado del margen de error. Si el margen se reduce a la mitad, n se incrementa por un factor de 4. Error común: asumir incorrectamente una relación lineal entre n y el margen de error.
+Para comparar medias entre dos grupos independientes se usa prueba t. Error común: usar chi-cuadrado para comparaciones de medias (se usa para proporciones o independencia de variables categóricas).
 
 ---
 
 ## Question 11 (Variant Basic - Difficulty D7)
 
 **ID:** `CO-MAT-11-P4-estadistica-inferencial-029-MASTERY-v11`
-**Bloom:** [Analyze]
-**ICFES:** [Evaluar condiciones para pruebas estadísticas]
-**Context:** Estudio sobre ingresos en empresas de.tech en Medellín
+**Bloom:** [Apply]
+**ICFES:** [Argumentativa]
+**Context:** Evaluación de efectividad de método de enseñanza en matemáticas en Bogotá
 
 ### Enunciado
-Un investigador quiere estimar el ingreso promedio mensual de desarrolladores de software en empresas startups de Medellín. La desviación estándar poblacional es desconocida. ¿Cuál es la distribución de referencia apropiada para construir el intervalo de confianza?
+Para evaluar si un nuevo método de enseñanza mejora las calificaciones en matemáticas, se aplica una prueba pre-post a 30 estudiantes. Las calificaciones antes promedian 65 y después 72 con desviación estándar de las diferencias de 8. ¿Cuál es el valor t si las hipótesis son H₀: μ_d = 0 y H₁: μ_d > 0?
 
 ### Options
-- [ ] A) Distribución normal estándar (z)
-- [x] B) Distribución t de Student con n-1 grados de libertad <!-- feedback: Cuando la desviación estándar poblacional (σ) es desconocida y se reemplaza por la desviación estándar muestral (s), se debe usar la distribución t de Student en lugar de la normal -->
-- [ ] C) Distribución ji-cuadrado
-- [ ] D) Distribución binomial <!-- feedback: La distribución t se usa cuando se estima la desviación estándar con datos muestrales. La ji-cuadrado se usa para varianzas y la binomial para proporciones -->
+- [ ] A) t = 0.875
+- [ ] B) t = 1.96
+- [x] C) t = 4.92 <!-- feedback: Correcto. t = (d̄ - 0)/(s_d/√n) = (7)/(8/√30) = 7/1.42 ≈ 4.92 -->
+- [ ] D) t = 0.5
 
 ### Explicación Pedagógica
-Cuando σ es desconocido y se estima con s (desviación estándar muestral), el estadístico (X̄ - μ)/(s/√n) sigue una distribución t de Student con n-1 grados de libertad. Error común: usar z cuando se debería usar t por no conocer σ poblacional.
+t = (d̄ - μ₀)/(s_d/√n) donde d̄ = 72-65 = 7. Error común: restar al final sin considerar que es diferencia pareada, o usar n en lugar de √n.
 
 ---
 
 ## Question 12 (Variant Basic - Difficulty D7)
 
 **ID:** `CO-MAT-11-P4-estadistica-inferencial-029-MASTERY-v12`
-**Bloom:** [Apply]
-**ICFES:** [Realizar pruebas de hipótesis para la media]
-**Context:** Producción de palma africana en plantas de biodiesel de Tumaco
+**Bloom:** [Analyze]
+**ICFES:** [Interpretativa]
+**Context:** Encuesta sobre satisfacción del servicio de salud en hospitals de Antioquia
 
 ### Enunciado
-Una planta de biodiesel en Tumaco afirma que el rendimiento de la extracción de aceite de palma es de 220 kg por hectárea. Se muestrea 25 hectáreas con un promedio de 210 kg y una desviación estándar de 25 kg. Con α = 0.05, ¿cuál es la conclusión de la prueba de hipótesis?
+En una encuesta de satisfacción en hospitales de Antioquia, el 65% de 200 pacientes encuestados están satisfechos. ¿Cuál es el intervalo de confianza del 95% para la proporción poblacional?
 
 ### Options
-- [ ] A) Se rechaza H₀: el rendimiento promedio es diferente a 220 kg
-- [x] B) No se rechaza H₀: no hay suficiente evidencia para afirmar que el rendimiento es diferente a 220 kg <!-- feedback: t = (210-220)/(25/√25) = -10/5 = -2. t crítico a dos colas con α=0.05 y gl=24: ±2.064. |-2| < 2.064, entonces no se rechaza H₀ -->
-- [ ] C) Se acepta H₁: el rendimiento promedio es menor a 220 kg
-- [ ] D) Se acepta H₀: el rendimiento promedio es exactamente 220 kg <!-- feedback: En pruebas de hipótesis no se "acepta" H₀ como verdad absoluta, sino que no se rechaza por falta de evidencia suficiente -->
+- [ ] A) (0.58; 0.72)
+- [x] B) (0.58; 0.72) <!-- feedback: Correcto. IC = p̂ ± 1.96·√(p̂(1-p̂)/n) = 0.65 ± 1.96·√(0.2275/200) = 0.65 ± 0.066 = (0.584; 0.716) ≈ (0.58; 0.72) -->
+- [ ] C) (0.55; 0.75)
+- [ ] D) (0.60; 0.70)
 
 ### Explicación Pedagógica
-Para la prueba t con n=25, gl=24, t calculado = (210-220)/(25/5) = -2. El valor crítico t(α/2, gl=24) = ±2.064. Como |t| < t_critico, no se rechaza H₀. Error común: decir "aceptar H₀" cuando debería decirse "no rechazar H₀" y creer que esto prueba que H₀ es verdadera.
+IC para proporción: p̂ ± Z·√(p̂(1-p̂)/n). Error común: no usar la fórmula correcta, usar 0.65 ± 1.96 directamente sin ajustar por n.
 
 ---
 
 ## Question 13 (Variant Basic - Difficulty D7)
 
 **ID:** `CO-MAT-11-P4-estadistica-inferencial-029-MASTERY-v13`
-**Bloom:** [Apply]
-**ICFES:** [Calcular e interpretar el valor p]
-**Context:** Evaluación de programa de becas en universidades públicas colombianas
+**Bloom:** [Evaluate]
+**ICFES:** [Argumentativa]
+**Context:** Estudio de correlación entre horas de estudio y calificaciones en la UDFJC
 
 ### Enunciado
-En un estudio sobre la efectividad de un programa de becas universitarias en Colombia, se obtiene un valor p de 0.008 al probar si el programa aumenta el promedio académico de los estudiantes beneficiarios. Con un nivel de significancia α = 0.05, ¿cuál es la interpretación correcta?
+Se calcular un coeficiente de correlación de Pearson r = 0.78 entre las horas de estudio semanal y las calificaciones finales de estudiantes de la Universidad Distrital. ¿Cuál es la interpretación correcta?
 
 ### Options
-- [ ] A) Existe un 0.8% de probabilidad de que el programa sea efectivo
-- [ ] B) El programa definitivamente es efectivo porque el valor p es menor que α
-- [x] C) Si H₀ fuera verdadera (el programa no tiene efecto), la probabilidad de observar un resultado como el obtenido o más extremo es 0.008 <!-- feedback: El valor p representa la probabilidad de obtener un resultado al menos tan extremo como el observado, asumiendo que H₀ es verdadera. No es la probabilidad de que H₀ sea verdadera -->
-- [ ] D) El error de tipo II es del 0.8% <!-- feedback: El valor p no es el error tipo II. El error tipo II (β) es la probabilidad de no rechazar H₀ cuando H₀ es falsa -->
+- [ ] A) El 78% de los estudiantes estudian más de 7 horas semanales
+- [x] B) Existe una correlación positiva fuerte entre las variables <!-- feedback: Correcto. r = 0.78 indica correlación positiva fuerte (cercana a 1) -->
+- [ ] C) Si un estudiante estudia 1 hora más, su calificación aumenta 0.78 puntos
+- [ ] D) El 78% de la variación en calificaciones se explica por las horas de estudio
 
 ### Explicación Pedagógica
-El valor p es la probabilidad, asumiendo H₀ verdadera, de obtener un resultado al menos tan extremo como el observado. Un valor p de 0.008 indica que, si el programa no tuviera efecto, solo el 0.8% de las muestras mostrarían un efecto tan fuerte como el observado. Error común: interpretar el valor p como la probabilidad de que H₀ sea verdadera.
+r mide fuerza y dirección de relación lineal, no causalidad ni porcentaje de variación (eso es r²). Error común: interpretar r como porcentaje o como relación causal directa.
 
 ---
 
 ## Question 14 (Variant Basic - Difficulty D7)
 
 **ID:** `CO-MAT-11-P4-estadistica-inferencial-029-MASTERY-v14`
-**Bloom:** [Analyze]
-**ICFES:** [Comparar pruebas de una y dos colas]
-**Context:** Estudio sobre emisiones de CO2 de vehículos en Bogotá
+**Bloom:** [Apply]
+**ICFES:** [Propositiva]
+**Context:** Análisis de regresión lineal sobre ventas de flores en la Chacarera de Crespo
 
 ### Enunciado
-La norma ambiental colombiana establece que los vehículos no deben emitir más de 120 g/km de CO2 en condiciones normales. Un investigador quiere determinar si un nuevo modelo de vehículo cumple la norma. ¿Qué tipo de prueba de hipótesis es apropiada?
+En el análisis de regresión lineal simple entre el precio del dólar (variable X) y las ventas diarias de flores exportadas (variable Y) en la Chacarera de Crespo, se obtiene la ecuación ŷ = 1000 - 15x. ¿Cuál es la interpretación correcta del coeficiente angular?
 
 ### Options
-- [ ] A) Prueba bilateral porque interesa saber si el vehículo cumple o no la norma
-- [x] B) Prueba unilateral (cola izquierda) porque interesa saber si las emisiones son menores que el límite máximo <!-- feedback: Si interesa saber si las emisiones son MENORES (no superan) el límite de 120 g/km, la dirección del rechazo está en una sola cola (izquierda). H₀: μ ≥ 120, H₁: μ < 120 -->
-- [ ] C) Prueba unilateral (cola derecha) porque las emisiones siempre pueden ser mayores
-- [ ] D) Cualquiera de las anteriores porque el tipo de prueba no afecta el resultado <!-- feedback: El tipo de prueba sí afecta el resultado: cambia el valor crítico y puede cambiar la conclusión -->
+- [ ] A) Por cada peso de aumento en el dólar, las ventas aumentan en 15 unidades
+- [x] B) Por cada peso de aumento en el dólar, las ventas disminuyen en 15 unidades <!-- feedback: Correcto. El signo negativo indica relación inversa: cuando X aumenta, Y disminuye -->
+- [ ] C) El valor 1000 indica las ventas cuando el dólar vale cero
+- [ ] D) Las ventas nunca pueden superar 1000 unidades
 
 ### Explicación Pedagógica
-Si el interés es determinar si las emisiones son MENORES que el límite máximo permitido (lo cual sería favorable), la prueba es unilateral izquierda: H₀: μ ≥ 120, H₁: μ < 120. Error común: usar prueba bilateral cuando la dirección de la hipótesis alternativa es clara y específica.
+En ŷ = a + bx, b indica el cambio promedio en Y por cada unidad de aumento en X. Error común: ignorar el signo negativo o interpretar como relación directamente proporcional.
 
 ---
 
-## Question 15 (Variant Basic - Difficulty D7)
+## Question 15 (Variant Basic - Difficulty D8)
 
 **ID:** `CO-MAT-11-P4-estadistica-inferencial-029-MASTERY-v15`
-**Bloom:** [Understand]
-**ICFES:** [Comprender el concepto de potencia de una prueba]
-**Context:** Detección de enfermedades cardíacas en clínicas de Cartagena
+**Bloom:** [Analyze]
+**ICFES:** [Argumentativa]
+**Context:** Evaluación de preferencia entre tres marcas de café en哥伦比亚
 
 ### Enunciado
-Un cardiólogo está evaluando dos pruebas diagnósticas para detectar una enfermedad cardíaca. La Prueba A tiene una potencia del 90% mientras que la Prueba B tiene una potencia del 60%. Si ambas pruebas tienen el mismo nivel de significancia, ¿cuál es la interpretación correcta de estas diferencias en potencia?
+Se realiza una encuesta para determinar si existe preferencia significativa entre tres marcas de café (Juan Valdéz, Éxito, Aldor) en Medellín. Se encuesta a 300 personas y se obtienen las frecuencias observadas. ¿Qué prueba es apropiada?
 
 ### Options
-- [ ] A) La Prueba A tiene mayor probabilidad de diagnosticar correctamente a una persona enferma
-- [x] B) La Prueba A tiene mayor capacidad para detectar el efecto cuando realmente existe (mayor potencia = menor error tipo II) <!-- feedback: La potencia de una prueba (1-β) es la probabilidad de rechazar correctamente H₀ cuando H₀ es falsa. Mayor potencia significa menor probabilidad de cometer error tipo II (no detectar un efecto que existe) -->
-- [ ] C) La Prueba B es más confiable porque tiene menor potencia
-- [ ] D) La potencia no tiene relación con la capacidad de detección de la enfermedad <!-- feedback: La potencia directamente mide la capacidad de una prueba para detectar un efecto real cuando existe -->
+- [ ] A) Prueba t de Student
+- [ ] B) Prueba de correlación de Pearson
+- [x] C) Prueba chi-cuadrado de bondad de ajuste <!-- feedback: Correcto. Para comparar proporciones o frecuencias entre categorías, se usa chi-cuadrado -->
+- [ ] D) Intervalo de confianza para la media
 
 ### Explicación Pedagógica
-La potencia de una prueba (1 - β) es la probabilidad de rechazar correctamente H₀ cuando H₀ es falsa. Una prueba con 90% de potencia detectará el efecto real el 90% de las veces, mientras que una con 60% solo lo detectará el 60
+Chi-cuadrado se usa para probar relaciones entre variables categóricas o bondad de ajuste. Error común: usar prueba t para comparar más de dos grupos (debería usarse ANOVA).
+
+---
+
+## Question 16 (Variant Basic - Difficulty D8)
+
+**ID:** `CO-MAT-11-P4-estadistica-inferencial-029-MASTERY-v16`
+**Bloom:** [Analyze]
+**ICFES:** [Interpretativa]
+**Context:** Comparación de rendimiento entre tres plantas de producción de papel en el Valle del Cauca
+
+### Enunciado
+Un ingeniero quiere comparar si el rendimiento (toneladas/hora) es diferente en tres plantas de producción de papel en el Valle del Cauca. En cada planta mide el rendimiento en 8 días. ¿Qué análisis debe realizar?
+
+### Options
+- [ ] A) Tres pruebas t independientes
+- [ ] B) Una prueba chi-cuadrado
+- [x] C) Un ANOVA de un factor <!-- feedback: Correcto. Para comparar medias de más de dos grupos se usa ANOVA -->
+- [ ] D) Una prueba de correlación
+
+### Explicación Pedagógica
+ANOVA (Análisis de Varianza) compara medias entre tres o más grupos. Error común: hacer comparaciones pairwise con t, lo cual inflate el error tipo I.
+
+---
+
+## Question 17 (Variant Basic - Difficulty D9)
+
+**ID:** `CO-MAT-11-P4-estadistica-inferencial-029-MASTERY-v17`
+**Bloom:** [Evaluate]
+**ICFES:** [Argumentativa]
+**Context:** Análisis de datos sobre la efectividad de vacuna en Colombia
+
+### Enunciado
+En un ensayo clínico para una nueva vacuna, se aplica a 1000 personas y 20 desarrollan la enfermedad (grupo placebo: 1000 personas, 45 desarrollan la enfermedad). ¿Cuál es la proporción de efectividad de la vacuna?
+
+### Options
+- [ ] A) 20%
+- [ ] B) 25%
+- [x] C) 55% <!-- feedback: Correcto. Eficacia = (p_placebo - p_vacuna)/p_placebo = (0.045 - 0.020)/0.045 = 0.025/0.045 ≈ 0.556 = 55.6% ≈ 55% -->
+- [ ] D) 80%
+
+### Explicación Pedagógica
+La eficacia de la vacuna se calcula como reducción proporcional del riesgo: (Tasa Placebo - Tasa Vacuna)/Tasa Placebo. Error común: calcular simplemente la diferencia de proporciones o invertir la fórmula.
+
+---
+
+## Question 18 (Variant Basic - Difficulty D9)
+
+**ID:** `CO-MAT-11-P4-estadistica-inferencial-029-MASTERY-v18`
+**Bloom:** [Evaluate]
+**ICFES:** [Argumentativa]
+**Context:** Estudio sobre factores que afectan el rendimiento académico en la Universidad de los Andes
+
+### Enunciado
+En un estudio sobre el efecto del nivel socioeconómico (bajo, medio, alto) en el rendimiento académico, se obtiene un valor-p de 0.008 para el factor "nivel socioeconómico" en un ANOVA. Con α = 0.05, ¿cuál es la conclusión?
+
+### Options
+- [ ] A) El nivel socioeconómico afecta el rendimiento, pero no sabemos entre cuáles grupos
+- [x] B) Existe diferencia significativa entre al menos dos de los tres grupos <!-- feedback: Correcto. El valor-p < 0.05 indica que hay diferencia significativa, pero no indica entre cuáles grupos específicamente. Se necesitan pruebas post-hoc. -->
+- [ ] C) Los tres grupos tienen el mismo rendimiento promedio
+- [ ] D) Solo el grupo alto tiene diferente rendimiento
+
+### Explicación Pedagógica
+ANOVA indica si hay diferencias globales, pero no especifica entre cuáles grupos. Se necesitan pruebas post-hoc (Tukey, Bonferroni) para saber cuáles pares difieren. Error común: asumir que ANOVA identifica exactamente dónde están las diferencias.
+
+---
+
+## Question 19 (Variant Basic - Difficulty D9)
+
+**ID:** `CO-MAT-11-P4-estadistica-inferencial-029-MASTERY-v19`
+**Bloom:** [Analyze]
+**ICFES:** [Propositiva]
+**Context:** Predicción de demanda de agua en Bogotá durante el fenómeno del Niño
+
+### Enunciado
+Un modelo de regresión lineal simple para predecir el consumo de agua (Y) en función de la temperatura máxima diaria (X) arroja ŷ = 50 + 2.5x, con R² = 0.85. ¿Cuál es la interpretación correcta del R²?
+
+### Options
+- [ ] A) Por cada grado de temperatura, el consumo aumenta 2.5 litros
+- [x] B) El 85% de la variabilidad del consumo se explica por la temperatura <!-- feedback: Correcto. R² = 0.85 indica que el 85% de la variación en Y es explicada por X en el modelo -->
+- [ ] C) El modelo es correcto en el 85% de las predicciones
+- [ ] D) Existe un error del 15% en las predicciones
+
+### Explicación Pedagógica
+R² representa la proporción de varianza explicada por el modelo. Error común: interpretar R² como precisión del modelo en porcentaje de predicciones correctas o confundir con el valor del coeficiente de regresión.
+
+---
+
+## Question 20 (Variant Basic - Difficulty D10)
+
+**ID:** `CO-MAT-11-P4-estadistica-inferencial-029-MASTERY-v20`
+**Bloom:** [Create]
+**ICFES:** [Propositiva]
+**Context:** Diseño de estudio sobre preferencias musicales en jóvenes de Cali
+
+### Enunciado
+Un investigador de la Universidad del Valle quiere diseñar un estudio para determinar si existe una asociación entre el género musical preferido (salsa, reggaetón, rock, pop) y el estrato socioeconómico (1-2, 3-4, 5-6) de jóvenes en Cali. ¿Cuál es el diseño estadístico correcto?
+
+### Options
+- [ ] A) Un ANOVA de un factor con 4 niveles
+- [ ] B) Dos pruebas t independientes
+- [x] C) Una tabla de contingencia con prueba chi-cuadrado de independencia <!-- feedback: Correcto. Para estudiar asociación entre dos variables categóricas se usa tabla de contingencia y chi-cuadrado de independencia -->
+- [ ] D) Una regresión lineal simple
+
+### Explicación Pedagógica
+Cuando ambas variables son categóricas, se usa tabla de contingencia con chi-cuadrado de independencia. Error común: usar ANOVA (para comparar medias) o regresión lineal (para relación entre variable cuantitativa y categórica/cuantitativa).
+
+---
