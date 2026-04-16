@@ -182,7 +182,7 @@
   <!-- ── Periodo activo ────────────────────────────────────────── -->
   {#if periodData}
     <div
-      class="p-4 rounded-2xl border"
+      class="p-4 rounded-2xl border text-center"
       style="background: {accentColor}10; border-color: {accentColor}30;"
       in:fly={{ y: 12, duration: 300, delay: 50 }}
     >
@@ -215,8 +215,8 @@
   {/if}
 
   <!-- ── Competencias ICFES ────────────────────────────────────── -->
-  <div in:fly={{ y: 12, duration: 300, delay: 100 }}>
-    <p class="text-[9px] font-black uppercase tracking-[0.2em] text-white/30 mb-2">
+  <div class="text-center" in:fly={{ y: 12, duration: 300, delay: 100 }}>
+    <p class="text-[9px] font-black uppercase tracking-[0.2em] text-white/30 mb-3">
       Competencias evaluadas — ICFES Saber
     </p>
     <div class="space-y-2">
@@ -233,8 +233,8 @@
   </div>
 
   <!-- ── Componentes curriculares ─────────────────────────────── -->
-  <div in:fly={{ y: 12, duration: 300, delay: 160 }}>
-    <p class="text-[9px] font-black uppercase tracking-[0.2em] text-white/30 mb-2">
+  <div class="text-center" in:fly={{ y: 12, duration: 300, delay: 160 }}>
+    <p class="text-[9px] font-black uppercase tracking-[0.2em] text-white/30 mb-3">
       Componentes curriculares
     </p>
     <div class="flex flex-wrap gap-2">
@@ -251,7 +251,7 @@
 
   <!-- ── Cómo usar esto para crear bundles ────────────────────── -->
   <div
-    class="p-4 bg-emerald-500/10 border border-emerald-500/20 rounded-2xl"
+    class="p-4 bg-emerald-500/10 border border-emerald-500/20 rounded-2xl text-center"
     in:fly={{ y: 12, duration: 300, delay: 200 }}
   >
     <p class="text-[9px] font-black uppercase tracking-[0.2em] text-emerald-400 mb-2">
@@ -275,7 +275,7 @@
 
   <!-- ── Referencias oficiales ────────────────────────────────── -->
   <div in:fly={{ y: 12, duration: 300, delay: 240 }}>
-    <div class="flex items-center justify-between gap-3 mb-3">
+    <div class="flex items-center justify-between gap-3 mb-4">
       <p class="text-[9px] font-black uppercase tracking-[0.2em] text-white/20 text-center">
         Referencias oficiales 2026
       </p>
@@ -319,7 +319,7 @@
   </div>
 
   <!-- ── Badge sync ────────────────────────────────────────────── -->
-  <div class="flex items-center justify-center gap-2 pt-2">
+  <div class="flex items-center justify-center gap-2 pt-4 mb-4">
     <div class="w-1.5 h-1.5 rounded-full animate-pulse" style="background: {accentColor};"></div>
     <p class="text-[9px] font-black uppercase tracking-[0.2em] text-white/20">
       Sincronizado con World Exams Core v1.2
@@ -353,6 +353,7 @@
     onClose={() => showReportModal = false}
     questionId={reportQuestionId}
     userContext="MenGuidelinesContent"
+    availableReportTypes={['feedback', 'guideline_disagree', 'other']}
     questionData={{
       title: 'Lineamientos M.E.N. Colombia',
       grade,
