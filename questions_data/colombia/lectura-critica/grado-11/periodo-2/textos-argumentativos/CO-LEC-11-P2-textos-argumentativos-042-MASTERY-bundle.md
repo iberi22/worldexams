@@ -1,62 +1,29 @@
 <think>
-The user wants me to generate exactly 20 multiple choice questions in the ICFES Saber 11 style for Critical Reading (Lectura Crítica) on the topic of argumentative texts (textos-argumentativos), grade 11, period 2.
+The user wants me to generate exactly 20 ICFES-style multiple choice questions for Reading Criticism (Lectura Crítica) about argumentative texts (textos-argumentativos), grade 11, period 2. I need to follow the exact format provided, including the YAML frontmatter and the specific structure for each question.
 
-I need to output ONLY a markdown file with:
-1. YAML frontmatter with the specific fields provided
-2. 20 questions in the exact format specified
-
-Let me structure this properly:
-
-- Questions 1-4: Difficulty D3-D4 (Basic)
-- Questions 5-10: Difficulty D5-D6 (Medium)
-- Questions 11-16: Difficulty D7-D8 (Advanced)
-- Questions 17-20: Difficulty D9-D10 (Mastery)
+Let me generate 20 questions with progressive difficulty:
+- Questions 1-4: Difficulty D3-D4
+- Questions 5-10: Difficulty D5-D6
+- Questions 11-16: Difficulty D7-D8
+- Questions 17-20: Difficulty D9-D10
 
 Each question needs:
-- Variant designation (Basic, Intermediate, Advanced, Mastery) and difficulty level
-- ID, Bloom taxonomy level, ICFES competency, Context
-- Enunciado (question stem)
-- 4 options with one correct [x]
-- Explanations
+- ID
+- Bloom level
+- ICFES competency
+- Context (modern, Colombian)
+- Statement (pregunta)
+- 4 options with one correct marked with [x]
+- Explanation
 
-Let me create realistic Colombian contexts for the argumentative text questions, focusing on:
-- Structure of arguments (premisas, conclusión, tesis, antitésis)
-- Tipos de argumentos (deductivos, inductivos, por analogía, de autoridad)
-- Falacias argumentativas
-- Identificación de la postura del autor
-- Evaluación de evidencia
-- Conectores argumentativos
-- Técnicas de persuasión
-- Análisis de contraargumentos
+Let me create these questions:
 
-Let me write all 20 questions:
+1-4 (D3-D4): Basic identification of argumentative elements
+5-10 (D5-D6): Analysis of arguments, structure recognition
+11-16 (D7-D8): Evaluation, counterarguments, logical fallacies
+17-20 (D9-D10): Complex synthesis, evaluation of effectiveness, synthesis
 
-For questions 1-4 (Basic difficulty D3-D4):
-- Identify basic parts of an argument
-- Recognize thesis statements
-- Identify simple argument types
-
-For questions 5-10 (Medium difficulty D5-D6):
-- Analyze reasoning structure
-- Evaluate evidence relevance
-- Identify assumptions
-- Recognize persuasive techniques
-
-For questions 11-16 (Advanced difficulty D7-D8):
-
-
-- Evaluate argument validity
-- Identify logical fallacies
-- Compare multiple arguments
-- Assess counterargument handling
-
-For questions 17-20 (Mastery difficulty D9-D10):
-- Complex synthesis
-- Evaluate multiple perspectives
-- Judge overall argumentative quality
-- Create critical assessments
-
-Now I'll write all 20 questions in proper ICFES format with Colombian contexts.
+Let me write them:
 
 </think>
 
@@ -75,7 +42,7 @@ alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
 generation:
   agent: "minimax-m2.7"
   model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T17:24:50.694272"
+  timestamp: "2026-04-16T01:50:21.829543"
   prompt_version: "v2-direct"
 quality_status: "UNREVISED"
 generation_status: "RAW"
@@ -94,20 +61,22 @@ open_source: false
 
 **ID:** `CO-LEC-11-P2-textos-argumentativos-042-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Interpretativa - Identificar información explícita
-**Context:** Debate actual sobre regulación de redes sociales en Colombia
+**ICFES:** Interpretativa - Identificación de intención comunicativa
+**Context:** Cartas al director de medios colombianos
 
 ### Enunciado
-En el siguiente fragmento: "El gobierno propone regular las redes sociales para proteger a los menores de edad. Esta medida generará censura y limitará la libertad de expresión de los colombianos." El texto presenta:
+En el siguiente fragmento de una carta enviada al periódico El Tiempo, el autor busca fundamentalmente:
+
+"Considero que el incremento en los impuestos a los combustibles fósiles es una medida necesaria y urgente. Nuestro país no puede seguir dependiendo de energías que aceleran el cambio climático. La ciencia es clara: debemos Transitionar hacia fuentes renovables. Por lo tanto, insto al gobierno a revisar esta decisión."
 
 ### Options
-- [ ] A) Una tesis y dos premisas de apoyo
-- [ ] B) Una tesis y un contraargumento implícito
-- [x] C) Una propuesta y un argumento en contra de dicha propuesta
-- [ ] D) Dos tesis contradictorias sin desarrollo
+- [ ] A) Criticar duramente al gobierno por su incompetencia
+- [ ] B) Presentar una tesis y fundamentar una posición personal
+- [x] C) Persuadir al lector sobre la necesidad de gravar combustibles fósiles <!-- feedback: La tesis central es que el incremento tributario es necesario y urgente, y se presentan argumentos que buscan convencer al lector -->
+- [ ] D) Informar objetivamente sobre las políticas ambientales del gobierno
 
 ### Explicación Pedagógica
-La respuesta correcta identifica que el texto presenta primero una propuesta gubernamental y luego un argumento反面 (la limitación de la libertad de expresión). El error común es confundir la estructura: muchos estudiantes consideran que todo es una sola tesis o que faltan premisas, sin reconocer que el segundo enunciado funciona como contraargumento o consecuencia negativa de la propuesta.
+La respuesta correcta es C porque el texto presenta explícitamente una tesis (el incremento de impuestos es necesario) y la sustenta con argumentos (dependencia de energías contaminantes, evidencia científica). No busca simplemente informar ni insultar, sino convencer mediante razones. El argumento de transición energética es el fundamento que soporta la posición.
 
 ---
 
@@ -115,20 +84,20 @@ La respuesta correcta identifica que el texto presenta primero una propuesta gub
 
 **ID:** `CO-LEC-11-P2-textos-argumentativos-042-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Argumentativa - Reconocer la intención comunicativa
-**Context:** Editorial sobre la situación de la educación pública en Colombia
+**ICFES:** Interpretativa - Reconocimiento de estructura argumentativa
+**Context:** Debate sobre educación virtual en Colombia
 
 ### Enunciado
-En el texto: "Es inaceptable que en pleno siglo XXI los estudiantes de zonas rurales tengan que caminar tres horas para llegar a su colegio. El Estado debe garantizar el transporte escolar como una política de inclusión educativa." El término "Es inaceptable" cumple la función de:
+Identifique cuál corresponde a una premisa dentro de un texto argumentativo:
 
 ### Options
-- [ ] A) Presentar un dato estadístico verificable
-- [x] B) Introducir un juicio de valor que sustenta la postura del autor
-- [ ] C) Conectar dos premisas del argumento
-- [ ] D) Citar una fuente oficial del gobierno
+- [ ] A) "Por lo tanto, concluimos que la educación híbrida debe implementarse gradualmente"
+- [ ] B) "Las investigaciones demuestran que el aprendizaje presencial genera mayor engagement en estudiantes de básica primaria" <!-- feedback: Esta es una premisa porque ofrece información de apoyo, pero no presenta conexión lógica de conclusión -->
+- [ ] C) "En conclusión, el modelo híbrido es superior al completamente virtual"
+- [ ] D) "Dado que los estudiantes necesitan socialización, entonces la virtualidad total es problemática"
 
 ### Explicación Pedagógica
-La expresión "Es inaceptable" es un marcador valorativo que expresa la postura emocional y ética del autor. Los estudiantes frecuentemente confunden los juicios de valor con datos objetivos o con conectores lógicos, sin comprender que estos marcadores revelan la posición ideológica de quien escribe.
+La respuesta correcta es B. Una premisa es una proposición que sirve de base o fundamento al argumento. La opción B ofrece un dato investigativo que puede utilizarse como soporte. La A y C son conclusiones. La D es un argumento completo con premisa implícita y conclusión, no una premisa aislada.
 
 ---
 
@@ -136,20 +105,20 @@ La expresión "Es inaceptable" es un marcador valorativo que expresa la postura 
 
 **ID:** `CO-LEC-11-P2-textos-argumentativos-042-MASTERY-v3`
 **Bloom:** Understand
-**ICFES:** Argumentativa - Identificar componentes del texto argumentativo
-**Context:** Columna de opinión sobre el sistema de salud en Colombia
+**ICFES:** Interpretativa - Identificación de componentes del texto argumentativo
+**Context:** Editoriales de revistas colombianas de análisis político
 
 ### Enunciado
-En un texto argumentativo sobre la crisis de la salud, un autor escribe: "Según el Ministério de Salud, el 40% de las EPS han sido intervenidas. Esto demuestra que el sistema está al borde del colapso." La frase "Esto demuestra" funciona como:
+En el texto: "El sistema de salud colombiano atraviesa una crisis sin precedentes. Los hospitales públicos reportan déficit presupuestal. Los trabajadores del sector llevan meses sin recibir su salario completo. Urge una auditoría integral al sistema", el argumento central se apoyaría en:
 
 ### Options
-- [ ] A) Un dato estadístico adicional
-- [ ] B) Un ejemplo ilustrativo
-- [x] C) Un conectordeductivo que establece una conclusión
-- [ ] D) Un ejemplo comparativo
+- [ ] A) Datos financieros y denuncias laborales como evidencia del problema
+- [ ] B) Una comparación con el sistema de salud de otro país
+- [x] C) Datos estadísticos y testimonios laborales como pruebas <!-- feedback: El argumento se fundamenta en evidencias concretas: déficit presupuestal (dato) y falta de pago a trabajadores (evidencia testimonial), que sustentan la tesis de la crisis -->
+- [ ] D) Un llamado emocional a la conciencia de los colombianos
 
 ### Explicación Pedagógica
-El conector "esto demuestra" establece una relación deductiva entre el dato (40% de EPS intervenidas) y la conclusión (sistema al borde del colapso). Los estudiantes suelen interpretar este tipo de conectores como meros enlaces o como información nueva, sin identificar la función lógica de establecer una inferencia.
+La respuesta correcta es C. El texto argumentativo se construye sobre premisas que funcionan como evidencia. El déficit presupuestal es un dato cuantificable y los meses sin salario completo son evidencia factual. La opción A es incompleta porque no menciona los testimonios. Las otras opciones no corresponden al tipo de soporte que utiliza el fragmento.
 
 ---
 
@@ -157,354 +126,311 @@ El conector "esto demuestra" establece una relación deductiva entre el dato (40
 
 **ID:** `CO-LEC-11-P2-textos-argumentativos-042-MASTERY-v4`
 **Bloom:** Apply
-**ICFES:** Interpretativa - Transferir conocimiento a otro contexto
-**Context:** Estrategia de publicidad institucional del gobierno nacional
+**ICFES:** Propositiva - Aplicación de conceptos argumentativos
+**Context:** Análisis de columnas de opinión de medios colombianos
 
 ### Enunciado
-La campaña del gobierno "Colombia脊 consume lo nuestro" utiliza argumentos como: "Comprar productos colombianos genera empleo local y fortalece la economía nacional." Este tipo de argumento se clasifica como:
+Al identificar los elementos de la estructura argumentativa en el siguiente texto: "La economía naranja representa una oportunidad histórica para Colombia. Sin embargo,目前的 desafíos en propiedad intelectual limitan su crecimiento", la tesis se encuentra en:
 
 ### Options
-- [x] A) Argumento inductivo basado en consecuencias positivas
-- [ ] B) Argumento de autoridad basado en evidencia científica
-- [ ] C) Argumento deductivo basado en una ley universal
-- [ ] D) Argumento por analogía con otros países
+- [ ] A) La primera oración, donde se expone la oportunidad económica
+- [ ] B) El conectivo "Sin embargo" que introduce la dificultad
+- [x] C) La primera oración porque presenta la posición principal del autor <!-- feedback: La tesis es la proposición principal que el autor defiende. La primera oración expone claramente la posición: la economía naranja es una oportunidad histórica -->
+- [ ] D) La segunda oración, donde se presenta la problemática
 
 ### Explicación Pedagógica
-El argumento presenta una consecuencia positiva (empleo, fortalecimiento económico) como razón para apoyar una acción (comprar lo colombiano). Esto corresponde a un razonamiento inductivo que parte de casos particulares hacia una conclusión general. El error común es confundirlo condeductivo o por analogía, ya que los estudiantes no siempre reconocen que las consecuencias funcionan como evidencia inductiva.
+La respuesta correcta es C. La tesis es la proposición principal que el autor sostiene a lo largo del texto. "La economía naranja representa una oportunidad histórica para Colombia" es la afirmación central que el columnista defenderá. La segunda oración presenta un contrapunto, pero no es la tesis sino un elemento de complejidad argumentativa.
 
 ---
 
-## Question 5 (Variant Intermediate - Difficulty D5)
+## Question 5 (Variant Basic - Difficulty D5)
 
 **ID:** `CO-LEC-11-P2-textos-argumentativos-042-MASTERY-v5`
 **Bloom:** Understand
-**ICFES:** Argumentativa - Analizar la estructura del texto
-**Context:** Debate sobre el uso de vehículos eléctricos en Bogotá
+**ICFES:** Interpretativa - Comprensión de estrategias argumentativas
+**Context:** Debates en redes sociales sobre políticas públicas
 
 ### Enunciado
-Analice la siguiente estructura argumentativa:
-Premisa 1: Los vehículos eléctricos no generan emisiones directas
-Premisa 2: La contaminación del aire causa 10,000 muertes anuales en Bogotá
-Conclusión: Se deben incentivos fiscales para promover la adopción de vehículos eléctricos
-
-¿Qué relación existe entre las premisas y la conclusión?
+El argumento "Si permitimos que los animales entren a los espacios públicos, luego querrán entrar a los restaurantes, después a los hospitales, y eventualmente dominarán la sociedad" presenta un error de razonamiento conocido como:
 
 ### Options
-- [ ] A) La conclusión se deriva lgicamente de ambas premisas combinadas
-- [x] B) La conclusión no se sigue lgógicamente; hace falta establecer cómo los vehículos eléctricos reducen la contaminación
-- [ ] C) Las premisas refutan la conclusión
-- [ ] D) La conclusión repite literalmente la premisa 1
+- [ ] A) Falsa causa
+- [ ] B) Ad populum
+- [x] C) Pendiente resbaladiza (Slippery slope) <!-- feedback: El texto presenta una cadena de consecuencias extremas e improbables a partir de una premisa menor, sin fundamento lógico que conecte cada eslabón -->
+- [ ] D) Anfibología
 
 ### Explicación Pedagógica
-Aunque las premisas son verdaderas, no establecen un vínculo directo con la conclusión: se necesita una premisa adicional que conecte "vehículos eléctricos = reducción de contaminación = menos muertes". Sin esta conexión, el argumento presenta una brecha lógica (non sequitur). Muchos estudiantes asumen que premisas verdaderas garantizan conclusiones verdaderas sin analizar la estructura deductiva.
+La respuesta correcta es C. La falacia de pendiente resbaladiza consiste en rechazar una posición argumentando que llevaría inevitablemente a consecuencias extremas no fundamentadas. Ir de "animales en espacios públicos" a "dominio de la sociedad" es una cadena sin garantías lógicas. Las otras opciones son falacias diferentes que no corresponden a esta estructura.
 
 ---
 
-## Question 6 (Variant Intermediate - Difficulty D5)
+## Question 6 (Variant Basic - Difficulty D5)
 
 **ID:** `CO-LEC-11-P2-textos-argumentativos-042-MASTERY-v6`
-**Bloom:** Apply
-**ICFES:** Argumentativa - Evaluar estrategias persuasivas
-**Context:** Discusión sobre la venta de bebidas energéticas a menores en Colombia
+**Bloom:** Analyze
+**ICFES:** Interpretativa - Análisis de intención del emisor
+**Context:** Artículos de opinión sobre inseguridad ciudadana en Bogotá
 
 ### Enunciado
-En un artículo sobreRegular la venta de bebidas energéticas a menores, el autor afirma: "Todos los expertos en salud están de acuerdo en que las bebidas energéticas son peligrosas para los jóvenes." Al evaluar esta afirmación, se debe considerar que:
+En el siguiente fragmento, el autor utiliza un recursoargumentativo que busca generar emociones antes que razones: "Las víctimas de la inseguridad somos nosotros, los ciudadanos de a pie, quienes caminamos por las calles temiendo por nuestras vidas y las de nuestros hijos". El recurso identificado se denomina:
 
 ### Options
-- [ ] A) El argumento es sólido porque los expertos tienen conocimiento especializado
-- [ ] B) El argumento es una falacia de autoridad porque no identifica cuáles expertos ni cómo se llegó a ese consenso
-- [ ] C) El argumento no tiene falacias porque apela a fuentes legítimas
-- [ ] D) El argumento presenta datos estadísticos verificables
+- [ ] A) Metáfora
+- [ ] B) Ejemplificación
+- [x] C) Apelación emocional (Pathos) <!-- feedback: El texto apela a emociones de miedo y vulnerabilidad ciudadana, describiendo situaciones angustiantes para mover al lector emocionalmente antes que mediante argumentos racionales -->
+- [ ] D) Metonimia
 
 ### Explicación Pedagógica
-Apelar a "todos los expertos" sin identificar fuentes específicas, sin mencionar el número de expertos consultados ni sus nombres, constituye una falacia de autoridad no calificada. Los estudiantes frecuentementeacceptan estos argumentos por su apariencia de autoridad, sin verificar si la fuente está efectivamente citada y es competente.
+La respuesta correcta es C. La apelación emocional o pathos es una estrategia argumentativa que busca mover al lector o escucha mediante emociones (miedo, compasión, indignación) en lugar de presentar razones sólidas. El fragmento describe escenarios de vulnerabilidad para generar temor. Las figuras retóricas como metáfora o metonimia no son estrategias argumentativas en sí mismas.
 
 ---
 
-## Question 7 (Variant Intermediate - Difficulty D5)
+## Question 7 (Variant Basic - Difficulty D5)
 
 **ID:** `CO-LEC-11-P2-textos-argumentativos-042-MASTERY-v7`
-**Bloom:** Analyze
-**ICFES:** Argumentativa - Identificar supuestos implícitos
-**Context:** Propuesta de impuesto a bebidas azucaradas en Colombia
+**Bloom:** Understand
+**ICFES:** Interpretativa - Identificación de contraargumento
+**Context:** Debates legislativos reportados en medios colombianos
 
 ### Enunciado
-ElMinisterio de Salud propone un gravar con impuestos las bebidas azucaradas para reducir la obesidad infantil. El argumento asume implícitamente que:
+En un debate sobre la regulación de motorcycles en Bogotá, un ciudadano afirma: "Estoy de acuerdo en que se requiere regulación, pero antes de implementarla，我们应该 hacer un estudio de impacto en los motoceros". La función de esta oración dentro del texto argumentativo es:
 
 ### Options
-- [ ] A) Los niños consumen bebidas azucaradas porque les gustan
-- [x] B) El precio Influye en las decisiones de consumo de las familias
-- [ ] C) Los padres desconocen los efectos nocivos del azúcar
-- [ ] D) El gobierno tiene la responsabilidad de regular la alimentación infantil
+- [ ] A) Afirmar la tesis principal del autor
+- [x] B) Reconocer parcialmente la posición contraria para debilitarla <!-- feedback: La estructura "Estoy de acuerdo en que... pero..." es una estrategia retórica donde se concede un punto al oponente antes de presentar el contraargumento o la debilidad de la propuesta -->
+- [ ] C) Presentar un ejemplo ilustrativo
+- [ ] D) Introducir una nueva tesis independiente
 
 ### Explicación Pedagógica
-Para que el impuesto funcione como mecanismo disuasorio, se asume que las familias modificarán su comportamiento de compra ante cambios de precio. Este supuesto implícito es necesario para que el argumento tenga sentido. Los estudiantes suelen elegir opciones relacionadas con el tema pero que no son el supuesto necesario del argumento.
+La respuesta correcta es B. Esta estructura "acuerdo parcial + objeción" se conoce como concesión o contraargumento estrategias. El autor reconoce que hay algo de válido en la posición contraria (se necesita regulación) pero inmediatamente introduce su反对意见 (primero un estudio). Esto fortalece su posición al mostrar que ha considerado el argumento opuesto.
 
 ---
 
-## Question 8 (Variant Intermediate - Difficulty D6)
+## Question 8 (Variant Basic - Difficulty D5)
 
 **ID:** `CO-LEC-11-P2-textos-argumentativos-042-MASTERY-v8`
 **Bloom:** Analyze
-**ICFES:** Argumentativa - Evaluar la validez de los argumentos
-**Context:** Debate sobre la legalización del cannabis en Colombia
+**ICFES:** Interpretativa - Análisis de estructura argumentativa
+**Context:** Artículos de divulgación científica en medios colombianos
 
 ### Enunciado
-En un editorial a favor de la legalización se argumenta: "El prohibicionismo ha fallado en todo el mundo. En Uruguay y Portugal, la regulación ha reducido el consumoproblemático y los delitos asociados. Por lo tanto, Colombia debería legalizar el cannabis." Este argumento utiliza principalmente:
+El texto: "Según el Dane, el 40% de los jóvenes entre 18 y 24 años no estudia ni trabaja. Esta situación genera consecuencias graves para el tejido social. Por eso, el gobierno debe implementar programas de formación técnica inmediata" presenta una estructura donde:
 
 ### Options
-- [ ] A) Un argumento deductivo basado en principios filosóficos
-- [x] B) Un argumento inductivo por analogía con casos similares
-- [ ] C) Un argumento de autoridad sin fuentes cited
-- [ ] D) Un argumento circular que asume lo que quiere probar
+- [ ] A) La tesis se presenta al final, respaldada por datos y propuesta
+- [x] B) Se presenta un dato estadístico, se valora su significado y se deriva una recomendación <!-- feedback: El texto sigue una progresión lógica: dato (40%) → interpretación (consecuencias graves) → acción propuesta (programas de formación) -->
+- [ ] C) El dato estadístico es la conclusión del argumento
+- [ ] D) La propuesta final contradice los datos presentados
 
 ### Explicación Pedagógica
-El argumento parte de casos específicos (Uruguay, Portugal) para llegar a una conclusión general (Colombia debería legalizar). Esto es típico del razonamiento inductivo por analogía: se conclude que si funcionó en países con características similares, funcionará también en Colombia. El error común es confundirlo condeductivo, pensando que hay una ley universal que se aplica.
+La respuesta correcta es B. La estructura argumentativa del texto es: premisa factual (dato del Dane) → análisisvalorativo (consecuencias para el tejido social) → conclusión propuesta (programas de formación). No hay contradicción; el flujo va de lo descriptivo a lo prescriptivo. La tesis implícita es que el gobierno debe actuar ante la problemática demostrada.
 
 ---
 
-## Question 9 (Variant Intermediate - Difficulty D6)
+## Question 9 (Variant Basic - Difficulty D6)
 
 **ID:** `CO-LEC-11-P2-textos-argumentativos-042-MASTERY-v9`
-**Bloom:** Analyze
-**ICFES:** Argumentativa - Identificar técnicas argumentativas
-**Context:** Discusión sobre educación sexual en colegios públicos de Colombia
+**Bloom:** Apply
+**ICFES:** Propositiva - Evaluación de consistencia argumentativa
+**Context:** Análisis de debates electorales colombianos
 
 ### Enunciado
-Un político opponents a la educación sexual integral argumentando: "Si permitimos que enseñen educación sexual a los niños, pronto estarán aprendiendo sobre temas aún más extremos en las aulas." Esta estrategia argumentativa se denomina:
+Al evaluar la coherencia argumentativa de un candidato que afirma: "Mi gobierno bajó la delincuencia en un 30% según las cifras oficiales, mientras tanto, la percepción de inseguridad aumentó porque la gente exagera el problema", se puede concluir que:
 
 ### Options
-- [ ] A) Argumento de pendiente resbaladiza (slippery slope)
-- [ ] B) Falsa causa (post hoc ergo propter hoc)
-- [ ] C) Ad hominem contra los proponentes
-- [ ] D) Falsa analogía
+- [ ] A) El argumento es coherente porque usa datos oficiales
+- [x] B) Existe contradicción porque no puede validarse un dato y rechazarse la percepción que lo contradice <!-- feedback: El candidato usa las cifras oficiales para respaldar su gestión pero rechaza la percepción ciudadana que contradice esas mismas cifras. Esto es inconsistente: o se aceptan todas las implicaciones del dato o se rechazan -->
+- [ ] C) El argumento es sólido porque presenta cifras verificables
+- [ ] D) No hay problema porque la percepción y las cifras miden cosas distintas
 
 ### Explicación Pedagógica
-La estructura "si permitimos X, entonces eventualmente ocurrirá Y extremas" corresponde a la falacia de pendiente resbaladiza o efecto dominó: se sugiere que un paso pequeño llevará inevitablemente a consecuencias catastróficas sin evidencia de esa progresión. Los estudiantes frecuentemente no reconocen esta falacia porque parece lógica en la superficie.
+La respuesta correcta es B. Hay una falacia de autofomento: el candidato selecciona qué consecuencias del dato acepta (la baisse de delincuencia) y cuáles rechaza (la percepción negativa). Si acepta el dato oficial, debe aceptar también que la gente percibe más inseguridad, lo cual contradice su éxito. Las cifras y la percepción no miden exactamente lo mismo, pero no pueden usarse selectivamente.
 
 ---
 
-## Question 10 (Variant Intermediate - Difficulty D6)
+## Question 10 (Variant Basic - Difficulty D6)
 
 **ID:** `CO-LEC-11-P2-textos-argumentativos-042-MASTERY-v10`
-**Bloom:** Evaluate
-**ICFES:** Argumentativa - Evaluar la calidad de la evidencia
-**Context:** Reporte sobre el desempeño de universidades públicas colombianas
+**Bloom:** Analyze
+**ICFES:** Interpretativa - Análisis de intenciones del autor
+**Context:** Análisis de discursos políticos en medios colombianos
 
 ### Enunciado
-Un investigador afirma: "Las universidades públicas de Colombia ranking en los primeros lugares de América Latina porque invierten más en investigación que las privadas." Para evaluar esta afirmación, un lector crítico debe considerar que:
+El argumento "El presidente del Senado declaró que se debe castigar a los evasores de impuestos, lo cual demuestra que el gobierno reconoce el problema de la evasión" presenta una falacia de tipo:
 
 ### Options
-- [ ] A) El ranking internacional es un indicador objetivo y suficiente
-- [ ] B) La correlación entre inversión e investigación no implica necesariamente causalidad
-- [ ] C) Las universidades privadas no pueden invertir en investigación
-- [ ] D) Los rankings son siempre realizados por entidades gubernamentales
+- [ ] A) Ad hominem
+- [ ] B) Falacia genética
+- [x] C) Apelación a autoridad irrelevante <!-- feedback: Se usa como prueba el hecho de que una autoridad hizo una declaración, no su contenido ni su fundamentación. Que alguien diga algo no demuestra que sea verdadero ni que el problema exista -->
+- [ ] D) Generalización apresurada
 
 ### Explicación Pedagógica
-Afirmar que "porque invierten más" implica una relación causal directa sin verificar otros factores (calidad del profesorado, políticas institucionales, infraestructura). Los estudiantes suelen acceptar correlaciones como evidencia suficiente sin considerar variables alternativas o la posibilidad de que otros factores explicativos sean más relevantes.
+La respuesta correcta es C. Una apelación a autoridad relevante sería válida si la autoridad tuviera conocimiento especializado sobre el tema. Aquí se usa simplemente que el presidente del Senado "declaró" algo como si eso constituyera evidencia. El contenido de la declaración no se evalúa, solo su fuente. Esto es una falacia porque el hecho de que alguien diga algo no lo hace verdadero.
 
 ---
 
-## Question 11 (Variant Advanced - Difficulty D7)
+## Question 11 (Variant Basic - Difficulty D7)
 
 **ID:** `CO-LEC-11-P2-textos-argumentativos-042-MASTERY-v11`
-**Bloom:** Analyze
-**ICFES:** Argumentativa - Desconstruct la postura del autor
-**Context:** Discusión sobre el trabajo remoto y sus efectos en Colombia
+**Bloom:** Evaluate
+**ICFES:** Propositiva - Evaluación de efectividad argumentativa
+**Context:** Cartas de lectores sobre proyectos de infraestructura en Bogotá
 
 ### Enunciado
-En un ensayo sobre el trabajo remoto post-pandemia, una autora escribe: "El trabajo desde casa debe ser la norma porque aumenta la productividad. Estudios de empresas tech demuestran que los empleados son más eficientes trabajando en su espacio personal. Además, se reduce la Emissions de CO2 por desplazamientos. Finalmente, los trabajadores reportan mayor satisfacción laboral." La postura de la autora se caracteriza por:
+En el siguiente texto, la estrategia argumentativa principal es débil principalmente porque: "Deberíamos construir el metro elevado porque ya muchas ciudades del mundo lo tienen, incluyendo ciudades europeas que admiramos"
 
 ### Options
-- [ ] A) Presentar evidencia equilibrada considerando ventajas y desventajas
-- [x] B) Construir un argumento convergente que acumula evidencia a favor de una misma tesis
-- [ ] C) Usar un antitésis para desarrollar un debate dialéctico
-- [ ] D) Evitar conclusiones para que el lector decida
+- [ ] A) Usa datos falsos sobre otras ciudades
+- [ ] B) Menciona ciudades que no son comparables a Bogotá
+- [x] C) La existencia de algo en otros lugares no justifica automáticamente su implementación aquí <!-- feedback: El argumento de autoridad por analogía es débil porque no considera las particularidades de Bogotá: contexto geográfico, presupuestal, necesidad real, etc. La existencia de algo en otros lugares no es razón suficiente para adoptarlo -->
+- [ ] D) Las ciudades europeas mencionadas no tienen metro elevado
 
 ### Explicación Pedagógica
-El texto presenta múltiples premisas independientes (productividad, medio ambiente, satisfacción) que apuntan en la misma dirección: defender el trabajo remoto. Esto es un argumento convergente donde distintas líneas de evidencia refuerzan una misma conclusión. El error es confundirlo con equilibrio o dialéctica, ya que no presentaContraargumentos.
+La respuesta correcta es C. Este es un argumento de "testimonio de autoridad" o "apelación a la mayoría" que resulta falaz cuando se aplica sin considerar el contexto. Que otras ciudades tengan algo no constituye razón suficiente para implementarlo; se necesitan argumentos sobre necesidad, viabilidad y conveniencia específica para Bogotá. La existencia de una estrategia en otros contextos no implica suitability.
 
 ---
 
-## Question 12 (Variant Advanced - Difficulty D7)
+## Question 12 (Variant Basic - Difficulty D7)
 
 **ID:** `CO-LEC-11-P2-textos-argumentativos-042-MASTERY-v12`
 **Bloom:** Evaluate
-**ICFES:** Argumentativa - Evaluar la solidez del razonamiento
-**Context:** Propuesta de paz total del gobierno colombiano
+**ICFES:** Propositiva - Evaluación de estructura argumentativa
+**Context:** Debates sobre políticas migratorias en medios colombianos
 
 ### Enunciado
-En un debate sobre los procesos de paz, un analista afirma: "El abandono escolar en Colombia subió un 15% durante las guerras civiles del siglo pasado. Por lo tanto, los conflictos armados causan abandono escolar." Al evaluar este argumento, se identifica como debilidad principal:
+Considere el siguiente argumento: "Los venezolanos migran a Colombia porque buscan oportunidades económicas. Esto causa presión sobre los servicios públicos. Por lo tanto, deberíamos restringir la migración". La debilidad principal de este razonamiento radica en que:
 
 ### Options
-- [ ] A) No hay datos específicos sobre el conflicto armado
-- [x] B) La causa simple (conflicto) no considera factores simultáneos como pobreza, violencia intrafamiliar y falta de infraestructura
-- [ ] C) Los datos del siglo pasado no son aplicables actualmente
-- [ ] D) El abandono escolar es un fenómeno irrelevante para el tema
+- [ ] A) Los datos económicos sobre Venezuela son incorrectos
+- [x] B) La conclusión no se deriva lógicamente de las premisas sobre presión en servicios <!-- feedback: Hay una salto lógico: de "causa presión en servicios públicos" no se sigue lógicamente que "debemos restringir la migración". Hay posibles soluciones intermedias: invertir más en servicios, distribuir población, etc. -->
+- [ ] C) No se puede hablar de venezolanos como grupo homogéneo
+- [ ] D) La migración no es causada solo por factores económicos
 
 ### Explicación Pedagógica
-El argumento presenta una falacia de causa simple: asume que el conflicto armado es la causa única del abandono escolar sin considerar que otros factores pudieron contribuir simultáneamente. Los fenómenos sociales complejos tienen causas múltiples (multicausalidad), y reducir una correlación a una única causa constituye una debilidad argumentativa.
+La respuesta correcta es B. El argumento tiene un salto lógico: la conclusión (restrict migration) no se sigue necesariamente de las premisas. Even if migration causes pressure on public services, there are logical intermediate steps between diagnosing a problem and prescribing a specific solution. One could argue for increasing public service investment or better distribution instead of restricting migration. The arguer skips consideration of alternatives.
 
 ---
 
-## Question 13 (Variant Advanced - Difficulty D7)
+## Question 13 (Variant Basic - Difficulty D7)
 
 **ID:** `CO-LEC-11-P2-textos-argumentativos-042-MASTERY-v13`
-**Bloom:** Analyze
-**ICFES:** Argumentativa - Identificar estructuras retóricas
-**Context:** Debate sobre la eutanasia en Colombia
+**Bloom:** Evaluate
+**ICFES:** Interpretativa - Evaluación de estrategia persuasiva
+**Context:** Análisis de campañas de bien público en medios colombianos
 
 ### Enunciado
-En un artículo反对 la eutanasia, el autor utiliza la frase: "Solo un Dios puede dar vida, por lo tanto solo Él tiene el derecho de quitarla." Esta argumentación se fundamenta en:
+Una campaña gubernamental dice: "Si no reciclas,eres cómplice de la destrucción del planeta". La debilidad argumentativa de esta campaña se debe a:
 
 ### Options
-- [ ] A) Evidencia empírica sobre la naturaleza de la vida
-- [ ] B) Un principio filosófico secular verificable
-- [x] C) Una premisa religiosa no compartible por todos los ciudadanos
-- [ ] D) Un argumento lógico formal válido
+- [ ] A) El uso excesivo de imágenes
+- [ ] B) La duración del mensaje es muy corta
+- [x] C) Atribuye una responsabilidad individual excesiva ante un problema sistémico <!-- feedback: La campaña convierte una cuestión compleja (destrucción ambiental sistémica) en una culpa individual por no reciclar. Esto omite las responsabilidades de industrias, gobiernos y políticas públicas que causan el mayor impacto ambiental -->
+- [ ] D) El mensaje no menciona el medio ambiente específicamente
 
 ### Explicación Pedagógica
-El argumento tiene como premisa mayor una creencia religiosa específica. En un contexto de política pública como la eutanasia, apelar a premisas religiosas limita la validez del argumento a quienes comparten esa cosmovisión. En un estado laico, los argumentos sobre derechos deben fundamentarse en principios seculares y universalmente alcanzables. Los estudiantes frecuentemente no detectan cuándo un argumento depende de supuestos ideológicos no explicitados.
+La respuesta correcta es C. Esta campaña presenta una falacia de atención selectiva o falsa atribución de responsabilidad. El problema ambiental es sistémico y causado mayoritariamente por políticas industriales y gubernamentales, no por decisiones individuales de reciclaje. Hacer recaer toda la responsabilidad en el individuo es emocionalmente manipulador y lógicamente débil porque no considera las estructuras que condicionan las opciones individuales.
 
 ---
 
-## Question 14 (Variant Advanced - Difficulty D8)
+## Question 14 (Variant Basic - Difficulty D8)
 
 **ID:** `CO-LEC-11-P2-textos-argumentativos-042-MASTERY-v14`
-**Bloom:** Evaluate
-**ICFES:** Argumentativa - Evaluar Contraargumentos
-**Context:** Discusión sobre el uso de celulares en aulas colombianas
+**Bloom:** Analyze
+**ICFES:** Interpretativa - Análisis de estructura persuasiva
+**Context:** Análisis de discursos del gobierno sobre economía
 
 ### Enunciado
-Un docente argumenta a favor de permitir celulares en clase: "Los celulares son herramientas educativas valiosas porque permiten acceder a información en tiempo real." Un contraargumento válido sería:
+En el texto: "Las reformas tributarias propuestas son necesarias porque sin ellas, el país quebraría. Sin embargo, Reconozco que afectan principalmente a la clase media. Pero考虑到 la alternativa es el colapso económico total, devemos aceptarlas", el conectivo "pero" cumple la función de:
 
 ### Options
-- [ ] A) "Los celulares solo sirven para distracción"
-- [ ] B) "Los estudiantes de bajos recursos no tienen celulares"
-- [x] C) "Acceder a información no garantiza que los estudiantes desarrollen pensamiento crítico o procesamiento profundo del conocimiento"
-- [ ] D) "Los docentes no saben usar tecnología"
+- [ ] A) Introducir una nueva tesis separada del argumento principal
+- [x] B) Formular un contraargumento para luego refutejarlo con la tesis principal <!-- feedback: El "pero" introduce una objeción aparente (afecta a la clase media), que el autor luego desecha mediante el "considerando" (la alternativa es peor). Es una estructura de contraargumentación en tres pasos: concede - objeta - resuelve -->
+- [ ] C) Mostraragreement parcial con los críticos
+- [ ] D) Concluir el argumento de manera decisiva
 
 ### Explicación Pedagógica
-Un buen contraargumento ataca la premisa débil del argumento original: la equipación entre acceso a información y aprendizaje real. El contraargumento señala que tener datos disponibles no implica procesamiento cognitivo profundo. Las otras opciones son críticas superficiales o ataques personales (ad hominem), no contraargumentos sustanciales.
+La respuesta correcta es B. Este es un patrón argumentativo conocido como "conceded objection refuted". El autor primero plantea una posible objeción a su posición (afecta a la clase media) pero luego la desecha al introducir una consideración más amplia (la alternativa del colapso económico). Esto fortalece el argumento al mostrar que el autor consideró las objeciones pero las superó.
 
 ---
 
-## Question 15 (Variant Advanced - Difficulty D8)
+## Question 15 (Variant Basic - Difficulty D8)
 
 **ID:** `CO-LEC-11-P2-textos-argumentativos-042-MASTERY-v15`
-**Bloom:** Evaluate
-**ICFES:** Argumentativa - Sintetizar posiciones múltiples
-**Context:** Discusión sobre la presencia militar en zonas de conflicto en Colombia
+**Bloom:** Analyze
+**ICFES:** Interpretativa - Análisis de texto argumentativo complejo
+**Context:** Editoriales de medios colombianos sobre paz
 
 ### Enunciado
-Lea los siguientes fragmentos de un mismo debate:
-Autor A: "La presencia militar en zonas de conflicto es la única forma de garantizar la seguridad de las comunidades."
-Autor B: "La militarización genera más violencia y desplazados, además de criminalizar la protesta social."
-Autor C: "Se requiere un enfoque integral que combine presencia estatal, desarrollo económico y dialogo político."
-
-Respecto a la estructura argumentativa, se puede afirmar que:
+Al analizar un texto que presenta primero datos del conflicto armado, luego testimonios de víctimas, después medidas del gobierno y finalmente una propuesta de reparación, se puede identificar que el autor organiza su argumento según:
 
 ### Options
-- [ ] A) Los tres autores presentan argumentos convergentes hacia una misma tesis
-- [x] B) Los autores A y B presentan tesis opuestas, mientras C propone una síntesis integradora
-- [ ] C) Los autores A y B están de acuerdo y solo C presenta una观点 différente
-- [ ] D) Los tres presentan antitésis sin llegar a conclusiones
+- [ ] A) Chronological order only
+- [x] B) Desde el problema hacia la solución propuesta, combinando evidencia empírica y humana <!-- feedback: El texto sigue una estructura problem-solution: presenta el problema (datos y testimonios), luego la respuesta institucional (medidas gubernamentales) y finalmente la propuesta del autor (reparación). Combina evidencia objetiva y subjetiva -->
+- [ ] C) Desde la solución hacia el problema
+- [ ] D) Únicamente por orden de importancia de los argumentos
 
 ### Explicación Pedagógica
-El texto presenta una estructura dialéctica clásica: tesis (A), antitésis (B) y síntesis (C). El autor C reconoce elementos válidos de ambos lados y propone una vía intermedia. Los estudiantes frecuentemente confunden síntesis con neutralidad o con falta de postura definida, sin comprender que la síntesis integradora es una posición argumentativa activa.
+La respuesta correcta es B. La estructura observada es problema-solución, donde el autor construye su argumento desde la identificación de una situación problemática hacia una propuesta resolutiva. Los datos estadísticos dan autoridad factual, los testimonios dan validez emocional y humana, las medidas gubernamentales muestran respuestas insuficientes, y la propuesta ofrece la solución que el autor defiende.
 
 ---
 
-## Question 16 (Variant Advanced - Difficulty D8)
+## Question 16 (Variant Basic - Difficulty D8)
 
 **ID:** `CO-LEC-11-P2-textos-argumentativos-042-MASTERY-v16`
-**Bloom:** Analyze
-**ICFES:** Argumentativa - Describir estrategias discursivas
-**Context:** Campanha contra el fraude en elecciones colombianas
+**Bloom:** Evaluate
+**ICFES:** Propositiva - Evaluación crítica de texto argumentativo
+**Context:** Artículos de análisis de políticas públicas educativas
 
 ### Enunciado
-En un comunicado, un partido polí­tico afirma: "Nuestros críticos dicen que somos corruptos, pero ellos son los verdaderos ladrones del erario público." Esta estrategia discursiva se denomina:
+Un artículo afirma: "El analfabetismo en Colombia ha bajado del 10% al 5% en la última década. Esto demuestra que la política educativa actual es exitosa". La evaluación crítica de este argumento revela que:
 
 ### Options
-- [ ] A) Transferencia de responsabilidad
-- [x] B) Inversión de la acusación (whataboutismo)
-- [ ] C) Generalización apresurada
-- [ ] D) Apelación al miedo
+- [ ] A) Los datos del Dane son incorrectos
+- [ ] B) El artículo debería citar más fuentes
+- [x] C) Se establece una relación causal simplificada entre política pública y resultado sin considerar otros factores <!-- feedback: El argumento asume que la única causa de la reducción del analfabetismo es la política educativa, sin considerar factores externos: programas internacionales, inversión privada en educación, migración de población analfabeta, etc. La correlación no implica causalidad directa -->
+- [ ] D) El porcentaje debería calcularse de otra forma
 
 ### Explicación Pedagógica
-En lugar de refutar la acusación o presentar evidencia de inocencia, el argumento reacciona señalando que el acusador es igualmente culpable. Esto es lo que se conoce como "whataboutismo" o inversión de la acusación: desviar la atención de la acusación original hacia el acusador. Los estudiantes frecuentemente no identifican esta estrategia porque puede parecer una respuesta lógica en un debate.
+La respuesta correcta es C. El argumento presenta una falacia de correlación-causalidad simplificada. Even if the data is accurate, claiming that "this policy is successful" based only on the outcome ignores that multiple factors could contribute to the result. A rigorous argument would need to isolate the effect of the specific policy and rule out alternative explanations before claiming success.
 
 ---
 
-## Question 17 (Variant Mastery - Difficulty D9)
+## Question 17 (Variant Advanced - Difficulty D9)
 
 **ID:** `CO-LEC-11-P2-textos-argumentativos-042-MASTERY-v17`
 **Bloom:** Evaluate
-**ICFES:** Argumentativa - Juzgar la coherencia global del texto
-**Context:** Documento de política pública sobre energías renovables en Colombia
+**ICFES:** Propositiva - Evaluación de múltiples estrategias argumentativas
+**Context:** Debate público sobre regulación de plataformas digitales
 
 ### Enunciado
-En un documento oficial se argumenta: "Colombia debe invertir en energía solar porque los países nórdicos lo hacen con éxito. Además, el sol brilla todos los días en el Caribe colombiano. Por último, la energía solar reducirá las facturas de electricidad de todos los hogares." ¿Cuál de las siguientes situaciones representa la debilidad principal del argumento?
+En un debate sobre la regulación de plataformas digitales en Colombia, un participante afirma: "Los que se oponen a la regulación simplemente protegen los intereses de las grandes corporaciones tecnológicas estadounidenses". Esta afirmación presenta simultáneamente:
 
 ### Options
-- [ ] A) Los países nórdicos tienen menos radiación solar que Colombia
-- [ ] B) No todos los hogares colombianos tienen techos adecuados para paneles solares
-- [x] C) La evidencia de un lugar con condiciones específicas no garantiza resultados similares en otro con características distintas; además, la conexión entre inversión y reducción de facturas no está sustentada
-- [ ] D) La energía solar es más cara que la hidroeléctrica en Colombia
+- [ ] A) Una falacia ad populum y un llamado a la identidad nacional
+- [x] B) Una falacia ad hominem y una generalización apresurada <!-- feedback: "Los que se oponen" simplifica un grupo diverso. "Protegen intereses de corporaciones" es una explicación reduccionista que descarta argumentos sin evaluarlos (ad hominem circumstantial). Además, asumir que todos los oponentes actúan por ese motivo es una generalización sin evidencia -->
+- [ ] C) Un argumento circular y una falacia de autoridad
+- [ ] D) Una falacia de división y un falso dilema
 
 ### Explicación Pedagógica
-La debilidad central está en la combinación de falacias: analogía inapropiada (los países nórdicos no son comparables en radiación solar) y salto lógico (inversión no garantiza reducción de tarifas sin considerar costos de implementación, mantenimiento e infraestructura). Los estudiantes tienden a identificar una falacia simple sin notar que el texto acumula debilidades estructurales múltiples.
+La respuesta correcta es B. La afirmación comete dos falacias: Primero, ataca a las personas que se oponen en lugar de refutar sus argumentos (ad hominem circunstancial: actúan por proteger corporaciones). Segundo, generaliza apresuradamente al asumir que todos los oponentes tienen la misma motivación sin ofrecer evidencia. No se evalúa la calidad de los argumentos sino la предполагаемую motivación de quien los presenta.
 
 ---
 
-## Question 18 (Variant Mastery - Difficulty D9)
+## Question 18 (Variant Advanced - Difficulty D9)
 
 **ID:** `CO-LEC-11-P2-textos-argumentativos-042-MASTERY-v18`
 **Bloom:** Create
-**ICFES:** Argumentativa - Construir contraargumentos elaborados
-**Context:** Debate sobre la venta libre de pruebas para COVID-19 en Colombia
+**ICFES:** Propositiva - Síntesis de estrategias argumentativas
+**Context:** Construcción de textos argumentativos académicos
 
 ### Enunciado
-Un argumento a favor de permitir la venta libre de pruebas rápidas dice: "Las personas tienen derecho a conocer su estado de salud sin necesidad de acudir a un médico. Además, muchos infectados son asintomáticos y no lo saben." Si usted fuera un oponente de esta posición y deseara refutarla con argumentos estructurados, ¿cuál sería el más sólido?
+Al construir un texto argumentativo efectivo sobre la protección del páramo en Colombia, el orden más adecuado para presentar los elementos sería:
 
 ### Options
-- [ ] A) "Las pruebas rápidas dan falsos negativos y las personas creerán que están sanas cuando no lo están"
-- [x] B) "El derecho individual a conocer el estado de salud no supera el riesgo colectivo de un sistema de vigilancia epidemiológica fragmentado; sin embargo, podría implementarse un registro obligatorio simplificado para compatibilizar ambos derechos"
-- [ ] C) "Las personas no son responsables de su propia salud"
-- [ ] D) "Los médicos están en mejores condiciones para realizar las pruebas"
+- [ ] A) Propuesta → Evidencia → Problema → Conclusión
+- [x] B) Problema → Evidencia → Contraargumento → Refutación → Conclusión <!-- feedback: La estructura estándar de un argumento académico robusto sigue: 1) Contextualizar el problema, 2) Presentar evidencia que lo sustenta, 3) Reconocer objeciones (contraargumentos), 4) Mostrar por qué las objeciones son inferiores a la posición defendida, 5) Extraer conclusiones -->
+- [ ] C) Evidencia → Problema → Propuesta → Contraargumento
+- [ ] D) Conclusión → Evidencia → Problema → Propuesta
 
 ### Explicación Pedagógica
-La opción correcta presenta un contraargumento que reconoce la validez parcial del argumento original (el derecho individual existe) pero lo matiza considerando el bien común (sistema de vigilancia epidemiológica) y además propone una solución integradora (registro obligatorio). Esto demuestra un nivel de razonamiento dialéctico avanzado. Las otras opciones presentan objeciones superficiales o ad hominem.
-
----
-
-## Question 19 (Variant Mastery - Difficulty D9)
-
-**ID:** `CO-LEC-11-P2-textos-argumentativos-042-MASTERY-v19`
-**Bloom:** Evaluate
-**ICFES:** Argumentativa - Emitir juicio crítico fundamentado
-**Context:** Discusión sobre el desarrollo inmobiliario en la sabana de Bogotá
-
-### Enunciado
-Un grupo de desarrolladores inmobiliarios argumenta que la construcción de conjuntos cerrados en la sabana de Bogotágenerará empleo y dinamizará la economía local. Sin embargo, ambientalistas oponen que esto acelerará la pérdida de ecosistemas estratégicos y aumentará la presión sobre los recursos hídricos. Al evaluar ambos argumentos desde una perspectiva crítica, se puede concluir que:
-
-### Options
-- [ ] A) El argumento económico es más válido porque el empleo es una necesidad urgente
-- [ ] B) El argumento ambiental es más válido porque los ecosistemas no se pueden reconstruir
-- [x] C) Ambos argumentos presentan datos relevantes pero ninguno considera alternativas de desarrollo sostenible que podrían compatibilizar crecimiento económico y conservación
-- [ ] D) Ambos argumentos son inválidos porque faltan datos estadísticos específicos
-
-### Explicación Pedagógica
-La respuesta correcta reconoce que ambos argumentos tienen mérite parcial pero son estructuralmente incompletos: ninguno explora soluciones de compromiso o desarrollo sostenible. Un lector crítico debe identificar cuándo los argumentos binarios impiden ver alternativas integradoras. Los estudiantes frecuentemente deben elegir entre una u otra opción sin considerar síntesis que no están explicitadas en el texto.
-
----
-
-## Question 20 (Variant Mastery - Difficulty D10)
-
-**ID:** `CO-LEC-11-P2-textos-argumentativos-042-MASTERY-v20`
-**Bloom:** Create
-**ICFES:** Argumentativa - Formular juicios de valor complejos
-**Context:** Debate sobre la Inteligencia Artificial en la educación colombiana
-
-### Enunciado
-En un
+La respuesta correcta es B. Esta estructura permite construir un argumento sólido: primero se identifica el problema (degradación del páramo), luego se presentan datos y evidencia, después se reconoce la complejidad al incluir contraargumentos (quizás hay intereses económicos legítimos), se refutan estos

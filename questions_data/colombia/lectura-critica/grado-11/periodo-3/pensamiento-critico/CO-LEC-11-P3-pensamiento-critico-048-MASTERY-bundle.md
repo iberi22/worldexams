@@ -1,30 +1,65 @@
 <think>
-The user wants me to generate exactly 20 ICFES-style multiple choice questions for Critical Reading (Lectura Crítica) on the topic of "pensamiento-critico" (critical thinking), grade 11, period 3. I need to follow the exact format specified with the YAML frontmatter and the 20 questions with progressive difficulty.
+The user wants me to generate exactly 20 multiple-choice questions in ICFES Saber 11 style for Reading Critical (Lectura Crítica), topic: critical thinking (pensamiento-critico), grade 11, period 3.
 
-Let me generate these questions following all the rules:
+I need to output ONLY the markdown file with the YAML frontmatter and 20 questions.
 
-1. Difficulty progressive: D3-D4 (questions 1-4), D5-D6 (5-10), D7-D8 (11-16), D9-D10 (17-20)
-2. Plausible distractors: real errors Colombian students make
-3. ICFES alignment: real Saber 11 exam style
-4. Modern Colombian context
-5. 4 mandatory options, [x] on the correct one
-6. No "all of the above" or "none of the above"
+Let me follow the structure:
+- Progressive difficulty: D3-D4 (questions 1-4), D5-D6 (5-10), D7-D8 (11-16), D9-D10 (17-20)
+- 4 options per question
+- [x] marking the correct answer
+- Colombian context
+- ICFES style
 
-I'll use the exact format specified with the Question headers and all the required fields.
+Let me create the questions:
 
-Let me create these questions focusing on critical thinking skills like analysis, evaluation, interpretation, argumentation, identification of biases, logical reasoning, etc.
+Questions 1-4 (Difficulty 3-4):
+1. Basic identification of assumptions
+2. Basic evaluation of arguments
+3. Basic inference recognition
+4. Basic distinction between facts and opinions
 
-I need to make sure:
-- Questions are in Spanish
-- They follow ICFES Saber 11 style
-- Contexts are modern and relevant to Colombia
-- Bloom's taxonomy levels are appropriate
-- ICFES competencies are specific
-- Difficulty progresses as specified
+Questions 5-10 (Difficulty 5-6):
+5. Analyzing simple logical structures
+6. Identifying bias
+7. Evaluating evidence quality
+8. Recognizing fallacies
+9. Distinguishing relevant from irrelevant information
+10. Basic cause-effect reasoning
 
-Let me generate all 20 questions now.
+Questions 11-16 (Difficulty 7-8):
+11. Complex argument analysis
+12. Evaluating multiple perspectives
+13. Identifying implicit assumptions
+14. Analyzing rhetorical strategies
+15. Evaluating source credibility
+16. Distinguishing strong vs weak arguments
+
+Questions 17-20 (Difficulty 9-10):
+17. Complex synthesis and evaluation
+18. Multi-layered argument deconstruction
+19. Advanced critical analysis
+20. Integrated critical thinking application
+
+Let me write these with Colombian contexts.
+
+Context for questions:
+- Youth and technology
+- Environmental issues in Colombia
+- Social media impact
+- Education system in Colombia
+- Economic challenges
+- Peace process
+- Indigenous communities
+- Migration
+- Urban planning
+- Healthcare
+
+
+I'll now develop the actual questions using these thematic areas and difficulty progression, ensuring each question tests different aspects of critical thinking while maintaining authentic ICFES styling.
+
 </think>
 
+```yaml
 ---
 id: "CO-LEC-11-P3-pensamiento-critico-048-MASTERY"
 country: "colombia"
@@ -39,7 +74,7 @@ alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
 generation:
   agent: "minimax-m2.7"
   model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T17:42:41.997668"
+  timestamp: "2026-04-16T02:10:43.602245"
   prompt_version: "v2-direct"
 quality_status: "UNREVISED"
 generation_status: "RAW"
@@ -57,318 +92,351 @@ open_source: false
 ## Question 1 (Variant Basic - Difficulty D3)
 
 **ID:** `CO-LEC-11-P3-pensamiento-critico-048-MASTERY-v1`
-**Bloom:** [Remember]
-**ICFES:** [Identificación de información explícita]
-**Context:** Redes sociales y desinformación en Colombia
+**Bloom:** Understand
+**ICFES:** Identificación de supuestos implícitos
+**Context:** Redes sociales y consumo informativo en jóvenes colombianos
 
 ### Enunciado
-En un fragmento sobre pensamiento crítico se lee: "El pensamiento crítico implica analizar, evaluar y razonar de manera sistemática". De esta definición, la acción que corresponde directamente al proceso de "analizar" es:
+En un editorial de un diario bogotano se lee: "Los jóvenes colombianos prefieren las redes sociales antes que leer newspapers tradicionales, lo cual evidencia una clara decadencia cultural." El supuesto implícito en este argumento es que:
 
 ### Options
-- [ ] A) Aceptar información sin cuestionarla <!-- feedback: Esta acción describe pensamiento acrítico, no pensamiento crítico -->
-- [ ] B) Separar las partes de un todo para comprender su estructura <!-- feedback: Esta es la definición correcta de análisis según el pensamiento crítico -->
-- [ ] C) Formular opiniones basadas únicamente en emociones <!-- feedback: Esto describe sesgo emocional, no análisis -->
-- [x] D) Descomponer un argumento en sus componentes básicos <!-- feedback: Esta es la descripción correcta de análisis según el pensamiento crítico -->
+- [ ] A) Los jóvenes están informados sobre temas culturales <!-- feedback: Es una observación sobre su comportamiento, no un supuesto -->
+- [ ] B) Los diarios tradicionales ofrecen contenido de mayor calidad informativa <!-- feedback: Este es un hecho observable, no un supuesto oculto -->
+- [x] C) La lectura de medios tradicionales es superior a las nuevas formas de consumo informativo <!-- feedback: Correcto. Se asume sin论证 que lo tradicional es mejor, siendo esto un juicio de valor implícito -->
+- [ ] D) Las redes sociales contienen información poco confiable <!-- feedback: Aunque podría estar presente, no es el supuesto central del argumento -->
 
 ### Explicación Pedagógica
-La respuesta correcta es la B. El análisis, según el pensamiento crítico, consiste en dividir un todo en sus partes para examinar cómo se relacionan. La opción B captura esta esencia:分离 las partes de un todo. Los distractores representan errores comunes: A describe pensamiento acrítico, C describe sesgo emocional, y D, aunque relacionada, es más específica del análisis de argumentos en contexto de evaluación.
+El argumento presenta una preferencia juvenil como evidencia de "decadencia cultural", lo cual implica que lo tradicional es intrínsecamente superior. Este supuesto oculto es el motor real del argumento.
 
 ---
 
 ## Question 2 (Variant Basic - Difficulty D3)
 
 **ID:** `CO-LEC-11-P3-pensamiento-critico-048-MASTERY-v2`
-**Bloom:** [Understand]
-**ICFES:** [Interpretación de intenciones del autor]
-**Context:** Educación y tecnología en Bogotá
+**Bloom:** Understand
+**ICFES:** Diferenciación entre hecho y opinión
+**Context:** Debate sobre educación pública en Colombia
 
 ### Enunciado
-Un estudiante lee el siguiente titular de un periódico colombiano: "Universidades públicas en Bogotá implementan inteligencia artificial para detectar plagio". El estudiante concluye que el periodista intenta:
-"Crear alarma social sobre el control tecnológico en la educación superior".
-
-Según el pensamiento crítico, ¿qué elemento falta en la interpretación del estudiante?
+En un debate sobre la educación pública colombiana, un político afirma: "La educación pública en Colombia tiene déficits históricos que llevan décadas sin resolverse." Esta afirmación representa:
 
 ### Options
-- [ ] A) Evidencia textual del artículo que respalde la interpretación <!-- feedback: Aunque importante, no es el elemento central faltante -->
-- [x] B) Una perspectiva equilibrada que considere tanto beneficios como riesgos de la tecnología <!-- feedback: El estudiante asume una intención negativa sin considerar alternativas, lo cual revela falta de equilibrio en el análisis -->
-- [ ] C) Conocimiento previo sobre políticas universitarias <!-- feedback: El conocimiento previo es útil pero no suple la falta de equilibrio interpretativa -->
-- [ ] D) Información sobre el autor del artículo <!-- feedback: La identidad del autor no garantiza una interpretación equilibrada -->
+- [ ] A) Un hecho verificable mediante datos históricos <!-- feedback: Se necesitarían datos específicos para verificar los déficits y su duración -->
+- [ ] B) Una opinión que puede ser respaldada o refutada con evidencia <!-- feedback: Correcto. El concepto de "déficit histórico" implica una valoración que requiere interpretación -->
+- [ ] C) Un dato estadístico oficial del Ministerio de Educación <!-- feedback: No se presenta como dato oficial ni fuente citada -->
+- [ ] D) Una ley o decreto del sistema educativo colombiano <!-- feedback: No hace referencia a normativa legal alguna -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. El pensamiento crítico exige considerar múltiples perspectivas antes de atribuir intenciones a un autor. El estudiante saltó directamente a una interpretación negativa ("crear alarma social") sin explorar si el periodista podría tener una intención informativa o incluso positiva. Las otras opciones son elementos válidos del análisis crítico, pero no abordan directamente la limitación identificada.
+La palabra "déficits" implica una evaluación negativa que depende de criterios valorativos y no de hechos brutos. Lo que uno considera déficit puede ser interpretado de manera diferente según la perspectiva.
 
 ---
 
 ## Question 3 (Variant Basic - Difficulty D4)
 
 **ID:** `CO-LEC-11-P3-pensamiento-critico-048-MASTERY-v3`
-**Bloom:** [Understand]
-**ICFES:** [Reconocimiento de supuestos]
-**Context:** Economía y empleo juvenil en Colombia
+**Bloom:** Apply
+**ICFES:** Evaluación de estructura argumentativa básica
+**Context:** Discusión sobre tecnología en el aula colombiana
 
 ### Enunciado
-Lee el siguiente fragmento: "Los jóvenes colombianos que no acceden a educación superior tienen menores posibilidades de empleo formal. Por lo tanto, el gobierno debería financiar becas universitarias para todos los jóvenes".
-
-¿Qué supuesto implícito contiene este argumento?
+Un rector de colegio en Medellín presenta: "Hemos implementado tablets para todos los estudiantes. Las calificaciones promedio mejoraron 0.5 puntos este año. Por lo tanto, la tecnología en el aula fue la causa de la mejora." El error lógico en este argumento es:
 
 ### Options
-- [ ] A) Todos los jóvenes deseanstudiar en la universidad <!-- feedback: Este podría ser un supuesto, pero no es el más fundamental -->
-- [ ] B) La educación superior garantiza automáticamente empleo formal <!-- feedback: Aunque es un supuesto, el argumento principal depende de otro más básico -->
-- [x] C) La falta de educación superior es la causa principal del desempleo juvenil <!-- feedback: Este es el supuesto central que subyace a todo el argumento y su conclusión -->
-- [ ] D) El gobierno tiene la obligación moral de financiar educación <!-- feedback: Este es un supuesto normativo, no el que sostiene la estructura lógica del argumento -->
+- [ ] A) Usar datos falsos sobre las calificaciones <!-- feedback: El argumento no disputa la veracidad de los datos -->
+- [ ] B) No considerar que otros factores hayan podido contribuir a la mejora <!-- feedback: Correcto. Se establece causalidad directa sin eliminar otras variables -->
+- [ ] C) Criticar el uso de tecnología en educación <!-- feedback: No es una crítica, es una falacia causal -->
+- [ ] D) Comparar estudiantes con y sin tablets <!-- feedback: No se menciona esta comparación -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. El argumento presenta una relación causal directa entre "no acceso a educación superior" y "menores posibilidades de empleo", pero asume que esta es LA causa principal sin explorar otras variables como violencia, informalidad económica, disparidades regionales o falta de habilidades blandas. Identificar este supuesto es esencial para evaluar la solidez del argumento. Las otras opciones son supuestos reales pero secundarios al razonamiento principal.
+El argumento presenta correlación temporal como prueba de causalidad directa. other factors like teaching method changes, student motivation, or curriculum updates could explain the improvement. This is a classic post hoc ergo propter hoc fallacy.
 
 ---
 
 ## Question 4 (Variant Basic - Difficulty D4)
 
 **ID:** `CO-LEC-11-P3-pensamiento-critico-048-MASTERY-v4`
-**Bloom:** [Apply]
-**ICFES:** [Aplicación de criterios de evaluación]
-**Context:** Medios de comunicación en Medellín
+**Bloom:** Apply
+**ICFES:** Identificación de sesgo en fuente informativa
+**Context:** Cobertura mediática de industria petrolera en Colombia
 
 ### Enunciado
-Un noticiero local de Medellín presenta una encuesta que dice: "El 75% de los paisas están en contra de la minería en sus territorios". El periodista presenta esta cifra como evidencia de rechazo masivo a un proyecto minero.
-
-Aplicando criterios de pensamiento crítico, ¿cuál de las siguientes preguntas es más relevante para evaluar esta afirmación?
+Un artículo de investigación sobre los efectos ambientales de la extracción petrolera en el Casanare fue financiado completamente por empresas del sector hydrocarbono. Según el contexto de este estudio, ¿cuál debería ser la lectura crítica más apropiada?
 
 ### Options
-- [ ] A) ¿El proyecto minero traerá inversión económica a la región? <!-- feedback: Esta pregunta es relevante pero no evalúa directamente la validez de la encuesta -->
-- [x] B) ¿Cuántas personas fueron entrevistadas y cómo fueron seleccionadas? <!-- feedback: El tamaño y método de muestreo son fundamentales para evaluar la validez de cualquier encuesta -->
-- [ ] C) ¿Quién financió el noticiero que transmite la información? <!-- feedback: Aunque relevante, no aborda directamente la calidad de la evidencia presentada -->
-- [ ] D) ¿La minería causa contaminación ambiental? <!-- feedback: Esta pregunta es sobre el tema, no sobre la calidad de la evidencia presentada -->
+- [ ] A) Aceptar completamente los hallazgos como objetivos y verificables <!-- feedback: Ignora completamente el conflicto de interés -->
+- [ ] B) Considerar los hallazgos pero verificarlos con fuentes independientes <!-- feedback: Correcto. Es la respuesta más crítica y apropiada -->
+- [ ] C) Descartar automáticamente cualquier conclusión del estudio <!-- feedback: Puede haber información útil que requiere verificación -->
+- [ ] D) Solo considerar las conclusiones que favorecen a las empresas <!-- feedback: Esto sería acrítico y sesgado -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. Para evaluar críticamente una encuesta, los criterios fundamentales incluyen: tamaño de la muestra, método de selección (aleatorio vs. conveniencia), margen de error y nivel de confianza. Una encuesta puede mostrar "75%" pero si solo entrevistó a 20 personas de un barrio específico反对 minerías, el dato pierde validez generalizable. Las otras opciones son preguntas válidas pero no evalúan directamente la calidad de la evidencia numérica presentada.
+La financiación completa por parte de las empresas relacionadas directamente con los resultados genera un conflicto de interés que debe hacer que el lector adopte una postura de verificación independiente sin descartar automáticamente el contenido.
 
 ---
 
-## Question 5 (Variant Basic - Difficulty D5)
+## Question 5 (Variant Intermediate - Difficulty D5)
 
 **ID:** `CO-LEC-11-P3-pensamiento-critico-048-MASTERY-v5`
-**Bloom:** [Analyze]
-**ICFES:** [Análisis de estructura argumentativa]
-**Context:** Política ambiental en la Amazonía colombiana
+**Bloom:** Analyze
+**ICFES:** Análisis de estrategias retóricas
+**Context:** Discursos políticos en campaña electoral colombiana
 
 ### Enunciado
-Analiza el siguiente argumento: "La deforestación en la Amazonía colombiana ha aumentado un 40% en los últimos cinco años (dato). Por lo tanto, los programas de conservación actuales han fracasado (conclusión)".
-
-¿Cuál es la debilidad principal del razonamiento?
+En un discurso de campaña, un candidato a la gobernación del Valle del Cauca dice: "Mis oponentes quieren destruir todo lo que hemos construido durante años. Pero yo, soy la única persona que puede salvar nuestra región del colapso total." La estrategia retórica predominante es:
 
 ### Options
-- [ ] A) El dato sobre deforestación es probablemente falso <!-- feedback: No hay evidencia que sugiera falsificación del dato -->
-- [ ] B) No se distingue entre correlación y causación <!-- feedback: El argumento no establece una correlación clara con los programas de conservación -->
-- [x] C) Se omite información sobre condiciones previas a los programas de conservación <!-- feedback: Sin conocer la tasa de deforestación ANTES de implementar los programas, no se puede atribuir el fracaso a ellos. Podría ser que los programas evitaron un aumento aún mayor -->
-- [ ] D) La Amazonía es demasiado grande para evaluar programas locales <!-- feedback: Aunque presenta un desafío, no es la debilidad lógica del argumento -->
+- [ ] A) Uso de datos estadísticos sobre la región <!-- feedback: No se presentan cifras ni datos -->
+- [ ] B)generalización sobre todos los candidatos <!-- feedback: Puede ser parte, pero no es la estrategia principal -->
+- [x] C) Creación de un escenario binario: nosotros contra ellos sin matices <!-- feedback: Correcto. Se presenta una dicotomía simplista donde el candidato es la única opción viable -->
+- [ ] D) Citación de expertos internacionales en governanza <!-- feedback: No hay mención de expertos -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. El pensamiento crítico exige examinar si las premisas son suficientes para sostener la conclusión. Para evaluar si los programas "fracasaron", se necesita saber cuál era la tasa de deforestación antes de implementarlos. Si antes la deforestación crecía a 80% anual y ahora a 40%, los programas podrían estar teniendo éxito parcial. La omisión de esta información de contexto es una falacia de evidencia incompleta. Las otras opciones no identifican la debilidad más fundamental.
+El discurso crea una falsa dicotomía donde cualquier alternativa al candidato significa "destrucción" o "colapso". Esta estrategia deshumaniza a los oponentes y impide al electorado considerar matices o alternativas intermedias.
 
 ---
 
-## Question 6 (Variant Basic - Difficulty D5)
+## Question 6 (Variant Intermediate - Difficulty D5)
 
 **ID:** `CO-LEC-11-P3-pensamiento-critico-048-MASTERY-v6`
-**Bloom:** [Analyze]
-**ICFES:** [Identificación de sesgos en textos]
-**Context:** Periodismo deportivo en Colombia
+**Bloom:** Analyze
+**ICFES:** Evaluación de fuerza argumentativa
+**Context:** Debate sobre uso medicinal del cannabis en Colombia
 
 ### Enunciado
-Un columnista deportivo escribe: "El equipo amarilla de Barranquilla mereció ganar el clásico porque jugar en casa siempre da ventajas psicológicas al equipo local, además de conocer mejor la cancha y contar con el apoyo de la hinchada".
-
-¿Qué tipo de sesgo o falacia lógica presenta este argumento?
+En un debate sobre la regulación del cannabis medicinal en Colombia, un médico argumenta: "El cannabis tiene compuestos que pueden aliviar el dolor crónico. Los pacientes merecen acceso a tratamientos que mejoren su calidad de vida. Por lo tanto, debemos legalizar el cannabis medicinal." La fuerza de este argumento depende principalmente de:
 
 ### Options
-- [ ] A) Apelación a la tradición ("siempre ha sido así") <!-- feedback: No hay referencia a tradiciones en el argumento -->
-- [ ] B) Falacia del hombre de paja (se exageran los argumentos del oponente) <!-- feedback: No hay referencia a argumentos de terceros -->
-- [ ] C) Sesgo de confirmación (se busca solo información que respalde una posición) <!-- feedback: No se presenta búsqueda de evidencia selectiva -->
-- [x] D) Generalización apresurada basada en factores subjetivos <!-- feedback: El argumento asume que TODOS los equipos locales tienen ventaja, ignorando casos donde equipos visitantes ganan, y sobrevalora factores psicológicos subjetivos sobre el desempeño técnico real -->
+- [ ] A) La cantidad de pacientes que han usado cannabis medicinal <!-- feedback: Importante, pero no aborda la estructura del razonamiento -->
+- [ ] B) La demostración de que otros tratamientos son inferiores <!-- feedback: No se hace esta comparación -->
+- [x] C) La verdad de las premisas sobre los efectos del cannabis y el valor de la calidad de vida <!-- feedback: Correcto. Si las premisas son verdaderas y el razonamiento válido, el argumento es fuerte -->
+- [ ] D) La autoridad institucional del médico que presenta el argumento <!-- feedback: La autoridad puede dar credibilidad, pero no hace lógico el argumento -->
 
 ### Explicación Pedagógica
-La respuesta correcta es D. El columnista generaliza que "siempre" el equipo local tiene ventaja, ignorando excepciones documentadas donde equipos visitantes ganan clásicos. Además, sobrevalora factores subjetivos ("ventajas psicológicas") sobre elementos técnicos, tácticos o de preparación que podrían ser más determinantes. El pensamiento crítico requiere resistir generalizaciones que ignoran evidencia contradictoria. Las otras opciones describen falacias reales pero no presentes en este texto.
+En un argumento deductivo, la fuerza depende de dos factores: la verdad de las premisas y la validez de la inferencia. Aquí se debe evaluar si efectivamente el cannabis tiene propiedades terapéuticas y si mejorar la calidad de vida es un objetivo valioso.
 
 ---
 
-## Question 7 (Variant Basic - Difficulty D5)
+## Question 7 (Variant Intermediate - Difficulty D5)
 
 **ID:** `CO-LEC-11-P3-pensamiento-critico-048-MASTERY-v7`
-**Bloom:** [Apply]
-**ICFES:** [Evaluación de evidencia]
-**Context:** Salud pública y vacunas en Colombia
+**Bloom:** Analyze
+**ICFES:** Identificación de falacias argumentativas
+**Context:** Discusión sobre impuestos en Colombia
 
 ### Enunciado
-Una publicación en redes sociales afirma: "Los alimentos orgánicos son científicamente probados como superiores en nutrientes a los alimentos convencionales". La publicación incluye una imagen de un estudio científico.
-
-Aplicando pensamiento crítico, ¿cuál es la primera pregunta que debería hacerse antes de aceptar esta afirmación?
+Un empresario escribe en su专栏 de opinión: "El gobierno quiere aumentar los impuestos a los ricos porque envidia nuestro éxito. Si permitimos este atropello, pronto no quedará nadie que cree empleo en este país." La falacia principal presente es:
 
 ### Options
-- [ ] A) ¿El estudio fue realizado por una empresa de alimentos orgánicos? <!-- feedback: Esta es una pregunta relevante sobre conflicto de intereses, pero no es la primera que se debe hacer -->
-- [ ] B) ¿El estudio fue publicado en una revista revisada por pares? <!-- feedback: Importante, pero no aborda si el estudio realmente dice lo que afirma la publicación -->
-- [x] C) ¿El estudio cited realmente conclude lo que la publicación claims? <!-- feedback: Esta es la pregunta fundamental: verificar si la interpretación de la evidencia coincide con lo que realmente dice la fuente. Muchas veces las conclusiones se distorsionan -->
-- [ ] D) ¿Cuántas personas participaron en el estudio? <!-- feedback: Relevante para metodología, pero secundario a verificar la fidelidad de la interpretación -->
+- [x] A) Ad hominem: atacar las motivaciones del gobierno en lugar de sus argumentos <!-- feedback: Correcto. Se atribuye envidia como motivo sin evidencia -->
+- [ ] B) Falsa dicotomía: solo dos opciones posibles sin matices <!-- feedback: También presente, pero no es la falacia principal -->
+- [ ] C) Apelación a la tradición: se basa en lo que siempre ha existido <!-- feedback: No hay mención de tradición -->
+- [ ] D) Generalización apresurada: todos los ricos crearían empleo <!-- feedback: No se hace esta conexión lógica -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. El principio más fundamental del pensamiento crítico aplicado a evidencia es verificar la fidelidad de la interpretación: ¿realmente la fuente dice lo que se afirma que dice? Este principio protege contra una de las distorsiones más comunes: citation out of context o strawman de estudios científicos. Una vez establecida la fidelidad, entonces se evalúan otros aspectos como metodología, conflictos de interés, etc. Las otras preguntas son válidas pero representan pasos posteriores.
+El argumento ataca las motivaciones personales del gobierno ("envidia") en lugar de abordar los méritos reales de la propuesta fiscal. Esto es un ataque ad hominem circumstantial que desvía la atención del argumento de fondo.
 
 ---
 
-## Question 8 (Variant Basic - Difficulty D6)
+## Question 8 (Variant Intermediate - Difficulty D6)
 
 **ID:** `CO-LEC-11-P3-pensamiento-critico-048-MASTERY-v8`
-**Bloom:** [Apply]
-**ICFES:** [Distinción entre hecho y opinión]
-**Context:** Política educativa en Cali
+**Bloom:** Analyze
+**ICFES:** Evaluación de evidencia y relevancia
+**Context:** Discusión sobre seguridad alimentaria en Bogotá
 
 ### Enunciado
-Lee el siguiente texto: "La nueva política educativa de Cali, implementada en 2024, ha demostrado ser efectiva. El secretario de educación municipal declaró que 'los indicadores de deserción escolar han mejorado significativamente' y que 'esto confirma que la política va por buen camino'".
-
-¿Cuál de las siguientes afirmaciones representa la evaluación crítica más apropiada de este texto?
+Un informe del Distrito de Bogotá afirma que "el 70% de los estudiantes de instituciones públicas consumieron frutas al menos una vez al día durante la última semana, lo cual demuestra el éxito del programa 'Frutas para el Aprendizaje' implementado hace dos años." Para evaluar críticamente esta conclusión, ¿cuál evidencia adicional sería más relevante?
 
 ### Options
-- [ ] A) El texto es completamente confiable porque viene de un funcionario público <!-- feedback: Esta no es una evaluación crítica, sino una aceptación acrítica de autoridad -->
-- [ ] B) El texto es falso porque no conozco casos de mejora en mi barrio <!-- feedback: Esto representa una falacia anecdotica: la experiencia personal no refuta datos sistemáticos -->
-- [x] C) El texto presenta como hechos conclusiones que son opiniones del secretario, sin evidencia independiente que las respalde <!-- feedback: El pensamiento crítico exige distinguir entre declaraciones de autoridad y evidencia verificable. El secretary cita indicadores pero no presenta datos ni fuentes verificables -->
-- [ ] D) El texto está bien porque menciona indicadores medibles <!-- feedback: Solo mencionar "indicadores" no garantiza que sean medibles o verificables; se necesitaría evidencia concreta -->
+- [ ] A) Cuántos estudiantes participen en programas similares en otras ciudades <!-- feedback: Relevante pero no directamente para evaluar el programa -->
+- [ ] B) Comparar el consumo de frutas entre estudiantes antes y después del programa <!-- feedback: Correcto. Esto permitiría aislar el efecto del programa de otros factores -->
+- [ ] C) La opinión de los profesores sobre los cambios en alimentación de estudiantes <!-- feedback: Sujeto a sesgos y percepciones subjetivas -->
+- [ ] D) Cuántos recursos económicos se destinaron al programa <!-- feedback: Importante para contexto presupuestal, no para evaluar impacto -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. El pensamiento crítico exige distinguir entre hechos verificables y opiniones o interpretaciones de autoridad. El texto presenta "mejora significativa" como un hecho, pero en realidad es la interpretación del secretary. No se presentan datos: ¿cuál es la tasa de deserción antes y después? ¿en qué período? ¿en qué zonas? Sin esta información verificable, la conclusión es una opinión presentada como hecho. Las otras opciones representan errores críticos opuestos: aceptación acrítica o rechazo arbitrario sin análisis.
+Sin una medición previa al programa, no se puede establecer la causalidad. La comparación antes-después permitiría determinar si hubo un cambio atribuible al programa o simplemente variaciones normales.
 
 ---
 
-## Question 9 (Variant Basic - Difficulty D6)
+## Question 9 (Variant Intermediate - Difficulty D6)
 
 **ID:** `CO-LEC-11-P3-pensamiento-critico-048-MASTERY-v9`
-**Bloom:** [Evaluate]
-**ICFES:** [Evaluación de coherencia argumentativa]
-**Context:** Discusión sobre armas en Colombia
+**Bloom:** Analyze
+**ICFES:** Análisis de inferencias implícitas
+**Context:** Discusión sobre migración venezolana en Cúcuta
 
 ### Enunciado
-Analiza la siguiente línea de argumentación: "Colombia debería prohibir la venta de armas de fuego a civiles. Estados Unidos tiene tasas de criminalidad más altas que Colombia. Por lo tanto, la prohibición de armas reduciría la criminalidad en Colombia".
-
-¿Cuál es el principal problema lógico en esta cadena argumentativa?
+Un artículo periodístico afirma: "La ola migratoria venezolana ha saturado los servicios de salud en Cúcuta, donde los hospitales reportan tiempos de espera tres veces mayores que hace dos años." Una inferencia que el lector NO debe hacer sin evidencia adicional es:
 
 ### Options
-- [ ] A) La comparación entre países es irrelevante porque tienen contextos diferentes <!-- feedback: Aunque hay diferencias, no es el problema más fundamental de la cadena lógica -->
-- [ ] B) La tasa de criminalidad en Estados Unidos es en realidad más baja que en Colombia <!-- feedback: No hay evidencia que respalde esta afirmación específica -->
-- [x] C) Se usa evidencia de un país con venta libre de armas para apoyar una política opuesta, sin explicar por qué funcionaría igual en Colombia <!-- feedback: El argumento asume que lo que funciona en un contexto funcionará en otro idénticamente, sin justificar esta transferencia. Además, no aborda la diferencia en contextos culturales, legales y de seguridad -->
-- [ ] D) Estados Unidos y Colombia no deben compararse porque son países culturalmente distintos <!-- feedback: La diferencia cultural es relevante pero no es el problema lógico central de la transferencia de evidencia -->
+- [ ] A) Los tiempos de espera más largos son consecuencia de la migración <!-- feedback: Es precisamente lo que el titular sugiere, pero requiere verificación -->
+- [ ] B) Los servicios de salud en Cúcuta enfrentan desafíos de capacidad <!-- feedback: Correcto. Esta es una inferencia legítima del dato -->
+- [ ] C) La migración venezolana es la ÚNICA causa del aumento en tiempos de espera <!-- feedback: Esta es la inferencia injustificada. Otros factores como recortes presupuestales o enfermedades estacionales podrían contribuir -->
+- [ ] D) Los hospitales en Cúcuta están bajo presión operativa significativa <!-- feedback: Se puede inferirlegítimamente de los datos presentados -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. Este es un ejemplo clásico de pensamiento crítico que examina la Transferibilidad de evidencia: antes de aplicar lecciones de un caso a otro, se debe justificar que los contextos son suficientemente similares. El argumento asume sin justificación que la prohibición funcionaría "igual" en Colombia. Pero Estados Unidos tiene una cultura de armas, un mercado ilegal extenso y una geografía diferentes. El problema central es la inferencia injustificada de un caso a otro. Las otras opciones identifican problemas reales pero secundarios.
+La correlación temporal entre la migración y el aumento en tiempos de espera no establece causalidad única. Excluir otras explicaciones potenciales (subfinanciamiento, epidemias locales, migración interna de colombianos) es un error lógico.
 
 ---
 
-## Question 10 (Variant Basic - Difficulty D6)
+## Question 10 (Variant Intermediate - Difficulty D6)
 
 **ID:** `CO-LEC-11-P3-pensamiento-critico-048-MASTERY-v10`
-**Bloom:** [Evaluate]
-**ICFES:** [Evaluación de fuentes]
-**Context:** Contenido generado por IA en universidades colombianas
+**Bloom:** Evaluate
+**ICFES:** Evaluación de argumentos múltiples y contradictorios
+**Context:** Discusión sobre transporte público en Medellín
 
 ### Enunciado
-Un estudiante universitario encuentra en un blog la siguiente afirmación: "Según la UNESCO, la inteligencia artificial reemplazará el 40% de los trabajos actuales en América Latina para 2030". El estudiante quiere usar esta cita en su trabajo final.
-
-¿Cuál es la acción más apropiada desde el pensamiento crítico?
+Un estudiode la Universidad Nacional conclude que "el Metro de Medellín reduce significativamente las emisiones de carbono en la ciudad." Sin embargo, un informe de una organización ambiental local afirma que "los beneficios ambientales del Metro se ven compensados por el incremento en el uso de energía fósil para su mantenimiento." Ante estos argumentos contradictorios, ¿cuál es la aproximación más crítica e informada?
 
 ### Options
-- [ ] A) Usar la cita directamente porque la UNESCO es una fuente confiable <!-- feedback: Ser fuente reconocida no garantiza que la cita sea precisa o esté actualizada -->
-- [x] B) Verificar la cita original en los documentos oficiales de la UNESCO antes de usarla <!-- feedback: El pensamiento crítico exige verificar directamente las fuentes citadas, especialmente cuando se trata de cifras específicas y fechas -->
-- [ ] C) Buscar en Google si hay otras fuentes que digan algo similar <!-- feedback: Buscar confirmación no es verificación; se necesita encontrar la fuente primaria -->
-- [ ] D) No usar ninguna cita porque es imposible verificar información en internet <!-- feedback: Esta es una posición excesivamente escéptica que evita el problema en lugar de resolverlo -->
+- [ ] A) Aceptar el estudio de la universidad porque es de una institución acreditada <!-- feedback: La acreditación no garantiza la metodología ni la ausencia de sesgos -->
+- [ ] B) Descartar ambos por ser contradictorios e imposibles de verificar <!-- feedback: No es una aproximación crítica constructiva -->
+- [x] C) Analizar la metodología, las fuentes de datos y los conflictos de interés de ambos estudios <!-- feedback: Correcto. La evaluación crítica requiere revisar los fundamentos, no solo la autoridad de la fuente -->
+- [ ] D) Promediar las conclusiones de ambos para obtener una posición neutral <!-- feedback: Combinar conclusiones sin evaluar la calidad de la evidencia es伪crítico -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. El principio fundamental de evaluación de fuentes es buscar la fuente primaria: ¿quién dijo exactamente qué, cuándo, en qué contexto y con qué evidencia? Muchas citas en internet son mal atribuidas, exageradas o completamente fabricadas. El estudiante debe verificar si la UNESCO realmente hizo esta afirmación específica o si fue distorsionada por el blog. Las otras opciones representan errores comunes: confianza acrítica en autoridad, sesgo de confirmación, o escepticismo paralizante.
+La aproximación críticainforma requiere evaluar la solidez metodológica, los datos utilizados y los potenciales sesgos de financiadores o instituciones, sin importar si la fuente es académica o no.
 
 ---
 
 ## Question 11 (Variant Advanced - Difficulty D7)
 
 **ID:** `CO-LEC-11-P3-pensamiento-critico-048-MASTERY-v11`
-**Bloom:** [Analyze]
-**ICFES:** [Identificación de técnicas persuasivas]
-**Context:** Marketing político en campañas electorales colombianas
+**Bloom:** Evaluate
+**ICFES:** Evaluación crítica de argumentos con múltiples premisas
+**Context:** Debate sobre fracking en Colombia
 
 ### Enunciado
-En un debate electoral, un candidato dice: "Mi opponent voting por aumento de impuestos mientras el país atraviesa una crisis económica. Claramente no le importan las familias trabajadoras".
-
-Aplicando pensamiento crítico, ¿qué técnica persuasiva se identifica y cuál es su debilidad argumentativa?
+Un político que se opone al fracking en el Magdalena Medio argumenta: "El fracking contamina las aguas subterráneas, afecta la salud de las comunidades rurales y genera sismicidad. Por lo tanto, debemos prohibirmás exploration de hidrocarburos mediante esta técnica." Al evaluar este argumento, un lector crítico debería concluir que:
 
 ### Options
-- [ ] A) Ataque ad hominem porque insulta al oponente como persona <!-- feedback: El ataque no es directamente al carácter del oponente, sino a su posición política -->
-- [ ] B) Falso dilema porque presenta solo dos opciones posibles <!-- feedback: No hay presentación de dilema en el enunciado -->
-- [x] C) Pensamiento mágico causal: asume que oponerse a impuestos causará automáticamente alivio económico, sin explicar el mecanismo <!-- feedback: El candidato presupone una relación causal simple: menos impuestos = más dinero para familias. Pero no explica cómo funcionaría esto con los servicios públicos, la deuda nacional, o los programas sociales. Es un salto causal sin mecanismo -->
-- [ ] D) Apelación a la tradición porque menciona "familias trabajadoras" como grupo tradicional <!-- feedback: No hay referencia a tradiciones en el argumento -->
+- [ ] A) El argumento es lógicamente válido porque presenta múltiples razones para la conclusión <!-- feedback: La validez lógica no garantiza que las premisas sean verdaderas -->
+- [x] B) Las premisas deben ser verificadas independientemente antes de aceptars la conclusión <!-- feedback: Correcto. Cada premisa requiere evidencia separada: ¿hay estudios que confirmen la contaminación, los problemas de salud y la sismicidad? -->
+- [ ] C) El político es automáticamente confiable por su posición contra el fracking <!-- feedback: La motivación política no hace más válido el argumento -->
+- [ ] D) La conclusión es correcta porque otras técnicas también generan problemas <!-- feedback: Esto es una falacia whataboutism, no aborda el mérito del argumento -->
 
 ### Explicación Pedagógica
-La respuesta correcta es C. El pensamiento crítico permite identificar "pensamiento mágico causal" o falacia de correlación-causación simplificada. El candidato salta de "opuesto a impuestos" a "le importan las familias" sin explicar el mecanismo causal: ¿cómo se traduciría esta política en bienestar familiar? ¿Qué programas sociales se afectarían? ¿Cómo se financiaría el Estado? Esta técnica persuade mediante la supresión de complejidad, presentando como intuitivamente obvio lo que requiere análisis detallado. Las otras opciones describen falacias reales pero no presentes.
+Un argumento puede ser válido en su estructura pero tener premisas falsas. El lector crítico debe verificar cada afirmación antes de aceptar la conclusión, sin importar si está de acuerdo o no con ella.
 
 ---
 
 ## Question 12 (Variant Advanced - Difficulty D7)
 
 **ID:** `CO-LEC-11-P3-pensamiento-critico-048-MASTERY-v12`
-**Bloom:** [Evaluate]
-**ICFES:** [Evaluación de argumentos múltiples]
-**Context:** Debate sobre regulación de plataformas digitales en Colombia
+**Bloom:** Evaluate
+**ICFES:** Evaluación de perspectiva e intereses en тексте
+**Context:** Cobertura mediática de proceso de paz en Colombia
 
 ### Enunciado
-Lee dos argumentos sobre la regulación de redes sociales en Colombia:
-
-**Argumento A:** "Las redes sociales deberían regularse porque difunden noticias falsas que afectan la salud pública. Un estudio del Ministerio de Salud documentó 200 casos de desinformación sobre vacunas en 2023."
-
-**Argumento B:** "Las redes sociales no deberían regularse porque la libertad de expresión es un derecho fundamental. Limitar las plataformas sería un paso hacia la censura."
-
-¿Cuál es la evaluación crítica más precisa sobre la calidad de ambos argumentos?
+Un editorial de un medio de comunicación colombiano afirma: "El proceso de paz con el ELN es la única vía para alcanzar la estabilidad en el campo colombiano. Sin embargo, dado el historial de este grupo, cualquier acuerdo será frágil e insuficiente." Respecto a la perspectiva del editorial, ¿cuál afirmación es más precisa?
 
 ### Options
-- [ ] A) Argumento A es más fuerte porque presenta evidencia cuantitativa de un organismo oficial <!-- feedback: La presencia de un dato numérico no hace automáticamente más fuerte un argumento; se debe evaluar la metodología y la conexión lógica -->
-- [x] B) Ambos argumentos son débiles: A por no demostrar que regulación = menos desinformación, B por no considerar restricciones ya existentes a la libertad de expresión <!-- feedback: El pensamiento crítico evalúa las premisas y las conexiones lógicas. A asume que regulación funcionará sin demostrarlo. B ignora que ya existen límites legales a la libertad de expresión (difamación, incitación a violencia) -->
-- [ ] C) Argumento B es más fuerte porque invoca un derecho constitucional fundamental <!-- feedback: Invocar derechos es importante pero no sustituye el análisis lógico de las conexiones causales -->
-- [ ] D) Ambos argumentos son igualmente fuertes porque ambos presentan razones relevantes <!-- feedback: La presencia de razones relevantes no garantiza igual calidad; se debe evaluar la solidez de cada conexión lógica -->
+- [ ] A) El editorial favorece inequívocamente la paz sin condiciones <!-- feedback: La segunda oración contradice esta lectura -->
+- [x] B) El editorial expresa ambivalencia: hay apertura a la paz pero escepticismo sobre su efectividad <!-- feedback: Correcto. Se presentan dos posiciones que no se resuelven: únicas vía vs. fragilidad inherente -->
+- [ ] C) El editorial simplemente reporta hechos sin tomar posición <!-- feedback: La palabra "única vía" revela valoración, no objetividad -->
+- [ ] D) El editorial apoya completamente al ELN en el proceso <!-- feedback: No hay indicación de apoyo al grupo armado -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. El pensamiento crítico evalúa cada argumento por sus propios méritos: ambas premisas son verdaderas (existe desinformación; existe libertad de expresión) pero sus conclusiones no se siguen lógicamente. A no demuestra el nexo causal entre regulación y reducción de desinformación. B ignora que los derechos fundamentales ya tienen límites legales (no se puede incitar violencia). El pensamiento crítico exige evaluar la estructura lógica completa, no solo la plausibilidad de las premisas. Las otras opciones cometen el error de evaluar solo la fuente o solo la intuición.
+La tensión entre "única vía" y "frágil e insuficiente" revela una ambivalencia que el lector crítico debe identificar. El editorial no ofrece una posición clara, sino un conflicto interno que puede reflejar indecisión o un intento de agradar a múltiples audiencias.
 
 ---
 
 ## Question 13 (Variant Advanced - Difficulty D7)
 
 **ID:** `CO-LEC-11-P3-pensamiento-critico-048-MASTERY-v13`
-**Bloom:** [Analyze]
-**ICFES:** [Análisis de estructura retórica]
-**Context:** Discusión sobre autonomía universitaria en Bogotá
+**Bloom:** Analyze
+**ICFES:** Descomposición de argumento complejo
+**Context:** Discusión sobre inteligencia artificial en educación colombiana
 
 ### Enunciado
-Un rector universitario发表声明："En los últimos 10 años, hemos invertido en infraestructura, hemos mejorado nuestros rankings internacionales y hemos aumentado la producción científica. Esto demuestra que nuestro modelo de gobierno universitario es el más efectivo del país."
-
-¿Qué estructura retórica utiliza el rector y cuál es su debilidad crítica?
+Un artículo académico afirma: "La inteligencia artificial revolucionará la educación en Colombia. Un estudio en Singapur mostró que estudiantes que usaron tutores basados en IA mejoraron 30% en matemáticas. Además, los estudiantes colombian@s son nativos digitales. Por lo tanto, el gobierno debe invertir masivamente en IA educativa." Los supuestos implícitos en este argumento incluyen:
 
 ### Options
-- [ ] A)堆叠 (堆叠) de logros no relacionados: los logros pueden deberse a otros factores, no necesariamente al modelo de gobierno <!-- feedback: El rector sí utiliza logros, pero "堆叠" no es un término retórico estándar -->
-- [x] B) Post hoc ergo propter hoc: asume que porque los logros coincidieron temporalmente con el modelo actual, el modelo los causó <!-- feedback: El rector asume que la mejora coincide temporalmente con su gobierno = su gobierno las causó. Pero no controla otras variables: mungkin aumento de financiamiento nacional, cambios en políticas de becas, contexto económico favorable -->
-- [ ] C) Apelación a la tradición porque se refiere a "modelo" como si fuera históricamente probado <!-- feedback: No hay referencia a tradición en el argumento -->
-- [ ] D) Falso dilema porque solo presenta dos opciones de gobierno universitario <!-- feedback: No hay presentación de dilema en el argumento -->
+- [ ] A) Solo que los estudiantes colombianos saben usar tecnología <!-- feedback: Muy limitado, no captura la complejidad -->
+- [ ] B) Que Singapore es comparable a Colombia en contexto educativo y que la IA en educación funciona universalmente <!-- feedback: Correcto. Hay dos saltos: de contexto diferente y de resultado específico a conclusión general -->
+- [ ] C) Que el gobierno tiene presupuesto ilimitado para educación <!-- feedback: Posible, pero no es el supuesto central del argumento -->
+- [ ] D) Que todos los estudiantes prefieren IA sobre maestros humanos <!-- feedback: No se menciona preferencia estudiantil -->
 
 ### Explicación Pedagógica
-La respuesta correcta es B. El rector comete la clásica falacia post hoc ergo propter hoc: "después de esto, por lo tanto causado por esto". Asume que porque los logros ocurrieron durante su gestión, su modelo los causó. Pero correlación no implica causación: otros factores pudieron contribuir (financiamiento externo, cambios en políticas nacionales, tendencias globales en educación superior). El pensamiento crítico exige considerar variables alternativas antes de atribuir causalidad. Las otras opciones describen errores retóricos distintos.
+El argumento comete dos generalizaciones:transferir resultados de un contexto cultural y económico radicalmente diferente (Singapur) a Colombia, y asumir que porque los jóvenes usan tecnología, la aplicarán productivamente en educación formal. Son saltos lógicos no justificados.
 
 ---
 
-## Question 14 (Variant Advanced - Difficulty D7)
+## Question 14 (Variant Advanced - Difficulty D8)
 
 **ID:** `CO-LEC-11-P3-pensamiento-critico-048-MASTERY-v14`
-**Bloom:** [Evaluate]
-**ICFES:** [Evaluación de consistencia argumentativa]
-**Context:** Debate sobre trata de personas en la frontera colombiana
+**Bloom:** Evaluate
+**ICFES:** Evaluación de sesgo y perspectiva ideológica
+**Context:** Cobertura de problemática minera en Antioquia
 
 ### Enunciado
-Lee el siguiente texto: "La trata de personas en la frontera Colombo-Venezolana es un problema grave. Sin embargo, los programas de atención a víctimas no pueden depender solo de recursos gubernamentales. Las organizaciones de la sociedad civil deben asumir un papel protagónico en la atención directa a las víctimas."
-
-¿Cuál es la evaluación crítica más apropiada de la consistencia interna del argumento?
+En una conversación radial, un líder minerotradicional de Antioquia afirma: "Los que se oponen a la minería artesanal en el nordeste antioqueño son ambientalistas radicales de Bogotá que nunca han visitado la región y no entienden nuestra realidad." Una lectora crítica identificaría que esta afirmación:
 
 ### Options
-- [ ] A) El argumento es inconsistente porque demanda más participación de la sociedad civil pero no especifica qué recursos deberían aportar <!-- feedback: Esta observación es válida pero no detecta la inconsistencia más fundamental -->
-- [ ] B) El argumento es inconsistente porque reconoce la gravedad del problema pero propone soluciones limitadas al sector civil <!-- feedback: Esta es una observación superficial; la gravedad del problema no exige que el gobierno lo resuelva exclusivamente -->
-- [x] C) El argumento presenta una inconsistencia: reconoce que es un problema "grave" que requiere atención, pero su solución propuesta (sociedad civil) es estructuralmente más débil que el Estado para abordar problemas graves de esta magnitud <!-- feedback: El pensamiento crítico detecta que hay una desconexión
+- [ ] A) Presenta datos sobre la actividad minera que pueden ser verificados <!-- feedback: No hay datos, solo caracterizaciones -->
+- [x] B) Descalifica a los críticos mediante su origen geográfico y su supuesto conocimiento <!-- feedback: Correcto. Es una falacia ad hominem que evita el debate de ideas mediante la demonización del oponente -->
+- [ ] C) Ofrece una solución alternativa al conflicto por la minería <!-- feedback: No hay propuesta concreta -->
+- [ ] D) Reconoce la complejidad del problema ambiental y social <!-- feedback: Todo lo contrario: simplifica y deshumaniza -->
+
+### Explicación Pedagógica
+La estrategia retórica de vincular oposición con "radicalismo bogotano" busca descreditar sin refutar argumentos. La fuente geográfica del crítico es irrelevante para evaluar la validez de sus argumentos sobre el impacto ambiental.
+
+---
+
+## Question 15 (Variant Advanced - Difficulty D8)
+
+**ID:** `CO-LEC-11-P3-pensamiento-critico-048-MASTERY-v15`
+**Bloom:** Analyze
+**ICFES:** Análisis de estructura argumentativa y elementos faltantes
+**Context:** Debate sobre economía naranja en Colombia
+
+### Enunciado
+El Ministerio de Cultura promociona: "La economía naranja (industrias creativas y culturales) genera 600,000 empleos directos en Colombia y crece al 5% anual. Por cada peso invertido en cultura, se generan $4.50 en la economía. Therefore, debemos aumentar el presupuesto para cultura en un 50%." Para evaluar la conclusićum, falta analizar:
+
+### Options
+- [ ] A) Cuántos empleos genera la minería o la agricultura en el mismo período <!-- feedback: No es el elemento faltante en la estructura del argumento -->
+- [ ] B) La metodología del estudio que calculó el multiplicador ($4.50 por peso invertido) y la definición precisa de "empleos directos" <!-- feedback: Correcto. Estos son elementos fundamentales no justificados en el argumento -->
+- [ ] C) Las opiniones de artistas sobre el presupuesto cultural <!-- feedback: No constituye evidencia técnica sobre el impacto económico -->
+- [ ] D) Cuántos países tienen programas de economía naranja exitosos <!-- feedback: Relevante para contextualizar, pero no para evaluar la estructura del argumento -->
+
+### Explicación Pedagógica
+El multiplicador de 4.5 y la cifra de empleos son los pilares del argumento. Sin conocer la metodología que los generó, no se puede evaluar la fortaleza real del argumento. Es un dato no verificado que sostiene toda la conclusion.
+
+---
+
+## Question 16 (Variant Advanced - Difficulty D8)
+
+**ID:** `CO-LEC-11-P3-pensamiento-critico-048-MASTERY-v16`
+**Bloom:** Evaluate
+**ICFES:** Evaluación de consistencia argumentativa
+**Context:** Discusión sobre privacidad digital en Colombia
+
+### Enunciado
+Una activistas digital claim: "Las empresas de telecomunicaciones no deberían almacenar datos de navegación de los usuarios porque eso viola el derecho a la privacidad. Sin embargo, para capturar pedófilos, el gobierno debería tener acceso irrestricto a todos los datos de comunicación sin orden judicial." Al evaluar la consistencia de esta posición, se encuentra:
+
+### Options
+- [x] A) Una inconsistencia: acepta vigilancia sin restricciones para algunos casos pero rechaza la recopilación de datos por empresas <!-- feedback: Correcto. Si la privacidad es un derecho inviolable, debe aplicarse consistentemente. Hacer excepciones para el gobierno pero no para empresas contradice el principio -->
+- [ ] B) Una posición coherente que prioriza la seguridad sobre la privacidad <!-- feedback: No hay priorización explícita, sino una contradicción -->
+- [ ] C) Un argumento que favorece solo los derechos individuales sobre los colectivos <!-- feedback: Ni siquiera es coherente en esto -->
+- [ ] D) Una lógica impecable porque distingue entre actores públicos y privados <!-- feedback: La distinción entre actores no justifica la violación del mismo derecho -->
+
+### Explicación Pedagógica
+Si la privacidad es un derecho fundamental, no puede justificarse su violación selectiva según quién la solicite. La condición adicional de "sin orden judicial" hace la inconsistencia aún más clara, pues acepta remover garantías judiciales.
+
+---
+
+## Question 17 (Variant Mastery - Difficulty D9)
+
+**ID:** `CO-LEC-11-P3-pensamiento-critico-048-MASTERY-v17`
+**Bloom:** Evaluate
+**ICFES:** Síntesis y evaluación crítica de argumentos múltiples
+**Context:** Debate constitucional sobre educación como derecho en Colombia
+
+### Enunciado
+Tres fuentes presentan arguments sobre si la educación universitaria pública gratuita es constitucional: 1) Un académico argumenta que el derecho a la educación está consagrado en la Constitución y debe interpretarse expansivamente. 2) Un economistade gobierno afirma que garantizar educación gratuita para todos es fiscalmente insostenible. 3) Un tribunal constitucional de otro país memutuskan que la educación gratuita hasta pregrado es un derecho fundamental. La conclusión más críticamente fundamentada sería:
+
+### Options
+- [ ] A) La educación universitaria gratuita es constitucional porque así lo decidió otro tribunal <!-- feedback: Otros países no determinan la interpretación constitucional colombiana -->
+- [ ] B) La educación universitaria gratuita no es constitucional porque es insostenible fiscalmente <!-- feedback: La sostenibilidad fiscal no es el único criterio para interpretar derechos constitucionales -->
+- [ ] C) Se requiere un análisis más profundo sobre qué significa "educación" en el contexto del derecho y qué limitaciones presupuestarias son razonables para el Estado <!-- feedback: Correcto. Esta respuesta reconoce la complejidad y evita tanto el maximalismo de derechos como el minimalismo fiscal -->
+- [ ] D) El tema no puede resolverse porque hay opiniones contradictorias <!-- feedback:

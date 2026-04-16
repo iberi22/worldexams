@@ -190,13 +190,12 @@ The last quarter of the bundle should require evidence integration, conditional 
 
 ## Validation Gate
 
-Before accepting a new bundle:
-
-1. It must pass `validate_content.js`
-2. It must avoid `critical` flags in `audit_question_quality.js`
-3. It must not contain placeholder text, unfinished numbering, or partial bundles
+1. Must pass `validate_content.js`.
+2. Must avoid `critical` flags in `audit_question_quality.js`.
+3. **Draft/Incomplete bundles MUST be marked with `quarantine: true`** in frontmatter to prevent UI leak.
 
 ## Migration Rule
 
-- New generation for Grade 11 should use `protocol_version: "5.1"`
-- Existing v5.0 bundles may remain active, but when they are rewritten they must be normalized to v5.1 frontmatter and distractor rules
+- New generation must use `protocol_version: "5.2"`.
+- Legacy v5.1 bundles are acceptable but should be audited for misconception density.
+- Pre-university bundles are currently in **Total Quarantine** until they reach 5.2 standards.

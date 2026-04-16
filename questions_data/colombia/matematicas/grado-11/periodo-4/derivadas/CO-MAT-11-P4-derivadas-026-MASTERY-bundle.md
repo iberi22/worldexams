@@ -1,58 +1,28 @@
 <think>
-The user wants me to generate exactly 20 ICFES-style multiple choice questions for Colombian Math (Mathematics) specifically about derivatives (derivadas), grade 11, period 4. I need to output a specific markdown format with YAML frontmatter and 20 questions in the specified structure.
+El usuario me pide generar 20 preguntas tipo ICFES para matemáticas, tema derivadas, grado 11, período 4. Debo seguir exactamente el formato especificado con frontmatter YAML y las 20 preguntas estructuradas.
 
-Let me create 20 questions about derivatives with progressive difficulty:
-- Questions 1-4: D3-D4 difficulty
-- Questions 5-10: D5-D6 difficulty
-- Questions 11-16: D7-D8 difficulty
-- Questions 17-20: D9-D10 difficulty
+Debo generar preguntas con dificultad progresiva:
+- D3-D4: preguntas 1-4
+- D5-D6: preguntas 5-10
+- D7-D8: preguntas 11-16
+- D9-D10: preguntas 17-20
 
-The questions should be in Spanish, about derivatives, with Colombian context, plausible distractors based on common student errors, and follow the ICFES style.
+Los temas de derivadas que debo cubrir incluyen:
+- Definición de derivada
+- Reglas de derivación (potencia, suma, producto, cociente)
+- Derivada de funciones trigonométricas
+- Regla de la cadena
+- Derivadas de orden superior
+- Aplicaciones (máximos, mínimos, optimización)
+- Derivadas implícitas
+- Derivada de funciones exponenciales y logarítmicas
 
-Let me generate them:
+Debo usar contexto colombiano moderno y distractores plausibles (errores típicos de estudiantes colombianos).
 
-1. Basic derivative rules (power rule, etc.)
-2. Product/quotient rules
-3. Chain rule
-4. Trigonometric derivatives
-5. Exponential/logarithmic derivatives
-6. Implicit differentiation
-7. Higher order derivatives
-8. Applications (motion, optimization, related rates)
-9. Etc.
-
-Let me create each question with proper formatting:
-
-For the YAML frontmatter:
-- id: "CO-MAT-11-P4-derivadas-026-MASTERY"
-- country: "colombia"
-- grado: 11
-- asignatura: "matematicas"
-- tema: "derivadas"
-- periodo: 4
-- protocol_version: "5.1"
-- bundle_size: 20
-- bundle_index: 26
-- alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
-- generation: agent, model, timestamp, prompt_version
-- quality_status: "UNREVISED"
-- generation_status: "RAW"
-- needs_human_review: true
-- curation fields
-- license: "CC BY-NC-SA 4.0"
-- open_source: false
-
-Now for questions:
-- Each question needs a variant basic difficulty level
-
-
-- Enumerate from v1 through v20 across all difficulty tiers. I'll structure them as: v1-v4 (D3-D4), v5-v10 (D5-D6), v11-v16 (D7-D8), v17-v20 (D9-D10).
-
-Now I'll write the 20 questions covering derivative concepts, rules, and applications with Colombian contexts and plausible distractors based on typical student errors.
-
+Voy a generar las 20 preguntas siguiendo la estructura exacta.
 </think>
 
-```markdown
+```yaml
 ---
 id: "CO-MAT-11-P4-derivadas-026-MASTERY"
 country: "colombia"
@@ -67,7 +37,7 @@ alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
 generation:
   agent: "minimax-m2.7"
   model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T09:18:54.240944"
+  timestamp: "2026-04-16T00:44:08.741673"
   prompt_version: "v2-direct"
 quality_status: "UNREVISED"
 generation_status: "RAW"
@@ -85,329 +55,392 @@ open_source: false
 ## Question 1 (Variant Basic - Difficulty D3)
 
 **ID:** `CO-MAT-11-P4-derivadas-026-MASTERY-v1`
-**Bloom:** [Remember]
-**ICFES:** [Reproducir una regla de derivación]
-**Context:** Un estudiante de grado 11 practica derivadas básicas en su cuaderno
+**Bloom:** Remember
+**ICFES:** Interpretar propiedades de funciones a partir de su derivada
+**Context:** Función de producción en empresa textil de Medellín
 
 ### Enunciado
-Si f(x) = x⁵, entonces la derivada f'(x) es igual a:
+Si f(x) = x⁵, ¿cuál es el valor de f'(x)?
 
 ### Options
-- [ ] A) 5x⁶ <!-- feedback: Error al aplicar el exponente como coeficiente sumándole 1 -->
-- [ ] B) 5x⁴ <!-- feedback: Error al restar 1 al exponente pero no multiplicar por el exponente original -->
-- [x] C) 5x⁴ <!-- feedback: Correcto: por la regla de la potencia, d/dx[xⁿ] = nxⁿ⁻¹ -->
-- [ ] D) x⁴ <!-- feedback: Error: no se aplicó el coeficiente del exponente -->
+- [ ] A) 5x⁵
+- [ ] B) 5x⁴
+- [x] C) 5x⁴ <!-- feedback: Por la regla de derivación de potencias, d/dx[xⁿ] = nxⁿ⁻¹, entonces d/dx[x⁵] = 5x⁴ -->
+- [ ] D) x⁴
 
 ### Explicación Pedagógica
-La regla de la potencia es fundamental en derivación. Para f(x) = xⁿ, f'(x) = n·xⁿ⁻¹. En este caso: f'(x) = 5·x⁵⁻¹ = 5x⁴. El distractor A es común en estudiantes que confunden la operación (elevar a 6 en lugar de mantener el exponente y multiplicar). El distractor D muestra estudiantes que olvidan el coeficiente numérico.
+La respuesta correcta es C) porque se aplica la regla de derivación de potencias: "baja el exponente como coeficiente y reduce el exponente en uno". Los estudiantes frecuentemente cometen el error de solo bajar el exponente (opción A) o de olvidar completamente la aplicación de la regla (opción D).
 
 ---
 
 ## Question 2 (Variant Basic - Difficulty D3)
 
 **ID:** `CO-MAT-11-P4-derivadas-026-MASTERY-v2`
-**Bloom:** [Remember]
-**ICFES:** [Identificar la derivada de una función trigonométrica]
-**Context:** En una clase de matemáticas del Colegio San José, el profesor pregunta sobre derivadas trigonométricas
+**Bloom:** Understand
+**ICFES:** Identificar el significado geométrico de la derivada
+**Context:** Gráfica de temperatura en Bogotá durante un día
 
 ### Enunciado
-La derivada de f(x) = sen(x) es:
+Si la derivada de una función es cero en un punto, esto indica que en ese punto la gráfica de la función tiene
 
 ### Options
-- [ ] A) cos(x) + C
-- [x] B) cos(x) <!-- feedback: Correcto: la derivada de sen(x) es cos(x) -->
-- [ ] C) -cos(x) <!-- feedback: Confusión con la derivada de cos(x) -->
-- [ ] D) sen(x) · cos(x) <!-- feedback: Confusión con la regla del producto aplicada incorrectamente -->
+- [ ] A) Un punto de inflexión
+- [x] B) Una recta tangente horizontal <!-- feedback: Cuando f'(a) = 0, la pendiente de la recta tangente es cero, lo que significa una recta tangente horizontal en (a, f(a)) -->
+- [ ] C) Un máximo local
+- [ ] D) Una raíz de la función
 
 ### Explicación Pedagógica
-La derivada de sen(x) es cos(x). Esta es una de las derivadas inmediatas que todo estudiante debe memorizar. El distractor C es común porque confunden con la derivada de cos(x) que es -sen(x). El distractor D parece derivar de una aplicación incorrecta de alguna identidad trigonométrica.
+La respuesta correcta es B). Cuando f'(a) = 0, la pendiente de la recta tangente es cero, por lo tanto es horizontal. Un error común es confundir este concepto con la presencia de un máximo o mínimo (opción C), pero f'(a) = 0 es condición necesaria pero no suficiente para extremos locales. El punto de inflexión (opción A) requiere cambio de concavidad, no solo derivada cero.
 
 ---
 
 ## Question 3 (Variant Basic - Difficulty D4)
 
 **ID:** `CO-MAT-11-P4-derivadas-026-MASTERY-v3`
-**Bloom:** [Understand]
-**ICFES:** [Interpretar la regla de derivación de una suma]
-**Context:** Un estudiante analiza una función polinómica para su tarea del periodo 4
+**Bloom:** Apply
+**ICFES:** Aplicar reglas básicas de derivación
+**Context:** Crecimiento de una inversión en fintech colombiana
 
 ### Enunciado
-Si f(x) = 3x² + 7x - 5, entonces f'(x) es igual a:
+Si g(t) = 3t² + 2t - 7, ¿cuál es el valor de g'(t)?
 
 ### Options
-- [ ] A) 3x² + 7 <!-- feedback: Error: se derivó solo el segundo término correctamente -->
-- [ ] B) 6x² + 7x - 5 <!-- feedback: Error al multiplicar incorrectamente el exponente por el coeficiente -->
-- [x] C) 6x + 7 <!-- feedback: Correcto: la derivada de 3x² es 6x, de 7x es 7, y -5 es 0 -->
-- [ ] D) 6x + 7x <!-- feedback: Error al no derivar correctamente el término constante negativo -->
+- [ ] A) 6t² + 2
+- [ ] B) 3t² + 2
+- [x] C) 6t + 2 <!-- feedback: Por la regla de derivación: la derivada de 3t² es 6t, de 2t es 2, y de -7 es 0. La derivada de una suma es la suma de las derivadas -->
+- [ ] D) 6t - 5
 
 ### Explicación Pedagógica
-La derivada de una suma es la suma de las derivadas. Cada término se deriva separately: d/dx[3x²] = 6x, d/dx[7x] = 7, d/dx[-5] = 0. El distractor B muestra el error de no restar 1 del exponente sino multiplicarlo incorrectamente. El distractor A muestra derivación incompleta.
+La respuesta correcta es C). Un error frecuente entre estudiantes es derivar incorrectamente cada término: olvidar que 3t² se convierte en 6t (opción B), o agregar términos extra (opción A). La constante -7 tiene derivada cero.
 
 ---
 
 ## Question 4 (Variant Basic - Difficulty D4)
 
 **ID:** `CO-MAT-11-P4-derivadas-026-MASTERY-v4`
-**Bloom:** [Apply]
-**ICFES:** [Aplicar la regla del producto]
-**Context:** En la preparación para las pruebas Saber 11, un estudiante practica con funciones que requieren la regla del producto
+**Bloom:** Apply
+**ICFES:** Aplicar reglas de derivación a funciones trigonométricas
+**Context:** Modelo de oscilación en puente看一看 de Cali
 
 ### Enunciado
-Si f(x) = x² · ln(x), entonces f'(x) es igual a:
+Si h(x) = sen(x), ¿cuál es h'(x)?
 
 ### Options
-- [ ] A) 2x · 1/x <!-- feedback: Error: se derivó cada factor como si fuera independiente -->
-- [ ] B) 2x · ln(x) + x² · 1/x <!-- feedback: Correcto: por la regla del producto (u'v + uv') -->
-- [ ] C) 2x · ln(x) <!-- feedback: Error: se omitió el segundo término de la regla del producto -->
-- [ ] D) x² · 1/x <!-- feedback: Error: solo se derivó el segundo factor -->
+- [ ] A) cos(x)
+- [x] B) cos(x) <!-- feedback: La derivada de sen(x) es cos(x), que es una de las derivadas fundamentales de las funciones trigonométricas -->
+- [ ] C) -cos(x)
+- [ ] D) -sen(x)
 
 ### Explicación Pedagógica
-Por la regla del producto: si f(x) = u·v, entonces f'(x) = u'v + uv'. Aquí u = x², v = ln(x), entonces u' = 2x, v' = 1/x. Por tanto: f'(x) = 2x·ln(x) + x²·(1/x) = 2x·ln(x) + x. El distractor C es muy común: estudiantes que olvidan uno de los términos de la regla.
+La respuesta correcta es B). La derivada de sen(x) es cos(x). Muchos estudiantes confunden esta relación con la derivada del coseno (que es -sen(x), opción D) o con la derivada de otra función trigonométrica. La opción C es el negativo del coseno, lo cual no corresponde a ninguna derivada trigonométrica básica estándar.
 
 ---
 
 ## Question 5 (Variant Basic - Difficulty D5)
 
 **ID:** `CO-MAT-11-P4-derivadas-026-MASTERY-v5`
-**Bloom:** [Understand]
-**ICFES:** [Comprender la regla del cociente]
-**Context:** En el desarrollo del periodo 4, un estudiante del Gimnasio Los Álamos trabaja con funciones racionales
+**Bloom:** Apply
+**ICFES:** Aplicar la regla del producto
+**Context:** Ingreso marginal en empresa de外卖 de Cartagena
 
 ### Enunciado
-La derivada de f(x) = (2x + 3)/(x - 1) es:
+Si f(x) = x²·sen(x), ¿cuál es f'(x)?
 
 ### Options
-- [ ] A) (2(x-1) - (2x+3))/(x-1)² <!-- feedback: Error de signo en el numerador de la regla del cociente -->
-- [ ] B) (2(x-1) + (2x+3))/(x-1)² <!-- feedback: Error: se usó + en lugar de - en la regla del cociente -->
-- [x] C) (2(x-1) - (2x+3))/(x-1)² <!-- feedback: Correcto: u=2x+3, v=x-1, u'=2, v'=1, entonces (u'v - uv')/v² -->
-- [ ] D) (2(x-1))/(x-1)² <!-- feedback: Error: se omitió el término -uv' en el numerador -->
+- [ ] A) 2x·sen(x)
+- [ ] B) x²·cos(x)
+- [x] C) 2x·sen(x) + x²·cos(x) <!-- feedback: Por la regla del producto: (u·v)' = u'v + uv'. Aquí u = x², v = sen(x), entonces u' = 2x, v' = cos(x). Así: f'(x) = 2x·sen(x) + x²·cos(x) -->
+- [ ] D) 2x·cos(x)
 
 ### Explicación Pedagógica
-Por la regla del cociente: si f(x) = u/v, entonces f'(x) = (u'v - uv')/v². Con u = 2x+3, u' = 2, v = x-1, v' = 1: f'(x) = (2(x-1) - (2x+3)·1)/(x-1)² = (-5)/(x-1)². El error más común es confundir el signo en la fórmula.
+La respuesta correcta es C). El error más común es aplicar solo la derivada del primer factor (opción A) o solo del segundo factor (opción B). La regla del producto requiere derivar AMBOS factores y sumarlos. La opción D resulta de derivar el segundo factor como coseno pero mal del primero.
 
 ---
 
 ## Question 6 (Variant Basic - Difficulty D5)
 
 **ID:** `CO-MAT-11-P4-derivadas-026-MASTERY-v6`
-**Bloom:** [Apply]
-**ICFES:** [Aplicar la regla de la cadena]
-**Context:** Un estudiante del Colegio Rochester analiza funciones compuestas para la prueba del periodo
+**Bloom:** Apply
+**ICFES:** Aplicar la regla del cociente
+**Context:** Tasa de variación del precio del dólar en Barranquilla
 
 ### Enunciado
-Si f(x) = (3x² + 5)⁴, entonces f'(x) es:
+Si k(x) = x/(x+1), ¿cuál es k'(x)?
 
 ### Options
-- [ ] A) 4(3x² + 5)³ <!-- feedback: Error: falta multiplicar por la derivada del interior -->
-- [ ] B) 12x(3x² + 5)³ <!-- feedback: Correcto: por la regla de la cadena, f'(x) = 4(3x²+5)³ · 6x = 12x(3x²+5)³ -->
-- [ ] C) 12x(3x² + 5)⁴ <!-- feedback: Error: se usó exponente 4 en lugar de 3 -->
-- [ ] D) 4(3x² + 5)³ · 6x² <!-- feedback: Error: se derivó incorrectamente el interior como 6x² -->
+- [ ] A) 1/(x+1)²
+- [ ] B) 1
+- [x] C) 1/(x+1)² <!-- feedback: Por la regla del cociente: (u/v)' = (u'v - uv')/v². Con u = x, v = x+1, u' = 1, v' = 1. Entonces: k'(x) = (1·(x+1) - x·1)/(x+1)² = 1/(x+1)² -->
+- [ ] D) x/(x+1)²
 
 ### Explicación Pedagógica
-La regla de la cadena establece que si f(x) = g(h(x)), entonces f'(x) = g'(h(x))·h'(x). Aquí g(u) = u⁴, h(x) = 3x² + 5. Entonces g'(u) = 4u³ y h'(x) = 6x. Por tanto: f'(x) = 4(3x²+5)³ · 6x = 24x(3x²+5)³. Error común: olvidar h'(x) o derivar incorrectamente h(x).
+La respuesta correcta es C). El error típico es restar en lugar de sumar en el numerador (obteniendo cero o un valor incorrecto) o escribir la derivada del numerador como cociente (opción D). El resultado simplificado 1/(x+1)² es correcto tras cancelar términos en el numerador.
 
 ---
 
 ## Question 7 (Variant Basic - Difficulty D6)
 
 **ID:** `CO-MAT-11-P4-derivadas-026-MASTERY-v7`
-**Bloom:** [Apply]
-**ICFES:** [Derivar funciones exponenciales y logarítmicas]
-**Context:** En el estudio de funciones de crecimiento poblacional en Colombia, un estudiante deriva funciones exponenciales
+**Bloom:** Apply
+**ICFES:** Aplicar la regla de la cadena
+**Context:** Propagación de un rumor en redes sociales en Colombia
 
 ### Enunciado
-La derivada de f(x) = e^(2x+1) es:
+Si f(x) = (3x + 5)⁴, ¿cuál es f'(x)?
 
 ### Options
-- [ ] A) e^(2x+1) <!-- feedback: Error: no se aplicó la regla de la cadena -->
-- [ ] B) 2e^(2x+1) <!-- feedback: Correcto: por la regla de la cadena, derivada del exponente es 2 -->
-- [ ] C) (2x+1)e^(2x+1) <!-- feedback: Error: confusión con la derivada de a^x -->
-- [ ] D) e^(2x) <!-- feedback: Error: se evaluó incorrectamente el exponente -->
+- [ ] A) 4(3x + 5)³
+- [ ] B) 4(3x + 5)³·3
+- [x] C) 12(3x + 5)³ <!-- feedback: Por la regla de la cadena: Si y = uⁿ, entonces dy/dx = n·uⁿ⁻¹·u'. Aquí u = 3x+5, n = 4, u' = 3. Entonces f'(x) = 4(3x+5)³·3 = 12(3x+5)³ -->
+- [ ] D) 12x(3x + 5)³
 
 ### Explicación Pedagógica
-Para f(x) = e^(g(x)), f'(x) = e^(g(x))·g'(x). Aquí g(x) = 2x+1, entonces g'(x) = 2. Por tanto: f'(x) = e^(2x+1)·2 = 2e^(2x+1). Este tipo de derivadas es fundamental en modelos de crecimiento exponencial que se aplican en biología y economía colombiana.
+La respuesta correcta es C). Un error frecuente es olvidar multiplicar por la derivada de la función interna (opción A). La opción B representa la derivada sin simplificar, pero el resultado final es 12(3x+5)³. La opción D muestra confusión al derivar el coeficiente de x.
 
 ---
 
 ## Question 8 (Variant Basic - Difficulty D6)
 
 **ID:** `CO-MAT-11-P4-derivadas-026-MASTERY-v8`
-**Bloom:** [Apply]
-**ICFES:** [Aplicar la derivación implícita]
-**Context:** Un estudiante del Colegio Anglo Colombiano aprende técnicas de derivación implícita para resolver problemas de geometría
+**Bloom:** Apply
+**ICFES:** Derivar funciones exponenciales
+**Context:** Crecimiento poblacional en Medellín según Dane
 
 ### Enunciado
-Si x² + y² = 25, entonces dy/dx es igual a:
+Si f(x) = e²ˣ, ¿cuál es f'(x)?
 
 ### Options
-- [ ] A) -x/y² <!-- feedback: Error al cuadrado el denominador -->
-- [ ] B) x/y <!-- feedback: Error de signo y de procedimiento -->
-- [ ] C) -y/x <!-- feedback: Error: debería ser -x/y, no -y/x -->
-- [x] D) -x/y <!-- feedback: Correcto: derivando implícitamente: 2x + 2y(dy/dx) = 0 → dy/dx = -x/y -->
+- [ ] A) e²ˣ
+- [ ] B) 2e²ˣ
+- [x] C) 2e²ˣ <!-- feedback: Por la regla de la cadena: Si f(x) = eᵘ donde u = 2x, entonces f'(x) = eᵘ·u' = e²ˣ·2 = 2e²ˣ. La derivada de eᵘ es eᵘ·u' -->
+- [ ] D) 2xe²ˣ
 
 ### Explicación Pedagógica
-Derivando implícitamente: d/dx[x²] + d/dx[y²] = d/dx[25]. Obtenemos 2x + 2y(dy/dx) = 0. Despejando: dy/dx = -2x/(2y) = -x/y. El distractor más común es invertir la fracción o cambiar el signo incorrectamente.
+La respuesta correcta es C). El error común es olvidar el factor 2 de la cadena interior (opción A) o confundir con la derivación de polinomios multiplicando por x (opción D). La derivada de e^(ax) es a·e^(ax).
 
 ---
 
 ## Question 9 (Variant Basic - Difficulty D6)
 
 **ID:** `CO-MAT-11-P4-derivadas-026-MASTERY-v9`
-**Bloom:** [Apply]
-**ICFES:** [Calcular derivadas de orden superior]
-**Context:** En el estudio del movimiento en física, un estudiante analiza la aceleración como segunda derivada
+**Bloom:** Understand
+**ICFES:** Interpretar el concepto de derivada marginal
+**Context:** Costo de producción en empresa manufactureras de Bello, Antioquia
 
 ### Enunciado
-Si s(t) = 4t³ - 2t² + 7t - 1 representa la posición de un objeto, la aceleración es:
+En el contexto de funciones marginales, si C(q) representa el costo total de producir q unidades, entonces C'(q) representa
 
 ### Options
-- [ ] A) 12t² - 4t + 7 <!-- feedback: Este es el valor de la primera derivada (velocidad) -->
-- [ ] B) 24t - 4 <!-- feedback: Correcto: la aceleración es la segunda derivada de la posición -->
-- [ ] C) 24t² - 4t <!-- feedback: Error: se multiplicó incorrectamente por t al derivar por segunda vez -->
-- [ ] D) 12t - 4 <!-- feedback: Error: se usó el exponente original en lugar del nuevo -->
+- [ ] A) El costo total de producir q unidades
+- [x] B) El costo adicional de producir una unidad más <!-- feedback: La derivada marginal representa la tasa de cambio del costo respecto a la cantidad, es decir, el costo incremental de producir una unidad adicional -->
+- [ ] C) El costo promedio por unidad
+- [ ] D) La cantidad que maximiza el costo
 
 ### Explicación Pedagógica
-La aceleración es a(t) = d²s/dt². Primero: v(t) = s'(t) = 12t² - 4t + 7. Segundo: a(t) = v'(t) = 24t - 4. Este concepto es esencial en física para comprender el movimiento de objetos en el contexto de problemas colombianos como el análisis de tráfico.
+La respuesta correcta es B). Este es un concepto fundamental en economía matemática. C'(q) indica cuánto aumenta el costo total cuando q aumenta en una unidad. La opción A describe C(q), no su derivada. La opción C se refiere al costo promedio C(q)/q. La opción D no tiene relación con la derivada.
 
 ---
 
 ## Question 10 (Variant Basic - Difficulty D6)
 
 **ID:** `CO-MAT-11-P4-derivadas-026-MASTERY-v10`
-**Bloom:** [Apply]
-**ICFES:** [Derivar funciones logarítmicas compuestas]
-**Context:** Un estudiante deriva funciones logarítmicas para analizar escalas de intensidad sísmica
+**Bloom:** Apply
+**ICFES:** Derivar funciones logarítmicas
+**Context:** Medición de acidez en rio de Bogotá según resolución ambiental
 
 ### Enunciado
-La derivada de f(x) = ln(5x³) es:
+Si f(x) = ln(5x³), ¿cuál es f'(x)?
 
 ### Options
-- [ ] A) 1/(5x³) <!-- feedback: Error: se aplicó incorrectamente la derivada de ln(u) -->
-- [ ] B) 1/(x³) <!-- feedback: Error: no se multiplicó por la derivada del interior -->
-- [ ] C) 3/x + 1/5 <!-- feedback: Error: se separó incorrectamente el logaritmo -->
-- [x] D) 3/x <!-- feedback: Correcto: f'(x) = (1/(5x³)) · 15x² = 3/x -->
+- [ ] A) 5/x
+- [ ] B) 1/(5x³)
+- [x] C) 3/x <!-- feedback: Usando propiedades de logaritmos: ln(5x³) = ln(5) + 3ln(x). La derivada de ln(5) es 0, y la derivada de 3ln(x) es 3/x. Alternativamente, por cadena: f'(x) = (1/(5x³))·15x² = 3/x -->
+- [ ] D) 3ln(x)/x
 
 ### Explicación Pedagógica
-Por la regla de la cadena: f'(x) = (1/(5x³)) · 15x² = 15x²/(5x³) = 3/x. Alternativamente, usando la propiedad del logaritmo: ln(5x³) = ln(5) + 3ln(x), entonces f'(x) = 3/x. El distractor C muestra el error común de derivar ln(5) como 1/5.
+La respuesta correcta es C). Un error frecuente es pensar que ln(5x³) = 5·ln(x³) = 15ln(x) (opción D), pero ln(ab) = ln(a) + ln(b), no a·ln(b). La opción A corresponde a ln(5x) sin el exponente 3. La opción B confunde la derivada del logaritmo con la función original.
 
 ---
 
 ## Question 11 (Variant Basic - Difficulty D7)
 
 **ID:** `CO-MAT-11-P4-derivadas-026-MASTERY-v11`
-**Bloom:** [Analyze]
-**ICFES:** [Analizar la continuidad y derivabilidad]
-**Context:** En el estudio de funciones en matemáticas avanzadas, un estudiante del Gimnasio Moderno analiza funciones definidas por tramos
+**Bloom:** Apply
+**ICFES:** Calcular derivadas implícitas
+**Context:** Trayectoria de drone delivery en Bogotá
 
 ### Enunciado
-La función f(x) = { x² si x < 2, 4x - 4 si x ≥ 2 } es derivable en x = 2 cuando:
+Si 2x² + 3y² = 8, ¿cuál es dy/dx?
 
 ### Options
-- [ ] A) Solo si es continua en x = 2
-- [ ] B) Cuando el límite de la derivada por la izquierda y por la derecha son iguales
-- [x] C) Cuando es continua Y las derivadas laterales son iguales <!-- feedback: Correcto: para que exista la derivada, la función debe ser continua Y las derivadas laterales deben coincidir -->
-- [ ] D) Siempre que las derivadas existan en todo el dominio
+- [ ] A) -2x/(3y)
+- [x] B) -2x/(3y) <!-- feedback: Derivando implícitamente respecto a x: 4x + 6y·(dy/dx) = 0. Despejando: dy/dx = -4x/(6y) = -2x/(3y) -->
+- [ ] C) -3x/(2y)
+- [ ] D) 4x/(6y)
 
 ### Explicación Pedagógica
-Para que una función sea derivable en un punto, debe ser continua en ese punto Y tener derivadas laterales iguales. El distractor A es incompleto (la continuidad no es suficiente). El distractor B omite la continuidad. El distractor D es incorrecto porque la existencia de derivadas en todo el dominio no garantiza derivabilidad en un punto específico.
+La respuesta correcta es B). El error típico es invertir el cociente (opción C) o no simplificar correctamente (opción D, que es equivalente a la respuesta correcta pero no simplificada). Al derivar implícitamente, cualquier término con y requiere multiplicar por dy/dx por la regla de la cadena.
 
 ---
 
 ## Question 12 (Variant Basic - Difficulty D7)
 
 **ID:** `CO-MAT-11-P4-derivadas-026-MASTERY-v12`
-**Bloom:** [Analyze]
-**ICFES:** [Analizar errores en la aplicación de reglas de derivación]
-**Context:** Un estudiante del Colegio Santa María encuentra dificultades al derivar funciones complejas
+**Bloom:** Analyze
+**ICFES:** Analizar condiciones para extremos relativos
+**Context:** Maximización de ganancia en negocio de café especial en Armenia
 
 ### Enunciado
-Al derivar f(x) = sen(3x²) · cos(2x), un estudiante obtiene f'(x) = 6x cos(3x²) · (-2sen(2x)). El error principal está en:
+Para la función f(x) = x³ - 3x² + 2, los puntos críticos se encuentran en
 
 ### Options
-- [ ] A) La derivada de sen(3x²) es incorrecta
-- [x] B) La derivada de cos(2x) es incorrecta, debe ser -2sen(2x) pero falta aplicarla al otro factor <!-- feedback: Correcto: la derivada de cos(2x) es -2sen(2x), pero en la regla del producto falta el término u·v' completo -->
-- [ ] C) La derivada de sen(3x²) debe ser cos(3x²)
-- [ ] D) No hay error, el resultado es correcto
+- [ ] A) x = 0 y x = 2
+- [ ] B) x = 0 y x = 1
+- [x] C) x = 0 y x = 2 <!-- feedback: Primero se encuentra f'(x) = 3x² - 6x. Igualando a cero: 3x² - 6x = 0 → 3x(x - 2) = 0 → x = 0 o x = 2. Los puntos críticos son donde f'(x) = 0 o no existe -->
+- [ ] D) x = 1 y x = 2
 
 ### Explicación Pedagógica
-El estudiante aplicó parcialmente la regla del producto. f'(x) = u'v + uv'. Con u = sen(3x²), v = cos(2x): u' = 6x cos(3x²), v' = -2sen(2x). El resultado correcto es: f'(x) = 6x cos(3x²)·cos(2x) + sen(3x²)·(-2sen(2x)). El estudiante solo calculó u'v, olvidando uv'.
+La respuesta correcta es C). El error más común es factorizar incorrectamente: 3x² - 6x = 3x(x - 2), no 3x(x - 1). La opción B resulta de factorizar incorrectamente como 3x(x - 1). La opción D no corresponde a las raíces de f'(x).
 
 ---
 
 ## Question 13 (Variant Basic - Difficulty D7)
 
 **ID:** `CO-MAT-11-P4-derivadas-026-MASTERY-v13`
-**Bloom:** [Apply]
-**ICFES:** [Resolver problemas de optimización]
-**Context:** Una empresa colombiana de/empaques necesita minimizar el material utilizado en la fabricación de cajas sin tapa
+**Bloom:** Apply
+**ICFES:** Usar el criterio de la segunda derivada
+**Context:** Optimización de área en cultivo de flores en la Sabana de Bogotá
 
 ### Enunciado
-Se quiere construir una caja sin tapa con base cuadrada y volumen de 500 cm³. Si x es el lado de la base y h la altura, el valor de x que minimiza el material necesario es:
+Si f'(x) = 0 y f''(x) < 0 en x = a, entonces en x = a la función f tiene
 
 ### Options
-- [ ] A) 5 cm
-- [x] B) 10 cm <!-- feedback: Correcto: x²h = 500 → h = 500/x². Área = x² + 4xh = x² + 2000/x. dA/dx = 2x - 2000/x² = 0 → 2x³ = 2000 → x = 10 cm -->
-- [ ] C) 15 cm
-- [ ] D) 20 cm
+- [ ] A) Un mínimo local
+- [x] B) Un máximo local <!-- feedback: Según el criterio de la segunda derivada: si f'(a) = 0 y f''(a) < 0, entonces f tiene un máximo local en x = a. Esto indica que la gráfica es cóncava hacia abajo en ese punto -->
+- [ ] C) Un punto de inflexión
+- [ ] D) Ni máximo ni mínimo
 
 ### Explicación Pedagógica
-Volumen: x²h = 500 → h = 500/x². Superficie (sin tapa): A = x² + 4xh = x² + 2000/x. Derivando e igualando a cero: dA/dx = 2x - 2000/x² = 0. Resolviendo: 2x³ = 2000, x³ = 1000, x = 10. Este tipo de problema es típico en aplicaciones industriales colombianas.
+La respuesta correcta es B). Un error frecuente es confundir el criterio de la segunda derivada: f''(a) < 0 indica concavidad hacia abajo (como una montaña), lo cual corresponde a un máximo. La opción A corresponde a f''(a) > 0. La opción C requiere cambio de signo de f'', no solo que sea negativo.
 
 ---
 
-## Question 14 (Variant Basic - Difficulty D8)
+## Question 14 (Variant Basic - Difficulty D7)
 
 **ID:** `CO-MAT-11-P4-derivadas-026-MASTERY-v14`
-**Bloom:** [Analyze]
-**ICFES:** [Analizar razones de cambio relacionadas]
-**Context:** En una planta de tratamiento de agua de Bogotá, un tanque cónico se llena con agua a una tasa determinada
+**Bloom:** Apply
+**ICFES:** Calcular derivadas de orden superior
+**Context:** Movimiento uniformemente acelerado de vehículo en ruta Bogotá-Villa de Leyva
 
 ### Enunciado
-Un tanque cónico tiene radio R = 3 m y altura H = 5 m. Si el agua se llena a razón de 2 m³/min, ¿a qué rapidez sube el nivel del agua cuando la profundidad es 2 m?
+Si s(t) = 4t³ - 2t² + 3t representa la posición de un objeto, ¿cuál es su aceleración?
 
 ### Options
-- [ ] A) 2/(π) m/min
-- [ ] B) 5/(4π) m/min
-- [x] C) 25/(12π) m/min <!-- feedback: Correcto: V = (1/3)πr²h. Con r/h = 3/5 → r = 3h/5. V = (3π/25)h³. dV/dt = (9π/25)h²(dh/dt). Con h=2, dV/dt=2: 2 = (9π/25)(4)(dh/dt) → dh/dt = 25/(12π) -->
-- [ ] D) 12/(5π) m/min
+- [ ] A) 12t² - 4t
+- [ ] B) 24t - 4
+- [x] C) 24t - 4 <!-- feedback: La velocidad es v(t) = s'(t) = 12t² - 4t + 3. La aceleración es a(t) = v'(t) = s''(t) = 24t - 4. La segunda derivada de la posición es la aceleración -->
+- [ ] D) 12t²
 
 ### Explicación Pedagógica
-Este es un problema clásico de tasas relacionadas. La relación entre radio y altura es r/h = 3/5. Sustituyendo r = 3h/5 en V = (1/3)πr²h, obtenemos V = (3π/25)h³. Derivando: dV/dt = (9π/25)h²(dh/dt). Evaluando en h=2: dh/dt = 25/(12π).
+La respuesta correcta es C). Un error común es detenerse en la primera derivada (velocidad, opción A) o olvidar derivar algún término (opción B tiene el término -4 incompleto). La aceleración es la segunda derivada de la posición respecto al tiempo.
 
 ---
 
 ## Question 15 (Variant Basic - Difficulty D8)
 
 **ID:** `CO-MAT-11-P4-derivadas-026-MASTERY-v15`
-**Bloom:** [Apply]
-**ICFES:** [Aplicar la aproximación lineal (diferencial)]
-**Context:** Un ingeniero civil colombiano estima el error en el cálculo del volumen de agua en una represa
+**Bloom:** Analyze
+**ICFES:** Analizar razones de cambio relacionadas
+**Context:** Llenado de tanque de agua en zona rural de Santander
 
 ### Enunciado
-Se quiere estimar el cambio en el volumen de una esfera si el radio aumenta de 5 cm a 5.1 cm. La aproximación por diferenciales indica que el cambio es aproximadamente:
+Un tanque cilíndrico de radio 2 metros se llena con agua a razón de 3 m³/min. ¿A qué razón cambia la altura del agua cuando la altura es 5 metros? (El volumen del cilindro es V = πr²h)
 
 ### Options
-- [ ] A) 3π cm³
-- [ ] B) 10π cm³
-- [ ] C) 30π cm³
-- [x] D) 31.4π cm³ <!-- feedback: Correcto: dV = 4πr²dr. Con r=5, dr=0.1: dV = 4π(25)(0.1) = 10π ≈ 31.4 cm³ -->
+- [ ] A) 3/(4π) m/min
+- [ ] B) 3/(20π) m/min
+- [x] C) 3/(4π) m/min <!-- feedback: dV/dt = 3 m³/min. De V = 4πh (porque r = 2, r² = 4), tenemos dV/dt = 4π·dh/dt. Así: dh/dt = (dV/dt)/(4π) = 3/(4π) m/min -->
+- [ ] D) 12π m/min
 
 ### Explicación Pedagógica
-La aproximación lineal usa diferenciales: dV = 4πr²dr. Con r = 5 cm y dr = 0.1 cm: dV = 4π(5)²(0.1) = 4π(25)(0.1) = 10π ≈ 31.4 cm³. Este método es esencial en ingeniería para hacer estimaciones rápidas sin cálculos extensos.
+La respuesta correcta es C). El error más frecuente es no sustituir correctamente el valor del radio (r² = 4). La opción D resulta de multiplicar en lugar de dividir. La opción B resulta de usar h en el denominador incorrectamente. En problemas de razones relacionadas, se deben identificar variables dependientes e independientes.
 
 ---
 
 ## Question 16 (Variant Basic - Difficulty D8)
 
 **ID:** `CO-MAT-11-P4-derivadas-026-MASTERY-v16`
-**Bloom:** [Evaluate]
-**ICFES:** [Evaluar la validez de procedimientos de derivación]
-**Context:** Un estudiante de la Universidad Nacional de Colombia verifica el trabajo de un compañero sobre derivación implícita
+**Bloom:** Analyze
+**ICFES:** Analizar comportamiento de funciones mediante derivadas
+**Context:** Curva de demanda de pasajes aéreos a San Andrés
 
 ### Enunciado
-Al derivar la ecuación e^(xy) + x = y², un compañero obtiene dy/dx = (e^(xy) + 1)/(2y). Al verificar, el estudiante concluye que:
+Dada la función f(x) = x³ - 3x, ¿en qué intervalos es creciente?
 
 ### Options
-- [ ] A) El procedimiento es completamente correcto
-- [ ] B) Falta multiplicar por la derivada de xy en el numerador de e^(xy)
-- [x] C) Debe multiplicarse por (x·dy/dx + y) en el numerador, no solo por e^(xy) <!-- feedback: Correcto: al derivar e^(xy) se obtiene e
+- [ ] A) (-∞, -1) ∪ (1, ∞)
+- [ ] B) (-1, 1)
+- [x] C) (-∞, -1) ∪ (1, ∞) <!-- feedback: f'(x) = 3x² - 3 = 3(x² - 1). f'(x) > 0 cuando x² > 1, es decir, x < -1 o x > 1. En estos intervalos la función es creciente -->
+- [ ] D) (-∞, -√3) ∪ (√3, ∞)
+
+### Explicación Pedagógica
+La respuesta correcta es C). El error común es resolver x² - 1 > 0 como -1 < x < 1, pero esto es incorrecto para desigualdades cuadráticas. Cuando x² > 1, x debe estar fuera del intervalo [-1, 1]. La gráfica de y = x² - 1 es una parábola que abre hacia arriba, así que es positiva fuera de sus raíces.
+
+---
+
+## Question 17 (Variant Basic - Difficulty D9)
+
+**ID:** `CO-MAT-11-P4-derivadas-026-MASTERY-v17`
+**Bloom:** Evaluate
+**ICFES:** Evaluar optimalidad en problemas de aplicación
+**Context:** Diseño de envase económico para producto de aguapanela boyacense
+
+### Enunciado
+Se desea construir una caja sin tapa con base cuadrada y volumen de 32 cm³. Si el lado de la base es x cm y la altura es h cm, ¿cuál es el valor de x que minimiza el material (área superficial)?
+
+### Options
+- [ ] A) 2 cm
+- [ ] B) 4 cm
+- [x] C) 4 cm <!-- feedback: Volumen: x²h = 32 → h = 32/x². Área: A = x² + 4xh = x² + 128/x. Derivando: A' = 2x - 128/x² = 0 → 2x³ = 128 → x³ = 64 → x = 4 cm -->
+- [ ] D) 8 cm
+
+### Explicación Pedagógica
+La respuesta correcta es C). Los errores típicos incluyen: confundir las variables (usar h como lado de la base), omitir la relación del volumen al sustituir, o derivar incorrectamente x² + 128/x (olvidar que 128/x = 128x⁻¹). El segundo-error plausible es no verificar que es mínimo con la segunda derivada.
+
+---
+
+## Question 18 (Variant Basic - Difficulty D9)
+
+**ID:** `CO-MAT-11-P4-derivadas-026-MASTERY-v18`
+**Bloom:** Evaluate
+**ICFES:** Evaluar correctitud de procedimientos de derivación
+**Context:** Análisis deerror en tarea de cálculo de estudiante de ingeniería en Barranquilla
+
+### Enunciado
+Un estudiante afirma que la derivada de f(x) = sen²(x) es f'(x) = 2sen(x). Al verificar, se concluye que esta afirmación es
+
+### Options
+- [ ] A) Correcta, porque la derivada de sen²(x) es 2sen(x)
+- [x] B) Incorrecta, porque falta el factor cos(x) por la regla de la cadena <!-- feedback: f(x) = sen²(x) = (sen(x))². Por la regla de la cadena: f'(x) = 2·sen(x)·cos(x) = sen(2x). Falta el factor cos(x) correspondiente a la derivada de sen(x) -->
+- [ ] C) Incorrecta, porque la derivada de sen²(x) es 2cos(x)
+- [ ] D) Incorrecta, porque la derivada de sen²(x) es sen(2x)
+
+### Explicación Pedagógica
+La respuesta correcta es B). El error del estudiante es olvidar la derivada de la función interna sen(x). Al aplicar la regla de la cadena en (sen(x))², se debe multiplicar por cos(x). La opción C es incorrecta porque falta el factor sen(x). La opción D es correcta pero no indica el error específico. El distractor C confunde los factores.
+
+---
+
+## Question 19 (Variant Basic - Difficulty D10)
+
+**ID:** `CO-MAT-11-P4-derivadas-026-MASTERY-v19`
+**Bloom:** Create
+**ICFES:** Resolver problemas complejos de optimización
+**Context:** Ubicación óptima de antena de telecomunicaciones en región rural del Chocó
+
+### Enunciado
+Una empresa de telecomunicaciones debe conectar un punto A en una carretera recta a 3 km de una intersección B, con el punto C en otra carretera perpendicular a 4 km de la intersección. El costo de cable por tierra es $50,000 por km y por agua es $80,000 por km. Si el cable debe cruzar el río perpendicu larmente, ¿a qué distancia de B debe hacer el cruce para minimizar el costo?
+
+### Options
+- [ ] A) 1.5 km
+- [ ] B) 2.0 km
+- [x] C) 2.0 km <!-- feedback: Sea x la distancia de B al punto de cruce en la primera carretera. Costo = 50000√(9+x²) + 80000(4-x). Derivando e igualando a cero: 50000x/√(9+x²) - 80000 = 0 → 5x = 8√(9+x²) → 25x² = 64(9+x²) → 39x² = 576 → x ≈ 3.84

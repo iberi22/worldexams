@@ -1,23 +1,53 @@
 <think>
-Generaré 20 preguntas tipo ICFES para Lectura Crítica sobre comprensión literal, grado 11, período 1, siguiendo las reglas de dificultad progresiva (D3-D10) y el formato especificado.
+The user wants me to generate exactly 20 multiple choice questions in the ICFES Saber 11 style for the Colombian state exam. The topic is "Lectura Crítica" (Critical Reading), specifically "comprensión literal" (literal comprehension), grade 11, period 1.
 
-Debo crear preguntas con:
-- Contexto colombiano moderno
-- Distractores plausibles (errores reales de estudiantes)
-- 4 opciones obligatorias
-- Dificultad progresiva: D3-D4 (1-4), D5-D6 (5-10), D7-D8 (11-16), D9-D10 (17-20)
-- Alineación con el estilo ICFES Saber 11
+I need to output a markdown file with YAML frontmatter and exactly 20 questions following the strict format provided.
 
+Let me create the content:
 
-- Ahora necesito seleccionar textos apropiados sobre comprensión literal para Colombia. Voy a usar una variedad de fuentes: un artículo sobre los Farallones de Cali, un texto sobre la Ley de Víctimas en Colombia, fragmentos del boom literario latinoamericano de García Márquez, y textos históricos sobre la independencia colombiana.
+1. First, I need to create the frontmatter YAML block
+2. Then 20 questions with progressive difficulty:
+   - Questions 1-4: Difficulty D3-D4
+   - Questions 5-10: Difficulty D5-D6
+   - Questions 11-16: Difficulty D7-D8
+   - Questions 17-20: Difficulty D9-D10
 
-Para completar el conjunto, incluiré материалы sobre el conflicto armado en Colombia, la biodiversidad del país, y una discusión sobre el proceso de paz. Esto me dará una buena mezcla de temas relevantes y contemporáneos que puedo usar para las preguntas.
+Each question must have:
+- ID format: CO-LEC-11-P1-comprension-literal-033-MASTERY-vN
+- Bloom level
+- ICFES competence
+- Context (modern Colombian context)
+- Enunciado
+- 4 options with correct one marked with [x] and feedback
+- Explicación Pedagógica
 
-Ahora voy a distribuir las preguntas por nivel de dificultad: las primeras cuatro preguntas serán más directas, las siguientes seis profundizan un poco más, y las últimas requerirán un análisis más complejo.
+Let me create 20 questions covering literal comprehension skills - these are questions about explicitly stated information in texts.
+
+I'll create texts about various modern Colombian topics and contexts to make it relevant.
+
+Note: The user specifies:
+- bundle_index: 33
+- The questions should be about literal comprehension (comprensión literal) which means understanding explicitly stated information in texts.
+- Period 1, Grade 11
+- Progressive difficulty
+
+Let me generate the 20 questions now.
+
+For literal comprehension, the questions should be about:
+- Identifying main ideas
+- Finding specific details
+- Understanding explicitly stated information
+- Recognizing sequences
+- Finding definitions
+- Understanding cause-effect stated explicitly
+- Identifying time and place references
+- Recognizing comparisons explicitly made
+
+Let me start creating the questions:
 
 </think>
 
-```yaml
+```markdown
 ---
 id: "CO-LEC-11-P1-comprension-literal-033-MASTERY"
 country: "colombia"
@@ -32,7 +62,7 @@ alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
 generation:
   agent: "minimax-m2.7"
   model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T16:45:46.043001"
+  timestamp: "2026-04-16T01:10:10.155168"
   prompt_version: "v2-direct"
 quality_status: "UNREVISED"
 generation_status: "RAW"
@@ -51,41 +81,41 @@ open_source: false
 
 **ID:** `CO-LEC-11-P1-comprension-literal-033-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Literal meaning identification
-**Context:** Flora y fauna silvestre en Colombia
+**ICFES:** Comprensión global del texto
+**Context:** Economía urbana colombiana
 
 ### Enunciado
-En el párrafo se lee: "Colombia alberga más de 1.900 especies de aves, lo que la convierte en el segundo país con mayor diversidad ornitológica del planeta, después de Perú." De acuerdo con esta información, ¿cuántas especies de aves alberga Colombia?
+En un artículo sobre el crecimiento del comercio electrónico en Bogotá, se lee: "Durante el año 2024, las ventas por plataformas digitales en la capital aumentaron un 45%, representando el 30% del total de ventas del departamento." Según el texto, ¿qué porcentaje del total de ventas del departamento representó el comercio digital?
 
 ### Options
-- [ ] A) Cerca de 1.900 especies. <!-- feedback: El texto dice "más de 1.900", no exactamente 1.900. -->
-- [ ] B) Exactamente 1.890 especies.
-- [x] C) Más de 1.900 especies. <!-- feedback: El texto explicitly dice "más de 1.900 especies". -->
-- [ ] D) Casi 1.900 especies, porque el "más" indica una aproximación menor. <!-- feedback: "Más de" indica un número superior, no una aproximación. -->
+- [ ] A) 45% <!-- feedback: Este es el porcentaje de crecimiento, no el porcentaje del total de ventas -->
+- [ ] B) 15% <!-- feedback: No corresponde a ningún dato mencionado en el texto -->
+- [x] C) 30% <!-- feedback: Es el valor explícitamente mencionado como porcentaje del total de ventas -->
+- [ ] D) 50% <!-- feedback: No aparece en el texto -->
 
 ### Explicación Pedagógica
-El texto es explícito en indicar que Colombia alberga "más de 1.900 especies". La respuesta correcta (C) es textual. El distractor (A) confunde "más de" con una cifra exacta; (D) malinterpreta "más" como aproximación hacia abajo; (B) es un número inventado sin relación con el texto. Un error frecuente en estudiantes es interpretar cuantificadores vague como "cerca de", restando precisión al dato.
+La respuesta correcta es C porque el texto dice explícitamente "representando el 30% del total de ventas". Este es un caso típico donde los estudiantes confunden el porcentaje de crecimiento (45%) con el porcentaje del total. El distractor A es el error más común porque muchos读到 "aumentaron un 45%" y seleccionan ese número sin verificar qué representa realmente.
 
 ---
 
 ## Question 2 (Variant Basic - Difficulty D3)
 
 **ID:** `CO-LEC-11-P1-comprension-literal-033-MASTERY-v2`
-**Bloom:** Remember
-**ICFES:** Explicit information location
-**Context:** Política de víctimas en Colombia
+**Bloom:** Understand
+**ICFES:** Identificación de información explícita
+**Context:** Biodiversidad colombiana
 
 ### Enunciado
-El texto señala: "La Ley de Víctimas y Restitución de Tierras (Ley 1448 de 2011) estableció un conjunto de medidas de atención, asistencia y reparación integral a favor de las víctimas del conflicto armado interno." Según esta información, ¿a quién se dirige principalmente la Ley 1448 de 2011?
+El siguiente texto aparece en un artículo sobre los páramos colombianos: "Los páramos son ecosistemas de alta montaña ubicados entre 2.800 y 4.500 metros sobre el nivel del mar. Colombia alberga aproximadamente el 50% de los páramos del mundo. Estas zonas son consideradas fábricas de agua debido a su capacidad de regulación hídrica." ¿Cuál de las siguientes afirmaciones está directamente respaldada por el texto?
 
 ### Options
-- [ ] A) A los miembros activos de la Fuerza Pública. <!-- feedback: El texto indica que se dirige a "víctimas del conflicto armado", no a miembros activos de las fuerzas militares. -->
-- [ ] B) A los desmovilizados de grupos armados ilegales. <!-- feedback: Aunque podrían ser beneficiarios indirectos, el texto especifica "víctimas del conflicto armado interno". -->
-- [x] C) A las víctimas del conflicto armado interno. <!-- feedback: El texto lo indica explícitamente: "víctimas del conflicto armado interno". -->
-- [ ] D) A las comunidades rurales en situación de pobreza. <!-- feedback: El texto menciona "reparación integral" pero no limita la ley a comunidades pobres. -->
+- [ ] A) Los páramos se encuentran únicamente en Colombia <!-- feedback: El texto menciona que Colombia tiene el 50%, no que sean exclusivos del país -->
+- [ ] B) Todos los páramos del mundo están en América del Sur <!-- feedback: Esta información no se menciona en el texto -->
+- [x] C) Colombia tiene aproximadamente la mitad de los páramos del mundo <!-- feedback: El texto indica explícitamente "el 50% de los páramos del mundo" -->
+- [ ] D) Los páramos se encuentran entre 2.800 y 4.500 metros solo en Colombia <!-- feedback: El texto no limita esa altitud solo a Colombia -->
 
 ### Explicación Pedagógica
-La respuesta se encuentra literalmente en el texto: "víctimas del conflicto armado interno". Los distractores (A) y (B) modifican el grupo beneficiario. El distractor (D) introduce un criterio social que el texto no menciona. Un error frecuente es agregar información no presente en el texto (overinterpretation).
+La respuesta correcta es C porque el texto establece explícitamente que Colombia alberga "aproximadamente el 50% de los páramos del mundo". El distractor A es común porque los estudiantes infieren incorrectamente a partir de la información de porcentaje. La comprensión literal requiere identificar exactamente lo que el texto dice sin añadir información adicional.
 
 ---
 
@@ -93,20 +123,20 @@ La respuesta se encuentra literalmente en el texto: "víctimas del conflicto arm
 
 **ID:** `CO-LEC-11-P1-comprension-literal-033-MASTERY-v3`
 **Bloom:** Understand
-**ICFES:** Central idea identification
-**Context:** Problemática ambiental urbana en Colombia
+**ICFES:** Relación entre fragmentos del texto
+**Context:** Política educativa colombiana
 
 ### Enunciado
-Lea con atención: "Medellín, conocida como la Ciudad de la Eterna Primavera, ha implementando en los últimos diez años un sistema de árboles urbanos que ha reducido la temperatura promedio del centro de la ciudad en 2,3 grados centígrados. Este programa, denominado 'Corredores Verdes', cuenta con más de 350.000 árboles sembrados a lo largo de las principales avenidas." La idea central de este fragmento es:
+En una noticia sobre la implementación del programa "Matrícula Cero" en universidades públicas del Valle del Cauca, se lee: "La medida aplicará para estudiantes con ingresos familiares menores a dos salarios mínimos mensuales legales vigentes. El beneficio comenzará a partir del segundo semestre de 2025 y cubrirá tanto matrícula como derechos de grado." Según el texto, ¿para quién aplica la medida?
 
 ### Options
-- [ ] A) Medellín es llamada la Ciudad de la Eterna Primavera. <!-- feedback: Esta es una información incidental, no la idea central del párrafo. -->
-- [ ] B) El programa 'Corredores Verdes' ha plantado árboles en las principales avenidas de Medellín. <!-- feedback: Este es un detalle específico dentro del programa, no la idea central del fragmento. -->
-- [x] C) Medellín ha logrado reducir la temperatura urbana mediante un programa masivo de árboles. <!-- feedback: El párrafo presenta un programa de árboles urbanos y su resultado concreto: la reducción de temperatura. -->
-- [ ] D) Se han sembrado más de 350.000 árboles en Medellín en los últimos diez años. <!-- feedback: Este es un dato cuantitativo específico, no la idea central completa del párrafo. -->
+- [ ] A) Para todos los estudiantes del Valle del Cauca <!-- feedback: El texto especifica un límite de ingresos -->
+- [ ] B) Para estudiantes con ingresos menores a tres salarios mínimos <!-- feedback: El texto menciona dos salarios mínimos, no tres -->
+- [x] C) Para estudiantes con ingresos familiares menores a dos salarios mínimos <!-- feedback: Es la condición explícitamente stated en el texto -->
+- [ ] D) Para estudiantes que vivan en Cali exclusivamente <!-- feedback: El texto habla del Valle del Cauca, no solo de Cali -->
 
 ### Explicación Pedagógica
-La idea central requiere identificar tanto la acción (programa de árboles) como su resultado (reducción de temperatura). La opción (C) sintetiza ambos elementos. (A) es solo un dato introductorio; (B) y (D) son detalles parciales que no integran causa y efecto. Los estudiantes suelen quedarse con datos numéricos aislados sin integrarlos con el propósito comunicativo del texto.
+La respuesta correcta es C porque el texto indica específicamente que la medida aplica "para estudiantes con ingresos familiares menores a dos salarios mínimos mensuales". El distractor B es un error común donde estudiantes alteran un número del texto. El distractor A es frecuente porque muchos asumen que un programa público es universal. La lectura literal exige reproducir exactamente la condición mencionada.
 
 ---
 
@@ -114,62 +144,62 @@ La idea central requiere identificar tanto la acción (programa de árboles) com
 
 **ID:** `CO-LEC-11-P1-comprension-literal-033-MASTERY-v4`
 **Bloom:** Understand
-**ICFES:** Sequence identification in a narrative
-**Context:** Historia de la independencia colombiana
+**ICFES:** Identificación de información explícita
+**Context:** Infraestructura de transporte en Colombia
 
 ### Enunciado
-"El 20 de julio de 1810, un grupo de patriotas neogranadinos protagonizó el llamado Grito de Independencia en Santa Fe de Bogotá, evento considerado el punto de partida del proceso independentista colombiano. Posteriormente, tras años de guerra y negociaciones diplomáticas, se alcanzó la independencia definitiva el 17 de diciembre de 1819 con la Batalla de Boyacá." Según el orden cronológico presentado en el texto, ¿qué evento ocurrió primero?
+Un comunicado del Ministerio de Transporte informa: "La construcción de la nueva vía de cuarto generación entre Medellín y el Puerto de Turbo tendrá una duración estimada de 36 meses y una inversión de 2.3 billones de pesos. Los trabajos iniciarán en marzo de 2026 con la construcción de tres túneles en el sector de San Carlos." Según el texto, ¿cuándo iniciarán los trabajos?
 
 ### Options
-- [ ] A) La Batalla de Boyacá, el 17 de diciembre de 1819.
-- [ ] B) Las negociaciones diplomáticas entre patriotas y realistas.
-- [x] C) El Grito de Independencia, el 20 de julio de 1810. <!-- feedback: El texto presenta primero el Grito de Independencia en 1810 y luego la Batalla de Boyacá en 1819, estableciendo claramente la secuencia cronológica. -->
-- [ ] D) El inicio formal del proceso independentista, sin fecha específica. <!-- feedback: El texto sí indica fechas específicas, o sea que sí hay fechas. -->
+- [ ] A) En el año 2025 <!-- feedback: El texto indica que iniziaron en 2026, específicamente en marzo -->
+- [x] B) En marzo de 2026 <!-- feedback: El texto menciona explícitamente "inicarán en marzo de 2026" -->
+- [ ] C) En el segundo semestre de 2026 <!-- feedback: No se menciona el segundo semestre -->
+- [ ] D) Después de construir los tres túneles <!-- feedback: El texto indica que los túneles se construirán durante la obra, no antes del inicio -->
 
 ### Explicación Pedagógica
-El texto establece explícitamente dos fechas con marcadores temporales: "el 20 de julio de 1810" (evento primero) y "el 17 de diciembre de 1819" (evento posterior). La respuesta (C) coincide con la primera fecha mencionada. Los distractores (A) y (B) alteran la secuencia; (D) contradice el texto que sí da fechas. Un error frecuente es confundir el orden temporal cuando hay adverbios como "posteriormente" o "tras".
+La respuesta correcta es B porque el texto es explícito: "los trabajos iniciarán en marzo de 2026". El distractor D es especialmente engañoso porque sugiere una relación temporal que el texto no establece. Los estudiantes frecuentemente interpretan que la mención de los túneles implica una secuencia, pero el texto no indica que estos se construyan antes del inicio general de la obra.
 
 ---
 
 ## Question 5 (Variant Basic - Difficulty D5)
 
 **ID:** `CO-LEC-11-P1-comprension-literal-033-MASTERY-v5`
-**Bloom:** Understand
-**ICFES:** Classification and categorization
-**Context:** Biodiversidad marina en los parques nacionales naturales de Colombia
+**Bloom:** Apply
+**ICFES:** Interpretación de información contextualizada
+**Context:** Historia del arte en Colombia
 
 ### Enunciado
-"El Parque Nacional Natural Corales de Profundidad, ubicado en el Caribe colombiano, protege un ecosistema único caracterizado por corales de agua fría que se desarrollan a más de 40 metros de profundidad. En este parque se han registrado más de 200 especies de peces, 50 especies de corales y una diversidad de invertebrados que supera las 300 especies." Con base en la información, ¿cuál de las siguientes afirmaciones es correcta?
+En una entrevista publicada en El Tiempo, la directora del Museo Nacional de Colombia afirma: "Para nosotros es fundamental que los jóvenes se sientan interesados en conocer su patrimonio. Por eso, hemos implementado visitas guiadas especialmente diseñadas para grupos escolares y tarifas preferenciales para menores de 18 años. El año pasado recibimos más de 15.000 estudiantes de educación básica y media." De la información proporcionada, ¿qué se puede afirmar sobre la política del museo?
 
 ### Options
-- [ ] A) El parque protege corales de agua caliente que viven a menos de 40 metros de profundidad. <!-- feedback: El texto especifica que son corales de "agua fría" y que se desarrollan "a más de 40 metros". -->
-- [ ] B) En el parque se han registrado más invertebrados que especies de corales y peces combinados. <!-- feedback: El texto indica 300 invertebrados, pero la suma de peces (200) y corales (50) es 250, no superior a 300. Así que sí hay más invertebrados que peces o corales por separado, pero no juntos. -->
-- [x] C) El parque protege corales de agua fría que viven a más de 40 metros de profundidad y cuenta con una alta biodiversidad. <!-- feedback: Reúne las tres características literales del texto: corales de agua fría, profundidad mayor a 40 metros y alta biodiversidad documentada. -->
-- [ ] D) El parque tiene más de 550 especies registradas en total. <!-- feedback: La suma de los números mencionados es: 200 + 50 + 300 = 550. Aunque el cálculo es correcto, el texto no indica explícitamente que estas especies sean un total consolidado; podrían tener overlap o no ser mutuamente excluyentes. El texto no hace la suma explícita. -->
+- [ ] A) El museo tiene entradas gratuitas para todos los visitantes <!-- feedback: El texto menciona tarifas preferenciales, no entrada gratuita -->
+- [ ] B) Los jóvenes menores de 18 años pagan lo mismo que los adultos <!-- feedback: El texto indica tarifas preferenciales, implicando que pagan menos -->
+- [x] C) El museo ofrece tarifas reducidas para menores de 18 años <!-- feedback: La información explícita es "tarifas preferenciales para menores de 18 años" -->
+- [ ] D) Solo los estudiantes de Bogotá pueden acceder al museo <!-- feedback: No se menciona ninguna restricción por ciudad -->
 
 ### Explicación Pedagógica
-La opción (C) resume correctamente todos los elementos literales del párrafo. La opción (A) invierte dos características (agua fría→caliente y más de 40 m→menos de 40 m). La opción (D) combina datos numéricos que el texto no presenta como un total consolidado. El distractor (B) usa correctamente la comparación numérica, pero la cantidad de invertebrados (300) sí supera a cualquiera de los otros grupos por separado, aunque el texto no afirma que supere la suma.
+La respuesta correcta es C porque la directora indica explícitamente que hay "tarifas preferenciales para menores de 18 años". La palabra "preferenciales" implica reducción de precio. El distractor A es común porque los estudiantes infieren "gratis" a partir de "preferenciales". El distractor B es el error inverso: asumir que "preferenciales" significa precio completo. La comprensión literal requiere interpretar correctamente el significado de los términos utilizados.
 
 ---
 
 ## Question 6 (Variant Basic - Difficulty D5)
 
 **ID:** `CO-LEC-11-P1-comprension-literal-033-MASTERY-v6`
-**Bloom:** Understand
-**ICFES:** Cause-effect relationship identification
-**Context:** Economía del café en Colombia
+**Bloom:** Apply
+**ICFES:** Comprensión global del texto
+**Context:** Economía cafetera colombiana
 
 ### Enunciado
-"El café colombiano se distingue en los mercados internacionales por su calidad, resultado de un rigurosos controles de selección en los que se descartan los granos que no cumplen con los estándares de tamaño, color y peso establecidos por la Federación Nacional de Cafeteros. Este proceso de selección ha permitido que el café de Colombia mantenga precios premium en los mercados globales." ¿Cuál es la causa y cuál es el efecto, según el texto?
+La siguiente información aparece en el portal de la Federación Nacional de Cafeteros: "La producción de café en Colombia durante el año 2024 alcanzó los 11.4 millones de sacos, superando en un 8% la cosecha de 2023. Las exportaciones generaron ingresos por 3.500 millones de dólares. El consumo interno también creció, reaching los 2.1 millones de sacos." Según la información, ¿cuál fue el incremento en la producción entre 2023 y 2024?
 
 ### Options
-- [ ] A) Causa: el precio premium del café. Efecto: el rigor en los controles de selección. <!-- feedback: Invierte la relación causal; el texto indica que los controles generan el precio premium, no al revés. -->
-- [ ] B) Causa: la calidad del café colombiano. Efecto: los rigurosos controles de selección. <!-- feedback: El texto dice que la calidad es resultado de los controles, no la causa de ellos. -->
-- [x] C) Causa: los rigurosos controles de selección. Efecto: la calidad y el precio premium del café. <!-- feedback: El texto indica que los controles producen la calidad, y la calidad produce el precio premium. -->
-- [ ] D) Causa: la Federación Nacional de Cafeteros. Efecto: el precio premium del café. <!-- feedback: La Federación es la entidad que establece los controles, pero no es la causa directa de la calidad según el texto. -->
+- [ ] A) 8% de 11.4 millones de sacos <!-- feedback: Este cálculo requiere inferencia, no es dato directo del texto -->
+- [ ] B) 2.1 millones de sacos <!-- feedback: Este es el consumo interno, no el incremento de producción -->
+- [ ] C) La diferencia entre la producción de 2023 y los 11.4 millones <!-- feedback: Necesitaríamos el dato de 2023 que no se proporciona directamente -->
+- [x] D) Un 8% respecto al año anterior <!-- feedback: El texto dice explícitamente "superando en un 8% la cosecha de 2023" -->
 
 ### Explicación Pedagógica
-El texto establece claramente: controles → calidad → precio premium. La opción (C) identifica la cadena causal correctamente. Los estudiantes suelen confundir la entidad (Federación) con la acción (controles), o invertir la relación entre calidad y controles. La opción (B) es un error frecuente donde se considera la calidad como causa de los controles, cuando en realidad es el efecto.
+La respuesta correcta es D porque el texto explicitly states que la producción "superando en un 8% la cosecha de 2023". El distractor C es complicado porque para calcular el número exacto de sacos necesitaríamos saber cuánto se produjo en 2023, dato que no se da directamente. El distractor B confunde consumo interno con datos de producción. La comprensión literal pide identificar qué dice el texto directamente sin realizar cálculos adicionales.
 
 ---
 
@@ -177,20 +207,20 @@ El texto establece claramente: controles → calidad → precio premium. La opci
 
 **ID:** `CO-LEC-11-P1-comprension-literal-033-MASTERY-v7`
 **Bloom:** Understand
-**ICFES:** Comparison and contrast identification
-**Context:** Modelos educativos en Colombia
+**ICFES:** Identificación de información explícita
+**Context:** Problemática ambiental urbana
 
 ### Enunciado
-"Un estudio comparativo entre el modelo educativo tradicional y el modelo pedagógico de aula invertida encontró que, mientras el primero privilegia la clase magistral y la memorización, el segundo coloca al estudiante como protagonista de su proceso de aprendizaje, incentivando el pensamiento crítico mediante actividades prácticas realizadas fuera del horario escolar." De acuerdo con el texto, ¿en qué se diferencian fundamentalmente los dos modelos?
+El Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM) reportó: "Durante la temporada de menos lluvias de 2025, la calidad del aire en Bogotá alcanzó niveles históricamente buenos gracias a las medidas de restricción vehicular implementadas. Se registró una reducción del 35% en las concentraciones de material particulado. Sin embargo, las autoridades提醒aron que estos resultados pueden variar si no se mantiene la política de restricción los próximos años." ¿Qué medida contribuyó directamente a la mejora de la calidad del aire según el texto?
 
 ### Options
-- [ ] A) El modelo tradicional usa tecnología, mientras que el aula invertida no. <!-- feedback: El texto no menciona tecnología en ninguno de los dos modelos. -->
-- [ ] B) El modelo tradicional se aplica solo en escuelas públicas, mientras que el aula invertida solo en privadas. <!-- feedback: El texto no establece diferencia alguna en cuanto al tipo de institución donde se aplican. -->
-- [x] C) El modelo tradicional centra el aprendizaje en el docente, mientras que el aula invertida lo centra en el estudiante. <!-- feedback: El texto contrasta explícitamente "clase magistral" (docente como centro) con "estudiante como protagonista" (estudiante como centro). -->
-- [ ] D) El modelo tradicional emplea actividades prácticas, mientras que el aula invertida usa memorización. <!-- feedback: Invierte los roles: el texto dice que el aula invertida emplea actividades prácticas y el modelo tradicional privilegia la memorización. -->
+- [ ] A) El aumento de transporte público <!-- feedback: El texto no menciona cambios en transporte público -->
+- [ ] B) La construcción de ciclo-rutas <!-- feedback: No se menciona construcción de infraestructura -->
+- [x] C) Las restricciones vehiculares implementadas <!-- feedback: El texto indica que las medidas de "restricción vehicular" fueron las causantes de la mejora -->
+- [ ] D) La reforestación urbana <!-- feedback: No se menciona ninguna acción de reforestación -->
 
 ### Explicación Pedagógica
-El texto presenta una comparación explícita con marcadores de contraste: "mientras" y "segundo". La opción (C) sintetiza la diferencia central. Los distractores (A) y (B) introducen información completamente ajena al texto. El distractor (D) invierte los términos de la comparación, error frecuente cuando los estudiantes no distinguen claramente los dos modelos contrasted en el texto.
+La respuesta correcta es C porque el texto establece explícitamente que esto ocurrió "gracias a las medidas de restricción vehicular implementadas". El distractor A es común porque los estudiantes asumen que mejora del aire implica aumento de transporte público, pero esto no se menciona. La lectura literal exige identificar la causa mencionada en el texto, no inferir posibles causas adicionales.
 
 ---
 
@@ -198,20 +228,20 @@ El texto presenta una comparación explícita con marcadores de contraste: "mien
 
 **ID:** `CO-LEC-11-P1-comprension-literal-033-MASTERY-v8`
 **Bloom:** Apply
-**ICFES:** Information integration across sentences
-**Context:** Crisis hídrica en la zona urbana de Bogotá
+**ICFES:** Relación entre fragmentos del texto
+**Context:** Salud pública en Colombia
 
 ### Enunciado
-"La Empresa de Acueducto y Alcantarillado de Bogotá ha reportado que el nivel del embalse de Chingaza, principal fuente de agua de la capital, alcanzó en marzo de 2024 su punto más bajo en los últimos 50 años, con una capacidad de almacenamiento del 26 por ciento. Las autoridades han indicado que, de no registrarse lluvias significativas antes de junio, se deberán implementar racionamientos de agua en toda la ciudad." Según la información整合ada del texto, ¿qué medidas podrían tomarse si la situación persiste?
+La Secretaría de Salud de Medellín publicó el siguiente comunicado: "El programa de vacunación contra el VPH ha logrado cobertura del 85% en adolescentes de 9 a 17 años durante el 2024. Esta cifra representa un incremento del 15% respecto al año anterior. El objetivo del programa es prevenir el cáncer de cuello uterino, que afecta a más de 5.000 mujeres anualmente en Colombia." Según el texto, ¿qué afirmación es correcta?
 
 ### Options
-- [ ] A) Construcción de nuevos embalses en Cundinamarca. <!-- feedback: El texto no menciona construcción de infraestructura como medida ante la crisis actual. -->
-- [ ] B) Aumento del precio del agua para reducir el consumo. <!-- feedback: El texto menciona explícitamente "racionamientos de agua", no medidas económicas. -->
-- [x] C) Racionamientos de agua en toda la ciudad. <!-- feedback: El texto indica textualmente "se deberán implementar racionamientos de agua en toda la ciudad". -->
-- [ ] D) Restricción del uso de agua únicamente en sectores industriales. <!-- feedback: El texto especifica "toda la ciudad", no solo sectores industriales. -->
+- [ ] A) En 2023, la cobertura fue del 100% <!-- feedback: El texto dice que hubo un incremento del 15%, si en 2024 fue 85%, entonces en 2023 fue 70%, no 100% -->
+- [ ] B) La cobertura de 2024 aumentó 15 puntos porcentuales respecto a 2023 <!-- feedback: El texto dice "incremento del 15%", lo cual usualmente significa relativo, no necesariamente puntos porcentuales -->
+- [x] C) El programa busca prevenir el cáncer de cuello uterino <!-- feedback: Es la declaración explícita del texto: "El objetivo del programa es prevenir el cáncer de cuello uterino" -->
+- [ ] D) 5.000 mujeres fueron vacunadas en 2024 <!-- feedback: Las 5.000 mujeres se refieren a las afectadas por el cáncer, no a vacunas aplicadas -->
 
 ### Explicación Pedagógica
-La respuesta directa se encuentra en la última oración del texto: "se deberán implementar racionamientos de agua en toda la ciudad". Requiere integrar dos datos: el racionamiento y el alcance ("toda la ciudad"). Los distractores (A) y (B) proponen medidas no mencionadas; (D) limita arbitrariamente el alcance a sectores industriales, contradiciendo el texto que dice "toda la ciudad".
+La respuesta correcta es C porque el texto clearly states que "el objetivo del programa es prevenir el cáncer de cuello uterino". El distractor D es un error frecuente donde los estudiantes confunden el número de mujeres afectadas por la enfermedad con el número de vacunas aplicadas. El distractor B requiere analizar la diferencia entre "15%" como porcentaje relativo versus puntos porcentuales, lo cual necesita información adicional que el texto no provee directamente.
 
 ---
 
@@ -219,41 +249,41 @@ La respuesta directa se encuentra en la última oración del texto: "se deberán
 
 **ID:** `CO-LEC-11-P1-comprension-literal-033-MASTERY-v9`
 **Bloom:** Understand
-**ICFES:** Distinction between fact and author inference
-**Context:** Seguridad alimentaria en comunidades rurales colombianas
+**ICFES:** Identificación de información explícita
+**Context:** Industria tecnológica colombiana
 
 ### Enunciado
-"Un informe del Banco de Alimentos de Bogotá reveló que durante el año 2023 se distribuyeron más de 12 millones de kilogramos de alimentos a familias en situación de vulnerabilidad alimentaria en el departamento de Cundinamarca. Sin embargo, el informe también advierte que el hambre oculta —condición caracterizada por deficiencias de micronutrientes sin signos visibles de malnutrición— afecta a más del 40 por ciento de la población atendida." Según el texto, ¿qué es el hambre oculta?
+En un artículo sobre startups tecnológicas colombianas se lee: "La empresa medellinense 'Tecnología con Alma' desarrolló una aplicación que traduce lengua de señas colombiana a texto en tiempo real. La herramienta, que utiliza inteligencia artificial, tiene actualmente 50.000 usuarios activos mensuales. Los fundadores recibieron una inversión inicial de 500 millones de pesos y buscan expandir su mercado a otros países de Latinoamérica." Según el texto, ¿cuál es el origen de la empresa?
 
 ### Options
-- [ ] A) Una situación de desabastecimiento total de alimentos en los hogares. <!-- feedback: El texto describe el hambre oculta como deficiencias de micronutrientes sin signos visibles, no como desabastecimiento total. -->
-- [x] B) Deficiencias de micronutrientes sin signos visibles de malnutrición. <!-- feedback: El texto proporciona la definición literalmente entre guiones: "condición caracterizada por deficiencias de micronutrientes sin signos visibles de malnutrición". -->
-- [ ] C) Un programa de distribución de alimentos del Banco de Alimentos. <!-- feedback: El hambre oculta es una condición nutricional, no un programa de distribución. -->
-- [ ] D) Una forma de malnutrición que se manifiesta con síntomas físicos evidentes. <!-- feedback: El texto especifica que es "sin signos visibles", lo opuesto a lo que describe la opción. -->
+- [ ] A) Bogotá <!-- feedback: El texto específicamente indica que es medellinense -->
+- [x] B) Medellín <!-- feedback: El texto indica explícitamente que es una "empresa medellinense" -->
+- [ ] C) Cali <!-- feedback: No se menciona Cali en el texto -->
+- [ ] D) Barranquilla <!-- feedback: No se menciona Barranquilla en el texto -->
 
 ### Explicación Pedagógica
-El texto define explícitamente el hambre oculta entre guiones: "condición caracterizada por deficiencias de micronutrientes sin signos visibles de malnutrición". La opción (B) reproduce esta definición con fidelidad. El distractor (D) es el más peligroso porque incluye la palabra "malnutrición" pero contradice el atributo central "sin signos visibles". Los estudiantes frecuentemente confunden hambre oculta con desnutrición visible.
+La respuesta correcta es B porque el texto identify the company as "medellinense", which means from Medellín. The student must know that "medellinense" is the demonym for people and things from Medellín. Option A is the trap where students confuse the capital with other cities. Literal comprehension requires recognizing adjectives and descriptors that identify people, places, or things explicitly mentioned in the text.
 
 ---
 
 ## Question 10 (Variant Basic - Difficulty D6)
 
 **ID:** `CO-LEC-11-P1-comprension-literal-033-MASTERY-v10`
-**Bloom:** Apply
-**ICFES:** Interpretation of explicit data
-**Context:** Cobertura de internet en zonas rurales de Colombia
+**Bloom:** Understand
+**ICFES:** Interpretación de información contextualizada
+**Context:** Economía cultural en Colombia
 
 ### Enunciado
-"Un reporte del Ministerio de las Tecnologías de la Información y las Comunicaciones reveló que, a diciembre de 2023, el 82 por ciento de los municipios colombianos contaban con cobertura de internet de banda ancha. No obstante, al analizar la distribución urbana versus rural, se encontró que mientras el 98 por ciento de la población urbana tiene acceso, solo el 61 por ciento de la población rural cuenta con este servicio." ¿Cuál es la diferencia numérica entre el acceso urbano y el rural?
+El Ministerio de Cultura informó: "El programa 'Arte para la Paz' ha realizado actividades en los 32 departamentos del país durante el año 2024. Se ejecutaron 1.250 proyectos culturales con una inversión total de 85.000 millones de pesos. Entre las actividades destacadas se encuentran talleres de música, teatro comunitario y formación en oficios artísticos para jóvenes en situación de vulnerabilidad." ¿Cuántos proyectos se ejecutaron según el texto?
 
 ### Options
-- [ ] A) 21 puntos porcentuales. <!-- feedback: 82 - 61 = 21. Sin embargo, el texto compara 98% (urbano) con 61% (rural), no 82% con 61%. El 82% es el porcentaje de municipios con cobertura, no de acceso poblacional urbano. -->
-- [ ] B) 37 puntos porcentuales. <!-- feedback: 98 - 61 = 37. Esta es la diferencia correcta entre el acceso urbano (98%) y el rural (61%). -->
-- [x] C) 37 puntos porcentuales. <!-- feedback: El texto indica 98% de acceso urbano y 61% de acceso rural. La diferencia es 98 - 61 = 37 puntos porcentuales. -->
-- [ ] D) 17 puntos porcentuales. <!-- feedback: Error de cálculo; 82 - 61 = 21, pero el porcentaje de municipios (82%) no es el dato correcto para comparar con acceso urbano (98%). -->
+- [ ] A) 32 proyectos (uno por departamento) <!-- feedback: El texto menciona actividades en 32 departamentos pero los proyectos son más numerosos -->
+- [ ] B) 1.250 только en ciertos departamentos <!-- feedback: El texto indica que se ejecutaron en todos los departamentos -->
+- [x] C) 1.250 proyectos en total <!-- feedback: El texto explicitly states "Se ejecutaron 1.250 proyectos culturales" -->
+- [ ] D) 85.000 millones de pesos en proyectos <!-- feedback: Este es el monto de la inversión, no la cantidad de proyectos -->
 
 ### Explicación Pedagógica
-El texto presenta dos datos relevantes de acceso: 98% urbano y 61% rural. La resta directa es 37. El distractor (A) usa incorrectamente el 82% de municipios, confusión frecuente entre cobertura municipal y acceso poblacional efectivo. El distractor (D) también calcula 82-61, error de lectura que ignora el 98% urbano. Esta pregunta evalúa si el estudiante puede identificar los datos correctos para la operación aritmética.
+La respuesta correcta es C porque el texto explicitly states "Se ejecutaron 1.250 proyectos culturales". El distractor D es un error clásico donde los estudiantes confunden el valor monetario con la cantidad de proyectos. El distractor A surge de sobreinterpretar la mención de los 32 departamentos como si implicara un proyecto por departamento. La comprensión literal pide separar claramente los diferentes datos numéricos mencionados.
 
 ---
 
@@ -261,20 +291,20 @@ El texto presenta dos datos relevantes de acceso: 98% urbano y 61% rural. La res
 
 **ID:** `CO-LEC-11-P1-comprension-literal-033-MASTERY-v11`
 **Bloom:** Analyze
-**ICFES:** Inference from explicit information
-**Context:** Impacto de la migración venezolana en el sistema de salud colombiano
+**ICFES:** Evaluación de relaciones textuales
+**Context:** Desarrollo sostenible en Colombia
 
 ### Enunciado
-"Según datos de Migración Colombia, a marzo de 2024 más de 2,9 millones de venezolanos residían en territorio colombiano. La Organización Panamericana de la Salud ha alertado que esta población enfrenta barreras significativas de acceso a servicios de salud, situación que no solo afecta su bienestar individual sino que también exerts presión sobre el sistema de salud público en zonas fronterizas como Norte de Santander y La Guajira." ¿Qué inferencia lógica se puede derive del texto?
+En un informe del Banco de la República sobre economía verde se lee: "Colombia ha logrado posicionarse como el tercer país con mayor capacidad de generación de energía solar en América Latina, con una potencia instalada de 1.800 megavatios. Este desarrollo ha sido posible gracias a las políticas de incentivos tributarios implementadas desde 2022 y a la inversión de más de 2.5 billones de pesos por parte del sector privado. Sin embargo, expertos señalan que la expansión del sector aún enfrenta desafíos en materia de transmisión eléctrica." ¿Cuál es la posición de Colombia en generación de energía solar según el texto?
 
 ### Options
-- [ ] A) Todos los venezolanos en Colombia están inscritos en el sistema de salud público. <!-- feedback: Contradice directamente el texto, que señala "barreras significativas de acceso". -->
-- [ ] B) El sistema de salud colombiano colapsará por la llegada de migrantes venezolanos. <!-- feedback: El texto menciona "presión" sobre el sistema, no "colapso". Es una inferencia exagerada. -->
-- [x] C) La alta concentración de venezolanos en zonas fronterizas aumenta la demanda de servicios de salud en esas regiones. <!-- feedback: El texto conecta tres elementos explícitos: presencia masiva de venezolanos, barreras de acceso, y presión en zonas fronterizas. La inferencia es directa. -->
-- [ ] D) Los venezolanos en Colombia tienen mejor salud que la población local. <!-- feedback: El texto indica lo contrario: barreras de acceso y presión sobre el sistema, lo que implica mayor necesidad de atención. -->
+- [ ] A) El primer lugar en América Latina <!-- feedback: El texto indica tercer lugar, no primer lugar -->
+- [ ] B) Entre los cinco primeros pero sin especificar <!-- feedback: El texto дает una posición exacta: tercer lugar -->
+- [x] C) Tercer lugar en América Latina <!-- feedback: El texto indica explícitamente "tercer país con mayor capacidad" -->
+- [ ] D) Tercer lugar en el mundo <!-- feedback: El texto especifica "en América Latina", no en el mundo -->
 
 ### Explicación Pedagógica
-La inferencia válida conecta tres elementos explícitamente presentados: (1) 2,9 millones de venezolanos en Colombia, (2) barreras de acceso a salud, y (3) presión sobre el sistema en zonas fronterizas. La opción (C) integra estos elementos sin agregar información gratuita. La opción (B) exagera ("colapsará") sin apoyo textual. Los estudiantes tienden a hacer inferencias excesivas o a negarse a inferir lo que el texto implica claramente.
+La respuesta correcta es C porque el texto explicitly states "tercer país con mayor capacidad de generación de energía solar en América Latina". El distractor D es común donde los estudiantes omiten la limitación geográfica que el texto establece explícitamente. Este tipo de pregunta evalúa si el estudiante puede identificar no solo el dato principal, sino también su alcance o contexto específico.
 
 ---
 
@@ -282,32 +312,71 @@ La inferencia válida conecta tres elementos explícitamente presentados: (1) 2,
 
 **ID:** `CO-LEC-11-P1-comprension-literal-033-MASTERY-v12`
 **Bloom:** Analyze
-**ICFES:** Author's implied position identification
-**Context:** Política de sustitución de cultivos ilícitos en Colombia
+**ICFES:** Relación entre fragmentos del texto
+**Context:** Educación superior en Colombia
 
 ### Enunciado
-"El Programa Nacional de Sustitución de Cultivos Ilícitos (PNIS), impulsado como parte del Acuerdo de Paz de 2016, ha reportado resultados desiguales según la región del país. En algunos departamentos como Putumayo y Nariño, los indicadores muestran avance significativo en la reconversión productiva, mientras que en otros como Cauca y Chocó los niveles de incumplimiento de los compromisos por parte de los cultivadores siguen siendo elevados. Experts del sector han señalado que la falta de infraestructura vial y de acompañamiento técnico son factores determinantes en las diferencias regionales." ¿Cuál parece ser la posición del autor frente al programa?
+Un artículo sobre las pruebas Saber Pro reporta: "Los resultados del examen presentación en 2024 muestran que el 62% de los estudiantes universitarios de último año obtuvo resultados insuficientes en competencias genéricas. Esta cifra representa un aumento de 7 puntos porcentuales respecto a 2023. Las áreas con mayor Deficiencia fueron comunicación escrita y razonamiento cuantitativo." Según el texto, ¿cómo evolucionó el desempeño comparado con el año anterior?
 
 ### Options
-- [ ] A) El programa ha fracasado completamente en todas las regiones del país. <!-- feedback: El texto distingue resultados "desiguales" y menciona avances significativos en algunas regiones. No hay apoyo para un fracaso total. -->
-- [x] B) El programa tiene resultados desiguales según la región, influenciados por factores como infraestructura y acompañamiento técnico. <!-- feedback: El texto presenta explícitamente resultados desiguales y señala dos factores determinantes que explican las diferencias. -->
-- [ ] C) El programa solo funciona en las regiones donde hay voluntad política de los cultivadores. <!-- feedback: El texto menciona "incumplimiento" solo en algunas regiones, pero los factores explícitos son infraestructura y acompañamiento, no solo voluntad política. -->
-- [ ] D) El programa debe eliminarse y reemplazarse por políticas de aspersión aérea. <!-- feedback: No hay mención alguna de aspersión aérea ni de eliminación del programa. -->
+- [ ] A) Mejoró porque el porcentaje aumentó <!-- feedback: Un aumento en resultados insuficientes indica empeoramiento, no mejora -->
+- [ ] B) Permaneció igual ya que solo cambió 7% <!-- feedback: El texto indica que hubo un cambio de 7 puntos porcentuales, no que permaneció igual -->
+- [ ] C) Empeoró porque hubo más estudiantes con resultados insuficientes <!-- feedback: El texto indica que el porcentaje de insufficiency aumentó, lo cual significa peor desempeño -->
+- [ ] D) Mejoró en las áreas de comunicación escrita y razonamiento cuantitativo <!-- feedback: El texto indica Deficiencia en esas áreas, no mejora -->
 
 ### Explicación Pedagógica
-El autor presenta evidencia matizada: avances en unas regiones, dificultades en otras, y factores explicativos identificados por expertos. La opción (B) captura este posicionamiento nuançé sin exagerar ni minimizar. Las opciones (A) y (D) son inferencias sin soporte textual. La opción (C) reduce la complejidad a un solo factor no prioritario en el texto. Esta pregunta evalúa la capacidad de inferir la postura del autor sin que este lo declare explícitamente.
+La respuesta correcta es C porque el texto indica un "aumento" en el porcentaje de estudiantes con resultados insuficientes, lo cual representa un empeoramiento. El distractor A es un error lógico frecuente donde los estudiantes confunden "aumento" con "mejora" sin considerar qué se está aumentando. El distractor D confunde "deficiencia" (problema) con "mejora". La comprensión literal requiere interpretar correctamente el significado de los datos en su contexto.
 
 ---
 
 ## Question 13 (Variant Basic - Difficulty D7)
 
 **ID:** `CO-LEC-11-P1-comprension-literal-033-MASTERY-v13`
-**Bloom:** Analyze
-**ICFES:** Textual evidence evaluation
-**Context:** Feminicidios y violencia de género en Colombia
+**Bloom:** Apply
+**ICFES:** Interpretación de información contextualizada
+**Context:** Política social en Colombia
 
 ### Enunciado
-"La Fundación Feminicidios Colombia registró 652 casos de feminicidio en el territorio nacional durante el año 2022, lo que representa una tasa de 2,6 mujeres asesinados por cada 100.000 habitantes. La ONU Mujeres ha alertado que Colombia se mantiene como uno de los países con las tasas más altas de violencia basada en género en América Latina. Las organizaciones feministas han exigido al Gobierno Nacional mayores recursos para la atención integral a víctimas y sus familias." ¿Qué afirmación está respaldada directamente por la información del texto?
+La directora del ICBF declaró en rueda de prensa: "Durante el 2024, atendimos a 1.3 millones de niños y niñas a través de nuestros programas de atención integral. De estos, el 40% corresponded a la primera infancia (0-5 años). Nuestros Hogares Infantiles cubrieron el 60% de esa población. Además, contamos con 8.500 profesionales capacitados para la atención." ¿Qué porcentaje de los atendidos corresponded a primera infancia según la directora?
 
 ### Options
-- [ ] A) En Colombia se registraron más feminicidios en 2022 que en cualquier año anterior. <!-- feedback: El texto no ofrece datos comparativos con
+- [ ] A) 40% de 1.3 millones fueron atendidos en Hogares Infantiles <!-- feedback: El texto indica que los Hogares Infantiles cubrieron el 60% de los de primera infancia, no el 40% del total -->
+- [x] B) 40% del total de atendidos <!-- feedback: El texto indica explícitamente que "el 40% correspondió a la primera infancia" -->
+- [ ] C) 60% de los atendidos <!-- feedback: El 60% se refiere a cuánto cubrieron los Hogares Infantiles de los de primera infancia, no al total -->
+- [ ] D) 1.3 millones menos el 40% <!-- feedback: Esta no es una forma válida de interpretar el dato -->
+
+### Explicación Pedagógica
+La respuesta correcta es B porque el texto clearly states "el 40% correspondió a la primera infancia (0-5 años)". El distractor C es un error frecuente donde los estudiantes confunden el 60% de cobertura de los Hogares Infantiles con el porcentaje de la población total. La lectura literal exige identificar correctamente qué porcentaje corresponde a cada grupo mencionado en el texto.
+
+---
+
+## Question 14 (Variant Basic - Difficulty D7)
+
+**ID:** `CO-LEC-11-P1-comprension-literal-033-MASTERY-v14`
+**Bloom:** Apply
+**ICFES:** Comprensión global del texto
+**Context:** Conflicto armado y paz en Colombia
+
+### Enunciado
+En un informe de la Fiscalía General de la Nación se lee: "Durante el 2024, la Fiscalía reportó un aumento del 23% en las denuncias por violencia intrafamiliar comparado con el 2023. Las cifras muestran que el 65% de las víctimas fueron mujeres. Del total de casos reportados, solo el 35% avanzó a etapa de investigación formal. Las autoridades atribuyen este fenómeno en parte al subregistro y al miedo de las víctimas a denunciar." Según el texto, ¿qué porcentaje de las denuncias avanzaron a investigación formal?
+
+### Options
+- [ ] A) 23% <!-- feedback: Este es el porcentaje de aumento de denuncias, no el de avance a investigación -->
+- [ ] B) 65% <!-- feedback: Este es el porcentaje de víctimas mujeres, no el de casos que avanzaron -->
+- [x] C) 35% <!-- feedback: El texto indica explícitamente que "solo el 35% avanzó a etapa de investigación formal" -->
+- [ ] D) No se puede determinar con la información dada <!-- feedback: La información sí está dada: 35% -->
+
+### Explicación Pedagógica
+La respuesta correcta es C porque el texto clearly states "solo el 35% avanzó a etapa de investigación formal". El distractor A confunde el porcentaje de crecimiento con otro dato. El distractor B confunde un porcentaje de víctimas con otro de casos procesados. El distractor D niega la información que está explícitamente en el texto. Este tipo de pregunta evalúa si el estudiante puede extraer el dato correcto sin confundirlo con datos vecinos en el texto.
+
+---
+
+## Question 15 (Variant Basic - Difficulty D8)
+
+**ID:** `CO-LEC-11-P1-comprension-literal-033-MASTERY-v15`
+**Bloom:** Analyze
+**ICFES:** Evaluación de relaciones textuales
+**Context:** Infraestructura vial en Colombia
+
+### Enunciado
+El Instituto Nacional de Vías (INVÍAS) publicó: "La construcción de la segunda calzada en el corredor Tumaco-Pasto tiene un avance del 45% y una inversión de 620.000 millones de pesos. Se espera

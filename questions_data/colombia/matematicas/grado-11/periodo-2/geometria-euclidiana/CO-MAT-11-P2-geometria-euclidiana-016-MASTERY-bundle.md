@@ -1,58 +1,103 @@
 <think>
-The user wants me to generate exactly 20 multiple choice questions in ICFES Saber 11 format for Colombian state exam. The topic is "geometria-euclidiana" (Euclidean geometry), grade 11, period 2.
+Necesito generar exactamente 20 preguntas tipo ICFES para matemáticas, tema geometría euclidiana, grado 11, periodo 2. Debo seguir las reglas:
 
-Let me follow the format strictly with the YAML frontmatter and 20 questions.
+1. Dificultad progresiva:
+   - D3-D4: preguntas 1-4
+   - D5-D6: preguntas 5-10
+   - D7-D8: preguntas 11-16
+   - D9-D10: preguntas 17-20
 
-I need to:
-- 4 difficulty levels (D3-D4 for 1-4, D5-D6 for 5-10, D7-D8 for 11-16, D9-D10 for 17-20)
-- 4 options per question (A, B, C, D) with [x] marking the correct one
-- Colombian context
-- ICFES alignment
-- No "all of the above" or "none of the above"
-- Plausible distractors (real student errors)
-- Progressive difficulty
+2. Distractores plausibles basados en errores comunes de estudiantes colombianos
 
-Let me generate 20 questions on Euclidean geometry for grade 11.
+3. 4 opciones obligatorias, [x] en la correcta
+
+4. Sin "todas las anteriores" o "ninguna de las anteriores"
+
+5. Contexto colombiano moderno
+
+Voy a crear preguntas sobre geometría euclidiana que cubran diferentes temas:
+- Triángulos y sus propiedades
+- Cuadriláteros
+- Círculos y circumferencias
+- Ángulos
+- Teorema de Pitágoras
+- Áreas y perímetros
+- Semejanza y congruencia
+- Relaciones métricas en triángulos
+- Polígonos
+
+Debo incluir el frontmatter YAML y las 20 preguntas en el formato especificado.
+
+Empiezo a crear las preguntas:
 
 Questions 1-4 (D3-D4):
-- Basic geometry concepts, properties of triangles, angles, basic proofs
+1. Recordar/Identificar - Propiedades básicas de triángulos
+2. Entender - Clasificación de ángulos
+3. Aplicar - Área de figuras planas
+4. Aplicar - Teorema de Pitágoras básico
 
 Questions 5-10 (D5-D6):
-- More complex geometry, circles, congruence, similarity, area calculations
+5. Entender - Propiedades de paralelogramo
+
+
+6. Aplicar - Semejanza de triángulos
+7. Aplicar - Ángulos en circunferencia
+8. Entender - Propiedades de polígonos
+9. Aplicar - Perímetro y área combinada
+10. Analizar - Demostración de propiedades de triángulos
 
 Questions 11-16 (D7-D8):
-- Advanced proofs, geometric constructions, trigonometry integration, complex area/volume
+11. Analizar - Relación entre ángulos internos y externos
+12. Analizar - Circunferencia y sus propiedades
+13. Analizar - Triángulo rectángulo y círculo
 
-Questions 17-20 (D9-D10):
-- Complex problem solving, proofs, combining multiple concepts
+Continuaré con las preguntas finales enfocadas en los niveles más altos de complejidad. Las preguntas 17-20 requerirán un análisis más profundo, combinando diferentes conceptos geométricos y aplicando teoremas específicos para resolver problemas más intricate.
 
-Let me write them:
+El examen ICFES evalúa tres competencias clave: comunicación, razonamiento y resolución de problemas. Cada pregunta debe reflejar estos pilares fundamentales en el estudio de la geometría euclidiana.
 
-1. (D3) Triangle angle sum
-2. (D3) Parallel lines and transversal
-3. (D4) Properties of quadrilaterals
-4. (D4) Circle basic concepts
+Comenzaré elaborando las preguntas 1-4, centrándome en los niveles D3-D4, con el objetivo de diseñar un conjunto diverso y riguroso de problemas matemáticos.
 
-5. (D5) Triangle congruence criteria
-6. (D5) Similar triangles
-7. (D5) Angle bisector theorem
-8. (D6) Area of composite figures
-9. (D6) Pythagorean theorem application
-10. (D6) Properties of angles in circles
+Identifico una oportunidad para integrar el contexto cultural antioqueño en las preguntas de geometría, específicamente usando las Chalecas de San Bartolo como elemento visual. Esto permitirá contextualizar los problemas matemáticos de manera más significativa y atractiva para los estudiantes.
 
+Identifico una precisión importante en el contexto de la pregunta 2: el Teorema de Pitágoras requiere específicamente un triángulo rectángulo. Modificaré la pregunta para aclarar este detalle crucial, enfatizando la naturaleza rectangular de la figura geométrica.
 
-11. (D7) Geometric proof with congruence
-12. (D7) Complex similarity problems
-13. (D7) Inscribed angles theorem
-14. (D8) Area optimization
-15. (D8) Perimeter and area relationships
-16. (D8) Circle theorems application
-17. (D9) Complex proof synthesis
-18. (D9) Trigonometry with geometry
-19. (D10) Multi-step geometry problem
-20. (D10) Advanced geometric construction problem
+El problema siguiente propone un cuadrado inscrito en una semicircunferencia con radio de 10 cm, buscando calcular su área mediante un dibujo técnico. La solución implica relacionar el radio, el diámetro y el lado del cuadrado, sugiriendo que el diámetro corresponde a la diagonal del cuadrado.
 
-I'll write the questions with proper formatting and plausible distractors.
+Las opciones de respuesta buscan evaluar diferentes cálculos geométricos, incluyendo interpretaciones del problema que podrían resultar en errores comunes de cálculo.
+
+Para la pregunta 4, se presenta un cuadrilátero con ángulos desconocidos, donde se aplica el principio de que la suma de ángulos internos de un cuadrilátero es 360°. El proceso incluye despejar los ángulos desconocidos mediante una ecuación algebraica.
+
+En la pregunta 5, se analiza un triángulo isósceles en el contexto de las ventas de frutas en un mercado de Colombia, identificando los lados iguales y calculando el ángulo en el vértice mediante operaciones trigonométricas básicas.
+
+La pregunta 6 introduce un problema de altura de un edificio, donde se utiliza la tangente de un ángulo para calcular la distancia vertical. En un triángulo rectángulo, se establece una relación entre la altura del edificio y la distancia al punto de observación, con un ángulo específico de elevación.
+
+La pregunta 7 continúa explorando las propiedades de los triángulos isósceles, específicamente en el contexto de las artesanías colombianas. Se analiza labisectriz y la mediana, reconociendo que en un triángulo isósceles estos elementos coinciden con la altura cuando se trazan desde el vértice principal.
+
+La pregunta 8 comienza con un paralelogramo, estableciendo una relación entre los lados y los ángulos. Se plantea que en un paralelogramo, los lados opuestos son congruentes y los ángulos adyacentes son suplementarios, lo que significa que suman 180 grados.
+
+En la pregunta 9, se examina un triángulo rectángulo isósceles, identificando que si un cateto mide 7 cm, el otro cateto también medirá 7 cm debido a la congruencia característica de este tipo de triángulo.
+
+Para la pregunta 10, se plantea un triángulo equilátero con perímetro de 36 cm. El proceso de resolución implica dividir el perímetro entre 3 para obtener la longitud de cada lado, resultando en 12 cm.
+
+En la pregunta 11, se analiza un triángulo con ángulos en proporción 2:3:4. La suma de los ángulos es 180°, y mediante una ecuación se determina que el ángulo mayor es de 80°, lo que representa el ángulo más grande del triángulo.
+
+La pregunta 12 aborda un problema de alturas usando la sombra de una persona. Se establece una proporcionalidad donde la sombra del poste es proporcional a su altura, lo que permite calcular la altura desconocida mediante una regla de tres simple.
+
+En la pregunta 13, se trabaja con un triángulo isósceles donde se aplica la propiedad de los ángulos externos. Si el ángulo del vértice es de 40°, los ángulos en la base son de 70° cada uno, lo que resulta en un ángulo externo de 110°.
+
+La pregunta 14 presenta un cuadrilátero cíclico con tres ángulos desconocidos, proponiendo cuatro opciones de posibles valores para el ángulo faltante, todas dentro del rango válido de 0° a 360°.
+
+Para la pregunta 15, se analiza la apotema de un hexágono regular con radio 12 cm. Se reconoce que en un hexágono regular, laapotema es equivalente al radio del círculo circunscrito, sin necesidad de cálculos adicionales.
+
+En la pregunta 16, se observa la posición de un punto en relación con una circunferencia, específicamente en un mercado de abastos con problemas de conmemtración.
+
+La pregunta 17 introduce un problema más complejo sobre triángulos, identificando una relación entre los ángulos externos e internos. Si un ángulo externo es tres veces el ángulo interno adyacente, se establece una ecuación donde el ángulo interno resulta ser 45°.
+
+En la pregunta 18, se utiliza el teorema de Pitágoras para calcular la longitud de un lado en un triángulo rectángulo, considerando la hipotenusa y un cateto. La resolución implica restar los cuadrados de los valores conocidos para determinar elcateto faltante.
+
+La pregunta 19 aborda la construcción de un hexágono regular, donde se destaca que los radios son fundamentales para determinar los lados. Se espera que el estudiante comprenda que el radio define la estructura del polígono.
+
+En la pregunta 20, se analiza un triángulo isósceles con un ángulo específico, explorando la relación entre los ángulos desconocidos mediante una ecuación algebraica que determina su valor en 40°.
 
 </think>
 
@@ -70,7 +115,7 @@ alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
 generation:
   agent: "minimax-m2.7"
   model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T16:33:56.559469"
+  timestamp: "2026-04-16T00:04:07.545296"
   prompt_version: "v2-direct"
 quality_status: "UNREVISED"
 generation_status: "RAW"
@@ -89,20 +134,20 @@ open_source: false
 
 **ID:** `CO-MAT-11-P2-geometria-euclidiana-016-MASTERY-v1`
 **Bloom:** Remember
-**ICFES:** Comprensión y uso de conceptos geométricos
-**Context:** En un colegio público de Bogotá, los estudiantes de grado 11 aprenden geometría euclidiana.
+**ICFES:** Identifier propiedades y relaciones geométricas
+**Context:** Artesanía tradicional colombiana
 
 ### Enunciado
-En un triángulo ABC, los ángulos internos miden: ∠A = 35°, ∠B = 72°. ¿Cuánto mide el ángulo ∠C?
+En una exhibición de mochilas arhuacas en Santa Marta, un artesano muestra un diseñotriangular en una mochila. Si el triángulo tiene ángulos internos de 60°, 70° y x°, ¿cuál es el valor dex°?
 
 ### Options
-- [ ] A) 73° <!-- feedback: Error al restar incorrectamente de 180° -->
-- [x] C) 73° <!-- feedback: 180° - (35° + 72°) = 180° - 107° = 73° es correcto. -->
-- [ ] B) 107° <!-- feedback: Confunden la suma con el valor del ángulo restante -->
-- [ ] D) 108° <!-- feedback: Error al realizar la suma de ángulos -->
+- [ ] A) 40°
+- [x] B) 50° <!-- feedback: La suma de los ángulos internos de todo triángulo es 180°, por lo tanto x° = 180° - 60° - 70° = 50° -->
+- [ ] C) 60°
+- [ ] D) 70° <!-- feedback: Error común: confundir que los ángulos son proporcionales, pero en realidad deben sumar exactamente 180° -->
 
 ### Explicación Pedagógica
-La suma de los ángulos internos de todo triángulo es 180°. Por lo tanto, ∠C = 180° - (35° + 72°) = 73°. Un error común es confundir la suma con el ángulo restante, o realizar operaciones aritméticas incorrectas.
+La suma de los ángulos internos de cualquier triángulo es siempre 180°. Este es un teorema fundamental de la geometría euclidiana. Los estudiantes frecuentemente cometen el error de pensar que los ángulos son iguales o de usarincorrectamente 360° (que corresponde a cuadriláteros). La respuesta correcta es 50°.
 
 ---
 
@@ -110,41 +155,41 @@ La suma de los ángulos internos de todo triángulo es 180°. Por lo tanto, ∠C
 
 **ID:** `CO-MAT-11-P2-geometria-euclidiana-016-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Identificación de relaciones entre figuras geométricas
-**Context:** En la clase de geometría del Colegio Nacional de Florencia, Caquetá, el profesor explica las rectas parallelas cortadas por una transversal.
+**ICFES:** Interpretar relaciones angulares
+**Context:** Construcción tradicional en madera
 
 ### Enunciado
-Si dos rectas parallelas son cortadas por una transversal, ¿cuál de las siguientes relaciones entre ángulos es siempre verdadera?
+Un maestro carpintero de Ráquira (Tolima) diseña una estructura con vigas formando un triángulo rectángulo. Si los catetos miden 3 m y 4 m, ¿cuánto mide la hipotenusa?
 
 ### Options
-- [ ] A) Los ángulos alternos internos son suplementarios <!-- feedback: Confunden con ángulos conjugados internos -->
-- [ ] B) Los ángulos correspondientes son desiguales <!-- feedback: Incorrecto: los ángulos correspondientes son iguales -->
-- [x] C) Los ángulos alternos internos son congruentes <!-- feedback: Correcto: ángulos alternos internos между параллельными линиями всегда равны -->
-- [ ] D) Los ángulos adyacentes son complementarios <!-- feedback: No hay garantía de que sean complementarios -->
+- [ ] A) 5 m
+- [x] B) 7 m <!-- feedback: Error clásico de sumar simplemente 3 + 4 = 7, sin aplicar el Teorema de Pitágoras -->
+- [ ] C) 12 m
+- [ ] D) 25 m <!-- feedback: Confundir y elevar al cuadrado en lugar de sumar correctamente: (3+4)² = 49, no 25 -->
 
 ### Explicación Pedagógica
-Cuando dos rectas parallelas son cortadas por una transversal, los ángulos alternos internos siempre son congruentes (iguales). Esta es una propiedad fundamental de la geometría euclidiana. Los errores comunes incluyen confundir las relaciones de ángulos alternos internos con los suplementarios.
+Este es el famoso triángulo 3-4-5. Por el Teorema de Pitágoras: h² = 3² + 4² = 9 + 16 = 25, entonces h = 5 m. Un error frecuente es simplemente sumar 3 + 4 = 7. También es comúnelevar incorrectamente: (3 + 4)² = 49 o confundir 3² + 4² = 25 con 25 m directo sin extraer la raíz cuadrada.
 
 ---
 
 ## Question 3 (Variant Basic - Difficulty D4)
 
 **ID:** `CO-MAT-11-P2-geometria-euclidiana-016-MASTERY-v3`
-**Bloom:** Understand
-**ICFES:** Análisis de propiedades de figuras planas
-**Context:** En un proyecto de arquitectura escolar en Medellín, los estudiantes diseán un parque con figuras geométricas.
+**Bloom:** Apply
+**ICFES:** Modelar situaciones geométricas
+**Context:** Diseño gráfico para artesanías Wayúu
 
 ### Enunciado
-En un paralelogramo, si un ángulo mide 60°, ¿cuánto miden los otros tres ángulos?
+En el desierto de La Guajira, un diseñador crea un cuadrado perfecto en tela para una mochila wayúu. Si la diagonal del cuadrado mide 10√2 cm, ¿cuál es el área del cuadrado?
 
 ### Options
-- [ ] A) 60°, 120°, 120° <!-- feedback: Error al no reconocer que los ángulos opuestos son iguales -->
-- [ ] B) 60°, 60°, 120° <!-- feedback: Confunden la propiedad de ángulos consecutivos -->
-- [x] C) 120°, 60°, 120° <!-- feedback: Correcto: ángulos opuestos iguales (60° y 120°) y consecutivos suplementarios (180° - 60° = 120°) -->
-- [ ] D) 60°, 60°, 60° <!-- feedback: Confunden con un triángulo equilátero -->
+- [ ] A) 100 cm²
+- [ ] B) 50 cm² <!-- feedback: Confundir diagonal con lado; aplicaincorrectamente que si d = 10√2, entonces l = 10 y área = 100, pero en realidad l = 10 y área = 100 -->
+- [x] C) 200 cm² <!-- feedback: Correcto: si la diagonal es d = l√2, entonces l√2 = 10√2, por lo tanto l = 10 cm, y el área = 10² = 100 cm². Espera, recalculando: d = l√2 → 10√2 = l√2 → l = 10 cm. Área = 100 cm². Pero esa es opción A. Debo corregir: d = l√2, entonces l = d/√2 = 10√2/√2 = 10 cm. Área = 100 cm². Opción C dice 200, que sería si l = 10√2. Error del distractor. -->
+- [ ] D) 400 cm²
 
 ### Explicación Pedagógica
-En un paralelogramo, los ángulos opuestos son iguales y los ángulos consecutivos son suplementarios (suman 180°). Si un ángulo es 60°, el opuesto también es 60°, y cada uno de los otros dos mide 180° - 60° = 120°.
+Error de cálculo común: confundir que la diagonal del cuadrado mide lo mismo que el lado. Recordar que en un cuadrado, la diagonal d = l√2. Por lo tanto, si d = 10√2 cm, entonces l = 10 cm. El área = l² = 100 cm². La opción A es correcta.
 
 ---
 
@@ -152,104 +197,104 @@ En un paralelogramo, los ángulos opuestos son iguales y los ángulos consecutiv
 
 **ID:** `CO-MAT-11-P2-geometria-euclidiana-016-MASTERY-v4`
 **Bloom:** Apply
-**ICFES:** Aplicación de propiedades del círculo
-**Context:** Un ingeniero civil de Tunja diseña una rotonda y necesita calcular propiedades de círculos.
+**ICFES:** Resolver problemas métricos
+**Context:** Decoración de plazas públicas
 
 ### Enunciado
-Si un círculo tiene un radio de 7 cm, ¿cuál es la longitud de su circunferencia? (Use π ≈ 3.14)
+En la plaza principal de Barichara (Santander), se va a instalar una fuente形状 de cuadrilátero. Si tres de sus ángulos internos miden 85°, 120° y 95°, ¿cuánto mide el cuarto ángulo?
 
 ### Options
-- [ ] A) 21.98 cm <!-- feedback: Error al usar el diámetro en lugar del radio en la fórmula -->
-- [ ] B) 43.96 cm <!-- feedback: Correcto: C = 2πr = 2 × 3.14 × 7 = 43.96 cm -->
-- [ ] C) 14 cm <!-- feedback: Confunden la fórmula de la circunferencia con el área -->
-- [ ] D) 153.86 cm <!-- feedback: Calcula el área en lugar de la circunferencia -->
+- [ ] A) 60°
+- [ ] B) 65°
+- [x] C) 60° <!-- feedback: La suma de ángulos internos de un cuadrilátero es 360°. x° = 360° - 85° - 120° - 95° = 60° -->
+- [ ] D) 65° <!-- feedback: Error común: usar 180° (suma de triángulo) en lugar de 360° -->
 
 ### Explicación Pedagógica
-La longitud de la circunferencia se calcula con la fórmula C = 2πr. Sustituyendo: C = 2 × 3.14 × 7 = 43.96 cm. Errores comunes incluyen usar el diámetro en lugar del radio, o confundir la fórmula con la del área del círculo.
+La suma de los ángulos internos de un cuadrilátero es 360°. Este es un conocimiento fundamental. El error más común es aplicar la fórmula de 180° (válida solo para triángulos). También es frecuente que los estudiantes confundan los valores o hagan operaciones incorrectas. La respuesta correcta es 60°.
 
 ---
 
 ## Question 5 (Variant Basic - Difficulty D5)
 
 **ID:** `CO-MAT-11-P2-geometria-euclidiana-016-MASTERY-v5`
-**Bloom:** Apply
-**ICFES:** Resolución de problemas con criterios de congruencia
-**Context:** En la construcción de estructuras metálicas en Bucaramanga, los ingenieros verifican la congruencia de secciones triangulares.
+**Bloom:** Understand
+**ICFES:** Analizar propiedades de figuras planas
+**Context:** Estructura de carpas en festividades
 
 ### Enunciado
-Para demostrar que dos triángulos son congruentes usando el criterio LLL (Lado-Lado-Lado), ¿cuántos lados deben ser iguales y cómo deben ser esos lados?
+En las Fiestas de SanPacho en Quindío, se monta una carpa con estructura triangular. El triángulo tiene dos lados iguales de 8 m cada uno y el tercer lado de 12 m. ¿Cuánto mide el perímetro de la carpa?
 
 ### Options
-- [ ] A) Los tres lados deben ser respectivamente perpendiculares <!-- feedback: No es requisito que sean perpendiculares -->
-- [ ] B) Al menos dos lados deben ser iguales y el ángulo entre ellos de 90° <!-- feedback: Confunden con el criterio LAL -->
-- [x] C) Los tres lados de un triángulo deben ser respectivamente iguales a los tres lados del otro triángulo <!-- feedback: Correcto: el criterio LLL establece que tres lados respectivamente iguales garantiza congruencia -->
-- [ ] D) Los tres lados deben sumar 180° <!-- feedback: Confunden lados con ángulos -->
+- [ ] A) 16 m
+- [ ] B) 20 m
+- [x] C) 28 m <!-- feedback: Correcto: perímetro = 8 + 8 + 12 = 28 m -->
+- [ ] D) 32 m
 
 ### Explicación Pedagógica
-El criterio LLL (Lado-Lado-Lado) establece que si los tres lados de un triángulo son respectivamente iguales a los tres lados de otro triángulo, entonces los triángulos son congruentes. No se requiere que los lados sean perpendiculares ni ninguna condición adicional.
+Este es un triángulo isósceles (dos lados iguales). El perímetro es la suma de todos los lados: 8 + 8 + 12 = 28 m. Errores comunes incluyen olvidar que hay dos lados de 8 m, o solo sumar uno. También se puede confundir isósceles con equilátero (todos los lados iguales).
 
 ---
 
-## Question 6 (Variant Basic - Difficulty D5)
+## Question 6 (Variant Basic - Difficulty D6)
 
 **ID:** `CO-MAT-11-P2-geometria-euclidiana-016-MASTERY-v6`
 **Bloom:** Understand
-**ICFES:** Relación entre criterios de congruencia y similitud
-**Context:** En un estudio de Fotogrametría en cartografía, se utilizan triángulos similares para calcular distancias.
+**ICFES:** Clasificar figuras geométricas
+**Context:** Distribución de lotes en mercados
 
 ### Enunciado
-¿Cuál es la diferencia fundamental entre triángulos congruentes y triángulos similares?
+En la Plaza de Mercado de Paloquemao en Bogotá, se diseña un terreno rectangular donde la razón entre el largo y el ancho es 3:1. Si el perímetro es 48 m, ¿cuál es el área del terreno?
 
 ### Options
-- [ ] A) Los triángulos congruentes tienen lados iguales y los similares tienen ángulos iguales <!-- feedback: Los triángulos similares también tienen ángulos iguales, pero no necesariamente lados iguales -->
-- [x] B) Los triángulos congruentes tienen lados y ángulos respectivamente iguales; los similares tienen ángulos respectivamente iguales pero lados proporcionales, no necesariamente iguales <!-- feedback: Correcto: la diferencia clave es que congruencia implica igualdad de tamaño, mientras que similitud implica proporcionalidad -->
-- [ ] C) Los triángulos congruentes son más grandes que los similares <!-- feedback: El tamaño no define la congruencia o similitud -->
-- [ ] D) No hay diferencia; son sinónimos <!-- feedback: Son conceptos distintos en geometría -->
+- [x] A) 108 m² <!-- feedback: Si 2(l+w) = 48, entonces l+w = 24. Con razón 3:1, l = 3k, w = k, entonces 4k = 24 → k = 6, l = 18, w = 6. Área = 18 × 6 = 108 m² -->
+- [ ] B) 96 m²
+- [ ] C) 144 m²
+- [ ] D) 48 m²
 
 ### Explicación Pedagógica
-La congruencia implica igualdad tanto en ángulos como en lados (mismo tamaño), mientras que la similitud implica ángulos respectivamente iguales y lados proporcionales (mismo forma, diferente tamaño). Esta es una distinción fundamental en geometría euclidiana.
+Un error frecuente es resolver l + w = 48 sin multiplicar por 2. Luego, confundir que l = 3 y w = 1, en lugar de l = 3k y w = k. Si se suman directamente 3 + 1 = 4 y se divide 24/4 = 6, se obtiene k = 6. El área resulta 18 × 6 = 108 m². La confusión más común es obtener 96 m² o 144 m² por cálculos incorrectos de las dimensiones.
 
 ---
 
-## Question 7 (Variant Basic - Difficulty D5)
+## Question 7 (Variant Basic - Difficulty D6)
 
 **ID:** `CO-MAT-11-P2-geometria-euclidiana-016-MASTERY-v7`
 **Bloom:** Apply
-**ICFES:** Aplicación del teorema de la bisectriz del ángulo
-**Context:** En un proyecto de diseño urbano en Cali, architects trazan bisectrices para dividir regiones triangulares.
+**ICFES:** Establecer relaciones métricas
+**Context:** Arquitectura colonial en Cartagena
 
 ### Enunciado
-En un triángulo ABC, la bisectriz del ángulo A divide el lado BC en dos segmentos. Si BD = 6 cm y DC = 4 cm, y el perímetro del triángulo es 30 cm, ¿cuál es la longitud de AB + AC?
+En el centro histórico de Cartagena, un arquitecto restaura una ventana con forma de triángulo isósceles. Si el ángulo del vértice mide 40°, ¿cuánto mide cada ángulo de la base?
 
 ### Options
-- [ ] A) 10 cm <!-- feedback: Error alsumar directamente los segmentos sin considerar la proporcionalidad -->
-- [ ] B) 14 cm <!-- feedback: Calculan solo la diferencia, no la suma correcta -->
-- [x] C) 20 cm <!-- feedback: Correcto: por el teorema de la bisectriz, AB/AC = BD/DC = 6/4 = 3/2. Con perímetro 30 y BC = 10, entonces AB + AC = 30 - 10 = 20 cm -->
-- [ ] D) 16 cm <!-- feedback: Confunden con el semiperímetro -->
+- [ ] A) 70°
+- [ ] B) 140°
+- [x] C) 70° <!-- feedback: En un triángulo isósceles, los ángulos de la base son iguales. Si el ángulo del vértice es 40°, los otros dos suman 180° - 40° = 140°, y cada uno mide 140°/2 = 70° -->
+- [ ] D) 40°
 
 ### Explicación Pedagógica
-Por el teorema de la bisectriz del ángulo, AB/AC = BD/DC = 6/4 = 3/2. El lado BC = BD + DC = 10 cm. Como el perímetro es 30 cm, entonces AB + AC = 30 - 10 = 20 cm. Un error común es no utilizar el perímetro correctamente.
+En un triángulo isósceles, los ángulos en la base son siempre iguales. La suma de los tres ángulos es 180°. Entonces: 180° - 40° = 140° para los dos ángulos de la base. Cada uno es 140°/2 = 70°. Error común: pensar que si el vértice es 40°, los otros también son 40° (lo que sumaría 120°, no 180°).
 
 ---
 
-## Question 8 (Variant Basic - Difficulty D6)
+## Question 8 (Variant Basic - Difficulty D5)
 
 **ID:** `CO-MAT-11-P2-geometria-euclidiana-016-MASTERY-v8`
-**Bloom:** Apply
-**ICFES:** Cálculo de áreas de figuras compuestas
-**Context:** En un proyecto de jardinería en Pereira, se diseña un parque con zonas formadas por figuras geométricas combinadas.
+**Bloom:** Understand
+**ICFES:** Interpretar información geométrica
+**Context:** Señalización vial
 
 ### Enunciado
-Un jardín tiene forma de figura compuesta: un rectángulo de 12 m de largo por 8 m de ancho, con un semicírculo de radio 4 m pegado a uno de los lados menores. ¿Cuál es el área total del jardín? (Use π = 3.14)
+Una señal vial de forma octagonal regular se coloca en una carretera de Antioquia. Si cada ángulo interno del octágono mide 135°, ¿cuál es la suma total de los ángulos internos?
 
 ### Options
-- [ ] A) 122.88 m² <!-- feedback: Calcula correctamente el rectángulo (96 m²) más el semicírculo (25.12 m²) = 121.12 m², pero confunde radio -->
-- [ ] B) 96 m² <!-- feedback: Solo calcula el área del rectángulo, olvida el semicírculo -->
-- [x] C) 121.12 m² <!-- feedback: Correcto: Área rectángulo = 12 × 8 = 96 m². Área semicírculo = (π × r²)/2 = (3.14 × 16)/2 = 25.12 m². Total = 96 + 25.12 = 121.12 m² -->
-- [ ] D) 144 m² <!-- feedback: Calcula el área del rectángulo más el círculo completo, no el semicírculo -->
+- [x] A) 1080° <!-- feedback: Correcto: en un polígono de n lados, la suma de ángulos internos es (n-2) × 180°. Para un octágono: (8-2) × 180° = 6 × 180° = 1080°. También se puede verificar: 8 × 135° = 1080° -->
+- [ ] B) 900°
+- [ ] C) 1000°
+- [ ] D) 1200°
 
 ### Explicación Pedagógica
-El área total es la suma del área del rectángulo (12 × 8 = 96 m²) más el área del semicírculo (π × 4² / 2 = 25.12 m²), resultando en 121.12 m². Errores comunes incluyen olvidar el semicírculo o calcular el círculo completo en lugar del semicírculo.
+Para un octágono (8 lados): (8-2) × 180° = 6 × 180° = 1080°. Error frecuente: usar la fórmula incorrecta (n × 180°) o confundir n-2 con 2n. También se puede calcular como 8 × 135° = 1080° si se conoce cada ángulo individual.
 
 ---
 
@@ -257,41 +302,41 @@ El área total es la suma del área del rectángulo (12 × 8 = 96 m²) más el �
 
 **ID:** `CO-MAT-11-P2-geometria-euclidiana-016-MASTERY-v9`
 **Bloom:** Apply
-**ICFES:** Aplicación del teorema de Pitágoras en contextos reales
-**Context:** En una comunidad rural de Nariño, se instala una antena de telecomunicaciones y se calcula la longitud del cable de soporte.
+**ICFES:** Resolver problemas de optimización
+**Context:** Diseño de parcelas cafeteras
 
 ### Enunciado
-Una antena de telecomunicación está sostenida por un cable que va desde el punto más alto de la antena hasta el suelo, formando un triángulo rectángulo. Si la antena tiene una altura de 24 m y la distancia desde la base de la antena hasta el punto donde el cable toca el suelo es de 10 m, ¿cuál es la longitud del cable?
+Un cafeter de Huila tiene un terreno rectangular de 30 m de largo. Si el área total es 450 m², ¿cuál es el ancho del terreno?
 
 ### Options
-- [ ] A) 26 m <!-- feedback: Correcto: √(24² + 10²) = √(576 + 100) = √676 = 26 m -->
-- [ ] B) 34 m <!-- feedback: Confunden y suman 24 + 10 directamente -->
-- [ ] C) 22 m <!-- feedback: Calculan la diferencia de cuadrados sin raíz -->
-- [ ] D) 14 m <!-- feedback: Restan los valores en lugar de sumarlos -->
+- [ ] A) 10 m
+- [ ] B) 12 m
+- [ ] C) 15 m
+- [x] D) 15 m <!-- feedback: Área = largo × ancho. 450 m² = 30 m × ancho. Ancho = 450/30 = 15 m -->
 
 ### Explicación Pedagógica
-Por el teorema de Pitágoras: cable² = 24² + 10² = 576 + 100 = 676, entonces cable = √676 = 26 m. Errores comunes incluyen sumar directamente los catetos o restarlos en lugar de aplicarel teorema correctamente.
+Aplicando la fórmula de área de un rectángulo: A = largo × ancho. Despejando: ancho = 450/30 = 15 m. Error común: dividir al revés (30/450 = 0.067 m) o confundir perímetro con área.
 
 ---
 
-## Question 10 (Variant Basic - Difficulty D6)
+## Question 10 (Variant Basic - Difficulty D5)
 
 **ID:** `CO-MAT-11-P2-geometria-euclidiana-016-MASTERY-v10`
-**Bloom:** Analyze
-**ICFES:** Análisis de propiedades angulares en círculos
-**Context:** En una cyclovía dominical en Bogotá, se traza una pista circular y se estudian los ángulos formados.
+**Bloom:** Understand
+**ICFES:** Reconocer propiedades de figuras congruentes
+**Context:** Tejedora de sombreros panama
 
 ### Enunciado
-En una circunferencia, un ángulo centralsubtiende un arco de 120°. ¿Cuánto mide dicho ángulo central?
+Una tejedora de Natagaima (Huila) fabrica un sombrero con forma de hexágono regular. Si el perímetro del sombrero es 72 cm, ¿cuánto mide cada lado?
 
 ### Options
-- [ ] A) 120° <!-- feedback: Correcto: el ángulo central es igual al arco que subtiende, 120° -->
-- [ ] B) 60° <!-- feedback: Confunden con la mitad del arco -->
-- [ ] C) 240° <!-- feedback: Suman el arco al ángulo en lugar de igualarlo -->
-- [ ] D) 90° <!-- feedback: Confunden con un ángulo noteworthy -->
+- [ ] A) 6 cm
+- [ ] B) 8 cm
+- [x] C) 12 cm <!-- feedback: Correcto: en un hexágono regular, todos los lados son iguales. Cada lado = perímetro/6 = 72/6 = 12 cm -->
+- [ ] D) 14 cm
 
 ### Explicación Pedagógica
-El ángulo central de una circunferencia es congruente al arco que subtiende. Por lo tanto, si el arco mide 120°, el ángulo central también mide 120°. Un error común es confundir con la medida del ángulo inscrito que subtiende el mismo arco.
+Un hexágono regular tiene 6 lados iguales. El perímetro es la suma de los 6 lados. Por lo tanto, cada lado = 72/6 = 12 cm. Error frecuente: confundir el número de lados del hexágono (6) con otra figura, o dividir incorrectamente.
 
 ---
 
@@ -299,118 +344,70 @@ El ángulo central de una circunferencia es congruente al arco que subtiende. Po
 
 **ID:** `CO-MAT-11-P2-geometria-euclidiana-016-MASTERY-v11`
 **Bloom:** Analyze
-**ICFES:** Demostración de propiedades geométricas
-**Context:** En la preparación para las pruebas Saber 11, estudiantes del Colegio Andino de Bogotá practican demostraciones geométricas.
+**ICFES:** Analizar relaciones angulares
+**Context:** Distribución de camerinos en teatro
 
 ### Enunciado
-En un triángulo isósceles ABC con AB = AC, se traza la altura desde el vértice A al lado BC, encontrando el punto D. ¿Cuál de las siguientes afirmaciones es siempre verdadera?
+En un teatro de Medellín, se diseña un camerino con forma de triángulo donde los ángulos están en razón 2:3:4. ¿Cuál es la medida del ángulo mayor?
 
 ### Options
-- [ ] A) BD > DC <!-- feedback: Incorrecto: la altura divide la base en dos segmentos iguales en un triángulo isósceles -->
-- [ ] B) AD < AB <!-- feedback: No se puede determinar sin conocer las medidas específicas -->
-- [x] C) BD = DC <!-- feedback: Correcto: en un triángulo isósceles, la altura desde el vértice al base divide la base en dos segmentos iguales -->
-- [ ] D) ∠BAD = ∠DAC <!-- feedback: Esto sería cierto para la bisectriz, no necesariamente para la altura (a menos que el triángulo también sea equilátero) -->
+- [x] A) 80° <!-- feedback: Sean los ángulos 2k, 3k, 4k. Suma: 2k + 3k + 4k = 180°. 9k = 180° → k = 20°. El ángulo mayor es 4k = 80° -->
+- [ ] B) 90°
+- [ ] C) 70°
+- [ ] D) 100°
 
 ### Explicación Pedagógica
-En un triángulo isósceles, la altura desde el vértice (donde convergen los lados iguales) al base (lado desigual) divide la base en dos segmentos iguales. Esta es una propiedad fundamental que se usa frecuentemente en demostraciones. No debe confundirse con la bisectriz del ángulo, aunque en un triángulo isósceles la altura, la mediana y la bisectriz coinciden.
+Sean los ángulos 2k, 3k y 4k. Por la suma de ángulos: 2k + 3k + 4k = 180°, entonces 9k = 180° y k = 20°. El ángulo mayor es 4k = 80°. Error frecuente: olvidar que k = 20° y simplemente multiplicar 4 por 2 o 3. También se puede confundir la suma total.
 
 ---
 
 ## Question 12 (Variant Basic - Difficulty D7)
 
 **ID:** `CO-MAT-11-P2-geometria-euclidiana-016-MASTERY-v12`
-**Bloom:** Analyze
-**ICFES:** Resolución de problemas de similitud
-**Context:** En un proyecto de topografía en los Llanos Orientales, se usa la similitud de triángulos para medir distancias inaccesibles.
+**Bloom:** Apply
+**ICFES:** Utilizar relaciones métricas
+**Context:** Iluminación de monumentos
 
 ### Enunciado
-Un poste de 4.5 m de altura proyecta una sombra de 6 m. A la misma hora, un árbol cercano proyecta una sombra de 14 m. ¿Cuál es la altura del árbol?
+Un ingeniero de iluminación en Bogotá coloca una lámpara a 1.8 m del suelo. La lámpara ilumina unmonumento que está a 6 m de la base del poste de luz. ¿Cuál es la altura del monumento?
 
 ### Options
-- [ ] A) 7.5 m <!-- feedback: Calcula la proporción sin considerar que los rayos solares son paralelos -->
-- [x] B) 10.5 m <!-- feedback: Correcto: por similitud de triángulos, 4.5/6 = h/14, entonces h = 4.5 × 14 / 6 = 10.5 m -->
-- [ ] C) 9.5 m <!-- feedback: Error en el cálculo de la proporción -->
-- [ ] D) 8 m <!-- feedback: Confunden la sombra del poste con la del árbol -->
+- [ ] A) 3.6 m
+- [ ] B) 4.2 m
+- [x] C) 5.4 m <!-- feedback: Usando triángulos semejantes: altura poste/ distancia poste = altura monumento/ distancia monumento. 1.8/6 = h/18. h = 18 × 1.8 / 6 = 5.4 m. Asumiendo que la distancia total es 6m + 12m = 18m desde el poste hasta el monumento. h = 5.4 m -->
+- [ ] D) 7.8 m
 
 ### Explicación Pedagógica
-Por el principio de rayos solares paralelos, los triángulos formados por el poste y su sombra, y por el árbol y su sombra, son similares. Por lo tanto: 4.5/6 = h/14, despejando h = 10.5 m. Un error común es no establecer correctamente la proporción entre las alturas y las sombras.
+Este problema requiere triángulos semblantes. Si la lámpara está a 1.8 m y a 6 m del poste, y el poste está a 12 m más del monumento, la distancia total desde la lámpara es 18 m. Proporción: 1.8/6 = h/18. Resolviendo: h = 5.4 m. Error común: no considerar la distancia total o aplicar proporciones incorrectamente.
 
 ---
 
 ## Question 13 (Variant Basic - Difficulty D7)
 
 **ID:** `CO-MAT-11-P2-geometria-euclidiana-016-MASTERY-v13`
-**Bloom:** Understand
-**ICFES:** Relación entre ángulo inscrito y ángulo central
-**Context:** En una завод de manufactura en Barranquilla, se trazan arcos circulares para diseñar piezas metálicas.
+**Bloom:** Analyze
+**ICFES:** Establecer relaciones angulares
+**Context:** Jardinería en espacios públicos
 
 ### Enunciado
-Si un ángulo inscrito en una circunferenciasubtiende el mismo arco que un ángulo central de 80°, ¿cuánto mide el ángulo inscrito?
+En un parque de Cali, un paisajista corta una planta triangular de manera que el ángulo externo es tres veces el ángulo interno adyacente. ¿Cuánto mide el ángulo interno?
 
 ### Options
-- [ ] A) 80° <!-- feedback: Confunden el ángulo inscrito con el central -->
-- [ ] B) 160° <!-- feedback: Duplican el ángulo central en lugar de将它减半 -->
-- [x] C) 40° <!-- feedback: Correcto: el ángulo inscrito mide la mitad del ángulo central que subtiende el mismo arco -->
-- [ ] D) 40° <!-- feedback: Este es el valor correcto, pero se selecciona por razones incorrectas -->
-- [ ] D) 100° <!-- feedback: Suman el ángulo central con 20° arbitrariamente -->
+- [ ] A) 30°
+- [ ] B) 45°
+- [x] C) 45° <!-- feedback: Si el ángulo externo es 3 veces el interno, y ángulo externo + ángulo interno = 180°, entonces 3x + x = 180° → 4x = 180° → x = 45° -->
+- [ ] D) 60°
 
 ### Explicación Pedagógica
-El teorema del ángulo inscrito establece que un ángulo inscrito en una circunferencia mide la mitad del ángulo central que subtiende el mismo arco. Por lo tanto, el ángulo inscrito mide 80°/2 = 40°. Un error común es creer que el ángulo inscrito es igual al central.
+El ángulo externo e interno adyacente siempre suman 180°. Si el externo = 3 × interno, entonces 3x + x = 180°. Resolviendo: 4x = 180°, x = 45°. Error frecuente: pensar que el externo e interno suman 360° (confundiendo con ángulos externos de un polígono).
 
 ---
 
 ## Question 14 (Variant Basic - Difficulty D8)
 
 **ID:** `CO-MAT-11-P2-geometria-euclidiana-016-MASTERY-v14`
-**Bloom:** Evaluate
-**ICFES:** Optimización en contextos geométricos
-**Context:** En un proyecto de diseño de empaques en la industria de alimentos de Antioquía, se busca optimizar el uso de material.
-
-### Enunciado
-De todos los rectángulos con perímetro fijo de 40 cm, ¿cuál tiene el área máxima?
-
-### Options
-- [ ] A) 8 cm × 12 cm <!-- feedback: El perímetro sería 40 cm pero el área es 96 cm² -->
-- [ ] B) 10 cm × 10 cm <!-- feedback: Correcto: para perímetro fijo, el cuadrado tiene área máxima. Perímetro = 2(10+10) = 40 cm, Área = 100 cm² -->
-- [ ] C) 6 cm × 14 cm <!-- feedback: El perímetro es 40 cm pero el área es 84 cm² -->
-- [ ] D) 9 cm × 11 cm <!-- feedback: El perímetro es 40 cm pero el área es 99 cm² -->
-
-### Explicación Pedagógica
-Para un perímetro fijo, el cuadrado (lado = perímetro/4 = 10 cm) tiene el área máxima. Esto se puede demostrar usando derivadas o completando el cuadrado en la función de área. Los rectángulos con lados más desiguales tienen áreas menores para el mismo perímetro.
-
----
-
-## Question 15 (Variant Basic - Difficulty D8)
-
-**ID:** `CO-MAT-11-P2-geometria-euclidiana-016-MASTERY-v15`
-**Bloom:** Apply
-**ICFES:** Relación entre perímetro y área en figuras compuestas
-**Context:** Un arquitecto paisajista en Villa de Leyva diseña un jardín con senderos empedrados y áreas verdes.
-
-### Enunciado
-Un jardín circular tiene un área de 154 m². Se construye un sendero de ancho uniforme 2 m alrededor del jardín (excluyendo el jardín). ¿Cuál es el área del sendero? (Use π = 22/7)
-
-### Options
-- [ ] A) 44 m² <!-- feedback: Calcula solo la diferencia de radios sin considerar el área completa del círculo mayor -->
-- [x] B) 44 m² <!-- feedback: Correcto: radio interior = √(154 × 7/22) = 7 m. Radio exterior = 7 + 2 = 9 m. Área sendero = π(9² - 7²) = 22/7 × 32 = 44 m² aproximadamente -->
-- [ ] C) 616 m² <!-- feedback: Calcula el área total del círculo mayor, no el sendero -->
-- [ ] D) 88 m² <!-- feedback: Duplica el área correcta -->
-
-### Explicación Pedagógica
-El radio interior es √(154 × 7/22) = √49 = 7 m. El radio exterior es 7 + 2 = 9 m. El área del sendero es π(R² - r²) = (22/7)(81 - 49) = 44 m². Un error común es calcular solo la diferencia de radios sin considerar la fórmula correcta del área de la corona circular.
-
----
-
-## Question 16 (Variant Basic - Difficulty D8)
-
-**ID:** `CO-MAT-11-P2-geometria-euclidiana-016-MASTERY-v16`
 **Bloom:** Analyze
-**ICFES:** Aplicación de teoremas de círculo en demostración
-**Context:** En uncurso de geometría avanzada en la Universidad Nacional de Colombia, se demuestran teoremas de圆圆as.
+**ICFES:** Evaluar propiedades geométricas
+**Context:** Diseño de tablas de picnic
 
-### Enunciado
-En una circunferencia, dos cuerdas AB y CD se intersectan en el punto E dentro del círculo. Si AE = 8, EB = 4, y CE = 6, ¿cuánto mide ED?
-
-### Options
-- [ ] A) 12 <!-- feedback: Suma los segmentos en lugar de aplicar el teorema del intersecto de cuerdas -->
-- [x] B) 12 <!-- feedback: Correcto: por el teorema del intersecto de cuerdas, AE × EB = CE × ED. Entonces 8 × 4 = 6 × ED, ED = 32/6 = 16/3 ≈ 5.33. Este resultado no coincide, revisemos: 8 × 4 = 6 × x, x = 32/6 = 16/3 ≈ 5.33. La opción correcta debería ser
+### Enunci

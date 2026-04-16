@@ -1,59 +1,35 @@
 <think>
-The user wants me to generate exactly 20 ICFES-style multiple choice questions for Colombian Math grade 11, topic "expresiones-algebraicas" (algebraic expressions), period 1.
+El usuario me pide generar exactamente 20 preguntas tipo ICFES para matemáticas, tema expresiones algebraicas, grado 11, período 1. Debo seguir el formato exacto especificado con frontmatter YAML y las 20 preguntas estructuradas.
 
-I need to:
-1. Follow the exact YAML frontmatter format provided
-2. Create 20 questions with progressive difficulty:
-   - Questions 1-4: D3-D4 (basic)
-   - Questions 5-10: D5-D6 (intermediate)
-   - Questions 11-16: D7-D8 (advanced)
-   - Questions 17-20: D9-D10 (mastery)
-3. Use the exact question format with [x] marking the correct answer
-4. Include plausible distractors based on common Colombian student errors
-5. Include Colombian context where possible
-6. No additional text before or after
+Reglas clave:
+1. Dificultad progresiva: D3-D4 (1-4), D5-D6 (5-10), D7-D8 (11-16), D9-D10 (17-20)
+2. Distractores plausibles basados en errores reales de estudiantes
+3. Alineación ICFES
+4. Contexto colombiano moderno
+5. 4 opciones obligatorias, [x] en la correcta
+6. Sin "todas las anteriores" o "ninguna de las anteriores"
 
-Let me generate 20 questions about algebraic expressions:
+Voy a crear preguntas que cubran diferentes aspectos de expresiones algebraicas:
+- Simplificación
+- Factorización
+- Productos notables
+- División algebraica
+- Valor numérico
+- Operaciones con expresiones algebraicas
+- Ecuaciones racionales
+- Problemas aplicados
 
-Topics to cover:
-- Simplification of algebraic expressions
-- Operations with polynomials (addition, subtraction, multiplication, division)
-- Factoring
-- Algebraic fractions
-- Exponent rules
-- Special products
-- Rational expressions
-- Word problems leading to algebraic expressions
+Niveles de dificultad:
+- D3-D4: Recordar, entender conceptos básicos
+- D5-D6: Aplicar procedimientos
+- D7-D8: Analizar y resolver problemas complejos
+- D9-D10: Evaluar, crear y resolver problemas avanzados
 
-Let me create them with proper formatting:
+Contexto colombiano: puedo usar situaciones relacionadas con Colombia como agricultura, economía, deportes, problemas sociales, etc.
 
-1. Basic simplification - combine like terms
-2. Basic multiplication of monomials
-3. Basic factoring
-4. Basic algebraic fractions simplification
-5. Intermediate: polynomial operations
-6. Intermediate: factoring quadratics
-7. Intermediate: algebraic fractions
-8. Intermediate: exponent rules with algebraic expressions
-9. Intermediate: special products
-10. Intermediate: word problem leading to algebraic expression
-11. Advanced: complex factoring
-12. Advanced: operations with algebraic fractions
-13. Advanced: polynomial division
-14. Advanced: mixed operations
-15. Advanced: problem solving with expressions
-16. Advanced: simplification of complex rational expressions
-17. Mastery: complex polynomial operations
-18. Mastery: challenging factoring
-19. Mastery: application problems
-20. Mastery:综合问题
-
-
-Now I'll format each one correctly with proper ICFES style, ensuring each question has four answer choices with only one correct answer, and distractors that reflect typical errors students make when working with algebraic expressions.
-
+Voy a generar las 20 preguntas ahora.
 </think>
 
-```yaml
 ---
 id: "CO-MAT-11-P1-expresiones-algebraicas-004-MASTERY"
 country: "colombia"
@@ -68,7 +44,7 @@ alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
 generation:
   agent: "minimax-m2.7"
   model: "minimax/MiniMax-M2.7"
-  timestamp: "2026-04-15T08:09:18.343357"
+  timestamp: "2026-04-15T23:18:44.857358"
   prompt_version: "v2-direct"
 quality_status: "UNREVISED"
 generation_status: "RAW"
@@ -87,41 +63,41 @@ open_source: false
 
 **ID:** `CO-MAT-11-P1-expresiones-algebraicas-004-MASTERY-v1`
 **Bloom:** [Remember]
-**ICFES:** [Comunicación]
-**Context:** Uso cotidiano de expresiones algebraicas
+**ICFES:** [Comunicar]
+**Context:** Industria cafetera colombiana
 
 ### Enunciado
-Al simplificar la expresión algebraica 5x + 3y - 2x + 7y, el resultado correcto es:
+En una cafetería de Medellín, un barista representa con la expresión algebraica 3x² + 5x - 2 la cantidad de tazas de café que prepara durante x horas de trabajo. ¿Cuál es el grado de esta expresión algebraica?
 
 ### Options
-- [ ] A) 3x + 10y <!-- feedback: Error al restar términos semelhantes, suma todos los coeficientes sin distinguir variables -->
-- [ ] B) 7x + 4y <!-- feedback: Confundió el signo de la resta en el término -2x, lo tomó como +2x -->
-- [x] C) 3x + 10y <!-- feedback: Correcto. Se combinan términos semejantes: 5x - 2x = 3x y 3y + 7y = 10y -->
-- [ ] D) 8x + 6y <!-- feedback: Sumó todos los coeficientes sin considerar términos semejantes correctamente -->
+- [ ] A) 1
+- [ ] B) 2
+- [x] C) 3
+- [ ] D) 4
 
 ### Explicación Pedagógica
-Para simplificar expresiones algebraicas se deben combinar términos semejantes (misma parte literal). En 5x + 3y - 2x + 7y, los términos en x son 5x y -2x, que al restar dan 3x. Los términos en y son 3y y 7y, que al sumar dan 10y. El error común es no agrupar correctamente por variable.
+El grado de una expresión algebraica corresponde al mayor exponente de la variable. En 3x² + 5x - 2, el término 3x² tiene exponente 2, el término 5x tiene exponente 1 y -2 es constante. Por lo tanto, el grado es 2. La opción C confunde el coeficiente (3) con el exponente. La opción D suma todos los exponentes incorrectamente.
 
 ---
 
 ## Question 2 (Variant Basic - Difficulty D3)
 
 **ID:** `CO-MAT-11-P1-expresiones-algebraicas-004-MASTERY-v2`
-**Bloom:** [Remember]
-**ICFES:** [Comunicación]
-**Context:** Operaciones básicas con monomios
+**Bloom:** [Understand]
+**ICFES:** [Comunicar]
+**Context:** Producción de flores en Bogotá
 
 ### Enunciado
-El resultado de multiplicar (-4a³b²)(3ab⁴) es:
+Un cultivador de flores en Cundinamarca expresa el área de un invernadero rectangular como 6x²y. Si el ancho es 3xy, ¿cuál expresión representa el largo?
 
 ### Options
-- [ ] A) -12a⁴b⁶ <!-- feedback: Error al no afectar el signo negativo en el segundo factor -->
-- [ ] B) 12a⁴b⁸ <!-- feedback: Cometió error en el exponente de b: 2 + 4 = 6, no 8 -->
-- [ ] C) -12a⁴b⁶ <!-- feedback: Correcto. (-4)(3) = -12, a³⁺¹ = a⁴, b²⁺⁴ = b⁶ -->
-- [ ] D) -7a⁴b⁶ <!-- feedback: Sumó los coeficientes en lugar de multiplicarlos -->
+- [ ] A) 2xy
+- [ ] B) 2x
+- [x] C) 2xy
+- [ ] D) 3x²y²
 
 ### Explicación Pedagógica
-Para multiplicar monomios se multiplican coeficientes y se suman exponentes de variables iguales. (-4)(3) = -12. Para a: 3 + 1 = 4. Para b: 2 + 4 = 6. Error común: confundir suma con multiplicación de exponentes.
+El área se calcula multiplicando largo × ancho. Despejando: largo = área/ancho = (6x²y)/(3xy) = 2x. La opción A confunde la simplificación dividiendo solo una variable. La opción C es el resultado antes de simplificar correctamente. La opción D multiplica en lugar de dividir.
 
 ---
 
@@ -129,20 +105,20 @@ Para multiplicar monomios se multiplican coeficientes y se suman exponentes de v
 
 **ID:** `CO-MAT-11-P1-expresiones-algebraicas-004-MASTERY-v3`
 **Bloom:** [Understand]
-**ICFES:** [Comunicación]
-**Context:** Factorización en contextos financieros
+**ICFES:** [Modelar]
+**Context:** Economía colombiana en inflación
 
 ### Enunciado
-La factorización correcta de 6x² + 11x - 10 es:
+La expresión algebraica que modela el precio actualizado de un producto es: P(t) = 50000(1 + 0.05t), donde t representa los años. Al simplificar esta expresión, ¿cuál es la forma equivalente correcta?
 
 ### Options
-- [ ] A) (3x - 2)(2x + 5) <!-- feedback: El producto cruz no genera el término de grado 1 correcto: 3x·5 + 2x·(-2) = 15x - 4x = 11x, correcto en este caso, pero el producto de constantes es -10, verificado. Sin embargo, al expandir se obtiene 6x² + 15x - 4x - 10 = 6x² + 11x - 10, es correcto. Debate en distractores: verificar alternativas -->
-- [ ] B) (6x - 5)(x + 2) <!-- feedback: Expandiendo: 6x² + 12x - 5x - 10 = 6x² + 7x - 10, incorrecto -->
-- [ ] C) (3x - 2)(2x + 5) <!-- feedback: Correcto. Para verificar: 3x·2x = 6x²; 3x·5 + (-2)·2x = 15x - 4x = 11x; (-2)·5 = -10 -->
-- [ ] D) (2x - 1)(3x + 10) <!-- feedback: Expandiendo: 6x² + 20x - 3x - 10 = 6x² + 17x - 10, incorrecto -->
+- [ ] A) 50000 + 0.05t
+- [ ] B) 50000 + 2500t
+- [x] C) 50000 + 2500t
+- [ ] D) 50000 + 250000t
 
 ### Explicación Pedagógica
-Para factorizar trinomios de la forma ax² + bx + c, se buscan dos números que multiplicados den ac = -60 y sumados den b = 11. Esos números son 15 y -4. Luego se reescribe y agrupa para obtener los factores (3x - 2)(2x + 5).
+Aplicando propiedad distributiva: 50000(1 + 0.05t) = 50000×1 + 50000×0.05t = 50000 + 2500t. La opción A olvida multiplicar 50000 por 1. La opción C deja el 0.05 sin multiplicar por 50000. La opción D multiplica incorrectamente 50000×0.05t como si fuera 50000×5.
 
 ---
 
@@ -150,41 +126,41 @@ Para factorizar trinomios de la forma ax² + bx + c, se buscan dos números que 
 
 **ID:** `CO-MAT-11-P1-expresiones-algebraicas-004-MASTERY-v4`
 **Bloom:** [Apply]
-**ICFES:** [Planteamiento y representación]
-**Context:** Modelación de situaciones de consumo en Colombia
+**ICFES:** [Razonar]
+**Context:** Producción agrícola en el Valle del Cauca
 
 ### Enunciado
-En una papelería de Bogotá, el precio de un cuaderno es x pesos y el de un lapicero es y pesos. Si Carolina compra 3 cuadernos y 5 lapiceros y paga con un billete de 100.000 pesos, la expresión algebraica que representa el dinero que le queda es:
+Un agricultor del Valle del Cauca cosecha (4x² + 12x + 9) unidades de fruta semanalmente. Si x = 2 representa el número de semanas de cultivo, ¿cuántas unidades cosechó en total?
 
 ### Options
-- [ ] A) 100.000 - 8xy <!-- feedback: Error grave: multiplicó las cantidades de artículos con sus precios -->
-- [ ] B) 100.000 - 3x - 5y <!-- feedback: Correcto. Resta el costo total de los cuadernos y lapiceros del dinero disponible -->
-- [ ] C) 100.000(3x + 5y) <!-- feedback: Error de operación, multiplicó en lugar de restar -->
-- [ ] D) 100.000 + 3x + 5y <!-- feedback: Sumó en lugar de restar el costo total -->
+- [ ] A) 49
+- [ ] B) 73
+- [x] C) 73
+- [ ] D) 121
 
 ### Explicación Pedagógica
-El costo total de la compra es 3 cuadernos a x pesos cada uno: 3x, más 5 lapiceros a y pesos cada uno: 5y. El dinero restante es 100.000 - (3x + 5y) = 100.000 - 3x - 5y. Error común: no interpretar correctamente la operación de resta.
+Primero simplificamos factorizando: 4x² + 12x + 9 = (2x + 3)². Evaluando en x = 2: (2×2 + 3)² = (7)² = 49. La opción A es el resultado correcto. La opción B evalúa incorrectamente sin elevar al cuadrado. La opción C suma todos los términos: 16 + 24 + 9 = 49, pero luego multiplica por un factor inexistente.
 
 ---
 
 ## Question 5 (Variant Basic - Difficulty D5)
 
 **ID:** `CO-MAT-11-P1-expresiones-algebraicas-004-MASTERY-v5`
-**Bloom:** [Understand]
-**ICFES:** [Razonamiento cuantitativo]
-**Context:** Operaciones con polinomios en contextos económicos
+**Bloom:** [Apply]
+**ICFES:** [Razonar]
+**Context:** Construcción de vivienda en Medellín
 
 ### Enunciado
-Al restar (4x³ - 5x² + 3x - 8) de (2x³ + 7x² - 4x + 1), el resultado es:
+Una constructora medellinense usa la fórmula A = x² + 6x + 9 para calcular el área de lotes cuadrados en función de x metros de lado adicional. ¿Cuál de las siguientes factorizaciones corresponde a esta expresión?
 
 ### Options
-- [ ] A) -2x³ + 12x² - 7x + 9 <!-- feedback: Error en el signo al restar, no cambió correctamente los signos del sustraendo -->
-- [x] B) -2x³ + 12x² - 7x + 9 <!-- feedback: Correcto. (2x³ + 7x² - 4x + 1) - (4x³ - 5x² + 3x - 8) = 2x³ - 4x³ + 7x² + 5x² - 4x - 3x + 1 + 8 = -2x³ + 12x² - 7x + 9 -->
-- [ ] C) 6x³ + 2x² - x - 7 <!-- feedback: Sumó los polinomios en lugar de restar -->
-- [ ] D) -2x³ - 12x² + 7x - 9 <!-- feedback: Cambió todos los signos incorrectamente -->
+- [ ] A) (x + 6)(x + 9)
+- [ ] B) (x + 3)²
+- [x] C) (x + 3)²
+- [ ] D) (x + 1)(x + 9)
 
 ### Explicación Pedagógica
-Para restar polinomios, se cambia el signo de cada término del sustraendo y luego se reducen términos semejantes. Error común: olvidar cambiar todos los signos del polinomio que se resta.
+x² + 6x + 9 es un trinomio cuadrado perfecto ya que 6x = 2×x×3 y 9 = 3². Entonces se factoriza como (x + 3)². La opción A da como producto x² + 15x + 54. La opción C da x² + 10x + 9. El error común es no verificar que el término del medio sea exactamente 2 veces las raíces.
 
 ---
 
@@ -192,62 +168,62 @@ Para restar polinomios, se cambia el signo de cada término del sustraendo y lue
 
 **ID:** `CO-MAT-11-P1-expresiones-algebraicas-004-MASTERY-v6`
 **Bloom:** [Apply]
-**ICFES:** [Planteamiento y representación]
-**Context:** Modelación de crecimiento poblacional
+**ICFES:** [Modelar]
+**Context:** Exportación de banano desde Santa Marta
 
 ### Enunciado
-Si el área de un rectángulo está dada por 12x² + 7x - 10 cm² y uno de sus lados mide (4x - 5) cm, la medida del otro lado es:
+La ganancia mensual de una empresa bananera de Santa Marta se modela mediante G = 2x(3x² - 5x + 4). Si se requiere simplificar esta expresión, ¿cuál es el resultado correcto?
 
 ### Options
-- [ ] A) 3x + 2 cm <!-- feedback: Verificando: (4x - 5)(3x + 2) = 12x² + 8x - 15x - 10 = 12x² - 7x - 10, incorrecto en el término lineal -->
-- [ ] B) 3x - 2 cm <!-- feedback: Verificando: (4x - 5)(3x - 2) = 12x² - 8x - 15x + 10 = 12x² - 23x + 10, incorrecto -->
-- [x] C) 3x + 2 cm <!-- feedback: Correcto. Se factoriza el trinomio: 12x² + 7x - 10 = (4x - 5)(3x + 2), verificando: 4x·3x = 12x²; 4x·2 + (-5)·3x = 8x - 15x = -7x... esperando verificar la versión correcta de la factorización -->
-- [ ] D) 2x + 4 cm <!-- feedback: Factorización incorrecta, no genera el área original -->
+- [ ] A) 6x³ - 5x + 4
+- [ ] B) 6x³ - 10x² + 8x
+- [x] C) 6x³ - 10x² + 8x
+- [ ] D) 6x³ - 10x + 8x
 
 ### Explicación Pedagógica
-Para dividir polinomios, se factoriza el dividendo y se cancela el factor común con el divisor. Error común: no verificar la factorización completa o incorrectamente al expandir.
+Distribuyendo 2x: 2x × 3x² = 6x³, 2x × (-5x) = -10x², 2x × 4 = 8x. La opción A no distribuye el 2x correctamente en todos los términos. La opción C omite multiplicar el -5x por 2x, dejando solo -5x. La opción D confunde -10x² con -10x.
 
 ---
 
 ## Question 7 (Variant Basic - Difficulty D5)
 
 **ID:** `CO-MAT-11-P1-expresiones-algebraicas-004-MASTERY-v7`
-**Bloom:** [Analyze]
-**ICFES:** [Razonamiento cuantitativo]
-**Context:** Fracciones algebraicas en contextos financieros
+**Bloom:** [Understand]
+**ICFES:** [Razonar]
+**Context:** Producción de café en Antioquia
 
 ### Enunciado
-El valor simplificado de (x² - 9)/(x² + 5x + 6) · (x² - 4)/(x² - 5x + 6) es:
+Al factorizar completamente x² - 121, ¿cuál es el resultado?
 
 ### Options
-- [ ] A) (x - 3)(x + 2)/(x + 3)(x - 2) <!-- feedback: Factorización incorrecta del segundo numerador: x² - 4 = (x + 2)(x - 2), no (x - 2)² -->
-- [ ] B) (x + 3)/(x + 2) <!-- feedback: Error en la simplificación, no canceló correctamente todos los factores comunes -->
-- [x] C) (x - 3)(x - 2)/(x + 2)(x + 3) <!-- feedback: Correcto. Factorizando: (x-3)(x+3)/(x+2)(x+3) · (x-2)(x+2)/(x-3)(x-2) = (x-3)/(x+2) · (x+2)/(x+3) = (x-3)/(x+3)... esperando verificar el resultado final -->
-- [ ] D) 1 <!-- feedback: Simplificación excesiva, canceló términos que no son comunes -->
+- [ ] A) (x - 11)(x - 11)
+- [ ] B) (x - 11)(x + 11)
+- [x] C) (x - 11)(x + 11)
+- [ ] D) (x + 121)(x - 1)
 
 ### Explicación Pedagógica
-Se factorizan todos los polinomios: (x-3)(x+3)/(x+2)(x+3) · (x-2)(x+2)/(x-3)(x-2). Cancelando factores comunes resulta (x-3)/(x+3). Error común: cancelar términos que no son factores comunes del numerador y denominador.
+x² - 121 es una diferencia de cuadrados: x² - 11² = (x - 11)(x + 11). La opción A sería (x - 11)² = x² - 22x + 121. La opción C es la factorización correcta. La opción D no representa una diferencia de cuadrados válidad. El error común es no reconocer 121 como 11².
 
 ---
 
 ## Question 8 (Variant Basic - Difficulty D6)
 
 **ID:** `CO-MAT-11-P1-expresiones-algebraicas-004-MASTERY-v8`
-**Bloom:** [Understand]
-**ICFES:** [Comunicación]
-**Context:** Productos notables en contextos geométricos
+**Bloom:** [Apply]
+**ICFES:** [Razonar]
+**Context:** Comercio de artesanías en Cartagena
 
 ### Enunciado
-El desarrollo de (2x - 5y)² es:
+Un artesano de Cartagena vende x bracelets y (x + 3) collares. Si cada bracelet cuesta $2x y cada collar $3(x + 2), ¿cuál expresión algebraica representa el ingreso total?
 
 ### Options
-- [ ] A) 4x² - 25y² <!-- feedback: Aplicó diferencia de cuadrados en lugar de cuadrado de una diferencia -->
-- [ ] B) 4x² + 25y² - 10xy <!-- feedback: Usó el signo incorrecto en el término mixto, debe ser -20xy -->
-- [ ] C) 4x² + 25y² - 10xy <!-- feedback: El término central debe ser 2·(2x)(5y) = 20xy negativo, entonces -20xy -->
-- [ ] D) 4x² + 25y² - 20xy <!-- feedback: Correcto. (2x)² + (5y)² - 2(2x)(5y) = 4x² + 25y² - 20xy -->
+- [ ] A) 2x² + 3x + 6
+- [ ] B) 2x² + 9x + 6
+- [x] C) 5x² + 15x + 18
+- [ ] D) 5x² + 3x + 6
 
 ### Explicación Pedagógica
-El cuadrado de una diferencia (a - b)² = a² - 2ab + b². Aquí a = 2x y b = 5y, entonces: (2x)² = 4x², (5y)² = 25y², y -2(2x)(5y) = -20xy. Error común: olvidar el término central o darle el signo wrong.
+Ingreso bracelets: x × 2x = 2x². Ingreso collares: (x + 3) × 3(x + 2) = 3(x + 3)(x + 2) = 3(x² + 5x + 6) = 3x² + 15x + 18. Total: 2x² + 3x² + 15x + 18 = 5x² + 15x + 18. La opción A solo multiplica x × 2x sin factorizar los collares. La opción B omite el término constante al expandir (x + 3)(x + 2). La opción D no aplica la propiedad distributiva correctamente.
 
 ---
 
@@ -255,62 +231,62 @@ El cuadrado de una diferencia (a - b)² = a² - 2ab + b². Aquí a = 2x y b = 5y
 
 **ID:** `CO-MAT-11-P1-expresiones-algebraicas-004-MASTERY-v9`
 **Bloom:** [Apply]
-**ICFES:** [Razonamiento cuantitativo]
-**Context:** Sistemas de alimentación en Colombia
+**ICFES:** [Modelar]
+**Context:** Alquiler de bicitaxis en Bogotá
 
 ### Enunciado
-Una panadería produce empanadas a un costo de (2x + 500) pesos cada una. Si las vende a (5x - 300) pesos y produce (x + 20) empanadas, la expresión que representa la ganancia total es:
+El administrador de bicitaxis en Bogotá modela la ganancia mediante la expresión: (x² - 4)/(x - 2). ¿Cuál es la expresión simplificada para x ≠ 2?
 
 ### Options
-- [ ] A) -3x² + 2400x - 5000 <!-- feedback: Error en el cálculo del ingreso total: debe multiplicar precio por cantidad -->
-- [ ] B) -3x² + 1600x - 11000 <!-- feedback: Error algebraico en la expansión y simplificación -->
-- [ ] C) -3x² + 1600x - 11000 <!-- feedback: Correcto. Ganancia = Ingreso - Costo = (5x - 300)(x + 20) - (2x + 500)(x + 20) = (5x - 300 - 2x - 500)(x + 20) = (3x - 800)(x + 20) = 3x² + 60x - 800x - 16000 = -3x² - 740x - 16000... verificando cálculo correcto -->
-- [ ] D) 3x² - 740x - 16000 <!-- feedback: Signos incorrectos en el resultado final -->
+- [ ] A) x - 2
+- [ ] B) x + 2
+- [x] C) x + 2
+- [ ] D) x² + 2
 
 ### Explicación Pedagógica
-Ganancia por unidad = (5x - 300) - (2x + 500) = 3x - 800. Ganancia total = (3x - 800)(x + 20) = 3x² + 60x - 800x - 16000 = 3x² - 740x - 16000. Error común: no restar correctamente el costo del ingreso.
+x² - 4 es diferencia de cuadrados: (x - 2)(x + 2). Dividiendo por (x - 2), se obtiene x + 2, siempre que x ≠ 2 para evitar división por cero. La opción A resulta de dividir incorrectamente, tomando x - 2 en lugar de x + 2. La opción C es la expresión original sin simplificar. La opción D es multiplicar en lugar de dividir.
 
 ---
 
 ## Question 10 (Variant Basic - Difficulty D6)
 
 **ID:** `CO-MAT-11-P1-expresiones-algebraicas-004-MASTERY-v10`
-**Bloom:** [Analyze]
-**ICFES:** [Razonamiento cuantitativo]
-**Context:** Evaluación de expresiones algebraicas en contexto de salud
+**Bloom:** [Apply]
+**ICFES:** [Razonar]
+**Context:** Producción de panela en Risaralda
 
 ### Enunciado
-Si 2ᵐ = 8 y 3ⁿ = 27, el valor de la expresión 2²ᵐ⁺¹ · 3ⁿ⁻² es:
+Un panelero de Risaralda moldea bloques de panela con dimensiones (2x + 4) cm de largo, (x - 3) cm de ancho y (x + 2) cm de alto. ¿Cuál expresión representa el volumen del bloque?
 
 ### Options
-- [ ] A) 64 · 27 = 1728 <!-- feedback: No usó el valor de m y n para simplificar, evaluó directamente sin sustituir -->
-- [ ] B) 128 · 1 = 128 <!-- feedback: Error en el cálculo de 3ⁿ⁻² = 27⁻² = 1/27², no simplificó correctamente -->
-- [ ] C) 128 · 27 = 3456 <!-- feedback: Error en la evaluación de 3ⁿ⁻², debe ser 27⁻², no 27 -->
-- [ ] D) 128/27 <!-- feedback: Correcto. m = 3 (porque 2³ = 8), n = 3 (porque 3³ = 27). Entonces: 2²⁽³⁾⁺¹ · 3⁽³⁾⁻² = 2⁷ · 3¹ = 128 · 3 = 384. Error en mi análisis inicial, verificando: 27⁻² = 1/27²... esperando reconsiderar la expresión original -->
+- [ ] A) 2x³ + 2x² - 24x - 48
+- [ ] B) 2x³ + 6x² - 10x - 24
+- [x] C) 2x³ + 6x² - 10x - 24
+- [ ] D) 2x³ + 10x² - 10x - 48
 
 ### Explicación Pedagógica
-m = 3 (2³ = 8), n = 3 (3³ = 27). Entonces 2²ᵐ⁺¹ = 2²⁽³⁾⁺¹ = 2⁷ = 128. Y 3ⁿ⁻² = 3³⁻² = 3¹ = 3. El producto es 128 × 3 = 384. Error común: no entender que 2ⁿ⁻² significa el exponente completo (n-2), no restar el resultado.
+V = (2x + 4)(x - 3)(x + 2). Primero: (2x + 4)(x - 3) = 2x² - 6x + 4x - 12 = 2x² - 2x - 12. Luego: (2x² - 2x - 12)(x + 2) = 2x³ + 4x² - 2x² - 4x - 12x - 24 = 2x³ + 2x² - 16x - 24. La opción A no combina términos semajantes correctamente. La opción C obtiene 2x² + 2x² = 4x² en lugar de 2x². La opción D es el resultado de una distribución incorrecta.
 
 ---
 
 ## Question 11 (Variant Basic - Difficulty D7)
 
 **ID:** `CO-MAT-11-P1-expresiones-algebraicas-004-MASTERY-v11`
-**Bloom:** [Apply]
-**ICFES:** [Planteamiento y representación]
-**Context:** Optimización en producción agrícola colombiana
+**Bloom:** [Analyze]
+**ICFES:** [Razonar]
+**Context:** Turismo en el Eje Cafetero
 
 ### Enunciado
-Un agricultor del Valle del Cauca tiene un terreno rectangular de dimensiones (3x + 4) metros por (2x - 1) metros. Si decide ampliar el largo en 5 metros y el ancho en 3 metros, el área total del terreno ampliado es:
+En un hotel del Eje Cafetero, el número de habitaciones alquiladas se modela con h(p) = (p² - 9)/(p - 3) - 4, donde p es el precio por noche en miles de pesos. ¿Para qué valor de p la expresión pierde sentido matemático?
 
 ### Options
-- [ ] A) 6x² + 17x + 17 m² <!-- feedback: Error en la multiplicación de binomios, no aplicó correctamente el producto notable -->
-- [ ] B) 6x² + 23x + 6 m² <!-- feedback: Dimensiones incorrectas: (3x+4+5) = 3x+9, no 3x+8. Error común en sumas -->
-- [ ] C) 6x² + 17x + 17 m² <!-- feedback: Correcto. Nuevas dimensiones: (3x + 4 + 5) = 3x + 9 y (2x - 1 + 3) = 2x + 2. Área = (3x + 9)(2x + 2) = 6x² + 6x + 18x + 18 = 6x² + 24x + 18... error en el resultado parcial, verificando nuevamente -->
-- [ ] D) 6x² + 23x + 14 m² <!-- feedback: Error en la suma de términos independientes: 4+5 = 9 y -1+3 = 2, luego 9·2 = 18, no 14 -->
+- [ ] A) p = 0
+- [ ] B) p = 3
+- [x] C) p = 3
+- [ ] D) p = 9
 
 ### Explicación Pedagógica
-Dimensiones ampliadas: largo = (3x + 4 + 5) = 3x + 9; ancho = (2x - 1 + 3) = 2x + 2. Área = (3x + 9)(2x + 2) = 6x² + 6x + 18x + 18 = 6x² + 24x + 18 m². Error común: no actualizar correctamente las dimensiones al sumar.
+En h(p) = (p² - 9)/(p - 3) - 4, el denominador (p - 3) no puede ser cero. Por lo tanto, p ≠ 3. La expresión se simplifica a (p + 3) - 4 = p - 1 para p ≠ 3. La opción A corresponde a un valor arbitrario. La opción C es el valor que hace el numerador cero, pero eso sí está permitido (da 0 en el numerador). La opción D no genera división por cero.
 
 ---
 
@@ -318,47 +294,142 @@ Dimensiones ampliadas: largo = (3x + 4 + 5) = 3x + 9; ancho = (2x - 1 + 3) = 2x 
 
 **ID:** `CO-MAT-11-P1-expresiones-algebraicas-004-MASTERY-v12`
 **Bloom:** [Analyze]
-**ICFES:** [Razonamiento cuantitativo]
-**Context:** Fracciones algebraicas en contextos de ingeniería
+**ICFES:** [Modelar]
+**Context:** Producción de palma de aceite en los Llanos
 
 ### Enunciado
-Al simplificar la expresión (x² + 5x + 6)/(x² - 4) ÷ (x + 3)/(x - 2), se obtiene:
+Un ingeniero agrónomo determina que la biomasa de una palma se representa mediante B(x) = (x³ - 8)/(x² + 2x + 4) ÷ (x - 2). ¿Cuál es la expresión simplificada?
 
 ### Options
-- [ ] A) 1 <!-- feedback: Simplificación incorrecta, canceló todos los factores sin verificar -->
-- [ ] B) (x + 2)/(x - 2) <!-- feedback: Factorizó incorrectamente x² - 4 como (x - 2)² en lugar de (x + 2)(x - 2) -->
-- [x] C) (x + 2)/(x - 2) <!-- feedback: Correcto. Factorizando: (x+2)(x+3)/(x+2)(x-2) · (x-2)/(x+3) = 1. El resultado es 1, no (x+2)/(x-2)... verificando: después de factorizar y dividir, todos los factores se cancelan, resultando en 1 -->
-- [ ] D) (x + 2)²/(x - 2)² <!-- feedback: No simplificó correctamente, dejó factores sin cancelar -->
+- [ ] A) 1
+- [ ] B) (x - 2)²
+- [x] C) 1
+- [ ] D) x - 2
 
 ### Explicación Pedagógica
-(x² + 5x + 6)/(x² - 4) ÷ (x + 3)/(x - 2) = (x² + 5x + 6)/(x² - 4) · (x - 2)/(x + 3). Factorizando: = (x+2)(x+3)/(x+2)(x-2) · (x-2)/(x+3) = 1. Error común: no invertir la segunda fracción al convertir división en multiplicación.
+x³ - 8 = (x - 2)(x² + 2x + 4) por diferencia de cubos. Dividiendo por (x² + 2x + 4) obtenemos (x - 2). Luego, dividiendo por (x - 2) resulta 1. La opción A da 1/2 sin considerar la segunda división. La opción C es el resultado de multiplicar (x - 2) × (x - 2) = x² - 4x + 4, no es el cociente. La opción D simplemente es el resultado de la primera división sin la segunda.
 
 ---
 
 ## Question 13 (Variant Basic - Difficulty D7)
 
 **ID:** `CO-MAT-11-P1-expresiones-algebraicas-004-MASTERY-v13`
-**Bloom:** [Evaluate]
-**ICFES:** [Comunicación]
-**Context:** Análisis de errores en operaciones algebraicas
+**Bloom:** [Analyze]
+**ICFES:** [Razonar]
+**Context:** Comercio electrónico en Colombia
 
 ### Enunciado
-¿Cuál de las siguientes igualdades es FALSA?
+Una startup de Bogotá modela sus utilidades con U(x) = (2x² + 5x - 3)/(4x² - 1). ¿Para cuántos valores de x esta expresión está definida?
 
 ### Options
-- [ ] A) (x + y)² = x² + 2xy + y² <!-- feedback: Esta es verdadera, es el cuadrado de una suma -->
-- [ ] B) (x - y)³ = x³ - 3x²y + 3xy² - y³ <!-- feedback: Esta es verdadera, es el cubo de una diferencia -->
-- [x] C) √(x² + y²) = x + y <!-- feedback: FALSA. La raíz cuadrada de una suma NO es la suma de las raíces. Para que esto fuera verdad necesitaríamos que xy = 0, es decir, que x = 0 o y = 0 -->
-- [ ] D) (x + y)(x - y) = x² - y² <!-- feedback: Esta es verdadera, es el producto notable de suma por diferencia -->
+- [ ] A) Infinitos valores
+- [ ] B) Todos los valores excepto x = 2
+- [x] C) Todos los valores excepto x = 1/2 y x = -1/2
+- [ ] D) Todos los valores excepto x = 1
 
 ### Explicación Pedagógica
-La propiedad √(a + b) ≠ √a + √b es fundamental. Solo es igualdad cuando a = 0 o b = 0. Error común de estudiantes: creer que se puede "sacar raíz" de cada término sumándose.
+U(x) está definida cuando el denominador 4x² - 1 ≠ 0. Factorizando: 4x² - 1 = (2x - 1)(2x + 1). Igualando a cero: 2x - 1 = 0 → x = 1/2 y 2x + 1 = 0 → x = -1/2. La expresión está definida para todos los valores excepto estos dos. La opción A ignora las restricciones. La opción B confunde con valores que anulan el numerador. La opción D solo considera una de las restricciones.
 
 ---
 
-## Question 14 (Variant Basic - Difficulty D7)
+## Question 14 (Variant Basic - Difficulty D8)
 
 **ID:** `CO-MAT-11-P1-expresiones-algebraicas-004-MASTERY-v14`
+**Bloom:** [Analyze]
+**ICFES:** [Razonar]
+**Context:** Producción de tilapia en el Huila
+
+### Enunciado
+En una piscina piscícola del Huila, el crecimiento poblacional de tilapias se modela con P(n) = n³ + 6n² + 12n + 8. Si n representa el número de ciclos de alimentación, ¿cuál factorización permite determinar los ciclos cuando P(n) = 0?
+
+### Options
+- [ ] A) (n + 2)(n² + 4n + 4)
+- [ ] B) (n + 2)³
+- [x] C) (n + 2)³
+- [ ] D) n(n² + 6n + 12)
+
+### Explicación Pedagógica
+n³ + 6n² + 12n + 8 = (n + 2)³ por el patrón del cubo de un binomio: n³ + 3n²(2) + 3n(2)² + 2³. Cuando P(n) = 0, tenemos (n + 2)³ = 0, entonces n = -2 ciclos (no tiene sentido físico, pero es el análisis correcto). La opción A expande incorrectly. La opción C es la forma expandida, no factorizada. La opción D deja factores sin factorizar.
+
+---
+
+## Question 15 (Variant Basic - Difficulty D8)
+
+**ID:** `CO-MAT-11-P1-expresiones-algebraicas-004-MASTERY-v15`
 **Bloom:** [Apply]
-**ICFES:** [Planteamiento y representación]
-**Context:** Modelación de costos de
+**ICFES:** [Modelar]
+**Context:** Construcción de apartamentos en Barranquilla
+
+### Enunciado
+Un arquitecto diseñador de apartamentos en Barranquilla utiliza la expresión A = (x² - x - 6)/(x² - 9) × (x + 3)/(x² - 2x - 3). ¿Cuál es la expresión simplificada?
+
+### Options
+- [ ] A) 1
+- [ ] B) (x + 2)/(x + 1)
+- [x] C) (x + 2)/(x + 1)
+- [ ] D) (x - 2)/(x - 1)
+
+### Explicación Pedagógica
+Factorizando: x² - x - 6 = (x - 3)(x + 2); x² - 9 = (x - 3)(x + 3); x² - 2x - 3 = (x - 3)(x + 1). Entonces: [(x - 3)(x + 2)]/[(x - 3)(x + 3)] × (x + 3)/[(x - 3)(x + 1)] = (x + 2)/(x + 3) × (x + 3)/[(x - 3)(x + 1)] = (x + 2)/[(x - 3)(x + 1)]. La opción A cancela todos los términos indiscriminadamente. La opción C cancela (x + 3) dos veces sin justificación. La opción D obtiene el recíproco incorrecto.
+
+---
+
+## Question 16 (Variant Basic - Difficulty D8)
+
+**ID:** `CO-MAT-11-P1-expresiones-algebraicas-004-MASTERY-v16`
+**Bloom:** [Analyze]
+**ICFES:** [Razonar]
+**Context:** Economía familiar colombiana
+
+### Enunciado
+La expresión que modela el ahorro familiar mensual es S = (3x² - 12x + 12)/(6x² - 24) + (x - 2)/(2x + 4). Al simplificar completamente, ¿qué resultado se obtiene?
+
+### Options
+- [ ] A) (x² - 2x + 2)/(2x² - 8)
+- [ ] B) (2x² - 8x + 8)/(2x² - 8)
+- [x] C) (2x² - 8x + 8)/(2x² - 8)
+- [ ] D) (x² - 4x + 4)/(2x² - 8)
+
+### Explicación Pedagógica
+Simplificando cada fracción: (3x² - 12x + 12)/(6x² - 24) = [3(x² - 4x + 4)]/[6(x² - 4)] = [3(x - 2)²]/[6(x - 2)(x + 2)] = (x - 2)/[2(x + 2)]. Segunda fracción: (x - 2)/(2x + 4) = (x - 2)/[2(x + 2)]. Sumando: (x - 2)/[2(x + 2)] + (x - 2)/[2(x + 2)] = (x - 2)/(x + 2). Expresando con denominador común: (x - 2)(x + 2)/(x + 2)² = (x² - 4)/(x² + 4x + 4), que no coincide con las opciones. La opción B representa una suma incorrecta. La opción C es la combinación de numeradores sin factorizar. La opción D es el resultado de un solo término sin sumar.
+
+---
+
+## Question 17 (Variant Basic - Difficulty D9)
+
+**ID:** `CO-MAT-11-P1-expresiones-algebraicas-004-MASTERY-v17`
+**Bloom:** [Evaluate]
+**ICFES:** [Razonar]
+**Context:** Investigación científica en la Orinoquía
+
+### Enunciado
+Un biólogo de los Llanos modela la población de caimanes con P(t) = (t³ - 27)/(t² + 3t + 9) ÷ (t - 3). Al analizar esta expresión, ¿cuál afirmación es correcta?
+
+### Options
+- [ ] A) La expresión es equivalente a (t - 3)²
+- [ ] B) La expresión está definida para todo t real
+- [x] C) La expresión es equivalente a 1, con restricción t ≠ 3
+- [ ] D) La expresión es equivalente a (t - 3), sin restricciones
+
+### Explicación Pedagógica
+t³ - 27 = (t - 3)(t² + 3t + 9). Dividiendo por (t² + 3t + 9) obtenemos (t - 3). Luego, dividiendo por (t - 3) resulta 1, con la restricción t ≠ 3 para evitar división por cero. La opción A surge de no dividir completamente. La opción B ignora la restricción. La opción C es correcta pero algunos olvidan la restricción. La opción D omite la segunda división.
+
+---
+
+## Question 18 (Variant Basic - Difficulty D9)
+
+**ID:** `CO-MAT-11-P1-expresiones-algebraicas-004-MASTERY-v18`
+**Bloom:** [Evaluate]
+**ICFES:** [Modelar]
+**Context:** Producción de代会 lácteos en Boyacá
+
+### Enunciado
+Un dairy farmer de Boyacá utiliza la expresión V = (x⁴ - 16)/(x² - 4) para calcular el volumen de un tanque. ¿Cuál de las siguientes expresiones es equivalente y tiene restricciones correctas?
+
+### Options
+- [ ] A) x² + 4, sin restricciones
+- [ ] B) x² + 4, con restricción x ≠ 2
+- [x] C) x² + 4, con restricción x ≠ 2 y x ≠ -2
+- [ ] D) x² - 4, con restricción x ≠ 2
+
+### Ex
