@@ -165,7 +165,7 @@ function fileExists(filePath: string): boolean {
 
 // ─── Voice Config ──────────────────────────────────────────────────────────────
 function resolveVoiceConfig(preferred: 'xtts' | 'elevenlabs' | 'piper'): VoiceConfig {
-  const config = readJson<{ voice_ref?: string; elevenlabs_api_key?: string; elevenlabs_voice_id?: string }>(ENGINE_CONFIG_PATH, {});
+  const config = readJson<{ voice_ref?: string; elevenlabs_api_key?: string; elevenlabs_voice_id?: string }>(ENGINE_CONFIG_PATH, {}) || {};
   return {
     provider: preferred,
     voiceRef: config.voice_ref,
@@ -545,7 +545,7 @@ async function main() {
   process.exit(failedCount > 0 ? 1 : 0);
 }
 
-main().catch((e) => {
+main().catch((e: any) => {
   console.error(e);
   process.exit(1);
 });

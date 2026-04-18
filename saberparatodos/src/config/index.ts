@@ -43,7 +43,7 @@ function buildSubjectAliases(config: SharedCountryConfig): Record<string, string
   }, {});
 }
 
-function toRuntimeCountryConfig(config: SharedCountryConfig): RuntimeCountryConfig {
+export function toRuntimeCountryConfig(config: SharedCountryConfig): RuntimeCountryConfig {
   return {
     ...config,
     language: config.locale,
