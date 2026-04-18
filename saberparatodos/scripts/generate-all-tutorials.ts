@@ -255,7 +255,7 @@ function runTutorialGeneration(
 }
 
 // ─── Main ──────────────────────────────────────────────────────────────────────
-function main() {
+async function main() {
   const args = parseArgs();
   const flowsToRun = TUTORIAL_FLOWS.filter((f) => args.flows.includes(f.id));
 
@@ -293,7 +293,7 @@ function main() {
     const settled = await Promise.allSettled(tasks);
     for (let i = 0; i < flowsToRun.length; i++) {
       const r = settled[i];
-      results.push(r.status === 'fulfilled' ? r.value : {
+      results.push(r.status === 'fulfilled' ? (r.value as TutorialResult) : {
         flow: flowsToRun[i].id, title: flowsToRun[i].title, ok: false,
         outputDir: '', error: String(r.reason), generatedAt: new Date().toISOString(),
       });
@@ -357,7 +357,7 @@ function main() {
   process.exit(0);
 }
 
-main().catch((e) => {
+main().catch((e: any) => {
   console.error(e);
   process.exit(1);
 });

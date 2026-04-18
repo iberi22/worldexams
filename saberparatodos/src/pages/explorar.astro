@@ -1,0 +1,103 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { countryConfig as defaultConfig, toRuntimeCountryConfig } from '../config';
+
+const countryConfig = Astro.locals.country ? toRuntimeCountryConfig(Astro.locals.country) : defaultConfig;
+
+// Usamos el CDN open source si existiera, o un mock
+// Github Raw path para la base de datos abierta: https://raw.githubusercontent.com/world-exams/worldexams/main/.worldexams/open-db/
+const GH_RAW_BASE = 'https://raw.githubusercontent.com/world-exams/worldexams/main/.worldexams/open-db';
+
+// En modo local para desarrollo, podríamos fetch a la app si estuviera expuesta, pero este proxy va directo a github.
+// fetch fallback to avoid crashing during SSR
+let dbIndex = null;
+let error = null;
+
+try {
+  const res = await fetch(`${GH_RAW_BASE}/index.json`);
+  if (res.ok) {
+    dbIndex = await res.json();
+  } else {
+    // try to load local fallback if running locally
+    // but Astro runs this on server.
+    error = `No se pudo conectar a la base de datos abierta (HTTP ${res.status})`;
+  }
+} catch (e: any) {
+  error = e.message;
+}
+
+const countryStats = dbIndex?.countries?.[countryConfig.name.toLowerCase()] || {};
+---
+
+<Layout title={`Explorador Open DB | ${countryConfig.product.siteName}`}>
+  <div class="container mx-auto px-4 py-12 max-w-5xl">
+    <header class="mb-12 text-center sr-fade-up" data-sr>
+      <h1 class="text-4xl md:text-5xl font-bold font-mono mb-4 text-white">Open Database Explorer</h1>
+      <p class="text-xl opacity-80 text-[#f5f5dc]">
+        Explora, revisa y mejora la base de preguntas de acceso libre para {countryConfig.name}.
+      </p>
+      
+      <div class="mt-8 flex justify-center gap-4">
+        <a href="https://github.com/world-exams/worldexams" target="_blank" class="px-6 py-3 rounded-md bg-[rgba(255,255,255,0.05)] border border-[rgba(255,255,255,0.1)] hover:bg-[rgba(255,255,255,0.1)] transition-colors font-medium">
+          GitHub Repo
+        </a>
+        <a href="#materias" class="px-6 py-3 rounded-md bg-[var(--color-primary)] text-black font-semibold hover:opacity-90 transition-opacity">
+          Explorar Materias
+        </a>
+      </div>
+    </header>
+
+    <div class="bg-[rgba(255,255,255,0.02)] border border-[rgba(255,255,255,0.05)] rounded-xl p-8 mb-12 sr-fade-up" data-sr data-sr-delay="100">
+      <h2 class="text-2xl font-bold mb-4 font-mono">Contribuir es muy fácil</h2>
+      <ol class="list-decimal list-inside space-y-3 opacity-80 pl-2">
+        <li>Navega por las materias y grados en esta página.</li>
+        <li>Selecciona un bundle de preguntas JSON para revisarlo.</li>
+        <li>Si encuentras un error o quieres mejorar una explicación, abre un Pull Request en Github.</li>
+        <li>Los cambios aprobados se sincronizan automáticamente vía CDN.</li>
+      </ol>
+    </div>
+
+    <!-- Módulo dinámico (o MOCK si GitHub no responde aún) -->
+    <section id="materias" class="sr-fade-up" data-sr data-sr-delay="200">
+      <h2 class="text-3xl font-bold mb-8 text-center text-white border-b border-[rgba(255,255,255,0.1)] pb-4">
+        Disponibles para {countryConfig.name}
+      </h2>
+
+      {error && !dbIndex && (
+        <div class="bg-red-500/10 border border-red-500/30 text-red-400 p-6 rounded-lg text-center">
+          <p class="font-medium text-lg font-mono">No se pudo cargar el registro remoto 🤔</p>
+          <p class="text-sm mt-2 opacity-80">{error}</p>
+          <p class="mt-4 text-xs">Asegúrate de que `scripts/build-open-db.ts` haya sido ejecutado y subido a la rama `main` en GitHub.</p>
+        </div>
+      )}
+
+      {dbIndex && Object.keys(countryStats).length === 0 && (
+        <div class="text-center p-12 opacity-60 bg-[rgba(255,255,255,0.02)] rounded-lg">
+          No hay preguntas abiertas publicadas para {countryConfig.name} todavía.
+        </div>
+      )}
+
+      {dbIndex && Object.keys(countryStats).length !== 0 && (
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          {Object.entries(countryStats).map(([subject, gradesMap]) => (
+             <div class="bg-[rgba(255,255,255,0.03)] border border-[rgba(255,255,255,0.1)] rounded-lg p-6 hover:border-[var(--color-primary)] transition-colors group">
+               <h3 class="text-xl font-bold capitalize mb-2 group-hover:text-[var(--color-primary)] transition-colors">{subject.replace('-', ' ')}</h3>
+               <div class="space-y-2 mt-4 text-sm opacity-80">
+                 {Object.entries(gradesMap || {}).map(([grade, count]) => (
+                   <div class="flex justify-between items-center bg-[rgba(0,0,0,0.2)] px-3 py-2 rounded">
+                     <span class="font-mono">{grade}</span>
+                     <span class="bg-[var(--color-secondary)] text-white px-2 py-0.5 rounded-full text-xs font-bold">{count} docs</span>
+                   </div>
+                 ))}
+               </div>
+               <a href={`https://github.com/world-exams/worldexams/tree/main/.worldexams/open-db/${countryConfig.name.toLowerCase()}/${subject}`} target="_blank" class="block w-full text-center mt-6 py-2 border border-dashed border-[rgba(255,255,255,0.2)] rounded text-[#f5f5dc] hover:text-[var(--color-primary)] hover:border-[var(--color-primary)] transition-colors">
+                 Ver JSONs en GitHub &rarr;
+               </a>
+             </div>
+          ))}
+        </div>
+      )}
+    </section>
+
+  </div>
+</Layout>

@@ -1,4 +1,5 @@
 import { defineMiddleware } from 'astro:middleware';
+import { getCountryConfig, colombiaConfig, type CountryCode } from '../../config/countries.config';
 
 const defaultContentSecurityPolicy = [
   "default-src 'self'",
@@ -39,6 +40,23 @@ const securityHeaders: Record<string, string> = {
 };
 
 export const onRequest = defineMiddleware(async (context, next) => {
+  // Multi-Country Logic
+  let activeCountryCode = 'CO'; // Default Fallback
+
+  const cookieCountry = context.cookies.get('spt_country')?.value;
+  if (cookieCountry) {
+    activeCountryCode = cookieCountry.toUpperCase();
+  } else {
+    // Detect from Cloudflare header
+    const ipCountry = context.request.headers.get('cf-ipcountry');
+    if (ipCountry) {
+      activeCountryCode = ipCountry.toUpperCase();
+    }
+  }
+
+  const countryConfig = getCountryConfig(activeCountryCode as CountryCode) || colombiaConfig;
+  context.locals.country = countryConfig;
+
   const response = await next();
   const headers = new Headers(response.headers);
   const pathname = new URL(context.request.url).pathname;

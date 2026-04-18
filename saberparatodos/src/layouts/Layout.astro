@@ -21,7 +21,9 @@ interface Props {
   showFooter?: boolean;
 }
 
-import { countryConfig } from '../config';
+import { countryConfig as defaultConfig, toRuntimeCountryConfig } from '../config';
+
+const countryConfig = Astro.locals.country ? toRuntimeCountryConfig(Astro.locals.country) : defaultConfig;
 
 const {
   title = `${countryConfig.product.siteName} | ${countryConfig.examName}`,
@@ -148,6 +150,23 @@ const webAppSchema = {
     <!-- Critical CSS (inline para evitar render-blocking) -->
     <style set:html={criticalCSS}></style>
 
+    <!-- Theme CSS Variables -->
+    <style is:inline define:vars={{
+      colorPrimary: countryConfig.theme.primary,
+      colorSecondary: countryConfig.theme.secondary,
+      colorAccent: countryConfig.theme.accent,
+      colorBackground: countryConfig.theme.bgDark,
+      colorText: countryConfig.theme.textPrimary
+    }}>
+      :root {
+        --color-primary: var(--colorPrimary);
+        --color-secondary: var(--colorSecondary);
+        --color-accent: var(--colorAccent);
+        --color-background: var(--colorBackground);
+        --color-text: var(--colorText);
+      }
+    </style>
+
     <!-- SEO -->
 		<title>{title}</title>
 		<meta name="description" content={description} />
@@ -252,8 +271,8 @@ const webAppSchema = {
 
     {enableAuxClientWidgets && (
       <>
-        <!-- Cookie Consent Banner (GDPR/AdSense Compliance) -->
-        <CookieConsent client:only="svelte" />
+        <!-- Cookie Consent Banner removed — all data stored locally in user browser, no server-side tracking -->
+        <!-- <CookieConsent client:only="svelte" /> -->
 
         <!-- Version Badge with Update Notifications -->
         <VersionBadge client:only="svelte" position="bottom-left" showOnlyOnUpdate={import.meta.env.PROD} />
