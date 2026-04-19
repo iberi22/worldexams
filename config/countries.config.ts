@@ -575,6 +575,80 @@ export const brasilConfig: CountryConfig = {
 };
 
 /**
+ * 🇪🇨 Ecuador - Ser Bachiller
+ */
+export const ecuadorConfig: CountryConfig = {
+  code: 'EC',
+  name: 'Ecuador',
+  nameEnglish: 'Ecuador',
+  flag: '🇪🇨',
+
+  examName: 'Ser Bachiller',
+  examFullName: 'Examen Nacional de Evaluación Educativa Ser Bachiller',
+  examAuthority: 'INEVAL / SENESCYT',
+
+  locale: 'es-EC',
+  timezone: 'America/Guayaquil',
+
+  grades: [
+    { id: 7, name: '7° EGB', description: 'Séptimo grado de Educación General Básica (Media)' },
+    { id: 10, name: '10° EGB', description: 'Décimo grado de Educación General Básica (Superior)' },
+    { id: 13, name: '3° BGU', description: 'Tercer año de Bachillerato General Unificado' },
+  ],
+
+  subjects: [
+    { id: 'matematicas', name: 'Matemáticas', icon: '🔢', globalId: 'math' },
+    { id: 'lengua', name: 'Lengua y Literatura', icon: '📖', globalId: 'language' },
+    { id: 'ciencias', name: 'Ciencias Naturales', icon: '🔬', globalId: 'science' },
+    { id: 'sociales', name: 'Ciencias Sociales', icon: '🌍', globalId: 'social' },
+    { id: 'ingles', name: 'Inglés', icon: '🇬🇧', globalId: 'english' },
+  ],
+
+  theme: {
+    primary: '#FFDD00',      // Amarillo
+    secondary: '#0347AD',    // Azul
+    accent: '#D52B1E',       // Rojo
+    bgDark: '#1a1a2e',
+    bgCard: '#16213e',
+    textPrimary: '#ffffff',
+    textSecondary: '#a0a0a0',
+  },
+
+  culture: {
+    currency: { code: 'USD', symbol: '$', name: 'Dólares estadounidenses' },
+    cities: ['Quito', 'Guayaquil', 'Cuenca', 'Manta', 'Ambato', 'Loja'],
+    commonNames: {
+      male: ['José', 'Luis', 'Carlos', 'Juan', 'Diego', 'Javier'],
+      female: ['María', 'Ana', 'Paula', 'Diana', 'Cristina', 'Elena'],
+    },
+    culturalReferences: ['Islas Galápagos', 'Mitad del Mundo', 'Cacao', 'Sombrero de Paja Toquilla'],
+  },
+
+  githubRepo: 'worldexams/saber-ec',
+  product: {
+    siteName: 'SerBachillerParaTodos',
+    siteUrl: 'https://ecuador.saberparatodos.space',
+    contactEmail: 'contacto@saberparatodos.space',
+    guideLabel: 'Ser Bachiller',
+    guideYear: 2026,
+    seoKeywords: [
+      'ser bachiller ecuador',
+      'simulacro ser bachiller',
+      'senescyt admision',
+      'examen ineval',
+      'preuniversitario ecuador gratis',
+    ],
+    defaultDescription: 'Prepárate para el examen Ser Bachiller y el acceso a la educación superior en Ecuador con simulacros y bancos de preguntas actualizados.',
+    features: {
+      blog: true,
+      preuniversitario: true,
+      developerPortal: true,
+      comments: true,
+    },
+  },
+};
+
+/**
  * 🇺🇸 USA - SAT/ACT
  */
 export const usaConfig: CountryConfig = {
@@ -664,6 +738,7 @@ export const allCountries: CountryConfig[] = [
   chileConfig,
   peruConfig,
   brasilConfig,
+  ecuadorConfig,
   usaConfig,
 ];
 
