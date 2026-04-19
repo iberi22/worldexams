@@ -447,11 +447,17 @@ export const peruConfig: CountryConfig = {
   timezone: 'America/Lima',
 
   grades: [
+    { id: 1, name: '1° Primaria', description: 'Primer grado de primaria' },
     { id: 2, name: '2° Primaria', description: 'Segundo grado de primaria' },
+    { id: 3, name: '3° Primaria', description: 'Tercer grado de primaria' },
     { id: 4, name: '4° Primaria', description: 'Cuarto grado de primaria' },
+    { id: 5, name: '5° Primaria', description: 'Quinto grado de primaria' },
     { id: 6, name: '6° Primaria', description: 'Sexto grado de primaria' },
-    { id: 9, name: '2° Secundaria', description: 'Segundo grado de secundaria' },
-    { id: 11, name: '4° Secundaria', description: 'Cuarto grado de secundaria' },
+    { id: 7, name: '1° Secundaria', description: 'Primer grado de secundaria' },
+    { id: 8, name: '2° Secundaria', description: 'Segundo grado de secundaria' },
+    { id: 9, name: '3° Secundaria', description: 'Tercer grado de secundaria' },
+    { id: 10, name: '4° Secundaria', description: 'Cuarto grado de secundaria' },
+    { id: 11, name: '5° Secundaria', description: 'Quinto grado de secundaria' },
   ],
 
   subjects: [
@@ -459,6 +465,9 @@ export const peruConfig: CountryConfig = {
     { id: 'comunicacion', name: 'Comunicación', icon: '📖', globalId: 'language' },
     { id: 'ciencia', name: 'Ciencia y Tecnología', icon: '🔬', globalId: 'science' },
     { id: 'sociales', name: 'Ciencias Sociales', icon: '🌍', globalId: 'social' },
+    { id: 'ingles', name: 'Inglés', icon: '🇬🇧', globalId: 'english' },
+    { id: 'psicologia', name: 'Psicología', icon: '🧠', globalId: 'psychology' },
+    { id: 'filosofia', name: 'Filosofía', icon: '🤔', globalId: 'philosophy' },
   ],
 
   theme: {
@@ -473,12 +482,12 @@ export const peruConfig: CountryConfig = {
 
   culture: {
     currency: { code: 'PEN', symbol: 'S/', name: 'Soles' },
-    cities: ['Lima', 'Arequipa', 'Cusco', 'Trujillo', 'Chiclayo', 'Piura'],
+    cities: ['Lima', 'Arequipa', 'Cusco', 'Trujillo', 'Chiclayo', 'Piura', 'Iquitos', 'Huancayo'],
     commonNames: {
-      male: ['Luis', 'José', 'Carlos', 'Jorge', 'Miguel', 'Diego'],
-      female: ['María', 'Rosa', 'Ana', 'Carmen', 'Lucía', 'Valeria'],
+      male: ['Luis', 'José', 'Carlos', 'Jorge', 'Miguel', 'Diego', 'Juan', 'Mateo'],
+      female: ['María', 'Rosa', 'Ana', 'Carmen', 'Lucía', 'Valeria', 'Valentina', 'Sofía'],
     },
-    culturalReferences: ['Machu Picchu', 'ceviche', 'llama', 'vicuña', 'quipu', 'incas'],
+    culturalReferences: ['Machu Picchu', 'ceviche', 'llama', 'vicuña', 'quipu', 'incas', 'papa a la huancaína', 'pisco', 'Amazonas'],
   },
 
   githubRepo: 'worldexams/saber-pe',
