@@ -227,16 +227,20 @@ export const mexicoConfig: CountryConfig = {
   nameEnglish: 'Mexico',
   flag: '🇲🇽',
 
-  examName: 'PLANEA',
-  examFullName: 'Plan Nacional para la Evaluación de los Aprendizajes',
-  examAuthority: 'SEP / INEE',
+  examName: 'EXANI-II',
+  examFullName: 'Examen Nacional de Ingreso a la Educación Superior',
+  examAuthority: 'CENEVAL / SEP',
 
   locale: 'es-MX',
   timezone: 'America/Mexico_City',
 
   grades: [
     { id: 3, name: '3° Primaria', description: 'Tercer grado de primaria' },
+    { id: 4, name: '4° Primaria', description: 'Cuarto grado de primaria' },
+    { id: 5, name: '5° Primaria', description: 'Quinto grado de primaria' },
     { id: 6, name: '6° Primaria', description: 'Sexto grado de primaria' },
+    { id: 7, name: '1° Secundaria', description: 'Primer grado de secundaria' },
+    { id: 8, name: '2° Secundaria', description: 'Segundo grado de secundaria' },
     { id: 9, name: '3° Secundaria', description: 'Tercer grado de secundaria' },
     { id: 12, name: '3° Preparatoria', description: 'Tercer grado de preparatoria' },
   ],
