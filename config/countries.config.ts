@@ -304,7 +304,7 @@ export const argentinaConfig: CountryConfig = {
 
   examName: 'APRENDER',
   examFullName: 'Aprender - Evaluación Nacional de Aprendizajes',
-  examAuthority: 'Ministerio de Educación',
+  examAuthority: 'Ministerio de Educación de la Nación',
 
   locale: 'es-AR',
   timezone: 'America/Argentina/Buenos_Aires',
@@ -346,13 +346,22 @@ export const argentinaConfig: CountryConfig = {
 
   githubRepo: 'worldexams/saber-ar',
   product: {
-    siteName: 'WorldExams Argentina',
-    siteUrl: 'https://worldexams.app/ar',
-    contactEmail: 'contacto@worldexams.app',
+    siteName: 'AprenderParaTodos',
+    siteUrl: 'https://aprenderparatodos.space',
+    contactEmail: 'contacto@aprenderparatodos.space',
     guideLabel: 'APRENDER',
     guideYear: 2026,
-    seoKeywords: ['aprender argentina', 'simulacro aprender', 'practica escolar argentina'],
-    defaultDescription: 'Plantilla de producto para practica y preparacion de evaluaciones nacionales en Argentina.',
+    seoKeywords: [
+      'operativo aprender argentina',
+      'simulacro aprender primaria',
+      'simulacro aprender secundaria',
+      'preguntas aprender matematica',
+      'preguntas aprender lengua',
+      'banco de preguntas aprender',
+      'evaluacion nacional argentina',
+      'cbc uba practica',
+    ],
+    defaultDescription: 'Practicá gratis para el Operativo Aprender con simulacros y banco de preguntas. Matemática, Lengua y preparación para el ingreso universitario.',
     features: {
       blog: false,
       preuniversitario: false,
