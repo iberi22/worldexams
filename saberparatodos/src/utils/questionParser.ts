@@ -139,7 +139,7 @@ export function parseQuestion(entry: QuestionEntry): Question {
   const frontmatter = entry.data;
 
   // Check if it's a bundle format (has ## Pregunta sections)
-  if (body.includes('## Pregunta') || body.includes('## Question')) {
+  if (body.includes('## Pregunta') || body.includes('## Question') || body.includes('## Questão')) {
     // Parse bundle and return first question for backwards compatibility
     const questions = parseBundleQuestions(entry);
     if (questions.length > 0) {
@@ -231,7 +231,7 @@ export function parseBundleQuestions(entry: QuestionEntry): ParsedBundleQuestion
   // Match ## Pregunta N or ## Question N sections
   // We use ^|\n to ensure we match start of lines, preventing matches on inline text
   // We specifically look for "## " to avoid matching "### "
-  const sectionRegex = /(?:^|\n)## (?:Pregunta|Question)\s+(\d+)\s*\(([^)]+)\)[\s\S]*?(?=(?:^|\n)## (?:Pregunta|Question)\s+\d+|(?:^|\n)## 📊 Metadata|---\s*$|$)/gi;
+  const sectionRegex = /(?:^|\n)## (?:Pregunta|Question|Questão)\s+(\d+)\s*\(([^)]+)\)[\s\S]*?(?=(?:^|\n)## (?:Pregunta|Question|Questão)\s+\d+|(?:^|\n)## 📊 Metadata|---\s*$|$)/gi;
 
   let match;
   while ((match = sectionRegex.exec(body)) !== null) {
@@ -275,7 +275,7 @@ function parseQuestionSection(
   const specificContext = contextMatch ? contextMatch[1].trim() : undefined;
 
   // Extract enunciado/question text
-  const enunciadoMatch = content.match(/### (?:Enunciado|Question)\s+([\s\S]*?)(?=### (?:Opciones|Options))/i);
+  const enunciadoMatch = content.match(/### (?:Enunciado|Question)\s+([\s\S]*?)(?=### (?:Opciones|Options|Opções))/i);
   const questionText = enunciadoMatch ? enunciadoMatch[1].trim() : '';
 
   if (!questionText) {
@@ -283,7 +283,7 @@ function parseQuestionSection(
   }
 
   // Extract options
-  const optionsMatch = content.match(/### (?:Opciones|Options)\s+([\s\S]*?)(?=### (?:Explicación|Explanation)|$)/i);
+  const optionsMatch = content.match(/### (?:Opciones|Options|Opções)\s+([\s\S]*?)(?=### (?:Explicación|Explanation|Explicação)|$)/i);
   const optionsBlock = optionsMatch ? optionsMatch[1].trim() : '';
 
   const options: Option[] = [];
@@ -307,9 +307,9 @@ function parseQuestionSection(
   // Extract explanation
   // Look for header, then capture everything until:
   // 1. Horizontal rule (---) at end of line indicating section end
-  // 2. Start of ANOTHER question section (## Pregunta/Question)
+  // 2. Start of ANOTHER question section (## Pregunta/Question/Questão)
   // 3. End of string ($)
-  const explanationMatch = content.match(/### (?:Explicación Pedagógica|Explanation)\s+([\s\S]*?)(?=---\s*$|## (?:Pregunta|Question)|$)/i);
+  const explanationMatch = content.match(/### (?:Explicación Pedagógica|Explanation|Explicação Pedagógica)\s+([\s\S]*?)(?=---\s*$|## (?:Pregunta|Question|Questão)|$)/i);
   const explanation = cleanExplanation(explanationMatch ? explanationMatch[1].trim() : undefined) || '';
 
   // Extract competency
