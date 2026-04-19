@@ -147,7 +147,7 @@ function hasPeriodSegregation(filePath: string, fm: Record<string, string | numb
 async function audit(): Promise<void> {
   console.log('🔍 Starting WorldExams Bundle Audit...\n');
   
-  const basePath = 'E:\\scripts-python\\worldexams\\questions_data\\colombia';
+  const basePath = './questions_data/colombia';
   const bundles: BundleInfo[] = [];
   
   // Find all markdown files recursively
@@ -167,7 +167,7 @@ async function audit(): Promise<void> {
   }
   
   function analyzeBundle(filePath: string): BundleInfo {
-    const relativePath = filePath.replace('E:\\scripts-python\\worldexams\\questions_data\\colombia\\', '');
+    const relativePath = path.relative(basePath, filePath);
     
     let content = '';
     try {
@@ -342,7 +342,7 @@ async function audit(): Promise<void> {
   }
   
   // Save detailed report
-  const outputDir = 'E:\\scripts-python\\worldexams\\.worldexams\\audit';
+  const outputDir = './.worldexams/audit';
   try {
     fs.mkdirSync(outputDir, { recursive: true });
   } catch {}
