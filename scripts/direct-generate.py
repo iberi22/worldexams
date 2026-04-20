@@ -1,29 +1,131 @@
 #!/usr/bin/env python3
 """
-WorldExams Direct Generation via MiniMax API
-Bypasses opencode subprocess - calls API directly for reliability.
+WorldExams Async Generation Pipeline
+Concurrent async HTTP calls via aiohttp — 16 API calls in flight at once.
+MiniMax primary, Ollama fallback. Target: 50+ tasks/hour.
 """
+import argparse
+import asyncio
 import json
+import msvcrt
 import os
+import random
 import re
+import signal
 import sys
 import time
+from datetime import datetime, timezone
+from pathlib import Path
+
+import aiohttp
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
+
+# Import normalizer
+from normalize_gen import normalize_bundle
+
+# Import validator (skill path)
+SKILLS_PATH = Path(r"C:\Users\belal\clawd\skills\worldexams-validator")
+if SKILLS_PATH.exists():
+    sys.path.insert(0, str(SKILLS_PATH))
+    from validate_questions import QuestionValidator
+    _validator = QuestionValidator()
+else:
+    _validator = None
+    print("  ⚠️ Validator skill not found - skipping validation")
+
+# ── Queue lock file ──────────────────────────────────────────────
+_QUEUE_LOCK_FILE = None
+
+
+def _get_lock_path():
+    global _QUEUE_LOCK_FILE
+    if _QUEUE_LOCK_FILE is None:
+        _QUEUE_LOCK_FILE = str(QUEUE_FILE) + '.lock'
+    return _QUEUE_LOCK_FILE
+
+
+def _acquire_file_lock(lock_path, blocking=True, retries=50, retry_delay=0.2):
+    lock_dir = os.path.dirname(lock_path) or '.'
+    os.makedirs(lock_dir, exist_ok=True)
+    fd = os.open(lock_path, os.O_RDWR | os.O_CREAT, 0o666)
+    mode = msvcrt.LK_NBLCK
+    if blocking:
+        mode = msvcrt.LK_LOCK
+    try:
+        msvcrt.locking(fd, mode, 1)
+        return fd
+    except IOError:
+        os.close(fd)
+        if not blocking:
+            return None
+    for _ in range(int(retries)):
+        time.sleep(retry_delay)
+        try:
+            fd = os.open(lock_path, os.O_RDWR | os.O_CREAT, 0o666)
+            msvcrt.locking(fd, msvcrt.LK_NBLCK, 1)
+            return fd
+        except IOError:
+            try:
+                os.close(fd)
+            except:
+                pass
+    return None
+
+
+def _release_file_lock(fd, lock_path):
+    try:
+        msvcrt.locking(fd, msvcrt.LK_UNLCK, 1)
+        os.close(fd)
+    except (IOError, OSError):
+        try:
+            os.close(fd)
+        except:
+            pass
+
+
+class FileLock:
+    def __init__(self, lock_path, blocking=False):
+        self.lock_path = lock_path
+        self.blocking = blocking
+        self.fd = None
+
+    def __enter__(self):
+        self.fd = _acquire_file_lock(self.lock_path, blocking=self.blocking)
+        if self.fd is None and not self.blocking:
+            raise BlockingIOError(f"Could not acquire lock on {self.lock_path}")
+        return self
+
+    def __exit__(self, *args):
+        if self.fd is not None:
+            _release_file_lock(self.fd, self.lock_path)
+
+
+# ── Config ──────────────────────────────────────────────────────
 sys.stdout.reconfigure(encoding='utf-8')
 sys.stderr.reconfigure(encoding='utf-8')
-from pathlib import Path
-from datetime import datetime
 
-# Config
 WORLDEXAMS_ROOT = Path(r"E:\scripts-python\worldexams")
 QUEUE_FILE = WORLDEXAMS_ROOT / ".worldexams" / "generation" / "queue.json"
-API_KEY = "sk-cp-Darz5xszZ7UrPXZD1FWzg7WpDNvIgMopxn4yjoG1f2uBoLpcgoGHo0FQGwVDs0GotFnrkFIz0dvJkkWPVlrUQkKCQok7aYxiHfTAwE0zy-uowWHnQIZtEyY"
+API_KEY = os.environ.get("MINIMAX_API_KEY", "")
 
-# Try multiple MiniMax API endpoints
+# MiniMax primary (500 RPM — we fire many concurrent requests)
 API_ENDPOINTS = [
     "https://api.minimaxi.chat/v1/chat/completions",
-    "https://api.minimax.chat/v1/chat/completions",
 ]
+
+# Ollama fallback (local, no rate limit)
+OLLAMA_ENDPOINT = "http://localhost:11434/api/generate"
+OLLAMA_MODEL = "gemma-4-e2b-q4"
+
+# ── Concurrency tuning ──────────────────────────────────────────
+# 16 concurrent tasks → ~16x throughput vs sequential.
+# At ~30-45s per task, 16 in flight → ~50+ tasks/hour sustained.
+# Total batch of 300 tasks: 300/16 * 45s ≈ 14min (vs 4+ hours sequential)
+CONCURRENT_TASKS = 16       # Number of simultaneous API calls
+API_TIMEOUT = 120           # seconds per API call (aiohttp read timeout)
+REQUEST_TIMEOUT = 180       # total request timeout
 
 SUBJECT_LABELS = {
     'matematicas': 'Matemáticas',
@@ -33,22 +135,78 @@ SUBJECT_LABELS = {
     'ingles': 'Inglés'
 }
 
+_shutdown_flag: asyncio.Event | None = None
 
-def load_queue():
+
+# ── Queue I/O (synchronous, file-locked) ────────────────────────
+
+def _load_queue_raw():
     with open(QUEUE_FILE, 'r', encoding='utf-8') as f:
         return json.load(f)
 
 
-def save_queue(queue):
-    queue['lastUpdated'] = datetime.utcnow().isoformat() + 'Z'
+def _save_queue_raw(queue):
+    queue['lastUpdated'] = datetime.now(timezone.utc).isoformat()
     with open(QUEUE_FILE, 'w', encoding='utf-8') as f:
         json.dump(queue, f, indent=2, ensure_ascii=False)
 
 
+def load_queue():
+    with FileLock(_get_lock_path(), blocking=True):
+        return _load_queue_raw()
+
+
+def save_queue(queue):
+    with FileLock(_get_lock_path(), blocking=True):
+        _save_queue_raw(queue)
+
+
+def update_task_status(task_id, status, output_path=None, error=None):
+    """Atomically update a single task's status in the queue."""
+    with FileLock(_get_lock_path(), blocking=True):
+        queue = _load_queue_raw()
+        for task in queue['tasks']:
+            if task['id'] == task_id:
+                task['status'] = status
+                task['completedAt'] = datetime.now(timezone.utc).isoformat()
+                if output_path:
+                    task['outputPath'] = output_path
+                if error:
+                    task['error'] = str(error)[:200]
+                _save_queue_raw(queue)
+                return
+        _save_queue_raw(queue)
+
+
+def get_pending_tasks(limit=None):
+    """Load all pending tasks."""
+    with FileLock(_get_lock_path(), blocking=True):
+        queue = _load_queue_raw()
+        pending = [t for t in queue['tasks'] if t['status'] == 'pending']
+        if limit:
+            pending = pending[:limit]
+        return pending
+
+
+def claim_tasks(task_ids):
+    """Atomically claim tasks by marking them 'running'."""
+    with FileLock(_get_lock_path(), blocking=True):
+        queue = _load_queue_raw()
+        claimed = []
+        for task in queue['tasks']:
+            if task['id'] in task_ids and task['status'] == 'pending':
+                task['status'] = 'running'
+                claimed.append(dict(task))
+        _save_queue_raw(queue)
+        return claimed
+
+
+# ── Prompt generation ──────────────────────────────────────────
+
 def generate_prompt(subject, grado, periodo, topic, bundle_index):
     bundle_id = f"CO-{subject[:3].upper()}-{grado}-P{periodo}-{topic}-{str(bundle_index).zfill(3)}-MASTERY"
     subject_label = SUBJECT_LABELS.get(subject, subject)
-    ts = datetime.utcnow().isoformat()
+    ts = datetime.now(timezone.utc).isoformat()
 
     return f"""Eres un experto en generar preguntas tipo ICFES Saber 11 para el examen de estado colombiano.
 
@@ -70,9 +228,9 @@ bundle_index: {bundle_index}
 alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
 generation:
   agent: "minimax-m2.7"
-  model: "minimax/MiniMax-M2.7"
+  model: "MiniMax-M2.7"
   timestamp: "{ts}"
-  prompt_version: "v2-direct"
+  prompt_version: "v3-async"
 quality_status: "UNREVISED"
 generation_status: "RAW"
 needs_human_review: true
@@ -122,40 +280,82 @@ MATERIA: {subject_label} | Topic: {topic} | Periodo: {periodo} | Grado: {grado}
 Genera las 20 preguntas. Responde SOLO con el contenido markdown (frontmatter YAML + 20 preguntas). Sin texto adicional antes ni después."""
 
 
-def call_minimax_api(prompt, endpoint, retries=3):
-    """Call MiniMax API with the prompt."""
+# ── MiniMax async API call ──────────────────────────────────────
+
+async def _call_minimax_async(session, prompt, endpoint, retries=3):
+    """Async MiniMax API call. Returns content or raises Exception."""
     headers = {
         "Authorization": f"Bearer {API_KEY}",
         "Content-Type": "application/json"
     }
     payload = {
         "model": "MiniMax-M2.7",
-        "messages": [
-            {"role": "user", "content": prompt}
-        ],
+        "messages": [{"role": "user", "content": prompt}],
         "max_tokens": 6000,
         "temperature": 0.7
     }
+
     for attempt in range(retries):
         try:
-            # (connect_timeout, read_timeout) - aggressive to prevent hanging
-            response = requests.post(endpoint, headers=headers, json=payload, timeout=(10, 90))
-            if response.status_code == 529:
-                wait = 30 * (attempt + 1)
-                print(f"   Rate limited (529), waiting {wait}s...")
-                time.sleep(wait)
-                continue
-            response.raise_for_status()
-            data = response.json()
-            return data["choices"][0]["message"]["content"]
-        except (requests.HTTPError, requests.Timeout, requests.ConnectionError) as e:
-            print(f"   Attempt {attempt+1}/{retries} failed: {str(e)[:80]}")
+            async with session.post(endpoint, headers=headers, json=payload, timeout=aiohttp.ClientTimeout(total=REQUEST_TIMEOUT)) as response:
+                status = response.status
+
+                if status == 529:
+                    wait = min(10 * (2 ** attempt) + random.uniform(0, 5), 120)
+                    print(f"     Rate limited (529), backoff {wait:.1f}s (attempt {attempt+1})...")
+                    await asyncio.sleep(wait)
+                    continue
+
+                if status == 401 or status == 403:
+                    raise Exception(f"Auth error {status} — check API key")
+
+                response.raise_for_status()
+                data = await response.json()
+                content = data["choices"][0]["message"]["content"]
+                return content
+
+        except aiohttp.ClientError as e:
+            err_str = str(e)[:120]
+            print(f"     Attempt {attempt+1}/{retries} failed: {err_str}")
             if attempt < retries - 1:
-                time.sleep(10)
+                await asyncio.sleep(10)
                 continue
-            raise
+            raise Exception(f"MiniMax async failed after {retries} attempts: {err_str}")
+
     raise Exception("Max retries exceeded")
 
+
+# ── Ollama fallback (sync, used inside async task) ──────────────
+
+def call_ollama_sync(prompt, retries=2):
+    """Synchronous Ollama API call as fallback."""
+    import urllib.request
+
+    for attempt in range(retries):
+        payload = {
+            "model": OLLAMA_MODEL,
+            "prompt": prompt,
+            "stream": False,
+            "options": {"temperature": 0.7, "num_predict": 8000}
+        }
+        data = json.dumps(payload).encode()
+        req = urllib.request.Request(
+            OLLAMA_ENDPOINT,
+            data=data,
+            headers={"Content-Type": "application/json"}
+        )
+        try:
+            with urllib.request.urlopen(req, timeout=300) as r:
+                resp = json.loads(r.read())
+                return resp.get("response", "")
+        except Exception as e:
+            if attempt < retries - 1:
+                time.sleep(2)
+                continue
+            raise Exception(f"Ollama failed after {retries} attempts: {e}")
+
+
+# ── Save bundle ─────────────────────────────────────────────────
 
 def save_bundle(content, subject, grado, periodo, topic, bundle_id):
     """Save the generated bundle to the correct path."""
@@ -167,28 +367,113 @@ def save_bundle(content, subject, grado, periodo, topic, bundle_id):
     return str(output_file)
 
 
-def process_task(task, endpoint):
-    """Process a single generation task."""
-    prompt = generate_prompt(
-        task['subject'], task['grado'], task['periodo'],
-        task['topic'], task['bundleIndex']
-    )
-    bundle_id = f"CO-{task['subject'][:3].upper()}-{task['grado']}-P{task['periodo']}-{task['topic']}-{str(task['bundleIndex']).zfill(3)}-MASTERY"
-    
-    content = call_minimax_api(prompt, endpoint)
-    output_path = save_bundle(content, task['subject'], task['grado'], task['periodo'], task['topic'], bundle_id)
-    return output_path
+# ── Single async task processor ────────────────────────────────
 
+async def process_task_async(session, task, endpoint, semaphore):
+    """Process a single task with semaphore-controlled concurrency."""
+    async with semaphore:
+        task_id = task['id']
+        prompt = generate_prompt(
+            task['subject'], task['grado'], task['periodo'],
+            task['topic'], task['bundleIndex']
+        )
+        bundle_id = f"CO-{task['subject'][:3].upper()}-{task['grado']}-P{task['periodo']}-{task['topic']}-{str(task['bundleIndex']).zfill(3)}-MASTERY"
+
+        content = None
+        last_error = None
+
+        # Try MiniMax async first
+        try:
+            content = await _call_minimax_async(session, prompt, endpoint)
+            print(f"  ✅ MiniMax success for {task_id}")
+        except Exception as e:
+            last_error = e
+            print(f"  ⚠️  MiniMax failed for {task_id}: {str(e)[:80]}")
+            print(f"     Falling back to Ollama...")
+            try:
+                # Ollama is sync, run in thread pool to not block event loop
+                loop = asyncio.get_running_loop()
+                content = await loop.run_in_executor(None, call_ollama_sync, prompt)
+                print(f"  ✅ Ollama fallback success for {task_id}")
+            except Exception as ollama_err:
+                print(f"  ❌ Ollama also failed for {task_id}: {str(ollama_err)[:80]}")
+
+        if content is None:
+            update_task_status(task_id, 'failed', error=last_error)
+            return task_id, False, last_error
+
+        # Normalize then save
+        try:
+            content = normalize_bundle(content)
+            output_path = save_bundle(content, task['subject'], task['grado'], task['periodo'], task['topic'], bundle_id)
+            update_task_status(task_id, 'completed', output_path=output_path)
+            print(f"  💾 Saved: {os.path.basename(output_path)}")
+            
+            # Validate the saved bundle
+            if _validator and output_path:
+                vr = _validator.validate_file(str(output_path))
+                if vr.valid:
+                    print(f"  ✅ Validated: {vr.valid_count} questions, {vr.issue_count} issues")
+                else:
+                    print(f"  ⚠️ Validation issues: {len(vr.issues)} - {vr.issues[0].message if vr.issues else 'unknown'}")
+            
+            return task_id, True, None
+        except Exception as save_err:
+            update_task_status(task_id, 'failed', error=save_err)
+            print(f"  ❌ Save failed for {task_id}: {save_err}")
+            return task_id, False, save_err
+
+
+# ── Async batch runner ─────────────────────────────────────────
+
+async def run_async_batch(tasks, endpoint, max_concurrent=None):
+    """Run tasks concurrently with a semaphore limit."""
+    if max_concurrent is None:
+        max_concurrent = CONCURRENT_TASKS
+
+    semaphore = asyncio.Semaphore(max_concurrent)
+
+    # Single aiohttp session with connection pooling for all concurrent requests
+    connector = aiohttp.TCPConnector(
+        limit=max_concurrent,
+        limit_per_host=max_concurrent,
+        ttl_dns_cache=300,
+        keepalive_timeout=30,
+    )
+    timeout = aiohttp.ClientTimeout(total=REQUEST_TIMEOUT)
+
+    async with aiohttp.ClientSession(connector=connector, timeout=timeout) as session:
+        print(f"\n🚀 ASYNC BATCH START — {len(tasks)} tasks, {max_concurrent} concurrent")
+        print(f"   Endpoint: {endpoint}")
+        print(f"   Expected time: ~{(len(tasks) / max_concurrent) * 40 / 60:.1f} min for {len(tasks)} tasks")
+
+        t0 = time.monotonic()
+        results = await asyncio.gather(
+            *[process_task_async(session, task, endpoint, semaphore) for task in tasks],
+            return_exceptions=True
+        )
+        elapsed = time.monotonic() - t0
+
+        completed = sum(1 for r in results if isinstance(r, tuple) and r[1] is True)
+        failed = sum(1 for r in results if isinstance(r, Exception) or (isinstance(r, tuple) and r[1] is False))
+
+        if elapsed > 0 and completed > 0:
+            rate = completed / (elapsed / 3600)
+            print(f"   Throughput: {rate:.0f} tasks/hour ({elapsed:.0f}s elapsed)")
+
+        return completed, failed
+
+
+# ── Queue status ───────────────────────────────────────────────
 
 def status():
-    """Show queue status."""
     queue = load_queue()
     tasks = queue['tasks']
     pending = [t for t in tasks if t['status'] == 'pending']
     running = [t for t in tasks if t['status'] == 'running']
     completed = [t for t in tasks if t['status'] == 'completed']
     failed = [t for t in tasks if t['status'] == 'failed']
-    
+
     print(f"\n📋 GENERATION QUEUE STATUS")
     print(f"   Batch: {queue['batchId']}")
     print(f"   Total: {len(tasks)}")
@@ -197,13 +482,12 @@ def status():
     print(f"   Completed: {len(completed)}")
     print(f"   Failed: {len(failed)}")
     if failed:
-        print(f"\n   Failed tasks:")
+        print(f"\n   Failed tasks (first 5):")
         for t in failed[:5]:
             print(f"   - {t['id']}: {t.get('error', 'unknown')[:80]}")
 
 
 def reset_failed():
-    """Reset failed/running tasks back to pending."""
     queue = load_queue()
     reset_count = 0
     for task in queue['tasks']:
@@ -223,101 +507,120 @@ def find_working_endpoint():
         "max_tokens": 5
     }
     headers = {"Authorization": f"Bearer {API_KEY}", "Content-Type": "application/json"}
-    
+    session = requests.Session()
+    adapter = HTTPAdapter(max_retries=Retry(total=2, backoff_factor=1))
+    session.mount("https://", adapter)
+
     for endpoint in API_ENDPOINTS:
         try:
-            r = requests.post(endpoint, headers=headers, json=test_payload, timeout=15)
+            r = session.post(endpoint, headers=headers, json=test_payload, timeout=30)
             if r.status_code == 200:
                 print(f"✅ Working endpoint: {endpoint}")
+                r.close()
                 return endpoint
             else:
                 print(f"❌ {endpoint}: {r.status_code}")
+                r.close()
         except Exception as e:
             print(f"❌ {endpoint}: {e}")
     return None
 
 
-def run_batch(batch_size=3, max_tasks=None):
-    """Run a batch of generation tasks."""
-    # Use primary endpoint directly (skip test call to preserve rate limit)
+# ── Signal handler ──────────────────────────────────────────────
+
+def _handle_shutdown(signum, frame):
+    print("\n⚠️  Shutdown signal received — stopping after current wave...")
+    if _shutdown_flag is not None:
+        _shutdown_flag.set()
+
+
+# ── Main entry point ────────────────────────────────────────────
+
+def run_batch(batch_size=300, workers=None, max_concurrent=None):
+    """
+    Main batch runner.
+    
+    Args:
+        batch_size: Number of pending tasks to grab and process
+        workers: Ignored (kept for CLI compat) — concurrency is via async
+        max_concurrent: Override CONCURRENT_TASKS for this run
+    """
+    global _shutdown_flag
+    _shutdown_flag = asyncio.Event()
+
+    signal.signal(signal.SIGINT, _handle_shutdown)
+    signal.signal(signal.SIGTERM, _handle_shutdown)
+
     endpoint = API_ENDPOINTS[0]
-    if not endpoint:
-        print("❌ No working endpoint found")
+    if not API_KEY:
+        print("❌ MINIMAX_API_KEY not set")
         sys.exit(1)
 
     queue = load_queue()
     pending = [t for t in queue['tasks'] if t['status'] == 'pending']
-    
+
     if not pending:
         print("✅ No pending tasks")
         return
-    
-    if max_tasks:
-        pending = pending[:max_tasks]
-    
-    print(f"\n🚀 STARTING BATCH")
-    print(f"   Tasks to process: {min(batch_size, len(pending))}")
-    print(f"   Total pending: {len(pending)}")
-    
-    completed = 0
-    failed = 0
-    
-    for i, task in enumerate(pending[:batch_size]):
-        print(f"\n[{i+1}/{min(batch_size, len(pending))}] Processing: {task['id']}")
-        
-        # Mark as running
-        task['status'] = 'running'
-        save_queue(queue)
-        
-        try:
-            output_path = process_task(task, endpoint)
-            task['status'] = 'completed'
-            task['completedAt'] = datetime.utcnow().isoformat() + 'Z'
-            task['outputPath'] = output_path
-            completed += 1
-            print(f"   ✅ Saved: {os.path.basename(output_path)}")
-        except Exception as e:
-            task['status'] = 'failed'
-            task['error'] = str(e)[:200]
-            task['completedAt'] = datetime.utcnow().isoformat() + 'Z'
-            failed += 1
-            print(f"   ❌ Failed: {str(e)[:100]}")
-        
-        save_queue(queue)
-        if i < batch_size - 1:  # Don't sleep after last task
-            print(f"   Waiting 60s (rate limit)...")
-            time.sleep(60)
-    
+
+    tasks_to_run = pending[:batch_size]
+    task_ids = {t['id'] for t in tasks_to_run}
+
+    # Claim tasks atomically
+    claimed = claim_tasks(task_ids)
+    if not claimed:
+        print("❌ Could not claim tasks (lock contention)")
+        return
+
+    print(f"\n📦 Claimed {len(claimed)} tasks")
+
+    if max_concurrent is None:
+        max_concurrent = CONCURRENT_TASKS
+
+    # Run async batch
+    try:
+        completed, failed = asyncio.run(
+            run_async_batch(claimed, endpoint, max_concurrent=max_concurrent)
+        )
+    except KeyboardInterrupt:
+        print("\n⚠️  Interrupted — graceful shutdown")
+        _shutdown_flag.set()
+        return
+
     print(f"\n📊 BATCH COMPLETE")
     print(f"   Completed: {completed}")
     print(f"   Failed: {failed}")
-    print(f"   Remaining pending: {len(pending) - completed - failed}")
+
+    # Refresh queue for final stats
+    queue = load_queue()
+    completed_now = len([t for t in queue['tasks'] if t['status'] == 'completed'])
+    failed_now = len([t for t in queue['tasks'] if t['status'] == 'failed'])
+    pending_now = len([t for t in queue['tasks'] if t['status'] == 'pending'])
+    print(f"   Total completed: {completed_now}")
+    print(f"   Total failed: {failed_now}")
+    print(f"   Remaining pending: {pending_now}")
 
 
 if __name__ == "__main__":
-    args = sys.argv[1:]
-    
-    if not args or args[0] == '--status':
+    parser = argparse.ArgumentParser(description="WorldExams Async Generator")
+    parser.add_argument('--status', action='store_true', help='Show queue status')
+    parser.add_argument('--test', action='store_true', help='Test API connectivity')
+    parser.add_argument('--reset', action='store_true', help='Reset failed/running to pending')
+    parser.add_argument('--run', action='store_true', help='Run generation tasks')
+    parser.add_argument('--batch', type=int, default=300, help='Number of tasks per batch (default: 300)')
+    parser.add_argument('--workers', type=int, default=None, help='Ignored (async concurrency instead)')
+    parser.add_argument('--concurrent', type=int, default=None, help='Override concurrent task limit')
+
+    args = parser.parse_args()
+
+    if args.status:
         status()
-    elif args[0] == '--test':
+    elif args.test:
         endpoint = find_working_endpoint()
         print(f"Endpoint: {endpoint}")
-    elif args[0] == '--reset':
+    elif args.reset:
         reset_failed()
-    elif args[0] == '--run':
-        batch_size = 5
-        for a in args:
-            if a.startswith('--batch='):
-                batch_size = int(a.split('=')[1])
-        run_batch(batch_size=batch_size)
+    elif args.run:
+        run_batch(batch_size=args.batch, workers=args.workers, max_concurrent=args.concurrent)
     else:
-        print("""
-WorldExams Direct Generator (MiniMax API)
-
-Usage:
-  python direct-generate.py --status         Show queue status
-  python direct-generate.py --test           Test API connectivity
-  python direct-generate.py --reset          Reset failed/running to pending
-  python direct-generate.py --run            Run 5 tasks
-  python direct-generate.py --run --batch=10 Run 10 tasks
-""")
+        parser.print_help()
