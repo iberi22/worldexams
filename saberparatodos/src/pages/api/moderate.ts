@@ -65,14 +65,48 @@ function isAuthorized(secret: string | null, locals: RuntimeLocals) {
   return !!env.telegramModerationSecret && secret === env.telegramModerationSecret;
 }
 
-export const GET: APIRoute = async ({ url, locals }) => {
-  const secret = url.searchParams.get('secret');
+function getCsrfToken(request: Request): string | null {
+  const authHeader = request.headers.get('Authorization');
+  if (authHeader?.startsWith('Bearer ')) {
+    return authHeader.slice(7);
+  }
+  return null;
+}
+
+function isValidOrigin(request: Request): boolean {
+  const origin = request.headers.get('origin');
+  const referer = request.headers.get('referer');
+  // Allow requests with no origin header (e.g., direct curl) or with valid origin/referer
+  if (!origin && !referer) return true;
+  const allowedOrigins = [
+    'http://localhost:4321',
+    'https://saberparatodos.com',
+    'https://www.saberparatodos.com',
+  ];
+  return allowedOrigins.some(
+    (o) => (origin && origin === o) || (referer && referer.startsWith(o))
+  );
+}
+
+export const POST: APIRoute = async ({ request, locals }) => {
+  // CSRF protection: require Bearer token OR valid origin/referer
+  const csrfToken = getCsrfToken(request);
+  if (!csrfToken && !isValidOrigin(request)) {
+    return htmlResponse('No autorizado', 'Solicitud no permitida.', 403);
+  }
+
+  let body: { secret?: string; action?: string; commentId?: string };
+  try {
+    body = await request.json();
+  } catch {
+    return htmlResponse('Solicitud inválida', 'El cuerpo debe ser JSON válido.', 400);
+  }
+
+  const { secret, action, commentId } = body;
   if (!isAuthorized(secret, locals as RuntimeLocals)) {
     return htmlResponse('No autorizado', 'El enlace de moderación no es válido.', 401);
   }
 
-  const action = url.searchParams.get('action');
-  const commentId = url.searchParams.get('commentId');
   if (!action || !commentId) {
     return htmlResponse('Solicitud inválida', 'Faltan parámetros de moderación.', 400);
   }
@@ -85,7 +119,7 @@ export const GET: APIRoute = async ({ url, locals }) => {
         : 'El comentario fue rechazado y eliminado.';
     return htmlResponse(`Comentario ${result.label}`, message);
   } catch (err: any) {
-    console.error('Moderation GET Error:', err);
+    console.error('Moderation POST Error:', err);
     return htmlResponse('Error de moderación', 'No fue posible completar la acción.', 500);
   }
 };
