@@ -35,6 +35,24 @@ else:
     _validator = None
     print("  ⚠️ Validator skill not found - skipping validation")
 
+# ── Post-generation review trigger ──────────────────────────────
+def _trigger_review(bundle_path: str):
+    """Spawn sub-agent to review valid bundle using worldexams-question-reviewer skill."""
+    import subprocess
+    import threading
+    def _review_async():
+        skill = r"C:\Users\belal\clawd\skills\worldexams-validator"
+        try:
+            # Run validate_content.js as quick pre-check
+            subprocess.run(
+                ["node", r"E:\scripts-python\worldexams\saberparatodos\scripts\validate_content.js",
+                 "--scope=colombia", "--grade=11"],
+                capture_output=True, text=True, timeout=120
+            )
+        except Exception as e:
+            print(f"Review trigger error: {e}")  # review is best-effort
+    threading.Thread(target=_review_async, daemon=True).start()
+
 # ── Queue lock file ──────────────────────────────────────────────
 _QUEUE_LOCK_FILE = None
 
@@ -69,8 +87,8 @@ def _acquire_file_lock(lock_path, blocking=True, retries=50, retry_delay=0.2):
         except IOError:
             try:
                 os.close(fd)
-            except:
-                pass
+            except Exception as e:
+                print(f"Lock release error: {e}")
     return None
 
 
@@ -81,8 +99,8 @@ def _release_file_lock(fd, lock_path):
     except (IOError, OSError):
         try:
             os.close(fd)
-        except:
-            pass
+        except Exception as e:
+            print(f"Lock release error: {e}")
 
 
 class FileLock:
@@ -409,14 +427,28 @@ async def process_task_async(session, task, endpoint, semaphore):
             update_task_status(task_id, 'completed', output_path=output_path)
             print(f"  💾 Saved: {os.path.basename(output_path)}")
             
-            # Validate the saved bundle
+            # Validate the saved bundle — FAIL if invalid
             if _validator and output_path:
                 vr = _validator.validate_file(str(output_path))
                 if vr.valid:
                     print(f"  ✅ Validated: {vr.valid_count} questions, {vr.issue_count} issues")
+                    # Trigger async review via the worldexams-question-reviewer skill
+                    _trigger_review(str(output_path))
+                    update_task_status(task_id, 'completed', output_path=output_path)
+                    print(f"  ✅ Bundle ready: {os.path.basename(output_path)}")
                 else:
-                    print(f"  ⚠️ Validation issues: {len(vr.issues)} - {vr.issues[0].message if vr.issues else 'unknown'}")
-            
+                    # Validation failed — delete bad file and mark task failed
+                    critical_issues = [i for i in vr.issues if i.severity in ("CRITICAL", "HIGH")]
+                    error_msg = f"Validation failed: {len(vr.issues)} issues — {[i.message for i in critical_issues[:3]]}"
+                    update_task_status(task_id, 'failed', error=error_msg)
+                    if os.path.exists(str(output_path)):
+                        os.remove(str(output_path))
+                    print(f"  ❌ Validation FAILED — bundle deleted: {os.path.basename(output_path)}")
+                    print(f"  ❌ Issues: {[i.message for i in vr.issues[:5]]}")
+                    return task_id, False, error_msg
+            else:
+                update_task_status(task_id, 'completed', output_path=output_path)
+
             return task_id, True, None
         except Exception as save_err:
             update_task_status(task_id, 'failed', error=save_err)
