@@ -1,0 +1,17 @@
+{
+  "name": "worldexams-remotion",
+  "version": "1.0.0",
+  "description": "Remotion video rendering for WorldExams tutorials",
+  "private": true,
+  "scripts": {
+    "build": "remotion render index.ts HelloWorld out/hello.mp4",
+    "preview": "remotion studio index.ts",
+    "render:tutorial": "remotion render index.ts VerticalMathTemplate out/tutorial.mp4",
+    "render:hello": "remotion render index.ts HelloWorld out/hello.mp4"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.451",
+    "@remotion/player": "4.0.451",
+    "remotion": "4.0.451"
+  }
+}
