@@ -108,7 +108,7 @@ function getClosestQuestion(pool: AppQuestion[], targetCEFR: CEFRLevel, targetDi
   // Map to calculate a "distance" score for each question
     const scoredQuestions = pool.map(q => {
       // Attempt to extract CEFR from various possible fields
-      const cefrRaw = (q as any).cefr_level || (q as any).cefrLevel || ((q as any).meta && ((q as any).meta.cefr_level || (q as any).meta.cefrLevel));
+      const cefrRaw = q.cefr_level || q.cefrLevel || (q.meta && (q.meta.cefr_level || q.meta.cefrLevel));
       const qCEFR = parseCEFRLevel((cefrRaw as string) || undefined, q.grade);
       const qCEFRNum = CEFR_LEVEL_NUM[qCEFR] || 1;
 
@@ -116,8 +116,8 @@ function getClosestQuestion(pool: AppQuestion[], targetCEFR: CEFRLevel, targetDi
       let qDiff = 3;
       if (typeof q.difficulty === 'number') {
         qDiff = q.difficulty;
-      } else if ((q as any).meta && typeof (q as any).meta.difficulty === 'number') {
-        qDiff = (q as any).meta.difficulty;
+      } else if (q.meta && typeof q.meta.difficulty === 'number') {
+        qDiff = q.meta.difficulty;
       }
 
       // Weight difference in CEFR more heavily than difference in relative difficulty

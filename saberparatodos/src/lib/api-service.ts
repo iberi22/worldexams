@@ -67,6 +67,11 @@ export interface AppQuestion {
   };
   protocol_version?: string;
   cefr_level?: string;
+  meta?: {
+    cefr_level?: string;
+    cefrLevel?: string;
+    difficulty?: number;
+  };
 }
 
 // ─── Transformer re-exports ─────────────────────────────────────────────────
