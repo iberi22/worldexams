@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: #0e0e12;
+    color: #fff;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    width: 540px;
+    min-height: 960px;
+    padding: 32px 28px;
+    display: flex;
+    flex-direction: column;
+  }
+  .header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 24px;
+  }
+  .logo {
+    background: #003893;
+    color: #FCD116;
+    font-size: 13px;
+    font-weight: 700;
+    padding: 4px 10px;
+    border-radius: 4px;
+    letter-spacing: 0.5px;
+  }
+  .brand { color: #FCD116; font-size: 11px; font-weight: 600; }
+  .qid { color: #888; font-size: 11px; margin-left: auto; font-family: monospace; }
+  .statement-box {
+    background: #1a1a24;
+    border-left: 4px solid #003893;
+    border-radius: 8px;
+    padding: 20px 18px;
+    margin-bottom: 20px;
+  }
+  .statement-label {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #FCD116;
+    margin-bottom: 10px;
+  }
+  .statement-text {
+    font-size: 20px;
+    line-height: 1.5;
+    color: #fff;
+  }
+  .explanation-box {
+    background: #141420;
+    border-radius: 8px;
+    padding: 18px;
+    flex: 1;
+  }
+  .exp-label {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #CE1138;
+    margin-bottom: 10px;
+  }
+  .explanation-text {
+    font-size: 15px;
+    line-height: 1.7;
+    color: #ccc;
+  }
+  .footer {
+    margin-top: 20px;
+    font-size: 10px;
+    color: #555;
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+  <div class="header">
+    <span class="logo">WORLDEXAMS</span>
+    <span class="brand">SABERPARATODOS</span>
+    <span class="qid">CO-MAT-10-real-numbers-001-PRO-v1</span>
+  </div>
+  <div class="statement-box">
+    <div class="statement-label">Pregunta ICFES</div>
+    <div class="statement-text" id="statement">¿Cuál de los siguientes números es **irracional**?</div>
+  </div>
+  <div class="explanation-box">
+    <div class="exp-label">Explicación</div>
+    <div class="explanation-text" id="explanation">$\sqrt{5}$ es irracional porque 5 no es un cuadrado perfecto. $\sqrt{16} = 4$ (entero), $\frac{22}{7}$ es racional y $0.\overline{3} = \frac{1}{3}$ es racional. La clave es preguntarse si el número puede expresarse como fracción $\frac{p}{q}$ con $q \neq 0$.</div>
+  </div>
+  <div class="footer">Saber 11 · Matemáticas · Protocolo 4.1</div>
+  <script>
+    document.querySelectorAll('.statement-text, .explanation-text').forEach(el => {
+      if (el.textContent.includes('\\')) {
+        try { katex.render(el.textContent, el, { throwOnError: false, displayMode: false }); } catch(e) {}
+      }
+    });
+  </script>
+</body>
+</html>

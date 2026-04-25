@@ -1,6 +1,6 @@
 <script lang="ts">
   import { onMount } from 'svelte';
-  import { allCountries, type CountryCode } from '../../config/countries.config';
+  import { allCountries, type CountryCode } from '../config/countries.config';
 
   export let currentCountryCode: CountryCode;
   

@@ -7,7 +7,7 @@ import {
   DEFAULT_COUNTRY,
   COUNTRY_NAMES,
   COUNTRY_FLAGS,
-} from '../config/countries.config';
+} from './config/countries.config';
 
 /**
  * Fallback country detection via ipapi.co for local dev (when CF-IPCountry is absent).
