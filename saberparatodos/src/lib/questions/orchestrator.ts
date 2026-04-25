@@ -78,7 +78,7 @@ export async function prepareSoloExamQuestions(
 
   // 🆕 For English Diagnostic, if pool is empty, fetch it with level awareness
   if (request.englishDiagnostic && filtered.length === 0) {
-    const cefrNum = request.minCefrLevel ? (CEFR_LEVEL_NUM as any)[request.minCefrLevel] : undefined;
+    const cefrNum = request.minCefrLevel ? CEFR_LEVEL_NUM[request.minCefrLevel] : undefined;
     const diagnosticPool = await deps.repository.fetchEnglishQuestionsAllGrades(100, true, cefrNum);
     pool = dedupeById([...pool, ...diagnosticPool]);
     filtered = filterBySubject(pool, request.subject);
