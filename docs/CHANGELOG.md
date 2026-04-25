@@ -1,3 +1,7 @@
+## [Unreleased] - 2026-04-25
+### Changed
+- Bundle protocol_version updated from 5.1 to 5.2 in generation prompt
+
 # Changelog
 
 All notable changes to this workspace are documented in this file.
