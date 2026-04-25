@@ -84,20 +84,7 @@ export async function prepareSoloExamQuestions(
     filtered = filterBySubject(pool, request.subject);
   }
 
-  filtered = filterByGradeAndDiagnostic(
-    filtered,
-    request.grade,
-    Boolean(request.useDiagnostic),
-    Boolean(request.englishDiagnostic)
-  );
-  filtered = filterByCefrLevel(filtered, request.minCefrLevel);
-  filtered = filterByPeriod(filtered, {
-    examMode: request.examMode,
-    period: request.period,
-    subject: request.subject,
-    grade: request.grade
-  });
-  filtered = filterGrade11PreicfesReady(filtered);
+  filtered = applyFilters(filtered, request);
 
   if (filtered.length < request.count && !request.englishDiagnostic) {
     const expandedPool = await deepSearchPool({
@@ -110,21 +97,7 @@ export async function prepareSoloExamQuestions(
     });
 
     pool = expandedPool;
-    filtered = filterBySubject(expandedPool, request.subject);
-    filtered = filterByGradeAndDiagnostic(
-      filtered,
-      request.grade,
-      Boolean(request.useDiagnostic),
-      Boolean(request.englishDiagnostic)
-    );
-    filtered = filterByCefrLevel(filtered, request.minCefrLevel);
-    filtered = filterByPeriod(filtered, {
-      examMode: request.examMode,
-      period: request.period,
-      subject: request.subject,
-      grade: request.grade
-    });
-    filtered = filterGrade11PreicfesReady(filtered);
+    filtered = applyFilters(filterBySubject(expandedPool, request.subject), request);
   }
 
   if (filtered.length === 0) {
