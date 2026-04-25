@@ -240,7 +240,7 @@ grado: {grado}
 asignatura: "{subject}"
 tema: "{topic}"
 periodo: {periodo}
-protocol_version: "5.1"
+protocol_version: "5.2"
 bundle_size: 20
 bundle_index: {bundle_index}
 alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
