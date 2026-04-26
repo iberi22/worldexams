@@ -1,4 +1,4 @@
-import { joinRoom, selfId } from 'trystero/supabase';
+import { joinRoom, selfId } from '@trystero-p2p/supabase';
 import { supabaseUrl, supabaseAnonKey } from './supabase';
 import { RelayRoom } from './p2p-relay-room';
 import {
