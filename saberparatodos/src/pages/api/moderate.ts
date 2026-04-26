@@ -103,7 +103,7 @@ export const POST: APIRoute = async ({ request, locals }) => {
   }
 
   const { secret, action, commentId } = body;
-  if (!isAuthorized(secret, locals as RuntimeLocals)) {
+  if (!isAuthorized(secret ?? null, locals as RuntimeLocals)) {
     return htmlResponse('No autorizado', 'El enlace de moderación no es válido.', 401);
   }
 
@@ -112,12 +112,12 @@ export const POST: APIRoute = async ({ request, locals }) => {
   }
 
   try {
-    const result = await applyModerationAction(action, commentId, locals as RuntimeLocals);
+    const { env: _env, label } = await applyModerationAction(action, commentId ?? '', locals as RuntimeLocals);
     const message =
-      result.label === 'aprobado'
+      label === 'aprobado'
         ? 'El comentario ya fue aprobado y quedó visible públicamente.'
         : 'El comentario fue rechazado y eliminado.';
-    return htmlResponse(`Comentario ${result.label}`, message);
+    return htmlResponse(`Comentario ${label}`, message);
   } catch (err: any) {
     console.error('Moderation POST Error:', err);
     return htmlResponse('Error de moderación', 'No fue posible completar la acción.', 500);
@@ -127,7 +127,7 @@ export const POST: APIRoute = async ({ request, locals }) => {
 /**
  * Handle Telegram Webhook callbacks for comment moderation
  */
-export const POST: APIRoute = async ({ request, url, locals }) => {
+export const POSTTelegram: APIRoute = async ({ request, url, locals }) => {
   const secret = url.searchParams.get('secret');
   if (!isAuthorized(secret, locals as RuntimeLocals)) {
     return new Response(JSON.stringify({ error: 'Unauthorized' }), { status: 401 });
@@ -145,7 +145,7 @@ export const POST: APIRoute = async ({ request, url, locals }) => {
       return new Response('OK');
     }
 
-    const [_prefix, action, commentId] = data.split(':');
+    const [_prefix, action, commentId = ''] = data.split(':');
     const { env, label } = await applyModerationAction(action, commentId, locals as RuntimeLocals);
 
     if (label === 'aprobado') {

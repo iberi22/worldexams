@@ -1,6 +1,6 @@
 import type { AppQuestion } from '../api-service';
 import { CEFR_LEVEL_NUM } from '../english-proficiency';
-import { filterByGradeAndDiagnostic, filterByPeriod, filterBySubject, filterValidQuestions, filterByCefrLevel } from './filters';
+import { filterByGradeAndDiagnostic, filterByPeriod, filterBySubject, filterValidQuestions, filterByCefrLevel, applyFilters } from './filters';
 import { ensureBasePool, deepSearchPool, dedupeById } from './pool';
 import { buildDiagnosticMixPool, selectExamQuestions } from './selection';
 import type { QuestionSelectionDeps, QuestionSelectionRequest, QuestionSelectionResult } from './types';

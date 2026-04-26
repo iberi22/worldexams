@@ -108,7 +108,7 @@ function getClosestQuestion(pool: AppQuestion[], targetCEFR: CEFRLevel, targetDi
   // Map to calculate a "distance" score for each question
     const scoredQuestions = pool.map(q => {
       // Attempt to extract CEFR from various possible fields
-      const cefrRaw = q.cefr_level || q.cefrLevel || (q.meta && (q.meta.cefr_level || q.meta.cefrLevel));
+      const cefrRaw = q.cefr_level || (q.meta && (q.meta.cefr_level || q.meta.cefrLevel));
       const qCEFR = parseCEFRLevel((cefrRaw as string) || undefined, q.grade);
       const qCEFRNum = CEFR_LEVEL_NUM[qCEFR] || 1;
 

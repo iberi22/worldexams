@@ -7,7 +7,7 @@ import {
   useVideoConfig,
 } from "remotion";
 
-export const HelloWorld: React.FC = {
+export const HelloWorld: React.FC<{
   title: String,
   hook: String,
   steps: String[],
