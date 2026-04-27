@@ -19,39 +19,79 @@ from pathlib import Path
 
 import aiohttp
 import requests
-from requests.adapters import HTTPAdapter
-from urllib3.util.retry import Retry
 
 # Import normalizer
 from normalize_gen import normalize_bundle
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 # Import validator (skill path)
 SKILLS_PATH = Path(r"C:\Users\belal\clawd\skills\worldexams-validator")
 if SKILLS_PATH.exists():
     sys.path.insert(0, str(SKILLS_PATH))
     from validate_questions import QuestionValidator
+
     _validator = QuestionValidator()
 else:
     _validator = None
     print("  ⚠️ Validator skill not found - skipping validation")
 
+
 # ── Post-generation review trigger ──────────────────────────────
-def _trigger_review(bundle_path: str):
-    """Spawn sub-agent to review valid bundle using worldexams-question-reviewer skill."""
+_REVIEW_QUEUE_FILE = WORLDEXAMS_ROOT / ".worldexams" / "generation" / "review_queue.jsonl"
+
+
+def _trigger_review(bundle_path: str, subject: str = None, grado: int = None):
+    """
+    Queue a valid bundle for deep review via worldexams-question-reviewer skill.
+    Writes bundle path to a queue file that the main agent picks up for sessions_spawn.
+    Also spawns review_bundles.py async for immediate best-effort review.
+    """
     import subprocess
     import threading
-    def _review_async():
-        skill = r"C:\Users\belal\clawd\skills\worldexams-validator"
+
+    # Ensure queue directory exists
+    _REVIEW_QUEUE_FILE.parent.mkdir(parents=True, exist_ok=True)
+
+    # Extract subject and grado from bundle path if not provided
+    if subject is None or grado is None:
+        # Path format: .../colombia/{subject}/grado-{grado}/periodo-{N}/{topic}/{bundle_id}-bundle.md
+        parts = Path(bundle_path).parts
         try:
-            # Run validate_content.js as quick pre-check
+            subj_idx = parts.index("colombia") + 1
+            subject = parts[subj_idx]
+            grado_part = [p for p in parts if p.startswith("grado-")]
+            if grado_part:
+                grado = int(grado_part[0].split("-")[1])
+        except (ValueError, IndexError):
+            subject = subject or "unknown"
+            grado = grado or 0
+
+    # Write to review queue (for main agent's sessions_spawn)
+    queue_entry = {
+        "bundle_path": bundle_path,
+        "subject": subject,
+        "grado": grado,
+        "queued_at": datetime.now(timezone.utc).isoformat(),
+    }
+    with open(_REVIEW_QUEUE_FILE, "a", encoding="utf-8") as f:
+        f.write(json.dumps(queue_entry, ensure_ascii=False) + "\n")
+    print(f"  📋 Review queued: {Path(bundle_path).name}")
+
+    # Also do immediate best-effort review via review_bundles.py (non-blocking)
+    def _review_async():
+        try:
             subprocess.run(
-                ["node", r"E:\scripts-python\worldexams\saberparatodos\scripts\validate_content.js",
-                 "--scope=colombia", "--grade=11"],
-                capture_output=True, text=True, timeout=120
+                [sys.executable, r"E:\scripts-python\worldexams\scripts\review_bundles.py", bundle_path],
+                capture_output=True,
+                text=True,
+                timeout=300,
             )
         except Exception as e:
-            print(f"Review trigger error: {e}")  # review is best-effort
+            print(f"Review async error: {e}")  # best-effort
+
     threading.Thread(target=_review_async, daemon=True).start()
+
 
 # ── Queue lock file ──────────────────────────────────────────────
 _QUEUE_LOCK_FILE = None
@@ -60,12 +100,12 @@ _QUEUE_LOCK_FILE = None
 def _get_lock_path():
     global _QUEUE_LOCK_FILE
     if _QUEUE_LOCK_FILE is None:
-        _QUEUE_LOCK_FILE = str(QUEUE_FILE) + '.lock'
+        _QUEUE_LOCK_FILE = str(QUEUE_FILE) + ".lock"
     return _QUEUE_LOCK_FILE
 
 
 def _acquire_file_lock(lock_path, blocking=True, retries=50, retry_delay=0.2):
-    lock_dir = os.path.dirname(lock_path) or '.'
+    lock_dir = os.path.dirname(lock_path) or "."
     os.makedirs(lock_dir, exist_ok=True)
     fd = os.open(lock_path, os.O_RDWR | os.O_CREAT, 0o666)
     mode = msvcrt.LK_NBLCK
@@ -121,8 +161,8 @@ class FileLock:
 
 
 # ── Config ──────────────────────────────────────────────────────
-sys.stdout.reconfigure(encoding='utf-8')
-sys.stderr.reconfigure(encoding='utf-8')
+sys.stdout.reconfigure(encoding="utf-8")
+sys.stderr.reconfigure(encoding="utf-8")
 
 WORLDEXAMS_ROOT = Path(r"E:\scripts-python\worldexams")
 QUEUE_FILE = WORLDEXAMS_ROOT / ".worldexams" / "generation" / "queue.json"
@@ -141,16 +181,16 @@ OLLAMA_MODEL = "gemma-4-e2b-q4"
 # 16 concurrent tasks → ~16x throughput vs sequential.
 # At ~30-45s per task, 16 in flight → ~50+ tasks/hour sustained.
 # Total batch of 300 tasks: 300/16 * 45s ≈ 14min (vs 4+ hours sequential)
-CONCURRENT_TASKS = 16       # Number of simultaneous API calls
-API_TIMEOUT = 120           # seconds per API call (aiohttp read timeout)
-REQUEST_TIMEOUT = 180       # total request timeout
+CONCURRENT_TASKS = 16  # Number of simultaneous API calls
+API_TIMEOUT = 120  # seconds per API call (aiohttp read timeout)
+REQUEST_TIMEOUT = 180  # total request timeout
 
 SUBJECT_LABELS = {
-    'matematicas': 'Matemáticas',
-    'lectura-critica': 'Lectura Crítica',
-    'ciencias-naturales': 'Ciencias Naturales',
-    'sociales-ciudadanas': 'Sociales Ciudadanas',
-    'ingles': 'Inglés'
+    "matematicas": "Matemáticas",
+    "lectura-critica": "Lectura Crítica",
+    "ciencias-naturales": "Ciencias Naturales",
+    "sociales-ciudadanas": "Sociales Ciudadanas",
+    "ingles": "Inglés",
 }
 
 _shutdown_flag: asyncio.Event | None = None
@@ -158,14 +198,15 @@ _shutdown_flag: asyncio.Event | None = None
 
 # ── Queue I/O (synchronous, file-locked) ────────────────────────
 
+
 def _load_queue_raw():
-    with open(QUEUE_FILE, 'r', encoding='utf-8') as f:
+    with open(QUEUE_FILE, "r", encoding="utf-8") as f:
         return json.load(f)
 
 
 def _save_queue_raw(queue):
-    queue['lastUpdated'] = datetime.now(timezone.utc).isoformat()
-    with open(QUEUE_FILE, 'w', encoding='utf-8') as f:
+    queue["lastUpdated"] = datetime.now(timezone.utc).isoformat()
+    with open(QUEUE_FILE, "w", encoding="utf-8") as f:
         json.dump(queue, f, indent=2, ensure_ascii=False)
 
 
@@ -183,14 +224,14 @@ def update_task_status(task_id, status, output_path=None, error=None):
     """Atomically update a single task's status in the queue."""
     with FileLock(_get_lock_path(), blocking=True):
         queue = _load_queue_raw()
-        for task in queue['tasks']:
-            if task['id'] == task_id:
-                task['status'] = status
-                task['completedAt'] = datetime.now(timezone.utc).isoformat()
+        for task in queue["tasks"]:
+            if task["id"] == task_id:
+                task["status"] = status
+                task["completedAt"] = datetime.now(timezone.utc).isoformat()
                 if output_path:
-                    task['outputPath'] = output_path
+                    task["outputPath"] = output_path
                 if error:
-                    task['error'] = str(error)[:200]
+                    task["error"] = str(error)[:200]
                 _save_queue_raw(queue)
                 return
         _save_queue_raw(queue)
@@ -200,7 +241,7 @@ def get_pending_tasks(limit=None):
     """Load all pending tasks."""
     with FileLock(_get_lock_path(), blocking=True):
         queue = _load_queue_raw()
-        pending = [t for t in queue['tasks'] if t['status'] == 'pending']
+        pending = [t for t in queue["tasks"] if t["status"] == "pending"]
         if limit:
             pending = pending[:limit]
         return pending
@@ -211,15 +252,16 @@ def claim_tasks(task_ids):
     with FileLock(_get_lock_path(), blocking=True):
         queue = _load_queue_raw()
         claimed = []
-        for task in queue['tasks']:
-            if task['id'] in task_ids and task['status'] == 'pending':
-                task['status'] = 'running'
+        for task in queue["tasks"]:
+            if task["id"] in task_ids and task["status"] == "pending":
+                task["status"] = "running"
                 claimed.append(dict(task))
         _save_queue_raw(queue)
         return claimed
 
 
 # ── Prompt generation ──────────────────────────────────────────
+
 
 def generate_prompt(subject, grado, periodo, topic, bundle_index):
     bundle_id = f"CO-{subject[:3].upper()}-{grado}-P{periodo}-{topic}-{str(bundle_index).zfill(3)}-MASTERY"
@@ -300,26 +342,26 @@ Genera las 20 preguntas. Responde SOLO con el contenido markdown (frontmatter YA
 
 # ── MiniMax async API call ──────────────────────────────────────
 
+
 async def _call_minimax_async(session, prompt, endpoint, retries=3):
     """Async MiniMax API call. Returns content or raises Exception."""
-    headers = {
-        "Authorization": f"Bearer {API_KEY}",
-        "Content-Type": "application/json"
-    }
+    headers = {"Authorization": f"Bearer {API_KEY}", "Content-Type": "application/json"}
     payload = {
         "model": "MiniMax-M2.7",
         "messages": [{"role": "user", "content": prompt}],
         "max_tokens": 6000,
-        "temperature": 0.7
+        "temperature": 0.7,
     }
 
     for attempt in range(retries):
         try:
-            async with session.post(endpoint, headers=headers, json=payload, timeout=aiohttp.ClientTimeout(total=REQUEST_TIMEOUT)) as response:
+            async with session.post(
+                endpoint, headers=headers, json=payload, timeout=aiohttp.ClientTimeout(total=REQUEST_TIMEOUT)
+            ) as response:
                 status = response.status
 
                 if status == 529:
-                    wait = min(10 * (2 ** attempt) + random.uniform(0, 5), 120)
+                    wait = min(10 * (2**attempt) + random.uniform(0, 5), 120)
                     print(f"     Rate limited (529), backoff {wait:.1f}s (attempt {attempt+1})...")
                     await asyncio.sleep(wait)
                     continue
@@ -345,6 +387,7 @@ async def _call_minimax_async(session, prompt, endpoint, retries=3):
 
 # ── Ollama fallback (sync, used inside async task) ──────────────
 
+
 def call_ollama_sync(prompt, retries=2):
     """Synchronous Ollama API call as fallback."""
     import urllib.request
@@ -354,14 +397,10 @@ def call_ollama_sync(prompt, retries=2):
             "model": OLLAMA_MODEL,
             "prompt": prompt,
             "stream": False,
-            "options": {"temperature": 0.7, "num_predict": 8000}
+            "options": {"temperature": 0.7, "num_predict": 8000},
         }
         data = json.dumps(payload).encode()
-        req = urllib.request.Request(
-            OLLAMA_ENDPOINT,
-            data=data,
-            headers={"Content-Type": "application/json"}
-        )
+        req = urllib.request.Request(OLLAMA_ENDPOINT, data=data, headers={"Content-Type": "application/json"})
         try:
             with urllib.request.urlopen(req, timeout=300) as r:
                 resp = json.loads(r.read())
@@ -375,26 +414,27 @@ def call_ollama_sync(prompt, retries=2):
 
 # ── Save bundle ─────────────────────────────────────────────────
 
+
 def save_bundle(content, subject, grado, periodo, topic, bundle_id):
     """Save the generated bundle to the correct path."""
-    output_dir = WORLDEXAMS_ROOT / "questions_data" / "colombia" / subject / f"grado-{grado}" / f"periodo-{periodo}" / topic
+    output_dir = (
+        WORLDEXAMS_ROOT / "questions_data" / "colombia" / subject / f"grado-{grado}" / f"periodo-{periodo}" / topic
+    )
     output_dir.mkdir(parents=True, exist_ok=True)
     output_file = output_dir / f"{bundle_id}-bundle.md"
-    with open(output_file, 'w', encoding='utf-8') as f:
+    with open(output_file, "w", encoding="utf-8") as f:
         f.write(content)
     return str(output_file)
 
 
 # ── Single async task processor ────────────────────────────────
 
+
 async def process_task_async(session, task, endpoint, semaphore):
     """Process a single task with semaphore-controlled concurrency."""
     async with semaphore:
-        task_id = task['id']
-        prompt = generate_prompt(
-            task['subject'], task['grado'], task['periodo'],
-            task['topic'], task['bundleIndex']
-        )
+        task_id = task["id"]
+        prompt = generate_prompt(task["subject"], task["grado"], task["periodo"], task["topic"], task["bundleIndex"])
         bundle_id = f"CO-{task['subject'][:3].upper()}-{task['grado']}-P{task['periodo']}-{task['topic']}-{str(task['bundleIndex']).zfill(3)}-MASTERY"
 
         content = None
@@ -417,46 +457,51 @@ async def process_task_async(session, task, endpoint, semaphore):
                 print(f"  ❌ Ollama also failed for {task_id}: {str(ollama_err)[:80]}")
 
         if content is None:
-            update_task_status(task_id, 'failed', error=last_error)
+            update_task_status(task_id, "failed", error=last_error)
             return task_id, False, last_error
 
         # Normalize then save
         try:
             content = normalize_bundle(content)
-            output_path = save_bundle(content, task['subject'], task['grado'], task['periodo'], task['topic'], bundle_id)
-            update_task_status(task_id, 'completed', output_path=output_path)
+            output_path = save_bundle(
+                content, task["subject"], task["grado"], task["periodo"], task["topic"], bundle_id
+            )
+            update_task_status(task_id, "completed", output_path=output_path)
             print(f"  💾 Saved: {os.path.basename(output_path)}")
-            
+
             # Validate the saved bundle — FAIL if invalid
             if _validator and output_path:
                 vr = _validator.validate_file(str(output_path))
                 if vr.valid:
                     print(f"  ✅ Validated: {vr.valid_count} questions, {vr.issue_count} issues")
                     # Trigger async review via the worldexams-question-reviewer skill
-                    _trigger_review(str(output_path))
-                    update_task_status(task_id, 'completed', output_path=output_path)
+                    _trigger_review(str(output_path), subject=task["subject"], grado=task["grado"])
+                    update_task_status(task_id, "completed", output_path=output_path)
                     print(f"  ✅ Bundle ready: {os.path.basename(output_path)}")
                 else:
                     # Validation failed — delete bad file and mark task failed
                     critical_issues = [i for i in vr.issues if i.severity in ("CRITICAL", "HIGH")]
-                    error_msg = f"Validation failed: {len(vr.issues)} issues — {[i.message for i in critical_issues[:3]]}"
-                    update_task_status(task_id, 'failed', error=error_msg)
+                    error_msg = (
+                        f"Validation failed: {len(vr.issues)} issues — {[i.message for i in critical_issues[:3]]}"
+                    )
+                    update_task_status(task_id, "failed", error=error_msg)
                     if os.path.exists(str(output_path)):
                         os.remove(str(output_path))
                     print(f"  ❌ Validation FAILED — bundle deleted: {os.path.basename(output_path)}")
                     print(f"  ❌ Issues: {[i.message for i in vr.issues[:5]]}")
                     return task_id, False, error_msg
             else:
-                update_task_status(task_id, 'completed', output_path=output_path)
+                update_task_status(task_id, "completed", output_path=output_path)
 
             return task_id, True, None
         except Exception as save_err:
-            update_task_status(task_id, 'failed', error=save_err)
+            update_task_status(task_id, "failed", error=save_err)
             print(f"  ❌ Save failed for {task_id}: {save_err}")
             return task_id, False, save_err
 
 
 # ── Async batch runner ─────────────────────────────────────────
+
 
 async def run_async_batch(tasks, endpoint, max_concurrent=None):
     """Run tasks concurrently with a semaphore limit."""
@@ -481,8 +526,7 @@ async def run_async_batch(tasks, endpoint, max_concurrent=None):
 
         t0 = time.monotonic()
         results = await asyncio.gather(
-            *[process_task_async(session, task, endpoint, semaphore) for task in tasks],
-            return_exceptions=True
+            *[process_task_async(session, task, endpoint, semaphore) for task in tasks], return_exceptions=True
         )
         elapsed = time.monotonic() - t0
 
@@ -498,13 +542,14 @@ async def run_async_batch(tasks, endpoint, max_concurrent=None):
 
 # ── Queue status ───────────────────────────────────────────────
 
+
 def status():
     queue = load_queue()
-    tasks = queue['tasks']
-    pending = [t for t in tasks if t['status'] == 'pending']
-    running = [t for t in tasks if t['status'] == 'running']
-    completed = [t for t in tasks if t['status'] == 'completed']
-    failed = [t for t in tasks if t['status'] == 'failed']
+    tasks = queue["tasks"]
+    pending = [t for t in tasks if t["status"] == "pending"]
+    running = [t for t in tasks if t["status"] == "running"]
+    completed = [t for t in tasks if t["status"] == "completed"]
+    failed = [t for t in tasks if t["status"] == "failed"]
 
     print(f"\n📋 GENERATION QUEUE STATUS")
     print(f"   Batch: {queue['batchId']}")
@@ -522,10 +567,10 @@ def status():
 def reset_failed():
     queue = load_queue()
     reset_count = 0
-    for task in queue['tasks']:
-        if task['status'] in ('failed', 'running'):
-            task['status'] = 'pending'
-            task.pop('error', None)
+    for task in queue["tasks"]:
+        if task["status"] in ("failed", "running"):
+            task["status"] = "pending"
+            task.pop("error", None)
             reset_count += 1
     save_queue(queue)
     print(f"✅ Reset {reset_count} tasks to pending")
@@ -533,11 +578,7 @@ def reset_failed():
 
 def find_working_endpoint():
     """Find a working API endpoint."""
-    test_payload = {
-        "model": "MiniMax-M2.7",
-        "messages": [{"role": "user", "content": "Say OK"}],
-        "max_tokens": 5
-    }
+    test_payload = {"model": "MiniMax-M2.7", "messages": [{"role": "user", "content": "Say OK"}], "max_tokens": 5}
     headers = {"Authorization": f"Bearer {API_KEY}", "Content-Type": "application/json"}
     session = requests.Session()
     adapter = HTTPAdapter(max_retries=Retry(total=2, backoff_factor=1))
@@ -560,6 +601,7 @@ def find_working_endpoint():
 
 # ── Signal handler ──────────────────────────────────────────────
 
+
 def _handle_shutdown(signum, frame):
     print("\n⚠️  Shutdown signal received — stopping after current wave...")
     if _shutdown_flag is not None:
@@ -568,10 +610,11 @@ def _handle_shutdown(signum, frame):
 
 # ── Main entry point ────────────────────────────────────────────
 
+
 def run_batch(batch_size=300, workers=None, max_concurrent=None):
     """
     Main batch runner.
-    
+
     Args:
         batch_size: Number of pending tasks to grab and process
         workers: Ignored (kept for CLI compat) — concurrency is via async
@@ -589,14 +632,14 @@ def run_batch(batch_size=300, workers=None, max_concurrent=None):
         sys.exit(1)
 
     queue = load_queue()
-    pending = [t for t in queue['tasks'] if t['status'] == 'pending']
+    pending = [t for t in queue["tasks"] if t["status"] == "pending"]
 
     if not pending:
         print("✅ No pending tasks")
         return
 
     tasks_to_run = pending[:batch_size]
-    task_ids = {t['id'] for t in tasks_to_run}
+    task_ids = {t["id"] for t in tasks_to_run}
 
     # Claim tasks atomically
     claimed = claim_tasks(task_ids)
@@ -611,9 +654,7 @@ def run_batch(batch_size=300, workers=None, max_concurrent=None):
 
     # Run async batch
     try:
-        completed, failed = asyncio.run(
-            run_async_batch(claimed, endpoint, max_concurrent=max_concurrent)
-        )
+        completed, failed = asyncio.run(run_async_batch(claimed, endpoint, max_concurrent=max_concurrent))
     except KeyboardInterrupt:
         print("\n⚠️  Interrupted — graceful shutdown")
         _shutdown_flag.set()
@@ -625,23 +666,44 @@ def run_batch(batch_size=300, workers=None, max_concurrent=None):
 
     # Refresh queue for final stats
     queue = load_queue()
-    completed_now = len([t for t in queue['tasks'] if t['status'] == 'completed'])
-    failed_now = len([t for t in queue['tasks'] if t['status'] == 'failed'])
-    pending_now = len([t for t in queue['tasks'] if t['status'] == 'pending'])
+    completed_now = len([t for t in queue["tasks"] if t["status"] == "completed"])
+    failed_now = len([t for t in queue["tasks"] if t["status"] == "failed"])
+    pending_now = len([t for t in queue["tasks"] if t["status"] == "pending"])
     print(f"   Total completed: {completed_now}")
     print(f"   Total failed: {failed_now}")
     print(f"   Remaining pending: {pending_now}")
 
+    # Return review queue entries for main agent's sessions_spawn
+    review_entries = []
+    if _REVIEW_QUEUE_FILE.exists():
+        with open(_REVIEW_QUEUE_FILE, "r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if line:
+                    try:
+                        review_entries.append(json.loads(line))
+                    except json.JSONDecodeError:
+                        pass
+        # Clear the queue after reading to prevent duplicates on next run
+        open(_REVIEW_QUEUE_FILE, "w", encoding="utf-8").close()
+
+    if review_entries:
+        print(f"\n📋 REVIEW_QUEUE:{len(review_entries)}")
+        for entry in review_entries:
+            print(f"  REVIEW_ENTRY:{entry['bundle_path']}|{entry.get('subject','?')}|{entry.get('grado','?')}")
+
+    return review_entries
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="WorldExams Async Generator")
-    parser.add_argument('--status', action='store_true', help='Show queue status')
-    parser.add_argument('--test', action='store_true', help='Test API connectivity')
-    parser.add_argument('--reset', action='store_true', help='Reset failed/running to pending')
-    parser.add_argument('--run', action='store_true', help='Run generation tasks')
-    parser.add_argument('--batch', type=int, default=300, help='Number of tasks per batch (default: 300)')
-    parser.add_argument('--workers', type=int, default=None, help='Ignored (async concurrency instead)')
-    parser.add_argument('--concurrent', type=int, default=None, help='Override concurrent task limit')
+    parser.add_argument("--status", action="store_true", help="Show queue status")
+    parser.add_argument("--test", action="store_true", help="Test API connectivity")
+    parser.add_argument("--reset", action="store_true", help="Reset failed/running to pending")
+    parser.add_argument("--run", action="store_true", help="Run generation tasks")
+    parser.add_argument("--batch", type=int, default=300, help="Number of tasks per batch (default: 300)")
+    parser.add_argument("--workers", type=int, default=None, help="Ignored (async concurrency instead)")
+    parser.add_argument("--concurrent", type=int, default=None, help="Override concurrent task limit")
 
     args = parser.parse_args()
 
