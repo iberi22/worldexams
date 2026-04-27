@@ -26,17 +26,17 @@ for ($i = 1; $i -le $MAX_RUNS; $i++) {
     if ($pendingLine) {
         $pending = [int]($pendingLine -replace ".*Pending:\s*", "" -replace "\s.*", "")
         Log "Run $i | Pending: $pending"
-        
+
         if ($pending -eq 0) {
             Log "All tasks completed!"
             break
         }
     }
-    
+
     # Run 1 task
     $out = python $SCRIPT --run --batch=1 2>&1
     $out | ForEach-Object { Log $_ }
-    
+
     # Wait before next task (rate limit)
     if ($i -lt $MAX_RUNS) {
         Log "Waiting ${DELAY}s before next task..."

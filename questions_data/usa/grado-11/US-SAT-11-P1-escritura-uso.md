@@ -31,37 +31,37 @@ The Home Insurance Building, completed in 1885, often cited as the world's first
 ---
 
 ## Question 1 — D4
-A) NO CHANGE  
-B) reflects  
-C) reflecting  
-D) has reflected  
+A) NO CHANGE
+B) reflects
+C) reflecting
+D) has reflected
 **[ ]** → **B**
 
 ---
 
 ## Question 2 — D5
-A) NO CHANGE  
-B) and left  
-C) leaving, it  
-D) left, then  
+A) NO CHANGE
+B) and left
+C) leaving, it
+D) left, then
 **[ ]** → **A**
 
 ---
 
 ## Question 3 — D5
-A) NO CHANGE  
-B] is often cited  
-C] were often cited  
-D) often cite  
+A) NO CHANGE
+B] is often cited
+C] were often cited
+D) often cite
 **[ ]** → **B**
 
 ---
 
 ## Question 4 — D6
-A) NO CHANGE  
-B) permitted, earning  
-C) permitted and earning  
-D) permitted; earning  
+A) NO CHANGE
+B) permitted, earning
+C) permitted and earning
+D) permitted; earning
 **[ ]** → **B**
 
 ---
@@ -69,10 +69,10 @@ D) permitted; earning
 ## Question 5 — D6
 The writer is considering deleting the phrase "Father of the American Skyscraper." Should it be kept or deleted?
 
-A) Kept, because it identifies who received the nickname  
-B) Deleted, because it is not essential to the paragraph's main point  
-C) Deleted, because Jenney has other, more important achievements  
-D) Kept, because it adds a personal opinion to the passage  
+A) Kept, because it identifies who received the nickname
+B) Deleted, because it is not essential to the paragraph's main point
+C) Deleted, because Jenney has other, more important achievements
+D) Kept, because it adds a personal opinion to the passage
 **[ ]** → **A**
 
 ---
@@ -80,10 +80,10 @@ D) Kept, because it adds a personal opinion to the passage
 ## Question 6 — D7
 For the three sentences at the end, which sequence makes the most logical sense?
 
-A) [1], [2], [3]  
-B) [2], [1], [3]  
-C) [3], [2], [1]  
-D) [2], [3], [1]  
+A) [1], [2], [3]
+B) [2], [1], [3]
+C) [3], [2], [1]
+D) [2], [3], [1]
 **[ ]** → **A**
 
 ---
@@ -97,37 +97,37 @@ The river's ecology have suffered from pollution and habitat loss. Industrial ru
 ---
 
 ## Question 7 — D5
-A) NO CHANGE  
-B) stretch 2,340 miles  
-C) stretches 2,340 miles  
-D) have stretched 2,340 miles  
+A) NO CHANGE
+B) stretch 2,340 miles
+C) stretches 2,340 miles
+D) have stretched 2,340 miles
 **[ ]** → **C**
 
 ---
 
 ## Question 8 — D5
-A) NO CHANGE  
-B) relied, on the river, for transportation, fishing, and trade.  
-C) relied on the river for transportation, fishing, and trade.  
-D) relied on the river; for transportation, fishing, and trade.  
+A) NO CHANGE
+B) relied, on the river, for transportation, fishing, and trade.
+C) relied on the river for transportation, fishing, and trade.
+D) relied on the river; for transportation, fishing, and trade.
 **[ ]** → **C**
 
 ---
 
 ## Question 9 — D6
-A) NO CHANGE  
-B) supports five hundred billion dollars  
-C) supports $500 billions  
-D) support $500 billion  
+A) NO CHANGE
+B) supports five hundred billion dollars
+C) supports $500 billions
+D) support $500 billion
 **[ ]** → **B**
 
 ---
 
 ## Question 10 — D6
-A) NO CHANGE  
-B) has suffered  
-C) suffered  
-D) suffering  
+A) NO CHANGE
+B) has suffered
+C) suffered
+D) suffering
 **[ ]** → **A**
 
 ---
@@ -135,10 +135,10 @@ D) suffering
 ## Question 11 — D7
 For the second paragraph ([1], [2], [3], [4]), which sequence creates the most logical organization?
 
-A) [1], [2], [3], [4]  
-B) [2], [3], [4], [1]  
-C) [4], [2], [3], [1]  
-D) [2], [1], [3], [4]  
+A) [1], [2], [3], [4]
+B) [2], [3], [4], [1]
+C) [4], [2], [3], [1]
+D) [2], [1], [3], [4]
 **[ ]** → **A**
 
 ---
@@ -146,10 +146,10 @@ D) [2], [1], [3], [4]
 ## Question 12 — D7
 Which choice best replaces "restored" in the underlined portion of sentence [2]?
 
-A) recovered  
-B) rebuilt  
-C) renewed  
-D) preserved  
+A) recovered
+B) rebuilt
+C) renewed
+D) preserved
 **[ ]** → **C**
 
 ---
@@ -163,46 +163,46 @@ Jazz's emphasis on improvisation and individual expression reflect broader Ameri
 ---
 
 ## Question 13 — D5
-A) NO CHANGE  
-B) Represented profound shift  
-C) Represented a profound shift  
-D) Represents a profound shift  
+A) NO CHANGE
+B) Represented profound shift
+C) Represented a profound shift
+D) Represents a profound shift
 **[ ]** → **C**
 
 ---
 
 ## Question 14 — D5
-A) NO CHANGE  
-B) valley, to Chicago  
-C) valley to Chicago, and  
-D) valley to Chicago, eventually,  
+A) NO CHANGE
+B) valley, to Chicago
+C) valley to Chicago, and
+D) valley to Chicago, eventually,
 **[ ]** → **C**
 
 ---
 
 ## Question 15 — D6
-A) NO CHANGE  
-B) influence artists today continue  
-C) influence artists today continues  
-D) influences artists today continue  
+A) NO CHANGE
+B) influence artists today continue
+C) influence artists today continues
+D) influences artists today continue
 **[ ]** → **D**
 
 ---
 
 ## Question 16 — D6
-A) NO CHANGE  
-B) reflects  
-C) reflecting  
-D) has reflected  
+A) NO CHANGE
+B) reflects
+C) reflecting
+D) has reflected
 **[ ]** → **B**
 
 ---
 
 ## Question 17 — D7
-A) NO CHANGE  
-B) adhere to strict compositional rules  
-C) adheres to strict compositional rules  
-D) adhered to strict compositional rules  
+A) NO CHANGE
+B) adhere to strict compositional rules
+C) adheres to strict compositional rules
+D) adhered to strict compositional rules
 **[ ]** → **C**
 
 ---
@@ -210,10 +210,10 @@ D) adhered to strict compositional rules
 ## Question 18 — D7
 The writer is considering deleting the phrase "Some critics argue that jazz has lost its authenticity in this process." Should the phrase be kept or deleted?
 
-A) Kept, because it introduces a counterargument that is addressed later  
-B) Deleted, because it contradicts the main point of the paragraph  
-C) Deleted, because the phrase uses informal language  
-D) Kept, because it adds humor to the passage  
+A) Kept, because it introduces a counterargument that is addressed later
+B) Deleted, because it contradicts the main point of the paragraph
+C) Deleted, because the phrase uses informal language
+D) Kept, because it adds humor to the passage
 **[ ]** → **A**
 
 ---
@@ -229,10 +229,10 @@ D) Kept, because it adds humor to the passage
 ## Question 19 — D7
 Which choice best connects the two paragraphs?
 
-A) "NO CHANGE"  
-B) "Above all,"  
-C) "In contrast,"  
-D) "Consequently,"  
+A) "NO CHANGE"
+B) "Above all,"
+C) "In contrast,"
+D) "Consequently,"
 **[ ]** → **A**
 
 ---
@@ -240,9 +240,8 @@ D) "Consequently,"
 ## Question 20 — D8
 Which sequence best organizes the second paragraph's main points?
 
-A) [1], [2], [3], [4] — benefit, drawback, drawback, response  
-B) [2], [1], [3], [4] — drawback, benefit, drawback, response  
-C) [3], [2], [1], [4] — drawback, drawback, benefit, response  
-D) [1], [3], [2], [4] — benefit, drawback, benefit, response  
+A) [1], [2], [3], [4] — benefit, drawback, drawback, response
+B) [2], [1], [3], [4] — drawback, benefit, drawback, response
+C) [3], [2], [1], [4] — drawback, drawback, benefit, response
+D) [1], [3], [2], [4] — benefit, drawback, benefit, response
 **[ ]** → **A**
-

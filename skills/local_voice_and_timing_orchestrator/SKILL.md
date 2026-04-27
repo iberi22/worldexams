@@ -19,10 +19,10 @@ example_usage: |
 
 # Local Voice and Timing Orchestrator
 
-**Skill:** `local_voice_and_timing_orchestrator`  
-**Version:** 1.0  
-**Pipeline role:** Produces narrated audio (`voice.mp3`) and word-level timing (`word_timestamps.json`) for the Remotion rendering pipeline  
-**Monorepo path:** `skills/local_voice_and_timing_orchestrator/`  
+**Skill:** `local_voice_and_timing_orchestrator`
+**Version:** 1.0
+**Pipeline role:** Produces narrated audio (`voice.mp3`) and word-level timing (`word_timestamps.json`) for the Remotion rendering pipeline
+**Monorepo path:** `skills/local_voice_and_timing_orchestrator/`
 **Primary TTS:** XTTS-v2 (local) | **Fallback:** Piper | **Alignment:** WhisperX
 
 ---
@@ -36,7 +36,7 @@ The output consists of three files:
 - `word_timestamps.json` — word-level timing for subtitle and visual sync
 - `tts_manifest.json` — metadata about the TTS run (model, runtime, quality flags)
 
-**Upstream:** This skill runs before `math_short_remotion_architect`.  
+**Upstream:** This skill runs before `math_short_remotion_architect`.
 **Downstream:** The `voice.mp3` and `word_timestamps.json` are the primary inputs for the Remotion render.
 
 ---

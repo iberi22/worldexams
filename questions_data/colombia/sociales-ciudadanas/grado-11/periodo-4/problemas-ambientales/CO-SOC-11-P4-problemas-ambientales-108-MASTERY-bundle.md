@@ -41,7 +41,7 @@ For the difficulty levels:
 - D5-D6 (Apply/Analyze): Application and analysis
 - D7-D8 (Analyze/Evaluate): Analysis and evaluation
 - D9-D10 (Evaluate/Create): Evaluation and creation/synthesis
- 
+
 I'll craft specific question types that test different cognitive levels, focusing on real-world Colombian environmental challenges. The questions will require students to demonstrate nuanced understanding of complex environmental issues, moving beyond simple recall to critical analysis and problem-solving.
 
 </think>

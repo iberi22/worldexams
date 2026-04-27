@@ -1,10 +1,10 @@
 # Issue Local Mirror: [EC] #234 - Investigación Curricular MINEDUC Ecuador / Ser Bachiller
 
-**GitHub Issue:** https://github.com/iberi22/worldexams/issues/234  
-**Status:** Open  
-**Priority:** High  
-**Labels:** nuevo-pais, curriculo, enhancement  
-**Owner:** Agente (Generator + Architect)  
+**GitHub Issue:** https://github.com/iberi22/worldexams/issues/234
+**Status:** Open
+**Priority:** High
+**Labels:** nuevo-pais, curriculo, enhancement
+**Owner:** Agente (Generator + Architect)
 **Created:** 2026-04-18
 
 ## Resumen

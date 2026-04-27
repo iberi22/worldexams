@@ -22,7 +22,7 @@ const API_BASE_URL = import.meta.env.PUBLIC_API_BASE_URL || '/api';
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
       </svg>
     </button>
-    
+
     <section class="min-h-[70vh] flex flex-col items-center justify-center px-4 relative overflow-hidden w-full">
       <!-- Background elements similar to the app for visual continuity -->
       <div class="absolute inset-0 bg-[#0A0A0B] -z-10 md:hidden"></div>
@@ -52,7 +52,7 @@ const API_BASE_URL = import.meta.env.PUBLIC_API_BASE_URL || '/api';
               <span class="w-1 h-1 bg-emerald-500 rounded-full animate-bounce" style="animation-delay: 300ms"></span>
             </span>
           </div>
-          
+
           <label class="flex items-center gap-2 text-xs text-white/40 hover:text-white/80 cursor-pointer transition-colors mt-2 bg-white/5 px-3 py-1.5 rounded-full border border-white/10">
             <input type="checkbox" id="dont-show-hero" class="rounded bg-black/50 border-white/20 text-emerald-500 focus:ring-emerald-500/30">
             <span>No volver a mostrar</span>
@@ -87,7 +87,7 @@ const API_BASE_URL = import.meta.env.PUBLIC_API_BASE_URL || '/api';
       const hero = document.getElementById("mobile-hero");
       const countdownEl = document.getElementById("countdown-timer");
       const dontShowCheckbox = document.getElementById("dont-show-hero");
-      
+
       if (!hero) return;
 
       // Desactivar si el usuario eligió "No volver a mostrar"
@@ -113,7 +113,7 @@ const API_BASE_URL = import.meta.env.PUBLIC_API_BASE_URL || '/api';
 
       const closeBtn = document.getElementById("hero-close-btn");
       if (closeBtn) closeBtn.addEventListener("click", hideHero);
-      
+
       timerId = setInterval(() => {
         timeLeft -= 1;
         if (countdownEl) {

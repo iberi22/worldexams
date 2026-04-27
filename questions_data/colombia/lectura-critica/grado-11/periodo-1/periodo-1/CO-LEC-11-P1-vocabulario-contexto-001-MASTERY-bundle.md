@@ -34,7 +34,7 @@ license: "CC BY-NC-SA 4.0"
 ---
 
 ### Pregunta 1
-**Tipo:** Inferencial — Sinonimia contextual  
+**Tipo:** Inferencial — Sinonimia contextual
 **Dificultad:** D3
 
 **Contexto:**
@@ -50,7 +50,7 @@ D) El deseo de perjudicar a los demás [ ]
 ---
 
 ### Pregunta 2
-**Tipo:** Literal — Sinonimia contextual  
+**Tipo:** Literal — Sinonimia contextual
 **Dificultad:** D3
 
 **Contexto:**
@@ -66,7 +66,7 @@ D) Tranquilo y reparador [ ]
 ---
 
 ### Pregunta 3
-**Tipo:** Literal — Antonimia contextual  
+**Tipo:** Literal — Antonimia contextual
 **Dificultad:** D4
 
 **Contexto:**
@@ -82,7 +82,7 @@ D) Ambos términos se refieren a estados de sorpresa [ ]
 ---
 
 ### Pregunta 4
-**Tipo:** Literal — Significado derivado del contexto  
+**Tipo:** Literal — Significado derivado del contexto
 **Dificultad:** D4
 
 **Contexto:**
@@ -102,7 +102,7 @@ D) Aplaudir una acción [ ]
 ---
 
 ### Pregunta 5
-**Tipo:** Inferencial — Formación de palabras  
+**Tipo:** Inferencial — Formación de palabras
 **Dificultad:** D5
 
 **Contexto:**
@@ -118,7 +118,7 @@ D) Parasíntesis [ ]
 ---
 
 ### Pregunta 6
-**Tipo:** Inferencial — Antonimia contextual  
+**Tipo:** Inferencial — Antonimia contextual
 **Dificultad:** D5
 
 **Contexto:**
@@ -134,7 +134,7 @@ D) Hiperonimia [ ]
 ---
 
 ### Pregunta 7
-**Tipo:** Literal — Sinonimia contextual  
+**Tipo:** Literal — Sinonimia contextual
 **Dificultad:** D5
 
 **Contexto:**
@@ -150,7 +150,7 @@ D) Peligroso y alarmante [ ]
 ---
 
 ### Pregunta 8
-**Tipo:** Inferencial — Significado derivado del contexto  
+**Tipo:** Inferencial — Significado derivado del contexto
 **Dificultad:** D6
 
 **Contexto:**
@@ -166,7 +166,7 @@ D) Rechazar una propuesta [ ]
 ---
 
 ### Pregunta 9
-**Tipo:** Crítico — Formación de palabras  
+**Tipo:** Crítico — Formación de palabras
 **Dificultad:** D6
 
 **Contexto:**
@@ -182,7 +182,7 @@ D) Parasíntesis [ ]
 ---
 
 ### Pregunta 10
-**Tipo:** Inferencial — Sinonimia contextual  
+**Tipo:** Inferencial — Sinonimia contextual
 **Dificultad:** D6
 
 **Contexto:**
@@ -202,7 +202,7 @@ D) Controversial y debatible [ ]
 ---
 
 ### Pregunta 11
-**Tipo:** Crítico — Significado polisémico en contexto  
+**Tipo:** Crítico — Significado polisémico en contexto
 **Dificultad:** D7
 
 **Contexto:**
@@ -218,7 +218,7 @@ D) Antonimia [ ]
 ---
 
 ### Pregunta 12
-**Tipo:** Inferencial — Antonimia contextual compleja  
+**Tipo:** Inferencial — Antonimia contextual compleja
 **Dificultad:** D7
 
 **Contexto:**
@@ -234,7 +234,7 @@ D) No existe relación semántica entre ambos términos [ ]
 ---
 
 ### Pregunta 13
-**Tipo:** Crítico — Campo semántico  
+**Tipo:** Crítico — Campo semántico
 **Dificultad:** D7
 
 **Contexto:**
@@ -250,7 +250,7 @@ D) Día, sol, mediodía [ ]
 ---
 
 ### Pregunta 14
-**Tipo:** Crítico — Inferencia léxica  
+**Tipo:** Crítico — Inferencia léxica
 **Dificultad:** D8
 
 **Contexto:**
@@ -266,7 +266,7 @@ D) De carácter científico y verificable [ ]
 ---
 
 ### Pregunta 15
-**Tipo:** Inferencial — Formación de palabras y contexto  
+**Tipo:** Inferencial — Formación de palabras y contexto
 **Dificultad:** D8
 
 **Contexto:**
@@ -282,7 +282,7 @@ D) Insostenible [ ]
 ---
 
 ### Pregunta 16
-**Tipo:** Crítico — Evaluación de significado contextual  
+**Tipo:** Crítico — Evaluación de significado contextual
 **Dificultad:** D8
 
 **Contexto:**
@@ -302,7 +302,7 @@ D) Implica que los datos fueron manipulados por intereses económicos [ ]
 ---
 
 ### Pregunta 17
-**Tipo:** Crítico — Análisis de matices semánticos  
+**Tipo:** Crítico — Análisis de matices semánticos
 **Dificultad:** D9
 
 **Contexto:**
@@ -318,7 +318,7 @@ D) Considera la obra irrelevante para el contexto histórico [ ]
 ---
 
 ### Pregunta 18
-**Tipo:** Crítico — polisemia y interpretación contextual  
+**Tipo:** Crítico — polisemia y interpretación contextual
 **Dificultad:** D9
 
 **Contexto:**
@@ -334,7 +334,7 @@ D) Antonimia [ ]
 ---
 
 ### Pregunta 19
-**Tipo:** Inferencial — Analogías léxicas complejas  
+**Tipo:** Inferencial — Analogías léxicas complejas
 **Dificultad:** D10
 
 **Contexto:**
@@ -350,7 +350,7 @@ D) Fineza [ ]
 ---
 
 ### Pregunta 20
-**Tipo:** Crítico — Evaluación de uso lingüístico sofisticado  
+**Tipo:** Crítico — Evaluación de uso lingüístico sofisticado
 **Dificultad:** D10
 
 **Contexto:**
@@ -374,6 +374,6 @@ D) Demuestra que el philosopher no comprende la seriousness del issue [ ]
 | D7-D8 | Q11-Q16 | Inferencial / Crítico |
 | D9-D10 | Q17-Q20 | Crítico |
 
-**Total preguntas:** 20  
-**Estado:** RAW — Requiere revisión humana  
+**Total preguntas:** 20
+**Estado:** RAW — Requiere revisión humana
 **Licencia:** CC BY-NC-SA 4.0

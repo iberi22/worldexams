@@ -21,8 +21,8 @@
 
     <!-- Header / Close button -->
     <div class="flex items-center justify-end p-6 pb-0 relative z-10">
-      <button 
-        onclick={onClose} 
+      <button
+        onclick={onClose}
         class="w-10 h-10 flex items-center justify-center bg-white/5 hover:bg-white/10 border border-white/10 rounded-full text-white/50 hover:text-white transition-all hover:rotate-90"
         aria-label="Cerrar"
       >

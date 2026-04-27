@@ -522,4 +522,4 @@ La velocidad de un vehículo oscila entre 60 km/h y 120 km/h. El intervalo que r
 - [ ] A) {v ∈ ℝ | 60 < v < 120}
 - [ ] B) {v ∈ ℝ | 60 ≤ v < 120}
 - [x] C) {v ∈ ℝ | 60 ≤ v ≤ 120} <!-- correcta: los corchetes indican que ambos extremos están incluidos -->
-- [ ] D) {v ∈ ℝ | 60 > v > 
+- [ ] D) {v ∈ ℝ | 60 > v >

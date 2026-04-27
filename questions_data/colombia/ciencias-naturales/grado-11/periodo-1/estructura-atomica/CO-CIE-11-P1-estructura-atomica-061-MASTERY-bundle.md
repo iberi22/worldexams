@@ -434,4 +434,3 @@ Colombia ha mostrado interés en desarrollar tecnología nuclear con fines pací
 - [x] B) 92 protones, 143 neutrones, 92 electrones <!-- feedback: Correcto: U tiene Z=92; para U-235, neutrones = 235-92 = 143; en estado neutro tiene 92 electrones -->
 - [ ] C) 92 protones, 235 neutrones, 92 electrones
 - [ ] D) 143 protones, 92 neutrones, 143 electrones
-

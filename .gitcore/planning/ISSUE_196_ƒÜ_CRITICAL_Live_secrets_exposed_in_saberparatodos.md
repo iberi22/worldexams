@@ -2,7 +2,7 @@
 
 **GitHub Issue:** https://github.com/iberi22/worldexams/issues/196
 **Status:** Open
-**Labels:** 
+**Labels:**
 **Synced:** 2026-04-18 14:58
 
 ## Descripcion Original (GitHub)

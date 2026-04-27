@@ -41,7 +41,7 @@ Let me start generating:
 18. Very hard - Conditional with modal perfect
 19. Very hard - Complex conditional with embedded clause
 20. Very hard - Evaluate appropriateness of conditional type in context
-   
+
 I need to output only the JSON structure without additional commentary or explanation text.
 
 </think>

@@ -18,9 +18,9 @@ example_usage: |
 
 # Math Short Remotion Architect
 
-**Skill:** `math_short_remotion_architect`  
-**Version:** 1.0  
-**Pipeline role:** Renders the visual + caption layer for math explainer shorts  
+**Skill:** `math_short_remotion_architect`
+**Version:** 1.0
+**Pipeline role:** Renders the visual + caption layer for math explainer shorts
 **Monorepo path:** `skills/math_short_remotion_architect/`
 
 ---

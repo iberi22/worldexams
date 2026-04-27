@@ -17,7 +17,7 @@ async function detectCountryFromApi(clientIP: string): Promise<CountryCode | nul
   if (clientIP === '127.0.0.1' || clientIP === '::1') {
     return null;
   }
-  
+
   try {
     const res = await fetch(`https://ipapi.co/${clientIP}/country/`, {
       signal: AbortSignal.timeout(3000),
@@ -78,9 +78,9 @@ const CONTENT_COUNTRIES: CountryCode[] = countriesWithContent.map(c => c.code);
 
 export const onRequest = defineMiddleware(async (context, next) => {
   const url = new URL(context.request.url);
-  
+
   // Skip geo logic for API routes, static assets
-  const isInternalPath = 
+  const isInternalPath =
     url.pathname.startsWith('/api/') ||
     url.pathname.startsWith('/_astro/') ||
     url.pathname.startsWith('/dist/') ||
@@ -137,7 +137,7 @@ export const onRequest = defineMiddleware(async (context, next) => {
 
   // Continue to the page
   const response = await next();
-  
+
   const headers = new Headers(response.headers);
   const pathname = url.pathname;
   const contentSecurityPolicy = pathname.startsWith('/developers')

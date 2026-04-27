@@ -160,4 +160,3 @@
     <CommentsSection questionId={question.id} />
   </div>
 {/if}
-
