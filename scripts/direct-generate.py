@@ -279,31 +279,19 @@ grado: {grado}
 asignatura: "{subject}"
 tema: "{topic}"
 periodo: {periodo}
-protocol_version: "5.2"
-bundle_size: 20
-bundle_index: {bundle_index}
+protocol_version: "5.1"
+total_questions: 20
 alignment: "ICFES Saber 11 2026 + DBA MEN 2026"
-generation:
-  agent: "minimax-m2.7"
-  model: "MiniMax-M2.7"
-  timestamp: "{ts}"
-  prompt_version: "v3-async"
-quality_status: "UNREVISED"
-generation_status: "RAW"
-needs_human_review: true
-curation:
-  human_review_required: true
-  human_reviewed: false
-  agent_curated: false
-  community_curated: false
-  community_curation_count: 0
 license: "CC BY-NC-SA 4.0"
 open_source: false
 ---
 
 ## ESTRUCTURA DE CADA PREGUNTA (usa EXACTAMENTE este formato):
 
-## Question N (Variant Basic - Difficulty X)
+## Question N [D3-D4]   <- Difficulty marker REQUIRED in header
+## Question 5 [D5-D6]
+## Question 11 [D7-D8]
+## Question 17 [D9-D10]
 
 **ID:** `{bundle_id}-vN`
 **Bloom:** [Remember|Understand|Apply|Analyze|Evaluate|Create]
@@ -325,12 +313,14 @@ open_source: false
 ---
 
 ## REGLAS:
-1. Dificultad progresiva: D3-D4 (preguntas 1-4), D5-D6 (5-10), D7-D8 (11-16), D9-D10 (17-20)
-2. Distractores plausibles: errores reales de estudiantes colombianos
-3. Alineación ICFES: estilo real del examen Saber 11
-4. Contexto colombiano moderno
-5. 4 opciones obligatorias, [x] en la correcta
-6. Sin "todas las anteriores" o "ninguna de las anteriores"
+1. **EXACTAMENTE 20 preguntas** — no más, no menos
+2. Dificultad progresiva: D3-D4 (preguntas 1-4), D5-D6 (5-10), D7-D8 (11-16), D9-D10 (17-20)
+3. **Cada encabezado de pregunta DEBE tener marcador de dificultad**: [D3-D4], [D5-D6], [D7-D8], o [D9-D10]
+4. Distractores plausibles: errores reales de estudiantes colombianos
+5. Alineación ICFES: estilo real del examen Saber 11
+6. Contexto colombiano moderno
+7. 4 opciones obligatorias, [x] en la correcta
+8. Sin "todas las anteriores" o "ninguna de las anteriores"
 
 MATERIA: {subject_label} | Topic: {topic} | Periodo: {periodo} | Grado: {grado}
 

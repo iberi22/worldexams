@@ -252,6 +252,16 @@ function validateFile(filePath) {
     }
   }
 
+  // MASTERY bundle validation (20 questions + difficulty markers)
+  const isMastery = v5 || path.basename(filePath).toLowerCase().includes('mastery-bundle');
+  if (isMastery) {
+    // Validate total question count = 20
+    if (inferredQuestionCount !== 20) {
+      const msg = `Bundle MASTERY debe tener 20 preguntas (detectadas=${inferredQuestionCount})`;
+      addFinding('error', relFile, msg);
+    }
+  }
+
   if (bundleSections.length > 0) {
     for (let i = 0; i < bundleSections.length; i++) {
       const section = bundleSections[i];
@@ -261,6 +271,15 @@ function validateFile(filePath) {
       if (isPlaceholder) {
         addFinding('warning', relFile, `Pregunta #${sectionNum} marcada como placeholder; se omite validación estructural.`);
         continue;
+      }
+
+      // MASTERY: validate difficulty marker in question header
+      if (isMastery) {
+        const difficultyPattern = /^##\s+(?:Pregunta|Question)\s+\d+\s*\[D\d+[-–]D\d+\]/gim;
+        const dmMatch = difficultyPattern.exec(section);
+        if (!dmMatch) {
+          addFinding('warning', relFile, `Pregunta #${sectionNum} sin marcador de dificultad [D3-D4] en encabezado.`);
+        }
       }
 
       const ids = parseQuestionIdsFromSection(section);
