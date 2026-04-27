@@ -286,7 +286,7 @@ license: "CC BY-NC-SA 4.0"
 open_source: false
 ---
 
-## ESTRUCTURA DE CADA PREGUNTA (usa EXACTAMENTE este formato):
+## ESTRUCTURA DE CADA PREGUNTA (usa EXACTAMENTE este formato para CADA pregunta sin excepción):
 
 ## Question N [D3-D4]   <- Difficulty marker REQUIRED in header
 ## Question 5 [D5-D6]
@@ -312,15 +312,48 @@ open_source: false
 
 ---
 
-## REGLAS:
-1. **EXACTAMENTE 20 preguntas** — no más, no menos
-2. Dificultad progresiva: D3-D4 (preguntas 1-4), D5-D6 (5-10), D7-D8 (11-16), D9-D10 (17-20)
-3. **Cada encabezado de pregunta DEBE tener marcador de dificultad**: [D3-D4], [D5-D6], [D7-D8], o [D9-D10]
-4. Distractores plausibles: errores reales de estudiantes colombianos
-5. Alineación ICFES: estilo real del examen Saber 11
-6. Contexto colombiano moderno
-7. 4 opciones obligatorias, [x] en la correcta
-8. Sin "todas las anteriores" o "ninguna de las anteriores"
+## REGLAS CRÍTICAS (SIEMPRE seguir todas):
+1. **EXACTAMENTE 20 preguntas completas** — ni más, ni menos
+2. **Cada pregunta DEBE tener:** enunciado + 4 opciones (A,B,C,D) + explicación pedagógica
+3. **Última pregunta (Q20) DEBE tener** todos los campos completos igual que Q1
+4. **Si te acercas al límite, completa las preguntas que tengas antes de cortar**
+5. Dificultad progresiva: D3-D4 (preguntas 1-4), D5-D6 (5-10), D7-D8 (11-16), D9-D10 (17-20)
+6. **Cada encabezado de pregunta DEBE tener marcador de dificultad**: [D3-D4], [D5-D6], [D7-D8], o [D9-D10]
+7. Distractores plausibles: errores reales de estudiantes colombianos
+8. Alineación ICFES: estilo real del examen Saber 11
+9. Contexto colombiano moderno
+10. **4 opciones obligatorias por pregunta**, [x] en la correcta. NUNCA 2 opciones.
+11. Sin "todas las anteriores" o "ninguna de las anteriores"
+
+## ADVERTENCIA DE TOKEN LIMIT
+Si no puedes completar las 20 preguntas con contenido completo, GENERA MENOS PREGUNTAS pero todas con:
+- 4 opciones obligatorias [ ] A), [ ] B), [x] C), [ ] D)
+- Sección ### Explicación Pedagógica completa
+- El campo **Context:** con contenido real
+
+## EJEMPLO DE FORMATO CORRECTO:
+```
+## Question 1 [D3-D4]
+
+**ID:** `CO-MAT-11-P1-numeros-reales-001-v1`
+**Bloom:** [Understand]
+**ICFES:** [Competencia Comunicación]
+**Context:** En un mercado de Bogotá, un vendedor...
+
+### Enunciado
+Si √2 ≈ 1.41, ¿cuál es el mejor estimado para √8?
+
+### Options
+- [ ] A) 1.8
+- [ ] B) 2.4
+- [x] C) 2.82
+- [ ] D) 3.2
+
+### Explicación Pedagógica
+Para estimar √8, escribimos 8 = 4×2, entonces √8 = √4 × √2 ≈ 2 × 1.41 = 2.82...
+
+---
+```
 
 MATERIA: {subject_label} | Topic: {topic} | Periodo: {periodo} | Grado: {grado}
 
