@@ -2,7 +2,7 @@
 # =============================================================================
 # sync-issues.ps1 - GitCore Issue Sync Script
 # Sincroniza issues de GitHub hacia espejos locales en .gitcore/planning/
-# 
+#
 # Uso:
 #   powershell -File scripts/sync-issues.ps1                  # Sync todos los issues abiertos
 #   powershell -File scripts/sync-issues.ps1 -IssueNumber 230 # Sync un issue especifico

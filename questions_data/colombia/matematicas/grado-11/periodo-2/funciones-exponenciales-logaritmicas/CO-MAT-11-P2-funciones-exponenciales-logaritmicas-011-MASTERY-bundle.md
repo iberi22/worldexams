@@ -427,4 +427,4 @@ El dominio de la función f(x) = log₃(x - 2) es:
 - [ ] D) [2, ∞)
 
 ### Explicación Pedagógica
-La respuesta correcta es B. La condición para que un logaritmo esté definido es que su argumento sea estrictamente positivo: x - 2 > 0, entonces x > 
+La respuesta correcta es B. La condición para que un logaritmo esté definido es que su argumento sea estrictamente positivo: x - 2 > 0, entonces x >

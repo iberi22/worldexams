@@ -19,10 +19,10 @@ example_usage: |
 
 # Social Distribution Manager
 
-**Skill:** `social_distribution_manager`  
-**Version:** 1.0  
-**Pipeline role:** Publishes rendered short videos to social platforms and updates the distribution manifest  
-**Monorepo path:** `skills/social_distribution_manager/`  
+**Skill:** `social_distribution_manager`
+**Version:** 1.0
+**Pipeline role:** Publishes rendered short videos to social platforms and updates the distribution manifest
+**Monorepo path:** `skills/social_distribution_manager/`
 **Credential storage:** Backend-only; platform tokens must never reach frontend or logs
 
 ---

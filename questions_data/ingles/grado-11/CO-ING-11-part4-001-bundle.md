@@ -211,5 +211,3 @@ Choose the correct option for space (7).
 | 5 | CO-ING-11-part4-001-v5 | 3 | ⬜ |
 | 6 | CO-ING-11-part4-001-v6 | 5 | ⬜ |
 | 7 | CO-ING-11-part4-001-v7 | 5 | ⬜ |
-
-

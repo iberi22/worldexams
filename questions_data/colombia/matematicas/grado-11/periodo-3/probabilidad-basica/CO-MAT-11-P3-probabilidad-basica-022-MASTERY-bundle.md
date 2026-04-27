@@ -397,4 +397,4 @@ En el Museo del Oro de Bogotá, el 40% de los visitantes son extranjeros. De los
 ### Options
 - [ ] A) 0,24
 - [ ] B) 0,34
-- [x] C) 0,771428... <!-- feedback: Por Bayes: P(Ext|I) = (0,40 × 0,60) / (0,40 × 0,60 + 0,60 × 
+- [x] C) 0,771428... <!-- feedback: Por Bayes: P(Ext|I) = (0,40 × 0,60) / (0,40 × 0,60 + 0,60 ×

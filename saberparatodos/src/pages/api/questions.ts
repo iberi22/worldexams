@@ -263,7 +263,7 @@ export const GET: APIRoute = async ({ request, locals }) => {
       }),
       {
         status: 502,
-        headers: { 
+        headers: {
           'Content-Type': 'application/json',
           ...CORS_HEADERS,
         },

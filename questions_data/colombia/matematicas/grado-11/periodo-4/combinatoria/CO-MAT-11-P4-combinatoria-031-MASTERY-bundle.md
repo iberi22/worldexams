@@ -321,10 +321,10 @@ Se usa el principio de inclusión-exclusión:
 - Exactamente 4 mujeres: C(6,4) × C(8,1) = 15 × 8 = 120
 - Exactamente 5 mujeres: C(6,5) × C(8,0) = 6 × 1 = 6
 - Exactamente 6 mujeres: C(6,6) × C(8,-1) = 0
-Total: 840 + 560 + 120 + 6 = 1526... Revisando: 840+560=1400, +120=1520, +6=1526. Pero la opción correcta sugiere otra cuenta. 
+Total: 840 + 560 + 120 + 6 = 1526... Revisando: 840+560=1400, +120=1520, +6=1526. Pero la opción correcta sugiere otra cuenta.
 Con al menos 2 mujeres (2, 3, 4, 5):
 C(6,2)×C(8,3) = 15×56 = 840
-C(6,3)×C(8,2) = 20×28 = 560  
+C(6,3)×C(8,2) = 20×28 = 560
 C(6,4)×C(8,1) = 15×8 = 120
 C(6,5)×C(8,0) = 6×1 = 6
 Total = 1526. Las opciones no coinciden. Suponiendo los números dados, podemos verificar otra interpretación.

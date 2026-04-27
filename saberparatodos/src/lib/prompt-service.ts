@@ -491,7 +491,7 @@ export function generateStudyTipsPrompt(profile: UserProfileData): string {
  */
 export function generateAdaptiveAutoPrompt(profile: UserProfileData): string {
   const context = computeAdaptiveContext(profile);
-  
+
   switch (context.archetype) {
     case 'regressing':
     case 'slow_starter':
@@ -518,8 +518,8 @@ export function generatePrompt(
   data: ExamResultData | UserProfileData | { subject: string; accuracy: number; topics?: string[] }
 ): string {
   const profile = data as UserProfileData;
-  const context = (type !== 'exam_result' && type !== 'subject_focus' && type !== 'quick_review' && type !== 'preu_generation') 
-    ? computeAdaptiveContext(profile) 
+  const context = (type !== 'exam_result' && type !== 'subject_focus' && type !== 'quick_review' && type !== 'preu_generation')
+    ? computeAdaptiveContext(profile)
     : null;
 
   switch (type) {

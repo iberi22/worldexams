@@ -1,10 +1,10 @@
 # Issue Local Mirror: [MX] #230 - Investigación Curricular SEP/CENEVAL y Top 10 Universidades México
 
-**GitHub Issue:** https://github.com/iberi22/worldexams/issues/230  
-**Status:** Open  
-**Priority:** High  
-**Labels:** nuevo-pais, curriculo, enhancement  
-**Owner:** Agente (Generator + Architect)  
+**GitHub Issue:** https://github.com/iberi22/worldexams/issues/230
+**Status:** Open
+**Priority:** High
+**Labels:** nuevo-pais, curriculo, enhancement
+**Owner:** Agente (Generator + Architect)
 **Created:** 2026-04-18
 
 ## Resumen

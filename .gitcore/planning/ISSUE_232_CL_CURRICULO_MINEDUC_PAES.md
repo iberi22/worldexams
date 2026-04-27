@@ -1,10 +1,10 @@
 # Issue Local Mirror: [CL] #232 - Investigación Curricular MINEDUC / PAES-DEMRE Chile
 
-**GitHub Issue:** https://github.com/iberi22/worldexams/issues/232  
-**Status:** Open  
-**Priority:** High  
-**Labels:** nuevo-pais, curriculo, enhancement  
-**Owner:** Agente (Generator + Architect)  
+**GitHub Issue:** https://github.com/iberi22/worldexams/issues/232
+**Status:** Open
+**Priority:** High
+**Labels:** nuevo-pais, curriculo, enhancement
+**Owner:** Agente (Generator + Architect)
 **Created:** 2026-04-18
 
 ## Resumen

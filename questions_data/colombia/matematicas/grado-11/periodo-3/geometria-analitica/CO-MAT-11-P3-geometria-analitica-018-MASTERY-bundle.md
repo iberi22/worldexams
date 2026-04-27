@@ -378,4 +378,4 @@ Para la hipérbola x²/a² - y²/b² = 1: a² = 16 → a = 4, entonces los vért
 **Context:** Instalación de tuberías de agua en Cartagena
 
 ### Enunciado
-Un ingeniero civil en Cartagena debe diseñar una tubería de alcantarillado que pase por el punto P(2, 3) y sea perpendicular a la tubería principal dada por la ecuación 2x + y - 
+Un ingeniero civil en Cartagena debe diseñar una tubería de alcantarillado que pase por el punto P(2, 3) y sea perpendicular a la tubería principal dada por la ecuación 2x + y -

@@ -76,7 +76,7 @@ export const POST: APIRoute = async ({ request }) => {
       ts: Date.now(),
       exp: Date.now() + 10 * 60 * 1000,
     });
-    
+
     const verificationSig = await hmacSign(verificationPayload, CAPTCHA_SECRET);
     const verificationToken = btoa(verificationPayload) + '.' + verificationSig;
 

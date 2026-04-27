@@ -28,9 +28,9 @@ Selecciona la opción correcta para cada pregunta. Las preguntas aumentan de dif
 ### Pregunta 1
 **The _____ layer protects Earth from harmful ultraviolet radiation.**
 
-A) ozone *(x)*  
-B) oxygen *( )*  
-C) atmosphere *( )*  
+A) ozone *(x)*
+B) oxygen *( )*
+C) atmosphere *( )*
 D) sky *( )*
 
 **Respuesta correcta: A**
@@ -40,9 +40,9 @@ D) sky *( )*
 ### Pregunta 2
 **Fossil fuels, such as oil and coal, are _____ resources.**
 
-A) non-renewable *(x)*  
-B) renewable *( )*  
-C) sustainable *( )*  
+A) non-renewable *(x)*
+B) renewable *( )*
+C) sustainable *( )*
 D) green *( )*
 
 **Respuesta correcta: A**
@@ -52,9 +52,9 @@ D) green *( )*
 ### Pregunta 3
 **Recycling helps _____ the amount of waste sent to landfills.**
 
-A) reduce *(x)*  
-B) to reduce *( )*  
-C) reducing *( )*  
+A) reduce *(x)*
+B) to reduce *( )*
+C) reducing *( )*
 D) reduction *( )*
 
 **Respuesta correcta: A**
@@ -64,9 +64,9 @@ D) reduction *( )*
 ### Pregunta 4
 **Global warming causes ice caps to _____**
 
-A) melt *(x)*  
-B) freeze *( )*  
-C) grow *( )*  
+A) melt *(x)*
+B) freeze *( )*
+C) grow *( )*
 D) expand *( )*
 
 **Respuesta correcta: A**
@@ -76,9 +76,9 @@ D) expand *( )*
 ### Pregunta 5
 **Many animals are in danger of _____ due to poaching.**
 
-A) extinction *(x)*  
-B) extinct *( )*  
-C) die out *( )*  
+A) extinction *(x)*
+B) extinct *( )*
+C) die out *( )*
 D) disappearing *( )*
 
 **Respuesta correcta: A**
@@ -88,9 +88,9 @@ D) disappearing *( )*
 ### Pregunta 6
 **The _____ temperature of the planet has been rising steadily.**
 
-A) average *(x)*  
-B) mean *( )*  
-C) commonly *( )*  
+A) average *(x)*
+B) mean *( )*
+C) commonly *( )*
 D) usually *( )*
 
 **Respuesta correcta: A**
@@ -100,9 +100,9 @@ D) usually *( )*
 ### Pregunta 7
 **We need to find _____ solutions to environmental problems.**
 
-A) sustainable *(x)*  
-B) sustain *( )*  
-C) sustaining *( )*  
+A) sustainable *(x)*
+B) sustain *( )*
+C) sustaining *( )*
 D) sustenance *( )*
 
 **Respuesta correcta: A**
@@ -114,9 +114,9 @@ D) sustenance *( )*
 ### Pregunta 8
 **By 2030, the world aims to have _____ access to clean water and sanitation for all.**
 
-A) universal *(x)*  
-B) unique *( )*  
-C) united *( )*  
+A) universal *(x)*
+B) unique *( )*
+C) united *( )*
 D) uniform *( )*
 
 **Respuesta correcta: A**
@@ -126,9 +126,9 @@ D) uniform *( )*
 ### Pregunta 9
 **The Great Barrier Reef is experiencing coral bleaching, _____ it is threatening entire marine ecosystems.**
 
-A) which means *(x)*  
-B) that *( )*  
-C) what *( )*  
+A) which means *(x)*
+B) that *( )*
+C) what *( )*
 D) this *( )*
 
 **Respuesta correcta: A**
@@ -138,9 +138,9 @@ D) this *( )*
 ### Pregunta 10
 **Environmental activists have been campaigning _____ the construction of new coal plants.**
 
-A) against *(x)*  
-B) for *( )*  
-C) on *( )*  
+A) against *(x)*
+B) for *( )*
+C) on *( )*
 D) about *( )*
 
 **Respuesta correcta: A**
@@ -150,9 +150,9 @@ D) about *( )*
 ### Pregunta 11
 **If more people used public transportation, there _____ less air pollution in cities.**
 
-A) would be *(x)*  
-B) will be *( )*  
-C) would have *( )*  
+A) would be *(x)*
+B) will be *( )*
+C) would have *( )*
 D) will have *( )*
 
 **Respuesta correcta: A**
@@ -162,9 +162,9 @@ D) will have *( )*
 ### Pregunta 12
 **The United Nations established the Sustainable Development Goals (SDGs) to address global _____ by 2030.**
 
-A) challenges *(x)*  
-B) solutions *( )*  
-C) problems *( )*  
+A) challenges *(x)*
+B) solutions *( )*
+C) problems *( )*
 D) issues *( )*
 
 **Respuesta correcta: A**
@@ -174,9 +174,9 @@ D) issues *( )*
 ### Pregunta 13
 **Which statement about climate change is TRUE?**
 
-A) Human activities are the primary cause of recent global warming. *(x)*  
-B) Climate change is a natural cycle unrelated to human activity. *( )*  
-C) Global temperatures have been decreasing steadily. *( )*  
+A) Human activities are the primary cause of recent global warming. *(x)*
+B) Climate change is a natural cycle unrelated to human activity. *( )*
+C) Global temperatures have been decreasing steadily. *( )*
 D) The greenhouse effect is a new phenomenon. *( )*
 
 **Respuesta correcta: A**
@@ -186,9 +186,9 @@ D) The greenhouse effect is a new phenomenon. *( )*
 ### Pregunta 14
 **Carbon _____ is the process by which trees absorb CO2 from the atmosphere.**
 
-A) sequestration *(x)*  
-B) emission *( )*  
-C) footprint *( )*  
+A) sequestration *(x)*
+B) emission *( )*
+C) footprint *( )*
 D) offset *( )*
 
 **Respuesta correcta: A**
@@ -198,9 +198,9 @@ D) offset *( )*
 ### Pregunta 15
 **The polar ice caps are melting faster than scientists _____ predicted.**
 
-A) had *(x)*  
-B) would *( )*  
-C) could *( )*  
+A) had *(x)*
+B) would *( )*
+C) could *( )*
 D) should *( )*
 
 **Respuesta correcta: A**
@@ -212,9 +212,9 @@ D) should *( )*
 ### Pregunta 16
 **Not only _____ the scientists warned about the environmental risks, but governments also failed to take adequate measures.**
 
-A) did *(x)*  
-B) they *( )*  
-C) had *( )*  
+A) did *(x)*
+B) they *( )*
+C) had *( )*
 D) would *( )*
 
 **Respuesta correcta: A**
@@ -224,9 +224,9 @@ D) would *( )*
 ### Pregunta 17
 **The Paris Agreement represents a _____ effort by nations worldwide to address climate change through nationally determined contributions.**
 
-A) collaborative *(x)*  
-B) competitive *( )*  
-C) conflicting *( )*  
+A) collaborative *(x)*
+B) competitive *( )*
+C) conflicting *( )*
 D) condensed *( )*
 
 **Respuesta correcta: A**
@@ -236,9 +236,9 @@ D) condensed *( )*
 ### Pregunta 18
 **Had the Amazon rainforest not been destroyed at such a rapid rate, biodiversity in the region _____ much richer today.**
 
-A) would have been *(x)*  
-B) would be *( )*  
-C) would be *( )*  
+A) would have been *(x)*
+B) would be *( )*
+C) would be *( )*
 D) will have been *( )*
 
 **Respuesta correcta: A**
@@ -248,9 +248,9 @@ D) will have been *( )*
 ### Pregunta 19
 **Which sentence correctly uses relative clauses?**
 
-A) The Amazon rainforest, which is the largest in the world, is being deforested at alarming rates. *(x)*  
-B) The Amazon rainforest which is the largest in the world, is being deforested at alarming rates. *( )*  
-C) The Amazon rainforest, that is the largest in the world is being deforested at alarming rates. *( )*  
+A) The Amazon rainforest, which is the largest in the world, is being deforested at alarming rates. *(x)*
+B) The Amazon rainforest which is the largest in the world, is being deforested at alarming rates. *( )*
+C) The Amazon rainforest, that is the largest in the world is being deforested at alarming rates. *( )*
 D) The Amazon rainforest, which is the largest in the world is being, deforested at alarming rates. *( )*
 
 **Respuesta correcta: A**
@@ -260,9 +260,9 @@ D) The Amazon rainforest, which is the largest in the world is being, deforested
 ### Pregunta 20
 **Climate justice advocates argue that developing nations, which have contributed _____ to global emissions, should not bear the greatest burden of climate change impacts.**
 
-A) the least *(x)*  
-B) less *( )*  
-C) the fewer *( )*  
+A) the least *(x)*
+B) less *( )*
+C) the fewer *( )*
 D) fewer *( )*
 
 **Respuesta correcta: A**
