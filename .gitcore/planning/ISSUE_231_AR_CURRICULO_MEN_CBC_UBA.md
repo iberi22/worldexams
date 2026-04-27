@@ -1,10 +1,10 @@
 # Issue Local Mirror: [AR] #231 - Investigación Curricular MEN Argentina / CBC UBA
 
-**GitHub Issue:** https://github.com/iberi22/worldexams/issues/231  
-**Status:** Open  
-**Priority:** High  
-**Labels:** nuevo-pais, curriculo, enhancement  
-**Owner:** Agente (Generator + Translator)  
+**GitHub Issue:** https://github.com/iberi22/worldexams/issues/231
+**Status:** Open
+**Priority:** High
+**Labels:** nuevo-pais, curriculo, enhancement
+**Owner:** Agente (Generator + Translator)
 **Created:** 2026-04-18
 
 ## Resumen

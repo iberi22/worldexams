@@ -198,5 +198,3 @@ Read the description and choose the correct word:
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
-
-

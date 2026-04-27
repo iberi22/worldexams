@@ -756,4 +756,3 @@ class RoomState {
 
 // Exportar instancia singleton
 export const roomState = new RoomState();
-

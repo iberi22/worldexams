@@ -25,15 +25,15 @@ Usar este skill cuando una tarea incluya:
 
 ## Fuentes estandar externas (base tecnica)
 
-1. Jules - correr tareas desde GitHub Issues:  
+1. Jules - correr tareas desde GitHub Issues:
    `https://jules.google/docs/running-tasks/#starting-tasks-from-github-issues`
-2. Remotion (compositions/timeline/captions):  
+2. Remotion (compositions/timeline/captions):
    `https://www.remotion.dev/docs`
-3. WhisperX (word-level timing/alignment):  
+3. WhisperX (word-level timing/alignment):
    `https://github.com/m-bain/whisperX`
-4. Coqui XTTS v2 (voz/clonacion local):  
+4. Coqui XTTS v2 (voz/clonacion local):
    `https://docs.coqui.ai/en/latest/models/xtts.html`
-5. YouTube Data API uploads (publicacion controlada):  
+5. YouTube Data API uploads (publicacion controlada):
    `https://developers.google.com/youtube/v3/guides/uploading_a_video`
 
 ## Flujo operativo obligatorio

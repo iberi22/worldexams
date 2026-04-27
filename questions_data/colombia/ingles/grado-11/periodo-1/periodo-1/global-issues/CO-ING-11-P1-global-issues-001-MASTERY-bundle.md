@@ -52,7 +52,7 @@ The context clue "could easily suffer severe damage" requires an adjective imply
 ## Question 2 (Intermediate - Dificultad 4)
 **ID:** `CO-ING-11-P1-global-issues-001-MASTERY-v2`
 **Bloom:** Understand
-**ICFES:** Lexical Knowledge 
+**ICFES:** Lexical Knowledge
 **Expected_Success:** 0.65
 
 ### Enunciado
@@ -150,7 +150,7 @@ Read the text below and answer the questions that follow.
 **The Fast Fashion Dilemma**
 Fast fashion—the rapid production of inexpensive, trendy clothing—has revolutionized the retail industry. Brands like Zara, H&M, and Shein can design, produce, and distribute a garment globally in under three weeks. This model offers consumers affordable ways to participate in passing trends, democratizing style that was once exclusive to high-end runways.
 
-However, the hidden costs of this convenience are devastating. The textile industry is currently the second-largest polluter of clean water globally. To keep prices abnormally low, manufacturing is outsourced to developing nations where labor laws are lax, leading to sweatshop conditions and poverty wages for garment workers, overwhelmingly women. 
+However, the hidden costs of this convenience are devastating. The textile industry is currently the second-largest polluter of clean water globally. To keep prices abnormally low, manufacturing is outsourced to developing nations where labor laws are lax, leading to sweatshop conditions and poverty wages for garment workers, overwhelmingly women.
 
 Furthermore, the environmental footprint is massive. Fast fashion garments are often made of synthetic, petroleum-based fabrics like polyester, which shed microplastics into the ocean with every wash. Because the clothes are cheaply made and quickly go out of style, consumers treat them as disposable. As a result, millions of tons of textiles end up in landfills or are incinerated each year.
 
@@ -257,7 +257,7 @@ Students must recognize the essay's structure: it concedes a minor point (clothe
 **Expected_Success:** 0.28
 
 ### Enunciado
-The final sentence of the text asks: *"can sustainable fashion scale up enough to become the norm, or will the addictive allure of a five-dollar t-shirt continue to dictate the market?"* 
+The final sentence of the text asks: *"can sustainable fashion scale up enough to become the norm, or will the addictive allure of a five-dollar t-shirt continue to dictate the market?"*
 What tone does the author convey through this concluding question?
 
 ### Options

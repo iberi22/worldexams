@@ -210,4 +210,3 @@ creation_date: '2026-01-31'
 ![Future of Work Infographic](/infographics/english/future-of-work.png)
 
 > **Visual Summary:** Comparing career paths: Traditional Corporate Jobs (Predictable, Low Risk) vs. Entrepreneurship (High Risk, Innovation, Potential for Growth).
-

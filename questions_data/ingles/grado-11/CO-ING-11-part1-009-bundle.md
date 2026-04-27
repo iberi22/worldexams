@@ -177,4 +177,3 @@ What is the name of the technology that allows machines to learn from data and i
 | 5 | CO-ING-11-part1-009-v5 | 3 | ⬜ |
 | 6 | CO-ING-11-part1-009-v6 | 5 | ⬜ |
 | 7 | CO-ING-11-part1-009-v7 | 5 | ⬜ |
-

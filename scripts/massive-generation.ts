@@ -1,10 +1,10 @@
 /**
  * MASSIVE GENERATION ORCHESTRATOR
  * WorldExams - Grade 11 ICFES Bundle Generation
- * 
+ *
  * Uses multiple agents in parallel to generate MASTERY bundles
  * Protocol v5.1 - All bundles marked as UNREVISED for curation pipeline
- * 
+ *
  * Usage:
  *   node scripts/massive-generation.js --grade=11 --all
  *   node scripts/massive-generation.js --grade=11 --subject=matematicas
@@ -360,21 +360,21 @@ Genera las 20 preguntas siguiendo TODAS las reglas. El archivo debe empezar con 
 // Generation agent runner
 async function runAgent(task: GenerationTask): Promise<{ success: boolean; output?: string; error?: string }> {
   const prompt = generatePrompt(task.subject, task.grado, task.periodo, task.topic, task.bundleIndex);
-  
+
   // Get the agent info
   const agentInfo = AGENTS.find(a => a.name === task.agent) || AGENTS[0];
   const agentCmd = getAgentCommand(task.agent, prompt, task.subject);
-  
+
   console.log(`\n🚀 RUNNING: ${task.id}`);
   console.log(`   Agent: ${task.agent} (${agentInfo.model})`);
   console.log(`   Subject: ${task.subject}`);
   console.log(`   Topic: ${task.topic}`);
-  
+
   try {
     const { exec } = await import('child_process');
-    
+
     return new Promise((resolve) => {
-      exec(agentCmd, { 
+      exec(agentCmd, {
         cwd: WORLDEXAMS_ROOT,
         maxBuffer: 50 * 1024 * 1024, // 50MB buffer for large outputs
         timeout: 600000 // 10 min timeout for premium models
@@ -404,26 +404,26 @@ function getAgentCommand(agentName: string, prompt: string, subject: string): st
 async function generateBatch(batchSize: number = 5) {
   const queue = loadQueue();
   const pendingTasks = queue.tasks.filter(t => t.status === 'pending');
-  
+
   console.log(`\n📦 GENERATION BATCH`);
   console.log(`   Pending tasks: ${pendingTasks.length}`);
   console.log(`   Running: ${batchSize} in parallel`);
   console.log('='.repeat(50));
-  
+
   let completed = 0;
   let failed = 0;
-  
+
   // Process in chunks
   for (let i = 0; i < Math.min(batchSize, pendingTasks.length); i += batchSize) {
     const chunk = pendingTasks.slice(i, i + batchSize);
-    
+
     const promises = chunk.map(async (task) => {
       // Mark as running
       task.status = 'running';
       saveQueue(queue);
-      
+
       const result = await runAgent(task);
-      
+
       if (result.success) {
         task.status = 'completed';
         task.completedAt = new Date().toISOString();
@@ -437,24 +437,24 @@ async function generateBatch(batchSize: number = 5) {
         failed++;
         console.log(`\n❌ FAILED: ${task.id} - ${result.error}`);
       }
-      
+
       saveQueue(queue);
       return task;
     });
-    
+
     await Promise.all(promises);
   }
-  
+
   console.log(`\n${'='.repeat(50)}`);
   console.log(`📊 BATCH COMPLETE`);
   console.log(`   Completed: ${completed}`);
   console.log(`   Failed: ${failed}`);
   console.log(`   Remaining: ${pendingTasks.length - completed - failed}`);
-  
+
   // Save history
   const historyPath = path.join(HISTORY_DIR, `batch-${Date.now()}.json`);
   fs.writeFileSync(historyPath, JSON.stringify(queue, null, 2));
-  
+
   return { completed, failed };
 }
 
@@ -463,23 +463,23 @@ const args = process.argv.slice(2);
 
 async function main() {
   const command = args[0];
-  
+
   if (command === '--init' || command === '--setup') {
     // Initialize queue with all Grade 11 topics
     console.log('🎯 Initializing Grade 11 Generation Queue...\n');
     console.log('Using premium models for maximum quality:\n');
     AGENTS.forEach((a, i) => console.log(`   ${i + 1}. ${a.name} (${a.model})`));
     console.log('');
-    
+
     const tasks: Omit<GenerationTask, 'id' | 'status' | 'createdAt'>[] = [];
-    
+
     let taskNum = 0;
     let bundleNum = 1;
-    
+
     for (const [subject, periods] of Object.entries(TOPICS)) {
       for (const [periodStr, topics] of Object.entries(periods)) {
         const period = parseInt(periodStr);
-        
+
         for (const topic of topics) {
           // Queue 2 bundles per topic (can increase later)
           for (let idx = 1; idx <= 2; idx++) {
@@ -492,14 +492,14 @@ async function main() {
               bundleIndex: bundleNum,
               agent: agent.name
             });
-            
+
             taskNum++;
             bundleNum++;
           }
         }
       }
     }
-    
+
     const added = addTasks(tasks);
     console.log(`\n✅ Added ${added} generation tasks to queue`);
     console.log(`\nAgent distribution:`);
@@ -507,7 +507,7 @@ async function main() {
       const count = tasks.filter(t => t.agent === agent.name).length;
       console.log(`   ${agent.name}: ${count}`);
     }
-    
+
   } else if (command === '--status') {
     const queue = loadQueue();
     console.log(`\n📋 GENERATION QUEUE STATUS`);
@@ -517,11 +517,11 @@ async function main() {
     console.log(`   Running: ${queue.tasks.filter(t => t.status === 'running').length}`);
     console.log(`   Completed: ${queue.tasks.filter(t => t.status === 'completed').length}`);
     console.log(`   Failed: ${queue.tasks.filter(t => t.status === 'failed').length}`);
-    
+
   } else if (command === '--run') {
     const batchSize = parseInt(args.find(a => a.startsWith('--batch='))?.split('=')[1] || '5');
     await generateBatch(batchSize);
-    
+
   } else if (command === '--subject') {
     const subject = args.find(a => a.startsWith('--subject='))?.split('=')[1];
     if (subject && TOPICS[subject]) {
@@ -531,7 +531,7 @@ async function main() {
       console.log(`   Pending: ${subjectTasks.filter(t => t.status === 'pending').length}`);
       console.log(`   Completed: ${subjectTasks.filter(t => t.status === 'completed').length}`);
     }
-    
+
   } else {
     console.log(`
 🎯 WorldExams Massive Generation Orchestrator

@@ -57,7 +57,7 @@ try {
     $stdout = $proc.StandardOutput.ReadToEnd()
     $stderr = Get-Content $errLog -EA SilentlyContinue
     Remove-Item $errLog -EA SilentlyContinue
-    
+
     if ($proc.ExitCode -eq 0 -and $stdout -match "OK:") {
         $importTest.Passed = $true
         $importTest.Details = "Exports found: $($matches[0] -replace 'OK:','')"

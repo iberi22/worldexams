@@ -15,4 +15,3 @@ export const CO_ICFES_2026_BENCHMARK: IcfesBenchmarkConfig = {
   goalScore: 300,
   sourceNote: 'Referencia local temporal mientras producto define el benchmark oficial.'
 };
-

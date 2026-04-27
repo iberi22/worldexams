@@ -1,10 +1,10 @@
 # Issue Local Mirror: [BR] #235 - Investigação Curricular MEC/BNCC e ENEM Brasil
 
-**GitHub Issue:** https://github.com/iberi22/worldexams/issues/235  
-**Status:** Open  
-**Priority:** High  
-**Labels:** nuevo-pais, curriculo, enhancement  
-**Owner:** Agente (Generator + Translator)  
+**GitHub Issue:** https://github.com/iberi22/worldexams/issues/235
+**Status:** Open
+**Priority:** High
+**Labels:** nuevo-pais, curriculo, enhancement
+**Owner:** Agente (Generator + Translator)
 **Created:** 2026-04-18
 
 ## Resumo

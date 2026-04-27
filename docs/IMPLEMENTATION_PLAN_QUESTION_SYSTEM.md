@@ -99,16 +99,16 @@ interface Question {
 
 class QuestionGeneratorAgent {
   private model: Gemini;
-  
+
   async generateFromTopic(topic: string, count: number): Promise<Question[]> {
     const prompt = this.buildPrompt(topic, count);
     const response = await this.model.generateContent(prompt);
     return this.parseResponse(response);
   }
-  
+
   private buildPrompt(topic: string, count: number): string {
     return `Generate ${count} high-quality multiple choice questions about "${topic}".
-    
+
     For each question include:
     - Clear, unambiguous text
     - 4 options (A, B, C, D)
@@ -116,7 +116,7 @@ class QuestionGeneratorAgent {
     - Detailed explanation
     - Difficulty level
     - Topic category
-    
+
     Format as JSON array.`;
   }
 }
@@ -141,7 +141,7 @@ class QuestionEvaluator {
     const difficulty = this.checkDifficulty(question);
     const accuracy = this.checkAccuracy(question);
     const uniqueness = this.checkUniqueness(question);
-    
+
     return {
       clarity,
       difficulty,
@@ -150,7 +150,7 @@ class QuestionEvaluator {
       overall: (clarity + difficulty + accuracy + uniqueness) / 4
     };
   }
-  
+
   private checkClarity(q: Question): number {
     // Algorithm to check question clarity
     // - Word count
@@ -168,12 +168,12 @@ class QuestionEvaluator {
 class QuestionImprover {
   async improve(question: Question, feedback: UserFeedback): Promise<Question> {
     const metrics = this.evaluator.evaluate(question);
-    
+
     if (metrics.overall < 70) {
       // Regenerate with feedback
       return this.regenerate(question, feedback);
     }
-    
+
     // Apply specific improvements
     if (metrics.clarity < 70) {
       question = await this.improveClarity(question);
@@ -181,7 +181,7 @@ class QuestionImprover {
     if (metrics.difficulty < 50 || metrics.difficulty > 90) {
       question = await this.normalizeDifficulty(question);
     }
-    
+
     return question;
   }
 }
@@ -200,21 +200,21 @@ export const QuestionVideo: Composition = {
   fps: 30,
   width: 1080,
   height: 1920,
-  
+
   layers: [
     // Background
     { type: 'solid', color: '#1a1a2e' },
-    
+
     // Question text
     { type: 'text', text: '{{question}}', position: { x: 100, y: 300 } },
-    
+
     // Options
     ...options.map((opt, i) => ({
       type: 'text',
       text: opt.text,
       position: { x: 100, y: 600 + i * 150 }
     })),
-    
+
     // Explanation (appears after answer)
     { type: 'text', text: '{{explanation}}', position: { x: 100, y: 1200 } }
   ]

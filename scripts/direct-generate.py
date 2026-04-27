@@ -37,10 +37,6 @@ else:
     print("  ⚠️ Validator skill not found - skipping validation")
 
 
-# ── Post-generation review trigger ──────────────────────────────
-_REVIEW_QUEUE_FILE = WORLDEXAMS_ROOT / ".worldexams" / "generation" / "review_queue.jsonl"
-
-
 def _trigger_review(bundle_path: str, subject: str = None, grado: int = None):
     """
     Queue a valid bundle for deep review via worldexams-question-reviewer skill.
@@ -166,6 +162,7 @@ sys.stderr.reconfigure(encoding="utf-8")
 
 WORLDEXAMS_ROOT = Path(r"E:\scripts-python\worldexams")
 QUEUE_FILE = WORLDEXAMS_ROOT / ".worldexams" / "generation" / "queue.json"
+_REVIEW_QUEUE_FILE = WORLDEXAMS_ROOT / ".worldexams" / "generation" / "review_queue.jsonl"
 API_KEY = os.environ.get("MINIMAX_API_KEY", "")
 
 # MiniMax primary (500 RPM — we fire many concurrent requests)
@@ -472,8 +469,12 @@ async def process_task_async(session, task, endpoint, semaphore):
             # Validate the saved bundle — FAIL if invalid
             if _validator and output_path:
                 vr = _validator.validate_file(str(output_path))
+                issue_count = len(vr.issues)
+                warning_count = len(vr.warnings)
                 if vr.valid:
-                    print(f"  ✅ Validated: {vr.valid_count} questions, {vr.issue_count} issues")
+                    print(
+                        f"  ✅ Validated: {20 - issue_count} questions OK, {issue_count} issues, {warning_count} warnings"
+                    )
                     # Trigger async review via the worldexams-question-reviewer skill
                     _trigger_review(str(output_path), subject=task["subject"], grado=task["grado"])
                     update_task_status(task_id, "completed", output_path=output_path)

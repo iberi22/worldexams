@@ -1,7 +1,7 @@
 /**
  * bundle-to-video.js
  * Connect WorldExams math bundle to video generation pipeline
- * 
+ *
  * Usage: node scripts/bundle-to-video.js --question_id=CO-MAT-10-real-numbers-001-PRO-v1 --limit=1
  */
 
@@ -63,14 +63,14 @@ async function generateVideo(question) {
   const qid = question.question_id;
   const payload = question.payload || {};
   const content = payload.content || {};
-  
+
   const statement = content.statement || '';
   const explanation = content.explanation || '';
   const narration_script = content.narration_script || '';
-  
+
   console.log(`\n🎬 Generating video for: ${qid}`);
   console.log(`   Statement: ${statement.substring(0, 60)}...`);
-  
+
   // Create job file for generate-videos-fallback.py
   const job = {
     question_id: qid,
@@ -84,24 +84,24 @@ async function generateVideo(question) {
       final_video_path: `renders/${qid}.mp4`
     }
   };
-  
+
   // Create .assets directory structure
-  const bundleDir = path.join(PROJECT_ROOT, 'src', 'content', 'questions', 'colombia', 'matematicas', 
+  const bundleDir = path.join(PROJECT_ROOT, 'src', 'content', 'questions', 'colombia', 'matematicas',
     'grado-11', 'periodo-1', 'numeros-reales', `${qid}.assets`);
   ensureDir(bundleDir);
   ensureDir(path.join(bundleDir, 'audio'));
   ensureDir(path.join(bundleDir, 'timings'));
   ensureDir(path.join(bundleDir, 'subtitles'));
   ensureDir(path.join(bundleDir, 'renders'));
-  
+
   const jobPath = path.join(bundleDir, 'job.json');
   writeJson(jobPath, job);
-  
+
   console.log(`   Job file: ${jobPath}`);
-  
+
   // Run generate-videos-fallback.py
   const result = runCmd('python', [FALLBACK_SCRIPT, '--job', jobPath, '--force']);
-  
+
   if (result.ok) {
     console.log(`   ✅ Video generated`);
     addToProductionQueue(qid, 'generated');
@@ -118,25 +118,25 @@ async function main() {
   const limitArg = args.find(a => a.startsWith('--limit='));
   const qidArg = args.find(a => a.startsWith('--question_id='));
   const limit = limitArg ? parseInt(limitArg.split('=')[1]) : 1;
-  
+
   ensureDir(OUTPUT_DIR);
-  
+
   const queue = readJson(QUEUE_FILE);
   const items = queue.items || [];
-  
+
   console.log(`\n📋 Bundle-to-Video Pipeline`);
   console.log(`   Total pending: ${items.length}`);
   console.log(`   Limit: ${limit}`);
   console.log('─'.repeat(50));
-  
-  const toProcess = qidArg 
+
+  const toProcess = qidArg
     ? items.filter(i => i.question_id === qidArg.split('=')[1])
     : items.slice(0, limit);
-  
+
   for (const item of toProcess) {
     await generateVideo(item);
   }
-  
+
   console.log(`\n✅ Pipeline complete. Processed ${toProcess.length} questions.`);
 }
 

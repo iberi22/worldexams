@@ -277,7 +277,7 @@ La respuesta correcta es B. El pensamiento crítico exige verificar la fuente y 
 **Context:** Debate sobre autonomía universitaria en medios colombianos
 
 ### Enunciado
-"Un rector de universidad pública afirma: 'Si usted es un verdadero colombiano, debería apoyar la educación pública universitaria'. La estructura lógica de este argumento se clasifica como:" 
+"Un rector de universidad pública afirma: 'Si usted es un verdadero colombiano, debería apoyar la educación pública universitaria'. La estructura lógica de este argumento se clasifica como:"
 
 ### Options
 - [ ] A) Argumento deductivo válido

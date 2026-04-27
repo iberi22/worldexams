@@ -6,7 +6,7 @@
 - **Script:** `node scripts/curation-agent.ts --review --limit=20`
 - **Result:** Processed 20 bundles
   - Approved: 3 ✅
-  - Rejected: 4 ❌  
+  - Rejected: 4 ❌
   - Needs Human: 13 ⚠️
 - **Key issue:** Many bundles have `Expected 20 questions, found 0` — the question count regex doesn't match the bundle format (uses `## Question N` vs `## Question` pattern). Root cause is bundles that follow the 2024-format (no `## Question N` headers visible to the script).
 - **Remaining:** 199 bundles still pending review

@@ -39,10 +39,10 @@ En un pueblo de la Guajira, los habitantes contaban que una mañana de marzo apa
 ### Pregunta 1 (D3 — Literal)
 **¿Qué encontraron los habitantes del pueblo en la playa?**
 
-A) Un hombre vivo con las manos heridas  
-B) Un hombre muerto con las manos atadas  
-C) Un niño perdido que lloraba  
-D) Un cadáver sin rostro ni anillos  
+A) Un hombre vivo con las manos heridas
+B) Un hombre muerto con las manos atadas
+C) Un niño perdido que lloraba
+D) Un cadáver sin rostro ni anillos
 
 **[x] B**
 
@@ -51,10 +51,10 @@ D) Un cadáver sin rostro ni anillos
 ### Pregunta 2 (D3 — Literal)
 **¿Qué hizo la mujer vieja al reconocer el anillo?**
 
-A) Alertó a la policía inmediatamente  
-B) Rogó durante cuarenta días en la iglesia  
-C) Escribió una carta al cura  
-D) Buscó al hombre por toda la Guajira  
+A) Alertó a la policía inmediatamente
+B) Rogó durante cuarenta días en la iglesia
+C) Escribió una carta al cura
+D) Buscó al hombre por toda la Guajira
 
 **[x] B**
 
@@ -63,10 +63,10 @@ D) Buscó al hombre por toda la Guajira
 ### Pregunta 3 (D5 — Inferencial)
 **¿Por qué la mujer vieja rogó en la iglesia según el texto?**
 
-A) Porque quería que su hijo fuera a la guerra  
-B) Porque pedía un milagro para que su hijo volviera  
-C) Porque tenía miedo de los peces  
-D) Porque el cura se lo ordenó  
+A) Porque quería que su hijo fuera a la guerra
+B) Porque pedía un milagro para que su hijo volviera
+C) Porque tenía miedo de los peces
+D) Porque el cura se lo ordenó
 
 **[x] B**
 
@@ -75,10 +75,10 @@ D) Porque el cura se lo ordenó
 ### Pregunta 4 (D4 — Literal)
 **¿Qué indica el hecho de que "nadie le creyó" cuando reconoció el anillo?**
 
-A) Que la mujer tenía problemas mentales  
-B) Que el anillo no era de su hijo  
-C) Que la comunidad desconfiaba de sus palabras  
-D) Que la policía ya había identificado el cuerpo  
+A) Que la mujer tenía problemas mentales
+B) Que el anillo no era de su hijo
+C) Que la comunidad desconfiaba de sus palabras
+D) Que la policía ya había identificado el cuerpo
 
 **[x] C**
 
@@ -87,10 +87,10 @@ D) Que la policía ya había identificado el cuerpo
 ### Pregunta 5 (D5 — Inferencial)
 **¿Cuál es la intención del narrador al presentar dos versiones opuestas al final — "milagro" del cura vs. "demonio" de los vecinos?**
 
-A) Demostrar que la religión católica es superior  
-B) Generar duda sobre la naturaleza de lo ocurrido sin dar una respuesta absoluta  
-C) Mostrar que la mujer mentía sobre la identidad del hombre  
-D) Confirmar que el hombre efectivamente era el hijo de la mujer  
+A) Demostrar que la religión católica es superior
+B) Generar duda sobre la naturaleza de lo ocurrido sin dar una respuesta absoluta
+C) Mostrar que la mujer mentía sobre la identidad del hombre
+D) Confirmar que el hombre efectivamente era el hijo de la mujer
 
 **[x] B**
 
@@ -107,10 +107,10 @@ Cuando el jaguar se comió a la luna, todos los animales del bosque quedaron sum
 ### Pregunta 6 (D5 — Inferencial)
 **¿Qué le ocurrió a la luna según el relato?**
 
-A) Se escondió detrás de las montañas  
-B) Fue comida por un jaguar  
-C) Se apagó por voluntad propia  
-D) Cayó al suelo del bosque  
+A) Se escondió detrás de las montañas
+B) Fue comida por un jaguar
+C) Se apagó por voluntad propia
+D) Cayó al suelo del bosque
 
 **[x] B**
 
@@ -119,10 +119,10 @@ D) Cayó al suelo del bosque
 ### Pregunta 7 (D5 — Inferencial)
 **¿Cuál era la reacción de los monos y los loros ante la oscuridad?**
 
-A) Se escondían bajo las piedras con las serpientes  
-B) Los monos gritaban y los loros volaban en círculos sin rumbo  
-C) Los monos y los loros  
-D) Los monos aplaudían y los loros gritaban de alegría  
+A) Se escondían bajo las piedras con las serpientes
+B) Los monos gritaban y los loros volaban en círculos sin rumbo
+C) Los monos y los loros
+D) Los monos aplaudían y los loros gritaban de alegría
 
 **[x] B**
 
@@ -131,10 +131,10 @@ D) Los monos aplaudían y los loros gritaban de alegría
 ### Pregunta 8 (D6 — Inferencial)
 **¿Por qué los animales siguieron al mapache?**
 
-A) Porque el mapache les gritó que lo siguieran  
-B) Porque creían que él sabía cómo restaurar la luna  
-C) Porque el mapache era el rey del bosque  
-D) Porque las serpientes se lo ordenaron  
+A) Porque el mapache les gritó que lo siguieran
+B) Porque creían que él sabía cómo restaurar la luna
+C) Porque el mapache era el rey del bosque
+D) Porque las serpientes se lo ordenaron
 
 **[x] B**
 
@@ -143,10 +143,10 @@ D) Porque las serpientes se lo ordenaron
 ### Pregunta 9 (D6 — Inferencial)
 **¿Qué revela la  del mapache sobre su carácter?**
 
-A) Era un animal ignorante e imprudente  
-B) Era un animal astuto que fingía serenidad  
-C) Era un animal cauteloso y experimentado  
-D) Era un animal sabio y consciente del orden natural  
+A) Era un animal ignorante e imprudente
+B) Era un animal astuto que fingía serenidad
+C) Era un animal cauteloso y experimentado
+D) Era un animal sabio y consciente del orden natural
 
 **[x] C**
 
@@ -155,10 +155,10 @@ D) Era un animal sabio y consciente del orden natural
 ### Pregunta 10 (D6 — Inferencial)
 **¿Qué critica implícitamente el texto de Monterroso a través de la  del mapache y los demás animales?**
 
-A) La falta de preparación de los animales del bosque  
-B) La tendencia humana a seguir a quienes parecen saber más, sin cuestionar  
-C) La superioridad del jaguar sobre los otros animales  
-D) La necesidad de tener líderes en toda comunidad  
+A) La falta de preparación de los animales del bosque
+B) La tendencia humana a seguir a quienes parecen saber más, sin cuestionar
+C) La superioridad del jaguar sobre los otros animales
+D) La necesidad de tener líderes en toda comunidad
 
 **[x] B**
 
@@ -175,10 +175,10 @@ En las montañas de Nariño se cuenta que el padre Alberto bajó un día al pueb
 ### Pregunta 11 (D7 — Crítico)
 **¿Qué llevaba atado a la cintura el padre Alberto cuando bajó al pueblo?**
 
-A) Un cuchillo y un frasco de vino  
-B) Una bala de morphine  
-C) Un libro sagrado y un rosario  
-D) Dinero y documentos  
+A) Un cuchillo y un frasco de vino
+B) Una bala de morphine
+C) Un libro sagrado y un rosario
+D) Dinero y documentos
 
 **[x] B**
 
@@ -187,10 +187,10 @@ D) Dinero y documentos
 ### Pregunta 12 (D7 — Inferencial)
 **¿Cuál fue el resultado de tomar la medicina para los más enfermos?**
 
-A) Todos murieron en tres días  
-B) Ninguno se recuperó  
-C) Los que la tomaron sanaron en tres días  
-D) Los enfermos empeoraron inmediatamente  
+A) Todos murieron en tres días
+B) Ninguno se recuperó
+C) Los que la tomaron sanaron en tres días
+D) Los enfermos empeoraron inmediatamente
 
 **[x] C**
 
@@ -199,10 +199,10 @@ D) Los enfermos empeoraron inmediatamente
 ### Pregunta 13 (D7 — Critico)
 **¿Qué sugiere el hecho de que "el padre Alberto nunca explicó por qué la medicina no alcanzó para todos"?**
 
-A) Que el padre Alberto era generoso pero desorganizado  
-B) Que la cantidad de medicine era intencionalmente limitada  
-C) Que el padre Alberto desconocía la cantidad de enfermos  
-D) Que la medicina no era efectiva  
+A) Que el padre Alberto era generoso pero desorganizado
+B) Que la cantidad de medicine era intencionalmente limitada
+C) Que el padre Alberto desconocía la cantidad de enfermos
+D) Que la medicina no era efectiva
 
 **[x] B**
 
@@ -211,10 +211,10 @@ D) Que la medicina no era efectiva
 ### Pregunta 14 (D8 — Critico)
 **¿Qué indican las dos versiones contrapuestas — "nunca tuvo la intención" vs. "la morphine estaba envenenada"?**
 
-A) Que la leyenda no tiene un único significado moral  
-B) Que el padre Alberto era claramente un criminal  
-C) Que la morphine era exclusivamente medicinal  
-D) Que los enfermos murieron por falta de fe  
+A) Que la leyenda no tiene un único significado moral
+B) Que el padre Alberto era claramente un criminal
+C) Que la morphine era exclusivamente medicinal
+D) Que los enfermos murieron por falta de fe
 
 **[x] A**
 
@@ -223,10 +223,10 @@ D) Que los enfermos murieron por falta de fe
 ### Pregunta 15 (D8 — Crítico)
 **¿Cuál es la posición del narrador frente a los hechos relatados?**
 
-A) Toma partido por los enfermos y critica al padre Alberto  
-B) Mantiene una distancia neutral, presentando hechos sin juzgarlos  
-C) Defiende al padre Alberto y justifica sus acciones  
-D) Sugiere que los enfermos merecen lo que les pasó  
+A) Toma partido por los enfermos y critica al padre Alberto
+B) Mantiene una distancia neutral, presentando hechos sin juzgarlos
+C) Defiende al padre Alberto y justifica sus acciones
+D) Sugiere que los enfermos merecen lo que les pasó
 
 **[x] B**
 
@@ -243,10 +243,10 @@ El colonel esperaba la carta desde hacía cuarenta años. Cada viernes iba a la 
 ### Pregunta 16 (D8 — Critico)
 **¿Desde hacía cuántos años esperaba el colonel la carta?**
 
-A) Ocho años  
-B) Quince años  
-C) Treinta años  
-D) Cuarenta años  
+A) Ocho años
+B) Quince años
+C) Treinta años
+D) Cuarenta años
 
 **[x] D**
 
@@ -255,10 +255,10 @@ D) Cuarenta años
 ### Pregunta 17 (D9 — Crítico)
 **¿Por qué el colonel "soltó una carcajada" al leer la carta?**
 
-A) Porque la carta contenía una broma de su hijo  
-B) Porque la respuesta era absurda e irónica después de tanta espera  
-C) Porque finalmente había recibido la pensión completa  
-D) Porque el abogado lewishizo una visita  
+A) Porque la carta contenía una broma de su hijo
+B) Porque la respuesta era absurda e irónica después de tanta espera
+C) Porque finalmente había recibido la pensión completa
+D) Porque el abogado lewishizo una visita
 
 **[x] B**
 
@@ -267,10 +267,10 @@ D) Porque el abogado lewishizo una visita
 ### Pregunta 18 (D9 — Inferencial)
 **¿Qué representa simbólicamente la risa del colonel al final del fragmento?**
 
-A) Alegría genuina por recibir noticias  
-B) Derrota emocional acumulada que se libera como locura  
-C) Celebración por ganar la guerra  
-D) Indiferencia ante la muerte de su esposa  
+A) Alegría genuina por recibir noticias
+B) Derrota emocional acumulada que se libera como locura
+C) Celebración por ganar la guerra
+D) Indiferencia ante la muerte de su esposa
 
 **[x] B**
 
@@ -279,10 +279,10 @@ D) Indiferencia ante la muerte de su esposa
 ### Pregunta 19 (D9 — Crítico)
 **¿Cómo utiliza García Márquez el recurso de la espera prolongada para construir el significado del texto?**
 
-A) Para mostrar que la paciencia siempre tiene recompensa  
-B) Para evidenciar cómo la espera sistemática destruye la dignidad humana  
-C) Para demostrar que los procesos legales son justos  
-D) Para criticar a los empleados de correos  
+A) Para mostrar que la paciencia siempre tiene recompensa
+B) Para evidenciar cómo la espera sistemática destruye la dignidad humana
+C) Para demostrar que los procesos legales son justos
+D) Para criticar a los empleados de correos
 
 **[x] B**
 
@@ -291,10 +291,10 @@ D) Para criticar a los empleados de correos
 ### Pregunta 20 (D10 — Crítico)
 **El fragmento termina con la frase: "La guerra, la pensión, la esposa, el hijo, la espera de cuarenta años — todo cabía en aquella risa." ¿Qué función cumple esta oración en la estructura del texto?**
 
-A) Resume cronológicamente los eventos para facilitar la comprensión  
-B) Sintetiza en un solo gesto todos los conflictos del colonel, mostrando su acumulación existencial  
-C) Indica que el colonel finalmente aceptó su derrota  
-D) Confirma que el hijo del colonel también había muerto  
+A) Resume cronológicamente los eventos para facilitar la comprensión
+B) Sintetiza en un solo gesto todos los conflictos del colonel, mostrando su acumulación existencial
+C) Indica que el colonel finalmente aceptó su derrota
+D) Confirma que el hijo del colonel también había muerto
 
 **[x] B**
 

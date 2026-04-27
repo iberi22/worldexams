@@ -48,7 +48,7 @@ function parseQuestions(body) {
     const start = matches[i].index;
     const end = i + 1 < matches.length ? matches[i + 1].index : body.length;
     const section = body.slice(start, end);
-    
+
     const idMatch = section.match(/(?:\*\*ID:\*\*|ID:)\s*(?:`([^`]+)`|"([^"]+)"|([A-Za-z0-9._:-]+))/);
     const id = idMatch ? (idMatch[1] || idMatch[2] || idMatch[3]) : `q-${i}`;
 
@@ -62,7 +62,7 @@ function parseQuestions(body) {
     const options = [];
     const optionRegex = /^\s*-\s*\[([x ])\]\s*(?:\*\*)?([A-Z])(?:\*\*)?(?:\s*[\)\.\-:]\s*)?(.*)$/gm;
     let optMatch;
-    
+
     while ((optMatch = optionRegex.exec(section)) !== null) {
       const isCorrect = optMatch[1].toLowerCase() === 'x';
       const letter = optMatch[2];
@@ -88,7 +88,7 @@ for (const file of grade11Files) {
   try {
     const { data, content } = matter.read(file);
     const protocol = parseProtocol(data, file);
-    
+
     // Filter by Protocol 4+
     if (!protocol || protocol < 4) continue;
 
@@ -114,10 +114,10 @@ for (const file of grade11Files) {
 for (const [subject, periods] of Object.entries(bySubjectAndPeriod)) {
   report += `ASIGNATURA: ${subject.toUpperCase()}\n`;
   report += `----------------------------------------------------------------\n`;
-  
+
   for (const [period, questions] of Object.entries(periods).sort((a, b) => a[0] - b[0])) {
     report += `### PERIODO ${period} (${questions.length} preguntas)\n\n`;
-    
+
     questions.forEach((q, idx) => {
       report += `${idx + 1}. [ID: ${q.id}] [Diff: ${q.difficulty}] [Protocol: ${q.protocol}]\n`;
       report += `   Enunciado: ${q.statement.slice(0, 150)}${q.statement.length > 150 ? '...' : ''}\n`;

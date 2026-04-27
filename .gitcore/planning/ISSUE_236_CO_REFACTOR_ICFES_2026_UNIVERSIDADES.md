@@ -1,10 +1,10 @@
 # Issue Local Mirror: [CO] #236 - Refactorización Curricular ICFES 2026 y Top 10 Universidades Colombia
 
-**GitHub Issue:** https://github.com/iberi22/worldexams/issues/236  
-**Status:** Open  
-**Priority:** Medium  
-**Labels:** curriculo, enhancement, refactor  
-**Owner:** Agente (Architect + Guardian)  
+**GitHub Issue:** https://github.com/iberi22/worldexams/issues/236
+**Status:** Open
+**Priority:** Medium
+**Labels:** curriculo, enhancement, refactor
+**Owner:** Agente (Architect + Guardian)
 **Created:** 2026-04-18
 
 ## Resumen

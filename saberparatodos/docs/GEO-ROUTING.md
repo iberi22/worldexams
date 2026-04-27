@@ -10,8 +10,8 @@ Geo-detection is already implemented in the middleware pipeline. This doc descri
 
 ### Current Implementation (✅ Working)
 
-**Primary:** Cloudflare `CF-IPCountry` header  
-**Fallback:** Cookie `spt_country` (user preference)  
+**Primary:** Cloudflare `CF-IPCountry` header
+**Fallback:** Cookie `spt_country` (user preference)
 **Hard Default:** `CO` (Colombia)
 
 ```typescript
@@ -144,7 +144,7 @@ if (!SUPPORTED.includes(activeCountryCode as CountryCode)) {
 }
 ```
 
-**Pros:** Clean, separate page.  
+**Pros:** Clean, separate page.
 **Cons:** Requires route file.
 
 #### Option B: Inline Landing in middleware
@@ -159,7 +159,7 @@ return new Response(UNSUPPORTED_HTML, {
 });
 ```
 
-**Pros:** Zero page load, fastest possible response.  
+**Pros:** Zero page load, fastest possible response.
 **Cons:** HTML string in middleware is ugly.
 
 #### Option C (Recommended): Hybrid — redirect to `/` with query param

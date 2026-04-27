@@ -22,7 +22,7 @@ I'll use Colombian contexts like: coffee production, public transport, salary ca
 Let me structure the 20 questions with progressive difficulty.
 
 Questions 1-4: D3-D4 difficulty
-Questions 5-10: D5-D6 difficulty  
+Questions 5-10: D5-D6 difficulty
 Questions 11-16: D7-D8 difficulty
 Questions 17-20: D9-D10 difficulty
 

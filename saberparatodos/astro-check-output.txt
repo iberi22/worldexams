@@ -190,8 +190,7 @@ Using secrets defined in .env.local
 [7m43[0m export function deriveValidationStatus(protocolVersion?: string, hasFeedback?: boolean): ValidationStatus {
 [7m  [0m [93m                                                                 ~~~~~~~~~~~[0m
 
-Result (216 files): 
+Result (216 files):
 - 8 errors
 - 0 warnings
 - 33 hints
-

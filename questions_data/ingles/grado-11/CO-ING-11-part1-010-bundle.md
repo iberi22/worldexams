@@ -212,4 +212,3 @@ The text describes an internal conflict: "university in the city" (ambition) vs.
 | 5 | CO-ING-11-part1-010-v5 | 3 | ⬜ |
 | 6 | CO-ING-11-part1-010-v6 | 5 | ⬜ |
 | 7 | CO-ING-11-part1-010-v7 | 5 | ⬜ |
-

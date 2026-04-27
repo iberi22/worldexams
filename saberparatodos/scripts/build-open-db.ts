@@ -58,7 +58,7 @@ function main() {
     try {
       const content = fs.readFileSync(file, 'utf-8');
       const parsed = matter(content);
-      
+
       const relPath = path.relative(QUESTIONS_DIR, file).replace(/\\/g, '/');
       const parts = relPath.split('/');
       // Expected: colombia/matematicas/grado-11/...

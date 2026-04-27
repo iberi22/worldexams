@@ -1,10 +1,10 @@
 # Issue Local Mirror: [PE] #233 - Investigación Curricular MINEDU/CNEB y UNMSM/UNI Perú
 
-**GitHub Issue:** https://github.com/iberi22/worldexams/issues/233  
-**Status:** Open  
-**Priority:** High  
-**Labels:** nuevo-pais, curriculo, enhancement  
-**Owner:** Agente (Generator + Architect)  
+**GitHub Issue:** https://github.com/iberi22/worldexams/issues/233
+**Status:** Open
+**Priority:** High
+**Labels:** nuevo-pais, curriculo, enhancement
+**Owner:** Agente (Generator + Architect)
 **Created:** 2026-04-18
 
 ## Resumen

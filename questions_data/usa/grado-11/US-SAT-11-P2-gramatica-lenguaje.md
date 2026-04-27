@@ -31,10 +31,10 @@ license: "CC BY-NC-SA 4.0"
 ## Question 1 — D5
 Which choice corrects the error in sentence 3?
 
-A) Administrators believes that traditional humanities and modern technology compliment each other.  
-B) Administrators believe that traditional humanities and modern technology complement each other.  
-C) Administrators believe that traditional humanities and modern technology compliments each other.  
-D) Administrators, believe that traditional humanities and modern technology, complement each other.  
+A) Administrators believes that traditional humanities and modern technology compliment each other.
+B) Administrators believe that traditional humanities and modern technology complement each other.
+C) Administrators believe that traditional humanities and modern technology compliments each other.
+D) Administrators, believe that traditional humanities and modern technology, complement each other.
 **[ ]** → **B**
 
 ---
@@ -42,10 +42,10 @@ D) Administrators, believe that traditional humanities and modern technology, co
 ## Question 2 — D5
 Which choice best maintains the sentence structure after the correction?
 
-A) The sentence is correct as is after the edit.  
-B) Replace "believes" with "believe" and "compliment" with "complement."  
-C) Replace "believes" with "believe" and keep "compliment."  
-D) Replace "compliment" with "compliments" and keep "believes."  
+A) The sentence is correct as is after the edit.
+B) Replace "believes" with "believe" and "compliment" with "complement."
+C) Replace "believes" with "believe" and keep "compliment."
+D) Replace "compliment" with "compliments" and keep "believes."
 **[ ]** → **B**
 
 ---
@@ -53,10 +53,10 @@ D) Replace "compliment" with "compliments" and keep "believes."
 ## Question 3 — D6
 Which choice correctly punctuates the quotation in sentence 4?
 
-A) "We prepare students for both the past and the future, says headmaster Dr. William Chen.  
-B) "We prepare students for both the past and the future," says headmaster Dr. William Chen.  
-C) "We prepare students for both the past and the future" says headmaster Dr. William Chen.  
-D) We prepare students for both the past and the future, says headmaster Dr. William Chen.  
+A) "We prepare students for both the past and the future, says headmaster Dr. William Chen.
+B) "We prepare students for both the past and the future," says headmaster Dr. William Chen.
+C) "We prepare students for both the past and the future" says headmaster Dr. William Chen.
+D) We prepare students for both the past and the future, says headmaster Dr. William Chen.
 **[ ]** → **B**
 
 ---
@@ -64,10 +64,10 @@ D) We prepare students for both the past and the future, says headmaster Dr. Wil
 ## Question 4 — D6
 Which choice correctly capitalizes all proper nouns in the passage?
 
-A) Boston Latin school, classical language, curriculum  
-B) Boston Latin School, Classical Language, Curriculum  
-C) Boston latin School, classical Language, Curriculum  
-D) boston latin school, CLASSICAL LANGUAGE, CURRICULUM  
+A) Boston Latin school, classical language, curriculum
+B) Boston Latin School, Classical Language, Curriculum
+C) Boston latin School, classical Language, Curriculum
+D) boston latin school, CLASSICAL LANGUAGE, CURRICULUM
 **[ ]** → **A**
 
 ---
@@ -75,10 +75,10 @@ D) boston latin school, CLASSICAL LANGUAGE, CURRICULUM
 ## Question 5 — D7
 Sentence 2 would best be improved by:
 
-A) Adding a comma after "Today"  
-B) Replacing the comma with a semicolon  
-C) Deleting "however" entirely  
-D) Adding an exclamation mark after "courses"  
+A) Adding a comma after "Today"
+B) Replacing the comma with a semicolon
+C) Deleting "however" entirely
+D) Adding an exclamation mark after "courses"
 **[ ]** → **A**
 
 ---
@@ -86,10 +86,10 @@ D) Adding an exclamation mark after "courses"
 ## Question 6 — D7
 The phrase "both the past and the future" in sentence 4 is an example of:
 
-A) Alliteration  
-B) Parallel structure  
-C) Hyperbole  
-D) Irony  
+A) Alliteration
+B) Parallel structure
+C) Hyperbole
+D) Irony
 **[ ]** → **B**
 
 ---
@@ -105,10 +105,10 @@ D) Irony
 ## Question 7 — D5
 Which choice corrects the punctuation error in sentence 1?
 
-A) Located in Seattle Washington, the headquarters of Amazon spans 17 office buildings.  
-B) Located in Seattle, Washington the headquarters of Amazon spans 17 office buildings.  
-C) Located in Seattle, Washington, the headquarters of Amazon spans 17 office buildings.  
-D) Located in Seattle Washington the headquarters of Amazon, spans 17 office buildings.  
+A) Located in Seattle Washington, the headquarters of Amazon spans 17 office buildings.
+B) Located in Seattle, Washington the headquarters of Amazon spans 17 office buildings.
+C) Located in Seattle, Washington, the headquarters of Amazon spans 17 office buildings.
+D) Located in Seattle Washington the headquarters of Amazon, spans 17 office buildings.
 **[ ]** → **C**
 
 ---
@@ -116,10 +116,10 @@ D) Located in Seattle Washington the headquarters of Amazon, spans 17 office bui
 ## Question 8 — D5
 Which choice corrects the error in sentence 2?
 
-A) Founded by Jeff Bezos, in 1994, the company began as an online bookstore.  
-B) Founded by Jeff Bezos in 1994, the company began as an online bookstore.  
-C) Founded, by Jeff Bezos, in 1994 the company began as an online bookstore.  
-D) Founded by Jeff Bezos in 1994 the company began, as an online bookstore.  
+A) Founded by Jeff Bezos, in 1994, the company began as an online bookstore.
+B) Founded by Jeff Bezos in 1994, the company began as an online bookstore.
+C) Founded, by Jeff Bezos, in 1994 the company began as an online bookstore.
+D) Founded by Jeff Bezos in 1994 the company began, as an online bookstore.
 **[ ]** → **B**
 
 ---
@@ -127,10 +127,10 @@ D) Founded by Jeff Bezos in 1994 the company began, as an online bookstore.
 ## Question 9 — D6
 The semicolon in sentence 3 is correctly used because:
 
-A) It separates two independent clauses  
-B) It introduces a list  
-C) It connects a phrase to an independent clause  
-D) It marks the end of a sentence  
+A) It separates two independent clauses
+B) It introduces a list
+C) It connects a phrase to an independent clause
+D) It marks the end of a sentence
 **[ ]** → **A**
 
 ---
@@ -138,10 +138,10 @@ D) It marks the end of a sentence
 ## Question 10 — D6
 Which choice would most effectively replace "modern history" in sentence 4?
 
-A) "history"  
-B) "American history"  
-C) "recent times"  
-D) "contemporary society"  
+A) "history"
+B) "American history"
+C) "recent times"
+D) "contemporary society"
 **[ ]** → **B**
 
 ---
@@ -149,10 +149,10 @@ D) "contemporary society"
 ## Question 11 — D7
 Which choice best combines sentences 1 and 2?
 
-A) Located in Seattle, Washington, the headquarters of Amazon spans 17 office buildings, and was founded by Jeff Bezos in 1994.  
-B) Amazon's headquarters, located in Seattle, Washington, spans 17 office buildings and was founded by Jeff Bezos in 1994.  
-C) Amazon was founded by Jeff Bezos in 1994 and located in Seattle, Washington, where its headquarters spans 17 office buildings.  
-D) Located in Seattle, Washington, Amazon's headquarters spans 17 office buildings; the company was founded by Jeff Bezos in 1994.  
+A) Located in Seattle, Washington, the headquarters of Amazon spans 17 office buildings, and was founded by Jeff Bezos in 1994.
+B) Amazon's headquarters, located in Seattle, Washington, spans 17 office buildings and was founded by Jeff Bezos in 1994.
+C) Amazon was founded by Jeff Bezos in 1994 and located in Seattle, Washington, where its headquarters spans 17 office buildings.
+D) Located in Seattle, Washington, Amazon's headquarters spans 17 office buildings; the company was founded by Jeff Bezos in 1994.
 **[ ]** → **D**
 
 ---
@@ -160,10 +160,10 @@ D) Located in Seattle, Washington, Amazon's headquarters spans 17 office buildin
 ## Question 12 — D7
 Which choice correctly formats the company name throughout the passage?
 
-A) amazon  
-B) AMAZON  
-C) Amazon  
-D) The company should always be written out as "Amazon.com, Inc."  
+A) amazon
+B) AMAZON
+C) Amazon
+D) The company should always be written out as "Amazon.com, Inc."
 **[ ]** → **C**
 
 ---
@@ -179,10 +179,10 @@ D) The company should always be written out as "Amazon.com, Inc."
 ## Question 13 — D5
 Which choice corrects the verb error in sentence 1?
 
-A) become  
-B) became  
-C) becoming  
-D) will become  
+A) become
+B) became
+C) becoming
+D) will become
 **[ ]** → **B**
 
 ---
@@ -190,10 +190,10 @@ D) will become
 ## Question 14 — D5
 Which choice corrects the error in sentence 3?
 
-A) conduct  
-B) conducting  
-C) conducts  
-D) conducted  
+A) conduct
+B) conducting
+C) conducts
+D) conducted
 **[ ]** → **B**
 
 ---
@@ -201,10 +201,10 @@ D) conducted
 ## Question 15 — D6
 Which choice corrects the error in sentence 4?
 
-A) presents  
-B) presented  
-C) will present  
-D) presenting  
+A) presents
+B) presented
+C) will present
+D) presenting
 **[ ]** → **C**
 
 ---
@@ -212,10 +212,10 @@ D) presenting
 ## Question 16 — D6
 In sentence 2, the verb "marks" should be changed to:
 
-A) mark  
-B) marked  
-C) will mark  
-D) marking  
+A) mark
+B) marked
+C) will mark
+D) marking
 **[ ]** → **B**
 
 ---
@@ -223,10 +223,10 @@ D) marking
 ## Question 17 — D7
 Which choice would best clarify the meaning of sentence 3?
 
-A) Astronauts have lived aboard the International Space Station for months at a time; conduct experiments in zero gravity.  
-B) Since that historic moment, astronauts have lived aboard the International Space Station for months at a time, conducting experiments in zero gravity.  
-C) Astronauts, since that historic moment, have lived aboard the International Space Station for months at a time, conduct experiments in zero gravity.  
-D) Since that historic moment, astronauts have lived aboard the International Space Station for months at a time. They conduct experiments in zero gravity.  
+A) Astronauts have lived aboard the International Space Station for months at a time; conduct experiments in zero gravity.
+B) Since that historic moment, astronauts have lived aboard the International Space Station for months at a time, conducting experiments in zero gravity.
+C) Astronauts, since that historic moment, have lived aboard the International Space Station for months at a time, conduct experiments in zero gravity.
+D) Since that historic moment, astronauts have lived aboard the International Space Station for months at a time. They conduct experiments in zero gravity.
 **[ ]** → **B**
 
 ---
@@ -234,10 +234,10 @@ D) Since that historic moment, astronauts have lived aboard the International Sp
 ## Question 18 — D8
 Which choice maintains consistency in verb tense throughout the passage?
 
-A) In 1969, Neil Armstrong become the first human to walk on the Moon. The Apollo 11 mission marks...astronauts have lived...Future missions...presents...  
-B) In 1969, Neil Armstrong became the first human to walk on the Moon. The Apollo 11 mission marked...astronauts have lived...Future missions...present...  
-C) In 1969, Neil Armstrong becomes the first human to walk on the Moon. The Apollo 11 mission marked...astronauts lived...Future missions...present...  
-D) In 1969, Neil Armstrong became the first human to walk on the Moon. The Apollo 11 mission marked...astronauts lived...Future missions will present...  
+A) In 1969, Neil Armstrong become the first human to walk on the Moon. The Apollo 11 mission marks...astronauts have lived...Future missions...presents...
+B) In 1969, Neil Armstrong became the first human to walk on the Moon. The Apollo 11 mission marked...astronauts have lived...Future missions...present...
+C) In 1969, Neil Armstrong becomes the first human to walk on the Moon. The Apollo 11 mission marked...astronauts lived...Future missions...present...
+D) In 1969, Neil Armstrong became the first human to walk on the Moon. The Apollo 11 mission marked...astronauts lived...Future missions will present...
 **[ ]** → **D**
 
 ---
@@ -251,10 +251,10 @@ D) In 1969, Neil Armstrong became the first human to walk on the Moon. The Apoll
 ## Question 19 — D7
 Which choice corrects the error in sentence 3?
 
-A) Critics argue that the statue symbolizes oppression as well as freedom, and that this complexity is rarely acknowledged.  
-B) Critics argue that the statue symbolizes oppression as well as freedom, and that this complexity are rarely acknowledge.  
-C) Critics argues that the statue symbolizes oppression as well as freedom, and that this complexity is rarely acknowledged.  
-D) Critics argue that the statue symbolizes oppression as well as freedom; and that this complexity are rarely acknowledged.  
+A) Critics argue that the statue symbolizes oppression as well as freedom, and that this complexity is rarely acknowledged.
+B) Critics argue that the statue symbolizes oppression as well as freedom, and that this complexity are rarely acknowledge.
+C) Critics argues that the statue symbolizes oppression as well as freedom, and that this complexity is rarely acknowledged.
+D) Critics argue that the statue symbolizes oppression as well as freedom; and that this complexity are rarely acknowledged.
 **[ ]** → **A**
 
 ---
@@ -262,9 +262,8 @@ D) Critics argue that the statue symbolizes oppression as well as freedom; and t
 ## Question 20 — D8
 The relative clause "which was a gift from France in 1886" in sentence 1 is essential because:
 
-A) It provides non-essential information about the statue  
-B) It is necessary to identify which statue is being discussed  
-C) It contains important numerical data  
-D) It contradicts the main point of the sentence  
+A) It provides non-essential information about the statue
+B) It is necessary to identify which statue is being discussed
+C) It contains important numerical data
+D) It contradicts the main point of the sentence
 **[ ]** → **B**
-

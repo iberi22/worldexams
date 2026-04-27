@@ -457,4 +457,4 @@ La respuesta correcta es C. Este problema requiere establecer dos ecuaciones con
 ### Options
 - [ ] A) tan²(θ)
 - [ ] B) cot²(θ)
-- [x] C) tan²(θ) <!-- feedback: 
+- [x] C) tan²(θ) <!-- feedback:
