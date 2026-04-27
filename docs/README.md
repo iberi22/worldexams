@@ -1,6 +1,6 @@
 # Documentation Index
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-04-26
 **Version:** v1.0 (in progress) — see [PROJECT_STATE.md](./PROJECT_STATE.md) for current pipeline status.
 
 ---
@@ -318,6 +318,62 @@ Use `saberparatodos/` for:
 - reusable country product template work
 
 If a task crosses both areas, decide ownership first before editing files.
+
+---
+
+## Pre-Commit Hooks
+
+The repo uses [pre-commit](https://pre-commit.com/) to run automated checks before every commit.
+
+### Install
+
+```bash
+pre-commit install --config .pre-commit-config.yaml
+```
+
+
+### Update hook versions
+
+```bash
+pre-commit autoupdate
+```
+
+### Skip hooks (emergency)
+
+```bash
+git commit --no-verify -m "your message"
+```
+
+### Run manually
+
+```bash
+# All files
+pre-commit run --all-files --config .pre-commit-config.yaml
+
+# Or use the helper script
+.\scripts\run-pre-commit.ps1
+```
+
+### What each hook checks
+
+| Hook | What it does |
+|---|---|
+| `gitleaks` | Scans for secrets, API keys, tokens, passwords |
+| `bandit` | Python security scanner |
+| `black` | Formats Python files (line-length: 120) |
+| `isort` | Sorts Python import statements |
+| `check-yaml` | Validates YAML syntax |
+| `check-json` | Validates JSON syntax |
+| `check-merge-conflict` | Detects merge conflict markers |
+| `check-case-conflict` | Detects case conflicts across files |
+| `detect-private-key` | Blocks private SSH key files |
+| `end-of-file-fixer` | Ensures files end with a newline |
+| `trailing-whitespace` | Removes trailing whitespace |
+| `mixed-line-ending` | Normalizes line endings to LF |
+| `tsc-compile` | TypeScript type check via `npx tsc --noEmit` |
+| `markdownlint` | Lints markdown files (config: `.markdownlintrc.json`) |
+| `npm-audit-fast` | Runs `npm audit --audit-level=high` in saberparatodos |
+| `no-main-commit` | Blocks commits directly to `main`/`master` |
 
 ---
 
