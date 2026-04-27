@@ -1,0 +1,26 @@
+{
+  "default": true,
+  "MD013": {
+    "smart": true,
+    "line_length": 150
+  },
+  "MD033": {
+    "allowed_elements": ["details", "summary", "code", "pre", "span", "div", "details", "summary"]
+  },
+  "MD034": false,
+  "MD040": false,
+  "MD041": false,
+  "MD014": false,
+  "MD024": false,
+  "MD029": false,
+  "MD030": {
+    "ul_single": 1,
+    "ol_single": 2
+  },
+  "MD036": false,
+  "MD037": false,
+  "MD038": false,
+  "MD039": false,
+  "MD032": false,
+  "MD035": false
+}
