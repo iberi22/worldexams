@@ -46,5 +46,9 @@
     "protobufjs": ">=8.0.1 <9.0.0 || >=7.5.5",
     "dompurify": ">=3.4.0",
     "hono": ">=4.12.14"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0",
+    "zod": "^3.25.76"
   }
 }
