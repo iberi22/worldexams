@@ -13,11 +13,94 @@
 
 import * as fs from 'fs';
 import * as path from 'path';
+import * as yaml from 'yaml';
 
 const WORLDEXAMS_ROOT = 'E:\\scripts-python\\worldexams';
 const QUESTIONS_DATA = path.join(WORLDEXAMS_ROOT, 'questions_data', 'colombia');
 const GENERATION_DIR = path.join(WORLDEXAMS_ROOT, '.worldexams', 'generation');
 const HISTORY_DIR = path.join(GENERATION_DIR, 'history');
+
+// Required frontmatter fields for Protocol v5.1
+const REQUIRED_FRONTMATTER = ['id', 'country', 'grado', 'asignatura', 'tema', 'periodo', 'protocol_version', 'bundle_size'];
+
+interface ValidationResult {
+  valid: boolean;
+  errors: string[];
+  warnings: string[];
+  questionCount: number;
+}
+
+function validateBundle(filePath: string): ValidationResult {
+  const result: ValidationResult = { valid: true, errors: [], warnings: [], questionCount: 0 };
+  
+  try {
+    const content = fs.readFileSync(filePath, 'utf-8');
+    
+    // Parse frontmatter
+    const fmMatch = content.match(/^---\n([\s\S]*?)\n---/);
+    if (!fmMatch) {
+      result.valid = false;
+      result.errors.push('Missing YAML frontmatter');
+      return result;
+    }
+    
+    const fm = yaml.parse(fmMatch[1]) || {};
+    
+    // Check required frontmatter fields
+    for (const field of REQUIRED_FRONTMATTER) {
+      if (!fm[field]) {
+        result.valid = false;
+        result.errors.push(`Missing required frontmatter field: ${field}`);
+      }
+    }
+    
+    // Validate protocol_version is 5.1
+    if (fm.protocol_version && fm.protocol_version !== '5.1' && fm.protocol_version !== 5.1) {
+      result.warnings.push(`Expected protocol_version 5.1, got ${fm.protocol_version}`);
+    }
+    
+    // Validate bundle_size is 20
+    const expectedQuestions = fm.bundle_size || fm.total_questions || 20;
+    
+    // Count actual questions
+    const questionMatches = content.match(/##\s+(Question|Pregunta)\s+\d+/gi) || [];
+    result.questionCount = questionMatches.length;
+    
+    if (result.questionCount !== expectedQuestions) {
+      result.valid = false;
+      result.errors.push(`Question count mismatch: expected ${expectedQuestions}, found ${result.questionCount}`);
+    }
+    
+    // Validate each question has 4 options with one correct
+    const questionBlocks = content.split(/##\s+(Question|Pregunta)\s+\d+/i).slice(1);
+    for (let i = 0; i < questionBlocks.length; i++) {
+      const block = questionBlocks[i];
+      const options = block.match(/- \[([ xX])\] [A-D]\)/g) || [];
+      const correctCount = (block.match(/- \[x\]/gi) || []).length;
+      
+      if (options.length < 4) {
+        result.valid = false;
+        result.errors.push(`Question ${i + 1}: fewer than 4 options (found ${options.length})`);
+      }
+      if (correctCount !== 1) {
+        result.valid = false;
+        result.errors.push(`Question ${i + 1}: expected exactly 1 correct answer [x], found ${correctCount}`);
+      }
+    }
+    
+    // Check for prohibited patterns
+    if (/todas las anteriores|ninguna de las anteriores|a y b|^(todas|ninguna)/i.test(content)) {
+      result.valid = false;
+      result.errors.push('Contains prohibited patterns (todas/ninguna/a y b)');
+    }
+    
+  } catch (e: any) {
+    result.valid = false;
+    result.errors.push(`Failed to validate bundle: ${e.message}`);
+  }
+  
+  return result;
+}
 
 // Ensure directories exist
 function ensureDir(dir: string) {
@@ -425,6 +508,44 @@ async function generateBatch(batchSize: number = 5) {
       const result = await runAgent(task);
 
       if (result.success) {
+        // ── VALIDATION GATE ──────────────────────────────────────────
+        // Build expected bundle path and validate before marking completed
+        const bundleId = `CO-${task.subject.substring(0, 3).toUpperCase()}-${task.grado}-P${task.periodo}-${task.topic}-${String(task.bundleIndex).padStart(3, '0')}-MASTERY`;
+        const bundlePath = path.join(
+          QUESTIONS_DATA,
+          task.subject,
+          `grado-${task.grado}`,
+          `periodo-${task.periodo}`,
+          task.topic,
+          `${bundleId}-bundle.md`
+        );
+        
+        if (fs.existsSync(bundlePath)) {
+          const vr = validateBundle(bundlePath);
+          if (!vr.valid) {
+            task.status = 'failed';
+            task.error = `Validation failed: ${vr.errors.slice(0, 3).join(' | ')}`;
+            task.completedAt = new Date().toISOString();
+            failed++;
+            console.log(`\n❌ VALIDATION FAILED: ${task.id}`);
+            console.log(`   Errors: ${vr.errors.join(', ')}`);
+            if (vr.warnings.length) console.log(`   Warnings: ${vr.warnings.join(', ')}`);
+            saveQueue(queue);
+            return task;
+          }
+          console.log(`\n✅ VALIDATED: ${task.id} (${vr.questionCount} questions)`);
+          if (vr.warnings.length) console.log(`   Warnings: ${vr.warnings.join(', ')}`);
+        } else {
+          task.status = 'failed';
+          task.error = `Bundle file not found at expected path: ${path.basename(bundlePath)}`;
+          task.completedAt = new Date().toISOString();
+          failed++;
+          console.log(`\n❌ FILE NOT FOUND: ${task.id} — ${bundlePath}`);
+          saveQueue(queue);
+          return task;
+        }
+        // ── END VALIDATION GATE ────────────────────────────────────
+        
         task.status = 'completed';
         task.completedAt = new Date().toISOString();
         task.outputPath = `questions_data/colombia/${task.subject}/grado-${task.grado}/periodo-${task.periodo}/${task.topic}/`;
