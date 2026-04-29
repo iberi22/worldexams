@@ -9,12 +9,13 @@
   import { defaultQuestionRepository, findQuestionById } from '../lib/questions';
   import ReportModal from './ReportModal.svelte';
   import CommentsSection from './CommentsSection.svelte';
-  import { countryConfig } from '../config';
+  import { countryConfig as defaultCountryConfig } from '../config';
+  import type { CountryConfig as RuntimeCountryConfig } from '../config';
   import RadarChart from './RadarChart.svelte';
   import SimpleChart from './SimpleChart.svelte';
   import PerformanceLevels from './dashboard/PerformanceLevels.svelte';
   import PercentileRank from './dashboard/PercentileRank.svelte';
-  import { CO_ICFES_2026_BENCHMARK } from '../config/icfes-benchmarks';
+  import { getBenchmarkConfig } from '../config/icfes-benchmarks';
 
   // Define interface locally with details support
   interface QuestionDetail {
@@ -39,16 +40,19 @@
   }
 
   const {
+    runtimeCountry = defaultCountryConfig,
     onClose,
     onStartExam = undefined,
     onNavigateToBlog = undefined,
     onViewFullResult = undefined
   } = $props<{
+    runtimeCountry?: RuntimeCountryConfig;
     onClose: () => void;
     onStartExam?: () => void;
     onNavigateToBlog?: (subject?: string) => void;
     onViewFullResult?: (examRecord: ExamResultRecord) => void;
   }>();
+  const benchmarkConfig = getBenchmarkConfig(runtimeCountry.code, runtimeCountry.examName);
 
   let activeTab: 'dashboard' | 'history' = $state('dashboard');
   let historyResults: ExamResultRecord[] = $state([]);
@@ -613,7 +617,7 @@
                       Lectura proxy con precision {Math.round(userProfile.globalAccuracy * 100)}% y {userProfile.icfesEstimate.evidenceCount} preguntas observadas.
                     </div>
                     <div class="mt-2 text-[10px] text-white/30 font-medium uppercase tracking-[0.1em] leading-relaxed">
-                      Benchmark local activo: {CO_ICFES_2026_BENCHMARK.label} {CO_ICFES_2026_BENCHMARK.benchmarkScore}/500.
+                      Benchmark local activo: {benchmarkConfig.label} {benchmarkConfig.benchmarkScore}/500.
                     </div>
                     <div class="mt-2 text-[10px] text-amber-200/70 font-medium uppercase tracking-[0.1em] leading-relaxed">
                       {userProfile.icfesEstimate.disclaimer} Confianza: {userProfile.icfesEstimate.label}. Metodo: {userProfile.icfesEstimate.methodologyVersion}.
@@ -1054,7 +1058,7 @@
                     </button>
                   </div>
 
-                                    {#if countryConfig.features?.blog}
+                                    {#if runtimeCountry.features?.blog}
 <!-- Blog Links for each weak area -->
                   <div class="mt-4 flex flex-wrap justify-center gap-2 relative z-10">
                     {#each weakAreas as area}

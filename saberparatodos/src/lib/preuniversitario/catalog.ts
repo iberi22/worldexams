@@ -35,9 +35,6 @@ export function getPreuMethodologySources(countryCode: CountryCode | string = DE
   return getPreuCatalog(countryCode).methodologySources;
 }
 
-export const preuCatalogEntries = getPreuCatalogEntries();
-export const preuMethodologySources = getPreuMethodologySources();
-
 export const preuStatusLabels = {
   verified: 'Verificada',
   in_research: 'En levantamiento',
