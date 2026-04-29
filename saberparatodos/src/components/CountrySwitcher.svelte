@@ -2,7 +2,7 @@
   import { onMount } from 'svelte';
   import { allCountries, type CountryCode } from '../config/countries.config';
 
-  export let currentCountryCode: CountryCode;
+  export let currentCountryCode: CountryCode | string;
 
   let isOpen = false;
 

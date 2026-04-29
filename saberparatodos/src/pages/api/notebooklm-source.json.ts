@@ -5,7 +5,7 @@
  */
 
 import type { APIRoute } from 'astro';
-import { countryConfig as defaultCountryConfig, toRuntimeCountryConfig } from '../../config';
+import { resolveRuntimeCountryConfig } from '../../config';
 
 const OFFICIAL_RESOURCES = {
   CO: [
@@ -35,6 +35,9 @@ const OFFICIAL_RESOURCES = {
     { name: 'INEP', url: 'https://www.gov.br/inep/pt-br', description: 'Informações oficiais do ENEM' },
     { name: 'MEC', url: 'https://www.gov.br/mec/pt-br', description: 'Ministério da Educação do Brasil' },
   ],
+  US: [
+    { name: 'College Board', url: 'https://satsuite.collegeboard.org/', description: 'Official SAT information and preparation resources' },
+  ],
 } as const;
 
 function getLanguageGuideline(language: string): string {
@@ -44,7 +47,7 @@ function getLanguageGuideline(language: string): string {
 }
 
 export const GET: APIRoute = async ({ locals, request }) => {
-  const country = locals.country ? toRuntimeCountryConfig(locals.country) : defaultCountryConfig;
+  const country = resolveRuntimeCountryConfig(locals.country);
   const origin = new URL(request.url).origin;
   const officialResources = [
     ...(OFFICIAL_RESOURCES[country.code] || []),

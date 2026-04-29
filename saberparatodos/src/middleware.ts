@@ -4,6 +4,7 @@ import {
   countriesWithContent,
   ALL_CONFIGURED_CODES,
   DEFAULT_COUNTRY,
+  getConfiguredProductCountryCode,
   COUNTRY_NAMES,
   COUNTRY_FLAGS,
 } from './config/countries.config';
@@ -89,7 +90,7 @@ export const onRequest = defineMiddleware(async (context, next) => {
     url.pathname === '/robots.txt' ||
     url.pathname === '/manifest.json';
 
-  let activeCountryCode: CountryCode = DEFAULT_COUNTRY;
+  let activeCountryCode: CountryCode | undefined = getConfiguredProductCountryCode() || DEFAULT_COUNTRY;
   let countryDetected = false;
 
   const urlCountry = url.searchParams.get('country') as CountryCode | null;
@@ -118,8 +119,8 @@ export const onRequest = defineMiddleware(async (context, next) => {
     }
   }
 
-  const hasContent = CONTENT_COUNTRIES.includes(activeCountryCode);
-  const activeCountryConfig = getCountryConfig(activeCountryCode) ?? getCountryConfig(DEFAULT_COUNTRY);
+  const hasContent = activeCountryCode ? CONTENT_COUNTRIES.includes(activeCountryCode) : false;
+  const activeCountryConfig = activeCountryCode ? getCountryConfig(activeCountryCode) : undefined;
 
   if (activeCountryConfig) {
     context.locals.country = activeCountryConfig;
@@ -127,8 +128,8 @@ export const onRequest = defineMiddleware(async (context, next) => {
   context.locals.countryCode = activeCountryCode;
   context.locals.countryDetected = countryDetected;
   context.locals.countryHasContent = hasContent;
-  context.locals.countryName = activeCountryConfig?.name || COUNTRY_NAMES[activeCountryCode] || activeCountryCode;
-  context.locals.countryFlag = activeCountryConfig?.flag || COUNTRY_FLAGS[activeCountryCode] || '🌍';
+  context.locals.countryName = activeCountryConfig?.name || (activeCountryCode ? COUNTRY_NAMES[activeCountryCode] || activeCountryCode : 'World Exams');
+  context.locals.countryFlag = activeCountryConfig?.flag || (activeCountryCode ? COUNTRY_FLAGS[activeCountryCode] : undefined) || '🌍';
 
   const response = await next();
 
