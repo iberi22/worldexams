@@ -142,11 +142,11 @@
       advancedMetrics: userProfile.advancedMetrics
     };
 
-    generatedStudyPrompt = generateImprovementPrompt(profileData);
-    notebookLMPrompt = generateNotebookLMPrompt(profileData);
-    notebookLMUpdatePrompt = generateNotebookLMUpdatePrompt(profileData);
-    chatgptStudyPrompt = generateChatGPTStudyPrompt(profileData);
-    studyTipsPrompt = generateStudyTipsPrompt(profileData); // 🆕
+    generatedStudyPrompt = generateImprovementPrompt(profileData, runtimeCountry);
+    notebookLMPrompt = generateNotebookLMPrompt(profileData, runtimeCountry);
+    notebookLMUpdatePrompt = generateNotebookLMUpdatePrompt(profileData, runtimeCountry);
+    chatgptStudyPrompt = generateChatGPTStudyPrompt(profileData, runtimeCountry);
+    studyTipsPrompt = generateStudyTipsPrompt(profileData, runtimeCountry); // 🆕
 
     showStudyPromptModal = true;
   }
