@@ -4,6 +4,7 @@ import Navbar from '../components/Navbar.astro';
 import Footer from '../components/Footer.astro';
 import CookieConsent from '../components/CookieConsent.svelte';
 import VersionBadge from '../components/VersionBadge.svelte';
+import CountryBanner from '../components/CountryBanner.astro';
 import GlobalFeedbackButton from '../components/GlobalFeedbackButton.svelte';
 import packageInfo from '../../package.json';
 
@@ -19,6 +20,7 @@ interface Props {
   noindex?: boolean;
   showNavbar?: boolean;
   showFooter?: boolean;
+  showCountryBanner?: boolean;
 }
 
 import { countryConfig as defaultConfig, toRuntimeCountryConfig } from '../config';
@@ -33,7 +35,8 @@ const {
   type = "website",
   noindex = false,
   showNavbar = true,
-  showFooter = true
+  showFooter = true,
+  showCountryBanner = true
 } = Astro.props;
 
 const productionSiteUrl = countryConfig.product.siteUrl.replace(/\/$/, '');
@@ -262,6 +265,8 @@ const webAppSchema = {
     </svg>
 
     {showNavbar && <Navbar />}
+
+    {showCountryBanner && <CountryBanner currentCountry={Astro.locals.countryCode} />}
 
     <main class="flex-1">
 		  <slot />
