@@ -1,5 +1,6 @@
 import type { AppQuestion } from '../api-service';
 import { passesGrade11PreicfesPolicy } from '../questions/policy';
+import { isPreuCountrySupported } from './catalog';
 
 const rawPreuBundles = import.meta.glob('../../../../questions_data/colombia/preuniversitario/**/*.md', {
   eager: true,
@@ -152,7 +153,11 @@ export function parseRawPreuBundles(rawBundles: Record<string, string>, preuUniv
   return allQuestions.filter((question) => matchesUniversity(question.id, preuUniversity));
 }
 
-export function getPreuQuestionBank(preuUniversity?: string): AppQuestion[] {
+export function getPreuQuestionBank(countryCode?: string, preuUniversity?: string): AppQuestion[] {
+  if (!isPreuCountrySupported(countryCode)) {
+    return [];
+  }
+
   return parseRawPreuBundles(rawPreuBundles, preuUniversity);
 }
 

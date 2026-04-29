@@ -1,8 +1,10 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import App from '../components/App.svelte';
+import { countryConfig as defaultConfig, toRuntimeCountryConfig } from '../config';
 
 const API_BASE_URL = import.meta.env.PUBLIC_API_BASE_URL || '/api';
+const runtimeCountry = Astro.locals.country ? toRuntimeCountryConfig(Astro.locals.country) : defaultConfig;
 ---
 
 <Layout
@@ -130,5 +132,6 @@ const API_BASE_URL = import.meta.env.PUBLIC_API_BASE_URL || '/api';
     client:only="svelte"
     questions={[]}
     universalPool={null}
+    countryCode={runtimeCountry.code}
   />
 </Layout>

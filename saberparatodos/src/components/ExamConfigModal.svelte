@@ -18,9 +18,12 @@
   } from '../lib/questions';
   import { getCachedEnglishQuestions, getAnsweredQuestionIds } from '../lib/idb-storage'; // 🆕
   import { CURRICULUM_CO, normalizeTopic } from '../config/curriculum'; // 🆕 Import Curriculum Logic
+  import { countryConfig } from '../config';
+  import { getPreuCatalogEntries, isPreuRuntimeEnabled } from '../lib/preuniversitario/catalog';
   import MenGuidelinesModal from './MenGuidelinesModal.svelte';
 
   let {
+    countryCode = countryConfig.code,
     subject: initialSubject,
     currentGrade: initialGrade = 11,
     isLoggedIn = false,
@@ -29,6 +32,8 @@
     availableQuestions = [],
     initialRoomCode = ''
   } = $props();
+
+  const preuEnabled = isPreuRuntimeEnabled(countryCode);
 
   // 🆕 Make subject and grade editable
   let selectedSubject = $state(initialSubject || 'Simulacro Completo');
@@ -112,11 +117,22 @@
     }
   });
 
+  $effect(() => {
+    if (!preuEnabled) {
+      availableSubjects = availableSubjects.filter((subject) => subject !== 'Preuniversitario');
+      if (selectedSubject === 'Preuniversitario') {
+        selectedSubject = 'Simulacro Completo';
+        selectedUniversity = '';
+      }
+    }
+  });
+
   let isPreuMode = $derived(selectedSubject === 'Preuniversitario');
   let selectedUniversity = $state('');
 
-  import { preuCatalogEntries } from '../lib/preuniversitario/catalog';
-  let availableUniversities = preuCatalogEntries.map(e => ({ id: e.slug, name: e.institutionName }));
+  let availableUniversities = $derived(
+    getPreuCatalogEntries(countryCode).map((entry) => ({ id: entry.slug, name: entry.institutionName }))
+  );
 
   function saveUserLevel(level: string) {
     if (typeof localStorage !== 'undefined') {
@@ -680,6 +696,7 @@
       const roomSelection = await prepareRoomQuestions(
           {
             grade: selectedGrade || 11,
+            countryCode,
             subject: selectedSubject,
             count: questionCount,
             useDiagnostic: effectiveUseDiagnostic,
@@ -974,6 +991,7 @@
         const soloResult = await prepareSoloExamQuestions(
           {
             grade: selectedGrade || 11,
+            countryCode,
             subject: selectedSubject,
             count: questionCount,
             useDiagnostic: effectiveUseDiagnostic,
