@@ -5,6 +5,7 @@
  * Extracted from api-service.ts for better separation of concerns
  */
 
+import { countryConfig, getCountryExamSlug, getExplicitProductCountryCode } from '../config';
 import { getQuestionPool, savePack } from './pack-storage';
 import type { AppQuestion } from './question-transformer';
 import {
@@ -15,22 +16,40 @@ import {
   normalizeSubjectKey
 } from './question-transformer';
 
-function getConfiguredApiBaseUrl(): string {
+interface RuntimeApiConfig {
+  apiBaseUrl: string;
+  countryCode?: string;
+  exam?: string;
+}
+
+function getRuntimeApiConfig(): RuntimeApiConfig {
   if (typeof document !== 'undefined') {
     const config = document.getElementById('api-config');
     if (config?.textContent) {
       try {
         const parsed = JSON.parse(config.textContent);
-        if (parsed?.apiBaseUrl) return String(parsed.apiBaseUrl);
+        if (parsed?.apiBaseUrl) {
+          return {
+            apiBaseUrl: String(parsed.apiBaseUrl),
+            countryCode: parsed?.countryCode ? String(parsed.countryCode).toLowerCase() : undefined,
+            exam: parsed?.exam ? String(parsed.exam).toLowerCase() : undefined,
+          };
+        }
       } catch {
         // Fall through to other sources.
       }
     }
   }
 
-  // Use environment variable if available during SSR or build
+  const explicitCountryCode = getExplicitProductCountryCode();
+
+  // Use environment variable if available during SSR or build.
   const envUrl = typeof import.meta !== 'undefined' ? import.meta.env?.PUBLIC_API_BASE_URL : undefined;
-  return envUrl || '/api';
+  return {
+    apiBaseUrl: envUrl || '/api',
+    countryCode: explicitCountryCode?.toLowerCase(),
+    exam: explicitCountryCode ? getCountryExamSlug(countryConfig) : undefined,
+  };
 }
 
 /**
@@ -55,7 +74,8 @@ export async function fetchQuestionsFromPacks(grade: number, subject?: string, p
 
   try {
     const normalizedSubject = normalizeSubjectKey(subject || '');
-    const apiBaseUrl = getConfiguredApiBaseUrl().replace(/\/+$/, '');
+    const runtimeApiConfig = getRuntimeApiConfig();
+    const apiBaseUrl = runtimeApiConfig.apiBaseUrl.replace(/\/+$/, '');
     const shouldPreferStaticPacks =
       isDevRuntime ||
       (typeof window !== 'undefined' && /^(localhost|127\.0\.0\.1)$/i.test(window.location.hostname));
@@ -124,12 +144,12 @@ export async function fetchQuestionsFromPacks(grade: number, subject?: string, p
 
     try {
       const query = new URLSearchParams({
-        country: 'co',
-        exam: 'icfes',
         grade: String(grade),
         page: String(Math.max(1, page))
       });
 
+      if (runtimeApiConfig.countryCode) query.set('country', runtimeApiConfig.countryCode);
+      if (runtimeApiConfig.exam) query.set('exam', runtimeApiConfig.exam);
       if (normalizedSubject) query.set('subject', normalizedSubject);
 
       const apiResponse = await fetch(`${apiBaseUrl}/questions?${query.toString()}`);

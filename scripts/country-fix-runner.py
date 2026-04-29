@@ -11,6 +11,8 @@ from pathlib import Path
 import time
 import os
 
+CREATE_NO_WINDOW = 0x08000000
+
 REPO = "iberi22/worldexams"
 WORKDIR = r"E:\scripts-python\worldexams\saberparatodos"
 PARENT_DIR = r"E:\scripts-python\worldexams"
@@ -110,6 +112,9 @@ def build_prompt(issue):
     labels = issue.get('labels', [])
     label_names = [l['name'] for l in labels] if labels else []
 
+    # Strip existing fix(country): prefix to avoid duplication
+    commit_title = title[14:].strip() if title.lower().startswith('fix(country):') else title[:70]
+
     prompt = f'''You are fixing GitHub issue #{number}: {title}
 
 ## Problem Description
@@ -123,7 +128,7 @@ def build_prompt(issue):
 3. Fix the country-awareness bug described in the issue
 4. Run: cd E:\\scripts-python\\worldexams\\saberparatodos && npm run build
 5. If build fails, fix the errors
-6. Commit: cd E:\\scripts-python\\worldexams && git add . && git commit -m "fix(country): {title[:70]}" --no-verify
+6. Commit: cd E:\\scripts-python\\worldexams && git add . && git commit -m "{commit_title}" --no-verify
 7. Push: git push origin fix/issue-254-validate-bundles-before-completion
 8. Close the issue: gh issue close {number} --repo {REPO} --comment "Fixed by country-fix-cronjob."
 
@@ -146,12 +151,13 @@ def run_codex_async(prompt_text, result_queue):
         prompt_file.parent.mkdir(parents=True, exist_ok=True)
         prompt_file.write_text(prompt_text, encoding='utf-8')
 
-        # Use --yolo to bypass Windows sandbox, pass prompt via stdin
-        cmd = f'codex exec --yolo < "{prompt_file}"'
+        # Use --yolo to bypass Windows sandbox, pass prompt as argument (no stdin redirection)
+        cmd = f'codex exec --yolo "{prompt_text[:8000]}"'
 
         result = subprocess.run(
             cmd, shell=True, capture_output=True, text=True,
-            cwd=WORKDIR, timeout=CODEX_TIMEOUT
+            cwd=WORKDIR, timeout=CODEX_TIMEOUT,
+            creationflags=CREATE_NO_WINDOW
         )
 
         prompt_file.unlink(missing_ok=True)
@@ -218,6 +224,8 @@ def main():
         log(f"Issue #{number} completed!")
         run(f'gh issue close {number} --repo {REPO} --comment "Fixed by country-fix-cronjob."')
         save_state({"last_issue": number, "status": "done"})
+        # Notify via OpenClaw
+        run(f'openclaw system event --text "Country-fix: issue #{number} closed - {title[:60]}" --mode now')
     else:
         rc = result.get('returncode')
         log(f"Codex exited with code {rc}")

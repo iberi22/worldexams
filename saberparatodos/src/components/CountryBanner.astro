@@ -4,7 +4,7 @@
  * Shows a banner when user's detected country differs from current content.
  * Displays exam info for each supported country.
  */
-import { getSupportedCountriesForUI, setCountryOverride } from '../lib/country-detector';
+import { getSupportedCountriesForUI } from '../lib/country-detector';
 
 interface Props {
   currentCountry?: string;
@@ -63,7 +63,7 @@ const currentCountryData = countries.find(c => c.code === currentCountry) || cou
       
       // Use the setCountryOverride function from country-detector
       // It will cache the country and redirect
-      if (typeof setCountryOverride === 'function') {
+      if (typeof (window as any).setCountryOverride === 'function') {
         (window as any).setCountryOverride(countryCode);
       } else {
         // Fallback: cache and reload

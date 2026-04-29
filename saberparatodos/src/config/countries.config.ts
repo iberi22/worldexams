@@ -45,7 +45,33 @@ export const countriesWithContent = allCountries.filter((country) => country.has
 
 export const ALL_CONFIGURED_CODES: CountryCode[] = [...RUNTIME_COUNTRY_CODES];
 
-export const DEFAULT_COUNTRY: CountryCode = 'CO';
+function normalizeSiteUrl(value: string): string {
+  return String(value || '')
+    .trim()
+    .toLowerCase()
+    .replace(/^https?:\/\//, '')
+    .replace(/\/+$/, '');
+}
+
+export function getConfiguredProductCountryCode(): CountryCode | undefined {
+  const envCode = import.meta.env.PUBLIC_COUNTRY?.toUpperCase() as CountryCode | undefined;
+  if (envCode && ALL_CONFIGURED_CODES.includes(envCode)) {
+    return envCode;
+  }
+
+  const normalizedSiteUrl = normalizeSiteUrl(import.meta.env.PUBLIC_SITE_URL || '');
+  if (!normalizedSiteUrl) return undefined;
+
+  const matchedCountry = sharedCountries.find((country) => {
+    if (!RUNTIME_COUNTRY_CODES.includes(country.code as CountryCode)) return false;
+    const candidates = [country.product.siteUrl, country.domain].filter(Boolean) as string[];
+    return candidates.some((candidate) => normalizeSiteUrl(candidate) === normalizedSiteUrl);
+  });
+
+  return matchedCountry?.code as CountryCode | undefined;
+}
+
+export const DEFAULT_COUNTRY: CountryCode | undefined = getConfiguredProductCountryCode();
 
 export const COUNTRY_NAMES: Record<CountryCode, string> = allCountries.reduce<Record<CountryCode, string>>(
   (acc, country) => {
