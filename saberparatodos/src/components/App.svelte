@@ -45,6 +45,7 @@
   import packageInfo from '../../package.json';
   import { countryConfig } from '../config';
   import { CO_ICFES_2026_BENCHMARK } from '../config/icfes-benchmarks';
+  import { isPreuRuntimeEnabled } from '../lib/preuniversitario/catalog';
   // Removed static import to avoid Vite warning
   import LocalModeNotice from './LocalModeNotice.svelte';
   import OfflineProfile from './OfflineProfile.svelte';
@@ -57,7 +58,7 @@
   import { roomState } from '../modules/exam-room/stores/roomState.svelte.ts';
   import { p2pService } from '../lib/p2p-service'; // Moved to top
 
-  let { questions = [], universalPool = null } = $props();
+  let { questions = [], universalPool = null, countryCode = countryConfig.code } = $props();
 
   // Internal state that can be updated
   let loadedQuestions = $state(questions || []); // Safety check
@@ -108,6 +109,8 @@
   let lastExamData = $state(null);
   let userAnswers = $state({});
   let showAllLandingGrades = $state(false); // 🆕 Control for landing grid expansion
+
+  const preuEnabled = isPreuRuntimeEnabled(countryCode);
 
   function setView(newView) {
     view = newView;
@@ -167,9 +170,11 @@
       showExamConfigModal = true;
       window.history.replaceState({}, '', '/');
     } else if (subjectParam) {
-       selectedSubject = subjectParam;
+       selectedSubject = subjectParam === 'Preuniversitario' && !preuEnabled ? null : subjectParam;
        if (gradeParam) selectedGrade = parseInt(gradeParam);
-       showExamConfigModal = true;
+       if (selectedSubject) {
+         showExamConfigModal = true;
+       }
        window.history.replaceState({}, '', '/');
     }
 
@@ -352,6 +357,7 @@
         const result = await prepareSoloExamQuestions(
           {
             grade: effectiveGrade,
+            countryCode,
             subject: selectedSubject,
             count: config.count,
             useDiagnostic: Boolean(config.useDiagnostic),
@@ -420,6 +426,7 @@
           const roomResult = await prepareRoomQuestions(
             {
               grade: selectedGrade || 11,
+              countryCode,
               subject: selectedSubject,
               count: examConfig.count,
               useDiagnostic: Boolean(examConfig.useDiagnostic),
@@ -1105,7 +1112,7 @@
                 </FlashlightCard>
               {/each}
 
-              {#if showAllLandingGrades}
+              {#if showAllLandingGrades && preuEnabled}
                 <!-- 🎓 Preuniversitario Card -->
                 <FlashlightCard
                   onClick={() => {
@@ -1425,6 +1432,7 @@
   <!-- Exam Config Modal -->
   {#if showExamConfigModal}
     <ExamConfigModal
+      countryCode={countryCode}
       subject={selectedSubject}
       currentGrade={selectedGrade || 11}
       isLoggedIn={Boolean(user)}
