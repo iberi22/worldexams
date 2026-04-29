@@ -12,7 +12,7 @@ const country = Astro.locals.country ? toRuntimeCountryConfig(Astro.locals.count
 const guideContent = getExamGuideContent(country);
 const isCO = guideContent.variant === 'co';
 const isMX = guideContent.variant === 'mx';
-const siteUrl = Astro.site ? Astro.site.toString() : countryConfig.product.siteUrl;
+const siteUrl = Astro.site ? Astro.site.toString() : country.product.siteUrl;
 
 const faqSchema = {
   '@context': 'https://schema.org',
@@ -32,7 +32,7 @@ const schema = {
   '@graph': [
     {
       '@type': 'WebPage',
-      name: `${guideContent.heroTitle} - ${countryConfig.name}`,
+      name: `${guideContent.heroTitle} - ${country.name}`,
       description: guideContent.heroDescription,
       provider: {
         '@type': 'Organization',
@@ -41,7 +41,7 @@ const schema = {
       },
       about: {
         '@type': 'EducationalOccupationalCredential',
-        name: countryConfig.examName,
+        name: country.examName,
         credentialCategory: 'Guia de examen',
       },
     },
@@ -51,7 +51,7 @@ const schema = {
 ---
 
 <Layout
-  title={`${guideContent.heroTitle} | ${countryConfig.name}`}
+  title={`${guideContent.heroTitle} | ${country.name}`}
   description={guideContent.heroDescription}
   keywords={guideContent.keywords.join(', ')}
 >
@@ -132,7 +132,7 @@ const schema = {
                 questions="230 calificables / 278 con cuestionario"
                 highlight={true}
               />
-              {countryConfig.features.preuniversitario && (
+              {country.features.preuniversitario && (
                 <a
                   href="/?subject=Preuniversitario&grade=11"
                   class="block rounded-lg focus:outline-none focus-visible:ring-2 focus-visible:ring-[#FCD116]"
@@ -251,7 +251,7 @@ const schema = {
             <h2 class="mb-6 text-3xl font-black">La guia todavia esta en fase de localizacion</h2>
             <p class="mb-6 leading-relaxed text-white/65">
               Este tenant ya usa el runtime compartido de <strong class="text-white">saberparatodos</strong> para layout, SEO, tematizacion y experiencia base.
-              Lo que sigue pendiente es completar el contenido institucional y curricular especifico de {countryConfig.name}.
+              Lo que sigue pendiente es completar el contenido institucional y curricular especifico de {country.name}.
             </p>
             <div class="grid gap-4 md:grid-cols-3">
               <div class="rounded-2xl border border-white/8 bg-white/[0.03] p-5">

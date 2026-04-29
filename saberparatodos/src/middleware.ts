@@ -1,19 +1,18 @@
 import { defineMiddleware } from 'astro:middleware';
 import {
   type CountryCode,
-  allCountries,
   countriesWithContent,
   ALL_CONFIGURED_CODES,
   DEFAULT_COUNTRY,
   COUNTRY_NAMES,
   COUNTRY_FLAGS,
 } from './config/countries.config';
+import { getCountryConfig } from '../../config/countries.config';
 
 /**
  * Fallback country detection via ip-api.com for local dev (when CF-IPCountry is absent).
  */
 async function detectCountryFromApi(clientIP: string): Promise<CountryCode | null> {
-  // Skip for localhost
   if (clientIP === '127.0.0.1' || clientIP === '::1') {
     return null;
   }
@@ -22,6 +21,7 @@ async function detectCountryFromApi(clientIP: string): Promise<CountryCode | nul
     const res = await fetch(`https://ip-api.com/${clientIP}/country/`, {
       signal: AbortSignal.timeout(3000),
     });
+
     if (res.ok) {
       const country = await res.text();
       const code = country.trim().toUpperCase() as CountryCode;
@@ -32,6 +32,7 @@ async function detectCountryFromApi(clientIP: string): Promise<CountryCode | nul
   } catch {
     // fail silently
   }
+
   return null;
 }
 
@@ -47,7 +48,7 @@ const defaultContentSecurityPolicy = [
   "base-uri 'self'",
   "form-action 'self'",
   "frame-ancestors 'none'",
-  'upgrade-insecure-requests'
+  'upgrade-insecure-requests',
 ].join('; ');
 
 const developersContentSecurityPolicy = [
@@ -62,7 +63,7 @@ const developersContentSecurityPolicy = [
   "base-uri 'self'",
   "form-action 'self'",
   "frame-ancestors 'none'",
-  'upgrade-insecure-requests'
+  'upgrade-insecure-requests',
 ].join('; ');
 
 const securityHeaders: Record<string, string> = {
@@ -70,16 +71,14 @@ const securityHeaders: Record<string, string> = {
   'X-Content-Type-Options': 'nosniff',
   'X-Frame-Options': 'DENY',
   'Referrer-Policy': 'strict-origin-when-cross-origin',
-  'Permissions-Policy': 'geolocation=(), microphone=(), camera=()'
+  'Permissions-Policy': 'geolocation=(), microphone=(), camera=()',
 };
 
-// Country codes that have content available
-const CONTENT_COUNTRIES: CountryCode[] = countriesWithContent.map(c => c.code);
+const CONTENT_COUNTRIES: CountryCode[] = countriesWithContent.map((country) => country.code);
 
 export const onRequest = defineMiddleware(async (context, next) => {
   const url = new URL(context.request.url);
 
-  // Skip geo logic for API routes, static assets
   const isInternalPath =
     url.pathname.startsWith('/api/') ||
     url.pathname.startsWith('/_astro/') ||
@@ -90,29 +89,24 @@ export const onRequest = defineMiddleware(async (context, next) => {
     url.pathname === '/robots.txt' ||
     url.pathname === '/manifest.json';
 
-  // === Country Detection ===
   let activeCountryCode: CountryCode = DEFAULT_COUNTRY;
-  let countryDetected = false; // track if this was from IP detection
+  let countryDetected = false;
 
-  // 1. Check URL param ?country=XX (for explicit selection)
   const urlCountry = url.searchParams.get('country') as CountryCode | null;
   if (urlCountry && ALL_CONFIGURED_CODES.includes(urlCountry.toUpperCase() as CountryCode)) {
     activeCountryCode = urlCountry.toUpperCase() as CountryCode;
-  }
-  // 2. Check cookie
-  else {
+  } else {
     const cookieCountry = context.cookies.get('spt_country')?.value as CountryCode | undefined;
     if (cookieCountry && ALL_CONFIGURED_CODES.includes(cookieCountry.toUpperCase() as CountryCode)) {
       activeCountryCode = cookieCountry.toUpperCase() as CountryCode;
-    }
-    // 3. Detect from IP (Cloudflare or API fallback)
-    else {
+    } else {
       const cfCountry = context.request.headers.get('cf-ipcountry') as CountryCode | undefined;
       if (cfCountry && ALL_CONFIGURED_CODES.includes(cfCountry.toUpperCase() as CountryCode)) {
         activeCountryCode = cfCountry.toUpperCase() as CountryCode;
         countryDetected = true;
       } else if (!isInternalPath) {
-        const clientIP = context.request.headers.get('cf-connecting-ip') ||
+        const clientIP =
+          context.request.headers.get('cf-connecting-ip') ||
           context.request.headers.get('x-forwarded-for')?.split(',')[0]?.trim() ||
           '127.0.0.1';
         const apiCountry = await detectCountryFromApi(clientIP);
@@ -124,18 +118,18 @@ export const onRequest = defineMiddleware(async (context, next) => {
     }
   }
 
-  // Check if this country has content
   const hasContent = CONTENT_COUNTRIES.includes(activeCountryCode);
+  const activeCountryConfig = getCountryConfig(activeCountryCode) ?? getCountryConfig(DEFAULT_COUNTRY);
 
-  // Set country info in locals for use in pages/components
-  // This uses a simple format that Layout.astro can use for display decisions
+  if (activeCountryConfig) {
+    context.locals.country = activeCountryConfig;
+  }
   context.locals.countryCode = activeCountryCode;
   context.locals.countryDetected = countryDetected;
   context.locals.countryHasContent = hasContent;
-  context.locals.countryName = COUNTRY_NAMES[activeCountryCode] || activeCountryCode;
-  context.locals.countryFlag = COUNTRY_FLAGS[activeCountryCode] || '🌍';
+  context.locals.countryName = activeCountryConfig?.name || COUNTRY_NAMES[activeCountryCode] || activeCountryCode;
+  context.locals.countryFlag = activeCountryConfig?.flag || COUNTRY_FLAGS[activeCountryCode] || '🌍';
 
-  // Continue to the page
   const response = await next();
 
   const headers = new Headers(response.headers);
@@ -152,6 +146,6 @@ export const onRequest = defineMiddleware(async (context, next) => {
   return new Response(response.body, {
     status: response.status,
     statusText: response.statusText,
-    headers
+    headers,
   });
 });
