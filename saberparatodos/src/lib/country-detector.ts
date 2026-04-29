@@ -10,6 +10,7 @@ import {
   type CountryConfig as SharedCountryConfig,
   type CountryCode
 } from '../../../config/countries.config';
+import { getExplicitProductCountryCode } from '../config';
 
 const IP_API_BASE = 'http://ip-api.com/json';
 const CACHE_KEY = 'worldexams_country';
@@ -69,10 +70,11 @@ interface CachedCountry {
 
 // Client-side country detection with caching
 export async function detectCountryClient(): Promise<SharedCountryConfig> {
-  const defaultCountry = 'CO' as CountryCode;
+  const explicitDefaultCountry = getExplicitProductCountryCode();
+  const fallbackCountry = explicitDefaultCountry || ('US' as CountryCode);
   
   if (typeof window === 'undefined') {
-    return getCountryConfig(defaultCountry)!;
+    return getCountryConfig(fallbackCountry)!;
   }
 
   // Check localStorage cache first
@@ -102,13 +104,13 @@ export async function detectCountryClient(): Promise<SharedCountryConfig> {
   }
 
   // Get user's IP via ipify
-  let userIP = '187.0.0.1'; // Fallback
+  let userIP = '';
   try {
     const ipResponse = await fetch('https://api.ipify.org?format=json');
     const { ip } = await ipResponse.json();
     userIP = ip;
   } catch {
-    // Use fallback IP
+    // Continue without a synthetic country-biased IP.
   }
 
   // Quick IP range detection (no API call)
@@ -125,13 +127,16 @@ export async function detectCountryClient(): Promise<SharedCountryConfig> {
   try {
     const response = await fetch(`${IP_API_BASE}/${userIP}`);
     const data = await response.json();
-    const countryCode = (data.countryCode || 'CO') as CountryCode;
-    const config = getCountryConfig(countryCode) || getCountryConfig(defaultCountry)!;
+    const countryCode = data.countryCode as CountryCode | undefined;
+    const config =
+      (countryCode ? getCountryConfig(countryCode) : undefined) ||
+      (explicitDefaultCountry ? getCountryConfig(explicitDefaultCountry) : undefined) ||
+      getCountryConfig(fallbackCountry)!;
     cacheCountry(config.code);
     return config;
   } catch {
-    // Fallback to default (Colombia)
-    return getCountryConfig(defaultCountry)!;
+    // Fall back to the explicitly configured product country when available.
+    return getCountryConfig(fallbackCountry)!;
   }
 }
 
