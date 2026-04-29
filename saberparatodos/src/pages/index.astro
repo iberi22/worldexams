@@ -8,9 +8,9 @@ const runtimeCountry = Astro.locals.country ? toRuntimeCountryConfig(Astro.local
 ---
 
 <Layout
-  title="Zona de Práctica ICFES | SaberParaTodos"
-  description="Accede a la app de práctica de SaberParaTodos para crear simulacros, entrenar por áreas y revisar resultados."
-  keywords="practicar examenes, simulacros gratis, simulacro saber 11, preguntas icfes"
+  title={`Zona de Practica ${runtimeCountry.examName} | ${runtimeCountry.product.siteName}`}
+  description={`Accede a la app de practica de ${runtimeCountry.product.siteName} para crear simulacros, entrenar por areas y revisar resultados para ${runtimeCountry.examFullName}.`}
+  keywords={`practicar examenes, simulacros gratis, preguntas ${runtimeCountry.examName.toLowerCase()}, ${runtimeCountry.examAuthority.toLowerCase()}, ${runtimeCountry.name.toLowerCase()}`}
   showNavbar={false}
   showFooter={false}
 >
@@ -32,15 +32,15 @@ const runtimeCountry = Astro.locals.country ? toRuntimeCountryConfig(Astro.local
 
       <div class="max-w-4xl mx-auto text-center mt-12 md:mt-0 relative z-10 transition-transform duration-700 translate-y-4 opacity-0 animate-[fade-in-up_0.8s_ease-out_forwards]">
         <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-emerald-400 text-xs font-mono mb-8 uppercase tracking-widest">
-          Simulacros 2026 • gratis
+          {runtimeCountry.examAuthority} 2026 • gratis
         </div>
 
         <h1 class="text-4xl md:text-7xl font-black text-[#F5F5DC] mb-6 tracking-tight drop-shadow-md">
-          Domina el ICFES con <br class="md:hidden" /><span class="text-emerald-500">Inteligencia</span>
+          Domina {runtimeCountry.examName} con <br class="md:hidden" /><span class="text-emerald-500">Inteligencia</span>
         </h1>
 
         <p class="text-lg md:text-xl text-white/60 mb-12 max-w-2xl mx-auto leading-relaxed px-4 md:px-0">
-          La plataforma gratuita y de código abierto para estudiantes de América Latina. Crea simulacros personalizados, entrena por áreas y prepárate para los mejores resultados.
+          La plataforma gratuita y de codigo abierto para estudiantes de America Latina. Crea simulacros personalizados, entrena por areas y preparate para {runtimeCountry.examFullName}.
         </p>
 
         <!-- Indicador de tiempo y checkbox -->
@@ -133,5 +133,6 @@ const runtimeCountry = Astro.locals.country ? toRuntimeCountryConfig(Astro.local
     questions={[]}
     universalPool={null}
     countryCode={runtimeCountry.code}
+    runtimeCountry={runtimeCountry}
   />
 </Layout>

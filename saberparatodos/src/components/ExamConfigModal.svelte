@@ -18,12 +18,14 @@
   } from '../lib/questions';
   import { getCachedEnglishQuestions, getAnsweredQuestionIds } from '../lib/idb-storage'; // 🆕
   import { CURRICULUM_CO, normalizeTopic } from '../config/curriculum'; // 🆕 Import Curriculum Logic
-  import { countryConfig } from '../config';
+  import { countryConfig as defaultCountryConfig } from '../config';
+  import type { CountryConfig as RuntimeCountryConfig } from '../config';
   import { getPreuCatalogEntries, isPreuRuntimeEnabled } from '../lib/preuniversitario/catalog';
   import MenGuidelinesModal from './MenGuidelinesModal.svelte';
 
   let {
-    countryCode = countryConfig.code,
+    countryCode = defaultCountryConfig.code,
+    runtimeCountry = defaultCountryConfig,
     subject: initialSubject,
     currentGrade: initialGrade = 11,
     isLoggedIn = false,
@@ -31,7 +33,17 @@
     onCancel,
     availableQuestions = [],
     initialRoomCode = ''
-  } = $props();
+  } = $props<{
+    countryCode?: string;
+    runtimeCountry?: RuntimeCountryConfig;
+    subject?: string;
+    currentGrade?: number;
+    isLoggedIn?: boolean;
+    onStart: (config: Record<string, unknown>) => void;
+    onCancel: () => void;
+    availableQuestions?: any[];
+    initialRoomCode?: string;
+  }>();
 
   const preuEnabled = isPreuRuntimeEnabled(countryCode);
 
@@ -1344,7 +1356,7 @@
                         Evaluando: Todo el Año
                       </div>
                       <div class="px-2 py-0.5 bg-blue-500/10 border border-blue-500/20 rounded-full text-[8px] font-black text-blue-400 uppercase tracking-[0.2em] animate-pulse">
-                        ICFES ESTÁNDAR
+                        {runtimeCountry.examAuthority} ESTÁNDAR
                       </div>
                    </div>
                 {/if}
