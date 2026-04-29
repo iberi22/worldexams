@@ -5,6 +5,7 @@ import { ensureBasePool, deepSearchPool, dedupeById } from './pool';
 import { buildDiagnosticMixPool, selectExamQuestions } from './selection';
 import type { QuestionSelectionDeps, QuestionSelectionRequest, QuestionSelectionResult } from './types';
 import { buildPreuExamPool, getPreuQuestionBank } from '../preuniversitario/exam-pool';
+import { isPreuRuntimeEnabled } from '../preuniversitario/catalog';
 import { filterGrade11PreicfesReady } from './policy';
 
 export async function loadEnglishDiagnosticPool(
@@ -46,10 +47,14 @@ export async function prepareSoloExamQuestions(
   }
 
   if (isPreuMode) {
-    const localPreuQuestions = getPreuQuestionBank(request.preuUniversity);
+    if (!isPreuRuntimeEnabled(request.countryCode)) {
+      throw new Error('Preuniversitario todavia no esta disponible para este tenant.');
+    }
+
+    const localPreuQuestions = getPreuQuestionBank(request.countryCode, request.preuUniversity);
     if (localPreuQuestions.length === 0 && request.preuUniversity) {
       warnings.push(`No se encontraron preguntas PREU para ${request.preuUniversity}. Se usará el banco PREU general.`);
-      pool = dedupeById([...pool, ...getPreuQuestionBank()]);
+      pool = dedupeById([...pool, ...getPreuQuestionBank(request.countryCode)]);
     } else {
       pool = dedupeById([...pool, ...localPreuQuestions]);
     }
