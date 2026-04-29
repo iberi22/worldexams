@@ -5,10 +5,11 @@ import GradeCard from '../components/guia/GradeCard.astro';
 import CompetencyList from '../components/guia/CompetencyList.astro';
 import TipsSection from '../components/guia/TipsSection.astro';
 import StatsIcfes from '../components/guia/StatsIcfes.astro';
-import { countryConfig } from '../config';
+import { countryConfig as defaultConfig, toRuntimeCountryConfig } from '../config';
 import { getExamGuideContent } from '../config/exam-guide-content';
 
-const guideContent = getExamGuideContent(countryConfig);
+const country = Astro.locals.country ? toRuntimeCountryConfig(Astro.locals.country) : defaultConfig;
+const guideContent = getExamGuideContent(country);
 const isCO = guideContent.variant === 'co';
 const isMX = guideContent.variant === 'mx';
 const siteUrl = Astro.site ? Astro.site.toString() : countryConfig.product.siteUrl;

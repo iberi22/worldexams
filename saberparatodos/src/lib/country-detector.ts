@@ -4,12 +4,12 @@
  * Uses the existing countries.config.ts data
  */
 
-import { 
-  allCountries, 
-  getCountryConfig, 
+import {
+  allCountries,
+  getCountryConfig,
   type CountryConfig as SharedCountryConfig,
-  type CountryCode 
-} from '../../config/countries.config';
+  type CountryCode
+} from '../../../config/countries.config';
 
 const IP_API_BASE = 'http://ip-api.com/json';
 const CACHE_KEY = 'worldexams_country';

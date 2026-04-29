@@ -10,7 +10,7 @@ import {
 } from './config/countries.config';
 
 /**
- * Fallback country detection via ipapi.co for local dev (when CF-IPCountry is absent).
+ * Fallback country detection via ip-api.com for local dev (when CF-IPCountry is absent).
  */
 async function detectCountryFromApi(clientIP: string): Promise<CountryCode | null> {
   // Skip for localhost
@@ -19,7 +19,7 @@ async function detectCountryFromApi(clientIP: string): Promise<CountryCode | nul
   }
 
   try {
-    const res = await fetch(`https://ipapi.co/${clientIP}/country/`, {
+    const res = await fetch(`https://ip-api.com/${clientIP}/country/`, {
       signal: AbortSignal.timeout(3000),
     });
     if (res.ok) {
