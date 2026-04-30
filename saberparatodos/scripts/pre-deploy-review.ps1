@@ -129,10 +129,11 @@ if ($BumpStrategy -eq "skip") {
     [System.IO.File]::WriteAllText("$repoRoot\public\build-info.json", $biStr, [System.Text.UTF8Encoding]::new($false))
     Log "build-info.json updated" "INFO"
 
-    # Regenerate package-lock.json to match new version
-    Log "Regenerating package-lock.json..." "INFO"
-    $npmLockOut = npm install --package-lock-only --silent 2>&1
-    Log "npm install (lock only) exit: $LASTEXITCODE" "INFO"
+    # Full npm install to ensure package-lock.json is 100% in sync
+    Log "Running npm install to sync lockfile..." "INFO"
+    $npmLockOut = npm install --silent 2>&1
+    Log "npm install exit: $LASTEXITCODE" "INFO"
+    if ($LASTEXITCODE -ne 0) { throw "npm install failed" }
 
     # Commit version bump
     try {
