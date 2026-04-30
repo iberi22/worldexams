@@ -10,7 +10,7 @@
     "render:hello": "remotion render index.ts HelloWorld out/hello.mp4"
   },
   "dependencies": {
-    "@remotion/cli": "4.0.451",
+    "@remotion/cli": "4.0.454",
     "@remotion/player": "4.0.451",
     "remotion": "4.0.451"
   }
