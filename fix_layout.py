@@ -1,6 +1,6 @@
 import re
 
-with open(r'E:\scripts-python\worldexams\saberparatodos\src\layouts\Layout.astro', 'r', encoding='utf-8') as f:
+with open(r"E:\scripts-python\worldexams\saberparatodos\src\layouts\Layout.astro", "r", encoding="utf-8") as f:
     content = f.read()
 
 # Add CountryBanner import after VersionBadge import
@@ -23,7 +23,7 @@ old = "{showNavbar && <Navbar />}"
 new = "{showNavbar && <Navbar />}\n\n    {showCountryBanner && <CountryBanner currentCountry={Astro.locals.countryCode} />}"
 content = content.replace(old, new)
 
-with open(r'E:\scripts-python\worldexams\saberparatodos\src\layouts\Layout.astro', 'w', encoding='utf-8') as f:
+with open(r"E:\scripts-python\worldexams\saberparatodos\src\layouts\Layout.astro", "w", encoding="utf-8") as f:
     f.write(content)
 
 print("Done - Layout.astro updated")
