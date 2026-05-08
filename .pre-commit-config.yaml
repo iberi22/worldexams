@@ -93,17 +93,12 @@ repos:
         name: Fix EOF
       - id: trailing-whitespace
         name: Fix trailing whitespace
-<<<<<<< HEAD
-=======
-        args: [--markdown-fixtures=ignore]
->>>>>>> 6403a2eec1ac601cf7baf70072c0725b2436fca4
       - id: mixed-line-ending
         name: Normalize line endings
 
   # ── TypeScript / Astro type check ──
   - repo: local
     hooks:
-<<<<<<< HEAD
       # - id: astro-check
         # name: Astro type check
         # entry: powershell -Command "cd saberparatodos; npx astro check 2>&1 | Select-Object -Last 10"
@@ -114,20 +109,7 @@ repos:
 
       - id: tsc-compile
         name: TypeScript compile check
-        entry: powershell -Command "cd saberparatodos; npx tsc --noEmit 2>&1 | Select-String -Pattern 'error|warning' | Select-Object -First 20; if ($LASTEXITCODE -ne 0) { exit 1 } else { Write-Output 'No errors' }"
-=======
-      - id: astro-check
-        name: Astro type check
-        entry: bash -c "cd saberparatodos && npx astro check 2>&1 | tail -10"
-        language: system
-        files: \.(astro|ts|tsx|svelte)$
-        pass_filenames: false
-        require_serial: true
-
-      - id: tsc-compile
-        name: TypeScript compile check
-        entry: bash -c "cd saberparatodos && npx tsc --noEmit 2>&1 | grep -E 'error|warning' | head -20 || echo 'No errors'"
->>>>>>> 6403a2eec1ac601cf7baf70072c0725b2436fca4
+        entry: powershell -Command "cd saberparatodos; ..\node_modules\.bin\tsc.cmd --noEmit 2>&1 | Select-String -Pattern 'error TS' | Select-Object -First 20; if ($LASTEXITCODE -ne 0) { exit 1 } else { Write-Output 'No errors' }"
         language: system
         files: \.ts$
         pass_filenames: false
@@ -148,11 +130,7 @@ repos:
     hooks:
       - id: npm-audit-fast
         name: npm audit fast check
-<<<<<<< HEAD
         entry: powershell -Command "cd saberparatodos; npm audit --audit-level=high 2>&1 | Select-String -Pattern 'vulnerabilities|high|critical' | Select-Object -First 5; if ($LASTEXITCODE -ne 0) { exit 1 } else { Write-Output 'OK' }"
-=======
-        entry: bash -c "cd saberparatodos && npm audit --audit-level=high 2>&1 | grep -E 'vulnerabilities|high|critical' | head -5 || echo 'OK'"
->>>>>>> 6403a2eec1ac601cf7baf70072c0725b2436fca4
         language: system
         files: package\.json$
         pass_filenames: false
@@ -162,10 +140,6 @@ repos:
     hooks:
       - id: no-main-commit
         name: Block direct main commits
-<<<<<<< HEAD
         entry: powershell -Command "git branch --show-current | Where-Object { $_ -match '^(main|master)$' }; if ($LASTEXITCODE -eq 0) { exit 1 } else { exit 0 }"
-=======
-        entry: bash -c "git branch --show-current | grep -E '^(main|master)$' && exit 1 || exit 0"
->>>>>>> 6403a2eec1ac601cf7baf70072c0725b2436fca4
         language: system
         stages: [commit-msg]
