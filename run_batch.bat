@@ -1,0 +1,1 @@
+cd /d E:\scripts-python\worldexams && npx tsx scripts/massive-generation.ts --run --batch=5

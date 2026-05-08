@@ -177,4 +177,3 @@ What is the term for resources that can be replenished naturally over time, such
 | 5 | CO-ING-11-part1-012-v5 | 3 | ⬜ |
 | 6 | CO-ING-11-part1-012-v6 | 5 | ⬜ |
 | 7 | CO-ING-11-part1-012-v7 | 5 | ⬜ |
-

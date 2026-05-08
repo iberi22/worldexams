@@ -34,10 +34,10 @@ license: "CC BY-NC-SA 4.0"
 
 My computer is running very slowly; I think it has a _______.
 
-A) update  
-B) virus [x]  
-C) password  
-D) charger  
+A) update
+B) virus [x]
+C) password
+D) charger
 
 ---
 
@@ -46,10 +46,10 @@ D) charger
 
 I cannot remember my _______ to access my email account.
 
-A) username  
-B) password [x]  
-C) keyboard  
-D) application  
+A) username
+B) password [x]
+C) keyboard
+D) application
 
 ---
 
@@ -58,10 +58,10 @@ D) application
 
 Many species are at risk of _______ because their natural habitats are being destroyed.
 
-A) extinction [x]  
-B) growth  
-C) migration  
-D) survival  
+A) extinction [x]
+B) growth
+C) migration
+D) survival
 
 ---
 
@@ -70,10 +70,10 @@ D) survival
 
 Plastic waste in the oceans is a serious _______ problem.
 
-A) economic  
-B) political  
-C) environmental [x]  
-D) educational  
+A) economic
+B) political
+C) environmental [x]
+D) educational
 
 ---
 
@@ -82,10 +82,10 @@ D) educational
 
 After the accident, the _______ took the injured person to the hospital.
 
-A) ambulance [x]  
-B) teacher  
-C) farmer  
-D) pilot  
+A) ambulance [x]
+B) teacher
+C) farmer
+D) pilot
 
 ---
 
@@ -94,10 +94,10 @@ D) pilot
 
 The nurse measured the patient's blood _______ during the checkup.
 
-A) pressure [x]  
-B) color  
-C) length  
-D) weight  
+A) pressure [x]
+B) color
+C) length
+D) weight
 
 ---
 
@@ -106,10 +106,10 @@ D) weight
 
 She got a job as a financial _______ at a multinational company.
 
-A) analyst [x]  
-B) artist  
-C) athlete  
-D) chef  
+A) analyst [x]
+B) artist
+C) athlete
+D) chef
 
 ---
 
@@ -118,10 +118,10 @@ D) chef
 
 The job _______ includes a competitive salary and health benefits.
 
-A) description  
-B) application  
-C) requirement  
-D) offer [x]  
+A) description
+B) application
+C) requirement
+D) offer [x]
 
 ---
 
@@ -130,10 +130,10 @@ D) offer [x]
 
 During our trip, we visited a famous historical _______.
 
-A) monument [x]  
-B) supermarket  
-C) hospital  
-D) stadium  
+A) monument [x]
+B) supermarket
+C) hospital
+D) stadium
 
 ---
 
@@ -142,10 +142,10 @@ D) stadium
 
 The best way to explore the city is on foot or by _______.
 
-A) car  
-B) bicycle [x]  
-C) airplane  
-D) boat  
+A) car
+B) bicycle [x]
+C) airplane
+D) boat
 
 ---
 
@@ -154,10 +154,10 @@ D) boat
 
 Social _______ has changed the way people communicate and share information.
 
-A) media [x]  
-B) security  
-C) network  
-D) platform  
+A) media [x]
+B) security
+C) network
+D) platform
 
 ---
 
@@ -166,10 +166,10 @@ D) platform
 
 Always _______ your software to have the latest security updates.
 
-A) update [x]  
-B) uninstall  
-C) ignore  
-D) avoid  
+A) update [x]
+B) uninstall
+C) ignore
+D) avoid
 
 ---
 
@@ -178,10 +178,10 @@ D) avoid
 
 The _______ layer is protecting the Earth from harmful ultraviolet rays.
 
-A) oxygen  
-B) nitrogen  
-C) carbon  
-D) ozone [x]  
+A) oxygen
+B) nitrogen
+C) carbon
+D) ozone [x]
 
 ---
 
@@ -190,10 +190,10 @@ D) ozone [x]
 
 Rising sea levels are a direct consequence of global _______.
 
-A) cooling  
-B) warming [x]  
-C) wind  
-D) rain  
+A) cooling
+B) warming [x]
+C) wind
+D) rain
 
 ---
 
@@ -202,10 +202,10 @@ D) rain
 
 A balanced diet rich in fruits and vegetables contributes to a healthy _______.
 
-A) economy  
-B) lifestyle [x]  
-C) career  
-D) schedule  
+A) economy
+B) lifestyle [x]
+C) career
+D) schedule
 
 ---
 
@@ -214,10 +214,10 @@ D) schedule
 
 The medical _______ showed that the treatment was effective.
 
-A) examination [x]  
-B) interview  
-C) meeting  
-D) conference  
+A) examination [x]
+B) interview
+C) meeting
+D) conference
 
 ---
 
@@ -226,10 +226,10 @@ D) conference
 
 Networking is an important _______ strategy for finding job opportunities.
 
-A) financial  
-B) career [x]  
-C) mathematical  
-D) cooking  
+A) financial
+B) career [x]
+C) mathematical
+D) cooking
 
 ---
 
@@ -238,10 +238,10 @@ D) cooking
 
 The company decided to _______ a new hiring process to attract more diverse candidates.
 
-A) eliminate  
-B) implement [x]  
-C) ignore  
-D) postpone  
+A) eliminate
+B) implement [x]
+C) ignore
+D) postpone
 
 ---
 
@@ -250,10 +250,10 @@ D) postpone
 
 Because of the pandemic, many tourists had to _______ their travel plans.
 
-A) confirm  
-B) cancel [x]  
-C) extend  
-D) start  
+A) confirm
+B) cancel [x]
+C) extend
+D) start
 
 ---
 
@@ -262,10 +262,10 @@ D) start
 
 The travel brochure described the destination as a tropical _______ with pristine beaches.
 
-A) desert  
-B) island [x]  
-C) mountain  
-D) forest  
+A) desert
+B) island [x]
+C) mountain
+D) forest
 
 ---
 

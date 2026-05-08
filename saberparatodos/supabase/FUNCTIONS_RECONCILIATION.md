@@ -118,4 +118,3 @@ For each one decide exactly one:
 3. Check whether `analyze-party-results` is meant to back the live exam-room flow
 4. Recover or retire the three remote-only functions
 5. Re-run the audit script and update this file
-

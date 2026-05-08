@@ -1,25 +1,35 @@
 <script lang="ts">
   import { fade, scale } from 'svelte/transition';
 
-  export let show = false;
-  export let onClose: () => void;
-  export let questionId: string | null = null;
-  export let userContext: string = 'LocalReportsView';
-  export let questionData: any = null; // Optional: pass full question data for context
+  let {
+    show = false,
+    onClose,
+    questionId = null,
+    userContext = 'LocalReportsView',
+    questionData = null,
+    availableReportTypes = null
+  } = $props();
 
-  let reportType = 'feedback';
-  let message = '';
-  let loading = false;
-  let success = false;
-  let error = '';
+  let reportType = $state('feedback');
+  let message = $state('');
+  let loading = $state(false);
+  let success = $state(false);
+  let error = $state('');
 
-  const reportTypes = [
+  const ALL_REPORT_TYPES = [
     { id: 'feedback', label: '💡 Sugerencia / Feedback', requiresQuestion: false },
     { id: 'error', label: '🐛 Error en Pregunta', requiresQuestion: true },
     { id: 'content', label: '📝 Contenido Confuso', requiresQuestion: true },
     { id: 'technical', label: '⚙️ Problema Técnico', requiresQuestion: false },
-    { id: 'other', label: '💬 Otro', requiresQuestion: false }
+    { id: 'other', label: '💬 Otro', requiresQuestion: false },
+    { id: 'guideline_disagree', label: '🏛️ No estoy de acuerdo con el Lineamiento', requiresQuestion: false }
   ];
+
+  let reportTypes = $derived(
+    availableReportTypes
+      ? ALL_REPORT_TYPES.filter(t => availableReportTypes.includes(t.id))
+      : ALL_REPORT_TYPES
+  );
 
 
 
@@ -91,9 +101,11 @@
     >
       <!-- Header -->
       <div class="px-6 py-4 border-b border-white/5 bg-gradient-to-r from-white/5 to-transparent flex justify-between items-center">
-        <h3 class="text-white font-bold flex items-center gap-2">
+        <h3 class="text-white font-bold text-center flex items-center justify-center gap-2">
           {#if success}
             <span class="text-emerald-400">✅ Enviado</span>
+          {:else if userContext === 'MenGuidelinesContent'}
+            <span>🏛️ Reportar Lineamiento M.E.N.</span>
           {:else}
             <span>{questionId ? '🚩 Reportar Problema' : '💬 Enviar Feedback'}</span>
           {/if}
@@ -152,7 +164,9 @@
               bind:value={message}
               rows="4"
               class="w-full bg-black/20 border border-white/10 rounded-xl p-3 text-sm text-white placeholder-white/20 focus:outline-none focus:border-emerald-500/50 focus:bg-white/5 transition-all resize-none"
-              placeholder="Describe el problema o tu sugerencia aquí..."
+              placeholder={userContext === 'MenGuidelinesContent'
+                ? 'Explica por qué no estás de acuerdo con este lineamiento o sugiere una mejora...'
+                : 'Describe el problema o tu sugerencia aquí...'}
             ></textarea>
             {#if error}
               <p class="text-red-400 text-xs px-1">{error}</p>
@@ -177,10 +191,10 @@
           </div>
 
           <!-- Footer Actions -->
-          <div class="pt-4 flex justify-end gap-3">
+          <div class="pt-4 flex justify-between items-center gap-3">
             <button
               on:click={onClose}
-              class="px-4 py-2 rounded-lg text-xs font-bold text-white/40 hover:text-white hover:bg-white/5 transition-colors"
+              class="px-4 py-2 rounded-lg text-xs font-bold text-white/40 hover:text-white hover:bg-white/10 transition-colors"
             >
               Cancelar
             </button>

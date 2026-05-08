@@ -15,6 +15,10 @@ export const ICFES_PROXY_METHODOLOGY_VERSION = 'icfes-proxy-v1';
 export const ICFES_PROXY_DISCLAIMER =
   'Estimacion de practica; no reemplaza el reporte oficial del ICFES.';
 
+export const PAES_PROXY_METHODOLOGY_VERSION = 'paes-proxy-v1';
+export const PAES_PROXY_DISCLAIMER =
+  'Estimación de práctica; no reemplaza el reporte oficial del DEMRE.';
+
 export type IcfesEstimateConfidence = 'low' | 'medium' | 'high';
 
 export interface IcfesModuleScores {
@@ -34,6 +38,7 @@ export interface IcfesEstimate {
   minimumEvidenceMet: boolean;
   disclaimer: string;
   estimatedModuleScores?: IcfesModuleScores;
+  examType?: 'ICFES' | 'PAES';
 }
 
 export interface IcfesProxySignals {
@@ -99,7 +104,48 @@ export function estimateIcfesScore(signals: IcfesProxySignals): IcfesEstimate {
     methodologyVersion: ICFES_PROXY_METHODOLOGY_VERSION,
     minimumEvidenceMet: evidenceCount >= 20,
     disclaimer: ICFES_PROXY_DISCLAIMER,
-    estimatedModuleScores: signals.estimatedModuleScores
+    estimatedModuleScores: signals.estimatedModuleScores,
+    examType: 'ICFES'
+  };
+}
+
+/**
+ * Estimate PAES score (150-850) based on signals
+ */
+export function estimatePaesScore(signals: IcfesProxySignals): IcfesEstimate {
+  const evidenceCount = Math.max(0, Math.round(signals.evidenceCount ?? 0));
+  const subjectCoverage = Math.max(1, Math.round(signals.subjectCoverage ?? 1));
+
+  // PAES Scale: 150 to 850
+  // MMR (0-500) mapped to (150-850)
+  // 0 MMR -> 150
+  // 500 MMR -> 850
+  // Formula: 150 + (MMR * (850-150)/500) = 150 + (MMR * 1.4)
+  const rawScore = clamp(signals.mmr, 0, 500);
+  const earnedPaes = rawScore * 1.4;
+
+  // Adjusted scaling to ensure 500 MMR reaches 850 when evidence is maxed
+  // The current evidenceFactor and subjectCoverageFactor can be < 1.0 even with high evidence.
+  // We want the estimate to be more "honest" about the scale if evidence is high.
+  const factor = evidenceFactor(evidenceCount) * subjectCoverageFactor(subjectCoverage);
+
+  // If we have high evidence, we should reach the top of the scale.
+  // However, the methodology typically penalizes lack of evidence.
+  // For PAES, we apply the penalty factors ONLY to the earned points above the 150 minimum base.
+  const scaledScore = 150 + (earnedPaes * factor);
+  const score = clamp(Math.round(scaledScore), 150, 850);
+  const confidence = confidenceFromEvidence(evidenceCount, subjectCoverage);
+
+  return {
+    score,
+    confidence,
+    label: confidenceLabel(confidence),
+    evidenceCount,
+    methodologyVersion: PAES_PROXY_METHODOLOGY_VERSION,
+    minimumEvidenceMet: evidenceCount >= 20,
+    disclaimer: PAES_PROXY_DISCLAIMER,
+    estimatedModuleScores: signals.estimatedModuleScores,
+    examType: 'PAES'
   };
 }
 
