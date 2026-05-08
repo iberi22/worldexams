@@ -15,10 +15,11 @@ Usage:
 import argparse
 import re
 import sys
-import yaml
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Optional
+
+import yaml
 
 GREEN = "[92m"
 RED = "[91m"
@@ -32,7 +33,7 @@ MARK_WARN = "[WARN]"
 WORLDEXAMS_ROOT = Path(r"E:\scripts-python\worldexams")
 QUESTIONS_DATA = WORLDEXAMS_ROOT / "questions_data"
 
-REQUIRED_FRONTMATTER = ['id', 'country', 'grado', 'asignatura', 'tema', 'periodo', 'protocol_version', 'bundle_size']
+REQUIRED_FRONTMATTER = ["id", "country", "grado", "asignatura", "tema", "periodo", "protocol_version", "bundle_size"]
 
 
 @dataclass
@@ -73,16 +74,18 @@ def validate_bundle_file(file_path: Path) -> tuple[bool, list[ValidationIssue], 
             issues.append(ValidationIssue("CRITICAL", f"Missing required frontmatter field: {field}", str(file_path)))
 
     # Check protocol_version is 5.1
-    if fm.get('protocol_version') not in ('5.1', 5.1, '5', 5):
+    if fm.get("protocol_version") not in ("5.1", 5.1, "5", 5):
         warnings.append(f"Expected protocol_version 5.1, got {fm.get('protocol_version')}")
 
     # Count questions
-    expected = fm.get('bundle_size') or fm.get('total_questions') or 20
+    expected = fm.get("bundle_size") or fm.get("total_questions") or 20
     question_matches = re.findall(r"##\s+(Question|Pregunta)\s+\d+", content, re.IGNORECASE)
     actual = len(question_matches)
 
     if actual != expected:
-        issues.append(ValidationIssue("CRITICAL", f"Question count mismatch: expected {expected}, found {actual}", str(file_path)))
+        issues.append(
+            ValidationIssue("CRITICAL", f"Question count mismatch: expected {expected}, found {actual}", str(file_path))
+        )
         valid = False
 
     # Validate each question block
@@ -93,19 +96,31 @@ def validate_bundle_file(file_path: Path) -> tuple[bool, list[ValidationIssue], 
         correct_count = len(re.findall(r"- \[x\]", block, re.IGNORECASE))
 
         if len(options) < 4:
-            issues.append(ValidationIssue("HIGH", f"Question {i}: fewer than 4 options (found {len(options)})", str(file_path)))
+            issues.append(
+                ValidationIssue("HIGH", f"Question {i}: fewer than 4 options (found {len(options)})", str(file_path))
+            )
             valid = False
         if correct_count != 1:
-            issues.append(ValidationIssue("HIGH", f"Question {i}: expected exactly 1 correct [x], found {correct_count}", str(file_path)))
+            issues.append(
+                ValidationIssue(
+                    "HIGH", f"Question {i}: expected exactly 1 correct [x], found {correct_count}", str(file_path)
+                )
+            )
             valid = False
 
         # Check for prohibited patterns
-        if re.search(r"todas las anteriores|ninguna de las anteriores|a y b|^\(?(todas|ninguna)\)", block, re.IGNORECASE):
+        if re.search(
+            r"todas las anteriores|ninguna de las anteriores|a y b|^\(?(todas|ninguna)\)", block, re.IGNORECASE
+        ):
             issues.append(ValidationIssue("CRITICAL", f"Question {i}: prohibited pattern found", str(file_path)))
             valid = False
 
     # Check for placeholder content in questions
-    placeholder_pattern = re.search(r"## Question \d+\s*\n\s*\*\*ID:\*\*\s*`[^`]+`\s*\n\s*### Enunciado\s*\n\s*(Question \d+|[A-D]\)|\(?[D-P]\d+\)|\n[a-z]{{1,10}}\s+[A-Z]|^\s*$)", content, re.MULTILINE | re.IGNORECASE)
+    placeholder_pattern = re.search(
+        r"## Question \d+\s*\n\s*\*\*ID:\*\*\s*`[^`]+`\s*\n\s*### Enunciado\s*\n\s*(Question \d+|[A-D]\)|\(?[D-P]\d+\)|\n[a-z]{{1,10}}\s+[A-Z]|^\s*$)",
+        content,
+        re.MULTILINE | re.IGNORECASE,
+    )
     if placeholder_pattern:
         warnings.append(f"Possible placeholder content detected in question headers")
 
@@ -143,7 +158,7 @@ def main():
 
     # Determine base path
     if args.country:
-        country_map = {'co': 'colombia', 'mx': 'mexico', 'ar': 'argentina', 'cl': 'chile', 'pe': 'peru', 'br': 'brasil'}
+        country_map = {"co": "colombia", "mx": "mexico", "ar": "argentina", "cl": "chile", "pe": "peru", "br": "brasil"}
         country_key = args.country.lower()
         country_path = country_map.get(country_key, country_key)
         base_path = QUESTIONS_DATA / country_path

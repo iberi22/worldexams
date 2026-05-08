@@ -72,7 +72,7 @@ interface CachedCountry {
 export async function detectCountryClient(): Promise<SharedCountryConfig> {
   const explicitDefaultCountry = getExplicitProductCountryCode();
   const fallbackCountry = explicitDefaultCountry || ('US' as CountryCode);
-  
+
   if (typeof window === 'undefined') {
     return getCountryConfig(fallbackCountry)!;
   }
@@ -150,7 +150,7 @@ function cacheCountry(code: CountryCode): void {
 // For getting the cached country without making an API call
 export function getCachedCountry(): SharedCountryConfig | null {
   if (typeof window === 'undefined') return null;
-  
+
   try {
     const cached = localStorage.getItem(CACHE_KEY);
     if (cached) {
@@ -182,14 +182,14 @@ export function setCountryOverride(code: string): void {
   const countryCode = code.toUpperCase() as CountryCode;
   const config = getCountryConfig(countryCode);
   if (!config) return;
-  
+
   cacheCountry(countryCode);
-  
+
   if (typeof window !== 'undefined') {
     // Navigate to country-specific path
     const path = window.location.pathname;
     const countryPath = `/${countryCode.toLowerCase()}`;
-    
+
     // If already on a country path, replace it
     if (path.match(/^\/(mx|ar|cl|pe|ec|br)\//)) {
       window.location.href = path.replace(/^\/(mx|ar|cl|pe|ec|br)/, countryCode.toLowerCase());

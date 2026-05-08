@@ -18,7 +18,7 @@ TASK_FILE = r"E:\scripts-python\worldexams\.worldexams\country-fix-log.json"
 def run(cmd):
     """Run a command and return output."""
     result = subprocess.run(
-        cmd, shell=True, capture_output=True, text=True, 
+        cmd, shell=True, capture_output=True, text=True,
         cwd=r"E:\scripts-python\worldexams"
     )
     return result.stdout.strip(), result.stderr.strip(), result.returncode
@@ -95,7 +95,7 @@ def save_progress(issue_number, status):
 
 def main():
     print("=== Country-Multi Issue Fixer ===")
-    
+
     # Check if already working on something
     if Path(TASK_FILE).exists():
         with open(TASK_FILE) as f:
@@ -103,65 +103,65 @@ def main():
         if state.get("status") == "working":
             print(f"Already working on issue #{state.get('current_issue')}, skipping.")
             return
-    
+
     issues = get_open_issues()
     if not issues:
         print("No open unassigned country-multi issues found.")
         return
-    
+
     # Pick the first unassigned issue
     issue = issues[0]
     issue_number = issue['number']
     title = issue['title']
-    
+
     print(f"Picking issue #{issue_number}: {title}")
     save_progress(issue_number, "working")
-    
+
     # Get full issue details
     details = get_issue_details(issue_number)
     if not details:
         print(f"Failed to get details for issue #{issue_number}")
         save_progress(issue_number, "error")
         return
-    
+
     # Create the prompt for Codex
     prompt = create_fix_script(issue_number, title, details.get('body', ''), details.get('labels', []))
-    
+
     # Save prompt to file for Codex
     prompt_file = REPO.replace("/", "_") + f"_issue_{issue_number}.txt"
     prompt_path = Path(r"E:\scripts-python\worldexams") / prompt_file
     with open(prompt_path, 'w', encoding='utf-8') as f:
         f.write(prompt)
-    
+
     print(f"Prompt saved to {prompt_path}")
     print(f"Run this command to execute:")
     print(f'  codex exec --full-auto < {prompt_path}')
-    
+
     # Actually run Codex now
     print("\nExecuting Codex agent...")
     cmd = f'codex exec --full-auto'
-    
+
     # Use PowerShell to pipe the prompt to Codex
     ps_cmd = f'Get-Content "{prompt_path}" | codex exec'
-    
+
     result = subprocess.run(
         ps_cmd, shell=True, capture_output=True, text=True,
         cwd=AGENT_DIR
     )
-    
+
     print("STDOUT:", result.stdout[-2000:] if len(result.stdout) > 2000 else result.stdout)
     if result.stderr:
         print("STDERR:", result.stderr[-1000:] if len(result.stderr) > 1000 else result.stderr)
-    
+
     if result.returncode == 0:
         print(f"✅ Codex finished successfully for issue #{issue_number}")
         # Close the issue
         run(f'gh issue close {issue_number} --repo {REPO} --comment "Fixed automatically by country-fix-cronjob."')
     else:
         print(f"❌ Codex failed with code {result.returncode}")
-    
+
     save_progress(issue_number, "done" if result.returncode == 0 else "failed")
-    
+
     # Cleanup prompt file
     prompt_path.unlink(missing_ok=True)
 
