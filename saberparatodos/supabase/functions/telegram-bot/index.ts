@@ -16,10 +16,10 @@ async function createGitHubIssue(questionId: string, comment: string, userName: 
     console.warn("GITHUB_TOKEN not configured, skipping issue creation");
     return null;
   }
-  
+
   const issueTitle = `[User Report] Question: ${questionId}`;
   const issueBody = `## User Report\n\n**Question ID:** ${questionId}\n**Reported by:** ${userName}\n\n---\n\n## User Comment:\n${comment}\n\n---\n\n**Status:** Needs Review\n\n---\n*This issue was automatically created from a user report on WorldExams.*`;
-  
+
   try {
     const response = await fetch(`https://api.github.com/repos/${GITHUB_REPO}/issues`, {
       method: "POST",
@@ -34,7 +34,7 @@ async function createGitHubIssue(questionId: string, comment: string, userName: 
         labels: ["user-report", "question-issue"]
       })
     });
-    
+
     if (response.ok) {
       const data = await response.json();
       console.log(`GitHub issue created: ${data.html_url}`);

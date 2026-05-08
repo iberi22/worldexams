@@ -1,0 +1,37 @@
+[
+  {
+    "question_id": "CO-MAT-10-real-numbers-001-PRO-v1",
+    "status": "qa_failed",
+    "started_at": "2026-04-24T18:22:04.004Z",
+    "output_path": "E:\\scripts-python\\worldexams\\saberparatodos\\video-pipeline\\output\\CO-MAT-10-real-numbers-001-PRO-v1.mp4",
+    "qa": {
+      "question_id": "CO-MAT-10-real-numbers-001-PRO-v1",
+      "generated_at": "2026-04-24T18:22:04.003Z",
+      "all_passed": false,
+      "checks": [
+        {
+          "name": "file_exists",
+          "passed": true,
+          "detail": "E:\\scripts-python\\worldexams\\saberparatodos\\video-pipeline\\output\\CO-MAT-10-real-numbers-001-PRO-v1.mp4"
+        },
+        {
+          "name": "file_size",
+          "passed": true,
+          "detail": "0.65 MB OK"
+        },
+        {
+          "name": "video_duration",
+          "passed": true,
+          "detail": "ffprobe not available — skipped"
+        },
+        {
+          "name": "video_integrity",
+          "passed": false,
+          "detail": "Command failed: ffprobe -v error \"E:\\scripts-python\\worldexams\\saberparatodos\\video-pipeline\\output\\CO-MAT-10-real-numbers-001-PRO-v1.mp4\"\n\"ffprobe\" no se reconoce como un comando interno o externo,\r\nprograma o archivo por lotes ejecutable.\r\n"
+        }
+      ],
+      "score": 75
+    },
+    "finished_at": "2026-04-24T18:22:04.004Z"
+  }
+]

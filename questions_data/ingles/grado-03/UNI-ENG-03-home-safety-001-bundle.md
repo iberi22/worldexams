@@ -223,4 +223,3 @@ If there is a fire, get out and call...
 ### Explicación Pedagógica
 **English:** **911**. Emergency numbers.
 *Español: Números de emergencia.*
-

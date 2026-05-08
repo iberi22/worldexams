@@ -45,14 +45,14 @@ export class QuestionSystem {
     improved: number;
   }> {
     const { questions, evaluations } = await this.generateAndEvaluate(request);
-    
+
     let improved = 0;
     const threshold = 70;
 
     // Retry questions that don't meet threshold
     for (const question of questions) {
       const metrics = evaluations.get(question.id)!;
-      
+
       if (!this.evaluator.passesThreshold(metrics, threshold)) {
         // Try to regenerate with improvement
         const suggestions = this.evaluator.getSuggestions(question, metrics);
@@ -60,7 +60,7 @@ export class QuestionSystem {
           question,
           suggestions.join('. ')
         );
-        
+
         // Re-evaluate
         const newMetrics = this.evaluator.evaluate(improvedQuestion);
         if (newMetrics.overall > metrics.overall) {

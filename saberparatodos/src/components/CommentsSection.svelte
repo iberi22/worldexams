@@ -34,7 +34,7 @@
     try {
       const res = await fetch(`/api/comments?questionId=${questionId}`);
       if (!res.ok) throw new Error('Failed to fetch comments');
-      
+
       const { comments } = await res.json();
       dbComments = comments || [];
 
@@ -70,7 +70,7 @@
       // Comment is now pending moderation, so we don't add it to dbComments immediately
       newCommentContent = '';
       pendingComment = true; // Show feedback
-      setTimeout(() => { pendingComment = false; }, 5000); 
+      setTimeout(() => { pendingComment = false; }, 5000);
       // We don't fetch comments immediately because the new one is pending approval
       // The user will see the pending message instead.
     } catch (err) {
@@ -129,7 +129,7 @@
 
 <div class="w-full border-t border-white/5 pt-4 mt-6 group">
   {#if pendingComment}
-    <div 
+    <div
       transition:fade
       class="p-3 bg-emerald-500/10 border border-emerald-500/30 rounded-lg text-emerald-200 text-[10px] flex items-center gap-2 mb-4 animate-in fade-in zoom-in-95 duration-300"
     >

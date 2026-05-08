@@ -60,12 +60,12 @@
       .replace(/[-_\s]+/g, ' ')        // Standardize separators
       .trim();
 
-    // Grouping variants
-    if (norm.includes('MATEMATICA') || norm.includes('MATH')) return 'MATEMATICAS';
-    if (norm.includes('LECTURA') || norm.includes('LENGU') || norm.includes('ESPANOL') || norm.includes('FILOSOF')) return 'LECTURA CRITICA';
-    if (norm.includes('CIENCIA') || norm.includes('FISICA') || norm.includes('QUIMICA') || norm.includes('BIOLOG')) return 'CIENCIAS NATURALES';
-    if (norm.includes('SOCIAL') || norm.includes('CIUDADAN') || norm.includes('HISTORIA') || norm.includes('GEOGRAF')) return 'SOCIALES Y CIUDADANAS';
-    if (norm.includes('INGLE')) return 'INGLES';
+    // Grouping variants — explicit checks for all forms
+    if (norm === 'MATEMATICAS' || norm === 'MATEMATICA' || norm === 'MATH') return 'MATEMATICAS';
+    if (norm === 'LECTURA CRITICA' || norm === 'LECTURA' || norm === 'LENGUAJE' || norm === 'ESPANOL' || norm === 'ESPAÑOL') return 'LECTURA CRITICA';
+    if (norm === 'CIENCIAS NATURALES' || norm === 'CIENCIAS') return 'CIENCIAS NATURALES';
+    if (norm === 'SOCIALES Y CIUDADANAS' || norm === 'SOCIALES CIUDADANAS' || norm === 'SOCIALES' || norm === 'CIUDADANAS') return 'SOCIALES Y CIUDADANAS';
+    if (norm === 'INGLES' || norm === 'INGLÉS') return 'INGLES';
     if (norm.includes('INFORMATIC') || norm.includes('TECNOLOG')) return 'TECNOLOGIA E INFORMATICA';
 
     return norm;
@@ -85,12 +85,25 @@
   // 🆕 Map aliases from LocalReportsView to actual API category names
   // This fixes navigation from "Preguntas de LENGUAJE" links
   const subjectAliasMap: Record<string, string[]> = {
-    'LENGUAJE': ['LECTURA CRITICA', 'LECTURA_CRITICA', 'LECTURA-CRITICA', 'ESPAÑOL', 'ESPANOL'],
-    'ESPAÑOL': ['LECTURA CRITICA', 'LECTURA_CRITICA', 'LENGUAJE'],
-    'MATEMATICAS': ['MATEMATICAS', 'MATH'],
+    // Lenguaje / Lectura
+    'LENGUAJE': ['LECTURA CRITICA', 'LECTURA_CRITICA', 'LECTURA-CRITICA', 'LECTURA', 'ESPAÑOL', 'ESPANOL'],
+    'ESPAÑOL': ['LECTURA CRITICA', 'LECTURA_CRITICA', 'LENGUAJE', 'LECTURA'],
+    'LECTURA': ['LECTURA CRITICA', 'LECTURA_CRITICA', 'ESPAÑOL', 'ESPANOL', 'LENGUAJE'],
+    // Matemáticas
+    'MATEMATICAS': ['MATEMATICA', 'MATH'],
+    'MATEMATICA': ['MATEMATICAS', 'MATH'],
+    'MATH': ['MATEMATICAS', 'MATEMATICA'],
+    // Ciencias
+    'CIENCIAS NATURALES': ['CIENCIAS', 'CIENCIAS_NATURALES', 'CIENCIAS-NATURALES'],
     'CIENCIAS': ['CIENCIAS NATURALES', 'CIENCIAS_NATURALES'],
-    'SOCIALES': ['SOCIALES CIUDADANAS', 'SOCIALES_Y_CIUDADANAS', 'SOCIALES Y CIUDADANAS'],
-    'CIUDADANAS': ['SOCIALES CIUDADANAS', 'SOCIALES_Y_CIUDADANAS', 'SOCIALES Y CIUDADANAS'],
+    // Sociales
+    'SOCIALES Y CIUDADANAS': ['SOCIALES CIUDADANAS', 'SOCIALES_Y_CIUDADANAS', 'SOCIALES', 'CIUDADANAS'],
+    'SOCIALES': ['SOCIALES Y CIUDADANAS', 'SOCIALES CIUDADANAS', 'SOCIALES_Y_CIUDADANAS'],
+    'SOCIALES CIUDADANAS': ['SOCIALES Y CIUDADANAS', 'SOCIALES', 'SOCIALES_Y_CIUDADANAS'],
+    'CIUDADANAS': ['SOCIALES Y CIUDADANAS', 'SOCIALES CIUDADANAS', 'SOCIALES'],
+    // Inglés
+    'INGLES': ['INGLÉS'],
+    'INGLÉS': ['INGLES'],
   };
 
   function getDisplayName(subject: string): string {

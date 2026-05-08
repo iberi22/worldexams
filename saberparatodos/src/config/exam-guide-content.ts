@@ -28,7 +28,7 @@ const guideContentByCountry: Partial<Record<CountryConfig['code'], ExamGuideCont
     badgeSourceLabel: 'ICFES',
     heroTitle: 'Guia Pruebas Saber',
     heroSubtitle: 'Pruebas de Estado Saber',
-    heroDescription: 'Conoce la estructura de las pruebas de estado colombianas, las competencias evaluadas y las mejores estrategias.',
+    heroDescription: 'Consulta la estructura vigente de Saber 11, las competencias evaluadas y una ruta de practica enfocada en la convocatoria actual.',
     keywords: [
       'simulacro icfes',
       'simulacro saber 11',
@@ -40,11 +40,11 @@ const guideContentByCountry: Partial<Record<CountryConfig['code'], ExamGuideCont
     faq: [
       {
         question: 'Como practicar un simulacro ICFES gratis?',
-        answer: 'Puedes practicar por areas y revisar retroalimentacion al finalizar dentro de la experiencia principal del producto.',
+        answer: 'Puedes practicar por areas, revisar retroalimentacion al finalizar y repetir los bloques donde necesites mas precision.',
       },
       {
         question: 'Este simulacro sirve para Saber 11 en Colombia?',
-        answer: 'Si. Esta enfocado en estudiantes de Colombia que se preparan para las Pruebas Saber 11 siguiendo referencias oficiales.',
+        answer: 'Si. Esta enfocado en estudiantes de Colombia que se preparan para Saber 11 siguiendo referencias oficiales vigentes.',
       },
       {
         question: 'Simulacro o similacro ICFES: cual es correcto?',
@@ -52,10 +52,10 @@ const guideContentByCountry: Partial<Record<CountryConfig['code'], ExamGuideCont
       },
     ],
     ctaTitle: 'Listo para practicar?',
-    ctaDescription: 'Accede a miles de preguntas verificadas y mejora tu nivel hoy mismo.',
+    ctaDescription: 'Accede a preguntas verificadas, identifica tus brechas y mejora tu rendimiento con practica guiada.',
     ctaLabel: 'Iniciar Simulacro Gratuito',
-    authoritySummary: 'Esta guia ha sido curada con base en marcos de referencia y materiales oficiales del ICFES.',
-    authorityUpdatedLabel: 'Actualizado marzo 2026',
+    authoritySummary: 'Esta guia sintetiza la informacion publica del ICFES y la organiza en una experiencia de estudio mas accionable.',
+    authorityUpdatedLabel: 'Actualizado abril 2026',
   },
   MX: {
     variant: 'mx',
@@ -74,7 +74,7 @@ const guideContentByCountry: Partial<Record<CountryConfig['code'], ExamGuideCont
     faq: [
       {
         question: 'Para quien sirve esta guia EXANI-II?',
-        answer: 'Para aspirantes que necesitan entender estructura, componentes y forma de practica antes de presentar examenes de admision en Mexico.',
+        answer: 'Para aspirantes que necesitan entender estructura, componentes y practica antes de presentar examenes de admision en Mexico.',
       },
       {
         question: 'Esta guia reemplaza la convocatoria oficial?',
@@ -84,8 +84,8 @@ const guideContentByCountry: Partial<Record<CountryConfig['code'], ExamGuideCont
     ctaTitle: 'Listo para practicar?',
     ctaDescription: 'Activa una ruta de practica por componente y entiende mejor como se estructura tu examen objetivo.',
     ctaLabel: 'Iniciar Practica Guiada',
-    authoritySummary: 'Esta guia resume estructura y criterios de practica a partir de referencias publicas del ecosistema EXANI/CENEVAL.',
-    authorityUpdatedLabel: 'Actualizado marzo 2026',
+    authoritySummary: 'Esta guia resume estructura y criterios de practica a partir de referencias publicas del ecosistema EXANI y CENEVAL.',
+    authorityUpdatedLabel: 'Actualizado abril 2026',
   },
 };
 
@@ -105,13 +105,13 @@ export function getExamGuideContent(countryConfig: CountryConfig): ExamGuideCont
       },
       {
         question: 'La estructura ya esta final para este pais?',
-        answer: 'Todavia no. Esta plantilla comparte runtime y tenanting mientras se completa la capa de contenido localizado.',
-      },
+      answer: 'Todavia no. Esta plantilla comparte runtime y tenanting mientras se completa la capa de contenido localizado.',
+    },
     ],
     ctaTitle: 'Listo para practicar?',
     ctaDescription: `Explora la experiencia base del producto mientras se completa la localizacion de ${countryConfig.name}.`,
     ctaLabel: 'Explorar Practica',
     authoritySummary: `Esta guia usa la plantilla compartida del producto y la metadata actual de ${countryConfig.examAuthority}.`,
-    authorityUpdatedLabel: 'Actualizado marzo 2026',
+    authorityUpdatedLabel: 'Actualizado abril 2026',
   };
 }

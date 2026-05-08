@@ -33,10 +33,10 @@ license: "CC BY-NC-SA 4.0"
 
 Why did Maria set her alarm for 2 PM?
 
-A) She had an important meeting at 2 PM.  
-B) She wanted to sleep and recover from her trip. [x]  
-C) She needed to call someone.  
-D) The hotel required her to wake up early.  
+A) She had an important meeting at 2 PM.
+B) She wanted to sleep and recover from her trip. [x]
+C) She needed to call someone.
+D) The hotel required her to wake up early.
 
 ---
 
@@ -45,10 +45,10 @@ D) The hotel required her to wake up early.
 
 What can be inferred about Maria's trip?
 
-A) She traveled for leisure.  
-B) She traveled for work-related purposes. [x]  
-C) She does not like flying.  
-D) She visits Madrid regularly.  
+A) She traveled for leisure.
+B) She traveled for work-related purposes. [x]
+C) She does not like flying.
+D) She visits Madrid regularly.
 
 ---
 
@@ -61,10 +61,10 @@ D) She visits Madrid regularly.
 
 What can be inferred about pesticides before Carson's book was published?
 
-A) Their dangers were widely known to the public.  
-B) They were considered completely safe by most people. [x]  
-C) Governments had already banned them.  
-D) They were only used in small quantities.  
+A) Their dangers were widely known to the public.
+B) They were considered completely safe by most people. [x]
+C) Governments had already banned them.
+D) They were only used in small quantities.
 
 ---
 
@@ -73,10 +73,10 @@ D) They were only used in small quantities.
 
 The author mentions that the book inspired new environmental laws. This suggests that:
 
-A) Environmental laws already existed before the book.  
-B) The book was the first to raise widespread concerns about pesticides. [x]  
-C) The book had little impact on public policy.  
-D) Pesticides were already illegal when the book was written.  
+A) Environmental laws already existed before the book.
+B) The book was the first to raise widespread concerns about pesticides. [x]
+C) The book had little impact on public policy.
+D) Pesticides were already illegal when the book was written.
 
 ---
 
@@ -93,10 +93,10 @@ D) Pesticides were already illegal when the book was written.
 
 What can be inferred about children in these indigenous communities?
 
-A) They learn most of their values at school.  
-B) They learn important life lessons through stories told by elders. [x]  
-C) They do not value formal education.  
-D) They are required to memorize all stories.  
+A) They learn most of their values at school.
+B) They learn important life lessons through stories told by elders. [x]
+C) They do not value formal education.
+D) They are required to memorize all stories.
 
 ---
 
@@ -105,10 +105,10 @@ D) They are required to memorize all stories.
 
 The passage suggests that formal education in these regions has traditionally:
 
-A) Made use of traditional storytelling.  
-B) Ignored the knowledge of elders. [x]  
-C) Focused only on academic subjects.  
-D) Been rejected by the community.  
+A) Made use of traditional storytelling.
+B) Ignored the knowledge of elders. [x]
+C) Focused only on academic subjects.
+D) Been rejected by the community.
 
 ---
 
@@ -117,10 +117,10 @@ D) Been rejected by the community.
 
 The phrase "fundamental educational tool" implies that storytelling:
 
-A) Is used only occasionally.  
-B) Plays a critical role in education in these communities. [x]  
-C) Is a modern invention.  
-D) Is less effective than textbooks.  
+A) Is used only occasionally.
+B) Plays a critical role in education in these communities. [x]
+C) Is a modern invention.
+D) Is less effective than textbooks.
 
 ---
 
@@ -133,10 +133,10 @@ D) Is less effective than textbooks.
 
 It can be inferred from the text that:
 
-A) Renewable energy technology is not available in rural Latin America.  
-B) Collecting wood for cooking takes up a significant amount of time for families. [x]  
-C) Men are the primary collectors of fuel in these communities.  
-D) Cookstoves are too expensive for rural families.  
+A) Renewable energy technology is not available in rural Latin America.
+B) Collecting wood for cooking takes up a significant amount of time for families. [x]
+C) Men are the primary collectors of fuel in these communities.
+D) Cookstoves are too expensive for rural families.
 
 ---
 
@@ -145,10 +145,10 @@ D) Cookstoves are too expensive for rural families.
 
 The mention of respiratory illnesses being "especially in women and young children" suggests that:
 
-A) Women and children are more exposed to indoor pollution. [x]  
-B) Men are immune to respiratory diseases.  
-C) Children do not help with cooking.  
-D) Men cook more than women in these communities.  
+A) Women and children are more exposed to indoor pollution. [x]
+B) Men are immune to respiratory diseases.
+C) Children do not help with cooking.
+D) Men cook more than women in these communities.
 
 ---
 
@@ -157,10 +157,10 @@ D) Men cook more than women in these communities.
 
 The author's tone in this passage can best be described as:
 
-A) Humorous and lighthearted.  
-B) Concerned and informative. [x]  
-C) Angry and accusatory.  
-D) Indifferent and neutral.  
+A) Humorous and lighthearted.
+B) Concerned and informative. [x]
+C) Angry and accusatory.
+D) Indifferent and neutral.
 
 ---
 
@@ -177,10 +177,10 @@ D) Indifferent and neutral.
 
 The creation of special visas for digital nomads suggests that governments:
 
-A) Are concerned about over-tourism.  
-B) See economic opportunity in attracting remote workers. [x]  
-C) Want to restrict remote work.  
-D) Are responding to pressure from local communities.  
+A) Are concerned about over-tourism.
+B) See economic opportunity in attracting remote workers. [x]
+C) Want to restrict remote work.
+D) Are responding to pressure from local communities.
 
 ---
 
@@ -189,10 +189,10 @@ D) Are responding to pressure from local communities.
 
 The critics' argument implies that digital nomads:
 
-A) Help local businesses thrive.  
-B) May negatively affect the local housing market. [x]  
-C) Pay higher taxes than local residents.  
-D) Integrate fully into local communities.  
+A) Help local businesses thrive.
+B) May negatively affect the local housing market. [x]
+C) Pay higher taxes than local residents.
+D) Integrate fully into local communities.
 
 ---
 
@@ -201,10 +201,10 @@ D) Integrate fully into local communities.
 
 The passage as a whole suggests that digital nomadism is:
 
-A) Entirely beneficial for all parties.  
-B) Entirely harmful to host communities.  
-C) A complex phenomenon with both positive and negative effects. [x]  
-D) A temporary trend that will disappear soon.  
+A) Entirely beneficial for all parties.
+B) Entirely harmful to host communities.
+C) A complex phenomenon with both positive and negative effects. [x]
+D) A temporary trend that will disappear soon.
 
 ---
 
@@ -217,10 +217,10 @@ D) A temporary trend that will disappear soon.
 
 The phrase "the art of conversation is in decline" implies that:
 
-A) People are forgetting how to have meaningful conversations. [x]  
-B) People are communicating more than ever.  
-C) Art classes have replaced conversation classes.  
-D) Conversation is becoming a popular hobby again.  
+A) People are forgetting how to have meaningful conversations. [x]
+B) People are communicating more than ever.
+C) Art classes have replaced conversation classes.
+D) Conversation is becoming a popular hobby again.
 
 ---
 
@@ -229,10 +229,10 @@ D) Conversation is becoming a popular hobby again.
 
 The psychologists' warning suggests that reduced face-to-face interaction may:
 
-A) Strengthen social bonds in communities.  
-B) Increase people's emotional intelligence.  
-C) Have a negative effect on people's ability to empathize. [x]  
-D) Improve people's ability to focus.  
+A) Strengthen social bonds in communities.
+B) Increase people's emotional intelligence.
+C) Have a negative effect on people's ability to empathize. [x]
+D) Improve people's ability to focus.
 
 ---
 
@@ -241,10 +241,10 @@ D) Improve people's ability to focus.
 
 The author's primary purpose in this passage is to:
 
-A) Entertain readers with a humorous observation.  
-B) Persuade readers to stop using their phones.  
-C) Inform readers about a concerning social trend and its potential effects. [x]  
-D) Describe the results of a scientific experiment in detail.  
+A) Entertain readers with a humorous observation.
+B) Persuade readers to stop using their phones.
+C) Inform readers about a concerning social trend and its potential effects. [x]
+D) Describe the results of a scientific experiment in detail.
 
 ---
 
@@ -261,10 +261,10 @@ D) Describe the results of a scientific experiment in detail.
 
 The author uses the word 'paradoxical' to highlight that:
 
-A) The search for El Dorado was a complete failure.  
-B) The search had negative consequences only.  
-C) The search produced valuable knowledge despite not achieving its original goal. [x]  
-D) Explorers were dishonest about their findings.  
+A) The search for El Dorado was a complete failure.
+B) The search had negative consequences only.
+C) The search produced valuable knowledge despite not achieving its original goal. [x]
+D) Explorers were dishonest about their findings.
 
 ---
 
@@ -273,10 +273,10 @@ D) Explorers were dishonest about their findings.
 
 It can be inferred that El Dorado legends:
 
-A) Were based on accurate geographical information.  
-B) Motivated significant exploration and discovery. [x]  
-C) Have been proven true by modern archaeologists.  
-D) Discouraged exploration of the Americas.  
+A) Were based on accurate geographical information.
+B) Motivated significant exploration and discovery. [x]
+C) Have been proven true by modern archaeologists.
+D) Discouraged exploration of the Americas.
 
 ---
 
@@ -285,10 +285,10 @@ D) Discouraged exploration of the Americas.
 
 The passage suggests that the impact of the El Dorado legend on scientific knowledge was:
 
-A) Minimal, because explorers were only interested in gold.  
-B) Negative, because it distracted from real science.  
-C) Significant, because exploration led to many discoveries. [x]  
-D) Unknown, because no records were kept.  
+A) Minimal, because explorers were only interested in gold.
+B) Negative, because it distracted from real science.
+C) Significant, because exploration led to many discoveries. [x]
+D) Unknown, because no records were kept.
 
 ---
 
@@ -297,7 +297,7 @@ D) Unknown, because no records were kept.
 
 The author's overall perspective on the El Dorado legend is best described as:
 
-A) Dismissive and critical of those who believed in it.  
-B) Balanced, acknowledging both its flaws and its unintended benefits. [x]  
-C) Enthusiastic and supportive of the search.  
-D) Ambiguous, refusing to take any position.  
+A) Dismissive and critical of those who believed in it.
+B) Balanced, acknowledging both its flaws and its unintended benefits. [x]
+C) Enthusiastic and supportive of the search.
+D) Ambiguous, refusing to take any position.

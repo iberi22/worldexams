@@ -9,5 +9,5 @@
       "$lib/*": ["src/lib/*"]
     }
   },
-  "exclude": ["template-openicfes", "supabase", "functions", "dist"]
+  "exclude": ["template-openicfes", "supabase", "functions", "dist", "video-pipeline"]
 }
