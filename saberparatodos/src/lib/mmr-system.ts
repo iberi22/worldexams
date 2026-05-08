@@ -122,7 +122,7 @@ export function estimatePaesScore(signals: IcfesProxySignals): IcfesEstimate {
   // 500 MMR -> 850
   // Formula: 150 + (MMR * (850-150)/500) = 150 + (MMR * 1.4)
   const rawScore = clamp(signals.mmr, 0, 500);
-  const basePaes = 150 + (rawScore * 1.4);
+  const earnedPaes = rawScore * 1.4;
 
   // Adjusted scaling to ensure 500 MMR reaches 850 when evidence is maxed
   // The current evidenceFactor and subjectCoverageFactor can be < 1.0 even with high evidence.
@@ -131,8 +131,8 @@ export function estimatePaesScore(signals: IcfesProxySignals): IcfesEstimate {
 
   // If we have high evidence, we should reach the top of the scale.
   // However, the methodology typically penalizes lack of evidence.
-  // For PAES, we'll apply the factors to the MMR-based score, but ensure the range is respected.
-  const scaledScore = basePaes * factor;
+  // For PAES, we apply the penalty factors ONLY to the earned points above the 150 minimum base.
+  const scaledScore = 150 + (earnedPaes * factor);
   const score = clamp(Math.round(scaledScore), 150, 850);
   const confidence = confidenceFromEvidence(evidenceCount, subjectCoverage);
 
