@@ -4,12 +4,12 @@
 /**
  * Country codes supported by World Exams
  */
-export type CountryCode = 'CO' | 'MX' | 'AR' | 'CL' | 'PE' | 'EC' | 'BR' | 'US';
+export type CountryCode = 'CO' | 'MX' | 'AR' | 'CL' | 'PE' | 'EC' | 'BR' | 'US' | 'UY' | 'PY' | 'BO';
 
 /**
  * Supported languages
  */
-export type LanguageCode = 'es-CO' | 'es-MX' | 'es-AR' | 'es-CL' | 'es-PE' | 'es-EC' | 'pt-BR' | 'en-US';
+export type LanguageCode = 'es-CO' | 'es-MX' | 'es-AR' | 'es-CL' | 'es-PE' | 'es-EC' | 'pt-BR' | 'en-US' | 'es-UY' | 'es-PY' | 'es-BO';
 
 /**
  * Grade configuration for a country
@@ -648,6 +648,211 @@ export const brasilConfig: CountryConfig = {
 };
 
 /**
+ * 🇺🇾 Uruguay - Aristas
+ */
+export const uruguayConfig: CountryConfig = {
+  code: 'UY',
+  name: 'Uruguay',
+  nameEnglish: 'Uruguay',
+  flag: '🇺🇾',
+
+  examName: 'Aristas',
+  examFullName: 'Aristas - Evaluación Nacional de Logros de Aprendizaje',
+  examAuthority: 'INEEd / ANEP',
+
+  locale: 'es-UY',
+  timezone: 'America/Montevideo',
+
+  grades: [
+    { id: 3, name: '3° Primaria', description: 'Tercer año de educación primaria' },
+    { id: 6, name: '6° Primaria', description: 'Sexto año de educación primaria' },
+    { id: 9, name: '9° EBI', description: 'Noveno año de Educación Básica Integrada' },
+    { id: 12, name: '3° EMS', description: 'Tercer año de Educación Media Superior' },
+  ],
+
+  subjects: [
+    { id: 'matematica', name: 'Matemática', icon: '🔢', globalId: 'math' },
+    { id: 'lengua', name: 'Lengua', icon: '📖', globalId: 'language' },
+    { id: 'ciencias', name: 'Ciencias de la Naturaleza', icon: '🔬', globalId: 'science' },
+    { id: 'sociales', name: 'Ciencias Sociales', icon: '🌍', globalId: 'social' },
+  ],
+
+  theme: {
+    primary: '#0038A8',      // Azul - Sol de Mayo
+    secondary: '#FFFFFF',    // Blanco
+    accent: '#FCD116',       // Dorado - Sol
+    bgDark: '#1a1a2e',
+    bgCard: '#16213e',
+    textPrimary: '#ffffff',
+    textSecondary: '#a0a0a0',
+  },
+
+  culture: {
+    currency: { code: 'UYU', symbol: '$', name: 'Pesos uruguayos' },
+    cities: ['Montevideo', 'Salto', 'Ciudad de la Costa', 'Paysandú', 'Las Piedras', 'Rivera'],
+    commonNames: {
+      male: ['Sebastián', 'Nicolás', 'Santiago', 'Agustín', 'Diego', 'Mateo'],
+      female: ['Valentina', 'Sofía', 'Martina', 'Lucía', 'Florencia', 'Camila'],
+    },
+    culturalReferences: ['mate', 'asado', 'fútbol', 'murga', 'candombe', 'rambla'],
+    languageVariant: 'voseo',
+  },
+
+  githubRepo: 'worldexams/saber-uy',
+  product: {
+    siteName: 'WorldExams Uruguay',
+    siteUrl: 'https://worldexams.app/uy',
+    contactEmail: 'contacto@worldexams.app',
+    guideLabel: 'ARISTAS',
+    guideYear: 2026,
+    seoKeywords: ['aristas uruguay', 'simulacro aristas', 'evaluacion nacional uruguay'],
+    defaultDescription: 'Plataforma de práctica para Aristas y evaluaciones nacionales en Uruguay.',
+    features: {
+      blog: false,
+      preuniversitario: false,
+      developerPortal: true,
+      comments: true,
+    },
+  },
+};
+
+/**
+ * 🇵🇾 Paraguay - SNEPE
+ */
+export const paraguayConfig: CountryConfig = {
+  code: 'PY',
+  name: 'Paraguay',
+  nameEnglish: 'Paraguay',
+  flag: '🇵🇾',
+
+  examName: 'SNEPE',
+  examFullName: 'Sistema Nacional de Evaluación del Proceso Educativo',
+  examAuthority: 'MEC',
+
+  locale: 'es-PY',
+  timezone: 'America/Asuncion',
+
+  grades: [
+    { id: 3, name: '3° Grado', description: 'Tercer grado de Educación Escolar Básica' },
+    { id: 6, name: '6° Grado', description: 'Sexto grado de Educación Escolar Básica' },
+    { id: 9, name: '9° Grado', description: 'Noveno grado de Educación Escolar Básica' },
+    { id: 12, name: '3° Curso', description: 'Tercer curso de la Educación Media' },
+  ],
+
+  subjects: [
+    { id: 'matematica', name: 'Matemática', icon: '🔢', globalId: 'math' },
+    { id: 'comunicacion', name: 'Comunicación (Castellano)', icon: '📖', globalId: 'language' },
+    { id: 'ciencias', name: 'Ciencias de la Naturaleza y Salud', icon: '🔬', globalId: 'science' },
+    { id: 'sociales', name: 'Ciencias Sociales', icon: '🌍', globalId: 'social' },
+  ],
+
+  theme: {
+    primary: '#D52B1E',      // Rojo
+    secondary: '#FFFFFF',    // Blanco
+    accent: '#003893',       // Azul
+    bgDark: '#1a1a2e',
+    bgCard: '#16213e',
+    textPrimary: '#ffffff',
+    textSecondary: '#a0a0a0',
+  },
+
+  culture: {
+    currency: { code: 'PYG', symbol: '₲', name: 'Guaraníes' },
+    cities: ['Asunción', 'Ciudad del Este', 'Luque', 'San Lorenzo', 'Capiatá', 'Lambaré'],
+    commonNames: {
+      male: ['José', 'Juan', 'Luis', 'Carlos', 'Derlis', 'Ramón'],
+      female: ['María', 'Rosa', 'Carmen', 'Blanca', 'Elizabeth', 'Luz'],
+    },
+    culturalReferences: ['tereré', 'chipa', 'sopa paraguaya', 'arpa paraguaya', 'ñandutí'],
+    languageVariant: 'voseo',
+  },
+
+  githubRepo: 'worldexams/saber-py',
+  product: {
+    siteName: 'WorldExams Paraguay',
+    siteUrl: 'https://worldexams.app/py',
+    contactEmail: 'contacto@worldexams.app',
+    guideLabel: 'SNEPE',
+    guideYear: 2026,
+    seoKeywords: ['snepe paraguay', 'simulacro snepe', 'evaluacion nacional paraguay'],
+    defaultDescription: 'Plataforma de práctica para SNEPE y evaluaciones nacionales en Paraguay.',
+    features: {
+      blog: false,
+      preuniversitario: false,
+      developerPortal: true,
+      comments: true,
+    },
+  },
+};
+
+/**
+ * 🇧🇴 Bolivia - OPCE
+ */
+export const boliviaConfig: CountryConfig = {
+  code: 'BO',
+  name: 'Bolivia',
+  nameEnglish: 'Bolivia',
+  flag: '🇧🇴',
+
+  examName: 'OPCE',
+  examFullName: 'Observatorio Plurinacional de la Calidad Educativa',
+  examAuthority: 'Ministerio de Educación',
+
+  locale: 'es-BO',
+  timezone: 'America/La_Paz',
+
+  grades: [
+    { id: 6, name: '6° Primaria', description: 'Sexto año de Primaria Comunitaria Vocacional' },
+    { id: 9, name: '3° Secundaria', description: 'Tercer año de Secundaria Comunitaria Productiva' },
+    { id: 12, name: '6° Secundaria', description: 'Sexto año de Secundaria Comunitaria Productiva' },
+  ],
+
+  subjects: [
+    { id: 'matematica', name: 'Matemática', icon: '🔢', globalId: 'math' },
+    { id: 'lenguaje', name: 'Comunicación y Lenguajes', icon: '📖', globalId: 'language' },
+    { id: 'ciencias', name: 'Ciencias Naturales', icon: '🔬', globalId: 'science' },
+    { id: 'sociales', name: 'Ciencias Sociales', icon: '🌍', globalId: 'social' },
+  ],
+
+  theme: {
+    primary: '#007934',      // Verde
+    secondary: '#FCD116',    // Amarillo
+    accent: '#D52B1E',       // Rojo
+    bgDark: '#1a1a2e',
+    bgCard: '#16213e',
+    textPrimary: '#ffffff',
+    textSecondary: '#a0a0a0',
+  },
+
+  culture: {
+    currency: { code: 'BOB', symbol: 'Bs', name: 'Bolivianos' },
+    cities: ['Santa Cruz de la Sierra', 'El Alto', 'La Paz', 'Cochabamba', 'Oruro', 'Sucre'],
+    commonNames: {
+      male: ['Juan', 'José', 'Luis', 'Carlos', 'David', 'Jorge'],
+      female: ['María', 'Ana', 'Rosa', 'Elizabeth', 'Carmen', 'Martha'],
+    },
+    culturalReferences: ['salar de uyuni', 'titicaca', 'wiphala', 'diablada', 'salteñas'],
+  },
+
+  githubRepo: 'worldexams/saber-bo',
+  product: {
+    siteName: 'WorldExams Bolivia',
+    siteUrl: 'https://worldexams.app/bo',
+    contactEmail: 'contacto@worldexams.app',
+    guideLabel: 'OPCE',
+    guideYear: 2026,
+    seoKeywords: ['opce bolivia', 'evaluacion bolivia', 'educacion plurinacional bolivia'],
+    defaultDescription: 'Plataforma de práctica para evaluaciones de calidad educativa en Bolivia.',
+    features: {
+      blog: false,
+      preuniversitario: false,
+      developerPortal: true,
+      comments: true,
+    },
+  },
+};
+
+/**
  * 🇺🇸 USA - SAT/ACT
  */
 export const usaConfig: CountryConfig = {
@@ -739,6 +944,9 @@ export const allCountries: CountryConfig[] = [
   ecuadorConfig,
   brasilConfig,
   usaConfig,
+  uruguayConfig,
+  paraguayConfig,
+  boliviaConfig,
 ];
 
 /**
