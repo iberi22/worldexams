@@ -1,7 +1,7 @@
 # Visión General de Arquitectura
 
-**Proyecto:** WorldExams  
-**Fecha:** 2026-04-02  
+**Proyecto:** WorldExams
+**Fecha:** 2026-04-02
 **Versión:** 2.0
 
 ---

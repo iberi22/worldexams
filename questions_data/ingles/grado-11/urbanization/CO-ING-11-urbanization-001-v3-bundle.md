@@ -300,4 +300,3 @@ Urbanization is to **City** as **__________** is to **Industry**.
 ![Environmental Challenges Infographic](/infographics/english/environment-sos.png)
 
 > **Visual Summary:** Urbanization contributes to environmental challenges like pollution and habitat loss. Sustainable solutions include renewable energy and green infrastructure.
-

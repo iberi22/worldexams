@@ -1,0 +1,250 @@
+---
+/**
+ * CountryBanner.astro
+ * Shows a banner when user's detected country differs from current content.
+ * Displays exam info for each supported country.
+ */
+import { getSupportedCountriesForUI } from '../lib/country-detector';
+
+interface Props {
+  currentCountry?: string;
+}
+
+const { currentCountry = 'CO' } = Astro.props;
+const countries = getSupportedCountriesForUI();
+const currentCountryData = countries.find(c => c.code === currentCountry) || countries[0];
+---
+
+{currentCountry !== 'CO' && (
+  <div class="country-banner" id="country-banner">
+    <div class="banner-content">
+      <div class="current-country">
+        <span class="flag">{currentCountryData.flag}</span>
+        <div class="country-info">
+          <span class="country-name">{currentCountryData.name}</span>
+          <span class="exam-name">{currentCountryData.examName}</span>
+        </div>
+      </div>
+
+      <span class="divider">→</span>
+
+      <div class="country-selector">
+        <span class="selector-label">Cambiar a:</span>
+        <div class="country-buttons">
+          {countries
+            .filter(c => c.code !== currentCountry)
+            .map(country => (
+              <button
+                class="country-btn"
+                data-country={country.code}
+                title={`${country.examName}: ${country.examFullName}`}
+              >
+                <span class="flag">{country.flag}</span>
+              </button>
+            ))
+          }
+        </div>
+      </div>
+
+      <button class="close-btn" id="close-country-banner" aria-label="Cerrar banner">
+        ✕
+      </button>
+    </div>
+  </div>
+)}
+
+<script>
+  // Country selector functionality - set override and navigate
+  document.querySelectorAll('.country-btn[data-country]').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      e.preventDefault();
+      const countryCode = (btn as HTMLElement).dataset.country || 'CO';
+
+      // Use the setCountryOverride function from country-detector
+      // It will cache the country and redirect
+      if (typeof (window as any).setCountryOverride === 'function') {
+        (window as any).setCountryOverride(countryCode);
+      } else {
+        // Fallback: cache and reload
+        localStorage.setItem('worldexams_country', JSON.stringify({
+          code: countryCode,
+          timestamp: Date.now()
+        }));
+        window.location.reload();
+      }
+    });
+  });
+
+  // Close banner functionality
+  document.addEventListener('DOMContentLoaded', () => {
+    const closeBtn = document.getElementById('close-country-banner');
+    const banner = document.getElementById('country-banner');
+
+    if (closeBtn && banner) {
+      closeBtn.addEventListener('click', () => {
+        banner.style.display = 'none';
+        localStorage.setItem('country_banner_dismissed', 'true');
+      });
+    }
+
+    // Check if banner was previously dismissed
+    if (localStorage.getItem('country_banner_dismissed')) {
+      const bannerEl = document.getElementById('country-banner');
+      if (bannerEl) bannerEl.style.display = 'none';
+    }
+  });
+</script>
+
+<style>
+  .country-banner {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 9999;
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    border-bottom: 2px solid #FCD116;
+    padding: 0.75rem 1rem;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    animation: slideDown 0.4s ease-out;
+  }
+
+  @keyframes slideDown {
+    from {
+      transform: translateY(-100%);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+
+  .banner-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .current-country {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .current-country .flag {
+    font-size: 2rem;
+    line-height: 1;
+  }
+
+  .country-info {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .country-name {
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 1rem;
+  }
+
+  .exam-name {
+    color: #FCD116;
+    font-size: 0.85rem;
+    font-weight: 600;
+  }
+
+  .divider {
+    color: #666;
+    font-size: 1.5rem;
+  }
+
+  .country-selector {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .selector-label {
+    color: #888;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  .country-buttons {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+
+  .country-btn {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.4rem 0.75rem;
+    background: rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 24px;
+    color: #ffffff;
+    cursor: pointer;
+    font-size: 0.85rem;
+    transition: all 0.25s ease;
+  }
+
+  .country-btn:hover {
+    background: rgba(255, 255, 255, 0.18);
+    border-color: rgba(255, 255, 255, 0.35);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  }
+
+  .country-btn .flag {
+    font-size: 1.2rem;
+    line-height: 1;
+  }
+
+  .close-btn {
+    background: transparent;
+    border: none;
+    color: #666;
+    font-size: 1.2rem;
+    cursor: pointer;
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    transition: all 0.2s ease;
+  }
+
+  .close-btn:hover {
+    background: rgba(255, 255, 255, 0.1);
+    color: #ffffff;
+  }
+
+  @media (max-width: 768px) {
+    .banner-content {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+
+    .current-country {
+      flex-direction: column;
+    }
+
+    .divider {
+      display: none;
+    }
+
+    .country-selector {
+      width: 100%;
+    }
+
+    .country-buttons {
+      justify-content: center;
+    }
+  }
+</style>

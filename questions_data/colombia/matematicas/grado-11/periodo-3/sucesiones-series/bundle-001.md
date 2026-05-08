@@ -278,4 +278,3 @@ D) Acotada inferiormente
 **Respuesta:** A
 
 ---
-

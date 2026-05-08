@@ -37,3 +37,8 @@ export interface PreuCatalogEntry {
   sourceRefs: PreuSourceRef[];
   researchNotes: string;
 }
+
+export interface PreuCatalogDataset {
+  entries: PreuCatalogEntry[];
+  methodologySources: PreuSourceRef[];
+}

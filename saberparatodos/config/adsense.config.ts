@@ -89,7 +89,7 @@ export function getAdsenseScript(): string {
 export function shouldShowAds(examState: string, slotId?: string): boolean {
   // Guard: Don't show if slot is a placeholder
   if (slotId && slotId.includes('SLOT_ID_')) return false;
-  
+
   if (adsenseConfig.placement.forbidden.some(f => examState.includes(f))) {
     return false;
   }

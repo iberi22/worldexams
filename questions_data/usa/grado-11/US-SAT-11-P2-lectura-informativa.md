@@ -35,10 +35,10 @@ The New York City Beekeepers Association reports that over 400 registered hives 
 ## Question 1 — D5
 The primary purpose of this passage is to:
 
-A) Persuade readers to start beekeeping  
-B) Inform readers about urban beekeeping trends  
-C) Criticize urban beekeeping practices  
-D) Explain how to register a hive in NYC  
+A) Persuade readers to start beekeeping
+B) Inform readers about urban beekeeping trends
+C) Criticize urban beekeeping practices
+D) Explain how to register a hive in NYC
 **[ ]** → **B**
 
 ---
@@ -46,10 +46,10 @@ D) Explain how to register a hive in NYC
 ## Question 2 — D5
 According to the passage, urban beekeeping was legalized in New York City in:
 
-A) 2015  
-B) 2017  
-C) 2019  
-D) 2021  
+A) 2015
+B) 2017
+C) 2019
+D) 2021
 **[ ]** → **C**
 
 ---
@@ -57,10 +57,10 @@ D) 2021
 ## Question 3 — D6
 The phrase "food miles" in paragraph 1 most likely refers to:
 
-A) Distance food travels from farm to consumer  
-B) Miles driven by food delivery trucks  
-C) Calories in food products  
-D) Cost of food transportation  
+A) Distance food travels from farm to consumer
+B) Miles driven by food delivery trucks
+C) Calories in food products
+D) Cost of food transportation
 **[ ]** → **A**
 
 ---
@@ -68,10 +68,10 @@ D) Cost of food transportation
 ## Question 4 — D6
 The mention of the University of Michigan research primarily serves to:
 
-A) Support the claim that urban beekeeping is beneficial  
-B) Contradict Dr. Vasquez's findings  
-C) Promote Michigan agricultural programs  
-D) Explain how to increase honey production  
+A) Support the claim that urban beekeeping is beneficial
+B) Contradict Dr. Vasquez's findings
+C) Promote Michigan agricultural programs
+D) Explain how to increase honey production
 **[ ]** → **A**
 
 ---
@@ -79,10 +79,10 @@ D) Explain how to increase honey production
 ## Question 5 — D7
 Which statement would Dr. Vasquez most likely agree with?
 
-A) Urban beekeeping has no legitimate challenges  
-B) Pesticides are the only threat to urban bees  
-C) Urban beekeeping is simple and risk-free  
-D) Urban bees face stressors unique to city environments  
+A) Urban beekeeping has no legitimate challenges
+B) Pesticides are the only threat to urban bees
+C) Urban beekeeping is simple and risk-free
+D) Urban bees face stressors unique to city environments
 **[ ]** → **D**
 
 ---
@@ -90,10 +90,10 @@ D) Urban bees face stressors unique to city environments
 ## Question 6 — D7
 The author presents information about the 400 registered hives primarily to:
 
-A) Show the failure of urban beekeeping  
-B) Demonstrate the practice's growth and popularity  
-C) Suggest regulation is insufficient  
-D) Compare NYC to other cities  
+A) Show the failure of urban beekeeping
+B) Demonstrate the practice's growth and popularity
+C) Suggest regulation is insufficient
+D) Compare NYC to other cities
 **[ ]** → **B**
 
 ---
@@ -113,10 +113,10 @@ Only in the past decade has solar experienced a true renaissance, driven by plum
 ## Question 7 — D5
 The passage is primarily organized as:
 
-A) Chronological narrative  
-B) Cause and effect analysis  
-C) Comparison and contrast  
-D) Problem and solution  
+A) Chronological narrative
+B) Cause and effect analysis
+C) Comparison and contrast
+D) Problem and solution
 **[ ]** → **A**
 
 ---
@@ -124,10 +124,10 @@ D) Problem and solution
 ## Question 8 — D5
 The phrase "groundbreaking" in paragraph 1 suggests the results were:
 
-A) Ordinary and expected  
-B) Important and innovative  
-C) Expensive and impractical  
-D) Simple and easy to replicate  
+A) Ordinary and expected
+B) Important and innovative
+C) Expensive and impractical
+D) Simple and easy to replicate
 **[ ]** → **B**
 
 ---
@@ -135,10 +135,10 @@ D) Simple and easy to replicate
 ## Question 9 — D6
 According to Dr. Santos, the solar industry failed in the 1980s primarily because:
 
-A) Technology was too advanced for consumers  
-B) Oil prices dropped significantly  
-C) The government banned solar energy  
-D) Buildings were poorly designed  
+A) Technology was too advanced for consumers
+B) Oil prices dropped significantly
+C) The government banned solar energy
+D) Buildings were poorly designed
 **[ ]** → **B**
 
 ---
@@ -146,10 +146,10 @@ D) Buildings were poorly designed
 ## Question 10 — D6
 The 1973 Los Alamos home is mentioned to:
 
-A) Demonstrate the long history of solar energy  
-B) Provide a specific example of early solar success  
-C) Criticize passive solar design  
-D) Compare with current Arizona solar projects  
+A) Demonstrate the long history of solar energy
+B) Provide a specific example of early solar success
+C) Criticize passive solar design
+D) Compare with current Arizona solar projects
 **[ ]** → **B**
 
 ---
@@ -157,10 +157,10 @@ D) Compare with current Arizona solar projects
 ## Question 11 — D7
 Which choice provides the best evidence for the answer to Question 9?
 
-A) "In 1973...Ed Mazria began experimenting..."  
-B) "Despite these early successes..."  
-C) "When oil dropped to $10 per barrel in 1986..."  
-D) "Arizona now generates more solar energy..."  
+A) "In 1973...Ed Mazria began experimenting..."
+B) "Despite these early successes..."
+C) "When oil dropped to $10 per barrel in 1986..."
+D) "Arizona now generates more solar energy..."
 **[ ]** → **C**
 
 ---
@@ -168,10 +168,10 @@ D) "Arizona now generates more solar energy..."
 ## Question 12 — D7
 The author's tone in this passage is best described as:
 
-A) Enthusiastically promotional  
-B) Objectively historical  
-C) Strongly critical of fossil fuels  
-D) Dismissive of solar energy  
+A) Enthusiastically promotional
+B) Objectively historical
+C) Strongly critical of fossil fuels
+D) Dismissive of solar energy
 **[ ]** → **B**
 
 ---
@@ -191,10 +191,10 @@ However, some experts urge caution in interpreting these results. Dr. James Okaf
 ## Question 13 — D5
 The primary claim made in the passage is that:
 
-A) Social media always causes depression  
-B) Limited social media use may reduce loneliness  
-C) College students use too much social media  
-D) Instagram is the most harmful platform  
+A) Social media always causes depression
+B) Limited social media use may reduce loneliness
+C) College students use too much social media
+D) Instagram is the most harmful platform
 **[ ]** → **B**
 
 ---
@@ -202,10 +202,10 @@ D) Instagram is the most harmful platform
 ## Question 14 — D5
 The word "passive" in paragraph 2 most nearly means:
 
-A) Active participation  
-B) Casual viewing without interaction  
-C) Physical inactivity  
-D) Strategic engagement  
+A) Active participation
+B) Casual viewing without interaction
+C) Physical inactivity
+D) Strategic engagement
 **[ ]** → **B**
 
 ---
@@ -213,10 +213,10 @@ D) Strategic engagement
 ## Question 15 — D6
 Dr. Okafor's main criticism of the study is that:
 
-A) The sample size was too small  
-B) Three weeks is insufficient for valid conclusions  
-C) Researchers were biased against social media  
-D) College students are not representative of all users  
+A) The sample size was too small
+B) Three weeks is insufficient for valid conclusions
+C) Researchers were biased against social media
+D) College students are not representative of all users
 **[ ]** → **B**
 
 ---
@@ -224,10 +224,10 @@ D) College students are not representative of all users
 ## Question 16 — D6
 Which choice provides the best evidence for the answer to Question 15?
 
-A) "landmark study...examined the relationship..."  
-B) "reduced loneliness and depression..."  
-C) "Three weeks is far too short..."  
-D) "correlation does not imply causation..."  
+A) "landmark study...examined the relationship..."
+B) "reduced loneliness and depression..."
+C) "Three weeks is far too short..."
+D) "correlation does not imply causation..."
 **[ ]** → **C**
 
 ---
@@ -235,10 +235,10 @@ D) "correlation does not imply causation..."
 ## Question 17 — D8
 The two researchers would most likely disagree about:
 
-A) Whether passive scrolling exists  
-B) The duration needed for valid conclusions  
-C) Whether social media affects mental health  
-D) The number of participants in the study  
+A) Whether passive scrolling exists
+B) The duration needed for valid conclusions
+C) Whether social media affects mental health
+D) The number of participants in the study
 **[ ]** → **B**
 
 ---
@@ -246,10 +246,10 @@ D) The number of participants in the study
 ## Question 18 — D8
 The passage's structure could best be described as:
 
-A) Presenting a study then offering critiques  
-B) Comparing two conflicting theories  
-C) Arguing for one side of a debate  
-D) Describing a historical trend  
+A) Presenting a study then offering critiques
+B) Comparing two conflicting theories
+C) Arguing for one side of a debate
+D) Describing a historical trend
 **[ ]** → **A**
 
 ---
@@ -257,10 +257,10 @@ D) Describing a historical trend
 ## Question 19 — D9
 Based on the passage, which hypothesis would Dr. Holloway most likely test next?
 
-A) Whether active engagement differs from passive scrolling in effects  
-B) Whether other platforms besides Instagram cause more harm  
-C) Whether children respond differently than adults  
-D) Whether limiting use to one week produces the same results  
+A) Whether active engagement differs from passive scrolling in effects
+B) Whether other platforms besides Instagram cause more harm
+C) Whether children respond differently than adults
+D) Whether limiting use to one week produces the same results
 **[ ]** → **A**
 
 ---
@@ -268,9 +268,8 @@ D) Whether limiting use to one week produces the same results
 ## Question 20 — D9
 Which statement best summarizes the main point of the passage?
 
-A) Social media is definitively harmful to mental health  
-B) Social media's impact depends on how users engage with it  
-C) Studies on social media should be conducted over decades  
-D) Researchers cannot agree on anything regarding social media  
+A) Social media is definitively harmful to mental health
+B) Social media's impact depends on how users engage with it
+C) Studies on social media should be conducted over decades
+D) Researchers cannot agree on anything regarding social media
 **[ ]** → **B**
-

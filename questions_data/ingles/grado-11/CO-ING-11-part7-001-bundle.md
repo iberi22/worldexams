@@ -200,5 +200,3 @@ Choose the correct option for space (7).
 | Fácil (Dificultad 1-2) | 1 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 3 |
-
-

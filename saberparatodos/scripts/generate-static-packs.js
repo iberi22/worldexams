@@ -46,7 +46,7 @@ function parseQuestions(body) {
     const start = matches[i].index;
     const end = i + 1 < matches.length ? matches[i + 1].index : body.length;
     const section = body.slice(start, end);
-    
+
     // Extract ID
     const idMatch = section.match(/(?:\*\*ID:\*\*|ID:)\s*(?:`([^`]+)`|"([^"]+)"|([A-Za-z0-9._:-]+))/);
     const id = idMatch ? (idMatch[1] || idMatch[2] || idMatch[3]) : `q-${i}`;
@@ -65,7 +65,7 @@ function parseQuestions(body) {
     const optionRegex = /^\s*-\s*\[([x ])\]\s*(?:\*\*)?([A-Z])(?:\*\*)?(?:\s*[\)\.\-:]\s*)?(.*)$/gm;
     let optMatch;
     let correctId = 'A';
-    
+
     while ((optMatch = optionRegex.exec(section)) !== null) {
       const isCorrect = optMatch[1].toLowerCase() === 'x';
       const letter = optMatch[2];
@@ -100,11 +100,11 @@ const packs = {};
 for (const subject of subjects) {
   const subjectPath = path.join(QUESTIONS_DATA, subject);
   const grades = fs.readdirSync(subjectPath).filter(f => f.startsWith('grado-'));
-  
+
   for (const gradeFolder of grades) {
     const grade = parseInt(gradeFolder.replace('grado-', ''));
     const gradePath = path.join(subjectPath, gradeFolder);
-    
+
     // Walk through all .md files in grade path
     const walk = (dir) => {
       let results = [];
@@ -122,7 +122,7 @@ for (const subject of subjects) {
     };
 
     const files = walk(gradePath);
-    
+
     for (const file of files) {
       try {
         if (hasDuplicatedPeriodSegment(file)) {
@@ -138,7 +138,7 @@ for (const subject of subjects) {
 
         const period = data.periodo || 1;
         const packKey = `${PACK_ID}-grade-${grade}-subject-${subject.replace(/-/g, '_')}`;
-        
+
         if (!packs[packKey]) {
           packs[packKey] = {
             metadata: {

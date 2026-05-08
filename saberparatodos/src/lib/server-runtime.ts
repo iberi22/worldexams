@@ -5,6 +5,12 @@ export type RuntimeLocals = {
   runtime?: {
     env?: Record<string, string | undefined>;
   };
+  country?: unknown;
+  countryCode?: string;
+  countryDetected?: boolean;
+  countryHasContent?: boolean;
+  countryName?: string;
+  countryFlag?: string;
 };
 
 export type ServerRuntimeEnv = {

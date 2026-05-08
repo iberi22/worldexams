@@ -40,10 +40,10 @@ Scientists at the Monterey Bay Aquarium Research Institute studied how ocean wat
 ## Question 1 — D4
 As CO₂ exposure time increased, pH of all samples:
 
-A) Increased  
-B) Decreased  
-C) Remained constant  
-D) Fluctuated randomly  
+A) Increased
+B) Decreased
+C) Remained constant
+D) Fluctuated randomly
 **[ ]** → **B**
 
 ---
@@ -51,10 +51,10 @@ D) Fluctuated randomly
 ## Question 2 — D5
 Based on the data, which sample had the highest initial pH?
 
-A) Sample A  
-B) Sample B  
-C) Sample C  
-D) All samples had equal pH  
+A) Sample A
+B) Sample B
+C) Sample C
+D) All samples had equal pH
 **[ ]** → **A**
 
 ---
@@ -62,10 +62,10 @@ D) All samples had equal pH
 ## Question 3 — D5
 What was the approximate change in pH for Sample A from 0 to 30 minutes?
 
-A) 0.5  
-B) 0.8  
-C) 1.0  
-D) 1.2  
+A) 0.5
+B) 0.8
+C) 1.0
+D) 1.2
 **[ ]** → **B**
 
 ---
@@ -73,10 +73,10 @@ D) 1.2
 ## Question 4 — D6
 Which statement is most consistent with the data?
 
-A) Deeper water samples are more resistant to pH change  
-B) Surface water has the highest buffering capacity  
-C) All samples experienced similar proportional pH decreases  
-D) pH change is unrelated to CO₂ exposure  
+A) Deeper water samples are more resistant to pH change
+B) Surface water has the highest buffering capacity
+C) All samples experienced similar proportional pH decreases
+D) pH change is unrelated to CO₂ exposure
 **[ ]** → **C**
 
 ---
@@ -84,10 +84,10 @@ D) pH change is unrelated to CO₂ exposure
 ## Question 5 — D6
 If the experiment continued for another 30 minutes, Sample C's pH would most likely be:
 
-A) 6.9  
-B) 7.0  
-C) 7.1  
-D) 7.3  
+A) 6.9
+B) 7.0
+C) 7.1
+D) 7.3
 **[ ]** → **B**
 
 ---
@@ -95,10 +95,10 @@ D) 7.3
 ## Question 6 — D7
 The researchers' conclusion about ocean acidification would be best supported if:
 
-A) The pH of all samples remained constant  
-B) Surface waters showed no change in CO₂ absorption  
-C) Multiple ocean locations showed similar pH decreases  
-D) Only deep water samples showed pH changes  
+A) The pH of all samples remained constant
+B) Surface waters showed no change in CO₂ absorption
+C) Multiple ocean locations showed similar pH decreases
+D) Only deep water samples showed pH changes
 **[ ]** → **C**
 
 ---
@@ -106,10 +106,10 @@ D) Only deep water samples showed pH changes
 ## Question 7 — D7
 A peer reviewer notes that Sample B and C started with lower pH values. This suggests:
 
-A) Deeper water has already absorbed more CO₂  
-B) Surface water is more acidic  
-C) The experiment was flawed  
-D) Temperature affects pH readings  
+A) Deeper water has already absorbed more CO₂
+B) Surface water is more acidic
+C) The experiment was flawed
+D) Temperature affects pH readings
 **[ ]** → **A**
 
 ---
@@ -132,10 +132,10 @@ A researcher in Florida tested how temperature affects the lifespan of lithium-i
 ## Question 8 — D4
 At which temperature did batteries last the longest?
 
-A) 0°C  
-B) 20°C  
-C) 40°C  
-D) 60°C  
+A) 0°C
+B) 20°C
+C) 40°C
+D) 60°C
 **[ ]** → **B**
 
 ---
@@ -143,10 +143,10 @@ D) 60°C
 ## Question 9 — D5
 Compared to the battery at 20°C, the battery at 60°C lasted:
 
-A) 40 minutes longer  
-B) 40 minutes shorter  
-C) 90 minutes shorter  
-D) 90 minutes longer  
+A) 40 minutes longer
+B) 40 minutes shorter
+C) 90 minutes shorter
+D) 90 minutes longer
 **[ ]** → **C**
 
 ---
@@ -154,10 +154,10 @@ D) 90 minutes longer
 ## Question 10 — D5
 What is the approximate difference in discharge time between 0°C and 40°C?
 
-A) 5 minutes  
-B) 10 minutes  
-C) 15 minutes  
-D) 25 minutes  
+A) 5 minutes
+B) 10 minutes
+C) 15 minutes
+D) 25 minutes
 **[ ]** → **C**
 
 ---
@@ -165,10 +165,10 @@ D) 25 minutes
 ## Question 11 — D6
 Based on this data, what is the optimal temperature range for lithium-ion battery operation?
 
-A) 0°C to 20°C  
-B) 20°C to 30°C  
-C) 30°C to 40°C  
-D) 40°C to 60°C  
+A) 0°C to 20°C
+B) 20°C to 30°C
+C) 30°C to 40°C
+D) 40°C to 60°C
 **[ ]** → **B**
 
 ---
@@ -176,10 +176,10 @@ D) 40°C to 60°C
 ## Question 12 — D6
 Which hypothesis best explains the pattern in the data?
 
-A) Cold temperatures slow all chemical reactions equally  
-B) Both high and low temperatures reduce battery performance  
-C) Heat always improves battery efficiency  
-D) Batteries function best at freezing temperatures  
+A) Cold temperatures slow all chemical reactions equally
+B) Both high and low temperatures reduce battery performance
+C) Heat always improves battery efficiency
+D) Batteries function best at freezing temperatures
 **[ ]** → **B**
 
 ---
@@ -187,10 +187,10 @@ D) Batteries function best at freezing temperatures
 ## Question 13 — D7
 If the researcher tested a battery at -10°C, discharge time would likely be:
 
-A) Less than 150 minutes  
-B) Between 150 and 180 minutes  
-C) Between 180 and 240 minutes  
-D) Greater than 240 minutes  
+A) Less than 150 minutes
+B) Between 150 and 180 minutes
+C) Between 180 and 240 minutes
+D) Greater than 240 minutes
 **[ ]** → **A**
 
 ---
@@ -198,10 +198,10 @@ D) Greater than 240 minutes
 ## Question 14 — D8
 A competing theory states that cold temperatures only delay discharge without reducing total energy. To test this, researchers should:
 
-A) Test only at 20°C and 60°C  
-B) Measure total energy output, not just discharge time  
-C) Use different battery brands  
-D) Increase the sample size at 20°C only  
+A) Test only at 20°C and 60°C
+B) Measure total energy output, not just discharge time
+C) Use different battery brands
+D) Increase the sample size at 20°C only
 **[ ]** → **B**
 
 ---
@@ -226,10 +226,10 @@ Geologists at the University of Nevada tested how different soil types affect se
 ## Question 15 — D5
 At all frequencies tested, which soil type produced the highest amplitude?
 
-A) Sand  
-B) Clay  
-C) Mixed  
-D) All produced equal amplitudes  
+A) Sand
+B) Clay
+C) Mixed
+D) All produced equal amplitudes
 **[ ]** → **B**
 
 ---
@@ -237,10 +237,10 @@ D) All produced equal amplitudes
 ## Question 16 — D5
 As frequency increased, amplitude in sand decreased by approximately:
 
-A) 25%  
-B) 50%  
-C) 75%  
-D) 90%  
+A) 25%
+B) 50%
+C) 75%
+D) 90%
 **[ ]** → **C**
 
 ---
@@ -248,10 +248,10 @@ D) 90%
 ## Question 17 — D6
 Based on this data, during an earthquake, buildings on clay soil would experience:
 
-A) Less shaking than on sand  
-B) More shaking than on sand  
-C) The same shaking as on sand  
-D) No shaking  
+A) Less shaking than on sand
+B) More shaking than on sand
+C) The same shaking as on sand
+D) No shaking
 **[ ]** → **B**
 
 ---
@@ -259,10 +259,10 @@ D) No shaking
 ## Question 18 — D6
 If frequency increased to 40 Hz, the amplitude in mixed soil would most likely be:
 
-A) 2 mm  
-B) 4 mm  
-C) 6 mm  
-D) 8 mm  
+A) 2 mm
+B) 4 mm
+C) 6 mm
+D) 8 mm
 **[ ]** → **B**
 
 ---
@@ -270,10 +270,10 @@ D) 8 mm
 ## Question 19 — D7
 A building code requires amplitude stays below 10 mm for safety. Based on this data:
 
-A) All frequencies are safe on all soil types  
-B) Only low frequencies are safe on all soil types  
-C) Only clay soil exceeds safety thresholds at low frequencies  
-D) Mixed soil is never safe  
+A) All frequencies are safe on all soil types
+B) Only low frequencies are safe on all soil types
+C) Only clay soil exceeds safety thresholds at low frequencies
+D) Mixed soil is never safe
 **[ ]** → **B**
 
 ---
@@ -281,9 +281,8 @@ D) Mixed soil is never safe
 ## Question 20 — D8
 The geologists concluded that soil type significantly affects seismic amplification. To strengthen this conclusion, they should:
 
-A) Test additional soil types  
-B) Repeat the experiment multiple times  
-C) Use different shaking table intensities  
-D) All of the above  
+A) Test additional soil types
+B) Repeat the experiment multiple times
+C) Use different shaking table intensities
+D) All of the above
 **[ ]** → **D**
-

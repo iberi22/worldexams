@@ -1,33 +1,37 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import { countryConfig as defaultConfig, toRuntimeCountryConfig } from '../config';
 
-const title = 'Pruebas Saber Gratis en Colombia | SaberParaTodos';
-const description = 'Encuentra práctica gratuita para Pruebas Saber, simulacros y guías de preparación en Colombia. Conoce áreas, competencias y recursos.';
+const country = Astro.locals.country ? toRuntimeCountryConfig(Astro.locals.country) : defaultConfig;
+
+const title = `${country.examName} Gratis en ${country.name} | ${country.product.siteName}`;
+const description = `Encuentra practica gratuita para ${country.examName}, simulacros y guias de preparacion en ${country.name}. Conoce areas, competencias y recursos.`;
+const keywords = `${country.examName} gratis, examenes gratis ${country.name.toLowerCase()}`;
 ---
 
-<Layout title={title} description={description} keywords="pruebas saber gratis, saber 11 gratis, examenes gratis colombia, icfes gratis">
+<Layout title={title} description={description} keywords={keywords}>
   <section class="wrapper">
     <div class="container">
-      <p class="eyebrow">Preparación Colombia</p>
-      <h1>Pruebas Saber gratis para practicar mejor en Colombia</h1>
+      <p class="eyebrow">Preparacion {country.name}</p>
+      <h1>{country.examName} gratis para practicar mejor en {country.name}</h1>
       <p class="lead">
-        Si llegaste buscando <strong>pruebas Saber gratis</strong>, <strong>ICFES gratis</strong> o
-        <strong>exámenes gratis en Colombia</strong>, aquí encontrarás una ruta clara hacia práctica, guía y simulacro.
+        Si llegaste buscando <strong>{country.examName} gratis</strong>, <strong>simulacros</strong> o
+        <strong>examnes gratis en {country.name}</strong>, aqui encontrars una ruta clara hacia practica, guia y simulacro.
       </p>
 
       <div class="panel">
-        <h2>Qué puedes hacer en SaberParaTodos</h2>
+        <h2>Que puedes hacer en {country.product.siteName}</h2>
         <ul>
-          <li>Practicar por áreas en una app de estudio gratuita.</li>
-          <li>Entrar a una landing especializada de simulacro ICFES.</li>
-          <li>Consultar guías de estructura del examen y materiales de apoyo.</li>
-          <li>Reforzar competencias antes de presentar Saber 11.</li>
+          <li>Practicar por areas en una app de estudio gratuita.</li>
+          <li>Entrar a una landing especializada de simulacro {country.examName}.</li>
+          <li>Consultar guias de estructura del examen y materiales de apoyo.</li>
+          <li>Reforzar competencias antes de presentar {country.examFullName}.</li>
         </ul>
       </div>
 
       <div class="cta-row">
-        <a href="/practica" class="btn btn-primary">Comenzar práctica</a>
-        <a href="/guia-examen" class="btn btn-secondary">Leer la guía</a>
+        <a href="/practica" class="btn btn-primary">Comenzar practica</a>
+        <a href="/guia-examen" class="btn btn-secondary">Leer la guia</a>
       </div>
     </div>
   </section>
@@ -35,16 +39,20 @@ const description = 'Encuentra práctica gratuita para Pruebas Saber, simulacros
 
 <style>
   .wrapper { padding: 4rem 1rem; }
-  .container { max-width: 960px; margin: 0 auto; }
+  .container { max-width: 1000px; margin: 0 auto; }
   .eyebrow { color: #fcd116; text-transform: uppercase; letter-spacing: 0.12em; font: 0.75rem 'Fira Code', monospace; }
   h1, h2 { color: #f5f5dc; }
-  h1 { font-size: clamp(2.25rem, 5vw, 4rem); margin: 1rem 0; max-width: 13ch; }
-  p, li { color: rgba(245, 245, 220, 0.78); line-height: 1.7; }
-  .lead { max-width: 60ch; }
-  .panel { margin: 2rem 0; padding: 1.5rem; border-radius: 1.5rem; background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.1); }
-  .panel ul { padding-left: 1.25rem; }
-  .cta-row { display: flex; flex-wrap: wrap; gap: 1rem; }
-  .btn { display: inline-flex; align-items: center; justify-content: center; padding: 0.9rem 1.25rem; border-radius: 999px; text-decoration: none; font-weight: 700; }
-  .btn-primary { background: linear-gradient(135deg, #fcd116, #ffe06a); color: #111827; }
-  .btn-secondary { border: 1px solid rgba(255,255,255,0.18); color: #f5f5dc; }
+  h1 { font-size: clamp(2.25rem, 5vw, 4rem); margin: 1rem 0; }
+  .lead { color: rgba(245,245,220,0.7); font-size: 1.2rem; margin: 2rem 0; line-height: 1.6; max-width: 55ch; }
+  .panel { background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 1rem; padding: 2rem; margin: 2rem 0; }
+  .panel h2 { color: #10b981; margin-bottom: 1rem; }
+  .panel ul { list-style: none; padding: 0; }
+  .panel li { color: rgba(245,245,220,0.8); padding: 0.5rem 0; border-bottom: 1px solid rgba(255,255,255,0.05); }
+  .panel li:last-child { border-bottom: none; }
+  .cta-row { display: flex; gap: 1rem; margin-top: 2rem; flex-wrap: wrap; }
+  .btn { padding: 0.75rem 1.5rem; border-radius: 0.5rem; font-weight: 600; text-decoration: none; transition: all 0.2s; }
+  .btn-primary { background: #10b981; color: #000; }
+  .btn-primary:hover { background: #059669; transform: translateY(-2px); }
+  .btn-secondary { background: transparent; border: 1px solid rgba(255,255,255,0.2); color: #f5f5dc; }
+  .btn-secondary:hover { border-color: #10b981; color: #10b981; }
 </style>

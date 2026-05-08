@@ -42,12 +42,12 @@ export const VALIDATION_STATUSES: Record<ValidationStatus, ValidationMeta> = {
  */
 export function deriveValidationStatus(protocolVersion?: string, hasFeedback?: boolean): ValidationStatus {
   if (!protocolVersion) return 'unreviewed';
-  
+
   const version = parseFloat(protocolVersion);
-  
+
   if (version >= 5.1) return 'verified';
   if (version >= 5.0) return 'in_review';
-  
+
   return 'unreviewed';
 }
 
@@ -61,7 +61,7 @@ export const DOMAIN_VALIDATION_OVERRIDE: Record<string, ValidationStatus> = {
   '11-matematicas': 'in_review',
   '11-lectura_critica': 'in_review',
   '11-sociales_y_ciudadanas': 'in_review',
-  
+
   // Grade 3-9 are mostly legacy for now
   '9-ingles': 'verified', // 🆕 Protocol 4.1 for English Grade 9 is high quality
   '9-matematicas': 'unreviewed',

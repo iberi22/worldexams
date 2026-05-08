@@ -197,5 +197,3 @@ Which of the following would be the best alternative title for the text?
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
-
-

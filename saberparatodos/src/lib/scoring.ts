@@ -8,7 +8,7 @@
  * - Precisión general
  */
 
-import { estimateIcfesScore, type IcfesEstimate } from './mmr-system';
+import { estimateIcfesScore, estimatePaesScore, type IcfesEstimate } from './mmr-system';
 
 // ============================================================================
 // TIPOS
@@ -65,6 +65,7 @@ export interface ExamScore {
   perfectBonus: number;
   totalScore: number;
   icfesEstimate: IcfesEstimate;
+  paesEstimate?: IcfesEstimate;
   stats: ExamStats;
   scoreRange: ExamScoreRange;
 }
@@ -309,6 +310,15 @@ export function calculateExamScore(
     subjectCoverage: 1
   });
 
+  const paesEstimate = estimatePaesScore({
+    mmr: Math.round(mmrApproximation),
+    accuracy: stats.accuracy,
+    evidenceCount: stats.questionsAnswered,
+    averageDifficulty,
+    consistencyScore,
+    subjectCoverage: 1
+  });
+
   return {
     practiceScore: totalScore,
     questionScores,
@@ -318,6 +328,7 @@ export function calculateExamScore(
     perfectBonus,
     totalScore,
     icfesEstimate,
+    paesEstimate,
     stats,
     scoreRange
   };
