@@ -29,4 +29,3 @@ If a task touches this folder and claims anything about production state, verify
 - `../saberparatodos/supabase/.temp/project-ref`
 - `pwsh -File ../scripts/audit-supabase-functions.ps1`
 - `../docs/agent-docs/specs/SPEC_SUPABASE_EDGE_FUNCTIONS_SOURCE_OF_TRUTH.md`
-

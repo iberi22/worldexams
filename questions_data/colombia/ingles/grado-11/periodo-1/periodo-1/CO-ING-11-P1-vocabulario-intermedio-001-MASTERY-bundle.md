@@ -34,10 +34,10 @@ license: "CC BY-NC-SA 4.0"
 
 Complete the sentence: "I need to _______ my phone before the battery runs out."
 
-A) charge [x]  
-B) turn off  
-C) delete  
-D) restart  
+A) charge [x]
+B) turn off
+C) delete
+D) restart
 
 ---
 
@@ -46,10 +46,10 @@ D) restart
 
 Which word means "a program or application on a smartphone"?
 
-A) device  
-B) app [x]  
-C) keyboard  
-D) screen  
+A) device
+B) app [x]
+C) keyboard
+D) screen
 
 ---
 
@@ -58,10 +58,10 @@ D) screen
 
 The _______ is getting warmer every year due to greenhouse gases.
 
-A) atmosphere  
-B) ozone  
-C) climate [x]  
-D) earthquake  
+A) atmosphere
+B) ozone
+C) climate [x]
+D) earthquake
 
 ---
 
@@ -70,10 +70,10 @@ D) earthquake
 
 Which of the following is a renewable energy source?
 
-A) coal  
-B) natural gas  
-C) solar power [x]  
-D) oil  
+A) coal
+B) natural gas
+C) solar power [x]
+D) oil
 
 ---
 
@@ -82,10 +82,10 @@ D) oil
 
 If you feel dizzy and have a high temperature, you should see a _______.
 
-A) mechanic  
-B) lawyer  
-C) doctor [x]  
-D) architect  
+A) mechanic
+B) lawyer
+C) doctor [x]
+D) architect
 
 ---
 
@@ -94,10 +94,10 @@ D) architect
 
 The patient was advised to _______ the medicine twice a day.
 
-A) take [x]  
-B) prescribe  
-C) diagnose  
-D) inject  
+A) take [x]
+B) prescribe
+C) diagnose
+D) inject
 
 ---
 
@@ -106,10 +106,10 @@ D) inject
 
 She submitted her _______ along with her resume to apply for the position.
 
-A) salary  
-B) interview  
-C) cover letter [x]  
-D) break  
+A) salary
+B) interview
+C) cover letter [x]
+D) break
 
 ---
 
@@ -118,10 +118,10 @@ D) break
 
 After working for ten years, he received a _______ to a higher position.
 
-A) resignation  
-B) layoff  
-C) promotion [x]  
-D) internship  
+A) resignation
+B) layoff
+C) promotion [x]
+D) internship
 
 ---
 
@@ -130,10 +130,10 @@ D) internship
 
 We booked a _______ at a hotel near the beach.
 
-A) flight  
-B) passport  
-C) reservation [x]  
-D) visa  
+A) flight
+B) passport
+C) reservation [x]
+D) visa
 
 ---
 
@@ -142,10 +142,10 @@ D) visa
 
 Before traveling abroad, you need a valid _______.
 
-A) boarding pass  
-B) suitcase  
-C) passport [x]  
-D) guidebook  
+A) boarding pass
+B) suitcase
+C) passport [x]
+D) guidebook
 
 ---
 
@@ -154,10 +154,10 @@ D) guidebook
 
 The company launched a new _______ platform that allows users to work remotely.
 
-A) collaboration [x]  
-B) competition  
-C) cancellation  
-D) celebration  
+A) collaboration [x]
+B) competition
+C) cancellation
+D) celebration
 
 ---
 
@@ -166,10 +166,10 @@ D) celebration
 
 You should _______ your personal information when using public Wi-Fi.
 
-A) share  
-B) protect [x]  
-C) publish  
-D) delete  
+A) share
+B) protect [x]
+C) publish
+D) delete
 
 ---
 
@@ -178,10 +178,10 @@ D) delete
 
 Deforestation is one of the main causes of _______ loss worldwide.
 
-A) habitat [x]  
-B) water  
-C) energy  
-D) traffic  
+A) habitat [x]
+B) water
+C) energy
+D) traffic
 
 ---
 
@@ -190,10 +190,10 @@ D) traffic
 
 Governments should implement policies to reduce carbon _______.
 
-A) footprint [x]  
-B) storage  
-C) emission (already implied in carbon emissions)  
-D) capture  
+A) footprint [x]
+B) storage
+C) emission (already implied in carbon emissions)
+D) capture
 
 ---
 
@@ -202,10 +202,10 @@ D) capture
 
 Regular exercise and a balanced diet can prevent many _______ diseases.
 
-A) chronic [x]  
-B) temporary  
-C) rare  
-D) unknown  
+A) chronic [x]
+B) temporary
+C) rare
+D) unknown
 
 ---
 
@@ -214,10 +214,10 @@ D) unknown
 
 The doctor recommended that the patient _______ for a month to recover fully.
 
-A) rest [x]  
-B) work  
-C) exercise  
-D) travel  
+A) rest [x]
+B) work
+C) exercise
+D) travel
 
 ---
 
@@ -226,10 +226,10 @@ D) travel
 
 Being punctual and meeting deadlines are essential _______ skills in any workplace.
 
-A) interpersonal  
-B) professional [x]  
-C) creative  
-D) manual  
+A) interpersonal
+B) professional [x]
+C) creative
+D) manual
 
 ---
 
@@ -238,10 +238,10 @@ D) manual
 
 He decided to _______ from his job to start his own business.
 
-A) retire  
-B) resign [x]  
-C) be promoted  
-D) be fired  
+A) retire
+B) resign [x]
+C) be promoted
+D) be fired
 
 ---
 
@@ -250,10 +250,10 @@ D) be fired
 
 The travel agent suggested we purchase travel _______ in case of an emergency.
 
-A) luggage  
-B) insurance [x]  
-C) souvenirs  
-D) maps  
+A) luggage
+B) insurance [x]
+C) souvenirs
+D) maps
 
 ---
 
@@ -262,10 +262,10 @@ D) maps
 
 Because of the heavy snowfall, several flights were _______ at the airport.
 
-A) confirmed  
-B) delayed [x]  
-C) booked  
-D) cancelled  
+A) confirmed
+B) delayed [x]
+C) booked
+D) cancelled
 
 ---
 

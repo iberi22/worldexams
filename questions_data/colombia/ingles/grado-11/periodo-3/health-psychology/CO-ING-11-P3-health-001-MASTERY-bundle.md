@@ -73,7 +73,7 @@ How should the psychologist correctly document this statement using **Reported S
 
 ### Texto Base
 *Observe the situation:*
-Emily arrives at school looking incredibly pale. She is shivering, coughing constantly, and holding her throat. She hasn't said a word all morning because she loses her voice every time she tries to speak. 
+Emily arrives at school looking incredibly pale. She is shivering, coughing constantly, and holding her throat. She hasn't said a word all morning because she loses her voice every time she tries to speak.
 
 ### Enunciado
 Based on the visible evidence, which of the following deductions uses the correct Modal Verb of Certainty?

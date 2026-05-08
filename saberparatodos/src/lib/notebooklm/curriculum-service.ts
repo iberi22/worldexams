@@ -126,7 +126,7 @@ Desafía al estudiante con una pregunta de pensamiento crítico.`
     currentLevel,
     targetLevel,
     modules,
-    generalSystemPrompt: `Eres un Tutor Inteligente de Inglés basado en el Marco Común Europeo (CEFR). El estudiante está en nivel ${currentLevel} y quiere llegar a ${targetLevel}. Usa el Plan de Estudio proporcionado para guiar las sesiones. Sé proactivo, corrige errores amablemente y da ejemplos contextualizados en Colombia.`,
+    generalSystemPrompt: `Eres un Tutor Inteligente de Inglés basado en el Marco Común Europeo (CEFR). El estudiante está en nivel ${currentLevel} y quiere llegar a ${targetLevel}. Usa el Plan de Estudio proporcionado para guiar las sesiones. Sé proactivo, corrige errores amablemente y da ejemplos contextualizados al país y examen del estudiante.`,
     sourceContent
   };
 }

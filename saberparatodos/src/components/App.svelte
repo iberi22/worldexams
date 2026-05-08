@@ -43,8 +43,8 @@
   import IntegrityIntro from './IntegrityIntro.svelte'; // New Component
   import { getPWAStatus, getRecommendedCacheSize, getCacheExpiryHours } from '../lib/pwa-detector'; // PWA Detection
   import packageInfo from '../../package.json';
-  import { countryConfig } from '../config';
-  import { CO_ICFES_2026_BENCHMARK } from '../config/icfes-benchmarks';
+  import { countryConfig as defaultCountryConfig } from '../config';
+  import { isPreuRuntimeEnabled } from '../lib/preuniversitario/catalog';
   // Removed static import to avoid Vite warning
   import LocalModeNotice from './LocalModeNotice.svelte';
   import OfflineProfile from './OfflineProfile.svelte';
@@ -57,7 +57,12 @@
   import { roomState } from '../modules/exam-room/stores/roomState.svelte.ts';
   import { p2pService } from '../lib/p2p-service'; // Moved to top
 
-  let { questions = [], universalPool = null } = $props();
+  let {
+    questions = [],
+    universalPool = null,
+    countryCode = defaultCountryConfig.code,
+    runtimeCountry = defaultCountryConfig
+  } = $props();
 
   // Internal state that can be updated
   let loadedQuestions = $state(questions || []); // Safety check
@@ -108,6 +113,8 @@
   let lastExamData = $state(null);
   let userAnswers = $state({});
   let showAllLandingGrades = $state(false); // 🆕 Control for landing grid expansion
+
+  const preuEnabled = isPreuRuntimeEnabled(countryCode);
 
   function setView(newView) {
     view = newView;
@@ -167,9 +174,11 @@
       showExamConfigModal = true;
       window.history.replaceState({}, '', '/');
     } else if (subjectParam) {
-       selectedSubject = subjectParam;
+       selectedSubject = subjectParam === 'Preuniversitario' && !preuEnabled ? null : subjectParam;
        if (gradeParam) selectedGrade = parseInt(gradeParam);
-       showExamConfigModal = true;
+       if (selectedSubject) {
+         showExamConfigModal = true;
+       }
        window.history.replaceState({}, '', '/');
     }
 
@@ -352,6 +361,7 @@
         const result = await prepareSoloExamQuestions(
           {
             grade: effectiveGrade,
+            countryCode,
             subject: selectedSubject,
             count: config.count,
             useDiagnostic: Boolean(config.useDiagnostic),
@@ -420,6 +430,7 @@
           const roomResult = await prepareRoomQuestions(
             {
               grade: selectedGrade || 11,
+              countryCode,
               subject: selectedSubject,
               count: examConfig.count,
               useDiagnostic: Boolean(examConfig.useDiagnostic),
@@ -770,6 +781,7 @@
 
   {#if showLocalReports}
     <LocalReportsView
+      runtimeCountry={runtimeCountry}
       onClose={() => showLocalReports = false}
       onStartExam={handleStart}
       onNavigateToBlog={async (subject) => {
@@ -1105,7 +1117,7 @@
                 </FlashlightCard>
               {/each}
 
-              {#if showAllLandingGrades}
+              {#if showAllLandingGrades && preuEnabled}
                 <!-- 🎓 Preuniversitario Card -->
                 <FlashlightCard
                   onClick={() => {
@@ -1195,7 +1207,7 @@
           -->
 
           <!--
-          {#if countryConfig.features?.blog}
+          {#if runtimeCountry.features?.blog}
           <FlashlightCard
             onClick={async () => {
               isNavigatingToBlog = true;
@@ -1245,7 +1257,7 @@
             <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
             </svg>
-            Guía Completa ICFES
+            Guía Completa {runtimeCountry.product.guideLabel || runtimeCountry.examName}
           </a>
           <p class="text-xs opacity-30">Conoce la estructura del examen y tips de estudio</p>
         </div>
@@ -1254,7 +1266,7 @@
           <div class="max-w-6xl mx-auto px-4 py-1.5 sm:py-2 flex flex-row items-center justify-center gap-3 sm:gap-5 text-[10px] sm:text-xs leading-none whitespace-nowrap">
             <!-- Left: Country Flag -->
             <span class="flex items-center gap-1 text-white/40">
-              <span>🇨🇴</span>
+              <span>{runtimeCountry.flag}</span>
             </span>
 
             <!-- Center/Middle Links -->
@@ -1278,11 +1290,11 @@
             </span>
           </div>
 
-          <!-- Colombian flag stripe -->
+          <!-- Runtime theme stripe -->
           <div class="w-full h-0.5 flex">
-            <div class="flex-[2] bg-[#FCD116]"></div>
-            <div class="flex-1 bg-[#003893]"></div>
-            <div class="flex-1 bg-[#CE1126]"></div>
+            <div class="flex-[2]" style={`background-color: ${runtimeCountry.theme.primary};`}></div>
+            <div class="flex-1" style={`background-color: ${runtimeCountry.theme.secondary};`}></div>
+            <div class="flex-1" style={`background-color: ${runtimeCountry.theme.accent};`}></div>
           </div>
         </footer>
       </div>
@@ -1425,6 +1437,8 @@
   <!-- Exam Config Modal -->
   {#if showExamConfigModal}
     <ExamConfigModal
+      countryCode={countryCode}
+      runtimeCountry={runtimeCountry}
       subject={selectedSubject}
       currentGrade={selectedGrade || 11}
       isLoggedIn={Boolean(user)}

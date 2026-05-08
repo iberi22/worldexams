@@ -5,9 +5,10 @@ from pathlib import Path
 
 import cv2
 
-
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
-DEFAULT_VIDEO_ROOT = PROJECT_ROOT / "src" / "content" / "questions" / "colombia" / "matematicas" / "grado-11" / "periodo-1"
+DEFAULT_VIDEO_ROOT = (
+    PROJECT_ROOT / "src" / "content" / "questions" / "colombia" / "matematicas" / "grado-11" / "periodo-1"
+)
 DEFAULT_PUBLIC_OUT = PROJECT_ROOT / "public" / "video-frame-analysis" / "e2e-latest"
 PERCENTS = [0.05, 0.25, 0.5, 0.75, 0.95]
 
@@ -31,22 +32,26 @@ def extract_frames(video_path: Path, out_dir: Path):
         cap.set(cv2.CAP_PROP_POS_MSEC, max(0, ts * 1000))
         ok, frame = cap.read()
         if not ok or frame is None:
-            frames.append({
-                "index": idx,
-                "percent": p,
-                "timestamp_seconds": round(ts, 2),
-                "error": "read_failed",
-            })
+            frames.append(
+                {
+                    "index": idx,
+                    "percent": p,
+                    "timestamp_seconds": round(ts, 2),
+                    "error": "read_failed",
+                }
+            )
             continue
         frame_name = f"{video_path.stem}__f{idx}.png"
         frame_path = out_dir / frame_name
         cv2.imwrite(str(frame_path), frame)
-        frames.append({
-            "index": idx,
-            "percent": p,
-            "timestamp_seconds": round(ts, 2),
-            "path": frame_name,
-        })
+        frames.append(
+            {
+                "index": idx,
+                "percent": p,
+                "timestamp_seconds": round(ts, 2),
+                "path": frame_name,
+            }
+        )
 
     cap.release()
     return {
@@ -73,7 +78,7 @@ def main():
         allowed = {x.strip() for x in args.include.split(",") if x.strip()}
         videos = [v for v in videos if v.name in allowed]
     if args.limit > 0:
-        videos = videos[:args.limit]
+        videos = videos[: args.limit]
 
     results = []
     for video in videos:

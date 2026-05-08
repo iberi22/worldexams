@@ -278,4 +278,3 @@ D) cos(g(x))*sen(x)
 **Respuesta:** A
 
 ---
-
