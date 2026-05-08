@@ -1,7 +1,7 @@
 import re
 
 # Fix index.astro to be country-aware
-with open(r'E:\scripts-python\worldexams\saberparatodos\src\pages\index.astro', 'r', encoding='utf-8') as f:
+with open(r"E:\scripts-python\worldexams\saberparatodos\src\pages\index.astro", "r", encoding="utf-8") as f:
     content = f.read()
 
 # The index page uses showNavbar={false} and showFooter={false}

@@ -19,11 +19,15 @@
 import React from "react";
 import {
   AbsoluteFill,
+  Audio,
   interpolate,
   spring,
+  staticFile,
   useCurrentFrame,
   useVideoConfig,
   Sequence,
+  CalculateMetadataFunction,
+  calculateMetadata,
   delayRender,
   continueRender,
 } from "remotion";
@@ -40,6 +44,7 @@ interface VerticalMathTemplateProps {
   steps: Step[];
   timecodes?: number[];
   duration?: number;
+  audioSrc?: string;  // Path or URL to WAV/MP3 audio file
 }
 
 // ── Helpers ────────────────────────────────────────────────────────────────────
@@ -217,26 +222,43 @@ const StepCard: React.FC<{
 
 // ── Main Template ────────────────────────────────────────────────────────────
 
+// calculateMetadata — required so SSR/CLI picks up variable duration from inputProps
+export const verticalMathCalculateMetadata: CalculateMetadataFunction<VerticalMathTemplateProps> = ({inputProps}) => {
+  const duration = inputProps.duration || 300;
+  return {
+    durationInFrames: duration,
+  };
+};
+
 export const VerticalMathTemplate: React.FC<VerticalMathTemplateProps> = ({
   title,
   topic,
   steps,
   timecodes = [],
   duration = 300,
+  audioSrc,
 }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
+
+  // Use the input duration from props
+  const effectiveDuration = duration > 0 ? duration : 300;
 
   // Title reveal
   const titleSpring = spring({ frame, fps, config: { damping: 12, stiffness: 90 } });
   const topicSpring = spring({ frame: frame - 10, fps, config: { damping: 15, stiffness: 100 } });
 
-  // Intro outro
-  const introDuration = 30; // frames
-  const outroStart = duration - 30;
+  // Intro outro — use effectiveDuration
+  const introDuration = 30; // frames (1s)
+  const outroStart = effectiveDuration - 30;
+
+  // Calculate duration from props — needed for SSR/CLI to pick up
 
   return (
     <AbsoluteFill style={{ backgroundColor: "#020617" }}>
+      {/* ── AUDIO ── */}
+      {audioSrc && audioSrc !== "null" && <Audio src={staticFile(audioSrc)} />}
+
       {/* ── INTRO ── */}
       <Sequence from={0} to={introDuration}>
         <AbsoluteFill

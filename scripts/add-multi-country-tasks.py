@@ -62,7 +62,7 @@ for country, topics in countries_topics.items():
             "agent": "minimax-m2.7",
             "id": task_id_str,
             "status": "pending",
-            "country": country
+            "country": country,
         }
         new_tasks.append(task)
         task_id += 1
