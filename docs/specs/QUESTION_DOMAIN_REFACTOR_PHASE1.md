@@ -96,4 +96,3 @@ Resultado: OK
 - Migrar `LocalReportsView.svelte` a la misma capa de dominio.
 - Migrar `roomState.svelte.ts` para unificar estrategia de seleccion en modo sala.
 - Ejecutar E2E completos una vez libre el puerto local.
-

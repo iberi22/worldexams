@@ -31,19 +31,19 @@ The National Park Service estimates that approximately six million people visit 
 ---
 
 ## Question 1 — D5
-A) NO CHANGE  
-B) offers the visitors  
-C) offering visitors  
-D) offer visitors  
+A) NO CHANGE
+B) offers the visitors
+C) offering visitors
+D) offer visitors
 **[ ]** → **A**
 
 ---
 
 ## Question 2 — D5
-A) NO CHANGE  
-B) timeframe; however, does not diminish  
-C) timeframe, however does not diminish  
-D) timeframe however does not diminish,  
+A) NO CHANGE
+B) timeframe; however, does not diminish
+C) timeframe, however does not diminish
+D) timeframe however does not diminish,
 **[ ]** → **B**
 
 ---
@@ -51,10 +51,10 @@ D) timeframe however does not diminish,
 ## Question 3 — D6
 For the second paragraph ([1], [2], [3], [4]), which sequence creates the most logical organization?
 
-A) [1], [2], [3], [4]  
-B) [2], [1], [3], [4]  
-C) [4], [3], [2], [1]  
-D) [1], [3], [2], [4]  
+A) [1], [2], [3], [4]
+B) [2], [1], [3], [4]
+C) [4], [3], [2], [1]
+D) [1], [3], [2], [4]
 **[ ]** → **A**
 
 ---
@@ -62,10 +62,10 @@ D) [1], [3], [2], [4]
 ## Question 4 — D6
 Which choice would best support the claim that the Grand Canyon is geologically significant?
 
-A) The canyon is a popular tourist destination.  
-B) Rock layers span nearly two billion years.  
-C) The Colorado River is also famous for the Hoover Dam.  
-D) Arizona is known for its desert climate.  
+A) The canyon is a popular tourist destination.
+B) Rock layers span nearly two billion years.
+C) The Colorado River is also famous for the Hoover Dam.
+D) Arizona is known for its desert climate.
 **[ ]** → **B**
 
 ---
@@ -73,10 +73,10 @@ D) Arizona is known for its desert climate.
 ## Question 5 — D7
 For the third paragraph ([1], [2], [3], [4]), which sequence creates the most logical organization?
 
-A) [1], [2], [3], [4]  
-B) [2], [1], [3], [4]  
-C) [3], [2], [1], [4]  
-D) [1], [3], [2], [4]  
+A) [1], [2], [3], [4]
+B) [2], [1], [3], [4]
+C) [3], [2], [1], [4]
+D) [1], [3], [2], [4]
 **[ ]** → **A**
 
 ---
@@ -84,10 +84,10 @@ D) [1], [3], [2], [4]
 ## Question 6 — D7
 The writer wants to add a concluding sentence that ties the passage together. Which choice best accomplishes this goal?
 
-A) "The Grand Canyon remains one of America's most treasured natural wonders."  
-B) "Many visitors enjoy hiking along the canyon's numerous trails."  
-C) "The Grand Canyon was established as a national park in 1919."  
-D) "Photography is prohibited in certain areas of the park."  
+A) "The Grand Canyon remains one of America's most treasured natural wonders."
+B) "Many visitors enjoy hiking along the canyon's numerous trails."
+C) "The Grand Canyon was established as a national park in 1919."
+D) "Photography is prohibited in certain areas of the park."
 **[ ]** → **A**
 
 ---
@@ -103,10 +103,10 @@ Edison's work was not without controversy. [1] He developed the electric chair a
 ---
 
 ## Question 7 — D5
-A) NO CHANGE  
-B) has transformed  
-C) transforms  
-D) will transform  
+A) NO CHANGE
+B) has transformed
+C) transforms
+D) will transform
 **[ ]** → **A**
 
 ---
@@ -114,10 +114,10 @@ D) will transform
 ## Question 8 — D5
 Which choice best provides a transition between the first and second paragraphs?
 
-A) NO CHANGE  
-B) "Consequently,"  
-C) "In contrast,"  
-D) "Meanwhile,"  
+A) NO CHANGE
+B) "Consequently,"
+C) "In contrast,"
+D) "Meanwhile,"
 **[ ]** → **A**
 
 ---
@@ -125,10 +125,10 @@ D) "Meanwhile,"
 ## Question 9 — D6
 For the second paragraph ([1], [2], [3], [4]), which sequence creates the most logical organization?
 
-A) [1], [2], [3], [4]  
-B) [2], [1], [3], [4]  
-C) [4], [3], [2], [1]  
-D) [3], [4], [1], [2]  
+A) [1], [2], [3], [4]
+B) [2], [1], [3], [4]
+C) [4], [3], [2], [1]
+D) [3], [4], [1], [2]
 **[ ]** → **A**
 
 ---
@@ -136,10 +136,10 @@ D) [3], [4], [1], [2]
 ## Question 10 — D6
 Which choice would best support the claim that Edison's model was influential?
 
-A) General Electric was founded in 1892.  
-B) Many companies continue to use similar research models.  
-C) Edison lived from 1847 to 1931.  
-D) The phonograph was invented in 1877.  
+A) General Electric was founded in 1892.
+B) Many companies continue to use similar research models.
+C) Edison lived from 1847 to 1931.
+D) The phonograph was invented in 1877.
 **[ ]** → **B**
 
 ---
@@ -147,10 +147,10 @@ D) The phonograph was invented in 1877.
 ## Question 11 — D7
 For the third paragraph ([1], [2], [3], [4]), which sequence creates the most logical organization?
 
-A) [1], [2], [3], [4]  
-B) [2], [1], [3], [4]  
-C) [4], [3], [2], [1]  
-D) [3], [4], [1], [2]  
+A) [1], [2], [3], [4]
+B) [2], [1], [3], [4]
+C) [4], [3], [2], [1]
+D) [3], [4], [1], [2]
 **[ ]** → **A**
 
 ---
@@ -158,10 +158,10 @@ D) [3], [4], [1], [2]
 ## Question 12 — D8
 The writer wants to add a sentence about the positive impacts of Edison's work. Where would this fit most logically?
 
-A) Before the first paragraph  
-B) Between paragraphs 2 and 3  
-C) As the final sentence of the passage  
-D) Between sentences [3] and [4] in paragraph 3  
+A) Before the first paragraph
+B) Between paragraphs 2 and 3
+C) As the final sentence of the passage
+D) Between sentences [3] and [4] in paragraph 3
 **[ ]** → **B**
 
 ---
@@ -175,19 +175,19 @@ Some argue that the solution lies in reducing administrative costs. [1] Universi
 ---
 
 ## Question 13 — D5
-A) NO CHANGE  
-B) have rose  
-C) has risen  
-D) is rising  
+A) NO CHANGE
+B) have rose
+C) has risen
+D) is rising
 **[ ]** → **C**
 
 ---
 
 ## Question 14 — D5
-A) NO CHANGE  
-B) "For instance,"  
-C) "However,"  
-D) "Therefore,"  
+A) NO CHANGE
+B) "For instance,"
+C) "However,"
+D) "Therefore,"
 **[ ]** → **C**
 
 ---
@@ -195,10 +195,10 @@ D) "Therefore,"
 ## Question 15 — D6
 Which choice provides the best evidence for the claim that college is becoming unaffordable?
 
-A) Tuition has increased by over 200% since 2000.  
-B) Student loan debt exceeds $1.7 trillion.  
-C) Middle-class families struggle with college costs.  
-D) Both A and B  
+A) Tuition has increased by over 200% since 2000.
+B) Student loan debt exceeds $1.7 trillion.
+C) Middle-class families struggle with college costs.
+D) Both A and B
 **[ ]** → **D**
 
 ---
@@ -206,10 +206,10 @@ D) Both A and B
 ## Question 16 — D6
 For the second paragraph ([1], [2], [3], [4]), which sequence creates the most logical organization?
 
-A) [1], [2], [3], [4]  
-B) [2], [1], [3], [4]  
-C) [4], [3], [2], [1]  
-D) [3], [4], [1], [2]  
+A) [1], [2], [3], [4]
+B) [2], [1], [3], [4]
+C) [4], [3], [2], [1]
+D) [3], [4], [1], [2]
 **[ ]** → **A**
 
 ---
@@ -217,10 +217,10 @@ D) [3], [4], [1], [2]
 ## Question 17 — D7
 The writer wants to add a sentence about the long-term effects of student debt. Which choice best accomplishes this goal?
 
-A) "Many graduates delay buying homes because of student debt."  
-B) "Student loans are a type of financial aid."  
-C) "The federal government backs most student loans."  
-D) "Some students work part-time while in college."  
+A) "Many graduates delay buying homes because of student debt."
+B) "Student loans are a type of financial aid."
+C) "The federal government backs most student loans."
+D) "Some students work part-time while in college."
 **[ ]** → **A**
 
 ---
@@ -228,10 +228,10 @@ D) "Some students work part-time while in college."
 ## Question 18 — D8
 Which choice best summarizes the passage's main argument?
 
-A) Higher education is too expensive and reform is needed.  
-B) Student debt is the most pressing issue in America.  
-C) Online education will solve all problems.  
-D) Vocational training is superior to college.  
+A) Higher education is too expensive and reform is needed.
+B) Student debt is the most pressing issue in America.
+C) Online education will solve all problems.
+D) Vocational training is superior to college.
 **[ ]** → **A**
 
 ---
@@ -245,10 +245,10 @@ D) Vocational training is superior to college.
 ---
 
 ## Question 19 — D7
-A) NO CHANGE  
-B) "Nonetheless,"  
-C) "Furthermore,"  
-D) "Additionally,"  
+A) NO CHANGE
+B) "Nonetheless,"
+C) "Furthermore,"
+D) "Additionally,"
 **[ ]** → **B**
 
 ---
@@ -256,9 +256,8 @@ D) "Additionally,"
 ## Question 20 — D8
 The writer wants to add a sentence that conveys the author's personal enthusiasm for the Appalachian Trail. Which choice best accomplishes this goal?
 
-A) "The trail was established in 1937."  
-B) "Hikers carry specialized gear including backpacks and sleeping bags."  
-C) "The Appalachian Trail represents one of America's greatest outdoor adventures."  
-D) "Weather conditions on the trail can change rapidly."  
+A) "The trail was established in 1937."
+B) "Hikers carry specialized gear including backpacks and sleeping bags."
+C) "The Appalachian Trail represents one of America's greatest outdoor adventures."
+D) "Weather conditions on the trail can change rapidly."
 **[ ]** → **C**
-

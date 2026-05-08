@@ -171,7 +171,7 @@ Análisis sistémico de la economía de guerra. Comprender cómo factores extern
 **ICFES:** Pensamiento Reflexivo y Sistémico
 
 ### Contexto
-Un historiador afirma: "El conflicto en Colombia no es un evento, es un sistema". 
+Un historiador afirma: "El conflicto en Colombia no es un evento, es un sistema".
 
 ### Enunciado
 ¿Cuál de las siguientes interpretaciones de esta frase es la más coherente con un análisis sistémico de la realidad nacional?

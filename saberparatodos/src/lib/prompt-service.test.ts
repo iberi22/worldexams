@@ -23,8 +23,8 @@ describe('Prompt Service - Adaptive Logic', () => {
   });
 
   it('should classify as regressing if MMR dropped significantly', () => {
-    const profile = { 
-      ...baseProfile, 
+    const profile = {
+      ...baseProfile,
       totalQuestions: 40,
       recentHistory: [
         { mmr: 300, timestamp: 1 }, { mmr: 300, timestamp: 2 }, { mmr: 300, timestamp: 3 }, { mmr: 300, timestamp: 4 }, { mmr: 300, timestamp: 5 },
@@ -35,28 +35,28 @@ describe('Prompt Service - Adaptive Logic', () => {
   });
 
   it('should classify as advanced_consistent for high MMR and high consistency', () => {
-    const profile = { 
-      ...baseProfile, 
-      globalMMR: 450, 
-      advancedMetrics: { ...baseProfile.advancedMetrics!, consistencyScore: 85 } 
+    const profile = {
+      ...baseProfile,
+      globalMMR: 450,
+      advancedMetrics: { ...baseProfile.advancedMetrics!, consistencyScore: 85 }
     };
     expect(classifyLearnerArchetype(profile)).toBe('advanced_consistent');
   });
 
   it('should classify as impulsive if speed diff is high', () => {
-    const profile = { 
-      ...baseProfile, 
-      advancedMetrics: { ...baseProfile.advancedMetrics!, avgTimeCorrect: 30000, avgTimeIncorrect: 20000 } 
+    const profile = {
+      ...baseProfile,
+      advancedMetrics: { ...baseProfile.advancedMetrics!, avgTimeCorrect: 30000, avgTimeIncorrect: 20000 }
     };
     const context = computeAdaptiveContext(profile);
     expect(context.speedProfile).toBe('impulsive');
   });
 
   it('should route to the correct prompt template in adaptive_auto', () => {
-    const profile = { 
-      ...baseProfile, 
-      globalMMR: 450, 
-      advancedMetrics: { ...baseProfile.advancedMetrics!, consistencyScore: 85 } 
+    const profile = {
+      ...baseProfile,
+      globalMMR: 450,
+      advancedMetrics: { ...baseProfile.advancedMetrics!, consistencyScore: 85 }
     };
     const prompt = generatePrompt('adaptive_auto', profile);
     expect(prompt).toContain('Mentor Olímpico');
@@ -64,8 +64,8 @@ describe('Prompt Service - Adaptive Logic', () => {
   });
 
   it('should handle rescue plan for regressing users', () => {
-    const profile = { 
-        ...baseProfile, 
+    const profile = {
+        ...baseProfile,
         totalQuestions: 40,
         recentHistory: Array(10).fill(0).map((_, i) => ({ mmr: i < 5 ? 350 : 250, timestamp: i }))
       };

@@ -39,10 +39,10 @@ Defenders of cryptocurrency argue that renewable energy will eventually power mo
 ## Question 1 — D6
 Both passages agree that cryptocurrency:
 
-A) Is too volatile for practical use  
-B) Has worldwide environmental impact  
-C) Reduces transaction costs  
-D) Operates without government oversight  
+A) Is too volatile for practical use
+B) Has worldwide environmental impact
+C) Reduces transaction costs
+D) Operates without government oversight
 **[ ]** → **D**
 
 ---
@@ -50,10 +50,10 @@ D) Operates without government oversight
 ## Question 2 — D6
 Passage A mentions El Salvador primarily to:
 
-A) Demonstrate successful cryptocurrency implementation  
-B) Provide a specific example of cryptocurrency as legal tender  
-C) Criticize a government's financial decisions  
-D) Compare cryptocurrency to traditional banking  
+A) Demonstrate successful cryptocurrency implementation
+B) Provide a specific example of cryptocurrency as legal tender
+C) Criticize a government's financial decisions
+D) Compare cryptocurrency to traditional banking
 **[ ]** → **B**
 
 ---
@@ -61,10 +61,10 @@ D) Compare cryptocurrency to traditional banking
 ## Question 3 — D6
 The word "intermediaries" in Passage A is closest in meaning to:
 
-A) Competitors  
-B) Middlemen  
-C) Regulators  
-D) Investors  
+A) Competitors
+B) Middlemen
+C) Regulators
+D) Investors
 **[ ]** → **B**
 
 ---
@@ -72,10 +72,10 @@ D) Investors
 ## Question 4 — D7
 Passage B's main argument is that cryptocurrency:
 
-A) Helps unbanked populations access finances  
-B) Is incompatible with environmental sustainability  
-C) Will eventually use entirely renewable energy  
-D) Is safer than traditional banking systems  
+A) Helps unbanked populations access finances
+B) Is incompatible with environmental sustainability
+C) Will eventually use entirely renewable energy
+D) Is safer than traditional banking systems
 **[ ]** → **B**
 
 ---
@@ -83,10 +83,10 @@ D) Is safer than traditional banking systems
 ## Question 5 — D7
 Which choice provides the best evidence that both passages acknowledge cryptocurrency's drawbacks?
 
-A) Passage A mentions volatility; Passage B mentions environmental costs  
-B) Passage A discusses El Salvador; Passage B discusses Texas  
-C) Passage A cites Argentina's electricity use; Passage B cites Joule study  
-D) Passage A mentions the unbanked; Passage B mentions climate damage  
+A) Passage A mentions volatility; Passage B mentions environmental costs
+B) Passage A discusses El Salvador; Passage B discusses Texas
+C) Passage A cites Argentina's electricity use; Passage B cites Joule study
+D) Passage A mentions the unbanked; Passage B mentions climate damage
 **[ ]** → **A**
 
 ---
@@ -94,10 +94,10 @@ D) Passage A mentions the unbanked; Passage B mentions climate damage
 ## Question 6 — D7
 The tone of Passage A could best be described as:
 
-A) Deeply skeptical  
-B) Cautiously optimistic  
-C) Outright hostile  
-D) Emotionally charged  
+A) Deeply skeptical
+B) Cautiously optimistic
+C) Outright hostile
+D) Emotionally charged
 **[ ]** → **B**
 
 ---
@@ -105,10 +105,10 @@ D) Emotionally charged
 ## Question 7 — D8
 Both passages suggest that:
 
-A) Cryptocurrency regulation is necessary  
-B) The future of cryptocurrency is uncertain  
-C) Traditional banking will become obsolete  
-D) Cryptocurrency has proven benefits for remittances  
+A) Cryptocurrency regulation is necessary
+B) The future of cryptocurrency is uncertain
+C) Traditional banking will become obsolete
+D) Cryptocurrency has proven benefits for remittances
 **[ ]** → **B**
 
 ---
@@ -116,10 +116,10 @@ D) Cryptocurrency has proven benefits for remittances
 ## Question 8 — D8
 The 150 terawatt-hours figure in Passage B serves to:
 
-A) Demonstrate cryptocurrency's efficiency  
-B) Quantify cryptocurrency's environmental footprint  
-C) Compare Bitcoin to other currencies  
-D) Support El Salvador's economic decisions  
+A) Demonstrate cryptocurrency's efficiency
+B) Quantify cryptocurrency's environmental footprint
+C) Compare Bitcoin to other currencies
+D) Support El Salvador's economic decisions
 **[ ]** → **B**
 
 ---
@@ -143,10 +143,10 @@ On the other side, philosopher Dr. James Oduya of Stanford counters: "Humans hav
 ## Question 9 — D6
 The primary difference between the passages is:
 
-A) Passage A discusses education; Passage B discusses philosophy  
-B) Passage A supports AI in classrooms; Passage B opposes all AI use  
-C) Passage A focuses on practical applications; Passage B focuses on ethical implications  
-D) Passage A is written by a teacher; Passage B is written by a scientist  
+A) Passage A discusses education; Passage B discusses philosophy
+B) Passage A supports AI in classrooms; Passage B opposes all AI use
+C) Passage A focuses on practical applications; Passage B focuses on ethical implications
+D) Passage A is written by a teacher; Passage B is written by a scientist
 **[ ]** → **C**
 
 ---
@@ -154,10 +154,10 @@ D) Passage A is written by a teacher; Passage B is written by a scientist
 ## Question 10 — D6
 The phrase "arms race" in Passage A suggests the author views the situation as:
 
-A) A productive competition  
-B) An escalating conflict  
-C) A mathematical problem  
-D) A temporary issue  
+A) A productive competition
+B) An escalating conflict
+C) A mathematical problem
+D) A temporary issue
 **[ ]** → **B**
 
 ---
@@ -165,10 +165,10 @@ D) A temporary issue
 ## Question 11 — D7
 Passage B mentions the abacus as an example of:
 
-A) Outdated technology  
-B) A tool humans have always used to augment thinking  
-C) Something less advanced than AI  
-D) An invention that caused academic dishonesty  
+A) Outdated technology
+B) A tool humans have always used to augment thinking
+C) Something less advanced than AI
+D) An invention that caused academic dishonesty
 **[ ]** → **B**
 
 ---
@@ -176,10 +176,10 @@ D) An invention that caused academic dishonesty
 ## Question 12 — D7
 The two passages would most likely disagree about whether:
 
-A) AI can be useful in education  
-B) AI-generated text has emotional content  
-C) Using AI for assignments is ethically acceptable  
-D) Universities should administer written exams  
+A) AI can be useful in education
+B) AI-generated text has emotional content
+C) Using AI for assignments is ethically acceptable
+D) Universities should administer written exams
 **[ ]** → **C**
 
 ---
@@ -187,10 +187,10 @@ D) Universities should administer written exams
 ## Question 13 — D8
 Which statement would Dr. Walls most likely disagree with?
 
-A) AI chatbots don't experience emotions  
-B) AI-generated text can sound like it has feelings  
-C) Using AI for assignments is evolution, not cheating  
-D) Language models predict patterns rather than understand meaning  
+A) AI chatbots don't experience emotions
+B) AI-generated text can sound like it has feelings
+C) Using AI for assignments is evolution, not cheating
+D) Language models predict patterns rather than understand meaning
 **[ ]** → **C**
 
 ---
@@ -198,10 +198,10 @@ D) Language models predict patterns rather than understand meaning
 ## Question 14 — D8
 The author of Passage A would most likely view the University of Michigan policy as:
 
-A) A reasonable response to cheating  
-B) An expensive overreaction  
-C) A necessary step for academic integrity  
-D) An ineffective solution  
+A) A reasonable response to cheating
+B) An expensive overreaction
+C) A necessary step for academic integrity
+D) An ineffective solution
 **[ ]** → **B**
 
 ---
@@ -209,10 +209,10 @@ D) An ineffective solution
 ## Question 15 — D9
 Based on both passages, a student who uses AI to brainstorm essay topics would:
 
-A) Be acting dishonestly according to both passages  
-B) Be engaged in acceptable practice according to both passages  
-C) Be viewed differently by each passage's author  
-D) Be violating College Board policy  
+A) Be acting dishonestly according to both passages
+B) Be engaged in acceptable practice according to both passages
+C) Be viewed differently by each passage's author
+D) Be violating College Board policy
 **[ ]** → **C**
 
 ---
@@ -220,10 +220,10 @@ D) Be violating College Board policy
 ## Question 16 — D9
 The dual passage structure primarily serves to:
 
-A) Show that one side is completely wrong  
-B) Present multiple perspectives on a complex issue  
-C) Demonstrate that experts disagree on everything  
-D) Argue for specific policy recommendations  
+A) Show that one side is completely wrong
+B) Present multiple perspectives on a complex issue
+C) Demonstrate that experts disagree on everything
+D) Argue for specific policy recommendations
 **[ ]** → **B**
 
 ---
@@ -233,10 +233,10 @@ D) Argue for specific policy recommendations
 **Question 17 — D9**
 A student writing a research paper on cryptocurrency policy would find both passages most useful for understanding:
 
-A) Only economic arguments for cryptocurrency  
-B) Only environmental arguments against cryptocurrency  
-C) Multiple dimensions of a complex policy debate  
-D) How to invest in cryptocurrency  
+A) Only economic arguments for cryptocurrency
+B) Only environmental arguments against cryptocurrency
+C) Multiple dimensions of a complex policy debate
+D) How to invest in cryptocurrency
 **[ ]** → **C**
 
 ---
@@ -244,10 +244,10 @@ D) How to invest in cryptocurrency
 **Question 18 — D9**
 The most logical next step after reading both passages on cryptocurrency would be to:
 
-A) Dismiss cryptocurrency entirely  
-B) Invest in Bitcoin immediately  
-C) Research renewable energy solutions for mining  
-D) Accept cryptocurrency without question  
+A) Dismiss cryptocurrency entirely
+B) Invest in Bitcoin immediately
+C) Research renewable energy solutions for mining
+D) Accept cryptocurrency without question
 **[ ]** → **C**
 
 ---
@@ -255,10 +255,10 @@ D) Accept cryptocurrency without question
 **Question 19 — D10**
 When both passages address the same topic but reach different conclusions, the reader should:
 
-A) Always choose the more recent publication  
-B) Consider the evidence and biases in each source  
-C) Ignore one source entirely  
-D) Assume both are equally valid  
+A) Always choose the more recent publication
+B) Consider the evidence and biases in each source
+C) Ignore one source entirely
+D) Assume both are equally valid
 **[ ]** → **B**
 
 ---
@@ -266,9 +266,8 @@ D) Assume both are equally valid
 **Question 20 — D10**
 Which question is most directly answered by both sets of dual passages?
 
-A) How does technology affect education and finance?  
-B) What are the trade-offs of adopting new technologies?  
-C) Why do experts disagree on scientific topics?  
-D) Should governments regulate new technologies?  
+A) How does technology affect education and finance?
+B) What are the trade-offs of adopting new technologies?
+C) Why do experts disagree on scientific topics?
+D) Should governments regulate new technologies?
 **[ ]** → **B**
-

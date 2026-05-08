@@ -32,11 +32,11 @@ export const securityHeaders = {
  */
 export function applySecurityHeaders(response: Response): Response {
   const headers = new Headers(response.headers);
-  
+
   for (const [key, value] of Object.entries(securityHeaders)) {
     headers.set(key, value);
   }
-  
+
   return new Response(response.body, {
     status: response.status,
     statusText: response.statusText,

@@ -33,10 +33,10 @@ license: "CC BY-NC-SA 4.0"
 
 What can be inferred about Carlos's mornings?
 
-A) He normally has plenty of time before the bus arrives.  
-B) He usually skips breakfast.  
-C) He rarely uses an alarm.  
-D) He normally has enough time to catch the bus. [x]  
+A) He normally has plenty of time before the bus arrives.
+B) He usually skips breakfast.
+C) He rarely uses an alarm.
+D) He normally has enough time to catch the bus. [x]
 
 ---
 
@@ -45,10 +45,10 @@ D) He normally has enough time to catch the bus. [x]
 
 The main reason Carlos missed the bus was that:
 
-A) He decided not to take it.  
-B) He woke up late. [x]  
-C) The bus came early.  
-D) He forgot his bus pass.  
+A) He decided not to take it.
+B) He woke up late. [x]
+C) The bus came early.
+D) He forgot his bus pass.
 
 ---
 
@@ -61,10 +61,10 @@ D) He forgot his bus pass.
 
 It can be inferred from the text that:
 
-A) Colonialism began for economic reasons. [x]  
-B) Europeans had no interest in spices or textiles.  
-C) Trading posts were always meant to become colonies.  
-D) Local populations welcomed the European traders.  
+A) Colonialism began for economic reasons. [x]
+B) Europeans had no interest in spices or textiles.
+C) Trading posts were always meant to become colonies.
+D) Local populations welcomed the European traders.
 
 ---
 
@@ -73,10 +73,10 @@ D) Local populations welcomed the European traders.
 
 The phrase 'evolved into' suggests that the transformation was:
 
-A) Sudden and unexpected.  
-B) Planned from the beginning.  
-C) Gradual over time. [x]  
-D) Unrelated to trade.  
+A) Sudden and unexpected.
+B) Planned from the beginning.
+C) Gradual over time. [x]
+D) Unrelated to trade.
 
 ---
 
@@ -93,10 +93,10 @@ D) Unrelated to trade.
 
 It can be inferred that coffee farming in Colombia is currently:
 
-A) Expanding to lower altitudes.  
-B) Facing significant challenges due to climate change. [x]  
-C) More profitable than ever before.  
-D) Controlled entirely by large corporations.  
+A) Expanding to lower altitudes.
+B) Facing significant challenges due to climate change. [x]
+C) More profitable than ever before.
+D) Controlled entirely by large corporations.
 
 ---
 
@@ -105,10 +105,10 @@ D) Controlled entirely by large corporations.
 
 The fact that some farmers are moving to cities suggests that:
 
-A) Urban life is more attractive than farming.  
-B) Some farmers feel they have no other option. [x]  
-C) All Colombian farmers earn very high incomes.  
-D) Cities are offering free land to farmers.  
+A) Urban life is more attractive than farming.
+B) Some farmers feel they have no other option. [x]
+C) All Colombian farmers earn very high incomes.
+D) Cities are offering free land to farmers.
 
 ---
 
@@ -117,10 +117,10 @@ D) Cities are offering free land to farmers.
 
 The word "sustain" in the text means:
 
-A) Increase rapidly.  
-B) Maintain at a certain level. [x]  
-C) Abandon completely.  
-D) Export to other countries.  
+A) Increase rapidly.
+B) Maintain at a certain level. [x]
+C) Abandon completely.
+D) Export to other countries.
 
 ---
 
@@ -133,10 +133,10 @@ D) Export to other countries.
 
 From the text, it can be inferred that the Amazon rainforest:
 
-A) Is the largest source of oxygen in the world.  
-B) Plays a critical role in global oxygen production. [x]  
-C) Is not important for the global climate.  
-D) Has already collapsed due to deforestation.  
+A) Is the largest source of oxygen in the world.
+B) Plays a critical role in global oxygen production. [x]
+C) Is not important for the global climate.
+D) Has already collapsed due to deforestation.
 
 ---
 
@@ -145,10 +145,10 @@ D) Has already collapsed due to deforestation.
 
 The phrase "catastrophic consequences" implies that the effects of deforestation would be:
 
-A) Minor and manageable.  
-B) Severe and widespread. [x]  
-C) Limited to local areas.  
-D) Positive for the global economy.  
+A) Minor and manageable.
+B) Severe and widespread. [x]
+C) Limited to local areas.
+D) Positive for the global economy.
 
 ---
 
@@ -157,10 +157,10 @@ D) Positive for the global economy.
 
 The author's primary purpose is to:
 
-A) Convince readers to visit the Amazon.  
-B) Warn about the dangers of continued deforestation. [x]  
-C) Explain how oxygen is produced in the rainforest.  
-D) Describe the tourism industry in the Amazon.  
+A) Convince readers to visit the Amazon.
+B) Warn about the dangers of continued deforestation. [x]
+C) Explain how oxygen is produced in the rainforest.
+D) Describe the tourism industry in the Amazon.
 
 ---
 
@@ -177,10 +177,10 @@ D) Describe the tourism industry in the Amazon.
 
 The author mentions self-driving cars primarily to:
 
-A) Show an example of AI technology with ethical dilemmas. [x]  
-B) Promote the use of autonomous vehicles.  
-C) Criticize the transportation industry.  
-D) Suggest that self-driving cars should be banned.  
+A) Show an example of AI technology with ethical dilemmas. [x]
+B) Promote the use of autonomous vehicles.
+C) Criticize the transportation industry.
+D) Suggest that self-driving cars should be banned.
 
 ---
 
@@ -189,10 +189,10 @@ D) Suggest that self-driving cars should be banned.
 
 "biased" in the context of algorithms most likely means:
 
-A) Completely random and unpredictable.  
-B) Unfairly favoring or disadvantaging certain groups. [x]  
-C) Neutral and objective.  
-D) Faster and more efficient than humans.  
+A) Completely random and unpredictable.
+B) Unfairly favoring or disadvantaging certain groups. [x]
+C) Neutral and objective.
+D) Faster and more efficient than humans.
 
 ---
 
@@ -201,10 +201,10 @@ D) Faster and more efficient than humans.
 
 It can be inferred from the text that the author believes AI regulation is:
 
-A) Unnecessary because technology is always beneficial.  
-B) Already in place in most countries.  
-C) Urgent and necessary. [x]  
-D) The responsibility of technology companies alone.  
+A) Unnecessary because technology is always beneficial.
+B) Already in place in most countries.
+C) Urgent and necessary. [x]
+D) The responsibility of technology companies alone.
 
 ---
 
@@ -217,10 +217,10 @@ D) The responsibility of technology companies alone.
 
 It can be inferred from the text that before 1912, ships:
 
-A) Always carried enough lifeboats for everyone.  
-B) May not have had adequate safety measures. [x]  
-C) Were required to have ice patrols.  
-D) Never crossed the Atlantic Ocean.  
+A) Always carried enough lifeboats for everyone.
+B) May not have had adequate safety measures. [x]
+C) Were required to have ice patrols.
+D) Never crossed the Atlantic Ocean.
 
 ---
 
@@ -229,10 +229,10 @@ D) Never crossed the Atlantic Ocean.
 
 The passage suggests that the Titanic disaster:
 
-A) Had no lasting impact on maritime safety.  
-B) Resulted in important changes to safety regulations. [x]  
-C) Was quickly forgotten by the public.  
-D) Was caused by poor passenger behavior.  
+A) Had no lasting impact on maritime safety.
+B) Resulted in important changes to safety regulations. [x]
+C) Was quickly forgotten by the public.
+D) Was caused by poor passenger behavior.
 
 ---
 
@@ -241,10 +241,10 @@ D) Was caused by poor passenger behavior.
 
 The author's overall tone in this passage is:
 
-A) Humorous and sarcastic.  
-B) Objective and informative. [x]  
-C) Deeply emotional and personal.  
-D) Angry and accusatory.  
+A) Humorous and sarcastic.
+B) Objective and informative. [x]
+C) Deeply emotional and personal.
+D) Angry and accusatory.
 
 ---
 
@@ -261,10 +261,10 @@ D) Angry and accusatory.
 
 The Black Death's impact on feudalism suggests that:
 
-A) Pandemics always strengthen existing social structures.  
-B) Major population losses can lead to significant social change. [x]  
-C) Feudal lords benefited from the pandemic.  
-D) Labor shortages had no effect on wages.  
+A) Pandemics always strengthen existing social structures.
+B) Major population losses can lead to significant social change. [x]
+C) Feudal lords benefited from the pandemic.
+D) Labor shortages had no effect on wages.
 
 ---
 
@@ -273,10 +273,10 @@ D) Labor shortages had no effect on wages.
 
 The author draws a parallel between the Black Death and COVID-19 to suggest that:
 
-A) All pandemics have the same effects on society.  
-B) Pandemics can drive lasting societal transformations. [x]  
-C) COVID-19 was more deadly than the Black Death.  
-D) Remote work did not exist before 2020.  
+A) All pandemics have the same effects on society.
+B) Pandemics can drive lasting societal transformations. [x]
+C) COVID-19 was more deadly than the Black Death.
+D) Remote work did not exist before 2020.
 
 ---
 
@@ -285,10 +285,10 @@ D) Remote work did not exist before 2020.
 
 "disrupted" in the text implies that the Black Death:
 
-A) Strengthened the feudal system.  
-B) Caused significant disturbances to the feudal order. [x]  
-C) Had no effect on European society.  
-D) Was a minor historical event.  
+A) Strengthened the feudal system.
+B) Caused significant disturbances to the feudal order. [x]
+C) Had no effect on European society.
+D) Was a minor historical event.
 
 ---
 
@@ -297,7 +297,7 @@ D) Was a minor historical event.
 
 The passage's central argument is best summarized as:
 
-A) Pandemics are solely responsible for all major social changes in history.  
-B) Major pandemics can have profound and lasting effects on the structure of societies. [x]  
-C) The Black Death was the worst pandemic in recorded history.  
-D) Modern society is more vulnerable to pandemics than ancient societies.  
+A) Pandemics are solely responsible for all major social changes in history.
+B) Major pandemics can have profound and lasting effects on the structure of societies. [x]
+C) The Black Death was the worst pandemic in recorded history.
+D) Modern society is more vulnerable to pandemics than ancient societies.

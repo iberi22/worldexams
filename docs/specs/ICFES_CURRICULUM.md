@@ -1,347 +1,97 @@
-# 🇨🇴 Malla Curricular ICFES - Pruebas Saber Colombia
+# 🇨🇴 Malla Curricular ICFES - Pruebas Saber Colombia (Alineación 2026)
 
 > **Fuente oficial:** ICFES - Instituto Colombiano para la Evaluación de la Educación
 > **URL:** <https://www.icfes.gov.co>
-> **Actualizado:** 2025-12-04
+> **Estado:** Refactorización Curricular 2026 completada
+> **Actualizado:** 2025-01-24
 
 ---
 
-## 📚 Estructura de Evaluaciones ICFES
+## 📚 Estructura de Evaluaciones ICFES (Modelo 2026)
 
-### Pruebas Saber por Grado
+El sistema educativo colombiano se rige bajo los lineamientos del MEN y las evaluaciones del ICFES. A partir de 2026, se fortalece el seguimiento longitudinal desde básica primaria hasta educación superior.
 
-| Examen | Grados | Frecuencia | Áreas Evaluadas |
-|--------|--------|------------|-----------------|
-| **Saber 3°** | 3° primaria | Anual | Lenguaje, Matemáticas |
-| **Saber 5°** | 5° primaria | Anual | Lenguaje, Matemáticas, Ciencias, Competencias Ciudadanas |
-| **Saber 7°** | 7° bachillerato | Anual (nuevo) | Lenguaje, Matemáticas, Ciencias, Competencias Ciudadanas |
-| **Saber 9°** | 9° bachillerato | Anual | Lenguaje, Matemáticas, Ciencias, Competencias Ciudadanas |
-| **Saber 11°** | 11° bachillerato | Semestral | Lectura Crítica, Matemáticas, Sociales y Ciudadanas, Ciencias Naturales, Inglés |
+### Ciclo de Evaluación Integral
 
----
-
-## 📐 SABER 3° - Competencias
-
-### Matemáticas (Grado 3)
-
-| Competencia | Descripción | Temas |
-|-------------|-------------|-------|
-| **Razonamiento** | Argumentar y justificar procedimientos | Patrones, secuencias, relaciones |
-| **Comunicación** | Representar y leer información matemática | Gráficos simples, tablas, pictogramas |
-| **Resolución** | Resolver problemas aritméticos | Suma, resta, multiplicación básica |
-
-**Temas específicos:**
-
-- Números naturales hasta 1,000
-- Operaciones básicas (suma, resta)
-- Introducción a multiplicación
-- Figuras geométricas básicas (cuadrado, círculo, triángulo)
-- Medidas de longitud (metro, centímetro)
-- Lectura de tablas y pictogramas
-
-### Lenguaje (Grado 3)
-
-| Competencia | Descripción | Temas |
-|-------------|-------------|-------|
-| **Lectora** | Comprensión literal e inferencial | Textos narrativos, informativos |
-| **Escritora** | Producción de textos cortos | Oraciones, párrafos simples |
-
-**Temas específicos:**
-
-- Comprensión literal de textos
-- Identificación de personajes y lugares
-- Secuencia de eventos
-- Vocabulario en contexto
-- Sinónimos y antónimos básicos
+| Examen | Grados | Propósito | Áreas Evaluadas |
+|--------|--------|-----------|-----------------|
+| **Saber 3°** | 3° primaria | Diagnóstico temprano | Lenguaje, Matemáticas |
+| **Saber 5°** | 5° primaria | Fin ciclo primaria | Lenguaje, Matemáticas, Ciencias, Ciudadanas |
+| **Saber 7°** | 7° secundaria | Seguimiento intermedio | Lenguaje, Matemáticas, Ciencias, Ciudadanas |
+| **Saber 9°** | 9° secundaria | Fin ciclo básica | Lenguaje, Matemáticas, Ciencias, Ciudadanas |
+| **Saber 11°** | 11° media | Acceso a Educación Superior | Lectura Crítica, Matemáticas, Sociales, Ciencias, Inglés |
+| **Saber Pro** | Pregrado | Calidad Educación Superior | Competencias Genéricas y Específicas |
 
 ---
 
-## 📐 SABER 5° - Competencias
-
-### Matemáticas (Grado 5)
-
-| Competencia | Descripción | Temas |
-|-------------|-------------|-------|
-| **Razonamiento** | Justificar procedimientos, conjeturar | Patrones, equivalencias |
-| **Comunicación** | Traducir entre representaciones | Gráficas, expresiones numéricas |
-| **Resolución** | Resolver problemas complejos | Fracciones, decimales, geometría |
-
-**Temas específicos:**
-
-- Números naturales hasta millones
-- Fracciones y operaciones
-- Decimales básicos
-- Porcentajes simples
-- Perímetro y área (cuadrado, rectángulo)
-- Volumen (cubo)
-- Gráficos de barras, circulares
-- Promedios simples
-
-### Lenguaje (Grado 5)
-
-| Competencia | Descripción |
-|-------------|-------------|
-| **Lectora** | Inferencias, identificar propósito del texto |
-| **Escritora** | Coherencia, cohesión textual |
-
-**Temas específicos:**
-
-- Comprensión inferencial
-- Tipo textual (narrativo, expositivo, instructivo)
-- Propósito comunicativo
-- Conectores textuales
-- Figuras literarias básicas
-
-### Ciencias Naturales (Grado 5)
-
-| Competencia | Descripción |
-|-------------|-------------|
-| **Uso del conocimiento** | Aplicar conceptos científicos |
-| **Explicación de fenómenos** | Argumentar desde la ciencia |
-| **Indagación** | Formular preguntas, hipótesis |
-
-**Temas específicos:**
-
-- Seres vivos y ecosistemas
-- Estados de la materia
-- Sistema solar básico
-- Cuerpo humano (sistemas principales)
-- Ciclo del agua
-
-### Competencias Ciudadanas (Grado 5)
-
-| Competencia | Descripción |
-|-------------|-------------|
-| **Conocimiento** | Derechos, deberes, normas |
-| **Argumentación** | Analizar situaciones sociales |
-| **Multiperspectivismo** | Reconocer diferentes puntos de vista |
-
----
-
-## 📐 SABER 9° - Competencias
-
-### Matemáticas (Grado 9)
-
-| Competencia | Descripción |
-|-------------|-------------|
-| **Razonamiento** | Generalizar, demostrar propiedades |
-| **Comunicación** | Expresar algebraica y gráficamente |
-| **Resolución** | Modelar y resolver ecuaciones |
-
-**Temas específicos:**
-
-- Números reales
-- Expresiones algebraicas
-- Ecuaciones lineales y sistemas
-- Funciones lineales y cuadráticas
-- Geometría analítica básica
-- Trigonometría (razones básicas)
-- Estadística descriptiva
-- Probabilidad básica
-
-### Lenguaje (Grado 9)
-
-| Competencia | Descripción |
-|-------------|-------------|
-| **Lectora** | Análisis crítico, intertextualidad |
-| **Escritora** | Argumentación, tipos textuales |
-
-**Temas específicos:**
-
-- Análisis literario
-- Texto argumentativo
-- Texto expositivo
-- Figuras retóricas
-- Coherencia y cohesión avanzada
-
-### Ciencias Naturales (Grado 9)
-
-**Temas específicos:**
-
-- Química básica (átomos, moléculas)
-- Física (movimiento, fuerza)
-- Biología (genética básica, evolución)
-- Ecología y medio ambiente
-
----
-
-## 📐 SABER 11° - Competencias (Examen Principal)
+## 📐 SABER 11° - Competencias (Referente 2026)
 
 ### Lectura Crítica (41 preguntas)
+Se mantiene el enfoque en la capacidad de entender, interpretar y evaluar textos de la vida cotidiana y en ámbitos académicos no especializados.
 
-| Nivel | Descripción | % Aprox. |
-|-------|-------------|----------|
-| **Literal** | Identificar información explícita | 20% |
-| **Inferencial** | Deducir información implícita | 40% |
-| **Crítico** | Evaluar, argumentar, relacionar | 40% |
-
-**Tipos de texto:**
-
-- Textos literarios (narrativos, poéticos)
-- Textos filosóficos
-- Textos de opinión (editoriales, columnas)
-- Textos informativos (científicos, históricos)
-- Textos discontinuos (infografías, tablas)
+- **Literal:** Identificar información explícita.
+- **Inferencial:** Deducir información implícita y relaciones locales.
+- **Crítico:** Evaluar la validez de argumentos y posicionamiento del autor.
 
 ### Matemáticas (50 preguntas)
-
-| Competencia | Descripción | % Aprox. |
-|-------------|-------------|----------|
-| **Interpretación** | Leer y comprender información | 30% |
-| **Formulación** | Plantear modelos matemáticos | 35% |
-| **Validación** | Verificar procedimientos | 35% |
-
-**Componentes:**
-
-- **Numérico-variacional:** Números reales, álgebra, funciones
-- **Geométrico-métrico:** Geometría euclidiana, trigonometría, medición
-- **Aleatorio:** Estadística, probabilidad, combinatoria
+Enfoque en resolución de problemas en contextos financieros, científicos y ciudadanos.
+- **Componentes:** Numérico-Variacional, Geométrico-Métrico, Aleatorio.
+- **Competencias:** Interpretación, Formulación y Ejecución, Argumentación.
 
 ### Sociales y Ciudadanas (50 preguntas)
-
-| Competencia | Descripción |
-|-------------|-------------|
-| **Pensamiento social** | Conceptos disciplinares |
-| **Interpretación y análisis** | Fuentes históricas, datos |
-| **Pensamiento reflexivo** | Postura crítica, argumentación |
-
-**Componentes:**
-
-- Historia de Colombia y del mundo
-- Geografía física y humana
-- Economía básica
-- Constitución y derechos
-- Participación ciudadana
+Evaluación de la capacidad de comprender el mundo social desde una perspectiva crítica.
+- **Componentes:** Historia, Geografía, Economía, Constitución.
+- **Competencias:** Pensamiento Social, Interpretación y Análisis de Perspectivas, Pensamiento Reflexivo y Sistémico.
 
 ### Ciencias Naturales (58 preguntas)
-
-| Competencia | Descripción |
-|-------------|-------------|
-| **Uso del conocimiento** | Aplicar conceptos |
-| **Explicación de fenómenos** | Argumentar científicamente |
-| **Indagación** | Metodología científica |
-
-**Componentes:**
-
-- **Biología:** Célula, genética, ecología, evolución
-- **Química:** Estructura atómica, enlaces, reacciones
-- **Física:** Mecánica, termodinámica, ondas, electricidad
+Evaluación del pensamiento científico y compromiso ambiental.
+- **Componentes:** Biología, Física, Química, Ciencia, Tecnología y Sociedad (CTS).
+- **Competencias:** Uso comprensivo del conocimiento científico, Explicación de fenómenos, Indagación.
 
 ### Inglés (55 preguntas)
-
-| Nivel MCER | Descripción |
-|------------|-------------|
-| A- | Usuario básico bajo |
-| A1 | Usuario básico |
-| A2 | Usuario básico alto |
-| B1 | Usuario independiente |
-| B+ | Usuario independiente alto |
-
-**Partes del examen:**
-
-- Comprensión de lectura
-- Gramática y vocabulario en contexto
-- Uso del lenguaje (cloze test)
+Alineado con el Marco Común Europeo de Referencia (MCER). Niveles evaluados: A1, A2, B1, B+ (A- es el nivel mínimo).
 
 ---
 
-## 🎯 Distribución de Preguntas Recomendada
+## 🎓 Saber Pro (Examen de Egreso)
 
-### Por Grado y Asignatura (Meta inicial)
+Orientado a estudiantes que han aprobado el 75% de sus créditos académicos de pregrado.
 
-| Grado | Matemáticas | Lenguaje | Ciencias | Sociales | Inglés | **Total** |
-|-------|-------------|----------|----------|----------|--------|-----------|
-| 3° | 20 bundles | 20 bundles | - | - | - | 280 preguntas |
-| 5° | 20 bundles | 20 bundles | 15 bundles | 10 bundles | - | 455 preguntas |
-| 9° | 25 bundles | 20 bundles | 20 bundles | 15 bundles | - | 560 preguntas |
-| 11° | 30 bundles | 30 bundles | 30 bundles | 25 bundles | 25 bundles | 980 preguntas |
-| **Total** | **95** | **90** | **65** | **50** | **25** | **2,275 preguntas** |
+### Módulos Genéricos (Obligatorios)
+1. **Lectura Crítica:** Análisis de textos complejos.
+2. **Razonamiento Cuantitativo:** Interpretación de datos y modelos matemáticos.
+3. **Competencias Ciudadanas:** Análisis de problemáticas sociales y constitucionales.
+4. **Comunicación Escrita:** Producción de un texto argumentativo basado en un tema dado.
+5. **Inglés:** Competencia comunicativa en lengua extranjera.
 
-### Prioridad de Generación
-
-1. **Alta prioridad:** Saber 11° (examen más importante)
-2. **Media prioridad:** Saber 9° (preparación para 11°)
-3. **Normal:** Saber 5° y 3° (evaluación de primaria)
+### Módulos Específicos
+Dependen del área de formación (Ingeniería, Salud, Educación, Ciencias Sociales, etc.). Ejemplo: "Diseño de Sistemas de Software" para Ingeniería de Sistemas.
 
 ---
 
-## 📁 Estructura de Carpetas (saberparatodos)
+## 🏛️ Sistema Universitario y Admisión (Top 10 Colombia)
 
-```
-src/content/questions/
-├── matematicas/
-│   ├── grado-3/
-│   │   └── aritmetica/
-│   ├── grado-5/
-│   │   ├── aritmetica/
-│   │   ├── fracciones/
-│   │   └── geometria/
-│   ├── grado-9/
-│   │   ├── algebra/
-│   │   ├── funciones/
-│   │   └── estadistica/
-│   └── grado-11/
-│       ├── algebra/
-│       ├── geometria/
-│       ├── estadistica/
-│       └── calculo/
-├── lenguaje/
-│   ├── grado-3/
-│   ├── grado-5/
-│   └── grado-11/ (lectura-critica)
-├── ciencias/
-│   ├── grado-5/
-│   ├── grado-9/
-│   └── grado-11/
-├── sociales/
-│   ├── grado-9/
-│   └── grado-11/
-└── ingles/
-    └── grado-11/
-```
+A partir de 2026, la integración entre los resultados de Saber 11 y las pruebas de admisión propias se ha estandarizado para facilitar el acceso.
+
+1. **Universidad Nacional de Colombia (UNAL):** Examen propio (Matemáticas, Ciencias, Sociales, Lectura, Análisis de Imagen).
+2. **Universidad de Antioquia (UdeA):** Examen propio de Razonamiento Lógico y Competencia Lectora.
+3. **Universidad de los Andes:** Saber 11 + Entrevistas (según programa).
+4. **Pontificia Universidad Javeriana:** Prueba de Actitud/Conocimiento + Saber 11.
+5. **Universidad del Valle (Univalle):** Mayoritariamente Saber 11.
+6. **Universidad EAFIT:** Saber 11 + Prueba de capacidades.
+7. **Universidad del Norte:** Saber 11 + Prueba PAB.
+8. **Universidad Industrial de Santander (UIS):** Saber 11 + Pruebas específicas para ingenierías.
+9. **Universidad de Caldas:** Saber 11.
+10. **Universidad de Cartagena:** Saber 11.
 
 ---
 
-## 🏫 Contexto Cultural para Preguntas
+## 🎯 Estrategia de Contenido (saberparatodos)
 
-### Ciudades para ejemplos
-
-| Ciudad | Uso recomendado |
-|--------|-----------------|
-| Bogotá | Capital, instituciones, metro |
-| Medellín | Industria, tecnología, metrocable |
-| Cali | Cultura, salsa, Pacífico |
-| Barranquilla | Carnaval, comercio, Caribe |
-| Cartagena | Historia, turismo, colonial |
-| Bucaramanga | Industria, educación |
-
-### Personajes históricos
-
-- Simón Bolívar (independencia)
-- Antonio Nariño (derechos humanos)
-- Rafael Núñez (Constitución 1886)
-- Jorge Eliécer Gaitán (política siglo XX)
-- Gabriel García Márquez (literatura)
-- Policarpa Salavarrieta (heroína)
-
-### Referencias económicas
-
-- Moneda: Pesos colombianos (COP)
-- Símbolo: $
-- Ejemplos de precios:
-  - Bus urbano: $2,500 - $3,000 COP
-  - Almuerzo corriente: $12,000 - $18,000 COP
-  - Salario mínimo 2025: ~$1,300,000 COP
-  - Dólar: ~$4,000 COP (referencia)
-
-### Productos típicos
-
-- Café colombiano
-- Flores (exportación)
-- Esmeraldas
-- Carbón (exportación)
-- Petróleo
+Para asegurar la cobertura 2026, se prioriza:
+- **Grados 6° a 9°:** Cierre de brechas en Ciencias y Sociales.
+- **Grado 11°:** Refuerzo en Simulacros de alta dificultad (Difficulty > 4).
+- **Saber Pro:** Desarrollo de módulos genéricos para universitarios.
 
 ---
-
-*Documento de referencia para generación de preguntas alineadas con el currículo ICFES*
+*Para una documentación detallada por asignatura y periodos académicos, consulte:* `docs/specs/curriculums/COLOMBIA_CURRICULUM.md`
