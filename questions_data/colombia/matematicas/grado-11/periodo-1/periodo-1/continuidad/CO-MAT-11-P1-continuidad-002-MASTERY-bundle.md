@@ -429,7 +429,7 @@ Sincronización de límites trigonométricos con definiciones puntuales. Una apl
 **ICFES:** Pensamiento Reflexivo y Sistémico
 
 ### Contexto
-Un matemático afirma que si una función es continua en un intervalo abierto $(a, b)$, entonces está acotada (tiene un máximo y un mínimo). 
+Un matemático afirma que si una función es continua en un intervalo abierto $(a, b)$, entonces está acotada (tiene un máximo y un mínimo).
 
 ### Enunciado
 ¿Es correcta esta afirmación? Si no lo es, proporciona un contraejemplo.
@@ -498,7 +498,7 @@ Análisis de densidad. Esta función desafía la intuición de "trazo continuo" 
 **ICFES:** Pensamiento Reflexivo y Sistémico
 
 ### Contexto
-Un científico modela el despegue de un cohete. Para que la estructura no se destruya, la aceleración debe ser una función continua del tiempo. 
+Un científico modela el despegue de un cohete. Para que la estructura no se destruya, la aceleración debe ser una función continua del tiempo.
 $\text{Aceleración}(t) = \begin{cases} t^2 & \text{si } t < 10 \\ 100 \cdot e^{k(t-10)} & \text{si } t \geq 10 \end{cases}$
 
 ### Enunciado

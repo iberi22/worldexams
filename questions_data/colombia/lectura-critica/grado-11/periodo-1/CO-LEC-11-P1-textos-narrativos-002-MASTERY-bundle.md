@@ -39,10 +39,10 @@ Un labrador tenía un burro que trabajaba desde el amanecer hasta el anochochece
 ### Pregunta 1 (D3 — Literal)
 **¿Qué trabajo realizaba el burro según el texto?**
 
-A) Custodiaba la casa del labrador  
-B) Cargaba leña desde el amanecer hasta el anochochecer  
-C) Dormía junto a la chimenea  
-D) Cazaba ratones en el campo  
+A) Custodiaba la casa del labrador
+B) Cargaba leña desde el amanecer hasta el anochochecer
+C) Dormía junto a la chimenea
+D) Cazaba ratones en el campo
 
 **[x] B**
 
@@ -51,10 +51,10 @@ D) Cazaba ratones en el campo
 ### Pregunta 2 (D3 — Literal)
 **¿Dónde dormía el durante el día?**
 
-A) En el establo junto al burro  
-B) En el campo bajo un árbol  
-C) Junto a la chimenea de la casa  
-D) Debajo de la mesa de la cocina  
+A) En el establo junto al burro
+B) En el campo bajo un árbol
+C) Junto a la chimenea de la casa
+D) Debajo de la mesa de la cocina
 
 **[x] C**
 
@@ -63,10 +63,10 @@ D) Debajo de la mesa de la cocina
 ### Pregunta 3 (D5 — Inferencial)
 **¿Por qué el burro decidió imitar al?**
 
-A) Porque el labrador se lo ordenó  
-B) Porque tenía celos de la vida fácil del  
-C) Porque quería proteger la casa  
-D) Porque el se lo pidió  
+A) Porque el labrador se lo ordenó
+B) Porque tenía celos de la vida fácil del
+C) Porque quería proteger la casa
+D) Porque el se lo pidió
 
 **[x] B**
 
@@ -75,10 +75,10 @@ D) Porque el se lo pidió
 ### Pregunta 4 (D4 — Literal)
 **¿Qué crees que motivó al labrador a matar al burro sin esperar al veterinario?**
 
-A) El miedo inmediato a que el burro atacara a su familia  
-B) La rabia genuina que sentía contra el burro por romper la mesa  
-C) El deseo de vender la carne del burro  
-D) La orden del  
+A) El miedo inmediato a que el burro atacara a su familia
+B) La rabia genuina que sentía contra el burro por romper la mesa
+C) El deseo de vender la carne del burro
+D) La orden del
 
 **[x] A**
 
@@ -87,10 +87,10 @@ D) La orden del
 ### Pregunta 5 (D5 — Inferencial)
 **¿Cuál es la enseñanza principal que transmite esta fábula?**
 
-A) Los animales que trabajan merecen más respeto que los perezosos  
-B) Intentar ser alguien que no se es conduce a consecuencias desastrosas  
-C) Los perros son mejores compañeros que los burros  
-D) La pereza es la mejor estrategia de supervivencia  
+A) Los animales que trabajan merecen más respeto que los perezosos
+B) Intentar ser alguien que no se es conduce a consecuencias desastrosas
+C) Los perros son mejores compañeros que los burros
+D) La pereza es la mejor estrategia de supervivencia
 
 **[x] B**
 
@@ -107,10 +107,10 @@ En un pueblo del Valle del Cauca, todos conocían a la chispas: una mujer de cua
 ### Pregunta 6 (D5 — Inferencial)
 **¿Cómo era la chispas según la descripción del texto?**
 
-A) Una mujer joven que vendía flores en la plaza  
-B) Una mujer de cuarenta años que hablaba sola y vendía fósforos  
-C) Una niña huérfana que vivía en la iglesia  
-D) Una anciana revered por todo el pueblo  
+A) Una mujer joven que vendía flores en la plaza
+B) Una mujer de cuarenta años que hablaba sola y vendía fósforos
+C) Una niña huérfana que vivía en la iglesia
+D) Una anciana revered por todo el pueblo
 
 **[x] B**
 
@@ -119,10 +119,10 @@ D) Una anciana revered por todo el pueblo
 ### Pregunta 7 (D5 — Inferencial)
 **¿Qué encontró el sacerdote cuando visitó la casa de la chispas?**
 
-A) Una casa llena de ropa y comida  
-B) Paredes cubiertas de dibujos de barcos y un espejo roto con forma de estrella  
-C) Un perro grande durmiendo en el centro  
-D) Muchos visitantes que hablaban con ella  
+A) Una casa llena de ropa y comida
+B) Paredes cubiertas de dibujos de barcos y un espejo roto con forma de estrella
+C) Un perro grande durmiendo en el centro
+D) Muchos visitantes que hablaban con ella
 
 **[x] B**
 
@@ -131,10 +131,10 @@ D) Muchos visitantes que hablaban con ella
 ### Pregunta 8 (D6 — Inferencial)
 **¿Qué sugiere el hecho de que los niños le tiraran piedras y los adultos fingieran no verla?**
 
-A) Que la chispas era peligrosa para los niños  
-B) Que la comunidad la marginaba y rechazaba  
-C) Que la chispas prefería la soledad  
-D) Que el sacerdote la protegía  
+A) Que la chispas era peligrosa para los niños
+B) Que la comunidad la marginaba y rechazaba
+C) Que la chispas prefería la soledad
+D) Que el sacerdote la protegía
 
 **[x] B**
 
@@ -143,10 +143,10 @@ D) Que el sacerdote la protegía
 ### Pregunta 9 (D6 — Inferencial)
 **¿Qué significado puede tener la frase "Cuando el último barco zarpe, yo también me iré"?**
 
-A) Que la chispas esperaba un viaje real en barco  
-B) Que la chispas attachaba su identidad a una esperanza o pérdida ligada al mar  
-C) Que la chispas quería abandonar el pueblo para siempre  
-D) Que la chispas era en realidad una capitana de barco  
+A) Que la chispas esperaba un viaje real en barco
+B) Que la chispas attachaba su identidad a una esperanza o pérdida ligada al mar
+C) Que la chispas quería abandonar el pueblo para siempre
+D) Que la chispas era en realidad una capitana de barco
 
 **[x] B**
 
@@ -155,10 +155,10 @@ D) Que la chispas era en realidad una capitana de barco
 ### Pregunta 10 (D6 — Inferencial)
 **¿Por qué el sacerdote "nunca más habló de la chispas" después de leer la carta?**
 
-A) Porque descubrió que era una mujer peligrosa  
-B) Porque respetó su mundo interior y no quiso invadirlo con su autoridad religiosa  
-C) Porque la chispas le ordenó que callara  
-D) Porque el sacerdote tenía miedo de los dibujos de barcos  
+A) Porque descubrió que era una mujer peligrosa
+B) Porque respetó su mundo interior y no quiso invadirlo con su autoridad religiosa
+C) Porque la chispas le ordenó que callara
+D) Porque el sacerdote tenía miedo de los dibujos de barcos
 
 **[x] B**
 
@@ -175,10 +175,10 @@ Se cuenta que el río Magdalena, antes de ser río, era una mujer. Una mujer tan
 ### Pregunta 11 (D7 — Crítico)
 **¿En qué fue convertida la mujer que era el río Magdalena?**
 
-A) En una montaña  
-B) En agua  
-C) En oro  
-D) En un árbol  
+A) En una montaña
+B) En agua
+C) En oro
+D) En un árbol
 
 **[x] B**
 
@@ -187,10 +187,10 @@ D) En un árbol
 ### Pregunta 12 (D7 — Inferencial)
 **¿Qué arrastra el río según el texto, además de agua?**
 
-A) Arena, piedras y peces  
-B) Oro, balsas y barcos  
-C) Barcos, casas y personas  
-D) Plantas, flores y animales  
+A) Arena, piedras y peces
+B) Oro, balsas y barcos
+C) Barcos, casas y personas
+D) Plantas, flores y animales
 
 **[x] B**
 
@@ -199,10 +199,10 @@ D) Plantas, flores y animales
 ### Pregunta 13 (D7 — Critico)
 **¿Por qué la leyenda dice que el río intenta volver al sur?**
 
-A) Porque el sur tiene más agua  
-B) Porque la mujer original venía del sur y extraña a alguien allí  
-C) Porque los científicos dicen que es por gravedad  
-D) Porque los bogas así lo desean  
+A) Porque el sur tiene más agua
+B) Porque la mujer original venía del sur y extraña a alguien allí
+C) Porque los científicos dicen que es por gravedad
+D) Porque los bogas así lo desean
 
 **[x] B**
 
@@ -211,10 +211,10 @@ D) Porque los bogas así lo desean
 ### Pregunta 14 (D8 — Critico)
 **¿Cuál es el contraste central que plantea el texto entre la explicación de los científicos y la de los bogas?**
 
-A) Los científicos explican el fenómeno con datos; los bogas lo hacen con mitos  
-B) Los científicos creen que el río fluye por gravedad; los bogas creen que fluye por nostalgia  
-C) Los bogas desconocen la ciencia; los científicos desconocen las leyendas  
-D) Los científicos y los bogas dicen exactamente lo mismo  
+A) Los científicos explican el fenómeno con datos; los bogas lo hacen con mitos
+B) Los científicos creen que el río fluye por gravedad; los bogas creen que fluye por nostalgia
+C) Los bogas desconocen la ciencia; los científicos desconocen las leyendas
+D) Los científicos y los bogas dicen exactamente lo mismo
 
 **[x] B**
 
@@ -223,10 +223,10 @@ D) Los científicos y los bogas dicen exactamente lo mismo
 ### Pregunta 15 (D8 — Crítico)
 **¿Qué sugiere la leyenda sobre la relación entre los seres humanos y la naturaleza?**
 
-A) Que la naturaleza debe ser dominada por el ser humano  
-B) Que la naturaleza tiene una dimensión simbólica y emocional que la ciencia no captura completamente  
-C) Que los ríos son peligrosos y deben ser evitados  
-D) Que las leyendas son más importantes que la ciencia  
+A) Que la naturaleza debe ser dominada por el ser humano
+B) Que la naturaleza tiene una dimensión simbólica y emocional que la ciencia no captura completamente
+C) Que los ríos son peligrosos y deben ser evitados
+D) Que las leyendas son más importantes que la ciencia
 
 **[x] B**
 
@@ -243,10 +243,10 @@ Cuando el padre murió, mi madre no lloró. Se quedó sentada en la cocina, mira
 ### Pregunta 16 (D8 — Critico)
 **¿Qué hizo la madre durante los tres días después de la muerte del padre?**
 
-A) Lloró sin parar  
-B) Se quedó sentada en la cocina mirando el fogón apagado  
-C) Escribió cartas  
-D) Cocinó para toda la familia  
+A) Lloró sin parar
+B) Se quedó sentada en la cocina mirando el fogón apagado
+C) Escribió cartas
+D) Cocinó para toda la familia
 
 **[x] B**
 
@@ -255,10 +255,10 @@ D) Cocinó para toda la familia
 ### Pregunta 17 (D9 — Crítico)
 **¿Por qué la madre no lloró cuando murió el padre, según se infiere del texto?**
 
-A) Porque no lo amaba  
-B) Porque ya había llorado mucho antes de su muerte  
-C) Porque sentía una liberación que no podía expresar con lágrimas  
-D) Porque era una mujer fría  
+A) Porque no lo amaba
+B) Porque ya había llorado mucho antes de su muerte
+C) Porque sentía una liberación que no podía expresar con lágrimas
+D) Porque era una mujer fría
 
 **[x] C**
 
@@ -267,10 +267,10 @@ D) Porque era una mujer fría
 ### Pregunta 18 (D9 — Inferencial)
 **¿Qué significado tiene el hecho de que la madre "pegó a vivir" un mes después del funeral?**
 
-A) Que estaba enferma  
-B) Que decidió continuar con su vida después de un proceso de duelo  
-C) Que encontró a otro hombre  
-D) Que olvidó al padre completamente  
+A) Que estaba enferma
+B) Que decidió continuar con su vida después de un proceso de duelo
+C) Que encontró a otro hombre
+D) Que olvidó al padre completamente
 
 **[x] B**
 
@@ -279,10 +279,10 @@ D) Que olvidó al padre completamente
 ### Pregunta 19 (D9 — Crítico)
 **¿Por qué el narrador decide nunca devolver la carta ni decirle a su madre que la leyó?**
 
-A) Porque le daba miedo la reacción de la madre  
-B) Porque respetar el silencio de su madre era la forma de proteger su dignidad y el misterio de su perdón  
-C) Porque quería usar la carta como prueba de algo  
-D) Porque la carta no era importante  
+A) Porque le daba miedo la reacción de la madre
+B) Porque respetar el silencio de su madre era la forma de proteger su dignidad y el misterio de su perdón
+C) Porque quería usar la carta como prueba de algo
+D) Porque la carta no era importante
 
 **[x] B**
 
@@ -291,10 +291,10 @@ D) Porque la carta no era importante
 ### Pregunta 20 (D10 — Crítico)
 **El texto termina con: "Setenta años después, la carta sigue detrás del fogón, en la casa donde crecí, donde ella murió." ¿Qué efecto produce esta oración final en el lector?**
 
-A) Indica que la casa fue abandonada  
-B) Cierra la narración con una imagen de persistencia del silencio y la memoria familiar a través del tiempo  
-C) Sugiere que el narrador vendió la casa  
-D) Confirma que la madre nunca perdonó al padre  
+A) Indica que la casa fue abandonada
+B) Cierra la narración con una imagen de persistencia del silencio y la memoria familiar a través del tiempo
+C) Sugiere que el narrador vendió la casa
+D) Confirma que la madre nunca perdonó al padre
 
 **[x] B**
 

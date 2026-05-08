@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import type { AppQuestion } from '../api-service';
-import { buildPreuExamPool, isPreuQuestion, parseRawPreuBundles } from './exam-pool';
+import { buildPreuExamPool, getPreuQuestionBank, isPreuQuestion, parseRawPreuBundles } from './exam-pool';
 
 const question = (id: string, grade: number, difficulty: number, category: string): AppQuestion => ({
   id,
@@ -62,5 +62,9 @@ Explicacion
     expect(mixedPool.some((item) => item.id === 'CO-SOC-11-hard-1')).toBe(false);
     expect(mixedPool.some((item) => item.id === 'CO-MAT-11-mid-1')).toBe(false);
     expect(mixedPool.some((item) => item.id === 'CO-MAT-11-old-1')).toBe(false);
+  });
+
+  it('keeps a stable API for the runtime question bank', () => {
+    expect(Array.isArray(getPreuQuestionBank('CO', 'unal'))).toBe(true);
   });
 });

@@ -1,4 +1,5 @@
 import type { IcfesEstimate } from './mmr-system';
+import { countryConfig as defaultCountryConfig, type CountryConfig as RuntimeCountryConfig } from '../config';
 
 export interface ExamResultData {
   grade: number;
@@ -64,6 +65,44 @@ export type PromptType =
   | 'gap_attack'
   | 'sprint_protocol'
   | 'adaptive_auto';
+
+type PromptCountryConfig = Pick<
+  RuntimeCountryConfig,
+  'code' | 'name' | 'examName' | 'examFullName' | 'examAuthority' | 'language' | 'culture'
+>;
+
+function formatPromptForCountry(prompt: string, country?: PromptCountryConfig): string {
+  const activeCountry = country || defaultCountryConfig;
+  const responseLanguage = activeCountry.language === 'pt-BR' ? 'portugués de Brasil' : 'español';
+  const cultureHint = activeCountry.culture.cities.slice(0, 3).join(', ');
+
+  return prompt
+    .replaceAll('ICFES Saber 11', activeCountry.examName)
+    .replaceAll('Pruebas de Estado Saber 11', activeCountry.examFullName)
+    .replaceAll('Pruebas Saber 11', activeCountry.examName)
+    .replaceAll('Saber 11', activeCountry.examName)
+    .replaceAll('ICFES', activeCountry.examAuthority)
+    .replaceAll('colombianos', `de ${activeCountry.name}`)
+    .replaceAll('colombiano', `de ${activeCountry.name}`)
+    .replaceAll('Colombia', activeCountry.name)
+    .replaceAll('colombianos reales', `de ${activeCountry.name} reales`)
+    .replace(
+      'Responde en español.',
+      `Responde en ${responseLanguage}.`
+    )
+    .replace(
+      'Por favor responde en español con explicaciones claras.',
+      `Por favor responde en ${responseLanguage} con explicaciones claras y ejemplos alineados a ${activeCountry.examAuthority}.`
+    )
+    .replace(
+      '2. Usa contextos colombianos reales (economía local, literatura nacional, etc.).',
+      `2. Usa contextos reales de ${activeCountry.name} (${cultureHint} y otras referencias locales) y mantén alineación con ${activeCountry.examAuthority}.`
+    )
+    .replace(
+      '4. Explica no solo la respuesta correcta, sino por qué los distractores son trampas comunes.',
+      `4. Explica no solo la respuesta correcta, sino por qué los distractores son trampas comunes.\n5. Mantén el contexto educativo alineado con ${activeCountry.examAuthority} y ${activeCountry.examFullName}.`
+    );
+}
 
 // =============================================================================
 // TEMPLATES
@@ -433,80 +472,80 @@ export function computeAdaptiveContext(profile: UserProfileData): AdaptiveContex
 /**
  * Genera un prompt basado en el resultado de un examen
  */
-export function generateExamPrompt(data: ExamResultData): string {
-  return PROMPT_TEMPLATES.exam_result(data);
+export function generateExamPrompt(data: ExamResultData, country?: PromptCountryConfig): string {
+  return formatPromptForCountry(PROMPT_TEMPLATES.exam_result(data), country);
 }
 
 /**
  * Genera un prompt de plan de mejora basado en el perfil del usuario
  */
-export function generateImprovementPrompt(profile: UserProfileData): string {
-  return PROMPT_TEMPLATES.improvement_plan(profile);
+export function generateImprovementPrompt(profile: UserProfileData, country?: PromptCountryConfig): string {
+  return formatPromptForCountry(PROMPT_TEMPLATES.improvement_plan(profile), country);
 }
 
 /**
  * Genera un prompt enfocado en una materia específica
  */
-export function generateSubjectPrompt(subject: string, accuracy: number, topics?: string[]): string {
-  return PROMPT_TEMPLATES.subject_focus(subject, accuracy, topics);
+export function generateSubjectPrompt(subject: string, accuracy: number, topics?: string[], country?: PromptCountryConfig): string {
+  return formatPromptForCountry(PROMPT_TEMPLATES.subject_focus(subject, accuracy, topics), country);
 }
 
 /**
  * Genera un prompt de repaso rápido
  */
-export function generateQuickReviewPrompt(subject: string, topics: string[]): string {
-  return PROMPT_TEMPLATES.quick_review(subject, topics);
+export function generateQuickReviewPrompt(subject: string, topics: string[], country?: PromptCountryConfig): string {
+  return formatPromptForCountry(PROMPT_TEMPLATES.quick_review(subject, topics), country);
 }
 
 /**
  * Genera un prompt específico para NotebookLM (Setup inicial)
  */
-export function generateNotebookLMPrompt(profile: UserProfileData): string {
-  return PROMPT_TEMPLATES.notebooklm(profile);
+export function generateNotebookLMPrompt(profile: UserProfileData, country?: PromptCountryConfig): string {
+  return formatPromptForCountry(PROMPT_TEMPLATES.notebooklm(profile), country);
 }
 
 /**
  * Genera un prompt de actualización para NotebookLM
  */
-export function generateNotebookLMUpdatePrompt(profile: UserProfileData): string {
-  return PROMPT_TEMPLATES.notebooklm_update(profile);
+export function generateNotebookLMUpdatePrompt(profile: UserProfileData, country?: PromptCountryConfig): string {
+  return formatPromptForCountry(PROMPT_TEMPLATES.notebooklm_update(profile), country);
 }
 
 /**
  * Genera un prompt para el Modo Estudio de ChatGPT
  */
-export function generateChatGPTStudyPrompt(profile: UserProfileData): string {
-  return PROMPT_TEMPLATES.chatgpt_study_mode(profile);
+export function generateChatGPTStudyPrompt(profile: UserProfileData, country?: PromptCountryConfig): string {
+  return formatPromptForCountry(PROMPT_TEMPLATES.chatgpt_study_mode(profile), country);
 }
 
 /**
  * Genera un prompt para consejos meta-cognitivos
  */
-export function generateStudyTipsPrompt(profile: UserProfileData): string {
-  return PROMPT_TEMPLATES.study_tips(profile);
+export function generateStudyTipsPrompt(profile: UserProfileData, country?: PromptCountryConfig): string {
+  return formatPromptForCountry(PROMPT_TEMPLATES.study_tips(profile), country);
 }
 
 /**
  * Genera el prompt más adecuado según el contexto adaptativo del usuario
  */
-export function generateAdaptiveAutoPrompt(profile: UserProfileData): string {
+export function generateAdaptiveAutoPrompt(profile: UserProfileData, country?: PromptCountryConfig): string {
   const context = computeAdaptiveContext(profile);
-  
+
   switch (context.archetype) {
     case 'regressing':
     case 'slow_starter':
-      return PROMPT_TEMPLATES.rescue_plan(profile, context);
+      return formatPromptForCountry(PROMPT_TEMPLATES.rescue_plan(profile, context), country);
     case 'intermediate_rising':
-      return PROMPT_TEMPLATES.momentum_boost(profile, context);
+      return formatPromptForCountry(PROMPT_TEMPLATES.momentum_boost(profile, context), country);
     case 'advanced_with_gaps':
-      return PROMPT_TEMPLATES.gap_attack(profile, context);
+      return formatPromptForCountry(PROMPT_TEMPLATES.gap_attack(profile, context), country);
     case 'advanced_consistent':
-      return PROMPT_TEMPLATES.elite_refinement(profile, context);
+      return formatPromptForCountry(PROMPT_TEMPLATES.elite_refinement(profile, context), country);
     case 'sprint_final':
-      return PROMPT_TEMPLATES.sprint_protocol(profile, context);
+      return formatPromptForCountry(PROMPT_TEMPLATES.sprint_protocol(profile, context), country);
     case 'novice_consolidating':
     default:
-      return PROMPT_TEMPLATES.improvement_plan(profile);
+      return formatPromptForCountry(PROMPT_TEMPLATES.improvement_plan(profile), country);
   }
 }
 
@@ -515,49 +554,50 @@ export function generateAdaptiveAutoPrompt(profile: UserProfileData): string {
  */
 export function generatePrompt(
   type: PromptType,
-  data: ExamResultData | UserProfileData | { subject: string; accuracy: number; topics?: string[] }
+  data: ExamResultData | UserProfileData | { subject: string; accuracy: number; topics?: string[] },
+  country?: PromptCountryConfig
 ): string {
   const profile = data as UserProfileData;
-  const context = (type !== 'exam_result' && type !== 'subject_focus' && type !== 'quick_review' && type !== 'preu_generation') 
-    ? computeAdaptiveContext(profile) 
+  const context = (type !== 'exam_result' && type !== 'subject_focus' && type !== 'quick_review' && type !== 'preu_generation')
+    ? computeAdaptiveContext(profile)
     : null;
 
   switch (type) {
     case 'exam_result':
-      return PROMPT_TEMPLATES.exam_result(data as ExamResultData);
+      return formatPromptForCountry(PROMPT_TEMPLATES.exam_result(data as ExamResultData), country);
     case 'improvement_plan':
-      return PROMPT_TEMPLATES.improvement_plan(profile);
+      return formatPromptForCountry(PROMPT_TEMPLATES.improvement_plan(profile), country);
     case 'notebooklm':
-      return PROMPT_TEMPLATES.notebooklm(profile);
+      return formatPromptForCountry(PROMPT_TEMPLATES.notebooklm(profile), country);
     case 'notebooklm_update':
-      return PROMPT_TEMPLATES.notebooklm_update(profile);
+      return formatPromptForCountry(PROMPT_TEMPLATES.notebooklm_update(profile), country);
     case 'chatgpt_study_mode':
-      return PROMPT_TEMPLATES.chatgpt_study_mode(profile);
+      return formatPromptForCountry(PROMPT_TEMPLATES.chatgpt_study_mode(profile), country);
     case 'study_tips':
-      return PROMPT_TEMPLATES.study_tips(profile);
+      return formatPromptForCountry(PROMPT_TEMPLATES.study_tips(profile), country);
     case 'adaptive_auto':
-      return generateAdaptiveAutoPrompt(profile);
+      return generateAdaptiveAutoPrompt(profile, country);
     case 'rescue_plan':
-      return context ? PROMPT_TEMPLATES.rescue_plan(profile, context) : '';
+      return context ? formatPromptForCountry(PROMPT_TEMPLATES.rescue_plan(profile, context), country) : '';
     case 'momentum_boost':
-      return context ? PROMPT_TEMPLATES.momentum_boost(profile, context) : '';
+      return context ? formatPromptForCountry(PROMPT_TEMPLATES.momentum_boost(profile, context), country) : '';
     case 'gap_attack':
-      return context ? PROMPT_TEMPLATES.gap_attack(profile, context) : '';
+      return context ? formatPromptForCountry(PROMPT_TEMPLATES.gap_attack(profile, context), country) : '';
     case 'elite_refinement':
-      return context ? PROMPT_TEMPLATES.elite_refinement(profile, context) : '';
+      return context ? formatPromptForCountry(PROMPT_TEMPLATES.elite_refinement(profile, context), country) : '';
     case 'sprint_protocol':
-      return context ? PROMPT_TEMPLATES.sprint_protocol(profile, context) : '';
+      return context ? formatPromptForCountry(PROMPT_TEMPLATES.sprint_protocol(profile, context), country) : '';
     case 'preu_generation': {
       const d = data as unknown as { subject: string; specific_topic: string };
       return PROMPT_TEMPLATES.preu_generation(d.subject, d.specific_topic);
     }
     case 'subject_focus': {
       const d = data as { subject: string; accuracy: number; topics?: string[] };
-      return PROMPT_TEMPLATES.subject_focus(d.subject, d.accuracy, d.topics);
+      return formatPromptForCountry(PROMPT_TEMPLATES.subject_focus(d.subject, d.accuracy, d.topics), country);
     }
     case 'quick_review': {
       const d = data as { subject: string; topics: string[] };
-      return PROMPT_TEMPLATES.quick_review(d.subject, d.topics || []);
+      return formatPromptForCountry(PROMPT_TEMPLATES.quick_review(d.subject, d.topics || []), country);
     }
     default:
       return '';

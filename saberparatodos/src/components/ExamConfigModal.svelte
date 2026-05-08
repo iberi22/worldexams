@@ -18,9 +18,14 @@
   } from '../lib/questions';
   import { getCachedEnglishQuestions, getAnsweredQuestionIds } from '../lib/idb-storage'; // 🆕
   import { CURRICULUM_CO, normalizeTopic } from '../config/curriculum'; // 🆕 Import Curriculum Logic
-import { getDomainStatus, VALIDATION_STATUSES } from '../lib/questions/validation-registry';
+  import { countryConfig as defaultCountryConfig } from '../config';
+  import type { CountryConfig as RuntimeCountryConfig } from '../config';
+  import { getPreuCatalogEntries, isPreuRuntimeEnabled } from '../lib/preuniversitario/catalog';
+  import MenGuidelinesModal from './MenGuidelinesModal.svelte';
 
   let {
+    countryCode = defaultCountryConfig.code,
+    runtimeCountry = defaultCountryConfig,
     subject: initialSubject,
     currentGrade: initialGrade = 11,
     isLoggedIn = false,
@@ -28,7 +33,19 @@ import { getDomainStatus, VALIDATION_STATUSES } from '../lib/questions/validatio
     onCancel,
     availableQuestions = [],
     initialRoomCode = ''
-  } = $props();
+  } = $props<{
+    countryCode?: string;
+    runtimeCountry?: RuntimeCountryConfig;
+    subject?: string;
+    currentGrade?: number;
+    isLoggedIn?: boolean;
+    onStart: (config: Record<string, unknown>) => void;
+    onCancel: () => void;
+    availableQuestions?: any[];
+    initialRoomCode?: string;
+  }>();
+
+  const preuEnabled = isPreuRuntimeEnabled(countryCode);
 
   // 🆕 Make subject and grade editable
   let selectedSubject = $state(initialSubject || 'Simulacro Completo');
@@ -36,6 +53,7 @@ import { getDomainStatus, VALIDATION_STATUSES } from '../lib/questions/validatio
   let availableSubjects = $state(['Simulacro Completo', 'Matemáticas', 'Lectura Crítica', 'Ciencias Naturales', 'Sociales y Ciudadanas', 'Inglés', 'Preuniversitario']);
 
   let availableGrades = $state([3, 4, 5, 6, 7, 8, 9, 10, 11]);
+  let showMenModal = $state(false);
 
   // 🆕 Detect English Related (grade = 0 or English subject)
   let isEnglishRelated = $derived(selectedGrade === 0 || selectedSubject?.toLowerCase().includes('inglés') || selectedSubject?.toLowerCase().includes('ingles'));
@@ -111,11 +129,22 @@ import { getDomainStatus, VALIDATION_STATUSES } from '../lib/questions/validatio
     }
   });
 
+  $effect(() => {
+    if (!preuEnabled) {
+      availableSubjects = availableSubjects.filter((subject) => subject !== 'Preuniversitario');
+      if (selectedSubject === 'Preuniversitario') {
+        selectedSubject = 'Simulacro Completo';
+        selectedUniversity = '';
+      }
+    }
+  });
+
   let isPreuMode = $derived(selectedSubject === 'Preuniversitario');
   let selectedUniversity = $state('');
 
-  import { preuCatalogEntries } from '../lib/preuniversitario/catalog';
-  let availableUniversities = preuCatalogEntries.map(e => ({ id: e.slug, name: e.institutionName }));
+  let availableUniversities = $derived(
+    getPreuCatalogEntries(countryCode).map((entry) => ({ id: entry.slug, name: entry.institutionName }))
+  );
 
   function saveUserLevel(level: string) {
     if (typeof localStorage !== 'undefined') {
@@ -679,6 +708,7 @@ import { getDomainStatus, VALIDATION_STATUSES } from '../lib/questions/validatio
       const roomSelection = await prepareRoomQuestions(
           {
             grade: selectedGrade || 11,
+            countryCode,
             subject: selectedSubject,
             count: questionCount,
             useDiagnostic: effectiveUseDiagnostic,
@@ -973,6 +1003,7 @@ import { getDomainStatus, VALIDATION_STATUSES } from '../lib/questions/validatio
         const soloResult = await prepareSoloExamQuestions(
           {
             grade: selectedGrade || 11,
+            countryCode,
             subject: selectedSubject,
             count: questionCount,
             useDiagnostic: effectiveUseDiagnostic,
@@ -1238,7 +1269,6 @@ import { getDomainStatus, VALIDATION_STATUSES } from '../lib/questions/validatio
             </div>
           {/if}
         {/if}
-
         {#if !roomCode || isHost}
           {#if !isEnglishDiagnosticMode}
           <!-- Normal Grade and Subject Selection -->
@@ -1250,59 +1280,19 @@ import { getDomainStatus, VALIDATION_STATUSES } from '../lib/questions/validatio
                <span class="text-xs font-bold text-white/40 bg-white/5 px-2 py-1 rounded">Grado {selectedGrade}°</span>
             </div>
 
-            <!-- Subject Selector Grid (Premium Upgrade) -->
-            <div class="space-y-4">
-              <label class="block text-xs uppercase tracking-widest opacity-60">Materia</label>
-              <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+            <!-- Subject Selector -->
+            <div>
+              <label class="block text-xs uppercase tracking-widest opacity-60 mb-2">Materia</label>
+              <select
+                bind:value={selectedSubject}
+                disabled={configLocked}
+                class="w-full px-4 py-3 bg-gray-900/90 border border-white/10 rounded-lg text-white text-sm focus:outline-none focus:border-emerald-500/50 transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
+                style="background-color: rgb(17 24 39 / 0.9);"
+              >
                 {#each availableSubjects as subj}
-                  {@const domainStatus = getDomainStatus(selectedGrade, subj)}
-                  {@const statusMeta = VALIDATION_STATUSES[domainStatus]}
-                  {@const isActive = selectedSubject === subj}
-                  <FlashlightCard
-                    {isActive}
-                    onClick={() => { if (!configLocked) selectedSubject = subj }}
-                    className={`p-3 relative group transition-all duration-300 ${configLocked ? 'opacity-50 cursor-not-allowed' : 'hover:scale-[1.02]'} ${isActive ? 'ring-2 ring-emerald-500/50 shadow-lg shadow-emerald-500/10' : 'hover:border-white/20'}`}
-                  >
-                    <div class="flex flex-col gap-2">
-                      <div class="flex items-center justify-between pointer-events-none">
-                        <span class={`text-[11px] font-black uppercase tracking-widest ${isActive ? 'text-emerald-400' : 'text-white/70 group-hover:text-white'}`}>
-                          {subj}
-                        </span>
-                        <div class="flex items-center gap-1.5">
-                           {#if domainStatus === 'verified'}
-                             <span class="text-emerald-400 text-sm drop-shadow-[0_0_8px_rgba(16,185,129,0.5)]">✓</span>
-                           {:else if domainStatus === 'in_review'}
-                             <span class="text-amber-400 text-sm">⚠️</span>
-                           {:else}
-                             <span class="text-white/30 text-xs">⏳</span>
-                           {/if}
-                        </div>
-                      </div>
-                      
-                      <!-- Status Label -->
-                      <div class="flex items-center gap-1.5 pointer-events-none">
-                        <span class="w-1 h-1 rounded-full" style="background-color: {statusMeta.color}"></span>
-                        <span class="text-[8px] uppercase tracking-widest opacity-40 font-bold group-hover:opacity-60">
-                          {statusMeta.label}
-                        </span>
-                      </div>
-                    </div>
-                  </FlashlightCard>
+                  <option value={subj} class="bg-gray-900 text-white py-2">{subj}</option>
                 {/each}
-              </div>
-
-              <!-- Status Legend -->
-              <div class="mt-4 p-3 bg-black/40 border border-white/5 rounded-xl space-y-2">
-                <p class="text-[9px] uppercase tracking-widest text-white/40 font-bold text-center mb-1">Guía de Calidad</p>
-                <div class="flex flex-wrap justify-center gap-x-4 gap-y-2">
-                  {#each Object.values(VALIDATION_STATUSES) as s}
-                    <div class="flex items-center gap-1.5" title={s.description}>
-                      <span class="text-[10px]">{s.icon}</span>
-                      <span class="text-[8px] uppercase tracking-widest font-bold" style="color: {s.color}">{s.label}</span>
-                    </div>
-                  {/each}
-                </div>
-              </div>
+              </select>
             </div>
 
             <!-- 🎓 Preuniversitario University Selector -->
@@ -1321,29 +1311,22 @@ import { getDomainStatus, VALIDATION_STATUSES } from '../lib/questions/validatio
                   {/each}
                 </div>
                 {#if selectedUniversity}
-                  <div class="flex items-center justify-center gap-2 py-1">
-                    <span class="w-1.5 h-1.5 bg-[#FCD116] rounded-full animate-ping"></span>
-                    <p class="text-[9px] text-[#FCD116]/80 uppercase tracking-widest font-black">
-                      Módulo {selectedUniversity.toUpperCase()} Activo
+                  <div class="flex flex-col items-center gap-2 py-3 px-4 bg-orange-500/10 border border-orange-500/20 rounded-xl mt-2" transition:slide>
+                    <div class="flex items-center gap-2">
+                      <span class="w-1.5 h-1.5 bg-orange-500 rounded-full animate-pulse"></span>
+                      <p class="text-[9px] text-orange-400 uppercase tracking-widest font-black">
+                        ⚠️ Módulo Experimental
+                      </p>
+                    </div>
+                    <p class="text-[8px] text-orange-200/60 text-center leading-tight">
+                      Estamos curando la base de 1000 preguntas institucionales. Contenido limitado durante el prelaunch.
                     </p>
                   </div>
                 {/if}
               </div>
             {/if}
 
-
-            <!-- 🆕 Period Mode Selector -->
-
             {#if currentPeriods.length > 0}
-
-              <!-- MEN Guidelines Notice -->
-              <div class="mt-4 mb-2 flex items-start gap-2 p-2 bg-yellow-500/10 border border-yellow-500/20 rounded">
-                <div class="text-lg">🏛️</div>
-                <p class="text-[10px] text-yellow-200/80 leading-relaxed">
-                  <strong class="block text-yellow-400 font-bold mb-0.5">Lineamientos M.E.N. Colombia</strong>
-                  Los periodos están alineados con los DBA (Derechos Básicos de Aprendizaje) vigentes. Selecciona el periodo actual de tu colegio.
-                </p>
-              </div>
 
               <div class="p-3 bg-blue-900/20 border border-blue-500/20 rounded-lg">
                 <label class="block text-xs uppercase tracking-widest text-blue-400 mb-2 font-bold">Modo de Examen</label>
@@ -1373,7 +1356,7 @@ import { getDomainStatus, VALIDATION_STATUSES } from '../lib/questions/validatio
                         Evaluando: Todo el Año
                       </div>
                       <div class="px-2 py-0.5 bg-blue-500/10 border border-blue-500/20 rounded-full text-[8px] font-black text-blue-400 uppercase tracking-[0.2em] animate-pulse">
-                        ICFES ESTÁNDAR
+                        {runtimeCountry.examAuthority} ESTÁNDAR
                       </div>
                    </div>
                 {/if}
@@ -1392,6 +1375,25 @@ import { getDomainStatus, VALIDATION_STATUSES } from '../lib/questions/validatio
                     {/each}
                   </div>
                 {/if}
+              </div>
+
+              <!-- MEN Guidelines Notice -->
+              <div class="mt-4 mb-2 flex items-start gap-2 p-2 bg-yellow-500/10 border border-yellow-500/20 rounded">
+                <div class="text-lg">🏛️</div>
+                <div class="flex-1 flex items-start justify-between gap-2">
+                  <p class="text-[10px] text-yellow-200/80 leading-relaxed">
+                    <strong class="block text-yellow-400 font-bold mb-0.5">Lineamientos M.E.N. Colombia</strong>
+                    Los periodos están alineados con los DBA (Derechos Básicos de Aprendizaje) vigentes. Selecciona el periodo actual de tu colegio.
+                  </p>
+                  <button
+                    onclick={() => showMenModal = true}
+                    class="shrink-0 px-2 py-1 text-[10px] font-black uppercase tracking-widest bg-yellow-500/20 hover:bg-yellow-500/30 border border-yellow-500/30 text-yellow-400 rounded transition-all"
+                    title="Ver lineamientos MEN 2026"
+                    aria-label="Ver lineamientos MEN 2026"
+                  >
+                    ?
+                  </button>
+                </div>
               </div>
             {/if}
           </div>
@@ -1900,3 +1902,11 @@ import { getDomainStatus, VALIDATION_STATUSES } from '../lib/questions/validatio
   </div>
 </div>
 
+{#if showMenModal}
+  <MenGuidelinesModal
+    onClose={() => showMenModal = false}
+    grade={selectedGrade}
+    subject={selectedSubject}
+    period={selectedPeriod}
+  />
+{/if}

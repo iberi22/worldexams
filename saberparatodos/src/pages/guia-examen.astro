@@ -5,13 +5,14 @@ import GradeCard from '../components/guia/GradeCard.astro';
 import CompetencyList from '../components/guia/CompetencyList.astro';
 import TipsSection from '../components/guia/TipsSection.astro';
 import StatsIcfes from '../components/guia/StatsIcfes.astro';
-import { countryConfig } from '../config';
+import { countryConfig as defaultConfig, toRuntimeCountryConfig } from '../config';
 import { getExamGuideContent } from '../config/exam-guide-content';
 
-const guideContent = getExamGuideContent(countryConfig);
+const country = Astro.locals.country ? toRuntimeCountryConfig(Astro.locals.country) : defaultConfig;
+const guideContent = getExamGuideContent(country);
 const isCO = guideContent.variant === 'co';
 const isMX = guideContent.variant === 'mx';
-const siteUrl = Astro.site ? Astro.site.toString() : countryConfig.product.siteUrl;
+const siteUrl = Astro.site ? Astro.site.toString() : country.product.siteUrl;
 
 const faqSchema = {
   '@context': 'https://schema.org',
@@ -31,7 +32,7 @@ const schema = {
   '@graph': [
     {
       '@type': 'WebPage',
-      name: `${guideContent.heroTitle} - ${countryConfig.name}`,
+      name: `${guideContent.heroTitle} - ${country.name}`,
       description: guideContent.heroDescription,
       provider: {
         '@type': 'Organization',
@@ -40,7 +41,7 @@ const schema = {
       },
       about: {
         '@type': 'EducationalOccupationalCredential',
-        name: countryConfig.examName,
+        name: country.examName,
         credentialCategory: 'Guia de examen',
       },
     },
@@ -50,23 +51,26 @@ const schema = {
 ---
 
 <Layout
-  title={`${guideContent.heroTitle} | ${countryConfig.name}`}
+  title={`${guideContent.heroTitle} | ${country.name}`}
   description={guideContent.heroDescription}
   keywords={guideContent.keywords.join(', ')}
 >
-  <div class="min-h-screen background text-foreground relative overflow-hidden">
+  <div class="relative min-h-screen overflow-hidden text-foreground background">
     <div class="hero-gradient"></div>
 
-    <section class="py-24 px-4 relative z-10">
-      <div class="max-w-4xl mx-auto text-center">
-        <span class="inline-block px-3 py-1 text-[10px] font-mono tracking-widest uppercase bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 rounded-full mb-8 animate-fade-in-up">
+    <section class="relative z-10 px-4 py-24">
+      <div class="mx-auto max-w-4xl text-center">
+        <span class="mb-8 inline-block rounded-full border border-emerald-500/20 bg-emerald-500/10 px-3 py-1 text-[10px] font-mono uppercase tracking-widest text-emerald-400">
           Guia verificada con fuentes {guideContent.badgeSourceLabel}
         </span>
-        <h1 class="text-4xl md:text-6xl font-black mb-8 animate-fade-in-up animate-fade-in-up-delay-1 tracking-tight">
-          {guideContent.heroTitle} <br />
-          <span class="text-white/40 font-bold text-3xl md:text-4xl">{guideContent.heroSubtitle}</span>
+        <h1 class="mx-auto mb-8 max-w-4xl animate-fade-in-up text-balance text-4xl font-black tracking-tight md:text-6xl">
+          {guideContent.heroTitle}<br />
+          <span class="text-3xl font-bold text-white/40 md:text-4xl">{guideContent.heroSubtitle}</span>
         </h1>
-        <p class="text-lg md:text-xl text-white/60 max-w-2xl mx-auto animate-fade-in-up animate-fade-in-up-delay-2 leading-relaxed">
+        <p
+          class="animate-fade-in-up animate-fade-in-up-delay-2 text-lg leading-relaxed text-white/60 md:text-xl"
+          style="font-family: 'Inter', sans-serif; text-align: center; display: block; width: 100%; max-width: 600px; margin: 0 auto;"
+        >
           {guideContent.heroDescription}
         </p>
       </div>
@@ -74,67 +78,70 @@ const schema = {
 
     {isCO && (
       <>
-        <section class="py-16 px-4 relative z-10" data-sr="fade-up">
-          <div class="max-w-6xl mx-auto">
-            <h2 class="text-3xl font-bold mb-12 text-center">Como se organiza la evaluacion en Colombia</h2>
-            <div class="glass p-8 rounded-3xl">
+        <section class="relative z-10 px-4 py-16" data-sr="fade-up">
+          <div class="mx-auto max-w-6xl">
+            <h2 class="mb-12 text-center text-3xl font-bold">Como se organiza la evaluacion en Colombia</h2>
+            <div class="glass rounded-3xl p-8 md:p-16">
               <ExamInfographic />
             </div>
           </div>
         </section>
 
-        <section class="py-20 px-4 border-t border-white/5 relative z-10">
-          <div class="max-w-6xl mx-auto">
-            <h2 class="text-3xl font-bold mb-12 text-center" data-sr="fade-up">Que evalua el sistema por grado</h2>
-            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <section class="relative z-10 border-t border-white/5 px-4 py-20">
+          <div class="mx-auto max-w-6xl">
+            <h2 class="mb-12 text-center text-3xl font-bold" data-sr="fade-up">Que evalua el sistema por grado</h2>
+            <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
               <GradeCard
-                grade="3°"
-                title="Saber 3°"
+                grade="3o"
+                title="Saber 3"
                 description="Seguimiento temprano de aprendizajes base en primaria."
-                subjects={["Matematicas", "Lenguaje"]}
+                subjects={['Matematicas', 'Lenguaje']}
                 duration="Convocatoria oficial"
                 questions="80 a 100 reactivos aproximados"
               />
               <GradeCard
-                grade="5°"
-                title="Saber 5°"
+                grade="5o"
+                title="Saber 5"
                 description="Control de competencias basicas al cierre de primaria."
-                subjects={["Matematicas", "Lenguaje", "Ciencias Naturales"]}
+                subjects={['Matematicas', 'Lenguaje', 'Ciencias Naturales']}
                 duration="Sesion unica"
                 questions="Segun convocatoria"
               />
               <GradeCard
-                grade="7°"
-                title="Saber 7°"
+                grade="7o"
+                title="Saber 7"
                 description="Punto de control intermedio para secundaria."
-                subjects={["Matematicas", "Lectura Critica", "Habilidades Ciudadanas"]}
+                subjects={['Matematicas', 'Lectura Critica', 'Habilidades Ciudadanas']}
                 duration="Jornada oficial"
                 questions="Estructura variable"
               />
               <GradeCard
-                grade="9°"
-                title="Saber 9°"
+                grade="9o"
+                title="Saber 9"
                 description="Evaluacion de cierre de basica secundaria."
-                subjects={["Matematicas", "Lenguaje", "Ciencias", "Habilidades Ciudadanas"]}
+                subjects={['Matematicas', 'Lenguaje', 'Ciencias', 'Habilidades Ciudadanas']}
                 duration="Convocatoria ICFES"
                 questions="Consulta oficial vigente"
               />
               <GradeCard
-                grade="11°"
-                title="Saber 11°"
+                grade="11o"
+                title="Saber 11"
                 description="Examen de Estado para estudiantes de grado 11 y poblacion habilitada."
-                subjects={["Lectura Critica", "Matematicas", "Sociales y Ciudadanas", "Ciencias Naturales", "Ingles"]}
+                subjects={['Lectura Critica', 'Matematicas', 'Sociales y Ciudadanas', 'Ciencias Naturales', 'Ingles']}
                 duration="9 horas en dos sesiones"
                 questions="230 calificables / 278 con cuestionario"
                 highlight={true}
               />
-              {countryConfig.features.preuniversitario && (
-                <a href="/?subject=Preuniversitario&grade=11" class="block rounded-lg focus:outline-none focus-visible:ring-2 focus-visible:ring-[#FCD116]">
+              {country.features.preuniversitario && (
+                <a
+                  href="/?subject=Preuniversitario&grade=11"
+                  class="block rounded-lg focus:outline-none focus-visible:ring-2 focus-visible:ring-[#FCD116]"
+                >
                   <GradeCard
                     grade="PreU"
                     title="Preuniversitario"
                     description="Ruta adicional para admision universitaria con simulacros y blueprints especificos."
-                    subjects={["Diagnostico", "Practica por componente", "Simulacro realista", "Overlay por carrera"]}
+                    subjects={['Diagnostico', 'Practica por componente', 'Simulacro realista', 'Overlay por carrera']}
                     duration="Modulos de tiempo real"
                     questions="20 a 120 preguntas"
                     highlight={true}
@@ -145,15 +152,13 @@ const schema = {
           </div>
         </section>
 
-        <section class="py-20 px-4 border-t border-white/5 bg-gradient-to-b from-transparent to-emerald-500/[0.02] relative z-10">
-          <div class="max-w-6xl mx-auto">
-            <h2 class="text-3xl font-bold mb-4 text-center" data-sr="fade-up">
-              Estadisticas de referencia
-            </h2>
-            <p class="text-white/40 text-center mb-12 text-sm uppercase tracking-widest" data-sr="fade-up" data-sr-delay="100">
-              Resumen basado en la guia de orientacion oficial
+        <section class="relative z-10 border-t border-white/5 bg-gradient-to-b from-transparent to-emerald-500/[0.02] px-4 py-20">
+          <div class="mx-auto max-w-6xl">
+            <h2 class="mb-4 text-center text-3xl font-bold" data-sr="fade-up">Estadisticas de referencia</h2>
+            <p class="mb-12 text-center text-sm uppercase tracking-widest text-white/40" data-sr="fade-up" data-sr-delay="100">
+              Resumen basado en la guia oficial vigente
             </p>
-            <div class="glass p-8 rounded-3xl">
+            <div class="glass rounded-3xl p-8">
               <StatsIcfes />
             </div>
           </div>
@@ -163,15 +168,15 @@ const schema = {
 
     {isMX && (
       <>
-        <section class="py-20 px-4 relative z-10" data-sr="fade-up">
-          <div class="max-w-6xl mx-auto">
-            <h2 class="text-3xl font-bold mb-12 text-center text-[#F5F5DC]">Estructura general del examen</h2>
-            <div class="grid md:grid-cols-3 gap-8">
+        <section class="relative z-10 px-4 py-20" data-sr="fade-up">
+          <div class="mx-auto max-w-6xl">
+            <h2 class="mb-12 text-center text-3xl font-bold text-[#F5F5DC]">Estructura general del examen</h2>
+            <div class="grid gap-8 md:grid-cols-3">
               <GradeCard
                 grade="A"
                 title="Transversales"
                 description="Habilidades fundamentales para todos los aspirantes."
-                subjects={["Comprension Lectora", "Redaccion Indirecta", "Pensamiento Matematico"]}
+                subjects={['Comprension Lectora', 'Redaccion Indirecta', 'Pensamiento Matematico']}
                 duration="Base del examen"
                 questions="90 preguntas"
                 highlight={true}
@@ -180,7 +185,7 @@ const schema = {
                 grade="B"
                 title="Modulos especificos"
                 description="Conocimientos ligados a la carrera o institucion."
-                subjects={["Modulo 1", "Modulo 2", "Ejemplos por area"]}
+                subjects={['Modulo 1', 'Modulo 2', 'Ejemplos por area']}
                 duration="Varia segun carrera"
                 questions="48 preguntas"
               />
@@ -188,7 +193,7 @@ const schema = {
                 grade="C"
                 title="Diagnostico"
                 description="Informacion adicional fuera del puntaje principal."
-                subjects={["Ingles", "Reactivos piloto"]}
+                subjects={['Ingles', 'Reactivos piloto']}
                 duration="Seccion final"
                 questions="30 preguntas"
               />
@@ -196,41 +201,41 @@ const schema = {
           </div>
         </section>
 
-        <section class="py-20 px-4 border-t border-white/5 bg-white/[0.01] relative z-10">
-          <div class="max-w-4xl mx-auto">
-            <h2 class="text-3xl font-bold mb-12 text-center" data-sr="fade-up">EXANI-II en detalle</h2>
-            <div class="glass p-8 rounded-3xl flex flex-col items-center" data-sr="zoom-in" data-sr-delay="100">
+        <section class="relative z-10 border-t border-white/5 bg-white/[0.01] px-4 py-20">
+          <div class="mx-auto max-w-4xl">
+            <h2 class="mb-12 text-center text-3xl font-bold" data-sr="fade-up">EXANI-II en detalle</h2>
+            <div class="glass flex flex-col items-center rounded-3xl p-8" data-sr="zoom-in" data-sr-delay="100">
               <div class="w-full max-w-lg space-y-6">
                 <div>
-                  <div class="flex justify-between text-[10px] uppercase tracking-widest mb-2 text-white/60">
+                  <div class="mb-2 flex justify-between text-[10px] uppercase tracking-widest text-white/60">
                     <span>Habilidades transversales</span>
                     <span class="font-bold text-emerald-400">54%</span>
                   </div>
-                  <div class="w-full bg-white/5 rounded-full h-3 overflow-hidden border border-white/5">
-                    <div class="bg-gradient-to-r from-emerald-600 to-emerald-400 h-full rounded-full" style="width: 54%"></div>
+                  <div class="h-3 w-full overflow-hidden rounded-full border border-white/5 bg-white/5">
+                    <div class="h-full rounded-full bg-gradient-to-r from-emerald-600 to-emerald-400" style="width: 54%"></div>
                   </div>
                 </div>
                 <div>
-                  <div class="flex justify-between text-[10px] uppercase tracking-widest mb-2 text-white/60">
+                  <div class="mb-2 flex justify-between text-[10px] uppercase tracking-widest text-white/60">
                     <span>Modulos especificos</span>
                     <span class="font-bold text-blue-400">28%</span>
                   </div>
-                  <div class="w-full bg-white/5 rounded-full h-3 overflow-hidden border border-white/5">
-                    <div class="bg-gradient-to-r from-blue-600 to-blue-400 h-full rounded-full" style="width: 28%"></div>
+                  <div class="h-3 w-full overflow-hidden rounded-full border border-white/5 bg-white/5">
+                    <div class="h-full rounded-full bg-gradient-to-r from-blue-600 to-blue-400" style="width: 28%"></div>
                   </div>
                 </div>
                 <div>
-                  <div class="flex justify-between text-[10px] uppercase tracking-widest mb-2 text-white/60">
+                  <div class="mb-2 flex justify-between text-[10px] uppercase tracking-widest text-white/60">
                     <span>Ingles diagnostico</span>
                     <span class="font-bold text-purple-400">18%</span>
                   </div>
-                  <div class="w-full bg-white/5 rounded-full h-3 overflow-hidden border border-white/5">
-                    <div class="bg-gradient-to-r from-purple-600 to-purple-400 h-full rounded-full" style="width: 18%"></div>
+                  <div class="h-3 w-full overflow-hidden rounded-full border border-white/5 bg-white/5">
+                    <div class="h-full rounded-full bg-gradient-to-r from-purple-600 to-purple-400" style="width: 18%"></div>
                   </div>
                 </div>
               </div>
-              <p class="text-center text-white/40 text-xs mt-10 uppercase tracking-widest">
-                Total: <strong class="text-white">168 preguntas</strong> • Duracion: <strong class="text-white">4.5 horas</strong>
+              <p class="mt-10 text-center text-xs uppercase tracking-widest text-white/40">
+                Total: <strong class="text-white">168 preguntas</strong> | Duracion: <strong class="text-white">4.5 horas</strong>
               </p>
             </div>
           </div>
@@ -239,26 +244,26 @@ const schema = {
     )}
 
     {!isCO && !isMX && (
-      <section class="py-20 px-4 border-t border-white/5 relative z-10">
-        <div class="max-w-5xl mx-auto">
-          <div class="glass p-8 rounded-3xl">
-            <p class="text-xs uppercase tracking-[0.28em] text-white/35 mb-4">Tenant template mode</p>
-            <h2 class="text-3xl font-black mb-6">La guia todavia esta en fase de localizacion</h2>
-            <p class="text-white/65 leading-relaxed mb-6">
+      <section class="relative z-10 border-t border-white/5 px-4 py-20">
+        <div class="mx-auto max-w-5xl">
+          <div class="glass rounded-3xl p-8">
+            <p class="mb-4 text-xs uppercase tracking-[0.28em] text-white/35">Tenant template mode</p>
+            <h2 class="mb-6 text-3xl font-black">La guia todavia esta en fase de localizacion</h2>
+            <p class="mb-6 leading-relaxed text-white/65">
               Este tenant ya usa el runtime compartido de <strong class="text-white">saberparatodos</strong> para layout, SEO, tematizacion y experiencia base.
-              Lo que sigue pendiente es completar el contenido institucional y curricular especifico de {countryConfig.name}.
+              Lo que sigue pendiente es completar el contenido institucional y curricular especifico de {country.name}.
             </p>
-            <div class="grid md:grid-cols-3 gap-4">
-              <div class="rounded-2xl bg-white/[0.03] p-5 border border-white/8">
-                <p class="text-[11px] uppercase tracking-[0.22em] text-white/35 mb-2">Compartido</p>
+            <div class="grid gap-4 md:grid-cols-3">
+              <div class="rounded-2xl border border-white/8 bg-white/[0.03] p-5">
+                <p class="mb-2 text-[11px] uppercase tracking-[0.22em] text-white/35">Compartido</p>
                 <p class="text-sm text-white/70">Runtime, theming, rutas base, widgets y metadata estructural.</p>
               </div>
-              <div class="rounded-2xl bg-white/[0.03] p-5 border border-white/8">
-                <p class="text-[11px] uppercase tracking-[0.22em] text-white/35 mb-2">Por localizar</p>
+              <div class="rounded-2xl border border-white/8 bg-white/[0.03] p-5">
+                <p class="mb-2 text-[11px] uppercase tracking-[0.22em] text-white/35">Por localizar</p>
                 <p class="text-sm text-white/70">Blueprint del examen, copy institucional, calendario y fuentes oficiales por pais.</p>
               </div>
-              <div class="rounded-2xl bg-white/[0.03] p-5 border border-white/8">
-                <p class="text-[11px] uppercase tracking-[0.22em] text-white/35 mb-2">Siguiente paso</p>
+              <div class="rounded-2xl border border-white/8 bg-white/[0.03] p-5">
+                <p class="mb-2 text-[11px] uppercase tracking-[0.22em] text-white/35">Siguiente paso</p>
                 <p class="text-sm text-white/70">Extender config y contenido, no clonar la aplicacion ni crear un frontend paralelo.</p>
               </div>
             </div>
@@ -267,55 +272,55 @@ const schema = {
       </section>
     )}
 
-    <section class="py-20 px-4 border-t border-white/5 relative z-10">
-      <div class="max-w-6xl mx-auto">
-        <h2 class="text-3xl font-bold mb-12 text-center" data-sr="fade-up">Competencias clave</h2>
+    <section class="relative z-10 border-t border-white/5 px-4 py-20">
+      <div class="mx-auto max-w-6xl">
+        <h2 class="mb-12 text-center text-3xl font-bold" data-sr="fade-up">Competencias clave</h2>
         <div data-sr="fade-up" data-sr-delay="100">
           <CompetencyList />
         </div>
       </div>
     </section>
 
-    <section class="py-20 px-4 border-t border-white/5 bg-gradient-to-t from-emerald-500/[0.02] to-transparent relative z-10">
-      <div class="max-w-6xl mx-auto">
-        <h2 class="text-3xl font-bold mb-12 text-center" data-sr="fade-up">Estrategias y recomendaciones</h2>
+    <section class="relative z-10 border-t border-white/5 bg-gradient-to-t from-emerald-500/[0.02] to-transparent px-4 py-20">
+      <div class="mx-auto max-w-6xl">
+        <h2 class="mb-12 text-center text-3xl font-bold" data-sr="fade-up">Estrategias y recomendaciones</h2>
         <div data-sr="fade-up" data-sr-delay="100">
           <TipsSection />
         </div>
       </div>
     </section>
 
-    <section class="py-24 px-4 border-t border-white/5 relative z-10 overflow-hidden">
-      <div class="absolute inset-0 bg-emerald-500/[0.03] animate-pulse-slow"></div>
-      <div class="max-w-2xl mx-auto text-center relative z-10" data-sr="zoom-in">
-        <h2 class="text-4xl font-black mb-6 tracking-tight">{guideContent.ctaTitle}</h2>
-        <p class="text-white/60 mb-10 text-lg leading-relaxed">
+    <section class="relative z-10 overflow-hidden border-t border-white/5 px-4 py-24">
+      <div class="absolute inset-0 animate-pulse-slow bg-emerald-500/[0.03]"></div>
+      <div class="relative z-10 mx-auto max-w-2xl text-center" data-sr="zoom-in">
+        <h2 class="mb-6 text-4xl font-black tracking-tight">{guideContent.ctaTitle}</h2>
+        <p class="mb-10 text-lg leading-relaxed text-white/60">
           {guideContent.ctaDescription}
         </p>
         <a
           href="/practica"
-          class="inline-block px-10 py-4 bg-emerald-500 text-black font-black uppercase tracking-widest text-sm rounded-xl hover:bg-emerald-400 hover:scale-105 transition-all shadow-xl shadow-emerald-500/20"
+          class="inline-block rounded-xl bg-emerald-500 px-10 py-4 text-sm font-black uppercase tracking-widest text-black shadow-xl shadow-emerald-500/20 transition-all hover:scale-105 hover:bg-emerald-400"
         >
-          {guideContent.ctaLabel} →
+          {guideContent.ctaLabel} ->
         </a>
       </div>
     </section>
 
-    <section class="py-16 px-4 border-t border-white/5 bg-white/[0.01] relative z-10">
-      <div class="max-w-3xl mx-auto">
-        <div class="glass p-8 rounded-2xl flex flex-col md:flex-row items-center gap-8 border-dashed border-white/10" data-sr="fade-up">
-          <div class="w-24 h-24 rounded-full bg-gradient-to-br from-emerald-500 to-blue-600 flex items-center justify-center text-3xl shrink-0 shadow-lg shadow-emerald-500/20">
-            📊
+    <section class="relative z-10 border-t border-white/5 bg-white/[0.01] px-4 py-16">
+      <div class="mx-auto max-w-3xl">
+        <div class="glass flex flex-col items-center gap-8 rounded-2xl border-dashed border-white/10 p-8 md:flex-row" data-sr="fade-up">
+          <div class="flex h-24 w-24 shrink-0 items-center justify-center rounded-full bg-gradient-to-br from-emerald-500 to-blue-600 text-3xl shadow-lg shadow-emerald-500/20">
+            i
           </div>
           <div class="text-center md:text-left">
-            <span class="text-[10px] font-mono uppercase tracking-[0.2em] text-emerald-400 mb-2 block">Autoridad pedagogica</span>
-            <h3 class="text-xl font-bold mb-3">Equipo de investigacion World Exams</h3>
-            <p class="text-white/50 text-sm leading-relaxed mb-4">
+            <span class="mb-2 block text-[10px] font-mono uppercase tracking-[0.2em] text-emerald-400">Autoridad pedagogica</span>
+            <h3 class="mb-3 text-xl font-bold text-white">Equipo de investigacion World Exams</h3>
+            <p class="mb-4 text-sm leading-relaxed text-white/50">
               {guideContent.authoritySummary}
             </p>
-            <div class="flex flex-wrap justify-center md:justify-start gap-4">
-              <span class="text-[9px] bg-white/5 px-2 py-1 rounded border border-white/10 text-white/40 uppercase">Runtime compartido por tenant</span>
-              <span class="text-[9px] bg-white/5 px-2 py-1 rounded border border-white/10 text-white/40 uppercase">{guideContent.authorityUpdatedLabel}</span>
+            <div class="flex flex-wrap justify-center gap-4 md:justify-start">
+              <span class="rounded border border-white/10 bg-white/5 px-2 py-1 text-[9px] uppercase text-white/40">Runtime compartido por tenant</span>
+              <span class="rounded border border-white/10 bg-white/5 px-2 py-1 text-[9px] uppercase text-white/40">{guideContent.authorityUpdatedLabel}</span>
             </div>
           </div>
         </div>

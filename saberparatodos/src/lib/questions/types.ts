@@ -2,6 +2,7 @@ import type { AppQuestion } from '../api-service';
 
 export interface QuestionSelectionRequest {
   grade: number;
+  countryCode?: string;
   subject: string | null;
   count: number;
   useDiagnostic?: boolean;

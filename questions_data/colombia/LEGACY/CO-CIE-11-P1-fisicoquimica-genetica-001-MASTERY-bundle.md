@@ -14,21 +14,21 @@ total_questions: 20
 
 # MASTERY Bundle — fisicoquimica-genetica — Grado 11 — Período 1
 
-**País:** Colombia | **Exam:** ICFES | **Tema:** Fisicoquímica y Genética  
+**País:** Colombia | **Exam:** ICFES | **Tema:** Fisicoquímica y Genética
 **Bundle ID:** CO-CIE-11-P1-fisicoquimica-genetica-001 | **Total:** 20 preguntas
 
 ---
 
 ## Pregunta 1 — D3
 
-**Tipo:** Opción múltiple  
+**Tipo:** Opción múltiple
 **Dificultad:** D3 — Reconocimiento básico
 
 La tabla periódica organiza los elementos químicos en grupos y períodos. ¿Cuál de los siguientes elementos pertenece al grupo de los halógenos?
 
-A) Sodio (Na)  
-B) Oxígeno (O)  
-C) Cloro (Cl)  
+A) Sodio (Na)
+B) Oxígeno (O)
+C) Cloro (Cl)
 D) Nitrógeno (N)
 
 **Respuesta correcta:** C
@@ -39,14 +39,14 @@ D) Nitrógeno (N)
 
 ## Pregunta 2 — D3
 
-**Tipo:** Opción múltiple  
+**Tipo:** Opción múltiple
 **Dificultad:** D3 — Reconocimiento básico
 
 En una reacción química, los reactivos se encuentran al inicio del proceso. ¿Cuál de las siguientes opciones representa correctamente la ley de conservación de la masa?
 
-A) La masa de los reactivos es mayor que la masa de los productos  
-B) La masa de los productos es mayor que la masa de los reactivos  
-C) La masa total de los reactivos es igual a la masa total de los productos  
+A) La masa de los reactivos es mayor que la masa de los productos
+B) La masa de los productos es mayor que la masa de los reactivos
+C) La masa total de los reactivos es igual a la masa total de los productos
 D) La masa puede variar libremente durante la reacción
 
 **Respuesta correcta:** C
@@ -57,7 +57,7 @@ D) La masa puede variar libremente durante la reacción
 
 ## Pregunta 3 — D4
 
-**Tipo:** Opción múltiple  
+**Tipo:** Opción múltiple
 **Dificultad:** D4 — Comprensión básica
 
 El siguiente esquema representa la estructura del ADN:
@@ -69,9 +69,9 @@ Cadena 2: T - A - C - G - A - T
 
 ¿A qué principio biológico corresponde el emparejamiento mostrado entre las dos cadenas?
 
-A) Traducción  
-B) Replicación  
-C) Complementariedad de bases nitrogenadas  
+A) Traducción
+B) Replicación
+C) Complementariedad de bases nitrogenadas
 D) Síntesis de proteínas
 
 **Respuesta correcta:** C
@@ -82,14 +82,14 @@ D) Síntesis de proteínas
 
 ## Pregunta 4 — D4
 
-**Tipo:** Opción múltiple  
+**Tipo:** Opción múltiple
 **Dificultad:** D4 — Comprensión básica
 
 En la Serranía de la Macarena (Meta, Colombia), un grupo de investigadores estudia una población de ranas que presenta variaciones en el color de su piel. Si el color verde (V) es dominante sobre el color café (v), ¿cuál será el fenotipo de un individuo con genotipo Vv?
 
-A) Verde, porque tiene alelo dominante  
-B) Café, porque tiene alelo recesivo  
-C) Mestizo, con tonos verdes y café  
+A) Verde, porque tiene alelo dominante
+B) Café, porque tiene alelo recesivo
+C) Mestizo, con tonos verdes y café
 D) Sin pigmentación
 
 **Respuesta correcta:** A
@@ -100,7 +100,7 @@ D) Sin pigmentación
 
 ## Pregunta 5 — D5
 
-**Tipo:** Opción múltiple  
+**Tipo:** Opción múltiple
 **Dificultad:** D5 — Aplicación
 
 En un laboratorio del Instituto Nacional de Cancerología en Bogotá, se realiza la siguiente reacción química:
@@ -111,30 +111,30 @@ En un laboratorio del Instituto Nacional de Cancerología en Bogotá, se realiza
 
 Si reaccionan 4 gramos de H₂ con cantidad suficiente de O₂, ¿cuántos gramos de H₂O se producen?
 
-A) 18 g  
-B) 36 g  
-C) 9 g  
+A) 18 g
+B) 36 g
+C) 9 g
 D) 4 g
 
 **Respuesta correcta:** B
 
-**Explicación:**  
-Masa molar H₂ = 2 g/mol, moles de H₂ = 4/2 = 2 mol.  
-Por estequiometría, 2 mol H₂ producen 2 mol H₂O (relación 1:1).  
+**Explicación:**
+Masa molar H₂ = 2 g/mol, moles de H₂ = 4/2 = 2 mol.
+Por estequiometría, 2 mol H₂ producen 2 mol H₂O (relación 1:1).
 Masa molar H₂O = 18 g/mol, masa de H₂O = 2 × 18 = 36 g.
 
 ---
 
 ## Pregunta 6 — D5
 
-**Tipo:** Opción múltiple  
+**Tipo:** Opción múltiple
 **Dificultad:** D5 — Aplicación
 
 Un estudiante del Colegio Nacional José María Córdoba en Popayán realiza un experimento de enlace iónico entre sodio (Na, Z=11) y cloro (Cl, Z=17). ¿Cuál es la configuración electrónica que resulta en el ion más estable de cada elemento?
 
-A) Na⁺: 2, 8, 1 — Cl⁻: 2, 8, 8  
-B) Na⁺: 2, 8 — Cl⁻: 2, 8, 8  
-C) Na⁺: 2, 8, 8 — Cl⁻: 2, 8, 7  
+A) Na⁺: 2, 8, 1 — Cl⁻: 2, 8, 8
+B) Na⁺: 2, 8 — Cl⁻: 2, 8, 8
+C) Na⁺: 2, 8, 8 — Cl⁻: 2, 8, 7
 D) Na⁺: 2, 8, 1 — Cl⁻: 2, 8, 7
 
 **Respuesta correcta:** B
@@ -145,21 +145,21 @@ D) Na⁺: 2, 8, 1 — Cl⁻: 2, 8, 7
 
 ## Pregunta 7 — D5
 
-**Tipo:** Opción múltiple  
+**Tipo:** Opción múltiple
 **Dificultad:** D5 — Aplicación
 
 En la especie humana, el daltonismo (ceguera al color) es una condición recesiva ligada al cromosoma X. Si una mujer portadora (XᴰXᵈ) se casa con un hombre normal (XY), ¿cuál es la probabilidad de que su primer hijo sea un niño daltónico?
 
-A) 0%  
-B) 25%  
-C) 50%  
+A) 0%
+B) 25%
+C) 50%
 D) 75%
 
 **Respuesta correcta:** C
 
-**Explicación:** Cruzando XᴰXᵈ × XY:  
-- Hijos: XᴰY (normal) 50%, XᵈY (daltónico) 50%  
-- Hijas: XᴰXᴰ (normal) 25%, XᴰXᵈ (portadora) 25%  
+**Explicación:** Cruzando XᴰXᵈ × XY:
+- Hijos: XᴰY (normal) 50%, XᵈY (daltónico) 50%
+- Hijas: XᴰXᴰ (normal) 25%, XᴰXᵈ (portadora) 25%
 
 La probabilidad de que sea niño y daltónico es: 1/2 (niño) × 1/2 (daltónico) = 1/4 = 25%, pero dado que ES niño (XᵈY), la probabilidad condicional es 50%.
 
@@ -167,7 +167,7 @@ La probabilidad de que sea niño y daltónico es: 1/2 (niño) × 1/2 (daltónico
 
 ## Pregunta 8 — D6
 
-**Tipo:** Opción múltiple  
+**Tipo:** Opción múltiple
 **Dificultad:** D6 — Aplicación avanzada
 
 La siguiente ecuación representa la fotosíntesis:
@@ -180,30 +180,30 @@ Un cultivo de palma de aceite en la región del Magdalena Medio colombiano neces
 
 (Peso atómico: C=12, H=1, O=16; R=0,082 L·atm/mol·K)
 
-A) 22,4 L  
-B) 134,4 L  
-C) 44,8 L  
+A) 22,4 L
+B) 134,4 L
+C) 44,8 L
 D) 89,6 L
 
 **Respuesta correcta:** B
 
-**Explicación:**  
-Moles de glucosa = 180 g / 180 g/mol = 1 mol  
-Por estequiometría: 6 mol CO₂ por 1 mol C₆H₁₂O₆ → se necesitan 6 mol CO₂  
+**Explicación:**
+Moles de glucosa = 180 g / 180 g/mol = 1 mol
+Por estequiometría: 6 mol CO₂ por 1 mol C₆H₁₂O₆ → se necesitan 6 mol CO₂
 V = nRT/P = 6 × 0,082 × 273 / 1 = 134,4 L
 
 ---
 
 ## Pregunta 9 — D6
 
-**Tipo:** Opción múltiple  
+**Tipo:** Opción múltiple
 **Dificultad:** D6 — Aplicación avanzada
 
 En un ecosistema de paramo en el páramo de Sumapaz (Cundinamarca, Colombia), la energía fluye desde los productores hacia los consumidores. ¿Cuál es la principal razón por la cual la energía disponible disminuye en cada nivel trófico?
 
-A) Los organismos consumen toda la energía  
-B) Se disipa como calor en los procesos metabólicos  
-C) La energía se multiplica en cada nivel  
+A) Los organismos consumen toda la energía
+B) Se disipa como calor en los procesos metabólicos
+C) La energía se multiplica en cada nivel
 D) Los productores generan más energía de la necesaria
 
 **Respuesta correcta:** B
@@ -214,20 +214,20 @@ D) Los productores generan más energía de la necesaria
 
 ## Pregunta 10 — D6
 
-**Tipo:** Opción múltiple  
+**Tipo:** Opción múltiple
 **Dificultad:** D6 — Aplicación avanzada
 
 La siguientes frases corresponden a las leyes de Mendel:
 
-I. "Los alelos se separan durante la formación de los gametos"  
-II. "Los factores para dos o más caracteres se distribuyen de forma independiente"  
+I. "Los alelos se separan durante la formación de los gametos"
+II. "Los factores para dos o más caracteres se distribuyen de forma independiente"
 III. "Los caracteres dominantes ocultan a los recesivos"
 
 ¿Cuál es la relación correcta?
 
-A) I → Ley de segregación, II → Ley de dominancia, III → Ley de distribución independiente  
-B) I → Ley de segregación, II → Ley de distribución independiente, III → Ley de dominancia  
-C) I → Ley de distribución independiente, II → Ley de segregación, III → Ley de dominancia  
+A) I → Ley de segregación, II → Ley de dominancia, III → Ley de distribución independiente
+B) I → Ley de segregación, II → Ley de distribución independiente, III → Ley de dominancia
+C) I → Ley de distribución independiente, II → Ley de segregación, III → Ley de dominancia
 D) I → Ley de dominancia, II → Ley de segregación, III → Ley de distribución independiente
 
 **Respuesta correcta:** B
@@ -238,7 +238,7 @@ D) I → Ley de dominancia, II → Ley de segregación, III → Ley de distribuc
 
 ## Pregunta 11 — D7
 
-**Tipo:** Opción múltiple  
+**Tipo:** Opción múltiple
 **Dificultad:** D7 — Análisis
 
 En una zona cafeter a de Huila, Colombia, el suelo presenta un pH de 5,2. Un ingeniero agrónomo aplica cal agrícola (Ca(OH)₂) para corregir la acidez. ¿Cuál es el efecto esperado sobre la concentración de iones hidrógeno [H⁺] y el pH de la solución?
@@ -258,7 +258,7 @@ En una zona cafeter a de Huila, Colombia, el suelo presenta un pH de 5,2. Un ing
 
 ## Pregunta 12 — D7
 
-**Tipo:** Opción múltiple  
+**Tipo:** Opción múltiple
 **Dificultad:** D7 — Análisis
 
 El siguiente pedigree muestra la herencia de una enfermedad genética en una familia colombiana:
@@ -272,9 +272,9 @@ Generación III: [♀ afectada] [♀ portadora] [♂ no afectado]
 
 Analizando el patrón de herencia, ¿cuál es el tipo de herencia más probable?
 
-A) Autosómica dominante  
-B) Autosómica recesiva  
-C) Ligada al X dominante  
+A) Autosómica dominante
+B) Autosómica recesiva
+C) Ligada al X dominante
 D) Ligada al X recesiva
 
 **Respuesta correcta:** D
@@ -285,14 +285,14 @@ D) Ligada al X recesiva
 
 ## Pregunta 13 — D7
 
-**Tipo:** Opción múltiple  
+**Tipo:** Opción múltiple
 **Dificultad:** D7 — Análisis
 
 La cinética química estudia la velocidad de las reacciones. En una reacción en el Valle de Aburrá (Antioquia), un estudiante observa que al aumentar la temperatura de 25°C a 45°C, la velocidad de reacción se triplica. ¿Cuál fenómeno microscópico explica esta observación?
 
-A) Mayor número de colisiones con energía suficiente para superar la energía de activación  
-B) Menor energía de activación de la reacción  
-C) Aumento en la concentración de reactivos  
+A) Mayor número de colisiones con energía suficiente para superar la energía de activación
+B) Menor energía de activación de la reacción
+C) Aumento en la concentración de reactivos
 D) Cambio en el mecanismo de reacción
 
 **Respuesta correcta:** A
@@ -303,35 +303,35 @@ D) Cambio en el mecanismo de reacción
 
 ## Pregunta 14 — D8
 
-**Tipo:** Opción múltiple  
+**Tipo:** Opción múltiple
 **Dificultad:** D8 — Análisis avanzado
 
 Una muestra de agua del río Bogotá se analiza y se encuentra que la [OH⁻] = 1 × 10⁻⁵ M. ¿Cuál es el pH y el tipo de solución respectivamente?
 
-A) pH = 9, básica  
-B) pH = 5, ácida  
-C) pH = 9, ácida  
+A) pH = 9, básica
+B) pH = 5, ácida
+C) pH = 9, ácida
 D) pH = 5, básica
 
 **Respuesta correcta:** A
 
-**Explicación:**  
-pOH = -log[OH⁻] = -log(1 × 10⁻⁵) = 5  
-pH = 14 - pOH = 14 - 5 = 9  
+**Explicación:**
+pOH = -log[OH⁻] = -log(1 × 10⁻⁵) = 5
+pH = 14 - pOH = 14 - 5 = 9
 Como pH > 7, la solución es básica. Esto es consistente con un agua contaminada por residuos industriales en el caso del río Bogotá.
 
 ---
 
 ## Pregunta 15 — D8
 
-**Tipo:** Opción múltiple  
+**Tipo:** Opción múltiple
 **Dificultad:** D8 — Análisis avanzado
 
 En el proceso de transcripción del ADN en células de la palma africana en la Orinoquía colombiana, la enzima ARN polimerasa sintetiza una molécula de ARN mensajero (ARNm) a partir de una hebra de ADN. ¿Cuál de las siguientes opciones describe correctamente la diferencia fundamental entre el ADN y el ARN en este contexto?
 
-A) El ARN contiene timina en lugar de adenina  
-B) El ARN es de doble cadena mientras que el ADN es de cadena simple  
-C) El ARN contiene uracilo en lugar de timina y es generalmente de cadena simple  
+A) El ARN contiene timina en lugar de adenina
+B) El ARN es de doble cadena mientras que el ADN es de cadena simple
+C) El ARN contiene uracilo en lugar de timina y es generalmente de cadena simple
 D) El ARN tiene ribosa y el ADN tiene desoxirribosa, pero ambos son de doble cadena
 
 **Respuesta correcta:** C
@@ -342,28 +342,28 @@ D) El ARN tiene ribosa y el ADN tiene desoxirribosa, pero ambos son de doble cad
 
 ## Pregunta 16 — D8
 
-**Tipo:** Opción múltiple  
+**Tipo:** Opción múltiple
 **Dificultad:** D8 — Análisis avanzado
 
 En el departamento del Chocó, una población de回去改 butterfly presenta un equilibrio de Hardy-Weinberg para el gen que controla la pigmentación de las alas. Si la frecuencia del alelo recesivo (q) para alas blancas es 0,3, ¿cuál es la frecuencia esperada de individuos heterocigotos (2pq)?
 
-A) 0,09  
-B) 0,42  
-C) 0,51  
+A) 0,09
+B) 0,42
+C) 0,51
 D) 0,7
 
 **Respuesta correcta:** B
 
-**Explicación:**  
-p + q = 1 → p = 1 - 0,3 = 0,7  
-Frecuencia de heterocigotos = 2pq = 2 × 0,7 × 0,3 = 0,42  
+**Explicación:**
+p + q = 1 → p = 1 - 0,3 = 0,7
+Frecuencia de heterocigotos = 2pq = 2 × 0,7 × 0,3 = 0,42
 La frecuencia heterocigoto esperada es 42%. El equilibrio de Hardy-Weinberg permite predecir frecuencias genotípicas en poblaciones ideales.
 
 ---
 
 ## Pregunta 17 — D9
 
-**Tipo:** Opción múltiple  
+**Tipo:** Opción múltiple
 **Dificultad:** D9 — Evaluación
 
 La empresa ECOPETROL estudia la oxidación del metano en los yacimientos del piedemonte llanero:
@@ -374,32 +374,32 @@ CH₄(g) + 2 O₂(g) → CO₂(g) + 2 H₂O(l)   ΔH = -890 kJ/mol
 
 Un ingeniero afirma: "Si se queman 32 g de metano, se liberan 890 kJ de energía." ¿Es válida esta afirmación? Justifique.
 
-A) Sí, porque 32 g de metano corresponden a 2 moles y 2 × (-890) = -1780 kJ  
-B) No, porque 32 g de metano corresponden a 2 moles y se liberan 1780 kJ, no 890 kJ  
-C) Sí, porque 32 g = 1 mol de metano y el ΔH indica la energía por mol  
+A) Sí, porque 32 g de metano corresponden a 2 moles y 2 × (-890) = -1780 kJ
+B) No, porque 32 g de metano corresponden a 2 moles y se liberan 1780 kJ, no 890 kJ
+C) Sí, porque 32 g = 1 mol de metano y el ΔH indica la energía por mol
 D) No, porque la reacción es endotérmica y absorbe energía
 
 **Respuesta correcta:** B
 
-**Explicación:**  
-Masa molar del CH₄ = 12 + 4(1) = 16 g/mol  
-Moles de CH₄ en 32 g = 32/16 = 2 mol  
+**Explicación:**
+Masa molar del CH₄ = 12 + 4(1) = 16 g/mol
+Moles de CH₄ en 32 g = 32/16 = 2 mol
 ΔH = -890 kJ/mol es por cada mol de CH₄. Para 2 moles: 2 × (-890) = -1780 kJ. El signo negativo indica que la reacción es EXOTÉRMICA (libera energía). La afirmación original es incorrecta por no considerar la estequiometría.
 
 ---
 
 ## Pregunta 18 — D9
 
-**Tipo:** Opción múltiple  
+**Tipo:** Opción múltiple
 **Dificultad:** D9 — Evaluación
 
 En el Valle del Cauca, se cruz una planta de gulupa (Passiflora ligularis) de frutos morados-redondos (genotipo AABB) con una de frutos amarillos-ovalados (genotipo aabb). La descendencia F1 se autofecunda y en la F2 se obtienen 9 morados-redondos, 3 morados-ovalados, 3 amarillos-redondos y 1 amarillo-ovalado.
 
 ¿Cómo se interpreta este resultado desde la perspectiva de las leyes de Mendel?
 
-A) Los genes están completamente ligados y no segregan independientemente  
-B) Los genes segregan independientemente y presentan herencia dominante-recesiva para ambos caracteres  
-C) Los genes muestran herencia intermedia y linked cromosómico perfecto  
+A) Los genes están completamente ligados y no segregan independientemente
+B) Los genes segregan independientemente y presentan herencia dominante-recesiva para ambos caracteres
+C) Los genes muestran herencia intermedia y linked cromosómico perfecto
 D) Los genes están en el mismo cromosoma pero presentan recombinación homóloga
 
 **Respuesta correcta:** B
@@ -410,7 +410,7 @@ D) Los genes están en el mismo cromosoma pero presentan recombinación homólog
 
 ## Pregunta 19 — D10
 
-**Tipo:** Opción múltiple  
+**Tipo:** Opción múltiple
 **Dificultad:** D10 — Síntesis
 
 En un ecosistema de manglar en la bahía de Cispatá (Córdoba, Colombia), un investigador estudia el bioacumulación de mercurio en la cadena trófica. Los datos collected son:
@@ -424,9 +424,9 @@ En un ecosistema de manglar en la bahía de Cispatá (Córdoba, Colombia), un in
 
 Analizando este fenómeno biológicamente, ¿cuál afirmación es correcta?
 
-A) Es un caso de biomagnificación porque la concentración aumenta en cada nivel trófico  
-B) Es un caso de bioabsorción pasiva sin relación con la cadena trófica  
-C) La concentración disminuye porque los depredadores metabolizan el mercurio  
+A) Es un caso de biomagnificación porque la concentración aumenta en cada nivel trófico
+B) Es un caso de bioabsorción pasiva sin relación con la cadena trófica
+C) La concentración disminuye porque los depredadores metabolizan el mercurio
 D) El mercurio se diluye en los consumidores de mayor tamaño
 
 **Respuesta correcta:** A
@@ -437,22 +437,22 @@ D) El mercurio se diluye en los consumidores de mayor tamaño
 
 ## Pregunta 20 — D10
 
-**Tipo:** Opción múltiple  
+**Tipo:** Opción múltiple
 **Dificultad:** D10 — Síntesis
 
 En un centro de investigación genética de la Universidad de los Andes en Bogotá, se trabaja con ratones de laboratorio para estudiar una enfermedad metabólica. El cruzamiento de un ratón macho diheterozigoto (AaBb) con una hembra同样 diheterozigoto (AaBb) produce 64 descendientes. Considerando segregación independiente, ¿cuántos ratones se esperan con genotipo exactamente igual al padre (AaBb)?
 
-A) 4  
-B) 8  
-C) 16  
+A) 4
+B) 8
+C) 16
 D) 36
 
 **Respuesta correcta:** C
 
-**Explicación:**  
-Usando el cuadro de Punnett dihíbrido con segregación independiente:  
-- Frecuencia genotípica de AaBb = 4/16 = 1/4 (genotipos dihíbridos en la offspring F2 de un cruce AaBb × AaBb)  
-- Total de descendientes = 64  
-- Esperados AaBb = 64 × (4/16) = 64 × 1/4 = 16  
+**Explicación:**
+Usando el cuadro de Punnett dihíbrido con segregación independiente:
+- Frecuencia genotípica de AaBb = 4/16 = 1/4 (genotipos dihíbridos en la offspring F2 de un cruce AaBb × AaBb)
+- Total de descendientes = 64
+- Esperados AaBb = 64 × (4/16) = 64 × 1/4 = 16
 
 La proporción fenotípica 9:3:3:1 corresponde a 16 fenotipos totales; los genotipos dihíbridos (AaBb) aparecen con la mayor frecuencia entre los genotipos posibles.

@@ -1,5 +1,6 @@
 import type { AppQuestion } from '../api-service';
 import { passesGrade11PreicfesPolicy } from '../questions/policy';
+import { isPreuCountrySupported } from './catalog';
 
 const rawPreuBundles = import.meta.glob('../../../../questions_data/colombia/preuniversitario/**/*.md', {
   eager: true,
@@ -26,6 +27,7 @@ type BundleFrontmatter = {
   asignatura: string;
   tema: string;
   protocol_version?: string;
+  quarantine?: boolean;
 };
 
 function shuffle<T>(items: T[]): T[] {
@@ -66,6 +68,7 @@ export function parsePreuFrontmatter(source: string): { frontmatter: BundleFront
       asignatura: values.asignatura,
       tema: values.tema,
       protocol_version: values.protocol_version,
+      quarantine: values.quarantine === 'true',
     },
     body,
   };
@@ -143,14 +146,18 @@ function matchesUniversity(questionId: string, preuUniversity?: string): boolean
 export function parseRawPreuBundles(rawBundles: Record<string, string>, preuUniversity?: string): AppQuestion[] {
   const allQuestions = Object.values(rawBundles).flatMap((rawBundle) => {
     const parsed = parsePreuFrontmatter(rawBundle);
-    if (!parsed) return [];
+    if (!parsed || parsed.frontmatter.quarantine) return [];
     return parsePreuBundleQuestions(parsed.frontmatter, parsed.body);
   });
 
   return allQuestions.filter((question) => matchesUniversity(question.id, preuUniversity));
 }
 
-export function getPreuQuestionBank(preuUniversity?: string): AppQuestion[] {
+export function getPreuQuestionBank(countryCode?: string, preuUniversity?: string): AppQuestion[] {
+  if (!isPreuCountrySupported(countryCode)) {
+    return [];
+  }
+
   return parseRawPreuBundles(rawPreuBundles, preuUniversity);
 }
 

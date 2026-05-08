@@ -4,6 +4,7 @@ import Navbar from '../components/Navbar.astro';
 import Footer from '../components/Footer.astro';
 import CookieConsent from '../components/CookieConsent.svelte';
 import VersionBadge from '../components/VersionBadge.svelte';
+import CountryBanner from '../components/CountryBanner.astro';
 import GlobalFeedbackButton from '../components/GlobalFeedbackButton.svelte';
 import packageInfo from '../../package.json';
 
@@ -19,9 +20,20 @@ interface Props {
   noindex?: boolean;
   showNavbar?: boolean;
   showFooter?: boolean;
+  showCountryBanner?: boolean;
 }
 
-import { countryConfig } from '../config';
+import {
+  getCountryExamSlug,
+  resolveRuntimeCountryConfig,
+} from '../config';
+
+const countryConfig = resolveRuntimeCountryConfig(Astro.locals.country);
+const apiConfig = {
+  apiBaseUrl: import.meta.env.PUBLIC_API_BASE_URL || '/api',
+  countryCode: Astro.locals.countryCode || countryConfig.code,
+  exam: getCountryExamSlug(countryConfig),
+};
 
 const {
   title = `${countryConfig.product.siteName} | ${countryConfig.examName}`,
@@ -31,7 +43,8 @@ const {
   type = "website",
   noindex = false,
   showNavbar = true,
-  showFooter = true
+  showFooter = true,
+  showCountryBanner = true
 } = Astro.props;
 
 const productionSiteUrl = countryConfig.product.siteUrl.replace(/\/$/, '');
@@ -94,6 +107,7 @@ const webAppSchema = {
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script is:inline type="application/json" id="api-config" set:html={JSON.stringify(apiConfig)} />
 
     <!-- 🛡️ Global Error Guard & JS Detection -->
     <script is:inline>
@@ -147,6 +161,23 @@ const webAppSchema = {
 
     <!-- Critical CSS (inline para evitar render-blocking) -->
     <style set:html={criticalCSS}></style>
+
+    <!-- Theme CSS Variables -->
+    <style is:inline define:vars={{
+      colorPrimary: countryConfig.theme.primary,
+      colorSecondary: countryConfig.theme.secondary,
+      colorAccent: countryConfig.theme.accent,
+      colorBackground: countryConfig.theme.bgDark,
+      colorText: countryConfig.theme.textPrimary
+    }}>
+      :root {
+        --color-primary: var(--colorPrimary);
+        --color-secondary: var(--colorSecondary);
+        --color-accent: var(--colorAccent);
+        --color-background: var(--colorBackground);
+        --color-text: var(--colorText);
+      }
+    </style>
 
     <!-- SEO -->
 		<title>{title}</title>
@@ -244,6 +275,8 @@ const webAppSchema = {
 
     {showNavbar && <Navbar />}
 
+    {showCountryBanner && <CountryBanner currentCountry={Astro.locals.countryCode} />}
+
     <main class="flex-1">
 		  <slot />
     </main>
@@ -252,8 +285,8 @@ const webAppSchema = {
 
     {enableAuxClientWidgets && (
       <>
-        <!-- Cookie Consent Banner (GDPR/AdSense Compliance) -->
-        <CookieConsent client:only="svelte" />
+        <!-- Cookie Consent Banner removed — all data stored locally in user browser, no server-side tracking -->
+        <!-- <CookieConsent client:only="svelte" /> -->
 
         <!-- Version Badge with Update Notifications -->
         <VersionBadge client:only="svelte" position="bottom-left" showOnlyOnUpdate={import.meta.env.PROD} />

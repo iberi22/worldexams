@@ -1,6 +1,6 @@
 {
   "version": "4.1",
-  "generated_at": "2026-03-05T00:34:52.043191Z",
+  "generated_at": "2026-04-24T18:35:19.128499Z",
   "entries": [
     {
       "question_id": "CO-ENG-11-functions-001-PRO-v9",
@@ -1101,6 +1101,12 @@
       "bundle_assets_path": "src/content/questions/colombia/matematicas/grado-11/periodo-1/CO-MAT-11-trigonometry-001-PRO-v4-bundle.md.assets",
       "status": "pending_generation",
       "updated_at": "2026-03-04T17:59:56.954Z"
+    },
+    {
+      "question_id": "CO-MAT-10-real-numbers-001-PRO-v1",
+      "protocol_version": "4.1",
+      "status": "generated",
+      "updated_at": "2026-04-24T18:35:19.128485Z"
     }
   ],
   "defaults": {

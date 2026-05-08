@@ -29,10 +29,10 @@ license: "CC BY-NC-SA 4.0"
 
 Last night, I _____ to a concert with my friends. We _____ a great time.
 
-A) go / have  
-B) went / had [x]  
-C) goed / had  
-D) went / have  
+A) go / have
+B) went / had [x]
+C) goed / had
+D) went / have
 
 ---
 
@@ -41,10 +41,10 @@ D) went / have
 
 She _____ her keys at home, so she couldn't open the door.
 
-A) left [x]  
-B) leaved  
-C) leaven  
-D) has left  
+A) left [x]
+B) leaved
+C) leaven
+D) has left
 
 ---
 
@@ -53,10 +53,10 @@ D) has left
 
 When I was a child, I _____ to the beach every summer with my family.
 
-A) used to go [x]  
-B) use to go  
-C) used to went  
-D) used to going  
+A) used to go [x]
+B) use to go
+C) used to went
+D) used to going
 
 ---
 
@@ -65,10 +65,10 @@ D) used to going
 
 They _____ the movie yet. That's why they don't want to go out tonight.
 
-A) haven't finished [x]  
-B) didn't finish  
-C) doesn't finish  
-D) not finish  
+A) haven't finished [x]
+B) didn't finish
+C) doesn't finish
+D) not finish
 
 ---
 
@@ -81,10 +81,10 @@ D) not finish
 
 While I _____ (wait) for the bus, it _____ (start) to rain heavily.
 
-A) waited / started  
-B) was waiting / started [x]  
-C) was waiting / was starting  
-D) waited / was starting  
+A) waited / started
+B) was waiting / started [x]
+C) was waiting / was starting
+D) waited / was starting
 
 ---
 
@@ -93,10 +93,10 @@ D) waited / was starting
 
 By the time we reached the station, the train _____.
 
-A) already left  
-B) had already left [x]  
-C) has already left  
-D) was leaving  
+A) already left
+B) had already left [x]
+C) has already left
+D) was leaving
 
 ---
 
@@ -105,10 +105,10 @@ D) was leaving
 
 Next year, my family _____ to a larger house because we need more space.
 
-A) will move  
-B) is going to move  
-C) both A and B are correct [x]  
-D) neither A nor B is correct  
+A) will move
+B) is going to move
+C) both A and B are correct [x]
+D) neither A nor B is correct
 
 ---
 
@@ -117,10 +117,10 @@ D) neither A nor B is correct
 
 If she _____ harder, she will pass the exam.
 
-A) study  
-B) studies [x]  
-C) studied  
-D) will study  
+A) study
+B) studies [x]
+C) studied
+D) will study
 
 ---
 
@@ -129,10 +129,10 @@ D) will study
 
 He asked me where I _____.
 
-A) live  
-B) lived [x]  
-C) lives  
-D) am living  
+A) live
+B) lived [x]
+C) lives
+D) am living
 
 ---
 
@@ -141,10 +141,10 @@ D) am living
 
 I wish I _____ more time to prepare for the presentation yesterday.
 
-A) have  
-B) had  
-C) had had [x]  
-D) would have  
+A) have
+B) had
+C) had had [x]
+D) would have
 
 ---
 
@@ -157,10 +157,10 @@ D) would have
 
 Had she _____ the warning signs, the accident could have been avoided.
 
-A) seen [x]  
-B) saw  
-C) see  
-D) seed  
+A) seen [x]
+B) saw
+C) see
+D) seed
 
 ---
 
@@ -169,10 +169,10 @@ D) seed
 
 By the year 2030, scientists _____ a cure for several common diseases.
 
-A) will have discovered [x]  
-B) discovered  
-C) will discover  
-D) had discovered  
+A) will have discovered [x]
+B) discovered
+C) will discover
+D) had discovered
 
 ---
 
@@ -181,10 +181,10 @@ D) had discovered
 
 If I were you, I _____ that job offer immediately.
 
-A) will accept  
-B) would accept [x]  
-C) would have accepted  
-D) accept  
+A) will accept
+B) would accept [x]
+C) would have accepted
+D) accept
 
 ---
 
@@ -193,10 +193,10 @@ D) accept
 
 She told me that she _____ the project by Friday.
 
-A) will finish  
-B) would finish [x]  
-C) finishes  
-D) finished  
+A) will finish
+B) would finish [x]
+C) finishes
+D) finished
 
 ---
 
@@ -205,10 +205,10 @@ D) finished
 
 The house _____ while we were away on vacation last summer.
 
-A) was broken into [x]  
-B) broke into  
-C) was breaking into  
-D) breaks into  
+A) was broken into [x]
+B) broke into
+C) was breaking into
+D) breaks into
 
 ---
 
@@ -217,10 +217,10 @@ D) breaks into
 
 I couldn't believe my eyes. I _____ such a beautiful sunset before.
 
-A) never saw  
-B) have never seen  
-C) had never seen [x]  
-D) never have seen  
+A) never saw
+B) have never seen
+C) had never seen [x]
+D) never have seen
 
 ---
 
@@ -233,10 +233,10 @@ D) never have seen
 
 _____ to the meeting earlier, we could have avoided the misunderstanding.
 
-A) Had we arrived [x]  
-B) If we arrived  
-C) Were we arriving  
-D) We had arrived  
+A) Had we arrived [x]
+B) If we arrived
+C) Were we arriving
+D) We had arrived
 
 ---
 
@@ -245,10 +245,10 @@ D) We had arrived
 
 By the time he retires, he _____ with the company for over 40 years.
 
-A) will have been working [x]  
-B) will work  
-C) would work  
-D) had been working  
+A) will have been working [x]
+B) will work
+C) would work
+D) had been working
 
 ---
 
@@ -257,10 +257,10 @@ D) had been working
 
 If the weather _____ better tomorrow, we _____ on a hike.
 
-A) is / will go  
-B) was / would go  
-C) were / would go [x]  
-D) is / would have gone  
+A) is / will go
+B) was / would go
+C) were / would go [x]
+D) is / would have gone
 
 ---
 
@@ -269,7 +269,7 @@ D) is / would have gone
 
 He behaved as though he _____ the owner of the place.
 
-A) is  
-B) was  
-C) were [x]  
-D) had been  
+A) is
+B) was
+C) were [x]
+D) had been

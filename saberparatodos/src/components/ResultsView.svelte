@@ -429,7 +429,8 @@
           userName: user?.email?.split('@')[0] || 'Tú',
           grade: examData.grade,
           subject: examData.subject,
-          score: examScore ? Math.round(examScore.stats.accuracy * 100) : 0,
+
+          score: examScore ? Math.round(examScore.stats.accuracy * 100) : 0,
           synced: true
         }}
         externalResults={roomResults}
@@ -446,9 +447,9 @@
       <div class="text-center space-y-4">
           <div class="flex flex-col items-center gap-2">
             <h2 class="text-3xl sm:text-4xl lg:text-5xl font-bold uppercase tracking-tighter">Resultados</h2>
-            
+
             <!-- Validation Status Badge -->
-            <div 
+            <div
               class="flex items-center gap-1.5 px-3 py-1 rounded-full border bg-black/40 backdrop-blur-sm transition-all animate-pulse"
               style="border-color: {statusMeta.color}33;"
               title={statusMeta.description}
