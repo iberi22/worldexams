@@ -55,7 +55,7 @@ Giving advice to someone who is making a decision too quickly.
 "Don't ______! You should read the contract carefully before you sign anything."
 
  A) bite the bullet
- B) beat around the bush
+ B) drop the matter
  C) [x] jump the gun
  D) call it a day
 
@@ -172,7 +172,7 @@ A literary critic describing the subtle impact of a writer's style.
 "She doesn't state her opinions directly; instead, she ______ in a way that challenges the reader to think."
 
  A) lets the cat out of the bag
- B) [x] beats around the bush
+ B) [x] reads between the lines
  C) goes against the grain
  D) throws caution to the wind
 
