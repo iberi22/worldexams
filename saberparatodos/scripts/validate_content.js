@@ -80,7 +80,7 @@ function isV4Bundle(frontmatter, filePath) {
 
 function getQuestionSections(body) {
   const sections = [];
-  const headerRegex = /^##\s+(?:Pregunta|Question)\s+\d+.*$/gim;
+  const headerRegex = /^##\s+(?:Pregunta|Question|Questão)\s+\d+.*$/gim;
   const matches = [];
   let m;
 
@@ -98,7 +98,7 @@ function getQuestionSections(body) {
 }
 
 function hasLegacySingleQuestion(body) {
-  return /(^|\n)#\s+Pregunta\b/i.test(body);
+  return /(^|\n)#\s+(?:Pregunta|Questão)\b/i.test(body);
 }
 
 function parseQuestionIdsFromSection(section) {
