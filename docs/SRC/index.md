@@ -1,8 +1,8 @@
 # Software Requirements Specification (SRC)
 
-**Proyecto:** WorldExams  
-**Versión:** 2.0  
-**Fecha:** 2026-04-02  
+**Proyecto:** WorldExams
+**Versión:** 2.0
+**Fecha:** 2026-04-02
 **Estado:** ACTIVE
 
 ---

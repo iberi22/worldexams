@@ -36,7 +36,7 @@ const bundlesWithQuality = countryQuestions.map(q => ({
   parsed: parseQuestionsFromBundle(q)
 }));
 
-const allParsedQuestions = bundlesWithQuality.flatMap(b => 
+const allParsedQuestions = bundlesWithQuality.flatMap(b =>
   b.parsed.map(q => ({
     ...q,
     bundleId: b.id,
@@ -115,7 +115,7 @@ const initialQuestions = allParsedQuestions.slice(0, 10);
   const filterButtons = document.querySelectorAll('.filter-btn');
   const filterStatus = document.getElementById('filter-status');
   const examContainer = document.getElementById('exam-container');
-  
+
   let currentFilter = 'all';
 
   function shuffleArray(array) {
@@ -129,7 +129,7 @@ const initialQuestions = allParsedQuestions.slice(0, 10);
 
   function applyFilter(filter) {
     currentFilter = filter;
-    
+
     // Update button styles
     filterButtons.forEach(btn => {
       const btnFilter = btn.getAttribute('data-filter');

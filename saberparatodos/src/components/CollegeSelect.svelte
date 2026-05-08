@@ -46,7 +46,7 @@
     searchQuery = query;
     selectedCollege = null;
     selectedCollegeId = '';
-    
+
     if (searchTimeout) clearTimeout(searchTimeout);
     searchTimeout = setTimeout(() => searchColleges(query), 300);
   }
@@ -104,7 +104,7 @@
           ✕
         </button>
       {/if}
-      
+
       {#if showDropdown && (filteredColleges.length > 0 || loading)}
         <div class="absolute z-10 w-full mt-1 bg-white border border-gray-200 rounded-lg shadow-lg max-h-60 overflow-y-auto">
           {#if loading}

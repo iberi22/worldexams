@@ -33,10 +33,10 @@ Dermatologists at the University of Miami conducted a study on sunscreen effecti
 ## Question 1 — D5
 What was the independent variable in this study?
 
-A) SPF rating  
-B) Time of exposure  
-C) Skin damage level  
-D) Number of participants  
+A) SPF rating
+B) Time of exposure
+C) Skin damage level
+D) Number of participants
 **[ ]** → **B**
 
 ---
@@ -44,10 +44,10 @@ D) Number of participants
 ## Question 2 — D5
 Based on Study 1, approximately what percentage of participants showed damage after 4 hours?
 
-A) 40%  
-B) 60%  
-C) 95%  
-D) 100%  
+A) 40%
+B) 60%
+C) 95%
+D) 100%
 **[ ]** → **B**
 
 ---
@@ -55,10 +55,10 @@ D) 100%
 ## Question 3 — D6
 Which of the following would be the best conclusion from Study 1?
 
-A) SPF 50 provides indefinite protection  
-B) SPF 50 effectiveness decreases over time  
-C) Sunscreen should never be reapplied  
-D) SPF 50 is ineffective  
+A) SPF 50 provides indefinite protection
+B) SPF 50 effectiveness decreases over time
+C) Sunscreen should never be reapplied
+D) SPF 50 is ineffective
 **[ ]** → **B**
 
 ---
@@ -66,10 +66,10 @@ D) SPF 50 is ineffective
 ## Question 4 — D6
 Study 1 would be strengthened if researchers:
 
-A) Used only one participant  
-B) Compared SPF 50 to lower SPF ratings  
-C) Only tested at 2 hours  
-D) Eliminated the control group  
+A) Used only one participant
+B) Compared SPF 50 to lower SPF ratings
+C) Only tested at 2 hours
+D) Eliminated the control group
 **[ ]** → **B**
 
 ---
@@ -77,10 +77,10 @@ D) Eliminated the control group
 ## Question 5 — D7
 A competing hypothesis suggests sunscreen effectiveness depends only on SPF rating, not reapplication. Which finding would most weaken this hypothesis?
 
-A) Higher SPF provides longer protection  
-B) Reapplying sunscreen improves protection even with high SPF  
-C) Participants with darker skin showed less damage  
-D) UV intensity varied during the study  
+A) Higher SPF provides longer protection
+B) Reapplying sunscreen improves protection even with high SPF
+C) Participants with darker skin showed less damage
+D) UV intensity varied during the study
 **[ ]** → **B**
 
 ---
@@ -88,10 +88,10 @@ D) UV intensity varied during the study
 ## Question 6 — D8
 To determine the optimal reapplication interval, researchers should:
 
-A) Test at 2-hour intervals for 10 hours  
-B) Compare 1-hour, 2-hour, and 4-hour reapplication schedules  
-C) Use only water-resistant sunscreen  
-D) Test on participants with identical skin types  
+A) Test at 2-hour intervals for 10 hours
+B) Compare 1-hour, 2-hour, and 4-hour reapplication schedules
+C) Use only water-resistant sunscreen
+D) Test on participants with identical skin types
 **[ ]** → **B**
 
 ---
@@ -103,7 +103,7 @@ D) Test on participants with identical skin types
 Researchers at the University of Georgia examined how acute aerobic exercise affects memory consolidation. Thirty college students were divided into three groups:
 
 - Group A: 30 minutes of moderate cycling immediately before learning
-- Group B: 30 minutes of moderate cycling 4 hours after learning  
+- Group B: 30 minutes of moderate cycling 4 hours after learning
 - Group C: No exercise (control)
 
 Memory was tested 48 hours later.
@@ -121,10 +121,10 @@ Memory was tested 48 hours later.
 ## Question 7 — D5
 Which group showed the best memory recall?
 
-A) Group A  
-B) Group B  
-C) Group C  
-D) Groups A and B equal  
+A) Group A
+B) Group B
+C) Group C
+D) Groups A and B equal
 **[ ]** → **A**
 
 ---
@@ -132,10 +132,10 @@ D) Groups A and B equal
 ## Question 8 — D5
 Compared to the control group, Group A showed an improvement of approximately:
 
-A) 10%  
-B) 20%  
-C) 35%  
-D) 50%  
+A) 10%
+B) 20%
+C) 35%
+D) 50%
 **[ ]** → **B**
 
 ---
@@ -143,10 +143,10 @@ D) 50%
 ## Question 9 — D6
 What can be concluded from this study?
 
-A) Exercise always improves memory  
-B) Exercise timing relative to learning affects memory  
-C) No exercise is better than any exercise  
-D) Cycling is the only effective exercise  
+A) Exercise always improves memory
+B) Exercise timing relative to learning affects memory
+C) No exercise is better than any exercise
+D) Cycling is the only effective exercise
 **[ ]** → **B**
 
 ---
@@ -154,10 +154,10 @@ D) Cycling is the only effective exercise
 ## Question 10 — D6
 Which finding suggests that timing of exercise matters?
 
-A) Group A performed better than Group C  
-B) Group B performed better than Group C  
-C) Group A performed better than Group B  
-D) All groups performed equally  
+A) Group A performed better than Group C
+B) Group B performed better than Group C
+C) Group A performed better than Group B
+D) All groups performed equally
 **[ ]** → **C**
 
 ---
@@ -165,10 +165,10 @@ D) All groups performed equally
 ## Question 11 — D7
 The researchers' conclusion would be most weakened by evidence that:
 
-A) Participants in all groups slept equally  
-B) Group A participants were generally younger  
-C) Participants knew which group they were in  
-D) All groups had equal baseline memory  
+A) Participants in all groups slept equally
+B) Group A participants were generally younger
+C) Participants knew which group they were in
+D) All groups had equal baseline memory
 **[ ]** → **B**
 
 ---
@@ -176,10 +176,10 @@ D) All groups had equal baseline memory
 ## Question 12 — D8
 To isolate the effect of exercise timing, researchers should control for:
 
-A) Participant age, sleep quality, and baseline memory  
-B) Only the type of exercise performed  
-C) Only the time of day  
-D) Only the intensity of exercise  
+A) Participant age, sleep quality, and baseline memory
+B) Only the type of exercise performed
+C) Only the time of day
+D) Only the intensity of exercise
 **[ ]** → **A**
 
 ---
@@ -190,7 +190,7 @@ D) Only the intensity of exercise
 
 Biologists at Cornell University investigated how pesticide exposure affects honey bee foraging behavior. Two groups of bees were tagged and released 2 km from their hive.
 
-- Exposed group: Bees previously exposed to neonicotinoid pesticides  
+- Exposed group: Bees previously exposed to neonicotinoid pesticides
 - Control group: Untreated bees
 
 The number of bees returning within 24 hours was recorded.
@@ -207,10 +207,10 @@ The number of bees returning within 24 hours was recorded.
 ## Question 13 — D5
 What was the approximate return rate for the exposed group?
 
-A) 25%  
-B) 45%  
-C) 65%  
-D) 82%  
+A) 25%
+B) 45%
+C) 65%
+D) 82%
 **[ ]** → **B**
 
 ---
@@ -218,10 +218,10 @@ D) 82%
 ## Question 14 — D5
 On average, exposed bees returned approximately how many hours later than controls?
 
-A) 6 hours  
-B) 12 hours  
-C) 18 hours  
-D) 24 hours  
+A) 6 hours
+B) 12 hours
+C) 18 hours
+D) 24 hours
 **[ ]** → **B**
 
 ---
@@ -229,10 +229,10 @@ D) 24 hours
 ## Question 15 — D6
 Which hypothesis is best supported by this data?
 
-A) Pesticide exposure impairs bee navigation abilities  
-B) All bees return at the same rate regardless of exposure  
-C) Longer distances reduce return rates  
-D) Control bees are inherently faster  
+A) Pesticide exposure impairs bee navigation abilities
+B) All bees return at the same rate regardless of exposure
+C) Longer distances reduce return rates
+D) Control bees are inherently faster
 **[ ]** → **A**
 
 ---
@@ -240,10 +240,10 @@ D) Control bees are inherently faster
 ## Question 16 — D6
 If bees were released at 5 km instead of 2 km, return rates would likely:
 
-A) Increase for both groups  
-B) Decrease for both groups  
-C) Remain unchanged  
-D) Only the control group would return  
+A) Increase for both groups
+B) Decrease for both groups
+C) Remain unchanged
+D) Only the control group would return
 **[ ]** → **B**
 
 ---
@@ -251,10 +251,10 @@ D) Only the control group would return
 ## Question 17 — D7
 A rival explanation is that pesticides caused bee deaths rather than navigation problems. To address this, researchers should:
 
-A) Only study living bees  
-B) Track whether returning bees were disoriented  
-C) Use higher pesticide doses  
-D) Test only at night  
+A) Only study living bees
+B) Track whether returning bees were disoriented
+C) Use higher pesticide doses
+D) Test only at night
 **[ ]** → **B**
 
 ---
@@ -262,10 +262,10 @@ D) Test only at night
 ## Question 18 — D8
 The researchers concluded that neonicotinoids harm bee navigation. This conclusion would be most weakened by evidence that:
 
-A) Both groups had equal mortality rates  
-B) Pesticide levels in exposed bees' bodies were measured  
-C) The hive location was accurately determined by both groups  
-D) Bees in both groups carried equal pollen loads  
+A) Both groups had equal mortality rates
+B) Pesticide levels in exposed bees' bodies were measured
+C) The hive location was accurately determined by both groups
+D) Bees in both groups carried equal pollen loads
 **[ ]** → **A**
 
 ---
@@ -285,10 +285,10 @@ Dr. Judith Curry counters that climate models have significant limitations. She 
 ## Question 19 — D8
 Dr. Hansen and Dr. Curry would most disagree about whether:
 
-A) Climate models exist  
-B) Climate models are sufficiently accurate for predictions  
-C) Past climate events occurred  
-D) The future can be predicted  
+A) Climate models exist
+B) Climate models are sufficiently accurate for predictions
+C) Past climate events occurred
+D) The future can be predicted
 **[ ]** → **B**
 
 ---
@@ -296,9 +296,8 @@ D) The future can be predicted
 ## Question 20 — D9
 To resolve the disagreement between the two viewpoints, scientists should:
 
-A) Accept one scientist's opinion over the other  
-B) Conduct additional studies on cloud feedback and aerosol effects  
-C) Abandon climate models entirely  
-D) Only use models that agree with past observations  
+A) Accept one scientist's opinion over the other
+B) Conduct additional studies on cloud feedback and aerosol effects
+C) Abandon climate models entirely
+D) Only use models that agree with past observations
 **[ ]** → **B**
-

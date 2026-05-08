@@ -19,7 +19,7 @@ Este bundle evalúa la capacidad de identificar y analizar las diferentes postur
 ---
 
 ## Contexto del Conflicto: El Páramo de Santurbán
-Se proyecta un megaproyecto de minería de oro en una zona cercana al páramo, fuente de agua para millones de personas. 
+Se proyecta un megaproyecto de minería de oro en una zona cercana al páramo, fuente de agua para millones de personas.
 **Actores implicados:**
 - **Empresa Minera:** Afirma que el proyecto traerá empleos, tecnología y regalías millonarias para el país.
 - **Comunidades Locales:** Temen que la contaminación por cianuro dañe el agua de la que dependen para la agricultura y el consumo.
