@@ -646,4 +646,3 @@ export async function getUnsyncedPartySessions(): Promise<PartySessionRecord[]> 
 export async function markPartySessionSynced(sessionId: string): Promise<void> {
   await updatePartySession(sessionId, { synced: true });
 }
-

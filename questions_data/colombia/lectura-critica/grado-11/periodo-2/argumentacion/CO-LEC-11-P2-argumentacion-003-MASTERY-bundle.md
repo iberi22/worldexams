@@ -131,8 +131,8 @@ La evidencia debe sostener la relation entre lectura y calidad del debate.
 
 ## Texto Base 2: Debate sobre movilidad
 
-*Participante A: "La ciudad necesita mas ciclorutas porque reducen el tiempo de viaje de trayectos cortos."  
-Participante B: "Eso solo beneficia a pocos. El problema real es el transporte masivo."  
+*Participante A: "La ciudad necesita mas ciclorutas porque reducen el tiempo de viaje de trayectos cortos."
+Participante B: "Eso solo beneficia a pocos. El problema real es el transporte masivo."
 Participante A: "No niego la importancia del transporte masivo; digo que las ciclorutas resuelven una parte del problema y ademas hacen mas seguro el trayecto de muchas personas."*
 
 ## Question 6 (D5)

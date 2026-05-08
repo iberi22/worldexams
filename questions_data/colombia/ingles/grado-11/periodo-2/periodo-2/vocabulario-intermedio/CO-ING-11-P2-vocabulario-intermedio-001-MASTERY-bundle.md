@@ -29,10 +29,10 @@ license: "CC BY-NC-SA 4.0"
 
 Complete the sentence: "She decided to _____ money every month for her retirement."
 
-A) waste  
-B) save [x]  
-C) borrow  
-D) spend  
+A) waste
+B) save [x]
+C) borrow
+D) spend
 
 ---
 
@@ -41,10 +41,10 @@ D) spend
 
 Choose the synonym of 'to employ':
 
-A) to fire  
-B) to hire [x]  
-C) to resign  
-D) to retire  
+A) to fire
+B) to hire [x]
+C) to resign
+D) to retire
 
 ---
 
@@ -53,10 +53,10 @@ D) to retire
 
 The factory was closed because it was _____ too much pollution into the river.
 
-A) releasing [x]  
-B) reducing  
-C) filtering  
-D) absorbing  
+A) releasing [x]
+B) reducing
+C) filtering
+D) absorbing
 
 ---
 
@@ -65,10 +65,10 @@ D) absorbing
 
 A person who advocates for human rights is called a _____ .
 
-A) politician  
-B) journalist  
-C) activist [x]  
-D) engineer  
+A) politician
+B) journalist
+C) activist [x]
+D) engineer
 
 ---
 
@@ -81,10 +81,10 @@ D) engineer
 
 If you feel dizzy and nauseous after taking a medication, you may be experiencing a _____ .
 
-A) side effect [x]  
-B) benefit  
-C) symptom of recovery  
-D) allergic reaction to nothing  
+A) side effect [x]
+B) benefit
+C) symptom of recovery
+D) allergic reaction to nothing
 
 ---
 
@@ -93,10 +93,10 @@ D) allergic reaction to nothing
 
 Which term refers to the study of robots and intelligent machines?
 
-A) biology  
-B) chemistry  
-C) artificial intelligence [x]  
-D) geology  
+A) biology
+B) chemistry
+C) artificial intelligence [x]
+D) geology
 
 ---
 
@@ -105,10 +105,10 @@ D) geology
 
 The flight was _____ because of heavy fog at the destination airport.
 
-A) cancelled [x]  
-B) accelerated  
-C) promoted  
-D) scheduled  
+A) cancelled [x]
+B) accelerated
+C) promoted
+D) scheduled
 
 ---
 
@@ -117,10 +117,10 @@ D) scheduled
 
 Many tourists visit the ancient _____ to learn about the civilization that built it.
 
-A) ruins [x]  
-B) ruin  
-C) ruinous  
-D) ruins'  
+A) ruins [x]
+B) ruin
+C) ruinous
+D) ruins'
 
 ---
 
@@ -129,10 +129,10 @@ D) ruins'
 
 Students must _____ their assignments before the deadline to receive credit.
 
-A) submit [x]  
-B) omit  
-C) admit  
-D) transmit  
+A) submit [x]
+B) omit
+C) admit
+D) transmit
 
 ---
 
@@ -141,10 +141,10 @@ D) transmit
 
 The company announced a new _____ to expand its operations into South America.
 
-A) strategy [x]  
-B) strategize  
-C) strategic  
-D) strategically  
+A) strategy [x]
+B) strategize
+C) strategic
+D) strategically
 
 ---
 
@@ -157,10 +157,10 @@ D) strategically
 
 A _____ is a device that converts encoded information into a format humans can understand.
 
-A) compiler  
-B) decoder [x]  
-C) processor  
-D) calculator  
+A) compiler
+B) decoder [x]
+C) processor
+D) calculator
 
 ---
 
@@ -169,10 +169,10 @@ D) calculator
 
 The doctor recommended that the patient _____ to a specialist for further evaluation.
 
-A) refer [x]  
-B) refers  
-C) referred  
-D) referring  
+A) refer [x]
+B) refers
+C) referred
+D) referring
 
 ---
 
@@ -181,10 +181,10 @@ D) referring
 
 Deforestation has a negative _____ on biodiversity in tropical regions.
 
-A) impact  
-B) affect  
-C) effect [x]  
-D) infection  
+A) impact
+B) affect
+C) effect [x]
+D) infection
 
 ---
 
@@ -193,10 +193,10 @@ D) infection
 
 In many countries, _____ equality remains a significant challenge in the workplace.
 
-A) gender [x]  
-B) gener  
-C) genera  
-D) general  
+A) gender [x]
+B) gener
+C) genera
+D) general
 
 ---
 
@@ -205,10 +205,10 @@ D) general
 
 Before making a major purchase, it is wise to compare prices and read the _____ carefully.
 
-A) fine print [x]  
-B) big letters  
-C) advertisement  
-D) label  
+A) fine print [x]
+B) big letters
+C) advertisement
+D) label
 
 ---
 
@@ -217,10 +217,10 @@ D) label
 
 The documentary provides an in-depth _____ into the daily lives of indigenous communities.
 
-A) insight [x]  
-B) outsight  
-C) sight  
-D) vision  
+A) insight [x]
+B) outsight
+C) sight
+D) vision
 
 ---
 
@@ -233,10 +233,10 @@ D) vision
 
 Which of the following is NOT a type of renewable energy source?
 
-A) nuclear power [x]  
-B) solar power  
-C) wind energy  
-D) hydroelectric power  
+A) nuclear power [x]
+B) solar power
+C) wind energy
+D) hydroelectric power
 
 ---
 
@@ -245,10 +245,10 @@ D) hydroelectric power
 
 The company's profits increased _____ as a result of the new marketing campaign.
 
-A) dramatic  
-B) dramatically [x]  
-C) dramatical  
-D) dramatize  
+A) dramatic
+B) dramatically [x]
+C) dramatical
+D) dramatize
 
 ---
 
@@ -257,10 +257,10 @@ D) dramatize
 
 The travel agent suggested a _____ that would allow us to visit three European capitals in one week.
 
-A) packaged tour [x]  
-B) solo trip  
-C) business travel  
-D) pilgrimage  
+A) packaged tour [x]
+B) solo trip
+C) business travel
+D) pilgrimage
 
 ---
 
@@ -269,7 +269,7 @@ D) pilgrimage
 
 People who volunteer regularly often develop a stronger sense of _____ to their communities.
 
-A) commitment [x]  
-B) omission  
-C) transmission  
-D) dismissal  
+A) commitment [x]
+B) omission
+C) transmission
+D) dismissal

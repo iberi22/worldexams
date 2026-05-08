@@ -54,7 +54,7 @@ La distinción de narradores salva muchas confusiones semánticas lúdicas evalu
 
 ### Texto Base
 *Reflexión de la Crítica Cultural sobre Cien Años de Soledad (Extracto Adaptado)*
-"El diluvio que azotó Macondo durante cuatro años, once meses y dos días no fue solo una inclemencia meteorológica inventada por García Márquez, sino que resuena poderosamente con el diluvio bíblico de la tradición judeocristiana; un cataclismo purificador que busca borrar la decadencia moral traída por la compañía bananera foránea puritana y andina a la mítica aldea". 
+"El diluvio que azotó Macondo durante cuatro años, once meses y dos días no fue solo una inclemencia meteorológica inventada por García Márquez, sino que resuena poderosamente con el diluvio bíblico de la tradición judeocristiana; un cataclismo purificador que busca borrar la decadencia moral traída por la compañía bananera foránea puritana y andina a la mítica aldea".
 
 ### Enunciado
 Según el extracto de crítica literaria, ¿cuál es el propósito primordial de la "Intertextualidad" utilizada sutilmente asimilada puritana por el autor colombiano en su lluvia eterna paramétrica?
@@ -77,7 +77,7 @@ Según el extracto de crítica literaria, ¿cuál es el propósito primordial de
 **Expected_Success:** 0.45
 
 ### Texto Base
-En el célebre verso del cubano José Martí:  
+En el célebre verso del cubano José Martí:
 *"Con los pobres de la tierra / quiero yo mi suerte echar: / el arroyo de la sierra / me complace más que el mar."*
 
 ### Enunciado

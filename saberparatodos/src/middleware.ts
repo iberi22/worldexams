@@ -1,4 +1,41 @@
 import { defineMiddleware } from 'astro:middleware';
+import {
+  type CountryCode,
+  countriesWithContent,
+  ALL_CONFIGURED_CODES,
+  DEFAULT_COUNTRY,
+  getConfiguredProductCountryCode,
+  COUNTRY_NAMES,
+  COUNTRY_FLAGS,
+} from './config/countries.config';
+import { getCountryConfig } from '../../config/countries.config';
+
+/**
+ * Fallback country detection via ip-api.com for local dev (when CF-IPCountry is absent).
+ */
+async function detectCountryFromApi(clientIP: string): Promise<CountryCode | null> {
+  if (clientIP === '127.0.0.1' || clientIP === '::1') {
+    return null;
+  }
+
+  try {
+    const res = await fetch(`https://ip-api.com/${clientIP}/country/`, {
+      signal: AbortSignal.timeout(3000),
+    });
+
+    if (res.ok) {
+      const country = await res.text();
+      const code = country.trim().toUpperCase() as CountryCode;
+      if (ALL_CONFIGURED_CODES.includes(code)) {
+        return code;
+      }
+    }
+  } catch {
+    // fail silently
+  }
+
+  return null;
+}
 
 const defaultContentSecurityPolicy = [
   "default-src 'self'",
@@ -12,7 +49,7 @@ const defaultContentSecurityPolicy = [
   "base-uri 'self'",
   "form-action 'self'",
   "frame-ancestors 'none'",
-  'upgrade-insecure-requests'
+  'upgrade-insecure-requests',
 ].join('; ');
 
 const developersContentSecurityPolicy = [
@@ -27,7 +64,7 @@ const developersContentSecurityPolicy = [
   "base-uri 'self'",
   "form-action 'self'",
   "frame-ancestors 'none'",
-  'upgrade-insecure-requests'
+  'upgrade-insecure-requests',
 ].join('; ');
 
 const securityHeaders: Record<string, string> = {
@@ -35,13 +72,69 @@ const securityHeaders: Record<string, string> = {
   'X-Content-Type-Options': 'nosniff',
   'X-Frame-Options': 'DENY',
   'Referrer-Policy': 'strict-origin-when-cross-origin',
-  'Permissions-Policy': 'geolocation=(), microphone=(), camera=()'
+  'Permissions-Policy': 'geolocation=(), microphone=(), camera=()',
 };
 
+const CONTENT_COUNTRIES: CountryCode[] = countriesWithContent.map((country) => country.code);
+
 export const onRequest = defineMiddleware(async (context, next) => {
+  const url = new URL(context.request.url);
+
+  const isInternalPath =
+    url.pathname.startsWith('/api/') ||
+    url.pathname.startsWith('/_astro/') ||
+    url.pathname.startsWith('/dist/') ||
+    url.pathname.startsWith('/node_modules/') ||
+    url.pathname.startsWith('/sw.js') ||
+    url.pathname === '/favicon.png' ||
+    url.pathname === '/robots.txt' ||
+    url.pathname === '/manifest.json';
+
+  let activeCountryCode: CountryCode | undefined = getConfiguredProductCountryCode() || DEFAULT_COUNTRY;
+  let countryDetected = false;
+
+  const urlCountry = url.searchParams.get('country') as CountryCode | null;
+  if (urlCountry && ALL_CONFIGURED_CODES.includes(urlCountry.toUpperCase() as CountryCode)) {
+    activeCountryCode = urlCountry.toUpperCase() as CountryCode;
+  } else {
+    const cookieCountry = context.cookies.get('spt_country')?.value as CountryCode | undefined;
+    if (cookieCountry && ALL_CONFIGURED_CODES.includes(cookieCountry.toUpperCase() as CountryCode)) {
+      activeCountryCode = cookieCountry.toUpperCase() as CountryCode;
+    } else {
+      const cfCountry = context.request.headers.get('cf-ipcountry') as CountryCode | undefined;
+      if (cfCountry && ALL_CONFIGURED_CODES.includes(cfCountry.toUpperCase() as CountryCode)) {
+        activeCountryCode = cfCountry.toUpperCase() as CountryCode;
+        countryDetected = true;
+      } else if (!isInternalPath) {
+        const clientIP =
+          context.request.headers.get('cf-connecting-ip') ||
+          context.request.headers.get('x-forwarded-for')?.split(',')[0]?.trim() ||
+          '127.0.0.1';
+        const apiCountry = await detectCountryFromApi(clientIP);
+        if (apiCountry) {
+          activeCountryCode = apiCountry;
+          countryDetected = true;
+        }
+      }
+    }
+  }
+
+  const hasContent = activeCountryCode ? CONTENT_COUNTRIES.includes(activeCountryCode) : false;
+  const activeCountryConfig = activeCountryCode ? getCountryConfig(activeCountryCode) : undefined;
+
+  if (activeCountryConfig) {
+    context.locals.country = activeCountryConfig;
+  }
+  context.locals.countryCode = activeCountryCode;
+  context.locals.countryDetected = countryDetected;
+  context.locals.countryHasContent = hasContent;
+  context.locals.countryName = activeCountryConfig?.name || (activeCountryCode ? COUNTRY_NAMES[activeCountryCode] || activeCountryCode : 'World Exams');
+  context.locals.countryFlag = activeCountryConfig?.flag || (activeCountryCode ? COUNTRY_FLAGS[activeCountryCode] : undefined) || '🌍';
+
   const response = await next();
+
   const headers = new Headers(response.headers);
-  const pathname = new URL(context.request.url).pathname;
+  const pathname = url.pathname;
   const contentSecurityPolicy = pathname.startsWith('/developers')
     ? developersContentSecurityPolicy
     : defaultContentSecurityPolicy;
@@ -54,6 +147,6 @@ export const onRequest = defineMiddleware(async (context, next) => {
   return new Response(response.body, {
     status: response.status,
     statusText: response.statusText,
-    headers
+    headers,
   });
 });

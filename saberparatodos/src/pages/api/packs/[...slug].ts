@@ -43,7 +43,7 @@ async function proxyPack(request: Request, slug: string | undefined) {
   if (!slug) {
     return new Response(JSON.stringify({ error: 'Pack path is required.' }), {
       status: 400,
-      headers: { 
+      headers: {
         'Content-Type': 'application/json',
         ...CORS_HEADERS
       },
