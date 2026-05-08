@@ -4,12 +4,12 @@
 /**
  * Country codes supported by World Exams
  */
-export type CountryCode = 'CO' | 'MX' | 'AR' | 'CL' | 'PE' | 'EC' | 'BR' | 'US' | 'PA' | 'CR' | 'GT' | 'DO' | 'SV' | 'HN' | 'NI';
+export type CountryCode = 'CO' | 'MX' | 'AR' | 'CL' | 'PE' | 'EC' | 'BR' | 'US' | 'PA' | 'CR' | 'GT' | 'DO' | 'SV' | 'HN' | 'NI' | 'ES' | 'PR' | 'GQ';
 
 /**
  * Supported languages
  */
-export type LanguageCode = 'es-CO' | 'es-MX' | 'es-AR' | 'es-CL' | 'es-PE' | 'es-EC' | 'pt-BR' | 'en-US' | 'es-PA' | 'es-CR' | 'es-GT' | 'es-DO' | 'es-SV' | 'es-HN' | 'es-NI';
+export type LanguageCode = 'es-CO' | 'es-MX' | 'es-AR' | 'es-CL' | 'es-PE' | 'es-EC' | 'pt-BR' | 'en-US' | 'es-PA' | 'es-CR' | 'es-GT' | 'es-DO' | 'es-SV' | 'es-HN' | 'es-NI' | 'es-ES' | 'es-PR' | 'es-GQ';
 
 /**
  * Grade configuration for a country
@@ -630,7 +630,7 @@ export const brasilConfig: CountryConfig = {
     guideLabel: 'ENEM',
     guideYear: 2026,
     seoKeywords: ['enem brasil', 'simulado enem', 'pratica enem'],
-    defaultDescription: 'Modelo de produto para pratica e preparacao de avaliacoes nacionais no Brasil.',
+    defaultDescription: 'Modelo de producto para practica e preparacao de avaliacoes nacionales no Brasil.',
     features: {
       blog: false,
       preuniversitario: false,
@@ -722,80 +722,6 @@ export const usaConfig: CountryConfig = {
     },
   },
 };
-
-// =============================================================================
-// HELPER FUNCTIONS
-// =============================================================================
-
-/**
- * Get all country configurations
- */
-export const allCountries: CountryConfig[] = [
-  colombiaConfig,
-  mexicoConfig,
-  argentinaConfig,
-  chileConfig,
-  peruConfig,
-  ecuadorConfig,
-  brasilConfig,
-  usaConfig,
-  panamaConfig,
-  costaRicaConfig,
-  guatemalaConfig,
-  dominicanRepublicConfig,
-  elSalvadorConfig,
-  hondurasConfig,
-  nicaraguaConfig,
-];
-
-/**
- * Get country config by code
- */
-export function getCountryConfig(code: CountryCode): CountryConfig | undefined {
-  return allCountries.find(c => c.code === code);
-}
-
-/**
- * Get subject mapping between countries
- */
-export function mapSubject(globalId: string, targetCountry: CountryCode): SubjectConfig | undefined {
-  const country = getCountryConfig(targetCountry);
-  return country?.subjects.find(s => s.globalId === globalId);
-}
-
-/**
- * Get grade mapping (approximate, not all countries have same structure)
- */
-export function findClosestGrade(sourceGrade: number, targetCountry: CountryCode): GradeConfig | undefined {
-  const country = getCountryConfig(targetCountry);
-  if (!country) return undefined;
-
-  // Find exact match or closest
-  const exact = country.grades.find(g => g.id === sourceGrade);
-  if (exact) return exact;
-
-  // Find closest
-  return country.grades.reduce((prev, curr) =>
-    Math.abs(curr.id - sourceGrade) < Math.abs(prev.id - sourceGrade) ? curr : prev
-  );
-}
-
-/**
- * Generate CSS variables from theme
- */
-export function generateThemeCSS(theme: ThemeConfig): string {
-  return `
-:root {
-  --color-primary: ${theme.primary};
-  --color-secondary: ${theme.secondary};
-  --color-accent: ${theme.accent};
-  --bg-dark: ${theme.bgDark};
-  --bg-card: ${theme.bgCard};
-  --text-primary: ${theme.textPrimary};
-  --text-secondary: ${theme.textSecondary};
-}
-  `.trim();
-}
 
 /**
  * 🇵🇦 Panamá - CRECER / Graduandos
@@ -1176,3 +1102,240 @@ export const nicaraguaConfig: CountryConfig = {
     defaultDescription: 'Práctica para los exámenes de bachillerato en Nicaragua.',
   },
 };
+
+/**
+ * 🇪🇸 España - Selectividad
+ */
+export const spainConfig: CountryConfig = {
+  code: 'ES',
+  name: 'España',
+  nameEnglish: 'Spain',
+  flag: '🇪🇸',
+  examName: 'Selectividad / EBAU',
+  examFullName: 'Evaluación de Bachillerato para el Acceso a la Universidad',
+  examAuthority: 'Ministerio de Educación',
+  locale: 'es-ES',
+  timezone: 'Europe/Madrid',
+  grades: [
+    { id: 11, name: '1º Bachillerato', description: 'Primer curso de bachillerato' },
+    { id: 12, name: '2º Bachillerato', description: 'Segundo curso de bachillerato (EBAU)' },
+  ],
+  subjects: [
+    { id: 'matematicas', name: 'Matemáticas', icon: '🔢', globalId: 'math' },
+    { id: 'lengua', name: 'Lengua Castellana', icon: '📖', globalId: 'language' },
+    { id: 'historia', name: 'Historia de España', icon: '📜', globalId: 'social' },
+    { id: 'ingles', name: 'Inglés', icon: '🇬🇧', globalId: 'english' },
+  ],
+  theme: {
+    primary: '#AA151B',      // Rojo
+    secondary: '#F1BF00',    // Gualda (Amarillo)
+    accent: '#AA151B',       // Rojo
+    bgDark: '#1a1a2e',
+    bgCard: '#16213e',
+    textPrimary: '#ffffff',
+    textSecondary: '#a0a0a0',
+  },
+  culture: {
+    currency: { code: 'EUR', symbol: '€', name: 'Euros' },
+    cities: ['Madrid', 'Barcelona', 'Valencia', 'Sevilla', 'Zaragoza', 'Málaga'],
+    commonNames: {
+      male: ['Antonio', 'Manuel', 'José', 'Francisco', 'David', 'Juan'],
+      female: ['María', 'Carmen', 'Ana', 'Isabel', 'Dolores', 'Pilar'],
+    },
+    culturalReferences: ['El Quijote', 'flamenco', 'paella', 'siesta', 'tapas'],
+  },
+  githubRepo: 'worldexams/saber-es',
+  product: {
+    siteName: 'WorldExams España',
+    siteUrl: 'https://worldexams.app/es',
+    contactEmail: 'contacto@worldexams.app',
+    guideLabel: 'EBAU',
+    guideYear: 2026,
+    seoKeywords: ['selectividad ebau', 'evau madrid', 'practica ebau', 'examenes selectividad'],
+    defaultDescription: 'Prepárate para la Selectividad (EBAU/EvAU) en España con simulacros y exámenes de años anteriores.',
+  },
+};
+
+/**
+ * 🇵🇷 Puerto Rico - PAA
+ */
+export const puertoRicoConfig: CountryConfig = {
+  code: 'PR',
+  name: 'Puerto Rico',
+  nameEnglish: 'Puerto Rico',
+  flag: '🇵🇷',
+  examName: 'PAA',
+  examFullName: 'Prueba de Aptitud Académica',
+  examAuthority: 'College Board',
+  locale: 'es-PR',
+  timezone: 'America/Puerto_Rico',
+  grades: [
+    { id: 9, name: '9° Grado', description: 'Noveno grado (Superior)' },
+    { id: 10, name: '10° Grado', description: 'Décimo grado' },
+    { id: 11, name: '11° Grado', description: 'Undécimo grado' },
+    { id: 12, name: '12° Grado', description: 'Duodécimo grado' },
+  ],
+  subjects: [
+    { id: 'matematicas', name: 'Matemáticas', icon: '🔢', globalId: 'math' },
+    { id: 'lectura', name: 'Lectura y Redacción', icon: '📖', globalId: 'language' },
+    { id: 'ingles', name: 'Inglés', icon: '🇬🇧', globalId: 'english' },
+  ],
+  theme: {
+    primary: '#0050A1',      // Azul
+    secondary: '#FFFFFF',    // Blanco
+    accent: '#E4002B',       // Rojo
+    bgDark: '#1a1a2e',
+    bgCard: '#16213e',
+    textPrimary: '#ffffff',
+    textSecondary: '#a0a0a0',
+  },
+  culture: {
+    currency: { code: 'USD', symbol: '$', name: 'Dólares' },
+    cities: ['San Juan', 'Bayamón', 'Carolina', 'Ponce', 'Caguas'],
+    commonNames: {
+      male: ['Luis', 'José', 'Carlos', 'Juan', 'Jorge'],
+      female: ['María', 'Ana', 'Carmen', 'Yolanda', 'Rosa'],
+    },
+    culturalReferences: ['Mofongo', 'Coquí', 'Viejo San Juan', 'Bomba y Plena', 'El Yunque'],
+  },
+  githubRepo: 'worldexams/saber-pr',
+  product: {
+    siteName: 'WorldExams Puerto Rico',
+    siteUrl: 'https://worldexams.app/pr',
+    contactEmail: 'contacto@worldexams.app',
+    guideLabel: 'PAA',
+    guideYear: 2026,
+    seoKeywords: ['paa puerto rico', 'college board pr', 'repaso paa', 'upr admision'],
+    defaultDescription: 'Repaso y práctica para la PAA (College Board) en Puerto Rico.',
+  },
+};
+
+/**
+ * 🇬🇶 Guinea Ecuatorial - Selectividad
+ */
+export const equatorialGuineaConfig: CountryConfig = {
+  code: 'GQ',
+  name: 'Guinea Ecuatorial',
+  nameEnglish: 'Equatorial Guinea',
+  flag: '🇬🇶',
+  examName: 'Selectividad',
+  examFullName: 'Pruebas de Acceso a la Universidad',
+  examAuthority: 'UNGE',
+  locale: 'es-GQ',
+  timezone: 'Africa/Malabo',
+  grades: [
+    { id: 11, name: '1º Bachillerato', description: 'Primer curso' },
+    { id: 12, name: '2º Bachillerato', description: 'Segundo curso' },
+  ],
+  subjects: [
+    { id: 'matematicas', name: 'Matemáticas', icon: '🔢', globalId: 'math' },
+    { id: 'lengua', name: 'Lengua Española', icon: '📖', globalId: 'language' },
+    { id: 'historia', name: 'Historia', icon: '📜', globalId: 'social' },
+    { id: 'frances', name: 'Francés', icon: '🇫🇷', globalId: 'french' },
+  ],
+  theme: {
+    primary: '#319400',      // Verde
+    secondary: '#FFFFFF',    // Blanco
+    accent: '#E32118',       // Rojo
+    bgDark: '#1a1a2e',
+    bgCard: '#16213e',
+    textPrimary: '#ffffff',
+    textSecondary: '#a0a0a0',
+  },
+  culture: {
+    currency: { code: 'XAF', symbol: 'FCFA', name: 'Franco CFA' },
+    cities: ['Malabo', 'Bata', 'Ebibeyin', 'Mongomo', 'Djibloho'],
+    commonNames: {
+      male: ['Teodoro', 'Bonifacio', 'Santiago', 'Manuel', 'Juan'],
+      female: ['Maria', 'Teresa', 'Constancia', 'Esperanza', 'Silvia'],
+    },
+    culturalReferences: ['Ceiba', 'Malabo II', 'Pico Basile', 'Danza balélé'],
+  },
+  githubRepo: 'worldexams/saber-gq',
+  product: {
+    siteName: 'WorldExams Guinea Ecuatorial',
+    siteUrl: 'https://worldexams.app/gq',
+    contactEmail: 'contacto@worldexams.app',
+    guideLabel: 'UNGE',
+    guideYear: 2026,
+    seoKeywords: ['selectividad guinea ecuatorial', 'unge', 'acceso universidad gq'],
+    defaultDescription: 'Práctica para la Selectividad y acceso a la Universidad Nacional de Guinea Ecuatorial.',
+  },
+};
+
+// =============================================================================
+// HELPER FUNCTIONS
+// =============================================================================
+
+/**
+ * Get all country configurations
+ */
+export const allCountries: CountryConfig[] = [
+  colombiaConfig,
+  mexicoConfig,
+  argentinaConfig,
+  chileConfig,
+  peruConfig,
+  ecuadorConfig,
+  brasilConfig,
+  usaConfig,
+  panamaConfig,
+  costaRicaConfig,
+  guatemalaConfig,
+  dominicanRepublicConfig,
+  elSalvadorConfig,
+  hondurasConfig,
+  nicaraguaConfig,
+  spainConfig,
+  puertoRicoConfig,
+  equatorialGuineaConfig,
+];
+
+/**
+ * Get country config by code
+ */
+export function getCountryConfig(code: CountryCode): CountryConfig | undefined {
+  return allCountries.find(c => c.code === code);
+}
+
+/**
+ * Get subject mapping between countries
+ */
+export function mapSubject(globalId: string, targetCountry: CountryCode): SubjectConfig | undefined {
+  const country = getCountryConfig(targetCountry);
+  return country?.subjects.find(s => s.globalId === globalId);
+}
+
+/**
+ * Get grade mapping (approximate, not all countries have same structure)
+ */
+export function findClosestGrade(sourceGrade: number, targetCountry: CountryCode): GradeConfig | undefined {
+  const country = getCountryConfig(targetCountry);
+  if (!country) return undefined;
+
+  // Find exact match or closest
+  const exact = country.grades.find(g => g.id === sourceGrade);
+  if (exact) return exact;
+
+  // Find closest
+  return country.grades.reduce((prev, curr) =>
+    Math.abs(curr.id - sourceGrade) < Math.abs(prev.id - sourceGrade) ? curr : prev
+  );
+}
+
+/**
+ * Generate CSS variables from theme
+ */
+export function generateThemeCSS(theme: ThemeConfig): string {
+  return `
+:root {
+  --color-primary: ${theme.primary};
+  --color-secondary: ${theme.secondary};
+  --color-accent: ${theme.accent};
+  --bg-dark: ${theme.bgDark};
+  --bg-card: ${theme.bgCard};
+  --text-primary: ${theme.textPrimary};
+  --text-secondary: ${theme.textSecondary};
+}
+  `.trim();
+}
