@@ -15,7 +15,7 @@ export const CEFR_LEVELS = ['A1', 'A1+', 'A2', 'A2+', 'B1', 'B1+', 'B2', 'B2+', 
 export type CEFRLevel = typeof CEFR_LEVELS[number];
 
 // Numeric mapping for calculations
-export const CEFR_LEVEL_NUM: Record<CEFRLevel, number> = {
+export const CEFR_LEVEL_NUM: Record<string, number> = {
   'A1': 1, 'A1+': 2, 'A2': 3, 'A2+': 4,
   'B1': 5, 'B1+': 6, 'B2': 7, 'B2+': 8, 'C1': 9
 };

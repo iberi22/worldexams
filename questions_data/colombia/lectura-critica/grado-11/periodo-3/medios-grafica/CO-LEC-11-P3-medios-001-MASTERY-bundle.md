@@ -246,7 +246,7 @@ La mejor lectura describe tendencia y maximo sin sobregeneralizar.
 
 **Subtitulo:** *Un informe local vincula el aumento de temperatura con la reduccion de sombra en tres barrios.*
 
-**Cuerpo:**  
+**Cuerpo:**
 *La alcaldia presento un resumen con datos de temperatura superficial. El documento no dice que los arboles sean la unica causa del calor, pero si advierte que la falta de cobertura vegetal agrava la sensacion termica en zonas densamente construidas.*
 
 ## Question 11 (D7)
@@ -343,10 +343,10 @@ En medios, titular y cuerpo suelen repartirse funcion y profundidad.
 
 ## Texto Base 4: Publicacion en red social
 
-*Imagen: grafico de barras sobre lectura digital en jovenes.  
-Texto del post: "La generacion actual ya no lee libros, solo mira pantallas."  
-Comentario 1: "Eso es verdad porque lo vi en mi curso."  
-Comentario 2: "La grafica solo mide tiempo de pantalla, no lectura completa."  
+*Imagen: grafico de barras sobre lectura digital en jovenes.
+Texto del post: "La generacion actual ya no lee libros, solo mira pantallas."
+Comentario 1: "Eso es verdad porque lo vi en mi curso."
+Comentario 2: "La grafica solo mide tiempo de pantalla, no lectura completa."
 Comentario 3: "Si todos mis amigos lo creen, entonces es cierto."*
 
 ## Question 16 (D9)

@@ -1,7 +1,7 @@
 <script lang="ts">
   export let score: number = 0; // 0 to 100
   export let subject: string = "";
-  
+
   // ICFES Saber 11 standard levels
   // Levels for core subjects (0-100 scale)
   const levels = [
@@ -20,8 +20,8 @@
     { id: "B+", name: "B+", min: 81, max: 100, color: "bg-emerald-400", shadow: "shadow-emerald-400/30" },
   ];
 
-  $: currentLevels = subject.toLowerCase().includes('inglés') || subject.toLowerCase().includes('english') 
-    ? englishLevels 
+  $: currentLevels = subject.toLowerCase().includes('inglés') || subject.toLowerCase().includes('english')
+    ? englishLevels
     : levels;
 
   $: currentLevel = currentLevels.find(l => score >= l.min && score <= l.max) || currentLevels[0];
@@ -42,12 +42,12 @@
   <div class="relative h-2 bg-white/5 rounded-full overflow-hidden flex border border-white/5">
     {#each currentLevels as level}
       {@const width = ((level.max - level.min + 1) / 100) * 100}
-      <div 
+      <div
         class="h-full border-r border-black/20 last:border-0 transition-all duration-500"
         style="width: {width}%"
       >
         {#if score >= level.min}
-          <div 
+          <div
             class="h-full {level.color} {level.shadow} transition-all duration-1000 ease-out"
             style="width: {Math.min(100, ((score - level.min) / (level.max - level.min + 1)) * 100)}%"
           ></div>
