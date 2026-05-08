@@ -11,6 +11,7 @@ const latam = getCountriesByRegion('latam').filter(c => c.status !== 'live');
 const top10 = getCountriesByRegion('top10');
 const europe = getCountriesByRegion('europe');
 const asia = getCountriesByRegion('asia');
+const africa = getCountriesByRegion('africa');
 
 // Dynamic Question Counting
 const allQuestions = await getCollection('questions');
@@ -146,6 +147,20 @@ const liveCountries = countries.filter(c => c.status === 'live').length;
           ))}
         </div>
       </div>
+
+      <!-- AFRICA -->
+      {africa && africa.length > 0 && (
+        <div class="mb-16">
+          <h3 class="flex items-center gap-2 text-accent-gold font-semibold mb-6 text-sm uppercase tracking-wider">
+            🌍 AFRICA
+          </h3>
+          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+            {africa.map(country => (
+              <CountryCard country={country} />
+            ))}
+          </div>
+        </div>
+      )}
 
       <!-- ASIA-PACIFIC -->
       <div class="mb-16">
