@@ -73,4 +73,3 @@ export async function findQuestionById(params: {
 
   return null;
 }
-

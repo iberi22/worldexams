@@ -29,10 +29,10 @@ license: "CC BY-NC-SA 4.0"
 ## Question 1 — D4
 The best placement for sentence 2 would be:
 
-A) Where it is now  
-B) After sentence 1  
-C) After sentence 3  
-D) After sentence 4  
+A) Where it is now
+B) After sentence 1
+C) After sentence 3
+D) After sentence 4
 **[ ]** → **A**
 
 ---
@@ -40,10 +40,10 @@ D) After sentence 4
 ## Question 2 — D5
 To make this paragraph most logical, sentence 3 should be placed:
 
-A) Where it is now  
-B) Before sentence 1  
-C) After sentence 1 and before sentence 2  
-D) After sentence 4  
+A) Where it is now
+B) Before sentence 1
+C) After sentence 1 and before sentence 2
+D) After sentence 4
 **[ ]** → **D**
 
 ---
@@ -51,10 +51,10 @@ D) After sentence 4
 ## Question 3 — D5
 Which option best transitions from paragraph 1 to paragraph 2?
 
-A) "Despite these challenges,"  
-B) "In contrast,"  
-C) "Similarly,"  
-D) "For example,"  
+A) "Despite these challenges,"
+B) "In contrast,"
+C) "Similarly,"
+D) "For example,"
 **[ ]** → **A**
 
 ---
@@ -62,10 +62,10 @@ D) "For example,"
 ## Question 4 — D6
 The writer wants to add a supporting detail about wind turbine manufacturing. Which choice best accomplishes this goal?
 
-A) Wind turbines are made of steel and fiberglass.  
-B) Texas is home to major wind turbine manufacturers like GE Renewable Energy.  
-C) Some people think wind turbines are ugly.  
-D) Wind energy has existed since ancient times.  
+A) Wind turbines are made of steel and fiberglass.
+B) Texas is home to major wind turbine manufacturers like GE Renewable Energy.
+C) Some people think wind turbines are ugly.
+D) Wind energy has existed since ancient times.
 **[ ]** → **B**
 
 ---
@@ -73,10 +73,10 @@ D) Wind energy has existed since ancient times.
 ## Question 5 — D6
 Which choice most effectively combines sentences 1 and 2?
 
-A) Texas leads the nation in wind energy production; however, it still relies on fossil fuels.  
-B) Texas leads the nation in wind energy production, but also relies heavily on natural gas and coal.  
-C) Texas leads the nation in wind energy production despite relying heavily on natural gas and coal.  
-D) Although Texas leads the nation in wind energy production, it still relies heavily on natural gas and coal.  
+A) Texas leads the nation in wind energy production; however, it still relies on fossil fuels.
+B) Texas leads the nation in wind energy production, but also relies heavily on natural gas and coal.
+C) Texas leads the nation in wind energy production despite relying heavily on natural gas and coal.
+D) Although Texas leads the nation in wind energy production, it still relies heavily on natural gas and coal.
 **[ ]** → **D**
 
 ---
@@ -84,10 +84,10 @@ D) Although Texas leads the nation in wind energy production, it still relies he
 ## Question 6 — D7
 The writer is considering deleting the phrase "for its handling of renewable integration." Should the phrase be kept or deleted?
 
-A) Kept, because it specifies what ERCOT has been criticized for.  
-B) Deleted, because it is redundant with "extreme weather events."  
-C) Deleted, because it contradicts the paragraph's main point.  
-D) Kept, because it provides a contrast to wind energy success.  
+A) Kept, because it specifies what ERCOT has been criticized for.
+B) Deleted, because it is redundant with "extreme weather events."
+C) Deleted, because it contradicts the paragraph's main point.
+D) Kept, because it provides a contrast to wind energy success.
 **[ ]** → **A**
 
 ---
@@ -101,10 +101,10 @@ D) Kept, because it provides a contrast to wind energy success.
 ## Question 7 — D4
 The best heading for this passage would be:
 
-A) "Early History of the National Park Service"  
-B) "Volunteer Programs Across America"  
-C) "America's National Parks: A National Treasure"  
-D) "Yellowstone: The First National Park"  
+A) "Early History of the National Park Service"
+B) "Volunteer Programs Across America"
+C) "America's National Parks: A National Treasure"
+D) "Yellowstone: The First National Park"
 **[ ]** → **C**
 
 ---
@@ -112,10 +112,10 @@ D) "Yellowstone: The First National Park"
 ## Question 8 — D5
 Which choice provides the most relevant supporting detail after sentence 2?
 
-A) Yellowstone was established in 1872, predating the Park Service by 44 years.  
-B) The Grand Canyon became a national park in 1919, three years after the Park Service was founded.  
-C) Visitors to national parks contribute over $20 billion annually to the national economy.  
-D) The Statue of Liberty is managed by the National Park Service.  
+A) Yellowstone was established in 1872, predating the Park Service by 44 years.
+B) The Grand Canyon became a national park in 1919, three years after the Park Service was founded.
+C) Visitors to national parks contribute over $20 billion annually to the national economy.
+D) The Statue of Liberty is managed by the National Park Service.
 **[ ]** → **C**
 
 ---
@@ -123,10 +123,10 @@ D) The Statue of Liberty is managed by the National Park Service.
 ## Question 9 — D5
 To improve the coherence of the paragraph, sentence 4 should be placed:
 
-A) Before sentence 1  
-B) After sentence 1  
-C) After sentence 3  
-D) It is most logical where it is now  
+A) Before sentence 1
+B) After sentence 1
+C) After sentence 3
+D) It is most logical where it is now
 **[ ]** → **C**
 
 ---
@@ -134,10 +134,10 @@ D) It is most logical where it is now
 ## Question 10 — D6
 The writer wants to add a concluding sentence. Which choice best concludes the passage while reflecting on its main idea?
 
-A) "The National Park Service employs over 20,000 permanent employees."  
-B) "These lands belong to all Americans and future generations."  
-C) "Many national parks offer winter activities like skiing and snowboarding."  
-D) "The National Park Service was founded during the Progressive Era."  
+A) "The National Park Service employs over 20,000 permanent employees."
+B) "These lands belong to all Americans and future generations."
+C) "Many national parks offer winter activities like skiing and snowboarding."
+D) "The National Park Service was founded during the Progressive Era."
 **[ ]** → **B**
 
 ---
@@ -145,10 +145,10 @@ D) "The National Park Service was founded during the Progressive Era."
 ## Question 11 — D7
 Which choice best varies the sentence structure to add rhetorical interest?
 
-A) Keep sentence 2 as is  
-B) Break sentence 2 into two shorter sentences  
-C) Combine sentences 1 and 2 into one long sentence  
-D) Delete sentence 2 entirely  
+A) Keep sentence 2 as is
+B) Break sentence 2 into two shorter sentences
+C) Combine sentences 1 and 2 into one long sentence
+D) Delete sentence 2 entirely
 **[ ]** → **B**
 
 ---
@@ -156,10 +156,10 @@ D) Delete sentence 2 entirely
 ## Question 12 — D7
 The writer is considering adding: "This equals approximately $75 million in labor value." This detail would best support which point in the paragraph?
 
-A) Sentence 1  
-B) Sentence 3  
-C) Sentence 4  
-D) It would work equally well anywhere  
+A) Sentence 1
+B) Sentence 3
+C) Sentence 4
+D) It would work equally well anywhere
 **[ ]** → **B**
 
 ---
@@ -173,10 +173,10 @@ D) It would work equally well anywhere
 ## Question 13 — D4
 The primary purpose of this passage is to:
 
-A) Persuade readers to delete social media  
-B) Present a problem related to social media  
-C) Explain how social media algorithms work  
-D) Compare different social media platforms  
+A) Persuade readers to delete social media
+B) Present a problem related to social media
+C) Explain how social media algorithms work
+D) Compare different social media platforms
 **[ ]** → **B**
 
 ---
@@ -184,10 +184,10 @@ D) Compare different social media platforms
 ## Question 14 — D5
 Which choice provides the most relevant context for sentence 3?
 
-A) "Algorithms prioritize content that generates engagement."  
-B) "Confirmation bias is not unique to social media."  
-C) "Facebook was founded in 2004 in a Harvard dorm room."  
-D) "Many Americans trust traditional news sources."  
+A) "Algorithms prioritize content that generates engagement."
+B) "Confirmation bias is not unique to social media."
+C) "Facebook was founded in 2004 in a Harvard dorm room."
+D) "Many Americans trust traditional news sources."
 **[ ]** → **A**
 
 ---
@@ -195,10 +195,10 @@ D) "Many Americans trust traditional news sources."
 ## Question 15 — D6
 The writer wants to add a statistic about misinformation. Which choice would be most effective?
 
-A) "Approximately 65% of Americans encounter news they believe is false weekly."  
-B) "Misinformation has existed since the invention of the printing press."  
-C) "Some politicians use social media to communicate directly with voters."  
-D) "Twitter was renamed X in 2023."  
+A) "Approximately 65% of Americans encounter news they believe is false weekly."
+B) "Misinformation has existed since the invention of the printing press."
+C) "Some politicians use social media to communicate directly with voters."
+D) "Twitter was renamed X in 2023."
 **[ ]** → **A**
 
 ---
@@ -206,10 +206,10 @@ D) "Twitter was renamed X in 2023."
 ## Question 16 — D6
 Which transition word best connects the ideas in sentences 3 and 4?
 
-A) "However"  
-B) "Therefore"  
-C) "Finally"  
-D) "Meanwhile"  
+A) "However"
+B) "Therefore"
+C) "Finally"
+D) "Meanwhile"
 **[ ]** → **A**
 
 ---
@@ -217,10 +217,10 @@ D) "Meanwhile"
 ## Question 17 — D7
 To strengthen the argument, the writer should add:
 
-A) A counterargument acknowledging social media's democratic benefits  
-B) A definition of democracy  
-C) Statistics about social media use in other countries  
-D) An anecdote about a celebrity's social media post  
+A) A counterargument acknowledging social media's democratic benefits
+B) A definition of democracy
+C) Statistics about social media use in other countries
+D) An anecdote about a celebrity's social media post
 **[ ]** → **A**
 
 ---
@@ -228,10 +228,10 @@ D) An anecdote about a celebrity's social media post
 ## Question 18 — D8
 Which sentence structure best maintains the academic tone of this passage?
 
-A) "Social media changes how people think about politics."  
-B) "Facebook, Twitter, and TikTok have revolutionized political information!"  
-C) "People use social media to get news, which is kind of scary."  
-D) "The government should regulate social media companies immediately."  
+A) "Social media changes how people think about politics."
+B) "Facebook, Twitter, and TikTok have revolutionized political information!"
+C) "People use social media to get news, which is kind of scary."
+D) "The government should regulate social media companies immediately."
 **[ ]** → **A**
 
 ---
@@ -245,10 +245,10 @@ D) "The government should regulate social media companies immediately."
 ## Question 19 — D7
 Which choice best supports the claim in sentence 1?
 
-A) The graduation rate has been climbing for 20 consecutive years.  
-B) The first high school in America was founded in 1647.  
-C) Some states have graduation rates above 95%.  
-D) Not all students who graduate are college-ready.  
+A) The graduation rate has been climbing for 20 consecutive years.
+B) The first high school in America was founded in 1647.
+C) Some states have graduation rates above 95%.
+D) Not all students who graduate are college-ready.
 **[ ]** → **A**
 
 ---
@@ -256,9 +256,8 @@ D) Not all students who graduate are college-ready.
 ## Question 20 — D8
 To address the counterargument in sentence 4 most effectively, the passage should:
 
-A) Acknowledge the criticism before explaining why it may be overstated  
-B) Delete the criticism entirely  
-C) Only present data supporting graduation rate increases  
-D) Change the topic to college attendance rates  
+A) Acknowledge the criticism before explaining why it may be overstated
+B) Delete the criticism entirely
+C) Only present data supporting graduation rate increases
+D) Change the topic to college attendance rates
 **[ ]** → **A**
-

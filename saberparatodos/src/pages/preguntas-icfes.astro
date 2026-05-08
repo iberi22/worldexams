@@ -1,42 +1,36 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import { countryConfig as defaultConfig, toRuntimeCountryConfig } from '../config';
 
-const title = 'Preguntas ICFES Gratis por Áreas | SaberParaTodos';
-const description = 'Practica preguntas ICFES de lectura crítica, matemáticas, ciencias, sociales e inglés. Entrena gratis por áreas y mejora tu preparación.';
+const country = Astro.locals.country ? toRuntimeCountryConfig(Astro.locals.country) : defaultConfig;
+
+const title = `${country.examName} Gratis por Areas | ${country.product.siteName}`;
+const description = `Practica preguntas ${country.examName} de ${country.subjects.map(s => s.name.toLowerCase()).join(', ')}. Entrena gratis por areas y mejora tu preparacion.`;
+const keywords = `preguntas ${country.examName} gratis, banco de preguntas ${country.examName}`;
 ---
 
-<Layout title={title} description={description} keywords="preguntas icfes gratis, banco de preguntas icfes, preguntas saber 11">
+<Layout title={title} description={description} keywords={keywords}>
   <section class="wrapper">
     <div class="container">
       <p class="eyebrow">Banco de preguntas</p>
-      <h1>Preguntas ICFES gratis para practicar por áreas</h1>
+      <h1>Preguntas {country.examName} gratis para practicar por areas</h1>
       <p class="lead">
-        Esta página reúne la intención de quienes buscan <strong>preguntas ICFES</strong>,
-        <strong>banco de preguntas</strong> y práctica gratuita para Saber 11 en Colombia.
+        Esta pagina reun la intencion de quienes buscan <strong>preguntas {country.examName}</strong>,
+        <strong>banco de preguntas</strong> y practica gratuita para {country.examFullName} en {country.name}.
       </p>
 
       <div class="cards">
-        <article>
-          <h2>Lectura crítica</h2>
-          <p>Fortalece comprensión, inferencia, estructura textual y análisis de argumentos.</p>
-        </article>
-        <article>
-          <h2>Matemáticas</h2>
-          <p>Practica resolución de problemas, álgebra, funciones, gráficos y razonamiento cuantitativo.</p>
-        </article>
-        <article>
-          <h2>Ciencias naturales</h2>
-          <p>Entrena interpretación de fenómenos, análisis experimental y aplicación de conceptos.</p>
-        </article>
-        <article>
-          <h2>Sociales e inglés</h2>
-          <p>Refuerza competencias ciudadanas, análisis social y lectura en inglés con ejercicios guiados.</p>
-        </article>
+        {country.subjects.map(subject => (
+          <article>
+            <h2>{subject.name}</h2>
+            <p>Practica {subject.name.toLowerCase()} con ejercicios guiados y feedback instantaneo.</p>
+          </article>
+        ))}
       </div>
 
       <div class="cta-row">
-        <a href="/practica" class="btn btn-primary">Ir a la práctica</a>
-        <a href="/simulacro-icfes" class="btn btn-secondary">Ver simulacro ICFES</a>
+        <a href="/practica" class="btn btn-primary">Ir a la practica</a>
+        <a href="/guia-examen" class="btn btn-secondary">Ver guia {country.examName}</a>
       </div>
     </div>
   </section>
@@ -48,13 +42,15 @@ const description = 'Practica preguntas ICFES de lectura crítica, matemáticas,
   .eyebrow { color: #fcd116; text-transform: uppercase; letter-spacing: 0.12em; font: 0.75rem 'Fira Code', monospace; }
   h1, h2 { color: #f5f5dc; }
   h1 { font-size: clamp(2.25rem, 5vw, 4rem); margin: 1rem 0; max-width: 12ch; }
-  p { color: rgba(245, 245, 220, 0.78); line-height: 1.7; }
-  .lead { max-width: 60ch; }
-  .cards { display: grid; gap: 1rem; margin: 2rem 0; }
-  .cards article { padding: 1.5rem; border-radius: 1.25rem; background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.1); }
-  .cta-row { display: flex; flex-wrap: wrap; gap: 1rem; }
-  .btn { display: inline-flex; align-items: center; justify-content: center; padding: 0.9rem 1.25rem; border-radius: 999px; text-decoration: none; font-weight: 700; }
-  .btn-primary { background: linear-gradient(135deg, #fcd116, #ffe06a); color: #111827; }
-  .btn-secondary { border: 1px solid rgba(255,255,255,0.18); color: #f5f5dc; }
-  @media (min-width: 900px) { .cards { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+  .lead { color: rgba(245,245,220,0.7); font-size: 1.2rem; margin: 2rem 0; line-height: 1.6; max-width: 55ch; }
+  .cards { display: grid; gap: 1.5rem; margin: 3rem 0; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
+  .cards article { background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 1rem; padding: 1.5rem; }
+  .cards h2 { color: #10b981; font-size: 1.1rem; margin-bottom: 0.5rem; }
+  .cards p { color: rgba(245,245,220,0.6); font-size: 0.9rem; }
+  .cta-row { display: flex; gap: 1rem; margin-top: 2rem; flex-wrap: wrap; }
+  .btn { padding: 0.75rem 1.5rem; border-radius: 0.5rem; font-weight: 600; text-decoration: none; transition: all 0.2s; }
+  .btn-primary { background: #10b981; color: #000; }
+  .btn-primary:hover { background: #059669; transform: translateY(-2px); }
+  .btn-secondary { background: transparent; border: 1px solid rgba(255,255,255,0.2); color: #f5f5dc; }
+  .btn-secondary:hover { border-color: #10b981; color: #10b981; }
 </style>

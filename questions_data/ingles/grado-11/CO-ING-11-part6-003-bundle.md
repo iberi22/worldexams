@@ -191,5 +191,3 @@ What is the author's attitude towards the future of Colombian biodiversity?
 | Fácil (Dificultad 1-2) | 2 |
 | Media (Dificultad 3) | 2 |
 | Difícil (Dificultad 4-5) | 2 |
-
-

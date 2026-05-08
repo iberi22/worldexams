@@ -29,10 +29,10 @@ license: "CC BY-NC-SA 4.0"
 
 Which word means 'the natural world, especially the external world or universe'?
 
-A) ecosystem  
-B) climate  
-C) nature [x]  
-D) weather  
+A) ecosystem
+B) climate
+C) nature [x]
+D) weather
 
 ---
 
@@ -41,10 +41,10 @@ D) weather
 
 A medical _____ is a professional who assists doctors in treating patients.
 
-A) nurse [x]  
-B) lawyer  
-C) teacher  
-D) architect  
+A) nurse [x]
+B) lawyer
+C) teacher
+D) architect
 
 ---
 
@@ -53,10 +53,10 @@ D) architect
 
 To _____ money means to keep it in a bank or safe place for future use.
 
-A) waste  
-B) save [x]  
-C) donate  
-D) lend  
+A) waste
+B) save [x]
+C) donate
+D) lend
 
 ---
 
@@ -65,10 +65,10 @@ D) lend
 
 A job _____ is an opportunity offered by a company to applicants.
 
-A) vacancy [x]  
-B) vacation  
-C) variable  
-D) vacancy's  
+A) vacancy [x]
+B) vacation
+C) variable
+D) vacancy's
 
 ---
 
@@ -81,10 +81,10 @@ D) vacancy's
 
 The process by which plants make their own food using sunlight is called _____ .
 
-A) respiration  
-B) photosynthesis [x]  
-C) fermentation  
-D) evaporation  
+A) respiration
+B) photosynthesis [x]
+C) fermentation
+D) evaporation
 
 ---
 
@@ -93,10 +93,10 @@ D) evaporation
 
 The musician's latest album received widespread _____ from critics and fans alike.
 
-A) criticism  
-B) praise [x]  
-C) indifference  
-D) rejection  
+A) criticism
+B) praise [x]
+C) indifference
+D) rejection
 
 ---
 
@@ -105,10 +105,10 @@ D) rejection
 
 Students are expected to _____ their own research for the final project.
 
-A) conduct [x]  
-B) conclude  
-C) confess  
-D) confuse  
+A) conduct [x]
+B) conclude
+C) confess
+D) confuse
 
 ---
 
@@ -117,10 +117,10 @@ D) confuse
 
 The government introduced new _____ to protect workers' rights.
 
-A) regulations [x]  
-B) relations  
-C) relatives  
-D) registrations  
+A) regulations [x]
+B) relations
+C) relatives
+D) registrations
 
 ---
 
@@ -129,10 +129,10 @@ D) registrations
 
 Before traveling abroad, make sure your passport is still _____ .
 
-A) valid [x]  
-B) expired  
-C) overdue  
-D) void  
+A) valid [x]
+B) expired
+C) overdue
+D) void
 
 ---
 
@@ -141,10 +141,10 @@ D) void
 
 The bank offered her a low-interest _____ to start her own business.
 
-A) loan [x]  
-B) grant  
-C) donation  
-D) subsidy  
+A) loan [x]
+B) grant
+C) donation
+D) subsidy
 
 ---
 
@@ -157,10 +157,10 @@ D) subsidy
 
 The company's annual _____ showed record profits for the third consecutive year.
 
-A) revenue [x]  
-B) deficit  
-C) debt  
-D) loss  
+A) revenue [x]
+B) deficit
+C) debt
+D) loss
 
 ---
 
@@ -169,10 +169,10 @@ D) loss
 
 Rising global temperatures are causing _____ to melt at an alarming rate.
 
-A) glaciers [x]  
-B) valleys  
-C) forests  
-D) rivers  
+A) glaciers [x]
+B) valleys
+C) forests
+D) rivers
 
 ---
 
@@ -181,10 +181,10 @@ D) rivers
 
 The patient was advised to _____ sugar and fat from her daily diet.
 
-A) reduce [x]  
-B) increase  
-C) add  
-D) ignore  
+A) reduce [x]
+B) increase
+C) add
+D) ignore
 
 ---
 
@@ -193,10 +193,10 @@ D) ignore
 
 A _____ is a collection of related data used for analysis and research.
 
-A) datum  
-B) dataset [x]  
-C) data  
-D) dating  
+A) datum
+B) dataset [x]
+C) data
+D) dating
 
 ---
 
@@ -205,10 +205,10 @@ D) dating
 
 The museum's new exhibition features _____ artworks from the Renaissance period.
 
-A) magnificent [x]  
-B) magnificently  
-C) magnified  
-D) magnify  
+A) magnificent [x]
+B) magnificently
+C) magnified
+D) magnify
 
 ---
 
@@ -217,10 +217,10 @@ D) magnify
 
 Communities affected by natural disasters often _____ on international aid for support.
 
-A) rely [x]  
-B) reply  
-C) supply  
-D) apply  
+A) rely [x]
+B) reply
+C) supply
+D) apply
 
 ---
 
@@ -233,10 +233,10 @@ D) apply
 
 Candidates must meet the minimum _____ requirements to be considered for admission.
 
-A) academic [x]  
-B) athlete  
-C) artistic  
-D) social  
+A) academic [x]
+B) athlete
+C) artistic
+D) social
 
 ---
 
@@ -245,10 +245,10 @@ D) social
 
 The travel agency specialized in _____ trips for adventure-seeking tourists.
 
-A) eco-tourism [x]  
-B) space travel  
-C) medical tourism  
-D) religious pilgrimage  
+A) eco-tourism [x]
+B) space travel
+C) medical tourism
+D) religious pilgrimage
 
 ---
 
@@ -257,10 +257,10 @@ D) religious pilgrimage
 
 The CEO announced a strategic _____ to merge with the company's main competitor.
 
-A) merger [x]  
-B) division  
-C) liquidation  
-D) separation  
+A) merger [x]
+B) division
+C) liquidation
+D) separation
 
 ---
 
@@ -269,7 +269,7 @@ D) separation
 
 Which of the following best describes the concept of 'sustainable development'?
 
-A) Unlimited industrial growth at any cost  
-B) Meeting present needs without compromising future generations [x]  
-C) Abandoning all technology  
-D) Prioritizing economic growth over environmental protection  
+A) Unlimited industrial growth at any cost
+B) Meeting present needs without compromising future generations [x]
+C) Abandoning all technology
+D) Prioritizing economic growth over environmental protection

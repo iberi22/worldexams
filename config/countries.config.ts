@@ -227,16 +227,20 @@ export const mexicoConfig: CountryConfig = {
   nameEnglish: 'Mexico',
   flag: '🇲🇽',
 
-  examName: 'PLANEA',
-  examFullName: 'Plan Nacional para la Evaluación de los Aprendizajes',
-  examAuthority: 'SEP / INEE',
+  examName: 'EXANI-II',
+  examFullName: 'Examen Nacional de Ingreso a la Educación Superior',
+  examAuthority: 'CENEVAL / SEP',
 
   locale: 'es-MX',
   timezone: 'America/Mexico_City',
 
   grades: [
     { id: 3, name: '3° Primaria', description: 'Tercer grado de primaria' },
+    { id: 4, name: '4° Primaria', description: 'Cuarto grado de primaria' },
+    { id: 5, name: '5° Primaria', description: 'Quinto grado de primaria' },
     { id: 6, name: '6° Primaria', description: 'Sexto grado de primaria' },
+    { id: 7, name: '1° Secundaria', description: 'Primer grado de secundaria' },
+    { id: 8, name: '2° Secundaria', description: 'Segundo grado de secundaria' },
     { id: 9, name: '3° Secundaria', description: 'Tercer grado de secundaria' },
     { id: 12, name: '3° Preparatoria', description: 'Tercer grado de preparatoria' },
   ],
@@ -447,17 +451,11 @@ export const peruConfig: CountryConfig = {
   timezone: 'America/Lima',
 
   grades: [
-    { id: 1, name: '1° Primaria', description: 'Primer grado de primaria' },
     { id: 2, name: '2° Primaria', description: 'Segundo grado de primaria' },
-    { id: 3, name: '3° Primaria', description: 'Tercer grado de primaria' },
     { id: 4, name: '4° Primaria', description: 'Cuarto grado de primaria' },
-    { id: 5, name: '5° Primaria', description: 'Quinto grado de primaria' },
     { id: 6, name: '6° Primaria', description: 'Sexto grado de primaria' },
-    { id: 7, name: '1° Secundaria', description: 'Primer grado de secundaria' },
-    { id: 8, name: '2° Secundaria', description: 'Segundo grado de secundaria' },
-    { id: 9, name: '3° Secundaria', description: 'Tercer grado de secundaria' },
-    { id: 10, name: '4° Secundaria', description: 'Cuarto grado de secundaria' },
-    { id: 11, name: '5° Secundaria', description: 'Quinto grado de secundaria' },
+    { id: 9, name: '2° Secundaria', description: 'Segundo grado de secundaria' },
+    { id: 11, name: '4° Secundaria', description: 'Cuarto grado de secundaria' },
   ],
 
   subjects: [
@@ -465,9 +463,6 @@ export const peruConfig: CountryConfig = {
     { id: 'comunicacion', name: 'Comunicación', icon: '📖', globalId: 'language' },
     { id: 'ciencia', name: 'Ciencia y Tecnología', icon: '🔬', globalId: 'science' },
     { id: 'sociales', name: 'Ciencias Sociales', icon: '🌍', globalId: 'social' },
-    { id: 'ingles', name: 'Inglés', icon: '🇬🇧', globalId: 'english' },
-    { id: 'psicologia', name: 'Psicología', icon: '🧠', globalId: 'psychology' },
-    { id: 'filosofia', name: 'Filosofía', icon: '🤔', globalId: 'philosophy' },
   ],
 
   theme: {
@@ -482,12 +477,12 @@ export const peruConfig: CountryConfig = {
 
   culture: {
     currency: { code: 'PEN', symbol: 'S/', name: 'Soles' },
-    cities: ['Lima', 'Arequipa', 'Cusco', 'Trujillo', 'Chiclayo', 'Piura', 'Iquitos', 'Huancayo'],
+    cities: ['Lima', 'Arequipa', 'Cusco', 'Trujillo', 'Chiclayo', 'Piura'],
     commonNames: {
-      male: ['Luis', 'José', 'Carlos', 'Jorge', 'Miguel', 'Diego', 'Juan', 'Mateo'],
-      female: ['María', 'Rosa', 'Ana', 'Carmen', 'Lucía', 'Valeria', 'Valentina', 'Sofía'],
+      male: ['Luis', 'José', 'Carlos', 'Jorge', 'Miguel', 'Diego'],
+      female: ['María', 'Rosa', 'Ana', 'Carmen', 'Lucía', 'Valeria'],
     },
-    culturalReferences: ['Machu Picchu', 'ceviche', 'llama', 'vicuña', 'quipu', 'incas', 'papa a la huancaína', 'pisco', 'Amazonas'],
+    culturalReferences: ['Machu Picchu', 'ceviche', 'llama', 'vicuña', 'quipu', 'incas'],
   },
 
   githubRepo: 'worldexams/saber-pe',
@@ -511,6 +506,74 @@ export const peruConfig: CountryConfig = {
 /**
  * 🇧🇷 Brasil - ENEM
  */
+export const ecuadorConfig: CountryConfig = {
+  code: 'EC',
+  name: 'Ecuador',
+  nameEnglish: 'Ecuador',
+  flag: '🇪🇨',
+
+  examName: 'SENESCYT',
+  examFullName: 'Sistema Nacional de Nivelacion y Admision',
+  examAuthority: 'SENESCYT',
+
+  locale: 'es-EC',
+  timezone: 'America/Guayaquil',
+
+  grades: [
+    { id: 3, name: '3° EGB', description: 'Tercer grado de educacion general basica' },
+    { id: 6, name: '6° EGB', description: 'Sexto grado de educacion general basica' },
+    { id: 9, name: '9° EGB', description: 'Noveno grado de educacion general basica' },
+    { id: 12, name: '3° Bachillerato', description: 'Tercer curso de bachillerato' },
+  ],
+
+  subjects: [
+    { id: 'matematica', name: 'Matematica', icon: '🔢', globalId: 'math' },
+    { id: 'lengua', name: 'Lengua y Literatura', icon: '📖', globalId: 'language' },
+    { id: 'ciencias', name: 'Ciencias Naturales', icon: '🔬', globalId: 'science' },
+    { id: 'sociales', name: 'Estudios Sociales', icon: '🌍', globalId: 'social' },
+  ],
+
+  theme: {
+    primary: '#FCD116',
+    secondary: '#003893',
+    accent: '#CE1126',
+    bgDark: '#1a1a2e',
+    bgCard: '#16213e',
+    textPrimary: '#ffffff',
+    textSecondary: '#a0a0a0',
+  },
+
+  culture: {
+    currency: { code: 'USD', symbol: '$', name: 'Dolares estadounidenses' },
+    cities: ['Quito', 'Guayaquil', 'Cuenca', 'Ambato', 'Manta', 'Loja'],
+    commonNames: {
+      male: ['Mateo', 'Jose', 'Juan', 'Daniel', 'David', 'Andres'],
+      female: ['Sofia', 'Camila', 'Valentina', 'Maria', 'Isabella', 'Daniela'],
+    },
+    culturalReferences: ['Mitad del Mundo', 'Galapagos', 'pasillo', 'ceviche', 'cacao', 'Cotopaxi'],
+  },
+
+  githubRepo: 'worldexams/saber-ec',
+  product: {
+    siteName: 'WorldExams Ecuador',
+    siteUrl: 'https://worldexams.app/ec',
+    contactEmail: 'contacto@worldexams.app',
+    guideLabel: 'SENESCYT',
+    guideYear: 2026,
+    seoKeywords: ['senescyt ecuador', 'simulacro senescyt', 'admision universitaria ecuador'],
+    defaultDescription: 'Practica con simulacros y guias para SENESCYT y procesos de admision universitaria en Ecuador.',
+    features: {
+      blog: false,
+      preuniversitario: false,
+      developerPortal: true,
+      comments: true,
+    },
+  },
+};
+
+/**
+ * ðŸ‡§ðŸ‡· Brasil - ENEM
+ */
 export const brasilConfig: CountryConfig = {
   code: 'BR',
   name: 'Brasil',
@@ -526,6 +589,7 @@ export const brasilConfig: CountryConfig = {
 
   grades: [
     { id: 5, name: '5º Ano', description: 'Quinto ano do ensino fundamental' },
+    { id: 7, name: '7º Ano', description: 'Sétimo ano do ensino fundamental' },
     { id: 9, name: '9º Ano', description: 'Nono ano do ensino fundamental' },
     { id: 12, name: '3º Ano EM', description: 'Terceiro ano do ensino médio' },
   ],
@@ -672,6 +736,7 @@ export const allCountries: CountryConfig[] = [
   argentinaConfig,
   chileConfig,
   peruConfig,
+  ecuadorConfig,
   brasilConfig,
   usaConfig,
 ];

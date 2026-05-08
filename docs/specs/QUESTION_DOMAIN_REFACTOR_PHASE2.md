@@ -75,4 +75,3 @@ Se actualizo `src/lib/questions/index.ts` para exportar:
 - Menos duplicacion de reglas de negocio.
 - Logica de seleccion y lookup ahora centralizada y testeada.
 - Comportamiento funcional preservado con fallback existentes.
-
