@@ -4,12 +4,12 @@
 /**
  * Country codes supported by World Exams
  */
-export type CountryCode = 'CO' | 'MX' | 'AR' | 'CL' | 'PE' | 'EC' | 'BR' | 'US' | 'PA' | 'CR' | 'GT' | 'DO' | 'SV' | 'HN' | 'NI';
+export type CountryCode = 'CO' | 'MX' | 'AR' | 'CL' | 'PE' | 'EC' | 'BR' | 'US' | 'PA' | 'CR' | 'GT' | 'DO' | 'SV' | 'HN' | 'NI' | 'UY' | 'PY' | 'BO';
 
 /**
  * Supported languages
  */
-export type LanguageCode = 'es-CO' | 'es-MX' | 'es-AR' | 'es-CL' | 'es-PE' | 'es-EC' | 'pt-BR' | 'en-US' | 'es-PA' | 'es-CR' | 'es-GT' | 'es-DO' | 'es-SV' | 'es-HN' | 'es-NI';
+export type LanguageCode = 'es-CO' | 'es-MX' | 'es-AR' | 'es-CL' | 'es-PE' | 'es-EC' | 'pt-BR' | 'en-US' | 'es-PA' | 'es-CR' | 'es-GT' | 'es-DO' | 'es-SV' | 'es-HN' | 'es-NI' | 'es-UY' | 'es-PY' | 'es-BO';
 
 /**
  * Grade configuration for a country
@@ -130,7 +130,7 @@ export interface CountryConfig {
 // =============================================================================
 
 /**
- * 🇨🇴 Colombia - ICFES Saber
+ * Configuration for colombia
  */
 export const colombiaConfig: CountryConfig = {
   code: 'CO',
@@ -219,7 +219,7 @@ export const colombiaConfig: CountryConfig = {
 };
 
 /**
- * 🇲🇽 México - PLANEA
+ * Configuration for mexico
  */
 export const mexicoConfig: CountryConfig = {
   code: 'MX',
@@ -298,7 +298,7 @@ export const mexicoConfig: CountryConfig = {
 };
 
 /**
- * 🇦🇷 Argentina - APRENDER
+ * Configuration for argentina
  */
 export const argentinaConfig: CountryConfig = {
   code: 'AR',
@@ -367,7 +367,7 @@ export const argentinaConfig: CountryConfig = {
 };
 
 /**
- * 🇨🇱 Chile - SIMCE
+ * Configuration for chile
  */
 export const chileConfig: CountryConfig = {
   code: 'CL',
@@ -435,7 +435,7 @@ export const chileConfig: CountryConfig = {
 };
 
 /**
- * 🇵🇪 Perú - ECE
+ * Configuration for peru
  */
 export const peruConfig: CountryConfig = {
   code: 'PE',
@@ -504,7 +504,7 @@ export const peruConfig: CountryConfig = {
 };
 
 /**
- * 🇧🇷 Brasil - ENEM
+ * Configuration for ecuador
  */
 export const ecuadorConfig: CountryConfig = {
   code: 'EC',
@@ -572,7 +572,7 @@ export const ecuadorConfig: CountryConfig = {
 };
 
 /**
- * ðŸ‡§ðŸ‡· Brasil - ENEM
+ * Configuration for brasil
  */
 export const brasilConfig: CountryConfig = {
   code: 'BR',
@@ -648,7 +648,7 @@ export const brasilConfig: CountryConfig = {
 };
 
 /**
- * 🇺🇸 USA - SAT/ACT
+ * Configuration for usa
  */
 export const usaConfig: CountryConfig = {
   code: 'US',
@@ -723,82 +723,8 @@ export const usaConfig: CountryConfig = {
   },
 };
 
-// =============================================================================
-// HELPER FUNCTIONS
-// =============================================================================
-
 /**
- * Get all country configurations
- */
-export const allCountries: CountryConfig[] = [
-  colombiaConfig,
-  mexicoConfig,
-  argentinaConfig,
-  chileConfig,
-  peruConfig,
-  ecuadorConfig,
-  brasilConfig,
-  usaConfig,
-  panamaConfig,
-  costaRicaConfig,
-  guatemalaConfig,
-  dominicanRepublicConfig,
-  elSalvadorConfig,
-  hondurasConfig,
-  nicaraguaConfig,
-];
-
-/**
- * Get country config by code
- */
-export function getCountryConfig(code: CountryCode): CountryConfig | undefined {
-  return allCountries.find(c => c.code === code);
-}
-
-/**
- * Get subject mapping between countries
- */
-export function mapSubject(globalId: string, targetCountry: CountryCode): SubjectConfig | undefined {
-  const country = getCountryConfig(targetCountry);
-  return country?.subjects.find(s => s.globalId === globalId);
-}
-
-/**
- * Get grade mapping (approximate, not all countries have same structure)
- */
-export function findClosestGrade(sourceGrade: number, targetCountry: CountryCode): GradeConfig | undefined {
-  const country = getCountryConfig(targetCountry);
-  if (!country) return undefined;
-
-  // Find exact match or closest
-  const exact = country.grades.find(g => g.id === sourceGrade);
-  if (exact) return exact;
-
-  // Find closest
-  return country.grades.reduce((prev, curr) =>
-    Math.abs(curr.id - sourceGrade) < Math.abs(prev.id - sourceGrade) ? curr : prev
-  );
-}
-
-/**
- * Generate CSS variables from theme
- */
-export function generateThemeCSS(theme: ThemeConfig): string {
-  return `
-:root {
-  --color-primary: ${theme.primary};
-  --color-secondary: ${theme.secondary};
-  --color-accent: ${theme.accent};
-  --bg-dark: ${theme.bgDark};
-  --bg-card: ${theme.bgCard};
-  --text-primary: ${theme.textPrimary};
-  --text-secondary: ${theme.textSecondary};
-}
-  `.trim();
-}
-
-/**
- * 🇵🇦 Panamá - CRECER / Graduandos
+ * Configuration for panama
  */
 export const panamaConfig: CountryConfig = {
   code: 'PA',
@@ -853,7 +779,7 @@ export const panamaConfig: CountryConfig = {
 };
 
 /**
- * 🇨🇷 Costa Rica - Pruebas Nacionales
+ * Configuration for costaRica
  */
 export const costaRicaConfig: CountryConfig = {
   code: 'CR',
@@ -908,7 +834,7 @@ export const costaRicaConfig: CountryConfig = {
 };
 
 /**
- * 🇬🇹 Guatemala - Graduandos
+ * Configuration for guatemala
  */
 export const guatemalaConfig: CountryConfig = {
   code: 'GT',
@@ -962,7 +888,7 @@ export const guatemalaConfig: CountryConfig = {
 };
 
 /**
- * 🇩🇴 República Dominicana - Pruebas Nacionales
+ * Configuration for dominicanRepublic
  */
 export const dominicanRepublicConfig: CountryConfig = {
   code: 'DO',
@@ -1016,7 +942,7 @@ export const dominicanRepublicConfig: CountryConfig = {
 };
 
 /**
- * 🇸🇻 El Salvador - AVANZO
+ * Configuration for elSalvador
  */
 export const elSalvadorConfig: CountryConfig = {
   code: 'SV',
@@ -1070,7 +996,7 @@ export const elSalvadorConfig: CountryConfig = {
 };
 
 /**
- * 🇭🇳 Honduras - Pruebas Nacionales
+ * Configuration for honduras
  */
 export const hondurasConfig: CountryConfig = {
   code: 'HN',
@@ -1124,7 +1050,7 @@ export const hondurasConfig: CountryConfig = {
 };
 
 /**
- * 🇳🇮 Nicaragua - Bachillerato
+ * Configuration for nicaragua
  */
 export const nicaraguaConfig: CountryConfig = {
   code: 'NI',
@@ -1176,3 +1102,229 @@ export const nicaraguaConfig: CountryConfig = {
     defaultDescription: 'Práctica para los exámenes de bachillerato en Nicaragua.',
   },
 };
+
+/**
+ * Configuration for uruguay
+ */
+export const uruguayConfig: CountryConfig = {
+  code: 'UY',
+  name: 'Uruguay',
+  nameEnglish: 'Uruguay',
+  flag: '🇺🇾',
+  examName: 'Aristas',
+  examFullName: 'Aristas - Evaluación Nacional de Logros de Aprendizaje',
+  examAuthority: 'INEEd',
+  locale: 'es-UY',
+  timezone: 'America/Montevideo',
+  grades: [
+    { id: 3, name: '3° Primaria', description: 'Tercer año de primaria' },
+    { id: 6, name: '6° Primaria', description: 'Sexto año de primaria' },
+    { id: 9, name: '3° Ciclo Básico', description: 'Tercer año de educación media básica' },
+    { id: 12, name: '6° Bachillerato', description: 'Sexto año (Tercero de bachillerato)' },
+  ],
+  subjects: [
+    { id: 'matematica', name: 'Matemática', icon: '🔢', globalId: 'math' },
+    { id: 'lengua', name: 'Lengua', icon: '📖', globalId: 'language' },
+    { id: 'ciencias', name: 'Ciencias', icon: '🔬', globalId: 'science' },
+    { id: 'sociales', name: 'Sociales', icon: '🌍', globalId: 'social' },
+  ],
+  theme: {
+    primary: '#0038A8',      // Azul
+    secondary: '#FFFFFF',    // Blanco
+    accent: '#FCD116',       // Sol de Mayo
+    bgDark: '#1a1a2e',
+    bgCard: '#16213e',
+    textPrimary: '#ffffff',
+    textSecondary: '#a0a0a0',
+  },
+  culture: {
+    currency: { code: 'UYU', symbol: '$', name: 'Pesos uruguayos' },
+    cities: ['Montevideo', 'Salto', 'Paysandú', 'Maldonado', 'Rivera', 'Colonia'],
+    commonNames: {
+      male: ['Sebastián', 'Santiago', 'Nicolás', 'Matías', 'Diego'],
+      female: ['Valentina', 'Lucía', 'Florencia', 'Martina', 'Sofía'],
+    },
+    culturalReferences: ['mate', 'rambla', 'candombe', 'fútbol', 'Ceibal', 'chivito'],
+    languageVariant: 'voseo',
+  },
+  githubRepo: 'worldexams/saber-uy',
+  product: {
+    siteName: 'WorldExams Uruguay',
+    siteUrl: 'https://worldexams.app/uy',
+    contactEmail: 'contacto@worldexams.app',
+    guideLabel: 'INEEd',
+    guideYear: 2026,
+    seoKeywords: ['aristas uruguay', 'ineed', 'simulacro uy'],
+    defaultDescription: 'Práctica para la evaluación nacional Aristas en Uruguay.',
+  },
+};
+
+/**
+ * Configuration for paraguay
+ */
+export const paraguayConfig: CountryConfig = {
+  code: 'PY',
+  name: 'Paraguay',
+  nameEnglish: 'Paraguay',
+  flag: '🇵🇾',
+  examName: 'SNEPE',
+  examFullName: 'Sistema Nacional de Evaluación del Proceso Educativo',
+  examAuthority: 'MEC',
+  locale: 'es-PY',
+  timezone: 'America/Asuncion',
+  grades: [
+    { id: 3, name: '3° Grado', description: 'Tercer grado de EEB' },
+    { id: 6, name: '6° Grado', description: 'Sexto grado de EEB' },
+    { id: 9, name: '9° Grado', description: 'Noveno grado de EEB' },
+    { id: 12, name: '3° Curso', description: 'Tercer curso de la educación media' },
+  ],
+  subjects: [
+    { id: 'matematica', name: 'Matemática', icon: '🔢', globalId: 'math' },
+    { id: 'comunicacion', name: 'Comunicación', icon: '📖', globalId: 'language' },
+    { id: 'ciencias', name: 'Ciencias Naturales', icon: '🔬', globalId: 'science' },
+    { id: 'sociales', name: 'Ciencias Sociales', icon: '🌍', globalId: 'social' },
+  ],
+  theme: {
+    primary: '#D52B1E',      // Rojo
+    secondary: '#FFFFFF',    // Blanco
+    accent: '#0038A8',       // Azul
+    bgDark: '#1a1a2e',
+    bgCard: '#16213e',
+    textPrimary: '#ffffff',
+    textSecondary: '#a0a0a0',
+  },
+  culture: {
+    currency: { code: 'PYG', symbol: '₲', name: 'Guaraníes' },
+    cities: ['Asunción', 'Ciudad del Este', 'Encarnación', 'Luque', 'San Lorenzo'],
+    commonNames: {
+      male: ['Ramón', 'Jorge', 'Luis', 'Carlos', 'José'],
+      female: ['María', 'Liz', 'Gladys', 'Carmen', 'Miriam'],
+    },
+    culturalReferences: ['tereré', 'chipa', 'ñandutí', 'guaraní', 'jopará'],
+  },
+  githubRepo: 'worldexams/saber-py',
+  product: {
+    siteName: 'WorldExams Paraguay',
+    siteUrl: 'https://worldexams.app/py',
+    contactEmail: 'contacto@worldexams.app',
+    guideLabel: 'MEC',
+    guideYear: 2026,
+    seoKeywords: ['snepe paraguay', 'mec', 'simulacro py'],
+    defaultDescription: 'Práctica para la evaluación nacional SNEPE en Paraguay.',
+  },
+};
+
+/**
+ * Configuration for bolivia
+ */
+export const boliviaConfig: CountryConfig = {
+  code: 'BO',
+  name: 'Bolivia',
+  nameEnglish: 'Bolivia',
+  flag: '🇧🇴',
+  examName: 'OPCE',
+  examFullName: 'Evaluación de Logros de Aprendizaje',
+  examAuthority: 'Ministerio de Educación',
+  locale: 'es-BO',
+  timezone: 'America/La_Paz',
+  grades: [
+    { id: 6, name: '6° Primaria', description: 'Sexto año de primaria comunitaria vocacional' },
+    { id: 12, name: '6° Secundaria', description: 'Sexto año de secundaria comunitaria productiva' },
+  ],
+  subjects: [
+    { id: 'matematica', name: 'Matemática', icon: '🔢', globalId: 'math' },
+    { id: 'comunicacion', name: 'Comunicación y Lenguajes', icon: '📖', globalId: 'language' },
+    { id: 'ciencias', name: 'Ciencias Naturales', icon: '🔬', globalId: 'science' },
+    { id: 'sociales', name: 'Ciencias Sociales', icon: '🌍', globalId: 'social' },
+  ],
+  theme: {
+    primary: '#D52B1E',      // Rojo
+    secondary: '#FCD116',    // Amarillo
+    accent: '#007A33',       // Verde
+    bgDark: '#1a1a2e',
+    bgCard: '#16213e',
+    textPrimary: '#ffffff',
+    textSecondary: '#a0a0a0',
+  },
+  culture: {
+    currency: { code: 'BOB', symbol: 'Bs', name: 'Bolivianos' },
+    cities: ['La Paz', 'Santa Cruz de la Sierra', 'Cochabamba', 'El Alto', 'Sucre', 'Potosí'],
+    commonNames: {
+      male: ['Jhonny', 'Grover', 'Walter', 'Luis', 'Juan'],
+      female: ['Roxana', 'Marisol', 'Elizabeth', 'María', 'Ana'],
+    },
+    culturalReferences: ['wiphala', 'folklore', 'teleférico', 'altiplano', 'salar de uyuni'],
+  },
+  githubRepo: 'worldexams/saber-bo',
+  product: {
+    siteName: 'WorldExams Bolivia',
+    siteUrl: 'https://worldexams.app/bo',
+    contactEmail: 'contacto@worldexams.app',
+    guideLabel: 'MINEDU',
+    guideYear: 2026,
+    seoKeywords: ['opce bolivia', 'ministerio educacion', 'simulacro bo'],
+    defaultDescription: 'Práctica para la evaluación nacional de logros de aprendizaje en Bolivia.',
+  },
+};
+
+// =============================================================================
+// HELPER FUNCTIONS
+// =============================================================================
+
+export const allCountries: CountryConfig[] = [
+  colombiaConfig,
+  mexicoConfig,
+  argentinaConfig,
+  chileConfig,
+  peruConfig,
+  ecuadorConfig,
+  brasilConfig,
+  usaConfig,
+  panamaConfig,
+  costaRicaConfig,
+  guatemalaConfig,
+  dominicanRepublicConfig,
+  elSalvadorConfig,
+  hondurasConfig,
+  nicaraguaConfig,
+  uruguayConfig,
+  paraguayConfig,
+  boliviaConfig,
+];
+
+export function getCountryConfig(code: CountryCode): CountryConfig | undefined {
+  return allCountries.find(c => c.code === code);
+}
+
+export function mapSubject(globalId: string, targetCountry: CountryCode): SubjectConfig | undefined {
+  const country = getCountryConfig(targetCountry);
+  return country?.subjects.find(s => s.globalId === globalId);
+}
+
+export function findClosestGrade(sourceGrade: number, targetCountry: CountryCode): GradeConfig | undefined {
+  const country = getCountryConfig(targetCountry);
+  if (!country) return undefined;
+
+  // Find exact match or closest
+  const exact = country.grades.find(g => g.id === sourceGrade);
+  if (exact) return exact;
+
+  // Find closest
+  return country.grades.reduce((prev, curr) =>
+    Math.abs(curr.id - sourceGrade) < Math.abs(prev.id - sourceGrade) ? curr : prev
+  );
+}
+
+export function generateThemeCSS(theme: ThemeConfig): string {
+  return `
+:root {
+  --color-primary: ${theme.primary};
+  --color-secondary: ${theme.secondary};
+  --color-accent: ${theme.accent};
+  --bg-dark: ${theme.bgDark};
+  --bg-card: ${theme.bgCard};
+  --text-primary: ${theme.textPrimary};
+  --text-secondary: ${theme.textSecondary};
+}
+  `.trim();
+}
