@@ -2,7 +2,7 @@ import { registerRoot } from "remotion";
 import React from "react";
 import { Composition } from "remotion";
 import { HelloWorld } from "./src/HelloWorld/index";
-import { VerticalMathTemplate } from "./src/vertical-math-template";
+import { VerticalMathTemplate, verticalMathCalculateMetadata } from "./src/vertical-math-template";
 
 export const RemotionRoot: React.FC = () => {
   return (
@@ -33,6 +33,7 @@ export const RemotionRoot: React.FC = () => {
         fps={30}
         width={1080}
         height={1920}
+        calculateMetadata={verticalMathCalculateMetadata}
         defaultProps={{
           title: "Ecuaciones de Primer Grado",
           topic: "Matemáticas",
@@ -60,6 +61,7 @@ export const RemotionRoot: React.FC = () => {
           ],
           timecodes: [30, 90, 150, 210],
           duration: 270,
+          audioSrc: null,
         }}
       />
     </>

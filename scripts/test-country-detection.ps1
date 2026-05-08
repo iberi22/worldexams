@@ -21,13 +21,13 @@ $failCount = 0
 foreach ($test in $testIPs) {
   Write-Host ""
   Write-Host "Testing IP: $($test.ip) ($($test.name))" -ForegroundColor Yellow
-  
+
   try {
     $result = Invoke-RestMethod -Uri "http://ip-api.com/json/$($test.ip)" -TimeoutSec 10 -ErrorAction Stop
-    
+
     $detectedCountry = $result.countryCode
     $countryName = $result.country_name
-    
+
     if ($detectedCountry -eq $test.expected) {
       Write-Host "  ✅ PASS: Detected $($detectedCountry) ($countryName)" -ForegroundColor Green
       $passCount++

@@ -1,18 +1,22 @@
 """
 Fix Astro pages to use Astro.locals.country for dynamic country-specific content.
 """
+
 from pathlib import Path
 
-BASE = Path(r'E:\scripts-python\worldexams\saberparatodos\src\pages')
+BASE = Path(r"E:\scripts-python\worldexams\saberparatodos\src\pages")
+
 
 def read(path):
-    return path.read_text(encoding='utf-8')
+    return path.read_text(encoding="utf-8")
+
 
 def write(path, content):
-    path.write_text(content, encoding='utf-8')
+    path.write_text(content, encoding="utf-8")
+
 
 # === preguntas-icfes.astro - COMPLETE REWRITE ===
-path = BASE / 'preguntas-icfes.astro'
+path = BASE / "preguntas-icfes.astro"
 content = read(path)
 
 # Full rewrite with proper Astro syntax
@@ -78,7 +82,7 @@ write(path, new_content)
 print(f"Fixed: {path}")
 
 # === pruebas-saber-gratis.astro - COMPLETE REWRITE ===
-path = BASE / 'pruebas-saber-gratis.astro'
+path = BASE / "pruebas-saber-gratis.astro"
 content = read(path)
 
 new_content = """---
@@ -145,14 +149,14 @@ write(path, new_content)
 print(f"Fixed: {path}")
 
 # === guia-examen.astro - ADD country import ===
-path = BASE / 'guia-examen.astro'
+path = BASE / "guia-examen.astro"
 content = read(path)
 
-if 'toRuntimeCountryConfig' not in content:
+if "toRuntimeCountryConfig" not in content:
     old = "import { countryConfig } from '../config';"
     new = "import { countryConfig as defaultConfig, toRuntimeCountryConfig } from '../config';"
     content = content.replace(old, new)
-    
+
     old2 = "const guideContent = getExamGuideContent(countryConfig);"
     new2 = """const country = Astro.locals.country ? toRuntimeCountryConfig(Astro.locals.country) : defaultConfig;
 const guideContent = getExamGuideContent(country);"""
@@ -162,10 +166,10 @@ write(path, content)
 print(f"Fixed: {path}")
 
 # === instituciones.astro - ADD country import ===
-path = BASE / 'instituciones.astro'
+path = BASE / "instituciones.astro"
 content = read(path)
 
-if 'toRuntimeCountryConfig' not in content:
+if "toRuntimeCountryConfig" not in content:
     old = """---
 import Layout from '../layouts/Layout.astro';
 ---"""
@@ -181,10 +185,10 @@ write(path, content)
 print(f"Fixed: {path}")
 
 # === ranking.astro - ADD country import ===
-path = BASE / 'ranking.astro'
+path = BASE / "ranking.astro"
 content = read(path)
 
-if 'toRuntimeCountryConfig' not in content:
+if "toRuntimeCountryConfig" not in content:
     old = """---
 import Layout from '../../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
@@ -202,10 +206,10 @@ write(path, content)
 print(f"Fixed: {path}")
 
 # === preparacion.astro - ADD country import ===
-path = BASE / 'preparacion.astro'
+path = BASE / "preparacion.astro"
 content = read(path)
 
-if 'toRuntimeCountryConfig' not in content:
+if "toRuntimeCountryConfig" not in content:
     old = """---
 import Layout from '../layouts/Layout.astro';
 ---"""
@@ -221,10 +225,10 @@ write(path, content)
 print(f"Fixed: {path}")
 
 # === normas-men.astro - ADD country import ===
-path = BASE / 'normas-men.astro'
+path = BASE / "normas-men.astro"
 content = read(path)
 
-if 'toRuntimeCountryConfig' not in content:
+if "toRuntimeCountryConfig" not in content:
     old = """---
 import Layout from '../layouts/Layout.astro';
 ---"""
@@ -240,10 +244,10 @@ write(path, content)
 print(f"Fixed: {path}")
 
 # === changelog.astro - ADD country import ===
-path = BASE / 'changelog.astro'
+path = BASE / "changelog.astro"
 content = read(path)
 
-if 'toRuntimeCountryConfig' not in content:
+if "toRuntimeCountryConfig" not in content:
     old = """---
 import Layout from '../layouts/Layout.astro';
 ---"""
@@ -259,4 +263,6 @@ write(path, content)
 print(f"Fixed: {path}")
 
 print("\n=== Phase 1 complete ===")
-print("Pages updated: preguntas-icfes, pruebas-saber-gratis, guia-examen, instituciones, ranking, preparacion, normas-men, changelog")
+print(
+    "Pages updated: preguntas-icfes, pruebas-saber-gratis, guia-examen, instituciones, ranking, preparacion, normas-men, changelog"
+)
