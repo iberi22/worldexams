@@ -278,4 +278,3 @@ D) Centro
 **Respuesta:** A
 
 ---
-

@@ -1,6 +1,6 @@
 # Requisitos Funcionales
 
-**Proyecto:** WorldExams  
+**Proyecto:** WorldExams
 **Fecha:** 2026-03-13
 
 ---
@@ -18,11 +18,11 @@
 
 ### UC-001: *Nombre del Caso de Uso*
 
-**Actor:**  
-**Descripción:**  
-**Precondiciones:**  
-**Flujo Principal:**  
-**Postcondiciones:**  
+**Actor:**
+**Descripción:**
+**Precondiciones:**
+**Flujo Principal:**
+**Postcondiciones:**
 
 ---
 

@@ -97,4 +97,3 @@ export interface ExamCompletionData {
   focusEvents?: { timestamp: number; type: string; duration?: number }[];
   focusViolations?: number;
 }
-
