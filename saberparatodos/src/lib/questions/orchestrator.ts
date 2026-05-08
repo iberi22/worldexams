@@ -1,10 +1,11 @@
 import type { AppQuestion } from '../api-service';
 import { CEFR_LEVEL_NUM } from '../english-proficiency';
-import { filterByGradeAndDiagnostic, filterByPeriod, filterBySubject, filterValidQuestions, filterByCefrLevel } from './filters';
+import { filterByGradeAndDiagnostic, filterByPeriod, filterBySubject, filterValidQuestions, filterByCefrLevel, applyFilters } from './filters';
 import { ensureBasePool, deepSearchPool, dedupeById } from './pool';
 import { buildDiagnosticMixPool, selectExamQuestions } from './selection';
 import type { QuestionSelectionDeps, QuestionSelectionRequest, QuestionSelectionResult } from './types';
 import { buildPreuExamPool, getPreuQuestionBank } from '../preuniversitario/exam-pool';
+import { isPreuRuntimeEnabled } from '../preuniversitario/catalog';
 import { filterGrade11PreicfesReady } from './policy';
 
 export async function loadEnglishDiagnosticPool(
@@ -46,10 +47,14 @@ export async function prepareSoloExamQuestions(
   }
 
   if (isPreuMode) {
-    const localPreuQuestions = getPreuQuestionBank(request.preuUniversity);
+    if (!isPreuRuntimeEnabled(request.countryCode)) {
+      throw new Error('Preuniversitario todavia no esta disponible para este tenant.');
+    }
+
+    const localPreuQuestions = getPreuQuestionBank(request.countryCode, request.preuUniversity);
     if (localPreuQuestions.length === 0 && request.preuUniversity) {
       warnings.push(`No se encontraron preguntas PREU para ${request.preuUniversity}. Se usará el banco PREU general.`);
-      pool = dedupeById([...pool, ...getPreuQuestionBank()]);
+      pool = dedupeById([...pool, ...getPreuQuestionBank(request.countryCode)]);
     } else {
       pool = dedupeById([...pool, ...localPreuQuestions]);
     }
@@ -78,26 +83,13 @@ export async function prepareSoloExamQuestions(
 
   // 🆕 For English Diagnostic, if pool is empty, fetch it with level awareness
   if (request.englishDiagnostic && filtered.length === 0) {
-    const cefrNum = request.minCefrLevel ? (CEFR_LEVEL_NUM as any)[request.minCefrLevel] : undefined;
+    const cefrNum = request.minCefrLevel ? CEFR_LEVEL_NUM[request.minCefrLevel] : undefined;
     const diagnosticPool = await deps.repository.fetchEnglishQuestionsAllGrades(100, true, cefrNum);
     pool = dedupeById([...pool, ...diagnosticPool]);
     filtered = filterBySubject(pool, request.subject);
   }
 
-  filtered = filterByGradeAndDiagnostic(
-    filtered,
-    request.grade,
-    Boolean(request.useDiagnostic),
-    Boolean(request.englishDiagnostic)
-  );
-  filtered = filterByCefrLevel(filtered, request.minCefrLevel);
-  filtered = filterByPeriod(filtered, {
-    examMode: request.examMode,
-    period: request.period,
-    subject: request.subject,
-    grade: request.grade
-  });
-  filtered = filterGrade11PreicfesReady(filtered);
+  filtered = applyFilters(filtered, request);
 
   if (filtered.length < request.count && !request.englishDiagnostic) {
     const expandedPool = await deepSearchPool({
@@ -110,21 +102,7 @@ export async function prepareSoloExamQuestions(
     });
 
     pool = expandedPool;
-    filtered = filterBySubject(expandedPool, request.subject);
-    filtered = filterByGradeAndDiagnostic(
-      filtered,
-      request.grade,
-      Boolean(request.useDiagnostic),
-      Boolean(request.englishDiagnostic)
-    );
-    filtered = filterByCefrLevel(filtered, request.minCefrLevel);
-    filtered = filterByPeriod(filtered, {
-      examMode: request.examMode,
-      period: request.period,
-      subject: request.subject,
-      grade: request.grade
-    });
-    filtered = filterGrade11PreicfesReady(filtered);
+    filtered = applyFilters(filterBySubject(expandedPool, request.subject), request);
   }
 
   if (filtered.length === 0) {

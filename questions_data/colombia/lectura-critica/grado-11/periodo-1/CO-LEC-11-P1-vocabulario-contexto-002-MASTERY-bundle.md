@@ -34,7 +34,7 @@ license: "CC BY-NC-SA 4.0"
 ---
 
 ### Pregunta 1
-**Tipo:** Literal — Sinonimia contextual  
+**Tipo:** Literal — Sinonimia contextual
 **Dificultad:** D3
 
 **Contexto:**
@@ -50,7 +50,7 @@ D) Recuperación del cuerpo [ ]
 ---
 
 ### Pregunta 2
-**Tipo:** Literal — Sinonimia contextual  
+**Tipo:** Literal — Sinonimia contextual
 **Dificultad:** D3
 
 **Contexto:**
@@ -66,7 +66,7 @@ D) Entusiasta y efusiva [ ]
 ---
 
 ### Pregunta 3
-**Tipo:** Literal — Antonimia contextual  
+**Tipo:** Literal — Antonimia contextual
 **Dificultad:** D4
 
 **Contexto:**
@@ -82,7 +82,7 @@ D) Antonimia que indica estados similares [ ]
 ---
 
 ### Pregunta 4
-**Tipo:** Literal — Significado derivado del contexto  
+**Tipo:** Literal — Significado derivado del contexto
 **Dificultad:** D4
 
 **Contexto:**
@@ -102,7 +102,7 @@ D) Delegar a otros [ ]
 ---
 
 ### Pregunta 5
-**Tipo:** Inferencial — Formación de palabras  
+**Tipo:** Inferencial — Formación de palabras
 **Dificultad:** D5
 
 **Contexto:**
@@ -118,7 +118,7 @@ D) Parasíntesis [ ]
 ---
 
 ### Pregunta 6
-**Tipo:** Inferencial — Sinonimia contextual  
+**Tipo:** Inferencial — Sinonimia contextual
 **Dificultad:** D5
 
 **Contexto:**
@@ -134,7 +134,7 @@ D) Implica que la teoría es contradicted by los hechos [ ]
 ---
 
 ### Pregunta 7
-**Tipo:** Inferencial — polisemia contextual  
+**Tipo:** Inferencial — polisemia contextual
 **Dificultad:** D5
 
 **Contexto:**
@@ -150,7 +150,7 @@ D) Establecimiento comercial [ ]
 ---
 
 ### Pregunta 8
-**Tipo:** Inferencial — Significado derivado del contexto  
+**Tipo:** Inferencial — Significado derivado del contexto
 **Dificultad:** D6
 
 **Contexto:**
@@ -166,7 +166,7 @@ D) Exceder los límites de algo [ ]
 ---
 
 ### Pregunta 9
-**Tipo:** Crítico — Campo semántico  
+**Tipo:** Crítico — Campo semántico
 **Dificultad:** D6
 
 **Contexto:**
@@ -182,7 +182,7 @@ D) Connected, accompanied, together [ ]
 ---
 
 ### Pregunta 10
-**Tipo:** Inferencial — Antonimia contextual  
+**Tipo:** Inferencial — Antonimia contextual
 **Dificultad:** D6
 
 **Contexto:**
@@ -202,7 +202,7 @@ D) Neutral [ ]
 ---
 
 ### Pregunta 11
-**Tipo:** Crítico — Análisis de significado denotativo y connotativo  
+**Tipo:** Crítico — Análisis de significado denotativo y connotativo
 **Dificultad:** D7
 
 **Contexto:**
@@ -218,7 +218,7 @@ D) antonimia lexical [ ]
 ---
 
 ### Pregunta 12
-**Tipo:** Inferencial — Sinonimia contextual compleja  
+**Tipo:** Inferencial — Sinonimia contextual compleja
 **Dificultad:** D7
 
 **Contexto:**
@@ -234,7 +234,7 @@ D) La resistencia se presenta como el obstáculo específico [x]
 ---
 
 ### Pregunta 13
-**Tipo:** Crítico — Familia léxica  
+**Tipo:** Crítico — Familia léxica
 **Dificultad:** D7
 
 **Contexto:**
@@ -250,7 +250,7 @@ D) Infructuoso [ ]
 ---
 
 ### Pregunta 14
-**Tipo:** Crítico — Inferencia léxica advanced  
+**Tipo:** Crítico — Inferencia léxica advanced
 **Dificultad:** D8
 
 **Contexto:**
@@ -266,7 +266,7 @@ D) Ambiguo y confuso por falta de conocimiento [ ]
 ---
 
 ### Pregunta 15
-**Tipo:** Inferencial — Formación de palabras y análisis semántico  
+**Tipo:** Inferencial — Formación de palabras y análisis semántico
 **Dificultad:** D8
 
 **Contexto:**
@@ -282,7 +282,7 @@ D) Parasíntesis con dos prefijos [ ]
 ---
 
 ### Pregunta 16
-**Tipo:** Crítico — Evaluación de significado contextual en texto complejo  
+**Tipo:** Crítico — Evaluación de significado contextual en texto complejo
 **Dificultad:** D8
 
 **Contexto:**
@@ -302,7 +302,7 @@ D) La necesidad de elimite el regulation inmediatamente [ ]
 ---
 
 ### Pregunta 17
-**Tipo:** Crítico — Análisis de estrategias retóricas a través del vocabulario  
+**Tipo:** Crítico — Análisis de estrategias retóricas a través del vocabulario
 **Dificultad:** D9
 
 **Contexto:**
@@ -318,7 +318,7 @@ D) Sealala que el discurso es técnicamente preciso [ ]
 ---
 
 ### Pregunta 18
-**Tipo:** Crítico — Distinción entre homonimia y polisemia  
+**Tipo:** Crítico — Distinción entre homonimia y polisemia
 **Dificultad:** D9
 
 **Contexto:**
@@ -334,7 +334,7 @@ D) antonimia [ ]
 ---
 
 ### Pregunta 19
-**Tipo:** Inferencial — Analogías léxicas complejas  
+**Tipo:** Inferencial — Analogías léxicas complejas
 **Dificultad:** D10
 
 **Contexto:**
@@ -350,7 +350,7 @@ D) Pasajero [ ]
 ---
 
 ### Pregunta 20
-**Tipo:** Crítico — Evaluación de uso lingüístico sofisticado y registro formal  
+**Tipo:** Crítico — Evaluación de uso lingüístico sofisticado y registro formal
 **Dificultad:** D10
 
 **Contexto:**
@@ -374,6 +374,6 @@ D) Demuestra que el philosopher rechaza el concepto de libertad [ ]
 | D7-D8 | Q11-Q16 | Inferencial / Crítico |
 | D9-D10 | Q17-Q20 | Crítico |
 
-**Total preguntas:** 20  
-**Estado:** RAW — Requiere revisión humana  
+**Total preguntas:** 20
+**Estado:** RAW — Requiere revisión humana
 **Licencia:** CC BY-NC-SA 4.0

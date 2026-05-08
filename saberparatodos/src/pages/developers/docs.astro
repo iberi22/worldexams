@@ -1,5 +1,10 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import { getCountryExamSlug, resolveRuntimeCountryConfig } from '../../config';
+
+const runtimeCountry = resolveRuntimeCountryConfig(Astro.locals.country);
+const exampleCountryCode = runtimeCountry.code.toLowerCase();
+const exampleExamSlug = getCountryExamSlug(runtimeCountry);
 ---
 
 <Layout title="Docs | SaberParaTodos API">
@@ -51,8 +56,8 @@ x-api-key: YOUR_API_KEY</code></pre>
           <div class="rounded-[24px] border border-white/10 bg-white/5 p-6">
             <h2 class="text-2xl font-black">Parámetros</h2>
             <ul class="mt-5 space-y-3 text-sm text-white/72">
-              <li><code>country</code>: <code>co</code>, <code>mx</code>, <code>ar</code>, <code>cl</code>, <code>pe</code>, <code>br</code>, <code>us</code>, <code>cn</code>, <code>in</code>.</li>
-              <li><code>exam</code>: <code>icfes</code> por defecto en la operación actual.</li>
+              <li><code>country</code>: ejemplo <code>{exampleCountryCode}</code>; envíalo según el tenant o dataset objetivo.</li>
+              <li><code>exam</code>: ejemplo <code>{exampleExamSlug}</code>; envíalo explícitamente y no dependas de defaults implícitos.</li>
               <li><code>grade</code>: <code>3</code>, <code>5</code>, <code>7</code>, <code>9</code>, <code>11</code>.</li>
               <li><code>subject</code>: <code>matematicas</code>, <code>lectura_critica</code>, <code>ingles</code>, <code>ciencias_naturales</code>, <code>sociales_y_ciudadanas</code>.</li>
               <li><code>page</code>: página lógica del lote de preguntas.</li>
@@ -65,7 +70,7 @@ x-api-key: YOUR_API_KEY</code></pre>
           <div class="rounded-[24px] border border-[#003893]/30 bg-[#09111d] p-6">
             <h2 class="text-2xl font-black">Ejemplo cURL</h2>
             <pre class="mt-5 overflow-x-auto rounded-2xl border border-white/10 bg-black/30 p-4 text-xs text-white/85"><code>curl -X GET \
-  "https://api.saberparatodos.space/v1/premium/questions?country=co&amp;exam=icfes&amp;grade=11&amp;subject=matematicas&amp;page=1&amp;limit=5" \
+  "https://api.saberparatodos.space/v1/premium/questions?country={exampleCountryCode}&amp;exam={exampleExamSlug}&amp;grade=11&amp;subject=matematicas&amp;page=1&amp;limit=5" \
   -H "Authorization: Bearer YOUR_API_KEY"</code></pre>
           </div>
 
@@ -75,7 +80,7 @@ x-api-key: YOUR_API_KEY</code></pre>
   "success": true,
   "questions": [
     {
-      "id": "CO-MAT-11-probability-advanced-001-PRO-v15",
+      "id": "SAMPLE-MAT-11-probability-advanced-001-PRO-v15",
       "statement": "...",
       "subject": "matematicas",
       "grade": 11,
@@ -83,13 +88,13 @@ x-api-key: YOUR_API_KEY</code></pre>
         { "id": "A", "text": "...", "isCorrect": false, "weight": 0 }
       ],
       "correctOptionId": "C",
-      "bundleId": "CO-MAT-11-probability-advanced-001-PRO",
+      "bundleId": "SAMPLE-MAT-11-probability-advanced-001-PRO",
       "protocol_version": "4.1"
     }
   ],
   "meta": {
     "total": 5,
-    "country": "co",
+    "country": "${exampleCountryCode}",
     "grade": 11,
     "subject": "matematicas",
     "page": 1,

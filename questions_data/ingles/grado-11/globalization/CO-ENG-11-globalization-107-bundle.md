@@ -210,4 +210,3 @@ creation_date: '2026-01-31'
 ![Global Citizenship Infographic](/infographics/english/global-citizen.png)
 
 > **Visual Summary:** True Global Citizenship connects cultures. It is built on four pillars: Diversity, Tolerance, Human Rights, and Cooperation.
-

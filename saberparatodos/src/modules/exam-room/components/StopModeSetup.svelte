@@ -146,5 +146,3 @@
     </div>
   </FlashlightCard>
 </div>
-
-

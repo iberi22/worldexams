@@ -393,7 +393,7 @@ Análisis de signos en expresiones racionales con términos cuadráticos. Se deb
 **ICFES:** Pensamiento Reflexivo y Sistémico
 
 ### Contexto
-Un inversor tiene dos opciones de portafolio para colocar sus ahorros de $10,000 USD. El portafolio A rinde un interés anual fijo del 8%. El portafolio B rinde un 5% fijo más una bonificación de 200 USD si el ahorro supera los 5,000 USD. 
+Un inversor tiene dos opciones de portafolio para colocar sus ahorros de $10,000 USD. El portafolio A rinde un interés anual fijo del 8%. El portafolio B rinde un 5% fijo más una bonificación de 200 USD si el ahorro supera los 5,000 USD.
 
 ### Enunciado
 Desde una perspectiva puramente matemática, ¿bajo qué condición de ahorro inicial $x$ (donde $x \leq 10,000$) el portafolio A es siempre mejor que el B ($A > B$)?
@@ -416,7 +416,7 @@ Transferencia de inecuaciones a finanzas. El estudiante debe modelar condiciones
 **ICFES:** Formulación y Ejecución
 
 ### Contexto
-Un cilindro debe tener un volumen de al menos 500 cm³ y una altura fija de 10 cm. 
+Un cilindro debe tener un volumen de al menos 500 cm³ y una altura fija de 10 cm.
 
 ### Enunciado
 ¿Cuál es la restricción correcta para el radio $r$ de dicho cilindro? (Usa $\pi \approx 3$).

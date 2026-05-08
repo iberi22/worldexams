@@ -18,7 +18,7 @@ serve(async (req) => {
   try {
     const supabase = createClient(supabaseUrl, supabaseKey)
     const { searchParams } = new URL(req.url)
-    
+
     const query = searchParams.get('q') || ''
     const department = searchParams.get('department')
     const municipality = searchParams.get('municipality')

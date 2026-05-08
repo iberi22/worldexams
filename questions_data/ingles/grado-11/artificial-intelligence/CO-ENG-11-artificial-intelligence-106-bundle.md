@@ -210,4 +210,3 @@ creation_date: '2026-01-31'
 ![The Digital Age Infographic](/infographics/english/digital-age.png)
 
 > **Visual Summary:** Understanding the balance between connectivity (Pros) and distraction/privacy risks (Cons) is key to navigating the modern world.
-

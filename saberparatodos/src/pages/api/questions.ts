@@ -1,4 +1,5 @@
 import type { APIRoute } from 'astro';
+import { getCountryExamSlug, resolveRuntimeCountryConfig } from '../../config';
 import { getLocalGrade11Questions } from '../../lib/questions/grade11-local-bank';
 import { filterQuarantinedQuestions } from '../../lib/questions/quarantine-registry';
 import { getRuntimeEnvObject, type RuntimeLocals } from '../../lib/server-runtime';
@@ -117,8 +118,13 @@ export const GET: APIRoute = async ({ request, locals }) => {
   const upstreamUrl = new URL(`${publicWorkerBaseUrl}${upstreamPath}`);
   const grade = Number(requestUrl.searchParams.get('grade') || 0);
   const requestedSubject = String(requestUrl.searchParams.get('subject') || '').trim().toLowerCase();
+  const runtimeCountry = locals.country ? resolveRuntimeCountryConfig(locals.country as any) : undefined;
+  const defaultCountry = String(requestUrl.searchParams.get('country') || runtimeCountry?.code || locals.countryCode || '').toLowerCase();
+  const defaultExam = String(requestUrl.searchParams.get('exam') || (runtimeCountry ? getCountryExamSlug(runtimeCountry) : '') || '').toLowerCase();
 
   requestUrl.searchParams.forEach((value, key) => upstreamUrl.searchParams.set(key, value));
+  if (defaultCountry && !upstreamUrl.searchParams.has('country')) upstreamUrl.searchParams.set('country', defaultCountry);
+  if (defaultExam && !upstreamUrl.searchParams.has('exam')) upstreamUrl.searchParams.set('exam', defaultExam);
 
   const headers = new Headers({
     Accept: 'application/json',
@@ -126,8 +132,8 @@ export const GET: APIRoute = async ({ request, locals }) => {
 
   try {
     if (grade === 11) {
-      const country = String(requestUrl.searchParams.get('country') || 'co').toLowerCase();
-      const exam = String(requestUrl.searchParams.get('exam') || 'icfes').toLowerCase();
+      const country = defaultCountry;
+      const exam = defaultExam;
       const subject = requestedSubject;
 
       if (country === 'co' && exam === 'icfes') {
@@ -140,8 +146,8 @@ export const GET: APIRoute = async ({ request, locals }) => {
             total_questions: visibleLocalQuestions.length,
             grade: 11,
             subject: subject || null,
-            country: 'co',
-            exam_type: 'icfes',
+            country,
+            exam_type: exam,
             page: 'all',
             meta: {
               aggregated_pages: 1,
@@ -194,8 +200,8 @@ export const GET: APIRoute = async ({ request, locals }) => {
         total_questions: uniqueQuestions.length,
         grade: 11,
         subject: requestUrl.searchParams.get('subject') || null,
-        country: requestUrl.searchParams.get('country') || 'co',
-        exam_type: requestUrl.searchParams.get('exam') || 'icfes',
+        country: defaultCountry || null,
+        exam_type: defaultExam || null,
         page: 'all',
         meta: {
           aggregated_pages: Math.ceil(uniqueQuestions.length / 10),
@@ -220,8 +226,8 @@ export const GET: APIRoute = async ({ request, locals }) => {
         questions: visibleQuestions,
         total_questions: visibleQuestions.length,
         is_guest: true,
-        country: requestUrl.searchParams.get('country') || 'co',
-        exam_type: requestUrl.searchParams.get('exam') || 'icfes',
+        country: defaultCountry || null,
+        exam_type: defaultExam || null,
         grade,
         subject: normalizeSubjectKey(requestedSubject || 'matematicas'),
         page,
@@ -263,7 +269,7 @@ export const GET: APIRoute = async ({ request, locals }) => {
       }),
       {
         status: 502,
-        headers: { 
+        headers: {
           'Content-Type': 'application/json',
           ...CORS_HEADERS,
         },

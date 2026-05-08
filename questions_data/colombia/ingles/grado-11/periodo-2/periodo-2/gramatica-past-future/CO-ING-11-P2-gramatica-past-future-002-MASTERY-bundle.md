@@ -29,10 +29,10 @@ license: "CC BY-NC-SA 4.0"
 
 I _____ my homework last night after dinner.
 
-A) finish  
-B) finished [x]  
-C) finishes  
-D) finishing  
+A) finish
+B) finished [x]
+C) finishes
+D) finishing
 
 ---
 
@@ -41,10 +41,10 @@ D) finishing
 
 They _____ breakfast at 7 o'clock every morning when they were kids.
 
-A) have  
-B) had  
-C) used to have [x]  
-D) used to had  
+A) have
+B) had
+C) used to have [x]
+D) used to had
 
 ---
 
@@ -53,10 +53,10 @@ D) used to had
 
 _____ you ever _____ a foreign country before?
 
-A) Did / visit  
-B) Have / visited [x]  
-C) Has / visited  
-D) Have / visit  
+A) Did / visit
+B) Have / visited [x]
+C) Has / visited
+D) Have / visit
 
 ---
 
@@ -65,10 +65,10 @@ D) Have / visit
 
 He said he _____ the book already.
 
-A) read  
-B) had read [x]  
-C) has read  
-D) would read  
+A) read
+B) had read [x]
+C) has read
+D) would read
 
 ---
 
@@ -81,10 +81,10 @@ D) would read
 
 The phone _____ while I _____ in the shower.
 
-A) rang / was [x]  
-B) was ringing / was  
-C) rang / were  
-D) rang / am  
+A) rang / was [x]
+B) was ringing / was
+C) rang / were
+D) rang / am
 
 ---
 
@@ -93,10 +93,10 @@ D) rang / am
 
 She will call you as soon as she _____.
 
-A) arrives [x]  
-B) arrived  
-C) will arrive  
-D) is arriving  
+A) arrives [x]
+B) arrived
+C) will arrive
+D) is arriving
 
 ---
 
@@ -105,10 +105,10 @@ D) is arriving
 
 If I _____ more money, I would buy a new car.
 
-A) have  
-B) had [x]  
-C) have had  
-D) will have  
+A) have
+B) had [x]
+C) have had
+D) will have
 
 ---
 
@@ -117,10 +117,10 @@ D) will have
 
 We were late because we _____ the wrong bus.
 
-A) take  
-B) took [x]  
-C) had taken  
-D) were taking  
+A) take
+B) took [x]
+C) had taken
+D) were taking
 
 ---
 
@@ -129,10 +129,10 @@ D) were taking
 
 By the time we got to the theater, the movie _____.
 
-A) started  
-B) had started [x]  
-C) was starting  
-D) has started  
+A) started
+B) had started [x]
+C) was starting
+D) has started
 
 ---
 
@@ -141,10 +141,10 @@ D) has started
 
 I wish I _____ to that concert last night, but I was too tired.
 
-A) went  
-B) had gone [x]  
-C) have gone  
-D) would go  
+A) went
+B) had gone [x]
+C) have gone
+D) would go
 
 ---
 
@@ -157,10 +157,10 @@ D) would go
 
 Had the team practiced more, they _____ the championship.
 
-A) would win  
-B) would have won [x]  
-C) will win  
-D) had won  
+A) would win
+B) would have won [x]
+C) will win
+D) had won
 
 ---
 
@@ -169,10 +169,10 @@ D) had won
 
 She acts as if she _____ everything about the subject.
 
-A) knows  
-B) knew [x]  
-C) known  
-D) had known  
+A) knows
+B) knew [x]
+C) known
+D) had known
 
 ---
 
@@ -181,10 +181,10 @@ D) had known
 
 By 2050, many species _____ due to habitat loss.
 
-A) will extinct  
-B) will have become extinct [x]  
-C) would extinct  
-D) become extinct  
+A) will extinct
+B) will have become extinct [x]
+C) would extinct
+D) become extinct
 
 ---
 
@@ -193,10 +193,10 @@ D) become extinct
 
 The package was supposed to arrive yesterday, but it _____ yet.
 
-A) hasn't arrived [x]  
-B) didn't arrive  
-C) hadn't arrived  
-D) wasn't arriving  
+A) hasn't arrived [x]
+B) didn't arrive
+C) hadn't arrived
+D) wasn't arriving
 
 ---
 
@@ -205,10 +205,10 @@ D) wasn't arriving
 
 If the fire alarm _____, everyone should evacuate the building immediately.
 
-A) sounds [x]  
-B) sound  
-C) will sound  
-D) shall sound  
+A) sounds [x]
+B) sound
+C) will sound
+D) shall sound
 
 ---
 
@@ -217,10 +217,10 @@ D) shall sound
 
 He couldn't attend the meeting because he _____ his flight.
 
-A) missed  
-B) had missed [x]  
-C) was missing  
-D) has missed  
+A) missed
+B) had missed [x]
+C) was missing
+D) has missed
 
 ---
 
@@ -233,10 +233,10 @@ D) has missed
 
 _____ the traffic, we would have arrived on time for the job interview.
 
-A) If there wasn't  
-B) Had there been no [x]  
-C) Unless there was  
-D) If there is no  
+A) If there wasn't
+B) Had there been no [x]
+C) Unless there was
+D) If there is no
 
 ---
 
@@ -245,10 +245,10 @@ D) If there is no
 
 By the end of this decade, technology _____ the way we communicate fundamentally.
 
-A) will transform  
-B) will have transformed [x]  
-C) would transform  
-D) had transformed  
+A) will transform
+B) will have transformed [x]
+C) would transform
+D) had transformed
 
 ---
 
@@ -257,10 +257,10 @@ D) had transformed
 
 If he had studied harder, he _____ the scholarship, but he didn't.
 
-A) would get  
-B) would have gotten [x]  
-C) will get  
-D) will have gotten  
+A) would get
+B) would have gotten [x]
+C) will get
+D) will have gotten
 
 ---
 
@@ -269,7 +269,7 @@ D) will have gotten
 
 She behaves as though she _____ the decision already made by the board.
 
-A) doesn't agree with  
-B) didn't agree with [x]  
-C) wouldn't agree with  
-D) hadn't agreed with  
+A) doesn't agree with
+B) didn't agree with [x]
+C) wouldn't agree with
+D) hadn't agreed with

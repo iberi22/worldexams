@@ -1,6 +1,6 @@
 # Interfaces del Sistema
 
-**Proyecto:** WorldExams  
+**Proyecto:** WorldExams
 **Fecha:** 2026-03-13
 
 ---

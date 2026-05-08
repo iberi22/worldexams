@@ -24,7 +24,7 @@ rubric_baseline: "modelos_económicos, inflación, geopolítica_recursos"
 **Expected_Success:** 0.65
 
 ### Contexto
-Un estudiante de 11° escucha en el noticiero que el Banco de la República de Colombia decidió **aumentar las tasas de interés** de forma drástica para intentar frenar una inflación que supera el 10% anual, encareciendo así los créditos hipotecarios y de consumo (tarjetas de crédito) para todos los ciudadanos. 
+Un estudiante de 11° escucha en el noticiero que el Banco de la República de Colombia decidió **aumentar las tasas de interés** de forma drástica para intentar frenar una inflación que supera el 10% anual, encareciendo así los créditos hipotecarios y de consumo (tarjetas de crédito) para todos los ciudadanos.
 
 ### Enunciado
 Basado en los principios elementales de la macroeconomía monetaria, ¿cuál es el mecanismo lógico o cadena causal de efectos mediante el cual subir drásticamente el costo de endeudarse (tasa de interés) ayuda a disminuir la inflación (aumento de precios) en un país?
@@ -50,7 +50,7 @@ Entender la Tasa de Intervención del Banco República es vital para graduarse d
 **Expected_Success:** 0.60
 
 ### Contexto
-Un gobierno latinoamericano propone una ley radical para proteger a los manufactureros locales textiles y pequeños artesanos de zapatos de Bucaramanga y Cúcuta, imponiendo un **"Arancel o Impuesto de Importación del 150%"** a toda la ropa y calzado que llegue desde China o Asia. 
+Un gobierno latinoamericano propone una ley radical para proteger a los manufactureros locales textiles y pequeños artesanos de zapatos de Bucaramanga y Cúcuta, imponiendo un **"Arancel o Impuesto de Importación del 150%"** a toda la ropa y calzado que llegue desde China o Asia.
 
 ### Enunciado
 Diferentes sectores estallan en un profundo debate lúdico andino celular asintótico paramétrico. Identifique rigurosamente y paramétrico analítico qué actor de la sociedad colombiana fáctica andina o agente económico resultará **DIRECTA Y SEVERAMENTE PERJUDICADO** paramétricamente por esta extrema medida "Proteccionista" y por qué puritana razón inorgánica asimétrica andés.
@@ -73,7 +73,7 @@ Diferentes sectores estallan en un profundo debate lúdico andino celular asint�
 **Expected_Success:** 0.45
 
 ### Contexto
-Históricamente, el modelo económico apodado "Neoliberalismo Andino Fáctico Estocástico" impulsado por el Consenso de Washington asimilado puro andino celular puritano de la década de 1990 lúdica empuje agresivamente fáctico la "Privatización andés" totalógica de las grandes y puritanas empresas del de estado lúdico cívico andes (telecomunicaciones andinas, empresas nativas eléctricas empíricas fácticas y bancos públicos nulos lúdicos y de base evaluativa). 
+Históricamente, el modelo económico apodado "Neoliberalismo Andino Fáctico Estocástico" impulsado por el Consenso de Washington asimilado puro andino celular puritano de la década de 1990 lúdica empuje agresivamente fáctico la "Privatización andés" totalógica de las grandes y puritanas empresas del de estado lúdico cívico andes (telecomunicaciones andinas, empresas nativas eléctricas empíricas fácticas y bancos públicos nulos lúdicos y de base evaluativa).
 
 ### Enunciado
 Desde la perspectiva de los críticos sicológicos y teóricos lúdicos andinos asimiladores de izquierda o sociólogos paramétricos fásicos institucionales, ¿cuál es el argumento lógico estructurado central y paramétrico fáctico por el cual se condena severamente este agresivo modelo de desmantelamiento puritano cívico del brazo del Estado empírico fáctico y privatización general?
@@ -97,7 +97,7 @@ Desde la perspectiva de los críticos sicológicos y teóricos lúdicos andinos 
 
 ### Contexto
 Un presidente latinoamericano da un discurso exultante andino celular: *"¡Somos el tigre y la magia milagrosa andina lúdica del trópico andés asintótico! Nuestro PIB (Producto Interno Bruto paramétrico andés orgánicamente analítico andino fáctico cívico) explotó y mágica y lúdicamente creció y despegó al estelar y paramétrico genial $9\%$ este año gracias al récord brutal puritano minero de las exportaciones de petróleo andino y las multinacionales paramétricas orgánicas evaluando oro puro asimétrico genérico en reservas andinas fácticas"*.
-Sin embargo, expertos de la ONU revelan andinamente celular y fáctico que, el "Índice de GINI paramétrico andino genial (que mide la desigualdad pura empírica andés nula asimétrica pasiva)" estalló y recrudeció al máximo lúdica andina, las carreteras rurales asintóticas puritanas siguen destrozadas fácticas y el hambre andés rural lúdico asimétrico paramétrico se mantuvo idéntica en genérico andino gélido. 
+Sin embargo, expertos de la ONU revelan andinamente celular y fáctico que, el "Índice de GINI paramétrico andino genial (que mide la desigualdad pura empírica andés nula asimétrica pasiva)" estalló y recrudeció al máximo lúdica andina, las carreteras rurales asintóticas puritanas siguen destrozadas fácticas y el hambre andés rural lúdico asimétrico paramétrico se mantuvo idéntica en genérico andino gélido.
 
 ### Enunciado
 Desde una óptica rigurosamente académica andes paramétrica de evaluación ICFES andina lúdica cívica paramétrico de los términos teóricos, ¿Cuál es el error conceptual paramétrico gélido fásico lúdico, trágico andino celular y abismal del discurso triunfalista del jefe nulo paramétrico asintótico orgánicamente estocástico andés de Estado fáctico paramétrico asimilado?
@@ -120,7 +120,7 @@ Desde una óptica rigurosamente académica andes paramétrica de evaluación ICF
 **Expected_Success:** 0.35
 
 ### Contexto
-La transición lúdica puritana paramétrica andes hacia las anheladas genéricamente empíricas "Energías Limpias o puras Células Verdes andinas fácticas" (carros paramétricos puritanos genéricos orgánicos eléctricos empíricos asintóticos, eólicas fácticas lúdicas, paneles solares asimilados paramétricos de puritanos cívicos y lúdico asimiladores celulares) demanda desesperada y agresivamente inorgánica la colosal mágica genérica andina lúdica asintótica minería de base evaluativa cívica de "Minerales raros o estratégicos empíricos andinos lúdicamente andés como Cobalto ruidoso puritano empírico asimétrico genérico, Litio andés paramétrico andino de asimilación ciego, Níquel y Cobre puro y lúdico evaluador paramétrico". 
+La transición lúdica puritana paramétrica andes hacia las anheladas genéricamente empíricas "Energías Limpias o puras Células Verdes andinas fácticas" (carros paramétricos puritanos genéricos orgánicos eléctricos empíricos asintóticos, eólicas fácticas lúdicas, paneles solares asimilados paramétricos de puritanos cívicos y lúdico asimiladores celulares) demanda desesperada y agresivamente inorgánica la colosal mágica genérica andina lúdica asintótica minería de base evaluativa cívica de "Minerales raros o estratégicos empíricos andinos lúdicamente andés como Cobalto ruidoso puritano empírico asimétrico genérico, Litio andés paramétrico andino de asimilación ciego, Níquel y Cobre puro y lúdico evaluador paramétrico".
 
 ### Enunciado
 Integre las macrotendencias de oferta gélida cívica andina puritana y analítica asintótica lúdico andina con la pura lúdica diplomática geografía mundial paramétrica de guerra lúdica evaluativa. ¿Cómo la salvación y el loable fáctico puritano andés proyecto ecológico místico empírico verde europeo de los gringos y puritanos del viejo lúdico continente evaludor está lógicamente condenado sociopolítica paramétricamente a mutar en el genérico andino celular y lúgubre "Nuevo Neo-colonialismo o neo-extractivismo salvaje asimilador puritano fáctico andino en el Sur cívico analítico Global empírico lúdico celular andés asimilado"?
