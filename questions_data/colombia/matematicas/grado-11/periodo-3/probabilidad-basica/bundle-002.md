@@ -278,4 +278,3 @@ D) Requiere espacios finitos
 **Respuesta:** A
 
 ---
-

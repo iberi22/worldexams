@@ -37,7 +37,7 @@ El PR de Jules **SÍ SIGUE el Protocolo v2.0** con algunas observaciones menores
   - ✅ Ecuación lineal ( + 5 = 17$)
   - ✅ Explicación: Pasos claros de despeje
   - ✅ Errores comunes bien identificados
-  
+
 - **mat-algebra-002.md** → CO-MAT-11-algebra-002
   - ✅ Simplificación algebraica con distributiva
   - ✅ Dificultad 2 (correcta para el contenido)

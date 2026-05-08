@@ -363,7 +363,7 @@
         <div class="p-4 rounded-2xl border border-emerald-400/15 bg-emerald-400/10">
           <h4 class="text-base font-bold text-emerald-100">Transparencia de Escala</h4>
           <p class="mt-2 leading-relaxed">
-            Hemos alineado el sistema de nivel (MMR) a la escala <strong class="text-white">ICFES 0-500</strong>. 
+            Hemos alineado el sistema de nivel (MMR) a la escala <strong class="text-white">ICFES 0-500</strong>.
             El puntaje de sesion es solo una metrica de apoyo para el calculo del progreso.
           </p>
         </div>

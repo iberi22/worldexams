@@ -354,4 +354,3 @@ Se pagaron $5,625 pesos por una colección de libros después de un descuento de
 # Explicación
 
 $5,625 = 75% del precio original. Precio original = 5625 / 0.75 = **$7,500**.
-

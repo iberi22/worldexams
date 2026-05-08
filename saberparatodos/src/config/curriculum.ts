@@ -61,32 +61,84 @@ const G5_SCI = [
     { id: 4, name: "Periodo 4: Energía y Fuerzas", topics: ["electricidad", "magnetismo", "circuitos", "energia", "movimiento"] }
 ];
 
+// --- GRADE 6 ---
+const G6_MATH = [
+    { id: 1, name: "Periodo 1: Sistemas Numéricos", topics: ["números naturales", "teoría de números", "potenciación", "radicación"] },
+    { id: 2, name: "Periodo 2: Fracciones y Decimales", topics: ["fracciones", "números decimales", "operaciones combinadas"] },
+    { id: 3, name: "Periodo 3: Geometría y Medida", topics: ["ángulos", "polígonos", "área", "perímetro", "unidades de medida"] },
+    { id: 4, name: "Periodo 4: Estadística y Probabilidad", topics: ["tablas de frecuencia", "gráficas de barras", "media", "mediana", "moda"] }
+];
+const G6_SCI = [
+    { id: 1, name: "Periodo 1: La Célula", topics: ["célula", "organelos", "niveles de organización", "seres vivos"] },
+    { id: 2, name: "Periodo 2: Clasificación de los Seres Vivos", topics: ["reinos de la naturaleza", "taxonomía", "ecosistemas"] },
+    { id: 3, name: "Periodo 3: La Materia", topics: ["propiedades", "estados de la materia", "mezclas", "separación de mezclas"] },
+    { id: 4, name: "Periodo 4: Energía", topics: ["fuentes de energía", "luz", "sonido", "calor"] }
+];
+const G6_SOC = [
+    { id: 1, name: "Periodo 1: El Universo y la Tierra", topics: ["universo", "sistema solar", "latitud", "longitud", "cartografía"] },
+    { id: 2, name: "Periodo 2: Civilizaciones Antiguas", topics: ["mesopotamia", "egipto", "india", "china"] },
+    { id: 3, name: "Periodo 3: Geografía de Colombia", topics: ["relieve", "hidrografía", "climas de colombia"] },
+    { id: 4, name: "Periodo 4: Convivencia y Ciudadanía", topics: ["manual de convivencia", "gobierno escolar", "derechos humanos"] }
+];
+
 // --- GRADE 7 ---
 const G7_MATH = [
-    { id: 1, name: "Periodo 1: Números Enteros y Racionales", topics: ["numeros enteros", "numeros racionales", "operaciones con fracciones", "potenciacion"] },
+    { id: 1, name: "Periodo 1: Números Enteros y Racionales", topics: ["números enteros", "números racionales", "operaciones con fracciones", "potenciación"] },
     { id: 2, name: "Periodo 2: Proporcionalidad", topics: ["proporciones", "porcentajes", "regla de tres", "magnitudes"] },
     { id: 3, name: "Periodo 3: Álgebra Básica", topics: ["ecuaciones lineales", "variable", "expresiones", "polinomios"] },
-    { id: 4, name: "Periodo 4: Geometría y Estadística", topics: ["transformaciones geometricas", "planos", "estadistica", "probabilidad"] }
+    { id: 4, name: "Periodo 4: Geometría y Estadística", topics: ["transformaciones geométricas", "planos", "estadística", "probabilidad"] }
 ];
 const G7_SCI = [
-    { id: 1, name: "Periodo 1: Célula y Microorganismos", topics: ["la celula", "organelos", "estructura celular", "funcion celular", "microscopio"] },
-    { id: 2, name: "Periodo 2: Sistemas del Cuerpo", topics: ["cuerpo humano", "sistema oseo", "muscular", "excretor", "tejidos"] },
-    { id: 3, name: "Periodo 3: Materia y Energía", topics: ["propiedades de la materia", "tabla periodica basica", "atomos", "elementos"] },
+    { id: 1, name: "Periodo 1: Célula y Microorganismos", topics: ["la célula", "organelos", "estructura celular", "función celular", "microscopio"] },
+    { id: 2, name: "Periodo 2: Sistemas del Cuerpo", topics: ["cuerpo humano", "sistema óseo", "muscular", "excretor", "tejidos"] },
+    { id: 3, name: "Periodo 3: Materia y Energía", topics: ["propiedades de la materia", "tabla periódica básica", "átomos", "elementos"] },
     { id: 4, name: "Periodo 4: Ecología", topics: ["ecosistemas", "relaciones", "ciclos", "medio ambiente"] }
+];
+const G7_SOC = [
+    { id: 1, name: "Periodo 1: Edad Media", topics: ["feudalismo", "imperio bizantino", "islam", "cruzadas"] },
+    { id: 2, name: "Periodo 2: Renacimiento y Reforma", topics: ["humanismo", "descubrimiento de américa", "conquista"] },
+    { id: 3, name: "Periodo 3: Geografía Humana", topics: ["población", "migraciones", "demografía"] },
+    { id: 4, name: "Periodo 4: Constitución y Democracia", topics: ["ramas del poder", "mecanismos de participación"] }
+];
+
+// --- GRADE 8 ---
+const G8_MATH = [
+    { id: 1, name: "Periodo 1: Álgebra I", topics: ["expresiones algebraicas", "monomios", "polinomios"] },
+    { id: 2, name: "Periodo 2: Álgebra II", topics: ["productos notables", "factorización"] },
+    { id: 3, name: "Periodo 3: Geometría", topics: ["teorema de pitágoras", "triángulos"] },
+    { id: 4, name: "Periodo 4: Estadística", topics: ["medidas de tendencia central", "probabilidad"] }
+];
+const G8_SCI = [
+    { id: 1, name: "Periodo 1: Biología Celular", topics: ["reproducción celular", "genética mendeliana"] },
+    { id: 2, name: "Periodo 2: Sistemas Humanos", topics: ["sistema nervioso", "endocrino"] },
+    { id: 3, name: "Periodo 3: Química", topics: ["tabla periódica", "enlaces químicos"] },
+    { id: 4, name: "Periodo 4: Física", topics: ["movimiento rectilíneo", "fuerza"] }
+];
+const G8_SOC = [
+    { id: 1, name: "Periodo 1: Siglo XVIII y XIX", topics: ["ilustración", "revolución francesa", "independencia de colombia"] },
+    { id: 2, name: "Periodo 2: Revolución Industrial", topics: ["capitalismo", "imperialismo"] },
+    { id: 3, name: "Periodo 3: Geografía Física", topics: ["clima", "ecosistemas mundiales"] },
+    { id: 4, name: "Periodo 4: Ética y Sociedad", topics: ["derechos civiles", "participación"] }
+];
+const G8_HUM = [
+    { id: 1, name: "Periodo 1", topics: ["literatura precolombina"] },
+    { id: 2, name: "Periodo 2", topics: ["literatura de la colonia"] },
+    { id: 3, name: "Periodo 3", topics: ["vanguardias"] },
+    { id: 4, name: "Periodo 4", topics: ["ensayo"] }
 ];
 
 // --- GRADE 9 ---
 const G9_MATH = [
-    { id: 1, name: "Periodo 1: Sistemas de Ecuaciones", topics: ["ecuaciones lineales", "sistema de ecuaciones", "metodos de solucion", "algebra"] },
-    { id: 2, name: "Periodo 2: Funciones", topics: ["funciones lineales", "funciones cuadraticas", "exponenciales", "graficas"] },
-    { id: 3, name: "Periodo 3: Geometría Avanzada", topics: ["geometria del espacio", "volumen", "pitagoras", "semejanza", "teorema", "figuras planas"] },
-    { id: 4, name: "Periodo 4: Estadística Inferencial", topics: ["estadistica", "medidas de tendencia central", "medidas de dispersion", "probabilidad"] }
+    { id: 1, name: "Periodo 1: Sistemas de Ecuaciones", topics: ["ecuaciones lineales", "sistema de ecuaciones", "métodos de solución", "álgebra"] },
+    { id: 2, name: "Periodo 2: Funciones", topics: ["funciones lineales", "funciones cuadráticas", "exponenciales", "gráficas"] },
+    { id: 3, name: "Periodo 3: Geometría Avanzada", topics: ["geometría del espacio", "volumen", "pitágoras", "semejanza", "teorema", "figuras planas"] },
+    { id: 4, name: "Periodo 4: Estadística Inferencial", topics: ["estadística", "medidas de tendencia central", "medidas de dispersión", "probabilidad"] }
 ];
 const G9_SCI = [
-    { id: 1, name: "Periodo 1: Genética y Evolución", topics: ["genetica", "herencia", "adn", "leyes de mendel", "evolucion", "origen de la vida", "taxonomia"] },
+    { id: 1, name: "Periodo 1: Genética y Evolución", topics: ["genética", "herencia", "adn", "leyes de mendel", "evolución", "origen de la vida", "taxonomía"] },
     { id: 2, name: "Periodo 2: Sistemas Biológicos", topics: ["sistema nervioso", "endocrino", "sentidos", "inmune"] },
-    { id: 3, name: "Periodo 3: Química Inorgánica", topics: ["tabla periodica", "enlaces", "ph", "acidez", "reacciones", "soluciones"] },
-    { id: 4, name: "Periodo 4: Física y Ecología", topics: ["movimiento", "fuerzas", "ondas", "ecosistemas", "ciclos biogeoquimicos"] }
+    { id: 3, name: "Periodo 3: Química Inorgánica", topics: ["tabla periódica", "enlaces", "ph", "acidez", "reacciones", "soluciones"] },
+    { id: 4, name: "Periodo 4: Física y Ecología", topics: ["movimiento", "fuerzas", "ondas", "ecosistemas", "ciclos biogeoquímicos"] }
 ];
 const G9_SOC = [
     { id: 1, name: "Periodo 1: Historia Universal Siglo XX", topics: ["primera guerra mundial", "segunda guerra mundial", "revolucion rusa", "guerra fria", "periodo de entreguerras"] },
@@ -181,7 +233,9 @@ function makeMap(math: any, sci: any, soc: any, lang: any, eng: any, tech: any) 
 export const CURRICULUM_CO: CountryCurriculum = {
     3: makeMap(G3_MATH, G3_SCI, G3_SOC, [{id:1,name:"P1",topics:["comprension"]},{id:2,name:"P2",topics:["gramatica"]},{id:3,name:"P3",topics:["cuento"]},{id:4,name:"P4",topics:["vocabulario"]}], G3_ENG, null),
     5: makeMap(G5_MATH, G5_SCI, [{id:1,name:"P1",topics:["estado"]},{id:2,name:"P2",topics:["democracia"]},{id:3,name:"P3",topics:["colombia"]},{id:4,name:"P4",topics:["ciudadania"]}], [{id:1,name:"P1",topics:["narrativo"]},{id:2,name:"P2",topics:["gramatica"]},{id:3,name:"P3",topics:["ortografia"]},{id:4,name:"P4",topics:["comprension"]}], null, null),
-    7: makeMap(G7_MATH, G7_SCI, null, [{id:1,name:"P1",topics:["narrativo"]},{id:2,name:"P2",topics:["argumentativo"]},{id:3,name:"P3",topics:["ortografia"]},{id:4,name:"P4",topics:["comprension"]}], null, null),
+    6: makeMap(G6_MATH, G6_SCI, G6_SOC, [{id:1,name:"P1",topics:["narrativo"]},{id:2,name:"P2",topics:["informativo"]},{id:3,name:"P3",topics:["ortografía"]},{id:4,name:"P4",topics:["comprensión"]}], null, null),
+    7: makeMap(G7_MATH, G7_SCI, G7_SOC, [{id:1,name:"P1",topics:["narrativo"]},{id:2,name:"P2",topics:["argumentativo"]},{id:3,name:"P3",topics:["ortografía"]},{id:4,name:"P4",topics:["comprensión"]}], null, null),
+    8: makeMap(G8_MATH, G8_SCI, G8_SOC, G8_HUM, null, null),
     9: makeMap(G9_MATH, G9_SCI, G9_SOC, [{id:1,name:"P1",topics:["argumentacion"]},{id:2,name:"P2",topics:["opinion"]},{id:3,name:"P3",topics:["literatura"]},{id:4,name:"P4",topics:["critica"]}], G9_ENG, null),
     10: makeMap(
         [{id:1,name:"P1: Trigonometría",topics:["trigonometria","seno","coseno"]},{id:2,name:"P2: Funciones",topics:["funciones","conicas"]},{id:3,name:"P3: Introducción Cálculo",topics:["limites"]},{id:4,name:"P4: Estadística",topics:["estadistica"]}],
