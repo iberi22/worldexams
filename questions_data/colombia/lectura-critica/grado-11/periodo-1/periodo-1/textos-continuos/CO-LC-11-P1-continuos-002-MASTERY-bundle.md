@@ -197,7 +197,7 @@ Análisis de la intención comunicativa profunda. Evaluar cómo el autor utiliza
 **ICFES:** Reflexionar a partir de un texto y evaluar su contenido.
 
 ### Contexto
-Se le pide a un estudiante que integre las visiones de "La paradoja de la IA" y "El microbioma humano". 
+Se le pide a un estudiante que integre las visiones de "La paradoja de la IA" y "El microbioma humano".
 
 ### Enunciado
 ¿Cuál de las siguientes síntesis refleja un pensamiento crítico superior sobre ambos textos?

@@ -57,6 +57,12 @@ saberparatodos/template-openicfes/.env.local
 # OS
 .DS_Store
 Thumbs.db
+nul
+
+# Local debug / scratch artifacts from desktop runs
+debug_exec.*
+.worldexams/
+tutorial-video/
 
 # Planning documents (hide from public)
 

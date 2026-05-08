@@ -1,5 +1,8 @@
 ---
-import { countryConfig } from '../config';
+import { countryConfig as defaultConfig, toRuntimeCountryConfig } from '../config';
+import CountrySwitcher from './CountrySwitcher.svelte';
+
+const countryConfig = Astro.locals.country ? toRuntimeCountryConfig(Astro.locals.country) : defaultConfig;
 
 const currentYear = new Date().getFullYear();
 
@@ -10,6 +13,7 @@ const footerLinks = {
     { href: '/guia-examen', label: `Guia ${countryConfig.product.guideLabel} ${countryConfig.product.guideYear}` },
     { href: '/changelog', label: 'Changelog & Versiones' },
     { href: '/sobre-nosotros', label: 'Sobre Nosotros' },
+    { href: '/explorar', label: 'Base de Datos Abierta' },
     { href: '/contacto', label: 'Contacto' },
   ],
   legal: [
@@ -129,6 +133,11 @@ const footerLinks = {
       <p class="disclaimer">
         No afiliado oficialmente con {countryConfig.institutionName}. Contenido educativo basado en informacion publica.
       </p>
+    </div>
+
+    <!-- Seccion extra para el selector de país -->
+    <div class="footer-switcher mt-6 flex justify-center md:justify-end">
+      <CountrySwitcher client:idle currentCountryCode={countryConfig.code} />
     </div>
   </div>
 

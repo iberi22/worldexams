@@ -40,4 +40,3 @@ export async function prepareStopModeQuestions(params: {
   const { validQuestions } = filterValidQuestions(pool, 2);
   return shuffle(validQuestions).slice(0, totalQuestions);
 }
-
