@@ -4,19 +4,30 @@
 
 ## 📦 Módulos
 
+- `agent-work`
 - `apps`
-- `services`
 - `config`
 - `docs`
-- `scripts`
-- `saberparatodos`
+- `jobs`
+- `memory`
 - `questions_data`
 - `reports`
+- `saberparatodos`
+- `scripts`
+- `services`
+- `skills`
+- `sociales`
+- `src`
+- `supabase`
+- `tests`
+- `tools`
+- `tutorial-video`
+- `video-pipeline`
 
 ## 🚀 Estado
 
 - Análisis automático: ACTIVO
-- Última actualización: 2026-03-27
+- Última actualización: 2026-04-25
 
 ## 📝 Descripción
 

@@ -42,8 +42,8 @@ export function isEntryQuarantined(entry: QuestionEntry): boolean {
 export function cleanExplanation(explanation: string | undefined): string | undefined {
   if (!explanation) return undefined;
 
-  // Remove ## 📊 Metadata/Metadados de Validación section and everything after
-  let cleaned = explanation.replace(/##\s*📊\s*(?:Metadata|Metadados)\s*de\s*Valida(?:ción|ção)[\s\S]*/gi, '');
+  // Remove ## 📊 Metadata de Validación section and everything after
+  let cleaned = explanation.replace(/##\s*📊\s*Metadata\s*de\s*Validación[\s\S]*/gi, '');
 
   // Remove markdown table lines starting with |
   cleaned = cleaned.replace(/^\|.*\|$/gm, '');
@@ -109,12 +109,12 @@ export function normalizeDifficulty(difficulty: number | string | undefined): nu
   const text = String(difficulty).toLowerCase().trim();
 
   // Map common text patterns to difficulty levels
-  if (text.includes('very easy') || text.includes('muy fácil') || text.includes('muy facil') || text.includes('muito fácil') || text.includes('muito facil')) return 1;
+  if (text.includes('very easy') || text.includes('muy fácil') || text.includes('muy facil')) return 1;
   if (text.includes('easy') || text.includes('low') || text.includes('fácil') || text.includes('facil') || text.includes('bajo')) return 2;
   if (text.includes('medium') || text.includes('media') || text.includes('medio')) return 3;
-  if (text.includes('very hard') || text.includes('muy difícil') || text.includes('muy dificil') || text.includes('muito difícil') || text.includes('muito dificil')) return 5;
+  if (text.includes('very hard') || text.includes('muy difícil') || text.includes('muy dificil')) return 5;
   if (text.includes('hard') || text.includes('high') || text.includes('difícil') || text.includes('dificil') || text.includes('alto')) return 4;
-  if (text.includes('very hard') || text.includes('very difficult') || text.includes('muy difícil') || text.includes('muy dificil') || text.includes('muito difícil') || text.includes('muito dificil')) return 5;
+  if (text.includes('very hard') || text.includes('very difficult') || text.includes('muy difícil') || text.includes('muy dificil')) return 5;
 
   // Try to extract a number from the text
   const numMatch = text.match(/\d+/);
@@ -139,7 +139,7 @@ export function parseQuestion(entry: QuestionEntry): Question {
   const frontmatter = entry.data;
 
   // Check if it's a bundle format (has ## Pregunta sections)
-  if (body.includes('## Pregunta') || body.includes('## Question') || body.includes('## Questão')) {
+  if (body.includes('## Pregunta') || body.includes('## Question')) {
     // Parse bundle and return first question for backwards compatibility
     const questions = parseBundleQuestions(entry);
     if (questions.length > 0) {
@@ -231,7 +231,7 @@ export function parseBundleQuestions(entry: QuestionEntry): ParsedBundleQuestion
   // Match ## Pregunta N or ## Question N sections
   // We use ^|\n to ensure we match start of lines, preventing matches on inline text
   // We specifically look for "## " to avoid matching "### "
-  const sectionRegex = /(?:^|\n)## (?:Pregunta|Question|Questão)\s+(\d+)\s*\(([^)]+)\)[\s\S]*?(?=(?:^|\n)## (?:Pregunta|Question|Questão)\s+\d+|(?:^|\n)## 📊 (?:Metadata|Metadados)|---\s*$|$)/gi;
+  const sectionRegex = /(?:^|\n)## (?:Pregunta|Question)\s+(\d+)\s*\(([^)]+)\)[\s\S]*?(?=(?:^|\n)## (?:Pregunta|Question)\s+\d+|(?:^|\n)## 📊 Metadata|---\s*$|$)/gi;
 
   let match;
   while ((match = sectionRegex.exec(body)) !== null) {
@@ -275,7 +275,7 @@ function parseQuestionSection(
   const specificContext = contextMatch ? contextMatch[1].trim() : undefined;
 
   // Extract enunciado/question text
-  const enunciadoMatch = content.match(/### (?:Enunciado|Question)\s+([\s\S]*?)(?=### (?:Opciones|Options|Opções))/i);
+  const enunciadoMatch = content.match(/### (?:Enunciado|Question)\s+([\s\S]*?)(?=### (?:Opciones|Options))/i);
   const questionText = enunciadoMatch ? enunciadoMatch[1].trim() : '';
 
   if (!questionText) {
@@ -283,7 +283,7 @@ function parseQuestionSection(
   }
 
   // Extract options
-  const optionsMatch = content.match(/### (?:Opciones|Options|Opções)\s+([\s\S]*?)(?=### (?:Explicación|Explanation|Explicação)|$)/i);
+  const optionsMatch = content.match(/### (?:Opciones|Options)\s+([\s\S]*?)(?=### (?:Explicación|Explanation)|$)/i);
   const optionsBlock = optionsMatch ? optionsMatch[1].trim() : '';
 
   const options: Option[] = [];
@@ -307,9 +307,9 @@ function parseQuestionSection(
   // Extract explanation
   // Look for header, then capture everything until:
   // 1. Horizontal rule (---) at end of line indicating section end
-  // 2. Start of ANOTHER question section (## Pregunta/Question/Questão)
+  // 2. Start of ANOTHER question section (## Pregunta/Question)
   // 3. End of string ($)
-  const explanationMatch = content.match(/### (?:Explicación Pedagógica|Explanation|Explicação Pedagógica)\s+([\s\S]*?)(?=---\s*$|## (?:Pregunta|Question|Questão)|$)/i);
+  const explanationMatch = content.match(/### (?:Explicación Pedagógica|Explanation)\s+([\s\S]*?)(?=---\s*$|## (?:Pregunta|Question)|$)/i);
   const explanation = cleanExplanation(explanationMatch ? explanationMatch[1].trim() : undefined) || '';
 
   // Extract competency
@@ -354,11 +354,11 @@ function parseVariantType(sectionType: string): { type: ParsedBundleQuestion['va
   }
 
   // v3.0 format: Muy Difícil A/B (difficulty 5)
-  if (normalized.includes('muy difícil a') || normalized.includes('very hard a') || normalized.includes('very difficult a') || normalized.includes('muito dificil a')) {
+  if (normalized.includes('muy difícil a') || normalized.includes('very hard a') || normalized.includes('very difficult a')) {
     const diffMatch = normalized.match(/dificultad\s*(\d)/i);
     return { type: 'Difícil A', difficulty: diffMatch ? parseInt(diffMatch[1]) : 5 };
   }
-  if (normalized.includes('muy difícil b') || normalized.includes('very hard b') || normalized.includes('very difficult b') || normalized.includes('muito dificil b')) {
+  if (normalized.includes('muy difícil b') || normalized.includes('very hard b') || normalized.includes('very difficult b')) {
     const diffMatch = normalized.match(/dificultad\s*(\d)/i);
     return { type: 'Difícil B', difficulty: diffMatch ? parseInt(diffMatch[1]) : 5 };
   }

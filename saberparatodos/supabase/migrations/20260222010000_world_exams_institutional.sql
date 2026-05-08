@@ -70,7 +70,7 @@ CREATE POLICY "Org members can read groups" ON public.organization_groups FOR SE
 CREATE POLICY "Org members can insert groups" ON public.organization_groups FOR INSERT TO public WITH CHECK (true);
 
 -- Add invite_code to organizations if not exists
-DO $$ 
+DO $$
 BEGIN
     IF NOT EXISTS (SELECT 1 FROM information_schema.columns WHERE table_name = 'organizations' AND column_name = 'invite_code') THEN
         ALTER TABLE organizations ADD COLUMN invite_code varchar(10) UNIQUE;

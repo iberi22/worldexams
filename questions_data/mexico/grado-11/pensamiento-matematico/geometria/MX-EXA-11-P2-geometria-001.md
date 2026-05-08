@@ -354,4 +354,3 @@ Un octaedro regular tiene arista 6 cm. Cual es su volumen?
 # Explicacion
 
 V = (sqrt(2)/3) a3 = 1.414/3 x 216 = 101.8 cm3. Respuesta A.
-

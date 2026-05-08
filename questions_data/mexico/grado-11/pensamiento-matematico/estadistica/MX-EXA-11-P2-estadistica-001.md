@@ -354,4 +354,3 @@ Un examen tiene 80 preguntas con 4 opciones cada una. Un alumno contesta todo al
 # Explicacion
 
 n=80, p=0.25. mu = np = 20, sigma = sqrt(15) = 3.87. P(X>=25) con correccion de continuidad: Z = (24.5-20)/3.87 = 1.16 --> P(Z>=1.16) = 0.123. Respuesta A.
-

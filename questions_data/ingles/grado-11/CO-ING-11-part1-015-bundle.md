@@ -177,4 +177,3 @@ Diabetes is a metabolic disease that causes high blood sugar. Hypertension is hi
 | 5 | CO-ING-11-part1-015-v5 | 3 | ⬜ |
 | 6 | CO-ING-11-part1-015-v6 | 5 | ⬜ |
 | 7 | CO-ING-11-part1-015-v7 | 5 | ⬜ |
-

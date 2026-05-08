@@ -29,10 +29,10 @@ license: "CC BY-NC-SA 4.0"
 
 Choose the most appropriate response to: "What do you think about online education?"
 
-A) I think it is very convenient for people with tight schedules. [x]  
-B) I don't know how to use a computer.  
-C) The weather is nice today.  
-D) Yes, I agree with you.  
+A) I think it is very convenient for people with tight schedules. [x]
+B) I don't know how to use a computer.
+C) The weather is nice today.
+D) Yes, I agree with you.
 
 ---
 
@@ -41,22 +41,22 @@ D) Yes, I agree with you.
 
 Which sentence is the most polite way to ask for directions?
 
-A) Where is the train station?  
-B) Could you please tell me how to get to the train station? [x]  
-C) Tell me where the train station is.  
-D) Hey, where's the train station?  
+A) Where is the train station?
+B) Could you please tell me how to get to the train station? [x]
+C) Tell me where the train station is.
+D) Hey, where's the train station?
 
 ---
 
 ### Question 3 — Difficulty 4
 **Topic:** Expressing agreement/disagreement
 
-Choose the correct response: "I believe students should learn a second language from a young age." 
+Choose the correct response: "I believe students should learn a second language from a young age."
 
-A) I totally disagree; children should only play at that age.  
-B) I agree with you because early exposure to languages improves cognitive development. [x]  
-C) I don't know anything about languages.  
-D) That is the worst idea I have ever heard.  
+A) I totally disagree; children should only play at that age.
+B) I agree with you because early exposure to languages improves cognitive development. [x]
+C) I don't know anything about languages.
+D) That is the worst idea I have ever heard.
 
 ---
 
@@ -65,10 +65,10 @@ D) That is the worst idea I have ever heard.
 
 When someone says "Could you please pass me the salt?", they are:
 
-A) Making a suggestion.  
-B) Asking for something politely. [x]  
-C) Giving an order.  
-D) Apologizing.  
+A) Making a suggestion.
+B) Asking for something politely. [x]
+C) Giving an order.
+D) Apologizing.
 
 ---
 
@@ -81,10 +81,10 @@ D) Apologizing.
 
 Which sentence is the most appropriate for a formal business email?
 
-A) Hey, just wanted to let you know the meeting's been moved.  
-B) Dear Mr. Pérez, I am writing to inform you that the meeting has been rescheduled to Monday at 9 AM. [x]  
-C) Yo, the meeting is changed, alright?  
-D) What's up? The meeting moved, man.  
+A) Hey, just wanted to let you know the meeting's been moved.
+B) Dear Mr. Pérez, I am writing to inform you that the meeting has been rescheduled to Monday at 9 AM. [x]
+C) Yo, the meeting is changed, alright?
+D) What's up? The meeting moved, man.
 
 ---
 
@@ -93,10 +93,10 @@ D) What's up? The meeting moved, man.
 
 A classmate says: "Oh, that's a really interesting choice of words." What is the likely tone?
 
-A) Genuinely curious.  
-B) Sarcastic or critical. [x]  
-C) Happy and excited.  
-D) Bored and tired.  
+A) Genuinely curious.
+B) Sarcastic or critical. [x]
+C) Happy and excited.
+D) Bored and tired.
 
 ---
 
@@ -105,10 +105,10 @@ D) Bored and tired.
 
 Which statement would be most effective in persuading a friend to vote?
 
-A) You should vote because it is your civic responsibility and it shapes the future of our community. [x]  
-B) Voting is useless; politicians don't care about us.  
-C) I don't care whether you vote or not.  
-D) Only old people vote anyway.  
+A) You should vote because it is your civic responsibility and it shapes the future of our community. [x]
+B) Voting is useless; politicians don't care about us.
+C) I don't care whether you vote or not.
+D) Only old people vote anyway.
 
 ---
 
@@ -117,10 +117,10 @@ D) Only old people vote anyway.
 
 Which option best paraphrases: "Renewable energy sources are becoming more affordable every year"?
 
-A) Solar and wind power are getting cheaper as technology improves. [x]  
-B) Renewable energy is too expensive for most countries.  
-C) Fossil fuels are the only affordable energy sources.  
-D) Energy prices are increasing every year.  
+A) Solar and wind power are getting cheaper as technology improves. [x]
+B) Renewable energy is too expensive for most countries.
+C) Fossil fuels are the only affordable energy sources.
+D) Energy prices are increasing every year.
 
 ---
 
@@ -129,10 +129,10 @@ D) Energy prices are increasing every year.
 
 In a discussion about cultural differences, a student says: "In my country, it is considered impolite to arrive late to a dinner invitation." This is an example of:
 
-A) Making a complaint about a country.  
-B) Comparing cultural norms and expectations. [x]  
-C) Refusing to accept other cultures.  
-D) Making a joke about social customs.  
+A) Making a complaint about a country.
+B) Comparing cultural norms and expectations. [x]
+C) Refusing to accept other cultures.
+D) Making a joke about social customs.
 
 ---
 
@@ -141,10 +141,10 @@ D) Making a joke about social customs.
 
 Which sentence expresses the most appropriate speculation about the future?
 
-A) If global temperatures continue to rise, many coastal cities could face serious flooding. [x]  
-B) The world was flat before.  
-C) Dinosaurs never existed.  
-D) Nobody knows anything about the past.  
+A) If global temperatures continue to rise, many coastal cities could face serious flooding. [x]
+B) The world was flat before.
+C) Dinosaurs never existed.
+D) Nobody knows anything about the past.
 
 ---
 
@@ -157,10 +157,10 @@ D) Nobody knows anything about the past.
 
 A teacher says: "This assignment was due last week, and yet I see several students haven't submitted it yet." The teacher is most likely:
 
-A) Praising the students for their hard work.  
-B) Expressing disappointment or mild disapproval. [x]  
-C) Asking for volunteers to do the assignment.  
-D) Giving extra time to complete the assignment.  
+A) Praising the students for their hard work.
+B) Expressing disappointment or mild disapproval. [x]
+C) Asking for volunteers to do the assignment.
+D) Giving extra time to complete the assignment.
 
 ---
 
@@ -169,10 +169,10 @@ D) Giving extra time to complete the assignment.
 
 Which sentence best introduces a counterargument in a formal discussion?
 
-A) I disagree with your point because...  
-B) While some people believe X, others argue that Y. [x]  
-C) You are completely wrong and here is why.  
-D) Nobody in their right mind would think that.  
+A) I disagree with your point because...
+B) While some people believe X, others argue that Y. [x]
+C) You are completely wrong and here is why.
+D) Nobody in their right mind would think that.
 
 ---
 
@@ -181,10 +181,10 @@ D) Nobody in their right mind would think that.
 
 Which statement shows the most genuine empathy?
 
-A) I understand how difficult this situation must be for you, and I am here to help in any way I can. [x]  
-B) I don't care about your problems.  
-C) Things could always be worse, you know.  
-D) You should just move on and forget about it.  
+A) I understand how difficult this situation must be for you, and I am here to help in any way I can. [x]
+B) I don't care about your problems.
+C) Things could always be worse, you know.
+D) You should just move on and forget about it.
 
 ---
 
@@ -193,10 +193,10 @@ D) You should just move on and forget about it.
 
 Which expression is most appropriate in an academic presentation?
 
-A) The data suggests a strong correlation between the variables under investigation. [x]  
-B) We found some stuff that kind of proves our point.  
-C) The experiment went well, dude.  
-D) I think the numbers mean what they mean, you know?  
+A) The data suggests a strong correlation between the variables under investigation. [x]
+B) We found some stuff that kind of proves our point.
+C) The experiment went well, dude.
+D) I think the numbers mean what they mean, you know?
 
 ---
 
@@ -205,10 +205,10 @@ D) I think the numbers mean what they mean, you know?
 
 A friend says: "Great job staying up until 3 AM studying for the test!" What does this most likely mean?
 
-A) He is genuinely complimenting you.  
-B) He is suggesting that you should study more.  
-C) He is using irony to imply that lack of sleep hurt your performance. [x]  
-D) He wants to copy your notes.  
+A) He is genuinely complimenting you.
+B) He is suggesting that you should study more.
+C) He is using irony to imply that lack of sleep hurt your performance. [x]
+D) He wants to copy your notes.
 
 ---
 
@@ -217,10 +217,10 @@ D) He wants to copy your notes.
 
 In a debate, a participant says: "On the one hand, technology has revolutionized education; on the other hand, it has increased screen time and isolation among young people." This statement:
 
-A) Presents a balanced view acknowledging both advantages and disadvantages. [x]  
-B) Strongly defends technology in education.  
-C) Strongly criticizes technology in education.  
-D) Refuses to take any position on technology.  
+A) Presents a balanced view acknowledging both advantages and disadvantages. [x]
+B) Strongly defends technology in education.
+C) Strongly criticizes technology in education.
+D) Refuses to take any position on technology.
 
 ---
 
@@ -233,10 +233,10 @@ D) Refuses to take any position on technology.
 
 An advertisement reads: "Everyone is switching to this product — don't be the only one left out!" The rhetorical strategy used is:
 
-A) Logical reasoning based on facts.  
-B) Appeal to popularity (bandwagon effect). [x]  
-C) Credibility from experts.  
-D) Emotional storytelling.  
+A) Logical reasoning based on facts.
+B) Appeal to popularity (bandwagon effect). [x]
+C) Credibility from experts.
+D) Emotional storytelling.
 
 ---
 
@@ -245,10 +245,10 @@ D) Emotional storytelling.
 
 In a multicultural workplace, a colleague from one culture frequently uses direct criticism in meetings. A culturally-aware response would be to:
 
-A) Publicly call them out for being rude.  
-B) Consider that cultural communication styles differ and address the issue respectfully and privately if needed. [x]  
-C) Ignore all feedback from that colleague.  
-D) Assume they are intentionally trying to offend you.  
+A) Publicly call them out for being rude.
+B) Consider that cultural communication styles differ and address the issue respectfully and privately if needed. [x]
+C) Ignore all feedback from that colleague.
+D) Assume they are intentionally trying to offend you.
 
 ---
 
@@ -257,10 +257,10 @@ D) Assume they are intentionally trying to offend you.
 
 Which statement best demonstrates critical thinking in a classroom discussion about immigration policy?
 
-A) Immigrants take jobs from locals, so we should close all borders.  
-B) We should eliminate all immigration restrictions immediately.  
-C) The issue requires examining economic data, social impacts, and human rights perspectives before forming a position. [x]  
-D) My country is the best, so we don't need immigrants.  
+A) Immigrants take jobs from locals, so we should close all borders.
+B) We should eliminate all immigration restrictions immediately.
+C) The issue requires examining economic data, social impacts, and human rights perspectives before forming a position. [x]
+D) My country is the best, so we don't need immigrants.
 
 ---
 
@@ -269,7 +269,7 @@ D) My country is the best, so we don't need immigrants.
 
 A student uses the phrase "I reckon that might be a good idea" in an oral presentation. This phrase indicates:
 
-A) The student is unsure of the topic.  
-B) The student is expressing a personal opinion in a tentative and appropriately formal manner. [x]  
-C) The student is giving a direct order.  
-D) The student is making a joke.  
+A) The student is unsure of the topic.
+B) The student is expressing a personal opinion in a tentative and appropriately formal manner. [x]
+C) The student is giving a direct order.
+D) The student is making a joke.

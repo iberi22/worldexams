@@ -237,7 +237,7 @@ La conclusion valida no sobreinterpreta el dato.
 
 ## Texto Base 3: Titular y cuerpo breve
 
-**Titular:** *Sube la factura de energia, baja el consumo en hogares.*  
+**Titular:** *Sube la factura de energia, baja el consumo en hogares.*
 **Cuerpo:** *La empresa reporto una disminucion de 8% en el uso residencial, aunque aclaro que el cambio coincide con un mes de temperaturas mas bajas.*
 
 ## Question 11 (D7)
@@ -334,9 +334,9 @@ La aclaracion reduce el riesgo de una causalidad apresurada.
 
 ## Texto Base 4: Publicacion y comentarios
 
-*Post: "La juventud ya no lee, solo desliza pantallas."  
-Comentario 1: "Lo vi en mi salon, asi que es verdad."  
-Comentario 2: "La publicacion mezcla una sensacion con una conclusion total."  
+*Post: "La juventud ya no lee, solo desliza pantallas."
+Comentario 1: "Lo vi en mi salon, asi que es verdad."
+Comentario 2: "La publicacion mezcla una sensacion con una conclusion total."
 Comentario 3: "Si todos lo repiten, deja de ser opinion."*
 
 ## Question 16 (D9)
